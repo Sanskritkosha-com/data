@@ -49,5 +49,49 @@
             "pagenum": 212,
             "content": "गर्ग¦ <i>garga</i> <ab>m.</ab> <ab>np.</ab> d'un <s1 slp1='fzi'>Ṛṣi</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गर्ग",
+            "eid": "9312",
+            "pagenum": 149,
+            "content": "गर्ग¦ <lex>m.</lex> a man's name; <lex>f.</lex> आ & ई a woman's name."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गर्ग",
+            "eid": "6061",
+            "pagenum": 105,
+            "content": "गर्ग¦ <i>m. Mannsname; f.</i> आ <i>u.</i> ई <i>Frauenn.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "गर्ग",
+            "eid": "4050",
+            "pagenum": 299,
+            "content": "<b>Garga</b>,¦ a ṛṣi. § 615<i>e</i> (Gargasrotas): IX, <b>37</b>, 2132 (<i>atra</i>— i.e. in Gargasrotas—<i>G°ena vṛddhena…kālajñānagatiś caiva</i> <i>jyotiṣāṃ vyatikramaḥ | utpātā dāruṇāś caiva śubhāś ca</i>), 2135. —§ 615<i>ii</i> (Vṛddhakanyā): IX, <b>52</b>, 2981 (<i>Kuṇiḥ</i>), 2982 (do.).—§ 641<i>f</i> (Pṛthu Vainya): XII, <b>59</b>, 2232 (the astrologer (<i>sāṃvatsaraḥ</i>) of Pṛthu Vainya).—§ 707 (Mokṣadh.): XII, <b>319</b>β, 11783 (had instructed Viśvāvasu).—§ 730 (Ānuśāsanik.): XIII, <b>18</b>κκ, (1334) (Śiva bestowed on <i>G.</i>, who gratified him on the bank of Sarasvatī, the knowledge of time with its sixty-four branches (<i>catuḥṣaṣṭyaṅgaṃ…kāla-</i> <i>jñānaṃ</i>) and 1000 sons; through the grace of Śiva the lifetime of <i>G</i>. and his sons became extended to ten millions of years)."
+        },
+        {
+            "word": "गर्ग",
+            "eid": "4051",
+            "pagenum": 299,
+            "content": "<b>Garga</b>,¦ pl. (“the descendants of Garga”), a family of ṛṣis. § 602 (Droṇavadhap.): VII, <b>190</b>ν, 8728."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गर्ग",
+            "eid": "11807",
+            "pagenum": 237,
+            "content": "garga¦ <i>(I) m.</i> 1. Name of an old sage, one of the sons of Brahman (m.); 2. a bull; 3. an earth worm."
+        },
+        {
+            "word": "गर्ग",
+            "eid": "11808",
+            "pagenum": 237,
+            "content": "garga¦ <i>(II) m. pl.</i> The descendants of Garga."
+        }
     ]
 }

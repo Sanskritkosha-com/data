@@ -89,5 +89,75 @@
             "pagenum": 406,
             "content": "पान¦ <i>pāna</i> <ab>n.</ab> <i>(pā</i> boire) action de boire. breuvage; || vase à boire. -- <ab>M.</ab> distillateur.  <P><i>pānagoṣṭikā</i> <ab>f.</ab> cabaret.  <P><i>pānapātra</i> <ab>n.</ab> vase à boire.  <P><i>pānasa</i> <ab>n.</ab> liqueur préparée avec le fruit du <i>panasa</i> ou artocarpus.  <P><i>pānila</i> <ab>n.</ab> vase à boire.  <P><i>pānīya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>īya)</i> potable. -- <ab>S.</ab> <ab>n.</ab> eau.  <P><i>pānīyanakula</i> <ab>m.</ab> loutre.  <P><i>pānīyapṛṣṭhaja</i> <ab>m.</ab> pistia stratiotes, <ab>bot.</ab>  <P><i>pānīyaśālikā</i> <ab>f.</ab> <i>(śālā)</i> lieu où l'on donne à boire; cabaret, <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "पान",
+            "eid": "18877",
+            "pagenum": 311,
+            "content": "1 पा/न¦ <lex>n.</lex> drinking, beverage."
+        },
+        {
+            "word": "पान",
+            "eid": "18878",
+            "pagenum": 311,
+            "content": "2 पान/¦ <ab>v.</ab> 3 पा."
+        },
+        {
+            "word": "पान",
+            "eid": "18879",
+            "pagenum": 311,
+            "content": "3 †पान¦ <ab>v.</ab> तनूपा/न."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पान",
+            "eid": "14107",
+            "pagenum": 249,
+            "content": "1. पान/¦ <i>n.</i> das Trinken; Trunk, Getränk, Tränkchen <i>(med.).</i>"
+        },
+        {
+            "word": "पान",
+            "eid": "14108",
+            "pagenum": 249,
+            "content": "2. पान¦ <i>s. 3.</i> पा."
+        },
+        {
+            "word": "पान",
+            "eid": "14109",
+            "pagenum": 249,
+            "content": "3. पान¦ (—°) schützend; <i>n.</i> Schutz, Schirm."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "पान",
+            "eid": "5433",
+            "pagenum": 806,
+            "content": "<b>(pā́na),</b>¦ <ab>n.</ab>, <i>Trunk</i> <ls>AV.</ls> [von <hom>2.</hom> pā], enthalten in indra-, deva-, nṛ-pā́ṇa; <ab>vergl.</ab> ava-, paripā́na."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "पान",
+            "eid": "2550",
+            "pagenum": 189,
+            "content": "<b>pā́na,</b>¦ <div n='2'/><b>—1.</b> <i><ab>n.</ab></i> the drinking (<i><ab>esp.</ab></i> of strong drink); <div n='2'/><b>—2.</b> <i>perhaps as <ab>vbl</ab> <ab>adj.</ab></i> drenching, <lbinfo n='drench-ing,'/> <i><ab>i. e.</ab></i> tränkend. [<b>√1pā,</b> ‘drink,’ <ls n='wg,1150'>1150.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पान",
+            "eid": "22055",
+            "pagenum": 430,
+            "content": "pAna¦ <i>(I) n.</i> 1. Drinking; 2. drinking spirituous liquors, <ls>M.</ls>vii.50, xii.45; 3. a drink, a leverage; 4. a drinking vessel; 5. whetting, sharpening."
+        },
+        {
+            "word": "पान",
+            "eid": "22056",
+            "pagenum": 430,
+            "content": "pAna¦ <i>(II) m.</i> A distiller."
+        }
     ]
 }

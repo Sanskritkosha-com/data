@@ -23,5 +23,41 @@
             "pagenum": 50,
             "content": "अलक्षण¦ <i>alakṣaṇa</i> <ab>a.</ab> <i>(a</i> <ab>priv.</ab>) malheureux."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अलक्षण",
+            "eid": "2965",
+            "pagenum": 43,
+            "content": "1 अलक्षण¦ <lex>n.</lex> inauspicious mark."
+        },
+        {
+            "word": "अलक्षण",
+            "eid": "2966",
+            "pagenum": 43,
+            "content": "2 अलक्षण¦ <lex>a.</lex> unmarked, inauspicious."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अलक्षण",
+            "eid": "424",
+            "pagenum": 121,
+            "content": "<b>a-lakṣaṇá,</b>¦ <i><ab>a.</ab></i> without any characteristic mark; without special mark, <i><ab>i. e.</ab></i> plain, unornamented. [<b>lakṣaṇá.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अलक्षण",
+            "eid": "03555",
+            "pagenum": 69,
+            "content": "alakzaRa¦ <i>(I) a. (f. णा)</i> 1. Having no good marks, inauspicious, क्लेशवहा भर्तुरलक्षणाऽहम् <ls>R.</ls>xiv.5; 2. having no definition."
+        },
+        {
+            "word": "अलक्षण",
+            "eid": "03556",
+            "pagenum": 69,
+            "content": "alakzaRa¦ <i>(II) n.</i> 1. An inauspicious sign; 2. a no definition or bad definition."
+        }
     ]
 }

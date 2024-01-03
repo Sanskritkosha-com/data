@@ -44,5 +44,43 @@
             "pagenum": 686,
             "content": "समीप¦ <i>samīpa</i> <ab>a.</ab> <i>(sam; āp)</i> voisin; contigu; <lbinfo n='5'/> qui est sous la main. -- <ab>S.</ab> <ab>m.</ab> proximité, <lbinfo n='5'/> présence.  <P><i>samīpatas</i> <ab>adv.</ab> auprès de.  <P><i>samīpatā</i> <ab>f.</ab> (<ab>sfx.</ab> <i>tā)</i> voisinage.  <P><i>samīpastha</i> <ab>a.</ab> <i>(sthā)</i> qui se tient auprès, situé dans le voisinage."
         }
+    ],
+    "CAE": [
+        {
+            "word": "समीप",
+            "eid": "35417",
+            "pagenum": 595,
+            "content": "समीप¦ <lex>a.</lex> near (in <ab>sp.</ab> & <lex>f.</lex>). — <lex>n.</lex> nearness, neighbourhood, presence; <ab>acc.</ab> towards, to, <ab>loc.</ab> near, close to, in the presence of, before, towards, to, °तस् from (also <ab>abl.</ab> in आत्), near <ab>etc.</ab> = <ab>loc.</ab> (<ab>gen.</ab> or —°). Abstr. °ता <lex>f.</lex>, °त्व <lex>n.</lex>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "समीप",
+            "eid": "26511",
+            "pagenum": 478,
+            "content": "समीप¦ nahe <i>(örtl. u. zeitl.)</i>, benachbart. <i>n.</i> Nähe, Anwesenheit; <i>mit Gen. o.</i> —° <i>Acc.</i> zu—hin, <i>Abl.</i> von—her, °तस् <i>dass.</i> <i>o.</i> nahe bei, vor, coram, <i>Loc.</i> nahe bei, in Gegenwart von, zu—hin."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "समीप",
+            "eid": "4455",
+            "pagenum": 268,
+            "content": "<b>samīpa,</b>¦ <div n='2'/><b>—1.</b> <i><ab>a.</ab></i> near; <div n='2'/><b>—2.</b> <i>as <ab>n.</ab></i> nearness, <lbinfo n='near-ness,'/> neighborhood, presence; <i>used like</i> <b>antika,</b> <i><ab>q. v.</ab>;</i> <div n='2'/><b>—2a. samīpam,</b> <i><ab>w.</ab> <ab>gen.</ab> or in</i> <i><ab>cpd</ab>,</i> (to the presence of, <i><ab>i. e.</ab>, simply</i>) to, <i><ab>w.</ab> verbs of going,</i> <ls n='lan,6,10'>6<sup>10</sup></ls>, <ls n='lan,27,14'>27<sup>14</sup></ls>, <ls n='lan,33,4'>33<sup>4</sup></ls>, <ls n='lan,44,11'>44<sup>11</sup></ls>; <div n='2'/><b>—2b. samīpe,</b> <i><ab>w.</ab> <ab>gen.</ab> or in <ab>cpd</ab></i> (in the presence <i>or</i> neighborhood of, <i><ab>i. e.</ab>, simply</i>): before, <ls n='lan,2,16'>2<sup>16</sup></ls>; near, <ls n='lan,25,9'>25<sup>9</sup></ls>; hard by, <ls n='lan,34,14'>34<sup>14</sup></ls>; by, <ls n='lan,40,3'>40<sup>3</sup></ls>. [<ab>cf.</ab> <b>pratīpá.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "समीप",
+            "eid": "39845",
+            "pagenum": 761,
+            "content": "samIpa¦ <i>(I) a. (f. पा)</i> Near, at hand."
+        },
+        {
+            "word": "समीप",
+            "eid": "39846",
+            "pagenum": 761,
+            "content": "samIpa¦ <i>(II) n.</i> Proximity, vicinity, पृथिव्या यो शरणं स तव समीपे वर्तते <ls>Sak.</ls>iii.<P>(समीपम्, समीपतस् or समीपे is used as an indeclinable in the sense of ‘near, in the presense of.’)"
+        }
     ]
 }

@@ -28,5 +28,35 @@
             "pagenum": 214,
             "content": "गवल¦ <i>gavala</i> <ab>m.</ab> <i>(go;</i> <ab>sfx.</ab> <i>ala)</i> buffle sauvage. <lbinfo n='5'/> -- <ab>N.</ab> corne de buffle."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गवल",
+            "eid": "9375",
+            "pagenum": 150,
+            "content": "गवल¦ <lex>m.</lex> buffalo."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गवल",
+            "eid": "6113",
+            "pagenum": 106,
+            "content": "गवल¦ <i>m.</i> Büffel."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गवल",
+            "eid": "11956",
+            "pagenum": 239,
+            "content": "gavala¦ <i>(I) m.</i> The wild buffalo."
+        },
+        {
+            "word": "गवल",
+            "eid": "11957",
+            "pagenum": 239,
+            "content": "gavala¦ <i>(II) n.</i> Buffalo’s horn."
+        }
     ]
 }

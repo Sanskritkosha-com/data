@@ -58,5 +58,43 @@
             "pagenum": 387,
             "content": "पद्य¦ <i>padya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ya)</i> qui fait partie d'un mot, <ab>tg.</ab> -- <ab>S.</ab> <ab>n.</ab> partie de mot, <ab>tg.</ab>; || mètre poétique. || <ab>Qqf.</ab> bassesse. -- <ab>S.</ab> <ab>f.</ab> <i>padyā</i> hymne; chant mesuré. || Route. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1='SUdra'>śūdra</s1> [né des pieds de <s1 slp1='brahmA'>Brahmā</s1>]."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पद्य",
+            "eid": "17883",
+            "pagenum": 295,
+            "content": "प/द्य¦ <lex>a.</lex> relating to the foot or consisting of parts of verses; <lex>f.</lex> आ <ab>pl.</ab> footsteps, horses hoofs; <lex>n.</lex> verse, poetry (<ab>opp.</ab> गद्य)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पद्य",
+            "eid": "13270",
+            "pagenum": 235,
+            "content": "प/द्य¦ auf den Fuß <i>o.</i> Vers bezüglich; <i>f.</i> प/द्या Fuß-, Huftritt <i>(nur Pl.); n.</i> Vers, gebundene Rede, Poesie."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "पद्य",
+            "eid": "5232",
+            "pagenum": 771,
+            "content": "<b>pádya,</b>¦ <ab>a.</ab>, <i>den Fuss</i> [pád] <i>betreffend, zum Fusse gehörig</i>. <div n='TS'>-ena rápasā {566,1}—_{566,3}. <div n='TS'>-ā [<ab>pl.</ab> <ab>n.</ab>] vápūṃṣi {289,14}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पद्य",
+            "eid": "21017",
+            "pagenum": 411,
+            "content": "padya¦ <i>(I) m.</i> 1. A <i>Śūdra</i>; 2. a part of a word."
+        },
+        {
+            "word": "पद्य",
+            "eid": "21018",
+            "pagenum": 411,
+            "content": "padya¦ <i>(II) n.</i> 1. A Stanza (पद्यं चतुष्पदी तच्च वृत्तं जातिरिति द्विधा <ls>Ch.M.</ls>i.); 2. a panegyric."
+        }
     ]
 }

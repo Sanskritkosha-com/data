@@ -15,5 +15,37 @@
             "pagenum": 57,
             "content": "अविज्ञेय¦ <i>avijñeya</i> <ab>a.</ab> <i>(jñā)</i> indiscernable."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अविज्ञेय",
+            "eid": "3306",
+            "pagenum": 48,
+            "content": "अविज्ञेय¦ <lex>a.</lex> unknowable, indiscernible."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अविज्ञेय",
+            "eid": "2094",
+            "pagenum": 32,
+            "content": "अविज्ञेय¦ nicht erkennbar."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अविज्ञेय",
+            "eid": "1023",
+            "pagenum": 102,
+            "content": "<b>Avijñeya</b>:¦ Mahāpuruṣastave."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अविज्ञेय",
+            "eid": "464",
+            "pagenum": 122,
+            "content": "<b>a-vijñeya,</b>¦ <i><ab>a.</ab></i> unknowable. [do.]"
+        }
     ]
 }

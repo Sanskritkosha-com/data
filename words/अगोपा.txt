@@ -7,5 +7,29 @@
             "pagenum": 10,
             "content": "अगोपा¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Without a <lbinfo n='cow+herd'/> cowherd; पशुर्नैति स्वयुरगोपाः <ls>Rv. 2. 4. 7.</ls>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अगोपा",
+            "eid": "200",
+            "pagenum": 3,
+            "content": "अ/गोपा¦ <lex>a.</lex> without a cowherd, unguarded."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अगोपा",
+            "eid": "134",
+            "pagenum": 2,
+            "content": "अ/गोपा¦ hirtenlos."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अगोपा",
+            "eid": "75",
+            "pagenum": 8,
+            "content": "<b>á-gopā,</b>¦ <ab>a.</ab>, <i>von keinem Hirten</i> (gopā́) <i>behütet</i>. <div n='TS'>-ās [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] paśús {195,7}. <div n='TS'>-ām [<ab>A.</ab> <ab>s.</ab> <ab>f.</ab>] dhenúm {291,1}. <div n='TS'>-ās [<ab>N.</ab> <ab>p.</ab>] gā́vas {534,10}."
+        }
     ]
 }

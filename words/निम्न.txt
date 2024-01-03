@@ -63,5 +63,43 @@
             "pagenum": 365,
             "content": "निम्न¦ <i>nimna</i> <ab>a.</ab> <i>(mnā)</i> profond.  <P><i>nimnaga</i> <ab>a.</ab> <i>(gam)</i> qui va au fond; qui a un cours profond. -- <ab>S.</ab> <ab>f.</ab> rivière."
         }
+    ],
+    "CAE": [
+        {
+            "word": "निम्न",
+            "eid": "16488",
+            "pagenum": 271,
+            "content": "निम्न/¦ <lex>n.</lex> depth, lowland; <lex>a.</lex> deep, depressed, sunk, <ab>instr.</ab> <ab>pl.</ab> downwards."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "निम्न",
+            "eid": "12082",
+            "pagenum": 214,
+            "content": "निम्न/¦ <i>n.</i> Tiefe, Niederung, Thal; <i>Adj.</i> tief, vertieft, eingedrückt."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "निम्न",
+            "eid": "4996",
+            "pagenum": 732,
+            "content": "<b>nimná,</b>¦ <ab>n.</ab>, <i>Niederung, Vertiefung</i> [von ní]; überall von Wassern, Strömen oder Wellen, die in die Niederung herab, oder durch das Gesenke hinströmen. <div n='TS'>-ám {30,2}; {329,7}; {343,2}; {405,7}; {652,23}; {809,45}. <div n='TS'>-éna {729,1}. <div n='TS'>-é {781,7}. <div n='TS'>-ā́ {57,2} ā́pas 〰 ‿iva. <div n='TS'>-aís {904,5}; {974,5}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "निम्न",
+            "eid": "19516",
+            "pagenum": 381,
+            "content": "nimna¦ <i>(I) a. (f. म्ना)</i> 1. Deep (lit. or fig.), चकितहरिणीप्रेक्षणा निम्ननाभिः <ls>Megh.</ls>ii.19, निम्ननाभिसरसीषु निपंते <ls>Sis.</ls>x.58; 2. low, depressed."
+        },
+        {
+            "word": "निम्न",
+            "eid": "19517",
+            "pagenum": 381,
+            "content": "nimna¦ <i>(II) n.</i> 1. Depth, low ground, low land, (कः) पयश्च निम्नाभिमुखं प्रतीपयेत् <ls>K.S.</ls>v.5, न च निम्नादिव सलिलं निवर्तते मे ततो चेतः <ls>Sak.</ls>iii.; 2. a slope, a declivity; 3. a gap, a chasm in the ground; 4. a depression, जलनिबिडितवस्त्रव्यक्तनिम्नोन्नताभिः <ls>M.M.</ls>iv."
+        }
     ]
 }

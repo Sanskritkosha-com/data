@@ -39,5 +39,53 @@
             "pagenum": 337,
             "content": "द्वि¦ <i>dvi</i> <ab>a.</ab> [<ab>du.</ab> <i>dvau, dve.</i> <ab>M§</ab> 51] deux. || <ab>Gr.</ab> <lang n='greek'>δύο, δι</lang>; <ab>lat.</ab> duo, bi; <ab>zd.</ab> bi; <ab>irl.</ab> do; <ab>ang.</ab> two; <ab>lith.</ab> du; <ab>goth.</ab> twai; <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "द्वि",
+            "eid": "14909",
+            "pagenum": 243,
+            "content": "द्वि¦ (°—) two."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "द्वि",
+            "eid": "10708",
+            "pagenum": 188,
+            "content": "द्वि¦ (°—) zwei."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "द्वि",
+            "eid": "4601",
+            "pagenum": 651,
+            "content": "<b>(dvi-)</b>¦ <i>zwei-</i> im Anfange von Zusammensetzungen."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "द्वि",
+            "eid": "1793",
+            "pagenum": 105,
+            "content": "<i>Dvi</i>¦ (EI 11), abbreviation of <i>Dviveda.</i> <div n='P'>(<i>IE</i> 8-1), abbreviation of <i>dvitīya.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "द्वि",
+            "eid": "2104",
+            "pagenum": 174,
+            "content": "<b>dvi,</b>¦ <i>form of</i> <b>dva</b> <i>in composition and derivation.</i> <lbinfo n='deriva-tion.'/> [<ls n='wg,475'>475<sup>6</sup></ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "द्वि",
+            "eid": "17935",
+            "pagenum": 350,
+            "content": "dvi¦ <i>num. (nom. du. द्वौ m., द्वे f., द्वे n.)</i> Two, both. (in compounds, द्वा is substituted for द्वि before some numerals, and before ज and पर)."
+        }
     ]
 }

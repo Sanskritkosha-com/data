@@ -51,5 +51,57 @@
             "pagenum": 50,
             "content": "अर्ह¦ <i>arha</i> <ab>a.</ab> <i>(arh)</i> digne de, <ab>ac.</ab> ou <ab>inf.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अर्ह",
+            "eid": "2956",
+            "pagenum": 43,
+            "content": "अर्ह¦ <lex>a.</lex> deserving, worthy, entitled to (<ab>acc.</ab> or <ab>inf.</ab>); fit or apt for (<ab>gen.</ab> or —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अर्ह",
+            "eid": "1880",
+            "pagenum": 29,
+            "content": "अर्ह¦ verdienend <i>(Gutes u. Böses)</i>, würdig (<i>Acc. Inf.o.</i> —°); passend, angemessen <lbinfo n='6'/> für <i>Gen. o.</i> —°)."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अर्ह",
+            "eid": "788",
+            "pagenum": 67,
+            "content": "<b>Arha</b><sup>1</sup>¦ = Viṣṇu (1000 names)."
+        },
+        {
+            "word": "अर्ह",
+            "eid": "789",
+            "pagenum": 67,
+            "content": "<b>Arha</b><sup>2</sup>,¦ a people. § 295 (Dyūtap.): II, <b>52</b>, 1859 (among the people who brought tribute to Yudhiṣṭhira)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अर्ह",
+            "eid": "423",
+            "pagenum": 121,
+            "content": "<b>arha,</b>¦ <i><ab>a.</ab></i> deserving; worthy; fit. [<b>√arh.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अर्ह",
+            "eid": "03531",
+            "pagenum": 68,
+            "content": "arha¦ <i>(I) a. (f. र्हा)</i> 1. Worthy of respect, अर्हानभोजयन् विप्रो दण्डमर्हति माषकम् <ls>M.</ls>viii.392; 2. worthy of, entitled to, (with an acc. or an infinitive, नैवार्हः पैतृकं रिक्थं पतितोत्पादितो हि सः <ls>M.</ls>ix.144, न परित्यागमर्हेयं मत्सकाशात्, तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान् स्वबान्धवान् <ls>Bg.</ls>i.36.); 3. proper, fit, स भृत्योऽर्हो महीभुजाम् <ls>Panch.</ls>i."
+        },
+        {
+            "word": "अर्ह",
+            "eid": "03532",
+            "pagenum": 68,
+            "content": "arha¦ <i>(II) m.</i> 1. An epithet of Vishṇu; 2. of Indra; 3. price, महार्हशय्यापरिवर्तनच्युतैः <ls>K.S.</ls>v.12."
+        }
     ]
 }

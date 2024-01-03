@@ -20,5 +20,43 @@
             "pagenum": 325,
             "content": "दुर्जन¦ <i>durjana</i> <ab>m.</ab> méchant homme."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दुर्जन",
+            "eid": "13987",
+            "pagenum": 230,
+            "content": "दुर्जन¦ <lex>m.</lex> a bad man, villain."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दुर्जन",
+            "eid": "9954",
+            "pagenum": 177,
+            "content": "दुर्जन¦ <i>m.</i> schlechter Mensch, Bösewicht."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दुर्जन",
+            "eid": "1980",
+            "pagenum": 170,
+            "content": "<b>dur-jana,</b>¦ <i><ab>m.</ab></i> evil person; scoundrel."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दुर्जन",
+            "eid": "17127",
+            "pagenum": 335,
+            "content": "dur-jana¦ <i>(I) a.</i> wicked, vile."
+        },
+        {
+            "word": "दुर्जन",
+            "eid": "17128",
+            "pagenum": 335,
+            "content": "dur-jana¦ <i>(II) m.</i> a bad man, a mischievous person, शाम्येत्प्रत्यपकारेण नोपकारेण दुर्जनः <ls>K.S.</ls>ii.40, <ls>M.</ls>ix.13."
+        }
     ]
 }

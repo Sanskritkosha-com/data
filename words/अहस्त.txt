@@ -7,5 +7,37 @@
             "pagenum": 218,
             "content": "अहस्त¦ <i><ab>a.</ab></i> <b>1</b> Handless. <b>--2</b> One whose hand is cut."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अहस्त",
+            "eid": "3921",
+            "pagenum": 57,
+            "content": "अहस्त/¦ <lex>a.</lex> handless."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अहस्त",
+            "eid": "2444",
+            "pagenum": 38,
+            "content": "अहस्त/¦ handlos."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अहस्त",
+            "eid": "1411",
+            "pagenum": 166,
+            "content": "<b>a-hastá,</b>¦ <ab>a.</ab>, <i>hand-los</i> [hásta]. <div n='TS'>-ás (vṛtrás) {32,7}. <div n='TS'>-ám (vṛtrám) {264,8}. <div n='TS'>-ā́sas (akṣā́sas) {860,9}. <div n='TS'>-ā́ [<ab>f.</ab>] kṣā́s {848,14}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अहस्त",
+            "eid": "548",
+            "pagenum": 124,
+            "content": "<b>a-hastá,</b>¦ <i><ab>a.</ab></i> handless. [<b>hásta,</b> <ls n='wg,1304'>1304a</ls>.]"
+        }
     ]
 }

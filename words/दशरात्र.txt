@@ -13,5 +13,35 @@
             "pagenum": 2,
             "content": "दशरात्र¦ Sv. Gov. Or. Libr. Madras 35."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दशरात्र",
+            "eid": "13433",
+            "pagenum": 220,
+            "content": "दशरात्र/¦ <lex>a.</lex> lasting ten days; <lex>m.</lex> such a festival."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दशरात्र",
+            "eid": "9496",
+            "pagenum": 168,
+            "content": "दशरात्र/¦ zehntägig; <i>m. n.</i> zehn Tage."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दशरात्र",
+            "eid": "16618",
+            "pagenum": 327,
+            "content": "daSan-rAtra¦ <i>(I) n.</i> a period of ten nights."
+        },
+        {
+            "word": "दशरात्र",
+            "eid": "16619",
+            "pagenum": 327,
+            "content": "daSan-rAtra¦ <i>(II) m.</i> a particular sacrifice completed in ten days."
+        }
     ]
 }

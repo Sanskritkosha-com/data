@@ -44,5 +44,63 @@
             "pagenum": 57,
             "content": "अवि¦ <i>avi</i> <ab>m.</ab> bélier, mouton. -- <i>(av</i> protéger) <lbinfo n='6'/> couverture. Haie, clôture. -- <i>(av</i> manger) rat. -- <i>(av</i> grandir) montagne. -- <i>(av</i> posséder) maître. -- <i>(av</i> aller) air, vent. -- <i>(av</i> brûler) soleil. -- <ab>Lat.</ab> ovis; <ab>gr.</ab> <lang n='greek'>ὄϊς</lang>; <ab>lith.</ab> awi; <ab>goth.</ab> avistr; <ab>angl.</ab> ewe.  <P><i>avikaḷa</i> <ab>m.</ab> troupeau de moutons."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अवि",
+            "eid": "3274",
+            "pagenum": 47,
+            "content": "अ/वि¦ <lex>a.</lex> favourable, kind. <lex>m.</lex> sheep, <lex>f.</lex> ewe."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अवि",
+            "eid": "2076",
+            "pagenum": 32,
+            "content": "अ/वि¦ <i>m.</i> Schaf. अविका/ <i>f.</i> Schafmutter."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अवि",
+            "eid": "1160",
+            "pagenum": 129,
+            "content": "<b>ávi</b>¦ [1〉 <ab>a.</ab>, <i>labend, erquickend</i>. <ls>AV. 5,1,9</ls> von Varuna, parallel mit iṣirá]; 2〉 <ab>m.</ab>, das <i>Schaf,</i> <ab>f.</ab>, die <i>Schafmutter;</i> 3〉 <ab>m.</ab>, übertragen auf die aus Schafwolle gemachte Somaseihe. Auch in der Bedeutung „Schaf“ stammt es von av, und zwar wahrscheinlich in der Bedeutung „laben, erquicken“, wie besonders avasá in der Stelle {995,1} zeigt. Es würde also das [Page130] Schaf als das durch seine Milch erlabende bezeichnet sein. <div n='TS'>-is 3〉 {790,1}. <div n='TS'>-yas [<ab>Gen.</ab>] 2〉 überall mit vā́ra (Wolle) verbunden und auf die Somaseihe bezogen {622,2}; {718,1}; {719,6}; {724,4}; {728,8}; {732,1}; {740,1}; {750,1}; {762,3}; {764,2}; {775,10}. _{775,19}; {786,9}; {798,48}; {813,16}; {818,10}; {819,6}. <div n='TS'>-ibhis 3〉 {227,1}; {798,11}; {803,2}; {819,2}. <div n='TS'>-īnām 3〉 {821,7} (ánu pūrviás). <div n='TS'>-īnaam 2〉 vāsovāyás {852,6}. — 3〉 snúbhis {819,8}."
+        },
+        {
+            "word": "अवि",
+            "eid": "12121",
+            "pagenum": 1752,
+            "content": "<b>ávi:</b>¦<info vn='add 107 gra'/> <div n='TS'>-yas 2〉 {820,5}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अवि",
+            "eid": "460",
+            "pagenum": 122,
+            "content": "<b>ávi,</b>¦ <i><ab>m.</ab></i> sheep; <i>as <ab>f.</ab></i> ewe. [<ab>cf.</ab> <lang n='greek'>ὄις, *ὄϝις</lang>, <ab>Lat.</ab> <i>ovis,</i> ‘sheep’; <ab>Eng.</ab> <i>ewe.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अवि",
+            "eid": "03967",
+            "pagenum": 77,
+            "content": "avi¦ <i>(I) m.</i> A sheep जिनकार्मुकवस्तावीन् (दद्यात्) <ls>M.</ls>xi.1, iii.6."
+        },
+        {
+            "word": "अवि",
+            "eid": "03968",
+            "pagenum": 77,
+            "content": "avi¦ <i>(II) m.</i> 1. The sun; 2. wind; 3. a mountain; 4. an enclosure; 5. a rat; 6. a blanket."
+        },
+        {
+            "word": "अवि",
+            "eid": "03969",
+            "pagenum": 77,
+            "content": "avi¦ <i>(III) f.</i> 1. An ewe; 2. a woman in her courses."
+        }
     ]
 }

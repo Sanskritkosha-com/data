@@ -50,5 +50,59 @@
             "pagenum": 86,
             "content": "आहुति¦ <i>āhuti</i> <ab>f.</ab> <i>(hu)</i> offertoire, offrande, <ab>vd.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "आहुति",
+            "eid": "4862",
+            "pagenum": 72,
+            "content": "आ/हुति¦ <lex>f.</lex> offering, oblation; <ab>p.</ab> °मन्त्† & °वन्त्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आहुति",
+            "eid": "3020",
+            "pagenum": 47,
+            "content": "आ/हुति¦ <i>f.</i> Opferspende."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "आहुति",
+            "eid": "1671",
+            "pagenum": 191,
+            "content": "<b>ā́huti,</b>¦ <ab>f.</ab>, <i>Opferguss,</i> sowol 1〉 die Handlung, als 2〉 die ausgegossene Opferspende [von hu mit ā́]. <div n='TS'>-īs 1〉 {105,5}; {878,2}. — 2〉 {847,2}. <div n='TS'>-im 1〉 {31,5}; {93,3}; {442,9}; {443,5}. — 2〉 {135,8}; {228,6}; {582,19}; {639,18}; {643,21}. <div n='TS'>-ī [<ab>I.</ab>] 2〉 {639,5}."
+        },
+        {
+            "word": "आहुति",
+            "eid": "12172",
+            "pagenum": 1754,
+            "content": "<b>ā́huti:</b>¦<info vn='add 151 gra'/> <div n='TS'>-im 2〉 {262,6}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "आहुति",
+            "eid": "283",
+            "pagenum": 25,
+            "content": "<b>Āhuti</b>.¦ § 717 (Nārāyaṇīya): XII, <b>339</b>, 12864 (Mahāpuruṣastave)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आहुति",
+            "eid": "695",
+            "pagenum": 127,
+            "content": "<b>ā́huti,</b>¦ <i><ab>f.</ab></i> oblation, offering (used both of the act and of the thing offered); <i><ab>cf.</ab> the</i> <i>later word</i> homa. [<b>√hu + ā:</b> <ab>w.</ab> <b>-huti,</b> <ab>cf.</ab> <lang n='greek'>χύ-σι-ς</lang>, ‘a pouring.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आहुति",
+            "eid": "05687",
+            "pagenum": 115,
+            "content": "Ahuti¦ <i>f.</i> 1. Offering an oblation to a deity, होतुराहुतिसाधनम् <ls>R.</ls>i.82; 2. an oblation so offered, <ls>R.</ls>i.53."
+        }
     ]
 }

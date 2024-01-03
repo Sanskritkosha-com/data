@@ -81,5 +81,57 @@
             "pagenum": 77,
             "content": "आम¦ <i>āma</i> <ab>m.</ab> <i>(am)</i> maladie; surtout affection intestinale. || Souci, inquiétude."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आम",
+            "eid": "4401",
+            "pagenum": 64,
+            "content": "आम/¦ <lex>a.</lex> raw."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आम",
+            "eid": "2737",
+            "pagenum": 43,
+            "content": "आम/¦ roh, eingekocht."
+        },
+        {
+            "word": "आम",
+            "eid": "29752",
+            "pagenum": 538,
+            "content": "आम/¦ ungekocht <i>st.</i> eingekocht."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "आम",
+            "eid": "1556",
+            "pagenum": 181,
+            "content": "<b>āmá,</b>¦ <ab>a.</ab>, ursprünglich wol „herbe, sauer“ (<ab>vgl.</ab> amla, <lang>lat.</lang> amārus), von der Wurzel am „bedrängen, plagen“; <ab>vgl.</ab> <ls>Cu. 〔486〕</ls>; dann aber wie das gleiche <lang>gr.</lang> <gk>ὠμός</gk> „roh, unreif“. — Im <ls>RV</ls> <i>roh, ungekocht</i> mit dem Gegensatze pakvá, insbesondere 2〉 wird die Kuh als die <i>rohe</i> bezeichnet im Gegensatze zu der warmen, garen Milch, welche als pakvá bezeichnet wird; ähnlich 3〉 die Wolke im Gegensatze zu dem aus ihr erzeugten agní. <div n='TS'>-ás {795,1}, parallel átaptatanūs. <div n='TS'>-ásya kravíṣas {162,10}. <div n='TS'>-ā́ [<ab>f.</ab>] 2〉 gaús {264,14}; {299,9}. <div n='TS'>-ā́yām 2〉 usríyāyām {180,3}. <div n='TS'>-ā́su 2〉 {62,9}; {698,7}; usríyāsu {231,2}; {458,6}; gávām vakṣáṇāsu {513,4}. — 3〉 pūrṣú {226,6}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आम",
+            "eid": "632",
+            "pagenum": 126,
+            "content": "<b>āmá,</b>¦ <i><ab>a.</ab></i> raw. [<ab>cf.</ab> <lang n='greek'>ὠμός</lang>, ‘raw’; <ab>Lat.</ab> <i>amārus,</i> <lbinfo n='am-ārus,'/> ‘bitter.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आम",
+            "eid": "05224",
+            "pagenum": 104,
+            "content": "Ama¦ <i>(I) a. (f. मा)</i> 1. Raw, unripe, immature; 2. uncooked, unbaked, <ls>M.</ls>iv.223; 3. undigested."
+        },
+        {
+            "word": "आम",
+            "eid": "05225",
+            "pagenum": 104,
+            "content": "Ama¦ <i>(II) m.</i> 1. Disease, sickness; 2. constipation; 3. grain freed from chaff."
+        }
     ]
 }

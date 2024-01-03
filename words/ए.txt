@@ -27,5 +27,53 @@
             "pagenum": 123,
             "content": "ए¦ <i>e,</i> interjection pour appeler, interpeller, plaindre, <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "ए",
+            "eid": "6346",
+            "pagenum": 99,
+            "content": "ए¦ <ab>pron.</ab> stem of 3^d person."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ए",
+            "eid": "3913",
+            "pagenum": 65,
+            "content": "ए¦ <i>Interj.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ए",
+            "eid": "2273",
+            "pagenum": 294,
+            "content": "<b>(e),</b>¦ Deutestamm [verwandt mit den Stämmen a, i] von hinweisender Bedeutung, enthalten in éka, etá, ená, evá."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "ए",
+            "eid": "7222",
+            "pagenum": 412,
+            "content": "<i>ĕ</i>¦l13<i>uttu-viniyogam</i> (SITI), Tamil-Sanskrit; dues payable as <i>ĕ</i>l13<i>uttu</i> for the village-accountant to be apportioned among the villagers."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ए",
+            "eid": "934",
+            "pagenum": 136,
+            "content": "<b>e,</b>¦ <i><ab>pron.</ab> root in</i> <b>éka, etá, ena, evá, evám.</b>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ए",
+            "eid": "07352",
+            "pagenum": 152,
+            "content": "e¦ <i>ind.</i> An interjection of- (1) remembering; (2) envy; (3) contempt; (4) compassion; (5) calling."
+        }
     ]
 }

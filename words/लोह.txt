@@ -55,5 +55,71 @@
             "pagenum": 558,
             "content": "लोह¦ <i>loha</i> <ab>m.</ab> <ab>n.</ab> fer; acier; || métal, en <ab>gén.</ab> || Arme. || Bois d'aloës. || Sang; <ab>cf.</ab> <i>lohita.</i>  <P><i>lohakaṇṭaka</i> <ab>m.</ab> buisson épineux.  <P><i>lohakānta</i> <ab>n.</ab> <i>(kam)</i> aimant.  <P><i>lohakāra</i> <ab>m.</ab> <i>(kṛ)</i> forgeron, serrurier.  <P><i>lohakiṭṭa</i> <ab>n.</ab> rouille, scories.  <P><i>lohacūrṇa</i> <ab>n.</ab> limaille de fer.  <P><i>lohaja</i> <ab>n.</ab> <i>(jan)</i> rouille, scories, limaille. || Métal de cloches.  <P><i>lohajit</i> <ab>m.</ab> <i>(ji)</i> diamant.  <P><i>lohadrāvin</i> <ab>m.</ab> <i>(dru</i> au <ab>c.</ab>) borax.  <P><i>lohanāla</i> <ab>m.</ab> flèche de fer.  <P><i>lohapṛṣṭha</i> <ab>m.</ab> héron.  <P><i>lohapratimā</i> <ab>f.</ab> statue de fer. || Enclume.  <P><i>lohamaya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>maya)</i> de fer, ferrugineux. <lbinfo n='5'/>  <P><i>lohamaraka</i> <ab>m.</ab> (<ab>c.</ab> de <i>mṛ)</i> achyrantes triandra, <ab>bot.</ab>  <P><i>loharājaka</i> <ab>n.</ab> <i>(rāj)</i> argent.  <P><i>lohala</i> <ab>a.</ab> (<ab>sfx.</ab> <i>la)</i> de fer. || Qui bégaie, qui balbutie. -- <ab>S.</ab> <ab>m.</ab> anneau principal d'une chaîne.  <P><i>lohavara</i> <ab>n.</ab> <i>(vṛ</i> choisir) or.  <P><i>lohaśleṣaṇa</i> <ab>m.</ab> <i>(śliṣ)</i> borax.  <P><i>lohābhisāra</i> <ab>m.</ab> <i>(abhi; sṛ)</i> purification des armes [cérémonie du 5ᵉ jour de la quinzaine <lbinfo n='5'/> claire du mois <s1 slp1='ASvina'>āśvina</s1>].  <P><i>lohābhihāra</i> <ab>m.</ab> <i>(abhi; hṛ)</i> <ab>mms.</ab>  <P><i>lohikā</i> <ab>f.</ab> sorte de jatte plate pour nettoyer le riz, <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "लोह",
+            "eid": "27806",
+            "pagenum": 466,
+            "content": "लोह/¦ <lex>a.</lex> reddish, of copper or iron. <lex>m.</lex> <lex>n.</lex> reddish metal, copper, also iron & metal <ab>i.g.</ab>; <lex>n.</lex> an iron vessel."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "लोह",
+            "eid": "21075",
+            "pagenum": 378,
+            "content": "लोह/¦ rötlich, kupfern, eisern. <i>m.</i> die röt. liche Ziege, (rötliches) Metall, Kupfer Eisen <i>(auch n.); n.</i> eisernes Gerät."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "लोह",
+            "eid": "3030",
+            "pagenum": 172,
+            "content": "<i>loha,</i>¦ cf. <i>so-loha-lavaṇ-ākara</i> (IE 8-5), ‘together with mines of metals and salt pits [the right of which normally belonged to the king]’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "लोह",
+            "eid": "6477",
+            "pagenum": 446,
+            "content": "<b>Loha</b>,¦ pl. (<i>°āḥ</i>), a people. § 279 (Arjuna): II, <b>27</b>, 1033 (in the north, vanquished by Arjuna on his digvijaya)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "लोह",
+            "eid": "3648",
+            "pagenum": 235,
+            "content": "<b>lohá,</b>¦ <i><ab>a.</ab></i> reddish; coppery; <i>as <ab>m.</ab> <ab>n.</ab></i> reddish  <lbinfo n='red-dish'/> metal, copper. [<ab>cf.</ab> <b>lóhita, róhita,</b> and <b>rudhirá,</b> all meaning ‘red’: with the last, <ab>cf.</ab> <lang n='greek'>ἐ-ρυθ-ρός</lang>, <ab>Lat.</ab> <i>ruber, rūfus,</i> <ab>Eng.</ab> <i>ruddy, red.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "लोह",
+            "eid": "33036",
+            "pagenum": 632,
+            "content": "loha¦ <i>(I) a. (f. हा)</i> 1. Red, reddish; 2. made of copper; 3. made of iron."
+        },
+        {
+            "word": "लोह",
+            "eid": "33037",
+            "pagenum": 632,
+            "content": "loha¦ <i>(II) m.n.</i> 1. Copper; 2. iron; 3. steal; 4. gold; 5. blood; 6. a weapon in general, <ls>M.</ls>ix.321."
+        },
+        {
+            "word": "लोह",
+            "eid": "33038",
+            "pagenum": 632,
+            "content": "loha¦ <i>(III) m.</i> The red goat."
+        },
+        {
+            "word": "लोह",
+            "eid": "33039",
+            "pagenum": 632,
+            "content": "loha¦ <i>(IV) n.</i> Aloe-wood."
+        }
     ]
 }

@@ -44,5 +44,37 @@
             "pagenum": 361,
             "content": "निखिल¦ <i>nikhila</i> <ab>a.</ab> sans vide, plein, complet, <lbinfo n='5'/> entier."
         }
+    ],
+    "CAE": [
+        {
+            "word": "निखिल",
+            "eid": "16302",
+            "pagenum": 268,
+            "content": "निखिल¦ <lex>a.</lex> entire, whole; <ab>instr.</ab> <ab>adv.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "निखिल",
+            "eid": "11918",
+            "pagenum": 211,
+            "content": "निखिल¦ vollständig, ganz, all; <i>Instr. adv.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "निखिल",
+            "eid": "2289",
+            "pagenum": 181,
+            "content": "<b>nikhila,</b>¦ <i><ab>a.</ab></i> entire; all. [perhaps for <b>niḥ-khila,</b> ‘without a gap,’ <b>nis + khila:</b> <ls n='wg,1305'>1305<sup>2</sup></ls> end.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "निखिल",
+            "eid": "19362",
+            "pagenum": 377,
+            "content": "niKila¦ <i>a. (f. ला)</i> Complete, all, whole, entire, निखिलं जगदेव नश्वरम् <ls>Bh.V.</ls>iv.24, <ls>M.</ls>ii.8."
+        }
     ]
 }

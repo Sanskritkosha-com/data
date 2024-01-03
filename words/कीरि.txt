@@ -7,5 +7,43 @@
             "pagenum": 405,
             "content": "कीरिः¦ <ab>Ved.</ab> Praise, hymn."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कीरि",
+            "eid": "7842",
+            "pagenum": 122,
+            "content": "कीरि/¦ <lex>m.</lex> praiser, poet."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कीरि",
+            "eid": "4944",
+            "pagenum": 84,
+            "content": "कीरि/¦ <i>m.</i> Lobsänger, Dichter."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कीरि",
+            "eid": "2573",
+            "pagenum": 327,
+            "content": "<b>kīrí,</b>¦ <ab>m.</ab>, <i>Sänger, Lobsänger</i> [von <hom>1.</hom> kir]. <div n='TS'>-ís {478,1}; {537,8}; {712,13}. <div n='TS'>-ím {893,11}. <div n='TS'>-áye {464,3}; {613,10}. <div n='TS'>-áyas {616,4} jánāsas. <div n='TS'>(-íṇā) <ab n='siehe'>s.</ab> kīrín; in {100,9} ist, wie die Vergleichung mit {464,3}; {613,10} wahrscheinlich macht, wol kīríṇe statt kīríṇā zu lesen."
+        },
+        {
+            "word": "कीरि",
+            "eid": "12282",
+            "pagenum": 1758,
+            "content": "<b>kīrí:</b>¦<info vn='add 257 gra'/> <div n='TS'>*-és mántram {31,13}; yajñám {867,2}; coditā́ {203,6}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कीरि",
+            "eid": "1132",
+            "pagenum": 141,
+            "content": "<b>kīrí,</b>¦ <i><ab>m.</ab></i> praiser. [<b>√2kṛ.</b>]"
+        }
     ]
 }

@@ -31,5 +31,37 @@
             "pagenum": 274,
             "content": "*ज्युत्¦ <i>jyut.</i> <i>jyotāmi, jyote</i> 1. Briller. <ab>Cf.</ab> <i>dyut.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "ज्युत्",
+            "eid": "11588",
+            "pagenum": 190,
+            "content": "ज्युत्¦ ज्यो/तति <vlex type='root'/> (ज्यो/त°ते) shine; <ab>C.</ab> ज्योत/यति (±अव) illuminate."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ज्युत्",
+            "eid": "7917",
+            "pagenum": 140,
+            "content": "ज्युत्¦ ज्यो/तति (°ते) leuchten. <i>Caus.</i> ज्योत/यति <lbinfo n='7'/> <i>mit</i> अव beleuchten."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ज्युत्",
+            "eid": "3586",
+            "pagenum": 503,
+            "content": "<b>(√jyut),</b>¦ <i>leuchten</i> [aus dyut]. Das <ab>Caus.</ab> jyotáya [<pe>2.</pe> <ab>s.</ab> <ab>Iv.</ab>], <i>erleuchte</i> im <ls>AV. 7,16,1</ls>. Davon jyótis."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ज्युत्",
+            "eid": "1652",
+            "pagenum": 160,
+            "content": "<b>√jyut</b>¦ (<b>jyótati; -jyótya</b>). light. [<ab>fr.</ab> <b>√dyut.</b>]"
+        }
     ]
 }

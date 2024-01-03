@@ -29,5 +29,77 @@
             "pagenum": 483,
             "content": "म¦ <i>ma</i> <ab>m.</ab> <i>(mā)</i> temps, saison; || la Lune; || vers ou formule magique. || <s1 slp1='brahmA'>Brahmā</s1>; <s1 slp1='vizRu'>Viṣṇu</s1>, <s1 slp1='Siva'>Śiva</s1>, <s1 slp1='yama'>Yama</s1>. || Venin, poison. || la 4ᵉ note de la gamme. -- <ab>F.</ab> <i>mā</i> <i>(mā)</i> mesure; <lbinfo n='5'/> || mort. || Mère; || <s1 slp1='lakzmI'>Lakṣmī</s1>. || Lumière; connaissance. || Lien, attache; || ceinture. -- <ab>N.</ab> <i>ma,</i> eau. || Bonne fortune."
         }
+    ],
+    "CAE": [
+        {
+            "word": "म",
+            "eid": "23391",
+            "pagenum": 388,
+            "content": "म¦ <ab>pron.</ab> stem of 1^st <ab>pers.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "म",
+            "eid": "17760",
+            "pagenum": 314,
+            "content": "म¦ <i>Pron. -St. der 1. Pers.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "म",
+            "eid": "6478",
+            "pagenum": 968,
+            "content": "<b>má,</b>¦ Pronomen erster Person, siehe ahám."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "म",
+            "eid": "3040",
+            "pagenum": 172,
+            "content": "<i>Ma</i>¦ (IE 8-1), abbreviation of <i>Maṅgala-vāra,</i> Tuesday. <div n='P'>(PJS), abbreviation of <i>Mahattama, Mantrin, Mahetā</i> (meaning ‘a clerk’ or ‘a teacher’ in Gujarātī), etc. (especially in medieval Jain inscriptions)."
+        },
+        {
+            "word": "म",
+            "eid": "3475",
+            "pagenum": 200,
+            "content": "<i>ma</i>¦ṟ<i>utu</i> (CITD), same is <i>ma</i>ṟ<i>uturu.</i>"
+        },
+        {
+            "word": "म",
+            "eid": "3476",
+            "pagenum": 200,
+            "content": "<i>ma</i>¦ṟ<i>uturu</i> (IE 8-6; CITD); also called <i>ma</i>ṟ<i>utu, mattaru,</i> etc.; Telugu; Kannaḍa <i>mattar</i> or <i>mattaru;</i> a certain land measure of uncertain area generally used as an equivalent of <i>nivartana,</i> different kinds being mentioned as <i>kāl-ma</i>ṟ<i>uturu, ghaḍa-ma</i>ṟ<i>uturu,</i> <i>kommu-ma</i>ṟ<i>utu,</i> etc."
+        },
+        {
+            "word": "म",
+            "eid": "7326",
+            "pagenum": 417,
+            "content": "<i>ma</i>¦ṉ<i>aiy-iṟai</i> (SITI), Tamil; house-tax."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "म",
+            "eid": "3075",
+            "pagenum": 210,
+            "content": "<b>ma</b>¦ [<ls n='wg,491'>491]</ls>, <i><ab>pron.</ab> root, see</i> <b>ahám.</b> [<ab>cf.</ab> <lang n='greek'>μέ</lang>, <ab>Lat.</ab> <i>me,</i> <ab>AS.</ab> <i>mē,</i> <ab>Eng.</ab> <i>me.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "म",
+            "eid": "28201",
+            "pagenum": 541,
+            "content": "ma¦ <i>(I) m.</i> 1. Time; 2. poison; 3. a magical formula; 4. a name of Brahman (m.); 5. of Vishṇu; 6. of Śiva; 7. of Yama; 8. the moon."
+        },
+        {
+            "word": "म",
+            "eid": "28202",
+            "pagenum": 541,
+            "content": "ma¦ <i>(II) n.</i> 1. Water; 2. happiness, welfare."
+        }
     ]
 }

@@ -36,5 +36,69 @@
             "pagenum": 315,
             "content": "दहन¦ <i>dahana</i> <ab>m.</ab> (<ab>sfx.</ab> <i>ana)</i> le feu; <s1 slp1='agni'>Agni</s1>. || Méchant homme. || Plumbago zeyanica, <ab>bot.</ab> -- <ab>N.</ab> combustion.  <P><i>dahanaketana</i> <ab>n.</ab> fumée.  <P><i>dahanapriyā</i> <ab>f.</ab> la bien-aimée d'<s1 slp1='agni'>Agni</s1>, <ab>c-à-d.</ab> <lbinfo n='2'/> la <i>svāhā</i> personnifiée."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दहन",
+            "eid": "13480",
+            "pagenum": 221,
+            "content": "दहन¦ <lex>a.</lex> (<lex>f.</lex> ई) & <lex>n.</lex> burning, consuming, destroying; <lex>m.</lex> (<ab>adj.</ab> —° <lex>f.</lex> आ) fire or the god Agni."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दहन",
+            "eid": "9528",
+            "pagenum": 169,
+            "content": "दहन¦ <i>f.</i> ई brennend, aufzehrend, vernichtend <lbinfo n='8'/> <i>(meist—°); m. (adj. —° f.</i> आ) Feuer, Agni; <i>n.</i> das Brennen, Brand."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "दहन",
+            "eid": "1336",
+            "pagenum": 77,
+            "content": "<i>dahana</i>¦ (IE 7-1-2), ‘three’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "दहन",
+            "eid": "2976",
+            "pagenum": 225,
+            "content": "<b>Dahana</b><sup>1</sup>,¦ one of the eleven Rudras. § 108 (Aṃśāvat.): I, <b>66</b>, 2567 (son of Sthāṇu).—§ 191 (Arjuna): I, <b>123</b>α, 4826 (present at the birth of Arjuna)."
+        },
+        {
+            "word": "दहन",
+            "eid": "2977",
+            "pagenum": 225,
+            "content": "<b>Dahana</b><sup>2</sup>¦ = Agni, q.v."
+        },
+        {
+            "word": "दहन",
+            "eid": "2978",
+            "pagenum": 225,
+            "content": "<b>Dahana</b><sup>3</sup>,¦ a companion of Skanda. § 615<i>u</i> (Skanda): IX, <b>45</b>δ, 2536 (given to Skanda by Aṃśa)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दहन",
+            "eid": "16663",
+            "pagenum": 328,
+            "content": "dahana¦ <i>(I) a. (f. नी)</i> 1. Consuming by fire, <ls>Bhartr.</ls>i.71; 2. destructive, injurious."
+        },
+        {
+            "word": "दहन",
+            "eid": "16664",
+            "pagenum": 328,
+            "content": "dahana¦ <i>(II) m.</i> 1. Fire; 2. a bad man; 3. a pigeon; 4. the number ‘three.’"
+        },
+        {
+            "word": "दहन",
+            "eid": "16665",
+            "pagenum": 328,
+            "content": "dahana¦ <i>(III) n.</i> 1. Burning, extinguishing, <ls>R.</ls>viii.20; 2. cauterising."
+        }
     ]
 }

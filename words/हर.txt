@@ -58,5 +58,71 @@
             "pagenum": 749,
             "content": "हर¦ <i>hara</i> <ab>a.</ab> <i>(hṛ)</i> [en <ab>compos.</ab>] qui prend, qui ravit, qui ôte. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1='agni'>Agni</s1>; || <s1 slp1='Siva'>Śiva</s1>. || Ane. || La division, <ab>t. d'arithm.</ab> || <ab>Gr.</ab> <lang n='greek'>χείρ</lang>.  <P><i>haraka</i> <ab>m.</ab> celui qui prend, qui saisit; || voleur; || homme qui comprend [ce qu'on dit, ce qu'il lit, <ab>etc.</ab>]. || <s1 slp1='Siva'>Śiva</s1>.  <P><i>haracūḍāmaṇi</i> <ab>m.</ab> la Lune.  <P><i>haraṇa</i> <ab>n.</ab> action de saisir, prise, enlèvement, <lbinfo n='5'/> rapt. || Bras. || Semence virile. || Eau bouillante. || Or. || Caurî ou petite coquille servant de monnaie. || Présent fait à un novice <lbinfo n='4'/> lors de l'initiation, à un fiancé, à une fiancée, <ab>etc.</ab>  <P><i>haravīja</i> <ab>n.</ab> mercure.  <P><i>haraśekharā</i> <ab>f.</ab> le Gange.  <P><i>harādri</i> <ab>m.</ab> le mont <s1 slp1='kElAsa'>Kailāsa</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हर",
+            "eid": "39337",
+            "pagenum": 657,
+            "content": "हर¦ (only —°, <lex>f.</lex> आ, <ab>r.</ab> ई) carrying, bringing; taking, receiving, seizing, robbing; ravishing, charming; removing, destroying. <ab>m.</ab> seizer or destroyer, <ab>E.</ab> of Śiva, a man's name."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हर",
+            "eid": "29201",
+            "pagenum": 528,
+            "content": "हर¦ (—°) nehmend; bringend, zuführend; entührend, hinreißend, entzückend; verscheuchend, entfernend, vernichtend. <i>m.</i> der Zerstörer <i>(Bein. Śiva's.)</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "हर",
+            "eid": "2174",
+            "pagenum": 126,
+            "content": "<i>hara</i>¦ (IE 7-1-2), ‘eleven’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "हर",
+            "eid": "4371",
+            "pagenum": 318,
+            "content": "<b>Hara</b><sup>1</sup>,¦ an Asura. § 130 (Aṃśāvat.): I, <b>67</b>, 2659 (<i>Dānavot-</i> <i>tamaḥ</i>, incarnate as king Subāhu)."
+        },
+        {
+            "word": "हर",
+            "eid": "4372",
+            "pagenum": 318,
+            "content": "<b>Hara</b><sup>2</sup>,¦ Śiva, q.v."
+        },
+        {
+            "word": "हर",
+            "eid": "4373",
+            "pagenum": 318,
+            "content": "<b>Hara</b><sup>3</sup>,¦ a Rudra. § 665 (Mokṣadh.): XII, <b>208</b>δ, 7585."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "हर",
+            "eid": "4866",
+            "pagenum": 285,
+            "content": "<b>hara,</b>¦ <i><ab>a.</ab></i> <div n='2'/><b>—1.</b> taking, receiving; <div n='2'/><b>—2.</b> (<i>like</i> <i>the <ab>Eng.</ab></i> carrying away, taking) charming; <lbinfo n='charm-ing;'/> <div n='2'/><b>—3.</b> carrying off, removing, destroying; <lbinfo n='destroy-ing;'/> <i>as <ab>m.</ab></i> Hara, the Destroyer, a name of Śiva, <ls n='lan,55,21'>55<sup>21</sup></ls>. [<b>√1hṛ,</b> see its <ab>mgs</ab>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हर",
+            "eid": "42958",
+            "pagenum": 827,
+            "content": "hara¦ <i>(I) a. (f. रा or री)</i> 1. Bringing, conveying, <ls>R.</ls>xii.5, 11, <ls>Kir.</ls>v.50; 2. taking, seizing; 3. captivating; 4. removing, depriving of; 5. dividing."
+        },
+        {
+            "word": "हर",
+            "eid": "42959",
+            "pagenum": 827,
+            "content": "hara¦ <i>(II) m.</i> 1. Śiva, <ls>K.S.</ls>i.50, vii.44, <ls>Megh.</ls>i.7, 44; 2. fire; 3. an ass; 4. the denominator of a fraction (in math.)."
+        }
     ]
 }

@@ -262,5 +262,55 @@
             "pagenum": 581,
             "content": "वासुदेव¦ <i>vāsudeva</i> <ab>a.</ab> issu de <s1 slp1='vasudeva'>Vasudeva</s1>. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1='kfzRa'>Kṛṣṇa</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वासुदेव",
+            "eid": "29038",
+            "pagenum": 488,
+            "content": "1 वासुदेव/¦ <lex>m.</lex> patr. of Viṣṇu-Kṛṣṇa."
+        },
+        {
+            "word": "वासुदेव",
+            "eid": "29039",
+            "pagenum": 488,
+            "content": "2 वासुदेव¦ <lex>a.</lex> relating to Kṛṣṇa (<ab>cf.</ab> <ab>prec.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वासुदेव",
+            "eid": "22067",
+            "pagenum": 400,
+            "content": "1. वासुदेव/¦ <i>m. patr. N. Viṣṇu-Kṛṣṇa's</i>; <i>Mannsn. überh.</i>"
+        },
+        {
+            "word": "वासुदेव",
+            "eid": "22068",
+            "pagenum": 400,
+            "content": "2. वासुदेव¦ auf Kṛṣṇa <i>(s. vor.)</i> bezüglich."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वासुदेव",
+            "eid": "11688",
+            "pagenum": 718,
+            "content": "<b>Vāsudeva</b><sup>1</sup>¦ (“the son of Vasudeva”) = Kṛṣṇa, q.v.—Do.<sup>2</sup> (do.) = Balarāma: IV, 2356."
+        },
+        {
+            "word": "वासुदेव",
+            "eid": "11689",
+            "pagenum": 718,
+            "content": "<b>Vāsudeva</b><sup>3</sup>,¦ king of the Puṇḍras. § 232 (Svayaṃvarap.): I, <b>186</b>, 6992 (<i>Pauṇḍrakaḥ</i>, came to the svayaṃvara of Draupadī).—§ 273 (Rājasūyārambhap.): II, <b>14</b>, 584 (<i>Vaṅga-Puṇḍra-Kirāteṣu rāja…Pauṇḍrakaḥ</i>, had joined Jarāsandha).—§ 280 (Bhīmasena): II, <b>30</b>, 1096 (<i>Puṇḍrā-</i> <i>dhipaṃ</i>, vanquished by Bhīmasena on his digvijaya).—§ 287 (Rājasūyikap.): II, <b>34</b>, 1270 (<i>Pauṇḍrakaḥ</i>, came to the rājasūya). Cf. Pauṇḍraka, Puṇḍrādhipa."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वासुदेव",
+            "eid": "34575",
+            "pagenum": 656,
+            "content": "vAsudeva¦ <i>m.</i> 1. A descendant of Vasudeva; 2. an epithet of Kṛishṇa."
+        }
     ]
 }

@@ -31,5 +31,37 @@
             "pagenum": 511,
             "content": "*मुह्¦ <i>muh.</i> <i>muhyāmi, muhye</i> 4; <ab>p.</ab> <i>mumoha;</i> <ab>f1.</ab> <i>mohitāsmi, mogdhāsmi</i> et <i>moḍhāsmi;</i> <lbinfo n='9'/> <ab>f2.</ab> <i>mohiṣyāmi</i> et <i>mokṣyāmi;</i> <ab>a2.</ab> <i>amuham.</i> <ab>Gér.</ab> <i>mohitvā, muhitvā, mugdhvā</i> et <i>mūḍhvā;</i> <ab>pp.</ab> <i>mugdha</i> et <i>mūḍha.</i> Etre troublé, <lbinfo n='4'/> être embarrassé; être dans le doute ou dans l'erreur; || n'être pas maître de sa raison; || éprouver une défaillance d'esprit, être aveuglé."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मुह्",
+            "eid": "25085",
+            "pagenum": 415,
+            "content": "मुह्¦ मु/ह्यति <vlex type='root'/> (मु/ह्य°ते), <ab>pp.</ab> मुग्ध/ & मूढ/ (<ab>q.v.</ab>) be confused or faint; err, lose one's senses; fail, not turn out well. <ab>C.</ab> मोह/यति, °ते confuse, bewilder, disarrange, cause to err or fail. <ab>I.</ab> मोमुह्यते be in great confusion. <div n='p'>— अति = <ab>S.</ab> <ab>I.</ab> अनु become perplexed after (<ab>acc.</ab>). <div n='p'>व्या <ab>M.</ab> become perplexed; <ab>C.</ab> perplex, bewilder, confuse परि err, go astray (<ab>fig.</ab>). <ab>C.</ab> make confused, throw into disorder. <div n='p'>प्र become perplexed or embarrassed, lose consciousness, faint. <div n='p'>वि & सम् the same; <ab>C.</ab> stupefy, deprive of consciousness, cause to err or fail. — Cf. अतिमुग्ध, अतिमूढ, उन्मुग्ध (<ab>add.</ab>), परिमूढ, प्रमुग्ध, प्रमूढ, विमुग्ध, विमूढ, व्यामूढ, संमुग्ध, संमूढ."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मुह्",
+            "eid": "19049",
+            "pagenum": 337,
+            "content": "मुह्,¦ मु/ह्यति (°ते) irre werden, sich verwirren, <lbinfo n='7'/> ohnmächtig werden, fehlschlagen, misraten. <i>p. p.</i> मुग्ध/ <i>s. bes.</i>; मूढ/ verirrt, <lbinfo n='5'/> verwirrt, unsicher in <i>(Loc. o. —°)</i>, dumm, thöricht. <i>Caus.</i> मोह^यति (°ते) verwirren, bethören; <i>p. p.</i> मोहित। अति in übergroßer Verwirrung, sein; <i>p. p.</i> अतिमुग्ध। परि irre werden, fehlgehen; <i>p. p.</i> परिमूढ verwirrt. प्र verwirrt, bewusstlos, <lbinfo n='9'/> ohnmächtig werden. वि <i>u.</i> सम् <i>dass. p. p.</i> संमुघ्द verirrt, unklar, verworren; संमूढ verwirrt, gestört, thöricht, einfältig. <i>Caus.</i> verwirren, bethören; <i>p. p.</i> संमोहित."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "मुह्",
+            "eid": "6890",
+            "pagenum": 1052,
+            "content": "<b>√muh,</b>¦ <i>erschreckt werden</i> (durch ein plötzlich eintretendes Ereigniss), <i>irre werden, verwirrt werden, das klare Bewusstsein verlieren;</i> 2〉 <ab>Part.</ab> mugdhá <i>verirrt;</i> 3〉 <ab>Caus.</ab> <i>verwirren, betäuben</i>. <div n='H'>Stamm <b>múhya:</b> <div n='TS'>-antu {907,6} 〰 anyé abhítas jánāsas. <div n='H'><ab>Part.</ab> II. <b>mugdhá:</b> <div n='TS'>-ás 2〉 {394,5} neben ákṣetravid. <div n='H'>Absolutiv des <ab>Caus.</ab> <b>mohayitvā́:</b> <div n='TS'>-ā́ 3〉 {988,6} tvā svápnena támasā 〰. <div n='H'>Verbale múh als Infinitiv: <div n='TS'>-uhé sá yás ná 〰 ná míthū jánas bhū́t {459,8}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "मुह्",
+            "eid": "3309",
+            "pagenum": 218,
+            "content": "<b>√muh</b>¦ (<b>múhyati, -te; mumóha, mumuhé;</b> <b>ámuhat; mohiṣyáti; mugdhá, mūḍhá</b>). be confused; err; lose one's senses; mūḍha, foolish, <i>and as <ab>subst.</ab>,</i> fool, simpleton. <lbinfo n='simple-ton.'/> [<ab>cf.</ab> <ab>Lat.</ab> <i>mūg-er,</i> ‘false player.’]"
+        }
     ]
 }

@@ -36,5 +36,35 @@
             "pagenum": 126,
             "content": "एड¦ <i>eḍa</i> <ab>a.</ab> sourd."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एड",
+            "eid": "6525",
+            "pagenum": 101,
+            "content": "एड¦ <lex>m.</lex>  a kind of sheep."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एड",
+            "eid": "4023",
+            "pagenum": 66,
+            "content": "एड¦ <i>u.</i> °क <i>m.</i> eine Schafart."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "एड",
+            "eid": "07457",
+            "pagenum": 153,
+            "content": "eqa¦ <i>(I) a. (f. डा)</i> Deaf."
+        },
+        {
+            "word": "एड",
+            "eid": "07458",
+            "pagenum": 153,
+            "content": "eqa¦ <i>(II) m.</i> A kind of sheep."
+        }
     ]
 }

@@ -7,5 +7,29 @@
             "pagenum": 158,
             "content": "अयुज¦ <i><ab>a.</ab></i> <b>1</b> Having no equal or companion. <b>--2</b> Separate, single, odd."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अयुज",
+            "eid": "2712",
+            "pagenum": 39,
+            "content": "अयुज/¦ <lex>a.</lex> not paired, uneven, odd."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अयुज",
+            "eid": "942",
+            "pagenum": 98,
+            "content": "<b>a-yujá,</b>¦ <ab>a.</ab>, <i>ohne Genossen,</i> <ab>d. h.</ab> <i>nicht seines Gleichen habend</i>. <div n='TS'>-ás {671,2} von Indra (parallel ásamas)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अयुज",
+            "eid": "377",
+            "pagenum": 120,
+            "content": "<b>a-yujá,</b>¦ <i><ab>a.</ab></i> not paired, uneven. [<ab>cf.</ab> <lang n='greek'>ἄ-ζυγος</lang>, ‘unpaired’; also <lang n='greek'>ζυγὰ ἢ ἄζυγα</lang>, the game ‘even or odd.’]"
+        }
     ]
 }

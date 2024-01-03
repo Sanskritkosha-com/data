@@ -15,5 +15,37 @@
             "pagenum": 66,
             "content": "अस्थन्¦ <i>asthan,</i> see <i>asthi.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अस्थन्",
+            "eid": "3843",
+            "pagenum": 56,
+            "content": "अस्थ/न्¦ <lex>n.</lex> bone; <ab>poss.</ab> अस्थ°न्वन्त्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अस्थन्",
+            "eid": "2398",
+            "pagenum": 37,
+            "content": "अस्थ/न्¦ <i>u.</i> अ/स्थि <i>n.</i> Knochen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अस्थन्",
+            "eid": "1370",
+            "pagenum": 158,
+            "content": "<b>asthán,</b>¦ <ab>n.</ab>, <i>Knochen</i> [<ls>Cu. 〔213〕</ls>, <ls>Pauli, Körpertheile 〔p. 24〕</ls>]. Im <ls>RV</ls> nur asthábhis (asthnás [Page159] <ls>AV. 4,12,1</ls>; ásthi <ls>AV. 4,10,7</ls> <ab>u. s. w.</ab>), siehe an-asthán. <div n='TS'>-ábhis {84,13}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अस्थन्",
+            "eid": "528",
+            "pagenum": 123,
+            "content": "<b>asthán</b>¦ [<ls n='wg,431'>431]</ls>, <i><ab>n.</ab></i> bone. [<ab>cf.</ab> <lang n='greek'>ὀστέον</lang>, <ab>Lat.</ab> stem <i>ossi-, *osti-,</i> <ab>nom.</ab> <i>os,</i> ‘bone.’]"
+        }
     ]
 }

@@ -31,5 +31,43 @@
             "pagenum": 151,
             "content": "*कस्¦ <i>kas.</i> <i>kasāmi</i> 1; <ab>p.</ab> <i>cakāsa;</i> <ab>etc.</ab> Aller. -- <ab>Cf.</ab> <i>kaṃs, kac, kaṣ.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कस्",
+            "eid": "7382",
+            "pagenum": 114,
+            "content": "कस्¦ कसति <vlex type='root'/> <ab>pp.</ab> कस्त <ab>w.</ab> उद् gape, open (intr.). निस् <ab>C.</ab> निष्कासयति drive away. प्र <ab>C.</ab> (the same*), cause to expand or bloom. वि burst, expand, spread, bloom, blossom, shine, beam. <ab>C.</ab> cause to blow or shine."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कस्",
+            "eid": "2507",
+            "pagenum": 321,
+            "content": "<b>√kas</b>¦ mit <b>úd,</b> <i>sich spalten, sich aufthun;</i> mit <b>ví,</b> <i>sich spalten</i>. <div n='H'>Stamm <b>kasa:</b> <div n='TS'>-antu <b>úd</b> <ls>AV. 11,9,21</ls>. <div n='H'><ab>Part.</ab> II. <b>kasta:</b> <div n='TS'>-am <b>ví</b> {117,24} śyā́vam (trídhā víkastam)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कस्",
+            "eid": "1075",
+            "pagenum": 140,
+            "content": "<b>√kas</b>¦ (<b>kásati; kastá; kāsáyati</b>). move. <b>+ vi,</b> move asunder; open; bloom; <i><ab>caus.</ab></i> <i><ab>pass.</ab></i> be made to bloom."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कस्",
+            "eid": "08750",
+            "pagenum": 177,
+            "content": "kas¦ <i>(I) vt. 1P (pp. कसित)</i> 1. To go, to approach.<P>With वि-, to open, to expand, विकसति हि पतंगस्योदये पुंडरीकम् <ls>M.M.</ls>i., <ls>Sis.</ls>ix.47, <ls>K.S.</ls>vii.55; (caus. pres. कासयति-ते).<P>With निस्-, 1. to take out; 2. to drive out or away, to banish, to expel, निरकासयद्रविमपेतवसुं वियदालयादपरदिग्गणिका <ls>Sis.</ls>ix.10.<P>With प्र-, to open, to cause to expand, घनमुक्तांबुलवप्रकाशितैः (कुसुमैः) <ls>Ghat.</ls>19.<P>With वि-, to open, to cause to expand, इंदुर्विकासयति कैरविणीकुलानि <ls>Bhartr.</ls>ii."
+        },
+        {
+            "word": "कस्",
+            "eid": "08751",
+            "pagenum": 177,
+            "content": "kas¦ <i>(II) vt. 2A (pres. कस्ते or कंस्ते)</i> 1. To go; 2. to destroy."
+        }
     ]
 }

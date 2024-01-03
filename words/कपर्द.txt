@@ -44,5 +44,59 @@
             "pagenum": 139,
             "content": "कपर्द¦ <i>kaparda</i> <ab>m.</ab> et <i>kapardaka</i> <ab>m.</ab> la chevelure tressée dè <s1 slp1='rudra'>Rudra</s1> ou de <s1 slp1='Siva'>Śiva</s1>. || Petit coquillage employé comme monnaie.  <P><i>kapardin</i> <ab>n.</ab> <ab>ép.</ab> de <s1 slp1='rudra'>Rudra</s1>. [<ab>Vd.</ab>], ensuite de <s1 slp1='Siva'>Śiva</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कपर्द",
+            "eid": "7010",
+            "pagenum": 109,
+            "content": "कपर्द¦ <lex>m.</lex> a small shell used as a coin; braided or knotted hair (resembling a shell)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कपर्द",
+            "eid": "4340",
+            "pagenum": 72,
+            "content": "कपर्द¦ <i>m.</i> Otterköpfchen <i>(gewundene kleine</i> <i>Muschel, als Münze oder Würfel gebraucht)</i> <lbinfo n='10'/> *muschelartig aufgewundene Harrflechte, Locke."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कपर्द",
+            "eid": "2419",
+            "pagenum": 313,
+            "content": "<b>(kaparda),</b>¦ <ab>m.</ab>, eine gewundene kleine Muschel, dann die in Form einer solchen aufgewundene <i>Haarflechte,</i> in der letzten Bedeutung enthalten in cátuṣkaparda, dakṣiṇatás-kaparda, und zu Grunde liegend in kapardín."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कपर्द",
+            "eid": "2549",
+            "pagenum": 144,
+            "content": "<i>kaparda</i>¦ (CII 4), also called <i>kapardī, kapardaka,</i> etc.; cowrie-shell used as coin."
+        },
+        {
+            "word": "कपर्द",
+            "eid": "7692",
+            "pagenum": 434,
+            "content": "<i>kaparda,</i>¦ same as <i>kapardaka,</i> etc.; cowrie-shell used as coin."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कपर्द",
+            "eid": "1033",
+            "pagenum": 139,
+            "content": "<b>kaparda,</b>¦ <i><ab>m.</ab></i> small shell used as a coin, 80 = <b>1paṇa; -aka,</b> <i><ab>m.</ab> the same.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कपर्द",
+            "eid": "08159",
+            "pagenum": 166,
+            "content": "kaparda¦ <i>m.</i> 1. A small shell; 2. braided hair of Śiva."
+        }
     ]
 }

@@ -36,5 +36,43 @@
             "pagenum": 54,
             "content": "अवरज¦ <i>avaraja</i> <ab>m.</ab> <i>(jan)</i> cadet, puîné."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अवरज",
+            "eid": "3178",
+            "pagenum": 46,
+            "content": "अवरज¦ <lex>a.</lex> low-born, born after (another). <lex>m.</lex> a Śūdra or a younger brother; <lex>f.</lex> आ a younger sister."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अवरज",
+            "eid": "2011",
+            "pagenum": 31,
+            "content": "अवरज¦ niedrig geboren, jünger; <i>m.</i> ein Śūdra, jüngerer Bruder; <i>f.</i> <i>A</i> jüngere Schwester."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "अवरज",
+            "eid": "695",
+            "pagenum": 39,
+            "content": "<i>avaraja</i>¦ (ML), a younger brother or cousin."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अवरज",
+            "eid": "03842",
+            "pagenum": 75,
+            "content": "avara-ja¦ <i>(I) a.</i> younger, junior."
+        },
+        {
+            "word": "अवरज",
+            "eid": "03843",
+            "pagenum": 75,
+            "content": "avara-ja¦ <i>(II) m.</i> 1. a younger brother; 2. a <i>Śūdra</i>."
+        }
     ]
 }

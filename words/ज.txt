@@ -43,5 +43,43 @@
             "pagenum": 256,
             "content": "ज¦ <i>ja</i> <ab>m.</ab>, dans le langage mystique, désigne <lbinfo n='5'/> <s1 slp1='vizRu'>Viṣṇu</s1> ou <s1 slp1='Siva'>Śiva</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ज",
+            "eid": "10869",
+            "pagenum": 178,
+            "content": "ज¦ <lex>a.</lex> born, produced, caused by, in, or from; made of, living at, belonging to, connected with (—°). <lex>f.</lex> जा/ race; —° daughter."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ज",
+            "eid": "7307",
+            "pagenum": 130,
+            "content": "ज¦ (—°) geboren von, entstanden aus o. in, gemacht aus, gehörig zu, verbunden mit. <i>f.</i> जा/ Stamm; —° Tochter."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ज",
+            "eid": "1559",
+            "pagenum": 157,
+            "content": "<b>já,</b>¦ <i><ab>vbl.</ab></i> born; born from; occasioned <i>or</i> produced by; <i>only in <ab>cpds.</ab></i> [<b>√jan,</b> <ls n='wg,333'>333</ls>: <ab>cf.</ab> <b>jā,</b> the older form, <ls n='wg,354'>354.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ज",
+            "eid": "14111",
+            "pagenum": 282,
+            "content": "ja¦ <i>(I) a. (f. जा) (at the end of compounds)</i> Born from or in, produced or caused by, growing in &c. <ls>R.</ls>i.31, <ls>M.</ls>i.43, 44, 45, 46."
+        },
+        {
+            "word": "ज",
+            "eid": "14112",
+            "pagenum": 282,
+            "content": "ja¦ <i>(II) m.</i> 1. A father; 2. production, birth; 3. poison; 4. an imp; 5. a conqueror."
+        }
     ]
 }

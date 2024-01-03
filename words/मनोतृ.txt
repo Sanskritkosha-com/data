@@ -7,5 +7,45 @@
             "pagenum": 842,
             "content": "मनोतृ¦ <i><ab>m.</ab></i> <ab>Ved.</ab> <b>1</b> An inventor. <b>--2</b> A manager. <b>--3</b> An honourer."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मनोतृ",
+            "eid": "23850",
+            "pagenum": 396,
+            "content": "मनो/तृ¦ <lex>m.</lex>  inventor, disposer."
+        },
+        {
+            "word": "मनोतृ",
+            "eid": "23851",
+            "pagenum": 396,
+            "content": "मनोतृ/¦ <lex>m.</lex> inventor, disposer."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "मनोतृ",
+            "eid": "6621",
+            "pagenum": 999,
+            "content": "<b>manótṛ,</b>¦ <ab>m.</ab>, <i>Ersinner, Erfinder</i> (des Liedes) [von <hom>1.</hom> man 16 aus der Stammform manu gebildet]. <div n='TS'>-ā vácasas {200,4}; asyā́s dhiyás <chg type='chg' n='172' src='gra'><old>{442,4}</old><new>{442,1}</new></chg>; dhiyā́ 〰 prathamás {803,1}; in allen drei Stellen von Agni."
+        },
+        {
+            "word": "मनोतृ",
+            "eid": "6622",
+            "pagenum": 999,
+            "content": "<b>manotṛ́,</b>¦ <ab>m.</ab>, <i>Anweiser, Zuweiser</i> (der Güter) [von <hom>1.</hom> man aus manu; in Bezug auf die Bedeutung <ab>vgl.</ab> man mit ánu 6]. <div n='TS'>-árā [<ab>d.</ab>] rayīṇáam {628,12} (aśvínau)."
+        },
+        {
+            "word": "मनोतृ",
+            "eid": "11172",
+            "pagenum": 1745,
+            "content": "999,25: {442,1} <ab>st.</ab> {442,4} <info vn='chg 172 gra'/>"
+        },
+        {
+            "word": "मनोतृ",
+            "eid": "12446",
+            "pagenum": 1765,
+            "content": "<b>manotṛ́:</b>¦<info vn='add 404 gra'/> <div n='TS'>-árā {46,2}."
+        }
     ]
 }

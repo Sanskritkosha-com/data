@@ -324,5 +324,57 @@
             "pagenum": 261,
             "content": "महादेव¦ <i>m.</i> (<i>KARM.</i> e महा et देव deus) magnus deus, <i>sic</i> <i>praesertim Sivus nominatur.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "महादेव",
+            "eid": "24213",
+            "pagenum": 401,
+            "content": "महादेव/¦ <lex>m.</lex> the great god, <ab>esp.</ab> Rudra-Śiva or Viṣṇu; <ab>f.</ab> ई the great goddess <ab>i.e.</ab> Pārvatī or Lakṣmī, the first wife of a king."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "महादेव",
+            "eid": "18389",
+            "pagenum": 325,
+            "content": "महादेव/¦ <i>m.</i> der große Gott <i>(bes. RudraŚiva)</i>; <lbinfo n='7'/> <i>f.</i> ई die große Göttin <i>(bes. Pārvatī)</i>, <lbinfo n='10'/> die erste Frau eines Fürsten."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "महादेव",
+            "eid": "3089",
+            "pagenum": 175,
+            "content": "<i>mahādeva</i>¦ (IE 7-1-2), ‘eleven’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "महादेव",
+            "eid": "6746",
+            "pagenum": 454,
+            "content": "<b>Mahādeva</b><sup>1</sup>¦ (“the great god”) = Śiva, q.v."
+        },
+        {
+            "word": "महादेव",
+            "eid": "6747",
+            "pagenum": 454,
+            "content": "<b>Mahādeva</b><sup>2</sup>¦ (do.) = Brahmán: XII, 9176, 13047."
+        },
+        {
+            "word": "महादेव",
+            "eid": "6748",
+            "pagenum": 454,
+            "content": "<b>Mahādeva</b><sup>3</sup>¦ (do.) = Viṣṇu (Kṛṣṇa): III, 8125 (<i>Viṣṇuṃ</i>); V, 298; VI, 3036 (= Kṛṣṇa); XII, 4490, 10087; XIII, 7001 (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "महादेव",
+            "eid": "29533",
+            "pagenum": 560,
+            "content": "mahA-deva¦ <i>m.</i> an epithet of Śiva."
+        }
     ]
 }

@@ -7,5 +7,29 @@
             "pagenum": 1080,
             "content": "सचनं¦ <b>1</b> Honouring. <b>--2</b> Service, attendance. <b>--3</b> Assisting, helping."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सचन",
+            "eid": "34250",
+            "pagenum": 576,
+            "content": "सचन/¦ <lex>a.</lex> = सचथ्य/ <ab>adj.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सचन",
+            "eid": "25817",
+            "pagenum": 466,
+            "content": "सचन/¦ = <i>vor. Adj.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सचन",
+            "eid": "9137",
+            "pagenum": 1447,
+            "content": "<b>sacaná,</b>¦ <ab>a.</ab>, <i>hülfreich geleitend, hülfreich, hold</i> [von sac]. <div n='TS'>-ás vām ráthas {116,18}. <div n='TS'>-ásya (mádhvas) {480,1}."
+        }
     ]
 }

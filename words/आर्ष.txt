@@ -31,5 +31,49 @@
             "pagenum": 80,
             "content": "आर्ष¦ <i>ārṣa</i> <ab>a.</ab> <i>(ṛṣi)</i> qui vient des <s1 slp1='fzi'>ṛṣi</s1>s; qui est conforme au <s1 slp1='veda'>Veda</s1>. || Respectable, vénérable. -- <ab>S.</ab> <ab>m.</ab> paroles ou langage des <s1 slp1='fzi'>ṛṣi</s1>s, <ab>c-à-d.</ab> du <s1 slp1='veda'>Veda</s1>. || Une des formes du mariage; voyez les Lois de <s1 slp1='manu'>Manu</s1>. -- <ab>S.</ab> <ab>f.</ab> <i>ārṣī</i> le <i>saṃhitā-pāṭha.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "आर्ष",
+            "eid": "4578",
+            "pagenum": 67,
+            "content": "आर्ष¦ <lex>f.</lex> ई belonging to or derived from the Ṛṣis, archaic. <ab>m.</ab> (± विवाह) a <ab>cert.</ab> form of marriage. <lex>n.</lex> holy text or Veda; sacred origin."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आर्ष",
+            "eid": "2843",
+            "pagenum": 44,
+            "content": "आर्ष¦ <i>f.</i> ई von den Rishis herrührend, altertümlich. <lbinfo n='8'/>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "आर्ष",
+            "eid": "829",
+            "pagenum": 90,
+            "content": "<b>*Ārṣa</b>,¦ adj. (“belonging to or named after the ṛṣis”): XII, 349 (<i>vidhiḥ</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आर्ष",
+            "eid": "05409",
+            "pagenum": 108,
+            "content": "Arza¦ <i>(I) a. (f. र्षी)</i> 1. Relating or belonging to a Ṛishi; 2. Vedic, (op. to लौकिक or classical), e.g. आर्षः प्रयोगः."
+        },
+        {
+            "word": "आर्ष",
+            "eid": "05410",
+            "pagenum": 108,
+            "content": "Arza¦ <i>(II) m.</i> One of the eight forms of marriage; in it the father of the bride receives one pair of kine from the bride-groom (आदायार्षस्तु गोद्वयम् <ls>Yaj.</ls>i.59); for the names of the eight forms, see आसुर."
+        },
+        {
+            "word": "आर्ष",
+            "eid": "05411",
+            "pagenum": 108,
+            "content": "Arza¦ <i>(III) n.</i> The holy text, i.e. the Vedas."
+        }
     ]
 }

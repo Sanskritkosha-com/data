@@ -44,5 +44,51 @@
             "pagenum": 100,
             "content": "उदर¦ <i>udara</i> <ab>m.</ab> <i>(ut-ṛ</i> être saillant?) ventre; <lbinfo n='4'/> <ab>lat.</ab> uterus. || Guerre.  <P><i>udarī</i> <ab>f.</ab> enflure du ventre, <ab>t.</ab> de <ab>méd.</ab>  <P><i>udaragranthi</i> <ab>m.</ab> <i>(granthi)</i> affection chronique <lbinfo n='5'/> de l'abdomen, le spleen des Anglais, <ab>t.</ab> de <ab>méd.</ab>  <P><i>udaratrāṇa</i> <ab>n.</ab> <i>(trā)</i> cuirasse ou cotte protégeant le ventre."
         }
+    ],
+    "CAE": [
+        {
+            "word": "उदर",
+            "eid": "5486",
+            "pagenum": 84,
+            "content": "उद/र¦ <lex>n.</lex> (<ab>adj.</ab> —° <lex>f.</lex> आ & ई) belly, womb, cavity, interior, inside; <ab>loc.</ab> within, amidst (—°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उदर",
+            "eid": "3423",
+            "pagenum": 56,
+            "content": "उदर/¦ <i>n. (adj. — ° f.</i> आ <i>u.</i> ई) Bauch, Mutterleib, Wasserbauch <i>(Krankheit)</i>, Höhlung."
+        },
+        {
+            "word": "उदर",
+            "eid": "29771",
+            "pagenum": 539,
+            "content": "उद/र¦ <i>st.</i> उदर/."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "उदर",
+            "eid": "1911",
+            "pagenum": 253,
+            "content": "<b>udára,</b>¦ <ab>n.</ab>, ursprünglich „Anschwellung“ [von ar mit úd], daher der <i>Bauch</i>. <div n='TS'>-am {42,9}; {621,23}; {622,1}; {687,7}; {912,23}. <div n='TS'>-asya ū́vadhyam {162,10}. <div n='TS'>-e {30,3}; {700,5}. <div n='TS'>-eṣu {25,15}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "उदर",
+            "eid": "811",
+            "pagenum": 132,
+            "content": "<b>udára,</b>¦ <i><ab>n.</ab></i> belly. [<ab>orig.</ab>, perhaps, ‘rising, swelling,’ <b>√ṛ + ud:</b> for <ab>mg</ab>, <ab>cf.</ab> the relation of <i>belly</i> to <ab>AS.</ab> <i>belgan,</i> ‘swell.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "उदर",
+            "eid": "06396",
+            "pagenum": 130,
+            "content": "udara¦ <i>n.</i> 1. The belly, उत्थानोच्छूनमंडूकपाटितोदरसंनिभे <ls>K.Pr.</ls>vii., <ls>M.</ls>iv.175; 2. cavity, interior or inside of anything, त्वां कारयामि कमलोदरबंधनस्थम् <ls>Sak.</ls>vi., <ls>R.</ls>v.70, <ls>Sant.S.</ls>i.5; 3. enlargement of the abdomen from dropsy or flatulence; 4. slaughter."
+        }
     ]
 }

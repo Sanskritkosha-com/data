@@ -39,5 +39,57 @@
             "pagenum": 29,
             "content": "अन्त्य¦ <i>antya</i> <ab>a.</ab> <i>(anta)</i> dernier, final; dernier en bas. -- <ab>S.</ab> <ab>m.</ab> cyperus rotundus, <ab>bot.</ab>  <P><i>antyaja</i> <ab>m.</ab> homme de basse naissance, <s1 slp1='SUdra'>Śūdra</s1>.  <P><i>antyajanman</i> <ab>m.</ab> <ab>f.</ab> <ab>mms.</ab>  <P><i>antyavarṇa</i> <ab>a.</ab> de caste inférieure."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अन्त्य",
+            "eid": "1696",
+            "pagenum": 25,
+            "content": "अन्त्य¦ <lex>a.</lex> ultimate, last (in <ab>sp.</ab>, <ab>t.</ab>, and order)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अन्त्य",
+            "eid": "1119",
+            "pagenum": 17,
+            "content": "अन्त्य¦ der äußerste, letzte."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अन्त्य",
+            "eid": "3983",
+            "pagenum": 129,
+            "content": "अन्त्य¦ 1. m. f. n. (-न्त्यः-न्त्या-न्त्यम्) <sup>1</sup> Last, ultimate. (In the Vaiśeṣika philos., अन्त्यो विशेषः is called ‘the ultimate degree of particularity or divisibility, which is the condition of eternal substances only’, viz. the condition of simple, non-compound substances, of atoms, since there is an end of discrimination when this last degree of elementary existence has been arrived at; compare also अन्त्यावस्थिति.) <sup>2</sup> Final (as the letter of a word). <sup>3</sup> Nearest, e. g. नवान्त्य nearest to nine i. e. ten. Comp. अन्तिम and the words named s. v. अन्तिक. <sup>4</sup> Inferior, lowest, belonging to the lowest tribe (see the following meanings). [Tatpur. compounds--not Karmadh.--the latter part of which is अन्त्य have the udātta accent on the first syllable.] <div n='P'>2. m. (-न्त्यः) <sup>1</sup> A man of the lowest tribe. See अन्त्यज. <sup>2</sup> A Mlechchha or foreigner. See अन्त्यज. <sup>3</sup> (In Astronomy.) The twelfth or last lunar month, called Phālguna. <sup>4</sup> A fragrant grass (Cyperus rotundus). See मुस्ता. <sup>5</sup> m. pl. (-न्त्याः) The name of a people or country; read also अन्धाः or अन्ध्राः or अध्याः. <div n='P'>3. f. (-न्त्या) <sup>1</sup> A woman of the lowest tribe. See अन्त्यज. <sup>2</sup> (In Astronomy) thus defined: अहोरात्रवृत्तव्यासार्धं त्रिज्या- तुल्यैरङ्कैरङ्क्यते तावत्त्रिज्यातुल्यं भवति तैरङ्कैर्यावत्कुज्या गण्यते तावच्चरज्यातुल्या भवति । अथ चरज्यया त्रिज्या युतोना अन्त्या- संज्ञा भवति (Siddhāntaśir. Gaṇitādhy. ed. Calc. p. 128). <div n='P'>4. n. (-न्त्यम्) <sup>1</sup> (In Arithm.) A measure of number, a thousand billions (1000,000,000,000,000). <sup>2</sup> (In Astronomy.) The last or twelfth sign (लग्न) of the Zodiac, the Pisces or मीनराशि. See अन्त्यभ. <sup>3</sup> (In Astronomy.) The last or twenty seventh mansion in the circumference of the moon's periodical revolution, the Nakshatra Revatī, the Yoga star of which is <lang n='greek'>ζ</lang> Piscium. See अन्त्यभ. E. अन्त, taddh. aff. यत्."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अन्त्य",
+            "eid": "258",
+            "pagenum": 117,
+            "content": "<b>antya,</b>¦ <i><ab>a.</ab></i> being at the end, last; lowest; of lowest caste. [<b>ánta.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अन्त्य",
+            "eid": "01779",
+            "pagenum": 31,
+            "content": "antya¦ <i>(I) a. (f. न्त्या)</i> 1. Last (in place, time, or order), असद्मपीडं भगवन्नृणमंत्यमवेहि मे <ls>R.</ls>i.71, viii.71; 2. immediately following; 3. inferior, lowest."
+        },
+        {
+            "word": "अन्त्य",
+            "eid": "01780",
+            "pagenum": 31,
+            "content": "antya¦ <i>(II) m.</i> 1. The last syllable of a word; 2. a man of the lowest tribe; 3. the last lunar month, viz., फाल्गुन; 4. a Mlechha or foreigner."
+        },
+        {
+            "word": "अन्त्य",
+            "eid": "01781",
+            "pagenum": 31,
+            "content": "antya¦ <i>(III) n.</i> 1. The 12th sign of the Zodiac; 2. a measure of number, a thousand billions."
+        }
     ]
 }

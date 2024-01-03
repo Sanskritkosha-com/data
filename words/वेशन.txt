@@ -7,5 +7,29 @@
             "pagenum": 1012,
             "content": "वेशनं¦ <b>1</b> Entering, entrance. <b>--2</b> A house."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वेशन",
+            "eid": "31040",
+            "pagenum": 523,
+            "content": "वेशन¦ <lex>n.</lex> entering, entrance."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वेशन",
+            "eid": "23518",
+            "pagenum": 425,
+            "content": "वेशन¦ <i>n.</i> Eintritt."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वेशन",
+            "eid": "36285",
+            "pagenum": 692,
+            "content": "veSana¦ <i>n.</i> 1. Entering; 2. a house."
+        }
     ]
 }

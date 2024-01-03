@@ -39,5 +39,41 @@
             "pagenum": 425,
             "content": "पौलोम¦ <i>pauloma</i> <ab>a.</ab> issu de <s1 slp1='puloman'>Puloman</s1>. -- <ab>F.</ab> <i>paulomi</i> l'épouse d'<s1 slp1='indra'>Indra</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पौलोम",
+            "eid": "20038",
+            "pagenum": 330,
+            "content": "पौलोम¦ <lex>a.</lex> relating to Puloman or Puloma. <lex>m.</lex> <ab>N.</ab> of a Ṛṣi, <ab>pl.</ab> a <ab>cert.</ab> class of demons; <lex>f.</lex> ई patron. of Indra's wife."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पौलोम",
+            "eid": "15073",
+            "pagenum": 265,
+            "content": "पौलोम¦ zu Puloman <i>o.</i> Pulomā gehörig. <i>m. N. eines Rishi; f.</i> ई <i>patr. Name der</i> <i>Gattin Indra's.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "पौलोम",
+            "eid": "8253",
+            "pagenum": 547,
+            "content": "<b>Pauloma</b><sup>1</sup>,¦ adj. (“relating to Pulomā or Puloman,” sc. parvan) = Paulomaparvan. § 4 (Anukram.): I, <b>1</b>, 88 (<i>°āstīkamūlavān</i>, sc. <i>Bhāratadrumaḥ</i>).—§ 10 (Parvasaṅgr.): I, <b>2</b>, 304, 312.—§ 11 (do.): I, <b>2</b>, 360, 365."
+        },
+        {
+            "word": "पौलोम",
+            "eid": "8254",
+            "pagenum": 547,
+            "content": "<b>Pauloma</b><sup>2</sup>,¦ a tīrtha. § 250 (Arjunavanavāsap.): I, <b>216</b>, 7841 (<i>tīrthaṃ</i>, one of the five Nārītīrthāni)."
+        },
+        {
+            "word": "पौलोम",
+            "eid": "8255",
+            "pagenum": 547,
+            "content": "<b>Pauloma</b><sup>3</sup>,¦ pl. (<i>°āḥ</i>), a tribe of Asuras. § 11 (Parvasaṅgr.): I, <b>2</b>, 460 (<i>°aiḥ Kālakeyaiś ca yatra yuddhaṃ Kirīṭinaḥ</i>, cf. § 445).—§ 445 (Nivātakavacayuddhap.): III, <b>173</b>, 12198 (<i>°aiḥ Kālakañjaiś ca</i>, in Hiraṇyapura), 12208 (the offspring of Pulomā, in Hiraṇyapura), 12209 (<i>mahāsuraiḥ</i>, destroyed by Arjuna).—§ 552 (Goharaṇap.): IV, <b>45</b>, 1431 (defeated by Arjuna, all. to § 445).—§ 552<i>d</i> (Arjuna): IV, <b>61</b>, 1976 (<i>°ān Kālakañjāṃś ca</i>, vanquished by Arjuna, all. to § 445). —§ 561<i>d</i> (Nara-Nārāyaṇau): V, <b>49</b>, 1930 (do., slain by Nara (i.e. Arjuna), all. to § 445).—§ 593 (Abhimanyuvadhap.): VII, <b>51</b>, 1998 (<i>Hiraṇyapuravāsinaḥ…P°āḥ</i> <i>sagaṇā hatāḥ</i>, sc. by Arjuna, all. to § 445). Cf. next."
+        }
     ]
 }

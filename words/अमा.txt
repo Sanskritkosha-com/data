@@ -53,5 +53,71 @@
             "pagenum": 43,
             "content": "अमा¦ <i>amā</i> <ab>f.</ab> le jour de la nouvelle lune."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अमा",
+            "eid": "2559",
+            "pagenum": 37,
+            "content": "अमा/¦ <ab>adv.</ab> at home, home; with कृ appropriate or keep by one's self."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अमा",
+            "eid": "1648",
+            "pagenum": 25,
+            "content": "अमा/¦ <i>Adv.</i> daheim, heimwärts."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अमा",
+            "eid": "874",
+            "pagenum": 91,
+            "content": "<b>amā́,</b>¦ <i>daheim</i> [von áma (dieser) herstammend, in dem Sinne eines Locativs], Gegensatz [Page92] áraṇe ({889,16}), áraṇye ({465,10}, wo das Versmass gleichfalls áraṇe fordert), ádhvan {492,15}, ádhvasu {1011,2}. Mit as, daheim sein ({124,12}; {505,6}), mit bhū ({229,6} der Wandernden Sehnsucht war daheim, <ab>d. h.</ab> sie sehnten sich nach Hause). <div n='P'>{124,12}; {227,3}; {229,6}; {465,10}; {492,15}; {505,6}; {853,2}; {889,16}; {1011,2}."
+        },
+        {
+            "word": "अमा",
+            "eid": "12085",
+            "pagenum": 1751,
+            "content": "<b>amā́:</b>¦<info vn='add 74 gra'/> <div n='P'>{954,6}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "अमा",
+            "eid": "276",
+            "pagenum": 16,
+            "content": "<i>amā</i>¦ (EI 21), abbreviation of <i>amāvāsyā.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अमा",
+            "eid": "352",
+            "pagenum": 119,
+            "content": "<b>amā́,</b>¦ <i><ab>adv.</ab></i> at home, chez soi; <b>amā kṛ,</b> keep by one. [<b>áma,</b> <ls n='wg,1112'>1112a</ls> and e.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अमा",
+            "eid": "02920",
+            "pagenum": 56,
+            "content": "amA¦ <i>(I) f.</i> 1. The day of the conjunction of the sun and the moon, the day of the new moon (Cf. अमावस्या), अमायां तु सदा सोम ओषधीः प्रतिपद्यते Vyāsa as quoted by <ls>Mall.</ls> on <ls>R.</ls>xiv.80; 2. the sixteenth digit of the moon."
+        },
+        {
+            "word": "अमा",
+            "eid": "02921",
+            "pagenum": 56,
+            "content": "amA¦ <i>(II) a.</i> Measureless."
+        },
+        {
+            "word": "अमा",
+            "eid": "02922",
+            "pagenum": 56,
+            "content": "amA¦ <i>(III) ind.</i> 1. Near; 2. with, together with."
+        }
     ]
 }

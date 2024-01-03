@@ -7,5 +7,41 @@
             "pagenum": 125,
             "content": "अब्दया¦ <i><ab>adv.</ab></i> <ab>Ved.</ab> With a desire to give water."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अब्दया",
+            "eid": "2222",
+            "pagenum": 32,
+            "content": "अब्दया/¦ (<ab>instr.</ab>) from desire to give water."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अब्दया",
+            "eid": "757",
+            "pagenum": 81,
+            "content": "<chg type='chg' n='31' src='gra'><old><b>ab-dā́,</b></old><new><b>ab-dayā́,</b></new></chg>¦ <ab>f.</ab>, <i>Lust zur Wasserspende</i> [áp und ā́]. <div n='TS'><chg type='chg' n='32' src='gra'><old>-ajā́</old><new>-ā́</new></chg> [<ab>I.</ab>] <ab>adv.</ab> {408,3}."
+        },
+        {
+            "word": "अब्दया",
+            "eid": "11031",
+            "pagenum": 1741,
+            "content": "81,17 <ab>v. u.</ab>: ab-dayā́ <ab>st.</ab> ab-dā́ <info vn='chg 31 gra'/>"
+        },
+        {
+            "word": "अब्दया",
+            "eid": "11032",
+            "pagenum": 1741,
+            "content": "81,16 <ab>v. u.</ab>: -ā́ <ab>st.</ab> -ajā́ <info vn='chg 32 gra'/>"
+        }
+    ],
+    "GST": [
+        {
+            "word": "अब्दया",
+            "eid": "5779",
+            "pagenum": 229,
+            "content": "अब्दया.¦ See अब्द 1."
+        }
     ]
 }

@@ -47,5 +47,35 @@
             "pagenum": 150,
             "content": "कवक¦ <i>kavaka</i> <ab>m.</ab> bouchée, gorgée. || champignon."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कवक",
+            "eid": "7343",
+            "pagenum": 114,
+            "content": "कवक¦ <lex>n.</lex> a mushroom."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कवक",
+            "eid": "4575",
+            "pagenum": 78,
+            "content": "कवक¦ <i>n.</i> Pilz."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कवक",
+            "eid": "08690",
+            "pagenum": 176,
+            "content": "kavaka¦ <i>(I) m.</i> A mouthful."
+        },
+        {
+            "word": "कवक",
+            "eid": "08691",
+            "pagenum": 176,
+            "content": "kavaka¦ <i>(II) n.</i> A mushroom, विड्जानि कवकानि च <ls>Yaj.</ls>i.171, <ls>M.</ls>v.5."
+        }
     ]
 }

@@ -31,5 +31,45 @@
             "pagenum": 413,
             "content": "*पीड्¦ <i>pīḍ.</i> <i>pīḍayāmi</i> 10; <ab>pqp.</ab> <i>apipīḍam</i> <lbinfo n='5'/> et <i>apīpiḍam;</i> <ab>pp.</ab> <i>pīḍita.</i> Presser, com- primer. || Au <ab>fig.</ab> opprimer, tourmenter, affliger. <lbinfo n='7'/>  <P><i>pīḍana</i> <ab>n.</ab> compression; || oppression, vexation; || prononciation trop forte, <ab>tg.</ab>  <P><i>pīḍayantragṛha</i> <ab>m.</ab> maison de travauxforcés <lbinfo n='6'/> où l'on enferme certains condamnés.  <P><i>pīḍā</i> <ab>f.</ab> compression; || oppression, torture, <lbinfo n='5'/> vexation ; || affliction; || ? pitié. || Chapelet ou guirlande de tête. || Pin à longues <lbinfo n='4'/> feuilles."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पीड्",
+            "eid": "19256",
+            "pagenum": 317,
+            "content": "पीड्¦ पीड/यति (पीड/य°ते) <vlex type='root'/> <ab>pp.</ab> पीडित (<ab>q.v.</ab>) press, squeeze, oppress, suppress, vex, harass, pain, beleaguer (a city), eclipse (sun or moon). <div n='p'>— अभि press against, tread upon, press, squeeze, vex, pain, beleaguer. <div n='p'>अव press down, vex, harass. <div n='p'>आ press out, vex, plague. <div n='p'>उद् press upwards or out of. <div n='p'>उप press, suppress, vex, pain. <div n='p'>नि press against or together, plague, annoy. <div n='p'>निस् press out or together. <div n='p'>परि press together, compress, plague or torment greatly. <div n='p'>प्र press, squeeze, pain. <div n='p'>सम् press together, pain, torment."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पीड्",
+            "eid": "14421",
+            "pagenum": 255,
+            "content": "पीड्,¦ पीड/यति (°ते) pressen, drücken, quetschen, bedrängen, plagen, peinigen, belagern <i>(eine Stadt)</i>, verfinstern <i>(ein</i> <i>Gestirn). p. p.</i> पीडित <i>(s. auch bes.).</i> अति heftig quälen. नि andrücken, pressen, plagen. सम् zusammendrücken, würgen, bedrängen, quälen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "पीड्",
+            "eid": "5515",
+            "pagenum": 820,
+            "content": "<b>√pīḍ,</b>¦ <i>pressen</i> [für pyad, <lang>gr.</lang> <gk>πιέζω</gk>, das ḍ aus d durch Einwirkung des ī entstanden]. <div n='H'><ab>Perf.</ab> <b>pipīḍ:</b> <div n='TS'>-ḍé [<pe>3.</pe> <ab>s.</ab>] passivisch: aṃśús {318,8}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "पीड्",
+            "eid": "2596",
+            "pagenum": 191,
+            "content": "<b>√pīḍ</b>¦ (<b>pīḍáyati</b> [<ls n='wg,1041'>1041<sup>2</sup></ls>]; <b>pīḍayā́m āsa;</b> <b>pīḍitá; pī́ḍayitum; pīḍayitvā́; -pī́ḍya</b>). press; oppress, pain. [for <b>*pizd, *pisd,</b> <ls n='wg,198'>198b<sup>3</sup></ls>: <ab>cf.</ab> <b>√piṣ.</b>] <div n='p'/><b>+ ā,</b> press out, <ls n='lan,103,20'>103<sup>20</sup></ls>."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पीड्",
+            "eid": "22641",
+            "pagenum": 439,
+            "content": "pIq¦ <i>vt. 10U (pp. पीडित; pres. पीडयति-ते)</i> 1. To squeeze, to press, to compress, to pinch, लभेत सिकतासु तैलमपि यत्नतः पीडयन् <ls>Bhartr.</ls>ii.5, <ls>M.</ls>i.51, <ls>R.</ls>xix.35; 2. to hurt, to injure, to harass, to annoy, <ls>M.</ls>iv.238, <ls>Bt.</ls>xv.82; 3. to cover with anything inauspicious; 4. to oppose, to resist.<P>With उद्-, to press out of, to press upwards, अन्योन्यमुत्पीडयदुत्पलाक्ष्याः स्तनद्वयं पांडु तथा प्रवृद्धम् <ls>K.S.</ls>i.40.<P>With उप-, to harass, to molest, to trouble, <ls>M.</ls>viii.195, viii.67.<P>With नि-, 1. to squeeze, to hold fast, to press together, <ls>R.</ls>v.65, ii.23; 2. to harass, to molest, to punish.<P>With निस्-, to press out.<P>With परि-, 1. to press, to squeeze; 2. to annoy, to molest, to trouble.<P>With प्र-, 1. to press; 2. to harass, to annoy.<P>With सम्-, to press, संपीड्य बाहुयुगलेन पिबामि वक्त्रम् <ls>Ch.P.</ls>3."
+        }
     ]
 }

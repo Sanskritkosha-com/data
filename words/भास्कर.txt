@@ -180,5 +180,57 @@
             "pagenum": 246,
             "content": "भास्कर¦ <i>m.</i> (lucem faciens e भास् et कर) sol. IN. 1. 29."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भास्कर",
+            "eid": "22887",
+            "pagenum": 378,
+            "content": "भास्कर/¦ <lex>a.</lex> the same; <lex>m.</lex> the sun, a man's name, <lex>n.</lex> a kind of breach (made by a thief)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भास्कर",
+            "eid": "17392",
+            "pagenum": 306,
+            "content": "भास्कर/¦ Licht machend, glänzend. <i>m.</i> Sonne, <i>Mannsname.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "भास्कर",
+            "eid": "1411",
+            "pagenum": 126,
+            "content": "<b>*Bhāskara</b><sup>1</sup>¦ (= the Sun): I, 5381 (<i>tīkṣṇāṃśo Bhāskara-</i> <i>syāṃśaḥ Karṇo 'rigaṇasūdanaḥ</i>), 5383 (<i>°syātmasambhavaḥ</i>, i.e. Karṇa); VI, 2380; VII, 7874 (<i>Svarbhānu-Bhāskarau</i>, i.e. Alambuṣa and Ghaṭotkaca), 7938 (<i>Svarbhānur iva</i> <i>Bhāskaram</i>); IX, 261, 535, 1174, 1333, 1640, 1654, 1858, 1919, 2311, 2457, 2846 (<i>bhagavān</i>); XI, 811; XII, 148 (<i>devena</i>), 4499 (<i>tejasām īśaṃ</i>), 11731, 11733; XIII, 4629, 7093 (the eighth of the twelve Ādityas), 7292 (<i>Soma-°au</i>)."
+        },
+        {
+            "word": "भास्कर",
+            "eid": "1412",
+            "pagenum": 126,
+            "content": "<b>Bhāskara</b><sup>2</sup>¦ = Śiva: XIV, 195."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भास्कर",
+            "eid": "2999",
+            "pagenum": 206,
+            "content": "<b>bhās-kará,</b>¦ <i><ab>m.</ab></i> the sun. [‘light-making’: <ls n='wg,171'>171<sup>3</sup></ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भास्कर",
+            "eid": "27468",
+            "pagenum": 527,
+            "content": "BAs-kara¦ <i>(I) m.</i> 1. the sun, <ls>R.</ls>xi.7, xii.25, <ls>K.S.</ls>vi.49; 2. a hero; 3. fire; 4. an epithet of Śiva; 5. name of a celebrated Hindu astronomer who flourished in the eleventh century of the Christian era."
+        },
+        {
+            "word": "भास्कर",
+            "eid": "27469",
+            "pagenum": 527,
+            "content": "BAs-kara¦ <i>(II) n.</i> gold."
+        }
     ]
 }

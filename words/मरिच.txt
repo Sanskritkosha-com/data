@@ -44,5 +44,35 @@
             "pagenum": 493,
             "content": "मरिच¦ <i>marica</i> et <i>marīca</i> <ab>n.</ab> poivre noir."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मरिच",
+            "eid": "24020",
+            "pagenum": 398,
+            "content": "मरिच¦ <lex>m.</lex> the pepper shrub; <lex>n.</lex> grain of pepper."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मरिच",
+            "eid": "18223",
+            "pagenum": 322,
+            "content": "मरिच¦ <i>m.</i> Pfefferstaude; <i>n.</i> Pfefferkorn."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मरिच",
+            "eid": "29123",
+            "pagenum": 556,
+            "content": "mari(rI)ca¦ <i>(I) m.</i> The pepper-shrub."
+        },
+        {
+            "word": "मरिच",
+            "eid": "29124",
+            "pagenum": 556,
+            "content": "mari(rI)ca¦ <i>(II) n.</i> Black pepper."
+        }
     ]
 }

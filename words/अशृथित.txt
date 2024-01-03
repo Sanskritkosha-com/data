@@ -7,5 +7,19 @@
             "pagenum": 201,
             "content": "अशृथित¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Not loosened."
         }
+    ],
+    "GRA": [
+        {
+            "word": "अशृथित",
+            "eid": "1230",
+            "pagenum": 138,
+            "content": "<chg type='chg' n='43' src='gra'><old><b>á-cṛthita,</b></old><new><b>á-śṛthita,</b></new></chg>¦ <ab>a.</ab>, <i>sich nicht auflösend</i> [śṛthita siehe śrath]. <div n='TS'>-ās {920,11} ádrayas."
+        },
+        {
+            "word": "अशृथित",
+            "eid": "11043",
+            "pagenum": 1741,
+            "content": "138,23 <ab>v. u.</ab>: á-śṛthita <ab>st.</ab> á-cṛthita <info vn='chg 43 gra'/>"
+        }
     ]
 }

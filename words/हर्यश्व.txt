@@ -28,5 +28,69 @@
             "pagenum": 750,
             "content": "हर्यश्व¦ <i>haryaśva</i> <ab>a.</ab> <i>(hari)</i> qui a des chevaux jaunes, <ab>ép.</ab> d'<s1 slp1='agni'>Agni</s1>, <ab>Vd.</ab> || <s1 slp1='indra'>Indra</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हर्यश्व",
+            "eid": "39412",
+            "pagenum": 658,
+            "content": "1 हर्यश्व¦ <lex>m.</lex>  = 1 हरिहय."
+        },
+        {
+            "word": "हर्यश्व",
+            "eid": "39412.1",
+            "pagenum": 658,
+            "content": "2 ह/र्यश्व¦ <lex>a.</lex> = 2 हरिहय."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हर्यश्व",
+            "eid": "29243",
+            "pagenum": 529,
+            "content": "1. हर्यश्व¦ <i>m.</i> ein falbes Ross."
+        },
+        {
+            "word": "हर्यश्व",
+            "eid": "29244",
+            "pagenum": 529,
+            "content": "2. ह/र्यश्व¦ falbrossig; <i>m. bein. Indra's</i>, <i>Mannsn.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "हर्यश्व",
+            "eid": "10587",
+            "pagenum": 1653,
+            "content": "<b>(háryaśva),</b> <b>hári-aśva,</b>¦ <ab>a.</ab>, <i>goldgelbe Rosse habend,</i> überall von Indra. <div n='TS'>-a indra {266,5}; {270,9}; {278,2}; {331,7}; {538,1}. _{538,2}; {540,4}; {553,5}; {699,3}; {930,3}. _{930,5}; {954,8}; {535,4}; {537,1}; {548,15}; {668,10}. <div n='TS'>-as índras {675,4}; {278,4}. <div n='TS'>-am (índram) {270,4}; {641,10}; {1022,2}. <div n='TS'>-ena (índreṇa) {208,3}. <div n='TS'>-āya índrāya {547,1}; {286,7}; {541,5}; {547,12}. <div n='TS'>-asya (índrasya) {265,3}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "हर्यश्व",
+            "eid": "4430",
+            "pagenum": 319,
+            "content": "<b>Haryaśva</b><sup>1</sup>,¦ king of Ayodhyā. § 565 (Gālavacarita): V, <b>115</b>, 3934 (<i>Ikṣvākuṃ…Ayodhyāyāṃ</i>), 3936, 3937; <b>116</b>, 3938, 3944, 3951, 3952, 3957 (obtained Madhavī by giving 200 horses to Gālava, and begat with her the sor Vasumanas).—§ 761 (Ānuśāsanik.): XIII, <b>115</b>δ, 5669 (the same(?), among the kings who abstained from meat during the month of Kārttika)."
+        },
+        {
+            "word": "हर्यश्व",
+            "eid": "4431",
+            "pagenum": 320,
+            "content": "<b>Haryaśva</b><sup>2</sup>,¦ king of the Kāśis, father of Sudeva and grandfather of Divodāsa. § 736<i>b</i> (Vītahavyop.): XIII, <b>30</b>, 1949 (<i>Divodāsapitāmahaḥ</i>), 1952 (<i>°sya dāyadaḥ…Sudevaḥ</i>)."
+        },
+        {
+            "word": "हर्यश्व",
+            "eid": "4432",
+            "pagenum": 320,
+            "content": "<b>Haryaśva</b><sup>3</sup>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हर्यश्व",
+            "eid": "42971",
+            "pagenum": 827,
+            "content": "hari-aSva¦ <i>m.</i> 1. Indra; 2. Śiva."
+        }
     ]
 }

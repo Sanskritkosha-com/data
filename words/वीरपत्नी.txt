@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "वीरपत्नी वीरभार्या कुलस्त्री कुलबालिका ।"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वीरपत्नी",
+            "eid": "30673",
+            "pagenum": 515,
+            "content": "वीर/पत्नी¦ <lex>f.</lex> the wife of a hero."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वीरपत्नी",
+            "eid": "23254",
+            "pagenum": 421,
+            "content": "वीर/पत्नी¦ <i>f.</i> Heldengattin."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वीरपत्नी",
+            "eid": "8317",
+            "pagenum": 1317,
+            "content": "<b>vīrá-patnī,</b>¦ <ab>f.</ab>, <i>Heldengattin</i>. <div n='TS'>-ī [<ab>N.</ab> <ab>s.</ab>] sárasvatī {490,7}. <div n='TS'>-ī [<ab>N.</ab> <ab>du.</ab>] añjasī́ kuliśī́ {104,4}."
+        }
     ]
 }

@@ -28,5 +28,37 @@
             "pagenum": 272,
             "content": "मेलक¦ <i>m.</i> (a praec. s. क) <i>id.</i> HIT. 20. 17."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मेलक",
+            "eid": "25372",
+            "pagenum": 421,
+            "content": "मेलक¦ <lex>m.</lex> = <ab>prec.</ab>, °कं कृ assemble."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मेलक",
+            "eid": "19286",
+            "pagenum": 341,
+            "content": "मेलक¦ <i>m. dass.</i>, आ <i>f. Frauenname.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "मेलक",
+            "eid": "7296",
+            "pagenum": 478,
+            "content": "<b>Melaka</b>,¦ pl. (<i>°āḥ</i>) (VI, 2103, 3855), v. Mekala."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "मेलक",
+            "eid": "3350",
+            "pagenum": 220,
+            "content": "<b>melaka,</b>¦ <i><ab>m.</ab></i> assembly; <i><ab>w.</ab></i> <b>kṛ,</b> assemble. [<b>√mil,</b> <ls n='wg,1181'>1181.</ls>]"
+        }
     ]
 }

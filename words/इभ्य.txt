@@ -36,5 +36,51 @@
             "pagenum": 40,
             "content": "इभ्य¦ (a praec. s. य) dives. AM."
         }
+    ],
+    "CAE": [
+        {
+            "word": "इभ्य",
+            "eid": "5002",
+            "pagenum": 75,
+            "content": "इ/भ्य¦ <lex>a.</lex> belonging to one's household; <lex>m.</lex> vassal, rich man."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "इभ्य",
+            "eid": "3109",
+            "pagenum": 50,
+            "content": "इ/भ्य¦ zum Gesinde gehörig; reich."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "इभ्य",
+            "eid": "1756",
+            "pagenum": 218,
+            "content": "<b>íbhya,</b>¦ <ab>a.</ab>, <i>zum Gesinde gehörig, Höriger</i>. <div n='TS'>-ān {65,7}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "इभ्य",
+            "eid": "2268",
+            "pagenum": 130,
+            "content": "<i>Ibhya</i>¦ (CII 1), same as <i>Rājanya</i> or <i>Kṣatriya.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "इभ्य",
+            "eid": "05857",
+            "pagenum": 118,
+            "content": "iBya¦ <i>(I) a. (f. भ्या)</i> Wealthy."
+        },
+        {
+            "word": "इभ्य",
+            "eid": "05858",
+            "pagenum": 118,
+            "content": "iBya¦ <i>(II) m.</i> 1. A king; 2. an elephant-driver."
+        }
     ]
 }

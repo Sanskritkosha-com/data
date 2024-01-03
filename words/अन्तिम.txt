@@ -36,5 +36,37 @@
             "pagenum": 29,
             "content": "अन्तिम¦ <i>antima</i> <ab>a.</ab> <i>(anta;</i> <ab>sfx.</ab> <i>ima)</i> dernier, final."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अन्तिम",
+            "eid": "1693",
+            "pagenum": 25,
+            "content": "अ/न्तिम¦ <lex>a.</lex> the last."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अन्तिम",
+            "eid": "1116",
+            "pagenum": 17,
+            "content": "अन्तिम¦ der letzte."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अन्तिम",
+            "eid": "3967",
+            "pagenum": 128,
+            "content": "अन्तिम¦ m. f. n. (-मः-मा-मम्) <sup>1</sup> Final, ultimate, last. <sup>2</sup> Very near, nearest, close by (comp. दशान्तिम lit. the nearest to ten i. e. the eleventh). Comp. अन्त्य and the words named s. v. अन्तिक. E. अन्त, taddh. aff. डिमच्."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अन्तिम",
+            "eid": "256",
+            "pagenum": 117,
+            "content": "<b>antimá,</b>¦ <i><ab>a.</ab></i> last. [<b>ánti,</b> <ls n='wg,474'>474</ls>: for mg (‘endmost’ ?), <ab>cf.</ab> <b>ánta</b> 2, and <b>antya.</b>]"
+        }
     ]
 }

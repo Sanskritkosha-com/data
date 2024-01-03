@@ -23,5 +23,67 @@
             "pagenum": 10,
             "content": "अङ्गार¦ <i>aṅgāra</i> <ab>m.</ab> <ab>n.</ab> charbon allumé ou noir; la planète de Mars. || <ab>Cf.</ab> <s1 slp1='agni'>Agni</s1>.  <P><i>aṅgāraka</i> <ab>m.</ab> <ab>mms.</ab> || amaranthe, et eclipta, <ab>bot.</ab>  <P><i>aṅgārakamaṇi</i> <ab>m.</ab> corail.  <P><i>aṅgāradhānikā</i> <ab>f.</ab> <i>(dhā)</i> petit brasier, réchaud.  <P><i>aṅgārapuṣpa</i> <ab>m.</ab> ingua, plante dont les graines servent à faire des chapelets.  <P><i>aṅgāramañjī</i> <ab>f.</ab> bonduc, <ab>bot.</ab>  <P><i>aṅgāraśakaṭī</i> <ab>f.</ab> <i>(śakaṭī)</i> réchaud.  <P><i>aṅgāri</i> <ab>f.</ab> réchaud.  <P><i>aṅgārikā</i> <ab>f.</ab> (<ab>sf.</ab> <i>ikā)</i> bourgeon ou bouton du <i>kiṃśuka.</i> -- <i>Aṅgārita</i> <ab>n.</ab> <ab>mms.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अङ्गार",
+            "eid": "320",
+            "pagenum": 5,
+            "content": "अ/ङ्गार¦ <lex>m.</lex> <lex>n.</lex> coal; अङ्गार°का <lex>m.</lex> the same; the planet Mars."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अङ्गार",
+            "eid": "214",
+            "pagenum": 3,
+            "content": "अ/ङ्गार¦ <i>m. n.</i> Kohle. °क <i>dass.</i>; der Planet Mars."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अङ्गार",
+            "eid": "135",
+            "pagenum": 14,
+            "content": "<b>áṅgāra,</b>¦ <ab>m.</ab>, die (glühende) <i>Kohle</i>. Dass sie als glühende aufgefasst sei, zeigt sich besonders auch daran, dass das Wort auch den Planeten Mars bezeichnet, dessen eigenthümlich röthliches Licht diese Benennung als eine sehr geeignete erscheinen lässt. Die Wurzel ist vielleicht <chg type='chg' n='5' src='gra'><old>aṅj</old><new>añj</new></chg> in der Bedeutung „schmücken, glänzend machen“. <div n='TS'>-ās {860,9} (divyā́s)."
+        },
+        {
+            "word": "अङ्गार",
+            "eid": "11005",
+            "pagenum": 1741,
+            "content": "14,17: añj <ab>st.</ab> aṅj <info vn='chg 5 gra'/>"
+        }
+    ],
+    "GST": [
+        {
+            "word": "अङ्गार",
+            "eid": "671",
+            "pagenum": 19,
+            "content": "अङ्गार¦ I. m. n. (-रः-रम्) Charcoal, whether burning or not, but more usually the latter. <div n='P'>II. m. (-रः) <sup>1</sup> A name of the planet Mars; from his fiery colour. <sup>2</sup> The name of a plant, see हितावली. <sup>3</sup> pl. (-राः) The name of a people and a country. E. अङ्ग्, uṇ. aff. आरन्."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "अङ्गार",
+            "eid": "340",
+            "pagenum": 20,
+            "content": "<i>aṅgāra, aṅgāraka,</i>¦ cf. <i>a-carm-āṅgāraka</i> (IE 8-5; EI 15); charcoal for cooking, which the villagers were obliged to supply to the king or landlord on occasions or to the touring officers."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अङ्गार",
+            "eid": "572",
+            "pagenum": 38,
+            "content": "<b>Aṅgāra</b>.¦ § 632 (Ṣoḍaśarājop.): XII, <b>29</b>, 981 (<i>nṛpatiṃ</i>), 982 (was vanquished by Māndhātṛ)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अङ्गार",
+            "eid": "60",
+            "pagenum": 112,
+            "content": "<b>áṅgāra,</b>¦ <i><ab>m.</ab></i> coal."
+        }
     ]
 }

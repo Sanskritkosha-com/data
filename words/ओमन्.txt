@@ -7,5 +7,47 @@
             "pagenum": 361,
             "content": "ओमन्¦ <i><ab>m.</ab></i> <b>1</b> Protection. <b>--2</b> Favour, kindness. <b>--3</b> A kind person."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ओमन्",
+            "eid": "6705",
+            "pagenum": 104,
+            "content": "1 ओम/न्¦ <lex>m.</lex> protection, favour, assistance."
+        },
+        {
+            "word": "ओमन्",
+            "eid": "6706",
+            "pagenum": 104,
+            "content": "2 ओ/मन्¦ <lex>m.</lex> = ओम."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ओमन्",
+            "eid": "4137",
+            "pagenum": 68,
+            "content": "1. ओम/न्¦ <i>m.</i> Gunst, Beistand, Schutz."
+        },
+        {
+            "word": "ओमन्",
+            "eid": "4138",
+            "pagenum": 68,
+            "content": "2. ओ/मन्¦ <i>m.</i> Genosse."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ओमन्",
+            "eid": "2352",
+            "pagenum": 305,
+            "content": "<b>omán,</b>¦ <ab>m.</ab>, <i>Gunst, Freundlichkeit, Beistand, Förderung</i> [von av]. <div n='TS'>-ā́nam {34,6}; {118,7}; {491,7}; {584,5}. <div n='TS'>-ánā {585,4}."
+        },
+        {
+            "word": "ओमन्",
+            "eid": "2353",
+            "pagenum": 306,
+            "content": "<b>óman,</b>¦ <ab>m.</ab>, <i>Genosse</i> [von av], wie ū́ma, oma. <div n='TS'>-abhis {397,13}."
+        }
     ]
 }

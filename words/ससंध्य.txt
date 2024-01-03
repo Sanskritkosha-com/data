@@ -7,5 +7,29 @@
             "pagenum": 1111,
             "content": "ससंध्य¦ <i><ab>a.</ab></i> Evening, vespertine."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ससंध्य",
+            "eid": "36138",
+            "pagenum": 606,
+            "content": "ससंध्य¦ <lex>a.</lex> along with the morning twilight."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ससंध्य",
+            "eid": "4516",
+            "pagenum": 270,
+            "content": "<b>sasaṃdhya,</b>¦ <i><ab>a.</ab></i> with the morning twilight. <lbinfo n='twi-light.'/> [<b>saṃdhyā.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ससंध्य",
+            "eid": "40203",
+            "pagenum": 768,
+            "content": "sasaMDya¦ <i>a. (f. ध्या)</i> Vespertine."
+        }
     ]
 }

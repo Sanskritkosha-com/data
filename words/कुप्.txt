@@ -43,5 +43,51 @@
             "pagenum": 171,
             "content": "*कुप्¦ <i>kup.</i> <i>kupyāmi</i> 4; <ab>p.</ab> <i>cukopa;</i> <ab>a2.</ab> <i>akupam.</i> Au <ab>moy.</ab> <i>kupye</i> 4; <ab>f2.</ab> <i>kopiṣye;</i> <ab>pp.</ab> <i>kupita.</i> S'irriter contre <ab>qqn.</ab> avec l'<ab>ac.</ab> ou le <ab>d.</ab> || Se mettre en colère. || <ab>Cf.</ab> <ab>lat.</ab> cupio."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कुप्",
+            "eid": "7957",
+            "pagenum": 124,
+            "content": "कुप्¦ कुप्यति कुप्य°ते <vlex type='root'/> <ab>pp.</ab> कुपित become moved or agitated, boil up, be angry with (<ab>dat.</ab> or <ab>gen.</ab>). <ab>C.</ab> कोप/यति, °ते excite, agitate, make angry. <div n='p'>—परि become greatly moved, be very angry. <ab>C.</ab> excite vehemently, make very angry. <div n='p'>प्र = <ab>S.</ab>, <ab>C.</ab> = <ab>S.</ab> <ab>C.</ab> <div n='p'>सम् become angry. <ab>C.</ab> boil up; make angry, excite. — Cf. प्र/कुपित."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कुप्",
+            "eid": "5038",
+            "pagenum": 86,
+            "content": "कुप्¦ कुप्यति, °ते in Bewegung geraten, aufwallen, <lbinfo n='7'/> zürnen <i>(Dat. o. Gen.); p.p.</i> कुपित <lbinfo n='4'/> erzürnt, zorning. <i>Caus.</i> कोप/यति <i>u.</i> °ते in Wallung bringen, aufregen, erzürnen, प्र <i>dass</i>; प्रकुपित schwankend; <i>Caus. = Simpl.</i>"
+        },
+        {
+            "word": "कुप्",
+            "eid": "29801",
+            "pagenum": 539,
+            "content": "कुप्,¦ सम् in Zorn geraten, aufbrausen. <i>Caus. dass., auch</i> erzürnen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कुप्",
+            "eid": "2598",
+            "pagenum": 329,
+            "content": "<b>√kup,</b>¦ <i>in Bewegung gerathen, beben</i> [wie kamp, aus dem es entstanden ist]; mit <b>prá</b> <ab>dass.</ab> <ab>Caus.</ab> <i>in Bewegung setzen, erschüttern, erbeben machen</i>. <div n='H'>Stamm des <ab>Caus.</ab> <b>kopaya, kopáya</b> ({411,3}): <div n='TS'>-atha pṛthivī́m {411,3}. <div n='TS'>-as [<ab>Conj.</ab>] divás sā́nu {54,4}. <div n='TS'>-at antárikṣāṇi {870,8}. <div n='H'><ab>Part.</ab> <b>kupita:</b> <div n='TS'>-ān <b>prá:</b> párvatān {203,2}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कुप्",
+            "eid": "1146",
+            "pagenum": 142,
+            "content": "<b>√kup</b>¦ (<b>kúpyati; cukópa; kupitá</b>). <div n='2'/><b>—1.</b> become moved <i>or</i> agitated; boil; <i>and so</i> <div n='2'/><b>—2.</b> <i><ab>fig.</ab>, as in <ab>Eng.</ab>,</i> be angry; boil with rage. <div n='p'/><b>+ pra,</b> <i>the same.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कुप्",
+            "eid": "09714",
+            "pagenum": 195,
+            "content": "kup¦ <i>vi. 4P (pp. कुपित)</i> 1. To be excited, to get strength, e.g. दोषाः प्रकुप्यंति; 2. to be angry (generally with the dative of the person who is the object of anger, but sometimes with the acc. or gen. also), चुकोप तस्मै स भृशम् <ls>R.</ls>iii.56, <ls>Sr.T.</ls>8.<P>With अति-, to be angry, <ls>Bt.</ls>xv.55.<P>With परि-, to be angry.<P>With प्र-, 1. to be excited, to get strength; 2. to be angry, निमित्तमुद्दिश्य हि यः प्रकुप्यति ध्रुवं स तस्यापगमे प्रशाम्यति <ls>Panch.</ls>i.<P>With सम्-, to be angry."
+        }
     ]
 }

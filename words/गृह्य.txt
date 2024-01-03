@@ -54,5 +54,65 @@
             "pagenum": 222,
             "content": "गृह्य¦ <i>gṛhya</i> <ab>a.</ab> <i>(gṛha;</i> <ab>sfx.</ab> <i>ya)</i> de la maison, <lbinfo n='4'/> domestique; || subordonné, dépendant; <lbinfo n='5'/> || partisan. -- <ab>S.</ab> <ab>m.</ab> animal domestique. <lbinfo n='6'/> -- <ab>S.</ab> <ab>f.</ab> <i>gṛhyā</i> faubourg, dépendances d'une ville ou d'un village. -- <ab>S.</ab> <ab>n.</ab> anus.  <P><i>gṛhyaka</i> <ab>a.</ab> domestique; subordonné; soumis, apprivoisé. -- <ab>S.</ab> <ab>m.</ab> animal domestique <lbinfo n='5'/> ou apprivoisé.  <P><i>gṛhyasūtra</i> <ab>n.</ab> <s1 slp1='sUtra'>sūtra</s1> védique traitant des cérémonies domestiques; <ab>cf.</ab> <i>smārtasūtra.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "गृह्य",
+            "eid": "9710",
+            "pagenum": 156,
+            "content": "1 गृ/ह्य¦ <lex>a.</lex> to be seized or taken, perceptible."
+        },
+        {
+            "word": "गृह्य",
+            "eid": "9711",
+            "pagenum": 156,
+            "content": "2 गृह्य¦  = गृहीत्वा (<ab>v.</ab> ग्रभ्)."
+        },
+        {
+            "word": "गृह्य",
+            "eid": "9712",
+            "pagenum": 156,
+            "content": "3 गृ/ह्य¦ <lex>a.</lex> belonging to a house, domestic. <lex>m.</lex> the house-fire, <ab>pl.</ab> the inmates of a house, the family or servants; <lex>f.</lex> आ & <ab>n.</ab> domestic rite or rule."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गृह्य",
+            "eid": "6379",
+            "pagenum": 111,
+            "content": "1. गृह्य¦ zu ergreifen, zu fassen, aufzufassen, wahrzunehmen."
+        },
+        {
+            "word": "गृह्य",
+            "eid": "6380",
+            "pagenum": 111,
+            "content": "2. गृह्य¦ = गृहीत्वा, s. ग्रभ्"
+        },
+        {
+            "word": "गृह्य",
+            "eid": "6381",
+            "pagenum": 111,
+            "content": "3. गृ/ह्य¦ häuslich; <i>m.</i> das Hausfeuer, <i>Pl.</i> die Hausgenossen; <i>f.</i> आ Hauscultus; <i>n.</i> Hausregel."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गृह्य",
+            "eid": "12461",
+            "pagenum": 249,
+            "content": "gfhya¦ <i>(I) a. (f. ह्या)</i> 1. To be attracted or pleased, गुणगृह्या वचने विपश्चिनः <ls>Kir.</ls>ii.5; 2. belonging to a house; 3. dependent; 4. domesticated; 5. situated outside of, e.g. ग्रामगृह्या सेना ‘an army outside a village.’"
+        },
+        {
+            "word": "गृह्य",
+            "eid": "12462",
+            "pagenum": 249,
+            "content": "gfhya¦ <i>(II) m.</i> 1. The inmate of a house; 2. a tame animal."
+        },
+        {
+            "word": "गृह्य",
+            "eid": "12463",
+            "pagenum": 249,
+            "content": "gfhya¦ <i>(III) n.</i> The anus."
+        }
     ]
 }

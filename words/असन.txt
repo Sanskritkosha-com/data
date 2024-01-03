@@ -42,5 +42,43 @@
             "pagenum": 62,
             "content": "असन¦ <i>asana</i> <ab>n.</ab> <i>(as</i> 4) action de jeter."
         }
+    ],
+    "CAE": [
+        {
+            "word": "असन",
+            "eid": "3669",
+            "pagenum": 53,
+            "content": "अ/सन¦ <lex>n.</lex> throwing, hurling; <lex>f.</lex> असना/ dart, arrow."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "असन",
+            "eid": "2305",
+            "pagenum": 36,
+            "content": "अ/सन¦ <i>n.</i> das Schleudern; <i>f.</i> असना/ Geschoss. <lbinfo n='7'/>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "असन",
+            "eid": "1315",
+            "pagenum": 153,
+            "content": "<b>ásana,</b>¦ <ab>n.</ab>, das <i>Schleudern, Schiessen</i> [von <hom>2.</hom> as]. <div n='TS'>-āya {130,4}. <div n='TS'>-e {112,21}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "असन",
+            "eid": "04359",
+            "pagenum": 86,
+            "content": "asana¦ <i>(I) m.</i> The name of a particular tree, <ls>Sis.</ls>vi.47."
+        },
+        {
+            "word": "असन",
+            "eid": "04360",
+            "pagenum": 86,
+            "content": "asana¦ <i>(II) n.</i> Throwing, sending."
+        }
     ]
 }

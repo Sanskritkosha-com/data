@@ -55,5 +55,43 @@
             "pagenum": 3,
             "content": "हलायुध¦ <HI1>Dharmaviveka kāvya."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हलायुध",
+            "eid": "39442",
+            "pagenum": 659,
+            "content": "हलायुध¦ <lex>a.</lex> armed with a plough; <lex>m.</lex> <ab>E.</ab> of Baladeva, <ab>N.</ab> of <ab>sev.</ab> men."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हलायुध",
+            "eid": "29265",
+            "pagenum": 529,
+            "content": "हलायुध¦ pflugbewaffnet <i>(Baladeva).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "हलायुध",
+            "eid": "4342",
+            "pagenum": 316,
+            "content": "<b>Halāyudha</b><sup>1</sup>¦ (“having a plough for his weapon”) = Balarāma: I, 7012, 7079, 7084; III, †12589; IV, 2356; V, 162, 5330, 5335, 5336; IX, 1948, 1954, 1955, 2061, 2064, 2117, 2119, 2145, 2184, 2246, 2249, 2280, 3004, 3029, 3038, 3046, 3345; XVI, 21."
+        },
+        {
+            "word": "हलायुध",
+            "eid": "4343",
+            "pagenum": 316,
+            "content": "<b>Halāyudha</b><sup>2</sup>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हलायुध",
+            "eid": "43056",
+            "pagenum": 828,
+            "content": "hala-AyuDa¦ <i>m.</i> an epithet of Balarāma."
+        }
     ]
 }

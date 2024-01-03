@@ -49,5 +49,57 @@
             "pagenum": 43,
             "content": "*अम्¦ <i>am.</i> <i>āmayāmi</i> 10, être malade."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अम्",
+            "eid": "2512",
+            "pagenum": 37,
+            "content": "अम्¦ अमीति <vlex type='root'/> press on, harm (only <ab>pp.</ab> एमुष/म् harmful, pernicious). <ab>C.</ab> आम/यति suffer, be sick. <div n='p'>—अभि & परि = <ab>S.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अम्",
+            "eid": "1617",
+            "pagenum": 25,
+            "content": "अम्¦ अमीति vordringen. <i>Caus.</i> आम/यति Schaden leiden, krank sein."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अम्",
+            "eid": "853",
+            "pagenum": 89,
+            "content": "<b>√am.</b>¦ Mit Macht herandringen (<ab>vgl.</ab> áma, ámavat, ámati, aminá, ámīva, áṃsa), daher 1〉 <i>schädlich, verderblich sein;</i> 2〉 <ab>Caus.</ab>, <i>Schaden leiden, schadhaft, krankhaft sein</i>. <div n='Pf'>Mit <b>abhí,</b> gegen jemand [<ab>A.</ab>] <i>andringen,</i> ihn <i>plagen</i>. <div n='Pf'><b>sám,</b> jemand [<ab>A.</ab>] <i>dringend angehen</i>. <div n='H'>Stamm I. <b>am:</b> <div n='TS'>-mīṣi <b>abhi</b> nas {912,8}. <div n='H'>Stamm II. <b>amá:</b> <div n='TS'>-ánti <b>abhí</b> nas {541,2}. <div n='H'>Stamm III. <b>áma:</b> <div n='TS'>-e <b>sám</b> tuā́m {1022,8}. <div n='TS'>-anta <b>abhí</b> kṛṣṭī́s {189,3} (ámīvās). <div n='H'>Stamm <ab n='des'>d.</ab> <ab>Caus.</ab> <b>āmáya:</b> <div n='TS'>-ati 2〉 yád 〰 níṣ kṛtha {923,9}. <div n='H'><ab>Imperf.</ab> <ab n='des'>d.</ab> <ab>Caus.</ab> <b>ā́maya:</b> <div n='TS'>-at 2〉 yásyās udáram {912,23}. <div n='H'><ab>Aor.</ab> <ab n='des'>d.</ab> <ab>Caus.</ab> <b>āmama:</b> <div n='TS'>-at 2〉 mā́ te kím caná {885,8}—_{885,10}; mā́ nas kím caná {826,4}. <div n='H'><ab>Part.</ab> <ab>Perf.</ab> <b>emivás,</b> schwach <b>emús:</b> <div n='TS'>-uṣám (schwache Form statt starker, falscher Accent) 1〉 varāhám {686,10}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अम्",
+            "eid": "343",
+            "pagenum": 119,
+            "content": "<b>√am</b>¦ <b>(ámīti</b> [<ls n='wg,634'>634]</ls>; <b>āmé; āmáyati).</b> press on violently; harm; <i><ab>caus.</ab></i> [<ls n='wg,1041'>1041<sup>2</sup></ls>], harm; be sick. [<ab>cf.</ab> <b>aṃsa.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अम्",
+            "eid": "02843",
+            "pagenum": 55,
+            "content": "am¦ <i>ind.</i> 1. Quickly; 2. a little."
+        },
+        {
+            "word": "अम्",
+            "eid": "02844",
+            "pagenum": 55,
+            "content": "am¦ <i>(I) vt. or vi. 1P (pp. अमित)</i> 1. To go to or towards; 2. to eat; 3. to sound."
+        },
+        {
+            "word": "अम्",
+            "eid": "02845",
+            "pagenum": 55,
+            "content": "am¦ <i>(II) vi. or vt. 10U (pp. अमित)</i> 1. To be afflicted with disease; 2. to hurt."
+        }
     ]
 }

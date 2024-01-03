@@ -47,5 +47,61 @@
             "pagenum": 425,
             "content": "पौलस्त्य¦ <i>paulastya</i> <ab>m.</ab> enfant de <s1 slp1='pulastya'>Pulastya</s1>. <lbinfo n='7'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "पौलस्त्य",
+            "eid": "20037",
+            "pagenum": 329,
+            "content": "पौलस्त्य¦ <lex>m.</lex> patron. of Kubera."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पौलस्त्य",
+            "eid": "15072",
+            "pagenum": 265,
+            "content": "पौलस्त्य¦ <i>m. patron. Name Kubera's.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "पौलस्त्य",
+            "eid": "8247",
+            "pagenum": 547,
+            "content": "<b>Paulastya</b><sup>1</sup>¦ (“son of Pulastya”) = Kubera: II, 417; III, †12364 (<i>Dhanadaṃ</i>); V, 7543."
+        },
+        {
+            "word": "पौलस्त्य",
+            "eid": "8248",
+            "pagenum": 547,
+            "content": "<b>Paulastya</b><sup>2</sup>¦ (do.) = Rāvaṇa: III, 16331; V, 3790 (<i>Rākṣa-</i> <i>sarājena</i>); VII, 2228."
+        },
+        {
+            "word": "पौलस्त्य",
+            "eid": "8249",
+            "pagenum": 547,
+            "content": "<b>Paulastya</b><sup>3</sup>¦ (do.) = Vibhīṣaṇa: II, 1177 (<i>V°</i>); III, 16598 (<i>V°</i>)."
+        },
+        {
+            "word": "पौलस्त्य",
+            "eid": "8250",
+            "pagenum": 547,
+            "content": "<b>Paulastya</b><sup>4</sup>,¦ pl. (<i>°āḥ</i>) (“sons or descendants of Pulastya”). § 130 (Aṃśāvat.): I, <b>67</b>, 2724, 2726 (i.e. Rākṣasas, reborn as the sons of Dhṛtarāṣṭra).—§ 532 (Sītāsāntvana): III, <b>280</b>, 16154 (<i>°kulaghātinaḥ</i>, sc. Rāvaṇa).—§ 535 (Setubandhana): III, <b>283</b>, 16304 (<i>°pāṃsanaṃ</i>, sc. Rāvaṇa).— § 600 (Ghaṭotkacavadhap.): VII, <b>156</b>, 6842 (<i>°air Yātu-</i> <i>dhānaiś ca</i>, a class of Rākṣasas)."
+        },
+        {
+            "word": "पौलस्त्य",
+            "eid": "8251",
+            "pagenum": 547,
+            "content": "<b>Paulastya</b><sup>5</sup>,¦ adj. (“belonging to Pulastya”?). § 59 (Saṃśaptakavadhap.): VII, <b>23</b>ρ, 1040 (<i>dhanuḥ</i>, held by Ghaṭotkaca)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पौलस्त्य",
+            "eid": "23621",
+            "pagenum": 455,
+            "content": "pOlastya¦ <i>m.</i> 1. An epithet of Rāvaṇa, <ls>R.</ls>iv.80, x.5, xii.72; 2. of Kubera; 3. of Bibhīshaṇa; 4. the moon."
+        }
     ]
 }

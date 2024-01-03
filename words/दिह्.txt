@@ -37,5 +37,45 @@
             "pagenum": 322,
             "content": "*दिह्¦ <i>dih.</i> <i>dehmi</i> [<ab>3p.</ab> <i>degdhi</i>] et <i>dehe</i> [<ab>3p.</ab> <i>digdhe</i>] 2; <ab>p.</ab> <i>dideha, didihe;</i> <ab>f2.</ab> <i>dhekṣyāmi,</i> <lbinfo n='5'/> <i>dhekṣye;</i> <ab>a1.</ab> <i>adhikṣam, adhikṣi</i> [<ab>3p.</ab> <i>adigdha</i>]; <ab>pp.</ab> <i>digdha.</i> Frotter, oindre: <i>candanais</i> de sandal. || Souiller, salir. || <ab>Lat.</ab> tingo <ab>(?)</ab>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दिह्",
+            "eid": "13776",
+            "pagenum": 227,
+            "content": "दिह्¦ दे/ग्धि <vlex type='root'/> <ab>pp.</ab> दिग्ध/ (<ab>q.v.</ab>) anoint, smear. <div n='p'>—अभि wreath, also = <ab>S.</ab> अव, परि, प्र = <ab>S.</ab> सम् the same; <ab>M.</ab> <ab>P.</ab> be doubtful or dubious; <ab>P.</ab> also be confounded with (<ab>instr.</ab>). <ab>C.</ab> confound, perplex, <ab>M.</ab> be uncertain. — Cf. आदिग्ध, उपदिग्ध, नि/दिग्ध, संदिग्ध."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दिह्",
+            "eid": "9793",
+            "pagenum": 174,
+            "content": "दिह्¦ दे/ग्धि bestreichen, salben; <i>p.p.</i> दिग्ध/ <i>(s. auch bes.)</i> bestrichen, gesalbt, besudelt, berührt <i>(Instr. o. —°).</i> प्र=<i>Simpl.</i> सम् <i>dass., Med. Pass.</i> zweifelhaft, unsicher sein; <i>p.p.</i> संदिग्ध= दिग्ध, <i>auch</i> verwechselt <lbinfo n='8'/> mit <i>(Instr. o. —°)</i>, ungewiss, unsicher, zweifelhaft <i>(act. u. pass.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दिह्",
+            "eid": "4253",
+            "pagenum": 608,
+            "content": "<b>√dih</b>¦ [<ls>Cu. 〔145〕</ls>], <i>bestreichen, verkitten</i>. <div n='Pf'>Mit <b>pári,</b> <i>überziehen, bedecken</i>. <div n='Pf'><b>sám,</b> <i>beschmieren, beflecken,</i> in samdíh. <div n='H'>Stamm <b>dih,</b> stark <b>déh</b> [<ab n='siehe'>s.</ab> <ab>Part.</ab>]: <div n='TS'>-éhat [<ab>Co.</ab>] <b>pári:</b> kulphaú {566,2}. <div n='H'><ab>Part.</ab> <b>dihāná:</b> <div n='TS'>-ás vācā́ śalyā́n aśánibhis 〰 {913,4}. <div n='H'>Verbale <b>díh</b> <div n='P'>enthalten in saṃ-díh."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दिह्",
+            "eid": "1955",
+            "pagenum": 170,
+            "content": "<b>√dih</b>¦ <b>(dégdhi; didihé; digdhá; -díhya).</b> <div n='2'/><b>—1.</b> stroke, touch lightly; <div n='2'/><b>—2.</b> smear; <div n='2'/><b>—3.</b> besmear, pollute. [for <b>*dhigh:</b> <ab>cf.</ab> <lang n='greek'>ἔθιγον</lang>, ‘touched’; <ab>Lat.</ab> <i>fingo,</i> ‘form, fashion, <lbinfo n='fash-ion,'/> <i><ab>esp.</ab></i> with the hand in soft material’; <ab>Goth.</ab> <i>daigs,</i> ‘moulded mass of clay <i>or</i> bread-paste’; Old <ab>Eng.</ab> <i>dāg,</i> <ab>Eng.</ab> <i>dough.</i>] <div n='p'/><b>+ sam,</b> <i><ab>pass.</ab></i> (be plastered together, be indistinct, <i>and so</i>) be uncertain, doubtful."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दिह्",
+            "eid": "16939",
+            "pagenum": 334,
+            "content": "dih¦ <i>vt. 2U (pp. दिग्ध; pres. देग्धि, दिग्धे; desid. दिधिक्षति)</i> 1. To anoint, to plaster, to smear, <ls>Bt.</ls>xvii.54; 2. to pollute, to soil, <ls>R.</ls>xvi.15.<P>With सम्-, 1. to doubt, to be uncertain about, संदिग्धसाध्यवा पक्षः <ls>T.S.</ls>; 2. to raise an objection; 3. to mistake for, धूपैर्जालविनिःसृतैर्वलभयः संदिग्धपारावताः <ls>Vikr.</ls>iii., <ls>K.S.</ls>vi.40."
+        }
     ]
 }

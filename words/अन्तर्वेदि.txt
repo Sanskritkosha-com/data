@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "गङ्गायमुनयोर्मध्यमन्तर्वेदिः समस्थली ।"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अन्तर्वेदि",
+            "eid": "1669",
+            "pagenum": 25,
+            "content": "1 अन्तर्वेदि¦ <lex>m.</lex> <ab>pl.</ab> the inhabitants of Antarvedī."
+        },
+        {
+            "word": "अन्तर्वेदि",
+            "eid": "1670",
+            "pagenum": 25,
+            "content": "2 अन्तर्वेदि/¦ <ab>adv.</ab> within the sacrificial ground."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अन्तर्वेदि",
+            "eid": "1105",
+            "pagenum": 17,
+            "content": "अन्तर्वेदि¦ <i>m. Pl.</i> (Bewohner von Antarvedī <lbinfo n='6'/> s. <i>folg.).</i>"
+        }
+    ],
+    "GST": [
+        {
+            "word": "अन्तर्वेदि",
+            "eid": "3915",
+            "pagenum": 126,
+            "content": "अन्तर्वेदि¦ I. Tatpur. m. (-दिः) <sup>1</sup> The space within the sacrificial ground; e. g. आ संस्थातोरन्तर्वेद्यां सीदन्ति. <sup>2</sup> The Duab or the country between the Gaṅgā and Yamunā rivers. Also अन्तर्वेदी. <div n='P'>II. Avyayībh. (-दि) Within the sacrificial ground; oppos. to वहिर्वेदि. E. अन्तर् and वेदि."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अन्तर्वेदि",
+            "eid": "252",
+            "pagenum": 117,
+            "content": "<b>antar-vedi,</b>¦ <i><ab>a.</ab></i> situate within the sacrificial  <lbinfo n='sacri-ficial'/> bed; <b>-dí,</b> <i><ab>adv.</ab></i> within the sacrificial spot. [<ls n='wg,1310'>1310a</ls>.]"
+        }
     ]
 }

@@ -7,5 +7,37 @@
             "pagenum": 125,
             "content": "एकवीर¦ <i>ekavīra</i> <ab>m.</ab> guerrier unique, sans égal."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एकवीर",
+            "eid": "6442",
+            "pagenum": 100,
+            "content": "एकवीर/¦ <lex>m.</lex> an only, <ab>i.e.</ab> an incomparable hero."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एकवीर",
+            "eid": "3971",
+            "pagenum": 66,
+            "content": "एकवीर/¦ <i>m.</i> einziger, unvergleichlicher Held."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "एकवीर",
+            "eid": "2284",
+            "pagenum": 297,
+            "content": "<b>eka-vīrá,</b>¦ <ab>m.</ab>, der <i>unvergleichliche</i> [éka 12] <i>Held</i> [vīrá]. <div n='TS'>-ás {929,1} von Indra."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "एकवीर",
+            "eid": "07432",
+            "pagenum": 152,
+            "content": "eka-vIra¦ <i>m.</i> a pre-eminent warrior."
+        }
     ]
 }

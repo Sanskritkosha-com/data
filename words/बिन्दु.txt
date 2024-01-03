@@ -36,5 +36,29 @@
             "pagenum": 465,
             "content": "बिन्दु¦ <i>bindu</i> <ab>m.</ab> <ab>cf.</ab> <i>vindu.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "बिन्दु",
+            "eid": "22105",
+            "pagenum": 364,
+            "content": "बिन्दु/¦ <lex>m.</lex> drop, globule, point, dot; the sign of the Anusvāra (<ab>g.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "बिन्दु",
+            "eid": "16745",
+            "pagenum": 294,
+            "content": "बिन्दु/¦ <i>m.</i> Tropfen, Punkt, das Zeichen des Anusvāra <i>(g.).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "बिन्दु",
+            "eid": "1691",
+            "pagenum": 153,
+            "content": "<b>Bindu</b>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
     ]
 }

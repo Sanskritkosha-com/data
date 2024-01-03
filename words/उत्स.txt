@@ -44,5 +44,37 @@
             "pagenum": 98,
             "content": "उत्स¦ <i>utsa</i> <ab>m.</ab> <i>(und)</i> source, fontaine."
         }
+    ],
+    "CAE": [
+        {
+            "word": "उत्स",
+            "eid": "5408",
+            "pagenum": 83,
+            "content": "उ/त्स¦ <lex>m.</lex> spring, fountain (<ab>lit.</ab> & <ab>fig.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उत्स",
+            "eid": "3373",
+            "pagenum": 55,
+            "content": "उ/त्स¦ <i>m.</i> Quelle, Brunnen <i>(auch ubertr.)</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "उत्स",
+            "eid": "1889",
+            "pagenum": 251,
+            "content": "<b>útsa,</b>¦ <ab>m.</ab>, <i>Quelle, Brunnen</i> [von ud, quellen, benetzen], bildlich auch von den Wolken und von der Quelle der Güter (vásunas {207,7}; vásvas {809,44}; útsas hiraṇyáyas {670,6}; {819,4}). <ab>Vgl.</ab> die <ab>Adj.</ab> ákṣita, udrín, nabhojā́, madacyút, śatádhāra und <ab>Gen.</ab> mádhvas. <div n='TS'>-as {154,5}; {399,8}; {670,6}; {801,6}; {819,4}; {856,8}. <div n='TS'>-am {64,6}; {85,11}; {121,8}; {207,7}; {215,4}; {260,9}; {386,1}; {406,12}; {408,8}; {485,24}; {573,1}; {627,10}. _{627,16}; {809,44}; {822,5}; {856,9}; {871,2}; {910,5}; {927,11}; {969,6}. <div n='TS'>-asya {831,1} mádhye. <div n='TS'>-ās divás {411,1}. <div n='TS'>-ān badbadhānā́n {386,2}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "उत्स",
+            "eid": "06297",
+            "pagenum": 128,
+            "content": "utsa¦ <i>m.</i> 1. A fountain, a spring; 2. a watery place."
+        }
     ]
 }

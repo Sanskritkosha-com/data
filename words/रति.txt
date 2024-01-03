@@ -85,5 +85,71 @@
             "pagenum": 533,
             "content": "रति¦ <i>rati</i> <ab>f.</ab> <i>(ram;</i> <ab>sfx.</ab> <i>ti)</i> joie, plaisir, volupté. || Plaisirs de l'amour; || organes sexuels. || <ab>Np.</ab> de l'épouse de <s1 slp1='kAma'>Kāma</s1>.  <P><i>ratikuhara</i> <ab>n.</ab> organe féminin.  <P><i>ratikriyā</i> <ab>f.</ab> œuvre d'amour, accouplement. <lbinfo n='5'/>  <P><i>ratigṛha</i> <ab>n.</ab> organe féminin.  <P><i>ratipati</i> <ab>m.</ab> <s1 slp1='kAma'>Kāma</s1>, époux de <s1 slp1='rati'>Rati</s1>.  <P><i>ratipriya</i> <ab>m.</ab> <ab>mms.</ab>  <P><i>ratimadā</i> <ab>f.</ab> <ab>np.</ab> d'une <s1 slp1='apsaras'>Apsaras</s1>.  <P><i>ratimandira</i> <ab>n.</ab> organe féminin.  <P><i>ratiramaṇa</i> <ab>m.</ab> <s1 slp1='kAma'>Kāma</s1>, époux de <s1 slp1='rati'>Rati</s1>.  <P><i>ratilakṣa</i> <ab>n.</ab> accouplement, coït.  <P><i>ratisatvarā</i> <ab>f.</ab> trigonella corniculata, <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "रति",
+            "eid": "26434",
+            "pagenum": 441,
+            "content": "र/ति¦ <lex>f.</lex> rest, repose, quiet, comfort, pleasure in (<ab>loc.</ab> or —°); the pleasure of love, sexual intercourse (person. as the wife of the god of love)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "रति",
+            "eid": "20062",
+            "pagenum": 357,
+            "content": "र/ति¦ <i>f.</i> Ruhe, Lust, Freude, Gefallen an <i>(Loc. o.)</i> —°), Liebesgenuss, Wollust <i>(personif. als Gattin des Liebesgottes).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "रति",
+            "eid": "4869",
+            "pagenum": 278,
+            "content": "<i>rati, ratī</i>¦ (IE 8-8; IA 19), also spelt <i>rattī;</i> a small weight; see Sanskrit <i>raktikā.</i>"
+        },
+        {
+            "word": "रति",
+            "eid": "7795",
+            "pagenum": 438,
+            "content": "<i>rati,</i>¦ same as <i>raktikā;</i> a little above 1(3/4) grains."
+        }
+    ],
+    "INM": [
+        {
+            "word": "रति",
+            "eid": "9020",
+            "pagenum": 595,
+            "content": "<b>Rati</b><sup>1</sup>¦ (“Delight, Lust,” personif.), a goddess, wife of Kāma. § 117 (Aṃśāvat.): I, <b>66</b>, 2597 (wife of Kāma).—§ 270 (Brahmasabhāv.): II, <b>11</b>, 459 (in the palace of Brahmán).— § 350 (Nalopākhyānap.): III, <b>68</b>, 2665 (<i>Manmathasya</i> <i>R°īm iva</i>)."
+        },
+        {
+            "word": "रति",
+            "eid": "9021",
+            "pagenum": 595,
+            "content": "<b>Rati</b><sup>2</sup>,¦ an Apsaras. § 731<i>b</i> (Aṣṭāvakra-Diksaṃv.): XIII, <b>19</b>β, 1425 (danced in the palace of Kubera)."
+        },
+        {
+            "word": "रति",
+            "eid": "9022",
+            "pagenum": 595,
+            "content": "<b>Rati</b><sup>3</sup>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "रति",
+            "eid": "3493",
+            "pagenum": 228,
+            "content": "<b>ráti,</b>¦ <i><ab>f.</ab></i> <div n='2'/><b>—1.</b> rest, quiet; <div n='2'/><b>—2.</b> comfort, pleasure. [<b>√ram,</b> <ls n='wg,1157'>1157,</ls> <ab>cf.</ab> <ls n='wg,954'>954d</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "रति",
+            "eid": "31768",
+            "pagenum": 604,
+            "content": "rati¦ <i>f.</i> 1. Pleasure, delight, amusement; 2. love, affection, (रतिर्मनोनुकूलेऽर्थे मननः प्रवणायितम् <ls>S.D.</ls>iii.(207); 3. fondness for, attachment to, pleasure in, विद्यायां व्यसनं स्वयोषिति रतिर्लोकापवादाद्भयम् <ls>Bhartr.</ls>ii.62, <ls>R.</ls>i.23; 4. sexual pleasure, sexual passion, करं व्याथुन्वत्याः पिबसि रतिसर्वस्वमधरम् <ls>Sak.</ls>i.; 5. coition, sexual intercourse; 6. the goddess of love, wife of Kāmadeva, इत्थं रतेः किमपि भूतमदृश्यरूपम् <ls>K.S.</ls>iv.45; 7. the pudenda."
+        }
     ]
 }

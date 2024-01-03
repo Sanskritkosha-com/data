@@ -13,5 +13,45 @@
             "pagenum": 3,
             "content": "भोजराज¦ <HI1>Bhujabala astrol."
         }
+    ],
+    "INM": [
+        {
+            "word": "भोजराज",
+            "eid": "1529",
+            "pagenum": 148,
+            "content": "<b>Bhojarāja</b><sup>1</sup>¦ (the king of Dvārakā): II, 1567 (during the invasion of Śiśupāla)."
+        },
+        {
+            "word": "भोजराज",
+            "eid": "1530",
+            "pagenum": 148,
+            "content": "<b>Bhojarāja</b><sup>2</sup>¦ = Ugrasena: V, 4295 (<i>Bhojarājasya vṛddhasya</i> <i>durācāro hy anātmavān | jīvataḥ pitur aiśvaryaṃ hṛtvā</i> <i>mṛtyuvaśaṃ gataḥ | Ugrasena-sutaḥ Kaṃsaḥ parityaktaḥ</i> <i>svabāndhavaiḥ</i>)."
+        },
+        {
+            "word": "भोजराज",
+            "eid": "1531",
+            "pagenum": 148,
+            "content": "<b>Bhojarāja</b><sup>3</sup>¦ = Kaṃsa: VII, 388 (Droṇābhiṣek.) (brother of Sunāman)."
+        },
+        {
+            "word": "भोजराज",
+            "eid": "1532",
+            "pagenum": 148,
+            "content": "<b>Bhojarāja</b><sup>4</sup>¦ = Aṃśumat: VIII, 164 (v. Aṃśumat)."
+        },
+        {
+            "word": "भोजराज",
+            "eid": "1533",
+            "pagenum": 148,
+            "content": "<b>Bhojarāja</b><sup>5</sup>¦ = Kṛtavarman(?). § 793 (Mausalap.): XVI, <b>7</b>, 245 (<i>Hārdikyatanayaṃ Pārtho nagaraṃ Mārttikāvataṃ |</i> <i>Bhojarājakalatrañ ca hṛtaśeṣaṃ narottamaḥ</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भोजराज",
+            "eid": "28055.1",
+            "pagenum": 537,
+            "content": "Boja-rAja¦ <i>m.</i> See I.3 above."
+        }
     ]
 }

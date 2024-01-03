@@ -44,5 +44,63 @@
             "pagenum": 725,
             "content": "सूक्ष्म¦ <i>sūkṣma</i> <ab>a.</ab> petit, mince, menu, délié; <lbinfo n='4'/> || subtil; || fin, ingénieux. -- <ab>S.</ab> <ab>m.</ab> une parcelle, un atome. || Strychnos potatorum, <lbinfo n='6'/> <ab>bot.</ab> -- <ab>S.</ab> <ab>n.</ab> objet très-menu [tel qu'un fil, <ab>etc.</ab>]. || Subtilité, finesse, ruse; fraude, tromperie. || L'Ame suprême. -- <lbinfo n='1'/> <ab>S.</ab> <ab>f.</ab> sorte de parfum. || Petit cardamome; jasmin auriculé; <ab>bot.</ab>  <P><i>sūkṣmataṇḍulā</i> <ab>f.</ab> poivre long; andropogon <lbinfo n='3'/> muricatum, <ab>bot.</ab>  <P><i>sūkṣmatva</i> <ab>n.</ab> (<ab>sfx.</ab> <i>tva)</i> finesse, ténuité, subtilité.  <P><i>sūkṣmadarśin</i> <ab>a.</ab> <i>(dṛś)</i> qui a la vue perçante. <lbinfo n='6'/>  <P><i>sūkṣmadāru</i> <ab>m.</ab> planche de bois mince.  <P><i>sūkṣmapatra</i> <ab>m.</ab> coriandre; cumin sauvage; <lbinfo n='5'/> canne à sucre rouge; mimosa arabica; <lbinfo n='5'/> <ab>esp.</ab> de moutarde; <ab>bot.</ab>  <P><i>sūkṣmaphalā</i> <ab>f.</ab> flacourtia, <ab>bot.</ab>  <P><i>sūkṣmavastra</i> <ab>n.</ab> étoffe mince ou fine.  <P><i>sūkṣmaśāti</i> <ab>m.</ab> petite <ab>esp.</ab> de riz."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सूक्ष्म",
+            "eid": "37839",
+            "pagenum": 630,
+            "content": "सूक्ष्म¦ <lex>a.</lex> fine, small, minute, subtile, intangible, inconceivable, atomic; <ab>abstr.</ab> °ता <lex>f.</lex>, °त्व <lex>n.</lex>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सूक्ष्म",
+            "eid": "28236",
+            "pagenum": 506,
+            "content": "सूक्ष्म¦ fein, dünn, klein, atomartig, gering, unbedeutend. <i>Abstr.</i> °ता <i>f.</i>, °त्व <i>n.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "सूक्ष्म",
+            "eid": "10245",
+            "pagenum": 656,
+            "content": "<b>Sūkṣma</b><sup>1</sup>,¦ an Asura. § 92 (Aṃśāvat.): I, <b>65</b>, 2533 (son of Danu).—§ 130 (do.): I, <b>67</b>, 2654 (incarnate as king Bṛhadratha)."
+        },
+        {
+            "word": "सूक्ष्म",
+            "eid": "10246",
+            "pagenum": 656,
+            "content": "<b>Sūkṣma</b><sup>2</sup>¦ = Śiva (1000 names<sup>2</sup>).—Do.<sup>3</sup> = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सूक्ष्म",
+            "eid": "4682",
+            "pagenum": 275,
+            "content": "<b>sūkṣma,</b>¦ <i><ab>a.</ab></i> fine, small; subtile, intangible, <lbinfo n='intangi-ble,'/> atomic, <ls n='lan,56,19'>56<sup>19</sup></ls>."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सूक्ष्म",
+            "eid": "41289",
+            "pagenum": 789,
+            "content": "sUkzma¦ <i>(I) a. (f. क्ष्मा)</i> 1. Subtile, minute, atomic, योऽसावतींद्रियग्राह्यः सूक्ष्मोऽव्यक्तः सनातनः <ls>M.</ls>i.7; 2. little, small, वंश्या गुणाः खल्वपि लोककांताः प्रारंभसूक्ष्माः प्रथिमानमापुः <ls>R.</ls>viii.49; 3. nice; 4. sharp, acute; 5. crafty, artful, ingenious; 6. exact, precise, accurate, correct; 7. deteriorated, declined."
+        },
+        {
+            "word": "सूक्ष्म",
+            "eid": "41290",
+            "pagenum": 789,
+            "content": "sUkzma¦ <i>(II) m.</i> 1. An atom; 2. the <i>ketaka</i> plant; 3. an epithet of Śiva."
+        },
+        {
+            "word": "सूक्ष्म",
+            "eid": "41291",
+            "pagenum": 789,
+            "content": "sUkzma¦ <i>(III) n.</i> 1. The subtle all-pervading spirit, the supreme soul; 2. minuteness; 3. one of the three kinds of power attainable by an ascetic; 4. craft, ingenuity; 5. fraud, cheating; 6. fine thread; 7. name of a figure of speech thus defined- संलक्षितस्तु सूक्ष्मोऽर्थ आकारेणेंगितेन वा । कयापि सूच्यते भंग्या यत्र सूक्ष्मं तदुच्यते <ls>S.D.</ls>x.<P>(सूक्ष्मीकृ ‘to make thin or fine.’)"
+        }
     ]
 }

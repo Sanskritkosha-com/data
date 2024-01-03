@@ -44,5 +44,57 @@
             "pagenum": 580,
             "content": "वासस्¦ <i>vāsas</i> <ab>n.</ab> <i>(vas</i> 2; <ab>sfx.</ab> <i>as)</i> vêtement. <lbinfo n='5'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वासस्",
+            "eid": "29029",
+            "pagenum": 488,
+            "content": "1 वा/सस्¦ <lex>n.</lex> garment, dress; <ab>du.</ab> under and upper garment."
+        },
+        {
+            "word": "वासस्",
+            "eid": "29030",
+            "pagenum": 488,
+            "content": "2 वासस्¦ <lex>n.</lex> night-quarters."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वासस्",
+            "eid": "22059",
+            "pagenum": 400,
+            "content": "1. वा/सस्¦ <i>n.</i> Gewand, Kleid, Rock; <i>Du.</i> Ober- und Unterkleid."
+        },
+        {
+            "word": "वासस्",
+            "eid": "22060",
+            "pagenum": 400,
+            "content": "2. वासस्¦ <i>n.</i> Nachtlager."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वासस्",
+            "eid": "7942",
+            "pagenum": 1264,
+            "content": "<b>vā́sas,</b>¦ <ab>n.</ab> [von <hom>2.</hom> vas], <i>Kleid, Gewand;</i> 2〉 <i>Decke</i> (der Pferde); 3〉 bildlich von der <i>Decke</i> der Nacht; oder 4〉 von dem <i>Gewande,</i> mit dem sich der milch gemischte Soma bekleidet; oder 5〉 von dem wolligen <i>Gewande</i> der Schafe. <ab>Vgl.</ab> die <ab>Adj.</ab> ámṛkta, bhadrá, rúśat, śukrá und die Zusammensetzungen dur-vā́sas, śukrá-, samudrá-vāsas. <div n='TS'>-as {593,2}; {623,24}; {923,4}; sūryā́yās {911,6}; asyās {928,2}. — 2〉 {162,16}. — 3〉 {115,4} rā́trī 〰 tanute simásmai. — 4〉 {801,2} (avasiṣṭa 〰). <div n='TS'>-asā vadhúas {911,30}. — 4〉 {781,5}. <div n='TS'>-asas [<ab>G.</ab>] 3〉 yuvós hí yantrám himiā́‿iva {34,1}. <div n='TS'>-āṃsi 5〉 {852,6} (ávīnaam)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वासस्",
+            "eid": "3816",
+            "pagenum": 243,
+            "content": "<b>vā́sas,</b>¦ <i><ab>n.</ab></i> garment. [<b>√2vas,</b> ‘clothe.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वासस्",
+            "eid": "34565",
+            "pagenum": 656,
+            "content": "vAsas¦ <i>n.</i> A garment, अंसन्यस्ते सति हलभृतो मेचके वाससीव <ls>Megh.</ls>i.59, <ls>K.S.</ls>vii.9, <ls>Rt.</ls>i.7."
+        }
     ]
 }

@@ -15,5 +15,29 @@
             "pagenum": 722,
             "content": "सुरेन्द्र¦ <i>surendra</i> <ab>m.</ab> <i>(indra)</i> le chef des dieux, <s1 slp1='indra'>Indra</s1>.  <P><i>surendrajit</i> <ab>m.</ab> <i>(ji)</i> <s1 slp1='garuqa'>Garuḍa</s1>.  <P><i>surendraloka</i> <ab>m.</ab> le paradis d'<s1 slp1='indra'>Indra</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सुरेन्द्र",
+            "eid": "37614",
+            "pagenum": 627,
+            "content": "सुरेन्द्र¦ <lex>m.</lex> lord of gods (Indra)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सुरेन्द्र",
+            "eid": "28068",
+            "pagenum": 504,
+            "content": "सुरेन्द्र¦ <i>m.</i> der Götterfürst <i>(Indra).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "सुरेन्द्र",
+            "eid": "10461",
+            "pagenum": 662,
+            "content": "<b>Surendra</b><sup>1</sup>¦ = Indra, q.v.—Do.<sup>2</sup> = Nahuṣa, q.v.—Do.<sup>3</sup> = Śiva: XIII, 887."
+        }
     ]
 }

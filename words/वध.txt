@@ -44,5 +44,59 @@
             "pagenum": 562,
             "content": "वध¦ <i>vadha</i> <ab>m.</ab> coup; || meurtre; <ab>cf.</ab> <i>badha.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वध",
+            "eid": "28007",
+            "pagenum": 470,
+            "content": "वध/¦ <lex>m.</lex> slayer, murderer, destroyer; deadly weapon, <ab>esp.</ab> Indra's thunderbolt; capital or corporal punishment; place of execution; stroke, blow, hurt, injury, destruction, death."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वध",
+            "eid": "21238",
+            "pagenum": 382,
+            "content": "वध/¦ <i>m.</i> Töter, Mörder; Todeswaffe, Tötung, Mord, Todesstrafe, Schlag, Verletzung. Vernichtung, Vereitelung."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वध",
+            "eid": "7599",
+            "pagenum": 1202,
+            "content": "<b>vadhá,</b>¦ <ab>a.</ab>, <ab>m.</ab> [von vadh], 1〉 <ab>a.</ab>, <i>tödtend, tödtlich;</i> 2〉 <ab>m.</ab>, <i>Tödter</i> <ab n='mit'>m.</ab> <ab>Gen.</ab>; 3〉 <ab>m.</ab>, eine <i>Mordwaffe,</i> sie wird als gross (mahát), dick (túmra), gewaltig (ugrá), mit Spitzen versehen (bhṛṣṭimát, sahásrabhṛṣṭi), zermalmend (tárhana) geschildert, und ihre zerschmetternden Wirkungen treten zuerst überall in den Vordergrund; oft lässt sie sich etwa als <i>Keule</i> oder <i>Streitkolben</i> auffassen, doch wird sie auch geschleudert ({620,25}; {959,3}). Oft wird des Indra Donnerkeil dadurch bezeichnet; 4〉 <ab>m.</ab>, das <i>Tödten, Erschlagen,</i> der <i>Mord;</i> 5〉 <ab>m.</ab>, <i>Tod, Untergang</i>. — <ab>Vgl.</ab> tápur-, mā́havadha. <div n='TS'>-ás 2〉 ásunvatas {101,4}; {671,12}; dódhatas {212,4}. — 3〉 vas (marútām) {572,17} (gohā́, nṛhā́); tásya (jíghāṃsatas) <chg type='chg' n='206' src='gra'><old>{14,12}</old><new>{214,12}</new></chg>. — 5〉 {943,6} (〰 íd sá tásya). <div n='TS'>-ám 1〉 vájram {55,5}; kútsam {175,4}. — 3〉 {5,10}; divás pṛthivyā́s {620,4}; dā́sasya, ā́ryasya {928,3}; jíjyāsatas {978,5}; (índrasya) {221,3}; {388,2}; {620,20}. _{620,25}; {915,9}; {959,3}. — 5〉 neben kṣúdham {943,1}. <div n='TS'>-éna 3〉 (índrasya) {32,5}; {52,15}; {266,6}; {314,7}. _{314,9}; {383,10}; {386,8}; {620,16}; (agnés) {358,6}; (sómasya) {803,4}. <div n='TS'>-ā́ya 3〉 hatnáve {25,2}. — 4〉 yás nas 〰 dā́śati {457,31}. <div n='TS'>-ā́t 4〉 mṛḍā́ nas abhí cid 〰 {851,3}. <div n='TS'>-aís 5〉 {94,9}; {121,9}; {129,6}; {133,6}; {219,7}; {461,4}; {621,28}; {764,3}; {1020,8}. <div n='TS'>-ā́nām 3〉 sámṛtim {32,6}."
+        },
+        {
+            "word": "वध",
+            "eid": "11206",
+            "pagenum": 1745,
+            "content": "1202,24.a <ab>v. u.</ab>: {214,12} <ab>st.</ab> {14,12} <info vn='chg 206 gra'/>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "वध",
+            "eid": "11296",
+            "pagenum": 699,
+            "content": "<b>Vadha</b>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वध",
+            "eid": "3679",
+            "pagenum": 237,
+            "content": "<b>vadhá,</b>¦ <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> murderer; <div n='2'/><b>—2.</b> weapon of death, <i><ab>esp.</ab></i> Indra's bolt; <div n='2'/><b>—3.</b> slaying, slaughter. [<b>√vadh.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वध",
+            "eid": "33375",
+            "pagenum": 637,
+            "content": "vaDa¦ <i>m.</i> 1. Slaughter, killing, murder, वधाय वध्यस्य शरं शरण्यः <ls>R.</ls>ii.80, xii.52; 2. blow, stroke; 3. paralysis; 4. multiplication (in math.)."
+        }
     ]
 }

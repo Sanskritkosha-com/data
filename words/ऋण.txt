@@ -44,5 +44,45 @@
             "pagenum": 121,
             "content": "ऋण¦ <i>ṛṇa</i> <ab>n.</ab> <i>(ṛ;</i> <ab>sfx.</ab> <i>na)</i> dette. || Fort, place de guerre.  <P><i>ṛṇamatkuṇa</i> <ab>m.</ab> (prononciation vicieuse du mot suivant?) bail, contrat.  <P><i>ṛṇamārgaṇa</i> <ab>m.</ab> <i>(mṛj)</i> bail, contrat.  <P><i>ṛṇamukti</i> <ab>f.</ab> <i>(muc)</i> libération d'une dette.  <P><i>ṛṇamokṣa</i> <ab>m.</ab> <i>(muc)</i> <ab>mms.</ab>  <P><i>ṛṇāntaka</i> <ab>m.</ab> <i>(anta)</i> le régent de la planète de Mars, patron des débiteurs."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ऋण",
+            "eid": "6252",
+            "pagenum": 97,
+            "content": "ऋण/¦ <lex>a.</lex> guilty; <lex>n.</lex> guilt, debt, obligation. ऋणं कृ borrow of (<ab>gen.</ab>), °धारय् be indebted to (<ab>gen.</ab>), °दा, नी, or संनी pay a debt."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ऋण",
+            "eid": "3857",
+            "pagenum": 63,
+            "content": "ऋण/¦ schuldig; <i>n.</i> Verpflichtung, Schuld, Geldschuld. ऋणां धारय् jemand <i>(Gen.)</i> etwas schuldig sein; ऋ° कर् borgen von <i>(Abl.)</i>, ऋ° संनी eine Schuld oder Verpflichtung abtragen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ऋण",
+            "eid": "2176",
+            "pagenum": 281,
+            "content": "<b>ṛṇá,</b>¦ <ab>a.</ab>, <ab>n.</ab>, <ab>Part.</ab> [auf na] von ar 11, also Grundbegriff „verletzt, beschädigt“; wie sich aus diesem Begriffe vielfach der Begriff der Schuld entwickelt hat, ist von <ls>J. Grimm [Ku. 〔1,82〕]</ls> nachgewiesen. 1〉 <ab>a.</ab>, <i>schuldig, sündig;</i> 2〉 <ab>n.</ab>, <i>Schuld, Verschuldung, Sünde;</i> 3〉 <ab>n.</ab>, <i>Verstoss, Versehen;</i> 4〉 <ab>n.</ab>, <i>Geldschuld</i>. <div n='TS'>-ás 1〉 tāyús {453,5}. <div n='TS'>-ám [<ab>n.</ab>] 2〉 {215,13}; {299,13}. — 3〉 brahmáṇām {652,16}. — 4〉 {667,17}. <div n='TS'>-ā́ [<ab>n.</ab>] 2〉 {219,9}; {319,7}; {759,2}. <div n='TS'>-ā́ [<ab>f.</ab>] 1〉 uṣas ṛṇā́‿iva {953,7}. <div n='TS'>-ā́ni 2〉 {218,4}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ऋण",
+            "eid": "919",
+            "pagenum": 135,
+            "content": "<b>ṛṇá,</b>¦ <i><ab>a.</ab></i> (having gone against <i>or</i> transgressed, <lbinfo n='trans-gressed,'/> <i>and so</i>) guilty; <i>as <ab>n.</ab></i> [<ls n='wg,1176'>1176a</ls> <i>and</i> <ls n='wg,1177'>1177]</ls>, guilt; debt, <ls n='lan,25,2'>25<sup>2</sup></ls>. [<b>√ṛ:</b> <ab>cf.</ab> <ab>Lat.</ab> <i>reus,</i> ‘guilty’: for <ab>mg</ab>, <ab>cf.</ab> <b>upārá.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ऋण",
+            "eid": "07291",
+            "pagenum": 150,
+            "content": "fRa¦ <i>n.</i> 1. Obligation; 2. debt; 3. a fort; 4. water; 5. land; 6. a negative quantity (in algebra)."
+        }
     ]
 }

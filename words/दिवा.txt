@@ -44,5 +44,53 @@
             "pagenum": 321,
             "content": "दिवा¦ <i>divā</i> <ab>adv.</ab> (<ab>i.</ab> de <i>div)</i> pendant le jour."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दिवा",
+            "eid": "13723",
+            "pagenum": 225,
+            "content": "दि/वा¦ (<ab>instr.</ab> <ab>adv.</ab>) by day."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दिवा",
+            "eid": "9752",
+            "pagenum": 173,
+            "content": "दिवा/¦ <i>(Instr. adv.)</i> am Tage."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दिवा",
+            "eid": "4234",
+            "pagenum": 605,
+            "content": "<b>dívā,</b>¦ <i>bei Tage</i> [<ab>Instr.</ab> von dív mit zurückgezogenem Tone]; {38,9}; {430,2}; {638,7}; mit dem Gegensatze náktam {24,10}. _{24,12}; {34,2}; {98,2}; {139,5}; {144,4}; {430,3}; {444,6}; {531,15}; {587,1}. _{587,2}; {620,11}; {627,6}; {638,6}; {645,11}; {670,17}; {673,6}; {809,9}; {819,20}; {913,1}; {921,4}; mit aktaú {490,10}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "दिवा",
+            "eid": "1694",
+            "pagenum": 99,
+            "content": "<i>divā</i>¦ (CII 3), ‘by day’; an indeclinable used in some of the Nepal inscriptions in composition with words denoting <i>tithis</i> or lunar days."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दिवा",
+            "eid": "1950",
+            "pagenum": 169,
+            "content": "<b>dívā,</b>¦ <i><ab>adv.</ab></i> by day. [<ab>fr.</ab> the <ab>instr.</ab> <b>div-ā́,</b> <ab>w.</ab> shifted <ab>acct</ab>, <ls n='wg,1112'>1112e</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दिवा",
+            "eid": "16869",
+            "pagenum": 332,
+            "content": "divA¦ <i>ind.</i> By day, in the day time.<P>(दिवाभू ‘to become day’ e.g. दिवाभूता रात्रिः.)"
+        }
     ]
 }

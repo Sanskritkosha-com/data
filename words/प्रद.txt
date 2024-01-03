@@ -31,5 +31,29 @@
             "pagenum": 439,
             "content": "प्रद¦ <i>prada</i> <ab>a.</ab> <i>(dā)</i> qui donne."
         }
+    ],
+    "CAE": [
+        {
+            "word": "प्रद",
+            "eid": "20618",
+            "pagenum": 339,
+            "content": "प्रद¦ <lex>a.</lex> giving, uttering, causing (mostly —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "प्रद",
+            "eid": "15569",
+            "pagenum": 274,
+            "content": "प्रद¦ <i>(meist —°)</i> gebend, bewirkend, aussprechend, <lbinfo n='10'/> redend."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "प्रद",
+            "eid": "2744",
+            "pagenum": 195,
+            "content": "<b>prada,</b>¦ <i><ab>a.</ab></i> giving; furnishing. [<b>√1dā +</b> <b>pra,</b> <ls n='wg,333'>333.</ls>]"
+        }
     ]
 }

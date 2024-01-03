@@ -31,5 +31,37 @@
             "pagenum": 748,
             "content": "हति¦ <i>hati</i> <ab>f.</ab> <i>(han;</i> <ab>sfx.</ab> <i>ti)</i> coup; meurtre, <lbinfo n='4'/> carnage."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हति",
+            "eid": "39298",
+            "pagenum": 656,
+            "content": "हति¦ <lex>f.</lex> striking, stroke, blow."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हति",
+            "eid": "29167",
+            "pagenum": 526,
+            "content": "हति¦ <i>f.</i> Schlag, Tötung, Vernichtung."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "हति",
+            "eid": "10536",
+            "pagenum": 1641,
+            "content": "<b>(hati),</b>¦ <ab>f.</ab>, das <i>Tödten, Beschädigen</i> [von han], enthalten in á-hati."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हति",
+            "eid": "42915",
+            "pagenum": 825,
+            "content": "hati¦ <i>f.</i> 1. Striking, a stroke, a blow; 2. killing, destruction; 3. defect, flaw, मुख्यार्थहतिर्दोषः <ls>K.Pr.</ls>vii.; 4. multiplication (in math.)."
+        }
     ]
 }

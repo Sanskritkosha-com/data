@@ -214,5 +214,49 @@
             "pagenum": 133,
             "content": "जगन्नाथ¦ <i>m.</i> (e जगत् et नाथ) mundi dominus, cognomen Vischnûs."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जगन्नाथ",
+            "eid": "10894",
+            "pagenum": 179,
+            "content": "जगन्नाथ¦ <lex>m.</lex> lord of the world, <ab>N.</ab> of <ab>sev.</ab> gods & men."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जगन्नाथ",
+            "eid": "7328",
+            "pagenum": 130,
+            "content": "जगन्नाथ¦ <i>m.</i> Weltenschützer <i>(desgl., auch</i> <i>Mannsname).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "जगन्नाथ",
+            "eid": "4685",
+            "pagenum": 345,
+            "content": "<b>Jagannātha</b><sup>1</sup>¦ = Brahmán: VII, 2062; XII, 9176; XIII, 7635 (<i>Pitāmahaḥ</i>)."
+        },
+        {
+            "word": "जगन्नाथ",
+            "eid": "4686",
+            "pagenum": 346,
+            "content": "<b>Jagannātha</b><sup>2</sup>¦ = Kṛṣṇa (Viṣṇu): XII, 13133, 13309, 13436 (read <i>°nāthāt</i> with B.); XIII, 6947."
+        },
+        {
+            "word": "जगन्नाथ",
+            "eid": "4687",
+            "pagenum": 346,
+            "content": "<b>Jagannātha</b><sup>3</sup>¦ = Śiva: VII, 9509; XII, 10435 (1000 names<sup>1</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "जगन्नाथ",
+            "eid": "14128",
+            "pagenum": 282,
+            "content": "jagat-nATa¦ <i>m.</i> the lord of the universe."
+        }
     ]
 }

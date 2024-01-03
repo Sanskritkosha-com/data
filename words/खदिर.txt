@@ -31,5 +31,43 @@
             "pagenum": 202,
             "content": "खदिर¦ <i>khadira</i> <ab>m.</ab> (<ab>sfx.</ab> <i>ira)</i> la Lune. || Mimosa catechu, arbre qui produit le cachou. <lbinfo n='5'/> || <ab>Surn.</ab> d'<s1 slp1='indra'>Indra</s1>. -- <i>khadirī</i> <ab>f.</ab> mimosa pudica, la sensitive, <ab>bot.</ab>  <P><i>khadiropama</i> <ab>n.</ab> <i>(upamā)</i> acacia d'Arabie."
         }
+    ],
+    "CAE": [
+        {
+            "word": "खदिर",
+            "eid": "9047",
+            "pagenum": 144,
+            "content": "खदिर/¦ <lex>m.</lex> <ab>N.</ab> of a tree (Acacia Catechu)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "खदिर",
+            "eid": "5855",
+            "pagenum": 101,
+            "content": "खदिर/¦ <i>m. N. eines Baumes.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "खदिर",
+            "eid": "2848",
+            "pagenum": 372,
+            "content": "<b>khadirá,</b>¦ <ab>m.</ab>, ein Baum von hartem Holze [wol aus khad, hart sein], Akazie: Acacia Catechu <ab n='Willdenow'>Willd.</ab>, woraus der als Catechu bekannte Saft [sā́ra] bereitet wird. <div n='TS'>-ásya sā́ram <chg type='chg' n='95' src='gra'><old>{287,9}</old><new>{287,19}</new></chg>."
+        },
+        {
+            "word": "खदिर",
+            "eid": "11095",
+            "pagenum": 1743,
+            "content": "372,26: {287,19} <ab>st.</ab> {287,9} <info vn='chg 95 gra'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "खदिर",
+            "eid": "11243",
+            "pagenum": 226,
+            "content": "Kadira¦ <i>m.</i> 1. Name of a tree, <ls>Yaj.</ls>i.302; 2. an epithet of Indra; 3. the moon."
+        }
     ]
 }

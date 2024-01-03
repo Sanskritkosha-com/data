@@ -31,5 +31,51 @@
             "pagenum": 442,
             "content": "प्रभृति¦ <i>prabhṛti</i> <ab>adv.</ab> <i>(bhṛ;</i> <ab>sfx.</ab> <i>ti)</i> ensuite, consécutivement: <i>bālyāt prabṛti</i> de l'enfance <lbinfo n='5'/> à ce jour, depuis l'enfance; <i>tatas prabhṛti</i> <lbinfo n='7'/> depuis lors; <i>yatas</i> <i>prabhṛti</i> depuis que. || Au <ab>pl.</ab> en <ab>compos.</ab> <i>viśvāvasuprabhṛtayo</i> <i>gandharvās</i> <s1 slp1='viSvAvasu'>Viśvāvasu</s1> et les autres <s1 slp1='ganDarva'>Gandharva</s1>s. <lbinfo n='8'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "प्रभृति",
+            "eid": "20745",
+            "pagenum": 342,
+            "content": "प्र/भृति¦ <lex>f.</lex> bringing forth, offering, presenting, beginning; often <ab>adj.</ab> (—°) or <ab>adv.</ab> (after an <ab>abl.</ab> or —°) beginning with, since, from, — and so on."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "प्रभृति",
+            "eid": "15676",
+            "pagenum": 276,
+            "content": "प्र/भृति¦ <i>f.</i> Darbringung, Anfang. <i>Oft adj.</i> —° anfangend mit, — u. s. w.; <i>adv.</i> (nach einem Abl., Adv. o. —°) von — an."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "प्रभृति",
+            "eid": "5938",
+            "pagenum": 877,
+            "content": "<b>prábhṛti,</b>¦ <ab>f.</ab> [von bhṛ mit prá], 1〉 <i>Darbringung</i> mit <ab>Gen.</ab> des Dargebrachten; 2〉 <i>Darbringung</i> (Lied oder Opfer); 3〉 das <i>Schleudern</i> des Blitzes [<ab>G.</ab>]. <div n='TS'>-im 2〉 {215,1}; {270,1}. <div n='TS'>-au 1〉 ṛtásya {554,2}. — 3〉 vájrasya {386,7}. <div n='TS'>-ā [<ab>L.</ab>, vor m] 1〉 mádasya {386,5}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "प्रभृति",
+            "eid": "2760",
+            "pagenum": 196,
+            "content": "<b>prábhṛti,</b>¦ <i><ab>f.</ab></i> <div n='2'/><b>—1.</b> <i><ab>lit.</ab></i> a carrying forward <i>or</i> on, <i><ab>i. e.</ab></i> continuance; <i>used <ab>esp.</ab> at end</i> <i>of <ab>cpds</ab></i> [<ls n='wg,1296'>1296]</ls>, having continuance from …, <i><ab>i. e.</ab></i> continuing from…; <div n='2'/><b>—2.</b> <i>then in</i> <i>such <ab>cpds</ab> used in <ab>acc.</ab> <ab>s.</ab> <ab>n.</ab> adverbially</i> [<ls n='wg,1311'>1311]</ls>, continuing from…, beginning with…, from…; <div n='2'/><b>—3.</b> <i>then as an <ab>adv.</ab></i> <i>uncompounded,</i> <b>prabhṛti,</b> <i><ab>w.</ab> <ab>abl.</ab>,</i> from …on; <b>tataḥ prabhṛti,</b> from then on. [<b>√bhṛ + pra,</b> <ls n='wg,1157'>1157.</ls> 1d.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "प्रभृति",
+            "eid": "24659",
+            "pagenum": 474,
+            "content": "praBfti¦ <i>(I) f.</i> Beginning, commencement, (in this sense, the word generally occurs as the last member of a Bahu. compound, <ls>Yaj.</ls>i.264)."
+        },
+        {
+            "word": "प्रभृति",
+            "eid": "24660",
+            "pagenum": 474,
+            "content": "praBfti¦ <i>(II) ind.</i> Beginning with, from, since, (with an abl.), e.g. बाल्यात् प्रभृति, अद्य प्रभृति, ततः प्रभृति &c. <ls>K.S.</ls>iii.26, <ls>R.</ls>xi.28."
+        }
     ]
 }

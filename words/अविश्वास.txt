@@ -7,5 +7,27 @@
             "pagenum": 196,
             "content": "अविश्वास¦ <i><ab>a.</ab></i> Not inspiring <lbinfo n='con+fidence'/> confidence, mistrusted. --सः <lbinfo n='Mis+trust'/> Mistrust, suspicion. --सा A cow <lbinfo n='calv+ing'/> calving after long intervals."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अविश्वास",
+            "eid": "3374",
+            "pagenum": 49,
+            "content": "1 अविश्वास¦ <lex>m.</lex> mistrust, suspicion."
+        },
+        {
+            "word": "अविश्वास",
+            "eid": "3375",
+            "pagenum": 49,
+            "content": "2 अविश्वास¦ <lex>a.</lex> mistrustful, suspicious."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अविश्वास",
+            "eid": "2137",
+            "pagenum": 33,
+            "content": "अविश्वास¦ misstrauisch; <i>m.</i> das Misstrauen."
+        }
     ]
 }

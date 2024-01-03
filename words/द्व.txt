@@ -15,5 +15,37 @@
             "pagenum": 336,
             "content": "द्व¦ <i>dva</i> <ab>th.</ab> de <i>dvi.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "द्व",
+            "eid": "14843",
+            "pagenum": 243,
+            "content": "द्व/¦ <lex>f.</lex> <ab>du.</ab> two, both (±अपि); द्वयोस् (<ab>g.</ab>) occurring in both genders (<ab>sc.</ab> <lex>m.</lex> & <lex>f.</lex>), and also in both numbers (sgl. & <ab>pl.</ab>)"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "द्व",
+            "eid": "10659",
+            "pagenum": 188,
+            "content": "द्व/¦ <i>Du.</i> zwei; beide (<i>mit o. ohne</i> अपि); द्वयोस् in beiden Geschlechtern <i>(m. u. f.</i> .<i>)</i> in beiden Zahlen <i>(Sgl. u. Pl.)</i> vorkommend <lbinfo n='7'/> <i>(g.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "द्व",
+            "eid": "4585",
+            "pagenum": 649,
+            "content": "<b>dvá,</b> <b>duá,</b>¦ <ab>a.</ab>, <i>zwei</i> [<ls>Cu. 〔277〕</ls>]. <div n='TS'>-vaú jaghánā {28,2}; rā́jānā {416,6}. <div n='TS'>-uaú plúṣī {191,1}; vā́tau {963,2}. <div n='TS'>-vā́ {681,7}; upásthā {35,6}; jahitā́ {326,19}; camasā́ {329,5}; mithunā́ {843,2}. <div n='TS'>-uá {649,8}; {853,17}. _{853,23}; {874,7}; jánā {131,3}; {508,1}; {798,42}; sávayasā {144,4}; (yuvaśā́) {161,3}; yantā́rā {162,19}; sákhāyā {164,20}; ráthā {534,22}; samrā́jā {649,9}. <div n='TS'>-uā́-duā {677,14}; {874,6}. [Page650] <div n='TS'>-ué [<ab>n.</ab>] krámaṇe {155,5}; śīrṣé {354,3}; śaté {534,22}; paváste {853,7}; cakré {911,16}. <div n='TS'>-vé [<ab>f.</ab>] (samídhau) {236,9}. <div n='TS'>-ué [<ab>f.</ab>] vírūpe {95,1}; (dyā́vāpṛthivī́) {185,2}; {264,11}; (átye) {290,2}; (nadī́) {401,5}; srutī́ {914,15}; samīcī́ {914,16}. <div n='TS'>-uā́bhyām oder dvā́bhiām [<ab>I.</ab> <ab>m.</ab>] háribhyām {209,4}. <div n='TS'>-uā́bhyām oder dvā́bhiām [<ab>I.</ab> <ab>f.</ab>] neben ékayā {893,4}. <div n='TS'>-uáyos [<ab>G.</ab> <ab>m.</ab>] {486,5} (avitā́). <div n='TS'>-uáyos [<ab>L.</ab> <ab>n.</ab>] {665,34} neben ékasmin ā́gasi. <div n='TS'>-váyos [<ab>L.</ab> <ab>m.</ab>] {83,3} (yā saparyátas)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "द्व",
+            "eid": "2093",
+            "pagenum": 174,
+            "content": "<b>dvá</b>¦ [<ls n='wg,482'>482b</ls>], <i><ab>num.</ab></i> two. [<ab>cf.</ab> <lang n='greek'>δύο</lang>, <ab>Lat.</ab> <i>duo,</i> <ab>Eng.</ab> <i>two.</i>]"
+        }
     ]
 }

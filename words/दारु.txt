@@ -58,5 +58,75 @@
             "pagenum": 317,
             "content": "दारु¦ <i>dāru</i> <ab>a.</ab> <i>(dṝ)</i> qui déchire qui fend. -- <ab>S.</ab> <ab>m.</ab> <ab>n.</ab> bois à refendre, bois de charpente. <lbinfo n='6'/> -- <ab>S.</ab> <ab>n.</ab> le pin <s1 slp1='devadAru'>devadāru</s1>. || Bronze. -- <ab>S.</ab> <ab>m.</ab> artisan, artiste. || <ab>Cf.</ab> <ab>gr.</ab> <lang n='greek'>δόρυ</lang>.  <P><i>dāruka</i> <ab>m.</ab> l'écuyer de <s1 slp1='kfzRa'>Kṛṣṇa</s1>. -- <ab>F.</ab> <i>dārukā</i> <lbinfo n='6'/> poupée de bois.  <P><i>dārugarbhā</i> <ab>f.</ab> poupée de bois.  <P><i>dāruja</i> <ab>a.</ab> <i>(jan)</i> de bois. -- <ab>S.</ab> <ab>m.</ab> sorte de tambour."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दारु",
+            "eid": "13575",
+            "pagenum": 223,
+            "content": "1 दारु/¦ <lex>a.</lex> breaking."
+        },
+        {
+            "word": "दारु",
+            "eid": "13576",
+            "pagenum": 223,
+            "content": "2 दा/रु¦ <lex>n.</lex> a piece of wood, wood <ab>i.g.</ab>; <ab>adv.</ab> °वत्† like a piece of wood."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दारु",
+            "eid": "9613",
+            "pagenum": 171,
+            "content": "1. दारु/¦ zerbrechend."
+        },
+        {
+            "word": "दारु",
+            "eid": "9614",
+            "pagenum": 171,
+            "content": "2. दा/रु¦ <i>n.</i> Holz."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दारु",
+            "eid": "4198",
+            "pagenum": 595,
+            "content": "<b>dārú,</b>¦ <ab>a.</ab>, <i>zerbrechend</i> [von dar]. <div n='TS'>-úm (<chg type='chg' n='130' src='gra'><old>índram</old><new>agním</new></chg>) {522,1}."
+        },
+        {
+            "word": "दारु",
+            "eid": "4199",
+            "pagenum": 595,
+            "content": "<b>dā́ru,</b>¦ <ab>n.</ab>, <i>Holz,</i> mit drú gleichen Ursprungs. Die Sprachvergleichung zeigt, dass das Wort aus einer, wol aus dar erweiterten Wurzel *darv, oder mit Ausstossung des a, *dru in der Bedeutung „hart sein, erharten“ stammen muss, und das Holz also als das Harte an der Pflanze oder als das Erhartete aufgefasst ist. Ausser den bei <ls>Curtius 〔n. 275〕</ls> aufgeführten Wörtern gehört hierher noch <lang>russ.</lang> dérenŭ, <lang>böhm.</lang> drjn, drjenka nebst den sehr alten Entlehnungen dieser Wörter im Deutschen (<ab n='siehe'>s.</ab> des <ls>Verf. Deutsche Pflanzennamen 〔S. 116〕</ls>) für die Kirschherliz (Cornus mas <ab>L.</ab>), einen durch sein zähes und festes Holz ausgezeichneten Baum. Die Bedeutung „hart“ tritt hervor in <lang>sanskr.</lang> dāruṇá, <lang>lat.</lang> dūru-s (<ab>vgl.</ab> in Bezug auf den Vocal <lang>gr.</lang> <gk>δοῦρα, δούρατα</gk> von <gk>δόρυ</gk>), <lang>lit.</lang> drûta-s. 1〉 <i>Holz,</i> <ab>pl.</ab> <i>Holzscheite;</i> 2〉 das <i>Querholz,</i> an welches die Stränge des den Pflug ziehenden Stieres angeknüpft wurden; 3〉 schwimmender <i>Balken</i> oder Kahn. [Page596] <div n='TS'>-u 1〉 {444,4}; {972,4}. — 2〉 {928,8}. — 3〉 {981,3}. <div n='TS'>-ūṇi 1〉 {711,20}."
+        },
+        {
+            "word": "दारु",
+            "eid": "11130",
+            "pagenum": 1744,
+            "content": "595,22 <ab>v. u.</ab>: agním <ab>st.</ab> índram <info vn='chg 130 gra'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दारु",
+            "eid": "1935",
+            "pagenum": 169,
+            "content": "<b>dā́ru,</b>¦ <i><ab>n.</ab></i> wood; log <i>or</i> billet of wood; stick. [see the <ab>equiv.</ab> <b>drú</b> and <b>taru:</b> <ab>cf.</ab> <lang n='greek'>δόρυ</lang>, ‘wood, beam, shaft’; <lang n='greek'>δρῦς</lang>, ‘tree, oak’; <ab>Goth.</ab> <i>triu,</i> ‘wood, tree’; <ab>Eng.</ab> <i>tree,</i> ‘wood’ (so Wyclif), ‘a large woody plant’ (usual <ab>mg</ab>), ‘a wooden bar’ (in whiffle-<i>tree</i>).]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दारु",
+            "eid": "16763",
+            "pagenum": 330,
+            "content": "dAru¦ <i>(I) m.</i> 1. A munificent man; 2. an artist."
+        },
+        {
+            "word": "दारु",
+            "eid": "16764",
+            "pagenum": 330,
+            "content": "dAru¦ <i>(II) n.</i> 1. A piece of wood, timber; 2. a lever, a bolt; 3. the <i>devadāru</i> tree; 4. brass."
+        }
     ]
 }

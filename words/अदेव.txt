@@ -15,5 +15,65 @@
             "pagenum": 16,
             "content": "अदेव¦ <i>adeva</i> <ab>a.</ab> <i>(deva)</i> <ab>Vd.</ab> sans dieux, sans religion, <ab>ép.</ab> des <s1 slp1='dasyu'>Dasyu</s1>s.  <P><i>adevayu</i> <ab>a.</ab> <ab>Vd.</ab> <ab>mms.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अदेव",
+            "eid": "781",
+            "pagenum": 12,
+            "content": "अ/देव¦ <lex>f.</lex> ई not divine, godless, impious; <lex>m.</lex> not a god, an Asura."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अदेव",
+            "eid": "520",
+            "pagenum": 8,
+            "content": "अ/देव¦ <i>f.</i> ई nicht göttlich, götterfeindlich; <i>m.</i> Nichtgott, Asura."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अदेव",
+            "eid": "302",
+            "pagenum": 37,
+            "content": "<b>á-deva,</b>¦ <ab>a.</ab>, nicht göttlich [devá], daher 1〉 <i>gottlos, den Göttern feindlich,</i> von Menschen [Page38] und Dämonen; 2〉 <i>den Göttern feindlich, wider die Götter gerichtet,</i> von Gesinnung und Werk; 3〉 <ab>m.</ab>, <i>Nichtgott</i> in der Verbindung: Gott und Nichtgott ({463,11}). <div n='TS'>-as 1〉 {458,8}; {459,11}; {666,21}; {679,7} (mártias); {680,8}; {863,3}; {864,3}. 3〉 {463,11}. <div n='TS'>-am 1〉 {266,6}; {816,6}; {817,6} (atríṇam). <div n='TS'>-ena 2〉 mánasā {214,12}. <div n='TS'>-āt 1〉 {950,2}. <div n='TS'>-ā́s 1〉 {705,9} (ásurās). <div n='TS'>-ān 1〉 {235,16}. 2〉 nidhī́n {964,4}. <div n='TS'>-āni 2〉 {489,10} (hvárāṃsi). <div n='TS'>-īs [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] 1〉 paribā́dhas {356,10}. <div n='TS'>-īs [<ab>A.</ab>] 1〉 bhídas {174,8}; drúhas {265,19}; spṛ́dhas {466,9}; {490,15}; víśas {490,15}; {705,15}; dvíṣas {631,3}. 2〉 māyā́s {356,9}; {517,10}; {614,5}. <div n='TS'>(-īs) = -ias [<ab>A.</ab>] 2〉 hetī́s {670,16}."
+        },
+        {
+            "word": "अदेव",
+            "eid": "12031",
+            "pagenum": 1750,
+            "content": "<b>á-deva:</b>¦<info vn='add 27 gra'/> <div n='TS'>*-asya 1〉 pīyós {174,8}; {210,7}; śū́śuvānasya {937,6}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अदेव",
+            "eid": "1670",
+            "pagenum": 49,
+            "content": "अदेव¦ Tatpur. I. m. f. n. (-वः-वी-वम्) <sup>1</sup> Not referring to the gods, not divine. <sup>2</sup> Godless, impious. <div n='P'>II. m. (-वः) One who is not a god. E. अ neg. and देव. I. would more probably be a Bahuvr., if it were not accentuated in the Vedas as a Tatpur. See the following."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अदेव",
+            "eid": "132",
+            "pagenum": 114,
+            "content": "<b>a-devá,</b>¦ <i><ab>m.</ab></i> non-god, who is no god. [<ls n='wg,1288'>1288a<sup>4</sup></ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अदेव",
+            "eid": "00809",
+            "pagenum": 13,
+            "content": "adeva¦ <i>(I) a. (f. वा)</i> Godless, impious."
+        },
+        {
+            "word": "अदेव",
+            "eid": "00810",
+            "pagenum": 13,
+            "content": "adeva¦ <i>(II) m.</i> One who is not a god."
+        }
     ]
 }

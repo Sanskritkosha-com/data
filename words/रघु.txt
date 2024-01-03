@@ -31,5 +31,45 @@
             "pagenum": 531,
             "content": "रघु¦ <i>raghu</i> <ab>m.</ab> <s1 slp1='raGu'>Raghu</s1>, bisaïeul de <s1 slp1='rAma'>Rāma</s1> fils de <s1 slp1='daSaraTa'>Daśaratha</s1>; || les descendants de <s1 slp1='raGu'>Raghu</s1>.  <P><i>raghukāra</i> <ab>m.</ab> <i>(kṛ)</i> <s1 slp1='kAlidAsa'>Kālidāsa</s1>, auteur du <s1 slp1='raGuvaMSa'>Raghuvaṃśa</s1>. <lbinfo n='9'/>  <P><i>raghunandana</i> <ab>m.</ab> <s1 slp1='rAma'>Rāma</s1>.  <P><i>raghunātha</i> <ab>m.</ab> <s1 slp1='rAma'>Rāma</s1>.  <P><i>raghuvaṃśa</i> <ab>m.</ab> la famille de <s1 slp1='raGu'>Raghu</s1>; || poème de <s1 slp1='kAlidAsa'>Kālidāsa</s1>.  <P><i>raghuvara</i> <ab>m.</ab> <s1 slp1='rAma'>Rāma</s1>.  <P><i>raghūdvaha</i> <ab>m.</ab> <i>(ut; vah)</i> <s1 slp1='rAma'>Rāma</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "रघु",
+            "eid": "26319",
+            "pagenum": 439,
+            "content": "रघु/¦ <lex>f.</lex> रघ्वी/ running, swift, fleet, light; <lex>m.</lex> runner, courser; <ab>N.</ab> of an ancient king, <ab>pl.</ab> his race."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "रघु",
+            "eid": "19995",
+            "pagenum": 356,
+            "content": "रघु/,¦ <i>f.</i> रघ्वी/ schnell, flüchtig, leicht, <i>m.</i> Renner, <i>N. eines Königs, Pl. seines</i> <i>Geschlechts.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "रघु",
+            "eid": "7219",
+            "pagenum": 1132,
+            "content": "<b>raghú,</b>¦ <ab>a.</ab>, <i>schnell, schnell dahinschiessend</i> [von raṃh <ls>Cu. 〔168〕</ls>], von Rossen, Vögeln, Strömen, daher 2〉 auf Geistiges übertragen <i>leichtbeweglich;</i> 3〉 <ab>m.</ab> <ab>pl.</ab>, die <i>Raschen,</i> die <i>Rosse</i> (wie āśávas); 4〉 <ab>f.</ab> <ab>pl.</ab>, die <i>schnell fliessenden,</i> die <i>Ströme</i>. <div n='TS'>-ús átyas {384,14}; śyenás {399,9}. <div n='TS'>-úm 2〉 krátum (striyā́s) {653,17}. <div n='TS'>-ū́ hárī {875,2}. <div n='TS'>-ávas 3〉 áchā gamema 〰 ná vā́jam {301,13}. <div n='TS'>-vī́ [<ab>du.</ab> <ab>f.</ab>] ṛjré {504,9}. <div n='TS'>-vī́s 4〉 〰 iva pravaṇé sasrus {52,5}; 〰 iva (manīṣā́s agman) {337,9}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "रघु",
+            "eid": "8879",
+            "pagenum": 573,
+            "content": "<b>Raghu</b>,¦ an ancient king. § 6 (Anukram.): I, <b>1</b>α, 226 (in Sañjaya's enumeration). § 552 (Goharaṇap.): IV, <b>56</b>ζ, 1769 (came on the chariot of Indra to see the encounter).— § 656 (Khaḍgotpattik.): XII, <b>166</b>δ, 6197 (received the sword from Yuvanāśva, from him it passed over to Hariṇāśva). —§ 761 (Ānuśāsanik.): XIII, <b>115</b>γ, 5661 (abstained from meat during the month of Kārttika).—§ 770 (do.): XIII, <b>151</b>ξ, 7160 (<i>saṃgrāmajid bhavati caiva R°ṃ namasyan</i>). § 775 (do.): XIII, <b>166</b>η, 7677 (enumeration)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "रघु",
+            "eid": "3484",
+            "pagenum": 227,
+            "content": "<b>raghú,</b>¦ <div n='2'/><b>—1.</b> <i><ab>a.</ab></i> running, darting, swift; <i>as <ab>m.</ab></i> runner; <div n='2'/><b>—2.</b> <i><ab>m.</ab></i> Raghu (The Runner, <lbinfo n='Run-ner,'/> <lang n='greek'>Δρομεύς</lang>), name of an ancient king. [<b>√raṃh,</b> <ab>q. v.</ab>: older form of <b>laghú,</b> <ab>q. v.</ab>]"
+        }
     ]
 }

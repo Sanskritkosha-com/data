@@ -31,5 +31,51 @@
             "pagenum": 10,
             "content": "अनुमान¦ <i>n.</i> (r. मा metiri s. अन) similituto, analogia. UR. 67. 13. HIT. 20. 8."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अनुमान",
+            "eid": "1489",
+            "pagenum": 22,
+            "content": "अनुमान¦ <lex>m.</lex> inference (ph.)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अनुमान",
+            "eid": "989",
+            "pagenum": 15,
+            "content": "अनुमान¦ <i>n.</i> Schluss, Folgerung, Beispiel, Analogie."
+        },
+        {
+            "word": "अनुमान",
+            "eid": "29715",
+            "pagenum": 538,
+            "content": "अनुमान¦ <i>nur bis</i> Folgerung."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अनुमान",
+            "eid": "3200",
+            "pagenum": 98,
+            "content": "अनुमान¦ Tatpur. n. (-नम्) <sup>1</sup> Inferring, as the cause of अनुमिति or of a conclusion drawn from given premises. According to the Sāṅkhya and Yoga-philosophies it is one of the <i>three</i> means (see प्रमाण) by which true knowledge may be obtained (see also प्रत्यक्ष or दृष्ट and आगम or आप्तवचन); according to the Nyāya and Vaiśeṣika phil., one of the <i>four</i> means for this end (see also प्रत्यक्ष, उपमान and शब्द). Inference may be, according to the definitions of Sāṅkhya and Nyāya philosophers, either one by induction (पूर्ववत्) e. g. that it will rain because clouds have gathered, or one by analogy (सामान्यतो दृष्टम्), e. g. that moon and stars are locomotive because they change their place and that a person therefore who changes his place is locomotive; or one by necessity (शेषवत्), e. g. that the ocean will be salt, because a drop taken from it, is salt. According to the Vaiśeṣika philosophers, inference may be either purely consecutive or positive (केवलान्वयिन्), i. e. when the major term is not excluded by any other notion (comp. अनुपसंहारिन्), e. g. all that can be known can be named, because only positive (not negative instances) can be alleged to prove the assertion; or purely exclusive or negative (केवलव्यतिरेकिन्), i. e. when only negative proof can be adduced, e. g. in asserting that earth is distinguished from all the other elements, because it is possessed of the quality of smell, for the argument would be that all that is not distinguished from all the other elements, is not possessed of the quality of smell; or positive and negative (अन्वयव्यतिरेकिन्), i. e. when there exist positive and negative instances of the major term, e. g. where there is fire there is smoke, because the positive argument would be ‘on the hearth’ and the negative ‘in the lake’. (The Mīmānsā and Vedānta philosophies do not discuss these topics, as inference is not considered by them to be a means of arriving at true knowledge.) <sup>2</sup> (In rhetoric.) A logical anakolouthon by the way of inference, an अलंकार or mode of writing elegantly, e. g. ‘wherever falls the look of woman, there fall sharpened arrows; I think therefore that the God of Love runs before them while shooting off his arrows’. E. मा with अनु, kṛt aff. ल्युट्."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अनुमान",
+            "eid": "217",
+            "pagenum": 116,
+            "content": "<b>anumāna,</b>¦ <i><ab>n.</ab></i> the forming of a conception. [<b>√1mā + anu,</b> ‘conceive.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अनुमान",
+            "eid": "01447",
+            "pagenum": 25,
+            "content": "anumAna¦ <i>n.</i> 1. Inferring as the cause of an अनुमिति or conclusion drawn from given premises (in Sānkhya and Nyāya phil.); 2. inference; 3. guess, conjecture; 4. a logical anacoluthon by the way of inference counted among figures of speech (in rhetoric), as in ‘wherever falls the look of woman, there fall sharpened arrows; I think, therefore, that the god of love runs before them while shooting off his arrows.’ See <ls>K.Pr.</ls>x.31, and the illustration."
+        }
     ]
 }

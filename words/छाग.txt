@@ -55,5 +55,69 @@
             "pagenum": 254,
             "content": "छाग¦ <i>chāga</i> <ab>m.</ab> bouc. || <i>chāgā</i> <ab>f.</ab> chèvre; <ab>cf.</ab> <i>chaga.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "छाग",
+            "eid": "10804",
+            "pagenum": 177,
+            "content": "1 छा/ग¦ <lex>m.</lex> ram, goat; <lex>f.</lex> छा/गा & छागी she-goat."
+        },
+        {
+            "word": "छाग",
+            "eid": "10805",
+            "pagenum": 177,
+            "content": "2 छाग¦ <lex>a.</lex> coming from a goat."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "छाग",
+            "eid": "7255",
+            "pagenum": 129,
+            "content": "1. छा/ग¦ <i>m.</i> Bock."
+        },
+        {
+            "word": "छाग",
+            "eid": "7256",
+            "pagenum": 129,
+            "content": "2. छाग¦ <i>Adj.</i> Bocks-."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "छाग",
+            "eid": "3363",
+            "pagenum": 462,
+            "content": "<b>chā́ga,</b>¦ <ab>m.</ab>, <i>Bock, Ziegenbock,</i> vielleicht als der hinkende [<lang>gr.</lang> <gk>σϰάζω</gk> <ls>Cu. 〔573〕</ls>], <ab>d. h.</ab> als der steifgehende [<ls>Fi. 〔199〕</ls>]. <div n='TS'>-as {162,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "छाग",
+            "eid": "1552",
+            "pagenum": 157,
+            "content": "<b>chā́ga,</b>¦ <i><ab>m.</ab></i> goat. [for <b>*skāga:</b> <ab>cf.</ab> Germanic  <lbinfo n='Ger-manic'/> <i>skēpo-,</i> for <i>*skēqo-,</i> <ab>Ger.</ab> <i>Schaf,</i> <ab>AS.</ab> <i>sceāp,</i> <ab>Eng.</ab> <i>sheep.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "छाग",
+            "eid": "14024",
+            "pagenum": 280,
+            "content": "CAga¦ <i>(I) a. (f. गी)</i> Relating to a goat, <ls>Yaj.</ls>i.258."
+        },
+        {
+            "word": "छाग",
+            "eid": "14025",
+            "pagenum": 280,
+            "content": "CAga¦ <i>(II) m. (fem. ˚गी)</i> 1. A goat, <ls>M.</ls>iii.269; 2. the sign <i>Aries</i> of the Zodiac."
+        },
+        {
+            "word": "छाग",
+            "eid": "14026",
+            "pagenum": 280,
+            "content": "CAga¦ <i>(III) n.</i> The milk of a she-goat."
+        }
     ]
 }

@@ -55,5 +55,71 @@
             "pagenum": 207,
             "content": "ग¦ <i>ga</i> <ab>a.</ab> <i>(gam)</i> qui va [à la fin des composés]. <lbinfo n='5'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "ग",
+            "eid": "9149",
+            "pagenum": 146,
+            "content": "ग¦ <lex>a.</lex> going in or to, situate or being in, referring to (—°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ग",
+            "eid": "5937",
+            "pagenum": 102,
+            "content": "ग¦ gehend in o. zu, befindlich in, bezüglich auf (—°।)"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ग",
+            "eid": "2879",
+            "pagenum": 375,
+            "content": "<b>(gá),</b>¦ <ab>a.</ab>, <i>gehend,</i> von <hom>1.</hom> gā, enthalten in pataṅgá <ab>u. s. w.</ab>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "ग",
+            "eid": "1833",
+            "pagenum": 107,
+            "content": "<i>ga</i>¦ (IE 8-1), used for <i>gā</i> (in Kharoṣṭhī) as an abbreviation of <i>gāthā;</i> also abbreviation of <i>gadyāṇa</i> (q. v.)."
+        },
+        {
+            "word": "ग",
+            "eid": "7635",
+            "pagenum": 431,
+            "content": "<i>ga,</i>¦ abbreviation of <i>gadyāṇa.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ग",
+            "eid": "1322",
+            "pagenum": 148,
+            "content": "<b>ga,</b>¦ <i><ab>vbl.</ab></i> going, <i>in many <ab>cpds</ab>;</i> situate, <i><ab>e. g.</ab></i> <i>in</i> <b>madhyaga;</b> <i>as <ab>m.</ab> nomen actionis,</i> the going, <i>in</i> <b>durga, suga.</b> [<b>√gam,</b> <ab>cf.</ab> <ls n='wg,333'>333.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ग",
+            "eid": "11398",
+            "pagenum": 229,
+            "content": "ga¦ <i>(I) a. (f. गा) (used only at the end of compounds)</i> Going, moving, entering, being, remaining, having sexual intercourse with &c. <ls>M.</ls>ii.62, viii.386, <ls>R.</ls>iii.13."
+        },
+        {
+            "word": "ग",
+            "eid": "11399",
+            "pagenum": 229,
+            "content": "ga¦ <i>(II) m.</i> 1. A <i>Gandharva</i>; 2. an epithet of Gaṇeśa; 3. a long syllabic (used as an abbreviation of गुरु) (in prosody)."
+        },
+        {
+            "word": "ग",
+            "eid": "11400",
+            "pagenum": 229,
+            "content": "ga¦ <i>(III) n.</i> A song."
+        }
     ]
 }

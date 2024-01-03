@@ -63,5 +63,57 @@
             "pagenum": 399,
             "content": "हरित¦ <i>i. q.</i> हरित्. A. 4. 50."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हरित",
+            "eid": "39359",
+            "pagenum": 658,
+            "content": "ह/रित¦ (<lex>f.</lex> आ, older ह/रिणी fallow, pale, yellow, green. <lex>m.</lex> <ab>N.</ab> of <ab>sev.</ab> men <ab>etc.</ab>; <lex>f.</lex> हरिता Dūrvā grass; <lex>n.</lex> gold, greens, any yellowish or greenish substance."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हरित",
+            "eid": "29214",
+            "pagenum": 528,
+            "content": "ह/रित,¦ <i>f.</i> आ, <i>älter</i> ह/रिणी fahl, gelblich, gelb; grünlich, grün. <i>m. Mannsn. f.</i> °णी b <i>u. n.</i> Gold."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "हरित",
+            "eid": "10560",
+            "pagenum": 1650,
+            "content": "<b>hárita,</b>¦ <ab>a.</ab>, <ab>fem.</ab> háriṇī́, <i>gelb</i> [<ab>vgl.</ab> hári], <i>glänzend gelb, blond;</i> 2〉 <ab>f.</ab> <ab>du.</ab>, die beiden goldgelben Stuten des Indra. <div n='TS'>-itas vṛ́ṣā {278,4} (índras); mṛgás {912,3} (vṛṣā́kapis); vájras {922,3}. _{922,4}; maṇḍū́kas {619,6}. _{619,10}. <div n='TS'>-itam ā́yudham (vájram) {278,4}; rátham (índrasya) {278,1}; vánaspátim {717,10} (neben hiraṇyáyam). <div n='TS'>-itena (maṇḍū́kena) {922,4}. <div n='TS'>-itā [<ab>n.</ab>] rūpā́ {922,3}; śmáśrūṇi {849,4}. <div n='TS'>-itebhis āsábhis (grā́vṇām) {920,2}. <div n='TS'>-iṇī [<ab>du.</ab> <ab>n.</ab>] śṛ́ṅge (vṛṣabhásya, sómasya) {782,7}. <div n='TS'>-iṇiā [<ab>I.</ab> <ab>f.</ab>] rucā́ (sómasya) {823,1}. <div n='TS'>-iṇī [<ab>du.</ab> <ab>f.</ab>] śípre (índrasya) {922,9}. — 2〉 yásya (índrasya) {922,9}. <div n='TS'>-iṇīṣu śúṣkāsu {918,1}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "हरित",
+            "eid": "4421",
+            "pagenum": 319,
+            "content": "<b>Harita</b><sup>1</sup>,¦ name of an ichneumon. § 646<i>b</i> (Mārjāramūṣikasaṃv.): XII, <b>138</b>, 4942 (only C., B. has Hariṇa)."
+        },
+        {
+            "word": "हरित",
+            "eid": "4422",
+            "pagenum": 319,
+            "content": "<b>Harita</b><sup>2</sup>¦ = Śiva (1000 names<sup>1</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हरित",
+            "eid": "43022",
+            "pagenum": 828,
+            "content": "harita¦ <i>(I) a. (f. हरिता or हरिणी)</i> Green, of a green colour, नीपं दृष्ट्वा हरितकपिशम् <ls>Megh.</ls>i.21, <ls>Kir.</ls>v.38, <ls>K.S.</ls>iv.14."
+        },
+        {
+            "word": "हरित",
+            "eid": "43023",
+            "pagenum": 828,
+            "content": "harita¦ <i>(II) m.</i> 1. The green colour; 2. a lion; 3. a kind of grass."
+        }
     ]
 }

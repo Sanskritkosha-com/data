@@ -36,5 +36,49 @@
             "pagenum": 667,
             "content": "सगोत्र¦ <i>sagotra</i> <ab>m.</ab> <i>(sam)</i> parent éloigné participant aux <s1 slp1='SrAdDa'>śrāddha</s1>s. -- <ab>N.</ab> lignage, parenté."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सगोत्र",
+            "eid": "34091",
+            "pagenum": 573,
+            "content": "सगोत्र¦ <lex>a.</lex> of the same family with (<ab>gen.</ab> or —°); related, of kin."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सगोत्र",
+            "eid": "25721",
+            "pagenum": 464,
+            "content": "सगोत्र¦ aus demselben Geschlecht, verwandt mit <i>(Gen. o.</i> —°)."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "सगोत्र",
+            "eid": "4982",
+            "pagenum": 284,
+            "content": "<i>Sagotra</i>¦ (CII 3, etc.), belonging to the lineage of the person from whom the <i>gotra</i> name is derived."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सगोत्र",
+            "eid": "39172",
+            "pagenum": 745,
+            "content": "sagotra¦ <i>(I) a. (f. त्रा)</i> Related, of the same kin."
+        },
+        {
+            "word": "सगोत्र",
+            "eid": "39173",
+            "pagenum": 745,
+            "content": "sagotra¦ <i>(II) m.</i> A kinsman of the same family connected by funeral oblations of food and water."
+        },
+        {
+            "word": "सगोत्र",
+            "eid": "39174",
+            "pagenum": 745,
+            "content": "sagotra¦ <i>(III) n.</i> Family, race, lineage."
+        }
     ]
 }

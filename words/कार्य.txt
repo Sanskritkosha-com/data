@@ -44,5 +44,59 @@
             "pagenum": 158,
             "content": "कार्य¦ <i>kārya</i> (<ab>pf.</ab> <ab>ps.</ab> de <i>kṛ)</i> qui doit être fait, et tous les sens de <i>kṛ.</i> -- <ab>S.</ab> <ab>n.</ab> chose à faire [obligée ou forcée]; affaire, devoir, office; <lbinfo n='5'/> || motif, objet; cause finale, but.  <P><i>kāryakuśala</i> <ab>a.</ab> comme <i>kārmaṇa</i> et <i>kārmuka.</i> <lbinfo n='7'/>  <P><i>kāryanirṇaya</i> <ab>n.</ab> <i>(nirṇaya)</i> jugement, règlement <lbinfo n='7'/> d'une affaire, confirmation judiciaire <lbinfo n='6'/> d'un fait litigieux.  <P><i>kāryapuṭa</i> <ab>a.</ab> <i>(puṭ)</i> écervelé; qui manque son affaire; qui poursuit un but impossible; impudent, éhonté.  <P><i>kāryavat</i> <ab>a.</ab> (<ab>sfx.</ab> <i>vat)</i> occupé de son affaire, <lbinfo n='6'/> qui tient à son devoir. || Officieux; serviable."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कार्य",
+            "eid": "7605",
+            "pagenum": 118,
+            "content": "कार्य/¦ <lex>a.</lex> to be done <ab>etc.</ab> (<ab>v.</ab> 1 कृ). <lex>n.</lex> affair, duty, business, work, matter; lawsuit, dispute; an operation in grammar; effect, result; purpose, object. किं कार्यम् to what purpose? न कार्यमस्माकम् we have no business with or need of (<ab>instr.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कार्य",
+            "eid": "4755",
+            "pagenum": 81,
+            "content": "कार्य^¦ zu thun, zu machen, zu bewirken etc. <i>(vgl. 1.</i> कर्) <i>n.</i> Vorhaben, Absicht, Zweck, Geschäft, Angelegenheit; Sache <i>(j.)</i>; Wirkung, Produkt. <i>Abstr.</i> कार्यता <i>f.</i> °त्व <i>n.</i> कार्यम् es ist jemand <i>(Gen.)</i> zu thun um <i>(Instr.)</i>; कार्येण (°—) in Angelegenheiten des, um — willen, wegen."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कार्य",
+            "eid": "2632",
+            "pagenum": 150,
+            "content": "<i>kārya,</i>¦ cf. Tamil <i>kāriyavārāycci</i> (EI 24), name of a tax. <div n='P'><i>Cf. Vāśal-kāriyam</i> (SITI), the officer in charge of the palace gate; also known as <i>Vāśal-mudali</i> or <i>Vāśal-nirvāham.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "कार्य",
+            "eid": "5491",
+            "pagenum": 398,
+            "content": "<b>Kārya(ṃ)</b>¦ = Śiva (1000 names<sup>1</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कार्य",
+            "eid": "1101",
+            "pagenum": 141,
+            "content": "<b>kāryà,</b>¦ <i><ab>grdv.</ab></i> to be done, faciendus, <i><ab>w.</ab> the</i> <i>various shades of <ab>mg</ab> belonging to</i> <b>√1kṛ;</b> requiring to be instituted, <ls n='lan,4,19'>4<sup>19</sup></ls>; requiring to be shown; <i>--as <ab>n.</ab></i> what is to be done; business; work; matter, <ls n='lan,4,17'>4<sup>17</sup></ls>; affair; duty; emergency. [<b>√1kṛ,</b> <ls n='wg,963'>963b</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कार्य",
+            "eid": "09111",
+            "pagenum": 184,
+            "content": "kArya¦ <i>(I) a. (f. र्या)</i> What ought to be done, made, performed, &c. <ls>Yaj.</ls>i.297, <ls>M.</ls>iii.248, v.69, viii.61."
+        },
+        {
+            "word": "कार्य",
+            "eid": "09112",
+            "pagenum": 184,
+            "content": "kArya¦ <i>(II) n.</i> 1. Duty; 2. work, affair, <ls>M.</ls>vii.59, 140, v.150; 3. a religious act or performance; 4. occupation, enterprise, emergency; 5. want, need, occasion, (with an inst.), तृणेन कार्यं भवतीश्वराणाम् <ls>Panch.</ls>i., न खलु चटुलप्रेम्णा कार्यं पुनर्दयितेन मे <ls>Am.S.</ls>71; 6. conduct, deportment; 7. a law-suit, a dispute, बहिर्निष्क्रम्य ज्ञायतां कः कः कार्यार्थीति <ls>Mrich.</ls>ix., <ls>M.</ls>viii.43; 8. an effect, the necessary result of a cause, (op. to कारण), न कार्यकारणादिकयोः साधर्म्यं भवति <ls>K.Pr.</ls>x.; 9. operation (in gram.), e.g. आदेश; 10. motive, object, pupose; 11. the denouncement of a drama, कार्योपक्षेपमादौ तनुमपि रचयन् <ls>Mud.</ls>iv.; 12. healthiness (in medicine)."
+        }
     ]
 }

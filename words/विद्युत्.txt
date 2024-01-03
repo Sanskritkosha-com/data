@@ -50,5 +50,51 @@
             "pagenum": 590,
             "content": "विद्युत्¦ <i>vidyut</i> <ab>f.</ab> <i>(dyut, div)</i> éclair.  <P><i>vidyutvat</i> <ab>a.</ab> (<ab>sfx.</ab> <i>vat)</i> où il y a, ou qui lance des éclairs.  <P><i>vidyutpriya</i> <ab>n.</ab> métal de cloches."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विद्युत्",
+            "eid": "29511",
+            "pagenum": 496,
+            "content": "विद्यु/त्¦ <lex>a.</lex> gleaming, glittering; <lex>f.</lex> lightning or a shining weapon."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विद्युत्",
+            "eid": "22430",
+            "pagenum": 406,
+            "content": "विद्यु/त्¦ blinkend, glänzend; <i>f.</i> eine glänzende Waffe, Blitz."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "विद्युत्",
+            "eid": "8017",
+            "pagenum": 1279,
+            "content": "<b>vidyút,</b>¦ <ab>a.</ab>, <ab>f.</ab> [von dyut <ab n='mit'>m.</ab> ví], 1〉 <ab>a.</ab>, <i>blinkend, blitzend;</i> 2〉 <ab>f.</ab>, <i>Blitz,</i> insbesondere 3〉 als Waffe der Marutʼs; 4〉 <ab>f.</ab>, das <i>blinkende Wasser;</i> 5〉 <ab>f.</ab>, <i>Licht, Glanz</i> des Agni. — <ab>Vgl.</ab> ṛṣṭívidyut. <div n='TS'>-út 2〉 {32,13}; {38,8} (vāśrā́); {64,9}; {164,29} (〰 bhávantī); {444,8}; {788,3}; {799,8} (divás ná 〰); {921,10} (pátantī). <div n='TS'>-útam 4〉 gaurā́‿iva 〰 tṛṣāṇā́ {585,6}. — 5〉 〰 vásānas {226,9} (agnís). <div n='TS'>-útā 1〉 dhā́rayā {796,3}; dyutā́ {925,2}. — 2〉 {396,14}. — 3〉 {408,2}. <div n='TS'>-útas [<ab>Ab.</ab>] 1〉 neben haskārā́t {23,12}. <div n='TS'>-útas [<ab>G.</ab>] 2〉 jyótis {549,10}. <div n='TS'>-utas [<ab>V.</ab>] 1〉 (devās) {105,1}. <div n='TS'>-útas [<ab>N.</ab> <ab>p.</ab>] 1〉 marútas {406,6}. — 2〉 {39,9}; {235,14} (śukrā́s); {438,3} (abhrásya); {572,13}; {753,3} (diví); {917,5} (varṣíasya); parijmā́nas ná 〰 {364,5}. — 3〉 {408,11}; {437,4}; {168,8}. <div n='TS'>-útas [<ab>A.</ab> <ab>p.</ab>] 3〉 {64,5} vā́tán 〰 akrata."
+        },
+        {
+            "word": "विद्युत्",
+            "eid": "12569",
+            "pagenum": 1770,
+            "content": "<b>vidyút:</b>¦<info vn='add 513a gra'/> <div n='TS'>-útā 3〉 {86,9}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "विद्युत्",
+            "eid": "3860",
+            "pagenum": 244,
+            "content": "<b>vidyút,</b>¦ <div n='2'/><b>—1.</b> <i><ab>a.</ab></i> lightening; <i>and so, as in</i> <i><ab>Eng.</ab>,</i> <div n='2'/><b>—2.</b> <i><ab>f.</ab></i> lightning. [<b>√dyut + vi,</b> ‘lighten’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विद्युत्",
+            "eid": "35001",
+            "pagenum": 664,
+            "content": "vidyut¦ <i>f.</i> 1. Lightning, मां भूदेवं क्षणमपि च ते विद्युता विप्रयोगः <ls>Megh.</ls>ii.52, i.38, <ls>R.</ls>i.36; 2. a thunderbolt."
+        }
     ]
 }

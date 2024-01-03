@@ -36,5 +36,45 @@
             "pagenum": 90,
             "content": "इरिण¦ <i>iriṇa</i> <ab>a.</ab> comme <i>iraṇa.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "इरिण",
+            "eid": "5023",
+            "pagenum": 76,
+            "content": "इरिण¦ <lex>n.</lex> water-course, rivulet; a hollow or hole, desert land; gaming board."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "इरिण",
+            "eid": "3128",
+            "pagenum": 50,
+            "content": "इ/रिण¦ <i>n.</i> Rinnsal, Bach, Quelle; Spielbrett."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "इरिण",
+            "eid": "1771",
+            "pagenum": 220,
+            "content": "<b>íriṇa,</b>¦ <ab>n.</ab>, 1〉 <i>Rinnsal;</i> 2〉 <i>Bach, Quelle</i> [aus ar durch Schwächung entstanden]. <div n='TS'>-am 1〉 {186,9}. — 2〉 {624,3}; {696,4}. <div n='TS'>-e 1〉 {860,1}. _{860,9}. — 2〉 {696,1}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "इरिण",
+            "eid": "733",
+            "pagenum": 130,
+            "content": "<b>íriṇa,</b>¦ <i><ab>n.</ab></i> a run <i>or</i> runlet; gulch; gullied <i>and so</i> desert land. [<b>√ṛ,</b> <ls n='wg,1177'>1177b</ls>: for <ab>mg</ab>, <ab>cf.</ab> Provincial <ab>Eng.</ab> <i>run,</i> ‘brook.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "इरिण",
+            "eid": "05868",
+            "pagenum": 118,
+            "content": "iriRa¦ <i>n.</i> See इरण."
+        }
     ]
 }

@@ -7,5 +7,43 @@
             "pagenum": 812,
             "content": "वनचर¦ <i>vana-cara,</i> <ab>m.</ab> <b>1.</b> A wild beast, <ls>Pañc.</ls> 255, 17. <b>2.</b> A forester, <ls>Kirāt.</ls> 6, 29."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वनचर",
+            "eid": "28061",
+            "pagenum": 471,
+            "content": "वनचर¦ <lex>f.</lex> ई wandering in a forest; <lex>m.</lex> inhabitant of a forest (man or animal)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वनचर",
+            "eid": "21271",
+            "pagenum": 382,
+            "content": "वनचर,¦ <i>f.</i> ई im Walde wohnend, Wäldler."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "वनचर",
+            "eid": "6384",
+            "pagenum": 361,
+            "content": "<i>vanacara</i>¦ (EI 12), an animal."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वनचर",
+            "eid": "33439",
+            "pagenum": 638,
+            "content": "vana-cara¦ <i>(I) a.</i> living in a forest, sylvan."
+        },
+        {
+            "word": "वनचर",
+            "eid": "33440",
+            "pagenum": 638,
+            "content": "vana-cara¦ <i>(II) m.</i> 1. a forester, a woodman, स्थित्वा तस्मिन् वनचरवधूभुक्तकुंजे मुहूर्तम् <ls>Megh.</ls>i.19; 2. a wild animal; 3. a the fabulous animal called <i>Śarabha</i>."
+        }
     ]
 }

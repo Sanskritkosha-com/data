@@ -31,5 +31,55 @@
             "pagenum": 122,
             "content": "*ऋष्¦ <i>ṛṣ.</i> <i>ṛṣāmi</i> 6, et <i>arṣāmi, arṣe</i> 1, <ab>Vd.</ab>; <ab>p.</ab> <i>ānarṣa;</i> <ab>f2.</ab> <i>arṣiṣyāmi;</i> <ab>a1.</ab> <i>ārṣiṣam;</i> <ab>pp.</ab> <i>ṛṣṭa.</i> Aller, se mouvoir. || Faire aller, exciter: <i>ṛtam</i> <i>arṣanti sindhavas</i> les libations suscitent <s1 slp1='fta'>Ṛta</s1> [<ab>c-à-d.</ab> allument le feu] <ab>Vd.</ab> || <ab>Cf.</ab> <i>ṛc, ṛ,</i> <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "ऋष्",
+            "eid": "6328",
+            "pagenum": 98,
+            "content": "1 ऋष्¦ अ/र्षति <vlex type='root'/> flow, glide. <div n='p'>— अनु flow after (<ab>acc.</ab>). <div n='p'>अभि flow or let flow towards (<ab>acc.</ab>). <div n='p'>परि flow or let flow round (<ab>acc.</ab>). <div n='p'>वि run through (<ab>acc.</ab>). <div n='p'>सम् meet with (<ab>instr.</ab>), come together to (<ab>acc.</ab>)."
+        },
+        {
+            "word": "ऋष्",
+            "eid": "6329",
+            "pagenum": 98,
+            "content": "2 ऋष्¦ ऋष/ति <vlex type='root'/> <ab>pp.</ab> ऋष्ट push, thrust. <div n='p'>— नि put in, cover, fill."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ऋष्",
+            "eid": "2250",
+            "pagenum": 292,
+            "content": "<hom>1.</hom> <b>√ṛṣ,</b>¦ <i>stossen, stechen</i> [wol aus ar 11 erweitert], <ab>vgl.</ab> ṛṣṭí. <div n='Pf'>Mit <b>úd,</b> <i>aufspiessen</i> [<ab>A.</ab>]. <div n='Pf'><b>ní,</b> etwas [<ab>A.</ab>] <i>ganz voll füllen</i> mit [<ab>I.</ab>] (eigentlich wol: dadurch niederdrücken). <div n='H'>Stamm <b>ṛṣá:</b> <div n='TS'>(-ati) śṛ́ṅgābhyām <ls>AV. 9,4,17</ls>. <div n='TS'>-ánti ni: hradám ná tvā {52,7} (ūrmáyas). <div n='H'><ab>Part.</ab> <b>ṛṣát:</b> <div n='TS'>-án ud: arāyíam {981,2}. <div n='H'><ab>Part.</ab> <b>ṛṣṭa:</b> <div n='TS'>-as <b>ní:</b> nidhís vásubhis {934,7}. <div n='TS'>-am <b>ní:</b> kóśam vásunā {316,6} (udnā́‿iva); {868,2}; índram vīríeṇa {314,5}. <div n='TS'>-e [<ab>d.</ab> <ab>f.</ab>] <b>ní:</b> camúā vásunā {289,20}."
+        },
+        {
+            "word": "ऋष्",
+            "eid": "2251",
+            "pagenum": 292,
+            "content": "<hom>2.</hom> <b>√ṛṣ,</b>¦ <i>strömen,</i> <ab n='siehe'>s.</ab> arṣ."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ऋष्",
+            "eid": "929",
+            "pagenum": 136,
+            "content": "<b>√1ṛṣ</b>¦ (<b>árṣati; ānárṣa</b> [<ls n='wg,788'>788]</ls>). flow; glide. [<ab>cf.</ab> <lang n='greek'>ἄψ-ορρος</lang>, ‘flowing back,’ <lang n='greek'>παλίν-ορσος</lang>, ‘darting back.’]"
+        },
+        {
+            "word": "ऋष्",
+            "eid": "930",
+            "pagenum": 136,
+            "content": "<b>√2ṛṣ</b>¦ (<b>ṛṣáti; ṛṣṭá</b>). push; thrust."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ऋष्",
+            "eid": "07334",
+            "pagenum": 151,
+            "content": "fz¦ <i>vt. 6P (pp. ऋष्ट)</i> 1. To go, to approach; 2. to injure."
+        }
     ]
 }

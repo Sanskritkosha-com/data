@@ -23,5 +23,41 @@
             "pagenum": 55,
             "content": "ऊषर¦ (a praec. s. र) solum salsum habens <i>locus.</i> AM."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ऊषर",
+            "eid": "6194",
+            "pagenum": 95,
+            "content": "ऊषर/¦ <lex>a.</lex> impregnated with salt; <ab>s.</ab> = <ab>seq.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ऊषर",
+            "eid": "3821",
+            "pagenum": 63,
+            "content": "ऊषर/¦ <i>n.</i> salzhaltig."
+        },
+        {
+            "word": "ऊषर",
+            "eid": "29780",
+            "pagenum": 539,
+            "content": "ऊषर/¦ <i>tilge n.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ऊषर",
+            "eid": "07246",
+            "pagenum": 149,
+            "content": "Uzara¦ <i>(I) a. (f. रा)</i> Impregnated with salt."
+        },
+        {
+            "word": "ऊषर",
+            "eid": "07247",
+            "pagenum": 149,
+            "content": "Uzara¦ <i>(II) m.n.</i> A barren spot with saline soil."
+        }
     ]
 }

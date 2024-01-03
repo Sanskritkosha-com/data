@@ -47,5 +47,61 @@
             "pagenum": 125,
             "content": "एकान्त¦ <i>ekānta</i> <ab>a.</ab> <i>(anta)</i> qui n'a qu'une fin, qu'une manière de finir; inévitable. || Placé sur un point unique et extrême; solitaire, <lbinfo n='6'/> isolé. || Au <ab>fig.</ab> entier, tout entier.  <P><i>ekāntatas</i> <ab>adv.</ab> (<ab>sfx.</ab> <i>tas)</i> entièrement, tout à fait.  <P><i>ekāntam</i> <ab>adv.</ab> (<ab>ac.</ab> de <i>ekānta)</i> <ab>mms.</ab>  <P><i>ekāntika</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ika)</i> entier, complet.  <P><i>ekānte</i> <ab>adv.</ab> (<ab>l.</ab> de <i>ekānta)</i> entièrement, tout à fait; || inévitablement; || solitairement; <lbinfo n='5'/> || à parte, <ab>t.</ab> de théâtre."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एकान्त",
+            "eid": "6490",
+            "pagenum": 101,
+            "content": "1 एकान्त¦ <lex>m.</lex> a solitary place, loneliness, exclusiveness, absolute oneness. एकान्त (°—), एकान्तम्, एका°न्तेन, एका°न्तात्, & एका°न्ततस् <ab>adv.</ab> exclusively, absolutely, wholly, necessarily."
+        },
+        {
+            "word": "एकान्त",
+            "eid": "6491",
+            "pagenum": 101,
+            "content": "2 एकान्त¦ <lex>a.</lex> quite devoted to or intent upon (<ab>loc.</ab> or —°); <ab>abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एकान्त",
+            "eid": "4002",
+            "pagenum": 66,
+            "content": "1. एकान्त¦ <i>m.</i> einsamer Ort, Einsamkeit, Ausschließlichkeit. °न्ततस्, °न्ते <i>adv.</i> auf einer Stelle, bei Seite, ausschließlich, <lbinfo n='5'/> durchaus, vollkommen."
+        },
+        {
+            "word": "एकान्त",
+            "eid": "4003",
+            "pagenum": 66,
+            "content": "2. एकान्त¦ ganz in — aufgehend, nur — hingegeben (—°) <i>oder Loc.) Abstr.</i> °ता <i>f.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "एकान्त",
+            "eid": "950",
+            "pagenum": 136,
+            "content": "<b>ekānta,</b>¦ <i><ab>m.</ab></i> an end; a retired <i>or</i> secret spot. [<b>anta.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "एकान्त",
+            "eid": "07359",
+            "pagenum": 152,
+            "content": "eka-anta¦ <i>(I) m.</i> 1. the exclusive aim or boundary; 2. a secret place; 3. monotheism."
+        },
+        {
+            "word": "एकान्त",
+            "eid": "07360",
+            "pagenum": 152,
+            "content": "eka-anta¦ <i>(II) n.</i> exclusive recourse, तेजः क्षामा वा नैकान्तं कालज्ञस्य महीपतेः <ls>Sis.</ls>ii.83."
+        },
+        {
+            "word": "एकान्त",
+            "eid": "07361",
+            "pagenum": 152,
+            "content": "eka-anta¦ <i>(III) a.</i> 1. invariable, perpetual, स्वायत्तमेकान्तगुणं (छादनम्) <ls>Bhartr.</ls>ii.7; 2. excessive. (एकान्तम् ind. means ‘exceedingly.’)"
+        }
     ]
 }

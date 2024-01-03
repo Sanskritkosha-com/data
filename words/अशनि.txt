@@ -55,5 +55,43 @@
             "pagenum": 59,
             "content": "अशनि¦ <i>aśani</i> <ab>m.</ab> <ab>f.</ab> <i>(aś)</i> foudre."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अशनि",
+            "eid": "3463",
+            "pagenum": 50,
+            "content": "अश/नि¦ <lex>f.</lex> (<lex>m.</lex>) thunderbolt, flash of lightning."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अशनि",
+            "eid": "2194",
+            "pagenum": 34,
+            "content": "अश/नि¦ <i>f. (m)</i> Donnerkeil, Blitzstrahl."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अशनि",
+            "eid": "1215",
+            "pagenum": 137,
+            "content": "<b>aśáni,</b>¦ <ab>f.</ab>, ursprünglich „Stein“ [<ls>Aufr. Ku. 〔5,136〕</ls>]; im <ls>RV</ls> 1〉 der <i>Donnerkeil,</i> als Schleuderstein aufgefasst [von <hom>3.</hom> aś siehe aśman]; 2〉 die auf dem Geschosse (śalyá) befestigte (steinerne) Spitze. <ab>Vgl.</ab> tigmá, hiṃsrá, gábhasti. <div n='TS'>-is 1〉 {143,5}; {176,3}; {312,17}; {447,5}; {459,10}; {647,18}; {913,5}. <div n='TS'>-im 1〉 {54,4}; {80,13}; {264,16}; {620,20}. _{620,25}. <div n='TS'>-yā 1〉 {205,2}. <div n='TS'>-ibhis 2〉 {913,4}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अशनि",
+            "eid": "04096",
+            "pagenum": 80,
+            "content": "aSani¦ <i>(I) m.</i> 1. Indra; 2. fire."
+        },
+        {
+            "word": "अशनि",
+            "eid": "04097",
+            "pagenum": 80,
+            "content": "aSani¦ <i>(II) m.f.</i> 1. A missile; 2. the thunderbolt, शक्रस्य महाशनिध्वजम् <ls>R.</ls>iii.56; 3. a flash of lightning, अशनिः कल्पित एव वेधसा <ls>R.</ls>viii.47, अशनेरमृतस्य चोभयोर्वाशिनश्चांबुधराश्च योनयः <ls>K.S.</ls>iv.48; 4. the lip of a missile."
+        }
     ]
 }

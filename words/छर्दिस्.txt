@@ -36,5 +36,49 @@
             "pagenum": 254,
             "content": "छर्दिस्¦ <i>chardis</i> <ab>f.</ab> (<ab>sfx.</ab> <i>is)</i> vomissement."
         }
+    ],
+    "CAE": [
+        {
+            "word": "छर्दिस्",
+            "eid": "10795",
+            "pagenum": 177,
+            "content": "1 छर्दि/स्¦ <lex>n.</lex> refuge, secure place."
+        },
+        {
+            "word": "छर्दिस्",
+            "eid": "10796",
+            "pagenum": 177,
+            "content": "2 छर्दिस्¦ <lex>n.</lex> vomiting."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "छर्दिस्",
+            "eid": "7247",
+            "pagenum": 128,
+            "content": "1. छर्दि/स्¦ <i>n.</i> Schirm, Schutz, Hort."
+        },
+        {
+            "word": "छर्दिस्",
+            "eid": "7248",
+            "pagenum": 128,
+            "content": "2. छर्दिस्¦ <i>n.</i> Erbrechen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "छर्दिस्",
+            "eid": "3362",
+            "pagenum": 462,
+            "content": "<b>chardís,</b>¦ <ab>n.</ab>, wofür wahrscheinlich überall chadís zu lesen ist, da sämmtliche metrisch entscheidenden Stellen ({48,15}; {487,12}; {629,1}; {638,21}; {647,4}; {676,6}; {680,14}) die Kürze der ersten Silbe fordern und keine deren Länge begünstigt. Das r scheint in die spätere Redaction durch Misverständniss hineingedrungen. <i>Schirm, Schutzwehr</i> [von <hom>1.</hom> chad], insbesondere 2〉 in der Verbindung mit yam, <i>Schutz, Schirm</i> verleihen. [<ab>Vgl.</ab> chadís]. — <ab>Adj.</ab> ádābhia, ádhṛṣṭa, avṛká, trivárūtha, nṛpā́yia, pṛthú, varūthía, sapráthas, subhára. <div n='TS'>-ís {676,6}; {680,14}. — 2〉 {48,15}; {114,5}; {349,1}; {456,3}; {487,9}. _{487,12}; {508,2}; {590,5}; {625,12}; {629,1}. _{629,15}; {638,21}; {647,4}. _{647,20}; {676,6}; {694,5}; {861,12}. <div n='TS'>-íṣas {508,11} abhíṣṭau."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "छर्दिस्",
+            "eid": "14016.4",
+            "pagenum": 279,
+            "content": "Cardis¦ <i>f.</i> Vomiting."
+        }
     ]
 }

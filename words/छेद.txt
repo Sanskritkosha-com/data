@@ -60,5 +60,45 @@
             "pagenum": 256,
             "content": "छेद¦ <i>cheda</i> <ab>m.</ab> <i>(chid)</i> action de fendre, de couper. || Morceau, portion. || Coupure, interruption, <lbinfo n='11'/> fin. || <ab>Gr.</ab> <lang n='greek'>σχίδη</lang>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "छेद",
+            "eid": "10860",
+            "pagenum": 178,
+            "content": "छेद¦ <lex>m.</lex> cutter, a cut, section, piece, portion; cutting, dividing, separation, interruption, disturbance; decrease, cessation, loss, want; decision, definition."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "छेद",
+            "eid": "7296",
+            "pagenum": 129,
+            "content": "छेद¦ <i>m.</i> Abhauer (—°); Schnitt, Abschnitt <i>(concr. u. abstr.)</i>, Stück, Teil; Absonderung, <lbinfo n='10'/> Entscheidung, Trennung, Vernichtung, Tilgung, Verlust, Schwund, Mangel."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "छेद",
+            "eid": "1266",
+            "pagenum": 73,
+            "content": "<i>cheda</i>¦ (EI 13), a quarter, area or subdivision; cf. <i>Brahma-</i> <i>cāri-ccheda.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "छेद",
+            "eid": "1558",
+            "pagenum": 157,
+            "content": "<b>cheda,</b>¦ <i><ab>m.</ab></i> cut; cutting off; failure, dearth. [<b>√chid.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "छेद",
+            "eid": "14102",
+            "pagenum": 281,
+            "content": "Ceda¦ <i>m.</i> 1. Fraction; 2. a piece, a cut, a section, अभिनवकरिदंतच्छेदपांडुः कपोलः <ls>M.M.</ls>i., <ls>Megh.</ls>i.11, 59, <ls>R.</ls>xii.100, <ls>K.S.</ls>i.4; 3. cutting, felling, dividing, अभिज्ञाश्छेदपातानां क्रियंते नंदनद्रुमाः <ls>K.S.</ls>ii.41, <ls>R.</ls>xiv.1, <ls>Yaj.</ls>ii.223, 288; 4. solving, dissipating, removing, as in संशयच्छेद; 5. destruction, cessation; 6. a divisor, the denominator of a fraction (in math.)."
+        }
     ]
 }

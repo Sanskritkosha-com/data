@@ -23,5 +23,43 @@
             "pagenum": 707,
             "content": "साग्निक¦ <i>sāgnika</i> <ab>a.</ab> <i>(sam; agni)</i> qui a avec soi <s1 slp1='agni'>Agni</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "साग्निक",
+            "eid": "36466",
+            "pagenum": 611,
+            "content": "साग्निक¦ <lex>a.</lex> having Agni with them, accompanied by Agni (gods)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "साग्निक",
+            "eid": "27203",
+            "pagenum": 491,
+            "content": "साग्निक¦ mit Agni."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "साग्निक",
+            "eid": "4551",
+            "pagenum": 271,
+            "content": "<b>sāgnika,</b>¦ <i><ab>a.</ab></i> having Agni with them, with Agni. [<b>sa + agni,</b> <ls n='wg,1304'>1304c</ls>: for <b>-ka,</b> see <ls n='wg,1222'>1222c</ls> 2<sup>2</sup> and <ls n='wg,1307'>1307.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "साग्निक",
+            "eid": "40340",
+            "pagenum": 770,
+            "content": "sAgnika¦ <i>(I) a. (f. का)</i> Possessing or maintaining a fire."
+        },
+        {
+            "word": "साग्निक",
+            "eid": "40341",
+            "pagenum": 770,
+            "content": "sAgnika¦ <i>(II) m.</i> A householder who maintains a sacred fire."
+        }
     ]
 }

@@ -42,5 +42,29 @@
             "pagenum": 139,
             "content": "कन्दर¦ <i>kandara</i> <ab>m.</ab> <i>(kand)</i> aiguillon de cornac."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कन्दर",
+            "eid": "6983",
+            "pagenum": 108,
+            "content": "कन्दर¦ <lex>n.</lex> cave, glen."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कन्दर",
+            "eid": "4322",
+            "pagenum": 72,
+            "content": "कन्दर¦ <i>n.</i> Höhle, Schlucht."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कन्दर",
+            "eid": "1026",
+            "pagenum": 139,
+            "content": "<b>kandara,</b>¦ <i><ab>n.</ab></i> cave. [perhaps ‘great cleft,’ <b>kam</b> (see <b>ká</b>) + <b>dara.</b>]"
+        }
     ]
 }

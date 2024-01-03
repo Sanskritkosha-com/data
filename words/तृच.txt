@@ -15,5 +15,37 @@
             "pagenum": 298,
             "content": "तृच¦ <i>tṛca</i> <ab>m.</ab> <ab>n.</ab> tercet."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तृच",
+            "eid": "12588",
+            "pagenum": 207,
+            "content": "तृच/¦ <lex>m.</lex> <lex>n.</lex> a stanza of three verses."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तृच",
+            "eid": "8779",
+            "pagenum": 156,
+            "content": "तृच/¦ <i>m. n.</i> eine dreireihige Strophe <i>(r.).</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तृच",
+            "eid": "1792",
+            "pagenum": 165,
+            "content": "<b>tṛcá,</b>¦ <i><ab>m.</ab> <ab>n.</ab></i> strophe of three stanzas. [<b>tri +</b> <b>ṛc,</b> <ls n='wg,243'>243,</ls> <ls n='wg,1315'>1315c</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तृच",
+            "eid": "16066",
+            "pagenum": 318,
+            "content": "tfca¦ <i>n.</i> three <i>Ṛichs</i> (collectively), <ls>M.</ls>viii.106."
+        }
     ]
 }

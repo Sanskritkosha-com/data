@@ -31,5 +31,37 @@
             "pagenum": 1,
             "content": "योगेश्वर¦ <HI1>Brahmabodhinī."
         }
+    ],
+    "CAE": [
+        {
+            "word": "योगेश्वर",
+            "eid": "26198",
+            "pagenum": 437,
+            "content": "योगेश्वर¦ <lex>m.</lex> = <ab>prec.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "योगेश्वर",
+            "eid": "19910",
+            "pagenum": 354,
+            "content": "योगेश्वर¦ <i>m.</i> <i>dass.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "योगेश्वर",
+            "eid": "12623",
+            "pagenum": 777,
+            "content": "<b>Yogeśvara</b><sup>1</sup>¦ (“Yoga-lord”) = Śiva: III, 7034 (<i>Sthāṇuḥ</i>); VII, 9508; XIII, 678, 920.—Do.<sup>2</sup> (do.) = Śuka: XII, 12582 (<i>mahā°</i>).—Do.<sup>3</sup> (do.) = Kṛṣṇa (Viṣṇu): I, 510 (<i>°tvaṃ</i>, cf. V, <b>131</b>); VI, 1250, 1255 (<i>mahā°, Hariḥ</i>), 1529 (<i>K°</i>), 1532 (<i>K°</i>), 2055; XII, 1602, 7825 (<i>Hariḥ</i>).—Do.<sup>4</sup> pl. (do.): XIII, 4393 (i.e. Aṅgiras, etc.)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "योगेश्वर",
+            "eid": "31538.2",
+            "pagenum": 599,
+            "content": "yoga-ISvara¦ <i>m.</i> 1. an adept in <i>Yoga</i>; 2. one who has obtained superhuman faculties; 3. an epithet of Śiva; 4. of Yājnyavalkya."
+        }
     ]
 }

@@ -55,5 +55,53 @@
             "pagenum": 474,
             "content": "भार¦ <i>bhāra</i> <ab>m.</ab> <i>(bhṛ)</i> poids d'or de 2000 <s1 slp1='pala'>pala</s1>s <lbinfo n='3'/> [environ 150 kilogr.]. || Crochet des portefaix. <lbinfo n='7'/> || <ab>Surn.</ab> de <s1 slp1='vizRu'>Viṣṇu</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भार",
+            "eid": "22803",
+            "pagenum": 376,
+            "content": "भार/¦ <lex>m.</lex> burden, load, quantity, mass, multitude."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भार",
+            "eid": "17325",
+            "pagenum": 304,
+            "content": "भार/¦ <i>m.</i> Bürde, Last, Masse, Menge."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "भार",
+            "eid": "6354",
+            "pagenum": 933,
+            "content": "<b>bhārá,</b>¦ <ab>m.</ab>, <i>Bürde Last</i> [von bhṛ]. <div n='TS'>-ám {301,6} (gurúm); mit bhṛ {152,3}; {550,7}; mit sah {31,3}. <div n='TS'>-ā́n mit bhṛ {290,2}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "भार",
+            "eid": "887",
+            "pagenum": 50,
+            "content": "<i>bhāra</i>¦ (EI 10), a weight equal to 2000 <i>palas.</i> <div n='P'>(<i>LP</i>), probably, a load or bundle."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भार",
+            "eid": "2987",
+            "pagenum": 205,
+            "content": "<b>bhārá,</b>¦ <i><ab>m.</ab></i> burden. [<b>√bhṛ.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भार",
+            "eid": "27364",
+            "pagenum": 524,
+            "content": "BAra¦ <i>m.</i> 1. Load, burden, weight, श्रोणाभारादलसगमना <ls>Megh.</ls>ii.19, <ls>R.</ls>ii.18; 2. excess, <ls>R.</ls>xiv.68; 3. labour, toil, trouble; 4. a large quantity, a mass; 5. a particular weight equal to 2000 <i>palas</i> of gold; 6. a yoke for carrying burden."
+        }
     ]
 }

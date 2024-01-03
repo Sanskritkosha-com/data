@@ -20,5 +20,37 @@
             "pagenum": 192,
             "content": "<b>kṛṣṇa-pakṣa</b>¦, see <ab>s.v.</ab> <b>śukla-pakṣa</b>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कृष्णपक्ष",
+            "eid": "8390",
+            "pagenum": 132,
+            "content": "कृष्णपक्ष¦ <lex>m.</lex> = कृष्ण (±पक्ष)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कृष्णपक्ष",
+            "eid": "5350",
+            "pagenum": 91,
+            "content": "कृष्णपक्ष¦ <i>m.</i> der dunkle Halbmonat <i>(von</i> <i>vollmond bis Neumond).</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कृष्णपक्ष",
+            "eid": "1203",
+            "pagenum": 144,
+            "content": "<b>kṛṣṇa-pakṣa,</b>¦ <i><ab>m.</ab></i> the dark lunar fortnight. <lbinfo n='fort-night.'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कृष्णपक्ष",
+            "eid": "10283",
+            "pagenum": 206,
+            "content": "kfzRa-pakza¦ <i>m.</i> the dark half of a lunar month."
+        }
     ]
 }

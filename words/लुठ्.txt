@@ -73,5 +73,67 @@
             "pagenum": 554,
             "content": "*लुठ्¦ <i>luṭh.</i> <i>loṭhayāmi</i> 10. Dérober, <ab>cf.</ab> <i>luṇṭ, ruṇṭ.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "लुठ्",
+            "eid": "27632",
+            "pagenum": 463,
+            "content": "1 लुठ्¦ लुठति लुठ°ते <vlex type='root'/> <ab>pp.</ab> लुटित roll, move to and fro (intr.), stir up, agitate. <ab>C.</ab> लोठयति = <ab>S.</ab> <ab>D.</ab> लुलुठिषते be about to roll. <ab>I.</ab> लोलुठीति wallow (of a drunkard). <div n='p'>— उद्, परि, प्र & वि = <ab>S.</ab> intr."
+        },
+        {
+            "word": "लुठ्",
+            "eid": "27633",
+            "pagenum": 463,
+            "content": "2 लुठ्¦ लुण्ठ् लुण्ठति <vlex type='root'/> = <ab>prec.</ab> <ab>S.</ab> tr.; <ab>C.</ab> लुण्ठयति & लोठयति, <ab>pp.</ab> लुण्ठित rob, steal, plunder. <div n='p'>— निस् & वि = <ab>S.</ab> <ab>C.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "लुठ्",
+            "eid": "20946",
+            "pagenum": 376,
+            "content": "1. लुठ्,¦ लुठति, °ते sich wälzend, rollen, in Bewegung <i>o.</i> Aufregung versetzen. <i>p. p.</i> लुठित sich wälzend, rollend. <i>Caus.</i> लोठयति = <i>Simpel. trans.</i> उद् sich krampfhaft bewegen. <i>p. p.</i> उल्लुठित। परि hinundbar <lbinfo n='6'/> rollen. प्र <i>u.</i> वि = <i>Simpl. intrans.</i>"
+        },
+        {
+            "word": "लुठ्",
+            "eid": "20947",
+            "pagenum": 376,
+            "content": "2. लुठ्,¦ लुण्ठ्, लुण्ठति aufrühren, aufregen. <i>Caus.</i> लुण्ठयति <i>u.</i> लोठयति rauben, plündern. निस् <i>Caus.</i> लोटयति <i>dass.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "लुठ्",
+            "eid": "3627",
+            "pagenum": 234,
+            "content": "<b>√luṭh</b>¦ (<b>luṭháti; lulóṭha; luṭhitá</b>). roll."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "लुठ्",
+            "eid": "32799",
+            "pagenum": 627,
+            "content": "luW¦ <i>(I) vt. 1A (pres. लोठते)</i> 1. To resist, to oppose; 2. to suffer pain; 3. to roll on the ground."
+        },
+        {
+            "word": "लुठ्",
+            "eid": "32800",
+            "pagenum": 627,
+            "content": "luW¦ <i>(II) vt. 1P (pres. लोठति)</i> To strike, to knock down."
+        },
+        {
+            "word": "लुठ्",
+            "eid": "32801",
+            "pagenum": 627,
+            "content": "luW¦ <i>(III) vt. or vi. 6P (pres. लुठति)</i> To roll, to roll about, to roll on the ground, त्वं पादांते लुठसि न च मे मन्युमोक्षः खलायाः <ls>Am.S.</ls>43, हारोऽयं हरिणाक्षीणां लुठति स्तनमंडलेन <ls>Am.S.</ls>100, लुठति धरणिशयने <ls>Git.G.</ls>v.<P>With वि-, to roll about, to move to and fro on the ground."
+        },
+        {
+            "word": "लुठ्",
+            "eid": "32802",
+            "pagenum": 627,
+            "content": "luW¦ <i>(IV) vt. 10U (pres. लोठयति-ते)</i> To steal, to rob."
+        }
     ]
 }

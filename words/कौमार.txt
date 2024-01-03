@@ -31,5 +31,49 @@
             "pagenum": 189,
             "content": "कौमार¦ <i>kaumāra</i> <ab>a.</ab> <i>(kumāra)</i> juvenil, enfantin. -- <ab>S.</ab> <ab>m.</ab> jeune garçon; -- <i>kaumāri</i> <ab>f.</ab> jeune fille; || une des 7 <s1 slp1='mAtf'>mātṛ</s1>s ou énergies divines, celle de <s1 slp1='kumAra'>Kumāra</s1> ou <s1 slp1='kArttikeya'>Kārttikeya</s1>. -- <ab>S.</ab> <ab>n.</ab> enfance, adolescence."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कौमार",
+            "eid": "8550",
+            "pagenum": 135,
+            "content": "कौमार¦ <lex>f.</lex> ई <lex>a.</lex> juvenile, belonging to a youth or maiden; belonging to Skanda, Skanda's; <lex>n.</lex> (<ab>w.</ab> व्रत) = °व्रत (<ab>q.v.</ab>), as subst. childhood, youth, virginity."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कौमार",
+            "eid": "5473",
+            "pagenum": 93,
+            "content": "कौमार¦ <i>f.</i> ई jugendlich, Jünglings-, jungfräulich; <lbinfo n='9'/> zum Kriegsgott Kumāra gehörig; <lbinfo n='6'/> <i>n.</i> Kindesalter, Jungend, Jungfräulichkeit. <lbinfo n='13'/>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "कौमार",
+            "eid": "5526",
+            "pagenum": 399,
+            "content": "<b>Kaumāra</b>,¦ adj. (“belonging to Kumāra [i.e. Skanda]”). § 358 (Tīrthayātrāp.): III, <b>82</b>, 4086 (by living on vegetables or fruits at <i>Āgastyaṃ saraḥ</i> one attains to <i>K°ṃ padaṃ</i>).— § 497 (Skandotpatti): III, <b>226</b>, 14351 (<i>maṅgalāni…</i> <i>K°āṇi trayodaśa</i>).—§ 615<i>u</i> (Skanda): IX, <b>46</b>ι, 2655 (<i>°yaḥ</i>, sc. <i>mātaraḥ</i>)."
+        },
+        {
+            "word": "कौमार",
+            "eid": "5527",
+            "pagenum": 399,
+            "content": "<b>Kaumāra</b>,¦ name of a varṣa in Śākadvīpa. § 575<i>b</i> (Śākadvīpa): VI, <b>11</b>β, 426."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कौमार",
+            "eid": "10559",
+            "pagenum": 212,
+            "content": "kOmAra¦ <i>(I) a. (f. री)</i> 1. Juvenile, youthful, virgin, maidenly, e.g. कौमारः पति, कौमारी भार्या; 2. soft, tender."
+        },
+        {
+            "word": "कौमार",
+            "eid": "10560",
+            "pagenum": 212,
+            "content": "kOmAra¦ <i>(II) n.</i> 1. Childhood (to the age of five); 2. maidenhood (to the age of sixteen), virginity, यः कौमारहरः स एव्व हि वरस्ता एव चैत्रक्षपाः <ls>K.Pr.</ls>i. or पिता रक्षति कौमारे भर्ता रक्षति यौवने <ls>M.</ls>ix.3, देहिनोऽस्मिन् यथा देहे कौमारं यौवनं जरा <ls>Bg.</ls>ii.13."
+        }
     ]
 }

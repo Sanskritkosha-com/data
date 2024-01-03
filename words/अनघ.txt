@@ -31,5 +31,89 @@
             "pagenum": 19,
             "content": "अनघ¦ <i>anagha</i> <ab>a.</ab> <i>(agha)</i> sans péché, innocent. <lbinfo n='5'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अनघ",
+            "eid": "996",
+            "pagenum": 15,
+            "content": "अनघ¦ <lex>a.</lex> sinless, guiltless, pure."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अनघ",
+            "eid": "660",
+            "pagenum": 10,
+            "content": "अनघ¦ schuldlos, fehlerlos."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अनघ",
+            "eid": "2190",
+            "pagenum": 65,
+            "content": "अनघ¦ Bahuvr. I. m. f. n. (-घः-घा-घम्) <sup>1</sup> Sinless, pure. <sup>2</sup> Clean, clear. <sup>3</sup> Handsome, pleasing. <div n='P'>II. m. (-घः) <sup>1</sup> A name of Śiva. <sup>2</sup> The name of a Gandharva. <sup>3</sup> The name of a Sādhya. <sup>4</sup> The name of a prince, son of Surodha and Upadānavī. <sup>5</sup> The name of a son of Vasiṣṭha and Ūrjā. <sup>6</sup> White mustard; see गौरसर्षप. A less correct reading of this word in the latter sense is अ- नद्य. E. अ priv. and अघ."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अनघ",
+            "eid": "502",
+            "pagenum": 35,
+            "content": "<b>Anagha</b><sup>1</sup>.¦ § 6 (Anukram.): I, <b>1</b>, 228 (belongs to the past)."
+        },
+        {
+            "word": "अनघ",
+            "eid": "503",
+            "pagenum": 35,
+            "content": "<b>Anagha</b><sup>2</sup>,¦ a Deva-Gandharva. § 191 (Arjuna): I, <b>123</b>, 4811 (among the Deva-Gandharvas who sang at the birth of Arjuna)."
+        },
+        {
+            "word": "अनघ",
+            "eid": "504",
+            "pagenum": 35,
+            "content": "<b>Anagha</b><sup>3</sup>¦ = Śiva (1000 names<sup>2</sup>, etc.)."
+        },
+        {
+            "word": "अनघ",
+            "eid": "505",
+            "pagenum": 35,
+            "content": "<b>Anagha</b><sup>4</sup>¦ = Viṣṇu (1000 names)."
+        },
+        {
+            "word": "अनघ",
+            "eid": "506",
+            "pagenum": 35,
+            "content": "<b>Anagha</b><sup>5</sup>¦ = Skanda."
+        },
+        {
+            "word": "अनघ",
+            "eid": "507",
+            "pagenum": 35,
+            "content": "<b>Anagha</b><sup>6</sup>,¦ a Suparṇa, son of Garuḍa. § 564 (Mātalīyop.): V, <b>101</b>, 3597."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अनघ",
+            "eid": "168",
+            "pagenum": 115,
+            "content": "<b>an-agha,</b>¦ <i><ab>a.</ab></i> faultless."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अनघ",
+            "eid": "01042",
+            "pagenum": 17,
+            "content": "anaGa¦ <i>(I) a. (f. घा)</i> 1. Sinless; 2. handsome; 3. safe, secure, without injury, कच्चिन्मृगीणामनघा प्रसूतिः <ls>R.</ls>v.7; 4. defect less, अगाधस्यानघा गुणाः <ls>Am.</ls>i.1."
+        },
+        {
+            "word": "अनघ",
+            "eid": "01043",
+            "pagenum": 17,
+            "content": "anaGa¦ <i>(II) m.</i> 1. White mustard; 2. a name of Śiva."
+        }
     ]
 }

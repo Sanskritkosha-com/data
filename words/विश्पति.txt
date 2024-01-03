@@ -15,5 +15,43 @@
             "pagenum": 605,
             "content": "विश्पति¦ <i>viśpati</i> <ab>m.</ab> <i>(pati)</i> <ab>Vd.</ab> seigneur du peuple, prince; || <ab>ép.</ab> d'<s1 slp1='agni'>Agni</s1>. || <ab>Lith.</ab> wiesz-patis; <ab>mold.</ab> hospodar, <ab>etc.</ab>; <ab>gr.</ab> <lang n='greek'>δεσπότης</lang> <ab>(?)</ab>.  <P><i>viśpatnī</i> <ab>f.</ab> la dame du peuple, <ab>c-à-d.</ab> les <i>araṇī,</i> <ab>Vd.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "विश्पति",
+            "eid": "30240",
+            "pagenum": 509,
+            "content": "विश्प/ति¦ <lex>m.</lex> chief of a settlement or a community; <ab>du.</ab> master and mistress of the house."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विश्पति",
+            "eid": "22965",
+            "pagenum": 416,
+            "content": "विश्प/ति¦ <i>m.</i> Gemeinde- <i>o.</i> Stammeshaupt <i>(auch Agni u. Indra); Du.</i> Hausherr u. Hausfrau."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "विश्पति",
+            "eid": "8146",
+            "pagenum": 1297,
+            "content": "<b>viś-páti,</b>¦ <ab>m.</ab>, <i>Hausherr, Stammherr;</i> in diesem Sinne bisweilen 2〉 von Agni; 3〉 <i>Gebieter der Menschen, Herrscher;</i> 4〉 in diesem Sinne sehr häufig von Agni; 5〉 namentlich mit dem <ab>Gen.</ab> viśā́m, 6〉 und zwar meist von Agni; 7〉 <ab>du.</ab>, <i>Hausherr und Hausfrau</i>. <div n='TS'>-e 3〉 indra {274,3}. — 4〉 {360,5}; {443,10}; {531,7}; {643,14}; {712,7}. <div n='TS'>-is 1〉 revā́n iva 〰 {27,12}; jujurvā́n iva 〰 {37,8}; sástu 〰 {571,5}; jénias ná 〰 {128,7}; nas pitā́ {961,1}. — 2〉 {643,13} (viśí); {669,19} (neben gṛhápatis). — 3〉 (váruṇas) {645,16}. — 4〉 {26,7}; {60,2}; {830,4}. — 5〉 {820,10}. — 6〉 {523,4}. <div n='TS'>-im 2〉 saptáputram {164,1}. — 4〉 {12,2}; {31,11} (náhuṣasya); {192,8}; {237,8}; {456,8}; {664,26} yúvānam 〰 kavím. — 6〉 {236,10}; {247,5}; {358,3}; {442,8}. <div n='TS'>-ī 7〉 {555,2} (〰 ‿iva)."
+        },
+        {
+            "word": "विश्पति",
+            "eid": "12576",
+            "pagenum": 1770,
+            "content": "<b>viś-páti:</b>¦<info vn='add 519 gra'/> <div n='TS'>-im 5〉 {918,1}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "विश्पति",
+            "eid": "3929",
+            "pagenum": 247,
+            "content": "<b>viś-páti,</b>¦ <i><ab>m.</ab></i> master of the house. [euphony, <ls n='wg,218'>218<sup>5</sup></ls>: <ab>acct</ab>, <ls n='wg,1267'>1267a</ls>: <ab>cf.</ab> Old Prussian <i>wais-patti-n,</i> ‘house-mistress’; Lithuanian <i>vë́sz-pat-s,</i> ‘lord.’]"
+        }
     ]
 }

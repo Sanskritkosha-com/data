@@ -52,5 +52,83 @@
             "pagenum": 598,
             "content": "विमान¦ <i>vimāna</i> <ab>m.</ab> <ab>n.</ab> (? <i>mā;</i> <ab>sfx.</ab> <i>ana)</i> char, véhicule, en <ab>gén.</ab>; || char d'un dieu. || <ab>Qqf.</ab> cheval; || <ab>qqf.</ab> palais.  <P><i>vimānatā</i> <ab>f.</ab> état de char, le fait d'être un char."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विमान",
+            "eid": "29904",
+            "pagenum": 502,
+            "content": "1 वि/मान¦ <lex>f.</lex> ई measuring, traversing, pervading, <ab>esp.</ab> the sky. — <lex>m.</lex> <lex>n.</lex> sky-chariot (of gods <ab>etc.</ab>), waggon <ab>i.g.</ab>; palace, tower; <lex>n.</lex> extension, measure."
+        },
+        {
+            "word": "विमान",
+            "eid": "29905",
+            "pagenum": 502,
+            "content": "2 विमान¦ <lex>m.</lex> despising, contempt."
+        },
+        {
+            "word": "विमान",
+            "eid": "29906",
+            "pagenum": 502,
+            "content": "3 विमान¦ <lex>a.</lex> dishonoured."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विमान",
+            "eid": "22725",
+            "pagenum": 411,
+            "content": "1. वि/मान,¦ <i>f.</i> ई durchmessend. <i>m. n.</i> Wagen, <i>bes.</i> Götterwagen <i>(Abstr.</i> विमानता <i>f.</i>, °त्व <i>n.)</i>; Palast, Art Kapelle. <i>n.</i> Ausdehnung, <lbinfo n='8'/> Maß, Maßstab."
+        },
+        {
+            "word": "विमान",
+            "eid": "22726",
+            "pagenum": 411,
+            "content": "2. विमान¦ <i>m.</i> Missachtung."
+        },
+        {
+            "word": "विमान",
+            "eid": "22727",
+            "pagenum": 411,
+            "content": "3. विमान¦ ehrlos, beschimpft."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "विमान",
+            "eid": "8103",
+            "pagenum": 1289,
+            "content": "<hom>1.</hom> <b>vimā́na,</b>¦ <ab>n.</ab>, 1〉 die <i>Anordnung;</i> 2〉 das <i>Durchmessen, Durchlaufen</i> mit <ab>Gen.</ab> [von mā <ab n='mit'>m.</ab> ví]. <div n='TS'>-am 1〉 〰 vayúnam ca vāghátām {237,4}. <div n='TS'>-e [<ab>L.</ab>] 2〉 rájasas {949,1}."
+        },
+        {
+            "word": "विमान",
+            "eid": "8104",
+            "pagenum": 1289,
+            "content": "<hom>2.</hom> <b>vimā́na,</b>¦ <ab>m.</ab>, <i>Durchmésser, Durchláufer, Durchwándler</i> mit <ab>Gen.</ab> [von mā <ab n='mit'>m.</ab> ví]. <div n='TS'>-as rájasas {260,7}; {603,6}; {774,14}; {947,5}; {965,5}; áhnām {798,45}. <div n='TS'>-am rájasas {231,3} (rátham)."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "विमान",
+            "eid": "6614",
+            "pagenum": 373,
+            "content": "<i>vimāna</i>¦ (SITI), the pinnacle or upper structure over the sanctum of a temple; the central shrine of a temple (SII 3); also called <i>śrī-vimāna</i> (SII 13); same as <i>garbha-gṛha.</i> <div n='P'>(<i>EI</i> 3, 23), a shrine. <div n='P'>(<i>IA</i> 9), the steeple tower over a shrine; also called <i>stupī.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "विमान",
+            "eid": "3902",
+            "pagenum": 246,
+            "content": "<b>vimā́na,</b>¦ <i><ab>a.</ab></i> traversing, <i><ab>esp.</ab></i> the sky; <i>as <ab>m.</ab> <ab>n.</ab></i> a palatial car of the gods that moves through the air, sky-chariot. [<b>√1mā + vi,</b> ‘measure,’ <ab>q. v.</ab>: <ls n='wg,1150'>1150.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विमान",
+            "eid": "35300",
+            "pagenum": 671,
+            "content": "vimAna¦ <i>m.n.</i> 1. Disrespect, dishonour; 2. a measure; 3. a celestial car moving through the air, भुजाविजितविमानरत्नाधिरूढः प्रतस्थ पुरीम् <ls>R.</ls>xii.104, xiii.1, <ls>K.S.</ls>ii.45, vii.40; 4. a vehicle in general, <ls>R.</ls>xvi.68; 5. a seven-storied palace, नेत्रा नीताः सततगतिना यद्विमानाग्रभूमीः <ls>Megh.</ls>ii.6; 6. a horse."
+        }
     ]
 }

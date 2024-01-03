@@ -86,5 +86,75 @@
             "pagenum": 198,
             "content": "क्षुध्¦ <i>kṣudh.</i> <ab>f.</ab> faim."
         }
+    ],
+    "CAE": [
+        {
+            "word": "क्षुध्",
+            "eid": "8907",
+            "pagenum": 142,
+            "content": "1 क्षुध्¦ क्षु/ध्यति <vlex type='root'/> <ab>pp.</ab> क्षुधित be hungry. <div n='p'>— वि = <ab>S.</ab>"
+        },
+        {
+            "word": "क्षुध्",
+            "eid": "8908",
+            "pagenum": 142,
+            "content": "2 क्षु/ध्¦ <lex>f.</lex> hunger."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "क्षुध्",
+            "eid": "5749",
+            "pagenum": 99,
+            "content": "1. क्षुध्¦ क्षु/ध्यति hungrig sein; <i>p.p.</i> क्षुधित hungrig."
+        },
+        {
+            "word": "क्षुध्",
+            "eid": "5750",
+            "pagenum": 99,
+            "content": "2. क्षु/ध्¦ <i>f.</i> Hunger."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "क्षुध्",
+            "eid": "2813",
+            "pagenum": 369,
+            "content": "<b>√kṣudh,</b>¦ <i>hungern</i>. <div n='H'><ab>Part.</ab> <b>kṣúdhyat</b> [vom Stamme kṣúdhya]: <div n='TS'>-adbhyas {104,7}."
+        },
+        {
+            "word": "क्षुध्",
+            "eid": "2814",
+            "pagenum": 369,
+            "content": "<b>kṣúdh,</b>¦ <ab>f.</ab>, der <i>Hunger</i> [Verbale von kṣudh]. <div n='TS'>-údham {669,20} (ánirām); {868,10}; {943,1}. <div n='TS'>-udhé {517,19}. <div n='TS'>-udhás [<ab>Ab.</ab>] {675,14}. <div n='TS'>-udhás [<ab>G.</ab>] {869,3} viṣūvṛ́t."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "क्षुध्",
+            "eid": "1294",
+            "pagenum": 147,
+            "content": "<b>√kṣudh</b>¦ (<b>kṣúdhyati; kṣudhitá</b>). be hungry; kṣudhitá, hungry."
+        },
+        {
+            "word": "क्षुध्",
+            "eid": "1295",
+            "pagenum": 147,
+            "content": "<b>kṣúdh,</b>¦ <i><ab>f.</ab></i> hunger. [<b>√kṣudh,</b> <ls n='wg,383'>383a</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "क्षुध्",
+            "eid": "10999",
+            "pagenum": 222,
+            "content": "kzuD¦ <i>vi. 4P (pp. क्षुधित)</i> To be hungry, <ls>Bt.</ls>v.66, vi.44."
+        },
+        {
+            "word": "क्षुध्",
+            "eid": "11000",
+            "pagenum": 222,
+            "content": "kzuD¦ <i>f.</i> Hunger, <ls>M.</ls>x.105, 107."
+        }
     ]
 }

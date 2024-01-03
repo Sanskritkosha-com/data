@@ -7,5 +7,33 @@
             "pagenum": 170,
             "content": "अर्वश¦ <i><ab>a.</ab></i> Possessed of coursers, quick."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अर्वश",
+            "eid": "2946",
+            "pagenum": 43,
+            "content": "अ/र्वश¦  = <ab>prec.</ab> <lex>a.</lex>"
+        },
+        {
+            "word": "अर्वश",
+            "eid": "2947",
+            "pagenum": 43,
+            "content": "अर्वश/¦  = <ab>prec.</ab> <lex>a.</lex>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अर्वश",
+            "eid": "1082",
+            "pagenum": 117,
+            "content": "<b>árvaśa</b>¦ [von árvan] <ab>a.</ab>, <i>eilend, schnellfahrend</i>. <div n='TS'>-as índras {918,6}."
+        },
+        {
+            "word": "अर्वश",
+            "eid": "1083",
+            "pagenum": 117,
+            "content": "<b>arvaśá,</b>¦ <ab>dass.</ab> <div n='TS'>-ébhis devébhis {918,6}."
+        }
     ]
 }

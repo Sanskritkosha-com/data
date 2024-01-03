@@ -48,5 +48,63 @@
             "pagenum": 90,
             "content": "इष¦ <i>iṣa</i> <ab>m.</ab> le mois <i>āśvina,</i> septembreoctobre. <lbinfo n='8'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "इष",
+            "eid": "5033",
+            "pagenum": 76,
+            "content": "1 †इष¦ (—°) <lex>a.</lex> seeking."
+        },
+        {
+            "word": "इष",
+            "eid": "5034",
+            "pagenum": 76,
+            "content": "2 इष/¦ <lex>a.</lex> vigorous, strong, fat, juicy, fruitful."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "इष",
+            "eid": "3136",
+            "pagenum": 51,
+            "content": "1. इष¦ <i>(nur</i> —°) suchend."
+        },
+        {
+            "word": "इष",
+            "eid": "3137",
+            "pagenum": 51,
+            "content": "2. इष/¦ saftig, fett."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "इष",
+            "eid": "1779",
+            "pagenum": 225,
+            "content": "<b>iṣá,</b>¦ <ab>a.</ab>, <i>mit Opfertrank</i> [íṣ] <i>versehen</i> (<i>begierig</i> in gav-iṣá). <div n='TS'>-ám vṛjánam {165,15}; {169,8} (neben jīrádānum)."
+        },
+        {
+            "word": "इष",
+            "eid": "12191",
+            "pagenum": 1755,
+            "content": "<b>iṣá:</b>¦<info vn='add 172 gra'/> <div n='P'>2〉 <i>saftig, kräftig</i>. <div n='TS'>*-ā́ [<ab>du.</ab>] 2〉 méṣā {932,5}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "इष",
+            "eid": "738",
+            "pagenum": 130,
+            "content": "<b>iṣá,</b>¦ <div n='2'/><b>—1.</b> <i><ab>m.</ab></i> = <b>íṣ</b> [<ls n='wg,399'>399]</ls>; <div n='2'/><b>—2.</b> <i>as <ab>a.</ab></i> vigorous, fruitful."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "इष",
+            "eid": "05878",
+            "pagenum": 119,
+            "content": "iza¦ <i>m.</i> The month <i>Āśvina</i>, ध्वनिमिषेऽनिमिषेक्षणमग्रतः <ls>Sis.</ls>vi.49."
+        }
     ]
 }

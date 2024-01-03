@@ -7,5 +7,43 @@
             "pagenum": 121,
             "content": "अप्रचेतस्¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Deficient in understanding, foolish, stupid."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अप्रचेतस्",
+            "eid": "2101",
+            "pagenum": 31,
+            "content": "अ/प्रचेतस्¦ <lex>a.</lex> unwise."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अप्रचेतस्",
+            "eid": "1392",
+            "pagenum": 21,
+            "content": "अ/प्रचेतस्¦ unverständig."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अप्रचेतस्",
+            "eid": "706",
+            "pagenum": 78,
+            "content": "<b>á-pracetas,</b>¦ <ab>a.</ab>, <i>un-verständig</i> [prácetas]. <div n='TS'>-ās {120,1}; {833,6}; {943,6}. <div n='TS'>-asas [<ab>A.</ab> <ab>p.</ab> <ab>m.</ab>] {810,11}."
+        },
+        {
+            "word": "अप्रचेतस्",
+            "eid": "12071",
+            "pagenum": 1751,
+            "content": "<b>á-pracetas:</b>¦<info vn='add 61 gra'/> <div n='TS'>-asas [<ab>A.</ab> <ab>p.</ab> <ab>m.</ab>] {776,20}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अप्रचेतस्",
+            "eid": "5391",
+            "pagenum": 208,
+            "content": "अप्रचेतस्¦ Tatpur. m. f. n. (-ताः-ता-तः) Without proper knowledge, not knowing properly. E. अ neg. and प्रचेतस्."
+        }
     ]
 }

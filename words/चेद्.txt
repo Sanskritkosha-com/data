@@ -15,5 +15,37 @@
             "pagenum": 311,
             "content": "चेद्¦ <i>ced,</i> <ab>i. e.</ab> <i>ca-id,</i> a particle. <b>1.</b> Even, <ls>MBh.</ls> 1, 2403. <b>2.</b> If, <ls>Man.</ls> 7, 25. <b>3.</b> With preceding <i>no</i> it forms usually a short sentence, which must be completed by the preceding words, e. g. <i>bhavatā maunavratena sthātavyam</i> <i>no cet tava kāṣṭhāt pāto bhaviṣyati,</i> You must be silent, if not you will fall from the stick, <ls>Pañc.</ls> 76, 20. <b>4.</b> With preceding <i>na</i> sometimes, That not, <ls>Rām.</ls> 5, 80, 24. <b>5.</b> With preceding <i>iti</i> and following <i>na,</i> viz. <i>iti cen na,</i> a common form of concluding an opponent's objection, and proceeding to answer it. -- <ab>Cf.</ab> probably <i>vaí.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "चेद्",
+            "eid": "10685",
+            "pagenum": 175,
+            "content": "चे/द्¦ <ab>conj.</ab> ( = च + इ/द्) and; also, even (<ab>w.</ab> <ab>prec.</ab> अपि); when, if (often <ab>prec.</ab> by इति = if thus, in this case). अथ चेद् but if. न चेद् (चेन्न) or नो चेद् if not, else. Rarely यदि चेद् = चेद् alone."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चेद्",
+            "eid": "7161",
+            "pagenum": 127,
+            "content": "चे/द्¦ <i>(aus</i> च <i>u.</i> इद्/) und, auch; wenn, <i>oft</i> <i>nach</i> इति <i>elliptisch</i> wenn so, in diesem Falle; न चेद् (चेन्न) <i>oder</i> नो चेद् wenn nicht, <i>beides oft elliptisch</i> = sonst. <i>pleon. auch</i> यदि चेद् = चेद्."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "चेद्",
+            "eid": "3329",
+            "pagenum": 458,
+            "content": "<b>céd,</b>¦ aus ca und íd zusammengezogen: <i>wenn</i> [<ab>vgl.</ab> ca IV.], das Verb wird betont: {588,4} ví 〰 uchánti; {688,5} arthínas yánti 〰 ártham; {935,3} íti 〰 ávocan."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "चेद्",
+            "eid": "1540",
+            "pagenum": 156,
+            "content": "<b>céd,</b>¦ <i><ab>adv.</ab> never at <ab>beg.</ab> of sentence, clause,</i> <i>or half-verse.</i> if; <i>apodosis, if it follows,</i> <i>marked by</i> <b>tad</b> (<ls n='lan,37,4'>37<sup>4</sup></ls>), <b>tatas</b> (<ls n='lan,52,5'>52<sup>5</sup></ls>), <i>or not</i> <i>marked</i> (<ls n='lan,32,21'>32<sup>21</sup></ls>, <ab>etc.</ab>), <i>or marked by</i> na, <i>if</i> <i>negative</i> (<ls n='lan,18,9'>18<sup>9</sup></ls>); na ced, if not, <ls n='lan,52,8'>52<sup>8</sup></ls>; no <b>ced,</b> <i>forms a shortened but complete clause,</i> and if not, <ls n='lan,27,17'>27<sup>17</sup></ls>. [<b>ca + íd,</b> <ls n='wg,1133'>1133<sup>5</sup></ls>: see <b>ca</b> 7.]"
+        }
     ]
 }

@@ -37,5 +37,37 @@
             "pagenum": 287,
             "content": "*तर्क्¦ <i>tark.</i> <i>tarkayāmi</i> 10. Briller. || Parler."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तर्क्",
+            "eid": "12082",
+            "pagenum": 199,
+            "content": "तर्क्¦ तर्कयति <vlex type='root'/> (तर्कय°ते) suppose, conjecture, guess, reflect, regard as (2 <ab>acc.</ab>), think of (<ab>acc.</ab>), think to (<ab>inf.</ab>). <div n='p'>— परि ponder, think over, consider as (2 <ab>acc.</ab>). <div n='p'>वि suppose, conjecture, reflect on (<ab>acc.</ab>), ascertain. <div n='p'>सम् regard as (2 <ab>acc.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तर्क्",
+            "eid": "8333",
+            "pagenum": 149,
+            "content": "तर्क्¦ तर्कयति (°ते) vermuten, erwägen, halten für (2 <i>Acc.)</i>, im Sinne haben. वि <i>dass.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तर्क्",
+            "eid": "1740",
+            "pagenum": 163,
+            "content": "<b>√tark</b>¦ (<b>tarkáyati</b> [<ls n='wg,1041'>1041<sup>2</sup></ls>]; <b>tarkayā́m</b> <b>āsa; tarkayiṣyáti; tarkitá; tarkáyitum;</b> <b>tarkayitvā́; -tárkya</b>). <div n='2'/><b>—1.</b> think over, <ls n='lan,13,16'>13<sup>16</sup></ls>; reflect, <ls n='lan,13,13'>13<sup>13</sup></ls>; <div n='2'/><b>—2.</b> form an idea of. [<ab>orig.</ab> <ab>mg</ab>, ‘turn,’ and so (like <ab>Lat.</ab> <i>volvere</i> <i>animo</i>), ‘turn over <i>or</i> revolve in one's mind’: <ab>cf.</ab> <b>tarku,</b> ‘spindle’; <lang n='greek'>τρέπ-ω</lang>, <ab>Lat.</ab> <i>torqueo,</i> ‘turn’; Old High <ab>Ger.</ab> <i>drāhsil,</i> ‘turner,’ <ab>Ger.</ab> <i>drechseln,</i> ‘turn.’] <div n='p'/><b>+ pra,</b> form a conception of."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तर्क्",
+            "eid": "15339",
+            "pagenum": 305,
+            "content": "tark¦ <i>vt. or vi. 10U (pp. तर्कित; pres. तर्कयति-ते)</i> 1. To suppose, to guess, to infer, इत्थं भूतां प्रथमविरहे तामहं तर्कयामि <ls>Megh.</ls>ii.31; 2. to reflect, to reason; 3. to think of, to intend, to mean, (पातुं) त्वं चेदच्छस्फटिकविशदं तर्कयेस्तिर्यगंभः <ls>Megh.</ls>i.51; 4. to ascertain; 5. to shine.<P>With प्र-, 1. to reason, to reflect; 2. to think, to believe, to suppose, <ls>Bt.</ls>ii.9.<P>With वि-, 1. to guess, to conjecture; 2. to think, to suppose, to believe; 3. to reflect."
+        }
     ]
 }

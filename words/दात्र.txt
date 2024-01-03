@@ -36,5 +36,55 @@
             "pagenum": 316,
             "content": "दात्र¦ <i>dātra</i> <ab>n.</ab> <ab>Vd.</ab> <i>(do;</i> <ab>sfx.</ab> <i>tra)</i> faucille."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दात्र",
+            "eid": "13511",
+            "pagenum": 222,
+            "content": "1 दात्र/¦ <lex>n.</lex> distribution, share, possession."
+        },
+        {
+            "word": "दात्र",
+            "eid": "13512",
+            "pagenum": 222,
+            "content": "2 दा/त्र¦ <lex>n.</lex> sickle, scythe."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दात्र",
+            "eid": "9554",
+            "pagenum": 170,
+            "content": "1. दात्र/¦ <i>n.</i> Verteilung, Anteil, Besitz."
+        },
+        {
+            "word": "दात्र",
+            "eid": "9555",
+            "pagenum": 170,
+            "content": "2. दा/त्र¦ <i>n.</i> Sichel."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दात्र",
+            "eid": "4173",
+            "pagenum": 593,
+            "content": "<b>dātrá,</b>¦ <ab>n.</ab> (<lang>zend.</lang> dāthra), <i>Gabe, Geschenk, Gabenfülle</i> [von <hom>1.</hom> dā], fast überall mit Ausdrücken des Gebens verbunden, namentlich mit <hom>1.</hom> dā oder Ableitungen daraus ({116,6}; {461,7}; {334,1}; {502,1}; {809,55}; <ab>vgl.</ab> {288,16}), auch 2〉 mit <ab>Gen.</ab> dessen, der <i>Gabenfülle</i> hat oder darreicht. <div n='TS'>-ám {288,16}; {895,4}. — 2〉 vām (aśvínos) {116,6}; vas (marútām) {166,12}; ádites {185,3}; te (agnés) {663,33}. <div n='TS'>-ám [dātarám zu <ab>spr.</ab>] {461,7}. <div n='TS'>-ā́t 2〉 {572,21} vas (marútām). <div n='TS'>-ásya {664,18} ī́śiṣe vā́riasya hí 〰; {809,55} ási 〰 dātā́. <div n='TS'>-ā́ [dātarā́ zu sprechen] 2〉 vām {334,1}. <div n='TS'>-ā́ṇi 2〉 te {502,1}; asya {1018,2}."
+        },
+        {
+            "word": "दात्र",
+            "eid": "4174",
+            "pagenum": 593,
+            "content": "<b>dā́tra,</b>¦ <ab>n.</ab>, <i>Sichel, Sense</i> [von <hom>2.</hom> dā]. <div n='TS'>-am {687,10} háste 〰 caná‿ā́ dade."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दात्र",
+            "eid": "16708",
+            "pagenum": 329,
+            "content": "dAtra¦ <i>n.</i> An instrument of cutting, a sort of sickle."
+        }
     ]
 }

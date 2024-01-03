@@ -23,5 +23,35 @@
             "pagenum": 58,
             "content": "अव्यथि¦ <i>avyathi</i> <ab>m.</ab> <i>(vyath)</i> <ab>Vd.</ab> cheval."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अव्यथि",
+            "eid": "3420",
+            "pagenum": 49,
+            "content": "अव्यथि/¦ <lex>a.</lex> not wavering, firm; <lex>f.</lex> firmness, intrepidity."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अव्यथि",
+            "eid": "2167",
+            "pagenum": 33,
+            "content": "अव्यथि/¦ nicht wankend."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अव्यथि",
+            "eid": "1205",
+            "pagenum": 133,
+            "content": "<chg type='chg' n='41' src='gra'><old><b>á-vyathí</b>,</old><new><b>a-vyathí</b>,</new></chg>¦ <ab>a.</ab>, <i>nicht wankend</i> [vyáthi], auf dem Gange oder im Fluge; 2〉 auch übertragen auf Schutz, Hülfe; 3〉 <ab>f.</ab>, <i>sicherer Gang</i>. <div n='TS'>-ís taugriás {117,15}; suparṇás {760,3}. <div n='TS'>-ī́ [<ab>I.</ab> <ab>f.</ab>] 3〉 {853,21}. <div n='TS'>-ī́s [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] 3〉 {857,10}. <div n='TS'>-íbhis 1〉 patatríbhis {585,7}. — 2〉 ūtíbhis {112,6}. <div n='TS'>-íṣu 3〉 {622,24}."
+        },
+        {
+            "word": "अव्यथि",
+            "eid": "11041",
+            "pagenum": 1741,
+            "content": "133,1: avyathí <ab>st.</ab> ávyathí <info vn='chg 41 gra'/>"
+        }
     ]
 }

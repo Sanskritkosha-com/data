@@ -36,5 +36,47 @@
             "pagenum": 85,
             "content": "आसुति¦ <i>āsuti</i> <ab>f.</ab> <i>(su)</i> extraction: pressurage; <lbinfo n='5'/> distillation. || <ab>Cf.</ab> <i>āsava.</i>  <P><i>āsutībata</i> <ab>m.</ab> <i>(bata)</i> distillateur. || Prêtre extrayant le <s1 slp1='soma'>soma</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आसुति",
+            "eid": "4804",
+            "pagenum": 71,
+            "content": "1 आसुति/¦ <lex>f.</lex> decoction, draught."
+        },
+        {
+            "word": "आसुति",
+            "eid": "4805",
+            "pagenum": 71,
+            "content": "2 आसुति/¦ <lex>f.</lex> = 2 आसव/."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आसुति",
+            "eid": "2982",
+            "pagenum": 47,
+            "content": "1. आसुति/¦ <i>f.</i> Gebräu."
+        },
+        {
+            "word": "आसुति",
+            "eid": "2983",
+            "pagenum": 47,
+            "content": "2. आसुति/¦ <i>f.</i> = 2. आसव/."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "आसुति",
+            "eid": "1658",
+            "pagenum": 191,
+            "content": "<hom>1.</hom> <b>āsutí,</b>¦ <ab>f.</ab>, <i>Belebung, Erquickung</i> [von <hom>1.</hom> sū mit ā́]. <div n='TS'>-ím {104,7}; {613,7}."
+        },
+        {
+            "word": "आसुति",
+            "eid": "1659",
+            "pagenum": 191,
+            "content": "<hom>2.</hom> <b>āsutí,</b>¦ <ab>f.</ab>, <i>Gebräu, Trank</i> [von su mit ā́]. <div n='TS'>-ís {621,26}. <div n='TS'>-ím {192,14}."
+        }
     ]
 }

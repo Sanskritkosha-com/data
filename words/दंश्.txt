@@ -49,5 +49,51 @@
             "pagenum": 315,
             "content": "*दंश्¦ <i>daṃś.</i> <b>I.</b> <i>daśāmi</i> 1, et <ab>qqf.</ab> <i>daśe;</i>  <ab>p.</ab> <i>dadaṃśa;</i> <ab>f1.</ab> <i>daṃṣṭāsmi;</i> <ab>f2.</ab> <i>daṃkṣyāmi;</i> <ab>etc.</ab> <b><ab>Ps.</ab></b> <i>daśye;</i> <ab>pp.</ab> <i>daṣṭa.</i> Mordre. || <ab>Gr.</ab> <lang n='greek'>δάϰνω</lang> <ab>lat.</ab> lacero <ab>(?)</ab>.  <P><b>II.</b> <i>daṃśāmi</i> 1 et <i>danśaye</i> 10. Mordre. || Voir, <ab>cf.</ab> <i>darś, dṛś.</i> || Parler. || Briller."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दंश्",
+            "eid": "13112",
+            "pagenum": 216,
+            "content": "दंश्¦ द/शति <vlex type='root'/> (द/श°ते & दंशति), <ab>pp.</ab> दष्ट/ <ab>r.</ab> दंशित (<ab>q.v.</ab>) bite. <ab>C.</ab> दंशयति cause a <ab>pers.</ab> (<ab>acc.</ab>) to be bitten by (<ab>instr.</ab>). <div n='p'>—निस्, परि & वि bite through. <div n='p'>सम् bite, seize with the teeth, press together. — Cf. संदष्ट."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दंश्",
+            "eid": "9236",
+            "pagenum": 164,
+            "content": "दंश्¦ द/शति (°ते) <i>u.</i> दंशति) beißen; <i>p.p.</i> दष्ट/ <i>(s. bes.) u.</i> दंशित. <i>Caus.</i> दंशयति beißen lassen, panzern; <i>p.p.</i> दंशित. परि, वि <i>dass.</i> सम् <i>dass.</i>, zusammendrücken; <lbinfo n='8'/> <i>p.p.</i> संदष्ट angedrückt, fest anliegend."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दंश्",
+            "eid": "4029",
+            "pagenum": 569,
+            "content": "<b>√daṃś,</b> <b>√daś</b>¦ [<ls>Cu. 〔9〕</ls>], <i>beissen</i>. <div n='H'>Stamm <b>dáśa:</b> <div n='TS'>-a {472,3}. <div n='H'><ab>Part.</ab> <b>dáśat:</b> <div n='TS'>-ate {189,5} neben adáte. <div n='H'><ab>Part.</ab> <ab>Perf.</ab> <b>dadaśvás:</b> <div n='TS'>-ā́n kiráṇam {334,6}; neben reṇúm rérihat. <div n='H'><ab>Part.</ab> des <ab>Intens.</ab> <b>dándaśāna:</b> <div n='TS'>-ās áśvāsas {921,9}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दंश्",
+            "eid": "1852",
+            "pagenum": 166,
+            "content": "<b>√daṃś</b>¦ <i>or</i> <b>daś</b> (<b>dáśati</b> [<ls n='wg,746'>746]</ls>; <b>dadáṃśa;</b> <b>daśiṣyáti; daṣṭá; daṃṣṭvā́; -dáśya</b>). bite. [<ab>cf.</ab> <lang n='greek'>δάκνω</lang>, ‘bite’; <ab>Goth.</ab> <i>tahjan,</i> ‘rend, tear.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दंश्",
+            "eid": "16280",
+            "pagenum": 321,
+            "content": "daMS¦ <i>vt. 1P (pp. दष्ट; pres. दशति; desid. दिदङ्क्षति)</i> To bite, to sting, <ls>Bt.</ls>xv.4, xvi.19.<P>With उप-, to eat anything as a relish.<P>With सम्-, 1. to bite, <ls>Am.S.</ls>32; 2. to stick, सदंष्टवस्त्रेष्वबलनितंबेषु <ls>R.</ls>xvi.65."
+        },
+        {
+            "word": "दंश्",
+            "eid": "16281",
+            "pagenum": 321,
+            "content": "daMS¦ <i>(II) vt. 10A (pres. दंक्षयते)</i> To bite, to sting, e.g. नाहिर्दंशयते कंचित्तद्देशे गरुडाज्ञया."
+        }
     ]
 }

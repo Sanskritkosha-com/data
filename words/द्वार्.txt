@@ -44,5 +44,45 @@
             "pagenum": 337,
             "content": "द्वार्¦ <i>dvār</i> <ab>f.</ab> et <i>dvāra</i> <ab>n.</ab> <i>(dvṛ</i> fermer) porte; || au <ab>fig.</ab> moyen. || <ab>Gr.</ab> <lang n='greek'>θύρα</lang>; <ab>lat.</ab> foris, <lbinfo n='4'/> porta <ab>(?)</ab>; <ab>goth.</ab> daur; <ab>lith.</ab> durrys; <ab>germ.</ab> thür; <ab>angl.</ab> door; <ab>etc.</ab>  <P><i>dvāraka</i> <ab>m.</ab> et <i>dvārakā</i> <ab>f.</ab> <ab>np.</ab> de la ville de <s1 slp1='kfzRa'>Kṛṣṇa</s1>.  <P><i>dvārakaṇṭaka</i> <ab>m.</ab> porte; || ? verrou.  <P><i>dvārakeśa</i> <ab>m.</ab> <i>(īśa)</i> <s1 slp1='kfzRa'>Kṛṣṇa</s1>, maître de Dwâraka.  <P><i>dvārapāla</i> <ab>m.</ab> <i>(pāl)</i> portier.  <P><i>dvārapiṇḍī</i> <ab>f.</ab> seuil de porte; || <ab>(?)</ab> poignée ou bouton de la porte.  <P><i>dvārayantra</i> <ab>n.</ab> loquet; serrure.  <P><i>dvāravatī</i> <ab>f.</ab> la ville de Dwâraka.  <P><i>dvāravalibhuj</i> <ab>m.</ab> <ab>esp.</ab> de grue ou de cigogne, <lbinfo n='4'/> <ab>cf.</ab> <i>dāravalibhuj.</i>  <P><i>dvārastambha</i> <ab>m.</ab> jambage de porte.  <P><i>dvārastha</i> <ab>m.</ab> <i>(sthā)</i> portier."
         }
+    ],
+    "CAE": [
+        {
+            "word": "द्वार्",
+            "eid": "14880",
+            "pagenum": 243,
+            "content": "द्वा/र्¦ <lex>f.</lex> gate, door, opening; entrance or issue; way, means; द्वारा (—°) by means of."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "द्वार्",
+            "eid": "10686",
+            "pagenum": 188,
+            "content": "द्वा/र्¦ <i>f.</i> Thor, Thür, Öffnung, Ausweg, Mittel; द्वारा (—°) vermittelst, durch."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "द्वार्",
+            "eid": "4600",
+            "pagenum": 651,
+            "content": "<b>dvā́r,</b>¦ <ab>f.</ab> [<ls>C. 〔319〕</ls>], <i>Thür,</i> als die verschliessende [dvar]; das <lang>gr.</lang> <gk>ϑύρα</gk>, <lang>lat.</lang> for-es, <lang>goth.</lang> daur erweisen, dass im <lang>Sanskrit</lang> dv aus dhv hervorgegangen ist. Ueberall (ausser {625,21}; {627,1}) mit Verben verbunden, die ein „aufthun“, oder „sich aufthun“ bedeuten; im Dual: <i>Thürflügel</i>. Ins Besondere werden 2〉 im 5ten oder 6ten Verse der Apra- oder Apri-Lieder die <i>Thüren</i> (des Heiligthums) als <i>Göttinnen</i> (devī́s) verehrt und aufgefordert, sich weit aufzuthun (ví śrayantām, ví śrayadhvam). <div n='TS'>-au [<ab>du.</ab>] {48,15} (divás); {611,6} (ṛtásya). <div n='TS'>-ā [<ab>du.</ab>] {128,6}; {239,1} (támasas); {625,21}; {659,6}; {672,1}; {722,6} (matīnáam). <div n='TS'>-ā [<ab>du.</ab>], duā́rā zu <ab>spr.</ab> {347,2} (támasas vrajásya). <div n='TS'>-as [<ab>V.</ab>] 2〉 {359,5}; {896,5}; {936,5}. <div n='TS'>-as [<ab>N.</ab>] {533,2}. — 2〉 {13,6}; {142,6}; {194,5}; {717,5}. <div n='TS'>-as [<ab>A.</ab>] {130,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "द्वार्",
+            "eid": "2101",
+            "pagenum": 174,
+            "content": "<b>dvā́r</b>¦ [<ls n='wg,388'>388c</ls>], <i><ab>f.</ab></i> door. [perhaps ‘the closure, <lbinfo n='clos-ure,'/> ’ <ab>fr.</ab> <b>√dvṛ,</b> ‘close,’ for <b>*dhvṛ:</b> <ab>cf.</ab> <lang n='greek'>θύρα</lang>, ‘door’; <ab>Lat.</ab> <i>foris,</i> <ab>nom.</ab> <ab>s.</ab>, ‘door’; <ab>Eng.</ab> <i>door.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "द्वार्",
+            "eid": "17916",
+            "pagenum": 350,
+            "content": "dvAr¦ <i>f.</i> 1. A door, a gate, <ls>M.</ls>iii.88; 2. means, an expedient.<P>(द्वारा ‘by means of,’ ‘through.’)"
+        }
     ]
 }

@@ -7,5 +7,47 @@
             "pagenum": 547,
             "content": "त्यजस्¦ <i><ab>m.</ab></i> <ab>Ved.</ab> <b>1</b> Abandonment. <b>--2</b> Difficulty. <b>--3</b> Anger. <b>--4</b> <lbinfo n='Es+trangement'/> Estrangement, dislike, envy. <b>--5</b> A weapon causing abandonment. <i>--<ab>m.</ab></i> <i>--<ab>f.</ab></i> <i>--<ab>n.</ab></i> <ab>Ved.</ab> Offspring, descendants."
         }
+    ],
+    "CAE": [
+        {
+            "word": "त्यजस्",
+            "eid": "12758",
+            "pagenum": 210,
+            "content": "1 त्य/जस्¦ <lex>n.</lex> abandonment, distress."
+        },
+        {
+            "word": "त्यजस्",
+            "eid": "12759",
+            "pagenum": 210,
+            "content": "2 त्यज/स्¦ <lex>m.</lex> offspring, descendant."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "त्यजस्",
+            "eid": "8928",
+            "pagenum": 159,
+            "content": "1. त्य/जस्¦ <i>n.</i> Verlassenheit, Not."
+        },
+        {
+            "word": "त्यजस्",
+            "eid": "8929",
+            "pagenum": 159,
+            "content": "2. त्यज/स्¦ <i>m.</i> Sprössling."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "त्यजस्",
+            "eid": "3909",
+            "pagenum": 553,
+            "content": "<b>tyájas,</b>¦ <ab>n.</ab>, 1〉 <i>Wurfwaffe,</i> ein auf den Feind geschleuderter schwerer (gurú), grosser (máhi, máh) oder scharfer (tigmá) Körper [von tyaj]; 2〉 <i>Angriff, Gewaltthat</i>. <div n='TS'>-as 1〉 ná tám tigmám caná 〰 ná drāsat abhí tám gurú {667,7}; tád índras índunā devéṣu cid dhārayāte máhi 〰 {970,6}. — 2〉 {905,6} (neben énas). <div n='TS'>-asā 1〉 sánutyena 〰 mártiasya vanuṣyatā́m ápi śīrṣā́ vavṛktam {503,10}; índras ca ná 〰 ví hruṇāti tád {166,12}; yám tvám ‥ déva pā́si mártam áṃhas {444,1}. — 2〉 pitúr suásya 〰 níbādhitam {119,8}. <div n='TS'>-asas [<ab>G.</ab>] 1〉 mahás cid asi 〰 varūtā́ {169,1}; kás vām mahás cid 〰 abhī́ke, uruṣyátam … {339,4}."
+        },
+        {
+            "word": "त्यजस्",
+            "eid": "3910",
+            "pagenum": 553,
+            "content": "<b>tyajás,</b>¦ <ab>m.</ab>, <i>Sprössling</i> [von tyaj]. <div n='TS'>-ásam {836,3} ékasya cid 〰 mártiasya."
+        }
     ]
 }

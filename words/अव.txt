@@ -47,5 +47,69 @@
             "pagenum": 51,
             "content": "अव¦ <i>ava</i> <ab>pfx.</ab> (<ab>sfx.</ab> <i>va)</i> de, mouvement pour éloigner ou pour abaisser."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अव",
+            "eid": "3063",
+            "pagenum": 44,
+            "content": "1 अ/व¦ <ab>adv.</ab> down, off; mostly as pref. in nouns and verbs, rarely as <ab>prep.</ab> <ab>w.</ab> <ab>abl.</ab>"
+        },
+        {
+            "word": "अव",
+            "eid": "3064",
+            "pagenum": 44,
+            "content": "2 अ/व¦ <lex>m.</lex> favour, protection."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अव",
+            "eid": "1939",
+            "pagenum": 30,
+            "content": "1. अ/व¦ ab, herab <i>(oft</i> °— <i>bei Verb. u. Subst.).</i> <i>Praep.mit Abl.</i> von herab <i>(selten).</i>"
+        },
+        {
+            "word": "अव",
+            "eid": "1940",
+            "pagenum": 30,
+            "content": "2. अ/व¦ <i>m.</i> Gunst, Huld."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अव",
+            "eid": "1101.1",
+            "pagenum": 124,
+            "content": "<hom>1.</hom> <b>áva,</b>¦ <ab>m.</ab>, <i>Huld</i> [von av]. <div n='TS'>-ena {128,5} agnés."
+        },
+        {
+            "word": "अव",
+            "eid": "1101.2",
+            "pagenum": 124,
+            "content": "<hom>2.</hom> <b>áva,</b>¦ <i>ab, herab,</i> als Richtungswort verbunden mit den Verben: aj, <hom>2.</hom> as, i, inv, īks, karś, kāś, krand, kram, kṣip, kṣṇu, khād, khyā, gam, <hom>1.</hom> gā, <hom>2.</hom> gir, glā, cakṣ, car, <hom>1.</hom> ci, tan, tar, tsar, dar, dah, <hom>1.</hom> dā, diś, duh, <hom>1.</hom> dhā, dhāv, <hom>1.</hom> dhī, dhū, dhvas, nakṣ, nah, nī, <hom>2.</hom> nu, <hom>1.</hom> pat, pad, bādh, brū, bhā, bhid, bhṛ, mih, yaj, yas, yā, ramb, <hom>1.</hom> rudh, ruh, <hom>1.</hom> vā, vī, vyadh, vyā, vraśc, śā, śrath, śvit, sad, <hom>2.</hom> sā, si, sṛj, sthā, spaś, spṛ, smi, sras, sru, svan, svar, han, <hom>2.</hom> hā, hū. Der selbständige Gebrauch (als Adverb oder Präposition) ist sehr fraglich; in der Stelle {180,3} scheint es zu adhattam [<ab n='siehe'>s.</ab> dhā], in {580,2}: áva divás invatam zu inv, in {388,8} (nebst sam) zu dem aus dem vorigen Verse zu ergänzenden ajati zu gehören; unklar ist die Bedeutung an den wahrscheinlich verderbten. Stellen {56,1}, wo vielleicht avatásya (statt áva tásya) zu lesen ist, und {534,2}."
+        },
+        {
+            "word": "अव",
+            "eid": "1102",
+            "pagenum": 124,
+            "content": "<b>avá,</b>¦ <ab>pron.</ab> (<lang>Zend</lang> ava), <i>dieser</i>. Nur im <ab>Gen.</ab> <ab>du.</ab> avós verbunden mit vām, {508,11}; {583,4} [Page125] und wol auch {958,5}, wo avós vām statt avós vā zu lesen sein wird. Der Sinn ist wie in den Verbindungen sá tuám „du, der du ein solcher bist, dich so zeigst“ und ähnlichen."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अव",
+            "eid": "435",
+            "pagenum": 121,
+            "content": "<b>áva,</b>¦ <i>vbl prefix.</i> down; off."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अव",
+            "eid": "03670",
+            "pagenum": 71,
+            "content": "ava¦ <i>ind. (The initial अ of this preposition is sometimes dropped, पूर्वापरौ तोयनिधी वगाह्य (for अवगाह्य) <ls>K.S.</ls>i.1. Cf. अपि)</i> As a prefix to verbal themes, it expresses- (1) disrespect, (e.g. अवज्ञा); (2) support, resting, (e.g. अवलम्ब्); (3) purifying, (e.g. अवदात); (4) littleness, (e.g. अवहन्); (5) diffusion, (e.g. अवकीर्ण); (6) determination, (e.g. अवसो); (7) depression, bending, (e.g. अवनम्); (8) commanding, (e.g. अवकॢप्); (9) depreciation, (10) nourishing.<P>As a preposition, it means ‘away,’ ‘off,’ ‘away from’ (with abl.).<P>As the first member of an adjectival compound with a noun, it means ‘अवक्रुष्ट’ (called down to), e.g. अवलोकित."
+        }
     ]
 }

@@ -23,5 +23,51 @@
             "pagenum": 620,
             "content": "वैदिक¦ <i>vaidika</i> <ab>a.</ab> védique, conforme au <s1 slp1='veda'>Veda</s1>. -- <ab>S.</ab> <ab>m.</ab> brâhmane versé dans le <s1 slp1='veda'>Veda</s1>.  <P><i>vaidikatva</i> <ab>n.</ab> qualité de ce qui est védique, <lbinfo n='6'/> conformité avec le <s1 slp1='veda'>Veda</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वैदिक",
+            "eid": "31105",
+            "pagenum": 525,
+            "content": "वैदिक¦ <lex>f.</lex> ई Vedic, scriptural, sacred."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वैदिक",
+            "eid": "23572",
+            "pagenum": 426,
+            "content": "वैदिक,¦ <i>f.</i> ई vedisch; <i>n.</i> eine Vedastelle <i>o.</i> -vorschrift."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वैदिक",
+            "eid": "11359",
+            "pagenum": 702,
+            "content": "<b>*Vaidika</b>,¦ adj. (“belonging to the Vedas”): I, 4924 (<i>°ādhyayanāni</i>); VIII, †4712 (<i>sa-v°ḥ</i>, but read with B. <i>saved°</i>); XII, 317 (<i>karmāṇi</i>), 2677 (B. do., C. <i>sarvāṇi</i>), 2689 (<i>karmāṇi</i>), 2878 (<i>iti v°ṃ</i>), 2884 (do.), 2970 (<i>śrutiḥ</i>), 2974 (<i>sthitiḥ</i>), 9610 (<i>iti v°ṃ</i>), 9731 (do.), 11109 (<i>guṇāḥ</i>), 12821 (<i>śrutiḥ</i>), †13759 (<i>karma</i>); XIII, 5564 (do.); XIV, 340 (<i>karmāṇi</i>), 1014 (<i>śrutiḥ</i>), 1568 (sc. <i>karmāṇi?</i>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वैदिक",
+            "eid": "4044",
+            "pagenum": 252,
+            "content": "<b>vaidika,</b>¦ <i><ab>a.</ab></i> Vedic, prescribed by <i>or</i> conformable  <lbinfo n='con-formable'/> to the Vedas. [veda, <ls n='wg,1222'>1222e</ls> 2.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वैदिक",
+            "eid": "36386",
+            "pagenum": 693,
+            "content": "vEdika¦ <i>(I) a. (f. की)</i> Relating to the Vedas, sacred, scriptural, <ls>K.S.</ls>v.73."
+        },
+        {
+            "word": "वैदिक",
+            "eid": "36387",
+            "pagenum": 693,
+            "content": "vEdika¦ <i>(II) m.</i> A Brāhmaṇa versed in the Vedas."
+        }
     ]
 }

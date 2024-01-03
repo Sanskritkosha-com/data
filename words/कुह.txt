@@ -50,5 +50,37 @@
             "pagenum": 177,
             "content": "कुह¦ <i>kuha</i> <ab>m.</ab> surnom de <s1 slp1='kuvera'>Kuvera</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कुह",
+            "eid": "8171",
+            "pagenum": 127,
+            "content": "कु/ह¦ <ab>adv.</ab> where (also <ab>w.</ab> स्विद्). With चिद् wherever, somewhere."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कुह",
+            "eid": "5191",
+            "pagenum": 88,
+            "content": "कु/ह¦ wo? <i>(oft mit</i> स्विद्). <i>Mit</i> चिद् irgendwo(hin). <lbinfo n='8'/>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कुह",
+            "eid": "2632",
+            "pagenum": 331,
+            "content": "<b>kúha,</b>¦ <i>wo?</i> [von kú] {46,9}; {117,12}; {203,5}; {428,2}; {462,4}; {682,4}; {848,1}; {866,1}. _{866,2}; {955,1}; 2〉 kúha cid, <i>wo auch immer:</i> {184,1}; <i>irgendwohin:</i> {24,10}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कुह",
+            "eid": "09998",
+            "pagenum": 199,
+            "content": "kuha¦ <i>m.</i> Kubera, the god of riches."
+        }
     ]
 }

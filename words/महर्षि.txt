@@ -31,5 +31,45 @@
             "pagenum": 496,
             "content": "महर्षि¦ <i>maharṣi</i> <ab>m.</ab> <i>(ṛṣi)</i> un grand <s1 slp1='fzi'>Ṛṣi</s1>, un grand saint."
         }
+    ],
+    "CAE": [
+        {
+            "word": "महर्षि",
+            "eid": "24160",
+            "pagenum": 400,
+            "content": "महर्षि¦ <lex>m.</lex> great Ṛṣi."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "महर्षि",
+            "eid": "18346",
+            "pagenum": 325,
+            "content": "महर्षि¦ <i>m.</i> großer Rishi."
+        }
+    ],
+    "INM": [
+        {
+            "word": "महर्षि",
+            "eid": "6849",
+            "pagenum": 457,
+            "content": "<b>Maharṣi</b><sup>1</sup>¦ = Śiva (1000 names<sup>2</sup>).—Do.<sup>2</sup> = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "महर्षि",
+            "eid": "3173",
+            "pagenum": 214,
+            "content": "<b>maharṣi,</b>¦ <i><ab>m.</ab></i> great Rishi. [<b>mahā + ṛṣi.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "महर्षि",
+            "eid": "29470",
+            "pagenum": 560,
+            "content": "mahA-fzi¦ <i>m.</i> a great sage; (at <ls>M.</ls>i.34 the term is applied to the ten <i>Prajāpatis</i>- but in literature the word is used to signify any great sage)."
+        }
     ]
 }

@@ -13,5 +13,37 @@
             "pagenum": 1,
             "content": "आयुर्वेद¦ <i>read</i> Burnell 63^b."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आयुर्वेद",
+            "eid": "4477",
+            "pagenum": 65,
+            "content": "आयुर्वेद¦ <lex>m.</lex> the science of health; T. of a book on medicine."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आयुर्वेद",
+            "eid": "2779",
+            "pagenum": 43,
+            "content": "आयुर्वेद¦ <i>m.</i> Heilkunde."
+        }
+    ],
+    "INM": [
+        {
+            "word": "आयुर्वेद",
+            "eid": "1057",
+            "pagenum": 103,
+            "content": "<b>Āyurveda</b>¦ (the science of medicine). § 270 (Brahmasabhāv.): II, <b>11</b>, 442 (<i>Ā°tathāṣṭāṅgo</i>); XII, 877, 8133 (<i>°vido janāḥ</i>), 13137, 13246 (<i>°vidaḥ</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आयुर्वेद",
+            "eid": "05313",
+            "pagenum": 105,
+            "content": "Ayus-veda¦ <i>m.</i> the science of health or medicine."
+        }
     ]
 }

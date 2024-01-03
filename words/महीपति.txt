@@ -13,5 +13,29 @@
             "pagenum": 1,
             "content": "महीपति¦ father of Ananta etc. <i>delete</i> this."
         }
+    ],
+    "CAE": [
+        {
+            "word": "महीपति",
+            "eid": "24424",
+            "pagenum": 404,
+            "content": "मही°पति¦ <lex>m.</lex>  earth-protector or ruler, king."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "महीपति",
+            "eid": "3206",
+            "pagenum": 214,
+            "content": "<b>mahī-pati,</b>¦ <i><ab>m.</ab></i> earth-lord, king."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "महीपति",
+            "eid": "29736.2",
+            "pagenum": 564,
+            "content": "mahI-pati¦ <i>m.</i> a king, <ls>Bg.</ls>i.20, <ls>R.</ls>vi.12, ii.34."
+        }
     ]
 }

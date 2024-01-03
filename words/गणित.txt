@@ -15,5 +15,51 @@
             "pagenum": 208,
             "content": "गणित¦ <i>gaṇita</i> (<ab>pp.</ab> de <i>gaṇ)</i>. -- <ab>S.</ab> <ab>n.</ab> calcul, <lbinfo n='4'/> opération d'arithmétique; compte fait. || Traité d'arithmétique appliquée ou d'astrologie. <lbinfo n='9'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "गणित",
+            "eid": "9196",
+            "pagenum": 146,
+            "content": "गणित¦ <lex>a.</lex> numbered, reckoned, valued at (<ab>instr.</ab>); <lex>n.</lex> reckoning, calculation."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गणित",
+            "eid": "5970",
+            "pagenum": 103,
+            "content": "गणित¦ <i>(s.</i> गणय्) gezählt, gerechnet; <i>n.</i> das Rechnen."
+        }
+    ],
+    "INM": [
+        {
+            "word": "गणित",
+            "eid": "4046",
+            "pagenum": 299,
+            "content": "<b>Gaṇita</b>,¦ a Viśvadeva. § 749 (Ānuśāsanik.): XIII, <b>91</b>γ, 4361."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "गणित",
+            "eid": "1331",
+            "pagenum": 148,
+            "content": "<b>gaṇita,</b>¦ <i><ab>ppl.</ab></i> calculated; <i>as <ab>n.</ab></i> [<ls n='wg,1176'>1176a</ls>], calculation, arithmetic. [<b>√gaṇaya.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गणित",
+            "eid": "11551",
+            "pagenum": 231,
+            "content": "gaRita¦ <i>(I) a. (f. ता)</i> 1. Numbered, counted, calculated; 2. regarded, cared for, (pp. of गण् q.v.)."
+        },
+        {
+            "word": "गणित",
+            "eid": "11552",
+            "pagenum": 231,
+            "content": "gaRita¦ <i>(II) n.</i> 1. Reckoning, calculating; 2. the science of computation, mathematics, [comprising arithmetic (पाटीगणित or व्यक्तगणित), algebra (बीजगणित) and geometry (रेखागणित)], गणितमथकलां वैशिकीं हस्तिशिक्षां ज्ञात्वा <ls>Mrich.</ls>i.; 3. the sum of a progression; 4. a sum in general."
+        }
     ]
 }

@@ -31,5 +31,53 @@
             "pagenum": 26,
             "content": "अनुव्रत¦ <i>anuvrata</i> <ab>a.</ab> <i>(vrata)</i> dévoué."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अनुव्रत",
+            "eid": "1529",
+            "pagenum": 22,
+            "content": "अ/नुव्रत¦ <lex>a.</lex> subject to the will of another; obedient, faithful, devoted to (<ab>gen.</ab> or <ab>acc.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अनुव्रत",
+            "eid": "1016",
+            "pagenum": 15,
+            "content": "अ/नुव्रत¦ ergeben, gehorsam <i>(Acc.)</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अनुव्रत",
+            "eid": "533",
+            "pagenum": 61,
+            "content": "<b>ánu-vrata,</b>¦ <ab>a.</ab>, <i>nach jemandes Befehl</i> [vratá] <i>handelnd, gehorsam, ergeben</i>. <div n='TS'>-as stotā́ {633,19}. <div n='TS'>-āya {51,9}. Gegensatz ápavrata. <div n='TS'>-e jáne {34,4}. <div n='TS'>-ām jāyā́m {860,2}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अनुव्रत",
+            "eid": "3379",
+            "pagenum": 104,
+            "content": "अनुव्रत¦ Bahuvr. 1. m. f. n. (-तः-ता-तम्) Acting friendly, devout, faithful. <div n='P'>2. m. (-तः) A Jaina devotee of the first class (the two other being the महाव्रत and the निर्वाण qq. vv.). “To attain the rank of Anuvrata one must forsake his family, entirely cutting off his hair, throwing away the sacred thread, holding in his hand a bundle of peacock's feathers and an earthen pot (कमण्डलु), and wearing only tawny coloured clothes: be must reside for some time in one of their temples (As. Res. IX. 248).” E. अनु and व्रत."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अनुव्रत",
+            "eid": "223",
+            "pagenum": 116,
+            "content": "<b>ánu-vrata,</b>¦ <i><ab>a.</ab></i> acting according to the will <i>or</i> command (of another), obedient; devoted to, <i><ab>w.</ab> <ab>acc.</ab></i> [<ls n='wg,272'>272]</ls>, <ls n='lan,6,16'>6<sup>16</sup></ls>, <ls n='lan,100,4'>100<sup>4</sup></ls>. [<ls n='wg,1310'>1310a</ls>: <ab>cf.</ab> <b>apavrata.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अनुव्रत",
+            "eid": "01520",
+            "pagenum": 26,
+            "content": "anuvrata¦ <i>a. (f. ता)</i> Devout, faithful."
+        }
     ]
 }

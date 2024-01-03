@@ -31,5 +31,67 @@
             "pagenum": 353,
             "content": "नन्द¦ <i>nanda</i> <ab>m.</ab> <ab>np.</ab> du père nourricier de <s1 slp1='kfzRa'>Kṛṣṇa</s1>. || Un des 9 trésors de <s1 slp1='kuvera'>Kuvera</s1>. -- <ab>F.</ab> <i>nandā</i> joie. || Belle-sœur, sœur du mari. || Cruche à eau. || Le 1ᵉʳ, 6ᵉ ou 11ᵉ jour de la quinzaine. || <ab>Surn.</ab> de <s1 slp1='pArvatI'>Pārvatī</s1>. -- <ab>F.</ab> <i>nandī</i> joie. || Le paradis d'<s1 slp1='indra'>Indra</s1>.  <P><i>nandaka</i> <ab>a.</ab> (<ab>sfx.</ab> <i>aka)</i> qui réjouit. -- <ab>S.</ab> <ab>m.</ab> grenouille. || Le glaive de <s1 slp1='kfzRa'>Kṛṣṇa</s1>.  <P><i>nandaki</i> <ab>f.</ab> (<ab>sfx.</ab> <i>aki)</i> poivre long.  <P><i>nandathu</i> <ab>m.</ab> (<ab>sfx.</ab> <i>at'u)</i> joie, allégresse.  <P><i>nandana</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ana)</i> qui réjouit. -- <ab>S.</ab> <ab>m.</ab> celui qui réjouit, qui égaie. || Fils. || Grenouille. -- <ab>S.</ab> <ab>n.</ab> le paradis ou jardin d'<s1 slp1='indra'>Indra</s1>. -- <ab>S.</ab> <ab>f.</ab> <i>nandanā</i> fille.  <P><i>nandayāmi</i> (<ab>c.</ab> de <i>nand)</i> réjouir, remplir de joie.  <P><i>nandapāla</i> <ab>m.</ab> <ab>surn.</ab> de <s1 slp1='varuRa'>Varuṇa</s1>.  <P><i>nandaputrī</i> <ab>f.</ab> <s1 slp1='durgA'>Durgā</s1>, fille de <s1 slp1='nanda'>Nanda</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "नन्द",
+            "eid": "15778",
+            "pagenum": 260,
+            "content": "न/न्द¦ <lex>m.</lex> joy, happiness, a son (as the chief object of joy); <ab>E.</ab> of Kṛṣṇa, <ab>N.</ab> of a cowherd (K.'s foster-father) <ab>etc.</ab>; <lex>f.</lex> आ a woman's name, नन्दी a <ab>cert.</ab> tree, a kind of musical instrument, <ab>E.</ab> of Durgā."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नन्द",
+            "eid": "11455",
+            "pagenum": 203,
+            "content": "न/न्द¦ <i>m.</i> Lust, sohn; <i>männl. Name, bes.</i> <i>des Pflegevaters Kṛṣṇa's u. eines Königs</i>, <i>Pl. seiner Dynastie. f.</i> आ <i>weibl. Name</i>, <i>f.</i> नन्दी ein best. musikalisches Instrument. <lbinfo n='5'/>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "नन्द",
+            "eid": "3692",
+            "pagenum": 211,
+            "content": "<i>nanda</i>¦ (IE 7-1-2), ‘nine’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "नन्द",
+            "eid": "7548",
+            "pagenum": 503,
+            "content": "<b>Nanda</b><sup>1</sup>,¦ a son of Dhṛtarāṣṭra. § 130 (Aṃśāvat.): I, <b>67</b>, 2731 (<i>°opanandakau</i>, enumeration).—§ 182 (Dhṛtarāṣṭraputranāmak.): I, <b>117</b>, 4544 (do., do.).—§ 578 (Bhīṣmavadhap.): VI, <b>51</b>σ, 2098 (<i>°opanandakaiḥ</i>).—§ 608 (Karṇap.): VIII, <b>51</b>δδ, 2446 (<i>°opanandakau</i>, among several sons of Dhṛtarāṣṭra who attacked Bhīmasena), 2458 (<i>°opanandau</i>, slain by Bhīmasena). Cf. Nandaka<sup>1</sup>."
+        },
+        {
+            "word": "नन्द",
+            "eid": "7549",
+            "pagenum": 503,
+            "content": "<b>Nanda</b><sup>2</sup>,¦ a drum in Yudhiṣṭhira's standard. § 522 (Draupadīharaṇap.): III, <b>270</b>, †15700 (<i>mṛdaṅgau N°opa-</i> <i>nandau</i>).—§ 592 (Saṃśaptakavadhap.): VII, <b>23</b>π, 1032 (<i>mṛdaṅgau…N°opanandakau</i>)."
+        },
+        {
+            "word": "नन्द",
+            "eid": "7550",
+            "pagenum": 503,
+            "content": "<b>Nanda</b><sup>3</sup>,¦ a cowherd. § 549<i>f</i> (Durgā): IV, <b>6</b>, 179 (<i>°gopāla-</i> <i>kule jātāṃ</i>, sc. Durgā (Umā)).—§ 576 (Bhagavadgītāp.): VI, <b>23</b>, 799 (<i>°gopākulodbhave</i>, sc. Durgā (Umā))."
+        },
+        {
+            "word": "नन्द",
+            "eid": "7551",
+            "pagenum": 503,
+            "content": "<b>Nanda</b><sup>4</sup>,¦ a serpent. § 564 (Mātalīyop.): V, <b>103</b>γ, 3628 (<i>°opanandakau</i>, enumeration)."
+        },
+        {
+            "word": "नन्द",
+            "eid": "7552",
+            "pagenum": 503,
+            "content": "<b>Nanda</b><sup>5</sup>,¦ two warriors of Skanda. § 615<i>u</i> (Skanda): IX, <b>45</b>η, 2566, 2567."
+        },
+        {
+            "word": "नन्द",
+            "eid": "7553",
+            "pagenum": 503,
+            "content": "<b>Nanda</b><sup>6</sup>¦ = Viṣṇu (1000 names)."
+        }
     ]
 }

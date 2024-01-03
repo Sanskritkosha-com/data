@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "भाण्डागारं तु कोशः स्याच्चन्द्रशाला शिरोगृहम् ॥ ९९५ ॥"
         }
+    ],
+    "CAE": [
+        {
+            "word": "भाण्डागार",
+            "eid": "22783",
+            "pagenum": 376,
+            "content": "भाण्डागार¦ <lex>n.</lex> store-, treasure-, or warehouse; °रिक <ab>m.</ab> the overseer of such a house, treasurer."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भाण्डागार",
+            "eid": "17309",
+            "pagenum": 304,
+            "content": "भाण्डागार¦ <i>m.</i> Geräte-, Schatz-, Warenhaus; <lbinfo n='5'/> °गारिक <i>m.</i> der Außeher eines solchen."
+        },
+        {
+            "word": "भाण्डागार",
+            "eid": "29924",
+            "pagenum": 541,
+            "content": "भाण्डागार¦ <i>n.</i> nomen actionis <i>(g.).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "भाण्डागार",
+            "eid": "877",
+            "pagenum": 50,
+            "content": "<i>bhāṇḍ-āgāra</i>¦ (EI 23, 30), a treasury or store-house."
+        }
     ]
 }

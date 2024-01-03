@@ -37,5 +37,75 @@
             "pagenum": 457,
             "content": "*फल्¦ <i>phal.</i> <i>phalāmi</i> 1; <ab>p.</ab> <i>paphāla;</i> <ab>pp.</ab> <i>phulla.</i> Se fendre, s'entrouvrir: <i>śatadhā asya phalen</i> <i>mūrdhā</i> sa tête se briserait en cent morceaux; <i>hṛdayam me</i> <i>phalati</i> mon cœur se brise. -- <i>phalāmi</i> 1; <ab>pp.</ab> <i>phalita;</i> porter des fruits; || au <ab>fig.</ab> <i>adharmas phalati</i> l'iniquité porte ses fruits."
         }
+    ],
+    "CAE": [
+        {
+            "word": "फल्",
+            "eid": "21621",
+            "pagenum": 356,
+            "content": "1 फल्¦ फलति <vlex type='root'/> <ab>pp.</ab> फुल्ल (<ab>q.v.</ab>) burst, split (intr.). <div n='p'>— उद् burst out, rush forth. <ab>C.</ab> उत्फालयति tear open, open wide (eyes). <div n='p'>प्रति rebound, be reflected. <div n='p'>वि & सम् burst or split asunder. — Cf. उत्फुल्ल, प्रफुल्ल, प्रोत्फुल्ल, समुत्फुल्ल, संफुल्ल."
+        },
+        {
+            "word": "फल्",
+            "eid": "21622",
+            "pagenum": 356,
+            "content": "2 फल्¦ फलति फल°ते <vlex type='root'/> <ab>pp.</ab> फलित (<ab>q.v.</ab>) fruit, bear fruit, have results or consequences, be fulfilled. <div n='p'>— प्रति & वि bear fruit, ripen, be accomplished."
+        },
+        {
+            "word": "फल्",
+            "eid": "21623",
+            "pagenum": 356,
+            "content": "3 फ/ल्¦ <ab>interj.</ab> = फट्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "फल्",
+            "eid": "16372",
+            "pagenum": 287,
+            "content": "1. फल्,¦ फलति bersten, platzen. उद् aufspringen, <lbinfo n='9'/> hervorbrechen <i>(vgl.</i> उफुल्ल). प्रोद् s. प्रोफुल्ल."
+        },
+        {
+            "word": "फल्",
+            "eid": "16373",
+            "pagenum": 287,
+            "content": "2. फल्,¦ फलति (°ते) Früchte bringen, reifen, sich ergeben, eintreffen. <i>p. p.</i> फलित Früchte tragend <i>o.</i> getragen habend, in Erfüllung gegangen; <i>n.</i> <i>impers.</i> वि = <i>Simpl.</i>"
+        },
+        {
+            "word": "फल्",
+            "eid": "16374",
+            "pagenum": 287,
+            "content": "3. फ/ल्¦ <i>Interj.</i> = फट्."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "फल्",
+            "eid": "6124",
+            "pagenum": 896,
+            "content": "<b>(√phal),</b>¦ <i>bersten, platzen</i> [siehe <hom>1.</hom> phal bei <ls>BR.</ls>]. ursprünglich wol spal, woraus das althochd spal-t-an durch Erweiterung entstanden ist Es liegt zu Grunde in phála und phā́la."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "फल्",
+            "eid": "2847",
+            "pagenum": 199,
+            "content": "<b>√phal</b>¦ (<b>phálati; paphā́la; phalitá;</b> <b>phullá</b> [<ls n='wg,958'>958]</ls>). burst, split, <i><ab>intrans.</ab></i> [<ab>prob.</ab> for <b>*spal,</b> of which <b>√sphaṭ</b> (<ab>i. e.</ab> <b>*sphalt</b>), ‘split, break,’ is an extension: <ab>cf.</ab> <ab>Ger.</ab> <i>spalten,</i> <ab>Eng.</ab> <i>split.</i>] <div n='p'/><b>+ ud,</b> burst out <i>or</i> open; <b>utphulla</b> [<ls n='wg,958'>958]</ls>, expanded, wide open."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "फल्",
+            "eid": "25891",
+            "pagenum": 497,
+            "content": "Pal¦ <i>(I) vt. 1P (pp. फुल्त, फुल्ल or फलित in the first sense, only फलित in the second.)</i> 1. To burst open, to split, to cleave asunder; 2. to go."
+        },
+        {
+            "word": "फल्",
+            "eid": "25892",
+            "pagenum": 497,
+            "content": "Pal¦ <i>(II) vi. 1P (pp. फलित)</i> 1. To bear fruit, नानाफलैः फलति कल्पलतेव भूमिः <ls>Bhartr.</ls>ii.40, कल्पद्रुमा योगबलेन फेलुः <ls>Bt.</ls>iii.42; 2. to be useful, to be successful, to succeed, to be fruitful in, e.g. फलत्यवल्गु ध्रुवमेव राजन् <ls>Bt.</ls>xii.66, or नैवाकृतिः फलति नैव कुलं न शीलम्; 3. to result, to have results or consequences, e.g. फलितं तावदस्माकं कपटप्रबंधेन, or एवं च सूत्रं न कार्यमिति फलितम्."
+        }
     ]
 }

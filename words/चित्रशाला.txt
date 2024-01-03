@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "संदानिनी तु गोशाला चित्रशाला तु जालिनी ।"
         }
+    ],
+    "CAE": [
+        {
+            "word": "चित्रशाला",
+            "eid": "10561",
+            "pagenum": 173,
+            "content": "चित्रशाला¦ <lex>f.</lex>  picture-room."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चित्रशाला",
+            "eid": "7053",
+            "pagenum": 125,
+            "content": "चित्रशाला¦ <i>(u.</i> °शालिका*) <i>f.</i> Bildersaal."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चित्रशाला",
+            "eid": "13745",
+            "pagenum": 273,
+            "content": "citra-SAlA¦ <i>f.</i> a painter’s studio."
+        }
     ]
 }

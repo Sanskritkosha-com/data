@@ -65,5 +65,77 @@
             "pagenum": 233,
             "content": "घोर¦ <i>ghora</i> <ab>a.</ab> <i>(ghur)</i> épouvantable. -- <ab>S.</ab> <ab>m.</ab> cerf blanc, <ab>Vd.</ab> -- <ab>Surn.</ab> de <s1 slp1='Siva'>Śiva</s1>. -- <ab>S.</ab> <ab>f.</ab> <i>ghorā</i> la nuit ténébreuse. -- <ab>S.</ab> <ab>n.</ab> effroi [que répand <lbinfo n='4'/> <ab>qqn.</ab> ou <ab>qqc.</ab>].  <P><i>ghoracakṣus</i> <ab>a.</ab> aux yeux effrayants, <ab>ép.</ab> des <s1 slp1='dasyu'>Dasyu</s1>s, <ab>Vd.</ab>  <P><i>ghoradarśana</i> <ab>a.</ab> <i>(dṛś)</i> qui a un aspect hor rible.  <P><i>ghorarāsana</i> <ab>m.</ab> <i>(rās)</i> chacal, canis aureus.  <P><i>ghorasvara</i> <ab>a.</ab> qui rend un son terrible."
         }
+    ],
+    "CAE": [
+        {
+            "word": "घोर",
+            "eid": "10085",
+            "pagenum": 164,
+            "content": "घोर/¦ <lex>a.</lex> awful, terrific, horrible, violent; <lex>n.</lex> awe, horror, magic, incantation."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "घोर",
+            "eid": "6665",
+            "pagenum": 117,
+            "content": "घोर/¦ furchtbar, schrecklich, grausig, heftig, stark; <i>n.</i> Schrecken, Graus, Zauberwerk."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "घोर",
+            "eid": "3174",
+            "pagenum": 426,
+            "content": "<b>ghorá,</b>¦ <ab>a.</ab>, 1〉 <i>furchtbar, grausig,</i> <ab>vgl.</ab> ghorácakṣas und ághoracakṣus; daher 2〉 <i>scheueinflössend, ehrfurchtgebietend;</i> 3〉 <ab>n.</ab>, <i>das grauenerregende Werk, Zauberwerk</i>. <div n='TS'>-ás (índras) {544,2}. <div n='TS'>-ám [<ab>m.</ab>] 2〉 (índram) {203,5}; áśvam (sómam) {801,4}. <div n='TS'>-ám [<ab>n.</ab>] 2〉 mánas (índrasya) {536,6}. <div n='TS'>-éṇa [<ab>n.</ab>] 3〉 {860,14}. <div n='TS'>-ásya 2〉 (agnés) {302,6}. <div n='TS'>-ā́ [<ab>d.</ab>] 2〉 (mitrā́váruṇā) {508,4}. <div n='TS'>-ā́s 2〉 (marútas) {167,4}; áṅgirasas {934,10}. <div n='TS'>-ā́sas 2〉 {918,3}; (ādityā́s) {582,13}. <div n='TS'>-ā́ṇām 2〉 (marútām) {169,7}. <div n='TS'>-e [<ab>V.</ab> <ab>f.</ab>] 2〉 jāye {921,1}. <div n='TS'>-ā́ [<ab>f.</ab>] 1〉 sámṛtis {312,17}. — 2〉 sárasvatī {502,7}. <div n='TS'>-áyā 2〉 púraṃdhiā {701,15}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "घोर",
+            "eid": "4135",
+            "pagenum": 307,
+            "content": "<b>Ghora</b><sup>1</sup>,¦ name of a weapon. § 563 (Bhagavadyānap.): V, <b>96</b>ϕ, 3491 (will be employed by Arjuna)."
+        },
+        {
+            "word": "घोर",
+            "eid": "4136",
+            "pagenum": 307,
+            "content": "<b>Ghora</b><sup>2</sup>,¦ son of Aṅgiras. § 747<i>b</i> (Suvarṇotpatti): XIII, <b>85</b>θ, 4148 (the fifth son of Aṅgiras, PCR. has Dhīra)."
+        },
+        {
+            "word": "घोर",
+            "eid": "4137",
+            "pagenum": 307,
+            "content": "<b>Ghora</b><sup>3</sup>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "घोर",
+            "eid": "1441",
+            "pagenum": 153,
+            "content": "<b>ghorá,</b>¦ <i><ab>a.</ab></i> awful; dreadful; horrid."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "घोर",
+            "eid": "13028",
+            "pagenum": 260,
+            "content": "Gora¦ <i>(I) a. (f. रा)</i> Terrific, frightful, horrible, awful, violent, शिवाघोरस्वनां पश्चाद्बुद्बुधे विकृतेति ताम् <ls>R.</ls>xii.39, or तत्किं कर्मणि घोरे मां नितोजयसि केशव <ls>Bg.</ls>iii.1."
+        },
+        {
+            "word": "घोर",
+            "eid": "13029",
+            "pagenum": 260,
+            "content": "Gora¦ <i>(II) n.</i> 1. Horror, awfulness; 2. poison."
+        },
+        {
+            "word": "घोर",
+            "eid": "13030",
+            "pagenum": 260,
+            "content": "Gora¦ <i>(III) m.</i> An epithet of Śiva."
+        }
     ]
 }

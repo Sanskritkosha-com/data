@@ -55,5 +55,43 @@
             "pagenum": 273,
             "content": "ज्ञ¦ <i>jña</i> <ab>a.</ab> [à la fin des composés] <i>(jñā)</i> qui sait, qui connaît. -- Dans le langage mystique: <lbinfo n='6'/> la Lune; Budha, régent de la planète Mercure; la planète de Mercure."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ज्ञ",
+            "eid": "11525",
+            "pagenum": 189,
+            "content": "ज्ञ/¦ <lex>a.</lex> knowing, versed in, conversant or familiar with (<ab>gen.</ab>, <ab>loc.</ab> or —°); intelligent, wise."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ज्ञ",
+            "eid": "7866",
+            "pagenum": 139,
+            "content": "ज्ञ/¦ kundig, verständnisvoll, intelligent; sich verstehend auf, vertraut mit <i>(Gen.</i>, <i>Loc. o. —°). Abstr.</i> ज्ञता <i>f.</i>, °त्व <i>n.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ज्ञ",
+            "eid": "1642",
+            "pagenum": 159,
+            "content": "<b>jña,</b>¦ <i><ab>vbl.</ab></i> knowing, <i>at end of <ab>cpds.</ab></i> [<b>√jñā,</b> <ls n='wg,333'>333.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ज्ञ",
+            "eid": "14827",
+            "pagenum": 293,
+            "content": "jYa¦ <i>(I) a. (f. ज्ञा) (at the end of compounds)</i> Knowing, familiar with, <ls>R.</ls>i.92, <ls>M.</ls>iv.102."
+        },
+        {
+            "word": "ज्ञ",
+            "eid": "14828",
+            "pagenum": 293,
+            "content": "jYa¦ <i>(II) m.</i> 1. A wise and learned man, a <i>paṇḍit</i>; 2. the sentient soul; 3. the planet Mercury; 4. the planet Mars; 5. an epithet of Brahman (m.)."
+        }
     ]
 }

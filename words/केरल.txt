@@ -50,5 +50,43 @@
             "pagenum": 185,
             "content": "केरल¦ <i>kerala</i> <ab>m.</ab> <ab>np.</ab> de pays, la côte de Malabar."
         }
+    ],
+    "CAE": [
+        {
+            "word": "केरल",
+            "eid": "8431",
+            "pagenum": 133,
+            "content": "केरल¦ <lex>m.</lex> <ab>pl.</ab> <ab>N.</ab> of a people."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "केरल",
+            "eid": "5384",
+            "pagenum": 92,
+            "content": "केरल¦ <i>m. Pl. Volksname.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "केरल",
+            "eid": "5693",
+            "pagenum": 404,
+            "content": "<b>Kerala</b>,¦ pl. (<i>°āḥ</i>), a people. § 223 (Vāsiṣṭha): I, <b>175</b>, 6685 (<i>Hūṇān sa-K°ān</i>, among the peoples who sprang from the froth of Vasiṣṭha's cow).—§ 284 (Sahadeva): II, <b>31</b>, 1173 (in the south, vanquished by Sahadeva; only B., C. has <i>Kerakān</i>), 1174 (<i>Draviḍāṃś caiva sahitāṃś coḍra-K°aiḥ</i>, vanquished by Sahadeva).—§ 574 (Jambūkh.): VI, <b>9</b>, [352 (<i>°aṃ</i>, error in C. for <i>kevalaṃ</i>, B.)], (ν), 366 (in the south).— § 605 (Karṇap.): VIII, <b>12</b>ββ, 455 (<i>Colāḥ sa-K°āḥ</i>, in the army of Yudhiṣṭhira).—§ 607 (do.): VIII, <b>44</b>κ, 2066."
+        },
+        {
+            "word": "केरल",
+            "eid": "5694",
+            "pagenum": 404,
+            "content": "<b>Kerala</b>,¦ sg. (“the king of the Keralas”). § 515 (Karṇadigvijaya): III, <b>254</b>, 15250 (caused by Karṇa to pay tribute to Duryodhana)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "केरल",
+            "eid": "10337",
+            "pagenum": 208,
+            "content": "kerala¦ <i>m. pl.</i> The name of a country (in the south of India) and its inhabitants, <ls>R.</ls>iv.54."
+        }
     ]
 }

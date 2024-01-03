@@ -47,5 +47,43 @@
             "pagenum": 237,
             "content": "चण्डाल¦ <i>caṇḍāla</i> <ab>m.</ab> homme de caste dégradée, né d'un père <s1 slp1='SUdra'>śūdra</s1> et d'une mère <s1 slp1='brAhmaRI'>brāhmaṇī</s1>.  <P><i>caṇḍālavallakī</i> <ab>f.</ab> sorte de luth à l'usage du bas peuple.  <P><i>caṇḍālikā</i> <ab>f.</ab> <ab>esp.</ab> de plante. || Sorte de luth. || <ab>Surn.</ab> de <s1 slp1='durgA'>Durgā</s1>, <ab>cf.</ab> <i>caṇḍā.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "चण्डाल",
+            "eid": "10182",
+            "pagenum": 165,
+            "content": "चण्डाल¦ <lex>m.</lex> a Candala or outcast."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चण्डाल",
+            "eid": "6739",
+            "pagenum": 118,
+            "content": "चण्डाल¦ <i>m.</i> ein Candāla <i>(Mann aus der</i> <i>verachtetsten Kaste); f.</i> आ <i>u.</i> ई."
+        }
+    ],
+    "INM": [
+        {
+            "word": "चण्डाल",
+            "eid": "1946",
+            "pagenum": 172,
+            "content": "<b>*Caṇḍāla</b><sup>1</sup>,¦ name of a caste. § 721 (Ānuśāsanik.): XIII, <b>3</b>, 199 (<i>°yonau jātaḥ</i>, sc. Mataṅga).—§ 735 (do.): XIII, <b>27</b>, 1895 (<i>°yonau jātena</i>, sc. Mataṅga); <b>29</b>, 1916 (do.).—§ 743<i>b</i> (Vipulop.): XIII, <b>40</b>, 2276 (<i>°samadarśanaḥ</i>, sc. Indra).— § 744 (Ānuśāsanik.): XIII, <b>48</b>, 2589 (the son of a <i>C</i>. with a Vaidehī becomes a Saupāka; read <i>Saupākaḥ</i> with B.).— § 749 (do.): XIII, <b>91</b>, 4368 (<i>°śvapacau</i>, should be excluded from a śrāddha)."
+        },
+        {
+            "word": "चण्डाल",
+            "eid": "1947",
+            "pagenum": 172,
+            "content": "<b>Caṇḍāla</b><sup>2</sup>,¦ sg. = Mataṅga: XIII, 1876, 1880, 1881, 1882, 1901."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "चण्डाल",
+            "eid": "1459",
+            "pagenum": 154,
+            "content": "<b>caṇḍāla,</b>¦ <i><ab>m.</ab></i> a Chandāla <i>or</i> man of the most despised class of society (born of Śūdra father and Brahman mother). [<ab>cf.</ab> caṇḍ<ab>a.</ab>]"
+        }
     ]
 }

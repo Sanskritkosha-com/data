@@ -52,5 +52,53 @@
             "pagenum": 562,
             "content": "वत्सर¦ <i>vatsara</i> <ab>m.</ab> année (? pour <i>avatsara)</i> <lbinfo n='7'/> <ab>cf.</ab> <i>vatsa.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वत्सर",
+            "eid": "27985",
+            "pagenum": 470,
+            "content": "वत्सर/¦ <lex>m.</lex> year (also personif.)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वत्सर",
+            "eid": "21218",
+            "pagenum": 381,
+            "content": "वत्सर/¦ <i>m.</i> Jahr."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वत्सर",
+            "eid": "7593",
+            "pagenum": 1199,
+            "content": "<b>(vatsará),</b>¦ <ab>m.</ab>, <i>Jahr</i> [<ab>vgl.</ab> <ls>Cu. 〔210〕</ls>], enthalten in pari-, saṃ-vatsará."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वत्सर",
+            "eid": "11747",
+            "pagenum": 720,
+            "content": "<b>Vatsara</b>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वत्सर",
+            "eid": "3673",
+            "pagenum": 236,
+            "content": "<b>vatsará,</b>¦ <i><ab>m.</ab></i> year; <i>personified,</i> <ls n='lan,67,15'>67<sup>15</sup></ls>. [<ab>cf.</ab> <b>vatsa;</b> also <b>pari-</b> and <b>saṃ-vatsara.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वत्सर",
+            "eid": "33350",
+            "pagenum": 637,
+            "content": "vatsara¦ <i>m.</i> 1. A year, <ls>M.</ls>ix.76; 2. an epithet of Vishṇu."
+        }
     ]
 }

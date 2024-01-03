@@ -55,5 +55,43 @@
             "pagenum": 268,
             "content": "जिन¦ <i>jina</i> <ab>a.</ab> <i>(ji;</i> <ab>sfx.</ab> <i>na)</i> victorieux. -- <ab>S.</ab> <ab>m.</ab> <ab>surn.</ab> de <s1 slp1='vizRu'>Viṣṇu</s1>. || Un ascète buddhiste <lbinfo n='6'/> ou <i>jaina,</i> en <ab>gén.</ab> || Un <i>jina</i> ou saint de la secte des <s1 slp1='jEna'>Jaina</s1>s. || Un <s1 slp1='budDa'>buddha</s1>.  <P><i>jinasadman</i> <ab>n.</ab> <i>(sad;</i> <ab>sfx.</ab> <i>man)</i> temple <s1 slp1='jEna'>jaina</s1>.  <P><i>jinendra</i> <ab>m.</ab> <i>(indra)</i> saint <s1 slp1='jEna'>jaina</s1>, en <ab>gén.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "जिन",
+            "eid": "11360",
+            "pagenum": 186,
+            "content": "जिन¦ <lex>m.</lex> a Buddha or Arhant."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जिन",
+            "eid": "7723",
+            "pagenum": 137,
+            "content": "जिन¦ <i>m.</i> ein Buddha o. ein Arhant <i>(r.).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "जिन",
+            "eid": "2368",
+            "pagenum": 135,
+            "content": "<i>Jina,</i>¦ same as <i>Tīrthaṅkara.</i> <div n='P'>(<i>IE</i> 7-1-2), ‘twentyfour’. <div n='P'>(<i>LL</i>), an epithet of the Buddha."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "जिन",
+            "eid": "14680",
+            "pagenum": 290,
+            "content": "jina¦ <i>(I) a. (f. ना)</i> 1. Victorious, triumphant; 2. very old."
+        },
+        {
+            "word": "जिन",
+            "eid": "14681",
+            "pagenum": 290,
+            "content": "jina¦ <i>(II) m.</i> 1. A generic term for a chief <i>Bauddha</i> or <i>Jaina</i> saint; 2. a term applied to the <i>Arhats</i> of the <i>Jainas</i>; 3. an epithet of Vishṇu."
+        }
     ]
 }

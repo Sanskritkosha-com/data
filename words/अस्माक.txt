@@ -7,5 +7,43 @@
             "pagenum": 216,
             "content": "अस्माक¦ <i><ab>a.</ab></i> <ab>Ved.</ab> for आस्माक(our, ours)."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अस्माक",
+            "eid": "3874",
+            "pagenum": 56,
+            "content": "अस्मा/क¦ <lex>a.</lex> our, ours."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अस्माक",
+            "eid": "2415",
+            "pagenum": 37,
+            "content": "अस्मा/क¦ unser, der unserige."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अस्माक",
+            "eid": "1385",
+            "pagenum": 160,
+            "content": "<b>asmā́ka,</b>¦ <ab>a.</ab>, <i>unser, der unserige</i> [von asma, wol durch ac weiter gebildet, wie parā́ka <ab>u. s. w.</ab>]. <div n='TS'>-am (hierher, oder <ab>Gen.</ab> <ab>p.</ab> von ahám) {27,4}; {94,16}; {102,4}. _{102,5}; {129,4}; {152,7}; {157,2}; {193,10}; {221,4}; {222,1}; {296,15}; {305,7}; {316,3}; {327,15}; {338,8}; {389,7}. _{389,8}; {621,3}; {665,9}; {673,6}; {848,7}; {852,9}; {862,6}; {977,3}; {1026,2}. <div n='TS'>-ena {486,15}; {868,10}. <div n='TS'>-āsas {97,3}; {364,6}; {466,7}; {594,5}. <div n='TS'>-ebhis {100,6}; {221,10}; {453,4}; {635,12}."
+        },
+        {
+            "word": "अस्माक",
+            "eid": "12143",
+            "pagenum": 1753,
+            "content": "<b>asmā́ka:</b>¦<info vn='add 125 gra'/> <div n='TS'>-ebhis {660,7}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अस्माक",
+            "eid": "534",
+            "pagenum": 123,
+            "content": "<b>asmā́ka,</b>¦ <i><ab>a.</ab></i> of us; our. [<b>asma,</b> <ls n='wg,516'>516<sup>4</sup></ls>.]"
+        }
     ]
 }

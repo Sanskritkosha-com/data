@@ -15,5 +15,35 @@
             "pagenum": 333,
             "content": "दोह्य¦ <i>dohya</i> <ab>pf.</ab> <ab>ps.</ab> de <i>duh.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "दोह्य",
+            "eid": "14660",
+            "pagenum": 240,
+            "content": "दो/ह्य¦ <lex>a.</lex> to be milked."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दोह्य",
+            "eid": "10503",
+            "pagenum": 185,
+            "content": "दो/ह्य¦ zu melken."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दोह्य",
+            "eid": "17728",
+            "pagenum": 346,
+            "content": "dohya¦ <i>(I) a. (f. ह्या)</i> To be milked."
+        },
+        {
+            "word": "दोह्य",
+            "eid": "17729",
+            "pagenum": 346,
+            "content": "dohya¦ <i>(II) n.</i> Milk."
+        }
     ]
 }

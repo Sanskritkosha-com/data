@@ -47,5 +47,43 @@
             "pagenum": 88,
             "content": "इन¦ <i>ina</i> <ab>m.</ab> maître, seigneur. Soleil."
         }
+    ],
+    "CAE": [
+        {
+            "word": "इन",
+            "eid": "4941",
+            "pagenum": 74,
+            "content": "इन/¦ <lex>a.</lex> strong, mighty, fierce; <lex>m.</lex> a great lord or king, the sun."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "इन",
+            "eid": "3077",
+            "pagenum": 50,
+            "content": "इन/¦ stark, mächtig."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "इन",
+            "eid": "1705",
+            "pagenum": 211,
+            "content": "<b>iná,</b>¦ <ab>a.</ab>, <i>stark, mächtig, wirksam</i> [von in, inv]; häufig von Indra, selten von andern Göttern (Agni, Puschan, Varuna, den Maruts), einmal [Page212] Beiwort zu vásu (Gut), und einmal zu jánimā kavīnā́m ({272,2}). <div n='TS'>-ás pátis {53,2}; {852,7}; {149,1}; gopā́s {164,21}; varūtā́ {211,2}; padavī́s {552,2}; sákhā {852,7}; vṛ́ṣā {941,2}; aratís {829,1}. Ausserdem noch von Indra {536,5}; {622,35}; {870,4}; {876,2}. <div n='TS'>-ásya {789,4}; vásunas {149,1}; trātúr {155,4}. <div n='TS'>-ásia von Indra {849,6}. <div n='TS'>-ā́sas (marútas) {408,8}. <div n='TS'>-ā́ [<ab>n.</ab> <ab>p.</ab>] jánimā {272,2}. <div n='TS'>-átamas von Indra {283,2}. <div n='TS'>-átamam von Indra {946,6}."
+        },
+        {
+            "word": "इन",
+            "eid": "12179",
+            "pagenum": 1755,
+            "content": "<b>iná:</b>¦<info vn='add 160 gra'/> <div n='TS'>-ás índras {653,5}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "इन",
+            "eid": "05775",
+            "pagenum": 117,
+            "content": "ina¦ <i>m.</i> 1. The sun; 2. a king, न न महीनमहीनपराक्रमम् <ls>R.</ls>ix.5."
+        }
     ]
 }

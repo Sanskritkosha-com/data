@@ -47,5 +47,41 @@
             "pagenum": 213,
             "content": "गर्जित¦ <i>garjita</i> <ab>pp.</ab> de <i>garj.</i> -- <ab>S.</ab> <ab>m.</ab> éléphant <lbinfo n='5'/> en rut. -- <ab>S.</ab> <ab>n.</ab> <ab>mms.</ab> que <i>garjana.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "गर्जित",
+            "eid": "9316",
+            "pagenum": 149,
+            "content": "गर्जित¦ <lex>n.</lex> the same + bragging, boasting."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गर्जित",
+            "eid": "6065",
+            "pagenum": 105,
+            "content": "गर्जित¦ <i>n.</i> dass., polterndes Wesen, Großthuerei. <lbinfo n='8'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गर्जित",
+            "eid": "11818",
+            "pagenum": 237,
+            "content": "garjita¦ <i>(I) a. (f. ता)</i> Sounded, roared."
+        },
+        {
+            "word": "गर्जित",
+            "eid": "11819",
+            "pagenum": 237,
+            "content": "garjita¦ <i>(II) n.</i> The thunder of clouds."
+        },
+        {
+            "word": "गर्जित",
+            "eid": "11820",
+            "pagenum": 237,
+            "content": "garjita¦ <i>(III) m.</i> A roaring elephant in rut."
+        }
     ]
 }

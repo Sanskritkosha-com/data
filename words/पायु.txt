@@ -36,5 +36,61 @@
             "pagenum": 407,
             "content": "पायु¦ <i>pāyu</i> <ab>m.</ab> anus."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पायु",
+            "eid": "18933",
+            "pagenum": 312,
+            "content": "1 पायु/¦ <lex>m.</lex> guard, protector."
+        },
+        {
+            "word": "पायु",
+            "eid": "18934",
+            "pagenum": 312,
+            "content": "पायु/¦ <lex>m.</lex>  the anus."
+        },
+        {
+            "word": "पायु",
+            "eid": "18935",
+            "pagenum": 312,
+            "content": "2 (पा/यु)¦ <lex>m.</lex> the anus."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पायु",
+            "eid": "14151",
+            "pagenum": 250,
+            "content": "1. पायु/¦ <i>m.</i> Hüter, Schirmer."
+        },
+        {
+            "word": "पायु",
+            "eid": "14152",
+            "pagenum": 250,
+            "content": "2. पायु¦ (पा/यु) <i>m.</i> After."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "पायु",
+            "eid": "5438",
+            "pagenum": 806,
+            "content": "<b>pāyú,</b>¦ <ab>m.</ab>, <i>Hüter, Beschützer</i> [von <hom>1.</hom> pā]; im Plural häufig 2〉 von den Hütern, durch welche Agni oder 3〉 Savitar oder Indra ({130,10}) oder Mitra, Varuna ({424,3}) oder die Götter überhaupt ({647,4}) die Menschen beschützen, wobei die häufig auch in diesen Fällen (2 und 3) hinzutretenden Beiwörter, wie adábdha, ásredhat, ájasra und ähnliche eine abstrakte Deutung (Schutzäusserungen <ls>BR.</ls>) verbieten; 4〉 Eigenname eines Mannes. — Bisweilen paayú zu sprechen. <div n='TS'>-ús {31,13} (ántaras); {89,5} (ádabdhas); {298,6} (tásya); {300,3} (viśás asyā́s); {485,7}; {669,19} (divás); {926,9}. <div n='TS'>-ús [paayús zu sprechen] {192,7}; {553,8} (divyás). <div n='TS'>-úm {193,4} (pāthás metrisch für pathás); {456,8}. <div n='TS'>-áve 4〉 {488,24}. <div n='TS'>-ós {249,4} yajñásya netā́ prathamásya 〰. <div n='TS'>-ávas {638,2} (ādityā́s). — 2〉 {147,3}; {300,12}. _{300,13}; {366,4} (dyumántas). <div n='TS'>-úbhis {395,15}; {645,11}. — 2〉 {31,12}; {95,9} (ádabdhebis) = {143,8}; {189,4} (ájasrais); {669,8} (ásredhadbhis). — 3〉 [Page807] {512,3}(ádabdhebhis); {554,3} (<chg type='chg' n='153' src='gra'><old>víśvehhis</old><new>víśvebhis</new></chg>); {130,10} (śagmaís); {424,3}; {647,4} (áriṣṭebhis)."
+        },
+        {
+            "word": "पायु",
+            "eid": "11153",
+            "pagenum": 1744,
+            "content": "807,2.a: víśvebhis <ab>st.</ab> víśvehhis <info vn='chg 153 gra'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पायु",
+            "eid": "22114",
+            "pagenum": 431,
+            "content": "pAyu¦ <i>m.</i> The anus, <ls>M.</ls>ii.90, <ls>Yaj.</ls>iii.92."
+        }
     ]
 }

@@ -23,5 +23,35 @@
             "pagenum": 581,
             "content": "विक¦ <i>vika</i> <ab>n.</ab> lait d'une bonne vache."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विक",
+            "eid": "29085",
+            "pagenum": 488,
+            "content": "विक¦ <lex>m.</lex> <ab>N.</ab> of a man."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विक",
+            "eid": "22108",
+            "pagenum": 400,
+            "content": "विक¦ <i>m.</i> <i>Mannsname.</i>"
+        },
+        {
+            "word": "विक",
+            "eid": "22113",
+            "pagenum": 400,
+            "content": "विक¦ <i>m. Mannsname.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विक",
+            "eid": "34623",
+            "pagenum": 657,
+            "content": "vika¦ <i>n.</i> The milk of a cow just calved."
+        }
     ]
 }

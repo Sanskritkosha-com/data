@@ -7,5 +7,35 @@
             "pagenum": 875,
             "content": "विश्पला¦ <i>viśpalā,</i> <ab>f.</ab> A proper name, <ls>Chr.</ls> 296, 10 = <ls>Rigv.</ls> i. 112, 10."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विश्पला",
+            "eid": "30242",
+            "pagenum": 509,
+            "content": "विश्प/ला¦ <lex>f.</lex> <ab>N.</ab> of a woman."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विश्पला",
+            "eid": "22966",
+            "pagenum": 416,
+            "content": "विश्प/ला¦ <i>f.</i> <i>muthol. Frauenname.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "विश्पला",
+            "eid": "8148",
+            "pagenum": 1297,
+            "content": "<b>viśpálā,</b>¦ <ab>f.</ab> (ursprünglich wol die Haus oder Stamm beherrschende, wenn pala = pāla Erweiterung von pā ist), Eigenname eines Weibes, dem die Aśvinen in der Schlacht helfen und ihr ein ehernes Bein ansetzen ({116,15}). <div n='TS'>-ām {112,10}; {117,11}; <chg type='chg' n='222' src='gra'><old>{865,9}</old><new>{865,8}</new></chg>. <div n='TS'>-āyai {116,15}; {118,8}."
+        },
+        {
+            "word": "विश्पला",
+            "eid": "11222",
+            "pagenum": 1745,
+            "content": "1297,25.a <ab>v. u.</ab>: {865,8} <ab>st.</ab> {865,9} <info vn='chg 222 gra'/>"
+        }
     ]
 }

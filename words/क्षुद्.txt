@@ -49,5 +49,51 @@
             "pagenum": 198,
             "content": "*क्षुद्¦ <i>kṣud.</i> <i>kṣudāmi</i> 1; <ab>etc.</ab> <ab>Vd.</ab> Aller; aller vers, <ab>ac.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "क्षुद्",
+            "eid": "8901",
+            "pagenum": 142,
+            "content": "क्षुद्¦ क्षो/दति <vlex type='root'/> <ab>pp.</ab> क्षुण (<ab>q.v.</ab>) pound, shatter, shake, stamp upon, dash to pieces. <ab>C.</ab> क्षोद/यति shake, crush. <div n='p'>— अव, प्र, वि, सम् = <ab>S.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "क्षुद्",
+            "eid": "5743",
+            "pagenum": 99,
+            "content": "क्षुद्¦ क्षो/दति stampfen, zermalmen, terere; <i>p.p.</i> क्षुण्ण."
+        },
+        {
+            "word": "क्षुद्",
+            "eid": "29813",
+            "pagenum": 539,
+            "content": "क्षुद्¦ <i>Caus. = Simpl.</i> — 2. क्षु/भ् <i>(accent.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "क्षुद्",
+            "eid": "2811",
+            "pagenum": 369,
+            "content": "<b>√kṣud,</b>¦ 1〉 im <ab>Act.</ab> und <ab>Caus.</ab> <i>erschüttern,</i> die Welten, die Erde, den Boden; 2〉 im <ab>Med.</ab> sich <i>erregen,</i> sich <i>bewegen</i> (vom Wasser beim Andrang der Marutʼs); <ab>vgl.</ab> kṣódas, kṣudrá. Die spätere Bedeutung „stampfen“ ist erst aus der <ab>Bed.</ab> erschüttern hervorgegangen. Dem umgekehrten Uebergange widerspricht besonders kṣódas. <div n='H'>Stamm <b>kṣóda:</b> <div n='TS'>-ante 2〉 ā́pas {412,6}. <div n='H'><b>kṣoda:</b> <div n='TS'>-anti 1〉 ródasī {574,1}. <div n='H'><ab>Imperf.</ab> des <ab>Caus.</ab> <b>ákṣodaya:</b> <div n='TS'>-at kṣā́ma, budhnám {315,4}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "क्षुद्",
+            "eid": "1290",
+            "pagenum": 147,
+            "content": "<b>√kṣud</b>¦ (<b>kṣódati, -te; cukṣóda; kṣuṇṇá;</b> <b>-kṣúdya</b>). shatter; stamp upon; grind small."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "क्षुद्",
+            "eid": "10979",
+            "pagenum": 221,
+            "content": "kzud¦ <i>vt. 7U (pp. क्षुण्ण)</i> 1. To strike against, to trample upon, ते तं व्याशिषताक्षोत्सुः पादैः <ls>Bt.</ls>xv.43; 2. to bruise, to crush, to pound, क्षुणद्मि सर्पान् पाताले <ls>Bt.</ls>vi.36.<P>With प्र-, to bruise, to pound, मित्रध्नस्य प्रचुक्षोद गदयांगम् <ls>Bt.</ls>xiv.33."
+        }
     ]
 }

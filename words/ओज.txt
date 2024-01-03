@@ -21,5 +21,43 @@
             "pagenum": 129,
             "content": "ओज¦ <i>oja</i> <ab>a.</ab> impair <ab>(?)</ab>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ओज",
+            "eid": "6672",
+            "pagenum": 103,
+            "content": "ओज¦ <lex>a.</lex> odd (the first, third, <ab>etc.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ओज",
+            "eid": "4120",
+            "pagenum": 68,
+            "content": "ओज¦ ungerade <i>(der erste, dritte u. s. w.).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "ओज",
+            "eid": "3877",
+            "pagenum": 222,
+            "content": "<i>Oja</i>¦ (SII 11-1), same as <i>Ojhā;</i> designation derived from Sanskrit <i>Upādhyāya;</i> cf. Bengali <i>Ojhā,</i> Maithilī <i>Jhā.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ओज",
+            "eid": "07584",
+            "pagenum": 155,
+            "content": "oja¦ <i>(I) a. (f. जा)</i> Odd."
+        },
+        {
+            "word": "ओज",
+            "eid": "07585",
+            "pagenum": 155,
+            "content": "oja¦ <i>(II) n.</i> See ओजस्."
+        }
     ]
 }

@@ -44,5 +44,37 @@
             "pagenum": 110,
             "content": "उपवन¦ <i>upavana</i> <ab>n.</ab> <i>(vana)</i> bosquet."
         }
+    ],
+    "CAE": [
+        {
+            "word": "उपवन",
+            "eid": "5830",
+            "pagenum": 90,
+            "content": "उपवन¦ <lex>n.</lex> a small wood, grove."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उपवन",
+            "eid": "3608",
+            "pagenum": 59,
+            "content": "उपवन¦ <i>n.</i> Wäldchen, Hain."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "उपवन",
+            "eid": "853",
+            "pagenum": 133,
+            "content": "<b>upavana,</b>¦ <i><ab>n.</ab></i> small forest, <i><ab>i. e.</ab></i> grove. [<b>upa</b> (<ab>mg</ab> 3) <b>+ vana.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "उपवन",
+            "eid": "06862",
+            "pagenum": 141,
+            "content": "upavana¦ <i>n.</i> A grove, a garden, a planted forest, <ls>Megh.</ls>i.24, <ls>R.</ls>viii.73, <ls>M.</ls>ix.265, x.50."
+        }
     ]
 }

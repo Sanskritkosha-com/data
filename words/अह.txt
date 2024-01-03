@@ -59,5 +59,83 @@
             "pagenum": 65,
             "content": "अह¦ <i>aha</i> <ab>indéc.</ab> aha! interjection."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अह",
+            "eid": "3900",
+            "pagenum": 56,
+            "content": "1 अ/ह¦ <ab>indecl.</ab> of course, certainly, namely, at least; often only emphasizing the preceding word."
+        },
+        {
+            "word": "अह",
+            "eid": "3901",
+            "pagenum": 56,
+            "content": "2 अ/ह¦ <lex>m.</lex> <lex>n.</lex> day (mostly —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अह",
+            "eid": "2432",
+            "pagenum": 38,
+            "content": "1. अ/ह¦ gewiss, wohl, gerade, eben, nämlich, zwar, oft <i>nur hervorhebend.</i>"
+        },
+        {
+            "word": "अह",
+            "eid": "2433",
+            "pagenum": 38,
+            "content": "2. अ/ह¦ <i>m. n</i> (°—) Tag."
+        },
+        {
+            "word": "अह",
+            "eid": "29741",
+            "pagenum": 538,
+            "content": "2. अ/ह¦ <i>l.</i> (—°) <i>st.</i> (°—)।अहह <i>Interj.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अह",
+            "eid": "1398",
+            "pagenum": 162,
+            "content": "<hom>1.</hom> <b>áha</b>¦ [aus <hom>1.</hom> a und ha zusammengesetzt] hebt das vorhergehende Wort hervor und kann durch dessen Betonung oder durch <i>ja, gewiss, fürwahr, besonders, recht, gerade</i> <ab>u. a.</ab> ausgedrückt werden. So folgt es hervorhebend: <div n='P'>Auf Verben {140,9}; {267,11}; {408,10}; {479,4}; {631,4}; {648,1}. — Substantiven {146,5}; {536,2}; {640,20}; {663,8}; {789,2}; {1015,3}. — Adjectiven {201,2}; {326,10}; {388,3}; {437,3}; {887,19}. — nach Vergleichen mit ná „recht wie“ {222,7}; {619,2}. — nach persönlichen Pronomen {119,3}. _{119,8}; {406,6}. — nach Relativen {869,6} (quicunque). — nach Interrogativen kúa {877,2}. — nach átra {48,4}; {52,11}; {84,15}; {135,8}; {154,6}; {318,7}; {326,7}; {897,8}. — nach ā́t {6,4}. — nach ná „gewiss nicht, doch nicht“ {147,3}; {216,3}; {270,4}; {300,13}; {357,12}; {408,4}; {868,8}; {912,2} (ná u). — nach Präpositionen úpa {151,7}; ánu {915,13}. — nach andern Partikeln íd {92,3}; gha‿íd {663,3}; utá‿u {653,17}; īm {361,5}; {363,5}. — mit dvitā́ verbunden {648,1}."
+        },
+        {
+            "word": "अह",
+            "eid": "12146",
+            "pagenum": 1753,
+            "content": "<b>áha:</b>¦<info vn='add 127 gra'/> <div n='P'>íd 〰 {854,1}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अह",
+            "eid": "264",
+            "pagenum": 24,
+            "content": "<b>Aha(ḥ)</b>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अह",
+            "eid": "539",
+            "pagenum": 123,
+            "content": "<b>1áha,</b>¦ <i><ab>assev.</ab> particle.</i> certainly, of course; namely. [<ab>pron.</ab> root a: <ab>cf.</ab> <ls n='wg,1104'>1104<sup>3</sup></ls> end.]"
+        },
+        {
+            "word": "अह",
+            "eid": "540",
+            "pagenum": 123,
+            "content": "<b>2áha,</b>¦ <i>for</i> <b>áhan</b> <i>in <ab>cpds.</ab></i> [<ls n='wg,1209'>1209a</ls>, <ls n='wg,1315'>1315a</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अह",
+            "eid": "04564",
+            "pagenum": 89,
+            "content": "aha¦ <i>ind.</i> A particle implying- (1) commendation; (2) rejecting; (3) deviation from custom."
+        }
     ]
 }

@@ -23,5 +23,43 @@
             "pagenum": 353,
             "content": "*नन्द्¦ <i>nand.</i> <i>nandāmi</i> 1; <ab>p.</ab> <i>nananda;</i> <lbinfo n='5'/> <ab>f2.</ab> <i>nandiṣyāmi;</i> <ab>a1.</ab> <i>anandiṣam.</i> Se réjouir."
         }
+    ],
+    "CAE": [
+        {
+            "word": "नन्द्",
+            "eid": "15777",
+            "pagenum": 260,
+            "content": "नन्द्¦ नन्दति <vlex type='root'/> (नन्द°ते) rejoice, be satisfied with (<ab>instr.</ab>, <ab>r.</ab> <ab>abl.</ab>) <ab>C.</ab> नन्दयति gladden. <div n='p'>— अभि please; be pleased with, delight in (<ab>acc.</ab>), greet, take leave of (<ab>acc.</ab>), accept, approve; <ab>w.</ab> न reject, decline. <div n='p'>प्रत्यभि greet (in return). <div n='p'>समभि congratulate. <div n='p'>आ rejoice; <ab>C.</ab> gladden, make happy, bless. <div n='p'>प्रति greet joyfully or in return, bid farewell (<ab>acc.</ab>), speak kindly or humbly to (<ab>acc.</ab>); accept, approve; <ab>w.</ab> न decline, refuse. <ab>C.</ab> gladden, make happy."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नन्द्",
+            "eid": "11454",
+            "pagenum": 203,
+            "content": "नन्द्¦ न/न्दति (°ते) sich freuen, zufrieden sein mit <i>(Instr. o. Abl.). Caus.</i> नन्दयति <lbinfo n='2'/> °ते erfreuen. अभि Gefallen finden an, einverstanden sein mit, biligen <i>(Acc.)</i>; freudig begrüßen, willkommen heißen. प्रति sich freuen, jemd. <i>(Acc.)</i> <i>den</i> (Gegen-) Gruß bieten, gern empfangen. <lbinfo n='8'/>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "नन्द्",
+            "eid": "4825",
+            "pagenum": 707,
+            "content": "<b>√nand,</b>¦ <i>sich freuen</i> über [<ab>I.</ab>]. <div n='H'><chg type='del' n='59' src='gra'><old>Stamm <b>nánda:</b></old></chg> <div n='Pf'>Mit <b>abhí</b> <i>gefallen</i> <ls>AV.</ls> <b>ā́</b> <i>sich freuen,</i> enthalten in ānandá. <div n='Pf'><b>práti</b> <i>freudig begrüssen</i> [<ab>A.</ab>] im <ls>AV.</ls> <div n='H'>Stamm <b>nánda</b> (betont in den Stellen des <ls>AV.</ls>): <div n='TS'>-ati abhi <ls>AV. 9,2,2</ls>. <div n='TS'>-anti sákhiā {897,10}. — <b>prati</b> <ls>AV. 3,10,2</ls>."
+        },
+        {
+            "word": "नन्द्",
+            "eid": "11331",
+            "pagenum": 1747,
+            "content": "707,21 <ab>v. u.</ab>: * <info vn='del 59 gra'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "नन्द्",
+            "eid": "2222",
+            "pagenum": 179,
+            "content": "<b>√nand</b>¦ (<b>nándati, -te; nanánda; nandiṣyáte;</b> <lbinfo n='nandiṣ-yáte;'/> <b>nanditá; -nándya</b>). be glad. <div n='p'/><b>+ abhi,</b> be glad in; greet joyfully."
+        }
     ]
 }

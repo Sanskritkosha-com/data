@@ -44,5 +44,57 @@
             "pagenum": 576,
             "content": "वानर¦ <i>vānara</i> <ab>m.</ab> [<ab>f.</ab> <i>ī</i>] <i>(vā-nara;</i> ou <i>vana,</i> <ab>sfx.</ab> <i>ra)</i> singe. -- <ab>F.</ab> carpopogon pruriens, <lbinfo n='6'/> <ab>bot.</ab>  <P><i>vānarapriya</i> <ab>m.</ab> mimusops, <ab>bot.</ab>  <P><i>vānarāghāta</i> <ab>m.</ab> <i>(ā; han)</i> symplocus racemosa, <lbinfo n='5'/> <ab>bot.</ab>  <P><i>vānarendra</i> <ab>m.</ab> <i>(indra)</i> <s1 slp1='sugrIva'>Sugrīva</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वानर",
+            "eid": "28797",
+            "pagenum": 484,
+            "content": "1 वानर¦ <lex>m.</lex> (<ab>adj.</ab> —° <lex>f.</lex> आ) monkey, ape, <lex>f.</lex> ई."
+        },
+        {
+            "word": "वानर",
+            "eid": "28798",
+            "pagenum": 484,
+            "content": "2 वानर¦ <lex>f.</lex> ई belonging to a monkey, monkey-like, apish."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वानर",
+            "eid": "21882",
+            "pagenum": 397,
+            "content": "1. वानर¦ <i>(adj.</i> —° <i>f.</i> आ) Affe; <i>f.</i> ई Äffin."
+        },
+        {
+            "word": "वानर",
+            "eid": "21883",
+            "pagenum": 397,
+            "content": "2. वानर,¦ <i>f.</i> ई Affen-, äffisch."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वानर",
+            "eid": "11506",
+            "pagenum": 707,
+            "content": "<b>*vānara</b>,¦ pl. (<i>°āḥ</i>) (“apes”). § 112 (Aṃśāvat.): I, <b>66</b>, 2571 (among the offspring of Pulastya).—§ 127 (do.): I, <b>66</b>, 2628 (among the offspring of Harī)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वानर",
+            "eid": "3795",
+            "pagenum": 242,
+            "content": "<b>vānara,</b>¦ <i><ab>m.</ab></i> monkey, ape."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वानर",
+            "eid": "34314",
+            "pagenum": 652,
+            "content": "vAnara¦ <i>m.</i> A monkey, an ape, <ls>M.</ls>i.39."
+        }
     ]
 }

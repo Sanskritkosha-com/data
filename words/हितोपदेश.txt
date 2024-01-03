@@ -25,5 +25,29 @@
             "pagenum": 3,
             "content": "हितोपदेश¦ by Nārāyaṇa. AS p. 240 (2 MSS.). Bd. 488."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हितोपदेश",
+            "eid": "39680",
+            "pagenum": 663,
+            "content": "हितोपदेश¦ <lex>m.</lex> salutary instruction, T. of a collection of fables."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हितोपदेश",
+            "eid": "29426",
+            "pagenum": 532,
+            "content": "हितोपदेश¦ <i>m.</i> gute Unterweisung <i>T. eines</i> <i>Fabelbuchs.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "हितोपदेश",
+            "eid": "4905",
+            "pagenum": 286,
+            "content": "<b>hitopadeśa,</b>¦ <i><ab>m.</ab></i> salutary instruction; Hitopadeśa, name of a collection of fables. [<b>upadeśa.</b>]"
+        }
     ]
 }

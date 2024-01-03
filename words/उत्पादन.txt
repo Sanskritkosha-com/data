@@ -23,5 +23,43 @@
             "pagenum": 46,
             "content": "उत्पादन¦ <i>n.</i> (r. पद् in forma <i>caus.</i> s. अन) genratio. HIT. 50. 12."
         }
+    ],
+    "CAE": [
+        {
+            "word": "उत्पादन",
+            "eid": "5397",
+            "pagenum": 83,
+            "content": "उत्पादन¦ <lex>f.</lex> ई = <ab>prec.</ab> <ab>adj.</ab>; <lex>n.</lex> as <ab>abstr.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उत्पादन",
+            "eid": "3366",
+            "pagenum": 55,
+            "content": "उत्पादन¦ <i>f.</i> ई erzeugend; <i>m.</i> der Erzeuger."
+        },
+        {
+            "word": "उत्पादन",
+            "eid": "29769",
+            "pagenum": 539,
+            "content": "उत्पादन¦ <i>n.</i> das Erzeugen <i>st. m.</i> der E."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "उत्पादन",
+            "eid": "798",
+            "pagenum": 132,
+            "content": "<b>utpādana,</b>¦ <i><ab>n.</ab></i> procreation. [<ab>caus.</ab> of <b>√pad + ud.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "उत्पादन",
+            "eid": "06276",
+            "pagenum": 127,
+            "content": "utpAdana¦ <i>n.</i> Producing, generating, उत्पादनमपत्यस्य जातस्य परिपालनम् <ls>M.</ls>ix.27, <ls>Am.S.</ls>2, 26."
+        }
     ]
 }

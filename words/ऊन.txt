@@ -39,5 +39,45 @@
             "pagenum": 118,
             "content": "ऊन¦ <i>ūna</i> <ab>a.</ab> diminué de: <i>pañconaviṃśati</i> <lbinfo n='6'/> vingt diminué de cinq, <ab>c-à-d.</ab> quinze."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ऊन",
+            "eid": "6110",
+            "pagenum": 94,
+            "content": "ऊन/¦ <lex>a.</lex> wanting, incomplete; inferior to, less than (<ab>abl.</ab> or —°); less by (<ab>instr.</ab> or —°); °— in numerals = एकोन, <ab>i.e.</ab> minus one."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ऊन",
+            "eid": "3772",
+            "pagenum": 62,
+            "content": "ऊन/¦ <i>Adj.</i> unvollständig; nicht ganz; geringer, <lbinfo n='7'/> weniger als <i>(Agl. o.</i> —°), w. um <i>(Instr. o.</i> —°). <i>Abstr.</i> °ता <i>f.</i> °त्व <i>n.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ऊन",
+            "eid": "2098",
+            "pagenum": 272,
+            "content": "<b>(ūná),</b>¦ <ab>a.</ab>, <i>woran etwas mangelt</i>. Es ist Particip von einer im <lang>Zend</lang> erhaltenen Wurzel ū, mangeln; es ist in án-ūna enthalten und liegt dem folgenden zu Grunde."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ऊन",
+            "eid": "894",
+            "pagenum": 134,
+            "content": "<b>ūná,</b>¦ <i><ab>a.</ab></i> lacking. [<ab>cf.</ab> <lang n='greek'>εὖνις</lang>, ‘bereft’; <ab>AS.</ab> <i>wan,</i> ‘lacking,’ <i>wanian,</i> ‘decrease,’ <ab>Eng.</ab> <i>wane.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ऊन",
+            "eid": "07180",
+            "pagenum": 149,
+            "content": "Una¦ <i>a. (f. ना)</i> 1. Wanting, deficient, not complete, किञ्चिदूनं … शरदामयुतं ययौ <ls>R.</ls>x.1; 2. minus, (with the inst., e.g. माषेनोनम्); 3. inferior, ऊनं न सत्वेष्वधिको बबाधे <ls>R.</ls>ii.14."
+        }
     ]
 }

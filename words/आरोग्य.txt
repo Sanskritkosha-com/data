@@ -44,5 +44,29 @@
             "pagenum": 79,
             "content": "आरोग्य¦ <i>ārogya</i> <ab>n.</ab> <i>(aroga)</i> santé."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आरोग्य",
+            "eid": "4528",
+            "pagenum": 66,
+            "content": "आरोग्य¦ <lex>a.</lex> healthy; <lex>n.</lex> health."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आरोग्य",
+            "eid": "649",
+            "pagenum": 126,
+            "content": "<b>ārogya,</b>¦ <i><ab>n.</ab> <ab>lit.</ab></i> diseaseless-ness, <i><ab>i. e.</ab></i> health. [aroga.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आरोग्य",
+            "eid": "05359",
+            "pagenum": 106,
+            "content": "Arogya¦ <i>n.</i> Freedom from disease, good health."
+        }
     ]
 }

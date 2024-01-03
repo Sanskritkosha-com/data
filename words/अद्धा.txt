@@ -28,5 +28,51 @@
             "pagenum": 16,
             "content": "अद्धा¦ <i>addhā</i> <ab>adv.</ab> <i>(ati-dhā)</i> véritablement."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अद्धा",
+            "eid": "790",
+            "pagenum": 12,
+            "content": "अद्धा/¦ <ab>adv.</ab> indeed, truly; <ab>superl.</ab> अद्धातमा/म् most truly."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अद्धा",
+            "eid": "523",
+            "pagenum": 8,
+            "content": "अद्धा/¦ fürwahr."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अद्धा",
+            "eid": "306",
+            "pagenum": 38,
+            "content": "<b>ad-dhā́,</b>¦ <i>fürwahr,</i> ursprünglich: auf diese Weise von ad, dem regelmässig gebildeten Neutrum des Deutestammes a und dhā́, wie es in <chg type='chg' n='18' src='gra'><old>katidā́</old><new>katidhā́</new></chg> <ab>u. s. w.</ab> enthalten ist. <div n='P'>{52,13}; {288,5}; {639,9}; {710,11}; {937,7}; {955,6}."
+        },
+        {
+            "word": "अद्धा",
+            "eid": "11018",
+            "pagenum": 1741,
+            "content": "38,28: katidhā́ <ab>st.</ab> katidā́ <info vn='chg 18 gra'/>"
+        }
+    ],
+    "GST": [
+        {
+            "word": "अद्धा",
+            "eid": "1682",
+            "pagenum": 49,
+            "content": "अद्धा¦ ind. (निपात) Tatpur.(?) <sup>1</sup> Indeed, truly, verily. <sup>2</sup> Clearly. It may enter into composition with कृ (as a गति q. v.). E. अद् ind. and धा (from धा, kṛt aff. विच्); or according to others, but without probability, अद् (to eat), kṛt aff. क्विप्, and हन् (to kill), taddh. aff. डाच्."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अद्धा",
+            "eid": "00815",
+            "pagenum": 13,
+            "content": "adDA¦ <i>ind.</i> 1. Certainly, truly; 2. manifestly, व्यालाधिपं च यतेते परिरब्धुमद्धा <ls>Bh.V.</ls>i.95."
+        }
     ]
 }

@@ -55,5 +55,57 @@
             "pagenum": 450,
             "content": "प्राकृत¦ <i>prākṛta</i> <ab>a.</ab> <i>(ā; kṛ)</i> vulgaire, bas, vil; || déformé [par <ab>ex.</ab> le dialecte vulgaire appelé prâcrit]. || Conforme à la nature <i>(prakṛti)</i>; naturel. -- <ab>S.</ab> <ab>m.</ab> homme de caste vile."
         }
+    ],
+    "CAE": [
+        {
+            "word": "प्राकृत",
+            "eid": "21163",
+            "pagenum": 349,
+            "content": "प्रा/कृत¦ <lex>f.</lex> आ & ई natural, normal, usual, common, vulgar, vernacular; <lex>n.</lex> the vulgar language, the Prakrit."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "प्राकृत",
+            "eid": "16028",
+            "pagenum": 281,
+            "content": "प्रा/कृत,¦ <i>f.</i> आ <i>u.</i> ई ursprünglich, natürlich, gewöhnlich, gemein, volkstümlich; <i>n.</i> die Volkssprache, das Prākrit."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "प्राकृत",
+            "eid": "4457",
+            "pagenum": 255,
+            "content": "<i>Prākṛta,</i>¦ see Prakrit."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "प्राकृत",
+            "eid": "2804",
+            "pagenum": 197,
+            "content": "<b>prā́kṛta,</b>¦ <i><ab>a.</ab></i> natural; usual; common; vulgar; <i>as <ab>n.</ab></i> the vulgar (language), language  <lbinfo n='lan-guage'/> of the vulgus, the Prākrit. [<b>prakṛti,</b> <lbinfo n='[pra-kṛti,'/> <ls n='wg,1208'>1208d</ls>: for <ab>mg</ab>, <ab>cf.</ab> <ab>Ger.</ab> <i>deutsch,</i> Old High <ab>Ger.</ab> <i>diut-isk,</i> ‘(language) of the people <i>(diot), <ab>i. e.</ab></i> German’ (as contrasted with the Latin of the Church and with the neighboring Romance tongues); <ab>cf.</ab> also <lang n='greek'>ἡ κοινή</lang> (<ab>sc.</ab> <lang n='greek'>διάλεκτος</lang>), ‘the Common (dialect),’ as <ab>opp.</ab> to Doric, <ab>etc.</ab>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "प्राकृत",
+            "eid": "25181",
+            "pagenum": 485,
+            "content": "prAkfta¦ <i>(I) a. (f. ता or ती)</i> 1. Original, natural, unmodified; (in this sense the word is applied to the sovereign of an adjacent country, who, in politics, is considered a natural enemy; See <ls>Sis.</ls>ii.36 (and <ls>Mall.</ls> on it); 2. common, ordinary, uncultivated, vulgar, <ls>Bg.</ls>xviii.24; 3. derived from प्रकृति (q.v.) (in Sānkhya phil.)."
+        },
+        {
+            "word": "प्राकृत",
+            "eid": "25182",
+            "pagenum": 485,
+            "content": "prAkfta¦ <i>(II) m.</i> A low man, an ordinary man."
+        },
+        {
+            "word": "प्राकृत",
+            "eid": "25183",
+            "pagenum": 485,
+            "content": "prAkfta¦ <i>(III) n.</i> A vernacular dialect, derived from Sanskṛit; (many of these dialects are used in Sanskṛit plays in speeches assigned to female characters and to low personages), भोः कार्यवशात्प्रयोगवशाच्चाहं प्राकृतभाषी संव्रुत्तः <ls>Mrich.</ls>i."
+        }
     ]
 }

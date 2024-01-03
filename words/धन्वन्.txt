@@ -55,5 +55,69 @@
             "pagenum": 341,
             "content": "धन्वन्¦ <i>dhanvan</i> <ab>m.</ab> <ab>n.</ab> <i>(dhan</i> pour <i>han;</i> <ab>sfx.</ab> <i>van)</i> arc. -- <ab>S.</ab> <ab>m.</ab> désert, pays sans eau. -- <ab>S.</ab> <ab>n.</ab> sol, terre ferme. <ab>Cf.</ab> <i>dhanus.</i>  <P><i>dhanvana</i> <ab>m.</ab> <ab>esp.</ab> de plante médicinale."
         }
+    ],
+    "CAE": [
+        {
+            "word": "धन्वन्",
+            "eid": "15142",
+            "pagenum": 247,
+            "content": "1 ध/न्वन्¦ <lex>n.</lex> bow (later mostly —°)."
+        },
+        {
+            "word": "धन्वन्",
+            "eid": "15143",
+            "pagenum": 247,
+            "content": "2 ध/न्वन्¦ <lex>n.</lex> <lex>m.</lex> dry land, desert, shore."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "धन्वन्",
+            "eid": "10893",
+            "pagenum": 191,
+            "content": "1. ध/न्वन्¦ <i>n.</i> Bogen."
+        },
+        {
+            "word": "धन्वन्",
+            "eid": "10894",
+            "pagenum": 191,
+            "content": "2. ध/न्वन्¦ <i>m. n.</i> trockenes Land, Festland, Würste, Steppe."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "धन्वन्",
+            "eid": "4645",
+            "pagenum": 657,
+            "content": "<hom>1.</hom> <b>dhánvan,</b>¦ <ab>n.</ab>, <i>Bogen,</i> als Waffe [von dhan <hom>1.</hom> oder dhanv 1. <ab>vgl.</ab> dhánus], <ab>vgl.</ab> ugrádhanvan <ab>u. s. w.</ab> <div n='TS'>-a [<ab>s.</ab>] {361,7} (ákṣitam). <div n='TS'>-anā {215,8}; {516,2}; {941,6}. <div n='TS'>-anas [<ab>G.</ab>] sthirā́ {942,6}. <div n='TS'>-an [<ab>L.</ab>] {516,3}; {781,1}. <div n='TS'>-āni {640,4}. _{640,12}; {500,7}. <div n='TS'>-a [<ab>pl.</ab>] {224,10} (sā́yakāni). <div n='TS'>-asu {407,4}; {959,1}—_{959,6}."
+        },
+        {
+            "word": "धन्वन्",
+            "eid": "4646",
+            "pagenum": 657,
+            "content": "<hom>2.</hom> <b>dhánvan,</b> <b>dhánuan,</b>¦ <ab>n.</ab>, das hervorragende Land [<ab>vgl.</ab> dhánu], daher: 1〉 <i>Land, Festland, trocknes Land,</i> namentlich 2〉 im Gegensatze gegen die Gewässer; 3〉 <i>dürres Land, trocknes, wasserloses Erdreich;</i> 4〉 <i>unwirthbares, unwegsames, wüstes Land</i> im Gegensatze gegen Acker- und Weide-land (ájra), oder gegen gebahnte Wege (pathíā); 5〉 〰 samudrásya, <i>Strand</i> des Meeres. <div n='TS'>-va [<ab>s.</ab>] 1〉 {915,6}; {1013,2}. — 3〉 {329,7}. — 4〉 {279,1}; {912,20} (kṛntátram); {919,6} (〰 iva duritā́). <div n='TS'>-uā [<ab>A.</ab> <ab>s.</ab>, <ls>Pada</ls>: -a] 1〉 {453,5}. <div n='TS'>-vanā 3〉 {407,6} (〰 yanti vṛṣtáyas). <div n='TS'>-van [<ab>L.</ab>] 3〉 {38,7}; {95,10}; {791,3}; {830,1}. — 5〉 {116,4}. <div n='TS'>-ua [<ab>pl.</ab>] 1〉 trī́ 〰 yójanā {35,8}. <div n='TS'>-vāni 2〉 {313,2} (apás). — 4〉 {315,7} (ájrān); {503,2} (apás, ájrān); {437,10} (ákar 〰 átietavaí). <div n='TS'>-vasu 4〉 {889,15} (pathíāsu, apsú)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "धन्वन्",
+            "eid": "2134",
+            "pagenum": 175,
+            "content": "<b>dhánvan,</b>¦ <i><ab>n.</ab></i> bow. [<b>√dhan,</b> <ls n='wg,1169'>1169.</ls> 1a.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "धन्वन्",
+            "eid": "18181",
+            "pagenum": 353,
+            "content": "Danvan¦ <i>(I) n.</i> A substitute for धनुस् at the end of Bahu. compounds, अधिज्यधन्वा विचचार दावम् <ls>R.</ls>ii.8."
+        },
+        {
+            "word": "धन्वन्",
+            "eid": "18182",
+            "pagenum": 353,
+            "content": "Danvan¦ <i>(II) m.n.</i> A dry soil, a desert, a waste, एवं धन्वनि चंपकस्य सकले संहारहेतावपि <ls>Bh.V.</ls>i.31."
+        }
     ]
 }

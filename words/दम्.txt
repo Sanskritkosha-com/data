@@ -43,5 +43,69 @@
             "pagenum": 311,
             "content": "दम्¦ <i>dam</i> <ab>f.</ab> [en <ab>compos.</ab>] épouse, maîtresse <lbinfo n='6'/> de maison, dame. || <ab>Gr.</ab> <lang n='greek'>δάμαρ</lang>; <ab>ang.</ab> dam; <ab>fr.</ab> dame (<ab>lat.</ab> domina)."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दम्",
+            "eid": "13310",
+            "pagenum": 219,
+            "content": "1 दम्¦ दा/म्यति <vlex type='root'/> <ab>pp.</ab> दान्त/ (<ab>q.v.</ab>) be or make tame; conquer, master, control. <ab>C.</ab> दम/यति = <ab>S.</ab> tr."
+        },
+        {
+            "word": "दम्",
+            "eid": "13311",
+            "pagenum": 219,
+            "content": "2 द/म्¦ <ab>s.</ab> (only °— & <ab>gen.</ab> <ab>pl.</ab> दमा/म्) = <ab>seq.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दम्",
+            "eid": "9388",
+            "pagenum": 166,
+            "content": "1. दम्¦ दा/म्यति zahm sien; zähmen, bezwingen; <lbinfo n='8'/> <i>p.p.</i> दान्त/ gezähmt, sanft. <i>Caus.</i> दम/यति zähmen, zwingen; <i>p.p.</i> दमित."
+        },
+        {
+            "word": "दम्",
+            "eid": "9389",
+            "pagenum": 166,
+            "content": "2. द/म्¦ <i>(nur</i> °— <i>u. Gen. Pl.</i> दमा/म्) = <i>folg.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दम्",
+            "eid": "4090",
+            "pagenum": 576,
+            "content": "<b>√dam,</b>¦ Grundbedeutung wahrscheinlich „binden“ [<ab>vgl.</ab> <ls>Cu. 〔260〕</ls> und <ls>Ku. 〔11,12 ff.〕</ls>, wo auch der Zusammenhang mit yam, so wie mit dám, Haus, <gk>δέμω</gk>, bauen besprochen ist]; <ab>Caus.</ab>: <i>bändigen, bezwingen</i>. <div n='H'><ab>Part.</ab> <ab>Caus.</ab> <b>damáyat:</b> <div n='TS'>-antam pṛthanyū́n {522,4}; {900,5}. <div n='P'><ab>Anm.</ab> Ueber die Form dám in {444,7} <ab n='siehe'>s.</ab> unter dáṃsupatnī."
+        },
+        {
+            "word": "दम्",
+            "eid": "4090.1",
+            "pagenum": 577,
+            "content": "<b>dám,</b>¦ <ab>n.</ab> (<lang>gr.</lang> <gk>δῶ</gk>), <i>Haus</i> [<ls>Cu. 〔265〕</ls>; <ab>vgl.</ab> <ls>Ku. 〔11,15〕</ls>]. <div n='TS'>-ám sieh. dáṃsupatnī. <div n='TS'>-amáām arítrās {872,7}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दम्",
+            "eid": "1884",
+            "pagenum": 167,
+            "content": "<b>√dam</b>¦ (<b>dā́myati</b> [<ls n='wg,763'>763]</ls>; <b>dāntá</b> [<ls n='wg,955'>955a</ls>]; <b>damitvā́; -dámya; damáyati</b>). <div n='2'/><b>—1.</b> he tame; <div n='2'/><b>—2.</b> tame; conquer; become master; <lbinfo n='mas-ter;'/> control. [<ab>cf.</ab> <lang n='greek'>δαμάω</lang>, <ab>Lat.</ab> <i>domāre,</i> ‘tame’; <ab>Eng.</ab> <i>tame,</i> <ab>Ger.</ab> <i>zahm,</i> ‘tame.’]"
+        },
+        {
+            "word": "दम्",
+            "eid": "1885",
+            "pagenum": 167,
+            "content": "<b>dám,</b>¦ <i><ab>n.</ab></i> house. [<ab>cf.</ab> <lang n='greek'>δῶ</lang>, ‘house’: see under <b>dáma.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दम्",
+            "eid": "16494",
+            "pagenum": 325,
+            "content": "dam¦ <i>vt. or vi. 4P (pp. दमित or दांत; pres. दाम्यति; caus. दमयति)</i> 1. To be tamed, to be tranquilised, <ls>M.</ls>iv.35, vi.8; 2. to subdue, to conquer, to restrain, यमो दाम्यति राक्षसान् <ls>Bt.</ls>xviii.20, xv.37."
+        }
     ]
 }

@@ -44,5 +44,45 @@
             "pagenum": 292,
             "content": "तिथि¦ <i>tithi</i> <ab>m.</ab> <ab>f.</ab> un jour lunaire, <ab>c-à-d.</ab> 1/30 de la lunaison.  <P><i>tithikṣaya</i> <ab>m.</ab> <i>(kṣi)</i> la fin de la lunaison.  <P><i>tithipraṇī</i> <ab>m.</ab> <i>(pra; nī)</i> la Lune."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तिथि",
+            "eid": "12309",
+            "pagenum": 203,
+            "content": "तिथि¦ <lex>m.</lex> <lex>f.</lex> a lunar day (also तिथी <lex>f.</lex>); °विशेष a particular i.<ab>d.</ab>*"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तिथि",
+            "eid": "8555",
+            "pagenum": 153,
+            "content": "तिथि¦ <i>m. f.</i> ein (lunarer) Tag (°विशेष <i>m.</i> ein besonderer 1. Tag*)."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "तिथि",
+            "eid": "5991",
+            "pagenum": 341,
+            "content": "<i>tithi</i>¦ (CII 3; IA 17), a lunar day; one mean <i>tithi</i> is equal to 0.9843529572 of a mean solar day and night; the mean <i>tithis</i> in a solar year are 371, and 3 <i>ghaṭīs</i> and 53.4 <i>palas;</i> generally the term <i>tithi</i> means the end of a <i>tithi,</i> not its beginning or duration, and the week-day of a <i>tithi</i> is the week-day on which that <i>tithi</i> ends; the <i>tithis</i> given in the <i>Pañcāṅga</i> are apparent, not mean, and they are intended to be given from apparent sunrise. <div n='P'><i>Cf.</i> Tamil <i>tiyadi, tedi</i> (SITI), a date. <div n='P'>(<i>IE</i> 7-1-2), ‘fifteen’. <div n='P'>(<i>EI</i> 16), same as <i>mahā-tithi,</i> an auspicious <i>tithi;</i> cf. <i>saptamī</i> called the <i>tithi</i> of the sun-god and <i>aṣṭamī</i> that of the god Śiva (<i>Ep. Ind.,</i> Vol. V, p. 168, note 4)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तिथि",
+            "eid": "1761",
+            "pagenum": 163,
+            "content": "<b>títhi,</b>¦ <i><ab>m.</ab> <ab>f.</ab></i> a lunar day (of which there are 15 in a half-lunation)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तिथि",
+            "eid": "15572",
+            "pagenum": 309,
+            "content": "tiTi¦ <i>m.f.</i> 1. A lunar day, <ls>M.</ls>ii.30; 2. the number ‘15’."
+        }
     ]
 }

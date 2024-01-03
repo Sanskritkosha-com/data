@@ -44,5 +44,63 @@
             "pagenum": 380,
             "content": "नौ¦ <i>nau</i> <ab>f.</ab> navire [<ab>M§</ab> 64]. <ab>Gr.</ab> <lang n='greek'>ναῦς</lang>; <ab>lat.</ab> navis; <ab>irl.</ab> navi.  <P><i>naukā</i> <ab>f.</ab> (<ab>sfx.</ab> <i>ka)</i> navire. || <ab>Angl. sax.</ab> naca; <ab>anc. germ.</ab> nacho.  <P><i>naukādaṇḍa</i> <ab>m.</ab> rame, aviron.  <P><i>naubandhana</i> <ab>n.</ab> <ab>np.</ab> d'un lieu, dans l'<s1 slp1='himavat'>Himavat</s1>, <lbinfo n='6'/> où fut attaché le vaisseau du déluge. <lbinfo n='5'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "नौ",
+            "eid": "17423",
+            "pagenum": 287,
+            "content": "1 नौ¦ <ab>acc.</ab>, <ab>dat.</ab>, & <ab>gen.</ab> <ab>du.</ab> of <ab>pron.</ab> of 1st <ab>pers.</ab>"
+        },
+        {
+            "word": "नौ",
+            "eid": "17424",
+            "pagenum": 287,
+            "content": "2 नौ/¦ <lex>f.</lex> ship, boat, vessel."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नौ",
+            "eid": "12900",
+            "pagenum": 227,
+            "content": "नौ¦ 1 <i>s.</i> अह/म्."
+        },
+        {
+            "word": "नौ",
+            "eid": "12901",
+            "pagenum": 227,
+            "content": "नौ/¦ 2 <i>f.</i> Schiff, Boot, Nachen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "नौ",
+            "eid": "5145",
+            "pagenum": 756,
+            "content": "<b>naú,</b>¦ <ab>f.</ab> (<ls>Cu. 〔430〕</ls>), <i>Schiff, Kahn</i>. <div n='TS'>-aús {413,2} (pūrṇā́). <div n='TS'>-ā́vam {116,5} (śatā́ritrām); {131,2} (parsáṇim); {140,12}; {207,7}; {233,1}; {399,10}; {604,3}; {662,3}; {684,9}; {801,2} (ṛtásya 〰 ā́‿aruhat rájiṣṭhām); {807,2}; {870,6}; {889,10}; {927,2}; {931,9}; {942,9}; {1004,2}. <div n='TS'>-āvā́ {46,7}; {97,7}; {99,1}; {230,4}; {266,14}; {358,9}; {379,9}; {509,8}; {581,3}; {636,11}; {638,17}; {782,10}; {882,7}. <div n='TS'>-āvás [<ab>G.</ab>] {25,7} (padám). <div n='TS'>-āví {604,4}; {961,4}. <div n='TS'>-ā́vas [<ab>N.</ab> <ab>pl.</ab>] {182,6}; {408,4}; {499,3}; {785,1}. <div n='TS'>-aubhís {116,3} (ātmanvátībhis); {692,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "नौ",
+            "eid": "2390",
+            "pagenum": 184,
+            "content": "<b>nau,</b>¦ <i>see</i> <ls n='wg,491'>491</ls>."
+        },
+        {
+            "word": "नौ",
+            "eid": "2391",
+            "pagenum": 184,
+            "content": "<b>naú</b>¦ [<ls n='wg,361'>361a</ls>], <i><ab>f.</ab></i> boat; ship. [<ab>cf.</ab> <lang n='greek'>ναῦς</lang>, <ab>Lat.</ab> <i>nāvis,</i> ‘ship’; perhaps <ab>AS.</ab> <i>naca,</i> ‘skiff’: perhaps ‘the swimmer,’ <b>√snū,</b> <ab>cf.</ab> <b>√snā.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "नौ",
+            "eid": "20492",
+            "pagenum": 399,
+            "content": "nO¦ <i>f.</i> 1. A ship, a boat, <ls>M.</ls>ii.204; 2. a fleet, a navy, वंगानुत्खाय तरसा नेता नौसाधनोद्घतान् <ls>R.</ls>iv.36."
+        }
     ]
 }

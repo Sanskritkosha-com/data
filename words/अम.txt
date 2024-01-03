@@ -29,5 +29,69 @@
             "pagenum": 43,
             "content": "अम¦ <i>ama</i> <ab>a.</ab> malade. || Qui n'est pas mûr; <ab>cf.</ab> <i>āma.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अम",
+            "eid": "2513",
+            "pagenum": 37,
+            "content": "1 अ/म¦ (<ab>pron.</ab> st.) this."
+        },
+        {
+            "word": "अम",
+            "eid": "2514",
+            "pagenum": 37,
+            "content": "2 अ/म¦ <lex>m.</lex> onset, impetuosity; fear, terror."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अम",
+            "eid": "1618",
+            "pagenum": 25,
+            "content": "1. अ/म¦ <i>Pron-St.</i> dieser."
+        },
+        {
+            "word": "अम",
+            "eid": "1619",
+            "pagenum": 25,
+            "content": "2. अ/म¦ <i>m.</i> Andrang, Ungestüm; Schreck."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अम",
+            "eid": "854",
+            "pagenum": 89,
+            "content": "<hom>1.</hom> <b>(áma),</b>¦ <ab>pron.</ab>, <i>dieser</i> (<ab>vgl.</ab> amā́, amā́t). <div n='TS'>-as <ls>AV. 14,2,71</ls> 〰 ‿ahám asmi."
+        },
+        {
+            "word": "अम",
+            "eid": "855",
+            "pagenum": 89,
+            "content": "<hom>2.</hom> <b>áma,</b>¦ <ab>m.</ab>, <i>Andrang, Ungestüm</i> (der Geschosse, der Marutʼs, des Indra, des Soma, der Schlange), stets mit dem Nebenbegriffe des Schreckenerregenden; 2〉 <i>Betäubung, Schrecken,</i> besonders ámam dhā, áme dhā. [Page90] <div n='TS'>-as 1〉 {410,3} (marútām); {502,8} (sárasvatyās); mṛgásya {702,14} (áhes). <div n='TS'>-am 2〉 {66,7}. <div n='TS'>-ena 1〉 dyā́m 〰 rejayat {318,3}; 〰 víśvā ghánighnat duritā́ {802,6}. <div n='TS'>-āya 1〉 vas (marútām) {640,6}. <div n='TS'>-e 2〉 {63,1}; {67,3}; {313,7}. <div n='TS'>-āt 1〉 {413,2} (marútām); {632,24} (índrasya). <div n='TS'>-ebhis 1〉 {550,19} (mahā́senānām). <div n='TS'>-ais 1〉 {684,10} 〰 amítram ardaya."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अम",
+            "eid": "344",
+            "pagenum": 119,
+            "content": "<b>áma,</b>¦ <i><ab>pron.</ab></i> this; he. [<ls n='wg,503'>503<sup>4</sup></ls>: <ab>cf.</ab> <b>amā́.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अम",
+            "eid": "02846",
+            "pagenum": 55,
+            "content": "ama¦ <i>(I) a. (f. मा)</i> Unripe."
+        },
+        {
+            "word": "अम",
+            "eid": "02847",
+            "pagenum": 55,
+            "content": "ama¦ <i>(II) m.</i> 1. Sickness, disease; 2. self."
+        }
     ]
 }

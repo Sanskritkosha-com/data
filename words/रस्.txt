@@ -49,5 +49,47 @@
             "pagenum": 535,
             "content": "*रस्¦ <i>ras.</i> <i>rasayāmi</i> 10. Goûter. || Aimer."
         }
+    ],
+    "CAE": [
+        {
+            "word": "रस्",
+            "eid": "26667",
+            "pagenum": 444,
+            "content": "1 रस्¦ रसति रस°ते <vlex type='root'/> <ab>pp.</ab> रसित (<ab>q.v.</ab>) roar, howl, cry, sound. <div n='p'>—अभि neigh to (<ab>acc.</ab>). <div n='p'>आ & वि roar, scream. — Cf. अनुरसित, आरसित."
+        },
+        {
+            "word": "रस्",
+            "eid": "26668",
+            "pagenum": 444,
+            "content": "2 रस्¦ रसति रस्यति रस/यति ते <vlex type='root'/> taste, relish, feel, perceive."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "रस्",
+            "eid": "20215",
+            "pagenum": 360,
+            "content": "रस्,¦ ^1. रसति, °ते brüllen, heulen, schreien, tönen. <i>p. p.</i> रसित ertönend, klingend. <i>(s. auch bes.).</i> आ brüllen, schreien; <i>p. p.</i> आरसित brüllend, schreiend."
+        },
+        {
+            "word": "रस्",
+            "eid": "20216",
+            "pagenum": 360,
+            "content": "रस्,¦ ^2. रसति, रस्यति, रसयति, °ते schmecken, empfinden."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "रस्",
+            "eid": "31870",
+            "pagenum": 607,
+            "content": "ras¦ <i>(I) vi. 1P (pp. रसित; pres. रसति)</i> 1. To roar, to cry, करीव वन्यः परुषं ररास <ls>R.</ls>xvi.78; 2. to tinkle, to sound, to make noise, रसतु रसनापि तव घनजघनमंडले <ls>Git.G.</ls>x., <ls>Sis.</ls>xi.70; 3. to resound, to reverberate."
+        },
+        {
+            "word": "रस्",
+            "eid": "31871",
+            "pagenum": 607,
+            "content": "ras¦ <i>(II) vt. 10U (pres. रसयति-ते)</i> To taste, to relish, <ls>Sis.</ls>x.27."
+        }
     ]
 }

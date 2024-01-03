@@ -31,5 +31,63 @@
             "pagenum": 298,
             "content": "तृतीय¦ <i>tṛtīya</i> <ab>a.</ab> <i>(tri;</i> <ab>sfx.</ab> <i>tīya)</i> troisième. || <ab>Zd.</ab> <i>thrilya;</i> <ab>gr.</ab> <lang n='greek'>τρίτος</lang>; <ab>lat.</ab> tertius; <ab>lith.</ab> trécias; <ab>goth.</ab> thridja; <ab>germ.</ab> dritte; <ab>etc.</ab>  <P><i>tṛtīyatā</i> <ab>f.</ab> la qualité d'être le troisième.  <P><i>tṛtīyāprakṛti</i> <ab>f.</ab> le neutre, <ab>tg.</ab> || Eunuque."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तृतीय",
+            "eid": "12618",
+            "pagenum": 208,
+            "content": "1 तृतीय¦ <lex>a.</lex> the third; <lex>n.</lex> <ab>adv.</ab> thirdly, for the third time. <ab>f.</ab> आ the third day in a half month; the endings of the third case & the third case itself (<ab>g.</ab>)."
+        },
+        {
+            "word": "तृतीय",
+            "eid": "12619",
+            "pagenum": 208,
+            "content": "2 तृतीय¦ <lex>a.</lex> forming the third part; <lex>n.</lex> one third."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तृतीय",
+            "eid": "8804",
+            "pagenum": 157,
+            "content": "1. तृती/य¦ der dritte; <i>n. adv.</i> drittens, zum dritten mal <i>f.</i> आ der dritte Tag <i>(im</i> <i>Halbmonat)</i>; die Endungen des dritten Casus (Instrumental) und diesr selbst <i>(g.).</i>"
+        },
+        {
+            "word": "तृतीय",
+            "eid": "8805",
+            "pagenum": 157,
+            "content": "2. तृ/तीय¦ ein Drittel bildend; <i>n.</i> Drittel."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तृतीय",
+            "eid": "3873",
+            "pagenum": 547,
+            "content": "<b>tṛtī́ya,</b>¦ <ab>a.</ab>, der <i>dritte</i> [von tri]; insbesondere 2〉 -am, <i>zum dritten mal</i>. <div n='TS'>-as bhrā́tā {164,1}; pátis {911,40}. <div n='TS'>-am [<ab>n.</ab>] vápus {141,2}; nā́ma {155,3}; {787,2}; krámaṇam {155,5}; sávanam {330,4}; {331,9}; {1026,1}; dhā́ma {808,18}; (sádma) {827,3}. — 2〉 {209,2}; {871,1}. <div n='TS'>-ena jyótiṣā {882,1}; kármaṇā {882,6}. <div n='TS'>-e [<ab>L.</ab>] sávane {161,8}; {262,5}; {286,6}; {329,11}; rájasi {786,6}; {871,3}; {949,8}; pṛṣṭhé {798,27}; vidáthe {195,8}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तृतीय",
+            "eid": "1794",
+            "pagenum": 165,
+            "content": "<b>tṛtī́ya,</b>¦ <i><ab>a.</ab></i> third. [<ab>fr.</ab> <b>tri,</b> through <b>trita,</b> <ls n='wg,243'>243,</ls> <ls n='wg,487'>487<sup>4</sup></ls>: <ab>cf.</ab> <lang n='greek'>τρί-τος</lang>, <ab>Lat.</ab> <i>ter-tius,</i> <ab>Eng.</ab> <i>thir-d,</i> <ab>Ger.</ab> <i>dri-tte,</i> ‘third.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तृतीय",
+            "eid": "15872",
+            "pagenum": 314,
+            "content": "tftIya¦ <i>(I) a. (f. या)</i> the third."
+        },
+        {
+            "word": "तृतीय",
+            "eid": "15873",
+            "pagenum": 314,
+            "content": "tftIya¦ <i>(II) n.</i> A third part."
+        }
     ]
 }

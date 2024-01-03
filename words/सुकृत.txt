@@ -20,5 +20,77 @@
             "pagenum": 377,
             "content": "सुकृत¦ <i>n.</i> (<i>KARM.</i> e सु et कृत factum) bonum factum. BH. 5. 15."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सुकृत",
+            "eid": "37001",
+            "pagenum": 619,
+            "content": "1 सुकृत/¦ <lex>n.</lex> a good deed, virtue, (moral) merit; kindness, favour, service."
+        },
+        {
+            "word": "सुकृत",
+            "eid": "37002",
+            "pagenum": 619,
+            "content": "2 सु/कृत¦ <lex>a.</lex> well made or done, good, right, fair."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सुकृत",
+            "eid": "27623",
+            "pagenum": 498,
+            "content": "1. सुकृत/¦ <i>n.</i> Gutthat,Tugend, Verdienst; Dienst, Gefälligkeit."
+        },
+        {
+            "word": "सुकृत",
+            "eid": "27624",
+            "pagenum": 498,
+            "content": "2. सु/कृत¦ recht gemacht, wohlbestellt, schmuck."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सुकृत",
+            "eid": "9709",
+            "pagenum": 1527,
+            "content": "<b>su-kṛtá,</b>¦ <ab>n.</ab>, <i>gutes Werk, gutes Handeln, Tugend, Frömmigkeit</i>. <div n='TS'>-ásya pánthām {897,6}; yónau {263,8}; {887,6}; loké {911,24} (neben ṛtásya yónau); rātís {921,17}. <div n='TS'>-ā́ 〰 tád śamitā́ras kṛṇvantu {162,10} (wo vielleicht súkṛtam zu lesen). <div n='TS'>-ā́ni {294,4}; {551,4} (sukṛ́tām)."
+        },
+        {
+            "word": "सुकृत",
+            "eid": "9710",
+            "pagenum": 1527,
+            "content": "<b>sú-kṛta,</b>¦ <ab>a.</ab>, 1〉 <i>schön bereitet, schön angefertigt;</i> 2〉 <i>schön gethan;</i> 3〉 <i>schön gestaltet, schön geartet</i>. <div n='TS'>-as 1〉 sū́rias {578,1} (kartṛ́bhis). — 3〉 índras {460,1}. <div n='TS'>-am [<ab>m.</ab>] 1〉 vájram {85,9}; yónim {782,7}; {860,11}; yajñám {841,13}; aṅkuśám {870,9}. <div n='TS'>-am [<ab>n.</ab>] 1〉 dhánus {686,11}; somiám mádhu {786,3}. — 3〉 daíviam sáhas {926,6}. <div n='TS'>-ā [<ab>du.</ab>] 3〉 pāṇī́ {317,9}. <div n='TS'>-ās [<ab>m.</ab>] 1〉 pánthās {35,11}; índavas {134,2}. <div n='TS'>-ā [<ab>n.</ab> <ab>p.</ab>] 1〉 vástrā {383,15}. — 2〉 índrasya kárma {264,13}; {266,8}; {268,6}. <div n='TS'>-ā [<ab>f.</ab>] 3〉 kākút {482,2}; síndhus {901,8}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "सुकृत",
+            "eid": "5731",
+            "pagenum": 326,
+            "content": "<i>sukṛta</i>¦ (CII 1), a good deed."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सुकृत",
+            "eid": "4602",
+            "pagenum": 273,
+            "content": "<b>su-kṛtá,</b>¦ <i><ab>n.</ab></i> a good deed, good works, <ls n='lan,63,16'>63<sup>16</sup></ls>; <b>sukṛtásya loká,</b> world of righteousness, <lbinfo n='righteous-ness,'/> <ls n='lan,89,8'>89<sup>8</sup></ls>, <i>modernized substitute for the old</i> <i>phrase</i> <b>sukṛ́tām u loká.</b> [<ls n='wg,1288'>1288</ls> and b: <ab>acct</ab>, <ls n='wg,1284'>1284a</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सुकृत",
+            "eid": "40872",
+            "pagenum": 783,
+            "content": "sukfta¦ <i>(I) a. (f. ता)</i> 1. Done well or properly; 2. well-made, well-constructed; 3. treated with kindness, befriended, assisted; 4. virtuous, pious; 5. fortunate, well-fated."
+        },
+        {
+            "word": "सुकृत",
+            "eid": "40873",
+            "pagenum": 783,
+            "content": "sukfta¦ <i>(II) n.</i> 1. Any good or virtuous act, न क्षुद्रोऽपि प्रथमसुकृतापेक्षया संश्रयाय <ls>Megh.</ls>ii.17; 2. virtue, moral merit, तच्चिंत्यमानं सुकृतं तवेति जहार लज्जां भरतस्य मातुः <ls>R.</ls>xiv.16; 3. fortune, auspiciousness; 4. reward, recompense."
+        }
     ]
 }

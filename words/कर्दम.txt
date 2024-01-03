@@ -61,5 +61,49 @@
             "pagenum": 145,
             "content": "कर्दम¦ <i>kardama</i> <ab>n.</ab> chair."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कर्दम",
+            "eid": "7191",
+            "pagenum": 111,
+            "content": "कर्दम¦ <lex>m.</lex> slime, mud; as <ab>adj.</ab> = <ab>seq.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कर्दम",
+            "eid": "4478",
+            "pagenum": 76,
+            "content": "कर्दम¦ <i>m.</i> Schlamm, Schmutz; <i>auch Adj.</i> schlammig."
+        }
+    ],
+    "INM": [
+        {
+            "word": "कर्दम",
+            "eid": "5417",
+            "pagenum": 383,
+            "content": "<b>Kardama</b><sup>1</sup>,¦ a serpent. § 47 (Sarpanāmak.): I, <b>35</b>, 1561 (enumeration)."
+        },
+        {
+            "word": "कर्दम",
+            "eid": "5418",
+            "pagenum": 383,
+            "content": "<b>Kardama</b><sup>2</sup>,¦ a Prajāpati. § 270 (Brahmasabhāv.): II, <b>11</b>, 437 (in the palace of Brahmán).—§ 641 (Rājadh.): XII, <b>59</b>, 2211 (son of Kīrtimat), 2212 (<i>Prajāpateḥ</i>, father of Anaṅga).—§ 717<i>b</i> (Nārāyaṇīya): XII, <b>335</b>α, 12686 (enumeration of twenty-one Prajāpatis)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कर्दम",
+            "eid": "08471",
+            "pagenum": 171,
+            "content": "kardama¦ <i>(I) m.</i> 1. Mud, slime, सरितः कुर्वती गाधाः पथश्छाश्यानकर्दमान् <ls>R.</ls>iv.24; 2. dirt, filth; 3. sin."
+        },
+        {
+            "word": "कर्दम",
+            "eid": "08472",
+            "pagenum": 171,
+            "content": "kardama¦ <i>(II) n.</i> Flesh."
+        }
     ]
 }

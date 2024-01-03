@@ -25,5 +25,29 @@
             "pagenum": 2,
             "content": "पशुबन्ध¦ Baudh. Bhau Dāji 67. <HI>--by Kamalākara. Cs. 287."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पशुबन्ध",
+            "eid": "18626",
+            "pagenum": 308,
+            "content": "पशुबन्ध/¦ <lex>m.</lex> an animal sacrifice."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पशुबन्ध",
+            "eid": "13896",
+            "pagenum": 246,
+            "content": "पशुबन्ध/¦ <i>m.</i> Tieropfer <i>(eig.</i> fesselung)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "पशुबन्ध",
+            "eid": "2516",
+            "pagenum": 189,
+            "content": "<b>paśu-bandhá,</b>¦ <i><ab>m.</ab></i> animal sacrifice. [‘binding  <lbinfo n='[‘bind-ing'/> of beast’ to sacrificial post.]"
+        }
     ]
 }

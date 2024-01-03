@@ -28,5 +28,65 @@
             "pagenum": 6,
             "content": "अक्षत¦ <i>akṣata</i> <ab>pp.</ab> <i>(kṣaṇ)</i> non endommagé; entier."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अक्षत",
+            "eid": "122",
+            "pagenum": 2,
+            "content": "अ/क्षत¦ <lex>a.</lex> unhurt, unbroken, unhusked (grain)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अक्षत",
+            "eid": "85",
+            "pagenum": 2,
+            "content": "अ/क्षत¦ unverlezt."
+        },
+        {
+            "word": "अक्षत",
+            "eid": "29706",
+            "pagenum": 538,
+            "content": "अ/क्षत¦ <i>auch</i> unenthülst."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अक्षत",
+            "eid": "46",
+            "pagenum": 6,
+            "content": "<b>á-kṣata,</b>¦ <ab>a.</ab>, <i>un-verletzt</i> [kṣatá <ab>Part.</ab> II. von kṣan]. <div n='TS'>-as kumārás {432,9}; ahám {992,2} (neben áriṣṭas)."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अक्षत",
+            "eid": "177",
+            "pagenum": 6,
+            "content": "अक्षत¦ Tatpur. I. m. f. n. (-तः-ता-तम्) <sup>1</sup> Uninjured, unhurt. <sup>2</sup> Unbroken, whole. <div n='P'>II. <sup>1</sup> m. (-तः) A name of Śiva. <sup>2</sup> m. n. (-तः-तम्) A eunuch. <div n='P'>III. f. (-ता) <sup>1</sup> A virgin. <sup>2</sup> A plant, named also Karkaṭaśṛṅgī or Kaṅkaḍaśṛṅgī. <div n='P'>IV. n. and m. pl. (-तम् and -ताः) <sup>1</sup> Fried grain. <sup>2</sup> Whole grain. m. (-तः) <sup>1</sup> Rice after thrashing and winnowing dried in the sun. <sup>2</sup> Barley. <div n='P'>E. अ neg. and क्षत."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अक्षत",
+            "eid": "20",
+            "pagenum": 111,
+            "content": "<b>á-kṣata,</b>¦ <i><ab>a.</ab></i> unhurt, uninjured; unbroken; <i>as <ab>m.</ab> <ab>pl.</ab></i> unbroken <i>or</i> unhusked grains, <i><ab>esp.</ab></i> of barley."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अक्षत",
+            "eid": "00134",
+            "pagenum": 3,
+            "content": "akzata¦ <i>(I) a. (f. ता)</i> Unbroken, uninjured, whole."
+        },
+        {
+            "word": "अक्षत",
+            "eid": "00135",
+            "pagenum": 3,
+            "content": "akzata¦ <i>(II) m.n.</i> 1. An eunuch; 2. (pl.) <i>yava</i> or rice grain; 3. fried grain."
+        }
     ]
 }

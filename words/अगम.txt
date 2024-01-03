@@ -36,5 +36,45 @@
             "pagenum": 7,
             "content": "अगम¦ <i>agama</i> <ab>m.</ab> <i>(gam)</i> arbre. || Mont."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अगम",
+            "eid": "180",
+            "pagenum": 3,
+            "content": "अगम¦ <lex>a.</lex> immovable, inaccessible; <lex>m.</lex> tree."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अगम",
+            "eid": "120",
+            "pagenum": 2,
+            "content": "अगम¦ unbeweglich; <i>m.</i> Berg."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अगम",
+            "eid": "310",
+            "pagenum": 9,
+            "content": "अगम¦ Tatpur. m. (-मः) <sup>1</sup> A mountain. <sup>2</sup> A tree. E. अ neg. and गम. See also अगच्छ, अग and नग."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अगम",
+            "eid": "213",
+            "pagenum": 16,
+            "content": "<b>Agama</b>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अगम",
+            "eid": "00190",
+            "pagenum": 3,
+            "content": "agama¦ <i>m.</i> 1. A mountain; 2. a tree."
+        }
     ]
 }

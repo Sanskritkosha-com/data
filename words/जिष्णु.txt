@@ -85,5 +85,63 @@
             "pagenum": 268,
             "content": "जिष्णु¦ <i>jiṣṇu</i> <ab>a.</ab> <i>(ji;</i> <ab>sfx.</ab> <i>snu)</i> victorieux. || <ab>Ép.</ab> de <s1 slp1='vizRu'>Viṣṇu</s1>, de <s1 slp1='kfzRa'>Kṛṣṇa</s1>, d'<s1 slp1='indra'>Indra</s1>, d'<s1 slp1='arjuna'>Arjuna</s1>. <lbinfo n='5'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "जिष्णु",
+            "eid": "11366",
+            "pagenum": 186,
+            "content": "जिष्णु/¦ <lex>a.</lex> victorious, triumphant, superior, winning, conquering (—°); <lex>m.</lex> <ab>E.</ab> of Viṣṇu or Arjuna; <ab>N.</ab> of <ab>sev.</ab> men."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जिष्णु",
+            "eid": "7730",
+            "pagenum": 137,
+            "content": "जिष्णु/¦ siegreich, überlegen; besiegend <i>(Acc.</i> <i>o. —°)</i> gewinnend (—°)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जिष्णु",
+            "eid": "3513",
+            "pagenum": 490,
+            "content": "<b>jiṣṇú,</b>¦ <ab>a.</ab>, <i>siegreich</i> [von <hom>1.</hom> ji]. <div n='TS'>-o (indra) {486,15}. <div n='TS'>-ús anyás vām (aśvínos) {181,4}; rájasas pátis {551,5}; indras {937,3}. <div n='TS'>-úm bṛ́haspátim {893,9}. <div n='TS'>-únā índreṇa {929,2}. <div n='TS'>-ós rā́jñas {122,15}; dadhikrā́vṇas {335,6}; bṛ́haspátes {336,1}; (índrasya) {396,6}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "जिष्णु",
+            "eid": "4907",
+            "pagenum": 364,
+            "content": "<b>Jiṣṇu</b><sup>1</sup>¦ = Arjuna, q.v."
+        },
+        {
+            "word": "जिष्णु",
+            "eid": "4908",
+            "pagenum": 364,
+            "content": "<b>Jiṣṇu</b><sup>2</sup>¦ = Viṣṇu (Kṛṣṇa): V, 2571 (= Kṛṣṇa, etymology); VI, 2074 (<i>°r Vajrabhṛteva</i>, sc. <i>uktaḥ</i>, only C.; B. has <i>Vi°</i>); VII, 2963 (<i>Viṣṇo</i>, = Kṛṣṇa); VIII, †4060 (<i>Viṣṇoḥ</i>, = Kṛṣṇa); XII, 1503 (<i>Viṣṇo</i>, = Kṛṣṇa), 1602 (<i>Viṣṇuṃ</i>, = Kṛṣṇa); XIII, 7106 (<i>Viṣṇuḥ</i>); XIV, 1085 (<i>Viṣṇuḥ</i>, <i>= mahān ātmā</i>)."
+        },
+        {
+            "word": "जिष्णु",
+            "eid": "4909",
+            "pagenum": 364,
+            "content": "<b>Jiṣṇu</b><sup>3</sup>,¦ a Pāṇḍava warrior. § 608 (Karṇap.): VIII, <b>56</b>νν, 2739 (slain by Karṇa)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "जिष्णु",
+            "eid": "14685",
+            "pagenum": 290,
+            "content": "jizRu¦ <i>(I) a.</i> 1. Victorious, triumphant, <ls>R.</ls>iv.85, x.18; 2. winning; 3. excelling, अलिनीजिष्णुः <ls>Bhartr.</ls>i.6."
+        },
+        {
+            "word": "जिष्णु",
+            "eid": "14686",
+            "pagenum": 290,
+            "content": "jizRu¦ <i>(II) m.</i> 1. The sun; 2. an epithet of Indra; 3. of Vishṇu; 4. of Arjuna."
+        }
     ]
 }

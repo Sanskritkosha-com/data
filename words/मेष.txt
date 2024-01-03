@@ -55,5 +55,51 @@
             "pagenum": 517,
             "content": "मेष¦ <i>meṣa</i> <ab>m.</ab> bélier; || le signe du Bélier. || sorte de drogue. -- <ab>F.</ab> <i>meṣī</i> brebis. -- <ab>F.</ab> <i>meṣā</i> <ab>esp.</ab> de cardamome du Guzarat. || <ab>Cf.</ab> <i>meha, meḍhra.</i>  <P><i>meṣaśṛṅga</i> <ab>m.</ab> sorte de poisson. -- <ab>F.</ab> [<i>ī</i>] <ab>esp.</ab> d'asclepias, <ab>bot.</ab> <ab>(?)</ab>.  <P><i>meṣākṣikusuma</i> <ab>m.</ab> cassia tora, <ab>bot.</ab>  <P><i>mesāṇḍa</i> <ab>m.</ab> <i>(aṇḍa</i> testicule) <s1 slp1='indra'>Indra</s1>.  <P><i>meṣālu</i> <ab>m.</ab> <i>(ālu)</i> ocymum pilosum, <ab>bot.</ab>  <P><i>meṣikā</i> <ab>f.</ab> brebis."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मेष",
+            "eid": "25374",
+            "pagenum": 421,
+            "content": "मेष/¦ <lex>m.</lex> ram, sheep, in Veda also a fleece or anything woollen; <lex>f.</lex> ई/ ewe."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मेष",
+            "eid": "19288",
+            "pagenum": 341,
+            "content": "मेष/¦ <i>m.</i> Schaf bock, Widder; <i>f.</i> रि/ Mutterschaf."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "मेष",
+            "eid": "6960",
+            "pagenum": 1064,
+            "content": "<b>meṣá,</b>¦ <ab>m.</ab>, <i>Widder, Schafbock</i> (<ab>vgl.</ab> <ls>Bugge in Ku. 〔20,1〕</ls>). <div n='TS'>-ás bhūtás {622,40} (índras). <div n='TS'>-ám pī́vānam 〰 apacanta {853,17}; von Indra {51,1}; {52,1}; {706,12}. <div n='TS'>-ā́ya neben mesíe <ab>u. s. w.</ab> {43,6}. <div n='TS'>-ā́s {917,14} neben andern Hausthieren. <div n='TS'>-ā́n śatám {116,16}; {117,17}. _{117,18}. <div n='TS'>-ā́ [<ab>du.</ab>] {932,5} (<chg type='chg' n='186' src='gra'><old><ls>Aufr.</ls></old><new><ls>Text</ls></new></chg> méṣā)."
+        },
+        {
+            "word": "मेष",
+            "eid": "11186",
+            "pagenum": 1745,
+            "content": "1064,22.b <ab>v. u.</ab>: Text <ab>st.</ab> Aufr. <info vn='chg 186 gra'/>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "मेष",
+            "eid": "7307",
+            "pagenum": 479,
+            "content": "<b>Meṣa</b>,¦ a warrior of Skanda. § 615<i>u</i> (Skanda): IX, <b>45</b>η, 2566 (only B., C. has <i>Meṣapravāhaḥ</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मेष",
+            "eid": "30919",
+            "pagenum": 586,
+            "content": "meza¦ <i>m.</i> 1. A ram, a sheep, <ls>M.</ls>xi.136; 2. the sign <i>Aries</i> of the zodiac."
+        }
     ]
 }

@@ -31,5 +31,29 @@
             "pagenum": 400,
             "content": "*पर्द्¦ <i>pard.</i> <i>parde</i> 1; <ab>p.</ab> <i>paparda;</i> <ab>etc.</ab> Péter. || <ab>Gr.</ab> <lang n='greek'>πέρδω</lang>; <ab>lat.</ab> pedo; <ab>lith.</ab> pirdis; <ab>ang.</ab> fart."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पर्द्",
+            "eid": "18493",
+            "pagenum": 305,
+            "content": "पर्द्¦ पर्दते <vlex type='root'/> fart."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पर्द्",
+            "eid": "13777",
+            "pagenum": 244,
+            "content": "पर्द्¦ पर्दते farzen."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पर्द्",
+            "eid": "21615",
+            "pagenum": 423,
+            "content": "pard¦ <i>vi. 1A (pres. पर्दते)</i> To break wind."
+        }
     ]
 }

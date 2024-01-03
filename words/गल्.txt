@@ -49,5 +49,49 @@
             "pagenum": 214,
             "content": "*गल्¦ <i>gal.</i> <i>galāmī</i> 1, et <i>gālaye</i> 10. Tomber, <lbinfo n='4'/> s'échapper: <i>hastebhyas</i> des mains de <ab>qqn.</ab> || Tomber sur, rencontrer, avec lel. || Déchoir; disparaître, s'écouler [en parlant de la vie]."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गल्",
+            "eid": "9362",
+            "pagenum": 150,
+            "content": "गल्¦ गलति <vlex type='root'/> <ab>pp.</ab> गलित (<ab>q.v.</ab>) drip, drop, fall, vanish, pass away. <ab>C.</ab> गालयति cause to drop, liquify, melt, filter, wring out. <div n='p'>— अव & आ drop down. <div n='p'>प्र the same. <div n='p'>वि be dissolved or melted, fall down, pass away, perish. <div n='p'>प्रवि stream forth, cease, vanish. (सम् come forth, break out, rise.*) — Cf. निर्गलित, परिगलित."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गल्",
+            "eid": "6105",
+            "pagenum": 106,
+            "content": "गल्¦ गलति herabträufeln, -fallen, verschwinden. <lbinfo n='10'/> <i>p.p.</i> गलित verschwunden, fehlend. <i>Caus.</i> गालयति durchseihen, auflösen, schmelzen. वि herabfallen, -sinken, zerfließen, zerrinnen. <i>p.p.</i> verflossen, <lbinfo n='8'/> zerronnen."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "गल्",
+            "eid": "1358",
+            "pagenum": 150,
+            "content": "<b>√gal</b>¦ (<b>gálati; galitá</b>). <div n='2'/><b>—1.</b> drip; <div n='2'/><b>—2.</b> fall; galita, fallen out, gone (claws, teeth, eyes). [hence jala, ‘water’: <ab>cf.</ab> <lang n='greek'>√βαλ</lang> in <ab>intrans.</ab> <ab>mg</ab>, <ab>e. g.</ab> <lang n='greek'>ποταμὸς εἰς ἅλα βἀλλων</lang>, ‘river flowing into the sea’; <ab>Ger.</ab> <i>quellen,</i> ‘flow, spring,’ <i>Quelle,</i> ‘fountain.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गल्",
+            "eid": "11901",
+            "pagenum": 238,
+            "content": "gal¦ <i>(I) vi. 1P (pp. गलित)</i> 1. To drop, to ooze, to trickle, अविरलगलद्वाभ्यां तन्वीम् <ls>Bh.V.</ls>ii.21, <ls>Am.S.</ls>91; 2. to fall down, to drop down, प्रतोदा जगलुः <ls>Rt.</ls>xiv.99, xvii.87, <ls>R.</ls>vii.10, <ls>Sis.</ls>ix.75; 3. to vanish, to disappear, to be removed, विद्यां प्रमादगलितामिव चिंतयामि <ls>Ch.P.</ls>1, <ls>R.</ls>iii.70, <ls>Bt.</ls>v.43.<P>With निस्-, to ooze out, to trickle down, <ls>R.</ls>v.17.<P>With पर्या-, to drop down, <ls>Bt.</ls>ii.4.<P>With वि-, 1. to drop down; 2. to ooze, to trickle; 3. to disappear."
+        },
+        {
+            "word": "गल्",
+            "eid": "11902",
+            "pagenum": 238,
+            "content": "gal¦ <i>(II) vt. 1P (pp. गलित)</i> To eat, to swallow."
+        },
+        {
+            "word": "गल्",
+            "eid": "11903",
+            "pagenum": 238,
+            "content": "gal¦ <i>(III) vt. 10A (pp. गालित)</i> 1. To pour out; 2. to filter."
+        }
     ]
 }

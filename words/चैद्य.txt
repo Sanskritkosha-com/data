@@ -28,5 +28,45 @@
             "pagenum": 251,
             "content": "चैद्य¦ <i>caidya</i> <ab>a.</ab> du pays de Tchêdi."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चैद्य",
+            "eid": "10706",
+            "pagenum": 175,
+            "content": "चैद्य/¦ <lex>m.</lex> descendant of Cedi or king of the Cedis."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चैद्य",
+            "eid": "7178",
+            "pagenum": 127,
+            "content": "चैद्य/¦ <i>m. Patron. zu</i> चेदि."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "चैद्य",
+            "eid": "3332",
+            "pagenum": 458,
+            "content": "<b>(caidyá),</b> <b>caidiá,</b>¦ <ab>a.</ab>, <i>das Volk der Cedier</i> [cedí] <i>beherrschend</i>. <div n='TS'>-ás kaśús {625,37}. <div n='TS'>-ásya kṛṣṭáyas {625,38}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "चैद्य",
+            "eid": "1883",
+            "pagenum": 169,
+            "content": "<b>Caidya</b>¦ (“king of the Cedis”): I, 129 (= Śiśupāla, slain by Kṛṣṇa); II, 1523 (= do.), 1589 (= do.), 1636 (= do.); V, 2526 (= do.), 4780 (= Dhṛṣṭaketu); VII, 3049 (= do.), 5047 (= do.); XVI, 158 (= Śiśupāla)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चैद्य",
+            "eid": "13942",
+            "pagenum": 277,
+            "content": "cEdya¦ <i>m.</i> A name of Śiśupāla, अभिचैद्यं प्रतिष्ठासुः <ls>Sis.</ls>ii.1"
+        }
     ]
 }

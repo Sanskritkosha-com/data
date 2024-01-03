@@ -47,5 +47,35 @@
             "pagenum": 702,
             "content": "सहन¦ <i>sahana</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ana)</i> patient, endurant. <lbinfo n='7'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "सहन",
+            "eid": "36224",
+            "pagenum": 607,
+            "content": "सहन¦ <lex>a.</lex> overpowering, mighty, strong; <lex>n.</lex> patient endurance."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सहन",
+            "eid": "27049",
+            "pagenum": 488,
+            "content": "सहन¦ bewältigend; <i>n.</i> geduldiges Ertragen."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सहन",
+            "eid": "40248",
+            "pagenum": 768,
+            "content": "sahana¦ <i>(I) a. (f. ना)</i> Enduring."
+        },
+        {
+            "word": "सहन",
+            "eid": "40249",
+            "pagenum": 768,
+            "content": "sahana¦ <i>(II) n.</i> Bearing, enduring, patience, forbearance."
+        }
     ]
 }

@@ -37,5 +37,45 @@
             "pagenum": 192,
             "content": "*क्री¦ <i>krī.</i> <i>krīṇāmi</i> et <i>krīṇe</i> 9; <ab>p.</ab> <i>cikrāya;</i> <lbinfo n='8'/> <ab>f2.</ab> <i>kreṣyāmi;</i> <ab>a1.</ab> <i>akraiṣiṣam</i> et <i>akreṣi;</i> <ab>pp.</ab> <i>krīta.</i> Acheter, au propre et au <ab>fig.</ab> || <ab>Gr.</ab> <lang n='greek'>πρίαμαι, πέρνημι</lang>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "क्री",
+            "eid": "8671",
+            "pagenum": 137,
+            "content": "क्री¦ क्रीणा/ति & क्रीणीते/ <vlex type='root'/> <ab>pp.</ab> क्रीत/ (<ab>q.v.</ab>) buy, purchase (<ab>w.</ab> <ab>instr.</ab> of price & <ab>acc.</ab> or <ab>gen.</ab> of <ab>pers.</ab>). <div n='p'>— अप = <ab>S.</ab> <div n='p'>अभि buy for a certain purpose. <div n='p'>अव <ab>M.</ab> purchase, hire. <div n='p'>आ & उप buy. <div n='p'>निस् buy off or ransom from (abl); <ab>M.</ab> (±आत्मानम्) buy off one's self. <div n='p'>परि purchase, get by exchange; hire, obtain (*w. <ab>dat.</ab> or <ab>instr.</ab> of price). <div n='p'>वि exchange or sell for (<ab>instr.</ab>). <div n='p'>सम् = <ab>S.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "क्री",
+            "eid": "5570",
+            "pagenum": 95,
+            "content": "क्री¦ क्रीणा/ति <i>u.</i> क्रीणीते/ kaufen, durch Kauf erwerben um <i>(Instr.)</i> von <i>(Gen.</i> <i>o. Abl). p.p.</i> क्रीत/ gekauft, erkauft <i>(Sohn; auch</i> क्रीतक)। निस् lokaufen, von <i>(Abl.)</i> परि erkaufen, dingen, mieten, *um <i>(Dat. o. Instr.)</i> वि eintauschen <lbinfo n='8'/> gegen, verkaufen für <i>(Instr.)</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "क्री",
+            "eid": "2756",
+            "pagenum": 359,
+            "content": "<b>√krī,</b>¦ <i>kaufen</i> [wol aus kṛ, „handeln“ weitergebildet]. — Mit <b>vi,</b> <i>einen Handel machen</i>. <div n='H'>Stamm <b>krīṇā</b> (schwach krīṇī): <div n='TS'>-āti: Wer kauft diesen meinen Indra für zehn Kühe [<ab>Instr.</ab>] {320,10}. <div n='H'><ab>Part.</ab> <b>krīta:</b> <div n='TS'>(-as) <b>ví</b> enthalten in á-vikrītas."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "क्री",
+            "eid": "1243",
+            "pagenum": 145,
+            "content": "<b>√krī</b>¦ (<b>krīṇā́ti, krīṇīté; kreṣyáti; krītá;</b> <b>krétum; krītvā́; -krī́ya</b>). buy, <i><ab>w.</ab> <ab>instr.</ab></i> [<ls n='wg,281'>281b</ls>] <i>of price.</i> [perhaps akin <ab>w.</ab> <b>√1kṛ,</b> and so meaning ‘do business, trade.’] <div n='p'/><b>+ upa,</b> buy. <div n='p'/><b>+ vi,</b> sell; sell for (<i><ab>instr.</ab></i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "क्री",
+            "eid": "10696",
+            "pagenum": 215,
+            "content": "krI¦ <i>vt. 9U (pp. क्रीत)</i> 1. To buy, to purchase, महता पुण्यपण्येन क्रीतेयं कायनौस्त्वया <ls>Sant.S.</ls>iii.1, क्रयक्रीतं च मैथुनम् <ls>Hit.</ls>i., <ls>M.</ls>viii.222; 2. to barter, to exchange, e.g. कच्चित्सहस्रैर्मूर्खाणामेकं क्रीणाति पंडितम्.<P>With आ-, to buy.<P>With निस्-, to buy off, to redeem.<P>With परि-, 1. (in the Atm.) to buy, संभोगाय परिक्रीतः कर्तास्मि तव नाप्रियम् <ls>Bt.</ls>viii.72; 2. to hire, to purchase for a time, (with inst. or dat.), शतेन शताय वा परिक्रीतः <ls>S.K.</ls>; 3. return, to repay, क्रेतेनापकृतं वायोः परिक्रीणानमुत्थितम् <ls>Bt.</ls>viii.8.<P>With वि-, 1. to sell (in the Atm.) काचमूल्येन विक्रीतो हंत चिंतामणिर्मया <ls>Sant.S.</ls>i.12, <ls>M.</ls>viii.222; 2. to barter, to exchauge, ना कस्माच्छांडिलीमाता विक्रीणाति तिलैस्तिलान् <ls>Panch.</ls>ii."
+        }
     ]
 }

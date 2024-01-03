@@ -7,5 +7,29 @@
             "pagenum": 320,
             "content": "दिप्सु¦ <i>dipsu</i> <ab>a.</ab> (<ab>dés.</ab> de <i>dambh)</i> qui veut nuire."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दिप्सु",
+            "eid": "13703",
+            "pagenum": 225,
+            "content": "दिप्सु/¦ <lex>a.</lex> wishing to harm."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दिप्सु",
+            "eid": "9735",
+            "pagenum": 173,
+            "content": "दिप्सु/¦ schädigen wollend."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दिप्सु",
+            "eid": "4227",
+            "pagenum": 600,
+            "content": "<b>dipsú,</b>¦ <ab>a.</ab>, <i>schaden wollend</i> [vom <ab>Desid.</ab> von dabh]. <div n='TS'>-ávas {25,14}; {620,20}."
+        }
     ]
 }

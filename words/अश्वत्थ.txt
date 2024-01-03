@@ -52,5 +52,57 @@
             "pagenum": 60,
             "content": "अश्वत्थ¦ <i>aśvattha</i> <ab>m.</ab> ficus religiosa, <ab>bot.</ab>  <P><i>aśvatthaguha</i> <ab>a.</ab> <i>(guh)</i> <ab>Vd.</ab> qui se cache dans l'<s1 slp1='aSvatTa'>aśvattha</s1>, <ab>ép.</ab> du feu. -- <i>aśvatthaguhā</i> <lbinfo n='6'/> <ab>f.</ab> <ab>Vd.</ab> la cachette de l'<s1 slp1='aSvatTa'>aśvattha</s1>.  <P><i>aśvatthāman</i> <ab>m.</ab> <ab>np.</ab> du fils de <i>droṇa.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अश्वत्थ",
+            "eid": "3553",
+            "pagenum": 51,
+            "content": "अश्वत्थ/¦ <lex>m.</lex> the holy fig-tree."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अश्वत्थ",
+            "eid": "2238",
+            "pagenum": 34,
+            "content": "अश्वत्थ/¦ <i>m.</i> der heilige Feigenbaum."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अश्वत्थ",
+            "eid": "1257",
+            "pagenum": 141,
+            "content": "<b>aśvatthá,</b>¦ <ab>m.</ab>, der <i>Feigenbaum,</i> Ficus religiosa <ab>L.</ab>; für aśva-sthá, also als Standort der Rosse bezeichnet [<ls>Ku. 〔1,467〕</ls>]. Bildlich wird es für das aus dem Holze dieses Baumes verfertigte Somagefäss gebraucht ({135,8}). <div n='TS'>-ám {135,8}. <div n='TS'>-é {923,5}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अश्वत्थ",
+            "eid": "115",
+            "pagenum": 9,
+            "content": "<b>Aśvattha</b><sup>1</sup>,¦ one of the 108 names of the Sun in the enumeration of Dhaumya. § 310 (Āraṇyakap., cf. Sūrya): III, <b>3</b>, 156."
+        },
+        {
+            "word": "अश्वत्थ",
+            "eid": "116",
+            "pagenum": 9,
+            "content": "<b>Aśvattha</b><sup>2</sup>¦ = Śiva (1000 names<sup>2</sup>)."
+        },
+        {
+            "word": "अश्वत्थ",
+            "eid": "117",
+            "pagenum": 9,
+            "content": "<b>Aśvattha</b><sup>3</sup>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अश्वत्थ",
+            "eid": "04235",
+            "pagenum": 82,
+            "content": "aSvatTa¦ <i>m.</i> The holy fig-tree, सीमावृक्षांश्च कुर्वीतन्यग्रोधाश्चत्थाकिंशुकान् <ls>M.</ls>viii.246."
+        }
     ]
 }

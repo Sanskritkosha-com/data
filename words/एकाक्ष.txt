@@ -7,5 +7,61 @@
             "pagenum": 125,
             "content": "एकाक्ष¦ <i>ekākṣa</i> <ab>a.</ab> <i>(akṣa</i> œil) qui n'a qu'un œil. -- <ab>S.</ab> <ab>m.</ab> corneille."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एकाक्ष",
+            "eid": "6471",
+            "pagenum": 100,
+            "content": "1 एकाक्ष¦ <lex>a.</lex> having only one axle."
+        },
+        {
+            "word": "एकाक्ष",
+            "eid": "6472",
+            "pagenum": 100,
+            "content": "2 एकाक्ष¦ <lex>a.</lex> one-eyed."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एकाक्ष",
+            "eid": "3991",
+            "pagenum": 66,
+            "content": "एकाक्ष¦ einachsig; einäugig."
+        }
+    ],
+    "INM": [
+        {
+            "word": "एकाक्ष",
+            "eid": "3880",
+            "pagenum": 285,
+            "content": "<b>Ekākṣa</b><sup>1</sup>,¦ an Asura. § 93 (Aṃśāvat.): I, <b>65</b>, 2537 (son of Danu)."
+        },
+        {
+            "word": "एकाक्ष",
+            "eid": "3881",
+            "pagenum": 285,
+            "content": "<b>Ekākṣa</b><sup>2</sup>,¦ a warrior of Skanda. § 615<i>u</i> (Skanda): IX, <b>45</b>η, 2560."
+        },
+        {
+            "word": "एकाक्ष",
+            "eid": "3882",
+            "pagenum": 285,
+            "content": "<b>Ekākṣa</b><sup>3</sup>¦ = Śiva: XIII, 7503."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "एकाक्ष",
+            "eid": "07354",
+            "pagenum": 152,
+            "content": "eka-akza¦ <i>(I) a.</i> 1. having only one axle; 2. having one eye."
+        },
+        {
+            "word": "एकाक्ष",
+            "eid": "07355",
+            "pagenum": 152,
+            "content": "eka-akza¦ <i>(II) m.</i> a crow."
+        }
     ]
 }

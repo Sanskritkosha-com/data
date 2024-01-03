@@ -37,5 +37,35 @@
             "pagenum": 3,
             "content": "देवेश्वर¦ son of Vāgbhaṭa: <HI1>Candrakalāpa alaṃk."
         }
+    ],
+    "CAE": [
+        {
+            "word": "देवेश्वर",
+            "eid": "14544",
+            "pagenum": 238,
+            "content": "देवेश्वर¦ <lex>m.</lex> lord of the gods (Śiva)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "देवेश्वर",
+            "eid": "10404",
+            "pagenum": 184,
+            "content": "देवेश्वर¦ <i>m. dass. (Bein. Śiva's).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "देवेश्वर",
+            "eid": "3330",
+            "pagenum": 239,
+            "content": "<b>Deveśvara</b><sup>1</sup>¦ = Śiva: VIII, 1469."
+        },
+        {
+            "word": "देवेश्वर",
+            "eid": "3331",
+            "pagenum": 240,
+            "content": "<b>Deveśvara</b><sup>2</sup>¦ = Indra: II, 286, 1800 (<i>?, yathā</i>); III, †10257, 17192; VII, 9053 (<i>yathā</i>); XII, 12205 (<i>Śakraḥ</i>)."
+        }
     ]
 }

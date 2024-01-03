@@ -23,5 +23,53 @@
             "pagenum": 412,
             "content": "<b>bhautika</b>¦, (<lex>adj.</lex>?) <lex>subst.</lex> <lex>nt.</lex> (<ab>cf.</ab> <lang>Skt.</lang> <ab>id.</ab>; here in specialized <ab>mgs.</ab>), (<b>1</b>) possibly <lex>adj.</lex>, <i>real</i> or <i>material</i>, in <ls>Laṅk</ls> 〔17.5〕, but the reading is very doubtful and the sense at least equally so, see <ab>s.v.</ab> <b>abhauti</b> and below; (<b>2</b>) <lex>subst.</lex> <lex>nt.</lex>, <i>object of sense</i>: in <ls>Dharmas</ls> 〔40〕 = viṣaya or indriyārtha (five are listed: rūpa, śabda, gandha, rasa, and sparśa, corresponding, <ab>tho</ab> in different order, to the five mahābhūtāni listed in 39 just before). <ab>Acc.</ab> to <ls>Suzukiʼs Index to Laṅk</ls>, the <lang>Chin.</lang> versions of <ls>Laṅk</ls> indicate bhautika = <i>the</i> [Page413-a] <i>4 viṣaya</i> or <i>color, odor, flavor, contact</i> (note omission of <i>sound</i>, and the fact that in <ls>Laṅk</ls> 〔124.8〕 ākāśa is added only parenthetically; <ab>cf.</ab> the 4 dhātu of <lang>Pali</lang>, paṭhavī-, āpo-, tejo-, vāyo-dhātu, <ls>Childers</ls>, <ab>s.v.</ab>); in <ls>Laṅk</ls> 〔205.10〕 (omit bhūta-with 2 <ab>mss.</ab>) bhautika-svalakṣaṇa-vināśānupalabdhir, evidently <i>products of the bhūtāni</i>, presumably as in <ls>Dharmas</ls> 〔40〕. The passage <ls>Laṅk</ls> 〔123.11—124.16〕 must, it seems, somehow be interpreted in the light of these passages, but is obscure to me (<ab>cf.</ab> also <ls>Laṅk</ls> 〔355.1〕). <ls>Suzuki</ls> is not very helpful on it; <ab>e.g.</ab> 〔124.13〕 na tu mahābhūtānām certainly cannot mean <i>which</i> (primary elements) <i>are non-existent</i>, but rather: (the mahābhūtāni are the causes of the bhautikāni), <i>but not</i> (the bhautikāni) <i>of the mahābhūtāni</i>, <ab>i.e.</ab> <i>but not <lat>vice versa</lat></i>. In <ls>Mvy</ls> 〔1847〕 bhautika-rūpam appears to be parallel and complementary to 〔1846〕 <b>upādāya-rūpam</b>, <ab>q.v.</ab>; this suggests that bhautikarūpam = <lang>Pali</lang> bhūta-rūpa (<ls>Childers</ls> and <ls>PTSD</ls> <ab>s.v.</ab> rūpa), which <ab>acc.</ab> to <ls>Vism.</ls> = the four mahābhūtāni, earth, water, fire, and air (listed <ls>Mvy</ls> 〔1838—1841〕), contrary to <ls>Dharmas</ls> and the <lang>Chin.</lang> as cited by <ls>Suzuki</ls>, above; for the viṣayas are included among the 24 upādā(ya)-rūpa of <lang>Pali</lang>. On the basis of <ls>Mvy</ls> 〔1846—7〕 we might conjecture that in <ls>Laṅk</ls> 〔17.5〕 (see <b>abhauti</b>) abhautika = upādāya(-rūpam), and bhautika = bhautika (<lang>Pali</lang> bhūta)-rūpam. But if <ls>Dharmas</ls> and <lang>Chin.</lang> are right, bhautika would mean virtually the opposite of <lang>Pali</lang> bhūta(-rūpa)."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भौतिक",
+            "eid": "23310",
+            "pagenum": 387,
+            "content": "1 भौतिक¦ <lex>a.</lex> = <ab>prec.</ab> <ab>adj.</ab>"
+        },
+        {
+            "word": "भौतिक",
+            "eid": "23311",
+            "pagenum": 387,
+            "content": "2 भौतिक¦ <lex>m.</lex> <ab>E.</ab> of Śiva; a class of monks."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भौतिक",
+            "eid": "17688",
+            "pagenum": 312,
+            "content": "1. भौतिक¦ = <i>vor. Adj.</i>"
+        },
+        {
+            "word": "भौतिक",
+            "eid": "17689",
+            "pagenum": 312,
+            "content": "2. भौतिक¦ <i>m. Bein. Śiva's</i>; Art Mönch."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भौतिक",
+            "eid": "28083",
+            "pagenum": 538,
+            "content": "BOtika¦ <i>(I) a. (f. की)</i> 1. Relating to living beings, <ls>M.</ls>iii.74; 2. relating to evil spirits; 3. elemental, material, पिंडेष्वनास्था खलु भौतिकेषु <ls>R.</ls>ii.57."
+        },
+        {
+            "word": "भौतिक",
+            "eid": "28084",
+            "pagenum": 538,
+            "content": "BOtika¦ <i>(II) m.</i> An epithet of Śiva."
+        },
+        {
+            "word": "भौतिक",
+            "eid": "28085",
+            "pagenum": 538,
+            "content": "BOtika¦ <i>(III) n.</i> A pearl."
+        }
     ]
 }

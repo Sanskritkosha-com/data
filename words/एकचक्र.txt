@@ -13,5 +13,51 @@
             "pagenum": 2,
             "content": "एकचक्र¦ vaid. Oudh XXI, 10. XXII, 4."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एकचक्र",
+            "eid": "6356",
+            "pagenum": 99,
+            "content": "ए/कचक्र¦ <lex>a.</lex> having (only) one wheel."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एकचक्र",
+            "eid": "3917",
+            "pagenum": 65,
+            "content": "ए/कचक्र¦ einrädrig."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "एकचक्र",
+            "eid": "2276",
+            "pagenum": 296,
+            "content": "<b>éka-cakra,</b>¦ <ab>a.</ab>, <i>einräderig</i> [cakrá, Rad]. <div n='TS'>-am {164,2} rátham."
+        }
+    ],
+    "INM": [
+        {
+            "word": "एकचक्र",
+            "eid": "3872",
+            "pagenum": 284,
+            "content": "<b>Ekacakra</b>,¦ an Asura. § 92 (Aṃśāvat.): I, <b>65</b>, 2533 (son of Danu).—§ 130 (do.): I, <b>67</b>, 2657 (<i>mahāsuraḥ</i>, incarnate as king Prativindhya)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "एकचक्र",
+            "eid": "07386",
+            "pagenum": 152,
+            "content": "eka-cakra¦ <i>(I) a.</i> 1. having only one wheel; 2. governed by only one king."
+        },
+        {
+            "word": "एकचक्र",
+            "eid": "07387",
+            "pagenum": 152,
+            "content": "eka-cakra¦ <i>(II) m.</i> the chariot of the Sun."
+        }
     ]
 }

@@ -49,5 +49,75 @@
             "pagenum": 641,
             "content": "*शस्¦ <i>śas.</i> <i>śasāmi</i> 2. Dormir; <ab>cf.</ab> <i>sas.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "शस्",
+            "eid": "32117",
+            "pagenum": 541,
+            "content": "शस्¦ श/सति शस्ति & शास्ति <vlex type='root'/> <ab>pp.</ab> शस्त cut to pieces, slaughter. <div n='p'>— वि = <ab>S.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शस्",
+            "eid": "24331",
+            "pagenum": 439,
+            "content": "शस्,¦ श/सति, शस्ति <i>u.</i> शस्ति schneiden, schlachten; <i>p. p.</i> शस्त। वि <i>dass.</i>, zerschneiden, <lbinfo n='10'/> zerlegen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "शस्",
+            "eid": "8722",
+            "pagenum": 1388,
+            "content": "<hom>1.</hom> <b>√śas,</b>¦ Grundbegriff etwa „schneiden“, daher „schlachten“. Mit ā́ in āśásana, mit <b>ví</b> <i>zerschneiden, zertheilen, zerlegen</i> das getödtete Opferthier [<ab>A.</ab>]; <ab>vgl.</ab> viśastṛ́, viśásana. <div n='Pf'><chg type='del' n='83' src='gra'><old>Mit <b>sám</b> jemandem [<ab>Ab.</ab> <ab n='mit'>m.</ab> ā́] etwas [<ab>A.</ab>] <i>zutheilen</i>.</old></chg> <div n='H'>Stamm <b>śas:</b> <div n='TS'>-sta [<pe>2.</pe> <ab>p.</ab>] <b>ví</b> párus-parus {162,18}.<chg type='del' n='84' src='gra'><old> — <b>sám</b> rayím áśvam carṣaṇíbhyas ā́ {333,8}.</old></chg>"
+        },
+        {
+            "word": "शस्",
+            "eid": "8723",
+            "pagenum": 1388,
+            "content": "<hom>2.</hom> <b>√śas</b>¦ = śaṃs siehe dort."
+        },
+        {
+            "word": "शस्",
+            "eid": "11355",
+            "pagenum": 1748,
+            "content": "1388,7. 6 <ab>v. u.</ab>: * <info vn='del 83 gra'/>"
+        },
+        {
+            "word": "शस्",
+            "eid": "11356",
+            "pagenum": 1748,
+            "content": "1388,4. 3 <ab>v. u.</ab>: sám bis 8. <info vn='del 84 gra'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "शस्",
+            "eid": "4156",
+            "pagenum": 257,
+            "content": "<b>√śas</b>¦ (<b>śásati; śaśā́sa; śasiṣyáti; śastá;</b> <b>-śásya</b>). cut to pieces; slaughter. [see <b>śastra.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शस्",
+            "eid": "37342",
+            "pagenum": 712,
+            "content": "Sas¦ <i>(I) vt. 1P (pres. शसति)</i> To kill, to destroy.<P>With वि-, to kill."
+        },
+        {
+            "word": "शस्",
+            "eid": "37343",
+            "pagenum": 712,
+            "content": "Sas¦ <i>(II) vt. 1A (pres. शंसते)</i> To confer blessings. (This root is generally used with आ)."
+        },
+        {
+            "word": "शस्",
+            "eid": "37344",
+            "pagenum": 712,
+            "content": "Sas¦ <i>(III) vi. 2P (pres. शस्ति)</i> To sleep."
+        }
     ]
 }

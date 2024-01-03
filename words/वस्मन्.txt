@@ -7,5 +7,47 @@
             "pagenum": 954,
             "content": "वस्मन्¦ <i><ab>n.</ab></i> <ab>Ved.</ab> <b>1</b> A garment. <b>--2</b> An abode."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वस्मन्",
+            "eid": "28598",
+            "pagenum": 480,
+            "content": "1 व/स्मन्¦ <lex>n.</lex> cover."
+        },
+        {
+            "word": "वस्मन्",
+            "eid": "28599",
+            "pagenum": 480,
+            "content": "2 व/स्मन्¦ <lex>n.</lex> nest."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वस्मन्",
+            "eid": "21706",
+            "pagenum": 393,
+            "content": "1. व/स्मन्¦ <i>n.</i> Decke."
+        },
+        {
+            "word": "वस्मन्",
+            "eid": "21707",
+            "pagenum": 393,
+            "content": "2. व/स्मन्¦ <i>n.</i> Nest."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वस्मन्",
+            "eid": "7829",
+            "pagenum": 1239,
+            "content": "<hom>1.</hom> <b>vásman,</b>¦ <ab>n.</ab>, <i>Gewand, Decke</i> [von <hom>2.</hom> vas]. <div n='TS'>-a {309,4} avavyáyan ásitam ‥ 〰."
+        },
+        {
+            "word": "वस्मन्",
+            "eid": "7830",
+            "pagenum": 1239,
+            "content": "<hom>2.</hom> <b>vásman,</b>¦ <ab>n.</ab>, <i>Nest</i> [von <hom>3.</hom> vas]. <div n='TS'>-anas [<ab>Ab.</ab>] {222,1} prá yád váyas ná páptan 〰 pári."
+        }
     ]
 }

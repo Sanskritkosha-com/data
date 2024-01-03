@@ -39,5 +39,43 @@
             "pagenum": 9,
             "content": "अग्रेसर¦ <i>agresara</i> <ab>m.</ab> <i>(sṛ)</i> celui qui va devant, chef, guide."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अग्रेसर",
+            "eid": "276",
+            "pagenum": 5,
+            "content": "अग्रेसर¦ <lex>f.</lex> ई preceding, going first."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अग्रेसर",
+            "eid": "182",
+            "pagenum": 3,
+            "content": "अग्रेसर¦ <i>f.</i> रि vorangehend."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अग्रेसर",
+            "eid": "555",
+            "pagenum": 16,
+            "content": "अग्रेसर¦ Tatpur. I. m. f. n. (-रः-रा or -री-रम्) Preceding, going before. <div n='P'>II. m. (-रः) A leader. E. अग्र (loc.) and सर."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अग्रेसर",
+            "eid": "00310",
+            "pagenum": 5,
+            "content": "agre-sara¦ <i>(I) a.</i> going in front."
+        },
+        {
+            "word": "अग्रेसर",
+            "eid": "00311",
+            "pagenum": 5,
+            "content": "agre-sara¦ <i>(II) m.</i> a leader."
+        }
     ]
 }

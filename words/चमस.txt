@@ -39,5 +39,59 @@
             "pagenum": 239,
             "content": "चमस¦ <i>camasa</i> <ab>m.</ab> <i>(cam)</i> vase sacré, en forme de cuiller, pour boire le <s1 slp1='soma'>soma</s1>. || Mollugo pentaphylla, <ab>esp.</ab> de gaillet, bot, || Sorte de gâteau sucré."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चमस",
+            "eid": "10332",
+            "pagenum": 168,
+            "content": "चमस/¦ <lex>m.</lex> vessel for drinking, a wooden cup."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चमस",
+            "eid": "6866",
+            "pagenum": 120,
+            "content": "चमस/¦ <i>m.</i> Trinkschale, Becher."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "चमस",
+            "eid": "3237",
+            "pagenum": 436,
+            "content": "<b>camasá,</b>¦ <ab>m.</ab>, <i>Trinkschale, Becher</i> von Holz ({894,8}), als das, woraus die Götter schlürfen [cam]. <ab>Adj.</ab> ádridugdha, indrapā́na, camūṣád, cáturvaya, devápāna, náva, níṣkṛta. [Page437] <div n='TS'>-ás {331,4}; {842,8}; {927,8}. <div n='TS'>-ám {20,6}; {110,3}; {161,1}. _{161,2}. _{161,5}; {331,2}. _{331,3}. _{331,5}; {332,4}; {842,8}; {894,8}. <div n='TS'>-é {922,9}. <div n='TS'>-ā́ [<ab>d.</ab>] {329,5}. <div n='TS'>-ā́s {54,9}. <div n='TS'>-ā́n {161,4}. _{161,9}; {294,2}; {329,6}; {851,4}."
+        },
+        {
+            "word": "चमस",
+            "eid": "12337",
+            "pagenum": 1761,
+            "content": "<b>camasá:</b>¦<info vn='add 305 gra'/> <div n='TS'>-éṣu {691,7}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "चमस",
+            "eid": "1931",
+            "pagenum": 171,
+            "content": "<b>Camasa</b>¦ (= Camasodbheda), a tīrtha. § 360 (Tīrthayātrāp.): III, <b>82</b>, 5053 (where Sarasvatī reappears)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "चमस",
+            "eid": "1480",
+            "pagenum": 154,
+            "content": "<b>camasá,</b>¦ <i><ab>m.</ab></i> beaker; cup, made of wood, square, and with handle. [<b>√cam,</b> cf <ls n='wg,1197'>1197.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चमस",
+            "eid": "13365",
+            "pagenum": 266,
+            "content": "camasa¦ <i>m.n.</i> A vessel used at sacrifices for drinking the juice of <i>Soma</i>, <ls>M.</ls>v.116. (Also चमसी.)"
+        }
     ]
 }

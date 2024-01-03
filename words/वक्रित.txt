@@ -7,5 +7,27 @@
             "pagenum": 937,
             "content": "वक्रित¦ <i><ab>a.</ab></i> Bent, crooked."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वक्रित",
+            "eid": "27870",
+            "pagenum": 467,
+            "content": "वक्रित¦ <lex>a.</lex> crooked, bent."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वक्रित",
+            "eid": "21132",
+            "pagenum": 379,
+            "content": "वक्रित¦ gekrümmt, gebogen."
+        },
+        {
+            "word": "वक्रित",
+            "eid": "21135",
+            "pagenum": 379,
+            "content": "वक्रित¦ gekrümmt, gebogen."
+        }
     ]
 }

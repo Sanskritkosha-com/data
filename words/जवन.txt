@@ -68,5 +68,57 @@
             "pagenum": 263,
             "content": "जवन¦ <i>javana</i> <ab>m.</ab> <ab>np.</ab> de pays, <ab>cf.</ab> <i>yavana.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "जवन",
+            "eid": "11190",
+            "pagenum": 183,
+            "content": "ज/वन¦ <lex>f.</lex> ई impelling; quick, swift; <lex>n.</lex> = <ab>prec.</ab> <lex>m.</lex>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जवन",
+            "eid": "7579",
+            "pagenum": 134,
+            "content": "ज/वन¦ <i>f.</i> ई treibend; eilig, rasch; <i>n.</i> Raschheit, <lbinfo n='5'/> Hast."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जवन",
+            "eid": "3454",
+            "pagenum": 481,
+            "content": "<b>jávana,</b>¦ <ab>a.</ab> [von jū], <i>treibend, anregend,</i> vom Liede. <div n='TS'>-ī [<ab>N.</ab> <ab>s.</ab> <ab>f.</ab>] sūnṛ́tā {51,2}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "जवन",
+            "eid": "4850",
+            "pagenum": 357,
+            "content": "<b>Javana</b>,¦ a warrior of Skanda. § 615<i>u</i> (Skanda): IX, <b>45</b>η, 2577."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "जवन",
+            "eid": "14521",
+            "pagenum": 287,
+            "content": "javana¦ <i>(I) a. (f. नी)</i> Quick, swift, fleet."
+        },
+        {
+            "word": "जवन",
+            "eid": "14522",
+            "pagenum": 287,
+            "content": "javana¦ <i>(II) m.</i> A courser, a swift horse."
+        },
+        {
+            "word": "जवन",
+            "eid": "14523",
+            "pagenum": 287,
+            "content": "javana¦ <i>(III) n.</i> Speed, velocity."
+        }
     ]
 }

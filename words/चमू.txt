@@ -55,5 +55,49 @@
             "pagenum": 239,
             "content": "चमू¦ <i>camū</i> <ab>f.</ab> <i>(cam)</i> le vase appelé <i>camasa,</i> <lbinfo n='5'/> <ab>Vd.</ab> || Corps d'armée; armée."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चमू",
+            "eid": "10333",
+            "pagenum": 168,
+            "content": "चमू/¦ <lex>f.</lex> the bottom of the Soma-press; squadron, army."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चमू",
+            "eid": "6867",
+            "pagenum": 120,
+            "content": "चमू/¦ <i>f.</i> Boden der Somapresse, Schüssel, Schale; Heer <i>(von best. Größe).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "चमू",
+            "eid": "3238",
+            "pagenum": 437,
+            "content": "<b>camū́,</b>¦ <ab>f.</ab>, <i>Schüssel, Schale,</i> ursprünglich wol <i>Trinkschale</i> [von cam]; von dem Gefäss, in welches der Soma aus der Presse oder aber aus der Seihe abfliesst; häufig von einem Paar solcher Gefässe. — <ab>Adj.</ab> súpūrṇa. <div n='TS'>-úi [<ab>L.</ab>] {917,15}. <div n='TS'>-ū́ [<ab>dass.</ab>] {405,4}; {624,4}; {685,10}; {758,3}; {819,18}; {850,1}. <div n='TS'>-úā [<ab>d.</ab>] {289,20} samīcī́. <div n='TS'>-úos {28,9}; {164,33}; {314,3}; {498,2}; {748,1}; {783,1}; {784,5}; {798,47}; {808,20}; {809,2}. _{809,48}; {815,4}; {819,10}; <chg type='chg' n='105' src='gra'><old>{820,6}</old><new>{820,10}</new></chg>. <div n='TS'>-vòs {808,21}. <div n='TS'>-úas [<ab>N.</ab> <ab>p.</ab>] {622,8}. <div n='TS'>-ū́ṣu {282,4}; {691,7}. _{691,8}; {732,6}; {774,16}; {775,2}; {804,2}; {805,3}; {809,21}. _{809,37}. _{809,46}; {811,6}. _{811,8}."
+        },
+        {
+            "word": "चमू",
+            "eid": "11105",
+            "pagenum": 1743,
+            "content": "437,12.b: {820,10} <ab>st.</ab> {820,6} <info vn='chg 105 gra'/>"
+        },
+        {
+            "word": "चमू",
+            "eid": "12338",
+            "pagenum": 1761,
+            "content": "<b>camū́:</b>¦<info vn='add 306 gra'/> <div n='TS'>-úos {781,5}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चमू",
+            "eid": "13366",
+            "pagenum": 266,
+            "content": "camU¦ <i>f.</i> 1. An army in general, गजवती जवतीवहया चमूः <ls>R.</ls>x.10, वासवीनां चमूनाम् <ls>Megh.</ls>i.43; 2. a division of an army consisting of 729 elephants, as many cars, 2187 horse and 3645 foot."
+        }
     ]
 }

@@ -36,5 +36,43 @@
             "pagenum": 523,
             "content": "यव्य¦ <i>yavya</i> <ab>a.</ab> <i>(yava;</i> <ab>sfx.</ab> <i>ya)</i> ensemencé d'orge."
         }
+    ],
+    "CAE": [
+        {
+            "word": "यव्य",
+            "eid": "25901",
+            "pagenum": 430,
+            "content": "1 य/व्य¦ <lex>m.</lex> a stock of barley or corn <ab>i.g.</ab>"
+        },
+        {
+            "word": "यव्य",
+            "eid": "25902",
+            "pagenum": 430,
+            "content": "2 यव्य/¦ <lex>m.</lex> a month."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "यव्य",
+            "eid": "19680",
+            "pagenum": 348,
+            "content": "य/व्य¦ <i>m.</i> Gersten- <i>o.</i> Fruchtvorrat."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "यव्य",
+            "eid": "7078",
+            "pagenum": 1099,
+            "content": "<b>(yávya),</b> <b>yávia,</b>¦ <ab>n.</ab>, <i>Getreidevorrath</i> [von yáva]. <div n='TS'>-am {140,13} neben gávyam."
+        }
+    ],
+    "INM": [
+        {
+            "word": "यव्य",
+            "eid": "12605",
+            "pagenum": 773,
+            "content": "<b>Yavya</b>,¦ pl. (<i>°āḥ</i>), a kind of ṛṣis: XII, 6143 (only C., B. reads <i>somavāyavyāḥ</i> instead of <i>somapā yavyāḥ</i>)."
+        }
     ]
 }

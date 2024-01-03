@@ -15,5 +15,61 @@
             "pagenum": 900,
             "content": "वेदस्¦ <i>vedas,</i> <ab>i. e.</ab> <i>vid + as,</i> <b>I.</b> <ab>m.</ab> The Vedas collectively. <b>II.</b> <ab>n.</ab> Wealth, <ls>Lass.</ls> 100, 5 = <ls>Rigv.</ls> vii. 15, 3. <b> -- <ab>Comp.</ab></b> <i>Viśva-,</i> <ab>adj.</ab> and sbst. one who knows all things, <ls>Chr.</ls> 290, 8 = <ls>Rigv.</ls> i. 64, 8; a sage. <i>Sarva-,</i> <ab>m.</ab> a man who, at the conclusion of the <i>viśvajit</i> sacrifice, divides all his property amongst the priests."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वेदस्",
+            "eid": "30965",
+            "pagenum": 522,
+            "content": "1 वे/दस्¦ <lex>n.</lex> knowledge."
+        },
+        {
+            "word": "वेदस्",
+            "eid": "30966",
+            "pagenum": 522,
+            "content": "2 वे/दस्¦ <lex>n.</lex> wealth, property."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वेदस्",
+            "eid": "23460",
+            "pagenum": 424,
+            "content": "1. वे/दस्¦ <i>n.</i> Erkenntnis."
+        },
+        {
+            "word": "वेदस्",
+            "eid": "23461",
+            "pagenum": 424,
+            "content": "2. वे/दस्¦ <i>n.</i> Habe, Gut."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वेदस्",
+            "eid": "8460",
+            "pagenum": 1353,
+            "content": "<hom>1.</hom> <b>védas,</b>¦ <ab>n.</ab>, <i>Habe, Besitz</i> mit <ab>Gen.</ab> des Besitzers [von <hom>1.</hom> vid], auch 2〉 ohne <ab>Gen.</ab> — <ab>Vgl.</ab> ánaṣṭa-, ketá-, viśvá-, sá-vedas. <div n='TS'>-as pitúr {70,10}; téṣām {81,9}; arātīyatás {99,1}; áyajvanas {103,6}; prámagandasya {287,14}; aryás {356,12}; tásya {665,15}; ádāśūṣṭarasya {690,7}; śatádurasya {925,3}; asya {321,7}; {853,10}; nas {531,3}; ádāśuṣas {535,1}; (śátrūṇām) {910,2}. <div n='TS'>-asas [<ab>Ab.</ab>] janúṣas {208,6}. <div n='TS'>-asām 2〉 vṛdhé {89,5}."
+        },
+        {
+            "word": "वेदस्",
+            "eid": "8461",
+            "pagenum": 1353,
+            "content": "<hom>2.</hom> <b>védas,</b>¦ <ab>n.</ab>, <i>Kenntniss, Einsicht, Umsicht,</i> <ab>vgl.</ab> jātá-, ná-, viśvá-vedas. <div n='TS'>-asā {294,1} (parallel mánasā); {696,2}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वेदस्",
+            "eid": "4030",
+            "pagenum": 252,
+            "content": "<b>1védas,</b>¦ <i><ab>n.</ab></i> knowledge; <i>possibly <ab>adj.</ab>,</i> knowing, <i><ab>cf.</ab></i> <b>na-vedas.</b> [<b>√1vid,</b> ‘know’: <ab>cf.</ab> <ls n='wg,1151'>1151.</ls> 2a, b.]"
+        },
+        {
+            "word": "वेदस्",
+            "eid": "4031",
+            "pagenum": 252,
+            "content": "<b>2védas,</b>¦ <i><ab>n.</ab></i> (<i>like <ab>Lat.</ab></i> quaestus) gettings, property, <i><ab>cf.</ab></i> <b>vitta.</b> [<b>√2vid,</b> ‘get.’]"
+        }
     ]
 }

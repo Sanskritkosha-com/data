@@ -44,5 +44,37 @@
             "pagenum": 332,
             "content": "दोस्¦ <i>dos</i> <ab>m.</ab> <ab>n.</ab> bras.  <P><i>doska</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ka)</i> porté au bras."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दोस्",
+            "eid": "14653",
+            "pagenum": 240,
+            "content": "दो/स्¦ <lex>n.</lex> (<lex>m.</lex>) fore-arm, arm <ab>i.g.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दोस्",
+            "eid": "10497",
+            "pagenum": 185,
+            "content": "दो/स्¦ <i>n. (m.)</i> Vorderarm, Arm <i>überh.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दोस्",
+            "eid": "4505",
+            "pagenum": 640,
+            "content": "<b>dós,</b>¦ <ab>n.</ab>, <i>Vorderarm; Arm</i>. <div n='TS'>-ós [<ab>A.</ab>] yā́ dós vīrā́ya‿upabárbṛhat {415,5}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दोस्",
+            "eid": "17708",
+            "pagenum": 346,
+            "content": "dos¦ <i>m.n. (according to some, दोषन् is optionally substituted for this word in certain cases; according to others, it is a separate word.)</i> 1. The fore-arm, the arm, for <ls>K.Pr.</ls>x., दोर्भ्यां तितीर्षति तरंगवतीभुजंगम् <ls>K.Pr.</ls>x., तमुपाद्रवदुद्यम्य दक्षिणं दोः (n.) निशाचरः <ls>R.</ls>xv.33, x.51, <ls>K.S.</ls>iii.76; 2. the part of an arc defining its sine."
+        }
     ]
 }

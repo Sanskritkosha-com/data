@@ -45,5 +45,29 @@
             "pagenum": 227,
             "content": "ग्रन्थ¦ <i>grantha</i> <ab>m.</ab> jonction, arrangement, || Ecriture; || livre écrit; || sorte de mètre poétique de 32 syllabes. || Richesses, propriété. <lbinfo n='7'/>  <P><i>granthakuṭī</i> <ab>f.</ab> bureau, cabinet d'étude, bibliothèque. <lbinfo n='11'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "ग्रन्थ",
+            "eid": "9869",
+            "pagenum": 159,
+            "content": "ग्रन्थ¦ <lex>m.</lex> arranging of words, composition, text, chapter, section."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ग्रन्थ",
+            "eid": "6501",
+            "pagenum": 113,
+            "content": "ग्रन्थ¦ <i>m.</i> Knoten, Verknüpfung von Worten, Text, Kapitel."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ग्रन्थ",
+            "eid": "1416",
+            "pagenum": 152,
+            "content": "<b>grantha,</b>¦ <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> (a string of words, <i><ab>i. e.</ab></i>) verse <i>or</i> couplet, <ls n='lan,53,6'>53<sup>6</sup></ls>, etc; <div n='2'/><b>—2.</b> a com-position, <lbinfo n='com-posi-tion,'/> book, work, <ls n='lan,17,8'>17<sup>8</sup></ls>. [<b>√granth:</b> for <ab>mgs</ab>, see under grath, and for 1, <ab>cf.</ab> <ab>Lat.</ab> <i>serere</i> <ab>w.</ab> <i>series,</i> ‘row, string.’]"
+        }
     ]
 }

@@ -31,5 +31,29 @@
             "pagenum": 310,
             "content": "*दद्¦ <i>dad,</i> forme redoublée de <i>dā</i> 3."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दद्",
+            "eid": "13243",
+            "pagenum": 218,
+            "content": "दद्¦ <lex>a.</lex>  giving (—°)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दद्",
+            "eid": "4067",
+            "pagenum": 573,
+            "content": "<b>√dad,</b>¦ <i>geben,</i> <ab n='siehe'>s.</ab> <hom>1.</hom> dā."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दद्",
+            "eid": "16406",
+            "pagenum": 324,
+            "content": "dad¦ <i>vt. 1A (pres. ददते)</i> To give."
+        }
     ]
 }

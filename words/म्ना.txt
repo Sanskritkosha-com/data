@@ -39,5 +39,45 @@
             "pagenum": 519,
             "content": "*म्ना¦ <i>mnā.</i> <i>manāmi, mane</i> 1; <ab>p.</ab> <i>mamnau;</i> <lbinfo n='6'/> <ab>f2.</ab> <i>mnāsyāmi;</i> <ab>a1.</ab> <i>amnāsam;</i> <ab>pp.</ab> <i>mnāta</i> (forme abrégée de <i>man;</i> <ab>sfx.</ab> <i>ā)</i>. Confier <lbinfo n='4'/> à son esprit; lire attentivement [par <ab>ex.</ab> les livres saints]. || Répéter, célébrer, mentionner: <lbinfo n='8'/> <i>kasya manāmahe devasya nāma,</i> de quel dieu redirons-nous le nom? <ab>Vd.</ab> || <ab>Gr.</ab> <lang n='greek'>μνάομαι</lang>.  <P><i>mnāpayāmi</i> <ab>c.</ab> de <i>mnā.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "म्ना",
+            "eid": "25496",
+            "pagenum": 422,
+            "content": "म्ना¦ मनति <vlex type='root'/> <ab>w.</ab> आ mention, repeat, regard as, take for (<ab>acc.</ab>). समा the same. — Cf. आम्नात (<ab>add.</ab>), समाम्नात."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "म्ना",
+            "eid": "19388",
+            "pagenum": 342,
+            "content": "म्ना,¦ मनति <i>(nur —°), mit</i> आ erwähnen, überliefern; <i>Pass.</i> आम्नायति, <i>p. p.</i> आम्नात. <lbinfo n='6'/>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "म्ना",
+            "eid": "6973",
+            "pagenum": 1065,
+            "content": "<b>(√mnā)</b>¦ siehe man."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "म्ना",
+            "eid": "3356",
+            "pagenum": 220,
+            "content": "<b>√mnā</b>¦ (<b>mánati; ámnāsīt; mnātá</b>). <i>cóllateral </i> <lbinfo n='cól-lateral'/> <i>form of</i> <b>√man,</b> ‘be minded,’ <ls n='wg,108'>108g</ls>. [see <b>√man:</b> <ab>cf.</ab> <lang n='greek'>μι-μνή-σκω</lang>, ‘keep in mind.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "म्ना",
+            "eid": "31050",
+            "pagenum": 588,
+            "content": "mnA¦ <i>vt. 1P (pp. म्नान; pres. मनति)</i> 1. To repeat; 2. to study diligently; 3. to remember.<P>With आ-, 1. to proclaim, to speak of, त्वामामनंति प्रकृतिं पुरुषार्थप्रवर्तिनीम् <ls>K.S.</ls>ii.13; 2. to study, यद्ब्रह्म सम्यगाम्नातं यदग्नौ विधिना हुतम् <ls>K.S.</ls>vi.16.<P>With समा-, 1. to prescribe, तं हि धर्मं धर्मसूत्रकाराः समामनंति <ls>Ut.</ls>iv.; 2. to repeat."
+        }
     ]
 }

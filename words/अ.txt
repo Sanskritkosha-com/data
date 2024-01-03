@@ -70,5 +70,101 @@
             "pagenum": 5,
             "content": "अ¦ <i>a,</i> dans le monosyll. <i>oṃ,</i> représente <i>viṣṇu.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "1 अ¦ <ab>pron.</ab> stem of 3^d <ab>pers.</ab>"
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "2 अ¦ अन् neg. prefix, corresponding to Gr. <lang n='greek'>ἀ ἀν</lang>, Lat. in, Germ. un, <ab>etc.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "1. अ¦ <i>Pron-Stamm der 3. Person.</i>"
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "2. अ,¦ अन् (°—) <i>negat. Präfix -un, vor Subst.</i>, <i>Adj., Adv., Partic. u. Ger.; selten vor</i> <i>Inf. und Verb. fin.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> <b>(a).</b>¦ Deutestamm der <pe n='3ten/dritten'>3.</pe> Person, siehe unter idám. Mit ihm zusammengesetzt sind á-tas, á-tra, a-dyá und wahrscheinlich alle Präpositionen und Partikeln der Form a-a, a-i, a-u, in denen zwischen den beiden Vokalen ein Konsonant steht."
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> <b>(a).</b>¦ Deutestamm der <pe n='1sten/ersten'>1.</pe> Person, siehe unter ahám."
+        },
+        {
+            "word": "अ",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> <b>(a-)</b>¦ siehe unter an-."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "अ¦ I. The letter <i>ă,</i> the first of the alphabet and the short vowel inherent in every consonant. See अकार. <div n='P'>II. The pronominal theme which occurs in the declension of इदम् and is considered as a substitute for इदम् and एतत् qq. vv. <div n='P'>III. ind. (निपात) A particle, a shorter form of न (see also अन and अना); it is used <sup>1</sup> In composition with nouns, when it implies <sup>a.</sup> Negation. <sup>b.</sup> Privation or prohibition. <sup>c.</sup> Diminution (i. e. a little). <sup>d.</sup> Deterioration. <sup>e.</sup> Similarity or comparison; in a few instances it has apparently become an expletive; cf. e. g. कुप्य and अकुप्य, उदार and अनुदार, एडमूक and अनेडमूक. If the noun begins with a vowel, it assumes the form of अन्, as अ and अन्त form अनन्त; this rule is neglected sometimes, if the vowel following the अ happen to be a ऋ; e. g. अ and ऋणिन् form अनृणिन् and sometimes अऋणिन्. <sup>2</sup> In conjunction with an inflected verb, when it implies blame or reproach; e. g. अ करोषि वै त्वं जाल्म ‘how badly thou dost (it), fool’. Accord. to an artificial E. from अत्, kṛt aff. ड. <div n='P'>IV. ind. (निपात) An interjection of pity. <div n='P'>V. 1. m. (अः) <sup>1</sup> Vaiśvānara (in an Upan.). <sup>2</sup> Brahman (m.). <sup>3</sup> Viṣṇu. <sup>4</sup> Siva. 2. n. (अम्) A name of the (neuter) Brahman."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 111,
+            "content": "<b>1a,</b>¦ <i><ab>pron.</ab> root, see</i> <b>idam</b> <i>and</i> <ls n='wg,502'>502.</ls>"
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 111,
+            "content": "<b>2a,</b>¦ <i>negative prefix, see</i> <b>an.</b>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अ",
+            "eid": "00001",
+            "pagenum": 1,
+            "content": "a¦ <i>(I) ind.</i> An interjection- (1) of pity; (2) of calling, e.g. अ अनंत; (3) of blame or reproach, e.g. अ पचसि त्वं जाल्म."
+        },
+        {
+            "word": "अ",
+            "eid": "00002",
+            "pagenum": 1,
+            "content": "a¦ <i>(II) ind.</i> A prefix implying- (1) negation arising from similarity, (e.g. अब्राह्मणः one who is not a Brāhmaṇa though like him); (2) privation, (e.g. अघटः absence of घट); (3) difference, (e.g. अपटः other than a पट); (4) dimunition, (e.g. अनुदरा having a very slender waist); (5) badness, (e.g. अनाचारः bad conduct); (6) contrariety, (e.g. असित the contrary of white, i.e. black).These meanings are put together in the following stanza- तत्सादृश्य मभावश्च तदन्यत्वं तदल्पता । अप्राशस्त्यं विरोधश्च नञर्थाः षट् प्रकीर्तिताः ॥<P>If the noun to which अ is to be prefixed begins with a vowel, the अ assumes the form अन्, (e.g. अनाचार); but if the vowel following the अ happens to be a ऋ, this rule is sometimes neglected, (e.g. अनृणिन् or अऋणिन्)."
+        },
+        {
+            "word": "अ",
+            "eid": "00003",
+            "pagenum": 1,
+            "content": "a¦ <i>(III) m.</i> A name of Vishṇu; it is the first word in the mystic syllable ओम्, the other two being उ and म्. अकारो विष्णुरुद्दिष्ट उकारस्तु महेश्वरः । मकारस्तु स्मृतो ब्रह्मा प्रणवस्तु त्रयात्मकः ॥"
+        },
+        {
+            "word": "अ",
+            "eid": "00004",
+            "pagenum": 1,
+            "content": "a¦ <i>(IV) n.</i> A name of Brahman (n.)."
+        }
     ]
 }

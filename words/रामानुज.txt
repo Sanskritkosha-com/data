@@ -19,5 +19,27 @@
             "pagenum": 3,
             "content": "रामानुज¦ <HI1>Rāmagati Pañcasaṃskārātmikā."
         }
+    ],
+    "INM": [
+        {
+            "word": "रामानुज",
+            "eid": "8975",
+            "pagenum": 591,
+            "content": "<b>Rāmānuja</b><sup>1</sup>¦ (“younger brother of Rāma<sup>2</sup>”) = Kṛṣṇa: V, 2741 (<i>Śauriḥ</i>)."
+        },
+        {
+            "word": "रामानुज",
+            "eid": "8976",
+            "pagenum": 591,
+            "content": "<b>Rāmānuja</b><sup>2</sup>¦ (“younger brother of Rāma<sup>2</sup>”) = Lakṣmaṇa: VII, 5888 (<i>L°</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "रामानुज",
+            "eid": "32073",
+            "pagenum": 611,
+            "content": "rAma-anuja¦ <i>m.</i> name of the founder of a Vedāntic sect; he has written a <i>Bhāshya</i> on the <i>Vedānta sūtra</i>."
+        }
     ]
 }

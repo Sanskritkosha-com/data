@@ -39,5 +39,51 @@
             "pagenum": 633,
             "content": "बीज¦ <i>bīja,</i> see <i>vīja.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "बीज",
+            "eid": "22135",
+            "pagenum": 364,
+            "content": "बी/ज¦ <lex>n.</lex> seed (of plants and animals), seed-corn, grain, germ, element, origin, beginning, <ab>adj.</ab> caused by (—°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "बीज",
+            "eid": "16772",
+            "pagenum": 294,
+            "content": "बी/ज¦ <i>n.</i> Same, Saatkorn, Keim, Element, Ursprung, Anfang; <i>adj.</i> —° veranlasst durch. °तस् = <i>Abl.</i> aus dem Samen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "बीज",
+            "eid": "6212",
+            "pagenum": 907,
+            "content": "<b>bī́ja,</b>¦ <ab>n.</ab>, 1〉 <i>Same</i> der Pflanzen, besonders des Getreides; 2〉 <i>männlicher Same;</i> in beiden Bedeutungen mit vap (streuen) verbunden ({911,37}; {920,13}; {927,3}). <div n='TS'>-am 1〉 {407,13} (dhāníam); {920,13} (vápantas dhāniakṛ́tas). — 2〉 {911,37} (yásyām); {927,3} bildlich (kṛté yónau)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "बीज",
+            "eid": "2902",
+            "pagenum": 201,
+            "content": "<b>bī́ja,</b>¦ <i><ab>n.</ab></i> seed, of plants and animals."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "बीज",
+            "eid": "26603",
+            "pagenum": 509,
+            "content": "bIja¦ <i>(I) n.</i> 1. Seed, corn, grain, अंतर्गूढं क्षितिरिव नभो बीजमुष्टिं दधाना <ls>R.</ls>xix.57, <ls>M.</ls>ii.112, iii.142, ix.33; 2. semen virile; 3. marrow; 4. origin, cause, source; 5. algebra; 6. the germ of the plot of a play; 7. the mystical letter, which forms the essential part of a <i>Mantra</i> (in <i>Tantras</i>)."
+        },
+        {
+            "word": "बीज",
+            "eid": "26604",
+            "pagenum": 509,
+            "content": "bIja¦ <i>(II) m.</i> The citron tree.<P>(बीजाकृ 1. to sow with seed; 2. to harrow after sowing.)"
+        }
     ]
 }

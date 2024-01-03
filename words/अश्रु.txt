@@ -44,5 +44,45 @@
             "pagenum": 60,
             "content": "अश्रु¦ <i>aśru</i> <ab>n.</ab> larme. <ab>Gr.</ab> <lang n='greek'>δάϰρυ</lang>; <ab>lat.</ab> lacryma. <lbinfo n='6'/> [<i>aśru</i> est probablement abrégé de l'inusité <i>daśru.</i>]"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अश्रु",
+            "eid": "3539",
+            "pagenum": 51,
+            "content": "अ/श्रु¦ <lex>n.</lex> (<lex>m.</lex>) a tear."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अश्रु",
+            "eid": "2233",
+            "pagenum": 34,
+            "content": "अ/श्रु¦ <i>n. (m.)</i> Thräne."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अश्रु",
+            "eid": "1253",
+            "pagenum": 140,
+            "content": "<b>áśru,</b>¦ <ab>n.</ab>, die <i>Thräne</i> [von <hom>3.</hom> aś], als die scharfe, bittere, wie <gk>δάϰρυ</gk> von <gk>δάϰ-νω</gk>. Vielleicht ist jedoch *dáśru auch für das <lang>Sanskrit</lang> als Grundform anzunehmen und eine an <hom>3.</hom> aś sich anlehnende Umdeutung im Spiele. <div n='TS'>-u {921,12}. _{921,13}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अश्रु",
+            "eid": "490",
+            "pagenum": 122,
+            "content": "<b>áśru,</b>¦ <i><ab>n.</ab></i> tear."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अश्रु",
+            "eid": "04164",
+            "pagenum": 82,
+            "content": "aSru¦ <i>n.</i> A tear, पपात भूमौ सह सैनिकाश्रुभिः <ls>R.</ls>iii.61, viii.25, xii.4, 62."
+        }
     ]
 }

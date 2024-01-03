@@ -15,5 +15,37 @@
             "pagenum": 343,
             "content": "*धव्¦ <i>dhav,</i> <ab>cf.</ab> <i>dhanv.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "धव्",
+            "eid": "15299",
+            "pagenum": 249,
+            "content": "†धव्¦ धवते <vlex type='root'/> run, flow. <div n='p'>— अव flow down, descend."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "धव्",
+            "eid": "11005",
+            "pagenum": 194,
+            "content": "धव्,¦ धवते rennen, fließen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "धव्",
+            "eid": "4662",
+            "pagenum": 660,
+            "content": "<b>√dhav</b>¦ [<ab n='siehe'>s.</ab> dhanv], <i>strömen, laufen,</i> mit <b>áva</b> <i>herabströmen, herablaufen</i> zu [<ab>L.</ab>]. <div n='H'>Stamm <b>dhava:</b> <div n='TS'>-adhve ā́pas iva {414,3} (marutas). <div n='TS'>-ante <b>áva</b> tvé {488,14} (pravátas ná ūrmís gíras bráhmāṇi niyútas). <div n='H'><ab>Impf.</ab> <b>adhava:</b> <div n='TS'>-anta tṛ́tsavas ā́pas ná sṛṣṭā́s {534,15}. <div n='H'>Verbale <b>dháv,</b> im <ab>Compar.</ab> <b>dhávīyas:</b>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "धव्",
+            "eid": "2147",
+            "pagenum": 175,
+            "content": "<b>√dhav</b>¦ (<b>dhávate</b>). run. [see under <b>√dhū,</b> and <ab>cf.</ab> <lang n='greek'>θέω, √θεϝ</lang>, ‘run.’]"
+        }
     ]
 }

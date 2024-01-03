@@ -52,5 +52,65 @@
             "pagenum": 286,
             "content": "तरु¦ <i>taru</i> <ab>m.</ab> arbre, <ab>cf.</ab> <i>dru.</i>  <P><i>tarukūṇi</i> <ab>m.</ab> <ab>esp.</ab> d'oiseau.  <P><i>tarujīvana</i> <ab>n.</ab> <i>(jīv)</i> l'organe vital d'un arbre, <lbinfo n='4'/> le collet, la racine."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तरु",
+            "eid": "12059",
+            "pagenum": 199,
+            "content": "1 त/रु¦ <lex>a.</lex> rash."
+        },
+        {
+            "word": "तरु",
+            "eid": "12060",
+            "pagenum": 199,
+            "content": "2 तरु¦ <lex>m.</lex> tree."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तरु",
+            "eid": "8312",
+            "pagenum": 149,
+            "content": "1. त/रु¦ rasch."
+        },
+        {
+            "word": "तरु",
+            "eid": "8313",
+            "pagenum": 149,
+            "content": "2. तरु¦ <i>m.</i> Baum."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तरु",
+            "eid": "3696",
+            "pagenum": 530,
+            "content": "<b>táru,</b>¦ <ab>a.</ab>, <i>rasch</i> (?), <ab>vgl.</ab> taráṇi. <div n='TS'>-ubhis {398,5} saṃjárbhurāṇas 〰 sutegṛ́bham vayākínam."
+        }
+    ],
+    "INM": [
+        {
+            "word": "तरु",
+            "eid": "10812",
+            "pagenum": 676,
+            "content": "<b>Taru</b><sup>1</sup>¦ = Śiva (1000 names<sup>2</sup>).—Do.<sup>2</sup> = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तरु",
+            "eid": "1736",
+            "pagenum": 163,
+            "content": "<b>taru,</b>¦ <i><ab>m.</ab></i> tree. [<ab>prob.</ab> a modern form of <b>dā́ru,</b> <ab>q. v.</ab>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तरु",
+            "eid": "15322",
+            "pagenum": 305,
+            "content": "taru¦ <i>m.</i> A tree, <ls>R.</ls>iii.70, <ls>Megh.</ls>i.1, 29, 86."
+        }
     ]
 }

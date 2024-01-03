@@ -36,5 +36,43 @@
             "pagenum": 65,
             "content": "कमठ¦ <i>m.</i> testudo. BHAR. 2. 28."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कमठ",
+            "eid": "7048",
+            "pagenum": 109,
+            "content": "कमठ¦ <lex>m.</lex> tortoise."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कमठ",
+            "eid": "4369",
+            "pagenum": 73,
+            "content": "कमठ¦ <i>m.</i> Schildkröte."
+        }
+    ],
+    "INM": [
+        {
+            "word": "कमठ",
+            "eid": "5255",
+            "pagenum": 378,
+            "content": "<b>Kamaṭha</b><sup>1</sup>,¦ a king. § 264 (Sabhākriyāp.): II, <b>4</b>β, 117 (<i>Kambojarājaḥ?</i> in the palace of Yudhiṣṭhira)."
+        },
+        {
+            "word": "कमठ",
+            "eid": "5256",
+            "pagenum": 378,
+            "content": "<b>Kamaṭha</b><sup>2</sup>,¦ a ṛṣi. § 702 (Mokṣadh.): XII, <b>297</b>, 10874 (<i>Kākṣīvat-K°ādayaḥ</i>, among the ṛṣis who had obtained their position by way of tapas)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कमठ",
+            "eid": "08228",
+            "pagenum": 167,
+            "content": "kamaWa¦ <i>m.</i> 1. A tortoise, e.g. कमठपृष्ठकठोरमिदं धनुः; 2. a bamboo; 3. a water-jar."
+        }
     ]
 }

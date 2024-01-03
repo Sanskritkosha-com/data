@@ -7,5 +7,53 @@
             "pagenum": 496,
             "content": "चोद¦ <i><ab>a.</ab></i> [चोदयतीति चुद्-अच्] <lbinfo n='Ani+mating'/> Animating, inspiring, promoting &c. --दः A whip or goad."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चोद",
+            "eid": "10716",
+            "pagenum": 175,
+            "content": "1 चो/द¦ <lex>m.</lex> goad, whip."
+        },
+        {
+            "word": "चोद",
+            "eid": "10717",
+            "pagenum": 175,
+            "content": "2 चोद/¦ <lex>a.</lex> impelling, driving."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चोद",
+            "eid": "7184",
+            "pagenum": 127,
+            "content": "1. चो/द¦ <i>m.</i> Antreibewerkzeug, Peitsche."
+        },
+        {
+            "word": "चोद",
+            "eid": "7185",
+            "pagenum": 127,
+            "content": "2. चोद/¦ antreibend, fördernd."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "चोद",
+            "eid": "3333",
+            "pagenum": 458,
+            "content": "<b>códa,</b>¦ <ab>m.</ab>, <i>Werkzeug zum Antreiben</i> [cud], <i>Stachel</i> oder <i>Peitsche</i>. <div n='TS'>-as {415,3}."
+        },
+        {
+            "word": "चोद",
+            "eid": "3334",
+            "pagenum": 458,
+            "content": "<b>codá,</b>¦ <ab>a.</ab>, <ab>m.</ab> [von cud], 1〉 <ab>a.</ab>, <i>begeisternd;</i> 2〉 <ab>m.</ab>, der <i>Antreiber;</i> 3〉 <ab>m.</ab>, der <i>Begeisternde,</i> der <i>Dichter</i> (?). <div n='TS'>-ás 1〉 <chg type='chg' n='108' src='gra'><old>(índras)</old><new>agnís</new></chg> {143,6}. <div n='TS'>-ám 3〉 {204,9} (yád ha 〰 ā́vitha). <div n='TS'>-aú [<ab>d.</ab>] 2〉 radhrásya {221,6}."
+        },
+        {
+            "word": "चोद",
+            "eid": "11108",
+            "pagenum": 1743,
+            "content": "458,12.a <ab>v. u.</ab>: agnís <ab>st.</ab> (índras) <info vn='chg 108 gra'/>"
+        }
     ]
 }

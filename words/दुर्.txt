@@ -23,5 +23,51 @@
             "pagenum": 324,
             "content": "दुर्¦ <i>dur</i> forme euph. de <i>dus.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "दुर्",
+            "eid": "13901",
+            "pagenum": 229,
+            "content": "1 दु/र्¦ <lex>f.</lex> door (only दु/रस् & दुर/स्)."
+        },
+        {
+            "word": "दुर्",
+            "eid": "13902",
+            "pagenum": 229,
+            "content": "2 दुर्¦ (°—) = दुस्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दुर्",
+            "eid": "9885",
+            "pagenum": 176,
+            "content": "दु/र्¦ <i>f.</i> Thür."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दुर्",
+            "eid": "4295",
+            "pagenum": 613,
+            "content": "<b>dúr,</b>¦ <ab>f.</ab>, <i>Thür</i> [aus dvā́r durch Vocalausstossung entstanden]. — <ab>Adj.</ab> mā́nuṣa, víśva, víṣvac, svá; <ab>Gen.</ab> ádres, mā́nuṣasya, nadī́nām, rāyás, vrajásya. <div n='TS'>-úras [<ab>N.</ab> <ab>p.</ab>] {188,5} 〰 ghṛtā́ni akṣaran. <div n='TS'>-úras [<ab>A.</ab> <ab>p.</ab>] {68,10}; {69,10}; {72,8}; {113,4}; {120,2}; {121,4}; {215,5}; {265,21}; {300,6}; {399,1}; {458,6}; {459,5}; {471,5}; {503,11}; {518,5}; {525,2}; {562,2}; {595,4}; {757,3}; {776,3}; {855,3}; {946,8}; {965,6}; ({476,5}). <div n='TS'>-urás [<ab>A.</ab> <ab>p.</ab>] 〰 ná vā́jam śrútiai ápā vṛdhi {193,7}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दुर्",
+            "eid": "1975",
+            "pagenum": 170,
+            "content": "<b>dur-,</b>¦ <i>the form taken by</i> <b>dus</b> <i>before sonants.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दुर्",
+            "eid": "17062",
+            "pagenum": 335,
+            "content": "dur¦ <i>ind.</i> (A prefix occurring as a substitute of दुस् before words beginning with vowels or soft consonants.)"
+        }
     ]
 }

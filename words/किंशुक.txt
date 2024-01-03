@@ -44,5 +44,43 @@
             "pagenum": 165,
             "content": "किंशुक¦ <i>kiṃśuka</i> <ab>m.</ab> <i>(śuka</i> perroquet) butea <lbinfo n='3'/> frondosa, <ab>bot.</ab> <ab>cf.</ab> <i>palāśa.</i>  <P><i>kiṃśuluka</i> <ab>m.</ab> <ab>esp.</ab> de <i>kiṃśuka.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "किंशुक",
+            "eid": "7755",
+            "pagenum": 120,
+            "content": "†किंशुक¦ <lex>m.</lex> <ab>N.</ab> of a tree; <lex>n.</lex> its flower."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "किंशुक",
+            "eid": "4868",
+            "pagenum": 83,
+            "content": "किंशुक¦ <i>m. N. eines Baumes u. (n.) der Blüte</i> <i>dess.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "किंशुक",
+            "eid": "2548",
+            "pagenum": 325,
+            "content": "<b>(kiṃ-śuka),</b>¦ <ab>m.</ab> [aus kím und śúka], Butea frondosa <ab n='Roxburghii'>Roxb.</ab>, ein Baum mit rothen Blüten, die einen Farbstoff enthalten. <ab>Vgl.</ab> su-kiṃśuká."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "किंशुक",
+            "eid": "09341",
+            "pagenum": 188,
+            "content": "kiMSuka¦ <i>(I) m.</i> A kind of tree having beautiful red blossom, विद्याहीना न शोभंते निर्गंधा इव किंशुकाः <ls>Chāṇakya.</ls>, <ls>Rt.</ls>vi.20."
+        },
+        {
+            "word": "किंशुक",
+            "eid": "09342",
+            "pagenum": 188,
+            "content": "kiMSuka¦ <i>(II) n.</i> The blossom of this tree, किं किंशुकैः शुकमुखच्छविभिर्न दग्धम् <ls>Rt.</ls>vi.21."
+        }
     ]
 }

@@ -73,5 +73,69 @@
             "pagenum": 260,
             "content": "जन्य¦ <i>janya</i> <ab>n.</ab> <i>(jana;</i> <ab>sfx.</ab> <i>ya)</i> réunion d'hommes; marché, foire; || mêlée, bataille. <lbinfo n='7'/> || Bruit public, rumeur."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जन्य",
+            "eid": "11027",
+            "pagenum": 181,
+            "content": "1 जन्य¦ <lex>a.</lex> born, produced, rising from (—°); <ab>abstr.</ab> °ता <ab>f.</ab>, °त्व <lex>n.</lex> — <lex>n.</lex> body."
+        },
+        {
+            "word": "जन्य",
+            "eid": "11028",
+            "pagenum": 181,
+            "content": "2 ज/न्य¦ <lex>a.</lex> belonging to the (same) race, national, native; common, vulgar. — <lex>m.</lex> the bridegroom's friend; <lex>f.</lex> आ bridesmaid; <lex>n.</lex> people, tribe, race (also जन्य/), <ab>pl.</ab> inimical tribes; fighting, war."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जन्य",
+            "eid": "7434",
+            "pagenum": 132,
+            "content": "1. जन्य¦ erzeugt, stammend aus (—°); <i>n.</i> Körper."
+        },
+        {
+            "word": "जन्य",
+            "eid": "7435",
+            "pagenum": 132,
+            "content": "2. ज/न्य¦ zum Geschlecht o. Stamme gehörig, stammverwandt. <i>m.</i> Brautführer; <i>f.</i> आ Brautführerin; <i>n.</i> Gemeinde, Volksstamm <lbinfo n='5'/> <i>(auch</i> जन्य/)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जन्य",
+            "eid": "3417",
+            "pagenum": 477,
+            "content": "<b>jánya,</b> <b>jánia,</b>¦ <ab>a.</ab>, <ab>m.</ab>, <ab>n.</ab> [von jána], 1〉 <ab>a.</ab>, <i>dem Stamme, der Gemeinde angehörig</i> (durch den Genetiv: des Stammes, der Gemeinde auszudrücken); 2〉 <ab>a.</ab>, <i>fremden Leuten angehörig, von</i> ihnen <i>ausgehend</i> (durch den <ab>Gen.</ab>: fremder Leute auszudrūcken); 3〉 <ab>m.</ab>, der <i>Brautführer</i> (eigentlich Landsmann des Bräutigams); 4〉 <ab>n.</ab>, die <i>Gemeinde,</i> der <i>Volksstamm</i>. <div n='TS'>-ias 1〉 (agnís) {917,2}. — 3〉 {334,6} (śúbhvā). <div n='TS'>-iam 1〉 bráhma {228,6}. <div n='TS'>-iāt 2〉 áṃhasas {351,5}. <div n='TS'>-iā [<ab>d.</ab> <ab>m.</ab>] 1〉 dūtā́ {230,1}. <div n='TS'>-yāsas 2〉 gā́vas {761,2}. <div n='TS'>-iā [<ab>n.</ab> <ab>p.</ab>] 2〉 dyumnā́ {868,6}. <div n='TS'>-yā [<ab>n.</ab> <ab>p.</ab>] 4〉 dūtás jányā‿iva mítrias {197,7}, wo auch jánye va [als <ab>n.</ab> <ab>d.</ab>] gelesen werden könnte."
+        }
+    ],
+    "INM": [
+        {
+            "word": "जन्य",
+            "eid": "4803",
+            "pagenum": 353,
+            "content": "<b>Janya</b>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "जन्य",
+            "eid": "14285",
+            "pagenum": 284,
+            "content": "janya¦ <i>(I) a. (f. न्या)</i> 1. To be born or produced; 2. born from, occasioned by; 3. belonging to a race or family; 4. vulgar, common."
+        },
+        {
+            "word": "जन्य",
+            "eid": "14286",
+            "pagenum": 284,
+            "content": "janya¦ <i>(II) m.</i> 1. A father; 2. a friend or relative of a bridegroom; 3. the body; 4. a report, a rumour."
+        },
+        {
+            "word": "जन्य",
+            "eid": "14287",
+            "pagenum": 284,
+            "content": "janya¦ <i>(III) n.</i> 1. Production, oreation; 2. a created thing, an effect, (op. to जनक), e.g. जनकस्य स्वभावो हि जन्ये तिष्ठति निश्चितम्, or जन्यानां जनकः कालः; 3. a market, a fair; 4. war, battle, तत्र जन्यं रघोर्घोरं पारवतीयैर्गणैरभूत् <ls>R.</ls>iv.77; 5. censure, abuse."
+        }
     ]
 }

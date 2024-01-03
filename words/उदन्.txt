@@ -21,5 +21,43 @@
             "pagenum": 116,
             "content": "उदन्¦ <i>udan,</i> <ab>i. e.</ab> <i>und + an,</i> <ab>n.</ab> Water, <ls>Chr.</ls> 291, 5 = <ls>Rigv.</ls> i. 85, 5. -- <ab>Cf.</ab> <lang n='greek'>ὕδωρ</lang> with <lang n='greek'>ρ</lang> for <i>n;</i> <ab>cf.</ab> also <ab>Lat.</ab> udor; <ab>Goth.</ab> vato, base vatan, represents the organic form of the <ab>vb.</ab> <i>und,</i> viz. <i>vad;</i> <ab>O.H.G.</ab> wazar has <i>r</i> instead of <i>n,</i> like the Greek."
         }
+    ],
+    "CAE": [
+        {
+            "word": "उदन्",
+            "eid": "5463",
+            "pagenum": 84,
+            "content": "उद/न्¦ <lex>n.</lex> wave, water; <ab>p.</ab> उदनिम/न्त्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उदन्",
+            "eid": "3413",
+            "pagenum": 56,
+            "content": "उद/न्¦ <i>n.</i> Welle, Wasser."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "उदन्",
+            "eid": "1899",
+            "pagenum": 252,
+            "content": "<b>udán,</b>¦ <ab>n.</ab>, <i>Woge, Wasser, Wasserschwall</i> [<ab>v.</ab> ud]. <div n='TS'>-nā́ {316,6}; {399,10}; {439,6}; {709,9}; {894,4}. <div n='TS'>-nás [<ab>Ab.</ab>] {894,5}. <div n='TS'>-nás [<ab>G.</ab>] kṣódasā {112,12}; phaligám {652,25}; hradám {928,4}; <chg type='chg' n='71' src='gra'><old>(váram)</old><new>pṛṇītám</new></chg> {581,4}; in {639,14} ist wol udnā́ zu lesen. <div n='TS'>-án [<ab>L.</ab>] {104,3}. <div n='TS'>-áni {116,24}; {894,8}. <div n='TS'>-ábhis {85,5}; {104,4}; {204,5}; {707,7}; {904,5}."
+        },
+        {
+            "word": "उदन्",
+            "eid": "11071",
+            "pagenum": 1743,
+            "content": "252,33. 34: pṛṇītám <ab>st.</ab> (váram) <info vn='chg 71 gra'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "उदन्",
+            "eid": "06361",
+            "pagenum": 129,
+            "content": "udan¦ <i>n.</i> Water.<P>(This word has no forms for the first five cases and is rarely used by itself. It is found only at the beginning, (with the final न् dropped), or at the end of compounds. It is not a separate word but only a substitute for उदक according to some authorities.)"
+        }
     ]
 }

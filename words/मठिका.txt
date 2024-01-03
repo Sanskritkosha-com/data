@@ -7,5 +7,29 @@
             "pagenum": 832,
             "content": "मठिका¦ <b>1</b> A small cell. <b>--2</b> A hut or college."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मठिका",
+            "eid": "23481",
+            "pagenum": 389,
+            "content": "मठिका¦ <lex>f.</lex> hut, cottage, cell."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मठिका",
+            "eid": "17834",
+            "pagenum": 315,
+            "content": "मठिका¦ <i>f.</i> Hütte, Zelle."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "मठिका",
+            "eid": "3496",
+            "pagenum": 201,
+            "content": "<i>maṭhikā</i>¦ (EI 31), a hut, cottage or cell. <div n='P'>(<i>EI</i> 26, 32), a shrine or temple; cf. <i>maṭha.</i>"
+        }
     ]
 }

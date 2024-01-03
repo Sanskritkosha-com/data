@@ -44,5 +44,57 @@
             "pagenum": 615,
             "content": "वृष्टि¦ <i>vṛṣṭi</i> <ab>f.</ab> (<ab>sfx.</ab> <i>ti)</i> pluie.  <P><i>vṛṣṭighnī</i> <ab>f.</ab> <i>(han)</i> cardamone du Guzarat.  <P><i>vṛṣṭijīvana</i> <ab>a.</ab> <i>(jīv)</i> nourri par la pluie.  <P><i>vṛṣṭibhū</i> <ab>m.</ab> <i>(bhū)</i> grenouille."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वृष्टि",
+            "eid": "30878",
+            "pagenum": 521,
+            "content": "वृष्टि/¦ <lex>f.</lex>  rain (<ab>lit.</ab> & <ab>fig.</ab>)."
+        },
+        {
+            "word": "वृष्टि",
+            "eid": "30879",
+            "pagenum": 521,
+            "content": "वृ/ष्टि¦ <lex>f.</lex> rain (<ab>lit.</ab> & <ab>fig.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वृष्टि",
+            "eid": "23395",
+            "pagenum": 423,
+            "content": "वृष्टि/¦ <i>u.</i> वृ/ष्टि <i>f.</i> Regen <i>(auch übertr.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वृष्टि",
+            "eid": "8441",
+            "pagenum": 1351,
+            "content": "<b>vṛṣṭí,</b>¦ <ab>f.</ab>, <i>Regen</i> [von vṛṣ], bisweilen bildlich <ab>z. B.</ab> {152,7}; {781,9}. Dazu als <ab>Adj.</ab> abhríya, diviá, nábhasvat, jigatnú, mayobhū́, als Genetiven divás, parjányasya. [Page1352] <div n='TS'>-ís {38,8}; {417,1}; {439,3}; {454,1}; {610,1}; {801,1}; {849,4}; {869,7} (diviā́ supārā́). <div n='TS'>-ím {39,9}; {116,12}; {197,5}; {218,15}; {322,2}; {409,5}; {412,3}; {416,3}; {417,2}; {437,6}; {556,6}; {580,2}; {632,6}; {720,8}; {751,2}; {761,1}. _{761,3}; {777,3}. _{777,24}; {781,9}; {808,14}; {809,17}; {812,3}; {820,10}; {924,3}. _{924,10}. <div n='TS'>-iā́ {417,4} (neben abhréṇa); {641,18}. <div n='TS'>-ī́ [<ab>I.</ab>] {196,6}; {407,5}. <div n='TS'>-áyas {225,2}; {407,2}. _{407,6}. _{407,10}; {438,3}; {617,5}; {645,6}; {729,2}; {734,2}; {769,1}; {774,28}; {901,3}. <div n='TS'>-íbhis {164,52}; {413,5}; {572,13}; {627,16}."
+        },
+        {
+            "word": "वृष्टि",
+            "eid": "12594",
+            "pagenum": 1770,
+            "content": "<b>vṛṣṭí:</b>¦<info vn='add 535 gra'/> <div n='TS'>-ís {152,7}; <div n='TS'>*-és svanás {753,3}; ī́śe {786,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वृष्टि",
+            "eid": "4020",
+            "pagenum": 252,
+            "content": "<b>vṛṣṭi,</b>¦ <i><ab>f.</ab></i> rain. [<b>√vṛṣ,</b> <ls n='wg,1157'>1157.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वृष्टि",
+            "eid": "36149",
+            "pagenum": 689,
+            "content": "vfzwi¦ <i>f.</i> 1. Rain, a shower of rain, <ls>Megh.</ls>i.20; 2. shower in general, (पुष्पवृष्टि <ls>R.</ls>ii.60, अस्रवृष्टि <ls>R.</ls>iii.58)."
+        }
     ]
 }

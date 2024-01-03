@@ -43,5 +43,49 @@
             "pagenum": 182,
             "content": "*कृप्¦ <i>kṛp.</i> <i>kṛpayāmi</i> [ou <i>kalpayāmi</i>] 10; <ab>ppr.</ab> <i>kṛpayan.</i> Etre faible. <ab>Cf.</ab> <i>kūp.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कृप्",
+            "eid": "8340",
+            "pagenum": 131,
+            "content": "1 कृ/प्¦ <lex>f.</lex> (only <ab>instr.</ab> कृपा/) shape, appearance, beauty."
+        },
+        {
+            "word": "कृप्",
+            "eid": "8341",
+            "pagenum": 131,
+            "content": "2 कृप्¦ कृ/पते <vlex type='root'/> mourn, long for (<ab>acc.</ab>). <div n='p'>— अनु = <ab>S.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कृप्",
+            "eid": "5313",
+            "pagenum": 91,
+            "content": "1. कृ/प्¦ <i>f.</i> Gestalt, Erscheinung <i>(nur Instr.</i> कृपा)."
+        },
+        {
+            "word": "कृप्",
+            "eid": "5314",
+            "pagenum": 91,
+            "content": "2. कृप्¦ <i>s.</i> क्रप्."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कृप्",
+            "eid": "2671",
+            "pagenum": 347,
+            "content": "<b>kṛ́p,</b>¦ <ab>f.</ab>, <i>Gestalt, Erscheinung, Schönheit</i> [<ls>Fi. 〔38〕</ls>]; <ab>vgl.</ab> kalp. <ab>Adj.</ab>: ūrdhvá, devā́c, devī́, pāvaká, citáyat, pariṣṭóbhat. <div n='TS'>-ṛpā́ {127,1}; {128,2}; {443,6}; {456,5}; {519,9}; {643,5}. _{643,8}; {776,28} (parallel: rucā́)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कृप्",
+            "eid": "1194",
+            "pagenum": 144,
+            "content": "<b>√kṛp</b>¦ (<b>kṛ́pate</b> [<ls n='wg,745'>745b</ls>]). mourn, lament."
+        }
     ]
 }

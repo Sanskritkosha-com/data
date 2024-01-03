@@ -7,5 +7,29 @@
             "pagenum": 490,
             "content": "चारथ¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Wandering, going."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चारथ",
+            "eid": "10459",
+            "pagenum": 171,
+            "content": "चा/रथ¦ <lex>a.</lex> wandering."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चारथ",
+            "eid": "6973",
+            "pagenum": 123,
+            "content": "चा/रथ¦ wandernd."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "चारथ",
+            "eid": "3276",
+            "pagenum": 443,
+            "content": "<b>cā́ratha,</b>¦ <ab>a.</ab>, <i>wandernd</i> [von car]. <div n='TS'>-e jáne {666,31}."
+        }
     ]
 }

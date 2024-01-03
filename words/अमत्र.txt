@@ -28,5 +28,41 @@
             "pagenum": 43,
             "content": "अमत्र¦ <i>amatra</i> <ab>n.</ab> vase, ustensile."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अमत्र",
+            "eid": "2522",
+            "pagenum": 37,
+            "content": "1 अ/मत्र¦ <lex>a.</lex> strong, firm."
+        },
+        {
+            "word": "अमत्र",
+            "eid": "2523",
+            "pagenum": 37,
+            "content": "2 अ/मत्र¦ & अमत्र°क <lex>n.</lex> vessel, cup; <ab>p.</ab> अमत्रि/न्."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अमत्र",
+            "eid": "859",
+            "pagenum": 90,
+            "content": "<hom>1.</hom> <b>ámatra,</b>¦ <ab>a.</ab>, <i>ungestüm, gewaltig</i> [von am]; 2〉 <i>mächtig,</i> von Dingen. <div n='TS'>-as índras {61,9}; {270,4}. <div n='TS'>-am [<ab>n.</ab>] 2〉 sakhyám {319,6}."
+        },
+        {
+            "word": "अमत्र",
+            "eid": "860",
+            "pagenum": 90,
+            "content": "<hom>2.</hom> <b>ámatra,</b>¦ <ab>n.</ab>, <i>grosses Trinkgefäss,</i> aus welchem dem Indra (und Vayu) der Somatrank zugegossen wurde. Vielleicht bedeutet es, wie das <lang>gr.</lang> <gk>ἄμετρος</gk> (unermesslich, sehr gross), ursprünglich das unermessliche, sehr grosse, wie ja oft genug die ungeheuere Menge des von Indra verschlungenen Somatrankes geschildert wird (<ab>vgl.</ab> amātrá); <ab n='siehe'>s.</ab> das <ab>folg.</ab> <div n='TS'>-am {855,7}. <div n='TS'>-e {405,4}. <div n='TS'>-ebhis {205,1}; {483,2}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अमत्र",
+            "eid": "02858",
+            "pagenum": 55,
+            "content": "amatra¦ <i>n.</i> A vessel, a utensil, e.g. आसनं वसनं चैव शय्याऽमत्रं कमण्डलुः."
+        }
     ]
 }

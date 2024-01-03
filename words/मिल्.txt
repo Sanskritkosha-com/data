@@ -31,5 +31,37 @@
             "pagenum": 507,
             "content": "*मिल्¦ <i>mil.</i> <i>milāmi, mile</i> 6. Aller à la rencontre, se réunir, s'assembler; || s'unir, faire alliance ou société."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मिल्",
+            "eid": "24875",
+            "pagenum": 411,
+            "content": "मिल्¦ मिलति <vlex type='root'/> <ab>pp.</ab> मिलित (<ab>q.v.</ab>) meet, assemble, join (<ab>instr.</ab> ±सह, <ab>gen.</ab>, or <ab>loc.</ab>), mix, combine; occur, happen. <ab>C.</ab> मेलयति bring together with (<ab>gen.</ab>), assemble (tr.). <div n='p'>— सम् come together, be present, get into possession of (<ab>gen.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मिल्",
+            "eid": "18886",
+            "pagenum": 333,
+            "content": "मिल्,¦ मिलति sich vereinigen, zusammenkomen <lbinfo n='5'/> mit <i>(Instr. mit u. ohne</i> सह, <i>Gen. o. Loc.)</i>, sich einstellen, eintreten. <i>p. p.</i> मिलित zusammengekommen, vereinigt, <lbinfo n='7'/> eingetroffen. <i>Caus.</i> मेलयति zusammenkommen <lbinfo n='12'/> lassen, z. rufen, versammeln. <lbinfo n='8'/> सम् = <i>Simpl.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "मिल्",
+            "eid": "3283",
+            "pagenum": 217,
+            "content": "<b>√mil</b>¦ (<b>miláti; miméla; miliṣyáti; militá;</b> <b>militvā́; -mílya</b>). meet; assemble. [<ab>cf.</ab> <ab>Lat.</ab> <i>mille,</i> ‘assemblage, host, thousand,’ <ab>pl.</ab> <i>mīl-ia,</i> whence the borrowed <ab>Eng.</ab> <i>mile,</i> ‘a thousand (paces), mīlia passuum’; <lbinfo n='pas-suum’;'/> perhaps <i>mīl-it-es,</i> ‘going in companies  <lbinfo n='com-panies'/> <i>or</i> troops’ and so, like <ab>Eng.</ab> <i>troops,</i> ‘soldiers.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मिल्",
+            "eid": "30225",
+            "pagenum": 573,
+            "content": "mil¦ <i>vt. or vi. 6U (pp. मिलित; pres. मिलति-ते)</i> 1. To meet, to associate, to meet tegether, to come together, याताः किं न मिलंति सुंदरि पुनश्चिंता त्वया मत्कृते नो कार्या <ls>Am.S.</ls>10, मिलितशिलीमुखपाटलिपटलकृतस्मरतूणाविलासे <ls>Git.G.</ls>i.; 2. to join, to accompany; 3. to clash; 4. to happen."
+        }
     ]
 }

@@ -44,5 +44,71 @@
             "pagenum": 317,
             "content": "दाय¦ <i>dāya</i> <ab>m.</ab> (<ab>sfx.</ab> <i>ya)</i> don, présent; || cadeau de noces; || aumône. -- <i>(do)</i> division, <lbinfo n='5'/> partage; || part d'héritage. || Mise en pièces, destruction. -- Place, position, <ab>cf.</ab> <i>dhā.</i>  <P><i>dāyaka</i> <ab>a.</ab> (<ab>sfx.</ab> <i>aka)</i> libéral, qui donne.  <P><i>dāyabandhu</i> <ab>m.</ab> cohéritier, frère.  <P><i>dāyabhāga</i> <ab>m.</ab> distribution des parts, partage <lbinfo n='4'/> d'un héritage.  <P><i>dāyavibhāga</i> <ab>m.</ab> <ab>mms.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "दाय",
+            "eid": "13552",
+            "pagenum": 223,
+            "content": "1 दाय¦ <lex>a.</lex> giving (—°); <lex>m.</lex> gift."
+        },
+        {
+            "word": "दाय",
+            "eid": "13553",
+            "pagenum": 223,
+            "content": "2 दाय/¦ <lex>m.</lex> share, portion, inheritance."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दाय",
+            "eid": "9592",
+            "pagenum": 171,
+            "content": "1. दाय¦ gebend, schenkend (—°); <i>m.</i> Gabe, Geschenk."
+        },
+        {
+            "word": "दाय",
+            "eid": "9593",
+            "pagenum": 171,
+            "content": "2. दाय/¦ <i>m.</i> Anteil, Erbteil, Erbschaft."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दाय",
+            "eid": "4197",
+            "pagenum": 595,
+            "content": "<b>dāyá,</b>¦ <ab>m.</ab>, <i>Antheil, Erbtheil</i> [von <hom>1.</hom> <hom>2.</hom> dā]. <div n='TS'>-ám śrámasya 〰 ví bhajanti ebhyas {940,10}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "दाय",
+            "eid": "1475",
+            "pagenum": 86,
+            "content": "<i>dāya</i>¦ (EI 23), a gift."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दाय",
+            "eid": "1930",
+            "pagenum": 169,
+            "content": "<b>1dāya,</b>¦ <i><ab>a.</ab></i> giving. [<b>√1dā.</b>]"
+        },
+        {
+            "word": "दाय",
+            "eid": "1931",
+            "pagenum": 169,
+            "content": "<b>2dāyá,</b>¦ <i><ab>m.</ab></i> portion, inheritance. [<b>√2dā:</b> <ab>cf.</ab> <lang n='greek'>δαίς</lang>, ‘portion, meal.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दाय",
+            "eid": "16739",
+            "pagenum": 330,
+            "content": "dAya¦ <i>m.</i> 1. A gift, a present, अस्वामिना कृतो यस्तु दायो विक्रय एव वा <ls>M.</ls>viii.199; 2. a nuptial present given to the bride or the bride-groom; 3. delivery, handing over; 4. share, portion, inheritance, patrimony, अनपत्यस्य पुत्रस्य माता दायमवाप्नुयात् <ls>M.</ls>ix.217; 5. dividing, distributing; 6. loss, destruction; 7. irony; 8. site, place."
+        }
     ]
 }

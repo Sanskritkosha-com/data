@@ -71,5 +71,55 @@
             "pagenum": 323,
             "content": "*दु¦ <i>du.</i> <i>dunomi</i> 5; <ab>p.</ab> <i>dudāva;</i> <ab>f2.</ab> <i>doṣyāmi;</i> <lbinfo n='8'/> <ab>a1.</ab> <i>adauṣam;</i> <ab>ppr.</ab> <i>dunvat;</i> || et <i>dūyāmi, dūue</i> 4; <ab>p.</ab> <i>duduve;</i> <ab>pp.</ab> <i>dūna.</i> Tourmenter, <lbinfo n='7'/> vexer, affliger. || Etre tourmenté: <i>manmathena</i> par l'amour; || s'affliger, souffrir. <lbinfo n='5'/> || <ab>Gr.</ab> <lang n='greek'>ὀδύνη</lang>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दु",
+            "eid": "13857",
+            "pagenum": 228,
+            "content": "1 दु¦ दुनो/ति (दुन्वते) <vlex type='root'/> <ab>pp.</ab> दून/ <ab>q.v.</ab> (& दुत) burn, grieve (tr. & intr.); <ab>P.</ab> दूयते (°ति) only intr. <ab>C.</ab> दावयति = <ab>S.</ab> tr. <div n='p'>—अभि burn (tr.). <div n='p'>आ <ab>M.</ab> grieve, be afflicted. <div n='p'>परि burn violently (intr.), be distressed. <div n='p'>प्र burn (intr.), vex, afflict. <div n='p'>वि burn, destroy; <ab>M.</ab> be distressed."
+        },
+        {
+            "word": "दु",
+            "eid": "13858",
+            "pagenum": 228,
+            "content": "2 दु¦  = 1 दिव्; only दविषाणि."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दु",
+            "eid": "9858",
+            "pagenum": 175,
+            "content": "1. दु¦ दुनो/ति brennen, (sich) quälen <i>o.</i> verzehren; beunruhigen, palgen. <i>Das</i> <i>Pass.</i> दूयते (°ति) <i>hat die intrans. Bed.</i> <i>p.p.</i> दून (तुत) gebrannt, beunruhigt, geplagt. <i>Caus.</i> दावयति <i>Simpl. trans.</i>"
+        },
+        {
+            "word": "दु",
+            "eid": "9859",
+            "pagenum": 175,
+            "content": "2. दु¦ = 1. दिव् spielen, <i>nur</i> दविषाणि."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दु",
+            "eid": "4283",
+            "pagenum": 612,
+            "content": "(<hom>1.</hom> <b>√du</b>)¦ [<ls>Cu. 〔258〕</ls>], <i>brennen</i> (transitiv), sowol als einfaches Verb, wie auch in Zusammensetzung mit abhí und ví, häufig im <ls>AV.</ls>, wo namentlich ausser dem Particip II. dūná (<ab>pl.</ab> dūnā́s) die Stammform duno, dunu (dunv) in den Formen ví dunoti, dunvanti, abhidunván (<ab>Part.</ab> I.) vorkommt [<ab n='siehe'>s.</ab> <ls>BR.</ls>]."
+        },
+        {
+            "word": "दु",
+            "eid": "4284",
+            "pagenum": 612,
+            "content": "(<hom>2.</hom> <b>√du</b>* oder <b>√dū</b>*),¦ <i>in die Ferne gehen,</i> liegt in dávīyas, daviṣṭhá, sowie in dem zugehörigen Positiv dūrá (fern) und in dūtá (Bote), in duvanya, duvasaná zu Grunde; zu vergleichen ist <lang>gr.</lang> <gk>δύω</gk>."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दु",
+            "eid": "17033",
+            "pagenum": 335,
+            "content": "du¦ <i>vt. or vi. 5P (pp. दुत or दुन; pres. दुनोति)</i> 1. To burn, to consume with fire; 2. to distress, to afflict, मुखं तव विश्रांतकथं दुनोति माम् <ls>R.</ls>viii.55; 3. to excite sorrow, to give pain, वर्णप्रकर्षे सति कर्णिकारं दुनोति निर्गंधतया स्म चेतः <ls>K.S.</ls>iii.28; 4. to be afflicted, मन्मथेन दुनोमि <ls>Git.G.</ls>iii."
+        }
     ]
 }

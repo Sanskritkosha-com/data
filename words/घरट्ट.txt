@@ -7,5 +7,29 @@
             "pagenum": 477,
             "content": "घरट्टः¦ A grinding stone."
         }
+    ],
+    "CAE": [
+        {
+            "word": "घरट्ट",
+            "eid": "9993",
+            "pagenum": 162,
+            "content": "घरट्ट¦ <lex>m.</lex>  grindstone."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "घरट्ट",
+            "eid": "6598",
+            "pagenum": 116,
+            "content": "घरट्ट¦ <i>u.</i> °क <i>m.</i> Handmühle."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "घरट्ट",
+            "eid": "12933",
+            "pagenum": 258,
+            "content": "Garawwa¦ <i>m.</i> A grinding stone, e.g. रे रे घरट्ट मा रोदीः कं कं न भ्रामयंत्यमूः । कटाक्षवीक्षणादेव कराकृष्टस्य का कथा."
+        }
     ]
 }

@@ -15,5 +15,65 @@
             "pagenum": 11,
             "content": "अजर¦ <i>ajara</i> <ab>a.</ab> <i>(jṝ)</i> qui ne vieillit pas.  <P><i>ajarya</i> <ab>n.</ab> <i>(jṝ)</i> amitié constante."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अजर",
+            "eid": "395",
+            "pagenum": 6,
+            "content": "अज/र¦ <lex>a.</lex> not aging, ageless, undecaying."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अजर",
+            "eid": "264",
+            "pagenum": 4,
+            "content": "अज/र¦ nicht alternd, <i>m. Pl.</i> die Flammen Agni's."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अजर",
+            "eid": "178",
+            "pagenum": 20,
+            "content": "<b>a-jára,</b>¦ <ab>a.</ab> Die erste Silbe erscheint am Schlusse derjenigen Verszeilen, welche mit jambischer Dipodie schliessen, verlängert ({58,2}; {58,4}; {127,5}. _{127,9}; {360,4}; {361,4}; {443,9}; {449,5}; {456,5}; {457,45}; {489,3}; {626,35}; {643,11}; {708,7}; {941,4}; {982,4}), während die viel zahlreichern Stellen, wo das Wort nach dem Einschnitte der elf- oder zwölf- silbigen Zeilen vorkommt, die ursprüngliche Kürze begünstigen. Die Bedeutung <i>„nicht alternd, nicht morsch werdend, ewig jung“</i> (von jára) liegt überall zu Grunde. In diesem Sinn steht es namentlich als Beiwort 1〉 des Agni, wo es substantivisch zu fassen ist (<ab>z. B.</ab> {509,9}), 2〉 des Indra, 3〉 des Rudra, oder der Rudraʼs = Marutʼs, 4〉 der Uschas, 5〉 der dyā́vāpṛthivī́ (Himmels und der Erde), 6〉 der Sonne, 7〉 der aśvínā, 8〉 der Presssteine (wo sie als Götter gefasst sind), 9〉 der Flammen Agniʼs, die oft persönlich als den Agni schmückend, von ihm aufsteigend <ab>u. s. w.</ab> gefasst werden, und zwar theils mit bhānávas oder agnáyas verbunden, theils substantivisch, 10〉 lebloser Dinge (Wagen, Rad <ab>u. s. w.</ab>), 11〉 abstracter Begriffe, 12〉 als Prädicativ zu „sein“ oder „machen“ (as, dhā). <div n='TS'>-a 1〉 {58,4}; {127,9}; {443,9}; {446,7}; {449,5}; {457,45}; {643,11}; {941,4}. <div n='TS'>-as. 1〉 {58,2}; {144,4}; {146,2}; {236,2}; {257,1}; {358,2} (pitā́); {361,4}; {445,3}; {456,5}; {489,3}; {509,9}; {531,13}; {913,21}. 2〉 {463,3}; {876,5}. 10〉 {341,7} ráthas. <div n='TS'>-am [<ab>m.</ab>]. 1〉 {360,4}; {643,20}; {877,7}; {914,3}. 2〉 {266,7}; ({460,2};) {462,1}; {479,3}; {626,35}; {708,7} (prahetā́ram). 3〉 {490,10}. 6〉 {381,6}. 11〉 kṣáyam {490,15}. 12〉 {460,2}. <div n='TS'>-am [<ab>n.</ab>]. 10〉 cakrám {164,2}. _{164,14}; havís {914,1}; nákṣatram {982,4}. 11〉 śrávas {126,2}; bráhma {242,2}; dyumnám {446,7}; suvī́riam {449,6}; kṣatrám {534,25}; śocís {643,4}; jarā́yu (?) {932,6}. <div n='TS'>-au [<ab>d.</ab> <ab>m.</ab>]. 7〉 aśvinā {112,9}. <div n='TS'>-ās [<ab>m.</ab>]. 3〉 {64,3}. 8〉 ádrayas {920,11}. 9〉 {252,2}; {519,3}; agnáyas {127,5}; bhānávas {143,3}. <div n='TS'>-āsas. 9〉 {872,7} (agnáyas); {913,20}; 12〉 {570,2}. <div n='TS'><chg type='chg' n='7' src='gra'><old>-āni.</old><new>-āṇi.</new></chg> 10〉 śárdhāṃsi {917,7}. <div n='TS'>-ebhis. 9〉 {447,2}; vṛ́ṣabhis {446,4}. 10〉 skámbhanebhis {160,4}. <div n='TS'>-ais. 9〉 {199,4}. <div n='TS'>-ebhias. 8〉 {920,7}. <div n='TS'>-ā [<ab>f.</ab>]. 4〉 {113,13}. 10〉 svadhā́ {388,1}. <div n='TS'>-e [<ab>d.</ab> <ab>f.</ab>]. 5〉 {511,1}; {857,7}; {240,4} (dhenū́)."
+        },
+        {
+            "word": "अजर",
+            "eid": "11007",
+            "pagenum": 1741,
+            "content": "20,16.b <ab>v. u.</ab>: -āṇi <ab>st.</ab> -āni <info vn='chg 7 gra'/>"
+        },
+        {
+            "word": "अजर",
+            "eid": "12019",
+            "pagenum": 1749,
+            "content": "<b>a-jára:</b>¦<info vn='add 18 gra'/> <div n='TS'>-as 1〉 {398,3}; <div n='TS'>-ebhis 4〉 {620,5}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अजर",
+            "eid": "865",
+            "pagenum": 25,
+            "content": "अजर¦ Bahuvr. I. m. f. n. (-रः-रा-रम्) Undecaying, not becoming old or infirm. <div n='P'>II. f. (-रा) <sup>1</sup> Aloes perfoliata. See गृहकन्या. <sup>2</sup> See जीर्ण- फञ्जी, a climbing plant, a kind of वृद्धदारक q. v. E. अ priv. and जरा. With respect to the declension of this word, see जरा and अजरस्."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अजर",
+            "eid": "74",
+            "pagenum": 112,
+            "content": "<b>a-jára,</b>¦ <i><ab>a.</ab></i> not aging; ageless."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अजर",
+            "eid": "00493",
+            "pagenum": 7,
+            "content": "ajara¦ <i>(अजरस् is substitued for अजर in some cases) -a. (f. रा)</i> 1. Undecaying; 2. not subject to old age."
+        }
     ]
 }

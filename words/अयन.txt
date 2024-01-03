@@ -55,5 +55,61 @@
             "pagenum": 45,
             "content": "अयन¦ <i>ayana</i> <ab>n.</ab> <i>(i)</i> chemin; || action d'aller. || Une demi-année, proprement une marche du Soleil d'un solstice à l'autre."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अयन",
+            "eid": "2685",
+            "pagenum": 39,
+            "content": "अ/यन¦ <lex>a.</lex> going, coming; <lex>n.</lex> motion, walk. course, <ab>esp.</ab> the sun's road between the solstitial points, also solstice, half-year; way, manner; refuge, residence."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अयन",
+            "eid": "1714",
+            "pagenum": 26,
+            "content": "अ/यन¦ gehend, kommend; <i>n.</i> Gang, Weg, Lauf."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अयन",
+            "eid": "929",
+            "pagenum": 97,
+            "content": "<b>áyana,</b>¦ <ab>n.</ab>, <i>Gang, Weg</i> [von i]. <div n='TS'>-am {267,7}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "अयन",
+            "eid": "736",
+            "pagenum": 41,
+            "content": "<i>ayana</i>¦ (IE 7-1-2), ‘two’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अयन",
+            "eid": "1042",
+            "pagenum": 102,
+            "content": "<b>Ayana(ṃ)</b>¦ = Skanda: III, †14639 (“the half year”)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अयन",
+            "eid": "373",
+            "pagenum": 120,
+            "content": "<b>áyana,</b>¦ <i><ab>n.</ab></i> a going; place of going, way; course; <i><ab>esp.</ab></i> course (of the sun from one solstice to the other), <i><ab>i. e.</ab></i> half-year. [<b>√i,</b> <ls n='wg,1150'>1150.</ls> 1a.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अयन",
+            "eid": "03133",
+            "pagenum": 60,
+            "content": "ayana¦ <i>n.</i> 1. Motion; 2. the sun’s path north and south of the equator (called respectively उत्तरायण and दक्षिणायन); 3. a road, a path (as in स्वस्त्ययन, स्वेदायन); 4. the attainment of eternal bliss, नान्यः पन्थाविद्यतेऽयनाय <ls>Vaj.S.</ls>; 5. the period of the duration of the sun’s progress north or south of the equator; 6. the solstice (in astronomy); 7. an entrance to a military array of troops, अयनेषु च सर्वेषु यथाभागमवस्थिताः <ls>Bg.</ls>i.111."
+        }
     ]
 }

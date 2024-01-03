@@ -55,5 +55,43 @@
             "pagenum": 730,
             "content": "सैन्य¦ <i>sainya</i> <ab>a.</ab> <i>(senā)</i> d'armée, de l'armée. <lbinfo n='4'/> -- <ab>S.</ab> <ab>m.</ab> soldat. -- <ab>S.</ab> <ab>n.</ab> armée."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सैन्य",
+            "eid": "38048",
+            "pagenum": 635,
+            "content": "सैन्य¦ <lex>a.</lex> relating to an army; <lex>m.</lex> soldier, <lex>n.</lex> army (also <ab>m.</ab>), camp."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सैन्य",
+            "eid": "28372",
+            "pagenum": 509,
+            "content": "सैन्य¦ <i>Adj.</i> Heeres-; <i>m.</i> Soldat, Heer <i>(meist n.).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "सैन्य",
+            "eid": "5019",
+            "pagenum": 286,
+            "content": "<i>sainya</i>¦ (<i>Ep. Ind.,</i> Vol. XXXI, p. 71), probably, an administrative unit."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सैन्य",
+            "eid": "41601",
+            "pagenum": 796,
+            "content": "sEnya¦ <i>(I) m.</i> 1. A soldier; 2. a guard, a sentinel."
+        },
+        {
+            "word": "सैन्य",
+            "eid": "41602",
+            "pagenum": 796,
+            "content": "sEnya¦ <i>(II) n.</i> An army, कुमारसैन्यं सपदि स्थितं च तत् <ls>R.</ls>iii.40."
+        }
     ]
 }

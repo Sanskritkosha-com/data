@@ -42,5 +42,51 @@
             "pagenum": 633,
             "content": "बिल¦ <i>bila,</i> see <i>vila.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "बिल",
+            "eid": "22115",
+            "pagenum": 364,
+            "content": "बि/ल¦ <lex>n.</lex> cleft, hollow, cavern, <ab>den.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "बिल",
+            "eid": "16755",
+            "pagenum": 294,
+            "content": "बि/ल¦ <i>n.</i> Höhle, Loch, Öffnung, Rundung."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "बिल",
+            "eid": "6208",
+            "pagenum": 906,
+            "content": "<b>bíla,</b>¦ <ab>n.</ab>, <i>Höhle</i> [von bhid mit den in <ls>Ku. 〔12,123〕</ls> beschriebenen Lautübergängen]. <div n='TS'>-am valásya {11,5}; apā́m {32,11}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "बिल",
+            "eid": "2901",
+            "pagenum": 201,
+            "content": "<b>bíla,</b>¦ <i><ab>n.</ab></i> cleft; hollow. [perhaps <ab>fr.</ab> <b>√bil</b> or <b>bid,</b> collateral forms of <b>bhid,</b> ‘cleave.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "बिल",
+            "eid": "26570",
+            "pagenum": 509,
+            "content": "bila¦ <i>(I) n.</i> 1. A hole, a cavity, उद्ववामेंद्रसिक्ता भूर्विलमग्नाविवोरगौ <ls>R.</ls>xii.5; 2. a pit, a chasm; 3. an outlet, an opening."
+        },
+        {
+            "word": "बिल",
+            "eid": "26571",
+            "pagenum": 509,
+            "content": "bila¦ <i>(II) m.</i> An epithet of Uchchaiśravas, the horse of Indra."
+        }
     ]
 }

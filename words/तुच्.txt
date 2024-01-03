@@ -7,5 +7,35 @@
             "pagenum": 540,
             "content": "तुच्¦ <i><ab>m.</ab></i> <i><ab>f.</ab></i> <ab>Ved.</ab> Offspring, children."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तुच्",
+            "eid": "12420",
+            "pagenum": 205,
+            "content": "तु/च्¦ <ab>s.</ab> (only <ab>dat.</ab> तुचे) offspring."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तुच्",
+            "eid": "3780",
+            "pagenum": 538,
+            "content": "<hom>1.</hom> <b>túc,</b>¦ <ab>f.</ab>, <i>Kinder, Nachkommenschaft</i> [Abstammung <ab n='siehe'>s.</ab> unter takṣ]. <div n='TS'>-ucé {489,9}; {647,14}; 〰 tánāya {638,18}."
+        },
+        {
+            "word": "तुच्",
+            "eid": "3781",
+            "pagenum": 538,
+            "content": "<hom>2.</hom> <b>túc</b>¦ in ā-túc, <ab>vgl.</ab> tvac."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तुच्",
+            "eid": "1772",
+            "pagenum": 164,
+            "content": "<b>túc,</b>¦ <i><ab>f.</ab></i> progeny. [<ab>cf.</ab> <b>toka.</b>]"
+        }
     ]
 }

@@ -31,5 +31,43 @@
             "pagenum": 137,
             "content": "कति¦ <i>kati</i> <ab>a.</ab> combien? || <ab>Lat.</ab> quot.  <P><i>katicit</i> <ab>a.</ab> plusieurs; quelques-uns.  <P><i>katipaya</i> <ab>a.</ab> [Le <ab>sfx.</ab> <i>paya</i> répond au <ab>gr.</ab> <lang n='greek'>ποῖος</lang>] quelques-uns."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कति",
+            "eid": "6912",
+            "pagenum": 107,
+            "content": "1 क/ति¦ (<ab>pron.</ab> <ab>interr.</ab>) how many? <ab>w.</ab> चिद् & अपि some, several."
+        },
+        {
+            "word": "कति",
+            "eid": "6913",
+            "pagenum": 107,
+            "content": "2 कति¦ <lex>m.</lex> <ab>N.</ab> of an ancient sage."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कति",
+            "eid": "4268",
+            "pagenum": 71,
+            "content": "क/ति¦ <i>(Pron. interr.)</i> wie viele? <i>mit</i> चिद् उ. अपि einige."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कति",
+            "eid": "2396",
+            "pagenum": 310,
+            "content": "<b>káti,</b>¦ <ab>pr.</ab>, <i>wie viele ?</i> [von ká]; <ab>N.</ab> <ab>A.</ab> <ab>pl.</ab> in allen drei Geschlechtern káti (<lang>lat.</lang> quot); 2〉 mit folgendem cid: <i>einige, alle</i>. <div n='TS'>-i 1〉 yójanā {912,20}; agnáyas, sū́riāsas, uṣā́sas, ā́pas {914,18}. — 2〉 paripríyas {784,1}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कति",
+            "eid": "07987",
+            "pagenum": 163,
+            "content": "kati¦ <i>pron. (declined in the plural only; nom. and acc. कति)</i> 1. How many, एभिभूतैः स्मर कति कृताः स्वांत ते विप्रलंभाः <ls>Sant.S.</ls>iii.18. When followed by अपि, चन, or चित्, कति generally loses its interrogative character and means ‘several’ ‘some,’ कांते कत्यपि वासराणि गमय त्वं मीलयित्वा दृशो <ls>Am.S.</ls>25, तस्मिन्नद्रौ कतिचिदबलाविप्रयुक्तः स कामी नीत्वा मासान् <ls>Megh.</ls>i.2."
+        }
     ]
 }

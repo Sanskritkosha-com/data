@@ -36,5 +36,49 @@
             "pagenum": 404,
             "content": "<b>brāhmaṇya</b>¦, <lex>adj.</lex> (in <lang>Skt.</lang> only brah°, and in <lang>Pali</lang> only brahmañña; regularly follows śrāmaṇya, the long ā of which seems to have influenced this word in <lang>BHS</lang>), <i>devoted to brahmans</i>; regularly after mātṛjña, pitṛjña, śrāmaṇya; see <ab>s.v.</ab> <b>mātṛjña</b> for references. In some passages of <ls>Mv</ls> the <ab>mss.</ab> read brahmaṇya. <ab>Cf.</ab> <b>a-brā°</b>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ब्राह्मण्य",
+            "eid": "22467",
+            "pagenum": 370,
+            "content": "ब्रा/ह्मण्य¦ <lex>a.</lex> fit for Brahmans; <lex>n.</lex> state or dignity of a Brahman, an assembly of Brahmans."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ब्राह्मण्य",
+            "eid": "17039",
+            "pagenum": 299,
+            "content": "ब्रा/ह्मण्य¦ für Brahmanen geeignet; <i>n.</i> Brahmahnenstand <lbinfo n='11'/> <i>o.</i> eine Gesellschaft von Brahmanen."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "ब्राह्मण्य",
+            "eid": "1071",
+            "pagenum": 61,
+            "content": "<i>brāhmaṇya</i>¦ (SII 1), the community of Brāhmaṇas."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ब्राह्मण्य",
+            "eid": "26963",
+            "pagenum": 516,
+            "content": "brAhmaRya¦ <i>(I) a. (f. ण्या)</i> Suitable for a Brāhmaṇa."
+        },
+        {
+            "word": "ब्राह्मण्य",
+            "eid": "26964",
+            "pagenum": 516,
+            "content": "brAhmaRya¦ <i>(II) m.</i> An epithet of the planet Saturn."
+        },
+        {
+            "word": "ब्राह्मण्य",
+            "eid": "26965",
+            "pagenum": 516,
+            "content": "brAhmaRya¦ <i>(III) n.</i> 1. A multitude of Brāhmaṇas; 2. the rank of a Brāhmaṇa, <ls>M.</ls>iii.17."
+        }
     ]
 }

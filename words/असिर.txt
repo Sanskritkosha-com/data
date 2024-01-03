@@ -7,5 +7,19 @@
             "pagenum": 213,
             "content": "असिरः¦ [अस् क्षेपे किरच्] <b>1</b> A beam, a ray. <b>--2</b> An arrow, a bolt."
         }
+    ],
+    "GRA": [
+        {
+            "word": "असिर",
+            "eid": "1338",
+            "pagenum": 155,
+            "content": "<b>ásira,</b>¦ <ab>m.</ab>, <i>Strahlengeschoss</i> (der Sonne), von <hom>2.</hom> as. <div n='TS'><chg type='chg' n='48' src='gra'><old>-ena</old><new>-eṇa</new></chg> sū́riasya {788,4}."
+        },
+        {
+            "word": "असिर",
+            "eid": "11048",
+            "pagenum": 1742,
+            "content": "155,7: -eṇa <ab>st.</ab> -ena <info vn='chg 48 gra'/>"
+        }
     ]
 }

@@ -57,5 +57,57 @@
             "pagenum": 619,
             "content": "वेश¦ <i>veśa</i> <ab>m.</ab> <i>(viś)</i> entrée; || maison; || maison de prostitution. -- Vêtement; ornement, <lbinfo n='5'/> parure. || <ab>Lat.</ab> vicus; <ab>gr.</ab> <lang n='greek'>οἶϰος</lang>; <ab>goth.</ab> veihs; <ab>lith.</ab> ûkis; <ab>cf.</ab> <i>oka.</i>  <P><i>veśaka</i> <ab>m.</ab> habitation. -- <ab>F.</ab> <i>veśikā</i> entrée. <lbinfo n='5'/>  <P><i>veśadāna</i> <ab>m.</ab> hélianthe, <ab>bot.</ab>  <P><i>veśadhārin</i> <ab>m.</ab> <i>(dhṛ)</i> hypocrite, faux dévot.  <P><i>veśayāmi</i> <ab>c.</ab> de <i>viś.</i>  <P><i>veśavāra</i> <ab>m.</ab> assaisonnement, épice."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वेश",
+            "eid": "31037",
+            "pagenum": 523,
+            "content": "1 वेश/¦ <lex>m.</lex> settler, neighbour; dwelling, tent, house, <ab>esp.</ab> brothel."
+        },
+        {
+            "word": "वेश",
+            "eid": "31038",
+            "pagenum": 523,
+            "content": "2 वेश¦ <ab>v.</ab> 1 वे/ष."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वेश",
+            "eid": "23515",
+            "pagenum": 425,
+            "content": "1. वेश/¦ <i>m.</i> Anbauer, Sasse, Nachbar; Wohnung, <lbinfo n='5'/> Zelt, Haus, <i>sp. bes.</i> Hurenhaus."
+        },
+        {
+            "word": "वेश",
+            "eid": "23516",
+            "pagenum": 425,
+            "content": "2. वेश¦ <i>s.</i> 1. वेष."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वेश",
+            "eid": "8478",
+            "pagenum": 1355,
+            "content": "<b>veśá,</b>¦ <ab>m.</ab> [von viś, <lang>gr.</lang> <gk>οἶϰος</gk>] 1〉 <i>Haus, Familie;</i> 2〉 <i>Hausgenosse;</i> 3〉 Eigenname. <div n='TS'>-ám 1〉 {439,7} (nítyam, áraṇam). — 3〉 {875,5}. <div n='TS'>-ásya 2〉 ṛṇám {299,13} (neben āpés)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वेश",
+            "eid": "4038",
+            "pagenum": 252,
+            "content": "<b>veśá,</b>¦ <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> settler; neighbor. <div n='2'/><b>—2.</b> (settlement, <lbinfo n='(set-tlement,'/> <i><ab>i. e.</ab></i>) dwelling, house. [<b>√viś:</b> <ab>cf.</ab> <lang n='greek'>οἶκος</lang>, ‘house,’ Old <ab>Lat.</ab> <i>veicus,</i> <ab>Lat.</ab> <i>vīcus,</i> ‘houses, quarter of a town, village’: hence the borrowed <ab>AS.</ab> <i>wīc,</i> ‘town,’ as in <i>Eoforwīc,</i> <lbinfo n='Eofor-wīc,'/> <ab>Eng.</ab> <i>York,</i> <ab>prop.</ab> ‘Eber-stadt’ or ‘Boar-town,’ and perhaps in <i>Nor-wich,</i> ‘Nor-ton.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वेश",
+            "eid": "36280",
+            "pagenum": 692,
+            "content": "veSa¦ <i>m.</i> 1. Dress, apparel, गतवति कृतवेशे केशवे कुंजशय्याम् <ls>Git.G.</ls>xi.; 2. entrance, ingress; 3. a house, a dwelling; 4. a house of prostitutes, तरुगणनसहायश्चिंत्यतां वेशवासः <ls>Mrich.</ls>i."
+        }
     ]
 }

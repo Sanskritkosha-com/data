@@ -39,5 +39,37 @@
             "pagenum": 493,
             "content": "मरण¦ <i>maraṇa</i> <ab>n.</ab> <i>(mṛ;</i> <ab>sfx.</ab> <i>ana)</i> la mort."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मरण",
+            "eid": "24013",
+            "pagenum": 398,
+            "content": "मरण¦ <lex>n.</lex> = मर; °णं कृ to die."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मरण",
+            "eid": "18220",
+            "pagenum": 322,
+            "content": "मरण¦ <i>n.</i> = मर; °ण/ कर् (<i>Med.</i>) sterben."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "मरण",
+            "eid": "3150",
+            "pagenum": 213,
+            "content": "<b>maraṇa,</b>¦ <i><ab>n.</ab></i> death. [<b>√1mṛ,</b> ‘die.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मरण",
+            "eid": "29113",
+            "pagenum": 556,
+            "content": "maraRa¦ <i>m.</i> 1. Dying, death, संभावितस्य चाकीर्तिर्मरणादतिरिच्यते <ls>Bg.</ls>ii.4; 2. a kind of deadly poison."
+        }
     ]
 }

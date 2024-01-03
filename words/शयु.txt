@@ -28,5 +28,49 @@
             "pagenum": 934,
             "content": "शयु¦ <i>śayu,</i> <ab>i. e.</ab> <i>śī + u,</i> <ab>m.</ab> <b>1.</b> A snake, boa-constrictor. <b>2.</b> A proper name, <ls>Chr.</ls> 297, 16 = <ls>Rigv.</ls> i. 112, 16."
         }
+    ],
+    "CAE": [
+        {
+            "word": "शयु",
+            "eid": "31911",
+            "pagenum": 539,
+            "content": "शयु/¦ <lex>a.</lex> lying, resting."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शयु",
+            "eid": "24191",
+            "pagenum": 437,
+            "content": "शयु/¦ liegend, ruhend; <i>m. mythol. Mannsn.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "शयु",
+            "eid": "8676",
+            "pagenum": 1381,
+            "content": "<b>śayú,</b>¦ <ab>a.</ab>, <ab>m.</ab>, [von śī], 1〉 <ab>a.</ab>, <i>liegend, ruhend,</i> (Gegensatz cárat), von Agni und Indra; 2〉 <ab>m.</ab>, Eigenname eines Mannes, dem die Aśvinen die unfruchtbare Kuh mit Milch füllen. <div n='TS'>-ús 1〉 dvimātā́ (agnī́s) {31,2}; {289,6}. <div n='TS'>-úm 1〉 〰 kás tvā́m (índram) ajighāṃsat cárantam {314,12}. — 2〉 {866,8}. <div n='TS'>-áve 2〉 {112,16}; {116,22}; {117,20}; {118,8};<chg type='del' n='82' src='gra'><old> {119,6};</old></chg> {503,7}; {584,8}; {865,13}."
+        },
+        {
+            "word": "शयु",
+            "eid": "11354",
+            "pagenum": 1748,
+            "content": "1381,21.b <ab>v. u.</ab>: {119,6} <info vn='del 82 gra'/>"
+        },
+        {
+            "word": "शयु",
+            "eid": "12614",
+            "pagenum": 1771,
+            "content": "<b>śayú:</b>¦<info vn='add 553 gra'/> <div n='TS'>*-ós avasám {119,6}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शयु",
+            "eid": "37137",
+            "pagenum": 710,
+            "content": "Sayu¦ <i>m.</i> A large snake."
+        }
     ]
 }

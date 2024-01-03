@@ -50,5 +50,57 @@
             "pagenum": 1,
             "content": "वामदेव¦ <HI1>Haṭhayogaviveka."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वामदेव",
+            "eid": "28827",
+            "pagenum": 485,
+            "content": "वाम/देव¦ <lex>m.</lex> <ab>N.</ab> of a Ṛṣi."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वामदेव",
+            "eid": "21905",
+            "pagenum": 397,
+            "content": "वाम/देव¦ <i>Mannsn., bes. eines alten Rishi.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वामदेव",
+            "eid": "7910",
+            "pagenum": 1259,
+            "content": "<b>vāmá-deva,</b>¦ <ab>m.</ab>, Eigenname eines Sängers. <div n='TS'>-asya {312,18} bhúvas‿avitā́ 〰 dhīnā́m."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वामदेव",
+            "eid": "11479",
+            "pagenum": 706,
+            "content": "<b>Vāmadeva</b><sup>1</sup>,¦ a ṛṣi. § 266 (Śakrasabhāv.): II, <b>7</b>, 298 (in the palace of Indra).—§ 461 (Vāmadevacarita): III, <b>192</b>, ††13180, ††13181 (<i>°āśramaṃ</i>), ††13186, (†13187), †13188, (†13189), (†13191), †13192, (†13193), (†13195), †13196, †13197, †13199, †13200, †13201, (†13202), †13203, (†13205), (†13207), †13208, (†13209) (how <i>V</i>. got back his Vāmya horses).—§ 527 (Rāmopākhyānap.): III, <b>277</b>, 15981 (<i>Vaśiṣṭha-V°ābhyāṃ</i>).—§ 543 (Rāmābhiṣeka): III, <b>291</b>, 16597 (<i>Vaśiṣṭho V°aś ca</i>).—§ 562 (Bhagavadyānap.): V, <b>83</b>η, 2946 (do., worshipped Kṛṣṇa).—§ 641 (Rājadh.): XII, <b>92</b>, 3464 (<i>itihāsaṃ…gītaṃ…V°ena</i>), 3465 (<i>maharṣiṃ</i>), 3467, (3468); <b>93</b>, (3482); <b>94</b>, (3522), 3534 (instructed Vasumanas)."
+        },
+        {
+            "word": "वामदेव",
+            "eid": "11480",
+            "pagenum": 707,
+            "content": "<b>Vāmadeva</b><sup>2</sup>,¦ a prince. § 279 (Arjuna): II, <b>27</b>, 1020 (in the north, vanquished by Arjuna on his digvijaya)."
+        },
+        {
+            "word": "वामदेव",
+            "eid": "11481",
+            "pagenum": 707,
+            "content": "<b>Vāmadeva</b><sup>3</sup>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वामदेव",
+            "eid": "34342",
+            "pagenum": 653,
+            "content": "vAma-deva¦ <i>m.</i> 1. name of a sage; 2. an epithet of Śiva."
+        }
     ]
 }

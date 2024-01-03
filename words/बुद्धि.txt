@@ -44,5 +44,51 @@
             "pagenum": 466,
             "content": "बुद्धि¦ <i>buddhi</i> <ab>f.</ab> <i>(budh;</i> <ab>sfx.</ab> <i>ti)</i> intelligence, raison; || réflexion, science; || opinion, avis.  <P><i>buddhigrahya</i> <ab>a.</ab> <i>(grah)</i> qui peut être atteint <lbinfo n='5'/> par la raison, intelligible.  <P><i>buddhijīvin</i> <ab>a.</ab> raisonnable, intelligent.  <P><i>buddhimat</i> <ab>a.</ab> (<ab>sfx.</ab> <i>mat)</i> doué de raison; || doué de science, savant. || Qui se rend à la raison, docile. || Connu, fameux.  <P><i>buddhiyukta</i> <ab>a.</ab> <i>(yuj)</i> intelligent.  <P><i>buddhisahāya</i> <ab>m.</ab> conseiller, ministre.  <P><i>buddhīndriya</i> <ab>n.</ab> <i>(indriya)</i> organe sensible de l'intelligence [organes de la perception]."
         }
+    ],
+    "CAE": [
+        {
+            "word": "बुद्धि",
+            "eid": "22163",
+            "pagenum": 365,
+            "content": "बुद्धि¦ <lex>f.</lex> insight, intellect, reason, mind, judgment; perception, comprehension, knowledge; opinion, persuasion, supposition, notion, idea, conjecture, the taking for (—°); design, intention, purpose; <ab>instr.</ab> for the sake, on account, or because of (—°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "बुद्धि",
+            "eid": "16800",
+            "pagenum": 294,
+            "content": "बुद्धि¦ <i>m.</i> der Zustand des Wachens."
+        },
+        {
+            "word": "बुद्धि",
+            "eid": "16801",
+            "pagenum": 294,
+            "content": "बुद्धि¦ <i>f.</i> Einsicht, Geist, Vernunft, Weisheit, Meinung, Ansicht; Vermutung über <i>(Loc.)</i>, das Halten für (—°), Denken an, Sinnen auf <i>(Loc. o. —°). Instr.</i> बुद्ध्या (—°) wegen, um — willen, causa."
+        }
+    ],
+    "INM": [
+        {
+            "word": "बुद्धि",
+            "eid": "1879",
+            "pagenum": 169,
+            "content": "<b>Buddhi</b>.¦ § 115 (Aṃśāvat.): I, <b>66</b>, 2579 (daughter of Dakṣa and wife of Dharma).—§ 637 (Rājadh.): XII, <b>45</b>, 1549 (<i>devī</i>).—§ 705 (Mokṣadh.): XII, <b>303</b>, 11231 (= Hiraṇyagarbha).—§ 707 (do.): XII, <b>314</b>, 11618."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "बुद्धि",
+            "eid": "2904",
+            "pagenum": 201,
+            "content": "<b>buddhi,</b>¦ <i><ab>f.</ab></i> <div n='2'/><b>—1.</b> insight, understanding, intellect; mind, <ls n='lan,13,13'>13<sup>13</sup></ls>; wit, wits; <div n='2'/><b>—2.</b> mind <i>in the sense of</i> opinion (<i>as in <ab>Eng.</ab></i>); belief; <i>at end of <ab>cpds</ab>:</i> <b>vyāghra-buddhyā,</b> with tiger-belief, (mistakenly) thinking that it was a tiger, <ls n='lan,34,15'>34<sup>15</sup></ls>; <div n='2'/><b>—3.</b> mind <i>in the</i> <i>sense of</i> purpose, resolve (<i>as in <ab>Eng.</ab></i>); <b>buddhiṃ kṛ,</b> make up one's mind, <ls n='lan,58,12'>58<sup>12</sup></ls>; <b>buddhim pra-kṛ,</b> <i><ab>mid.</ab>,</i> put a plan before one's self, decide, <ls n='lan,9,11'>9<sup>11</sup></ls>. [<b>√budh,</b> <ls n='wg,1157'>1157</ls>: for <b>budh-ti</b> (160), the formal equivalent of <lang n='greek'>πύστις, *πυθ-τι-ς</lang>, ‘an inquiring.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "बुद्धि",
+            "eid": "26656",
+            "pagenum": 510,
+            "content": "budDi¦ <i>f.</i> 1. Perception; 2. intelligence, understanding, intellect, discernment, शास्त्रेष्वकुंठिता बुद्धिः <ls>R.</ls>i.19, मूढः परप्रत्ययनेयबुद्धिः <ls>Mal.</ls>i., <ls>M.</ls>i.97, 106; 3. knowledge, e.g. बुद्धिर्यस्य बलं तस्य निर्बुद्धेस्तु कुतो बलम् (Cf. ‘knowledge is power’); 4. presence of mind; 5. impression, idea, notion, feeling, सौहार्दाद्वा विधुर इति वा मय्यनुक्रोशबुद्ध्या <ls>Megh.</ls>ii.52; 7. mind (as in कृपणबुद्धि q.v.); 8. purpose, plan, design; (बुद्ध्या ‘deliberately, purposely’); 9. intellect considered as the second of the twenty-five principles of creation (in Sānkhya phil.)."
+        }
     ]
 }

@@ -31,5 +31,43 @@
             "pagenum": 137,
             "content": "कतम¦ <i>katama</i> <ab>a.</ab> (<ab>sup.</ab> de <i>kas)</i> qui de tous?"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कतम",
+            "eid": "6909",
+            "pagenum": 107,
+            "content": "कतम/¦ <lex>a.</lex> (<ab>pron.</ab> <ab>interr.</ab>) who or which (of many)?"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कतम",
+            "eid": "4266",
+            "pagenum": 71,
+            "content": "कतम/¦ <i>(Pron. interr.)</i> wer? welcher? <i>(von</i> <i>Vielen).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कतम",
+            "eid": "2394",
+            "pagenum": 310,
+            "content": "<b>katamá,</b>¦ <ab>pr.</ab>, <i>welcher,</i> unter vielen [<ab>Superl.</ab> von ká], fragend, oft ({339,1}. _{339,2}; {462,4}; {877,2}; {890,1}; {24,1}; {866,14}; {35,7}) an eine vorhergehende Frage mit ká sich anschliessend; 2〉 mit folgendem caná und vorhergehendem ná oder mā́: <i>nicht irgendwelcher = keiner</i>. <div n='TS'>-ás yajñíyānām {339,1}; devā́nām {339,2}; hótā {462,4}; sá devás {877,2}; (devás) {890,1}. <div n='TS'>-ád [<ab>n.</ab>] 2〉 áhar {994,3}; énas {954,4}. <div n='TS'>-ásya amṛ́tānām {24,1}; devā́nām {890,1}; viprásya {866,14}. <div n='TS'>-ā́ purāṇī́ (uṣā́s) {347,6} (āsām). <div n='TS'>-ā́m dyā́m {35,7}. <div n='TS'>-ā́su vikṣú {866,14}."
+        },
+        {
+            "word": "कतम",
+            "eid": "12270",
+            "pagenum": 1758,
+            "content": "<b>katamá:</b>¦<info vn='add 246 gra'/> <div n='TS'>-ád ārámbhaṇam {907,2}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कतम",
+            "eid": "07984",
+            "pagenum": 163,
+            "content": "katama¦ <i>pron. (f. मा, n. मत्)</i> who or which of many, अपि ज्ञायते कतमेन दिग्भागेन गतः स जाल्म इति <ls>Vikr.</ls>i., नगेभ्यो यांतीनां कथय तटिनीनां कतमया पुराणां संहर्तुः सुरधुनि कपर्दोऽधिरुरुहे <ls>G.L.</ls>22, अथ कतमं पुनर्क्रतुमधिकृत्य गास्यामि <ls>Sak.</ls>i., कतमं समयमाश्रित्य गीयताम् <ls>Ve.</ls>i. (कतम, however, is often used as a mere strengthened substitute for किम्.)"
+        }
     ]
 }

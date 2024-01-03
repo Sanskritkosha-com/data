@@ -74,5 +74,53 @@
             "pagenum": 199,
             "content": "क्षेत्र¦ <i>kṣetra</i> <ab>n.</ab> <i>(kṣi</i> 6; <ab>sfx.</ab> <i>tra)</i> champ, plaine, campagne; <ab>cf.</ab> <i>kṣiti.</i> || par <ab>ext.</ab> lieu sacré, lieu de pélerinage; || figure géométrique. <lbinfo n='7'/> -- <i>(kṣi</i> 1) domaine, pays conquis ou possédé en propriété; || au <ab>fig.</ab> épouse. -- Le corps, la matière [en métaphysique].  <P><i>kṣetraja</i> <ab>m.</ab> <i>(jan)</i> fils qu'une femme a légalement <lbinfo n='8'/> d'un parent de son mari.  <P><i>kṣetrajña</i> <ab>a.</ab> <i>(jñā)</i> adroit, habile; || paysan, paysanne. -- <ab>S.</ab> <ab>m.</ab> l'âme, l'intelligence [qui connaît le corps et qui a l'idée de la matière]: <lbinfo n='7'/> <i>kṣetrakṣetrajñau</i> le corps et l'esprit, la matière et son idée.  <P><i>kṣetrapati</i> <ab>m.</ab> <ab>Vd.</ab> le maître de la plaine, <ab>c-à-d.</ab> <s1 slp1='rudra'>Rudra</s1> ou les <s1 slp1='marut'>Marut</s1>s.  <P><i>kṣetrājīva</i> <ab>m.</ab> <ab>f.</ab> <i>(ā; jīv)</i> paysan, paysanne.  <P><i>kṣetrāmalakī</i> <ab>f.</ab> flacourtia cataphracta, <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "क्षेत्र",
+            "eid": "8926",
+            "pagenum": 142,
+            "content": "क्षेत्र¦ <lex>n.</lex> dwelling-place, piece of ground, field, place, seat; womb, wife."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "क्षेत्र",
+            "eid": "5765",
+            "pagenum": 99,
+            "content": "क्षे/त्र¦ <i>n.</i> Grundstück, Feld, Ort, Gegend, Aufenthalt, Fundstelle; Mutterleib, Ehefrau."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "क्षेत्र",
+            "eid": "2820",
+            "pagenum": 370,
+            "content": "<b>kṣétra,</b>¦ <ab>n.</ab>, <i>Grundbesitz, Grundstück</i> [von <hom>1.</hom> kṣi]; daher 2〉 <i>Feld, Acker;</i> 3〉 <i>Gegend, Land;</i> 4〉 insbesondere kṣétrasya pátis, Beschützer des <i>Grund und Bodens</i> (ein Genius). — <ab>Adj.</ab> agavyutí, áraṇa, tílvila, bhadrá, raṇvá, ścandrá. <div n='TS'>-am 1〉 {100,18}; {265,15}; {797,4}; {803,6}; {859,6}. — 2〉 {110,5}; {488,20}. — 3〉 {399,9}. <div n='TS'>-āt 2〉 {119,7}. — 3〉 {356,3}. _{356,4}. <div n='TS'>-asya 1〉 sātā́ {112,22}. — 4〉 {353,1}. _{353,2}. _{353,3}; {551,10}; {892,13}. <div n='TS'>-āya 1〉 {616,4}. <div n='TS'>-e 1〉 {416,7}. <div n='TS'>-āṇi 2〉 {502,14}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "क्षेत्र",
+            "eid": "2872",
+            "pagenum": 163,
+            "content": "<i>kṣetra</i>¦ (EI 24), a department or committee. <div n='P'>(<i>SII</i> 1), a sacred place. Cf. <i>Varāha-kṣetra.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "क्षेत्र",
+            "eid": "1298",
+            "pagenum": 147,
+            "content": "<b>kṣétra,</b>¦ <i><ab>n.</ab></i> dwelling-place, <ls n='lan,87,17'>87<sup>17</sup></ls>; piece of ground; field. [<b>√1kṣi 1.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "क्षेत्र",
+            "eid": "11027",
+            "pagenum": 222,
+            "content": "kzetra¦ <i>n.</i> 1. Landed property, soil, a field, e.g. चीयते बालिशस्यापि सत्क्षेत्रपतिता कृषिः <ls>Mud.</ls>i., <ls>M.</ls>x.114; 2. place, region, कपटशतमयं क्षेत्रमप्रत्ययानाम् <ls>Bhartr.</ls>i.77, <ls>Sant.S.</ls>ii.3, <ls>Megh.</ls>i.16; 3. a sacred spot, a place of pilgrimage, क्षेत्रं क्षुत्रप्रधनंपिशुनं कौरवं तद्भजेथाः <ls>Megh.</ls>i.46, <ls>Bg.</ls>i.1; 4. an enclosed spot of ground; 5. fertile soil; 6. place of origin; 7. the body considered as the abode of the soul, योगिनो यं विचिन्वंति क्षेत्राभ्यंतरवर्तिनम् <ls>K.S.</ls>vi.77, <ls>Bg.</ls>xiii.1, 2; 8. the mind; 9. a wife, तौ तु जातौ परक्षेत्रे <ls>M.</ls>iii.175; 10. a house, a town; 11. a plain figure (in Geometry), a diagram."
+        }
     ]
 }

@@ -44,5 +44,49 @@
             "pagenum": 503,
             "content": "मायु¦ <i>māyu</i> <ab>m.</ab> bile."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मायु",
+            "eid": "24672",
+            "pagenum": 408,
+            "content": "1 मायु/¦ charm, spell (only —°)."
+        },
+        {
+            "word": "मायु",
+            "eid": "24673",
+            "pagenum": 408,
+            "content": "2 मायु/¦ <lex>m.</lex> bleating, roaring, a <ab>cert.</ab> animal."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मायु",
+            "eid": "18728",
+            "pagenum": 331,
+            "content": "मायु/¦ <i>m.</i> das Gebrüll, Geblök."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "मायु",
+            "eid": "6802",
+            "pagenum": 1036,
+            "content": "<hom>1.</hom> <b>māyú,</b>¦ <ab>m.</ab>, das <i>Blöken, Brüllen</i> [von <hom>2.</hom> mā], des Rindes (<ab>vgl.</ab> gó-māyu), der Ziege (<ab>vgl.</ab> ajá-māyu), des Schafes. <div n='TS'>-ús gávām {619,2}. <div n='TS'>-úm gaús ‥ mímāti 〰 {164,28}; úrā ná 〰 {921,3}."
+        },
+        {
+            "word": "मायु",
+            "eid": "6803",
+            "pagenum": 1036,
+            "content": "<hom>2.</hom> <b>(māyú),</b>¦ <ab>m.</ab>, <i>Zauberei, Zauberkunst</i> (= māyā́), enthalten in durmāyú."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मायु",
+            "eid": "30007",
+            "pagenum": 570,
+            "content": "mAyu¦ <i>m.n.</i> Bile, the bilious humour."
+        }
     ]
 }

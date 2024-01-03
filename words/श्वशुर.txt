@@ -44,5 +44,45 @@
             "pagenum": 663,
             "content": "श्वशुर¦ <i>śvaśura</i> <ab>m.</ab> beau-père, en <ab>gén.</ab> || <ab>Qqf.</ab> homme respectable qui mérite d'être traité comme un beau-père. || Au <ab>du.</ab> beaupère <lbinfo n='4'/> et belle-mère. || <ab>Gr.</ab> <lang n='greek'>ἑϰυρός</lang>; <ab>lat.</ab> socer; <ab>lith.</ab> szeszur; <ab>goth.</ab> swaihra; <ab>etc.</ab>  <P><i>śvaśurya</i> <ab>m.</ab> beau-frère. || <ab>Germ.</ab> schwager. <lbinfo n='4'/>  <P><i>śvaśrū</i> <ab>f.</ab> belle-mère. || <ab>Gr.</ab> <lang n='greek'>ἑϰυρά</lang>; <ab>lat.</ab> socrus; <lbinfo n='5'/> <ab>goth.</ab> swaihrô; <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "श्वशुर",
+            "eid": "33549",
+            "pagenum": 564,
+            "content": "श्व/शुर¦ <lex>m.</lex> father-in-law; <ab>du.</ab> father and mother-in-law."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "श्वशुर",
+            "eid": "25330",
+            "pagenum": 457,
+            "content": "श्व/शुर¦ <i>m.</i> Schwiegervater; <i>Du. u. Pl.</i> die Schwiegereltern."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "श्वशुर",
+            "eid": "9028",
+            "pagenum": 1433,
+            "content": "<b>śváśura</b>¦ [aus *svá-śura durch Lautanziehung entstanden <ls>Cu. 〔20〕</ls>], <ab>m.</ab>, <i>Schwäher, Schwiegervater;</i> 2〉 <ab>du.</ab> und <ab>pl.</ab>, <i>Schwiegerältern</i>. <div n='TS'>-as {854,1}. <div n='TS'>-āya {921,4}. <div n='TS'>-e {911,46}. <div n='TS'>-eṣu 2〉 {921,12}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "श्वशुर",
+            "eid": "4306",
+            "pagenum": 262,
+            "content": "<b>śváśura,</b>¦ <i><ab>m.</ab></i> father-in-law. [for <b>*sváśura:</b> <lbinfo n='*svá-śura:'/> <ab>cf.</ab> <lang n='greek'>ἑκυρός</lang>, <ab>Lat.</ab> <i>socer, socerus,</i> Church Slavonic <i>swekrŭ,</i> <ab>AS.</ab> <i>sweor, *sweohor,</i> <ab>Ger.</ab> <i>Schwäher,</i> ‘father-in-law’: for <b>ś</b> in place of <b>s,</b> <ab>cf.</ab> <b>śaśa</b> and <b>√śuṣ.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "श्वशुर",
+            "eid": "38745",
+            "pagenum": 735,
+            "content": "SvaSura¦ <i>m.</i> A father-in-law, a wife’s or husband’s father, <ls>M.</ls>iii.119."
+        }
     ]
 }

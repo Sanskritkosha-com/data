@@ -37,5 +37,45 @@
             "pagenum": 701,
             "content": "*सस्¦ <i>sas.</i> <i>sasmi</i> 2; <ab>p.</ab> <i>sasāsa;</i> <ab>a1.</ab> <i>asasiṣam</i> et <i>asāsiṣam.</i> Dormir."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सस्",
+            "eid": "36125",
+            "pagenum": 606,
+            "content": "सस्¦ स/स्ति स/सस्ति सस/स्ति slumber, be lazy or slothful."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सस्",
+            "eid": "26993",
+            "pagenum": 487,
+            "content": "सस्,¦ स/स्ति, स/सस्ति <i>o.</i> सस/स्ति schlafen, daliegen, <lbinfo n='7'/> unthätig sein."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सस्",
+            "eid": "9493",
+            "pagenum": 1494,
+            "content": "<b>√sas,</b>¦ <i>schlafen</i> [siehe <ls>Bugge in Ku. Zeitschr. 〔20,33〕</ls>], auch 2〉 bildlich: <i>unthätig sein,</i> oder 3〉 <i>im Todesschlafe liegen</i>. <div n='H'>Stamm <b>sás:</b> <div n='TS'>-sti yás avratás {706,3}. <div n='TS'>-stu mātā́, pitā́, śvā́, viśpátis, jánas {571,5}. <div n='H'><b>sas:</b> <div n='TS'>-stás [<pe>3.</pe> <ab>du.</ab>] 3〉 〰 dhúnīcúmurī {461,13}. <div n='TS'>-stām [<pe>3.</pe> <ab>du.</ab> <ab>Iv.</ab>] mithudṛ́śā {29,3} (ábudhyamāne). <div n='TS'>-sántu sárve jñātáyas {571,5}; áratāyas {29,4}. <div n='TS'>-santu paṇáyas (ábudhyamānās) {124,10}; {347,3}. <div n='H'><ab>Impf.</ab> <b>ásas:</b> <div n='TS'>-stanā 2〉 yád 〰 gṛhé {161,11}. <div n='H'><ab>Part.</ab> <b>sasát</b> (<ab>vgl.</ab> á-sasat): <div n='TS'>-ántam {347,5} (prabodháyantīs); áhim {103,7} (abodhayas); námim sāyiám {461,6}. <div n='TS'>-ántas 2〉 ṛbhávas {329,7}. <div n='TS'>-atás [<ab>A.</ab> <ab>p.</ab>] {124,4} (bodháyantī). — 2〉 {135,7} (áti vāyo yāhi). <div n='TS'>-atā́m 2〉 {53,1} (rátnam). <div n='TS'>-atīm {134,3} (prá bodhaya jārás 〰 iva)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सस्",
+            "eid": "4514",
+            "pagenum": 270,
+            "content": "<b>√sas</b>¦ (<b>sásti</b>). sleep, slumber."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सस्",
+            "eid": "40198",
+            "pagenum": 768,
+            "content": "sas¦ <i>vi. 2P (pres. सस्ति)</i> To sleep."
+        }
     ]
 }

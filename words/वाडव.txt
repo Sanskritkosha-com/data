@@ -39,5 +39,35 @@
             "pagenum": 833,
             "content": "वाडव¦ <i>vāḍava,</i> see <i>bāḍava.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वाडव",
+            "eid": "28742",
+            "pagenum": 484,
+            "content": "वाडव¦  = वाडब."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वाडव",
+            "eid": "21829",
+            "pagenum": 396,
+            "content": "वाडव¦ = वाडब."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वाडव",
+            "eid": "34204",
+            "pagenum": 651,
+            "content": "vAqava¦ <i>(I) m.</i> 1. Submarine fire; 2. a Brāhmaṇa."
+        },
+        {
+            "word": "वाडव",
+            "eid": "34205",
+            "pagenum": 651,
+            "content": "vAqava¦ <i>(II) n.</i> A collection of mares."
+        }
     ]
 }

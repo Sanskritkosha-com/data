@@ -55,5 +55,57 @@
             "pagenum": 45,
             "content": "अयस्¦ <i>ayas</i> <ab>n.</ab> fer, et peut-être primitivt. airain. || <ab>Lat.</ab> æs, ahenus; <ab>goth.</ab> ais; <ab>germ.</ab> eisen; <ab>angl.</ab> iron; <ab>fr.</ab> airain.  <P><i>ayaskānta</i> <ab>m.</ab> <i>(kam)</i> pierre précieuse; aimant. <lbinfo n='5'/>  <P><i>ayaskāra</i> <ab>m.</ab> la partie supérieure de la cuisse. || Forgeron.  <P><i>ayasmaya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>maya)</i> de fer."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अयस्",
+            "eid": "2692",
+            "pagenum": 39,
+            "content": "अ/यस्¦ <lex>n.</lex> metal, iron."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अयस्",
+            "eid": "1717",
+            "pagenum": 26,
+            "content": "अ/यस्¦ <i>n.</i> Erz, Eisen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अयस्",
+            "eid": "933",
+            "pagenum": 97,
+            "content": "<b>áyas,</b>¦ <ab>n.</ab>, <i>Metall, Eisen</i> [<lang>lat.</lang> aes, <lang>goth.</lang> aiz, eisarn]; 2〉 Eisen = eisernes Werkzeug, Schwert, Messer. <div n='TS'>-as {298,17}; {416,7}; {516,15}. <div n='TS'>-ase {57,3} (ist <ab>Inf.</ab> von i). <div n='TS'>-asas 2〉 dhā́rām {444,5}; {488,10}."
+        },
+        {
+            "word": "अयस्",
+            "eid": "12092",
+            "pagenum": 1751,
+            "content": "<b>áyas:</b>¦<info vn='add 81 gra'/> <div n='TS'>-as {163,9}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अयस्",
+            "eid": "374",
+            "pagenum": 120,
+            "content": "<b>áyas,</b>¦ <i><ab>n.</ab></i> metal; iron. [<ab>cf.</ab> Old <ab>Lat.</ab> <i>ais,</i> <ab>gen.</ab> <i>ais-is,</i> <ab>Lat.</ab> <i>aes,</i> ‘metal, bronze’; <ab>AS.</ab> <i>ār,</i> ‘bronze,’ <ab>Eng.</ab> <i>ore;</i> perhaps <ab>AS.</ab> <i>īsern,</i> <i>īren,</i> <ab>Eng.</ab> <i>iron,</i> ‘ferrum, ferreus.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अयस्",
+            "eid": "03142",
+            "pagenum": 60,
+            "content": "ayas¦ <i>(I) n.</i> 1. Iron, अभितप्तमयोपि मार्दवं भजते <ls>R.</ls>viii.43; 2. steel; 3. aloe-wood."
+        },
+        {
+            "word": "अयस्",
+            "eid": "03143",
+            "pagenum": 60,
+            "content": "ayas¦ <i>(II) m.</i> Fire."
+        }
     ]
 }

@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "संदानिनी तु गोशाला चित्रशाला तु जालिनी ।"
         }
+    ],
+    "CAE": [
+        {
+            "word": "गोशाला",
+            "eid": "9824",
+            "pagenum": 158,
+            "content": "गोशाला¦ <lex>f.</lex> cow-stall."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गोशाला",
+            "eid": "6466",
+            "pagenum": 113,
+            "content": "गोशाला¦ <i>f.</i> Kuhstall."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गोशाला",
+            "eid": "12619.1",
+            "pagenum": 250,
+            "content": "go-SAlA¦ <i>f.</i> a cowstall."
+        }
     ]
 }

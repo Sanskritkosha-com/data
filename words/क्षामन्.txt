@@ -7,5 +7,35 @@
             "pagenum": 436,
             "content": "क्षामन्¦ <i><ab>a.</ab></i> [क्षै-मनिन्] Destructive. <i>--<ab>n.</ab></i> <ab>Ved.</ab> The earth, ground."
         }
+    ],
+    "CAE": [
+        {
+            "word": "क्षामन्",
+            "eid": "8836",
+            "pagenum": 140,
+            "content": "क्षा/मन्¦ <lex>n.</lex> क्षा/मि <lex>f.</lex> the earth."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "क्षामन्",
+            "eid": "5699",
+            "pagenum": 98,
+            "content": "क्षा/मन्¦ <i>n.</i> क्षा/मि <i>f.</i> die Erde."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "क्षामन्",
+            "eid": "2794",
+            "pagenum": 365,
+            "content": "<b>kṣā́man,</b>¦ <ab>n.</ab>, <i>Erdboden, Boden</i> [gleichen Ursprungs wie kṣam]. <div n='TS'>-a {230,7}; {315,4}; {446,2}; {492,11}; {932,10}; metrisch gedehnt (-ā) {298,16}; {871,4}; {1002,1}. <div n='TS'><chg type='chg' n='92' src='gra'><old>-ani</old><new>-aṇi</new></chg> [<ab>L.</ab>] {797,11}. <div n='TS'>-an [<ab>dass.</ab>] {456,5}."
+        },
+        {
+            "word": "क्षामन्",
+            "eid": "11092",
+            "pagenum": 1743,
+            "content": "365,11.b <ab>v. u.</ab>: -aṇi <ab>st.</ab> -ani <info vn='chg 92 gra'/>"
+        }
     ]
 }

@@ -47,5 +47,51 @@
             "pagenum": 212,
             "content": "गम्भीर¦ <i>gambhīra</i> <ab>a.</ab> profond. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1='mantra'>mantra</s1> védique. || Lotus. || Citron. || <ab>Cf.</ab> <i>gabhīra.</i>  <P><i>gambhīravedin</i> <ab>m.</ab> <i>(vid)</i> éléphant rétif."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गम्भीर",
+            "eid": "9297",
+            "pagenum": 149,
+            "content": "गम्भीर/¦  = गभीर/."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गम्भीर",
+            "eid": "6045",
+            "pagenum": 105,
+            "content": "गम्भीर/¦ = गभीर/"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "गम्भीर",
+            "eid": "2906",
+            "pagenum": 385,
+            "content": "<b>gambhīrá,</b>¦ <ab>a.</ab>, „tief“ = gabhīrá, und zwar 1〉 <i>tief,</i> vom Brunnen; 2〉 <i>tief nach unten ragend,</i> Gegensatz ṛṣvá, hoch emporragend; 3〉 <i>in der Tiefe weilend;</i> 4〉 <ab>n.</ab>, die <i>Tiefe,</i> der <i>tiefe, unergründliche Raum</i>. <div n='TS'>-ás 2〉 <chg type='chg' n='98' src='gra'><old>vṛsabhás</old><new>vṛṣabhás</new></chg> (índras) {212,4}. <div n='TS'>-éṇa 4〉 neben urúṇā {465,9}. <div n='TS'>-ā́ya 3〉 rákṣase {503,9}. <div n='TS'>-é 4〉 {465,8}. <div n='TS'>-ā́n 1〉 udadhī́n {279,3}. <div n='TS'>-áyā 2〉 (hetī́) {459,10}."
+        },
+        {
+            "word": "गम्भीर",
+            "eid": "11098",
+            "pagenum": 1743,
+            "content": "385,9.a <ab>v. u.</ab>: vṛṣabhás <ab>st.</ab> vṛsabhás <info vn='chg 98 gra'/>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "गम्भीर",
+            "eid": "3944",
+            "pagenum": 289,
+            "content": "<b>Gambhīra</b>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "गम्भीर",
+            "eid": "1347",
+            "pagenum": 149,
+            "content": "<b>gambhīrá,</b>¦ <i><ab>a.</ab></i> deep; <i><ab>cf.</ab></i> <b>gabhīrá.</b>"
+        }
     ]
 }

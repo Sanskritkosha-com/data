@@ -44,5 +44,51 @@
             "pagenum": 735,
             "content": "स्तोक¦ <i>stoka</i> <ab>a.</ab> petit; || à l'<ab>ac.</ab> peu, un peu -- <ab>S.</ab> <ab>m.</ab> goutte d'eau. || Coucou <i>cātaka.</i>  <P><i>stokaka</i> <ab>m.</ab> coucou <i>cātaka.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "स्तोक",
+            "eid": "38364",
+            "pagenum": 640,
+            "content": "स्तोक/¦ <lex>m.</lex> drop; <ab>adj.</ab> small, insignificant, °— & <lex>n.</lex> a little; *स्तोकेन & स्तो°कात् in <ab>comp.</ab> <ab>w.</ab> a <ab>pp.</ab> hardly, just. Abstr. स्तोक°ता† <lex>f.</lex>, स्तोक°त्व† <lex>n.</lex>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "स्तोक",
+            "eid": "28563",
+            "pagenum": 512,
+            "content": "स्तोक/¦ <i>m.</i> Tropfen, Funken. <i>Adj.</i> wenig, unbedeutend, <lbinfo n='10'/> klein, kurz. <i>n.</i> स्तोकम् <i>adv.</i> wenig, weniger als (न); <i>*Instr. u. Abl.</i> kaum, mit Not <i>(vor p. p.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "स्तोक",
+            "eid": "10253",
+            "pagenum": 1594,
+            "content": "<b>stoká,</b>¦ <ab>m.</ab>, <i>Tropfen</i> [von <hom>2.</hom> stu], insbesondere 2〉 mit dem <ab>Gen.</ab> des Tropfenden. [Page1595] <div n='TS'>-ám 2〉 ghṛtásya {921,16}. <div n='TS'>-ā́s {255,3} (ghṛtaścútas). _{255,5}. — 2〉 médasas {255,2}. <div n='TS'>-ā́sas 2〉 médasas ghṛtásya {255,4}. <div n='TS'>-ā́nām 2〉 médasas ghṛtásya {255,1}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "स्तोक",
+            "eid": "4743",
+            "pagenum": 278,
+            "content": "<b>stoká,</b>¦ <div n='2'/><b>—1.</b> <i><ab>m.</ab></i> drop; <div n='2'/><b>—2.</b> <i>as <ab>adj.</ab></i> small, insignificant. [akin with <b>stúkā,</b> ‘tuft’: from these, a root <b>*stu,</b> ‘drop, dribble, run together, be compacted into a round mass,’ may perhaps be inferred: for mg 2, <ab>cf.</ab> <ab>Eng.</ab> <i>dribble</i> <ab>w.</ab> <i>driblet.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "स्तोक",
+            "eid": "41988",
+            "pagenum": 805,
+            "content": "stoka¦ <i>a. (f. का)</i> 1. Little, small, few, यद्धात्रा निजभालपट्टलिखितं स्तोकं महद्वा धनम् <ls>Bhartr.</ls>ii.49; 2. low."
+        },
+        {
+            "word": "स्तोक",
+            "eid": "41989",
+            "pagenum": 805,
+            "content": "stoka¦ <i>(II) m.</i> 1. A small portion, a drop; 2. the <i>chātaka</i> bird.<P>(स्तोकम् is used as an indeclinable in the sense of- (1) a little, पश्योदग्रप्लुतत्वाद्वियति बहुतरं स्तोकमुर्व्यां प्रयाति <ls>Sak.</ls>i.; (2) less.)"
+        }
     ]
 }

@@ -50,5 +50,53 @@
             "pagenum": 5,
             "content": "अण्डज¦ <i>m.</i> (ovo natus, ex अण्ड et ज) avis."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अण्डज",
+            "eid": "466",
+            "pagenum": 7,
+            "content": "अण्डज¦ <lex>a.</lex> egg-born; <lex>m.</lex> bird."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अण्डज",
+            "eid": "318",
+            "pagenum": 5,
+            "content": "अण्डज¦ eigeboren; <i>m.</i> Vogel."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अण्डज",
+            "eid": "1083",
+            "pagenum": 31,
+            "content": "अण्डज¦ Tatpur. I. m. f. n. (-जः-जा-जम्) Oviparous. <div n='P'>II. m. (-जः) <sup>1</sup> A bird. <sup>2</sup> A fish. <sup>3</sup> A serpent. <sup>4</sup> A lizard. <div n='P'>III. f. (-जा) Musk. E. अण्ड and ज."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अण्डज",
+            "eid": "543",
+            "pagenum": 36,
+            "content": "<b>Aṇḍaja</b>¦ (ṃ janma). § 717<i>b</i> (Nārāyaṇīya): XII, <b>348</b>ηη, 13492 (Brahmán's sixth birth); <b>349</b> VI), ††13590 (<i>aṇḍaje</i> <i>janmani</i>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अण्डज",
+            "eid": "96",
+            "pagenum": 113,
+            "content": "<b>aṇḍa-ja,</b>¦ <i><ab>a.</ab></i> egg-born; <i>as <ab>m.</ab></i> bird."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अण्डज",
+            "eid": "00591",
+            "pagenum": 9,
+            "content": "aRqa-ja¦ <i>m.</i> 1. a bird; 2. a fish; 3. a snake; 4. Brahman (m.) (Cf. जरायुज, स्वेदज)."
+        }
     ]
 }

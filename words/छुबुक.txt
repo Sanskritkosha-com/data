@@ -7,5 +7,41 @@
             "pagenum": 502,
             "content": "छुबुकं¦ <ab>Ved.</ab> The chin; see चिबुक."
         }
+    ],
+    "CAE": [
+        {
+            "word": "छुबुक",
+            "eid": "10851",
+            "pagenum": 178,
+            "content": "छुबुक¦ <lex>n.</lex> chin."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "छुबुक",
+            "eid": "7289",
+            "pagenum": 129,
+            "content": "छुबुक¦ <i>n.</i> Kinn."
+        },
+        {
+            "word": "छुबुक",
+            "eid": "29830",
+            "pagenum": 539,
+            "content": "छु/बुक¦ <i>(accent.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "छुबुक",
+            "eid": "3367",
+            "pagenum": 463,
+            "content": "<b>chúbuka,</b>¦ <ab>n.</ab>, <chg type='chg' n='109' src='gra'><old><i>Keim</i></old><new><i>Kinn</i></new></chg>. <div n='TS'>-āt {989,1}."
+        },
+        {
+            "word": "छुबुक",
+            "eid": "11109",
+            "pagenum": 1743,
+            "content": "463,4: <i>Kinn</i> <ab>st.</ab> <i>Keim</i> <info vn='chg 109 gra'/>"
+        }
     ]
 }

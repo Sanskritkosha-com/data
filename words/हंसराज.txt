@@ -19,5 +19,29 @@
             "pagenum": 2,
             "content": "हंसराज¦ <HI1>Cikitsotsava."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हंसराज",
+            "eid": "39275",
+            "pagenum": 656,
+            "content": "हंसराज¦ <lex>m.</lex> a big gander (<ab>lit.</ab> a king of geese)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हंसराज",
+            "eid": "29156",
+            "pagenum": 525,
+            "content": "हंसराज¦ <i>m.</i> elder Schwan <i>(eig.</i> Schwanenkönig). <lbinfo n='7'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हंसराज",
+            "eid": "42879",
+            "pagenum": 824,
+            "content": "haMsa-rAja¦ <i>m.</i> a king of geese."
+        }
     ]
 }

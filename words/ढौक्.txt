@@ -31,5 +31,43 @@
             "pagenum": 280,
             "content": "*ढौक्¦ <i>ḍhauk.</i> <i>ḍhauke</i> 1; <ab>p.</ab> <i>ḍuḍhauke;</i> <ab>etc.</ab> S'approcher: <i>laṅkām</i> de Lankâ; <i>vaktraṃ ḍhaukate</i> il s'approche de sa bouche [pour la baiser]; <ab>cf.</ab> <i>ṭauk.</i>  <P><i>ḍhaukayāmi</i> (<ab>c.</ab> de <i>ḍhauk)</i>; <ab>pqp.</ab> <i>aḍuḍhaukam.</i> Faire approcher: <i>ratham</i> un char.  <P><i>ḍhaukana</i> <ab>n.</ab> présent fait pour s'ouvrir accès auprès de <ab>qqn.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "ढौक्",
+            "eid": "11726",
+            "pagenum": 193,
+            "content": "ढौक्¦ ढौकते <vlex type='root'/> approach (<ab>acc.</ab>). <ab>C.</ab> ढौकयति cause to approach, bring near to (<ab>gen.</ab>). <div n='p'>— उप <ab>C.</ab> present, offer."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ढौक्",
+            "eid": "8032",
+            "pagenum": 143,
+            "content": "ढौक्¦ ढौकते sich nähern <i>(Acc.); Caus.</i> ढौकयति <lbinfo n='6'/> heranbringen zu <i>(Gen.)</i>, kommen lassen, jemd. <i>(Dat.)</i> etw. überreichen. उप <i>Caus.</i> darreichen, darbringen."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ढौक्",
+            "eid": "1665",
+            "pagenum": 160,
+            "content": "<b>√ḍhauk</b>¦ (<b>ḍhaúkate; ḍuḍhauké; ḍhaukitá;</b> <lbinfo n='ḍhauk-itá;'/> <b>ḍhaukáyati</b>). approach; <i><ab>caus.</ab></i> bring near. <div n='p'/><b>+ upa,</b> bring to; provide."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ढौक्",
+            "eid": "15039",
+            "pagenum": 298,
+            "content": "QOk¦ <i>vt. 1A (pp. ढौकित)</i> 1. To go, to approach, यांतं वने रात्रिचरी डुढौके <ls>Bt.</ls>ii.23, xiv.71, xv.79."
+        },
+        {
+            "word": "ढौक्",
+            "eid": "15040",
+            "pagenum": 298,
+            "content": "QOk¦ <i>Caus. (ढौकयति-ते)</i> 1. to bring near, to cause to approach, <ls>Bt.</ls>xvii.103; 2. to offer.<P>With उप-, to offer, to present."
+        }
     ]
 }

@@ -31,5 +31,49 @@
             "pagenum": 667,
             "content": "सकाश¦ <i>sakāśa</i> <ab>a.</ab> voisin, proche. -- <ab>S.</ab> <ab>m.</ab> voisinage. || A l'<ab>i.</ab> <i>sakāśe</i> en présence."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सकाश",
+            "eid": "34030",
+            "pagenum": 573,
+            "content": "सकाश¦ <lex>m.</lex> presence; <ab>acc.</ab> towards, to; <ab>loc.</ab> before, near, at; <ab>abl.</ab> & °तस् from; <ab>lit.</ab> to, in, & from the presence of (<ab>gen.</ab> or —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सकाश",
+            "eid": "25681",
+            "pagenum": 463,
+            "content": "सकाश¦ <i>m.</i> Anwesenheit, Gegenwart. <i>Acc.</i> zu—hin, <i>(mit Gen. o.</i> —°)."
+        },
+        {
+            "word": "सकाश",
+            "eid": "25741",
+            "pagenum": 464,
+            "content": "स/काश¦ <i>m.</i> Schein, Aussehen; <i>adj.</i> —° gleich, ähnlich."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सकाश",
+            "eid": "4336",
+            "pagenum": 263,
+            "content": "<b>sakāśa,</b>¦ <i><ab>m.</ab></i> presence; <b>tasya sakāśaṃ</b> <b>gam,</b> go to the presence of him, <i><ab>i. e.</ab></i> go to him; <b>-sakāśe,</b> <i>at end of <ab>cpd</ab>,</i> in the presence  <lbinfo n='pres-ence'/> of…, before…, <ls n='lan,3,3'>3<sup>3</sup></ls>. [<b>sa + kāśa:</b> <ab>orig.</ab>, perhaps, ‘having visibility, present,’ and then ‘presence.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सकाश",
+            "eid": "39146",
+            "pagenum": 745,
+            "content": "sakASa¦ <i>(I) a. (f. शा)</i> Having visibility, present, near."
+        },
+        {
+            "word": "सकाश",
+            "eid": "39147",
+            "pagenum": 745,
+            "content": "sakASa¦ <i>(II) m.</i> Presence, vicinity, nearness, e.g. न परित्यागार्हेयं मत्सकाशात्.<P>(सकाशम् and सकाशात् are used as indeclinables in the sense of ‘near, from near, from.’)"
+        }
     ]
 }

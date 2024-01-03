@@ -31,5 +31,51 @@
             "pagenum": 624,
             "content": "*व्यथ्¦ <i>vyath.</i> <i>vyathe,</i> <ab>qqf.</ab> <i>vyathāmi</i> 1; <ab>p.</ab> <i>vivyathe,</i> <ab>etc.</ab> Etre ému, en gén; || s'affliger, <lbinfo n='4'/> s'attrister; || craindre, avoir peur; || souffrir. || Se dessècher; <i>vyathate</i> <i>hutam</i> l'offrande se dessèche."
         }
+    ],
+    "CAE": [
+        {
+            "word": "व्यथ्",
+            "eid": "31259",
+            "pagenum": 527,
+            "content": "व्यथ्¦ व्य/थते <vlex type='root'/> (व्य/थ°ति), <ab>pp.</ab> व्यथित/ (<ab>q.v.</ab>) waver, reel, stagger, come to fall, go wrong, fail; tremble, be afraid or pained. <ab>C.</ab> व्यथ/यति cause to waver <ab>etc.</ab>, bring to fall, make afraid or uneasy, distress, pain. <div n='p'>— प्र, संप्र, वि & सम् = <ab>S.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "व्यथ्",
+            "eid": "23703",
+            "pagenum": 428,
+            "content": "व्यथ्,¦ व्य/थते (°ति) schwanken, taumeln, fehlgehen, weichen, bestürzt werden, verzagen. <i>p. p.</i> व्यथित schwankend, bestürzt, <lbinfo n='7'/> aufgeregt. <i>Caus.</i> व्यथ/यति <i>(gest.</i> व्यथयतितराम्) schwanken machen, aufregen, bestürzen, betrüben."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "व्यथ्",
+            "eid": "8513",
+            "pagenum": 1358,
+            "content": "<b>√vyath,</b>¦ <i>wanken,</i> <ab>Caus.</ab> <i>erschüttern, zum Wanken bringen</i>. <div n='H'>Stamm <b>vyatha:</b> <div n='TS'>-ate ná sá rā́jā {391,4}; sá ná {408,7}; ná asya 〰 pavís {495,3}. <div n='TS'>-ete [<pe>3.</pe> <ab>du.</ab>] ná {288,8}. <div n='TS'>-ante ná 〰 bhojā́s {933,8}. <div n='H'>Stamm des <ab>Caus.</ab> <b>vyathaya:</b> <div n='TS'>-a [-ā] amítrasya 〰 manyúm {466,2}. <div n='H'><ab>Part.</ab> <b>vyáthamāna:</b> <div n='TS'>-ām pṛthivī́m {203,2} (ádṛṃhat)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "व्यथ्",
+            "eid": "4054",
+            "pagenum": 253,
+            "content": "<b>√vyath</b>¦ (<b>vyáthate; vivyathé</b> [<ls n='wg,785'>785]</ls>; <b>ávyathiṣṭa; vyathitá</b>). <div n='2'/><b>—1.</b> move to and fro, rock, reel; <div n='2'/><b>—2.</b> <i><ab>fig.</ab></i> (<i>like <ab>Eng.</ab></i> be restless) be disturbed in mind, be pained."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "व्यथ्",
+            "eid": "36561",
+            "pagenum": 697,
+            "content": "vyaT¦ <i>vi. 1A (pres. व्यथते)</i> 1. To be sorry, to be vexed, to be agitated, to be disquieted, न विव्यथे तस्य मनः <ls>Kir.</ls>i.2, तवाभिधानाद् व्यथते नताननः <ls>Kir.</ls>i.24, <ls>Bg.</ls>xi.34; 2. to be afraid of; 3. to dry, to become dry."
+        },
+        {
+            "word": "व्यथ्",
+            "eid": "36562",
+            "pagenum": 697,
+            "content": "vyaT¦ <i>Caus. (व्यथयति-ते)</i> to vex, to trouble, to distress."
+        }
     ]
 }

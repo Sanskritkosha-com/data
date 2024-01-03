@@ -44,5 +44,71 @@
             "pagenum": 16,
             "content": "अद्य¦ <i>adya</i> <ab>a.</ab> (? <i>div)</i> aujourd'hui'hui. || <ab>Lat.</ab> hodiè.  <P><i>adyatana</i> <ab>m.</ab> le jour présent [de minuit à minuit]."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अद्य",
+            "eid": "797",
+            "pagenum": 12,
+            "content": "अद्य/¦ <ab>adv.</ab>  to-day, now. — अद्य पूर्वम् & अद्य°यावत् till now. अद्य प्रभृति & अद्यारभ्य from now, from to-day."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अद्य",
+            "eid": "530",
+            "pagenum": 8,
+            "content": "अद्य/¦ <i>u.</i> अद्या/ heute, jetzt अद्यैव schon h. अद्यापि noch h., <i>mit Neg.</i> immer noch nicht. अद्य पूर्वम् <i>u.</i> अद्य यावत् bis h. अद्य प्रभृति und अद्यारभ्य von h. ab."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अद्य",
+            "eid": "315",
+            "pagenum": 39,
+            "content": "<b>adyá,</b>¦ an diesem Tage (aus a-dyavi, <ab n='siehe'>s.</ab> dyú und <ab>vgl.</ab> <lang>lat.</lang> hodie), <i>heute</i>. <div n='P'>Die Form adiá kommt nur zweimal vor {321,1}; {405,13}. Das auslautende a ist dehnbar nach den gewöhnlichen Gesetzen. <div n='P'>{13,2}. _{13,6}; {23,23}; {25,19}; {28,8}; {34,1}. _{34,3}; {35,11}; {36,2}. _{36,6}; {44,1}. _{44,3}. _{44,9}; {45,9}; {47,3}; {48,15}; {49,2}; {50,11}; {54,5}; {58,8}; {76,5}; {84,16}; {92,14}. _{92,15}; {93,2}; {100,10}; {113,7}. _{113,12}. _{113,13}. _{113,17}; {115,6}; {120,3}; {123,3}. _{123,8}. _{123,13}; {125,3}; {136,4}; {142,1}. _{142,8}; {159,5}; {161,11}. _{161,13}; {163,13}; {167,10}; {180,10}; {182,8}; {184,1}; {188,1}; {204,8}; {218,2}; {220,2}. _{220,6}; {223,5} <ab>u. s. w.</ab>"
+        },
+        {
+            "word": "अद्य",
+            "eid": "316",
+            "pagenum": 39,
+            "content": "<b>(ádya),</b>¦ <ab>n.</ab>, <i>Mahl</i> [von ad], enthalten in havirádya."
+        },
+        {
+            "word": "अद्य",
+            "eid": "12033",
+            "pagenum": 1750,
+            "content": "<b>adyá:</b>¦<info vn='add 29 gra'/> <div n='P'>{194,3}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अद्य",
+            "eid": "1702",
+            "pagenum": 49,
+            "content": "अद्य¦ I. ind. <sup>1</sup> To-day. <sup>2</sup> Now, at present. In the Vedas also written अद्या which seems to be the more original form of this word. अद्यापि Even now, still. अद्यपूर्वम् before today, before now. E. अश्, considered as a substitute of इदम्, taddh. aff. द्य; but more probably a Karmadh. compound of अ (the pronom. theme in इदम्) and द्य or द्या (from द्यु or दिव्) = अस्मिन्द्यवि. <div n='P'>II. 1. m. f. n. (-द्यः-द्या-द्यम्) Fit to be eaten, eatable. <div n='P'>2. n. (-द्यम्) Food in general. E. अद्, kṛtya aff. यत्."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अद्य",
+            "eid": "136",
+            "pagenum": 114,
+            "content": "<b>adyá,</b>¦ <i><ab>adv.</ab></i> to-day; <b>adya niśi,</b> in this night (just past), <ls n='lan,51,8'>51<sup>8</sup></ls>; now; <b>adya yāvat,</b> until now; <b>adya_ārabhya,</b> from now on. [perhaps  <lbinfo n='[per-haps'/> from <b>*a-dyavi,</b> ‘on this day,’ <ls n='wg,1122'>1122f</ls>, see dyu: <ab>cf.</ab> <ab>Lat.</ab> <i>ho-die,</i> ‘to-day.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अद्य",
+            "eid": "00822",
+            "pagenum": 13,
+            "content": "adya¦ <i>(I) n.</i> Food, anything eatable."
+        },
+        {
+            "word": "अद्य",
+            "eid": "00823",
+            "pagenum": 13,
+            "content": "adya¦ <i>(II) ind.</i> Today, now, now-a-days."
+        }
     ]
 }

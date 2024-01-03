@@ -23,5 +23,37 @@
             "pagenum": 221,
             "content": "पुस्तक¦ <i>n.</i> (r. पुस्त् s. अक) liber, codex."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पुस्तक",
+            "eid": "19638",
+            "pagenum": 323,
+            "content": "पुस्तक¦ <lex>m.</lex> पुस्तिका <lex>f.</lex> the same."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "पुस्तक",
+            "eid": "4687",
+            "pagenum": 268,
+            "content": "<i>pustaka,</i>¦ cf. Tamil <i>pottagam</i> (SITI); register, as of land and revenue."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "पुस्तक",
+            "eid": "2645",
+            "pagenum": 192,
+            "content": "<b>pustaka,</b>¦ <i><ab>m.</ab> <ab>n.</ab></i> manuscript; book."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पुस्तक",
+            "eid": "23183",
+            "pagenum": 448,
+            "content": "pustaka¦ <i>m.n.</i> A book, a manuscript."
+        }
     ]
 }

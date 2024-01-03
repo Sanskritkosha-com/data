@@ -20,5 +20,49 @@
             "pagenum": 996,
             "content": "विशोक¦ <i><ab>a.</ab></i> Free from grief, <lbinfo n='hap+py'/> happy. --कः The Aśoka tree. --का Exemption from grief."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विशोक",
+            "eid": "30235",
+            "pagenum": 509,
+            "content": "विशोक¦ <lex>a.</lex> freed or freeing from grief."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विशोक",
+            "eid": "22960",
+            "pagenum": 416,
+            "content": "विशोक¦ kummerlos, Kummer tilgend; <i>m.</i> <i>u.</i> °ता <i>f.</i> Kummerlosigkeit."
+        }
+    ],
+    "INM": [
+        {
+            "word": "विशोक",
+            "eid": "11881",
+            "pagenum": 727,
+            "content": "<b>Viśoka</b><sup>1</sup>,¦ the charioteer of Bhīmasena. § 286 (Rājasūyikap.): II, <b>33</b>, 1234.—§ 449 (Ājagarap.): III, <b>177</b>, †12352 (<i>sūtair</i> <i>V°pramukhaiḥ</i>).—[§ 579 (Bhīṣmavadhap.): VI, <b>54<sup>12</sup></b>, 2303 (<i>Aśokaḥ</i>).]—§ 581 (do.): VI, <b>64<sup>12</sup></b>, 2821, 2825, 2827.— § 583 (do.): VI, <b>77<sup>4</sup></b>, 3355 (<i>Bhīmasenasya sārathiṃ</i>), 3357, 3362.—§ 585 (do.): VI, <b>95</b>, 4312.—§ 587 (do.): VI, <b>113</b>, 5264 (<i>sārathiṃ</i>).—§ 600 (Ghaṭotkacavadhap.): VII, <b>155</b>, 6704; <b>156</b>, 6777.—§ 608 (Karṇap.): VIII, <b>76</b>, †3832, (†3836), †3844, †3847, (†3848), †3860."
+        },
+        {
+            "word": "विशोक",
+            "eid": "11882",
+            "pagenum": 727,
+            "content": "<b>Viśoka</b><sup>2</sup>,¦ a Kaikeya prince. § 608 (Karṇap.): VIII, <b>82</b>, †4182 (slain by Karṇa)."
+        },
+        {
+            "word": "विशोक",
+            "eid": "11883",
+            "pagenum": 727,
+            "content": "<b>Viśoka</b><sup>3</sup>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विशोक",
+            "eid": "35606",
+            "pagenum": 678,
+            "content": "viSoka¦ <i>m.</i> The <i>Aśoka</i> tree."
+        }
     ]
 }

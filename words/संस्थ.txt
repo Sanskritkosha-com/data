@@ -31,5 +31,43 @@
             "pagenum": 705,
             "content": "संस्थ¦ <i>saṃstha</i> <ab>a.</ab> <i>(sthā)</i> qui se tient avec, uni, associé. || Stationnaire, fixe. -- <ab>S.</ab> <ab>m.</ab> un habitant; || voisin, homme du même pays. || Espion, envoyé secret. -- <ab>S.</ab> <ab>f.</ab> <i>saṃsthā</i> <lbinfo n='5'/> station, fixité. || Pause, cessation du mouvement, mort. || Etat, condition; état final, forme définitive; || manière d'être, manifestation; ressemblance. || Assemblée, séance. || Ordonnance royale.  <P><i>saṃsthāna</i> <ab>n.</ab> (<ab>sfx.</ab> <i>ana)</i> arrêt, pause, cessation. <lbinfo n='7'/> || Formation initiale, réunion des éléments d'une <ab>ch.</ab>, constitution; || forme, figure; || marque, signe. || Communauté d'habitation, voisinage. || Carrefour. || Tas, monceau.  <P><i>saṃsthānacārin</i> <ab>a.</ab> <i>(car)</i> qui prend la figure <lbinfo n='4'/> de; qui prend telle ou telle place.  <P><i>saṃsthāpayāmi</i> (<ab>c.</ab> de <i>sthā)</i> faire que <ab>qqn.</ab> ou <ab>qqc.</ab> s'arrête; || Tuer. || Etablir.  <P><i>saṃsthāpana</i> <ab>n.</ab> établissement; || restauration. <lbinfo n='7'/>  <P><i>saṃsthita</i> (<ab>pp.</ab> de <i>sthā)</i> qui se tient ensemble; <lbinfo n='4'/> qui consiste; || qui a la forme de. || Etabli, fixé; || arrêté; mort. || Entassé, amoncelé.  <P><i>saṃsthiti</i> <ab>f.</ab> (<ab>sfx.</ab> <i>ti)</i> arrêt, pause; || mort. || Lieu où l'on se tient, demeure. || Consistance, <lbinfo n='6'/> solidité; || bonne santé."
         }
+    ],
+    "CAE": [
+        {
+            "word": "संस्थ",
+            "eid": "33952",
+            "pagenum": 571,
+            "content": "संस्थ¦ <lex>a.</lex> standing, abiding, being or contained in (<ab>loc.</ab> or —°); belonging to, resting or dependent on, partaking or possessed of (—°); lasting, continuing. — <lex>m.</lex> संस्थ/ (only <ab>loc.</ab>) amidst or in presence of (<ab>gen.</ab>). <lex>f.</lex> संस्था/ staying, remaining with (—°); shape, form, <ab>esp.</ab> the ground-form of a sacrifice; manifestation, appearance, likeness (often <ab>adj.</ab> —°); fixed order, rule, nature, character; conclusion, end, death."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "संस्थ",
+            "eid": "25628",
+            "pagenum": 462,
+            "content": "संस्थ¦ stehend, bestehend, dauernd; weillend <i>o.</i> befindlich in, an, auf <i>(Loc. o.</i> —°), beruhend auf, teilhaftig des (—°). <i>m.</i> संस्थ/ Anwesenheit, Gegenwart, <i>Loc.</i> inmitten <lbinfo n='6'/> des <i>o.</i> in Gegenwart von <i>(Gen.).</i> <i>f.</i> संस्था/ das Verweilen bei (—°); Gestalt, <lbinfo n='6'/> Form, <i>bes.</i> die Grundform eines Opfers; ordnung, Natur, Wesen; Abschluss, <lbinfo n='8'/> Vollendung, Ende."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "संस्थ",
+            "eid": "9091",
+            "pagenum": 1439,
+            "content": "<b>saṃ-sthá,</b>¦ <ab>m.</ab>, 1〉 das <i>Zusammentreffen</i> [von sthā <ab n='mit'>m.</ab> sám]; namentlich 2〉 mit dem <ab>Gen.</ab> dessen, mit dem man zusammentrifft; 3〉 <ab>Lo.</ab>, <i>in Mitten</i> einer Menge [<ab>G.</ab>]. <div n='TS'>-é {652,11}. — 2〉 yásya {5,4}. — 3〉 rayīṇā́m {357,8}; [Page1440] 〰 úpastutīnaam {647,15}; 〰 jánasya gómatas {641,11}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "संस्थ",
+            "eid": "39102",
+            "pagenum": 743,
+            "content": "saMsTa¦ <i>(I) a. (f. स्था)</i> 1. Associated, domesticated; 2. staying, abiding, lasting; 3. stationary, fixed; 4. ended, perished, dead; 5. situated, न केवलं दरीसंस्थं … … अपास्तं मे परं तमः <ls>K.S.</ls>vi.60."
+        },
+        {
+            "word": "संस्थ",
+            "eid": "39103",
+            "pagenum": 743,
+            "content": "saMsTa¦ <i>(II) m.</i> 1. An inhabitant; 2. a countryman; 3. a spy."
+        }
     ]
 }

@@ -68,5 +68,49 @@
             "pagenum": 641,
             "content": "शस्त्र¦ <i>śastra</i> <ab>n.</ab> (<ab>sfx.</ab> <i>tra)</i> arme, en <ab>gén.</ab> || Fer. -- <ab>M.</ab> sabre. -- <ab>F.</ab> <i>śastrī</i> couteau.  <P><i>śastraka</i> <ab>n.</ab> fer; acier.  <P><i>śastrajīvin</i> <ab>m.</ab> <i>(jīv)</i> soldat de profession.  <P><i>śastrapāṇi</i> <ab>a.</ab> qui a une arme à la main.  <P><i>śastrabhṛt</i> <ab>m.</ab> <i>(bhṛ)</i> homme armé, guerrier.  <P><i>śastramārja</i> <ab>m.</ab> <i>(mṛj)</i> fourbisseur, armurier. <lbinfo n='5'/>  <P><i>śastrasampāta</i> <ab>m.</ab> <i>(sam; pat)</i> la mêlée des armes, le croisement des flèches dans l'air.  <P><i>śastrahasta</i> <ab>a.</ab> qui a une arme à la main.  <P><i>śastrājīva</i> <ab>m.</ab> <i>(ā; jīv)</i> soldat de profession. <lbinfo n='5'/>  <P><i>śastrābhyāsa</i> <ab>m.</ab> <i>(abhyāsa)</i> la pratique des armes, les exercices militaires.  <P><i>śastropakaraṇa</i> <ab>n.</ab> <i>(upa; kṛ)</i> appareil militaire. <lbinfo n='8'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "शस्त्र",
+            "eid": "32124",
+            "pagenum": 542,
+            "content": "1 शस्त्र/¦ <lex>n.</lex> a kind of recitation (<ab>(r.)</ab>)."
+        },
+        {
+            "word": "शस्त्र",
+            "eid": "32125",
+            "pagenum": 542,
+            "content": "2 श/स्त्र¦ <lex>n.</lex> knife, dagger (also <lex>f.</lex> शस्त्री & शस्त्रिका); sword, weapon <ab>i.g.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शस्त्र",
+            "eid": "24339",
+            "pagenum": 439,
+            "content": "1. शस्त्र/¦ <i>n.</i> Anruff, Lob <i>(r.).</i>"
+        },
+        {
+            "word": "शस्त्र",
+            "eid": "24340",
+            "pagenum": 439,
+            "content": "2. श/स्त्र¦ <i>n.</i> Messer, Dolch <i>(auch f.</i> शस्त्री <i>u.</i> शस्त्रीका); Schwert, Waffe."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "शस्त्र",
+            "eid": "4158",
+            "pagenum": 257,
+            "content": "<b>śastrá,</b>¦ <i><ab>n.</ab></i> knife; sword; weapon. [‘instrument  <lbinfo n='[‘in-strument'/> of cutting,’ <b>√śas,</b> <ls n='wg,1185'>1185</ls>: <b>śas-tra</b> is <ab>ident.</ab> in form and <ab>mg</ab> <ab>w.</ab> the <ab>Lat.</ab> stem <i>*cas-tro,</i> which appears in the <ab>denom.</ab> <i>castrāre,</i> <lbinfo n='cas-trāre,'/> <ab>prop.</ab> ‘cut,’ and so, like <ab>Eng.</ab> <i>cut,</i> ‘castrate.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शस्त्र",
+            "eid": "37349",
+            "pagenum": 712,
+            "content": "Sastra¦ <i>n.</i> 1. A weapon, <ls>Bg.</ls>ii.23, <ls>R.</ls>ii.40, v.28, iii.51, 62; 2. iron; 3. steel; 4. a tool, an instrument; 5. a hymn of praise."
+        }
     ]
 }

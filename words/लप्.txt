@@ -31,5 +31,43 @@
             "pagenum": 550,
             "content": "*लप्¦ <i>lap.</i> <i>lapāmi</i> 1; <ab>p.</ab> <i>lalāpa;</i> <ab>etc.</ab> Parler. || So lamenter. || <ab>Lat.</ab> loquor."
         }
+    ],
+    "CAE": [
+        {
+            "word": "लप्",
+            "eid": "27425",
+            "pagenum": 458,
+            "content": "लप्¦ लपात (लपा°ते) <vlex type='root'/> <ab>pp.</ab> लपित/ (<ab>q.v.</ab>) chatter, prate, talk, lament. <ab>C.</ab> लापयति cause to talk. <ab>I.</ab> ला/लपीति chatter senselessly, prattle, लालप्यते (°ति) wail, lament. <div n='p'>— अप deny, refuse, conceal. <div n='p'>अभि talk, speak of; name, call. <div n='p'>आ address, speak to (<ab>acc.</ab>), converse with (समम् or सह), say, tell (2 <ab>acc.</ab>). <ab>C.</ab> cause to speak, engage in conversation, question. <div n='p'>उद् <ab>C.</ab> = <ab>prec.</ab> <ab>C.</ab> or caress. <div n='p'>समुद् raise the voice; (wail, lament*). <div n='p'>प्र prattle, chatter, talk, lament. <ab>C.</ab> compel to speak. <div n='p'>वि wail, moan, chatter, talk confusedly or at random. <div n='p'>सम् converse, <ab>C.</ab> address. — Cf. आलपित, प्रलपित, विलपित."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "लप्",
+            "eid": "20789",
+            "pagenum": 372,
+            "content": "लप्,¦ लपति (°ते) schwatzen, flüstern, reden, klagen. <i>p. p.</i> लपित <i>s. bes. Caus.</i> लापयति <lbinfo n='6'/> zum Reden bringen. <i>Intens.</i> ला/लपीति Unsinn reden; लालण्यते (°ति) klagen, jammern. आ anreden <i>(Acc.)</i>, sich unterhalten mit (समम् <i>o.</i> सह), reden, etw. zu jemd. sagen <i>(2 Acc.).</i> उद् <i>Caus.</i> liebkosen. समुद् die Stimme erheben, (klagen*). प्र schwatzen, faseln, plaudern, klagen. वि jammern, faseln, durcheinander reden. सम् sich unterhalten; <lbinfo n='7'/> <i>Caus.</i> anreden."
+        },
+        {
+            "word": "लप्",
+            "eid": "29956",
+            "pagenum": 541,
+            "content": "लप्¦ <i>mit</i> आ <i>Caus.</i> zum Reden bringen.*"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "लप्",
+            "eid": "3607",
+            "pagenum": 233,
+            "content": "<b>√lap</b>¦ (<b>lápati; lalā́pa; lapiṣyáti; lapitá,</b> <b>laptá; láptum; -lápya</b>). chatter; talk; lament. [<ab>cf.</ab> <lang n='greek'>ὀ-λοφ-ύ-ς</lang>, ‘a lamenting’; <lang n='greek'>ὀλοφύρομαι</lang>, ‘lament’; perhaps <ab>Lat.</ab> <i>lāmenta,</i> <lbinfo n='lā-menta,'/> ‘laments.’] <div n='p'/><b>+ ā,</b> talk to, converse with. <div n='p'/><b>+ pra,</b> talk out heedlessly <i>or</i> lamentingly. <lbinfo n='lament-ingly.'/>  <div n='p'/><b>+ vi,</b> utter unintelligible <i>or</i> lamenting tones. <div n='p'/><b>+ sam,</b> talk with; <i><ab>caus.</ab></i> (cause to talk with one, <i><ab>i. e.</ab></i>) address, <ls n='lan,26,1'>26<sup>1</sup></ls>."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "लप्",
+            "eid": "32487",
+            "pagenum": 620,
+            "content": "lap¦ <i>vt. 1P (pres. लपति)</i> 1. To chatter, to speak, to prate; 2. to whisper, कापि कपोलतले मिलिता लपितुं किमपि श्रुतिमूले <ls>Git.G.</ls>i.<P>With अनु-, to speak again and again, to repeat.<P>With अप-, 1. to conceal, to hide, विलेपनस्याधिकचंद्रभागताविभावनाच्चापललाप पांडुताम् <ls>Na.</ls>i.51; 2. to deny.<P>With आ-, 1. to speak, to prate, to talk; 2. to converse.<P>With उद्-, to call out in a loud voice.<P>With प्र-, 1. to speak, to say, e.g. वचो वैदेहीति प्रतिपदमुदश्रु प्रलपितम्; 2. to talk at random, to talk wildly, to talk nonsense, to talk incoherently.<P>With वि-, 1. to lament, to weep, to cry, विललाप स बाष्पगद्गदम् <ls>R.</ls>viii.43, विललाप विकीर्णमूर्धजा <ls>K.S.</ls>iv.4, बह्वेवं विललाप सः <ls>Bt.</ls>vi.11; 2. to say, to speak, to utter.<P>With विप्र-, to dispute, to contradict.<P>With सम्-, to converse, कुतश्चित् संलपतो जनसमाजात् <ls>D.K.</ls>"
+        }
     ]
 }

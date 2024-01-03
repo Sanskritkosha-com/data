@@ -44,5 +44,35 @@
             "pagenum": 77,
             "content": "आम्र¦ <i>āmra</i> <ab>m.</ab> mangifera indica, le manguier, <lbinfo n='6'/> <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "आम्र",
+            "eid": "4440",
+            "pagenum": 65,
+            "content": "आम्र/¦ <lex>m.</lex> the mango tree; <lex>n.</lex> its fruit."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आम्र",
+            "eid": "2756",
+            "pagenum": 43,
+            "content": "आम्र/¦ <i>m.</i> Mangobaum, <i>n.</i> Mangofrucht."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आम्र",
+            "eid": "05266",
+            "pagenum": 105,
+            "content": "Amra¦ <i>(I) m.</i> The mango tree, <ls>Megh.</ls>x.18, <ls>Bh.V.</ls>i.104."
+        },
+        {
+            "word": "आम्र",
+            "eid": "05267",
+            "pagenum": 105,
+            "content": "Amra¦ <i>(II) n.</i> The fruit of the mango tree, <ls>Bh.V.</ls>ii.8."
+        }
     ]
 }

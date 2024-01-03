@@ -13,5 +13,37 @@
             "pagenum": 466,
             "content": "गाथः¦ A song, singing."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गाथ",
+            "eid": "9418",
+            "pagenum": 151,
+            "content": "गाथ/¦ <lex>m.</lex> song; <lex>f.</lex> गाथा/ the same, <ab>esp.</ab> a kind of rel. verse or stanza; <ab>N.</ab> of a metre ( = आर्या)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गाथ",
+            "eid": "6149",
+            "pagenum": 107,
+            "content": "गाथ/¦ <i>m.</i> Gesang; <i>f.</i> गाथा Gesang, Lied, best. Vers <i>(r.)</i>, gebundene Rede, <i>N. eines</i> <i>Metrums</i> = आर्या."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "गाथ",
+            "eid": "2956",
+            "pagenum": 395,
+            "content": "<b>gāthá,</b>¦ <ab>m.</ab>, <i>Gesang</i> [von gā, singen]; <ab>vgl.</ab> ṛjugātha. <div n='TS'>-ám {167,6}; {723,4}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गाथ",
+            "eid": "12016",
+            "pagenum": 240,
+            "content": "gATa¦ <i>m.</i> A song, singing."
+        }
     ]
 }

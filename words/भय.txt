@@ -52,5 +52,59 @@
             "pagenum": 471,
             "content": "भय¦ <i>bhaya</i> <ab>a.</ab> <i>(bhī)</i> effrayant. -- <ab>S.</ab> <ab>n.</ab> peur. || Fleur de trapa bispinosa.  <P><i>bhayaṅkara</i> <ab>a.</ab> <i>(kṛ)</i> effrayant, qui fait peur.  <P><i>bhayadruta</i> <ab>a.</ab> <i>(dru)</i> qui fuit de peur.  <P><i>bhayabhraṣṭa</i> <ab>a.</ab> <i>(bhraṃś)</i> <ab>mms.</ab>  <P><i>bhayayāmi</i> (<ab>c.</ab> de <i>bhī)</i> faire peur à <ab>qqn.</ab> [<ab>ac.</ab>] de <ab>qqc.</ab> [<ab>i</ab>].  <P><i>bhayahartṛ</i> <ab>a.</ab> <i>(hṛ;</i> <ab>sfx.</ab> <i>tṛ)</i> qui ôte la peur.  <P><i>bhayānaka</i> <ab>a.</ab> <i>(an</i> au <ab>c.</ab>) terrible. -- <ab>S.</ab> <ab>n.</ab> terreur. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1='rAhu'>Rāhu</s1> ou le nœud ascendant. <lbinfo n='5'/> || Tigre.  <P><i>bhayāpaha</i> <ab>m.</ab> <i>(apa; hā)</i> roi, souverain.  <P><i>bhayārtta</i> <ab>a.</ab> <i>(ard)</i> tourmenté par la peur.  <P><i>bhayāvaha</i> <ab>a.</ab> <i>(ā; vah)</i> qui apporte la terreur, <lbinfo n='5'/> redoutable, dangereux."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भय",
+            "eid": "22592",
+            "pagenum": 373,
+            "content": "भय/¦ <lex>n.</lex> fear, dread, anxiety, terror, danger, distress (<ab>w.</ab> <ab>abl.</ab> or —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भय",
+            "eid": "17155",
+            "pagenum": 301,
+            "content": "भय/¦ <i>n.</i> Angst, Furcht vor <i>(Abl., Gen. o.</i> <i>—°)</i>; Schrecken, Gefahr, Not."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "भय",
+            "eid": "6310",
+            "pagenum": 928,
+            "content": "<b>bhayá,</b>¦ <ab>n.</ab> [von bhī], 1〉 <i>Schrecken;</i> 2〉 <i>Gefahr, Noth</i>. <div n='TS'>-ám 1〉 {189,4} (te, agnés); {219,10} (ā́ha); {670,16} (daíviam). — 2〉 {232,10}; {779,21}; {865,11} (neben áṃhas, duritám). <div n='TS'>-ásya 2〉 {861,14}. <div n='TS'>-é 2〉 {40,8}; {218,5}. <div n='TS'>-ā́ 2〉 {447,6} (ápa bādhasva)."
+        }
+    ],
+    "INM": [
+        {
+            "word": "भय",
+            "eid": "1437",
+            "pagenum": 127,
+            "content": "<b>Bhaya</b>¦ (“Fear”). § 125 (Adharma): I, <b>66</b>, 2619 (son of Adharma and Nirṛti)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भय",
+            "eid": "2959",
+            "pagenum": 204,
+            "content": "<b>bhayá,</b>¦ <i><ab>n.</ab></i> <div n='2'/><b>—1.</b> fear, anxiety; <i>in composition </i> <lbinfo n='composi-tion'/> <i><ab>w.</ab> the thing feared,</i> <ls n='lan,10,12'>10<sup>12</sup></ls>, <ls n='lan,31,9'>31<sup>9</sup></ls>, <ls n='lan,46,5'>46<sup>5</sup></ls>; fear of a thing (<i><ab>abl.</ab></i>), <ls n='lan,40,14'>40<sup>14</sup></ls>; <b>bhayāt,</b> from fear, <ls n='lan,20,10'>20<sup>10</sup></ls>, <ls n='lan,36,4'>36<sup>4</sup></ls>, <ls n='lan,41,17'>41<sup>17</sup></ls>; <i>then, as conversely</i> <i>in <ab>Eng.</ab>,</i> fear (<i><ab>orig.</ab></i> ‘danger,’ <i>so</i> Job 39. 22) <i>has come to mean</i> ‘anxiety,’ <div n='2'/><b>—2.</b> danger, peril, <ls n='lan,25,19'>25<sup>19</sup></ls>, <ls n='lan,42,3, 4'>42<sup>3, 4</sup></ls>. [<b>√bhī,</b> <ls n='wg,1148'>1148.</ls> 1a: for <ab>mg</ab> 2, <ab>cf.</ab> <b>saṃdeha.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भय",
+            "eid": "27134",
+            "pagenum": 519,
+            "content": "Baya¦ <i>(I) n.</i> 1. Fear, alarm, dread, fright, terror, पश्चार्धेन प्रविष्टः शरपतनभयाद्भूयसा पूर्वकायम् <ls>Sak.</ls>i., <ls>M.</ls>vi.31; 2. a danger, a risk, a hazard, यतश्च भयमाशंकेत्ततो विस्तारयेद्बलम् <ls>M.</ls>vii.188."
+        },
+        {
+            "word": "भय",
+            "eid": "27135",
+            "pagenum": 519,
+            "content": "Baya¦ <i>(II) m.</i> Sickness, disease."
+        }
     ]
 }

@@ -49,5 +49,63 @@
             "pagenum": 177,
             "content": "कू¦ <i>kū</i> <ab>f.</ab> <i>piśācī.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कू",
+            "eid": "8178",
+            "pagenum": 127,
+            "content": "1 कू¦ कुवते <vlex type='root'/> <ab>w.</ab> आ intend."
+        },
+        {
+            "word": "कू",
+            "eid": "8179",
+            "pagenum": 127,
+            "content": "2 कू/¦ <ab>adv.</ab> where? <ab>w.</ab> चिद् anywhere."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कू",
+            "eid": "5196",
+            "pagenum": 89,
+            "content": "1. कू¦ कुवते, <i>mit</i> आ beabsichtigeh."
+        },
+        {
+            "word": "कू",
+            "eid": "5197",
+            "pagenum": 89,
+            "content": "2. कू/¦ wo? <i>Mit</i> चिद् irgendwo."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कू",
+            "eid": "2635",
+            "pagenum": 331,
+            "content": "<b>(√kū),</b>¦ <i>schauen, sehen</i> [<ls>Cu. 〔64〕</ls>], davon kaví, kava, kavatnú, kavārí, ā́-kūti. — Mit ā́, <i>beabsichtigen</i>. <div n='H'>(Stamm <b>kuva:</b>) <div n='TS'>-ate ā́ <ls>Śat. Br. 〔3,1,4,6. 12〕</ls>. <div n='H'>(<ab>Part.</ab> <b>kūta</b>): <div n='TS'>-am ā́ als <ab>Subst.</ab> Absicht <ls>AV. 11,9,1</ls>."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कू",
+            "eid": "1165",
+            "pagenum": 142,
+            "content": "<b>√kū</b>¦ (<b>kuváte</b>). <i>found only <ab>w.</ab></i> <b>ā.</b> <i>and perhaps </i> <lbinfo n='per-haps'/> <i>meaning</i> see, look. [<ab>prob.</ab> for <b>*skū,</b> see under <b>kavi.</b>] <div n='p'/><b>+ ā,</b> look forward to, <i><ab>i. e.</ab></i> intend. [see <b>ākūta.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कू",
+            "eid": "10012",
+            "pagenum": 199,
+            "content": "kU¦ <i>vi. 6A, 9U (pres. कुवते, कुनाति, कुनीते)</i> To sound, to make noise, to cry in distress, क्रूराश्चाकूषत द्विजाः <ls>Bt.</ls>xv.26."
+        },
+        {
+            "word": "कू",
+            "eid": "10013",
+            "pagenum": 199,
+            "content": "kU¦ <i>f.</i> A female imp."
+        }
     ]
 }

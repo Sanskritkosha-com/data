@@ -7,5 +7,29 @@
             "pagenum": 1121,
             "content": "साश्रु¦ <i><ab>a.</ab></i> Tearful, full of tears, shedding tears."
         }
+    ],
+    "CAE": [
+        {
+            "word": "साश्रु",
+            "eid": "36782",
+            "pagenum": 616,
+            "content": "साश्रु¦ <lex>a.</lex> tearful, weeping; <lex>n.</lex> <ab>adv.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "साश्रु",
+            "eid": "27449",
+            "pagenum": 495,
+            "content": "साश्रु¦ bethränt, weinend, <i>n. adv.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "साश्रु",
+            "eid": "4577",
+            "pagenum": 272,
+            "content": "<b>sāśru,</b>¦ <i><ab>a.</ab></i> tearful; <b>sāśru,</b> <i><ab>adv.</ab></i> [<ls n='wg,1111'>1111c</ls>], tearfully, with tears in (their) eyes, <ls n='lan,54,19'>54<sup>19</sup></ls>. [<b>aśru.</b>]"
+        }
     ]
 }

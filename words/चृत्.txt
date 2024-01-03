@@ -43,5 +43,43 @@
             "pagenum": 250,
             "content": "*चृत्¦ <i>cṛt.</i> <i>cartāmi</i> 1, et <i>cartayāmi</i> 10; <ab>pqp.</ab> <i>acīcṛtam</i> et <i>acacartam.</i> Illuminer, éclairer, <ab>Vd.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "चृत्",
+            "eid": "10671",
+            "pagenum": 175,
+            "content": "चृत्¦ चृत/ति <vlex type='root'/> <ab>pp.</ab> चृत्त/ (only —°) <ab>w.</ab> अति fasten connect, attach. अव let loose. आ & उप fasten, tie, affix. नि insert. निस् loosen, untie. परि wind round, tie together. वि untie, loosen, open, spread out. सम् be joined to (<ab>instr.</ab>)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "चृत्",
+            "eid": "3321",
+            "pagenum": 457,
+            "content": "<b>√cṛt,</b>¦ „knüpfen, heften“ [<ls>Fi. 〔34〕</ls>]; mit <b>vi,</b> <i>auflösen, auseinanderknüpfen,</i> besonders Stricke; mit <b>sam,</b> <i>zusammenknüpfen</i>. <div n='H'>Stamm <b>cṛtá:</b> <div n='TS'>-ánti <b>ví</b> {67,8}. <div n='TS'>-a <b>ví:</b> pā́śam {25,21}. <div n='H'><ab>Part.</ab> II. <b>cṛtta:</b> <div n='TS'>-ās <b>ví:</b> pā́śās {218,16}. <div n='H'>Grundform <b>cṛ́t</b> <div n='P'>enthalten in vicṛ́t, Auflösung, saṃcṛ́t, Verbindung."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "चृत्",
+            "eid": "1537",
+            "pagenum": 156,
+            "content": "<b>√cṛt</b>¦ (<b>cṛtáti; cacárta; cṛttá; -cṛ́tya</b>). fasten together. <div n='p'/><b>+ pra,</b> loosen, untie."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चृत्",
+            "eid": "13900",
+            "pagenum": 277,
+            "content": "cft¦ <i>(I) vt. 6P (pres. चृतति)</i> 1. To hurt, to kill; 2. to tie, to connect together."
+        },
+        {
+            "word": "चृत्",
+            "eid": "13901",
+            "pagenum": 277,
+            "content": "cft¦ <i>(II) vt. 1P, 10U (pres. चर्तति, चर्तयति-ते)</i> To light, to kindle."
+        }
     ]
 }

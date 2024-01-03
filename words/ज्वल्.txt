@@ -31,5 +31,43 @@
             "pagenum": 275,
             "content": "*ज्वल्¦ <i>jval.</i> <i>jvalāmi</i> 1; <ab>qqf.</ab> <i>jvale;</i> <ab>p.</ab> <i>jajvāla;</i> <ab>f2.</ab> <i>jvaliṣyāmi;</i> <ab>a1.</ab> <i>ajvāliṣam.</i>  Brûler, flamber. || Au <ab>fig.</ab> être enflammé: <i>roṣāt</i> de colère. || Vaciller [comme une flamme]; flamboyer."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ज्वल्",
+            "eid": "11629",
+            "pagenum": 191,
+            "content": "ज्वल्¦ ज्व/लति <vlex type='root'/> (ज्व/ल°ते), <ab>pp.</ab> ज्वलित (<ab>q.v.</ab>) blaze, flame, burn, glow, shine. <ab>C.</ab> ज्वलयति & ज्वालयति set on fire, illuminate. <ab>I.</ab> जाज्वलीति & जाज्वल्यते flame violently, be brilliant. <div n='p'>— अभि shine, <ab>C.</ab> = अव <ab>C.</ab> illuminate. <div n='p'>उद् blaze up, flame, shine; <ab>C.</ab> = <ab>S.</ab> <ab>C.</ab> प्र flame up, shine forth; <ab>C.</ab> set on fire, kindle. <div n='p'>अभिप्र & संप्र flame up, catch fire प्रति blaze, burn. <div n='p'>अभिवि flame against or opposite to. <div n='p'>सम् blaze, flame; <ab>C.</ab> kindle, illuminate."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ज्वल्",
+            "eid": "7950",
+            "pagenum": 141,
+            "content": "ज्वल्¦ ज्व/लति (°ते) brennen, flammen, glühen,leuchten. <i>p.p.</i> ज्वलित flammend, leuchtend; <i>s. auch bes. — Caus.</i> ज्वलयति <lbinfo n='2'/> <i>u.</i> ज्वालयति entzünden, erleuchten; <i>p.p.</i> ज्वालित. <i>Intens.</i> जाज्वलीति <i>u.</i> जाज्वल्यते stark flammen o. leuchten; <i>p.p.</i> जाज्वलित। — अभि leuchten. उद् auf-, herausflammen. प्र aufflammen, aufleuchten; <i>p.p.</i> प्रज्वलित brennend, leuchtend; <i>Caus.</i> प्रज्वालयति anzünden. सम् flammen; <i>Caus.</i> संज्वालयति anzünden. <lbinfo n='7'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ज्वल्",
+            "eid": "1661",
+            "pagenum": 160,
+            "content": "<b>√jval</b>¦ (<b>jválati, -te; jajvā́la; ájvālīt;</b> <b>jvaliṣyáti; jvalitá; -jválya; jvāláyati,</b> <b>jvaláyati, -te</b>). burn bright; flame; <i><ab>caus.</ab></i> kindle, make to flame. <div n='p'/><b>+ pra,</b> <i><ab>caus.</ab></i> kindle."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ज्वल्",
+            "eid": "14925",
+            "pagenum": 295,
+            "content": "jval¦ <i>vt. 1P (pp. ज्वलित)</i> 1. To burn, to blaze, to glow, ज्वलति चलितेंधनोऽग्निः <ls>Sak.</ls>vi.; 2. to be ardent, जज्वाल लोकस्थितये स राजा <ls>Bt.</ls>i.4."
+        },
+        {
+            "word": "ज्वल्",
+            "eid": "14926",
+            "pagenum": 295,
+            "content": "jval¦ <i>Caus. (ज्वलयति-ते, ज्वालयति-ते)</i> 1. to set on fire, to light, to kindle; 2. to illuminate, to brighten.<P>With उद्-, 1. to kindle; 2. to illumine, to brighten, ककुभां मुखानि सहसोज्ज्वलयन् <ls>Sis.</ls>ix.42.<P>With प्र-, 1. to kindle; 2. to brighten."
+        }
     ]
 }

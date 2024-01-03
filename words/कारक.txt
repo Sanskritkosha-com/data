@@ -39,5 +39,43 @@
             "pagenum": 157,
             "content": "कारक¦ <i>kāraka</i> <ab>a.</ab> <ab>mms.</ab> que <i>kāra.</i> -- <ab>S.</ab> <ab>n.</ab> la partie syntactique d'une grammaire, comprenant le développement des mots, leurs flexions et leur emploi dans le discours. <lbinfo n='6'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कारक",
+            "eid": "7566",
+            "pagenum": 117,
+            "content": "कारक¦ (<lex>f.</lex> कारिका) <lex>a.</lex> = 1 कार (—°), *also = facturus (<ab>acc.</ab>, <ab>abstr.</ab> °त्व <lex>n.</lex>); <ab>absol.</ab> who effects anything, successful. <lex>m.</lex> maker, doer, author of (<ab>gen.</ab> or —°). <lex>f.</lex> metrical explanation of a difficult rule (<ab>g.</ab>). <lex>n.</lex> the relation of the noun to the verb, the notion of a case (<ab>g.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कारक",
+            "eid": "4728",
+            "pagenum": 80,
+            "content": "कारक¦ <i>(f.</i> कारिका) machend, thuend, bewirkend <lbinfo n='7'/> (<i>Gen. o.</i> —°); *facturus (<i>Acc.</i>; <i>Abstr.</i> °त्व <i>n.),abs.</i> etwas erreichend. <i>m.</i> Macher Verfertiger, Agens, Faktor; <i>f.</i> metrische Erklärung eines Satzes <i>(g.)</i>; <i>n.</i> Casusbegriff <i>(g.).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कारक",
+            "eid": "2562",
+            "pagenum": 145,
+            "content": "<i>kāraka</i>¦ (IE 7-1-2), ‘six’. <div n='P'><i>Cf.</i> Prakrit <i>Karavaka</i> (EI 12), same as Prakrit <i>Kārāpaka;</i> superintendent of the construction of a building."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कारक",
+            "eid": "09054",
+            "pagenum": 183,
+            "content": "kAraka¦ <i>(I) a. (f. रिका) (often at the end of compounds)</i> 1. Making, acting, doing, creating &c. <ls>Bg.</ls>i.42, <ls>Yaj.</ls>ii.156, iii.150, <ls>M.</ls>vii.204; 2. an agent."
+        },
+        {
+            "word": "कारक",
+            "eid": "09055",
+            "pagenum": 183,
+            "content": "kAraka¦ <i>(II) n.</i> 1. The relation of the noun to the verb in a sentence or to other words governing it (in gram.); (these relations are six according to Pāṇini- (1) कर्तृ; (2) कर्मन्; (3) करण; (4) संप्रदान; (5) अपादान and (6) अधिकरण); 2. that part of grammar which treats of these relations, syntax."
+        }
     ]
 }

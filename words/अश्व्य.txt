@@ -15,5 +15,41 @@
             "pagenum": 62,
             "content": "अश्व्य¦ <i>aśvya,</i> <ab>i. e.</ab> <i>aśva + ya,</i> <ab>m.</ab> A patronymic: a son of Aśva, <ls>Chr.</ls> 296, 10 = <ls>Rigv.</ls> i. 112, 10."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अश्व्य",
+            "eid": "3583",
+            "pagenum": 51,
+            "content": "1 अ/श्व्य¦ <lex>a.</lex> equine; <lex>n.</lex> = अश्विय/."
+        },
+        {
+            "word": "अश्व्य",
+            "eid": "3584",
+            "pagenum": 51,
+            "content": "2 अश्व्य/¦ <lex>m.</lex> a <ab>part.</ab> name."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अश्व्य",
+            "eid": "1291",
+            "pagenum": 144,
+            "content": "<b>áśvya</b>¦ (nur {337,10}; {666,22}; {913,16}; sonst immer) áśvia, <i>zum Rosse gehörig;</i> 2〉 <i>aus Rossen bestehend;</i> 3〉 <ab>n.</ab>, <i>Rossbesitz, Schar von Rossen</i>. <div n='TS'>-as vā́ras {32,12}; upabdis {74,7}; mṛkṣás {675,3}. <div n='TS'>-am [<ab>m.</ab>] 1〉 ūrvám {324,5}; vrajám {820,6}. — 2〉 paśúm {415,5}; {654,16}. <div n='TS'>-am [<ab>n.</ab>] 1〉 śíras {117,22}; {119,9}; saṃvánanam {919,12}. — 2〉 rā́dhas {406,17}; {608,3}. — 3〉 {641,10}; {784,9}. <div n='TS'>-ena 2〉 paśúnā {913,16}. <div n='TS'>-asya 3〉 {337,10}; {666,22}. <div n='TS'>-e [<ab>L.</ab>] vásau {633,22}. <div n='TS'>-ā 2〉 maghā́ni {583,9}; maghā́ {532,10}; rā́dhāṃsi {433,7}; sahásrā {654,14}. — 3〉 {647,6}. <div n='TS'>-āni 1〉 śīrṣā́ni {534,19}. — 2〉 rā́dhāṃsi {485,12}. <div n='TS'>-ais 2〉 vasavyàis {501,14}; sahásrebhis {682,14}. _{682,15}. <div n='TS'>-ānaam 2〉 hárīṇaam {645,23}."
+        },
+        {
+            "word": "अश्व्य",
+            "eid": "12134",
+            "pagenum": 1753,
+            "content": "<b>áśvya:</b>¦<info vn='add 118 gra'/> <div n='TS'>-am [<ab>m.</ab>] 2〉 paśúm {874,4}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अश्व्य",
+            "eid": "495",
+            "pagenum": 122,
+            "content": "<b>áśvya,</b>¦ <i><ab>a.</ab></i> consisting of horses; of a horse. [<b>aśva:</b> <ab>cf.</ab> <lang n='greek'>ἵππιος</lang>, ‘of a horse.’]"
+        }
     ]
 }

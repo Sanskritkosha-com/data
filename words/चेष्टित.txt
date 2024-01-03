@@ -15,5 +15,43 @@
             "pagenum": 128,
             "content": "चेष्टित¦ v. चेष्ट्."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चेष्टित",
+            "eid": "10694",
+            "pagenum": 175,
+            "content": "चेष्टित¦ <lex>n.</lex> = चेष्ट."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चेष्टित",
+            "eid": "7168",
+            "pagenum": 127,
+            "content": "चेष्टित¦ <i>n.</i> <i>(s.</i> चेष्ट्) = चेष्ट."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "चेष्टित",
+            "eid": "1543",
+            "pagenum": 157,
+            "content": "<b>ceṣṭita,</b>¦ <i><ab>ppl.</ab></i> performed; <i>as <ab>n.</ab> <ab>s.</ab></i> [<ls n='wg,1176'>1176a</ls>], deeds. [<b>√ceṣṭ.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चेष्टित",
+            "eid": "13928",
+            "pagenum": 277,
+            "content": "cezwita¦ <i>(I) a. (f. ता)</i> Moved, stirred, (pp. of चेष्ट् q.v.)."
+        },
+        {
+            "word": "चेष्टित",
+            "eid": "13929",
+            "pagenum": 277,
+            "content": "cezwita¦ <i>(II) n.</i> 1. Motion, jesture; 2. action, behaviour, कपोलपाटलादेशि बभूव रघुचेष्टितम् <ls>R.</ls>iv.68."
+        }
     ]
 }

@@ -15,5 +15,43 @@
             "pagenum": 338,
             "content": "द्विपद्¦ <i>dvipad</i> et <i>dvipād</i> <ab>m.</ab> bipède; || homme. || <ab>Gr.</ab> <lang n='greek'>δίπους</lang>; <ab>lat.</ab> bipes."
         }
+    ],
+    "CAE": [
+        {
+            "word": "द्विपद्",
+            "eid": "14955",
+            "pagenum": 244,
+            "content": "द्वि/पद्¦ (°पाद्)  <lex>a.</lex> having two feet (<lex>m.</lex> man, <lex>n.</lex> mankind) or consisting of two verses (<lex>f.</lex> द्विपाद् or द्विप/दी), <lex>m.</lex> & <lex>f.</lex> °दी such a metre."
+        },
+        {
+            "word": "द्विपद्",
+            "eid": "14956",
+            "pagenum": 244,
+            "content": "द्विप/द्¦ (°पाद्) <lex>a.</lex> having two feet (<lex>m.</lex> man, <lex>n.</lex> mankind) or consisting of two verses (<lex>f.</lex> द्विपाद् or द्विप/दी), <lex>m.</lex> & <lex>f.</lex> °दी such a metre."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "द्विपद्",
+            "eid": "10742",
+            "pagenum": 189,
+            "content": "द्वि/पद्¦ <i>u.</i> द्विप/द् (°पाद्) zweifüßig, zweireihig <lbinfo n='6'/> <i>(Vers). m.</i> der Zweifüßler, Mensch; <i>n. dass. coll.; m. u. f.</i> द्विपदी N. eines Metrums."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "द्विपद्",
+            "eid": "4610",
+            "pagenum": 652,
+            "content": "<b>dvi-pád,</b>¦ <ab>a.</ab>, stark dvi-pā́d, <i>zwei Füsse</i> [pád] <i>habend, zweifüssig;</i> 2〉 <i>zwei Versglieder</i> [pád = pāda] <i>enthaltend;</i> 3〉 <ab>n.</ab> <i>das zweifüssige Geschlecht</i>. — Ueberall mit dem Gegensatze cátuṣpad. <div n='TS'>-ā́d [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] {943,8}. <div n='TS'>-ā́d [<ab>n.</ab>] 2〉 yád (uktám) {853,10}. — 3〉 {347,5}. <div n='TS'>-ád [<ab>n.</ab>] yád {94,5}. — 3〉 {49,3}; {124,1}; {923,20}. <div n='TS'>-ádā 2〉 vākéna {164,24}. <div n='TS'>-áde jánmane {863,11}. — 3〉 {114,1}; {157,3}; {296,14}; {435,2}; {515,1}; {570,1}; {781,7}; {911,43}. _{911,44}; {991,1}. <div n='TS'>-ā́de [<ab>D.</ab>, metrisch für -áde] 3〉 {121,3}. <div n='TS'>-ádas [<ab>Ab.</ab>] {943,8}. <div n='TS'>-ádas [<ab>G.</ab>] 3〉 yás ī́śe asyá 〰 {947,3}; víśvasya 〰 … nivéśane {512,2}. <div n='TS'>-ā́das [<ab>N.</ab> <ab>p.</ab>] {647,12}. <div n='TS'>-ádām 〰 abhiṣvaré {943,8}. <div n='TS'>-ádī gaurī́s {164,41}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "द्विपद्",
+            "eid": "2113",
+            "pagenum": 174,
+            "content": "<b>dvi-pád</b>¦ [<ls n='wg,391'>391]</ls>, <i><ab>a.</ab></i> having two feet; <i>as <ab>m.</ab></i> the two-footed one, man, <ls n='lan,16,2'>16<sup>2</sup></ls>; <i>as <ab>n.</ab> <ab>sing.</ab></i> that which is two-footed, <i>collectively,</i> men, <ls n='lan,90,1, 3'>90<sup>1, 3</sup></ls>, <ls n='lan,92,3'>92<sup>3</sup></ls>. [<ab>cf.</ab> <lang n='greek'>δίποδα</lang>, <ab>Lat.</ab> <i>bipedem,</i> ‘biped. <lbinfo n='‘bi-ped.'/> ’]"
+        }
     ]
 }

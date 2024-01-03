@@ -20,5 +20,49 @@
             "pagenum": 342,
             "content": "उल्ब(ल्व)ण¦ <i><ab>a.</ab></i> <b>1</b> Thick, <lbinfo n='clot+ted'/> clotted, copious, abundant (blood &c.); °रुधिरं <ls>Mv. 6. 33.</ls> <b>--2</b> Much, <lbinfo n='exces+sive'/> excessive, intense; <ls>Śi. 10. 54</ls>, <ls n='Śi. 10.'>68</ls>,  <lbinfo n='ls:12.+37'/> <ls n='Śi.'>12. 37</ls>; <ls>Ku. 7. 84.</ls> <b>--3</b> Strong, <lbinfo n='power+ful'/> powerful, great; <ls>Śi. 20. 41</ls>; °रसः  <lbinfo n='ls:U.+ 5. 26'/> <ls>U. 5. 26</ls> the heroic sentiment; <ls>Dk. 23</ls>, <ls n='Dk.'>25</ls>; <ls>K. 299</ls>, <ls n='K.'>302.</ls> <b>--4</b> Manifest, clear; तस्यासीदुल्बणो मार्गः <ls>R. 4. 33.</ls> <b>--5</b> Gaudy, showy; अनुल्बणवेषेण <ls>K. 66.</ls> --णं <i><ab>ind.</ab></i> Much, heavily (as sighing)."
         }
+    ],
+    "CAE": [
+        {
+            "word": "उल्बण",
+            "eid": "6040",
+            "pagenum": 93,
+            "content": "उल्बण/¦ <lex>a.</lex> massy, thick, big, huge, extraordinary; rich in, full of (—°). <lex>n.</lex> उल्ब/ण = उ/ल्ब."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उल्बण",
+            "eid": "3721",
+            "pagenum": 61,
+            "content": "उल्बण/¦ übermäßigig, außerodentlich, reich an (—°)"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "उल्बण",
+            "eid": "2068",
+            "pagenum": 266,
+            "content": "<chg type='chg' n='75' src='gra'><old><b>(ulbaná),</b></old><new><b>(ulbaṇá),</b></new></chg>¦ <ab>a.</ab>, <i>dick, klumpig, wulstig;</i> es steht wol mit dem vorigen in Zusammenhang; enthalten ist es in <chg type='chg' n='76' src='gra'><old>an-ulbaná</old><new>an-ulbaṇá</new></chg>."
+        },
+        {
+            "word": "उल्बण",
+            "eid": "11075",
+            "pagenum": 1743,
+            "content": "266,10 <ab>v. u.</ab>: ulbaṇá <ab>st.</ab> ulbaná <info vn='chg 75 gra'/>"
+        },
+        {
+            "word": "उल्बण",
+            "eid": "11076",
+            "pagenum": 1743,
+            "content": "266,8 <ab>v. u.</ab>: an-ulbaṇá <ab>st.</ab> an-ulbaná <info vn='chg 76 gra'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "उल्बण",
+            "eid": "886",
+            "pagenum": 134,
+            "content": "<b>ulbaṇá,</b>¦ <i><ab>a.</ab></i> lumpy, knotty, thick, massy. [<b>ulba,</b> for <b>*urva,</b> hence <b>ṇ,</b> <ls n='wg,189'>189.</ls>]"
+        }
     ]
 }

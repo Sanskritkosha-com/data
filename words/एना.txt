@@ -7,5 +7,43 @@
             "pagenum": 356,
             "content": "एना¦ <i><ab>ind.</ab></i> <ab>Ved.</ab> Thus; then, at that time."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एना",
+            "eid": "6572",
+            "pagenum": 102,
+            "content": "एना/¦ (<ab>instr.</ab> of 1 अ <ab>adv.</ab>) thus, in this way, here, there, then, —एना/ पर/ः beyond here; पर/ एना/ beyond (<ab>w.</ab> <ab>instr.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एना",
+            "eid": "4052",
+            "pagenum": 67,
+            "content": "एना/¦ <i>s.</i> 2. एन."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "एना",
+            "eid": "2312",
+            "pagenum": 300,
+            "content": "<b>enā́</b>¦ [<ab>I.</ab> vom Deutestamme a, <ab n='siehe'>s.</ab> idám], 1〉 <i>so, auf diese Weise;</i> 2〉 <i>hier</i> (an diesem Orte); 3〉 <i>da</i> (örtlich); 4〉 enā́ parás, <i>darüber hinaus, jenseit dieses;</i> 5〉 parás enā́ mit dem <ab>Instr.</ab> <i>höher als, über,</i> aber stets bezogen auf das nahe, hiesige, irdische [<ab n='siehe'>s.</ab> parás]. <div n='P'>1〉 {30,3}. — 2〉 {164,5}; {427,4}; {461,10}; {809,52}. _{809,53}. — 3〉 dem Relativ yátra entsprechend [Page301] {840,2} — 4〉 {853,21}; {857,8}. — 5〉 ávareṇa {164,17}. _{164,18}. _{164,43}; pṛthivyā́ {951,8}."
+        },
+        {
+            "word": "एना",
+            "eid": "12259",
+            "pagenum": 1758,
+            "content": "<b>enā́:</b>¦<info vn='add 236 gra'/> <div n='P'>1〉 {773,11}; {970,5}. — 2〉 {849,7}; {938,6}; {974,3}. — 5〉 pṛthivyā́ {908,5}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "एना",
+            "eid": "971",
+            "pagenum": 137,
+            "content": "<b>enā́,</b>¦ <i><ab>adv.</ab></i> in this way; here; <b>pará enā́:</b> beyond here; beyond, <i><ab>w.</ab> <ab>instr.</ab>,</i> <ab>RV.</ab> x. <ls n='wg,125'>125.</ls> 8; there; <b>yátra…enā́,</b> whither… thither. [<ab>pron.</ab> root <b>a,</b> see <b>idám,</b> and <ab>cf.</ab> <ls n='wg,502'>502<sup>2</sup></ls> and <ls n='wg,1112'>1112a</ls>.]"
+        }
     ]
 }

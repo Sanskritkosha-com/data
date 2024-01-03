@@ -72,5 +72,51 @@
             "pagenum": 46,
             "content": "अर¦ <i>ara</i> <ab>a.</ab> <i>(ṛ)</i> rapide. -- <ab>S.</ab> <ab>n.</ab> rayon de roue."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अर",
+            "eid": "2730",
+            "pagenum": 39,
+            "content": "अर/¦ <lex>m.</lex> spoke of a wheel."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अर",
+            "eid": "1739",
+            "pagenum": 27,
+            "content": "अर/¦ <i>m.</i> Radspeiche."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अर",
+            "eid": "955",
+            "pagenum": 101,
+            "content": "<b>ará,</b>¦ <ab>m.</ab>, <i>Radspeiche,</i> als die eingefügte [ar 10]. <div n='TS'>-ā́s {412,5}; {904,4}. <div n='TS'>-ā́n {32,15}; {141,9}; {367,6}; {686,3}. <div n='TS'>-ā́ṇaam {640,14} ná caramás."
+        },
+        {
+            "word": "अर",
+            "eid": "956",
+            "pagenum": 101,
+            "content": "<b>(ára),</b>¦ <ab>a.</ab>, <i>passend</i> [von ar 10], zu Grunde liegend in áram, <ab>vgl.</ab> evā́ra."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अर",
+            "eid": "380",
+            "pagenum": 120,
+            "content": "<b>ará,</b>¦ <i><ab>m.</ab></i> spoke. [<b>√ṛ,</b> <ab>caus.</ab> ‘fit in.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अर",
+            "eid": "03204",
+            "pagenum": 61,
+            "content": "ara¦ <i>m.</i> The spoke or radius of a wheel, चक्रभ्रान्तिररान्तरेषु वितनोत्यन्यामिवारावलीम् <ls>Vikr.</ls>i."
+        }
     ]
 }

@@ -21,5 +21,35 @@
             "pagenum": 99,
             "content": "उदन्य¦ <i>udanya</i> <i>(uda,</i> ou l'inusité <i>udan)</i> <ab>Vd.</ab> nuage.  <P><i>udanyaja</i> <ab>a.</ab> <i>(jan)</i> né du nuage, <ab>Vd.</ab>  <P><i>udanyā</i> <ab>f.</ab> soif.  <P><i>udanyāmi</i> <ab>den.</ab> avoir soif.  <P><i>udanvat</i> <ab>m.</ab> mer."
         }
+    ],
+    "CAE": [
+        {
+            "word": "उदन्य",
+            "eid": "5468",
+            "pagenum": 84,
+            "content": "उदन्य/¦ <lex>a.</lex> fluctuating, watery."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उदन्य",
+            "eid": "3416",
+            "pagenum": 56,
+            "content": "उदन्य^¦ wogend, wässerig."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "उदन्य",
+            "eid": "1902",
+            "pagenum": 252,
+            "content": "<b>(udanya),</b>¦ <i>Wasser</i> [von udan], enthalten in udanyajá."
+        },
+        {
+            "word": "उदन्य",
+            "eid": "1903",
+            "pagenum": 252,
+            "content": "<b>(udanyà),</b> <b>udanía,</b>¦ <ab>a.</ab>, <i>wogend, aus Wasser bestehend</i> [von udán]. <div n='TS'>-ās [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] dhā́rās {198,3}."
+        }
     ]
 }

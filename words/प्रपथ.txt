@@ -15,5 +15,37 @@
             "pagenum": 440,
             "content": "प्रपथ¦ <i>prapatha</i> <ab>a.</ab> <i>(path)</i> relâché, énervé, languissant."
         }
+    ],
+    "CAE": [
+        {
+            "word": "प्रपथ",
+            "eid": "20679",
+            "pagenum": 341,
+            "content": "प्र/पथ¦ <lex>m.</lex> journey, way, road."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "प्रपथ",
+            "eid": "15617",
+            "pagenum": 275,
+            "content": "प्र/पथ¦ <i>m.</i> Weg, Straße, Reise."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "प्रपथ",
+            "eid": "5922",
+            "pagenum": 876,
+            "content": "<b>prá-patha,</b>¦ <ab>m.</ab>, <i>in die Ferne führender Weg, Reise in die Ferne, Reise</i> [von prá und patha = páth, pathí]. <div n='TS'>-e {843,4}. _{843,6}; {889,16}. <div n='TS'>-eṣu {166,9}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "प्रपथ",
+            "eid": "2752",
+            "pagenum": 196,
+            "content": "<b>prá-patha,</b>¦ <i><ab>m.</ab></i> (forth-path, <i><ab>i. e.</ab></i>) onward way, <ls n='lan,85,18'>85<sup>18</sup></ls>; journey in the distance <i>or</i> distant journey, <ls n='lan,86,2'>86<sup>2</sup></ls>."
+        }
     ]
 }

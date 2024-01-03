@@ -23,5 +23,49 @@
             "pagenum": 605,
             "content": "विश्रवस्¦ <i>viśravas</i> <ab>m.</ab> le père de <s1 slp1='kuvera'>Kuvera</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विश्रवस्",
+            "eid": "30255",
+            "pagenum": 509,
+            "content": "1 विश्र/वस्¦ <lex>n.</lex> great renown, glory."
+        },
+        {
+            "word": "विश्रवस्",
+            "eid": "30256",
+            "pagenum": 509,
+            "content": "2 वि/श्रवस्¦ <lex>a.</lex> famous, glorious, <ab>N.</ab> of a Ṛṣi."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विश्रवस्",
+            "eid": "22977",
+            "pagenum": 416,
+            "content": "1. विश्र/वस्¦ <i>n.</i> großer Ruhm."
+        },
+        {
+            "word": "विश्रवस्",
+            "eid": "22978",
+            "pagenum": 416,
+            "content": "2. वि/श्रवस्¦ berühmt."
+        }
+    ],
+    "INM": [
+        {
+            "word": "विश्रवस्",
+            "eid": "11887",
+            "pagenum": 727,
+            "content": "<b>Viśravas</b>,¦ a muni or ṛṣi = Pulastya. § 377 (Dhaumyatīrthak.): III, <b>89</b>, 8358 (<i>niketaḥ…V°so muneḥ</i>, there Kubera was born).—§ 525 (Rāmopākhyānap.): III, <b>274</b>, 15885 (Pulastya, the father of Vaiśravaṇa, i.e. Kubera, with half his own self, became the muni <i>V</i>.).—§ 526 (do.): III, <b>275</b>, 15889 (<i>muniḥ</i>, father of Kumbhakarṇa, Rāvaṇa, Vibhīṣaṇa, Khara, and Śūrpaṇakhā); <b>276</b>, 15930 (<i>°saḥ</i> <i>putraḥ</i>, i.e. Rāvaṇa).—§ 533 (Sītā-Rāvaṇasaṃv.): III, <b>281</b>, 16179 (<i>putraḥ…viprarṣeḥ sākṣād V°so muneḥ</i>, i.e. Rāvaṇa).—§ 775 (Ānuśāsanik.): XIII, <b>166</b>α, 7638 (<i>mahān</i> <i>ṛṣiḥ</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विश्रवस्",
+            "eid": "35617",
+            "pagenum": 678,
+            "content": "viSravas¦ <i>m.</i> Name of the father of Kubera."
+        }
     ]
 }

@@ -7,5 +7,61 @@
             "pagenum": 25,
             "content": "अस्म¦ v. इदम् et seq. et gr. 264. 266."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अस्म",
+            "eid": "3864",
+            "pagenum": 56,
+            "content": "1 अस्म/¦ <ab>pron.</ab> stem of 1st <ab>pers.</ab>"
+        },
+        {
+            "word": "अस्म",
+            "eid": "3865",
+            "pagenum": 56,
+            "content": "2 अ/स्म¦ अस्म/ <ab>pron.</ab>  stem of 3d <ab>pers.</ab>"
+        },
+        {
+            "word": "अस्म",
+            "eid": "3866",
+            "pagenum": 56,
+            "content": "अस्म/¦ <ab>pron.</ab> stem of 3d <ab>pers.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अस्म",
+            "eid": "2406",
+            "pagenum": 37,
+            "content": "1. अस्म/¦ <i>Pron-St. d. 1. Pers.</i>"
+        },
+        {
+            "word": "अस्म",
+            "eid": "2407",
+            "pagenum": 37,
+            "content": "2. अ/स्म¦ <i>u.</i> अस्म/ <i>Pron-St. d. 3. Pers.</i>"
+        },
+        {
+            "word": "अस्म",
+            "eid": "2408",
+            "pagenum": 37,
+            "content": "3. अस्म¦ nicht mit der Partikel sma verbunden <lbinfo n='3'/> <i>(g.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अस्म",
+            "eid": "1378",
+            "pagenum": 159,
+            "content": "<b>asmá,</b>¦ <ab>pr.</ab> der ersten und dritten Person, siehe ahám und idám (zusammengesetzt aus den Deutestämmen a und sma)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अस्म",
+            "eid": "532",
+            "pagenum": 123,
+            "content": "<b>asmá</b>¦ [<ls n='wg,494'>494]</ls>, <i><ab>pron.</ab> stem.</i> we, us. [<ab>cf.</ab> <lang n='greek'>ἡμεῖς</lang>, Lesbian <lang n='greek'>ἄμμες</lang>, ‘we.’]"
+        }
     ]
 }

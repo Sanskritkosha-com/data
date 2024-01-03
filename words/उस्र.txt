@@ -36,5 +36,51 @@
             "pagenum": 117,
             "content": "उस्र¦ <i>usra</i> <ab>m.</ab> <i>(uṣ)</i> jour, rayon du jour. || Taureau. -- <ab>S.</ab> <ab>f.</ab> <i>usrā</i> <ab>Vd.</ab> rayon de lumière; <lbinfo n='6'/> || vache; || anthericum tuberosum, <ab>bot.</ab> || <ab>Cf.</ab> <i>uṣa.</i>  <P><i>usras</i> <ab>n.</ab> le jour, la lumière du jour. <ab>Cf.</ab> <i>uṣas.</i>  <P><i>usriyā</i> <ab>f.</ab> <ab>Vd.</ab> rayon du jour.  <P><i>usrī</i> <ab>f.</ab> <ab>Vd.</ab> comme <i>usrā.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "उस्र",
+            "eid": "6093",
+            "pagenum": 94,
+            "content": "उस्र/¦ <lex>a.</lex> morning-, bright; <lex>m.</lex> bull or ray; <lex>f.</lex> आ/ dawn or cow."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उस्र",
+            "eid": "3758",
+            "pagenum": 61,
+            "content": "उस्र/¦ morgendlich, hell; <i>m.</i> Strahl, Stier; <i>f.</i> Morgenröte, kuh, Milch."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "उस्र",
+            "eid": "2089",
+            "pagenum": 269,
+            "content": "<b>usrá,</b>¦ <ab>a.</ab>, 1〉 <i>röthlich glänzend, morgendlich</i> [von <hom>1.</hom> vas]; 2〉 <ab>m.</ab>, <i>Stier</i> (von der rothen Farbe benannt); 3〉 usrā́, <ab>f.</ab>, <i>die Morgenröthe;</i> 4〉 <ab>f.</ab>, <i>die Kuh</i> (von ihrer rothen Farbe benannt); 5〉 <i>Tageshelle, Tag</i>. <div n='TS'>-ás 1〉 von Agni {69,9}. <div n='TS'>-ā [<ab>V.</ab> <ab>d.</ab>] 1〉 aśvinā {230,3}. <div n='TS'>-ā́ [<ab>d.</ab>] 1〉 aśvínā {341,5}; {503,1}. <div n='TS'>-ā́s [<ab>m.</ab>] 1〉 devā́s {122,14}; rāśáyas {705,8}. — 2〉 {87,1}. <div n='TS'>-ā́ [<ab>f.</ab>] 3〉 {770,2}; {861,4}. — 4〉 {92,4}. <div n='TS'>-ā́s [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] 3〉 {71,2}. — 4〉 {3,8}; {590,1}. <div n='TS'>-áās [<ab>dass.</ab>] 4〉 {684,8}. <div n='TS'>-ā́s [<ab>A.</ab>] 3〉 {214,2}; {321,2}; {444,6}; {585,5}; {861,8}; {893,4}. — 4〉 {297,13}; {480,2}; {964,2}; {995,1}; {1001,2}. — 5〉 {493,15}. <div n='TS'>-áās [<ab>A.</ab>] 3〉 {666,26}. <div n='TS'>-ā́ṇām 3〉 {661,5} nā́māni."
+        },
+        {
+            "word": "उस्र",
+            "eid": "12225",
+            "pagenum": 1757,
+            "content": "<b>usrá:</b>¦<info vn='add 203 gra'/> <div n='TS'>-ā́s 1〉 mā́nāsas {171,5}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "उस्र",
+            "eid": "891",
+            "pagenum": 134,
+            "content": "<b>usrá,</b>¦ <i><ab>a.</ab></i> bright; of <i>or</i> pertaining to the dawn; <i>as <ab>f.</ab>,</i> <b>usrā́,</b> dawn. [<b>√1vas,</b> ‘light up,’ <ls n='wg,252'>252,</ls> <ls n='wg,1188'>1188,</ls> <ls n='wg,181'>181a</ls>: <ab>w.</ab> <b>us-rā́,</b> <ab>cf.</ab> Old Germanic <i>Aus-t-rō,</i> a goddess of the (year-dawn, <lbinfo n='(year-dawn,'/> <ab>i. e.</ab>) spring-light, and <ab>AS.</ab> <i>Eos-t-ra,</i> the name of whose festival, <i>easter,</i> ‘Easterday, <lbinfo n='‘Easter-day,'/> ’ occurring in April, was transferred to the Christian festival that replaced it; for <i>t</i> between <i>s</i> and <i>r,</i> see under <b>svasṛ:</b> see <b>uṣ</b> and <b>uṣas.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "उस्र",
+            "eid": "07163",
+            "pagenum": 148,
+            "content": "usra¦ <i>m.</i> 1. A ray of light, उस्रैर्भानोर्नृपतय इव स्पृश्यमाना विबुद्धाः <ls>Ve.</ls>ii., <ls>R.</ls>iv.66; 2. a bull."
+        }
     ]
 }

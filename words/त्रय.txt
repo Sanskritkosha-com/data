@@ -31,5 +31,51 @@
             "pagenum": 302,
             "content": "त्रय¦ <i>traya</i> [en <ab>compos.</ab>] trois, <ab>cf.</ab> <i>tri.</i> -- <ab>S.</ab> <ab>n.</ab> triade, <ab>gr.</ab> <lang n='greek'>τριάς</lang>.  <P><i>trayastriṃśat</i> <ab>m.</ab> au <ab>pl.</ab> les 33 dieux du 2ᵉ ordre, <ab>Bd.</ab>  <P><i>trayī</i> <ab>f.</ab> la réunion des 3 <s1 slp1='veda'>Veda</s1>s [<s1 slp1='fk'>Ṛk</s1>, <s1 slp1='sAma'>Sāma</s1>, <s1 slp1='yajus'>Yajus</s1>]. || Femme ayant son mari et un enfant vivant. || Intelligence, compréhension. <lbinfo n='8'/> || Conyza serratula, <ab>bot.</ab>  <P><i>trayīlanu</i> <ab>m.</ab> le Soleil.  <P><i>trayīdharma</i> <ab>m.</ab> les 3 livres de la Loi [les 3 <s1 slp1='veda'>Veda</s1>s].  <P><i>trayīmukha</i> <ab>m.</ab> le dieu aux trois bouches, <ab>c-à-d.</ab> <s1 slp1='brahmA'>Brahmā</s1> de qui procèdent les 3 <s1 slp1='veda'>Veda</s1>s.  <P><i>trayodaśa</i> <ab>a.</ab> [<ab>f.</ab> <i>ī</i>] treizième. -- <ab>F.</ab> le 13ᵉ jour de la quinzaine lunaire.  <P><i>trayodaśan</i> <ab>a.</ab> treize. || <ab>Lat.</ab> tredecim."
         }
+    ],
+    "CAE": [
+        {
+            "word": "त्रय",
+            "eid": "12772",
+            "pagenum": 210,
+            "content": "त्रय/¦ <lex>f.</lex> ई triple, threefold; <lex>n.</lex> a triad; <lex>f.</lex> त्रयी the same (<ab>esp.</ab> the three Vedas); त्रयी/ विद्या/ the threefold knowledge (<ab>(r.)</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "त्रय",
+            "eid": "8941",
+            "pagenum": 159,
+            "content": "त्रय¦ <i>f.</i> ई dreifach, dreierlei. <i>f.</i> त्रयी die Dreizahl, die drei Veden; त्रयी/ विद्या/ die dreifache Wissenschaft <i>(r.). n.</i> die Dreizah, Triade."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "त्रय",
+            "eid": "3913",
+            "pagenum": 554,
+            "content": "<b>trayá,</b>¦ <ab>a.</ab>, <i>dreifach</i> [von trí]. <div n='TS'>-ā́ṇi dhā́ma {871,2}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "त्रय",
+            "eid": "1812",
+            "pagenum": 165,
+            "content": "<b>trayá,</b>¦ <i><ab>a.</ab></i> triple, threefold, <ls n='lan,57,13'>57<sup>13</sup></ls>; <i>as <ab>n.</ab></i> triad, triplet, <lang n='greek'>τριάς</lang>. [<b>tri,</b> <ls n='wg,489'>489<sup>4</sup></ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "त्रय",
+            "eid": "16006",
+            "pagenum": 317,
+            "content": "traya¦ <i>(I) a. (f. यी)</i> Triple, threefold, divided into three parts, त्रयं ब्रह्म सनातनम् <ls>M.</ls>i.23."
+        },
+        {
+            "word": "त्रय",
+            "eid": "16007",
+            "pagenum": 317,
+            "content": "traya¦ <i>(II) n.</i> A triad, a group of three, अदेयमासीत्त्रयमेव भूपतेः शशिप्रभं छत्रमुभे च चामरे <ls>R.</ls>iii.16, लोकत्रयं प्रव्यथितं महात्मन् <ls>Bg.</ls>xi.20."
+        }
     ]
 }

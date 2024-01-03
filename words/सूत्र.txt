@@ -90,5 +90,51 @@
             "pagenum": 726,
             "content": "सूत्र¦ <i>sūtra</i> <ab>n.</ab> <i>(siv;</i> <ab>sfx.</ab> <i>tra)</i> fil; || cordon <lbinfo n='3'/> sacré des 3 premières castes. || Sentences <lbinfo n='6'/> renfermant les règles fondamentales de la science, depuis la grammaire jusqu'à la philosophie [il y a des <s1 slp1='sUtra'>sūtra</s1>s védiques, brâhmaniques et buddhiques]. || Les livres attribués à <s1 slp1='SAkyamuni'>Śākyamuni</s1> ou à des écrivains sacrés, <ab>Bd.</ab>  <P><i>sūtrakaṇṭha</i> <ab>m.</ab> brâhmane. || Pigeon; hochequeue. <lbinfo n='9'/>  <P><i>sūtrakoṇa</i> <ab>m.</ab> petit tambour en forme de sablier, que l'on frappe avec un bouton attaché <lbinfo n='5'/> à une corde.  <P><i>sūtragaṇḍikā</i> <ab>f.</ab> bâton de tisserand.  <P><i>sūtratarkuṭī</i> <ab>f.</ab> quenouille, fuseau.  <P><i>sūtratantu</i> <ab>m.</ab> fil.  <P><i>sūtradhāra</i> <ab>m.</ab> <i>(dhṛ)</i> machiniste; || directeur <lbinfo n='4'/> de théâtre, chef de la troupe. || <s1 slp1='indra'>Indra</s1>.  <P><i>sūtrapuṣpa</i> <ab>m.</ab> cotonnier.  <P><i>sūtrabhid</i> <ab>m.</ab> tailleur.  <P><i>sūtramadhyabhū</i> <ab>m.</ab> encens.  <P><i>sūtrayantra</i> <ab>n.</ab> navette ou métier de tisserand. <lbinfo n='7'/>  <P><i>sūtralā</i> <ab>f.</ab> (<ab>sfx.</ab> <i>la)</i> quenouille, fuseau.  <P><i>sūtravīṇā</i> <ab>f.</ab> sorte de luth.  <P><i>sūtraveṣṭana</i> <ab>n.</ab> navette de tisserand.  <P><i>sūtrānta</i> <ab>m.</ab> <i>(anta)</i> <s1 slp1='sUtra'>sūtra</s1>s buddhiques du Népâl.  <P><i>sūtrālī</i> <ab>f.</ab> collier.  <P><i>sūtrin</i> <ab>f.</ab> corneille."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सूत्र",
+            "eid": "37876",
+            "pagenum": 631,
+            "content": "सू/त्र¦ <lex>n.</lex> thread, cord, <ab>esp.</ab> the sacred cord worn by the first three classes; string, wire; line, brief rule or a book of such rules."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सूत्र",
+            "eid": "28260",
+            "pagenum": 507,
+            "content": "सू/त्र¦ <i>n.</i> Faden, Schnur, Messchnur, Faser, Linie, kurze Regel, Lehrsatz <i>o.</i> Lehrbuch. <lbinfo n='5'/>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "सूत्र",
+            "eid": "5776",
+            "pagenum": 329,
+            "content": "<i>sūtra</i>¦ (IA 20), a manual of religious rituals, etc. <div n='P'>(<i>HRS</i>), royal receipts collected by the superintendent of weaving, as suggested by the <i>Arthaśāstra.</i> <div n='P'>(<i>IE</i> 3-1), same as <i>śarayantraka;</i> the string holding the leaves of a manuscript together (<i>Vāsavadatta,</i> Hall's ed., p. 250)."
+        },
+        {
+            "word": "सूत्र",
+            "eid": "5777",
+            "pagenum": 329,
+            "content": "<i>Sūtra</i>¦ (PJS), abbreviation of <i>Sūtradhāra,</i> a mason."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सूत्र",
+            "eid": "4685",
+            "pagenum": 275,
+            "content": "<b>sū́tra,</b>¦ <i><ab>n.</ab></i> <div n='2'/><b>—1.</b> thread; cord; <div n='2'/><b>—2.</b> brief rule <i>or</i> book of such rules (so called, perhaps, <lbinfo n='per-haps,'/> because each rule was a short ‘line’ or because the collection was a ‘string’ of rules), <i><ab>cf.</ab></i> Whitney xvii. [<b>√sīv,</b> <ab>q. v.</ab>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सूत्र",
+            "eid": "41369",
+            "pagenum": 791,
+            "content": "sUtra¦ <i>n.</i> 1. A thread, string, line, cord, मणौ वज्रसमुत्कीर्णे सूत्रस्येवास्ति मे गतिः <ls>R.</ls>i.4, <ls>Bg.</ls>vii.7; 2. a fibre, कर्षति खण्डिताग्रात् सूत्रं मृणालादिव राजहंसी <ls>Vikr.</ls>i., <ls>K.S.</ls>i.40; 3. a collection of threads; 4. the sacred thread or cord worn by the first three classes, पाणौ कार्मुकमक्षसूत्रवलयं दंडोऽपरः पैप्पलः <ls>Mv.</ls>i., <ls>K.S.</ls>iii.46; 5. the string or wire of a puppet; 6. a short rule or precept; 7. any work or manual containing such aphoristic rules, (e.g. आपस्तंबसूत्र, बौधायनसूत्र); 8. a short concise sentence used as a memorial rule; (it is thus defined- स्वल्पाक्षरमसंदिग्धं सारवद्विश्वतोमुखम् । अस्तोभमनवद्यं च सूत्रं सूत्रविदो विदुः); 9. any rule, canon or decree (in law)."
+        }
     ]
 }

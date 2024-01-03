@@ -37,5 +37,41 @@
             "pagenum": 241,
             "content": "*चर्च्¦ <i>carc.</i> <i>carcāmi</i> 1 et 6, et <i>carcayāmi</i> <lbinfo n='6'/> 10. [Cette racine paraît être un <ab>red.</ab> de <i>car</i>]. Aller. || Aller contre, frapper, briser; <lbinfo n='4'/> blesser, tuer; || au <ab>fig.</ab> accuser, blâmer, calomnier, menacer. || S'adresser à, parler. <lbinfo n='4'/> || Parcourir, lire, étudier. || <ab>Cf.</ab> <i>jarch, jarj,</i> <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "चर्च्",
+            "eid": "10376",
+            "pagenum": 169,
+            "content": "चर्च्¦ <ab>C.</ab> चर्चयति, <ab>pp.</ab> चर्चित (<ab>q.v.</ab>) repeat, <ab>esp.</ab> by inserting इति."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चर्च्",
+            "eid": "6903",
+            "pagenum": 122,
+            "content": "चर्च्¦ <i>Caus.</i> चर्चयति wiederholen <i>(bei der</i> <i>Recitation); p.p.</i> चर्चित wiederholt; überzogen, bedeckt mit (—°); <i>n.</i> Überzug <lbinfo n='3'/> <i>(von Salbe).</i>"
+        },
+        {
+            "word": "चर्च्",
+            "eid": "6906",
+            "pagenum": 122,
+            "content": "चर्च्¦ चृत/ति binden; <i>p.p.</i> चृत्त/ <i>Mit</i> वि auflösen, <lbinfo n='6'/> öffnen, stellen <i>(Schlingen); p.p.</i> वि/चृत्त."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चर्च्",
+            "eid": "13415",
+            "pagenum": 268,
+            "content": "carc¦ <i>(I) vt. 10U (pp. चर्चित; pres. चर्चयति-ते)</i> To read over, to peruse, to study."
+        },
+        {
+            "word": "चर्च्",
+            "eid": "13416",
+            "pagenum": 268,
+            "content": "carc¦ <i>(II) vt. 6P (pp. चर्चित; pres. चर्चति)</i> 1. To abuse, to condemn; 2. to discuss."
+        }
     ]
 }

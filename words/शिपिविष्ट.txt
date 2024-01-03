@@ -34,5 +34,51 @@
             "synonyms": [],
             "content": "अकर्ण एडो बधिरो दुश्चर्मा तु द्विनग्नकः ॥ ४५४ ॥\nवण्डश्च शिपिविष्टश्च खोडखोरौ तु खञ्जके ।"
         }
+    ],
+    "CAE": [
+        {
+            "word": "शिपिविष्ट",
+            "eid": "32447",
+            "pagenum": 546,
+            "content": "शिपिविष्ट/¦ <lex>a.</lex> the same, bald. <lex>m.</lex> <ab>E.</ab> of Viṣṇu & Śiva."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शिपिविष्ट",
+            "eid": "24593",
+            "pagenum": 443,
+            "content": "शिपिविष्ट/¦ <i>m. Bein. Viṣṇu's 0. Śiva's.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "शिपिविष्ट",
+            "eid": "8776",
+            "pagenum": 1394,
+            "content": "<b>śipi-viṣṭá,</b>¦ <ab>a.</ab>, Beiname des Vischnu, die ursprüngliche Bedeutung ist unklar; <ls>Nir. 〔5,8〕</ls> wird es zuerst śepa iva nirveṣṭitaḥ erklärt, also mit śepa in Zusammenhang gebracht, hernach raśmibhis āviṣṭa, indem śipi = raśmin gesetzt wird; auch die spätere Bedeutung „kahl“ scheint erst aus den Rigveda-Stellen erschlossen. <div n='TS'>-a {615,7}; {616,5}. <div n='TS'>-ás {616,6}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "शिपिविष्ट",
+            "eid": "2645",
+            "pagenum": 203,
+            "content": "<b>Śipiviṣṭa</b>¦ = Kṛṣṇa (Viṣṇu, Nārāyaṇa): XII, 1506, 13229, 13231 (= Nārāyaṇa, etymology); XIII, 6978 (Viṣṇu's 1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शिपिविष्ट",
+            "eid": "37708",
+            "pagenum": 718,
+            "content": "Sipi-vizwa¦ <i>(I) a.</i> 1. bald, bald-headed; 2. leprous."
+        },
+        {
+            "word": "शिपिविष्ट",
+            "eid": "37709",
+            "pagenum": 718,
+            "content": "Sipi-vizwa¦ <i>(II) m.</i> 1. an epithet of Śiva; 2. of Vishṇu; 3. a leper; 4. a bald man; 5. a man without prepuce. (Also शिपविष्ट and शिविपिष्ट in these senses.)"
+        }
     ]
 }

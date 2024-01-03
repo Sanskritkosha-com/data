@@ -31,5 +31,35 @@
             "pagenum": 534,
             "content": "*रप्¦ <i>rap.</i> <i>rapāmi</i> 1. Parler, dire. || Louer, célébrer dans un hymne, <ab>Vd.</ab> <ab>cf.</ab> <i>lap.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "रप्",
+            "eid": "26584",
+            "pagenum": 443,
+            "content": "रप्¦ र/पति <vlex type='root'/> chatter, whisper; <ab>I.</ab> रारपीति = <ab>S.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "रप्",
+            "eid": "20160",
+            "pagenum": 359,
+            "content": "रप्,¦ र/पति schwantzen, flüstern, reden."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "रप्",
+            "eid": "7304",
+            "pagenum": 1145,
+            "content": "<b>√rap</b>¦ [<ls>Cu. 〔85〕</ls>], 1〉 <i>sprechen, preisen</i> (vom Dichter); 2〉 <i>laut rauschen,</i> so auch im <ab>Intens.</ab>; 3〉 etwas [<ab>A.</ab>] <i>preisen;</i> 4〉 mit bahú etwas [<ab>A.</ab>] hoch <i>preisen;</i> 5〉 jemandem [<ab>D.</ab>] etwas [<ab>A.</ab>] <i>anpreisen, ankündigen</i>. <div n='Pf'>Mit <b>pári</b> <i>umhersummen</i> (in parirā́p). <div n='Pf'><b>prá</b> <i>sprechen, preisen</i> (vom Dichter). <div n='Pf'><b>práti</b> jemandem [<ab>D.</ab>] etwas [<ab>A.</ab>] <i>anpreisen, ankündigen</i>. [Page1146] <div n='H'>Stamm <b>rápa:</b> <div n='TS'>-at 1〉 kavís <chg type='chg' n='199' src='gra'><old>{174,6}</old><new>{174,7}</new></chg>. — 2〉 ápiā yóṣaṇā {837,2} (nadásya nādé). <div n='H'><b>rapa:</b> <div n='TS'>-āmi 4〉 bahú etád {836,11}. <div n='TS'>-ati <b>prá</b> nā́bhānédiṣṭhas {887,18}. <div n='TS'>-ema 3〉 ṛtám vádantas ánṛtam 〰 {836,4}. <div n='H'><ab>Impf.</ab> <b>arapa:</b> <div n='TS'>-at 5〉 vām mádhumat {119,9} (mákṣikā). — <b>práti</b> me vartaṇím {415,9} (wo ohne Augment zu lesen). <div n='H'>Stamm des <ab>Int.</ab> <b>rārap:</b> <div n='TS'>-pīti {444,6} rebhás ná (agnís). <div n='H'><ab>Part.</ab> <ab>Int.</ab> <b>rā́rapat:</b> <div n='TS'>-at <ls>SV. 〔1,3,2,4,9〕</ls> (Variante zu vā́vadat des <ls>RV.</ls>). <div n='H'>Verbale <b>ráp (rā́p)</b> <div n='P'>enthalten in pari-rā́p."
+        },
+        {
+            "word": "रप्",
+            "eid": "11199",
+            "pagenum": 1745,
+            "content": "1146,2: {174,7} <ab>st.</ab> {174,6} <info vn='chg 199 gra'/>"
+        }
     ]
 }

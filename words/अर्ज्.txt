@@ -37,5 +37,49 @@
             "pagenum": 48,
             "content": "*अर्ज्¦ <i>arj.</i> <i>arjāmi</i> 1, <i>arjayāmi</i> et <i>arjaye</i> <lbinfo n='6'/> 10; <ab>p.</ab> <i>ānarja;</i> <ab>pp.</ab> <i>arjita.</i> Acquérir par le travail. || Faire, exécuter. || Travailler: <lbinfo n='4'/> <i>svarjitaṃ karma</i> action bien faite. || <ab>Gr.</ab> <lang n='greek'>ἔργον</lang>."
         }
+    ],
+    "CCS": [
+        {
+            "word": "अर्ज्",
+            "eid": "1803",
+            "pagenum": 28,
+            "content": "अर्ज्¦ , अर्जति sich verschaffen, erwerben, erlangen. <i>Caus. Act. u. Med. dass.</i> उप <i>Caus. dass.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अर्ज्",
+            "eid": "1046",
+            "pagenum": 112,
+            "content": "<hom>1.</hom> <b>(√arj),</b>¦ <i>vordringen,</i> siehe ṛñj."
+        },
+        {
+            "word": "अर्ज्",
+            "eid": "1047",
+            "pagenum": 112,
+            "content": "<hom>2.</hom> <b>(√arj),</b>¦ strahlen, aus ar erweitert, wie arc; liegt zu Grunde für árjuna, ṛjrá <ab>u. s. w.</ab>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अर्ज्",
+            "eid": "403",
+            "pagenum": 120,
+            "content": "<b>√arj,</b>¦ <i>see</i> <b>√2ṛj.</b>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अर्ज्",
+            "eid": "03359",
+            "pagenum": 64,
+            "content": "arj¦ <i>(I) vt. 1P (pp. अर्जित)</i> 1. To procure, to gain, to earn, पितृद्रव्यविरोधेन यदन्यय् स्वयमर्जितम् <ls>Yaj.</ls>ii.118, <ls>Na.</ls>v.84; 2. to take, to take up, <ls>Bt.</ls>xiv.74.<P>With उप-, to procure, to obtain."
+        },
+        {
+            "word": "अर्ज्",
+            "eid": "03360",
+            "pagenum": 64,
+            "content": "arj¦ <i>(II) vt. 10U (pp. अर्जित)</i> To obtain, to procure."
+        }
     ]
 }

@@ -44,5 +44,57 @@
             "pagenum": 48,
             "content": "अर्थिन्¦ <i>arthin</i> <ab>a.</ab> qui demande; solliciteur; qui a besoin; pauvre; mendiant. || Demandeur, <lbinfo n='5'/> plaignant."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अर्थिन्",
+            "eid": "2891",
+            "pagenum": 42,
+            "content": "अर्थि/न्¦ <lex>a.</lex> having an object, industrious, eager; wanting, poor, desirous of (<ab>instr.</ab> or —°), begging, a beggar or petitioner, amorous, wooing, a wooer, suitor, plaintiff."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अर्थिन्",
+            "eid": "1834",
+            "pagenum": 28,
+            "content": "अर्थि/न्¦ eifrig, geschäftig, begehrend, begierignach <lbinfo n='10'/> <i>(Instr. o.</i> —°), liebesbedürftig; <i>m.</i> Bewerber, Bittender, Kläger <i>(j.).</i>"
+        },
+        {
+            "word": "अर्थिन्",
+            "eid": "29726",
+            "pagenum": 538,
+            "content": "अर्थि/न्¦ <i>auch</i> arm; <i>m.</i> Bettler."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अर्थिन्",
+            "eid": "1058",
+            "pagenum": 114,
+            "content": "<b>arthín,</b>¦ <ab>a.</ab> [von ártha], <i>strebend, strebsam, begehrend, regsam</i>. <div n='TS'>-ī́ sūrís {517,23}. <div n='TS'>-ínas [<ab>G.</ab>] {105,2}; {852,8}. <div n='TS'>-ínas [<ab>N.</ab>] {647,12}; {688,5}; śyenā́sas {953,5}. <div n='TS'>-ínas [<ab>A.</ab>] {48,6}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अर्थिन्",
+            "eid": "410",
+            "pagenum": 121,
+            "content": "<b>arthín,</b>¦ <i><ab>a.</ab></i> having an object, desiring, seeking; (begging, <i><ab>i. e.</ab></i>) needy. [<b>artha.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अर्थिन्",
+            "eid": "03437",
+            "pagenum": 66,
+            "content": "arTin¦ <i>(I) a. (f. नी)</i> 1. One who seeks for anything, (with the inst., e.g. भार्यया चार्थी); 2. desirous of, (with the inst., e.g. को वधेन ममार्थी स्यात्); 3. entreating any one, (with the gen., e.g. अर्थी वररुचिर्मेस्तु.)"
+        },
+        {
+            "word": "अर्थिन्",
+            "eid": "03438",
+            "pagenum": 66,
+            "content": "arTin¦ <i>(II) m.</i> 1. A beggar, a suitor, कन्यारत्नमयोनिजन्म भवतामास्ते वयं चार्थिनः <ls>Mv.</ls>i., यथाकामार्चितार्थिनाम् <ls>R.</ls>i.6, ii.54, ix.27; 2. a prosecutor, a plaintiff, a complainant, स धर्मस्थसखः शश्वदर्थिप्रत्यर्थिनः स्वयम् । ददर्श संशयच्छेद्यान् व्यवहारानतन्द्रितः <ls>R.</ls>xvii.39; 3. a servant."
+        }
     ]
 }

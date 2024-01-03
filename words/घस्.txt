@@ -31,5 +31,37 @@
             "pagenum": 231,
             "content": "*घस्¦ <i>ghas.</i> <i>ghasāmi</i> 1; <ab>p.</ab> <i>jaghāsa,</i> <ab>3p.</ab> <ab>pl.</ab>  <i>jakṣus;</i> <ab>f1.</ab> <i>ghastāsmi;</i> <ab>f2.</ab> <i>ghatsyāmi;</i> <ab>a2.</ab> <i>aghasam</i> <lbinfo n='5'/> et <ab>Vd.</ab> <i>akṣam;</i> <ab>pp.</ab> <i>ghasta.</i> Manger. <ab>Cf.</ab> <i>jakṣ.</i> || <ab>Gr.</ab> <lang n='greek'>γαστήρ</lang>; <ab>lat.</ab> gustus, vescor."
         }
+    ],
+    "CAE": [
+        {
+            "word": "घस्",
+            "eid": "10020",
+            "pagenum": 163,
+            "content": "घस्¦ घस्ति <vlex type='root'/> devour, swallow, eat. <ab>D.</ab> जि/घत्सति."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "घस्",
+            "eid": "6618",
+            "pagenum": 116,
+            "content": "घस्¦ <i>(Praes. fehlt)</i> fressen, verzehren, essen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "घस्",
+            "eid": "3138",
+            "pagenum": 422,
+            "content": "<b>√ghas,</b>¦ 1〉 <i>essen, fressen, verschlingen, zerkauen;</i> 2〉 <i>speisen</i> (ohne Object); mit <b>ápi,</b> <i>verspeisen, verzehren, fressen</i>. <div n='H'>Stamm <b>ghas,</b> (vor Vocalen) <b>kṣ,</b> (mit -t) <b>g-dh:</b> <div n='TS'>-kṣan [<pe>3.</pe> <ab>p.</ab> <ab>Co.</ab>] 1〉 mā́ tvā vṛ́kāsas {921,15}. gdha [<pe>3.</pe> <ab>s.</ab> <ab>med.</ab>] <b>ápi:</b> úras, ánsau {158,5}. <div n='H'><ab>Imperf.</ab> <b>ághas,</b> (vor Vocalen) <b>ákṣ:</b> <div n='TS'>-ghas [<pe>2.</pe> <ab>s.</ab>] 1〉 sahásram mahiṣā́n {632,8}. <div n='TS'>-ghas [<pe>3.</pe> <ab>s.</ab>] śatā́ mahiṣā́ṇām {383,8}. <div n='TS'>-kṣan [<pe>3.</pe> <ab>p.</ab>] 2〉 {82,2}. <div n='H'><b>aghas, akṣ:</b> <div n='TS'>-kṣan 1〉 gā́vas yávam {853,8}; viṣásya púṣiam {191,12}. — 2〉 pitáras {841,12}. <div n='H'>[<ab>Co.</ab>] <b>ghása:</b> <div n='TS'>-ásas 1〉 puroḍā́śam {286,3}; {328,16}. <div n='TS'>-ásat 1〉 ukṣáṇas, havís {912,13}. <div n='H'><ab>Perf.</ab> <b>jaghás,</b> schwach <b>jakṣ:</b> <div n='TS'>-ghā́sa [<pe>3.</pe> <ab>s.</ab>] 1〉 ghāsím {162,14} (áśvas). <div n='TS'>-ghāsa [<ab>dass.</ab>] 1〉 viṣám {191,11}. <div n='TS'>-kṣīyā́t [<ab>Opt.</ab>] 1〉 dhānā́s {854,1} (parallel: sómam papīyāt). <div n='H'><ab>Part.</ab> II. <b>(gdha)</b>, gefressen <div n='P'>in agdha‿ád <ls>TS. 〔3,3,8,2〕</ls>."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "घस्",
+            "eid": "12948",
+            "pagenum": 259,
+            "content": "Gas¦ <i>vt. 1P (pp. घस्त)</i> To eat, to devour; (this is a defective verb and is often substituted for अद् q.v.)."
+        }
     ]
 }

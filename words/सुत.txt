@@ -44,5 +44,77 @@
             "pagenum": 717,
             "content": "सुत¦ <i>suta</i> <ab>pp.</ab> de <i>su.</i> -- <ab>S.</ab> <ab>m.</ab> fils; || prince royal. -- <ab>S.</ab> <ab>f.</ab> fille. || Hedysarum alhagi. -- <ab>S.</ab> <ab>n.</ab> le <s1 slp1='soma'>soma</s1>, <ab>Vd.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "सुत",
+            "eid": "37166",
+            "pagenum": 622,
+            "content": "1 सुत/¦ expressed or extracted; <lex>m.</lex> the expressed Soma juice, a Soma libation."
+        },
+        {
+            "word": "सुत",
+            "eid": "37167",
+            "pagenum": 622,
+            "content": "2 सुत¦ <lex>m.</lex> आ <lex>f.</lex> son, daughter."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सुत",
+            "eid": "27738",
+            "pagenum": 500,
+            "content": "1. सुत/¦ <i>(s.</i> 1. सु) <i>m.</i> Somasaft, Somaopfer <i>(auch n.).</i>"
+        },
+        {
+            "word": "सुत",
+            "eid": "27739",
+            "pagenum": 500,
+            "content": "सुत/¦ <i>(s.</i> 1  .सु) <i>f.</i> Sohn, Tochter."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सुत",
+            "eid": "9758",
+            "pagenum": 1532,
+            "content": "<b>sutá,</b>¦ <ab>m.</ab>, siehe su."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "सुत",
+            "eid": "5772",
+            "pagenum": 328,
+            "content": "<i>suta</i>¦ (IE 7-1-2), confused with <i>Pāṇḍu-suta</i> and used to indicate ‘five’."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सुत",
+            "eid": "4619",
+            "pagenum": 273,
+            "content": "<b>1sutá,</b>¦ <i><ab>ppl.</ab></i> extracted; <i>as <ab>m.</ab></i> éxtract; <i>see</i> <b>√1su,</b> ‘extráct.’"
+        },
+        {
+            "word": "सुत",
+            "eid": "4620",
+            "pagenum": 274,
+            "content": "<b>2suta,</b>¦ <i><ab>m.</ab></i> son; <b>sutā,</b> <i><ab>f.</ab></i> daughter. [<ab>prop.</ab> ‘generated, born,’ <ab>ppl.</ab> of <b>√3su,</b> see <b>√sū:</b> for <ab>mg</ab>, <ab>cf.</ab> <b>sūnú,</b> and <ab>Eng.</ab> <i>bairn</i> (under <b>√bhṛ</b>).]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सुत",
+            "eid": "40934",
+            "pagenum": 784,
+            "content": "suta¦ <i>(I) a. (f. ता)</i> 1. Poured out; 2. extracted; 3. begotten, brought forth."
+        },
+        {
+            "word": "सुत",
+            "eid": "40935",
+            "pagenum": 784,
+            "content": "suta¦ <i>(II) m.</i> 1. A son, दिगंतविश्रांतरथो हि तत्सुतः <ls>R.</ls>iii.4; 2. a king."
+        }
     ]
 }

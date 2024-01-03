@@ -15,5 +15,41 @@
             "pagenum": 407,
             "content": "<b>bhavant</b>¦, used (as in <lang>Pali</lang>, <ab>e.g.</ab> <ls>MN</ls> 〔i.241.7〕 te bhonto samaṇabrāhmaṇā … vediyanti) like bhagavant, <i>venerable, respected</i>, not necessarily in address (<ab>cf.</ab> <ls>Senart</ls> <ls>Mv</ls> 〔i note 558〕, on 〔i.235.17〕): muñcanti yaśasvino bhavato (<lex>gen.</lex> <ab>sg.</ab>) <ls>Mv</ls> 〔i.236.8〕 (<ab>vs</ab>); bhavanto śramaṇā vā brāhmaṇā vā … vedayanti <ls>Mv</ls> 〔ii.121.2, 5〕, <ab>etc.</ab> (not in address, but simple narration, referring to persons not present); similarly 〔ii.126.13〕; 〔127.17〕; 〔129.4〕; 〔130.7〕; ya ime bhavantaḥ śramaṇabrāhmaṇā … vedayanta iti <ls>LV</ls> 〔247.19〕; <lex>voc.</lex> bhavanto, <i>Sirs! gentlemen!</i>, not as subject of a verb in polite address as in <lang>Skt.</lang>: <ls>Mv</ls> 〔ii.442.1, 19〕; beginning a story, bhūtapūrvaṃ bhavanto … rājā … abhūṣi <ls>Mv</ls> 〔iii.204.8〕, <i>Once upon a time, Sirs, there was a king …</i>, and in the sequel; bhavanto yūyaṃ na … śabdaṃ śruṇiṣyatha 〔iii.297.10〕, <i>sirs, you shall not hear …</i>; often in <ls>Divy</ls>, <ab>e.g.</ab> 〔34.23〕 (bhavanto 'sti kaścid yuṣmābhir dṛṣṭaḥ …); 〔35.3〕, <ab>etc.</ab>; and in <ls>MSV</ls>, <ab>e.g.</ab> 〔i.64.15〕."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भवन्त्",
+            "eid": "22675",
+            "pagenum": 374,
+            "content": "1 भ/वन्त्¦ (<ab>nom.</ab> भवन्) <lex>a.</lex> being, present; <lex>f.</lex> °न्ती the present time or tense."
+        },
+        {
+            "word": "भवन्त्",
+            "eid": "22676",
+            "pagenum": 374,
+            "content": "2 भ/वन्त्¦ (<ab>nom.</ab> <lex>m.</lex> भ/वान्, <lex>f.</lex> भवती) <ab>pers.</ab> <ab>pron.</ab> of 2^nd <ab>pers.</ab>, with 3^d <ab>pers.</ab> of the verb, used in respectful address (<ab>pl.</ab> also for sgl. & msc. for <lex>n.</lex>) = your honour, your worship, you."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भवन्त्",
+            "eid": "17220",
+            "pagenum": 302,
+            "content": "1. भवन्त्¦ <i>(Nom.</i> भवन्) seiend, gegenwärtig; <lbinfo n='4'/> <i>f.</i> भवन्ती Gegenwart <i>(g.).</i>"
+        },
+        {
+            "word": "भवन्त्",
+            "eid": "17221",
+            "pagenum": 302,
+            "content": "2. भवन्त्¦ <i>(Nom. m.)</i> भ/वान्, f. भवती) der Herr, die Herrin <i>(in höflicher Anrede</i>; <i>vgl.)</i> अत्र° <i>u.</i> तत्रभवन्त्)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भवन्त्",
+            "eid": "2970",
+            "pagenum": 205,
+            "content": "<b>bhávant</b>¦ [<ls n='wg,456'>456]</ls>, <i><ab>a.</ab></i> lordly; <i>--used in respectful </i> <lbinfo n='re-spectful'/> <i>address as substitute</i> [<ls n='wg,514'>514]</ls> <i>for</i> <i>pronoun of the second person, and translatable </i> <lbinfo n='trans-latable'/> <i>by</i> your honor, thou (<i><ab>e. g.</ab></i> <ls n='lan,6,23'>6<sup>23</sup></ls>), ye (<i><ab>e. g.</ab></i> <ls n='lan,7,6'>7<sup>6</sup></ls>, <ls n='lan,12,10'>12<sup>10</sup></ls>); <i>used in the <ab>pl.</ab> of a single</i> <i>person to express greater courtesy,</i> <ls n='lan,19,22'>19<sup>22</sup></ls>, <ls n='lan,28,4, 5'>28<sup>4, 5</sup></ls>; <i>used in the <ab>voc.</ab> <ab>s.</ab> <ab>m.</ab></i> (<b>bhavas,</b> <i>contracted</i> <lbinfo n='con-tracted%'/> ) <b>bhos,</b> <i><ab>f.</ab></i> <b>bhavati,</b> <i>as word of</i> <i>address,</i> (lord, master, mister,) sir, lady. [<ab>prob.</ab> a contraction of <b>bhágavant:</b> <ab>cf.</ab> <ls n='lan,61,10'>61<sup>10</sup></ls><ab>N.</ab>]"
+        }
     ]
 }

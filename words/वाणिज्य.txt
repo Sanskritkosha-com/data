@@ -47,5 +47,37 @@
             "pagenum": 575,
             "content": "वाणिज्य¦ <i>vāṇijya</i> <ab>n.</ab> <ab>cf.</ab> <i>bāṇijya.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वाणिज्य",
+            "eid": "28748",
+            "pagenum": 484,
+            "content": "वाणिज्य¦ <lex>n.</lex> (°ज्या <lex>f.</lex>) a merchant's business, trade."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वाणिज्य",
+            "eid": "21834",
+            "pagenum": 396,
+            "content": "वाणिज्य¦ <i>n.</i> (°ज्या) <i>f.)</i> Handel, Kaufmannsgeschäfte. <lbinfo n='10'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वाणिज्य",
+            "eid": "3786",
+            "pagenum": 242,
+            "content": "<b>vāṇijya,</b>¦ <i><ab>n.</ab></i> merchant's business, trade. [<b>vaṇíj,</b> <ls n='wg,1211'>1211.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वाणिज्य",
+            "eid": "34215",
+            "pagenum": 651,
+            "content": "vARijya¦ <i>n.</i> Trade, traffic."
+        }
     ]
 }

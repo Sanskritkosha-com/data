@@ -37,5 +37,41 @@
             "pagenum": 2,
             "content": "देवेन्द्र¦ guru of Brahmendra Sarasvatī (Advaitāmṛta)."
         }
+    ],
+    "CAE": [
+        {
+            "word": "देवेन्द्र",
+            "eid": "14542",
+            "pagenum": 238,
+            "content": "देवेन्द्र¦ <lex>m.</lex> lord of the gods (Indra)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "देवेन्द्र",
+            "eid": "10402",
+            "pagenum": 184,
+            "content": "देवेन्द्र¦ <i>m.</i> Götterfürst <i>(Bein. Indra's).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "देवेन्द्र",
+            "eid": "3332",
+            "pagenum": 240,
+            "content": "<b>Devendra</b><sup>1</sup>¦ = Indra, q.v."
+        },
+        {
+            "word": "देवेन्द्र",
+            "eid": "3333",
+            "pagenum": 240,
+            "content": "<b>Devendra</b><sup>2</sup>¦ = Nahuṣa, q.v."
+        },
+        {
+            "word": "देवेन्द्र",
+            "eid": "3334",
+            "pagenum": 240,
+            "content": "<b>Devendra</b><sup>3</sup>¦ = Śiva (1000 names<sup>1—2</sup>)."
+        }
     ]
 }

@@ -7,5 +7,53 @@
             "pagenum": 202,
             "content": "अश्रम¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Indefatigable, <lbinfo n='un+tiring'/> untiring. --मः <b>1</b> Freedom from fatigue, freshness, vigour. <b>--2</b> Absence of toil, laziness."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अश्रम",
+            "eid": "3532",
+            "pagenum": 51,
+            "content": "1 अश्रम¦ <lex>m.</lex> absence of fatigue."
+        },
+        {
+            "word": "अश्रम",
+            "eid": "3533",
+            "pagenum": 51,
+            "content": "अ/श्रम¦ <lex>a.</lex>  unwearied, indefatigable."
+        },
+        {
+            "word": "अश्रम",
+            "eid": "3534",
+            "pagenum": 51,
+            "content": "2 अश्रम/¦ <lex>a.</lex> unwearied, indefatigable."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अश्रम",
+            "eid": "2228",
+            "pagenum": 34,
+            "content": "1. अश्रम¦ <i>m.</i> Nichtermüdung."
+        },
+        {
+            "word": "अश्रम",
+            "eid": "2229",
+            "pagenum": 34,
+            "content": "2. अ/श्रम¦ <i>u.</i> अश्रम/ unermüdlich."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अश्रम",
+            "eid": "1244",
+            "pagenum": 139,
+            "content": "<b>a-śramá,</b>¦ <ab>a.</ab>, <i>unermüdlich</i> [śráma, Mühe, Anstrengung]. <div n='TS'>-aís {585,7} patatríbhis."
+        },
+        {
+            "word": "अश्रम",
+            "eid": "1245",
+            "pagenum": 139,
+            "content": "<b>áśrama,</b>¦ <ab>a.</ab>, <ab>dass.</ab> <div n='TS'>-āsas yé (áśvās índrasya) {462,12}."
+        }
     ]
 }

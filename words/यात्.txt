@@ -21,5 +21,43 @@
             "pagenum": 524,
             "content": "यात्¦ <i>yāt</i> <ab>interj.</ab> de plaisir, d'alarme, d'inquiétude. <lbinfo n='9'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "यात्",
+            "eid": "25961",
+            "pagenum": 431,
+            "content": "1 या/त्¦ (<ab>abl.</ab> <ab>adv.</ab>) in as much as, as long as, since."
+        },
+        {
+            "word": "यात्",
+            "eid": "25962",
+            "pagenum": 431,
+            "content": "2 †यात्¦ <ab>v.</ab> ऋणया/त्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "यात्",
+            "eid": "19733",
+            "pagenum": 350,
+            "content": "या/त्¦ <i>(Abl. von)</i> य soweit als, so lange als, seit."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "यात्",
+            "eid": "7095",
+            "pagenum": 1108,
+            "content": "<b>yā́t</b>¦ (<ab>abl.</ab> von yá), <i>in soweit als</i> adhīmási (so viel wir verstehen) {80,15}; vidmá {462,6} (tā́t tuā mahā́ntam); <i>so lange als</i> 〰 nú dyā́vas tatánan 〰 uṣā́sas {604,4}; 〰 sū́ryamā́sā mithás uccárātas {894,10}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "यात्",
+            "eid": "3428",
+            "pagenum": 225,
+            "content": "<b>yā́t,</b>¦ <i><ab>adv.</ab></i> as; <i>temporally,</i> so long as, <ls n='lan,79,13'>79<sup>13</sup></ls>. [<ab>abl.</ab> of <ab>pron.</ab> root <b>ya,</b> <ls n='wg,1114'>1114a</ls>, <ls n='wg,510'>510</ls>: see under ya.]"
+        }
     ]
 }

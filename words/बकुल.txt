@@ -28,5 +28,43 @@
             "pagenum": 624,
             "content": "बकुल¦ <i>bakula,</i> see <i>vakula.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "बकुल",
+            "eid": "21701",
+            "pagenum": 357,
+            "content": "बकुल¦ <lex>m.</lex> a kind of tree; <lex>n.</lex> its flower."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "बकुल",
+            "eid": "16433",
+            "pagenum": 288,
+            "content": "बकुल¦ <i>m. N. einer Pflanze, n. der Blüte ders.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "बकुल",
+            "eid": "1129",
+            "pagenum": 105,
+            "content": "<b>Bakula</b>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "बकुल",
+            "eid": "25991",
+            "pagenum": 499,
+            "content": "bakula¦ <i>(I) m.</i> A kind of tree."
+        },
+        {
+            "word": "बकुल",
+            "eid": "25992",
+            "pagenum": 499,
+            "content": "bakula¦ <i>(II) n.</i> Its flower; (there is a convention among poets that this tree blossoms when young ladies throw on it mouthfuls of wine; thus we have, in the Meghadūta, कांक्षत्यन्यो (i.e. केसरः) वदनमदिरां दोहदच्छद्मनाऽस्याः ii.15; the following stanza puts together all these conventions- स्त्रीणां स्पर्शात्प्रियंगुर्विकसति बकुलः सीधुगंडूषसेकात्पादाघातादशोकस्तिलककुरबकौ वीक्षणालिंगनाभ्याम् । मंदारो नर्मवाक्यात् पटुमृदुहसनाच्चंपको वक्त्रवाताच्चूतो गीतान्नमेरुर्विकसति च पुरो नर्तनात्कर्णिकारः)."
+        }
     ]
 }

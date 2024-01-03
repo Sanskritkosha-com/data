@@ -44,5 +44,51 @@
             "pagenum": 561,
             "content": "वणिज्¦ <i>vaṇij</i> <ab>m.</ab> marchand, <ab>cf.</ab> <i>baṇij.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वणिज्",
+            "eid": "27969",
+            "pagenum": 469,
+            "content": "वणि/ज्¦ <lex>m.</lex> merchant, trader; trade, merchandise."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वणिज्",
+            "eid": "21206",
+            "pagenum": 381,
+            "content": "वणि/ज्¦ <i>m.</i> Kaupfmann."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वणिज्",
+            "eid": "7589",
+            "pagenum": 1198,
+            "content": "<b>vaṇíj,</b>¦ <ab>m.</ab>, <i>Kaufmann, Krämer,</i> aus baṃij entstanden, und dies aus *paṇij, aus der Wurzel pan; <ab>vgl.</ab> paṇí. <div n='TS'>-íg {399,6}. <div n='TS'>-íje {112,11} (auśijā́ya)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वणिज्",
+            "eid": "3670",
+            "pagenum": 236,
+            "content": "<b>vaṇíj,</b>¦ <i><ab>m.</ab></i> merchant. [<b>√paṇ,</b> <ls n='wg,383'>383.</ls> 5.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वणिज्",
+            "eid": "33312",
+            "pagenum": 636,
+            "content": "vaRij¦ <i>(I) m.</i> 1. A merchant, a trader, विततं वणिजापणेऽखिलं पणितुं यत्र जनेन वीक्ष्यते <ls>Na.</ls>ii.91; 2. the sign <i>Libra</i> of the zodiac."
+        },
+        {
+            "word": "वणिज्",
+            "eid": "33313",
+            "pagenum": 636,
+            "content": "vaRij¦ <i>(II) f.</i> Merchandise."
+        }
     ]
 }

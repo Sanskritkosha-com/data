@@ -36,5 +36,37 @@
             "pagenum": 283,
             "content": "येन¦ <i>Adv. et Conj.</i> (<i>Instrum.</i> Relativi) 1) ubi. DR. 8. 33. 56. 2) quo, quorsum. SU. 3. 29. 3) ut. N. 15. 6."
         }
+    ],
+    "CAE": [
+        {
+            "word": "येन",
+            "eid": "26168",
+            "pagenum": 436,
+            "content": "ये/न¦ (<ab>instr.</ab> <ab>adv.</ab> & <ab>conj.</ab>) whither, where, in what manner, wherefore, why, that (quod or ut)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "येन",
+            "eid": "19891",
+            "pagenum": 354,
+            "content": "ये/न¦ <i>(Instr. von)</i> य) wohin, wo, wie, woher, warum, weshalb, dass, damit, weil, da."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "येन",
+            "eid": "3463",
+            "pagenum": 226,
+            "content": "<b>yena,</b>¦ <i><ab>adv.</ab></i> <div n='2'/><b>—1.</b> wherefore, <ls n='lan,6,2'>6<sup>2</sup></ls>; <div n='2'/><b>—2. yena</b> <b>…tena,</b> because…therefore, <ls n='lan,64,9'>64<sup>9</sup></ls>; <div n='2'/><b>—3.</b> that, ut, <i>introducing a result and corresponding </i> <lbinfo n='corre-sponding'/> <i>to a</i> ‘such’ <i>or</i> ‘so’ <i>expressed</i> (<ls n='lan,21,10'>21<sup>10</sup></ls>) <i>or implied</i> (<ls n='lan,11,8'>11<sup>8</sup></ls>). [<ab>pron.</ab> root <b>ya,</b> <ls n='wg,1112'>1112a</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "येन",
+            "eid": "31530",
+            "pagenum": 599,
+            "content": "yena¦ <i>ind. (inst. sing. of यत्, used as an adverb)</i> 1. By which means, whereby, wherefore, धुरि स्थिता त्वं पतिदेवतानां किं तत्र येनासि ममानुकंप्या <ls>R.</ls>xiv.74; 2. as, so that, मम चैतावांल्लोभविरहो येन स्वहस्तस्थमपि सुवर्णकंकणं यस्मैकस्मैचिदातुमिच्छामि <ls>Hit.</ls>i."
+        }
     ]
 }

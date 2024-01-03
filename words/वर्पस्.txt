@@ -15,5 +15,37 @@
             "pagenum": 568,
             "content": "वर्पस्¦ <i>varpas</i> <ab>n.</ab> forme, figure, <ab>cf.</ab> <i>vapus.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वर्पस्",
+            "eid": "28365",
+            "pagenum": 476,
+            "content": "व/र्पस्¦ <lex>n.</lex> assumed appearance, image, form; art, stratagem."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वर्पस्",
+            "eid": "21515",
+            "pagenum": 389,
+            "content": "व/र्पस्¦ <i>n.</i> Gestalt, <i>bes.</i> Schreck- <i>o.</i> Scheingestalt, <lbinfo n='8'/> Bild; Anschlag, List."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वर्पस्",
+            "eid": "7751",
+            "pagenum": 1224,
+            "content": "<b>várpas,</b>¦ <ab>n.</ab>, 1〉 <i>Gestalt;</i> insbesondere 2〉 <i>schöne, glänzende, jugendliche Gestalt;</i> 3〉 (<i>Scheingestalt</i>), <i>List, Kunstgriff</i>. — <ab>Vergl.</ab> ghorá-, bhū́ri-, hári-varpas, puru-várpas. <div n='TS'>-as 1〉 anyád pit(a)rós {140,7}; etád {616,6}. — 2〉 máhi 〰 kárikratas {140,5}; bhū́ri 〰 kárikrat {292,9} (oder beides zu 4); amṛ́tasya {312,14}; máhi asya (agnés) {444,4}; cyávānāya ‥ ádhi yád 〰 itáūti dhatthás {584,6}. <div n='TS'>-asā 2〉 kṛṣṇā́m yád énīm abhí 〰 bhū́t {829,2}. — 3〉 kásya {39,1}; {925,3}. _{925,11}. <div n='TS'>-asas [<ab>G.</ab>] 1〉 budhnā́t mahiṣásya 〰 {141,3}; sāsahvā́ṃsam asyá 〰 {666,16}. — 2〉 ánīkam asya 〰 {402,4}. — 3〉 ánṛtasya {926,7}. <div n='TS'>-āṃsi 1〉 purū́ 〰 dádhānā {117,9}. — 2〉 duhitúr {809,47}. — 2〉 purú 〰 vidvā́n {485,14}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वर्पस्",
+            "eid": "3728",
+            "pagenum": 239,
+            "content": "<b>várpas,</b>¦ <i><ab>n.</ab></i> assumed appearance; image, form. [akin with <b>rūpá:</b> <ab>cf.</ab> <b>varcas.</b>]"
+        }
     ]
 }

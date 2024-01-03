@@ -23,5 +23,43 @@
             "pagenum": 62,
             "content": "असत्य¦ <i>asatya</i> <ab>a.</ab> <i>(a</i> <ab>priv.</ab>) faux."
         }
+    ],
+    "CAE": [
+        {
+            "word": "असत्य",
+            "eid": "3662",
+            "pagenum": 53,
+            "content": "असत्य/¦ <lex>a.</lex> untrue, false; <lex>n.</lex> falsehood, lie."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "असत्य",
+            "eid": "2299",
+            "pagenum": 36,
+            "content": "असत्य/¦ unwahr; <i>n.</i> Unwahrheit, Lüge."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "असत्य",
+            "eid": "1313",
+            "pagenum": 153,
+            "content": "<b>a-satyá,</b>¦ <ab>a.</ab>, <i>unwahr, trügerisch</i>. <div n='TS'>-ā́s [<ab>m.</ab>] {301,5} (pāpā́sas)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "असत्य",
+            "eid": "04352",
+            "pagenum": 86,
+            "content": "asatya¦ <i>(I) a. (f. त्या)</i> Untrue, false."
+        },
+        {
+            "word": "असत्य",
+            "eid": "04353",
+            "pagenum": 86,
+            "content": "asatya¦ <i>(II) n.</i> Untruth, falsehood, <ls>M.</ls>xi.69."
+        }
     ]
 }

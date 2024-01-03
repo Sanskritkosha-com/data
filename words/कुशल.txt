@@ -71,5 +71,65 @@
             "pagenum": 175,
             "content": "कुशल¦ <i>kuśala</i> <ab>a.</ab> sain, qui se porte bien. || Au <ab>fig.</ab> heureux; || sain d'esprit, intelligent; <lbinfo n='5'/> expert, habile; propre à faire <ab>qqc.</ab>, capable de; || vertueux. [Cet <ab>a.</ab> se dit des <ab>ch.</ab> comme des personnes]. -- <ab>S.</ab> <ab>n.</ab> santé du corps ou de l'esprit; bien-être; habileté, capacité; bonheur, bonne fortune, prospérité. <lbinfo n='7'/>  <P><i>kuśalakāma</i> <ab>a.</ab> <i>(kam)</i> qui désire le bien-être <lbinfo n='4'/> ou le bonheur. -- <ab>S.</ab> <ab>m.</ab> désir du bien-être <lbinfo n='4'/> ou du bonheur.  <P><i>kuśalapraśna</i> <ab>m.</ab> salutation [consistant à demander à <ab>qqn.</ab> comment il se porte]."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कुशल",
+            "eid": "8110",
+            "pagenum": 126,
+            "content": "कु/शल¦ <lex>a.</lex> in good condition, in order, all right, proper, suitable, well, healthy; equal to, capable of, clever, skilful, versed in (<ab>loc.</ab>, <ab>gen.</ab>, <ab>inf.</ab>, or —°). <lex>f.</lex> कुशली <ab>N.</ab> of <ab>sev.</ab> plants. <lex>n.</lex> right condition, welfare, health, luck; also = <ab>seq.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कुशल",
+            "eid": "5154",
+            "pagenum": 88,
+            "content": "कुशल¦ in Ordnung, normal, zurecht, <i>(kuzalaM</i> <lbinfo n='5'/> <i>man</i> biligen); tüchtig, gesund, geschickt, <lbinfo n='8'/> erfahren in <i>(Loc.,Gen., Inf. o.</i> —°); <i>n.</i> der rechte Zustand, Wohlfahrt, Gesundheit, Geschick; mit <i>Gen. o. Dat.</i> Heil, Glück dem —! °— <i>u. n.</i> ordnungsmäßigig, <lbinfo n='8'/> in rechter Weise."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कुशल",
+            "eid": "2956",
+            "pagenum": 168,
+            "content": "<i>kuśala</i>¦ (IA 17), used in the sense of <i>puṇya,</i> religious merit; cf. <i>kuśala-mūla.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "कुशल",
+            "eid": "6045",
+            "pagenum": 432,
+            "content": "<b>Kuśala</b><sup>1</sup>,¦ a region in Krauñcadvīpa. § 575 (Bhūmip.): VI, <b>12</b>θ, 462."
+        },
+        {
+            "word": "कुशल",
+            "eid": "6046",
+            "pagenum": 432,
+            "content": "<b>Kuśala</b><sup>2</sup>,¦ pl. (<i>°āḥ</i>), a people. § 574 (Jambūkh.): VI, <b>9</b>μ, 359 (in Bhāratavarṣa)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कुशल",
+            "eid": "1162",
+            "pagenum": 142,
+            "content": "<b>kúśala,</b>¦ <div n='2'/><b>—1.</b> <i><ab>a.</ab></i> in good condition; equal to <i>or</i> fit for a task; able; clever, <ls n='lan,46,18'>46<sup>18</sup></ls>; <div n='2'/><b>—2.</b> <i>as <ab>n.</ab></i> welfare, well-being; <b>kuśalaṃ</b> <b>te,</b> hail to thee."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कुशल",
+            "eid": "09943",
+            "pagenum": 198,
+            "content": "kuSala¦ <i>(I) a. (f. ला)</i> 1. Right, proper, good, auspicious, <ls>Bg.</ls>xviii.10; 2. happy, prosperous; 3. able, skilful, clever, well-versed, दंडनीत्यां च कुशलम् <ls>Yaj.</ls>i.313, ii.181."
+        },
+        {
+            "word": "कुशल",
+            "eid": "09944",
+            "pagenum": 198,
+            "content": "kuSala¦ <i>(II) m.</i> 1. Welfare, a happy or prosperous condition, happiness, पप्रच्छ कुशलं राज्ये राज्याश्रममुनिं मुनिः <ls>R.</ls>i.58, अव्यापन्नः कुशलमबले पृच्छति त्वाम् <ls>Megh.</ls>ii.38; 2. virtue; 3. cleverness, ability."
+        }
     ]
 }

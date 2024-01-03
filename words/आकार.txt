@@ -65,5 +65,57 @@
             "pagenum": 67,
             "content": "आकार¦ <i>ākāra</i> <ab>m.</ab> <i>(kṛ)</i> signe, indice. || Mine, figure, expression du visage. || Sécurité, <lbinfo n='7'/> tranquillité d'esprit. || La lettre <i>ā.</i>  <P><i>ākāragupti</i> <ab>f.</ab> <i>(gup)</i> dissimulation.  <P><i>ākāragopana</i> <ab>n.</ab> <ab>mms.</ab>  <P><i>ākāravat</i> <ab>a.</ab> qui a de la mine, beau.  <P><i>ākāraṇa</i> <ab>n.</ab> <ab>f.</ab> appel en justice; sommation. <lbinfo n='5'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "आकार",
+            "eid": "3965",
+            "pagenum": 57,
+            "content": "1 आकार¦ <lex>m.</lex> form, shape, figure; <ab>abstr.</ab> °ता <lex>f.</lex>"
+        },
+        {
+            "word": "आकार",
+            "eid": "3966",
+            "pagenum": 57,
+            "content": "2 आकार¦ <lex>m.</lex> the sound आ."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आकार",
+            "eid": "2469",
+            "pagenum": 38,
+            "content": "1. आकार¦ <i>m.</i> Form, Gestalt, Miene. <i>Abstr.</i> °ता <i>f.</i>"
+        },
+        {
+            "word": "आकार",
+            "eid": "2470",
+            "pagenum": 38,
+            "content": "2. आकार¦ <i>m.</i> der Laut ā <i>(g.).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "आकार",
+            "eid": "216",
+            "pagenum": 13,
+            "content": "<i>ākāra</i>¦ (CII 1), same as <i>prakāra,</i> a way or kind."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आकार",
+            "eid": "565",
+            "pagenum": 124,
+            "content": "<b>ākāra,</b>¦ <i><ab>m.</ab></i> make; shape; appearance. [<b>√1kṛ + ā:</b> <ab>cf.</ab> <b>ākṛti.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आकार",
+            "eid": "04655",
+            "pagenum": 91,
+            "content": "AkAra¦ <i>m.</i> 1. Form, figure; 2. appearance, countenance, आकारसदृशप्रज्ञः <ls>R.</ls>i.15; 3. the expression of the face as furnishing a clue to the disposition of mind, e.g. तस्य संवृतमन्त्रस्य गूढाकारेंगितस्य च <ls>R.</ls>i.20, or आकारश्छाद्यमनोऽपि न शक्यो विनिगूहितम्; 4. hint, token."
+        }
     ]
 }

@@ -31,5 +31,41 @@
             "pagenum": 580,
             "content": "वासिन्¦ <i>vāsin</i> <ab>a.</ab> <i>(vāsa)</i> habitant, qui habite. <lbinfo n='5'/> || Vêtu, habillé. -- <ab>F.</ab> <i>vāsinī</i> <ab>esp.</ab> de barleria, <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वासिन्",
+            "eid": "29034",
+            "pagenum": 488,
+            "content": "1 वासिन्¦ <lex>a.</lex> clothed in (—°)."
+        },
+        {
+            "word": "वासिन्",
+            "eid": "29035",
+            "pagenum": 488,
+            "content": "2 वासिन्¦ staying or dwelling in (mostly —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वासिन्",
+            "eid": "22063",
+            "pagenum": 400,
+            "content": "1. वासिन्¦ (—°) gekleidet in."
+        },
+        {
+            "word": "वासिन्",
+            "eid": "22064",
+            "pagenum": 400,
+            "content": "2. वासिन्¦ <i>(meist</i> —°) wohnend, verweilend, lebend in."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वासिन्",
+            "eid": "3817",
+            "pagenum": 243,
+            "content": "<b>vāsin,</b>¦ <i><ab>a.</ab></i> dwelling. [<b>√3 vas,</b> ‘dwell,’ <ls n='wg,1183'>1183<sup>3</sup></ls>.]"
+        }
     ]
 }

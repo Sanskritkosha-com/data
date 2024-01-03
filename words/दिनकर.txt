@@ -68,5 +68,29 @@
             "pagenum": 2,
             "content": "दिनकर¦ <HI1>Rasataraṅgiṇīṭīkā."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दिनकर",
+            "eid": "13683",
+            "pagenum": 225,
+            "content": "दिनकर¦ <lex>m.</lex>  the sun (day-maker)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दिनकर",
+            "eid": "9719",
+            "pagenum": 173,
+            "content": "दिनकर¦ <i>u.</i> दिनकर्तर् <i>m.</i> Sonne <i>(eig.</i> Tagmacher). <lbinfo n='8'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दिनकर",
+            "eid": "16842",
+            "pagenum": 331,
+            "content": "dina-kara¦ <i>m.</i> the sun, तुल्योद्योगस्तव दिनकृतश्चाधिकारो मतो नः <ls>Vikr.</ls>ii., <ls>R.</ls>ix.23."
+        }
     ]
 }

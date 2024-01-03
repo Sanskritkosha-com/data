@@ -52,5 +52,69 @@
             "pagenum": 66,
             "content": "अंश¦ <i>aṃśa</i> <ab>m.</ab> <i>(aṃś)</i> partie; portion. || <ab>Vd.</ab> une des 21 <i>virāt</i> de la <s1 slp1='gAyatrI'>gāyatrī</s1>. || Epaule. <ab>Cf.</ab> <i>aṃsa.</i> <ab>Lat.</ab> axilla; <ab>ancien germ.</ab> ahsala.  <P><i>aṃśala</i> <ab>a.</ab> vigoureux, robuste.  <P><i>aṃśaka</i> <ab>m.</ab> copartageant; cohéritier."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अंश",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "अ/ंश¦ <lex>m.</lex> portion, share, part, party; <ab>N.</ab> of a god."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अंश",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "अ/ंश¦ <i>m.</i> Teil, Erbteil, Partei; <i>N. eines Gottes.</i> अंशेन teilweise."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अंश",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "<b>áṃśa,</b>¦ <ab>m.</ab>, das als Antheil erlangte (<ab n='siehe'>s.</ab> <hom>1.</hom> aś), daher 1〉 <i>Antheil;</i> 2〉 <i>Erbtheil;</i> 3〉 <i>Partei;</i> 4〉 <i>der viele Antheile besitzt</i> oder <i>zu vergeben hat</i> und daher 5〉 Name eines der Aditisöhne. <div n='TS'>-as 1〉 {548,12}. 5〉 {192,4}; {218,1}; {396,5}. <div n='TS'>-am 1〉 {210,5}. 2〉 {279,4}. 3〉 {102,4}. <div n='TS'>-āya 3〉 {112,1}. <div n='TS'>-ā [<ab>d.</ab>] 4〉 {440,5}; {932,9}. <div n='TS'>-ās 1〉 {857,3}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अंश",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "अंश¦ I. m. (-शः) <sup>1</sup> Dividing, distributing. <sup>2</sup> A part. <sup>3</sup> A share or portion. <sup>4</sup> A fraction. <sup>5</sup> The numerator of a fraction. <sup>6</sup> A degree (of latitude or longitude, &c.). <sup>7</sup> The name of an Āditya. <sup>8</sup> (In music.) See अंशस्वर. Also confounded with अंस q. v. E. अंश्, kṛt aff. घञ्, or perhaps more correctly, अम्, uṇ(?) aff. श. <div n='P'>II. m. n. (-शः-शम्) The shoulder, the shoulder blade. (In this sense the word is more correctly written अंस q. v.)"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "अंश",
+            "eid": "307",
+            "pagenum": 18,
+            "content": "<i>aṃśa,</i>¦ a small territorial unit (<i>Ep. Ind.,</i> Vol. XV, p. 297, text line 26)."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अंश",
+            "eid": "440",
+            "pagenum": 33,
+            "content": "<b>Aṃśa</b>,¦ one of the Ādityas. § 88 (Aṃśāvat.): I, <b>65</b>, 2523.— § 191 (Arjuna): I, <b>123</b>α, 4822 (came to the birth of Arjuna). —§ 258 (Khāṇḍavad.): I, <b>227</b>, 8267 (seized a lance).— § 615<i>u</i> (Skanda): IX, <b>45</b>γ, 2507δ, 2537 (gave five companions to Skanda).—§ 665 (Mokṣadh.): XII, <b>208</b>β, 7581 (enumeration).—§ 748 (Tārakavadhop.): XIII, <b>86</b><i>a</i>, 4201 (among those who came to see the newborn Skanda).— § 770 (Ānuśāsanik.): XIII, <b>151</b>γ, 7092 (enumeration of the Ādityas). Cf. Sūrya."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अंश",
+            "eid": "3",
+            "pagenum": 111,
+            "content": "<b>áṃśa,</b>¦ <i><ab>m.</ab></i> (that which one gets, <i><ab>i. e.</ab></i>) one's portion; <i>and so, generalized,</i> portion, part. [<b>√1aś,</b> ‘get.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अंश",
+            "eid": "00007",
+            "pagenum": 1,
+            "content": "aMSa¦ <i>m.</i> 1. A share, portion; 2. inheritance, सकृदंशो निपतति <ls>M.</ls>ix.47; 3. a shoulder; 4. the numerator of a fraction (in math.)."
+        }
     ]
 }

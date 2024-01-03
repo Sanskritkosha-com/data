@@ -31,5 +31,57 @@
             "pagenum": 751,
             "content": "*हस्¦ <i>has.</i> <i>hasāmi</i> 1; <ab>p.</ab> <i>jahāsa;</i> <ab>etc.</ab> Rire; || rire de, <ab>ac.</ab> || S'épanouir."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हस्",
+            "eid": "39502",
+            "pagenum": 660,
+            "content": "1 हस्¦ <ab>interj.</ab> of laughter or mirth."
+        },
+        {
+            "word": "हस्",
+            "eid": "39503",
+            "pagenum": 660,
+            "content": "2 हस्¦ ह/सति <vlex type='root'/> (°ते), <ab>pp.</ab> हसित (<ab>q.v.</ab>) laugh, smile; laugh at (<ab>instr.</ab> or <ab>acc.</ab>), mock, ridicule, cut out. <ab>C.</ab> हासयति make laugh; mock, ridicule. <div n='p'>— अप <ab>C.</ab> mock, deride. <div n='p'>अव the same. <div n='p'>उप smile; (also <ab>C.</ab>) laugh at, ridicule. <div n='p'>परि sport or jest with (<ab>acc.</ab>); scoff, deride. <div n='p'>प्र laugh out (±हासम्); laugh with (<ab>acc.</ab>); laugh at, ridicule. <ab>C.</ab> make laugh. <div n='p'>संप्र laugh out; c. sport, jest. <div n='p'>वि laugh out; mock, deride (<ab>acc.</ab>, <ab>r.</ab> <ab>gen.</ab>). <div n='p'>संवि laugh out, laugh."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हस्",
+            "eid": "29308",
+            "pagenum": 530,
+            "content": "1. हस्¦ <i>Interj. des Lachens.</i>"
+        },
+        {
+            "word": "हस्",
+            "eid": "29309",
+            "pagenum": 530,
+            "content": "2. हस्,¦ ह/सति, °ते lachen, verlachen, verspotten. <lbinfo n='8'/> <i>p. p.</i> हसित lachend <i>o.</i> verlacht, verspottet, <i>s. auch bes. Caus.</i> हासयति zum Lachen bringen. अव verlachen, verspotten. उप <i>dass., p. p.</i> उपहसित ausgelacht, <lbinfo n='8'/> verhöhnt. <i>Caus. p. p.</i> उपहासित <i>dass.</i> परि scherzen, lachen, verspotten. <i>(Caus.</i> zum Lachen machen.*) प्र auflachen, <lbinfo n='7'/> lachen mit <i>(Acc.)</i>, lachen, lächeln, belachen, verspotten. <i>p. p.</i> lachend. वि auflachen, lachen, lächen; auslachen. <i>p. p.</i> lachend <i>o.</i> ausgelacht, verspottet."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "हस्",
+            "eid": "10620",
+            "pagenum": 1657,
+            "content": "<b>(√has),</b>¦ <i>lachen</i>. — Mit <b>úpa</b> <i>spotten;</i> <ab>vgl.</ab> upahásvan. <div n='H'>Verbale <b>hás</b> <div n='P'>enthalten in has-kartṛ́, has-kārá, hás-kṛti."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "हस्",
+            "eid": "4882",
+            "pagenum": 285,
+            "content": "<b>√has</b>¦ (<b>hásati, -te; jahā́sa, jahasé; hasiṣyáti;</b> <lbinfo n='hasiṣ-yáti;'/> <b>hasitá; hásitum; hasitvā́; -hásya</b>). laugh. <div n='p'/><b>+ pra,</b> laugh out, laugh. <div n='p'/><b>+ vi,</b> laugh out."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हस्",
+            "eid": "43100",
+            "pagenum": 829,
+            "content": "has¦ <i>vt. or vi. 1P (pp. हसित; pres. हसति)</i> 1. To laugh, to smile, परिघोरुभुजानाह हसन्ती स्वागतं कपीन् <ls>Bt.</ls>vii.63, xiv.93; 2. to open, to blow, e.g. हसिष्यति पद्मजालम्; 3. to joke, <ls>Kir.</ls>xiii.47; 4. to resemble, e.g. श्रिया हसद्भिः कमलानि सस्मितैः <ls>Kir.</ls>viii.44; 5. to brighten up; 6. to laugh at, to ridicule.<P>With अप-, to deride, to ridicule.<P>With अव-, to laugh at, to deride, स्थितावहस्येव पुरं मघोनः <ls>Bt.</ls>i.6.<P>With उप-, to laugh at, to deride, कुटज किं कुसुमैरुपहस्यते <ls>Ghat.</ls>17.<P>With परि-, 1. to laugh at, to deride, जनानामानंदः परिहसति निर्वाणपदवीम् <ls>G.L.</ls>5; 2. to joke.<P>With प्र-, 1. to laugh, to smile, ततः प्रहस्यापभयः पुरंदरम् <ls>R.</ls>iii.51; 2. to mock, to deride, to ridicule, e.g. हसंतं प्रहसंत्येताः.<P>With वि-, 1. to laugh gently, to smile, किंचिद्विहस्यार्थपतिं बभाषे <ls>R.</ls>ii.46; 2. to laugh at, to ridicule, गौरीवक्त्रभृकुटिरचनां या विहस्येव फेनैः <ls>Megh.</ls>i.50, किमिति विषादसि रोदिषि विकला विहसति युवतिसभा तव सकला <ls>Git.G.</ls>ix."
+        }
     ]
 }

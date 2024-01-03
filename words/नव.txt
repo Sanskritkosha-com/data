@@ -52,5 +52,69 @@
             "pagenum": 356,
             "content": "नव¦ <i>nava</i> <ab>a.</ab> <i>(nu)</i> neuf, nouveau, récent. -- <ab>S.</ab> <ab>m.</ab> louange. || <ab>Lat.</ab> novus; <ab>gr.</ab> <lang n='greek'>νέος</lang>; <ab>irl.</ab> nua.  <P><i>navakārikā</i> <ab>f.</ab> <i>(kṛ)</i> nouvelle mariée.  <P><i>navakālikā</i> <ab>f.</ab> <i>(kāla)</i> jeune fille, jeune femme.  <P><i>navachātra</i> <ab>m.</ab> novice.  <P><i>navadala</i> <ab>n.</ab> feuille nouvelle.  <P><i>navanīta</i> <ab>n.</ab> beurre frais.  <P><i>navaphalikā</i> <ab>f.</ab> <i>(phala)</i> nouvelle mariée. || Fille nouvellement réglée.  <P><i>navamallikā</i> et <i>navamālikā</i> <ab>f.</ab> jasmin double.  <P><i>navayauvanā</i> <ab>f.</ab> jeune femme.  <P><i>navavarikā</i> <ab>f.</ab> <i>(vara)</i> nouvelle mariée.  <P><i>navavastra</i> <ab>n.</ab> vêtement neuf.  <P><i>navasūtikā</i> <ab>f.</ab> <i>(sūta;</i> <ab>sfx.</ab> <i>ika)</i> femme nouvellement <lbinfo n='9'/> accouchée. || Vache à frais lait.  <P><i>navāmbara</i> <ab>m.</ab> <i>(ambara)</i> vêtement neuf.  <P><i>navāha</i> <ab>m.</ab> <i>(ahan)</i> jour nouveau; le 1ᵉʳ jour de la quinzaine lunaire.  <P><i>navīna</i> <ab>a.</ab> (<ab>sfx.</ab> <i>īna)</i> nouveau, neuf.  <P><i>navoḍhā</i> <ab>f.</ab> <i>(ūḍha</i> de <i>vah)</i> nouvelle mariée.  <P><i>navoddhṛta</i> <ab>n.</ab> <i>(ut; dhṛ)</i> beurre frais."
         }
+    ],
+    "CAE": [
+        {
+            "word": "नव",
+            "eid": "15954",
+            "pagenum": 263,
+            "content": "1 न/व¦ <lex>a.</lex> new, fresh, young; °— <ab>adv.</ab> newly, lately, just."
+        },
+        {
+            "word": "नव",
+            "eid": "15955",
+            "pagenum": 263,
+            "content": "2 नव¦ <lex>m.</lex> sneezing."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नव",
+            "eid": "11608",
+            "pagenum": 206,
+            "content": "1. न/व¦ neu, frisch, jung; <i>Comp.</i> न/वतर."
+        },
+        {
+            "word": "नव",
+            "eid": "11609",
+            "pagenum": 206,
+            "content": "2. नव¦ <i>m.</i> das Niesen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "नव",
+            "eid": "4866",
+            "pagenum": 714,
+            "content": "<b>náva,</b>¦ <ab>a.</ab> [<ls>Cu. 〔433〕</ls>, die Entstehung aus dem Deutestamme nú ist sehr wahrscheinlich, <ab>vgl.</ab> nū́tana], <i>neu, frisch, jung,</i> Gegensatz sána ({665,25}; {95,10}), sanáya ({347,4}). <div n='TS'>-as ráthas {209,1}; {245,5}; yā́mas (uṣásām) {347,4}. <div n='TS'>-as-navas ketús uṣásām (candrámās) {911,19}. <div n='TS'>-am [<ab>m.</ab>] camasám {20,6}; carúm {912,18}; kumbhám {915,7}; rátham {678,15}; {961,3}; {969,1}; ráthiam {733,6}; śíśum {363,3}; {798,36}; daśamám (?) {644,23}; stómam {531,4}. <div n='TS'>-ena apásā {31,8}; vácasā {209,3}; bráhmaṇā {491,6}. <div n='TS'>-asya stómasya {643,14}. <div n='TS'>-e [<ab>du.</ab> <ab>n.</ab>] drupadé {328,23}. <div n='TS'>-ā [<ab>n.</ab>] {665,25}; vásanā {95,7}; vayúnā {144,5}. <div n='TS'>-āni mánmāni {577,6}. <div n='TS'>-ebhis ṛ́ṣibhis {316,5}. <div n='TS'>-ānaam [<ab>m.</ab>] sanīnā́m {625,37}. <div n='TS'>-ayā [<ab>I.</ab> <ab>f.</ab>] girā́ {215,1}. <div n='TS'>-āyām sumataú {986,5}. <div n='TS'>-ās [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] íṣas {360,8}. <div n='TS'>-ābhis ūtíbhis {327,13}. <div n='TS'>-ānām [<ab>f.</ab>] sumatīnáam {915,17}. <div n='TS'>-āsu prasū́ṣu {95,10}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "नव",
+            "eid": "2256",
+            "pagenum": 180,
+            "content": "<b>1náva,</b>¦ <i><ab>a.</ab></i> new; of an earthen dish, (fresh, <i><ab>i. e.</ab></i>) unburned. [<ab>prob.</ab> <ab>fr.</ab> <b>nú,</b> ‘now,’ <ab>q. v.</ab>: <ab>cf.</ab> <lang n='greek'>νέος</lang>, <ab>Lat.</ab> <i>novus,</i> <ab>Ger.</ab> <i>neu,</i> <ab>Eng.</ab> <i>new.</i>]"
+        },
+        {
+            "word": "नव",
+            "eid": "2257",
+            "pagenum": 180,
+            "content": "<b>2náva</b>¦ [<ls n='wg,483'>483<sup>4</sup></ls>], <i><ab>num.</ab></i> nine. [<ab>cf.</ab> <lang n='greek'>ἐννέα</lang>, <ab>Lat.</ab> <i>novem,</i> <ab>Ger.</ab> <i>neun,</i> <ab>Eng.</ab> <i>nine.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "नव",
+            "eid": "19000",
+            "pagenum": 371,
+            "content": "nava¦ <i>(I) a. (f. वा)</i> 1. New, fresh, young, <ls>R.</ls>i.83, ii.47, iii.53, iv.3, <ls>Sis.</ls>i.4; 2. modern."
+        },
+        {
+            "word": "नव",
+            "eid": "19001",
+            "pagenum": 371,
+            "content": "nava¦ <i>(II) m.</i> A crow.<P>(नवम् is used as an indeclinable in the sense of ‘newly, lately, not long ago.’)"
+        }
     ]
 }

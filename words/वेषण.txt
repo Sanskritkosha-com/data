@@ -7,5 +7,49 @@
             "pagenum": 1012,
             "content": "वेषणं¦ Occupation, possession."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वेषण",
+            "eid": "31058",
+            "pagenum": 524,
+            "content": "वेष/ण¦ <lex>n.</lex>,  वेषणा <lex>f.</lex> waiting on, attendance, service."
+        },
+        {
+            "word": "वेषण",
+            "eid": "31059",
+            "pagenum": 524,
+            "content": "वे/षण¦ <lex>n.</lex>, वेषणा <lex>f.</lex> waiting on, attendance, service."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वेषण",
+            "eid": "23529",
+            "pagenum": 425,
+            "content": "वेष/ण¦ <i>u.</i> वे/षण <i>n.</i>, वेषणा <i>f.</i> Besorgung, Aufwartung, Bedienung."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वेषण",
+            "eid": "8483",
+            "pagenum": 1355,
+            "content": "<b>véṣaṇa,</b>¦ <ab>n.</ab> [von <hom>2.</hom> viṣ], <i>Werk, Arbeit</i>. <div n='TS'>-e [<ab>L.</ab>] yásya 〰 svédam pathiṣu júhvati {361,5}."
+        },
+        {
+            "word": "वेषण",
+            "eid": "8484",
+            "pagenum": 1355,
+            "content": "<b>veṣáṇa,</b>¦ <ab>n.</ab>, <i>Dienstleistung</i>. <div n='TS'>-ā áram akran ṛbhávas pitṛ́bhyām páriviṣṭi 〰 {329,2}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वेषण",
+            "eid": "36303",
+            "pagenum": 692,
+            "content": "vezaRa¦ <i>n.</i> Occupation, possession."
+        }
     ]
 }

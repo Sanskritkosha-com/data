@@ -37,5 +37,33 @@
             "pagenum": 510,
             "content": "मुर्¦ <i>mur</i> <ab>f.</ab> <i>(murch)</i> défaillance, syncope."
         }
+    ],
+    "GRA": [
+        {
+            "word": "मुर्",
+            "eid": "6881",
+            "pagenum": 1050,
+            "content": "<b>√mur,</b> <b>√mar</b>¦ (verwandt mit mṛ, mṛṇ), <i>zermalmen;</i> 2〉 <i>verderben, verlieren</i>. [Page1051] <div n='Pf'>Mit <b>ā́</b> <i>verderben, befeinden,</i> enthalten in ā-múr. <div n='Pf'><b>prá</b> <i>zermalmen, vernichten</i>. <div n='Pf'><b>abhí prá</b> <i>zerstören, verzehren,</i> in abhipramúr. <div n='H'>Stamm I. <b>mṛṇà,</b> mṛṇī (mṛṇ): <div n='TS'>-īhí víśvā pā́trāṇi <ls>AV. 6,142,1</ls>. <div n='TS'>-īhi prá śátrūn {300,5}. <div n='H'><chg type='del' n='70' src='gra'><old>Stamm II. <b>mamar:</b></old></chg> <div n='TS'><chg type='del' n='70' src='gra'><old>-rtu svā́ tám 〰 duchúnā {214,6}.</old></chg> <div n='H'>Stamm III. <b>mumur:</b> <div n='TS'>-rat [<ab>Co.</ab>] 2〉 póṣiam rayím {706,3}. <div n='H'><ab>Part.</ab> <b>mṛṇát</b> (besser hierher als zu mṛṇ): <div n='TS'>-án {910,3} śátrūn. — <b>pra</b> śátrūn {264,6} (vájras); {910,3}. <div n='TS'>-ántam <b>pra</b> {929,6} (índram). <div n='H'><ab>Part.</ab> II. <b>(mūrṇá)</b>: <div n='TS'>-ā́s mṛgásya dántās <ls>AV. 4,3,6</ls>. <div n='H'>Verbale <b>múr</b> <div n='P'>enthalten in ā-, abhipra-múr und als selbständiges Substantiv in: %%múr%%."
+        },
+        {
+            "word": "मुर्",
+            "eid": "6881.5",
+            "pagenum": 1051,
+            "content": "<b>múr,</b>¦ <ab>m.</ab>, <i>Verderber, Feind</i> (<ab>vgl.</ab> ā-múr). <div n='TS'>-úras {675,2} ná yám dudhrā́s várante ná sthirā́s 〰."
+        },
+        {
+            "word": "मुर्",
+            "eid": "11342",
+            "pagenum": 1748,
+            "content": "1051,9. 10: * <info vn='del 70 gra'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मुर्",
+            "eid": "30457",
+            "pagenum": 578,
+            "content": "mur¦ <i>vt. 6P (pres. मुरति)</i> To entwine, to encircle, to surround."
+        }
     ]
 }

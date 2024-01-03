@@ -55,5 +55,67 @@
             "pagenum": 121,
             "content": "ऋतु¦ <i>ṛtu</i> <ab>m.</ab> (<ab>sfx.</ab> <i>tu)</i> [propt. retour périodique]; <lbinfo n='7'/> saison [il y en a six: <i>vasanta</i> le printemps, <lbinfo n='6'/> mars-avril; <i>gṛṣma</i> la chaleur, maijuin; <lbinfo n='5'/> <i>varṣa</i> la pluie, juillet-août; <i>śarad</i> la période étouffante, septembre-octobre; <i>hemanta</i> <lbinfo n='7'/> l'hiver, novembre-décembre; <i>śiśira</i> la rosée, janvier-février]. || Règles, menstrues. <lbinfo n='6'/> || Mois. || Sorte de collyre. || Vue, vision. <lbinfo n='5'/>  <P><i>ṛtuparṇa</i> <ab>m.</ab> <ab>np.</ab> de roi.  <P><i>ṛtupās</i> <ab>a.</ab> <i>(pā)</i> gardien des saisons.  <P><i>ṛtuprāpta</i> <ab>a.</ab> <i>(pra; āp)</i> fertile, fécond, productif.  <P><i>ṛtumatī</i> <ab>f.</ab> (<ab>sfx.</ab> <i>mat)</i> qui a ses mois.  <P><i>ṛtuvṛtti</i> <ab>m.</ab> <i>(vṛt)</i> la révolution des saisons, l'année.  <P><i>ṛtusaṃhāra</i> <ab>m.</ab> <i>(sam; hṛ)</i> le cycle des saisons, <lbinfo n='5'/> titre d'un poëme sanscrit."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ऋतु",
+            "eid": "6289",
+            "pagenum": 97,
+            "content": "ऋतु/¦ <lex>m.</lex> right or fixed time, period, epoch, season (mostly reckoned as 6, but also 5, 7, 12, & 24); the menses of a woman & coition at that time; fixed order, rule. — ऋतु/ना & ऋतु/भिस् in time, at the appointed time, <ab>esp.</ab> for sacrifice or a festival: पुर/ ऋतो/स् before the (right) time, too early."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ऋतु",
+            "eid": "3880",
+            "pagenum": 64,
+            "content": "ऋतु/¦ <i>m.</i> bestimmte Zeit, Frist, Zeitabschnitt, Jahreszeit, die rechte Opferzeit, bestimmte <lbinfo n='7'/> Folge, Ordnung, Regel; die menses der Weiber. <i>Instr. Sgl. u. Pl.</i> zu seiner Zeit, zur rechten Zeit. पुरा/ ऋतो/ vor der Zeit."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ऋतु",
+            "eid": "2219",
+            "pagenum": 287,
+            "content": "<b>ṛtú,</b>¦ <ab>m.</ab>, 1〉 <i>bestimmte Zeit</i> [von ar 10, wie ṛtá], <i>bestimmter Zeitpunkt, angemessener Zeitpunkt,</i> namentlich 2〉 der für den Gottesdienst (das Opfer) bestimmte Zeitpunkt, die <i>Opferzeit,</i> häufig in der Verbindung: trinke (trinket) zur Opferzeit; 3〉 der <i>regelmässige Zeitlauf;</i> 4〉 die Jahreszeiten oder Monde; 5〉 die <i>Regel;</i> 6〉 die Regel der Weiber. <div n='TS'>-ús 1〉 {204,1}, die Zeit ist seine (des Soma) Mutter. — 5〉 {162,19}, táthā‿ṛtús, so ist die Regel. — 6〉 jánīnām {400,8}. [Page288] <div n='TS'>-úm 3〉 〰 ná prá minanti {619,9}. <div n='TS'>-únā 2〉 {15,1}—_{15,4}. _{15,6}. _{15,11}. _{15,12}; {228,6}. <div n='TS'>-ós 1〉 {219,5}, purā́‿ 〰, vor der Zeit. <div n='TS'>-ávas 4〉 {844,5}, parallel áhāni. <div n='TS'>-ū́n 1〉 {49,3}; {911,18}. — 2〉 {15,5}; {229,4}; {828,1}. _{828,3}; {837,1}. <div n='TS'>-úbhis 1〉 {386,2}; dhruvébhis {84,18}; yébhis {828,4}. — 2〉 {15,9}; {228,1}—_{228,3}; {281,3}; {330,2}; {349,7}; {493,10}; {778,3}; {833,6}. — 4〉 {844,5}. <div n='TS'>-ūnā́m 2〉 ṛtupā́s 〰 {366,3}."
+        },
+        {
+            "word": "ऋतु",
+            "eid": "12243",
+            "pagenum": 1757,
+            "content": "<b>ṛtú:</b>¦<info vn='add 220 gra'/> <div n='TS'>-ū́n 4〉 {95,3}; <div n='TS'>-úbhis {15,10}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "ऋतु",
+            "eid": "4924",
+            "pagenum": 281,
+            "content": "<i>ṛtu</i>¦ (EI 7-1-2), ‘six’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "ऋतु",
+            "eid": "9187",
+            "pagenum": 602,
+            "content": "<b>Ṛtu</b><sup>1</sup>¦ = Śiva (1000 names<sup>2</sup>).—Do.<sup>2</sup> = Viṣṇu (1000 names).— Do.<sup>3</sup>. pl. (<i>°avaḥ</i>), personif.; IX, 2513, 2517.—Do.<sup>4</sup>, pl. (<i>°araḥ</i>) = Śiva (1000 names<sup>1</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ऋतु",
+            "eid": "924",
+            "pagenum": 136,
+            "content": "<b>ṛtú,</b>¦ <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> a fixed and settled time; <i><ab>esp.</ab></i> time for sacrificing; <div n='2'/><b>—2.</b> time of year, <i><ab>i. e.</ab></i> season; <div n='2'/><b>—3.</b> the menses. [<b>√ṛ,</b> <ls n='wg,1161'>1161a</ls>: <ab>cf.</ab> <lang n='greek'>ἀρτύ-ω</lang>, ‘fit together, prepare’; <ab>Lat.</ab> <i>artu-s,</i> ‘joint.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ऋतु",
+            "eid": "07310",
+            "pagenum": 151,
+            "content": "ftu¦ <i>m.</i> 1. A period of the year, a season; there are six seasons in a Hindu year- शिशिरः पुष्यसमयो ग्रीष्मो वर्षा शरद्धिमः; 2. The menstrual evacuation; 3. the period favourable for conception, e.g. ऋतौ भार्यामुपेयात्; 4. fit season; 5. light; 6. the number ‘six.’"
+        }
     ]
 }

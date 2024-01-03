@@ -106,5 +106,107 @@
             "pagenum": 166,
             "content": "कु¦ <i>ku,</i> au commencement des mots composés, <lbinfo n='6'/> est une forme irrégulière tirée de l'<ab>interrog.</ab> <i>kas, kā, kim;</i> il indique mépris, amoindrissement, mauvaise qualité; <ab>cf.</ab> <i>ka, kā</i> et <i>kim,</i> <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कु",
+            "eid": "7860",
+            "pagenum": 122,
+            "content": "1 कु¦ (°—) = क/द्."
+        },
+        {
+            "word": "कु",
+            "eid": "7861",
+            "pagenum": 122,
+            "content": "2 कु¦ <ab>v.</ab> कू."
+        },
+        {
+            "word": "कु",
+            "eid": "7862",
+            "pagenum": 122,
+            "content": "3 कु¦ <lex>f.</lex> earth, soil, land."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कु",
+            "eid": "4958",
+            "pagenum": 85,
+            "content": "1. कु¦ <i>Pron-St.</i>; °— schlecht, gering."
+        },
+        {
+            "word": "कु",
+            "eid": "4959",
+            "pagenum": 85,
+            "content": "2. कु¦ <i>s.</i> 1. कू"
+        },
+        {
+            "word": "कु",
+            "eid": "4960",
+            "pagenum": 85,
+            "content": "3. कु¦ <i>f.</i> Erde, Land."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कु",
+            "eid": "2582",
+            "pagenum": 328,
+            "content": "<b>kú,</b>¦ fragender Deutestamm, aus kúa, kvā̀ gekürzt [<ab n='siehe'>s.</ab> dort], enthalten in kútas, kútra, kuvíd, kúha. In Zusammensetzungen (wie ka-, ki-): sehr, gewaltig oder übel."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कु",
+            "eid": "2888",
+            "pagenum": 164,
+            "content": "<i>ku</i>¦ (IE 7-1-2), ‘one’. <div n='P'>(<i>CITD</i>), a contraction of Telugu <i>kuṇṭalu</i> or <i>kuccelu,</i> a certain measure of land."
+        },
+        {
+            "word": "कु",
+            "eid": "2953",
+            "pagenum": 168,
+            "content": "<i>ku</i>¦ṟṟ<i>am</i> (IE 8-4), Tamil; a district or its subdivision; sometimes the same as <i>nāḍu,</i> but sometimes only the part of a <i>nāḍu.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कु",
+            "eid": "1135",
+            "pagenum": 142,
+            "content": "<b>ku,</b>¦ <i>see</i> <b>1ká</b> 4, <i>and</i> <ls n='wg,504'>504.</ls>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कु",
+            "eid": "09499",
+            "pagenum": 191,
+            "content": "ku¦ <i>f.</i> 1. The earth; 2. the base of a triangle or any plain figure."
+        },
+        {
+            "word": "कु",
+            "eid": "09500",
+            "pagenum": 191,
+            "content": "ku¦ <i>ind.</i> A prefix implying ‘depreciation,’ ‘badness,’ ‘sin,’ ‘reproach,’ ‘contempt.’ (In many places, it assumes the forms कद्, (e.g. कदश्व), कव, (e.g. कवोष्ण), का, (e.g. कापुरुष), किम्, (e.g. किंसखि)."
+        },
+        {
+            "word": "कु",
+            "eid": "09548",
+            "pagenum": 191,
+            "content": "ku¦ <i>(I) vi. 1A (pres. कवते)</i> To sound."
+        },
+        {
+            "word": "कु",
+            "eid": "09549",
+            "pagenum": 191,
+            "content": "ku¦ <i>(II) vi. 6A (pres. कुवते)</i> To moan, to groan."
+        },
+        {
+            "word": "कु",
+            "eid": "09550",
+            "pagenum": 191,
+            "content": "ku¦ <i>(III) vi. 2P (pres. कौति)</i> To hum, to coo."
+        }
     ]
 }

@@ -31,5 +31,49 @@
             "pagenum": 379,
             "content": "*नेद्¦ <i>ned.</i> <i>nedāmi</i> 1, <ab>cf.</ab> <i>nid.</i>  <P><i>nedayāmi</i> (<ab>c.</ab> de <i>ned)</i>. Approcher, mettre plus près.  <P><i>nedīyas</i> (<ab>comp.</ab> de <i>neda</i> <ab>inus.</ab>) plus voisin, plus proche. -- <ab>Sup.</ab> <i>nediṣṭha</i> très-proche. || <ab>S.</ab> <ab>m.</ab> alangium hexapetalum, <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "नेद्",
+            "eid": "17331",
+            "pagenum": 285,
+            "content": "1 नेद्¦ ने/दति <vlex type='root'/> <ab>w.</ab> अति overflow."
+        },
+        {
+            "word": "नेद्",
+            "eid": "17332",
+            "pagenum": 285,
+            "content": "2 ने/द्¦ <ab>indecl.</ab> not, by no means; that not, lest (<ab>w.</ab> <ab>conj.</ab>, <ab>opt.</ab>, or <ab>imper.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नेद्",
+            "eid": "12816",
+            "pagenum": 226,
+            "content": "1. नेद्¦ ने/दति <i>mit</i> अति überströmen."
+        },
+        {
+            "word": "नेद्",
+            "eid": "12817",
+            "pagenum": 226,
+            "content": "2. ने/द्¦ <i>(indecl.</i> = न/ +इद्/) nicht; damit nicht <i>(mit Cong., Opt. o. Imperat.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "नेद्",
+            "eid": "5128",
+            "pagenum": 754,
+            "content": "<b>néd,</b>¦ aus ná íd zusammengezogen 1〉 verstärktes <i>nicht</i> (<ab>vgl.</ab> íd. 6) {625,39} anyás 〰 sūrís óhate bhūridā́vattaras jánas. — 2〉 <i>damit nicht</i> mit betontem Verb im Conjunctiv: {433,9} 〰 tvā tápāti sū́ras; {842,7} 〰 tvā dhṛṣṇús pariaṅkháyāte; {877,4} 〰 evá mā yunájann átra devā́s."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "नेद्",
+            "eid": "2384",
+            "pagenum": 184,
+            "content": "<b>néd,</b>¦ <i><ab>adv.</ab></i> lest, in order that not, <i><ab>w.</ab> accented</i> <i>verb</i> (<ls n='wg,595'>595d</ls>) <i>in the subjunctive</i> (<ls n='wg,581'>581e</ls>), <ls n='lan,84,17'>84<sup>17</sup></ls>. [<b>ná + íd,</b> <ls n='wg,1111'>1111a<sup>2</sup></ls>.]"
+        }
     ]
 }

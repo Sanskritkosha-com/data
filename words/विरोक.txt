@@ -36,5 +36,43 @@
             "pagenum": 600,
             "content": "विरोक¦ <i>viroka</i> <ab>m.</ab> <i>(ruc)</i> rayon de lumière. <lbinfo n='3'/> -- <ab>N.</ab> trou, fente."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विरोक",
+            "eid": "30016",
+            "pagenum": 504,
+            "content": "विरोक/¦ <lex>m.</lex> ray of light."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विरोक",
+            "eid": "22800",
+            "pagenum": 412,
+            "content": "विरोक/¦ <i>m.</i> das Glänzen, Leuchtend."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "विरोक",
+            "eid": "8121",
+            "pagenum": 1290,
+            "content": "<b>viroká,</b>¦ <ab>m.</ab>, <i>das Leuchten, Erstrahlen</i> mit <ab>Gen.</ab> des Leuchtenden [von ruc <ab n='mit'>m.</ab> ví]. <div n='TS'>-é uṣásas {239,2}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विरोक",
+            "eid": "35410",
+            "pagenum": 673,
+            "content": "viroka¦ <i>(I) m.n.</i> A hole, a chasm."
+        },
+        {
+            "word": "विरोक",
+            "eid": "35411",
+            "pagenum": 673,
+            "content": "viroka¦ <i>(II) m.</i> A ray of light."
+        }
     ]
 }

@@ -36,5 +36,35 @@
             "pagenum": 750,
             "content": "हला¦ <i>halā</i> <ab>interj.</ab> <ab>cf.</ab> <i>harile.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "हला",
+            "eid": "39441",
+            "pagenum": 659,
+            "content": "हला¦ <lex>a.</lex> <ab>vocat.</ab> particle used in addressing a female friend.*"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हला",
+            "eid": "29264",
+            "pagenum": 529,
+            "content": "हला¦ <i>Anruf an eine Freundin.*</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हला",
+            "eid": "43062",
+            "pagenum": 828,
+            "content": "halA¦ <i>(I) f.</i> 1. A female friend; 2. the earth; 3. water; 4. spirituous liquor."
+        },
+        {
+            "word": "हला",
+            "eid": "43063",
+            "pagenum": 828,
+            "content": "halA¦ <i>(II) ind.</i> A vocative particle used in addressing a female friend (in theatrical language), हला भएण विसुमरिदम्हि <ls>Ve.</ls>ii."
+        }
     ]
 }

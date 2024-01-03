@@ -39,5 +39,49 @@
             "pagenum": 572,
             "content": "वस्तु¦ <i>vastu</i> <ab>n.</ab> <i>(vas;</i> <ab>sfx.</ab> <i>lu)</i> <ab>Vd.</ab> ville. || Biens, richesses, possessions; || au <ab>fig.</ab> propriété, <lbinfo n='7'/> nature, caractère. || <ab>Gr.</ab> <lang n='greek'>ἄστυ</lang>.  <P><i>vastuka</i> <ab>n.</ab> chenopode blanc, <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वस्तु",
+            "eid": "28578",
+            "pagenum": 480,
+            "content": "1 व/स्तु¦ <lex>f.</lex> brightening, dawning; <ab>gen.</ab> व/स्तोस् in the morning, प्रति वस्तोस् towards morning."
+        },
+        {
+            "word": "वस्तु",
+            "eid": "28579",
+            "pagenum": 480,
+            "content": "2 वस्तु¦ <lex>n.</lex> seat, place; thing, object, reality; matter, circumstance; substance, contents or subject (of a poem <ab>etc.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वस्तु",
+            "eid": "21691",
+            "pagenum": 393,
+            "content": "1. व/स्तु¦ <i>f.</i> das Hellwerden, Tagen. <i>Gen.</i> व/स्तोस् am Morgen; प्र/ति° gegen M."
+        },
+        {
+            "word": "वस्तु",
+            "eid": "21692",
+            "pagenum": 393,
+            "content": "2. वस्तु¦ <i>n.</i>Sitz, Ort, rechte Stelle; (tauglicher) <lbinfo n='7'/> Gegenstand, Ding, Einzelheit; Reales <i>(ph.)</i>; Sache, Umstand, Inhalt, Stoff <i>(opp. Form). Abstr.</i> °ता <i>f.</i>, °त्व <i>n.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वस्तु",
+            "eid": "7821",
+            "pagenum": 1238,
+            "content": "<b>vástu,</b>¦ <ab>f.</ab> [von <hom>1.</hom> vas, <ab>vgl.</ab> den Infinitiv], 1〉 das <i>Hellwerden, Tagen,</i> der <i>Morgen;</i> insbesondere 2〉 [<ab>G.</ab>] vástos am <i>Morgen, morgens;</i> auch 3〉 mit adjektivischer Bestimmung; 4〉 doṣā́ vástos am Abend und <i>Morgen;</i> 5〉 práti vástos gegen <i>Morgen;</i> 6〉 vástos uṣásas oder uṣásām beim <i>Aufleuchten</i> der Morgenröthen; 7〉 <i>Licht</i> persönlich gefasst von Agni. <div n='TS'>-us 7〉 ṛṣūṇáam {680,15}. <div n='TS'>-os [<ab>G.</ab>] 2〉 {174,3}; {177,5}; {312,4}; {445,2}; {466,9}; {915,17}. — 3〉 ékasyās {116,21}; asyā́s {936,4}. — 4〉 {104,1}; {179,1}; {386,11}; {446,2}; {480,3}; {517,6}; {645,21}; {866,2}. _{866,4}. — 6〉 uṣásas {79,6}; uṣásām {526,2}. <div n='TS'>-os-vastos 2〉 {866,1}. _{866,3}. <div n='TS'>-os [<ab>Ab.</ab>] 5〉 {230,3}; {341,5}; {1015,3}. <div n='TS'>-uṣu {639,31}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वस्तु",
+            "eid": "34029",
+            "pagenum": 648,
+            "content": "vastu¦ <i>n.</i> 1. A really existing thing, a reality; 2. thing, matter, article, स्पृहवती वस्तुषु केषु मागधी <ls>R.</ls>iii.5, v.18; 3. object, इष्टे वस्तुन्युपचितरसाः प्रेमराशीभवंति <ls>Megh.</ls>ii.49; 4. property, essence, nature; 5. stuff, materials, क्रिया हि वस्तूपहिता प्रसीदति <ls>R.</ls>iii.29; 6. the rear; 7. the subject of a poem or play, कालिदासग्रथितवस्तुनाऽभिज्ञानशाकुंतलाख्येन नाटकेन <ls>Sak.</ls>i., अथवा सद्वस्तुपुरुषबहुमानात् <ls>Vikr.</ls>i., उदात्तकथावस्तुगौरवाद्वा <ls>Ve.</ls>i."
+        }
     ]
 }

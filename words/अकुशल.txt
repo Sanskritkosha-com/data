@@ -23,5 +23,43 @@
             "pagenum": 6,
             "content": "अकुशल¦ <i>akuśala</i> <ab>a.</ab> malheureux."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अकुशल",
+            "eid": "76",
+            "pagenum": 2,
+            "content": "अकुशल¦ <lex>a.</lex> inauspicious, unlucky; incapable, awkward, clumsy."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अकुशल",
+            "eid": "51",
+            "pagenum": 1,
+            "content": "अकुशल¦ unbeilvoll, schlimm, unglücklich, ungeschickt; <i>n.</i> Unheil. Übel."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अकुशल",
+            "eid": "123",
+            "pagenum": 4,
+            "content": "अकुशल¦ Tatpur. I. m. f. n. (-लः-ला-लम्) <sup>1</sup> Unlucky, inauspicious. <sup>2</sup> Clumsy, not clever. <div n='P'>II. n. (-लम्) Misfortune, bad luck. E. अ neg. and कुशल."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अकुशल",
+            "eid": "00083",
+            "pagenum": 2,
+            "content": "akuSala¦ <i>(I) a. (f. ला)</i> 1. Unlucky; 2. clumsy."
+        },
+        {
+            "word": "अकुशल",
+            "eid": "00084",
+            "pagenum": 2,
+            "content": "akuSala¦ <i>(II) n.</i> 1. Evil; 2. misfortune."
+        }
     ]
 }

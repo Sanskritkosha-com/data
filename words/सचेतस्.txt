@@ -15,5 +15,35 @@
             "pagenum": 671,
             "content": "सचेतस्¦ <i>sacetas</i> <ab>a.</ab> <i>(sam)</i> maître de sa pensée."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सचेतस्",
+            "eid": "34267",
+            "pagenum": 576,
+            "content": "स/चेतस्¦ <lex>a.</lex> having the same mind, unanimous; also = <ab>prec.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सचेतस्",
+            "eid": "25829",
+            "pagenum": 466,
+            "content": "स/चेतस्¦ einmütig, einträchtig; <i>auch = vor.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सचेतस्",
+            "eid": "9148",
+            "pagenum": 1449,
+            "content": "<b>sá-cetas,</b>¦ <ab>a.</ab>, 1〉 <i>weise, verständig, einsichtig</i> [cétas Einsicht]; 2〉 <i>gleichgesinnt, einmüthig</i>. <div n='TS'>-ās [<ab>m.</ab>] índras {61,10}. <div n='TS'>-ās [<ab>f.</ab>] 1〉 2〉 <chg type='chg' n='258' src='gra'><old>pṛthiv</old><new>pṛthivī́</new></chg> {312,7}. <div n='TS'>-asam pátim droṇasā́cam {870,4}. <div n='TS'>-asā [<ab>du.</ab>] 2〉 dyā́vāpṛthivī́ {939,1}. <div n='TS'>-asas [<ab>N.</ab> <ab>p.</ab>] 2〉 {827,3}; mártās {830,5}; té (devā́s) {890,7}; ṛtvíjas {1027,1}."
+        },
+        {
+            "word": "सचेतस्",
+            "eid": "11258",
+            "pagenum": 1747,
+            "content": "1449,15.a: pṛthivī́ <ab>st.</ab> pṛthiv <info vn='chg 258 gra'/>"
+        }
     ]
 }

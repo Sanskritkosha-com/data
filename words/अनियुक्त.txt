@@ -7,5 +7,37 @@
             "pagenum": 64,
             "content": "अनियुक्तः¦ An assessor at a court who has not been formally appointed and who is not entitled to vote."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अनियुक्त",
+            "eid": "1305",
+            "pagenum": 19,
+            "content": "अनियुक्त¦ <lex>a.</lex> unauthorized, unappointed."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अनियुक्त",
+            "eid": "852",
+            "pagenum": 13,
+            "content": "अनियुक्त¦ nicht beauftragt, nicht besonders wozu angestellt."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अनियुक्त",
+            "eid": "2720",
+            "pagenum": 81,
+            "content": "अनियुक्त¦ Tatpur. 1. m. f. n. (-क्तः-क्ता-क्तम्) Not authorised, not called, not appointed &c. See नियुक्त. <div n='P'>2. m. (-क्तः) (In Law.) A Brāhmaṇa who attends a court without having been appointed a member of it, whose vote is therefore not binding, and who is at liberty to attend the court meetings and to debate in them, or not. (See, on the contrary, सभासद्.)"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "अनियुक्त",
+            "eid": "358",
+            "pagenum": 21,
+            "content": "<i>aniyukta</i>¦ (IA 9), cf. <i>niyukt-āniyukta-rājapuruṣa;</i> probably refers to officials of the king, who were not actually appointed by the government, but occupied posts by virtue of heredity or election."
+        }
     ]
 }

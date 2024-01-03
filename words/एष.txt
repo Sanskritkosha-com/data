@@ -23,5 +23,53 @@
             "pagenum": 127,
             "content": "एष¦ <i>eṣa, eṣā, etat</i> <ab>a.</ab> <ab>dém.</ab> <i>(e</i> gouna de <i>i;</i> <i>sas, sā, tat)</i>. Celui-ci, celle ci, ceci."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एष",
+            "eid": "6602",
+            "pagenum": 102,
+            "content": "1 एष/¦ <lex>a.</lex> rushing on, ए/ष <lex>m.</lex> as subst."
+        },
+        {
+            "word": "एष",
+            "eid": "6603",
+            "pagenum": 102,
+            "content": "2 ए/ष¦ <lex>m.</lex> seeking, looking for; wish, desire."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एष",
+            "eid": "4073",
+            "pagenum": 67,
+            "content": "1. एष/¦ hineilend; ए/ष <i>m.</i> das Hineilen."
+        },
+        {
+            "word": "एष",
+            "eid": "4074",
+            "pagenum": 67,
+            "content": "2. ए/ष¦ suchend; <i>m.</i> das Außuchen; एष/ <i>m.</i> Wunsch, Wahl."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "एष",
+            "eid": "2325",
+            "pagenum": 303,
+            "content": "<hom>1.</hom> <b>eṣá,</b>¦ <ab>a.</ab>, <i>hingleitend, eilend</i> [von eṣ]. <div n='TS'>-ás devás (bṛ́haspátis) {514,3}. <div n='TS'>-ásya víṣṇos {225,11}; {556,5}; {640,3}."
+        },
+        {
+            "word": "एष",
+            "eid": "2326",
+            "pagenum": 303,
+            "content": "<hom>2.</hom> <b>eṣá,</b>¦ <ab>m.</ab>, <i>Wunsch, Begehren</i> [von <hom>2.</hom> iṣ], <ab n='siehe'>s.</ab> das folgende. <div n='TS'>-é auf seinen Wunsch {180,4}."
+        },
+        {
+            "word": "एष",
+            "eid": "2327",
+            "pagenum": 303,
+            "content": "<b>éṣa,</b>¦ <ab>m.</ab>, 1〉 das <i>Hineilen, Eilen</i> [von <hom>1.</hom> iṣ, {1,10}]; 2〉 das <i>Aufsuchen, Begehren</i> [von <hom>2.</hom> iṣ 3]. <div n='TS'>-e 1〉 ráthānaam {420,3}; {440,4}. — 2〉 rāyás {395,5}. _{395,8}; gávām {874,9}."
+        }
     ]
 }

@@ -31,5 +31,45 @@
             "pagenum": 239,
             "content": "*चम्¦ <i>cam.</i> <i>camāmi</i> 1 et, <ab>vd.</ab>, <i>camnomi</i> <lbinfo n='6'/> 5; <ab>p.</ab> <i>cacāma;</i> <ab>a1.</ab> <i>acamiṣam.</i> Manger: <lbinfo n='4'/> <i>māṃsaṃ cemus</i> ils mangèrent de la chair. || Boire: <i>madhu</i> du vin."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चम्",
+            "eid": "10327",
+            "pagenum": 168,
+            "content": "चम्¦ चा/मति & चमति <vlex type='root'/> sip, drink. <div n='p'>— आ sip, rinse the mouth, lick up, absorb, cause to disappear. <ab>C.</ab> आचमयति & आचामयति cause to sip. — Cf. आचान्त, पर्याचान्त."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चम्",
+            "eid": "6861",
+            "pagenum": 120,
+            "content": "चम्¦ चा/मति <i>u.</i> चमति schlürfen. आ einschlürfen <lbinfo n='9'/> <i>(Wasser)</i>, sich den Mund ausspülen. <i>p.p.</i> आचान्त <i>act. u. pass.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "चम्",
+            "eid": "3236",
+            "pagenum": 436,
+            "content": "<b>(√cam),</b>¦ <i>einschlürfen,</i> in <ls>Śat. Br.</ls>; zu Grunde liegend in den folgenden:"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "चम्",
+            "eid": "1479",
+            "pagenum": 154,
+            "content": "<b>√cam,</b>¦ sip, <i>only with</i> <b>ā.</b> <div n='p'/><b>+ ā</b> (<b>ā́cāmati</b> [<ls n='wg,745'>745d</ls>]; <b>ā́cacāma; ā́cānta</b> [<ls n='wg,955'>955a</ls>]; <b>ācámya; ā́cāmayati</b>). sip (water), <i><ab>i. e.</ab></i> rinse the mouth."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चम्",
+            "eid": "13357",
+            "pagenum": 266,
+            "content": "cam¦ <i>vt. 1P (pp. चांत; pres. चमति, but with आ, आचामति)</i> 1. To drink, to drink off, to sip, चचाम मधु माध्वीकम् <ls>Bt.</ls>xiv.94; 2. to eat.<P>With आ-, 1. to sip, to drink, यदीयानां वाचाममृतमयमाचामतिरसम् <ls>Bh.V.</ls>iv.38; 2. to dry up, to remove, आचामति स्वेदलवान्मुखे ते <ls>R.</ls>xiii.20, (स्वेदं) आचचाम सतुषारशीकारो भिन्नपल्लवपुटो वनानिलः ix.68."
+        }
     ]
 }

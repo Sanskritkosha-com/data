@@ -27,5 +27,35 @@
             "pagenum": 510,
             "content": "जसुः¦ <b>1</b> An weapon(आयुध). <b>--2</b> Weakness, exhaustion."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जसु",
+            "eid": "11199",
+            "pagenum": 183,
+            "content": "ज/सु¦ <lex>f.</lex> exhaustion, weakness."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जसु",
+            "eid": "7587",
+            "pagenum": 134,
+            "content": "1. ज/सु¦ <i>f.</i> Erschöpfung."
+        },
+        {
+            "word": "जसु",
+            "eid": "7588",
+            "pagenum": 134,
+            "content": "2. जसु¦ = जस् <i>(g.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जसु",
+            "eid": "3460",
+            "pagenum": 482,
+            "content": "<b>jásu,</b>¦ <ab>f.</ab>, 1〉 <i>Erschöpfung, Mattigkeit</i> [von jas]; 2〉 <i>Ruhestätte</i>. <div n='TS'>-us 1〉 {859,2}. <div n='TS'>-um 2〉 {894,6} valásya."
+        }
     ]
 }

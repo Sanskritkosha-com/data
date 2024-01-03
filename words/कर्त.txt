@@ -15,5 +15,49 @@
             "pagenum": 383,
             "content": "कर्त¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Cutting. --र्तः <b>1</b> A hole, cavity. <b>--2</b> Rending, tearing."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कर्त",
+            "eid": "7172",
+            "pagenum": 111,
+            "content": "1 कर्त¦ <lex>m.</lex> division, distinction."
+        },
+        {
+            "word": "कर्त",
+            "eid": "7173",
+            "pagenum": 111,
+            "content": "2 कर्त/¦ <lex>m.</lex> hole, cavity (<ab>cf.</ab> गर्त)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कर्त",
+            "eid": "4462",
+            "pagenum": 75,
+            "content": "1. कर्त¦ <i>m.</i> Trennung."
+        },
+        {
+            "word": "कर्त",
+            "eid": "4463",
+            "pagenum": 75,
+            "content": "2. कर्त/¦ <i>m.</i> Grube, Loch."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कर्त",
+            "eid": "2460",
+            "pagenum": 316,
+            "content": "<b>kartá,</b>¦ <ab>m.</ab>, <i>Grube, Loch</i> [von kṛt, schneiden]. <div n='TS'>-ám {121,13}; {785,9}. <div n='TS'>-ā́t {220,6}. <div n='TS'>-é {785,8}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कर्त",
+            "eid": "1050",
+            "pagenum": 140,
+            "content": "<b>kartá,</b>¦ <i><ab>m.</ab></i> (earth-) cut, ditch. [<b>√kṛt:</b> see <b>garta.</b>]"
+        }
     ]
 }

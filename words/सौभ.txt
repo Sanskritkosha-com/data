@@ -23,5 +23,43 @@
             "pagenum": 731,
             "content": "सौभ¦ <i>saubha</i> <ab>n.</ab> la cité de <s1 slp1='hariScandra'>Hariścandra</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सौभ",
+            "eid": "38193",
+            "pagenum": 637,
+            "content": "सौभ¦ <lex>n.</lex> <ab>N.</ab> of a mythical city."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सौभ",
+            "eid": "28471",
+            "pagenum": 510,
+            "content": "सौभ¦ <i>n. N. einer myth. Stadt.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "सौभ",
+            "eid": "9773",
+            "pagenum": 631,
+            "content": "<b>Saubha</b>,¦ the aerial city of Śālva<sup>5</sup>. § 317<i>b</i> (Kṛṣṇa): III, <b>12</b>, 491 (<i>pātitaṃ</i>, sc. by Kṛṣṇa; cf. § 319).—§ 319 (Saubhavadhap.): III, <b>14</b>, 615 (<i>Śālvasya nagaraṃ</i>), 619 (<i>kāmagaṃ</i>), 628 (<i>kāmagena</i>); <b>16</b>, 685 (do.), 688, 690; <b>17</b>, 695 (<i>°nivā-</i> <i>sinaḥ</i>); <b>19</b>, 776; <b>20</b>, 786 (<i>°nagaraṃ</i>), 792, 793, 802, 805 (<i>°madhye</i>); <b>21</b>, 835, 840, †847; <b>22</b>, 849, 851, 857 (<i>kāma-</i> <i>gamaṃ</i>), 875, 880, 882 (<i>nagaraṃ</i>), 883 (destroyed by Kṛṣṇa), 884, 889.—§ 561<i>c</i> (Kṛṣṇa Vāsudeva): V, <b>48</b>, 1886 (<i>°dvāri</i> <i>pratyagṛhṇāc chataghnīṃ dorbhyāṃ</i>, sc. Kṛṣṇa).—§ 567 (Bhagavadyānap.): V, <b>130</b>, 4405 (<i>°dvāre</i>, there the monkey Dvivida covered Kṛṣṇa with a shower of stones).—§ 589 (Droṇābhiṣekap.): VII, <b>11</b>, 395 (<i>Daityapuraṃ khasthaṃ</i> <i>Śālvaguptaṃ</i>, destroyed by Kṛṣṇa; cf. § 319).—§ 717<i>b</i> (Nārāyaṇīya): XII, <b>340</b>, 12959 (<i>°nivāsinaḥ</i>, will be destroyed by Kṛṣṇa, in a prophecy)."
+        },
+        {
+            "word": "सौभ",
+            "eid": "9774",
+            "pagenum": 631,
+            "content": "<b>Saubha</b><sup>2</sup>¦ (“lord of the Saubha”) = Śālva<sup>5</sup>: III, 632, 636, 654; V, †1886 (<i>Śālvarājaṃ</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सौभ",
+            "eid": "41734",
+            "pagenum": 799,
+            "content": "sOBa¦ <i>n.</i> Name of Hariśchandra’s city suspended in air."
+        }
     ]
 }

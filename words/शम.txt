@@ -82,5 +82,89 @@
             "pagenum": 637,
             "content": "शम¦ <i>śama</i> <ab>m.</ab> calme [au propre et au <ab>fig.</ab>]; || la paix de l'âme produite par la méditation; <lbinfo n='9'/> || le repos final. || <ab>Qqf.</ab> main. || <ab>Qqf.</ab> malédiction (pour <i>śapa)</i>.  <P><i>śamaka</i> <ab>a.</ab> qui calme.  <P><i>śamatha</i> <ab>m.</ab> (<ab>sfx.</ab> <i>atha)</i> calme, repos. || Conseiller, <lbinfo n='8'/> ministre.  <P><i>śamana</i> <ab>n.</ab> action de calmer, de se calmer; <lbinfo n='4'/> || calme; || quiétude produite par la méditation. || Meurtre; immolation d'un animal. || <ab>Qqf.</ab> pour <i>śapana.</i> -- <ab>M.</ab> <s1 slp1='yama'>Yama</s1>. || Antilope. -- <ab>F.</ab> <i>śamanī</i> la nuit.  <P><i>śamanasvasṛ</i> <ab>f.</ab> la <s1 slp1='yamunA'>Yamunā</s1>, sœur de <s1 slp1='yama'>Yama</s1>.  <P><i>śamanīṣad</i> <ab>m.</ab> <i>(sad)</i> <s1 slp1='rAkzasa'>rākṣasa</s1>.  <P><i>śamala</i> <ab>n.</ab> lie, sédiment; || excrément.  <P><i>śamāntaka</i> <ab>m.</ab> <i>(anta</i> au <ab>c.</ab>) l'amour, <s1 slp1='kAma'>Kāma</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "शम",
+            "eid": "31848",
+            "pagenum": 538,
+            "content": "1 श/म¦ <lex>a.</lex> tame, domestic."
+        },
+        {
+            "word": "शम",
+            "eid": "31849",
+            "pagenum": 538,
+            "content": "2 शम¦ <lex>m.</lex> peace of mind."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शम",
+            "eid": "24149",
+            "pagenum": 436,
+            "content": "1. श/म¦ zahm <i>o.</i> arbeitsam."
+        },
+        {
+            "word": "शम",
+            "eid": "24150",
+            "pagenum": 436,
+            "content": "2. शम¦ <i>m.</i> Ruhe, <i>bes.</i> Gemütsruhe, Gleichgültigkeit; <lbinfo n='11'/> Besänftigung; das Aufhören, Erlöschen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "शम",
+            "eid": "8661",
+            "pagenum": 1379,
+            "content": "<b>śáma,</b>¦ <ab>a.</ab>, <i>arbeitend, sich anstrengend</i> [<ab>v.</ab> śam]. <div n='TS'>-am vṛṣabhám <chg type='chg' n='242' src='gra'><old>{33,14}</old><new>{33,15}</new></chg>. <div n='TS'>-asya śṛṅgíṇas {32,15}."
+        },
+        {
+            "word": "शम",
+            "eid": "11242",
+            "pagenum": 1746,
+            "content": "1379,1.a <ab>v. u.</ab>: {33,15} <ab>st.</ab> {33,14} <info vn='chg 242 gra'/>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "शम",
+            "eid": "2366",
+            "pagenum": 192,
+            "content": "<b>Śama</b><sup>1</sup>¦ (“serenity of mind”). § 116 (Vasu, pl.): I, <b>66</b>, 2587 (son of the Vasu Ahas)."
+        },
+        {
+            "word": "शम",
+            "eid": "2367",
+            "pagenum": 192,
+            "content": "<b>Śama</b><sup>2</sup>.¦ § 117 (Aṃśāvat.): I, <b>66</b>, 2596 (son of Dharma), 2597 (husband of Prāpti)."
+        },
+        {
+            "word": "शम",
+            "eid": "2368",
+            "pagenum": 192,
+            "content": "<b>Śama</b><sup>3</sup>¦ (C. <i>S°</i>), a king among the Nandivegas. § 562 (Bhagavadyānap.): V, <b>74</b>γ, 2733 (<i>Samaś ca Nandivegānāṃ</i>, among the eighteen kings who annihilated their relatives and kinsmen)."
+        },
+        {
+            "word": "शम",
+            "eid": "2369",
+            "pagenum": 192,
+            "content": "<b>Śama</b><sup>4</sup>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "शम",
+            "eid": "4117",
+            "pagenum": 256,
+            "content": "<b>śáma,</b>¦ <i><ab>a.</ab> word of doubtful <ab>mg</ab> at</i> <ls n='lan,71,8'>71<sup>8</sup></ls>: <i>perhaps</i> tame (<i><ab>cf.</ab></i> <b>√2śam,</b> <i><ab>caus.</ab></i>) <i>or</i> industrious  <lbinfo n='indus-trious'/> (<i><ab>cf.</ab></i> <b>√1śam</b>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शम",
+            "eid": "37093",
+            "pagenum": 709,
+            "content": "Sama¦ <i>m.</i> 1. Tranquillity, rest, calm; 2. absence of passion, restraint of senses, <ls>Bg.</ls>vi.3, x.4; 3. allayment, alleviation, शममेष्यति मम शोकः कथम् <ls>Sak.</ls>iv., <ls>Sis.</ls>iv.62; 4. the hand; 5. final emancipation."
+        }
     ]
 }

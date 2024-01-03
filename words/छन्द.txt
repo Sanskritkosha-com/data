@@ -50,5 +50,49 @@
             "pagenum": 254,
             "content": "छन्द¦ <i>chanda</i> <ab>m.</ab> <ab>n.</ab> intention, propos; tendance naturelle, désir, volonté. || Poison. || <ab>Ac.</ab> <i>svachandam</i> de soi-même, spontanément; <lbinfo n='5'/> <ab>lat.</ab> suasponte.  <P><i>chandayāmi</i> (<ab>dénom.</ab>) donner spontanément: <lbinfo n='5'/> offrir, gratifier, <ab>ac.</ab>: <i>varais taṃ chandayāmāsa</i> <lbinfo n='10'/> il le combla de présents; <ab>cf.</ab> <i>chad.</i> || <ab>Lat.</ab> spondere.  <P><i>chandayāmi</i> éclairer, <ab>cf.</ab> <i>chṛd.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "छन्द",
+            "eid": "10773",
+            "pagenum": 177,
+            "content": "छ/न्द¦ <lex>a.</lex>  pleasant, alluring. <lex>m.</lex> appearance, shape; delight, pleasure; wish, desire. Instr. & <ab>abl.</ab> at one's own pleasure or will, freely; at the pleasure or will of (<ab>gen.</ab> or —°)."
+        },
+        {
+            "word": "छन्द",
+            "eid": "10774",
+            "pagenum": 177,
+            "content": "छन्द/¦ <lex>a.</lex> pleasant, alluring. <lex>m.</lex> appearance, shape; delight, pleasure; wish, desire. Instr. & <ab>abl.</ab> at one's own pleasure or will, freely; at the pleasure or will of (<ab>gen.</ab> or —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "छन्द",
+            "eid": "7228",
+            "pagenum": 128,
+            "content": "छ/न्द¦ <i>u.</i> छन्द/ gafällig; <i>m.</i> Erscheinung, Lust, Gefallen, Wille. छन्देन <i>u.</i> छेन्दतस् aus eigenem Antrieb, nach Belieben; —° <i>oder mit Gen. (auch</i> छन्दात्) auf Antrieb, <lbinfo n='6'/> nach Willen des."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "छन्द",
+            "eid": "3354",
+            "pagenum": 461,
+            "content": "<b>chánda,</b>¦ <ab>a.</ab>, <i>glänzend, strahlend</i> [von chand]; 2〉 <ab>m.</ab>, der <i>Gefallende, Schmeichler</i> oder <i>Buhle</i>. <div n='TS'>-as agnís 〰 ná sū́ras arcíṣā {627,36}. — 2〉 śriyé 〰 ná smayate vibhātī́ (uṣā́s) {92,6}."
+        },
+        {
+            "word": "छन्द",
+            "eid": "3355",
+            "pagenum": 461,
+            "content": "<b>chandá,</b>¦ <ab>a.</ab>, <i>singend, preisend</i> [von chand, in Bezug auf den Bedeutungsübergang <ab>vgl.</ab> arc]. <div n='TS'>-ás rebhás {452,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "छन्द",
+            "eid": "1550",
+            "pagenum": 157,
+            "content": "<b>chanda,</b>¦ <i><ab>m.</ab></i> pleasure; will. [<b>√2chad.</b>]"
+        }
     ]
 }

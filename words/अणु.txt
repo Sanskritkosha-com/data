@@ -52,5 +52,65 @@
             "pagenum": 13,
             "content": "अणु¦ <i>aṇu;</i> <ab>f.</ab> <i>anvī;</i> <ab>a.</ab> petit, ténu, subtil. -- <ab>S.</ab> <ab>m.</ab> atome; || la graine du panicum miliaceum.  <P><i>aṇuka</i> <ab>a.</ab> <i>(aṇu)</i> ténu, subtil. || Au <ab>fig.</ab> fin, adroit.  <P><i>aṇubhā</i> <ab>f.</ab> <i>(bhā)</i> éclair."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अणु",
+            "eid": "462",
+            "pagenum": 7,
+            "content": "अ/णु¦ <lex>f.</lex> अ/ण्वी small, minute, tiny, atomic; <lex>m.</lex> atom, <lex>f.</lex> finger."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अणु",
+            "eid": "314",
+            "pagenum": 5,
+            "content": "अ/णु¦ <i>f.</i> आ/ण्वी fein, dünn. <i>m.</i> Atom, f. Finger."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अणु",
+            "eid": "215",
+            "pagenum": 26,
+            "content": "<chg type='chg' n='11' src='gra'><old><b>anu,</b></old><new><b>áṇu,</b></new></chg>¦ <ab>a.</ab>, dünn, fein, sehr klein, zart; davon das <ab>fem.</ab> ánvī, die <i>Zarte, Feine,</i> als Bezeichnung der <i>Finger</i>. <div n='TS'>-viā {727,1}; {726,6}; {738,1}. <div n='TS'>-vīs {713,7}. <div n='TS'>-vībhis {3,4}."
+        },
+        {
+            "word": "अणु",
+            "eid": "11011",
+            "pagenum": 1741,
+            "content": "26,24 <ab>v. u.</ab>: áṇu <ab>st.</ab> anu <info vn='chg 11 gra'/>"
+        }
+    ],
+    "GST": [
+        {
+            "word": "अणु",
+            "eid": "1062",
+            "pagenum": 30,
+            "content": "अणु¦ I. m. f. n. (-णुः-णुः or ण्वी-णु) Small, minute, atomic. <div n='P'>II. m. (-णुः) <sup>1</sup> An atom, a minute and elementary particle of matter. <sup>2</sup> (According to some Purāṇas) A measure of time, consisting of two Paramāṇus; 54,675,000 aṇus are said to be equal to one muhūrta. <sup>3</sup> A sort of grain (Panicum miliaceum). See धान्य. <sup>4</sup> A name of Śiva. <div n='P'>III. f. (-ण्वी) (ved.) A finger. <div n='P'>IV. n. (-णु) (In prosody.) The fourth part of a मात्रा q. v. E. अण्, uṇ. aff. उ."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अणु",
+            "eid": "666",
+            "pagenum": 42,
+            "content": "<b>Aṇu</b>¦ = Śiva (1000 names<sup>1</sup>), Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अणु",
+            "eid": "00580",
+            "pagenum": 9,
+            "content": "aRu¦ <i>(I) a. (f. णु or ण्वी; compar. अणीयस्; super. अणिष्ठ)</i> 1. Small, minute; 2. atomic."
+        },
+        {
+            "word": "अणु",
+            "eid": "00581",
+            "pagenum": 9,
+            "content": "aRu¦ <i>(II) m.</i> 1. An atom of matter; 2. name of Śiva."
+        }
     ]
 }

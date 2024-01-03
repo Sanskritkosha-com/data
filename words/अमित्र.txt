@@ -36,5 +36,43 @@
             "pagenum": 43,
             "content": "अमित्र¦ <i>amitra</i> <ab>m.</ab> <i>(mitra)</i> ennemi.  <P><i>amitraghna</i> <ab>a.</ab> <i>(han)</i> destructeur des ennemis. <lbinfo n='6'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अमित्र",
+            "eid": "2578",
+            "pagenum": 37,
+            "content": "अमि/त्र¦ <lex>m.</lex> (आ <lex>f.</lex>) enemy; ad. वत्†; <ab>abstr.</ab> °ता† <lex>f.</lex>; <ab>den.</ab> °त्राय्, °यते†."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अमित्र",
+            "eid": "1662",
+            "pagenum": 25,
+            "content": "अमि/त्र¦ <i>m.</i> Feind; <i>f.</i> आ Feindin."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अमित्र",
+            "eid": "883",
+            "pagenum": 92,
+            "content": "<b>a-mítra,</b>¦ <ab>m.</ab>, <i>Feind</i> [mitrá, Freund]. <div n='TS'>-am {514,3}; {593,4}; {684,10}. <div n='TS'>-asya manyúm {466,2}; {978,3}. <div n='TS'>-ās {133,1}; {203,8}; {915,15}; {929,12}. _{929,15}. <div n='TS'>-ān {63,2}. _{63,5}; {100,5}; {252,2}; {300,4}; {308,2}; {474,1}; {485,17}; {487,6}. _{487,8}; {514,2}; {516,4}. _{516,7}. _{516,16}; {534,9}; {541,2}; {548,25}; {601,2}; {608,4}; {636,10}; {809,54}; {929,4}; {957,1}. <div n='TS'>-ais {264,16}. <div n='TS'>-eṣu {915,9}."
+        },
+        {
+            "word": "अमित्र",
+            "eid": "12086",
+            "pagenum": 1751,
+            "content": "<b>amítra:</b>¦<info vn='add 75 gra'/> <div n='TS'>-ān {474,3}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अमित्र",
+            "eid": "02948",
+            "pagenum": 57,
+            "content": "amitra¦ <i>m. (This word is masculine though its reverse (मित्र) is neuter, as will be seen from the quotations below.)</i> Not a friend, an enemy, a foe, an adversary, स्याताममित्रौ मित्रे च सहजप्राकृतावपि <ls>Sis.</ls>ii.37, तस्य मित्राण्यमित्रास्ते <ls>Sis.</ls>ii.101."
+        }
     ]
 }

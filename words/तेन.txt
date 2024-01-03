@@ -28,5 +28,37 @@
             "pagenum": 256,
             "content": "<b>tena</b>¦, <i>there</i>; see <b>yena</b>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तेन",
+            "eid": "12675",
+            "pagenum": 209,
+            "content": "ते/न¦ (<ab>instr.</ab> <ab>adv.</ab>) in that direction, there; or in that manner, so (<ab>correl.</ab> to येन); therefore; then (<ab>correl.</ab> to येन, यद, यस्मात् & यतस्). — तेन हि now then."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तेन",
+            "eid": "8849",
+            "pagenum": 157,
+            "content": "ते/न¦ <i>(Instr. adv.)</i> dahin, so, darum, deshalb, daher."
+        }
+    ],
+    "INM": [
+        {
+            "word": "तेन",
+            "eid": "10828",
+            "pagenum": 676,
+            "content": "<b>tena</b>,¦ pl. (XII, 10868), v. stena, pl."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तेन",
+            "eid": "1802",
+            "pagenum": 165,
+            "content": "<b>téna,</b>¦ <i><ab>adv.</ab></i> in that way, <ls n='lan,47,17'>47<sup>17</sup></ls>; so; therefore, <ls n='lan,18,7'>18<sup>7</sup></ls>, <ab>etc.</ab>; <b>yatas</b> <i>or</i> <b>yad</b> <i>or</i> <b>yena…tena,</b> for the reason that…, therefore, <ls n='lan,30,8'>30<sup>8</sup></ls>, <ls n='lan,57,6'>57<sup>6</sup></ls>, <ls n='lan,64,9'>64<sup>9</sup></ls>. [<ab>pron.</ab> root <b>ta,</b> <ls n='wg,1112'>1112a</ls>: of like derivation  <lbinfo n='deriva-tion'/> and <ab>mg</ab> is <lang n='greek'>τῷ</lang>.]"
+        }
     ]
 }

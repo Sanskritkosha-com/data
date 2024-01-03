@@ -50,5 +50,71 @@
             "pagenum": 10,
             "content": "अच्छ¦ <i>accha</i> <ab>a.</ab> clair, transparent. || <ab>Adv.</ab> vis-à-vis. -- <ab>S.</ab> <ab>m.</ab> ours; || verre. <ab>Cf.</ab> <i>añc.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अच्छ",
+            "eid": "373",
+            "pagenum": 6,
+            "content": "1 अ/च्छ¦ अ/च्छा <ab>adv.</ab>  close by, here; <ab>prep.</ab> to, towards (<ab>acc.</ab>); often °— in verbs."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "375",
+            "pagenum": 6,
+            "content": "2 अच्छ¦ <lex>a.</lex> clear, transparent, clean, pure."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अच्छ",
+            "eid": "248",
+            "pagenum": 4,
+            "content": "1. अ/च्छ¦ <i>u.</i> अ/च्छा nahe dabei. <i>Praep. mit</i> <i>Acc.</i> zu, hin zu, versus."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "249",
+            "pagenum": 4,
+            "content": "2. अच्छ¦ klar, rein."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अच्छ",
+            "eid": "157",
+            "pagenum": 16,
+            "content": "<b>(áccha)</b>¦ siehe ácha."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अच्छ",
+            "eid": "795",
+            "pagenum": 22,
+            "content": "अच्छ¦ I. m. f. n. (-च्छः-च्छा-च्छम्) Clear, transparent. See छ. <div n='P'>II. m. (-च्छः) <sup>1</sup> Crystal. <sup>2</sup> A bear (see ऋक्ष). <div n='P'>III. ind. (see निपात) A kind of preposition (or गति q. v.) with the meaning of ‘to, unto, before, in front’, or ‘obtaining, taking possession of’. Its use seems to be restricted to the vaidik literature where it appears, for the most part, in the protracted form अच्छा. It occurs only in conjunction with verbs implying motion or speech--especially with अज्, इ, गम्, या, नश्, नु, वा, वच्, वद्--either preceding or following them and requiring the noun which depends upon this combination to stand in the accusative or in the locative; the latter case, however, is only exceptional.The word is given also in the form अच्छम्. E. unknown. That which is given is: अ neg. and छो, kṛt affix क, ‘not cutting or injuring sc. the sight’ and would refer only to I. and to II. 1. in the sense of ‘not easily cut’."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अच्छ",
+            "eid": "71",
+            "pagenum": 112,
+            "content": "<b>áccha,</b>¦ <i>vbl prefix.</i> to, unto; hither; <i><ab>w.</ab></i> <b>√√</b> <b>2naś, yā, vah, vṛt;</b> <i>often</i> <b>acchā,</b> <ls n='wg,248'>248a</ls>."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अच्छ",
+            "eid": "00458",
+            "pagenum": 7,
+            "content": "acCa¦ <i>(I) a. (f. च्छा)</i> 1. Pellucid, clear, transparent, <ls>Megh.</ls>i.15; 2. pure, किं रत्नमच्छा मतिः <ls>Bh.V.</ls>i.86."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "00459",
+            "pagenum": 7,
+            "content": "acCa¦ <i>(II) m.</i> 1. A bear; 2. crystal."
+        }
     ]
 }

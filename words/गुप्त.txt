@@ -55,5 +55,51 @@
             "pagenum": 219,
             "content": "गुप्त¦ <i>gupta</i> <ab>pp.</ab> de <i>gup</i> 10. Protégé, défendu, <lbinfo n='6'/> <ab>etc.</ab> Les noms propres qui finissent par <i>gupta</i> désignent <ab>ordint.</ab> des hommes de la 3ᵉ caste, celle des <s1 slp1='vESya'>Vaiśya</s1>s.  <P><i>guptaka</i> <ab>m.</ab> protecteur, défenseur, gardien.  <P><i>guptagati</i> <ab>m.</ab> espion, envoyé secret.  <P><i>guptacara</i> <ab>m.</ab> <i>(car)</i> <ab>mms.</ab> || <ab>Surn.</ab> de <s1 slp1='balarAma'>Balarāma</s1>. <lbinfo n='7'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "गुप्त",
+            "eid": "9570",
+            "pagenum": 154,
+            "content": "गुप्त/¦ <lex>a.</lex> kept, preserved, guarded, hidden, secret; <lex>n.</lex> <ab>adv.</ab> privately, secretly, <ab>loc.</ab> at a secret place; <lex>m.</lex> <ab>N.</ab> of <ab>sev.</ab> kings, <ab>esp.</ab> —°."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गुप्त",
+            "eid": "6275",
+            "pagenum": 109,
+            "content": "गुप्त/¦ behütet, beschützt, versteckt, verborgen; <lbinfo n='7'/> <i>Fürstenname (oft</i> —°); <i>n.</i> heimlich, unbemekt; <i>Loc.</i> an einem geheimen Orte."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "गुप्त",
+            "eid": "2137",
+            "pagenum": 124,
+            "content": "<i>gupta,</i>¦ cf. <i>gupt-ākṣarāṇi</i> (LP), same as <i>gupta-patḷaka,</i> a deed of permanent lease. See Tamil <i>guttagai</i> = Sanskrit <i>guptakā.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "गुप्त",
+            "eid": "4299",
+            "pagenum": 314,
+            "content": "<b>Gupta</b>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गुप्त",
+            "eid": "12291",
+            "pagenum": 246,
+            "content": "gupta¦ <i>(I) a. (f. प्ता)</i> 1. Protected, guarded; 2. hidden, concealed, secret; 3. invisible."
+        },
+        {
+            "word": "गुप्त",
+            "eid": "12292",
+            "pagenum": 246,
+            "content": "gupta¦ <i>(II) m.</i> An appellation (especially but not necessarily) suffixed to the name of a <i>Vaiśya</i>. (शर्मन् is suffixed to the name of a <i>Brāhmaṇa</i>; वर्मन् to that of a <i>Kshatriya</i>, गुप्त to that of a <i>Vaiśya</i> and दास to that of a <i>Śūdra</i>. This rule about the use of these appellations, is not, however, strictly observed).<P>(गुप्तम् is used as an indeclinable in the sense of ‘privately, secretly.’)"
+        }
     ]
 }

@@ -31,5 +31,45 @@
             "pagenum": 305,
             "content": "त्रिस्¦ <i>tris</i> <ab>adv.</ab> trois fois; <ab>gr.</ab> <lang n='greek'>τρίς</lang>; <ab>lat.</ab> ter."
         }
+    ],
+    "CAE": [
+        {
+            "word": "त्रिस्",
+            "eid": "12963",
+            "pagenum": 213,
+            "content": "त्रि/स्¦ <ab>adv.</ab> three times, thrice; अ/ह्नस् thrice a day."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "त्रिस्",
+            "eid": "9110",
+            "pagenum": 162,
+            "content": "त्रि/स्¦ <i>Adv.</i> dreimal."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "त्रिस्",
+            "eid": "3967",
+            "pagenum": 560,
+            "content": "<b>trís,</b>¦ <i>dreimal</i> {20,7}; {34,1}—_{34,8}; {116,4}; {162,4}; {287,8}; {297,7}; {349,5}; {490,13}; {507,2}; {616,3}; {655,7}—_{655,9}; {661,9}; {700,7}; {705,8}; {913,11}; {946,3}; {948,6}; namentlich trís áhnas, dreimal des Tages {116,19}; {290,6}; {921,5}; oder trís áhan {238,2}; {350,6}; {798,18}; {308,1}; oder trís ā́ divás {142,3}; {288,11}; {290,5}—_{290,8}; trís aktós, dreimal des Nachts {527,3}; trís saptá, dreimal sieben {72,6}; {191,12}. _{191,14}; {297,16}; {603,4}; {666,26}; {678,7}; {705,2}; {782,1}; {798,21}; {890,8}; {916,15}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "त्रिस्",
+            "eid": "1835",
+            "pagenum": 166,
+            "content": "<b>trís,</b>¦ <i><ab>adv.</ab></i> thrice. [see <b>tri:</b> <ab>cf.</ab> <lang n='greek'>τρίς</lang>, <ab>Lat.</ab> <i>ter,</i> <i>*ters,</i> ‘thrice’: <ab>Eng.</ab> <i>thrice</i> is a <ab>gen.</ab> form, cognate in root only.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "त्रिस्",
+            "eid": "16214",
+            "pagenum": 320,
+            "content": "tris¦ <i>ind.</i> Thrice, three times."
+        }
     ]
 }

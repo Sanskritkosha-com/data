@@ -7,5 +7,37 @@
             "pagenum": 845,
             "content": "मरः¦ <ab>Ved.</ab> <b>1</b> Death. <b>--2</b> The earth."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मर",
+            "eid": "24009",
+            "pagenum": 398,
+            "content": "मर¦ <lex>m.</lex> dying, death."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मर",
+            "eid": "18216",
+            "pagenum": 322,
+            "content": "मर¦ <i>m.</i> das Sterben, Tod."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "मर",
+            "eid": "3458",
+            "pagenum": 199,
+            "content": "<i>mara</i>¦ (EI 14), name of a measure."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "मर",
+            "eid": "3148",
+            "pagenum": 213,
+            "content": "<b>mara,</b>¦ <i><ab>m.</ab></i> death. [<b>√mṛ,</b> ‘die.’]"
+        }
     ]
 }

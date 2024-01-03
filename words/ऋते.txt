@@ -44,5 +44,57 @@
             "pagenum": 121,
             "content": "ऋते¦ <i>ṛte</i> <ab>prép.</ab> <ab>adv.</ab> <i>(ṛ;</i> <ab>sfx.</ab> <i>ta</i> au <ab>l.</ab>) outre; excepté; au delà, par-dessus, <ab>ac.</ab> ou <ab>ab.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "ऋते",
+            "eid": "6300",
+            "pagenum": 98,
+            "content": "ऋते/¦ (<ab>loc.</ab> as <ab>prep.</ab>) except, besides, without (<ab>abl.</ab> or <ab>acc.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ऋते",
+            "eid": "3887",
+            "pagenum": 64,
+            "content": "ऋते¦ <i>(Loc.) Praep.</i> außer, angenommen, ohne <i>(Abl. o. Acc.).</i>"
+        },
+        {
+            "word": "ऋते",
+            "eid": "29785",
+            "pagenum": 539,
+            "content": "ऋते/¦ <i>l.</i> ausgenommen <i>st.</i> angenommen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ऋते",
+            "eid": "2224",
+            "pagenum": 288,
+            "content": "<b>ṛté,</b>¦ <i>mit Ausschluss von</i> (<ab>Ab.</ab>) <i>ohne, ausser</i> [muss <ab>Loc.</ab> von ṛtá sein, aber der Bedeutungsübergang ist unklar], 1〉 mit unmittelbar vorhergehendem <ab>Abl.</ab>: yásmāt {18,7}; índrāt {781,6}; 2〉 vom vorhergehenden <ab>Abl.</ab> durch ein Wort oder durch mehrere getrennt: yásmāt {203,9}; yásmāt índrāt {207,2}; 3〉 mit unmittelbar folgendem <ab>Abl.</ab>: tuát {527,1}; {938,9}; 4〉 vom folgenden <ab>Abl.</ab> durch ein Wort oder durch mehrere getrennt: abhiśrísas {621,12}; padébhyas {622,39}; yudhás {647,17}."
+        },
+        {
+            "word": "ऋते",
+            "eid": "12244",
+            "pagenum": 1757,
+            "content": "<b>ṛté:</b>¦<info vn='add 221 gra'/> <div n='P'>1〉 vṛṣā́kapes {912,12}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ऋते",
+            "eid": "925",
+            "pagenum": 136,
+            "content": "<b>ṛté,</b>¦ <i><ab>prep.</ab></i> without; except. [<ls n='wg,1128'>1128</ls> end, <ls n='wg,1129'>1129</ls> end.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ऋते",
+            "eid": "07322",
+            "pagenum": 151,
+            "content": "fte¦ <i>ind.</i> Except, with the exception of, without, (with the acc., inst. or abl.), e.g. शक्तोऽन्यः सहितुं वेगमृते देवं पिनाकिनम्, अवेहि मां प्रीतमृते तुरंगमात् <ls>R.</ls>iii.63. (The instrumental is very rarely used with this preposition.)"
+        }
     ]
 }

@@ -47,5 +47,99 @@
             "pagenum": 611,
             "content": "वीत¦ <i>vīta</i> <ab>pp.</ab> de <i>vī</i> et de <i>vye.</i>  <P><i>vītadambha</i> <ab>a.</ab> exempt d'orgueil.  <P><i>vītamatsara</i> <ab>a.</ab> exempt d'envie.  <P><i>vītamanyu</i> <ab>a.</ab> exempt de colère, exempt de souci ou de chagrin.  <P><i>vītarāga</i> <ab>a.</ab> exempt de passion. -- <ab>S.</ab> <ab>m.</ab> le chasse-mouches de <s1 slp1='maYjuSrI'>Mañjuśrī</s1>, <ab>Bd.</ab>  <P><i>vītaśoka</i> <ab>a.</ab> exempt de douleur -- <ab>S.</ab> <ab>m.</ab> jonesia asoca, <ab>bot.</ab>  <P><i>vītahavya</i> <ab>a.</ab> (de <i>vye)</i> chargé de l'holocauste, <lbinfo n='7'/> couvert par l'offrande, <ab>ép.</ab> d'<s1 slp1='agni'>Agni</s1>, <ab>Vd.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वीत",
+            "eid": "30640",
+            "pagenum": 515,
+            "content": "1 वीत/¦ <lex>a.</lex> straight, even; wished for, desired, <lex>n.</lex> wish, desire."
+        },
+        {
+            "word": "वीत",
+            "eid": "30641",
+            "pagenum": 515,
+            "content": "2 वीत/¦ <lex>a.</lex> gone, ceased (—°)."
+        },
+        {
+            "word": "वीत",
+            "eid": "30642",
+            "pagenum": 515,
+            "content": "3 वीत¦ <lex>a.</lex> hidden, concealed; covered in, girt with (<ab>instr.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वीत",
+            "eid": "23229",
+            "pagenum": 420,
+            "content": "1. वीत/¦ <i>s.</i> 1. वी."
+        },
+        {
+            "word": "वीत",
+            "eid": "23230",
+            "pagenum": 420,
+            "content": "2. वीत/¦ <i>s.</i> 2. इ."
+        },
+        {
+            "word": "वीत",
+            "eid": "23231",
+            "pagenum": 420,
+            "content": "3. वीत¦ <i>s.</i> व्या."
+        },
+        {
+            "word": "वीत",
+            "eid": "23232",
+            "pagenum": 420,
+            "content": "4. वीत/¦ schlicht, gerade, eben."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वीत",
+            "eid": "8303",
+            "pagenum": 1315,
+            "content": "<hom>1.</hom> <b>vītá,</b>¦ <ab>Part.</ab> II. von vī."
+        },
+        {
+            "word": "वीत",
+            "eid": "8303.1",
+            "pagenum": 1315,
+            "content": "<hom>2.</hom> <b>vītá,</b>¦ <ab>Part.</ab> II. von vyā."
+        },
+        {
+            "word": "वीत",
+            "eid": "8304",
+            "pagenum": 1315,
+            "content": "<hom>3.</hom> <b>vītá,</b>¦ <ab>a.</ab>, <i>gerade, geradlinigt,</i> nicht krumm oder höckerig. Gegensatz vṛjiná {298,11} [wol von <hom>1.</hom> vī in dem Sinne: gerade ausgehen]. <div n='TS'>-ā́ [<ab>n.</ab>] pṛṣṭhā́ {298,11}. <div n='TS'>-ā́ [<ab>f.</ab>] stukā́ {809,17}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वीत",
+            "eid": "3973",
+            "pagenum": 248,
+            "content": "<b>vīta,</b>¦ <i>see</i> <b>√i + vi;</b> <i>also referable to roots</i> <b>vī</b> <i>and</i> <b>vyā.</b>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वीत",
+            "eid": "35930",
+            "pagenum": 684,
+            "content": "vIta¦ <i>(I) a. (f. ता)</i> 1. Gone; 2. gone away, departed; 3. loosed, set free; 4. excepted; 5. appproved, liked, accepted; 6. unfit for war; 7. freed from, devoid of."
+        },
+        {
+            "word": "वीत",
+            "eid": "35931",
+            "pagenum": 684,
+            "content": "vIta¦ <i>(II) m.</i> An elephant or horse unfit for war."
+        },
+        {
+            "word": "वीत",
+            "eid": "35932",
+            "pagenum": 684,
+            "content": "vIta¦ <i>(III) n.</i> The goading of an elephant, निर्धूतवीतमपि बालकमुल्ललंतम् <ls>Sis.</ls>v.47."
+        }
     ]
 }

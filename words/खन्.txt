@@ -31,5 +31,45 @@
             "pagenum": 202,
             "content": "*खन्¦ <i>khan.</i> <i>khanāmi</i> et <i>khane</i> 1; <ab>p.</ab> <i>cakhāna</i> <lbinfo n='7'/> et <i>cakhne;</i> <ab>f2.</ab> <i>khaniṣyāmi</i> et <i>khaniṣye;</i> <ab>a1.</ab> <i>akhaniṣam, akhāniṣa,</i> et <i>akhaniṣi;</i> <ab>gér.</ab> <i>khanitvā</i> et <i>khātvā.</i> <ab>Ps.</ab> <i>khanye</i> et <i>kāye;</i> <ab>pf.</ab> <ab>ps.</ab> <i>kheya;</i> <ab>pp.</ab> <i>khāta.</i> Fouir, creuser, fouiller: <i>pṛthivīm</i> la terre; <i>khanim</i> une mine. <ab>Gr.</ab> <lang n='greek'>χαίνω</lang> <ab>(?)</ab>; <ab>lat.</ab> canalis, cuniculus."
         }
+    ],
+    "CAE": [
+        {
+            "word": "खन्",
+            "eid": "9049",
+            "pagenum": 144,
+            "content": "खन्¦ ख/नति ख/न°ते <vlex type='root'/> <ab>pp.</ab> खात dig, dig up, delve, bury. <ab>C.</ab> खानयति. <div n='p'>— अभि turn up (the soil). <div n='p'>उद् root up, extract, exterminate, destroy. <div n='p'>प्रोद् & समुद् the same. <div n='p'>नि bury, inter; dig up, root up; infix, pierce. <div n='p'>निस् dig out. <div n='p'>परि dig round, dig up. <div n='p'>प्र eradicate, overturn. <div n='p'>वि dig up. — Cf. अन्तर्निखात, उत्खात."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "खन्",
+            "eid": "5857",
+            "pagenum": 101,
+            "content": "खन्¦ ख/नति, °ते graben, aufgraben, durchwühlen. <lbinfo n='7'/> <i>p.p.</i> खात/. — उद् ausgraben, ausreißen, ausrotten. नि eingraben, einbohren."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "खन्",
+            "eid": "2849",
+            "pagenum": 372,
+            "content": "<b>√khan,</b>¦ <i>graben,</i> insbesondere 1〉 ohne Object; 2〉 Pflanzen (óṣadhīs) <i>ausgraben;</i> 3〉 einen Brunnen (útsam, avatám) <i>graben</i>. <div n='Pf'>Mit <b>ā́</b>, <i>hineingraben,</i> in ākhú, ākhará. <div n='Pf'><b>ní,</b> <i>vergraben</i> (Gold, Schätze). <div n='H'>Stamm <b>khána</b> (unbetont {971,1}): <div n='TS'>-āmi 2〉 vas (ósadhīs) {923,20}; óṣadhim {971,1}. <div n='H'><ab>Imperf.</ab> <b>ákhana:</b> <div n='TS'>-anta 3〉 útsam {927,11}. <div n='H'><ab>Part.</ab> <b>khánat</b> (in á-khanat). <div n='H'><ab>Part.</ab> <b>khánamāna:</b> <div n='TS'>-as 1〉 khanítrais {179,6}. <div n='H'><ab>Part.</ab> II. <b>khātá, khāta:</b> <div n='TS'>-am <b>ní:</b> rukmám {117,5}; kaláśam híraṇyasya {117,12}; vásu {675,4}. <div n='TS'>-ā́s 3〉 avatā́s {346,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "खन्",
+            "eid": "1306",
+            "pagenum": 147,
+            "content": "<b>√khan</b>¦ <i>or</i> <b>khā</b> (<b>khánati, -te; cakhā́na,</b> <b>cakhnús; ákhān</b> [<ls n='wg,890'>890]</ls>; <b>khaniṣyáti;</b> <b>khātá; khánitum; khanitvā́, khātvā́;</b> <b>-khā́ya; khanyáte, khāyáte; khānáyati</b>). dig; <i><ab>caus.</ab></i> cause to be dug. [if for <b>*skan,</b> <ab>cf.</ab> <ab>Lat.</ab> <i>can-ālis,</i> ‘ditch, canal.’] <div n='p'/><b>+ ā,</b> dig, burrow, <i>in</i> <b>ākhu.</b>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "खन्",
+            "eid": "11244",
+            "pagenum": 226,
+            "content": "Kan¦ <i>vt. 1U (pp. खात; pass. खन्यते or खायते)</i> To dig up, to delve, to excavate, <ls>M.</ls>ii.218, <ls>Rt.</ls>i.17.<P>With अभि-, to dig.<P>With उद्-, to dig out, to root out, to eradicate (lit. and fig.), <ls>R.</ls>iv.37, <ls>Bt.</ls>xii.5, xv.55, <ls>Megh.</ls>i.52, <ls>R.</ls>iv.33, 36, xiv.73.<P>With नि-, to dig, to dig up; 2. to bury, वसुधायां निचख्नतुः <ls>R.</ls>xii.30, <ls>Yaj.</ls>iii.1, <ls>Bt.</ls>xvi.22; 3. to fix, to implant, to pierce, निचखान शरं भुजे <ls>R.</ls>iii.55, xii.90, <ls>Bt.</ls>iii.8.<P>With परि-, to dig round."
+        }
     ]
 }

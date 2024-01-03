@@ -55,5 +55,59 @@
             "pagenum": 654,
             "content": "शूद्र¦ <i>śūdra</i> <ab>m.</ab> homme de la 4ᵉ caste, non <s1 slp1='Arya'>ārya</s1>. -- <ab>F.</ab> <i>śūdrā</i> femme de cette caste. -- <ab>F.</ab> <i>śūdrānī</i> femme d'un <s1 slp1='SUdra'>śūdra</s1>.  <P><i>śūdradharma</i> <ab>m.</ab> condition de <s1 slp1='SUdra'>śūdra</s1>; || loi de la caste des <s1 slp1='SUdra'>śūdra</s1>s.  <P><i>śūdrapreṣya</i> <ab>m.</ab> <s1 slp1='Arya'>ārya</s1> devenu serviteur d'un <s1 slp1='SUdra'>śūdra</s1>.  <P><i>śūdraśāsana</i> <ab>n.</ab> édit adressé aux <s1 slp1='SUdra'>śūdra</s1>s ou à <ab>qqn.</ab> d'entre eux.  <P><i>śūdrārttā</i> <ab>f.</ab> la <s1 slp1='priyaNgu'>priyaṅgu</s1>, <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "शूद्र",
+            "eid": "32934",
+            "pagenum": 554,
+            "content": "शूद्र/¦ <lex>m.</lex> आ/ or ई <lex>f.</lex> a man and woman of the fourth caste."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शूद्र",
+            "eid": "24914",
+            "pagenum": 449,
+            "content": "शूद्र/¦ <i>m.</i> ein Mann der vierten Kaste <i>(f.</i> शूद्रा/ <i>u.</i> शूद्री)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "शूद्र",
+            "eid": "8887",
+            "pagenum": 1410,
+            "content": "<b>śūdrá,</b>¦ <ab>m.</ab>, <i>Angehöriger der vierten Kaste</i> (in einem sehr späten Liede). <div n='TS'>-ás {916,12} (neben brāhmaṇás, rājanías, vaíśyas)."
+        }
+    ],
+    "INM": [
+        {
+            "word": "शूद्र",
+            "eid": "2800",
+            "pagenum": 218,
+            "content": "<b>Śūdra</b>,¦ pl. (<i>°āḥ</i>), a people, mostly mentioned together with the Abhīras. § 285 (Nakula): II, <b>32</b>, 1192 (<i>°ābhīragaṇāḥ</i>, in the west, vanquished by Nakula on his digvijaya).—§ 574 (Jambūkh.): VI, <b>9</b>ο, 375 (<i>°ābhīrāḥ</i>, in the north-east).— § 589 (Droṇābhiṣek.): VII, <b>7</b>ζ, 183 (in the rear of Droṇa's array).—§ 592 (Saṃśaptakavadhap.): VII, <b>20</b>γ, 798 (<i>°ābhīrāḥ</i>, in the neck of Droṇa's garuḍavyūha).—§ 615 (Baladevatīrthay.): IX, <b>57</b>, 2119 (<i>°ābhīrān prati dveṣād</i> <i>yatra naṣṭā Sarasvatī</i>, sc. at Vinaśana)."
+        },
+        {
+            "word": "शूद्र",
+            "eid": "2801",
+            "pagenum": 218,
+            "content": "<b>Śūdra</b><sup>2</sup>,¦ pl. (<i>°āḥ</i>) = Śiva (1000 names<sup>1</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "शूद्र",
+            "eid": "4243",
+            "pagenum": 260,
+            "content": "<b>śūdrá,</b>¦ <i><ab>m.</ab></i> a man of the fourth caste, a Śūdra."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शूद्र",
+            "eid": "38139",
+            "pagenum": 725,
+            "content": "SUdra¦ <i>m.</i> A man of the fourth or survile tribe; (the <i>Śūdra</i>, is said to have been born from the feet of <i>Purusha</i> in <ls>R.V.</ls>x.90; his business was to serve the three higher castes, <ls>M.</ls>i.91)."
+        }
     ]
 }

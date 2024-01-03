@@ -7,5 +7,29 @@
             "pagenum": 812,
             "content": "भाटं, भाटकं¦ Wages, hire, rent."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भाट",
+            "eid": "22773",
+            "pagenum": 376,
+            "content": "भाट¦ <lex>n.</lex>  wages, hire, rent."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भाट",
+            "eid": "17301",
+            "pagenum": 304,
+            "content": "भाट¦ <i>u.</i> °क <i>n.</i> Mietsgeld, Pacht."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भाट",
+            "eid": "27321",
+            "pagenum": 523,
+            "content": "BAwa¦ <i>n.</i> Wages, hire, rent."
+        }
     ]
 }

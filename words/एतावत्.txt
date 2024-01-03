@@ -23,5 +23,33 @@
             "pagenum": 126,
             "content": "एतावत्¦ <i>etāvat</i> <ab>a.</ab> (<ab>sfx.</ab> <i>vat)</i> tel; celui-ci. <ab>M§</ab> 113."
         }
+    ],
+    "GRA": [
+        {
+            "word": "एतावत्",
+            "eid": "2300",
+            "pagenum": 299,
+            "content": "<b>etā́vat,</b>¦ <ab>a.</ab>, <i>so gross</i> [von etá]; 2〉 <i>so viel;</i> 3〉 das <ab>neutr.</ab> auch als Adverb <i>so sehr</i>. <div n='TS'>-ān mahimā́ {916,3}. <div n='TS'>-antam (víṣṇum) {616,1}. <div n='TS'>-at (anyád) {857,8}. — 2〉 {548,18} (<ab>Rel.</ab> yā́vatas); {625,27} (Gegensatz bhū́yas). — 3〉 {573,3} (<ab>Rel.</ab> yáthā). <div n='TS'>-atā énasā {958,4}. <div n='TS'>-atas [<ab>G.</ab>] ádābhiasya {627,15}; sumnásya {1018,9}; návyasas {1019,9}. <div n='TS'>-atī ahám (vā́c) {951,8}."
+        },
+        {
+            "word": "एतावत्",
+            "eid": "12257",
+            "pagenum": 1758,
+            "content": "<b>etā́vat:</b>¦<info vn='add 234 gra'/> <div n='TS'>-at 2〉 {433,10} (Gegensatz bhū́yas)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "एतावत्",
+            "eid": "07477",
+            "pagenum": 153,
+            "content": "etAvat¦ <i>(I) a. (f. ती)</i> So much, so great, so many, of such extent, एतावदुक्त्वा विरते मृगेन्द्रे <ls>R.</ls>ii.51."
+        },
+        {
+            "word": "एतावत्",
+            "eid": "07478",
+            "pagenum": 153,
+            "content": "etAvat¦ <i>(II) ind.</i> So far, so much, in such a degree."
+        }
     ]
 }

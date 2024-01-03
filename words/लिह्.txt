@@ -37,5 +37,35 @@
             "pagenum": 554,
             "content": "*लिह्¦ <i>lih.</i> <i>lehmi, lihe</i> 2 [<i>lekṣi, leḍhi,</i> <ab>etc.</ab>] <ab>qqf.</ab> <i>lihāmi</i> 1; <ab>p.</ab> <i>lileha, lilihe;</i> <ab>f1.</ab> <i>leḍhāsmi;</i> <ab>f2.</ab> <i>lekṣyāmi, lekṣye;</i> <ab>a1.</ab> <i>alikṣam, alikṣi</i> [<ab>3p.</ab> <i>alīḍha</i>]; <ab>pp.</ab> <i>līḍha.</i> Lécher. <ab>Gr.</ab> <lang n='greek'>λείχω</lang>; <ab>lat.</ab> lingo; <lbinfo n='3'/> <ab>goth.</ab> laigô; <ab>fr.</ab> lécher; <ab>ang.</ab> lick; <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "लिह्",
+            "eid": "27606",
+            "pagenum": 462,
+            "content": "1 लिह्¦ लेढि लीढे लिहति <vlex type='root'/> <ab>pp.</ab> लीढ lick, lick up, lick at (<ab>loc.</ab>), lick away <ab>i.e.</ab> destroy. <ab>C.</ab> लेह/यति cause to lick. <ab>I.</ab> लेलिह्यते <ab>etc.</ab> (<ab>pp.</ab> लेलिहान) lick frequently, play with the tongue. <div n='p'>— अव, आ, उद् lick, touch (with mouth or beak). <div n='p'>उप <ab>M.</ab> enjoy by licking. <div n='p'>निस् lick off, sip. <div n='p'>परि lick at (<ab>acc.</ab>); <ab>I.</ab> lick frequently. <div n='p'>वि the same. <div n='p'>सम् & परिसम् lick at, enjoy. — Cf. आलीढ, उल्लीढ."
+        },
+        {
+            "word": "लिह्",
+            "eid": "27607",
+            "pagenum": 462,
+            "content": "2 लिह्¦ (—°) licking."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "लिह्",
+            "eid": "20924",
+            "pagenum": 375,
+            "content": "1. लिह्,¦ लेढि, लीढे, लिहति lecken, belecken, <lbinfo n='7'/> schlürfen, genießen; <i>p. p.</i> लीढ beleckt, weggeleckt, vertilgt. <i>Caus.</i> लेय/ति lecken lassen. <i>Instens</i> लेलिहते, °ति, <i>Partic.</i> लेलिहान beständig lecken, zügeln. अव belecken, mit dem Munde berühren; <i>p. p.</i> अवलीढ beleckt, berührt. आ <i>dass.; p. p.</i> आलीढ beleckt <i>(auch</i> <i>übertr.)</i>, ergriffen, verzehrt von (—°). वि <i>u.</i> सम् lecken, belecken."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "लिह्",
+            "eid": "32768",
+            "pagenum": 626,
+            "content": "lih¦ <i>vt. 2U (pp. लीढ; pres. लेढि, लीढे; desid. लिलिक्षति-ते)</i> 1. To lick, लेढि जिग्रति संक्षिप्य करोत्युन्नतमासनम् <ls>Bh.V.</ls>i.99, <ls>Kir.</ls>v.38; 2. to taste, to sip.<P>With अव-, to lick, to chew, दर्भैरर्धावलीढैः <ls>Sak.</ls>i.<P>With आ-, 1. to lick; 2. to pierce, to wound, सेनान्यमालीढमिवासुरास्त्रैः <ls>R.</ls>ii.37.<P>With उद्-, to polish, मणिः शाणोल्लीढः <ls>Bhartr.</ls>ii.44."
+        }
     ]
 }

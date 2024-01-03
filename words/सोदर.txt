@@ -36,5 +36,35 @@
             "pagenum": 730,
             "content": "सोदर¦ <i>sodara</i> <ab>a.</ab> <i>(sam; udara)</i> frère.  <P><i>sodarya</i> <ab>m.</ab> frère."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सोदर",
+            "eid": "38071",
+            "pagenum": 635,
+            "content": "सोदर¦ <lex>f.</lex> ई born from the same womb; <lex>m.</lex> (±भ्रातृ) & <lex>f.</lex> ई such a brother and sister."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सोदर",
+            "eid": "28392",
+            "pagenum": 509,
+            "content": "सोदर¦ <i>m.</i>, ई <i>f.</i> leiblicher Bruder, leibliche Schwester <i>(eig.</i> aus demselben Mutterleib <lbinfo n='4'/> kommend)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सोदर",
+            "eid": "41622",
+            "pagenum": 797,
+            "content": "sodara¦ <i>(I) a. (f. रा)</i> Born from the same womb, uterine."
+        },
+        {
+            "word": "सोदर",
+            "eid": "41623",
+            "pagenum": 797,
+            "content": "sodara¦ <i>(II) m.</i> A uterine brother."
+        }
     ]
 }

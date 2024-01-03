@@ -15,5 +15,45 @@
             "pagenum": 8,
             "content": "अग्रिय¦ <i>agriya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>iya)</i> <ab>mms.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अग्रिय",
+            "eid": "268",
+            "pagenum": 4,
+            "content": "अग्रिय/¦ <lex>a.</lex> the same, principal, best, excellent; <lex>n.</lex> the best."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अग्रिय",
+            "eid": "178",
+            "pagenum": 3,
+            "content": "अग्रिय/¦ <i>n.</i> erst, vorzüglich erstgeboren; <i>n.</i> das Beste."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अग्रिय",
+            "eid": "109",
+            "pagenum": 11,
+            "content": "<b>agriyá,</b>¦ <ab>a.</ab>, der vorangehende, voranstehende [von ágra], daher 1〉 <i>der erste,</i> 2〉 <i>der einem andern</i> (Genetiv) <i>vorangeht,</i> 3〉 <i>der vorzüglicher ist als ein anderer</i> (<ab>Gen.</ab> oder vielleicht <ab>Abl.</ab>), 4〉 <i>der vorzüglichste,</i> 5〉 <i>der erstgeborene</i>. <div n='TS'>-ás 1〉 {16,7} (stómas); {646,25} (<ab>v.</ab> Vaju); {946,8} (suarṣā́s); (sómas) {774,26}. 2〉 vācás: {719,3}; {774,25}; {798,12} (<ab>v.</ab> Soma); uṣásas {795,3}. 3〉 mádhvas {719,2}. <div n='TS'>-ám (<ab>m.</ab>) 1〉 agním: {457,48}. 5〉 tváṣṭāram {13,10}. <div n='TS'>-ám [<ab>n.</ab>] 3〉 {608,2} (mádhvas). 4〉 {333,4}; {783,4}. <div n='TS'>-ā́ [<ab>n.</ab> <ab>p.</ab>] 4〉 {330,3}. <div n='TS'>-ā́ [<ab>N.</ab> <ab>f.</ab>] 1〉 uṣásām {921,2}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अग्रिय",
+            "eid": "542",
+            "pagenum": 15,
+            "content": "अग्रिय¦ I. m. f. n. (-यः-या-यम्) Chief, principal, best. <div n='P'>II. m. (-यः) The first-born, an elder brother. See also अग्रीय and अग्र्य. E. अग्र, taddh. aff. घ."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अग्रिय",
+            "eid": "00304",
+            "pagenum": 5,
+            "content": "agriya¦ <i>m.</i> An elder brother."
+        }
     ]
 }

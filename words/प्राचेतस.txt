@@ -36,5 +36,43 @@
             "pagenum": 451,
             "content": "प्राचेतस¦ <i>prācetasa</i> <ab>m.</ab> <s1 slp1='vAlmIki'>Vālmīki</s1>, fils de <i>pracetas.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "प्राचेतस",
+            "eid": "21201",
+            "pagenum": 349,
+            "content": "प्राचेतस¦ <lex>m.</lex> patron. from प्र/चेतस्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "प्राचेतस",
+            "eid": "16050",
+            "pagenum": 281,
+            "content": "प्राचेतस¦ <i>m. Patron. von</i> प्रचेतस्."
+        }
+    ],
+    "INM": [
+        {
+            "word": "प्राचेतस",
+            "eid": "8447",
+            "pagenum": 554,
+            "content": "<b>Prācetasa</b><sup>1</sup>¦ (“son of the ten Pracetasaḥ”) = Dakṣa: I, 33 (<i>D°</i>), 3130 (<i>D°</i>), 3131 (<i>D°</i>); XII, 666 (<i>D°</i>), 695 (<i>D°</i>), 6136 (<i>D°</i>), 10272 (<i>D°</i>); XIII, 2484 (<i>?°sya vacanaṃ</i>), 6830 (C. has by error <i>Pra°</i>)."
+        },
+        {
+            "word": "प्राचेतस",
+            "eid": "8448",
+            "pagenum": 554,
+            "content": "<b>Prācetasa</b><sup>2</sup>¦ (do.) = Manu<sup>3</sup>: XII, 2089 (<i>M°</i>), 2093 (<i>M°</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "प्राचेतस",
+            "eid": "25265",
+            "pagenum": 487,
+            "content": "prAcetasa¦ <i>m.</i> 1. A patronymic of Manu; 2. of Daksha; 3. of Vālmīki."
+        }
     ]
 }

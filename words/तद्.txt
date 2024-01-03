@@ -31,5 +31,59 @@
             "pagenum": 283,
             "content": "तद्¦ <i>tad,</i> par euph. pour <i>tat.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "तद्",
+            "eid": "11840",
+            "pagenum": 195,
+            "content": "तद्¦ <lex>n.</lex> sg. of त/ (°— used also as stem), as <ab>adv.</ab> there, then; therefore, accordingly; now, and; often connecting two sentences & <ab>correl.</ab> to यद्, येन, यतस्, यदि, or चेद्. — तदपि nevertheless, even; तद्यथा for instance."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तद्",
+            "eid": "8131",
+            "pagenum": 145,
+            "content": "त/द्¦ <i>(= Pron. -St.</i> त° —, <i>u. Nom. Acc. Sg.</i> <i>n. von dems.)</i> da(hin), dor(hin); damals, dann, darum, deshalb, also, nun, und, so <i>(im Nachs.). Oft correl. zu</i> यद्, येन, यतस्, यदि <i>o.</i> चेद्। तदपि sogar, तद्यथा so zum Beispeil."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तद्",
+            "eid": "3627",
+            "pagenum": 513,
+            "content": "<b>tád</b>¦ <ab n='siehe'>s.</ab> tá."
+        }
+    ],
+    "INM": [
+        {
+            "word": "तद्",
+            "eid": "10704",
+            "pagenum": 672,
+            "content": "<b>Tad</b>¦ (or <b>Yat-tad</b>) = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तद्",
+            "eid": "1686",
+            "pagenum": 161,
+            "content": "<b>tád,</b>¦ <div n='2'/><b>—1.</b> <i>as <ab>nom.</ab> <ab>acc.</ab> <ab>s.</ab> <ab>n.</ab> to</i> <b>ta,</b> <i>see</i> <b>ta;</b> <i>used</i> <i>also in <ab>cpds</ab> and derivatives, see</i> <ls n='wg,497'>497</ls>; <div n='2'/><b>—2.</b> <i>as <ab>adv.</ab></i> there; <b>yatra…tad,</b> where…there, <ls n='lan,103,18'>103<sup>18</sup></ls>; <div n='2'/><b>—3.</b> then, in that case, <ls n='lan,27,17'>27<sup>17</sup></ls>, <ls n='lan,36,5'>36<sup>5</sup></ls>; ced…tad, if…then, <ls n='lan,37,5'>37<sup>5</sup></ls>; <i>so</i> <b>yadi…tad,</b> <ls n='lan,37,12'>37<sup>12</sup></ls>; <b>tad…yad,</b> then…when, <ls n='lan,71,2'>71<sup>2</sup></ls>; <i>simply </i> <lbinfo n='sim-ply'/> <i>continuative:</i> <b>tat ko vṛtras,</b> who then is <ab>V.</ab>, <ls n='lan,97,19'>97<sup>19</sup></ls>; <i>so</i> <ls n='lan,24,2'>24<sup>2</sup></ls>; <div n='2'/><b>—4.</b> in this way, <i><ab>i. e.</ab></i> therefore, accordingly, <ls n='lan,18,8'>18<sup>8</sup></ls>, <ls n='lan,19,13, 22'>19<sup>13, 22</sup></ls>, <ls n='lan,27,14'>27<sup>14</sup></ls>, <ab>etc.</ab>; <b>yad…tad,</b> since…therefore, <ls n='lan,17,6'>17<sup>6</sup></ls>; <i>so</i> <b>yatas…tad,</b> <ls n='lan,37,7'>37<sup>7</sup></ls>. [<ab>cf.</ab> <ls n='wg,495'>495.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तद्",
+            "eid": "15109",
+            "pagenum": 301,
+            "content": "tad¦ <i>(I) pron. (nom. sing. सः m., सा f., and तत् n.)</i> 1. He, she, it; 2. that, referring to something not present (तदिति परोक्षे विजानीयात्); 3. that (relating to something seen or experienced before), तन्मंजु मंदहसितं श्वसितानि तानि सा वै कलंकविधुरा मधुराननश्रीः <ls>Bh.V.</ls>ii.5; 4. that (meaning well-known or celebrated), सा रम्या नगरी महान्स नृपतिः सान्तचक्रं च तत् <ls>Bhartr.</ls>iii.37.<P>With a following एव, तद् means ‘the same, identical, that very.’ It is sometimes used with the 1st and 2nd personal pronouns as well as with demonstratives and relatives for the sake of emphasis, सोऽहमिज्याविशुद्धात्मा <ls>R.</ls>i.68.<P>When repeated, it has the sense of ‘various,’ ‘several’ <ls>Bg.</ls>vii.20.<P>(The inst. sing. तेन is used as an indeclinable, in the sense of ‘therefore, for that reason, on that account.’)"
+        },
+        {
+            "word": "तद्",
+            "eid": "15110",
+            "pagenum": 301,
+            "content": "tad¦ <i>(II) ind.</i> 1. Thither; 2. then, at that time, in that case; 3. therefore, consequently, <ls>Megh.</ls>i.7; 4. then (as a correlative of यदि), यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः । धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् <ls>Bg.</ls>i.45."
+        }
     ]
 }

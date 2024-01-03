@@ -15,5 +15,61 @@
             "pagenum": 126,
             "content": "एन¦ <i>ena</i> <ab>th.</ab> de <i>eṣas.</i> || À l'<ab>ac.</ab> <i>enam</i> comparez <lbinfo n='5'/> le <ab>lat.</ab> enim."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एन",
+            "eid": "6567",
+            "pagenum": 102,
+            "content": "1 एन¦ <ab>pron.</ab> stem of 3d <ab>pers.</ab> (used subst.)."
+        },
+        {
+            "word": "एन",
+            "eid": "6568",
+            "pagenum": 102,
+            "content": "2 एन¦ <lex>m.</lex> deer (only —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एन",
+            "eid": "4047",
+            "pagenum": 67,
+            "content": "1. एन¦ <i>(encl.) Pron.-St. der 3. Pers. (subst.).</i>"
+        },
+        {
+            "word": "एन",
+            "eid": "4048",
+            "pagenum": 67,
+            "content": "2. एन¦ <i>u.</i> एना <i>(encl. Instr. von 1.</i> अ) dann, alsdann. एना/ <i>adv.</i> hier, da, dann, so."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "एन",
+            "eid": "2308",
+            "pagenum": 300,
+            "content": "<b>ena,</b>¦ <ab>pr.</ab>, <i>er, sie</i> [aus e weitergebildet, wie é-ka, éva]; nur einmal steht es zu Anfang einer Verszeile und ist dort auf zweiter Silbe betont (enā́m {626,19}). <div n='TS'>-am {9,2}; {24,13}; {32,3}; {80,9}. _{80,12}; {94,2}; {96,6}; {123,1}; {162,3}. _{162,7}; {163,2}; {203,5}; {213,1}; {236,7}; {243,5}; {266,13}; {270,4}; {293,2}; {298,9}; {313,5}; {319,3}; {320,10}; {334,5}. _{334,9}; {396,3}; {465,10}; {479,2}. _{479,4}; {483,2}; {497,1}; {517,6}; {544,5}; {549,14}; {619,2}; {621,19}; {622,37}; {643,9}; {675,7}; {689,4}; {746,6}; {821,20}; {840,11}; {842,1}. _{842,2}. _{842,4}; {844,11}; {854,2}; {860,4}; {870,3}; {871,1}. _{871,8}; {897,5}; {899,10}; {913,5}. _{913,8}. _{913,11}. _{913,15}; {914,11}; {921,14}; {928,5}; {956,2}; {987,1}—_{987,3}; {994,2}. <div n='TS'>-os [<ab>G.</ab> <ab>d.</ab> <ab>m.</ab> statt -ayos] {136,1}. _{136,5}; {510,8}; {619,4}. <div n='TS'>-ān {161,5}; {406,6}; {619,3}; {887,23}; {913,18}; {919,2}; {936,3}. <div n='TS'>-ām {164,26}; {897,4}. <div n='TS'>-ā́m {626,19}. <div n='TS'>-e [<ab>d.</ab> <ab>f.</ab>] dyā́vapṛthivī́ {908,1}; {146,2}. <div n='TS'>-ās [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] {706,14}; {809,29}; {845,2}. _{845,8}; {856,14}; {934,5}."
+        },
+        {
+            "word": "एन",
+            "eid": "2309",
+            "pagenum": 300,
+            "content": "<b>(éna),</b>¦ <ab>m.</ab>, <i>Hirsch</i> = éta, enthalten in an-ená; aus ihm stammt das <ab>fem.</ab> énī [<ab n='siehe'>s.</ab> éta]."
+        },
+        {
+            "word": "एन",
+            "eid": "12258",
+            "pagenum": 1758,
+            "content": "<b>ena:</b>¦<info vn='add 235 gra'/> <div n='TS'>-am {621,17}; {858,8}; {874,9}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "एन",
+            "eid": "968",
+            "pagenum": 137,
+            "content": "<b>ena</b>¦ [<ls n='wg,500'>500]</ls>, <i><ab>encl.</ab> <ab>pron.</ab> used only substantively;</i> <lbinfo n='substantive-ly;'/> <i>unemphatic</i> him, her, it, them. [<ab>pron.</ab> root e.]"
+        }
     ]
 }

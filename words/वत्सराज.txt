@@ -49,5 +49,37 @@
             "pagenum": 3,
             "content": "वत्सराज¦ <HI1>Maṇikarṇikālaharī kāvya."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वत्सराज",
+            "eid": "27986",
+            "pagenum": 470,
+            "content": "वत्सराज¦ <lex>m.</lex> = वत्सपति."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वत्सराज",
+            "eid": "21219",
+            "pagenum": 381,
+            "content": "वत्सराज¦ <i>m.</i> = वत्सपति."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वत्सराज",
+            "eid": "11748",
+            "pagenum": 720,
+            "content": "<b>Vatsarāja</b>¦ (“the king of the Vatsas”). § 232 (Svayaṃvarap.): I, <b>186</b>, 7002 (came to the svayaṃvara of Draupadī)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वत्सराज",
+            "eid": "33343.1",
+            "pagenum": 636,
+            "content": "vatsa-rAja¦ <i>m.</i> a king of the <i>Vatsas</i>, लोके हारि च वत्सराजचरितं नाट्ये च दक्षा वयम् <ls>Rat.</ls>i."
+        }
     ]
 }

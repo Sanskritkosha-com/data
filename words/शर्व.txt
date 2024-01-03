@@ -52,5 +52,51 @@
             "pagenum": 639,
             "content": "शर्व¦ <i>śarva</i> <ab>m.</ab> <s1 slp1='Siva'>Śiva</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "शर्व",
+            "eid": "32037",
+            "pagenum": 540,
+            "content": "शर्व/¦ <lex>m.</lex> <ab>N.</ab> of a god killing with arrows, in l. l. = Rudra-Śiva."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शर्व",
+            "eid": "24267",
+            "pagenum": 438,
+            "content": "शर्व/¦ <i>m.</i> (pfeilbewaffnet) <i>Bein. Śiva's; Du.</i> शर्वौ Śarva und Śarvāṇī."
+        }
+    ],
+    "INM": [
+        {
+            "word": "शर्व",
+            "eid": "2502",
+            "pagenum": 197,
+            "content": "<b>Śarva</b><sup>1</sup>¦ = Śiva, q.v."
+        },
+        {
+            "word": "शर्व",
+            "eid": "2503",
+            "pagenum": 197,
+            "content": "<b>Śarva</b><sup>2</sup>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "शर्व",
+            "eid": "4143",
+            "pagenum": 257,
+            "content": "<b>śarvá,</b>¦ <i><ab>m.</ab></i> Śarva, name of an arrow-slaying  <lbinfo n='arrow-slay-ing'/> god; <i>later,</i> a common name for the god Śiva. [<b>śáru,</b> <ls n='wg,1209'>1209,</ls> <ab>cf.</ab> <ls n='wg,1209'>1209g</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शर्व",
+            "eid": "37248",
+            "pagenum": 711,
+            "content": "Sarva¦ <i>m.</i> 1. An epithet of Śiva, <ls>R.</ls>xi.93, <ls>K.S.</ls>vi.14; 2. an epithet of Vishṇu."
+        }
     ]
 }

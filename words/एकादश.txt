@@ -15,5 +15,49 @@
             "pagenum": 140,
             "content": "एकादश¦ <i>ekādaśa,</i> <ab>i. e.</ab> <i>ekādaśan + a.</i> <b>I.</b> ord. numb., <ab>f.</ab> <i>śi.</i> <b>1.</b> The eleventh, <ls>Man.</ls> 3, 47. <b>2.</b> Lasting eleven (months), <ls>MBh.</ls> 13, 4247. <b>II.</b> <ab>f.</ab> <i>śī,</i> The eleventh day of the half month, <ls>MBh.</ls> 13, 4234. <b> -- <ab>Comp.</ab></b> <i>Vṛṣabhaikadaśa,</i> <ab>i. e.</ab> <i>vṛṣabha-,</i> <ab>adj.</ab>, <ab>f.</ab> <i>śā,</i> having a bull as the eleventh, <ab>i. e.</ab> ten (cows) with a bull, <ls>Man.</ls> 11, 116 (117)."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एकादश",
+            "eid": "6481",
+            "pagenum": 101,
+            "content": "एकादश/¦ <lex>f.</lex> ई the eleventh."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एकादश",
+            "eid": "3997",
+            "pagenum": 66,
+            "content": "एकादश/¦ <i>f.</i> ई der elfte."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "एकादश",
+            "eid": "2286",
+            "pagenum": 297,
+            "content": "<b>ekādaśá,</b>¦ <ab>a.</ab>, 1〉 der <i>elfte</i> [von ékādaśan]; 2〉 aus elf bestehend, nur in der Verbindung devā́s tráyas ekādaśā́s, die 33 Götter [von ékādaśan]. <div n='TS'>-ám 1〉 (pátim) {911,45}. <div n='TS'>-ā́sas 2〉 {804,4}; {1026,2}. <div n='TS'>-ā́n 2〉 {659,9}. <div n='TS'>-aís 2〉 {34,11}."
+        },
+        {
+            "word": "एकादश",
+            "eid": "12252",
+            "pagenum": 1757,
+            "content": "<b>ekādaśá:</b>¦<info vn='add 229 gra'/> <div n='TS'>-aís 2〉 {655,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "एकादश",
+            "eid": "948",
+            "pagenum": 136,
+            "content": "<b>ékādaśa,</b>¦ <i><ab>num.</ab></i> eleven. [<b>éka + dáśa,</b> <ls n='wg,476'>476<sup>2</sup></ls>.]"
+        },
+        {
+            "word": "एकादश",
+            "eid": "949",
+            "pagenum": 136,
+            "content": "<b>ekādaśá,</b>¦ <i><ab>a.</ab></i> eleventh. [<b>ékādaśa, <ls n='wg,487'>487<sup>7</sup></ls>.</b>]"
+        }
     ]
 }

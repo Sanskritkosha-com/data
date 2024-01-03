@@ -37,5 +37,57 @@
             "pagenum": 738,
             "content": "*स्निह्¦ <i>snih.</i> <i>snihyāmi</i> 4; <ab>p.</ab> <i>siṣṇeha;</i> <ab>f1.</ab> <i>snehitāsmi, snegdhāsmi</i> et <i>sneḍhāsmi;</i> <ab>f2.</ab> <i>snehiṣyāmi</i> et <i>snekṣyāmi;</i> <ab>a2.</ab> <i>asniham;</i> <ab>gér.</ab> <i>snehitvā, snihitvā, snigdhvā</i> et <i>snīḍhvā;</i> <ab>pp.</ab> <i>snigdha</i> et <i>snīḍha.</i> Aimer, chérir, <ab>g.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "स्निह्",
+            "eid": "38591",
+            "pagenum": 645,
+            "content": "1 स्निह्¦ स्निह्यति स्निह्य°ते <vlex type='root'/> <ab>pp.</ab> स्निग्ध (<ab>q.v.</ab>) be supple, greasy, or moist; stick to, be fixed upon (<ab>loc.</ab>), have affection for, be fond of (<ab>loc.</ab> or <ab>gen.</ab>). <ab>C.</ab> स्नेह/यति make greasy, supple, or submissive. उप (also स्निह्यते) become supple or moist. <ab>C.</ab> conciliate, win over. — Cf. प्रस्निग्ध."
+        },
+        {
+            "word": "स्निह्",
+            "eid": "38592",
+            "pagenum": 645,
+            "content": "2 स्नि/ह्¦ <lex>f.</lex> (<ab>nom.</ab> स्नि/क्) wetness, moisture."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "स्निह्",
+            "eid": "28707",
+            "pagenum": 517,
+            "content": "स्निह्,¦ स्निह्यति, °ते klebrig, feucht, geschmeidig <lbinfo n='9'/> werden, sich heften an, Neigung <lbinfo n='4'/> empfinden zu <i>(Loc.). p. p.</i> स्निग्ध <i>s. bes. Caus.</i> स्नेह/यति fett, geschmeidig unterwürfig machen, bewältigen. प्र, <i>p. p.</i> प्रस्निग्ध sehr glatt <i>o.</i> sanft."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "स्निह्",
+            "eid": "10290",
+            "pagenum": 1605,
+            "content": "<b>√snih,</b>¦ Grundbegriff scheint: <i>feucht werden, zerschmelzen</i> [<ab>vergl.</ab> <ls>Ku. Zeitschr. 〔9,27〕</ls>], daher <ab>Caus.</ab>, <i>vernichten, tödten</i> [<ls>Naigh.</ls> vadhakarma]. <div n='H'>Stamm des <ab>Caus.</ab> <b>sneháya:</b> <div n='TS'>-at ásvāpayat nigútas 〰 ca {809,54}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "स्निह्",
+            "eid": "4771",
+            "pagenum": 280,
+            "content": "<b>√snih</b>¦ (<b>sníhyati; snigdhá</b>). <div n='2'/><b>—1.</b> be supple, greasy, moist; <i>and so</i> <div n='2'/><b>—2.</b> stick to, <i><ab>i. e.</ab>, as in <ab>Eng.</ab>,</i> be attached to, be fond of."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "स्निह्",
+            "eid": "42277",
+            "pagenum": 812,
+            "content": "snih¦ <i>vi. or vt. 4P (pp. स्निग्ध; pres. स्निह्यति)</i> 1. To be adhesive or sticky; 2. to be bland; 3. to be easily attached; 4. to have affection for, to love, किं न खलु बालेऽस्मिन्नौरस इव पुत्रे स्नुह्यति मे मनः <ls>Sak.</ls>v.; 5. to be kind to, to be pleased with; (this root and all its derivatives govern the loc. of the person or thing for whom or which affection is felt)."
+        },
+        {
+            "word": "स्निह्",
+            "eid": "42278",
+            "pagenum": 812,
+            "content": "snih¦ <i>Caus. (स्नेहयति-ते)</i> 1. to make unctuous, to anoint, to lubricate; 2. to cause to love; 3. to dissolve, to destroy, to kill."
+        }
     ]
 }

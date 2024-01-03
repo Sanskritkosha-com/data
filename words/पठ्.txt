@@ -31,5 +31,43 @@
             "pagenum": 385,
             "content": "*पठ्¦ <i>paṭh.</i> <i>paṭhāmi</i> 1; <ab>p.</ab> <i>papāṭha;</i> <ab>etc.</ab> Lire; réciter. || Au <ab>ps.</ab> Etre lu; se lire: <i>tat purāṇe</i> <i>paṭhyate</i> on trouve ceci dans le <s1 slp1='purARa'>Purāṇa</s1>. <lbinfo n='5'/>  <P><i>paṭhasamañjarī</i> <ab>f.</ab> <ab>np.</ab> d'une <s1 slp1='rAgiRI'>Rāgiṇī</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पठ्",
+            "eid": "17664",
+            "pagenum": 290,
+            "content": "पठ्¦ पठति (पठ°ते) <vlex type='root'/> read aloud, recite, rehearse; teach, mention; repeat to one's self, study, learn from (<ab>abl.</ab>). <ab>C.</ab> पाठयति teach to talk or read, teach <ab>i.g.</ab> (2 <ab>acc.</ab>); read, peruse. <ab>I.</ab> पापठीति & पापठ्यते recite often, read or study diligently. <div n='p'>—अनु speak after, repeat. <div n='p'>परि enumerate, name, mention. <div n='p'>प्र recite aloud; <ab>C.</ab> teach, explain. <div n='p'>वि & सम् read, peruse."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पठ्",
+            "eid": "13101",
+            "pagenum": 231,
+            "content": "पठ्¦ पटति (°ते) hersagen, deklamieren, vortragen, lehren, erwähnen, anführen; studieren, lesen, lernen von <i>(Abl.).</i> <i>Caus.</i> पाटयति (sprechen) lehren, unterrichten <lbinfo n='7'/> (2 <i>Acc.)</i>, lesen. अनु nachsprechen, <lbinfo n='9'/> wiederholen. परि aufzählen, aufführen, erwähnen. प्र laut hersagen; <i>Caus.</i> lesen, vortragen."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "पठ्",
+            "eid": "2420",
+            "pagenum": 185,
+            "content": "<b>√paṭh</b>¦ (<b>páṭhati; papā́ṭha; paṭhitá; paṭhitvā́;</b> <lbinfo n='paṭh-itvā́;'/> <b>pāṭháyati</b>). read aloud, <ls n='lan,54,23'>54<sup>23</sup></ls>, <ls n='lan,55,9'>55<sup>9</sup></ls>; recite, <ls n='lan,17,11'>17<sup>11</sup></ls>; repeat to one's self, study, <ls n='lan,22,11'>22<sup>11</sup></ls>; <i><ab>caus.</ab></i> teach to talk, <ls n='lan,19,15'>19<sup>15</sup></ls>."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पठ्",
+            "eid": "20807",
+            "pagenum": 405,
+            "content": "paW¦ <i>vt. 1P (pp. पठित; pres. पठति; desid. पिपठिषति)</i> 1. To read, to recite, to rehearse; 2. to study, to peruse, अत ऊर्ध्वं तु छंदांसि शुक्लेषु नियतः पठेत् <ls>M.</ls>iv.98; 3. to mention, to cite, to quote; 4. to describe, to declare, उष्ण तक्ष्णिं च पठितं विषम् <ls>Suśruta.</ls>"
+        },
+        {
+            "word": "पठ्",
+            "eid": "20808",
+            "pagenum": 405,
+            "content": "paW¦ <i>Caus. (पाठयति-ते)</i> <P>With परि-, to teach."
+        }
     ]
 }

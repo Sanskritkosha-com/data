@@ -39,5 +39,37 @@
             "pagenum": 666,
             "content": "षष्ठ¦ <i>ṣaṣṭha</i> <ab>a.</ab> (<ab>sfx.</ab> <i>tha)</i> sixième. || <ab>Zd.</ab> cstwa; <lbinfo n='3'/> <ab>lat.</ab> sextus; <ab>gr.</ab> <lang n='greek'>ἕϰτος</lang>; <ab>etc.</ab> -- <ab>S.</ab> <ab>f.</ab> [<i>ī</i>] le 6ᵉ jour de la quinzaine. || <s1 slp1='durgA'>Durgā</s1>.  <P><i>ṣaṣṭhaka</i> <ab>a.</ab> sixième.  <P><i>ṣaṣṭhālukālaka</i> <ab>n.</ab> (<ab>sfx.</ab> <i>ālu; kāla;</i> <ab>sfx.</ab> <i>ka)</i> le fait de manger une fois en 3 jours."
         }
+    ],
+    "CAE": [
+        {
+            "word": "षष्ठ",
+            "eid": "33695",
+            "pagenum": 566,
+            "content": "षष्ठ/¦ <lex>f.</lex> ई/ the sixth; ±काल <lex>m.</lex> the sixth hour of the day & the sixth meal-time. <lex>f.</lex> षष्ठी the sixth day of a half-month; the sixth case (<ab>g.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "षष्ठ",
+            "eid": "25458",
+            "pagenum": 459,
+            "content": "षष्ठ/¦ <i>f.</i> ई der sechste; काल <i>m.</i> die sechste Stunde des Tages. <i>f.</i> षष्ठी der sechste Tag einer Monatshälfte; der sechste Casus (Genetiv)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "षष्ठ",
+            "eid": "4320",
+            "pagenum": 263,
+            "content": "<b>ṣaṣṭhá,</b>¦ <i><ab>a.</ab></i> sixth. [<b>ṣaṣ,</b> <ls n='wg,487'>487<sup>5</sup></ls>: <ab>cf.</ab> <lang n='greek'>ἕκ-τος</lang>, <ab>Lat.</ab> <i>sex-tus,</i> <ab>AS.</ab> <i>six-ta,</i> <ab>Eng.</ab> <i>six-th.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "षष्ठ",
+            "eid": "38893",
+            "pagenum": 738,
+            "content": "zazWa¦ <i>a. (f. ष्ठी)</i> 1. Sixth (as a part), षष्ठे भागे त्वमपि दिवसस्यात्मनश्चंदवर्ती <ls>Vikr.</ls>ii.; 2. sixth in rank or number, भूतानां महतां षष्ठमष्ठमं कुलभूभृताम् <ls>R.</ls>xvii.78."
+        }
     ]
 }

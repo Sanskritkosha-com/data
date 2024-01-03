@@ -15,5 +15,35 @@
             "pagenum": 258,
             "content": "गर्भिन्¦ <i>garbhin,</i> <ab>i. e.</ab> <i>garbha + in,</i> <ab>adj.</ab>, <ab>f.</ab> <i>iṇī,</i> Pregnant, <ls>Man.</ls> 9, 173."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गर्भिन्",
+            "eid": "9350",
+            "pagenum": 150,
+            "content": "गर्भि/न्¦ <lex>a.</lex> pregnant (<ab>l.&f.</ab>, <ab>w.</ab> <ab>acc.</ab> or <ab>instr.</ab>); <lex>f.</lex> गर्भिणी a pregnant woman."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गर्भिन्",
+            "eid": "6095",
+            "pagenum": 106,
+            "content": "गर्भि/न्¦ schwanger <i>(auch übertr.)</i>, mit <i>(Acc.</i> <i>o. Instr.) f.</i> °णी eine schwangere Frau."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "गर्भिन्",
+            "eid": "2926",
+            "pagenum": 388,
+            "content": "<b>garbhín,</b>¦ <ab>a.</ab>, <i>schwanger</i> [von gárbha]. <div n='TS'><chg type='chg' n='99' src='gra'><old>-ínīṣu</old><new>-íṇīṣu</new></chg> {263,2}."
+        },
+        {
+            "word": "गर्भिन्",
+            "eid": "11099",
+            "pagenum": 1743,
+            "content": "388,19 <ab>v. u.</ab>: -íṇīṣu <ab>st.</ab> -ínīṣu <info vn='chg 99 gra'/>"
+        }
     ]
 }

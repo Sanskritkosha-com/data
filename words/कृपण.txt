@@ -44,5 +44,69 @@
             "pagenum": 182,
             "content": "कृपण¦ <i>kṛpaṇa</i> <ab>a.</ab> <i>(kṛp)</i> pitoyable, misérable, <lbinfo n='6'/> malheureux; chétif, petit et faible. -- <ab>S.</ab> <ab>m.</ab> ver."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कृपण",
+            "eid": "8343",
+            "pagenum": 131,
+            "content": "1 कृपण/¦ <lex>a.</lex> pitiable, miserable, querulous (<lex>n.</lex> <ab>adv.</ab>); poor, stingy. <lex>m.</lex> a poor man or a miser."
+        },
+        {
+            "word": "कृपण",
+            "eid": "8344",
+            "pagenum": 131,
+            "content": "2 कृप/ण¦ <lex>n.</lex> misery, pity."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कृपण",
+            "eid": "5316",
+            "pagenum": 91,
+            "content": "1. कृपण/¦ kläglich, elend, erbärmlich <i>(Pers.</i> <i>u. S.)</i>; geizig. <i>m.</i> ein Armer; ein Geizhals. <lbinfo n='5'/>"
+        },
+        {
+            "word": "कृपण",
+            "eid": "5317",
+            "pagenum": 91,
+            "content": "2. कृप/ण¦ <i>n.</i> Jammer, Elend."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कृपण",
+            "eid": "2674",
+            "pagenum": 348,
+            "content": "<b>kṛpáṇa,</b>¦ <ab>n.</ab>, <i>Jammer, Elend</i> [von krap]. <div n='TS'>-e {925,9}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कृपण",
+            "eid": "2852",
+            "pagenum": 162,
+            "content": "<i>kṛpaṇa</i>¦ (CII 1), poor."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कृपण",
+            "eid": "10209",
+            "pagenum": 205,
+            "content": "kfpaRa¦ <i>(I) a. (f. णा)</i> 1. Pitiable, poor, wretched, कामार्ताहि प्रकृतिकृपणाश्चेतनाचेतनेषु <ls>Megh.</ls>i.5, <ls>Am.S.</ls>61 (used fig. in the sense of ‘unable or unwilling to do, or understand something’ कृपणगहनाक्षेपकृपणः <ls>Bhartr.</ls>iii.17; 2. low, <ls>Bg.</ls>ii.49; 3. miserly, stingy."
+        },
+        {
+            "word": "कृपण",
+            "eid": "10210",
+            "pagenum": 205,
+            "content": "kfpaRa¦ <i>(II) n.</i> Wretchedness."
+        },
+        {
+            "word": "कृपण",
+            "eid": "10211",
+            "pagenum": 205,
+            "content": "kfpaRa¦ <i>(III) m.</i> A miser, कृपणेन समो दाता भुवि कोऽपि न विद्यते । अनश्नन्नेव वित्तानि यः परेभ्यः प्रयच्छति Vyāsa."
+        }
     ]
 }

@@ -7,5 +7,35 @@
             "pagenum": 513,
             "content": "जास्पतिः¦ <ab>Ved.</ab> A son-in-law."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जास्पति",
+            "eid": "11325",
+            "pagenum": 185,
+            "content": "जा/स्पति¦ <lex>m.</lex> the father of a family."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जास्पति",
+            "eid": "7686",
+            "pagenum": 136,
+            "content": "जा/स्पति¦ <i>m.</i> Hausvater, Familienvater."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जास्पति",
+            "eid": "3496",
+            "pagenum": 485,
+            "content": "<b>jā́spati,</b>¦ <ab>m.</ab>, <i>Herr</i> [páti] <i>der Familie</i> [jā́s <ab>Gen.</ab> von jā́], <i>Hausvater</i>. <div n='TS'>-im {185,8}."
+        },
+        {
+            "word": "जास्पति",
+            "eid": "3497",
+            "pagenum": 485,
+            "content": "<b>jā́spáti,</b>¦ <ab>m.</ab>, Familie [jā́s <ab>Nom.</ab> von jā́] und ihr Herr [páti], <i>Haus und Herr</i>. <div n='TS'>-is {554,6}."
+        }
     ]
 }

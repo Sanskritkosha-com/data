@@ -23,5 +23,35 @@
             "pagenum": 210,
             "content": "गद्य¦ <i>gadya</i> (<ab>pf.</ab> <ab>ps.</ab> de <i>gad</i> 1.) -- <ab>S.</ab> <ab>n.</ab> prose."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गद्य",
+            "eid": "9249",
+            "pagenum": 147,
+            "content": "गद्य¦ <lex>a.</lex> to be spoken; <lex>n.</lex> speech, prose."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गद्य",
+            "eid": "6007",
+            "pagenum": 103,
+            "content": "गद्य¦ zu sagen; <i>n.</i> gesprochene Rede, Prosa."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गद्य",
+            "eid": "11653",
+            "pagenum": 233,
+            "content": "gadya¦ <i>(I) a. (f. द्या)</i> To be spoken or uttered, <ls>Bt.</ls>vi.47."
+        },
+        {
+            "word": "गद्य",
+            "eid": "11654",
+            "pagenum": 233,
+            "content": "gadya¦ <i>(II) n.</i> Prose composition (not metrical but framed in accordance with harmony), <ls>K.D.</ls>i.11."
+        }
     ]
 }

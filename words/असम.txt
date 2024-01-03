@@ -15,5 +15,49 @@
             "pagenum": 62,
             "content": "असम¦ <i>asama</i> <ab>a.</ab> <i>(sama)</i> qui n'a pas son pareil, incomparable. -- <ab>S.</ab> <ab>m.</ab> l'Incomparable, <lbinfo n='6'/> le <s1 slp1='budDa'>Buddha</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "असम",
+            "eid": "3684",
+            "pagenum": 53,
+            "content": "1 असम¦ <lex>a.</lex> unlike, uneven."
+        },
+        {
+            "word": "असम",
+            "eid": "3685",
+            "pagenum": 53,
+            "content": "2 अ/सम¦ <lex>a.</lex> having no equal, incomparable."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "असम",
+            "eid": "2315",
+            "pagenum": 36,
+            "content": "अ/सम¦ ohnegleichen, unvergleichlich."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "असम",
+            "eid": "1320",
+            "pagenum": 153,
+            "content": "<b>á-sama,</b>¦ <ab>a.</ab>, <i>ohne Gleichen, unvergleichlich</i> [samá ähnlich]. <div n='TS'>-as von Indra {477,4} (pátis); {671,2}. <div n='TS'>-am [<ab>m.</ab>] kṣáyam {873,8}. <div n='TS'>-am [<ab>n.</ab>] kṣatrám {54,8}; bráhma {915,3}. <div n='TS'>-ās [<ab>m.</ab>] sákhāyas {897,7}. <div n='TS'>-āni bráhmāṇi {559,1}. <div n='TS'>-ā [<ab>f.</ab>] manīṣā́ {54,8}. <div n='TS'>-ās [<ab>A.</ab>] didyútas {204,7}."
+        },
+        {
+            "word": "असम",
+            "eid": "12137",
+            "pagenum": 1753,
+            "content": "<b>á-sama:</b>¦<info vn='add 120 gra'/> <div n='TS'>*-ā [<ab>du.</ab>] {508,1} mitrā́váruṇā."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "असम",
+            "eid": "04368",
+            "pagenum": 86,
+            "content": "asama¦ <i>a. (f. मा)</i> 1. Uneven (as ground); 2. odd (as a number); 3. unequalled, unsurpassed."
+        }
     ]
 }

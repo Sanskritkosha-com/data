@@ -75,5 +75,43 @@
             "pagenum": 335,
             "content": "द्रुत¦ <i>druta</i> <ab>m.</ab> <i>(dru</i> <ab>m.</ab>; <ab>sfx.</ab> <i>ta)</i> arbre."
         }
+    ],
+    "CAE": [
+        {
+            "word": "द्रुत",
+            "eid": "14811",
+            "pagenum": 242,
+            "content": "द्रुत/¦ <lex>a.</lex> run, fled; speedy, quick (<lex>n.</lex> <ab>adv.</ab>, <ab>compar.</ab> °तरम्†); fluid, melted (<ab>l.&f.</ab>), wet with (—°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "द्रुत",
+            "eid": "10629",
+            "pagenum": 187,
+            "content": "द्रुत/¦ <i>(s.</i> 1. द्रु) gelaufen, geflohen; schnell, rasch; geschmolzen, flüssig. <i>n.</i> द्रुतम् <i>adv.</i> eilig, rasch. <i>Compar.</i> द्रुततरम्."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "द्रुत",
+            "eid": "2089",
+            "pagenum": 174,
+            "content": "<b>druta,</b>¦ <i><ab>ppl.</ab></i> having hastened [<ls n='wg,952'>952<sup>2</sup></ls>]; <b>-am,</b> <i>as <ab>adv.</ab></i> hastily, rapidly; quickly; immediately. <lbinfo n='imme-diately.'/> [<b>√dru.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "द्रुत",
+            "eid": "17862",
+            "pagenum": 349,
+            "content": "druta¦ <i>(I) a. (f. ता)</i> 1. Quick, speedy; 2. flown, run away; 3. liquid, dissolved, (pp. of द्रु I q.v.)."
+        },
+        {
+            "word": "द्रुत",
+            "eid": "17863",
+            "pagenum": 349,
+            "content": "druta¦ <i>(II) m.</i> 1. A scorpion; 2. a tree; 3. a cat.<P>(द्रुतम् is used as an indeclinable in the sense of ‘quickly, speedily, immediately.’)"
+        }
     ]
 }

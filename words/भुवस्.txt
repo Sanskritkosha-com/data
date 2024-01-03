@@ -34,5 +34,51 @@
             "pagenum": 477,
             "content": "भुवस्¦ <i>bhuvas, bhuvat,</i> <ab>2p.</ab> et <ab>3p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>vd.</ab> de <i>bhū.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "भुवस्",
+            "eid": "23036",
+            "pagenum": 381,
+            "content": "भु/वस्¦ (<ab>indecl.</ab>) air or atmosphere."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भुवस्",
+            "eid": "17511",
+            "pagenum": 308,
+            "content": "भु/वस्¦ <i>(Indecl.)</i> Luftgebiet <i>(nur in der</i> <i>Formel)</i> भू/र्भुवः स्व^ः)."
+        }
+    ],
+    "INM": [
+        {
+            "word": "भुवस्",
+            "eid": "1672",
+            "pagenum": 153,
+            "content": "<b>Bhuvas</b><sup>1</sup>¦ = Śiva (1000 names<sup>1</sup>)."
+        },
+        {
+            "word": "भुवस्",
+            "eid": "1673",
+            "pagenum": 153,
+            "content": "<b>Bhuvas</b><sup>2</sup>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भुवस्",
+            "eid": "3022",
+            "pagenum": 207,
+            "content": "<b>bhúvas,</b>¦ <i>the second of the so-called “utterances”</i> <lbinfo n='“utter-ances”%'/> (<i>see</i> <b>vyāhṛti</b>), bhuvas !, <i>interpreted</i> <i>as</i> air <i>or</i> atmosphere, <i>on account of its</i> <i>position between</i> <b>bhūr</b> <i>and</i> <b>svar.</b> [<ab>prob.</ab> nothing more than the voe. <ab>pl.</ab> of <b>bhū́,</b> ‘O ye spaces.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भुवस्",
+            "eid": "27668.1",
+            "pagenum": 530,
+            "content": "Buvas¦ <i>ind.</i> 1. Name of the world immediately above the earth; 2. a mystical word."
+        }
     ]
 }

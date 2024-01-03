@@ -44,5 +44,51 @@
             "pagenum": 63,
             "content": "असि¦ <i>asi</i> <ab>m.</ab> <i>(as</i> 4) épée, glaive. || <ab>Lat.</ab> ensis."
         }
+    ],
+    "CAE": [
+        {
+            "word": "असि",
+            "eid": "3762",
+            "pagenum": 54,
+            "content": "असि/¦ <lex>m.</lex> sword, knife; <ab>p.</ab> असिम/न्त्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "असि",
+            "eid": "2360",
+            "pagenum": 36,
+            "content": "असि/¦ <i>m.</i> Schwert."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "असि",
+            "eid": "1334",
+            "pagenum": 154,
+            "content": "<b>así,</b>¦ <ab>m.</ab>, das <i>Schwerdt</i> (<lang>lat.</lang> ensis), als das geschwungene [von <hom>2.</hom> as]. <div n='TS'>-ís {905,6}; {915,8}. <div n='TS'>-ím {912,18}. <div n='TS'>-ínā {162,20}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "असि",
+            "eid": "889",
+            "pagenum": 93,
+            "content": "<b>Asi(ḥ)</b>¦ (“the sword,” person). § 656<i>d</i> (Khaḍgotpattik.): XII, <b>166</b>, 6162, 6165, 6166, 6188, <i>dharmagarbhena</i>; 6191, its forms are the different sorts of punishment; ib. <i>e</i>, its eight mysterious names, Asi, etc.; 6203 foll., etc."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "असि",
+            "eid": "04412",
+            "pagenum": 87,
+            "content": "asi¦ <i>(I) ind.</i> The second pers. sing. of the present tense of अस् used as an indeclinable in the sense of ‘त्वम् (thou).’ Cf. अस्मि."
+        },
+        {
+            "word": "असि",
+            "eid": "04413",
+            "pagenum": 87,
+            "content": "asi¦ <i>(II) m.</i> 1. A sword, <ls>R.</ls>xii.40; 2. a knife used for killing animals."
+        }
     ]
 }

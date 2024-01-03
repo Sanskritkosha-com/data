@@ -43,5 +43,41 @@
             "pagenum": 560,
             "content": "*वज्¦ <i>vaj.</i> <i>vajāmi</i> 1. Aller; aller çà et là. <ab>Lat.</ab> vagari.  <P> -- <i>vājayāmi</i> 10. Aller. -- <ab>C.</ab> de <i>vaj.</i> Faire aller, préparer la voie; || <ab>Vd.</ab> préparer [la voie des dieux]; orner [l'enceinte sacrée]; rendre hommage. || Garnir de plumes, <i>iṣum</i> une flèche. || Par <ab>ext.</ab> exciter, <ab>Vd.</ab>"
         }
+    ],
+    "GRA": [
+        {
+            "word": "वज्",
+            "eid": "7578",
+            "pagenum": 1196,
+            "content": "<b>√vaj,</b> <b>√uj,</b>¦ <i>rege sein, kräftig sein</i> [<ls>Kuhn Ztschr. 〔3,336〕</ls>; <ls>Cu. 〔159〕</ls>], davon vájra, vā́ja und, mit Schwächung des va zu u, ugrá, ójas, ojmán; 2〉 <ab>Caus.</ab> <i>zur Eile antreiben, anspornen</i> Rosse, Wagen <ab>u. s. w.</ab> [<ab>A.</ab>]; 3〉 <ab>Caus.</ab> jemand [<ab>A.</ab>] <i>anregen, zu Thaten kräftigen;</i> 4〉 <ab>Caus.</ab> etwas [<ab>A.</ab>] <i>wirksam machen;</i> 5〉 <ab>Caus.</ab> jemand [<ab>A.</ab>] <i>anspornen, anregen</i> zu [<ab>Inf.</ab>]; 6〉 <ab>Caus.</ab> <i>eilen</i>. <div n='Pf'>Mit <b>abhí</b> <ab>Caus.</ab> jemand [<ab>A.</ab>] <i>anregen, zu Thaten kräftigen</i>. <div n='H'>Stamm <b>vājáya:</b> <div n='TS'>-āmas 3〉 tvā vā́jeṣu vājínam {4,9}. <div n='TS'>-a 2〉 āśū́n iva‿ā́jaú {894,2}. <div n='H'><b>vājaya:</b> <div n='TS'>-āmasi 2〉 agním sáptim ná {663,25}. — 3〉 índram 〰 vṛtrā́ya hántave {702,7}. <div n='TS'>-ate 2〉 āśúm ná {303,11}. <div n='H'><ab>Part.</ab> <b>vājáyat</b> (<ab>vgl.</ab> vājayát von vājay): <div n='TS'>-an 2〉 nárāśáṃsam vājínam {106,4}; ráthān {199,1}; apás {780,4}. — 3〉 (tvā) {548,11}. — 4〉 imā́s (óṣadhīs) {923,11}. — 6〉 átyas {540,5}; (índras) ihá {294,7}. <div n='TS'>-antā 6〉 hárī {202,7}. <div n='TS'>-antas 3〉 vṛṣaṇam (índram) {313,16}; {465,6}; {957,3}. — 4〉 bhágam dhíyam {229,10}. — 6〉 áśvās {516,7} (ráthebhis sahá); náras suáśvās {338,5}; (vayám) {210,7}; in {986,5} wird vājayántas zu betonen sein, so hat <ls>Cod. Chambers 61</ls>, obwol eine bessernde Hand die Aenderung in vājáyantas begonnen, aber nicht durchgeführt hat. — <b>abhí</b> tám índram {463,2}. <div n='TS'>-antī [<ab>du.</ab> <ab>f.</ab>] 6〉 uṣásā {248,3}. <div n='H'><ab>Inf.</ab> <b>vājayádhi:</b> <div n='TS'>-yai 6〉 neben mandayádhyai {325,3}. [Page1197] <div n='H'>Verbale <b>új</b> <div n='P'>liegt in ójīyas, ójiṣṭha zu Grunde."
+        },
+        {
+            "word": "वज्",
+            "eid": "12530",
+            "pagenum": 1768,
+            "content": "<b>vaj,</b>¦<info vn='add 483 gra'/> <div n='H'><ab>Part.</ab> <b>vājáyat:</b> <div n='TS'>-antas <b>abhí</b> {446,7}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वज्",
+            "eid": "3661",
+            "pagenum": 236,
+            "content": "<b>√vaj</b>¦ (<b>vājáyati</b>). <i>probable root, with the</i> <i>meaning</i> be strong <i>or</i> lively, <i>inferred from</i> <b>ugrá, ójas, vájra, vā́ja;</b> <i>see these words;</i> <b>vājáyant,</b> hastening, <ls n='lan,75,9'>75<sup>9</sup></ls>: <i><ab>cf.</ab></i> <b>√vājaya.</b> [<ab>cf.</ab> <lang n='greek'>ὑγ-ιής</lang>, ‘strong, healthy’; <ab>AS.</ab> <i>wac-ol,</i> ‘awake’; <ab>Eng.</ab> <i>wake,</i> ‘not to sleep’; perhaps <ab>Lat.</ab> <i>vig-ēre,</i> ‘be lively <i>or</i> strong,’ <i>vig-il,</i> ‘awake.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वज्",
+            "eid": "33227",
+            "pagenum": 635,
+            "content": "vaj¦ <i>(I) vt. 1P (pres. वजति)</i> To go, to more."
+        },
+        {
+            "word": "वज्",
+            "eid": "33228",
+            "pagenum": 635,
+            "content": "vaj¦ <i>(II) vt. 10U (pres. वाजयति-ते)</i> 1. To go, to move; 2. to feather an arrow."
+        }
     ]
 }

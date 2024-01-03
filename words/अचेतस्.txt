@@ -15,5 +15,37 @@
             "pagenum": 10,
             "content": "अचेतस्¦ <i>acetas</i> <ab>a.</ab> <i>(cint)</i> privé de raison."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अचेतस्",
+            "eid": "368",
+            "pagenum": 6,
+            "content": "अचेत/स्¦ <lex>a.</lex> the same."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अचेतस्",
+            "eid": "245",
+            "pagenum": 4,
+            "content": "अचेत/स्¦ <i>dass.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अचेतस्",
+            "eid": "153",
+            "pagenum": 16,
+            "content": "<b>a-cetás,</b>¦ <ab>a.</ab>, <i>unverständig</i> (cétas), <i>nicht wissend</i>. <div n='TS'>-ā́s [<ab>m.</ab>] {120,2} itthā́‿áparas 〰. <div n='TS'>-ásam [<ab>m.</ab>] {576,6}. _{576,7}. (cikitvā́ṃsas 〰 nayanti). <div n='TS'>-ásas [<ab>N.</ab> <ab>p.</ab> <ab>m.</ab>] {534,8} (neben durādhías)."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अचेतस्",
+            "eid": "789",
+            "pagenum": 22,
+            "content": "अचेतस्¦ Bahuvr. m. f. n. (-ताः-ताः-तः) The same as the preceding. E. अ priv. and चेतस्."
+        }
     ]
 }

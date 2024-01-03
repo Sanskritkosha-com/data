@@ -61,5 +61,43 @@
             "pagenum": 245,
             "content": "चिकुर¦ <i>cikura</i> <ab>m.</ab> chevelure. || Montagne. <lbinfo n='4'/> || Serpent; rat musqué; <ab>esp.</ab> d'oiseau; <ab>esp.</ab> d'arbre."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चिकुर",
+            "eid": "10499",
+            "pagenum": 172,
+            "content": "चिकुर¦ <lex>m.</lex> hair."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चिकुर",
+            "eid": "7006",
+            "pagenum": 124,
+            "content": "चिकुर¦ <i>m.</i> Haar."
+        }
+    ],
+    "INM": [
+        {
+            "word": "चिकुर",
+            "eid": "2078",
+            "pagenum": 175,
+            "content": "<b>Cikura</b>,¦ a serpent, father of the serpent Sumukha. § 564 (Mātalīyop.): V, <b>103</b>, 3640 (had been devoured by Garuḍa)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चिकुर",
+            "eid": "13623",
+            "pagenum": 272,
+            "content": "cikura¦ <i>(I) a. (f. रा)</i> 1. Moving, unsteady; 2. inconsiderate, rash."
+        },
+        {
+            "word": "चिकुर",
+            "eid": "13624",
+            "pagenum": 272,
+            "content": "cikura¦ <i>(II) m.</i> 1. The hair of the head, घनचयरुचिरे रचयति चिकुरे तरलिततरुणानने <ls>Git.G.</ls>vii.; 2. a mountain; 3. a reptile."
+        }
     ]
 }

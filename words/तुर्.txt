@@ -37,5 +37,61 @@
             "pagenum": 296,
             "content": "*तुर्¦ <i>tur.</i> <i>tutormi</i> 3, Vd; <ab>p.</ab> <i>tutora</i> et <i>tutūra.</i> Se hâter. <ab>Cf.</ab> <i>tvar.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "तुर्",
+            "eid": "12450",
+            "pagenum": 205,
+            "content": "1 तुर्¦ तुर/ति तुर/°ते तुर/यति तुर/य°ते <vlex type='root'/> hasten, advance, run; तूर्यति overcome. <ab>D.</ab> तू/तूर्षति press forwards."
+        },
+        {
+            "word": "तुर्",
+            "eid": "12451",
+            "pagenum": 205,
+            "content": "2 तु/र्¦ <lex>a.</lex> hastening, speeding; conquering."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तुर्",
+            "eid": "8681",
+            "pagenum": 155,
+            "content": "1. तुर्¦ तुर/ति, °ते <i>u.</i> तूर्यति vorwärts dringen, eilen, überwinden; <i>Caus.</i> तुर/यति, °ते eilig, sein, rennen."
+        },
+        {
+            "word": "तुर्",
+            "eid": "8682",
+            "pagenum": 155,
+            "content": "2. तु/र्¦ vordringend, bewältigend, fördernd <i>(Gen.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तुर्",
+            "eid": "3792",
+            "pagenum": 540,
+            "content": "<hom>1.</hom> <b>√tur</b>¦ <ab n='siehe'>s.</ab> tar."
+        },
+        {
+            "word": "तुर्",
+            "eid": "3793",
+            "pagenum": 540,
+            "content": "<hom>2.</hom> <b>√tur,</b>¦ mit <hom>1.</hom> tur, also mit tar identisch und hier nur der zum Theil abweichenden Bedeutung wegen ausgesondert. Aus dem Begriffe des Durchdringens (tar) entwickelte sich der Begriff des schnellen oder kräftigen Vordringens, sowie in der Form tūrya der des Ueberwältigens [tar 5]. Also 1〉 <i>schnell</i> oder <i>kräftig vordringen;</i> 2〉 <i>überwältigen</i> [<ab>A.</ab>] Ebenso das Causativ und das Intensiv. Das Desiderativ mit <b>pári,</b> <i>durch Vordringen erlangen</i> [<ab>A.</ab>], das Stammverb mit <b>prá,</b> <ab n='siehe'>s.</ab> prátūrti, su-pratúr. <div n='H'>Stamm I. <b>turá</b> [<ab n='siehe'>s.</ab> <ab>Part.</ab>]. [Page541] <div n='H'>Stamm II. <b>tūrya:</b> <div n='TS'>-a [<ab>Iv.</ab>] 2〉 taruṣyatás {708,5}. <div n='H'>Stamm des <ab>Caus.</ab> <b>turaya:</b> <div n='TS'>-ante 1〉 (marútas) {225,3} (āśúbhis). <div n='H'>Stamm des <ab>Desid.</ab> <b>tū́tūrṣa:</b> <div n='TS'>-ati <b>pári</b> {926,12} ágram (paśvás, gós). <div n='H'><ab>Part.</ab> <b>turát</b> [Stamm I.]: <div n='TS'>-atás [<ab>G.</ab>] turásya (índrasya) {459,4}. <div n='H'><ab>P.</ab> des <ab>Caus.</ab> <b>turáyat:</b> <div n='TS'>-an 2〉 túram {334,7}. <div n='TS'>-antam 1〉 śúṣmam {708,6}. <div n='H'><ab>P.</ab> des <ab>Intens.</ab> <b>tárturāṇa:</b> <div n='TS'>-ās 1〉 ūrmáyas {807,3}. <div n='H'>Verbale <b>túr,</b> <div n='P'>als selbständiges <ab>Adj.</ab> und <ab>Subst.</ab> <ab n='siehe'>s.</ab> im Folgenden. In der Bedeutung <i>beeilend</i> enthalten in radhra-túr, <i>besiegend, siegreich</i> in pṛtsutúr, viśva-túr, pra-túr."
+        },
+        {
+            "word": "तुर्",
+            "eid": "3794",
+            "pagenum": 541,
+            "content": "<b>túr,</b>¦ <ab>a.</ab>, <ab>m.</ab>, am Schlusse und vor Consonanten tū́r (tūr) [von tur], 1〉 <ab>a.</ab>, <i>vordringend</i> (zum Kampfe); 2〉 <ab>m.</ab>, <i>Förderer,</i> mit dem <ab>Gen.</ab> <div n='TS'>-úram 1〉 {334,7}. — 2〉 bhágasya {436,1}. <div n='TS'>-ūrṣú 1〉 {112,4}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तुर्",
+            "eid": "1774",
+            "pagenum": 164,
+            "content": "<b>√tur</b>¦ (<b>turáti, -te</b>). press onward swiftly [subsidiary form of <b>√tṛ</b> (242) and allied <ab>w.</ab> <b>√tvar.</b>]"
+        }
     ]
 }

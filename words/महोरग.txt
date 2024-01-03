@@ -20,5 +20,43 @@
             "pagenum": 500,
             "content": "महोरग¦ <i>mahoraga</i> <ab>m.</ab> <i>(uraga)</i> grand serpent. || Une des classes de <s1 slp1='nAga'>Nāga</s1>s ou serpents divins. -- <ab>N.</ab> <ab>esp.</ab> de racine."
         }
+    ],
+    "CAE": [
+        {
+            "word": "महोरग",
+            "eid": "24459",
+            "pagenum": 404,
+            "content": "महोरग¦ <lex>m.</lex> great serpent."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "महोरग",
+            "eid": "18559",
+            "pagenum": 328,
+            "content": "महोरग¦ <i>m.</i> eine große Schlange."
+        }
+    ],
+    "INM": [
+        {
+            "word": "महोरग",
+            "eid": "6944",
+            "pagenum": 459,
+            "content": "<b>*Mahoraga</b>¦ (“great serpents”), mostly pl. (<i>°āḥ</i>): I, 248, 7011; III, 1841 (<i>°gaṇeṣu</i>), 7083, 8168, 8804 (<i>sa-Gandharva-</i> <i>M°āḥ</i>), 11646 (<i>°gaṇāḥ</i>), 12817 (<i>samutsanna-M°e</i>), 13498 (<i>devāsura-M°āḥ</i>); IV, 1762 (<i>deva-Yakṣa-Gandharva M°samā-</i> <i>kulaṃ</i>), 2271 (<i>sa-Kinnara-M°āḥ</i>); V, 332 (<i>Yakṣa-Rakṣo-</i> <i>M°āḥ</i>), 369 (<i>jagat…sa-Kinnara-Mahoragaṃ</i>); VII, 3612 (sg. <i>°a iva śvasan</i>), 3642 (<i>Vidyādhara-M°āḥ</i>), 4269 (<i>pṛthivī…</i> <i>sa-Kinnara-M°ā</i>), 4656 (<i>yathā kruddhā M°āḥ</i>), 4953 (<i>iva</i>), 5527 (do.), 5618 (sg. <i>śvasan iva M°āḥ</i>), 9473 <i>devāsura-M°āḥ</i>); VIII, 558 (sg. <i>iva</i>), †1742 (<i>Asurasura-M°āḥ</i>), †4678 (sg., i.e. Aśvasena), †4687 (do.), †4962 (<i>Yakṣa-M°aiḥ</i>); XII, 1607 (<i>Siddha-M°āḥ</i>), 1623 (<i>ṛṣi M°āh</i>), 5890, 6138, 6932 (<i>Daityā-</i> <i>sura-M°āḥ</i>), 11244 (<i>trailokye…sa-Kinnara-M°e</i>), 12665 (<i>sa-Kinnara-M°āḥ</i>); XIII, 3908 (<i>sarṣi-M°āḥ</i>), 6359 (<i>°samā-</i> <i>kulaṃ</i>), †7088 (sg., i.e. Ananta)."
+        },
+        {
+            "word": "महोरग",
+            "eid": "6945",
+            "pagenum": 459,
+            "content": "<b>Mahoraga</b>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "महोरग",
+            "eid": "29464",
+            "pagenum": 560,
+            "content": "mahA-uraga¦ <i>m.</i> a great serpent, <ls>R.</ls>xii.98."
+        }
     ]
 }

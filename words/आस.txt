@@ -58,5 +58,49 @@
             "pagenum": 84,
             "content": "आस¦ <i>āsa</i> <ab>indéc.</ab> ah ! hélas."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आस",
+            "eid": "4774",
+            "pagenum": 70,
+            "content": "1 आ/स¦ <lex>m.</lex> ashes, dust."
+        },
+        {
+            "word": "आस",
+            "eid": "4775",
+            "pagenum": 70,
+            "content": "2 आस/¦ <lex>m.</lex> seat, proximity; <ab>abl.</ab> <ab>adv.</ab> (from) near."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आस",
+            "eid": "2964",
+            "pagenum": 46,
+            "content": "1. आ/स¦ <i>m.</i> Asche, Staub."
+        },
+        {
+            "word": "आस",
+            "eid": "2965",
+            "pagenum": 46,
+            "content": "2. आस/¦ <i>m.</i> Sitz; Nähe, <i>nur Abl.</i> आसा/त् <lbinfo n='4'/> aus o.in der Nähe."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "आस",
+            "eid": "1649",
+            "pagenum": 190,
+            "content": "<b>āsá,</b>¦ <ab>m.</ab> oder <ab>n.</ab>, Sitz, Wohnsitz [von ās]; enthalten in su-āsa-sthá; daher <i>Nähe</i> in dem <ab>Abl.</ab> āsā́t, aus der Nähe. <div n='TS'>-ā́t (Gegensatz dūrā́t) {27,3}; {316,1}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आस",
+            "eid": "05595",
+            "pagenum": 112,
+            "content": "Asa¦ <i>m.</i> 1. A seat; 2. a bow, स सासिः सासुसूः सासः <ls>Kir.</ls>xv.5."
+        }
     ]
 }

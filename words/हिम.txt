@@ -55,5 +55,63 @@
             "pagenum": 754,
             "content": "हिम¦ <i>hima</i> <ab>a.</ab> <i>(hi;</i> <ab>sfx.</ab> <i>ma)</i> froid, glacial. -- <ab>S.</ab> <ab>n.</ab> froid, froidure, frimas; || neige. || Beurre frais. || Etain. || Perle. || Lotus. || Sandal. <lbinfo n='4'/> -- <ab>S.</ab> <ab>m.</ab> la Lune. || Camphre. || L'<s1 slp1='himAlaya'>Himālaya</s1>. <lbinfo n='5'/> -- <ab>S.</ab> <ab>f.</ab> <i>himā</i> petit cardamome; || cyperus <lbinfo n='5'/> odorant. || Le parfum <i>reṇukā.</i> || <ab>Gr.</ab> <lang n='greek'>χεῖμα, χιών</lang>; <ab>lat.</ab> hiems, hibernus; <ab>lith.</ab> ziêma; <ab>etc.</ab>  <P><i>himakara</i> <ab>m.</ab> <i>(kṛ)</i> camphre.  <P><i>himakūṭa</i> <ab>m.</ab> l'hiver.  <P><i>himaja</i> <ab>m.</ab> le mont <s1 slp1='mEnAka'>Maināka</s1>. -- <ab>F.</ab> <s1 slp1='pArvatI'>Pārvatī</s1>, <lbinfo n='5'/> fille de <s1 slp1='himavat'>Himavat</s1>. || Zédoaire.  <P><i>himajhaṭi</i> <ab>f.</ab> <i>(jhaṭ)</i> brouillard.  <P><i>himadyuti</i> <ab>m.</ab> la Lune.  <P><i>himaprastha</i> <ab>m.</ab> l'<s1 slp1='himAlaya'>Himālaya</s1>.  <P><i>himabālukā</i> <ab>f.</ab> camphre.  <P><i>himavat</i> <ab>a.</ab> (<ab>sfx.</ab> <i>vat)</i> froid; neigeux. -- <lbinfo n='1'/> <ab>S.</ab> <ab>m.</ab> l'<s1 slp1='himAlaya'>Himālaya</s1>; <s1 slp1='himavat'>Himavat</s1>, père de <s1 slp1='gaNgA'>Gaṅgā</s1> et de <s1 slp1='pArvatI'>Pārvatī</s1> et époux de <s1 slp1='menakA'>Menakā</s1>. || <ab>gr.</ab> <lang n='greek'>Ἴμαος</lang>; <ab>lat.</ab> Imaus.  <P><i>himavatsuta</i> <ab>m.</ab> <i>(suta)</i> le mont <s1 slp1='mEnAka'>Maināka</s1>. -- <ab>F.</ab> la fille d'<s1 slp1='himavat'>Himavat</s1>, <s1 slp1='pArvatI'>Pārvatī</s1>, <s1 slp1='gaNgA'>Gaṅgā</s1>.  <P><i>himaśaila</i> <ab>m.</ab> montagne neigeuse.  <P><i>himaśailajā</i> <ab>f.</ab> <i>(jan)</i> <s1 slp1='pArvatI'>Pārvatī</s1>.  <P><i>himahāsaka</i> <ab>m.</ab> dattier des marais.  <P><i>himāgama</i> <ab>m.</ab> <i>(ā; gam)</i> arrivée des neiges, hiver.  <P><i>himādri</i> <ab>m.</ab> <i>(adri)</i> l'<s1 slp1='himAlaya'>Himālaya</s1>.  <P><i>himānī</i> <ab>f.</ab> <i>(ā; nī)</i> monceaux de neige; || (<ab>sfx.</ab> <i>āna)</i> neige.  <P><i>himārāti</i> <ab>m.</ab> <i>(arāti)</i> le feu; le soleil.  <P><i>himālaya</i> <ab>m.</ab> <i>(ālaya)</i> la chaîne de l'<s1 slp1='himavat'>Himavat</s1> <lbinfo n='3'/> ou <s1 slp1='himAlaya'>Himālaya</s1>.  <P><i>himāvatī</i> <ab>f.</ab> <ab>esp.</ab> d'asclepias, <ab>bot.</ab>  <P><i>himāhva</i> <ab>m.</ab> <i>(ā; hve)</i> camphre.  <P><i>himūhvaya</i> <ab>m.</ab> camphre. -- <ab>N.</ab> lotus.  <P><i>himāṃśu</i> <ab>m.</ab> <i>(aṃśu)</i> la Lune."
         }
+    ],
+    "CAE": [
+        {
+            "word": "हिम",
+            "eid": "39687",
+            "pagenum": 663,
+            "content": "1 हिम/¦ <lex>m.</lex> the cold season, winter (also हि/मा <lex>f.</lex>); <lex>n.</lex> snow, ice."
+        },
+        {
+            "word": "हिम",
+            "eid": "39688",
+            "pagenum": 663,
+            "content": "2 हिम¦ <lex>a.</lex> cold, cool."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हिम",
+            "eid": "29433",
+            "pagenum": 533,
+            "content": "हिम/¦ <i>m.</i> Kälte, Winter, <i>auch Adj.</i> kalt, kühl, <i>n.</i> Schnee, <i>selntener</i> Eis."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "हिम",
+            "eid": "10658",
+            "pagenum": 1666,
+            "content": "<b>himá,</b>¦ <ab>m.</ab> [<ab>vgl.</ab> hímā], 1〉 <i>Kühlung;</i> 2〉 <i>Frost;</i> 3〉 <i>Schnee</i>. <div n='TS'>-éna 1〉 〰 ‿agním ghraṃsám avārayethām {116,8}; 〰 gharmám (uruṣyathas) {119,6}; úpa stṛnītam átraye 〰 gharmám {682,3}. — 2〉 〰 ‿avidhyat árbudam {652,26}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "हिम",
+            "eid": "4906",
+            "pagenum": 286,
+            "content": "<b>himá,</b>¦ <i><ab>m.</ab></i> the cold; winter. [the stem <lang n='greek'>*χιμα</lang>, ‘winter,’ appears in <lang n='greek'>χίμα-ρο-ς</lang>, <ab>lit.</ab> ‘winter-ling, <i><ab>i. e.</ab></i> a one-winter-old <i>or</i> yearling  <lbinfo n='year-ling'/> goat,’ named <lang n='greek'>χίμαρος</lang> precisely as is the dialectic <ab>Ger.</ab> <i>Ein-winter,</i> ‘a one-winterold  <lbinfo n='one-winter-old'/> goat’; <ab>cf.</ab> <lang n='greek'>χίμαιρα</lang>, ‘she-goat, chimera’; see similar names under <b>vatsa:</b> <ab>cf.</ab> further <lang n='greek'>-χιμο</lang>- in <lang n='greek'>δύσ-χιμο-ς</lang>, ‘very wintry’; <ab>Lat.</ab> <i>-himu-</i> in <i>bīmus, *bi-himu-s,</i> ‘of two winters <i>or</i> years’; also <lang n='greek'>χιών</lang>, ‘snow,’ <lang n='greek'>χειμών</lang>, ‘winter’; <ab>Lat.</ab> <i>hiems,</i> ‘winter.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हिम",
+            "eid": "43267",
+            "pagenum": 833,
+            "content": "hima¦ <i>(I) a. (f. मा)</i> Cold, frigid."
+        },
+        {
+            "word": "हिम",
+            "eid": "43268",
+            "pagenum": 833,
+            "content": "hima¦ <i>(II) m.</i> 1. the cold season, winter; 2. the moon; 3. the Himālaya mountain; 4. camphor; 5. the sandal tree."
+        },
+        {
+            "word": "हिम",
+            "eid": "43269",
+            "pagenum": 833,
+            "content": "hima¦ <i>(III) n.</i> 1. Frost, hoarfrost, <ls>R.</ls>i.48, ix.25; 2. ice, snow, <ls>K.S.</ls>i.3, 11, <ls>Kir.</ls>v.12, 17; 3. cold, coldness; 4. a pearl; 5. a lotus; 6. fresh butter."
+        }
     ]
 }

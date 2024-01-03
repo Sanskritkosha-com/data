@@ -23,5 +23,21 @@
             "pagenum": 250,
             "content": "*चूर्¦ <i>cūr,</i> <ab>cf.</ab> <i>cūr.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "चूर्",
+            "eid": "10658",
+            "pagenum": 175,
+            "content": "चूर्¦ चूरयति <vlex type='root'/> steal."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चूर्",
+            "eid": "7139",
+            "pagenum": 126,
+            "content": "चूर्¦ चूरयति stehlen."
+        }
     ]
 }

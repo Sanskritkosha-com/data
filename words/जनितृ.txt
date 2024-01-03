@@ -31,5 +31,41 @@
             "pagenum": 259,
             "content": "जनितृ¦ <i>janitṛ</i> <ab>m.</ab> <i>(jan;</i> <ab>sfx.</ab> <i>tṛ)</i> père, celui <lbinfo n='3'/> qui engendre. || <ab>Gr.</ab> <lang n='greek'>γενέτωρ</lang>; <ab>lat.</ab> genitor; <ab>irland.</ab> genteoir.  <P><i>janitrī</i> <ab>f.</ab> (<ab>sfx.</ab> <i>tṛ)</i> mère, celle qui enfante. || <ab>Gr.</ab> <lang n='greek'>γενέτειρα</lang>; <ab>lat.</ab> genitrix."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जनितृ",
+            "eid": "10992",
+            "pagenum": 181,
+            "content": "जनितृ/¦ <lex>m.</lex>  progenitor, father; <lex>f.</lex> ज/नित्री mother."
+        },
+        {
+            "word": "जनितृ",
+            "eid": "10993",
+            "pagenum": 181,
+            "content": "ज/नितृ¦ <lex>m.</lex> progenitor, father; <lex>f.</lex> ज/नित्री mother."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जनितृ",
+            "eid": "3401",
+            "pagenum": 475,
+            "content": "<b>janitṛ́,</b>¦ <ab>m.</ab>, Erzeuger [von jan], 1〉 <i>Erzeuger, Hervorbringer, Schöpfer,</i> mit <ab>Gen.</ab>; 2〉 <i>Erzeuger, Vater,</i> insbesondere 3〉 mit pitṛ́ verbunden oder ihm parallel. <div n='TS'>-ar 1〉 vásūnām {76,4}. <div n='TS'>-ā́ 1〉 ródasīos {96,4}; {802,1}; bráhmaṇām {214,2}; sū́riasya {283,4}; divás <ab>u. s. w.</ab> {656,4}. _{656,5}; matīnā́m {808,5}; pṛthivyā́s {947,9}. — 2〉 {129,11}; {313,4}; {500,2}; {708,5}; {836,5}. — 3〉 {164,33}; {297,10}; {798,10}; {799,2}; {908,3}. <div n='TS'>-úr 3〉 gárbham {235,10}; jāmí {288,9}; kíyat {313,12}. <div n='TS'>-ā́rā [<ab>d.</ab>] 1〉 matīnā́m {510,2} (índrāvíṣṇū)."
+        },
+        {
+            "word": "जनितृ",
+            "eid": "3402",
+            "pagenum": 475,
+            "content": "<b>jánitṛ,</b>¦ <ab>m.</ab>, <i>Erzeuger, Vater</i> [von jan], nur in der Verbindung mit dem Verb jajā́na [<ab>Perf.</ab> von jan]. <div n='TS'>-ā {235,12}; {828,6}; {846,9}; {854,6}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "जनितृ",
+            "eid": "14247",
+            "pagenum": 284,
+            "content": "janitf¦ <i>m.</i> A father."
+        }
     ]
 }

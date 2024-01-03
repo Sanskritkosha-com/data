@@ -45,5 +45,43 @@
             "pagenum": 82,
             "content": "आश¦ <i>āśa</i> <ab>p.</ab> de <i>aś</i> 9."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आश",
+            "eid": "4691",
+            "pagenum": 69,
+            "content": "1 आश¦ <lex>m.</lex> acquiring (only —°)."
+        },
+        {
+            "word": "आश",
+            "eid": "4692",
+            "pagenum": 69,
+            "content": "2 आश¦ <lex>m.</lex> food."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आश",
+            "eid": "2914",
+            "pagenum": 45,
+            "content": "आश¦ <i>m.</i> Speise."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आश",
+            "eid": "663",
+            "pagenum": 127,
+            "content": "<b>āśa,</b>¦ <i><ab>m.</ab></i> food. [<b>√2aś,</b> ‘eat.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आश",
+            "eid": "05507",
+            "pagenum": 110,
+            "content": "ASa¦ <i>m.</i> 1. Eating (as in प्रातराश, सायमाश); 2. one who eats (in this sense, it occurs as last member of compounds, e.g. हुताश, आश्रयाश, पलाश)."
+        }
     ]
 }

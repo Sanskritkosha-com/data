@@ -44,5 +44,61 @@
             "pagenum": 732,
             "content": "सौर¦ <i>saura</i> <ab>m.</ab> <i>(sūra)</i> mois de trente jours solaires. || La planète Saturne. -- <ab>F.</ab> [<i>ī</i>] l'épouse <lbinfo n='5'/> de <s1 slp1='sUrya'>Sūrya</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सौर",
+            "eid": "38220",
+            "pagenum": 637,
+            "content": "1 सौर¦ <lex>a.</lex> consisting of spirituous liquor."
+        },
+        {
+            "word": "सौर",
+            "eid": "38221",
+            "pagenum": 637,
+            "content": "2 सौर¦ <lex>f.</lex> ई relating to the sun, solar; <lex>m.</lex> a worshipper of the sun."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सौर",
+            "eid": "28489",
+            "pagenum": 510,
+            "content": "1. सौर¦ aus Branntwein bestehend."
+        },
+        {
+            "word": "सौर",
+            "eid": "28490",
+            "pagenum": 510,
+            "content": "सौर,¦ <i>f.</i> ई zur Sonne gehörig, Sonnen-; <i>m.</i> Sonnenbeter."
+        }
+    ],
+    "INM": [
+        {
+            "word": "सौर",
+            "eid": "9808",
+            "pagenum": 634,
+            "content": "<b>*Saura</b>,¦ adj. (“belonging to Sūrya (the Sun)”). § 417 (Yavakrītop.): III, <b>138</b>, 10812 (<i>vedasya</i>, learnt by Arvāvasu).— § 512 (Ghoṣayātrāp.): III, <b>245</b>, 14995 (sc. <i>astraṃ</i>, employed by Arjuna).—§ 586 (Bhīṣmavadhap.): VI, <b>101</b>, 4608 (<i>astraṃ</i>, employed by Abhimanyu, only C.)—§ 615<i>u</i> (Skanda): IX, <b>46</b>, 2656 (sc. <i>mātaraḥ</i>).—Do.<sup>2</sup>, pl. (“worshippers of the sun”): VII, 2926."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सौर",
+            "eid": "41770",
+            "pagenum": 800,
+            "content": "sOra¦ <i>(I) a. (f. री)</i> 1. Relating to the sun, solar; 2. sacred to the sun; 3. celestial, divine; 4. relating to spirituous liquor."
+        },
+        {
+            "word": "सौर",
+            "eid": "41771",
+            "pagenum": 800,
+            "content": "sOra¦ <i>(II) m.</i> 1. A worshipper of the sun; 2. the planet Saturn; 3. a solar month; 4. a solar day."
+        },
+        {
+            "word": "सौर",
+            "eid": "41772",
+            "pagenum": 800,
+            "content": "sOra¦ <i>(III) n.</i> Name of a collection of hymns, (taken from the <i>Ṛigveda</i>) addressed to <i>Sūrya</i>."
+        }
     ]
 }

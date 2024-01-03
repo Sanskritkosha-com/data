@@ -52,5 +52,65 @@
             "pagenum": 613,
             "content": "वृद्ध¦ <i>vṛddha</i> (<ab>pp.</ab> de <i>vṛdh)</i> qui a cru, adulte,  vieux; || au <ab>fig.</ab> instruit, expérimenté. || Accru, augmenté; entassé, amoncelé. -- <ab>S.</ab> <ab>m.</ab> vieillard; || un sage. -- <ab>S.</ab> <ab>n.</ab> benjoin. -- <ab>S.</ab> <ab>f.</ab> vieille femme.  <P><i>vṛddhakāka</i> <ab>m.</ab> <ab>esp.</ab> de corbeau.  <P><i>vṛddhakrama</i> <ab>m.</ab> rang dû à l'âge.  <P><i>vṛddhatva</i> <ab>n.</ab> (<ab>sfx.</ab> <i>tva)</i> vieillesse.  <P><i>vṛddhadāraka</i> <ab>m.</ab> convolvulus argenteus, <ab>bot.</ab>  <P><i>vṛddhanābhi</i> <ab>a.</ab> qui a le nombril saillant; obèse.  <P><i>vṛddharāja</i> <ab>m.</ab> <ab>esp.</ab> de rumex, <ab>bot.</ab>  <P><i>vṛddhavāhana</i> <ab>m.</ab> manguier, <ab>bot.</ab>  <P><i>vṛddhavibhītaka</i> <ab>m.</ab> spondias mangifera, <ab>bot.</ab>  <P><i>vṛddhaśravas</i> <ab>m.</ab> <s1 slp1='indra'>Indra</s1>.  <P><i>vṛddhasaṅgha</i> <ab>m.</ab> assemblée de vieillards.  <P><i>vṛddhasūtraka</i> <ab>n.</ab> graine ailée qui voltige dans l'air.  <P><i>vṛddhasevin</i> <ab>a.</ab> <i>(sev)</i> qui respecte les gens âgés.  <P><i>vṛddhāṅguli</i> <ab>f.</ab> <i>(aṅguli)</i> le pouce.  <P><i>vṛddhāraṇya</i> <ab>m.</ab> <i>(āraṇya)</i> lieu où un guru explique les livres saints."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वृद्ध",
+            "eid": "30782",
+            "pagenum": 519,
+            "content": "वृद्ध/¦ <lex>a.</lex> grown up, adult, large, tall, strong, intense, great, high, important, aged, old, skilful, clever, distinguished or eminent by (<ab>instr.</ab> or —°); glad, cheerful, haughty, arrogant; subject to Vṛddhi (<ab>g.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वृद्ध",
+            "eid": "23336",
+            "pagenum": 422,
+            "content": "वृद्ध/¦ <i>(s.</i> 1. वर्ध्) <i>m.</i>, आ <i>f.</i> Greis, Greisin; älterer Nachkomme <i>(g.).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "वृद्ध",
+            "eid": "6739",
+            "pagenum": 381,
+            "content": "<i>vṛddha</i>¦ (LP), participle of <i>vṛdh,</i> ‘to cut’. <div n='P'><i>Cf. Vṛddha-Gaṇeśa</i> (IA 19), ‘the senior Gaṇeśa’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वृद्ध",
+            "eid": "12266",
+            "pagenum": 752,
+            "content": "<b>Vṛddha</b>¦ = Śiva (1000 names<sup>1</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वृद्ध",
+            "eid": "4008",
+            "pagenum": 251,
+            "content": "<b>vṛddhá,</b>¦ <i><ab>ppl.</ab></i> <div n='2'/><b>—1.</b> grown, become great; increased (of wealth), <ls n='lan,42,16'>42<sup>16</sup></ls>; <div n='2'/><b>—2.</b> <i>as <ab>adj.</ab></i> grown up, <i><ab>opp.</ab> of</i> young; old, aged; <i>as</i> <i><ab>subst.</ab></i> old man, <ls n='lan,28,12'>28<sup>12</sup></ls>; <div n='2'/><b>—3.</b> (grown great, <i>and so, like <ab>Lat.</ab></i> altus) eminent, distinguished. <lbinfo n='distin-guished.'/> [<b>√vṛdh,</b> <ls n='wg,160'>160.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वृद्ध",
+            "eid": "36073",
+            "pagenum": 688,
+            "content": "vfdDa¦ <i>(I) a. (f. द्धा; compar. ज्यायस् or वर्षीयस्; super. ज्येष्ठ or वर्षिष्ठ)</i> 1. Increased, augmented; 2. full-grown; 8. old, aged, advanced in years, <ls>Bg.</ls>i.12, <ls>R.</ls>xii.20; 4. great, large; 5. accumulated, heaped; 6. wise, learned."
+        },
+        {
+            "word": "वृद्ध",
+            "eid": "36074",
+            "pagenum": 688,
+            "content": "vfdDa¦ <i>(II) m.</i> 1. An old man, भूमिपतिं शशाप हस्तार्पितैर्नयनवारिभिरेव वृद्धः <ls>R.</ls>ix.78, <ls>Megh.</ls>i.30; 2. a sage, a saint; 3. a male descendant."
+        },
+        {
+            "word": "वृद्ध",
+            "eid": "36075",
+            "pagenum": 688,
+            "content": "vfdDa¦ <i>(III) n.</i> Benzoin."
+        }
     ]
 }

@@ -7,5 +7,37 @@
             "pagenum": 60,
             "content": "अना¦ <i><ab>ind.</ab></i> <ab>Ved.</ab> Thus, hereby, indeed."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अना",
+            "eid": "1182",
+            "pagenum": 17,
+            "content": "अना/¦ (<ab>instr.</ab> <ab>adv.</ab>) certainly, indeed."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अना",
+            "eid": "772",
+            "pagenum": 12,
+            "content": "अना/¦ <i>(Instr. adv.) etwa</i> = quidem."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अना",
+            "eid": "449",
+            "pagenum": 54,
+            "content": "<b>anā́,</b>¦ <i>denn;</i> diese Bedeutung passt überall, besonders klar ist sie in {920,3}. _{920,4}. Es scheint für anayā́ (<ab>vgl.</ab> amuyā́) zu stehen, und also wie das lateinische gleichbedeutende enim aus dem Deutestamm ana (dieser) hervorgegangen zu sein. <div n='P'>{326,3}; {641,13}; {667,6}; {920,3}. _{920,4}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अना",
+            "eid": "2494",
+            "pagenum": 75,
+            "content": "अना¦ ind. (ved.) Certainly, indeed. (A commentator of the Amarakosha considers this particle as a synonyme of the negative न; his opinion rests, however, only on an artificial interpretation of the word अनावृष्टि (q. v.) and is refuted by others who explain it as derived, not from अना and वृष्टि, but from अ neg. and आवृष्टि.) E. unknown; probably an obsolete third case of the pronominal theme अ (q. v.)."
+        }
     ]
 }

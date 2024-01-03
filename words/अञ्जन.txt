@@ -78,5 +78,57 @@
             "pagenum": 12,
             "content": "अञ्जन¦ <i>añjana</i> <ab>m.</ab> l'éléphant de l'ouest."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अञ्जन",
+            "eid": "444",
+            "pagenum": 7,
+            "content": "अञ्जन¦ <lex>n.</lex> smearing, anointing; suggesting (<ab>(rh.)</ab>); ointment, paint, <ab>esp.</ab> a collyrium made of antimony."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अञ्जन",
+            "eid": "301",
+            "pagenum": 5,
+            "content": "अञ्जन¦ <i>n.</i> das Salben, die Salbe, <i>bes.</i> schwarze Augensalbe, antimonium. °चूर्ण <i>n.</i> pulverisiertes <lbinfo n='11'/> Antimonium."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अञ्जन",
+            "eid": "981",
+            "pagenum": 28,
+            "content": "अञ्जन¦ I. n. (-नम्) <sup>1</sup> Anointing, making clear or distinct &c. See the meanings of अञ्ज्. <sup>2</sup> A collyrium or application to the eye lashes, to darken and improve them; a universal article of the eastern toilet. <sup>3</sup> The name of particular kinds of the former, viz. lamp black, antimony, and one extracted from the Ammonium zanthorrhiza. <sup>4</sup> Ink. <sup>5</sup> Night. (See अक्तु.) <sup>6</sup> Fire. <sup>7</sup> (In rhetoric.) Suggesting the special meaning of a word or a sentence. The special meaning of a word (शब्द) is suggested, according to Hindu rhetoric, by its connexion with either the real (अभिधा) or the elliptic sense (लक्षणा) of other words; and the special meaning of a sentence (अर्थ) by circumstances connected with either the speaker or the addressed, or the occasion, place, time or the like. More usually called व्यञ्जना q. v. <div n='P'>II. m. (-नः) <sup>1</sup> A species of lizard. <sup>2</sup> The elephant of the west or, according to others, of the south-west quarter. <sup>3</sup> The name of a fabulous serpent. <sup>4</sup> The name of a king of Mithilā, the son of Kuni. <sup>5</sup> The name of a tree. <sup>6</sup> The name of a mountain. See अञ्जनागिरि. <div n='P'>III. f. 1. (-ना) <sup>1</sup> The mother of the monkey Hanumat. <sup>2</sup> The daughter of Vajrendra and mother of Pravarasena. <div n='P'>2. (-नी) <sup>1</sup> A woman who is fit to be perfumed with sandal &c. <sup>2</sup> The name of a medicinal plant. See कटुका, कालाञ्जनी and अञ्जनकी. <div n='P'>E. अञ्ज्, kṛt aff. ल्युट्."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अञ्जन",
+            "eid": "637",
+            "pagenum": 41,
+            "content": "<b>Añjana</b><sup>1</sup>,¦ a locality? § 305 (Anudyūtap.): II, <b>78</b>, 2574 (“formerly thou wert instructed…near <i>A</i>. by the great ṛṣi Asita…”)."
+        },
+        {
+            "word": "अञ्जन",
+            "eid": "638",
+            "pagenum": 41,
+            "content": "<b>Añjana</b><sup>2</sup>,¦ an elephant. § 564 (Mātalīyop.): V, <b>99</b>, 3561 (among the elephants in Pātāla, born in the race of the elephant Supratīka).—§ 581 (Bhīṣmavadhap.): VI, <b>64</b>ν, 2866 (among the Dig-nāgas ridden by Bākṣasas).—§ 599 (Jayadrathavadhap.): VII, <b>112</b>, 4323 (the Kirātas, q.v., have elephants sprung from the race of <i>A.</i>, of impenetrable hides, well trained…with armour made wholly of gold, resembling Airāvata, having come from the northern hills, ridden by fierce robbers); <b>121</b>ζζ, 829 (many elephants of the race of <i>A.</i>, etc., were slain). Cf. Añjanaka"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अञ्जन",
+            "eid": "00540",
+            "pagenum": 8,
+            "content": "aYjana¦ <i>(I) m.</i> Name of the elephant presiding over the west or south-west quarter."
+        },
+        {
+            "word": "अञ्जन",
+            "eid": "00541",
+            "pagenum": 8,
+            "content": "aYjana¦ <i>(II) n.</i> 1. Act of applying an ointment; 2. black pigment applied to the eyelashes, द्यौरञ्जनकालीभिर्जलदालीभिस्तथावव्रे <ls>R.G.</ls>, <ls>R.</ls>vii.8, वर्षतीवाञ्जनं नभः <ls>Mrich.</ls>i.; 3. ointment; 4. ink; 5. night; 6. a suggested meaning (in rhetoric), See व्यञ्जन; 7. the process by which it is suggested (in rhetoric), अन्यार्थाधीकृद्व्यापृंतिरञ्जनम् <ls>K.Pr.</ls>ii."
+        }
     ]
 }

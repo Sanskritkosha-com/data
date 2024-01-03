@@ -66,5 +66,57 @@
             "pagenum": 728,
             "content": "सेना¦ <i>senā</i> <ab>f.</ab> <i>(si;</i> <ab>sfx.</ab> <i>na)</i> armée.  <P><i>senāgraja</i> <ab>m.</ab> <i>(agraja)</i> chef d'armée.  <P><i>senāṅga</i> <ab>n.</ab> <i>(aṅga)</i> élément d'armée [chars, éléphants, cavaliers, <ab>etc.</ab>].  <P><i>senācara</i> <ab>a.</ab> <i>(ā; car)</i> qui suit ou qui accompagne <lbinfo n='8'/> une armée.  <P><i>senānī</i> <ab>m.</ab> <i>(nī)</i> chef d'armée. || <s1 slp1='kArttikeya'>Kārttikeya</s1>. <lbinfo n='5'/>   <P><i>senāpati</i> <ab>m.</ab> <ab>mms.</ab>  <P><i>senāmukha</i> <ab>n.</ab> front de bataille; avantgarde; <lbinfo n='6'/> || corps composé de 3 éléphants, 3 chars, 9 chevaux et 15 fantassins. || Chemin <lbinfo n='3'/> couvert devant la porte d'une ville.  <P><i>senārakṣa</i> <ab>m.</ab> garde, sentinelle."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सेना",
+            "eid": "38007",
+            "pagenum": 634,
+            "content": "1 से/ना¦ <lex>f.</lex> missile, weapon."
+        },
+        {
+            "word": "सेना",
+            "eid": "38008",
+            "pagenum": 634,
+            "content": "2 †सेना¦ <lex>f.</lex> line of battle, army."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सेना",
+            "eid": "28343",
+            "pagenum": 508,
+            "content": "से/ना¦ <i>f.</i> Geschoss, Heer."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सेना",
+            "eid": "10148",
+            "pagenum": 1578,
+            "content": "<b>sénā,</b>¦ <ab>f.</ab> [von <hom>2.</hom> si], 1〉 <i>Geschoss;</i> 2〉 <i>Heer,</i> <ab>pl.</ab> <i>Heerscharen</i>. In ersterer Bedeutung enthalten in áyuddha-, citrá-, vṛddhá-, mahā́-sena, abhiṣeṇá, ṛṣṭi-, dhṛṣṇú-ṣena, in letzterer in deva-, amitra-, indra-senā́. <div n='TS'>-ā 1〉 〰 ‿iva sṛṣṭā́ {66,7} (neben ástur ná didyút); {143,5} (neben deviā́ yáthā‿aśánis); {519,4}. — 2〉 asya (índrasya) {808,1}; páresām (_{929,14}); pragardhínī {968,4}. <div n='TS'>-ām 2〉 anavadyásya {33,6}. <div n='TS'>-ayā 1〉 agnés {684,7}; {982,2}. <div n='TS'>-ās [<ab>N.</ab> <ab>p.</ab>] 1〉 te (rudrásya) {224,11}; asya (dāsásya) {384,9} (abalā́s). — 2〉 sámanyavas yád samáranta 〰 {541,1}; eṣām (marútām) {186,9}. <div n='TS'>-ās [<ab>A.</ab> <ab>p.</ab>] 2〉 {929,1}. _{929,4}. _{929,7} (asmā́kam). <div n='TS'>-ābhis 1〉 {849,1} (Gegensatz rā́dhasā)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सेना",
+            "eid": "4706",
+            "pagenum": 276,
+            "content": "<b>1sénā,</b>¦ <i><ab>f.</ab></i> a missile; weapon. [<b>√2si,</b> ‘hurl,’ <ls n='wg,1177'>1177a</ls>.]"
+        },
+        {
+            "word": "सेना",
+            "eid": "4707",
+            "pagenum": 276,
+            "content": "<b>2sénā,</b>¦ <i><ab>f.</ab></i> line of battle; acies; army. [akin with <b>sī́tā,</b> ‘furrow,’ <b>sīmán,</b> ‘parting of the hair’: from these a root <b>*sī,</b> ‘draw a straight line,’ may perhaps be inferred.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सेना",
+            "eid": "41537",
+            "pagenum": 795,
+            "content": "senA¦ <i>f.</i> 1. Army, स सेनां महतीं कर्षन् पूर्वसागरगामिनीम् <ls>R.</ls>iv.32; 2. the wife of Kārtikeya, the god of war (?). (See देवसेना and the reference given there)."
+        }
     ]
 }

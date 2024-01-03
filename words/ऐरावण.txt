@@ -36,5 +36,43 @@
             "pagenum": 128,
             "content": "ऐरावण¦ <i>airāvaṇa</i> <ab>m.</ab> <i>(irāvat)</i> l'éléphant d'<s1 slp1='indra'>Indra</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ऐरावण",
+            "eid": "6647",
+            "pagenum": 103,
+            "content": "ऐरावण¦ <lex>m.</lex> <ab>N.</ab> of Indra's elephant."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ऐरावण",
+            "eid": "4102",
+            "pagenum": 68,
+            "content": "ऐरावण¦ <i>m. N.</i> des Elefanten Indra's"
+        }
+    ],
+    "INM": [
+        {
+            "word": "ऐरावण",
+            "eid": "307",
+            "pagenum": 25,
+            "content": "<b>Airāvaṇa</b><sup>1</sup>,¦ the elephant of Indra. § 28 (Amṛtam.): I, <b>18</b>, 1151.—§ 549 (Pāṇḍavapraveśap.): IV, <b>2</b>, 44 (<i>hastiṣu</i> <i>varaḥ</i>).—§ 564 (Mātalīyop.): V, <b>99</b>, 3561 (<i>nāgarāja</i>).— § 599 (Jayadrathavadhap.): VII, <b>112</b>, 4325 (<i>°samā yudhi</i>).— § 611 (Śalyap.): IX, <b>20</b>, 1071, 1077 (<i>nāgendram Indra-</i> <i>vāhyam</i>).—§ 673 (Bali-Vāsava-s.): XII, <b>227</b>, 8222 (<i>caturdantam</i>).—Cf. Airāvata."
+        },
+        {
+            "word": "ऐरावण",
+            "eid": "308",
+            "pagenum": 25,
+            "content": "<b>Airāvaṇa</b><sup>2</sup>,¦ a snake. § 268 (Varuṇa-sabhā-v.): II, <b>9</b>, 360 (in the palace of Varuṇa). Cf. Airāvata."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ऐरावण",
+            "eid": "07557",
+            "pagenum": 155,
+            "content": "ErAvaRa¦ <i>m.</i> Indra’s elephant."
+        }
     ]
 }

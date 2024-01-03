@@ -55,5 +55,83 @@
             "pagenum": 220,
             "content": "गुह्य¦ <i>guhya</i> (<ab>pf.</ab> <ab>ps.</ab> de <i>guh)</i> qu'il faut cacher, <lbinfo n='5'/> secret: <i>guhyādeśa</i> doctrine mystique, <lbinfo n='4'/> instructions secrètes; <i>guhyaṃ nāman</i> nom mystique [par <ab>ex.</ab> <i>arjuna</i> est le nom mystique d'<s1 slp1='indra'>Indra</s1>]. -- <ab>S.</ab> <ab>m.</ab> tortue. || Organe <lbinfo n='2'/> génital; anus. || Orgueil. -- <ab>S.</ab> <ab>n.</ab> secret, mystère; formule magique.  <P><i>guhyaka</i> <ab>m.</ab> (<ab>sfx.</ab> <i>aka)</i> <ab>np.</ab> de demi-dieux gardiens des trésors de <s1 slp1='kuvera'>Kuvera</s1>.  <P><i>guhyakeśvara</i> <ab>m.</ab> <i>(īśvara)</i> le maître des <s1 slp1='guhyaka'>Guhyaka</s1>s, <ab>c-à-d.</ab> <s1 slp1='kuvera'>Kuvera</s1>.  <P><i>guhyaguru</i> <ab>m.</ab> <ab>surn.</ab> de <s1 slp1='Siva'>Śiva</s1> premier instituteur <lbinfo n='8'/> des formules magiques.  <P><i>guhyadīpaka</i> <ab>m.</ab> <i>(dīp)</i> la fulgore, <ab>esp.</ab> d'insecte. || Flammèche, étincelle.  <P><i>guhyabhāṣita</i> <ab>n.</ab> <i>(bhāṣ)</i> formule magique ou <s1 slp1='mantra'>mantra</s1> secret.  <P><i>guhyeśvarī</i> <ab>f.</ab> <i>(īśvara)</i> <s1 slp1='prajYA'>Prajñā</s1> ou la déesse du mystère, énergie féminine d'<s1 slp1='AdibudDa'>Ādibuddha</s1>, <ab>Bd.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "गुह्य",
+            "eid": "9619",
+            "pagenum": 155,
+            "content": "गु/ह्य¦ <lex>a.</lex> (to be) hidden or covered, secret. <lex>n.</lex> a secret, mystery, <ab>adv.</ab> secretly, in silence."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गुह्य",
+            "eid": "6310",
+            "pagenum": 110,
+            "content": "गु/ह्य¦ zu verbergen, geheimnisvoll; <i>n.</i> das Geheimnis, <i>adv.</i> geheim, still."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "गुह्य",
+            "eid": "12319",
+            "pagenum": 1760,
+            "content": "<b>gúhya:</b>¦<info vn='add 287 gra'/> <div n='TS'>-iam [<ab>n.</ab>] 2〉 nā́ma {808,16}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "गुह्य",
+            "eid": "4281",
+            "pagenum": 313,
+            "content": "<b>Guhya</b><sup>1</sup>¦ = Śiva (1000 names<sup>2</sup>)."
+        },
+        {
+            "word": "गुह्य",
+            "eid": "4282",
+            "pagenum": 313,
+            "content": "<b>Guhya</b><sup>2</sup>¦ = Viṣṇu: XII, 13115; XIII, 7007 (1000 names)"
+        },
+        {
+            "word": "गुह्य",
+            "eid": "4283",
+            "pagenum": 313,
+            "content": "<b>Guhya</b><sup>3</sup>¦ = Mahāpuruṣa (Mahāpuruṣastava)."
+        },
+        {
+            "word": "गुह्य",
+            "eid": "4284",
+            "pagenum": 313,
+            "content": "<b>Guhya</b>,¦ pl. = Guhyaka, pl.: III, 173; XV, 848 (<i>°Rākṣasāḥ</i>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "गुह्य",
+            "eid": "1383",
+            "pagenum": 151,
+            "content": "<b>gúhya,</b>¦ <i><ab>grdv.</ab></i> cēlandus; secret, hidden. [do.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गुह्य",
+            "eid": "12347",
+            "pagenum": 247,
+            "content": "guhya¦ <i>(I) a. (f. ह्या)</i> 1. To be concealed; 2. secret, solitary, retired; 3. mysterious, <ls>Bg.</ls>xviii.63."
+        },
+        {
+            "word": "गुह्य",
+            "eid": "12348",
+            "pagenum": 247,
+            "content": "guhya¦ <i>(II) m.</i> 1. Hypocricy; 2. a tortoise."
+        },
+        {
+            "word": "गुह्य",
+            "eid": "12349",
+            "pagenum": 247,
+            "content": "guhya¦ <i>(III) n.</i> 1. A secret, a mystery, मौनं चैवास्मि गुह्यानाम् <ls>Bg.</ls>x.38; 2. a privity, the male or female organ of generation."
+        }
     ]
 }

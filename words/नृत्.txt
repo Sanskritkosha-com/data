@@ -31,5 +31,57 @@
             "pagenum": 379,
             "content": "*नृत्¦ <i>nṛt.</i> <i>nṛtyāmi</i> 4 [<ab>qqf.</ab> <i>nṛtye</i>]; <ab>p.</ab> <i>nanarta;</i> <ab>f2.</ab> <i>nartsyāmi</i> et <i>nartiṣyāmi;</i> <ab>a1.</ab> <i>anarliṣam;</i> <ab>pp.</ab> <i>nṛtta.</i> Se balancer; || danser. <lbinfo n='4'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "नृत्",
+            "eid": "17252",
+            "pagenum": 284,
+            "content": "1 नृत्¦ नृ/त्यति (नृ/त्य°ते) <vlex type='root'/> <ab>pp.</ab> नृत्त/ dance; play, act, represent (<ab>d.</ab>). <ab>C.</ab> नर्त/यति (°ते) cause to dance or to move to and fro. <ab>I.</ab> नरिनर्त्ति, नरीनर्त्ति, नरीनृत्यति, °ते   (cause to) dance about or to and fro.  <div n='p'>—अनु dance after or before (<ab>acc.</ab>). <div n='p'>आ dance or hasten near. <ab>C.</ab> cause to dance or move gently. <div n='p'>उप dance before (<ab>acc.</ab>). <div n='p'>परि dance about (<ab>acc.</ab>). <div n='p'>प्र dance (forwards), begin to dance. <div n='p'>सम् dance together."
+        },
+        {
+            "word": "नृत्",
+            "eid": "17253",
+            "pagenum": 284,
+            "content": "2 नृ/त्¦ <lex>f.</lex> gesture, gesticulation."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नृत्",
+            "eid": "12749",
+            "pagenum": 225,
+            "content": "नृत्¦ <i>f.</i> Gebärde."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "नृत्",
+            "eid": "5088",
+            "pagenum": 751,
+            "content": "<b>√nṛt,</b>¦ 1〉 <i>tanzen;</i> 2〉 ein Stück, einen Tanz <ab>u. s. w.</ab> [<ab>A.</ab>] <i>aufführen,</i> daher bildlich Thaten [<ab>A.</ab>] <i>ausführen;</i> <ab>Caus.</ab> <i>tanzen lassen</i> [<ab>A.</ab>]. <div n='Pf'>Mit <b>ā́</b> <i>tanzend herbeispringen</i> zu [<ab>A.</ab>]. <div n='H'>Stamm I. <b>nṛtya</b> [siehe <ab>Part.</ab>]. <div n='H'>Stamm II. <b>nṛtá</b> [siehe <ab>Part.</ab>]. <div n='H'><ab>Aor.</ab> <b>anartis:</b> <div n='TS'>-ṣus 1〉 (grā́vāṇas) {920,4}. _{920,5}. <div n='H'><ab>Aor.</ab> <b>nṛt:</b> <div n='TS'>-tus <b>ā́</b> útsam {406,12} (kīríṇas). <div n='H'>Stamm des <ab>Caus.</ab> <b>nartáya</b> [siehe <ab>Part.</ab>]. <div n='H'><ab>Part.</ab> <b>nṛ́tyat</b> [von Stamm I.]: <div n='TS'>-atām 1〉 {898,6} (reṇús). <div n='H'><b>nṛtámāna</b> [von Stamm II.]: <div n='TS'>-as 2〉 nṛmṇā́ni {387,6}. <div n='H'><ab>Part.</ab> des <ab>Caus.</ab> <b>nartáyat:</b> <div n='TS'>-an ádrim {51,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "नृत्",
+            "eid": "2376",
+            "pagenum": 184,
+            "content": "<b>√nṛt</b>¦ (<b>nṛ́tyati, -te; nanárta; ánartīt;</b> <b>nartiṣyáti; nṛttá; nártitum; nartitvā́</b> <lbinfo n='nart-itvā́'/> ). dance."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "नृत्",
+            "eid": "20382",
+            "pagenum": 398,
+            "content": "nft¦ <i>vi. 4P (pp. नृत्त; pres. नृत्यति; desid. निनृत्सति)</i> 1. To dance, ननृतुः सहावम् <ls>Bt.</ls>iii.43; 2. to represent on the stage; 3. to jesticulate.<P>With उप- or प्र-, 1. to dance; 2. to dance before somebody.<P>With प्रति-, to mock by dancing in return."
+        },
+        {
+            "word": "नृत्",
+            "eid": "20383",
+            "pagenum": 398,
+            "content": "nft¦ <i>Caus. (नर्तयति-ते)</i> 1. to cause to move; 2. to cause to dance, करकिसलयतालैर्मुग्धया नर्त्यमानम् <ls>Ut.</ls>iii., <ls>Megh.</ls>ii.16.<P>With आ-, to cause to move softly, आनर्तितभ्रूलता <ls>Am.S.</ls>32."
+        }
     ]
 }

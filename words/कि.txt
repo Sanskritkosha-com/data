@@ -43,5 +43,59 @@
             "pagenum": 163,
             "content": "कि¦ <i>ki,</i> racine de <i>kim,</i> <ab>cf.</ab> <i>kas.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कि",
+            "eid": "7749",
+            "pagenum": 120,
+            "content": "कि¦ <ab>interr.</ab> stem in कि/म् & कि/स्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कि",
+            "eid": "4861",
+            "pagenum": 83,
+            "content": "1. कि¦ <i>Interrog.-Stamm in</i> किम् <i>etc.</i>"
+        },
+        {
+            "word": "कि",
+            "eid": "4862",
+            "pagenum": 83,
+            "content": "2. कि¦ <i>das Suffix i (g.)</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कि",
+            "eid": "2546",
+            "pagenum": 325,
+            "content": "<b>(kí),</b>¦ <ab>pr.</ab>, <i>wer?</i> davon der <ab>N.</ab> kís in adverbialem Sinne, der <ab>Acc.</ab> kím im Sinne des Neutrum, kīm in mā́-kīm, ā́-kīm, kiye (<ab>Dat.</ab>) in kiyedhā́; ferner liegt es zu Grunde in kíyat, kīdṛ́ś."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कि",
+            "eid": "7288",
+            "pagenum": 415,
+            "content": "<i>ki</i>¦l13<i>-iṟai</i> (SITI; SII 12), Tamil; minor taxes, or tax fixed at a lower rate."
+        }
+    ],
+    "INM": [
+        {
+            "word": "कि",
+            "eid": "5748",
+            "pagenum": 407,
+            "content": "<b>Kiṃ</b>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कि",
+            "eid": "1116",
+            "pagenum": 141,
+            "content": "<b>ki,</b>¦ <i><ab>cf.</ab></i> <b>1ká 4,</b> <i>and</i> <ls n='wg,504'>504.</ls>"
+        }
     ]
 }

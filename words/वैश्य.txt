@@ -55,5 +55,51 @@
             "pagenum": 622,
             "content": "वैश्य¦ <i>vaiśya</i> <ab>m.</ab> [<ab>f.</ab> <i>ā</i>] un viça, un homme de la 3{^e^} caste; <ab>cf.</ab> <i>viś</i> <ab>m.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "वैश्य",
+            "eid": "31192",
+            "pagenum": 526,
+            "content": "1 वै/श्य¦ <lex>m.</lex> आ <lex>f.</lex> a man & woman of the third caste; <lex>n.</lex> वै/श्य condition of a V., dependence."
+        },
+        {
+            "word": "वैश्य",
+            "eid": "31193",
+            "pagenum": 526,
+            "content": "2 वैश्य¦ <lex>a.</lex> relating to a Vaiśya (<ab>v.</ab> <ab>prec.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वैश्य",
+            "eid": "23650",
+            "pagenum": 427,
+            "content": "वै/श्य¦ <i>m.</i> ein Angehöriger der dritten Kaste, Mann des Volkes <i>(f.</i> आ). <i>n.</i> Unterthänigkeit, <lbinfo n='11'/> Abhängigkeit. <i>Adj.</i> einem V. eigentümlich."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वैश्य",
+            "eid": "8502",
+            "pagenum": 1356,
+            "content": "<b>vaíśya,</b>¦ <ab>m.</ab>, <i>Angehöriger der dritten Kaste</i> [víś], in einem sehr späten Liede. <div n='TS'>-as {916,12}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वैश्य",
+            "eid": "4048",
+            "pagenum": 253,
+            "content": "<b>vaíśya,</b>¦ <i><ab>adj.</ab> <ab>subst.</ab></i> man of the viś <i>or</i> folk <i>or</i> third caste, <ls n='lan,57,16'>57<sup>16</sup></ls>. [<b>víś,</b> <ls n='wg,1211'>1211.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वैश्य",
+            "eid": "36490",
+            "pagenum": 695,
+            "content": "vESya¦ <i>m.</i> A man of the third caste, (दिशत्याशु पशुभ्यश्च कृश्यादानरुचिः शुचिः । वेदाध्ययनसंपन्नः स वैश्य इति संज्ञितः) <ls>M.</ls>i.31."
+        }
     ]
 }

@@ -43,5 +43,57 @@
             "pagenum": 744,
             "content": "*स्वन्¦ <i>svan.</i> <i>svanayāmi</i> et <i>svānayāmi</i> <lbinfo n='6'/> 10. Orner."
         }
+    ],
+    "CAE": [
+        {
+            "word": "स्वन्",
+            "eid": "38893",
+            "pagenum": 650,
+            "content": "स्वन्¦ स्वनति स्वन°ते <vlex type='root'/> <ab>pp.</ab> स्वनित (<ab>q.v.</ab>) sound, roar, cry, hum. <ab>C.</ab> स्वनयति = <ab>S.</ab> <div n='p'>— अव cry or roar down. <div n='p'>आ sound. <div n='p'>परि (<ab>I.</ab> सनिष्वत्) clang. <div n='p'>प्र roar. <div n='p'>प्रति sound back, re-echo. <div n='p'>वि roar, howl, sound."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "स्वन्",
+            "eid": "28913",
+            "pagenum": 521,
+            "content": "स्वन्,¦ स्वनति, °ते schallen, tosen, dröhnen rauschen, brummen, summen. परि klingen, वि schallen, heulen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "स्वन्",
+            "eid": "10393",
+            "pagenum": 1625,
+            "content": "<b>√svan</b>¦ [<ls>Ku. 〔4,17〕</ls>; <ls n='Ku. '>〔9,10〕</ls>], <i>rauschen</i> von Wasser, Feuer, Wagenrad; <ab>Caus.</ab> ebenso. <div n='Pf'>Mit <b>áva</b> <i>herabrauschen,</i> <ab>d. h.</ab> <i>rauschend herabkommen</i>. <div n='Pf'><b>pári</b> <ab>Intens.</ab> <i>erklingen,</i> von der Saite eines musikalischen Instruments. <div n='Pf'><b>prá</b> <i>vorwärts rauschen,</i> <ab>d. h.</ab> <i>rauschend vorschreiten</i>. <div n='H'><ab>Aor.</ab> <pe n='2ten/zweiten'>2.</pe> <pe n='3ten/dritten'>3.</pe> <ab>ps.</ab> <b>ásvanī:</b> <div n='TS'>-īt <b>áva</b> śyenás {323,3}. <div n='H'><b>svānī:</b> <div n='TS'>-īt vā́r ná pathā́ rathíā‿iva 〰 {195,6} (agnís). <div n='H'>Stamm des <ab>Caus.</ab> <b>svanaya:</b> <div n='TS'>-an asyá (agnés) śúṣmāsas {829,6}. <div n='H'>Stamm des <ab>Intens.</ab> <b>saniṣvan:</b> <div n='TS'>-ṇat <b>pári</b> godhā́ {678,9}. <div n='H'><ab>Part.</ab> II. <b>svanita:</b> <div n='TS'>-āsas <b>prá</b> síndhos ūrmáyas {44,12}. <div n='H'>Verbale <b>sván:</b> <div n='P'>siehe das folgende Wort, und tuvi-ṣván."
+        },
+        {
+            "word": "स्वन्",
+            "eid": "10394",
+            "pagenum": 1625,
+            "content": "<b>sván,</b>¦ <ab>a.</ab>, <i>rauschend</i> [von svan]. <div n='TS'>-áni ávye jīrā́v ádhi ṣváṇi {778,9}; sollte es Verb sein (<ls>BR.</ls>), so müsste die Betonung geändert werden."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "स्वन्",
+            "eid": "4811",
+            "pagenum": 282,
+            "content": "<b>√svan</b>¦ (<b>svánati, -te; sasvā́na; ásvanīt,</b> <b>ásvānīt; svanitá</b>). sound, resound, roar. [<ab>cf.</ab> <ab>Lat.</ab> <i>sonus,</i> ‘sound’; Old <ab>Lat.</ab> <i>son-it,</i> ‘sounds’; <ab>AS.</ab> <i>swinsian,</i> ‘sound’; <ab>Eng.</ab> <i>swan,</i> so named from its song; similarly in <ab>Ger.</ab> the cock is called <i>Hahn,</i> a name akin <ab>w.</ab> <ab>Lat.</ab> <i>can-ere,</i> ‘sing’--<ab>cf.</ab> Hamlet i. 1. <ls n='wg,160'>160,</ls> “the bird of dawning singeth.”]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "स्वन्",
+            "eid": "42665",
+            "pagenum": 820,
+            "content": "svan¦ <i>vi. 1P (pres. स्वनिति)</i> 1. To sound, to make a noise, वेणवः कीचकास्ते स्युर्ये स्वनंत्यनिलोद्धताः <ls>Am.</ls>ii.4, 161; 2. to sing."
+        },
+        {
+            "word": "स्वन्",
+            "eid": "42666",
+            "pagenum": 820,
+            "content": "svan¦ <i>Caus. (स्वनयति-ते)</i> 1. to make to resound; 2. to sound; 3. to adorn; (in this sense स्वानयति)."
+        }
     ]
 }

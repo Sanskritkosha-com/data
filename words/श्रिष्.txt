@@ -31,5 +31,43 @@
             "pagenum": 661,
             "content": "*श्रिष्¦ <i>śriṣ.</i> <i>śreṣāmi</i> 4. Brûler."
         }
+    ],
+    "CAE": [
+        {
+            "word": "श्रिष्",
+            "eid": "33353",
+            "pagenum": 561,
+            "content": "श्रिष्¦ श्रेषति <vlex type='root'/> join, connect (<ab>cf.</ab> श्र्लिष्)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "श्रिष्",
+            "eid": "25195",
+            "pagenum": 454,
+            "content": "श्रिष्,¦ श्रेषति verbinden <i>(vgl.</i> श्लिष्)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "श्रिष्",
+            "eid": "8981",
+            "pagenum": 1424,
+            "content": "<b>√śriṣ,</b>¦ <i>verbinden, zusammenschliessen</i>. Die Form śreṣāma siehe unter śri. <div n='H'>Verbale <b>śrís</b> als <ab>Inf.</ab>: <div n='TS'>-íṣas [<ab>Ab.</ab>] siehe für sich."
+        },
+        {
+            "word": "श्रिष्",
+            "eid": "12638",
+            "pagenum": 1772,
+            "content": "<b>śriṣ</b>¦<info vn='add 577 gra'/> <div n='Pf'>mit <b>ā́,</b> <i>hängen bleiben</i> an [<ab>L.</ab>], <div n='H'>Stamm *śris: <div n='TS'>-ṣat ā́ mā́ tád bhū́myām 〰 {162,11}; <div n='H'>Verbale <b>śríṣ:</b> <div n='TS'>-íṣas [<ab>Ab.</ab>] <b>abhi</b>."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "श्रिष्",
+            "eid": "38547",
+            "pagenum": 732,
+            "content": "Sriz¦ <i>vt. 1P (pres. श्रेषति)</i> To burn."
+        }
     ]
 }

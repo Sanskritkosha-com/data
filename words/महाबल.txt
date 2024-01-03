@@ -55,5 +55,43 @@
             "pagenum": 261,
             "content": "महाबल¦ (<i>BAH.</i> e महा et बल) magnam vim habens. H. 1. 1."
         }
+    ],
+    "CAE": [
+        {
+            "word": "महाबल",
+            "eid": "24264",
+            "pagenum": 402,
+            "content": "महाबल¦ <lex>a.</lex> very strong or mighty."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "महाबल",
+            "eid": "18422",
+            "pagenum": 326,
+            "content": "महाबल¦ sehr stark, mächtig."
+        }
+    ],
+    "INM": [
+        {
+            "word": "महाबल",
+            "eid": "6718",
+            "pagenum": 453,
+            "content": "<b>Mahābala</b><sup>1</sup>¦ = Śiva (1000 names<sup>2</sup>).—Do.<sup>2</sup> = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "महाबल",
+            "eid": "29582",
+            "pagenum": 560,
+            "content": "mahA-bala¦ <i>(I) m.</i> wind."
+        },
+        {
+            "word": "महाबल",
+            "eid": "29583",
+            "pagenum": 560,
+            "content": "mahA-bala¦ <i>(II) n.</i> lead."
+        }
     ]
 }

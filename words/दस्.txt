@@ -31,5 +31,43 @@
             "pagenum": 315,
             "content": "*दस्¦ <i>das.</i> <i>dasyāmi</i> 4; <ab>p.</ab> <i>dadāsa;</i> <ab>etc.</ab> Périr, se perdre. || Lancer."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दस्",
+            "eid": "13469",
+            "pagenum": 221,
+            "content": "दस्¦ द/स्यति <vlex type='root'/> <ab>pp.</ab> दस्त suffer want, languish. <ab>C.</ab> दसयते exhaust, consume. अप, उप, प्र & वि be exhausted, be wanting, fail."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दस्",
+            "eid": "9520",
+            "pagenum": 169,
+            "content": "दस्¦ द/स्यति abnehmen, ausgehen, Mangel leiden. <i>Caus.</i> दसयते <i>u.</i> दसयति (—°) erschöpfen. अप, उप <i>u.</i> वि versiegen, ausgehen, mangeln."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दस्",
+            "eid": "4150",
+            "pagenum": 583,
+            "content": "<b>√das,</b>¦ <i>verschmachten;</i> <ab>caus.</ab> <i>verschmachten machen, erschöpfen</i> [<ab>A.</ab>]. <div n='Pf'>Mit <b>ápa,</b> <i>versiegen</i>. <div n='Pf'><b>úpa</b> 1〉 <i>sich erschöpfen, zu Ende gehen, ausgehen, versiegen;</i> 2〉 jemand [<ab>Ab.</ab>] <i>ausgehen, mangeln</i>. <div n='Pf'><b>ví</b> wie úpa (<ab>vgl.</ab> avidasyá). <div n='Pf'><b>sám,</b> <i>verlöschen</i> (vom Feuer). [Page584] <div n='H'>Stamm I. <b>dasa:</b> <div n='TS'>-at [<ab>C.</ab>] <b>úpa</b> 2〉 mā́ vām rātís asmát {139,5}. — <b>ví</b> 2〉 mā́ ṣā́ te asmát sumatís 〰 {121,15}. <div n='H'>Stamm II. <b>dásya</b> (betont nur {663,33}): <div n='TS'>-ati <b>upa</b> 1〉 dātrám {663,33}. — <b>úpa</b> 2〉 pṛṇatás {943,1} (rayís). <div n='TS'>-anti <b>ápa:</b> dhenávas {135,8}. — <b>úpa</b> 1〉 rā́yas {62,12} (parallel kṣī́yante); dhenávas {135,8}; {409,5}; rā́yas, ūtáyas {408,7}. — <b>ví:</b> rātáyas, ūtáyas {11,3}. <div n='TS'>-et <b>ví</b> 2〉 vāyós {478,3} (amṛ́tam). <div n='H'><ab>Aor.</ab> <b>dāsī:</b> <div n='TS'>-īt <b>ví</b> 2〉 mā́ asmát {517,21} (vīrás nárias). <div n='H'>Stamm des <ab>Caus.</ab> <b>dasaya:</b> <div n='TS'>-anta bhū́ma {399,3}. <div n='H'><ab>Part.</ab> <b>dásamāna</b> [von Stamm I.]: <div n='TS'>-as tsārī́ {134,5}. <div n='H'><ab>Part.</ab> <ab>Perf.</ab> <b>dadasvás:</b> <div n='TS'>-ā́n sam (agnís) {193,6}."
+        },
+        {
+            "word": "दस्",
+            "eid": "4151",
+            "pagenum": 584,
+            "content": "<b>(dás),</b>¦ <i>gebend</i> [von dā], in draviṇodás."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दस्",
+            "eid": "1912",
+            "pagenum": 168,
+            "content": "<b>√das</b>¦ (<b>dásyati; dadā́sa; ádasat; dastá;</b> <b>dāsáyati</b>). suffer lack. [<ab>cf.</ab> <b>√dās, dasyu:</b> also <lang n='greek'>δέω</lang>, ‘lack.’] <div n='p'/><b>+ vi,</b> become exhausted."
+        }
     ]
 }

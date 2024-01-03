@@ -50,5 +50,45 @@
             "pagenum": 704,
             "content": "संसद्¦ <i>saṃsad</i> <ab>f.</ab> <i>(sad)</i> réunion; séance."
         }
+    ],
+    "CAE": [
+        {
+            "word": "संसद्",
+            "eid": "33893",
+            "pagenum": 570,
+            "content": "संस/द्¦ <lex>f.</lex> assembly, community, company, multitude; law-court, court of a prince."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "संसद्",
+            "eid": "25595",
+            "pagenum": 462,
+            "content": "संस/द्¦ <i>f.</i> Versammlung, Gemeinde, Gesellschaft, <lbinfo n='11'/> Verein."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "संसद्",
+            "eid": "9084",
+            "pagenum": 1439,
+            "content": "<b>saṃ-sád,</b>¦ <ab>f.</ab> [von sad <ab n='mit'>m.</ab> sám], 1〉 <i>Versammlung,</i> besonders <i>Festgelage;</i> 2〉 jemandes [<ab>G.</ab>] <i>Gemeinschaft,</i> das <i>Zusammensein</i> mit ihm; 3〉 in saptá saṃsádas scheint es concret gefasst: die sieben Genossenschaften. — <ab>Vgl.</ab> su-, svādu-ṣaṃsád. <div n='TS'>-ád 1〉 pitumátī‿iva 〰 {297,8}. <div n='TS'>-ádam 1〉 asunvā́m {634,15}. <div n='TS'>-ádā 2〉 te (vā́stoṣ pátes) {570,3} (śagmátyā raṇváyā gātumátyā). <div n='TS'>-ádi 1〉 {94,1}. — 2〉 asyá devásya {520,3}. <div n='TS'>-ádas [<ab>N.</ab> <ab>p.</ab>] 3〉 {701,20} (ráṇanti)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "संसद्",
+            "eid": "4328",
+            "pagenum": 263,
+            "content": "<b>saṃsád,</b>¦ <i><ab>f.</ab> like <ab>Lat.</ab></i> consessus, a sitting together <i>and</i> those who sit together, <i><ab>i. e.</ab></i> assembly. [<b>√sad + sam.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "संसद्",
+            "eid": "39067",
+            "pagenum": 742,
+            "content": "saMsad¦ <i>f.</i> 1. An assembly, e.g. छात्रसंसदि लब्धकीर्तिः; 2. a court of justice, <ls>M.</ls>viii.52."
+        }
     ]
 }

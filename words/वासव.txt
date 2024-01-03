@@ -60,5 +60,73 @@
             "pagenum": 580,
             "content": "वासव¦ <i>vāsava</i> <ab>m.</ab> <i>(vasu)</i> <s1 slp1='indra'>Indra</s1>. -- <ab>F.</ab> <i>vāsavī</i> la mère de <s1 slp1='vyAsa'>Vyāsa</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वासव",
+            "eid": "29021",
+            "pagenum": 488,
+            "content": "1 वासव/¦ <lex>f.</lex> ई relating to or descended from the Vasus; <lex>m.</lex> <ab>E.</ab> of Indra."
+        },
+        {
+            "word": "वासव",
+            "eid": "29022",
+            "pagenum": 488,
+            "content": "2 वासव¦ <lex>f.</lex> ई belonging to Indra; <lex>f.</lex> ई (±दिश्) his region, the east."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वासव",
+            "eid": "22054",
+            "pagenum": 399,
+            "content": "1. वासव/,¦ <i>f.</i> ई von den Vasu stammend; <i>m. Bein. Indra's.</i>"
+        },
+        {
+            "word": "वासव",
+            "eid": "22055",
+            "pagenum": 399,
+            "content": "2. वासव,¦ <i>f.</i> ई Indra gehörig; <i>f.</i> <i>(mit u.</i> <i>ohne</i> दिश्) der Osten."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वासव",
+            "eid": "11647",
+            "pagenum": 713,
+            "content": "<b>Vāsava</b>¦ = Indra, q.v. (add. VI, 1706 (only B.)).—Do.<sup>2</sup> = Śiva (1000 names<sup>2</sup>)."
+        },
+        {
+            "word": "वासव",
+            "eid": "11648",
+            "pagenum": 713,
+            "content": "<b>Vāsava</b>,¦ adj. (“belonging to Vasu [Uparicara]”). § 76 (Matsya): I, <b>63</b>, 2389 (<i>vīryaṃ</i>)."
+        },
+        {
+            "word": "वासव",
+            "eid": "11649",
+            "pagenum": 713,
+            "content": "<b>Vāsava</b>,¦ adj. (“belonging to Vāsava [i.e. Indra]”). § 358 (Tīrthayātrāp.): III, <b>82</b>, 5030 (<i>lokaṃ</i>).—§ 547 (Karṇa): III, <b>310</b>, 17211 (sc. <i>śaktiṃ</i>, i.e. Amoghā given by Indra to Karṇa).—§ 599 (Jayadrathavadhap.): VII, <b>147</b>, 6331 (sc. <i>śaktiḥ</i>, do.).—§ 600 (Ghaṭotkacavadhap.): VII, <b>173</b>, 7812 (sc. <i>śaktiḥ</i>, do.); <b>183</b>, 8302 (sc. <i>śaktiṃ</i>, do.), 8303 (sc. <i>śaktiḥ</i>, do.), 8354 (sc. <i>śaktiḥ</i>, do.), 8356 (sc. <i>śaktiṃ</i>, do.).—§ 611 (Śalyap.): IX, <b>11</b>, 581 (<i>°īm aśanīm iva</i>).—§ 641 (Rājadh.): XII, <b>64</b>, 2399 (<i>rūpaṃ</i>).—§ 759 (Ānuśāsanik.): XIII, <b>107</b>, 5225 (<i>lokaṃ</i>)."
+        },
+        {
+            "word": "वासव",
+            "eid": "11650",
+            "pagenum": 713,
+            "content": "<b>Vāsava</b>,¦ pl. (<i>°āḥ</i>) (“the sons of vasu [Uparicara]”). § 74 (Vasu): I, <b>63</b>, 2365 (<i>pañca</i>, i.e. Bṛhadratha, etc.)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वासव",
+            "eid": "34562",
+            "pagenum": 656,
+            "content": "vAsava¦ <i>(I) a. (f. वी)</i> Belonging to Indra, रक्षाहेतोर्नवशशिभृता वासवीनां चमूनाम् <ls>Megh.</ls>i.43."
+        },
+        {
+            "word": "वासव",
+            "eid": "34563",
+            "pagenum": 656,
+            "content": "vAsava¦ <i>(II) m.</i> An epithet of Indra, <ls>R.</ls>iii.58, v.5."
+        }
     ]
 }

@@ -44,5 +44,49 @@
             "pagenum": 482,
             "content": "भ्रातृ¦ <i>bhrātṛ</i> <ab>m.</ab> <i>(bhṛ;</i> <ab>sfx.</ab> <i>tṛ)</i> frère; || au <ab>du.</ab> le frère et la sœur. || <ab>Gr.</ab> <lang n='greek'>φράτωρ</lang>; <ab>lat.</ab> frater; <ab>germ.</ab> bruder; <ab>ang.</ab> brother; <ab>irl.</ab> brathair; <ab>etc.</ab>  <P><i>bhrātṛka</i> <ab>a.</ab> fraternel, du frère.  <P><i>bhrātṛja</i> <ab>m.</ab> <i>(jan)</i> neveu [né du frère].  <P><i>bhrātṛjāyā</i> et <i>bhrātṛpatnī</i> <ab>f.</ab> belle-sœur [femme du frère].  <P><i>bhrātṛvya</i> <ab>m.</ab> (<ab>sfx.</ab> <i>vya)</i> neveu [né du frère]. || Ennemi.  <P><i>bhrātṛśvasura</i> <ab>m.</ab> frère aîné du mari.  <P><i>bhrātrīya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>īya)</i> fraternel. -- <ab>S.</ab> <ab>m.</ab> neveu [fils du frère]."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भ्रातृ",
+            "eid": "23347",
+            "pagenum": 387,
+            "content": "भ्रा/तृ¦ <lex>m.</lex> brother (in confidential address also = friend, dear.)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "भ्रातृ",
+            "eid": "6469",
+            "pagenum": 967,
+            "content": "<b>bhrā́tṛ,</b>¦ <ab>m.</ab> [<gk>φρᾱ́τηρ</gk>, frāter, <lang>go.</lang> brothar, <ab>u. s. w.</ab> <ls>Cu. 〔414〕</ls>], 1〉 der <i>Bruder,</i> ursprünglich als der die Familie stützende, aufrecht erhaltende [bhṛ 7] aufgefasst; 2〉 auch Götter werden, wie anderwärts als Väter, so auch oft als <i>Brüder</i> der Menschen aufgefasst; so auch 3〉 engverbundene Götter als <i>Brüder</i>. <div n='TS'>-ar [<ab>V.</ab>] 2〉 agne {161,1}. _{161,3}; {492,5}; {663,16}; indra {287,5}; agastia {170,3} (Indra spricht). <div n='TS'>-ā 1〉 {65,7}; {836,11}. _{836,12}; {988,5}. — 2〉 sómas {191,6}; (agnís) 〰 nas jyeṣṭhás prathamás {837,2}; vā́tas {1012,2}. — 3〉 (pūṣā́) 〰 índrasya {496,5}; in {164,1} werden die verschiedenen Erscheinungsformen des Agni als Brüder aufgefasst. <div n='TS'>-aram 1〉 {388,4}; {439,7}. — 2〉 váruṇam {297,2}; agním {833,3} (manye). <div n='TS'>-ur [<ab>Ab.</ab>] {621,6}. <div n='TS'>-ur [<ab>G.</ab>] 1〉 {299,13} ṛṇám; {881,1} putrā́n; {925,2} ṛté. <div n='TS'>-arā [<ab>d.</ab>] 1〉 {500,2} samānás vām janitā 〰 yuvám (indrāgnī). <div n='TS'>-aras 1〉 {414,5}; {860,4}. — 3〉 {170,2} 〰 marútas táva (índrasya)."
+        },
+        {
+            "word": "भ्रातृ",
+            "eid": "12433",
+            "pagenum": 1765,
+            "content": "<b>bhrā́tṛ:</b>¦<info vn='add 392 gra'/> <div n='TS'>-aras 1〉 {877,6}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भ्रातृ",
+            "eid": "3071",
+            "pagenum": 209,
+            "content": "<b>bhrā́tṛ</b>¦ [<ls n='wg,373'>373]</ls>, <i><ab>m.</ab></i> brother. [origin unknown, <lbinfo n='un-known,'/> <ab>cf.</ab> <ls n='wg,1182'>1182d</ls>: <ab>cf.</ab> <lang n='greek'>φρά-τηρ</lang>, ‘brother, <i><ab>esp.</ab></i> one of a brotherhood <i>or</i> clan,’ and so, ‘clansman’; <ab>Lat.</ab> <i>frā-ter,</i> ‘brother’; <ab>Eng.</ab> <i>brother.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भ्रातृ",
+            "eid": "28143",
+            "pagenum": 539,
+            "content": "BrAtf¦ <i>(I) m.</i> 1. A brother, <ls>M.</ls>ix.118; 2. an intimate friend; 3. a relative in general; 4. a term of friendly address, तत्वं चिंतय तदिदं भ्रातः <ls>M.Mud.</ls>3."
+        },
+        {
+            "word": "भ्रातृ",
+            "eid": "28144",
+            "pagenum": 539,
+            "content": "BrAtf¦ <i>(II) m. du.</i> Brother and sister."
+        }
     ]
 }

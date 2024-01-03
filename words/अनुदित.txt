@@ -7,5 +7,45 @@
             "pagenum": 71,
             "content": "अनुदित¦ <i><ab>a.</ab></i> <b>1</b> Unsaid, not <lbinfo n='utter+ed'/> uttered. <b>--2</b> Not risen or appeared forth."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अनुदित",
+            "eid": "1430",
+            "pagenum": 21,
+            "content": "अ/नुदित¦ <lex>a.</lex> unspoken or not risen."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अनुदित",
+            "eid": "947",
+            "pagenum": 14,
+            "content": "अ/नुदित¦ unausgesprochen o. unaufgegangen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अनुदित",
+            "eid": "520",
+            "pagenum": 60,
+            "content": "<b>án-udita,</b>¦ <ab>a.</ab>, <i>nicht auszusprechen</i> [uditá <ab n='siehe'>s.</ab> vad], <i>unrecht</i> [nefandus]. <div n='TS'>-āsas {921,1} mántrās."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अनुदित",
+            "eid": "2990",
+            "pagenum": 90,
+            "content": "अनुदित¦ Tatpur. m. f. n. (-तः-ता-तम्) I. Unrisen. II. Unsaid, unuttered. E. अ neg. and उदित."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अनुदित",
+            "eid": "211",
+            "pagenum": 116,
+            "content": "<b>án-udita,</b>¦ <i><ab>a.</ab></i> not arisen. [<b>√i + ud.</b>]"
+        }
     ]
 }

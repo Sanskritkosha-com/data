@@ -69,5 +69,77 @@
             "pagenum": 463,
             "content": "बाण¦ <i>bāṇa</i> <ab>m.</ab> <ab>cf.</ab> <i>vāṇa.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "बाण",
+            "eid": "21973",
+            "pagenum": 362,
+            "content": "1 बाण/¦ बा/ण <lex>m.</lex>  reed-shaft, arrow, <ab>N.</ab> of an Asura <ab>etc.</ab>; बाणवत् <ab>adv.</ab> like an arrow."
+        },
+        {
+            "word": "बाण",
+            "eid": "21974",
+            "pagenum": 362,
+            "content": "बा/ण¦ <lex>m.</lex> reed-shaft, arrow, <ab>N.</ab> of an Asura <ab>etc.</ab>; बाणवत् <ab>adv.</ab> like an arrow."
+        },
+        {
+            "word": "बाण",
+            "eid": "21975",
+            "pagenum": 362,
+            "content": "2 बाण/¦ <ab>v.</ab> वाण/."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "बाण",
+            "eid": "16640",
+            "pagenum": 292,
+            "content": "1. बाण/¦ <i>u.</i> बा/ण <i>m.</i> Pfeil; <i>männl. Name</i>; बाणवत् <i>adv.</i> wie ein Pfeil."
+        },
+        {
+            "word": "बाण",
+            "eid": "16641",
+            "pagenum": 292,
+            "content": "2. बाण/¦ s. वाण."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "बाण",
+            "eid": "6192.1",
+            "pagenum": 904,
+            "content": "<chg type='chg' n='159' src='gra'><old><b>āná,</b></old><new><b>bāṇá,</b></new></chg>¦ <ab>m.</ab>, <i>Pfeil,</i> wol für vāṇá [<ab>s. d.</ab>] von vraṇa (<lang>lat.</lang> vuln-us) und dem daraus abgeleiteten Denominativ vraṇayāmi verwunden, also als der verwundende. <div n='TS'>-ā́s {516,17}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "बाण",
+            "eid": "798",
+            "pagenum": 45,
+            "content": "<i>bāṇa</i>¦ (IE 7-1-2; EI 25), ‘five’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "बाण",
+            "eid": "1209",
+            "pagenum": 112,
+            "content": "<b>Bāṇa</b><sup>1</sup>¦ (an Asura, son of Bali). § 91 (Aṃśāv.): I, <b>67</b>, 2528 (<i>Mahāsura</i>; a follower of Rudra, and also called Mahākāla; cf. Daitya, pl.).—§ 561 (Yānasandhip.): V, <b>62</b>, †2421 (<i>Vāṇasya</i> <i>Bhaumasya ca Karṇa hantā…Vāsudevaḥ</i>).—§ 567 (Bhagavadyānap.): V, <b>130</b>ξ, 4412 (<i>Vāṇaś ca nihataḥ saṅkhye</i> by Kṛṣṇa).—§ 615<i>u</i> (Skanda): IX, <b>46</b>, 2700 (v. Bali; he sought refuge in the Krauñca mountain).—§ 673<i>b</i> (BaliVāsavas.): XII, <b>227</b>α, 8264.—§ 717 (Nārāyaṇīya): XII, <b>340</b>, 12957, 12958 (<i>tataḥ sutaṃ Valer jitvā Vāṇaṃ bāhu-</i> <i>sahasriṇaṃ</i>)."
+        },
+        {
+            "word": "बाण",
+            "eid": "1210",
+            "pagenum": 112,
+            "content": "<b>Bāṇa</b><sup>2</sup>¦ (a warrior of Skanda's). § 615<i>u</i> (Skanda): IX, <b>45</b>η, 2569."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "बाण",
+            "eid": "26336",
+            "pagenum": 505,
+            "content": "bARa¦ <i>m.</i> 1. An arrow, a shaft, <ls>R.</ls>xii.50; 2. an aim; 3. the udder of a cow; 4. the feathered end of an arrow; 5. a kind of creeper (नीलझिंटी), विकचबाणदलावलयोऽधिकं रुरुचिरे रुचिरेक्षणविभ्रमाः <ls>Sis.</ls>vi.46; 6. name of a demon, son of Virochana; 7. name of a celebrated poet, the author of Kādambarī, Harshacharita and many other works, who flourished between 600 and 650 A.D., जाता शिखंडिनी प्राग्यथा शिखंडी तथावगच्छामि । प्रागल्भ्यमधिकमाप्तुं वाणी बाणो बभूवेति <ls>Govardhana</ls>; 8. the number ‘five.’"
+        }
     ]
 }

@@ -36,5 +36,51 @@
             "pagenum": 383,
             "content": "पङ्क्ति¦ <i>paṅkti</i> <ab>f.</ab> <i>(pañc;</i> <ab>sfx.</ab> <i>ti)</i> ligne, rangée, série. || Stance de 4 vers de 5 <s1 slp1='pAda'>pāda</s1>s <lbinfo n='3'/> chacun; || par <ab>ext.</ab> dix [en compos]. || La terre. -- <i>(pac)</i> cuisson; || maturation.  <P><i>paṅkligrīva</i> <ab>m.</ab> <s1 slp1='rAvaRa'>Rāvaṇa</s1> aux 10 cols.  <P><i>paṅktiratha</i> <ab>m.</ab> le roi <s1 slp1='daSaraTa'>Daśaratha</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पङ्क्ति",
+            "eid": "17522",
+            "pagenum": 288,
+            "content": "पङ्क्ति/¦ <lex>f.</lex>  a set or row of five; group, troop, assembly, party; a kind of metre."
+        },
+        {
+            "word": "पङ्क्ति",
+            "eid": "17523",
+            "pagenum": 288,
+            "content": "प/ङ्क्ति¦ <lex>f.</lex> a set or row of five; group, troop, assembly, party; a kind of metre."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पङ्क्ति",
+            "eid": "12986",
+            "pagenum": 229,
+            "content": "पङ्क्ति/¦ <i>u.</i> पङ्क्ती <i>f.</i> Fünfzahl, Pentade; Reihe, Gruppe, Schar; <i>N. eines Matrums.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "पङ्क्ति",
+            "eid": "5161",
+            "pagenum": 758,
+            "content": "<b>paṅktí,</b>¦ <ab>f.</ab>, <i>Schar von Fünfen</i> [von páñcan]. <div n='TS'>-ī́s [<ab>A.</ab> <ab>pl.</ab>] {943,8}. <div n='TS'>-ís <ls>AV. 9,10,21</ls> bhúvanasya 〰 (Variante zu paramé víoman <ls>RV.</ls> {164,41})."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "पङ्क्ति",
+            "eid": "4078",
+            "pagenum": 234,
+            "content": "<i>paṅkti</i>¦ (IE 7-1-2), ‘ten’."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "पङ्क्ति",
+            "eid": "2405",
+            "pagenum": 185,
+            "content": "<b>paṅktí,</b>¦ <i><ab>f.</ab></i> set <i>or</i> series <i>or</i> row of five; row <i>in general.</i> [<b>páñca,</b> <ls n='wg,1157'>1157.</ls> 4.]"
+        }
     ]
 }

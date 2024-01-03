@@ -7,5 +7,29 @@
             "pagenum": 210,
             "content": "गन्तु¦ <i>gantu</i> <ab>m.</ab> <i>(gam;</i> <ab>sfx.</ab> <i>tu)</i> voyageur."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गन्तु",
+            "eid": "9253",
+            "pagenum": 147,
+            "content": "ग/न्तु¦ <lex>m.</lex> way, course."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गन्तु",
+            "eid": "6012",
+            "pagenum": 103,
+            "content": "ग/न्तु¦ <i>m.</i> Weg, Lauf."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "गन्तु",
+            "eid": "2892",
+            "pagenum": 376,
+            "content": "<b>gántu,</b>¦ <ab>m.</ab>, der <i>Gang, Lebensgang, Lebenslauf</i> [von gám], als <ab>Inf.</ab> <ab>s. u.</ab> gam. <div n='TS'>-os [<ab>Ab.</ab>] {288,18}. <div n='TS'>-os [<ab>G.</ab>] {89,9} madhyā́ gántos."
+        }
     ]
 }

@@ -15,5 +15,49 @@
             "pagenum": 284,
             "content": "तन्ति¦ <i>tanti</i> <ab>m.</ab> (<ab>sfx.</ab> <i>ti)</i> tisserand."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तन्ति",
+            "eid": "11924",
+            "pagenum": 197,
+            "content": "तन्ति/¦ <lex>f.</lex>  cord, rope, line."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तन्ति",
+            "eid": "8197",
+            "pagenum": 146,
+            "content": "तन्ति/¦ <i>u.</i> तन्ती <i>f.</i> Strick, Leine."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तन्ति",
+            "eid": "3652",
+            "pagenum": 521,
+            "content": "<chg type='chg' n='118' src='gra'><old><b>tánti,</b></old><new><b>tantí,</b></new></chg>¦ <ab>f.</ab>, <i>Schnur, Seil</i> [von <hom>1.</hom> tan]. <div n='TS'><chg type='chg' n='119' src='gra'><old>-ayas</old><new>-áyas</new></chg> vatsā́naam ná 〰 {465,4}."
+        },
+        {
+            "word": "तन्ति",
+            "eid": "11118",
+            "pagenum": 1743,
+            "content": "521,1: tantí <ab>st.</ab> tánti <info vn='chg 118 gra'/>"
+        },
+        {
+            "word": "तन्ति",
+            "eid": "11119",
+            "pagenum": 1743,
+            "content": "521,2: -áyas <ab>st.</ab> -ayas <info vn='chg 119 gra'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तन्ति",
+            "eid": "1714",
+            "pagenum": 162,
+            "content": "<b>tantí,</b>¦ <i><ab>f.</ab></i> cord; <i><ab>esp.</ab></i> a long line to which calves are tethered by means of short ropes; <b>tantī,</b> <i>the same.</i> [<b>√1tan.</b>]"
+        }
     ]
 }

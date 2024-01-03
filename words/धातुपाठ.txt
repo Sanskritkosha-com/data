@@ -61,5 +61,29 @@
             "pagenum": 3,
             "content": "धातुपाठ¦ by Hemacandra. Bd. 1375. Peters. 5, 219."
         }
+    ],
+    "CAE": [
+        {
+            "word": "धातुपाठ",
+            "eid": "15318",
+            "pagenum": 252,
+            "content": "धातुपाठ¦ <lex>m.</lex> list of verbal roots."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "धातुपाठ",
+            "eid": "11026",
+            "pagenum": 196,
+            "content": "धातुपाठ¦ <i>m.</i> das Wurzelverzeichnis <i>(g.).</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "धातुपाठ",
+            "eid": "18355",
+            "pagenum": 358,
+            "content": "DAtu-pAWa¦ <i>m.</i> a list of roots arranged according to Pāṇini’s system of grammar; (one of these lists is believed to be arranged by Pāṇini himself as a supplement to his <i>sūtras</i>)."
+        }
     ]
 }

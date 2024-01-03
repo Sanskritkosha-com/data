@@ -31,5 +31,51 @@
             "pagenum": 292,
             "content": "*तिज्¦ <i>tij.</i> <i>tejayāmi</i> 10. Aiguiser, rendre <lbinfo n='3'/> piquant. <ab>Cf.</ab> <ab>pp.</ab> <i>tikta.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "तिज्",
+            "eid": "12302",
+            "pagenum": 203,
+            "content": "तिज्¦ ते/जते <vlex type='root'/> <ab>pp.</ab> तिक्त/ (<ab>q.v.</ab>) be or make sharp. <ab>C.</ab> तेजयति sharpen, incite. <ab>D.</ab> ति/तिक्षते (°ति) wish to be sharp or firm against, <ab>i.e.</ab> endure, bear (<ab>acc.</ab>). <ab>I.</ab> ते/तिक्ते = <ab>S.</ab> tr. & intr. <div n='p'>—उद् & सम् <ab>C.</ab> incite, impel. — Cf. नि/तिक्त."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तिज्",
+            "eid": "8546",
+            "pagenum": 153,
+            "content": "तिज्¦ ते/जते scharf sein, schärfen; <i>p.p.</i> तिक्त <i>s. auch bes. Caus.</i> तेजयति schärfen, spitzen, anstacheln, anregen; <i>p.p.</i> तेजित geschärft, gespitzt, voll von (—°). <i>Desid.</i> ति/तिक्षते (°ति) etwas ertragen, sich gefallen lassen <i>(eig.</i> sich gegen etwas ,scharf o. hart zu machen suchen). उद् <i>u.</i> सम् <i>Caus.</i> anstacheln, erregen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तिज्",
+            "eid": "3755",
+            "pagenum": 535,
+            "content": "<b>√tij</b>¦ [<ls>Cu. 〔226〕</ls>; hierzu noch <lang>zend.</lang> śtij, Kampf] für *stij. Grundbedeutung „scharf sein“, woraus sich einerseits der Begriff „stechen“, andererseits im <lang>Sanskrit</lang> der Begriff „schärfen“ entwickelt hat. 1〉 <i>scharf sein, scharf werden;</i> 2〉 <i>schärfen</i>. — Intensiv: <i>schärfen</i>. — Desiderativ: <i>sich zu schärfen</i> oder <i>zu stählen suchen</i> gegen [<ab>A.</ab>]; <i>abwehren</i> [<ab>A.</ab>]. — Mit ni, <i>erregen, beeilen</i> [<ab>vgl.</ab> nitikti]. <div n='H'>Stamm <b>teja:</b> <div n='TS'>-ate 2〉 tújiāni {964,5}. <div n='H'>Stamm des <ab>Intens.</ab> <b>tétij:</b> <div n='TS'>-kte tigmā́ ánīkā {319,7}. <div n='H'>Stamm des <ab>Desid.</ab> <b>títikṣa</b> (unbetont {204,3}): <div n='TS'>-ate {204,3} víśvās ékasya vinúdas 〰. <div n='TS'>-ante abhíśastim {264,1}. <div n='H'><ab>Part.</ab> <b>téjamāna:</b> <div n='TS'>-as 1〉 svádhitis {242,11}. <div n='H'><ab>Part.</ab> II. <b>tikta:</b> <div n='TS'>-ās <b>ní:</b> etás (síndhavas) {937,9}. <div n='H'><ab>Inf.</ab> <b>téjas:</b> <div n='TS'>-ase 1〉 {55,1}; {236,10}. <div n='H'>Verbale <b>tíj</b> <div n='P'>liegt in téjiṣṭha zu Grunde."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तिज्",
+            "eid": "1760",
+            "pagenum": 163,
+            "content": "<b>√tij</b>¦ (<b>tejáyati; tejayā́m āsa; tejitá</b>). be sharp. [<ab>orig.</ab> <b>*stig:</b> <ab>cf.</ab> <lang n='greek'>στίζω</lang>, ‘prick,’ <lang n='greek'>στίγ-μα</lang>, ‘prick’; <ab>Lat.</ab> <i>in-stīgāre,</i> ‘prick on’; <ab>Eng.</ab> <i>stick,</i> ‘to pierce.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तिज्",
+            "eid": "15562",
+            "pagenum": 309,
+            "content": "tij¦ <i>(I) vt. 1A (pres. तितिक्षते)</i> To endure, to bear patiently, to suffer with courage, तांस्तितिक्षस्व भारत <ls>Bg.</ls>ii.14, <ls>M.</ls>vi.47."
+        },
+        {
+            "word": "तिज्",
+            "eid": "15563",
+            "pagenum": 309,
+            "content": "tij¦ <i>(II) vt. 10U (pres. तेजयति-ते)</i> To sharpen, कुसुमचापमतेजयदंशुभिः <ls>R.</ls>ix.39.<P>With उद्-, to instigate, to excite."
+        }
     ]
 }

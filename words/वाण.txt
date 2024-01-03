@@ -39,5 +39,61 @@
             "pagenum": 575,
             "content": "वाण¦ <i>vāṇa</i> <ab>m.</ab> <i>(vaṇ)</i> flèche. || <ab>Surn.</ab> d'<s1 slp1='agni'>Agni</s1>, <lbinfo n='4'/> du feu. || Pis de vache. || Pipeau, flûte. || <ab>Np.</ab> du fils de <s1 slp1='bali'>Bali</s1>, tué par <s1 slp1='vizRu'>Viṣṇu</s1>. -- <ab>M.</ab> <ab>f.</ab> bout empenné de la flèche. || Barleria bleu, <ab>bot.</ab>  <P><i>vāṇadaṇḍa</i> <ab>m.</ab> métier de tisserand.  <P><i>vāṇapura</i> <ab>n.</ab> la cité de <s1 slp1='vAna'>Vāna</s1>, fils de <s1 slp1='bali'>Bali</s1>.  <P><i>vāṇavāra</i> <ab>m.</ab> <i>(vṛ)</i> cuirasse; armure.  <P><i>vāṇasutā</i> <ab>f.</ab> <s1 slp1='uzA'>Uṣā</s1>, fille de <s1 slp1='vAna'>Vāna</s1>.  <P><i>vāṇahan</i> <ab>m.</ab> <s1 slp1='vizRu'>Viṣṇu</s1>, meurtrier de <s1 slp1='vAna'>Vāna</s1>.  <P><i>vāṇāri</i> <ab>m.</ab> <i>(ari)</i> <ab>mms.</ab>  <P><i>vāṇāśraya</i> <ab>m.</ab> arc [? carquois].  <P><i>vāṇāsana</i> <ab>n.</ab> <i>(as</i> lancer) arc."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वाण",
+            "eid": "28743",
+            "pagenum": 484,
+            "content": "1 वाण/¦ <lex>m.</lex> instrumental music; a harp with a hundred strings."
+        },
+        {
+            "word": "वाण",
+            "eid": "28744",
+            "pagenum": 484,
+            "content": "2 वाण/¦ <ab>v.</ab> 1 बाण/."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वाण",
+            "eid": "21830",
+            "pagenum": 396,
+            "content": "1. वाण/¦ <i>m.</i> Instrumentalmusik; eine Harfe mit hundert Saiten."
+        },
+        {
+            "word": "वाण",
+            "eid": "21831",
+            "pagenum": 396,
+            "content": "2. वाण¦ <i>s.</i> बाण."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वाण",
+            "eid": "7883",
+            "pagenum": 1256,
+            "content": "<hom>1.</hom> <b>vāṇá,</b>¦ <ab>m.</ab>, <i>Pfeil</i> [gleich bāná], wol urspünglich Rohrpfeil; siehe das folgende. <div n='TS'>-ásya pavím {762,1}."
+        },
+        {
+            "word": "वाण",
+            "eid": "7884",
+            "pagenum": 1256,
+            "content": "<hom>2.</hom> <b>vāṇá,</b>¦ <ab>m.</ab>, ursprünglich wol Röhre, daher 1〉 <i>Pfeife,</i> oder ein ähnliches <i>Blaseinstrument;</i> 2〉 <i>Zitze, Euter</i>. <div n='TS'>-ám 1〉 dhámantas 〰 marútas {85,10}. — 2〉 dīnā́s dákṣās vi duhanti prá 〰 {320,9}."
+        },
+        {
+            "word": "वाण",
+            "eid": "7885",
+            "pagenum": 1256,
+            "content": "<hom>3.</hom> <b>vāṇá,</b>¦ <ab>m.</ab>, <i>Musik,</i> wol mit dem vorigen zusammenhängend. <div n='TS'>-ás {640,8} góbhis 〰 ajyate sóbharīṇām (die Opfermusik der <ab>S.</ab> wird durch Milchtränke verschönt). <div n='TS'>-ám durmárṣam sākám prá vadanti 〰 {809,8}. <div n='TS'>-ásya {858,4} 〰 saptádhātus íd jánas (der siebentheilige Musikchor)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वाण",
+            "eid": "34212",
+            "pagenum": 651,
+            "content": "vARa¦ <i>m.</i> The same as बाण q.v."
+        }
     ]
 }

@@ -70,5 +70,67 @@
             "pagenum": 29,
             "content": "अन्ध¦ <i>andha</i> <ab>a.</ab> aveugle, au propre et au <ab>fig.</ab> || caché, secret, occulte. -- <ab>S.</ab> <ab>n.</ab> obs- curité.  <P><i>andhaka</i> <ab>a.</ab> aveugle; caché. || <ab>Np.</ab> de pays et de peuple de la famille de Yadu.  <P><i>andhakāra</i> <ab>m.</ab> <ab>n.</ab> <i>(kṛ)</i> obscurité.  <P><i>andhakāramaya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>maya)</i> obscur, ténébreux.  <P><i>andhakūpa</i> <ab>m.</ab> caverne obscure. Puits.  <P><i>andhatamasa</i> <ab>n.</ab> <i>(tamas)</i> obscurité noire.  <P><i>andhamūṣikā</i> <ab>f.</ab> <ab>esp.</ab> d'herbe."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अन्ध",
+            "eid": "1709",
+            "pagenum": 25,
+            "content": "अन्ध/¦ <lex>a.</lex> blind, dark."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अन्ध",
+            "eid": "1123",
+            "pagenum": 17,
+            "content": "अन्ध/¦ blind, trübe, getrübt, geblendet von (—°)"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अन्ध",
+            "eid": "593",
+            "pagenum": 67,
+            "content": "<b>andhá,</b>¦ <ab>a.</ab>, <i>blind,</i> ursprünglich: bedeckt (<ab>vgl.</ab> <lang>gr.</lang> <gk>ἐπ-ενήνοϑε, ϰατ-ενήνοϑε</gk>); oft neben śroṇá; auch als Beiwort der Finsterniss (támas). <div n='TS'>-ás {164,16}; {315,9}; {688,2}. <div n='TS'>-ám [<ab>m.</ab>] {112,8}; {116,16}; {147,3}; {204,12}; {300,13}; {326,19}; {851,11}. <div n='TS'>-éna támasā {915,15}; {929,12}. <div n='TS'>-ā́ya {117,17}. _{117,18}. <div n='TS'>-ásya {865,3}. <div n='TS'>-é támasi {100,8}. <div n='TS'>-ā́s [<ab>N.</ab> <ab>p.</ab>] {148,5}; amítrās {929,15}. <div n='TS'>-ā́ [<ab>n.</ab>] támāṃsi {312,4}. <div n='TS'>-ā́m (duhitáram) {853,11}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अन्ध",
+            "eid": "4042",
+            "pagenum": 131,
+            "content": "अन्ध¦ 1. m. f. n. (-न्धः-न्धा-न्धम्) <sup>1</sup> Blind; lit. and figur. <sup>2</sup> Making blind, obstructing the sight (as darkness &c.). <div n='P'>2. n. (-न्धम्) <sup>1</sup> Darkness. <sup>2</sup> Water; see also कबन्ध and कमन्ध. <sup>3</sup> Turbid water, foul water. <sup>4</sup> (In Astronomy.) The same as अन्त्य(?). <div n='P'>3. m. pl. (-न्धाः) The name of a people or country; also read अन्ध्राः, अन्त्याः or अध्याः. E. The native etym. ‘अन्ध्, kṛt aff. अच्’ might apply to all the meanings but the first; for that of अन्ध ‘blind’ see the Preface."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अन्ध",
+            "eid": "546",
+            "pagenum": 36,
+            "content": "<b>Andha</b>,¦ pl. (<i>°āḥ</i>), a people, presumably for Andhaka. § 555 (Sainyodyogap.): V, <b>19</b>, 586 (<i>Kṛtavarmā ca Hārddikyo</i> <i>Bhojāndha-Kukuraiḥ saha</i>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अन्ध",
+            "eid": "262",
+            "pagenum": 117,
+            "content": "<b>andhá,</b>¦ <i><ab>a.</ab></i> blind; blinding (of darkness)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अन्ध",
+            "eid": "01802",
+            "pagenum": 32,
+            "content": "anDa¦ <i>(I) a. (f. न्धा)</i> 1. Blind (lit. and fig.), जडानन्धान् पंगून् प्रकृतिबधिरान् (lit.) <ls>G.L.</ls>15, क्रोधान्धस्तस्य तस्य स्वयमिह जगतामन्तकस्यान्तकोऽहम् <ls>Ve.</ls>iii.; 2. making blind, obstructing the sight (as in अन्धतमस)."
+        },
+        {
+            "word": "अन्ध",
+            "eid": "01803",
+            "pagenum": 32,
+            "content": "anDa¦ <i>(II) n.</i> 1. Darkness; 2. turbid water."
+        }
     ]
 }

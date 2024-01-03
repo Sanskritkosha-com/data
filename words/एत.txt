@@ -48,5 +48,87 @@
             "pagenum": 126,
             "content": "एत¦ <i>eta</i> <ab>pp.</ab> de <i>emi</i> <i>(i)</i>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एत",
+            "eid": "6531",
+            "pagenum": 101,
+            "content": "1 एत/¦ <ab>pron.</ab> stem, <ab>nom.</ab> sgl. एष/, एषा/, एत/द् (<ab>q.v.</ab>) this, this here; refers oftener to the preceding than the following; may be connected with another demonstr., rel. or <ab>interr.</ab> <ab>pron.</ab> — Loc. एतस्मिन् in this case."
+        },
+        {
+            "word": "एत",
+            "eid": "6532",
+            "pagenum": 101,
+            "content": "2 ए/त¦ <lex>f.</lex> ए/नी rushing, quick; <lex>m.</lex> a deer; <lex>f.</lex> एता a doe."
+        },
+        {
+            "word": "एत",
+            "eid": "6533",
+            "pagenum": 101,
+            "content": "3 ए/त¦ <lex>a.</lex> arrived, come."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एत",
+            "eid": "4026",
+            "pagenum": 66,
+            "content": "1. एत¦ <i>Pron. St.</i> dieser <i>(neben</i> एष) <i>meist</i> <i>auf etwas Vorhergehendes weisend. Loc.</i> एतस्मिन् <i>adv.</i> dabei, in diesem Falle."
+        },
+        {
+            "word": "एत",
+            "eid": "4027",
+            "pagenum": 66,
+            "content": "2. ए/त¦ <i>f.</i> ए/नी bunt, schillernd, blinkend; <i>m.</i> eine Hirschart <i>(f.</i> एता)."
+        },
+        {
+            "word": "एत",
+            "eid": "4028",
+            "pagenum": 66,
+            "content": "3. ए/त¦ <i>s. 2.</i> इ."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "एत",
+            "eid": "2292",
+            "pagenum": 298,
+            "content": "<b>(etá),</b>¦ <ab>pron.</ab>, <ab n='siehe'>s.</ab> etád."
+        },
+        {
+            "word": "एत",
+            "eid": "2293",
+            "pagenum": 298,
+            "content": "<b>éta,</b>¦ <ab>a.</ab>, <ab>fem.</ab> énī, enī́, <i>eilend, dahinschiessend</i> [von i], von Vögeln, Strömen; daher 2〉 <ab>m.</ab>, ein durch Schnelligkeit sich auszeichnendes Thier, eine <i>Hirschart;</i> 3〉 <ab>m.</ab>, <i>Hirschfell;</i> 4〉 <ab>f.</ab>, <i>Hirschkuh</i> oder ein anderes (reichliche Milch gebendes) weibliches (durch Schnelligkeit sich auszeichnendes) Thier. — Die Bedeutung „bunt, schimmernd“ lässt sich im <ls>RV</ls> nicht sicher nachweisen, <ab n='siehe'>s.</ab> jedoch víeta. <ab>Vgl.</ab> ena in an-ená. <div n='TS'>-tās 2〉 étās ná (marutas) {408,5}; pṛthubudhnā́sas {169,6}. — 3〉 {166,10}. <div n='TS'>-taas 2〉 étaas ná (marutas) {903,2}. <div n='TS'>-tān 2〉 {165,5} (<ls>Aufrecht</ls> falsch etā́n). <div n='TS'>-tānām 2〉 ghorā́ṇām upabdís (marútām) {169,7}. <div n='TS'>-nī [<ab>N.</ab> <ab>s.</ab>] 4〉 duhé yád énī ‥ ghṛtám {838,3}; ṛ́jītī rúśatī (vom Luftmeer, welches dort auch mit einer Stute verglichen ist) {901,7}. <div n='TS'>-nīm 4〉 {387,6}(?); kṛṣṇā́m {829,2}. <div n='TS'>-nī [<ab>du.</ab>] 4〉 {144,6}. <div n='TS'>-nīs [<ab>N.</ab> <ab>p.</ab>] 1〉 avánayas {439,6}; kṣvíṅkās {913,7}. — 4〉 bildlich {846,2}. <div n='TS'>-nías 4〉 <ab n='siehe'>s.</ab> enī́."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "एत",
+            "eid": "957",
+            "pagenum": 137,
+            "content": "<b>etá,</b>¦ <i>see</i> <b>etád</b> <i>and <ab>cf.</ab></i> <ls n='wg,499'>499b</ls> <i>with</i> <ls n='wg,497'>497.</ls>"
+        },
+        {
+            "word": "एत",
+            "eid": "958",
+            "pagenum": 137,
+            "content": "<b>éta,</b>¦ <i><ab>a.</ab></i> rushing; darting; <i>as <ab>m.</ab></i> deer. [<b>√i,</b> <b><ls n='wg,1176'>1176c</ls>.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "एत",
+            "eid": "07468",
+            "pagenum": 153,
+            "content": "eta¦ <i>(I) a. (f. ता)</i> Of a variegated colour."
+        },
+        {
+            "word": "एत",
+            "eid": "07469",
+            "pagenum": 153,
+            "content": "eta¦ <i>(II) m.</i> A deer."
+        }
     ]
 }

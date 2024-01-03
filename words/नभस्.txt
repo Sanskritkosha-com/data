@@ -47,5 +47,59 @@
             "pagenum": 190,
             "content": "नभस्¦ <i>n.</i> (ut videtur, e न et भस् pro भास्, ita ut proprie significet non splendens, sicut nubes dicitur नभ्राज्, cf. A. Benary p. 229.) <i>n.</i> aër, coelum. IN. 1. 3. H. 3. 6. SU. 6. 19. BH. 11. 24. (Slav. <i>nebo</i> id., them. <i>nebes</i>, gen. <i>nebes-e</i>, v. gr. comp. 264.; gr. <lang n='greek'>νέϕος, νέϕε(σ)-ος</lang>, v. gr. comp. 128.; lat. <i>nubes, nebula</i>; germ. vet. <i>nibul</i> nebula; lith. <i>dé-</i> <i>besis</i> nubes, mutatâ nasali in mediam ejusdem organi sicut in <i>dewyni</i> novem, gr. comp. 317.; hib. <i>neamh</i> «heaven»; cambro-brit. <i>nev.</i>)"
         }
+    ],
+    "CAE": [
+        {
+            "word": "नभस्",
+            "eid": "15807",
+            "pagenum": 261,
+            "content": "न/भस्¦ <lex>n.</lex> mist, vapour, clouds, atmosphere, sky; a <ab>cert.</ab> month in the rainy season (*m.); <ab>du.</ab> heaven and earth."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नभस्",
+            "eid": "11477",
+            "pagenum": 204,
+            "content": "न/भस्¦ <i>n.</i> Gewölk, Luftraum, Himmel; ein best. Regenmonat. <i>Du.</i> Himmel und Erde."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "नभस्",
+            "eid": "4833",
+            "pagenum": 709,
+            "content": "<b>nábhas,</b>¦ <ab>n.</ab> [<ls>Cu. 〔402〕</ls>] (von nabh), <ab>vgl.</ab> ámbhas Wasser, was durch die sehr häufige Umstellung von anlautendem na zu an (wo der Nasal nach dem Organ des folgenden Konsonanten sich richtet) aus nábhas entstanden ist. 1〉 <i>Nass, Feuchtigkeit, Wasser,</i> oft vom Soma und den sich mit ihm vermischenden Flüssigkeiten; in dieser Bedeutung neben árṇas ({809,21}), páyas ({783,1}; {786,4}) und mit dem Beiworte varṣíam ({437,3}); <ab>vgl.</ab> nabhas udakanāma <ls>Naigh. 〔1,12〕</ls>; 2〉 <i>Wolke;</i> 3〉 <i>Nebel</i>. <div n='TS'>-as 1〉 {246,1} (váreṇiam); {437,3}; {783,1}; {786,4}; {795,5}; {809,21}. — 2〉 {395,12}; {613,6}; {705,14} (kṛṣṇám); {629,8}(?). — 3〉 〰 ná rūpám jarimā́ mināti {71,10}. <div n='TS'>-asā 1〉 {783,3}; {798,14}. <div n='TS'>-asas [<ab>G.</ab>] 2〉 {167,5} (ityā́). <div n='TS'>-obhis 3〉 diaús iva smáyamānas 〰 {195,6}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "नभस्",
+            "eid": "3617",
+            "pagenum": 207,
+            "content": "<i>nabhas</i>¦ (IE 7-1-2), ‘cypher’."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "नभस्",
+            "eid": "2229",
+            "pagenum": 179,
+            "content": "<b>nábhas,</b>¦ <i><ab>n.</ab></i> <div n='2'/><b>—1.</b> mist, clouds; <div n='2'/><b>—2.</b> atmosphere, <lbinfo n='atmos-phere,'/> sky. [<ab>cf.</ab> <lang n='greek'>νέφος, νεφέλη</lang>, ‘cloud, mist’; <ab>Lat.</ab> <i>nūbes,</i> ‘cloud,’ <i>nebula,</i> ‘mist’; <ab>AS.</ab> <i>nifol,</i> ‘misty, gloomy’; <ab>Ger.</ab> <i>Nebel,</i> ‘mist’: for <ab>mg</ab> 2, <ab>cf.</ab> <ab>Ger.</ab> <i>Wolken</i> and <ab>AS.</ab> <i>wolcnu,</i> ‘clouds,’ <ab>w.</ab> <ab>Eng.</ab> <i>welkin,</i> ‘sky.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "नभस्",
+            "eid": "18857",
+            "pagenum": 368,
+            "content": "naBas¦ <i>(I) n.</i> 1. The sky, atmosphere, इति व्याहृत्य वाचं नभस्तस्मिन्नुत्पतिते <ls>Sis.</ls>i.75, <ls>Bg.</ls>i.19, <ls>R.</ls>v.29; 2. a cloud; 3. fog, vapour; 4. period of life, age."
+        },
+        {
+            "word": "नभस्",
+            "eid": "18858",
+            "pagenum": 368,
+            "content": "naBas¦ <i>(II) m.</i> 1. The rainy-season; 2. the nose, smell; 3. name of the month of <i>Śrāvaṇa</i> प्रत्यासन्ने नभसि दयिताजीवितालंबनार्थी <ls>Megh.</ls>i.4, <ls>R.</ls>xii.29, xvii.41; 4. the fibres in the root of the lotus; 5. a spitting pot."
+        }
     ]
 }

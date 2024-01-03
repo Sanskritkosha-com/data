@@ -15,5 +15,41 @@
             "pagenum": 514,
             "content": "मृडीक¦ <i>mṛḍīka</i> <ab>m.</ab> antilope."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मृडीक",
+            "eid": "25226",
+            "pagenum": 418,
+            "content": "मृडीक¦ (मृलीक/) <lex>n.</lex> grace, mercy."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मृडीक",
+            "eid": "19164",
+            "pagenum": 339,
+            "content": "मृडीक¦ <i>o.</i> मृळीक/ <i>n.</i> Gnade, Huld."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "मृडीक",
+            "eid": "6923",
+            "pagenum": 1059,
+            "content": "<b>mṛḍīká,</b>¦ <ab>n.</ab>, <i>Gnade, Huld</i> [von mṛḍ]; <ab>vgl.</ab> sumṛḍīká. <div n='TS'>-ám {297,3}. _{297,5}; {602,2}; {976,4}. <div n='TS'>-ā́ya {25,3}. _{25,5}; {491,1}; {976,1}. <div n='TS'>-é [<ab>L.</ab>]<chg type='del' n='71' src='gra'><old> {474,5};</old></chg> {489,12}; {668,12}."
+        },
+        {
+            "word": "मृडीक",
+            "eid": "11343",
+            "pagenum": 1748,
+            "content": "1059,22.b <ab>v. u.</ab>: {474,5} <info vn='del 71 gra'/>"
+        },
+        {
+            "word": "मृडीक",
+            "eid": "12474",
+            "pagenum": 1766,
+            "content": "*<b>mṛḍīká:</b>¦<info vn='add 430 gra'/> <div n='TS'>-ás {474,5}; <div n='TS'>-ā́ya {976,2}. _{976,3}. _{976,5}."
+        }
     ]
 }

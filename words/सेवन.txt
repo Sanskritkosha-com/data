@@ -42,5 +42,49 @@
             "pagenum": 729,
             "content": "सेवन¦ <i>sevana</i> <ab>n.</ab> <i>(sev)</i> service; aide."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सेवन",
+            "eid": "38026",
+            "pagenum": 634,
+            "content": "1 सेवन¦ <lex>n.</lex> sewing; seam, suture."
+        },
+        {
+            "word": "सेवन",
+            "eid": "38027",
+            "pagenum": 634,
+            "content": "2 सेवन¦ <lex>n.</lex> following, serving, revering, practising, frequenting, using, employing (mostly —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सेवन",
+            "eid": "28355",
+            "pagenum": 508,
+            "content": "1. सेवन¦ <i>n.</i> das Nähen; <i>f.</i> ई Naht."
+        },
+        {
+            "word": "सेवन",
+            "eid": "28356",
+            "pagenum": 508,
+            "content": "2. सेवन¦ <i>n.</i> das Besuchen, Bedienen, Verehren, <lbinfo n='6'/> Üben, Gebrauchen, Genießen <i>(meist</i> —°)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सेवन",
+            "eid": "4710",
+            "pagenum": 277,
+            "content": "<b>sevana,</b>¦ <i><ab>n.</ab></i> practice. [<b>√sev.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सेवन",
+            "eid": "41563",
+            "pagenum": 796,
+            "content": "sevana¦ <i>n.</i> 1. Sewing, stitching; 2. a sack; 3. following, practising, using; 4. enjoying, enjoying sexually, यत्करोत्येकरात्रेण वृषलीसेवनाद् द्विजः <ls>M.</ls>xi.178; 5. service, worship, पात्रीकृतात्मा गुरुसेवनेन स्पष्टाकृतिः पत्ररथेंद्रकेतोः <ls>R.</ls>xviii.30."
+        }
     ]
 }

@@ -36,5 +36,45 @@
             "pagenum": 735,
             "content": "स्तोत्र¦ <i>stotra</i> <ab>n.</ab> <i>(stu)</i> éloge, louange."
         }
+    ],
+    "CAE": [
+        {
+            "word": "स्तोत्र",
+            "eid": "38371",
+            "pagenum": 640,
+            "content": "स्तोत्र/¦ <lex>n.</lex> praise, hymn; a <ab>cert.</ab> kind of recitations (<ab>(r.)</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "स्तोत्र",
+            "eid": "28569",
+            "pagenum": 513,
+            "content": "स्तोत्र/¦ <i>n.</i> Loblied, Preisgesang; स्तोत्रि/य <i>u.</i> °त्रीय dazu gehörig."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "स्तोत्र",
+            "eid": "10255",
+            "pagenum": 1595,
+            "content": "<b>stotrá,</b>¦ <ab>n.</ab>, <i>Lob, Loblied, Lobgesang</i> [<ab>v.</ab> stu]. <div n='TS'>-ám {30,5}; {138,1}; {265,14}; {475,5}; {493,11}; {665,21}; {710,5}; {931,1}. <div n='TS'>-ásya ádhi gātana {409,9}; ádhi gāta {904,8} (beidemale neben sakhiásya); ádhi gahi {784,9}. <div n='TS'>-é {102,1}. <div n='TS'>-eṣu {1019,4}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "स्तोत्र",
+            "eid": "10063",
+            "pagenum": 650,
+            "content": "<b>Stotra(ṃ)</b>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "स्तोत्र",
+            "eid": "41995",
+            "pagenum": 805,
+            "content": "stotra¦ <i>n.</i> Praise, eulogium, hymn."
+        }
     ]
 }

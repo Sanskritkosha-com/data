@@ -60,5 +60,67 @@
             "pagenum": 511,
             "content": "मुहूर्त¦ <i>muhūrta</i> <ab>m.</ab> <ab>n.</ab> moment, un peu de temps. || Une heure [soit la 30ᵉ partie du jour, soit la 6ᵉ du <s1 slp1='prahAra'>prahāra</s1> ou 2 <s1 slp1='nAdika'>nādika</s1>s <ab>c-à-d.</ab> 30']. -- <ab>S.</ab> <ab>m.</ab> astrologue."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मुहूर्त",
+            "eid": "25090",
+            "pagenum": 416,
+            "content": "मुहूर्त/¦ <lex>m.</lex> <lex>n.</lex> moment, instant; hour ( = 1/30 day); <ab>instr.</ab> & <ab>abl.</ab> in a moment, after a little while, immediately, directly."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मुहूर्त",
+            "eid": "19053",
+            "pagenum": 337,
+            "content": "मुहूर्त/¦ <i>m. n.</i> Augenblick; Stunde (= (1/30 <i>Tag)</i> <i>Abl. u. Instr.</i> nach <i>o.</i> in einem A., sofort, alsbald."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "मुहूर्त",
+            "eid": "6895",
+            "pagenum": 1053,
+            "content": "<b>muhūrtá,</b>¦ <ab>m.</ab> <ab>n.</ab>, <i>Augenblick</i>. <div n='TS'>-ám in einem Augenblick: trís yád divás pári 〰 ā‿ágāt {287,8}; úpa 〰 auf einen Augenblick {267,5} (rámadhvam)."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "मुहूर्त",
+            "eid": "3573",
+            "pagenum": 205,
+            "content": "<i>muhūrta</i>¦ (CII 3; IA 17), the thirtieth part of a mean day and night; equal to fortyeight minutes."
+        }
+    ],
+    "INM": [
+        {
+            "word": "मुहूर्त",
+            "eid": "7390",
+            "pagenum": 491,
+            "content": "<b>Muhūrta</b><sup>1</sup>,¦ pl. (<i>°āḥ</i>) = Sūrya (the sun): III, 150.—Do.<sup>2</sup> = Śiva (1000 names<sup>2</sup>) (<i>°āhāḥ</i>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "मुहूर्त",
+            "eid": "3311",
+            "pagenum": 218,
+            "content": "<b>muhūrtá,</b>¦ <i><ab>m.</ab> <ab>n.</ab></i> <div n='2'/><b>—1.</b> moment; <div n='2'/><b>—2.</b> thirtieth  <lbinfo n='thir-tieth'/> of a day, an hour (of 48 minutes), <ls n='lan,59,10'>59<sup>10</sup></ls>. [<b>muhus.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मुहूर्त",
+            "eid": "30519",
+            "pagenum": 579,
+            "content": "muhUrta¦ <i>(I) m.n.</i> 1. Any short space of time, a moment, स्थित्वा तस्मिन् वनचरवधूभुक्तकुंजे मुहूर्तम् <ls>Megh.</ls>i.19, <ls>R.</ls>iii.53, <ls>K.S.</ls>vii.50; 2. a period of 48 minutes."
+        },
+        {
+            "word": "मुहूर्त",
+            "eid": "30520",
+            "pagenum": 579,
+            "content": "muhUrta¦ <i>(II) m.</i> An astrologer."
+        }
     ]
 }

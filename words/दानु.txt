@@ -15,5 +15,61 @@
             "pagenum": 317,
             "content": "दानु¦ <i>dānu</i> <ab>m.</ab> (<ab>sfx.</ab> <i>nu)</i> donateur; celui qui donne. || Vainqueur, conquérant."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दानु",
+            "eid": "13532",
+            "pagenum": 223,
+            "content": "1 दा/नु¦ <lex>m.</lex> <lex>f.</lex> a class of demons."
+        },
+        {
+            "word": "दानु",
+            "eid": "13533",
+            "pagenum": 223,
+            "content": "2 दा/नु¦ <lex>f.</lex> <lex>n.</lex> any dripping fluid, drop, dew; <ab>poss.</ab> °मन्त्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दानु",
+            "eid": "9573",
+            "pagenum": 170,
+            "content": "1. दा/नु¦ <i>m. f.</i> Art Dämonen."
+        },
+        {
+            "word": "दानु",
+            "eid": "9574",
+            "pagenum": 170,
+            "content": "2. दानु¦ <i>f.</i> Tropfen, Thau."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दानु",
+            "eid": "4183",
+            "pagenum": 594,
+            "content": "<hom>1.</hom> <b>dā́nu,</b>¦ <ab>m.</ab>, wol von <hom>2.</hom> dā entweder in dem ursprünglichen Sinne: schneiden, zerschneiden, zertheilen, oder in dem Sinne: vertheilen, worauf die Bedeutungsentwickelung des derselben Wurzel entsprossenen <lang>griech.</lang> <gk>δαίμων</gk> hinzuweisen scheint. <i>Dämon</i> = dānavá; auch 2〉 <ab>f.</ab> für weibliche Dämonen, namentlich die Mutter des Vritra (<ab>vgl.</ab> sahádānu). <div n='TS'>-us 2〉 {32,9} (vṛtráputrā). <div n='TS'>-um {202,18} (aurṇavābhám); {203,11}; {326,7}. <div n='TS'>-ūn saptá {946,6}."
+        },
+        {
+            "word": "दानु",
+            "eid": "4184",
+            "pagenum": 594,
+            "content": "<hom>2.</hom> <b>dā́nu,</b>¦ <ab>n.</ab>, <ab>f.</ab>, 1〉 <ab>n.</ab>, <i>träufelnde Flüssigkeit, Thau;</i> 2〉 <ab>f.</ab>, <ab>dass.</ab> <div n='TS'>-us 2〉 úparā divás {54,7}. <div n='TS'>-u 1〉 {491,13}. <div n='TS'>-unā diviéna {869,7}. <div n='TS'>-unas [<ab>G.</ab>] 〰 pátī (mitrā́váruṇā) {136,3}; {232,6}; 〰 patī [<ab>V.</ab>] (aśvinā) {628,16}. <div n='TS'>-ūni {645,6}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दानु",
+            "eid": "1924",
+            "pagenum": 169,
+            "content": "<b>1dā́nu,</b>¦ <i><ab>f.</ab></i> Dānu, name of a demon, <ls n='lan,70,18'>70<sup>18</sup></ls>."
+        },
+        {
+            "word": "दानु",
+            "eid": "1925",
+            "pagenum": 169,
+            "content": "<b>2dā́nu,</b>¦ <i><ab>n.</ab></i> dripping fluid, drop, dew."
+        }
     ]
 }

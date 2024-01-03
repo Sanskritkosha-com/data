@@ -31,5 +31,69 @@
             "pagenum": 117,
             "content": "*उष्¦ <i>uṣ.</i> <i>oṣāmi</i> 1; <ab>p.</ab> <i>uvoṣa;</i> <ab>f2.</ab> <i>oṣiṣyāmi;</i> <lbinfo n='8'/> <ab>a1.</ab> <i>auṣiṣam.</i> Dans le <s1 slp1='veda'>Veda</s1>: <i>ucchāmi</i> 1; <ab>ppr.</ab> <i>uṣat;</i> <ab>p.</ab> <i>uvāsa.</i> Brûler, <ab>ac.</ab> || Etre brûlant; <lbinfo n='5'/> briller: <i>uṣā ucchantī</i> l'aurore éclatante, <ab>Vd.</ab> || Au <ab>fig.</ab> consumer, tourmenter, blesser: <lbinfo n='4'/> <i>daṇḍena</i> avec un bâton. || <ab>Lat.</ab> uro, ustus; <lbinfo n='4'/> gr, <lang n='greek'>αὕω, αὖος</lang> <ab>(?)</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "उष्",
+            "eid": "6062",
+            "pagenum": 94,
+            "content": "1 उष्¦ ओ/षति & उष्णा/ति <vlex type='root'/> burn, consume, destroy, punish. <div n='p'>—उद् expel by heat. <div n='p'>नि burn down. <div n='p'>प्रति & सम् burn."
+        },
+        {
+            "word": "उष्",
+            "eid": "6063",
+            "pagenum": 94,
+            "content": "2 उ/ष्¦ <lex>f.</lex> dawn, morning."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उष्",
+            "eid": "3737",
+            "pagenum": 61,
+            "content": "उष्,¦ ओ/षति <i>u.</i> उष्णा/ति verbrennen züchtigen. <lbinfo n='6'/> प्रति verbrennen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "उष्",
+            "eid": "2075",
+            "pagenum": 267,
+            "content": "<hom>1.</hom> <b>√uṣ,</b>¦ jemand [<ab>A.</ab>] <i>brennen</i> [<ls>Cu. 〔610〕</ls>], mit vas, leuchten, verwandt, aber schon vor der Sprachtrennung von ihm gesondert. <div n='Pf'>Mit <b>ni,</b> <i>niederbrennen</i> [<ab>A.</ab>]. <div n='Pf'><b>práti,</b> <i>verbrennen</i> [<ab>A.</ab>]. <div n='H'>Stamm I. <b>óṣa</b> (betont nur {175,3}): <div n='TS'>-ati tātṛṣāṇám {130,8}. — <b>ní:</b> arśasānám {130,8}; {632,9}. <div n='TS'>-as [<ab>C.</ab>] dásyum {175,3}. <div n='TS'>-a [<ab>Impv.</ab>] ní: acítam {913,12}. — <b>práti:</b> yātudhānías {944,8}. <div n='TS'>-atāt [<pe>2.</pe> <ab>s.</ab>] <b>ní:</b> amítrān {300,4}. <div n='TS'>-atam <b>ní:</b> atríṇas {620,1}. <div n='H'>Stamm II. <b>uṣṇā:</b> <div n='TS'>-án [<ab>Imperf.</ab> <chg type='chg' n='77' src='gra'><old>von</old><new>ohne</new></chg> <ab>Augm.</ab>] abhí gā́s ádrim (?) {809,39}. <div n='H'><ab>Part.</ab> <b>uṣṇát</b> [von Stamm II.]: <div n='TS'>-n agnis atasā́ni {195,7}. <div n='H'><ab>Inf.</ab> <b>óṣa</b> in dur-óṣa."
+        },
+        {
+            "word": "उष्",
+            "eid": "2076",
+            "pagenum": 267,
+            "content": "<hom>2.</hom> <b>√uṣ,</b>¦ <i>aufleuchten,</i> <ab n='siehe'>s.</ab> <hom>1.</hom> vas."
+        },
+        {
+            "word": "उष्",
+            "eid": "2077",
+            "pagenum": 267,
+            "content": "<b>úṣ,</b>¦ <ab>f.</ab>, <i>Morgenröthe</i> [von <hom>1.</hom> vas], nur im <ab>G.</ab> <ab>s.</ab> und <ab>A.</ab> <ab>p.</ab>; <ab n='siehe'>s.</ab> uṣás. <div n='W'>uṣás [<ab>G.</ab>] 〰 jārás (von Agni): {69,1}. _{69,9}; {526,1}; usás-uṣas … agrám {834,4}. <div n='W'>uṣás [<ab>A.</ab> <ab>p.</ab>] {240,7} (vibhātī́s); {661,3} (tisrás)."
+        },
+        {
+            "word": "उष्",
+            "eid": "11077",
+            "pagenum": 1743,
+            "content": "267,19 <ab>v. u.</ab>: ohne <ab>st.</ab> von <info vn='chg 77 gra'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "उष्",
+            "eid": "887",
+            "pagenum": 134,
+            "content": "<b>√uṣ</b>¦ (<b>óṣati; uvóṣa; aúṣīt; uṣṭá</b>). burn. [for cognates, see the collateral form <b>√1vas,</b> ‘light up,’ also <b>uṣás, usrá,</b> <ab>etc.</ab>: <ab>cf.</ab> <lang n='greek'>εὕω</lang>, ‘singe’; <lang n='greek'>αὔω</lang>, ‘kindle’; <ab>Lat.</ab> <i>ūr-o,</i> ‘burn,’ and <i>ustus</i> = <b>uṣṭá-s;</b> <ab>AS.</ab> <i>ys-le,</i> ‘glowing ashes.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "उष्",
+            "eid": "07127",
+            "pagenum": 148,
+            "content": "uz¦ <i>vt. 1P (pp. ओषित, उषित, उष्ट)</i> 1. To burn, ओषांचकार कामाग्निर्दशवक्त्रमहर्निशम् <ls>Bt.</ls>vi.1, xiv.62, <ls>M.</ls>iv.189; 2. to punish, दंडेनैव तमप्योषेत् <ls>M.</ls>ix.273."
+        }
     ]
 }

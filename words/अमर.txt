@@ -72,5 +72,65 @@
             "pagenum": 43,
             "content": "अमर¦ <i>amara</i> <ab>a.</ab> <i>(mṛ)</i> immortel. -- <ab>S.</ab> <ab>m.</ab> un lmmortel, un dieu. || Vif argent. || Nom de plusieurs plantes. -- <ab>S.</ab> <ab>f.</ab> <i>amarā,</i> matrice; cordon ombilical. || Diverses plantes. <lbinfo n='4'/> || La Cité d'<s1 slp1='indra'>Indra</s1>.  <P><i>amaratva</i> <ab>n.</ab> immortalité.  <P><i>amaradvija</i> <ab>m.</ab> brâhmane attaché à un temple et vivant d'offrandes.  <P><i>amaraprabha</i> <ab>a.</ab> <i>(bhā)</i> qui a la splendeur des Immortels.  <P><i>amarapuṣpikā</i> <ab>f.</ab> <i>(puṣpa)</i> anethum sowa, <ab>bot.</ab>  <P><i>amarādri</i> <ab>m.</ab> <i>(adri)</i> le Mont des Immortels, <lbinfo n='5'/> le <s1 slp1='meru'>Meru</s1>.  <P><i>amarāvatī</i> <ab>f.</ab> la Cité d'<s1 slp1='indra'>Indra</s1>.  <P><i>amaropama</i> <ab>a.</ab> <i>(upamā)</i> pareil aux Immortels. <lbinfo n='8'/>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अमर",
+            "eid": "2535",
+            "pagenum": 37,
+            "content": "अम/र¦ <lex>f.</lex> आ & ई immortal; <lex>m.</lex> a god.*"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अमर",
+            "eid": "1633",
+            "pagenum": 25,
+            "content": "अम/र¦ <i>f.</i> आ <i>u.</i> ई unsterblich; <i>m.</i> ein Gott."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "अमर",
+            "eid": "281",
+            "pagenum": 17,
+            "content": "<i>amara</i>¦ (IE 7-1-2), ‘thirtythree’ [being the original number of the gods]. <div n='P'>(<i>SITI;</i> ASLV), land or revenue granted by a ruler to his retainers for military service; land assigned to military officers who were entitled to collect only certain revenues with the obligation to raise a contingent of army ready for service whenever called upon and also to pay tribute to the king; same as <i>amara-māgaṇi.</i> Cf. <i>Amara-nāyaka.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "अमर",
+            "eid": "399",
+            "pagenum": 30,
+            "content": "<b>*Amara</b><sup>1</sup>,¦ pl., the gods: IX, 1909, 2458, 2969 (<i>°prakhyam</i>), 3243; X, 766 (<i>°tāṃ</i>), 789, 804; XI, 295, 494 (<i>°vat</i>), etc.; sing., IX, 1899, etc."
+        },
+        {
+            "word": "अमर",
+            "eid": "400",
+            "pagenum": 30,
+            "content": "<b>Amara</b><sup>2</sup>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अमर",
+            "eid": "346",
+            "pagenum": 119,
+            "content": "<b>a-mára,</b>¦ <i><ab>a.</ab></i> deathless; immortal; <i>as <ab>m.</ab></i> an immortal, a god; <b>-vat</b> [<ls n='wg,1107'>1107]</ls>, <i><ab>adv.</ab></i> like a god. [<b>mará:</b> <ls n='wg,1304'>1304a<sup>2</sup></ls> end.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अमर",
+            "eid": "02874",
+            "pagenum": 55,
+            "content": "amara¦ <i>(I) a. (f. रा)</i> Immortal, imperishable, अजरामरवत् प्राज्ञो विद्यामर्थं च साधयेत् <ls>Hit.</ls>i."
+        },
+        {
+            "word": "अमर",
+            "eid": "02875",
+            "pagenum": 55,
+            "content": "amara¦ <i>(II) m.</i> 1. A god, a deity; 2. quick-silver; 3. gold; 4. a pillar; 5. name of a mountain; 6. the name of a lexicographer, whoso lexicon has become very popular; 7. the number ‘33’ (in math.)."
+        }
     ]
 }

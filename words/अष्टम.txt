@@ -23,5 +23,51 @@
             "pagenum": 24,
             "content": "अष्टम¦ (fem. अष्टमी) octavus."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अष्टम",
+            "eid": "3594",
+            "pagenum": 52,
+            "content": "अष्टम/¦ <lex>f.</lex> ई eighth."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अष्टम",
+            "eid": "2261",
+            "pagenum": 35,
+            "content": "अष्टम/¦ <i>f.</i> ई der achte; <i>m.</i> Achtel."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अष्टम",
+            "eid": "1297",
+            "pagenum": 145,
+            "content": "<b>aṣṭamá,</b>¦ <ab>a.</ab>, der <i>achte</i> [von aṣṭá]. <div n='TS'>-ám [<ab>m.</ab>] śū́ram {940,9}. <div n='TS'>-am [<ab>n.</ab>] daívyam {196,2}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अष्टम",
+            "eid": "497",
+            "pagenum": 122,
+            "content": "<b>aṣṭamá,</b>¦ <i><ab>a.</ab></i> eighth. [<b>aṣṭá,</b> <ls n='wg,487'>487<sup>6</sup></ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अष्टम",
+            "eid": "04292",
+            "pagenum": 84,
+            "content": "azwama¦ <i>(I) a. (f. मी)</i> Eighth, <ls>M.</ls>ii.36, 37, x.120."
+        },
+        {
+            "word": "अष्टम",
+            "eid": "04293",
+            "pagenum": 84,
+            "content": "azwama¦ <i>(II) m.</i> The eighth part."
+        }
     ]
 }

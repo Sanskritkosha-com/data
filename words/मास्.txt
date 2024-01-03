@@ -31,5 +31,63 @@
             "pagenum": 505,
             "content": "मास्¦ <i>mās</i> <ab>m.</ab> <i>(mas</i> ou <i>mā</i> 2) la Lune. || Mois. || <ab>Gr.</ab> <lang n='greek'>μήν</lang>; <ab>lith.</ab> mênu; <ab>angl.</ab> moon, month.; <ab>lat.</ab> mensis; <ab>etc.</ab>  <P><i>māsa</i> <ab>m.</ab> mois lunaire [soit lunaison, soit révolution sidérale]; || <ab>qqf.</ab> mois solaire de 30 jours ou bien de 1/12 de l'année; || mois compté d'après les mouvements de la planète Jupiter. || (pour <i>māṣa)</i> poids de 1 <ab>gr.</ab> 166.  <P><i>māsajña</i> <ab>m.</ab> <i>(jñā)</i> poule d'eau.  <P><i>māsana</i> <ab>n.</ab> graine de serratula.  <P><i>māsamāna</i> <ab>m.</ab> <i>(mā)</i> année.  <P><i>māsavartikā</i> <ab>f.</ab> <ab>esp.</ab> d'oiseau.  <P><i>māsānta</i> <ab>m.</ab> <i>(anta)</i> fin du mois."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मास्",
+            "eid": "24752",
+            "pagenum": 409,
+            "content": "1 मा/स्¦ <lex>n.</lex> flesh, meat."
+        },
+        {
+            "word": "मास्",
+            "eid": "24753",
+            "pagenum": 409,
+            "content": "2 मा/स्¦ <lex>m.</lex> moon, month."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मास्",
+            "eid": "18794",
+            "pagenum": 332,
+            "content": "1. मा/स्¦ <i>n.</i> Fleisch."
+        },
+        {
+            "word": "मास्",
+            "eid": "18795",
+            "pagenum": 332,
+            "content": "2. मा/स्¦ <i>m.</i> Mond, Monat."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "मास्",
+            "eid": "6810",
+            "pagenum": 1036,
+            "content": "<hom>1.</hom> <b>mā́s,</b>¦ <ab>m.</ab> [<ls>Cu. 〔471〕</ls>; <ab>vgl.</ab> auch māṃś-catú], der <i>Mond,</i> als der Zeitmessende [<hom>1.</hom> mā], daher 2〉 der <i>Monat</i>. — <ab>Vgl.</ab> sū́riā-mā́s. <div n='TS'>-ā́sam 2〉 neben śarádam, áhar {582,11} (kann auch zu mā́sa gehören). <div n='TS'>-āsā́ {475,4} (arcā́); {964,4} (〰 ‿iva sū́rias). <div n='TS'>-āsí {838,7} sū́rye jyótis adadhus 〰 aktū́n. — 2〉 daśamé {1010,3}. <div n='TS'>-āsí-māsi 2〉 neben áharahar {878,3}. <div n='TS'>-ā́sas [<ab>G.</ab>] 2〉 {911,5} sámānām 〰 ā́kṛtis. <div n='TS'>-āsás [<ab>A.</ab> <ab>p.</ab>] 2〉 duā́daśa {25,8}; dáśa {399,7}. _{399,11}; neben śarádas {314,4}; {607,2}. [Page1037] <div n='TS'>-adbhís 2〉 neben śarádbhis {215,5}. <div n='TS'>-āsā́m 2〉 {964,6} 〰 vidhā́nam adadhās ádhi dyávi."
+        },
+        {
+            "word": "मास्",
+            "eid": "6811",
+            "pagenum": 1037,
+            "content": "<hom>2.</hom> <b>mā́s,</b>¦ <ab>n.</ab>, <i>Fleisch</i> [siehe māṃsá und māṃspacana]. <div n='TS'>-ā́s {329,4} yád saṃvátsam ṛbhávas 〰 ápiṃśan; {383,8} trī́ yád śatā́ mahiṣā́ṇām ághas 〰."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "मास्",
+            "eid": "3262",
+            "pagenum": 216,
+            "content": "<b>mā́s</b>¦ [<ls n='wg,397'>397]</ls>, <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> moon, <i>see</i> <b>candra-mās;</b> <i>then (as in <ab>Eng.</ab>),</i> a moon, <i><ab>i. e.</ab></i> month. [‘the measurer,’ <b>√1mā,</b> <ls n='wg,1151'>1151.</ls> 1c<sup>2</sup>: <ab>cf.</ab> <lang n='greek'>μή-νη</lang>, ‘moon’; <ab>Lat.</ab> <i>Mēna,</i> ‘menstruationis dea’; <ab>Goth.</ab> <i>mena,</i> <ab>AS.</ab> <i>mōna,</i> <ab>Eng.</ab> <i>moon;</i> <ab>AS.</ab> <i>mōnan dæg,</i> ‘dies Lunae,’ <ab>Eng.</ab> <i>Monday;</i> <lbinfo n='Mon-day;'/> also <lang n='greek'>μήν</lang>, stem <lang n='greek'>μενς</lang>, <ab>Lat.</ab> <i>mens-i-s,</i> ‘month’; <ab>AS.</ab> <i>mōnað,</i> <ab>prop.</ab> ‘a lunation,’ <ab>Eng.</ab> <i>month.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मास्",
+            "eid": "30129",
+            "pagenum": 572,
+            "content": "mAs¦ <i>m.</i> The same as मास q.v.<P>(This word has no forms for the first five cases; according to some, it is not a separate word but an optional substitute for मास.)"
+        }
     ]
 }

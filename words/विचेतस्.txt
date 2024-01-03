@@ -28,5 +28,43 @@
             "pagenum": 586,
             "content": "विचेतस्¦ <i>vicetas</i> <ab>a.</ab> qui a perdu la raison; <lbinfo n='4'/> || qui est hors de soi."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विचेतस्",
+            "eid": "29300",
+            "pagenum": 492,
+            "content": "वि/चेतस्¦ <lex>a.</lex> catching the eye, conspicuous; wise, clever; unconscious, senseless; stupid, foolish."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विचेतस्",
+            "eid": "22263",
+            "pagenum": 403,
+            "content": "विचेतस्¦ ins Auge fallend; verständig, klug; einfältig, dumm."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "विचेतस्",
+            "eid": "7972",
+            "pagenum": 1267,
+            "content": "<b>ví-cetas,</b>¦ <ab>a.</ab>, 1〉 <i>glänzend, hervorleuchtend</i> [cétas 1]; 2〉 <i>einsichtsvoll, weise</i> [cétas 2]; <ab>vgl.</ab> á-vicetas. <div n='TS'>-ās 1〉 agnís {201,1}. _{201,2}; {301,2}; {905,4}. — 2〉 yakṣabhṛ́t {190,4}; (índras) {465,2}; {543,2}. <div n='TS'>-asam 1〉 (agním) {303,3}. — 2〉 índram {666,14}. <div n='TS'>-asas [<ab>G.</ab>] 1〉 asyá (agnés) {371,4}. <div n='TS'>-asā [<ab>V.</ab> <ab>du.</ab>] 2〉 (aśvinā) <chg type='chg' n='214' src='gra'><old>{428,5}</old><new>{428,9}</new></chg>; mitrāvaruṇā {958,6}. <div n='TS'>-asas [<ab>V.</ab>] 2〉 marutas {408,13}. [Page1268] <div n='TS'>-asas [<ab>N.</ab>] 2〉 devā́s {45,2}; {633,20}; mā́nuṣāsas {523,4}. <div n='TS'>-asas [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] 1〉 ā́pas {83,1}."
+        },
+        {
+            "word": "विचेतस्",
+            "eid": "11214",
+            "pagenum": 1745,
+            "content": "1267,4.b <ab>v. u.</ab>: {428,9} <ab>st.</ab> {428,5} <info vn='chg 214 gra'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विचेतस्",
+            "eid": "34792",
+            "pagenum": 660,
+            "content": "vicetas¦ <i>a.</i> 1. Perplexed, sorry; 2. ignorant, stupid."
+        }
     ]
 }

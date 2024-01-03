@@ -15,5 +15,43 @@
             "pagenum": 8,
             "content": "अग्रु¦ <i>agru</i> <ab>f.</ab> doigt."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अग्रु",
+            "eid": "269",
+            "pagenum": 4,
+            "content": "अ/ग्रु¦ <lex>f.</lex> अग्रू/ single, unmarried."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अग्रु",
+            "eid": "179",
+            "pagenum": 3,
+            "content": "अग्रु/¦ <i>f.</i> अग्रू/ ledig, unverheiratet."
+        },
+        {
+            "word": "अग्रु",
+            "eid": "29707",
+            "pagenum": 538,
+            "content": "अ/ग्रु¦ <i>st.</i> अग्रु/.—अङ्क/ <i>u.</i> अङ्कुर <i>m.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अग्रु",
+            "eid": "110",
+            "pagenum": 11,
+            "content": "<b>ágru,</b>¦ <ab>a.</ab>, in dieser Form <ab>masc.</ab> <i>unvermählt,</i> vielleicht ursprünglich „nicht verlobt, nicht zugesagt“ von <hom>1.</hom> gir (loben, mit sam, abhisam zusagen, versprechen). <div n='TS'>-us {398,7}. <div n='TS'>-avas {612,4}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अग्रु",
+            "eid": "544",
+            "pagenum": 15,
+            "content": "अग्रु¦ I. m. (-ग्रुः) Not married. <div n='P'>II. f. (-ग्रू) <sup>1</sup> A finger. <sup>2</sup> A river. E. अग्, uṇ. aff. क्रुन्."
+        }
     ]
 }

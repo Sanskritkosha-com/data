@@ -42,5 +42,43 @@
             "pagenum": 68,
             "content": "आगन्तु¦ <i>āgantu</i> <ab>m.</ab> <i>(gam)</i> celui qui arrive, hôte, étranger.  <P><i>āgantuka</i> <ab>a.</ab> accidentel, adventice. -- <ab>S.</ab> <ab>m.</ab> comme <i>āgantu.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "आगन्तु",
+            "eid": "4032",
+            "pagenum": 58,
+            "content": "आगन्तु¦ <lex>a.</lex> coming, arriving; <lex>m.</lex> new-comer, guest."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आगन्तु",
+            "eid": "2517",
+            "pagenum": 39,
+            "content": "आगन्तु¦ <i>u.</i> °क ankommend; <i>m.</i> Kömmling,Fremdling, <lbinfo n='15'/> Gast."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आगन्तु",
+            "eid": "576",
+            "pagenum": 124,
+            "content": "<b>āgantu,</b>¦ <i><ab>m.</ab></i> arrival; <i>and so, as in <ab>Eng.</ab>,</i> person arriving. [<b>√gam + ā,</b> <ls n='wg,1161'>1161.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आगन्तु",
+            "eid": "04755",
+            "pagenum": 94,
+            "content": "Agantu¦ <i>(I) a.</i> 1. Coming, arriving; 2. stray; 3. external; 4. incidental, adventitious."
+        },
+        {
+            "word": "आगन्तु",
+            "eid": "04756",
+            "pagenum": 94,
+            "content": "Agantu¦ <i>(II) m.</i> A stranger, a guest."
+        }
     ]
 }

@@ -28,5 +28,57 @@
             "pagenum": 701,
             "content": "सवयस्¦ <i>savayas</i> <ab>a.</ab> <i>(sam)</i> de même âge, contemporain, de même durée. -- <ab>S.</ab> <ab>m.</ab> camarade, ami. -- <ab>S.</ab> <ab>f.</ab> amie de même âge."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सवयस्",
+            "eid": "36033",
+            "pagenum": 605,
+            "content": "स/वयस्¦ <lex>a.</lex> of like strength or age; <lex>m.</lex> & <lex>f.</lex> comrade, friend."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सवयस्",
+            "eid": "26932",
+            "pagenum": 486,
+            "content": "स/वयस्¦ gleiche Kraft <i>o.</i> gleiches Alter habend; <i>m.</i> Altersgenosse, Freund."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सवयस्",
+            "eid": "9482",
+            "pagenum": 1492,
+            "content": "<b>sá-vayas,</b>¦ <ab>a.</ab>, <i>gleiche Jugendkraft</i> [váyas] <i>habend</i>. <div n='TS'>-asā [<ab>du.</ab>] {144,3}. _{144,4}. <div n='TS'>-asas [<ab>N.</ab> <ab>p.</ab>] marútas {165,1}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सवयस्",
+            "eid": "4504",
+            "pagenum": 269,
+            "content": "<b>sá-vayas,</b>¦ <i><ab>a.</ab></i> of like strength <i>or</i> age; <i><ab>m.</ab> <ab>pl.</ab></i> (<i>like</i> <lang n='greek'>ἥλικες, ἡλικιῶται</lang>, ‘equals in age, comrades’) comrades. [<b>3vayas.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सवयस्",
+            "eid": "40171",
+            "pagenum": 767,
+            "content": "savayas¦ <i>(I) a.</i> Of the same age."
+        },
+        {
+            "word": "सवयस्",
+            "eid": "40172",
+            "pagenum": 767,
+            "content": "savayas¦ <i>(II) m.</i> A coeval, a contemporary."
+        },
+        {
+            "word": "सवयस्",
+            "eid": "40173",
+            "pagenum": 767,
+            "content": "savayas¦ <i>(III) f.</i> A womans confidante."
+        }
     ]
 }

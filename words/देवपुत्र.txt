@@ -7,5 +7,55 @@
             "pagenum": 271,
             "content": "<b>devaputra</b>¦, see <b>deva</b>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "देवपुत्र",
+            "eid": "14442",
+            "pagenum": 237,
+            "content": "1 देवपुत्र¦ <lex>m.</lex> the son of a god."
+        },
+        {
+            "word": "देवपुत्र",
+            "eid": "14443",
+            "pagenum": 237,
+            "content": "2 देव/पुत्र¦ <lex>a.</lex> having gods as children."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "देवपुत्र",
+            "eid": "10316",
+            "pagenum": 182,
+            "content": "1. देवपुत्र¦ <i>m.</i> Göttersohn."
+        },
+        {
+            "word": "देवपुत्र",
+            "eid": "10317",
+            "pagenum": 182,
+            "content": "2. देवपुत्र¦ Götter zu Söhnen habend."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "देवपुत्र",
+            "eid": "4447",
+            "pagenum": 634,
+            "content": "<b>devá-putra,</b>¦ <ab>a.</ab>, <i>Götter zu Söhnen</i> [putrá] <i>habend</i>. <div n='TS'>-ās [<ab>V.</ab>] ṛṣayas (aṅgirasas) {888,4}, könnte auch V. von einem deva-putrá sein, dann also „Göttersöhne“. <div n='TS'>-e [<ab>du.</ab> <ab>f.</ab>] stets <ab>v.</ab> Himmel und Erde: (dyā́vāpṛthivī́) {159,1}; {569,1}; ródasī {185,4}; <chg type='chg' n='134' src='gra'><old>{485,7}</old><new>{458,7}</new></chg>; {837,9}; devī́ {106,3}; {352,2}."
+        },
+        {
+            "word": "देवपुत्र",
+            "eid": "11134",
+            "pagenum": 1744,
+            "content": "634,26.b <ab>v. u.</ab>: 458 <ab>st.</ab> 485 <info vn='chg 134 gra'/>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "देवपुत्र",
+            "eid": "1529",
+            "pagenum": 89,
+            "content": "<i>Devaputra</i>¦ (IE 8-2; EI 8, 21, 30), royal title of foreign origin; ‘the Son of Heaven’; title of certain Kuṣāṇa kings; same as <i>Daivaputra.</i> <div n='P'>(LL), Buddhist; an angel."
+        }
     ]
 }

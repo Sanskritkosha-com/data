@@ -72,5 +72,43 @@
             "pagenum": 604,
             "content": "विशारद¦ <i>viśārada</i> <ab>a.</ab> qui connaît l'art de, instruit, babile; || confiant en soi, hardi; || <ab>qqf.</ab> fameux."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विशारद",
+            "eid": "30197",
+            "pagenum": 508,
+            "content": "विशारद¦ <lex>a.</lex> experienced, knowing, wise; clever at, familiar with (<ab>loc.</ab> or —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विशारद",
+            "eid": "22929",
+            "pagenum": 415,
+            "content": "विशारद¦ erfahren, kundig, geschickt in (—°). <i>Abstr.</i> °त्व <i>n.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "विशारद",
+            "eid": "11878",
+            "pagenum": 727,
+            "content": "<b>Viśārada</b>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विशारद",
+            "eid": "35574",
+            "pagenum": 677,
+            "content": "viSArada¦ <i>(I) a. (f. दा)</i> 1. Conversant with, versed in, skilful in, सर्वे युद्धविशारदाः <ls>Bg.</ls>i.9, <ls>R.</ls>viii.17; 2. learned, wise; 3. famous, celebrated; 4. bold, confident."
+        },
+        {
+            "word": "विशारद",
+            "eid": "35575",
+            "pagenum": 677,
+            "content": "viSArada¦ <i>(II) m.</i> 1. A learned man; 2. the <i>Bakula</i> tree."
+        }
     ]
 }

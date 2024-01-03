@@ -84,5 +84,69 @@
             "pagenum": 759,
             "content": "ह्री¦ <i>hrī</i> <ab>f.</ab> pudeur, honte.  <P><i>hrīka</i> <ab>a.</ab> pudique, modeste. -- <ab>S.</ab> <ab>f.</ab> <i>hrīkā</i> pudeur, honte, crainte pudique.  <P><i>hrīku</i> <ab>a.</ab> pudique, modeste. -- <ab>S.</ab> <ab>m.</ab> laque; <lbinfo n='4'/> || étain."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ह्री",
+            "eid": "40034",
+            "pagenum": 669,
+            "content": "1 ह्री¦ जिह्रेति <vlex type='root'/> <ab>pp.</ab> ह्रीत (& ह्रीण) be ashamed or abashed. <ab>C.</ab> ह्रेपयति put to shame, confound. <ab>I.</ab> जेह्रीयते be greatly ashamed."
+        },
+        {
+            "word": "ह्री",
+            "eid": "40035",
+            "pagenum": 669,
+            "content": "2 ह्री/¦ <lex>f.</lex> shame, bashfulness."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ह्री",
+            "eid": "29680",
+            "pagenum": 536,
+            "content": "1. ह्री,¦ जिह्रेति sich schämen. <i>p. p.</i> ह्रीत <i>(u.</i> ह्रीण) beschämt, verlegen. <i>Caus.</i> ह्रेपयति <lbinfo n='2'/> beschämen, verlegen machen."
+        },
+        {
+            "word": "ह्री",
+            "eid": "29681",
+            "pagenum": 536,
+            "content": "2. ह्री/¦ <i>f.</i> Scham."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "ह्री",
+            "eid": "10769",
+            "pagenum": 1683,
+            "content": "<b>(√hrī),</b>¦ <i>sich schämen</i> (wol mit har zusammenhängend). <div n='H'><ab>Part.</ab> <b>hrayāṇa</b> in á-hrayāṇa. <div n='H'>Verbale <b>hrī</b> oder <b>hri</b> <div n='P'>enthalten in á-hrī, wovon <ab>N.</ab> <ab n='siehe'>s.</ab> áhrīs in <ls>Śat. Br. 〔11,3,3,5〕</ls> und in dem gleichbedeutenden á-hri."
+        }
+    ],
+    "INM": [
+        {
+            "word": "ह्री",
+            "eid": "4546",
+            "pagenum": 325,
+            "content": "<b>Hrī</b>¦ (“shame,” personif.). § 270 (Brahmasabhāv.): II, <b>11</b>, 458 (in the palace of Brahmán).—§ 330 (Indradarśana): III, <b>37</b>, 1488.—§ 615<i>u</i> (Skanda): IX, <b>45</b>γ, 2515 (came to the investiture of Skanda)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ह्री",
+            "eid": "43577",
+            "pagenum": 839,
+            "content": "hrI¦ <i>vi. 3P (pp. ह्रीत or ह्रीण; pres. जिह्रति)</i> 1. To blush, to be modest; 2. to be ashamed of, (with an abl. or gen.), अन्योन्यस्यापि जिह्राम्हः किं पुनः सहवासिनाम् <ls>Kir.</ls>xi.58, <ls>Bt.</ls>iii.53, <ls>R.</ls>xv.44."
+        },
+        {
+            "word": "ह्री",
+            "eid": "43578",
+            "pagenum": 839,
+            "content": "hrI¦ <i>Caus. (ह्रपयति-ते)</i> to put to shame, to degrade, to disgrace, युष्मान् ह्रेपयति क्रोधाल्लोके शत्रुकुलक्षयः । न लज्जयति दाराणां सभायां केशकर्षणम् <ls>Ve.</ls>i., <ls>R.</ls>vi.49, <ls>Kir.</ls>xi.64."
+        },
+        {
+            "word": "ह्री",
+            "eid": "43579",
+            "pagenum": 839,
+            "content": "hrI¦ <i>f.</i> 1. Shame, पौलस्त्यतुलितस्याद्रेरादधान इव ह्रियम् <ls>R.</ls>iv.8, <ls>K.S.</ls>iii.57; 2. modesty, bashfulness, ह्रीमूढानां भवति विफलप्रेरणा चूर्णमुष्टिः <ls>Megh.</ls>ii.5."
+        }
     ]
 }

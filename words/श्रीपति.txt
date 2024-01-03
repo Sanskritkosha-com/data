@@ -116,5 +116,37 @@
             "pagenum": 3,
             "content": "श्रीपति¦ <HI1>Jyotirvallabhā."
         }
+    ],
+    "CAE": [
+        {
+            "word": "श्रीपति",
+            "eid": "33375",
+            "pagenum": 561,
+            "content": "श्रीपति¦ <lex>m.</lex> = श्रीनाथ."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "श्रीपति",
+            "eid": "25212",
+            "pagenum": 455,
+            "content": "श्रीपति¦ <i>m.</i> = श्रीनाथ."
+        }
+    ],
+    "INM": [
+        {
+            "word": "श्रीपति",
+            "eid": "2721",
+            "pagenum": 215,
+            "content": "<b>Śrīpati</b>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "श्रीपति",
+            "eid": "38573",
+            "pagenum": 732,
+            "content": "SrI-pati¦ <i>m.</i> 1. an epithet of Vishṇu, श्रीपतिः पतिरसाववनेश्च परस्परं संकथामृतमनेकमसिस्वदतामुभौ <ls>Sis.</ls>xiii.69; 2. a king, a prince."
+        }
     ]
 }

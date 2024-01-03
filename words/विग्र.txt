@@ -36,5 +36,41 @@
             "pagenum": 584,
             "content": "विग्र¦ <i>vigra</i> <ab>a.</ab> sans nez, <ab>cf.</ab> <i>vikha.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "विग्र",
+            "eid": "29230",
+            "pagenum": 491,
+            "content": "वि/ग्र¦ <lex>a.</lex>  mighty, strong."
+        },
+        {
+            "word": "विग्र",
+            "eid": "29231",
+            "pagenum": 491,
+            "content": "विग्र/¦ <lex>a.</lex> mighty, strong."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विग्र",
+            "eid": "22209",
+            "pagenum": 402,
+            "content": "वि/ग्र¦ <i>o.</i> विग्र/ mächtig, stark."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "विग्र",
+            "eid": "7961",
+            "pagenum": 1266,
+            "content": "<b>vigrá,</b>¦ <ab>a.</ab>, <i>regsam, kräftig</i> [von vij, wie ugrá von *uj]. <div n='TS'>-ám índram {4,4}; (páyas) {508,7} tā́ 〰 dhaithe jaṭháram pṛṇádhyai … ví yád páyas … bhárante."
+        },
+        {
+            "word": "विग्र",
+            "eid": "12564",
+            "pagenum": 1769,
+            "content": "<b>vigrá:</b>¦<info vn='add 512 gra'/> <div n='TS'>-ám in {4,4} vígram betont."
+        }
     ]
 }

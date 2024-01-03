@@ -23,5 +23,45 @@
             "pagenum": 5,
             "content": "अकार¦ <i>akāra</i> <ab>m.</ab> la lettre <i>a.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अकार",
+            "eid": "54",
+            "pagenum": 1,
+            "content": "अकार¦ <lex>m.</lex> the sound or letter अ."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अकार",
+            "eid": "39",
+            "pagenum": 1,
+            "content": "अकार¦ <i>m.</i> der Laut a."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अकार",
+            "eid": "95",
+            "pagenum": 3,
+            "content": "अकार¦ m. (-रः) The letter अ. E. Acc. to the native etym. अ, kṛt aff. कार (v. s. v.)."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अकार",
+            "eid": "356",
+            "pagenum": 28,
+            "content": "<b>Akāra</b>¦ (“the letter <i>a</i>”): VI, 1237 (<i>akṣarāṇām akāro 'smi</i>, says Kṛṣṇa about himself)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अकार",
+            "eid": "9",
+            "pagenum": 111,
+            "content": "<b>a-kāra,</b>¦ <i><ab>m.</ab></i> the sound <i>or</i> letter <ab>a.</ab> [Whitney, <lbinfo n='[Whit-ney,'/> <ls n='wg,18'>18.</ls>]"
+        }
     ]
 }

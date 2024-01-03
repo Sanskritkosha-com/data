@@ -43,5 +43,43 @@
             "pagenum": 386,
             "content": "*पथ्¦ <i>path.</i> <i>pathāmi</i> 1; <ab>etc.</ab> Aller, partir, se mettre en route."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पथ्",
+            "eid": "17798",
+            "pagenum": 293,
+            "content": "प/थ्¦ (<ab>nom.</ab>  प/न्थास्) path, road, course, way, manner; a <ab>cert.</ab> hell. — पन्थानं दा give the way to, go out of the way of (<ab>gen.</ab>). पथि in the way, on the journey; पथानेन in this way or manner."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पथ्",
+            "eid": "13199",
+            "pagenum": 233,
+            "content": "प/थ्¦ (पथि/न् <i>u.</i> प/न्थान् <i>Nom.</i> प/न्थास्) Pfad, Weg, Art und Weise. पन्थानं दा den Weg, räumen, ausweichen <i>(Gen.).</i> पथि unterwegs. पथनेन auf diese Weise."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "पथ्",
+            "eid": "5217",
+            "pagenum": 767,
+            "content": "<b>(√path,</b> <b>√panth),</b>¦ <i>gehen</i>. Diese Wurzel ist im <lang>Sanskrit</lang> nicht sicher belegt; sie tritt aber im <lang>goth.</lang> finþan (finden), <lang>altn.</lang> fatt (er ging) hervor [<ab n='siehe'>s.</ab> <ls>Cu. 〔349〕</ls>] und liegt in páth, pathí, pánthā, pathíā, pā́thas zu Grunde."
+        },
+        {
+            "word": "पथ्",
+            "eid": "5218",
+            "pagenum": 767,
+            "content": "<b>páth</b>¦ siehe pathí."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "पथ्",
+            "eid": "2442",
+            "pagenum": 186,
+            "content": "<b>path</b>¦ [<ls n='wg,433'>433]</ls>, <i>same as</i> <b>panthan.</b>"
+        }
     ]
 }

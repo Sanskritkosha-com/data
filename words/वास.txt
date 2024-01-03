@@ -47,5 +47,69 @@
             "pagenum": 580,
             "content": "वास¦ <i>vāsa</i> <ab>m.</ab> <i>(vas)</i> habitation; nid; || site. || <i>(vas</i> 2) vêtement; étoffe. || Parfum. -- <ab>M.</ab> et <ab>f.</ab> justicia, <ab>bot.</ab>  <P><i>vāsaka</i> <ab>m.</ab> et <ab>f.</ab> [<i>ā</i>] justicia, <ab>bot.</ab>  <P><i>vāsakasajjikā</i> <ab>f.</ab> femme ayant toutes ses parures et prête à recevoir son amant.  <P><i>vāsakarṇī</i> <ab>f.</ab> salle d'exposition, de danse, <ab>etc.</ab>  <P><i>vāsagṛha</i> <ab>n.</ab> chambre à coucher, cabinet de toilette."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वास",
+            "eid": "28999",
+            "pagenum": 487,
+            "content": "1 वास¦ <lex>m.</lex> garment, clothes."
+        },
+        {
+            "word": "वास",
+            "eid": "29000",
+            "pagenum": 487,
+            "content": "2 वास/¦ <lex>m.</lex> staying (<ab>esp.</ab> over night), abiding in (<ab>loc.</ab> or —°), abiding-place, house, home, state, condition; <ab>adj.</ab> —° living or dwelling in."
+        },
+        {
+            "word": "वास",
+            "eid": "29001",
+            "pagenum": 487,
+            "content": "3 वास¦ <lex>m.</lex> odour, perfume."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वास",
+            "eid": "22035",
+            "pagenum": 399,
+            "content": "1. वास¦ <i>m.</i> Gewand, Kleid."
+        },
+        {
+            "word": "वास",
+            "eid": "22036",
+            "pagenum": 399,
+            "content": "2. वास/¦ <i>m.</i> das Wohnen, Verweilen in <i>(Loc. o.</i> —°), Übernachten; Wohnung, Aufenthalt, Stätte."
+        },
+        {
+            "word": "वास",
+            "eid": "22037",
+            "pagenum": 399,
+            "content": "3. वास¦ <i>m.</i> Wohlgeruch."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वास",
+            "eid": "7940",
+            "pagenum": 1263,
+            "content": "<b>vāsá</b>¦ [von <hom>3.</hom> vas], <ab>m.</ab>, <i>Wohnung</i>. <div n='TS'>-é {397,14} śíśum mṛjanti āyávas ná 〰."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वास",
+            "eid": "3812",
+            "pagenum": 242,
+            "content": "<b>vāsá,</b>¦ <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> <i><ab>prop.</ab></i> a staying over night; <div n='2'/><b>—2.</b> an abiding, <ls n='lan,32,5'>32<sup>5</sup></ls>; <div n='2'/><b>—3.</b> abiding-place, <ls n='lan,23,20'>23<sup>20</sup></ls>. [<b>√3vas,</b> ‘dwell’: for <ab>mg</ab>, <ab>cf.</ab> <b>bhavana.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वास",
+            "eid": "34540",
+            "pagenum": 656,
+            "content": "vAsa¦ <i>m.</i> 1. Perfume; 2. living, dwelling, नरके नियतं वासो भवतीत्यनुशुश्रुम <ls>Bg.</ls>i.43, <ls>Yaj.</ls>iii.297, <ls>R.</ls>xix.2; 3. a house, a habitation; 4. a site, a situation; 5. dress, clothes."
+        }
     ]
 }

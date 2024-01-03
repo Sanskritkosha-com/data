@@ -36,5 +36,43 @@
             "pagenum": 51,
             "content": "अलिन्द¦ <i>alinda</i> <ab>m.</ab> terrasse devant une maison."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अलिन्द",
+            "eid": "3011",
+            "pagenum": 44,
+            "content": "अलिन्द¦ (& °क*) <lex>m.</lex> terrace before a house."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अलिन्द",
+            "eid": "1912",
+            "pagenum": 30,
+            "content": "अलिन्द¦ <i>m.</i> Terrasse."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अलिन्द",
+            "eid": "392",
+            "pagenum": 29,
+            "content": "<b>Alinda</b>,¦ pl. (<i>°āḥ</i>), a people in Bharata-varṣa.—§ 574 (Jambūkh.): VI, <b>9</b>, 371 (B. has <i>Athida</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अलिन्द",
+            "eid": "03610",
+            "pagenum": 70,
+            "content": "alinda¦ <i>(I) m.</i> 1. A terrace before a house-door, e.g. यस्यामलिन्देषु न चक्रुरेव; 2. a place before a door."
+        },
+        {
+            "word": "अलिन्द",
+            "eid": "03611",
+            "pagenum": 70,
+            "content": "alinda¦ <i>(II) m. pl.</i> The name of a country and its people."
+        }
     ]
 }

@@ -43,5 +43,49 @@
             "pagenum": 454,
             "content": "*प्रुष्¦ <i>pruṣ.</i> <i>pruṣṇāmi</i> 9; <ab>etc.</ab> Etre ou devenir humide. || Lâcher; || arroser; répandre; <lbinfo n='7'/> || emplir. || Aimer. || <ab>Cf.</ab> <i>pṛṣ</i> et <i>pluṣ.</i>  <P><i>pruṣāyāmi</i> <ab>Vd.</ab> (<ab>c.</ab> de <i>pruṣ)</i> répandre."
         }
+    ],
+    "CAE": [
+        {
+            "word": "प्रुष्",
+            "eid": "21467",
+            "pagenum": 353,
+            "content": "प्रुष्¦ प्रुष्णो/ति प्रुष्णुते <vlex type='root'/> (प्रुष्यति), <ab>pp.</ab> प्रुषित/ sprinkle, wet, moisten. <div n='p'>— अभि <ab>M.</ab> sprinkle anything on one's self. <div n='p'>परि sprinkle about. <div n='p'>वि drip off or down."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "प्रुष्",
+            "eid": "16247",
+            "pagenum": 285,
+            "content": "प्रुष्,¦ प्रुष्णो/ति, प्रुष्णुते (प्रुष्यति) spritzen, besprengen; <lbinfo n='9'/> <i>p. p.</i> प्रुषित/ bespritzt, benetzt."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "प्रुष्",
+            "eid": "6089",
+            "pagenum": 893,
+            "content": "<b>√pruṣ,</b>¦ „spritzen“ [aus pru erweitert <ls>Fi. 〔130〕</ls>], 1〉 etwas [<ab>A.</ab>] <i>ausspritzen,</i> auch bildlich Güter, Gesänge; 2〉 jemandem [<ab>D.</ab>] etwas [<ab>A.</ab>] <i>zuspritzen</i> oder <i>zusprühen</i> (bildlich: Güter); 3〉 jemand [<ab>A.</ab>] <i>bespritzen</i>. <div n='Pf'>Mit <b>abhí</b> etwas [<ab>A.</ab>] <i>bespritzen, benetzen</i>. <div n='Pf'><b>pári</b> <i>rings spritzen</i>. <div n='H'>Stamm <chg type='chg' n='158' src='gra'><old><b>pruṣ:</b></old><new><b>pruṣa:</b></new></chg> <div n='TS'>-ṣa (-ṣā) 1〉 vásu {903,1} (abhraprúṣas ná vācā́). <div n='H'>Stamm <b>pruṣṇu,</b> stark <b>pruṣṇó:</b> <div n='TS'>-uvánti 1〉 ghṛtám {168,8}. <div n='TS'>-ávat 2〉 vásu kṣitíbhyas {247,4}. <div n='TS'>-ute <b>abhí</b> śmáśrūṇi {849,4} (índras); pāṇī́ ghṛténa {512,1} (savitā́). <div n='H'><ab>Part.</ab> II. <b>pruṣitá:</b> <div n='TS'>-ásya 3〉 agnés {58,2}. <div n='H'>Verbale <b>prúṣ.</b> <div n='P'>in pari-prúṣ; ferner in abhra-, ghṛta-prúṣ."
+        },
+        {
+            "word": "प्रुष्",
+            "eid": "11158",
+            "pagenum": 1744,
+            "content": "893,29: <b>pruṣa</b> <ab>st.</ab> <b>pruṣ</b> <info vn='chg 158 gra'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "प्रुष्",
+            "eid": "25667",
+            "pagenum": 493,
+            "content": "pruz¦ <i>(I) vt. 1P (pp. पृष्ट; pres. प्रोषति)</i> To burn, to reduce to ashes."
+        },
+        {
+            "word": "प्रुष्",
+            "eid": "25668",
+            "pagenum": 493,
+            "content": "pruz¦ <i>(II) vt. or vi. 9P (pres. पृष्णाति)</i> 1. To become wet, to become moist; 2. to sprinkle; 3. to fill."
+        }
     ]
 }

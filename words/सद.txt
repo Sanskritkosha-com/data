@@ -15,5 +15,37 @@
             "pagenum": 1000,
             "content": "सद¦ <i>sada,</i> see <i>śada.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "सद",
+            "eid": "34539",
+            "pagenum": 582,
+            "content": "सद¦ <lex>a.</lex> = <ab>prec.</ab> <ab>adj.</ab>; <lex>m.</lex> fruit; <lex>n.</lex> a <ab>cert.</ab> part of the sacrif, animal."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सद",
+            "eid": "25984",
+            "pagenum": 470,
+            "content": "सद¦ <i>dass.</i> (—°); <i>m.</i> Frucht."
+        }
+    ],
+    "INM": [
+        {
+            "word": "सद",
+            "eid": "9200",
+            "pagenum": 602,
+            "content": "<b>Sada</b>,¦ a son of Dhṛtarāṣṭra. § 182 (Dhṛtarāṣṭraputranāmak.): I, <b>117</b>, 4548 (read <i>Sadaḥsuvāc</i> as one name?)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सद",
+            "eid": "39436",
+            "pagenum": 752,
+            "content": "sada¦ <i>m.</i> The fruit of trees."
+        }
     ]
 }

@@ -58,5 +58,63 @@
             "pagenum": 613,
             "content": "वृत्त¦ <i>vṛtta</i> (<ab>pp.</ab> de <i>vṛt)</i> rond, tournant. || Qui a eu lieu; passé; mort; || lu, étudié. -- <ab>S.</ab> <ab>m.</ab> tortue. -- <ab>S.</ab> <ab>n.</ab> la chose dont on s'occupe, état, profession, métier; || élément <lbinfo n='4'/> constitutif de <ab>qqc.</ab>, ce qui s'y trouve. || Vers, mètre poétique.  <P><i>vṛttatas</i> <ab>adv.</ab> (<ab>sfx.</ab> <i>tas)</i> par suite de la profession, <lbinfo n='8'/> relativement au métier, <ab>etc.</ab>  <P><i>vṛttapuṣpa</i> <ab>m.</ab> le cadamba, <ab>bot.</ab>  <P><i>vṛttaphala</i> <ab>n.</ab> poivre noir.  <P><i>vṛttastha</i> <ab>a.</ab> <i>(sthā)</i> qui reste dans sa profession, <lbinfo n='5'/> qui s'acquitte des devoirs de son état.  <P><i>vṛttānta</i> <ab>m.</ab> <i>(anta)</i> fin d'une occupation, repos, loisir. || But ou objet d'une occupation; <lbinfo n='5'/> || manière; propriété, nature; sorte, espèce. || Récit, bruit public, nouvelles. || Totalité."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वृत्त",
+            "eid": "30751",
+            "pagenum": 519,
+            "content": "वृत्त/¦ <lex>a.</lex> turned, round; happened, passed; finished, accomplished; ceased, gone, died; being, present (°—); become; having behaved towards (<ab>loc.</ab>). — <lex>n.</lex> occurrence, appearance, event, adventure; cause, matter; conduct, behaviour, practice; verse, metre."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वृत्त",
+            "eid": "23316",
+            "pagenum": 422,
+            "content": "वृत्त/¦ <i>(s.</i> वर्त्) <i>n.</i> das Vorkommen, Erscheinung, <lbinfo n='5'/> Ereignis, Angelegenheit, Wandel, (gutes) Betragen; Metrum."
+        }
+    ],
+    "INM": [
+        {
+            "word": "वृत्त",
+            "eid": "12386",
+            "pagenum": 757,
+            "content": "<b>Vṛtta</b><sup>1</sup>,¦ a serpent. § 47 (Sarpanāmak.): I, <b>35</b>, 1555 (read with B. <i>Vṛttasaṃvartakau</i>; C. has <i>Vṛttasaṃvartako</i>). Cf. Avṛtta."
+        },
+        {
+            "word": "वृत्त",
+            "eid": "12387",
+            "pagenum": 757,
+            "content": "<b>Vṛtta</b><sup>2</sup>¦ (XII, 3660), v. Vṛtra."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वृत्त",
+            "eid": "3998",
+            "pagenum": 251,
+            "content": "<b>vṛttá,</b>¦ <i><ab>ppl.</ab></i> <div n='2'/><b>—1.</b> happened (<b>√vṛt</b> 2); <b>tad</b> <b>vṛttam,</b> that took place; <div n='2'/><b>—2.</b> existing (<b>vṛt</b> 3); <i>--as <ab>n.</ab></i> <div n='2'/><b>—1.</b> thing happened, occurrence (<b>vṛt</b> 2); <div n='2'/><b>—2.</b> life, behavior (<b>vṛt</b> 5, 6)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वृत्त",
+            "eid": "36046",
+            "pagenum": 687,
+            "content": "vftta¦ <i>(I) a. (f. त्ता)</i> 1. Turned; 2. round, circular, <ls>K.S.</ls>i.35, <ls>R.</ls>vi.32; 3. occurred, passed, finished, <ls>R.</ls>ii.58; 4. been, existed; 5. done, performed, acted; 6. dead, deceased; 7. fixed, firm; 8. studied, read through; 9. chosen, selected, (pp. of वृत् q.v.)."
+        },
+        {
+            "word": "वृत्त",
+            "eid": "36047",
+            "pagenum": 687,
+            "content": "vftta¦ <i>(II) m.</i> A tortoise."
+        },
+        {
+            "word": "वृत्त",
+            "eid": "36048",
+            "pagenum": 687,
+            "content": "vftta¦ <i>(III) n.</i> 1. A circle, a circumference; 2. event, occurrence; 3. occupation, mode of life, practice, अनेन विप्रो वृत्तेन वर्तयन् वेदशास्त्रवित् <ls>M.</ls>iv.260; 4. behaviour, demeanour; 5. observance of any established rule or usage; 6. a metre regulated by the number of syllables, तच्च वृत्तं जातिरिति द्विधा <ls>K.D.</ls>i.11."
+        }
     ]
 }

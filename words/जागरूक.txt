@@ -28,5 +28,43 @@
             "pagenum": 137,
             "content": "जागरूक¦ (r. जागृ s. ऊक) vigilans. RAGH. 10. 25."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जागरूक",
+            "eid": "11219",
+            "pagenum": 184,
+            "content": "जागरू/क¦ <lex>a.</lex> waking, watchful, attentive."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जागरूक",
+            "eid": "7604",
+            "pagenum": 135,
+            "content": "जागरू/क¦ wach, wachsam, beschäftigt mit(—°)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जागरूक",
+            "eid": "3468",
+            "pagenum": 482,
+            "content": "<b>jāgarū́ka,</b>¦ <ab>a.</ab>, <i>wachsam</i> [von <chg type='chg' n='111' src='gra'><old>jar</old><new>gar</new></chg>, <ab>Intens.</ab>]. <div n='TS'>-e [<ab>d.</ab> <ab>f.</ab>] {288,7} (dyā́vāpṛthivī́)."
+        },
+        {
+            "word": "जागरूक",
+            "eid": "11111",
+            "pagenum": 1743,
+            "content": "482,30 <ab>v. u.</ab>: gar <ab>st.</ab> jar <info vn='chg 111 gra'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "जागरूक",
+            "eid": "14543",
+            "pagenum": 288,
+            "content": "jAgarUka¦ <i>a. (f. का)</i> 1. Wakeful, sleepless, स्वपतो जागरूकस्य याथार्थ्यं वेद कस्तव <ls>R.</ls>x.24; 2. watchful, vigilant, वर्णाश्रमावेक्षणजागरूकः <ls>R.</ls>xiv.15."
+        }
     ]
 }

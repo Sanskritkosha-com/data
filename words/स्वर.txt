@@ -63,5 +63,57 @@
             "pagenum": 745,
             "content": "स्वर¦ <i>svara</i> <ab>m.</ab> <i>(svṛ)</i> son, || son musical, note; <i>saptasvarās</i> les 7 notes de l'octave; || voyelle, accent ou lettre accentuée, <ab>tg.</ab>  <P><i>svaraṇa</i> <ab>a.</ab> <ab>Vd.</ab> célèbre.  <P><i>svarapattana</i> <ab>n.</ab> le <s1 slp1='sAmaveda'>Sāma-veda</s1>, qui est tout entier chanté.  <P><i>svarabhakti</i> <ab>f.</ab> <i>(bhañj)</i> fraction de voyelle [par <ab>ex.</ab> le son très-léger qui est entre <i>l</i> et <i>t</i> dans le latin <i>alter,</i> son qui est complet dans <i>aliter</i>], <ab>tg.</ab>  <P><i>svarabhaktikāla</i> <ab>a.</ab> qui a la quantité d'une <i>svarabhakti,</i> <ab>tg.</ab>  <P><i>svarabhaṅga</i> <ab>m.</ab> <i>(bhañj)</i> rupture des sons de la voix, chevrottement.  <P><i>svarabhaṅgin</i> <ab>m.</ab> <ab>esp.</ab> d'oiseau.  <P><i>svaramaṇḍalikā</i> <ab>f.</ab> sorte d'instrument de musique à cordes.  <P><i>svaralāsikā</i> <ab>f.</ab> flûte.  <P><i>svarāntare</i> <ab>adv.</ab> entre deux voyelles, <ab>tg.</ab>  <P><i>svarāṃśa</i> <ab>m.</ab> <i>(aṃśa)</i> fraction de ton, <ab>t.</ab> de musique.  <P><i>svarita</i> <ab>a.</ab> vocalisé, <ab>tg.</ab> -- <ab>S.</ab> <ab>n.</ab> une des 3 <ab>esp.</ab> d'accent [les autres sont <i>l'udātta</i> et l'<i>anudālla</i>] <ab>tg.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "स्वर",
+            "eid": "38994",
+            "pagenum": 652,
+            "content": "स्वर/¦ <lex>m.</lex>  sound, voice, accent, musical tone or note."
+        },
+        {
+            "word": "स्वर",
+            "eid": "38995",
+            "pagenum": 652,
+            "content": "स्व/र¦ <lex>m.</lex> sound, voice, accent, musical tone or note."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "स्वर",
+            "eid": "28973",
+            "pagenum": 522,
+            "content": "2. स्वर/¦ <i>n.</i> Sonne, Sonnenschein, Licht, Glanz, Himmel, <i>N. einer best. Welt</i> <i>(vgl.</i> भुवस्)."
+        },
+        {
+            "word": "स्वर",
+            "eid": "28974",
+            "pagenum": 522,
+            "content": "स्वर/¦ <i>o.</i> स्व/र <i>m.</i> Ton, Schall, Stimme, Accent <i>(auch =</i> स्वरित), musikalischer Ton, Note; Vocal."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "स्वर",
+            "eid": "10436",
+            "pagenum": 1630,
+            "content": "<b>svará,</b>¦ <ab>a.</ab>, <i>Rauschen, Geräusch</i> [von svar]; <ab>vgl.</ab> ṛṣi-, abhi-svará. <div n='TS'>-éṇa 〰 ádrim … darayas {62,4}. <div n='TS'>-é tīrthé síndhos ádhi 〰 {681,7}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "स्वर",
+            "eid": "5804",
+            "pagenum": 330,
+            "content": "<i>svara</i>¦ (IE 7-1-2), ‘seven’."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "स्वर",
+            "eid": "42715",
+            "pagenum": 821,
+            "content": "svara¦ <i>m.</i> 1. Sound, noise; 2. voice, अवोचदेनं गगनस्पृशा रघुः स्वरेण धीरेण <ls>R.</ls>iii.43; 3. tone, tune, a note of the musical scale or gamut, (which are thus enumerated- निषादर्षभगांधारषड्रजमध्यमधैवताः । पंचमश्चेत्यमी सप्त तंत्रीकंठोत्थिताः स्वराः); 4. a symbolical expression for the number ‘seven’; 5. a vowel; 6. a Vedic accent, (of which there are three, viz., उदात्त, अनुदात्त and स्वरित); 7. air breathed through the nostrils; 8. snoring."
+        }
     ]
 }

@@ -31,5 +31,45 @@
             "pagenum": 666,
             "content": "षष्¦ <i>ṣaṣ</i> <ab>a.</ab> [<ab>nom.</ab> <i>ṣaṭ</i>] six. || <ab>Zd.</ab> cswas; <ab>lat.</ab> sex; <ab>gr.</ab> <lang n='greek'>ἕξ</lang>; <ab>goth.</ab> saihs; <ab>lith.</ab> szeszi; <ab>etc.</ab> || <ab>M§</ab> 51, 5°."
         }
+    ],
+    "CAE": [
+        {
+            "word": "षष्",
+            "eid": "33689",
+            "pagenum": 566,
+            "content": "ष/ष्¦ <ab>pl.</ab> (<ab>nom.</ab> ष/ट्) six; ष/ट् also as <ab>adv.</ab> six times."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "षष्",
+            "eid": "25452",
+            "pagenum": 459,
+            "content": "ष/ष्¦ <i>Pl. (Nom.</i> ष/ट्) sechs."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "षष्",
+            "eid": "9059",
+            "pagenum": 1436,
+            "content": "<b>ṣaṣ,</b>¦ <ab>a.</ab> [<ls>Cu. 〔584〕</ls>], <i>sechs,</i> vor weichen Lauten ṣád, vor harten ṣát. <div n='TS'>-áṣ [<ab>N.</ab>, <ab>A.</ab> <ab>p.</ab>] (-áḍ, -áṭ) yuktā́n {23,15}; áśvān {677,17}; rájāṃsi {164,6}; yamā́s {164,15}; viṣṭíras {204,10}; bhārā́n {290,2}; urvī́s {488,3}; {840,16}; sahásrā {534,14}; náras {677,14}. <div n='TS'>-aṣ (-aḍ) [<ab>V.</ab>] devīs 〰 urvīs {954,5}. <div n='TS'>-aḍbhís (háribhis) {209,4}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "षष्",
+            "eid": "4318",
+            "pagenum": 263,
+            "content": "<b>ṣáṣ</b>¦ [<ls n='wg,483'>483<sup>3</sup></ls>], <i><ab>num.</ab></i> six. [see <ls n='wg,182'>182b<sup>2</sup></ls>, <ls n='wg,146'>146<sup>3</sup></ls>: <ab>cf.</ab> <lang n='greek'>ἕξ</lang>, <ab>Lat.</ab> <i>sex,</i> <ab>Eng.</ab> <i>six.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "षष्",
+            "eid": "38834",
+            "pagenum": 737,
+            "content": "zaz¦ <i>num. (used in the pl.)</i> Six, <ls>M.</ls>i.17, 61, viii.403."
+        }
     ]
 }

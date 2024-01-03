@@ -76,5 +76,57 @@
             "pagenum": 309,
             "content": "दत्त¦ <i>datta</i> <ab>pp.</ab> de <i>dā</i> et de <i>de.</i> [A la fin des <ab>np.</ab>, ce mot désigne <ab>ordt.</ab> des personnes de la 3ᵉ caste.]  <P><i>dattakaputra</i> <ab>m.</ab> (<ab>sfx.</ab> <i>ka; putra)</i> enfant donné [en adoption par ses parents].  <P><i>dattapradānika</i> <ab>n.</ab> <i>(pra; dāna)</i> reprise d'une chose donnée.  <P><i>dattātman</i> <ab>m.</ab> [qui se donne soi-mème] orphelin qui se donne comme enfant adoptif.  <P><i>dattānapakarman</i> <ab>n.</ab> <i>(an</i> <ab>priv.</ab> <i>apa; kṛ;</i> <ab>sfx.</ab> <i>man)</i> abandon que l'on fait d'une chose donnée, non-réclamation."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दत्त",
+            "eid": "13232",
+            "pagenum": 218,
+            "content": "दत्त/¦ <lex>a.</lex> given <ab>etc.</ab>; often °— having given or having been given <ab>i.e.</ab> having received; <lex>m.</lex> = <ab>seq.</ab>, a man's name; <lex>n.</lex> gift, donation, liberality."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दत्त",
+            "eid": "9325",
+            "pagenum": 165,
+            "content": "दत्त/¦ <i>(s.</i> 1. दा) <i>m. Mannsn.; n.</i>  das Geben."
+        }
+    ],
+    "INM": [
+        {
+            "word": "दत्त",
+            "eid": "3173",
+            "pagenum": 235,
+            "content": "<b>Datta</b>,¦ a ṛṣi. § 702 (Mokṣadh.): XII, <b>297</b>δ, 10875 (among the ṛṣis who have obtained their position by way of penances). Cf. Dattātreya."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दत्त",
+            "eid": "1874",
+            "pagenum": 167,
+            "content": "<b>dattá,</b>¦ <i><ab>a.</ab></i> given; <i>as <ab>m.</ab></i> (a son) given (by his parents to others for adoption); <i>common </i> <lbinfo n='com-mon'/> <i>at end of proper names, <ab>esp.</ab> of Vaiśyas.</i> [<ab>ppl.</ab> of <b>√1dā,</b> <ls n='wg,955'>955c</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दत्त",
+            "eid": "16393",
+            "pagenum": 324,
+            "content": "datta¦ <i>(I) a. (f. त्ता)</i> 1. Given, presented; 2. made over, assigned; 3. placed, stretched fourth, (pp. of दा q.v.)."
+        },
+        {
+            "word": "दत्त",
+            "eid": "16394",
+            "pagenum": 324,
+            "content": "datta¦ <i>(II) m.</i> 1. One of the twelve kinds of sons in Hindu law; (he is thus defined by Manu- माता पिता वा दद्यातां यमद्भिः पुत्रमापदि । सदृशं प्रीतिसंयुक्तं स ज्ञेयो दत्त्रिमः सुतः ix.168); 2. an affix to the names of the <i>Vaiśyas</i>, e.g. वसुदत्त, (शर्मा देवश्च विप्रस्य वर्मा त्राता च भूभुजः । भुतिर्दत्तश्च वैश्यस्य दासः शूद्रस्य्स् कारयेत्); 3. the name of a son of Atri and Anasūyā. (See दत्तात्रेय below)."
+        },
+        {
+            "word": "दत्त",
+            "eid": "16395",
+            "pagenum": 324,
+            "content": "datta¦ <i>(III) n.</i> A gift, a donation."
+        }
     ]
 }

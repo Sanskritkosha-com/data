@@ -52,5 +52,37 @@
             "pagenum": 703,
             "content": "संशय¦ <i>saṃśaya</i> <ab>m.</ab> <i>(śī)</i> doute.  <P><i>saṃśayātman</i> <ab>a.</ab> <i>(ātman)</i> qui doute, livré au doute, sceptique.  <P><i>saṃśayālu</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ālu)</i> <ab>mms.</ab>  <P><i>saṃśayitṛ</i> <ab>a.</ab> (<ab>sfx.</ab> <i>tṛ)</i> douteur, sceptique.  <P><i>saṃśaye</i> <i>(śī)</i> être douteux; être dans le doute. || Languir, <ab>Vd.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "संशय",
+            "eid": "33853",
+            "pagenum": 569,
+            "content": "संशय¦ <lex>m.</lex> doubt, hesitation, uncertainty about (<ab>loc.</ab>, <ab>acc.</ab> <ab>w.</ab> प्रति, or —°); danger for (<ab>gen.</ab>, <ab>loc.</ab>, or —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "संशय",
+            "eid": "25571",
+            "pagenum": 461,
+            "content": "संशय¦ <i>m.</i> Zweifel, Ungewissheit über <i>(Loc.</i> <i>o.</i> —°), Gefahr."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "संशय",
+            "eid": "4327",
+            "pagenum": 263,
+            "content": "<b>saṃśaya,</b>¦ <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> doubt; <b>na saṃśayas,</b> (there is) no doubt; <div n='2'/><b>—2.</b> danger, <ls n='lan,20,16'>20<sup>16</sup></ls>. [<b>√śī + sam.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "संशय",
+            "eid": "39043",
+            "pagenum": 741,
+            "content": "saMSaya¦ <i>m.</i> 1. Uncertainty, irresolution, doubt, suspicion, एतं मे शंशयं कृष्ण छेत्तुमर्हस्यशेषतः । त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते <ls>Bg.</ls>vi.39; 2. logical indecision; (it is thus defined- एकस्मिन् धर्मिणि विरुद्धनानाकोटिकावगाहि ज्ञानम्); 3. difficulty, risk, peril, न संशयमनारुह्य नरो भद्राणि पश्यति <ls>Hit.</ls>i., अपि जीवितसंशयः प्रयाणे <ls>Bh.V.</ls>ii.20; 4. possibility."
+        }
     ]
 }

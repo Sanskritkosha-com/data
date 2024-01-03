@@ -15,5 +15,47 @@
             "pagenum": 126,
             "content": "एतश¦ <i>etaśa</i> <ab>m.</ab> cheval, <ab>Vd.</ab> || Brâhmane."
         }
+    ],
+    "CAE": [
+        {
+            "word": "एतश",
+            "eid": "6550",
+            "pagenum": 101,
+            "content": "ए/तश¦ <lex>a.</lex>  swift, quick; <lex>m.</lex> a horse, <ab>esp.</ab> of the Sun."
+        },
+        {
+            "word": "एतश",
+            "eid": "6551",
+            "pagenum": 101,
+            "content": "एतश/¦ <lex>a.</lex> swift, quick; <lex>m.</lex> a horse, <ab>esp.</ab> of the Sun."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "एतश",
+            "eid": "4038",
+            "pagenum": 67,
+            "content": "ए/तश¦ <i>u.</i> एतश/ bunt, glänzend; <i>m.</i> Ross, <i>bes.</i> Sonnenross."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "एतश",
+            "eid": "2298",
+            "pagenum": 299,
+            "content": "<b>étaśa,</b>¦ <ab>a.</ab>, <i>eilend</i> [von éta], daher 2〉 <ab>m.</ab>, das <i>Ross,</i> insbesondere 3〉 das <i>Sonnenross,</i> dessen Anschirrung und Antreibung häufig als des Indra Werk geschildert wird; 4〉 Eigenname eines Mannes (falls nicht auch hier vom Rosse zu verstehen). Der Begriff der Eile tritt an den meisten Stellen, wo vom Rosse, insbesondere dem Sonnenrosse die Rede ist, deutlich hervor. <div n='TS'>-as bráhmaṇaspátis {879,9}. — 2〉 {728,1}; {776,19} (an beiden Stellen vom Soma); {820,2}. — 3〉 {121,13}; {210,5}; {385,11}; {435,3} (von Savitar); {579,2}; {582,14}. <div n='TS'>-am rátham {54,6}. — 3〉 {61,15}; {313,14}; {326,6}; {621,11}; {626,38} und {775,8} (Soma damit verglichen). — 4〉 {1019,9}. <div n='TS'>-asya 2〉 yā́man {456,5}. <div n='TS'>-e 3〉 {383,5}. <div n='TS'>-ā [<ab>d.</ab>] 2〉 {679,7} (<ab>par.</ab> hárī). <div n='TS'><chg type='chg' n='83' src='gra'><old>-ebhis</old><new>-ébhis</new></chg> 3〉 {578,2} (evaís); {863,3} (pataraís); {875,7} (parallel āśúbhis)."
+        },
+        {
+            "word": "एतश",
+            "eid": "11083",
+            "pagenum": 1743,
+            "content": "299,20.b <ab>v. u.</ab>: -ébhis <ab>st.</ab> -ebhis <info vn='chg 83 gra'/>"
+        },
+        {
+            "word": "एतश",
+            "eid": "12256",
+            "pagenum": 1758,
+            "content": "<b>étaśa,</b> <b>etaśá:</b>¦<info vn='add 233 gra'/> <div n='TS'>-as 2〉 {168,5}; <div n='TS'>-ás 3〉 {579,2} (so betont)."
+        }
     ]
 }

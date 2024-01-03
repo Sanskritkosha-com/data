@@ -44,5 +44,57 @@
             "pagenum": 53,
             "content": "अवद्य¦ <i>avadya</i> <ab>a.</ab> <i>(vad)</i> qui ne mérite pas qu'on en parle: bas, vil, méprisable."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अवद्य",
+            "eid": "3123",
+            "pagenum": 45,
+            "content": "अवद्य¦ <lex>a.</lex> blamable, bad. <lex>n.</lex> imperfection, want, fault; blame, censure, blemish, disgrace."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अवद्य",
+            "eid": "1972",
+            "pagenum": 30,
+            "content": "अवद्य/¦ tadelnswert; <i>n.</i> Fehler, Schande."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अवद्य",
+            "eid": "1110",
+            "pagenum": 125,
+            "content": "<b>a-vadyá,</b>¦ <ab>a.</ab>, nicht zu loben [vadya <ab n='siehe'>s.</ab> vad], <i>tadelnswerth, schlecht;</i> 2〉 <ab>n.</ab>, <i>Tadelnswerthes, Fehler, Sünde;</i> 3〉 <ab>n.</ab>, <i>Tadel, Schmähung;</i> 4〉 <ab>n.</ab>, <i>Schande, Schmach</i> (als äusseres Schicksal), daneben áṃhas ({115,6}), duritá ({185,10}). <div n='TS'>-ám 1〉 (índram) {314,5}. — 2〉 {407,14}; {840,8}. — 3〉 {314,7}; {677,19}. <div n='TS'>-ā́t 1〉 {456,12} (parallel vanuṣyatás). — 3〉 {93,5}. — 4〉 {115,6}; {167,8}; {185,10}; {300,15}. <div n='TS'>-é 4〉 {689,8}. <div n='TS'>-ā́ni 2〉 {507,4}."
+        },
+        {
+            "word": "अवद्य",
+            "eid": "12118",
+            "pagenum": 1752,
+            "content": "<b>a-vadyá:</b>¦<info vn='add 104 gra'/> <div n='TS'>-ā́t 4〉 {528,2} (neben duritā́t); {265,8}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अवद्य",
+            "eid": "442",
+            "pagenum": 121,
+            "content": "<b>a-vadyá,</b>¦ <i><ab>a.</ab></i> un-praiseworthy; <i>as <ab>n.</ab></i> imperfection. <lbinfo n='imper-fection.'/> [<ls n='wg,1285'>1285.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अवद्य",
+            "eid": "03773",
+            "pagenum": 73,
+            "content": "avadya¦ <i>(I) a. (f. द्या)</i> 1. Low, inferior; 2. faulty, defective, न चापि काव्यं नवमित्यवद्यम् <ls>Mal.</ls>i.; 3. disagreeable, blamable, <ls>R.</ls>vii.70."
+        },
+        {
+            "word": "अवद्य",
+            "eid": "03774",
+            "pagenum": 73,
+            "content": "avadya¦ <i>(II) n.</i> 1. A fault, a defect; 2. vice, sin, censure, reproach, उदवहदनवद्यां तामवद्यादपेतः <ls>R.</ls>vii.70."
+        }
     ]
 }

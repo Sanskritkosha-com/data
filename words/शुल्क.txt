@@ -52,5 +52,45 @@
             "pagenum": 653,
             "content": "शुल्क¦ <i>śulka</i> <ab>m.</ab> <ab>n.</ab> taxe, impôt, péage; arrhes d'un marché; || douaire donné à la femme ou à ses parents; || profits que retire <lbinfo n='4'/> la femme de ses soins domestiques."
         }
+    ],
+    "CAE": [
+        {
+            "word": "शुल्क",
+            "eid": "32888",
+            "pagenum": 553,
+            "content": "शुल्क/¦ <lex>m.</lex> price, toll, tax, duty; nuptial fee; contest-prize."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शुल्क",
+            "eid": "24881",
+            "pagenum": 448,
+            "content": "शुल्क/¦ <i>m.</i> Preis, Kaufgeld <i>(auch für ein</i> <i>Mädchen)</i>, Zoll, Steuer."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "शुल्क",
+            "eid": "8872",
+            "pagenum": 1407,
+            "content": "<b>śulká,</b>¦ <ab>n.</ab>, <i>Preis einer Waare, Kaufgeld</i>. <div n='TS'>-ā́ya mahé {598,6}; mahé, sahásrāya {621,5}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "शुल्क",
+            "eid": "5739",
+            "pagenum": 327,
+            "content": "<i>śulka</i>¦ (IE 8-5; EI 12, 23, 25, 30; CII 4; CITD), tolls; customs duties; octroi duties; taxes particularly levied at ferries and passes and on roads, etc.; cf. <i>krīḍara-śulka</i> (EI 5), name of a tax; also <i>śuṅgam, śuṅkam</i> (SITI), customs, tolls. <div n='P'>(<i>HRS</i>), tax, probably identical with <i>bali</i> according to early authorities; ferry dues, tolls and transit duties according to the <i>Smṛtis</i> and lexicons; according to the <i>Arthaśāstra,</i> (1) duties levied upon articles imported into a city, (2) port-dues, (3) duty upon the sale of liquors, (4) customs collected by the ferrymen and boundary-officers, (5) duty upon mining products, (6) duty upon imported salt, and (7) duty upon animals intended for slaughter; according to Śukra, tolls and duties upon building-sites, etc. The <i>Amarakoṣa</i> explains <i>śulka</i> as <i>ghaṭṭ-ādi-deya</i> and Kṣīrasvāmin enumerates the dues as ferry duties, tolls paid at military stations or police outposts and transit duties paid by merchants."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शुल्क",
+            "eid": "38100",
+            "pagenum": 724,
+            "content": "Sulka¦ <i>m.n.</i> 1. A toll, a tax, a duty, (especially that levied at ferries, roads &c.), दंडशुल्कावशेषं च न पुत्रो दातुर्महति <ls>M.</ls>viii.159; 2. money advanced to ratify a bargain; 3. gain, profit; 4. money given to the parents of a bride, शुल्कं हि गृह्णन् कुरुते छन्नं दुहितृविक्रयम् <ls>M.</ls>ix.98, पीडितो दुहितृशुल्कसंस्थया <ls>R.</ls>xi.38, <ls>Bt.</ls>v.36; 5. a present made by a bridegroom to his bride."
+        }
     ]
 }

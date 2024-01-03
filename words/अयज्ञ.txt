@@ -15,5 +15,27 @@
             "pagenum": 45,
             "content": "अयज्ञ¦ <i>ayajña</i> <ab>a.</ab> <i>(yaj)</i> qui ne sacrifie pas."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अयज्ञ",
+            "eid": "2673",
+            "pagenum": 39,
+            "content": "1 अ/यज्ञ¦ <lex>m.</lex> no sacrifice."
+        },
+        {
+            "word": "अयज्ञ",
+            "eid": "2674",
+            "pagenum": 39,
+            "content": "2 अयज्ञ/¦ <lex>a.</lex> = <ab>seq.</ab>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अयज्ञ",
+            "eid": "922",
+            "pagenum": 96,
+            "content": "<b>a-yajñá,</b>¦ <ab>a.</ab>, <i>nicht Opfer</i> [yajñá] <i>bringend, opferlos;</i> einmal ({964,6}) in ayajaná aufzulösen [<ab n='siehe'>s.</ab> yajñá]. <div n='TS'>-ám {964,6}. <div n='TS'>-ā́n paṇī́n {522,3}."
+        }
     ]
 }

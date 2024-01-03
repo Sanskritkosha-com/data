@@ -31,5 +31,49 @@
             "pagenum": 400,
             "content": "परोक्ष¦ <i>parokṣa</i> <ab>a.</ab> (? <i>akṣa)</i> invisible, hors de la portée de la vue. -- <ab>S.</ab> <ab>m.</ab> ermite.  <P><i>parokṣatā</i> <ab>f.</ab> invisibilité."
         }
+    ],
+    "CAE": [
+        {
+            "word": "परोक्ष",
+            "eid": "18469",
+            "pagenum": 305,
+            "content": "परो/ऽक्ष¦ <lex>a.</lex> beyond the eye, out of sight, invisible, imperceptible, unintelligible, obscure. Loc. behind one's back, in one's absence; °— & <ab>instr.</ab> secretly, mysteriously; <ab>acc.</ab> & <ab>abl.</ab> in the absence or without the knowledge of (<ab>instr.</ab> or <ab>gen.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "परोक्ष",
+            "eid": "13753",
+            "pagenum": 244,
+            "content": "परो/ऽक्ष¦ aus den Augen liegend, nicht vorhanden, <lbinfo n='7'/> nicht gegenwärtig <i>o.</i> wahrnehmbar. <lbinfo n='8'/> <i>Loc.</i> hinter dem Rücken, heimlich; wo man nicht selbst dabei gewesen ist <i>(g.). Instr.</i> auf heimliche Weise. <i>Acc. u. Abl.</i> heimlich, clam <i>(Instr. o. Gen.).</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "परोक्ष",
+            "eid": "2497",
+            "pagenum": 188,
+            "content": "<b>parókṣa,</b>¦ <i><ab>a.</ab></i> beyond the eye, out of sight, invisible; <b>-e,</b> <i><ab>adv.</ab></i> [<ls n='wg,1116'>1116]</ls>, behind one's back. [for <b>paro.'kṣa,</b> <i><ab>i. e.</ab></i> <b>parás + akṣá,</b> ‘eye’: <ls n='wg,1310'>1310a</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "परोक्ष",
+            "eid": "21579",
+            "pagenum": 422,
+            "content": "parokza¦ <i>(I) a. (f. क्षा)</i> 1. Out of sight, invisible, escaping observation; 2. absent, स्थाने वृता भूपतिभिः परोक्षैः <ls>R.</ls>vii.13."
+        },
+        {
+            "word": "परोक्ष",
+            "eid": "21580",
+            "pagenum": 422,
+            "content": "parokza¦ <i>(II) m.</i> An ascetic."
+        },
+        {
+            "word": "परोक्ष",
+            "eid": "21581",
+            "pagenum": 422,
+            "content": "parokza¦ <i>(III) n.</i> Absence, invisibility.<P>(परोक्षम् and परोक्षे are used as indeclinables in the sense of ‘behind one’s back, in the absence of, without the knowledge of,’ either absolutely or with a gen., e.g. परोक्षे कार्यहंतारं प्रत्यक्षे प्रियवादिनम् <ls>Chāṇakya.</ls>, परोक्षे खलीकर्तुं शक्यते <ls>Mrich.</ls>ii., नोदाहरेदस्य नाम परोक्षमपि केवलम् <ls>M.</ls>ii.100.)"
+        }
     ]
 }

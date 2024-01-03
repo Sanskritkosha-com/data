@@ -15,5 +15,37 @@
             "pagenum": 239,
             "content": "[<b>jara</b>¦, <lex>m.</lex>, <i>old age</i>, instead of jarā, <lex>f.</lex>, according to text <ls>LV</ls> 〔175.4〕 (<ab>vs</ab>) tatha ojaharo ahu vyādhi jaro; so all <ab>mss.</ab> <ab>acc.</ab> to <ls>Lefm.</ls>; but citation <ls>Śikṣ</ls> 〔206.2〕 has jage for jaro, and is supported by <lang>Tib.</lang> <tib>ḥgro baḥi</tib> (in <ab>transl.</ab> of <ls>LV</ls>); jage is surely right; jaro is carried over from 〔174.16—175.2〕 where jarā occurs repeatedly. <lang>Tib.</lang> on <ls>LV</ls> also supports <ls>Śikṣ</ls> ayu instead of <ls>LV</ls> text ahu, reading <tib>ḥdi</tib>.]"
         }
+    ],
+    "CAE": [
+        {
+            "word": "जर",
+            "eid": "11087",
+            "pagenum": 182,
+            "content": "ज/र¦ <lex>m.</lex> wearing out, wasting; <lex>f.</lex> जरा/ the same; decay, old age."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जर",
+            "eid": "7490",
+            "pagenum": 133,
+            "content": "ज/र¦ <i>m.</i> Abnutzung; <i>f.</i> चरा/ <i>dass.</i>, Hinfälligkeit, <lbinfo n='5'/> Alter."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जर",
+            "eid": "3430",
+            "pagenum": 479,
+            "content": "<b>jára,</b>¦ <ab>m.</ab>, <i>Abnutzung, Aufreibung</i> (<ab>vgl.</ab> a-jára) [von <hom>3.</hom> jar]. <div n='TS'>-āya {164,11}; {225,10}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "जर",
+            "eid": "1581",
+            "pagenum": 158,
+            "content": "<b>jara,</b>¦ <i><ab>a.</ab></i> growing old, aging. [<b>√jṛ.</b>]"
+        }
     ]
 }

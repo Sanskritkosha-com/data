@@ -31,5 +31,29 @@
             "pagenum": 65,
             "content": "अहह¦ <i>ahaha</i>! interjection. -- <i>ahahā,</i> <ab>mms.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अहह",
+            "eid": "3922",
+            "pagenum": 57,
+            "content": "अहह¦ <ab>exclam.</ab> of joy or sorrow."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अहह",
+            "eid": "549",
+            "pagenum": 124,
+            "content": "<b>ahaha,</b>¦ <i><ab>excl.</ab> of joy or sorrow.</i> [<ls n='wg,1135'>1135a</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अहह",
+            "eid": "04589",
+            "pagenum": 90,
+            "content": "ahaha¦ <i>ind.</i> A particle implying- (1) sorrow or regret, e.g. अहह कष्टमपंडितता विधे <ls>Bhartr.</ls>ii.92, <ls>Sant.S.</ls>i.6; (2) wonder, अहह महता निःसीमानश्चरित्रविभूतय <ls>Bhartr.</ls>ii.35; (3) fatigue; (4) joy; (5) calling."
+        }
     ]
 }

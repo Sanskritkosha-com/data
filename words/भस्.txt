@@ -31,5 +31,49 @@
             "pagenum": 473,
             "content": "*भस्¦ <i>bhas,</i> <ab>vd.</ab> (pour <i>bhras)</i> <i>babhasmi</i> 3. Brûler, briller. || Effrayer, menacer, <ab>cf.</ab> <i>bharts.</i> || Manger, dévorer. || <ab>Cf.</ab> <i>bhās.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "भस्",
+            "eid": "22710",
+            "pagenum": 375,
+            "content": "1 भस्¦ ब/भस्ति ब/प्सति <vlex type='root'/> <ab>pp.</ab> भसित (<ab>q.v.</ab>) chew, devour, consume."
+        },
+        {
+            "word": "भस्",
+            "eid": "22711",
+            "pagenum": 375,
+            "content": "2 भस्¦ (only <ab>loc.</ab> भसि) ashes."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भस्",
+            "eid": "17252",
+            "pagenum": 303,
+            "content": "1. भस्,¦ ब/भस्ति, ब/प्सति kauen, verzehren"
+        },
+        {
+            "word": "भस्",
+            "eid": "17253",
+            "pagenum": 303,
+            "content": "2. भस्¦ <i>(nur Loc.</i> भसि) Asche."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "भस्",
+            "eid": "6339",
+            "pagenum": 930,
+            "content": "<b>√bhas</b>¦ [<ls>Fi. 〔137〕</ls>], 1〉 <i>kauen;</i> 2〉 <i>zerkauen, verzehren</i> [<ab>A.</ab>], beides häufig von Agni (der das Holz zerkaut), und von den Presssteinen (die die Somapflanze zerkauen). <ab>Vgl.</ab> psā. <div n='Pf'>Mit <b>prá</b> 1〉 <i>zerkauen, zerbeissen</i> [<ab>A.</ab>]; 2〉 <i>zuerst</i> (vor andern) <i>essen</i>. <div n='H'>Stamm I. <b>bhása:</b> <div n='TS'>-at [<ab>Co.</ab>] 1〉 (agnís) áśvas ná {444,4}. — <b>prá</b> 2〉 {455,1} 〰 nú sá (mártias) prá pūrviás. <div n='H'>Stamm II. <b>bhasá:</b> <div n='TS'>-áthas [<pe>2.</pe> <ab>du.</ab>] 2〉 joṣavākám vádatas …, ná devā 〰 caná {500,4}. <div n='H'>Stamm III. <b>babhas:</b> <div n='TS'>-sat [<ab>Co.</ab>] <b>prá</b> 1〉 prá tā́n agnís 〰 tigmájambhas {301,4}. <div n='H'>Stamm IV. <b>baps</b> [aus Stamm III. durch Ausfall des a]: <div n='TS'>-sati [<pe>3.</pe> <ab>pl.</ab>] 2〉 ádrayas tvā (sómam) {791,4}. <div n='H'>Stamm V. <b>bapsa</b> [aus IV. erweitert]: <div n='TS'>-ati [<pe>3.</pe> <ab>s.</ab>] 2〉 (agnís) dadbhís vánāni {663,3}. <div n='H'><ab>Part.</ab> <b>bápsat</b> [von Stamm IV.]: <div n='TS'>-at [<ab>m.</ab>] 1〉 agnís {663,7} (〰 ná vāyati); {968,2}. _{968,4}. <div n='TS'>-atas [<ab>G.</ab>] 1〉 srákveṣu 〰 {571,2}; {681,15}. <div n='TS'>-atā [<ab>d.</ab>] 2〉 hárī ándhāṃsi {28,7}. <div n='TS'>-atas [<ab>N.</ab> <ab>p.</ab>] 1〉 ádrayas {920,13}. — 2〉 vṛṣabhā́s (ádrayas) vṛkṣásya śā́khām {920,3}. <div n='TS'>-atī [<ab>d.</ab> <ab>f.</ab>] 1〉 hánū {905,1}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भस्",
+            "eid": "2973",
+            "pagenum": 205,
+            "content": "<b>√bhas</b>¦ (<b>bábhasti</b> [<ls n='wg,678'>678]</ls>; <b>bhasitá</b>). chew, bite; crush; devour, consume; <b>bhasita,</b> consumed to ashes. [<ab>cf.</ab> <lang n='greek'>φάμ-μη, *φασ-μη</lang>, ‘barley-groats’: <ab>w.</ab> the 3d <ab>pl.</ab> <b>bá-ps-ati</b> <ab>cf.</ab> the collateral form <b>psā</b> and <lang n='greek'>ψά-μα-θος</lang>, ‘sand.’]"
+        }
     ]
 }

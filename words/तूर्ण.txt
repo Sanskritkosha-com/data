@@ -56,5 +56,35 @@
             "pagenum": 297,
             "content": "तूर्ण¦ <i>tūrṇa</i> <ab>pp.</ab> de <i>turv.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "तूर्ण",
+            "eid": "12567",
+            "pagenum": 207,
+            "content": "तूर्ण¦ <lex>a.</lex> quick, swift; <lex>n.</lex> <ab>adv.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तूर्ण",
+            "eid": "8763",
+            "pagenum": 156,
+            "content": "तूर्ण¦ <i>s.</i> त्वर्."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तूर्ण",
+            "eid": "15818",
+            "pagenum": 314,
+            "content": "tUrRa¦ <i>(I) a. (f. र्णा)</i> Quick, rapid, fleet."
+        },
+        {
+            "word": "तूर्ण",
+            "eid": "15819",
+            "pagenum": 314,
+            "content": "tUrRa¦ <i>(II) n.</i> Rapidity, quickness.<P>(तूर्णम् is used as an indeclinable in the sense of ‘quickly, speedily,’ चूर्णमानीयतां तूर्णं पूर्णचंद्रनिभानने <ls>Ud.</ls>)"
+        }
     ]
 }

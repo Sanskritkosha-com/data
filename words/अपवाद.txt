@@ -44,5 +44,37 @@
             "pagenum": 32,
             "content": "अपवाद¦ <i>apavāda</i> <ab>m.</ab> <i>(vad)</i> censure, blâme, reproche. || Exception, règle exceptionnelle, <lbinfo n='13'/> <ab>tg.</ab>  <P><i>apavādin</i> <ab>a.</ab> qui défend; qui s'oppose à."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अपवाद",
+            "eid": "1971",
+            "pagenum": 29,
+            "content": "अपवाद¦ <lex>m.</lex> refutation, restriction, exception, censure, blame."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अपवाद",
+            "eid": "1309",
+            "pagenum": 20,
+            "content": "अपवाद¦ <i>m.</i> Widerlegung, Aufhebung, Ausnahme, <lbinfo n='6'/> Tadel."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अपवाद",
+            "eid": "4903",
+            "pagenum": 176,
+            "content": "अपवाद¦ Tatpur. m. (-दः) I. <sup>1</sup> Refutation, as of an erroneous imputation; e. g. …एवमध्यारोपः । अपवादो नाम रज्जु- विवर्तस्य सर्पस्य रज्जुमात्रत्ववत् &c. ‘so much for the erroneous imputation--to the soul of properties that do not belong to it--; now the refutation is: like as the rope alone becomes manifest, instead of the serpent (taken for a rope) which obscured (the reality) of the rope &c. <sup>2</sup> Restriction of a previous rule, decree, definition &c.; e. g. <i>Manu</i> 8. 341. is a चौर्यापवाद or a case which does not fall under the category of theft; <i>Yājnav.</i> 2. 83. is an अपवाद to the rule that a witness must speak the truth.--In <i>Gram-</i> <i>mar</i> it means an exception to a rule and comprises as well those rules which supersede as those which restrict a general rule (compare विभाषा); the terms opposed to it are उत्सर्ग, e. g. प्रकल्प्य वापवादविषयं तत उत्सर्गोऽभिनि- विशते; क्वचिदपवादविषयेऽप्युत्सर्गोऽपि प्रवर्तते; or विधि, e. g. पुरस्तादपवादा अनन्तरविधीन्बाधन्ते न परान् । मध्येऽप- वादाः पूर्वान्विधीन्बाधन्ते न परान्; sometimes both combined, e. g. अभ्यासविकारेष्वपवादा उत्सर्गान्विधीन्न बाधन्ते. --The term बाधापवाद means ‘exception to an exception’ i. e. the reestablishing of the previous rule, precept &c. <sup>3</sup> Censure, blame, evil report; e. g. आयुर्विप्रापवादेन (scil. क्षरति); or लोकापवादादपि न भीतोऽसि. <sup>5</sup> An order, a command; (in this sense the more correct reading of the word is probably अववाद). E. वद् with अप, kṛt aff. घञ्. <div n='P'>II. A wrong assertion, a wrong tenet; e. g. अपवादमा- त्रमबुद्धानाम् ‘--(to say that the void is the true reality) --is a wrong assertion of people who are not wise (comm. मूढानामपवादमात्रं मिथ्यावाद एव)’. E. अप and वाद."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अपवाद",
+            "eid": "02180",
+            "pagenum": 39,
+            "content": "apavAda¦ <i>m.</i> 1. Refutation as of an erroneous imputation, e.g. अपवदो नाम रज्जुविवर्तस्य सर्पस्य रज्जुमात्रत्ववत् &c. (in Vedānta phil.); 2. an exception, (op. to उत्सर्ग), अपवादैरिवोत्सर्गाः कृतव्यावृत्तयः परैः <ls>K.S.</ls>ii.27; 3. censure, blame, evil report, e.g. लोकापवादादपि न भीतोऽसि; 4. an order, a command, ततोऽपवादेन पताकिनीपतेः <ls>Kir.</ls>xiv.27."
+        }
     ]
 }

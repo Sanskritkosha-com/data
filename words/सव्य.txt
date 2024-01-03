@@ -44,5 +44,57 @@
             "pagenum": 701,
             "content": "सव्य¦ <i>savya</i> <ab>a.</ab> gauche; situé à gauche; || situé au nord, septentrional [les <s1 slp1='arya'>Arya</s1>s se tournant vers le Soleil levant]. || Contraire, <lbinfo n='7'/> inverse. || <ab>Gr.</ab> <lang n='greek'>σϰαιός</lang>; <ab>lat.</ab> scævus. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1='vizRu'>Viṣṇu</s1>.  <P><i>savyasācin</i> <ab>a.</ab> <i>(sac)</i> <ab>surn.</ab> d'<s1 slp1='arjuna'>Arjuna</s1> (ambidextre). <lbinfo n='8'/>  <P><i>savyetara</i> <ab>a.</ab> <i>(itara)</i> droit, situé à droite.  <P><i>savyeṣṭha</i> <ab>m.</ab> <i>(sṭhā)</i> cocher [qui se tient sur la gauche du char].  <P><i>savyeṣṭhṛ</i> <ab>m.</ab> <ab>mms.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "सव्य",
+            "eid": "36080",
+            "pagenum": 605,
+            "content": "सव्य/¦ <lex>a.</lex> left (not right); °—, सव्यम्, स°व्ये/न, स°व्या/ & स°व्ये <ab>adv.</ab> from or on the left. <lex>m.</lex> the left arm, hand, or foot; <lex>n.</lex> the sacred thread (worn over the left shoulder)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सव्य",
+            "eid": "26967",
+            "pagenum": 487,
+            "content": "सव्य/¦ link. सव्य (°—), सव्यम्, सव्ये/न, सव्या/ <i>u.</i> सव्ये <i>adv.</i> links. <i>m.</i> der linke Arm, die l. Hand <i>o.</i> der l. Fuß. <i>n.</i> die heilige Schnur <i>(über der linken Schulter getragen).</i> <lbinfo n='10'/>"
+        },
+        {
+            "word": "सव्य",
+            "eid": "29298",
+            "pagenum": 530,
+            "content": "1. सव्य/¦ <i>n.</i> Opfergabe, Spende."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सव्य",
+            "eid": "9488",
+            "pagenum": 1494,
+            "content": "<b>savyá,</b>¦ <ab>a.</ab> [für *skavya ? <ab>vgl.</ab> <ls>Cu. 〔105〕</ls>], <i>link,</i> überall (mit Ausnahme von {624,8}) mit dem Gegensatze dákṣiṇa, daher 2〉 <ab>m.</ab>, mit Ergänzung von hásta die <i>linke Hand;</i> 3〉 savyā́ [<ab>I.</ab> <ab>fem.</ab>] <i>zur linken Seite,</i> Gegensatz dakṣiṇā́. <div n='TS'>-ás (háris) {82,5}. <div n='TS'>-ám hástam {644,5}. <div n='TS'>-éna 2〉 {100,9}; {390,4}; {690,6}. <div n='TS'>-ā́m sphigíam {624,8}. <div n='TS'>-ā́ 3〉 {218,11}."
+        },
+        {
+            "word": "सव्य",
+            "eid": "9489",
+            "pagenum": 1494,
+            "content": "<b>sávya,</b>¦ <ab>m.</ab>, Eigenname eines Mannes. <div n='TS'>-āya {875,5}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सव्य",
+            "eid": "4510",
+            "pagenum": 270,
+            "content": "<b>savyá,</b>¦ <i><ab>a.</ab></i> left, <ls n='lan,101,19'>101<sup>19</sup></ls>, <ls n='lan,102,11'>102<sup>11</sup></ls>, <ls n='lan,103,2'>103<sup>2</sup></ls>; <i>as <ab>m.</ab></i> the left hand <i>or</i> foot, <ls n='lan,60,5'>60<sup>5</sup></ls>. [<ab>prob.</ab> for <b>*syavya</b> (as would appear <ab>fr.</ab> the Church Slavonic form <i>šuj,</i> ‘sinister’), and so perhaps  <lbinfo n='per-haps'/> akin with <lang n='greek'>σκαιός, *σκαϝιο-ς</lang>, <ab>Lat.</ab> <i>scaevus,</i> ‘left.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सव्य",
+            "eid": "40189",
+            "pagenum": 767,
+            "content": "savya¦ <i>a. (f. व्या)</i> 1. Right, right hand; 2. left, left hand; 3. southern; 4. back ward, reverse, contrary."
+        }
     ]
 }

@@ -23,5 +23,37 @@
             "pagenum": 318,
             "content": "*दास्¦ <i>dās.</i> <i>dāsāmi</i> 1. et <i>dāsnomi</i> 5, <ab>cf.</ab> <i>dāś.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "दास्",
+            "eid": "13615",
+            "pagenum": 224,
+            "content": "दास्¦ दा/सति <vlex type='root'/> <ab>w.</ab> अभि bear ill-will towards, try to harm, persecute."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दास्",
+            "eid": "9652",
+            "pagenum": 172,
+            "content": "दास्¦ दा/सति <i>mit</i> अभि anfeinden, befehden. <lbinfo n='7'/>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दास्",
+            "eid": "4208",
+            "pagenum": 598,
+            "content": "<b>√dās,</b>¦ aus das durch Reduplication in causativem Sinne hervorgegangen, nur in unmittelbarer Verbindung mit <b>abhi:</b> <i>anfeinden</i> [<ab>A.</ab>], im <ab>Part.</ab> ohne Object. <div n='H'>Stamm <b>dā́sa:</b> <div n='TS'>-ati <b>abhi:</b> yás nas {79,11}; {620,7}; {959,5}; yás asmā́n {923,23}; {978,4}. <div n='TS'>-at [<ab>Co.</ab>] <b>abhi:</b> yás nas {446,4}. <div n='H'><ab>Part.</ab> <b>dā́sat:</b> <div n='TS'>-atas [<ab>G.</ab>] <b>abhi:</b> amítrasya {978,3}. <div n='TS'>-atas [<ab>A.</ab> <ab>p.</ab>] <b>abhi</b> {928,3} (neben jíghāṃsatas). <div n='H'>Verbale <b>dā́s</b> in su-dā́s."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दास्",
+            "eid": "1938",
+            "pagenum": 169,
+            "content": "<b>√dās</b>¦ (<i>only with</i> <b>abhi, abhidā́sati</b>). bear ill-will to; try to harm. [<ab>cf.</ab> <b>√das, dasyu,</b> <b>dāsa.</b>]"
+        }
     ]
 }

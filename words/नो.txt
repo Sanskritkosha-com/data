@@ -44,5 +44,45 @@
             "pagenum": 380,
             "content": "नो¦ <i>no</i> <ab>adv.</ab> <i>(na; u)</i> ne, ne pas, non."
         }
+    ],
+    "CAE": [
+        {
+            "word": "नो",
+            "eid": "17412",
+            "pagenum": 286,
+            "content": "नो/¦ (न/ + उ) <ab>adv.</ab>  neither, nor; not."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नो",
+            "eid": "12890",
+            "pagenum": 227,
+            "content": "नो/¦ (न + उ ) und nicht, nicht."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "नो",
+            "eid": "5143",
+            "pagenum": 756,
+            "content": "<b>(nó),</b>¦ <i>und nicht,</i> stets in ná und u zu trennen ({170,1}; {191,10}; {912,2}), auch wenn beide Worte ({495,3}) metrisch zusammengezogen sind."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "नो",
+            "eid": "2389",
+            "pagenum": 184,
+            "content": "<b>nó,</b>¦ <i><ab>adv.</ab></i> and not, <ls n='lan,21,14'>21<sup>14</sup></ls>; <b>no ced,</b> and if not, <i>see</i> <b>ced. [ná + u.]</b>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "नो",
+            "eid": "20489",
+            "pagenum": 399,
+            "content": "no¦ <i>ind.</i> Not, no (often used with चेत् <ls>Bh.V.</ls>ii.92), <ls>Am.S.</ls>5, 10, 26. See न."
+        }
     ]
 }

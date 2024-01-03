@@ -28,5 +28,45 @@
             "pagenum": 12,
             "content": "अज्ञ¦ <i>ajña</i> <ab>a.</ab> <i>(jñā)</i> ignorant."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अज्ञ",
+            "eid": "429",
+            "pagenum": 7,
+            "content": "अज्ञ¦ <lex>a.</lex> not knowing, ignorant; <lex>m.</lex> fool."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अज्ञ",
+            "eid": "286",
+            "pagenum": 5,
+            "content": "अज्ञ¦ unwissend, dumm."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अज्ञ",
+            "eid": "951",
+            "pagenum": 27,
+            "content": "अज्ञ¦ Tatpur. m. f. n. (-ज्ञः-ज्ञा-ज्ञम्) <sup>1</sup> Ignorant. <sup>2</sup> Stupid, foolish, unwise. <sup>3</sup> Not having the faculty of understanding, as animals or inanimate objects. E. अ neg. and ज्ञ."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अज्ञ",
+            "eid": "82",
+            "pagenum": 113,
+            "content": "<b>a-jña,</b>¦ <i><ab>a.</ab></i> not knowing, ignorant; foolish; <i>as <ab>m.</ab></i> fool."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अज्ञ",
+            "eid": "00531",
+            "pagenum": 8,
+            "content": "ajYa¦ <i>a. (f. ज्ञा)</i> 1. Not knowing; 2. ignorant, <ls>Bhartr.</ls>ii.3; 3. unwise, stupid; 4. not having the faculty of understanding."
+        }
     ]
 }

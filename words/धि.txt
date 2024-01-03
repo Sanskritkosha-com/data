@@ -59,5 +59,57 @@
             "pagenum": 345,
             "content": "*धि¦ <i>dhi.</i> <i>dhiyāmi</i> 6; <ab>p.</ab> <i>didhāya;</i> <ab>f2.</ab> <i>dheṣyāmi;</i> <lbinfo n='8'/> <ab>a1.</ab> <i>adhaiṣam;</i> <ab>pp.</ab> <i>dhita.</i> Tenir. <ab>Cf.</ab> <i>dhā.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "धि",
+            "eid": "15407",
+            "pagenum": 253,
+            "content": "1 धि¦ धिनोति <vlex type='root'/> nourish, refresh, gladden."
+        },
+        {
+            "word": "धि",
+            "eid": "15408",
+            "pagenum": 253,
+            "content": "2 †धि¦ <lex>m.</lex> receptacle (only —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "धि",
+            "eid": "11111",
+            "pagenum": 197,
+            "content": "धि¦ धिनोति sättigen, erfreuen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "धि",
+            "eid": "4695",
+            "pagenum": 681,
+            "content": "<b>(dhí),</b>¦ <ab>m.</ab>, von <hom>1.</hom> dhā́ in api-dhí, iṣu-dhí <ab>u. s. w.</ab>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "धि",
+            "eid": "2165",
+            "pagenum": 177,
+            "content": "<b>dhi,</b>¦ <i><ab>vbl.</ab></i> containing, granting, <i>in <ab>cpds.</ab></i> [<b>√1dhā,</b> <ls n='wg,1155'>1155.</ls> 2e.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "धि",
+            "eid": "18438",
+            "pagenum": 359,
+            "content": "Di¦ <i>vt. 6P (pres. धियति)</i> To have, to hold, to possess.<P>With सम्-, to make peace with."
+        },
+        {
+            "word": "धि",
+            "eid": "18439",
+            "pagenum": 359,
+            "content": "Di¦ <i>m. (at the end of compounds)</i> Any receptacle, e.g. उदधि, इषुधि, तोयधि, वारिधि."
+        }
     ]
 }

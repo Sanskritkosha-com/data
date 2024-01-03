@@ -44,5 +44,41 @@
             "pagenum": 45,
             "content": "अम्ल¦ <i>amla</i> <ab>a.</ab> acide, aigre. -- <ab>S.</ab> <ab>m.</ab> acidité. <lbinfo n='5'/> || <ab>F.</ab> <i>amli,</i> oxalis monadelpha, <ab>bot.</ab>  <P><i>amlaka</i> <ab>m.</ab> artocarpus lacucha, <ab>bot.</ab>  <P><i>amlakeśara</i> <ab>m.</ab> citron.  <P><i>amlaloṇī</i> <ab>f.</ab> oxalis monadelpha, <ab>bot.</ab>  <P><i>amlavātaka</i> <ab>m.</ab> spondias mangifera, <ab>bot.</ab>  <P><i>amlavetasa</i> <ab>m.</ab> rumex vesicarius, <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "अम्ल",
+            "eid": "2668",
+            "pagenum": 39,
+            "content": "अम्ल¦ <lex>a.</lex> sour, acid; <lex>m.</lex> wood-sorrel."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अम्ल",
+            "eid": "1706",
+            "pagenum": 26,
+            "content": "अम्ल¦ sauer."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अम्ल",
+            "eid": "03096",
+            "pagenum": 59,
+            "content": "amla¦ <i>(I) a. (f. म्ला)</i> Sour, acid, कट्वम्ललवणात्युष्णतीक्ष्णरुक्षविदाद्दिनः <ls>Bg.</ls>xvii.9."
+        },
+        {
+            "word": "अम्ल",
+            "eid": "03097",
+            "pagenum": 59,
+            "content": "amla¦ <i>(II) m.</i> 1. Sourness, acidity (considered as one of the six kinds of tastes or flavours, the other five being मधुर, लवन, कटु, तिक्त and कषाय); 2. the common citron; 3. eructation or belch."
+        },
+        {
+            "word": "अम्ल",
+            "eid": "03098",
+            "pagenum": 59,
+            "content": "amla¦ <i>(III) n.</i> Butter-milk with a fourth part of water."
+        }
     ]
 }

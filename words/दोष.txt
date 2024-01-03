@@ -69,5 +69,63 @@
             "pagenum": 332,
             "content": "दोष¦ <i>doṣa</i> <ab>m.</ab> <i>(duṣ)</i> péché, faute, souillure. <lbinfo n='5'/> || Altération: <i>padasya</i> d'un mot, <ab>tg.</ab> || Altération morbide des humeurs. || Veau.  <P><i>doṣaka</i> <ab>m.</ab> veau.  <P><i>doṣagrāhin</i> <ab>a.</ab> <i>(grah)</i> pécheur; || dépravé, corrompu.  <P><i>doṣajña</i> <ab>m.</ab> <i>(jñā)</i> sage brâhmane; savant homme. || Médecin.  <P><i>doṣatas</i> <ab>adv.</ab> par suite d'une faute."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दोष",
+            "eid": "14635",
+            "pagenum": 240,
+            "content": "1 दोष¦ <lex>m.</lex> mostly दोषा/ <lex>f.</lex>  evening, dark; दोषा/म् & दो°षा/ (<ab>instr.</ab>) in the evening, at dusk."
+        },
+        {
+            "word": "दोष",
+            "eid": "14637",
+            "pagenum": 240,
+            "content": "2 दोष¦ <lex>m.</lex> (<lex>n.</lex>) fault, defect, want; sin, transgression; harm, evil consequence; disadvantage, damage, bad condition."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दोष",
+            "eid": "10479",
+            "pagenum": 185,
+            "content": "1. दोष¦ <i>m., gew.)</i> दोषा/ <i>f.</i> Abend, Dunke. <i>Acc. u. Instr. ( - Nom.)</i> am Abend, bei Nacht."
+        },
+        {
+            "word": "दोष",
+            "eid": "10480",
+            "pagenum": 185,
+            "content": "2. दोष¦ <i>m. (n.)</i> Fheler, Sünde, Schuld, Schlechtigkeit, Mangel, Schaden, Nachteil, <lbinfo n='5'/> Übelstand. <i>Abstr.</i> °त्व <i>n.</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "दोष",
+            "eid": "1710",
+            "pagenum": 100,
+            "content": "<i>doṣa</i>¦ (LP), doing anything wrongly. <div n='P'>(<i>IE</i> 7-1-2), ‘three’. <div n='P'>(<i>EI</i> 9), black or red spots on the tongue supposed to be a foreboding of death. <div n='P'><i>Cf. daṇḍa-doṣa;</i> fines; see also <i>pradhān-āpradhāna-doṣa-</i> <i>samanvita</i> used as an epithet of the gift village (<i>Ep. Ind.,</i> Vol. III, p. 274). Here <i>doṣa</i> apparently means <i>daṇda-doṣa.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दोष",
+            "eid": "2068",
+            "pagenum": 173,
+            "content": "<b>1doṣa,</b>¦ <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> fault, defect; bad condition, <lbinfo n='con-dition,'/> <ls n='lan,55,5'>55<sup>5</sup></ls>; <div n='2'/><b>—2.</b> sin, transgression, fault, <ls n='lan,11,8'>11<sup>8</sup></ls>, <ls n='lan,18,17'>18<sup>17</sup></ls>, <ls n='lan,65,21'>65<sup>21</sup></ls>; <b>doṣam avāp,</b> incur a transgression, <ls n='lan,68,4'>68<sup>4</sup></ls>; <div n='2'/><b>—3.</b> harm; evil consequence; <lbinfo n='con-sequence;'/> <b>doṣeṇa, doṣāt,</b> by <i>or</i> as a bad consequence of, by, faute de, <ls n='lan,23,21'>23<sup>21</sup></ls>, <ls n='lan,35,2'>35<sup>2</sup></ls>. [<b>√duṣ.</b>]"
+        },
+        {
+            "word": "दोष",
+            "eid": "2069",
+            "pagenum": 173,
+            "content": "<b>2doṣa,</b>¦ <i><ab>m.</ab></i> evening, dark; <i><ab>f.</ab></i> <b>dosā́,</b> evening, dark."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दोष",
+            "eid": "17686",
+            "pagenum": 345,
+            "content": "doza¦ <i>m.</i> 1. Fault, deficiency, राजेम्द्रनेपथ्यविधानशोभा तस्योदितासीत् पुनरुक्तदोषा <ls>R.</ls>xiv.9, <ls>M.</ls>i.107, viii.205; 2. noxious quality, badness; 3. sin, guilt, offence, <ls>R.</ls>xiv.34, <ls>M.</ls>viii.351; 4. evil, danger, बहुदोषा हि शर्वरी <ls>Mrich.</ls>i.; 5. bad consequence, detrimental effect, अकिमयमातपदोषः स्यात् <ls>Sak.</ls>iii.; 6. error, mistake; 7. a fault of composition (in rhetoric); they are classed under the five heads of पददोष, पदांशदोष, वाक्यदोष, अर्थदोष and रसदोष; the 7th <i>Ullāsa</i> of <ls>K.Pr.</ls> is devoted to their treatment; 8. fault of a definition (in science), (they are अव्याप्ति, अतिव्याप्ति and असंभव); 9. disorder of the three humours of the body, or the three humours (so translated ?) themselves (in medicine); 10. a calf; 11. refutation."
+        }
     ]
 }

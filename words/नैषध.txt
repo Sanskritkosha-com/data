@@ -31,5 +31,57 @@
             "pagenum": 380,
             "content": "नैषध¦ <i>naiṣadha</i> <ab>a.</ab> du pays des <s1 slp1='nizaDa'>Niṣadha</s1>s. || <ab>Ép.</ab> du roi <s1 slp1='nala'>Nala</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "नैषध",
+            "eid": "17398",
+            "pagenum": 286,
+            "content": "नैषध¦ <lex>m.</lex> a prince of the Niṣadhas, <ab>esp.</ab> Nala; <ab>pl.</ab> the Niṣadhas. <lex>n.</lex> T. of a poem about Nala."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नैषध",
+            "eid": "12878",
+            "pagenum": 227,
+            "content": "नैषध¦ <i>m.</i> Fürst der Nishadher <i>(bes.</i> Nala); <i>Pl.</i>=निषध <i>Pl. —n. T. eines Gedichts</i>, <i>auch</i> °चरित <i>n.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "नैषध",
+            "eid": "7509",
+            "pagenum": 496,
+            "content": "<b>Naiṣadha</b>,¦ pl. (<i>°āḥ</i>), a people = Niṣadha, pl. § 347 (Nalopākhyānap.): III, <b>61</b>, 2315; <b>64</b>, 2413 (<i>°ānāṃ</i> <i>janādhipa</i>, i.e. Nala)."
+        },
+        {
+            "word": "नैषध",
+            "eid": "7510",
+            "pagenum": 496,
+            "content": "<b>Naiṣadha</b><sup>1</sup>¦ = Nala, q.v."
+        },
+        {
+            "word": "नैषध",
+            "eid": "7511",
+            "pagenum": 496,
+            "content": "<b>Naiṣadha</b><sup>2</sup>,¦ the king of the Niṣadhas at the time of Yudhiṣṭhira. § 592 (Saṃśaptakavadhap.): VII, <b>20</b>η, 804 (in Droṇa's gāruḍavyūha); <b>32</b>δδ, 1437 (<i>Bṛhatkṣattraṃ ca</i> <i>N°aṃ</i>, slain by Dhṛṣṭadyumna)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "नैषध",
+            "eid": "2388",
+            "pagenum": 184,
+            "content": "<b>naiṣadha,</b>¦ <i><ab>a.</ab></i> pertaining to Nishadha; <i>as</i> <i><ab>m.</ab></i> prince of the Nishadhans, <i><ab>i. e.</ab></i> Nala. [<b>niṣadha,</b> <ls n='wg,1208'>1208f</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "नैषध",
+            "eid": "20479",
+            "pagenum": 399,
+            "content": "nEzaDa¦ <i>m.</i> 1. A king of the <i>Nishāda</i> country; 2. a native of that country; 3. an epithet of king Nala."
+        }
     ]
 }

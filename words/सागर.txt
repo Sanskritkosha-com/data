@@ -89,5 +89,77 @@
             "pagenum": 707,
             "content": "सागर¦ <i>sāgara</i> <ab>m.</ab> (? <i>sag)</i> la mer. || <ab>Esp.</ab> d'antilope.  <P><i>sāgaragāminī</i> <ab>f.</ab> <i>(gam)</i> rivière.  <P><i>sāgaranemi</i> <ab>f.</ab> la terre [entourée par la mer].  <P><i>sāgaramekhalā</i> <ab>f.</ab> la terre.  <P><i>sāgarānta</i> <ab>a.</ab> <i>(anta)</i> qui a pour limite l'océan. <lbinfo n='5'/>  <P><i>sāgarāmbarā</i> <ab>f.</ab> <i>(ambara)</i> la terre [qui a pour vêtement la mer].  <P><i>sāgarālaya</i> <ab>m.</ab> <s1 slp1='varuRa'>Varuṇa</s1> [qui a pour demeure <lbinfo n='5'/> la mer].  <P><i>sāgarottha</i> <ab>n.</ab> <i>(uttha)</i> sel marin."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सागर",
+            "eid": "36450",
+            "pagenum": 611,
+            "content": "1 सागर¦ <lex>m.</lex> the ocean (said to have been dug by Sagara's sons); <ab>pl.</ab> Sagara's sons."
+        },
+        {
+            "word": "सागर",
+            "eid": "36451",
+            "pagenum": 611,
+            "content": "2 सागर¦ <lex>f.</lex> ई relating to the sea, maritime."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सागर",
+            "eid": "27190",
+            "pagenum": 491,
+            "content": "सागर¦ <i>m.</i> das Meer; <i>m. Pl.</i> die Söhne Sagra's <i>(angebl. die Gründer des Meeres).</i>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "सागर",
+            "eid": "4981",
+            "pagenum": 284,
+            "content": "<i>sāgara</i>¦ (IE 7-1-2), ‘four’; used in the sense of ‘seven’ by some late writers (IA 19)."
+        }
+    ],
+    "INM": [
+        {
+            "word": "सागर",
+            "eid": "9225",
+            "pagenum": 604,
+            "content": "<b>*Sāgara</b><sup>2</sup>¦ (“the son of Sagara,” cf. III, 9912) = the Ocean (personif.): III, 16301; XII, 4197 ff.—Do., pl. (<i>°āḥ</i>): IX, 2556."
+        },
+        {
+            "word": "सागर",
+            "eid": "9226",
+            "pagenum": 604,
+            "content": "<b>Sāgara</b><sup>3</sup>¦ = Sūrya: III, 152."
+        },
+        {
+            "word": "सागर",
+            "eid": "9227",
+            "pagenum": 604,
+            "content": "<b>Sāgara</b><sup>4</sup>¦ (XIII, 7130, 7675), v. Sagara."
+        },
+        {
+            "word": "सागर",
+            "eid": "9228",
+            "pagenum": 604,
+            "content": "<b>Sāgara</b>,¦ pl. (“the sons of Sagara”). § 387 (Sagara): III, <b>107</b>, 8855, 8857, 8861, 8864, 8872, 8873, 8881 (reduced to ashes by Kapila).—§ 389 (Gaṅgāvataraṇa): III, <b>107</b>, 9905, 9906, 9910; <b>108</b>, 9936, 9938 (their bodies besprinkled by the Gaṅgā)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सागर",
+            "eid": "4550",
+            "pagenum": 271,
+            "content": "<b>sāgara,</b>¦ <i><ab>m.</ab></i> ocean. [<ab>cf.</ab> <b>sagara:</b> according  <lbinfo n='accord-ing'/> to the legend, a basin hollowed out by the sons of Sagara, and filled by Bhagīratha with the water of the Ganges.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सागर",
+            "eid": "40330",
+            "pagenum": 770,
+            "content": "sAgara¦ <i>m.</i> 1. The ocean, सरसामस्मि सागरः <ls>Bg.</ls>x.24; 2. a sort of deer; 3. the number “four.”"
+        }
     ]
 }

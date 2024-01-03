@@ -7,5 +7,37 @@
             "pagenum": 674,
             "content": "सध¦ <i>sadha</i> <ab>vd.</ab> pour <i>saha.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "सध",
+            "eid": "34644",
+            "pagenum": 583,
+            "content": "†सध¦ (°—) = सह."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सध",
+            "eid": "26046",
+            "pagenum": 470,
+            "content": "सध¦ (°—) = सह."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सध",
+            "eid": "9235",
+            "pagenum": 1463,
+            "content": "<b>(sadhá),</b>¦ <i>zugleich</i> [von sa], enthalten in den folgenden."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सध",
+            "eid": "4395",
+            "pagenum": 266,
+            "content": "<b>sadha,</b>¦ <i><ab>adv.</ab> <ab>equiv.</ab> of</i> <b>1sahá,</b> <i>see</i> <ls n='wg,1104'>1104<sup>3</sup></ls>."
+        }
     ]
 }

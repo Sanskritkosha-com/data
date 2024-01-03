@@ -31,5 +31,57 @@
             "pagenum": 678,
             "content": "*सप्¦ <i>sap.</i> <i>sapāmi</i> 1; <ab>etc.</ab> Suivre. || Honorer, adorer, servir: <i>ṛtaṃ sapantas</i> honorant <lbinfo n='6'/> <s1 slp1='fta'>Ṛta</s1> [<s1 slp1='agni'>Agni</s1>], <ab>Vd.</ab> <ab>Cf.</ab> <i>sac.</i> || <ab>Lat.</ab> sequi; <lbinfo n='4'/> <ab>gr.</ab> <lang n='greek'>ἕπομαι</lang>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सप्",
+            "eid": "34899",
+            "pagenum": 587,
+            "content": "1 सप्¦ स/पति स/प°ते <vlex type='root'/> follow after, be attached or devoted to, serve (<ab>acc.</ab>). <ab>C.</ab><ab>M.</ab> & अभि <ab>M.</ab> = <ab>S.</ab>"
+        },
+        {
+            "word": "सप्",
+            "eid": "34900",
+            "pagenum": 587,
+            "content": "2 सप्¦ (साप्) following, serving (—°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सप्",
+            "eid": "26196",
+            "pagenum": 473,
+            "content": "सप्,¦ स/पति, °ते nachfolgen, dienen, huldigen. <lbinfo n='4'/> अभि <i>Med. dass.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सप्",
+            "eid": "9305",
+            "pagenum": 1472,
+            "content": "<b>√sap</b>¦ [<ls>Cu. 〔621〕</ls>, <ls>Ku. Zeitschr. 〔2,131〕</ls>], Nebenform von sac [ursprünglich *sakv, sacante = *sakvante, <ls>Ku. 〔9,17〕</ls>] und zwar besonders in der Bedeutung „verehren“ [sac 7]. 1〉 einen Gott [<ab>A.</ab>] <i>ehren, verehren,</i> ihm <i>dienen;</i> auch 2〉 ohne Objekt; 3〉 heiliges Werk [<ab>A.</ab>] <i>betreiben;</i> 4〉 <ab>Caus.</ab> <ab>me.</ab>, <i>sich bedienen lassen</i>. <div n='Pf'>Mit <b>abhí</b> etwas [<ab>A.</ab>] <i>betreiben, besorgen</i>. <div n='H'>Stamm <b>sápa:</b> <div n='TS'>-anti 1〉 yám (sómam) {809,37} (adhvaryávas). <div n='TS'>-ante <b>abhí</b> rātím divás pṛthivyā́s {554,5} (rātiṣā́cas). <div n='H'><b>sapa:</b> <div n='TS'>-āmi 3〉 ṛtám aruṣásya vṛ́ṣṇas {366,2}. <div n='TS'>-ema 1〉 tvā {300,9}; bṛ́haspátim {397,12}; tám (agním) {456,10}. <div n='TS'>-anta 1〉 amṛ́tam (agním) {357,4} (devā́s). <div n='H'><ab>Impf.</ab> <b>ásapa:</b> <div n='TS'>-anta 2〉 tṛ́tsavas {599,8}. <div n='H'><ab>Perf.</ab> schwach <b>sep:</b> <div n='TS'>-pus 1〉 índram {470,1} (sakhiā́ya). <div n='H'><ab>Aor.</ab> des <ab>Caus.</ab> <b>sīṣapa:</b> <div n='TS'>-anta [<ab>Co.</ab>] 4〉 té 〰 jósam ā́ yájatrās {559,4}. <div n='H'><ab>Part.</ab> <b>sápat:</b> <div n='TS'>-antā 3〉 ṛtám ṛténa {422,4}. <div n='TS'>-antas 2〉 ṛtayā́ {202,12}. — 3〉 ṛtā́ {67,8}; ṛtám {68,4}. <div n='H'>Verbale <b>sáp,</b> stark <b>sā́p:</b> <div n='P'>enthalten in ṛta-, keta-sáp oder -sā́p."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "सप्",
+            "eid": "4418",
+            "pagenum": 267,
+            "content": "<b>√sap</b>¦ (<b>sápati, -te; sepús</b>). follow after; be attached <i>or</i> devoted to. [identified by some with <b>√sac.</b>]"
+        },
+        {
+            "word": "सप्",
+            "eid": "4419",
+            "pagenum": 267,
+            "content": "<b>sáp,</b>¦ <i><ab>vbl.</ab></i> following after, <i>in <ab>cpds.</ab></i> [<b>√sap.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सप्",
+            "eid": "39594",
+            "pagenum": 755,
+            "content": "sap¦ <i>vt. 1P (pres. सपति)</i> 1. To connect; 2. to worship."
+        }
     ]
 }

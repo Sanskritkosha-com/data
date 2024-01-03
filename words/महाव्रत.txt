@@ -21,5 +21,63 @@
             "pagenum": 261,
             "content": "महाव्रत¦ (e महा et व्रत votum) magnum votum habens <i>vel</i> voti studiosus, memor, voto fidus. SU. 1. 13."
         }
+    ],
+    "CAE": [
+        {
+            "word": "महाव्रत",
+            "eid": "24353",
+            "pagenum": 403,
+            "content": "1 महाव्रत/¦ <lex>n.</lex> great vow."
+        },
+        {
+            "word": "महाव्रत",
+            "eid": "24354",
+            "pagenum": 403,
+            "content": "2 महाव्रत¦ <lex>a.</lex> having undertaken a great vow."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "महाव्रत",
+            "eid": "18483",
+            "pagenum": 327,
+            "content": "1. महाव्रत/¦ <i>n.</i> eine große Pflicht <i>o.</i> ein großes Gelübde."
+        },
+        {
+            "word": "महाव्रत",
+            "eid": "18484",
+            "pagenum": 327,
+            "content": "2. महाव्रत¦ pflichteifrig, heilig, fromm."
+        }
+    ],
+    "INM": [
+        {
+            "word": "महाव्रत",
+            "eid": "6880",
+            "pagenum": 457,
+            "content": "<b>Mahāvrata</b>¦ = Bhīṣma, q.v."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "महाव्रत",
+            "eid": "3197",
+            "pagenum": 214,
+            "content": "<b>mahā-vratá,</b>¦ <i><ab>n.</ab></i> great vow. [<ls n='wg,1267'>1267.</ls>]"
+        },
+        {
+            "word": "महाव्रत",
+            "eid": "3198",
+            "pagenum": 214,
+            "content": "<b>mahā́-vrata,</b>¦ <i><ab>a.</ab></i> having a <b>mahāvratá,</b> having undertaken a great vow. [<ls n='wg,1295'>1295.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "महाव्रत",
+            "eid": "29666",
+            "pagenum": 560,
+            "content": "mahA-vrata¦ <i>n.</i> a great vow, a great religious observance, न त्वेवं दूषयिष्यामि शस्त्रग्रहमहाव्रतम् <ls>Mv.</ls>iii."
+        }
     ]
 }

@@ -44,5 +44,51 @@
             "pagenum": 521,
             "content": "यतस्¦ <i>yatas</i> <ab>adv.</ab> <i>(ya)</i> d'où; depuis quand; depuis que; || où; quand; || car. || <ab>Gr.</ab> <lang n='greek'>ὅθεν</lang>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "यतस्",
+            "eid": "25649",
+            "pagenum": 425,
+            "content": "य/तस्¦ <ab>adv.</ab> ( = <ab>abl.</ab> of य/) from whom, what or which, (from) where (repeated from whom <ab>etc.</ab> soever); wherefore, why, because, as; since (±प्रभृति); as soon as; that, so that, in order that. — Cf. त/तस्."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "यतस्",
+            "eid": "19495",
+            "pagenum": 345,
+            "content": "य/तस्¦ <i>Adv. = Abl. zu</i> य, von wem <i>o.</i> welchem, woher, wovon, woraus, wo, wohin <i>(dopp.)</i> je von wem <i>o.</i> von wem auch immer u.s.w); warum, weshalb; da, weil: seitdem <i>(auch mit</i> प्रभृति) so bald als; auf dass, damit. <i>Oft zu Anf.</i> <i>einer Strophe:</i> denn. <i>Die Verb. mit</i> ततस् <i>s.d.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "यतस्",
+            "eid": "7033",
+            "pagenum": 1081,
+            "content": "<b>yátas,</b>¦ adverbialer Ablativ von yá, 1〉 <i>von welchem, von wo</i> bei Verben des Gehens, Kommens ā́yan {215,6}; ājagántha {871,2}; ā́gatās {911,31}; 2〉 <i>von wo aus</i> bei Verben des Handelns {22,16} vicakramé; {626,29} éjati, an beiden Stellen dem átas entsprechend; paspaśé {22,19}; pruṣṇávat {247,4}; dā́ti {402,5}; janáyan {907,2} (ārámbhaṇāt); so auch yátas pári {592,3} dadṛkṣé; 3〉 <i>aus welchem, woraus</i> bei jan (geboren werden) jáni {141,1}; (turī́pāt) jā́yate {238,9}; (yónes) jātás {263,10}; udájāyanta {314,1}; (mātṛ́bhyām) jajñiṣé {523,3}; prajajñé {899,10}; jajñé {946,1}; 4〉 oder bei Verben des Machens (vṛkṣā́t) niṣṭatakṣús {857,7}; {907,4}; 5〉 <i>wovor</i> bei fürchten bháyāmahe {670,13}; 6〉 <i>sobald als</i> ā́bhṛtam {25,17}; ájāyata {128,4}; jā́yate {244,6}; ájaniṣṭa {520,2}."
+        },
+        {
+            "word": "यतस्",
+            "eid": "12486",
+            "pagenum": 1767,
+            "content": "<b>yátas:</b>¦<info vn='add 442 gra'/> <div n='P'>3〉 ā-bhū {955,6}. _{955,7}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "यतस्",
+            "eid": "3384",
+            "pagenum": 222,
+            "content": "<b>yátas,</b>¦ <i><ab>adv.</ab></i> from what (time <i>or</i> place <i>or</i> reason): <div n='2'/><b>—1.</b> where, <ls n='lan,6,14'>6<sup>14</sup></ls>; <div n='2'/><b>—2.</b> because, for, <ls n='lan,28,23'>28<sup>23</sup></ls>, <ls n='lan,38,5'>38<sup>5</sup></ls>; <i><ab>esp.</ab> common as introducing</i> <i>a proverb or the first (only) of a series of</i> <i>proverbs motivating a preceding statement</i> <i>or action, <ab>e. g.</ab></i> <ls n='lan,19,7'>19<sup>7</sup></ls>; <b>yatas…tena, since…</b> <b>therefore,</b> <ls n='lan,30,7'>30<sup>7</sup></ls>; <i>so</i> <b>yatas…atas,</b> <ls n='lan,36,2'>36<sup>2</sup></ls>; <b>yatas…tad,</b> <ls n='lan,37,6'>37<sup>6</sup></ls>; <i><ab>cf.</ab></i> <b>tatas.</b> [<ab>pron.</ab> root ya, <ls n='wg,510'>510,</ls> <ls n='wg,1098'>1098.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "यतस्",
+            "eid": "31183",
+            "pagenum": 590,
+            "content": "yatas¦ <i>ind.</i> 1. From where, from which place, from which quarter, यतश्च भयमाशंकेत्तते । विस्तारयेद्बलम् <ls>M.</ls>vii.188; 2. where, अर्घ्यमर्घ्यमितिवादिनं नृपं सोऽनवेक्ष्य भरताग्रश्चो यतः <ls>R.</ls>xi.69; 3. from which time forward; 4. because, since, whereas, उवाच चैनं परमार्थतो हरं न वेत्सि नूनं यत एवमात्थ माम् <ls>K.S.</ls>v.75, <ls>R.</ls>viii.76; 5. from whom, यतस्त्वया ज्ञानमशेषमाप्तम् <ls>R.</ls>v.4.<P>(यतस्ततस् 1. from any place whatsoever; 2. from any person; 3. on this side and that, on all sides, मुहुरंगानि यतस्ततः क्षिपंती <ls>Bh.V.</ls>ii.26; यतोयतस् 1. from whatever place; 2. from any person; 3. wherever, <ls>Bg.</ls>vi.26.)"
+        }
     ]
 }

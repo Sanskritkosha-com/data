@@ -15,5 +15,21 @@
             "pagenum": 87,
             "content": "*इज्¦ <i>ij.</i> <ab>Cf.</ab> <i>yaj.</i>"
         }
+    ],
+    "GRA": [
+        {
+            "word": "इज्",
+            "eid": "1679",
+            "pagenum": 202,
+            "content": "<b>√ij,</b>¦ opfern, <ab n='siehe'>s.</ab> yaj."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "इज्",
+            "eid": "700",
+            "pagenum": 128,
+            "content": "<b>íj,</b>¦ <i><ab>vbl.</ab></i> sacrificing, <i>in</i> <b>ṛtv-íj.</b> [<b>√yaj,</b> <ls n='wg,252'>252.</ls>]"
+        }
     ]
 }

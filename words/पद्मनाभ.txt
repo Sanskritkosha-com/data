@@ -157,5 +157,49 @@
             "pagenum": 3,
             "content": "पद्मनाभ¦ son of Balabhadra: <HI1>Khaṇḍanakhaṇḍakhādyaṭīkā."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पद्मनाभ",
+            "eid": "17854",
+            "pagenum": 295,
+            "content": "पद्मनाभ¦ <lex>m.</lex> <ab>E.</ab> of Viṣṇu (the lotus-naveled)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पद्मनाभ",
+            "eid": "13245",
+            "pagenum": 235,
+            "content": "पद्मनाभ¦ <i>m.</i> der Lotusnablige <i>(Bein. Viṣṇu's).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "पद्मनाभ",
+            "eid": "7832",
+            "pagenum": 523,
+            "content": "<b>Padmanābha</b><sup>1</sup>¦ = Viṣṇu: I, 1218, 2506; III, 7043 (<i>Nārā-</i> <i>yanaṃ</i>); VI, 2946; XII, 1602 (i.e. Kṛṣṇa), 7638 (do.), 13105; XIII, 5382 (i.e. Kṛṣṇa), 6324(?), 6955 (1000 names), 6970 (do.), 6987 (do.)."
+        },
+        {
+            "word": "पद्मनाभ",
+            "eid": "7834",
+            "pagenum": 523,
+            "content": "<b>Padmanābha</b><sup>3</sup>¦ = Padma<sup>1</sup>: XII, 13803 (<i>P°</i>), 13888."
+        },
+        {
+            "word": "पद्मनाभ",
+            "eid": "7835",
+            "pagenum": 523,
+            "content": "<b>Padmanābha</b><sup>4</sup>,¦ <b>Padmanālāgra</b> = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पद्मनाभ",
+            "eid": "20998",
+            "pagenum": 410,
+            "content": "padma-nABa¦ <i>m.</i> an epithet of Vishṇu."
+        }
     ]
 }

@@ -15,5 +15,41 @@
             "pagenum": 379,
             "content": "नेपाल¦ <i>nepāla</i> <ab>n.</ab> le Nêpâl, contrée dans le nord de l'Inde."
         }
+    ],
+    "CAE": [
+        {
+            "word": "नेपाल",
+            "eid": "17339",
+            "pagenum": 285,
+            "content": "नेपाल¦ <lex>m.</lex> <ab>N.</ab> of a country & (<ab>pl.</ab>) a people."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "नेपाल",
+            "eid": "12824",
+            "pagenum": 226,
+            "content": "नेपाल¦ <i>m. Landes-, Pl. Volksname.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "नेपाल",
+            "eid": "20419",
+            "pagenum": 398,
+            "content": "nepAla¦ <i>(I) m.</i> Name of a country in the north of India."
+        },
+        {
+            "word": "नेपाल",
+            "eid": "20420",
+            "pagenum": 398,
+            "content": "nepAla¦ <i>(II) m. pl.</i> The people of this country."
+        },
+        {
+            "word": "नेपाल",
+            "eid": "20421",
+            "pagenum": 398,
+            "content": "nepAla¦ <i>(III) n.</i> Copper."
+        }
     ]
 }

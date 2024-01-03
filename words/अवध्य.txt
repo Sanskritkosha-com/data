@@ -37,5 +37,29 @@
             "pagenum": 53,
             "content": "अवध्य¦ <i>avadhya</i> <ab>a.</ab> <i>(vadh)</i> qui ne peut être tué; indestructible.  <P><i>avadyatā</i> <ab>f.</ab> indestructibilité."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अवध्य",
+            "eid": "3133",
+            "pagenum": 45,
+            "content": "अवध्य/¦ <lex>a.</lex> not to be killed, inviolable."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अवध्य",
+            "eid": "1978",
+            "pagenum": 31,
+            "content": "अवध्य/¦ nicht zu tödten, unverletzbar."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अवध्य",
+            "eid": "444",
+            "pagenum": 121,
+            "content": "<b>a-vadhyá,</b>¦ <i><ab>a.</ab></i> not to be harmed, inviolable. <lbinfo n='inviola-ble.'/> [<b>vádhya,</b> <ls n='wg,1285'>1285.</ls>]"
+        }
     ]
 }

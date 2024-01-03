@@ -44,5 +44,45 @@
             "pagenum": 110,
             "content": "उपरि¦ <i>upari</i> <ab>adv.</ab> et <ab>prép.</ab> avec le <ab>g.</ab> Sur, dessus, au-dessus, par-dessus. || <ab>Zd.</ab> upairi; <ab>gr.</ab> <lang n='greek'>ὑπέρ</lang>; <ab>lat.</ab> super; <ab>got.</ab> ufar; <ab>germ.</ab> über; <ab>angl.</ab> upon."
         }
+    ],
+    "CAE": [
+        {
+            "word": "उपरि",
+            "eid": "5814",
+            "pagenum": 90,
+            "content": "उप/रि¦ <ab>adv.</ab> above, upwards, moreover, further, then; doubled = higher and higher, more and more. As <ab>prep.</ab> above, over, beyond, upon, up into (<ab>acc.</ab>, <ab>gen.</ab>, <ab>abl.</ab>, <ab>loc.</ab>, °— or —° in an <ab>adv.</ab>); above in number or order (<ab>gen.</ab> or —° in an <ab>adv.</ab>), after (<ab>gen.</ab> or —°); concerning, as to (<ab>gen.</ab>); doubled = immediately over (<ab>acc.</ab>), high over (<ab>gen.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "उपरि",
+            "eid": "3599",
+            "pagenum": 59,
+            "content": "उप/रि¦ <i>Adv.</i> oben, herauf, überdies, nachher; <lbinfo n='4'/> <i>Praep.</i> über, oberhalb, über— hinaus, <i>mit Acc., Gen. (auch verdoppelt)</i>, <i>Abl., Loc. u. adv.</i> (—° <i>o.</i> °—); über <i>(an Zahl und Rang)</i> nach <i>(Zeit)</i> <i>mit Gen. o. adv. (—o.)</i>; in Bezug auf, wegen <i>(Gen.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "उपरि",
+            "eid": "1960",
+            "pagenum": 257,
+            "content": "<b>upári,</b>¦ aus úpa weitergebildet, und zwar als Adverb <i>oben, nach oben;</i> Gegensatz nīcā́, adhás; <i>oben:</i> {24,7}; {415,12}; {667,2}; {710,9}; {955,5}; <i>nach oben:</i> {653,19}; {860,9}; <ab>vgl.</ab> upári mit spṛ́ś. <div n='P'>als Präposition mit vorhergehendem <ab>Acc.</ab> 1〉 <i>oberhalb:</i> bhúvanā {766,3}; 2〉 <i>über, über — hinaus:</i> tisrás pṛthivī́s {34,8}; dyā́m iva {327,15}. <div n='P'>mit vorhergehendem <ab>Gen.</ab> <i>über, über — hinaus:</i> bhū́miās {901,3} (oder <ab>Instr.</ab> bhū́miā; ās oder ā ist mit dem u von upári zu o zusammengezogen)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "उपरि",
+            "eid": "850",
+            "pagenum": 133,
+            "content": "<b>upári,</b>¦ <i><ab>adv.</ab></i> above; <i>as <ab>prep.</ab>, <ab>w.</ab> <ab>gen.</ab></i> [<ls n='wg,1130'>1130]</ls>, above; <i>at end of <ab>cpd</ab></i> [<ls n='wg,1314'>1314f</ls>], upon, <ls n='lan,39,16'>39<sup>16</sup></ls>. [<ab>cf.</ab> <lang n='greek'>ὑπείρ, *ὑπέρι</lang>, <ab>Lat.</ab> <i>s-uper,</i> ‘over.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "उपरि",
+            "eid": "06841",
+            "pagenum": 141,
+            "content": "upari¦ <i>ind.</i> As an adverb, it means- (1) high, above, upon, towards the upper side of, उपर्युपरि पश्यन्तः सर्वं एव दरिद्रति <ls>Hit.</ls>i.; (2) besides, in addition to, सहस्राण्येकविंशतिः । शतान्युपरि चैवाष्टौ तथा भूयश्च सप्ततिः <ls>Bh.</ls>; (3) afterwards, यदा पूर्वं नासीदुपरि च तथा नैव भविता <ls>Sant.S.</ls>ii.7.<P>As a separable preposition, (with the acc. gen. or loc.), it means- (1) on, over, above, e.g. अवाङ्मुखस्योपरि पुष्पवृष्टिः पपात <ls>R.</ls>ii.60; (2) at the head, at the top, <ls>Yaj.</ls>i.819; (3) beyond, in addition to, <ls>Yaj.</ls>ii.253; (4) on, upon, in connection with, in regard to, towards, परस्परस्योपरि पर्यचीयत <ls>R.</ls>iii.24, <ls>Sant.S.</ls>xii.23; (5) after, मुहूर्तादुपरि उपाध्यायश्चेदागच्छेत्. (The double form उपर्युपरि (used either absolutely or with the acc. or gen.) means- (1) just above, e.g. उपर्युपरि लोकं हरिः, उपर्युपर्यंबुमुचां वितानैः; (2) very high, उपर्युपरि सर्वेषामादित्य इव तेजसा <ls>Bh.</ls>)"
+        }
     ]
 }

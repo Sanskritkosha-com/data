@@ -13,5 +13,29 @@
             "pagenum": 2,
             "content": "विषवैद्य¦ med. ibid."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विषवैद्य",
+            "eid": "30424",
+            "pagenum": 511,
+            "content": "विषवैद्य¦ <lex>m.</lex> conjurer of poison."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विषवैद्य",
+            "eid": "23086",
+            "pagenum": 418,
+            "content": "विषवैद्य¦ <i>m.</i> Giftarzt <i>o.</i> -beschwörer."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विषवैद्य",
+            "eid": "35712",
+            "pagenum": 679,
+            "content": "viza-vEdya¦ <i>m.</i> a curer of snake-bites."
+        }
     ]
 }

@@ -36,5 +36,37 @@
             "pagenum": 481,
             "content": "भोस्¦ <i>bhos</i> <ab>interj.</ab> pour appeler. <ab>Lat.</ab> heus."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भोस्",
+            "eid": "23304",
+            "pagenum": 386,
+            "content": "भोस्¦ ( = भवस्, <ab>voc.</ab> of 2 भ/वन्त्) <ab>interj.</ab> of address, sorrow, or interrogation, often repeated or connected with other interjections."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भोस्",
+            "eid": "17684",
+            "pagenum": 312,
+            "content": "भोस्,¦ भोः, भो (= भवस्, <i>Voc. von 2.</i> भवन्त्) <i>Interj. der Anrede; auch der Empfindung</i> = ach, ei! <i>Oft verb. mit anderen Interj.</i>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भोस्",
+            "eid": "3065",
+            "pagenum": 209,
+            "content": "<b>bhos,</b>¦ <i><ab>excl.</ab> of address.</i> thou, sir !, O !, ho !, halloo !; <i>often repeated, <ab>e. g.</ab></i> <ls n='lan,6,23'>6<sup>23</sup></ls>. [for origin, <lbinfo n='ori-gin,'/> see <b>bhavant:</b> for euphonic combination, <lbinfo n='combina-tion,'/> see <ls n='wg,176'>176a</ls> (in 2d ed., see <ls n='wg,174'>174b</ls>).]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भोस्",
+            "eid": "28077",
+            "pagenum": 538,
+            "content": "Bos¦ <i>ind.</i> A particle- (1) of addressing (translatable by ‘O!, ho, ah, there’), भो भो राजन् आश्रममृगोयं न हंतव्यो न हंतव्यः <ls>Sak.</ls>i., अधीष्व भो इति ब्रूयात् <ls>M.</ls>ii.73, भोः शब्दं कीर्तयेदंते <ls>M.</ls>ii.124; (2) of sorrow; (3) of interrogation."
+        }
     ]
 }

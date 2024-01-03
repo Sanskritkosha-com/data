@@ -43,5 +43,93 @@
             "pagenum": 382,
             "content": "प¦ <i>pa</i> <ab>m.</ab> air, vent."
         }
+    ],
+    "CAE": [
+        {
+            "word": "प",
+            "eid": "17476",
+            "pagenum": 288,
+            "content": "1 प¦ (—°) drinking."
+        },
+        {
+            "word": "प",
+            "eid": "17477",
+            "pagenum": 288,
+            "content": "2 प¦ (—°) protecting, keeping."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "प",
+            "eid": "12949",
+            "pagenum": 228,
+            "content": "1. प¦ (—°) trinkend."
+        },
+        {
+            "word": "प",
+            "eid": "12950",
+            "pagenum": 228,
+            "content": "2. प¦ (—°) schützend."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "प",
+            "eid": "3886",
+            "pagenum": 223,
+            "content": "<i>Pa</i>¦ (CITD), abbreviation of the Telugu name of a certain measure of grain."
+        },
+        {
+            "word": "प",
+            "eid": "3930",
+            "pagenum": 225,
+            "content": "<i>Pa</i>¦ḏ<i>irā,</i> cf. Oḏiyā <i>Sāmanta-pa</i>ḏ<i>irā</i> (EI 32); Sanskrit <i>Prati-</i> <i>rāja;</i> title of a fendatory or governor; cf. <i>Pratirājya = Pratirāja.</i>"
+        },
+        {
+            "word": "प",
+            "eid": "3989",
+            "pagenum": 228,
+            "content": "<i>Paṃ</i>¦ (IE 8-1; PJS), abbreviation of <i>Paṇḍita.</i> <div n='P'>(<i>PJS</i>), abbreviation of <i>Paṃnyāsa.</i>"
+        },
+        {
+            "word": "प",
+            "eid": "4196",
+            "pagenum": 241,
+            "content": "<i>pa</i>¦ṟṟ<i>u</i> (IE 8-4), Tamil; a small territorial unit."
+        },
+        {
+            "word": "प",
+            "eid": "7379",
+            "pagenum": 419,
+            "content": "<i>pa</i>¦ḻ<i>anel</i> (SII 13), a tax."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "प",
+            "eid": "2397",
+            "pagenum": 184,
+            "content": "<b>1pá,</b>¦ <i><ab>vbl.</ab></i> drinking, <i>in <ab>cpds.</ab></i> [<b>√1pā,</b> <ls n='wg,333'>333.</ls>]"
+        },
+        {
+            "word": "प",
+            "eid": "2398",
+            "pagenum": 184,
+            "content": "<b>2pá,</b>¦ <i><ab>vbl.</ab></i> keeping, keeper, <i>in <ab>cpds.</ab></i> [<b>√2pā,</b> <ls n='wg,333'>333.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "प",
+            "eid": "20541",
+            "pagenum": 401,
+            "content": "pa¦ <i>(I) a. (f. पा) (at the end of compounds)</i> 1. Drinking, e.g. अनेकप; 2. guarding, protecting, ruling, e.g. गोप, क्षितिप."
+        },
+        {
+            "word": "प",
+            "eid": "20542",
+            "pagenum": 401,
+            "content": "pa¦ <i>(II) m.</i> 1. Air, wind; 2. a leaf; 3. an egg."
+        }
     ]
 }

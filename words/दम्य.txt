@@ -36,5 +36,55 @@
             "pagenum": 312,
             "content": "दम्य¦ <i>damya</i> <ab>pf.</ab> <ab>ps.</ab> de <i>dam.</i> -- <ab>S.</ab> <ab>m.</ab> jeune bœuf [non dompté]."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दम्य",
+            "eid": "13334",
+            "pagenum": 219,
+            "content": "1 दम्य¦ <lex>a.</lex> to be tamed or subdued; <lex>m.</lex> (<lex>n.</lex>) a young bullock that is to be tamed."
+        },
+        {
+            "word": "दम्य",
+            "eid": "13335",
+            "pagenum": 219,
+            "content": "2 द/म्य¦ <lex>a.</lex> being in a house, homely."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दम्य",
+            "eid": "9410",
+            "pagenum": 166,
+            "content": "1. दम्य¦ zu zähmen; <i>m.</i> ein (noch zu zähmender) <lbinfo n='7'/> junger Stier."
+        },
+        {
+            "word": "दम्य",
+            "eid": "9411",
+            "pagenum": 166,
+            "content": "2. द/म्य¦ häuslich, heimisch."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दम्य",
+            "eid": "4101",
+            "pagenum": 578,
+            "content": "<b>(dámya),</b> <b>dámia,</b>¦ <ab>a.</ab>, <i>im Hause</i> [dám] <i>befindlich, häuslich</i>. <div n='TS'>-am jātávedasam {236,8}; bhāgám {572,14}. <div n='TS'>-āya agnáye {643,24}. <div n='TS'>-ebhis ánīkais (agnés) {235,15}; {288,1}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दम्य",
+            "eid": "16507",
+            "pagenum": 325,
+            "content": "damya¦ <i>(I) a. (f. म्या)</i> 1. To be trained, <ls>R.</ls>vi.78; 2. to be subdued."
+        },
+        {
+            "word": "दम्य",
+            "eid": "16508",
+            "pagenum": 325,
+            "content": "damya¦ <i>(II) m.</i> 1. A young bullock, नार्हति तातः पुंगाधारितायां धुरि दम्यं नियोजयितुम् <ls>Vikr.</ls>v.; 2. a steer that has to be tamed or trained."
+        }
     ]
 }

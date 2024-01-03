@@ -23,5 +23,73 @@
             "pagenum": 215,
             "content": "पार्वतीय¦ (a पर्वत mons s. ईय) montanus. DR. 8. 8."
         }
+    ],
+    "CAE": [
+        {
+            "word": "पार्वतीय",
+            "eid": "19005",
+            "pagenum": 313,
+            "content": "पार्वतीय¦ <lex>a.</lex> living in the mountains; <lex>m.</lex> mountaineer."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पार्वतीय",
+            "eid": "14210",
+            "pagenum": 251,
+            "content": "पार्वतीय¦ im Gebirge wohnend; <i>m.</i> Bergbewohner. <lbinfo n='9'/>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "पार्वतीय",
+            "eid": "8205",
+            "pagenum": 544,
+            "content": "<b>*Pārvatīya</b><sup>1</sup>,¦ pl. (<i>°āḥ</i>) (“Mountaineers”), a people. § 295 (Dyūtap.): II, <b>52</b>, 1863 (brought tribute to Yudhiṣṭhira). —§ 556 (Sañjayayānap.): V, <b>30</b>, †890 (in the army of Duryodhana).—§ 574 (Jambūkh.): VI, <b>9</b>μ, 365.—§ 589 (Droṇābhiṣekap.): VII, <b>11</b>ν, 397 (had formerly been vanquished by Kṛṣṇa).—§ 591 (Saṃśaptakavadhap.): VII, <b>20</b>ζ, 802 (in the gāruḍavyūha of Droṇa).—§ 599 (Jayadrathavadhap.): VII, <b>121</b>εε, 4819 (attacked Sātyaki), 4835 (<i>śūrān</i>, adj.?), 4841.—§ 607 (Karṇap.): VIII, <b>45</b>ν, 2106 (are stupid).—§ 608 (do.): VIII, <b>46</b>γ, 2135 (followed Śakuni and Ulūka); <b>73</b>, 3653 (in the army of Duryodhana). —§ 609 (Śalyap.); IX, <b>1</b>γ, 27 (have been slain)."
+        },
+        {
+            "word": "पार्वतीय",
+            "eid": "8206",
+            "pagenum": 544,
+            "content": "<b>*Pārvatīya</b><sup>2</sup>,¦ adj. (“belonging to the Pārvatīyas”). § 287 (Rājasūyikap.): II, <b>34</b>, 1269 (<i>rājānaḥ</i>, came to the rājasūya of Yudhiṣṭhira).—§ 292 (do.): II, <b>45</b>α, 1609.—§ 522 (Draupadīharaṇap.): III, <b>271</b>, 15723 (<i>mahārathān</i>, follow Jayadratha, are slain by Arjuna).—§ 554 (Sainyodyogap.): V, <b>4</b>γ, 82 (<i>nṛpāḥ</i>).—§ 573 (Ambopākhyānap.): V, <b>195</b>ε, 7608 (<i>nṛpāḥ</i>, in the army of Duryodhana).—§ 593 (Abhimanyuvadhap.): VII, <b>37</b>η, 1574 (sc. <i>hayān</i>).—§ 599 (Jayadrathavadhap.): VII, <b>121</b>ηη, 4831 (sc. <i>hayavarān</i>), 4837 (<i>rājānaḥ</i>).—§ 604 (Karṇap.): VIII, <b>7</b>, †200 (sc. <i>hayāḥ?</i>, otherwise PCR.)."
+        },
+        {
+            "word": "पार्वतीय",
+            "eid": "8207",
+            "pagenum": 544,
+            "content": "<b>Pārvatīya</b><sup>3</sup>¦ (“king of the Mountaineers”), a prince. § 130 (Aṃśāvat.): I, <b>67</b>, 2692 (incarnation of the Asura Kukṣi)."
+        },
+        {
+            "word": "पार्वतीय",
+            "eid": "8208",
+            "pagenum": 544,
+            "content": "<b>Pārvatīya</b><sup>4</sup>¦ = Śakuni: II, †2120; III, †1357 (<i>C°</i>); V, †895 (<i>Ś°</i>)."
+        },
+        {
+            "word": "पार्वतीय",
+            "eid": "8209",
+            "pagenum": 544,
+            "content": "<b>Pārvatīya</b><sup>5</sup>¦ = Janamejaya<sup>9</sup>: VIII, 169 (<i>J°</i>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पार्वतीय",
+            "eid": "22260",
+            "pagenum": 434,
+            "content": "pArvatIya¦ <i>(I) a. (f. यी)</i> Dwelling in a mountain."
+        },
+        {
+            "word": "पार्वतीय",
+            "eid": "22261",
+            "pagenum": 434,
+            "content": "pArvatIya¦ <i>(II) m.</i> A mountaineer."
+        },
+        {
+            "word": "पार्वतीय",
+            "eid": "22262",
+            "pagenum": 434,
+            "content": "pArvatIya¦ <i>(II) m. pl.</i> Name of a mountain-tribe, तत्र जन्यं रघोर्घोरं पार्वतीयैर्गनैरभूत् <ls>R.</ls>iv.77."
+        }
     ]
 }

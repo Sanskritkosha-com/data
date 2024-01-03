@@ -23,5 +23,59 @@
             "pagenum": 336,
             "content": "द्वादश¦ <i>dvādaśa</i> <ab>a.</ab> [<ab>f.</ab> <i>ī</i>] douzième. -- <ab>F.</ab> le 12ᵉ jour de la quinzaine lunaire.  <P><i>dvādaśakara</i> <ab>m.</ab> <i>(kara</i> main) <s1 slp1='bfhaspati'>Bṛhaspati</s1>; || <s1 slp1='kArttikeya'>Kārttikeya</s1>.   <P><i>dvādaśan</i> <ab>a.</ab> douze. || <ab>Gr.</ab> <lang n='greek'>δώδεϰα</lang>; <ab>lat.</ab> duodecim.  <P><i>dvādaśalocana</i> <ab>m.</ab> <s1 slp1='kArttikeya'>Kārttikeya</s1> aux 12 yeux.  <P><i>dvādaśāṃśu</i> <ab>m.</ab> <i>(aṃśu)</i> <s1 slp1='bfhaspati'>Bṛhaspati</s1> aux 12 rayons.  <P><i>dvādaśākṣa</i> <ab>m.</ab> <i>(akṣa)</i> <s1 slp1='kArttikeya'>Kārttikeya</s1> aux 12 yeux.  <P><i>dvādaśāṅgula</i> <ab>m.</ab> mesure de 12 doigts.  <P><i>dvādaśātman</i> <ab>m.</ab> <i>(ātman)</i> le Soleil, douze fois personnifié dans les <s1 slp1='Aditya'>Āditya</s1>s.  <P><i>dvādaśāyus</i> <ab>m.</ab> <i>(āyus)</i> chien, qui vit 12 ans.  <P><i>dvādaśārcis</i> <ab>m.</ab> <i>(arcis)</i> <s1 slp1='bfhaspati'>Bṛhaspati</s1> aux 12 rayons.  <P><i>dvādaśin</i> <ab>a.</ab> douzième, formé de 12."
         }
+    ],
+    "CAE": [
+        {
+            "word": "द्वादश",
+            "eid": "14861",
+            "pagenum": 243,
+            "content": "द्वादश/¦ <lex>f.</lex> ई/ the twelfth, consisting of twelve; <lex>n.</lex> the number twelve or an aggregate of 12."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "द्वादश",
+            "eid": "10673",
+            "pagenum": 188,
+            "content": "द्वादश/¦ <i>f.</i> रि/ der zwölfte, aus zwölf bestehend, <lbinfo n='8'/> zwölffach <i>(vom Jahre); n.</i> Zwölfzahl."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "द्वादश",
+            "eid": "4596",
+            "pagenum": 650,
+            "content": "<b>dvādaśá,</b>¦ <ab>a.</ab>, <i>aus zwölfen bestehend, zwölftheilig</i> [von dvā́daśan]. <div n='TS'>-ásya (des Zwölftheiligen Jahres) {619,9} (deváhitim)."
+        }
+    ],
+    "INM": [
+        {
+            "word": "द्वादश",
+            "eid": "3829",
+            "pagenum": 280,
+            "content": "<b>Dvādaśa</b>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "द्वादश",
+            "eid": "2096",
+            "pagenum": 174,
+            "content": "<b>dvā́daśa</b>¦ [<ls n='wg,483'>483<sup>4</sup></ls>], <i>cardinal.</i> twelve. [<b>dvá</b> <b>+ dáśa,</b> <ls n='wg,476'>476<sup>3</sup></ls>: <ab>cf.</ab> <lang n='greek'>δυώδεκα</lang>, <ab>Lat.</ab> <i>duōdecim,</i> ‘twelve.’]"
+        },
+        {
+            "word": "द्वादश",
+            "eid": "2097",
+            "pagenum": 174,
+            "content": "<b>dvādaśá,</b>¦ <i><ab>f.</ab></i> <b>-ī́,</b> <i>ordinal.</i> twelfth; <b>dvādaśī́</b> <lbinfo n='dvā-daśī́'/> (<i><ab>sc.</ab></i> <b>tithi</b>), twelfth day of a lunar half month, <ls n='lan,59,9'>59<sup>9</sup></ls>. [<b>dvā́daśa,</b> <ls n='wg,487'>487<sup>7</sup></ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "द्वादश",
+            "eid": "17981",
+            "pagenum": 350,
+            "content": "dvAdaSa¦ <i>a.</i> 1. the twelfth, <ls>M.</ls>ii.36; 2. consisting of twelve."
+        }
     ]
 }

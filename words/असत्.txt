@@ -21,5 +21,41 @@
             "pagenum": 62,
             "content": "असत्¦ <i>asat</i> pour <i>asast,</i> <ab>impf.</ab> de <i>sas.</i>"
         }
+    ],
+    "GRA": [
+        {
+            "word": "असत्",
+            "eid": "1312",
+            "pagenum": 153,
+            "content": "<b>á-sat,</b>¦ <ab>a.</ab>, 1〉 <i>nicht seiend</i> [sát <ab n='siehe'>s.</ab> as], daher ásan astu, er vergehe; 2〉 <i>unwahr, unheilsam</i> (von der Rede); 3〉 <ab>n.</ab>, das <i>Nichtseiende,</i> überall mit dem Gegensatze sát; 4〉 <ab>n.</ab>, <i>Unwahrheit, Lüge</i>. <div n='TS'>-an 1〉 {620,8} vaktā́. <div n='TS'>-at 2〉 (vácas) {620,12}. — 3〉 {465,5}; {831,7}; {955,1}. <div n='TS'>-atas [<ab>Ab.</ab>] 3〉 {898,2}. <div n='TS'>-ati [<ab>L.</ab>] 3〉 {955,4}. <div n='P'>Ferner mit verlängertem á, an zwei Stellen ({301,14}; {620,8}) sogar, wo das Versmass die Kürze begünstigt; also ā́sat (ohne Unterschied der Bedeutung, die <ls>Pada</ls>-Handschrift hat überall ásat). <div n='TS'>-at 2〉 (vácas) {620,13}. _{620,12}. <div n='TS'>-atā [<ab>I.</ab>] 3〉 {301,14}. <div n='TS'>-atas [<ab>G.</ab>] 2〉 vácasas {366,4}. — 4〉 vaktā́ {620,8}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "असत्",
+            "eid": "876",
+            "pagenum": 92,
+            "content": "<b>Asat</b>¦ = Śiva (1000 names<sup>2</sup>); = Mahāpuruṣa, XII, 12864; = Viṣṇu (1000 names).—<b>Asataḥ prabhava-</b>, etc. = Śiva (1000 names<sup>1</sup>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "असत्",
+            "eid": "04331",
+            "pagenum": 85,
+            "content": "asat¦ <i>(I) a. (f. ता)</i> 1. Not really existing, unreal, आत्मनो ब्रह्मणा भेदमसंतं कः करिष्यति <ls>S.Sh.</ls>; 2. not being, असति त्वयि वारुणीमदः <ls>K.S.</ls>iv.12; 3. untrue, false, wrong, e.g. इति यत्केनचिदुक्तं तदसत्; 4. wicked, vile; 5. bad, <ls>R.</ls>i.10."
+        },
+        {
+            "word": "असत्",
+            "eid": "04332",
+            "pagenum": 85,
+            "content": "asat¦ <i>(II) n.</i> 1. Non-existence, non-entity; 2. falsehood."
+        },
+        {
+            "word": "असत्",
+            "eid": "04333",
+            "pagenum": 85,
+            "content": "asat¦ <i>(III) m.</i> lndra."
+        }
     ]
 }

@@ -28,5 +28,43 @@
             "pagenum": 135,
             "content": "जम्बुक¦ <i>m.</i> canis aureus. AM."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जम्बुक",
+            "eid": "11046",
+            "pagenum": 181,
+            "content": "जम्बुक¦ <lex>m.</lex> a jackal (used also as an abusive word)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जम्बुक",
+            "eid": "7448",
+            "pagenum": 132,
+            "content": "जम्बुक¦ <i>m.</i> Schakal <i>(auch als Schimpfwort).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "जम्बुक",
+            "eid": "4754",
+            "pagenum": 349,
+            "content": "<b>Jambuka</b><sup>1</sup>,¦ a warrior of Skanda. § 615<i>u</i> (Skanda): IX, <b>45</b>η, 2576."
+        },
+        {
+            "word": "जम्बुक",
+            "eid": "4755",
+            "pagenum": 349,
+            "content": "<b>Jambuka</b><sup>2</sup>,¦ v. Śambuka."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "जम्बुक",
+            "eid": "1580",
+            "pagenum": 158,
+            "content": "<b>jambuka,</b>¦ <i><ab>m.</ab></i> jackal."
+        }
     ]
 }

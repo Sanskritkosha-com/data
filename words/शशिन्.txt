@@ -36,5 +36,51 @@
             "pagenum": 640,
             "content": "शशिन्¦ <i>śaśin</i> <ab>m.</ab> <i>(śaśa;</i> <ab>sfx.</ab> <i>in)</i> la Lune.  <P><i>śaśideva</i> <ab>m.</ab> <ab>np.</ab> <ab>mms.</ab> que <i>rantideva.</i>  <P><i>śaśiprabhā</i> <ab>f.</ab> clair-de-lune. -- <ab>N.</ab> lotus blanc comestible.  <P><i>śaśilekhā</i> <ab>f.</ab> un doigt de la Lune, <ab>t.</ab> d'<ab>astr.</ab> || Sorte de mètre poétique. || Ménisperme, <ab>bot.</ab>  <P><i>śaśiśekhara</i> <ab>m.</ab> <s1 slp1='Siva'>Śiva</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "शशिन्",
+            "eid": "32102",
+            "pagenum": 541,
+            "content": "शशिन्¦ <lex>m.</lex> the moon (hare-marked)."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "शशिन्",
+            "eid": "5347",
+            "pagenum": 305,
+            "content": "<i>śaśin</i>¦ (EI 25), ‘one’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "शशिन्",
+            "eid": "2199",
+            "pagenum": 181,
+            "content": "<b>Śaśin</b><sup>1</sup>¦ = Soma (the Moon), q.v."
+        },
+        {
+            "word": "शशिन्",
+            "eid": "2200",
+            "pagenum": 181,
+            "content": "<b>Śaśin</b><sup>2</sup>¦ = Śiva (1000 names<sup>2</sup>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "शशिन्",
+            "eid": "4154",
+            "pagenum": 257,
+            "content": "<b>śaśin,</b>¦ <i><ab>m.</ab></i> the moon. [<ab>prop.</ab>, <ab>adj.</ab>, ‘having the (picture of a) rabbit,’ <b>śaśa,</b> <ls n='wg,1230'>1230.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शशिन्",
+            "eid": "37323",
+            "pagenum": 712,
+            "content": "SaSin¦ <i>m.</i> 1. The moon, <ls>Rt.</ls>i.12, <ls>Rt.</ls>i.83, <ls>Megh.</ls>i.44; 2. camphor."
+        }
     ]
 }

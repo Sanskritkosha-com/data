@@ -7,5 +7,29 @@
             "pagenum": 456,
             "content": "गव्ययु¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Desirous of cows."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गव्ययु",
+            "eid": "9392",
+            "pagenum": 151,
+            "content": "गव्ययु/¦ <lex>a.</lex> wishing for cattle."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गव्ययु",
+            "eid": "6127",
+            "pagenum": 106,
+            "content": "गव्ययु/¦ nach Rindern begierig."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "गव्ययु",
+            "eid": "2941",
+            "pagenum": 390,
+            "content": "<b>gavyayú,</b>¦ <ab>a.</ab>, <i>nach Rindern begierig,</i> parallel aśvayú ({748,6}). <div n='TS'>-ús (sómas) {748,6}; {810,3}."
+        }
     ]
 }

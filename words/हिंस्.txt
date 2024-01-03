@@ -31,5 +31,45 @@
             "pagenum": 754,
             "content": "*हिंस्¦ <i>hiṃs.</i> <i>hiṃsāmi, hiṃse</i> 1, <i>hinasmi</i> <lbinfo n='4'/> 7 et <i>hiṃsayāmi</i> 10; <ab>p.</ab> <i>jihiṃsa;</i> <ab>etc.</ab> Frapper, <lbinfo n='4'/> <i>muṣṭibhis</i> à coups de poing; || blesser, faire du mal: <i>agniṣ ṭe tvacaṃ</i> <i>mā hiṃsīt</i> qu'<s1 slp1='agni'>Agni</s1> ne lui endommage pas la peau, <ab>Vd.</ab> || Tuer, <i>paśum</i> un animal, <i>arim</i> un ennemi. || Détruire, <i>vikramam</i> la force de <ab>qqn.</ab> || <ab>Cf.</ab> <i>han.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "हिंस्",
+            "eid": "39630",
+            "pagenum": 662,
+            "content": "हिंस्¦ हिन/स्ति हि/ंस्ते हिंसति <vlex type='root'/> <ab>pp.</ab> हिंसित/ (<ab>q.v.</ab>) injure, hurt, harm, kill, destroy. <ab>C.</ab> हिंसयति the same. <ab>D.</ab> जि/हिंसिषति wish to injure <ab>etc.</ab> <div n='p'>— उप & वि = <ab>S.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "हिंस्",
+            "eid": "29393",
+            "pagenum": 532,
+            "content": "हिंस्,¦ हिन/स्ति, हि/ंस्ते, हिंसति verletzen, schädigen, töten; <i>p. p.</i> हिंसित. <i>Caus.</i> हिंसयति <i>dass. Desid.</i> जि/हिंसिषति verletzen <lbinfo n='6'/> wollen. उप <i>u.</i> वि = <i>Simpl.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "हिंस्",
+            "eid": "10646",
+            "pagenum": 1665,
+            "content": "<b>√hiṃs</b>¦ [Desiderativbildung von han], 1〉 <i>verwunden;</i> 2〉 jemand [<ab>A.</ab>] <i>verletzen, beschädigen;</i> 3〉 jemand [<ab>A.</ab>] <i>verletzen, beleidigen,</i> ihm <i>Anstoss</i> oder <i>Missfallen erwecken</i>. <div n='H'>Stamm <b>híṃs:</b> <div n='TS'>-santi 3〉 ná yám 〰 dhītáyas ná vā́ṇīs {475,3}. <div n='H'><ab>Aor.</ab> <b>hiṃsis, hiṃsī:</b> <div n='TS'>-īt 2〉 mā́ nas {947,9}; {991,3}. <div n='TS'>-iṣṭa [<pe>2.</pe> <ab>p.</ab>] 2〉 mā́ nas {841,6} (pitaras). <div n='H'><ab>Part.</ab> <b>híṇsat</b> <div n='P'>enthalten in áhiṃsat. <div n='H'><b>hiṃṣāna</b> (<ab>vgl.</ab> á-hiṃsāna): <div n='TS'>-ām 1〉 didyúm {968,1}. <div n='H'><ab>Part.</ab> <ab>Pass.</ab> <b>hiṃsyámāna</b> <div n='P'>enthalten in áhiṃsyamāna."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "हिंस्",
+            "eid": "4899",
+            "pagenum": 286,
+            "content": "<b>√hiṃs</b>¦ (<b>hinásti</b> [<ls n='wg,696'>696]</ls>; <b>jihíṃsa; áhiṃsīt;</b> <b>hiṃsiṣyáti; hiṃsitá; híṃsitum; hiṃsitvā́;</b> <b>-híṃsya</b>). hurt, harm, slay. [perhaps, <ab>orig.</ab>, <ab>desid.</ab> of <b>√han,</b> see <ls n='wg,696'>696</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "हिंस्",
+            "eid": "43216",
+            "pagenum": 832,
+            "content": "hiMs¦ <i>vt. 1P, 7P, 10U (pp. हिंसित; pres. हिंसति, हिनस्ति, हिंसयति-ते)</i> 1. To strike; 2. to hurt, to harm, to injure; 3. to kill, to slay, to destroy, हिनस्मींद्रस्य विक्रमम् <ls>Bt.</ls>vi.38, xv.78, <ls>R.</ls>viii.45."
+        }
     ]
 }

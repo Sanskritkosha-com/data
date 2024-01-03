@@ -52,5 +52,91 @@
             "pagenum": 181,
             "content": "कृति¦ <i>kṛti</i> <ab>f.</ab> <i>(kṛ</i> 8) action; ouvrage; tàche; <lbinfo n='4'/> || poëme. -- <i>(kṛ</i> 5) coup, blessure.  <P><i>kṛtikara</i> <ab>m.</ab> surnom de <s1 slp1='rAvaRa'>Rāvaṇa</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "कृति",
+            "eid": "8311",
+            "pagenum": 130,
+            "content": "1 कृ/ति¦ <lex>f.</lex> doing, action, production, work."
+        },
+        {
+            "word": "कृति",
+            "eid": "8312",
+            "pagenum": 130,
+            "content": "2 कृति/¦ <lex>m.</lex> or <lex>f.</lex> a <ab>cert.</ab> weapon."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कृति",
+            "eid": "5289",
+            "pagenum": 90,
+            "content": "1. कृ/ति¦ <i>f.</i> das Thun, die That, das Werk."
+        },
+        {
+            "word": "कृति",
+            "eid": "5290",
+            "pagenum": 90,
+            "content": "2. कृति/¦ eine best. Waffe."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कृति",
+            "eid": "2658",
+            "pagenum": 346,
+            "content": "<b>(kṛ́ti),</b>¦ <ab>f.</ab>, das <i>Thun,</i> enthalten in bráhmakṛti <ab>u. s. w.</ab>"
+        },
+        {
+            "word": "कृति",
+            "eid": "2659",
+            "pagenum": 347,
+            "content": "<b>kṛtí,</b>¦ <ab>m.</ab> oder <ab>f.</ab>, <i>Dolch, Schlachtmesser</i> [von <hom>1.</hom> kṛt], eine Waffe der Marutʼs. <div n='TS'>-ís {168,3}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कृति",
+            "eid": "2859",
+            "pagenum": 162,
+            "content": "<i>kṛti</i>¦ (<i>IE</i> 7-1-2), ‘twenty’; cf. <i>kṛtin,</i> ‘twentytwo’. <div n='P'>(<i>Ep. Ind.,</i> Vol. XIV, p. 98), a composition or performance."
+        }
+    ],
+    "INM": [
+        {
+            "word": "कृति",
+            "eid": "5963",
+            "pagenum": 429,
+            "content": "<b>Kṛti</b><sup>1</sup>,¦ an ancient king(?). § 267 (Yamasabhāv.): II, <b>8</b>, 320 (in the palace of Yama)."
+        },
+        {
+            "word": "कृति",
+            "eid": "5964",
+            "pagenum": 429,
+            "content": "<b>Kṛti</b><sup>2</sup>,¦ a Viśvadeva. § 749 (Ānuśāsanik.): XIII, <b>91</b>, 4360."
+        },
+        {
+            "word": "कृति",
+            "eid": "5965",
+            "pagenum": 429,
+            "content": "<b>Kṛti</b><sup>3</sup>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कृति",
+            "eid": "1186",
+            "pagenum": 144,
+            "content": "<b>kṛ́ti,</b>¦ <i><ab>f.</ab></i> <div n='2'/><b>—1.</b> the doing, the production; <div n='2'/><b>—2.</b> a production, literary work. [<b>√1kṛ.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कृति",
+            "eid": "10180",
+            "pagenum": 204,
+            "content": "kfti¦ <i>f.</i> 1. Doing, manufacturing; 2. action; 3. creation, work, composition, श्रीश्रीहर्षकवेः कृतिः कृतिमुदे तस्याभ्युदीयादियम् <ls>Na.</ls>xxii.155, <ls>R.</ls>xv.33, 64, 69; 4. magic, enchantment; 5. injuring, killing; 6. the number ‘20’."
+        }
     ]
 }

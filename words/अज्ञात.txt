@@ -15,5 +15,45 @@
             "pagenum": 12,
             "content": "अज्ञात¦ <i>ajñāta</i> <ab>pp.</ab> <ab>nég.</ab> de <i>jñā:</i> inconnu.  <P><i>ajñātavāsa</i> <ab>a.</ab> <i>(vas)</i> qui a une habitation inconnue. -- <ab>S.</ab> <ab>m.</ab> habitation inconnue."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अज्ञात",
+            "eid": "431",
+            "pagenum": 7,
+            "content": "अ/ज्ञात¦ <lex>a.</lex> unknown; <lex>n.</lex> <ab>adv.</ab> without the knowledge of (<ab>gen.</ab>)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अज्ञात",
+            "eid": "288",
+            "pagenum": 5,
+            "content": "अ/ज्ञात¦ unbekannt, ungekannt; <i>n. adv.</i> ohne Wissen des — <i>(Gen)</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अज्ञात",
+            "eid": "198",
+            "pagenum": 22,
+            "content": "<b>á-jñāta,</b>¦ <ab>a.</ab>, <i>un-bekannt</i> (jñāta von jñā). <div n='TS'>-ās [<ab>m.</ab>]. vṛjánās {548,27}. <div n='TS'>-eṣu: vṛjáneṣu {853,4}. <div n='TS'>-ās [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>]. uṣásas {319,7}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अज्ञात",
+            "eid": "954",
+            "pagenum": 27,
+            "content": "अज्ञात¦ Tatpur. m. f. n. (-तः-ता-तम्) Unknown. E. अ neg. and ज्ञात."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अज्ञात",
+            "eid": "83",
+            "pagenum": 113,
+            "content": "<b>á-jñāta,</b>¦ <i><ab>a.</ab></i> unknown. [<b>√jñā:</b> <ab>cf.</ab> <lang n='greek'>ἄ-γνωτος</lang>, <ab>Lat.</ab> <i>i-gnotus,</i> <ab>Eng.</ab> <i>un-couth,</i> ‘unknown.’]"
+        }
     ]
 }

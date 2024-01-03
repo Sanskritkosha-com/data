@@ -7,5 +7,55 @@
             "pagenum": 506,
             "content": "जनित्वः¦ A father. --त्वा A mother. --त्वौ (<i>dual</i>) Parents."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जनित्व",
+            "eid": "10995",
+            "pagenum": 181,
+            "content": "1 ज/नित्व¦ <lex>a.</lex> to be born or produced."
+        },
+        {
+            "word": "जनित्व",
+            "eid": "10996",
+            "pagenum": 181,
+            "content": "2 जनित्व/¦ <lex>n.</lex> the state of a wife."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जनित्व",
+            "eid": "7410",
+            "pagenum": 132,
+            "content": "1. ज/नित्व¦ nasciturus."
+        },
+        {
+            "word": "जनित्व",
+            "eid": "7411",
+            "pagenum": 132,
+            "content": "2. जनित्व/¦ <i>n.</i> Ehestand <i>(auch</i> °त्वन/."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जनित्व",
+            "eid": "3405",
+            "pagenum": 475,
+            "content": "<b>jánitva,</b>¦ <ab>a.</ab>, <ab n='siehe'>s.</ab> jan."
+        },
+        {
+            "word": "जनित्व",
+            "eid": "3406",
+            "pagenum": 475,
+            "content": "<b>janitvá,</b>¦ <ab>n.</ab>, <i>Ehestand</i> [von jáni]. <div n='TS'>-ám pátyus {844,8}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "जनित्व",
+            "eid": "1572",
+            "pagenum": 158,
+            "content": "<b>janitvá,</b>¦ <i><ab>n.</ab></i> wifehood. [<b>jani.</b>]"
+        }
     ]
 }

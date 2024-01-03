@@ -44,5 +44,71 @@
             "pagenum": 320,
             "content": "दिन¦ <i>dina</i> <ab>m.</ab> <ab>n.</ab> (pour <i>divana, div)</i> jour.  <P><i>dinakara</i> <ab>m.</ab> <i>(kṛ)</i> le Soleil.  <P><i>dinakarātmajā</i> <ab>f.</ab> <i>(ātmaja)</i> la <s1 slp1='yamunA'>Yamunā</s1> fille du Soleil.  <P><i>dinakeśara</i> <ab>m.</ab> obscurité.  <P><i>dinaduḥkhita</i> <ab>m.</ab> l'oie rougeâtre ou anas casarca.  <P><i>dinapraṇī</i> <ab>m.</ab> <i>(pra; nī)</i> celui qui marche à la tête du jour, <ab>c-à-d.</ab> le Soleil.  <P><i>dinamaṇi</i> <ab>m.</ab> le Soleil [joyau du jour].  <P><i>dinamūrdhan</i> <ab>m.</ab> la face du jour. || La montagne orientale où lève le Soleil.  <P><i>dinādi</i> <ab>m.</ab> <i>(ādi)</i> l'aurore.  <P><i>dinānta</i> <ab>m.</ab> <i>(anta)</i> le soir.  <P><i>dināntaka</i> <ab>m.</ab> la nuit [qui met fin au jour].  <P><i>dināvasāna</i> <ab>n.</ab> <i>(avasāna)</i> le soir, la chute du jour."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दिन",
+            "eid": "13681",
+            "pagenum": 225,
+            "content": "1 दिन/¦ <ab>v.</ab> 3 दा."
+        },
+        {
+            "word": "दिन",
+            "eid": "13682",
+            "pagenum": 225,
+            "content": "2 दि/न¦ <lex>n.</lex> day."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दिन",
+            "eid": "9717",
+            "pagenum": 173,
+            "content": "1. दिन/¦ <i>s.</i> 3. दा."
+        },
+        {
+            "word": "दिन",
+            "eid": "9718",
+            "pagenum": 173,
+            "content": "2. दि/न¦ <i>n.</i> Tag."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दिन",
+            "eid": "4225",
+            "pagenum": 600,
+            "content": "<b>diná,</b>¦ <ab>Part.</ab> von <hom>2.</hom> dā und <hom>3.</hom> dā."
+        },
+        {
+            "word": "दिन",
+            "eid": "4226",
+            "pagenum": 600,
+            "content": "<b>(dína),</b>¦ <ab>n.</ab>, <i>Tag</i> [von div 2], enthalten in madhyáṃdina <ab>u. s. w.</ab>"
+        }
+    ],
+    "IEG": [
+        {
+            "word": "दिन",
+            "eid": "1668",
+            "pagenum": 97,
+            "content": "<i>dina</i>¦ (CII 3), a day; used to denote the solar, or more properly civil, day. See also <i>di</i> and <i>divasa.</i> <div n='P'>(<i>IE</i> 7-1-2), ‘fifteen’."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दिन",
+            "eid": "1945",
+            "pagenum": 169,
+            "content": "<b>dína,</b>¦ <div n='2'/><b>—1.</b> <i>perhaps <ab>adj.</ab></i> clear, <i>in</i> <b>su-dína;</b> <div n='2'/><b>—2.</b> <i>as <ab>n.</ab></i> day. [perhaps <ab>ppl.</ab> of <b>√dī</b> or <b>di,</b> ‘shine,’ <ab>w.</ab> shifted <ab>acct.</ab>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दिन",
+            "eid": "16834",
+            "pagenum": 331,
+            "content": "dina¦ <i>m.n.</i> 1. A day (comprising also the night), व्यतीयुस्त्रिगुणानि तस्य् दिनानि दीनोद्धरणोचितस्य <ls>R.</ls>ii.25, iii.8; 2. day (as op. to रात्रि), दिनांते निलयाय गंतुम् <ls>R.</ls>ii.15."
+        }
     ]
 }

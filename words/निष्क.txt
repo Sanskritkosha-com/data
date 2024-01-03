@@ -52,5 +52,57 @@
             "pagenum": 374,
             "content": "निष्क¦ <i>niṣka</i> <ab>m.</ab> <ab>n.</ab> poids d'or [d'une grandeur variable]. || Or, en <ab>gén.</ab> || Ornement <lbinfo n='4'/> de cou et de poitrine."
         }
+    ],
+    "CAE": [
+        {
+            "word": "निष्क",
+            "eid": "17019",
+            "pagenum": 279,
+            "content": "निष्क/¦ <lex>m.</lex> (<lex>n.</lex>) a golden ornament for breast or neck (<ab>p.</ab> निष्कि/न्); <lex>a.</lex> <ab>cert.</ab> coin."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "निष्क",
+            "eid": "12553",
+            "pagenum": 221,
+            "content": "निष्क/¦ <i>m. (n.)</i> goldener <i>o.</i> silberner Hals<i>o.</i> Brustschmuck; <i>auch</i> eine best. Münze."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "निष्क",
+            "eid": "5035",
+            "pagenum": 735,
+            "content": "<b>niṣká,</b>¦ <ab>m.</ab>, 1〉 <i>goldener Halsschmuck;</i> 2〉 ein solcher als Geldstück benutzt. <div n='TS'>-ám 1〉 {224,10}; {667,15}. <div n='TS'>-ā́m 2〉 śatám {126,2}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "निष्क",
+            "eid": "3831",
+            "pagenum": 219,
+            "content": "<i>niṣka</i>¦ (IE 8-8; EI 15, 27, 30), name of a gold coin; name sometimes applied to <i>śatamāna, śāna, ṭaṅka, gaṇḍa-māḍa,</i> etc.; cf. <i>gaṇḍa-niṣka,</i> also called <i>gaṇḍa-māḍa.</i> See <i>JNSI,</i> Vol. XVI, pp. 41 ff. <div n='P'>(<i>IE</i> 8-8), a gold coin equal to sixteen silver <i>drammas.</i> <div n='P'>(<i>EI</i> 5), a coin equal to a half-pagoda. <div n='P'>(<i>JNSI,</i> Vol. XV, p. 139), a silver coin equal to one <i>śata-</i> <i>māna.</i>"
+        },
+        {
+            "word": "निष्क",
+            "eid": "7745",
+            "pagenum": 436,
+            "content": "<i>niṣka,</i>¦ gold coin or weight equal to one <i>karṣa</i> (80 <i>ratis</i> or about 146 grains) of 16 <i>māṣas</i> or to 4 or 108 or 150 <i>suvarṇas</i> (q. v.); silver coin equal to one <i>śatamāna</i> (320 <i>ratis</i>); sometimes identified with <i>māḍa</i> (q. v.)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "निष्क",
+            "eid": "20075",
+            "pagenum": 392,
+            "content": "nizka¦ <i>(I) m.n.</i> 1. A golden coin equal to one <i>karsha</i> of gold; 2. a measure of gold equal to 108 <i>suvarṇas</i> (q.v.); 3. a golden ornament for the breast; 4. gold in general."
+        },
+        {
+            "word": "निष्क",
+            "eid": "20076",
+            "pagenum": 392,
+            "content": "nizka¦ <i>(II) m.</i> A <i>Chaṇḍāla</i>."
+        }
     ]
 }

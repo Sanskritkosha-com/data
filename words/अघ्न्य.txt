@@ -7,5 +7,75 @@
             "pagenum": 16,
             "content": "अघ्न्य¦ <i><ab>a.</ab></i> Not to be killed. --घ्न्यः [न हंति सृष्टिकर्तृत्वात् न हन्-यक् निपातः <ls>Tv.</ls>] <b>1</b> Brahmā (अघ्न्यः प्रजापतिः  <lbinfo n='ls:Uṇ.+ 4. 111.'/> <ls>Uṇ. 4. 111.</ls>) <b>--2</b> A Bull. --घ्न्या [न <lbinfo n='hanya#te'/> हन्यते स्त्रीहत्यायाः निषिद्धत्वात्] A cow."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अघ्न्य",
+            "eid": "286",
+            "pagenum": 5,
+            "content": "अ/घ्न्य¦ <lex>m.</lex>  bull, <lex>f.</lex> आ cow (<ab>lit.</ab> not to be slain)."
+        },
+        {
+            "word": "अघ्न्य",
+            "eid": "287",
+            "pagenum": 5,
+            "content": "अघ्न्य/¦ <lex>m.</lex> bull, <lex>f.</lex> आ cow (<ab>lit.</ab> not to be slain)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अघ्न्य",
+            "eid": "189",
+            "pagenum": 3,
+            "content": "अ/घ्न्य¦ <i>u.</i> अध्न्य^ Stier; <i>f.</i> आ Kuh."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अघ्न्य",
+            "eid": "122",
+            "pagenum": 12,
+            "content": "<b>(ághnya),</b> <b>á-ghnia,</b>¦ <ab>m.</ab>, der <i>Stier,</i> in der Regel <ab>f.</ab>, die <i>Kuh,</i> als die nicht zu verletzenden (han). <div n='TS'>-am {37,5}. <div n='TS'>-ā [<ab>N.</ab> <ab>s.</ab> <ab>f.</ab>] {711,19}. <div n='TS'>-e [<ab>V.</ab> <ab>s.</ab> <ab>f.</ab>] {164,40}. <div n='TS'>-āyās {297,6}; {805,3}; {872,3}. <div n='TS'>-ās [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] {684,8}; {713,9}<chg type='del' n='2' src='gra'><old>; {792,2}</old></chg>. <div n='TS'>-ānām [<ab>f.</ab>] {928,7} pátim. <div n='TS'>-ānaam [<ab>f.</ab>] {678,2} pátim vas 〰 dhenūnáam."
+        },
+        {
+            "word": "अघ्न्य",
+            "eid": "123",
+            "pagenum": 12,
+            "content": "<b>aghnyá,</b> <b>aghniá,</b>¦ <ab>m.</ab>, <i>Stier,</i> <ab>f.</ab>, <i>Kuh</i> (dem vorigen gleichbedeutend). [Page13] <div n='TS'>-iásya {30,19} mūrdháni. <div n='TS'>-iaú {267,13}. <div n='TS'>-iā́ [<ab>f.</ab>] {164,27}; {584,9}; {886,11}. <div n='TS'>-iā́m {584,8}. <div n='TS'>-yā́yās {913,16}. <div n='TS'>-iā́bhyas {437,8}."
+        },
+        {
+            "word": "अघ्न्य",
+            "eid": "11274",
+            "pagenum": 1747,
+            "content": "12,6.b <ab>v. u.</ab>: {792,2} <info vn='del 2 gra'/>"
+        },
+        {
+            "word": "अघ्न्य",
+            "eid": "12014",
+            "pagenum": 1749,
+            "content": "(<b>ághnya</b>):¦<info vn='add 13a gra'/> <div n='TS'>-ā {603,4}."
+        },
+        {
+            "word": "अघ्न्य",
+            "eid": "12015",
+            "pagenum": 1749,
+            "content": "<b>aghnyá:</b>¦<info vn='add 14 gra'/> <div n='TS'>-iā́s [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] {792,2}."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अघ्न्य",
+            "eid": "582",
+            "pagenum": 16,
+            "content": "अघ्न्य¦ Tatpur. I. m. (-घ्न्यः) A name of Brahmā. <div n='P'>II. f. (-घ्न्या) A cow. E. अ and हन्, uṇ. aff. यक् (अघ्न्य literally: not to be slain, inviolable)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अघ्न्य",
+            "eid": "51",
+            "pagenum": 112,
+            "content": "<b>á-ghnya,</b>¦ <i><ab>m.</ab></i> bull (the animal that is ‘hard to overcome,’ or more exactly, ‘not to be slain’)."
+        }
     ]
 }

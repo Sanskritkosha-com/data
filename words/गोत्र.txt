@@ -74,5 +74,59 @@
             "pagenum": 223,
             "content": "गोत्र¦ <i>gotra</i> <ab>m.</ab> <i>(go; trā)</i> montagne. -- <ab>S.</ab> <ab>f.</ab> <i>gotrā</i> terre; troupeau de vaches. -- <ab>S.</ab> <ab>n.</ab> champ; forêt; route; richesses. || Famille, race, lignée; || genre; espèce; || nom, appellation. <lbinfo n='10'/> || Connaissance inspirée de l'avenir. <lbinfo n='6'/> || Parasol.  <P><i>gotraja</i> <ab>m.</ab> <i>(jan)</i> parent [issu d'un ancêtre commun, par <ab>oppos.</ab> à <i>bandhu</i> parent par alliance]. <lbinfo n='8'/>  <P><i>gotrabhid</i> <ab>m.</ab> <ab>surn.</ab> d'<s1 slp1='indra'>Indra</s1>, qui brise les montagnes [ou les nuages, <ab>cf.</ab> <i>giri</i>] avec sa foudre."
         }
+    ],
+    "CAE": [
+        {
+            "word": "गोत्र",
+            "eid": "9742",
+            "pagenum": 157,
+            "content": "गोत्र/¦ <lex>n.</lex> cow-stall (<lex>m.</lex>); race, family; family name, name <ab>i.g.</ab>; a grandson & <ab>cert.</ab> further descendants, also a patron suffix (g.)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "गोत्र",
+            "eid": "6405",
+            "pagenum": 112,
+            "content": "गोत्र/¦ <i>n. (m.)</i> Kuhstall; Geschlecht, Geschlechtsname, <lbinfo n='14'/> Personenname; Enkel und best. spätere Nachkommen <i>(g.)</i>, patronymisches Suffix <i>(g).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "गोत्र",
+            "eid": "3045",
+            "pagenum": 411,
+            "content": "<b>gotrá,</b>¦ <ab>n.</ab>, <i>Kuhstall, Kuhhürde</i> [von gó], auch 2〉 in der Verbindung gotrám gávām. <div n='TS'>-ám {51,3}; {798,23}; {1019,10}. — 2〉 {214,18}. <div n='TS'>-ásya dāváne {672,5}; kṣayati {946,8}. <div n='TS'>-ā́ {208,1}; {264,21}; {277,7}; {312,8}; {874,2}. — 2〉 {506,5}. <div n='TS'>-ā́ṇi {273,4}; {929,7}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "गोत्र",
+            "eid": "2048",
+            "pagenum": 119,
+            "content": "<i>gotra</i>¦ (CII 3; IA 19; CITD), a family or clan, a tribe or lineage; a caste. No Hindu can marry a girl of his own <i>gotra</i> or stock, though some forms of ancient Indian marriages did not involve the <i>gotr-āntara,</i> i. e. the change of the wife's <i>gotra</i> to that of the husband at the time of marriage (<i>Proc. IHC,</i> Annamalainagar, 1945, pp. 48 ff.). Cf. <i>Gautamī-putra,</i> etc. <div n='P'>(<i>EI</i> 33), abbreviation of <i>gotra-śailikā,</i> a memorial pillar raised for the dead members of one's family."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "गोत्र",
+            "eid": "1401",
+            "pagenum": 151,
+            "content": "<b>gotrá,</b>¦ <i><ab>n.</ab></i> <div n='2'/><b>—1.</b> cow-stall, cattle-pen; <div n='2'/><b>—2.</b> <i>perhaps,</i> pen of cattle, <i>and so</i> <div n='2'/><b>—3.</b> group <i>in general</i> (<i>see</i> go 4); <div n='2'/><b>—4.</b> <i><ab>esp.</ab></i> family, <ls n='lan,19,16'>19<sup>16</sup></ls>; <div n='2'/><b>—5.</b> family name, <ls n='lan,103,19'>103<sup>19</sup></ls>, <i>see</i> <b>nāman 2.</b> [from go: <ab>mgs</ab> 2 and 3 are not authenticated  <lbinfo n='authenti-cated'/> by the literature.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "गोत्र",
+            "eid": "12518",
+            "pagenum": 250,
+            "content": "go-tra¦ <i>(I) n.</i> 1. a cowpen; 2. family, race, lineage, <ls>M.</ls>iii.109, ix.141; 3. a name, an appellation, गोत्रविस्खलितमूचुरंगनाः <ls>R.</ls>xix.24, मद्गोत्रांकं विरचितपदं गेयमुद्गातुकामा <ls>Megh.</ls>ii.23); 4. a multitude; 5. increase; 6. a forest; 7. a field; 8. a road; 9. wealth; 10. an umbrella, a parasol; 11. knowledge of futurity; 12. a genus, a class."
+        },
+        {
+            "word": "गोत्र",
+            "eid": "12519",
+            "pagenum": 250,
+            "content": "go-tra¦ <i>(II) m.</i> a mountain."
+        }
     ]
 }

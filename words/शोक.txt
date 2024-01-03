@@ -55,5 +55,57 @@
             "pagenum": 657,
             "content": "शोक¦ <i>śoka</i> <ab>m.</ab> <i>(śuc)</i> chagrin.  <P><i>śokāri</i> <ab>m.</ab> <i>(ari)</i> nauclea cadamba, <ab>bot.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "शोक",
+            "eid": "33108",
+            "pagenum": 556,
+            "content": "1 शोक/¦ <lex>a.</lex> glowing."
+        },
+        {
+            "word": "शोक",
+            "eid": "33109",
+            "pagenum": 556,
+            "content": "2 शो/क¦ <lex>m.</lex> heat, flame; pain, distress, sorrow, grief at (<ab>gen.</ab> or —°)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शोक",
+            "eid": "25028",
+            "pagenum": 451,
+            "content": "1. शोक/¦ glühend."
+        },
+        {
+            "word": "शोक",
+            "eid": "25029",
+            "pagenum": 451,
+            "content": "2. शो/क¦ <i>m.</i> Glut, Flamme, Schmerz, Kummer. <lbinfo n='4'/> शोकतस् <i>Adv.</i> aus Kummer."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "शोक",
+            "eid": "8914",
+            "pagenum": 1413,
+            "content": "<b>śóka,</b>¦ <ab>m.</ab>, <i>Licht, Flamme</i> (des Feuers) [von śuc]; 2〉 in der spätern Bedeutung <i>Leiden,</i> welche aus der der brennenden Flamme (<ab>vgl.</ab> {929,12}) sich entwickelt, kommt es nur in einem Liede (125) vor, welches sich dadurch als ein späteres erweist. — <ab>Vgl.</ab> arka-śoká, tri-, su-śóka. <div n='TS'>-as agnés {229,5}. <div n='TS'>-am agnís ví ásṛṣṭa 〰 {857,9}. <div n='TS'>-ās asya (agnés) {302,5}. — 2〉 ápṛṇantam abhí sám yantu 〰 {125,7}. <div n='TS'>-ais nís daha hṛtsú 〰 {929,12}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "शोक",
+            "eid": "4255",
+            "pagenum": 260,
+            "content": "<b>śóka,</b>¦ <i><ab>m.</ab></i> pain, grief. [<b>√śuc,</b> <ls n='wg,216'>216.</ls> 1.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शोक",
+            "eid": "38321",
+            "pagenum": 728,
+            "content": "Soka¦ <i>m.</i> Sorrow, grief, anguish, affliction, lamentation, <ls>R.</ls>xii.97, <ls>Bg.</ls>i.46, <ls>Rt.</ls>vi.17."
+        }
     ]
 }

@@ -52,5 +52,51 @@
             "pagenum": 664,
             "content": "श्वसन¦ <i>śvasana</i> <ab>n.</ab> (<ab>sfx.</ab> <i>ana)</i> respiration; || soupir; || souffle. -- <ab>M.</ab> vent. || Vangueria <lbinfo n='3'/> spinosa, <ab>bot.</ab>  <P><i>śvasanāśana</i> <ab>m.</ab> <i>(aś;</i> <ab>sfx.</ab> <i>ana)</i> serpent.  <P><i>śvasaneśvara</i> <ab>m.</ab> <i>(īśvara)</i> pentaptera <s1 slp1='arjuna'>arjuna</s1>, <lbinfo n='5'/> <ab>bot.</ab>  <P><i>śvasanotsuka</i> <ab>m.</ab> <i>(utsaka)</i> serpent."
         }
+    ],
+    "CAE": [
+        {
+            "word": "श्वसन",
+            "eid": "33557",
+            "pagenum": 564,
+            "content": "श्वसन/¦ <lex>a.</lex> blowing, hissing, snorting, breathing deep. <lex>m.</lex> wind or the god of wind; <lex>n.</lex> hissing (of a serpent), breathing, <ab>esp.</ab> deep breath, sigh."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "श्वसन",
+            "eid": "25338",
+            "pagenum": 458,
+            "content": "श्वसन/¦ blasend, zischend, schnaufend. <i>m.</i> Wind <i>o.</i> Windgott. <i>n.</i> das Zischen, (heftiges) Atmen, Seufzen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "श्वसन",
+            "eid": "9033",
+            "pagenum": 1434,
+            "content": "<b>śvasaná,</b>¦ <ab>a.</ab>, <i>schnaufend</i> [von śvas]. <div n='TS'>-ásya śúṣṇasya {54,5}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "श्वसन",
+            "eid": "2866",
+            "pagenum": 222,
+            "content": "<b>*Śvasana</b>¦ = Vāyu (the Wind): I, 1489, 2583 (son of Śvāsā); III, 770; VIII, 1511."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "श्वसन",
+            "eid": "38758",
+            "pagenum": 736,
+            "content": "Svasana¦ <i>(I) m.</i> 1. Air, wind, श्वसनचलितपल्लवाधरोष्ठे <ls>Kir.</ls>x.34, <ls>Sis.</ls>xi.21; 2. name of a demon vanquished by Indra."
+        },
+        {
+            "word": "श्वसन",
+            "eid": "38759",
+            "pagenum": 736,
+            "content": "Svasana¦ <i>(II) n.</i> 1. Breathing, respiration, <ls>Sis.</ls>ix.52; 2. sighing."
+        }
     ]
 }

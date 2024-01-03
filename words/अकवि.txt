@@ -7,5 +7,29 @@
             "pagenum": 3,
             "content": "अकवि¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Unwise, foolish."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अकवि",
+            "eid": "50",
+            "pagenum": 1,
+            "content": "अ/कवि¦ <lex>a.</lex> unwise."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अकवि",
+            "eid": "33",
+            "pagenum": 1,
+            "content": "अ/कवि¦ nicht weise."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अकवि",
+            "eid": "23",
+            "pagenum": 4,
+            "content": "<b>á-kavi,</b>¦ <ab>a.</ab>, <i>nicht weise,</i> Gegensatz kaví. <div n='TS'>-iṣu {520,4}."
+        }
     ]
 }

@@ -31,5 +31,51 @@
             "pagenum": 295,
             "content": "*तुद्¦ <i>tud.</i> <i>tudāmi, tude</i> 6; <ab>p.</ab> <i>tutoda,</i> <i>tutude;</i> <ab>f2.</ab> <i>totsyāmi, totsye;</i> <ab>a1.</ab> <i>atautsam, atutsi;</i> <ab>ger.</ab> <i>tuttvā;</i> <ab>pp.</ab> <i>tunna.</i> Battre, frapper: <lbinfo n='4'/> <i>ayas</i> le fer, <i>aśvam</i> un cheval, <i>arim</i> un ennemi. || <ab>Lat.</ab> tundo."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तुद्",
+            "eid": "12440",
+            "pagenum": 205,
+            "content": "तुद्¦ तुद/ति <vlex type='root'/> (तुद/°ते), <ab>pp.</ab> तुन्न/ strike, push, prick; pound, crush, <ab>C.</ab> तोदयति goad, prick. <div n='p'>— आ goad, urge on. <div n='p'>नि pierce, penetrate. <div n='p'>प्र strike at, prick at; <ab>C.</ab> urge, impel. <div n='p'>वि pierce, strike, tear."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तुद्",
+            "eid": "8669",
+            "pagenum": 155,
+            "content": "तुद्¦ तुद/ति (°ते) stoßen, stacheln, stechen; <i>p.p.</i> तुन्न/. <i>Caus.</i> तोदयति stacheln."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तुद्",
+            "eid": "3790",
+            "pagenum": 540,
+            "content": "<b>√tud</b>¦ [ursprünglich *stud, <ls>Cu. 〔248〕</ls>], <i>stossen,</i> namentlich 1〉 <i>anstacheln</i> oder <i>peitschen</i> (Rosse <ab>u. s. w.</ab>); 2〉 <i>zerstossen</i> (die Presssteine den Soma). <div n='Pf'>Mit <b>ā́</b>, <i>stossen, mit einem Stosse herniederfahren</i> auf [<ab>D.</ab>], von Raubvögeln; 2〉 <i>anstossen</i> [<ab>A.</ab>]. <div n='Pf'><b>ní,</b> <ab>me.</ab>, <i>sich einbohren, hineindringen,</i> <ab>vgl.</ab> nitodín. <div n='Pf'><b>ví,</b> <i>zerstechen</i>. <div n='H'>Stamm I. <b>tudá:</b> <div n='TS'>-át 1〉 étaśam {621,11} (sū́ras); bildlich áhim (vájram) {922,4}. <div n='TS'>-a <b>ví</b> {494,6} (ā́rayā). <div n='H'>Stamm II. <b>tunda:</b> <div n='TS'>-ate [<pe>3.</pe> <ab>s.</ab> <ab>me.</ab>] <b>ní</b> {58,1} (agnís). <div n='H'><ab>Part.</ab> stark <b>tutód:</b> <div n='TS'>-da [<pe>3.</pe> <ab>s.</ab>] 1〉 te {162,17} (pā́rṣṇiā vā káśayā vā). — <b>ā</b> 1〉 te {842,6} śakunás. <div n='H'><ab>Part.</ab> <b>tudát</b> [Stamm I.]: <div n='TS'>-ántas <b>ā́</b> 2〉 mātáram {920,14}. <div n='H'><ab>Part.</ab> II. <b>tunná:</b> <div n='TS'>-ás 2〉 grā́vṇā {779,19}. _{779,20} (sómas). <div n='H'>Verbale <b>túd,</b> stechend, <div n='P'>in (vraṇa-tud, <ab n='siehe'>s.</ab> <ls>BR.</ls>)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "तुद्",
+            "eid": "1773",
+            "pagenum": 164,
+            "content": "<b>√tud</b>¦ (<b>tudáti; tutóda; tunná</b>). strike; push. [<ab>cf.</ab> <lang n='greek'>Τῡδεύς</lang>, ‘The Hammer, Martel’; <ab>Lat.</ab> <i>tundo, tu-tud-i,</i> ‘strike, struck’; <ab>Goth.</ab> <i>stautan,</i> <ab>Ger.</ab> <i>stossen,</i> ‘strike.’] <div n='p'/><b>+ ā,</b> strike at, pick at."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "तुद्",
+            "eid": "15712",
+            "pagenum": 312,
+            "content": "tud¦ <i>vt. 6U (pp. तुत्र; pres. तुदति)</i> 1. To strike, to wound, तुतोद गदया चारिम् <ls>Bt.</ls>xiv.81, xv.37; 2. to vex, to torment, to pain, मानसं कामिनीनां तुदति कुसुमबाणो मन्मथोद्दीपनाय <ls>Rt.</ls>vi.28.<P>With प्र-, to strike, to wound."
+        },
+        {
+            "word": "तुद्",
+            "eid": "15713",
+            "pagenum": 312,
+            "content": "tud¦ <i>Caus. (तोदयति-ते)</i> <P>With प्र-, to press, to request repeatedly, प्रविश गृहमिति प्रतोद्यमाना न चलति भाग्यकृतां दशां विलोक्य <ls>Mrich.</ls>i."
+        }
     ]
 }

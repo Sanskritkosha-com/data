@@ -110,5 +110,77 @@
             "pagenum": 142,
             "content": "कर¦ <i>kara</i> <i>(kṛ)</i> à la fin des composés, exprime <lbinfo n='5'/> l'agent de la chose énoncée par l'autre partie du mot: <i>bhayaṅkara,</i> <i>niśākara,</i> <ab>etc.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कर",
+            "eid": "7080",
+            "pagenum": 110,
+            "content": "1 कर/¦ <lex>f.</lex> ई (आ) making, doing, causing, producing (mostly —°); <lex>m.</lex> the hand (<ab>lit.</ab> maker); an elephant's trunk."
+        },
+        {
+            "word": "कर",
+            "eid": "7081",
+            "pagenum": 110,
+            "content": "2 कर¦ <lex>m.</lex> ray of light, sun-beam; revenue, tax, tribute."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कर",
+            "eid": "4394",
+            "pagenum": 74,
+            "content": "1. कर¦ <i>f.</i> ई (आ) thuend, machend, bewirkend <lbinfo n='7'/> <i>(meist</i> —°) <i>m.</i> Hand <i>(eig.</i> Macher), Rüssel."
+        },
+        {
+            "word": "कर",
+            "eid": "4395",
+            "pagenum": 74,
+            "content": "2. कर¦ <i>m.</i> Lichtstrah Steuer, Tribut."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कर",
+            "eid": "2437",
+            "pagenum": 314,
+            "content": "<b>kará,</b>¦ <ab>a.</ab>, 1〉 <i>machend, wirkend, thätig</i> [von kṛ]; 2〉 <ab>m.</ab>, die <i>Hand</i> (als die thätige). <div n='TS'>-éṇa 2〉 {893,6}. <div n='TS'>-ā́ [<ab>d.</ab>] 1〉 (aśvínā) {116,13}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कर",
+            "eid": "2558",
+            "pagenum": 144,
+            "content": "<i>kara</i>¦ (IE 8-5), explained by a commentator as ‘the dues (<i>bhāga</i>) to be realised by the king for the enjoyment of royal land by using it for cultivation and for grazing cattle’; tax in general. <div n='P'>(<i>IE</i> 8-5) rent or tax to be paid in grains when mentioned side by side with <i>hiraṇya.</i> <div n='P'>(<i>HRS</i>), tax in general, according to the lexicons; according to the <i>Arthaśāstra,</i> (1) periodical tax over and above the king's customary grain-share; (2) emergency tax levied upon the villagers over and above the normal grain-share; (3) tax upon merchants' profits. <div n='P'>(<i>EI</i> 29; Chamba; CITD), a tax or impost; royal revenue; rent, dues; toll, tribute. <div n='P'>(<i>IE</i> 7-1-2), ‘two’."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कर",
+            "eid": "1043",
+            "pagenum": 139,
+            "content": "<b>1kará,</b>¦ <div n='2'/><b>—1.</b> <i><ab>a.</ab></i> doing; making <i>or</i> causing <i>or</i> producing, <i>at end of many <ab>cpds</ab>;</i> <div n='2'/><b>—2.</b> <i>as</i> <i><ab>m.</ab></i> the hand (<i><ab>lit.</ab></i> the busy one); <div n='2'/><b>—3.</b> <i>as <ab>m.</ab></i> <i>nomen actionis,</i> the doing, performance, <i>in</i> <b>duṣkara, sukara.</b> [<b>√1kṛ:</b> <ab>cf.</ab> <ab>Lat.</ab> <i>cerus,</i> ‘creator.’]"
+        },
+        {
+            "word": "कर",
+            "eid": "1044",
+            "pagenum": 139,
+            "content": "<b>2kara,</b>¦ <i><ab>m.</ab></i> ray, beam. [<ab>prob.</ab> same as <b>1kara 2:</b> the rays of the heavenly bodies are conceived as their hands and feet, <ab>cf.</ab> <b>pāda 4.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कर",
+            "eid": "08282",
+            "pagenum": 168,
+            "content": "kara¦ <i>(I) a. (f. रा or री) (generally at the end of compounds)</i> Who or what does or makes or causes, e.g. भयंकर, वृद्धिकर, दुःखकर."
+        },
+        {
+            "word": "कर",
+            "eid": "08283",
+            "pagenum": 168,
+            "content": "kara¦ <i>(II) m.</i> 1. A hand, <ls>M.</ls>v.136, <ls>R.</ls>ii.31, <ls>Megh.</ls>i.41; 2. a ray of light, प्रतिकूलतामुपगते हि विधौ विफलत्वमेति बहुसाधनता । अवलंबनाय दिनभर्तुरभूव पतिष्यतः करसहस्रमपि <ls>Sis.</ls>ix.6 (where the word is used in senses 1 and 2), <ls>Megh.</ls>i.39; 3. the trunk of an elephant, सेकः सीकरिणा करेण विहितः <ls>M.M.</ls>ix.; 4. hail; 5. a tax, a toll, a tribute, (ददौ) अपरांतमहीपालव्याजेन रघवे करम् <ls>R.</ls>iv.58, <ls>M.</ls>vii.128, 129; 6. a particular measure of length equal to 24 thumbs; 7. the constellation called हस्त."
+        }
     ]
 }

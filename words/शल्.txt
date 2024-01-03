@@ -49,5 +49,53 @@
             "pagenum": 640,
             "content": "*शल्¦ <i>śal.</i> <i>śalaye</i> 10; <ab>cf.</ab> <i>śaṭh</i> louer."
         }
+    ],
+    "CAE": [
+        {
+            "word": "शल्",
+            "eid": "32042",
+            "pagenum": 540,
+            "content": "1 शल्¦ शलति <vlex type='root'/> <ab>w.</ab> उद् leap, jump, rise. — Cf. उच्छलन्त्, उच्छलित."
+        },
+        {
+            "word": "शल्",
+            "eid": "32043",
+            "pagenum": 540,
+            "content": "2 श/ल्¦ an exclamation."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "शल्",
+            "eid": "24270",
+            "pagenum": 438,
+            "content": "1. शल्,¦ शलति, <i>nur mit</i> उद् <i>Partic.</i> उच्छलन्त् <i>u.</i> उच्छलित aufgestellt, aufgestiegen, erhoben."
+        },
+        {
+            "word": "शल्",
+            "eid": "24271",
+            "pagenum": 438,
+            "content": "2. श/ल्¦ <i>Interj.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "शल्",
+            "eid": "37255",
+            "pagenum": 711,
+            "content": "Sal¦ <i>(I) vt. 1A (pres. शलते)</i> To shake, to agitate."
+        },
+        {
+            "word": "शल्",
+            "eid": "37256",
+            "pagenum": 711,
+            "content": "Sal¦ <i>(II) vt. 1P (pres. शलति)</i> 1. To go, to move; 2. to run."
+        },
+        {
+            "word": "शल्",
+            "eid": "37257",
+            "pagenum": 711,
+            "content": "Sal¦ <i>(III) vt. 10A (pres. शालयते)</i> To praise."
+        }
     ]
 }

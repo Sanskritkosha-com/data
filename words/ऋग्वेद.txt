@@ -52,5 +52,45 @@
             "pagenum": 120,
             "content": "ऋग्वेद¦ <i>ṛgveda</i> <ab>m.</ab> <i>(ṛc)</i> le <s1 slp1='fgveda'>Ṛg-Veda</s1>, le plus ancien des 4 <s1 slp1='veda'>Veda</s1>s, composé de 1017 hymnes tous en vers ou stances nommées <i>ṛc.</i> <ab>Cf.</ab> <i>veda.</i>  <P><i>ṛgvedasaṃhitā</i> <ab>f.</ab> <i>(sam-dhā)</i> la collection des hymnes du <s1 slp1='fgveda'>Ṛg-Veda</s1>.  <P><i>ṛgyajussāmavedin</i> <ab>a.</ab> <i>(vid)</i> qui connaît le <s1 slp1='fg'>Ṛg</s1>, le <s1 slp1='yajus'>Yajus</s1> et le <s1 slp1='sAma'>Sāma</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "6227",
+            "pagenum": 96,
+            "content": "ऋग्वेद/¦ <lex>m.</lex> the Rigveda (the hymns with or without the Brāhmaṇa and Sūtra works)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "3842",
+            "pagenum": 63,
+            "content": "ऋग्वेद¦ <i>m.</i> der Rigveda <i>(die Ricas mit oder</i> <i>ohne die Commentar-Litter atur).</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "9147",
+            "pagenum": 600,
+            "content": "<b>Ṛgveda</b>.¦ § 270 (Brahmasabhāv.): II, <b>11</b>, 449 (in the palace of Brahmán).—§ 459 (Mārkaṇḍeyas.): III, <b>189</b>, 12963 (springs from Nārāyaṇa).—§ 606 (Tripurākhyāna): VIII, <b>34</b>, 1498 (forerunner of Śiva's chariot).—§ 717<i>b</i> (Nārāyaṇīya): XII, <b>342</b>, 13136 (in <i>Ṛ</i>. the names of Kṛṣṇa are enumerated); <b>343</b>, 13256 (<i>ekaviṃśatisāhasraṃ</i>, identified with Kṛṣṇa); <b>349</b>, III), 13568 (<i>°pāṭhapaṭhitaṃ vrataṃ</i>).— § 736<i>b</i> (Vītahavyop.): XIII, <b>30</b>, 1998 (<i>°e vartate cāgryā</i> <i>śrutir yasya</i>—sc. Gṛtsamada's—<i>mahātmanaḥ</i>).—§ 747<i>b</i> (Suvarṇotpatti): XIII, <b>85</b>ε, 4107 (<i>padakramavibhūsitaḥ</i>). Cf. ṛc, pl."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "908",
+            "pagenum": 135,
+            "content": "<b>ṛg-vedá,</b>¦ <i><ab>m.</ab></i> the Rigveda (each stanza of which is called an <b>ṛc</b> in distinction from a <b>yajus</b> and a <b>sāman</b>)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "07279",
+            "pagenum": 150,
+            "content": "fc-veda¦ <i>m.</i> The oldest of the four Vedas."
+        }
     ]
 }

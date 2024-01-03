@@ -44,5 +44,45 @@
             "pagenum": 77,
             "content": "आमय¦ <i>āmaya</i> <ab>m.</ab> <i>(am)</i> maladie.  <P><i>āmayāmi</i> 10, être malade.  <P><i>āmayāvin</i> <ab>a.</ab> malade."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आमय",
+            "eid": "4410",
+            "pagenum": 64,
+            "content": "†आमय¦ <lex>m.</lex> hurt, disease."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आमय",
+            "eid": "2740",
+            "pagenum": 43,
+            "content": "आमय¦ <i>m.</i> Krankheit."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "आमय",
+            "eid": "1557",
+            "pagenum": 181,
+            "content": "<b>(āmaya),</b>¦ <ab>m.</ab>, <i>Krankheit, Schmerz</i> [von am <ab>Caus.</ab>], enthalten in pṛṣṭi-āmayá."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आमय",
+            "eid": "633",
+            "pagenum": 126,
+            "content": "<b>āmaya,</b>¦ <i><ab>m.</ab></i> injury; disease. [<ab>caus.</ab> of <b>√am.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आमय",
+            "eid": "05240",
+            "pagenum": 104,
+            "content": "Amaya¦ <i>m.</i> Disease, sickness, आमयस्तु रतिरागसम्भवः <ls>R.</ls>xix.48, <ls>Sis.</ls>ii.10."
+        }
     ]
 }

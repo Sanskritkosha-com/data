@@ -62,5 +62,75 @@
             "pagenum": 738,
             "content": "*स्नु¦ <i>snu.</i> <i>snaumi</i> 2; <ab>p.</ab> <i>suṣṇāva;</i> <ab>f2.</ab> <i>snaviṣyāmi;</i> <ab>a1.</ab> <i>asnāviṣam.</i> <b><ab>Ps.</ab></b> réfléchi: <i>snave;</i> <ab>a1.</ab> <i>asnoṣi.</i> || <b><ab>Ps.</ab></b> <ab>impers.</ab> <i>snūyate,</i> <ab>etc.</ab> Couler, dégoutter; <ab>gr.</ab> <lang n='greek'>νάω, νέω</lang>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "स्नु",
+            "eid": "38596",
+            "pagenum": 645,
+            "content": "1 स्नु¦ स्नौति <vlex type='root'/> <ab>pp.</ab> स्नुत distil, drop, flow (<ab>esp.</ab> of the mother's breast or milk). <div n='p'>— प्र = <ab>S.</ab>"
+        },
+        {
+            "word": "स्नु",
+            "eid": "38597",
+            "pagenum": 645,
+            "content": "2 स्नु¦ (—°) <ab>v.</ab> घृतस्नु/."
+        },
+        {
+            "word": "स्नु",
+            "eid": "38598",
+            "pagenum": 645,
+            "content": "3 स्नु/¦ <lex>n.</lex> surface, top ( = सा/नु)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "स्नु",
+            "eid": "28708",
+            "pagenum": 517,
+            "content": "1. स्नु,¦ स्नौति triefen; <i>p. p.</i> स्नुत fließend, triefend. प्र <i>dass.</i>"
+        },
+        {
+            "word": "स्नु",
+            "eid": "28709",
+            "pagenum": 517,
+            "content": "2. स्नु/¦ <i>n.</i> Gipfel, Oberfläche <i>(vgl.</i> स्नानु)."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "स्नु",
+            "eid": "10292",
+            "pagenum": 1606,
+            "content": "<b>snú,</b>¦ <ab>m.</ab> <ab>n.</ab> = sā́nu, das es in mehreren Casus vertritt, das Oberste eines Dinges, namentlich 1〉 <i>Gipfel</i> des Berges [<ab>G.</ab>], oder 2〉 des Himmels, der Schafwolle (in der Somaseihe) [<ab>G.</ab>]; 3〉 <i>Oberfläche des Wassers</i> [<ab>G.</ab>]; 4〉 <i>Gipfel, höchster Ort</i> [ohne <ab>Gen.</ab>]; 5〉 <i>Oberfläche, Gipfel der Somaseihe</i>. — <ab>Vgl.</ab> ghṛtásnu; in ghṛta-snú, vṛdha-snú scheint es von snā zu stammen. <div n='TS'>-únā 2〉 divás {627,7}. — 4〉 {324,2} (bṛhatā́) — 5〉 {809,16}. _{809,19}. <div n='TS'>-ós [<ab>Ab.</ab>] 4〉 {323,4} (bṛhatás). <div n='TS'>-úbhis 1〉 girīnā́m {666,18}. — 2〉 ávīnaam {819,8}. — 4〉 {441,4}; {414,7}. <div n='TS'>-úbhis [dreisilbig: sanúbhis] 3〉 apā́m {604,3}. <div n='TS'>(-úṣu) divás pṛthivyā́s ádhi 〰 <ls>VS. 〔17,14〕</ls>."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "स्नु",
+            "eid": "4772",
+            "pagenum": 280,
+            "content": "<b>snú,</b>¦ <i><ab>n.</ab> collateral form of</i> <b>sānu.</b> surface."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "स्नु",
+            "eid": "42279",
+            "pagenum": 812,
+            "content": "snu¦ <i>vi. 2P (pp. स्नुत; pres. स्नौति)</i> 1. To drip, to trickle, to distill, to fall in drops; 2. to flow, to stream; 3. to drop, to ooze, to run out, to leak.<P>With प्र-, to pour forth."
+        },
+        {
+            "word": "स्नु",
+            "eid": "42280",
+            "pagenum": 812,
+            "content": "snu¦ <i>(I) m.n.</i> 1. Table-land; 2. top, surface in general; (this word has no forms for the first five cases; according to some, it is an optional sustitute for सानु q.v.)"
+        },
+        {
+            "word": "स्नु",
+            "eid": "42281",
+            "pagenum": 812,
+            "content": "snu¦ <i>(II) f.</i> A sinew, tendon, muscle."
+        }
     ]
 }

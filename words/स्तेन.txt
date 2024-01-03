@@ -52,5 +52,59 @@
             "pagenum": 735,
             "content": "स्तेन¦ <i>stena</i> <ab>m.</ab> vol; voleur."
         }
+    ],
+    "CAE": [
+        {
+            "word": "स्तेन",
+            "eid": "38357",
+            "pagenum": 640,
+            "content": "स्तेन/¦ <lex>m.</lex> thief, robber; <lex>f.</lex> आ."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "स्तेन",
+            "eid": "28556",
+            "pagenum": 512,
+            "content": "स्तेन/¦ <i>m.</i> Dieb, Räuber; <i>f.</i> आ Diebin."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "स्तेन",
+            "eid": "10250",
+            "pagenum": 1594,
+            "content": "<b>stená,</b>¦ <ab>m.</ab> [von stā], <i>Dieb, Räuber</i>. <div n='TS'>-ás {219,10}; {233,3}; {469,7}; {620,10}; {923,10}. <div n='TS'>-ám {433,9}; {492,13}; {571,3}; {676,14} (baddhám); {953,6}. <div n='TS'>-ā́s {357,11}. <div n='TS'>-ébhyas {214,16}."
+        }
+    ],
+    "INM": [
+        {
+            "word": "स्तेन",
+            "eid": "10034",
+            "pagenum": 649,
+            "content": "<b>Stena</b>,¦ pl. (<i>°āḥ</i>) (“thieves”), name of a caste: XII, 10568 (C. has by error <i>tenā(ḥ</i>))."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "स्तेन",
+            "eid": "4742",
+            "pagenum": 278,
+            "content": "<b>stená,</b>¦ <i><ab>m.</ab></i> thief. [<b>√stā.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "स्तेन",
+            "eid": "41975",
+            "pagenum": 804,
+            "content": "stena¦ <i>(I) m.</i> A thief, a robber, ये स्तेनपतितक्लीबा ये च नास्तिकवृत्तयः <ls>M.</ls>iii.150."
+        },
+        {
+            "word": "स्तेन",
+            "eid": "41976",
+            "pagenum": 804,
+            "content": "stena¦ <i>(II) n.</i> Thieving, stealing."
+        }
     ]
 }

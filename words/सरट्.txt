@@ -23,5 +23,35 @@
             "pagenum": 698,
             "content": "सरट्¦ <i>saraṭ</i> <ab>m.</ab> <i>(sṛ;</i> <ab>sfx.</ab> <i>aṭ)</i> abeille, <ab>Vd.</ab> || Vent. || Nuage. || Lézard, caméléon, igouane.  <P><i>saraṭa</i> <ab>m.</ab> (<ab>sfx.</ab> <i>aṭa)</i> lézard, <ab>etc.</ab>  <P><i>saraṭi</i> <ab>m.</ab> (<ab>sfx.</ab> <i>aṭi)</i> vent; || nuage.  <P><i>saraṭu</i> <ab>m.</ab> (<ab>sfx.</ab> <i>aṭu)</i> lézard, <ab>etc.</ab>"
         }
+    ],
+    "CCS": [
+        {
+            "word": "सरट्",
+            "eid": "26728",
+            "pagenum": 482,
+            "content": "सर/ट्¦ <i>s.</i> सर/घ्."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सरट्",
+            "eid": "9434",
+            "pagenum": 1486,
+            "content": "<b>saráṭ</b> oder <b>saráh,</b>¦ wegen des gleichbedeutenden sarágh (<ls>BR.</ls>), <ab>f.</ab>, <i>Biene</i>. <div n='TS'><chg type='chg' n='264' src='gra'><old>-aḍbhias</old><new>-áḍbhias</new></chg> [<ab>D.</ab>] mádhu priyám bharathas yád 〰 {112,21}."
+        },
+        {
+            "word": "सरट्",
+            "eid": "11264",
+            "pagenum": 1747,
+            "content": "1486,5 <ab>v. u.</ab>: -áḍbhias <ab>st.</ab> -aḍbhias <info vn='chg 264 gra'/>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सरट्",
+            "eid": "40055",
+            "pagenum": 765,
+            "content": "saraw¦ <i>m.</i> 1. Air, wind; 2. a cloud; 3. a lizard; 4. a bee."
+        }
     ]
 }

@@ -43,5 +43,51 @@
             "pagenum": 302,
             "content": "*त्रस्¦ <i>tras.</i> <i>trāsayāmi</i> 10; <ab>pqp.</ab> <i>atitrasam.</i> <lbinfo n='6'/> Prendre, saisir <ab>(?)</ab>. || Retenir, empêcher <lbinfo n='4'/> <ab>(?)</ab>. || Soutenir, tenir <ab>(?)</ab>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "त्रस्",
+            "eid": "12788",
+            "pagenum": 211,
+            "content": "त्रस्¦ त्र/सति (त्र/स°ते) & त्रस्यति (त्रस्य°ते) <vlex type='root'/> <ab>pp.</ab> त्रस्त/ tremble, quake, be afraid of (<ab>abl.</ab>, <ab>gen.</ab>, or <ab>instr.</ab>). <ab>C.</ab> त्रासयति (°ते) shake, agitate, frighten, scare. <div n='p'>—अप start back, flee. <div n='p'>उद् <ab>C.</ab> frighten, rouse up. <div n='p'>समुद् <ab>C.</ab> frighten, terrify. <div n='p'>निस् flee. <div n='p'>परा <ab>C.</ab> frighten away. <div n='p'>प्र flee in terror. <ab>C.</ab> affright, scare. <div n='p'>वि & सम् tremble, fear; <ab>C.</ab> terrify, frighten. — Cf. उत्त्रस्त, परित्रस्त, समुत्रस्त."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "त्रस्",
+            "eid": "8954",
+            "pagenum": 159,
+            "content": "त्रस्¦ त्र/सति (°ते) <i>u.</i> त्रस्यति (°ते) erzittern, erschrecken vor <i>(Abl., Gen. o. Instr.)</i>; <i>p.p.</i> त्रस्त zitternd, erschrocken, ängstlich. <lbinfo n='5'/> <i>Caus.</i> त्रासयति (°ते) jemd. erschrecken, <lbinfo n='10'/> scheuchen. अप zurückschrecken <lbinfo n='9'/> <i>(intr.)</i>, fliehen. उद् <i>Caus.</i> jemd. erschrecken, außcheuchen. वि erschrecken, sich entsetzen; <i>p.p.</i> erschrocken. <lbinfo n='10'/> <i>Caus.</i> jemd. erschrecken, ängstigen. सम् erzittern, erbeben, erschrecken; <lbinfo n='10'/> <i>p.p.</i> erschrocken. <i>Caus.</i> ängstigen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "त्रस्",
+            "eid": "3917",
+            "pagenum": 554,
+            "content": "<b>√tras</b>¦ [<ls>Cu. 〔244〕</ls>], <i>zittern, beben</i> vor [<ab>Ab.</ab>]. <div n='Pf'>Mit <b>ápa,</b> <i>zitternd fliehen</i> vor [<ab>Ab.</ab>]. <div n='Pf'><b>nis,</b> <i>fliehen</i>. <div n='H'>Stamm <b>trása:</b> <div n='TS'>-anti yásya 〰 śávasas {455,4}. <div n='H'><ab>Imperf.</ab> <b>atrasa:</b> <div n='TS'>-an <b>ápa:</b> mát {921,8} (tā́s 〰 rathaspríśas ná áśvās). — <b>nís:</b> támiṣīcīs (ámīvās) {668,11}. <div n='H'><ab>Part.</ab> <b>tarásat</b> (für trásat): <div n='TS'>-ntī 〰 ná bhujyús {921,8}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "त्रस्",
+            "eid": "1813",
+            "pagenum": 165,
+            "content": "<b>√tras</b>¦ (<b>trásati; tatrā́sa, tatrasús, treṣús</b> [<ls n='wg,794'>794e<sup>2</sup></ls>]; <b>átrāsīt; trasiṣyáti; trastá</b>). tremble; fear. [<ab>cf.</ab> <lang n='greek'>τρέω, τρέσ-σε</lang>, ‘tremble, trembled’; <ab>Lat.</ab> <i>terreo,</i> ‘affright’; <b>a-trastas</b> and <lang n='greek'>ἄ-τρεστος</lang>, ‘unterrified.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "त्रस्",
+            "eid": "16028",
+            "pagenum": 317,
+            "content": "tras¦ <i>(I) vi. 1P, 4P (pp. त्रस्त; pres. त्रसति, त्रस्यति)</i> 1. To tremble, to shake, to start with fear; 2. to fear, to dread, (with an abl. gen. or inst.), त्रस्यत्वैरायमाणेभ्यः <ls>Bt.</ls>v.75, त्रस्यंती चलशफरीविघट्टितोरूः <ls>Sis.</ls>viii.24, <ls>Bt.</ls>xiv.48, xv.58.<P>With वि-, to be frightened, वित्रस्तमुग्धहरिणीसदृशैः कटाक्षैः <ls>Bhartr.</ls>i.9.<P>With सम्-, to fear, to be terrified, <ls>Bt.</ls>xiv.39."
+        },
+        {
+            "word": "त्रस्",
+            "eid": "16029",
+            "pagenum": 317,
+            "content": "tras¦ <i>(II) vt. 10U (pres. त्रसयति-ते)</i> 1. To go, to move; 2. to hold, to seize; 3. to oppose."
+        }
     ]
 }

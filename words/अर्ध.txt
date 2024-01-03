@@ -36,5 +36,69 @@
             "pagenum": 49,
             "content": "*अर्ध¦ <i>ardha</i> ou <i>arddha</i> <ab>a.</ab> demi, semi... -- <ab>S.</ab> <ab>n.</ab> la moitié.  <P><i>ardhakrośa</i> <ab>m.</ab> une demi-lieue.  <P><i>ardhacandhra</i> <ab>m.</ab> quartier de la lune. || Egratignure demi-circulaire faite avec l'ongle. || Fleche dont la pointe a la forme d'une demi-lune. || Les yeux de la queue du paon. || La main à moitié fermée, comme pour saisir <ab>qqc.</ab>  <P><i>ardhanārīśa</i> <ab>m.</ab> <i>(nara, īśa)</i> l'Androgyne <s1 slp1='Siva'>Śiva</s1>.  <P><i>ardhalanu</i> <ab>f.</ab> la moitié du corps.  <P><i>ardhapārāvata</i> <ab>m.</ab> <ab>esp.</ab> de pigeon ou de perdrix.  <P><i>ardhamātra</i> <ab>n.</ab> demi-mesure dans la versification. <lbinfo n='9'/>  <P><i>ardhamātrika</i> <ab>a.</ab> d'une demi-mesure.  <P><i>ardharātra</i> <ab>m.</ab> la moitié de la nuit: minuit.  <P><i>ardharca</i> <ab>m.</ab> <ab>n.</ab> <i>(ṛc)</i> demi-stance védique.  <P><i>ardhavīkṣaṇa</i> <ab>n.</ab> <i>(vi-īkṣ)</i> coup d'œil de côté; œillade.  <P><i>ardhaśata</i> <ab>a.</ab> cinquante. || cent cinquante.  <P><i>ardhasaphara</i> <ab>m.</ab> <ab>esp.</ab> de petit poisson.  <P><i>ardhāśana</i> <ab>n.</ab> <i>(aś)</i> demi-repas.  <P><i>ardhāsana</i> <ab>n.</ab> <i>(ās)</i> bon accueil."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अर्ध",
+            "eid": "2896",
+            "pagenum": 42,
+            "content": "1 अर्ध/¦ <lex>a.</lex> half, halved. <lex>m.</lex> <lex>n.</lex> half, middle; party."
+        },
+        {
+            "word": "अर्ध",
+            "eid": "2897",
+            "pagenum": 42,
+            "content": "2 अ/र्ध¦ <lex>m.</lex> side, part, place."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अर्ध",
+            "eid": "1839",
+            "pagenum": 28,
+            "content": "1. अर्ध/¦ halb, <i>oft</i> °— <i>im Adj. u. Adv.; m. n.</i> Hälfte,Mitte."
+        },
+        {
+            "word": "अर्ध",
+            "eid": "1840",
+            "pagenum": 28,
+            "content": "2. अ/र्ध¦ <i>m.</i> Seite, Teil, Gegend, Ort."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अर्ध",
+            "eid": "1061",
+            "pagenum": 114,
+            "content": "<b>ardhá</b>¦ [<ab n='siehe'>s.</ab> <hom>2.</hom> ṛdh], 1〉 <ab>a.</ab>, die Hälfte ausmachend; daher der <i>andere</i> (dem néma parallel gehend); 2〉 <ab>m.</ab>, die <i>Hälfte;</i> insbesondere 3〉 mit kṛ, jemanden bei der Erlangung eines Gutes zur Hälfte eines andern machen, <ab>d. h.</ab> ihm ebenso viel mittheilen als dem andern; 4〉 <ab>m.</ab>, die <i>Partei</i>. <div n='TS'>-ás 1〉 {853,18}. <div n='TS'>-ám 2〉 {471,1}. — 3〉 {221,5}; {485,18} (wo <ls>Aufr.</ls> árdham liest). — 4〉 {328,1}; {534,16}."
+        },
+        {
+            "word": "अर्ध",
+            "eid": "1062",
+            "pagenum": 114,
+            "content": "<b>árdha,</b>¦ <ab>m.</ab>, 1〉 <i>Seite, Hälfte,</i> namentlich die östliche (oder westliche), vordere (oder hintere), [Page115] entferntere (oder nähere) des Luftkreises, des Himmels <ab>u. s. w.</ab>; 2〉 <i>Gegend, Ort</i>. <div n='TS'>-am 2〉 {164,17}; {488,21}; {854,5}; ({485,18} <ab n='siehe'>s.</ab> ardhá). <div n='TS'>-e 1〉 pū́rve rájasas {92,1}; {124,5}; páre divás {164,12} pū́rve (der Schar) {468,5}. <div n='TS'>-au {218,15} ubhaú (beide Welthälften)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अर्ध",
+            "eid": "412",
+            "pagenum": 121,
+            "content": "<b>ardhá,</b>¦ <i><ab>a.</ab></i> half; <i>as <ab>m.</ab></i> the half."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अर्ध",
+            "eid": "03448",
+            "pagenum": 67,
+            "content": "arDa¦ <i>(I) a. (f. र्घा)</i> Half, forming a half, अप्यर्धमार्गे परबाणलूना <ls>R.</ls>viii.45."
+        },
+        {
+            "word": "अर्ध",
+            "eid": "03449",
+            "pagenum": 67,
+            "content": "arDa¦ <i>(II) m.n.</i> 1. The half, क्रोशार्धं पर्कृतिपुरःसरेण गत्वा <ls>R.</ls>xiii.79; 2. a part, यदर्धे विच्छिन्नं भवति कृतसन्धानमिव तत् <ls>Sak.</ls>i., <ls>R.</ls>iii.59; 3. half a short syllable. (अर्ध may be peculiarly compounded with an ordinal, e.g. अर्धतृतीय ‘containing the third (only) half, i.e. two and a half’)."
+        }
     ]
 }

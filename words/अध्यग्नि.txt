@@ -23,5 +23,43 @@
             "pagenum": 18,
             "content": "अध्यग्नि¦ <i>adhyagni</i> <ab>indéc.</ab> <i>(agni)</i> présent de noces."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अध्यग्नि",
+            "eid": "952",
+            "pagenum": 14,
+            "content": "अध्यग्नि¦ <ab>indecl.</ab> (what is given) over the fire."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अध्यग्नि",
+            "eid": "631",
+            "pagenum": 10,
+            "content": "अध्यग्नि¦ <i>Adv.</i> über dem Feuer."
+        }
+    ],
+    "GST": [
+        {
+            "word": "अध्यग्नि",
+            "eid": "2030",
+            "pagenum": 59,
+            "content": "अध्यग्नि¦ Avyayībh. (In law.) Property given to the wife at the time of her marriage, one of the six items of woman's peculiar property. See स्त्रीधन. E. अधि and अग्नि; lit. (presented) over the (nuptial) fire."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अध्यग्नि",
+            "eid": "00904",
+            "pagenum": 14,
+            "content": "aDi-agni¦ <i>(I) ind.</i> 1. near the fire; 2. on the fire."
+        },
+        {
+            "word": "अध्यग्नि",
+            "eid": "00905",
+            "pagenum": 14,
+            "content": "aDi-agni¦ <i>(II) n.</i> a gift made to a woman at the time of her marriage. अधग्नि is thus defined by Kātyāyana- विवाहकाले यत्स्त्रीभ्यो दीयते ह्यग्निसन्निधौ । तदध्याग्निकृतं सद्भिः स्त्रीधनं परिकीर्तितम् ॥"
+        }
     ]
 }

@@ -7,5 +7,35 @@
             "pagenum": 545,
             "content": "तृषु¦ <i><ab>a.</ab></i> <ab>Ved.</ab> <b>1</b> Greedy, thirsting for. <b>--2</b> Quick, speedy."
         }
+    ],
+    "CAE": [
+        {
+            "word": "तृषु",
+            "eid": "12644",
+            "pagenum": 208,
+            "content": "तृषु/¦ <lex>a.</lex> greedy, eager, quick; <lex>n.</lex> <ab>adv.</ab>"
+        }
+    ],
+    "CCS": [
+        {
+            "word": "तृषु",
+            "eid": "8827",
+            "pagenum": 157,
+            "content": "तृषु/¦ gierig, heftig."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "तृषु",
+            "eid": "3885",
+            "pagenum": 550,
+            "content": "<b>tṛ́ṣú,</b>¦ <ab>a.</ab>, <i>gierig, lechzend, verlangend,</i> insbesondere 2〉 <ab>n.</ab>, -ú, adverbial <ab>dass.</ab> <div n='TS'>-úm {303,11} (vā́tam) dūtám kṛṇute. <div n='TS'>-ú 2〉 {58,2}. _{58,4}; {303,11}; {519,4}; {905,5}; {917,7}; {939,8}; {941,6}. <div n='TS'><chg type='chg' n='126' src='gra'><old>-únā</old><new>-úṇā</new></chg> {303,11}. <div n='TS'>-vī́m prásitim {300,1}."
+        },
+        {
+            "word": "तृषु",
+            "eid": "11126",
+            "pagenum": 1743,
+            "content": "550,28.b: -úṇā <ab>st.</ab> -únā <info vn='chg 126 gra'/>"
+        }
     ]
 }

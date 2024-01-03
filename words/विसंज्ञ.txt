@@ -7,5 +7,21 @@
             "pagenum": 1000,
             "content": "विसंज्ञ¦ <i><ab>a.</ab></i> Insensible, <lbinfo n='unconsci+ous'/> unconscious."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विसंज्ञ",
+            "eid": "30513",
+            "pagenum": 513,
+            "content": "विसंज्ञ¦ <lex>a.</lex>  unconscious."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विसंज्ञ",
+            "eid": "23143",
+            "pagenum": 419,
+            "content": "विसंज्ञ¦ bewunsstlos."
+        }
     ]
 }

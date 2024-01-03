@@ -31,5 +31,53 @@
             "pagenum": 49,
             "content": "*अर्द्¦ <i>ard.</i> <i>ardāmi</i> 1; <ab>p.</ab> <i>ānarda;</i> <ab>pp.</ab> <i>ardita;</i> <ab>a1.</ab> <i>ārdiṣam.</i> Aller, se mouvoir. || Demander <ab>qqc.</ab> à <ab>qqn.</ab>, 2 <ab>ac.</ab> || Aller à, attaquer, offenser; blesser, vexer. -- <ab>Pp.</ab> <i>ārtta:</i> <i>kṣudhārtta</i> tourmenté par la faim.  <P><i>ardāmi</i> et <i>arde</i> frapper, tuer.  <P><i>ardayāmi</i> 10; <ab>pqp.</ab> <i>ārdidam:</i> vexer, frapper; <ab>a1.</ab> <ab>Vd.</ab> <i>ardayiṣam.</i>"
         }
+    ],
+    "CCS": [
+        {
+            "word": "अर्द्",
+            "eid": "1836",
+            "pagenum": 28,
+            "content": "अर्द्,¦ अ/र्दति <i>(ved. auch</i> ऋदति) zerstieben, aufregen, <lbinfo n='6'/> quälen, beunruhigen. <i>Caus.</i> beunruhigen, quälen, beunruhigen. <i>Caus.</i> beunruhigen, quälen, vernichten."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "अर्द्",
+            "eid": "1059",
+            "pagenum": 114,
+            "content": "<b>√ard.</b>¦ Erweiterung von ar (3. 4. 8. 9) <i>„in innere Bewegung</i> (der Theile) <i>gerathen“; zerstieben;</i> Causativ: 1〉 <i>erschüttern, aufregen</i> [<ab>A.</ab>]; 2〉 <i>schlagen, tödten, vernichten</i> [<ab>A.</ab>]. Causativ mit <b>prá</b>, <i>in Bewegung setzen, fliessen machen,</i> mit <b>ví</b>, <i>zerstieben machen, vernichten</i> [<ab>vgl.</ab> <lang>lat.</lang> ardeo, dessen Begriff aus dem der innern Erregung entspringt]. <div n='H'>Stamm <b>ṛda:</b> <div n='TS'>-antu mū́radevās {620,24}. <div n='H'><ab>Imperf.</ab> <b>ā́rda:</b> <div n='TS'>-an {313,2} (dhánvāni). <div n='H'>Stamm <ab n='des'>d.</ab> <ab>Caus.</ab> <b>ardáya</b> (betont nur {187,1}; {1022,2}; <ls>AV. 4,15,6</ls>): <div n='TS'>-at <b>ví:</b> vṛtrám víparvam {187,1}. <div n='TS'>-as 2〉 vṛtrám {973,2}; atithigvám {1022,2}.<chg type='del' n='11' src='gra'><old> — <b>prá:</b> nī́cīs apásas {458,12}.</old></chg> <div n='TS'>-a [1〉 <ls>AV. 4,15,6</ls> udadhím] 2〉 amítram {684,10}. — <b>ví:</b> parirā́pas {214,14}."
+        },
+        {
+            "word": "अर्द्",
+            "eid": "11283",
+            "pagenum": 1747,
+            "content": "114,15. 14 <ab>v. u.</ab>: * <info vn='del 11 gra'/>"
+        },
+        {
+            "word": "अर्द्",
+            "eid": "12108",
+            "pagenum": 1752,
+            "content": "<b>ard:</b>¦<info vn='add 95 gra'/> <div n='H'>*<ab>Imperf.</ab> des <ab>Caus.</ab> <b>ā́rdaya</b> (betont nur {930,10}) <div n='TS'>-as <b>prá</b> nī́cīs apásas {458,12}; <div n='TS'>-at 2〉 vṛtrám {930,10}."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "अर्द्",
+            "eid": "03443",
+            "pagenum": 66,
+            "content": "ard¦ <i>(I) vt. or vi. 1P (pp. अर्दित)</i> 1. To ask or beg, शरद्धनं नार्दति चातकोऽपि <ls>R.</ls>v.17; 2. to go; 3. to be hurt, to be troubled."
+        },
+        {
+            "word": "अर्द्",
+            "eid": "03444",
+            "pagenum": 66,
+            "content": "ard¦ <i>(II) vt. 1U (pp. अर्दित)</i> To kill, to hurt, रक्षः सहस्राणि चतुर्दशार्दीत् <ls>Bt.</ls>xii.56.<P>With अति-, 1. to kill; 2. to fall upon, अत्यार्दीद्बालिनः पुत्रं <ls>Bt.</ls>xv.115.<P>With अभि-, to press, to afflict."
+        },
+        {
+            "word": "अर्द्",
+            "eid": "03445",
+            "pagenum": 66,
+            "content": "ard¦ <i>(III) vt. 10U (pp. अर्दित)</i> To hurt, to kill, येनार्दिदद्दैत्यपुरं पिनाकी <ls>Bt.</ls>ii.42."
+        }
     ]
 }

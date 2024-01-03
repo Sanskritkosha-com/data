@@ -23,5 +23,51 @@
             "pagenum": 562,
             "content": "वत्¦ <i>vat</i> (<ab>sfx.</ab> adverbial) comme."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वत्",
+            "eid": "27973",
+            "pagenum": 469,
+            "content": "वत्¦ व/तति <vlex type='root'/> only <ab>w.</ab> अपि apprehend, understand; <ab>C.</ab> वात/यति reveal, inspire (devotion)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वत्",
+            "eid": "21210",
+            "pagenum": 381,
+            "content": "वत्,¦ व/तति, <i>nur mit</i> अपि verstehen, begreifen. <lbinfo n='8'/> <i>Caus.</i> वात/यति <i>mit</i> अपि verstehen <lbinfo n='6'/> machen, wecken <i>(übertr.)</i>, einflößen."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "वत्",
+            "eid": "7590",
+            "pagenum": 1198,
+            "content": "<b>√vat.</b>¦ Mit <b>ápi</b> 1〉 <i>geistig empfangen</i> [<ab>A.</ab>]; 2〉 <ab>Caus.</ab> jemandem [<ab>D.</ab>] etwas [<ab>A.</ab>] <i>geistig einflössen,</i> auch 3〉 ohne Dativ; 4〉 <ab>Caus.</ab> <i>anregen,</i> [<ab>A.</ab>], <i>beleben</i>. — (<ab>Vgl.</ab> <lang>zend.</lang> vat erkennen, <ab>Caus.</ab> lehren). <div n='H'>Stamm <b>vata:</b> <div n='TS'>-ema <b>ápi</b> 1〉 krátum sucétasam {519,10}. [Page1199] <div n='H'>Stamm des <ab>Caus.</ab> <b>vātaya:</b> <div n='TS'>-ayāmasi <b>ápi</b> 4〉 yajñasā́dham (agním) {128,2}. <div n='TS'>-aya 2〉 <b>ápi</b> bhadrám nas mánas {846,1}; {851,1} (dákṣam utá krátum). <div n='H'><ab>Aor.</ab> des <ab>Caus.</ab> <b>avīvata:</b> <div n='TS'>-an <b>ápi</b> 2〉 pitré putrā́sas ṛtám {839,5}. <div n='H'><ab>Part.</ab> <b>vátat:</b> <div n='TS'>-antas <b>ápi</b> 3〉 krátum sucétasam {576,6}. <div n='H'><ab>Part.</ab> des <ab>Caus.</ab> <b>vātáyat:</b> <div n='TS'>-antas <b>api</b> 3〉 mánmāni {165,13}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वत्",
+            "eid": "3671",
+            "pagenum": 236,
+            "content": "<b>√vat</b>¦ (<b>vátati; vātáyati</b>). <i>only with</i> <b>api.</b> understand; <i><ab>caus.</ab></i> cause to understand <i>or</i> know, reveal, inspire (devotion). [<ab>cf.</ab> <ab>Lat.</ab> <i>vāt-es,</i> ‘wise seer’: see under <b>vā́ta.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वत्",
+            "eid": "33333",
+            "pagenum": 636,
+            "content": "vat¦ <i>(I) a. (f. ती)</i> An affix added to nouns to form possessive adjectives, e.g. विद्यावत्, भास्वत्; added to past passive participles form past active participles, e.g. कृतवत्."
+        },
+        {
+            "word": "वत्",
+            "eid": "33334",
+            "pagenum": 636,
+            "content": "vat¦ <i>(II) ind.</i> An affix, translatable by ‘as, like,’ added to noun to form adverbs, e.g. दुरालोकः स समरे निदाघांबररत्नवत् <ls>K.Pr.</ls>x."
+        }
     ]
 }

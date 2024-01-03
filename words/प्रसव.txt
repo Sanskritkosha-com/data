@@ -55,5 +55,67 @@
             "pagenum": 448,
             "content": "प्रसव¦ <i>prasava</i> <ab>m.</ab> <i>(sū)</i> enfantement, accouchement, <lbinfo n='11'/> action de mettre bas. || Progéniture; <lbinfo n='9'/> race, lignée; || fleur; fruit.  <P><i>prasavaka</i> <ab>m.</ab> buchanania latifolia, <ab>bot.</ab>  <P><i>prasavabandhana</i> <ab>n.</ab> petiole d'une feuille, pédoncule d'une fleur.  <P><i>prasavitṛ</i> <ab>m.</ab> (<ab>sfx.</ab> <i>tṛ)</i> procréateur; père. -- <ab>F.</ab> [<i>trī</i>] mère."
         }
+    ],
+    "CAE": [
+        {
+            "word": "प्रसव",
+            "eid": "21048",
+            "pagenum": 347,
+            "content": "1 प्रसव/¦ <lex>m.</lex> pressing out the Soma."
+        },
+        {
+            "word": "प्रसव",
+            "eid": "21049",
+            "pagenum": 347,
+            "content": "2 प्रसव/¦ <lex>m.</lex> urging, setting or getting in motion, impulse, animation; furtherance, assistance; activity, pursuit; impeller, vivifier."
+        },
+        {
+            "word": "प्रसव",
+            "eid": "21050",
+            "pagenum": 347,
+            "content": "3 प्रसव/¦ <lex>m.</lex> procreation, generation, conception, bringing forth, childbirth; birthplace; offspring, blossom, flower."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "प्रसव",
+            "eid": "15933",
+            "pagenum": 280,
+            "content": "1. प्रसव/¦ <i>m.</i> das Pressen <i>o.</i> Keltern des Soma."
+        },
+        {
+            "word": "प्रसव",
+            "eid": "15934",
+            "pagenum": 280,
+            "content": "2. प्रसव/¦ <i>m.</i> Antrieb, Anregung, Förderung, Geheiß, Betrieb, Erwerb; Erreger, Beleber."
+        },
+        {
+            "word": "प्रसव",
+            "eid": "15935",
+            "pagenum": 280,
+            "content": "3. प्रसव/¦ <i>m.</i> Zeugung, Geburt, Niederkunft, Empfängnis; Geburtsstätte; Nachkommenschaft; <lbinfo n='10'/> Sprössling, Blüte."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "प्रसव",
+            "eid": "6010",
+            "pagenum": 883,
+            "content": "<hom>1.</hom> <b>prasavá,</b>¦ <ab>m.</ab> [von su mit prá], das <i>Pressen, Keltern</i> des Soma [<ab>G.</ab>]. <div n='TS'>-é sómasya {762,2}."
+        },
+        {
+            "word": "प्रसव",
+            "eid": "6011",
+            "pagenum": 883,
+            "content": "<hom>2.</hom> <b>prasavá,</b>¦ <ab>m.</ab> [von <hom>1.</hom> sū mit prá, <ab>vgl.</ab> savá], Hervorrufung schneller Bewegung; daher 1〉 <i>schnelle Strömung</i> (der Gewässer); 2〉 von der Thätigkeit des savitṛ́, welche als <i>Belebung</i> oder <i>Erweckung</i> (mit dem Gegensatze nivéśana {512,2}), oder <i>Erregung, Antrieb</i> ({965,1}; {267,6}) oder <i>Spende</i> (Güterzuführung) ({159,5}; {435,5}) aufgefasst wird; 3〉 <i>Treiben, Antrieb,</i> besonders des Indra, sofern er die Gewässer zum Strömen treibt; 4〉 <i>Gütererwerb,</i> auch mit dem <ab>Gen.</ab> <i>Erwerb, Erlangung;</i> 5〉 die <i>Unternehmung,</i> besonders in ihrem Fortgange, im Gegensatze zu ut-savá ({102,1}), was das Beginnen derselben bezeichnet. <div n='TS'>-ás 1〉 sárgataktas {267,4}. _{267,11}. <div n='TS'>-ám 1〉 síndhavas (ā́pas) 〰 yáthā‿ā́yan {270,6}; 〰 bhíkṣamāṇe (vípāṭ śutudrī́) {267,2}. <div n='TS'>-ásya 2〉 {435,5} (īśiṣe). <div n='TS'>-é 2〉 {159,5}; {267,6}; {512,2} (bhū́manas); {965,1}. — 3〉 {709,12}; {937,8}. — 4〉 {396,9} (ápavratān 〰 vāvṛdhānā́n); kṣémasya {598,4}. — 5〉 {102,1}. _{102,9} (índras kṛṇotu 〰 rátham purás)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "प्रसव",
+            "eid": "24993",
+            "pagenum": 482,
+            "content": "prasava¦ <i>m.</i> 1. Generation, procreation; 2. child-birth, parturition, delivery, प्रसवोन्मुखीं प्रियां ददर्श काले दिवमभ्रितामिव <ls>R.</ls>iii.12; 3. offspring, progeny, young, वधूर्विधात्रा प्रतिनंद्यते स्म कल्याणि वीरप्रसवा भवेति <ls>K.S.</ls>vii.87, <ls>R.</ls>ix.28; 4. source, origin; 5. a flower, a blossom, गणा नमेरुप्रसवावतंसाः <ls>K.S.</ls>i.55; 6. a fruit, product."
+        }
     ]
 }

@@ -7,5 +7,37 @@
             "pagenum": 249,
             "content": "आमिस्¦ <i><ab>m.</ab></i> <ab>Ved.</ab> <b>1</b> Raw flesh or meat. <b>--2</b> A dead body."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आमिस्",
+            "eid": "4424",
+            "pagenum": 65,
+            "content": "आ/मिस्¦ <lex>m.</lex> raw flesh."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आमिस्",
+            "eid": "2750",
+            "pagenum": 43,
+            "content": "आ/मिस्¦ <i>m.</i> rohes Fleisch."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "आमिस्",
+            "eid": "1563",
+            "pagenum": 181,
+            "content": "<b>ā́mis,</b>¦ <ab>m.</ab>, <i>rohes Fleisch</i> [<ab>vgl.</ab> āmá], <i>Fleisch</i> überhaupt. <div n='TS'>-īṣi {487,14}; {920,3}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आमिस्",
+            "eid": "637",
+            "pagenum": 126,
+            "content": "<b>ā́mis,</b>¦ <i><ab>n.</ab></i> raw flesh; flesh. [<ab>cf.</ab> <b>āmá.</b>]"
+        }
     ]
 }

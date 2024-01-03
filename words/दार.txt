@@ -31,5 +31,55 @@
             "pagenum": 317,
             "content": "दार¦ <i>dāra</i> <ab>m.</ab> Au <ab>pl.</ab> épouse. || Femelle d'un couple d'animaux.  <P><i>dāraka</i> <ab>m.</ab> enfant, fils. || Petit d'un animal. <lbinfo n='4'/>  <P><i>dārakarman</i> <ab>n.</ab> mariage."
         }
+    ],
+    "CAE": [
+        {
+            "word": "दार",
+            "eid": "13561",
+            "pagenum": 223,
+            "content": "1 दार¦ <lex>m.</lex> ई <lex>f.</lex> rent, cleft."
+        },
+        {
+            "word": "दार",
+            "eid": "13562",
+            "pagenum": 223,
+            "content": "2 दार¦ <lex>m.</lex> sgl. & <ab>pl.</ab> (<lex>f.</lex> आ & <lex>n.</lex> <ab>pl.</ab>) wife; दारान् कृ or प्र—कृ take a wife, marry."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दार",
+            "eid": "9601",
+            "pagenum": 171,
+            "content": "1. दार¦ <i>m.</i>, ई <i>f.</i> Riss, Spalte."
+        },
+        {
+            "word": "दार",
+            "eid": "9602",
+            "pagenum": 171,
+            "content": "2. दार¦ <i>m. Sg. u. Pl. (f.</i> आ, <i>n. Pl.)</i> Weib, Gattin. दारान् (प्र-) कर् ein Weib nehmen."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दार",
+            "eid": "1933",
+            "pagenum": 169,
+            "content": "<b>dāra</b>¦ [<ls n='wg,264'>264<sup>2</sup></ls>], <i><ab>m.</ab> <ab>pl.</ab></i> wife."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दार",
+            "eid": "16749",
+            "pagenum": 330,
+            "content": "dAra¦ <i>(I) m.</i> A rent, a gap, a hole."
+        },
+        {
+            "word": "दार",
+            "eid": "16750",
+            "pagenum": 330,
+            "content": "dAra¦ <i>(II) m. pl. (though singular in sense)</i> A wife, नवे दारपरिग्रहे <ls>Ut.</ls>i., एते वयममी दाराः कन्येयं कुलजीवितम् <ls>K.S.</ls>vi.63, <ls>M.</ls>i.112."
+        }
     ]
 }

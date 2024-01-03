@@ -36,5 +36,37 @@
             "pagenum": 257,
             "content": "मनुज¦ <i>m.</i> (e praec. et ज natus) a <i>Manu</i> oriundus, homo. IN. 5. 22. N. 1. 2."
         }
+    ],
+    "CAE": [
+        {
+            "word": "मनुज",
+            "eid": "23811",
+            "pagenum": 395,
+            "content": "मनुज¦ <lex>m.</lex> man (<ab>lit.</ab> sprung from Manu or men)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "मनुज",
+            "eid": "18062",
+            "pagenum": 319,
+            "content": "मनुज¦ <i>u.</i> म/नुजात von M. stammend; <i>m.</i> Mensch."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "मनुज",
+            "eid": "3117",
+            "pagenum": 212,
+            "content": "<b>manu-ja,</b>¦ <i><ab>m.</ab></i> man. [<ab>prop.</ab> <ab>adj.</ab>, ‘Manuborn, <lbinfo n='‘Manu-born,'/> sprung from Manu,’ <ls n='wg,1265'>1265.</ls>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "मनुज",
+            "eid": "28935",
+            "pagenum": 552,
+            "content": "manu-ja¦ <i>m.</i> a man, mankind."
+        }
     ]
 }

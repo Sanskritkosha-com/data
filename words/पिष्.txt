@@ -49,5 +49,45 @@
             "pagenum": 413,
             "content": "*पिष्¦ <i>piṣ</i> [se mouvoir], <ab>cf.</ab> <i>pis.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "पिष्",
+            "eid": "19233",
+            "pagenum": 317,
+            "content": "पिष्¦ पिन/ष्टि (पिंषति) <vlex type='root'/> <ab>pp.</ab> पिंष्ट/ (<ab>q.v.</ab>) grind, pound, crush, destroy. <ab>C.</ab> पेषयति = <ab>S.</ab> <div n='p'>—निस् & विनिस् pound, crush, rub (the hands). <div n='p'>प्र crush or grind down. <div n='p'>प्रति rub or beat against (together), pound, crush. <div n='p'>वि beat asunder, pelt with (<ab>instr.</ab>). <div n='p'>सम् pound, squeeze, crush or grind down. — Cf. उत्पिष्ट, प्र/पिष्ट."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पिष्",
+            "eid": "14400",
+            "pagenum": 254,
+            "content": "पिष्,¦ पिन/ष्टि (पिंषति) zermalmen, zermahlen, <lbinfo n='7'/> zerstampfen, vernichten <i>(mit</i> <i>Acc. u. Gen.) p. p.</i> पिष्ट/ gemahlen <i>(s.</i> <i>auch bes.).</i> उद् <i>p. p.</i> उत्पिष्ट zermalmt, erdrückt. वि zerschlagen, bewerfen. सम् zermalmen, zerschmettern."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "पिष्",
+            "eid": "5511",
+            "pagenum": 819,
+            "content": "<b>√piṣ,</b>¦ <i>zerstampfen, zermalmen, zerschmettern</i>. <div n='Pf'>Mit <b>sám</b> dasselbe mit dem Nebenbegriff des Zusammenbrechens. <div n='H'>Stamm <b>piṃṣ,</b> stark <b>pináṣ:</b> <div n='TS'>-naṣṭi adṛ́ṣṭān {191,2}. <div n='TS'>-náṣṭi ohne <ab>Obj.</ab> {962,7} (vāyús). <div n='TS'>-ṃṣánti <b>sam</b> {911,3} óṣadhim. <div n='TS'>-ṇák [<pe>2.</pe> <ab>s.</ab> <ab>C.</ab>] <b>sam</b> púras {326,13}. <div n='TS'>-ṇak [<ab>dass.</ab>] <b>sám</b> kúṇārum {264,8}; uṣā́sam {326,9} (Sinn des <ab>Impf.</ab>); áhim {458,10}; púram cariṣṇúam {621,28}. <div n='TS'>-ṇak [<pe>3.</pe> <ab>s.</ab> <ab>C.</ab>] <b>sám</b> śíras dāsásya {314,9} (vadhéna) erzählend. <div n='TS'>-naṣṭana <b>sám</b> rakṣásas {620,18}. <div n='H'><ab>Impf.</ab> <b>pipiṣ,</b> stark <b>pipeṣ:</b> <div n='TS'>-eṣa [<pe>3.</pe> <ab>s.</ab>] <b>sám</b> ánas uṣásas {206,6} (vájreṇa); vṛjínā́n {268,6} (vṛjánena). <div n='TS'>-iṣe [<pe>3.</pe> <ab>s.</ab>] <b>sám</b> rujā́nās {32,6} (indraśatrus). <div n='H'><ab>Part.</ab> <b>piṃṣát:</b> <div n='TS'>-atī́ (uṣā́s) {191,2} ohne <ab>Obj.</ab> <div n='H'><ab>Part.</ab> II. <b>piṣṭa:</b> <div n='TS'>-āt <b>sám</b> ánasas {326,10}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "पिष्",
+            "eid": "2590",
+            "pagenum": 190,
+            "content": "<b>√piṣ</b>¦ (<b>pináṣṭi; pipéṣa, pipiṣé; ápiṣat;</b> <b>pekṣyáti; piṣṭá; péṣṭum; piṣṭvā́; -píṣya</b> <lbinfo n='-píṣ-ya'/> ). crush; grind, <ls n='lan,47,5'>47<sup>5</sup></ls>; mill. [<ab>cf.</ab> <ab>Lat.</ab> <i>pinsere, pīsere,</i> ‘crush’: of doubtful kinship  <lbinfo n='kin-ship'/> is <lang n='greek'>πτίσσω</lang>, ‘pound, husk.’] <div n='p'/><b>+ sam,</b> crush together <i>or</i> to pieces."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पिष्",
+            "eid": "22610",
+            "pagenum": 439,
+            "content": "piz¦ <i>vt. 7P (pp. पिष्ट; pres. पिनष्टि; caus. पेषयति-ते)</i> 1. To grind, to pound, to crush, यत्पिंषतामपि नृणां पिष्टोऽपि तनोषि परिमलैः पुष्टिम् <ls>Bh.V.</ls>i.12, <ls>Bt.</ls>vi.37, xii.18; 2. to hurt, to injure, to destroy.<P>With निस्-, 1. to pound, to powder, to reduce to atoms, शिलानिष्पिष्टमुद्गरः <ls>R.</ls>xii.73; 2. to injure, to bruise, <ls>Bt.</ls>vi.120."
+        }
     ]
 }

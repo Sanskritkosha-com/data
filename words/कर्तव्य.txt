@@ -21,5 +21,57 @@
             "pagenum": 145,
             "content": "कर्तव्य¦ <i>kartavya</i> <ab>pf.</ab> <ab>ps.</ab> de <i>kṛ.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कर्तव्य",
+            "eid": "7177",
+            "pagenum": 111,
+            "content": "कर्त/व्य¦ <lex>a.</lex>  to be made or done; <lex>n.</lex> duty, task."
+        },
+        {
+            "word": "कर्तव्य",
+            "eid": "7178",
+            "pagenum": 111,
+            "content": "कर्तव्य/¦ <lex>a.</lex> to be made or done; <lex>n.</lex> duty, task."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कर्तव्य",
+            "eid": "4467",
+            "pagenum": 76,
+            "content": "कर्त/व्य¦ <i>u.</i> कर्तव्य^ faciendus."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "कर्तव्य",
+            "eid": "2620",
+            "pagenum": 149,
+            "content": "<i>kartavya</i>¦ (LP), derived from <i>kṛt;</i> ‘to be cut’."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कर्तव्य",
+            "eid": "1052",
+            "pagenum": 140,
+            "content": "<b>kartavya,</b>¦ <i><ab>grdv.</ab></i> to be done <i>or</i> made, <i><ab>w.</ab></i> <i>the various <ab>mgs</ab> of</i> <b>√1kṛ. [√1kṛ.]</b>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कर्तव्य",
+            "eid": "08466",
+            "pagenum": 171,
+            "content": "kartavya¦ <i>(I) a. (f. व्या)</i> 1. What ought to be done, हीनसेवा न कर्तव्या कर्तव्यो महदाश्रयः <ls>Chāṇakya.</ls>; 2. what ought to be cut, destroyed, put down, पुत्रः सखा वा भ्राता वा पिता वा यदि वा गुरुः । रिपुस्थानेषु वर्ततः कर्तव्या भूतिमिच्छता <ls>Bh.</ls>"
+        },
+        {
+            "word": "कर्तव्य",
+            "eid": "08467",
+            "pagenum": 171,
+            "content": "kartavya¦ <i>(II) n.</i> Duty, task."
+        }
     ]
 }

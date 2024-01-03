@@ -31,5 +31,63 @@
             "pagenum": 204,
             "content": "*खाद्¦ <i>khād.</i> <i>khādāmi</i> 1: <ab>p.</ab> <i>cakhāda;</i> <ab>f2.</ab> <i>khādiṣyāmi;</i> <ab>a1.</ab> <i>akhādiṣam.</i> <ab>Ps.</ab> <i>kādye.</i> Manger: <lbinfo n='4'/> <i>māṃsam</i> de la chair. || Dévorer; || mordre. || Au <ab>fig.</ab> <ab>Vd.</ab> affliger, tourmenter: <i>cittam</i> la pensée; <ab>cf.</ab> <i>khid.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "खाद्",
+            "eid": "9093",
+            "pagenum": 144,
+            "content": "खाद्¦ खा/दति <vlex type='root'/> (खादते) chew, bite, eat, devour, consume, destroy. <ab>C.</ab> खादयति also = <ab>S.</ab> <div n='p'>— प्र & सम् chew, eat, devour."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "खाद्",
+            "eid": "5889",
+            "pagenum": 101,
+            "content": "खाद्¦ खा/दति (खादते) kauen, essen, fressen, verzehren, verderben. <i>Caus.</i> खाद्यति essen lassen, von <i>(Instr.); auch = Simpl.</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "खाद्",
+            "eid": "2862",
+            "pagenum": 373,
+            "content": "<b>√khād,</b>¦ <i>zerbeissen, essen, verzehren,</i> daher auch 2〉 <i>vernichten</i> (die Feinde), dies in amitrakhādá, vṛtra-khādá. <div n='Pf'>Mit <b>ā́,</b> <i>essen, verzehren, vernichten;</i> mit <b>prá,</b> <i>verzehren</i> (<ab n='siehe'>s.</ab> prakhādá); mit <b>ava</b> (vernichten) in <chg type='chg' n='96' src='gra'><old>avakādá</old><new>avakhādá</new></chg>, mit <b>vi</b> (<ab>dass.</ab>) in vikhādá. <div n='H'>Stamm <b>khā́da</b> (unbetont in {64,7}): <div n='TS'>-ati <b>prá:</b> kṣā́m {158,4}. <div n='TS'><chg type='chg' n='97' src='gra'><old>-tha [-thā]</old><new>-atha [-athā]</new></chg> 1〉 vánā {64,7} (mṛgā́s iva hastínas). <div n='H'><ab>Perf.</ab> <b>cakā́d:</b> <div n='TS'>-da [<pe>3.</pe> <ab>s.</ab>] <b>ā:</b> avasám, paṇím {502,1}."
+        },
+        {
+            "word": "खाद्",
+            "eid": "11096",
+            "pagenum": 1743,
+            "content": "373,22: avakhādá <ab>st.</ab> avakādá <info vn='chg 96 gra'/>"
+        },
+        {
+            "word": "खाद्",
+            "eid": "11097",
+            "pagenum": 1743,
+            "content": "373,24.b: -atha [-athā] <ab>st.</ab> -tha [-thā] <info vn='chg 97 gra'/>"
+        }
+    ],
+    "LAN": [
+        {
+            "word": "खाद्",
+            "eid": "1311",
+            "pagenum": 148,
+            "content": "<b>√khād</b>¦ (<b>khā́dati; cakhā́da; khādiṣyáte;</b> <b>khāditá; khā́ditum; khāditvā́; khādyáte;</b> <lbinfo n='khād-yáte;'/> <b>khādáyati</b>). chew; bite; eat, <i><ab>esp.</ab></i> of animals; feed on, <ls n='lan,24,16'>24<sup>16</sup></ls>; devour, <ls n='lan,21,11'>21<sup>11</sup></ls>; <b>khādita,</b> eaten, <ls n='lan,23,3'>23<sup>3</sup></ls>, <ab>etc.</ab> [if for <b>*skand</b> or <b>sknd,</b> <ab>cf.</ab> <lang n='greek'>κνίζω, √κνιδ</lang>, ‘bite, sting,’ <lang n='greek'>κνίδη</lang>, ‘nettle,’ but not <ab>Eng.</ab> <i>nettle.</i>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "खाद्",
+            "eid": "11326",
+            "pagenum": 227,
+            "content": "KAd(t)¦ <i>ind.</i> The sound made in clearing the throat."
+        },
+        {
+            "word": "खाद्",
+            "eid": "11340",
+            "pagenum": 227,
+            "content": "KAd¦ <i>vt. 1P (pp. खादित)</i> 1. To eat, to devour, to feed, to prey upon, to bite, खादन्मांसं न दुष्यति <ls>M.</ls>v.32, 53, <ls>Bh.</ls>vi.6, ix.78, xiv.87, 101."
+        }
     ]
 }

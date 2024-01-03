@@ -31,5 +31,57 @@
             "pagenum": 78,
             "content": "आयस¦ <i>āyasa</i> <ab>a.</ab> <i>(ayas)</i> de fer. -- <ab>S.</ab> <ab>n.</ab> fer. -- <ab>S.</ab> <ab>f.</ab> <i>āyasī</i> armure de fer, cuirasse ou cotte-de-mailles."
         }
+    ],
+    "CAE": [
+        {
+            "word": "आयस",
+            "eid": "4458",
+            "pagenum": 65,
+            "content": "आयस/¦ (<lex>f.</lex> °सी/ or आ/यसी) of iron, metallic."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "आयस",
+            "eid": "2768",
+            "pagenum": 43,
+            "content": "आयस/¦ <i>f.</i> °/सी <i>o.</i> आ/यसी eisern, ehern."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "आयस",
+            "eid": "1576",
+            "pagenum": 182,
+            "content": "<b>āyasá,</b>¦ <ab>a.</ab>, <i>ehern, eisern</i> [von áyas], <ab>fem.</ab> ā́yasī. <div n='TS'>-ás vájras {80,12}; {705,3}; {922,3}. _{922,4}; {56,3}; {922,8}. <div n='TS'>-ám vájram {52,8}; {81,4}; {874,3}; {939,5}; áśmānam {121,9}. <div n='TS'>-ī pū́r {531,14}; {611,1}. <div n='TS'>-īm jáṅghām {116,15}; vā́śīm {649,3}; púram {709,8}. <div n='TS'>-īs [<ab>N.</ab>] púras {323,1}. <div n='TS'>-īs [<ab>A.</ab>] púras {211,8}; {927,8}. <div n='TS'>-ībhis pūrbhís {58,8}; {519,7}."
+        },
+        {
+            "word": "आयस",
+            "eid": "12159",
+            "pagenum": 1754,
+            "content": "<b>āyasá:</b>¦<info vn='add 139 gra'/> <div n='TS'>-īm in {649,3} und {709,8} auf letzter Silbe betont."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "आयस",
+            "eid": "641",
+            "pagenum": 126,
+            "content": "<b>āyasá,</b>¦ <i><ab>a.</ab></i> metallic, of iron; <i>as <ab>n.</ab></i> metal, iron. [<b>áyas,</b> <ls n='wg,1208'>1208a</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "आयस",
+            "eid": "05295",
+            "pagenum": 105,
+            "content": "Ayasa¦ <i>(I) a. (f. सी)</i> Made of iron, सखि मा जल्प तवायसी रसज्ञा <ls>Bh.V.</ls>ii.59."
+        },
+        {
+            "word": "आयस",
+            "eid": "05296",
+            "pagenum": 105,
+            "content": "Ayasa¦ <i>(II) n.</i> 1. Anything made of iron, अयस्कान्त इवायसम् <ls>R.</ls>xvii.68, <ls>K.S.</ls>vi.55; 2. iron."
+        }
     ]
 }

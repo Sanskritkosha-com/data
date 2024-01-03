@@ -90,5 +90,51 @@
             "pagenum": 321,
             "content": "दिवाकर¦ <i>divākara</i> <ab>m.</ab> Soleil. || Tournesol, <lbinfo n='6'/> plante. || <ab>Cf.</ab> <i>divasakara.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "दिवाकर",
+            "eid": "13724",
+            "pagenum": 225,
+            "content": "दिवाकर/¦ <lex>m.</lex> the sun (day-maker)."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दिवाकर",
+            "eid": "9753",
+            "pagenum": 173,
+            "content": "दिवाकर/¦ <i>m.</i> Sonne <i>(vgl.</i> दिनकर)."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "दिवाकर",
+            "eid": "1695",
+            "pagenum": 99,
+            "content": "<i>divākara</i>¦ (IE 7-1-2), ‘twelve’."
+        }
+    ],
+    "INM": [
+        {
+            "word": "दिवाकर",
+            "eid": "3630",
+            "pagenum": 256,
+            "content": "<b>Divākara</b><sup>1</sup>,¦ a Suparṇa, the son of Garuḍa. § 564 (Mātalīyop.): V, <b>101</b>β, 3599."
+        },
+        {
+            "word": "दिवाकर",
+            "eid": "3631",
+            "pagenum": 256,
+            "content": "<b>Divākara</b><sup>2</sup>¦ = Sūrya (the Sun), q.v."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दिवाकर",
+            "eid": "16873",
+            "pagenum": 332,
+            "content": "divA-kara¦ <i>m.</i> 1. the sun, <ls>R.</ls>xix.8, <ls>K.S.</ls>i.12, v.48; 2. a crow; 3. the sun-flower."
+        }
     ]
 }

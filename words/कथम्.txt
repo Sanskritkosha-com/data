@@ -44,5 +44,45 @@
             "pagenum": 137,
             "content": "कथम्¦ <i>katham</i> <ab>adv.</ab> <i>(ka;</i> <ab>sfx.</ab> <i>tha</i> à l'<ab>ac.</ab>) comment?  <P><i>kathamapi</i> <ab>adv.</ab> à peine; || <ab>mms.</ab> que <i>kathañcit.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "कथम्",
+            "eid": "6930",
+            "pagenum": 107,
+            "content": "कथ/म्¦ <ab>adv.</ab> how? in what way? whence? <ab>interr.</ab> & <ab>excl.</ab>; often followed by नु ( = कथम् alone or = how much more, <ab>w.</ab> neg. how much less); also by इव, नाम, स्विद्. With चन, चिद्, & (later) अपि indef. somehow, in any way, scarcely, hardly, a little (कथम् sometimes doubled); <ab>w.</ab> a negation (कथं चन also alone) in no way, by no means, not at all. यथा कथं चिद् howsoever, anyhow."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "कथम्",
+            "eid": "4282",
+            "pagenum": 71,
+            "content": "कथ/म्¦ <i>Adv.</i> wie? woher? warum? <i>(auch</i> <i>im Ausruf); oft verb. mit</i> नु (wie viel mehr, <i>mit Neg.</i> — weniger); इव, नाम, स्विद् wie wohl, woher wohl? Mit चन, चिद <i>u. (später)</i> अपि <i>indef.</i> irgendwie, mit Mühe, mit knapper Not, eben nur, kaum <i>(wobei</i> कथम् <i>oft verdoppelt)</i>; <i>mit (bei</i> चन <i>auch ohne) Negation</i> auf keine Weise, unter keinen Umständen, <lbinfo n='8'/> durchaus nicht. यथा कथं चिद् auf welche Weise auch immer."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "कथम्",
+            "eid": "2400",
+            "pagenum": 311,
+            "content": "<b>kathám,</b>¦ <i>wie ? auf welche Weise ?</i> {934,1}; <i>wie ? woher ?</i> {415,2} [von ká]."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "कथम्",
+            "eid": "1007",
+            "pagenum": 139,
+            "content": "<b>kathám,</b>¦ <i>Vedic</i> <b>kathā́,</b> <i><ab>interr.</ab> <ab>adv.</ab></i> how ? in what way ? <b>katham etat,</b> how's that ? <b>kathaṃ nu,</b> how indeed ? <b>kathaṃ cana,</b> in any wise soever (<i>emphasizing a preceding </i> <lbinfo n='preced-ing'/> <i>negation</i>); <b>katham api,</b> somehow. [<b>ka,</b> <b><ls n='wg,1101'>1101.</ls></b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "कथम्",
+            "eid": "08000",
+            "pagenum": 163,
+            "content": "kaTam¦ <i>ind.</i> How, whence, in what way, in what manner, कथं मारात्मके त्वयि विश्वासः <ls>Hit.</ls>i., सानुबंधाः कथं न स्युः संपदो मे निरापदः <ls>R.</ls>i.64, iii.44.<P>Sometimes कथम् introduces a question when the speaker doubts the propriety of what he says, कथमात्मानं निवेदयामि <ls>Sak.</ls>i.<P>कथम् is often connected with the particles इव, वा, नाम, नु or स्विद् in order to generalize the interrogation, and may be rendered by ‘how indeed,’ कथं नाम तत्रभवान् धर्ममत्यक्षत्, कथं नु शक्योऽनुनयो महर्षेः <ls>R.</ls>ii.54, पीडयंते गृहिणः कथं नु तनयाविश्लेषदुःखैर्नवैः <ls>Sak.</ls>i., कथं वा गम्यते <ls>Ut.</ls>iii.<P>When connected with the particle चन, it means ‘in every way,’ ‘in anyway,’ ‘on every account,’ ‘somehow,’ ‘with great difficulty,’ न लोकवृत्तं वर्तेत वृत्तिहेतोः कथंचन <ls>M.</ls>iv.11, उच्छिष्टेन तु संस्पृष्टो द्रव्यहस्तः कथंचन v.143, वृद्धेनोत्पादिताः पुत्रा मया चैते कथंचन <ls>Ram.</ls> <P>With चित् or चिदपि or अपि, it means ‘by great effort,’ ‘on any account,’ ‘somehow,’ ‘with great difficulty,’ कथंचिदीडा मनसां बभूवुः <ls>K.S.</ls>iii.34, इत्यर्थमुक्त्वा कथंचित् <ls>Am.S.</ls>50, विशृज्य कथमप्युमाम् <ls>K.S.</ls>vi.3, <ls>Megh.</ls>i.3, 22, <ls>Am.S.</ls>12, 39, 73."
+        }
     ]
 }

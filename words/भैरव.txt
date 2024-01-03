@@ -87,5 +87,57 @@
             "pagenum": 481,
             "content": "भैरव¦ <i>bhairava</i> <ab>a.</ab> <i>(bhīru)</i> terrible, formidable. <lbinfo n='6'/> -- <ab>S.</ab> <ab>m.</ab> nom d'un mode musical. || <s1 slp1='Siva'>Śiva</s1> [dans qqune de ses 8 incarnations secondaires]. <lbinfo n='11'/> || <ab>Np.</ab> de riviere. -- <ab>S.</ab> <ab>n.</ab> horreur, terreur. -- <ab>S.</ab> <ab>f.</ab> <i>bhairavi,</i> <s1 slp1='durgA'>Durgā</s1>."
         }
+    ],
+    "CAE": [
+        {
+            "word": "भैरव",
+            "eid": "23272",
+            "pagenum": 386,
+            "content": "भैरव¦ <lex>f.</lex> आ & ई formidable, awful, horrible, <lex>n.</lex> <ab>adv.</ab> — <lex>m.</lex> a form of Śiva, a man's name; <lex>f.</lex> ई a form of Durgā."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "भैरव",
+            "eid": "17652",
+            "pagenum": 312,
+            "content": "भैरव,¦ <i>f.</i> आ <i>u.</i> ई grausig, <i>n. adv. m.</i> eine From Śiva's <i>Mannsname. f.</i> ई eine From der Durgā."
+        }
+    ],
+    "INM": [
+        {
+            "word": "भैरव",
+            "eid": "1289",
+            "pagenum": 119,
+            "content": "<b>Bhairava</b>.¦ § 67 (Sarpasattra): I, 2158 (a Nāga of Dhṛtarāṣṭra's race)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "भैरव",
+            "eid": "3057",
+            "pagenum": 209,
+            "content": "<b>bhairava,</b>¦ <i><ab>a.</ab></i> fearful, <i><ab>i. e.</ab></i> awful; <i>as <ab>m.</ab></i> Terrible, name of a hunter. [<b>bhīrú,</b> <ls n='wg,1208'>1208c</ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "भैरव",
+            "eid": "28003",
+            "pagenum": 537,
+            "content": "BErava¦ <i>(I) a. (f. वी)</i> 1. Relating to Bhairava; 2. terrible, terrific, horrible."
+        },
+        {
+            "word": "भैरव",
+            "eid": "28004",
+            "pagenum": 537,
+            "content": "BErava¦ <i>(II) m.</i> A form of Śiva."
+        },
+        {
+            "word": "भैरव",
+            "eid": "28005",
+            "pagenum": 537,
+            "content": "BErava¦ <i>(III) n.</i> Terror, horror."
+        }
     ]
 }

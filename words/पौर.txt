@@ -65,5 +65,69 @@
             "pagenum": 425,
             "content": "पौर¦ <i>paura</i> <ab>a.</ab> <i>(pura)</i> urbain, de la ville. -- <ab>S.</ab> <ab>m.</ab> citadin. -- <ab>S.</ab> <ab>n.</ab> <ab>esp.</ab> d'herbe odoriférante. <lbinfo n='10'/>  <P><i>pauraka</i> <ab>n.</ab> jardin autour d'une maison.  <P><i>paurajana</i> <ab>m.</ab> homme de la ville, citadin, citoyen.  <P><i>paurajānapada</i> <ab>a.</ab> urbain et rural.  <P><i>paurandara</i> <ab>a.</ab> d'<s1 slp1='indra'>Indra</s1> <i>purandara.</i>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "पौर",
+            "eid": "20010",
+            "pagenum": 329,
+            "content": "1 पौर/¦ <lex>m.</lex> filler, increaser."
+        },
+        {
+            "word": "पौर",
+            "eid": "20011",
+            "pagenum": 329,
+            "content": "2 पौर¦ <lex>m.</lex> townsman, citizen."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "पौर",
+            "eid": "15049",
+            "pagenum": 265,
+            "content": "1. पौर/¦ <i>m.</i> Füller, Sättiger, Mehrer."
+        },
+        {
+            "word": "पौर",
+            "eid": "15050",
+            "pagenum": 265,
+            "content": "2. पौर¦ <i>m.</i> Städter, Bürger."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "पौर",
+            "eid": "5829",
+            "pagenum": 863,
+            "content": "<b>paurá,</b>¦ <ab>m.</ab> [von pur], 1〉 <i>Füller</i> vom Soma, sofern er des Geniessenden Bauch füllt (<ab>vgl.</ab> {202,11}); 2〉 <i>Zufüller, Spender</i> [pur 4] von Göttern und Menschen (Opferen); 3〉 <i>Spender, Mehrer</i> mit dem <ab>Gen.</ab> [pur 3]; 4〉 Eigenname eines von Indra ({623,12}) oder den Aśvinen ({428,4}) begünstigten Mannes, Sängers. <div n='TS'>-ás 1〉 {202,11} (neben sutā́sas pṛṇántas kukṣī́). — 3〉 〰 áśvasya purukṛ́t gávām asi (indra) {670,6}. <div n='TS'>-ám 1〉 {428,4} (udaprútam). — 4〉 {623,12}. <div n='TS'>-ā́ya 4〉 {428,4}. <div n='TS'>-é 1〉 {1019,5}. <div n='TS'>-ā [<ab>V.</ab> <ab>du.</ab>, <ls>Text</ls> -a] 2〉 (aśvinau) {428,4}. <div n='TS'>-ā́sas 2〉 {1023,1}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "पौर",
+            "eid": "4318",
+            "pagenum": 248,
+            "content": "<i>paura</i>¦ (CII 4), name of a coin."
+        },
+        {
+            "word": "पौर",
+            "eid": "7772",
+            "pagenum": 437,
+            "content": "<i>paura,</i>¦ cf. <i>purāṇa.</i>"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "पौर",
+            "eid": "23587",
+            "pagenum": 454,
+            "content": "pOra¦ <i>(I) a. (f. री)</i> Relating to town."
+        },
+        {
+            "word": "पौर",
+            "eid": "23588",
+            "pagenum": 454,
+            "content": "pOra¦ <i>(II) m.</i> A townsman, a citizen, (op. to जानपद), <ls>R.</ls>ii.10, 74, xii.3, xvi.9."
+        }
     ]
 }

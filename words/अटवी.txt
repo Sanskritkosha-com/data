@@ -36,5 +36,53 @@
             "pagenum": 5,
             "content": "अटवी¦ <i>f.</i> sylva. HIT. 41. 1."
         }
+    ],
+    "CAE": [
+        {
+            "word": "अटवी",
+            "eid": "454",
+            "pagenum": 7,
+            "content": "अटवी¦ <lex>f.</lex> forest."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "अटवी",
+            "eid": "309",
+            "pagenum": 5,
+            "content": "अटवी¦ f. Wald"
+        }
+    ],
+    "GST": [
+        {
+            "word": "अटवी",
+            "eid": "1020",
+            "pagenum": 29,
+            "content": "अटवी¦ f. (-वी) A forest or grove. See अटवि."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "अटवी",
+            "eid": "618",
+            "pagenum": 35,
+            "content": "<i>aṭavī</i>¦ (CII 1), the forest-folk. <div n='P'>(<i>SITI</i>), troops."
+        }
+    ],
+    "INM": [
+        {
+            "word": "अटवी",
+            "eid": "926",
+            "pagenum": 99,
+            "content": "<b>Aṭavī</b>.¦ § 284 (Sahadeva): II, <b>31</b>α, 1175 (<i>purīṃ ramyāṃ</i>, a city conquered by Sahadeva)."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "अटवी",
+            "eid": "94",
+            "pagenum": 113,
+            "content": "<b>aṭavī,</b>¦ <i><ab>f.</ab></i> forest. [perhaps, ‘roaming-place,’ <b>√aṭ.</b>]"
+        }
     ]
 }

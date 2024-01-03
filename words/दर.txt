@@ -55,5 +55,57 @@
             "pagenum": 312,
             "content": "दर¦ <i>dara</i> <ab>m.</ab> <ab>n.</ab> <i>darā</i> et <i>darī</i> <ab>f.</ab> <i>(dṝ)</i> crevasse, <lbinfo n='6'/> trou, cavité, caverne, grotte. || Au <ab>fig.</ab> peur. || <ab>Gr.</ab> <lang n='greek'>δειρά</lang>.  <P><i>daraṇi</i> <ab>m.</ab> (<ab>sfx.</ab> <i>ni)</i> tournant d'eau, gouffre.  <P><i>darad</i> <ab>f.</ab> précipice; montagne; || levée de terre, rempart, escarpe. || Au <ab>fig.</ab> peur. || Cavité du cœur. || <ab>Np.</ab> d'une population barbare. || <ab>Gr.</ab> <lang n='greek'>δειράς</lang>.  <P><i>darada</i> <ab>m.</ab> terreur. || <ab>Np.</ab> d'une tribu barbare. -- <ab>M.</ab> <ab>f.</ab> <ab>np.</ab> d'un pays [? le Tanjore]. <lbinfo n='6'/>  <P><i>darayāmi</i> (<ab>dénom.</ab>); <ab>pp.</ab> <i>darita;</i> épouvanter; <lbinfo n='7'/> || éloigner par la terreur: <i>dasyum</i> le <s1 slp1='dasyu'>Dasyu</s1>, <ab>Vd.</ab>"
         }
+    ],
+    "CAE": [
+        {
+            "word": "दर",
+            "eid": "13341",
+            "pagenum": 219,
+            "content": "†दर¦ <lex>a.</lex> cleaving, rending, opening (—°); °— & <lex>n.</lex> little, a little. <lex>m.</lex> a hole in the earth, pit, cavern (also <lex>f.</lex> ई); fear, terror."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "दर",
+            "eid": "9420",
+            "pagenum": 167,
+            "content": "दर¦ spaltend, erschließend (—°); <i>n. u.</i> °— ein wenig. <i>m. u.</i> ई <i>f.</i> Loch, Höhle."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "दर",
+            "eid": "4105",
+            "pagenum": 579,
+            "content": "<b>(dará),</b>¦ <ab>a.</ab>, <ab>m.</ab>, <i>zertrümmernd</i> [von dar, enthalten in puraṃ-dará]."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "दर",
+            "eid": "1897",
+            "pagenum": 168,
+            "content": "<b>dara,</b>¦ <i><ab>m.</ab></i> cleft, hole. [<b>√1dṛ.</b>]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "दर",
+            "eid": "16518",
+            "pagenum": 326,
+            "content": "dara¦ <i>(I) m.n.</i> 1. A cave, a cavity; 2. a conch-shell."
+        },
+        {
+            "word": "दर",
+            "eid": "16519",
+            "pagenum": 326,
+            "content": "dara¦ <i>(II) m.</i> Fear, terror, न जातहार्देन न विद्विषादरः <ls>Kir.</ls>i.33."
+        },
+        {
+            "word": "दर",
+            "eid": "16520",
+            "pagenum": 326,
+            "content": "dara¦ <i>(III) ind.</i> A little, दरमीलिन्नयना निरीक्षते <ls>Bh.V.</ls>ii.182, 7."
+        }
     ]
 }

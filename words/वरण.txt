@@ -36,5 +36,63 @@
             "pagenum": 470,
             "content": "<b>varaṇa</b>¦, <lex>nt.</lex>, a high number: <ls>Mvy</ls> 〔7852〕 (cited from <ls>Gv</ls>); <ab>prob.</ab> = <b>vivaraṇa</b>, <ls>Gv</ls> 〔105.25〕; but <ab>cf.</ab> also <ls>Gv</ls> 〔105.26〕, <ab>perh.</ab> read sattva-varaṇasya (<lex>gen.</lex>) for sattva-ṇavaraṇasya; no equivalent seems to occur in the similar list <ls>Gv</ls> 〔133〕 (it should occur about line 10). <lang>Tib.</lang> on <ls>Mvy</ls> <tib>gzhal dpag</tib>, the same as the rendering of <b>dharaṇa</b>, <ab>q.v.</ab>; this suggests that one or the other is a corruption. But <ls>Gv</ls> supports varaṇa, while the <lang>Tib.</lang> rendering seems to support dharaṇa, which in <lang>Skt.</lang> is the name of a weight (<lang>Tib.</lang> <tib>gzhal</tib>)."
         }
+    ],
+    "CAE": [
+        {
+            "word": "वरण",
+            "eid": "28214",
+            "pagenum": 474,
+            "content": "1 वरण/¦ <lex>m.</lex> a kind of tree; <lex>f.</lex> आ <ab>N.</ab> of a river."
+        },
+        {
+            "word": "वरण",
+            "eid": "28215",
+            "pagenum": 474,
+            "content": "2 वरण¦ <lex>n.</lex> choosing, wishing, suing; <lex>m.</lex> <ab>pl.</ab> <ab>cert.</ab> verses recited at the choice of a priest."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "वरण",
+            "eid": "21388",
+            "pagenum": 385,
+            "content": "1. वरण/¦ <i>m.</i> ein best Baum."
+        },
+        {
+            "word": "वरण",
+            "eid": "21389",
+            "pagenum": 385,
+            "content": "2. वरण¦ <i>m. Pl.</i> die Sprüche bei der Priesterwahl; <lbinfo n='5'/> <i>n.</i> Wahl, Wunsch, Werbung."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "वरण",
+            "eid": "6421",
+            "pagenum": 363,
+            "content": "<i>varaṇa</i>¦ (SITI), the selection or election of a person to a committee."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "वरण",
+            "eid": "3706",
+            "pagenum": 238,
+            "content": "<b>varaṇa,</b>¦ <i><ab>n.</ab></i> a choosing. [<b>√2vṛ,</b> ‘choose.’]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "वरण",
+            "eid": "33621",
+            "pagenum": 641,
+            "content": "varaRa¦ <i>(I) m.</i> 1. A rampart, a wall; 2. a bridge; 3. a camel; 4. a tree, इह सिंधवश्च वरणावरणाः <ls>Kir.</ls>v.25."
+        },
+        {
+            "word": "वरण",
+            "eid": "33622",
+            "pagenum": 641,
+            "content": "varaRa¦ <i>(II) n.</i> 1. Screening, closing, covering; 2. selecting; 3. soliciting, requesting; 4. choice of a husband."
+        }
     ]
 }

@@ -36,5 +36,77 @@
             "pagenum": 701,
             "content": "सव¦ <i>sava</i> <ab>m.</ab> <i>(sū;</i> <ab>sfx.</ab> <i>a)</i> extraction, expression <lbinfo n='8'/> d'un suc, surtout du <s1 slp1='soma'>soma</s1>; || par <ab>ext.</ab> le Sacrifice; || <s1 slp1='soma'>Soma</s1> ou la Lune, au <ab>m.</ab> || Le Soleil. || Génération. -- <ab>N.</ab> suc exprimé; <lbinfo n='3'/> || le <s1 slp1='soma'>soma</s1>. || Liquide; eau.  <P><i>savana</i> <ab>n.</ab> extraction du <s1 slp1='soma'>soma</s1>; en <ab>gén.</ab> sacrifice; <i>triṣavaṇa</i> les trois sacrifices quotidiens <lbinfo n='7'/> [du matin, de midi et du soir; || bain sacré qui précède la cérémonie. || Génération, <lbinfo n='9'/> enfantement.  <P><i>savanagraha</i> <ab>m.</ab> étoile qui marque le commencement du <i>triṣavaṇa</i> pour chaque époque de l'année."
         }
+    ],
+    "CAE": [
+        {
+            "word": "सव",
+            "eid": "36026",
+            "pagenum": 604,
+            "content": "1 सव/¦ <lex>m.</lex> pressing, <ab>esp.</ab> of Soma."
+        },
+        {
+            "word": "सव",
+            "eid": "36027",
+            "pagenum": 604,
+            "content": "2 सव/¦ <lex>m.</lex> bidder, impeller, impulse, command, enlivening, vivifying, <ab>N.</ab> of <ab>cert.</ab> sacrificial rites."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "सव",
+            "eid": "26925",
+            "pagenum": 486,
+            "content": "1. सव/¦ <i>m.</i> Kelterung, Somapressung."
+        },
+        {
+            "word": "सव",
+            "eid": "26926",
+            "pagenum": 486,
+            "content": "2. सव/¦ <i>m.</i> Anreger; Anregung, Geheiß. Belebung; Einweihung, Bestellung <i>(r.).</i>"
+        }
+    ],
+    "GRA": [
+        {
+            "word": "सव",
+            "eid": "9478",
+            "pagenum": 1491,
+            "content": "<hom>1.</hom> <b>savá,</b>¦ <ab>m.</ab> [von su], <i>der gepresste Somatrank</i> und zwar so viel als durch eine Pressung gewonnen wird. <div n='TS'>-ā́n śyenás abharat sómam, sahásram 〰 {322,7}; śatám 〰 árhati {984,2}; yás me sahásram ámimīta 〰 {126,1} (bildlich von Geschenken)."
+        },
+        {
+            "word": "सव",
+            "eid": "9479",
+            "pagenum": 1491,
+            "content": "<hom>2.</hom> <b>savá,</b>¦ <ab>m.</ab> [von <hom>1.</hom> sū], <i>Antrieb, Anregung, Belebung, Erquickung</i> des Savitar. <div n='TS'>-ám śréṣṭham 〰 savitā́ sāviṣat nas {164,26}; devásya savitúr {554,4}; {711,6}. [Page1492] <div n='TS'>-éna {779,25} savitar pavítreṇa 〰 ca punīhi mā́m. <div n='TS'>-ā́ya {229,1} (úd savitā́ 〰 asthāt); savitúr {113,1}; {290,7}; {350,5}. <div n='TS'>-é savitúr {436,6}. <div n='TS'>-ā́sas yé te trís áhan savitar 〰 {350,6}."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "सव",
+            "eid": "5393",
+            "pagenum": 307,
+            "content": "<i>sava</i>¦ (IE 8-1), contraction of Prakrit <i>savachara</i> = Sanskrit <i>saṃvatsara.</i>"
+        }
+    ],
+    "INM": [
+        {
+            "word": "सव",
+            "eid": "9833",
+            "pagenum": 635,
+            "content": "<b>Sava</b>¦ = Viṣṇu (1000 names)."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "सव",
+            "eid": "40167",
+            "pagenum": 767,
+            "content": "sava¦ <i>(I) m.</i> 1. A sacrifice; 2. an offering; 3. the sun; 4. the moon."
+        },
+        {
+            "word": "सव",
+            "eid": "40168",
+            "pagenum": 767,
+            "content": "sava¦ <i>(II) n.</i> 1. Water; 2. the juice of flowers; 3. sprinkling the <i>Soma</i>."
+        }
     ]
 }

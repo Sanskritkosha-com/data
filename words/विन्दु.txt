@@ -50,5 +50,75 @@
             "pagenum": 594,
             "content": "विन्दु¦ <i>vindu</i> <ab>m.</ab> goutte; || marque, tache; <lbinfo n='4'/> || marque de couleur tracée sur la face ou sur la trompe d'un éléphant; || le signe de l'<s1 slp1='anusvAra'>anusvāra</s1>, <ab>tg.</ab> || Le point qui sépare <lbinfo n='4'/> les deux sourcils.  <P><i>vinducitraka</i> <ab>m.</ab> antilope tachetée.  <P><i>vindujāla</i> <ab>n.</ab> marques de couleur sur la face ou sur la trompe d'un éléphant.  <P><i>vindutantra</i> <ab>m.</ab> dé à jouer.  <P><i>vindurekhaka</i> <ab>m.</ab> <ab>esp.</ab> d'oiseau."
         }
+    ],
+    "CAE": [
+        {
+            "word": "विन्दु",
+            "eid": "29671",
+            "pagenum": 498,
+            "content": "1 विन्दु¦ <lex>a.</lex> knowing, familiar with (—°)."
+        },
+        {
+            "word": "विन्दु",
+            "eid": "29672",
+            "pagenum": 498,
+            "content": "2 विन्दु¦ <lex>a.</lex> finding, winning, procuring."
+        },
+        {
+            "word": "विन्दु",
+            "eid": "29673",
+            "pagenum": 498,
+            "content": "3 विन्दु¦ <ab>v.</ab> बिन्दु/."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "विन्दु",
+            "eid": "22556",
+            "pagenum": 408,
+            "content": "1. विन्दु¦ <i>dass.</i>"
+        },
+        {
+            "word": "विन्दु",
+            "eid": "22557",
+            "pagenum": 408,
+            "content": "2. विन्दु¦ kennend, vertraut mit (—°)."
+        },
+        {
+            "word": "विन्दु",
+            "eid": "22558",
+            "pagenum": 408,
+            "content": "3. विन्दु¦ <i>s.</i> बिन्दु."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "विन्दु",
+            "eid": "8042",
+            "pagenum": 1282,
+            "content": "<b>(vindu),</b>¦ <ab>a.</ab>, <i>findend, aufsuchend</i> [<ab>v.</ab> vind], in go-vindú."
+        }
+    ],
+    "IEG": [
+        {
+            "word": "विन्दु",
+            "eid": "6628",
+            "pagenum": 374,
+            "content": "<i>vindu</i>¦ (EI 7-1-2), also spelt <i>bindu;</i> ‘cypher’. <div n='P'>(<i>SII</i> 2), a flaw in diamonds."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "विन्दु",
+            "eid": "35133",
+            "pagenum": 667,
+            "content": "vindu¦ <i>(I) a.</i> Wise, intelligent."
+        },
+        {
+            "word": "विन्दु",
+            "eid": "35134",
+            "pagenum": 667,
+            "content": "vindu¦ <i>(II) m.</i> The same as बिंदु q.v."
+        }
     ]
 }

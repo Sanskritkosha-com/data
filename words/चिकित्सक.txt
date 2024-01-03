@@ -44,5 +44,29 @@
             "pagenum": 244,
             "content": "चिकित्सक¦ <i>cikitsaka</i> <ab>m.</ab> (<ab>dés.</ab> de <i>kit)</i> médecin."
         }
+    ],
+    "CAE": [
+        {
+            "word": "चिकित्सक",
+            "eid": "10493",
+            "pagenum": 172,
+            "content": "चिकित्सक¦ <lex>m.</lex> physician."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "चिकित्सक",
+            "eid": "7000",
+            "pagenum": 124,
+            "content": "चिकित्सक¦ <i>m.</i> Arzt."
+        }
+    ],
+    "LRV": [
+        {
+            "word": "चिकित्सक",
+            "eid": "13616",
+            "pagenum": 272,
+            "content": "cikitsaka¦ <i>m.</i> A physician, धन्याः संति चिकित्सका दिशि दिशि प्रायेण धर्मार्थिनः <ls>Bhartr.</ls>i.87."
+        }
     ]
 }

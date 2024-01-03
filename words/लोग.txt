@@ -7,5 +7,37 @@
             "pagenum": 934,
             "content": "लोगः¦ A clod, lump of earth."
         }
+    ],
+    "CAE": [
+        {
+            "word": "लोग",
+            "eid": "27758",
+            "pagenum": 465,
+            "content": "लोग/¦ <lex>m.</lex> clod of earth."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "लोग",
+            "eid": "21038",
+            "pagenum": 378,
+            "content": "लोग/¦ <i>m.</i> Erdkoß, Scholle."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "लोग",
+            "eid": "7534",
+            "pagenum": 1188,
+            "content": "<b>logá,</b>¦ <ab>m.</ab>, <i>Scholle, Erdkloss</i> (wol von ruj zerschellen, <ab>vgl.</ab> Scholle) (<ls>BR.</ls>). <div n='TS'>-ám {844,13} imám 〰 nidádhan. <div n='TS'>-éna {854,9} ádrim 〰 ví abhedam."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "लोग",
+            "eid": "3640",
+            "pagenum": 235,
+            "content": "<b>logá,</b>¦ <i><ab>m.</ab></i> clod (of earth). [<b>√ruj,</b> ‘break,’ <ls n='wg,216'>216.</ls> 1: for <ab>mg</ab>, see under <b>mṛ́d.</b>]"
+        }
     ]
 }

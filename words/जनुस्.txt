@@ -20,5 +20,51 @@
             "pagenum": 506,
             "content": "जनुस्¦ <i><ab>n.</ab></i> <b>1</b> Birth; धिग्वारिधीनां जनुः <ls>Bv. 1. 16.</ls> <b>--2</b> Creation, <lbinfo n='produc+tion'/> production. <b>--3</b> Life, existence; जनुः <lbinfo n='sarva#SlADyaM'/> सर्वश्लाध्यं जयति ललितोत्तंस भवतः  <lbinfo n='ls:Bv. 2.+ 55.'/> <ls>Bv. 2. 55.</ls> <b>--4</b> Nativity. <b>--5</b> Birth-place. <b>--6</b> A creature, being. <b>--7</b> Genus, kind. <b>--Comp.</b> --जनुषांधः blind from birth, born blind."
         }
+    ],
+    "CAE": [
+        {
+            "word": "जनुस्",
+            "eid": "11003",
+            "pagenum": 181,
+            "content": "जनु/स्¦ <lex>n.</lex> birth, origin, birthplace; creature, being; creation, production, work; race, kind. Instr. जनु/षा by birth or nature, essentially, necessarily."
+        }
+    ],
+    "CCS": [
+        {
+            "word": "जनुस्",
+            "eid": "7417",
+            "pagenum": 132,
+            "content": "जनु/स्¦ <i>n.</i> Geburt, Ursprung, Geschöpf, Werk. <i>Instr.</i> जनु/षा von Geburt o. Natur."
+        }
+    ],
+    "GRA": [
+        {
+            "word": "जनुस्",
+            "eid": "3413",
+            "pagenum": 476,
+            "content": "<b>janús,</b>¦ <ab>n.</ab>, <ab>m.</ab> [von jan], 1〉 <i>Geburt, Ursprung;</i> 2〉 <i>Schöpfung, Hervorbringung;</i> 3〉 <i>Geschöpf, Wesen;</i> 4〉 <i>Geschlecht, Stamm,</i> der Götter und Menschen; 5〉 <i>Art, Wesen, Eigenthümlichkeit</i> (auch <ab>pl.</ab>); 6〉 <ab>Instr.</ab> janúsā, <i>seiner Geburt, seinem Wesen nach, von Haus aus</i>. <div n='TS'>-ū́s [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] 1〉 {574,2} 〰 cid was marutas. <div n='TS'>-úsam [<ab>A.</ab> <ab>s.</ab> <ab>m.</ab>] 1〉 {139,9}; {141,4}. — 5〉 {233,1}. <div n='TS'>-úṣā [<ab>I.</ab>] 6〉 {94,6}; {102,8}; {156,3}; {235,3}. _{235,9}; {236,2}; {280,4}; {282,4}; {316,7}; {383,14}; {384,7}; {411,5}; {413,6}; {445,4}; {456,1}; {536,3}; {537,1}; {641,13}; {911,21}; {918,15}. <div n='TS'>-úṣe 1〉 {399,3}. <div n='TS'>-úṣas [<ab>Ab.</ab>] 1〉 {61,14}; {507,4}; {675,9}. — 3〉 {208,6} (víśvasmāt). <div n='TS'>-úṣī [<ab>d.</ab> <ab>n.</ab>] 4〉 ubhé {782,3}. <div n='TS'>-ū́ṃṣi 1〉 {572,2}. — 4〉 {520,1} (daíviāni mā́nuṣā). — 5〉 {602,1}. <div n='TS'>-úṣām 3〉 rā́jā 〰 {313,20}."
+        },
+        {
+            "word": "जनुस्",
+            "eid": "12350",
+            "pagenum": 1761,
+            "content": "<b>janús:</b>¦<info vn='add 317 gra'/> <div n='TS'>-úṣām 3〉 ávas {151,1}."
+        }
+    ],
+    "LAN": [
+        {
+            "word": "जनुस्",
+            "eid": "1575",
+            "pagenum": 158,
+            "content": "<b>janús,</b>¦ <i><ab>n.</ab></i> origin; ingenium, nature; creation. <lbinfo n='crea-tion.'/> [<b>√jan,</b> <ls n='wg,1154'>1154<sup>2</sup></ls>.]"
+        }
+    ],
+    "LRV": [
+        {
+            "word": "जनुस्",
+            "eid": "14250",
+            "pagenum": 284,
+            "content": "janus¦ <i>n.</i> 1. Birth; 2. life, duration of life, जनः सर्वश्लाघ्य जयति ललितोत्तंस भवतः <ls>Bh.V.</ls>ii.55; 3. creation, production."
+        }
     ]
 }
