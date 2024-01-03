@@ -12,5 +12,21 @@
             "synonyms": [],
             "content": "यद्वदोऽनुत्तरे दुर्वाक्कद्वदे स्यादथाधरः ॥ ३४७ ॥\nहीनवादिन्येडमूकानेडमूकौ त्वावाक्श्रुतौ ।"
         }
+    ],
+    "BHS": [
+        {
+            "word": "एडमूक",
+            "eid": "4100",
+            "pagenum": 155,
+            "content": "<b>eḍamūka</b>¦, <lex>adj.</lex> (<ab>cf.</ab> <b>eḍaka-mūka</b>; = <lang>Pali</lang> eḷamūga), <i>stupid</i> (<ab>lit.</ab> <i>dumb</i>) <i>as a sheep</i> (this, not <i>deaf and dumb</i>, seems to be the regular <ab>mg.</ab> in <lang>Pali</lang> and <lang>BHS</lang>, see <ls>CPD</ls> <ab>s.v.</ab> an-elamūga, an-eḷa°, and <ab>e.g.</ab> <ls>Miln.</ls> 〔251.1—2〕 duppaññā jaḷā eḷamūgā mūḷhā dandhagatikā janā): <ls>Mvy</ls> 〔7684〕 = <lang>Tib.</lang> <tib>lug ltar</tib> (<i>sheep-like</i>) <tib>lkug pa</tib> (<i>dumb</i>, also <i>stupid</i>); <lang>Chin.</lang> also <i>dumb, dumb like sheep</i>, but <lang>Jap.</lang> <i>deaf and dumb</i>; it must be admitted the <lang>Jap.</lang> editorʼs view gets some support from the next word in <ls>Mvy</ls>, hastasaṃvācakaḥ (see <b>saṃvācaka</b>); <ls>AsP</ls> 〔113.2〕 eḍamūkajātīyā(ḥ) prajñāparihīṇās; °ka-saṃgha <ls>MSV</ls> 〔iii.116.18, 21〕; <ls>Śikṣ</ls> 〔51.6〕 dhanva-(= <b>dhandha-</b>, <ab>q.v.</ab>)-gatiṃ jaḍaiḍamūka-gatiṃ; 〔284.1〕 dha- (erasure, read nva for ndha)-jaḍa-eḍamūka-jātīyāḥ. <lang>Skt.</lang> lexicons seem to have abstracted from this <ab>cpd.</ab> an <lex>adj.</lex> eḍa, <i>deaf</i>, assuming that the <ab>cpd.</ab> means <i>deaf and dumb</i>; and in some late texts (see <ls>Schmidt, Nachtr.</ls>), perhaps by direct borrowing from <ab>lexx.</ab>, this usage is actually found in literature. Did <ls>Mvy</ls> also know this interpretation? Sheep are proverbially stupid in other countries than India."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "एडमूक",
+            "eid": "3592",
+            "pagenum": 126,
+            "content": "एडमूक¦ <i>eḍamūka</i> <ab>a.</ab> <i>(mūka)</i> sourd-muet. || Méchant, pervers."
+        }
     ]
 }

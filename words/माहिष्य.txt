@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "क्षत्त्रान्माहिष्यो वैश्यायामुग्रस्तु वृषलस्त्रियाम् ॥ ८९६ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "माहिष्य",
+            "eid": "23131",
+            "pagenum": 864,
+            "content": "माहिष्यः¦ A mixed caste sprung from a Kṣatriya father and <lbinfo n='Vai+śya'/> Vaiśya mother."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "माहिष्य",
+            "eid": "11292",
+            "pagenum": 706,
+            "content": "माहिष्य¦ <i>māhiṣya,</i> <ab>i. e.</ab> <i>mahiṣa +</i> <i>ya,</i> <ab>m.</ab> The offspring of a Kṣatriya father and a Vaiśya mother."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "माहिष्य",
+            "eid": "13335",
+            "pagenum": 505,
+            "content": "माहिष्य¦ <i>māhiṣya</i> <ab>m.</ab> homme né d'un <s1 slp1='kzatriya'>kṣatriya</s1> et d'une <s1 slp1='vESyA'>vaiśyā</s1>."
+        }
     ]
 }

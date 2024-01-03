@@ -12,5 +12,51 @@
             "synonyms": [],
             "content": "अनुयोगकृदाचार्य उपाध्यायस्तु पाठकः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "उपाध्याय",
+            "eid": "2772",
+            "pagenum": 1,
+            "content": "उपाध्याय¦ a grammarian. Quoted by Kṣīrasvāmin in Amarakośodghāṭana and Kṣīrataraṅgiṇī."
+        },
+        {
+            "word": "उपाध्याय",
+            "eid": "30280",
+            "pagenum": 1,
+            "content": "उपाध्याय¦ on alaṃk. Quoted by Arjunavarmadeva on Amaruśataka 54. 56."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "उपाध्याय",
+            "eid": "9094",
+            "pagenum": 337,
+            "content": "उपाध्यायः¦ [उपेत्याधीयते अस्मात्, उप-अधि-इ-घञ्] <b>1</b> A teacher or <lbinfo n='pre+ceptor'/> preceptor in general. <b>--2</b> Particularly, a spiritual teacher, religious <lbinfo n='pre+ceptor'/> preceptor; (by <ls>Y. 1. 35</ls>, a sub-teacher who instructs for wages only in a part of the Veda and is inferior to an आचार्य; एकदेशमुपाध्यायः); <ab>cf.</ab> <ls>Ms. 2. 141</ls>; --एकदेशं तु वेदरय <lbinfo n='vedAMgAnya#pi'/> वेदांगान्यपि वा पुनः । योऽध्यापयति वृत्त्यर्थमुपाध्यायः स उच्यते ॥ see अध्यापक and under आचार्य also. --या A female <lbinfo n='precep+tor'/> preceptor. --यी <b>1</b> A female preceptor. <b>--2</b> The wife of a preceptor."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "उपाध्याय",
+            "eid": "2392",
+            "pagenum": 129,
+            "content": "उपाध्याय¦ <i>upādhyāya,</i> <ab>i. e.</ab> <i>upa</i> <i>-adhi-i + a,</i> <ab>m.</ab> A spiritual preceptor who gives instruction in a part only of the Veda, <ls>Man.</ls> 2, 141; a spiritual preceptor in general, <ls>Śāk.</ls> 61, 11; <ls>Rām.</ls> 1, 11, 13 (19 <ls>Gorr.</ls>). <b> -- <ab>Comp.</ab></b> <i>Paṭṭa-,</i> <ab>m.</ab> a dispatcher of documents (master of the rolls?), <ls>Rājat.</ls> 5, 396. <i>Mahā-,</i> <ab>m.</ab> a reverend master, <ls>Chr.</ls> 175, 1. 17. <i>Mahā</i> <i>-mahā-,</i> <ab>m.</ab> a very reverend master, <ls>Chr.</ls> 235, 6."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "उपाध्याय",
+            "eid": "1474",
+            "pagenum": 51,
+            "content": "उपाध्याय¦ <i>m.</i> (r. इ praef. उप + अधि s. अ) magister, praeceptor. AM."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "उपाध्याय",
+            "eid": "3287",
+            "pagenum": 113,
+            "content": "उपाध्याय¦ <i>upādhyāya</i> <ab>m.</ab> <i>(adhi; i)</i> maître spirituel, précepteur qui enseigne à lire le <s1 slp1='veda'>Veda</s1>. -- <ab>S.</ab> <ab>f.</ab> <i>upādhyāyā</i> institutrice -- <ab>S.</ab> <ab>f.</ab> <i>upādhyāyī</i> et <i>upādyāyānī</i> la femme de l'instituteur. <lbinfo n='9'/>"
+        }
     ]
 }

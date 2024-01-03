@@ -20,5 +20,43 @@
             "synonyms": [],
             "content": "गुड इक्षुरसक्वाथः शर्करा तु सितोपला ॥ ४०२ ॥\nसिता च मधुधूलिस्तु खण्डस्तद्विकृतिः पुनः ।\nमत्स्यण्डी फाणितं चापि रसालायां तु भार्जिता ॥ ४०३ ॥\nशिखरिण्यथ यूर्यूषो रसो दुग्धं तु सोमजम् ।\nगोरसः क्षीरमूधस्यं स्तन्यं पुंसवनं पयः ॥ ४०४ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "यूष",
+            "eid": "23864",
+            "pagenum": 896,
+            "content": "यूषः¦ The Indian mulberry tree."
+        },
+        {
+            "word": "यूष",
+            "eid": "23865",
+            "pagenum": 896,
+            "content": "यूषः --षं यूषन्¦ <i><ab>m.</ab></i> <i><ab>n.</ab></i> Soup, broth pease-soup. (यूषन् has no forms for the first five inflections, and is <lbinfo n='op+tionally'/> optionally substituted for यूष after <ab>acc.</ab> dual)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "यूष",
+            "eid": "11849",
+            "pagenum": 748,
+            "content": "यूष¦ <i>yūṣa,</i> <ab>m.</ab> and <ab>n.</ab> Pease soup.  the water in which pulse of various kinds has been boiled. -- <ab>Cf.</ab> <ab>Lat.</ab> jus; probably also <lang n='greek'>ζωμός, ζύθος</lang>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "यूष",
+            "eid": "6544",
+            "pagenum": 283,
+            "content": "यूष¦ <i>m. n.</i> jus pisinum; Wils. <i>«pease soup, pease porridge</i>, <i>the water in which pulse of various kinds has been boi-</i> <i>led».</i> (Lat. <i>jûs, jûr-is</i> e <i>jûs-is.</i>)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "यूष",
+            "eid": "13872",
+            "pagenum": 528,
+            "content": "यूष¦ <i>yūṣa</i> <ab>m.</ab> <ab>n.</ab> jus, bouillon, sauce; <ab>cf.</ab> <i>jūṣa.</i> -- <ab>M.</ab> mûrier d'Inde."
+        }
     ]
 }

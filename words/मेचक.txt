@@ -36,5 +36,37 @@
             "synonyms": [],
             "content": "स्तनौ तु धरणावग्रे तयोः पिप्पलमेचकौ ॥ १२४ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "मेचक",
+            "eid": "23459",
+            "pagenum": 878,
+            "content": "मेचक¦ <i><ab>a.</ab></i> [<ab>cf.</ab> <ls>Uṇ. 5. 37</ls>] Black, dark-blue, dark-coloured कुर्वन्न <lbinfo n='jana#mecakA'/> जनमेचका इव दिशो मेघः समुत्तिष्ठते  <lbinfo n='ls:Mk.+ 5. 23'/> <ls>Mk. 5. 23</ls>; <ls>U. 6. 25</ls>; <ls>Me. 59.</ls> --कः <b>1</b> Blackness, the dark blue-colour. <b>--2</b> An eye of a peacock's tail;  <lbinfo n='ls:Māl.+ 6. 5.'/> <ls>Māl. 6. 5.</ls> <b>--3</b> A cloud. <b>--4</b> Smoke. <b>--5</b> A nipple. <b>--6</b> A kind of gem. --कं <b>1</b> Darkness. <b>--2</b> Sulphuret of <lbinfo n='anti+mony'/> antimony. <b>--Comp.</b> --आपगा an epithet of the Yamunā."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "मेचक",
+            "eid": "11539",
+            "pagenum": 724,
+            "content": "मेचक¦ <i>mechaka,</i> <b>I.</b> <ab>adj.</ab> Black, <ls>Utt. Rāmac.</ls> 149, 15; dark blue, <ls>Pañc.</ls> ed. orn. i. <ab>d.</ab> 63; <ls>Megh.</ls> 60. <b>II.</b> <ab>m.</ab> <b>1.</b> Black, or dark blue (the colour). <b>2.</b> The eye of a peacock's tail. <b>3.</b> A cloud. <b>4.</b> Smoke. <b>III.</b> <ab>m.</ab> and <ab>n.</ab> Darkness. <b>IV.</b> <ab>n.</ab> Antimony."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "मेचक",
+            "eid": "12259",
+            "pagenum": 439,
+            "content": "<b>mecaka</b>¦, <lex>nt.</lex> (<ab>cf.</ab> <ls>pw</ls> <ab>s.v.</ab> 2c; no other record found), a kind of precious or semi-precious stone: <ls>Mvy</ls> 〔5965〕 = <lang>Tib.</lang> <tib>gzi</tib>, <ab>acc.</ab> to <ls>Das</ls> <i>onyx</i>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "मेचक",
+            "eid": "13576",
+            "pagenum": 516,
+            "content": "मेचक¦ <i>mecaka</i> <ab>a.</ab> noir, bleu foncé, foncé. -- <ab>S.</ab> <ab>m.</ab> couleur foncée. || Nuage; fumée; || œil de la queue du paon. || Moringa hyperanthera, <lbinfo n='11'/> <ab>bot.</ab> -- <ab>M.</ab> <ab>n.</ab> obscurité, ténèbres. <lbinfo n='5'/> -- <ab>N.</ab> sulfure d'antimoine.  <P><i>mecakāpagā</i> <ab>f.</ab> <i>(apagā)</i> la <s1 slp1='yamunA'>Yamunā</s1>."
+        }
     ]
 }

@@ -12,5 +12,51 @@
             "synonyms": [],
             "content": "शूद्रान्त्यवर्णौ वृषलः पद्यः पज्जो जघन्यजः ॥ ८९४ ॥\nते तु मूर्धाभिषिक्ताद्यारथकृन्मिश्रजातयः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "पद्य",
+            "eid": "12882",
+            "pagenum": 1,
+            "content": "पद्य¦ verses in praise of Kṛṣṇa, by Giridhara Dīkṣita. Hall p. 152. <HI>--by Raghunātha. Hall p. 152. <HI>--by Vallabhācārya. Hall p. 146."
+        },
+        {
+            "word": "पद्य",
+            "eid": "34407",
+            "pagenum": 2,
+            "content": "पद्य¦ verses in praise of Kṛṣṇa, by Vallabhācārya. <HI1><symbol n='C.'>C.</symbol> by Haridāsa. Rgb. 727."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "पद्य",
+            "eid": "17740",
+            "pagenum": 665,
+            "content": "पद्य¦ <i><ab>a.</ab></i> <b>1</b> Consisting of Padas or lines. <b>--2</b> Measuring a <i>pada</i>. <b>--3</b> Belonging to the foot. <b>--4</b> Marked with footsteps. <b>--5</b> Belonging to a word. <b>--6</b> Final. --द्यः <b>1</b> A Śūdra. <b>--2</b> A part of a word. --द्या <b>1</b> A <lbinfo n='foot+path'/> footpath, path, way. <b>--2</b> Sugar. --द्यं <b>1</b> A stanza or verse (consisting of four lines); मदीयपद्यरत्नानां मंजूषैषा मया कृता <ls>Bv. 4. 45</ls>; पद्यं चतुष्पदी तच्च वृत्तं जातिरिति द्विधा Cand. <ls>M. 2.</ls> <b>--2</b> Praise, panegyric (स्तुति)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पद्य",
+            "eid": "8085",
+            "pagenum": 514,
+            "content": "पद्य¦ <i>padya,</i> <ab>i. e.</ab> <i>pada + ya,</i> <ab>n.</ab> A verse, <ls>Häberl. Anth.</ls> 529, 1."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "पद्य",
+            "eid": "8882",
+            "pagenum": 318,
+            "content": "<b>Padya</b>¦ (<lex>m.</lex> or <lex>nt.</lex>; <lang>Skt.</lang> only padyā <lex>f.</lex> in this <ab>mg.</ab>, <ab>Lex.</ab> and rarely <ab>lit.</ab>, <ls>Schmidt, Nachträge</ls>; = <lang>Pali</lang> pajja), <i>way, path</i>: padyena kṛtena ātmanā <ls>Mv</ls> 〔iii.395.11〕 (<ab>vs</ab>) = <lang>Pali</lang> <ls>Sn</ls> 〔514〕 pajjena katena attanā."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पद्य",
+            "eid": "10444",
+            "pagenum": 387,
+            "content": "पद्य¦ <i>padya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ya)</i> qui fait partie d'un mot, <ab>tg.</ab> -- <ab>S.</ab> <ab>n.</ab> partie de mot, <ab>tg.</ab>; || mètre poétique. || <ab>Qqf.</ab> bassesse. -- <ab>S.</ab> <ab>f.</ab> <i>padyā</i> hymne; chant mesuré. || Route. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1='SUdra'>śūdra</s1> [né des pieds de <s1 slp1='brahmA'>Brahmā</s1>]."
+        }
     ]
 }

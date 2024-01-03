@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "कामं प्रकामं पर्याप्तं निकामेष्टे यथेप्सिते ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पर्याप्त",
+            "eid": "18438",
+            "pagenum": 685,
+            "content": "पर्याप्त¦ <i><ab>p. p.</ab></i> <b>1</b> Obtained, got <lbinfo n='gain+ed'/> gained; <ls>U. 5. 34.</ls> <b>--2</b> Finished, <lbinfo n='complet+ed'/> completed. <b>--3</b> Full, whole, entire, complete, all; पर्याप्तचंद्रेव शरित्त्रयामा  <lbinfo n='ls:Ku. 7.+ 26'/> <ls>Ku. 7. 26</ls>; <ls>R. 6. 44.</ls> <b>--4</b> Able, <lbinfo n='compe+tent'/> competent, adequate; <ls>R. 10. 25.</ls> <b>--5</b> Enough, sufficient; <ls>R. 15. 11</ls>,  <lbinfo n='ls:17.+17'/> <ls n='R.'>17. 17</ls>; <ls>Ms. 11. 7.</ls> <b>--6</b> Large, extensive, spacious. <b>--7</b> Abundant, copious, many; <ls>Ku. 3. 39.</ls> --त्पं <i><ab>ind.</ab></i> <b>1</b> <lbinfo n='Wil+lingly'/> Willingly, readily. <b>--2</b> To one's <lbinfo n='satis+faction'/> satisfaction. enough, sufficiently;  <lbinfo n='paryApta#mAcAmati'/> पर्याप्तमाचामति <ls>U. 4. 1</ls> ‘drinks his fill.’ <b>--3</b> Fully, adequately, ably, <lbinfo n='compe+tently'/> competently."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "पर्याप्त",
+            "eid": "9272",
+            "pagenum": 335,
+            "content": "<b>paryāptaṃ</b>¦ (= <lang>Pali</lang> pariyattaṃ = alaṃ, <i>it is enough</i>), <i>it is enough</i>: paryāptaṃ yaṃ bhagavāṃ … eko abhiniṣkrānto, tat sādhu bhagavaṃ (<ab>mss.</ab> °vāṃ) rāhulakumāraṃ anujānāhi yaṃ na pravrajiṣyati <ls>Mv</ls> 〔iii.263.9〕 (Śuddhodana to the Buddha); (Mākandikālaṃ, <ab>i.e.</ab> -ka alaṃ) paryāptam iti <ls>Divy</ls> 〔532.14〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "पर्याप्त",
+            "eid": "5013",
+            "pagenum": 212,
+            "content": "पर्याप्त¦ (Part. pass. r. आप् praef. परि s. त) sufficiens, aptus, idoneus. MAN. 7. 76. 11. 7. BH. 1. 10. N. 11. 8. (v. annot. ad hunc locum.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पर्याप्त",
+            "eid": "10838",
+            "pagenum": 401,
+            "content": "पर्याप्त¦ <i>paryāpta</i> (<ab>pp.</ab> de <i>āp)</i> apte, capable, <lbinfo n='4'/> propre à; || suffisant. || <ab>(?)</ab> qui peut être compté.  <P><i>paryāpti</i> <ab>f.</ab> aptitude, capacité, suffisance."
+        }
     ]
 }

@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "कुतूश्चर्मस्नेहपात्रं कुतुपं तु तदल्पकम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कुतुप",
+            "eid": "11105",
+            "pagenum": 409,
+            "content": "कुतुपः, कुतूः¦ <i><ab>f.</ab></i> A small leathern bottle for oil. --पः <b>1</b> The eighth Muhūrta of the day. <b>--2</b> = कुतप 12 <ab>q. v.</ab>"
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कुतुप",
+            "eid": "4959",
+            "pagenum": 186,
+            "content": "<b>kutupa</b>¦, <lex>m.</lex>, <lex>nt.</lex> (<lang>Skt.</lang> <ab>Gr.</ab>-<ab>Lex.</ab> and <lang>AMg.</lang> <ab>id.</ab>, <lex>m.</lex>), <i>oil-flask</i>: °pam, <lex>nt.</lex>, <ls>Mvy</ls> 〔9016〕; taila-°pāḥ, <lex>m.</lex> <ab>pl.</ab> (<ab>ms.</ab> °kutapāḥ) <ls>MSV</ls> 〔ii.141.16〕."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कुतुप",
+            "eid": "4754",
+            "pagenum": 170,
+            "content": "कुतुप¦ <i>kutupa</i> <ab>m.</ab> et <i>kutū</i> <ab>f.</ab> petite bouteille <lbinfo n='6'/> à l'huile en cuir."
+        },
+        {
+            "word": "कुतुप",
+            "eid": "4755",
+            "pagenum": 170,
+            "content": "कुतुप¦ <i>kutupa</i> [<ab>orthogr.</ab> vicieuse de <i>kutapa</i>] <lbinfo n='7'/> la chaleur du jour."
+        }
     ]
 }

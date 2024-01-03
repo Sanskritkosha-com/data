@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "सिध्म किलासं त्वक्पुष्पं सिध्मं कोठस्तु मण्डलम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "किलास",
+            "eid": "10943",
+            "pagenum": 404,
+            "content": "किलास¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Leprous. --सं <b>1</b> A white leprous spot. <b>--2</b> A blotch, scab. <b>--3</b> A kind of leprosy."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "किलास",
+            "eid": "4885",
+            "pagenum": 183,
+            "content": "<b>kilāsa</b>¦, <lex>m.</lex>, <ls>Mvy</ls> 〔6650〕 = <lang>Tib.</lang> <tib>sñoms las</tib>, <i>indolence</i> (<ls>Jä.</ls> and <ls>Das</ls>; but <tib>sñoms (pa)</tib>, <i>weariness</i>). This noun is probably a back-formation from the <lex>adj.</lex> <b>kilāsin</b>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "किलास",
+            "eid": "4616",
+            "pagenum": 165,
+            "content": "किलास¦ <i>kilāsa</i> <ab>m.</ab> bouton, pustule, tout exanthème sur la peau.  <P><i>kilāsaghna</i> <ab>m.</ab> <i>(han)</i> momordica mixta, <ab>bot.</ab>  <P><i>kilāsin</i> <ab>a.</ab> qui a des boutons ou pustules, <ab>etc.</ab>"
+        }
     ]
 }

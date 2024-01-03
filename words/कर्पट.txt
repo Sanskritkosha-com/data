@@ -25,5 +25,37 @@
             "synonyms": [],
             "content": "वस्त्रे निवसनं वस्नं सत्त्रं कर्पटमित्यपि ॥ १३५ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कर्पट",
+            "eid": "10420",
+            "pagenum": 383,
+            "content": "कर्पटः, --टं¦ <b>1</b> Old, ragged or <lbinfo n='patch+ed'/> patched garment. <b>--2</b> A piece of cloth, strip. <b>--3</b> A soiled garment; or a <lbinfo n='red+coloured'/> redcoloured garment. <b>--4</b> A cloth; <ls>Pt. 5.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कर्पट",
+            "eid": "3033",
+            "pagenum": 164,
+            "content": "कर्पट¦ <i>karpaṭa</i> (this and some of the following words seem to be derived from a base <i>karp</i> = <ab>Lat.</ab> carpo), <ab>m.</ab> and <ab>n.</ab> Rags, <ls>Pañc.</ls> 236, 25."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कर्पट",
+            "eid": "1929",
+            "pagenum": 67,
+            "content": "कर्पट¦ <i>m.</i> vestis detrita, pannosa. UP. 5. 9."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कर्पट",
+            "eid": "4103",
+            "pagenum": 145,
+            "content": "कर्पट¦ <i>karpaṭa</i> <ab>m.</ab> <i>(kṛp)</i> haillons, guenilles. <lbinfo n='7'/>  <P><i>karpaṭadhārin</i> <ab>m.</ab> religieux mendiant et vêtu de haillons.  <P><i>karpaṭika</i> <ab>m.</ab> et <i>karpaṭin</i> <ab>m.</ab> <ab>mms.</ab>; || mendiant, gueux en général."
+        }
     ]
 }

@@ -23,5 +23,45 @@
             "synonyms": [],
             "content": "यज्ञो यागः सवः सत्त्रं स्तोमो मन्युर्मखः क्रतुः ।\nसंस्तरः सप्ततन्तुश्च वितानं बर्हिरध्वरः ॥ ८२० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वितान",
+            "eid": "25900",
+            "pagenum": 973,
+            "content": "वितान¦ <i><ab>a.</ab></i> <b>1</b> Vacant, empty. <b>--2</b> Pithless. <b>--3</b> Dismayed, sad;  <lbinfo n='kziti#patimaMqalamanyato'/> क्षितिपतिमंडलमन्यतो वितानं <ls>R. 6. 86.</ls> <b>--4</b> Dull, stupid. <b>--5</b> Wicked, <lbinfo n='abandon+ed'/> abandoned. --नः, --नं <b>1</b> Spreading out, <lbinfo n='ex+pansion'/> expansion, extension; <ls>Śi. 11. 28.</ls> <b>--2</b> An awning, a canopy;  <lbinfo n='vidyulleKAkanakaru#ciraSrIrvitAnaM'/> विद्युल्लेखाकनकरुचिरश्रीर्वितानं ममाब्दः <ls>V. 4. 4</ls>;  <lbinfo n='ls:R. 19.+ 39'/> <ls>R. 19. 39</ls>; <ls>Ki. 3. 42</ls>; <ls>Śi. 3. 50.</ls> <b>--3</b> A cushion. <b>--4</b> A collection, quantity, an assemblage; प्रस्तारस्पगिता <lbinfo n='ivo#nmuKamaRijyotirvitAnErdiSaH'/> इवोन्मुखमणिज्योतिर्वितानैर्दिशः  <lbinfo n='ls:Māl. 6.+5'/> <ls>Māl. 6. 5</ls>; <ls>Ki. 17. 61.</ls> <b>--5</b> A sacrifice; an oblation; वितानेष्वप्ये वं तव मम च सोमे विधिरभूत <ls>Ve. 6. 30</ls>, <ls n='Ve.'>3. 16</ls>,  <lbinfo n='ls:Śi. 14.+ 10.'/> <ls>Śi. 14. 10.</ls> <b>--6</b> The sacrificial hearth or altar. <b>--7</b> Season, opportunity. --नं Leisure, rest."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वितान",
+            "eid": "13295",
+            "pagenum": 852,
+            "content": "वितान¦ <i>vitāna,</i> <ab>i. e.</ab> <i>vi-tan + a,</i> <ab>m.</ab> <b>I.</b> <ab>adj.</ab> <b>1.</b> Empty. <b>2.</b> Pithless. <b>3.</b> Stupid. <b>II.</b> <ab>m.</ab> and <ab>n.</ab> <b>1.</b> Spreading, expansion, <ls>Nalod.</ls> 2, 50. <b>2.</b> A heap, a quantity. <b>3.</b> A canopy, <ls>Vikr.</ls> <ab>d.</ab> 76; <ls>Bhartṛ.</ls> 3, 93; an awning, <ls>Johns. Sel.</ls> 40, 37; a cover, <ls>Ragh.</ls> 9, 50; a cushion, <ls>Böhtl. Ind. Spr.</ls> 2156. <b>4.</b> The hearth or hole in which the sacred fires are kept. <b>5.</b> Sacrifice, <ls>Nalod.</ls> 2, 50."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "वितान",
+            "eid": "13781",
+            "pagenum": 487,
+            "content": "<b>vitāna</b>¦, <lex>nt.</lex>, <i>woof</i>: <ls>Mvy</ls> 〔7520〕 = <lang>Tib.</lang> <tib>spun</tib>. Contrasted with <b>ātāna</b>, <ab>q.v.</ab>; nowhere recorded in this sense. See also <b>mahāvitānadharma</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वितान",
+            "eid": "7250",
+            "pagenum": 319,
+            "content": "वितान¦ <i>m. n.</i> (r. तन् praef. वि s. अ) 1) sparsio, expansio. AM. 2) velum in sublime expansum, <i>«a canopy, Balda-</i> <i>chin».</i> UR. 59. 13. 3) sacrificium. AM."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वितान",
+            "eid": "15364",
+            "pagenum": 588,
+            "content": "वितान¦ <i>vitāna</i> <ab>a.</ab> <i>(tan)</i> vide; || sans moelle, sans sève, sans suc; || au <ab>fig.</ab> stupide; <lbinfo n='5'/> || misérable. -- <ab>S.</ab> <ab>m.</ab> <ab>n.</ab> expansion, déploiement; || oblation, offrande, sacrifice. || Voile tendu en l'air, tente, dais. -- <ab>S.</ab> <ab>n.</ab> répit, relâche. || <i>anuṣṭubh</i> dont chaque ligne contient 2 iambes, un trochée et un spondée. <lbinfo n='4'/>  <P><i>vitānaka</i> <ab>n.</ab> tente, cour couverte d'une grande toile."
+        }
     ]
 }

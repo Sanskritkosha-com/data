@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "वैकटिको मणिकारः शौल्विकस्ताम्रकुट्टकः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "शौल्विक",
+            "eid": "28305",
+            "pagenum": 1057,
+            "content": "शौल्वि(ल्बि)कः¦  A <lbinfo n='copper+smith'/> coppersmith."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "शौल्विक",
+            "eid": "14946",
+            "pagenum": 966,
+            "content": "शौल्विक¦ <i>śaulvika,</i> <ab>i. e.</ab> <i>śulva + ika,</i> <ab>m.</ab> A coppersmith."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "शौल्विक",
+            "eid": "17045",
+            "pagenum": 658,
+            "content": "शौल्विक¦ <i>śaulvika</i> <ab>m.</ab> <i>(śulva)</i> ouvrier qui travaille le cuivre."
+        }
     ]
 }

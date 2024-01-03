@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "आम्रातको वर्षपाकी केतकः क्रकचच्छदः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "केतक",
+            "eid": "11464",
+            "pagenum": 422,
+            "content": "केतकः¦ [कित् निवासे ण्वुल्] <b>1</b> <ab>N.</ab> of a plant; प्रतिभांत्यद्य वनानि केतकानां <ls>Ghaṭ. 15.</ls> <b>--2</b> A banner. --कं A flower of the Ketaka plant; केतकैः <lbinfo n='sUciBi#nnEH'/> सूचिभिन्नैः <ls>Me. 23</ls>; <ls>R. 6. 17</ls>, <ls n='R.'>13. 16.</ls> --की <b>1</b> <ab>N.</ab> of a plant (= केतक); हसितमिव <lbinfo n='vi#Datte'/> विधत्ते सूचिभिः केतकीनां <ls>Rs. 2. 23.</ls> <b>--2</b> A flower of that plant; <ls>Rs. 2. 20</ls>,"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "केतक",
+            "eid": "3766",
+            "pagenum": 217,
+            "content": "केतक¦ <i>keta + ka,</i> <ab>m.</ab> The name of a tree, Pandanus odoratissimus, <ls>Rām.</ls> 2, 94, 6."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "केतक",
+            "eid": "5158",
+            "pagenum": 192,
+            "content": "<b>Ketaka</b>¦, <ab>pl.</ab>, <ab>n.</ab> of a people or region: <ls>Māy</ls> 〔96〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "केतक",
+            "eid": "2405",
+            "pagenum": 85,
+            "content": "केतक¦ <i>m.</i> केतकी <i>f.</i> (r. कित् s. अक) planta quaedam, Pandanus odoratissimus. RAGH. 13. 16."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "केतक",
+            "eid": "5056",
+            "pagenum": 184,
+            "content": "केतक¦ <i>ketaka</i> <ab>m.</ab> <i>(kit;</i> <ab>sfx.</ab> <i>aka)</i> pandanus <lbinfo n='3'/> odoratissimus, <ab>bot.</ab>, le <i>khadi</i> des Arabes et le <lang n='greek'>φοίνιξ εὐώδης</lang> de Strabon."
+        }
     ]
 }

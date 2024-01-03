@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "विषायानन्तरो राजा शत्रुर्मित्त्रमतः परम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "शत्रु",
+            "eid": "27589",
+            "pagenum": 1031,
+            "content": "शत्रुः¦ [शद्-त्रुन् <ls>Uṇ. 4. 103</ls>] <b>1</b> An overthrower, a destroyer, conqueror. <b>--2</b> An enemy, a foe, an adversary; क्षमा शत्रौ च मित्रे च यतीनामेव भूषणं <ls>Subhāṣ.</ls>: ऋणकर्ता पिता शत्रुर्माता च व्यभिचारिणी । भार्या रूपवती शत्रुः पुत्रः शत्रुरपंडितः <ls>Subhāṣ.</ls> <b>--3</b> A political rival, a rival neighbouring king. <b>--Comp.</b> --उपजापः the secret <lbinfo n='whis+perings'/> whisperings of a foe, treacherous <lbinfo n='over+tures'/> overtures of an enemy. --कर्षण, --दमन, --निबर्हण <i><ab>a.</ab></i> subduing, overpowering, or destroying enemies. --घ्नः <lbinfo n='‘de+stroyer'/> ‘destroyer of enemies’, an epithet of a brother of Rāma and twin brother of Lakṣmaṇa, being a son of <lbinfo n='Sumi+trā'/> Sumitrā. He killed the demon Lavaṇa and colonized Mathurā. He had two sons named Subāhu and <lbinfo n='Ba+huśruta'/> Bahuśruta; see <ls>R. 15.</ls> --पक्षः {1} the party or side of an enemy. {2} an opponent, antagonist. --मर्शनः an epithet of Śatrughna. --विग्रहः a hostile invasion. --विनाशनः an <lbinfo n='epi+thet'/> epithet of Śiva. --सह, --साह <i><ab>a.</ab></i> <lbinfo n='with+standing'/> withstanding an enemy. --सेविन् <i><ab>a.</ab></i> <lbinfo n='serv+ing'/> serving a hostile prince; <ls>Ms. 7. 186.</ls> --हत्या foe-slaughter. --हन् <i><ab>a.</ab></i> <lbinfo n='foe+slayer'/> foeslayer."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "शत्रु",
+            "eid": "14423",
+            "pagenum": 930,
+            "content": "शत्रु¦ <i>śatru</i> (rather शत्त्रु <i>śattru,</i> <ab>i. e.</ab> probably <i>śad</i> or <i>śat,</i> for <i>śātaya,</i> <ab>Caus.</ab> of <i>śad, + tru,</i> <ab>cf.</ab> <ab>Goth.</ab> hats; <ab>A.S.</ab> hate, héte; perhaps <ab>Lat.</ab> hod in odisse, hestis, and below), <ab>m.</ab> An enemy, a foe, <ls>Pañc.</ls> i. <ab>d.</ab> 131. <b> -- <ab>Comp.</ab></b> <i>Indra-,</i> <ab>m.</ab> Prahlāda, <ls>Ragh.</ls> 7, 32. <i>Krauñca-,</i> <ab>m.</ab> the god of war, <ls>Mṛcch.</ls> 173, 15. <i>Deva-,</i> <ab>m.</ab> 1. an Asura, <ls>MBh.</ls> 7, 6296. 2. a Rākṣasa, <ls>Rām.</ls> 6, 36, 83. <i>Bahu-,</i> <ab>adj.</ab> having many enemies, <ls>Kathās.</ls> 4, 106. <i>Vibudha-,</i> <ab>m.</ab> a demon, <ls>Vikr.</ls> <ab>d.</ab> 3. <i>Vṛtra-,</i> <ab>m.</ab> Indra. -- <ab>Cf.</ab> <lang n='greek'>ἔχθος, ἐχθρός, ὀχθέω</lang>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "शत्रु",
+            "eid": "7741",
+            "pagenum": 343,
+            "content": "शत्रु¦ <i>m.</i> (fortasse a <i>Caus.</i> r. शद्-शातयामि caedo - suff. रु vel त्रु abjectâ radicis litterâ finali) hostis."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "शत्रु",
+            "eid": "16533",
+            "pagenum": 636,
+            "content": "शत्रु¦ <i>śatru</i> <ab>m.</ab> <i>(śad;</i> <ab>sfx.</ab> <i>ru)</i> ennemi.  <P><i>śatrughna</i> <ab>m.</ab> <ab>np.</ab> du 2ᵉ frère de <s1 slp1='rAma'>Rāma</s1>.  <P><i>śatrughnajananī</i> <ab>f.</ab> <s1 slp1='sumitrA'>Sumitrā</s1>, mère de <s1 slp1='SatruGna'>Śatrughna</s1>. <lbinfo n='8'/>  <P><i>śatruñjaya</i> <ab>a.</ab> (<ab>ac.</ab> de <i>śatru; ji)</i> qui vainc un ennemi. -- <ab>S.</ab> <ab>m.</ab> éléphant. || Le mont <s1 slp1='vimala'>Vimala</s1>.  <P><i>śatrutas</i> <ab>adv.</ab> de la part de l'ennemi.  <P><i>śatrutva</i> <ab>n.</ab> (<ab>sfx.</ab> <i>tva)</i> inimitié, hostilité.  <P><i>śatrumardana</i> <ab>m.</ab> <ab>mms.</ab> que <i>śatrughna.</i>  <P><i>śatrusaha</i> <ab>a.</ab> <i>(sah)</i> qui résiste à l'ennemi.  <P><i>śatrūye</i> (<ab>dénom.</ab>) être ennemi, agir en ennemi."
+        }
     ]
 }

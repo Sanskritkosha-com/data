@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "महामात्राः प्रधानानि पुरोधास्तु पुरोहितः ॥ ७२० ॥\nसौवस्तिकोऽथ द्वारस्थः क्षत्ता स्याद्द्वारपालकः ।\nदौवारिकः प्रतीहारो वेत्र्युत्सारकदण्डिनः ॥ ७२१ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "30693",
+            "pagenum": 1142,
+            "content": "सौवस्तिक¦ <i><ab>a.</ab></i> (की <i><ab>f.</ab></i>) <lbinfo n='Benedic+tive'/> Benedictive. --कः A family-priest or <lbinfo n='Brāh+maṇa'/> Brāhmaṇa."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "16477",
+            "pagenum": 1065,
+            "content": "सौवस्तिक¦ <i>sauvastika,</i> <ab>i. e.</ab> <i>svasti +</i> <i>ika,</i> <b>I.</b> <ab>adj.</ab> Benedictory. <b>II.</b> <ab>m.</ab> A family priest."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "17355",
+            "pagenum": 607,
+            "content": "<b>sauvastika</b>¦, <lex>nt.</lex> (also <b>sovatthika</b>, <ab>q.v.</ab>; <ab>cf.</ab> <lang>Skt.</lang> <ab>Lex.</ab> °tika, <lex>m.</lex>, <i>house-priest</i>; to <lang>Skt.</lang> svasti, <lang>Pali</lang> suvatthi, plus -(i)ka), <i>benediction</i>: °kam <ls>Mvy</ls> 〔2749〕 = <lang>Tib.</lang> <tib>bde legs brjod pa</tib>, <i>speaking welfare</i>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "19099",
+            "pagenum": 732,
+            "content": "सौवस्तिक¦ <i>sauvastika</i> <ab>a.</ab> <i>(svasti)</i> relatif à la cérémonie du <s1 slp1='svasti'>svasti</s1>. -- <ab>S.</ab> <ab>m.</ab> prêtre de famille, aumônier, chapelain."
+        }
     ]
 }

@@ -23,5 +23,29 @@
             "synonyms": [],
             "content": "जङ्गलो निर्जलोऽनूपोऽम्बुमान्कच्छस्तु तद्विधः ॥ ९५३ ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "जङ्गल",
+            "eid": "5230",
+            "pagenum": 320,
+            "content": "जङ्गल¦ <i>jaṅgal + a</i> (<ab>frequentat.</ab> of <i>gal?</i> <ab>cf.</ab> <i>glai</i>), <ab>adj.</ab> Dry, desert."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "जङ्गल",
+            "eid": "6439",
+            "pagenum": 237,
+            "content": "<b>Jaṅgala</b>¦, <lex>m.</lex> (<lang>Skt.</lang> <ab>Lex.</ab> and <lang>Pali</lang> <ab>id.</ab>, <ab>acc.</ab> to <ls>PTSD</ls> <lex>nt.</lex>, which its citations do not prove; jaṅgalāni <ls>Jāt.</ls> 〔iv.71.1〕 is an <lex>adj.</lex>), <i>wild place, jungle</i>: khānayet kūpa jaṅgale <ls>SP</ls> 〔235.11〕 (<ab>vs</ab>); ujjaṅgalo ca jaṅgalo <ls>Mv</ls> 〔ii.207.5, 8〕 (treated as <ab>n. pr.</ab> by <ls>Senart, Index</ls>)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "जङ्गल",
+            "eid": "6967",
+            "pagenum": 257,
+            "content": "जङ्गल¦ <i>jaṅgala</i> <ab>a.</ab> (<ab>red.</ab> de <i>gal)</i> désert, solitaire, <lbinfo n='8'/> sauvage; pays inculte, jongle. -- <ab>S.</ab> <ab>n.</ab> <i>(gal</i> manger) viande, <ab>cf.</ab> <i>gaḍa.</i>"
+        }
     ]
 }

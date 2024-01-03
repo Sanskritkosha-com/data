@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "संस्तवः स्यात्परिचय आकारस्त्विङ्ग इङ्गितम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "संस्तव",
+            "eid": "28750",
+            "pagenum": 1073,
+            "content": "संस्तवः¦ <b>1</b> Praise, eulogium;  <lbinfo n='ls:Pt.+ 4. 89.'/> <ls>Pt. 4. 89.</ls> <b>--2</b> Acquaintance, intimacy, familiarity; गुणाः प्रियत्वेऽविकृता न संस्तवः <ls>Ki. 4. 25</ls>; नवैर्गुणैः संप्रेति संस्तवस्थिरं तिरोहितं प्रेस घनागमश्रियः  <lbinfo n='ls:4.+22'/> <ls n='Ki.'>4. 22</ls>; <ls>Śi. 7. 31.</ls> <b>--3</b> Agreeing together, harmony."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "संस्तव",
+            "eid": "15251",
+            "pagenum": 986,
+            "content": "संस्तव¦ <i>saṃstava,</i> <ab>i. e.</ab> <i>sam-stu + a,</i> <ab>m.</ab> <b>1.</b> Praise, <ls>Pañc.</ls> iv. <ab>d.</ab> 60. <b>2.</b> Acquaintance, <ls>Kir.</ls> 4, 22, 25."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "संस्तव",
+            "eid": "18316",
+            "pagenum": 705,
+            "content": "संस्तव¦ <i>saṃstava</i> <ab>m.</ab> <i>(stu)</i> louange; || approbation; <lbinfo n='10'/> || connivence.  <P><i>saṃstavāna</i> <ab>a.</ab> (<ab>sfx.</ab> <i>āna)</i> qui loue, qui célèbre. <lbinfo n='6'/> || Eloquent, parlant bien.  <P><i>saṃstāva</i> <ab>m.</ab> la place des prêtres qui chantent l'hymne dans l'enceinte sacrée."
+        }
     ]
 }

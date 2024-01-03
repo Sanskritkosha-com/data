@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "गीतं गानं गेयं गीतिर्गान्धर्वमथ नर्तनम् ।\nनटनं नृत्यं नृत्तं च लास्यं नाट्यं च ताण्डवम् ॥ २८० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गान",
+            "eid": "12705",
+            "pagenum": 466,
+            "content": "गानं¦ [गै भावे ल्युट्] <b>1</b> Singing, a song. <b>--2</b> A sound. <b>--3</b> Going. <b>--4</b> Praise."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गान",
+            "eid": "4415",
+            "pagenum": 261,
+            "content": "गान¦ <i>gāna,</i> <ab>i. e.</ab> <i>gai + na,</i> <ab>n.</ab> A song, <ls>Śiś.</ls> 9, 54."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गान",
+            "eid": "5832",
+            "pagenum": 215,
+            "content": "गान¦ <i>gāna</i> <ab>n.</ab> <i>(gai)</i> chant, en <ab>gén.</ab> || Livres de cantiques, au nombre de 4, faisant partie du <s1 slp1='sAmaveda'>Sāmaveda</s1>."
+        }
     ]
 }

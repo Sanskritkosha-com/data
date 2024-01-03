@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "गणा नवास्यर्षिसंघा एकादश गणाधिपाः ।\nइन्द्रभूतिरग्निभूतिर्वायुभूतिश्च गोतमाः ॥ ३१ ॥\nव्यक्तः सुधर्मा मण्डितमौर्यपुत्रावकम्पितः ।\nअचलभ्राता मेतार्यः प्रभासश्च पृथक्कुलाः ॥ ३२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गोतम",
+            "eid": "12722",
+            "pagenum": 469,
+            "content": "गोतमः¦ <b>1</b> <ab>N.</ab> of a sage belonging to the family of Aṅgiras, father of Śatānanda and husband of Ahalyā. <b>--2</b> <ab>N.</ab> of a sage, the founder of Nyāya philosophy."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गोतम",
+            "eid": "4578",
+            "pagenum": 272,
+            "content": "गोतम¦ <i>gotama,</i> <ab>m.</ab> The name of a Ṛṣi, <ls>MBh.</ls> 13, 4490."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "गोतम",
+            "eid": "5851",
+            "pagenum": 215,
+            "content": "<b>Gotama</b>¦, <lang>MIndic</lang> spelling for <b>Gautama</b>, <ab>q.v.</ab>: <ls>Śikṣ</ls> 〔331.11〕 (here apparently = <b>Gautama</b> 3)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गोतम",
+            "eid": "6029",
+            "pagenum": 223,
+            "content": "गोतम¦ <i>gotama</i> <ab>m.</ab> <ab>np.</ab> d'une ancienne famille védique de laquelle est issu le <s1 slp1='budDa'>Buddha</s1> <lbinfo n='3'/> <s1 slp1='SAkyamuni'>Śākyamuni</s1>."
+        }
     ]
 }

@@ -34,5 +34,43 @@
             "synonyms": [],
             "content": "मघवा वैजयिरथाश्वसेननृपनन्दनः ॥ ६९२ ॥\nसनत्कुमारोऽथ शान्तिः कुन्थुररो जिना अपि ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "शान्ति",
+            "eid": "24824",
+            "pagenum": 1,
+            "content": "शान्ति¦ Āśval. Rice 218. <HI>--Kāty. H. 197. <HI>--Vāsiṣṭhī. Peters. 3, 389. <HI>--Śaunakī. Rice 218. <HI>--Mādhavī by Mādhava. H. 210."
+        },
+        {
+            "word": "शान्ति",
+            "eid": "37681",
+            "pagenum": 2,
+            "content": "शान्ति¦ Kāty. Peters. 4, 6."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "शान्ति",
+            "eid": "14597",
+            "pagenum": 941,
+            "content": "शान्ति¦ <i>śānti,</i> <ab>i. e.</ab> <i>śam + ti,</i> <ab>f.</ab> <b>1.</b> Quiet, the absence of passion, and indifference to objects of pleasure or pain, <ls>Hit.</ls> 78, 8, <ab>M.M.</ab>; iii. <ab>d.</ab> 4. <b>2.</b> Felicity, <ls>Lass.</ls> 96, 12. <b>3.</b> Rest, repose, <ls>Mālat.</ls> 87, 6. <b>4.</b> Ceasing, <ls>Hit.</ls> iii. <ab>d.</ab> 88. <b>5.</b> Causing to cease, <ls>Mālat.</ls> 128, 3; remission, alleviation, soothing, <ls>Śṛṅgārat.</ls> 14; <ls>Śāk.</ls> 31, 11; <ls>Vikr.</ls> <ab>d.</ab> 24. <b>6.</b> Appeasing (the stomach), <ls>Bhartṛ.</ls> 2. 23. <b>7.</b> Expiatory rites to avert evil <ls>Rām.</ls> 1, 11, 14. <b>8.</b> Preservation, <ls>Pañc.</ls> 89, 5; 90, 4."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "शान्ति",
+            "eid": "7820",
+            "pagenum": 346,
+            "content": "शान्ति¦ <i>f.</i> (r. शम् s. ति) placatio, tranquillitas. N. 26. 8. DR. 7. 11. BH. 2. 66."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "शान्ति",
+            "eid": "16716",
+            "pagenum": 643,
+            "content": "शान्ति¦ <i>śānti</i> <ab>f.</ab> <i>(śam;</i> <ab>sfx.</ab> <i>ti)</i> paix, calme, repos; || quiétude. || Prospérité, bonheur. <lbinfo n='5'/> || Cérémonie propitiatoire qui précède un sacrifice.  <P><i>śāntikāma</i> <ab>m.</ab> désir du repos, de la quiétude. <lbinfo n='5'/>  <P><i>śāntigṛha</i> <ab>n.</ab> salle où s'accomplit la cérémonie <lbinfo n='5'/> propitiatoire."
+        }
     ]
 }

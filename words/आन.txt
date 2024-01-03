@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "श्वासस्तु श्वसितं सोऽन्तर्मुख उच्छ्वास आहारः ।\nआनो बहिर्मुखस्तु स्यान्निःश्वासः पान एतनः ॥ १३६८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "आन",
+            "eid": "6264",
+            "pagenum": 240,
+            "content": "आनः¦ <b>1</b> Inhalation, breath <lbinfo n='inspir+ed'/> inspired. <b>--2</b> Mouth or nose (<ls>Sāy.</ls>). <b>--3</b> Breathing, blowing."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "आन",
+            "eid": "2717",
+            "pagenum": 95,
+            "content": "<b>āna</b>¦, <i>breath</i> (so <lang>Skt.</lang> <ab>Lex.</ab>); in <lang>Pali</lang> and <lang>BHS</lang> apparently replaces <lang>Skt.</lang> prāṇa in <ab>cpd.</ab> <b>ānāpāna</b>, <ab>q.v.</ab> <lang>Pali</lang> seems not to have the <ab>cpd.</ab> *pāṇāpāna."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आन",
+            "eid": "2182",
+            "pagenum": 73,
+            "content": "आन¦ <i>āna</i> <ab>m.</ab> <i>(an)</i> air aspiré ou expiré."
+        }
     ]
 }

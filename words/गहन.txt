@@ -23,5 +23,45 @@
             "synonyms": [],
             "content": "कलिलं गहने संकीर्णे तु संकुलमाकुलम् ॥ १४७२ ॥\nकीर्णमाकीर्णं च पूर्णे त्वाचितं छन्नपूरिते ।\nभरितं निचितं व्याप्तं प्रत्याख्याते निराकृतम् ॥ १४७३ ॥\nप्रत्यादिष्टं प्रतिक्षिप्तमपविद्धं निरस्तवत् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गहन",
+            "eid": "12431",
+            "pagenum": 456,
+            "content": "गहन¦ <i><ab>a.</ab></i> <b>1</b> Deep, dense, thick. <b>--2</b> impervious, impenetrable, <lbinfo n='impass+able'/> impassable, inaccessible. <b>--3</b> Hard to be <lbinfo n='un+derstood'/> understood, inexplicable, mysterious; सेवाधर्मः परमगहनो योगिनामप्यगम्यः <ls>Pt. 1. 11</ls>, <ls n='Pt. 1.'>285</ls>; <ls>Bh. 2. 58</ls>; गहना कर्मणो गतिः <ls>Bg. 4. 17</ls>; <ls>Śānti. 1. 8.</ls> <b>--4</b> Grave, dignified; <ls>Māl. 1. 4.</ls> <b>--5</b> Impassioned, replete with love, strong; <ls>U. 6. 33.</ls> <b>--6</b> Hard, difficult, causing pain or trouble; गहनसंसारः <ls>Śānti. 3. 15</ls>; <ls>U. 7. 6.</ls> <b>--7</b> <lbinfo n='Deepen+ed'/> Deepened, intensified; <ls>Māl. 1. 30.</ls> --नं <b>1</b> An abyss, depth. <b>--2</b> A wood, thicket, deep or impenetrable forest;  <lbinfo n='yadanugama#nAya'/> यदनुगमनाय निशि गहनमपि शीलितं <ls>Gīt. 7</ls>;  <lbinfo n='ls:Bv. 1.+ 25.'/> <ls>Bv. 1. 25.</ls> <b>--3</b> A hiding-place. <b>--4</b> A cave. <b>--5</b> Pain, distress. <b>--6</b> An ornament. <b>--7</b> Water. --नः The Supreme Being."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गहन",
+            "eid": "4386",
+            "pagenum": 259,
+            "content": "गहन¦ <i>gahana,</i> <ab>i. e.</ab> <i>gabh</i> (<ab>cf.</ab> <i>gabhī-</i> <i>ra,</i> and <i>gāh</i>) <i>+ ana,</i> <b>I.</b> <ab>adj.</ab>, <ab>f.</ab> <i>nā.</i> <b>1.</b> Deep, <ls>Bhartṛ.</ls> 3, 11. <b>2.</b> Impervious, <ls>Rām.</ls> 2, 85, 4. <b>3.</b> Impenetrable, <ls>Pañc.</ls> i. <ab>d.</ab> 317. <b>II.</b> <ab>n.</ab> <b>1.</b> A thicket, <ls>Rām.</ls> 4, 48, 2. <b>2.</b> Impenetrability, obscurity, <ls>MBh.</ls> 11, 125. <b>3.</b> Multitude, <ls>Rām.</ls> 1, 35, 16."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "गहन",
+            "eid": "5701",
+            "pagenum": 211,
+            "content": "<b>gahana</b>¦ (<lex>nt.</lex>, or <lex>adj.</lex>), is sometimes, apparently, involved in word-plays with <b>grahaṇa</b>, <ab>q.v.</ab> (on the basis of <lang>MIndic</lang> pronunciation of the latter). In <ls>Śikṣ</ls> 〔286.1〕 (aśaṭhatā śaṭheṣu,) amāyāvitā gahanacariteṣu (this is the clear intention of the <ab>ms.</ab>, see <ab>ed.</ab> note, and must be read), kṛtajñatā akṛtajñeṣu, <ab>etc.</ab>, the <lang>Tib.</lang> is said to render <i>guilelessness among the guileful</i>, which is supported by the parallel phrases surrounding this. The <ls>transl. of Bendall and Rouse</ls> renders gahana-carita <i>overreaching</i>; it seems more likely to mean <i>of obscure, hidden</i> (or perhaps <i>tangled</i>) <i>conduct</i>, and so <i>tricky</i>. See next (apparently a quite unrelated confusion)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "गहन",
+            "eid": "2795",
+            "pagenum": 103,
+            "content": "गहन¦ (r. गह् s. अन) 1) densus, spissus, impervius. H. 1. 4. 5. 2. 26. BH. 4. 17. 2) <i>n.</i> silva. UR. 57. 7. infr."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गहन",
+            "eid": "5813",
+            "pagenum": 215,
+            "content": "गहन¦ <i>gahana</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ana)</i> impraticable, impénétrable, inextricable. -- <ab>S.</ab> <ab>n.</ab> forêt, bois fourré. || Caverne: <i>gahanaṃ</i> <i>gambhīram</i> l'abîme profond, la géhenne. || Au <ab>fig.</ab> gêne, peine, détresse."
+        }
     ]
 }

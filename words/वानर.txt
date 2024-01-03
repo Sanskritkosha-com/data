@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "पृथौ गृण्डिबलोपाकौ कोकस्त्वीहामृगो वृकः ।\nअरण्यश्वा मर्कटस्तु कपिः कीशः प्लवंगमः ॥ १२९१ ॥\nप्लवंगः प्लवगः शाखामृगो हरिर्बलीमुखः ।\nवनौका वानरोऽथासौ गोलाङ्गूलोऽसिताननः ॥ १२९२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वानर",
+            "eid": "25428",
+            "pagenum": 959,
+            "content": "वानरः¦ [वानं वनसंबंधि फलादिकं <lbinfo n='rAti#gfhRati'/> रातिगृह्णति रा-क; वा किकल्पेन नरो वा] A monkey, an ape. --री A female monkey. <b>--Comp.</b> --अक्षः a wild goat. --आघातः the tree called Lodhra. --इंद्रः <ab>N.</ab> of Sugrīva or of <lbinfo n='Hanu+mat'/> Hanumat. --प्रियः the tree called क्षीरिन्."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वानर",
+            "eid": "13017",
+            "pagenum": 835,
+            "content": "वानर¦ <i>vānara,</i> <ab>i. e.</ab> <i>vanara + a,</i> <b>I.</b> <ab>m.</ab>, and <ab>f.</ab> <i>rī,</i> A monkey, <ls>Pañc.</ls> 203, 3; 206, 15. <b>II.</b> <ab>adj.</ab>, <ab>f.</ab> <i>rī,</i> Belonging to a monkey, <ls>MBh.</ls> 13, 411."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वानर",
+            "eid": "7147",
+            "pagenum": 316,
+            "content": "वानर¦ <i>m.</i> (e वा sicut et नर homo) simia."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वानर",
+            "eid": "15026",
+            "pagenum": 576,
+            "content": "वानर¦ <i>vānara</i> <ab>m.</ab> [<ab>f.</ab> <i>ī</i>] <i>(vā-nara;</i> ou <i>vana,</i> <ab>sfx.</ab> <i>ra)</i> singe. -- <ab>F.</ab> carpopogon pruriens, <lbinfo n='6'/> <ab>bot.</ab>  <P><i>vānarapriya</i> <ab>m.</ab> mimusops, <ab>bot.</ab>  <P><i>vānarāghāta</i> <ab>m.</ab> <i>(ā; han)</i> symplocus racemosa, <lbinfo n='5'/> <ab>bot.</ab>  <P><i>vānarendra</i> <ab>m.</ab> <i>(indra)</i> <s1 slp1='sugrIva'>Sugrīva</s1>."
+        }
     ]
 }

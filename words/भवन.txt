@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "गेहभूर्वास्तु गेहे तु गृहं वेश्म निकेतनम् ॥ ९८९ ॥\nमन्दिरं सदनं सद्म निकाय्यो भवनं कुटः ।\nआलयो निलयः शाला सभोदवसितं कुलम् ॥ ९९० ॥\nधिष्ण्यमावसथं स्थानं पस्त्यं संस्त्याय आश्रयः ।\nओको निवास आवासो वसतिः शरणं क्षयः ॥ ९९१ ॥\nधामागारं निशान्तं च कुट्टिमं त्वस्य बद्धभूः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "भवन",
+            "eid": "22017",
+            "pagenum": 810,
+            "content": "भवनं¦ [भू-आधारे ल्युट्] <b>1</b> Being, <lbinfo n='ex+istence'/> existence. <b>--2</b> Production, birth. <b>--3</b> An abode, residence, dwelling, mansion; अथवा भवनप्रत्ययात् प्रविष्टोस्मि <ls>Mk. 3</ls>, <ls>Me. 32.</ls> <b>--4</b> A site, abode, receptacle; as in अविनयभवनं <ls>Pt. 1. 191.</ls> <b>--5</b> A building. <b>--6</b> A field. <b>--7</b> Nature. <b>--Comp.</b> --उदरं the interior of a house. --पतिः, <lbinfo n='svA#min'/> --स्वामिन् <i><ab>m.</ab></i> the lord of the house, a <i>pater </i> <i>familias</i>."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "भवन",
+            "eid": "10468",
+            "pagenum": 645,
+            "content": "भवन¦ <i>bhavana,</i> <ab>i. e.</ab> <i>bhū + ana,</i> <ab>n.</ab> <b>1.</b> Nature. <b>2.</b> A dwelling, house, <ls>Pañc.</ls> ii. <ab>d.</ab> 17; a palace, <ls>Pañc.</ls> iii. <ab>d.</ab> 236. <b>3.</b> A temple, <ls>Rājat.</ls> 5, 100. <b> -- <ab>Comp.</ab></b> <i>Garbha-,</i> <ab>n.</ab> a sanctuary, <ls>Mālat.</ls> 13, 3 (below). <i>Deva-,</i> <ab>n.</ab> a temple, <ls>Kathās.</ls>  6, 75. <i>Devī-,</i> <ab>n.</ab> a temple of Durgā, <ls>Kathās.</ls> 18, 170."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "भवन",
+            "eid": "11178",
+            "pagenum": 407,
+            "content": "<b>Bhavana</b>¦, <ab>n.</ab> of a mountain: <ls>Kv</ls> 〔91.16〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "भवन",
+            "eid": "5806",
+            "pagenum": 244,
+            "content": "भवन¦ <i>n.</i> (r. भू s. अन) domus, palatium. IN. 3. 3. 5. 5. SU. 1. 28."
+        }
     ]
 }

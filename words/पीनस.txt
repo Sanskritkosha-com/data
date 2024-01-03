@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "हिक्का हेक्का च हृल्लासः प्रतिश्यायस्तु पीनसः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पीनस",
+            "eid": "19050",
+            "pagenum": 705,
+            "content": "पीनसः¦ <b>1</b> Cold affecting the nose. <b>--2</b> Cough, catarrh."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पीनस",
+            "eid": "8890",
+            "pagenum": 555,
+            "content": "पीनस¦ <i>pīnasa,</i> probably <i>api-nas</i> <i>(= nāsā), + a,</i> <ab>m.</ab> <b>1.</b> Cold affecting the nose. <b>2.</b> Catarrh, cough."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पीनस",
+            "eid": "11139",
+            "pagenum": 414,
+            "content": "पीनस¦ <i>pīnasa</i> <ab>m.</ab> coryza, catarrhe, rhume."
+        }
     ]
 }

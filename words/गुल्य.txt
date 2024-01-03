@@ -12,5 +12,21 @@
             "synonyms": [],
             "content": "मधुरस्तु रसज्येष्ठो गुल्यः स्वादुर्मधूलकः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गुल्य",
+            "eid": "12625",
+            "pagenum": 464,
+            "content": "गुल्यः¦ Sweetness, a sweet taste."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गुल्य",
+            "eid": "5962",
+            "pagenum": 220,
+            "content": "गुल्य¦ <i>gulya</i> <ab>n.</ab> <i>(guḍa;</i> <ab>sfx.</ab> <i>ya)</i> saveur sucrée. <lbinfo n='5'/>"
+        }
     ]
 }

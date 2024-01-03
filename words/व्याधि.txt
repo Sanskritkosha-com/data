@@ -23,5 +23,45 @@
             "synonyms": [],
             "content": "रोगो रुजा रुगातङ्को मान्द्यं व्याधिरपाटवम् ॥ ४६२ ॥\nआम आमय आकल्यमुपतापो गदः समाः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "व्याधि",
+            "eid": "27359",
+            "pagenum": 1022,
+            "content": "व्याधिः¦ <b>1</b> Sickness, ailment, <lbinfo n='dis+ease'/> disease, illness (usually physical, and <ab>opp.</ab> आधि which means ‘mental <lbinfo n='dis+tress'/> distress or anxiety’);  <lbinfo n='ripurunnataDIrace#tasaH'/> रिपुरुन्नतधीरचेतसः सततव्याधिरनीतिरस्तु ते <ls>Śi. 16. 11</ls> (where व्याधि means ‘free from आधि’ also); <ab>cf.</ab> आधि. <b>--2</b> Leprosy. <b>--Comp.</b> --कर <i><ab>a.</ab></i> unwholesome. --ग्रस्त <i><ab>a.</ab></i> seized with disease, diseased."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "व्याधि",
+            "eid": "14250",
+            "pagenum": 918,
+            "content": "व्याधि¦ <i>vyādhi,</i> <ab>i. e.</ab> <i>vyadh + i,</i> <ab>m.</ab> <b>1.</b> Pain, <ls>Mālat.</ls> 69, 5. <b>2.</b> Sickness, <ls>Hit.</ls> i. <ab>d.</ab> 3, <ab>M.M.</ab> <b> -- <ab>Comp.</ab></b> <i>Nis-,</i> <ab>adj.</ab> healthy, <ls>MBh.</ls> 9, 2322."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "व्याधि",
+            "eid": "14694",
+            "pagenum": 518,
+            "content": "<b>vyādhi</b>¦, <i>disease</i> (normally <lex>m.</lex>), <lex>f.</lex> <ls>LV</ls> 〔351.11〕 (prose) avabuddhā sattva-vyādhiḥ, <i>the disease of creatures was well understood</i> (by the Buddha); yatra ca punar vyādhyā (<lex>gen.</lex>? or read °yāṃ, <lex>loc.</lex>?) vyupanāmyante <ls>KP</ls> 〔87.2〕, see <ab>s.v.</ab> <b>upanāmayati</b> (5), <i>and for whatever disease they</i> (medicines) <i>are given</i>; <lex>nt.</lex>, <ls>Mv</ls> 〔i.353.3〕 (prose) sarvaṃ ca kuṣṭha-vyādhiṃ visrutaṃ."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "व्याधि",
+            "eid": "7663",
+            "pagenum": 339,
+            "content": "व्याधि¦ <i>m.</i> (r. धा ponere c. आ praef. वि s. इ) morbus. BH. 13. 8."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "व्याधि",
+            "eid": "16379",
+            "pagenum": 627,
+            "content": "व्याधि¦ <i>vyādhi</i> <ab>m.</ab> <i>(vyadh;</i> <ab>sfx.</ab> <i>i;</i> ou <i>vi; ā;</i> <i>dhā)</i> maladie, en <ab>gén.</ab> || Lèpre.  <P><i>vyādhighāta</i> <ab>m.</ab> <i>(han)</i> la casse, <ab>bot.</ab>  <P><i>vyādhita</i> <ab>a.</ab> malade."
+        }
     ]
 }

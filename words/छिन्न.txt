@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "अङ्गीकृतं प्रतिज्ञातमूरीकृतोरुरीकृते ॥ १४८८ ॥\nसंश्रुतमभ्युपगतमुररीकृतमाश्रुतम् ।\nसंगीर्णं प्रतिश्रुतं च छिन्ने लूनं छितं दितम् ॥ १४८९ ॥\nछेदितं खण्डितं वृक्णं कृत्तं प्राप्तं तु भावितम् ।\nलब्धमासादितं भूतं पतिते गलितं च्युतम् ॥ १४९० ॥\nस्रस्तं भ्रष्टं स्कन्नपन्ने शंसितं तु सुनिश्चितम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "छिन्न",
+            "eid": "13628",
+            "pagenum": 502,
+            "content": "छिन्न¦ <i><ab>p. p.</ab></i> [छिद्-क्त] <b>1</b> Cut, <lbinfo n='di+vided'/> divided, rent, chopped, riven, torn, broken. <b>--2</b> Destroyed, removed; see छिद्. <b>--3</b> Decaying, declining. <b>--4</b> Exhausted, tired, fatigued. --न्ना A whore, harlot. <b>--Comp.</b> --केश <i><ab>a.</ab></i> shorn, shaven. --द्रुमः a riven tree. --द्वैध <i><ab>a.</ab></i> whose doubt is dispelled. --नासिक <i><ab>a.</ab></i> noseless. --भिन्न <i><ab>a.</ab></i> cut up through and through, mutilated, mangled, cut up. --मस्त, --मस्तक <i><ab>a.</ab></i> decapitated. (--स्ता, --का) a headless form of <lbinfo n='Dur+gā'/> Durgā. --मूल <i><ab>a.</ab></i> cut up by the roots;  <lbinfo n='ls:R.+ 7. 43.'/> <ls>R. 7. 43.</ls> --श्वासः a kind of asthma. --संशय <i><ab>a.</ab></i> ‘one whose doubt is <lbinfo n='dis+pelled'/> dispelled’, free from doubt, confirmed."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "छिन्न",
+            "eid": "6418",
+            "pagenum": 236,
+            "content": "<b>chinna</b>¦, <lex>adj.</lex> (<lex>ppp.</lex>; not recorded in this sense), <i>wearied</i>; in strī-, bhāra-, mārga-chinna, <ls>Mvy</ls> 〔8793—5〕; <ls>MSV</ls> 〔iv.68.13—14〕; <lang>Tib.</lang> <tib>dub pa</tib>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "छिन्न",
+            "eid": "3315",
+            "pagenum": 132,
+            "content": "छिन्न¦ v. छिद्."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "छिन्न",
+            "eid": "6899",
+            "pagenum": 255,
+            "content": "छिन्न¦ <i>chinna</i> <ab>pp.</ab> de <i>chid.</i>  <P><i>chinnamūla</i> <ab>a.</ab> dont les racines sont coupées. <lbinfo n='5'/>  <P><i>chinnaruhā</i> <ab>f.</ab> menispermum glabrum, <ab>bot.</ab>  <P><i>chinnavecikā</i> <ab>f.</ab> cissampelos hexandra, <ab>bot.</ab>  <P><i>chinnābhra</i> <ab>n.</ab> <i>(abhra)</i> nuage entr'ouvert, qui se dissipe."
+        }
     ]
 }

@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "लेखकेऽक्षरपूर्वाः स्युश्चणजीवकचञ्चवः ॥ ४८३ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वार्णिक",
+            "eid": "25489",
+            "pagenum": 961,
+            "content": "वार्णिकः¦ A scribe, writer."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वार्णिक",
+            "eid": "13062",
+            "pagenum": 838,
+            "content": "वार्णिक¦ <i>vārṇika,</i> <ab>i. e.</ab> <i>varṇa + ika,</i> <ab>m.</ab> A scribe."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वार्णिक",
+            "eid": "15083",
+            "pagenum": 579,
+            "content": "वार्णिक¦ <i>vārṇika</i> <ab>m.</ab> <i>(varṇa)</i> scribe, écrivain, <lbinfo n='5'/> copiste."
+        }
     ]
 }

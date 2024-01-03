@@ -26,5 +26,37 @@
             "synonyms": [],
             "content": "आलस्यं तन्द्रा कौसीद्यं हर्षश्चित्तप्रसन्नता ॥ ३१५ ॥\nह्लादः प्रमोदः प्रमदो मुत्प्रीत्यामोदसंमदाः ।\nआनन्दानन्दथू गर्वस्त्वहंकारोऽवलिप्तता ॥ ३१६ ॥\nदर्पोऽभिमानो ममता मानश्चित्तोन्नतिः स्मयः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गर्व",
+            "eid": "12382",
+            "pagenum": 454,
+            "content": "गर्वः¦ <b>1</b> Pride, arrogance; मा कुरु धनजनयौवनगर्वं हरति निमेषात्कालः सर्वं <ls>Moha M. 4</ls>; मुधेदानीं यौवनगर्वं वहसि <ls>M. 4.</ls> <b>--2</b> Pride considered as one of the 33 subordinate feelings in rhetoric;  <lbinfo n='rUpaDanavidyAdiprayuktAtmotkarzajYA#nADInaparAvahelanaM'/> रूपधनविद्यादिप्रयुक्तात्मोत्कर्षज्ञानाधीनपरावहेलनं <ls>R. G.</ls>; or, <lbinfo n='ac+cording'/> according to <ls>S. D.</ls> गर्वो मदः <lbinfo n='praBAvaSrIvi#dyAsatkulatAdijaH'/> प्रभावश्रीविद्यासत्कुलतादिजः । <lbinfo n='avajYAsavilAsAMgadarSanAvi#nayAdikft'/> अवज्ञासविलासांगदर्शनाविनयादिकृत् ॥ <ls n='S. D.'>181.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गर्व",
+            "eid": "4359",
+            "pagenum": 258,
+            "content": "गर्व¦ <i>gar + va</i> (<ab>cf.</ab> <i>guru</i>), <ab>m.</ab> Pride, <ls>Pañc.</ls> 26, 2. <b> -- <ab>Comp.</ab></b> <i>Dhana-,</i> <ab>m.</ab> a proper name, <ls>Daśak.</ls> in <ls>Chr.</ls> 191, 23. <i>Sa-,</i> <ab>adj.</ab> proud; <i>°vam,</i> <ab>adv.</ab> haughtily, <ls>Rām.</ls> 3, 32, 2."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "गर्व",
+            "eid": "2780",
+            "pagenum": 102,
+            "content": "गर्व¦ <i>m.</i> (r. गर्व् s. अ) superbia. (Lith. <i>garbē4</i> honor, gloria; germ. vet. <i>gelban</i> gloriari, <i>gelf</i> jactantia.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गर्व",
+            "eid": "5779",
+            "pagenum": 213,
+            "content": "गर्व¦ <i>garva</i> <ab>m.</ab> orgueil. || <ab>Ancien germ.</ab> gelf; <ab>lith.</ab> garbê.  <P><i>garvara</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ra)</i> orgueilleux, arrogant.  <P><i>garvāṭa</i> <ab>m.</ab> <i>(aṭ)</i> garde de nuit; gardien d'une porte; sergent de ville ou de village; bedeau.  <P><i>garvita</i> (<ab>pp.</ab> de <i>garv)</i> orgueilleux."
+        }
     ]
 }

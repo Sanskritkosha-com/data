@@ -20,5 +20,45 @@
             "synonyms": [],
             "content": "गेहभूर्वास्तु गेहे तु गृहं वेश्म निकेतनम् ॥ ९८९ ॥\nमन्दिरं सदनं सद्म निकाय्यो भवनं कुटः ।\nआलयो निलयः शाला सभोदवसितं कुलम् ॥ ९९० ॥\nधिष्ण्यमावसथं स्थानं पस्त्यं संस्त्याय आश्रयः ।\nओको निवास आवासो वसतिः शरणं क्षयः ॥ ९९१ ॥\nधामागारं निशान्तं च कुट्टिमं त्वस्य बद्धभूः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "निवास",
+            "eid": "17087",
+            "pagenum": 637,
+            "content": "निवासः¦ <b>1</b> Living, dwelling, <lbinfo n='resid+ing'/> residing. <b>--2</b> A house; abode, habitation, resting-place; निवासश्चिंतायाः  <lbinfo n='ls:Mk. 1.+ 15'/> <ls>Mk. 1. 15</ls>; <ls>Śi. 4. 63</ls>, <ls n='Śi.'>5. 21</ls>; <ls>Bg. 9. 18</ls>; <ls>Mk. 3. 23.</ls> <b>--3</b> Passing the night. <b>--4</b> A dress, garment. <b>--5</b> <lbinfo n='Night+quarters'/> Nightquarters. <b>--6</b> Refuge, receptacle, asylum; जगन्निवासो वसुदेवसद्मनि <ls>Śi. 1. 1.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "निवास",
+            "eid": "7674",
+            "pagenum": 483,
+            "content": "निवास¦ <i>nivāsa,</i> <ab>i. e.</ab> <i>ni-vas + a,</i> <ab>m.</ab> <b>1.</b> Dwelling, <ls>Rām.</ls> 3, 5, 22. <b>2.</b> Passing the night, <ls>Hariv.</ls> 9700. <b>3.</b> An abode, a house, <ls>Bhāg. P.</ls> 1, 11, 27. <b>4.</b> Nightquarters, <ls>Rām.</ls> 2, 55, 33. <b>5.</b> Cloth, <ls>Hariv.</ls> 10679. <b> -- <ab>Comp.</ab></b> <i>Kva-,</i> <ab>adj.</ab> where dwelling, <ls>MBh.</ls> 1, 7114."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "निवास",
+            "eid": "8498",
+            "pagenum": 306,
+            "content": "<b>nivāsa</b>¦, <lex>m.</lex> (= <lang>Pali</lang> <ab>id.</ab>), (former) <i>state of existence</i>; usually in <ab>cpds.</ab> <b>pūrva-(pūrve-)ni°</b>, <ab>qq.v.</ab>; with separation of the <ab>cpd.</ab>, pūrve (so all <ab>mss.</ab>, <ls>Senart</ls> <ab>em.</ab> °vaṃ) ca nivāsavāraṃ (<i>time, turn</i>) <ls>Mv</ls> 〔i.4.8〕; rarely otherwise, nivāsānuttarya-saṃpanna <ls>Mv</ls> 〔iii.320.5〕 (see <b>anuttarya</b>), <i>perfect in the supreme excellence of</i> (former) <i>births</i>. See also <ab>s.v.</ab> <b>pūrve-vāsa</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "निवास",
+            "eid": "4693",
+            "pagenum": 198,
+            "content": "निवास¦ <i>m.</i> (r. वस् habitare, s. अ) domus, habitatio. H. 4. 29. BH. 11. 25. 37."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "निवास",
+            "eid": "10075",
+            "pagenum": 372,
+            "content": "निवास¦ <i>nivāsa</i> <ab>m.</ab> <i>(vas)</i> habitation, demeure. <lbinfo n='6'/>"
+        }
     ]
 }

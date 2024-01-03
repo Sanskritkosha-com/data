@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "वस्नसा नु स्नसा स्नायुर्नाड्यो धमनयः शिराः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "स्नायु",
+            "eid": "30913",
+            "pagenum": 1151,
+            "content": "स्नायुः¦ [स्नाति शुध्यति दोषोऽनया <lbinfo n='snA#uR'/> स्नाउण् <ls>Tv.</ls>] <b>1</b> A tendon, muscle, sinew; स्वल्पं स्नायुवसावशेषमलिनं <lbinfo n='nirmAMsamapya#sTi'/> निर्मांसमप्यस्थि गोः <ls>Bh. 2. 30.</ls> <b>--2</b> The string of a bow. <b>--Comp.</b> --अर्मन् <i><ab>n.</ab></i> a kind of disease of the eyes."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "स्नायु",
+            "eid": "16656",
+            "pagenum": 1083,
+            "content": "स्नायु¦ <i>snāyu</i> (probably a form of <i>snāva,</i> for <i>snāu</i>), <ab>f.</ab> <b>1.</b> A tendon, <ls>Man.</ls> 8, 234; <ls>Pañc.</ls> 182, 17; a muscle, <ls>Bhartṛ.</ls> 2, 23. <b>2.</b> The string of a bow, <ls>Pañc.</ls> 121, 1."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "स्नायु",
+            "eid": "8684",
+            "pagenum": 389,
+            "content": "स्नायु¦ <i>m.</i> tendo, nervus. HIT. 35. 12."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "स्नायु",
+            "eid": "19246",
+            "pagenum": 738,
+            "content": "स्नायु¦ <i>snāyu</i> <ab>m.</ab> tendon, muscle; <ab>cf.</ab> <i>snasā.</i>"
+        }
     ]
 }

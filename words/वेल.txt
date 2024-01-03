@@ -20,5 +20,37 @@
             "synonyms": [],
             "content": "अपोपाभ्यां वनं वेलमारामः कृत्रिमे वने ॥ ११११ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वेल",
+            "eid": "26970",
+            "pagenum": 1011,
+            "content": "वेलं¦ A garden, grove."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वेल",
+            "eid": "13995",
+            "pagenum": 902,
+            "content": "वेल¦ <i>vela,</i> <b>I.</b> <ab>n.</ab> A grove. <b>II.</b> <ab>f.</ab> <i>lā.</i> <b>1.</b> Time, <ls>Pañc.</ls> 55, 6; 163, 20; <ab>loc.</ab> <i>lāyām,</i> Seasonably. <b>2.</b> Tide, <ls>Pañc.</ls> 75, 24; flow, current. <b>3.</b> Sea-shore, <ls>Śiś.</ls> 9, 38 (at the end of a <ab>comp.</ab> <ab>adj.</ab>). <b>4.</b> Boundary, <ls>Pañc.</ls> iii. <ab>d.</ab> 269. <b>5.</b> Leisure, interval, opportunity. <b>6.</b> Sudden death. <b>7.</b> Sickness. <b>8.</b> The gums. <b>9.</b> Speech. <b> -- <ab>Comp.</ab></b> <i>Ati-vela + m,</i> <ab>adv.</ab> unseasonably, <ls>MBh.</ls> 2, 2187. <i>Anu-vela</i> <i>+ m,</i> <ab>adv.</ab> continually, <ls>Ragh.</ls> 3, 5. <i>Ud</i> <i>-vela,</i> <ab>adj.</ab> breaking out of its shore, <ls>Kathās.</ls> 18, 2. <i>Toya-velā,</i> <ab>f.</ab> a bank, a shore, <ls>Hariv.</ls> 12014. <i>Mahā-vela,</i> <ab>adj.</ab> of high tides, surgy, <ls>Johns. Sel.</ls> 13, 39."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "वेल",
+            "eid": "14468",
+            "pagenum": 509,
+            "content": "<b>vela</b>¦, <lex>m.</lex>, a high number: <ls>Mvy</ls> 〔7760〕 velaḥ = <lang>Tib.</lang> <tib>dus rlabs</tib>; = <b>velu</b>, <ab>q.v.</ab>, and <ab>cf.</ab> <b>velā</b> (2)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वेल",
+            "eid": "16124",
+            "pagenum": 618,
+            "content": "वेल¦ <i>vela</i> <ab>n.</ab> jardin. -- <ab>F.</ab> <i>velā</i> limite, borne; || rive, rivage; || courant; marée. || Temps; || loisir, aise; mort aisée ou subite; || maladie. || Discours. || Gencive. || <ab>Np.</ab> de l'épouse de Budha.  <P><i>velākūla</i> <ab>n.</ab> le district de Tamluk, la partie <lbinfo n='3'/> sud de l'Hougly."
+        }
     ]
 }

@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "परिस्यन्दः परिकरः परिवारः परिग्रहः ॥ ७१५ ॥\nपरिच्छदः परिबर्हस्तन्त्रोपकरणे अपि ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "परिवार",
+            "eid": "18233",
+            "pagenum": 680,
+            "content": "परि(री)वारः¦ <b>1</b> Train, retinue, attendants or followers <lbinfo n='collective+ly'/> collectively; (यानं) अध्यास्य कन्या <lbinfo n='parivAraSo#Bi'/> परिवारशोभि <ls>R. 6. 10</ls>; <ls n='R.'>12. 16</ls>; ग्रहगणपरिवारो राजमार्गप्रदीपः <ls>Mk. 1. 57.</ls> <b>--2</b> A <lbinfo n='co+ver'/> cover, covering. <b>--3</b> A sheath, <lbinfo n='scab+bard'/> scabbard."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "परिवार",
+            "eid": "8368",
+            "pagenum": 527,
+            "content": "परिवार¦ <i>parivāra,</i> <ab>i. e.</ab> <i>pari-vṛ + a,</i> <ab>m.</ab> <b>1.</b> A cover, <ls>MBh.</ls> 8, 1474. <b>2.</b> Retinue, <ls>Pañc.</ls> 12, 20 (figur.); Daśak, in <ls>Chr.</ls> 182, 20."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "परिवार",
+            "eid": "9145",
+            "pagenum": 329,
+            "content": "<b>parivāra</b>¦, <lex>nt.</lex> (= <lang>Pali</lang> °ra, <lex>m.</lex>, title of the Appendix to <ls>Vin.</ls>, 〔v.226.3〕, colophon), <i>accessory</i> (text), <i>appendix, addendum</i>: avalokitaṃ nāma sūtraṃ mahāvastusya parivāraṃ <ls>Mv</ls> 〔ii.397.7〕, colophon to second version of the Avalokita sūtra."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "परिवार",
+            "eid": "4976",
+            "pagenum": 211,
+            "content": "परिवार¦ v. परीवार."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "परिवार",
+            "eid": "10693",
+            "pagenum": 396,
+            "content": "परिवार¦ <i>parivāra</i> <ab>m.</ab> <i>(vṛ)</i> enveloppe; || fourreau, gaîne. || Entourage, cortège, partisan, homme de l'entourage de <ab>qqn.</ab>  <P><i>parivārayāmi</i> (<ab>c.</ab> de <i>vṛ)</i>. Entourer; envelopper; <lbinfo n='7'/> vêtir; revêtir."
+        }
     ]
 }

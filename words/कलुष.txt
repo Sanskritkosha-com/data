@@ -36,5 +36,37 @@
             "synonyms": [],
             "content": "महिषे कलुषः पिङ्गः कटाहो गद्गदस्वरः ।\nहेरम्बः स्कन्धशृङ्गश्च सिंहे तु स्यात्पलंकषः ॥ १८१ ॥\nशैगाटो वनराजश्च नभःक्रान्तो गणेश्वरः ।\nशृङ्गोष्णीषो रक्तजिह्वो व्यादीर्णास्यः सुगन्धिकः ॥ १८२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कलुष",
+            "eid": "10509",
+            "pagenum": 387,
+            "content": "कलुष¦ <i><ab>a.</ab></i> [कल्-उषच् <ls>Uṇ. 4. 75</ls>] <b>1</b> Turbid, dirty, muddy, foul; गंगा रोधः पतनकलुषा गृह्णतीव प्रसादं <ls>V. 1. 8</ls>; <ls>Ki. 8. 32</ls>; <ls>Ghaṭ. 13.</ls> <b>--2</b> Choked, hoarse, husky; कंठः <lbinfo n='staMBitabAzpavftti#kaluzaH'/> स्तंभितबाष्पवृत्तिकलुषः <ls>Ś. 4. 5.</ls> <b>--3</b> Bedimmed; full of; <ls>Ś. 6. 8.</ls> <b>--4</b> Angry, displeased, excited; <ls>U. 3. 13</ls>; भावावबोधकलुषा दयितेव रात्रौ <ls>R. 5. 64</ls> (<ls>Malli.</ls> takes कलुष to mean ‘unable’, <lbinfo n='‘incompe+tent'/> ‘incompetent’). <b>--5</b> Wicked, sinful, bad. <b>--6</b> Cruel, censurable; <ls>R. 14. 73.</ls> <b>--7</b> Dark, opaque. <b>--8</b> Idle, lazy. <b>--9</b> <lbinfo n='Per+verted'/> Perverted; °भूतायां बुद्धौ <ls>Pt. 3. 184</ls>; कालुष्यमुपयाति बुद्धिः &c. --षः A <lbinfo n='buf+falo'/> buffalo. --षं <b>1</b> Dirt, filth, mud;  <lbinfo n='vigata#kaluzamaMBaH'/> विगतकलुषमंभः <ls>Rs. 3. 22.</ls> <b>--2</b> Sin. <b>--3</b> Wrath. <b>--Comp.</b> --योनिज <i><ab>a.</ab></i> <lbinfo n='illegi+timate'/> illegitimate, of impure origin;  <lbinfo n='ls:Ms. 10.+ 57'/> <ls>Ms. 10. 57</ls>, <ls n='Ms. 10.'>58.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कलुष",
+            "eid": "3100",
+            "pagenum": 169,
+            "content": "कलुष¦ <i>kaluṣa</i> (<ab>cf.</ab> <i>kalaṅka</i> and <i>kal-</i> <i>maṣa</i>), <b>I.</b> <ab>adj.</ab>, <ab>f.</ab> <i>ṣā.</i> <b>1.</b> Turbid, <ls>Vikr.</ls> <ab>d.</ab> 8. <b>2.</b> Impure, <ls>Man.</ls> 10, 57. <b>3.</b> Choked, <ls>Śāk.</ls> <ab>d.</ab> 81. <b>4.</b> Unable, <ls>Ragh.</ls> 5, 64. <b>II.</b> <ab>n.</ab> <b>1.</b> Dirt, <ls>Ṛt.</ls> 3, 22. <b>2.</b> Impurity, <ls>Rām.</ls> 2, 97, 27."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कलुष",
+            "eid": "1973",
+            "pagenum": 68,
+            "content": "कलुष¦ turbidus. N. 17. 7."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कलुष",
+            "eid": "4199",
+            "pagenum": 149,
+            "content": "कलुष¦ <i>kaluṣa</i> <ab>a.</ab> <i>(kal</i> 10) mèlé, confondu; <lbinfo n='3'/> trouble, obscur. -- <ab>S.</ab> <ab>n.</ab> faute, péché."
+        }
     ]
 }

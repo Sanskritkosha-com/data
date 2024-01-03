@@ -20,5 +20,37 @@
             "synonyms": [],
             "content": "कटः किलिञ्जो मुसलोऽयोग्रं कण्डोलकः पिटम् ॥ १०१७ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पिट",
+            "eid": "18939",
+            "pagenum": 701,
+            "content": "पिटः¦ A box basket. --टं <b>1</b> A house, hovel. <b>--2</b> A roof."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पिट",
+            "eid": "8805",
+            "pagenum": 550,
+            "content": "पिट¦ <i>piṭa,</i> <b>I.</b> <ab>m.</ab> A basket. <b>II.</b> <ab>n.</ab> A roof."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "पिट",
+            "eid": "9501",
+            "pagenum": 344,
+            "content": "<b>piṭa</b>¦ (<lex>nt.</lex>? or <lex>m.</lex>; <lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab>, not in <lang>Pali</lang>) = <b>piṭaka</b>, <i>basket</i> in the <ab>fig.</ab> sense of <i>collection of literary works</i>, <ab>esp.</ab> of the Buddhist canon; only in <b>tri-piṭa</b> (<ab>Bhvr.</ab>), <ab>q.v.</ab>"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पिट",
+            "eid": "11070",
+            "pagenum": 411,
+            "content": "पिट¦ <i>piṭa</i> <ab>m.</ab> huche de bambou à conserver <lbinfo n='6'/> le grain. -- <ab>N.</ab> maison, cabane.  <P><i>piṭaka</i> <ab>m.</ab> corbeille; huche à grain. || <i>tripiṭaka</i> les Trois-corbeilles [recueil des écritures buddhiques].  <P><i>piṭaṅkāśa</i> <ab>m.</ab> esox, <ab>esp.</ab> de brochet."
+        }
     ]
 }

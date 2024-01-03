@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "कक्ष्या दूष्या वरत्रा स्यात्कण्ठबन्धः कलापकः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कलापक",
+            "eid": "10492",
+            "pagenum": 387,
+            "content": "कलापकं¦ <b>1</b> A series of four stanzas on the same subject and forming one grammatical sentence (चतुर्भिस्तु कलापकं); for an illustration see  <lbinfo n='ls:Ki.+3'/> <ls>Ki. 3. 41</ls>, <ls n='Ki. 3.'>42</ls>, <ls n='Ki. 3.'>43</ls>, <ls n='Ki. 3.'>44.</ls> <b>--2</b> A debt to be paid when the peacocks spread their tails. --कः <b>1</b> A band or bundle in general. <b>--2</b> A string of pearls. <b>--3</b> The rope round an elephant's neck. <b>--4</b> A zone or girdle (= कलाप);  <lbinfo n='ls:Śi.+ 9. 45.'/> <ls>Śi. 9. 45.</ls> <b>--5</b> A sectarian mark on the forehead (विशेषक)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कलापक",
+            "eid": "3088",
+            "pagenum": 168,
+            "content": "कलापक¦ <i>kalāpa + ka,</i> <ab>m.</ab> <b>1.</b> A string, <ls>MBh.</ls> 3, 10055. <b>2.</b> A band, <ls>Śiś.</ls> 9, 45."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कलापक",
+            "eid": "4577",
+            "pagenum": 172,
+            "content": "<b>kalāpaka</b>¦, <lex>adj.</lex> or <lex>adv.</lex> (as noun, <i>bundle; string of pearls</i>, in <lang>Skt.</lang> and <lang>Pali</lang>), perhaps <i>in folds</i> (‘bundles, bunches’?), applied to a monkʼs robe: <ls>Prāt</ls> 〔528.7〕 na °kaṃ cīvaraṃ nivāsayiṣyāmaḥ; <lang>Chin.</lang> <i><fr>… des plis fins</fr></i>."
+        }
     ]
 }

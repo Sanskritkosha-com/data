@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "केशेषु वर्त्म सीमन्तः पलितं पाण्डुरः कचः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पलित",
+            "eid": "18483",
+            "pagenum": 687,
+            "content": "पलित¦ <i><ab>a.</ab></i> Weighing or containing so many <i>palas</i>."
+        },
+        {
+            "word": "पलित",
+            "eid": "18502",
+            "pagenum": 687,
+            "content": "पलित¦ <i><ab>a.</ab></i> Grey, hoary, <lbinfo n='grey-hair+ed'/> grey-haired, old, aged; तातस्य मे <lbinfo n='palitamOlini#rastakASe'/> पलितमौलिनिरस्तकाशे (शिरसि) <ls>Ve. 3. 19.</ls> --तं <b>1</b> Grey hair, or the greyness of hair brought on by old age;  <lbinfo n='kEkeyISaMkaye#vAha'/> कैकेयीशंकयेवाह पलितच्छद्मना जरा <ls>R. 12. 2</ls>;  <lbinfo n='ls:Ms.+ 6. 2.'/> <ls>Ms. 6. 2.</ls> <b>--2</b> Much or ornamented hair. <b>--3</b> A tuft of hair (केशपाश). <b>--4</b> Mud, mire. <b>--5</b> Heat. <b>--6</b> Benzoin."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पलित",
+            "eid": "8511",
+            "pagenum": 533,
+            "content": "पलित¦ <i>palita,</i> <b>I.</b> <ab>adj.</ab>, <ab>f.</ab> <i>iknī</i> (and <i>tā</i>), Grey, <ls>MBh.</ls> 7, 5089. <b>II.</b> <ab>n.</ab> Grey hair, <ls>Man.</ls> 6, 2. -- <ab>Cf.</ab> <lang n='greek'>πελιδνός, πελιός, πελός, πελλός, πολιός</lang>; <ab>Lat.</ab> pullus, pallidus. pallere; <ab>O.H.G.</ab> falw; <ab>A.S.</ab> fealo, falu, fealwe, falewe."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "पलित",
+            "eid": "5027",
+            "pagenum": 213,
+            "content": "पलित¦ <i>Adj.</i> canis capillis praeditus. <i>Subst. n. pl.</i> पलिता- नि cani capilli. MAH. 1. 3467. HIT. 28. 7. (Cf. lat. <i>pal-</i> <i>lidus</i>; gr. <lang n='greek'>πολιός</lang>; slav. <i>plaw</i> flavus; lith. <i>balta-s</i> albus, <i>palwa-s</i> flavus; germ. vet. <i>falo</i> flavus, Them. <i>falawa</i>, gen. <i>falawe-s.</i>)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पलित",
+            "eid": "10876",
+            "pagenum": 402,
+            "content": "पलित¦ <i>palita</i> <ab>a.</ab> qui a les cheveux blancs, <lang n='greek'>πολιός</lang>. -- <ab>F.</ab> femme à cheveux blancs. -- <ab>N.</ab> cheveux blancs [au <ab>pl.</ab>]. || Chaleur brûlante. || Boue, fange. || Benjoin."
+        }
     ]
 }

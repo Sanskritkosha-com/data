@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "होमधूमस्तु निगणो होमभस्म तु वैष्टुतम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वैष्टुत",
+            "eid": "27154",
+            "pagenum": 1016,
+            "content": "वैष्टुतं¦ The ashes of a burnt <lbinfo n='of+fering'/> offering."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वैष्टुत",
+            "eid": "14135",
+            "pagenum": 910,
+            "content": "वैष्टुत¦ <i>vaiṣṭuta,</i> <ab>i. e.</ab> <i>vi-stuta</i> (<ab>vb.</ab> <i>stu</i>), <i>+ a,</i> <ab>n.</ab> The ashes of a burnt offering."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वैष्टुत",
+            "eid": "16244",
+            "pagenum": 622,
+            "content": "वैष्टुत¦ <i>vaiṣṭuta</i> <ab>n.</ab> <i>(vi; stuti)</i> cendres de l'holocauste."
+        }
     ]
 }

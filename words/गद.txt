@@ -26,5 +26,57 @@
             "synonyms": [],
             "content": "रोगो रुजा रुगातङ्को मान्द्यं व्याधिरपाटवम् ॥ ४६२ ॥\nआम आमय आकल्यमुपतापो गदः समाः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "गद",
+            "eid": "42992",
+            "pagenum": 3,
+            "content": "गद¦ composed in 1554: <HI1>Sampradāyakuladīpikā."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "गद",
+            "eid": "12286",
+            "pagenum": 449,
+            "content": "गदः¦ [गद्-अच्] <b>1</b> Speaking, speech. <b>--2</b> A sentence. <b>--3</b> Disease, sickness; असाध्यः कुरुते कोपं प्राप्ते काले गदो यथा <ls>Śi. 2. 84</ls>; जनपदे न गदः पदमादधौ  <lbinfo n='ls:R. 9.+ 4'/> <ls>R. 9. 4</ls>, <ls n='R.'>17. 81.</ls> <b>--4</b> Thunder. --दं A kind of poison. <b>--Comp.</b> --अगदौ (<ab>du.</ab>) the two Aśvins, physicians of gods. --अग्रजः an epithet of Kṛṣṇa;  <lbinfo n='ls:Śi.+ 2. 69.'/> <ls>Śi. 2. 69.</ls> --अग्रणीः the chief of all diseases. <i><ab>i. e.</ab></i> consumption. --अंबरः a cloud. --अरातिः a drug, <lbinfo n='medica+ment'/> medicament. --गदं indistinct utterance."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गद",
+            "eid": "4307",
+            "pagenum": 251,
+            "content": "गद¦ <i>gada,</i> <b>I.</b> <ab>m.</ab> <ab>i. e.</ab> 1. <i>gad + a,</i> <b>1.</b> Speech, a spell, <ls>MBh.</ls> 1, 1787. <b>2.</b> Disease, Śṛṅgārat 14. <b>3.</b> The younger brother of Kṛṣṇa <ls>MBh.</ls> 1, 7992. <b>II.</b> <ab>f.</ab> <i>dā,</i> A club, <ls>Rām.</ls> 5, 80, 4. <b> -- <ab>Comp.</ab></b> <i>A-gada,</i> <b>I.</b> <ab>adj.</ab> healthy <ls>Man.</ls> 8, 107. <b>II.</b> <ab>m.</ab> 1. a medicament. <ls>Man.</ls> 7, 218. 2. health, 11, 237."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "गद",
+            "eid": "2743",
+            "pagenum": 100,
+            "content": "गद¦ <i>m.</i> (r. गद् s. अ) 1) dictum, sermo. MAH. 1. 1787. 2) (fortasse alius originis) morbus. RAGH. 9. 4. (Hib. <i>gadh</i> vox, lith. <i>źadas</i> lingua, oratio.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गद",
+            "eid": "5706",
+            "pagenum": 209,
+            "content": "गद¦ <i>gada</i> <ab>m.</ab> parole, discours. || <ab>Lith.</ab> zadas, la parole;<ab>polon.</ab> <i>gadac,</i> parler; <ab>irland.</ab> <lbinfo n='5'/> gadh, la voix."
+        },
+        {
+            "word": "गद",
+            "eid": "5707",
+            "pagenum": 210,
+            "content": "गद¦ <i>gada</i> <ab>m.</ab> maladie."
+        },
+        {
+            "word": "गद",
+            "eid": "5708",
+            "pagenum": 210,
+            "content": "गद¦ <i>gada</i> <ab>m.</ab> <ab>np.</ab> du frère cadet de <s1 slp1='kfzRa'>Kṛṣṇa</s1>."
+        }
     ]
 }

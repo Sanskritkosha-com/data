@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "महाकालस्तु किंपाके मन्दारः पारिभद्रके ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पारिभद्र",
+            "eid": "18791",
+            "pagenum": 697,
+            "content": "पारिभद्रः¦ <b>1</b> The coral tree. <b>--2</b> The <i>Devadcru</i> tree. <b>--3</b> The <i>Sarala</i> tree. <b>--4</b> The <i>Nimba</i> tree."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पारिभद्र",
+            "eid": "8716",
+            "pagenum": 545,
+            "content": "पारिभद्र¦ <i>pāribhadra,</i> <ab>i. e.</ab> <i>pari</i> <i>-bhadra + a,</i> and पारिभद्रक <i>pāri-</i> <i>bhadra + ka,</i> <ab>m.</ab> The coral and other trees."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पारिभद्र",
+            "eid": "11005",
+            "pagenum": 408,
+            "content": "पारिभद्र¦ <i>pāribhadra</i> <ab>m.</ab> erythrina fulgens, <lbinfo n='5'/> pinus deodara et <ab>p.</ab> longifolia, melia azedarac, <ab>bot.</ab>"
+        }
     ]
 }

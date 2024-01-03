@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "कुतूहले विनोदोऽपि सौनिकः खट्टिकोऽपि च ॥ ८१ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "खट्टिक",
+            "eid": "12043",
+            "pagenum": 441,
+            "content": "खट्टिकः¦ <b>1</b> A butcher. <b>--2</b> A hunter, fowler. --का <b>1</b> A small bed-stead, a cot. <b>--2</b> A bier."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "खट्टिक",
+            "eid": "5433",
+            "pagenum": 202,
+            "content": "<b>khaṭṭika</b>¦, <lex>m.</lex> (= <lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab> = māṃsa-vikrayin; not in <lang>Pali</lang>; <lang>AMg.</lang> khaṭṭia, °iya), <i>butcher</i>: <ls>Mvy</ls> 〔3759〕 = <lang>Tib.</lang> <tib>bśan pa</tib>. Ultimately, of course, based on a theoretical <lang>Skt.</lang> *kṣattṛ-ka."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "खट्टिक",
+            "eid": "5491",
+            "pagenum": 201,
+            "content": "खट्टिक¦ <i>khaṭṭika</i> <ab>a.</ab> chasseur, chasseresse. -- <ab>S.</ab> <ab>f.</ab> <i>khaṭṭikā</i> bois-de-lit, couchette; bière, corbillard."
+        }
     ]
 }

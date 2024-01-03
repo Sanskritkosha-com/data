@@ -20,5 +20,45 @@
             "synonyms": [],
             "content": ";c{इति वनस्पतिकायः ।}\nनीलङ्गुः कृमिरन्तर्जः क्षुद्रः कीटो बहिर्भवः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कीट",
+            "eid": "10961",
+            "pagenum": 405,
+            "content": "कीट¦ <i><ab>a.</ab></i> Hard, harsh. --टः <b>1</b> A worm, an insect; कीटोपि सुमनः <lbinfo n='saMgAdA#rohati'/> संगादारोहति सतां शिरः <ls>H. Pr. 45.</ls> <b>--2</b> A term expressive of contempt (generally at the end of <ab>comp.</ab>); द्विपकीटः a wretched elephant; so पक्षिकीटः  <lbinfo n='ls:Pt.+1'/> <ls>Pt. 1</ls>; &c. <b>--Comp.</b> --घ्नः sulphur. --जं silk. --जा lac. --मणिः a fire-fly."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कीट",
+            "eid": "3439",
+            "pagenum": 188,
+            "content": "कीट¦ <i>kīṭa,</i> <ab>m.</ab> (and <ab>f.</ab> <i>ṭī</i> and <ab>n.</ab>) A worm, <ls>Man.</ls> 1, 40. An insect, <ls>Man.</ls> 2, 201. <b> -- <ab>Comp.</ab></b> <i>Keśa-,</i> <ab>m.</ab> a louse, <ls>Man.</ls> 4,  207. <i>Pakṣikīṭa,</i> <ab>i. e.</ab> <i>pakṣin-,</i> <ab>m.</ab> an insect-like bird, a paltry bird, <ls>Pañc.</ls> 75, 19. <i>Yama-,</i> m. an earthworm. <i>Śūra-,</i> <ab>m.</ab> an inferior warrior, <ls>Mahāvīrac.</ls> 109, 10."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कीट",
+            "eid": "4896",
+            "pagenum": 184,
+            "content": "<b>kīṭa</b>¦ (<lex>m.</lex> or <lex>nt.</lex>; = <lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab>, <ls>BR</ls> 〔5.1298〕), <i>excrement</i>: <ls>Śikṣ</ls> 〔81.5〕 (<ab>vs</ab>) kīṭakumbho (<i>chamber-pot</i>) yathā … pūrṇo mūtrapurīṣeṇa. So with <lang>Tib.</lang>; <ls>Bendall and Rouse</ls> very implausibly <i>pot of worms</i>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कीट",
+            "eid": "2163",
+            "pagenum": 74,
+            "content": "कीट¦ <i>m.</i> insectum, vermis. HIT. 8. 7. (Gr. <lang n='greek'>ϰίς</lang>.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कीट",
+            "eid": "4636",
+            "pagenum": 165,
+            "content": "कीट¦ <i>kīṭa</i> <ab>a.</ab> dur, ferme, solide. -- <ab>S.</ab> <ab>m.</ab> ver, insecte; <ab>gr.</ab> <lang n='greek'>ϰίς</lang>. || Barde, chantre épique d'une caste issue d'un père <s1 slp1='kzatriya'>kṣatriya</s1> et d'une mère <s1 slp1='vESyA'>vaiśyā</s1>; <ab>cf.</ab> <i>sūta.</i> || <ab>Cf.</ab> <i>kīkasa.</i>  <P><i>kīṭaghna</i> <ab>m.</ab> <i>(han)</i> soufre.  <P><i>kīṭajā</i> <ab>f.</ab> <i>(jan)</i> cochenille, insecte qui fournit le carmin."
+        }
     ]
 }

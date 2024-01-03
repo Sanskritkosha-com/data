@@ -45,5 +45,45 @@
             "synonyms": [],
             "content": "सांयुगीनो रणे साधुर्जेता जिष्णुश्च जित्वरः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "जिष्णु",
+            "eid": "8107",
+            "pagenum": 1,
+            "content": "जिष्णु¦ father of Brahmagupta. Cambr. 43."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "जिष्णु",
+            "eid": "13940",
+            "pagenum": 514,
+            "content": "जिष्णु¦ <i><ab>a.</ab></i> [जि-ग्त्स्नु] <b>1</b> Victorious, triumphant; <ls>R. 4. 85</ls>; <ls n='R.'>10. 18.</ls> <b>--2</b> Winning, gaining. <b>--3</b> (At the end of <ab>comp.</ab>) Canquering, excelling; अलिनीजिष्णुः कचानां चयः <ls>Bh. 1. 5</ls>; <ls>Śi. 13. 21.</ls> --ष्णुः <b>1</b> The sun. <b>--2</b> <ab>N.</ab> of Indra. <b>--3</b> <ab>N.</ab> of Viṣṇu. <b>--4</b> <ab>N.</ab> of Arjuna."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "जिष्णु",
+            "eid": "5429",
+            "pagenum": 333,
+            "content": "जिष्णु¦ <i>jiṣṇu,</i> <ab>i. e.</ab> <i>ji + snu,</i> <b>I.</b> <ab>adj.</ab> <b>1.</b> Overpowering, <ls>MBh.</ls> 6, 5352. <b>2.</b> Victorious, <ls>Rājat.</ls> 5, 136. <b>3.</b> Excelling, <ls>Bhartṛ.</ls> 1, 5. <b>II.</b> <ab>m.</ab> <b>1.</b> A name of Viṣṇu, <ls>MBh.</ls> 5, 2571. <b>2.</b> Of Arjuna, <ls>MBh.</ls> 3, 425. <b> -- <ab>Comp.</ab></b> <i>Sa-,</i> <ab>adj.</ab> with Arjuna."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "जिष्णु",
+            "eid": "3475",
+            "pagenum": 139,
+            "content": "जिष्णु¦ (<i>fem.</i> -ष्णु, r. जि s. स्नु; v. gr. 645. s. स्नु) 1) <i>Adj.</i> vincens, victoriosus. RAGH. 4. 85. 10. 18. 2) cognomen Arǵuni."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "जिष्णु",
+            "eid": "7269",
+            "pagenum": 268,
+            "content": "जिष्णु¦ <i>jiṣṇu</i> <ab>a.</ab> <i>(ji;</i> <ab>sfx.</ab> <i>snu)</i> victorieux. || <ab>Ép.</ab> de <s1 slp1='vizRu'>Viṣṇu</s1>, de <s1 slp1='kfzRa'>Kṛṣṇa</s1>, d'<s1 slp1='indra'>Indra</s1>, d'<s1 slp1='arjuna'>Arjuna</s1>. <lbinfo n='5'/>"
+        }
     ]
 }

@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "ग्रासो गुडेरकः पिण्डो गडोलः कवको गुडः ॥ ४२५ ॥\nगण्डोलः कवलस्तृप्ते त्वाघ्रातसुहिताशिताः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "ग्रास",
+            "eid": "12789",
+            "pagenum": 471,
+            "content": "ग्रासः¦ [ग्रस् कर्मणि घञ्] <b>1</b> A <lbinfo n='mouth+ful'/> mouthful, a quantity of anything equal to a mouthful; <ls>Ms. 3. 133</ls>; <ls n='Ms.'>6. 28</ls>; <ls>Y. 3. 55.</ls> <b>--2</b> Food, nourishment. <b>--3</b> The part of the sun or moon <lbinfo n='eclip+sed'/> eclipsed. <b>--4</b> The morsel bitten. <b>--5</b> The act of swallowing. <b>--6</b> Slurring, <lbinfo n='in+distinct'/> indistinct pronunciation; fault in the pronunciation of the gutturals. <b>--7</b> (In geom.) A piece cut out by the intersection of two circles. <b>--8</b> An eclipse. <b>--Comp.</b> --आच्छादनं food and clothing; <i><ab>i. e.</ab></i> bare subsistence. --शल्यं any extraneous substance lodged in the throat."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "ग्रास",
+            "eid": "4658",
+            "pagenum": 279,
+            "content": "ग्रास¦ <i>grāsa,</i> <ab>i. e.</ab> <i>gras + a,</i> <ab>m.</ab> <b>1.</b> A mouthful, <ls>Man.</ls> 3, 133; a morsel, <ls>Pañc.</ls> 221, 21. <b>2.</b> Food, <ls>Man.</ls> 8, 339. <b>3.</b> Swallowing, <ls>Bhartṛ.</ls> 2, 22."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "ग्रास",
+            "eid": "6174",
+            "pagenum": 229,
+            "content": "ग्रास¦ <i>grāsa</i> <ab>m.</ab> <i>(gras)</i> action de manger; || au <ab>fig.</ab> l'action de manger le son [en retirant <lbinfo n='4'/> la base de la langue vers le fond de la bouche] <ab>tg.</ab> || Bouchée; petite quantité de nourriture [équivalente à une bouchée]."
+        }
     ]
 }

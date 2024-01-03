@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "कोविदारे युगपत्त्रः सल्लकी तु गजप्रिया ॥ ११५२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कोविदार",
+            "eid": "11582",
+            "pagenum": 426,
+            "content": "कोविदारः, --रं¦ <ab>N.</ab> of a tree; चित्तं विदारयति कस्य न कोविदारः <ls>Rs. 3. 6</ls>; <ls>U. 5. 1.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कोविदार",
+            "eid": "3844",
+            "pagenum": 221,
+            "content": "कोविदार¦ <i>kovidāra,</i> <ab>i. e.</ab> <i>ko-vidṝ</i> <i>+ a</i> (<ab>cf.</ab> the last), <ab>m.</ab> A species of ebony, Bauhinia variegata, Lin., <ls>Rām.</ls> 2, 84, 3."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कोविदार",
+            "eid": "5252",
+            "pagenum": 195,
+            "content": "<b>kovidāra</b>¦, <lex>m.</lex> (in <lang>Skt.</lang> <ab>n.</ab> of a tree, and also, in <ls>Hariv.</ls>, of a heavenly tree, equated by <ls>BR</ls> with pārijāta; same two <ab>mgs.</ab> belong to <lang>Pali</lang> koviḷāra), in <ls>Mv</ls> 〔i.32.4〕 and 〔ii.452.1〕, at least, <ab>n.</ab> of one of the groves of the Trāyastriṃśa gods; elsewhere it is regularly equated or associated with pārijāta(ka), which seems as a rule to have its <lang>Skt.</lang> <ab>mg.</ab>, or <b>pāriyātra(ka)</b>, <ab>q.v.</ab>; <ab>cf.</ab> <ls>DPPN</ls> ‘The pāricchattaka (= pārijātaka, °yātraka; called a tree, but 100 leagues in circumference) is generally described as a koviḷāra’; it is certainly sometimes a (heavenly) tree, <ab>e.g.</ab> <ls>Gv</ls> 〔193.9〕 pārijātaka-kovidāra-sadṛśān (vṛkṣān), but at other times it is hard to be sure whether it is conceived as a tree or a grove; <ab>e.g.</ab> <ls>Mvy</ls> 〔4199〕 (after pāriyātraḥ 〔4198〕, which is preceded by names of groves, but with 〔4200 ff.〕 come words for individual trees); <ls>Divy</ls> 〔219.20〕 pāriyātrako (<ab>mss.</ab>) nāma kovidāro, 27 pārijātako kovidāro; <ls>SP</ls> 〔360.13—14〕 pārijātakasya kovidārasya, and same <ls>Av</ls> 〔ii.89.6〕 (°jātasya); <ls>Gv</ls> 〔501.11〕 (here pāriyātrakasya). Perhaps the explanation is that, like the <lang>Pali</lang> pāricchattaka, it was a single tree of such size as to be equivalent to a grove."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कोविदार",
+            "eid": "5147",
+            "pagenum": 188,
+            "content": "कोविदार¦ <i>kovidāra</i> <ab>m.</ab> bauhinia variegata <lbinfo n='4'/> ou ébène sauvage."
+        }
     ]
 }

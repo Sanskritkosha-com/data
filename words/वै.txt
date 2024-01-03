@@ -31,5 +31,61 @@
             "synonyms": [],
             "content": "स्युरेवं तु पुनर्वैवेत्यवधारणवाचकाः ॥ १९८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वै",
+            "eid": "27006",
+            "pagenum": 1012,
+            "content": "वै¦ {c1c} <ab>P.</ab> (वायति) <b>1</b> To dry, be dried. <b>--2</b> To be languid or weary, be exhausted."
+        },
+        {
+            "word": "वै",
+            "eid": "27007",
+            "pagenum": 1012,
+            "content": "वै¦ <i><ab>ind.</ab></i> A particle of affirmation or certainty (indeed, truly, <lbinfo n='for+sooth'/> forsooth), but it is generally used as an expletive; आपो वै नरसूनवः  <lbinfo n='ls:Ms.+ 1. 10'/> <ls>Ms. 1. 10</ls>; <ls n='Ms.'>2. 231</ls>, <ls n='Ms.'>9. 49</ls>, <ls n='Ms.'>11. 78.</ls> &c. It is also said to be a vocative particle, and sometimes shows <lbinfo n='en+treaty'/> entreaty or persuasion (अनुनय)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वै",
+            "eid": "14017",
+            "pagenum": 904,
+            "content": "1. वै¦ <i>VAI,</i> see 1. <i>vā.</i>"
+        },
+        {
+            "word": "वै",
+            "eid": "14018",
+            "pagenum": 904,
+            "content": "2. वै¦ <i>vai,</i> a particle, <b>1.</b> So indeed,  <ls>Pañc.</ls> ii. <ab>d.</ab> 26. <b>2.</b> Just, <ls>Nal.</ls> 26, 5. <b>3.</b> Although, <ls>Chr.</ls> 6, 6. <b>4.</b> Granted, if, <ls>Hit.</ls> ii. d. 21 (but <ab>cf.</ab> <ls>Böhtl. Ind. Spr.</ls> 572). <b>5.</b> Preceded by <i>tu,</i> But just, <ls>Man.</ls> 2, 22. <b>6.</b> Preceded by <i>na,</i> Perhaps not, <ls>Lass.</ls> 27, 2."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वै",
+            "eid": "7591",
+            "pagenum": 337,
+            "content": "1. वै¦ 1. <i>P.</i> (शोषणे <i>K.</i> शोषे <i>V.</i>) siccari. RIGV. V. 67. 8. (v. Westerg. s. r. वा): न वायन्ति वां तरणयः. (Cf. वा et vid. gr. min. §§. 353. 354.)"
+        },
+        {
+            "word": "वै",
+            "eid": "7592",
+            "pagenum": 337,
+            "content": "2. वै¦ 1) quidem, nempe. N. 26. 5. 8. 23. 2) sane, vere, certe. N. 24. 35. 26. 13. 3) vero. N. 24. 6. 4) si. HIT. 48. 8.: ये पराधीनतां यातास् ते वै जीवन्ति मृताः के. 5. explet. SA. 5. 63."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वै",
+            "eid": "16149",
+            "pagenum": 619,
+            "content": "*वै¦ <i>vai.</i> <i>vāmi</i> 1, <ab>cf.</ab> <i>vā.</i>"
+        },
+        {
+            "word": "वै",
+            "eid": "16150",
+            "pagenum": 619,
+            "content": "वै¦ <i>vai</i> <ab>adv.</ab> mais, or, même, à la vérité."
+        }
     ]
 }

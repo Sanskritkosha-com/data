@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "गेहभूर्वास्तु गेहे तु गृहं वेश्म निकेतनम् ॥ ९८९ ॥\nमन्दिरं सदनं सद्म निकाय्यो भवनं कुटः ।\nआलयो निलयः शाला सभोदवसितं कुलम् ॥ ९९० ॥\nधिष्ण्यमावसथं स्थानं पस्त्यं संस्त्याय आश्रयः ।\nओको निवास आवासो वसतिः शरणं क्षयः ॥ ९९१ ॥\nधामागारं निशान्तं च कुट्टिमं त्वस्य बद्धभूः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "आवास",
+            "eid": "6924",
+            "pagenum": 260,
+            "content": "आवासः¦  (<i>a</i>) A house, habitation, abode; आवासवृक्षोन्मुखबर्हिणानि  <lbinfo n='ls:R.+ 2. 17.'/> <ls>R. 2. 17.</ls> (<i>b</i>) Apartment, room. (<i>c</i>) A place of refuge."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "आवास",
+            "eid": "1739",
+            "pagenum": 89,
+            "content": "आवास¦ <i>āvāsa,</i> <ab>i. e.</ab> <i>ā-vas + a,</i> <ab>m.</ab> A house. <b> -- <ab>Comp.</ab></b> <i>Bhoga-,</i> m. the harem."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "आवास",
+            "eid": "1034",
+            "pagenum": 34,
+            "content": "आवास¦ <i>m.</i> (r. वस् s. अ) habitatio, domus. HEM. (Hib. <i>aras</i> id. <i>arasaim</i> habito, mutato <i>v</i> in <i>r</i>, v. gr. comp. 20. et cf. goth. <i>razn</i> domus.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आवास",
+            "eid": "2459",
+            "pagenum": 82,
+            "content": "आवास¦ <i>āvāsa</i> <ab>m.</ab> <i>(vas)</i> maison."
+        }
     ]
 }

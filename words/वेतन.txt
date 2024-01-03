@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "आजीवो जीवनं वार्ता जीविका वृत्तिवेतने ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वेतन",
+            "eid": "26925",
+            "pagenum": 1010,
+            "content": "वेतनं¦ [अज्-तनन् वीभावः <ls>Uṇ. 3. 150</ls>] <b>1</b> Hire, wages, salary, pay, <lbinfo n='sti+pend'/> stipend; किं मुधा वेतनदानेन  <lbinfo n='ls:M.+1'/> <ls>M. 1</ls>; <ls>R. 17. 66.</ls> <b>--2</b> Livelihood, subsistence. <b>--3</b> Silver. <b>--Comp.</b>  <lbinfo n='--a#dAnaM'/> --अदानं, --अनपाकर्मन् <i><ab>n.</ab></i>, --अनपक्रिया {1} non-payment of wages. {2} an action for non-payment of wages.  <lbinfo n='--jIvi#n'/> --जीविन् <i><ab>m.</ab></i> a stipendiary."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वेतन",
+            "eid": "13953",
+            "pagenum": 899,
+            "content": "वेतन¦ <i>vetana</i> (probably a form of <i>vartana,</i> q. <ab>cf.</ab>), <ab>n.</ab> <b>1.</b> Hire, wages, <ls>Pañc.</ls> 22, 10; <ls>Nal.</ls> 15, 6. <b>2.</b> Livelihood, <ls>Hit.</ls> 88, 17. <b>3.</b> Silver. <b> -- <ab>Comp.</ab></b> <i>Ubhaya-,</i> <ab>adj.</ab> 1. accepting wages from his master and his master's enemy, <ls>Pañc.</ls> 22, 10. 2. living in two elements (water and land), <ls>Hit.</ls> 88, 17. <i>Kṛta-,</i> <ab>adj.</ab> hired, <ls>Yājñ.</ls> 2, 164. <i>Nis-,</i> <ab>adj.</ab> receiving no wages, <ls>Rājat.</ls> 5, 204."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वेतन",
+            "eid": "7560",
+            "pagenum": 335,
+            "content": "वेतन¦ <i>n.</i> stipendium, merces. N. 15. 6."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वेतन",
+            "eid": "16081",
+            "pagenum": 617,
+            "content": "वेतन¦ <i>vetana</i> <ab>n.</ab> salaire, gages; || moyens de subsistance."
+        }
     ]
 }

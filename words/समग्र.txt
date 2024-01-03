@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "सर्वं समस्तमन्यूनं समग्रं सकलं समम् ।\nविश्वाशेषाखण्डकृत्स्नन्यक्षाणि निखिलाखिले ॥ १४३३ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "समग्र",
+            "eid": "29298",
+            "pagenum": 1093,
+            "content": "समग्र¦ <i><ab>a.</ab></i> All, whole, entire, complete; <ls>M. 2. 13.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "समग्र",
+            "eid": "15563",
+            "pagenum": 1008,
+            "content": "समग्र¦ <i>sam-agra,</i> <ab>adj.</ab> <b>1.</b> Entire, complete, <ls>Megh.</ls> 57; full, <ls>Hiḍ.</ls> 3, 13. <b>2.</b> All, <ls>Rām.</ls> 3, 49, 37. <b> -- <ab>Comp.</ab></b> <i>A-,</i> <ab>adj.</ab> not full-grown, <ls>Vikr.</ls> <ab>d.</ab> 124."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "समग्र",
+            "eid": "15821",
+            "pagenum": 560,
+            "content": "<b>samagra</b>¦, <lex>adj.</lex> (in this <ab>mg.</ab> not <lang>Skt.</lang> but = <lang>Pali</lang> samagga; <ab>opp.</ab> to <b>vyagra</b>, <ab>q.v.</ab>), <i>(united,) harmonious</i>: (yaḥ punar bhikṣuḥ) °grasya saṃghasya bhedāya parākramet <ls>Prāt</ls> 〔482.10, 13〕, <i>proceeds towards division of a harmonious assembly</i> (of monks); <ls>MSV</ls> 〔iv.251.9 ff.〕"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "समग्र",
+            "eid": "8274",
+            "pagenum": 369,
+            "content": "समग्र¦ (ut videtur, e सम् et अग्र cuspis, quasi duas cuspides conjunctas habens 1) plenus, <i>de lunâ.</i> H. 3. 13. 2) totus, integer. BH. 4. 23. 11. 30. DR. 6. 16."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "समग्र",
+            "eid": "17588",
+            "pagenum": 680,
+            "content": "समग्र¦ <i>samagra</i> <ab>a.</ab> <i>(agra)</i> tout entier, total; <lbinfo n='4'/> || plein [en parlant de la Lune. || À l'<ab>ac.</ab> <ab>n.</ab> totalement."
+        }
     ]
 }

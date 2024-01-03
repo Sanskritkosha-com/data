@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "षण्ढे वर्षवरः शत्रौ प्रतिपक्षः परो रिपुः ।\nशात्रवः प्रत्यवस्थाता प्रत्यनीकोभियात्यरी ॥ ७२८ ॥\nदस्युः सपत्नोऽसहनो विपक्षो द्वेषी द्विषन्वैर्यहितो जिघांसुः ।\nदुर्हृत्परेः पन्थकपन्थिनौ द्विट्प्रत्यर्थ्यमित्रावभिमात्यराती ॥ ७२९ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "विपक्ष",
+            "eid": "26100",
+            "pagenum": 980,
+            "content": "विपक्ष¦ <i><ab>a.</ab></i> Hostile, inimical, <lbinfo n='ad+verse'/> adverse, contrary. --क्षः <b>1</b> An enemy, adversary, opponent; गुणास्तस्य <lbinfo n='vipa#kzepi'/> विपक्षेपि गुणिनो लेभिरेंतरं <ls>R. 17. 75</ls>;  <lbinfo n='ls:Śi.+ 11. 59.'/> <ls>Śi. 11. 59.</ls> <b>--2</b> A rival or fellow wife; <ls>R. 19. 20.</ls> <b>--3</b> A disputant; <ls>Ki. 17. 43.</ls> <b>--4</b> (In logic) A negative instance, an instance on the opposite side, (<i><ab>i. e.</ab></i> that in which the साध्य or major term is not found); निश्चितसाध्याभाववान् विपक्षः <ls>T. S.</ls>; <ls>Mu. 5. 10.</ls> <b>--5</b> (In <ab>gram.</ab>) An exception. <b>--Comp.</b> --भावः, --वृत्ति <i><ab>f.</ab></i> hostility."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "विपक्ष",
+            "eid": "13902",
+            "pagenum": 490,
+            "content": "<b>-vipakṣa</b>¦, <lex>adj.</lex>, in karma deśāntara-vipakṣaṃ, <i>an act which has its fruition (result) in a foreign country</i>: <ls>Karmav</ls> 〔30.20〕; 〔50.12, 14〕; 〔57.4〕; 〔64.13〕. So the <ab>mss.</ab> always, kept by <ls>Lévi</ls> in 〔30.20〕, otherwise <ab>em.</ab> to vipākaṃ; but the form is clearly a hyper-<ab>Sktism</ab> for <lang>MIndic</lang> (<lang>Pali</lang>) vipakka = <lang>Skt.</lang> vipakva, confused with <lang>MIndic</lang> vipakkha = vipakṣa."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "विपक्ष",
+            "eid": "7317",
+            "pagenum": 322,
+            "content": "विपक्ष¦ <i>m.</i> (e वि et पक्ष) hostis, inimicus. HIT. 91. 11."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "विपक्ष",
+            "eid": "15522",
+            "pagenum": 594,
+            "content": "विपक्ष¦ <i>vipakṣa</i> <ab>m.</ab> ennemi, adversaire, rival. || Exception, <ab>tg.</ab>"
+        }
     ]
 }

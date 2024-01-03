@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "बैल्वः सारस्वतो रौच्यः पैलवस्त्वौपरोधिकः ॥ ८१५ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "रौच्य",
+            "eid": "24367",
+            "pagenum": 919,
+            "content": "रौच्यः¦ <b>1</b> A staff of Bilva wood. <b>--2</b> An ascetic with a Bilva staff."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "रौच्य",
+            "eid": "12263",
+            "pagenum": 782,
+            "content": "रौच्य¦ <i>raucya,</i> <ab>m.</ab> An ascetic with a staff of Vilva wood."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "रौच्य",
+            "eid": "14312",
+            "pagenum": 547,
+            "content": "रौच्य¦ <i>raucya</i> <ab>m.</ab> ascète portant un bâton de <s1 slp1='vilva'>vilva</s1>."
+        }
     ]
 }

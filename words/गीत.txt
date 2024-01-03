@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "गीतं गानं गेयं गीतिर्गान्धर्वमथ नर्तनम् ।\nनटनं नृत्यं नृत्तं च लास्यं नाट्यं च ताण्डवम् ॥ २८० ॥"
         }
+    ],
+    "ACC": [
+        {
+            "word": "गीत",
+            "eid": "5968",
+            "pagenum": 1,
+            "content": "गीत¦ praise of Kṛṣṇa, by Viṭṭhaladīkṣita. Hall p. 151."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "गीत",
+            "eid": "12528",
+            "pagenum": 459,
+            "content": "गीत¦ <i><ab>p. p.</ab></i> [गै-क्त] <b>1</b> Sung, <lbinfo n='chant+ed'/> chanted (<ab>lit.</ab>); आर्ये साधु गीतं <ls>Ś. 1</ls>;  <lbinfo n='cAraRa#dvaMdvagItaH'/> चारणद्वंद्वगीतः शब्दः <ls>Ś. 2. 14.</ls> <b>--2</b> Declared, told, said; गीतश्चायमर्थ्ॐऽगिरसा  <lbinfo n='ls:Māl.+2'/> <ls>Māl. 2</ls>; (see under गै also). --तं <lbinfo n='Sing+ing'/> Singing, a song; तवास्मि गीतरागेण <lbinfo n='hAri#RA'/> हारिणा प्रसभं हृतः <ls>Ś. 1. 5</ls>;  <lbinfo n='gItamutsAdakA#ri'/> गीतमुत्सादकारि मृगाणां <ls>K. 32.</ls> <b>--Comp.</b> --अयनं a means or instrument of singing, <i><ab>i. e.</ab></i> a lute, flute &c. --क्रमः the <lbinfo n='arrange+ment'/> arrangement of a song. --ज्ञ <i><ab>a.</ab></i> versed in the art of singing. --प्रिय <i><ab>a.</ab></i> fond of song or music. (--यः) an epithet of Śiva. (--या) <ab>N.</ab> of one of the Mātṛs attending on Skanda. --मोदिन् <i><ab>m.</ab></i> a Kinnara. --शास्त्रं the science of music."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "गीत",
+            "eid": "2822",
+            "pagenum": 105,
+            "content": "गीत¦ v. गै."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गीत",
+            "eid": "5895",
+            "pagenum": 217,
+            "content": "गीत¦ <i>gīta</i> (<ab>pp.</ab> de <i>gai)</i>, chanté. -- <ab>S.</ab> <ab>n.</ab> chant, hymne, poëme. -- <ab>S.</ab> <ab>f.</ab> <i>gītā</i> nom de <ab>qqs</ab> chants particuliers, surtout de la <s1 slp1='BagavadgItA'>Bhagavad-gītā</s1>. <lbinfo n='11'/>  <P><i>gīta-govinda</i> <ab>n.</ab> poëme de <s1 slp1='jayadeva'>Jayadeva</s1>, relatif <lbinfo n='3'/> à <s1 slp1='kfzRa'>Kṛṣṇa</s1>.  <P><i>gītamodin</i> <ab>m.</ab> <i>(mud)</i> un <s1 slp1='kiMnara'>Kiṃnara</s1>."
+        }
     ]
 }

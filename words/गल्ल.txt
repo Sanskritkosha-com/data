@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "असिकाधस्तु चिबुकं स्याद्गल्लः सृक्वणः परः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गल्ल",
+            "eid": "12404",
+            "pagenum": 455,
+            "content": "गल्लः¦ The cheek; especially, the part of the cheek near the corners of the mouth. (Rhetoricians <lbinfo n='con+sider'/> consider this word to be ग्राम्य or <lbinfo n='vul+gar'/> vulgar; <ab>cf.</ab> the instance given in  <lbinfo n='ls:K. P.+ 7'/> <ls>K. P. 7</ls>: --तांबूलभृतगल्लोयं भल्लं जल्पति मानुषः; but <ab>cf.</ab> Bhavabhūti's use:  <lbinfo n='--pAtAla#pratimallagallavivaraprakziptasaptArRavaM'/> --पातालप्रतिमल्लगल्लविवरप्रक्षिप्तसप्तार्णवं  <lbinfo n='ls:Māl. 5.+ 22'/> <ls>Māl. 5. 22</ls>). <b>--Comp.</b> --चातुरी a small round pillow to put underneath the cheek."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गल्ल",
+            "eid": "4372",
+            "pagenum": 259,
+            "content": "गल्ल¦ <i>galla</i> (probably a dialectical form of <i>gaṇḍa</i>), <ab>m.</ab> The cheek, <ls>Pañc.</ls> 125, 9."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "गल्ल",
+            "eid": "2788",
+            "pagenum": 103,
+            "content": "गल्ल¦ <i>m.</i> gena. HEM., v. गल."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गल्ल",
+            "eid": "5793",
+            "pagenum": 214,
+            "content": "गल्ल¦ <i>galla</i> <ab>m.</ab> joue; <ab>cf.</ab> <i>gala.</i>  <P><i>gallacāturī</i> <ab>f.</ab> petit oreiller rond."
+        }
     ]
 }

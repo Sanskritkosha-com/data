@@ -25,5 +25,37 @@
             "synonyms": [],
             "content": "जीवातुर्जीवितेऽथायुः पुंस्युदन्तोऽपि चायुषि ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "जीवातु",
+            "eid": "8152",
+            "pagenum": 1,
+            "content": "जीवातु¦ Naiṣadhīyaṭīkā, by Mallinātha."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "जीवातु",
+            "eid": "13992",
+            "pagenum": 516,
+            "content": "जीवातु¦ <i><ab>m.</ab></i>, <i><ab>n.</ab></i> <b>1</b> Food. <b>--2</b> Life, existence (<ab>fig.</ab> aloo); स खलु <lbinfo n='prAjYajI#vAtuH'/> प्राज्ञजीवातुः सर्वशास्त्रविशारदः <ls>J. N. V.</ls> <b>--3</b> <lbinfo n='Re+storation'/> Restoration to life, revival; रे हस्त <lbinfo n='dakzi#Ra'/> दक्षिण मृतस्य शिशोर्द्विजस्य जीवातवे विसृज शूद्रमुनौ कृपाणं <ls>U. 2. 10.</ls> <b>--4</b> A <lbinfo n='medi+cine'/> medicine for restoring life."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "जीवातु",
+            "eid": "5457",
+            "pagenum": 335,
+            "content": "जीवातु¦ <i>jīv + ātu</i> (<ab>m.</ab> and <ab>n.</ab>?), Life, <ls>Mṛcch.</ls> 172, 2."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "जीवातु",
+            "eid": "7317",
+            "pagenum": 270,
+            "content": "जीवातु¦ <i>jīvātu</i> <ab>m.</ab> <ab>n.</ab> (<ab>sfx.</ab> <i>ātu)</i> vie, existence <lbinfo n='5'/> [ce mot sert, dans le <ab>Vd.</ab>, d'<ab>inf.</ab> à <i>jīv</i>]. || Aliment, riz bouilli. || Médicament pour ranimer un mourant."
+        }
     ]
 }

@@ -12,5 +12,55 @@
             "synonyms": [],
             "content": "नगरी पूः पुरी द्रङ्गः पत्तनं पुटभेदनम् ॥ ९७१ ॥\nनिवेशनमधिष्ठानं स्थानीयं निगमोऽपि च ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पुर्",
+            "eid": "19119",
+            "pagenum": 709,
+            "content": "पुर्¦ <i><ab>f.</ab></i> (<ab>Nom.</ab> <ab>sing.</ab> पूः; <ab>instr.</ab> <ab>du.</ab> पूर्भ्यां) <b>1</b> A town, fortified town;  <lbinfo n='pUra#pyaBivyaktamuKaprasAdA'/> पूरप्यभिव्यक्तमुखप्रसादा <ls>R. 16. 23.</ls> <b>--2</b> A fortress, castle, strong-hold. <b>--3</b> A wall, rampart. <b>--4</b> The body. <b>--5</b> <lbinfo n='In+tellect'/> Intellect. <b>--Comp.</b> --द्वार् <i><ab>f.</ab></i>, --द्वारं (पूर्द्वार्) the gate of a city."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पुर्",
+            "eid": "8961",
+            "pagenum": 559,
+            "content": "1. पुर्¦ <i>pur</i> (probably <ab>vb.</ab> <i>pṝ</i>), <ab>f.</ab> <b>1.</b> A town, <ls>Bhāg. P.</ls> 6, 6, 12. <b>2.</b> The body, 2, 10, 28. <b> -- <ab>Comp.</ab></b> <i>Tri-,</i> <ab>f.</ab> <ab>pl.</ab> three forts."
+        },
+        {
+            "word": "पुर्",
+            "eid": "8962",
+            "pagenum": 559,
+            "content": "† 2. पुर्¦ <i>PUR,</i> i. 6, <ab>Par.</ab> To go at the head."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "पुर्",
+            "eid": "5203",
+            "pagenum": 220,
+            "content": "1. पुर्¦ 6. <i>P.</i> (अग्रगमने <i>K.</i> अग्रगत्याम् <i>V.</i>) praecedere, ire. <i>Cf.</i> पर."
+        },
+        {
+            "word": "पुर्",
+            "eid": "5204",
+            "pagenum": 220,
+            "content": "2. पुर्¦ <i>f.</i> (Nom. पूर्, पूः) urbs. RAGH. 16. 23. <i>v. sq.</i>"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पुर्",
+            "eid": "11180",
+            "pagenum": 416,
+            "content": "*पुर्¦ <i>pur.</i> <i>purāmi</i> 6. Précéder, marcher <lbinfo n='4'/> devant; <ab>cf.</ab> <i>para</i> et <i>pra.</i>"
+        },
+        {
+            "word": "पुर्",
+            "eid": "11181",
+            "pagenum": 416,
+            "content": "पुर्¦ <i>pur</i> <ab>f.</ab> ville [<ab>nom.</ab> <i>pūr</i>]."
+        }
     ]
 }

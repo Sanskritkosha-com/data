@@ -12,5 +12,27 @@
             "synonyms": [],
             "content": "उपज्ञा ज्ञानमाद्यं स्याच्चर्चा संख्या विचारणा ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "उपज्ञा",
+            "eid": "8557",
+            "pagenum": 320,
+            "content": "उपज्ञा¦ {c9c} <ab>A.</ab> <b>1</b> To ascertain; to know. <b>--2</b> To invent, find out, hit upon: (उपज्ञातं = विनोपदेशेन ज्ञातं); see उपज्ञा below."
+        },
+        {
+            "word": "उपज्ञा",
+            "eid": "8558",
+            "pagenum": 320,
+            "content": "उपज्ञा¦ [उपज्ञायते इत्युपज्ञा कर्मण्यङ्] <b>1</b> Knowledge acquired by oneself and not handed down by tradition, <lbinfo n='in+vention'/> invention, primitive or untaught knowledge; usually in <ab>comp.</ab> which is treated as a neuter noun ( <lbinfo n='ls:P. II.+4'/> <ls>P. II. 4. 21</ls>); पाणिनेरुपज्ञा पाणिन्युपज्ञं ग्रंथः <ls>Sk.</ls>; प्राचेतसोपज्ञं रामायणं <ls>R. 15. 63.</ls> <b>--2</b> Undertaking or commencing a thing not done before; लोकेऽ <lbinfo n='BUdyadupa#jYameva'/> भूद्यदुपज्ञमेव विदुषां सौजन्यजन्यं यशः <ls>Malli.</ls> on Raghuvaṃśa."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "उपज्ञा",
+            "eid": "3107",
+            "pagenum": 107,
+            "content": "उपज्ञा¦ <i>upajñā</i> <ab>f.</ab> <i>(jñā)</i> connaissance secondaire, <lbinfo n='9'/> non enseignée suivant la méthode. <lbinfo n='6'/>"
+        }
     ]
 }

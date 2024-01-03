@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "वामं शरीरेऽङ्गं सव्यमपसव्यं तु दक्षिणम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "सव्य",
+            "eid": "29910",
+            "pagenum": 1110,
+            "content": "सव्य¦ <i><ab>a.</ab></i> [<ls>Uṇ. 4. 109</ls>] <b>1</b> Left, left-hand. <b>--2</b> Southern. <b>--3</b> Contrary, backward, reverse, <b>--4</b> Right. --व्यः An epithet of Viṣṇu. --व्यं <i><ab>ind.</ab></i> The usual position of the sacred thread when it hangs down over the left shoulder; <ab>cf.</ab> अपसव्य. <b>--Comp.</b> --इतर <i><ab>a.</ab></i> right. --साचिन् <i><ab>m.</ab></i> an epithet of Arjuna; निमित्तमात्रं भव सव्यसाचिन् <ls>Bg. 11. 33</ls>; (the name is thus derived in <ls>Mb.</ls>: --उभौ मे दक्षिणौ पाणी गांडीवस्य विकर्षणे । तेन <lbinfo n='deva#manuzyezu'/> देवमनुष्येषु सव्यसाचीति मां विदुः ॥)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "सव्य",
+            "eid": "15892",
+            "pagenum": 1026,
+            "content": "सव्य¦ <i>savya,</i> <ab>adj.</ab> <b>1.</b> Left, left hand, <ls>Pañc.</ls> i. <ab>d.</ab> 86. <b>2.</b> Southern, south. <b>3.</b> Backward, reverse, contrary. <b> --</b> <b><ab>Comp.</ab></b> <i>Apa-,</i> <b>I.</b> <ab>adj.</ab> right (not left), <ls>Man.</ls> 3, 214; <i>apasavyaṃ kṛ,</i> to keep the right side towards one, ib. <b>II.</b> <i>apasavyam,</i> <ab>adv.</ab> from the left to the right, <ls>Man.</ls> 3, 279. -- <ab>Cf.</ab> <lang n='greek'>σκαιός</lang>; <ab>Lat.</ab> scævus. probably also sinister."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "सव्य",
+            "eid": "8379",
+            "pagenum": 371,
+            "content": "सव्य¦ laevus, sinister. (Slav. <i>s'ûi</i> id., Them. <i>s'ûjo</i>, fem. <i>s'û-</i> <i>ja</i> = सव्या, v. gr. comp. 255. <i>f.</i> 258.; lat. <i>scaevus</i>, adjectâ gutturali sicut in <i>escit</i> pro <i>esit</i>, unde <i>erit</i>, cf. gr. <lang n='greek'>ἔσϰον</lang>; gr. <lang n='greek'>σϰαιός</lang> e <lang n='greek'>σϰαϜιος</lang> vel e <lang n='greek'>σϰαιϜος</lang>, transposito <i>l.</i> Fortasse etiam <i>sinister, sinistimus</i>-cf. <i>dexter</i>, <i>dextimus</i>, gr. comp. 293.-et gr. <lang n='greek'>ἀϱιστεϱός</lang> huc pertinent, ita ut <i>sinis-</i> ortum sit e <i>sivis-</i> et <lang n='greek'>ἀϱιστεϱός</lang> e <lang n='greek'>σαϜιστεϱός</lang>, cum semivocales vel liquidae facile inter se mutentur, v. gr. comp. 20.) <sup>(*)</sup> <F>(*) De cognatis formis in linguis Malayicis v. librum meum <i>Über die Verwandtschaft der malayisch-polynesi-</i> <i>schen Sprachen mit den indisch-europäischen</i> p. 86. et 148.</F>"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "सव्य",
+            "eid": "18208",
+            "pagenum": 701,
+            "content": "सव्य¦ <i>savya</i> <ab>a.</ab> gauche; situé à gauche; || situé au nord, septentrional [les <s1 slp1='arya'>Arya</s1>s se tournant vers le Soleil levant]. || Contraire, <lbinfo n='7'/> inverse. || <ab>Gr.</ab> <lang n='greek'>σϰαιός</lang>; <ab>lat.</ab> scævus. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1='vizRu'>Viṣṇu</s1>.  <P><i>savyasācin</i> <ab>a.</ab> <i>(sac)</i> <ab>surn.</ab> d'<s1 slp1='arjuna'>Arjuna</s1> (ambidextre). <lbinfo n='8'/>  <P><i>savyetara</i> <ab>a.</ab> <i>(itara)</i> droit, situé à droite.  <P><i>savyeṣṭha</i> <ab>m.</ab> <i>(sṭhā)</i> cocher [qui se tient sur la gauche du char].  <P><i>savyeṣṭhṛ</i> <ab>m.</ab> <ab>mms.</ab>"
+        }
     ]
 }

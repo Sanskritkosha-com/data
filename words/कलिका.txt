@@ -23,5 +23,59 @@
             "synonyms": [],
             "content": "जालकक्षारकौ तुल्यौ कलिकायां तु कोरकः ॥ ११२५ ॥"
         }
+    ],
+    "ACC": [
+        {
+            "word": "कलिका",
+            "eid": "3420",
+            "pagenum": 1,
+            "content": "कलिका¦ Quoted by Kamalakara. See Dipakalikā."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "कलिका",
+            "eid": "10485",
+            "pagenum": 386,
+            "content": "कलिका¦  A digit of the moon."
+        },
+        {
+            "word": "कलिका",
+            "eid": "10502",
+            "pagenum": 387,
+            "content": "कलिका, --कलिः¦ <i><ab>f.</ab></i> <b>1</b> An unblown flower, a bud; चूतानां चिरनिर्गतापि कलिका बध्नाति न स्वं रजः <ls>Ś. 6. 3</ls>;  <lbinfo n='ki#mAmrakalikABaMgamAraBase'/> किमाम्रकलिकाभंगमारभसे <ls>Ś. 6</ls>;  <lbinfo n='ls:Rs. 6.+ 17'/> <ls>Rs. 6. 17</ls>; <ls>R. 9. 33.</ls> <b>--2</b> A digit, streak. <b>--3</b> The bottom or peg of the Indian lute."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कलिका",
+            "eid": "3096",
+            "pagenum": 168,
+            "content": "कलिका¦ <i>kalikā,</i> <ab>i. e.</ab> <i>kalā + ka,</i> <ab>f.</ab> <b>1.</b> The sixteenth part of the moon's disc, <ls>Bhartṛ.</ls> 3, 1. <b>2.</b> A bud, <ls>Ṛt.</ls> 6, 17."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कलिका",
+            "eid": "4580",
+            "pagenum": 172,
+            "content": "<b>kalikā</b>¦ (perhaps <ab>lit.</ab> <i>a bud</i>, <ab>i.e.</ab> a trifle, nothing of value?) <ls>Divy</ls> 〔499.24〕 kim ayaṃ kalikāyā (<lex>abl.</lex>? <lex>gen.</lex>?) dīyate, mūlyam anuprayaccha, <i>why should it be given for nothing? give me a price</i>. In <ls>LV</ls> 〔276.16〕 (<ab>vs</ab>) prāsādāś ca gavākṣa-harmya-kalikā(ḥ), without <ab>v.l.</ab>, kalikā seems uninterpretable; <lang>Tib.</lang> <tib>maṅ ldan pa</tib>, <i>having many …</i>, which suggests -kalitā(ḥ), <i>provided with …</i>"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कलिका",
+            "eid": "1969",
+            "pagenum": 68,
+            "content": "कलिका¦ <i>f.</i> flos non aperta. AM."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कलिका",
+            "eid": "4187",
+            "pagenum": 149,
+            "content": "कलिका¦ <i>kalikā</i> <ab>f.</ab> et <i>kalī</i> <ab>f.</ab> fleur non épanouie."
+        }
     ]
 }

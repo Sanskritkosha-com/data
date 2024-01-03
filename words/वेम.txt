@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "कुविन्दे तन्तुरवायोऽपि वेमा वेमोऽपि कीर्त्यते ॥ ७९ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वेम",
+            "eid": "26965",
+            "pagenum": 1011,
+            "content": "वेमः, --वेमन्¦ <i><ab>m.</ab></i> <i><ab>n.</ab></i> A loom;  <lbinfo n='mahA#sivemnaH'/> महासिवेम्नः सहकृत्वरी बहुं <ls>N. 1. 12</ls>;  <lbinfo n='turI#vema'/> तुरीवेम दिकं <ls>T. S.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वेम",
+            "eid": "13991",
+            "pagenum": 902,
+            "content": "वेम¦ <i>ve + ma,</i> <ab>m.</ab>, and वेमन् <i>ve + man,</i> m. and <ab>n.</ab> A loom. <b> -- <ab>Comp.</ab></b> <i>Su-vema,</i> <ab>m.</ab> a good loom, <ls>MBh.</ls> 1, 806."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वेम",
+            "eid": "16119",
+            "pagenum": 618,
+            "content": "वेम¦ <i>vema</i> <ab>m.</ab> <i>veman</i> <ab>m.</ab> <ab>n.</ab> <i>(ve;</i> <ab>sfx.</ab> <i>man)</i> métier de tisserand.  <P><i>vemacira</i> <ab>m.</ab> <ab>np.</ab> d'un roi des <s1 slp1='asura'>Asura</s1>s, <ab>Bd.</ab>"
+        }
     ]
 }

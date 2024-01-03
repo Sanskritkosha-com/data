@@ -20,5 +20,45 @@
             "synonyms": [],
             "content": "मर्यादा कूलभूः कूलं प्रपातः कच्छरोधसी ॥ १०७७ ॥\nतटं तीरं प्रतीरं च पुलिनं तज्जलोज्झितम् ।\nसैकतं चान्तरीपं तु द्वीपमन्तर्जले तटम् ॥ १०७८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "तीर",
+            "eid": "14713",
+            "pagenum": 539,
+            "content": "तीरं¦ <b>1</b> A shore, bank; नदीतीर, सागरतीर &c. <b>--2</b> Margin, brim, edge. <b>--3</b> The bank of the Ganges. --रः <b>1</b> A sort of an arrow. <b>--2</b> Lead. <b>--3</b> Tin. <b>--Comp.</b> --जः a tree near a shore."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "तीर",
+            "eid": "5925",
+            "pagenum": 365,
+            "content": "तीर¦ <i>tīra</i> (for original <i>tāra</i>), <ab>i. e.</ab> <i>tṝ</i> <i>+ ā,</i> <ab>n.</ab> A shore, a bank, <ls>Man.</ls> 3, 207."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "तीर",
+            "eid": "6981",
+            "pagenum": 254,
+            "content": "<b>tīra</b>¦ (<lex>m.</lex> or <lex>nt.</lex>), <i>side</i> (of a mountain): (parvatasya vaihāyavarasya) uttare ca (so <ab>mss.</ab>, <ls>Senart</ls> uttarasmi) tīre varapārśve <ls>Mv</ls> 〔i.70.17〕 (<ab>vs</ab>)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "तीर",
+            "eid": "3763",
+            "pagenum": 154,
+            "content": "तीर¦ <i>m.</i> (r. तॄ i. e. तर्, तीर्, s. अ) ripa. M. 5."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "तीर",
+            "eid": "7991",
+            "pagenum": 294,
+            "content": "तीर¦ <i>tīra</i> <ab>n.</ab> <i>(tṝ)</i> rive, rivage. || Flèche. -- <ab>M.</ab> étain. -- <ab>F.</ab> <i>tīrī</i> sorte de flèche.  <P><i>tīrabhukti</i> <ab>m.</ab> <ab>np.</ab> d'un pays entre la <s1 slp1='gaRqakI'>Gaṇḍakī</s1> <lbinfo n='4'/> et la <s1 slp1='kOSikI'>Kauśikī</s1>, <ab>auj.</ab> Tirhut."
+        }
     ]
 }

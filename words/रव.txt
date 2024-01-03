@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "शब्दो निनादो निर्घोषः स्वानो ध्वानः स्वरो ध्वनिः ।\nनिह्रादो निनदो ह्रादो निस्वानो निस्वनः स्वनः ॥ १३९९ ॥\nरवो नादः स्वनिर्घोषः संव्याङ्भ्यो राव आरवः ।\nक्वणनं निक्वणः क्वाणो निक्वाणश्च क्वणो रणः ॥ १४०० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "रव",
+            "eid": "24036",
+            "pagenum": 905,
+            "content": "रवः¦ [रु-अप्] <b>1</b> A cry, shriek, scream, yell, roar (of animals &c.). <b>--2</b> Singing, humming sound (of birds); <ls>R. 9. 29.</ls> <b>--3</b> Clamour. <b>--4</b> Noise or sound in general; घंटा°, भूषण°, चाप° &c. <b>--5</b> Thunder."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "रव",
+            "eid": "12002",
+            "pagenum": 761,
+            "content": "रव¦ <i>rava,</i> <ab>i. e.</ab> <i>ru + a,</i> <ab>m.</ab> <b>1.</b> Sound, <ls>Mālat.</ls> 79, 19 (at the end of a <ab>comp.</ab> <ab>adj.</ab>); cry, <ls>Indr.</ls> 1, 3; <ls>Rājat.</ls> 5, 346; 408. <b>2.</b> Talk, <ls>Böhtl. Ind. Spr.</ls> 1723, 3; <ls>Pañc.</ls> i. 30 (false r.; <ab>cf.</ab> my transl. and <ls>Böhtl. Ind. Spr.</ls> 2542). <b> -- <ab>Comp.</ab></b> <i>Kala-,</i> <ab>m.</ab> 1. a pleasing sound, <ls>Bhartṛ.</ls> 1, 35. 2. (properly, uttering a pleasing sound), a pigeon. 3. the Indian cuckoo. <i>Ghaṇṭā-,</i> <b>I.</b> <ab>m.</ab> the sound of a bell, <ls>Pañc.</ls> 229, 15. <b>II.</b> <ab>f.</ab> <i>vā,</i> crotalaria of various species. <i>Caṇḍa-,</i> <ab>m.</ab> the name of a jackal, <ls>Pañc.</ls> 62, 21. <i>Nirara,</i> <ab>i. e.</ab> <i>nis-,</i> <ab>adj.</ab> noiseless, <ls>Ragh.</ls> 8, 57. <i>Bhīma-vega-,</i> <ab>m.</ab> a proper name (fear ful in velocity and noise). <i>Madana</i> <i>-kāku-,</i> <ab>m.</ab> a pigeon. <i>Vīṇa-,</i> <ab>f.</ab> <i>vā,</i> a proper name, <ls>Pañc.</ls> 81, 5. <i>Śārṅga-,</i> <ab>m.</ab> a proper name."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "रव",
+            "eid": "12716",
+            "pagenum": 453,
+            "content": "<b>rava</b>¦, (<b>1</b>) <lex>nt.</lex> (<lang>Skt.</lang> only <lex>m.</lex>), <i>sound</i>: ravaṃ, <ab>n. sg.</ab>, <ls>LV</ls> 〔299.11〕 (<ab>vs</ab>); [(<b>2</b>) <b>Rava</b>, <ab>v.l.</ab> Rāva, <ab>n.</ab> of an ancient king, <ab>acc.</ab> to <ls>Mv</ls> 〔i.348.8〕; <ab>prob.</ab> a corruption for <b>Vara(kalyāṇa)</b>, but also confused with <b>Roca</b>, <ab>q.v.</ab>, in one <ab>ms.</ab>]"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "रव",
+            "eid": "6637",
+            "pagenum": 287,
+            "content": "रव¦ <i>m.</i> (r. रु sonare s. अ) sonus. IN. 1. 3. H. 4. 20."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "रव",
+            "eid": "14010",
+            "pagenum": 535,
+            "content": "रव¦ <i>rava</i> <ab>m.</ab> <i>(ru)</i> son, bruit.  <P><i>ravaṇa</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ana)</i> sonore, bruyant. || Inconstant; instable; || bouffon, railleur. || Chaud, <ab>cf.</ab> <i>ravi.</i> -- <ab>S.</ab> <ab>m.</ab> coucou <s1 slp1='kokila'>kokila</s1>; || chameau. -- <ab>S.</ab> <ab>n.</ab> métal de cloches.  <P><i>ravatha</i> <ab>m.</ab> (<ab>sfx.</ab> <i>atha)</i> coucou."
+        }
     ]
 }

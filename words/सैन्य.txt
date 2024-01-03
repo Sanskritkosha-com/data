@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "सेनायां ये समवेतास्ते सैन्याः सैनिका अपि ॥ ७६३ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "सैन्य",
+            "eid": "30567",
+            "pagenum": 1138,
+            "content": "सैन्यः¦ [सेनायां समवैति ञ्य] <b>1</b> A <lbinfo n='sol+dier'/> soldier; <ls>Śi. 5. 28.</ls> <b>--2</b> A guard, <lbinfo n='senti+nel'/> sentinel. --न्यं An army, a troop; स <lbinfo n='prata#sTe'/> प्रतस्थेऽरिनाशाय हरिसैन्यैरनुद्रुतः <ls>R. 12. 67.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "सैन्य",
+            "eid": "16391",
+            "pagenum": 1061,
+            "content": "सैन्य¦ <i>sainya,</i> <ab>i. e.</ab> <i>senā + ya,</i> <b>I.</b> <ab>m.</ab> <b>1.</b> A soldier, <ls>Rājat.</ls> 5, 216. <b>2.</b> A guard. <b>II.</b> <ab>n.</ab> An army, <ls>Hit.</ls> iii. d. 79. <b> -- <ab>Comp.</ab></b> <i>Sa-,</i> <ab>adj.</ab> with the army, <ls>Rājat.</ls> 5, 323."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "सैन्य",
+            "eid": "8585",
+            "pagenum": 382,
+            "content": "सैन्य¦ (a सेना exercitus s. य) 1) <i>m.</i> bellator, miles. 2) <i>n.</i> exercitus. DR. 6. 26."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "सैन्य",
+            "eid": "19023",
+            "pagenum": 730,
+            "content": "सैन्य¦ <i>sainya</i> <ab>a.</ab> <i>(senā)</i> d'armée, de l'armée. <lbinfo n='4'/> -- <ab>S.</ab> <ab>m.</ab> soldat. -- <ab>S.</ab> <ab>n.</ab> armée."
+        }
     ]
 }

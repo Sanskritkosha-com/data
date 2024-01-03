@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "वाग्ब्राह्मी भारती गौर्गीर्वाणी भाषा सरस्वती ।\nश्रुतदेवी वचनं तु व्याहारो भाषितं वचः ॥ २४१ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गिर्",
+            "eid": "12516",
+            "pagenum": 458,
+            "content": "गिर्¦ <i><ab>a.</ab></i> [गॄ-क्विप् वा टाप्] <ab>Ved.</ab> <lbinfo n='Ad+dressing'/> Addressing, invoking. <i>--<ab>f.</ab></i> (<ab>nom.</ab> <ab>sing.</ab> गीः; <ab>instr.</ab> dual गीर्भ्यां &c.) <b>1</b> Speech, words, language; वचस्यवसिते तस्मिन् ससर्ज गिरमात्मभूः <ls>Ku. 2. 53</ls>; <ls n='Ku.'>3. 72</ls>; भवतीनां सूनृतयैव गिरा कृतमातिथ्यं <ls>Ś. 1</ls>; प्रवृत्तिसाराः खलु मादृशां गिरः  <lbinfo n='ls:Ki. 1.+ 25'/> <ls>Ki. 1. 25</ls>; <ls>Śi. 2. 15</ls>; <ls>Y. 1. 71.</ls> <b>--2</b> <lbinfo n='Invo+cation'/> Invocation, praise, song. <b>--3</b> <ab>N.</ab> of <lbinfo n='Sar+asvatī'/> Sarasvatī, the goddess of speech and learning. <b>--Comp.</b> --देवी (गीर्देवी) Sarasvatī, the goddess of speech. --पतिः, (written as गीःपतिः, गीष्पतिः and गीर्पतिः) {1} <ab>N.</ab> of Bṛhaspati, the preceptor of the gods. {2} a learned man so गिरीशः, --रथः (गीरथः) <ab>N.</ab> of Bṛhaspati. --वा (बा) णः ( <lbinfo n='gI#rvARa'/> गीर्वाण) a god, deity; परिमलो <lbinfo n='gIrvARa#cetoharaH'/> गीर्वाणचेतोहरः <ls>Bv. 1. 63</ls>, <ls n='Bv. 1.'>84.</ls> °कुसुमं cloves."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गिर्",
+            "eid": "4449",
+            "pagenum": 263,
+            "content": "गिर्¦ <i>gir</i> (<ab>vb.</ab> 1. <i>gṝ</i>), <ab>f.</ab> <b>1.</b> Voice, <ls>Yājñ.</ls> 1, 71. <b>2.</b> Speech, <ls>Nal.</ls> 1, 26 (25). <b>3.</b> A word, <ls>Nal.</ls> 11, 6."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "गिर्",
+            "eid": "2816",
+            "pagenum": 104,
+            "content": "गिर्¦ <i>f.</i> (r. गॄ sonare) vox. N. 1. 26. 8. 12. 12. 101. DR. 6. 2. (Hib. <i>gair</i> «an outcry, shout»; v. r. गॄ.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गिर्",
+            "eid": "5867",
+            "pagenum": 216,
+            "content": "गिर्¦ <i>gir</i> <ab>f.</ab> <i>(gṝ</i> résonner) voix; émission de voix. || Mot, parole; || la parole, le discours, <lbinfo n='6'/> le langage. || La Parole sainte; la déesse <s1 slp1='sarasvatI'>Sarasvatī</s1> ou <i>vāc.</i> || En <ab>gén.</ab> louange, éloge, poème; || gloire, célébrité. || <ab>Gr.</ab> <lang n='greek'>γῆρυς</lang>; <ab>irland.</ab> gair."
+        }
     ]
 }

@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "औषधिः स्यादोषधिस्तु फलपाकावसानिका ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "ओषधि",
+            "eid": "9738",
+            "pagenum": 361,
+            "content": "ओषधिः, --धी¦ <i><ab>f.</ab></i> [ओषः पाको धीयते अत्र, -धा कि <ls>Tv.</ls>] <b>1</b> A herb, plant (in general); ओषध्यः फलपाकांताः  <lbinfo n='ls:Ms.+ 1. 46'/> <ls>Ms. 1. 46</ls>; <ab>cf.</ab> संजीवन°. <b>--2</b> A <lbinfo n='medi+cinal'/> medicinal plant or drug. <b>--3</b> An annual plant or herb which dies after <lbinfo n='be+coming'/> becoming ripe. <b>--Comp.</b> --ईशः,--गर्भः, --नाथः the moon (as presiding over and feeding plants); <ab>cf.</ab> पुष्णामि चौषधीः सवोः सोमो भूत्वा रसात्मकः  <lbinfo n='ls:Bg.+ 15. 13'/> <ls>Bg. 15. 13</ls>; <ls>R. 2. 73</ls>: <ls>Ku. 7. 1</ls>;  <lbinfo n='ls:Ś. 4.+ 2.'/> <ls>Ś. 4. 2.</ls> --ज <i><ab>a.</ab></i> produced from plants. (--जः) fire. --धरः, --पतिः {1} a dealer in medicinal drugs. {2} a <lbinfo n='phy+sician'/> physician. {3} the moon; <ls>Śi. 9. 36</ls> (where it means ‘physician’ also). --प्रस्थः the capital of Himālaya; तत्प्रयातौषधिप्रस्थं स्थितये हिमवत्पुरं  <lbinfo n='ls:Ku.+ 6. 33'/> <ls>Ku. 6. 33</ls>, <ls n='Ku. 6.'>36.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "ओषधि",
+            "eid": "2702",
+            "pagenum": 146,
+            "content": "ओषधि¦ and धी <i>oṣadhī̆,</i> <ab>i. e.</ab> <i>uṣ +</i> <i>a-dhā</i> (<ab>cf.</ab> <i>nidhi</i>), <ab>f.</ab> <b>1.</b> A plant, <ls>Man.</ls> 1, 46. <b>2.</b> A medicinal herb, <ls>Caurap.</ls> 47. <b> -- <ab>Comp.</ab></b> <i>Mahauṣadhi,</i> <ab>i. e.</ab> <i>mahā-,</i> <ab>f.</ab> a kind of sensitive plant, Mimosa pudica."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "ओषधि",
+            "eid": "4248",
+            "pagenum": 160,
+            "content": "<b>oṣadhi</b>¦ (= <lang>Pali</lang> osadhi), <ab>n.</ab> or epithet of a particular star: <ab>n. sg.</ab> °dhi or °dhī, <ls>Mv</ls> 〔ii.56.20〕 and 〔58.13〕 (<ab>vs</ab>) tāravarā va oṣadhī, by <ls>Senart</ls>ʼs <ab>em.</ab>, which is proved by the <lang>Pali</lang> parallel <ls>Jāt.</ls> 〔v.398.30〕. In <lang>Pali</lang> more often called osadhi-tārakā, <i>star of medicine</i>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "ओषधि",
+            "eid": "1717",
+            "pagenum": 61,
+            "content": "ओषधि¦ et ओषधी <i>f.</i> (ओष et धि vel धी a r. धा) herba annua, quae post maturitatem evanescit. BH. 15. 13."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "ओषधि",
+            "eid": "3707",
+            "pagenum": 130,
+            "content": "ओषधि¦ <i>oṣadhi</i> et <i>oṣadhi</i> <ab>f.</ab> toute plante annuelle ou herbe.  <P><i>oṣadhīpati</i> <ab>m.</ab> la Lune, considérée comme réglant la végétation des plantes annuelles et même de tous les végétaux.  <P><i>oṣadhīśa</i> <ab>m.</ab> <i>(īśa)</i> <ab>mms.</ab>"
+        }
     ]
 }

@@ -20,5 +20,37 @@
             "synonyms": [],
             "content": "पित्तं मायुः कफः श्लेष्मा बलाशः स्नेहभूः खटः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "खट",
+            "eid": "12032",
+            "pagenum": 441,
+            "content": "खटः¦ [खट्-अच्] <b>1</b> Phlegm. <b>--2</b> A blind well. <b>--3</b> A hatchet. <b>--4</b> A plough. <b>--5</b> Grass. <b>--6</b> The closed fist. <b>--7</b> A kind of blow or wound. <b>--Comp.</b> --कटाहकः a spitting-box. --खादकः {1} a jackal. {2} a crow. {3} an animal. {4} a glass-vessel. {5} an eater."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "खट",
+            "eid": "4160",
+            "pagenum": 243,
+            "content": "खट¦ <i>khaṭa,</i> <ls>Lass.</ls> 58, 9, read <i>ṣaṭka.</i>"
+        }
+    ],
+    "BHS": [
+        {
+            "word": "खट",
+            "eid": "5427",
+            "pagenum": 202,
+            "content": "<b>khaṭa</b>¦ (<lex>m.</lex> or <lex>nt.</lex>; <lang>Skt.</lang> <ab>Lex.</ab> <lex>m.</lex>; <ab>cf.</ab> <ls>Deśīn.</ls> 〔2.72〕 khaḍaia = saṃkucita), <i>fisticuff, blow with the fist</i> (<ab>cf.</ab> next): <ls>Śikṣ</ls> 〔56.17〕 khaṭa-capeṭa-caṇḍa-prahārāṇāṃ; <ls>Karmav</ls> 〔37.5, 6〕 khaṭa- (by <ab>em.</ab>, <ab>ms.</ab> śata; <lang>Tib.</lang> confirms <ab>em.</ab>) -capeṭapradāna; <ls>Laṅk</ls> 〔119.14〕 khaṭa-capeṭa-."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "खट",
+            "eid": "5486",
+            "pagenum": 201,
+            "content": "खट¦ <i>khaṭa</i> <ab>m.</ab> puits. || Lymphe ou phlegme. <lbinfo n='3'/> || Gazon. || Charrue. || Hache. || La main fermée, le poing; <ab>cf.</ab> <i>khajā</i> et <i>khan.</i>  <P><i>khaṭaka</i> <ab>m.</ab> poing. || Entremetteur de mariages.  <P><i>khaṭika</i> <ab>m.</ab> poing, main fermée. -- <i>khaṭikā</i> <ab>f.</ab> <ab>esp.</ab> de gazon. || Ouverture externe de l'oreille. || Craie.  <P><i>khaḷnī</i> <ab>f.</ab> craie.  <P><i>khaṭī</i> <ab>f.</ab> craie."
+        }
     ]
 }

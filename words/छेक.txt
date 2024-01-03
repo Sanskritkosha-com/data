@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "छेका गृह्याश्च ते गेहासक्ता ये मृगपक्षिणः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "छेक",
+            "eid": "13652",
+            "pagenum": 502,
+            "content": "छेक¦ <i><ab>a.</ab></i> [छो-बा° डेकन् <ls>Tv.</ls>] <b>1</b> Tame, domesticated (as a beast). <b>--2</b> <lbinfo n='Citi+zen'/> Citizen, town-bred. <b>--3</b> Shrewd, trained in the acuteness and vice of towns. --कः <b>1</b> A bee. <b>--2</b> A kind of अनुप्रास see below. <b>--Comp.</b> --अनुप्रासः one of the five kinds of अनुप्रास, ‘the single alliteration’, which is a <lbinfo n='si+milarity'/> similarity occurring <i>once</i> (or singly) and in more than one way among a collection of consonants; <i><ab>e. g.</ab></i>  <lbinfo n='A#dAya'/> आदाय बकुलगंधानंधीकुर्वन्पदे पदे भ्रमरान् । <lbinfo n='aya#meti'/> अयमेति मंदमंदं कावेरीवारिपावनः पवनः ॥  <lbinfo n='ls:S. D.+ 634.'/> <ls>S. D. 634.</ls> --अपह्नुतिः <i><ab>f.</ab></i> a figure of speech; one of the varieties of अपह्नुति. The <ls>Candrāloka</ls> thus defines and <lbinfo n='illus+trates'/> illustrates it: --छेकांपह्नुतिरन्यस्य शंकातस्तस्य निह्नवे । प्रजल्पन्मत्पदे लग्नः कांतः किं न हि नूपुरः <ls n='Chandr.'>5. 27</ls>. --उक्तिः <i><ab>f.</ab></i> insinuation, <i>double</i> <i>entendre</i>."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "छेक",
+            "eid": "6423",
+            "pagenum": 236,
+            "content": "<b>cheka</b>¦, <lex>adj.</lex> (Jain <lang>Skt.</lang> and <lang>Pali</lang>, <i>clever</i>; also <lang>Pali</lang> <i>good</i>, <ls>Jāt.</ls> 〔v.366.27〕, <ab>comm.</ab> sundara, <ab>opp.</ab> pāpaka, of odors), <i>good, proper, seemly</i>: na chekaṃ na pratirūpaṃ <ls>MSV</ls> 〔iii.96.15〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "छेक",
+            "eid": "3323",
+            "pagenum": 132,
+            "content": "छेक¦ cicur, mansuetus, <i>de bestiis.</i> AM."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "छेक",
+            "eid": "6912",
+            "pagenum": 256,
+            "content": "छेक¦ <i>cheka</i> <ab>a.</ab> apprivoisé, privé. || Au <ab>fig.</ab> habitué aux mœurs des villes.  <P><i>chekokti</i> <ab>f.</ab> <i>(ukti</i> de <i>vac)</i> langage doux et insinuant, faux et à double entente."
+        }
     ]
 }

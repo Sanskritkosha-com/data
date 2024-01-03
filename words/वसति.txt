@@ -23,5 +23,45 @@
             "synonyms": [],
             "content": "गेहभूर्वास्तु गेहे तु गृहं वेश्म निकेतनम् ॥ ९८९ ॥\nमन्दिरं सदनं सद्म निकाय्यो भवनं कुटः ।\nआलयो निलयः शाला सभोदवसितं कुलम् ॥ ९९० ॥\nधिष्ण्यमावसथं स्थानं पस्त्यं संस्त्याय आश्रयः ।\nओको निवास आवासो वसतिः शरणं क्षयः ॥ ९९१ ॥\nधामागारं निशान्तं च कुट्टिमं त्वस्य बद्धभूः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वसति",
+            "eid": "25270",
+            "pagenum": 952,
+            "content": "वसतिः --ती¦ <i><ab>f.</ab></i> [वस्-अति वा ङीप्] <b>1</b> Dwelling, residing, abiding;  <lbinfo n='ASra#mezu'/> आश्रमेषु वसतिं चक्रे <ls>Me. 1</ls> ‘fixed his residence in’; <ls>Ś. 5. 1.</ls> <b>--2</b> A house, dwelling, residence, habitation; हर्षो हर्षो हृदयवसतिः पंचबाणस्तु बाणः <ls>P. R. 1. 22</ls>; <ls>Ś. 2. 14.</ls> <b>--3</b> A <lbinfo n='re+ceptacle'/> receptacle, reservoir, an abode (<ab>fig.</ab>); अलकामतिवाह्यैव वसतिं वसुसंपदां  <lbinfo n='ls:Ku.+ 6. 37'/> <ls>Ku. 6. 37</ls>; so विनयवसतिः, धर्मैकवसतिः. <b>--4</b> A camp, halting place (शिबिर). <b>--5</b> The time when one halts or stays to rest, <i><ab>i. e.</ab></i> night; तस्य <lbinfo n='mArga#vaSAdekA'/> मार्गवशादेका बभूव वसतिर्यतः <ls>R. 15. 11</ls> (वसतिः = रात्रिः <ls>Malli.</ls>) ‘he halted at night’ &c.; तिस्रो वसतीरुषित्वा <ls n='Malli.'>7. 33</ls>; <ls n='Malli.'>11. 30</ls>. <b>--6</b> A Jaina monastery."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वसति",
+            "eid": "12893",
+            "pagenum": 826,
+            "content": "वसति¦ and ती <i>vasatī̆</i> (<ab>vb.</ab> 1. <i>vas</i>), <ab>f.</ab> <b>1.</b> A dwelling-place, <ls>Vikr.</ls> <ab>d.</ab> 137 (<i>ti</i>); <ls>Pañc.</ls> 123, 16 (<i>ti,</i> at the end of a <ab>comp.</ab> <ab>adj.</ab>). <b>2.</b> A house, <ls>Nalod.</ls> 4, 29. <b>3.</b> (perhaps <ab>vb.</ab> 3. <i>vas</i>), Night, <ls>Sāv.</ls> 4, 5; figurat., <ls>Chr.</ls> 48, 4 (<i>ti</i>). <b> -- <ab>Comp.</ab></b> <i>Garbha-vasati,</i> <ab>f.</ab> the womb, <ls>Hariv.</ls> 3312. <i>Durvasati,</i> <ab>i. e.</ab> <i>dus-,</i> <ab>f.</ab> an uneasy dwelling, <ls>Ragh.</ls> 8, 93. <i>Ramaṇa-vasati,</i> <ab>f.</ab> the dwelling-place of the lover, <ls>Megh.</ls> 38."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "वसति",
+            "eid": "13426",
+            "pagenum": 474,
+            "content": "<b>vasati (vasayati)</b>¦, used like <lang>Pali</lang> vasati with <ab>neg.</ab> (mā … avasī <ls>Jāt.</ls> 〔v.66.10〕), ma (<ab>m.c.</ab> for mā) vasayathā (not <lex>caus.</lex>, = <lang>Skt.</lang> vasata) <ls>LV</ls> 〔202.5〕 (<ab>vs</ab>), <i>donʼt stop (stay, rest, delay)!</i> Is this paralleled in <lang>Skt.</lang>?"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वसति",
+            "eid": "7086",
+            "pagenum": 312,
+            "content": "वसति¦ <i>f.</i> (r. 1. वस् s. अति vel potius ति servato charactere primae classis) 1) habitatio, domus. HIT. 5. 10. 2) nox. SA. 4. 5. (Hib. <i>fosadh</i> «a delaying, staying, resting, cessation».)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वसति",
+            "eid": "14902",
+            "pagenum": 571,
+            "content": "वसति¦ <i>vasati, vasatī</i> <ab>f.</ab> (<ab>sfx.</ab> <i>ati)</i> habitation, <lbinfo n='5'/> résidence. || La nuit; || l'invocation du soir, <ab>Vd.</ab>"
+        }
     ]
 }

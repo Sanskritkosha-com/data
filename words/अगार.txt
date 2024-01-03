@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "गेहभूर्वास्तु गेहे तु गृहं वेश्म निकेतनम् ॥ ९८९ ॥\nमन्दिरं सदनं सद्म निकाय्यो भवनं कुटः ।\nआलयो निलयः शाला सभोदवसितं कुलम् ॥ ९९० ॥\nधिष्ण्यमावसथं स्थानं पस्त्यं संस्त्याय आश्रयः ।\nओको निवास आवासो वसतिः शरणं क्षयः ॥ ९९१ ॥\nधामागारं निशान्तं च कुट्टिमं त्वस्य बद्धभूः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "अगार",
+            "eid": "200",
+            "pagenum": 10,
+            "content": "अगारं¦ [अगं न गच्छंतं ऋच्छति प्राप्नोति अग-ऋ-अण् <ls>Tv.</ls>] A house; शून्यानि <lbinfo n='cA#pyagArARi'/> चाप्यगाराणि <ls>Ms. 9. 265</ls>; °दाहिन् an <lbinfo n='incen+diary'/> incendiary <ls n='Ms.'>3. 158</ls>, See आगार."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "अगार",
+            "eid": "41",
+            "pagenum": 3,
+            "content": "अगार¦ <i>agāra</i> (probably akin to <i>agni,</i> and originally a hearth), <ab>n.</ab> A house, <ls>Man.</ls> 9, 265. <b> -- <ab>Comp.</ab></b> <i>Agnya-</i> <i>gāra,</i> <ab>i. e.</ab> <i>agni-,</i> <ab>n.</ab> the place where the sacred fire is kept."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "अगार",
+            "eid": "101",
+            "pagenum": 4,
+            "content": "<b>agāra</b>¦, <lex>nt.</lex>, a high number: <ls>Mvy</ls> 〔7705〕 = <lang>Tib.</lang> <tib>yid yal</tib>, which also renders <b>āgāra</b>, <ab>q.v.</ab>"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "अगार",
+            "eid": "95",
+            "pagenum": 8,
+            "content": "अगार¦ <i>agāra</i> <ab>n.</ab> maison. <ab>Cf.</ab> <i>āgāra.</i>"
+        }
     ]
 }

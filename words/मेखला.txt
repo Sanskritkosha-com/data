@@ -23,5 +23,53 @@
             "synonyms": [],
             "content": "मेखला मध्यभागोऽद्रेर्नितम्बः कटकश्च सः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "मेखला",
+            "eid": "35860",
+            "pagenum": 2,
+            "content": "मेखला¦ the ceremony of investing the religious student with a girdle. Oudh XX, 158."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "मेखला",
+            "eid": "23453",
+            "pagenum": 878,
+            "content": "मेखला¦ <b>1</b> A belt, girdle, <lbinfo n='waist+band'/> waistband, zone in general (<ab>fig.</ab> also); anything which girds or surrounds; मही सागरमेखला ‘the sea-girt earth’; रत्नानुविद्धार्णवमेखलाया दिशः सपत्नी भव दक्षिणस्याः <ls>R. 6. 63</ls>; <ls>Rs. 6. 2.</ls> <b>--2</b> Particularly, the girdle or zone of a woman; नितंबबिंबैः सदुकूलमेखलैः  <lbinfo n='ls:Rs.+ 1. 4'/> <ls>Rs. 1. 4</ls>, <ls n='Rs. 1.'>6</ls>: <ls>R. 8. 64</ls>; मेखलागुणैरुत <lbinfo n='gotra#sKalitezu'/> गोत्रस्खलितेषु बंधनं <ls>Ku. 4. 8.</ls> <b>--3</b> The triple girdle worn by the first three castes; cf <ls>Ms. 2. 42.</ls> <b>--4</b> The slope of a mountain (नितंब); आमेखलं संचरतां घताना <ls>Ku. 1. 5</ls>; <ls>Me. 12.</ls> <b>--5</b> The hips. <b>--6</b> A sword-belt. <b>--7</b> A <lbinfo n='sword+knot'/> swordknot or string fastened to the hilt. <b>--8</b> The girth of a horse. <b>--9</b> <ab>N.</ab> of the river Narmadā. <b>--Comp.</b> --पदं the hips. --बंधः investiture with the girdle."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "मेखला",
+            "eid": "11535",
+            "pagenum": 724,
+            "content": "मेखला¦ <i>mekhalā,</i> <ab>f.</ab> <b>1.</b> A girdle, <ls>Ragh.</ls> 8, 63; <ls>Utt. Rāmac.</ls> 106, 1. <b>2.</b> The sacrificial string, see <i>kṛ</i> with <i>me-</i> <i>khalā.</i> <b>3.</b> A sword-belt. <b>4.</b> A swordknot. <b>5.</b> The slope of a mountain, <ls>Megh.</ls> 12. <b>6.</b> The Narmadā river. <b> --</b> <b><ab>Comp.</ab></b> <i>Maṇi-mekhala,</i> <ab>adj.</ab> surrounded by jewels. <ls>Ṛt.</ls> 6, 3."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "मेखला",
+            "eid": "12240",
+            "pagenum": 438,
+            "content": "<b>Mekhalā</b>¦, <ab>n.</ab> of a yakṣiṇī: <ls>Mmk</ls> 〔564.26〕; 〔566.9〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "मेखला",
+            "eid": "6360",
+            "pagenum": 271,
+            "content": "मेखला¦ zona, cingulum <i>praesertim feminarum.</i> RAGH. 8. 63. 6. 63."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "मेखला",
+            "eid": "13573",
+            "pagenum": 515,
+            "content": "मेखला¦ <i>mekhalā</i> <ab>f.</ab> ceinture de femme. || Ceinturon, baudrier. || Le cordon sacré [de <i>muñja</i> ou de <i>kuca</i> pour les brâhmanes, de <i>mūrvā</i> pour les <s1 slp1='kzatriya'>Kṣatriya</s1>s, de <i>śaṇa</i> pour les <s1 slp1='vESya'>vaiśya</s1>s]. Ligne mystique tracée autour de la cavité où l'on place le feu sacré. || Bord d'une montagne. || La <s1 slp1='narmadA'>Narmadā</s1>, rivière qui vient du mont <s1 slp1='meKala'>Mekhala</s1> ou <s1 slp1='mekala'>Mekala</s1>.  <P><i>mekhalāpada</i> <ab>n.</ab> la taille, les reins [place de la ceinture]."
+        }
     ]
 }

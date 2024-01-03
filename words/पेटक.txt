@@ -25,5 +25,35 @@
             "synonyms": [],
             "content": "पेटायां स्यात्पेटकोऽपि पेडाऽपि कृतिनां मते ॥ ८८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पेटक",
+            "eid": "19330",
+            "pagenum": 720,
+            "content": "पेटकः --कं¦ <b>1</b> A basket, box, bag. <b>--2</b> A multitude, quantity."
+        },
+        {
+            "word": "पेटक",
+            "eid": "19331",
+            "pagenum": 720,
+            "content": "पेटकः¦ A bag, basket, box."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पेटक",
+            "eid": "9175",
+            "pagenum": 573,
+            "content": "पेटक¦ <i>peṭa + ka</i> <b>I.</b> <ab>m.</ab> and <ab>n.</ab>(?), A basket for holding clothes, books, etc., <ls>Vikr.</ls> 78, 7. <b>II.</b> <ab>f.</ab> <i>ṭikā,</i> A box, <ls>Daśak.</ls> in <ls>Chr.</ls> 197, 4. <b>III.</b> <ab>n.</ab> Multitude, <ls>Kathās.</ls> 34, 209."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "पेटक",
+            "eid": "5300",
+            "pagenum": 224,
+            "content": "पेटक¦ <i>m. n.</i> (r. पिट् s. अक) <i>id.</i> UR. 86. 3."
+        }
     ]
 }

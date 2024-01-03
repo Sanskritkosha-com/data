@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "अकामानुमतौ कामं स्यादोमां परमं मते ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "आम्",
+            "eid": "5721",
+            "pagenum": 220,
+            "content": "आं¦ = आम् <ab>q. v.</ab>"
+        },
+        {
+            "word": "आम्",
+            "eid": "6541",
+            "pagenum": 248,
+            "content": "आम्¦ <i><ab>ind.</ab></i> An interjection of(<i>a</i>) assent, acceptance, ‘oh’, ‘yes’; आं कुर्मः <ls>M. 1</ls>; (<i>b</i>) recollection; आं <lbinfo n='tasminnurva#SyA'/> तस्मिन्नुर्वश्या वचनं स्खलितमासीत् <ls>V. 3</ls>; आं <lbinfo n='jYA#tam'/> ज्ञातम् <ls>Ś. 3</ls>, Oh, I see it now; <ls>M. 3</ls>; (<i>c</i>) determination, ‘surely,’ ‘verily’, आं चिरस्य खलु प्रतिबुद्धोस्मि; (<i>d</i>) reply."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "आम्",
+            "eid": "1600",
+            "pagenum": 82,
+            "content": "आम्¦ <i>ām,</i> A particle of reminiscence: Ah! <ls>Vikr.</ls> 38, 17."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "आम्",
+            "eid": "827",
+            "pagenum": 27,
+            "content": "आं¦ <i>Interj.</i> nae, profecto, sane; <i>sequente</i> ज्ञातम् cognitum: UR. 2. 2. SAK. 43. 1. infr."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आम्",
+            "eid": "2290",
+            "pagenum": 76,
+            "content": "आं¦ <i>āṃ,</i> interjection marquant l'admiration, <lbinfo n='5'/> l'assentiment: ah, oui, certes, en vérité. On écrit aussi <i>ās</i> devant les sourdes, et <i>ā</i> devant les sonores."
+        }
     ]
 }

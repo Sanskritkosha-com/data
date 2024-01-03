@@ -25,5 +25,37 @@
             "synonyms": [],
             "content": "द्योतिस्तथा वृष्णिपृष्णी प्रोक्ता रश्म्यभिधायकाः ॥ ८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वृष्णि",
+            "eid": "26899",
+            "pagenum": 1009,
+            "content": "वृष्णि¦ <i><ab>a.</ab></i> <b>1</b> Heretical, heterodox. <b>--2</b> Angry, passionate. <b>--3</b> <ab>Ved.</ab> Raining. <i>--<ab>m.</ab></i> <b>1</b> A cloud. <b>--2</b> A ram. <b>--3</b> A ray of light. <b>--4</b> <ab>N.</ab> of an ancestor of Kṛṣṇa. <b>--5</b> <ab>N.</ab> of Kṛṣṇa. <b>--6</b> Of Indra. <b>--7</b> Of Agni. <b>--8</b> Air, wind. <b>--9</b> A heretic. <b>--Comp.</b> --गर्भः <ab>N.</ab> of Kṛṣṇa."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वृष्णि",
+            "eid": "13931",
+            "pagenum": 898,
+            "content": "वृष्णि¦ <i>vṛṣṇi,</i> <ab>i. e.</ab> <i>vṛṣ + ni,</i> <b>I.</b> <ab>adj.</ab> <b>1.</b> Passionate, angry. <b>2.</b> Heretical. <b>II.</b> m. <b>1.</b> A ram. <b>2.</b> Indra. <b>3.</b> Agni. <b>4.</b> Viṣṇu. <b>5.</b> One of the descendants of Yadu, <ls>Bhag.</ls> 10, 37. <b>6.</b> The name of a class of Kṣatriyas and Vaiśyas,  <ls>Pañc.</ls> iii. d. 268. <b>7.</b> Air, wind. <b>8.</b> A ray of light. -- <ab>Cf.</ab> <lang n='greek'>ἀρν</lang> in <lang n='greek'>ἀρνός, ἀρνειός, ῥήν, ἕρσαι, ἔριϕος</lang>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वृष्णि",
+            "eid": "7547",
+            "pagenum": 335,
+            "content": "वृष्णि¦ <i>m.</i> (वृष् s. <i>unâd.</i> नि) 1) aries. 2) nomen <i>Yadûs</i> prognatorum. BH. 10. 37."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वृष्णि",
+            "eid": "16058",
+            "pagenum": 615,
+            "content": "वृष्णि¦ <i>vṛṣṇi</i> <ab>m.</ab> (<ab>sfx.</ab> <i>ni)</i> bélier. || Rayon de lumière, <s1 slp1='agni'>Agni</s1>; <s1 slp1='vizRu'>Viṣṇu</s1>; <s1 slp1='indra'>Indra</s1>; <s1 slp1='kfzRa'>Kṛṣṇa</s1>. || Le vent; <ab>cf.</ab> <i>pṛṣṇi.</i> || Hérétique, sectaire. || <ab>Np.</ab> d'un descendant de Yadu."
+        }
     ]
 }

@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "वार्ता प्रवृत्तिर्वृत्तान्त उदन्तोऽथाह्वयोऽभिधा ।\nगोत्रसंज्ञानामधेयाख्याह्वाभिख्याश्च नाम च ॥ २६० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "अभिधा",
+            "eid": "3108",
+            "pagenum": 130,
+            "content": "अभिधा¦ {c3c} <ab>U.</ab> <b>1</b> (<i>a</i>) To say, speak, tell (with <ab>acc.</ab>, rarely with <ab>dat.</ab>); सा तथ्यमेवाभिहिता भवेन  <lbinfo n='ls:Ku. 3.+ 63'/> <ls>Ku. 3. 63</ls>; <ls>Ms. 1. 42</ls>; <ls>Bk. 7. 78</ls>;  <lbinfo n='ls:Bg. 18.+ 68.'/> <ls>Bg. 18. 68.</ls> (<i>b</i>) To denote, express or <lbinfo n='con+vey'/> convey directly or primarily (as sense &c.); state, mention, set forth;  <lbinfo n='sAkzA#tsaMketitaM'/> साक्षात्संकेतितं योर्थमभिधत्ते स वाचकः <ls>K. P. 2</ls>; तन्नाम येनाभिदधाति सत्त्वं. (<i>c</i>) To speak or say to, address. <b>--2</b> To name, call, designate; usually in <i><ab>pass.</ab></i> (--धीयते); इदं शरीरं कौंतेय क्षेत्रमित्यभिधीयते  <lbinfo n='ls:Bg. 13.+ 1.'/> <ls>Bg. 13. 1.</ls> <b>--3</b> To lay or put on, fasten, bind; to overlay, load; assail; receive, comprehend, include; to draw <lbinfo n='one+self'/> oneself towards, hold, support (mostly <ab>Ved.</ab> in these senses)."
+        },
+        {
+            "word": "अभिधा",
+            "eid": "3109",
+            "pagenum": 130,
+            "content": "अभिधा¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Naming; praised, invoked. --धा <b>1</b> A name, appellation; <ab>oft.</ab> in <ab>comp.</ab>; कुसुमवसंताद्यभिधः <ls>S. D.</ls> <b>--2</b> A word, sound. <b>--3</b> The literal power or sense of a word, <i>denotation</i>, one of the three powers of a word; वाच्योर्थोऽभिधया बोध्यः <ls>S. D. 2</ls> ‘the <lbinfo n='ex+pressed'/> expressed meaning is that which is conveyed to the understanding by the word's denotation’, for it is this अभिधा that conveys to the <lbinfo n='under+standing'/> understanding the meaning which belongs to the word by common consent or convention (संकेत) (which primarily made it a word at all); स <lbinfo n='muKyo#'rTastatra'/> मुख्योऽर्थस्तत्र मुख्यो यो व्यापारोऽस्याभिधोच्यते  <lbinfo n='ls:K. P.+ 2.'/> <ls>K. P. 2.</ls> <b>--Comp.</b> --ध्वंसिन् <i><ab>a.</ab></i> losing one's name. --मूल <i><ab>a.</ab></i> founded on a word's denotation or literal meaning."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "अभिधा",
+            "eid": "751",
+            "pagenum": 38,
+            "content": "अभिधा¦ <i>abhi-dhā,</i> <ab>f.</ab> <b>1.</b> A name, <ls>Rājat.</ls> 5, 379. <b>2.</b> The primary sense of a word. <b> -- <ab>Comp.</ab></b> <i>Śūravarmābhidha,</i> <ab>i. e.</ab> <i>śūra-</i> <i>varman-,</i> <ab>adj.</ab> called Śūravarman, <ls>Rājat.</ls> 5, 22."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "अभिधा",
+            "eid": "1081",
+            "pagenum": 37,
+            "content": "अभिधा¦ <i>abhidhā</i> <ab>f.</ab> <i>(dhā)</i> exhibition. || Apellation, <lbinfo n='7'/> nom, épithète.  <P><i>abhidhāna</i> <ab>n.</ab> nom.  <P><i>abhidhāyaka</i> <ab>n.</ab> expression.  <P><i>abhidheya</i> <ab>n.</ab> nom."
+        }
     ]
 }

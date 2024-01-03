@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "तुन्दं तुन्दिर्गर्भकुक्षी पिचण्डो जठरोदरे ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कुक्षि",
+            "eid": "11001",
+            "pagenum": 406,
+            "content": "कुक्षिः¦ <b>1</b> The belly (in general); जिह्मिताध्मातकुंक्षिः (भुजगपतिः)  <lbinfo n='ls:Mk. 9.+ 12.'/> <ls>Mk. 9. 12.</ls> <b>--2</b> The womb, the part of the belly containing the fœtus; कुंभीनस्याश्च कुक्षिजः <ls>R. 15. 15</ls>;  <lbinfo n='ls:Śi. 13.+ 40.'/> <ls>Śi. 13. 40.</ls> <b>--3</b> The interior of anything: <ls>R. 10. 65</ls> (where the word is used in sense 2 also). <b>--4</b> A cavity in general. <b>--5</b> A cavern, cave;  <lbinfo n='ls:R. 2.+ 38'/> <ls>R. 2. 38</ls>, <ls n='R. 2.'>67.</ls> <b>--6</b> The sheath of a sword. <b>--7</b> <ab>N.</ab> of Bali. <b>--8</b> A bay, gulf. <b>--Comp.</b> --शूलः belly-ache, colic."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कुक्षि",
+            "eid": "3470",
+            "pagenum": 190,
+            "content": "कुक्षि¦ <i>kukṣi</i> (<ab>vb.</ab> <i>kuc</i>), <ab>m.</ab> <b>1.</b> The belly, <ls>Rām.</ls> 1, 70, 34. <b>2.</b> Cavity, <ls>Pañc.</ls> i. <ab>d.</ab> 281. <b>3.</b> A cavern, <ls>Ragh.</ls> 2, 38. <b>4.</b> A bay, <ls>MBh.</ls> 3, 793. <b>5.</b> A proper name, <ls>Rām.</ls> 1, 70, 21."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कुक्षि",
+            "eid": "4914",
+            "pagenum": 184,
+            "content": "<b>kukṣi</b>¦ (and <b>kukṣimatī</b>; in <lang>Skt.</lang> only <lex>m.</lex>, except <ab>acc.</ab> to one <ab>Lex.</ab> <lex>f.</lex>, and <ab>mg.</ab> only <i>belly</i> or <i>womb</i>; so also <lang>Pali</lang>, <lang>Pkt.</lang> kucchi), as <lex>fem.</lex>, <ls>LV</ls> 〔75.6〕 (<ab>vs</ab>) kukṣiye (<lex>loc.</lex> <ab>sg.</ab>) pratiṣṭhitaṃ; (like garbha) with <ab>mg.</ab> <i>embryo</i> (and hence <b>kukṣimatī</b>, <i>pregnant</i>): <ls>Mv</ls> 〔ii.432.11〕 devīye kukṣiḥ pratilabdhā (<i>the queen conceived</i>); evaṃ dāni pañca devīśatāni kukṣimantāni (so <ls>Senart</ls>; <ab>mss.</ab> °matinī, °matīnāṃ; read °matīni?) saṃvṛttāni; <ls>Divy</ls> 〔264.10〕 kukṣimaty eṣā nūnam asyāḥ prasavakāla iti."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कुक्षि",
+            "eid": "2185",
+            "pagenum": 75,
+            "content": "कुक्षि¦ <i>m.</i> venter, uterus. RAGH. 10. 66.; <i>trop.</i> RAGH. 2. 38.: अद्रिकुक्षि; A. 5. 11.: समुद्रकुक्षि. (Lat. <i>coxa, coxendix</i>, gr. <lang n='greek'>ϰοχώνη</lang>? germ. vet. <i>bûh</i>, nostrum <i>Bauch</i>, mutatâ gutturali in labialem.)"
+        }
     ]
 }

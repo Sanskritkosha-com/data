@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "नप्ता पौत्रः पुत्रपुत्रो दौहित्रो दुहितुः सुतः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "दौहित्र",
+            "eid": "15744",
+            "pagenum": 583,
+            "content": "दौहित्रः¦ [दुहितुरपत्यं अञ्] A daughter's son; <ls>Ms. 3. 148</ls>, <ls n='Ms.'>9. 131.</ls> --त्रं Sesamum seed."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "दौहित्र",
+            "eid": "6774",
+            "pagenum": 420,
+            "content": "दौहित्र¦ <i>dauhitra,</i> <ab>i. e.</ab> <i>duhitṛ + a,</i> <b>I.</b> <ab>m.</ab> A daughter's son, <ls>Man.</ls> 3, 148. <b>II.</b> <ab>f.</ab> <i>trī,</i> A daughter's daughter, <ls>Rām.</ls> 6, 95, 36. <b>III.</b> <ab>m.</ab> A rhinoceros, <ls>Mārk. P.</ls> 32, 7."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "दौहित्र",
+            "eid": "4247",
+            "pagenum": 176,
+            "content": "दौहित्र¦ <i>m.</i> (a दुहितृ s. अ) filiae natus, progenies. BR. 1. 29. MAN. 9. 139."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "दौहित्र",
+            "eid": "9048",
+            "pagenum": 333,
+            "content": "दौहित्र¦ <i>dauhitra</i> <ab>m.</ab> <i>(duhitṛ)</i> [<ab>f.</ab> <i>i</i>] petit fils, <lbinfo n='5'/> petite-fille [enfant de la fille]."
+        }
     ]
 }

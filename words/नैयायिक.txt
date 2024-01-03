@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "नैयायिकस्त्वाक्षपादो यौगः सांख्यस्तु कापिलः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "नैयायिक",
+            "eid": "17419",
+            "pagenum": 649,
+            "content": "नैयायिकः¦ A logician, a follower of the Nyāya system of philosophy."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "नैयायिक",
+            "eid": "7866",
+            "pagenum": 494,
+            "content": "नैयायिक¦ <i>naiyāyika,</i> <ab>i. e.</ab> <i>nyāya +</i> <i>ika,</i> <ab>m.</ab> A logician, a follower of the Nyāya philosophy."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "नैयायिक",
+            "eid": "10313",
+            "pagenum": 380,
+            "content": "नैयायिक¦ <i>naiyāyika</i> <ab>m.</ab> sectateur du <s1 slp1='nyAya'>nyāya</s1>."
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "वृद्ध्याजीवो द्वैगुणिको वार्धुषिकः कुसीदकः ।\nवार्धुषिश्च कुसीदार्थप्रयोगौ वृद्धिजीवने ॥ ८८० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कुसीद",
+            "eid": "11294",
+            "pagenum": 414,
+            "content": "कुसी(सि)द¦ <i><ab>a.</ab></i> Lazy, slothful. --दः (also written as कुशी-षी-द) A money-lender, usurer. --दं <b>1</b> Any loan or thing lent to be repaid with interest. <b>--2</b> Lending money, usury, the profession of usury; कुसीदाद् दारिद्र्यं परकरगतग्रंथिशमनात्  <lbinfo n='ls:Pt.+ 1. 11'/> <ls>Pt. 1. 11</ls>; <ls>Ms. 1. 90</ls>; <ls n='Ms.'>8. 410</ls>;  <lbinfo n='ls:Y. 1.+ 119.'/> <ls>Y. 1. 119.</ls> <b>--Comp.</b> --पथः usury, usurious interest; any interest exceeding {5} per cent. --वृद्धिः <i><ab>f.</ab></i> interest on money; कुसीदवृद्धिर्द्वैगुण्यं नात्येति <lbinfo n='sakf#dAhftA'/> सकृदाहृता <ls>Ms. 8. 151.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कुसीद",
+            "eid": "3638",
+            "pagenum": 200,
+            "content": "कुसीद¦ <i>kusīda,</i> probably <i>ku-sad + a</i> (from the base of the <ab>pres.</ab> <i>sīda</i>), <ab>n.</ab> Usury, <ls>Pañc.</ls> i. <ab>d.</ab> 12; with <i>ś</i> for <i>s:</i> <i>kuśīda,</i> <ls>Man.</ls> 8, 410."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कुसीद",
+            "eid": "5057",
+            "pagenum": 189,
+            "content": "<b>kusīda, kuś°</b>¦, (<b>1</b>) <lex>adj.</lex> (<ab>cf.</ab> kusīda, <ls>TS</ls> 〔7.3.11.1〕, rendered <i>inert</i>, <ls>Keith</ls>; = <lang>Pali</lang> kusīta; <ab>cf.</ab> <b>akuśīda-, kausīdya</b>), <i>slothful</i>. The <ab>mg.</ab> of this essentially <lang>Pali</lang>-<lang>BHS</lang> word is made clear by collocations like <ls>Mv</ls> 〔iii.436.6〕 kuśīdo hīnavīryavān; <ls>Bbh</ls> 〔182.26〕 na kusīdo … na hīnavīryo; <ls>Gv</ls> 〔220.7〕 kusīda-nyasta-prayogān sattvān; and see <ab>s.v.</ab> <b>kausīdya</b>. The spelling with ś seems to be always found in <ls>Mv</ls> (〔i.79.11〕; 〔ii.93.5, 16〕; 〔220.16〕), and occurs also <ls>LV</ls> 〔35.4〕; <ls>Av</ls> 〔ii.107.3〕 (<ab>mss.</ab>, <ls>Speyer</ls> <ab>em.</ab> to s); <ls>RP</ls> 〔18.7〕; 〔34.8〕; <ls>Śikṣ</ls> 〔52.6〕; so also most <ab>mss.</ab> <ls>Sukh</ls> 〔74.3〕 (<ab>ed.</ab> s); otherwise with s, <ls>SP</ls> 〔27.7〕; 〔203.11〕 hīnādhimuktāś ca kusīdarūpā; <ls>Av</ls> 〔i.15.15 ff.〕; 〔216.1〕; <ls>Śikṣ</ls> 〔50.17〕; 〔275.4〕; <ls>Mmk</ls> 〔73.12〕; (<b>2</b>) noun, <lex>m.</lex> or <lex>nt.</lex>, <i>sloth</i> (not so recorded in <lang>Pali</lang>; = <b>kausīdya</b>), clearly in <ls>RP</ls> 〔35.13〕 (<ab>vs</ab>) lābhābhibhūtasya kusīda (<ab>n. sg.</ab>) vardhate, kusīdabhūtasya praṇaṣṭa śraddhā; perhaps also in <ls>Gv</ls> 〔220.7〕, above."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कुसीद",
+            "eid": "4932",
+            "pagenum": 177,
+            "content": "कुसीद¦ <i>kusīda</i> <ab>a.</ab> qui prête à usure. -- <ab>S.</ab> <ab>n.</ab> prêt usuraire; métier d'usurier.  <P><i>kusīdāyī</i> <ab>f.</ab> usurière.  <P><i>kusīdika</i> <ab>a.</ab> qui prête à usure; <ab>f.</ab> <i>kusīdikī.</i>"
+        }
     ]
 }

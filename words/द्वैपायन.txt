@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "प्राचेतसस्तु वाल्मीकिर्वल्मीककुशिनौ कविः ।\nमैत्त्रावरुणवाल्मीकौ वेदव्यासस्तु माठरः ॥ ८४६ ॥\nद्वैपायनः पाराशर्यः कानीनो बादरायणः ।\nव्यासोऽस्याम्बा सत्यवती वासवी गन्धकालिका ॥ ८४७ ॥\nयोजनगन्धा दाशेयी शालङ्कायनजा च सा ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "द्वैपायन",
+            "eid": "10601",
+            "pagenum": 1,
+            "content": "द्वैपायन¦ poet. Skm."
+        },
+        {
+            "word": "द्वैपायन",
+            "eid": "44140",
+            "pagenum": 3,
+            "content": "द्वैपायन¦ <HI1>Dattakadarpaṇa."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "द्वैपायन",
+            "eid": "15912",
+            "pagenum": 590,
+            "content": "द्वैपायनः¦ [द्वीपः अयनं जन्मभूमिर्यस्य स द्वीपायनः, स्वार्थे-अण्] ‘The island-born’, <ab>N.</ab> of Vyāsa."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "द्वैपायन",
+            "eid": "6915",
+            "pagenum": 429,
+            "content": "द्वैपायन¦ <i>dvaipāyana,</i> <ab>i. e.</ab> <b>1.</b> <i>dvīpa</i> <i>+ āyana,</i> <ab>m.</ab> A name of Vyāsa, <ls>MBh.</ls> 1, 2416. <b>2.</b> <i>dvaipāyana + a,</i> <ab>adj.</ab> Referring to Vyāsa, <ls>MBh.</ls> 9, 1743."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "द्वैपायन",
+            "eid": "9224",
+            "pagenum": 339,
+            "content": "द्वैपायन¦ <i>dvaipāyana</i> <ab>m.</ab> <ab>np.</ab> du <s1 slp1='vyAsa'>Vyāsa</s1> qui passe pour avoir compilé les <s1 slp1='veda'>Veda</s1>s et les <s1 slp1='purARa'>Purāṇa</s1>s."
+        }
     ]
 }

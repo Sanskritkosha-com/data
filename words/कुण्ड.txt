@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "स्थाल्युखा पिठरं कुण्डं चरुः कुम्भी घटः पुनः ।\nकुटः कुम्भः करीरश्च कलशः कलसो निपः ॥ १०१९ ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "कुण्ड",
+            "eid": "3519",
+            "pagenum": 192,
+            "content": "कुण्ड¦ <i>kuṇḍa,</i> <b>I.</b> <ab>m.</ab>, <ab>f.</ab> <i>ḍī,</i> and <ab>n.</ab> A pitcher, a jar, a water pot, <ls>MBh.</ls> 3, 14311. <b>II.</b> <ab>m.</ab> and <ab>n.</ab> A basin of water, <ls>MBh.</ls> 13, 4816; <ls>Rām.</ls> 4, 26, 4. <b>III.</b> <ab>n.</ab> <b>1.</b> A hole in the ground for receiving and preserving consecrated fire, <ls>MBh.</ls> 3, 8216. <b>2.</b> A vessel for holding coals, <ls>Rām.</ls> 5, 10, 16. <b>IV.</b> <ab>m.</ab> <b>1.</b> A son of an adulteress born before the death of the husband, <ls>Man.</ls> 3, 156; 174. <b>2.</b> The name of a Nāga or serpent, <ls>MBh.</ls> 1, 4828. <b>3.</b> A name of Śiva, <ls>MBh.</ls> 12, 10358. <b> -- <ab>Comp.</ab></b> <i>Amṛta-,</i> <ab>n.</ab> the vessel containing the <i>amṛta,</i> or beverage of immortality. <i>Homa-,</i> <ab>n.</ab> a hole in the ground for receiving the fire for an oblation."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कुण्ड",
+            "eid": "4944",
+            "pagenum": 185,
+            "content": "<b>kuṇḍa</b>¦, <lex>adj.</lex>, (<b>1</b>) in the sense of <lang>Skt.</lang> (and <lang>Pali</lang>) kuṇṭha, <i>dull, blunt</i>: <ls>LV</ls> 〔252.2〕 (prose) kuṇḍayā śaktyā śiraḥkapālam upahanyād; <lang>Tib.</lang> <tib>rtul pos</tib>, <i>dull, blunt</i>; despite this, and on no apparent ground, <ls>Foucaux</ls> translates both the <lang>Skt.</lang> and even the <lang>Tib.</lang> (!) by <i><fr>aiguë!</fr></i>; no <ab>v.l.</ab> reported by <ls>Lefm.</ls>; (<b>2</b>) in <ls>Mvy</ls> 〔7363〕 and 〔8875〕 <ab>acc.</ab> to <lang>Tib.</lang> <tib>lag rdum</tib>, <i>maimed in the hand</i>; so also <lang>Chin.</lang> and <lang>Jap.</lang>; same <ab>mg.</ab> <ab>perh.</ab> in <lang>Pali</lang>, <ls>Pv. comm.</ls> 〔181.9〕 catūhi aṅgehi kuṇḍo (<i>bent</i>, <ls>PTSD</ls>); <ls>pw</ls> 〔7.332〕 <i><ger>krüppelicht, lahm</ger></i>; <ab>cf.</ab> <ls>Dhātup.</ls> kuṇḍ-, vaikalye, and the use of <b>kuṇṭha</b> (<lang>Skt.</lang> <i>blunt</i>, a <ab>mg.</ab> which <lang>BHS</lang> kuṇḍa has) in <lang>BHS</lang> and <lang>Pali</lang> in the additional sense of <i>mutilated, maimed</i>. See also next."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कुण्ड",
+            "eid": "2227",
+            "pagenum": 76,
+            "content": "कुण्ड¦ 1) <i>n.</i> urceus, urna, hydria. MAH. 1. 4500. 4504. 2) caverna in terrâ facta ad servandum ignem sacrum. 3) puteus. RAGH. 1. 84. 4) adulterino sanguine natus e feminâ, vivente marito. AM."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कुण्ड",
+            "eid": "4744",
+            "pagenum": 169,
+            "content": "कुण्ड¦ <i>kuṇḍa</i> <ab>m.</ab> enfant adultérin né de la femme du vivant du mari. -- <i>kuṇḍa</i> <ab>m.</ab> et <i>kuṇḍī</i> <ab>f.</ab> cruche. -- <i>kuṇḍī</i> <ab>f.</ab> vase de terre ou de noix de coco à l'usage des jeunes brâhmanes. -- <i>kuṇḍa</i> <ab>n.</ab> puits, citerne; || cavité creusée dans le sol pour la conservation <lbinfo n='6'/> du feu sacré.  <P><i>kuṇḍaka</i> <ab>m.</ab> comme <i>kuṇḍī.</i>  <P><i>kuṇḍakīṭa</i> <ab>m.</ab> enfant adultérin d'une <s1 slp1='brAhmaRI'>brāhmaṇī</s1> et d'un homme d'une caste inférieure. <lbinfo n='7'/> || Gardien de harem. || Partisan du <i>cārvāka</i> doctrine qui nie l'autorité du <s1 slp1='veda'>Veda</s1>.  <P><i>kuṇḍagolaka</i> <ab>m.</ab> bouillie de riz fermentée; <lbinfo n='4'/> <ab>cf.</ab> <i>kāñcikā.</i>"
+        }
     ]
 }

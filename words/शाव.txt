@@ -12,5 +12,55 @@
             "synonyms": [],
             "content": "बालः पाकः शिशुर्डिम्भः पोतः शावः स्तनंधयः ।\nपृथुकार्भोत्तानशयाः क्षीरकण्ठः कुमारकः ॥ ३३८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "शाव",
+            "eid": "27890",
+            "pagenum": 1042,
+            "content": "शाव¦ <i><ab>a.</ab></i> (वी <i><ab>f.</ab></i>) [शव-अण्] <b>1</b> Relating to a dead body; caused by the death (of a <lbinfo n='rela+tive'/> relative); दशाहं शावमाशौचं सपिंडेषु विधीयते <ls>Ms. 5. 59</ls>, <ls n='Ms. 5.'>61.</ls> <b>--2</b> Tawny, dark-yellowish. --वः <b>1</b> The young of any animal, a fawn, cub; क्व वयं क्व परोक्षमन्मथो मृगशावैः सममेधितो जनः <ls>Ś. 2. 18</ls>; मृगराजशावः <ls>R. 6. 3</ls>,  <lbinfo n='ls:18.+37'/> <ls n='R.'>18. 37.</ls> <b>--2</b> A dark-yellowish colour."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "शाव",
+            "eid": "14646",
+            "pagenum": 944,
+            "content": "शाव¦ <i>śāva,</i> <b>I.</b> <ab>i. e.</ab> <i>śava + a,</i> <ab>adj.</ab> <b>1.</b> Relating to, or produced by, a dead body, <ls>Man.</ls> 5, 59. <b>2.</b> Dead, <ls>Sāv.</ls> 5, 61. <b>II.</b> (akin to <i>śvi,</i> <ab>cf.</ab> <i>śiśu</i>), <ab>m.</ab> The young of any animal, <ls>Utt. Rāmac.</ls> 122, 12 (<i>siṃha-,</i> A lion's cub)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "शाव",
+            "eid": "7841",
+            "pagenum": 347,
+            "content": "1. शाव¦ <i>Adj.</i> (a शव corpus mortuum suff. अ) mortuus. SA. 5. 61."
+        },
+        {
+            "word": "शाव",
+            "eid": "7842",
+            "pagenum": 347,
+            "content": "2. शाव¦ <i>m.</i> pullus, catulus."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "शाव",
+            "eid": "16760",
+            "pagenum": 645,
+            "content": "शाव¦ <i>śāva</i> <ab>a.</ab> jaunâtre, brunâtre. -- <ab>S.</ab> <ab>m.</ab> couleur jaunâtre ou brunâtre. <ab>Cf.</ab> <i>śyāva.</i>"
+        },
+        {
+            "word": "शाव",
+            "eid": "16761",
+            "pagenum": 645,
+            "content": "शाव¦ <i>śāva</i> <ab>a.</ab> <i>(śava)</i> de cadavre; <i>śāvaṃ karman</i> acte par lequel on se purifie d'avoir <lbinfo n='4'/> touché un cadavre; || mort; cadavéreux. <lbinfo n='5'/>"
+        },
+        {
+            "word": "शाव",
+            "eid": "16762",
+            "pagenum": 645,
+            "content": "शाव¦ <i>śāva</i> <ab>m.</ab> (pour <i>sāva,</i> de <i>sū)</i> petit d'un animal.  <P><i>śāvaka</i> <ab>m.</ab> <ab>mms.</ab>"
+        }
     ]
 }

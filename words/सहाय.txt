@@ -25,5 +25,45 @@
             "synonyms": [],
             "content": "सहायसाप्तपदीनौ सख्यावसुहृदप्यरौ ॥ ६३ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "सहाय",
+            "eid": "29957",
+            "pagenum": 1112,
+            "content": "सहायः¦ [सह् एति इ-अच्] <b>1</b> A friend, companion; सहायसाध्याः <lbinfo n='pra#diSaMti'/> प्रदिशंति सिद्धयः <ls>Ki. 14. 44</ls>;  <lbinfo n='ls:Ku. 3.+ 21.'/> <ls>Ku. 3. 21.</ls> <b>--2</b> A follower, an adherent. <b>--3</b> An ally. <b>--4</b> A helper, patron. <b>--5</b> The ruddy goose. <b>--6</b> A kind of perfume. <b>--7</b> <ab>N.</ab> of Śiva."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "सहाय",
+            "eid": "15930",
+            "pagenum": 1029,
+            "content": "सहाय¦ <i>sahāya,</i> probably <i>saha-i + a,</i> <ab>m.</ab> <b>1.</b> A companion, <ls>Pañc.</ls> 221, 22. <b>2.</b> An adherent. <b>3.</b> A helper, <ls>Lass.</ls> 52, 1. <b>4.</b> An ally, <ls>Daśak.</ls> in <ls>Chr.</ls> 201, 1. <b>5.</b> The ruddy goose, Anas casarca. <b>6.</b> A sort of drug and perfume. <b> -- <ab>Comp.</ab></b> <i>A-,</i> <ab>adj.</ab> one who has no assistant, <ls>Man.</ls> 7, 30; no allies, <ls>Pañc.</ls> iii. <ab>d.</ab> 54. <i>Kariṇī-,</i> <ab>adj.</ab> with his female elephant, <ls>Vikr.</ls> 64, 2. <i>Dus-,</i> <ab>adj.</ab> abandoned, <ls>MBh.</ls> 5, 1861. <i>Dharma-,</i> <ab>m.</ab> a companion for fulfilling religious duties, <ls>Sāh. D.</ls> 37, 2. <i>Madhu-,</i> <ab>m.</ab> Kāmadeva, the god of love. <i>Vacana-,</i> <ab>m.</ab> a companion for conversation, <ls>Pañc.</ls> 221, 22."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "सहाय",
+            "eid": "16599",
+            "pagenum": 588,
+            "content": "<b>sahāya</b>¦, in <ls>LV</ls> 〔387.9〕 (<ab>vs</ab>), if text is right must mean <i>accompanied</i> (by, with <lex>instr.</lex>): adhunāpy asau tāṃ … saṃpūjayaty anyasuraiḥ sahāyaḥ, <i>even now he honors it</i>, [Page588-b] <i>together with the other gods</i>. But this use of sahāya seems unparalleled, and <lang>Tib.</lang> makes it agree with anyasuraiḥ: <tib>lha gzhan grogs daṅ lhan cig mchod pa byed</tib>, <i>honors it together with the other companion gods</i>; this implies sahāyaiḥ, which is <ab>prob.</ab> the true reading, <ab>tho</ab> no <ab>v.l.</ab> is cited. <ab>Cf.</ab> however <b>sahīya</b>, <ls>Buddhac.</ls> 〔x.26〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "सहाय",
+            "eid": "8398",
+            "pagenum": 373,
+            "content": "सहाय¦ <i>m.</i> (e सह cum et अय iens <i>in fine comp.</i>, a r. इ s. अ) comes. N. 6. 2."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "सहाय",
+            "eid": "18253",
+            "pagenum": 703,
+            "content": "सहाय¦ <i>sahāya</i> <ab>m.</ab> <i>(aya,</i> de <i>i)</i> compagnon <lbinfo n='4'/> de route; associé. || Oie rougeâtre ou casarca. || Sorte de drogue. || <ab>Lat.</ab> socius.  <P><i>sahāyatā</i> <ab>f.</ab> (<ab>sfx.</ab> <i>tā)</i> qualité de compagnon, <lbinfo n='5'/> d'associé. || Compagnie, réunion de compagnons ou d'associés.  <P><i>sahāyatva</i> <ab>n.</ab> (<ab>sfx.</ab> <i>tva)</i> qualité de compagnon, <lbinfo n='7'/> d'associé, de camarade.  <P><i>sahāyavat</i> <ab>a.</ab> (<ab>sfx.</ab> <i>vat)</i> qui a un compagnon. <lbinfo n='5'/>"
+        }
     ]
 }

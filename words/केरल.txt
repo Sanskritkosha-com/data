@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "ओण्ड्राः‌केरलपर्यायाः कुन्तला उपहालकाः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "केरल",
+            "eid": "4901",
+            "pagenum": 1,
+            "content": "केरल¦ jy. Oppert II, 925. 2916."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "केरल",
+            "eid": "11480",
+            "pagenum": 423,
+            "content": "केरलः¦ (<ab>pl.</ab>) <b>1</b> <ab>N.</ab> of a country (in the south of India, the modern Malabār) and its inhabitants;  <lbinfo n='ls:Māl.+ 6. 19'/> <ls>Māl. 6. 19</ls>; <ls>R. 4. 54.</ls> --ली A woman of the Kerala country. <b>--2</b> <lbinfo n='Astrono+mical'/> Astronomical science. <b>--3</b> A Hora or period of time equal to one hour."
+        },
+        {
+            "word": "केरल",
+            "eid": "32118",
+            "pagenum": 1193,
+            "content": "केरल¦ The strip of land between the Western Ghats and the sea north of the Kāverī. The principal rivers in this tract are the Netravatī, the Śarāvatī and the Kālī-Nadī, which is considered to be the same as the Muralā referred to in <ls>R. 4. 55</ls>, and in <ls>U. 3</ls>, and forms the principal river of Kerala. Kerala corresponds to modern Kānarā, and <lbinfo n='pro+bably'/> probably included Malabar also, and extended beyond the kāverī."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "केरल",
+            "eid": "3774",
+            "pagenum": 218,
+            "content": "केरल¦ <i>kerala,</i> <ab>m.</ab> <b>1.</b> <ab>pl.</ab> The name of a people, <ls>Rām.</ls> 2, 82, 7. <b>2.</b> Their king, <ls>MBh.</ls> 3, 15250."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "केरल",
+            "eid": "5067",
+            "pagenum": 185,
+            "content": "केरल¦ <i>kerala</i> <ab>m.</ab> <ab>np.</ab> de pays, la côte de Malabar."
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "शब्दो निनादो निर्घोषः स्वानो ध्वानः स्वरो ध्वनिः ।\nनिह्रादो निनदो ह्रादो निस्वानो निस्वनः स्वनः ॥ १३९९ ॥\nरवो नादः स्वनिर्घोषः संव्याङ्भ्यो राव आरवः ।\nक्वणनं निक्वणः क्वाणो निक्वाणश्च क्वणो रणः ॥ १४०० ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "आराव",
+            "eid": "1668",
+            "pagenum": 85,
+            "content": "आराव¦ <i>ārāva,</i> <ab>i. e.</ab> <i>ā-ru + a,</i> <ab>m.</ab> <b>1.</b> Sound, <ls>Nal.</ls> 13, 16. <b>2.</b> Scream, <ls>MBh.</ls> 1, 6846."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "आराव",
+            "eid": "2900",
+            "pagenum": 104,
+            "content": "<b>ārāva</b>¦, <lex>nt.</lex>, a high number: <ls>Mvy</ls> 〔7839〕 = <lang>Tib.</lang> <tib>rig(s) sdom</tib>; cited from <ls>Gv</ls>; <ab>var.</ab> <b>agava</b>, <ab>q.v.</ab> But <ls>Gv</ls> 〔133.3〕 reads <b>avaga</b> (<lex>nt.</lex>), which has the same <lang>Tib.</lang> rendering <ls>Mvy</ls> 〔7713〕 and is probably to be read for ārāva. <ls>Mironov</ls> reads arāvam, noting <ab>vv.ll.</ab> agavam, aravam. In <ls>Gv</ls> 〔105.21〕 replaced by <b>vipāsa</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "आराव",
+            "eid": "993",
+            "pagenum": 33,
+            "content": "आराव¦ <i>m.</i> (r. रु sonare, s. अ) clamor, tumultus, strepitus. HIT. 111. 20. N. 13. 16."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आराव",
+            "eid": "2375",
+            "pagenum": 79,
+            "content": "आराव¦ <i>ārāva</i> <ab>m.</ab> bruit, fracas; cris, clameur; tumulte. <ab>Cf.</ab> <i>ārava.</i>"
+        }
     ]
 }

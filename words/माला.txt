@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "राजिर्लेखा ततिर्वीथी मालाल्यावलिपङ्क्तयः ।\nधोरणीश्रेण्युभौ तु द्वौ युगलं द्वितयं द्वयम् ॥ १४२३ ॥\nयुगं द्वैतं यमं द्वन्द्वं युग्मं यमलयामले ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "माला",
+            "eid": "23083",
+            "pagenum": 863,
+            "content": "माला¦ [मल् संज्ञायां कर्तरि घञ्] <b>1</b> A garland, wreath, chaplet;  <lbinfo n='anaDigatapa#rimalApi'/> अनधिगतपरिमलापि हि हरति दृशं मालतीमाला <ls>Vās.</ls> <b>--2</b> A row, line, series, succession; गंडोड्डीनालिमाला <ls>Māl. 1. 1</ls>;  <lbinfo n='AbadDamA#lAH'/> आबद्धमालाः <ls>Me. 9.</ls> <b>--3</b> A group, cluster, collection. <b>--4</b> A string, <lbinfo n='neck+lace'/> necklace; as in रत्नमाला. <b>--5</b> A rosary, chain; as in अक्षमाला. <b>--6</b> A streak; as in तडिन्माला, विद्युन्माला. <b>--7</b> A series of epithets. <b>--8</b> (In dramas) The offering of several things to obtain a wish. <b>--Comp.</b> --उपमा a <lbinfo n='va+riety'/> variety of Upamā or simile, in which one <i>Upameya</i> is compared to several <i>Upamānas</i>; <i><ab>e. g.</ab></i> अनयेनेव <lbinfo n='rAjyaSrI#dEnyaneva'/> राज्यश्रीदैन्यनेव मनस्विता । मम्लौ साथ विषादेन <lbinfo n='pa#dminIva'/> पद्मिनीव हिमांभसा <ls>K. P. 10.</ls> --कंटः <ab>N.</ab> of a plant (अपामार्ग). --करः, --कारः {1} a garland-maker, florist, gardener; कृती मालाकारो बकुलभुपि कुत्रापि निदधे <ls>Bv. 1. 54</ls>; <ls>Pt. 1. 220.</ls> {2} the tribe of gardeners. --गुणः a necklace. --तृणं a kind of fragrant grass. --दीपकं a variety of दीपक; Mammaṭa thus defines it: --मालादीपकमाद्यं <lbinfo n='ce#dyaTottaraguRAvaham'/> चेद्यथोत्तरगुणावहम् <ls>K. P. 10</ls>; see the <lbinfo n='ex+ample'/> example given <i>ad loc.</i> --धर <i><ab>a.</ab></i> <lbinfo n='wear+ing'/> wearing a garland."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "माला",
+            "eid": "12036",
+            "pagenum": 431,
+            "content": "<b>mālā</b>¦, (<b>1</b>) (<ab>cf.</ab> <lang>AMg.</lang> <ab>id.</ab>, <i>‘upper deck or storey on a ship’</i>, <ls>Ratnach.</ls>; see mālikā in <ls>Acharya, Dict. Hind. Arch.</ls> <ab>s.v.</ab>, and <ab>cf.</ab> <b>mālāvihāra, -māla</b> 3), <i>upper part, top, crown</i>, of a building; in navachadanā āveśana-mālā (so <ab>mss.</ab> each time; <ls>Senart</ls> <ab>em.</ab> °śālā) <ls>Mv</ls> 〔i.328.6, 9, 10, 12, 14, 20〕; 〔329.1〕, <i>the newly-thatched crown</i> (top) <i>of a</i> (potterʼs) <i>workshop</i>. The <lang>AMg.</lang> <ab>mg.</ab> could be derived from a <ab>mg.</ab> <i>pavilion</i> (on top), so <i>cabin</i> (on the deck of a ship); (<b>2</b>) <ab>n.</ab> of a goddess or yoginī (<i>Garland</i> personified): <ls>Sādh</ls> 〔324.6〕 (replacing <b>Mālyā</b> of 〔157.12〕 <ab>etc.</ab>)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "माला",
+            "eid": "6216",
+            "pagenum": 263,
+            "content": "माला¦ <i>f.</i> sertum floreum."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "माला",
+            "eid": "13311",
+            "pagenum": 504,
+            "content": "माला¦ <i>mālā</i> <ab>f.</ab> rangée, série. || Guirlande; <lbinfo n='6'/> collier; chapelet.  <P><i>mālākā</i> <ab>f.</ab> <ab>mms.</ab>  <P><i>mālākāra</i> <ab>m.</ab> <i>(kṛ)</i> fleuriste qui fait des guirlandes, jardinier-fleuriste.  <P><i>mālātṛṇaka</i> <ab>m.</ab> andropogon schœnanthus, <lbinfo n='5'/> <ab>bot.</ab>  <P><i>mālāphala</i> <ab>n.</ab> graine de l'elæocarpus dont on fait des chapelets."
+        }
     ]
 }

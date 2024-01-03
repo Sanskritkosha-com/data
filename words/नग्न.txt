@@ -12,5 +12,59 @@
             "synonyms": [],
             "content": "नग्नः स्तुतिव्रतस्तस्य ग्रन्थो भोगावली भवेत् ॥ ७९५ ॥"
         }
+    ],
+    "ACC": [
+        {
+            "word": "नग्न",
+            "eid": "10965",
+            "pagenum": 1,
+            "content": "नग्न¦ poet. Skm."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "नग्न",
+            "eid": "16272",
+            "pagenum": 605,
+            "content": "नग्न¦ See under नज् below."
+        },
+        {
+            "word": "नग्न",
+            "eid": "16277",
+            "pagenum": 605,
+            "content": "नग्न¦ <i><ab>a.</ab></i> [नज्-न-कर्तरि क्त तस्य नः] <b>1</b> Naked, nude, bare; न नग्नः <lbinfo n='snAnamAcare#t'/> स्नानमाचरेत् <ls>Ms. 4. 45</ls>; नग्नक्षपणके देशे रजकः किं करिष्यति <ls>Chāṇ. 110.</ls> <b>--2</b> <lbinfo n='Unculti+vated'/> Uncultivated, uninhabited, desolate. --ग्नः <b>1</b> A naked mendicant. <b>--2</b> A Buddhist mendicant (क्षपणक). <b>--3</b> A <lbinfo n='hypo+crite'/> hypocrite. <b>--4</b> A bard accompanying an army, or a wandering bard. <b>--5</b> <ab>N.</ab> of Śiva. --ग्ना <b>1</b> A naked, shameless (or wanton) woman. <b>--2</b> A girl before menstruation, or less than 12 or 10 (and therefore may go about naked). <b>--Comp.</b> --अटः, --अटकः {1} one who goes about naked. {2} especially a Jaina or Buddhist mendicant (of the दिगंबर class)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "नग्न",
+            "eid": "7170",
+            "pagenum": 453,
+            "content": "नग्न¦ <i>nagna,</i> <b>I.</b> <ab>adj.</ab>, <ab>f.</ab> <i>nā,</i> Naked, <ls>Man.</ls> 4, 45. <b>II.</b> <ab>f.</ab> <i>nā,</i> A girl before menstruation, <ls>Pañc.</ls> iii. <ab>d.</ab> 217. -- <ab>Cf.</ab> <ab>Goth.</ab> naqvadei; <ab>A.S.</ab> nacud, nacod. genacian; <ab>Lat.</ab> nudus."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "नग्न",
+            "eid": "8020",
+            "pagenum": 289,
+            "content": "<b>nagna</b>¦, <lex>m.</lex> (<ab>cf.</ab> on the <ab>etym.</ab> and exact <ab>mg.</ab> the commoner <b>mahā-nagna</b>, of which this is essentially a synonym), <i>great man, mighty man, champion</i>: sarvi bala-upeta nagnāḥ samā duṣpradharṣāḥ paraiḥ <ls>LV</ls> 〔94.11〕 (<ab>vs</ab>); nagnabalānupradāna- 〔429.22〕 (prose), <i>the granting of the might of champions</i>; (ekasmin dvāre eko) nagnaḥ sthāpitaḥ, dvitīye dvitīyaḥ, tṛtīye Rādhaguptaḥ (an agrāmātyaḥ), pūrvadvāre svayam eva rājāśoko 'vasthitaḥ <ls>Divy</ls> 〔373.13〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "नग्न",
+            "eid": "4467",
+            "pagenum": 189,
+            "content": "नग्न¦ (<i>Part. pass.</i> a r. नज्, q. v., s. न) nudus. N. 13. 60. (Lith. <i>noga-s</i> id., russ. <i>nagiľ</i>, goth. <i>naqvaths</i>, island. vet. <i>nakt-r</i>, germ. vet. <i>nachat</i>, nostrum <i>nackt</i>, hib. <i>nochd.</i>)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "नग्न",
+            "eid": "9518",
+            "pagenum": 352,
+            "content": "नग्न¦ <i>nagna</i> <ab>pp.</ab> de <i>naj.</i> -- <ab>A.</ab> nu. -- <ab>S.</ab> <ab>m.</ab> homme nu; || mendiant nu; gymnosophiste. <lbinfo n='7'/> || <ab>Lith.</ab> nogas; <ab>goth.</ab> naqwaths; <ab>germ.</ab> nack; <ab>angl.</ab> naked.  <P><i>nagnaka</i> <ab>a.</ab> <ab>mms.</ab>  <P><i>nagnajit</i> <ab>m.</ab> <i>(ji)</i> <ab>np.</ab> d'un roi des <s1 slp1='gAnDAra'>Gāndhāra</s1>s. <lbinfo n='7'/>  <P><i>nagnatva</i> <ab>n.</ab> (<ab>sfx.</ab> <i>tva)</i> nudité.  <P><i>nagnahū</i> <ab>m.</ab> <ab>n.</ab> <i>(hve)</i> ferment [qui dépouille <lbinfo n='7'/> le jus de ses impuretés].  <P><i>nagnāṭa</i> <ab>m.</ab> <i>(aṭ)</i> mendiant nu; gymnosophiste. <lbinfo n='7'/>  <P><i>nagnikā</i> (<ab>f.</ab> de <i>nagnaka)</i> femme nue; || jeune fille non réglée."
+        }
     ]
 }

@@ -12,5 +12,51 @@
             "synonyms": [],
             "content": "सौमिकी दीक्षणीयेष्टिर्दीक्षा तु व्रतसंग्रहः ॥ ८२३ ॥"
         }
+    ],
+    "ACC": [
+        {
+            "word": "दीक्षा",
+            "eid": "10014",
+            "pagenum": 1,
+            "content": "दीक्षा¦ vaid. Oudh X, 4. XIX, 22."
+        },
+        {
+            "word": "दीक्षा",
+            "eid": "33654",
+            "pagenum": 2,
+            "content": "दीक्षा¦ vaid. Oudh XX, 2. XXI, 20. XXII, 36."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "दीक्षा",
+            "eid": "15459",
+            "pagenum": 567,
+            "content": "दीक्षा¦ [दीक्ष्-भावे अ] <b>1</b> (<i>a</i>) <lbinfo n='Consecra+tion'/> Consecration for a religious ceremony, <lbinfo n='ini+tiation'/> initiation in general; <ls>R. 3. 44</ls>, <ls n='R. 3.'>65.</ls> (<i>b</i>) Receiving the initiatory <i>mantra</i>. <b>--2</b> A ceremony preliminary to a sacrifice. <b>--3</b> A ceremony or religious rite in general; विवाहदीक्षां <ls>R. 3. 33</ls>; <ls>Ku. 7. 1</ls>, <ls n='Ku. 7.'>8</ls>, <ls n='Ku. 7.'>24.</ls> <b>--4</b> Investiture with the sacred thread. <b>--5</b> Dedicating oneself to a particular object, <lbinfo n='self+devotion'/> selfdevotion. <b>--Comp.</b> --अंतः a <lbinfo n='supple+mentary'/> supplementary sacrifice made to atone for the defects in a preceding one. --पतिः the Soma."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "दीक्षा",
+            "eid": "6506",
+            "pagenum": 403,
+            "content": "दीक्षा¦ <i>dīkṣ + ā,</i> <ab>f.</ab> <b>1.</b> Consecration, <ls>MBh.</ls> 1, 8135. <b>2.</b> Undergoing religious observances, engaging in a course of austerities, <ls>Rām.</ls> 1, 32, 4. <b>3.</b> Religious observances, <ls>Man.</ls> 6, 29. <b>4.</b> Devotion, <ls>Bhāg. P.</ls> 4, 2, 29. <b> -- <ab>Comp.</ab></b> <i>Yathā-dīkṣa</i> <i>+ m,</i> <ab>adv.</ab> according to the religious observances, <ls>MBh.</ls> 14, 1270."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "दीक्षा",
+            "eid": "4101",
+            "pagenum": 170,
+            "content": "दीक्षा¦ <i>f.</i> (r. दीक्ष् s. आ) sacrificium; consecratio, sacrificii caerimonia initialis. RAGH. 3. 33. 65. SU. 1. 7."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "दीक्षा",
+            "eid": "8757",
+            "pagenum": 322,
+            "content": "दीक्षा¦ <i>dīkṣā</i> <ab>f.</ab> cérémonie préliminaire; || par <ab>ext.</ab> sacrifice; consécration.  <P><i>dikṣānta</i> <ab>m.</ab> <i>(anta)</i> cérémonie supplémentaire <lbinfo n='5'/> destinée à corriger un vice dans la cérémonie principale.  <P><i>dīkṣāpayāmi,</i> <ab>cf.</ab> <i>dīkṣayāmi.</i>"
+        }
     ]
 }

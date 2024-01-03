@@ -25,5 +25,29 @@
             "synonyms": [],
             "content": ";c{इति जलकायः ।}\nअग्नौ वमिर्दीप्रः समन्तभुक् ॥ १६६ ॥\nपर्परीकः पविर्घासिः पृथुर्घघरिराशिरः ।\nजुहुराणः पृदाकुश्च जुषाकुर्हवनो हविः ॥ १६७ ॥\nघृतार्चिर्नाचिकेतश्च प्रेष्ठो वञ्चतिरञ्चतिः ।\nभुजिर्भरथपीथौ च स्वनिः पवनवाहनः ॥ १६८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पवि",
+            "eid": "18524",
+            "pagenum": 688,
+            "content": "पविः¦ <b>1</b> The thunderbolt of <lbinfo n='In+dra'/> Indra. <b>--2</b> <ab>Ved.</ab> The tire of a wheel. <b>--3</b> The point of a spear or arrow. <b>--4</b> An arrow. <b>--5</b> Speech. <b>--6</b> Fire."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पवि",
+            "eid": "8524",
+            "pagenum": 534,
+            "content": "पवि¦ <i>pavi,</i> <ab>m.</ab> <b>1.</b> The iron band of a wheel (<ab>ved.</ab>). <b>2.</b> The thunderbolt of Indra, <ls>Śatr.</ls> 14, 219. Perhaps akin to <ab>Lat.</ab> pavire puvire; <lang n='greek'>παίω, πταίω</lang>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पवि",
+            "eid": "10889",
+            "pagenum": 403,
+            "content": "पवि¦ <i>pavi</i> <ab>m.</ab> <i>(pū;</i> <ab>sfx.</ab> <i>i)</i> la foudre d'<s1 slp1='indra'>Indra</s1>. <lbinfo n='4'/>"
+        }
     ]
 }

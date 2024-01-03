@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "तु हि च स्म ह वै  पादपूरणे पूजने स्वती ॥ १९७ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "स्म",
+            "eid": "31042",
+            "pagenum": 1155,
+            "content": "स्म¦ <i><ab>ind.</ab></i> <b>1</b> A particle added to the present tense of verbs (or to present participles) and giving them the sense of the past tense; भासुरको नाम सिंहः प्रतिवसति स्म <ls>Pt. 1</ls>; क्रीणंति स्म प्राणमूल्यैर्यशांसि <ls>Śi. 18. 15.</ls> <b>--2</b> A pleonastic particle (generally added to the prohibitive particle मा <ab>q. v.</ab>); भर्तुर्विप्रकृतापि रोषणतया मास्म प्रतीपं गमः <ls>Ś. 4. 17</ls>; मास्म <lbinfo n='sImaM#tinI'/> सीमंतिनी काचिज्जतयेत्पुत्रमीदृशं <ls>H. 2. 7.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "स्म",
+            "eid": "16762",
+            "pagenum": 1090,
+            "content": "स्म¦ <i>sma,</i> an old case (probably the <ab>instr.</ab> <ab>sing.</ab> <ab>n.</ab>) of <i>sama;</i> a particle. <b>1.</b> A present and <ab>ptcple.</ab> of the <ab>pres.</ab> followed by it have generally a past sense; e. g. <i>prati vasataḥ, sma,</i> They dwelt, <ls>Pañc.</ls> 43, 1; <i>kathayantau</i> <i>sma...āsātām,</i> <ls>Chr.</ls> 16, 20, They were sitting and told. <b>2.</b> Preceded by <i>mā,</i> sometimes after a present, and in the <ab>Ved.</ab>, after particles, it has no distinct signification; <i>mā sma kārṣīs,</i> Do not, <ls>Chr.</ls> 41, 4; <i>caranti sma,</i> They go, <ls>Indr.</ls> 1, 23; <i>adha sma,</i> <ls>Lass.</ls> 98, 14 = <ls>Rigv.</ls> v. 9, 5."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "स्म",
+            "eid": "8730",
+            "pagenum": 392,
+            "content": "स्म¦ 1) <i>explet.</i> IN. 1. 23. -- <i>Tempus praesens hâc particulâ</i> <i>saepe Praeteriti accipit significationem.</i> IN. 2. 28. N. 1. 12. 2) pro स्मस् sumus (v. gr. 299. annot.). IN. 5. 42."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "स्म",
+            "eid": "19328",
+            "pagenum": 741,
+            "content": "स्म¦ <i>sma</i> <ab>partic.</ab> explétive; ajoutée au présent, elle lui donne le sens du passé."
+        },
+        {
+            "word": "स्म",
+            "eid": "19329",
+            "pagenum": 741,
+            "content": "स्म¦ <i>sma,</i> pour <i>smas,</i> <ab>1p.</ab> <ab>pl.</ab> de <i>asmi.</i>"
+        }
     ]
 }

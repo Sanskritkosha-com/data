@@ -12,5 +12,27 @@
             "synonyms": [],
             "content": "आटिरातिः शरारिः स्यात्कृकणक्रकरौ समौ ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "आति",
+            "eid": "6087",
+            "pagenum": 233,
+            "content": "आतिः¦ A kind of bird."
+        },
+        {
+            "word": "आति",
+            "eid": "6088",
+            "pagenum": 233,
+            "content": "आतिः¦ = आटि <ab>q. v.</ab> (<ab>cf.</ab> <lbinfo n='ls:P. III. 3.+108'/> <ls>P. III. 3. 108</ls> and <ls>Uṇ. 4. 130</ls>)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आति",
+            "eid": "2128",
+            "pagenum": 71,
+            "content": "आति¦ <i>āti</i> <ab>m.</ab> <i>(at)</i> oiseau."
+        }
     ]
 }

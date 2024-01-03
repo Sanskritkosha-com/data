@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "शरभः कुञ्जरारातिरुत्पादकोऽष्टपादपि ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "शरभ",
+            "eid": "27662",
+            "pagenum": 1035,
+            "content": "शरभः¦ [शॄ-अभच् <ls>Uṇ. 3. 122</ls>] <b>1</b> A young elephant. <b>--2</b> A fabulous animal said to have {8} legs and to be stronger than a lion;  <lbinfo n='SaraBakulama#jihmaM'/> शरभकुलमजिह्मं प्रोद्धरत्यंबु कूपात् <ls>Rs. 1. 23</ls>;  <lbinfo n='a#zwapAdaH'/> अष्टपादः शरभः सिंहघाती <ls>Mb.</ls> <b>--3</b> A camel. <b>--4</b> A grass-hopper. <b>--5</b> A locust."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "शरभ",
+            "eid": "14488",
+            "pagenum": 935,
+            "content": "शरभ¦ <i>śarabha</i> (<ab>cf.</ab> <i>karabha</i>), <ab>m.</ab> <b>1.</b> A fabulous animal with eight legs, stronger than a lion, <ls>Megh.</ls> 55. <b>2.</b> A young elephant. <b>3.</b> A camel. <b>4.</b> A grasshopper (<ab>cf.</ab> <i>śalabha</i>). <b>5.</b> A locust,  <ls>Ṛt.</ls> 1, 23. -- <ab>Cf.</ab> perhaps <lang n='greek'>κάραϐος</lang>; <ab>A.S.</ab> crabba."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "शरभ",
+            "eid": "14862",
+            "pagenum": 524,
+            "content": "<b>Śarabha</b>¦, (<b>1</b>) (= <lang>Pali</lang> Sarabha) <ab>n.</ab> of a parivrājaka (see <ls>DPPN</ls>): <ls>Pischel, SBBA 1904</ls> 〔p. 816 fol. 167a ff.〕; (<b>2</b>) <ab>n.</ab> of a maharṣi: <ls>Māy</ls> 〔256.25〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "शरभ",
+            "eid": "7770",
+            "pagenum": 345,
+            "content": "शरभ¦ <i>m.</i> animalis species <sup>(*)</sup> DR. 4. 13. <F>(*) Wilson: 1) <i>A fabulous animal, supposed to have</i> <i>eight legs and to inhabit particularly the snowy mountains.</i> AM. 2) <i>A young elephant.</i> 3) <i>A monkey in Rama's army.</i> MED. 4) <i>A camel.</i> 5) <i>A grasshopper.</i> AM. 6) <i>A locust.</i> (V. शलभ et cf. gr. <lang n='greek'>ϰάϱαβος</lang>.)</F>"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "शरभ",
+            "eid": "16579",
+            "pagenum": 638,
+            "content": "शरभ¦ <i>śarabha</i> <ab>m.</ab> sauterelle; || chameau; || jeune éléphant. || Le <s1 slp1='SaraBa'>Śarabha</s1>, animal fabuleux <lbinfo n='6'/> à huit jambes et habitant les montagnes <lbinfo n='6'/> neigeuses. || <ab>Np.</ab> d'un singe de l'armée <lbinfo n='3'/> de <s1 slp1='rAma'>Rāma</s1>. || <ab>Gr.</ab> <lang n='greek'>ϰάραϐος</lang>."
+        }
     ]
 }

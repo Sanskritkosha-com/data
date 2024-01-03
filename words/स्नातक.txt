@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "ज्येष्ठाश्रमी गृहमेधी गृहस्थः स्नातको गृही ॥ ८०८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "स्नातक",
+            "eid": "30908",
+            "pagenum": 1151,
+            "content": "स्नातकः¦ <b>1</b> A Brāhmaṇa who has performed the ceremony of ablution which has to be performed on his finishing his first Āśrama (that of a Brahmacārin). <b>--2</b> A Brāhmaṇa just returned from the house of his <lbinfo n='precep+tor'/> preceptor and become an initiated householder (गृहस्थ). <b>--3</b> A <lbinfo n='Brā+hmaṇa'/> Brāhmaṇa who is a <i>Bhikṣu</i> (beggar of alms) for any religious object; <ls>Ms. 11. 2.</ls> <b>--4</b> Any man of the first three classes who is an <lbinfo n='initiat+ed'/> initiated householder."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "स्नातक",
+            "eid": "16650",
+            "pagenum": 1082,
+            "content": "स्नातक¦ <i>snāta + ka</i> (<ab>vb.</ab> <i>snā</i>), <ab>m.</ab> A Brāhmaṇa just returned from the mansion of his preceptor, <ls>Man.</ls> 2, 138 (<ab>cf.</ab> <i>snā</i>); an initiated householder, <ls>Lass.</ls> 71, 1; a Brāhmaṇa in his second <i>āśrama</i> (order of life), <ls>Man.</ls> 1, 113; <ls>Hit.</ls> 123, 19. <b> -- <ab>Comp.</ab></b> <i>Vidyā-, Vidyā-vrata-,</i> and <i>Vrata-,</i> <ab>m.</ab> a Brāhmaṇa who has completed his studentship."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "स्नातक",
+            "eid": "19242",
+            "pagenum": 738,
+            "content": "स्नातक¦ <i>snātaka</i> <ab>m.</ab> <i>(snā)</i> maître de maison <lbinfo n='3'/> qui a accompli la cérémonie du bain au terme de ses études."
+        }
     ]
 }

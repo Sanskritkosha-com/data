@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "वेदिता विदुरो विन्दुर्वन्दारुस्त्वभिवादकः ॥ ३४९ ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "विन्दु",
+            "eid": "13403",
+            "pagenum": 860,
+            "content": "विन्दु¦ <i>vindu,</i> <b>I.</b> <ab>i. e.</ab> <i>vid + u,</i> <ab>adj.</ab> <b>1.</b> Intelligent. <b>2.</b> Liberal. <b>II.</b> <ab>m.</ab> <b>1.</b> A drop of any liquid, <ls>Pañc.</ls> 123, 14; <ls>Vikr.</ls> <ab>d.</ab> 80. <b>2.</b> A drop of water, taken as a measure. <b>3.</b> A spot. <b>4.</b> The bite or mark of a tooth. <b>5.</b> A mark of coloured paint on an elephant's face or trunk. <b>6.</b> A dot over a letter representing the <i>Anusvāra.</i> <b>7.</b> The part of the forehead between the eyebrows. <b> -- <ab>Comp.</ab></b> <i>Suvarṇa-</i> (<ab>m.</ab>), Viṣṇu, <ls>Mālat.</ls> 166, 16; the name of a holy place, <ls>Mālat.</ls> 145, 6. <i>Hiraṇya-,</i> <ab>m.</ab> fire, <ls>MBh.</ls> 13, 1697."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "विन्दु",
+            "eid": "13895",
+            "pagenum": 490,
+            "content": "<b>Vindu</b>¦, <ab>n.</ab> of a mountain: <ls>Māy</ls> 〔254.1〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "विन्दु",
+            "eid": "7312",
+            "pagenum": 322,
+            "content": "विन्दु¦ <i>m.</i> gutta. MEGH. 19."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "विन्दु",
+            "eid": "15513",
+            "pagenum": 594,
+            "content": "विन्दु¦ <i>vindu</i> <ab>a.</ab> <i>(vind,</i> ou <i>vid)</i> qui sait [? qui trouve], savant. || Libéral."
+        },
+        {
+            "word": "विन्दु",
+            "eid": "15514",
+            "pagenum": 594,
+            "content": "विन्दु¦ <i>vindu</i> <ab>m.</ab> goutte; || marque, tache; <lbinfo n='4'/> || marque de couleur tracée sur la face ou sur la trompe d'un éléphant; || le signe de l'<s1 slp1='anusvAra'>anusvāra</s1>, <ab>tg.</ab> || Le point qui sépare <lbinfo n='4'/> les deux sourcils.  <P><i>vinducitraka</i> <ab>m.</ab> antilope tachetée.  <P><i>vindujāla</i> <ab>n.</ab> marques de couleur sur la face ou sur la trompe d'un éléphant.  <P><i>vindutantra</i> <ab>m.</ab> dé à jouer.  <P><i>vindurekhaka</i> <ab>m.</ab> <ab>esp.</ab> d'oiseau."
+        }
     ]
 }

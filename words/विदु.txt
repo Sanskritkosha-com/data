@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "कुम्भौ तु शिरसः पिण्डौ कुम्भयोरन्तरं विदुः ॥ १२२६ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "विदु",
+            "eid": "25938",
+            "pagenum": 974,
+            "content": "विदुः¦ <b>1</b> The middle of the <lbinfo n='fron+tal'/> frontal globes on an elephant's forehead (हस्तिकुंभमध्यभागः). <b>--2</b> A hippopotamus."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "विदु",
+            "eid": "13794",
+            "pagenum": 487,
+            "content": "<b>vidu</b>¦, (<b>1</b>) <lex>adj.</lex> (= <lang>Pali</lang> <ab>id.</ab>, <lang>Skt.</lang> vidus-; 〔§ 16.49〕), <i>wise, skillful</i>, commonly as <ab>ep.</ab> of Buddhas and Bodhisattvas; in most texts only in <ab>vss</ab>: <ls>SP</ls> 〔25.4, 5〕; 〔26.5〕; 〔325.4〕 (printed viḍū!); <ls>LV</ls> 〔45.22〕; 〔46.6, 14, 18〕; 〔192.10〕; <ls>Mv</ls> 〔ii.299.8〕; 〔300.7〕; <ls>Suv</ls> 〔42.5〕; <ls>Mmk</ls> 〔132.1〕; 〔436.4〕; <ls>Dbh.g.</ls> 〔4(340).5〕; lokavidu (Buddha) <ls>SP</ls> 〔31.7〕; 〔47.10〕 <ab>etc.</ab>; <ls>Samādh</ls> 〔19.22〕; paramārthavidu <ls>Mv</ls> 〔i.82.10〕 (<ab>vs</ab>); 〔iii.252.6〕 (<ab>vs</ab>); vara-vidu <ls>Mv</ls> 〔i.220.12〕 = 〔ii.22.13〕; vidu-pravara <ls>Sukh</ls> 〔24.10〕; a-vidu, <i>unwise, ignorant</i>, <ls>SP</ls> 〔212.7〕; (<b>2</b>) <lex>f.</lex> Vidu (<ab>v.l.</ab> Vidū), <ab>n. sg.</ab> °uḥ, <ab>n.</ab> of one of the 8 deities of the bodhi-tree: <ls>LV</ls> 〔331.21〕 (prose)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "विदु",
+            "eid": "15406",
+            "pagenum": 590,
+            "content": "विदु¦ <i>vidu</i> et <i>vidū</i> <ab>m.</ab> creux entre les saillies <lbinfo n='4'/> frontales de l'éléphant. || Hippopotame."
+        }
     ]
 }

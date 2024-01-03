@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "जाड्यं मौर्ख्यं विषादोऽवसादः सादो विषण्णता ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "अवसाद",
+            "eid": "4855",
+            "pagenum": 190,
+            "content": "अवसादः¦ <b>1</b> Sinking, fainting, <lbinfo n='sit+ting'/> sitting down; <ls>Ki. 18. 47</ls>; अनवसादः safety, protection; failure, as of the voice. <b>--2</b> Ruin, loss, destruction, decline; पर्यायजयावसादा <ls>Ki. 17. 18</ls>; विपदेति तावदवसादकरी <ls>Ki. 18. 23</ls>,  <lbinfo n='ls:6.+41'/> <ls n='Ki.'>6. 41</ls>, <ls n='Ki.'>3. 38</ls>; <ls>Mv. 2.</ls> <b>--3</b> End, <lbinfo n='termina+tion'/> termination. <b>--4</b> Want of energy, <lbinfo n='exhaus+tion'/> exhaustion, languor, fatigue;  <lbinfo n='kimivAvasAda#karamAtmavatAM'/> किमिवावसादकरमात्मवतां <ls>Ki. 6. 19.</ls> <b>--5</b> (In law) Badness of a cause, defeat, losing (a cause); अलं स्वपक्षावसादशंकया <ls>M. 1.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "अवसाद",
+            "eid": "1208",
+            "pagenum": 59,
+            "content": "अवसाद¦ <i>avasāda,</i> <ab>i. e.</ab> <i>ava-sad-a,</i> <ab>m.</ab> <b>1.</b> Sitting down. <b>2.</b> Exhaustion, <b>3.</b> Lassitude, want of energy. <b> -- <ab>Comp.</ab></b> <i>Nis-,</i> <ab>adj.</ab> cheerful, <ls>Gīt.</ls> 11, 1."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "अवसाद",
+            "eid": "2191",
+            "pagenum": 76,
+            "content": "<b>avasāda</b>¦, <lex>m.</lex> (to <b>avasādayati</b>), <i>abuse</i>: <ls>Mvy</ls> 〔2636〕 = <lang>Tib.</lang> <tib>smad pa</tib>, or <tib>spyo ba</tib>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "अवसाद",
+            "eid": "1657",
+            "pagenum": 56,
+            "content": "अवसाद¦ <i>avasāda</i> <ab>m.</ab> <i>(sad)</i> épuisement; lassitude. || Découragement produit par le doute ou l'insuccès.  <P><i>avasādayāmi</i> <ab>c.</ab> lasser; épuiser; faire périr par épuisement ou peu à peu. || Abattre. <lbinfo n='4'/> || Abaisser moralement."
+        }
     ]
 }

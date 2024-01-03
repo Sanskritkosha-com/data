@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "मेघमाला कालिकाऽपि वार्दलं चापि दुर्दिनम् ।"
         }
+    ],
+    "BEN": [
+        {
+            "word": "वार्दल",
+            "eid": "13066",
+            "pagenum": 838,
+            "content": "वार्दल¦ <i>vār-da + la</i> (<ab>vb.</ab> <i>dā,</i> <ab>cf.</ab> <i>vārida</i>), <ab>n.</ab> A rainy day."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "वार्दल",
+            "eid": "13542",
+            "pagenum": 478,
+            "content": "[<b>vārdala</b>¦, see <b>vardala, °likā</b>.]"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वार्दल",
+            "eid": "15088",
+            "pagenum": 579,
+            "content": "वार्दल¦ <i>vārdala</i> <ab>n.</ab> (<ab>sfx.</ab> <i>la)</i> jour pluvieux. <lbinfo n='6'/> -- <ab>M.</ab> encrier."
+        }
     ]
 }

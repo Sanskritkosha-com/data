@@ -23,5 +23,43 @@
             "synonyms": [],
             "content": "एकेभैकरथास्त्र्यश्वा पत्तिः पञ्चपदातिका ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पत्ति",
+            "eid": "17697",
+            "pagenum": 661,
+            "content": "पत्तिः¦ [पद्-तिन्] <b>1</b> A footman, a foot-soldier; <ls>R. 7. 37.</ls> <b>--2</b> A <lbinfo n='pedes+trian'/> pedestrian. <b>--3</b> A hero. <i>--<ab>f.</ab></i> <b>1</b> The <lbinfo n='small+est'/> smallest division of an army, consisting of one chariot, one elephant; three horsemen and five foot-soldiers. <b>--2</b> Going, walking. <b>--Comp.</b> --कायः <lbinfo n='in+fantry'/> infantry. --गणकः an officer whose business it is to muster the infantry --संहतिः <i><ab>f.</ab></i> a body of infantry, <lbinfo n='in+fantry'/> infantry."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पत्ति",
+            "eid": "8042",
+            "pagenum": 507,
+            "content": "पत्ति¦ <i>patti,</i> <ab>i. e.</ab> <i>pad + ti</i> (probably for <i>tan,</i> see <i>pati</i>), <ab>m.</ab> <b>1.</b> A pedestrian. <b>2.</b> A foot-soldier, <ls>MBh.</ls> 5, 5164. <b>3.</b> The name of a people."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "पत्ति",
+            "eid": "4861",
+            "pagenum": 206,
+            "content": "पत्ति¦ <i>m.</i> (r. पद् <i>ire</i> s. ति) pedes. HIT. 95. 8."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पत्ति",
+            "eid": "10431",
+            "pagenum": 386,
+            "content": "पत्ति¦ <i>patti</i> <ab>m.</ab> (pour <i>padāti)</i> fantassin, piéton."
+        },
+        {
+            "word": "पत्ति",
+            "eid": "10432",
+            "pagenum": 386,
+            "content": "पत्ति¦ <i>patti</i> <ab>f.</ab> <i>(pat;</i> <ab>sfx.</ab> <i>ti)</i> mouvement, marche. || Peloton [composé d'un char, un éléphant, trois chevaux et cinq hommes]."
+        }
     ]
 }

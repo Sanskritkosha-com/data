@@ -23,5 +23,65 @@
             "synonyms": [],
             "content": "पदव्येकपदी पद्या पद्धतिर्वर्त्म वर्तनी ।\nअयनं सरणिर्मार्गोऽध्वा पन्था निगमः सृतिः ॥ ९८३ ॥"
         }
+    ],
+    "ACC": [
+        {
+            "word": "निगम",
+            "eid": "11759",
+            "pagenum": 1,
+            "content": "निगम¦ the fourteenth Pariśiṣṭa of Kātyāyana. W. p. 54. Oxf. 387^a. L. 1800. Ben. 5. NP. V, 64. 146. Quoted by Hemādri."
+        },
+        {
+            "word": "निगम",
+            "eid": "34108",
+            "pagenum": 2,
+            "content": "निगम¦ the fourteenth Pariśiṣṭa of Kātyāyana. Stein 164 (inc.)."
+        },
+        {
+            "word": "निगम",
+            "eid": "40291",
+            "pagenum": 2,
+            "content": "निगम¦ the 14th Pariśiṣṭa of Kātyāyana. Ulwar 154. 192."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "निगम",
+            "eid": "16649",
+            "pagenum": 619,
+            "content": "निगमः¦ <b>1</b> The Veda or Vedic text; साढ्यै साढ्वा साढेति निगमे <ls>P. VI. 3. 113</ls>, <ls n='P.'>VII. 2. 64</ls>; <ls>Māl. 9. 4.</ls> <b>--2</b> Any <lbinfo n='pass+age'/> passage or word quoted from the Vedas, a Vedic sentence; तथापि च निगमो भवति (often found in Nirukta). <b>--3</b> A work auxiliary to, and <lbinfo n='explana+tory'/> explanatory of, the Vedas; <ls>Ms. 4. 19</ls> and <ls>Kull.</ls> thereon. <b>--4</b> A sacred precept, the words of a god or holy man. <b>--5</b> A root (as the source of a word). <b>--6</b> Certainty, assurance. <b>--7</b> Logic. <b>--8</b> Trade, traffic. <b>--9</b> A market, fair. <b>--10</b> A caravan of wandering merchants. <b>--11</b> A road, market-road. <b>--12</b> A city. <b>--13</b> Insertion of the name of a deity into a liturgical formula."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "निगम",
+            "eid": "7419",
+            "pagenum": 471,
+            "content": "निगम¦ <i>ni-gam + a,</i> <ab>m.</ab> <b>1.</b> Holy writ, the Vedas, <ls>Man.</ls> 9, 19. <b>2.</b> A passage (of the Vedas), <ls>Chr.</ls> 9, 45. <b>3.</b> A precept, <ls>Bhāg. P.</ls> 1, 5, 39. <b>4.</b> A merchant, <ls>Rām.</ls> 2, 125, 10 <ls>Gorr.</ls>"
+        }
+    ],
+    "BHS": [
+        {
+            "word": "निगम",
+            "eid": "8224",
+            "pagenum": 294,
+            "content": "<b>nigama</b>¦, <lex>nt.</lex>, a high number: <ls>Gv</ls> 〔134.1〕; <ls>Mvy</ls> 〔7919〕, cited from <ls>Gv</ls>; = <lang>Tib.</lang> <tib>dpag bral</tib>. Equivalent to <b>vigama</b>, <ab>q.v.</ab>"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "निगम",
+            "eid": "4591",
+            "pagenum": 195,
+            "content": "निगम¦ <i>m.</i> (r. गम् praef. नि s. अ) 1) urbs. 2) forum 3) mercatura, mercatus, v. नैगम."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "निगम",
+            "eid": "9748",
+            "pagenum": 361,
+            "content": "निगम¦ <i>nigama</i> <ab>m.</ab> <i>(gam)</i> lieu d'assémblée, <lbinfo n='5'/> marché, foire; || marché central, ville. || Commerce, trafic. || Au <ab>fig.</ab> évidence, <lbinfo n='6'/> vérité démontrée. || L'Ecriture sainte, <lbinfo n='3'/> le <s1 slp1='veda'>Veda</s1>."
+        }
     ]
 }

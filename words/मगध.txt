@@ -23,5 +23,43 @@
             "synonyms": [],
             "content": "प्रत्यग्रथास्त्वहिच्छत्त्राः कीकटा मगधाह्वयाः ॥ ९६० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "मगध",
+            "eid": "22466",
+            "pagenum": 830,
+            "content": "मगधः¦ <b>1</b> <ab>N.</ab> of a country, the southern part of Behar; अस्ति मगधेषु पुष्पपुरी नाम नगरी <ls>Dk. 1</ls>; अगाधसत्त्वो मगधप्रतिष्ठः <ls>R. 6. 21.</ls> <b>--2</b> A bard, minstrel. --धाः (<ab>pl.</ab>) The <lbinfo n='peo+ple'/> people of Magadha, the Magadhas. --धा <b>1</b> The town of the Magadhas. <b>--2</b> Long pepper. <b>--Comp.</b> --ईश्वरः {1} a king of the Magadhas {2} <ab>N.</ab> of <lbinfo n='Pa+rantapa'/> Parantapa; <ls>R. 6. 20.</ls> {3} <ab>N.</ab> of <lbinfo n='Jarā+sandha'/> Jarāsandha. --उद्भवा long pepper. --पुरी the city of Magadha. --लिपिः <i><ab>f.</ab></i> writing or character of the <lbinfo n='Maga+dhas'/> Magadhas."
+        },
+        {
+            "word": "मगध",
+            "eid": "32146",
+            "pagenum": 1195,
+            "content": "मगध¦ The country of the Magadhas or south Behar. Its old capital was गिरिव्रज (or राजगृह) which <lbinfo n='con+sisted'/> consisted of five hills विपुलगिरि, रत्नागिरि, उदयगिरि, शोणगिरि, and वैभार- (or व्याहार-) गिरि. Its next capital was Pātaliputra <ab>q. v.</ab> Magadha was also called कीकट in later literature."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "मगध",
+            "eid": "10793",
+            "pagenum": 673,
+            "content": "मगध¦ <i>magadha,</i> <b>I.</b> <ab>m.</ab> <b>1.</b> The name of a country, <ls>Hit.</ls> 36, 10, <ab>M.M.</ab> <b>2.</b> An inhabitant of that country. <b>3.</b> A bard. <b>II.</b> <ab>f.</ab> <i>dhā,</i> Long pepper."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "मगध",
+            "eid": "5978",
+            "pagenum": 254,
+            "content": "मगध¦ <i>m.</i> nomen regionis <i>«South Behar».</i> Wils."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "मगध",
+            "eid": "12915",
+            "pagenum": 484,
+            "content": "मगध¦ <i>magadha</i> <ab>m.</ab> le Magadha, partie sud du Bihar, cap. Pâtaliputtra; habitant du Magadha. || Barde de famille, panégyriste. <lbinfo n='6'/> -- <ab>F.</ab> [<i>ā</i>] poivre long.  <P><i>magadhyāmi</i> (<ab>dénom.</ab>) être barde de famille; <lbinfo n='6'/> || se faire humblement le panégyriste de <ab>qqn.</ab>"
+        }
     ]
 }

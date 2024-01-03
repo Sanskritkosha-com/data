@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "शोकः शुक्शोचनं खेदः क्रोधो मन्युः क्रुधा रुषा ।\nक्रुत्कोपः प्रतिघो रोषो रुट् चोत्साहः प्रगल्भता ॥ २९९ ॥\nअभियोगोद्यमौ प्रौढिरुद्योगः कियदेतिका ।\nअध्यवसाय ऊर्जोथ वीर्यं सोऽतिशयान्वितः ॥ ३०० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "क्रोध",
+            "eid": "11747",
+            "pagenum": 432,
+            "content": "क्रोधः¦ [क्रुध्-भावे घञ्] <b>1</b> Anger, wrath; कामात्क्रोधोऽभिजायते <ls>Bg. 2. 62</ls>; so  <lbinfo n='kro#DAMDaH'/> क्रोधांधः, क्रोधानलः &c. <b>--2</b> (In <ab>Rhet.</ab>) Anger considered as the feeling which gives rise to the <i>raudra</i> <lbinfo n='sen+timent'/> sentiment. --धा <ab>N.</ab> of a daughter of Dakṣa. <b>--Comp.</b> --इद्ध <i><ab>a.</ab></i> <lbinfo n='inflam+ed'/> inflamed with anger, darting out fire;  <lbinfo n='ls:Ratn.+ 1. 4.'/> <ls>Ratn. 1. 4.</ls> --उज्झित <i><ab>a.</ab></i> free from anger, composed, cool. --कृत् <i><ab>a.</ab></i> angry. (<i>--<ab>m.</ab></i>) the Supreme being. --ज <i><ab>a.</ab></i> proceeding from wrath (as the eight vices; पैशुन्यं साहसं द्रोह ईर्ष्यासूयार्थदूषणं । वाग्दंडजं च पारुष्यं क्रोधजोऽपि गणोष्टकः ॥  <lbinfo n='ls:Ms.+ 7. 48'/> <ls>Ms. 7. 48</ls>). --मूर्च्छित <i><ab>a.</ab></i> overcome or <lbinfo n='in+fatuated'/> infatuated with anger. --वश <i><ab>a.</ab></i> <lbinfo n='pas+sionate'/> passionate, violent. --हन् <i><ab>m.</ab></i> an epithet of Viṣṇu."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "क्रोध",
+            "eid": "3961",
+            "pagenum": 231,
+            "content": "क्रोध¦ <i>krodha,</i> <ab>i. e.</ab> <i>krudh + a,</i> <b>I.</b> <ab>m.</ab> <b>1.</b> Anger, <ls>Man.</ls> 1, 25. <b>2.</b> A proper name, <ls>MBh.</ls> 1, 2543. <b>II.</b> <ab>f.</ab> <i>dhā,</i> A proper name, <ls>MBh.</ls> 1, 2520. <b> -- <ab>Comp.</ab></b> <i>A-,</i> <ab>m.</ab> freedom from wrath, <ls>Man.</ls> 3, 235. <i>Sa-,</i> <ab>adj.</ab>, <ab>f.</ab> <i>dhā,</i> wrathful, <ls>Chr.</ls> 57, 28."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "क्रोध",
+            "eid": "5320",
+            "pagenum": 197,
+            "content": "<b>Krodha</b>¦, <lex>m.</lex> (<lang>Skt.</lang> krodha, personified, <i>wrath</i>), <ls>Mmk</ls> 〔25.26〕, or <b>Krodha-rāja(n)</b>, <ls>Mmk</ls> 〔22.8〕 <lat><ab>et passim</ab></lat>; 〔547.6〕 (°rājā), <ab>ep.</ab> of Yamāntaka; in <ls>Dharmas</ls> 〔11〕 are listed ten personified Krodha, the first of which is Yamāntaka. <ab>Cf.</ab> <b>mahākrodha(-rājan)</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "क्रोध",
+            "eid": "2502",
+            "pagenum": 89,
+            "content": "क्रोध¦ <i>m.</i> (r. क्रुध् irasci, s. अ) ira, iracundia. N. 6. 5."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "क्रोध",
+            "eid": "5284",
+            "pagenum": 193,
+            "content": "क्रोध¦ <i>krodha</i> <ab>m.</ab> <i>(krudh)</i> colère; toute passion <lbinfo n='4'/> dont la colère fait partie.  <P><i>krodhaja</i> <ab>a.</ab> <i>(jan)</i> qui tire son origine de la colère.  <P><i>krodhana</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ana)</i> irascible, emporté. -- <ab>Sf.</ab> femme querelleuse, mégère.  <P><i>krodhamūrchila</i> <ab>a.</ab> <i>(murch)</i> troublé par la colère. <lbinfo n='5'/>  <P><i>krodhayāmi</i> (<ab>c.</ab> de <i>krudh)</i> irriter, mettre en colère.  <P><i>krodhin</i> <ab>a.</ab> <i>(krodhinī</i> <ab>f.</ab>) furieux, irrité."
+        }
     ]
 }

@@ -45,5 +45,57 @@
             "synonyms": [],
             "content": "राजिर्लेखा ततिर्वीथी मालाल्यावलिपङ्क्तयः ।\nधोरणीश्रेण्युभौ तु द्वौ युगलं द्वितयं द्वयम् ॥ १४२३ ॥\nयुगं द्वैतं यमं द्वन्द्वं युग्मं यमलयामले ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "आलि",
+            "eid": "6852",
+            "pagenum": 258,
+            "content": "आलि¦ <i><ab>a.</ab></i> <b>1</b> Useless, idle, <lbinfo n='unmean+ing'/> unmeaning. <b>--2</b> Honest, sincere (विशदाशय). --लिः <b>1</b> A scorpion. <b>--2</b> A bee. --लिः, --ली <i><ab>f.</ab></i> <b>1</b> A female companion or friend (of a woman); निवार्यतामालि किमप्ययं बटुः <ls>Ku. 5. 83</ls>, <ls n='Ku.'>7. 68</ls>; <lbinfo n='Ama+ru'/> <ls>Amaru. 23.</ls> <b>--2</b> A row, range, continuous line; (<ab>cf.</ab> आवलि);  <lbinfo n='toyAMtarBAskarA#lIva'/> तोयांतर्भास्करालीव रेजे मुनिपरंपरा <ls>Ku. 6. 49</ls>; रथ्यालि <ls>Amaru. 89</ls>; खद्योतालि <ls>Me. 81.</ls> <b>--3</b> A line, streak. <b>--4</b> A bridge. <b>--5</b> A dike. <b>--6</b> A line, race, family."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "आलि",
+            "eid": "1713",
+            "pagenum": 88,
+            "content": "आलि¦ <i>āli,</i> <ab>i. e.</ab> <i>ā-lī,</i> <b>I.</b> <ab>m.</ab> A bee, <ls>Pañc.</ls> i. <ab>d.</ab> 203. <b>II.</b> Also <i>ālī,</i> <ab>f.</ab> <b>1.</b> A woman's female friend, <ls>Kumāras.</ls> 5, 83. <b>2.</b> A line, <ls>Amar.</ls> 89; <ls>Pañc.</ls> 203, 6. <b> -- <ab>Comp.</ab></b> <i>Sūtra-ālī,</i> <ab>f.</ab> a necklace."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "आलि",
+            "eid": "2972",
+            "pagenum": 106,
+            "content": "<b>āli</b>¦, <lex>f.</lex> (<lex>m.</lex>? <lex>nom.</lex> āliḥ), (<b>1</b>) <i>small ditch</i> (for water): <ls>Mvy</ls> 〔4177〕 = <lang>Tib.</lang> <tib>yur phran</tib>; <ab>cf.</ab> the <lang>Pali</lang> (and <lang>Skt.</lang> <ab>Lex.</ab>) meaning <i>dike</i>; (<b>2</b>) <i>a-series</i> (<ab>i.e.</ab> a plus āli), name for a series of syllables (chiefly vowels and combinations of a or ā with semivowels), used as a magic formula in <ls>Sādh</ls>, and defined there 〔478.7 ff.〕 <ab>Cf.</ab> <b>kāli</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "आलि",
+            "eid": "1012",
+            "pagenum": 33,
+            "content": "आलि¦ <i>f.</i> 1) linea, series. 2) feminae amica. AM."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आलि",
+            "eid": "2419",
+            "pagenum": 80,
+            "content": "आलि¦ <i>āli</i> <ab>a.</ab> paresseux, inepte. <ab>Cf.</ab> <i>ālasa.</i>"
+        },
+        {
+            "word": "आलि",
+            "eid": "2420",
+            "pagenum": 80,
+            "content": "आलि¦ <i>āli</i> <ab>m.</ab> <i>(ala)</i> scorpion; abeille. <ab>Cf.</ab> <i>alin.</i>"
+        },
+        {
+            "word": "आलि",
+            "eid": "2421",
+            "pagenum": 80,
+            "content": "आलि¦ <i>āli</i> <ab>f.</ab> (syncope d'<i>āvali)</i> confidente, amie, suivante d'une femme. || Ligne, rangée; <lbinfo n='4'/> ligne de démarcation. || Lignée, famille. || Ligne droite, droiture, sincérité."
+        }
     ]
 }

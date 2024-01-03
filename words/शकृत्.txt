@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "पुष्पिका तु लिङ्गमलं विड्विष्ठावस्करः शकृत् ।\nगूथं पुरीषं शमलोच्चारौ वर्चस्कवर्चसी ॥ ६३४ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "शकृत्",
+            "eid": "27526",
+            "pagenum": 1028,
+            "content": "शकृत्¦ <i><ab>n.</ab></i> [शक्-ऋतन् <ls>Uṇ. 4. 58</ls>] Ordure, excrement, especially of <lbinfo n='ani+mals'/> animals. <b>--Comp.</b> --करिः <i><ab>m.</ab></i> <i><ab>f.</ab></i>, --करी a calf; शकृत्करिर्वत्सः <ls>Sk.</ls> --द्वारं the anus. --पिंडः --पिंडकः a ball or lump of dung; शष्पाण्यत्ति प्रकिरति <lbinfo n='SakftpiM#qakAnAmramAtrAn'/> शकृत्पिंडकानाम्रमात्रान् <ls>U. 4. 27.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "शकृत्",
+            "eid": "14366",
+            "pagenum": 926,
+            "content": "शकृत्¦ <i>śakṛt,</i> and सकृत् <i>sakṛt</i> (for original <i>skṛt,</i> from the old form of the <ab>vb.</ab> <i>kṝ</i>), <ab>n.</ab>, the base of some cases is <i>śakan,</i> Fæces, excrement, <ls>Man.</ls> 2, 182. -- <ab>Cf.</ab> <lang n='greek'>σκώρ, σκατός, σκέρ-βολος</lang>; <ab>A.S.</ab> scearn; perhaps <ab>Lat.</ab> stercus and cerda in su-cerda (rather to <i>śṛdh?</i>), etc.; and <ab>Goth.</ab> spai-skuldrs, Spittle."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "शकृत्",
+            "eid": "7704",
+            "pagenum": 342,
+            "content": "शकृत्¦ <i>n.</i> (शकन् v. gr. 205.; fortasse forma redupl. cum श = क, a r. कृत्) excrementum, stercus. (Fortasse gr. <lang n='greek'>ϰόπϱος</lang> e <lang n='greek'>ϰόϰϱος</lang>, lat. <i>stercus, stercor-is</i> fortasse per metath. e <i>secort-is</i> = शकृतस् e शकर्तस्; hib. <i>seachraith</i> «filth, dirt», <i>cac</i> «animal excrement», <i>cacah</i> «dirty, filthy», <i>cacaim</i> «I go to stool», lat. <i>caco</i>, gr. <lang n='greek'>ϰαϰϰάω</lang>.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "शकृत्",
+            "eid": "16493",
+            "pagenum": 631,
+            "content": "शकृत्¦ <i>śakṛt</i> <ab>n.</ab> [autre <ab>th.</ab> <i>śakan,</i> <ab>M§</ab> 112, 1°] excrément, ordure, fumier. || <ab>Gr.</ab> <lang n='greek'>ϰόπρος</lang>; <ab>irl.</ab> seachraith; <ab>lat.</ab> cacare <ab>(?)</ab>.  <P><i>śakṛtkari</i> <ab>m.</ab> [<ab>f.</ab> <i>ī</i>] veau, génisse.  <P><i>śakṛtkāra</i> <ab>a.</ab> <i>(kṛ)</i> qui rend des excréments, qui fait du fumier.  <P><i>śakṛddvāra</i> <ab>n.</ab> <i>(dvāra)</i> anus."
+        }
     ]
 }

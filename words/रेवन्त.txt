@@ -12,5 +12,21 @@
             "synonyms": [],
             "content": "रेवन्तस्त्वर्करेतोजः प्लवगो हयवाहनः ।"
         }
+    ],
+    "BEN": [
+        {
+            "word": "रेवन्त",
+            "eid": "12212",
+            "pagenum": 779,
+            "content": "रेवन्त¦ <i>revant + a,</i> <ab>m.</ab> The fifth Manu of the present Kalpa or period."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "रेवन्त",
+            "eid": "14257",
+            "pagenum": 545,
+            "content": "रेवन्त¦ <i>revanta</i> <ab>m.</ab> <ab>np.</ab> du 5ᵉ <s1 slp1='manu'>Manu</s1> du présent <lbinfo n='4'/> <s1 slp1='kalpa'>kalpa</s1>.  <P><i>revantamanusū</i> <ab>f.</ab> <s1 slp1='saMjYA'>Saṃjñā</s1>, mère du <s1 slp1='manu'>Manu</s1> <s1 slp1='revanta'>Revanta</s1>."
+        }
     ]
 }

@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "शेलुः श्लेष्मातकः पीतसालस्तु प्रियकोऽसनः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "असन",
+            "eid": "5444",
+            "pagenum": 210,
+            "content": "असनं¦ Throwing, discharging, casting; as in इष्वसनं a bow. --नः <ab>N.</ab> of a tree (पीतसाल);  <lbinfo n='nirasanErasanEravfTArTa#tA'/> निरसनैरसनैरवृथार्थता <ls>Śi. 6. 47.</ls> --ना <ab>Ved.</ab> A missile, an arrow. <b>--Comp.</b> --पर्णी <ab>N.</ab> of a tree (सातल)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "असन",
+            "eid": "1290",
+            "pagenum": 65,
+            "content": "असन¦ 2. <i>as + ana.</i> <b>I.</b> <ab>n.</ab> Discharging (as arrows), <ls>Chr.</ls> 297, 21 = <ls>Rigv.</ls> i. 112, 21. <b>II.</b> <ab>m.</ab> The name of a tree, Terminalia alata tomentosa, <ls>Rām.</ls> 2, 94, 8. <b> -- <ab>Comp.</ab></b> <i>Iṣu-,</i> <ab>n.</ab> a bow, <ls>Ragh.</ls> 11, 37. <i>Śara-,</i> <ab>n.</ab> a bow."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "असन",
+            "eid": "1867",
+            "pagenum": 62,
+            "content": "असन¦ <i>asana</i> <ab>m.</ab> terminalia alata tomentosa, <lbinfo n='5'/> <ab>bot.</ab> <ab>Cf.</ab> <i>aśana.</i>  <P><i>asanaparṇī</i> <ab>f.</ab> marsilea quadrifolia, <ab>bot.</ab>"
+        },
+        {
+            "word": "असन",
+            "eid": "1868",
+            "pagenum": 62,
+            "content": "असन¦ <i>asana</i> <ab>n.</ab> <i>(as</i> 4) action de jeter."
+        }
     ]
 }

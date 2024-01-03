@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "फलं तु सस्यं तच्छुष्कं वानमामं शलाटु च ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वान",
+            "eid": "25426",
+            "pagenum": 959,
+            "content": "वान¦ <i><ab>a.</ab></i> <b>1</b> Blown. <b>--2</b> Dried(by wind) dried up. <b>--3</b> Belonging to a forest. --नं <b>1</b> Dry or dried fruit (<i><ab>m.</ab></i> also). <b>--2</b> Blowing. <b>--3</b> <lbinfo n='Liv+ing'/> Living. <b>--4</b> Rolling, moving, (as of waters &c.). <b>--5</b> A perfume, <lbinfo n='fra+grance'/> fragrance. <b>--6</b> A number of groves or thickets. <b>--7</b> Weaving. <b>--8</b> A mat of straw. <b>--9</b> A hole in the wall of a house."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वान",
+            "eid": "13015",
+            "pagenum": 835,
+            "content": "वान¦ <b>A.</b> <ab>i. e.</ab> <i>vā + na,</i> <b>I.</b> <ab>adj.</ab> Dry, <ls>Nalod.</ls> 2, 26. <b>II.</b> <ab>m.</ab>, <ab>f.</ab> <i>nā,</i> and <ab>n.</ab> Dry fruit. <b>III.</b> <ab>n.</ab> <b>1.</b> Moving. <b>2.</b> A heavy sea. <b>3.</b> A mat of straw. <b>4.</b> Living. <b>5.</b> A perfume. <b>B.</b> <ab>n.</ab> A hole in the wall of a house. <b><ab>C.</ab></b> <ab>i. e.</ab> <i>vana +</i> <i>a,</i> <b>I.</b> <ab>adj.</ab> Relating to a wood, a house. <b>II.</b> <ab>n.</ab> A number of woods, <ls>Nalod.</ls> 3, 6."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "वान",
+            "eid": "13503",
+            "pagenum": 476,
+            "content": "<b>vāna</b>¦, <lex>nt.</lex> (<lang>Skt.</lang> <ab>Lex.</ab>, <i>woven stuff, mat</i>), <ab>acc.</ab> to <lang>Tib.</lang> <i>fibre made from bark</i>: <ls>Mvy</ls> 〔5878〕 = <lang>Tib.</lang> <tib>thag ran</tib>. Follows sūtram; followed by kācalindikam. <ab>Cf.</ab> <b>vāṇa</b>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वान",
+            "eid": "15024",
+            "pagenum": 576,
+            "content": "वान¦ <i>vāna</i> (<ab>pp.</ab> de <i>vā)</i> battu ou séché par le vent; sec. -- <ab>S.</ab> <ab>m.</ab> <ab>f.</ab> <ab>n.</ab> fruit sec. -- <ab>S.</ab> <ab>n.</ab> mouvement produit par le vent; || houle, grosse mer; || barre ou mascaret des fleuves de l'Inde. || Parfum dans l'air. || Ouverture, <lbinfo n='8'/> trou [dans le mur d'une maison]."
+        },
+        {
+            "word": "वान",
+            "eid": "15025",
+            "pagenum": 576,
+            "content": "वान¦ <i>vāna</i> <ab>a.</ab> <i>(vana)</i> des bois, de la forêt.  <P><i>vānaprastha</i> <ab>m.</ab> <i>(pra; sthā)</i> anachorète, ermite. || Bassia latifolia; butea frondosa; <ab>bot.</ab>"
+        }
     ]
 }

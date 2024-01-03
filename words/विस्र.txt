@@ -23,5 +23,29 @@
             "synonyms": [],
             "content": "आमगन्धि तु विस्रं स्याद्वर्णाः श्वेतादिका अमी ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "विस्र",
+            "eid": "26734",
+            "pagenum": 1002,
+            "content": "विस्रं¦ A smell like that of raw meat. <b>--Comp.</b> --गंधिः yellow orpiment."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "विस्र",
+            "eid": "13786",
+            "pagenum": 882,
+            "content": "विस्र¦ <i>visra,</i> <ab>n.</ab> A smell like that of raw meant, <ls>Śāk.</ls> 74, 10 (<ab>Prākṛ.</ab>)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "विस्र",
+            "eid": "15936",
+            "pagenum": 609,
+            "content": "विस्र¦ <i>visra</i> <ab>n.</ab> odeur de viande crue.  <P><i>visragandhi</i> <ab>m.</ab> orpiment jaune."
+        }
     ]
 }

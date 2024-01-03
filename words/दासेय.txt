@@ -12,5 +12,21 @@
             "synonyms": [],
             "content": "दास्या दासेरदासेयौ नाटेरस्तु नटीसुतः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "दासेय",
+            "eid": "15406",
+            "pagenum": 564,
+            "content": "दासेयः¦ The son of a female slave."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "दासेय",
+            "eid": "8659",
+            "pagenum": 319,
+            "content": "दासेय¦ <i>dāseya</i> <ab>a.</ab> (<ab>sfx.</ab> <i>eya)</i> enfant d'esclave. <lbinfo n='6'/> -- <ab>S.</ab> <ab>m.</ab> esclave. || Pêcheur, <ab>cf.</ab> <i>dāśa.</i>"
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "योद्धारश्च भटा योधाः सेनारक्षास्तु सैनिकाः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "योद्धृ",
+            "eid": "23885",
+            "pagenum": 898,
+            "content": "योद्धृ¦ <i><ab>m.</ab></i> [युध्-तृच्] A warrior, combatant."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "योद्धृ",
+            "eid": "11865",
+            "pagenum": 750,
+            "content": "योद्धृ¦ <i>yoddhṛ,</i> <ab>i. e.</ab> <i>yudh + tṛ,</i> <ab>m.</ab> A warrior, <ls>Pañc.</ls> 218, 7."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "योद्धृ",
+            "eid": "6554",
+            "pagenum": 283,
+            "content": "योद्धृ¦ <i>m.</i> (r. युध् s. तृ) pugnator. N. 12. 51."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "योद्धृ",
+            "eid": "13887",
+            "pagenum": 529,
+            "content": "योद्धृ¦ <i>yoddhṛ</i> <ab>m.</ab> <i>(yudh;</i> <ab>sfx.</ab> <i>tṛ)</i> combattant, <lbinfo n='5'/> guerrier."
+        }
     ]
 }

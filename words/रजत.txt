@@ -23,5 +23,45 @@
             "synonyms": [],
             "content": "स्याद्रूप्यं कलधौतताररजतश्वेतानि दुर्वर्णकं\nखर्जूरं च हिमांशुहंसकुमुदाभिख्यं सुवर्णं पुनः ।\nस्वर्णं हेमहिरण्यहाटकवसून्यष्टापदं काञ्चनं\nकल्याणं कनकं महारजनरैगाङ्गेयरुक्माण्यपि ॥ १०४३ ॥\nकलधौतलोहोत्तमवह्निबीजान्यपि गारुडं गैरिकजातरूपे ।\nतपनीयचामीकरचन्द्रभर्मार्जुननिष्ककार्तस्वरकर्बुराणि ॥ १०४४ ॥\nजाम्बूनदं शातकुम्भं रजतं भूरि भूत्तमम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "रजत",
+            "eid": "23957",
+            "pagenum": 901,
+            "content": "रजत¦ <i><ab>a.</ab></i> [रंज् अतच् नलोपः  <lbinfo n='ls:Uṇ. 3.+ 111'/> <ls>Uṇ. 3. 111</ls>] <b>1</b> Silvery, made of silver. <b>--2</b> Whitish. --तं <b>1</b> Silver; शुक्तौ <lbinfo n='rajata#midamiti'/> रजतमिदमिति ज्ञानं भ्रमः; <ls>Ki. 5. 41</ls>;  <lbinfo n='ls:N. 22.+ 52.'/> <ls>N. 22. 52.</ls> <b>--2</b> Gold. <b>--3</b> A pearl-ornament or necklace. <b>--4</b> Blood. <b>--5</b> Ivory. <b>--6</b> An asterism, a constellation. <b>--7</b> A mountain. <b>--Comp.</b> --अद्रिः <ab>N.</ab> of Kailāsa. --कूटः <ab>N.</ab> of a peak of the Malaya mountain. --द्युतिः <ab>N.</ab> of Hanumat. --प्रस्थः <ab>N.</ab> of Kailāsa."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "रजत",
+            "eid": "11924",
+            "pagenum": 754,
+            "content": "रजत¦ <i>rajata</i> (<ab>cf.</ab> <i>arjuna, rañj,</i> and <i>rāj</i>), <b>I.</b> <ab>adj.</ab> White. <b>II.</b> <ab>n.</ab> <b>1.</b> White, the colour. <b>2.</b> Silver, <ls>Kir.</ls> 5, 41; <ls>Rājat.</ls> 5, 482. <b>3.</b> Gold. <b>4.</b> Ivory. <b>5.</b> Blood. <b>6.</b> A necklace. <b>7.</b> The name of the mountain Kailāsa. <b>8.</b> An asterism. <b> -- <ab>Comp.</ab></b> <i>Mahā-,</i> <ab>n.</ab> gold."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "रजत",
+            "eid": "12544",
+            "pagenum": 449,
+            "content": "<b>rajata</b>¦, <lex>nt.</lex>, some kind of disease, in lists of diseases: <ls>Mvy</ls> 〔9540〕; <ls>Bhīk</ls> 〔17a.1〕 (rajabhaṃ, doubtless corruption for °taṃ); <ls>MSV</ls> 〔iv.68.17〕. <ab>Acc.</ab> to <lang>Tib.</lang> on <ls>Mvy</ls> = <tib>glog pa</tib>, which <ls>Jä.</ls> equates with <tib>lhog pa</tib> (which <lang>Tib.</lang> gives for <b>lohaliṅga</b>, <ab>q.v.</ab>), <i>a large ulcer, sore</i>, or <i>carbuncle</i>. <lang>Chin.</lang> a skin disease."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "रजत",
+            "eid": "6590",
+            "pagenum": 284,
+            "content": "रजत¦ (r. रञ्ज् ejectâ nasali vel राज् correpto आ, suff. अत) 1) <i>Adj.</i> albus. 2) <i>n.</i> argentum. (Cf. lat. <i>argentum</i>; gr. <lang n='greek'>ἀϱγός, ἄϱγυϱος</lang>; hib. <i>airgiod</i> argentum; ut videtur, litteris transpositis e <i>ragentum</i> etc.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "रजत",
+            "eid": "13946",
+            "pagenum": 532,
+            "content": "रजत¦ <i>rajata</i> <ab>a.</ab> <i>(rañj</i> ou <i>rāj)</i> blanc. -- <ab>S.</ab> <ab>n.</ab> argent; || ivoire. || Or. || Sang. || Collier. <lbinfo n='5'/> || Constellation. || <ab>Np.</ab> d'un lac, d'une montagne. || <ab>Lat.</ab> argentum; <ab>gr.</ab> <lang n='greek'>ἀργός, ἄργυρος</lang>.   <P><i>rajatadyuti</i> <ab>m.</ab> <s1 slp1='hanumat'>Hanumat</s1>.  <P><i>rajataprastha</i> <ab>m.</ab> le mont <s1 slp1='kElAsa'>Kailāsa</s1>.  <P><i>rajatādri</i> <ab>m.</ab> <i>(adri)</i> <ab>mms.</ab>"
+        }
     ]
 }

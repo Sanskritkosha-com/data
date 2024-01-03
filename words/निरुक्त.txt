@@ -23,5 +23,49 @@
             "synonyms": [],
             "content": "प्रस्तावस्तु प्रकरणं निरुक्तं पदभञ्जनम् ॥ २५४ ॥"
         }
+    ],
+    "ACC": [
+        {
+            "word": "निरुक्त",
+            "eid": "11877",
+            "pagenum": 1,
+            "content": "निरुक्त¦ a <symbol n='C.'>C.</symbol> on the Naighaṇṭuka, by Yāska. Jones 411. IO. 770. 1296. 1378 1751. 1752. 1979. W. p. 16. 17. Oxf. 384^a. 385. 396^b. Paris (D 136). L. 908. 1300. K. 8. Kh. 59. B. 1, 204. 206. Ben. 2. 3. 5. Bik. 132. 133. Haug 30. Rādh 1. NW. 4. 16. Oudh III, 6. 8. XIII, 32. NP. II, 8. VIII, 4. Burnell 2^b. Bh. 6. P. 4. Bhk. 8. Oppert 6748. 7071. 8189. II, 535. 4345. 4684. 6945. 7432. Rice 28. W. 1503. 1504. Peters. 1, 116. 2, 167. 171. 3, 385. <HI1><symbol n='C.'>C.</symbol> Oppert II, 4310. 5751. 7433. Peters. 2, 168. <HI1><symbol n='C.'>C.</symbol> by Ugra. Paris (D 136^a). Ben. 1. 2. NW. 16. Proceed. ASB. 1869, 140. <HI1><symbol n='C.'>C.</symbol> by Durga. IO. 206. 357. 358. Oxf. 361^a. 384^b. 392^b. 396^b. B. 1, 206. NP. VI, 8. Burnell 3^a. P. 4. Poona II, 149--157. Oppert II, 9467. BP. 258. <HI1><symbol n='C.'>C.</symbol> by Skandasvāmin. K. 8. Quoted by Devarāja p. 4. 83. <HI1>Niruktabhāṣyavyākhyā. B. 1, 206."
+        },
+        {
+            "word": "निरुक्त",
+            "eid": "34138",
+            "pagenum": 2,
+            "content": "निरुक्त¦ by Yāska. Cs. 506 (pūrvārdha). 507 (pūrvārdha). 508 (uttarārdha). 509 (13 and 14). 510 (inc.). 513. Hz. 419. Peters. 4, 2. Stein 38. <HI1><symbol n='C.'>C.</symbol> by Durga. Cs. 511 (pūrvārdha). 512 (7). 514. 517 (7). Lund II. Rgb. 46 (inc.). Stein 38. 39 (inc.)."
+        },
+        {
+            "word": "निरुक्त",
+            "eid": "44418",
+            "pagenum": 3,
+            "content": "निरुक्त¦ by Yāska. AK 62 (inc. 8--12). 61 (13). AS p. 92 (both Pūrvārdha). p. 93 (Uttarārdha). Lz. 37. 38 (both 7--12). 39 (fragments of 7--12). Peters. 5, 24 (Uttarārdha). 25 (Uttarārdha). <HI1>C. Peters. 6, 28 (Uttarārdha). <HI1>C. by Durga. AS p. 93 (2 MSS., the second inc.)."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "निरुक्त",
+            "eid": "16891",
+            "pagenum": 631,
+            "content": "निरुक्त¦ <i><ab>a.</ab></i> <b>1</b> Expressed, <lbinfo n='pronounc+ed'/> pronounced, explained, defined. <b>--2</b> Loud, distinct. --क्तं <b>1</b> Explanation, <lbinfo n='deri+vation'/> derivation, etymological interpretation. <b>--2</b> <ab>N.</ab> of one of the six Vedāṅgas, that which contains glossarial <lbinfo n='expla+nation'/> explanation of obscure words, especially those occurring in the Vedas; नाम च धातुजमाह निरुक्ते <ls>Nir.</ls> <b>--3</b> <ab>N.</ab> of a celebrated commentary on the <lbinfo n='Ni+ghaṇṭus'/> Nighaṇṭus by Yāska. <b>--Comp.</b> --कारः <ab>N.</ab> of the sage Yāska. --जः one of the twelve kinds of sons allowed by the old Hindu law (= क्षेत्रज <ab>q. v.</ab>)."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "निरुक्त",
+            "eid": "8339",
+            "pagenum": 299,
+            "content": "(<b>nirukta</b>¦ = <lang>Skt.</lang>, <i>explained</i>, in: likhāpayen naraḥ kaścit su-niruktaṃ ca pustake <ls>SP</ls> 〔342.5〕 (<ab>vs</ab>), <i>a man shall cause</i> (this sūtra) <i>to be written and well explained</i> (commented upon) <i>in a book</i>; <ls>Burnouf</ls> and <ls>Kern</ls> strangely <i><fr>renferme</fr>, have it well put together</i>.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "निरुक्त",
+            "eid": "9928",
+            "pagenum": 367,
+            "content": "निरुक्त¦ <i>nirukta</i> <ab>a.</ab> (<ab>pp.</ab> de <i>vac)</i> inusité, qu'on ne dit plus. -- <ab>S.</ab> <ab>n.</ab> [un des <s1 slp1='vedANga'>Vedāṅga</s1>s] <lbinfo n='4'/> commentaire sur les termes obscurs du <s1 slp1='veda'>Veda</s1>.  <P><i>nirukti</i> <ab>f.</ab> <ab>mms.</ab> || Explication de ce qu'il peut y avoir d'obscur dans la Loi, <ab>Bd.</ab>"
+        }
     ]
 }

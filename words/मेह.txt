@@ -25,5 +25,37 @@
             "synonyms": [],
             "content": "मेहः प्रमेहवदायुर्वेदिकोऽपि चिकित्सके ॥ ३४ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "मेह",
+            "eid": "23505",
+            "pagenum": 879,
+            "content": "मेहः¦ [मिइ --घञ्] <b>1</b> Making water, passing urine. <b>--2</b> Urine. <b>--3</b> A urinary disease. <b>--4</b> A ram. <b>--5</b> A Goat. <b>--Comp.</b> --घ्नी Turmeric."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "मेह",
+            "eid": "11570",
+            "pagenum": 726,
+            "content": "मेह¦ <i>meha,</i> <ab>i. e.</ab> <i>mih + a,</i> <ab>m.</ab> <b>1.</b> Making water, <ls>Man.</ls> 4, 52. <b>2.</b> Urine. <b>3.</b> A ram."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "मेह",
+            "eid": "6382",
+            "pagenum": 272,
+            "content": "मेह¦ <i>m.</i> (r. मिह् s. अ) 1) urina. 2) hircus. (Cf. मेढ्र, मेष, gr. <lang n='greek'>μοιχός</lang>, v. मिह्.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "मेह",
+            "eid": "13621",
+            "pagenum": 517,
+            "content": "मेह¦ <i>meha</i> <ab>m.</ab> <i>(mih)</i> urine, action d'uriner; <lbinfo n='4'/> || maladie des voies urinaires. || Bélier. <lbinfo n='5'/>  <P><i>mehana</i> <ab>n.</ab> action d'uriner. || Urine. || Urètre.  <P><i>mehayāmi</i> <ab>c.</ab> de <i>mih.</i>"
+        }
     ]
 }

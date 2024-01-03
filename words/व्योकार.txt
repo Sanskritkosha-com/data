@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "व्योकारः कर्मारो लोहकारः कूटं त्वयोघनः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "व्योकार",
+            "eid": "27461",
+            "pagenum": 1025,
+            "content": "व्योकारः¦ A blacksmith."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "व्योकार",
+            "eid": "14307",
+            "pagenum": 921,
+            "content": "व्योकार¦ <i>vyo-kāra</i> (<i>vyo</i> is perhaps an imitative sound), <ab>m.</ab> A blacksmith."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "व्योकार",
+            "eid": "16444",
+            "pagenum": 629,
+            "content": "व्योकार¦ <i>vyokāra</i> <ab>m.</ab> forgeron."
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "शालयः कलमाद्याः स्युः कलमस्तु कलामकः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कलम",
+            "eid": "10473",
+            "pagenum": 386,
+            "content": "कलमः¦ [<ls>Uṇ. 4. 84</ls>] <b>1</b> Rice which is sown in May-June and ripens in December-January; सुतन पांवोः कलमस्य गोपिकां <ls>Ki. 4. 9</ls>, <ls n='Ki. 4.'>34</ls>; <ls>Ku. 5. 47</ls>; <ls>R. 4. 37.</ls> <b>--2</b> A pen, a reed for writing with. <b>--3</b> A thief. <b>--4</b> A rogue, rascal."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कलम",
+            "eid": "3080",
+            "pagenum": 167,
+            "content": "कलम¦ <i>kalama,</i> <ab>m.</ab> A kind of rice <ls>Rām.</ls> 5, 74, 11. -- <ab>Cf.</ab> <lang n='greek'>κάλαμος</lang>; <ab>Lat.</ab> calamus; <ab>O.H.G.</ab> halm; <ab>A.S.</ab> haelme."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कलम",
+            "eid": "4562",
+            "pagenum": 171,
+            "content": "(<b>kalama</b>¦, <lex>m.</lex>, = <lang>Skt.</lang> <ab>Lex.</ab> and late <ab>lit.</ab>, <ls>Schmidt, Nachtr.</ls>; <ab>cf.</ab> <b>karama</b>, and <b>kalamā</b>; <i>reed</i> (<i>-pen</i>, for writing): <ls>Mvy</ls> 〔5900〕 = lekhanī; <ls>Mironov</ls> kalāmaṃ.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कलम",
+            "eid": "4154",
+            "pagenum": 148,
+            "content": "कलम¦ <i>kalama</i> <ab>m.</ab> <i>(kal</i> 10) roseau, calame <lbinfo n='4'/> pour écrire. || Riz blane des eaux profondes; <lbinfo n='7'/> riz semé en mai ou juin et recolté en décembre ou janvier. || Voleur, fripon. -- <ab>Gr.</ab> <lang n='greek'>ϰάλαμος</lang>; <ab>lat.</ab> calamus, culmus."
+        }
     ]
 }

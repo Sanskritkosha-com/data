@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "खण्डेऽर्धशकले भित्तं नेमशल्कदलानि च ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "भित्त",
+            "eid": "22175",
+            "pagenum": 817,
+            "content": "भित्तं¦ [भिद्-क्त नि° तस्य न नः] <b>1</b> A part, portion. <b>--2</b> A fragment, bit. <b>--3</b> A wall, partition."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "भित्त",
+            "eid": "10574",
+            "pagenum": 653,
+            "content": "भित्त¦ <i>bhitta,</i> <ab>i. e.</ab> <i>bhid + ta,</i> <ab>n.</ab> A part."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "भित्त",
+            "eid": "12746",
+            "pagenum": 476,
+            "content": "भित्त¦ <i>bhitta</i> <ab>n.</ab> <i>(bhid;</i> <ab>sfx.</ab> <i>ta)</i> portion, fragment. <lbinfo n='5'/> || <ab>Angl.</ab> bit."
+        }
     ]
 }

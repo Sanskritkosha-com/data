@@ -26,5 +26,45 @@
             "synonyms": [],
             "content": "कण्डूः कण्डूयनं खर्जूः कण्डूयाथ क्षतं व्रणः ॥ ४६४ ॥\nअरुरीर्मं क्षणतुश्च रूढव्रणपदं किणः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "व्रण",
+            "eid": "27470",
+            "pagenum": 1026,
+            "content": "व्रणः --णं¦ [व्रण्-अच्] <b>1</b> A wound, sore, bruise, hurt; <ls>R. 12. 55.</ls> <b>--2</b> A boil, an ulcer; <ls>U. 2. 26.</ls> <b>--3</b> A fracture, scar. <b>--Comp.</b> --अरिः <lbinfo n='gum+myrrh'/> gummyrrh. --कृत् <i><ab>a.</ab></i> {1} wounding. {2} corroding. (<i>--<ab>m.</ab></i>) the marking-nut tree. --विरोपण <i><ab>a.</ab></i> sore-healing;  <lbinfo n='ls:Ś.+ 4. 13.'/> <ls>Ś. 4. 13.</ls> --शोधनं the cleansing or dressing of a wound. --हः the <lbinfo n='castor+oil'/> castoroil plant."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "व्रण",
+            "eid": "14316",
+            "pagenum": 922,
+            "content": "व्रण¦ <i>vraṇa,</i> <ab>n.</ab> <b>1.</b> A wound, <ls>Pañc.</ls> 170, 25. <b>2.</b> A fracture, <ls>Man.</ls> 2, 47. <b>3.</b> A boil, a tumour, <ls>Hit.</ls> ii. <ab>d.</ab> 101. <b> --</b> <b><ab>Comp.</ab></b> <i>A-,</i> <ab>adj.</ab> 1. without any fracture, <ls>Man.</ls> 2, 47. 2. without a wound or perceivable injury, <ls>Suśr.</ls> 2, 311, 13(?). <i>A-kṛta-,</i> <ab>m.</ab> a proper name, <ls>Chr.</ls> 13, 11. <i>Nis-,</i> <ab>adj.</ab> 1. unwounded, <ls>MBh.</ls> 7, 2742. 2. without a fracture, <ls>Man.</ls> 6, 53. <i>Vi-stārita-bahu-,</i> (<ab>vb.</ab> <i>stṛ</i>), <ab>adj.</ab>, <ab>f.</ab> <i>ṇā,</i> having made many wounds, <ls>Pañc.</ls> 171, 3. -- <ab>Cf.</ab> <ab>Lat.</ab> vulnus; <lang n='greek'>οὐλή</lang> (<ab>i. e.</ab> <lang n='greek'>ϝολνη</lang>), <lang n='greek'>ἄπ-ελος</lang>."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "व्रण",
+            "eid": "14747",
+            "pagenum": 520,
+            "content": "(<b>vraṇa</b>¦, <lex>m.</lex> or <lex>nt.</lex>, in <lang>Skt.</lang> <i>wound</i>, also <i>crack, flaw, defect, fault</i>: ātmānaṃ sa-vraṇaṃ jñātvā <ls>SP</ls> 〔39.1〕, <i>knowing themselves to be at fault, defective</i>, so <lang>Tib.</lang> <tib>raṅ gi skyon</tib> (usually = doṣa) <tib>śes te</tib>, <i>of self fault knowing</i>; (cetopraṇidhānaṃ … akalmāṣam) a-vraṇam <ls>Mv</ls> 〔i.239.6〕, <i>pure and flawless</i>; nava-vraṇa-mukha, <i>the openings of the nine slits</i> of the body, as in <lang>Skt.</lang> navadvāra, <ab>cf.</ab> <lang>Pali</lang> <ls>Milp.</ls> 〔74.15〕 navadvāro mahāvaṇo, of the body: (kāyo …) navavraṇamukha-romakūpa-srāvī <ls>Śikṣ</ls> 〔230.11〕; prasravan … kāyaḥ … navavraṇamukhair 〔232.1〕.)"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "व्रण",
+            "eid": "7682",
+            "pagenum": 340,
+            "content": "व्रण¦ <i>m. n.</i> vulnus. (<i>V.</i> व्रण् et cf. व्रश्च्.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "व्रण",
+            "eid": "16452",
+            "pagenum": 629,
+            "content": "व्रण¦ <i>vraṇa</i> <ab>m.</ab> <ab>n.</ab> blessure. || <ab>Lith.</ab> rôna; <ab>slav.</ab> rana; <ab>lat.</ab> vulnus.  <P><i>vraṇakṛt</i> <ab>a.</ab> <i>(kṛ)</i> qui blesse. -- <ab>S.</ab> <ab>m.</ab> anacardium <lbinfo n='7'/> semecarpus, <ab>bot.</ab>  <P><i>vraṇadviṣ</i> <ab>m.</ab> siphonanthus indica.  <P><i>vraṇaha</i> <ab>m.</ab> <i>(han)</i> ricin, <ab>bot.</ab> -- <ab>F.</ab> menispermum <lbinfo n='7'/> glabrum, <ab>bot.</ab>"
+        }
     ]
 }

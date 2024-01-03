@@ -12,5 +12,55 @@
             "synonyms": [],
             "content": "स्नुः प्रस्थः सानुरश्मा तु पाषाणः प्रस्तरो दृषत् ॥ १०३५ ॥\nग्रावा शिलोपलो गण्डशैलाः स्थूलोपलाश्च्युताः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "स्नु",
+            "eid": "30921",
+            "pagenum": 1152,
+            "content": "स्नु¦ {c2c} <ab>P.</ab> (स्नौति, स्नुत) <b>1</b> To drip, trickle, fall in drops, distil, drop, ooze or run out, leak out. <b>--2</b> To flow, stream."
+        },
+        {
+            "word": "स्नु",
+            "eid": "30923",
+            "pagenum": 1152,
+            "content": "स्नु¦ <i><ab>m.</ab></i> <i><ab>n.</ab></i> <b>1</b> Table-land. <b>--2</b> Top, surface (in general). (This word has no forms for the first five <lbinfo n='in+flections'/> inflections and is optionally <lbinfo n='substi+tuted'/> substituted for सानु after <ab>acc.</ab> dual)."
+        },
+        {
+            "word": "स्नु",
+            "eid": "30924",
+            "pagenum": 1152,
+            "content": "स्नु¦ <i><ab>f.</ab></i> A sinew, tendon, muscle."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "स्नु",
+            "eid": "16662",
+            "pagenum": 1083,
+            "content": "1. स्नु¦ <i>SNU,</i> ii. 2, <ab>Par.</ab> To distill, to flow. -- With प्र <i>pra,</i> To pour forth, <ls>Rām.</ls> 2, 64, 55, Seramp. <i>prasnuta,</i> Dropping, <ls>Rājat.</ls> 5, 76 (<ab>cf.</ab> s. v. <i>stana</i>). -- <ab>Cf.</ab> Æol. <lang n='greek'>ναύω, νάω</lang>; <ab>Goth.</ab> snivan; <ab>A.S.</ab> sniwan; <ab>O.H.G.</ab> snittan; <ab>A.S.</ab> snytan; probably also <ab>Goth.</ab> sniumjan, sniumundo; <ab>O.H.G.</ab> sniumi <ab>A.S.</ab> sneome."
+        },
+        {
+            "word": "स्नु",
+            "eid": "16663",
+            "pagenum": 1083,
+            "content": "2. स्नु,¦ <i>snu,</i> probably <i>so + nu</i> (<ab>cf.</ab> <i>sānu</i>), <ab>m.</ab> and <ab>n.</ab> Table-land."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "स्नु",
+            "eid": "8688",
+            "pagenum": 389,
+            "content": "स्नु¦ 2. <i>P.</i> स्नौमि (gr. 343.). Fluere, stillare. स्नु stillans <i>in</i> <i>fine comp.</i> RIGV. 16. 2. (Cf. स्रु, स्ना, goth. <i>SNU</i> ire, <i>sniva, snau, snivum</i> pro <i>snu-um; snaivs</i> nix, germ. vet. <i>sneo, snê</i> id., gen. <i>snewe-s</i>; lith. <i>snē4ga-s</i> id., mutato <i>w</i> in g, v. gr. comp. 19.; slav. <i>snjeg</i> id.; gr. <lang n='greek'>νέω, νεύ-σω</lang> e <lang n='greek'>σνέϜω, σνεύ-σω</lang>; hib. <i>snuadhaim</i> «I flow, stream», <i>snuadh</i> «blood», <i>sneachd</i> nix; germ. vet. <i>SNUZ</i> emungere, adjecto <i>z</i>, v. gr. comp. p. 109^<i>b</i>). 1.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "स्नु",
+            "eid": "19252",
+            "pagenum": 738,
+            "content": "*स्नु¦ <i>snu.</i> <i>snaumi</i> 2; <ab>p.</ab> <i>suṣṇāva;</i> <ab>f2.</ab> <i>snaviṣyāmi;</i> <ab>a1.</ab> <i>asnāviṣam.</i> <b><ab>Ps.</ab></b> réfléchi: <i>snave;</i> <ab>a1.</ab> <i>asnoṣi.</i> || <b><ab>Ps.</ab></b> <ab>impers.</ab> <i>snūyate,</i> <ab>etc.</ab> Couler, dégoutter; <ab>gr.</ab> <lang n='greek'>νάω, νέω</lang>."
+        }
     ]
 }

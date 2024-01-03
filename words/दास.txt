@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "दरिद्रो दुर्विधो दुःस्थो दुर्गतो निःस्वकीकटौ ।\nअकिंचनोऽधिपस्त्वीशो नेता परिवृढोऽधिभूः ॥ ३५८ ॥\nपतीन्द्रस्वामिनाथार्याः प्रभुर्भर्तेश्वरो विभुः ।\nईशितेनो नायकश्च नियोज्यः परिचारकः ॥ ३५९ ॥\nडिङ्गरः किंकरो भृत्यश्चेटो गोप्यः पराचितः ।\nदासः प्रेष्यः परिस्कन्दो भुजिष्यपरिकर्मिणौ ॥ ३६० ॥\nपरान्नः परिपिण्डादः परजातः परैधितः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "दास",
+            "eid": "15403",
+            "pagenum": 564,
+            "content": "दासः¦ <b>1</b> A slave, servant in general; गृहकर्मदासाः <ls>Bh. 1. 1</ls>; गृह°, कर्म° &c. <b>--2</b> A fisherman. <b>--3</b> A Śūdra, a man of the fourth caste. <b>--4</b> A knowing man, one who knows the universal spirit. <b>--5</b> <ab>N.</ab> of Vṛtrāsura. <b>--6</b> A demon. <b>--7</b> A savage, <lbinfo n='barba+rian'/> barbarian (<ab>opp.</ab> आर्य). <b>--8</b> A worthy <lbinfo n='re+cipient'/> recipient (दानपात्र). <b>--9</b> A word added to the name of a Śūdra; <ab>cf.</ab> गुप्त. <b>--Comp.</b> --अनुदासः ‘a slave of a slave’, the humblest of the <lbinfo n='ser+vants'/> servants; (sometimes used by the speaker as a mark of humility). --जनः a servant or slave;  <lbinfo n='kamaparADa#lavaM'/> कमपराधलवं मयि पश्यसि त्यजसि मानिनि <lbinfo n='dAsaja#naM'/> दासजनं यतः <ls>V. 4. 29</ls>; (दासस्यकुलं is used as a compound in the sense of ‘the mob or the common people’). --भावः servitude."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "दास",
+            "eid": "6444",
+            "pagenum": 397,
+            "content": "दास¦ <i>dāsa,</i> <ab>i. e.</ab> probably <i>dam + sa,</i> <b>I.</b> <ab>m.</ab> A slave, a servant, <ls>Man.</ls> 4, 253; 8, 416. <b>II.</b> <ab>f.</ab> <i>sī,</i> A female slave, a servant-maid, <ls>Man.</ls> 9, 48. <ab>Cf.</ab> <i>dāśa.</i> <b> --</b> <b><ab>Comp.</ab></b> <i>A-,</i> <ab>m.</ab> not being a slave, <ls>Man.</ls> 10, 32. <i>Daṇḍa-,</i> <ab>m.</ab> one enslaved by punishment, <ls>Man.</ls> 8, 415. <i>Dāsī-,</i> <ab>n.</ab> <ab>sing.</ab> and <ab>m.</ab> <ab>pl.</ab> male and female slaves, <ls>MBh.</ls> 13, 2950; 2, 2510. <i>Bhakta-</i> (<ab>vb.</ab>  <i>bhaj</i>), <ab>m.</ab> a slave maintained in consideration of service, <ls>Man.</ls> 8, 415. <i>Śiva-,</i> <ab>m.</ab> a proper name."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "दास",
+            "eid": "4057",
+            "pagenum": 167,
+            "content": "दास¦ <i>m.</i> (r. दास् dare s. अ) famulus. H. 1. 2. (Sic gr. <lang n='greek'>δοῦλος</lang> a dando, porrigendo nominatum esse videtur.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "दास",
+            "eid": "8652",
+            "pagenum": 318,
+            "content": "दास¦ <i>dāsa</i> <ab>m.</ab> <ab>Vd.</ab> <s1 slp1='dasyu'>Dasyu</s1>, homme de race non-âryenne, ennemi des <s1 slp1='arya'>Arya</s1>s. || Esclave; <lbinfo n='6'/> serviteur; || homme de la 4ᵉ caste, <s1 slp1='SUdra'>śūdra</s1>. -- <ab>F.</ab> <i>dāsī</i> femme d'un <s1 slp1='dasyu'>Dasyu</s1>. || Femme esclave; servante; <s1 slp1='SUdrA'>śūdrā</s1>.  <P><i>dāsatva</i> <ab>n.</ab> (<ab>sfx.</ab> <i>tva)</i> esclavage; domesticité. <lbinfo n='7'/>"
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "कपालकर्परौ तुल्यौ पृष्ठस्यास्थ्नि कशेरुका ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कपाल",
+            "eid": "10256",
+            "pagenum": 377,
+            "content": "कपालः, --लं¦ [कं शिरो जलं वा <lbinfo n='pAlaya#ti'/> पालयति] <b>1</b> The skull, skull-bone;  <lbinfo n='cUqApIqa#kapAlasaMkulagalanmaMdAkinIvArayaH'/> चूडापीडकपालसंकुलगलन्मंदाकिनीवारयः  <lbinfo n='ls:Māl.+ 1. 2'/> <ls>Māl. 1. 2</ls>; रुद्रो येन कपालपाणिपुटके भिक्षाटनं कारितः <ls>Bh. 2. 95.</ls> <b>--2</b> A piece of a broken jar, potsherd; कपालेन <lbinfo n='BikzA#rTI'/> भिक्षार्थी <ls>Ms. 8. 93.</ls> <b>--3</b> A multitude, <lbinfo n='col+lection'/> collection. <b>--4</b> A beggar's bowl;  <lbinfo n='ls:Ms. 6.+ 44.'/> <ls>Ms. 6. 44.</ls> <b>--5</b> A cup, jar in general;  <lbinfo n='paMcaka#pAla'/> पंचकपाल. <b>--6</b> A cover or lid. <b>--7</b> A treaty of peace on equal terms. --लं <b>1</b> The shell of an egg. <b>--2</b> The cotyla of the leg of a man, any flat bone. <b>--3</b> A kind of leprosy. --ली A beggar's bowl. [<ab>cf.</ab> <ab>L.</ab> <i>caput</i>; <ab>Gr.</ab> <i>kephale</i>]. <b>--Comp.</b> --नालिका a sort of pin or spindle for winding cotton &c. --पाणिः --भृत्, --मालिन्, --शिरस् <i><ab>m.</ab></i> epithets of Śiva. --मालिनी <ab>N.</ab> of Durgā. --संधिः a peace on equal terms, <ls>H. 4. 100.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कपाल",
+            "eid": "2915",
+            "pagenum": 157,
+            "content": "कपाल¦ <i>kapāla</i> (probably for <i>*kar-</i> <i>pāla;</i> <ab>cf.</ab> <i>karpara</i>), <b>I.</b> <ab>m.</ab>, <ab>f.</ab> <i>lī,</i> An earthen water-pot, especially of the religious mendicants, <ls>Man.</ls> 6, 44; <ls>Bhartṛ.</ls> 3, 24; of beggars in general, <ls>Daśak.</ls> in <ls>Chr.</ls> 194, 1. <b>II.</b> <ab>m.</ab> and <ab>n.</ab> <b>1.</b> Either half of a water-jar, <ls>Bhāṣāp.</ls> 10. <b>2.</b> The skull, <ls>MBh.</ls> 14, 273. <b>III.</b> <ab>m.</ab> <b>1.</b> A potsherd. <b>2.</b> Either half of an egg, <ls>Kathās.</ls> 2, 15. <b>3.</b> The glene, <ls>Suśr.</ls> 1, 265, 8. <b>4.</b> A kind of leprosy, <ls>Suśr.</ls> 1, 268, 1."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कपाल",
+            "eid": "1868",
+            "pagenum": 65,
+            "content": "कपाल¦ <i>m. n.</i> cranium (Gr. <lang n='greek'>ϰεϕαλή</lang>, lat. <i>caput</i>, goth <i>hau-</i> <i>bith</i>, Th. <i>haupida</i>, nostrum <i>Haupt</i>)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कपाल",
+            "eid": "3962",
+            "pagenum": 139,
+            "content": "कपाल¦ <i>kapāla</i> <ab>m.</ab> <ab>n.</ab> crâne, tête. || Partie d'une cruche à eau, têt. || Assemblage; réunion; <lbinfo n='5'/> collection. || Sorte de lèpre. -- <ab>G.</ab> <lang n='greek'>ϰεφαλή</lang>; <ab>lat.</ab> caput; <ab>germ.</ab> haupt.  <P><i>kapālanālikā</i> <ab>f.</ab> sorte de fuseau pour retordre <lbinfo n='6'/> le coton, le fil, <ab>etc.</ab>  <P><i>kapālabhṛt</i> <ab>m.</ab> <i>(bhṛ)</i> <s1 slp1='Siva'>Śiva</s1> <s1 slp1='mahAdeva'>Mahādeva</s1> [qui porte une guirlande de têtes de morts].  <P><i>kapālin</i> <ab>m.</ab> <ab>mms.</ab> -- <i>kapālinī</i> <ab>f.</ab> <s1 slp1='durgA'>Durgā</s1> épouse de <s1 slp1='Siva'>Śiva</s1>."
+        }
     ]
 }

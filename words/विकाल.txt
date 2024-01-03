@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "दिनावसानमुत्सूरो विकालसबली अपि ।\nसायं संध्या तु पितृसूस्त्रिसंध्यं तूपवैणवम् ॥ १४० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "विकाल",
+            "eid": "25634",
+            "pagenum": 965,
+            "content": "विकालः, विकालकः¦ Evening, <lbinfo n='even+ing'/> evening twilight, the close of day."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "विकाल",
+            "eid": "13172",
+            "pagenum": 845,
+            "content": "विकाल¦ <i>vi-kāla,</i> <ab>m.</ab> <b>1.</b> Twilight, <ls>Pañc.</ls> 258, 9. <b>2.</b> Afternoon (? <ab>cf.</ab> <i>vai-</i> <i>kālika</i>)."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "विकाल",
+            "eid": "13612",
+            "pagenum": 480,
+            "content": "<b>vikāla, °ra</b>¦ (<lex>m.</lex>; = <lang>Pali</lang> <ab>id.</ab>; in <lang>Skt.</lang> <i>evening</i>, so also <lang>Pali</lang> and <lang>BHS</lang>), <i>wrong time</i>: paradāre prasakto (<ab>v.l.</ab> °te) tatra kāle vā vikāle vā gacchati (<ab>mss.</ab> °nti) <ls>Mv</ls> 〔i.243.18〕, <i>in season and out of season</i>; °la-caryā (<ab>cf.</ab> <lang>Pali</lang> °la-cariyā), <i>walking abroad at night</i> (so <lang>Tib.</lang>, <tib>mtshan mo ḥphyan pa</tib>) <ls>Mvy</ls> 〔2507〕 (<lang>Pali</lang> <ab>acc.</ab> to <ls>Childers</ls>, <i>going on the monkʼs begging rounds in the afternoon</i>); one of the six <b>apāyasthānāni</b> (bhogānām); <b>vikāla-bhojana</b> (<lex>nt.</lex>; = <lang>Pali</lang> <ab>id.</ab>), or with <ls>Senart</ls> and <ab>mss.</ab> <b>vikāra°</b> (〔§ 2.49〕), <i>eating at the wrong time</i>, or <i>eating at night</i> or <i>after noon</i>, °bhojanāt prativirato <ls>Mv</ls> 〔i.326.18〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "विकाल",
+            "eid": "7201",
+            "pagenum": 318,
+            "content": "विकाल¦ <i>m.</i> (<i>KARM.</i> e <i>Praep.</i> वि et काल tempus) crepusculum. SA. 5. 82."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "विकाल",
+            "eid": "15200",
+            "pagenum": 582,
+            "content": "विकाल¦ <i>vikāla</i> <ab>m.</ab> <i>(kāla)</i> crépuscule.  <P><i>vikālaka</i> <ab>m.</ab> <ab>mms.</ab> -- <ab>F.</ab> [<i>ikā</i>] sorte de clepsydre."
+        }
     ]
 }

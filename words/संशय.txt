@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "संदेहद्वापरारेका विचिकित्सा तु संशयः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "संशय",
+            "eid": "28688",
+            "pagenum": 1071,
+            "content": "संशयः¦ <b>1</b> Doubt, uncertainty, <lbinfo n='ir+resolution'/> irresolution, hesitation; मनस्तु मे <lbinfo n='saMSa#yameva'/> संशयमेव गाहते <ls>Ku. 5. 46</ls>; त्वदन्यः <lbinfo n='saMSaya#syAsya'/> संशयस्यास्य छेता न ह्युपपद्यते <ls>Bg. 6. 36.</ls> <b>--2</b> Misgiving, suspicion. <b>--3</b> Doubt or indecision (in Nyāya), one of the 16 categories mentioned in the Nyāya philosophy;  <lbinfo n='ekaDarprikavirudDa#BAvAmAvaprakArakaM'/> एकधर्प्रिकविरुद्धभावामावप्रकारकं ज्ञानं संशयः; it is also regarded as one of the two kinds of अयथार्थज्ञान <b>--4</b> Danger, peril, risk: न संशयमनारुह्य नरो भद्राणि पश्यति  <lbinfo n='ls:H.+ 1. 7'/> <ls>H. 1. 7</ls>; याता पुतः संशयमन्यथैव  <lbinfo n='ls:Māl. 10.+ 13'/> <ls>Māl. 10. 13</ls>; <ls>Ki. 13. 16</ls>, <ls>Ve. 6. 1.</ls> <b>--5</b> <lbinfo n='Pos+sibility'/> Possibility. <b>--Comp.</b> --आत्मन् <i><ab>a.</ab></i> <lbinfo n='doubt+ing'/> doubting, sceptical. --आपन्न, --उपेत, --स्थ <i><ab>a.</ab></i> doubtful, uncertain, irresolute. --गत <i><ab>a.</ab></i> fallen into danger; <ls>Ś. 6.</ls> --छेदः solution of a doubt, decision, --छेदिन् <i><ab>a.</ab></i> clearing all doubt, <lbinfo n='deci+sive'/> decisive; <ls>Ś. 3.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "संशय",
+            "eid": "15215",
+            "pagenum": 984,
+            "content": "संशय¦ <i>saṃśaya,</i> <ab>i. e.</ab> <i>sam-śī + a,</i> <ab>m.</ab> <b>1.</b> Doubt, <ls>Hit.</ls> pr. <ab>d.</ab> 10, <ab>M.M.</ab>; uncertainty; very often with <i>na,</i> to be sure, <ls>Pañc.</ls> i. <ab>d.</ab> 256. <b>2.</b> Possibility, <ls>Hit.</ls> ii. <ab>d.</ab> 160. <b>3.</b> Danger, <ls>Rām.</ls> 3, 51, 13. <b> --</b> <b><ab>Comp.</ab></b> <i>A-,</i> 1. <ab>m.</ab> absence of doubt, to be sure, <ls>Rām.</ls> 5, 23, 25. 2. <i>°yam,</i> <ab>adv.</ab> undoubtedly, <ls>Pañc.</ls> i. <ab>d.</ab> 406. <i>Artha-,</i> <ab>adj.</ab> one whose solvency is doubtful, Daśak. in <ls>Chr.</ls> 181, 2. <i>Nis-,</i> <ab>adj.</ab> 1. doubt less, <ls>Brāhmaṇav.</ls> 2, 30. 2. resolute, <ls>MBh.</ls> 5, 7080. 3. <i>°yam,</i> <ab>adv.</ab> undoubtedly, certainly, <ls>MBh.</ls> 3, 1243. <i>Prāṇa-,</i> <ab>m.</ab> danger of life, <ls>Pañc.</ls> 130, 5. <i>Vi-saṃśaya + m,</i> <ab>adv.</ab> undoubtedly, <ls>Pañc.</ls> ii. <ab>d.</ab> 119. <i>Sa-,</i> <ab>adj.</ab> doubtful."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "संशय",
+            "eid": "15442",
+            "pagenum": 542,
+            "content": "<b>saṃśaya</b>¦, <lex>nt.</lex> (regularly <lex>m.</lex>), <i>doubt</i>: dharma-°yaṃ (<ab>n. sg.</ab>) chinnaṃ <ls>Mv</ls> 〔i.247.15〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "संशय",
+            "eid": "8125",
+            "pagenum": 362,
+            "content": "संशय¦ <i>m.</i> (r. शी praef. सम् s. अ) dubium. H. 10. 15. 16."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "संशय",
+            "eid": "18275",
+            "pagenum": 703,
+            "content": "संशय¦ <i>saṃśaya</i> <ab>m.</ab> <i>(śī)</i> doute.  <P><i>saṃśayātman</i> <ab>a.</ab> <i>(ātman)</i> qui doute, livré au doute, sceptique.  <P><i>saṃśayālu</i> <ab>a.</ab> (<ab>sfx.</ab> <i>ālu)</i> <ab>mms.</ab>  <P><i>saṃśayitṛ</i> <ab>a.</ab> (<ab>sfx.</ab> <i>tṛ)</i> douteur, sceptique.  <P><i>saṃśaye</i> <i>(śī)</i> être douteux; être dans le doute. || Languir, <ab>Vd.</ab>"
+        }
     ]
 }

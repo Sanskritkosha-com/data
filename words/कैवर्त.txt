@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "धीवरे दाशकैवर्तौ बडिशं मत्स्यवेधनम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कैवर्त",
+            "eid": "11529",
+            "pagenum": 425,
+            "content": "कैवर्तः¦ [के जले वर्तते वृत्-अच्; केवर्तः; ततः स्वार्थे अण् <ls>Tv.</ls>] A fisherman;  <lbinfo n='mano#BUH'/> मनोभूः कैवर्तः क्षिपति परितस्त्वां प्रति मुहुः (तनूजालीजालं) <ls>Śānti. 3. 16</ls>;  <lbinfo n='ls:Ms. 8.+ 260'/> <ls>Ms. 8. 260</ls>; (as to his descent see  <lbinfo n='ls:Ms.+ 10. 34'/> <ls>Ms. 10. 34</ls>)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कैवर्त",
+            "eid": "3803",
+            "pagenum": 220,
+            "content": "कैवर्त¦ <i>kaivarta,</i> <ab>m.</ab> <b>1.</b> A fisherman, <ls>Man.</ls> 8, 260. <b>2.</b> A mixed tribe; the son of a Niṣāda by an Āyogavī woman, <ls>Man.</ls> 10, 34."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कैवर्त",
+            "eid": "5208",
+            "pagenum": 193,
+            "content": "<b>kaivarta</b>¦, <lex>m.</lex>, some member (officer?) of a shipʼs crew; in <ls>Av</ls> 〔i.200.5〕 and 〔ii.61.9〕 named with <b>āhāra</b>, nāvika, and karṇadhāra, in 〔ii.61.9〕 constituting five sorts of members of the crew (the fifth, not named in text, may be <b>raṇadhara</b> of <ls>Mvy</ls> 〔3854〕); essentially the same list is found in <ls>Mvy</ls> 〔3850—55〕, kaivarta being named in 〔3855〕; here <lang>Jap.</lang> and alternatively <lang>Tib.</lang> and <lang>Chin.</lang> interpret by <i>fisherman</i> (as in <lang>Skt.</lang>), but the first <lang>Tib.</lang> rendering is <tib>rgyal chen</tib>, normally = mahārāja; <ab>prob.</ab> a shipʼs officer."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कैवर्त",
+            "eid": "2430",
+            "pagenum": 85,
+            "content": "कैवर्त¦ <i>m.</i> (a केवर्त s. अ) piscator. AM.; HIT. 114. 1."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कैवर्त",
+            "eid": "5102",
+            "pagenum": 186,
+            "content": "कैवर्त¦ <i>kaivarta</i> <ab>m.</ab> <i>(ka</i> eau; <i>vṛt)</i> pêcheur; <ab>cf.</ab> <i>kevarta.</i>  <P><i>kaivartamusta</i> <ab>n.</ab> <i>kaivartamustaka</i> <ab>n.</ab>, et <i>kaivartimustaka</i> <ab>n.</ab> cyperus rotundus ou souchet tuberculeux, <ab>bot.</ab>"
+        }
     ]
 }

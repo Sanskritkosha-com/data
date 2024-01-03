@@ -34,5 +34,45 @@
             "synonyms": [],
             "content": "कृत्रिमं तु विषं चारं गरश्चोपविषं च तत् ॥ १३१४ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "चार",
+            "eid": "13256",
+            "pagenum": 490,
+            "content": "चारः¦ [चर एव अण्] <b>1</b> Going, walking, gait, wandering about; मंडलचारशीघ्रः <ls>V. 5. 2</ls>; क्रीडाशैले यदि च विचरेत् <lbinfo n='pAdacAre#Ra'/> पादचारेण गौरी <ls>Me. 60</ls> walk on foot. <b>--2</b> Motion, course, progression;  <lbinfo n='maMgalacA#ra'/> मंगलचार; शनिचार, राहु° &c. <b>--3</b> A spy, scout, secret emissary; <ls>Ms. 7. 184</ls>; <ls n='Ms.'>9. 261</ls>; see चारचक्षुस् below. <b>--4</b> Performing, practising. <b>--5</b> A prison. <b>--6</b> A bond, fetter. --रं An artificial poison. <b>--Comp.</b> --अंतरितः a spy. --ईक्षणः, --चक्षुस् <i><ab>m.</ab></i> ‘using spies as eyes’, a king (or a statesman) who employs spies and sees through their <lbinfo n='me+dium'/> medium; चारचक्षुर्महीपतिः <ls>Ms. 9. 256</ls>; <ab>cf.</ab> <ls>Kāmandaka</ls>: --गावः पश्यंति गंधेन वेदैः पश्यंति च द्विजाः । चारैः पश्यंति <lbinfo n='rAjAna#ScakzurByAmitare'/> राजानश्चक्षुर्भ्यामितरे जनाः ॥ also <ls>Rām.</ls>:  <lbinfo n='--yasmA#tpaSyanti'/> --यस्मात्पश्यन्ति दूरस्थाः सर्वानर्थान्नराधिपाः । <lbinfo n='cA#reRa'/> चारेण तस्मादच्यंते राजानश्चारचक्षुषः ॥ <lbinfo n='ca#Ra'/> --चण, --चंचु <i><ab>a.</ab></i> graceful in gait, of <lbinfo n='grace+ful'/> graceful carriage. --ज्या the sine of the ascensional difference. --पथः a place where two roads meet. --भटः a valorous man, warrior. --भटी courage. --वायुः summer-air, zephyr."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "चार",
+            "eid": "4950",
+            "pagenum": 301,
+            "content": "चार¦ <i>cāra,</i> <ab>i. e.</ab> <i>car + a,</i> <ab>m.</ab> <b>1.</b> A spy, <ls>Rājat.</ls> 5, 81. <b>2.</b> Going, motion, <ls>Vikr.</ls> <ab>d.</ab> 140. <b>3.</b> Course, <ls>Rām.</ls> 2, 66, 23. <b>4.</b> Occupation with, <ls>MBh.</ls> 5, 1410. <b> -- <ab>Comp.</ab></b> <i>Pāda-,</i> <ab>m.</ab> 1. going on foot. 2. walking, <ls>Megh.</ls> 61. <i>Saha-,</i> <ab>m.</ab> the concomitance of the major and middle term, <ls>Bhāṣāp.</ls> 136."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "चार",
+            "eid": "6205",
+            "pagenum": 228,
+            "content": "<b>cāra</b>¦ (<lex>m.</lex>; <lang>Ap.</lang> and <ls>Deśīn.</ls> <ab>id.</ab>, also <lang>Skt.</lang> <ab>Lex.</ab>; = <lang>Skt.</lang> cāraka, in <ls>Kauṭ. Arth.</ls> as well as <ls>Daśak.</ls>, <ls>BR</ls>), <i>prison</i>: cāra-pālānām ājñā dattā … (etān … cārake baddhvā sthāpayata) <ls>Divy</ls> 〔565.19 f.〕 (prose) <i>to the prison-guards a command was given</i> (<ab>cf.</ab> cāraka-pālavad <ls>Śikṣ</ls> 〔231.5〕)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "चार",
+            "eid": "3149",
+            "pagenum": 123,
+            "content": "चार¦ <i>m.</i> (r. चर् s. अ) 1) actio eundi. 2) explorator, emissarius. HIT. 88. 11. 3) carcer. (Cf. lat. <i>carcer.</i>)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "चार",
+            "eid": "6537",
+            "pagenum": 243,
+            "content": "चार¦ <i>cāra</i> <ab>m.</ab> <i>(car)</i> action d'aller, d'aller çà et là, de rôder, de voyager. || Action de lier, d'attacher, d'enchaîner. || Emissaire, espion. || Prison, lieu de détention. || L'arbre <lbinfo n='3'/> nommé <i>priyāla.</i> -- <ab>S.</ab> <ab>n.</ab> poison factice."
+        }
     ]
 }

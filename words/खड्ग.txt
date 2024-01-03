@@ -23,5 +23,45 @@
             "synonyms": [],
             "content": "खड्गी वाध्रीणसः खड्गो गण्डकोऽथ किरः किरिः ।\nभूदारः सूकरः कोलो वराहः क्रोडपोत्रिणौ ॥ १२८७ ॥\nघोणी घृष्टिः स्तब्धरोमा दंष्ट्री किट्यास्यलाङ्गलौ ।\nआखनिकः शिरोमर्मा स्थूलनासो बहुप्रजः ॥ १२८८ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "खड्ग",
+            "eid": "12052",
+            "pagenum": 441,
+            "content": "खड्गः¦ [खड्-भेदने गन् <ls>Uṇ. 1. 121</ls>] <b>1</b> A sword; न हि खड्गो विजानाति <lbinfo n='karma#kAraM'/> कर्मकारं स्वकारणं <ls>Udb.</ls>; खड्गं परामृश्य &c. <b>--2</b> The horn of a rhinoceros. <b>--3</b> A rhinoceros; <ls>R. 9. 62</ls>;  <lbinfo n='ls:Ms. 3.+ 272'/> <ls>Ms. 3. 272</ls>, <ls n='Ms.'>5. 18.</ls> --ड्गं Iron. <b>--Comp.</b> --आघातः a sword-cut. --आधारः a sheath, scabbard. --आमिषं a <lbinfo n='buf+falo'/> buffalo's flesh. --आह्वः a rhinoceros. --कोशः a scabbard. --धरः a <lbinfo n='swords+man'/> swordsman. --धेनुः, --धेनुका {1} a small sword. {2} a female rhinoceros. --पत्रं the blade of a sword. (--त्रः) a tree in hell having swords for leaves; <ab>cf.</ab> असिपत्र. --पाणि <i><ab>a.</ab></i> sword in hand. --पात्रं a vessel made of buffalo's horns. --पिधानं, --पिधानकं a scabbard. --पुत्रिका a knife, small sword. --प्रहारः a sword-cut. --फलं a sword-blade. --बंधः a kind of <lbinfo n='arti+ficial'/> artificial composition, the words being arranged in the form of a sword; see <ls>K. P. 9</ls> <i>ad loc.</i>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "खड्ग",
+            "eid": "4168",
+            "pagenum": 243,
+            "content": "खड्ग¦ <i>khaḍga</i> (probably from <i>kṣad,</i> q. v.; <ab>cf.</ab> <i>khañj</i> and <lang n='greek'>ϕάσγανον</lang>) <ab>m.</ab> <b>1.</b> A sword, <ls>Rām.</ls> 1, 1, 41. <b>2.</b> A rhinoceros, <ls>Man.</ls> 3, 272. <b> -- <ab>Comp.</ab></b> <i>Kūṭa-,</i> <ab>m.</ab> a sword-cane, <ls>Rām.</ls> 6, 80, 4. <i>Sa-,</i> <ab>adj.</ab>, <ab>f.</ab> <i>gā,</i> with a sword, <ls>Rājat.</ls> 5, 385."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "खड्ग",
+            "eid": "5435",
+            "pagenum": 202,
+            "content": "<b>khaḍga</b>¦, (<b>1</b>) <lex>nt.</lex>, a high number (<ab>cf.</ab> <b>khaḍgin</b>): <ls>Mmk</ls> 〔262.15〕 adhikā daśa tare (?) tasya (<ab>sc.</ab> vivāhasya, <ab>cf.</ab> line 14) khaḍgam ity āhu vāṇijāḥ; 〔343.14〕 daśārbudā nirbudaḥ uktaḥ taddaśaṃ khaḍgam iṣyate; (<b>2</b>) <lex>m.</lex>, <ab>n.</ab> of a mountain: <ls>Māy</ls> 〔254.6〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "खड्ग",
+            "eid": "2650",
+            "pagenum": 96,
+            "content": "खड्ग¦ <i>m.</i> 1) rhinoceros. RAGH. 9. 62. 2) rhinocerotis cornu. 3) ensis. N. 10. 18."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "खड्ग",
+            "eid": "5497",
+            "pagenum": 201,
+            "content": "खड्ग¦ <i>khaḍga</i> <ab>m.</ab> glaive, poignard, sabre; couteau de sacrificateur. || Corne du rhinocéros; <lbinfo n='6'/> || rhinocéros. -- <ab>S.</ab> <ab>n.</ab> fer.  <P><i>khaḍgakoṣa</i> <ab>m.</ab> fourreau, étui de couteau ou de sabre. || Scirpus maximus, <ab>bot.</ab>  <P><i>khaḍgaṭa</i> <ab>m.</ab> saccharum spontaneum, <ab>bot.</ab>  <P><i>khaḍgadṛh</i> <ab>a.</ab> qui a une forte épée.  <P><i>khaḍgadhenu</i> <ab>f.</ab> petit couteau. || Femelle de rhinocéros.  <P><i>khaḍgapatra</i> <ab>m.</ab> <ab>esp.</ab> de plante grimpante.  <P><i>khaḍgapidhāna</i> <ab>n.</ab> <i>(pi</i> pour <i>api; dhā)</i> fourreau, <lbinfo n='5'/> étui de couteau ou de glaive.  <P><i>khaḍgarīta</i> <ab>m.</ab> bouclier. || Ascète qui s'exerce à passer ses pieds sur le tranchant d'un glaive rougi au feu."
+        }
     ]
 }

@@ -20,5 +20,35 @@
             "synonyms": [],
             "content": "श्रीदः सितोदरकुहेशसखाः पिशाचकीच्छावसुस्त्रिशिर ऐलबिलैकपिङ्गाः ।\nपौलस्त्यवैश्रवणरत्नकराः कुबेरयक्षौ नृधर्मधनदौ नरवाहनश्च ॥ १८९ ॥\nकैलासौका यक्षधननिधिकिंपुरुषेश्वराः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कुह",
+            "eid": "11310",
+            "pagenum": 415,
+            "content": "कुहः¦ <b>1</b> Kubera, the god of riches. <b>--2</b> A rogue, cheat."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कुह",
+            "eid": "5087",
+            "pagenum": 189,
+            "content": "<b>kuha</b>¦, <lex>adv.</lex> (so <lang>Pkt.</lang> <ab>id.</ab>, <ls>Saptaśatakam, ed. Weber</ls>, 〔507〕; more usual <lang>Pkt.</lang> kahaṃ, kaha), <i>how?</i>: <ls>Mv</ls> 〔iii.264.14〕 (prose) taṃ kuha (<ab>mss.</ab>; <ls>Senart</ls> <ab>em.</ab> kuhaṃ!) nāma saṃbhuṇiṣyasi (<ab>mss.</ab> °ti, <ab>em.</ab> <ls>Senart</ls>), <i>how will you get that?</i> (or perhaps with °ti of <ab>mss.</ab>, <i>how will that be got?</i>)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कुह",
+            "eid": "4942",
+            "pagenum": 177,
+            "content": "कुह¦ <i>kuha</i> <ab>adv.</ab> <ab>vd.</ab> pour <i>kutra.</i>"
+        },
+        {
+            "word": "कुह",
+            "eid": "4943",
+            "pagenum": 177,
+            "content": "कुह¦ <i>kuha</i> <ab>m.</ab> surnom de <s1 slp1='kuvera'>Kuvera</s1>."
+        }
     ]
 }

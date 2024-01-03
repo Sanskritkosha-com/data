@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "पार्श्वं समीपं सविधं ससीमाभ्याशं सवेशान्तिकसंनिकर्षः ।\nसदेशमभ्यग्रसनीडसंनिधानान्युपान्तं निकटोपकण्ठे ॥ १४५० ॥\nसंनिकृष्टसमर्यादाभ्यर्णान्यासन्नसंनिधी ।"
         }
+    ],
+    "BEN": [
+        {
+            "word": "अन्तिक",
+            "eid": "544",
+            "pagenum": 28,
+            "content": "अन्तिक¦ <i>anti + ka</i> (from the <ab>ved.</ab> anti = <lang n='greek'>ἀντί</lang>, <ab>cf.</ab> <lang n='greek'>ἄντα, ἄντην</lang>; <ab>Lat.</ab> ante, <ab>Goth.</ab> and, e. g. in and-hafjan, to answer; <ab>N.H.G.</ab> ant-, ent-, e. g. in ant-worten, ent-gegnen), <ab>n.</ab> Vicinity, Rājat, 5, 57. -- <ab>abl.</ab> <i>kāt.</i> Near, with <ab>acc.</ab> <ls>Rām.</ls> 3, 9, 11. From, with <ab>gen.</ab> <ls>Man.</ls> 9, 174. -- <ab>loc.</ab> <i>ke.</i> Close to, <ls>Nal.</ls> 1, 25. In presence of, <ls>Man.</ls> 2, 202. <b> -- <ab>Comp.</ab></b> <i>Keśa-,</i> <ab>i. e.</ab> <i>keśānta</i> <i>+ ika,</i> reaching to the hair, <ls>Man.</ls> 2, 46. <i>Grahaṇa-,</i> <ab>i. e.</ab> <i>grahaṇānta + ika,</i> lasting till the comprehension, <ls>Man.</ls> 3, 1. <i>ja-</i> <i>nāntikam,</i> <ab>i. e.</ab> <i>jana-antika + m,</i> <ab>adv.</ab> whispering, speaking aside, <ls>Śāk.</ls> 13, 12."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "अन्तिक",
+            "eid": "1172",
+            "pagenum": 40,
+            "content": "<b>-antika</b>¦, <lex>adj.</lex> (from anta; = <lang>Pali</lang> <ab>id.</ab>), <i>ending in …</i>: abhisamayāntika, <i>ending in</i> <b>abhisamaya</b>, <ab>q.v.</ab> (1): °kaṃ kuśalamūlam <ls>Mvy</ls> 〔1208〕; °kaḥ (without noun, context not clear; <ab>sc.</ab> mārgaḥ?) <ls>Mvy</ls> 〔6891〕; <i>belonging to, related to, connected with, occasioned by</i>, (prakramaṇa-, <ab>etc.</ab>; <ab>corresp.</ab> to <lang>Pali</lang> list <ls>Vin.</ls> 〔i.256.20 ff.〕) <ls>MSV</ls> 〔ii.161.16 ff.〕 For other <ab>cpds.</ab> see <ab>s.v.</ab> <b>-aṃśika</b>, and <b>śākhāntika</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "अन्तिक",
+            "eid": "350",
+            "pagenum": 12,
+            "content": "अन्तिक¦ <i>n.</i> (fortasse a perdita voce अन्ति = gr. <lang n='greek'>αντί</lang>, lat. <i>ante</i>, vel ab अति inserto न् s. क; secundum Wils. ab अन्त finis s. इक) propinquitas. IN. 2. 20. 5. 31. H. 2. 12. N. 1. 23. 13. 49."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "अन्तिक",
+            "eid": "800",
+            "pagenum": 29,
+            "content": "अन्तिक¦ <i>antika</i> <ab>a.</ab> placé en face, vis-àvis. <lbinfo n='4'/> -- <ab>S.</ab> <ab>f.</ab> sœur aînée, au théâtre || Echites <lbinfo n='3'/> scholaris, <ab>bot.</ab> <ab>Cf.</ab> <i>andikā</i> -- <ab>S.</ab> <ab>n.</ab> proximité; <lbinfo n='5'/> présence.  <P><i>antikam, antike, antikāt</i> en présence, à côté, auprès: <i>janāntikāt</i> <i>(jana)</i> à parte, <ab>t.</ab> de théâtre.  <P><i>antikāśraya</i> <ab>m.</ab> <i>(āśraya)</i> support, arcboutant, <lbinfo n='8'/> étançon, tuteur de jardin."
+        }
     ]
 }

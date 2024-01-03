@@ -23,5 +23,51 @@
             "synonyms": [],
             "content": "स्कन्धावारो राजधानी कोट्टदुर्गे पुनः समे ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "दुर्ग",
+            "eid": "10076",
+            "pagenum": 1,
+            "content": "दुर्ग¦ See Durgasiṃha."
+        },
+        {
+            "word": "दुर्ग",
+            "eid": "10077",
+            "pagenum": 1,
+            "content": "दुर्ग¦ grammarian and lexicographer. Often quoted by Kṣīrasvāmin, Sāyaṇa in Mādhavīyadhātuvṛtti, in Gaṇaratnamahodadhi, by Devarāja."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "दुर्ग",
+            "eid": "6565",
+            "pagenum": 406,
+            "content": "दुर्ग¦ <i>durga,</i> <ab>i. e.</ab> <i>dus-ga,</i> <b>I.</b> <ab>adj.</ab>, <ab>f.</ab> <i>gā.</i> Almost impassable or inaccessible, <ls>Man.</ls> 4, 77; 7, 70. <b>II.</b> <ab>m.</ab> The name of an Asura, <ls>Hariv.</ls> 9426. <b>III.</b> <ab>f.</ab> <i>gā,</i> The wife of Śiva, <ls>MBh.</ls> 4, 178. <b>IV.</b> <ab>n.</ab> (also <ab>m.</ab>, <ls>Rām.</ls> 4, 47, 3), <b>1.</b> A difficult passage, <ls>Bhāg. P.</ls> 6, 6, 6. <b>2.</b> Distress, <ls>Man.</ls> 3, 98. <b>3.</b> A strong-hold, <ls>Man.</ls> 7, 29. <b> -- <ab>Comp.</ab></b> <i>Giri-,</i> <ab>adj.</ab> Almost inaccessible on account of surrounding mountains, <ls>Man.</ls> 7, 70."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "दुर्ग",
+            "eid": "7391",
+            "pagenum": 266,
+            "content": "<b>durga</b>¦, (<b>1</b>) <lex>nt.</lex> (<lang>Skt.</lang> <ab>id.</ab>), <i>evil state</i>; five such, perhaps = the five <b>kaṣāya</b>, <ab>q.v.</ab> (not <b>durgati</b>, of which there are only three or at most four): durgāni (so text) pañca, ṣaṣṭi mohānī, triṃśatiṃ ca malināni (… chinnā) <ls>LV</ls> 〔372.5〕 (<ab>vs</ab>); (<b>2</b>) <lex>m.</lex> or <lex>nt.</lex> (<lex>loc.</lex> durge), <ab>n.</ab> of a region (janapada) in the south: <ls>Gv</ls> 〔201.10, 25〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "दुर्ग",
+            "eid": "4139",
+            "pagenum": 172,
+            "content": "दुर्ग¦ (e दुस् et ग a r. गा ire, s. अ) <i>Adj.</i> difficilis accessu, impervius. N. 12. 88. <i>Subst. n.</i> 1) locus difficilis accessu, impervius. H. 2. 30. 2) urbs munita, arx. 3) difficultas, labor, aerumna. BR. 3. 5."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "दुर्ग",
+            "eid": "8824",
+            "pagenum": 324,
+            "content": "दुर्ग¦ <i>durga</i> <ab>a.</ab> <i>(gam)</i> où il est difficile d'aller, inaccessible, impénétrable. -- <ab>S.</ab> <ab>n.</ab> lieu d'un accès difficile, mauvais passage, défilé, <ab>etc.</ab> || Au <ab>fig.</ab> difficulté, obstacle, traverse, peine. || Lieu fortifié, citadelle. -- <ab>S.</ab> <ab>f.</ab> <i>durgā</i> <s1 slp1='durgA'>Durgā</s1> épouse de <s1 slp1='Siva'>Śiva</s1>, appelée <s1 slp1='umA'>Umā</s1> et <s1 slp1='pArvatI'>Pārvatī</s1>. || Indigotier; clitoria ternatea, <lbinfo n='4'/> <ab>bot.</ab>  <P><i>durgakāraka</i> <ab>n.</ab> le bdellium [qui forme des buissons impénétrables].  <P><i>durgata</i> <ab>a.</ab> <i>(gam)</i> misérable, indigent, pauvre.  <P><i>durgati</i> <ab>f.</ab> <i>(gam;</i> <ab>sfx.</ab> <i>ti)</i> voie mauvaise; || enfer; || pauvreté, misère."
+        }
     ]
 }

@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "पराजयो रणे भङ्गो डमरे डिम्बविप्लवौ ॥ ८०३ ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "डिम्ब",
+            "eid": "5610",
+            "pagenum": 345,
+            "content": "डिम्ब¦ <i>ḍimba,</i> <ab>m.</ab> <b>1.</b> An affray, conflict, <ls>MBh.</ls> 1, 1219; a battle without king, <ab>i. e.</ab> after the king has been slain (?), <ls>Man.</ls> 5, 95. <b>2.</b> An egg or ball, <ls>Mālat.</ls> 148, 8."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "डिम्ब",
+            "eid": "6774",
+            "pagenum": 247,
+            "content": "<b>ḍimba</b>¦, <lex>m.</lex> and <lex>nt.</lex> (<lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab>, in <ab>lit.</ab> rare except in <ab>cpd.</ab> ḍimbāhava, but see <ls>Schmidt, Nachträge</ls>; <lang>AMg.</lang> <ab>id.</ab>), <i>disturbance, riot, tumult</i>: yadi Mālinīṃ na parityajiṣyāmi, ḍimbaṃ bhaviṣyati <ls>Mv</ls> 〔i.310.9〕; regularly <ab>cpd.</ab> with ḍamara, <ls>Mv</ls> 〔iii.349.13〕; <ls>Divy</ls> 〔98.15〕; 〔131.18〕; 〔282.27〕; <ls>Av</ls> 〔i.120.4〕 <ab>etc.</ab>; with <b>ḍāmara</b>, <ab>q.v.</ab>, <ls>Suv</ls> 〔104.3〕; ḍamarātha ḍimbās <ls>SP</ls> 〔96.3〕 (<ab>vs</ab>)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "डिम्ब",
+            "eid": "7588",
+            "pagenum": 279,
+            "content": "डिम्ब¦ <i>ḍimba</i> <ab>m.</ab> utérus; rate; vessie; || œuf; || jeune animal [ce mot est peut-être un patois de <i>garbha</i>]; <ab>cf.</ab> <i>ḍimbha.</i>"
+        },
+        {
+            "word": "डिम्ब",
+            "eid": "7589",
+            "pagenum": 279,
+            "content": "डिम्ब¦ <i>ḍimba</i> <ab>m.</ab> <ab>mms.</ab> que <i>ḍamara. ḍimbāhava</i> <ab>m.</ab> <ab>mms.</ab>"
+        }
     ]
 }

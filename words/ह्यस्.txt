@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "बहिर्बहिर्भवे ह्यः स्यादतीतेऽह्नि श्व एष्यति ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "ह्यस्",
+            "eid": "31583",
+            "pagenum": 1177,
+            "content": "ह्यस्¦ <i><ab>ind.</ab></i> [गते अहनि नि°] <lbinfo n='Yes+terday'/> Yesterday. <b>--Comp.</b> --भव <i><ab>a.</ab></i> what <lbinfo n='oc+curred'/> occurred yesterday."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "ह्यस्",
+            "eid": "17274",
+            "pagenum": 1125,
+            "content": "ह्यस्¦ <i>hyas,</i> <ab>i. e.</ab> perhaps <i>ha-dyas</i> (<ab>cf.</ab> <i>sadyas</i>), <ab>adv.</ab> Yesterday. -- <ab>Cf.</ab> <ab>Lat.</ab> hes + ternus, heri; <ab>Goth.</ab> gis + tra; <ab>A.S.</ab> gyrstan; <lang n='greek'>χθές</lang>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "ह्यस्",
+            "eid": "8931",
+            "pagenum": 405,
+            "content": "ह्यस्¦ <i>Adv.</i> heri. (Cf. gr. <lang n='greek'>χϑες</lang> pro <lang n='greek'>χες</lang>, lat. <i>heri</i> e <i>hesi</i>, <i>hes-ternus</i>; germ. vet. <i>ges-ter</i> heri, v. gr. comp. 391.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "ह्यस्",
+            "eid": "19736",
+            "pagenum": 758,
+            "content": "ह्यस्¦ <i>hyas</i> <ab>adv.</ab> hier; || <ab>lat.</ab> heri; <ab>gr.</ab> <lang n='greek'>χθές</lang>.  <P><i>hyastana</i> <ab>a.</ab> d'hier; || <ab>lat.</ab> hesternus.  <P><i>hyastya</i> <ab>a.</ab> d'hier."
+        }
     ]
 }

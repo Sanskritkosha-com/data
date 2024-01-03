@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "दोषज्ञस्तु भिषग्वैद्य आयुर्वेदी चिकित्सकः ।\nरोगहार्यगदंकारो भेषजं तन्त्रमौषधम् ॥ ४७२ ॥\nभैषज्यमगदो जायुश्चिकित्सा रुक्प्रतिक्रिया ।\nउपचर्योपचारौ च लङ्घनं त्वपतर्पणम् ॥ ४७३ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वैद्य",
+            "eid": "27070",
+            "pagenum": 1013,
+            "content": "वैद्य¦ <i><ab>a.</ab></i> (द्यी <i><ab>f.</ab></i>) <b>1</b> Relating to the Vedas, spiritual. <b>--2</b> Relating to medicine, medical. --द्यः [विद्या <lbinfo n='a#styasya'/> अस्त्यस्य अण्] <b>1</b> A learned man, <lbinfo n='schol+ar'/> scholar, doctor. <b>--2</b> A medical man, <lbinfo n='phy+sician'/> physician. वैद्ययत्नपरिभाविनं गदं न प्रदाप इव वायुमत्यगात् <ls>R. 19. 53</ls>;  <lbinfo n='vEdyAnA#mAturaH'/> वैद्यानामातुरः श्रेयान् <ls>Subhāṣ.</ls> <b>--3</b> A man of the medical caste, supposed to be one of the mixed classes; (the <lbinfo n='off+spring'/> offspring of a Brāhmaṇa by a Vaiśya woman). <b>--4</b> A man of a lower <lbinfo n='mix+ed'/> mixed tribe (the offspring of a Śūdra father by Vaiśya mother). <b>--Comp.</b> --क्रिया a doctor's profession, <lbinfo n='prac+tice'/> practice of medicine. --नाथः {1} <ab>N.</ab> of Dhanvantari. {2} of Śiva."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वैद्य",
+            "eid": "14064",
+            "pagenum": 907,
+            "content": "वैद्य¦ <i>vaidya,</i> <ab>i. e.</ab> <i>veda + ya,</i> <b>I.</b> <ab>adj.</ab> <b>1.</b> Relating to the Vedas, <ls>Lass. Pentap.</ls> 67, 43. <b>2.</b> Relating to medicine, medical. <b>II.</b> <ab>m.</ab> <b>1.</b> A follower of the Vedas, or one conversant with the Vedas. <b>2.</b> A learned man, <ls>Brāhmaṇav.</ls> 2, 1. <b>3.</b> A physician, <ls>Pañc.</ls> iii. <ab>d.</ab> 67. <b> -- <ab>Comp.</ab></b> <i>Viṣa-,</i> <ab>m.</ab> a dealer in antidotes. <i>Svar-,</i> <ab>m.</ab> either of the Aśvins, the physicians of the heaven."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वैद्य",
+            "eid": "7603",
+            "pagenum": 337,
+            "content": "वैद्य¦ <i>m.</i> I. (a विद्या scientia s. अ) 1) vir doctus, eruditus, sciens, sapiens. BR. 2. 1. 2) medicus. II. (a वेद s. य) <i>Vêdorum</i> gnarus, Vêdorum praecepta sequens."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वैद्य",
+            "eid": "16183",
+            "pagenum": 621,
+            "content": "वैद्य¦ <i>vaidya</i> <ab>a.</ab> <i>(vidyā)</i> médical. || <i>(veda)</i> védique. -- <ab>S.</ab> <ab>m.</ab> un savant; || médecin. || Un homme qui connaît le <s1 slp1='veda'>Veda</s1>. || Justicia, <ab>bot.</ab> -- <ab>F.</ab> la <s1 slp1='kAkolI'>kākolī</s1>.  <P><i>vaidyanātha</i> <ab>m.</ab> <s1 slp1='Danvantari'>Dhanvantari</s1>, patron des médecins. || <s1 slp1='Siva'>Śiva</s1>.  <P><i>vaidyabandhu</i> <ab>m.</ab> la casse.  <P><i>vaidyamātṛ</i> <ab>f.</ab> justicia, <ab>bot.</ab>  <P><i>vaidyasiṃhī</i> <ab>f.</ab> <ab>mms.</ab>"
+        }
     ]
 }

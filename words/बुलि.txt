@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "सीवनी तदधःसूत्रं स्थदण्डं पेलमण्डकः ॥ ६११ ॥\nमुष्कोऽण्डकोषो वृषणोऽपानं पायुर्गुदं च्युतिः ।\nअधोमर्म शकृद्द्वारं त्रिवलीकबुली अपि ॥ ६१२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "बुलि",
+            "eid": "21824",
+            "pagenum": 799,
+            "content": "बुलिः¦ <i><ab>f.</ab></i> Fear (भय)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "बुलि",
+            "eid": "10344",
+            "pagenum": 635,
+            "content": "बुलि¦ <i>buli,</i> <ab>f.</ab> The vulva."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "बुलि",
+            "eid": "10998",
+            "pagenum": 401,
+            "content": "<b>buli</b>¦ (<lang>Skt.</lang> <ab>Lex.</ab>, said to be <lex>f.</lex>, <i>vulva</i>, <ab>acc.</ab> to <ls>Galanos</ls> also <i>buttocks, behind</i>), in <ls>Mvy</ls> 〔4008〕 buliḥ, defined by <lang>Tib.</lang> <tib>rkub</tib>, <ab>acc.</ab> to <ls>Das</ls> <i>buttocks, behind</i>; <ab>acc.</ab> to <ls>Jä.</ls> the same (<lang>Skt.</lang> pāyu), but also <i>vulva</i>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "बुलि",
+            "eid": "12569",
+            "pagenum": 466,
+            "content": "बुलि¦ <i>buli</i> <ab>f.</ab> vulve."
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "सहायोऽभिचरोऽनोश्च जीविगामिचरप्लवाः ।\nसेवकोऽथ सेवा भक्तिः परिचर्या प्रसादना ॥ ४९६ ॥\nशुश्रूषाराधनोपास्तिवरिवस्यापरीष्टयः ।\nउपचारः पदातिस्तु पत्तिः पद्गः पदातिकः ॥ ४९७ ॥\nपादातिकः पादचारी पदाजिपदिकावपि ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "भक्ति",
+            "eid": "21891",
+            "pagenum": 805,
+            "content": "भक्तिः¦ <i><ab>f.</ab></i> [भज्-क्तिन्] <b>1</b> Separation, partition, division. <b>--2</b> A division, portion, share. <b>--3</b> (<i>a</i>) Devotion, attachment, loyalty, faithfulness; <ls>Ku. 7. 37</ls>; <ls>R. 2. 63</ls>; <ls>Mu. 1. 15.</ls> (<i>b</i>) Faith, belief, pious faith. <b>--4</b> Reverence, service, worship, homage. <b>--5</b> Texture, arrangement; भवति <lbinfo n='vira#laBaktirmlAnapuzpopahAraH'/> विरलभक्तिर्म्लानपुष्पोपहारः <ls>R. 5. 74.</ls> <b>--6</b> Decoration, ornament, <lbinfo n='embellish+ment'/> embellishment; आबद्धमुक्ताफलभक्तिचित्रे  <lbinfo n='ls:Ku. 7.+ 10'/> <ls>Ku. 7. 10</ls>, <ls n='Ku. 7.'>94</ls>; भक्तिच्छेदैरिव विरचितां भूतिमंगे गजस्य <ls>Me. 19</ls>; <ls>R. 13. 55</ls>, <ls n='R. 13.'>75</ls>;  <lbinfo n='ls:15.+30'/> <ls n='R.'>15. 30.</ls> <b>--7</b> An attribute. <b>--8</b> The being part of, belonging to. <b>--Comp.</b> --छेदः {1} a coloured streak, lines of <lbinfo n='paint+ing'/> painting or decoration; <ls>Me. 19.</ls> {2} <lbinfo n='dis+tinguishing'/> distinguishing marks of devotion to Viṣṇu. --नम्र <i><ab>a.</ab></i> making a humble obeisance. --पूर्वं, --पूर्वकं <i><ab>ind.</ab></i> <lbinfo n='deveut+ly'/> deveutly, reverentially. --भाज् <i><ab>a.</ab></i> {1} devout, fervid. {2} firmly attached or <lbinfo n='devot+ed'/> devoted, faithful, loyal. --मार्गः the way of devotion; <i><ab>i. e.</ab></i> devotion to god, regarded as the way to the <lbinfo n='attain+ment'/> attainment of final emancipation and eternal bliss. --योगः loving faith, loyal devotion. --रसः a sense of <lbinfo n='de+votion'/> devotion. --रागः affection, deep <lbinfo n='devo+tion'/> devotion. --वादः assurance of attachment."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "भक्ति",
+            "eid": "10386",
+            "pagenum": 638,
+            "content": "भक्ति¦ <i>bhakti,</i> <ab>i. e.</ab> <i>bhaj</i> and <i>bhañj +</i> <i>ti,</i> <b>1.</b> Worship, <ls>Vikr.</ls> <ab>d.</ab> 1; service. <b>2.</b> Devotion, <ls>Hit.</ls> iii. <ab>d.</ab> 65. <b>3.</b> Attachment, <ls>Pañc.</ls> i. <ab>d.</ab> 326. <b>4.</b> Faith, <ls>Pañc.</ls> 71, 4; belief, Śāṇḍilyas. ed. Ballantyne, 76 sqq. <b>5.</b> Fracture, breaking, <ls>Megh.</ls> 61. <b>6.</b> In <i>bhakti-cheda,</i> <ls>Megh.</ls> 19, see <i>cheda.</i> <b> -- <ab>Comp.</ab></b> <i>Kṣetra-,</i> <ab>f.</ab> partition of a field, <ls>Pāṇ.</ls> 5, 1, 46, Sch. <i>Dṛgbhakti,</i> <ab>i. e.</ab> <i>dṛś-,</i> <ab>f.</ab> a side look, an amorous look, <ls>Lass.</ls> 66, 11."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "भक्ति",
+            "eid": "5758",
+            "pagenum": 241,
+            "content": "भक्ति¦ <i>f.</i> (r. भज् s. ति) 1) cultus, amor. SA. 1. 9. 5. 21. 50. BH. 7. 17. 8. 10. 9. 26. 2) divisio, partitio. SAK. 52. 4. infr."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "भक्ति",
+            "eid": "12608",
+            "pagenum": 469,
+            "content": "भक्ति¦ <i>bhakti</i> <ab>f.</ab> <i>(bhañj)</i> division, fracture; partage. -- <i>(bhaj)</i> dévotion, culte, religion, adoration.  <P><i>bhaktika</i> <ab>a.</ab> dévot, adorateur; || dévoué.  <P><i>bhaktimat</i> <ab>a.</ab> dévot, pieux; || dévoué.  <P><i>bhaktila</i> <ab>m.</ab> adorateur. || Bon cheval.  <P><i>bhaktṛ</i> <ab>m.</ab> adorateur.  <P><i>bhaktṛtva</i> <ab>n.</ab> adoration, culte."
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "मर्मरो वस्रपत्रादेर्भूषणानां तु शिञ्जितम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "मर्मर",
+            "eid": "22768",
+            "pagenum": 847,
+            "content": "मर्मर¦ <i><ab>a.</ab></i> [मृ-अरन् मुट् च] <b>1</b> <lbinfo n='Rustl+ing'/> Rustling (leaves, garments &c.);  <lbinfo n='tI#rezu'/> तीरेषु तालीवनमर्मरेषु <ls>R. 6. 57</ls>, <ls n='R.'>4. 73</ls>;  <lbinfo n='ls:19.+41'/> <ls n='R.'>19. 41</ls>; मदोद्धताः प्रत्यनिलं <lbinfo n='vicerurvanasTalI#rmarmarapatramokzAH'/> विचेरुर्वनस्थलीर्मर्मरपत्रमोक्षाः <ls>Ku. 3. 31.</ls> <b>--2</b> <lbinfo n='Murmur+ing'/> Murmuring. --रः <b>1</b> A rustling sound. <b>--2</b> A murmur."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "मर्मर",
+            "eid": "11036",
+            "pagenum": 690,
+            "content": "मर्मर¦ <i>marmara</i> (a reduplicated form based on an imitative sound), <ab>m.</ab> The rustling sound of cloth, or dry leaves, <ls>Ragh.</ls> 6, 57 (at the end of a <ab>comp.</ab> <ab>adj.</ab>); of the wind, <ls>Rājat.</ls> 2, 165 (roaring). -- <ab>Cf.</ab> <ab>Lat.</ab> murmurare; <ab>O.H.G.</ab> murmuron; <lang n='greek'>μόρμορος, μορμύρω</lang>, etc."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "मर्मर",
+            "eid": "6097",
+            "pagenum": 260,
+            "content": "मर्मर¦ <i>m.</i> (a sono dictum) susurrum, murmur. RAGH. 6. 57.: तीरेषु तालीवनमर्मरेषु. (Cf. lat. <i>murmur</i>, gr. <lang n='greek'>μοϱμύϱω</lang>, germ. vet. <i>murmurôn</i> murmurare.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "मर्मर",
+            "eid": "13107",
+            "pagenum": 494,
+            "content": "मर्मर¦ <i>marmara</i> <ab>m.</ab> murmure, frôlement, bruit de feuilles mortes, <ab>etc.</ab> <ab>F.</ab> <i>marmarī</i> le pin <s1 slp1='devadAru'>devadāru</s1>. || <ab>Lat.</ab> murmur; <ab>gr.</ab> <lang n='greek'>μορμύρω</lang>."
+        }
     ]
 }

@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "भिदा भिच्चोदितमपीरितेऽथाङ्गीकृते पुनः ।\nकक्षीकृतं स्वीकृतं च छिन्ने छातमपि स्मृतम् ॥ १३४ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "छात",
+            "eid": "13599",
+            "pagenum": 501,
+            "content": "छात¦ <i><ab>a.</ab></i> <b>1</b> Cut, divided. <b>--2</b> Feeble, thin, emaciated (<i><ab>p. p.</ab></i> of छो <ab>q. v.</ab>)."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "छात",
+            "eid": "6406",
+            "pagenum": 235,
+            "content": "(<b>chāta</b>¦, <lex>adj.</lex>, <i>thin</i>; occurs, <ab>tho</ab> rarely, in <lang>Skt.</lang>, as well as <lang>Pkt.</lang> chāa, <ab>cf.</ab> <ls>Deśīn.</ls> 〔3.33〕, with <ab>comm.</ab>; <ls>Pischel</ls> 〔328〕; <ls>Schmidt, Nachträge</ls>; <ab>acc.</ab> to <ls>Pischel</ls>, <lang>Pali</lang> chāta, <lang>Pkt.</lang> chāa, <i>hungry</i>, is an unrelated word, from *psāta, while our chāta is from *kṣāta; this theory seems speculative. In <ls>Mv</ls> 〔i.147.2〕 = 〔203.17〕 = 〔ii.7.13〕 (<ab>vs</ab>) <ls>Senart</ls> <ab>em.</ab> cāpodare, but read chātodare with all <ab>mss.</ab> in first and third citations (in second nābhodare); <ab>cf.</ab> chātodarī in <ab>comm.</ab> to <ls>Deśīn.</ls>, above; also <ls>Jm</ls> 〔3.8〕 kṣudhā chātatarodarīm.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "छात",
+            "eid": "6879",
+            "pagenum": 254,
+            "content": "छात¦ <i>chāta</i> <ab>pp.</ab> <ab>ps.</ab> de <i>cho;</i> || <ab>a.</ab> faible, amaigri."
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "अकर्ण एडो बधिरो दुश्चर्मा तु द्विनग्नकः ॥ ४५४ ॥\nवण्डश्च शिपिविष्टश्च खोडखोरौ तु खञ्जके ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "खोड",
+            "eid": "12213",
+            "pagenum": 445,
+            "content": "खोड¦ <i><ab>a.</ab></i> Crippled, lame, limping."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "खोड",
+            "eid": "5543",
+            "pagenum": 206,
+            "content": "(<b>khoḍa</b>¦, <lex>adj.</lex>, = <lang>Skt.</lang> <ab>Lex.</ab> and late <ab>lit.</ab>, <ls>Schmidt, Nachträge</ls>; <lang>Class. Skt.</lang> khora, <ab>Lex.</ab> also khola; <i>lame</i>, in a list of <lex>adj.</lex> for bodily deformities, <ab>noms.</ab> or <lex>accs.</lex>: <ls>Mv</ls> 〔ii.150.9〕; 〔152.3〕; 〔153.19〕; 〔156.11〕 (in 〔150.9〕 <ab>ed.</ab> with <ab>mss.</ab> khāḍo, mere corruption; in 〔152.3〕 <ab>ed.</ab> also khāḍo, but the only <ab>ms.</ab> khoḍo); in all preceded by kāṇo (or kāṇaṃ) vā, then khoḍo (°ḍaṃ) vā dadrulo (°laṃ, or other variant, see this) vā …)"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "खोड",
+            "eid": "2709",
+            "pagenum": 98,
+            "content": "खोड¦ (r. खोड् <i>s.</i> अ) claudus. AM. (<i>V.</i> 1. खोड्.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "खोड",
+            "eid": "5650",
+            "pagenum": 206,
+            "content": "खोड¦ <i>khoḍa</i> <ab>a.</ab> boiteux. || <ab>Lat.</ab> claudus."
+        }
     ]
 }

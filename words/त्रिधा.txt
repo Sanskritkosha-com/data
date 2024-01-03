@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "द्विधा द्वेधा त्रिधा त्रेधा चतुर्धा द्वैधमादि च ॥ २०३ ॥\nद्विस्त्रिश्चतुःपञ्चकृत्व इत्याद्यावर्तने कृते ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "त्रिधा",
+            "eid": "15031",
+            "pagenum": 551,
+            "content": "त्रिधा¦ <i><ab>ind.</ab></i> In three ways, or in three parts; <ls>Ku. 7. 44</ls>; <ls>Bg. 18. 19.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "त्रिधा",
+            "eid": "6154",
+            "pagenum": 378,
+            "content": "त्रिधा¦ <i>tri + dhā,</i> <ab>adv.</ab> Threefold, <ls>MBh.</ls> 13, 6467; in three places, 1, 8013;  in three parts, <ls>MBh.</ls> 5, 7206. -- <ab>Cf.</ab> <lang n='greek'>τρίχα, τρίχθα</lang>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "त्रिधा",
+            "eid": "3896",
+            "pagenum": 160,
+            "content": "त्रिधा¦ (e त्रि s. धा) trifariam. BH. 18. 19. (Gr. <lang n='greek'>τϱίχα</lang>, dor. <lang n='greek'>τϱίχϑα</lang>; v. gr. comp. 325.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "त्रिधा",
+            "eid": "8245",
+            "pagenum": 303,
+            "content": "त्रिधा¦ <i>tridhā</i> <ab>adv.</ab> (<ab>sfx.</ab> <i>dhā)</i> en trois parties, <lbinfo n='5'/> de trois manières, sous trois faces. || <ab>Gr.</ab> <lang n='greek'>τρίχα</lang>."
+        }
     ]
 }

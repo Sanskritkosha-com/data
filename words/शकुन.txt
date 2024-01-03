@@ -12,5 +12,53 @@
             "synonyms": [],
             "content": ";c{इति स्थलचरपञ्चेन्द्रियाः}\nविहगो विहंगमखगौ पतगो विहंगः शकुनिः शकुन्तिशकुनौ विवयः शकुन्ताः ।\nनभसंगमो विकिरपत्त्ररथौ विहायो द्विजपक्षिविष्किरपतत्रिपतत्पतङ्गाः ॥ १३१६ ॥\nपित्सन्नीडाण्डजोगौकाश्चञ्चुश्चञ्चू सृपाटिका ।\nत्रोटिश्च पत्त्रं पतत्रं पिच्छं वाजस्तनूरुहम् ॥ १३१७ ॥\nपक्षो गरुच्छदश्चापि पक्षमूलं तु पक्षतिः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "शकुन",
+            "eid": "37542",
+            "pagenum": 2,
+            "content": "शकुन¦ from the Rudrayāmala. Stein 236."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "शकुन",
+            "eid": "27517",
+            "pagenum": 1028,
+            "content": "शकुनः¦ [शक्-उनन् <ls>Uṇ. 3. 49</ls>] <b>1</b> A bird (in general); शकुनोच्छिष्टं <ls>Y. 1. 168.</ls> <b>--2</b> A kind of bird, a <lbinfo n='vul+ture'/> vulture or kite. <b>--3</b> A kind of song (sung at festivals). --नं <b>1</b> An omen, a prognostic, any omen <lbinfo n='pre+saging'/> presaging good or evil; <ls>Śi. 9. 83.</ls> <b>--2</b> An auspicious omen. <b>--Comp.</b> --ज्ञ <i><ab>a.</ab></i> knowing omens. (--ज्ञा) a small house-lizard. --ज्ञानं knowledge of omens, augury. --शास्त्रं ‘the science of omens’, <ab>N.</ab> of a work."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "शकुन",
+            "eid": "14359",
+            "pagenum": 926,
+            "content": "शकुन¦ <i>śak + una</i> (or rather <i>śak +</i> <i>van + a,</i> <ab>cf.</ab> <i>śakunta</i>), <b>I.</b> <ab>m.</ab> A bird, <ls>Nal.</ls> 9, 12. <b>II.</b> <ab>n.</ab> An omen; a. auspicious, <ls>Lass.</ls> 43, 5; b. inauspicious, <ls>Pañc.</ls> 52, 11 (<i>kiṃ śakunakāranaṃ</i> <i>kiṃ cit saṃjātam,</i> Has something come to pass caused by a bird, or by an inauspicious omen, <ab>i. e.</ab> has there happened a misfortune?). <b> -- <ab>Comp.</ab></b> <i>A-,</i> <ab>n.</ab> an inauspicious omen, <ls>Śiś.</ls> 9, 83."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "शकुन",
+            "eid": "14759",
+            "pagenum": 521,
+            "content": "<b>Śakuna</b>¦, <ab>n.</ab> of a cakravartin king, father of <b>Kuśa</b> (2): <ls>MSV</ls> 〔i.99.10〕; later called regularly <b>Mahāśakuni</b>, <ab>q.v.</ab>"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "शकुन",
+            "eid": "7702",
+            "pagenum": 342,
+            "content": "शकुन¦ <i>m.</i> (fortasse a r. शक् s. <i>unâd.</i> उन) 1) avis species (Wils.: <i>either the Indian vulture or the common kite-</i> Falco cheela-; <i>it is also applied to the Pondicherry</i> <i>eagle</i>). N. 9. 12. 2) avis <i>in universum.</i>"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "शकुन",
+            "eid": "16490",
+            "pagenum": 631,
+            "content": "शकुन¦ <i>śakuna</i> <ab>m.</ab> (<ab>sfx.</ab> <i>una)</i> <ab>esp.</ab> d'aigle ou de vautour [falco cheela ou falco ponticeriana]. <lbinfo n='9'/> || Oiseau, en <ab>gén.</ab> || Sorte de rogation <lbinfo n='4'/> ou de chant augural. -- <ab>N.</ab> événement ou présage heureux.  <P><i>śakunajñā</i> <ab>f.</ab> gecko ou lézard.  <P><i>śakuni</i> <ab>m.</ab> l'oiseau <i>śakuna;</i> || oiseau, en <ab>gén.</ab> || Un des <i>kāraṇas</i> astronomiques. || <ab>Np.</ab> de l'oncle maternel des <s1 slp1='kuru'>Kuru</s1>s. || <ab>F.</ab> <i>śakunī</i> femelle de passereau. || <ab>Gr.</ab> <lang n='greek'>ϰίϰυμος</lang>; <ab>lat.</ab> ciconia <ab>(?)</ab>.  <P><i>śakuniprapā</i> <ab>f.</ab> <i>(pra; pā)</i> auget pour donner <lbinfo n='3'/> à boire aux oiseaux.  <P><i>śakunīśvara</i> <ab>m.</ab> <i>(īśvara)</i> <s1 slp1='garuqa'>Garuḍa</s1>."
+        }
     ]
 }

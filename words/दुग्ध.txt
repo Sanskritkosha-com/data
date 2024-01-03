@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "गुड इक्षुरसक्वाथः शर्करा तु सितोपला ॥ ४०२ ॥\nसिता च मधुधूलिस्तु खण्डस्तद्विकृतिः पुनः ।\nमत्स्यण्डी फाणितं चापि रसालायां तु भार्जिता ॥ ४०३ ॥\nशिखरिण्यथ यूर्यूषो रसो दुग्धं तु सोमजम् ।\nगोरसः क्षीरमूधस्यं स्तन्यं पुंसवनं पयः ॥ ४०४ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "दुग्ध",
+            "eid": "15495",
+            "pagenum": 569,
+            "content": "दुग्ध, --दुघ¦ &c. See under दुह्."
+        },
+        {
+            "word": "दुग्ध",
+            "eid": "15546",
+            "pagenum": 574,
+            "content": "दुग्ध¦ <i><ab>p. p.</ab></i> [दुह्-क्त] <b>1</b> Milked, milked out. <b>--2</b> Extracted, drawn out &c. <b>--3</b> Collected, filled, full. --ग्धं <b>1</b> Milk. <b>--2</b> The milky juice of plants. <b>--3</b> Milking. <b>--Comp.</b> --अग्रं, --अम्रं, --तालीयं the skim of milk, cream. --दा a milch cow. --पाचनं a vessel for boiling milk. --पोष्य <i><ab>a.</ab></i> living on the mother's milk (as a child), a suckling. --फेनः cream. --बंधः, --बंधकः the post to which a cow is tied before being milked. --बीजा rice mixed with milk. --समुद्रः, --अब्धिः the ocean of milk, one of the seven oceans."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "दुग्ध",
+            "eid": "4132",
+            "pagenum": 172,
+            "content": "दुग्ध¦ <i>n.</i> (<i>Part. pass.</i> a r. दुह् s. त) lac. BHAR. 2. 15. (Lat. <i>LACT</i>, cujus <i>a</i> respondet scto ओ = <i>a + u</i>, abjecto <i>u</i>; e. c. in infin. दोग्धुम्; gr. <lang n='greek'>ΓΑ-ΛΑΚΤ</lang> v. गो.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "दुग्ध",
+            "eid": "8787",
+            "pagenum": 323,
+            "content": "दुग्ध¦ <i>dugdha</i> <ab>pp.</ab> de <i>duh.</i> -- <ab>S.</ab> <ab>n.</ab> la traite d'une vache; || lait. -- <ab>F.</ab> <i>dugdhī</i> <ab>esp.</ab> de plante. || <ab>(?)</ab> <ab>lat.</ab> lactis (lac) et <ab>gr.</ab> <lang n='greek'>γάλαϰτος (γάλα)</lang> NIL = <i>godugdha.</i>  <P><i>dugdhatālīya</i> <ab>n.</ab> fleur du lait, crème.  <P><i>dugdhanikā</i> <ab>f.</ab> achyranthes aspera, <ab>bot.</ab>  <P><i>dugdhapācana</i> <ab>n.</ab> <i>(pac)</i> vase pour faire chauffer le lait.  <P><i>dugdhaphena</i> <ab>n.</ab> fleur du lait, crème. -- <ab>F.</ab> <ab>esp.</ab> de plante médicinale.  <P><i>dugdhākṣa</i> <ab>m.</ab> <i>(akṣa)</i> sorte de pierre précieuse. <lbinfo n='7'/>"
+        }
     ]
 }

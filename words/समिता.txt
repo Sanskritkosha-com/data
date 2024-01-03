@@ -12,5 +12,21 @@
             "synonyms": [],
             "content": "गोधूमचूर्णे समिता यवक्षोदे तु चिक्कसः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "समिता",
+            "eid": "29478",
+            "pagenum": 1099,
+            "content": "समिता¦ Wheat-flour."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "समिता",
+            "eid": "15658",
+            "pagenum": 1013,
+            "content": "समिता¦ <i>samitā,</i> <ab>f.</ab> Wheat, flour. <ab>Cf.</ab> <i>samīda</i> and <lang n='greek'>σεμίδαλις</lang>; <ab>Lat.</ab> simila, similago; it appears also in the Coptic samit and Arab. samīd, and is probably borrowed from the Greek."
+        }
     ]
 }

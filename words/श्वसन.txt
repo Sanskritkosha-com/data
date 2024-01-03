@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": ";c{इति तेजस्कायः । }\nवायुः समीरसमिरौ पवनाशुगौ नभःश्वासो नभस्वदनिलश्वसनाः समीरणः ।\nवातोऽहिकान्तपवमानमरुत्प्रकम्पनाः कम्पाङ्कनित्यगतिगन्धवहप्रभञ्जनाः ॥ ११०६ ॥\nमातरिश्वा जगत्प्राणः पृषदश्वो महाबलः ।\nमारुतः स्पर्शनो दैत्यदेवो झञ्झा स वृष्टियुक् ॥ ११०७ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "श्वसन",
+            "eid": "28484",
+            "pagenum": 1063,
+            "content": "श्वसनः¦ [श्वसित्यनेन श्वस्-ल्युट्] <b>1</b> Air, wind; श्वसनसुरभिगंधिः <ls>Śi. 11. 21.</ls> <b>--2</b> <ab>N.</ab> of a demon killed by Indra. --नं <b>1</b> Breath, breathing, respiration; श्वसनचलितपल्लवाधरोष्ठे <ls>Ki. 10. 34</ls>; <ls>Ratn. 2. 4</ls> (where it has sense 1 also); <ls>Śi. 9. 52.</ls> <b>--2</b> Sighing. <b>--Comp.</b> --अशनः a serpent. --ईश्वरः the Arjuna tree. --उत्सुकः a serpent. --ऊर्मिः <i><ab>f.</ab></i> a gust of wind."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "श्वसन",
+            "eid": "15103",
+            "pagenum": 978,
+            "content": "श्वसन¦ 1. <i>śvas + ana,</i> <b>I.</b> <ab>m.</ab> <b>1.</b> Air, wind, breath, <ls>Śiś.</ls> 9, 52; <ls>Kir.</ls> 10, 34. <b>2.</b> A plant, Vangueria spinosa. <b>II.</b> <ab>n.</ab> <b>1.</b> Breathing, <ls>MBh.</ls> 8, 4205. <b>2.</b> Sighing."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "श्वसन",
+            "eid": "15343",
+            "pagenum": 537,
+            "content": "<b>śvasana</b>¦, <i>trunk</i> of an elephant; see <b>gaja-śv°</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "श्वसन",
+            "eid": "8085",
+            "pagenum": 360,
+            "content": "श्वसन¦ I. <i>m.</i> ventus. AM. II. <i>n.</i> 1) spiratio, respiratio. 2) gemitus."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "श्वसन",
+            "eid": "17175",
+            "pagenum": 664,
+            "content": "श्वसन¦ <i>śvasana</i> <ab>n.</ab> (<ab>sfx.</ab> <i>ana)</i> respiration; || soupir; || souffle. -- <ab>M.</ab> vent. || Vangueria <lbinfo n='3'/> spinosa, <ab>bot.</ab>  <P><i>śvasanāśana</i> <ab>m.</ab> <i>(aś;</i> <ab>sfx.</ab> <i>ana)</i> serpent.  <P><i>śvasaneśvara</i> <ab>m.</ab> <i>(īśvara)</i> pentaptera <s1 slp1='arjuna'>arjuna</s1>, <lbinfo n='5'/> <ab>bot.</ab>  <P><i>śvasanotsuka</i> <ab>m.</ab> <i>(utsaka)</i> serpent."
+        }
     ]
 }

@@ -49,5 +49,45 @@
             "synonyms": [],
             "content": "कुटिलाशयोऽपि कुचरोऽन्धजडशठेऽडमूकः स्यात् ॥ २२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "जड",
+            "eid": "13708",
+            "pagenum": 504,
+            "content": "जड¦ <i><ab>a.</ab></i> [जलति घनीभवति जल् अच् लस्य डः <ls>Tv.</ls>] <b>1</b> Cold, frigid, chilly; <ls>Māl. 9. 13</ls>; <ls>U. 6. 13.</ls> <b>--2</b> Dull, <lbinfo n='para+lysed'/> paralysed, motionless, benumbed;  <lbinfo n='ciM#tAjaqaM'/> चिंताजडं दर्शनं <ls>Ś. 4. 5</ls>; <ls>U. 3. 41</ls>;  <lbinfo n='ls:6.+28'/> <ls n='U.'>6. 28</ls>; <ls n='U.'>6. 39</ls>; परामृशन् हर्षजडेन पाणिना <ls>R. 3. 68</ls>, <ls n='R.'>2. 42.</ls> <b>--3</b> Dull, senseless, stupid, irrational, dull-witted;  <lbinfo n='ja#qAnaMDAn'/> जडानंधान् पंगून्…त्रातुं <ls>G. L. 15</ls>, so  <lbinfo n='ja#qaDI'/> जडधी, जडमति &c. <ls>Y. 2. 25</ls>;  <lbinfo n='ls:Ms. 2.+ 110.'/> <ls>Ms. 2. 110.</ls> <b>--4</b> Dulled, made senseless or apathetic, devoid of appreciation or taste; वेदाभ्यासजडः कथं नु <lbinfo n='vizayavyA#vfttakOtUhalaH'/> विषयव्यावृत्तकौतूहलः <ls>V. 1. 9.</ls> <b>--5</b> Stunning, benumbing, stupefying. <b>--6</b> Dumb. <b>--7</b> Unable to learn the Vedas <lbinfo n='(Da+yabhāga'/> (Dayabhāga). --डः <b>1</b> Cold, frost, <lbinfo n='win+ter'/> winter. <b>--2</b> Idiocy, stupidity. <b>--3</b> <lbinfo n='Dul+ness'/> Dulness, apathy, sluggishness. --डं <b>1</b> Water. <b>--2</b> Lead. <b>--Comp.</b> --क्रिय <i><ab>a.</ab></i> slow, dilatory. --भरतः an idiot."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "जड",
+            "eid": "5244",
+            "pagenum": 320,
+            "content": "जड¦ <i>jaḍa</i> (probably for original <i>jala,</i> to which the <ab>Grammar.</ab> give the same signification; <ab>Lat.</ab> gĕlu gelidus: <ab>Goth.</ab> kald; <ab>A.S.</ab> ceald; <ab>cf.</ab> <i>jata</i>), <ab>adj.</ab> <b>1.</b> Cold, <ls>Pañc.</ls> i. <ab>d.</ab> 353. <b>2.</b> Rigid, immoveable, <ls>Rām.</ls> 6, 6, 1. <b>3.</b> Material, irrational, <ls>Vedāntas.</ls> in <ls>Chr.</ls> 215, 22. <b>4.</b> Dimmed, <ls>Śāk.</ls> <ab>d.</ab> 81. <b>5.</b> Unfeeling, apathetic, <ls>Bhāg. P.</ls> 2, 7, 10. <b>6.</b> Stupid, <ls>Bhāg. P.</ls> 5, 9, 8. <b>7.</b> Dumb, <ls>Man.</ls> 2, 110. <b> -- <ab>Comp.</ab></b> <i>A-jaḍa,</i> <ab>m.</ab> not an idiot, <ls>Man.</ls> 8, 148."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "जड",
+            "eid": "6449",
+            "pagenum": 237,
+            "content": "<b>jaḍa</b>¦ = <lang>Skt.</lang> jala, <i>water</i>: <ls>LV</ls> 〔372.15〕 (all <ab>mss.</ab>, both <ab>edd.</ab>)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "जड",
+            "eid": "3353",
+            "pagenum": 133,
+            "content": "जड¦ 1) frigidus. 2) hebetatus, obtusus, conturbatus, mente captus, stolidus, stupidus. UR. 7. 9. RAGH. 8. 74. BHAR. 3. 59. (Cf. hib. <i>fiod</i> f. frigus, <i>fuar</i> frigidus, quae, si huc pertinent, gutturalem in labialem converterunt.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "जड",
+            "eid": "6994",
+            "pagenum": 258,
+            "content": "जड¦ <i>jaḍa</i> <ab>a.</ab> (<ab>cf.</ab> <i>jala)</i> froid. || Frileux; || au <ab>fig.</ab> apathique, stupide, engourdi; || par <ab>ext.</ab> muet. -- <ab>S.</ab> <ab>m.</ab> froid, froidure; gelée; hiver; || au <ab>fig.</ab> apathie, stupidité, engourdissement <lbinfo n='9'/> d'esprit. -- <ab>S.</ab> <ab>n.</ab> eau; || plomb.  <P><i>jaḍakriya</i> <ab>a.</ab> <i>(kṛ)</i> lent à l'ouvrage.  <P><i>jaḍatā</i> <ab>f.</ab> (<ab>sfx.</ab> <i>tā</i>) froideur. || Sensibilité au froid. || Au <ab>fig.</ab> apathie, stupidité, engourdissement <lbinfo n='9'/> d'esprit."
+        }
     ]
 }

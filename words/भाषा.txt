@@ -23,5 +23,29 @@
             "synonyms": [],
             "content": "स्यान्नाटकं प्रकरणं भाणः प्रहसनं डिमः ।\nव्यायोगः समवकारो विथ्यङ्केहामृगा इति ॥ २८४ ॥\nअभिनेयप्रकाराः स्युर्भाषाः षट्संस्कृतादिकाः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "भाषा",
+            "eid": "22148",
+            "pagenum": 815,
+            "content": "भाषा¦ [भास्-अ] <b>1</b> Speech, talk; as in चारुभाषः. <b>--2</b> Language, tongue; <ls>Ms. 8. 164.</ls> <b>--3</b> A common or <lbinfo n='ver+nacular'/> vernacular dialect; (<i>a</i>) the <i>spoken</i> Sanskrit language (opp छंदस् or वेद); विभाषा भाषायां <ls>P. VI. 1. 181</ls>; (<i>b</i>) any Prākṛta dialect (<ab>opp.</ab> संस्कृत); <ls>Ms. 9. 332.</ls> <b>--4</b> Definition, description; स्थितप्रज्ञस्य का भाषा  <lbinfo n='ls:Bg.+ 2. 54.'/> <ls>Bg. 2. 54.</ls> <b>--5</b> An epithet of Sarasvatī, the goddess of speech. <b>--6</b> (In law) The first of the four stages of a law-suit; the plaint, charge or <lbinfo n='ac+cusation'/> accusation. <b>--Comp.</b> --अंतरं {1} another dialect or language. {2} translation (?). --पादः a charge, plaint; see भाषां (6) above. --समः a figure of speech, which consists in so arranging the words of a sentence that it may be considered and read either as <lbinfo n='Sans+krit'/> Sanskrit or Prākṛta (one or more of its varieties); <i><ab>e. g.</ab></i> मंजुलमणिमंजीरे <lbinfo n='ka#lagaMBIre'/> कलगंभीरे विहारसरसीतीरे । विरसासि केलिकीरे किमालि धीरे च गंधसारसमीरे ॥ <ls>S. D. 642</ls> (एष श्लोकः <lbinfo n='saMskftaprAkftaSOrasenIprAcyAvaMtInA#garApaBraMSezvekaviDa'/> संस्कृतप्राकृतशौरसेनीप्राच्यावंतीनागरापभ्रंशेष्वेकविध एव); किं त्वां भणामि <lbinfo n='vi#cCedadAruRAyAsakAriRi'/> विच्छेददारुणायासकारिणि । कामं कुरु वरारोहे <lbinfo n='de#hi'/> देहि मे परिरंभणं <ls>Māl. 6. 11</ls> (which is in Sanskrit or Śaurasenī); so <ls n='Māl.'>6. 10</ls>."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "भाषा",
+            "eid": "10552",
+            "pagenum": 651,
+            "content": "भाषा¦ <i>bhāṣ + ā,</i> <ab>f.</ab> <b>1.</b> Speech, <ls>Chr.</ls> 220, 1. 1. <b>2.</b> Language, <ls>Pañc.</ls> i. <ab>d.</ab> 445. <b>3.</b> Vernacular speech, <ls>Lass.</ls> 39, 11; <ls>MBh.</ls> 2, 2040. <b>4.</b> Speech exposing the plaint in a law-suit, <ls>Lass.</ls> 90, 3; <ls>Pañc.</ls> 167. 6(?). <b> -- <ab>Comp.</ab></b> <i>Deśa-bhāṣā,</i> <ab>f.</ab> the language of a country, <ls>MBh.</ls> 9, 2605. <i>Vi-bhāṣā,</i> indecl. alternatively, either of two ways, optionally."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "भाषा",
+            "eid": "12739",
+            "pagenum": 475,
+            "content": "भाषा¦ <i>bhāṣā.</i> <ab>f.</ab> parole, langage, style; || dialecte; le dialecte vulgaire [par <ab>oppos.</ab> au sanscrit]. || Plaidoyer. || Une des <s1 slp1='rAgiRI'>Rāgiṇī</s1>s; || <s1 slp1='sarasvatI'>Sarasvatī</s1>.  <P><i>bhāṣāpāda</i> <ab>n.</ab> plaidoyer, réquisitoire.  <P><i>bhāṣin</i> <ab>a.</ab> qui parle."
+        }
     ]
 }

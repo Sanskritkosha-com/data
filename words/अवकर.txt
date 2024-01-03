@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "संकरावकरौ तुल्यावुदूखलमुलूखलम् ॥ १०१६ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "अवकर",
+            "eid": "4346",
+            "pagenum": 175,
+            "content": "अवकर, --कर्त¦ &c. See under  <lbinfo n='ava#kF'/> अवकॄ-कृत्."
+        },
+        {
+            "word": "अवकर",
+            "eid": "4372",
+            "pagenum": 176,
+            "content": "अवकरः¦ [कॄ-अप्] Dust, <lbinfo n='sweep+ings'/> sweepings; अवकरनिकरं विकिरति <ls>Bh. 2. 124.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "अवकर",
+            "eid": "1103",
+            "pagenum": 55,
+            "content": "अवकर¦ <i>avakara,</i> <ab>i. e.</ab> <i>ava-kṝ + a,</i> <ab>m.</ab> Sweepings, <ls>Bhartṛ.</ls> suppl. 21."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "अवकर",
+            "eid": "2023",
+            "pagenum": 69,
+            "content": "<b>avakara</b>¦, <lex>m.</lex>, <ab>prob.</ab> read with Index and <ls>Mironov</ls> <b>avakāra</b>, rendered by <lang>Tib.</lang> <tib>ḥgod pa</tib>, perhaps <i>arrangement, placement, ordering</i>, or the like: <ls>Mvy</ls> 〔571〕 samākṣarāvakaro (°kāro) nāma samādhiḥ. No <ab>v.l.</ab> in either <ab>ed.</ab> But <ls>ŚsP</ls> 〔1421.3〕 [Page069-b] (from which, or an allied text, <ls>Mvy</ls> cites) reads samākṣarākāro, explaining: sarvasamādhīnāṃ samākṣaratāṃ pratilabhate. This seems to fit the reading °kṣarākāra, and definitely does not fit the apparent meaning of <b>avakāra</b>, <ab>q.v.</ab> Yet in another list <ls>ŚsP</ls> 〔1413.15〕 reads °kṣarāvakāra."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "अवकर",
+            "eid": "1516",
+            "pagenum": 51,
+            "content": "अवकर¦ <i>avakara</i> <ab>m.</ab> <i>(kṛ)</i> poussière, balayures; <lbinfo n='8'/> <ab>cf.</ab> <i>avaskara.</i>"
+        }
     ]
 }

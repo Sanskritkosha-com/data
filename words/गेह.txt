@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "गेहभूर्वास्तु गेहे तु गृहं वेश्म निकेतनम् ॥ ९८९ ॥\nमन्दिरं सदनं सद्म निकाय्यो भवनं कुटः ।\nआलयो निलयः शाला सभोदवसितं कुलम् ॥ ९९० ॥\nधिष्ण्यमावसथं स्थानं पस्त्यं संस्त्याय आश्रयः ।\nओको निवास आवासो वसतिः शरणं क्षयः ॥ ९९१ ॥\nधामागारं निशान्तं च कुट्टिमं त्वस्य बद्धभूः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गेह",
+            "eid": "12694",
+            "pagenum": 466,
+            "content": "गेहं¦ [गो गणेशो गंधर्वो वा ईहः ईप्सितो यत्र <ls>Tv.</ls>] A house, habitation; सा नारी विधवा जाता गेहे रोदिति तत्पतिः <lbinfo n='Su+bhāsh'/> <ls>Subhāṣ.</ls> <i><ab>N. B.</ab></i> The <ab>loc.</ab> of this word is used with several words to form <i>aluk</i> <ab>Tat.</ab> compounds; <i><ab>e. g.</ab></i>  <lbinfo n='gehekzve#qin'/> गेहेक्ष्वेडिन् <i><ab>a.</ab></i> ‘bellowing at home only’, <i><ab>i. e.</ab></i> a coward, poltroon. गेहेदाहिन् <i><ab>a.</ab></i> ‘sharp at home only’ <i><ab>i. e.</ab></i> a coward. गेहेनर्दिन् <i><ab>a.</ab></i> ‘shouting defiance at home only’; <i><ab>i. e.</ab></i> a coward, dunghill-cock.  <lbinfo n='gehe#mehin'/> गेहेमेहिन् <i><ab>a.</ab></i> ‘making water at home;’ <i><ab>i. e.</ab></i> indolent. गेहेव्याडः a braggadocio, braggart, boaster. गेहेशूरः ‘a <lbinfo n='house+hero'/> househero’, a carpet-knight, boasting <lbinfo n='cow+ard'/> coward."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गेह",
+            "eid": "4567",
+            "pagenum": 271,
+            "content": "गेह¦ <i>geha</i> (probably a dialect. form of <i>garha,</i> the original form of <i>gṛha</i>), <ab>n.</ab> <b>1.</b> A house, <ls>Man.</ls> 2, 184. <b>2.</b> An edifice, <ls>Rājat.</ls> 5, 37 (a temple). <b> -- <ab>Comp.</ab></b> <i>Jatu-,</i> <ab>n.</ab> a house painted and filled with lac and other combustible substances, <ls>MBh.</ls> 5, 1987."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "गेह",
+            "eid": "2896",
+            "pagenum": 108,
+            "content": "गेह¦ <i>n.</i> domus, habitatio. N. 17. 16. BH. 6. 41. (Cf. गृह, quod ipsum e गर्ह (v. ऋ), unde गेह ejecto र् et mutato अ in ए ortum esse videtur; respicias formas prâcritas ut गेह्णदु pro गृह्णातु, et v. Höfer p. 35.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गेह",
+            "eid": "6017",
+            "pagenum": 223,
+            "content": "गेह¦ <i>geha</i> <ab>n.</ab> forme prâkrite pour <i>gṛha,</i> maison, demeure.  <P><i>gehanardin</i> <ab>m.</ab> homme paresseux ou incapable <lbinfo n='7'/> de s'occuper d'autre chose que du ménage.  <P><i>gehaśūra</i> <ab>m.</ab> <ab>mms.</ab>"
+        }
     ]
 }

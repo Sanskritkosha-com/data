@@ -20,5 +20,45 @@
             "synonyms": [],
             "content": "मध्यं कश्यं निगालस्तु गल्लोद्देशः खुराः शफाः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "खुर",
+            "eid": "12188",
+            "pagenum": 445,
+            "content": "खुरः¦ [खुर-क] <b>1</b> A hoof;  <lbinfo n='ls:R. 1.+ 85'/> <ls>R. 1. 85</ls>, <ls n='R.'>2. 2</ls>; <ls>Ms. 4. 67.</ls> <b>--2</b> A kind of perfume. <b>--3</b> A razor. <b>--4</b> The foot of a bed-stead. <b>--Comp.</b> --आघातः, --क्षेपः a kick. --णस्, --णस <i><ab>a.</ab></i> flat nosed. --पदवी a horse's foot-marks. --प्रः an arrow with a semi-circular head; see क्षुरप्र. --न्यासः prints of hoof; <ls>R. 2. 2.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "खुर",
+            "eid": "4240",
+            "pagenum": 247,
+            "content": "खुर¦ <i>khura</i> (for <i>kṣura,</i> <ab>cf.</ab> <i>kṣura-</i> <i>pra</i>), <ab>m.</ab> A hoof, <ls>Śāk.</ls> <ab>d.</ab> 31. <b> -- <ab>Comp.</ab></b> <i>Aśva-,</i> a horse's hoof, <ls>Pañc.</ls> 252, 23."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "खुर",
+            "eid": "5522",
+            "pagenum": 205,
+            "content": "<b>khura</b>¦ (<lex>m.</lex>; = <lang>Pali</lang> and <lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab>; <lang>MIndic</lang> for <lang>Skt.</lang> kṣura), <i>razor</i>: <ls>Mv</ls> 〔iii.179.15〕; 〔270.11〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "खुर",
+            "eid": "2695",
+            "pagenum": 98,
+            "content": "खुर¦ <i>m.</i> (r. खुर् s. अ) 1) culter tonsorius. 2) ungula. DR. 6. 26. (Cf. क्षुर.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "खुर",
+            "eid": "5616",
+            "pagenum": 205,
+            "content": "खुर¦ <i>khura</i> <ab>m.</ab> rasoir. || Sabot de cheval; || Pied de lit. || Sorte de parfum. || <ab>Cf.</ab> <i>kṣura.</i>  <P><i>khuraka</i> <ab>m.</ab> le <i>tila,</i> plante.  <P><i>khuraṇas</i> et <i>khuraṇasa</i> <ab>a.</ab> <i>(nāsa)</i> qui a le nez épaté.  <P><i>khurapra</i> <ab>m.</ab> flèche à pointe demi-circulaire. <lbinfo n='6'/>"
+        }
     ]
 }

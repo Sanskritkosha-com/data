@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "आवेगस्तु त्वरिस्तूर्णिः संवेगः संभ्रमस्त्वरा ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "संवेग",
+            "eid": "28677",
+            "pagenum": 1070,
+            "content": "संवेगः¦ <b>1</b> Agitation, flurry, <lbinfo n='excite+ment'/> excitement; <ls>Mv. 1. 39.</ls> <b>--2</b> Violent speed, impetuosity, vehemence; <ls>U. 2. 26</ls>; <ls>Māl. 5. 6.</ls> <b>--3</b> Haste, speed. <b>--4</b> Agonising pain, poignancy."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "संवेग",
+            "eid": "15206",
+            "pagenum": 984,
+            "content": "संवेग¦ <i>saṃvega,</i> <ab>i. e.</ab> <i>sam-vij + a,</i> <ab>m.</ab> <b>1.</b> Haste proceeding from fear, <ls>Utt. Rāmac.</ls> 51, 14. <b>2.</b> Speed, <ls>Utt. Rāmac.</ls> 26, 12 (<i>tīvra-,</i> <ab>adj.</ab> Wounding quickly). <b>3.</b> Vehemence, <ls>Utt. Rāmac.</ls> 95, 5."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "संवेग",
+            "eid": "15431",
+            "pagenum": 541,
+            "content": "[<b>saṃvega</b>¦, <lex>nt.</lex> (<lang>Skt.</lang> only <lex>m.</lex>), <i>perturbation</i>: mahāntaṃ saṃvegam (<lex>nom.</lex> <ab>sg.</ab>) utpannaṃ <ls>Mv</ls> 〔ii.45.8〕; but <ab>mss.</ab> vegaṃ, <ls>Senart</ls> <ab>em.</ab>; vega, also, is only <lex>m.</lex> in <lang>Skt.</lang>]"
+        }
     ]
 }

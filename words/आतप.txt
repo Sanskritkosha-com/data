@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "प्रकाशस्तेज उद्योत आलोको वर्च आतपः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "आतप",
+            "eid": "6078",
+            "pagenum": 232,
+            "content": "आतप¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Causing pain or affliction. --पः <b>1</b> Heat (of the sun, fire &c.), sunshine; आतपायोज्झितं धान्यं <ls>Mb.</ls> exposed to the sun;  <lbinfo n='tamAta#paklAMtaM'/> तमातपक्लांतं <ls>R. 2. 13</ls>; शीतातपाभिघातान्  <lbinfo n='ls:Ms.+ 12. 77'/> <ls>Ms. 12. 77</ls>; प्रचंड° <ls>Rs. 1. 11</ls>, <ls n='Rs. 1.'>10</ls>; सूर्य° <ls>Me. 108</ls>; बालातपः <ls>Ms. 4. 69</ls> the morning sun; °आक्रांत exposed to heat. <b>--2</b> Light; छायातपौ ब्रह्मविदो वदंति <ls>Kaṭh.</ls> <b>--Comp.</b> --अत्ययः <lbinfo n='pass+ing'/> passing of the sun's heat, sunset; आतपात्ययसंक्षिप्तनीवारासु <ls>R. 1. 52.</ls> --अभावः non-existence of the sun's heat, shadow. --उदकं mirage. --त्रं, --त्रकं [आतपात् त्रायते, त्रै-क] an <lbinfo n='um+brella'/> umbrella (of silk or leaves used as a parasol); तमातपक्लांतमनातपत्रं <ls>R. 2. 13</ls>, <ls n='R. 2.'>47</ls>; पद्म° <ls n='R.'>4. 5</ls>; राज्यं <lbinfo n='svahastaDftadaMqami#vAtapatraM'/> स्वहस्तधृतदंडमिवातपत्रं <ls>Ś. 5. 6.</ls> --लंघनं being <lbinfo n='expos+ed'/> exposed to heat, catching the sun-stroke; आतपलंघनाद्वलवदस्वस्थशरीरा शकुंतला  <lbinfo n='ls:Ś.+3'/> <ls>Ś. 3.</ls> --वर्ष्य <i><ab>a.</ab></i> (water &c.) produced by rain during sunshine. --वारणं [आतपं वारयति] an umbrella, parasol;  <lbinfo n='nfpati#kakudaM'/> नृपतिककुदं दत्वा यूने सितातपवारणं <ls>R. 3. 70</ls>, <ls n='R.'>9. 15.</ls> --शुष्क <i><ab>a.</ab></i> dried in the <lbinfo n='sun+shine'/> sunshine."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "आतप",
+            "eid": "1457",
+            "pagenum": 74,
+            "content": "आतप¦ <i>ā-tap + a,</i> <ab>m.</ab> <b>1.</b> Sunshine, <ls>Pañc.</ls> ii. <ab>d.</ab> 136. <b>2.</b> Heat of the sun, <ls>Śāk.</ls> 31, 8. <b> -- <ab>Comp.</ab></b> <i>An-,</i> <ab>adj.</ab> shadowy, <ls>Bhartṛ.</ls> 2, 86. <i>Bāla-,</i> <ab>m.</ab> the rays of the rising sun, <ls>Man.</ls> 4, 69. <i>Sūrya-,</i> <ab>m.</ab> sunshine, <ls>Pañc.</ls> 121, 13; heat of the sun, <ls>Ṛt.</ls> 1, 10."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "आतप",
+            "eid": "2635",
+            "pagenum": 91,
+            "content": "<b>ātapa</b>¦, <lex>m.</lex> or <lex>nt.</lex>, in ṣaṣṭeḥ kārṣāpaṇānām arthāyātape dhāritaḥ <ls>Divy</ls> 〔33.13〕, and ātape vidhāritaḥ 16, apparently <i>was assessed a fine</i> (in the amount of 60 kārṣāpaṇas). Perhaps corrupt; I find it hard to understand connexion with ātapa <i>heat</i> (kept on a hot spot ?). The Index omits the word."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "आतप",
+            "eid": "879",
+            "pagenum": 29,
+            "content": "आतप¦ <i>m.</i> (r. तप् calefacere, urere, s. अ) calor, ardor solis. UR. 62. 13. 90. 10. SAK. 43. 10."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आतप",
+            "eid": "2122",
+            "pagenum": 71,
+            "content": "आतप¦ <i>ātapa</i> <ab>m.</ab> <i>(tap)</i> chaleur; ardeur du soleil.  <P><i>ātapatra</i> <ab>n.</ab> <i>(trā</i> protéger, et non le <ab>sfx.</ab> <i>tra)</i> parasol, et surtout le grand parasol indien.  <P><i>ātapatraka</i> <ab>n.</ab> le petit parasol ou natte portative.  <P><i>ātapavāraṇa</i> <ab>n.</ab> <i>(vṛ)</i> <ab>mms.</ab>"
+        }
     ]
 }

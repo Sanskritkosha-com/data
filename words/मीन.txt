@@ -34,5 +34,45 @@
             "synonyms": [],
             "content": ";c{इति खचरपञ्चेन्द्रियाः}\nमत्स्यो मीनः पृथुरोमा झषो वैसारिणोऽण्डजः ॥ १३४३ ॥\nसंघचारी स्थिरजिह्व आत्माशी स्वकुलक्षयः ।\nविसारः शकली शल्की शंबरोऽनिमिषस्तिमिः ॥ १३४४ ॥"
         }
+    ],
+    "ACC": [
+        {
+            "word": "मीन",
+            "eid": "17817",
+            "pagenum": 1,
+            "content": "मीन¦ a teacher of yoga. Mentioned Oxf. 101^a. 233^b. See Mīnanātha."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "मीन",
+            "eid": "23196",
+            "pagenum": 867,
+            "content": "मीनः¦ [मी-नक्] <b>1</b> A fish; सुप्तमीन इव ह्रदः <ls>R. 1. 73</ls>; मीनो नु हंत कतमां <lbinfo n='gati#maByupEtu'/> गतिमभ्युपैतु <ls>Bv. 1. 17.</ls> <b>--2</b> The twelfth sign of the zodiac (<i>Pisces</i>). <b>--3</b> The first incarnation of Viṣṇu; see मत्स्यावतार. <b>--Comp.</b> --अंडं roe, fish-spawn (--डा) moist sugar. --आ घातिन्, घातिन् <i><ab>m.</ab></i> {1} a fisherman. {2} a crane. --आलयः the sea.  <lbinfo n='--ke#tanaH'/> --केतनः the god of love. --गंधः an <lbinfo n='epi+thet'/> epithet of Satyavatī. --गंधिका a pond, pool of water. --रंकः, --रंगः a <lbinfo n='king+fisher'/> kingfisher."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "मीन",
+            "eid": "11329",
+            "pagenum": 708,
+            "content": "मीन¦ <i>mīna</i> (probably <ab>vb.</ab> <i>mih</i>), <ab>m.</ab> <b>1.</b> A fish, <ls>Pañc.</ls> ii. <ab>d.</ab> 3. <b>2.</b> The sign of the zodiac, Pisces."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "मीन",
+            "eid": "6245",
+            "pagenum": 265,
+            "content": "मीन¦ <i>m.</i> piscis."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "मीन",
+            "eid": "13400",
+            "pagenum": 507,
+            "content": "मीन¦ <i>mīna</i> <ab>pp.</ab> de <i>mī</i> 4. -- <ab>S.</ab> <ab>m.</ab> poisson. <lbinfo n='4'/> || Les Poissons, signe du zodiaque.  <P><i>mīnaketana</i> <ab>m.</ab> <s1 slp1='kAma'>Kāma</s1>.  <P><i>mīnagodhikā</i> <ab>f.</ab> pièce d'eau [où il y a des poissons et des lézards].  <P><i>mīnara</i> <ab>m.</ab> le <s1 slp1='makara'>Makara</s1>.  <P><i>mīnaraṅga</i> <ab>m.</ab> martin-pêcheur.  <P><i>mīnākṣī</i> <ab>f.</ab> <i>(akṣi)</i> la fille de <s1 slp1='kuvera'>Kuvera</s1>.  <P><i>mīnāghātin</i> <ab>m.</ab> <i>(han)</i> grue.  <P><i>mīnāṇḍhi</i> <ab>f.</ab> <i>(aṇḍa)</i> sucre granulé ou candi.  <P><i>mīnātaya</i> <ab>m.</ab> la mer.  <P><i>mīnāmrīṇa</i> <ab>m.</ab> <i>(āmra)</i> sauce de poisson. || Hoche-queue."
+        }
     ]
 }

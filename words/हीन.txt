@@ -25,5 +25,37 @@
             "synonyms": [],
             "content": "परतन्त्रे वशायत्तावधीनोऽप्यथ दुर्गते ।\nक्षुद्रो हीनश्च दीनश्च भाटिस्तु गणिकाभृतौ ॥ ९२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "हीन",
+            "eid": "31454",
+            "pagenum": 1173,
+            "content": "हीन¦ <i><ab>p. p.</ab></i> [हा-क्त तस्य नः ईत्वम्] <b>1</b> Left, abandoned, forsaken &c. <b>--2</b> Destitute or deprived of, bereft of, without; (with <ab>instr.</ab> or in <ab>comp.</ab>); गुणैर्हीना न शोभंते निगैधा इव किंशुकाः <ls>Subhāṣ.</ls>; so द्रव्य°, मति°, उत्साह° &c. <b>--3</b> Excluded, shut out from (with <ab>abl.</ab>). <b>--4</b> Decayed, wasted. <b>--5</b> Deficient, defective;  <lbinfo n='hInAtiriktagA#vo'/> हीनातिरिक्तगावो वा तमप्यपनयेत्ततः <ls>Ms. 3. 242.</ls> <b>--6</b> Subtracted. <b>--7</b> Less, lower;  <lbinfo n='ls:Ms.+ 2. 194.'/> <ls>Ms. 2. 194.</ls> <b>--8</b> Low, base, mean, vile. --नः <b>1</b> A defective witness. <b>--2</b> A faulty respondent; (Nārada <lbinfo n='enume+rates'/> enumerates five kinds: --अन्यवादी क्रियाद्वेषी नोपस्थायी निरुत्तरः । आहूतप्रपलायी च हीनः पंचविधः स्मृतः). <b>--3</b> Subtraction. <b>--Comp.</b> --अंग <i><ab>a.</ab></i> deficient in a limb, <lbinfo n='crippl+ed'/> crippled, maimed, defective; <ls>Ms. 4. 141</ls>; <ls>Pt. 5. 95</ls>; <ls>Y. 1. 222.</ls> (--गी) a small ant. --कर्मन् <i><ab>a.</ab></i> neglecting the customary religious rites. --कुल, --ज <i><ab>a.</ab></i> base-born, of low family. --क्रतु <i><ab>a.</ab></i> one who neglects his <lbinfo n='sa+crifice'/> sacrifice. --जाति <i><ab>a.</ab></i> {1} of a low caste. {2} excommunicated, <lbinfo n='out+caste'/> outcaste, degraded. --योनिः <i><ab>f.</ab></i> low birth or origin. --वर्ण <i><ab>a.</ab></i> {1} of low caste. {2} of inferior rank. --वादः a defective statement, <lbinfo n='con+tradictory'/> contradictory evidence, prevarication. --वादिन् <i><ab>a.</ab></i> {1} making a defective statement. {2} prevaricating. {3} dumb, speechless. {4} cast in law, defeated. --सख्यं associating with low persons. --सेवा attendance on base persons."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "हीन",
+            "eid": "17720",
+            "pagenum": 620,
+            "content": "<b>hīna</b>¦, <lex>nt.</lex> (rare in <lang>Skt.</lang> and not in this precise <ab>mg.</ab>), <i>the low</i>; hīnāya, with āvartati (<ab>mss.</ab> vartati; = <lang>Pali</lang> hīnāya āvattati, once vattati <ab>acc.</ab> to text <ls>Jāt.</ls> 〔i.276.16〕), <i>returns to the low = gives up monkish life, returns to the world</i>: hīnāyāvartanti (<ab>mss.</ab> °yaṃ vart°) kāmehi <ls>Mv</ls> 〔iii.47.14〕 (prose). <ab>Cf.</ab> <b>hīnāyāvarta</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "हीन",
+            "eid": "8889",
+            "pagenum": 401,
+            "content": "हीन¦ <i>v.</i> हा."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "हीन",
+            "eid": "19644",
+            "pagenum": 755,
+            "content": "हीन¦ <i>hīna</i> (<ab>pp.</ab> de <i>hā)</i> privé de; || abandonné <lbinfo n='5'/> || Usé, dégradé; || défectueux.  <P><i>hīnajāti</i> <ab>a.</ab> de caste dégradée.  <P><i>hīnatā</i> <ab>f.</ab> état d'une chose ou d'une personne <lbinfo n='5'/> dégradée.  <P><i>hīnavādin</i> <ab>a.</ab> <i>(vad)</i> muet; || qui dit des choses inadmissibles et sans valeur.  <P><i>hīnasakhya</i> <ab>a.</ab> qui fréquente de mauvaises compagnies.  <P><i>hīnāṅga</i> <ab>a.</ab> <i>(aṅga)</i> estropié, qui manque de <ab>qq.</ab> membre. -- <ab>S.</ab> <ab>f.</ab> <i>hīnāṅgi</i> fourmi."
+        }
     ]
 }

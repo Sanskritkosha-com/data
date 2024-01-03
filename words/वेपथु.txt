@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "स्वरभेदस्तु कल्लत्वं स्वरे कम्पस्तु वेपथुः ॥ ३०६ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वेपथु",
+            "eid": "26963",
+            "pagenum": 1011,
+            "content": "वेपथुः¦ [वेप्-अथुच्] Tremor, <lbinfo n='trembl+ing'/> trembling, heaving (of breasts &c.); अद्यापि स्तनवेपथुं जनयति श्वासः प्रमाणाधिकः <ls>Ś. 1. 30</ls>, <ls n='Ś. 1.'>24</ls>; <ls>Śi. 9. 22</ls>; <ls n='Śi. 9.'>73</ls>;  <lbinfo n='ls:R. 19.+ 23'/> <ls>R. 19. 23</ls>; <ls>Ku. 4. 17</ls>, <ls n='Ku.'>5. 85.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वेपथु",
+            "eid": "13986",
+            "pagenum": 902,
+            "content": "वेपथु¦ <i>vep + athu,</i> <ab>m.</ab> Trembling, <ls>Vikr.</ls> <ab>d.</ab> 147; <ls>Pañc.</ls> iii. <ab>d.</ab> 227; tremor. <b> --</b> <b><ab>Comp.</ab></b> <i>Ati-,</i> <ab>adj.</ab> trembling vehemently, <ls>Lass.</ls> 59, 5."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वेपथु",
+            "eid": "7576",
+            "pagenum": 336,
+            "content": "वेपथु¦ <i>m.</i> (r. वेप् s. अथु) tremor. BH. 1. 29."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वेपथु",
+            "eid": "16116",
+            "pagenum": 618,
+            "content": "वेपथु¦ <i>vepathu</i> <ab>m.</ab> (<ab>sfx.</ab> <i>athu)</i> tremblement."
+        }
     ]
 }

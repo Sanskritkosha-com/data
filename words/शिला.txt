@@ -36,5 +36,29 @@
             "synonyms": [],
             "content": "मनःशिलायां नैपाली शिला च सुधिया मता ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "शिला",
+            "eid": "27986",
+            "pagenum": 1045,
+            "content": "शिला¦ <b>1</b> A stone, rock. <b>--2</b> A <lbinfo n='grind+stone'/> grindstone. <b>--3</b> The lower timber of a door. <b>--4</b> The top of a column. <b>--5</b> A tendon, vein (for शिरा). <b>--6</b> Red arsenic. <b>--7</b> Camphor. <b>--Comp.</b>  <lbinfo n='--a#wakaH'/> --अटकः {1} a hole. {2} a fence, an <lbinfo n='enclo+sure'/> enclosure. {3} a room on the top of a house. --आत्मजं iron. --आत्मिका a crucible. --आरंभा the wild plantain. --आसनं {1} a slab of stone used as a seat. {2} benzoin. --आह्वं bitumen. --उच्चयः a mountain; huge rock;  <lbinfo n='ls:R.+ 2. 34.'/> <ls>R. 2. 34.</ls> --उत्थं benzoin. --उधवं {1} benzoin. {2} a superior kind of <lbinfo n='san+dal'/> sandal-wood. --अओकस् <i><ab>m.</ab></i> an epithet of Garuḍa. --कुद्दकः a stone-cutter's chisel. --कुसुमं, --पुष्पं benzoin. --ज <i><ab>a.</ab></i> fossil, mineral. --जं {1} bitumen. {2} benzoin. {3} petroleum. {4} iron. {5} any fossil production. --जतु <i><ab>n.</ab></i> {1} bitumen. {2} red chalk. --जित <i><ab>f.</ab></i>, --दद्रुः bitumen. --धातुः {1} chalk. {2} red chalk. {3} a white fossil substance. --पट्टः --पट्टकः {1} a flat-stone for grinding &c. {2} a slab (of stone) used as a seat, stone seat. --पुत्रः, --पुत्रकः a small flat stone for <lbinfo n='grind+ing'/> grinding condiments upon. --प्रतिकृतिः <i><ab>f.</ab></i> an image of stone. --फलकं a stone slab. --भवं benzoin. --भेदः a stone cutter's chisel. --रसः {1} benzoin. {2} incense. --वल्कलः --लं, --वल्का a kind of moss. --वृष्ट्रिः <i><ab>f.</ab></i> {1} a shower of stones. {2} hail. --वेश्मन् <i><ab>n.</ab></i> a grotto rocky recess. --व्याधिः bitumen. --सारं iron."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "शिला",
+            "eid": "15019",
+            "pagenum": 528,
+            "content": "<b>śilā</b>¦, (<b>1</b>) (= <lang>Pali</lang> silā, defined in <ls>PTSD</ls> <i>a precious stone, quartz!</i>; read <ab>prob.</ab> <i>crystal</i>), <i>crystal</i>: <ls>Mvy</ls> 〔5955〕, in a list of gems, = <lang>Tib.</lang> <tib>man śel</tib>; (<b>2</b>) a high number: <ls>Gv</ls> 〔106.10〕 (precedes <b>śvelā</b>; seems to have no correspondent in <ls>Gv</ls> 〔133〕 and the list cited thence in <ls>Mvy</ls>)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "शिला",
+            "eid": "7879",
+            "pagenum": 349,
+            "content": "शिला¦ <i>f.</i> lapis, saxum, petra. A. 9. 24. (Cf. lat. <i>silex</i>, hib. <i>clach, cloch</i> lapis.)"
+        }
     ]
 }

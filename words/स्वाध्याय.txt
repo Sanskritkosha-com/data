@@ -34,5 +34,35 @@
             "synonyms": [],
             "content": "देवभूयादिकं तद्वदथोपाकरणं श्रुतेः ॥ ८४१ ॥\nसंस्कारपूर्वं ग्रहणं स्यात्स्वाध्यायः पुनर्जपः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "स्वाध्याय",
+            "eid": "29310",
+            "pagenum": 1,
+            "content": "स्वाध्याय¦ śr. Oudh XIX, 24. Bhk. 22."
+        },
+        {
+            "word": "स्वाध्याय",
+            "eid": "39060",
+            "pagenum": 2,
+            "content": "स्वाध्याय¦ śr. Oudh XXI, 22. XXII, 36."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "स्वाध्याय",
+            "eid": "8804",
+            "pagenum": 396,
+            "content": "स्वाध्याय¦ <i>m.</i> (e स्व proprius et अध्याय lectio a rad. इ praef. अधि suff. अ) tacita vel susurrans lectio <i>Vêdorum.</i> SU. 2. 22. BH. 4. 28. 16. 1."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "स्वाध्याय",
+            "eid": "19454",
+            "pagenum": 746,
+            "content": "स्वाध्याय¦ <i>svādhyāya</i> <ab>m.</ab> <i>(su; adhyāya)</i> la lecture à voix basse du <s1 slp1='veda'>Veda</s1>.  <P><i>svādhyāyavat</i> <ab>a.</ab> qui pratique la lecture à voix basse du <s1 slp1='veda'>Veda</s1>.  <P><i>svādhyāyin</i> <ab>m.</ab> étudiant qui lit à voix basse. || Marchand, négociant."
+        }
     ]
 }

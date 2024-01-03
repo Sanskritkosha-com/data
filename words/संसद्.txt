@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "सभ्याः सदस्याः पार्षद्याः सभास्ताराः सभासदः ॥ ४८० ॥\nसामाजिकाः सभा संसत्समाजः परिषत्सदः ।\nपर्षत्समज्यागोष्ठ्यास्था आस्थानं समितिर्घटा ॥ ४८१ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "संसद्",
+            "eid": "28713",
+            "pagenum": 1071,
+            "content": "संसद्¦ {c1c} {c6c} <ab>P.</ab> <b>1</b> To sit down, sit down together. <b>--2</b> To be <lbinfo n='afflict+ed'/> afflicted, be in distress. <b>--3</b> To pine away."
+        },
+        {
+            "word": "संसद्",
+            "eid": "28714",
+            "pagenum": 1071,
+            "content": "संसद्¦ <i><ab>f.</ab></i> <b>1</b> An assembly, meeting, circle; संसत्सु जाते पुरुषाधिकारे  <lbinfo n='ls:Ki.+ 3. 51'/> <ls>Ki. 3. 51</ls>; छात्रससदि लब्धकीर्तिः <ls>Pt. 1</ls>; <ls>R. 16. 24.</ls> <b>--2</b> A court of justice; <ls>Ms. 8. 52.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "संसद्",
+            "eid": "15228",
+            "pagenum": 985,
+            "content": "संसद्¦ <i>saṃsad,</i> <ab>i. e.</ab> <i>sam-sad,</i> <ab>f.</ab> <b>1.</b> An assembly, <ls>Pañc.</ls> 19, 14. <b>2.</b> Court of justice, <ls>Man.</ls> 8, 52."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "संसद्",
+            "eid": "8129",
+            "pagenum": 362,
+            "content": "संसद्¦ <i>f.</i> (r. सद् ire praef. सम्) coetus. N. 17. 36. 13. 10."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "संसद्",
+            "eid": "18296",
+            "pagenum": 704,
+            "content": "संसद्¦ <i>saṃsad</i> <ab>f.</ab> <i>(sad)</i> réunion; séance."
+        }
     ]
 }

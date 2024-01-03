@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "मेधिर्मेथिः खलेवाली खले गोबन्धदारु यत् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "मेधि",
+            "eid": "23484",
+            "pagenum": 879,
+            "content": "मेधि¦ See मेथि."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "मेधि",
+            "eid": "11556",
+            "pagenum": 725,
+            "content": "मेधि¦ <i>medhi,</i> see <i>methi.</i>"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "मेधि",
+            "eid": "13599",
+            "pagenum": 516,
+            "content": "मेधि¦ <i>medhi</i> <ab>m.</ab> <ab>cf.</ab> <i>methi.</i>"
+        }
     ]
 }

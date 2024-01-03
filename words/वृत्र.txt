@@ -25,5 +25,37 @@
             "synonyms": [],
             "content": "दिनात्ययः प्रदोषे स्याद्ध्वान्ते वृत्रो रजोबलम् ॥ १९ ॥\nरात्रिरागो नीलपङ्को दिनाण्डं दिनकेसरः ।\nखपरागो निशावर्म वियद्भूतिर्दिगम्बरः ॥ २० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वृत्र",
+            "eid": "26855",
+            "pagenum": 1007,
+            "content": "वृत्रः¦ [वृत्-रक्] <b>1</b> <ab>N.</ab> of a demon killed by Indra; (he is supposed to be a personification of darkness); see इंद्र. <b>--2</b> A cloud. <b>--3</b> Darkness. <b>--4</b> An enemy. <b>--5</b> Sound. <b>--6</b> A wheel. <b>--7</b> <ab>N.</ab> of Indra. <b>--8</b> A mountain. <b>--Comp.</b> --अरिः, --द्विष् <i><ab>m.</ab></i>, --शत्रुः, --हन् <i><ab>m.</ab></i> epithets of Indra; क्रुद्धेऽपि <lbinfo n='pakza#cCidi'/> पक्षच्छिदि वृत्रशत्रौ <ls>Ku. 1. 20</ls>; वाचा हरिं वृत्रहणं स्मितेन <ls n='Ku.'>7. 46.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वृत्र",
+            "eid": "13897",
+            "pagenum": 895,
+            "content": "वृत्र¦ <i>vṛtra,</i> <ab>m.</ab> <b>1.</b> The name of a demon slain by Indra, <ls>Chr.</ls> 292, 9 = <ls>Rigv.</ls> i. 85, 9; <ls>Chr.</ls> 18, 41. <b>2.</b> An enemy. <b>3.</b> Darkness. <b>4.</b> A cloud. <b>5.</b> A mountain. <b>6.</b> Sound. <b>7.</b> A wheel."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वृत्र",
+            "eid": "7528",
+            "pagenum": 333,
+            "content": "वृत्र¦ <i>m. Vritrus</i>, nomen <i>Daityi</i>, quem <i>Indrus</i> occidit."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वृत्र",
+            "eid": "16016",
+            "pagenum": 613,
+            "content": "वृत्र¦ <i>vṛtra</i> <ab>m.</ab> (<ab>sfx.</ab> <i>tra)</i> nuage [<ab>m à m.</ab> qui couvre]; obscurité; || <s1 slp1='vftra'>Vṛtra</s1> [ou le nuage personnifié], ennemi d'<s1 slp1='indra'>Indra</s1>; || par <ab>ext.</ab> ennemi, <lbinfo n='5'/> en <ab>gén.</ab> || Bruit || <ab>Np.</ab> d'une montagne. || <ab>Zd.</ab> vcrethra; <ab>gr.</ab> <lang n='greek'>Ὄρθρος</lang> <ab>(?)</ab>  <P><i>vṛtradviṣ</i> <ab>m.</ab> <s1 slp1='indra'>Indra</s1>.  <P><i>vṛtraśatru</i> <ab>m.</ab> <s1 slp1='indra'>Indra</s1>.  <P><i>vṛtrahan</i> <ab>m.</ab> <i>(han)</i> <s1 slp1='indra'>Indra</s1>. -- <ab>A.</ab> victorieux. <lbinfo n='6'/>  <P><i>vṛtrāri</i> <ab>m.</ab> <i>(ari)</i> <s1 slp1='indra'>Indra</s1>."
+        }
     ]
 }

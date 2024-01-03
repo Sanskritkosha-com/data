@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "नागाः पुनः काद्रवेयास्तेषां भोगावती पुरी ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "काद्रवेय",
+            "eid": "10682",
+            "pagenum": 393,
+            "content": "काद्रवेयः¦ A kind of snake;  <lbinfo n='ls:Śi.+ 20. 43.'/> <ls>Śi. 20. 43.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "काद्रवेय",
+            "eid": "3200",
+            "pagenum": 174,
+            "content": "काद्रवेय¦ <i>kādraveya,</i> <ab>i. e.</ab> <i>kadrū + eya,</i> metron. <ab>m.</ab> A serpent, <ls>MBh.</ls> 1, 2549."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "काद्रवेय",
+            "eid": "4334",
+            "pagenum": 154,
+            "content": "काद्रवेय¦ <i>kādraveya</i> <ab>m.</ab> (enfant de <s1 slp1='kadru'>Kadru</s1>) <lbinfo n='4'/> <s1 slp1='nAga'>nāga</s1>, serpent mythologique."
+        }
     ]
 }

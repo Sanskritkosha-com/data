@@ -20,5 +20,37 @@
             "synonyms": [],
             "content": "पुस्तं लेप्यादिकर्म स्यान्नापितश्चण्डिलः क्षुरी ॥ ९२२ ॥\nक्षुरमर्दी दिवाकीर्तिर्मुण्डकोऽन्तावसाय्यपि ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पुस्त",
+            "eid": "19213",
+            "pagenum": 714,
+            "content": "पुस्तं¦ <b>1</b> Plastering, painting, <lbinfo n='a+nointing'/> anointing. <b>--2</b> Working in clay, <lbinfo n='mo+delling'/> modelling. <b>--3</b> Anything made of clay, wood or metal. <b>--4</b> A book, <lbinfo n='manu+script'/> manuscript. <b>--Comp.</b> --कर्मन् <i><ab>n.</ab></i> plastering, painting."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पुस्त",
+            "eid": "9057",
+            "pagenum": 566,
+            "content": "पुस्त¦ <i>pusta,</i> <b>I.</b> <ab>m.</ab> and <ab>n.</ab> A book. <b>II.</b> <ab>n.</ab> Working in clay, modelling, <ls>Kathās.</ls> 34, 172."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "पुस्त",
+            "eid": "9684",
+            "pagenum": 350,
+            "content": "<b>pusta-</b>¦, <ab>acc.</ab> to <lang>Tib.</lang> <i>letter</i> (of the alphabet); <ab>perh.</ab> more generally (painted) <i>figure</i> (for decoration; in <lang>Skt.</lang> said to mean <i>modelled figure</i>): <ls>LV</ls> 〔95.12〕 (prose) tāni (elephants, <ab>perh.</ab> also other animals born at the same time with the Bodhisattva) sarvāṇi rājñā Śuddhodanena pusta-varopetāni (<lang>Tib.</lang> <tib>sna graṅs yi ger bris te</tib>, which <ls>Foucaux</ls> 〔97〕 renders <i><fr>marqués dʼun grand nombre de peintures diverses</fr></i>) kumārasya krīḍārthaṃ dattāny abhūvan; <ls>Foucaux</ls> renders the <lang>Skt.</lang> <i><fr>marqués (à la trompe) de belles lettres peintes</fr></i>. (In <lang>Skt.</lang> <i>manuscript, book</i>, = the more usual pustaka.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "पुस्त",
+            "eid": "11243",
+            "pagenum": 419,
+            "content": "पुस्त¦ <i>pusta</i> <ab>n.</ab> action d'oindre, d'enduire, de peindre, <ab>etc.</ab> -- <ab>N.</ab> et <i>pustī</i> <ab>f.</ab> livre, manuscrit, <lbinfo n='8'/> liasse.  <P><i>pustaka</i> <ab>n.</ab> et <i>pustakī</i> <ab>f.</ab> livre, manuscrit, liasse.  <P><i>pustakarman</i> <ab>n.</ab> action d'enduire, de peindre, <lbinfo n='4'/> <ab>etc.</ab>"
+        }
     ]
 }

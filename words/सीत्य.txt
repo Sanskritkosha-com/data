@@ -23,5 +23,29 @@
             "synonyms": [],
             "content": "धान्यं तु सस्यं सीत्यं च व्रीहिः स्तम्बकरिश्च तत् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "सीत्य",
+            "eid": "30329",
+            "pagenum": 1125,
+            "content": "सीत्य¦ <i><ab>a.</ab></i> Measured out by furrows, tilled, ploughed. --त्यं Rice, corn, grain."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "सीत्य",
+            "eid": "16177",
+            "pagenum": 1046,
+            "content": "सीत्य¦ <i>sītya,</i> <ab>i. e.</ab> <i>sīta + ya,</i> <b>I.</b> <ab>adj.</ab>  Tilled, ploughed. <b>II.</b> n. Corn, grain. -- <ab>Cf.</ab> probably <lang n='greek'>σῖτος</lang>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "सीत्य",
+            "eid": "18607",
+            "pagenum": 715,
+            "content": "सीत्य¦ <i>sītya</i> <ab>a.</ab> labouré. -- <ab>S.</ab> <ab>n.</ab> blé, riz, <ab>etc.</ab> || <ab>Gr.</ab> <lang n='greek'>σῖτος</lang>."
+        }
     ]
 }

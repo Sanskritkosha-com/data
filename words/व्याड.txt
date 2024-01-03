@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "व्यालो व्याडोऽपवाह्योऽप्यौपवाह्येऽपराऽवरा ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "व्याड",
+            "eid": "27348",
+            "pagenum": 1022,
+            "content": "व्याडः¦ <b>1</b> A carnivorous animal, such as a tiger. <b>--2</b> A villain, rogue. <b>--3</b> A snake. <b>--4</b> <ab>N.</ab> of Indra; <ab>cf.</ab> व्याल."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "व्याड",
+            "eid": "14242",
+            "pagenum": 917,
+            "content": "व्याड¦ <i>vyāḍa,</i> <ab>m.</ab> <b>1.</b> A snake. <b>2.</b> A beast of prey. <b>3.</b> A rogue. <b>4.</b> Indra (<ab>cf.</ab> <i>vyāla</i>)."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "व्याड",
+            "eid": "14692",
+            "pagenum": 517,
+            "content": "<b>vyāḍa</b>¦, (<b>1</b>) <lex>m.</lex> (<lang>Skt.</lang> <ab>Gr.</ab> <ab>id.</ab>, and in <ab>mg.</ab> <i>wild beast</i> in <lang>Skt.</lang> literature; = normal <lang>Skt.</lang> vyāla, <lang>Pali</lang> vāḷa), <i>wild beast</i> and <i>serpent</i>: both given by <lang>Tib.</lang>, <tib>ma ruṅs pa, gdug pa</tib>, also <tib>sbrul</tib>, for <ls>Mvy</ls> 〔6962〕; <i>serpent</i> in <ls>Mvy</ls> 〔4841〕, = <lang>Tib.</lang> <tib>klu, sbrul</tib>; vyāḍa-mṛga (= <lang>Skt.</lang> vyāla°, <lang>Pali</lang> vāḷamiga), <i>wild beast</i>, <ls>Mv</ls> 〔ii.215.16〕 (siṃhena vyāghreṇa vā anyena vā vyāḍamṛgeṇa); 〔216.5〕; vaneṣu ca vyāḍamṛgākuleṣu <ls>Jm</ls> 〔122.18〕 (<ab>vs</ab>); (<b>2</b>) <lex>adj.</lex> (<lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab>, <lang>Skt.</lang> vyāla), <i>violent, troublesome</i>: <ls>MSV</ls> 〔ii.8.13〕."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "व्याड",
+            "eid": "16369",
+            "pagenum": 627,
+            "content": "व्याड¦ <i>vyāḍa</i> <ab>m.</ab> <i>(aḍ)</i> serpent; bête de proie; || coquin, voleur. || <s1 slp1='indra'>Indra</s1>."
+        }
     ]
 }

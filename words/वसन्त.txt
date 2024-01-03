@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "वसन्त इष्यः सुरभिः पुष्पकालो बलाङ्गकः ॥ १५६ ॥"
         }
+    ],
+    "ACC": [
+        {
+            "word": "वसन्त",
+            "eid": "21592",
+            "pagenum": 1,
+            "content": "वसन्त¦ son of Vimalākara, father of Balabhadra (Bhāsvatīṭīkā 1544). L. 785."
+        },
+        {
+            "word": "वसन्त",
+            "eid": "36782",
+            "pagenum": 2,
+            "content": "वसन्त¦ father of Maṇirāma (Vṛttaratnāvalī med. 1642)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वसन्त",
+            "eid": "12895",
+            "pagenum": 826,
+            "content": "वसन्त¦ <i>vasanta,</i> <ab>m.</ab> <b>1.</b> The season of spring, <ls>Pañc.</ls> v. <ab>d.</ab> 4; personified, <ls>Lass.</ls> 2. ed. 51, 26. <b>2.</b> Diarrhœa. <b>3.</b> Small-pox. <b> -- <ab>Comp.</ab></b> <i>Su-,</i> <ab>m.</ab> the day of full moon in the month Caitra, a festival in honour of Kāma. -- <ab>Cf.</ab> <lang n='greek'>ἔαρ</lang>; <ab>Lat.</ab> ver."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वसन्त",
+            "eid": "7088",
+            "pagenum": 313,
+            "content": "वसन्त¦ <i>m.</i> (r. वस् s. अन्त) ver. (Slav. <i>vesna</i> id.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वसन्त",
+            "eid": "14904",
+            "pagenum": 571,
+            "content": "वसन्त¦ <i>vasanta</i> <ab>m.</ab> (<ab>sfx.</ab> <i>anta)</i> le printemps temps; || <s1 slp1='vasanta'>Vasanta</s1>, dieu du printemps. || Diarrhée. || <ab>Slav.</ab> vesna; <ab>cf.</ab> <ab>lat.</ab> ver, <ab>gr.</ab> <lang n='greek'>ἔαρ</lang>.  <P><i>vasantakusuma</i> <ab>m.</ab> cordia, <ab>bot.</ab>  <P><i>vasantaghoṣin</i> <ab>m.</ab> coucou.  <P><i>vasantadūta</i> <ab>m.</ab> le coucou; || le manguier. <lbinfo n='6'/> || Le mois de <i>caitra.</i> || Le 5ᵉ <i>rāga</i> ou mode musical. -- <ab>F.</ab> [<i>ī</i>] bignonia; gærtnera <lbinfo n='4'/> racemosa, <ab>bot.</ab>  <P><i>vasantadru</i> <ab>m.</ab> le manguier.  <P><i>vasantasakha</i> <ab>m.</ab> <s1 slp1='kAma'>Kāma</s1>."
+        }
     ]
 }

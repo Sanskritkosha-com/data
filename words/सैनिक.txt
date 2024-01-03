@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "सेनायां ये समवेतास्ते सैन्याः सैनिका अपि ॥ ७६३ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "सैनिक",
+            "eid": "30563",
+            "pagenum": 1138,
+            "content": "सैनिक¦ <i><ab>a.</ab></i> (की <i><ab>f.</ab></i>) [सेनायां समवैति ठक्] <b>1</b> Relating to an army. <b>--2</b> Martial, military. --कः <b>1</b> A soldier; पपात भूमौ सह सैनिकाश्रुभिः <ls>R. 3. 61.</ls> <b>--2</b> A guard, sentinel. <b>--3</b> The body of troops drawn up in battle-array <ls>R. 3. 57.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "सैनिक",
+            "eid": "16388",
+            "pagenum": 1061,
+            "content": "सैनिक¦ <i>sainika,</i> <ab>i. e.</ab> <i>senā + ika,</i> <b>I.</b> <ab>adj.</ab> Belonging or relating to an army. <b>II.</b> <ab>m.</ab> <b>1.</b> A soldier, <ls>Hit.</ls> ii. <ab>d.</ab> 82; <ls>Rājat.</ls> 5, 430. <b>2.</b> A guard, a picket. <b>3.</b> A body of forces in array."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "सैनिक",
+            "eid": "8582",
+            "pagenum": 382,
+            "content": "सैनिक¦ <i>m.</i> (a सेना exercitus s. इक) bellator, miles. SU. 2. 9. 14. DR. 8. 36."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "सैनिक",
+            "eid": "19021",
+            "pagenum": 729,
+            "content": "सैनिक¦ <i>sainika</i> <ab>a.</ab> <i>(senā)</i> d'armée, relatif à une armée. -- <ab>S.</ab> <ab>m.</ab> soldat, guerrier, corps d'armée."
+        }
     ]
 }

@@ -12,5 +12,49 @@
             "synonyms": [],
             "content": "जाङ्गुलिको विषभिषक्स्वास्थ्यं वार्तमनामयम् ।\nसह्यारोग्ये पटूल्लाघवार्तकल्यास्तु नीरुजि ॥ ४७४ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "सह्य",
+            "eid": "29969",
+            "pagenum": 1112,
+            "content": "सह्य¦ <i><ab>a.</ab></i> <b>1</b> Bearable, supportable, endurable; अपि सह्या ते शिरोवेदना <ls>Mu. 5</ls>; <ls>M. 3. 4.</ls> <b>--2</b> To be borne or endured; कथं तूष्णीं सह्यो <lbinfo n='niravaDiri#dAnIM'/> निरवधिरिदानीं तु विरहः <ls>U. 3. 44.</ls> <b>--3</b> Able to bear. <b>--4</b> Adequate or equal to. <b>--5</b> Sweet, agreeable. <b>--6</b> Strong, powerful. --ह्यः <ab>N.</ab> of one of the seven principal mountain ranges in India, a part of the western Ghats at some distance from the sea; रामास्त्रोत्सारितोण्यासीत्सह्यलग्न <lbinfo n='ivA#rRavaH'/> इवार्णवः <ls>R. 4. 53</ls>, <ls n='R. 4.'>52</ls>; <ls>Ki. 18. 5.</ls> --ह्यं <b>1</b> Health, convalescence. <b>--2</b> <lbinfo n='Assist+ance'/> Assistance. <b>--3</b> Fitness, adequacy. <b>--Comp.</b> --आत्मजा <ab>N.</ab> of the river Kāverī."
+        },
+        {
+            "word": "सह्य",
+            "eid": "32168",
+            "pagenum": 1196,
+            "content": "सह्य¦ One of the seven principal chains of mountains in India. It is still known as Sahyādri, and is the same as the Western Ghats as far as their junction with the Neilgherries north of the Malaya."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "सह्य",
+            "eid": "15940",
+            "pagenum": 1029,
+            "content": "सह्य¦ <i>sahya,</i> <b>A.</b> See <i>sah.</i> <b>B.</b> <ab>i. e.</ab> <i>saha</i> <i>+ ya,</i> <b>I.</b> <ab>adj.</ab> Powerful, strong. <b>II.</b> <ab>n.</ab> <b>1.</b> Health, convalescence. <b>2.</b> Assistance, <ls>Rām.</ls> 6, 3, 26. <b><ab>C.</ab></b> <ab>m.</ab> The name of a range of mountains, <ls>Kir.</ls> 18, 5. <ab>Cf.</ab> perhaps <lang n='greek'>σαο</lang> and <lang n='greek'>σω</lang> in <lang n='greek'>σαώτερος, σῶος, σωτήρ, σώζω, σῶκος</lang>; <ab>Lat.</ab> sanus, but questionable on account of <ab>A.S.</ab> sund; <ab>O.H.G.</ab> ga-sunt (perhaps = <i>saha</i> <i>+ vant</i>)."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "सह्य",
+            "eid": "16606",
+            "pagenum": 588,
+            "content": "<b>sahya</b>¦, <lex>nt.</lex> (= <lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab>), <i>health, welfare, fortune</i>: [Page589-a] <ls>Divy</ls> 〔258.16〕, see <ab>s.v.</ab> <b>asahya</b>, to which this is <ab>prob.</ab> a secondary back-formation."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "सह्य",
+            "eid": "18269",
+            "pagenum": 703,
+            "content": "सह्य¦ <i>sahya</i> <ab>a.</ab> <i>(sah)</i> qu'il faut endurer. || Fort, vigoureux. -- <ab>S.</ab> <ab>n.</ab> vigueur; santé. -- <ab>S.</ab> <ab>m.</ab> la chaîne de montagnes du <ab>n.-o.</ab> de l'Inde d'où descend la <s1 slp1='godAvarI'>Godāvarī</s1>."
+        },
+        {
+            "word": "सह्य",
+            "eid": "18270",
+            "pagenum": 703,
+            "content": "सह्य¦ <i>sahya</i> <ab>a.</ab> <i>(saha)</i> égal, adéquat. || Doux, agréable."
+        }
     ]
 }

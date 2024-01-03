@@ -25,5 +25,37 @@
             "synonyms": [],
             "content": ";c{इति वायुकायः ।}\nवृक्षे त्वारोहकः स्कन्धी सीमिको हरितच्छदः ।\nऊरुर्जन्तुर्वह्रिभूश्च"
         }
+    ],
+    "BEN": [
+        {
+            "word": "जन्तु",
+            "eid": "5263",
+            "pagenum": 323,
+            "content": "जन्तु¦ <i>jan + tu,</i> <ab>m.</ab> <b>1.</b> A creature, <ls>Man.</ls> 3, 77. <b>2.</b> A man, <ls>Man.</ls> 4, 240. <b>3.</b> A proper name, <ls>Bhāg. P.</ls> 9, 22, 1. <b> --</b> <b><ab>Comp.</ab></b> <i>Karkaṭī-,</i> <ab>m.</ab> the offspring of a crab, <ls>Cāṇ.</ls> 56 in Berl. Monatsb. <i>Jala-,</i> <ab>m.</ab> an aquatic animal, <ls>Hit.</ls> i. <ab>d.</ab> 187."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "जन्तु",
+            "eid": "6471",
+            "pagenum": 238,
+            "content": "<b>jantu-</b>¦, in <ls>Divy</ls> 〔418.1〕 jantu-gṛhaṃ praveśayitvā dagdhā (Tiṣyarakṣitā); note conjectures jatu-, <i>lac</i>. But <ab>cf.</ab> <lang>Pali</lang> jantu, <ls>Vin.</ls> 〔i.196.6〕, a kind of grass used for making coverlets (corresponds to <ls>Divy</ls> 〔19.22〕 <b>janduraka</b>; see <ab>s.v.</ab> <b>eraka</b>); <i>a house made of jantu-grass</i> would make possible sense."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "जन्तु",
+            "eid": "3368",
+            "pagenum": 135,
+            "content": "जन्तु¦ <i>m.</i> (r. जन् s. तु) animal, animans, creatura. RAGH. 8. 86. BHAR. 2. 9. 3. 45. BH. 5. 15."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "जन्तु",
+            "eid": "7025",
+            "pagenum": 259,
+            "content": "जन्तु¦ <i>jantu</i> <ab>m.</ab> (<ab>sfx.</ab> <i>tu)</i> produit vivant, créature, en <ab>gén.</ab>; animal, bête.  <P><i>jantughna</i> <ab>n.</ab> et <i>jantughnī</i> <ab>f.</ab> <i>(han)</i> plante vermifuge; toute drogue tuant les animaux.  <P><i>jantuphala</i> <ab>m.</ab> ficus glomerata, <ab>bot.</ab>  <P><i>jantulā</i> <ab>f.</ab> (<ab>sfx.</ab> <i>la</i>) saccharum spontaneum, <ab>esp.</ab> de canne à sucre, <ab>bot.</ab>"
+        }
     ]
 }

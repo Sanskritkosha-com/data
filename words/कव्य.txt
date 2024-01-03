@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "हव्यं सुरेभ्यो दातव्यं पितृभ्यः कव्यमोदनम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "कव्य",
+            "eid": "10565",
+            "pagenum": 389,
+            "content": "कव्यं¦ (<ab>opp.</ab> हव्य) An oblation of food to deceased ancestors; एष वै <lbinfo n='pra#TamaH'/> प्रथमः कल्पः प्रदाने हव्यकव्ययोः  <lbinfo n='ls:Ms. 3.+ 147'/> <ls>Ms. 3. 147</ls>, <ls n='Ms. 3.'>97</ls>, <ls n='Ms. 3.'>128.</ls> --व्यः A class of manes. <b>--Comp.</b> --वालः {1} fire. {2} a class of manes. --वाह् <i><ab>m.</ab></i>, --वाहः,  <lbinfo n='--'/> --वाहनः fire."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "कव्य",
+            "eid": "3139",
+            "pagenum": 171,
+            "content": "कव्य¦ <i>kavya,</i> <ab>i. e.</ab> <i>kavi + ya,</i> <ab>n.</ab> An oblation to deceased ancestors (the wise men of old), <ls>Man.</ls> 1, 95."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कव्य",
+            "eid": "1992",
+            "pagenum": 69,
+            "content": "कव्य¦ <i>n.</i> (ut videtur a r. कु s. य, sicut हव्य q. v. ab हु) cibus, qui Manibus offertur. SU. 2. 10."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कव्य",
+            "eid": "4244",
+            "pagenum": 151,
+            "content": "कव्य¦ <i>kavya</i> <ab>n.</ab> <i>(kav)</i> offrande aux Ancêtres <lbinfo n='4'/> ou Pitris.  <P><i>kavyavāla</i> <ab>m.</ab> <ab>np.</ab> d'un des Pitris."
+        }
     ]
 }

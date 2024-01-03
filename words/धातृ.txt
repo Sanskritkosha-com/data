@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "द्रुहिणो विरिञ्चिर्द्रुघणो विरिञ्चः परमेष्ठ्यजोऽष्टश्रवणः स्वयंभूः ।\nकमनः कविः सात्त्विकवेदगर्भौ स्थविरः शतानन्दपितामहौ कः ॥ २११ ॥\nधाता विधाता विधिवेधसौ ध्रुवः पुराणगो हंसगविश्वरेतसौ ।\nप्रजापतिर्ब्रह्मचतुर्मुखौ भवान्तकृज्जगत्कर्तृसरोरुहासनौ ॥ २१२ ॥\nशंभुः शतधृतिः स्रष्टा सुरज्येष्ठो विरिञ्चनः ।\nहिरण्यगर्भो लोकेशो नाभिपद्मात्मभूरपि ॥ २१३ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "धातृ",
+            "eid": "16005",
+            "pagenum": 595,
+            "content": "धातृ¦ <i><ab>m.</ab></i> [धा-तृच्] <b>1</b> A maker, creator, originator, author. <b>--2</b> A bearer, preserver, supporter. <b>--3</b> An epithet of Brahmā, the creator of the world; मन्ये दुर्जनचित्तवृत्तिहरणे <lbinfo n='DAtA#pi'/> धातापि भग्नोद्यमः <ls>H. 2. 165</ls>; <ls>R. 13. 6</ls>; <ls>Śi. 1. 13</ls>; <ls>Ku. 7. 44</ls>; <ls>Ki. 12. 33.</ls> <b>--4</b> An epithet of Viṣṇu. <b>--5</b> The soul. <b>--6</b> <ab>N.</ab> for the seven sages (सप्तर्षि) being the first creation of Brahmā; <ab>cf.</ab>  <lbinfo n='ls:Ku.+ 6. 9.'/> <ls>Ku. 6. 9.</ls> <b>--7</b> A married woman's <lbinfo n='para+mour'/> paramour, adulterer. <b>--8</b> One of the forty-nine winds. <b>--9</b> An arranger. <b>--10</b> One who nourishes. <b>--Comp.</b> --पुत्रः an epithet of Sanatkumāra."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "धातृ",
+            "eid": "6986",
+            "pagenum": 438,
+            "content": "धातृ¦ <i>dhā + tṛ,</i> <ab>m.</ab> <b>1.</b> The creator, <ls>Ragh.</ls> 13, 6. <b>2.</b> A bearer, <ls>Hariv.</ls> 11851. <b>3.</b> A preserver, <ls>MBh.</ls> 1, 1722. <b>4.</b> One of the Ādityas, <ls>MBh.</ls> 1, 2523. <b>5.</b> A name of Brahman, <ls>Man.</ls> 5, 30. <b>6.</b> A son of Brahman, <ls>MBh.</ls> 1, 2614. <b>7.</b> An adulterer, <ls>Daśak.</ls> 191, 11. <b> -- <ab>Comp.</ab></b> <i>Jagat-,</i> I. <ab>m.</ab> a name of Brahman. II. <ab>f.</ab> <i>dhātrī,</i> a name of Sarasvatī, <ls>Mārk. P.</ls> 23, 30. -- <ab>Cf.</ab> <ab>Lat.</ab> con-ditor."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "धातृ",
+            "eid": "7900",
+            "pagenum": 284,
+            "content": "<b>dhātṛ</b>¦ = <b>dhātrī</b>, <i>nurse</i>: mātṛbhir dhātṛbhiś (both <ab>edd.</ab>, no <ab>v.l.</ab>) ca rudantībhiḥ parivṛtāḥ <ls>SP</ls> 〔160.14〕 (prose), <i>surrounded by their weeping mothers and nurses</i>. The form has phonetic aspects (〔§ 3.95〕) but may and doubtless should be regarded as in part, and perhaps primarily, a riming adaptation to the preceding mātṛbhiḥ."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "धातृ",
+            "eid": "4354",
+            "pagenum": 183,
+            "content": "धातृ¦ <i>m.</i> (r. धा s. तृ) 1) creator. BH. 9. 17. 2) nomen dei Brahmae. BR. 1. 29."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "धातृ",
+            "eid": "9297",
+            "pagenum": 343,
+            "content": "धातृ¦ <i>dhātṛ</i> <ab>m.</ab> (<ab>sfx.</ab> <i>tṛ)</i> celui qui pose, fondateur; qui soutient, qui maintient, qui tient, qui <ab>a.</ab> -- <ab>S.</ab> <ab>m.</ab> père, auteur de la famille. <lbinfo n='6'/> || <s1 slp1='brahmA'>Brahmā</s1>, <s1 slp1='vizRu'>Viṣṇu</s1>, fondateurs du monde. -- <ab>S.</ab> <ab>f.</ab> <i>dhātrī</i> mère; || nourrice (<ab>cf.</ab> <i>dhe)</i>. || La terre. || Phyllanthus emblica, <ab>bot.</ab>  <P><i>dhātṛpuṣpikā</i> <ab>f.</ab> grislea tomentosa, <ab>bot.</ab>  <P><i>dhātrīkā</i> <ab>f.</ab> phyllanthus emblica, <ab>bot.</ab>  <P><i>dhātrīputra</i> <ab>m.</ab> acteur.  <P><i>dhātrīphala</i> <ab>n.</ab> le fruit du phyllanthe ou myrobalan."
+        }
     ]
 }

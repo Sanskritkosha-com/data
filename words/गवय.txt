@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "गवयः स्याद्वनगवो गोसदृक्षोऽश्ववारणः ॥ १२८६ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "गवय",
+            "eid": "12410",
+            "pagenum": 456,
+            "content": "गवयः¦ A species of ox; गोसदृशो गवयः <ls>T. S.</ls>; दृष्टः कथंचिद्गवयैर्विविग्नैः <ls>Ku. 1. 56</ls>; <ls>Rs. 1. 23.</ls> --यी The female Gayal."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "गवय",
+            "eid": "4376",
+            "pagenum": 259,
+            "content": "गवय¦ <i>gavaya</i> (akin to <i>go</i>), <ab>m.</ab> <b>1.</b> A species of ox, Bos gavæus, <ls>Pañc.</ls> 53,  10. <b>2.</b> The name of a monkey, <ls>Rām.</ls> 4, 25, 33."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "गवय",
+            "eid": "2790",
+            "pagenum": 103,
+            "content": "गवय¦ <i>m.</i> (ut videtur, a गो s. अय) bovis species «the Gayal». DR. 4. 15."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "गवय",
+            "eid": "5796",
+            "pagenum": 214,
+            "content": "गवय¦ <i>gavaya</i> <ab>m.</ab> <i>(go;</i> <ab>sfx.</ab> <i>aya)</i> bos gavæus, <lbinfo n='6'/> <ab>esp.</ab> de bœuf, <ab>Vd.</ab>"
+        }
     ]
 }

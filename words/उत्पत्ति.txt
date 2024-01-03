@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "उत्पत्तिर्जन्मजनुषी जननं जनिरुद्भवः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "उत्पत्ति",
+            "eid": "7897",
+            "pagenum": 297,
+            "content": "उत्पत्तिः¦ <i><ab>f.</ab></i> <b>1</b> Birth;  <lbinfo n='vipadutpattimatA#mupasTitA'/> विपदुत्पत्तिमतामुपस्थिता <ls>R. 8. 83.</ls> <b>--2</b> Production; कुसुमे कुसुमोत्पत्तिः श्रूयते न तु दृश्यते  <lbinfo n='ls:Ś.+Til.'/> <ls>Ś. Til. 17.</ls> <b>--3</b> Source, origin; उत्पत्तिः साधुतायाः <ls>K. 45.</ls> <b>--4</b> Rising, going up, becoming visible, coming into existence. <b>--5</b> Profit, productiveness, produce; स्वल्पोत्पत्तिदेशः  <lbinfo n='ls:Rāj. T. 5.+ 68.'/> <ls>Rāj. T. 5. 68.</ls> <b>--6</b> Producing as a result or <lbinfo n='ef+fect'/> effect. <b>--7</b> Resurrection. <b>--Comp.</b> --कालीन <i><ab>a.</ab></i> taking place at the time of birth. --क्रमः order of birth.  <lbinfo n='--pra#yogaH'/> --प्रयोगः {1} production by the combined action of cause and effect. {2} <lbinfo n='pur+port'/> purport, meaning. --व्यंजकः a type of birth (as investiture with the sacred thread); a mark of the twice-born; <ls>Ms. 2. 68.</ls>"
+        },
+        {
+            "word": "उत्पत्ति",
+            "eid": "30366",
+            "pagenum": 1131,
+            "content": "उत्पत्तिः¦ <i><ab>f.</ab></i> birth of a son.  <lbinfo n='--ni#rviSezam'/> --निर्विशेषम् <i><ab>ind.</ab></i> not differently from a son, just like a son. <ls>R. 5. 6.</ls> --वस्करा the mother of seven <lbinfo n='child+ren'/> children. --स्नेहः paternal affection."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "उत्पत्ति",
+            "eid": "2054",
+            "pagenum": 113,
+            "content": "उत्पत्ति¦ <i>utpatti,</i> <ab>i. e.</ab> <i>ud-pad + ti,</i> <ab>f.</ab> <b>1.</b> Springing up, <ls>Śṛṅgārat.</ls> 20. <b>2.</b> Birth, <ls>Man.</ls> 3, 16; second birth, 2, 68. <b>3.</b> Produce, <ls>Rājat.</ls> 5, 69. <b> -- <ab>Comp.</ab></b> <i>An-,</i> <ab>f.</ab> absence of production, <ls>Daśak.</ls> in <ls>Chr.</ls> 182, 4."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "उत्पत्ति",
+            "eid": "3412",
+            "pagenum": 125,
+            "content": "<b>utpatti</b>¦, <lex>f.</lex> (= <lang>Pali</lang> uppatti, see <ab>esp.</ab> aṭṭhuppatti, <ls>CPD</ls>; <ab>cf.</ab> <lang>Skt.</lang> utpatti in <ls>pw</ls>, 〔4〕), <ab>orig.</ab> <i>occurrence</i>, and so <i>occasion</i>: asyām utpattau <ls>Mvy</ls> 〔9209〕, <i>on this occasion</i>, see <b>nidāna</b> 6."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "उत्पत्ति",
+            "eid": "1289",
+            "pagenum": 46,
+            "content": "उत्पत्ति¦ <i>f.</i> (r. पद् s. ति) origo. DEV. 1. 1. (cf. उत्पादन et v. पद् praef. उत्, unde intelligitur, hoc vocabulum non ex पत् sed ex पद् ortum esse)."
+        }
     ]
 }

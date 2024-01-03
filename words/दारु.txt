@@ -12,5 +12,51 @@
             "synonyms": [],
             "content": "स्थाणौ तु ध्रुवकः शङ्कुः काष्ठे दलिकदारुणी ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "दारु",
+            "eid": "15376",
+            "pagenum": 563,
+            "content": "दारु¦ <i><ab>a.</ab></i> [दीर्यते दॄ-उण्] <b>1</b> Tearing, rending. <b>--2</b> Liberal. <b>--3</b> Kind. --रुः <b>1</b> A liberal or munificent man. <b>--2</b> A <lbinfo n='do+nor'/> donor. <b>--3</b> An artist. --रु <i><ab>n.</ab></i> (said to be <i><ab>m.</ab></i> also) <b>1</b> Wood, a piece of wood, timber. <b>--2</b> A block. <b>--3</b> A lever. <b>--4</b> A bolt. <b>--5</b> The pine or Devadāru tree. <b>--6</b> Ore. <b>--7</b> Brass. <b>--Comp.</b> --अंडः the peacock. --आघाटः the wood-pecker. --कृत्यं wood-work; <ls>Pt. 1. 90.</ls> --गर्भा a wooden puppet. --जः a kind of drum. --पात्रं a wooden vessel, such as a trough. --पुत्रिका, --पुत्री a wooden doll.  <lbinfo n='--mu#KyAhvayA'/> --मुख्याह्वया, मुख्याह्वा a lizard. --यंत्रं {1} a wooden puppet moved by strings. {2} any machinery of wood. --वधूः a wooden doll. --सारः sandal.  <lbinfo n='--hasta#kaH'/> --हस्तकः a wooden spoon."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "दारु",
+            "eid": "6420",
+            "pagenum": 396,
+            "content": "दारु¦ <i>dāru,</i> <ab>i. e.</ab> <i>dṝ + vant = van = u,</i> <ab>n.</ab> <b>1.</b> Wood, <ls>Pañc.</ls> i. <ab>d.</ab> 100. <b>2.</b> A species of pine, Pinus deodora Roxb., <ls>Suśr.</ls> 1, 161, 10. <b> -- <ab>Comp.</ab></b> <i>Deva-,</i> <ab>n.</ab> A species of pine, Pinus deodora Roxb., <ls>Rām.</ls> 2, 76, 16. -- <ab>Cf.</ab> <lang n='greek'>δόρυ, δούρατα</lang> for <lang n='greek'>δορϝατα, δορήϊος</lang>, etc."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "दारु",
+            "eid": "7285",
+            "pagenum": 264,
+            "content": "<b>dāru</b>¦, <lex>m.</lex> (always <lex>nt.</lex>, <ab>acc.</ab> to <ab>Dictt.</ab>, in <lang>Skt.</lang>, <lang>Pali</lang>, and <lang>Pkt.</lang>, except for one <lang>Skt.</lang> <lex>acc.</lex> <ab>sg.</ab> dārum), <i>tree</i>: dāruḥ <ls>LV</ls> 〔188.14〕 (<ab>vs</ab>), end of line, all <ab>mss.</ab> <ab>acc.</ab> to <ls>Lefm.</ls> (<ed>Calc.</ed> dāru)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "दारु",
+            "eid": "4049",
+            "pagenum": 167,
+            "content": "दारु¦ <i>m. n.</i> (ut videtur, a r. दॄ s. उ) lignum. AM. (Gr. <lang n='greek'>δόϱυ</lang>, russ. <i>dérevo, drova</i>, hib. <i>doireach</i> «woody». Russ. <i>drova</i> et <i>derevo</i> etiam e द्रुम arbor explicari possent, mutato <i>m</i> in <i>v.</i>)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "दारु",
+            "eid": "8616",
+            "pagenum": 317,
+            "content": "दारु¦ <i>dāru</i> <ab>a.</ab> [<ab>f.</ab> <i>dārvī</i>] <i>(dā;</i> <ab>sfx.</ab> <i>ru)</i> libéral. <lbinfo n='6'/>"
+        },
+        {
+            "word": "दारु",
+            "eid": "8617",
+            "pagenum": 317,
+            "content": "दारु¦ <i>dāru</i> <ab>a.</ab> <i>(dṝ)</i> qui déchire qui fend. -- <ab>S.</ab> <ab>m.</ab> <ab>n.</ab> bois à refendre, bois de charpente. <lbinfo n='6'/> -- <ab>S.</ab> <ab>n.</ab> le pin <s1 slp1='devadAru'>devadāru</s1>. || Bronze. -- <ab>S.</ab> <ab>m.</ab> artisan, artiste. || <ab>Cf.</ab> <ab>gr.</ab> <lang n='greek'>δόρυ</lang>.  <P><i>dāruka</i> <ab>m.</ab> l'écuyer de <s1 slp1='kfzRa'>Kṛṣṇa</s1>. -- <ab>F.</ab> <i>dārukā</i> <lbinfo n='6'/> poupée de bois.  <P><i>dārugarbhā</i> <ab>f.</ab> poupée de bois.  <P><i>dāruja</i> <ab>a.</ab> <i>(jan)</i> de bois. -- <ab>S.</ab> <ab>m.</ab> sorte de tambour."
+        }
     ]
 }

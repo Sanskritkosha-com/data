@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "रक्तं रुधिरमाग्नेयं विस्रं तेजोभवं रसात् ।\nशोणितं लोहितमसृक्वासिष्ठं प्राणदासुरे ॥ ६२१ ॥\nक्षतजं मांसकार्यस्त्रं मांसं पललजङ्गले ।\nरक्तात्तेजोभवे क्रव्यं काश्यपं तरसामिषे ॥ ६२२ ॥\nमेदस्कृत्पिशितं कीनं पलं पेश्यस्तु तल्लताः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "क्रव्य",
+            "eid": "11706",
+            "pagenum": 430,
+            "content": "क्रव्यं¦ Raw flesh, carrion,  <lbinfo n='sTapuwaga#tamapi'/> स्थपुटगतमपि क्रव्यमव्यग्रमत्ति <ls>Māl. 5. 16.</ls> [<ab>cf.</ab> <ab>Gr.</ab> <i>kreas</i>; <ab>L.</ab> <i>caro</i>] <b>--Comp.</b> --अद्, अद्, --भुज् <i><ab>a.</ab></i> eating raw flesh;  <lbinfo n='ls:Ms. 5.+ 131.'/> <ls>Ms. 5. 131.</ls> (<i>--<ab>m.</ab></i>) {1} a carnivorous animal, such as a tiger &c.; <ls>U. 1. 49.</ls> {2} a demon, goblin; <ls>R. 15. 16.</ls> --घातनः a deer (killed for its flesh.) --वाहनः <ab>Ved.</ab> an epithet of Agni."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "क्रव्य",
+            "eid": "3932",
+            "pagenum": 228,
+            "content": "क्रव्य¦ <i>kravya,</i> <ab>n.</ab> Raw flesh, <ls>Bhāg. P.</ls> 4, 18, 24. -- <ab>Cf.</ab> <lang n='greek'>κρέας</lang>, base <lang n='greek'>κρεατ</lang>; <ab>Lat.</ab> caro, base caron; <ab>Goth.</ab> hraiv. <ab>Cf.</ab> also <i>krūra.</i>"
+        }
+    ],
+    "BOP": [
+        {
+            "word": "क्रव्य",
+            "eid": "2483",
+            "pagenum": 88,
+            "content": "क्रव्य¦ <i>n.</i> caro. (Lith. <i>krauja-s</i> sanguis, russ. <lang n='russian'>кровь</lang> <i>krovj</i> <i>id.</i>, hib. <i>cru id.</i>, germ. vet. <i>hrêo</i> (genit. <i>hrêwe-s</i>, Th. <i>hrêwa</i>) cadaver; gr. <lang n='greek'>ϰϱέας</lang>, lat. <i>cruor, cruentus, crûdus</i>, <i>caro.</i>)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "क्रव्य",
+            "eid": "5242",
+            "pagenum": 191,
+            "content": "क्रव्य¦ <i>kravya</i> <ab>n.</ab> chair; chair crue. || <ab>Gr.</ab> <lang n='greek'>ϰρέας</lang> <ab>lat.</ab> caro (? cruor); <ab>germ. ancien</ab>, hrêo; <ab>lith.</ab> kraujas, sang; <ab>irl.</ab> cru.  <P><i>kravyaghātana</i> <ab>m.</ab> <i>(han)</i> antilope.  <P><i>kravyādh</i> <ab>a.</ab> <i>(ad)</i> mangeur de chair crue, carnivore [<ab>ép.</ab> des <s1 slp1='dasyu'>Dasyu</s1>s dans le <s1 slp1='veda'>Veda</s1>]. || <s1 slp1='rAkzasa'>Rākṣasa</s1>.  <P><i>kravyāda</i> <ab>a.</ab> <ab>mms.</ab>"
+        }
     ]
 }

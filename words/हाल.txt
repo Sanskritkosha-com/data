@@ -25,5 +25,37 @@
             "synonyms": [],
             "content": "हालाहलं तथा हालं मुस्तायां मुस्तकोऽपि च ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "हाल",
+            "eid": "29806",
+            "pagenum": 1,
+            "content": "हाल¦ <HI1>Gāthāsaptaśatī or Gāthākośa or Saptaśatī."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "हाल",
+            "eid": "31376",
+            "pagenum": 1170,
+            "content": "हालः¦ [हलो अस्त्यस्य अण्, हल एव वा अण्] <b>1</b> A plough. <b>--2</b> <ab>N.</ab> of Balarāma. <b>--3</b> <ab>N.</ab> of Śālivāhana. <b>--Comp.</b> --भृत् <i><ab>m.</ab></i> an epithet of <lbinfo n='Ba+larāma'/> Balarāma."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "हाल",
+            "eid": "17087",
+            "pagenum": 1112,
+            "content": "हाल¦ <i>hāla,</i> <b>I.</b> <ab>i. e.</ab> <i>hala + a,</i> <ab>m.</ab> <b>1.</b> A plough. <b>2.</b> Balarāma, Śālivāhana. <b>II.</b> <ab>f.</ab> <i>lā,</i> Spirituous liquor, <ls>Pañc.</ls> i. <ab>d.</ab> 62. <b>III.</b> <ab>f.</ab> <i>lī,</i> A wife's younger sister."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "हाल",
+            "eid": "19585",
+            "pagenum": 752,
+            "content": "हाल¦ <i>hāla</i> <ab>m.</ab> <i>(hal)</i> charrue. || <s1 slp1='balarAma'>Balarāma</s1>. <lbinfo n='5'/> -- <ab>F.</ab> <i>hālā</i> vin, liqueur spiritueuse. -- <ab>F.</ab> <i>hālī</i> sœur cadette d'une femme."
+        }
     ]
 }

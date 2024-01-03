@@ -12,5 +12,57 @@
             "synonyms": [],
             "content": "वैरं विरोधो विद्वेषो वयस्यः सवयाः सुहृत् ।\nस्निग्धः सहचरो मित्त्रं सखा सख्यं तु सौहृदम् ॥ ७३० ॥\nसौहार्दं साप्तपदीनमैत्त्र्यजर्याणि संगतम् ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "विरोध",
+            "eid": "22528",
+            "pagenum": 1,
+            "content": "विरोध¦ ny. Oppert II, 887. 1164. <HI>--by Gadādhara. Oppert II, 3802."
+        },
+        {
+            "word": "विरोध",
+            "eid": "37025",
+            "pagenum": 2,
+            "content": "विरोध¦ ny. by Gadādhara. Gov. Or. Libr. Madras 85."
+        },
+        {
+            "word": "विरोध",
+            "eid": "46684",
+            "pagenum": 3,
+            "content": "विरोध¦ ny. by Gadādhara. Hz. 1248."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "विरोध",
+            "eid": "26370",
+            "pagenum": 989,
+            "content": "विरोधः¦ <b>1</b> Opposition, obstruction, impediment. <b>--2</b> Blockade, siege, investment. <b>--3</b> Restraint, check. <b>--4</b> Inconsistency, incongruity, <lbinfo n='con+tradiction'/> contradiction. <b>--5</b> Antithesis, <lbinfo n='con+trast'/> contrast. <b>--6</b> Enmity, hostility; विरोधो विश्रांतः <ls>U. 6. 11</ls>; <ls>Pt. 1. 332</ls>; <ls>R. 10. 13.</ls> <b>--7</b> A quarrel, <lbinfo n='disagree+ment'/> disagreement. <b>--8</b> A calamity, misfortune. <b>--9</b> (In <ab>Rhet.</ab>) An apparent <lbinfo n='incon+gruity'/> incongruity which is merely verbal and is explained away by properly <lbinfo n='con+struing'/> construing the passage; it consists in representing objects as antithetical to one another though in the nature of things they are not so: representing things as being <lbinfo n='to+gether'/> together though really they cannot be together; (this figure is <lbinfo n='large+ly'/> largely used by Bāṇa and Subandhu; पुष्पवत्यपि पवित्रा, कृष्णोप्यसुदर्शनः, भरतोपि शत्रुघ्नः being familiar instances); it is thus defined by Mammaṭa:  <lbinfo n='--'/> --विरोध सोऽविरोधेऽपि विरुद्धत्वेन यद्वचः  <lbinfo n='ls:K.+P. 10'/> <ls>K. P. 10</ls>; this figure is also called विरोधाभास. <b>--Comp.</b> --उक्तिः <i><ab>f.</ab></i>, --वचनं contradiction, opposition. --कारिन् <i><ab>a.</ab></i> fomenting quarrels. --कृत् <i><ab>a.</ab></i> opposing. (<i>--<ab>m.</ab></i>) an enemy."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "विरोध",
+            "eid": "13547",
+            "pagenum": 867,
+            "content": "विरोध¦ <i>virodha,</i> <ab>i. e.</ab> <i>vi-rudh + a,</i> <b>I.</b> <ab>m.</ab> <b>1.</b> Hindrance, impediment. <b>2.</b>  Restraint, check. <b>3.</b> Opposition, <ls>Pañc.</ls> 162, 14; <ls>Chr.</ls> 56, 16; contradiction, <ls>Vedāntas.</ls> in <ls>Chr.</ls> 211, 18; <ls>Kusumāñj.</ls> 3, 8; i. <ab>d.</ab> 147. <b>4.</b> Inconsistency (in argument). <b>5.</b> Surrounding. <b>6.</b> Siege, blockade. <b>7.</b> Enmity, <ls>Utt. Rāmac.</ls> 146, 1; <ls>Pañc.</ls> 148, 10. <b>8.</b> War. <b>9.</b> Calamity. <b>II.</b> <ab>f.</ab> <i>dhī,</i> Fixed rule, institute. <b> -- <ab>Comp.</ab></b> <i>Vacana-,</i> <ab>m.</ab> inconsistency of texts. <i>Smṛti-,</i> <ab>m.</ab> 1. illegality. 2. disagreement between two or more codes of law."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "विरोध",
+            "eid": "7385",
+            "pagenum": 324,
+            "content": "विरोध¦ <i>m.</i> (r. रुध् impedire praef. वि s. अ) discordia, dissensio, inimicitia. SU. 3. 21."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "विरोध",
+            "eid": "15706",
+            "pagenum": 600,
+            "content": "विरोध¦ <i>virodha</i> <ab>m.</ab> <i>(rudh)</i> contrainte; empêchement. <lbinfo n='10'/> || Opposition, contradiction; || discorde, inimitié. -- <ab>F.</ab> [<i>ī</i>] commandement, règle établie.  <P><i>virodhana</i> <ab>n.</ab> empêchement; opposition; || action de prévenir, d'arrêter.  <P><i>virodhayāmi</i> (<ab>c.</ab> de <i>rudh)</i> empêcher.  <P><i>virodhikṛt</i> <ab>m.</ab> <i>(kṛ)</i> la 45ᵉ année du cycle indien.  <P><i>virodhin</i> <ab>a.</ab> qui empêche, qui s'oppose, qui est en désaccord; || ennemi. -- <ab>S.</ab> <ab>m.</ab> la 24ᵉ année du cycle indien.  <P><i>virodhokti</i> <ab>f.</ab> <i>(ukti)</i> contradiction, dispute, querelle."
+        }
     ]
 }

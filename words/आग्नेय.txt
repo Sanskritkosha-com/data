@@ -23,5 +23,51 @@
             "synonyms": [],
             "content": "रक्तं रुधिरमाग्नेयं विस्रं तेजोभवं रसात् ।\nशोणितं लोहितमसृक्वासिष्ठं प्राणदासुरे ॥ ६२१ ॥\nक्षतजं मांसकार्यस्त्रं मांसं पललजङ्गले ।\nरक्तात्तेजोभवे क्रव्यं काश्यपं तरसामिषे ॥ ६२२ ॥\nमेदस्कृत्पिशितं कीनं पलं पेश्यस्तु तल्लताः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "आग्नेय",
+            "eid": "1581",
+            "pagenum": 1,
+            "content": "आग्नेय¦ Sv. Oppert 4652."
+        },
+        {
+            "word": "आग्नेय",
+            "eid": "30143",
+            "pagenum": 1,
+            "content": "आग्नेय¦ <i>add</i> II, 2311."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "आग्नेय",
+            "eid": "5904",
+            "pagenum": 227,
+            "content": "आग्नेय¦ <i><ab>a.</ab></i> (यी <i><ab>f.</ab></i>) [अग्नेरिदं अग्निर्देवता वास्य ढक्] <b>1</b> Belonging to Agni; fiery. <b>--2</b> Offered or consecrated to Agni; <ls>Y. 3. 287.</ls> <b>--3</b> Similar to fire (as an insect). <b>--4</b> Increasing the fire in the stomach; stimulating digestion. <b>--5</b> Kindling the fire (as ghee &c.). <b>--6</b> Belonging to Agnāyī. --यः <b>1</b> An epithet of Skanda or Kārtikeya. <b>--2</b> <ab>N.</ab> of Agastya. <b>--3</b> <ab>N.</ab> of a <lbinfo n='coun+try'/> country. <b>--4</b> A worshipper of Agni. <b>--5</b> An offering or oblation to Svāhā. --यी <b>1</b> <ab>N.</ab> of the wife of Agni. <b>--2</b> The south-east quarter (presided over by Agni). <b>--3</b> The first day of a month (प्रतिपत्तिथि which is presided over by Agni). --यं <b>1</b> The lunar mansion called Kṛttikā. <b>--2</b> Gold. <b>--3</b> Blood. <b>--4</b> Lac, the red animal dye. <b>--5</b> Ghee. <b>--6</b> A missile presided over by Agni. <b>--7</b> A <i>Mantra</i> used in the worship of Agni. <b>--8</b> A descendant of Agni. <b>--9</b> Bathing by applying sacred ashes to the body (भस्ममर्दनपूर्वकस्नानं). <b>--10</b> A kind of worm. <b>--Comp.</b> --कीटः a kind of insect which flies into the fire. --पुराणं = अग्निपुराण <ab>q. v.</ab>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "आग्नेय",
+            "eid": "1405",
+            "pagenum": 71,
+            "content": "आग्नेय¦ <i>āgneya,</i> <ab>i. e.</ab> <i>agni + eya.</i> <b>I.</b> <ab>adj.</ab>, <ab>f.</ab> <i>yī,</i> Belonging or relating to fire or the deity of fire, <ls>Man.</ls> 9, 310. <b>II.</b> <ab>m.</ab> <ab>pl.</ab> The name of a people."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "आग्नेय",
+            "eid": "2570",
+            "pagenum": 88,
+            "content": "<b>āgneya</b>¦, (<b>1</b>) <lex>nt.</lex>, <i>fiery</i> (jewel), <ab>n.</ab> of a kind of gem: <ls>Mv</ls> 〔ii.296.8〕 (<ab>vs</ab>) āgneyamaṇīnāṃ (<ab>mss.</ab> agneya°) yā ābhā gagane vidyutāna vā; <ls>Gv</ls> 〔499.23〕 (prose) āgneyaṃ nāma mahāmaṇiratnaṃ sarvatamo'ndhakāraṃ vidhamati; (<b>2</b>) <lex>m.</lex>, with jaṭila (<ab>cf.</ab> <lang>Pali</lang> aggika), <i>fire-worshiping</i>, a kind of ascetic: <ls>MPS</ls> 〔40.51〕 (<ab>v.l.</ab> ag°)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आग्नेय",
+            "eid": "2057",
+            "pagenum": 69,
+            "content": "आग्नेय¦ <i>āgneya</i> <ab>a.</ab> d'<s1 slp1='agni'>Agni</s1>; relatif au feu. || Surnom d'<s1 slp1='agastya'>Agastya</s1>. -- <ab>S.</ab> <ab>f.</ab> <i>āgneyi,</i> l'épouse <lbinfo n='5'/> d'<s1 slp1='agni'>Agni</s1>. || La région du sud-est. -- <ab>S.</ab> <ab>n.</ab> beurre clarifié, <i>havis.</i> || Sang. || <ab>Np.</ab> de ville."
+        }
     ]
 }

@@ -34,5 +34,37 @@
             "synonyms": [],
             "content": "व्युष्टिः फलमसारं तु फल्गु शून्यं तु रिक्तकम् ।\nशुन्यं तुच्छं वशिकं च निबिडं तु निरन्तरम् ॥ १४४६ ॥\nनिबिरीसं घनं सान्द्रं नीरन्ध्रं बहलं दृढम् ।\nगाढमविरलं चाथ विरलं तनु पेलवम् ॥ १४४७ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "फल्गु",
+            "eid": "21485",
+            "pagenum": 784,
+            "content": "फल्गु¦ <i><ab>a.</ab></i> [फल् --उ गुक् च  <lbinfo n='ls:Uṇ. 1.+ 18'/> <ls>Uṇ. 1. 18</ls>] <b>1</b> Pithless, unessential; <lbinfo n='un+substantial'/> unsubstantial; सारं ततो ग्राह्यमपास्य <lbinfo n='Pa#lgu'/> फल्गु <ls>Pt. 1.</ls> <b>--2</b> Worthless, useless, <lbinfo n='un+important'/> unimportant; <ls>Śi. 3. 76.</ls> <b>--3</b> Small, minute. <b>--4</b> Vain, unmeaning. <b>--5</b> Weak, feeble, flimsy. <b>--6</b> Untrue. <b>--7</b> Beautiful, lovely. --ल्गुः <i><ab>f.</ab></i> <b>1</b> The spring season. <b>--2</b> The <lbinfo n='opposite-leav+ed'/> opposite-leaved fig-tree. <b>--3</b> <ab>N.</ab> of a river at Gayā. <b>--4</b> A red powder of wild ginger (<ab>Mar.</ab> गुलाल) thrown by the Hindus over one another at the Holi festival. <b>--Comp.</b> --उत्सवः the vernal festival, commonly called <i>Holi</i>. --वाटिका the opposite-leaved fig-tree."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "फल्गु",
+            "eid": "10171",
+            "pagenum": 623,
+            "content": "फल्गु¦ <i>phalgu,</i> <ab>i. e.</ab> <i>sphurj + a,</i> <b>I.</b> <ab>adj.</ab> <b>1.</b> Pithless, sapless. <b>2.</b> Vain, worthless, <ls>Pañc.</ls> pr. <ab>d.</ab> 10. <b>3.</b> Weak, <ls>Hit.</ls> iii. <ab>d.</ab> 79. <b>II.</b> <ab>f.</ab> <b>1.</b> The opposite-leaved fig-tree. <b>2.</b> The spring season. <b>3.</b> Falsehood."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "फल्गु",
+            "eid": "10814",
+            "pagenum": 396,
+            "content": "<b>phalgu</b>¦ (gender not known, only in <ab>cpds.</ab>; in <lang>Skt.</lang> <lex>adj.</lex>, <i>worthless</i>; <lang>Pali</lang> pheggu in <ab>mg.</ab> 1, phaggu in <ab>mg.</ab> 2), (<b>1</b>) <i>‘accessory wood … next to the pith, but inferior and worthless’</i> (<ls>PTSD</ls>): <ls>Mvy</ls> 〔433〕 apagata-śākhā-pattra-palāśā-laṭikā(read latikā with Index, <lang>Tib.</lang> <tib>khri śiṅ</tib>, <i>creeper</i>; or with <ls>Mironov</ls> <b>prapāṭikā</b>)-tvak-phalguḥ, <ab>Bhvr.</ab> (here <lang>Tib.</lang> <tib>skyon</tib>, <i>fault, defect</i>, not parallel with <ab>prec.</ab> words but having them as dependents); apagata-phalgu, <lex>adj.</lex>, = <lang>Pali</lang> °phegguka, <i>free from weak wood</i> (<ls>PTSD</ls>), <ls>Mvy</ls> 〔7636〕 (°guḥ; here <lang>Tib.</lang> <tib>sñiṅ po ma yin pa</tib>, <i>what is not the pith</i>); <ls>SP</ls> 〔39.4〕 (°guḥ); (parṣad) phalgu-vyapagatā (so with <ls>WT</ls>, <ab>cpd.</ab>) <ls>SP</ls> 〔44.14〕; tvagbhārataś ca phalgutaś ca sārataś ca (of trees) <ls>Divy</ls> 〔628.1〕, similarly 12; <ab>fig.</ab>, of <b>dauṣṭhulya</b> in men, tvaggataṃ phalgugataṃ sāragataṃ <ls>Bbh</ls> 〔356.25〕; (<b>2</b>) <lex>nt.</lex>, a certain religious observance (defined for <lang>Pali</lang>, <ls>MN comm.</ls> 〔i.179.1 ff.〕): śuddhasya hi sadā phalgu <ls>Ud</ls> 〔xvi.15〕 = <lang>Pali</lang> <ls>MN</ls> 〔i.39.19〕."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "फल्गु",
+            "eid": "12359",
+            "pagenum": 458,
+            "content": "फल्गु¦ <i>phalgu</i> <ab>a.</ab> <i>(phal; gam)</i> sans moelle, sans sève; || au <ab>fig.</ab> inutile, privé de sens, vain. -- <ab>S.</ab> <ab>f.</ab> ficus oppositifolia, <ab>bot.</ab> || mensonge. || Poudre de gimgembre sauvage, <lbinfo n='5'/> colorée avec du bois de sapan, et que les Indiens se lancent entre eux à la fête de la <s1 slp1='PAlgunI'>Phālgunī</s1>. -- <i>(phala; gam)</i> le printemps."
+        }
     ]
 }

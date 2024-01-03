@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "स्युरुत्तरपदे प्रख्यः प्रकारः प्रतिमो निभः ।\nभूतरूपोपमाः काशः संनीप्रप्रतीतः परः ॥ १४६२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "प्रकार",
+            "eid": "19527",
+            "pagenum": 725,
+            "content": "प्रकारः¦ <b>1</b> Manner, mode, way, <lbinfo n='fa+shion'/> fashion; कः प्रकारः किमेतत् <ls>Māl. 5. 20.</ls> <b>--2</b> Sort, kind, variety, species; <ab>oft.</ab> in <ab>comp.</ab>; बहुप्रकार manifold;  <lbinfo n='tripra#kAra'/> त्रिप्रकार, नाना° &c. <b>--3</b> Similitude. <b>--4</b> Speciality, special property or <lbinfo n='qua+lity'/> quality; तद्वति तत्प्रकारकोऽनुभवः प्रमा T. S. <b>--5</b> Difference."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "प्रकार",
+            "eid": "9313",
+            "pagenum": 580,
+            "content": "प्रकार¦ <i>prakāra,</i> <ab>i. e.</ab> <i>pra-kṛ + a,</i> <ab>m.</ab> <b>1.</b> Kind, <ls>MBh.</ls> 1, 7412; species, <ls>Ṛt.</ls> 1, 2. <b>2.</b> Speciality, <ls>Bhāṣāp.</ls> 134. <b>3.</b> Way, manner, <ls>Pañc.</ls> 199, 20."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "प्रकार",
+            "eid": "9834",
+            "pagenum": 356,
+            "content": "<b>prakāra?</b>¦ in <ls>SP</ls> 〔146.5〕 (<ab>vs</ab>) puṣpaiḥ (so all <ab>mss.</ab>, <ls>KN</ls> <ab>em.</ab> puṣpa-, kept by <ls>WT</ls> without note) prakāraiḥ samalaṃkṛtaṃ ca; <ab>acc.</ab> to <lang>Tib.</lang> <i>adorned with many flowers</i> (<tib>me tog maṅ pos</tib>). On the face of the reading of the <ab>mss.</ab> and the <lang>Tib.</lang> rendering, prakāra should be an <lex>adj.</lex>, <i>many</i>; it is otherwise known only as a noun, <i>kind, sort</i>. <ls>KN</ls>ʼs <ab>em.</ab> hardly helps; <i>with kinds of flowers</i> could not, so far as I know, serve as a substitute for <i>with many kinds …</i>; for this we should expect bahu-, nānā-, or the like, modifying prakāra. I have thought of reading pravāraiḥ, taking it as = pravaraiḥ, <i>excellent</i>, with ā for a <ab>m.c.</ab>; but <lang>Tib.</lang> does not support this."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "प्रकार",
+            "eid": "5331",
+            "pagenum": 225,
+            "content": "प्रकार¦ <i>n.</i> (r. कृ praef. प्र s. अ) modus. N. 13. 23."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "प्रकार",
+            "eid": "11400",
+            "pagenum": 426,
+            "content": "प्रकार¦ <i>prakāra</i> <ab>m.</ab> <ab>n.</ab> <i>(kṛ)</i> façon, manière; <lbinfo n='6'/> mode [semblable ou différent]."
+        }
     ]
 }

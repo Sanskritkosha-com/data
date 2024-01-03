@@ -20,5 +20,37 @@
             "synonyms": [],
             "content": "पृथौ गृण्डिबलोपाकौ कोकस्त्वीहामृगो वृकः ।\nअरण्यश्वा मर्कटस्तु कपिः कीशः प्लवंगमः ॥ १२९१ ॥\nप्लवंगः प्लवगः शाखामृगो हरिर्बलीमुखः ।\nवनौका वानरोऽथासौ गोलाङ्गूलोऽसिताननः ॥ १२९२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वृक",
+            "eid": "26839",
+            "pagenum": 1005,
+            "content": "वृकः¦ [<ls>Uṇ. 3. 41</ls>] <b>1</b> A wolf; पापारंभकयोर्मृगीव वृकयोर्भीरुर्गता गोचरं <ls>Māl. 5. 24.</ls> <b>--2</b> A hyena. <b>--3</b> A jackal. <b>--4</b> A crow. <b>--5</b> An owl. <b>--6</b> A robber. <b>--7</b> A Kṣatriya. <b>--8</b> Turpentine. <b>--9</b> A compound perfume, a mixture of various fragrant articles. <b>--10</b> <ab>N.</ab> of a demon. <b>--11</b> <ab>N.</ab> of a tree (बकवृक्ष). <b>--12</b> <ab>N.</ab> of a fire in the stomach. <b>--13</b> A plough. <b>--14</b> The moon (<ab>Ved.</ab>). <b>--Comp.</b> --अरातिः, --अरिः a dog.  <lbinfo n='--u#daraH'/> --उदरः {1} an epithet of Brahman. {2} of Bhīma, the second Pāṇḍava prince; <ls>Bg. 1. 15</ls>, <ls>Ki. 2. 1.</ls> --दंशः a dog. --धूपः {1} turpentine. {2} a compound perfume. --धूर्तः a jackal."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वृक",
+            "eid": "13872",
+            "pagenum": 888,
+            "content": "वृक¦ <i>vṛka,</i> perhaps akin to <i>vraśc,</i> <b>I.</b> <ab>m.</ab> <b>1.</b> A wolf, <ls>Pañc.</ls> 19, 13. <b>2.</b> A crow. <b>3.</b> A jackal. <b>4.</b> Turpentine. <b>5.</b> Compounded perfume. <b>6.</b> A tree. Sesbana grandiflora. <b>II.</b> <ab>f.</ab> <i>kā,</i> A plant, Cissampelos hexandra. <b> -- <ab>Comp.</ab></b> <i>A-,</i> <ab>adj.</ab> secure, <ls>Chr.</ls> 288, 15 = <ls>Rigv.</ls> i. 48, 15. <i>Śālā-,</i> <ab>m.</ab> 1. a jackal, <ls>Draup.</ls> 6, 8. 2. a monkey. 3. a cat. 4. a dog. 5. a deer. -- <ab>Cf.</ab> <ab>Goth.</ab> vulfs; <ab>A.S.</ab> wulf; <lang n='greek'>λύκος</lang>; <ab>Lat.</ab> lupus."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वृक",
+            "eid": "7510",
+            "pagenum": 329,
+            "content": "वृक¦ <i>m.</i> lupus. (E वर्क (v. gr. min. 12.) unde lith. <i>wilka-s</i>, debilitato <i>a</i> in <i>i</i>, mutato <i>r</i> in <i>l</i>, russ. <i>volk</i>, goth. <i>vulf-s</i>, Them. <i>vulfa</i>, mutatâ gutt. in lab.; gr. <lang n='greek'>λύϰος</lang> per metath. ex <lang n='greek'>ὔλϰος</lang> pro <lang n='greek'>Ϝαλϰος</lang>, correptâ syllabâ F <lang n='greek'>Ϝα</lang> in <lang n='greek'>υ</lang>, lat. <i>lupus</i> ex <i>ulpus</i> pro <i>ulcus</i>; hib. <i>breach, brech</i>; pers. <lang n='arabic'>ڭرك </lang> <i>gurk</i>, mutato <i>v</i> in <i>g.</i>)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वृक",
+            "eid": "15997",
+            "pagenum": 612,
+            "content": "वृक¦ <i>vṛka</i> <ab>m.</ab> loup; chacal. || <ab>Qqf.</ab> corneille. <lbinfo n='7'/> || <ab>Qqf.</ab> térébenthine; || æschynomene <lbinfo n='4'/> grandiflora; cissampelos hexandra; <ab>bot.</ab> || <ab>Zd.</ab> <i>vehrka;</i> <ab>lith.</ab> wilkas; <ab>goth.</ab> vulfs; <ab>germ.</ab> wolf; latin vulpes <ab>(?)</ab>; <ab>etc.</ab>  <P><i>vṛkadaṃśa</i> <ab>m.</ab> chien.  <P><i>vṛkadhūpa</i> <ab>m.</ab> térébenthine.  <P><i>vṛkārāti</i> <ab>m.</ab> <i>(arāti)</i> chien.  <P><i>vṛkāri</i> <ab>m.</ab> <i>(ari)</i> chien.  <P><i>vṛkodara</i> <ab>m.</ab> <i>(udara)</i> <s1 slp1='BIma'>Bhīma</s1> Ventre-deloup. <lbinfo n='5'/>"
+        }
     ]
 }

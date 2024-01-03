@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "राजादनः पियालः स्यात्तिनिशस्तु रथद्रुमः ॥ ११४२ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "पियाल",
+            "eid": "19001",
+            "pagenum": 703,
+            "content": "पियालः¦ <ab>N.</ab> of a tree; <ls>Ku. 3. 31.</ls> --लं The fruit of this tree."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "पियाल",
+            "eid": "8856",
+            "pagenum": 552,
+            "content": "पियाल¦ <i>piyāla,</i> for original <i>priyāla</i> (q. <ab>cf.</ab>), <ab>m.</ab> A tree, Buchanania latifolia Roxb. <ab>n.</ab> Its fruit."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "पियाल",
+            "eid": "9538",
+            "pagenum": 346,
+            "content": "(<hom>1</hom> <b>piyāla</b>¦, <lex>m.</lex>, = <lang>Pali</lang> <ab>id.</ab>; <lang>MIndic</lang> for <lang>Skt.</lang> priyāla, but occurs also in <lang>Skt.</lang>; <ab>n.</ab> of a tree: <ls>Mv</ls> 〔ii.60.16〕; 〔248.16〕; <ls>Jm</ls> 〔167.4〕.)"
+        },
+        {
+            "word": "पियाल",
+            "eid": "9539",
+            "pagenum": 346,
+            "content": "<hom>2</hom> <b>piyāla</b>¦ = <b>peyālaṃ</b>, <ab>q.v.</ab>: <ls>AdP, Konow, MASI 69</ls>, 〔34.2〕 (prose). Corruption ?"
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "शब्दो गुणानुरागोत्थः प्रणादः सीत्कृतं नृणाम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "प्रणाद",
+            "eid": "19738",
+            "pagenum": 731,
+            "content": "प्रणादः¦ <b>1</b> A loud noise, shout, cry. <b>--2</b> Roaring, a roar. <b>--3</b> Neighing, braying. <b>--4</b> A murmur of rapture; a burst of applause; huzza. <b>--5</b> A cry for help. <b>--6</b> A particular disease of the ear (a buzzing sound in the ear)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "प्रणाद",
+            "eid": "9439",
+            "pagenum": 586,
+            "content": "प्रणाद¦ <i>praṇāda,</i> <ab>i. e.</ab> <i>pra-nad + a,</i> <ab>m.</ab> <b>1.</b> A loud noise, <ls>MBh.</ls> 4, 1684; a shout. <b>2.</b> Neighing, <ls>MBh.</ls> 6, 137. <b>3.</b> Roar, <ls>Rām.</ls> 6, 79, 10. <b>4.</b> Tingling in the ear."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "प्रणाद",
+            "eid": "9915",
+            "pagenum": 359,
+            "content": "<b>Praṇāda</b>¦ (= <lang>Pali</lang> Panāda, both <ab>mgs.</ab>), (<b>1</b>) <ab>n.</ab> of a king (<ab>acc.</ab> to <ls>Mvy</ls> a cakravartin): <ls>Mvy</ls> 〔3576〕; <ls>Divy</ls> 〔57.9 ff.〕; (<b>2</b>) <ab>n.</ab> of a yakṣa: <ls>Māy</ls> 〔236.28〕."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "प्रणाद",
+            "eid": "11505",
+            "pagenum": 430,
+            "content": "प्रणाद¦ <i>praṇāda</i> <ab>m.</ab> <i>(nad)</i> bruit, clameur <lbinfo n='4'/> [pour approuver ou désapprouver]. || Tintement, bourdonnement d'oreilles."
+        }
     ]
 }

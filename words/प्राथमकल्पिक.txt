@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "शिष्यो विनेयोऽन्तेवासी शैक्षः प्राथमकल्पिकः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "प्राथमकल्पिक",
+            "eid": "21139",
+            "pagenum": 773,
+            "content": "प्राथमकल्पिकः¦ <b>1</b> A student who has just entered on the study of the Vedas (शैक्ष). <b>--2</b> A Yogin just <lbinfo n='com+mencing'/> commencing his course."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "प्राथमकल्पिक",
+            "eid": "10007",
+            "pagenum": 613,
+            "content": "प्राथमकल्पिक¦ <i>prāthamakalpika,</i> <ab>i. e.</ab> <i>prathama-kalpa + ika,</i> <ab>m.</ab> <b>1.</b> One who has begun the perusal of the Veda. <b>2.</b> A student."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "प्राथमकल्पिक",
+            "eid": "10693",
+            "pagenum": 392,
+            "content": "<b>prāthamakalpika</b>¦, <lex>adj.</lex> (in <lang>Skt.</lang> used in sense of <lang>BHS</lang> <b>prathamakalpika</b>, <ab>q.v.</ab>; so also <ls>Gv</ls> 〔281.25〕; 〔352.6〕; 〔358.10〕; 〔381.9〕; here in the sense of <lang>Pali</lang> paṭhamakappika, <ls>Childers</ls>, and Andersen, Reader, 〔4.10〕; 〔10.25〕), <i>belonging to the first world-age</i>: °kānāṃ sattvānām <ls>Divy</ls> 〔631.2〕; also <ls>Buddhacarita</ls> 〔ii.49〕."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "प्राथमकल्पिक",
+            "eid": "12203",
+            "pagenum": 452,
+            "content": "प्राथमकल्पिक¦ <i>prāthamakalpika</i> <ab>m.</ab> <i>(prathama; kalpa)</i> étudiant qui commence à lire le <s1 slp1='veda'>Veda</s1>."
+        }
     ]
 }

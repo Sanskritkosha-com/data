@@ -47,5 +47,33 @@
             "synonyms": [],
             "content": "शम्बूका अपि शाम्बूका वृश्चिको द्रुत इत्यपि ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "द्रुत",
+            "eid": "15817",
+            "pagenum": 585,
+            "content": "द्रुत¦ <i><ab>p. p.</ab></i> [द्रु-क्त] <b>1</b> Quick, swift, speedy. <b>--2</b> Flown, run away, <lbinfo n='escap+ed'/> escaped. <b>--3</b> Melted, liquid, dissolved. <b>--4</b> Scattered, diffused. <b>--5</b> Indistinct. <b>--6</b> Moved, softened; <ls>Māl. 5. 28</ls>; see द्रु. --तः <b>1</b> A scorpion. <b>--2</b> A tree. <b>--3</b> A cat. --तं <i><ab>ind.</ab></i> Quickly, <lbinfo n='swift+ly'/> swiftly, speedily, immediately. <b>--Comp.</b> --पद <i><ab>a.</ab></i> going quickly. --विलंबितं <ab>N.</ab> of a metre; see App. I."
+        },
+        {
+            "word": "द्रुत",
+            "eid": "15820",
+            "pagenum": 585,
+            "content": "द्रुत, द्रुतिः¦ See under द्रु."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "द्रुत",
+            "eid": "9118",
+            "pagenum": 335,
+            "content": "द्रुत¦ <i>druta</i> <ab>pp.</ab> de <i>dru.</i> || <ab>A.</ab> rapide; || enfui. || Liquide; fondu, liquéfié; || écoulé. -- <ab>S.</ab> <ab>n.</ab> une brève, <ab>tg.</ab> et <ab>t.</ab> de musique. -- À l'<ab>ac.</ab> <i>drutam</i> rapidement, en courant."
+        },
+        {
+            "word": "द्रुत",
+            "eid": "9119",
+            "pagenum": 335,
+            "content": "द्रुत¦ <i>druta</i> <ab>m.</ab> <i>(dru</i> <ab>m.</ab>; <ab>sfx.</ab> <i>ta)</i> arbre."
+        }
     ]
 }

@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "उपज्ञा ज्ञानमाद्यं स्याच्चर्चा संख्या विचारणा ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "चर्चा",
+            "eid": "13146",
+            "pagenum": 487,
+            "content": "चर्चा, चर्चिका¦ <b>1</b> Repetition, <lbinfo n='recita+tion'/> recitation, study, repeated reading, <lbinfo n='peru+sal'/> perusal. <b>--2</b> Discussion, inquiry, <lbinfo n='investi+gation'/> investigation. <b>--3</b> Reflection. <b>--4</b> Smearing the body with unguents;  <lbinfo n='aMgacarcAma#racayaM'/> अंगचर्चामरचयं <ls>K. 157</ls>; श्रीखंडचर्चा विष <ls>Gīt. 9.</ls> <b>--5</b> An epithet of the goddess Durgā."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "चर्चा",
+            "eid": "4895",
+            "pagenum": 297,
+            "content": "चर्चा¦ <i>carcā,</i> <ab>f.</ab> <b>1.</b> Cleaning the person with fragrant unguents, <ls>Gīt.</ls> 9, 10. <b>2.</b> Smearing, anointing. <b>3.</b> Applying, practice, <ls>Rājat.</ls> 5, 303."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "चर्चा",
+            "eid": "3120",
+            "pagenum": 121,
+            "content": "चर्चा¦ <i>f.</i> (r. चर्च् s. आ) 1) consideratio, cogitatio. HIT. 49. 19. 125. 20. (v. 2. चर् praef. वि). 2) unctio. AM.; <i>v. sq.</i>"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "चर्चा",
+            "eid": "6462",
+            "pagenum": 241,
+            "content": "चर्चा¦ <i>carcā</i> <ab>f.</ab> <i>(carc)</i> lecture, étude, méditation; <lbinfo n='9'/> la réflexion, la délibération. || Action de friser ou de parfumer <ab>qqn.</ab> || <ab>Surn.</ab> de <s1 slp1='durgA'>Durgā</s1>.  <P><i>carcikā</i> <ab>f.</ab> action de parfumer <ab>qqn.</ab> || <ab>Surn.</ab> de <s1 slp1='durgA'>Durgā</s1>."
+        }
     ]
 }

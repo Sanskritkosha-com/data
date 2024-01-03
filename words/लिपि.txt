@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "वार्णिको लिपिकरश्चाक्षरन्यासे लिपिर्लिविः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "लिपि",
+            "eid": "24636",
+            "pagenum": 929,
+            "content": "लिपिः, --पी¦ <i><ab>f.</ab></i> [लिप् इक् वा ङीप्] <b>1</b> Anointing, smearing. <b>--2</b> Writing, hand-writing. <b>--3</b> The written <lbinfo n='charac+ters'/> characters, letters, alphabet; यवनाल्लिप्यां <ab>Vārt.</ab>; लिपेर्यथावद्ग्रहणेन वाङ्मयं <lbinfo n='nadI#muKeneva'/> नदीमुखेनेव समुद्रमाविशत् <ls>R. 3. 28</ls>; <ls n='R.'>18. 46.</ls> <b>--4</b> The art of writing. <b>--5</b> A <lbinfo n='writ+ing'/> writing (as a letter, document, <lbinfo n='manu+script'/> manuscript &c.); अयं दरिद्रो भवितेति वैधसीं लिपिं ललाटेऽर्थिजनस्य जाग्रतीं <ls>N. 1. 15</ls>, <ls n='N. 1.'>138.</ls> <b>--6</b> Painting, drawing. <b>--Comp.</b> --करः {1} a plasterer, white-washer, mason. {2} a writer, scribe. {3} an engraver (also लिपिंकर). --कारः a writer, scribe. --ज्ञ <i><ab>a.</ab></i> one who can write. --न्यासः the art of writing or transcribing. --फलकं a <lbinfo n='writing+tablet'/> writingtablet or board. --शाला a writing school. --सज्जा writing materials or apparatus."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "लिपि",
+            "eid": "12435",
+            "pagenum": 795,
+            "content": "लिपि¦ and लिपी <i>lip + ī̆,</i> <ab>f.</ab> <b>1.</b> Anointing, smearing. <b>2.</b> Painting. <b>3.</b> Writing, <ls>Daśak.</ls> in <ls>Chr.</ls> 180, 7; the alphabet, <ls>Ragh.</ls> 18, 45. <b>4.</b> A written paper or book."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "लिपि",
+            "eid": "13000",
+            "pagenum": 462,
+            "content": "<b>lipi</b>¦, <lex>f.</lex> (<lang>Skt.</lang>), <i>writing</i>; in <ls>LV</ls> 〔125.19 ff.〕 the Bodhisattva lists 64 kinds of script; in <ls>Mv</ls> 〔i.135.5 ff.〕 a similar but much shorter list; <ls>Senartʼs note</ls> compares the two. Non-<lang>Skt.</lang> items from either list are included here."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "लिपि",
+            "eid": "14481",
+            "pagenum": 554,
+            "content": "लिपि¦ <i>lipi</i> <ab>f.</ab> (<ab>sfx.</ab> <i>i)</i> action d'oindre, d'enduire, <ab>etc.</ab> || Peinture, dessin [que l'on fait avec de la couleur]. || Ecriture; || écrit, manuscrit.  <P><i>lipikara</i> <ab>m.</ab> scribe, écrivain.  <P><i>lipikāra</i> <ab>m.</ab> <ab>mms.</ab>  <P><i>lipikā</i> <ab>f.</ab> écriture; || écrit."
+        }
     ]
 }

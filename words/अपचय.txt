@@ -12,5 +12,45 @@
             "synonyms": [],
             "content": "समुच्चयः समाहारोऽपहारापचयौ समौ ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "अपचय",
+            "eid": "2313",
+            "pagenum": 105,
+            "content": "अपचयः¦ <b>1</b> Diminution, decrease, <lbinfo n='de+cay'/> decay, decline, fall (<ab>fig.</ab> also.);  <lbinfo n='kaPApa#cayaH'/> कफापचयः <ls>Dk. 160</ls>; तेनास्यापचयं यांति <lbinfo n='vyA#DermUlAnyaSezataH'/> व्याधेर्मूलान्यशेषतः <ls>Suśr.</ls>; <ls>H. 3. 130</ls>; defeat <ls>Mv. 2. 13.</ls> <b>--2</b> Loss, <lbinfo n='priva+tion'/> privation, failure, defect; <ls>H. 3. 133.</ls> <b>--3</b> <ab>N.</ab> of several planetary mansions."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "अपचय",
+            "eid": "618",
+            "pagenum": 32,
+            "content": "अपचय¦ <i>apacaya,</i> <ab>i. e.</ab> <i>apa-ci + a</i> <ab>m.</ab> Decrease, <ls>Hit.</ls> iii. <ab>d.</ab> 131."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "अपचय",
+            "eid": "1236",
+            "pagenum": 43,
+            "content": "<b>apacaya</b>¦ (<lex>m.</lex>, = <lang>Pali</lang> <ab>id.</ab>), in good sense, <i>diminution</i> (<ab>sc.</ab> of karman, or worldliness; in <lang>Pali</lang> sometimes virtually = nirvāṇa): <ls>Av</ls> 〔ii.188.10〕; 〔189.6〕 °yāya, <lex>dat.</lex>; see <b>saṃcaya</b>."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "अपचय",
+            "eid": "382",
+            "pagenum": 13,
+            "content": "अपचय¦ <i>m.</i> (r. चि colligere s. अ) deminutio, expensum. HIT. 105. 12."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "अपचय",
+            "eid": "857",
+            "pagenum": 31,
+            "content": "अपचय¦ <i>apacaya</i> <ab>m.</ab> <i>(ci)</i> diminution; déchet; || dommage, préjudice. || Dépense, frais."
+        }
     ]
 }

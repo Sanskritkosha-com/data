@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "द्विधा द्वेधा त्रिधा त्रेधा चतुर्धा द्वैधमादि च ॥ २०३ ॥\nद्विस्त्रिश्चतुःपञ्चकृत्व इत्याद्यावर्तने कृते ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "चतुर्धा",
+            "eid": "13059",
+            "pagenum": 483,
+            "content": "चतुर्धा¦ <i><ab>ind.</ab></i> In four ways, <lbinfo n='four+fold'/> fourfold."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "चतुर्धा",
+            "eid": "4831",
+            "pagenum": 291,
+            "content": "चतुर्धा¦ <i>catur + dhā,</i> <ab>adv.</ab> <b>1.</b> In four parts, <ls>Vedāntas.</ls> in <ls>Chr.</ls> 208, 19. <b>2.</b> Four-fold, <ls>MBh.</ls> 9, 2487."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "चतुर्धा",
+            "eid": "6388",
+            "pagenum": 237,
+            "content": "चतुर्धा¦ <i>caturdhā</i> <ab>adv.</ab> (<ab>sfx.</ab> <i>dhā)</i> en 4 parties; <lbinfo n='5'/> <ab>gr.</ab> <lang n='greek'>τέτραχα</lang>."
+        }
     ]
 }

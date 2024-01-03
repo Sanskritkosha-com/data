@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "क्षेत्रे तु वप्रः केदारः सेतौ पाल्यालिसंवराः ।"
         }
+    ],
+    "ACC": [
+        {
+            "word": "केदार",
+            "eid": "4881",
+            "pagenum": 1,
+            "content": "केदार¦ <HI1>Abdhi dh. Quoted by Śrīdharasvāmin Oxf. 256^a."
+        },
+        {
+            "word": "केदार",
+            "eid": "30508",
+            "pagenum": 1,
+            "content": "केदार¦ Abdhi. <i>read</i> Oxf. 286^a."
+        }
+    ],
+    "AP90": [
+        {
+            "word": "केदार",
+            "eid": "11470",
+            "pagenum": 423,
+            "content": "केदारः¦ <b>1</b> A field under water; meadow. <b>--2</b> A basin for water round the root of a tree. <b>--3</b> A mountain. <b>--4</b> A particular <lbinfo n='moun+tain'/> mountain forming part of the Himālayas (modern Kedār). <b>--5</b> A form of Śiva. <b>--Comp.</b> --खडं a small dyke, earth raised to keep out water. --नाथः a particular form of Śiva."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "केदार",
+            "eid": "3770",
+            "pagenum": 218,
+            "content": "केदार¦ <i>kedāra,</i> <ab>m.</ab> A cultivated field, <ls>Man.</ls> 9, 44; particularly a watered one, <ls>Rām.</ls> 3, 22, 18; <ls>Rājat.</ls> 5, 112. <b> --</b> <b><ab>Comp.</ab></b> <i>Eka-,</i> <ab>adj.</ab> having the same fields, <ls>Man.</ls> 9, 38."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "केदार",
+            "eid": "5061",
+            "pagenum": 184,
+            "content": "केदार¦ <i>kedāra</i> <ab>m.</ab> <i>(dṛ)</i> champ; || montagne. <lbinfo n='4'/> || Bassin d'arrosage au pied d'un arbre. || <ab>Np.</ab> d'une partie de l'<s1 slp1='himAlaya'>Himālaya</s1>, <ab>auj.</ab> le Cêdâr."
+        }
     ]
 }

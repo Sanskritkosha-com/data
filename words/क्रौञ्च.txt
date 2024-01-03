@@ -47,5 +47,43 @@
             "synonyms": [],
             "content": "अगोऽपि पर्वते कौञ्जः क्रोञ्चवन्मन्यते बुधैः ॥ ९० ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "क्रौञ्च",
+            "eid": "3967",
+            "pagenum": 231,
+            "content": "क्रौञ्च¦ <i>krauñca,</i> <b>I.</b> <ab>m.</ab>, <ab>f.</ab> <i>cī,</i> A kind of heron, or curlew, <ls>Man.</ls> 11, 134; <ls>Rām.</ls> 2, 76, 21. <b>II.</b> <ab>m.</ab> <b>1.</b> The name of a mountain, <ls>Rām.</ls> 4, 44, 32. <b>2.</b> One of the Dvīpas, or principal divisions of the world, <ls>Bhāg. P.</ls> 5, 1, 32. <b>3.</b> The name of a demon."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "क्रौञ्च",
+            "eid": "5324",
+            "pagenum": 197,
+            "content": "<hom>1</hom> <b>Krauñca</b>¦ (<ab>cf.</ab> <ls>Kirfel, Kosm.</ls> 〔108〕), <lex>m.</lex> <ab>pl.</ab> <ab>n.</ab> of a people, mentioned with Śākyas: <ls>MSV</ls> 〔ii.16.18〕. One is tempted to emend to <b>Koliyāḥ</b>; but <lang>Tib.</lang> is cited as <tib>kruṅ kruṅ</tib> (<ab>q.v.</ab> in <ls>Das</ls>) <tib>ba rnams daṅ</tib>, which seems to support text."
+        },
+        {
+            "word": "क्रौञ्च",
+            "eid": "5325",
+            "pagenum": 197,
+            "content": "<hom>2</hom> <b>krauñca</b>, <b>krauñca-nāda</b>¦ (<lex>m.</lex>; <ab>Sktized</ab> for <lang>Pali</lang> koñca-nāda, see <ab>s.v.</ab> <b>kroñcati</b>; perhaps read kroñca-nāda), the <i>trumpeting of an elephant</i>: <ls>MSV</ls> 〔iii.16.11〕 hasti-krauñcam api kruñcataḥ (dual); <ls>Mv</ls> 〔iii.256.1〕 hastinaḥ krauñcanādaṃ muñcanti (but <ab>v.l.</ab> kroñcaśabdaṃ nādanti)."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "क्रौञ्च",
+            "eid": "2507",
+            "pagenum": 89,
+            "content": "क्रौञ्च¦ <i>m.</i> nomen avis, ardeae species; Wils. «<i>a Kind of he-</i> <i>ron or curlew</i>». R. Schl. I. 2. 12."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "क्रौञ्च",
+            "eid": "5287",
+            "pagenum": 193,
+            "content": "क्रौञ्च¦ <i>krauñca</i> <ab>m.</ab> <i>(kruñc)</i> <ab>esp.</ab> de héron ou de courlis. || Un des <s1 slp1='dvIpa'>dvīpa</s1>s ou divisions de la terre. || <ab>Np.</ab> d'une montagne dans l'<s1 slp1='himAlaya'>Himālaya</s1>. || <ab>Np.</ab> d'un démon. -- <i>krauñcā</i> et <i>krauñcī</i> <ab>f.</ab> femelle de héron ou de courlis.  <P><i>krauñcādāraṇa</i> <ab>m.</ab> <i>(ā; dṛ)</i> <ab>surn.</ab> de <s1 slp1='kArttikeya'>Kārttikeya</s1>. <lbinfo n='5'/>  <P><i>krauñcārāti</i> <ab>m.</ab> <i>(arāti)</i> <ab>surn.</ab> [de <s1 slp1='kArttikeya'>Kārttikeya</s1>.  <P><i>krauñcāri</i> <ab>m.</ab> <i>(ari)</i> <ab>mms.</ab>  <P><i>krauñcāśana</i> <ab>n.</ab> <i>(aśana)</i> nom de plusieurs plantes. || Filaments de lotus."
+        }
     ]
 }

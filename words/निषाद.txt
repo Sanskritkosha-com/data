@@ -36,5 +36,45 @@
             "synonyms": [],
             "content": "निषादो निषधो गर्जो गर्जा मद्रोऽपि मन्द्रवत् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "निषाद",
+            "eid": "17174",
+            "pagenum": 639,
+            "content": "निषादः¦ <b>1</b> <ab>N.</ab> of one of the wild aboriginal tribes in India, such as. hunters, fishermen &c.; a <lbinfo n='moun+taineer'/> mountaineer; मा निषाद प्रतिष्ठां त्वमगमः <lbinfo n='SA#SvatIH'/> शाश्वतीः समाः Rām; <ls>R. 14. 52</ls>, <ls n='R. 14.'>70</ls>;  <lbinfo n='ls:U.+ 2. 5.'/> <ls>U. 2. 5.</ls> <b>--2</b> A man of a degraded tribe in general, an outcast, a Cāṇḍāla. <b>--3</b> Especially, the son of a <lbinfo n='Brāh+maṇa'/> Brāhmaṇa by a Śūdra woman; <ab>cf.</ab>  <lbinfo n='ls:Ms.+ 10. 8.'/> <ls>Ms. 10. 8.</ls> <b>--4</b> (In music) The first (more properly the last or seventh) note of the Hindu gamut;  <lbinfo n='gItakalA#vinyAsamiva'/> गीतकलाविन्यासमिव निषादानुगतं <ls>K. 31</ls> (where it has sense 1 also)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "निषाद",
+            "eid": "7702",
+            "pagenum": 484,
+            "content": "निषाद¦ <i>niṣāda,</i> <ab>i. e.</ab> <i>ni-sad + a,</i> <ab>m.</ab> <b>1.</b> A name used to designate aboriginal tribes of India, who are described as fishermen, hunters, and robbers, and are considered as degraded tribes, viz. as the offspring of a Brāhamaṇa by a Śūdra woman, <ls>Man.</ls> 10, 8. <b>2.</b> The first of the seven musical notes, <ls>MBh.</ls> 14, 1419."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "निषाद",
+            "eid": "8539",
+            "pagenum": 308,
+            "content": "<b>niṣāda</b>¦, <lex>m.</lex>, in <lang>Skt.</lang> as <ab>n.</ab> of a hunting tribe; here = <b>naiṣāda</b>, <ab>q.v.</ab>; in <lang>Pali</lang> nisāda said to mean <i>robber</i>, <ab>comm.</ab> (〔366.27 f.〕) on <ls>Jāt.</ls> 〔iv.364.14〕; <i>(bird-)hunter, fowler</i>: <ls>Jm</ls> 〔134.24〕."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "निषाद",
+            "eid": "4719",
+            "pagenum": 199,
+            "content": "निषाद¦ <i>m.</i> (r. सद् praef. नि s. अ) i.q. किरात. RAGH. 14. 52. et 70."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "निषाद",
+            "eid": "10114",
+            "pagenum": 373,
+            "content": "निषाद¦ <i>niṣāda</i> <ab>m.</ab> homme de caste dégradée, <lbinfo n='7'/> peut-être étrangère aux <s1 slp1='arya'>Arya</s1>s, ou issue d'un brâhmane et d'une <s1 slp1='SUdrA'>śūdrā</s1>. || Pêcheur. <lbinfo n='6'/> || La 7ᵉ note de l'octave descendante [qui est notre seconde]."
+        }
     ]
 }

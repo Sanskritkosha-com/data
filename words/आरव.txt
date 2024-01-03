@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "शब्दो निनादो निर्घोषः स्वानो ध्वानः स्वरो ध्वनिः ।\nनिह्रादो निनदो ह्रादो निस्वानो निस्वनः स्वनः ॥ १३९९ ॥\nरवो नादः स्वनिर्घोषः संव्याङ्भ्यो राव आरवः ।\nक्वणनं निक्वणः क्वाणो निक्वाणश्च क्वणो रणः ॥ १४०० ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "आरव",
+            "eid": "6716",
+            "pagenum": 254,
+            "content": "आरव¦ &c. See under आरु."
+        },
+        {
+            "word": "आरव",
+            "eid": "6736",
+            "pagenum": 254,
+            "content": "आर(रा)वः¦ [आ-रु-अप् पक्षे घञ्] <b>1</b> A cry, howling; वानराश्चक्रुरारवं <ls>Rām.</ls> <b>--2</b> Sound; <ls>Śi. 11. 8</ls>, <ls n='Śi.'>12. 18</ls>,  <lbinfo n='ls:8.+45'/> <ls n='Śi.'>8. 45</ls>. <b>--3</b> <ab>N.</ab> of a people."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "आरव",
+            "eid": "1661",
+            "pagenum": 85,
+            "content": "आरव¦ <i>ārava,</i> <ab>i. e.</ab> <i>ā-ru + a,</i> <ab>m.</ab> Sound, <ls>Rām.</ls> 4, 50, 23."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "आरव",
+            "eid": "988",
+            "pagenum": 33,
+            "content": "आरव¦ <i>m.</i> (r. रु sonare s. अ) sonus, clamor. AM."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "आरव",
+            "eid": "2366",
+            "pagenum": 79,
+            "content": "आरव¦ <i>ārava</i> <ab>m.</ab> <i>(ru)</i> son, bruit. Retentissement. <lbinfo n='10'/> || Cris, clameur."
+        }
     ]
 }

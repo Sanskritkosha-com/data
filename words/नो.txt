@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "प्रादुराविः प्रकाशे स्यादभावे त्व न नो नहि ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "नो",
+            "eid": "17455",
+            "pagenum": 650,
+            "content": "नो¦ <i><ab>ind.</ab></i> (न+उ) No, not; often used like न <ab>q. v.</ab>; <ls>Bg. 17. 28</ls>;  <lbinfo n='ls:Pt.+ 5. 24'/> <ls>Pt. 5. 24</ls>; <ls>Amaru. 5</ls>, <ls n='Amaru.'>7</ls>, <ls n='Amaru.'>10</ls>, <ls n='Amaru.'>62.</ls>"
+        }
+    ],
+    "BEN": [
+        {
+            "word": "नो",
+            "eid": "7892",
+            "pagenum": 495,
+            "content": "नो¦ <i>no,</i> <ab>i. e.</ab> <i>na-u,</i> a particle. <b>1.</b> Nor, <ls>Suśr.</ls> 2, 461, 18. <b>2.</b> Not, <ls>Pañc.</ls> i. <ab>d.</ab> 97."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "नो",
+            "eid": "4800",
+            "pagenum": 203,
+            "content": "नो¦ (e न et उ q. v.) non. HIT. 108. 12. Lass. 41. 15. 77. 2. <i>Praesertim sequente</i> चेत्. HIT. 18. 18. UP. 76. Lass. 7. 13."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "नो",
+            "eid": "10329",
+            "pagenum": 380,
+            "content": "नो¦ <i>no</i> <ab>adv.</ab> <i>(na; u)</i> ne, ne pas, non."
+        }
     ]
 }

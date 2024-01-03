@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "चक्रमण्डल्यजगरः पारीन्द्रो वाहसः शयुः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वाहस",
+            "eid": "25585",
+            "pagenum": 964,
+            "content": "वाहसः¦ <b>1</b> A water-course. <b>--2</b> A large serpent, the boa."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वाहस",
+            "eid": "13129",
+            "pagenum": 842,
+            "content": "वाहस¦ <i>vāhasa</i> (<ab>vb.</ab> <i>vah</i>), <ab>m.</ab> The boa-constrictor."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वाहस",
+            "eid": "15165",
+            "pagenum": 581,
+            "content": "वाहस¦ <i>vāhasa</i> <ab>m.</ab> <i>(vah;</i> <ab>sfx.</ab> <i>sa)</i> cours d'eau. || Boa. || Marsilea dentata, <ab>bot.</ab>"
+        }
     ]
 }

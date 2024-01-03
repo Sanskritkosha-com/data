@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "परिदानं विनिमयो नैमेयः परिवर्तनम् ॥ ८६९ ॥\nव्यतिहारः परावर्तो वैमेयो विमयोऽपि च ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "व्यतिहार",
+            "eid": "27216",
+            "pagenum": 1017,
+            "content": "व्यति(ती)हारः¦  <b>1</b> Exchange, barter. <b>--2</b> Reciprocity, interchange; <ls>R. 12. 93.</ls> <b>--3</b> Exchange of blows, abuse, &c."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "व्यतिहार",
+            "eid": "14170",
+            "pagenum": 912,
+            "content": "व्यतिहार¦ and व्यतीहार <i>vyatī̆hāra,</i> <ab>i. e.</ab> <i>vi-ati-hṛ + a,</i> <ab>m.</ab> <b>1.</b> Barter, exchange. <b>2.</b> Exchange of blows or abuse."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "व्यतिहार",
+            "eid": "14629",
+            "pagenum": 514,
+            "content": "<b>vyatihāra</b>¦, <lex>m.</lex>, used in all other texts for <b>vītihāra</b>, <ab>q.v.</ab>, of <ls>Mv</ls>."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "व्यतिहार",
+            "eid": "16298",
+            "pagenum": 624,
+            "content": "व्यतिहार¦ <i>vyatihāra</i> <ab>m.</ab> <i>(vi; ati; hṛ)</i> échange, troc; commerce."
+        }
     ]
 }

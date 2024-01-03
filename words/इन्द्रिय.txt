@@ -23,5 +23,37 @@
             "synonyms": [],
             "content": "हृषीकमक्षं करणं स्रोतः खं विषयीन्द्रियम् ॥ १३८३ ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "इन्द्रिय",
+            "eid": "1872",
+            "pagenum": 100,
+            "content": "इन्द्रिय¦ <i>indriya,</i> <ab>i. e.</ab> <i>indra + iya,</i> <ab>n.</ab> <b>1.</b> Power, <ls>Chr.</ls> 291, 2 = <ls>Rigv.</ls> i. 83, 2. <b>2.</b> Semen virile, <ls>Man.</ls> 4, 220. <b>3.</b> An organ of sense, <ls>Man.</ls> 1, 15. <b> -- <ab>Comp.</ab></b> <i>Antar-,</i> n, the internal sense, <ab>i. e.</ab> the faculty of thinking. <ls>Vedāntas.</ls> in <ls>Chr.</ls> 217, 19. <i>Karmendriya,</i> <ab>i. e.</ab> <i>karman-,</i> <ab>n.</ab> an organ of action, e. g. the hand, foot, etc., <ls>Man.</ls> 2, 91. <i>Jita-,</i> <ab>adj.</ab> one who has subdued his senses, <ls>Rām.</ls> 3, 49, 53. <i>Nis-,</i> <ab>adj.</ab>, <ab>f.</ab> <i>yā,</i> 1. having lost the use of a limb, <ls>Man.</ls> 9, 201. 2. powerless, <ls>Man.</ls> 9. 18 (? see Sch.). <i>Buddhi-</i> (or <i>jṅāna-</i>), <ab>n.</ab> an organ of perception and intellect, as the mind, eye, ear, etc., <ls>Man.</ls> 2, 91. <i>Sa-,</i> <ab>adj.</ab> with the organs of sense, <ls>Man.</ls> 1, 55."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "इन्द्रिय",
+            "eid": "3175",
+            "pagenum": 115,
+            "content": "<b>indriya</b>¦, (<b>1</b>) <lex>nt.</lex> (<lang>Pali</lang> also uses the word of this group, see <ls>PTSD</ls> <ab>s.v.</ab>, B, <ab>Nos.</ab> 15—19), one of the five moral <i>faculties</i> (śraddhā, vīrya, smṛti, samādhi, prajñā), to which correspond five <i>powers</i> (bala) with the same names: listed <ls>Mvy</ls> 〔976—981〕; <ls>Sūtrāl.</ls> 〔xviii.55〕 (and <ab>cf.</ab> 〔xi.12〕, <ls>Transl.</ls> 〔106, n. 10〕); <ls>Dharmas</ls> 〔47〕; each treated as a dharmālokamukha, <ls>LV</ls> 〔33.17—20〕; mentioned, with balas, but not listed, <ls>SP</ls> 〔47.2〕; 〔80.1〕; (<b>2</b>) a high number, <ls>Gv</ls> 〔106.3〕 sattvendriyasya."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "इन्द्रिय",
+            "eid": "1143",
+            "pagenum": 40,
+            "content": "इन्द्रिय¦ <i>n.</i> (ut videtur, ex इन्द्र s. इय) sensus (videndi, audiendi etc.). BH. 3. 40. 10. 22."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "इन्द्रिय",
+            "eid": "2644",
+            "pagenum": 89,
+            "content": "इन्द्रिय¦ <i>indriya</i> <ab>n.</ab> <i>(indra</i> âme) sens; <i>indriyāṇi</i> les cinq sens. || Organes des sens.  <P><i>indriyakarman</i> <ab>n.</ab> <i>(kṛ)</i> fonction d'un sens, d'un organe sensitif.  <P><i>indriyagocara</i> <ab>m.</ab> <i>pañca indriyagocarās</i> les cinq ordres de sensations.  <P><i>indriyagrāma</i> <ab>m.</ab> la réunion des sens; l'ensemble des sensations; leur siège commun. <lbinfo n='4'/>  <P><i>indriyabala</i> <ab>n.</ab> force des sens, perfection des sens, <ab>Bd.</ab>  <P><i>indriyāgni</i> <ab>m.</ab> <i>(agni)</i> le feu des sens [<ab>t.</ab> mystique].   <P><i>indriyārāma</i> <ab>a.</ab> <i>(ā, ram)</i> qui goûte les plaisirs des sens.  <P><i>indriyārtha</i> <ab>m.</ab> <i>(artha)</i> un objet des sens.  <P><i>indriyāyatana</i> <ab>n.</ab> <i>(ayatana)</i> siège des sensations, <lbinfo n='8'/> le corps."
+        }
     ]
 }

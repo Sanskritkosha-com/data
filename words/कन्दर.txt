@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "दरी स्यात्कन्दरोऽखातबिले तु गह्वरं गुहा ॥ १०३३ ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "कन्दर",
+            "eid": "2892",
+            "pagenum": 156,
+            "content": "कन्दर¦ <i>kandara</i> (probably <i>ka + m,</i> old <ab>nom.</ab> and <ab>acc.</ab> <ab>n.</ab> of <i>kim, -dṝ + a</i>), <ab>m.</ab>, <ab>f.</ab> <i>ṝ,</i> and <ab>n.</ab> A cave, <ls>Pañc.</ls> 93, 8."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कन्दर",
+            "eid": "1850",
+            "pagenum": 65,
+            "content": "कन्दर¦ <i>m.</i> (ut videtur, ex क in <i>acc.</i> et दर findens, a r. दॄ s. अ) caverna, specus. DR. 5. 7."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कन्दर",
+            "eid": "3939",
+            "pagenum": 139,
+            "content": "कन्दर¦ <i>kandara</i> <ab>m.</ab> <i>(ka</i> eau; <i>dṛ)</i> trou; fosse, mare; caverne <ab>(?)</ab>. -- <i>kandarā</i> et <i>kandarī</i> <lbinfo n='6'/> <ab>f.</ab> <ab>mms.</ab>"
+        },
+        {
+            "word": "कन्दर",
+            "eid": "3940",
+            "pagenum": 139,
+            "content": "कन्दर¦ <i>kandara</i> <ab>m.</ab> <i>(kand)</i> aiguillon de cornac."
+        }
     ]
 }

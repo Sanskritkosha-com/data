@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "वैवर्ण्यं कालिकाथाश्रु बाष्पो नेत्राम्बु रोदनम् ।\nअस्रमस्रु प्रलयस्त्वचेष्टतेत्यष्ट सात्त्विकाः ॥ ३०७ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "अश्रु",
+            "eid": "5315",
+            "pagenum": 203,
+            "content": "अश्रु¦ <i><ab>n.</ab></i> [अश्नुते व्याप्नोति नेत्रमदर्शनाय, अश्-क्रुन् <ls>Uṇ. 5. 29</ls>, <ls n='Uṇ.'>2. 13</ls>, <ls n='Uṇ.'>4. 102</ls>] A tear; पपात भूमौ सह सैनिकाश्रुभिः  <lbinfo n='ls:R.+ 3. 61.'/> <ls>R. 3. 61.</ls> [<ab>cf.</ab> Zend <i>asru</i>; Pers. <i>ars</i>.]. <b>--Comp.</b> --उपहत <i><ab>a.</ab></i> affected by tears, covered with tears. --कला a tear-drop. --नाली Fistula <lbinfo n='Lachry+malis'/> Lachrymalis. --परिपूर्ण <i><ab>a.</ab></i> filled with tears; °अक्ष having eyes filled with tears. --परिप्लुत <i><ab>a.</ab></i> suffused or filled with tears, bathed in tears. --पातः flow of tears, shedding tears. --पूर्ण <i><ab>a.</ab></i> filled with tears; °आकुल troubled and filled with tears; <ls>Bg. 2. 1.</ls> --मुख <i><ab>a.</ab></i> suffused with tears, <lbinfo n='(sud+denly'/> (suddenly) bursting into tears;  <lbinfo n='ekapade#'SrumuKI'/> एकपदेऽश्रुमुखी संवृत्ता <ls>V. 5</ls>; संसदश्रुमुखी बभौ <ls>R. 15. 66</ls>; <ls>Ku. 6. 92.</ls> --लोचन, --नेत्र <i><ab>a.</ab></i> with tears in the eyes, with <lbinfo n='tear+ful'/> tearful eyes. --शालिन् <i><ab>a.</ab></i> having tears, tearful."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "अश्रु",
+            "eid": "1257",
+            "pagenum": 62,
+            "content": "अश्रु¦ <i>aś + ru</i> (see <ab>vb.</ab> <i>śo</i>), <ab>n.</ab> A tear, <ls>Rām.</ls> 2, 48, 2. <b> -- <ab>Comp.</ab></b> <i>Ud-,</i> <ab>adj.</ab> shedding tears, <ls>Ragh.</ls> 12, 14."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "अश्रु",
+            "eid": "736",
+            "pagenum": 23,
+            "content": "अश्रु¦ <i>n.</i> lacryma (ut mihi videtur, e दश्रु, abjecto द्, ar. दंश् mordere - gr. <lang n='greek'>δάϰνω</lang> - s. रु; cf. gr. <lang n='greek'>δάϰϱυ</lang>, lat. <i>lacryma</i> pro <i>dacryma</i>; goth. <i>tagrs</i> Th. <i>tagra</i> respondet sanscrito अश्र; angl. <i>tear</i>, nostrum <i>Zähre</i>; lith. <i>áfzara</i>)."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "अश्रु",
+            "eid": "1810",
+            "pagenum": 60,
+            "content": "अश्रु¦ <i>aśru</i> <ab>n.</ab> larme. <ab>Gr.</ab> <lang n='greek'>δάϰρυ</lang>; <ab>lat.</ab> lacryma. <lbinfo n='6'/> [<i>aśru</i> est probablement abrégé de l'inusité <i>daśru.</i>]"
+        }
     ]
 }

@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "सहायोऽभिचरोऽनोश्च जीविगामिचरप्लवाः ।\nसेवकोऽथ सेवा भक्तिः परिचर्या प्रसादना ॥ ४९६ ॥\nशुश्रूषाराधनोपास्तिवरिवस्यापरीष्टयः ।\nउपचारः पदातिस्तु पत्तिः पद्गः पदातिकः ॥ ४९७ ॥\nपादातिकः पादचारी पदाजिपदिकावपि ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "सेवा",
+            "eid": "30548",
+            "pagenum": 1138,
+            "content": "सेवा¦ [सेव्-अ] <b>1</b> Service, servitude, dependence; attendance; सेवां <lbinfo n='lA#GavakAriRIM'/> लाघवकारिणीं कृतधियः स्थाने श्ववृत्तिं विदुः <ls>Mu. 3. 14</ls>; हनिसेवा न कर्तव्या  <lbinfo n='ls:H.+ 3. 11.'/> <ls>H. 3. 11.</ls> <b>--2</b> Worship, homage, <lbinfo n='honour+ing'/> honouring <b>--3</b> Addiction or devotion to, fondness for. <b>--4</b> Use, practice, <lbinfo n='em+ployment'/> employment, exercise. <b>--5</b> Frequenting, resorting to. <b>--6</b> Flattery, coaxing or flattering words; अलं सेवया <lbinfo n='ma#DyasTatAM'/> मध्यस्थतां गृहीत्वा भण <ls>M. 3.</ls> <b>--Comp.</b> --आकार <i><ab>a.</ab></i> in the form of servitude; <ls>V. 3. 1.</ls> --काकुः change of voice in service; (this is a variant in  <lbinfo n='ls:V.+ 3. 1'/> <ls>V. 3. 1</ls> for सेवाकारा). --धर्मः {1} the duty of service; सेवाधर्मः परमगहनो <lbinfo n='yogi#nAmapyagamyaH'/> योगिनामप्यगम्यः <ls>Pt. 1. 285.</ls> {2} the <lbinfo n='obli+gations'/> obligations of service. --व्यवहारः the practice or law of service."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "सेवा",
+            "eid": "16376",
+            "pagenum": 1060,
+            "content": "सेवा¦ <i>sev + ā,</i> <ab>f.</ab> <b>1.</b> Service, <ls>Man.</ls> 4, 5; <ls>Vikr.</ls> <ab>d.</ab> 42. <b>2.</b> Servitude, <ls>Hit.</ls> i. <ab>d.</ab> 136, <ab>M.M.</ab> <b>3.</b> Practice, <ls>Rājat.</ls> 5, 280. <b>4.</b> Worship, <ls>Bhag.</ls> 4, 34. <b>5.</b> Homage, <ls>Rājat.</ls> 5, 154. <b> -- <ab>Comp.</ab></b> <i>A-,</i> <ab>f.</ab> avoiding to serve, <ls>Man.</ls> 2, 96. <i>Vāra-,</i> <ab>f.</ab> 1. harlotry. 2. a set of courtesans. <i>Strī-,</i> <ab>f.</ab> libertinism. <i>Hina-</i> (<ab>vb.</ab> <i>hā</i>), <ab>f.</ab> serving a low person, <ls>Böhtl. Ind. Spr.</ls> 3355."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "सेवा",
+            "eid": "8576",
+            "pagenum": 382,
+            "content": "सेवा¦ <i>f.</i> (r. सेव् s. आ) 1) cultus, veneratio. BH. 4. 34. 6. 20. 2) servitus, servitium. HIT. 31. 19."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "सेवा",
+            "eid": "19000",
+            "pagenum": 729,
+            "content": "सेवा¦ <i>sevā</i> <ab>f.</ab> <i>(sev)</i> service, aide; || servitude, <lbinfo n='5'/> domesticité. || Service divin, culte.  <P><i>sevitva</i> <ab>n.</ab> (<ab>sfx.</ab> <i>tva)</i> fréquentation, séjour; <lbinfo n='5'/> || retraite en un lieu écarté. || Service divin, culte.  <P><i>sevin</i> <ab>a.</ab> qui fréquente, qui séjourne. || Qui rend un culte, qui honore."
+        }
     ]
 }

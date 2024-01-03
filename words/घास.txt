@@ -12,5 +12,43 @@
             "synonyms": [],
             "content": "काशस्त्विषीका घासस्तु यवसं तृणमर्जुनम् ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "घास",
+            "eid": "12896",
+            "pagenum": 477,
+            "content": "घासः¦ [घस् कर्मणि घञ्] <b>1</b> Food. <b>--2</b> Meadow or pasture grass;  <lbinfo n='GAsABAvA#t'/> घासाभावात् <ls>Pt. 5</ls>; घासमुष्टिं परगवे दद्यात् संवत्सरं तु यः <ls>Mb.</ls> <b>--Comp.</b> --कुंदं, --स्थानं a pasture. --कूटं hay-rick."
+        },
+        {
+            "word": "घास",
+            "eid": "12909",
+            "pagenum": 477,
+            "content": "घासः¦ See under घस्."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "घास",
+            "eid": "4717",
+            "pagenum": 283,
+            "content": "घास¦ <i>ghāsa,</i> <ab>i. e.</ab> <i>ghas + a,</i> <ab>m.</ab> Food, <ls>Pañc.</ls> 215, 1. <b> -- <ab>Comp.</ab></b> <i>Aśva-,</i> <ab>m.</ab> 1. food for horses, <ls>Rājat.</ls> 3, 489. 2. Pastureground for horses, <ls>Kathās.</ls> 15, 124."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "घास",
+            "eid": "2991",
+            "pagenum": 114,
+            "content": "घास¦ <i>m.</i> (r. घस् s. अ) gramen. AM. (Germ. vet. <i>wisa</i> pratum, nostrum <i>Wiese</i>, v. कृमि et Graff. I. 1977.)"
+        }
+    ],
+    "BUR": [
+        {
+            "word": "घास",
+            "eid": "6248",
+            "pagenum": 232,
+            "content": "घास¦ <i>ghāsa</i> <ab>m.</ab> <i>(ghas)</i> pâturage, prairie, herbe des prairies. || <ab>Germ.</ab> gras."
+        }
     ]
 }

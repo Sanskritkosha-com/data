@@ -34,5 +34,37 @@
             "synonyms": [],
             "content": "भेदाः कान्तारपुण्ड्राद्यास्तस्य मूलं तु मोरटम् ॥ ११९४ ॥"
         }
+    ],
+    "BEN": [
+        {
+            "word": "कान्तार",
+            "eid": "3207",
+            "pagenum": 174,
+            "content": "कान्तार¦ <i>kāntāra,</i> <ab>m.</ab> and <ab>n.</ab> <b>1.</b> A large forest, <ls>Rām.</ls> 2, 28, 6. <b>2.</b> Wilderness, <ls>Rām.</ls> 4, 44, 27. <b>3.</b> A difficult road, <ls>Daśak.</ls> in <ls>Chr.</ls> 188, 10."
+        }
+    ],
+    "BHS": [
+        {
+            "word": "कान्तार",
+            "eid": "4696",
+            "pagenum": 176,
+            "content": "<b>kāntāra</b>¦, <lex>m.</lex> or <lex>nt.</lex> (see <ls>Gray, ZDMG</ls> 〔60.360〕, citing this word from Vāsavadatṭā, <ab>expl.</ab> in <ab>comm.</ab> by durbhikṣā; <lang>Pali</lang> kantāra, <ab>cpd.</ab> with <ab>prec.</ab> dubhikkha-; said by <ls>PTSD</ls> to mean <i>hardship, trouble</i> in general): <i>famine</i>: <ls>Av</ls> 〔ii.83.8〕 tena khalu samayena durbhikṣam abhūt kṛcchram, kāntāra-durlambhaḥ piṇḍako yācanakena; <ls>Kv</ls> 〔47.15〕 nādyaiva māṃsabhakṣaṇaṃ viṃśati-varṣāṇi paripūrṇāni kāntārasya ca pratipannasya ca nātra kiṃcid annapānaṃ saṃvidyate; 〔47.20〕; <ls>MSV</ls> 〔i.237.15〕; in <ls>SP</ls> 〔81.11〕 perhaps in more general sense of <i>troubles, difficulty, disaster</i>: parimuktāḥ sarvabhayopadrava-kāntārebhyo nirvṛtisukhaprāptāḥ."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "कान्तार",
+            "eid": "2043",
+            "pagenum": 70,
+            "content": "कान्तार¦ <i>m. n.</i> 1) via mala. 2) silva. R. Schl. I. 30. 17."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "कान्तार",
+            "eid": "4338",
+            "pagenum": 154,
+            "content": "कान्तार¦ <i>kāntāra</i> <ab>m.</ab> <ab>n.</ab> [<i>kā; tṝ</i> <ab>(?)</ab>) mauvais <lbinfo n='4'/> pas, mauvais chemin; || bois fourré et impraticable; <ab>cf.</ab> <i>kānana;</i> || trou, creux, inégalité du sol. || Au <ab>fig.</ab> <ab>n.</ab> maladie, symptôme <lbinfo n='4'/> de maladie; <ab>cf.</ab> <i>kātara.</i> || <ab>M.</ab> espèce rouge de canne à sucre; on dit aussi <i>kāntāraka</i> <lbinfo n='8'/> <ab>m.</ab>"
+        }
     ]
 }

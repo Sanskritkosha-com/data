@@ -23,5 +23,43 @@
             "synonyms": [],
             "content": "द्वादशार्का वसवोऽष्टौ विश्वेदेवास्त्रयोदश ।\nषट्त्रिंशत्तुषिताश्चैव षष्टिराभास्वरा अपि ॥ ४ ॥\nषट्त्रिंशदधिके माहाराजिकाश्च शते उभे ।\nरुद्रा एकादशैकोनपञ्चाशद्वायवोऽपि च ॥ ५ ॥\nचतुर्दश तु वैकुण्ठाः सुशर्माणः पुनर्दश ।\nसाध्याश्च द्वादशेत्याद्या विज्ञेया गणदेवताः ॥ ६ ॥"
         }
+    ],
+    "AP90": [
+        {
+            "word": "साध्य",
+            "eid": "30044",
+            "pagenum": 1115,
+            "content": "साध्य¦ <i><ab>a.</ab></i> [साध्-णिच् यत्] <b>1</b> To be effected or accomplished, to be brought about; साध्ये सिद्धिर्विधीयतां <ls>H. 2. 15.</ls> <b>--2</b> Feasible, practicable, attainable. <b>--3</b> To be proved or <lbinfo n='de+monstrated'/> demonstrated; आप्तवागनुमानाभ्यां साध्यं त्वां प्रति का कथा <ls>R. 10. 28.</ls> <b>--4</b> To be established or made good. <b>--5</b> To be inferred or concluded;  <lbinfo n='anu#mAnaM'/> अनुमानं तदुक्तं यत्साध्यसाधनयोर्वचः  <lbinfo n='ls:K. P.+ 10.'/> <ls>K. P. 10.</ls> <b>--6</b> To be conquered or subdued, conquerable; <ls>Ku. 3. 15</ls>, <ls>Pt. 3. 27.</ls> <b>--7</b> Curable. <b>--8</b> To be killed or <lbinfo n='de+stroyed'/> destroyed. --ध्यः <b>1</b> A particular class of celestial beings; <ab>cf.</ab> <ls>Ms. 1. 22</ls>,  <lbinfo n='ls:3.+195'/> <ls n='Ms.'>3. 195.</ls> <b>--2</b> A deity in general. <b>--3</b> <ab>N.</ab> of a Mantra. --ध्यं <b>1</b> <lbinfo n='Accomplish+ment'/> Accomplishment, perfection. <b>--2</b> The thing to be proved or established, the <lbinfo n='mat+ter'/> matter at issue. <b>--3</b> (In logic) The predicate of a proposition, the major term in a syllogism; साध्ये निश्चितमन्वयेन घटितं…… &c. ; यत्साध्यं स्वयमेव तुल्यमुभयोः पक्षे विरुद्धं च यत् <ls>Mu. 5. 10.</ls> <b>--Comp.</b> --अभावः the absence of the major term. --ऋषिः an epithet of Śiva. --पक्षः the plaint in a law-suit. --सिद्धिः <i><ab>f.</ab></i> {1} <lbinfo n='accom+plishment'/> accomplishment. {2} conclusion. °पादः judgment, decision."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "साध्य",
+            "eid": "16006",
+            "pagenum": 1034,
+            "content": "साध्य¦ <i>sādhya,</i> <b>1.</b> See <i>sādh.</i> <b>2.</b> <ab>i. e.</ab> <i>sā-</i> <i>dhya + a,</i> <ab>adj.</ab> Belonging to the Sādhyas, a class of inferior deity, <ls>Arj.</ls> 4, 30."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "साध्य",
+            "eid": "8419",
+            "pagenum": 374,
+            "content": "1. साध्य¦ (r. साध् s. य) <i>Adj.</i> perfectus. <i>Subst</i> 1) <i>n.</i> perfectio. HIT. 3. 1. 2) <i>m.</i> nomen cujusdam Geniorum ordinis."
+        },
+        {
+            "word": "साध्य",
+            "eid": "8420",
+            "pagenum": 374,
+            "content": "2. साध्य¦ (a praec. s. अ) ad <i>Sâdhyos</i> pertinens. A. 4. 30."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "साध्य",
+            "eid": "18391",
+            "pagenum": 708,
+            "content": "साध्य¦ <i>sādhya</i> <ab>a.</ab> <i>(sādh)</i> qu'on peut ou qu'on doit achever, terminer, conclure, guérir, <ab>etc.</ab> -- <ab>S.</ab> <ab>m.</ab> un saint, un parfait, <ab>np.</ab> d'une classe de personnages célestes. || Le 22ᵉ <s1 slp1='yoga'>yoga</s1> astronomique. -- <ab>S.</ab> <ab>n.</ab> perfection. <lbinfo n='5'/>  <P><i>sādhyasiddhi</i> <ab>f.</ab> accomplissement, dernière main. || Preuve, établissement de la conclusion. <lbinfo n='5'/>  <P><i>sādhyasiddhipāda</i> <ab>m.</ab> le jugement [4ᵉ partie d'une instance judiciaire]."
+        }
     ]
 }

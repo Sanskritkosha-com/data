@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "प्रेमवत्यपि कान्तायां पाणिग्राहो विवोढरि ॥ ४१ ॥\nपरिणेतोपयन्ता च यौतके दाय इत्यपि ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "दाय",
+            "eid": "15362",
+            "pagenum": 563,
+            "content": "दायः¦ [दा भावे-घञ्] <b>1</b> A gift, <lbinfo n='pre+sent'/> present, donation; रहसि रमते प्रीत्या दायं ददात्यनुवर्तते <ls>Māl. 3. 2</ls>; प्रीतिदायः  <lbinfo n='ls:Māl.+4'/> <ls>Māl. 4</ls>; <ls>Ms. 8. 199.</ls> <b>--2</b> A nuptial present (given to the bride or the <lbinfo n='bride+groom'/> bridegroom). <b>--3</b> Share, portion, <lbinfo n='inheri+tance'/> inheritance, patrimony; अनपत्यस्य पुत्रस्य माता दायमवाप्तुयात् <ls>Ms. 9. 217</ls>, <ls n='Ms. 9.'>77</ls>, <ls n='Ms. 9.'>164</ls>, <ls n='Ms. 9.'>203.</ls> <b>--4</b> A part or share in <lbinfo n='ge+neral'/> general. <b>--5</b> Delivering, handing over. <b>--6</b> Dividing, distributing. <b>--7</b> Loss, destruction. <b>--8</b> Irony. <b>--9</b> Site, place. <b>--10</b> Alms given to a <lbinfo n='stu+dent'/> student at his initiation, &c. <b>--Comp.</b> --अपवर्तनं forfeiture of inheritance; <ls>Ms. 9. 79.</ls> --अर्ह <i><ab>a.</ab></i> claiming <lbinfo n='in+heritance'/> inheritance. --आदः [दायमादत्ते, आदा-क] {1} one entitled to a share of <lbinfo n='patri+mony'/> patrimony, an heir; पुमान्दायादोऽदायादा स्त्री <ls>Nir.</ls>; <ls>Y. 2. 118</ls>; <ls>Ms. 8. 160.</ls> {2} a son. {3} a relative, kinsman near or remote, a distant <lbinfo n='descend+ant'/> descendant. {4} a claimant or pretender in general; गवां गोषु वा दायादः <ls>Sk.</ls> --आदा, --दी {1} an heiress. {2} a daughter. --आद्यं {1} inheritance. {2} the state of being an inheritor.  <lbinfo n='--kA#laH'/> --कालः the time of the partition of an inheritance. --बंधुः {1} a partner in the inheritance. {2} a brother. --भागः division of property among heirs, partition (of inheritance)."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "दाय",
+            "eid": "6403",
+            "pagenum": 395,
+            "content": "दाय¦ <i>dāya,</i> <ab>i. e.</ab> 1. <i>dā + a,</i> <ab>m.</ab> <b>1.</b> A gift, <ls>MBh.</ls> 1, 6938. <b>2.</b> Separate property of a wife, <ls>Man.</ls> 9, 77. <b>3.</b> Delivering, <ls>Man.</ls> 8, 180. <b>4.</b> Inheritance, <ls>Man.</ls> 9, 217 <b> -- <ab>Comp.</ab></b> <i>Su-,</i> <ab>m.</ab> A special gift, as a nuptial present, &c."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "दाय",
+            "eid": "4042",
+            "pagenum": 167,
+            "content": "दाय¦ <i>n.</i> (r. दा s. य) donum; portio. R. Schl. I. 29. 4."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "दाय",
+            "eid": "8598",
+            "pagenum": 317,
+            "content": "दाय¦ <i>dāya</i> <ab>m.</ab> (<ab>sfx.</ab> <i>ya)</i> don, présent; || cadeau de noces; || aumône. -- <i>(do)</i> division, <lbinfo n='5'/> partage; || part d'héritage. || Mise en pièces, destruction. -- Place, position, <ab>cf.</ab> <i>dhā.</i>  <P><i>dāyaka</i> <ab>a.</ab> (<ab>sfx.</ab> <i>aka)</i> libéral, qui donne.  <P><i>dāyabandhu</i> <ab>m.</ab> cohéritier, frère.  <P><i>dāyabhāga</i> <ab>m.</ab> distribution des parts, partage <lbinfo n='4'/> d'un héritage.  <P><i>dāyavibhāga</i> <ab>m.</ab> <ab>mms.</ab>"
+        }
     ]
 }

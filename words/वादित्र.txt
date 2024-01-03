@@ -12,5 +12,37 @@
             "synonyms": [],
             "content": "वाद्यं वादित्रमातोद्यं तूर्यं तूरं स्मरध्वजः ।"
         }
+    ],
+    "AP90": [
+        {
+            "word": "वादित्र",
+            "eid": "25415",
+            "pagenum": 959,
+            "content": "वादित्रं¦ <b>1</b> A musical instrument; <ls>N. 22. 22.</ls> <b>--2</b> Instrumental music. <b>--Comp.</b> --गणः a band of music."
+        }
+    ],
+    "BEN": [
+        {
+            "word": "वादित्र",
+            "eid": "13009",
+            "pagenum": 835,
+            "content": "वादित्र¦ <i>vāditra,</i> <ab>i. e.</ab> <i>vad,</i> <ab>Caus.</ab>, <i>+ tra,</i> <ab>n.</ab> <b>1.</b> A musical instrument, <ls>Man.</ls> 4, 64. <b>2.</b> Instrumental music, <ls>Indr.</ls> 3, 9."
+        }
+    ],
+    "BOP": [
+        {
+            "word": "वादित्र",
+            "eid": "7142",
+            "pagenum": 315,
+            "content": "वादित्र¦ <i>n.</i> (a वादय् <i>Caus.</i> rad. वद् q. v. suff. त्र, inserto इ) 1) instrumentum musicum. IN. 2. 11. 2) qui instrumentis musicis editur cantus (<i>Instrumental-Musik</i>). IN. 3. 7. 9."
+        }
+    ],
+    "BUR": [
+        {
+            "word": "वादित्र",
+            "eid": "15015",
+            "pagenum": 576,
+            "content": "वादित्र¦ <i>vāditra</i> <ab>n.</ab> <i>(vāda;</i> <ab>sfx.</ab> <i>tra)</i> instrument <lbinfo n='7'/> de musique.  <P><i>vāditragaṇa</i> <ab>m.</ab> troupe de musiciens, orchestre. <lbinfo n='8'/>"
+        }
     ]
 }
