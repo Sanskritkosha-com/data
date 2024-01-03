@@ -21,5 +21,35 @@
             "pagenum": 306,
             "content": "tAta-gu¦ <i>(II) m.</i> a paternal uncle."
         }
+    ],
+    "MW": [
+        {
+            "word": "तातगु",
+            "eid": "83765",
+            "pagenum": 442,
+            "content": "तात—गु ¦ <lex>mfn.</lex> agreeable to a father, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तातगु",
+            "eid": "83766",
+            "pagenum": 442,
+            "content": "तात—गु ¦ <lex>m.</lex> a paternal uncle, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तातगु",
+            "eid": "45145",
+            "pagenum": 3,
+            "content": "*तातगु¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>dem Vater angenehm, — erspriesslich</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>des Vaters Bruder</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तातगु",
+            "eid": "29170",
+            "pagenum": 3,
+            "content": "तातगु¦ (तात + 4. गु ?) <div n='1'> 1) <lex>adj.</lex> <i>dem Vater angenehm, erspriesslich</i> (जनकस्य हिते). <div n='1'>— 2) <lex>m.</lex> = क्षुद्रतात <ls>MED. g. 34.</ls> <i>des Vaters Bruder</i> <ls>ŚKDR.</ls> <ls>WILS.</ls>"
+        }
     ]
 }

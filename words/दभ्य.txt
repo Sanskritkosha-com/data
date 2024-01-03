@@ -23,5 +23,51 @@
             "pagenum": 576,
             "content": "<b>(dábhya),</b> <b>dábhia,</b>¦ <ab>a.</ab> [von dabh], 1〉 <i>den man täuschen</i> oder <i>beschädigen kann</i>. <div n='TS'>-am {934,4}. <div n='TS'>-āya {887,2} sá íd dānā́ya 〰 vanván."
         }
+    ],
+    "MD": [
+        {
+            "word": "दभ्य",
+            "eid": "9060",
+            "pagenum": 116,
+            "content": "दभ्य¦ dábh-ya, <ab>fp.</ab> who can be deceived; 🞄meant to deceive."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दभ्य",
+            "eid": "90236",
+            "pagenum": 469,
+            "content": "द/भ्य ¦ <lex>mfn.</lex> deceivable, <ls n='RV.'>x, 108, 4</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "दभ्य",
+            "eid": "90237",
+            "pagenum": 469,
+            "content": "¦ deceitful, <ls n='RV. x,'>61, 2.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दभ्य",
+            "eid": "21894",
+            "pagenum": 402,
+            "content": "<i>Dabhya, as, ā, am,</i>¦ Ved. to be hurt or injured, to be deceived."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दभ्य",
+            "eid": "48978",
+            "pagenum": 3,
+            "content": "(दभ्य) द/भिअ¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>den man täuschen kann</i>. <div n='1'>— 2〉 <i>auf Täuschung berechnet</i> <ls>ṚV. 10,61,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दभ्य",
+            "eid": "32018",
+            "pagenum": 3,
+            "content": "द/भ्य¦ (wie eben) <lex>adj.</lex> <i>einer dem man Etwas anhaben, den man täuschen kann</i>: नाहं तं वे^द\\ दभ्य\\ं दभ\\त्सः <ls>ṚV. 10, 108, 4.</ls> स इद्दा\\नाय\\ दभ्या^य व\\न्वं च्यवा^नः सूदै^रमिमीत\\ वेदि^म् <ls n='ṚV. 10,'>61, 2.</ls>"
+        }
     ]
 }

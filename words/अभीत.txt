@@ -47,5 +47,57 @@
             "pagenum": 119,
             "content": "<b>a-bhīta,</b>¦ <i><ab>a.</ab></i> fearless; <b>-vat</b> [<ls n='wg,1107'>1107]</ls>, fearlessly. <lbinfo n='fear-lessly.'/>"
         }
+    ],
+    "MD": [
+        {
+            "word": "अभीत",
+            "eid": "2290",
+            "pagenum": 24,
+            "content": "अभीत¦ a-bhīta, <ab>pp.</ab> fearless: <b>-vat,</b> <lex>ad.</lex> -ly."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अभीत",
+            "eid": "12994",
+            "pagenum": 74,
+            "content": "अ-भीत <hom>a</hom> ¦ <lex>mf(आ)n.</lex> <ab>id.</ab>, <ls>R.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "अभीत",
+            "eid": "13029",
+            "pagenum": 74,
+            "content": "अ-भीत <hom>b</hom> ¦ &c. See <hom>1.</hom> अ-भी."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभीत",
+            "eid": "5021",
+            "pagenum": 70,
+            "content": "अभीत¦ <i>a-bhīta, as, ā, am,</i> not terrified, fearless. <i>—Abhīta-vat,</i> ind. as one not afraid, fearlessly."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभीत",
+            "eid": "7780",
+            "pagenum": 1,
+            "content": "अभीत¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>furchtlos</i>. °वत् <lex>Adv.</lex> <ls>Spr. 2550</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभीत",
+            "eid": "4845",
+            "pagenum": 1,
+            "content": "अभीत¦ (3. अ + भीत) <lex>adj.</lex> <lex>f.</lex> आ <i>ohne Furcht</i> <ls>AK. 2, 8, 2, 64.</ls> <ls>H. 791.</ls> <ls>R. 2, 60, 7.</ls> अभीतवत् adv. <ls n='R.'>6, 28, 6.</ls>"
+        },
+        {
+            "word": "अभीत",
+            "eid": "64614",
+            "pagenum": 5,
+            "content": "अभीत¦, प्रहरध्वमभीतवत् (adv.) so v. a. <i>ohne Furcht</i> <ls>MBH. 12, 3730.</ls> <ls>R. 1, 2, 12.</ls> <ls>Spr. 2050.</ls>"
+        }
     ]
 }

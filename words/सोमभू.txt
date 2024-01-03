@@ -20,5 +20,47 @@
             "pagenum": 1062,
             "content": "सोमभू¦ <i>soma-bhū,</i> <ab>m.</ab> The son of Soma, Budha, the regent of Mercury."
         }
+    ],
+    "MW": [
+        {
+            "word": "सोमभू",
+            "eid": "252927",
+            "pagenum": 1250,
+            "content": "सोम—भू ¦ <lex>mfn.</lex> ‘<s1 slp1='soma'>Soma</s1>born’, belonging to the family of the moon, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सोमभू",
+            "eid": "252928",
+            "pagenum": 1250,
+            "content": "सोम—भू ¦ <lex>m.</lex> ‘son of <ab n='Soma' slp1='soma'>S°</ab>’, <ab>N.</ab> of <s1 slp1='buDa'>Budha</s1> (regent of the planet Mercury), <ls>ib.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सोमभू",
+            "eid": "252929",
+            "pagenum": 1250,
+            "content": "¦ a son of <s1 slp1='soma-candra'>Soma-candra</s1>, <ls>HPariś.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सोमभू",
+            "eid": "252930",
+            "pagenum": 1250,
+            "content": "¦ (with <s1 slp1='jEna'>Jaina</s1>s) <ab>N.</ab> of the 4th of the Black <s1 slp1='vAsudeva'>Vāsudeva</s1>s, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सोमभू",
+            "eid": "129618",
+            "pagenum": 7,
+            "content": "सोमभू¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein Sohn</i> <is>Soma</is>ʼs, <ab>d. i.</ab> <is>Somacandra</is>ʼs <ls>HEM. PAR. 1,196</ls>. <div n='1'>— 2〉 bei den <is>Jaina</is> <ab>N. pr.</ab> des 4ten schwarzen <is>Vāsudeva</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सोमभू",
+            "eid": "112906",
+            "pagenum": 7,
+            "content": "सोमभू¦ <lex>m.</lex> bei den <is>Jaina</is> N. pr. des 4ten schwarzen <is>Vāsudeva</is> <ls>H. 695.</ls>"
+        }
     ]
 }

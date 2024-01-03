@@ -31,5 +31,79 @@
             "pagenum": 806,
             "content": "sTavi¦ <i>m.</i> 1. A weaver; 2. heaven."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्थवि",
+            "eid": "255334",
+            "pagenum": 1262,
+            "content": "स्थवि <hom>a</hom>. ¦ See <pcol>p. 1265, col. 2</pcol>."
+        },
+        {
+            "word": "स्थवि",
+            "eid": "255912",
+            "pagenum": 1265,
+            "content": "स्थवि <hom>b</hom> ¦ <lex>m.</lex> (only <ls>L.</ls>) a sack, bag<info lex='m'/>"
+        },
+        {
+            "word": "स्थवि",
+            "eid": "255913",
+            "pagenum": 1265,
+            "content": "¦ heaven<info lex='inh'/>"
+        },
+        {
+            "word": "स्थवि",
+            "eid": "255914",
+            "pagenum": 1265,
+            "content": "¦ a weaver<info lex='inh'/>"
+        },
+        {
+            "word": "स्थवि",
+            "eid": "255915",
+            "pagenum": 1265,
+            "content": "¦ fire<info lex='inh'/>"
+        },
+        {
+            "word": "स्थवि",
+            "eid": "255916",
+            "pagenum": 1265,
+            "content": "¦ a leper or the flesh of a leper<info lex='inh'/>"
+        },
+        {
+            "word": "स्थवि",
+            "eid": "255917",
+            "pagenum": 1265,
+            "content": "¦ fruit.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्थवि",
+            "eid": "53158",
+            "pagenum": 1145,
+            "content": "स्थवि¦ <i>sthavi, sthavira,</i> &c. See p. 1146."
+        },
+        {
+            "word": "स्थवि",
+            "eid": "53164",
+            "pagenum": 1146,
+            "content": "<i>Sthavi, is,</i>¦ m. a weaver; heaven <i>(= svarga); =</i> <i>jaṅgama</i> (according to Śabda-k.)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्थवि",
+            "eid": "130864",
+            "pagenum": 7,
+            "content": "*स्थवि¦ <div n='1'>— 1〉 <lex>Adj.</lex> = जङ्गम (!). <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Weber</i>. <div n='2'>— b〉 = स्वर."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्थवि",
+            "eid": "113922",
+            "pagenum": 7,
+            "content": "स्थ/वि¦ <ls>UṆĀDIS. 4, 56.</ls> m. <i>Weber</i> <ls>UJJVAL.</ls> = जङ्गम und स्वर <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls>"
+        }
     ]
 }

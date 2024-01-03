@@ -60,5 +60,65 @@
             "pagenum": 9,
             "content": "atala¦ <i>n.</i> A particular hell."
         }
+    ],
+    "MD": [
+        {
+            "word": "अतल",
+            "eid": "573",
+            "pagenum": 6,
+            "content": "अतल¦ a-tala, <lex>n.</lex> <ab>N.</ab> <i>of a hell</i> (bottomless)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अतल",
+            "eid": "2540",
+            "pagenum": 12,
+            "content": "अ-तल ¦ <lex>n.</lex> bottomless<info lex='n'/>"
+        },
+        {
+            "word": "अतल",
+            "eid": "2541",
+            "pagenum": 12,
+            "content": "¦ <ab>N.</ab> of a hell beneath the earth<info lex='inh'/>"
+        },
+        {
+            "word": "अतल",
+            "eid": "2542",
+            "pagenum": 12,
+            "content": "अ-तल ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अतल",
+            "eid": "617",
+            "pagenum": 12,
+            "content": "अतल¦ <i>a-tala, am,</i> n. bottomless; N. of a hell beneath the earth; (<i>as</i>), m. Śiva. <i>—Atala-</i> <i>sparśa, as, ā, am,</i> or <i>atala-spṛś, k, k, k,</i> touching the <i>atala;</i> bottomless; (or it may be <i>a-tala-sparśa,</i> whose bottom cannot be touched or reached.)"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "अतल",
+            "eid": "276",
+            "pagenum": 1,
+            "content": "<i>Atala</i>¦<sup>1</sup> — a thigh of the cosmic Puruṣa; is dependent on the loins of the Puruṣa.<sup>2</sup> An underworld, ruled by Bala, son of Maya.<sup>3</sup> The fourth world of pink <i>(pīta)</i> soil and residence of daityas like Kālanemi.<sup>4</sup> <F>1) Bhā. II. 1. 27.</F> <F>2) Ib. II. 5. 40.</F> <F>3) Ib. V. 24. 7 & 16.</F> <F>4) Br. II. 20. 12, 14, 32-34.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अतल",
+            "eid": "1614",
+            "pagenum": 1,
+            "content": "अतल¦ <lex>n.</lex> Name einer Hölle <ls n='Chr.'>268,4</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अतल",
+            "eid": "1207",
+            "pagenum": 1,
+            "content": "अतल¦ (3. अ + तल) <div n='1'> 1) <lex>adj.</lex> <i>bodenlos.</i> <div n='1'>— 2) <lex>m.</lex> ein Beiname <is>Śiva's</is> <ls>H. ś. 46.</ls> <div n='1'>— 3) <lex>n.</lex> N. einer Hölle <ls>ĀRUṆ. UP.</ls> in <ls>Ind. St. II, 178, N. 3.</ls> <ls>VEDĀNTAS. 12, 1.</ls> <ls>VP. 204.</ls>"
+        }
     ]
 }

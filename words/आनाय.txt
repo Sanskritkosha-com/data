@@ -60,5 +60,57 @@
             "pagenum": 101,
             "content": "AnAya¦ <i>m.</i> A net."
         }
+    ],
+    "MD": [
+        {
+            "word": "आनाय",
+            "eid": "3618",
+            "pagenum": 39,
+            "content": "आनाय¦ ā-nāya, <lex>m.</lex> [attracter], net."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आनाय",
+            "eid": "24531",
+            "pagenum": 140,
+            "content": "आ-नाय ¦ <lex>m.</lex> a fisherman's net, <ls>Pāṇ.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आनाय",
+            "eid": "24531.1",
+            "pagenum": 1319,
+            "content": "¦ investiture (= उपनय), <ls>L.</ls><info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आनाय",
+            "eid": "8591",
+            "pagenum": 121,
+            "content": "1. <i>ā-nāya, as,</i>¦ m. a net."
+        },
+        {
+            "word": "आनाय",
+            "eid": "8592",
+            "pagenum": 121,
+            "content": "2. <i>ā-nāya,</i>¦ nom. A. <i>ānāyate, -yitum,</i> to form or represent a net."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आनाय",
+            "eid": "14716",
+            "pagenum": 1,
+            "content": "आनाय¦ <lex>m.</lex> <i>Netz, Fischernetz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आनाय",
+            "eid": "8609",
+            "pagenum": 1,
+            "content": "आनाय¦ (von नी mit आ) <lex>m.</lex> <i>Netz, Fischernetz</i> <ls>P. 3, 3, 124.</ls> <ls>AK. 1, 2, 3, 16.</ls> <ls n='AK.'>3, 4, 202.</ls> <ls>H. 929.</ls>"
+        }
     ]
 }

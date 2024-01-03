@@ -23,5 +23,43 @@
             "pagenum": 109,
             "content": "AviDa¦ <i>m.</i> An awl, a drill."
         }
+    ],
+    "MW": [
+        {
+            "word": "आविध",
+            "eid": "27330",
+            "pagenum": 156,
+            "content": "आ-विध ¦ <lex>m.</lex> an awl, a drill<info lex='m'/>"
+        },
+        {
+            "word": "आविध",
+            "eid": "27331",
+            "pagenum": 156,
+            "content": "¦ a kind of gimlet worked by a string, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आविध",
+            "eid": "9450",
+            "pagenum": 132,
+            "content": "<i>Ā-vidha, as,</i>¦ m. an awl, a drill, a kind of gimlet worked by a string."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आविध",
+            "eid": "15994",
+            "pagenum": 1,
+            "content": "*आविध¦ <lex>m.</lex> <i>eine Art Bohrer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आविध",
+            "eid": "9490",
+            "pagenum": 1,
+            "content": "आविध¦ (von व्यध् mit आ) <lex>m.</lex> <ls>P. 3, 3, 58</ls>, <is>Vārtt</is>. 4. <i>eine Art Bohrer</i> <ls>AK. 3, 3, 36.</ls>"
+        }
     ]
 }

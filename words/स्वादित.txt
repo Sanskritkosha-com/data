@@ -7,5 +7,33 @@
             "pagenum": 1162,
             "content": "स्वादित¦ <i><ab>p. p.</ab></i> <b>1</b> Tasted, relished. <b>--2</b> Sweetened. <b>--3</b> Pleased."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्वादित",
+            "eid": "258801",
+            "pagenum": 1279,
+            "content": "स्वादित ¦ <lex>mfn.</lex> tasted, relished, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्वादित",
+            "eid": "258802",
+            "pagenum": 1279,
+            "content": "¦ sweetened, <ls>MW.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "स्वादित",
+            "eid": "258803",
+            "pagenum": 1279,
+            "content": "¦ pleased, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्वादित",
+            "eid": "53681",
+            "pagenum": 1159,
+            "content": "<i>Svādita, as, ā, am,</i>¦ tasted, relished, liked, enjoyed; sweetened; pleased."
+        }
     ]
 }

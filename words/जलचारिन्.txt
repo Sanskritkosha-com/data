@@ -23,5 +23,35 @@
             "pagenum": 286,
             "content": "jala-cArin¦ <i>m.</i> 1. an aquatic animal; 2. fish."
         }
+    ],
+    "MW": [
+        {
+            "word": "जलचारिन्",
+            "eid": "77831",
+            "pagenum": 414,
+            "content": "जल—चारिन् ¦ <lex>mfn.</lex> living in or near water<info lex='m:f:n'/>"
+        },
+        {
+            "word": "जलचारिन्",
+            "eid": "77831.1",
+            "pagenum": 414,
+            "content": "जल—चारिन् ¦ <lex>m.</lex> an aquatic animal, fish, <ls>MBh.</ls>; <ls>R. iii f.</ls>; <ls>VarBṛS.</ls>; <ls>BrahmaP.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जलचारिन्",
+            "eid": "42015",
+            "pagenum": 2,
+            "content": "जलचारिन्¦ <lex>Adj.</lex> <i>am oder im Wasser lebend;</i> <lex>m.</lex> <i>ein solches Thier, Fisch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जलचारिन्",
+            "eid": "26883",
+            "pagenum": 3,
+            "content": "जलचारिन्¦ (जल + चा°) <lex>adj.</lex> <i>am</i> oder <i>im Wasser lebend</i>; <lex>m.</lex> <i>ein solches Thier</i> <ls>MBH. 3, 11577.</ls> <ls>HIḌ. 1, 25.</ls> <ls>R. 3, 15, 6.</ls> <ls n='R.'>4, 50, 14</ls> <ls n='R. 4,'>51, 39.</ls> <ls>VARĀH. BṚH. S. 55, 5.</ls> <ls>BRAHMA-P. in LA. 50, 2.</ls> <i>Fisch</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

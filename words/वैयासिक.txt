@@ -23,5 +23,43 @@
             "pagenum": 694,
             "content": "vEyAsika¦ <i>m.</i> A son of Vyāsa."
         }
+    ],
+    "MW": [
+        {
+            "word": "वैयासिक",
+            "eid": "207486",
+            "pagenum": 1024,
+            "content": "वैयासिक ¦ <lex>mf(ई)n.</lex> derived from or composed by <s1 slp1='vyAsa'>Vyāsa</s1> (-मत <lex type='phw'>n.</lex>), <ls>MBh.</ls>; <ls>TBr.</ls>, <ab>Sch.</ab>; <ls>Prab.</ls>; <ls>BhP.</ls><info phwchild='207488.1'/><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "वैयासिक",
+            "eid": "207487",
+            "pagenum": 1024,
+            "content": "वैयासिक ¦ <lex>m.</lex> a son of <ab n='Vyāsa' slp1='vyAsa'>V°</ab>, <ls>A.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वैयासिक",
+            "eid": "45114",
+            "pagenum": 969,
+            "content": "<i>Vaiyāsika, as, ī, am,</i>¦ composed by Vyāsa."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैयासिक",
+            "eid": "107875",
+            "pagenum": 6,
+            "content": "वैयासिक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>von</i> <is>Vyāsa</is> <i>herrührend, von ihm verfasst</i> <ab>u. s. w.</ab> °मत <lex>n.</lex> <ls>Comm. zu TBR. 3,591,8</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैयासिक",
+            "eid": "95902",
+            "pagenum": 6,
+            "content": "वैयासिक¦ <lex>adj.</lex> (f. ई) <i>von</i> <is>Vyāsa</is> <i>herrührend, von ihm verfasst</i> u. s. w.: शमगिरः <ls>Spr. 2828.</ls> सरस्वती <ls>PRAB. 98, 8.</ls> संहिता <ls>MBH. 1, 1.</ls> <ls n='MBH. 1,'>234</ls> und <ls>BHĀG. P.</ls> in den Unterschrr. der <is>Adhyāya</is>."
+        }
     ]
 }

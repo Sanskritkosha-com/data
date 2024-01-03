@@ -60,5 +60,63 @@
             "pagenum": 527,
             "content": "Bitta¦ <i>n.</i> 1. A part, a portion; 2. a fragment; 3. a wall, a partition."
         }
+    ],
+    "MD": [
+        {
+            "word": "भित्त",
+            "eid": "13228",
+            "pagenum": 205,
+            "content": "भित्त¦ bhit-ta, <lex>n.</lex> fragment, section; partition, 🞄wall."
+        }
+    ],
+    "MW": [
+        {
+            "word": "भित्त",
+            "eid": "150726",
+            "pagenum": 756,
+            "content": "भित्त <hom>a</hom> ¦ भित्ति See <pcol>p. 757, col. 1</pcol>."
+        },
+        {
+            "word": "भित्त",
+            "eid": "150728",
+            "pagenum": 757,
+            "content": "भित्त <hom>b</hom> ¦ <lex>n.</lex> a fragment, section, <ls>ŚāṅkhGṛ.</ls><info lex='n'/>"
+        },
+        {
+            "word": "भित्त",
+            "eid": "150729",
+            "pagenum": 757,
+            "content": "¦ = भित्ति, a partition, wall, <ls>Inscr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भित्त",
+            "eid": "35521",
+            "pagenum": 710,
+            "content": "भित्त¦ <i>bhitta, bhitti,</i> &c. See col. 2."
+        },
+        {
+            "word": "भित्त",
+            "eid": "35523",
+            "pagenum": 710,
+            "content": "<i>Bhitta, am,</i>¦ n. a fragment, broken piece, bit; a part, portion; <i>= bhitti,</i> a partition, wall."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भित्त",
+            "eid": "79799",
+            "pagenum": 4,
+            "content": "भित्त¦ <lex>n.</lex> <div n='1'>— 1〉 <i>ein abgebrochenes Stück, Abschnitt</i> <ls>ŚĀṄKH. GṚHY. 1,28</ls>. <div n='1'>— 2〉 <i>Wand</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भित्त",
+            "eid": "54857",
+            "pagenum": 5,
+            "content": "भित्त¦ (von 1. भिद्) <lex>n.</lex> <div n='1'> 1) <i>ein abgebrochenes Stück</i> <ls>P. 8, 2, 59.</ls> <ls>VOP. 26, 101.</ls> <ls>AK. 1, 1, 2, 17.</ls> <ls>H. 1434.</ls> <ls>HALĀY. 4, 28.</ls> st. dessen wohl fehlerhaft भिन्न in अन्तभिन्न <i>Endstück</i> <ls>NAIGH. 22, 57.</ls> <div n='1'>— 2) = भित्ति <i>Wand</i> Inschr. in <ls>Journ. of the Am. Or. S. 7, 10, Śl. 38.</ls>"
+        }
     ]
 }

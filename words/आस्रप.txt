@@ -28,5 +28,43 @@
             "pagenum": 114,
             "content": "Asra-pa¦ <i>m.</i> a demon."
         }
+    ],
+    "MW": [
+        {
+            "word": "आस्रप",
+            "eid": "28244",
+            "pagenum": 162,
+            "content": "आस्रप ¦ <lex>m.</lex> (<ab>fr.</ab> अस्र-प), the nineteenth lunar mansion (presided over by the <s1 slp1='rAkzasa'>Rākṣasa</s1> <s1 slp1='asra-pa'>Asra-pa</s1>), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आस्रप",
+            "eid": "28245",
+            "pagenum": 162,
+            "content": "¦ = अस्र-प (<ab>q.v.</ab>), <ls>T.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आस्रप",
+            "eid": "9732",
+            "pagenum": 136,
+            "content": "आस्रप¦ <i>āsrapa, as,</i> m. (fr. <i>asra-pa</i>), the nineteenth lunar mansion."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आस्रप",
+            "eid": "16498",
+            "pagenum": 1,
+            "content": "*आस्रप¦ <lex>m.</lex> <i>das 19te Mondhaus</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आस्रप",
+            "eid": "9848",
+            "pagenum": 1,
+            "content": "आस्रप¦ (von अस्रप) <lex>m.</lex> <i>die 19te Mondstation</i> <ls>H. 113.</ls>"
+        }
     ]
 }

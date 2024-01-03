@@ -36,5 +36,49 @@
             "pagenum": 625,
             "content": "lAlika¦ <i>m.</i> A buffalo."
         }
+    ],
+    "MW": [
+        {
+            "word": "लालिक",
+            "eid": "181753",
+            "pagenum": 898,
+            "content": "लालिक <hom>a</hom> ¦ <lex>m.</lex> a buffalo (<ab>cf.</ab> लाविका), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "लालिक",
+            "eid": "182278",
+            "pagenum": 900,
+            "content": "लालिक <hom>b</hom> ¦ लालित &c. See <pcol>p. 898, col. 1</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लालिक",
+            "eid": "40230",
+            "pagenum": 863,
+            "content": "<i>Lālika, as,</i>¦ m. a buffalo; [cf. <i>lāvika.</i>]"
+        },
+        {
+            "word": "लालिक",
+            "eid": "40405",
+            "pagenum": 866,
+            "content": "लालिक¦ <i>lālika.</i> See p. 863, col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लालिक",
+            "eid": "96127",
+            "pagenum": 5,
+            "content": "*लालिक¦ <lex>m.</lex> <i>Büffel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लालिक",
+            "eid": "86310",
+            "pagenum": 6,
+            "content": "लालिक¦ <lex>m.</lex> <i>Büffel</i> <ls>H. 1283.</ls> <div n='v'>— Vgl. लाविक ."
+        }
     ]
 }

@@ -15,5 +15,43 @@
             "pagenum": 800,
             "content": "sOvIrya¦ <i>n.</i> Great heroism."
         }
+    ],
+    "MW": [
+        {
+            "word": "सौवीर्य",
+            "eid": "254003",
+            "pagenum": 1255,
+            "content": "सौवीर्य ¦ <lex>m.</lex> a king of the <s1 slp1='sOvIra'>Sauvīra</s1>s, <ls>IndSt.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सौवीर्य",
+            "eid": "254005",
+            "pagenum": 1255,
+            "content": "सौवीर्य ¦ (अम्), <lex>n.</lex> great heroism or fortitude, <ls>MW.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सौवीर्य",
+            "eid": "52933",
+            "pagenum": 1140,
+            "content": "<i>Sauvīrya, am,</i>¦ n. great heroism or fortitude."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सौवीर्य",
+            "eid": "130177",
+            "pagenum": 7,
+            "content": "*सौवीर्य¦ <div n='1'>— 1〉 <lex>m.</lex> <i>ein Fürst der</i> <is>Sauvīra</is>. <div n='1'>— 2〉 <lex>f.</lex> आ <lex>f.</lex> zu 1〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सौवीर्य",
+            "eid": "113379",
+            "pagenum": 7,
+            "content": "सौवीर्य¦ <lex>m.</lex> <i>ein Fürst der</i> <is>Sauvira</is> <ls>Ind. St. 13, 373.</ls> f. आ ebend."
+        }
     ]
 }

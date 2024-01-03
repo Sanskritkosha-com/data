@@ -61,5 +61,61 @@
             "pagenum": 540,
             "content": "<b>túji,</b>¦ <ab>m.</ab>, Eigenname eines Schützlings des Indra. <div n='TS'>-im {467,4} (gṛṇántam). <div n='TS'>-aye {875,4}."
         }
+    ],
+    "MW": [
+        {
+            "word": "तुजि",
+            "eid": "85812",
+            "pagenum": 450,
+            "content": "<hom>1.</hom> तुजि/ ¦ (only <ab>dat.</ab> °ज/ये), propagation, <ls n='RV.'>v, 46, 7</ls>."
+        },
+        {
+            "word": "तुजि",
+            "eid": "85817",
+            "pagenum": 450,
+            "content": "<hom>2.</hom> तु/जि ¦ <ab>N.</ab> of a man protected by <s1 slp1='indra'>Indra</s1>, <ls>RV. vi</ls>, <ls n='RV.'>x.</ls>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तुजि",
+            "eid": "21039",
+            "pagenum": 377,
+            "content": "<i>Tuji, is,</i>¦ f., Ved. propagation, begetting children; (<i>is</i>), m., Ved., N. of a man protected by Indra."
+        },
+        {
+            "word": "तुजि",
+            "eid": "21054",
+            "pagenum": 377,
+            "content": "तुजि¦ <i>tuji.</i> See under 1. <i>tuc,</i> col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तुजि",
+            "eid": "46212",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> तुजि/¦ (nur तुज/ये) <i>Zeugung, Fortpflanzung</i>."
+        },
+        {
+            "word": "तुजि",
+            "eid": "46213",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> तु/जि¦ <lex>m.</lex> <ab>N. pr.</ab> eines Schützlings des <is>Indra</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तुजि",
+            "eid": "29957",
+            "pagenum": 3,
+            "content": "1. तुजि/¦ <lex>f.</lex> <i>das Zeugen, Fortpflanzung</i> <ls>NIR. 12, 45.</ls> प्राव^न्तु नस्तु\\जये\\ वाज^सातये <ls>ṚV. 5, 46, 7.</ls> <div n='v'>— Vgl. 3. तुज् ."
+        },
+        {
+            "word": "तुजि",
+            "eid": "29958",
+            "pagenum": 3,
+            "content": "2. तु/जि¦ <lex>m.</lex> N. pr. eines Schützlings des <is>Indra</is>: त्वं तुजि^ं गृ\\णन्त^मिन्द्र तूतोः <ls>ṚV. 6, 26, 4.</ls> <ls n='ṚV.'>10, 49, 4.</ls>"
+        }
     ]
 }

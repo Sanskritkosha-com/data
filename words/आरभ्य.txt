@@ -31,5 +31,57 @@
             "pagenum": 43,
             "content": "आरभ्य¦ von — an <i>(Abl. o.</i> —°) <i>s.</i> रभ्."
         }
+    ],
+    "MD": [
+        {
+            "word": "आरभ्य",
+            "eid": "3800",
+            "pagenum": 41,
+            "content": "आरभ्य¦ ā-rabh-ya, <ab>gd.</ab> beginning with (<ab>ab.</ab> 🞄<i>or</i> <ab>—°</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आरभ्य",
+            "eid": "26108",
+            "pagenum": 150,
+            "content": "<hom>1.</hom> आ-रभ्य ¦ <lex>mfn.</lex> <ab>ifc.</ab> = आ-रब्धव्य, <ab>q.v.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आरभ्य",
+            "eid": "26109",
+            "pagenum": 150,
+            "content": "<hom>2.</hom> आ-रभ्य ¦ <ab>ind.p.</ab> having begun"
+        },
+        {
+            "word": "आरभ्य",
+            "eid": "26109.1",
+            "pagenum": 150,
+            "content": "¦ beginning with."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आरभ्य",
+            "eid": "9071",
+            "pagenum": 127,
+            "content": "<i>Ā-rabhya,</i>¦ ind. having begun, beginning from."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आरभ्य",
+            "eid": "15446",
+            "pagenum": 1,
+            "content": "आरभ्य¦ <lex>Adj.</lex> = आरब्धव्य in अनारभ्य."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आरभ्य",
+            "eid": "66759",
+            "pagenum": 5,
+            "content": "आरभ्य¦ (von रभ् mit आ) <lex>adj.</lex> <i>zu unternehmen, zu beginnen</i>: अनारभ्या भवन्त्यर्थाः केचिन्नित्यम् <ls>Spr. 3465.</ls>"
+        }
     ]
 }

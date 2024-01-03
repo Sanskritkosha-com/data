@@ -23,5 +23,53 @@
             "pagenum": 661,
             "content": "vicCinna¦ <i>a. (f. न्ना)</i> 1. Broken; 2. severed, separated, divided; 3. ceased, ended, terminated; 4. smeared with unguents, (pp. of छिद् with वि q.v.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "विच्छिन्न",
+            "eid": "194920",
+            "pagenum": 959,
+            "content": "वि/-च्छिन्न ¦ <lex>mfn.</lex> cut or torn or split or cleft or broken asunder &c., <ls>AV.</ls>; <ls>Hariv.</ls>; <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विच्छिन्न",
+            "eid": "194921",
+            "pagenum": 959,
+            "content": "¦ interrupted, disconnected (-ता <lex type='phw'>f.</lex> disconnectedness), incoherent, <ls>GṛS.</ls>; <ls>Kāv.</ls>; <ls>VarBṛS.</ls><info phwchild='194924.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "विच्छिन्न",
+            "eid": "194922",
+            "pagenum": 959,
+            "content": "¦ ended, ceased, no longer existing, <ls>Rājat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विच्छिन्न",
+            "eid": "194923",
+            "pagenum": 959,
+            "content": "¦ crooked, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विच्छिन्न",
+            "eid": "194924",
+            "pagenum": 959,
+            "content": "¦ anointed, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विच्छिन्न",
+            "eid": "42511",
+            "pagenum": 914,
+            "content": "<i>Vi-cchinna, as, ā, am,</i>¦ cut asunder, severed, separated, divided, parted, scattered, distributed, portioned, shared; cut off; broken off, broken, interrupted, prevented, intercepted, ceased, ended, terminated; hidden, absent; variegated, diversified, coloured, anointed, smeared or marked with unguents; crooked, curved. <i>—Vicchinna-dhūma-prasara, as, ā, am,</i> having the free course of the smoke interrupted."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विच्छिन्न",
+            "eid": "91209",
+            "pagenum": 6,
+            "content": "विच्छिन्न¦ s. u. 1. छिद् mit वि . Davon °ता <lex>f.</lex> <i>Auseinandergerissenheit</i>: न चातिरसतो वस्तु दूरं विच्छिन्नतां नयेत् <ls>DAŚAR. 3, 29</ls> (<ls>SĀH. D. 139, 20).</ls>"
+        }
     ]
 }

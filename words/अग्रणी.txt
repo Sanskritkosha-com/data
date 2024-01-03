@@ -60,5 +60,69 @@
             "pagenum": 4,
             "content": "agra-RI¦ <i>m.</i> a leader."
         }
+    ],
+    "MD": [
+        {
+            "word": "अग्रणी",
+            "eid": "299",
+            "pagenum": 3,
+            "content": "अग्रणी¦ agra-ṇī, <lex>a.</lex> (<ab>nm.</ab> <lex>m.</lex> <b>-s,</b> <lex>n.</lex> <b>i</b>) leading; 🞄foremost."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अग्रणी",
+            "eid": "1230",
+            "pagenum": 6,
+            "content": "अग्र—णी ¦ <lex>mfn.</lex> taking the lead, foremost<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अग्रणी",
+            "eid": "1231",
+            "pagenum": 6,
+            "content": "¦ <ab>N.</ab> of an <s1 slp1='agni'>Agni</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्रणी",
+            "eid": "739",
+            "pagenum": 1,
+            "content": "अग्रणी¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<ab>Nom.</ab> °णीस्, <lex>n.</lex> °णि) <i>anführend, der erste, vorzüglichste</i> <ls n='Chr.'>126,18</ls>. <div n='1'>— 2〉 <lex>m.</lex> Name eines <is>Agni</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्रणी",
+            "eid": "533",
+            "pagenum": 1,
+            "content": "अग्रणी¦ (अग्र + नी) <ls>SIDDH. K.</ls> zu <ls>P. 8, 4, 14.</ls> <lex>adj.</lex> <lex>n.</lex> °णि <i>anführend, der erste, vorzüglichste</i> <ls>H. 1439.</ls> <lex>m.</lex> <i>Anführer</i>: अस्माकं यदि न स्यास्त्वमग्रणीः <ls>R. 5, 1, 67.</ls> Declination <ls>VOP. 3, 60.</ls>"
+        },
+        {
+            "word": "अग्रणी",
+            "eid": "62650",
+            "pagenum": 5,
+            "content": "अग्रणी¦ m.: सताम् <ls>Spr. 794.</ls> क्षौणीभुजाम् <ls n='Spr.'>4068.</ls> मन्त्रकृतामृषीणाम् <ls>RAGH. 5, 4.</ls> अङ्गिरसमग्रण्यमुदाहरणवस्तुषु <ls>KUMĀRAS. 6, 65.</ls> f.: सतीनामग्रणाः <ls>Spr. 4487.</ls> <lex>m.</lex> N. eines <is>Agni</is> <ls>MBH. 3, 14198.</ls>"
+        },
+        {
+            "word": "अग्रणी",
+            "eid": "118003",
+            "pagenum": 7,
+            "content": "अग्रणी¦ , चतुर्वर्गे ऽग्रणीर्मोक्षः (so zu lesen) <ls>HEM.</ls> <ls>YOGAŚ. 1, 14.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अग्रणी",
+            "eid": "3299",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> अग्रणी¦ <lex>Adv.</lex> mit कर् <i>voranschicken</i> <ls>VP. 4,20,9</ls>."
+        },
+        {
+            "word": "अग्रणी",
+            "eid": "9757",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> अग्रणी¦ 3."
+        }
     ]
 }

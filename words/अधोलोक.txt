@@ -15,5 +15,29 @@
             "pagenum": 14,
             "content": "aDas-loka¦ <i>m.</i> nether world."
         }
+    ],
+    "MW": [
+        {
+            "word": "अधोलोक",
+            "eid": "4100",
+            "pagenum": 20,
+            "content": "अधो-लोक ¦ <lex>m.</lex> the lower world.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अधोलोक",
+            "eid": "3022",
+            "pagenum": 1,
+            "content": "*अधोलोक¦ <lex>m.</lex> <i>Unterwelt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अधोलोक",
+            "eid": "2084",
+            "pagenum": 1,
+            "content": "अधोलोक¦ (अधस् + लोक) <lex>m.</lex> <i>Unterwelt, der Aufenthaltsort der Schlangen</i>, <ls>AK. 1, 2, 1, 1.</ls>"
+        }
     ]
 }

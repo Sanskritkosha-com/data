@@ -31,5 +31,43 @@
             "pagenum": 523,
             "content": "BAjya¦ <i>n.</i> 1. A portion, a share; 2. an inheritance; 3. the dividend (in math.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "भाज्य",
+            "eid": "149728",
+            "pagenum": 752,
+            "content": "भाज्य ¦ <lex>mfn.</lex> to be shared or distributed &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "भाज्य",
+            "eid": "149729",
+            "pagenum": 752,
+            "content": "¦ (in <ab>arithm.</ab>) to be divided, as <ab>subst.</ab> = a dividend, <ls>Siddhāntaś.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भाज्य",
+            "eid": "35328",
+            "pagenum": 705,
+            "content": "<i>Bhājya, as, ā, am,</i>¦ to be divided, divisible, to be portioned or distributed; (<i>am</i>), n. a portion, share; an inheritance; (in arithmetic) the dividend."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भाज्य",
+            "eid": "79339",
+            "pagenum": 4,
+            "content": "भाज्य¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>zu theilen</i> zu <ls>Spr. 3240</ls>. <div n='1'>— 2〉 <i>zu dividiren;</i> <ab>Subst.</ab> <i>Dividend</i>. <div n='1'>— 3〉 <ls>MBH. 15,201</ls> fehlerhaft für भोज्य."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भाज्य",
+            "eid": "54474",
+            "pagenum": 5,
+            "content": "भाज्य¦ (von भज्) <lex>adj.</lex> <i>zu dividiren, Dividend</i> <ls>COLEBR. Alg. 8.</ls> <ls>SIDDHĀNTAŚIR. 13, 24.</ls> - <ls>MBH. 15, 201</ls> fehlerhaft für भोज्य, wie die <ls>ed. Bomb.</ls> hat."
+        }
     ]
 }

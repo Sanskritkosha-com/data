@@ -23,5 +23,43 @@
             "pagenum": 668,
             "content": "vipARqu¦ <i>a.</i> Pale, pallid, <ls>Kir.</ls>v.6, <ls>Sis.</ls>ix.3."
         }
+    ],
+    "MW": [
+        {
+            "word": "विपाण्डु",
+            "eid": "193253",
+            "pagenum": 951,
+            "content": "वि—पाण्डु ¦ <lex>mfn.</lex> pale, pallid, <ls>Kāv.</ls>; <ls>Suśr.</ls> (-ता <lex type='phw'>f.</lex>)<info phwchild='193254.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विपाण्डु",
+            "eid": "193254",
+            "pagenum": 951,
+            "content": "¦ painted with different yellow colours, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विपाण्डु",
+            "eid": "43258",
+            "pagenum": 928,
+            "content": "विपाण्डु¦ <i>vi-pāṇḍu, us, us, u,</i> pale, pallid (Kirāt. IV. 24), painted with different yellow colours."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विपाण्डु",
+            "eid": "103356",
+            "pagenum": 6,
+            "content": "विपाण्डु¦ <lex>Adj.</lex> <i>weisslich, bleich</i> <ls>KĀD. 2,3,11 (2,6)</ls>. <ls>VIKRAMĀṄKAC. 11,27</ls>. <ls>ŚIŚ. 6,35</ls>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विपाण्डु",
+            "eid": "92234",
+            "pagenum": 6,
+            "content": "विपाण्डु¦ (2. वि + पा°) <lex>adj.</lex> <i>weisslich, bleich</i> <ls>SUŚR. 1, 95, 13.</ls> <ls>ŚIŚ. 9, 3.</ls> <ls>KIR. 5, 6.</ls> <ls>KATHĀS. 87, 31.</ls>"
+        }
     ]
 }

@@ -7,5 +7,47 @@
             "pagenum": 411,
             "content": "para-vAcya¦ <i>n.</i> a fault, a defect."
         }
+    ],
+    "MW": [
+        {
+            "word": "परवाच्य",
+            "eid": "116266",
+            "pagenum": 587,
+            "content": "पर—वाच्य ¦ <lex>mfn.</lex> blamable by others (-ता <lex type='phw'>f.</lex>), <ls>MBh.</ls><info phwchild='116267.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "परवाच्य",
+            "eid": "116267",
+            "pagenum": 587,
+            "content": "पर—वाच्य ¦ <lex>n.</lex> another's fault or defect, <ls>Śiś. xvi, 30.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "परवाच्य",
+            "eid": "63374",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> परवाच्य¦ <lex>n.</lex> <i>der Fehler eines Andern</i>."
+        },
+        {
+            "word": "परवाच्य",
+            "eid": "63375",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> परवाच्य¦ <lex>Adj.</lex> <i>dem Tadel Anderer unterliegend, dem Gerede Anderer ausgesetzt</i> <ab>Nom. abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "परवाच्य",
+            "eid": "42452",
+            "pagenum": 4,
+            "content": "परवाच्य¦ (पर + वा°) <lex>adj.</lex> <i>dem Tadel eines Andern unterliegend, dem Gerede eines Andern ausgesetzt</i>; davon nom. abstr. °ता <lex>f.</lex> <ls>MBH. 6, 4476.</ls>"
+        },
+        {
+            "word": "परवाच्य",
+            "eid": "78073",
+            "pagenum": 5,
+            "content": "परवाच्य¦ <lex>n.</lex> <i>ein Fehler Anderer</i> <ls>Spr. 1825.</ls>"
+        }
     ]
 }

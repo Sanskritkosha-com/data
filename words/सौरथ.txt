@@ -31,5 +31,37 @@
             "pagenum": 800,
             "content": "sOraTa¦ <i>m.</i> A hero."
         }
+    ],
+    "MW": [
+        {
+            "word": "सौरथ",
+            "eid": "253853",
+            "pagenum": 1255,
+            "content": "सौरथ and सौरथेय, ¦ <lex>m.</lex> (said to be <ab>metron.</ab> <ab>fr.</ab> सु-रथा, but <ab>prob.</ab> <ab>w.r.</ab> for सौरभ), <ls>MBh. iii, 13297</ls> and <ls n='MBh. iii,'>13300.</ls><info and='253853,sOraTa;253853.1,sOraTeya'/><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सौरथ",
+            "eid": "52897",
+            "pagenum": 1140,
+            "content": "सौरथ¦ <i>sauratha, as,</i> m. (fr. <i>su-ratha</i>), a hero."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सौरथ",
+            "eid": "130077",
+            "pagenum": 7,
+            "content": "सौरथ und सौरथेय¦ <lex>m.</lex> <ls>MBH. 3,197,28. 25</ls> angeblich <ab>Metron.</ab> von सुरथा. Wohl fehlerhaft für सौरभ und सौरभेय <i>Stier</i>. *सौरथी <lex>f.</lex> <ab>Patron.</ab> von सुरथ."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सौरथ",
+            "eid": "113287",
+            "pagenum": 7,
+            "content": "सौरथ¦ <ls>MBH. 3, 13300</ls> und सौरथेय (nach <ls>NĪLAK.</ls> metron. von सुरथा) <ls n='MBH. 3,'>13297</ls> wohl fehlerhaft für सौरभ und सौरभेय <i>Stier.</i>"
+        }
     ]
 }

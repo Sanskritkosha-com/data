@@ -52,5 +52,75 @@
             "pagenum": 190,
             "content": "kiri¦ <i>m.</i> 1. A hog; 2. a cloud."
         }
+    ],
+    "MW": [
+        {
+            "word": "किरि",
+            "eid": "50513",
+            "pagenum": 283,
+            "content": "किरि <hom>a</hom> ¦ <lex>m.</lex> ‘a pile’, see आखु-किरि/<info lex='m'/>"
+        },
+        {
+            "word": "किरि",
+            "eid": "50514",
+            "pagenum": 283,
+            "content": "¦ a hog (= किटि), <ls>Uṇ. iv, 144</ls><info lex='inh'/>"
+        },
+        {
+            "word": "किरि",
+            "eid": "50515",
+            "pagenum": 283,
+            "content": "¦ <bot>Batatas edulis</bot>, <ls>Npr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "किरि",
+            "eid": "50516",
+            "pagenum": 283,
+            "content": "¦ for गिरि, <ab>q.v.</ab><info lex='inh'/>"
+        },
+        {
+            "word": "किरि",
+            "eid": "50545",
+            "pagenum": 284,
+            "content": "किरि <hom>b</hom> ¦ किरिक/ See किर्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "किरि",
+            "eid": "14782",
+            "pagenum": 230,
+            "content": "<i>Kiri, is,</i>¦ m. a hog, <i>= kiṭi.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "किरि",
+            "eid": "27942",
+            "pagenum": 2,
+            "content": "किरि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>aufgeschütteter Haufe in</i> आखुकिरि/. <div n='1'>— 2〉 *<i>Wildschwein</i>. <div n='1'>— 3〉 *<i><bot>Batatas edulis</bot></i> <ls>NIGH. PR.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "किरि",
+            "eid": "17274",
+            "pagenum": 2,
+            "content": "किरि/¦ von 3. कर् <ls>P. 3, 3, 108</ls>, <is>Vārtt</is>. 8, <ls>Sch.</ls> — <lex>m.</lex> = किटि <i>ein wildes Schwein</i> <ls>Uṇ. 4, 144.</ls> <ls>BHAR.</ls> zu <ls>AK. 2, 5, 2.</ls> <ls>ŚKDR.</ls> <ls>H. 1287.</ls> <div n='v'>— Vgl. किर्याणी ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "किरि",
+            "eid": "3012",
+            "pagenum": 2,
+            "content": "किरि¦ 4〉 *= गिरि 1〉d〉 <ab>v. l.</ab> in der <ls>KĀŚ.</ls> zu <ls>P. 6,2,2</ls>."
+        },
+        {
+            "word": "किरि",
+            "eid": "16116",
+            "pagenum": 7,
+            "content": "किरि¦ II. 2."
+        }
     ]
 }

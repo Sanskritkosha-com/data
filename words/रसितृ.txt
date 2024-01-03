@@ -13,5 +13,33 @@
             "pagenum": 445,
             "content": "2 रसितृ¦ <lex>m.</lex> taster."
         }
+    ],
+    "MW": [
+        {
+            "word": "रसितृ",
+            "eid": "175484",
+            "pagenum": 869,
+            "content": "<hom>1.</hom> रसितृ ¦ <lex>mfn.</lex> (for <hom>2.</hom> See <pcol>p. 871, col. 1</pcol>) one who roars or bellows, <ls>Sāh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "रसितृ",
+            "eid": "175912",
+            "pagenum": 871,
+            "content": "<hom>2.</hom> रसितृ ¦ <lex>mfn.</lex> (for <hom>1.</hom> See <pcol>p. 869, col. 2</pcol>) = रसयितृ, a taster, <ls>MBh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रसितृ",
+            "eid": "39236",
+            "pagenum": 835,
+            "content": "1. <i>rasitṛ, tā, trī, tṛ,</i>¦ one who roars or bellows."
+        },
+        {
+            "word": "रसितृ",
+            "eid": "39255",
+            "pagenum": 836,
+            "content": "2. <i>rasitṛ, tā, trī, tṛ, = rasayitṛ,</i>¦ a taster."
+        }
     ]
 }

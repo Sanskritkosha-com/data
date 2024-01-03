@@ -15,5 +15,27 @@
             "pagenum": 70,
             "content": "alpa-alpa¦ <i>a.</i> very little, very small."
         }
+    ],
+    "MW": [
+        {
+            "word": "अल्पाल्प",
+            "eid": "16915",
+            "pagenum": 96,
+            "content": "alpA<srs/>lpa ¦ <lex>mfn.</lex> very little, <ls>Mn. vii, 129</ls>; <ls>Megh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अल्पाल्प",
+            "eid": "16915.1",
+            "pagenum": 1316,
+            "content": "¦ very little, <ls>Śak.</ls><info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अल्पाल्प",
+            "eid": "10153",
+            "pagenum": 1,
+            "content": "अल्पाल्प¦ <lex>Adj.</lex> <i>ganz wenig</i>."
+        }
     ]
 }

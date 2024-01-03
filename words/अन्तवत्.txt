@@ -31,5 +31,55 @@
             "pagenum": 28,
             "content": "anta-vat¦ <i>a.</i> perishable, अंतवन्त इमे देहाः."
         }
+    ],
+    "MD": [
+        {
+            "word": "अन्तवत्",
+            "eid": "1780",
+            "pagenum": 18,
+            "content": "अन्तवत्¦ anta-vat, <lex>a.</lex> having an end, finite, 🞄perishable."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अन्तवत्",
+            "eid": "7940",
+            "pagenum": 43,
+            "content": "अ/न्त—वत् ¦ <lex>mfn.</lex> having an end or term, limited, perishable, <ls>AV.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अन्तवत्",
+            "eid": "7940.1",
+            "pagenum": 43,
+            "content": "¦ containing a word which has the meaning of अन्त, <ls>AitBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अन्तवत्",
+            "eid": "7940.2",
+            "pagenum": 43,
+            "content": "अ/न्त—वत् ¦ <lex>ind.</lex> like the end<info lex='ind'/>"
+        },
+        {
+            "word": "अन्तवत्",
+            "eid": "7940.3",
+            "pagenum": 43,
+            "content": "¦ like the final of a word, <ls>Pat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अन्तवत्",
+            "eid": "5389",
+            "pagenum": 1,
+            "content": "अन्तवत्¦ <lex>Adv.</lex> <i>wie ein Auslaut</i>. Davon <ab>Nom. abstr.</ab> अन्तवत्त्व <lex>n.</lex> und अन्तवद्भाव <lex>m.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अन्तवत्",
+            "eid": "118325",
+            "pagenum": 7,
+            "content": "अन्तवत्¦ adv. <i>einem Auslaut gleich</i> ebend. <ls n='PAT. a. a. O.'>1,204,a.</ls> Davon nom. abstr. अन्तवत्त्व <lex>n.</lex> und अन्तवद्भाव <lex>m.</lex> ebend."
+        }
     ]
 }

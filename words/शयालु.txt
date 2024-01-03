@@ -58,5 +58,63 @@
             "pagenum": 710,
             "content": "SayAlu¦ <i>(II) m.</i> 1. A kind of snake; 2. a dog; 3. a jackal."
         }
+    ],
+    "MD": [
+        {
+            "word": "शयालु",
+            "eid": "17551",
+            "pagenum": 308,
+            "content": "शयालु¦ śay-ālu, <lex>a.</lex> sleeping, indulging in 🞄sleep."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शयालु",
+            "eid": "213410",
+            "pagenum": 1056,
+            "content": "शयालु ¦ <lex>mfn.</lex> sleepy, inclined to sleep, sluggish slothful, <ls>Pañcar.</ls>; <ls>Śiś.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शयालु",
+            "eid": "213411",
+            "pagenum": 1056,
+            "content": "शयालु ¦ <lex>m.</lex> a dog, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शयालु",
+            "eid": "213412",
+            "pagenum": 1056,
+            "content": "¦ a jackal, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शयालु",
+            "eid": "213413",
+            "pagenum": 1056,
+            "content": "¦ the boa snake, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शयालु",
+            "eid": "46168",
+            "pagenum": 994,
+            "content": "<i>Śayālu, us, us, u,</i>¦ sleepy, slothful, sluggish; (<i>us</i>), m. the boa snake; a dog; a jackal."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शयालु",
+            "eid": "110479",
+            "pagenum": 6,
+            "content": "शयालु¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>schläfrig, schlafsüchtig, dem Schlafe fröhnend</i> <ls>ŚIŚ. 2,80</ls>. <div n='1'>— 2〉 *<lex>m.</lex> <div n='2'>— a〉 <i>Hund</i> <ls>RĀJAN. 19,12</ls>. <div n='2'>— b〉 <i>Schakal</i>. <div n='2'>— c〉 <i>Boa</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शयालु",
+            "eid": "98013",
+            "pagenum": 7,
+            "content": "शयालु/¦ (von 2. शी oder शय) <div n='1'> 1) <lex>adj.</lex> <i>schläfrig, schlafsüchtig, dem Schlafe fröhnend</i> <ls>P. 3, 2, 158</ls>, <is>Vārtt</is>. <ls>VOP. 26, 148.</ls> <ls>AK. 3, 1, 33.</ls> <ls>TRIK. 3, 3, 408.</ls> <ls>H. 442.</ls> <ls>an. 3, 685.</ls> <ls>MED. l. 135.</ls> <is>Krṣṇa</is> (<is>Viṣṇu</is>) <ls>PAÑCAR. 4, 8, 44.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Hund</i> <ls>TRIK. 2, 10, 6. 3, 3, 408.</ls> <ls>H. an.</ls> <ls>MED.</ls> <div n='2'>— b) <i>Schakal</i> <ls>HĀR. 78.</ls> <div n='2'>— c) <i>Boa</i> <ls>H. an.</ls> <ls>MED.</ls>"
+        }
     ]
 }

@@ -51,5 +51,69 @@
             "pagenum": 1754,
             "content": "<b>ābhū́:</b>¦<info vn='add 138 gra'/> <div n='TS'>-úvas [<ab>N.</ab> <ab>p.</ab> <ab>m.</ab>] 1〉 sutéṣu {777,27}."
         }
+    ],
+    "MD": [
+        {
+            "word": "आभू",
+            "eid": "3706",
+            "pagenum": 40,
+            "content": "आभू¦ ā-bhū́, <lex>a.</lex> present, at hand, helping; 🞄<lex>m.</lex> assistant."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आभू",
+            "eid": "25344",
+            "pagenum": 145,
+            "content": "<hom>1.</hom> आ-√ भू ¦ -भ/वति (<ab>Impf.</ab> 2. <ab>sg.</ab> A/<srs/>-Bavas; <ab>pf.</ab> आ/-बभूव, &c.) <div n='to'/>to be present or near at hand; <div n='to'/>to assist; <div n='to'/>to exist, be, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <div n='to'/>to continue one's existence, <ls>MBh.</ls>; <div n='to'/>to originate, be produced, begin to exist, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls><info verb='pre' cp='' parse='A+BU'/>"
+        },
+        {
+            "word": "आभू",
+            "eid": "25345",
+            "pagenum": 145,
+            "content": "<hom>2.</hom> आ-भू/ ¦ <lex>mfn.</lex> present, being near at hand, assisting, helping, <ls>RV.</ls><info n='rev' pc='1319,3'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आभू",
+            "eid": "25346",
+            "pagenum": 145,
+            "content": "¦ approaching, turning one's self towards (as a worshipper towards the deity), <ls>RV. i, 51, 9</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आभू",
+            "eid": "25347",
+            "pagenum": 145,
+            "content": "आ-भू/ ¦ (ऊस्), <lex>m.</lex> a helper, assistant.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आभू",
+            "eid": "8860",
+            "pagenum": 125,
+            "content": "आभू 1¦. <i>ā-bhū,</i> cl. 1. P. <i>-bhavati, -vitum,</i> to be present, continue one's existence."
+        },
+        {
+            "word": "आभू",
+            "eid": "8861",
+            "pagenum": 125,
+            "content": "2. <i>ā-bhū, ūs, ūs, u,</i>¦ Ved. strong, sufficient, efficacious; (Sāy.) approaching (as a praiser); a prison, a place of confinement; applied according to rule (as a hymn); very prosperous."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आभू",
+            "eid": "15105",
+            "pagenum": 1,
+            "content": "आभू/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>gegenwärtig, zur Hand seiend, hülfreich, dienstfertig</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Gehülfe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आभू",
+            "eid": "8886",
+            "pagenum": 1,
+            "content": "आभू/¦ (von भू mit आ) <lex>adj.</lex> <i>tüchtig, nachhaltig, wirksam</i>: आ\\भूभि\\रिन्द्र^ः श्न\\थय\\न्नना^भुवः <ls>ṚV. 1, 51, 9.</ls> दु\\ध्र आ\\भूषु^ <ls n='ṚV. 1,'>56, 3.</ls> गिर\\ः सम^ञ्जे वि\\दथे^ष्वा\\भुव^ः <ls n='ṚV.'>64, 1, 6.</ls> र\\यिं द^दात्या\\भुव^म् <ls n='ṚV. 64,'>133, 7.</ls> दक्ष^मा\\भुव^म् <ls n='ṚV. 64,'>151, 4.</ls> आ\\भूभि^रिन्द्र तु\\र्वणि^ः <ls n='ṚV.'>5, 35, 3.</ls> <div n='v'>— Vgl. आभूति, अनाभू, स्वाभू ."
+        }
     ]
 }

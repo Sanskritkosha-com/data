@@ -39,5 +39,89 @@
             "pagenum": 556,
             "content": "maruta¦ <i>m.</i> 1. Wind; 2. a god."
         }
+    ],
+    "MD": [
+        {
+            "word": "मरुत",
+            "eid": "13794",
+            "pagenum": 219,
+            "content": "मरुत¦ marut-a, <lex>m.</lex> wind."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मरुत",
+            "eid": "158340",
+            "pagenum": 790,
+            "content": "मरुत ¦ <lex>m.</lex> wind, <ls>Śak.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मरुत",
+            "eid": "158341",
+            "pagenum": 790,
+            "content": "¦ a god, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मरुत",
+            "eid": "158342",
+            "pagenum": 790,
+            "content": "¦ <bot>Bignonia Suaveolens</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मरुत",
+            "eid": "158343",
+            "pagenum": 790,
+            "content": "¦ <ab>N.</ab> of various men, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>VP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मरुत",
+            "eid": "158343.1",
+            "pagenum": 1331,
+            "content": "¦ (<ab>prob.</ab>) the god of war, <ls>MānGṛ. ii, 15, 6</ls>.<info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मरुत",
+            "eid": "36539",
+            "pagenum": 749,
+            "content": "<i>Maruta, as,</i>¦ m. wind; a god, deity; Bignonia Suaveolens (<i>= ghaṇṭā-pāṭali</i>); N. of a man (<i>=</i> <i>marutta</i>); of a son of Śīghra."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "मरुत",
+            "eid": "10239",
+            "pagenum": 2,
+            "content": "<i>Maruta</i> (I)¦ — a son of Karandhama; he had no son and regarded Duṣyanta of Puru's family as his son. <div n='P'/>Bhā. IX. 23. 17."
+        },
+        {
+            "word": "मरुत",
+            "eid": "10240",
+            "pagenum": 2,
+            "content": "<i>Maruta</i> (II)¦ — born of Marutvatī. <div n='P'/>Br. I. 1. 112; 2. 41; Vā. 10. 71; 66. 33."
+        },
+        {
+            "word": "मरुत",
+            "eid": "10241",
+            "pagenum": 2,
+            "content": "<i>Maruta</i> (III)¦ — Mitrajyoti was his daughter. <div n='P'/>Br. III. 68. 1, 4."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मरुत",
+            "eid": "83571",
+            "pagenum": 5,
+            "content": "मरुत¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Wind</i>. <div n='1'>— 2〉 *<i>ein Gott</i>. <div n='1'>— 3〉 *<i><bot>Bignonia suaveolens</bot></i>. <div n='1'>— 4〉 <ab>N. pr.</ab> verschiedener Männer."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मरुत",
+            "eid": "57838",
+            "pagenum": 5,
+            "content": "मरुत¦ <lex>m.</lex> <div n='1'> 1) <i>Wind</i> <ls>VYĀḌI</ls> bei <ls>BHAR.</ls> zu <ls>AK. 1, 1, 1, 58.</ls> <ls>ŚKDR.</ls> <ls>VIKRAMĀDITYAKOŚA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 96.</ls> दाक्षिणात्य° <ls>KAVIRĀJA</ls> ebend. मुख° <ls>ŚĀK. CH. 63, 7</ls> (wohl fehlerhaft für मारुत) . <div n='1'>— 2) <i>ein Gott</i> <ls>VYĀḌI a. a. O.</ls> <div n='1'>— 3) <i>Bignonia suaveolens Roxb.</i> (घण्टापाटलि) <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>  <div n='1'>— 4) N. pr. = मरुत्त <ls>MBH. 5, 2946</ls> (hier viell. pl. <i>die</i> <is>Marut</is>). ein Sohn <is>Karaṃdhama's</is> <ls n='MBH.'>12, 8602.</ls> <is>Śineyu's</is> <ls>HARIV. 1975</ls> (<ls>ed. Calc.</ls> मरुत्त) . <is>Śīghra's</is> <ls>VP. 387,</ls> <ls>N. 28</ls> (मरु andere Autt.)."
+        }
     ]
 }

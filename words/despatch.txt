@@ -21,5 +21,19 @@
             "pagenum": 191,
             "content": "<b>DESPATCH</b>¦ (subs.): <div n='I'>I The act of sending:</div> <div n='1'>(1) प्रेरणम्; </div><div n='1'>(2) प्रेषणम्। </div><div n='I'>II Dismissal: विसर्जनम्। [Page192]</div> <div n='I'>III Hasty execution: q. v.: <div n='xe'><i>with d.:</i></div> <div n='xs'>त्वरितम्</div> <div n='xe'><i>or</i></div> <div n='xs'>क्षिप्रम्।</div> </div><div n='I'>IV A message: </div><div n='1'>(1) पत्रम् (=letter);</div> <div n='1'>(2) सन्देशः। <div n='xe'><i>D. -box:</i></div> <div n='xs'>सन्देशपे टिका</div> (?).</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "despatch",
+            "eid": "7663",
+            "pagenum": 175,
+            "content": "<i>To</i> DESPATCH¦, <i>v. a.</i> (Send away hastily) सत्वरं प्रस्था in caus. (-स्थापयति -यितुं) or प्रेर् (c. 10. -ईरयति -यितुं) or प्रेष् in caus. (प्रेषयति -यितुं, rt. इष्), सम्प्रेष्, परिप्रेष्, or प्रहि (c. 5. -हिणोति -हेतुं) or प्रया in caus. (-यापयति -यितुं) or चुद् (c. 10. चोदयति -यितुं), or प्रणुद् (c. 6. -णुदति -णोत्तुं). — (Hasten, perform quickly) त्वर् in caus. (त्वरयति -यितुं), सन्त्वर्; त्वरितं कृ or सम्पद् in caus. (-पादयति -यितुं) or प्रवृत् in caus. (-वर्त्तयति -यितुं). — (Kill) व्यापद् in caus. (-पादयति -यितुं), लोकान्तरं प्राप् in caus. (-आप- यति -यितुं) or प्रेर्."
+        },
+        {
+            "word": "despatch",
+            "eid": "7664",
+            "pagenum": 175,
+            "content": "DESPATCH¦, <i>s.</i> (Hasty execution) क्षिप्रकारित्वं, शीघ्रनिर्वाहः, त्वरा, तूर्णिः <i>f.,</i> आवेगः, अदीर्घसूत्रता. — (Official message) वाचिकं, वाचिकपत्रं, राजकीयपत्रं, राजलेखः -लेख्यं. — (Hasty messenger) धावकः, वेगी <i>m.</i> (न्), प्रजवी <i>m.</i> (न्), लेखहारी <i>m.</i> (न्), वार्त्ताहरः, दूतः."
+        }
     ]
 }

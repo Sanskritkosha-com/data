@@ -7,5 +7,41 @@
             "pagenum": 497,
             "content": "विधियोग¦ <lex>m.</lex> observance of a rule; disposition of Fate."
         }
+    ],
+    "MW": [
+        {
+            "word": "विधियोग",
+            "eid": "196600",
+            "pagenum": 968,
+            "content": "विधि—योग ¦ <lex>m.</lex> the observance of a rule, <ls>Mn. viii, 211</ls><info lex='m'/>"
+        },
+        {
+            "word": "विधियोग",
+            "eid": "196601",
+            "pagenum": 968,
+            "content": "¦ dispensation of fate (= °गात् <lex type='phw'>ind.</lex> or -तस् <lex type='phw'>ind.</lex> according to the ruling of fate), <ls>Hit.</ls>; <ls>Kathās.</ls><info phwchild='196602.1'/><info phwchild='196602.2'/><info lex='inh'/>"
+        },
+        {
+            "word": "विधियोग",
+            "eid": "196602",
+            "pagenum": 968,
+            "content": "¦ combining for any act or rite, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विधियोग",
+            "eid": "102941",
+            "pagenum": 6,
+            "content": "विधियोग¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Beobachtung einer Vorschrift</i>. <div n='1'>— 2〉 <i>Fügung des Schicksals</i>. °योगात् und °योगतस् (so <ls>KATHĀS. 26,264</ls> zu lesen). <i>nach der <ab n='Fügung des Schicksals'>F. des Sch.</ab></i>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विधियोग",
+            "eid": "91901",
+            "pagenum": 6,
+            "content": "विधियोग¦ <lex>m.</lex> <div n='1'> 1) <i>Beobachtung einer Vorschrift, - Regel</i>: अनेन °योगेन <ls>M. 8, 211.</ls> <div n='1'>— 2) <i>Fügung des Schicksals</i>: °योगात् <ls>Spr. 3227.</ls> °योगतस् <ls>KATHĀS. 25, 48. 26, 264</ls> (°योगजः gedruckt). <ls n='KATHĀS.'>30, 54. 49, 193. 51, 61.</ls>"
+        }
     ]
 }

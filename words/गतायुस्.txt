@@ -23,5 +23,35 @@
             "pagenum": 232,
             "content": "gata-Ayus¦ <i>a.</i> decrepit, very old, near death."
         }
+    ],
+    "MW": [
+        {
+            "word": "गतायुस्",
+            "eid": "63513",
+            "pagenum": 347,
+            "content": "gatA<srs/>yus ¦ <lex>mfn.</lex> one whose vital power has vanished, decayed, very old, <ls>R.</ls>; <ls>Suśr.</ls>; <ls>Hit.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गतायुस्",
+            "eid": "63514",
+            "pagenum": 347,
+            "content": "¦ dead, <ls>R. vi</ls>; <ls>Pañcat. i, 21, 8/9.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गतायुस्",
+            "eid": "34392",
+            "pagenum": 2,
+            "content": "गतायुस्¦ <lex>Adj.</lex> <i>dessen Lebenszeit dahin ist;</i> <div n='1'>— 1〉 <i>dem Tode verfallen, dem Verscheiden nahe</i>. <div n='1'>— 2〉 <i>gestorben, todt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गतायुस्",
+            "eid": "21596",
+            "pagenum": 2,
+            "content": "गतायुस्¦ (गत + आयुस्) <lex>adj.</lex> <i>dessen Lebenskraft dahin ist, dem Tode verfallen, dem Verscheiden nahe</i> <ls>R. 3, 23, 43.</ls> <ls n='R.'>6, 1, 10.</ls> <ls>SUŚR. 1, 112, 19. 115, 2. 8. 119, 4.</ls> <ls>HIT. I, 69.</ls> <i>entseelt, todt</i> <ls>R. 6, 82, 36.</ls> <ls>PAÑCAT. 101, 23.</ls>"
+        }
     ]
 }

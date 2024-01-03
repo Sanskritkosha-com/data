@@ -7,5 +7,49 @@
             "pagenum": 512,
             "content": "brahman-vAdin¦ <i>m.</i> 1. an expounder of the Vedas; 2. a follower of the Vedānta system of philosophy."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्मवादिन्",
+            "eid": "147007",
+            "pagenum": 739,
+            "content": "ब्रह्म—वादि/न् ¦ <lex>mfn.</lex> discoursing on sacred texts, a defender or expounder of the <s1 slp1='veda'>Veda</s1>, <ls>AV.</ls> &c. &c. (<lex type='hwinfo'>इनी f.</lex>, <ls>Var.</ls> <pb n='740,1'/>; °दि-त्व <lex type='phw'>n.</lex>, <ls>MBh.</ls>)<info phwchild='147008.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ब्रह्मवादिन्",
+            "eid": "147008",
+            "pagenum": 740,
+            "content": "¦ one who asserts that all things are to be identified with <s1 slp1='brahma'>Brahmă</s1>, a <s1 slp1='vedAntin'>Vedāntin</s1>, <ls>Śaṃk.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "ब्रह्मवादिन्",
+            "eid": "9276",
+            "pagenum": 2,
+            "content": "<i>Brahmavādin</i>¦ — He who realises the one God in the Trinity. <div n='P'/>Vā. 66. 114; 101. 112."
+        },
+        {
+            "word": "ब्रह्मवादिन्",
+            "eid": "9277",
+            "pagenum": 2,
+            "content": "<i>Brahmavādins</i>¦ — born of five gotras, Kaśyapa, Vasiṣṭha, Bṛgu, Angiras and Atri. <div n='P'/>Vā. 61. 81."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्मवादिन्",
+            "eid": "78053",
+            "pagenum": 4,
+            "content": "ब्रह्मवादि/न्¦ <lex>Adj.</lex> <i>das Heilige besprechend, Religionskundiger, Theolog, ein</i> <is>Vedāntin</is> <ls>ŚAṂK. zu BĀDAR. 2,1,29</ls>. <lex>f.</lex> °नी <ls>VARĀH. BṚH. 24 (22),15</ls>. <ab>Nom. abstr.</ab> °वादित्व <lex>n.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्मवादिन्",
+            "eid": "53497",
+            "pagenum": 5,
+            "content": "ब्रह्मवादि/न्¦ (1. ब्रह्मन् + वा°) <lex>adj.</lex> <ls>P. 3, 2, 78</ls>, <is>Vārtt</is>. 2. <i>das Heilige besprechend; Religionskundiger, Theolog</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>AV. 11, 3, 26.</ls> <ls n='AV.'>15, 1, 8.</ls> <ls>TS. 1,7,1,4. 2,6,2,2. 3,1. 5,2,7,1. 5,3,2. 6,1,4,5.</ls> <ls>TBR. 1,3, 10,6.</ls> <ls>TAITT. ĀR. 1,22,9. 5,2,2. 4,6.</ls> <ls>PAÑCAV. BR. 4,3,13. 6,4,15.</ls> <ls>CHĀND. UP. 2,24,1.</ls> <ls>ŚVETĀŚV. UP. 1,1.</ls> <ls>M. 2,113. 4,91. 199. 6,39. 11,42. 120.</ls> <ls>BHAG. 17,24.</ls> <ls>MBH. 5, 7046.</ls> <ls n='MBH. 5,'>7289.</ls> <ls>HARIV. 11885.</ls> <ls>R. 1, 25, 15.</ls> <ls n='R. 1,'>59, 9.</ls> <ls n='R. 1, 59,'>10.</ls> <ls>VP.</ls> bei <ls>MUIR, ST. 4,3.</ls> <ls>VĀYU-P. ebend. 1,153.</ls> <ls>Verz. d. Oxf. H. 56,b,21.</ls> <ls>BHĀG. P. 3,13,45. 6,2,11. 9,1,17.</ls> <ls>MĀRK. P. 21,2.</ls> fem. <ls>ŚAT. BR. 14,7,3,1.</ls> <ls>MBH. 4, 2.</ls> <ls>MĀRK. P. 52,31.</ls> आड्ङ्गिरसी <ls>Ind. St. 3,226,b.</ls> Davon nom. abstr. °वादित्व <lex>n.</lex> <ls>MBH. 13, 1997.</ls>"
+        }
     ]
 }

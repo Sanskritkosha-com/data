@@ -7,5 +7,19 @@
             "pagenum": 318,
             "content": "<b>GOING</b>¦ (subs.): <div n='1'>(1) गमनम्, <div n='xe'><i>g. back:</i></div> <div n='xs'>प्रतिगमनम्;</div> <i>g. out:</i> निर्गमः-नम्; <div n='xe'><i>g. round:</i></div> <div n='xs'>परि-गमनम्;</div> <div n='xe'><i>g. up to:</i></div> <div n='xs'>अभिगमनम्;</div></div> <div n='1'>(2) यानम्, <div n='xe'><i>g. forth:</i></div> <div n='xs'>निर्याणम्;</div> <div n='xe'><i>g. away:</i></div> <div n='xs'>अपयानम्;</div> <div n='xe'><i>g.</i> <i>and coming:</i></div> <div n='xs'>यातायातम्:</div> v. The several verbs.</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "going",
+            "eid": "13003",
+            "pagenum": 313,
+            "content": "GOING¦, <i>part.</i> चरन् -रन्ती -रत् (त्), चलन् -लन्ती -लत् (त्), क्रामन् -मन्ती -मत् (त्), सरन् -रन्ती -रत् (त्), गामी -मिनी -मि (न्), सरः -रा -रं, सरणः -णा -णं, चरः -रा -रं; ‘going in a straight line,’ सरल- यायी -यिनी -यि (न्)."
+        },
+        {
+            "word": "going",
+            "eid": "13004",
+            "pagenum": 313,
+            "content": "GOING¦, <i>s.</i> गमः -मनं, सरणं, चरणं, चारः, चलनं, व्रजनं, गतिः <i>f.,</i> गतं, अयनं, क्रमः -मणं; ‘going away,’ अपगमः, व्यषगमः, अपयानं, अपसरणं, अपायः, प्रस्थानं; ‘going out,’ निष्क्रमः -मणं, निष्क्रान्तिः <i>f.,</i> निर्गमः, निर्याणं, वहिर्गमनं; ‘going and coming,’ गमागमः, गमनागमनं, गतागतं, यातायातं."
+        }
     ]
 }

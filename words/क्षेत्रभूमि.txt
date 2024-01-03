@@ -7,5 +7,29 @@
             "pagenum": 222,
             "content": "kzetra-BUmi¦ <i>f.</i> cultivated land."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षेत्रभूमि",
+            "eid": "60304",
+            "pagenum": 332,
+            "content": "क्षेत्र—भूमि ¦ <lex>f.</lex> cultivated land, <ls>W.</ls><info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षेत्रभूमि",
+            "eid": "32944",
+            "pagenum": 2,
+            "content": "*क्षेत्रभूमि¦ <lex>f.</lex> <i>bebautes Land</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षेत्रभूमि",
+            "eid": "20601",
+            "pagenum": 2,
+            "content": "क्षेत्रभूमि¦ (क्षेत्र + भूमि) <lex>f.</lex> <i>bebautes Land</i> <ls>WILS.</ls>"
+        }
     ]
 }

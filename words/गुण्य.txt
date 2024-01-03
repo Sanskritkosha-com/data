@@ -31,5 +31,83 @@
             "pagenum": 246,
             "content": "guRya¦ <i>a. (f. ण्या)</i> 1. Endowed with virtues; 2. to be enumerated; 3. to be described or praised; 4. to be multiplied."
         }
+    ],
+    "MD": [
+        {
+            "word": "गुण्य",
+            "eid": "7011",
+            "pagenum": 85,
+            "content": "गुण्य¦ guṇ-ya, <ab>fp.</ab> to be multiplied: <b>-tva,</b> <lex>n.</lex> 🞄<ab>abst. ɴ.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गुण्य",
+            "eid": "65818",
+            "pagenum": 358,
+            "content": "गुण्य <hom>a</hom> ¦ <lex>mfn.</lex> endowed with good qualities or virtues, <ls>Pāṇ. v, 2, 120</ls>, <ab>Vārtt.</ab>, <ls>Pat.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गुण्य",
+            "eid": "65819",
+            "pagenum": 358,
+            "content": "¦ to be enumerated, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गुण्य",
+            "eid": "65820",
+            "pagenum": 358,
+            "content": "¦ to be described or praised, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गुण्य",
+            "eid": "65821",
+            "pagenum": 358,
+            "content": "¦ to be multiplied, multiplicand, <ls>Āryabh. ii, 23</ls>, <ab>Sch.</ab> (-त्व <lex type='phw'>n.</lex>)<info phwchild='65821.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "गुण्य",
+            "eid": "65850",
+            "pagenum": 358,
+            "content": "गुण्य <hom>b</hom> ¦ See गुण/."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गुण्य",
+            "eid": "17468",
+            "pagenum": 292,
+            "content": "<i>Guṇya, as, ā, am,</i>¦ endowed with virtues; to be enumerated; to be described, to be praised; to be multiplied, the multiplicand."
+        },
+        {
+            "word": "गुण्य",
+            "eid": "17483",
+            "pagenum": 292,
+            "content": "गुण्य¦ <i>guṇya.</i> See under <i>guṇa</i> last col."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गुण्य",
+            "eid": "35828",
+            "pagenum": 2,
+            "content": "गुण्य¦ <lex>Adj.</lex> <div n='1'>— 1〉 *<i>mit Vorzügen versehen</i>. <div n='1'>— 2〉 <i>zu multipliciren, die zu multiplicirende Zahl</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>Comm. zu ĀRYABH. 2,23</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गुण्य",
+            "eid": "22641",
+            "pagenum": 2,
+            "content": "गुण्य¦ <div n='1'> 1) parox. (von गुण) <lex>adj.</lex> <i>mit Vorzügen versehen</i>: गुण्या ब्राह्मणाः <ls>P. 5, 2, 120</ls>, <is>Vārtt</is>., <ls>Sch.</ls>  <div n='1'>— 2) (von गुणय्) <i>zu multipliciren, die zu multiplicirende Zahl</i> <ls>COLEBR. Alg. 5.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "गुण्य",
+            "eid": "16892",
+            "pagenum": 7,
+            "content": "°गुण्य¦ II. 1〉 <ls>Bijdr. tot de L. T. en Volk. 1885,128</ls>."
+        }
     ]
 }

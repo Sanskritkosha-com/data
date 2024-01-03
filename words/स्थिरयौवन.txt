@@ -29,5 +29,53 @@
             "pagenum": 810,
             "content": "sTira-yOvana¦ <i>(II) m.</i> a kind of good or evil genius, a fairy."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्थिरयौवन",
+            "eid": "255790",
+            "pagenum": 1265,
+            "content": "स्थिर—यौवन ¦ <lex>n.</lex> perpetual youth, <ls>MārkP.</ls><info lex='n'/>"
+        },
+        {
+            "word": "स्थिरयौवन",
+            "eid": "255791",
+            "pagenum": 1265,
+            "content": "स्थिर—यौवन ¦ <lex>mf(आ)n.</lex> possessing <ab n='perpetual'>perp°</ab> <ab n='youth'>y°</ab>, ever youthful, <ls>ib.</ls>; <ls>Hariv.</ls>; <ls>Vikr.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "स्थिरयौवन",
+            "eid": "255792",
+            "pagenum": 1265,
+            "content": "स्थिर—यौवन ¦ <lex>m.</lex> a <s1 slp1='vidyA-Dara'>Vidyā-dhara</s1>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्थिरयौवन",
+            "eid": "131058",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स्थिरयौवन¦ <lex>n.</lex> <i>beständige Jugend</i>."
+        },
+        {
+            "word": "स्थिरयौवन",
+            "eid": "131059",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> स्थिरयौवन¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>von beständiger Jugend, immer jung bleibend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>ein</i> <is>Vidyādhara</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्थिरयौवन",
+            "eid": "114075",
+            "pagenum": 7,
+            "content": "1. स्थिरयौवन¦ <lex>n.</lex> <i>unvergängliche Jugend</i> <ls>MĀRK. P. 60, 3.</ls>"
+        },
+        {
+            "word": "स्थिरयौवन",
+            "eid": "114076",
+            "pagenum": 7,
+            "content": "2. स्थिरयौवन¦ <div n='1'> 1) <lex>adj.</lex> (f. आ) <i>von unvergänglicher Jugend, immer jung bleibend</i> <ls>HARIV. 6977.</ls> <ls>VIKR. 109.</ls> <ls>MĀRK. P. 49, 21. 110, 4. 11.</ls> सु° <ls>PAÑCAR. 1, 10, 26. 89.</ls> <div n='1'>— 2) <lex>m.</lex> <i>ein</i> <is>Vidyādhara</is> <ls>TRIK. 1, 1, 64.</ls>"
+        }
     ]
 }

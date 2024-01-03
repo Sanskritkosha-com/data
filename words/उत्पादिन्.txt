@@ -23,5 +23,49 @@
             "pagenum": 83,
             "content": "उत्पादिन्¦ <lex>a.</lex> bringing forth (—°); produced, born."
         }
+    ],
+    "MW": [
+        {
+            "word": "उत्पादिन्",
+            "eid": "31666",
+            "pagenum": 180,
+            "content": "उत्पादिन् ¦ <lex>mfn.</lex> produced, born, <ls>Hit.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "उत्पादिन्",
+            "eid": "31667",
+            "pagenum": 180,
+            "content": "¦ (<ab>ifc.</ab>) bringing forth, producing, <ls>Yājñ.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उत्पादिन्",
+            "eid": "10559",
+            "pagenum": 151,
+            "content": "<i>Ut-pādin, ī, inī, i,</i>¦ produced, born; (at the end of compounds) bringing forth, producing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उत्पादिन्",
+            "eid": "18433",
+            "pagenum": 1,
+            "content": "उत्पादिन्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>was entsteht —, geboren wird</i>. <div n='1'>— 2〉 am Ende eines <ab>Comp.</ab> <i>hervorbringend, bewirkend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उत्पादिन्",
+            "eid": "11067",
+            "pagenum": 1,
+            "content": "1. उत्पादिन्¦ (von पद् mit उद्) <lex>adj.</lex> <i>was entsteht, geboren wird</i>: सर्वमुत्पादि भङ्गुरम् <ls>HIT. I, 202.</ls>"
+        },
+        {
+            "word": "उत्पादिन्",
+            "eid": "11068",
+            "pagenum": 1,
+            "content": "2. उत्पादिन्¦ (von उत्पाद) <lex>adj.</lex> am Ende eines comp. <i>hervorbringend</i>: दुःखोत्पादिन् <ls>YĀJÑ. 2, 224.</ls>"
+        }
     ]
 }

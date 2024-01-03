@@ -15,5 +15,51 @@
             "pagenum": 101,
             "content": "ख/ल्व¦ <i>m.</i> eine best. Frucht"
         }
+    ],
+    "MD": [
+        {
+            "word": "खल्व",
+            "eid": "6717",
+            "pagenum": 80,
+            "content": "खल्व¦ khál-va, <lex>m.</lex> <i>kind of</i> pulse."
+        }
+    ],
+    "MW": [
+        {
+            "word": "खल्व",
+            "eid": "61683",
+            "pagenum": 338,
+            "content": "ख/ल्व ¦ <lex>m.</lex> a kind of grain or leguminous plant, <ls>AV.</ls>; <ls>VS.</ls>; <ls>ŚBr. xiv</ls>; <ls>Kauś.</ls>; <ls>Gṛhyās.</ls><info lex='m'/>"
+        },
+        {
+            "word": "खल्व",
+            "eid": "61684",
+            "pagenum": 338,
+            "content": "¦ (= खल्ल) a mill or stone for grinding drugs, <ls>Bhpr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खल्व",
+            "eid": "16797",
+            "pagenum": 275,
+            "content": "खल्व¦ <i>khalva, as,</i> m., Ved. a kind of grain or leguminous plant."
+        }
+    ],
+    "PW": [
+        {
+            "word": "खल्व",
+            "eid": "33646",
+            "pagenum": 2,
+            "content": "ख/ल्व¦ <lex>m.</lex> <div n='1'>— 1〉 <i>eine <ab>best.</ab> Körner- oder Hülsenfrucht</i>. <div n='1'>— 2〉 = खल्ल 1〉b〉 <ls>BHĀVAPR.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खल्व",
+            "eid": "21084",
+            "pagenum": 2,
+            "content": "ख/ल्व¦ <lex>m.</lex> <i>eine best. Körner- oder Hülsenfrucht</i>: तया^ पिनप्मि\\ सं कृमी^न्दृ\\षदा\\ खल्वा^ँ इव <ls>AV. 2, 31, 1.</ls> <ls n='AV.'>5, 23, 8.</ls> <ls>VS. 18, 12.</ls> <ls>ŚAT. BR. 14, 9, 3, 22.</ls> <ls>KAUŚ. 27. 82.</ls> <ls>GṚHYASAṂGR. 2, 87.</ls>"
+        }
     ]
 }

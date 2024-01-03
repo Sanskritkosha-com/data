@@ -23,5 +23,57 @@
             "pagenum": 492,
             "content": "prAsTika¦ <i>a. (f. की)</i> 1. Weighing a <i>prastha</i>; 2. bought for a <i>prastha</i>; 3. sown with a <i>prastha</i>."
         }
+    ],
+    "MD": [
+        {
+            "word": "प्रास्थिक",
+            "eid": "12511",
+            "pagenum": 187,
+            "content": "प्रास्थिक¦ prāsth-ika, <lex>a.</lex> holding <i>or</i> weighing 🞄a prastha."
+        }
+    ],
+    "MW": [
+        {
+            "word": "प्रास्थिक",
+            "eid": "139008",
+            "pagenum": 702,
+            "content": "प्रा—स्थिक <hom>a</hom> ¦ <lex>mf(ई)n.</lex> containing or weighing or bought for a <s1 slp1='prasTa'>Prastha</s1>, <ls>KātyŚr.</ls>, <ab>Sch.</ab>; <ls>Suśr.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "प्रास्थिक",
+            "eid": "139009",
+            "pagenum": 702,
+            "content": "प्रा—स्थिक ¦ <lex>n.</lex> (with क्षेत्र) a field sown with a <ab n='Pradhāna' slp1='praDAna'>Pr°</ab> of grain, <ls>Pāṇ. v, 1, 45</ls> (?)<ab>Sch.</ab><info lex='n'/>"
+        },
+        {
+            "word": "प्रास्थिक",
+            "eid": "140420",
+            "pagenum": 709,
+            "content": "प्रास्थिक <hom>b</hom> ¦ See <pcol>p. 702, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रास्थिक",
+            "eid": "33860",
+            "pagenum": 661,
+            "content": "प्रास्थिक¦ <i>prāsthika, as, ī, am</i> (fr. <i>pra-stha</i>), containing a Prastha, weighing a Prastha, bought for a Prastha; (<i>am</i>), n., scil. <i>kṣetram,</i> a field sown with a Prastha of grain."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रास्थिक",
+            "eid": "74683",
+            "pagenum": 4,
+            "content": "प्रास्थिक¦ <lex>Adj.</lex> <i>einen</i> <is>Prastha</is> <i>haltend, — wiegend, *mit einem</i> <is>Prastha</is> <i>Korn besäet</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रास्थिक",
+            "eid": "50989",
+            "pagenum": 4,
+            "content": "प्रा/स्थिक¦ <lex>adj.</lex> <lex>f.</lex> ई <i>einen</i> <is>Prastha</is> <i>haltend —, wägend u.s.w.</i> <ls>Schol.</ls> zu <ls>P. 5, 1, 19.</ls> <ls n='P. 5, 1,'>45</ls> (क्षेत्र <i>mit einem</i> <is>Prastha</is> <i>Korn besäet</i>). <ls n='P. 5, 1,'>52.</ls> <ls n='P. 5, 1,'>57.</ls> <ls>SUŚR. 2. 80, 16.</ls> Schol. zu <ls>KĀTY. ŚR. 61, 11.</ls>"
+        }
     ]
 }

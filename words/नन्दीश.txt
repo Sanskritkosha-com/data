@@ -28,5 +28,63 @@
             "pagenum": 260,
             "content": "नन्दीश¦ <lex>m.</lex>  <ab>E.</ab> of Śiva."
         }
+    ],
+    "MD": [
+        {
+            "word": "नन्दीश",
+            "eid": "10279",
+            "pagenum": 136,
+            "content": "नन्दीश¦ nandi‿īśa, <lex>m.</lex> <i>a form of</i> Śiva; <ab>N.</ab> <i>of 🞄an attendant of Śiva</i>; <b>-īśvara,</b> <lex>m.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "नन्दीश",
+            "eid": "103609",
+            "pagenum": 527,
+            "content": "nandI<srs/>Sa ¦ <lex>m.</lex> (°न्दि or °न्दिन् or °न्दी + ईश?) <ab>N.</ab> of an attendant of <s1 slp1='Siva'>Śiva</s1>, <ls>Rājat.</ls><info lex='m'/>"
+        },
+        {
+            "word": "नन्दीश",
+            "eid": "103610",
+            "pagenum": 527,
+            "content": "¦ of <s1 slp1='Siva'>Śiva</s1> himself, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नन्दीश",
+            "eid": "103611",
+            "pagenum": 527,
+            "content": "¦ (in music) a kind of measure.<info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "नन्दीश",
+            "eid": "6885",
+            "pagenum": 2,
+            "content": "<i>Nandīśa</i>¦ — one of the eighteen authors on architecture. <div n='P'/>M. 252. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नन्दीश",
+            "eid": "56611",
+            "pagenum": 3,
+            "content": "नन्दीश¦ <lex>m.</lex> <div n='1'>— 1〉 <i>eine Form</i> <is>Śiva</is>ʼs. <div n='1'>— 2〉 <ab>N. pr.</ab> eines Wesens im Gefolge <is>Śiva</is>ʼs, Verfassers eines <is>Purāṇa</is>. <div n='1'>— 3〉 <i>ein <ab>best.</ab> Tact</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नन्दीश",
+            "eid": "37619",
+            "pagenum": 4,
+            "content": "नन्दीश¦ (नन्दि oder नन्दिन् + ईश) <lex>m.</lex> <div n='1'> 1) N. pr. eines Wesens im Gefolge des <is>Śiva</is>, = नन्दिन् <ls>H. 210.</ls> dieser oder <i>eine Form des</i> <is>Śiva</is> ist gemeint <ls>RĀJA-TAR. 1, 130.</ls> Auch nach <ls>WILSON</ls> ist das Wort ein N. <is>Śiva's</is>. <div n='1'>— 2) <i>ein best. Tact</i> = नन्दीश्वर <ls>SAṂGĪTAD.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "नन्दीश",
+            "eid": "76800",
+            "pagenum": 5,
+            "content": "नन्दीश¦ <div n='1'> 1) Verfasser eines <is>Purāṇa</is> ebend. <ls n='Verz. d. Oxf. H.'>8,a,7.</ls>"
+        }
     ]
 }

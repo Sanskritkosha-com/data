@@ -7,5 +7,41 @@
             "pagenum": 537,
             "content": "Boja-pati¦ <i>m.</i> an epithet of Kansa."
         }
+    ],
+    "MW": [
+        {
+            "word": "भोजपति",
+            "eid": "153240",
+            "pagenum": 768,
+            "content": "भोज—पति ¦ <lex>m.</lex> the king of the <s1 slp1='Boja'>Bhoja</s1>s, king <s1 slp1='Boja'>Bhoja</s1>, <ls>Ragh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "भोजपति",
+            "eid": "153241",
+            "pagenum": 768,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='kaMsa'>Kaṃsa</s1>, <ls>BhP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भोजपति",
+            "eid": "153242",
+            "pagenum": 768,
+            "content": "¦ = -राज, <ls>Col.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "भोजपति",
+            "eid": "81076",
+            "pagenum": 4,
+            "content": "भोजपति¦ <lex>m.</lex> <i>Fürst der</i> <is>Bhoja</is>, <i>Fürst</i> <is>Bhoja</is>; <ab>Bein.</ab> <is>Kaṃsa</is>ʼs und = भोजराज."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भोजपति",
+            "eid": "55870",
+            "pagenum": 5,
+            "content": "भोजपति¦ (भोज + प°) <lex>m.</lex> <i>König der</i> <is>Bhoja</is>, <i>König</i> <is>Bhoja</is> <ls>RAGH. 7, 17.</ls> Bein. <is>Kaṃsa's</is> <ls>BHĀG. P. 10, 43, 17.</ls> = भोजराज <ls>COLEBR. Misc. Ess. I, 236.</ls>"
+        }
     ]
 }

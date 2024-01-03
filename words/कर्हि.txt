@@ -63,5 +63,63 @@
             "pagenum": 140,
             "content": "<b>kárhi,</b>¦ <i><ab>adv.</ab></i> when ? <b>karhi cid,</b> at any time. [<b>ka,</b> <ls n='wg,1103'>1103c</ls>.]"
         }
+    ],
+    "MD": [
+        {
+            "word": "कर्हि",
+            "eid": "5591",
+            "pagenum": 64,
+            "content": "कर्हि¦ ká-rhi, when? <i>with</i> <b>svid</b> <i>or</i> <b>cid,</b> at any 🞄time: <b>na karhi cid,</b> never."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कर्हि",
+            "eid": "45578",
+            "pagenum": 260,
+            "content": "क/र्हि ¦ <lex>ind.</lex> (<ab>fr.</ab> <hom>2.</hom> क), when ? at what time ? <ls>Pāṇ. v, 3, 21</ls><info lex='ind'/>"
+        },
+        {
+            "word": "कर्हि",
+            "eid": "45578.1",
+            "pagenum": 260,
+            "content": "¦ (with स्विद्, or चिद् or अपि [<ls>BhP. v, 17, 24</ls>]) at any time, <ls>RV.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "कर्हि",
+            "eid": "45578.2",
+            "pagenum": 260,
+            "content": "¦ (with चिद् and a particle of negation) never, at no time, <ls>Mn.</ls>; <ls>Pañcat.</ls>; &c.; <info lex='inh'/>"
+        },
+        {
+            "word": "कर्हि",
+            "eid": "45578.6",
+            "pagenum": 260,
+            "content": "कर्हि ¦ [<ab>cf.</ab> <ab>Goth.</ab> <etym>hvar</etym>, ‘where ?’ <ab>Eng.</ab> <etym>where ?</etym> ?]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कर्हि",
+            "eid": "13961",
+            "pagenum": 210,
+            "content": "कर्हि¦ <i>karhi,</i> ind. (fr. 2. <i>ka</i>), Ved. when? at what time? (followed by the future or present tense) <i>karhi-cid</i> or <i>karhy-api,</i> at any time; [cf. Goth. <nsi>hvar,</nsi> ‘where?’ Eng. <nsi>where?</nsi> Germ. <nsi>war</nsi> and <nsi>wor</nsi> in <nsi>warum, woraus,</nsi> &c.; Lith. <nsi>kur.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कर्हि",
+            "eid": "25346",
+            "pagenum": 2,
+            "content": "क/र्हि¦ <lex>Adv.</lex> <i>wann?</i> Im <ls>ṚV.</ls> Mit folgendem स्विद् oder चिद् (auch क/र्हि क/र्हि चिद्) <i>irgendwann, einmal;</i> mit चिद् und einer <ab>Negat.</ab> <i>niemals, nie und nimmer</i>. Mit folgendem अपि (<ls>BHĀG. P.</ls>) <i>irgendwann</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कर्हि",
+            "eid": "15601",
+            "pagenum": 2,
+            "content": "क/र्हि¦ (von 1. क) adv. <i>wann?</i> <ls>P. 5, 3, 21.</ls> <ls>VOP. 7, 101.</ls> कर्हि^ स्वि\\त्सा त^ इन्द्र चे\\त्यास^त् <ls>ṚV. 10, 89, 14.</ls> कर्हि^ स्वि\\त्तदि^न्द्र\\ यन्नृभि\\र्नॄन्वी\\रैर्वी\\रान्नी\\ळया^से <ls n='ṚV.'>6, 35, 2.</ls> Statt des fut. kann auch das praes. stehen <ls>P. 3, 3, 5.</ls> <ls>VOP. 25, 4.</ls> Mit चिद् <i>irgendwann</i> <ls>H. 1533.</ls> यद\\द्य कर्हि\\ कर्हि^ चिच्छुश्रू\\यात^मि\\मं हव^म् <ls>ṚV. 8, 62, 5.</ls> <ls n='ṚV.'>5, 74, 10.</ls> <ls>N. 24, 18.</ls> <ls>MBH. 1, 6262.</ls> कर्हि स्म चित् <ls>BHĀG. P. 5, 14, 22.</ls> Sehr häufig in einem negativen Satze <ls>M. 2, 4. 40. 97. 4, 77. 6, 50. 7, 39. 84. 9, 82. 89. 10, 95. 11, 24. 189. 223.</ls> <ls>N. 1, 20. 2, 4. 17, 3. 19, 7. 22, 16.</ls> <ls>R. 1, 9, 45.</ls> <ls n='R.'>3, 46, 13.</ls> <ls>PAÑCAT. Pr. 11. I, 102. II, 22.</ls> <ls>BHĀG. P. 1, 5, 14.</ls> कर्ह्यपि <i>irgendwann</i> <ls>BHĀG. P. 5, 17, 24.</ls>"
+        }
     ]
 }

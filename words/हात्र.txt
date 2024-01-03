@@ -31,5 +31,43 @@
             "pagenum": 831,
             "content": "hAtra¦ <i>n.</i> Wages, hire."
         }
+    ],
+    "MW": [
+        {
+            "word": "हात्र",
+            "eid": "262652",
+            "pagenum": 1297,
+            "content": "हात्र ¦ <lex>n.</lex> (?) wages, hire, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "हात्र",
+            "eid": "262652.1",
+            "pagenum": 1297,
+            "content": "¦ = (or <ab>w.r.</ab> for) हान्त्र, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हात्र",
+            "eid": "54067",
+            "pagenum": 1170,
+            "content": "हात्र¦ <i>hātra, am,</i> n. (probably fr. rt. 1. <i>han,</i> cf. <i>hāntra</i> below), injuring, killing (<i>= prama-</i> <i>thana</i>); death, dying (<i>= maraṇa</i>); a Rākṣasa, (in this sense probably masc.); wages, hire, (in this sense probably fr. rt. 2. <i>hā.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "हात्र",
+            "eid": "134372",
+            "pagenum": 7,
+            "content": "*हात्र¦ <lex>n.</lex> = भरण मरण प्रमथन राक्षस."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हात्र",
+            "eid": "116736",
+            "pagenum": 7,
+            "content": "हा/त्र¦ <lex>n.</lex> = भरण <ls>Uṇ. 4, 161.</ls> = मरण, प्रमथन, राक्षस <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls> <div n='v'>— Vgl. हान्त्र ."
+        }
     ]
 }

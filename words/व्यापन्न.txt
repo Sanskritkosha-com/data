@@ -44,5 +44,41 @@
             "pagenum": 700,
             "content": "vyApanna¦ <i>a. (f. न्ना)</i> 1. Fallen into misfortune; 2. dead, expired, <ls>Megh.</ls>ii.38; 3. hurt, injured; 4. disordered, deranged; 5. substituted."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्यापन्न",
+            "eid": "209820",
+            "pagenum": 1037,
+            "content": "व्य्-आपन्न ¦ <lex>mfn.</lex> fallen into misfortune, disordered, spoiled, corrupted, <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "व्यापन्न",
+            "eid": "209821",
+            "pagenum": 1037,
+            "content": "¦ hurt, injured, destroyed, perished, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "व्यापन्न",
+            "eid": "209822",
+            "pagenum": 1037,
+            "content": "¦ disappeared, changed by the substitution of another sound or symbol (<ab>esp.</ab> applied to the change of <s1 slp1='visarga'>Visarga</s1> or <s1 slp1='visarjanIya'>Visarjanīya</s1> to its corresponding sibilants; when <s1 slp1='visarga'>Visarga</s1> remains unchanged it is called वि-क्रान्त, <ab>q.v.</ab>), <ls>RPrāt.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्यापन्न",
+            "eid": "45656",
+            "pagenum": 980,
+            "content": "<i>Vy-āpanna, as, ā, am,</i>¦ fallen into misfortune, miscarried, failed; dead, deceased, expired, killed, perished; diseased; deranged, disordered; hurt, injured; changed, altered, substituted (as one letter or symbol for another, especially applied to the change of the Visarjanīya or Visarga to its corresponding sibilants; when this symbol remains unchanged it is called <i>Vikrānta</i>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्यापन्न",
+            "eid": "96595",
+            "pagenum": 6,
+            "content": "व्यापन्न¦ partic. s. u. 1. पद् mit व्या. = मृत <i>todt</i> <ls>H. 374.</ls>"
+        }
     ]
 }

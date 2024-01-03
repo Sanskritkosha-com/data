@@ -45,5 +45,59 @@
             "pagenum": 706,
             "content": "Sata-Ayus¦ <i>a.</i> lasting or living one hundred years."
         }
+    ],
+    "MW": [
+        {
+            "word": "शतायुस्",
+            "eid": "212302",
+            "pagenum": 1050,
+            "content": "SatA<srs/>yus ¦ <lex>n.</lex> an age or life (consisting) of a <ab n='hundred'>h°</ab> years, <ls>BhP.</ls><info lex='n'/>"
+        },
+        {
+            "word": "शतायुस्",
+            "eid": "212303",
+            "pagenum": 1050,
+            "content": "SatA/<srs/>yus ¦ (°ता/य्°), <lex>mf(उषी)n.</lex> attaining the age of a <ab n='hundred'>h°</ab> <ab n='years'>y°</ab>, <ls>AV.</ls>; <ls>Kāṭh.</ls>; <ls>Lāṭy.</ls> &c.<info lex='m:f#uzI:n'/>"
+        },
+        {
+            "word": "शतायुस्",
+            "eid": "212304",
+            "pagenum": 1050,
+            "content": "SatA/<srs/>yus ¦ <lex>m.</lex> a man a <ab n='hundred'>h°</ab> years old, a centenarian, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शतायुस्",
+            "eid": "212305",
+            "pagenum": 1050,
+            "content": "¦ <ab>N.</ab> of various men, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>VP.</ls>; <ls>Kathās.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शतायुस्",
+            "eid": "110023",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> शतायुस्¦ <lex>n.</lex> <i>ein Alter von hundert Jahren</i>."
+        },
+        {
+            "word": "शतायुस्",
+            "eid": "110024",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> शता/युस्¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> शतायुषी) <i>ein Alter von hundert Jahren erreichend</i> <ls>AV. 3,11,3</ls>. <ls>LĀṬY. 4,1,5</ls>. [Page6-202-b] <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> verschiedener Männer."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शतायुस्",
+            "eid": "97661",
+            "pagenum": 7,
+            "content": "1. शतायुस्¦ (1. शत + 2. आ°) <lex>n.</lex> <i>ein Alter von hundert Jahren</i> <ls>BHĀG. P. 10, 45, 5.</ls>"
+        },
+        {
+            "word": "शतायुस्",
+            "eid": "97662",
+            "pagenum": 7,
+            "content": "2. शता/युस्¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>ein Alter von hundert Jahren erreichend</i> <ls>KĀṬH. 34, 5</ls> in <ls>Ind. St. 3, 477.</ls> <ls>VARĀH. BṚH. S. 68, 50.</ls> <ls>HIT. ed. JOHNS. 2096.</ls> <ls>VET. in LA. (III) 27, 12.</ls> Andere Belege s. u. 2. आयुस् 1). <div n='1'>— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Purūravas</is> <ls>MBH. 1, 3149.</ls> <ls>HARIV. 1373.</ls> <ls>VP. 398.</ls> des <is>Cirāyus</is> <ls>KATHĀS. 41, 58.</ls> des <is>Uśanas</is> <ls>VP. 2te Aufl. 4, 63, N. 4.</ls>"
+        }
     ]
 }

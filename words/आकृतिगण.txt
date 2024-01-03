@@ -7,5 +7,29 @@
             "pagenum": 92,
             "content": "Akfti-gaRa¦ <i>m.</i> a list of words belonging to a certain grammatical rule which does not exhibit every word belonging to that rule but only specimens, e.g. स्वरादिगणः, चादिगणः."
         }
+    ],
+    "MW": [
+        {
+            "word": "आकृतिगण",
+            "eid": "22230",
+            "pagenum": 127,
+            "content": "आ-कृति—गण ¦ <lex>m.</lex> a list of specimens, collection of words belonging to a particular grammatical rule (not exhibiting every word belonging to that rule but only specimens, whereas a simple <s1 slp1='gaRa'>Gaṇa</s1> exhibits every word), <ls>Pāṇ.</ls>, <ls>Kāś.</ls> [Examples of <s1 slp1='Akfti'>Ākṛti</s1>-<s1 slp1='gaRa'>gaṇa</s1>s are अर्श-आदि, आद्य्-आदि, कण्ड्व्-आदि, &c.]<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आकृतिगण",
+            "eid": "13472",
+            "pagenum": 1,
+            "content": "आकृतिगण¦ <lex>m.</lex> <i>eine zu einer grammatischen Regel gehörige Sammlung von Worten, von denen nur ein Theil als Species aufgeführt wird</i>. Davon <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>KĀŚ. zu P. 4,1,96</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आकृतिगण",
+            "eid": "7849",
+            "pagenum": 1,
+            "content": "आकृतिगण¦ (आ° 3. + गण) <lex>m.</lex> <i>eine zu einer grammatischen Regel gehörende Sammlung von Wörtern, die eine ganze Klasse von Wörtern enthält, welche vollständig aufzuführen nicht gut möglich ist.</i> Während also ein gewöhnlicher गण fest abgeschlossen ist, lässt ein आकृतिगण noch ein Undsoweiter zu. In der Grammatik von <ls>PĀṆINI</ls> gehören zu solchen आकृतिगण uuter andern der अर्शआदि, आद्यादि, कण्ड्वादि, कपिलकादि ."
+        }
     ]
 }

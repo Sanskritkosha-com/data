@@ -39,5 +39,49 @@
             "pagenum": 741,
             "content": "saMveda¦ <i>m.</i> Perception, consciousness, knowledge, understanding."
         }
+    ],
+    "MW": [
+        {
+            "word": "संवेद",
+            "eid": "226216",
+            "pagenum": 1115,
+            "content": "सं-वेद <hom>a</hom> ¦ <lex>m.</lex> perception, consciousness, <ls>Hariv.</ls><info lex='m'/>"
+        },
+        {
+            "word": "संवेद",
+            "eid": "226474",
+            "pagenum": 1117,
+            "content": "सं-वेद <hom>b</hom>, ¦ °दन &c. See सं- √ <hom>1.</hom> विद्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "संवेद",
+            "eid": "47953",
+            "pagenum": 1038,
+            "content": "<i>Saṃ-veda, as,</i>¦ m. perception, consciousness, knowledge, understanding."
+        },
+        {
+            "word": "संवेद",
+            "eid": "48042",
+            "pagenum": 1039,
+            "content": "संवेद¦ <i>saṃ-veda.</i> See under 1. <i>saṃ-vid.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "संवेद",
+            "eid": "116785",
+            "pagenum": 7,
+            "content": "संवेद¦ <lex>m.</lex> <i>Empfindung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "संवेद",
+            "eid": "102950",
+            "pagenum": 7,
+            "content": "संवेद¦ (von 1. विद् mit सम्) <lex>m.</lex> <i>Empfindung</i> <ls>AK. 3, 3, 6.</ls> <ls>HARIV. 11830.</ls>"
+        }
     ]
 }

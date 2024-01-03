@@ -23,5 +23,37 @@
             "pagenum": 200,
             "content": "kUddAla¦ <i>m.</i> Mountain ebony."
         }
+    ],
+    "MW": [
+        {
+            "word": "कूद्दाल",
+            "eid": "53935",
+            "pagenum": 300,
+            "content": "कूद्दाल ¦ <lex>m.</lex> (= कुद्द्°) mountain ebony (<bot>Bauhinia variegata</bot>), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कूद्दाल",
+            "eid": "15550",
+            "pagenum": 245,
+            "content": "कूद्दाल¦ <i>kūddāla, as,</i> m. mountain ebony, Bauhinia Variegata; [cf. <i>kuddāla.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कूद्दाल",
+            "eid": "29747",
+            "pagenum": 2,
+            "content": "*कूद्दाल¦ <lex>m.</lex> = कु° <i><bot>Bauhinia variegata</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कूद्दाल",
+            "eid": "18473",
+            "pagenum": 2,
+            "content": "कूद्दाल¦ <lex>m.</lex> = कुद्दाल <i>Bauhinia variegata</i> <ls>RAMĀN.</ls> zu <ls>AK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

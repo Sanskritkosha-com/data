@@ -7,5 +7,43 @@
             "pagenum": 1173,
             "content": "हुडुत्¦ <i><ab>n.</ab></i> <b>1</b> Noise of a bull. <b>--2</b> A sound of threat."
         }
+    ],
+    "MW": [
+        {
+            "word": "हुडुत्",
+            "eid": "263523",
+            "pagenum": 1301,
+            "content": "हुडुत् ¦ <lex>ind.</lex> = -हुडुक्, <ls>KāśīKh.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "हुडुत्",
+            "eid": "263523.1",
+            "pagenum": 1301,
+            "content": "¦ the noise of a bull, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हुडुत्",
+            "eid": "54247",
+            "pagenum": 1174,
+            "content": "हुडुत्¦ <i>huḍut, t,</i> n. (according to Śabda-k.) the noise of a bull (<i>= vṛṣa-śabda</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "हुडुत्",
+            "eid": "134991",
+            "pagenum": 7,
+            "content": "हुडुत्¦ = हुडुक्. हुडुत्कार <ls>KĀŚĪKH. 74,60. 85,8</ls>. <ab>Vgl.</ab> हुडुंकृत = <ls n='Chr.'>54,9</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हुडुत्",
+            "eid": "117256",
+            "pagenum": 7,
+            "content": "हुडुत्¦ = हुडुक् <ls>KĀŚĪKH.</ls> nach <ls>ŚKDR.</ls>"
+        }
     ]
 }

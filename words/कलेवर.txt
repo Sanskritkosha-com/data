@@ -68,5 +68,63 @@
             "pagenum": 175,
             "content": "kalevara¦ <i>m.n.</i> The body, <ls>Bg.</ls>viii.5, <ls>Bh.V.</ls>i.103, ii.43."
         }
+    ],
+    "MD": [
+        {
+            "word": "कलेवर",
+            "eid": "5631",
+            "pagenum": 64,
+            "content": "कलेवर¦ kalevara, (<lex>m.</lex>) <lex>n.</lex> body."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कलेवर",
+            "eid": "46046",
+            "pagenum": 262,
+            "content": "कलेवर ¦ <lex>mn.</lex> the body, <ls>MBh.</ls>; <ls>R.</ls> &c.; <info lex='m:n'/>"
+        },
+        {
+            "word": "कलेवर",
+            "eid": "46046.1",
+            "pagenum": 262,
+            "content": "कलेवर ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>cadāver</etym>]"
+        },
+        {
+            "word": "कलेवर",
+            "eid": "46047",
+            "pagenum": 262,
+            "content": "कलेवर ¦ <lex>m.</lex> Olibanum, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कलेवर",
+            "eid": "14038",
+            "pagenum": 212,
+            "content": "कलेवर¦ <i>kalevara, as, am,</i> m. n. the body; [cf. Lat. <nsi>cadâver.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कलेवर",
+            "eid": "25571",
+            "pagenum": 2,
+            "content": "कलेवर¦ <div n='1'>— 1〉 <lex>m.</lex> (selten) und <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <i>Leib, Körper</i>. <div n='1'>— 2〉 <lex>m.</lex> *<i>Olibanum</i> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कलेवर",
+            "eid": "15741",
+            "pagenum": 2,
+            "content": "कलेवर¦ <i>Leib, Körper</i> <ls>MBH. 13, 2296.</ls> <ls n='MBH. 13,'>2298.</ls> <ls>BHAG. 8, 5.</ls> <ls>HIT. I, 41.</ls> मृगकलेवर <ls>MBH.</ls> in <ls>LA. 46, 14.</ls> neutr. <ls>AK. 2, 6, 2, 21.</ls> <ls n='AK. 2,'>8, 2, 86.</ls> <ls>H. 564.</ls> <ls>SĀV. 5, 61.</ls> <ls>R. 3, 77, 29.</ls> <ls>KATHĀS. 4, 108.</ls> masc. <ls>MBH. 13, 2309.</ls> <ls>R. 3, 8, 19.</ls>"
+        },
+        {
+            "word": "कलेवर",
+            "eid": "70047",
+            "pagenum": 5,
+            "content": "कलेवर¦, am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> आ <ls>KATHĀS. 78, 78.</ls>"
+        }
     ]
 }

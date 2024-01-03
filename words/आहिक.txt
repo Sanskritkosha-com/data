@@ -15,5 +15,43 @@
             "pagenum": 86,
             "content": "आहिक¦ <i>āhika</i> <ab>m.</ab> <i>(ahi)</i> le nœud descendant. <lbinfo n='5'/> || Surnom du grammairien <s1 slp1='pARini'>Pāṇini</s1>."
         }
+    ],
+    "MW": [
+        {
+            "word": "आहिक",
+            "eid": "28331",
+            "pagenum": 162,
+            "content": "आहिक ¦ <lex>m.</lex> (<ab>fr.</ab> अहि), the descending node, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आहिक",
+            "eid": "28332",
+            "pagenum": 162,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='pARini'>Pāṇini</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आहिक",
+            "eid": "9758",
+            "pagenum": 136,
+            "content": "आहिक¦ <i>āhika, as,</i> m. (fr. <i>ahi</i>), the descending node; an epithet of the grammarian Pāṇini."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आहिक",
+            "eid": "16555",
+            "pagenum": 1,
+            "content": "*आहिक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der niedersteigende Knoten</i>. <div n='1'>— 2〉 <ab>Bein.</ab> <is>Pāṇini</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आहिक",
+            "eid": "9890",
+            "pagenum": 1,
+            "content": "आहिक¦ (von अहि) <lex>m.</lex> <div n='1'> 1) <i>der niedersteigende Knoten</i> (केतु) <ls>TRIK. 1, 1, 94.</ls> <ls>H. 121.</ls> <ls>HĀR. 37.</ls> <div n='1'>— 2) ein Bein. des Grammatikers <is>Pāṇini</is> <ls>TRIK. 2, 7, 24.</ls>"
+        }
     ]
 }

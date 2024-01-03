@@ -29,5 +29,57 @@
             "pagenum": 1225,
             "content": "<b>(varṣyà),</b> <b>varṣía,</b>¦ <ab>a.</ab>, <i>regnerisch, Regen entsendend</i> [von varṣá]; 2〉 <ab>m.</ab>, <i>Regenwolke</i>. <div n='TS'>-am [<ab>n.</ab>] nábhas {437,3}. <div n='TS'>-asya 2〉 〰 ‿iva vidyútas {917,5}. <div n='TS'>-ān dūtā́n {437,3}. <div n='TS'>-ās [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] apás {924,5} (neben diviā́s)."
         }
+    ],
+    "MD": [
+        {
+            "word": "वर्ष्य",
+            "eid": "16049",
+            "pagenum": 272,
+            "content": "वर्ष्य¦ várṣ-ya (<ab>YV.</ab>, <i>or</i> -yâ, <ab>RV.</ab>), <lex>a.</lex> rainy."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वर्ष्य",
+            "eid": "188041",
+            "pagenum": 927,
+            "content": "वर्ष्य^ or व/र्ष्य, ¦ <lex>mf(आ)n.</lex> of rain or belonging to rain, rainy, <ls>RV.</ls>; <ls>VS.</ls>; <ls>TS.</ls> &c.<info lex='m:f#A:n'/><info or='188041,varzya'/>"
+        },
+        {
+            "word": "वर्ष्य",
+            "eid": "188042",
+            "pagenum": 927,
+            "content": "¦ to be rained or showered, <ls>MW.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वर्ष्य",
+            "eid": "188043",
+            "pagenum": 927,
+            "content": "¦ to be sprinkled, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वर्ष्य",
+            "eid": "41511",
+            "pagenum": 893,
+            "content": "<i>Varṣya, as, ā, am,</i>¦ to be rained or showered; to be sprinkled; of or belonging to rain, rainy."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वर्ष्य",
+            "eid": "99070",
+            "pagenum": 6,
+            "content": "वर्ष्य^, वर्षि/अ und व/र्ष्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>pluvialis</i> <ls>ĀPAST. ŚR. 8,22,5</ls>. <div n='1'>— 2〉 <lex>f.</lex> व/र्ष्या <ab>Pl.</ab> <i>Regenwasser</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वर्ष्य",
+            "eid": "88696",
+            "pagenum": 6,
+            "content": "वर्ष्य^¦ (nach <ls>P. 3, 1, 120</ls> und <ls>VOP. 26, 19</ls> von वर्ष् und zwar = वृष्य) <lex>adj.</lex> <i>pluvialis</i>: दू\\ताः <ls>ṚV. 5, 83, 3.</ls> अ\\पो दि\\व्यो अ^सृजद्व\\र्ष्या^ अ\\भि <ls n='ṚV.'>10, 98, 5.</ls> वर्ष्या जुहुयात् <i>Regenwasser</i> <ls>KAUŚ. 103.</ls> आतपवर्ष्या आपः <i>Sonnenregenwasser</i> <ls>AIT. BR. 8, 5. 8.</ls> <ls>KĀTY. ŚR. 15, 4, 35.</ls> व\\र्ष्य^स्येव वि\\द्युत^ः <i>der Regenwolke</i> <ls>ṚV. 10, 91, 5.</ls> parox. <ls>VS. 16, 38.</ls> <ls>TS. 7, 4, 13, 1.</ls>"
+        }
     ]
 }

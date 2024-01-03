@@ -43,5 +43,39 @@
             "pagenum": 67,
             "content": "आली¦ <lex>f.</lex> line, row; swarm (of bees)."
         }
+    ],
+    "MW": [
+        {
+            "word": "आली",
+            "eid": "26793.1",
+            "pagenum": 153,
+            "content": "आली <hom>a</hom> ¦ <lex>f.</lex> a woman's female friend, <ls>Kum.</ls>; <ls>Sāh.</ls>; <ls>Amar.</ls>; <ls>Śiś.</ls> &c.<info lex='f'/>"
+        },
+        {
+            "word": "आली",
+            "eid": "26860",
+            "pagenum": 154,
+            "content": "आ-√ ली <hom>b</hom> ¦ <ab>Ā.</ab> -लीयते, to come close to; <div n='to'/>to settle down upon; <div n='to'/>to stoop, crouch, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Ragh.</ls> &c.<info verb='pre' cp='Ā' parse='A+lI'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आली",
+            "eid": "9274",
+            "pagenum": 130,
+            "content": "<i>Ālī,</i>¦ f. a female friend, row, range, line, &c."
+        },
+        {
+            "word": "आली",
+            "eid": "9295",
+            "pagenum": 130,
+            "content": "आली 1¦. <i>ālī,</i> f. See under <i>āli</i> last col."
+        },
+        {
+            "word": "आली",
+            "eid": "9296",
+            "pagenum": 130,
+            "content": "आली 2¦. <i>ā-lī,</i> cl. 4. A. <i>-līyate, -letum</i> or <i>-lātum,</i> to settle down upon; to melt; faint."
+        }
     ]
 }

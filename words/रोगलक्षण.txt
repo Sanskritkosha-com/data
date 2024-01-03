@@ -7,5 +7,27 @@
             "pagenum": 1,
             "content": "रोगलक्षण¦ med. Oppert 6182."
         }
+    ],
+    "MW": [
+        {
+            "word": "रोगलक्षण",
+            "eid": "179679",
+            "pagenum": 888,
+            "content": "रोग—लक्षण ¦ <lex>n.</lex> the sign or symptoms of a <ab n='disease'>d°</ab>, pathology, <ls>Cat.</ls><info lex='n'/>"
+        },
+        {
+            "word": "रोगलक्षण",
+            "eid": "179680",
+            "pagenum": 888,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रोगलक्षण",
+            "eid": "94919",
+            "pagenum": 5,
+            "content": "रोगलक्षण¦ <lex>n.</lex> <i>Pathologie</i> <ls>Verz. d. B. H. No. 973</ls>. <ls>OPP. CAT. 1</ls>."
+        }
     ]
 }

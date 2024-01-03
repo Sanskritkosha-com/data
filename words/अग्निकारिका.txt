@@ -28,5 +28,41 @@
             "pagenum": 4,
             "content": "agni-kArikA¦ <i>f.</i> kindling sacrificial fire with clarified butter."
         }
+    ],
+    "MW": [
+        {
+            "word": "अग्निकारिका",
+            "eid": "903",
+            "pagenum": 5,
+            "content": "अग्नि—कारिका [<ls>L.</ls>], <lex>f.</lex> and अग्नि/—कार्य [<ls>Mn.</ls> &c.], <lex>n.</lex> ¦ kindling or feeding the sacrificial fire with clarified butter &c.<info and='903,agnikArikA;904,agnikArya'/><info lex='f'/>"
+        },
+        {
+            "word": "अग्निकारिका",
+            "eid": "903.1",
+            "pagenum": 5,
+            "content": "¦ the prayers said while doing so, <ls>Kathās.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अग्निकारिका",
+            "eid": "903.2",
+            "pagenum": 5,
+            "content": "¦ cauterization.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्निकारिका",
+            "eid": "511",
+            "pagenum": 1,
+            "content": "*अग्निकारिका¦ <lex>f.</lex> <i>Anlegung des heiligen Feuers</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्निकारिका",
+            "eid": "354",
+            "pagenum": 1,
+            "content": "अग्निकारिका¦ (अग्नि + कारिका) <lex>f.</lex> <i>Anlegung des heiligen Feuers</i> <ls>H. 814.</ls>"
+        }
     ]
 }

@@ -31,5 +31,61 @@
             "pagenum": 43,
             "content": "apratibanDa¦ <i>a. (f. न्धा)</i> 1. not obstructed, unimpeded; 2. acquired by birth without any obstruction, as a दाय (in civil law)."
         }
+    ],
+    "MW": [
+        {
+            "word": "अप्रतिबन्ध",
+            "eid": "10575",
+            "pagenum": 57,
+            "content": "अ-प्रतिबन्ध ¦ <lex>m.</lex> absence of obstruction<info lex='m'/>"
+        },
+        {
+            "word": "अप्रतिबन्ध",
+            "eid": "10575.1",
+            "pagenum": 57,
+            "content": "अ-प्रतिबन्ध ¦ <lex>mfn.</lex> unimpeded, undisputed, direct (inheritance), not collateral or presumptive.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अप्रतिबन्ध",
+            "eid": "3914",
+            "pagenum": 57,
+            "content": "अप्रतिबन्ध¦ <i>a-pratibandha, as,</i> m. absence of obstruction; <i>(as, ā, am),</i> unimpeded, undisputed, direct (inheritance), not collateral or presumptive."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अप्रतिबन्ध",
+            "eid": "6762",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अप्रतिबन्ध¦ <lex>m.</lex> <i>Abwesenheit eines Hindernisses</i>."
+        },
+        {
+            "word": "अप्रतिबन्ध",
+            "eid": "6763",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अप्रतिबन्ध¦ <lex>Adj.</lex> <i>unbehindert, ungehemmt</i>."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अप्रतिबन्ध",
+            "eid": "996",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अप्रतिबन्ध¦ <lex>m.</lex> <i>Ungehemmtheit</i>."
+        },
+        {
+            "word": "अप्रतिबन्ध",
+            "eid": "997",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अप्रतिबन्ध¦ <lex>Adj.</lex> <i>ungehemmt</i>."
+        },
+        {
+            "word": "अप्रतिबन्ध",
+            "eid": "11969",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> <hom>2.</hom> अप्रतिबन्ध¦ I. 1. 2. अप्रतिबन्ध von einer Erbschaft im Gegensatz सप्रतिबन्ध <ls>MIT. 2,44,b.</ls>"
+        }
     ]
 }

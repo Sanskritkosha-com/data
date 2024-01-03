@@ -53,5 +53,63 @@
             "pagenum": 13,
             "content": "adyatana¦ <i>(II) m.</i> The period of a current day."
         }
+    ],
+    "MD": [
+        {
+            "word": "अद्यतन",
+            "eid": "955",
+            "pagenum": 9,
+            "content": "अद्यतन¦ adya-tana, <lex>a.</lex> (<b>ī</b>) of to-day, present, 🞄contemporary; <b>-tanīya,</b> <lex>a.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अद्यतन",
+            "eid": "3844",
+            "pagenum": 19,
+            "content": "अद्यतन ¦ <lex>mf(ई)n.</lex> extending over or referring to to-day<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "अद्यतन",
+            "eid": "3845",
+            "pagenum": 19,
+            "content": "¦ now-a-days, modern<info lex='inh'/>"
+        },
+        {
+            "word": "अद्यतन",
+            "eid": "3846",
+            "pagenum": 19,
+            "content": "अद्यतन ¦ <lex>m.</lex> the period of a current day, either from midnight to midnight, or from dawn to dark<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अद्यतन",
+            "eid": "1071",
+            "pagenum": 19,
+            "content": "<i>Adyatana, as, ī, am,</i>¦ extending over or referring to to-day; occurring or current to-day or now-a-days, modern; (<i>as</i>), m. the period of a current day, either from midnight to midnight, or from dawn to dark; (<i>ī</i>), f. (in gram.) the aorist tense from its relating what has occurred on the same day. <i>—Adyatana-</i> <i>bhūta, as,</i> m. the aorist."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अद्यतन",
+            "eid": "2586",
+            "pagenum": 1,
+            "content": "अद्यतन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>heutig, jetzig; jetzt lebend</i>. <div n='2'>— b〉 <i>am selben Tage erfolgend</i>. <div n='1'>— 2〉 <lex>f.</lex> ई <i>Aorist</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अद्यतन",
+            "eid": "1789",
+            "pagenum": 1,
+            "content": "अद्यतन¦ (von 2. अद्य) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <i>heutig</i> <ls>NIR. 1, 6.</ls> <ls>VOP. 7, 111.</ls> अद्यतनो दिवसः <ls>PAÑCAT. 5, 6.</ls> अद्यतनः कालः <i>der heutige Tag</i>; Einige rechnen denselben von Mitternacht zu Mitternacht (vgl. die Beispiele u. 2. अद्य 1.), Andere vom üblichen (न्याय्य) Aufstehen (उत्थान) bis zum üblichen Schlafengehen (संवेशन), <ls>KĀŚ.</ls> zu <ls>P. 1, 2, 57.</ls> <div n='1'>— 2) <lex>m.</lex> <i>der heutige Tag</i>: अनद्यतने <ls>P. 3, 2, 111.</ls> <ls n='P. 3,'>3, 15.</ls> <ls n='P.'>5, 3, 21.</ls> अनद्यतनवत् <ls n='P.'>3, 3, 135.</ls> <div n='1'>— 3) <lex>f.</lex> °नी (ergänze विभक्ति) <i>der Aorist</i>, weil derselbe das an demselben Tage Geschehene berichtet, <ls>P. 2, 4, 3</ls>, <is>Vārtt</is>. 2. <ls n='P.'>6, 4, 114</ls>, <is>Vārtt</is>. 3."
+        },
+        {
+            "word": "अद्यतन",
+            "eid": "63136",
+            "pagenum": 5,
+            "content": "अद्यतन¦ <div n='1'> 1) <i>am selben Tage geschehend</i>: श्मशानयानाद्यतनाहवेषु <ls>SUŚR. 1, 7, 18.</ls> <i>heutig, jetzig</i> <ls>Spr. 3684.</ls> <i>jetzt lebend</i> <ls>RĀJA-TAR. 5, 100.</ls>"
+        }
     ]
 }

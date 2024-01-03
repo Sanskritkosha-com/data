@@ -43,5 +43,45 @@
             "pagenum": 1743,
             "content": "463,4: <i>Kinn</i> <ab>st.</ab> <i>Keim</i> <info vn='chg 109 gra'/>"
         }
+    ],
+    "MD": [
+        {
+            "word": "छुबुक",
+            "eid": "7772",
+            "pagenum": 97,
+            "content": "छुबुक¦ chúbuka, <lex>n.</lex> chin."
+        }
+    ],
+    "MW": [
+        {
+            "word": "छुबुक",
+            "eid": "76083",
+            "pagenum": 407,
+            "content": "छु/बुक ¦ <lex>n.</lex> = औब्°, the chin, <ls>RV. x, 163, 1</ls>; <ls>ŚBr. x, 6, 1, 11</ls>; <ls>PārGṛ. iii, 6, 2.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छुबुक",
+            "eid": "19143",
+            "pagenum": 334,
+            "content": "छुबुक¦ <i>chubuka, am,</i> n., Ved. the chin; [cf. <i>civuka</i> and <i>cubuka.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "छुबुक",
+            "eid": "41172",
+            "pagenum": 2,
+            "content": "छु/बुक¦ <lex>n.</lex> <i>Kinn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छुबुक",
+            "eid": "26277",
+            "pagenum": 2,
+            "content": "छु/बुक¦ <lex>n.</lex> <i>Kinn</i> <ls>ṚV. 10, 163, 1.</ls> <ls>ŚAT. BR. 10, 6, 1, 11.</ls> <ls>PĀR. GṚHY. 3, 6.</ls> <div n='v'>— Vgl. चिवुक, चुबुक ."
+        }
     ]
 }

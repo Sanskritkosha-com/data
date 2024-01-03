@@ -47,5 +47,35 @@
             "pagenum": 505,
             "content": "सुविधि¦ <i>m.</i> eine gute Art."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुविधि",
+            "eid": "249061",
+            "pagenum": 1233,
+            "content": "सु—विधि ¦ <lex>m.</lex> a good rule or ordinance (<ab>instr.</ab> ‘in the right manner, properly’), <ls>Kathās.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुविधि",
+            "eid": "249062",
+            "pagenum": 1233,
+            "content": "¦ (with <s1 slp1='jEna'>Jaina</s1>s) <ab>N.</ab> of the 9th <s1 slp1='arhat'>Arhat</s1> of the present <s1 slp1='avasarpiRI'>Avasarpiṇī</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुविधि",
+            "eid": "128008",
+            "pagenum": 7,
+            "content": "सुविधि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>eine gute, angemessene Weise</i>. <ab>Instr.</ab> so <ab>v. a.</ab> <i>in angemessener Weise</i>. <div n='1'>— 2〉 <ab>N. pr.</ab> eines <is>Arhant</is> bei den <is>Jaina</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुविधि",
+            "eid": "111616",
+            "pagenum": 7,
+            "content": "सुविधि¦ <lex>m.</lex> <div n='1'> 1) <i>eine gute, angemessene Weise</i>: सुविधिना दिनम् । नीत्वा <ls>KATHĀS. 46, 53.</ls> <div n='1'>— 2) N. pr. des 9ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is> <ls>H. 27. 29.</ls> <ls>Verz. d. Oxf. H. 186,b,15.</ls>"
+        }
     ]
 }

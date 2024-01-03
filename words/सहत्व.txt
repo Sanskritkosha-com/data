@@ -35,5 +35,47 @@
             "pagenum": 768,
             "content": "saha-tva¦ <i>n.</i> association, union."
         }
+    ],
+    "MW": [
+        {
+            "word": "सहत्व",
+            "eid": "239988",
+            "pagenum": 1193,
+            "content": "<hom>1.</hom> सह—त्व ¦ <lex>n.</lex> (for <hom>2.</hom> See under <hom>2.</hom> सह) sufferance, endurance, capacity of enduring, capacity, ability, <ls>Kām.</ls>; <ls>Rājat.</ls>; <ls>Kathās.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सहत्व",
+            "eid": "240203",
+            "pagenum": 1194,
+            "content": "<hom>2.</hom> सह—त्व ¦ <lex>n.</lex> (for <hom>1.</hom> See <ls>ib.</ls>) <ab>id.</ab>, <ls>ŚrS.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सहत्व",
+            "eid": "122870",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सहत्व¦ <lex>n.</lex> <i>Gemeinsamkeit</i>."
+        },
+        {
+            "word": "सहत्व",
+            "eid": "122871",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> °सहत्व¦ <lex>n.</lex> <i>das Ertragen, Zulassen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सहत्व",
+            "eid": "107513",
+            "pagenum": 7,
+            "content": "1. सहत्व¦ (von 1. सह) <lex>n.</lex> <i>Gemeinsamkeit</i> <ls>ĀPAST. 2, 14, 16.</ls> <ls>KĀTY. ŚR. 25, 13, 29.</ls>"
+        },
+        {
+            "word": "सहत्व",
+            "eid": "107514",
+            "pagenum": 7,
+            "content": "2. सहत्व¦ <lex>n.</lex> nom. abstr. von 2. सह am Ende eines comp.: निन्दा° <i>das Ertragen</i> <ls>KĀM. NĪTIS. 15, 29.</ls> शब्दपरिवृत्तिसहत्वासहत्वाभ्याम् <i>das Zulassen und Nichtzulassen</i> <ls>SĀH. D. 258, 1.</ls>"
+        }
     ]
 }

@@ -37,5 +37,43 @@
             "pagenum": 640,
             "content": "<b>dógha,</b>¦ <ab>m.</ab>, <i>das Melken = Erlangen</i>. <div n='TS'>-am (als <ab>Inf.</ab>) {369,5} urúm 〰 dharúṇam deva rāyás [<ls>Aufr.</ls> gegen die Handschrift dīrghám]."
         }
+    ],
+    "MW": [
+        {
+            "word": "दोघ",
+            "eid": "96964",
+            "pagenum": 498,
+            "content": "दो/घ ¦ <lex>mfn.</lex> milking<info lex='m:f:n'/>"
+        },
+        {
+            "word": "दोघ",
+            "eid": "96964.1",
+            "pagenum": 498,
+            "content": "दो/घ ¦ <lex>m.</lex> milker, milking, <ls>RV. v, 15, 5</ls> (<ab>cf.</ab> मधु-, सु-). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दोघ",
+            "eid": "22784",
+            "pagenum": 436,
+            "content": "<i>Dogha, as, ā, am,</i>¦ Ved. milking; (<i>as</i>), m. milking."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दोघ",
+            "eid": "52980",
+            "pagenum": 3,
+            "content": "दो/घ¦ <lex>Adj.</lex> <i>milchend</i> oder <lex>m.</lex> <i>Melkung, Milchung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दोघ",
+            "eid": "34999",
+            "pagenum": 3,
+            "content": "दो/घ¦ (von दुघ् = 1. दुह्) <lex>adj.</lex> <i>milchend</i> oder <lex>m.</lex> <i>Melkung, Milchung</i>: वाजो\\ नु ते\\ शव^सस्पा\\त्वन्त^मु\\रुं दोघ^ं ध\\रूण^ं देव रा\\यः <ls>ṚV. 5, 15, 5.</ls> <div n='v'>— Vgl. मधु°, सु° ."
+        }
     ]
 }

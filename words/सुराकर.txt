@@ -15,5 +15,35 @@
             "pagenum": 787,
             "content": "surA-Akara¦ <i>m.</i> a distillery."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुराकर",
+            "eid": "249693",
+            "pagenum": 1235,
+            "content": "surA<srs/>°kara ¦ (°rA<srs/>k°), <lex>m.</lex> ‘mine of <ab n='spirituous'>sp°</ab> <ab n='liquor'>liq°</ab>’, the cocoa-nut tree, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुराकर",
+            "eid": "249693.1",
+            "pagenum": 1235,
+            "content": "¦ a distillery, <ls>Baudh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुराकर",
+            "eid": "127582",
+            "pagenum": 7,
+            "content": "सुराकर¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Branntweinbrennerei</i> <ls>BAUDH. 1,9,3</ls>. <div n='1'>— 2〉 <i>Cocosnusspalme</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुराकर",
+            "eid": "111263",
+            "pagenum": 7,
+            "content": "सुराकर¦ (सुरा + आ°) <lex>m.</lex> <div n='1'> 1) <i>Kokosnusspalme</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> <div n='1'>— 2) <i>Branntweinbrennerei</i> <ls>BAUDH.</ls> im <ls>ŚUDDHIT.</ls> nach <ls>ŚKDR.</ls>"
+        }
     ]
 }

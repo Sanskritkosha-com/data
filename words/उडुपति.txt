@@ -31,5 +31,55 @@
             "pagenum": 123,
             "content": "uqu-pati¦ <i>m.</i> the moon, जितमुडुपतिना <ls>Rat.</ls>i., रसात्मकस्योडुपतेश्च रश्मयः <ls>K.S.</ls>v.22."
         }
+    ],
+    "MW": [
+        {
+            "word": "उडुपति",
+            "eid": "30636",
+            "pagenum": 175,
+            "content": "उडु—पति or उडु—राज्, ¦ <lex>m.</lex> the moon, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Kum.</ls> &c.<info or='30636,uqupati;30638,uqurAj'/><info lex='m'/>"
+        },
+        {
+            "word": "उडुपति",
+            "eid": "30637",
+            "pagenum": 175,
+            "content": "¦ the <s1 slp1='soma'>Soma</s1>, <ls>Suśr.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "उडुपति",
+            "eid": "1676",
+            "pagenum": 1,
+            "content": "<i>Uḍupati</i> (I)¦ — a pravara (Aṅgiras). <div n='P'/>M. 196. 14."
+        },
+        {
+            "word": "उडुपति",
+            "eid": "1677",
+            "pagenum": 1,
+            "content": "<i>Uḍupati</i> (II)¦ — a surname of Soma. <div n='P'/>Vi. IV. 6. 33."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उडुपति",
+            "eid": "17920",
+            "pagenum": 1,
+            "content": "उडुपति¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Mond</i> <ls n='Chr.'>290,13</ls>. <div n='1'>— 2〉 <i>eine</i> <is>Soma</is>-<i>Art</i> <ls>SUŚR. 2,164,19</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उडुपति",
+            "eid": "10762",
+            "pagenum": 1,
+            "content": "उडुपति¦ (उडु 1. + पति) <lex>m.</lex> <i>Mond</i> <ls>KUMĀRAS. 5, 22.</ls> auf den <is>Soma</is> übertragen <ls>SUŚR. 1, 164, 19.</ls> — Ist wohl nach der Analogie des missverstandenen उडुप 2. gebildet; vgl. उडुराज ."
+        },
+        {
+            "word": "उडुपति",
+            "eid": "67557",
+            "pagenum": 5,
+            "content": "उडुपति¦ <ls>VARĀH. BṚH. S. 4, 7. 21. 98, 12. 100, 1.</ls> <ls>ŚIŚ. 9, 32.</ls>"
+        }
     ]
 }

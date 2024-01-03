@@ -76,5 +76,51 @@
             "pagenum": 769,
             "content": "sahasya¦ <i>m.</i> The month <i>Pausha</i>, सहस्यरात्रीरुदवासतत्परा <ls>K.S.</ls>v.26."
         }
+    ],
+    "MD": [
+        {
+            "word": "सहस्य",
+            "eid": "19097",
+            "pagenum": 344,
+            "content": "सहस्य¦ sahas-yâ, <lex>a.</lex> mighty, strong (<ab>V.</ab>); <lex>m.</lex> 🞄<ab>N.</ab> <i>of the second winter month</i> (= Pauṣa)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सहस्य",
+            "eid": "240028",
+            "pagenum": 1193,
+            "content": "सहस्य^ ¦ <lex>mfn.</lex> mighty, strong, <ls>RV.</ls>; <ls>AV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सहस्य",
+            "eid": "240029",
+            "pagenum": 1193,
+            "content": "सहस्य^ ¦ <lex>m.</lex> the month <s1 slp1='pOza'>Pauṣa</s1> (December-January), <ls>VS.</ls>; &c.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सहस्य",
+            "eid": "51625",
+            "pagenum": 1099,
+            "content": "<i>Sahasya, as, ā, am,</i>¦ relating to strength, strong, vigorous (Ved.); coming from strength, being the offspring of might (Ved.); (<i>as</i>), m. the month Pauṣa (December-January). <i>—Sahasya-candra,</i> <i>as,</i> m. the wintry moon."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सहस्य",
+            "eid": "123023",
+            "pagenum": 7,
+            "content": "सहस्य^, सहसि/अ¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>gewaltig</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>der zweite Wintermonat</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सहस्य",
+            "eid": "107619",
+            "pagenum": 7,
+            "content": "सहस्य^¦ (von सहस्) <div n='1'> 1) <lex>adj.</lex> <i>gewaltig</i>: <is>Agni</is> <ls>ṚV. 1, 147, 5.</ls> <ls n='ṚV.'>2, 2, 11.</ls> <ls n='ṚV.'>5, 22, 4.</ls> <ls n='ṚV.'>7, 1, 5.</ls> <ls n='ṚV.'>10, 1, 7.</ls> <ls n='ṚV. 10,'>87, 22.</ls> अश्व <ls>AV. 5, 29, 9.</ls> <div n='1'>— 2) <lex>m.</lex> <i>der zweite Wintermonat</i> (<is>Pauṣa</is>) <ls>P. 4, 4, 128</ls>, Schol. <ls>AK. 1, 1, 3, 15.</ls> <ls>H. 152.</ls> <ls>HALĀY. 1, 114.</ls> <ls>VS. 7, 30.</ls> <ls n='VS.'>14, 27.</ls> <ls>TS. 1, 4, 14, 1.</ls> <ls>ŚAT. BR. 4, 3, 1, 18.</ls> <ls>SUŚR. 1, 19, 10.</ls> <ls>RAGH. 14, 84.</ls> <ls>KUMĀRAS. 5, 26.</ls> <ls>VP. 225.</ls> <ls>RĀJA-TAR. 7, 678.</ls>"
+        }
     ]
 }

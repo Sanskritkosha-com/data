@@ -15,5 +15,43 @@
             "pagenum": 709,
             "content": "SamI(mi)ra¦ <i>m.</i> A small variety of the <i>śamī</i> tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "शमीर",
+            "eid": "213034",
+            "pagenum": 1054,
+            "content": "शमीर ¦ <lex>m.</lex> = शमिर, <ls>Pāṇ. v, 3, 88.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शमीर",
+            "eid": "46138",
+            "pagenum": 993,
+            "content": "<i>Śamīra, as,</i>¦ m. <i>= śamira</i> above."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शमीर",
+            "eid": "110380",
+            "pagenum": 6,
+            "content": "*शमीर¦ <lex>m.</lex> <i>ein niedriger</i> <is>Śamī</is>-<i>Baum</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शमीर",
+            "eid": "97945",
+            "pagenum": 7,
+            "content": "शमीर/¦ (von 2. शमी) <lex>m.</lex> <i>ein niedriger</i> <is>Śamī</is>-<i>Baum</i> <ls>P. 5, 3, 88.</ls> <ls>VOP. 7, 77.</ls> <ls>AK. 2, 4, 2, 32.</ls>"
+        },
+        {
+            "word": "शमीर",
+            "eid": "122286",
+            "pagenum": 7,
+            "content": "शमीर¦, समीरवन <is>gaṇa</is> क्षुभ्नादि zu <ls>P. 8, 4, 39.</ls>"
+        }
     ]
 }

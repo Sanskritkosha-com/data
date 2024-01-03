@@ -15,5 +15,61 @@
             "pagenum": 520,
             "content": "BaraRyu¦ <i>m.</i> 1. A master; 2. a protector; 3. a friend; 4. fire; 5. the moon; 6. the sun."
         }
+    ],
+    "MW": [
+        {
+            "word": "भरण्यु",
+            "eid": "148709",
+            "pagenum": 747,
+            "content": "भरण्यु ¦ <lex>m.</lex> a protector or master, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "भरण्यु",
+            "eid": "148710",
+            "pagenum": 747,
+            "content": "¦ a friend, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भरण्यु",
+            "eid": "148711",
+            "pagenum": 747,
+            "content": "¦ fire, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भरण्यु",
+            "eid": "148712",
+            "pagenum": 747,
+            "content": "¦ the moon, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भरण्यु",
+            "eid": "148713",
+            "pagenum": 747,
+            "content": "¦ the sun, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भरण्यु",
+            "eid": "35144",
+            "pagenum": 700,
+            "content": "<i>Bharaṇyu, us,</i>¦ m. a master; a protector (<i>= śara-</i> <i>ṇyu</i>); a friend; fire; the moon; the sun."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भरण्यु",
+            "eid": "78883",
+            "pagenum": 4,
+            "content": "*भरण्यु¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Beschützer, Herr</i>. <div n='1'>— 2〉 <i>Freund</i>. <div n='1'>— 3〉 <i>Feuer</i>. <div n='1'>— 4〉 <i>der Mond</i>. <div n='1'>— 5〉 <i>die Sonne</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भरण्यु",
+            "eid": "54162",
+            "pagenum": 5,
+            "content": "भरण्यु¦ <lex>m.</lex> = शरण्यु <ls>ŚABDAM.</ls> <i>Beschützer</i> <ls>WILS.</ls> मित्र <i>Freund</i> <ls>ŚKDR.</ls> : <i>Herr; Feuer; der Mond</i> <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls> <i>die Sonne</i> <ls>WILSON.</ls>"
+        }
     ]
 }

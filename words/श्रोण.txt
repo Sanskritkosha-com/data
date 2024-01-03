@@ -82,5 +82,69 @@
             "pagenum": 734,
             "content": "SroRa¦ <i>(II) m.</i> A kind of disease."
         }
+    ],
+    "MD": [
+        {
+            "word": "श्रोण",
+            "eid": "18321",
+            "pagenum": 322,
+            "content": "श्रोण¦ śroṇá, <lex>a.</lex> lame (<ab>RV.</ab>): <b>ā́,</b> <lex>f.</lex> <ab>N.</ab> <i>of the 🞄20th (21st) lunar asterism</i> (= śravaṇā; <ab>V.</ab>, <ab>P.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "श्रोण",
+            "eid": "223802",
+            "pagenum": 1102,
+            "content": "श्रोण/ ¦ <lex>mf(आ/)n.</lex> (= <hom>2.</hom> श्रवण) lame, limping, a cripple, <ls>RV.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "श्रोण",
+            "eid": "223803",
+            "pagenum": 1102,
+            "content": "¦ cooked, dressed, matured (<ab>prob.</ab> <ab>w.r.</ab> for श्राण), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्रोण",
+            "eid": "223804",
+            "pagenum": 1102,
+            "content": "श्रोण/ ¦ <lex>m.</lex> (<ab>mc.</ab>) and <lex type='hw'>f(आ/). </lex> the constellation <s1 slp1='SravaRA'>Śravaṇā</s1>, <ls>TS.</ls>; <ls>Kāṭh.</ls>; <ls>Baudh.</ls>; <ls>BhP.</ls><info lex='m:f#A'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "श्रोण",
+            "eid": "47502",
+            "pagenum": 1029,
+            "content": "श्रोण¦ <i>śroṇa, as, ā, am</i> (according to Uṇādi-s. III. 6. apparently fr. rt. 1. or 2. <i>śru</i>), lame, a cripple; dressed, cooked, matured, (in this sense probably for <i>śrāṇa</i>); (<i>as</i>), m. a kind of disease [cf. 1. <i>śravaṇa</i>]; (<i>ā</i>), f. rice-gruel [cf. <i>śrāṇa</i>]; the constellation Śravaṇā, (contracted fr. <i>śravaṇā.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्रोण",
+            "eid": "115512",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> श्रोण/¦, <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>lahm, claudus</i>. <div n='1'>— 2〉 <lex>m.</lex> श्रोण (metrisch) und <lex>f.</lex> आ/ <i>das 20ste (24ste) Mondhaus</i> <ls>BAUDH. 3,8,25</ls>."
+        },
+        {
+            "word": "श्रोण",
+            "eid": "115513",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *श्रोण¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>dressed, cooked, matured</i>. <div n='1'>— 2〉 <lex>f.</lex> आ <i>rice-gruel</i>. — Richtig श्राण, श्राणा."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्रोण",
+            "eid": "101938",
+            "pagenum": 7,
+            "content": "1. श्रोण/¦ <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 3, 6.</ls> <div n='1'> 1) <lex>adj.</lex> = श्रवण <i>lahm, claudus</i> <ls>AK. 2, 6, 1, 48.</ls> <ls>H. 452.</ls> <ls>HALĀY. 2, 455.</ls> <ls>ṚV. 1, 112, 8.</ls> गो <ls n='ṚV. 1,'>161, 10.</ls> <ls n='ṚV.'>2, 13, 12.</ls> प्रति^ श्रो\\णः स्था^त् <ls n='ṚV. 2,'>15, 7.</ls> <ls n='ṚV.'>4, 30, 19.</ls> निः श्रो\\णो भू^त् <ls n='ṚV.'>8, 68, 2.</ls> <ls n='ṚV.'>10, 25, 11.</ls> <div n='1'>— 2) <lex>f.</lex> आ N. eines <is>Nakṣatra</is>, = श्रवणा <ls>TS. 4, 4, 10, 2.</ls> <ls>KĀṬH. 39, 13.</ls> यदश्लो^ण\\त्तच्छ्रो\\णा <ls>TBR. 1, 5, 2, 9. 3, 1, 2, 5. 6</ls> <ls>BHĀG. P. 8, 18, 5.</ls> श्रोण des Metrums wegen <ls n='BHĀG. P.'>7, 14, 23.</ls> <div n='v'>— Vgl. श्लोण ."
+        },
+        {
+            "word": "श्रोण",
+            "eid": "101939",
+            "pagenum": 7,
+            "content": "2. श्रोण¦ <div n='1'> 1) <lex>adj.</lex> <i>dressend, cooked, matured.</i> <div n='1'>— 2) <lex>f.</lex> आ <i>rice-gruel</i> <ls>WILSON</ls> nach <ls>ŚABDĀRTHAK.</ls> — Fehlerhaft für श्राण, श्राणा ."
+        }
     ]
 }

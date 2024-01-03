@@ -15,5 +15,55 @@
             "pagenum": 713,
             "content": "SAkteya¦ <i>m.</i> A worshipper of <i>Śakti</i>."
         }
+    ],
+    "MW": [
+        {
+            "word": "शाक्तेय",
+            "eid": "214886",
+            "pagenum": 1062,
+            "content": "शाक्तेय ¦ <lex>m.</lex> a worshipper of the <s1 slp1='Sakti'>Śakti</s1> (See above), <ls>Vop.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शाक्तेय",
+            "eid": "214887",
+            "pagenum": 1062,
+            "content": "¦ <ab>patr.</ab> of <s1 slp1='parASara'>Parāśara</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शाक्तेय",
+            "eid": "46369",
+            "pagenum": 999,
+            "content": "<i>Śākteya, as,</i>¦ m. a worshipper of the Śakti, a Śākta, q. v.; the son of Śakti, i. e. Parāśara."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शाक्तेय",
+            "eid": "111281",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> *शाक्तेय¦ <lex>m.</lex> <i>ein Verehrer der</i> <is>Śakti</is> <is>Śiva</is>ʼs."
+        },
+        {
+            "word": "शाक्तेय",
+            "eid": "111282",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> शाक्तेय¦ <lex>m.</lex> <ab>Patron.</ab> <is>Parāśara</is>ʼs <ls>MBH. 1,181,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शाक्तेय",
+            "eid": "98618",
+            "pagenum": 7,
+            "content": "1. शाक्तेय¦ (von 1. शक्ति) <lex>m.</lex> <i>ein Verehrer der</i> <is>Śakti</is> <is>Śiva's</is> <ls>VOP. 7, 23.</ls>"
+        },
+        {
+            "word": "शाक्तेय",
+            "eid": "98619",
+            "pagenum": 7,
+            "content": "2. शाक्तेय¦ (von 4. शक्ति) <lex>m.</lex> patron. <is>Parāśara's</is> <ls>MBH. 1, 6866</ls> (शाक्त्रेय <ls>ed. Calc.</ls>)."
+        }
     ]
 }

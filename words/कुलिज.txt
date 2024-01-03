@@ -15,5 +15,51 @@
             "pagenum": 87,
             "content": "कुलिज¦ <i>n.</i> ein best. Gefäß, Hohlmaß."
         }
+    ],
+    "MD": [
+        {
+            "word": "कुलिज",
+            "eid": "6091",
+            "pagenum": 71,
+            "content": "कुलिज¦ kulija, <lex>n.</lex> <i>a measure of capacity</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कुलिज",
+            "eid": "53154",
+            "pagenum": 296,
+            "content": "कुलिज ¦ <lex>n.</lex> a particular vessel, <ls>Kauś. 12</ls> and <ls n='Kauś.'>43</ls><info lex='n'/>"
+        },
+        {
+            "word": "कुलिज",
+            "eid": "53155",
+            "pagenum": 296,
+            "content": "¦ a sort of measure, <ls>Pāṇ. v, 1, 55</ls> (<ab>ifc.</ab> <lex type='hwifc'>f(आ [<ls>Kāś.</ls>] or ई). </lex>). <info lex='f#A:f#I'/><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कुलिज",
+            "eid": "15355",
+            "pagenum": 241,
+            "content": "कुलिज¦ <i>kulija, as</i> or <i>am</i> (?), m. or n. (?), a sort of measure (occurring at the end of compounds in the forms <i>kulija, as, ī, am; kulijika, as,</i> <i>ī, am; kulijīna, as, ā, am</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुलिज",
+            "eid": "29269",
+            "pagenum": 2,
+            "content": "कुलिज¦ <lex>n.</lex> <div n='1'>— 1〉 <i>ein <ab>best.</ab> Gefäss</i> <ls>KAUŚ. 12,43</ls>. <div n='1'>— 2〉 <i>ein <ab>best.</ab> Hohlmaass</i>. Am Ende eines <ab>adj. Comp.</ab> *<lex>f.</lex> आ (<ls>KĀŚ.</ls>) oder ई."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुलिज",
+            "eid": "18142",
+            "pagenum": 2,
+            "content": "कुलिज¦ <i>ein best. Maass</i> <ls>P. 5, 1, 55.</ls> Am Ende eines <lex>adj.</lex> comp. nach einem Zahlwort — कुलिज (f. ई), कुलिजिक (f. ई) oder कुलिजीन (f. आ) ebend. द्विकुलिजी, द्विकुलिजिकी, द्वैकुलिजिकी (vgl. <ls>KĀŚ.</ls> zu <ls>P. 7, 3, 17</ls>), द्विकुलिजीना <ls>Sch.</ls> उदकुलिजं(?) संपातवन्तं ग्रामं परिहृत्य मध्ये निनयत्येवं सुराकुलिजम्(?) <ls>KAUŚ. 12.</ls> कुलिजकृष्टे (?) दक्षिणतो ऽग्नेः संभारमाहरति <ls n='KAUŚ.'>43.</ls>"
+        }
     ]
 }

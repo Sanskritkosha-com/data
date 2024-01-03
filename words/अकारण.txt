@@ -39,5 +39,77 @@
             "pagenum": 111,
             "content": "<b>a-kāraṇa,</b>¦ <i><ab>n.</ab></i> lack of cause; <b>-am,</b> <i><ab>adv.</ab></i> causelessly."
         }
+    ],
+    "MD": [
+        {
+            "word": "अकारण",
+            "eid": "75",
+            "pagenum": 1,
+            "content": "अकारण¦ a-kāraṇa, <lex>a.</lex> causeless; <lex>n.</lex> lack of 🞄cause: <ab>°—</ab>, <b>-tas, -m,</b> <ab>in.</ab>, <ab>ab.</ab>, <ab>lc.</ab> without cause."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अकारण",
+            "eid": "241",
+            "pagenum": 2,
+            "content": "अ-कारण ¦ <lex>mfn.</lex> causeless<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अकारण",
+            "eid": "242",
+            "pagenum": 2,
+            "content": "अ-कारण ¦ <lex>n.</lex> absence of a cause<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अकारण",
+            "eid": "78",
+            "pagenum": 2,
+            "content": "अकारण¦ <i>a-kāraṇa, as, ā, am,</i> causeless; (<i>am</i>), n. absence of a cause; ind. causelessly. <i>—A-kā-</i> <i>raṇotpanna (°ṇa-ut°), as, ā, am,</i> produced spontaneously."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अकारण",
+            "eid": "134",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अकारण¦ <lex>n.</lex> <i>kein Grund</i>. °णातू, °णेन und °णे (<ls n='Chr.'>305,22. 317,2. 325,11</ls>) <i>ohne Veranlassung, — Grund</i>. अकारण° <ab>dass.</ab> <ls n='Chr.'>177,23</ls>."
+        },
+        {
+            "word": "अकारण",
+            "eid": "135",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अकारण¦ <lex>Adj.</lex> <i>grundlos</i> <ls>SUŚR. 1,319,4</ls>. °णम् <lex>Adv.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अकारण",
+            "eid": "104",
+            "pagenum": 1,
+            "content": "अकारण¦ (3. अ + कारण) <lex>n.</lex> <i>Mangel an Grund</i>: अकारणपरित्यक्ता <i>ohne Grund verlassend</i> (von °त्यक्तर्) <ls>M. 3, 157.</ls> <i>ohne Grund verlassen</i> (fem.) <ls>ŚĀK. 85, 15.</ls> अकारणात् <i>ohne Grund</i> <ls>M. 9, 177.</ls> <ls>R. 1, 2, 32.</ls>"
+        },
+        {
+            "word": "अकारण",
+            "eid": "62452",
+            "pagenum": 5,
+            "content": "अकारण¦, अकारणेन <i>ohne Grund</i> <ls>YĀJÑ. 2, 234.</ls> अकारणम् adv. dass. <ls>VIKR. 54.</ls> अकारण <lex>adj.</lex> <i>grundlos</i> <ls>R. 2, 54, 20.</ls> <ls>Spr. 1011.</ls> <ls>PAÑCAT. 111, 2.</ls> <ls n='PAÑCAT.'>151, 17.</ls> <ls n='PAÑCAT.'>246, 6.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अकारण",
+            "eid": "27",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अकारण¦, °तस् = अकारणात् <ab>u. s. w.</ab> <ls>ŚIŚ. 10,16</ls>."
+        },
+        {
+            "word": "अकारण",
+            "eid": "9478",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> अकारण¦ I. 1."
+        }
     ]
 }

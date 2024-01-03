@@ -60,5 +60,57 @@
             "pagenum": 613,
             "content": "ruRqa¦ <i>m.n.</i> A headless body, वेल्लद्भैरवरुण्डमुण्डनिकरैर्वीरो पिधत्ते भुवः <ls>Ut.</ls>v."
         }
+    ],
+    "MD": [
+        {
+            "word": "रुण्ड",
+            "eid": "15295",
+            "pagenum": 256,
+            "content": "रुण्ड¦ ruṇḍa, <lex>a.</lex> mutilated; <lex>m.</lex> headless body, 🞄trunk: <b>-ka,</b> <lex>m.</lex> <ab>id.</ab> <ab>—°</ab> <lex>a.</lex>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "रुण्ड",
+            "eid": "178495",
+            "pagenum": 883,
+            "content": "रुण्ड ¦ <lex>mfn.</lex> maimed, mutilated<info lex='m:f:n'/>"
+        },
+        {
+            "word": "रुण्ड",
+            "eid": "178496",
+            "pagenum": 883,
+            "content": "रुण्ड ¦ <lex>m.</lex> a headless body, <ls>Uttarar.</ls>; <ls>Kathās.</ls> (<ls>L.</ls> also <lex type='hwalt'>n.</lex>)<info lex='m:n'/>"
+        },
+        {
+            "word": "रुण्ड",
+            "eid": "178497",
+            "pagenum": 883,
+            "content": "रुण्ड ¦ <lex>m.</lex> the offspring of a mule and a mare, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रुण्ड",
+            "eid": "39637",
+            "pagenum": 849,
+            "content": "<i>Ruṇḍa, as, ā, am,</i>¦ maimed, mutilated; (<i>as</i>), m. according to some also (<i>am</i>), n. a headless body, mere trunk (retaining life and continuing to mix in battle)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रुण्ड",
+            "eid": "94411",
+            "pagenum": 5,
+            "content": "रुण्ड¦ <lex>Adj.</lex> <i>verstümmelt;</i> <lex>m.</lex> <i>ein verstümmelter Mensch, ein blosser Rumpf</i>. <ls>PAÑCAD. 17,4</ls>. Am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> आ."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रुण्ड",
+            "eid": "84931",
+            "pagenum": 6,
+            "content": "रुण्ड¦ <lex>adj.</lex> <i>verstümmelt</i>; <lex>m.</lex> <i>ein verstümmelter Mensch, ein blosser Rumpf</i> (कबन्ध) <ls>H. 565.</ls> <ls>HĀR. 137</ls> (neutr.). <ls>HALĀY. 3, 8.</ls> पृष्टः स रुण्डः पुरुषो ऽभ्यधात् । निकृत्तहस्तचरणो नद्यां क्षिप्तो ऽस्मि शत्रुभिः ॥ <ls>KATHĀS. 65, 11.</ls> तद्भार्या तेन रुण्डेन रेमे <ls n='KATHĀS.'>15. 41.</ls> तां सरुण्डाम् <ls n='KATHĀS.'>40.</ls> तां पृष्ठारूढरुण्डकाम् <ls n='KATHĀS.'>32.</ls> वेल्लद्भैरवभूरिरुण्डनिकरैः <ls>UTTARAR. 93, 12 (121, 6).</ls>"
+        }
     ]
 }

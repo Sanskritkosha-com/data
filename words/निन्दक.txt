@@ -31,5 +31,51 @@
             "pagenum": 182,
             "content": "<b>nindaka,</b>¦ <i><ab>a.</ab> <ab>subst.</ab></i> scoffer. [<b>√nid,</b> nind.]"
         }
+    ],
+    "MD": [
+        {
+            "word": "निन्दक",
+            "eid": "10593",
+            "pagenum": 141,
+            "content": "निन्दक¦ nind-aka, <lex>a.</lex> blaming; defaming; 🞄<lex>m.</lex> caviller, mocker, scorner, scoffer (<ab>gnly.</ab> <ab>—°</ab>); 🞄<b>-ana,</b> <lex>n.</lex> blame; abuse; <b>-ā́,</b> <lex>f.</lex> defamation; 🞄cavilling; abuse; censure, blame, condemnation; 🞄disgrace."
+        }
+    ],
+    "MW": [
+        {
+            "word": "निन्दक",
+            "eid": "108663",
+            "pagenum": 549,
+            "content": "निन्दक ¦ <lex>mfn.</lex> blaming, abusive, censorious<info lex='m:f:n'/>"
+        },
+        {
+            "word": "निन्दक",
+            "eid": "108664",
+            "pagenum": 549,
+            "content": "¦ (mostly <ab>ifc.</ab>) a blamer or scorner (<ab>cf.</ab> ब्राह्मण-, वेद-), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निन्दक",
+            "eid": "24702",
+            "pagenum": 488,
+            "content": "<i>Nindaka, as, ā, am,</i>¦ blaming, defaming, reproachful, abusive, scurrilous, censorious; one who ridicules or blames, a scorner."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निन्दक",
+            "eid": "58618",
+            "pagenum": 3,
+            "content": "निन्दक¦ <lex>Adj.</lex> <ab>Subst.</ab> <i>Spötter, Lästerer</i>. Gewöhnlich in <ab>Comp.</ab> mit dem Object."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निन्दक",
+            "eid": "38957",
+            "pagenum": 4,
+            "content": "नि/न्दक¦ (von निन्द्) <lex>adj.</lex> subst. <i>Spötter, Lästerer</i> <ls>P. 3, 2, 146.</ls> <ls>M. 2, 201.</ls> ब्राह्मण° <ls>MBH. 14, 1003.</ls> राज° <ls>RĀJA-TAR. 3, 156.</ls> वेद° <ls>M. 2, 11.</ls> <ls n='M.'>3, 161.</ls> <ls>MBH. 3, 13034.</ls> <ls n='MBH.'>13, 2195.</ls> वेदशास्त्रार्थ° <ls n='MBH.'>3, 1178.</ls>"
+        }
     ]
 }

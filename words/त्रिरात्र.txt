@@ -47,5 +47,65 @@
             "pagenum": 318,
             "content": "tri-rAtra¦ <i>n.</i> a period of three nights."
         }
+    ],
+    "MW": [
+        {
+            "word": "त्रिरात्र",
+            "eid": "88151",
+            "pagenum": 460,
+            "content": "त्रि—रात्र/ ¦ <lex>n.</lex> <ab>sg.</ab> 3 (nights or) days, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Kauś.</ls><info lex='n'/>"
+        },
+        {
+            "word": "त्रिरात्र",
+            "eid": "88152",
+            "pagenum": 460,
+            "content": "¦ (<ab>pl.</ab> <ls>MBh. iii, 82, 18</ls>)<info lex='inh'/>"
+        },
+        {
+            "word": "त्रिरात्र",
+            "eid": "88153",
+            "pagenum": 460,
+            "content": "त्रि—रात्र/ ¦ <lex>mfn.</lex> lasting (3 nights or) days, <ls>ŚBr. xiii</ls>; <ls>ŚāṅkhŚr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "त्रिरात्र",
+            "eid": "88154",
+            "pagenum": 460,
+            "content": "त्रि—रात्र/ ¦ <lex>m.</lex> a sacrificial performance of 3 days, <ls>TāṇḍyaBr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "त्रिरात्र",
+            "eid": "88155",
+            "pagenum": 460,
+            "content": "¦ <ab>cf.</ab> अश्व-, गर्ग-, बैद-<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "त्रिरात्र",
+            "eid": "47709",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> त्रिरात्र/¦ <lex>n.</lex> <ab>Sg.</ab> und <ab>Pl.</ab> (<ls>MBH. 3,82,18</ls>) <i>ein Zeitraum von drei Nächten</i> (Tagen). °त्रम् <i>drei Tage lang,</i> °त्रात् und °त्रेण <i>nach drei Tagen,</i> °त्रैस्त्रिभिः <i>nach neun Tagen</i>. °रात्रावरम् <i>wenigstens drei Tage</i> <ls>GAUT. 23,24</ls>."
+        },
+        {
+            "word": "त्रिरात्र",
+            "eid": "47710",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> त्रिरात्र/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>drei Tage dauernd</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>eine dreitägige Feier</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "त्रिरात्र",
+            "eid": "31099",
+            "pagenum": 3,
+            "content": "1. त्रिरात्र/¦ (त्रि + रात्रि) <lex>n.</lex> <i>ein Zeitraum von drei Nächten</i> <ab>d. i.</ab> <i>Tagen</i> <ls>ŚAT. BR. 4, 5, 8, 1.</ls> <ls n='ŚAT. BR.'>14, 9, 4, 12.</ls> <ls>KĀTY. ŚR. 25, 11, 16.</ls> <ls>KAUŚ. 139.</ls> °त्रम् adv. <i>drei Tage lang</i> <ls>KĀTY. ŚR. 4, 10, 16. 11, 3. 19, 1, 21.</ls> <ls>ĀŚV. GṚHY. 1, 8.</ls> त्रिरात्रमक्षारलवणाशिनः स्युः <ls n='ĀŚV. GṚHY.'>4, 4.</ls> <ls>M. 4, 119. 5, 76. 80. 81. 11, 132. 166.</ls> <ls>N. 9, 7. 10.</ls> <ls>R. GORR. 1, 170, 1.</ls> त्रिरात्रात् <i>nach drei Tagen</i> <ls>M. 5, 67. 71.</ls> त्रिरात्रेण dass. <ls n='M.'>88. 101.</ls> त्रिरात्रैरेव च त्रिभिः 64."
+        },
+        {
+            "word": "त्रिरात्र",
+            "eid": "31100",
+            "pagenum": 3,
+            "content": "2. त्रिरात्र/¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>drei Tage dauernd</i> <ls>ŚAT. BR. 13, 4, 1, 1.</ls> <ls>ŚĀṄKH. ŚR. 14, 8, 2. 16, 1, 2.</ls> <div n='1'>— 2) <lex>m.</lex> <i>eine dreitägige Feier</i> (vgl. त्र्यह)ः गर्ग° <ls>ŚĀṄKH. ŚR. 16, 22, 2.</ls> अश्व° <ls n='ŚĀṄKH. ŚR.'>3.</ls> <ls>LĀṬY. 2, 12, 6.</ls> वैद° <ls n='LĀṬY.'>2, 4. 7, 8.</ls> <ls>KĀTY. ŚR. 13, 4, 5.</ls> <ls>PAÑCAV. BR. 10, 5. 20, 14.</ls>"
+        }
     ]
 }

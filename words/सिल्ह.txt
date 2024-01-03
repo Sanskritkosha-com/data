@@ -28,5 +28,29 @@
             "pagenum": 497,
             "content": "*सिल्ह¦ <i>m.</i> Olibanum."
         }
+    ],
+    "MW": [
+        {
+            "word": "सिल्ह",
+            "eid": "244990",
+            "pagenum": 1218,
+            "content": "सिल्ह ¦ <lex>m.</lex> incense, olibanum, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सिल्ह",
+            "eid": "125462",
+            "pagenum": 7,
+            "content": "*सिल्ह¦ <lex>m.</lex> <i>Olibanum</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सिल्ह",
+            "eid": "109572",
+            "pagenum": 7,
+            "content": "सिल्ह¦ <lex>m.</lex> <i>Olibanum</i> <ls>H. 648.</ls> सिह्ल v. l. und <ls>AK. 2, 6, 3, 30.</ls> <ls>TRIK. 2, 6, 37.</ls>"
+        }
     ]
 }

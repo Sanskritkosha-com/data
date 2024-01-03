@@ -37,5 +37,83 @@
             "pagenum": 4,
             "content": "agni-muKa¦ <i>m.</i> 1. a deity; 2. a Brāhmaṇa."
         }
+    ],
+    "MD": [
+        {
+            "word": "अग्निमुख",
+            "eid": "279",
+            "pagenum": 3,
+            "content": "अग्निमुख¦ agni-mukha, <lex>m.</lex> Fire-mouth, <ab>N.</ab> <i>of 🞄a bug</i>; <b>-varṇa,</b> <lex>n.</lex> of the colour of fire; red-hot; 🞄<b>-velā,</b> <lex>f.</lex> time of <i>kindling</i> the sacred fire; 🞄afternoon; <b>-saraṇa,</b> <lex>n.</lex> sacred fireplace."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अग्निमुख",
+            "eid": "1030",
+            "pagenum": 5,
+            "content": "अग्नि/—मुख ¦ <lex>mfn.</lex> (अग्नि-) having <s1 slp1='agni'>Agni</s1> for the mouth, <ls>ŚBr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अग्निमुख",
+            "eid": "1030.1",
+            "pagenum": 5,
+            "content": "अग्नि/—मुख ¦ <lex>m.</lex> a deity, a <s1 slp1='brAhmaRa'>Brāhmaṇa</s1>, a tonic medicine, <ls>L.</ls> <pb n='5,3'/><info lex='m'/>"
+        },
+        {
+            "word": "अग्निमुख",
+            "eid": "1030.2",
+            "pagenum": 5,
+            "content": "¦ <bot>Semecarpus Anacardium</bot><info lex='inh'/>"
+        },
+        {
+            "word": "अग्निमुख",
+            "eid": "1030.3",
+            "pagenum": 5,
+            "content": "¦ <bot>Plumbago Zeylanica</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अग्निमुख",
+            "eid": "1030.4",
+            "pagenum": 5,
+            "content": "¦ <ab>N.</ab> of a bug, <ls>Pañcat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "अग्निमुख",
+            "eid": "97",
+            "pagenum": 1,
+            "content": "<i>Agnimukha</i>¦ — the name of an Asura who has his city in the third talam. <div n='P'/>Br. II. 20. 26."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्निमुख",
+            "eid": "606",
+            "pagenum": 1,
+            "content": "अग्निमुख¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 *<i>Gottheit</i>. <div n='2'>— b〉 *<i>ein Brahman</i>. <div n='2'>— c〉 *<i><bot>Plumbago zeylanica</bot></i>. <div n='2'>— d〉 *<i><bot>Semecarpus Anacardium</bot></i>. <div n='2'>— e〉 <ab>N. pr.</ab> einer Wanze. <div n='1'>— 2〉 *<lex>f.</lex> ई <div n='2'>— a〉 <i><bot>Semecarpus Anacardium</bot></i>. <div n='2'>— b〉 <i><bot>Methonica superba</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्निमुख",
+            "eid": "434",
+            "pagenum": 1,
+            "content": "अग्निमुख¦ (अग्नि + मुख) <div n='1'> 1) <lex>adj.</lex> <is>Agni</is> <i>zum Munde habend.</i> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Gottheit</i> <ls>H. an. 4, 42.</ls> <ls>MED. <is>kh</is>. 13.</ls> <div n='2'>— b) <i>ein Brahman</i> ebend. <div n='2'>— c) N. zweier Pflanzen: <div n='3'> α) <i>Plumbago zeylanica</i> <ls>H. an. 4, 42.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> <div n='3'>— β) <i>Semecarpus Anacardium</i> ebend. <div n='1'>— 3) <lex>f.</lex> °मुखी <div n='2'> a) <i>Semecarpus Anacardium</i> <ls>AK. 2, 4, 2, 23.</ls> <ls>MED. <is>kh</is>. 13.</ls> <div n='2'>— b) N. einer anderen Pflanze = लाङ्गलिकी <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "अग्निमुख",
+            "eid": "62610",
+            "pagenum": 5,
+            "content": "अग्निमुख¦ <div n='1'> 2) <div n='2'> d) N. pr. einer Wanze <ls>PAÑCAT. 61, 1.</ls> <div n='1'>— 3) <div n='2'> b) <ab>d. i.</ab> <i>Methonica superba</i> <ls>RATNAM. 38.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अग्निमुख",
+            "eid": "131",
+            "pagenum": 1,
+            "content": "अग्नि/मुख¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <is>Agni</is> <i>zum Munde habend</i> <ls>ŚAT. BR. 7,1,2,4</ls>. <ls n='ŚAT. BR.'>13,4,1,12</ls>."
+        }
     ]
 }

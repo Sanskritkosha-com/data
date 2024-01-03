@@ -27,5 +27,33 @@
             "pagenum": 437,
             "content": "2. शरवर्षिन्¦ (Wasser) regnend."
         }
+    ],
+    "MW": [
+        {
+            "word": "शरवर्षिन्",
+            "eid": "213530",
+            "pagenum": 1056,
+            "content": "शर—वर्षिन् ¦ <lex>mfn.</lex> raining or showering down <ab n='arrow'>ar°</ab>, <ls>Śiś.</ls>; <ls>Kathās.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शरवर्षिन्",
+            "eid": "213531",
+            "pagenum": 1056,
+            "content": "¦ discharging water, <ls>Śiś.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शरवर्षिन्",
+            "eid": "110624",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> शरवर्षिन्¦ <lex>Adj.</lex> <i>Pfeile regnend, — ausschüttend</i> <ls>KATHĀS. 48,80</ls>. <ls>ŚIŚ. 19,96</ls>."
+        },
+        {
+            "word": "शरवर्षिन्",
+            "eid": "110625",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> शरवर्षिन्¦ <lex>Adj.</lex> <i>Wasser regnend, — entsendend</i> <ls>ŚIŚ. 19,96</ls>."
+        }
     ]
 }

@@ -39,5 +39,49 @@
             "pagenum": 489,
             "content": "prAtiveSya¦ <i>m.</i> 1. A neighbour in general; 2. a next-door neighbour."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रातिवेश्य",
+            "eid": "139903",
+            "pagenum": 706,
+            "content": "प्राति—वेश्य ¦ <lex>mfn.</lex> (<ab>fr.</ab> -वेश) neighbouring, <ls>Hcar.</ls> (also <ab>ifc.</ab> <ls>Yājñ.</ls>)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "प्रातिवेश्य",
+            "eid": "139904",
+            "pagenum": 706,
+            "content": "प्राति—वेश्य ¦ <lex>m.</lex> an opposite neighbour, <ls>Mn. viii, 392</ls> (<ab>cf.</ab> आनुवेश्य)<info lex='m'/>"
+        },
+        {
+            "word": "प्रातिवेश्य",
+            "eid": "139905",
+            "pagenum": 706,
+            "content": "¦ any <ab n='neighbor'>n°</ab>, <ls>MBh.</ls>; <ls>Daś.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रातिवेश्य",
+            "eid": "33591",
+            "pagenum": 656,
+            "content": "<i>Prātiveśya, as,</i>¦ m. a neighbour who lives opposite, a next-door neighbour, (according to Kullūka <i>= ni-</i> <i>rantara-gṛha-vāsin</i>); a neighbour in general."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रातिवेश्य",
+            "eid": "74326",
+            "pagenum": 4,
+            "content": "प्रातिवेश्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>benachbart</i> <ls>HARṢAC. 196,14</ls>. <div n='1'>— 2〉 <lex>m.</lex> <i>ein Nachbar gegenüber, Nachbar</i> <ab>überh.</ab> ब्राह्मण° <i>ein benachbarter Brahmane</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रातिवेश्य",
+            "eid": "50717",
+            "pagenum": 4,
+            "content": "प्रातिवेश्य¦ (von प्रतिवेश) <lex>m.</lex> <i>ein Nachbar gegenüber, Nachbar</i> überh.: प्रातिवेश्यानुवेश्यौ <ls>M. 8, 392.</ls> <ls>MBH. 7, 2602.</ls> मत्प्रातिवेश्य <ls>DAŚAK.</ls> in <ls>BENF. Chr. 197, 11.</ls> ब्राह्मण° <i>ein benachbarter Brahman</i> <ls>YĀJÑ. 2, 263.</ls>"
+        }
     ]
 }

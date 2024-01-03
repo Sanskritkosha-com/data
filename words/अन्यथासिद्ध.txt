@@ -21,5 +21,35 @@
             "pagenum": 33,
             "content": "anyaTA-sidDa¦ <i>(II) n.</i> an unessential cause, a concomitant circumstance (in logic)."
         }
+    ],
+    "MW": [
+        {
+            "word": "अन्यथासिद्ध",
+            "eid": "8669",
+            "pagenum": 45,
+            "content": "अन्य-था—सिद्ध ¦ <lex>mfn.</lex> wrongly defined, wrongly proved or established<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अन्यथासिद्ध",
+            "eid": "8670",
+            "pagenum": 45,
+            "content": "¦ effected otherwise, unessential.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अन्यथासिद्ध",
+            "eid": "5648",
+            "pagenum": 1,
+            "content": "अन्यथासिद्ध¦ <lex>Adj.</lex> <i>falsch bewiesen</i>. Davon <ab>Nom. abstr.</ab> °त्व <lex>m.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अन्यथासिद्ध",
+            "eid": "3560",
+            "pagenum": 1,
+            "content": "अन्यथासिद्ध¦ (अन्यथा + सिद्ध) <lex>adj.</lex> <i>falsch erklärt, falsch bewiesen.</i> Mit diesem Ausdruck werden fünf mehr oder weniger entfernte Beziehungen zu einem Dinge, die mit dessen wirklicher Ursache verwechselt werden, belegt, <ls>BHĀṢĀP. 20.</ls> Davon nom. abstr. °त्व <ls>Sch.</ls> zu <ls n='BHĀṢĀP.'>18.</ls>"
+        }
     ]
 }

@@ -20,5 +20,35 @@
             "pagenum": 440,
             "content": "pIta-rakta¦ <i>n.</i> the topaz."
         }
+    ],
+    "MW": [
+        {
+            "word": "पीतरक्त",
+            "eid": "124807",
+            "pagenum": 629,
+            "content": "पीत—रक्त ¦ <lex>mfn.</lex> yellowish-red, orange (-च्छाय <lex type='phw'>mfn.</lex> orange-coloured), <ls>L.</ls><info phwchild='124808.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पीतरक्त",
+            "eid": "124808",
+            "pagenum": 629,
+            "content": "पीत—रक्त ¦ <lex>m.</lex> = next, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पीतरक्त",
+            "eid": "67350",
+            "pagenum": 4,
+            "content": "*पीतरक्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>gelbroth, orangefarbig</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Topas</i> <ls>RĀJAN. 13,171</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पीतरक्त",
+            "eid": "45518",
+            "pagenum": 4,
+            "content": "पीतरक्त¦ (2. पीत + रक्त) <div n='1'> 1) <lex>adj.</lex> <i>gelbroth, orangefarbig</i> <ls>H. 1396.</ls> <ls>HALĀY. 4, 52.</ls> °च्छाय <ls>H. 1241.</ls> <div n='1'>— 2) <i>Topas</i>, <lex>n.</lex> <ls>ŚKDR.</ls> u. <ls>WILS.</ls> nach <ls>RĀJAN.</ls>, aber unter पुष्पराग im <ls>ŚKDR.</ls> nach derselben Aut. masc."
+        }
     ]
 }

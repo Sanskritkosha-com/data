@@ -80,5 +80,81 @@
             "pagenum": 213,
             "content": "kOSa¦ <i>a. (f. शी)</i> 1. Silken; 2. made of <i>Kuśa</i> grass."
         }
+    ],
+    "MD": [
+        {
+            "word": "कौश",
+            "eid": "6401",
+            "pagenum": 75,
+            "content": "कौश¦ kauśa, <lex>a.</lex> <hom>1.</hom> silken (coming from the 🞄cocoon: kośa); <hom>2.</hom> <b>á,</b> (<b>ī</b>) made of Kuśa grass."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कौश",
+            "eid": "57409",
+            "pagenum": 317,
+            "content": "<hom>1.</hom> कौश/ ¦ <lex>mf(ई)n.</lex> made of <s1 slp1='kuSa'>Kuśa</s1> grass, <ls>ŚBr. v</ls>; <ls>KātyŚr.</ls>; <ls>ŚāṅkhŚr.</ls>; <ls>MBh.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "कौश",
+            "eid": "57410",
+            "pagenum": 317,
+            "content": "कौश/ ¦ (अस्), <lex>m.</lex> = कुश-द्वीप, <ls>VP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कौश",
+            "eid": "57411",
+            "pagenum": 317,
+            "content": "कौश/ ¦ (अम्), <lex>n.</lex> (<ab>scil.</ab> नगर) ‘the town of <s1 slp1='kuSa'>Kuśa</s1>’, <ab>N.</ab> of <s1 slp1='kAnyakubja'>Kānyakubja</s1>, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "कौश",
+            "eid": "57424",
+            "pagenum": 317,
+            "content": "<hom>2.</hom> कौश ¦ <lex>mfn.</lex> (<ab>fr.</ab> को/श), silken, <ls>BhP. iii, 4, 7</ls>; <ls>Buddh.</ls>; <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कौश",
+            "eid": "16070",
+            "pagenum": 258,
+            "content": "कौश 1¦. <i>kauśa, as, ī, am</i> (fr. <i>kuśa</i>), made of Kuśa grass; (<i>am</i>), n., scil. <i>nagara,</i> the town of Kuśa, an epithet of Kānyakubja. <i>—Kauśāmbhas</i> <i>(°śa-am°), as,</i> n. Kuśa grass boiled in water."
+        },
+        {
+            "word": "कौश",
+            "eid": "16072",
+            "pagenum": 258,
+            "content": "कौश 2¦. <i>kauśa, as, ī, am</i> (fr. <i>kośa</i>), silken, silk."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कौश",
+            "eid": "31526",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> कौश/¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <i>aus</i> <is>Kuśa</is>-<i>Gras gemacht</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 = कुशद्वीप <ls>VP.² 2,110</ls>. <div n='2'>— b〉 *<is>Kuśa</is>ʼs <i>Stadt,</i> <ab>d. i.</ab> <is>Kānyakubja</is>."
+        },
+        {
+            "word": "कौश",
+            "eid": "31527",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> कौश¦ <lex>Adj.</lex> <i>seiden</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कौश",
+            "eid": "19636",
+            "pagenum": 2,
+            "content": "1. कौश/¦ (von कुश) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <i>aus</i> <is>Kuśa</is>-<i>Gras gemacht</i>: वासस् <ls>ŚAT. BR. 5, 2, 1, 8.</ls> <ls>KĀTY. ŚR. 14, 5, 3.</ls> बर्हिस् <ls n='KĀTY. ŚR.'>1, 3, 12.</ls> रशना <ls n='KĀTY. ŚR.'>6, 3, 15.</ls> <ls>ŚĀṄKH. ŚR. 16, 12, 19.</ls> वृषी <ls>SĀV. 3, 4.</ls> <ls>MBH. 3, 10036.</ls> <ls n='MBH.'>13, 2845.</ls> शयन <ls n='MBH. 13,'>1409.</ls> कौशाम्भस् <i>mit</i> <is>Kuśa</is> <i>aufgekochtes Wasser</i> <ls>DEV. 11, 12.</ls> <div n='1'>— 2) <lex>n.</lex> (sc. नगर) <is>Kuśa's</is> <i>Stadt</i>, ein Bein. von <is>Kānyakubja</is> <ls>H. 974.</ls> Vgl. कुशस्थल ."
+        },
+        {
+            "word": "कौश",
+            "eid": "19637",
+            "pagenum": 2,
+            "content": "2. कौश¦ (von कोश) <lex>adj.</lex> <i>seiden</i> <ls>VYUTP. 193.</ls> पीतकौशाम्बर <ls>BHĀG. P. 3, 4, 7.</ls>"
+        }
     ]
 }

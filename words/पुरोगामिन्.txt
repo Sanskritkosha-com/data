@@ -39,5 +39,35 @@
             "pagenum": 444,
             "content": "purogAmin¦ <i>(II) m.</i> a dog."
         }
+    ],
+    "MW": [
+        {
+            "word": "पुरोगामिन्",
+            "eid": "126049",
+            "pagenum": 635,
+            "content": "पुरो—गामिन् ¦ <lex>mfn.</lex> going before, preceding<info lex='m:f:n'/>"
+        },
+        {
+            "word": "पुरोगामिन्",
+            "eid": "126050",
+            "pagenum": 635,
+            "content": "पुरो—गामिन् ¦ <lex>m.</lex> a leader or a dog, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पुरोगामिन्",
+            "eid": "68365",
+            "pagenum": 4,
+            "content": "*पुरोगामिन्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>vorangehend;</i> <lex>m.</lex> <i>Führer</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Hund</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पुरोगामिन्",
+            "eid": "46256",
+            "pagenum": 4,
+            "content": "पुरोगामिन्¦ (पुरस् + गा°) <div n='1'> 1) <lex>adj.</lex> subst. <i>vorangehend, Führer</i> <ls>AK. 2, 8, 2, 40.</ls> <ls>H. 498.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Hund</i> (vgl. पुरोगति) <ls>H. ś. 181.</ls>"
+        }
     ]
 }

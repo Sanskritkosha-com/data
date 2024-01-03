@@ -28,5 +28,35 @@
             "pagenum": 620,
             "content": "labDa-varRa¦ <i>a.</i> 1. learned, wise; 2. famous, celebrated."
         }
+    ],
+    "MW": [
+        {
+            "word": "लब्धवर्ण",
+            "eid": "181394",
+            "pagenum": 896,
+            "content": "लब्ध—वर्ण ¦ <lex>mfn.</lex> one who has gained a knowledge of letters, lettered, learned in (<ab>comp.</ab>), <ls>Ragh.</ls>; <ls>Pārśvan.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "लब्धवर्ण",
+            "eid": "181395",
+            "pagenum": 896,
+            "content": "¦ famous, renowned, <ls>Mṛcch.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "लब्धवर्ण",
+            "eid": "95744",
+            "pagenum": 5,
+            "content": "लब्धवर्ण¦ <lex>Adj.</lex> <i>unterrichtet, gelehrt, — in</i> (im <ab>Comp.</ab> vorangehend)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लब्धवर्ण",
+            "eid": "85991",
+            "pagenum": 6,
+            "content": "लब्धवर्ण¦ <lex>adj.</lex> (<i>der die Buchstaben erlernt hat</i>; vgl. <lang n='russian'>грамотный</lang>, <lang n='russian'>грамотѣй</lang>) <i>unterrichtet, gelehrt</i> <ls>AK. 2, 7, 5.</ls> <ls>H. 341.</ls> <ls>HALĀY. 2, 177.</ls> <ls>RAGH. 11, 2.</ls> सुभाषित° <ls>PĀRŚVANĀTHAK. 5, 47</ls> (nach <ls>AUFRECHT</ls>)."
+        }
     ]
 }

@@ -58,5 +58,61 @@
             "pagenum": 549,
             "content": "maDUka¦ <i>(II) n.</i> A flower of the <i>Madhūka</i> tree, विस्रंसिदूर्वांकमधूकमाला <ls>R.</ls>vi.25, स्निग्धो मधूकच्छविर्गण्डः <ls>Git.G.</ls>x., <ls>K.S.</ls>viii.14."
         }
+    ],
+    "MD": [
+        {
+            "word": "मधूक",
+            "eid": "13650",
+            "pagenum": 215,
+            "content": "मधूक¦ madhū-ka, <lex>m.</lex> bee; <i>a tree</i> (<bot>Bassia latifolia</bot>); 🞄<lex>n.</lex> <i>its flower</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मधूक",
+            "eid": "156281",
+            "pagenum": 781,
+            "content": "मधूक ¦ <lex>m.</lex> (<ab>fr.</ab> मधु) a bee, <ls>ŚāṅkhGṛ.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मधूक",
+            "eid": "156282",
+            "pagenum": 781,
+            "content": "¦ <bot>Bassia Latifolia</bot> (from the blossoms and seeds of which arrac is distilled and oil extracted), <ls>ib.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "मधूक",
+            "eid": "156283",
+            "pagenum": 781,
+            "content": "मधूक ¦ <lex>n.</lex> the blossoms or fruit of <ab n='Bassia'>B°</ab> <ab n='Latifolia'>L°</ab>, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "मधूक",
+            "eid": "156284",
+            "pagenum": 781,
+            "content": "¦ liquorice, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मधूक",
+            "eid": "156285",
+            "pagenum": 781,
+            "content": "¦ bees-wax, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मधूक",
+            "eid": "36313",
+            "pagenum": 738,
+            "content": "<i>Madhūka</i>¦ (fr. <i>madhu</i>), <i>as,</i> m. a bee; Bassia Latifolia (all the parts of which tree are useful, arrack being distilled from the blossoms and oil extracted from the seeds); (<i>am</i>), n. liquorice; the flower of the Bassia Latifolia."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मधूक",
+            "eid": "82587",
+            "pagenum": 5,
+            "content": "मधूक¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>Biene</i>. <div n='2'>— b〉 <i><bot>Bassia latifolia</bot></i> <ls>RĀJAN. 11,92. 96</ls>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>die Blüthe der <bot>Bassia latifolia</bot></i>. <div n='2'>— b〉 *<i>die Frucht der <bot n='Bassia latifolia'>B. l.</bot></i> <ls>RĀJAN. 13,75</ls>."
+        }
     ]
 }

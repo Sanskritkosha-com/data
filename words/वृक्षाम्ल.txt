@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "स्यात्तिन्तिडीकं तु चुक्रं वृक्षाम्लं चाम्लवेतसे ॥ ४१७ ॥"
         }
+    ],
+    "MW": [
+        {
+            "word": "वृक्षाम्ल",
+            "eid": "204280",
+            "pagenum": 1008,
+            "content": "vfkzA<srs/>mla ¦ <lex>m.</lex> the hog-plum, <bot>Spondias Mangifera</bot><info lex='m'/>"
+        },
+        {
+            "word": "वृक्षाम्ल",
+            "eid": "204281",
+            "pagenum": 1008,
+            "content": "vfkzA<srs/>mla ¦ <lex>n.</lex> the fruit of the tamarind used as an acid seasoning, <ls>Car.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वृक्षाम्ल",
+            "eid": "106327",
+            "pagenum": 6,
+            "content": "वृक्षाम्ल¦ <lex>m.</lex> <i><bot>Spondias mangifera</bot>;</i> <lex>n.</lex> <i>die Frucht</i>. <ls>CARAKA. 1,4</ls>. nach dem <ab>Comm.</ab> = महार्द्रक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वृक्षाम्ल",
+            "eid": "94718",
+            "pagenum": 6,
+            "content": "वृक्षाम्ल¦ (वृक्ष + अम्ल) <lex>m.</lex> <i>Spondias mangifera</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <lex>n.</lex> <i>die Frucht</i> <ls>AK. 2, 9, 35.</ls> <ls>H. 417.</ls> <ls>HARIV. 8440.</ls> <ls>SUŚR. 2, 453, 7.</ls> <ls>VĀGBH. 6, 130.</ls>"
+        }
     ]
 }

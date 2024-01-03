@@ -29,5 +29,49 @@
             "pagenum": 694,
             "content": "vEdyaka¦ <i>(II) n.</i> The science of medicine."
         }
+    ],
+    "MW": [
+        {
+            "word": "वैद्यक",
+            "eid": "207155",
+            "pagenum": 1022,
+            "content": "वैद्यक ¦ <lex>mfn.</lex> medical, <ls>MW.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वैद्यक",
+            "eid": "207156",
+            "pagenum": 1022,
+            "content": "वैद्यक ¦ <lex>m.</lex> a physician, <ls>Śṛṅgār.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वैद्यक",
+            "eid": "207157",
+            "pagenum": 1022,
+            "content": "वैद्यक ¦ <lex>n.</lex> the science of medicine, <ls>Suśr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वैद्यक",
+            "eid": "45052",
+            "pagenum": 969,
+            "content": "<i>Vaidyaka, as, ī, am,</i>¦ medical, relating to medicine; (<i>as</i>), m. a doctor, physician, medical man; (<i>am</i>), n. the science of medicine, the Āyur-veda, q. v. <i>—Vaidyaka-śāstra, am,</i> n. the science of medicine. <i>—Vaidyaka-sarva-sva, am,</i> n., N. of a work by Nakula."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैद्यक",
+            "eid": "107689",
+            "pagenum": 6,
+            "content": "वैद्यक¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Arzt</i>. <div n='1'>— 2〉 <lex>n.</lex>, <i>Heilkunde</i> <ls>RĀJAN. 13,221</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैद्यक",
+            "eid": "95754",
+            "pagenum": 6,
+            "content": "वैद्यक¦ (von वैद्य) <div n='1'> 1) <lex>m.</lex> <i>Arzt</i> <ls>Spr. (II) 1992.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Heilkunde</i> <ls>ŚKDR.</ls> <ls>SUŚR. 1, 311, 20.</ls>"
+        }
     ]
 }

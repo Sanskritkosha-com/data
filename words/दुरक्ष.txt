@@ -29,5 +29,47 @@
             "pagenum": 335,
             "content": "dur-akza¦ <i>(II) a.</i> weak-eyed."
         }
+    ],
+    "MW": [
+        {
+            "word": "दुरक्ष",
+            "eid": "93631",
+            "pagenum": 484,
+            "content": "दुर्—अक्ष ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>2.</hom> अक्ष) a bad or fraudulent die, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दुरक्ष",
+            "eid": "93632",
+            "pagenum": 484,
+            "content": "दुर्—अक्ष/ ¦ (°ष/), <lex>mf(ई)n.</lex> (<ab>fr.</ab> <hom>4.</hom> अक्ष) weak-eyed, <ls>ŚBr.</ls><info lex='m:f#I:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दुरक्ष",
+            "eid": "50902",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> *दुरक्ष¦ <lex>m.</lex> <i>ein böser, betrügerischer Würfel</i>."
+        },
+        {
+            "word": "दुरक्ष",
+            "eid": "50903",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> दुरक्ष/¦ <lex>Adj.</lex> <i>schwach auf den Augen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दुरक्ष",
+            "eid": "33412",
+            "pagenum": 3,
+            "content": "1. दुरक्ष¦ (2. दुप् + 1. अक्ष) <lex>m.</lex> <i>ein böser, betrügerischer Würfel</i> <ls>WILS.</ls> (hier n.)."
+        },
+        {
+            "word": "दुरक्ष",
+            "eid": "33413",
+            "pagenum": 3,
+            "content": "2. दुरक्ष/¦ (2. दुष् + 2. अक्ष) <lex>adj.</lex> <i>schwach auf den Augen</i> <ls>ŚAT. BR. 3, 1, 3, 10.</ls> अश्वः शुक्लो दुरक्षो भावुकः <ls n='ŚAT. BR.'>7, 3, 2, 14.</ls>"
+        }
     ]
 }

@@ -27,5 +27,81 @@
             "pagenum": 130,
             "content": "udAsa¦ <i>(II) m.</i> 1. A stoic, a philosopher; 2. indifference, apathy."
         }
+    ],
+    "MW": [
+        {
+            "word": "उदास",
+            "eid": "32439",
+            "pagenum": 185,
+            "content": "<hom>1.</hom> उद्-आस ¦ <lex>m.</lex> (for <hom>2.</hom> See <ab>col.</ab> 3) throwing out<info lex='m'/>"
+        },
+        {
+            "word": "उदास",
+            "eid": "32439.1",
+            "pagenum": 185,
+            "content": "¦ extending, protracting, <ls>TāṇḍyaBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "उदास",
+            "eid": "32439.2",
+            "pagenum": 185,
+            "content": "¦ casting out<info lex='inh'/>"
+        },
+        {
+            "word": "उदास",
+            "eid": "32439.3",
+            "pagenum": 185,
+            "content": "¦ (with गर्भस्य) abortion, <ls>VarBṛS. 51, 38.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "उदास",
+            "eid": "32549",
+            "pagenum": 185,
+            "content": "<hom>2.</hom> उद्-आस ¦ (for <hom>1.</hom> See उद्- <hom>2.</hom> अस्) <lex>m.</lex> indifference, apathy, stoicism, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उदास",
+            "eid": "10727",
+            "pagenum": 154,
+            "content": "1. <i>ud-āsa, as,</i>¦ m. throwing or directing upwards, elevation."
+        },
+        {
+            "word": "उदास",
+            "eid": "10755",
+            "pagenum": 154,
+            "content": "2. <i>ud-āsa, as, ā, am</i>¦ (for 1. see under <i>ud-as</i>), indifferent, unconcerned, apathetic; (<i>as</i>), m. a stoic, a philosopher; indifference, apathy, stoicism."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उदास",
+            "eid": "18866",
+            "pagenum": 1,
+            "content": "उदास¦ <lex>m.</lex> <i>das Auswerfen, Ausstossung</i> <ls>TĀṆḌYA-BR. 11,5,19</ls>. गर्भस्य <i>Fehlgeburt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उदास",
+            "eid": "67884",
+            "pagenum": 5,
+            "content": "उदास¦ (von 2. अस् mit उद्) <lex>m.</lex> <i>das Auswerfen</i>: गर्भस्य <i>Fehlgeburt</i> <ls>VARĀH. BṚH. S. 51, 38.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "उदास",
+            "eid": "4206",
+            "pagenum": 3,
+            "content": "उदास¦ an der angeführten Stelle <i>ein hinausgezogener Ton</i>."
+        },
+        {
+            "word": "उदास",
+            "eid": "14915",
+            "pagenum": 7,
+            "content": "उदास¦ I. 3."
+        }
     ]
 }

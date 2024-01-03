@@ -23,5 +23,35 @@
             "pagenum": 342,
             "content": "deva-aSva¦ <i>m.</i> an epithet of उच्चैःश्रवस्, the horse of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवाश्व",
+            "eid": "96261",
+            "pagenum": 495,
+            "content": "devA<srs/>Sva ¦ <lex>m.</lex> divine horse, <ls>ŚāṅkhBr. v, 2</ls><info lex='m'/>"
+        },
+        {
+            "word": "देवाश्व",
+            "eid": "96262",
+            "pagenum": 495,
+            "content": "¦ <s1 slp1='indra'>Indra</s1>'s horse <s1 slp1='uccEH-Sravas'>Uccaiḥ-śravas</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवाश्व",
+            "eid": "52659",
+            "pagenum": 3,
+            "content": "देवाश्व¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Götterross</i>. <div n='1'>— 2〉 *<is>Indra</is>ʼs <i>Ross</i> <is>Uccaiḥśravas</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवाश्व",
+            "eid": "34778",
+            "pagenum": 3,
+            "content": "देवाश्व¦ (देव + अश्व) <lex>m.</lex> <i>Götterpferd</i>: देवाश्वा वै वाजिनः <ls>ŚĀṄKH. BR. 5, 2.</ls> <is>Indra's</is> <i>Pferd</i> <is>Uccaiḥśravas</is> <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

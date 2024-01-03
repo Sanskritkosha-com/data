@@ -15,5 +15,53 @@
             "pagenum": 719,
             "content": "SilA-awaka¦ <i>m.</i> 1. a fence, an enclosure; 2. a hole; 3. a room on the top of a house."
         }
+    ],
+    "MW": [
+        {
+            "word": "शिलाटक",
+            "eid": "217301",
+            "pagenum": 1073,
+            "content": "SilA<srs/>°waka ¦ (°lA<srs/>w°), <lex>m.</lex> = अट्ट, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शिलाटक",
+            "eid": "217301.1",
+            "pagenum": 1073,
+            "content": "¦ = तिल, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शिलाटक",
+            "eid": "217301.2",
+            "pagenum": 1073,
+            "content": "¦ = विलेप, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शिलाटक",
+            "eid": "217301.3",
+            "pagenum": 1073,
+            "content": "¦ = बिल (?), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शिलाटक",
+            "eid": "217301.4",
+            "pagenum": 1073,
+            "content": "¦ a fence, enclosure, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शिलाटक",
+            "eid": "112449",
+            "pagenum": 6,
+            "content": "*शिलाटक¦ <lex>m.</lex> = अट्ट, तिल (<ls>H. an.</ls> nach <ls>ZACH. Beitr. 90</ls>), विलेप, बिल (?)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शिलाटक",
+            "eid": "99524",
+            "pagenum": 7,
+            "content": "शिलाटक¦ <lex>m.</lex> = अट्ट <ls>TRIK. 3, 3, 46.</ls> <ls>H. an. 4, 37.</ls> <ls>MED. k. 217.</ls> = विलेप <ls>TRIK.</ls> <ls>MED.</ls> <i>Höhle</i> <ls>ŚKDR.</ls> und <ls>WILSON</ls> nach <ls>MED.</ls>, indem sie hier wahrscheinlich विले ऽपि st. विलेपे gelesen haben. Der gedruckte Text in <ls>TRIK.</ls> hat विले वेष्टे (daher <i>a fence, an enclosure</i> bei <ls>WILSON</ls>), was aber nach den Corrigg. in विलेपेट्टे, <ab>d. i.</ab> विलेपे ऽट्टे zu verbessern ist."
+        }
     ]
 }

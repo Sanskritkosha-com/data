@@ -23,5 +23,27 @@
             "pagenum": 240,
             "content": "gATikA¦ <i>f.</i> A song, a verse, <ls>Yaj.</ls>i.45."
         }
+    ],
+    "MW": [
+        {
+            "word": "गाथिका",
+            "eid": "64570",
+            "pagenum": 352,
+            "content": "गाथिका <hom>a</hom> ¦ <lex>f.</lex> an epic song, <ls>Yājñ. i, 45</ls>; <ls>MBh. iii, 85, 30</ls>; <ls>Ratnāv. ii, 5/6.</ls><info lex='f'/>"
+        },
+        {
+            "word": "गाथिका",
+            "eid": "64580",
+            "pagenum": 352,
+            "content": "गाथिका <hom>b</hom> ¦ <lex>f.</lex> of °थक, <ab>q.v.</ab><info lex='f'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गाथिका",
+            "eid": "22237",
+            "pagenum": 2,
+            "content": "गाथिका¦ (von गाथा) <lex>f.</lex> <i>Gesang, Lied</i>: नाराशंसीश्च गाथिकाः <ls>YĀJÑ. 1, 45.</ls>"
+        }
     ]
 }

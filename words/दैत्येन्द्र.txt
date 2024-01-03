@@ -77,5 +77,29 @@
             "pagenum": 228,
             "content": "<b>Daityendra</b><sup>10</sup>,¦ dual (<i>°au</i>) = Sunda and Upasunda: I, 7641, 7645."
         }
+    ],
+    "MW": [
+        {
+            "word": "दैत्येन्द्र",
+            "eid": "96762",
+            "pagenum": 497,
+            "content": "dEtye<srs/>ndra ¦ <lex>m.</lex> ‘<ab n='Daitya' slp1='dEtya'>D°</ab>s-prince’, <ab>N.</ab> of <s1 slp1='pAtAla'>Pātāla</s1>-ketu, <ls>Prab. iii, 4</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दैत्येन्द्र",
+            "eid": "52856",
+            "pagenum": 3,
+            "content": "दैत्येन्द्र¦ <lex>m.</lex> <i>Fürst der</i> <is>Daitya</is>; <ab>insbes.</ab> <ab>Bein.</ab> <is>Pātālaketu</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दैत्येन्द्र",
+            "eid": "34907",
+            "pagenum": 3,
+            "content": "दैत्येन्द्र¦ (दैत्य + इन्द्र) <lex>m.</lex> <i>ein Fürst der</i> <is>Daitya</is>, Bein. <is>Pātālaketu's</is> <ls>PRAB. 45, 4.</ls> दैत्येन्द्रपूज्य <lex>m.</lex> <i>der von den Fürsten der</i> <ab n='?'>D.</ab> <i>zu Ehrende</i>, Bein. <is>Śukra's</is>, <i>der Planet Venus</i> <ls>VARĀH. BṚH. S. 98, 15.</ls>"
+        }
     ]
 }

@@ -23,5 +23,37 @@
             "pagenum": 35,
             "content": "apa-DUma¦ <i>a.</i> free from smoke."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपधूम",
+            "eid": "9265",
+            "pagenum": 49,
+            "content": "अप-धूम ¦ <lex>mfn.</lex> free from smoke, <ls>Ragh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपधूम",
+            "eid": "3269",
+            "pagenum": 50,
+            "content": "अपधूम¦ <i>apa-dhūma, as, ā, am,</i> free from smoke."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपधूम",
+            "eid": "5958",
+            "pagenum": 1,
+            "content": "अपधूम¦ <lex>Adj.</lex> <i>rauchlos</i>. Davon <ab>Nom. abstr.</ab> °त्व <lex>n.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपधूम",
+            "eid": "3775",
+            "pagenum": 1,
+            "content": "अपधूम¦ (1. अप + धूम) <lex>adj.</lex> <i>frei von Rauch</i>; davon nom. abstr. °मत्व <ls>RAGH. 10, 75.</ls>"
+        }
     ]
 }

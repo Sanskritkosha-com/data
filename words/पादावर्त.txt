@@ -28,5 +28,35 @@
             "pagenum": 430,
             "content": "pAda-Avarta¦ <i>m.</i> a wheel worked by the feet for raising up water."
         }
+    ],
+    "MW": [
+        {
+            "word": "पादावर्त",
+            "eid": "122064",
+            "pagenum": 618,
+            "content": "pAdA<srs/>varta ¦ <lex>m.</lex> a wheel worked by the <ab n='foot'>f°</ab> for raising water from a well, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पादावर्त",
+            "eid": "122065",
+            "pagenum": 618,
+            "content": "¦ a square foot, <ls>KātyŚr.</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पादावर्त",
+            "eid": "65951",
+            "pagenum": 4,
+            "content": "पादावर्त¦ <lex>m.</lex> <div n='1'>— 1〉 *<i>Tretrad zum Heraufziehen des Wassers</i>. <div n='1'>— 2〉 <i>Quadratfuss</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पादावर्त",
+            "eid": "44424",
+            "pagenum": 4,
+            "content": "पादावर्त¦ (पाद + आवर्त) <lex>m.</lex> <div n='1'> 1) <i>Tretrad zum Heraufziehen des Wassers</i> <ls>H. 1093.</ls> <ls>HALĀY. 3, 63.</ls> <div n='1'>— 2) <i>Quadratfuss</i> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 948, 8.</ls>"
+        }
     ]
 }

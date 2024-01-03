@@ -23,5 +23,49 @@
             "pagenum": 118,
             "content": "iraRa¦ <i>n.</i> 1. A desert; 2. saline soil."
         }
+    ],
+    "MW": [
+        {
+            "word": "इरण",
+            "eid": "29345",
+            "pagenum": 168,
+            "content": "इरण ¦ <lex>n.</lex> desert<info lex='n'/>"
+        },
+        {
+            "word": "इरण",
+            "eid": "29345.1",
+            "pagenum": 168,
+            "content": "¦ salt or barren (soil)<info lex='inh'/>"
+        },
+        {
+            "word": "इरण",
+            "eid": "29345.2",
+            "pagenum": 168,
+            "content": "¦ = इरिण, <ab>q.v.</ab>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "इरण",
+            "eid": "9955",
+            "pagenum": 141,
+            "content": "इरण¦ <i>iraṇa,</i> desert; salt or barren (soil); <i>= iriṇa,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "इरण",
+            "eid": "17214",
+            "pagenum": 1,
+            "content": "*इरण¦ <lex>n.</lex> <i>salzhaltiges Land</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इरण",
+            "eid": "10316",
+            "pagenum": 1,
+            "content": "इरण¦ = इरिण, ईरिण, ईरण <ls>RAMĀN.</ls> zu <ls>AK. 3, 4, 59.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

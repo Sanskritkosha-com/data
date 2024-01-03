@@ -7,5 +7,47 @@
             "pagenum": 352,
             "content": "Dana-mUla¦ <i>n.</i> principal, capital."
         }
+    ],
+    "MW": [
+        {
+            "word": "धनमूल",
+            "eid": "99365",
+            "pagenum": 508,
+            "content": "धन—मूल ¦ <lex>n.</lex> principal, capital, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "धनमूल",
+            "eid": "99366",
+            "pagenum": 508,
+            "content": "धन—मूल ¦ <lex>mfn.</lex> proceeding from or founded on wealth, <ls>Hit.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धनमूल",
+            "eid": "54406",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> *धनमूल¦ <lex>n.</lex> <i>Kapital</i>."
+        },
+        {
+            "word": "धनमूल",
+            "eid": "54407",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> धनमूल¦ <lex>Adj.</lex> <i>im Reichthum wurzelnd, aus dem <ab n='Reichthum'>R.</ab> hervorgehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धनमूल",
+            "eid": "36041",
+            "pagenum": 3,
+            "content": "1. धनमूल¦ (धन + मूल) <lex>n.</lex> <i>Kapital</i> <ls>WILS.</ls>"
+        },
+        {
+            "word": "धनमूल",
+            "eid": "36042",
+            "pagenum": 3,
+            "content": "2. धनमूल¦ (wie eben) <lex>adj.</lex> <i>im Reichthum wurzelnd, aus dem Reichthum hervorgehend</i> <ls>HIT. I, 115.</ls>"
+        }
     ]
 }

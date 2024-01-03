@@ -20,5 +20,35 @@
             "pagenum": 580,
             "content": "mUtra-kfcCra¦ <i>n.</i> painful discharge of urine."
         }
+    ],
+    "MW": [
+        {
+            "word": "मूत्रकृच्छ्र",
+            "eid": "166203",
+            "pagenum": 825,
+            "content": "मूत्र—कृच्छ्र ¦ <lex>m.</lex> <lex type='hw'>n.</lex> painful discharge of <ab n='urine'>u°</ab>, strangury (°रिन् <lex type='phw'>mfn.</lex> suffering from a painful discharge of urine), <ls>Suśr.</ls><info phwchild='166204.1'/><info lex='m:n'/>"
+        },
+        {
+            "word": "मूत्रकृच्छ्र",
+            "eid": "166204",
+            "pagenum": 825,
+            "content": "¦ a class of urinary affections (of which 8 kinds are enumerated), <ls>ŚārṅgS.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मूत्रकृच्छ्र",
+            "eid": "87825",
+            "pagenum": 5,
+            "content": "मूत्रकृच्छ्र¦ <lex>m.</lex> <lex>n.</lex> <div n='1'>— 1〉 <i>Strangurie</i> <ls>HEMĀDRI 1,613,18. fgg.</ls> <div n='1'>— 2〉 <i>eine Klasse von Harnkrankheiten</i> (in acht Formen). <ab>Pl.</ab> <ls>AGNI-P. 31,22</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मूत्रकृच्छ्र",
+            "eid": "61219",
+            "pagenum": 5,
+            "content": "मूत्रकृच्छ्र¦ (मूत्र + कृ°) <lex>n.</lex> <i>Strangurie</i> <ls>AK. 2, 6, 2, 7.</ls> <ls>H. 470.</ls> <ls>SUŚR. 1, 138, 2. 261, 19. 263, 9. 2, 526, 2.</ls> <i>eine Klasse von Harnkrankheiten</i> (acht Formen) <ls>ŚĀRṄG. SAṂH. 1,7,41.</ls> <ls>Verz. d. Oxf. H. 313,b,13. 316,b,1. 357,a, No. 849. fg.</ls> <ls>Verz. d. B. H. No. 949. 975.</ls> Davon <lex>adj.</lex> °कृच्छ्रिन् <i>mit der Strangurie behaftet</i> <ls>SUŚR. 2, 526, 3.</ls>"
+        }
     ]
 }

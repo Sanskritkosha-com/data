@@ -25,5 +25,29 @@
             "pagenum": 1,
             "content": "कण्टकोद्धार¦ <i>read</i> Oppert 5500."
         }
+    ],
+    "MW": [
+        {
+            "word": "कण्टकोद्धार",
+            "eid": "42432",
+            "pagenum": 245,
+            "content": "kaRwako<srs/>dDAra ¦ <lex>m.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कण्टकोद्धार",
+            "eid": "23651",
+            "pagenum": 2,
+            "content": "कण्टकोद्धार¦ <lex>m.</lex> Titel eines Werkes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कण्टकोद्धार",
+            "eid": "69437",
+            "pagenum": 5,
+            "content": "कण्टकोद्धार¦ (कण्टक + उ°) <lex>m.</lex> Titel eines Buches <ls>HALL 203.</ls>"
+        }
     ]
 }

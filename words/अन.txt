@@ -103,5 +103,87 @@
             "pagenum": 115,
             "content": "<b>aná,</b>¦ <i><ab>pron.</ab> stem, see</i> idam."
         }
+    ],
+    "MD": [
+        {
+            "word": "अन",
+            "eid": "1154",
+            "pagenum": 11,
+            "content": "अन¦ <hom>1.</hom> an-á, <lex>m.</lex> breath."
+        },
+        {
+            "word": "अन",
+            "eid": "1155",
+            "pagenum": 11,
+            "content": "अन¦ <hom>2.</hom> ana, <lex>prn.</lex> <i>of 3rd</i> <ab>prs.</ab> this (<i>in</i> anena, 🞄anayā, anayoḥ)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अन",
+            "eid": "4781.1",
+            "pagenum": 24,
+            "content": "<hom>1.</hom> अन्-, occasionally अन-, ¦ (before a vowel) the substitute for <hom>3.</hom> अ, or अ privative.<info or='4781,an;4781.1,ana'/>"
+        },
+        {
+            "word": "अन",
+            "eid": "4783",
+            "pagenum": 24,
+            "content": "अन/ <hom>b</hom> ¦ <lex>m.</lex> breath, respiration, <ls>ŚBr.</ls>; <ls>ChUp.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अन",
+            "eid": "1403",
+            "pagenum": 24,
+            "content": "<i>Ana, as,</i>¦ m. breath, spiration."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अन",
+            "eid": "3172",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अन¦ <lex>Pron.</lex> der 3ten Person <i>dieser, dieser hier</i>. Davon nur अने/न, अन/या und अनयोस् (<ls n='Chr.'>260,26. 281,27</ls>). <ab>Vgl.</ab> अना/."
+        },
+        {
+            "word": "अन",
+            "eid": "3173",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अन/¦ <lex>m.</lex> <i>Hauch, Athem</i>."
+        },
+        {
+            "word": "अन",
+            "eid": "3174",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> *अन¦ <lex>Adv.</lex> <i>nicht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अन",
+            "eid": "2200",
+            "pagenum": 1,
+            "content": "1. अन¦ Pronominalstamm der 3ten Person, von dem sich nur der instr. sg. अने^न, अन^या und der gen. loc. du. अन/योस् in der klass. Sprache vorfinden, <ls>P. 7, 2, 112.</ls> <ls>VOP. 3, 128.</ls> Vgl. एन und über den Gebrauch s. u. इदम् ."
+        },
+        {
+            "word": "अन",
+            "eid": "2201",
+            "pagenum": 1,
+            "content": "2. अन¦ (von 2. अन्) <lex>m.</lex> <i>Hauch, Athem</i>: एषा (वाक्) हि न प्राणो ऽपानो व्यान उपानः समानो ऽन इत्येतत्सर्वम् <ls>ŚAT. BR. 14, 4, 3, 9.</ls> (= <ls>BṚH. ĀR. UP. 1, 5, 3.</ls>) तदनमनग्नं (<ls>POLEY</ls>: तदेनम°) कुर्वन्तो मन्यन्ते <ls n='ŚAT. BR.'>14, 9, 2, 15.</ls> (= <ls>BṚH. ĀR. UP. 6, 1, 14.</ls>) तद्वा एतदनस्यान्नमनो ह वै नाम प्रत्यक्षम् <ls>CHĀND. UP. 5, 2, 1.</ls> अनेनैव तदद्यते <ls>ŚAT. BR. 14, 4, 1, 18.</ls> (= <ls>BṚH. ĀR. UP. 1, 3, 17.)</ls> Im letzten Beispiel kann अनेन auch pron. sein, <ls>DVIVED.</ls> und <ls>ŚAṂK.</ls> erklären es durch प्राणेन . <div n='v'>— Vgl. अनवन्त् ."
+        },
+        {
+            "word": "अन",
+            "eid": "2202",
+            "pagenum": 1,
+            "content": "3. अन¦ <i>nicht</i> <ls>AK. 3, 5, 11</ls>, <ls>Sch.</ls> beruht auf einer spitzfindigen Erklärung."
+        },
+        {
+            "word": "अन",
+            "eid": "63343",
+            "pagenum": 5,
+            "content": "2. अन/¦ <ls>ŚAT. BR. 12, 3, 2. 5.</ls>"
+        }
     ]
 }

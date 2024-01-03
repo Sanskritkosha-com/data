@@ -47,5 +47,57 @@
             "pagenum": 370,
             "content": "nara-deva¦ <i>m.</i> a king, <ls>R.</ls>iii.42, vii.62, <ls>Megh.</ls>i.37, <ls>R.</ls>ii.75."
         }
+    ],
+    "MW": [
+        {
+            "word": "नरदेव",
+            "eid": "104061",
+            "pagenum": 529,
+            "content": "नर—देव ¦ <lex>m.</lex> ‘<ab n='man'>m°</ab>-god’, a king, <ls>Mn.</ls>; <ls>MBh.</ls> &c. (-त्व <lex type='phw'>n.</lex>, <ls>BhP.</ls>)<info phwchild='104062.1'/><info lex='m'/>"
+        },
+        {
+            "word": "नरदेव",
+            "eid": "104062",
+            "pagenum": 529,
+            "content": "¦ <ab>N.</ab> of an author, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PGN": [
+        {
+            "word": "नरदेव",
+            "eid": "185",
+            "pagenum": 73,
+            "content": "5. <i>Naradeva</i>¦ (No. 43, L. 11): It would literally mean ‘the god of men’ i.e. a king’. It has also been the name of an author.<sup>21</sup>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "नरदेव",
+            "eid": "6935",
+            "pagenum": 2,
+            "content": "<i>Naradeva (Rāma)</i>¦ — the eighteenth, out of the <i>avatārs</i> of Viṣṇu; did heroic deeds, subduing the sea and so on. <div n='P'/>Bhā. I. 3. 22."
+        },
+        {
+            "word": "नरदेव",
+            "eid": "6936",
+            "pagenum": 2,
+            "content": "<i>Naradeva</i>¦ — a Vānara chief. <div n='P'/>Br. III. 7. 243."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नरदेव",
+            "eid": "56849",
+            "pagenum": 3,
+            "content": "नरदेव¦ <lex>m.</lex> <i>der Gott unter den Menschen; Fürst, König</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नरदेव",
+            "eid": "37790",
+            "pagenum": 4,
+            "content": "नरदेव¦ (नर + देव) <lex>m.</lex> <i>der Gott unter den Menschen, König, Fürst</i> <ls>HALĀY.</ls> im <ls>ŚKDR.</ls> <ls>M. 11, 82.</ls> <ls>MBH. 1, 3103.</ls> <ls n='MBH.'>3, 12330.</ls> <ls n='MBH.'>4, 19.</ls> <ls n='MBH. 4,'>305.</ls> <ls>R. 2, 44, 25.</ls> <ls n='R. 2,'>65, 28.</ls> <ls n='R.'>3, 48, 18.</ls> <ls n='R.'>5, 47, 20.</ls> <ls n='R.'>6, 66, 32.</ls> <ls>RAGH. 3, 42.</ls> <ls n='RAGH.'>7, 59.</ls> <ls>BHĀG. P. 1, 15, 18. 17, 5. 4, 24, 79.</ls>"
+        }
     ]
 }

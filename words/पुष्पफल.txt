@@ -15,5 +15,53 @@
             "pagenum": 260,
             "content": "पुष्पफल¦ <i>n.</i> Blüte und Frucht."
         }
+    ],
+    "MW": [
+        {
+            "word": "पुष्पफल",
+            "eid": "127076",
+            "pagenum": 639,
+            "content": "<hom>1.</hom> पुष्प—फल ¦ <lex>m.</lex> <bot>Feronia Elephantum</bot>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पुष्पफल",
+            "eid": "127077",
+            "pagenum": 639,
+            "content": "¦ <bot>Benincasa Cerifera</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पुष्पफल",
+            "eid": "127078",
+            "pagenum": 639,
+            "content": "<hom>2.</hom> पुष्प—फल ¦ <lex>n.</lex> <ab n='flower'>f°</ab> and fruits, <ls>MBh.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पुष्पफल",
+            "eid": "68615",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> पुष्पफल¦ <lex>n.</lex> <i>Blumen und Früchte</i> <ls n='Chr.'>170,18</ls>."
+        },
+        {
+            "word": "पुष्पफल",
+            "eid": "68616",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> *पुष्पफल¦ <lex>m.</lex> <div n='1'>— 1〉 <i><bot>Feronia elephantum</bot></i>. <div n='1'>— 2〉 <i><bot>Beninkasa cerifera</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पुष्पफल",
+            "eid": "46457",
+            "pagenum": 4,
+            "content": "1. पुष्पफल¦ (पु° + फल) <lex>n.</lex> <i>Blumen und Früchte</i> <ls>ADBH. BR. 6, 6</ls> in <ls>Ind. St. 1, 40.</ls> <ls>Spr. 3049.</ls>"
+        },
+        {
+            "word": "पुष्पफल",
+            "eid": "46458",
+            "pagenum": 4,
+            "content": "2. पुष्पफल¦ (पु° + फल) <lex>m.</lex> <i>Feronia elephantum Corr.</i> (कपित्थ) <ls>AK. 2, 4, 2, 2.</ls> <i>Benincasa cerifera Savi.</i> (कुष्माण्ड) <ls>HĀR. 97.</ls> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

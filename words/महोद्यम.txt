@@ -15,5 +15,49 @@
             "pagenum": 560,
             "content": "mahA-udyama¦ <i>a.</i> See महोत्साह."
         }
+    ],
+    "MW": [
+        {
+            "word": "महोद्यम",
+            "eid": "161340",
+            "pagenum": 802,
+            "content": "maho<srs/>dyama ¦ <lex>m.</lex> great effort or exertion, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "महोद्यम",
+            "eid": "161341",
+            "pagenum": 802,
+            "content": "¦ (with <s1 slp1='jEna'>Jaina</s1>s), a <ab>partic.</ab> <s1 slp1='kalpa'>Kalpa</s1>, <ls>Dharmaś.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "महोद्यम",
+            "eid": "161342",
+            "pagenum": 802,
+            "content": "maho<srs/>dyama ¦ <lex>mfn.</lex> very energetic or diligent or persevering, studiously occupied or busily engaged in (<ab>loc.</ab> or <ab>dat.</ab>), <ls>Śukas.</ls>; <ls>Rājat.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महोद्यम",
+            "eid": "85495",
+            "pagenum": 5,
+            "content": "महोद्यम¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>sich stark anstrengend, arbeitsam, fleissig</i>. <div n='1'>— 2〉 <i>beflissen, eifrig mit Etwas beschäftigt;</i> die Ergänzung ein <ab>Infin.</ab> oder ein <ab>Nom.</ab> <ab>act.</ab> im <ab>Dat.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महोद्यम",
+            "eid": "59360",
+            "pagenum": 5,
+            "content": "महोद्यम¦ (महा + उ°) <lex>adj.</lex> <i>sich stark anstrengend, arbeitsam, fleissig</i> <ls>AK. 3, 1, 3.</ls> <ls>Spr. 1657.</ls> <i>beflissen, eifrig mit Etwas beschäftigt</i>; die Ergänzung ein infin. <ls>RĀJA-TAR. 5, 136.</ls> ein nom. act. im dat. <ls>Spr. 4172.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "महोद्यम",
+            "eid": "20444",
+            "pagenum": 7,
+            "content": "महोद्यम¦ V. <lex>m.</lex> <i>ein <ab>best.</ab></i> <is>Kalpa</is> <i>bei [Page7-367-d] den</i> <is>Jaina</is> <ls>DHARMAŚARM. 21,37</ls>."
+        }
     ]
 }

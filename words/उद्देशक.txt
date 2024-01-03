@@ -23,5 +23,55 @@
             "pagenum": 132,
             "content": "uddeSaka¦ <i>m.</i> An illustration, an example."
         }
+    ],
+    "MW": [
+        {
+            "word": "उद्देशक",
+            "eid": "32984",
+            "pagenum": 188,
+            "content": "उद्-देशक ¦ <lex>mfn.</lex> illustrative, explanatory, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "उद्देशक",
+            "eid": "32985",
+            "pagenum": 188,
+            "content": "उद्-देशक ¦ <lex>m.</lex> an illustration, example<info lex='m'/>"
+        },
+        {
+            "word": "उद्देशक",
+            "eid": "32986",
+            "pagenum": 188,
+            "content": "¦ an illustrator, guide, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "उद्देशक",
+            "eid": "32987",
+            "pagenum": 188,
+            "content": "¦ (in <ab>math.</ab>) a question, problem <ab>Comm.</ab> on <ls>Āryabh.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उद्देशक",
+            "eid": "10897",
+            "pagenum": 156,
+            "content": "<i>Ud-deśaka, as, ā, am,</i>¦ illustrative, explanatory; (<i>as</i>), m. an illustration, an example; an illustrator, a guide; (in mathematics) a question, problem."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उद्देशक",
+            "eid": "19027",
+            "pagenum": 1,
+            "content": "उद्देशक¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>auf Etwas hinweisend, Etwas angebend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Aufgabe</i> (in der <ab>Math.</ab>) <ls>Comm. zu ĀRYABH. 2,8</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उद्देशक",
+            "eid": "11403",
+            "pagenum": 1,
+            "content": "उद्देशक¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>hinweisend, hinzeigend</i> <ls>TRIK. 3, 3, 311.</ls> <div n='1'>— 2) <lex>m.</lex> bei den Mathemm. <i>Aufgabe</i> <ls>COLEBR. Alg. 187.</ls>"
+        }
     ]
 }

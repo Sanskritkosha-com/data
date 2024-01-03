@@ -23,5 +23,41 @@
             "pagenum": 504,
             "content": "bahu-pAda¦ <i>m.</i> the Indian fig tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "बहुपाद",
+            "eid": "143680",
+            "pagenum": 725,
+            "content": "बहु—पाद ¦ <lex>mf(आ)n.</lex> many-footed, <ls>MBh.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "बहुपाद",
+            "eid": "143681",
+            "pagenum": 725,
+            "content": "¦ composed of several <s1 slp1='pAda'>Pāda</s1>s (<ab>q.v.</ab>), <ls>RPrāt.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बहुपाद",
+            "eid": "143682",
+            "pagenum": 725,
+            "content": "बहु—पाद ¦ <lex>m.</lex> the Indian <ab>fig.</ab> tree, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बहुपाद",
+            "eid": "76378",
+            "pagenum": 4,
+            "content": "बहुपाद¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='2'>— a〉 <i>vielfüssig</i>. <div n='2'>— b〉 <i>mehr Füsse habend</i> (Sitz) <ls>ĀPAST.</ls> <div n='2'>— c〉 <i>aus mehreren Verstheilen bestehend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>der indischer Feigenbaum</i> <ls>RĀJAN. 11,119</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बहुपाद",
+            "eid": "52215",
+            "pagenum": 5,
+            "content": "बहुपाद¦ (बहु + पाद) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> आ <div n='2'> a) <i>vielfüssig</i> <ls>MBH. 14, 1138.</ls> <ls>BHĀG. P. 4, 29, 2.</ls> <div n='2'>— b) <i>aus mehreren Verstheilen bestehend</i>: गायत्री <ls>ṚV. PRĀT. 17, 3.</ls> <ls n='ṚV. PRĀT. 17,'>31.</ls> <div n='1'>— 2) <lex>m.</lex> <i>der indische Feigenbaum</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

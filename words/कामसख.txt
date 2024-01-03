@@ -20,5 +20,41 @@
             "pagenum": 180,
             "content": "kAma-saKa¦ <i>m.</i> the spring."
         }
+    ],
+    "MW": [
+        {
+            "word": "कामसख",
+            "eid": "48203",
+            "pagenum": 272,
+            "content": "काम—सख ¦ <lex>m.</lex> ‘<s1 slp1='kAma'>Kāma</s1>'s friend’, spring, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कामसख",
+            "eid": "48204",
+            "pagenum": 272,
+            "content": "¦ the month <s1 slp1='cEtra'>Caitra</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कामसख",
+            "eid": "48205",
+            "pagenum": 272,
+            "content": "¦ the mango tree, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कामसख",
+            "eid": "26642",
+            "pagenum": 2,
+            "content": "*कामसख¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Frühling</i>. <div n='1'>— 2〉 <i>der Monat</i> <is>Caitra</is>. <div n='1'>— 3〉 <i>der Mangobaum</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कामसख",
+            "eid": "16469",
+            "pagenum": 2,
+            "content": "कामसख¦ (काम + सखि) <lex>m.</lex> <div n='1'> 1) <i>Frühling</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <i>der Monat</i> <is>Caitra</is> <ls>H. ś. 22.</ls> <div n='1'>— 2) <i>der Mangobaum</i> <ls>WILS.</ls>"
+        }
     ]
 }

@@ -23,5 +23,61 @@
             "pagenum": 316,
             "content": "tOlika¦ <i>m.</i> A painter."
         }
+    ],
+    "MW": [
+        {
+            "word": "तौलिक",
+            "eid": "87316",
+            "pagenum": 456,
+            "content": "<hom>1.</hom> तौलिक ¦ <lex>m.</lex> (<ab>fr.</ab> तूलिका) a painter, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "तौलिक",
+            "eid": "87318",
+            "pagenum": 456,
+            "content": "<hom>2.</hom> तौलिक ¦ <ab>cf.</ab> उद-, दश-, विंशति-."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तौलिक",
+            "eid": "21449",
+            "pagenum": 386,
+            "content": "1. <i>taulika</i>¦ in <i>daśa-taulika,</i> having the weight of 10 Tulās."
+        },
+        {
+            "word": "तौलिक",
+            "eid": "21452",
+            "pagenum": 386,
+            "content": "तौलिक 2¦. <i>taulika, as,</i> m. (fr. <i>tūlikā</i>), a painter; [cf. the next.]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तौलिक",
+            "eid": "47170",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> *तौलिक¦ <lex>m.</lex> <i>Maler</i>."
+        },
+        {
+            "word": "तौलिक",
+            "eid": "47171",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> तौलिक¦ <lex>m.</lex> <i>ein <ab>best.</ab> Gewicht</i> in उद°, दश°, विंशति°."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तौलिक",
+            "eid": "30715",
+            "pagenum": 3,
+            "content": "1. तौलिक¦ (von तूलिका) <lex>m.</lex> <i>Maler</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. तौलिकिक ."
+        },
+        {
+            "word": "तौलिक",
+            "eid": "30716",
+            "pagenum": 3,
+            "content": "2. तौलिक¦ (von तुला) in दशतौलिक (so ist doch wohl zu verbinden) <lex>adj.</lex> <i>ein Gewicht von 10</i> <is>Tulā</is> <i>habend</i> <ls>SUŚR. 2, 83, 20.</ls>"
+        }
     ]
 }

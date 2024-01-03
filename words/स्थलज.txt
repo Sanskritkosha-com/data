@@ -23,5 +23,35 @@
             "pagenum": 513,
             "content": "स्थलज¦ auf trockenem Lande erzeugt <i>o.</i> lebend."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्थलज",
+            "eid": "255229",
+            "pagenum": 1262,
+            "content": "स्थल—ज ¦ <lex>mfn.</lex> growing or living on dry land, <ls>Mn.</ls>; <ls>R.</ls>; <ls>Suśr.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्थलज",
+            "eid": "255230",
+            "pagenum": 1262,
+            "content": "¦ accruing from land-transport (said of certain taxes or duties), <ls>Yājñ.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्थलज",
+            "eid": "130830",
+            "pagenum": 7,
+            "content": "स्थलज¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>auf dem Festlande —, auf trockenem Boden wachsend, — lebend</i>. <div n='2'>— b〉 <i>für Landtransport geltend</i> (Steuer). <div n='1'>— 2〉 <lex>f.</lex> आ <i>Süssholz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्थलज",
+            "eid": "113896",
+            "pagenum": 7,
+            "content": "स्थलज¦ <div n='1'> 1) <lex>adj.</lex> <i>auf dem Festlande —, trockenem Boden wachsend, - lebend</i> <ls>M. 1, 44.</ls> <ls n='M.'>6, 13.</ls> जलजानि च पुष्पाणि माल्यानि स्थलजान्यपि <ls>R. 2, 59, 11.</ls> <ls n='R.'>4, 25, 24.</ls> जलजान्यपि सत्त्वानि स्थलजान्यपि <ls>R. GORR. 2, 59, 10.</ls> <ls>ĀRYABH. 4, 7.</ls> Reis <ls>SUŚR. 1, 196, 10.</ls> स्थलाम्बुजाः <ls>VARĀH. BṚH. 3, 5. 6.</ls> so v. a. जाङ्गल <ls>CARAKA 1, 27.</ls> शुल्क so v. a. <i>Landsteuer</i> (im Gegens. zu <i>Wassersteuer</i>) <ls>YĀJÑ. 2, 263.</ls> <div n='1'>— 2) <lex>f.</lex> आ <i>Süssholz</i> <ls>RĀJAN. 6, 149.</ls>"
+        }
     ]
 }

@@ -7,5 +7,61 @@
             "pagenum": 500,
             "content": "विभज्य¦ <lex>a.</lex> to be divided."
         }
+    ],
+    "MW": [
+        {
+            "word": "विभज्य",
+            "eid": "198210",
+            "pagenum": 977,
+            "content": "<hom>1.</hom> वि-°भज्य ¦ <lex>mfn.</lex> to be divided, <ls>Hariv.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विभज्य",
+            "eid": "198211",
+            "pagenum": 977,
+            "content": "¦ to be (or being) distinguished, <ls>Pāṇ. v, 3, 57.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विभज्य",
+            "eid": "198212",
+            "pagenum": 977,
+            "content": "<hom>2.</hom> वि-°भज्य ¦ <lex>ind.</lex> having distributed or separated or divided, by dividing or distinguishing &c.<info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विभज्य",
+            "eid": "43422",
+            "pagenum": 930,
+            "content": "<i>Vi-bhajya,</i>¦ ind. having divided or parted, having portioned or distributed, having allotted."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विभज्य",
+            "eid": "103593",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विभज्य¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>zu theilen</i>. <div n='1'>— 2〉 = विभजनीय 2〉."
+        },
+        {
+            "word": "विभज्य",
+            "eid": "103594",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> विभज्य¦ <ab>Absol.</ab> <i>mit —, unter Vornahme einer Theilung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विभज्य",
+            "eid": "92430",
+            "pagenum": 6,
+            "content": "1. विभज्य¦ (wie eben) <lex>adj.</lex> <div n='1'> 1) <i>zu theilen</i> <ls>HARIV. 12431.</ls> <div n='1'>— 2) <i>was gesondert —, unterschieden wird</i> oder <i>werden soll</i> <ls>P. 5, 3, 57.</ls> <div n='v'>— Vgl. विभाज्य ."
+        },
+        {
+            "word": "विभज्य",
+            "eid": "92431",
+            "pagenum": 6,
+            "content": "2. विभज्य¦ (wie eben) absol. <i>mit —, unter Vornahme einer Theilung</i>: °पाठ <ls>HALĀY.</ls> in <ls>Ind. St. 8, 355.</ls> °वाद Bez. <i>einer best. buddhistischen Lehre</i> <ls>TĀRAN. 198.</ls> °वादिन् <i>ein Anhänger dieser Lehre</i> <ls n='TĀRAN.'>175.</ls> <ls>VYUTP. 210.</ls> <ls>BURN. Intr. 446.</ls> <ls>Lot. de la b. l. 357.</ls> <ls>WASSILJEW 78. 230. 233.</ls> °व्याकरण (neben एकांश°, परिपृच्छा° und स्थापनीय°) <ls>VYUTP. 53.</ls> Die Schreibart विभाज्य ist fehlerhaft."
+        }
     ]
 }

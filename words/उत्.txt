@@ -31,5 +31,43 @@
             "pagenum": 123,
             "content": "ut¦ <i>ind.</i> A particle- (1) of doubt; (2) of deliberation; (3) of interrogation."
         }
+    ],
+    "MW": [
+        {
+            "word": "उत्",
+            "eid": "30687",
+            "pagenum": 175,
+            "content": "उत् ¦ <lex>ind.</lex> a particle of doubt or deliberation (= <hom>2.</hom> उत, <ab>q.v.</ab>), <ls>L.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "उत्",
+            "eid": "30687.1",
+            "pagenum": 175,
+            "content": "¦ (for the <ab>prep.</ab> उद् See <hom>1.</hom> उद्.)"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उत्",
+            "eid": "10317",
+            "pagenum": 147,
+            "content": "उत्¦ <i>ut,</i> ind. a particle of doubt or deliberation = how, what (?), either, or; see 2. <i>uta.</i> (For the prep. <i>ud</i> see 1. <i>ud,</i> page 153.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उत्",
+            "eid": "17948",
+            "pagenum": 1,
+            "content": "*उत्¦ <lex>Indecl.</lex> = <hom>2.</hom> उत."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उत्",
+            "eid": "10777",
+            "pagenum": 1,
+            "content": "उत्¦ indecl. = 2. उत <ls>MED. <is>avy</is>. 24.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>ŚAṂK.</ls> zu <ls>TAITT. UP. 2, 7.</ls>"
+        }
     ]
 }

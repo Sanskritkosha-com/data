@@ -23,5 +23,93 @@
             "pagenum": 45,
             "content": "आवय/¦ <i>n.</i> Empfängnis."
         }
+    ],
+    "MD": [
+        {
+            "word": "आवय",
+            "eid": "3887",
+            "pagenum": 42,
+            "content": "आवय¦ āvayá, <lex>n.</lex> conception."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आवय",
+            "eid": "27000",
+            "pagenum": 154,
+            "content": "आवय/ ¦ <lex>n.</lex> (<ab>fr.</ab> <hom>2.</hom> अ-वी <ab>cf.</ab> आवि), pangs of childbirth, painful childbirth (?), <ls>AV. viii, 6, 26</ls><info lex='n'/>"
+        },
+        {
+            "word": "आवय",
+            "eid": "27001",
+            "pagenum": 154,
+            "content": "आवय/ ¦ (अस्), <lex>m.</lex> arrival, <ls>T.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आवय",
+            "eid": "27002",
+            "pagenum": 154,
+            "content": "¦ one who arrives, <ls>T.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आवय",
+            "eid": "27003",
+            "pagenum": 154,
+            "content": "¦ <ab>N.</ab> of a country, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आवय",
+            "eid": "9339",
+            "pagenum": 131,
+            "content": "आवय 1¦. <i>āvaya, am,</i> n. (fr. 2. <i>a-vī</i>), Ved. non-conception, barrenness."
+        },
+        {
+            "word": "आवय",
+            "eid": "9340",
+            "pagenum": 131,
+            "content": "आवय 2¦. <i>āvaya, as, ā,</i> m. f. water."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आवय",
+            "eid": "15916",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> आवय/¦ <lex>n.</lex> <i>Empfängniss</i>."
+        },
+        {
+            "word": "आवय",
+            "eid": "15917",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *आ/वय¦ <lex>m.</lex> oder °या <lex>f.</lex> <ab>Pl.</ab> <i>Wasser</i>."
+        },
+        {
+            "word": "आवय",
+            "eid": "15918",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> *आवय¦ <ab>N. pr.</ab> einer Oertlichkeit; davon <lex>Adj.</lex> *°क <ab>v. l.</ab> अवयात, आवयातक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आवय",
+            "eid": "9440",
+            "pagenum": 1,
+            "content": "1. आवय/¦ (von 2. अवी) <lex>n.</lex> <i>das Nichtempfangen, Unfruchtbarkeit</i>: अ\\प्र\\जा\\स्त्वं मार्त^वत्स\\माद्रोद^म\\घमा^व\\यम् <ls>AV. 8, 6, 26.</ls>"
+        },
+        {
+            "word": "आवय",
+            "eid": "9441",
+            "pagenum": 1,
+            "content": "2. आ/वय¦ <lex>m.</lex> oder <lex>f.</lex> <i>Wasser</i> nach <ls>NAIGH. 1, 12.</ls>"
+        },
+        {
+            "word": "आवय",
+            "eid": "9442",
+            "pagenum": 1,
+            "content": "3. आवय¦ N. pr. einer Gegend; davon आ/वयक <lex>adj.</lex> <is>gaṇa</is> धूमादि zu <ls>P. 4, 2, 127.</ls>"
+        }
     ]
 }

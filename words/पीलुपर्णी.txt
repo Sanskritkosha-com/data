@@ -12,5 +12,41 @@
             "synonyms": [],
             "content": "बिम्बी रक्तफला पीलुपर्णी स्यात्तुण्डिकेरिका ।"
         }
+    ],
+    "MW": [
+        {
+            "word": "पीलुपर्णी",
+            "eid": "124994",
+            "pagenum": 630,
+            "content": "पीलु—पर्णी ¦ <lex>f.</lex> <ab>id.</ab>, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "पीलुपर्णी",
+            "eid": "124995",
+            "pagenum": 630,
+            "content": "¦ <bot>Momordica Monadelpha</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पीलुपर्णी",
+            "eid": "124996",
+            "pagenum": 630,
+            "content": "¦ a kind of drug, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पीलुपर्णी",
+            "eid": "67438",
+            "pagenum": 4,
+            "content": "*पीलुपर्णी¦ <lex>f.</lex> <div n='1'>— 1〉 <ab>dass.</ab> <ls>RĀJAN. 7,185</ls>. <div n='1'>— 2〉 <i><bot>Momordica monadelpha</bot></i> <ls>RĀJAN. 7,185</ls>. <div n='1'>— 3〉 <i>ein <ab>best.</ab> Heilmittel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पीलुपर्णी",
+            "eid": "45585",
+            "pagenum": 4,
+            "content": "पीलुपर्णी¦ (पीलु + पर्ण) <lex>f.</lex> <div n='1'> 1) dass. <ls>AK. 2, 4, 3, 2.</ls> <ls>H. an. 4, 84. 85.</ls> <ls>MED. ṇ. 104</ls> (°पर्णा gedr.). <div n='1'>— 2) <i>Momordica monadelpha Roxb.</i> <ls>AK. 2, 4, 5, 4.</ls> <ls>H. 1185.</ls> <ls>H. an.</ls> <ls>MED.</ls> <div n='1'>— 3) <i>ein best. Heilkraut</i> <ls>H. an.</ls> <ls>MED.</ls>"
+        }
     ]
 }

@@ -20,5 +20,29 @@
             "pagenum": 237,
             "content": "garBa-ASaya¦ <i>m.</i> the uterus, the womb."
         }
+    ],
+    "MW": [
+        {
+            "word": "गर्भाशय",
+            "eid": "64123",
+            "pagenum": 350,
+            "content": "garBA<srs/>Saya ¦ <lex>m.</lex> = °र्भ-वसति, <ls>MBh. xiv</ls>; <ls>Suśr.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गर्भाशय",
+            "eid": "34975",
+            "pagenum": 2,
+            "content": "गर्भाशय¦ <lex>m.</lex> <i>Mutterleib</i>. °स्थ <lex>Adj.</lex> <i>im <ab n='Mutterleib'>M.</ab> befindlich</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गर्भाशय",
+            "eid": "22018",
+            "pagenum": 2,
+            "content": "गर्भाशय¦ (गर्भ + आशय) <lex>m.</lex> <i>Uterus</i> <ls>AK. 2, 6, 1, 38.</ls> <ls>H. 540.</ls> <ls>MBH. 14, 501.</ls> <ls>SUŚR. 1, 336, 20. 338, 1. 182, 6. 2, 56, 5.</ls> गर्भाशयस्थ <ls n='SUŚR.'>1, 278, 18.</ls>"
+        }
     ]
 }

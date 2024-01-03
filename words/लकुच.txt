@@ -21,5 +21,43 @@
             "pagenum": 616,
             "content": "lakuca¦ <i>(II) n.</i> The fruit of this tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "लकुच",
+            "eid": "180320",
+            "pagenum": 891,
+            "content": "लकच (<ls>L.</ls>) or लकुच (<ls>MBh.</ls>; <ls>Suśr.</ls> &c.), ¦ <lex>m.</lex> a kind of bread-fruit tree, <bot>Artocarpus Lacucha</bot> (a tree containing a large quantity of sticky milky juice)<info or='180319,lakaca;180320,lakuca'/><info lex='m'/>"
+        },
+        {
+            "word": "लकुच",
+            "eid": "180320.1",
+            "pagenum": 891,
+            "content": "लकुच ¦ <lex>n.</lex> the fruit of this tree.<info lex='n'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "लकुच",
+            "eid": "11858",
+            "pagenum": 3,
+            "content": "<i>Lakuca</i>¦ — a tree of six rasas in the Hairaṇvata (Hiraṇvata) country. <div n='P'/>Br. II. 15. 68; IV. 31. 58; M. 113. 67; Vā. 45. 9."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लकुच",
+            "eid": "95268",
+            "pagenum": 5,
+            "content": "लकुच¦ <lex>m.</lex> <i><bot>Artocarpus Locucha</bot></i> (<lex>n.</lex> <i>die Frucht</i>) <ls>RĀJAN. 9,159</ls>. <ls>MADANAV. 67,49</ls>. <ls>BHĀVAPR. 1,240</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लकुच",
+            "eid": "85611",
+            "pagenum": 6,
+            "content": "लकुच¦ <lex>m.</lex> <i>Artocarpus Lacucha Roxb.</i>, ein Baum, der zähen Milchsaft reichlich enthält; <lex>n.</lex> <i>die Frucht</i> <ls>AK. 2, 4, 2, 41.</ls> <ls>MBH. 1, 7585.</ls> <ls n='MBH.'>3, 11568.</ls> <ls>HARIV. 12678.</ls> <ls>SUŚR. 1,59,6. 74,15. 157,5. 210,17.</ls> <ls>VĀGBH. 6,141.</ls> <ls>VARĀH. BṚH. S. 55,4. 10.</ls> <ls>Verz. d. Oxf. H. 72,a,23.</ls>"
+        }
     ]
 }

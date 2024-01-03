@@ -71,5 +71,75 @@
             "pagenum": 171,
             "content": "<b>duvás,</b>¦ <i><ab>n.</ab> perhaps same as</i> <b>dúvas,</b> <i>but see</i> <ls n='lan,74,10'>74<sup>10</sup></ls><ab>N.</ab>"
         }
+    ],
+    "MD": [
+        {
+            "word": "दुवस्",
+            "eid": "9449",
+            "pagenum": 122,
+            "content": "दुवस्¦ dúv-as, <lex>n.</lex> honour, worship."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दुवस्",
+            "eid": "94733",
+            "pagenum": 488,
+            "content": "<hom>1.</hom> दुव/स् ¦ <lex>mfn.</lex> stirring, restless (<s1 slp1='soma'>Soma</s1>), <ls>RV. i, 168, 3.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "दुवस्",
+            "eid": "94735",
+            "pagenum": 488,
+            "content": "<hom>2.</hom> दु/वस् ¦ <lex>n.</lex> (<ab>fr.</ab> <hom>3.</hom> दू, a collateral form to दा as गू to गा, पू to पा, स्थू to स्था; <ab>cf.</ab> अग्रेगू, -पू, स्थविर) gift, oblation, worship, honour, reverence, <ls>RV. i, 14, 1</ls> &c. (<ls n='RV. i,'>165, 14</ls> दुव/स्, <ab>prob.</ab> gift, liberality). <info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दुवस्",
+            "eid": "22545",
+            "pagenum": 424,
+            "content": "<i>Duvas, as,</i>¦ n., Ved. worship, honour, reverence; (Sāy.) wealth; (<i>ās, ās, as</i>), active, moving restlessly. <i>—Duvas-kṛ,</i> cl. 8. P. A. <i>-karoti, -kurute,</i> <i>-kartum,</i> to worship. <i>—Duvas-vat, ān, atī, at,</i> Ved. worshipping; enjoying or receiving worship. <i>—Du-</i> <i>vo-dhā,</i> cl. 3. P. A. <i>-dadhāti, -dhatte, -dhātum,</i> to worship."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दुवस्",
+            "eid": "51492",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> दु/वस्¦ <lex>n.</lex> <i>Verehrung, Ehre, Ehrenbezeugen</i>. <ab>Insbes.</ab> mit कर् und धा."
+        },
+        {
+            "word": "दुवस्",
+            "eid": "51493",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> दुव/स्¦ <lex>Adj.</lex> <i>rumorend</i>."
+        },
+        {
+            "word": "दुवस्",
+            "eid": "51494",
+            "pagenum": 3,
+            "content": "<hom>3.</hom> दुव/स्¦ <lex>n.</lex> nach <ls>SĀY.</ls> = <hom>1.</hom> दु/वस्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दुवस्",
+            "eid": "33872",
+            "pagenum": 3,
+            "content": "1. दु/वस्¦ <lex>n.</lex> <i>Verehrung, Ehre, Ehrenbezeugung</i>: ऐभि^रग्ने\\ दुवो\\ गिरो\\ विश्वे^भि\\ः सोम^पीतये । दे\\वेभि^र्याहि <ls>ṚV. 1, 14, 1.</ls> <ls n='ṚV. 1,'>30, 15.</ls> वि\\दा दे\\वेषु^ नो\\ दुव^ः <ls n='ṚV. 1,'>36, 14.</ls> अ\\ग्ना यो मर्त्यो दुवो\\ धिय^ं जु\\जोष^ धी\\तिभि^ः <ls n='ṚV.'>6, 14, 1.</ls> <ls n='ṚV. 6,'>15, 6.</ls> <ls n='ṚV. 6,'>16, 18.</ls> कृ\\ष्वा दुवा\\ंस्यन्त^मा\\ सचे\\मा <ls n='ṚV.'>7, 22, 4.</ls> <ls n='ṚV.'>9, 65, 3.</ls> <ls n='ṚV.'>10, 20, 7.</ls> Mit 1. कर् <i>thun</i>: यस्तुभ्य^मग्ने अ\\मृता^य\\ दाश\\द्दुव\\स्त्वे कृ\\णव^ते य\\तस्रु^क् <ls n='ṚV.'>4, 2, 9.</ls> दे\\वेषु^ कृणुतो\\ दुव^ः <ls n='ṚV.'>8, 31, 9.</ls> <ls n='ṚV.'>3, 16, 4.</ls> mit धाः य\\ज्ञैर्य इन्द्रे\\ दध^ते\\ दुवा^ंसि <ls n='ṚV.'>7, 20, 6.</ls> <ls n='ṚV.'>4, 8, 6.</ls>"
+        },
+        {
+            "word": "दुवस्",
+            "eid": "33873",
+            "pagenum": 3,
+            "content": "2. दुव/स्¦ <lex>adj.</lex> <i>hinausstrebend, unruhig(?)</i>: सोमा^सो\\ न ये सु\\तास्तृ\\प्तांश^वो हृ\\त्सु पी\\तासो^ दु\\वसो\\ (<ls>SĀY.</ls>: गमनादिचेष्टाः कुर्वन्तः) नास^ते <ls>ṚV. 1, 168, 3.</ls> Dunkel ist die Stelle: आ यद्दु^व\\स्याद्दु\\वसे\\ (nach <ls>SĀY.</ls> = दुव^से) न का\\रुर\\स्मां च\\क्रे मा\\न्यस्य^ मे\\धा <ls n='ṚV. 1,'>165, 14.</ls> — Viell. verwandt mit दूर, दवीयंस्, दविष्ठ ."
+        },
+        {
+            "word": "दुवस्",
+            "eid": "120318",
+            "pagenum": 7,
+            "content": "2. दुवस्¦ Z. 3. 4 दु\\वसे^ wohl Infinitiv."
+        }
     ]
 }

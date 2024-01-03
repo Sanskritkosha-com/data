@@ -39,5 +39,43 @@
             "pagenum": 720,
             "content": "<b>Vatsin</b>¦ = Viṣṇu (1000 names)."
         }
+    ],
+    "MW": [
+        {
+            "word": "वत्सिन्",
+            "eid": "185510",
+            "pagenum": 916,
+            "content": "वत्सिन् ¦ <lex>mfn.</lex> having a calf, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वत्सिन्",
+            "eid": "185511",
+            "pagenum": 916,
+            "content": "वत्सिन् ¦ <lex>m.</lex> ‘having many children (?)’, <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>MBh.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वत्सिन्",
+            "eid": "41042",
+            "pagenum": 881,
+            "content": "<i>Vatsin, ī, inī, i,</i>¦ having a calf; (<i>ī</i>), m. (perhaps) ‘having many children,’ N. of Viṣṇu."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वत्सिन्",
+            "eid": "97779",
+            "pagenum": 6,
+            "content": "वत्सि/न्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>ein Kalb habend</i>. <div n='1'>— 2〉 als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs vielleicht <i>viele Kinder habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वत्सिन्",
+            "eid": "87639",
+            "pagenum": 6,
+            "content": "वत्सि/न्¦ (von वत्स) <lex>adj.</lex> <i>ein Kalb habend</i>: गावः <ls>ṚV. 7, 103, 2.</ls> als Beiw. <is>Viṣṇu's</is> <ls>MBH. 13, 6999</ls> vielleicht <i>viele Kinder habend.</i>"
+        }
     ]
 }

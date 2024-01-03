@@ -69,5 +69,69 @@
             "pagenum": 219,
             "content": "kzava¦ <i>m.</i> 1. Sneezing; 2. cough."
         }
+    ],
+    "MD": [
+        {
+            "word": "क्षव",
+            "eid": "6549",
+            "pagenum": 78,
+            "content": "क्षव¦ kṣáva, °थु -thu, <lex>m.</lex> sneezing, sneeze."
+        }
+    ],
+    "MW": [
+        {
+            "word": "क्षव",
+            "eid": "59244",
+            "pagenum": 327,
+            "content": "क्ष/व <hom>a</hom>, ¦ °वक, °वथु See √ <hom>1.</hom> क्षु."
+        },
+        {
+            "word": "क्षव",
+            "eid": "59842",
+            "pagenum": 330,
+            "content": "क्ष/व <hom>b</hom> ¦ <lex>m.</lex> sneezing, <ls>AV. xix, 8, 5</ls><info lex='m'/>"
+        },
+        {
+            "word": "क्षव",
+            "eid": "59843",
+            "pagenum": 330,
+            "content": "¦ cough, catarrh, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्षव",
+            "eid": "59844",
+            "pagenum": 330,
+            "content": "¦ black mustard (<bot>Sinapis dichotoma</bot>), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "क्षव",
+            "eid": "16420",
+            "pagenum": 266,
+            "content": "क्षव¦ <i>kṣava.</i> See under rt. 1. <i>kṣu.</i>"
+        },
+        {
+            "word": "क्षव",
+            "eid": "16510",
+            "pagenum": 268,
+            "content": "<i>Kṣava, as,</i>¦ m. sneezing, cough, catarrh; a black species of mustard, Sinapis Dichotoma; [cf. <i>rājikā.</i>] <i>—Kṣava-kṛt, t, t, t,</i> anything which causes sneezing; making a sneeze, sneezing, coughing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षव",
+            "eid": "32401",
+            "pagenum": 2,
+            "content": "क्ष/व¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das Niesen</i>. <div n='1'>— 2〉 *<i>Husten</i>. <div n='1'>— 3〉 *<i>schwarzer Senf</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षव",
+            "eid": "20210",
+            "pagenum": 2,
+            "content": "क्ष/व¦ (von क्षु) <lex>m.</lex> <div n='1'> 1) <i>das Niesen</i> <ls>AK. 2, 6, 2, 3.</ls> <ls>TRIK. 3, 3, 413.</ls> <ls>H. 463.</ls> <ls>an. 2, 518.</ls> <ls>MED. v. 4.</ls> <ls>AV. 19, 8, 5.</ls> <i>Husten</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <i>schwarzer Senf</i> (राजिका) <ls>AK. 2, 9, 19.</ls> <ls>TRIK.</ls> <ls>H. 413.</ls> <ls>H. an.</ls> <ls>MED.</ls> = राजिकाभेद und zwar क्षुधाभिजनन (vgl. क्षुताभिजनन), चपल, दीर्घशिम्बिक u.s.w. <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -36,5 +36,35 @@
             "pagenum": 78,
             "content": "ईशितृ¦ <lex>m.</lex> lord, master."
         }
+    ],
+    "MD": [
+        {
+            "word": "ईशितृ",
+            "eid": "4251",
+            "pagenum": 47,
+            "content": "ईशितृ¦ īś-i-tṛ, <lex>m.</lex> ruler, lord."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ईशितृ",
+            "eid": "29875",
+            "pagenum": 171,
+            "content": "ईशितृ ¦ <lex>m.</lex> a master, owner, proprietor<info lex='m'/>"
+        },
+        {
+            "word": "ईशितृ",
+            "eid": "29876",
+            "pagenum": 171,
+            "content": "¦ a king, <ls>ŚvetUp.</ls>; <ls>Prab.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ईशितृ",
+            "eid": "10118",
+            "pagenum": 144,
+            "content": "<i>Īśitṛ, tā,</i>¦  m. a master, an owner or proprietor; a king."
+        }
     ]
 }

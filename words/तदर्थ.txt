@@ -29,5 +29,53 @@
             "pagenum": 301,
             "content": "tad-arTa¦ <i>a.</i> intended for that."
         }
+    ],
+    "MW": [
+        {
+            "word": "तदर्थ",
+            "eid": "82068",
+            "pagenum": 434,
+            "content": "तद्—अर्थ ¦ <lex>mfn.</lex> intended for that, <ls>Āp. ii, 14, 3</ls>; <ls>Pāṇ. ii, 1, 36</ls>; <ls n='Pāṇ.'>i, 3, 72</ls>, <ls>Kāś.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तदर्थ",
+            "eid": "82069",
+            "pagenum": 434,
+            "content": "¦ serving for that, <ls>Jaim. i, 2, 1</ls> (अ- <ab>neg.</ab>)<info lex='inh'/>"
+        },
+        {
+            "word": "तदर्थ",
+            "eid": "82070",
+            "pagenum": 434,
+            "content": "¦ having that or the same meaning, <ls>Pāṇ. ii, 3, 58</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तदर्थ",
+            "eid": "82071",
+            "pagenum": 434,
+            "content": "तद्—अर्थ ¦ <lex>m.</lex> (its or) their meaning, <ls>Vedāntas. 200</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तदर्थ",
+            "eid": "44309",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> तदर्थ¦ <lex>m.</lex> <i>dessen oder deren Bedeutung</i> <ls n='Chr.'>276,32</ls>."
+        },
+        {
+            "word": "तदर्थ",
+            "eid": "44310",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> तदर्थ¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>dazu bestimmt</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <div n='1'>— 2〉 <i>dieselbe Bedeutung habend</i> <ls n='Chr.'>236,27</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तदर्थ",
+            "eid": "28519",
+            "pagenum": 3,
+            "content": "तदर्थ¦ (तद् + अर्थ) <lex>adj.</lex> <i>dazu bestimmt</i> <ls>P. 2, 1, 36.</ls> <div n='v'>— Vgl. तादर्थ्य ."
+        }
     ]
 }

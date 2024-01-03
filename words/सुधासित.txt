@@ -23,5 +23,41 @@
             "pagenum": 785,
             "content": "suDA-sita¦ <i>a.</i> 1. white as mortar; 2. bright as nectar; 3. bound by nectar, जगतीशरणे युक्तो हरिकांतः सुधासितः <ls>Kir.</ls>xv.45."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुधासित",
+            "eid": "246979",
+            "pagenum": 1226,
+            "content": "सु-धा—सित ¦ <lex>m.</lex> whitewashed, <ls>Śak.</ls> (<ab>v.l.</ab>)<info lex='m'/>"
+        },
+        {
+            "word": "सुधासित",
+            "eid": "246980",
+            "pagenum": 1226,
+            "content": "¦ white as cement (-ता <lex type='phw'>f.</lex>), <ls>Kathās.</ls><info phwchild='246981.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "सुधासित",
+            "eid": "246981",
+            "pagenum": 1226,
+            "content": "¦ provided with <ab n='nectar'>n°</ab>, <ls>Kir. xv, 45.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुधासित",
+            "eid": "126509",
+            "pagenum": 7,
+            "content": "सुधासित¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>weiss getüncht</i>. <div n='1'>— 2〉 <i>weiss wie Kalk</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुधासित",
+            "eid": "110408",
+            "pagenum": 7,
+            "content": "सुधासित¦ (2. सुधा + 3. सित) <lex>adj.</lex> <i>weiss getüncht</i> <ls>ŚĀK. 179, v. l.</ls> Davon nom. abstr. °ता <i>die Weisse der Tünche</i> <ls>KATHĀS. 1, 16.</ls>"
+        }
     ]
 }

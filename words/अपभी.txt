@@ -31,5 +31,29 @@
             "pagenum": 35,
             "content": "apa-BI¦ <i>a.</i> fearless."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपभी",
+            "eid": "9350",
+            "pagenum": 50,
+            "content": "अप-भी ¦ <lex>mfn.</lex> <ab>id.</ab><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपभी",
+            "eid": "6002",
+            "pagenum": 1,
+            "content": "अपभी¦ <lex>Adj.</lex> <i>furchtlos</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपभी",
+            "eid": "3805",
+            "pagenum": 1,
+            "content": "अपभी¦ (1. अप + भी) <lex>adj.</lex> <i>frei von Furcht</i> <ls>DRAUP. 8, 19.</ls>"
+        }
     ]
 }

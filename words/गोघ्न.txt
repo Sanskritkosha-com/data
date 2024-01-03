@@ -39,5 +39,49 @@
             "pagenum": 151,
             "content": "<b>go-ghná,</b>¦ <i><ab>a.</ab></i> kine-killing; <i>as <ab>m.</ab></i> cow-slayer. <lbinfo n='cow-slayer.'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "गोघ्न",
+            "eid": "66985",
+            "pagenum": 364,
+            "content": "गो—घ्न/ ¦ <lex>mfn.</lex> noxious to kine, <ls>RV. i, 114, 10</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गोघ्न",
+            "eid": "66986",
+            "pagenum": 364,
+            "content": "गो—घ्न/ ¦ <lex>m.</lex> = -घात/, <ls>Mn. xi, 109</ls> and <ls n='Mn. xi,'>116</ls>; <ls>Yājñ.</ls>; <ls>R.</ls>; <ls>BhP. vi</ls>; <ls>Hit.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गोघ्न",
+            "eid": "66987",
+            "pagenum": 364,
+            "content": "¦ one for whom a cow is killed, guest, <ls>Pāṇ. iii, 4, 73.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "गोघ्न",
+            "eid": "4301",
+            "pagenum": 1,
+            "content": "<i>Goghna</i>¦ — the slayer of cows; the other three heinous crimes are ingratitude, wine drinking and defiling of teacher's bed. <div n='P'/>Vā. 60 74; 101. 152."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोघ्न",
+            "eid": "36466",
+            "pagenum": 2,
+            "content": "गोघ्न/¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>den Rindern verderblich</i>. <div n='1'>— 2〉 <i>der eine Kuh getödtet hat;</i> <lex>m.</lex> <i>Kuhtödter</i>. <div n='1'>— 3〉 *<i>für den man ein Rind schlachtet;</i> <lex>m.</lex> <i>Gast</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोघ्न",
+            "eid": "23049",
+            "pagenum": 2,
+            "content": "गोघ्न/¦ (गो + घ्न) <div n='1'> 1) <lex>adj.</lex> <i>den Rindern verderblich</i> <ls>ṚV. 1, 114, 10.</ls> <div n='1'>— 2) <lex>adj.</lex> subst. <i>der eine Kuh getödtet hat, Kuhtödter</i> <ls>M. 11, 108. 115.</ls> <ls>YĀJÑ. 3, 263.</ls> <ls>R. 4, 16, 30.</ls> <ls>HIT. I, 9.</ls> <ls>BHĀG. P. 6, 13, 8.</ls> <div n='1'>— 3) = यस्मै गां घ्नन्ति <i>für den man ein Rind schlachtet</i> <ls>P. 3, 4, 73.</ls> <i>Gast</i> nach dem <ls>Sch.</ls>"
+        }
     ]
 }

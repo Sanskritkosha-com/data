@@ -21,5 +21,43 @@
             "pagenum": 102,
             "content": "Apatika¦ <i>(II) m.</i> A hawk, a falcon."
         }
+    ],
+    "MW": [
+        {
+            "word": "आपतिक",
+            "eid": "24846",
+            "pagenum": 142,
+            "content": "आपतिक ¦ <lex>mfn.</lex> accidental, unforeseen, coming from fate <ab>Comm.</ab> on <ls>Uṇ. ii, 45</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आपतिक",
+            "eid": "24847",
+            "pagenum": 142,
+            "content": "आपतिक ¦ <lex>m.</lex> a hawk, a falcon, <ls>ib.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आपतिक",
+            "eid": "8695",
+            "pagenum": 123,
+            "content": "<i>Ā-patika, as, ī, am,</i>¦ accidental, unforeseen, sent from heaven; (<i>as</i>), m. a hawk. a falcon."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आपतिक",
+            "eid": "14861",
+            "pagenum": 1,
+            "content": "*आपतिक¦ <ls>UṆĀDIS. 2,45</ls>. <div n='1'>— 1〉 <lex>Adj.</lex> <i>vom Schicksal abhängig</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Falke</i> <ls>UJJVAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आपतिक",
+            "eid": "8727",
+            "pagenum": 1,
+            "content": "आपतिक¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>vom Schicksal kommend</i> <ls>Uṇ. 2, 46.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Falke</i> ebend."
+        }
     ]
 }

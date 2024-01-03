@@ -15,5 +15,43 @@
             "pagenum": 552,
             "content": "manu-saMhitA¦ <i>f.</i> the institutes of Manu."
         }
+    ],
+    "MD": [
+        {
+            "word": "मनुसंहिता",
+            "eid": "13702",
+            "pagenum": 217,
+            "content": "मनुसंहिता¦ manu-saṃhitā, <lex>f.</lex> code of Manu."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मनुसंहिता",
+            "eid": "156916",
+            "pagenum": 784,
+            "content": "मनु—संहिता ¦ <lex>f.</lex> <ab>N.</ab> of the collection of laws commonly known as ‘the laws or institutes of <s1 slp1='manu'>Manu</s1>’<info lex='f'/>"
+        },
+        {
+            "word": "मनुसंहिता",
+            "eid": "156917",
+            "pagenum": 784,
+            "content": "¦ of a <s1 slp1='tantra'>Tantra</s1> <ab>wk.</ab> <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मनुसंहिता",
+            "eid": "82948",
+            "pagenum": 5,
+            "content": "मनुसंहिता¦ <lex>f.</lex> <is>Manu</is>ʼs <i>Gesetzsammlung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मनुसंहिता",
+            "eid": "57378",
+            "pagenum": 5,
+            "content": "मनुसंहिता¦ (मनु + सं°) <lex>f.</lex> <is>Manu's</is> <i>Gesetzsammlung</i> <ls>M. ed. Calc.</ls>"
+        }
     ]
 }

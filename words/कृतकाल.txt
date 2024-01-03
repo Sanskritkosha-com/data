@@ -13,5 +13,53 @@
             "pagenum": 203,
             "content": "kfta-kAla¦ <i>(II) m.</i> appointed time, <ls>Yaj.</ls>ii.184."
         }
+    ],
+    "MW": [
+        {
+            "word": "कृतकाल",
+            "eid": "54199",
+            "pagenum": 302,
+            "content": "कृत—काल ¦ <lex>m.</lex> appointed time, <ls>Yājñ. ii, 184</ls><info lex='m'/>"
+        },
+        {
+            "word": "कृतकाल",
+            "eid": "54200",
+            "pagenum": 302,
+            "content": "कृत—काल ¦ <lex>mfn.</lex> ‘fixed or settled as to time’, sent, deposited &c. for a certain time, <ls>Nār.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "कृतकाल",
+            "eid": "54201",
+            "pagenum": 302,
+            "content": "¦ one who has accomplished a certain time, who has waited a certain time, <ls>MBh. ii, 1875.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कृतकाल",
+            "eid": "29922",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> कृतकाल¦ <lex>m.</lex> <i>die festgesetzte Zeit</i>."
+        },
+        {
+            "word": "कृतकाल",
+            "eid": "29923",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> कृतकाल¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>der Zeit nach bestimmt, auf eine <ab>best.</ab> Zeit gegeben</i> (Pfand) <ls>NĀR. 4,51</ls>. <div n='1'>— 2〉 <i>der eine <ab>best.</ab> Zeit gewartet hat</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कृतकाल",
+            "eid": "18590",
+            "pagenum": 2,
+            "content": "1. कृतकाल¦ (कृत + 2. काल) <lex>m.</lex> <i>die festgesetzte Zeit</i>: कृतशिल्पो ऽपि निवसेत्कृतकालं गुरोर्गृहे । अन्तेवासी <ls>YĀJÑ. 2, 184.</ls>"
+        },
+        {
+            "word": "कृतकाल",
+            "eid": "18591",
+            "pagenum": 2,
+            "content": "2. कृतकाल¦ (wie eben) <lex>adj.</lex> <i>der eine bestimmte Zeit zu Ende gebracht —, gewartet hat</i>: तत्रस्था द्वारपालैस्ते प्रोच्यन्ते राजशासनात् ॥ कृतकालाः सुबलयस्ततो द्वारमवाप्स्यथ । <ls>MBH. 2, 1875. fg.</ls>"
+        }
     ]
 }

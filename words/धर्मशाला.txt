@@ -15,5 +15,41 @@
             "pagenum": 354,
             "content": "Darma-SAlA¦ <i>f.</i> 1. a court of justice, a tribunal; 2. a charitable institution."
         }
+    ],
+    "MW": [
+        {
+            "word": "धर्मशाला",
+            "eid": "100286",
+            "pagenum": 512,
+            "content": "धर्म—शाला ¦ <lex>f.</lex> court of justice, tribunal, <ls>W.</ls><info lex='f'/>"
+        },
+        {
+            "word": "धर्मशाला",
+            "eid": "100287",
+            "pagenum": 512,
+            "content": "¦ charitable asylum, hospital <ab>esp.</ab> religious asylum, <ls>L.</ls>; <ls>RTL. 153.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धर्मशाला",
+            "eid": "54872",
+            "pagenum": 3,
+            "content": "धर्मशाला¦ <lex>f.</lex> <div n='1'>— 1〉 *<i>Gerichtssaal</i>. <div n='1'>— 2〉 <i>ein Asyl für Bettler und Reisende, Hospiz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धर्मशाला",
+            "eid": "36379",
+            "pagenum": 3,
+            "content": "धर्मशाला¦ (धर्म + शा°) <lex>f.</lex> <i>Gerichtssaal</i> <ls>WILS.</ls> <i>wohlthätige Anstalt, Hospital</i> <ls>HAUGHT.</ls>"
+        },
+        {
+            "word": "धर्मशाला",
+            "eid": "76529",
+            "pagenum": 5,
+            "content": "धर्मशाला¦ <i>ein Asyl für Bettler und Reisende</i> <ls>WILSON, Sel. Works 1, 50.</ls>"
+        }
     ]
 }

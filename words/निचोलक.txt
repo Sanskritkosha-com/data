@@ -28,5 +28,49 @@
             "pagenum": 378,
             "content": "nicolaka¦ <i>m.</i> 1. A jacket, a bodice; 2. a soldier’s jacket serving as a cuirass."
         }
+    ],
+    "MW": [
+        {
+            "word": "निचोलक",
+            "eid": "108241",
+            "pagenum": 546,
+            "content": "नि-°चोलक ¦ <lex>m.</lex> an outer garment (also <lex type='hwalt'>n.</lex>)<info lex='m:n'/>"
+        },
+        {
+            "word": "निचोलक",
+            "eid": "108242",
+            "pagenum": 546,
+            "content": "¦ a cuirass, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "निचोलक",
+            "eid": "108243",
+            "pagenum": 546,
+            "content": "नि-°चोलक ¦ <lex>mn.</lex> a. box or case, <ls>Hcar.</ls><info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निचोलक",
+            "eid": "24558",
+            "pagenum": 485,
+            "content": "<i>Ni-colaka, as,</i>¦ m. a sort of jacket, bodice, mantle, but especially a soldier's jacket serving as a cuirass or breast-plate; (<i>am</i>), n. <i>= ni-culaka.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "निचोलक",
+            "eid": "58406",
+            "pagenum": 3,
+            "content": "निचोलक¦ <div n='1'>— 1〉 *<lex>m.</lex> <lex>n.</lex> <i>Ueberwurf, Mantel</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>Panzer</i>. <div n='1'>— 3〉 <lex>m.</lex> oder <lex>n.</lex> <i>Futteral</i> <ls>HARṢAC. 182,21</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निचोलक",
+            "eid": "38819",
+            "pagenum": 4,
+            "content": "निचोलक¦ = निचूल (निचुल) <i>Ueberwurf, Mantel</i> <ls>H. an. 3, 658.</ls> <lex>m.</lex> <i>Panzer</i> <ls>H. 767.</ls> <ls>HALĀY. 2, 397.</ls> <lex>n.</lex> = निचुलक <ls>HĀR. 192.</ls>"
+        }
     ]
 }

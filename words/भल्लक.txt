@@ -23,5 +23,37 @@
             "pagenum": 521,
             "content": "Ballaka¦ <i>m.</i> A bear."
         }
+    ],
+    "MW": [
+        {
+            "word": "भल्लक",
+            "eid": "148946",
+            "pagenum": 748,
+            "content": "भल्लक ¦ <lex>m.</lex> a bear, <ls>Pañcar.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भल्लक",
+            "eid": "35211",
+            "pagenum": 701,
+            "content": "<i>Bhallaka, as,</i>¦ m. <i>= bhalla,</i> a bear."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भल्लक",
+            "eid": "79003",
+            "pagenum": 4,
+            "content": "भल्लक¦ <div n='1'>— 1〉 *<lex>m.</lex> <i>Bar</i>. <div n='1'>— 2〉 <lex>f.</lex> भल्लिका <i><bot>Semecarpus Anacardium</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भल्लक",
+            "eid": "54250",
+            "pagenum": 5,
+            "content": "भल्लक¦ <div n='1'> 1) <lex>m.</lex> = भल्ल <i>Bär</i> <ls>DVIRŪPAK.</ls> im <ls>ŚKDR.</ls> <ls>PAÑCAR. 1, 7, 28.</ls> <div n='1'>— 2) <lex>f.</lex> भल्लिका = भल्लातक <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> स्वरुर्भल्लिकारूपः <ls>Schol.</ls> zu <ls>ŚĀṄKH. BR. 10, 2.</ls>"
+        }
     ]
 }

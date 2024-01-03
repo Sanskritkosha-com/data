@@ -7,5 +7,33 @@
             "pagenum": 308,
             "content": "उद्धा¦ I. {c3c} <ab>P.</ab> <ab>Ved.</ab> <b>1</b> To abandon or expose (an infant). <b>--2</b> To set up, erect, build. II. {c3c} <ab>A.</ab> <b>1</b> To go or move <lbinfo n='up+wards'/> upwards, rise (as the sun, dust &c.); यतो रजः पार्थिवमुज्जिहीते <ls>R. 13. 64</ls>;  <lbinfo n='ls:Mu. 4.+ 21'/> <ls>Mu. 4. 21</ls>; <ls>Bk. 18. 27</ls>; <ls>N. 22. 45</ls>, <ls n='N. 22.'>55.</ls> <b>--2</b> To go away from, depart;  <lbinfo n='ujjihAnajI#vitAM'/> उज्जिहानजीवितां <ls>Māl. 10.</ls> <b>--3</b> To raise; शिरसा यूपमुज्जिहीते <ls>Kāty.</ls> <b>--4</b> To throw up, knit (as eyebrows); <ls>Bk. 3. 47.</ls>"
         }
+    ],
+    "MW": [
+        {
+            "word": "उद्धा",
+            "eid": "33119",
+            "pagenum": 189,
+            "content": "<hom>1.</hom> उद्-√ धा ¦ (उद्-√ धा) <ab>P.</ab> (<ab>Subj.</ab> 2. <ab>pl.</ab> -दधातन) to erect (कपृथ/म्), <ls>RV. x, 101, 12</ls>; <div n='to'/>to expose (an infant), <ls>ŚBr. iv, 5, 2, 13.</ls><info verb='pre' cp='P' parse='ud+DA'/>"
+        },
+        {
+            "word": "उद्धा",
+            "eid": "33124",
+            "pagenum": 189,
+            "content": "√ <hom>2.</hom> उद्-धा ¦ (उद्- <hom>1.</hom> हा) <ab>Ā.</ab> -जिहीते (<ab>p.</ab> उज्-जि/हान, <ls>RV. v, 5, 1</ls> = <ls>AV. xiii, 2, 46</ls>; See also below) <div n='to'/>to go upwards, move upwards, rise up, <ls>RV.</ls>; <ls>AV. viii, 7, 21</ls>; <ls>VS.</ls>; <ls>TBr.</ls>; <ls>BhP.</ls> &c.; <div n='to'/>to open (as a door), <ls>RV. ix, 5, 5</ls>; <div n='to'/>to go out or away, start from, leave, <ls>RV. v, 5, 1</ls>; <ls>Daś.</ls>; <ls>Naiṣ.</ls> &c.<info verb='pre' cp='Ā' parse='ud+hA'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उद्धा",
+            "eid": "10930",
+            "pagenum": 157,
+            "content": "उद्धा 1¦. <i>ud-dhā,</i> cl. 3. P., Ved. <i>-dadhāti,</i> <i>-dhātum,</i> to abandon or expose (an infant); to set up, erect, build up."
+        },
+        {
+            "word": "उद्धा",
+            "eid": "10933",
+            "pagenum": 157,
+            "content": "उद्धा 2¦. <i>ud-dhā (ud-hā),</i> cl. 3. A. <i>uj-jihīte,</i> <i>ud-dhātum,</i> to go upwards, move upwards; to raise; to go away from."
+        }
     ]
 }

@@ -29,5 +29,47 @@
             "pagenum": 136,
             "content": "<b>eka-mati,</b>¦ <i><ab>a.</ab></i> having one mind, unanimous."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकमति",
+            "eid": "39488",
+            "pagenum": 229,
+            "content": "एक—मति ¦ <lex>f.</lex> concentration of mind, <ls>BhP.</ls><info lex='f'/>"
+        },
+        {
+            "word": "एकमति",
+            "eid": "39489",
+            "pagenum": 229,
+            "content": "एक—मति ¦ <lex>mfn.</lex> unanimous, <ls>MBh.</ls>; <ls>Suśr.</ls>; <ls>Pañcat.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकमति",
+            "eid": "21880",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> एकमति¦ <lex>f.</lex> <i>der auf einen Gegenstand gerichtete Sinn</i>."
+        },
+        {
+            "word": "एकमति",
+            "eid": "21881",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> एकमति¦ <lex>Adj.</lex> <i>einmüthig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकमति",
+            "eid": "13317",
+            "pagenum": 1,
+            "content": "1. एकमति¦ (एक + मति) <lex>f.</lex> <i>der auf einen Gegenstand gerichtete Sinn</i> <ls>BHĀG. P. 4, 8, 21.</ls>"
+        },
+        {
+            "word": "एकमति",
+            "eid": "13318",
+            "pagenum": 1,
+            "content": "2. एकमति¦ (wie eben) <lex>adj.</lex> <i>einmüthig</i> <ls>MBH. 12, 12723.</ls> <ls>SUŚR. 1, 3, 3.</ls> एकमतीभू <ls>PAÑCAT. 175, 19.</ls>"
+        }
     ]
 }

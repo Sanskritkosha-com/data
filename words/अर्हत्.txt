@@ -50,5 +50,91 @@
             "pagenum": 68,
             "content": "arhat¦ <i>(II) a.</i> Worthy."
         }
+    ],
+    "MD": [
+        {
+            "word": "अर्हत्",
+            "eid": "2682",
+            "pagenum": 28,
+            "content": "अर्हत्¦ árh-at, <ab>pr.</ab> <ab>pt.</ab> deserving; <lex>m.</lex> worthy 🞄person, Arhat (<i>with Buddhists and Jains</i>); 🞄<b>-tva,</b> <lex>n.</lex> dignity of an Arhat."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अर्हत्",
+            "eid": "16492",
+            "pagenum": 93,
+            "content": "अ/र्हत् ¦ <lex>mfn.</lex> deserving, entitled to (<ab>acc.</ab>), <ls>RV.</ls><info lexcat='LEXID=prap,STEM=arhat,ROOTCLASS=arh-1'/>"
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "16493",
+            "pagenum": 93,
+            "content": "¦ used in a respectful address for अर्हसि, <ls>Pāṇ. iii, 2, 133</ls>, able, allowed to (<ab>acc.</ab>), <ls>RV.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "16494",
+            "pagenum": 93,
+            "content": "¦ worthy, venerable, respectable, <ls>ŚBr.</ls>; <ls>AitBr.</ls> &c. (See अर्हत्-तम below)<info lex='inh'/>"
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "16495",
+            "pagenum": 93,
+            "content": "¦ praised, celebrated, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "16496",
+            "pagenum": 93,
+            "content": "अ/र्हत् ¦ <lex>m.</lex> (अन्) a <s1 slp1='budDa'>Buddha</s1> who is still a candidate for <s1 slp1='nirvARa'>Nirvāṇa</s1><info lexcat='LEXID=prap,STEM=arhat,ROOTCLASS=arh-1'/>"
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "16497",
+            "pagenum": 93,
+            "content": "¦ (= क्षपणक) a <s1 slp1='jEna'>Jaina</s1><info lex='inh'/>"
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "16498",
+            "pagenum": 93,
+            "content": "¦ an <s1 slp1='arhat'>Arhat</s1> or superior divinity with the <s1 slp1='jEna'>Jaina</s1>s<info lex='inh'/>"
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "16499",
+            "pagenum": 93,
+            "content": "¦ the highest rank in the <ns>Buddhist</ns> hierarchy, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अर्हत्",
+            "eid": "5975",
+            "pagenum": 85,
+            "content": "<i>Arhat, an, antī, at,</i>¦ deserving, entitled to; able, allowed to; worthy; venerable, respectable; praised, celebrated; (<i>an</i>), m. a Buddha; the highest rank in the Buddhist hierarchy; an Arhat or superior divinity with the Jainas. <i>—Arhat-tama, as, ā, am,</i> most worthy, best, most venerable."
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "54738",
+            "pagenum": 1182,
+            "content": "<i>Arhat;</i>¦ after ‘a Buddha’ add — who is still a candidate for <i>Nirvāṇa.</i>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "अर्हत्",
+            "eid": "894",
+            "pagenum": 1,
+            "content": "<i>Arhat</i> (I)¦ — a king of Konka, Venka, and Kuṭaka led astray by the teachings of Ṛṣabha. Gave up his <i>svadharma</i> and adopted the path of heretics. <div n='P'/>Bhā. V. 6. 9."
+        },
+        {
+            "word": "अर्हत्",
+            "eid": "895",
+            "pagenum": 1,
+            "content": "<i>Arhat</i> (II)¦ — a name of Śiva. <div n='P'/>Br. III. 72. 173."
+        }
     ]
 }

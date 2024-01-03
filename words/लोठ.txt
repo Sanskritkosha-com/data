@@ -15,5 +15,49 @@
             "pagenum": 631,
             "content": "loWa¦ <i>m.</i> Rolling on the ground."
         }
+    ],
+    "MW": [
+        {
+            "word": "लोठ",
+            "eid": "182916",
+            "pagenum": 904,
+            "content": "लोठ <hom>a</hom> ¦ <lex>m.</lex> rolling, rolling on the ground, <ls>Vop.</ls><info lex='m'/>"
+        },
+        {
+            "word": "लोठ",
+            "eid": "183611",
+            "pagenum": 908,
+            "content": "लोठ <hom>b</hom> ¦ लोठक &c. See <pcol>p. 904, col. 1</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लोठ",
+            "eid": "40558",
+            "pagenum": 869,
+            "content": "<i>Loṭha, as,</i>¦ m. rolling, rolling on the ground."
+        },
+        {
+            "word": "लोठ",
+            "eid": "40714",
+            "pagenum": 873,
+            "content": "लोठ¦ <i>loṭha, loṭhana.</i> See p. 869, col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लोठ",
+            "eid": "96743",
+            "pagenum": 5,
+            "content": "*लोठ¦ <lex>m.</lex> <ab>Nom.</ab> <ab>act.</ab> von लुठ्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लोठ",
+            "eid": "86803",
+            "pagenum": 6,
+            "content": "लोठ¦ <lex>m.</lex> nom. act. von लुठ् <ls>VOP.</ls> in <ls>DHĀTUP. 28, 87.</ls>"
+        }
     ]
 }

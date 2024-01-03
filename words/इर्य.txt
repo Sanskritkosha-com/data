@@ -31,5 +31,69 @@
             "pagenum": 220,
             "content": "<b>írya,</b> <b>íria,</b>¦ <ab>a.</ab>, <i>regsam, rüstig, kräftig</i> [<ab n='siehe'>s.</ab> unter iras]. <div n='TS'>-ias gopā́s {529,3}; {661,4}. <div n='TS'>-yam pūṣáṇam {495,8}. <div n='TS'>-iam rā́jānam {412,4}. <div n='TS'>-yā [<ab>du.</ab> <ab>m.</ab>] {932,4}."
         }
+    ],
+    "MD": [
+        {
+            "word": "इर्य",
+            "eid": "4176",
+            "pagenum": 46,
+            "content": "इर्य¦ ír-ya, <lex>a.</lex> active; watchful; strong."
+        }
+    ],
+    "MW": [
+        {
+            "word": "इर्य",
+            "eid": "29387",
+            "pagenum": 168,
+            "content": "इ/र्य ¦ <lex>mfn.</lex> active, powerful, energetical<info lex='m:f:n'/>"
+        },
+        {
+            "word": "इर्य",
+            "eid": "29388",
+            "pagenum": 168,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='pUzan'>Pūṣan</s1> and of the <s1 slp1='aSvin'>Aśvin</s1>s<info lex='inh'/>"
+        },
+        {
+            "word": "इर्य",
+            "eid": "29389",
+            "pagenum": 168,
+            "content": "¦ instigating<info lex='inh'/>"
+        },
+        {
+            "word": "इर्य",
+            "eid": "29390",
+            "pagenum": 168,
+            "content": "¦ destroying enemies [<ls>Sāy.</ls>]<info lex='inh'/>"
+        },
+        {
+            "word": "इर्य",
+            "eid": "29391",
+            "pagenum": 168,
+            "content": "¦ a lord, <ls>RV.</ls>; <ls>AV.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "इर्य",
+            "eid": "9968",
+            "pagenum": 141,
+            "content": "इर्य¦ <i>irya, as, ā, am,</i> Ved. active, powerful, energetical; epithet of Pūṣan and of the Aśvins; (Sāy.) instigating; destroying enemies; a lord."
+        }
+    ],
+    "PW": [
+        {
+            "word": "इर्य",
+            "eid": "17243",
+            "pagenum": 1,
+            "content": "इ/र्य¦ <lex>Adj.</lex> <i>rührig, kräftig, energisch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इर्य",
+            "eid": "10339",
+            "pagenum": 1,
+            "content": "इ/र्य¦ <lex>adj.</lex> <i>rührig, kräftig, energisch</i>: राजा^ <ls>ṚV. 5, 58, 4.</ls> गो\\पाः <ls n='ṚV.'>7, 13, 3.</ls> <ls n='ṚV.'>8, 41, 4.</ls> <ls>AV. 3, 8, 4.</ls> <ls n='AV.'>12, 3, 11</ls>; daher auch von <is>Pūṣan</is> <ls>ṚV. 6, 54, 8</ls> und in demselben Sinne von den <is>Aśvin</is>: इर्ये^व पु\\ष्ट्यै <ls n='ṚV.'>10, 106, 4.</ls> <div n='v'>— Vgl. इरस्य् und इरिन् ."
+        }
     ]
 }

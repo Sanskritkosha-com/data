@@ -36,5 +36,43 @@
             "pagenum": 250,
             "content": "gEreya¦ <i>n.</i> Bitumen."
         }
+    ],
+    "MW": [
+        {
+            "word": "गैरेय",
+            "eid": "66881",
+            "pagenum": 363,
+            "content": "गैरेय ¦ <lex>n.</lex> ‘mountain-born’, bitumen, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "गैरेय",
+            "eid": "66882",
+            "pagenum": 363,
+            "content": "¦ red chalk, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गैरेय",
+            "eid": "17646",
+            "pagenum": 296,
+            "content": "<i>Gaireya, as, ī, am,</i>¦ mountain-born, mountain; (<i>am</i>), n. bitumen, red chalk."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गैरेय",
+            "eid": "36407",
+            "pagenum": 2,
+            "content": "*गैरेय¦ <lex>n.</lex> <i>Bergpech, Erdharz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गैरेय",
+            "eid": "23010",
+            "pagenum": 2,
+            "content": "गैरेय¦ (von गिरि) <lex>n.</lex> <i>Bergpech, Erdharz</i> <ls>AK. 2, 9, 104.</ls> <ls>H. 1062.</ls>"
+        }
     ]
 }

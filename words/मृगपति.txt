@@ -36,5 +36,41 @@
             "pagenum": 581,
             "content": "mfga-pati¦ <i>m.</i> 1. a lion; 2. a roe-buck; 3. a tiger."
         }
+    ],
+    "MW": [
+        {
+            "word": "मृगपति",
+            "eid": "166869",
+            "pagenum": 828,
+            "content": "मृग—पति ¦ <lex>m.</lex> ‘lord of the beasts’, a lion, <ls>Hariv.</ls>; <ls>BhP.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "मृगपति",
+            "eid": "166870",
+            "pagenum": 828,
+            "content": "¦ a tiger, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मृगपति",
+            "eid": "166871",
+            "pagenum": 828,
+            "content": "¦ ‘antelope's lord’, a roebuck, <ls>Hariv.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मृगपति",
+            "eid": "88127",
+            "pagenum": 5,
+            "content": "मृगपति¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Herr des Wildes,</i> <ab>Bez.</ab> <div n='2'>— a〉 <i>des Löwen</i> <ls>RĀJAN. 19,1</ls>. <div n='2'>— b〉 <i>des Tigers</i>. <div n='1'>— 2〉 <i>der Gatte der Gazelle, Rehbock</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मृगपति",
+            "eid": "61474",
+            "pagenum": 5,
+            "content": "मृगपति¦ (मृग + प°) <lex>m.</lex> <div n='1'> 1) <i>der Herr des Wildes</i>, Bez. <i>des Löwen</i> <ls>H. 1284.</ls> <ls>HALĀY. 2, 59.</ls> <ls>HARIV. 12705.</ls> <ls>Spr. 2765.</ls> <ls>VARĀH. BṚH. S. 17, 24.</ls> <ls>BHĀG. P. 5, 25. 10.</ls> <i>des Tigers</i> <ls>MBH. 12, 4277.</ls> <div n='1'>— 2) <i>Rehbock</i>: तं महीशयने सुप्तं क्षितिनाथं गतायुषम् । भार्याः स्म दृष्ट्वा क्रोशन्ति मृग्यो मृगपतिं यथा ॥ <ls>HARIV. 4781.</ls>"
+        }
     ]
 }

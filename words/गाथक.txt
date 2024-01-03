@@ -39,5 +39,37 @@
             "pagenum": 240,
             "content": "gATaka¦ <i>m.</i> 1. A musician, a singer; 2. a chanter of sacred poems."
         }
+    ],
+    "MW": [
+        {
+            "word": "गाथक",
+            "eid": "64569",
+            "pagenum": 352,
+            "content": "गाथक ¦ <lex>m.</lex> (<ls>Pāṇ. iii, 1, 146</ls>) a singer (chanter of the <s1 slp1='purARa'>Purāṇa</s1>s), <ls>Pāṇ. i, 1, 34</ls>, <ls>Kāś.</ls>; <ls>Rājat. vii, 934</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गाथक",
+            "eid": "17295",
+            "pagenum": 287,
+            "content": "<i>Gāthaka, as,</i>¦ m. a singer, a musician; a chanter of the Purāṇas or sacred poems."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गाथक",
+            "eid": "35249",
+            "pagenum": 2,
+            "content": "गाथक¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Sänger</i> <ls>RĀJAT. 7,934</ls>. <div n='1'>— 2〉 <lex>f.</lex> °थिका <i>Gesang, Lied</i> <ls>MBH. 3,85,20</ls>. <ls>Chr. 302,17</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गाथक",
+            "eid": "22232",
+            "pagenum": 2,
+            "content": "गा/थक¦ (wie eben) <lex>m.</lex> <i>Sänger</i> <ls>P. 3, 1, 146.</ls> <ls>VOP. 26, 39.</ls> <ls>TRIK. 1, 1, 126.</ls> दक्षिणा गाथकाः <ls>P. 1, 1, 34</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

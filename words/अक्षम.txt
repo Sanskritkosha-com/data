@@ -55,5 +55,77 @@
             "pagenum": 111,
             "content": "<b>a-kṣama,</b>¦ <i><ab>a.</ab></i> not equal to a thing; unable, <i><ab>w.</ab> <ab>inf.</ab></i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "अक्षम",
+            "eid": "177",
+            "pagenum": 2,
+            "content": "अक्षम¦ a-kṣama, <lex>a.</lex> unable to, incapable of 🞄(<ab>lc.</ab>, <ab>inf.</ab> <i>or</i> <ab>—°</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अक्षम",
+            "eid": "553",
+            "pagenum": 3,
+            "content": "अ-क्षम ¦ <lex>mf(आ)n.</lex> unable to endure, impatient<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "अक्षम",
+            "eid": "554",
+            "pagenum": 3,
+            "content": "¦ incompetent (with <ab>Loc.</ab>, <ab>Inf.</ab> or <ab>ifc.</ab>), envious<info lex='inh'/>"
+        },
+        {
+            "word": "अक्षम",
+            "eid": "554.1",
+            "pagenum": 1308,
+            "content": "¦ unfit, improper, <ls>Jātakam.</ls><info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अक्षम",
+            "eid": "164",
+            "pagenum": 3,
+            "content": "अक्षम¦ <i>a-kṣama, as, ā, am,</i> unable to endure, impatient; incompetent. <i>—A-kṣamā</i> or <i>akṣa-</i> <i>ma-tā,</i> f. impatience, envy; incompetence."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अक्षम",
+            "eid": "290",
+            "pagenum": 1,
+            "content": "अक्षम¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>einer Sache nicht gewachsen, nicht vermögend, unfähig;</i> mit <ab>Loc.</ab>, <ab>Inf.</ab> oder am Ende eines <ab>Comp.</ab> <ls n='Chr.'>179,32</ls>. <div n='1'>— 2〉 <i>missgünstig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अक्षम",
+            "eid": "190",
+            "pagenum": 1,
+            "content": "अक्षम¦ (3. अ + क्षम) <lex>adj.</lex> <lex>f.</lex> आ <i>nicht im Stande zu tragen, nicht gewachsen</i>: व्रतोपवासाक्षमा <ls>SĀV. 4, 20.</ls> कार्याक्षम <ls>HIT. 6, 9.</ls> <i>nicht im Stande</i>, mit dem Inf.: पलायितुमक्षमः <ls n='HIT.'>12, 3.</ls> <ls n='HIT.'>18, 15.</ls> nach einem Nom. act.: स्त्रीधनं विना वर्तनाक्षमः <ls>DĀY. 125, 6.</ls>"
+        },
+        {
+            "word": "अक्षम",
+            "eid": "62516",
+            "pagenum": 5,
+            "content": "अक्षम¦ <lex>adj.</lex> <i>unfähig</i> <ls>Spr. 3378.</ls> <i>missgünstig</i> <ls>R. 3, 57, 20.</ls> आलाप <ls>Verz. d. Oxf. H. 120,a,20.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अक्षम",
+            "eid": "1834",
+            "pagenum": 2,
+            "content": "अक्षम¦ 3〉 <i>unpassend, unangemessen</i> <ls>BHĀG. P. 1,14,43</ls>."
+        },
+        {
+            "word": "अक्षम",
+            "eid": "9575",
+            "pagenum": 7,
+            "content": "अक्षम¦ I. 2 (<ls>JĀTAKAM. 19,6</ls>)."
+        }
     ]
 }

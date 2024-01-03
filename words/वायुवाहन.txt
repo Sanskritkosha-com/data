@@ -20,5 +20,35 @@
             "pagenum": 722,
             "content": "<b>Vāyuvāhana</b><sup>1</sup>¦ = Śiva (1000 names<sup>2</sup>).—Do.<sup>2</sup> = Viṣṇu (1000 names)."
         }
+    ],
+    "MW": [
+        {
+            "word": "वायुवाहन",
+            "eid": "191343",
+            "pagenum": 942,
+            "content": "वायु—वाहन ¦ <lex>m.</lex> ‘<ab>id.</ab>’, <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वायुवाहन",
+            "eid": "191344",
+            "pagenum": 942,
+            "content": "¦ of <s1 slp1='Siva'>Śiva</s1>, <ls>Śivag.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वायुवाहन",
+            "eid": "100807",
+            "pagenum": 6,
+            "content": "वायुवाहन¦ <lex>m.</lex> <ab>Bein.</ab> <div n='1'>— 1〉 *<is>Viṣṇu</is>ʼs. <div n='1'>— 2〉 <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वायुवाहन",
+            "eid": "90116",
+            "pagenum": 6,
+            "content": "वायुवाहन¦ <lex>adj.</lex> <i>den Wind zum Vehikel habend</i>; <lex>m.</lex> Bein. <is>Viṣṇu's</is> <ls>H. ś. 68. <is>Śiva's</is></ls> <ls>ŚIV.</ls>"
+        }
     ]
 }

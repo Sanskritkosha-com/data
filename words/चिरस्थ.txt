@@ -7,5 +7,41 @@
             "pagenum": 274,
             "content": "cira-sTa¦ <i>a.</i> lasting, long-enduring, durable."
         }
+    ],
+    "MW": [
+        {
+            "word": "चिरस्थ",
+            "eid": "74298",
+            "pagenum": 399,
+            "content": "चिर—स्थ ¦ <lex>mfn.</lex> long continuing, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "चिरस्थ",
+            "eid": "74299",
+            "pagenum": 399,
+            "content": "¦ = -स्थायिन्, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "चिरस्थ",
+            "eid": "74300",
+            "pagenum": 399,
+            "content": "¦ = नायक, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चिरस्थ",
+            "eid": "40272",
+            "pagenum": 2,
+            "content": "*चिरस्थ¦ <lex>m.</lex> = नायक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चिरस्थ",
+            "eid": "25613",
+            "pagenum": 2,
+            "content": "चिरस्थ¦ (चिर + स्थ) = नायक(?) <ls>TRIK. 3, 1, 8.</ls>"
+        }
     ]
 }

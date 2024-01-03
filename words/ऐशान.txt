@@ -39,5 +39,57 @@
             "pagenum": 68,
             "content": "ऐशान¦ <i>dass.</i> nordöstlich; <i>f.</i> ई der Nordost. <lbinfo n='4'/>"
         }
+    ],
+    "MD": [
+        {
+            "word": "ऐशान",
+            "eid": "5210",
+            "pagenum": 59,
+            "content": "ऐशान¦ aiśāna, <lex>a.</lex> (ī) <ab>id.</ab>; north-eastern; 🞄<b>ī,</b> <lex>f.</lex> north-east."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ऐशान",
+            "eid": "40549",
+            "pagenum": 234,
+            "content": "ऐशान ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> ईशान), relating to or coming from <s1 slp1='Siva'>Śiva</s1>, <ls>RāmatUp.</ls>; <ls>Vikr.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "ऐशान",
+            "eid": "40550",
+            "pagenum": 234,
+            "content": "¦ belonging to <s1 slp1='Siva'>Śiva</s1>'s quarter, north-eastern, <ls>VarBṛS.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऐशान",
+            "eid": "12916",
+            "pagenum": 188,
+            "content": "<i>Aiśāna, as, ī, am</i>¦ (fr. <i>īśāna</i>), belonging to Śiva; (<i>ī</i>), f. (scil. <i>diś</i>) the quarter of Śiva, the north-east quarter. <i>—Aiśāna-ja, ās,</i> m. pl. <i>= īśāna-ja,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऐशान",
+            "eid": "22567",
+            "pagenum": 1,
+            "content": "ऐशान¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <div n='2'>— a〉 <i>zu</i> <is>Śiva</is> <i>in Beziehung stehend</i>. <div n='2'>— b〉 <i>nordöstlich</i>. <div n='1'>— 2〉 (<lex>f.</lex> ई) <i>Nordost</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऐशान",
+            "eid": "13732",
+            "pagenum": 1,
+            "content": "ऐशान¦ <lex>adj.</lex> (f. ई) von ईशान <ls>H. 93</ls>, <ls>Sch.</ls> ऐशानी दिक् <is>Śiva's</is> <i>Weltgegend, Nordost</i> <ls>VIKR. 6, 4.</ls> mit Ergänzung von दिश् <ls>H. 169</ls>, <ls>Sch.</ls>  <ls>VYUTP. 191.</ls>"
+        },
+        {
+            "word": "ऐशान",
+            "eid": "69092",
+            "pagenum": 5,
+            "content": "ऐशान¦ <ls>WEBER, RĀMAT. UP. 308.</ls> अनिल <i>nordöstlich</i> <ls>VARĀH. BṚH. S. 26, 15. 27, 8.</ls> कोण <ls n='VARĀH. BṚH. S.'>53, 48.</ls> ऐशानी <lex>f.</lex> <i>Nordost</i> <ls n='VARĀH. BṚH. S.'>11, 13. 17. 14, 29. 53, 118.</ls>"
+        }
     ]
 }

@@ -15,5 +15,49 @@
             "pagenum": 401,
             "content": "paktrima¦ <i>a. (f. मा)</i> 1. Ripe, ripened; 2. mature."
         }
+    ],
+    "MW": [
+        {
+            "word": "पक्त्रिम",
+            "eid": "113426",
+            "pagenum": 575,
+            "content": "पक्°त्रिम ¦ <lex>mfn.</lex> obtained by cooking, <ls>Pāṇ. iii, 3, 88</ls>; <ls n='Pāṇ.'>iv, 4, 20</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पक्त्रिम",
+            "eid": "113427",
+            "pagenum": 575,
+            "content": "¦ ripe, <ls>HPariś.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पक्त्रिम",
+            "eid": "113428",
+            "pagenum": 575,
+            "content": "¦ cooked, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पक्त्रिम",
+            "eid": "26685",
+            "pagenum": 521,
+            "content": "<i>Paktrima, as, ā, am,</i>¦ prepared by cooking, cooked; obtained by boiling (as salt); ripe, ripened, matured."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पक्त्रिम",
+            "eid": "61568",
+            "pagenum": 4,
+            "content": "पक्त्रिम¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>durch Kochen gewonnen</i>. <div n='2'>— b〉 <i>reif</i> <ls>HEM. PAR. 2,365</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>durch Kochen gewonnenes Salz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पक्त्रिम",
+            "eid": "41169",
+            "pagenum": 4,
+            "content": "पक्त्रि/म¦ (wie eben) <lex>adj.</lex> <i>durch Kochen gewonnen</i> <ls>P. 3, 3, 88</ls>, <ls>Sch.</ls>  <ls>TRIK. 3, 1, 20.</ls> mit Ergänzung von लवण <i>durch Kochen gewonnenes Salz</i> <ls>SUŚR. 1, 157, 8.</ls>"
+        }
     ]
 }

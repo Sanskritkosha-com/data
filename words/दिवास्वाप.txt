@@ -7,5 +7,41 @@
             "pagenum": 332,
             "content": "divA-svApa¦ <i>m.</i> sleep during day-time."
         }
+    ],
+    "MW": [
+        {
+            "word": "दिवास्वाप",
+            "eid": "92345",
+            "pagenum": 479,
+            "content": "दिवा—स्वाप ¦ <lex>m.</lex> <ab>id.</ab>, <ls>Suśr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दिवास्वाप",
+            "eid": "92346",
+            "pagenum": 479,
+            "content": "दिवा—स्वाप ¦ <lex>mfn.</lex> sleeping by day,<info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिवास्वाप",
+            "eid": "50319",
+            "pagenum": 3,
+            "content": "दिवास्वाप¦ <lex>m.</lex> <ab>dass.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिवास्वाप",
+            "eid": "32988",
+            "pagenum": 3,
+            "content": "1. दिवास्वाप¦ (दिवा + स्वाप) <lex>m.</lex> dass.: सर्वर्तुषु दिवास्वापः प्रतिषिद्धो ऽन्यत्र ग्रीष्मात् <ls>SUŚR. 1, 330, 5.</ls>"
+        },
+        {
+            "word": "दिवास्वाप",
+            "eid": "32989",
+            "pagenum": 3,
+            "content": "2. दिवास्वाप¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>am Tage schlafend.</i> <div n='1'>— 2) <lex>f.</lex> आ <i>ein best. Vogel</i> (वल्गुला) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -13,5 +13,29 @@
             "pagenum": 2,
             "content": "चन्द्रार्की¦ and <symbol n='C.'>C.</symbol> by Dinakara. IO. 2541 (only <symbol n='C.'>C.</symbol>). fr."
         }
+    ],
+    "MW": [
+        {
+            "word": "चन्द्रार्की",
+            "eid": "71916.1",
+            "pagenum": 388,
+            "content": "candrA<srs/>rkI ¦ <lex>f.</lex> <ab>N.</ab> of an <ab>astron.</ab> work by <s1 slp1='dina-kara'>Dina-kara</s1><info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चन्द्रार्की",
+            "eid": "39114",
+            "pagenum": 2,
+            "content": "चन्द्रार्की¦ <lex>f.</lex> Titel eines Werkes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चन्द्रार्की",
+            "eid": "73581",
+            "pagenum": 5,
+            "content": "चन्द्रार्की¦ <lex>f.</lex> Titel eines Werkes <ls>Verz. d. Oxf. H. 327,b, No. 775.</ls>"
+        }
     ]
 }

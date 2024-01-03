@@ -76,5 +76,63 @@
             "pagenum": 714,
             "content": "SAda¦ <i>m.</i> 1. Fresh grass; 2. mud."
         }
+    ],
+    "MD": [
+        {
+            "word": "शाद",
+            "eid": "17742",
+            "pagenum": 311,
+            "content": "शाद¦ śā́d-a, <lex>m.</lex> falling off of (<i>leaves, in</i> parṇa-); 🞄grass (<ab>V.</ab>); <b>-ana,</b> <lex>n.</lex> falling off."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शाद",
+            "eid": "215242",
+            "pagenum": 1064,
+            "content": "शा/द ¦ <lex>m.</lex> (<ab>fr.</ab> √ <hom>2.</hom> शद् <ab>cf.</ab> <hom>2.</hom> शात) falling off, dropping (See पर्ण-श्°)<info lex='m'/>"
+        },
+        {
+            "word": "शाद",
+            "eid": "215243",
+            "pagenum": 1064,
+            "content": "¦ young grass, <ls>RV.</ls>; <ls>VS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शाद",
+            "eid": "215244",
+            "pagenum": 1064,
+            "content": "¦ mud, slime, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शाद",
+            "eid": "215245",
+            "pagenum": 1064,
+            "content": "¦ = रक्षस्, <ls>Sāy.</ls> on <ls>RV. ix, 15, 6</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शाद",
+            "eid": "46441",
+            "pagenum": 1000,
+            "content": "शाद¦ <i>śāda, as,</i> m. (fr. rt. <i>śad</i>), falling, dropping (Ved.); young or fresh grass; mud, (in these latter senses, according to Uṇādi-s. IV. 97, fr. rt. <i>śo</i>); [cf. Lith. <nsi>szuda-s:</nsi> Hib. <nsi>caidhe,</nsi> ‘dirt, a blemish;’ <nsi>caidheach,</nsi> ‘polluted.’] <i>—Śāda-harita, as, ā, am,</i> green or fresh with young grass."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शाद",
+            "eid": "111479",
+            "pagenum": 6,
+            "content": "शा/द¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>das Abfallen</i> in पर्णशाद. <div n='2'>— b〉 <i>Gras</i>. <div n='2'>— c〉 *<i>Sumpf</i>. <div n='2'>— d〉 *= रक्षस् <ls>SĀY. zu ṚV. 9,15,6</ls>. <div n='1'>— 2〉 <lex>f.</lex> शादा <i>Ziegel</i> <ls>GOBH. 4,7,12</ls> und Citat im <ab>Comm.</ab> zu 8."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शाद",
+            "eid": "98776",
+            "pagenum": 7,
+            "content": "शा/द¦ (von शद्) oxyt. <ls>UṆĀDIS. 4, 97.</ls> = शद <ls>P. 3, 1, 140.</ls> <div n='1'> 1) <i>das Abfallen</i>; s. पर्ण° . <div n='1'>— 2) <i>Gras</i> <ls>AK. 3, 4, 16, 92.</ls> <ls>H. an. 2, 235.</ls> <ls>MED. d. 16.</ls> <ls>HALĀY. 5, 14.</ls> °हरित <ls>AK. 2, 1, 10.</ls> <ls>H. 955.</ls> अव\\ शादे^षु (= रक्षस्सु Comm.) गच्छति der <is>Soma</is> <ls>ṚV. 9, 15, 6.</ls> शाद^ं द\\द्भिरव^कां दन्तमू\\लैः (प्रीणामि) <ls>VS. 25, 1.</ls> <div n='1'>— 3) <i>Sumpf</i> <ls>AK. 1, 2, 3, 9.</ls> <ls n='AK.'>3, 4, 16, 92.</ls> <ls>H. 1090.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 3, 56.</ls>"
+        }
     ]
 }

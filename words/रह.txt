@@ -35,5 +35,43 @@
             "pagenum": 445,
             "content": "रह¦ (°—) = रहस्."
         }
+    ],
+    "MW": [
+        {
+            "word": "रह",
+            "eid": "175926",
+            "pagenum": 871,
+            "content": "रह ¦ <lex>m.</lex> = <hom>2.</hom> रहस्, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रह",
+            "eid": "175933",
+            "pagenum": 871,
+            "content": "रहः ¦ in <ab>comp.</ab> for <hom>2.</hom> रहस्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रह",
+            "eid": "39263",
+            "pagenum": 836,
+            "content": "<i>Raha, as,</i>¦ m. = 1. <i>rahas</i> below. <i>—Raha-rūḍha-</i> <i>bhāva, as, ā, am,</i> withdrawn into privacy, being private or in secret. <i>—Raha-sū, ūs,</i> f., Ved. a woman bringing forth (a child) in secret, a bad woman who conceals the birth of her child. <i>—Raha-stha,</i> see under 1. <i>rahas</i> below."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रह",
+            "eid": "93105",
+            "pagenum": 5,
+            "content": "रह¦ (*<lex>m.</lex>) = <hom>2.</hom> रहस्. Am Anfange eines <ab>Comp.</ab> so <ab>v. a.</ab> <i>im Geheimen</i> <ls>BHĀG. P.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रह",
+            "eid": "83874",
+            "pagenum": 6,
+            "content": "रह¦ <lex>m.</lex> = रहस् Comm. zu <ls>AK. 2, 8, 1, 22.</ls> रहरूढभावाः <i>im Geheimen</i> <ls>BHĀG. P. 10, 55, 40.</ls>"
+        }
     ]
 }

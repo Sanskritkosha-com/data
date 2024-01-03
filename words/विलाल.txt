@@ -23,5 +23,43 @@
             "pagenum": 674,
             "content": "vilAla¦ <i>m.</i> 1. A machine; 2. a cat."
         }
+    ],
+    "MW": [
+        {
+            "word": "विलाल",
+            "eid": "199711",
+            "pagenum": 985,
+            "content": "विलाल ¦ <lex>m.</lex> (perhaps <ab>fr.</ab> √ लल्) = यन्त्र, a machine, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विलाल",
+            "eid": "199712",
+            "pagenum": 985,
+            "content": "¦ = बिलाल, a cat, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विलाल",
+            "eid": "43848",
+            "pagenum": 937,
+            "content": "विलाल¦ <i>vi-lāla, as,</i> m. (fr. rt. <i>lal</i> with <i>vi</i>), an instrument, machine (<i>= yantra</i>); a cat, (in this sense <i>= viḍāla, virāla,</i> q. q. v. v.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विलाल",
+            "eid": "104193",
+            "pagenum": 6,
+            "content": "*विलाल¦ <lex>m.</lex> = यन्त्र. <ab>Vgl.</ab> *बिलाल."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विलाल",
+            "eid": "92940",
+            "pagenum": 6,
+            "content": "विलाल¦ <lex>m.</lex> = यन्त्र <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. बिलाल ."
+        }
     ]
 }

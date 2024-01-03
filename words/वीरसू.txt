@@ -52,5 +52,35 @@
             "pagenum": 684,
             "content": "vIra-sU¦ <i>f.</i> mother of a hero."
         }
+    ],
+    "MW": [
+        {
+            "word": "वीरसू",
+            "eid": "203798",
+            "pagenum": 1006,
+            "content": "वीर—सू ¦ <lex>f.</lex> ‘hero-bearing’, the mother of a hero (-त्व <lex type='phw'>n.</lex>), <ls>RV.</ls> &c. &c.<info phwchild='203799.1'/><info lex='f'/>"
+        },
+        {
+            "word": "वीरसू",
+            "eid": "203799",
+            "pagenum": 1006,
+            "content": "¦ the mother of a male child, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वीरसू",
+            "eid": "106147",
+            "pagenum": 6,
+            "content": "वीरसू/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>Männer —, Söhne gebärend, — erzeugend</i> (Gegend). <ab>Nom. abstr.</ab> वीरसूत्व. <div n='1'>— 2〉 <lex>f.</lex> <i>Mutter eines Sohnes</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वीरसू",
+            "eid": "94567",
+            "pagenum": 6,
+            "content": "वीरसू/¦ <lex>adj.</lex> <i>Männer gebärend</i>, <lex>f.</lex> <i>Mutter eines Sohnes</i> <ls>AK. 2, 6, 1, 16.</ls> <ls>H. 558.</ls> <ls>ṚV. 10, 85, 44.</ls> <ls>AV. 14, 2, 18.</ls> <ls>GOBH. 2, 7, 12.</ls> <ls>YĀJÑ. 1, 76.</ls> <ls>MBH. 1, 7353.</ls> <ls n='MBH.'>3, 1389.</ls> <ls n='MBH. 3,'>1402.</ls> <ls n='MBH.'>5, 3223.</ls> वीरसूत्वेन (माता स्मृता) वीरसूः <ls n='MBH.'>12, 9512.</ls> <ls>R. 2, 51, 15.</ls> <ls n='R. 2,'>86, 16</ls> (<ls n='GORR. 2,'>94, 17</ls> <ls>GORR.</ls>). <ls>RAGH. 14, 4.</ls> <ls>MĀLAV. 91.</ls> <ls>BHĀG. P. 1, 7, 45. 4, 9, 50</ls> (°सुवस् gen.). <ls n='BHĀG. P.'>28, 20.</ls> <ls>Spr. (II) 613.</ls> als masc.: वीरसूनां देशानां कुरुजाङ्गलम् <i>Helden erzeugend</i> <ls>MBH. 1, 4360.</ls>"
+        }
     ]
 }

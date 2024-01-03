@@ -15,5 +15,87 @@
             "pagenum": 123,
             "content": "ॡ¦ <i>ḹ,</i> 10ᵉ lettre de l'alphabet ou 5ᵉ voyelle longue. Elle suit toutes les transformations <lbinfo n='10'/> de sa brève, en conservant sa propre quantité.  <P>Aucun mot sanscrit ne commence par <i>ḷ.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "ॡ",
+            "eid": "39151",
+            "pagenum": 227,
+            "content": "<hom>1.</hom> ॡ ¦ the tenth vowel of the alphabet (the corresponding long vowel to ऌ, entirely artificial and only appearing in the works of some grammarians and lexicographers)."
+        },
+        {
+            "word": "ॡ",
+            "eid": "39152",
+            "pagenum": 227,
+            "content": "<hom>2.</hom> ॡ ¦ <lex>m.</lex> <s1 slp1='Siva'>Śiva</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ॡ",
+            "eid": "39153",
+            "pagenum": 227,
+            "content": "ॡ ¦ <lex>f.</lex> the mother of the cow of plenty<info lex='f'/>"
+        },
+        {
+            "word": "ॡ",
+            "eid": "39154",
+            "pagenum": 227,
+            "content": "¦ the mother of the <s1 slp1='dAnava'>Dānava</s1>s<info lex='inh'/>"
+        },
+        {
+            "word": "ॡ",
+            "eid": "39155",
+            "pagenum": 227,
+            "content": "¦ wife of a <s1 slp1='dEtya'>Daitya</s1><info lex='inh'/>"
+        },
+        {
+            "word": "ॡ",
+            "eid": "39156",
+            "pagenum": 227,
+            "content": "¦ mother<info lex='inh'/>"
+        },
+        {
+            "word": "ॡ",
+            "eid": "39157",
+            "pagenum": 227,
+            "content": "¦ divine female<info lex='inh'/>"
+        },
+        {
+            "word": "ॡ",
+            "eid": "39158",
+            "pagenum": 227,
+            "content": "¦ female nature.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ॡ",
+            "eid": "12689",
+            "pagenum": 182,
+            "content": "ॡ¦ <i>ḹ,</i> ind. a mother; a divine female; female nature; (<i>ḹs</i>) m. a N. of Śiva; (<i>ḹs</i>), f. the mother of the Dānavas; wife of a Daitya; the mother of the all-bestowing cow of plenty; ind. a mystical letter used once or repeatedly in Mantras or mystical formularies; (the letters <i>ṝ</i> and <i>ḹ</i> are employed in the same manner; they have apparently no signification, but are personified and invested with mystical properties in the Tantras.)"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "ॡ",
+            "eid": "12062",
+            "pagenum": 3,
+            "content": "<i>Ḹ</i>¦ — the tenth face of fourteen-faced deva; Sāvarṇika Manu came from it. <div n='P'/>Vā. 26. 42"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ॡ",
+            "eid": "21691",
+            "pagenum": 1,
+            "content": "*ॡ¦ <is>Śiva</is>, <i>Mutter, Gottweib, weibliche Natur, die Mutter der</i> <is>Dānava</is>, <i>Frau eines</i> <is>Daitya</is>, <i>die Mutter der</i> <is>Kāmadhenu</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ॡ",
+            "eid": "13192",
+            "pagenum": 1,
+            "content": "ॡ¦ <div n='1'> 1) indecl. <i>Mutter; Gottweib</i> (देवनारी); <i>weibliche Natur</i> (नार्यात्मन्) <ls>MED. avy. 8.</ls> <div n='1'>— 2) <lex>m.</lex> (nom. ॡस्) ein N. <is>Śiva's</is>. <div n='1'>— 3) <lex>f.</lex> (nom. ॡस्) <i>die Mutter der</i> <is>Dānava</is>; <i>Frau eines</i> <is>Daitya</is>; <i>die Mutter der Wunschkuh</i> (कामधेनु) <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

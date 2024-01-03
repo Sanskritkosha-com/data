@@ -23,5 +23,43 @@
             "pagenum": 701,
             "content": "vyAlaka¦ <i>m.</i> A vicious elephant."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्यालक",
+            "eid": "209974",
+            "pagenum": 1038,
+            "content": "व्यालक ¦ <lex>m.</lex> a vicious elephant, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "व्यालक",
+            "eid": "209975",
+            "pagenum": 1038,
+            "content": "¦ a beast of prey, or a serpent, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्यालक",
+            "eid": "45707",
+            "pagenum": 981,
+            "content": "<i>Vyālaka, as,</i>¦ m. a vicious elephant."
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्यालक",
+            "eid": "108745",
+            "pagenum": 6,
+            "content": "व्यालक¦ <lex>m.</lex> <div n='1'>— 1〉 *<i>ein tückischer Elephant</i>. <div n='1'>— 2〉 <i>Raubthier oder Schlange</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्यालक",
+            "eid": "96636",
+            "pagenum": 6,
+            "content": "व्यालक¦ (von व्याल) <lex>m.</lex> <div n='1'> 1) <i>ein tückischer Elephant</i> <ls>TRIK. 2, 8, 35.</ls> <div n='1'>— 2) <i>Raubthier</i> oder <i>Schlange</i> <ls>MBH. 13, 5484.</ls>"
+        }
     ]
 }

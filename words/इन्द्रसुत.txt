@@ -28,5 +28,55 @@
             "pagenum": 118,
             "content": "indra-suta¦ <i>m.</i> (son of Indra) a name (1) of the monkey-king Vāli, (2) of Arjuna, (3) of Jayanta."
         }
+    ],
+    "MW": [
+        {
+            "word": "इन्द्रसुत",
+            "eid": "29134",
+            "pagenum": 167,
+            "content": "इन्द्र—सुत ¦ <lex>m.</lex> ‘son of <s1 slp1='indra'>Indra</s1>’, <ab>N.</ab> of the monkey-king <s1 slp1='vAlin'>Vālin</s1><info lex='m'/>"
+        },
+        {
+            "word": "इन्द्रसुत",
+            "eid": "29135",
+            "pagenum": 167,
+            "content": "¦ of <s1 slp1='arjuna'>Arjuna</s1><info lex='inh'/>"
+        },
+        {
+            "word": "इन्द्रसुत",
+            "eid": "29136",
+            "pagenum": 167,
+            "content": "¦ of <s1 slp1='jayanta'>Jayanta</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "इन्द्रसुत",
+            "eid": "17081",
+            "pagenum": 1,
+            "content": "*इन्द्रसुत¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Patron.</ab> <is>Arjuna</is>ʼs. <is>Jayanta</is>ʼs und des Affen <is>Vālin</is>. <div n='1'>— 2〉 <i><bot>Terminalia Arjuna W. u. A.</bot></i>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इन्द्रसुत",
+            "eid": "10233",
+            "pagenum": 1,
+            "content": "इन्द्रसुत¦ (इ° + सु°) <lex>m.</lex> <is>Indra's</is> <i>Sohn</i>; so heisst ausser <is>Arjuna</is> und <is>Jayanta</is> ( <ls>ŚKDR.</ls>) der Affenkönig <is>Bali</is> <ls>H. 704.</ls> Nach <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> bezeichnet das Wort auch die Pflanze अर्जुन ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "इन्द्रसुत",
+            "eid": "6839",
+            "pagenum": 5,
+            "content": "इन्द्रसुत¦ <lex>m.</lex> <ab>Patron.</ab> <is>Arjuna</is>ʼs <ls>ŚIŚ. 13,22</ls>."
+        },
+        {
+            "word": "इन्द्रसुत",
+            "eid": "14576",
+            "pagenum": 7,
+            "content": "इन्द्रसुत¦ I. 5."
+        }
     ]
 }

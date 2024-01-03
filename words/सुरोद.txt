@@ -15,5 +15,51 @@
             "pagenum": 787,
             "content": "surA-uda¦ <i>m.</i> the sea of spirituous liquor."
         }
+    ],
+    "MCI": [
+        {
+            "word": "सुरोद",
+            "eid": "1799",
+            "pagenum": 482,
+            "content": "<b>Suroda</b>¦ m.: Name of an ocean. <div n='P'>One of the oceans surrounding the Dvīpas in the north 6. 13. 1-2."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सुरोद",
+            "eid": "249765",
+            "pagenum": 1236,
+            "content": "suro<srs/>da ¦ <lex>mfn.</lex> having <s1 slp1='sUra'>Sūra</s1> for water, <ls>MBh.</ls>; <ls>VP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सुरोद",
+            "eid": "249766",
+            "pagenum": 1236,
+            "content": "suro<srs/>da ¦ <lex>m.</lex> the sea of <ab n='Surā' slp1='surA'>S°</ab>, <ls>BhP.</ls>; <ls>Pañcar.</ls><info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "सुरोद",
+            "eid": "16511",
+            "pagenum": 3,
+            "content": "<i>Suroda</i>¦ — the sea of wine surrounding Śālmalidvīpa. <div n='P'/>Bhā. V. 1. 33; 20. 7; M. 122. 104; 123. 1; Vi. II. 4. 33."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुरोद",
+            "eid": "127726",
+            "pagenum": 7,
+            "content": "सुरोद¦ <div n='1'>— 1〉 <lex>Adj.</lex> = सु/रोदक 1〉 <ls>MBH. 6,12,2</ls>. <ls>VP. 2,4,34</ls>. <div n='1'>— 2〉 <lex>n.</lex> = सुरोदक 2〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुरोद",
+            "eid": "111391",
+            "pagenum": 7,
+            "content": "सुरोद¦ (सुरा + उद) <lex>adj.</lex> <i>statt Wassers</i> <is>Surā</is> <i>habend</i>, <lex>m.</lex> <i>ein solches Meer</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>BHĀG. P. 5, 1, 34. 20, 7. 13.</ls> <ls>PAÑCAR. 2, 2, 80.</ls>"
+        }
     ]
 }

@@ -31,5 +31,61 @@
             "pagenum": 190,
             "content": "kIwaka¦ <i>m.</i> 1. A worm; 2. a bard of the Māgadha tribe."
         }
+    ],
+    "MW": [
+        {
+            "word": "कीटक",
+            "eid": "50734",
+            "pagenum": 285,
+            "content": "कीटक ¦ <lex>m.</lex> a worm, insect, <ls>R.</ls>; <ls>BhP.</ls>; <ls>MārkP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कीटक",
+            "eid": "50735",
+            "pagenum": 285,
+            "content": "¦ a kind of bard, panegyrist (descended from a <s1 slp1='kzatriya'>Kṣatriya</s1> father and <s1 slp1='vESya'>Vaiśya</s1> mother), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कीटक",
+            "eid": "50736",
+            "pagenum": 285,
+            "content": "¦ <ab>N.</ab> of a prince, <ls>MBh. i, 2696</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कीटक",
+            "eid": "50737",
+            "pagenum": 285,
+            "content": "कीटक ¦ <lex>mfn.</lex> hard, harsh, <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कीटक",
+            "eid": "14843",
+            "pagenum": 231,
+            "content": "<i>Kīṭaka, as,</i>¦ m. a worm, an insect; a kind of bard (<i>māgadha-jāti</i>), a panegyrist, descended from a Kṣatriya father and Vaiśya mother; N. of a prince; (<i>as, ā, am</i>), hard, harsh, unfeeling."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कीटक",
+            "eid": "28021",
+            "pagenum": 2,
+            "content": "कीटक¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>Wurm, Insect</i>. <div n='2'>— b〉 *<i>eine Art Barde</i>. <div n='2'>— c〉 <ab>N. pr.</ab> eines Fürsten. <div n='1'>— 2〉 *<lex>Adj.</lex> <i>hart</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कीटक",
+            "eid": "17343",
+            "pagenum": 2,
+            "content": "कीटक¦ (von कीट) <div n='1'> 1) <lex>m.</lex> <div n='2'> a) = कीट <ls>H. an. 3, 24.</ls> <ls>MED. k. 68.</ls> <div n='2'>— b) <i>eine Art Barde</i> (मागधजाति) <ls>DHAR.</ls> im <ls>ŚKDR.</ls> <div n='2'>— c) N. pr. eines Fürsten <ls>MBH. 1, 2696.</ls> <div n='1'>— 2) <lex>adj.</lex> <i>hart</i> (निष्टुर) <ls>H. an.</ls> <ls>MED.</ls> <div n='v'>— Vgl. u. कीकसा ."
+        },
+        {
+            "word": "कीटक",
+            "eid": "70786",
+            "pagenum": 5,
+            "content": "कीटक¦ <div n='1'> 1) <ls>R. 7, 37, 5, 35.</ls> <ls>BHĀG. P. 10, 67, 7.</ls> नरके च पतिष्यामि कीटकः कृमिभोजनः <ls>MĀRK. P. 8, 217.</ls>"
+        }
     ]
 }

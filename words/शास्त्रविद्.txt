@@ -28,5 +28,35 @@
             "pagenum": 717,
             "content": "SAstra-vid¦ <i>a.</i> conversant with the <i>Śāstras</i>."
         }
+    ],
+    "MW": [
+        {
+            "word": "शास्त्रविद्",
+            "eid": "216412",
+            "pagenum": 1069,
+            "content": "शास्त्र—विद् ¦ <lex>mfn.</lex> = -ज्ञा, <ls>Mn.</ls>; <ls>Gaut.</ls>; <ls>VarBṛ.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शास्त्रविद्",
+            "eid": "216413",
+            "pagenum": 1069,
+            "content": "¦ one who has studied the <s1 slp1='Ayur-veda'>Āyur-veda</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शास्त्रविद्",
+            "eid": "112036",
+            "pagenum": 6,
+            "content": "शास्त्रविद्¦ <lex>Adj.</lex> = शास्त्रज्ञ <ls>GAUT.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शास्त्रविद्",
+            "eid": "99191",
+            "pagenum": 7,
+            "content": "शास्त्रविद्¦ <lex>adj.</lex> = शास्त्रज्ञ <ls>AK. 3, 1, 6.</ls> <ls>H. 345.</ls> <ls>HALĀY. 2, 244.</ls> <ls>M. 7, 54.</ls> <ls>VARĀH. BṚH. 17, 3.</ls>"
+        }
     ]
 }

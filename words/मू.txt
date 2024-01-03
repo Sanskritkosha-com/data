@@ -53,5 +53,81 @@
             "pagenum": 580,
             "content": "mU¦ <i>vt. 1A (pres. मवते)</i> To tie, to bind."
         }
+    ],
+    "MD": [
+        {
+            "word": "मू",
+            "eid": "14335",
+            "pagenum": 232,
+            "content": "[मू¦ MŪ, bind, fasten, close]."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मू",
+            "eid": "166164",
+            "pagenum": 825,
+            "content": "<hom>1.</hom> मू ¦ (<ab>cf.</ab> √ मव् and <hom>1.</hom> मीव्) <ab>cl.</ab> 1. <ab>Ā.</ab> मवते, to bind, tie, fix, <ls>Dhātup. xxii, 71</ls> : <div n='vp'/><ab>Caus.</ab> <ab>aor.</ab> अमीमवत्, <ls>Pāṇ. vii, 4, 80</ls>, <ab>Sch.</ab>: <div n='vp'/><ab>Desid.</ab> of <ab>Caus.</ab> मिमावयिषति, <ls>ib.</ls> : <div n='vp'/><ab>Intens.</ab> मामोति, मामवीति, <ls>Siddh.</ls> on <ls>Pāṇ. vi, 4, 20.</ls><info westergaard='mUN,22.71,01.0683'/><info verb='root' cp='1Ā'/>"
+        },
+        {
+            "word": "मू",
+            "eid": "166165",
+            "pagenum": 825,
+            "content": "<hom>2.</hom> मू ¦ <lex>mfn.</lex> binding, tying, fixing, <ls>Pāṇ. vi, 4, 20</ls>, <ab>Sch.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "मू",
+            "eid": "166166",
+            "pagenum": 825,
+            "content": "मू ¦ <lex>f.</lex> the act of binding or tying, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "मू",
+            "eid": "166189",
+            "pagenum": 825,
+            "content": "<hom>3.</hom> मू ¦ weak form of √ मीव्, <ab>q.v.</ab>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मू",
+            "eid": "37725",
+            "pagenum": 787,
+            "content": "मू 1¦. <i>mū</i> (connected with rts. <i>mav,</i> <i>mavy</i>), cl. 1. A. <i>mavate</i> (sometimes P. <i>-ti</i>), to bind, tie, make fast: Caus. Aor. <i>amīmavat:</i> Desid. of Caus. <i>mimāvayiṣati,</i> see Scholist on Pāṇ. VII. 4, 80."
+        },
+        {
+            "word": "मू",
+            "eid": "37726",
+            "pagenum": 787,
+            "content": "2. <i>mū, ūs,</i>¦ f. binding, tying."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मू",
+            "eid": "87790",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> *√मू¦ मवते बन्धने मूत <i>gebunden</i>. <div n='m'>— <ab>Caus.</ab> <ab>Aor.</ab> अमीमवत् <div n='m'>— <ab>Desid.</ab> vom <ab>Caus.</ab> मिमावयिषति. <ab>Vgl.</ab> मव् मव्य् und मूत."
+        },
+        {
+            "word": "मू",
+            "eid": "87791",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> *मू¦ <lex>Adj.</lex> <i>bindend</i> oder <lex>f.</lex> <i>das Binden</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मू",
+            "eid": "61188",
+            "pagenum": 5,
+            "content": "1. मू¦, म/वते <i>binden</i> <ls>DHĀTUP. 22, 71.</ls> caus. aor. अमीमवत्, desid. vom caus. मिमावयिषति <ls>P. 7, 4, 80</ls>, <ls>Sch.</ls>  <div n='v'>— Vgl. मव्, मव्य्, मूत ."
+        },
+        {
+            "word": "मू",
+            "eid": "61189",
+            "pagenum": 5,
+            "content": "2. मू¦ (von मव्) wohl nom. ag. <ls>P. 6, 4, 20</ls>, <ls>Sch.</ls>  <ls>VOP. 26, 75.</ls> <lex>f.</lex> <i>das Binden</i> <ls>ŚKDR.</ls> nach <ls>SIDDH. K.</ls>"
+        }
     ]
 }

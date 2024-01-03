@@ -37,5 +37,79 @@
             "pagenum": 72,
             "content": "<i>cha</i>¦ (PJS) written as a mark indicating the end of a section of a record or of the whole of it. Cf. <i>Ep. Ind.,</i> Vol. XXX, p. 218."
         }
+    ],
+    "MW": [
+        {
+            "word": "छ",
+            "eid": "75349",
+            "pagenum": 404,
+            "content": "<hom>1.</hom> छ ¦ the 7th consonant (aspirate of the preceding)."
+        },
+        {
+            "word": "छ",
+            "eid": "75351",
+            "pagenum": 404,
+            "content": "<hom>2.</hom> छ ¦ <lex>m.</lex> (√ छो) dividing, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "छ",
+            "eid": "75352",
+            "pagenum": 404,
+            "content": "¦ a fragment, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "छ",
+            "eid": "75354",
+            "pagenum": 404,
+            "content": "<hom>3.</hom> छ ¦ <lex>mfn.</lex> pure, clean, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "छ",
+            "eid": "75355",
+            "pagenum": 404,
+            "content": "¦ tremulous, unsteady, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छ",
+            "eid": "18977",
+            "pagenum": 331,
+            "content": "छ 1¦. <i>cha,</i> the seventh consonant of the Sanskrit alphabet, being the aspirate of the preceding letter, and having the sound of <nsi>chh</nsi> in <nsi>church-hill.</nsi> <i>—Cha-kāra, as,</i> m. the letter or sound <i>cha.</i>"
+        },
+        {
+            "word": "छ",
+            "eid": "18978",
+            "pagenum": 331,
+            "content": "छ 2¦. <i>cha, as,</i> m. (fr. rt. <i>cho</i>), cutting, dividing; a part, a fragment."
+        },
+        {
+            "word": "छ",
+            "eid": "18979",
+            "pagenum": 331,
+            "content": "छ 3¦. <i>cha, as, ā, am</i> (perhaps connected with <i>cho</i>), pure, clean; trembling, tremulous, unsteady; (<i>ā</i>), f. covering, concealing (in this sense connected with rt. <i>chad</i>); an infant, a child, any young animal (?); [cf. <i>chā.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "छ",
+            "eid": "40835",
+            "pagenum": 2,
+            "content": "*छ¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>rein</i>. <div n='2'>— b〉 <i>zitternd, beweglich</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>das Abschneiden, Abschnitt</i>. <div n='1'>— 3〉 *<lex>f.</lex> आ <i>das Verdecken</i>. <div n='1'>— 4〉 <lex>n.</lex> <i>Zeichen, Abzeichen</i> <ls>VIŚVA.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छ",
+            "eid": "26045",
+            "pagenum": 2,
+            "content": "1. छ¦ <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>rein</i> <ls>MED. kh. 1.</ls> <div n='2'>— b) <i>zitternd, beweglich</i> <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> छा <i>das Verdecken</i> <ls>MED.</ls> <div n='v'>— Vgl. छा ."
+        },
+        {
+            "word": "छ",
+            "eid": "26046",
+            "pagenum": 2,
+            "content": "2. छ¦ (von छा) <lex>m.</lex> <i>das Abschneiden, Abschnitt</i> (छेदन) <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

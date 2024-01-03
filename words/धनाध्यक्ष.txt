@@ -37,5 +37,55 @@
             "pagenum": 352,
             "content": "Dana-aDyakza¦ <i>m.</i> 1. an epithet of Kubera, <ls>Kir.</ls>v.16; 2. a treasurer."
         }
+    ],
+    "MW": [
+        {
+            "word": "धनाध्यक्ष",
+            "eid": "99439",
+            "pagenum": 508,
+            "content": "DanA<srs/>Dyakza ¦ <lex>m.</lex> ‘overseer of <ab n='treasury'>t°</ab>’, treasurer, <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "धनाध्यक्ष",
+            "eid": "99440",
+            "pagenum": 508,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='kubera'>Kubera</s1>, <ls>MBh.</ls>; <ls>Hariv.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "धनाध्यक्ष",
+            "eid": "6481",
+            "pagenum": 2,
+            "content": "<i>Dhanādhyakṣa</i> (I)¦ — see Kubera<sup>1</sup> (s.v.); the king of the Yakṣas;<sup>2</sup> gaḍā, his weapon; in charge of eight <i>nidhis.</i><sup>3</sup> <F>1) M. 148. 85; 150. 12; 159. 9.</F> <F>2) Vā. 41. 4.</F> <F>3) Ib. 41. 10-11.</F>"
+        },
+        {
+            "word": "धनाध्यक्ष",
+            "eid": "6482",
+            "pagenum": 2,
+            "content": "<i>Dhanādhyakṣa</i> (II)¦ — Treasury officer. <div n='P'/>M. 215. 32."
+        }
+    ],
+    "PW": [
+        {
+            "word": "धनाध्यक्ष",
+            "eid": "54447",
+            "pagenum": 3,
+            "content": "धनाध्यक्ष¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Schatzmeister</i>. <div n='1'>— 2〉 <ab>Bein.</ab> <is>Kubera</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धनाध्यक्ष",
+            "eid": "36066",
+            "pagenum": 3,
+            "content": "धनाध्यक्ष¦ (धन + अध्यक्ष) <lex>m.</lex> <i>ein Aufseher über die Schätze, Schatzmeister</i> <ls>R. 1, 69, 2</ls> (GORR. <ls n='GORR. 1,'>71, 2</ls>). <ls n='R.'>2, 32, 25</ls> (GORR. <ls n='GORR. 2,'>32, 33</ls>). neben कोषाध्यक्ष <ls>RĀJA-TAR. 1, 119.</ls> Bein. <is>Kuvera's</is> <ls>MBH. 1, 6837.</ls> <ls n='MBH.'>3, 1697.</ls> <ls n='MBH.'>14, 1923.</ls> <ls>HARIV. 12626.</ls> <ls n='HARIV.'>13808.</ls> <ls>R. 3, 44, 28. 5, 89, 7. <is>Śiva's</is></ls> <ls>ŚIV.</ls>"
+        },
+        {
+            "word": "धनाध्यक्ष",
+            "eid": "76445",
+            "pagenum": 5,
+            "content": "धनाध्यक्ष¦ <i>Schatzmeister</i> <ls>BHĀG. P. 10, 75, 4.</ls> ad <ls>HIT. III, 53.</ls> <is>Kubera</is> <ls>HALĀY. 1, 78.</ls> <ls>R. 7, 11, 7.</ls> <ls n='R. 7,'>15, 1.</ls> <ls>KATHĀS. 121, 9.</ls>"
+        }
     ]
 }

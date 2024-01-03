@@ -27,5 +27,25 @@
             "pagenum": 502,
             "content": "<b>PARALLEL</b>¦ (subs.): <div n='I'>I A p. line: समान्तररेखा। <div n='xe'><i>P. of latitude:</i></div> <div n='xs'>अक्षवृत्तम्।</div> </div><div n='I'>II Resemblance, likeness: q. v.: सादृश्यम्। </div><div n='I'>III Equal, match: q. v.: समः (मा, मं).</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "parallel",
+            "eid": "21620",
+            "pagenum": 570,
+            "content": "PARALLEL¦, <i>a.</i> (In geometry) एकदिङ्मुखसमान्तरः -रा -रं, एकदिग्ग- तसमान्तरः -रा -रं, समान्तरः -रा -रं, सरलसमान्तरः -रा -रं; ‘two parallel lines,’ एकदिग्गतसमान्तररेखाद्वयं, सरलसमान्तररेखाद्वयं, सरलरेखाद्वयं. — (Like, similar) समः -मा -मं, समानः -ना, -नं, तुल्यः -ल्या -ल्यं, सदृशः -शी -शं, अनुरूपः -पा -पं, समभावः -वा -वं, समरूपः -पा -पं."
+        },
+        {
+            "word": "parallel",
+            "eid": "21621",
+            "pagenum": 570,
+            "content": "PARALLEL¦, <i>s.</i> (A line equidistant from another) समान्तररेखा; ‘of latitude,’ स्पष्टपरिधिः <i>m.,</i> अक्षवृत्तं, अक्षांशवृत्तं. — (Likeness, conformity) सादृश्यं, सदृशता, सारूष्यं, अनुरूपता, आनुरूष्यं, समरू- पता, समता, साम्यं, समानता. — (Comparison) उपमा, औपम्यं."
+        },
+        {
+            "word": "parallel",
+            "eid": "21622",
+            "pagenum": 570,
+            "content": "<i>To</i> PARALLEL¦, <i>v. a.</i> (Make parallel) समान्तरीकृ, समान्तरं -रां कृ. — (Compare) उपमा, तुल्, साधारणीकृ, समीकृ. — (Correspond, be equal to) समीभू, सदृशीभू, अनुरूपः -पा -पम् अस् or भू."
+        }
     ]
 }

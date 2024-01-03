@@ -12,5 +12,39 @@
             "synonyms": [],
             "content": "काकमाची वायसी स्यात्कारवेल्लः कठिल्लकः ।"
         }
+    ],
+    "MW": [
+        {
+            "word": "वायसी",
+            "eid": "191200",
+            "pagenum": 942,
+            "content": "वायसी <hom>a</hom> ¦ (ई), <lex>f.</lex> a female crow, <ls>Mṛcch.</ls>; <ls>Pañcat.</ls>; <ls>Hit.</ls><info lex='f'/>"
+        },
+        {
+            "word": "वायसी",
+            "eid": "191201",
+            "pagenum": 942,
+            "content": "¦ <ab>N.</ab> of various plants (<ab>accord.</ab> to <ls>L.</ls> <bot>Ficus Oppositifolia</bot>, <bot>Agati Grandiflora</bot> = काकतुण्डी and = महा-ज्योतिष्मती), <ls>Suśr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वायसी",
+            "eid": "191222",
+            "pagenum": 942,
+            "content": "वायसी <hom>b</hom> ¦ in <ab>comp.</ab> for वायस."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वायसी",
+            "eid": "100741",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> वायसी¦ <lex>Adj.</lex> <lex>f.</lex> und <ab>Subst.</ab> <ab>s. u.</ab> <hom>1.</hom> und <hom>2.</hom> वायस."
+        },
+        {
+            "word": "वायसी",
+            "eid": "100742",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> वायसी¦ <lex>Adv.</lex> <div n='1'>— 1〉 mit कर् <i>in eine Krähe verwandeln</i>. <div n='1'>— 2〉 mit भू <i>in eine Krähe verwandelt werden</i>."
+        }
     ]
 }

@@ -34,5 +34,41 @@
             "pagenum": 362,
             "content": "DUma-UrRA¦ <i>f.</i> name of the wife of Yama."
         }
+    ],
+    "MW": [
+        {
+            "word": "धूमोर्णा",
+            "eid": "101615",
+            "pagenum": 518,
+            "content": "DUmo<srs/>rRA ¦ <lex>f.</lex> ‘smoke-wool’, <ab>N.</ab> of the wife of <s1 slp1='yama'>Yama</s1>, <ls>MBh.</ls> (-पति <lex type='phw'>m.</lex> = <ab n='Yama' slp1='yama'>Y°</ab>, <ls>L.</ls>)<info phwchild='101616.1'/><info lex='f'/>"
+        },
+        {
+            "word": "धूमोर्णा",
+            "eid": "101616",
+            "pagenum": 518,
+            "content": "¦ of the wife of <s1 slp1='mArkaRqeya'>Mārkaṇḍeya</s1>, <ls>ib.</ls> (<ab>cf.</ab> DUmro<srs/>rRA). <info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धूमोर्णा",
+            "eid": "55608",
+            "pagenum": 3,
+            "content": "धूमोर्णा¦ <lex>f.</lex> <ab>N. pr.</ab> der Gattin <div n='1'>— 1〉 <is>Yama</is>ʼs <ls>MBH. 5,117,9</ls>. <ls>VĀSAV. 154,2</ls>. *°पति <lex>m.</lex> <ab>Bein.</ab> <is>Yama</is>ʼs. <div n='1'>— 2〉 <is>Mārkaṇḍeya</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धूमोर्णा",
+            "eid": "36897",
+            "pagenum": 3,
+            "content": "धूमोर्णा¦ (धूम + ऊर्णा) <lex>f.</lex> N. pr. <div n='1'> 1) der Gemahlin <is>Yama's</is> <ls>TRIK. 1, 1, 72.</ls> <ls>H. 185.</ls> <ls>MBH. 13, 7637.</ls> °पति Beiw. <is>Yama's</is> <ls>HĀR. 57.</ls> <div n='1'>— 2) der Gemahlin <is>Mārkaṇḍeya's</is> <ls>MBH. 13, 6750.</ls> <div n='v'>— Vgl. धूम्रोर्णा ."
+        },
+        {
+            "word": "धूमोर्णा",
+            "eid": "76655",
+            "pagenum": 5,
+            "content": "धूमोर्णा¦ <div n='1'> 1) <ls>MBH. 5, 3968</ls> nach der Lesart der <ls>ed. Bomb.</ls>"
+        }
     ]
 }

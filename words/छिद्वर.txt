@@ -15,5 +15,37 @@
             "pagenum": 255,
             "content": "छिद्वर¦ <i>chidvara</i> <ab>a.</ab> <ab>cf.</ab> <i>chitvara.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "छिद्वर",
+            "eid": "75966",
+            "pagenum": 406,
+            "content": "छिद्वर ¦ <lex>mfn.</lex> = छित्त्व्°, <ls>W.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छिद्वर",
+            "eid": "19117",
+            "pagenum": 334,
+            "content": "<i>Chidvara, as, ā, am, = chittvara.</i>¦"
+        }
+    ],
+    "PW": [
+        {
+            "word": "छिद्वर",
+            "eid": "41141",
+            "pagenum": 2,
+            "content": "*छिद्वर¦ <lex>Adj.</lex> = छित्त्वर."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छिद्वर",
+            "eid": "26255",
+            "pagenum": 2,
+            "content": "छिद्वर¦ = छित्त्वर <ls>WILS.</ls>"
+        }
     ]
 }

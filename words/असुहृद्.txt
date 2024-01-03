@@ -44,5 +44,69 @@
             "pagenum": 55,
             "content": "असुहृद्¦ <lex>m.</lex> not friend, foe."
         }
+    ],
+    "MD": [
+        {
+            "word": "असुहृद्",
+            "eid": "3218",
+            "pagenum": 35,
+            "content": "असुहृद्¦ a-suhṛd, <lex>m.</lex> no friend; <lex>a.</lex> friendless."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असुहृद्",
+            "eid": "21130",
+            "pagenum": 121,
+            "content": "अ-सुहृद् ¦ <lex>m.</lex> not a friend, <ab>N.</ab><info lex='m'/>"
+        },
+        {
+            "word": "असुहृद्",
+            "eid": "21131",
+            "pagenum": 121,
+            "content": "¦ an enemy, <ls>R. v, 76, 5</ls><info lex='inh'/>"
+        },
+        {
+            "word": "असुहृद्",
+            "eid": "21132",
+            "pagenum": 121,
+            "content": "अ-सुहृद् ¦ <lex>mfn.</lex> having no friend, <ls>MBh. xii, 6485.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असुहृद्",
+            "eid": "7578",
+            "pagenum": 106,
+            "content": "असुहृद्¦ <i>a-suhṛd, t,</i> m. not a friend, an enemy."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असुहृद्",
+            "eid": "12729",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> असुहृद्¦ <lex>m.</lex> <div n='1'>— 1〉 <i>kein Freund</i>. <div n='1'>— 2〉 <i>Feind</i>."
+        },
+        {
+            "word": "असुहृद्",
+            "eid": "12730",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> असुहृद्¦ <lex>Adj.</lex> <i>keinen Freund habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "असुहृद्",
+            "eid": "7447",
+            "pagenum": 1,
+            "content": "असुहृद्¦ (3. अ + सु°) <lex>m.</lex> <i>Nicht - Freund</i> (ohne deshalb ein Feind zu sein) <ls>N. 26, 14.</ls> <i>Feind</i> <ls>H. 729</ls>, <ls>Sch.</ls>  <ls>R. 5, 76, 5.</ls> Häufig am Ende eines comp. <ls>H. 200.</ls>"
+        },
+        {
+            "word": "असुहृद्",
+            "eid": "65917",
+            "pagenum": 5,
+            "content": "असुहृद्¦ <lex>m.</lex> <i>Feind</i>: जनासुहृद् <ls>RĀJA-TAR. 5, 191.</ls> <lex>adj.</lex> <i>keinen Freund habend</i> <ls>Spr. 3652.</ls>"
+        }
     ]
 }

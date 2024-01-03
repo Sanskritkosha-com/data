@@ -39,5 +39,55 @@
             "pagenum": 110,
             "content": "Avedana¦ <i>n.</i> 1. Representation; 2. stating a complaint (in law); 3. a plaint (in law)."
         }
+    ],
+    "MW": [
+        {
+            "word": "आवेदन",
+            "eid": "27091",
+            "pagenum": 155,
+            "content": "आ-वेदन ¦ <lex>n.</lex> announcing, informing, <ls>AitBr.</ls><info lex='n'/>"
+        },
+        {
+            "word": "आवेदन",
+            "eid": "27092",
+            "pagenum": 155,
+            "content": "¦ stating a complaint<info lex='inh'/>"
+        },
+        {
+            "word": "आवेदन",
+            "eid": "27093",
+            "pagenum": 155,
+            "content": "¦ addressing or apprising respectfully.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आवेदन",
+            "eid": "9384",
+            "pagenum": 131,
+            "content": "<i>Ā-vedana, am,</i>¦ n. representation, stating a complaint, addressing or apprising respectfully."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आवेदन",
+            "eid": "16030",
+            "pagenum": 1,
+            "content": "आवेदन¦ <lex>n.</lex> <div n='1'>— 1〉 <i>Ankündigung, Anmeldung</i>. <div n='1'>— 2〉 <i>gerichtliche Anzeige</i> <ls n='Chr.'>214,13. 30</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आवेदन",
+            "eid": "9516",
+            "pagenum": 1,
+            "content": "आवेदन¦ (wie eben) <lex>n.</lex> <i>Ankündigung, Anmeldung</i>: दीक्षायाः <ls>AIT. BR. 8, 25.</ls>"
+        },
+        {
+            "word": "आवेदन",
+            "eid": "66957",
+            "pagenum": 5,
+            "content": "आवेदन¦, स्वागमावेदन <ls>KATHĀS. 70, 48.</ls> <ls n='KATHĀS.'>121, 270.</ls>"
+        }
     ]
 }

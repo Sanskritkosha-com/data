@@ -7,5 +7,41 @@
             "pagenum": 243,
             "content": "gucCa-Pala¦ <i>m.</i> the vine."
         }
+    ],
+    "MW": [
+        {
+            "word": "गुच्छफल",
+            "eid": "65369",
+            "pagenum": 356,
+            "content": "गुच्छ—फल ¦ <lex>m.</lex> ‘bunch-fruited’, a kind of <s1 slp1='karaYja'>Karañja</s1> (रिठा-करञ्ज), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गुच्छफल",
+            "eid": "65370",
+            "pagenum": 356,
+            "content": "¦ <bot>Strychnos potatorum</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गुच्छफल",
+            "eid": "65371",
+            "pagenum": 356,
+            "content": "¦ <bot>Mimusops hexandra</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गुच्छफल",
+            "eid": "35606",
+            "pagenum": 2,
+            "content": "*गुच्छफल¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>eine</i> <is>Karañja</is>-<i>Art</i> <ls>RĀJAN. 9,72</ls>. <div n='2'>— b〉 <i><bot>Strychnos potatorum</bot></i>. <div n='2'>— c〉 <i><bot>Mimusops hexandra</bot></i> <ls>RĀJAN. 11,72</ls>. <div n='1'>— 2〉 <lex>f.</lex> आ <lex>f.</lex> आ <div n='2'>— a〉 <i><bot>Musa sapientum</bot></i>. [Page2-168-b] <div n='2'>— b〉 <i>Weinstock</i>. <div n='2'>— c〉 <i><bot>Solanum indicum und Jacquini</bot></i>. <div n='2'>— d〉 <i>eine <ab>best.</ab> Hülsenfrucht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गुच्छफल",
+            "eid": "22513",
+            "pagenum": 2,
+            "content": "गुच्छफल¦ (गुच्छ + फल) <div n='1'> 1) <lex>m.</lex> N. verschiedener Pflanzen: <div n='2'> a) = रीठाकरञ्ज .  <div n='2'>— b) <i>Strychnos potatorum Lin.</i> (s. कतक). <div n='2'>— c) = राजादनी <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> आ N. verschiedener Pflanzen: <div n='2'> a) <i>Musa sapientum, Pisang</i> (s. कदली). <div n='2'>— b) <i>Weinstock.</i> <div n='2'>— c) <i>Solanum indicum Lin.</i> (काकमाची). <div n='2'>— d) <i>Solanum Jacquini</i> (अग्निदमनी). <div n='2'>— e) <i>eine best. Hülsenfrucht</i> (s. निष्पावी) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

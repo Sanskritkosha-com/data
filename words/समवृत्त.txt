@@ -23,5 +23,41 @@
             "pagenum": 757,
             "content": "sama-vftta¦ <i>n.</i> a stanza whose verses are all alike (in prosody). See App. I."
         }
+    ],
+    "MW": [
+        {
+            "word": "समवृत्त",
+            "eid": "233173",
+            "pagenum": 1152,
+            "content": "सम—वृत्त ¦ <lex>mfn.</lex> uniformly round or equal and <ab n='round'>r°</ab>, <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "समवृत्त",
+            "eid": "233174",
+            "pagenum": 1152,
+            "content": "सम—वृत्त ¦ <lex>n.</lex> the prime vertical circle, <ls>Gol.</ls><info lex='n'/>"
+        },
+        {
+            "word": "समवृत्त",
+            "eid": "233175",
+            "pagenum": 1152,
+            "content": "¦ a uniform metre, a metre with 4 <ab n='equal'>eq°</ab> <s1 slp1='pAda'>Pāda</s1>s, <ls>Piṅg.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "समवृत्त",
+            "eid": "120106",
+            "pagenum": 7,
+            "content": "समवृत्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>gleichmässig, rund oder gleich und rund</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>der erste Verticalkreis</i>. <div n='2'>— b〉 <i>ein gleichmässiges Metrum, ein Metrum mit vier gleichen Stollen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समवृत्त",
+            "eid": "105459",
+            "pagenum": 7,
+            "content": "समवृत्त¦ <div n='1'> 1) <lex>adj.</lex> <i>gleichmässig rund</i> oder <i>gleich und rund</i> (Comm.): स्तनौ <ls>BHĀG. P. 4, 25, 24.</ls> <div n='1'>— 2) <lex>n.</lex> <div n='2'> a) <i>der erste Verticalkreis</i> (vgl. सममण्डल) <ls>GOL. GRAHAṆAV. 44. 49.</ls> °कर्ण <i>die Hypotenuse des Schattens zur Zeit, wenn die Sonne den ersten Verticalkreis erreicht</i>, <ls>GAṆIT.</ls> <ls>TRIPR. 42.</ls> °शङ्कु = समशङ्कु <ls n='TRIPR.'>15. 17.</ls> <div n='2'>— b) <i>ein gleichmässiges Metrum, ein Metrum mit vier gleichen</i> <is>Pāda</is> <ls>Ind. St. 8, 363. fgg.</ls> <ls>Verz. d. B. H. No. 810. 814.</ls>"
+        }
     ]
 }

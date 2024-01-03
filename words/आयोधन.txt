@@ -60,5 +60,49 @@
             "pagenum": 106,
             "content": "AyoDana¦ <i>n.</i> 1. War, battle, आयोधने कृष्णगतिं सहायम् <ls>R.</ls>vi.42, also v.71; 2. a battle-field."
         }
+    ],
+    "MD": [
+        {
+            "word": "आयोधन",
+            "eid": "3787",
+            "pagenum": 41,
+            "content": "आयोधन¦ ā-yodh-ana, <lex>n.</lex> fight, battle; 🞄battle-field."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आयोधन",
+            "eid": "25969",
+            "pagenum": 149,
+            "content": "आ-योधन ¦ <lex>n.</lex> war, battle, <ls>MBh.</ls>; <ls>Ragh.</ls><info lex='n'/>"
+        },
+        {
+            "word": "आयोधन",
+            "eid": "25970",
+            "pagenum": 149,
+            "content": "¦ battle-field, <ls>MBh.</ls>; <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आयोधन",
+            "eid": "25971",
+            "pagenum": 149,
+            "content": "¦ killing, slaughter, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आयोधन",
+            "eid": "9035",
+            "pagenum": 127,
+            "content": "<i>Ā-yodhana, am,</i>¦ n. war, battle; slaughter, killing; battle-field."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आयोधन",
+            "eid": "9090",
+            "pagenum": 1,
+            "content": "आयोधन¦ (von युध् mit आ) <lex>n.</lex> <div n='1'> 1) <i>Kampf, Schlacht</i> <ls>AK. 2, 8, 2, 72.</ls> <ls>H. 796.</ls> <ls>an. 4, 158.</ls> <ls>MED. n. 165.</ls> कौरवायोधन <ls>MBH. 1, 584.</ls> <ls>RAGH. 6, 42.</ls> आयोधनाग्रसरता <ls n='RAGH.'>5, 71.</ls> <div n='1'>— 2) <i>Todtschlag</i> (वध) <ls>H. an.</ls> <ls>MED.</ls> <div n='1'>— 3) <i>Kampfplatz</i>: प्रययौ - तूर्णमायोधनं प्रति <ls>MBH. 3, 16445.</ls> <ls>DRAUP. 8, 30.</ls> <ls>R. 3, 32, 32.</ls> <ls n='R.'>6, 105, 18</ls> <ls n='R. 6,'>108, 4.</ls>"
+        }
     ]
 }

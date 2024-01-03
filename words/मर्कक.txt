@@ -7,5 +7,35 @@
             "pagenum": 846,
             "content": "मर्ककः¦ A spider."
         }
+    ],
+    "MW": [
+        {
+            "word": "मर्कक",
+            "eid": "158410",
+            "pagenum": 791,
+            "content": "मर्कक ¦ <lex>m.</lex> <bio>Ardea Argala</bio>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मर्कक",
+            "eid": "158411",
+            "pagenum": 791,
+            "content": "¦ a spider, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मर्कक",
+            "eid": "36549",
+            "pagenum": 749,
+            "content": "<i>Markaka, as,</i>¦ m. (<i>= markaṭa</i> below), Ardea Argala; a spider."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मर्कक",
+            "eid": "57909",
+            "pagenum": 5,
+            "content": "मर्कक¦ <lex>m.</lex> = मर्कट <i>Ardea Argala</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <i>Spinne</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
+        }
     ]
 }

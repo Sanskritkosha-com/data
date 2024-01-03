@@ -31,5 +31,55 @@
             "pagenum": 579,
             "content": "musra¦ <i>n.</i> 1. A pestle; 2. a tear."
         }
+    ],
+    "MW": [
+        {
+            "word": "मुस्र",
+            "eid": "165991",
+            "pagenum": 824,
+            "content": "मुस्र <hom>a</hom> ¦ <lex>n.</lex> = मुसल, a pestle, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "मुस्र",
+            "eid": "165992",
+            "pagenum": 824,
+            "content": "¦ (for मस्रु = अश्रु?) a tear, <ls>Uṇ. ii, 13</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        },
+        {
+            "word": "मुस्र",
+            "eid": "166005",
+            "pagenum": 824,
+            "content": "मुस्र <hom>b</hom> ¦ See above."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मुस्र",
+            "eid": "37703",
+            "pagenum": 786,
+            "content": "<i>Musra, am,</i>¦ n. a pestle; a tear (in this sense <i>=</i> <i>aśru,</i> q. v.)."
+        },
+        {
+            "word": "मुस्र",
+            "eid": "37711",
+            "pagenum": 787,
+            "content": "मुस्र¦ <i>musra.</i> See p. 786, col. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मुस्र",
+            "eid": "87762",
+            "pagenum": 5,
+            "content": "*मुस्र¦ <lex>n.</lex> <div n='1'>— 1〉 <i>Thräne</i>. <div n='1'>— 2〉 = मुसल."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मुस्र",
+            "eid": "61161",
+            "pagenum": 5,
+            "content": "मुस्र/¦ <lex>n.</lex> = अश्रु <i>Thräne</i> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 2, 13.</ls> = मुसल <ls>ŚKDR.</ls> angeblich nach <ls>UṆĀDIVṚ.</ls> in <ls>SIDDH. K.</ls>"
+        }
     ]
 }

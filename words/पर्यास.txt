@@ -47,5 +47,83 @@
             "pagenum": 424,
             "content": "paryAsa¦ <i>m.</i> 1. End, conclusion; 2. rotation, revolution; 3. inverted order."
         }
+    ],
+    "MD": [
+        {
+            "word": "पर्यास",
+            "eid": "11327",
+            "pagenum": 157,
+            "content": "पर्यास¦ pari‿āsá, <lex>m.</lex> rotation; border; conclusion; 🞄concluding stanza <i>in recitation</i>: <b>-na,</b> 🞄<lex>n.</lex> revolutions."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पर्यास",
+            "eid": "119739",
+            "pagenum": 607,
+            "content": "पर्य्-आस/ <hom>a</hom> ¦ <lex>m.</lex> edging, trimming, <ls>ŚBr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पर्यास",
+            "eid": "119740",
+            "pagenum": 607,
+            "content": "¦ rotation, resolution, <ls>BhP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पर्यास",
+            "eid": "119741",
+            "pagenum": 607,
+            "content": "¦ end, conclusion (<ab>N.</ab> of <ab>partic.</ab> concluding strophes in certain hymns), <ls>Br.</ls>; <ls>ŚrS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पर्यास",
+            "eid": "119742",
+            "pagenum": 607,
+            "content": "¦ inverted order or position, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पर्यास",
+            "eid": "119844",
+            "pagenum": 608,
+            "content": "पर्य्-आस <hom>b</hom> ¦ °सन See पर्य्- √ <hom>2.</hom> अस्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पर्यास",
+            "eid": "28387",
+            "pagenum": 554,
+            "content": "<i>Pary-āsa, as,</i>¦ m. edging, trimming (Ved.); end. conclusion; epithet of particular concluding strophes in certain hymns (Ved.); rotation, revolution; inverted order or position."
+        },
+        {
+            "word": "पर्यास",
+            "eid": "28432",
+            "pagenum": 555,
+            "content": "पर्यास¦ <i>pary-āsa, pary-āsana.</i> See under 2. <i>pary-as,</i> p. 554, col. 3."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "पर्यास",
+            "eid": "7663",
+            "pagenum": 2,
+            "content": "<i>Paryāsa</i>¦ — earth, equal to <i>dyaus</i> in size. <div n='P'/>Vā. 50. 74-75."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पर्यास",
+            "eid": "64820",
+            "pagenum": 4,
+            "content": "पर्यास/¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Umdrehung</i>. <div n='1'>— 2〉 <i>Einfassung, Verbrämung</i>. <div n='1'>— 3〉 <i>Ende</i> <ls>JAIM. 5,3,8</ls>. <div n='1'>— 4〉 <i>Abschluss, Endstück;</i> so heissen <i>bestimmte Schlussstrophen in der Recitation</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पर्यास",
+            "eid": "43556",
+            "pagenum": 4,
+            "content": "पर्यास/¦ (von 2. अस् mit परि) <lex>m.</lex> <div n='1'> 1) <i>Umdrehung</i>: पर्यासं परिमाणं च गतिं चन्द्रार्कयोरपि <ls>MĀRK. P. 54, 2.</ls> <div n='1'>— 2) <i>Einfassung, Verbrämung</i>: वाससः <ls>ŚAT. BR. 3, 1, 2, 18.</ls> <div n='1'>— 3) <i>Abschluss, Endstück</i>; so heissen <i>bestimmte Schlussstrophen in den Recitationen</i> <ls>AIT. BR. 5, 4. 6.</ls> <ls>ŚĀṄKH. BR. 29, 3. 30, 9.</ls> <ls>ŚR. 11, 3, 5. 12, 2, 3. 9.</ls> अन्त्यानि सूक्तान्युत्तरयोः सवनयोः पर्यासा इत्याचक्षते <ls n='ŚR.'>3, 2. 4, 3. 5, 3.</ls> <ls>LĀṬY. 3, 6, 26.</ls> <ls>ĀŚV. ŚR. 6, 4.</ls>"
+        }
     ]
 }

@@ -12,5 +12,29 @@
             "synonyms": [],
             "content": "मधूकस्तु मधुष्ठीलो गुडपुष्पो मधुद्रुमः ॥ ११४१ ॥"
         }
+    ],
+    "MW": [
+        {
+            "word": "गुडपुष्प",
+            "eid": "65451",
+            "pagenum": 356,
+            "content": "गुड—पुष्प ¦ <lex>m.</lex> ‘sugar-flowered’, <bot>Bassia latifolia</bot> or another kind of <bot>Bassia</bot> (the flowers being full of saccharine matter), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गुडपुष्प",
+            "eid": "35643",
+            "pagenum": 2,
+            "content": "*गुडपुष्प¦ <lex>m.</lex> <i><bot>Bassia latifolia</bot> oder eine andere Species</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गुडपुष्प",
+            "eid": "22538",
+            "pagenum": 2,
+            "content": "गुडपुष्प¦ (गुड + पुष्प) <lex>m.</lex> <i>Bassia latifolia Roxb.</i> oder <i>eine andere Species</i> <ls>AK. 2, 4, 2, 8.</ls> <ls>H. 1141.</ls> <ls>HĀR. 96.</ls> <ls>RATNAM. 212.</ls>"
+        }
     ]
 }

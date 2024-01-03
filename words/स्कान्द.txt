@@ -7,5 +7,57 @@
             "pagenum": 643,
             "content": "<b>Skānda</b>¦ (XIII, 2013), v. Skanda<sup>1</sup>."
         }
+    ],
+    "MD": [
+        {
+            "word": "स्कान्द",
+            "eid": "19842",
+            "pagenum": 361,
+            "content": "स्कान्द¦ skānda, <lex>a.</lex> belonging to, derived 🞄from <ab>etc.</ab>, the god Skanda."
+        }
+    ],
+    "MW": [
+        {
+            "word": "स्कान्द",
+            "eid": "254152",
+            "pagenum": 1256,
+            "content": "स्कान्द ¦ <lex>mfn.</lex> relating to <s1 slp1='skanda'>Skanda</s1> &c., <ls>Sarvad.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्कान्द",
+            "eid": "254153",
+            "pagenum": 1256,
+            "content": "¦ composed by <s1 slp1='skanda-svAmin'>Skanda-svāmin</s1> (-भाष्य <lex type='phw'>n.</lex> <ab>N.</ab> of a Commentary)<info phwchild='254154.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "स्कान्द",
+            "eid": "254154",
+            "pagenum": 1256,
+            "content": "स्कान्द ¦ <lex>n.</lex> (with or <ab>scil.</ab> पुराण) <ab>N.</ab> of the <s1 slp1='skanda-purARa'>Skanda-purāṇa</s1>.<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्कान्द",
+            "eid": "52975",
+            "pagenum": 1141,
+            "content": "स्कान्द¦ <i>skānda, as, ī, am</i> (fr. <i>skanda</i>), relating to Skanda or Kārttikeya; relating to Śiva; (<i>am</i>), n. the Skanda-Purāṇa. <i>—Skānda-purāṇa, am,</i> n., N. of one of the eighteen Purāṇas (also called <i>skanda-purāṇa;</i> it is supposed to be lost or only to exist in fragments, the most celebrated of which is the Kāśī-khaṇḍa, which gives a description of the temples or Liṅgas of Śiva near Benares, with directions for worshipping that god, and various legends chiefly intended to glorify Kāśī and exalt the sanctity of its shrines). <i>—Skānda-bhāṣya, am,</i> n., N. of a commentary."
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्कान्द",
+            "eid": "130320",
+            "pagenum": 7,
+            "content": "स्कान्द¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>vom Gotte</i> <is>Skanda</is> <i>herrührend</i> <ab>u. s. w.</ab> <div n='2'>— b〉 <i>von</i> <is>Skandasvāmin</is> <i>herrührend</i>. <div n='1'>— 2〉 <lex>m.</lex> <ls>MBH. 13,2013</ls> fehlerhaft für स्कन्द. <div n='1'>— 3〉 <lex>n.</lex> = स्कन्दपुराण."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्कान्द",
+            "eid": "113497",
+            "pagenum": 7,
+            "content": "स्कान्द¦ <div n='1'> 1) <lex>adj.</lex> <i>von</i> <is>Skanda</is> <i>herrührend</i> u. s. w.: वचस् <ls>SARVADARŚANAS. 72, 2.</ls> पुराण oder <lex>n.</lex> mit Ergänzung dieses Wortes <ls n='SARVADARŚANAS.'>13.</ls> <ls>VP. XLV, N. 70. 284.</ls> <ls>WEBER, KṚṢṆAJ. 221. fgg.</ls> <ls>RĀMAT. UP. 332.</ls> <ls>Ind. St. 1,18,9.</ls> <ls>Verz. d. B. H. 127, N. 1.</ls> <ls>Verz. d. Oxf. H. 59,a,39. 65,a,43. 108,a, No. 168. 113,b,48. 126,a,23. 249,a,19. 252,a,12. 279,b,46. 284,b,23.</ls> —  <div n='1'>— 2) <lex>adj.</lex> <i>von</i> <is>Skandasvāmin</is> <i>herrührend</i>: °भाष्य <ls>MÜLLER, SL. 240.</ls> <div n='1'>— 3) <lex>m.</lex> fehlerhaft für स्कन्द (so <ls>ed. Bomb.</ls>) <ls>MBH. 13, 2013.</ls>"
+        }
     ]
 }

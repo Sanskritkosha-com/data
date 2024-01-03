@@ -47,5 +47,27 @@
             "pagenum": 370,
             "content": "nara-ISvara¦ <i>m.</i> a king, <ls>R.</ls>iii.42, vii.62, <ls>Megh.</ls>i.37, <ls>R.</ls>ii.75."
         }
+    ],
+    "MW": [
+        {
+            "word": "नरेश्वर",
+            "eid": "104215",
+            "pagenum": 529,
+            "content": "nare<srs/>Svara ¦ <lex>m.</lex> <ab>id.</ab>, <ls>ib.</ls><info lex='m'/>"
+        },
+        {
+            "word": "नरेश्वर",
+            "eid": "104216",
+            "pagenum": 529,
+            "content": "¦ <ab>N.</ab> of an author, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नरेश्वर",
+            "eid": "37858",
+            "pagenum": 4,
+            "content": "नरेश्वर¦ (नर + ईश्वर) <lex>m.</lex> dass. <ls>MBH. 1, 6938.</ls> <ls n='MBH.'>5, 7441.</ls> <ls>N. 2, 5.</ls> <ls n='N.'>4, 19.</ls> <ls n='N.'>11, 6.</ls> <ls>R. 1, 60, 12.</ls> <ls>VARĀH. BṚH. S. 8, 50. 15, 24.</ls> <ls>RĀJA-TAR. 4, 207.</ls> <ls>PAÑCAT. I, 256.</ls>"
+        }
     ]
 }

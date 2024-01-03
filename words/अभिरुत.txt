@@ -39,5 +39,41 @@
             "pagenum": 50,
             "content": "aBiruta¦ <i>n.</i> Any cry, noise, sound."
         }
+    ],
+    "MW": [
+        {
+            "word": "अभिरुत",
+            "eid": "12200",
+            "pagenum": 68,
+            "content": "अभि-रुत ¦ <lex>mfn.</lex> filled with roaring or any noise, resounding with (in <ab>comp.</ab>), <ls>MBh.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अभिरुत",
+            "eid": "12201",
+            "pagenum": 68,
+            "content": "अभि-रुत ¦ <lex>n.</lex> cries, <ls>R.</ls><info lex='n'/>"
+        },
+        {
+            "word": "अभिरुत",
+            "eid": "12202",
+            "pagenum": 68,
+            "content": "¦ singing (as of birds), <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभिरुत",
+            "eid": "4666",
+            "pagenum": 66,
+            "content": "अभिरुत¦ <i>abhi-ruta, as, ā, am</i> (rt. <i>ru</i>), sounded; cooed, vocal (as the voices of birds, &c.)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभिरुत",
+            "eid": "7559",
+            "pagenum": 1,
+            "content": "अभिरुत¦ <lex>n.</lex> <i>Gesang</i> <ls>R. GORR. 1,9,15</ls> (<ls>R. ed. SCHL. 17</ls>). <i>Geschrei</i> <ls n='R. GORR.'>6,70,19</ls>."
+        }
     ]
 }

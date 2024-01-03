@@ -47,5 +47,51 @@
             "pagenum": 588,
             "content": "mOlya¦ <i>n.</i> Price."
         }
+    ],
+    "MD": [
+        {
+            "word": "मौल्य",
+            "eid": "14586",
+            "pagenum": 237,
+            "content": "मौल्य¦ maul-ya, <lex>a.</lex> attached to the root; <lex>n.</lex> 🞄(= mūlya) price."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मौल्य",
+            "eid": "168842",
+            "pagenum": 837,
+            "content": "मौल्य ¦ <lex>mfn.</lex> being at the root, <ls>KātyŚr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "मौल्य",
+            "eid": "168843",
+            "pagenum": 837,
+            "content": "मौल्य ¦ <lex>n.</lex> = मूल्य, price, <ls>Vet.</ls>; <ls>Pañcad.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मौल्य",
+            "eid": "38203",
+            "pagenum": 800,
+            "content": "<i>Maulya, as, -lī, am,</i>¦ being at the root; (<i>am</i>), n. price, (for <i>mūlya.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मौल्य",
+            "eid": "89246",
+            "pagenum": 5,
+            "content": "मौल्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>an der Wurzel befindlich</i>. <div n='1'>— 2〉 <lex>n.</lex> = मुल्य <i>Preis, Kaufpreis</i> <ls>PAÑCAD.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मौल्य",
+            "eid": "62349",
+            "pagenum": 5,
+            "content": "मौल्य¦ (von मूल) <div n='1'> 1) <lex>adj.</lex> <i>an der Wurzel befindlich</i>: अङ्गुलिपर्वन् <ls>KĀTY. ŚR. 22, 8, 16.</ls> <div n='1'>— 2) <lex>n.</lex> wohl fehlerhaft für मूल्य <i>Preis</i> <ls>VET. in LA. (II) 2, 21.</ls> बहु° (°मूल्य <ls>ed. Bomb.</ls>) <i>kostbar</i> <ls>MBH. 16, 195.</ls>"
+        }
     ]
 }

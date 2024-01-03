@@ -23,5 +23,35 @@
             "pagenum": 591,
             "content": "yaTA-icCa¦ <i>a.</i> agreeably to desire, as much as wanted."
         }
+    ],
+    "MW": [
+        {
+            "word": "यथेच्छ",
+            "eid": "170074",
+            "pagenum": 843,
+            "content": "yaTe<srs/>cCa ¦ <lex>mfn.</lex> agreeable to wish or desire, <ls>Pañcar.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "यथेच्छ",
+            "eid": "170075",
+            "pagenum": 843,
+            "content": "yaTe<srs/>cCa ¦ <ab>ibc.</ab> <ab>acc.</ab> to wish, at will or pleasure, agreeably. (<ls>ib.</ls>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "यथेच्छ",
+            "eid": "90107",
+            "pagenum": 5,
+            "content": "यथेच्छ¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>den Wünschen entsprechend</i>. <div n='1'>— 2〉 <lex>Adv.</lex> यथैच्छ° und °म् <i>nach Wunsch, nach Belieben, nach Herzenslust</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यथेच्छ",
+            "eid": "81426",
+            "pagenum": 6,
+            "content": "यथेच्छ¦ (यथा + इच्छा) <lex>adj.</lex> <i>den Wünschen entsprechend</i> <ls>PAÑCAR. 4, 8, 52.</ls> यथेच्छम् adv. <i>nach Wunsch, nach Belieben, nach Herzenslust</i> <ls>MBH. 6, 4867.</ls> <ls>KATHĀS. 20, 229.</ls> <ls n='KATHĀS.'>51, 187.</ls> <ls>RĀJA-TAR. 2, 106.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 189, 21.</ls> <ls>PAÑCAT. 192, 13.</ls>"
+        }
     ]
 }

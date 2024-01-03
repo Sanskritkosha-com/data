@@ -36,5 +36,37 @@
             "pagenum": 280,
             "content": "CAgaRa¦ <i>m.</i> A fire of dried cow-dung."
         }
+    ],
+    "MW": [
+        {
+            "word": "छागण",
+            "eid": "75791",
+            "pagenum": 405,
+            "content": "छागण ¦ <lex>m.</lex> a fire of dried cow-dung (छग्°), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छागण",
+            "eid": "19073",
+            "pagenum": 333,
+            "content": "छागण¦ <i>chāgaṇa, as,</i> m. a fire of dried cowdung (<i>chagaṇa</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "छागण",
+            "eid": "41021",
+            "pagenum": 2,
+            "content": "*छागण¦ <lex>m.</lex> <i>Feuer von trockenem Kuhmist</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छागण",
+            "eid": "26164",
+            "pagenum": 2,
+            "content": "छागण¦ <lex>m.</lex> <i>Feuer von trockenem Kuhmist</i> (छगण) <ls>TRIK. 1, 1, 69.</ls> <ls>H. 1101.</ls> <ls>HĀR. 200.</ls>"
+        }
     ]
 }

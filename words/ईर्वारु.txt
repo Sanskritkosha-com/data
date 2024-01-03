@@ -23,5 +23,43 @@
             "pagenum": 120,
             "content": "IrvAru¦ <i>m.f.</i> A cucumber."
         }
+    ],
+    "MW": [
+        {
+            "word": "ईर्वारु",
+            "eid": "29796",
+            "pagenum": 170,
+            "content": "ईर्वारु ¦ <lex>m.</lex> a cucumber, <bot>Cucumis Utilissimus</bot>, <ls>L.</ls> See इर्वारु.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ईर्वारु",
+            "eid": "10096",
+            "pagenum": 143,
+            "content": "ईर्वारु¦ <i>īrvāru, us,</i> m. a cucumber, Cucumis Utilissimus. See <i>irvāru.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ईर्वारु",
+            "eid": "17495",
+            "pagenum": 1,
+            "content": "*ईर्वारु¦ <lex>m.</lex> <lex>f.</lex> = इर्वारु."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ईर्वारु",
+            "eid": "10515",
+            "pagenum": 1,
+            "content": "ईर्वारु¦ = इर्वारु <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "ईर्वारु",
+            "eid": "67400",
+            "pagenum": 5,
+            "content": "ईर्वारु¦ <ls>HĀR. 256.</ls> <ls>HALĀY. 2, 54, v. l.</ls>"
+        }
     ]
 }

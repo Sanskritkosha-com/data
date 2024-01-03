@@ -31,5 +31,69 @@
             "pagenum": 20,
             "content": "anAhAra¦ <i>m.</i> Abstinence, starvation."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनाहार",
+            "eid": "1511",
+            "pagenum": 14,
+            "content": "अनाहार¦ an-āhāra, <lex>m.</lex> abstinence, starvation; 🞄<lex>a.</lex> abstaining from food."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनाहार",
+            "eid": "5733",
+            "pagenum": 29,
+            "content": "अन्-आहार ¦ <lex>m.</lex> not taking food, abstinence, non-seizure<info lex='m'/>"
+        },
+        {
+            "word": "अनाहार",
+            "eid": "5734",
+            "pagenum": 29,
+            "content": "¦ non-production<info lex='inh'/>"
+        },
+        {
+            "word": "अनाहार",
+            "eid": "5735",
+            "pagenum": 29,
+            "content": "अन्-आहार ¦ <lex>mfn.</lex> one who abstains from food.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनाहार",
+            "eid": "1803",
+            "pagenum": 29,
+            "content": "अनाहार¦ <i>an-āhāra, as,</i> m. abstinence, not taking food; non-seizure; non-production; (<i>as, ā,</i> <i>am</i>), one who abstains from food."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनाहार",
+            "eid": "4030",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अनाहार¦ <lex>m.</lex> <i>das nicht zu sich Nehmen von Speise</i>."
+        },
+        {
+            "word": "अनाहार",
+            "eid": "4031",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अनाहार¦ <lex>Adj.</lex> <i>keine Speise zu sich nehmend</i>. Davon <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>LALIT. 320,20. 321,1</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनाहार",
+            "eid": "2599",
+            "pagenum": 1,
+            "content": "1. अनाहार¦ (3. अ + आहार) <lex>m.</lex> <i>das nicht-zu-sich-Nehmen von Speise</i>: अनाहारेणात्मानं भवद्द्वारि व्यापादयिष्यामि <ls>HIT. 24, 12.</ls>"
+        },
+        {
+            "word": "अनाहार",
+            "eid": "2600",
+            "pagenum": 1,
+            "content": "2. अनाहार¦ (wie eben) <lex>adj.</lex> <i>keine Speise zu sich nehmend</i> <ls>R. 3, 75, 30.</ls>"
+        }
     ]
 }

@@ -7,5 +7,35 @@
             "pagenum": 350,
             "content": "dvi-hIna¦ <i>a.</i> of the neuter gender."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विहीन",
+            "eid": "98782",
+            "pagenum": 506,
+            "content": "द्वि—हीन ¦ <lex>mfn.</lex> destitute of both genders (<ab>i.e.</ab> of the masc. and the <ab>fem.</ab>), neuter<info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विहीन",
+            "eid": "98783",
+            "pagenum": 506,
+            "content": "द्वि—हीन ¦ <lex>n.</lex> the neuter gender, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विहीन",
+            "eid": "54188",
+            "pagenum": 3,
+            "content": "द्विहीन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>sächlichen Geschlechts</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>das sächliche Geschlecht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विहीन",
+            "eid": "35888",
+            "pagenum": 3,
+            "content": "द्विहीन¦ (द्वि + हीन) <lex>adj.</lex> <i>der zwei Geschlechter (des männlichen und weiblichen) beraubt, sächlichen Geschlechts</i> <ls>AK. 2, 4, 1, 18.</ls> <lex>n.</lex> <i>das sächliche Geschlecht</i> <ls n='AK.'>2, 5, 37. 3, 6, 3, 22.</ls> <div n='v'>— Vgl. u. द्व und द्वय ."
+        }
     ]
 }

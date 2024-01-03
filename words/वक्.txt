@@ -15,5 +15,69 @@
             "pagenum": 235,
             "content": "<b>√vak</b>¦ (<b>vāvakré</b> [<ls n='wg,786'>786,</ls> <ls n='wg,798'>798a</ls>]). roll. [akin <ab>w.</ab> <b>√vañc,</b> <ab>q. v.</ab>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "वक्",
+            "eid": "15736",
+            "pagenum": 266,
+            "content": "वक्¦ <hom>1.</hom> VAK, <ab>V.</ab> = वच् VAC <i>in</i> <b>vivakmi</b>."
+        },
+        {
+            "word": "वक्",
+            "eid": "15737",
+            "pagenum": 266,
+            "content": "वक्¦ <hom>2.</hom> VAK, (= √ vañc), roll; <i>only</i> <b>vāvakré</b> (<ab>RV.¹</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वक्",
+            "eid": "184347",
+            "pagenum": 910,
+            "content": "<hom>1.</hom> वक् ¦ = √ वच्, in the Vedic form विवक्मि."
+        },
+        {
+            "word": "वक्",
+            "eid": "184348",
+            "pagenum": 910,
+            "content": "<hom>2.</hom> वक् or वङ्क् ¦ (connected with √ वञ्च्, <ab>q.v.</ab>) <ab>cl.</ab> 1. <ab>Ā.</ab> वङ्कते, to be crooked, go crookedly, <ls>Dhātup. iv, 14</ls>;<info or='184348,vak;184348.1,vaNk'/><info westergaard='vaki,4.14,01.0072'/><info whitneyroots='vaYc,152'/><info verb='root' cp='1Ā'/> <div n='to'/>to go, roll, <ls>ib.</ls> <ls n='Dhātup. iv,'>21</ls> (only 3. <ab>pl.</ab> <ab>pf.</ab> वावक्रे, ‘they rolled’, <ls>RV. vii, 21, 3</ls>)"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वक्",
+            "eid": "40832",
+            "pagenum": 876,
+            "content": "वक्¦ <i>vak</i> (a form of rt. <i>vaṅk,</i> q. v.), to go crookedly, &c., (in Ṛg-veda VII. 21, 3. <i>vāvakre = nirgacchanti,</i> they issued forth.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वक्",
+            "eid": "97179",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> वक्¦ in विवक्मि vedisch von वच्."
+        },
+        {
+            "word": "वक्",
+            "eid": "97180",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> वक्¦ <i>rollen, volvi</i>. Nur वावक्रे <ls>ṚV.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वक्",
+            "eid": "87153",
+            "pagenum": 6,
+            "content": "1. वक्¦ = वच् . Davon विवक्मि (s. u. वच्), वक्मन्, वक्म्य ."
+        },
+        {
+            "word": "वक्",
+            "eid": "87154",
+            "pagenum": 6,
+            "content": "2. वक्¦ = वञ्च् <i>rollen, volvi</i>: त्वद्वा^वक्रे रथ्यो\\३^\\ न धेना^ः <ls>ṚV. 7, 21, 3.</ls> वङ्क्, व/ङ्कते <ls>DHĀTUP. 4, 14</ls> (कौटिल्ये). <ls n='DHĀTUP.'>21</ls> (गतौ)."
+        }
     ]
 }

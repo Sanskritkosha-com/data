@@ -40,5 +40,61 @@
             "pagenum": 216,
             "content": "<b>Śrutakarman</b><sup>3</sup>,¦ son of Dhṛtarāṣṭra. § 605 (Karṇap.): VIII, <b>25</b>, 1005 (fights Śatānīka)."
         }
+    ],
+    "MW": [
+        {
+            "word": "श्रुतकर्मन्",
+            "eid": "223420",
+            "pagenum": 1101,
+            "content": "श्रुत—कर्मन् ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1 slp1='saha-deva'>Saha-deva</s1>, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "श्रुतकर्मन्",
+            "eid": "223421",
+            "pagenum": 1101,
+            "content": "¦ of a son of <s1 slp1='arjuna'>Arjuna</s1>, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्रुतकर्मन्",
+            "eid": "223422",
+            "pagenum": 1101,
+            "content": "¦ of a son of <s1 slp1='somApi'>Somāpi</s1>, <ls>VP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्रुतकर्मन्",
+            "eid": "223423",
+            "pagenum": 1101,
+            "content": "¦ of <s1 slp1='Sani'>Śani</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "श्रुतकर्मन्",
+            "eid": "14947",
+            "pagenum": 3,
+            "content": "<i>Śrutakarman</i> (I)¦ — a son of Sahadeva and Draupadī. <div n='P'/>Bhā. IX. 22. 30; M. 50. 52; Vi. IV. 20. 42."
+        },
+        {
+            "word": "श्रुतकर्मन्",
+            "eid": "14948",
+            "pagenum": 3,
+            "content": "<i>Śrutakarman</i> (II)¦ — a son of Chāyā and Mārtāṇḍa (sun); became later Śanaiścara. <div n='P'/>Br. III. 59. 48; Vā. 84. 50."
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्रुतकर्मन्",
+            "eid": "115323",
+            "pagenum": 6,
+            "content": "श्रुतकर्मन्¦ <lex>m.</lex> <ab>N. pr.</ab> eines Sohnes des <is>Sahadeva</is>, des <is>Arjuna</is> und des <is>Somāpi</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्रुतकर्मन्",
+            "eid": "101804",
+            "pagenum": 7,
+            "content": "श्रुतकर्मन्¦ <div n='1'> 1) <lex>adj.</lex> <i>dessen Thaten berühmt sind.</i> <div n='1'>— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Sahadeva</is> <ls>MBH. 1, 3827.</ls> <ls>VP. 459.</ls> <ls>BHĀG. P. 9, 22, 29.</ls> <is>Arjuna's</is> <ls>MBH. 1, 8039.</ls> <ls n='MBH. 1,'>8043.</ls> <is>Somāpi's</is> <ls>VP. 456,</ls> <ls>N. 62.</ls>"
+        }
     ]
 }

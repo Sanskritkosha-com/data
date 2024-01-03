@@ -23,5 +23,37 @@
             "pagenum": 211,
             "content": "(<b>-gāmika</b>¦ as in <lang>Skt.</lang> = -gāmin: in <ls>LV</ls> 〔397.16〕, <ab>vs</ab>, read with all <ab>mss.</ab> and <ls>Mv</ls> 〔iii.316.20〕 pratisrotagāmiko mārgo, which <ls>Lefm.</ls> wrongly <ab>em.</ab>)"
         }
+    ],
+    "MW": [
+        {
+            "word": "गामिक",
+            "eid": "64839",
+            "pagenum": 353,
+            "content": "गामिक ¦ <lex>mfn.</lex> <ab>ifc.</ab> going, leading to (as a way), <ls>R. vi, 106, 7.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गामिक",
+            "eid": "17323",
+            "pagenum": 288,
+            "content": "गामिक¦ <i>gāmika, as, ā, am</i> (fr. <i>gam,</i> used at the end of compounds), going, leading to (as a way)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गामिक",
+            "eid": "35305",
+            "pagenum": 2,
+            "content": "°गामिक¦ <lex>Adj.</lex> <i>gehend nach, führend zu</i> (Weg)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गामिक",
+            "eid": "22277",
+            "pagenum": 2,
+            "content": "गामिक¦ (von गामिन्) <lex>adj.</lex> am Ende eines comp. <i>gehend, führend zu</i>, von einem Wege: अयोध्यागामिको ह्येष पन्थाः <ls>R. 6, 106, 7.</ls>"
+        }
     ]
 }

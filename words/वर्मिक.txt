@@ -7,5 +7,43 @@
             "pagenum": 949,
             "content": "वर्मिक, वर्मिन्¦ <i><ab>a.</ab></i> Mailed, furnished with armour."
         }
+    ],
+    "MW": [
+        {
+            "word": "वर्मिक",
+            "eid": "187820",
+            "pagenum": 926,
+            "content": "वर्मिक ¦ <lex>mfn.</lex> clad in armour, mailed, accoutred <ab>g.</ab> व्रीह्य्-आदि.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वर्मिक",
+            "eid": "41480",
+            "pagenum": 893,
+            "content": "<i>Varmika, as, ā, am,</i>¦ clad in armour, mailed."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वर्मिक",
+            "eid": "98939",
+            "pagenum": 6,
+            "content": "*वर्मिक¦ <lex>Adj.</lex> <i>gepanzert, geharnischt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वर्मिक",
+            "eid": "88599",
+            "pagenum": 6,
+            "content": "व/र्मिक¦ (von वर्मन्) <lex>adj.</lex> <i>gepanzert, geharnischt</i> <is>gaṇa</is> व्रीह्यादि zu <ls>P. 5, 2, 116.</ls>"
+        },
+        {
+            "word": "वर्मिक",
+            "eid": "121954",
+            "pagenum": 7,
+            "content": "वर्मिक¦ <is>gaṇa</is> पुरोहितादि zu <ls>P. 5, 1, 128.</ls>"
+        }
     ]
 }

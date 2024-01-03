@@ -39,5 +39,43 @@
             "pagenum": 640,
             "content": "vama¦ <i>m.</i> Ejecting, vomiting."
         }
+    ],
+    "MW": [
+        {
+            "word": "वम",
+            "eid": "186418",
+            "pagenum": 920,
+            "content": "वम ¦ <lex>mf(ई)n.</lex> vomiting, ejecting, giving out, <ls>W.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "वम",
+            "eid": "186419",
+            "pagenum": 920,
+            "content": "वम ¦ <lex>m.</lex> = वाम <ab>g.</ab> jvalA<srs/>di.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वम",
+            "eid": "41220",
+            "pagenum": 886,
+            "content": "<i>Vama, as, ī,</i>¦ m. f. vomiting, ejecting, giving out."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वम",
+            "eid": "98271",
+            "pagenum": 6,
+            "content": "*वम¦ <lex>m.</lex> = वाम."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वम",
+            "eid": "88043",
+            "pagenum": 6,
+            "content": "वम/¦ (von वम्) <lex>m.</lex> = वाम <is>gaṇa</is> ज्वलादि zu <ls>P. 3, 1, 140.</ls>"
+        }
     ]
 }

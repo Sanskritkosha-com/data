@@ -50,5 +50,55 @@
             "pagenum": 436,
             "content": "piccawa¦ <i>(II) n.</i> Tin."
         }
+    ],
+    "MW": [
+        {
+            "word": "पिच्चट",
+            "eid": "123499",
+            "pagenum": 624,
+            "content": "पिच्चट ¦ <lex>mfn.</lex> pressed flat, squeezed, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पिच्चट",
+            "eid": "123500",
+            "pagenum": 624,
+            "content": "पिच्चट ¦ <lex>m.</lex> inflammation of the eyes, ophthalmia, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पिच्चट",
+            "eid": "123501",
+            "pagenum": 624,
+            "content": "पिच्चट ¦ <lex>n.</lex> a substance pressed flat, cake (<ab>cf.</ab> तिल-प्°)<info lex='n'/>"
+        },
+        {
+            "word": "पिच्चट",
+            "eid": "123502",
+            "pagenum": 624,
+            "content": "¦ tin or lead, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पिच्चट",
+            "eid": "29164",
+            "pagenum": 571,
+            "content": "पिच्चट¦ <i>piccaṭa, as, ā, am,</i> pressed flat, a substance pressed flat, cake [cf. <i>tila-p°</i>]; (<i>as</i>), m. inflammation of the eyes, ophthalmia; tin, lead."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पिच्चट",
+            "eid": "66764",
+            "pagenum": 4,
+            "content": "*पिच्चट¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>breitgedrückt, gequetscht</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>eine <ab>best.</ab> Augenkrankheit</i>. <div n='1'>— 3〉 <lex>n.</lex> <div n='2'>— a〉 <i>eine breitgedrückte Masse, Kuchen</i> in *तिल°. <div n='2'>— b〉 <i>Zinn</i> <ls>RĀJAN. 13,21</ls>. <div n='2'>— c〉 <i>Blei</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पिच्चट",
+            "eid": "45082",
+            "pagenum": 4,
+            "content": "पिच्चट¦ <div n='1'> 1) <lex>adj.</lex> = चिपिट = पिच्चित <i>platt gedrückt</i> <ls>H. an. 3, 160.</ls> <i>eine plattgedrückte Masse, Kuchen</i>; s. तिल° . <div n='1'>— 2) <lex>m.</lex> <i>eine best. Augenkrankheit</i> <ls>H. an. 3, 166.</ls> <ls>MED. ṭ. 49.</ls> <div n='1'>— 3) <lex>n.</lex> <i>Zinn</i> <ls>AK. 2, 9, 106.</ls> <ls>H. 1042.</ls> <ls>H. an.</ls> <ls>MED.</ls> <i>Blei</i> <ls>H. an.</ls> <ls>MED.</ls>"
+        }
     ]
 }

@@ -43,5 +43,63 @@
             "pagenum": 725,
             "content": "<b>(nāmin),</b>¦ <ab>a.</ab>, <i>sich beugend</i> [von nam], enthalten in ánāmin."
         }
+    ],
+    "MD": [
+        {
+            "word": "नामिन्",
+            "eid": "10478",
+            "pagenum": 139,
+            "content": "नामिन्¦ nām-in, <lex>a.</lex> having a name."
+        }
+    ],
+    "MW": [
+        {
+            "word": "नामिन्",
+            "eid": "105838",
+            "pagenum": 536,
+            "content": "<hom>1.</hom> नामिन् ¦ <lex>mfn.</lex> having a name, <ls>RāmatUp.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "नामिन्",
+            "eid": "105842",
+            "pagenum": 536,
+            "content": "<hom>2.</hom> नामिन् ¦ <lex>mfn.</lex> bending, (<ab>esp.</ab>) changing a dental to a cerebral (said of all vowels except अ and आ), <ls>Prāt.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नामिन्",
+            "eid": "24149",
+            "pagenum": 478,
+            "content": "<i>Nāmin, ī, inī, i,</i>¦ bending; (in grammar) changing a dental to a cerebral, a N. given to all the vowels except <i>a</i> and <i>ā;</i> [cf. <i>bhāvin.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नामिन्",
+            "eid": "57936",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> नामिन्¦ <lex>Adj.</lex> <i>umbeugend</i> (einen Dentalen in einen Cerebralen)."
+        },
+        {
+            "word": "नामिन्",
+            "eid": "57937",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> नामिन्¦ <lex>Adj.</lex> <i>einen Namen habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नामिन्",
+            "eid": "38484",
+            "pagenum": 4,
+            "content": "नामिन्¦ (von नम्) <lex>adj.</lex> <i>umbeugend</i> (einen Dentalen in einen Cerebralen); so heissen die Vocale mit Ausnahme von अ und आ <ls>ṚV. PRĀT. 1, 17.</ls> <ls n='ṚV. PRĀT. 1,'>20.</ls> <ls n='ṚV. PRĀT.'>4, 14.</ls> <ls n='ṚV. PRĀT.'>5, 1.</ls> <ls n='ṚV. PRĀT. 5,'>16.</ls> <ls n='ṚV. PRĀT.'>13, 8.</ls> <ls>AV. PRĀT. 2, 42.</ls> <ls n='AV. PRĀT. 2,'>81.</ls> <ls n='AV. PRĀT. 2,'>87.</ls> <ls>Verz. d. Oxf. H. No. 374</ls> (<ls n='Verz. d. Oxf. H.'>168,b</ls>). <ls n='Verz. d. Oxf. H.'>381.</ls> <div n='v'>— Vgl. अ°, भाविन् ."
+        },
+        {
+            "word": "नामिन्",
+            "eid": "77006",
+            "pagenum": 5,
+            "content": "नामिन्¦ (von नामन्) <lex>adj.</lex> <i>einen Namen habend</i> <ls>WEBER, RĀMAT. UP. 291.</ls>"
+        }
     ]
 }

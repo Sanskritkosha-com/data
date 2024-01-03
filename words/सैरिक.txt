@@ -50,5 +50,61 @@
             "pagenum": 797,
             "content": "sErika¦ <i>(II) m.</i> 1. A plough-ox; 2. a ploughman."
         }
+    ],
+    "MW": [
+        {
+            "word": "सैरिक",
+            "eid": "252494",
+            "pagenum": 1248,
+            "content": "सैरिक ¦ <lex>mfn.</lex> relating to a plough &c., <ls>Pāṇ. iv, 3, 124</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सैरिक",
+            "eid": "252495",
+            "pagenum": 1248,
+            "content": "सैरिक ¦ <lex>m.</lex> a ploughman, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सैरिक",
+            "eid": "252496",
+            "pagenum": 1248,
+            "content": "¦ a plough-ox, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सैरिक",
+            "eid": "252497",
+            "pagenum": 1248,
+            "content": "¦ the sky, atmosphere (<ab>cf.</ab> सैरिभ), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सैरिक",
+            "eid": "252498",
+            "pagenum": 1248,
+            "content": "¦ <ab>N.</ab> of a man (also written शैरिक), <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सैरिक",
+            "eid": "52719",
+            "pagenum": 1136,
+            "content": "सैरिक¦ <i>sairika, as, ī, am</i> (fr. <i>sīra</i>), relating or belonging to a plough; having furrows; (<i>as</i>), m. a plough-ox; a ploughman."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सैरिक",
+            "eid": "129394",
+            "pagenum": 7,
+            "content": "*सैरिक¦ <div n='1'>— 1〉 <lex>Adj.</lex> von सीर. <div n='1'>— 2〉 <lex>m.</lex> <i>Himmel</i>. <ab>Vgl.</ab> सैरिक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सैरिक",
+            "eid": "112742",
+            "pagenum": 7,
+            "content": "सैरिक/¦ <div n='1'> 1) <lex>adj.</lex> von सीर <ls>P. 4, 3, 124.</ls> <ls n='P. 4,'>4, 81.</ls> <ls>AK. 2, 9, 64.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Himmel</i> <ls>H. ś. 1</ls>; vgl. सैरिभ . <div n='2'>— b) शैरिक N. pr. eines Mannes <ls>Verz. d. Oxf. H. 55,b,10.</ls>"
+        }
     ]
 }

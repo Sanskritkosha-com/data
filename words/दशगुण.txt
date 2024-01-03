@@ -23,5 +23,35 @@
             "pagenum": 327,
             "content": "daSan-guRa¦ <i>a.</i> tenfold, ten times larger."
         }
+    ],
+    "MW": [
+        {
+            "word": "दशगुण",
+            "eid": "90830",
+            "pagenum": 471,
+            "content": "दश—गुण ¦ <lex>mfn.</lex> tenfold, 10 times larger or more, <ls n='MBh.'>i, 45 f.</ls>; <ls>Mn. viii</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "दशगुण",
+            "eid": "90831",
+            "pagenum": 471,
+            "content": "¦ See -क्षीर<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दशगुण",
+            "eid": "49251",
+            "pagenum": 3,
+            "content": "दशगुण¦ <lex>Adj.</lex> <i>zehnfach, zehn Mal grösser, — mehr</i>. °म् <lex>Adv.</lex> <ls>YĀJÑ. 1,141</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दशगुण",
+            "eid": "32221",
+            "pagenum": 3,
+            "content": "दशगुण¦ (दशन् + गुण) <lex>adj.</lex> <i>zehnfach, zehn Mal grösser, - mehr</i> <ls>M. 8, 121. 243.</ls> <ls>MBH. 1, 45. fg.</ls> <ls>SUŚR. 2, 126, 15.</ls> <ls>AK. 2, 9, 85.</ls> <ls>H. 873.</ls>"
+        }
     ]
 }

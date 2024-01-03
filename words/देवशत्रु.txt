@@ -43,5 +43,47 @@
             "pagenum": 342,
             "content": "deva-Satru¦ <i>m.</i> a demon."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवशत्रु",
+            "eid": "96061",
+            "pagenum": 494,
+            "content": "देव—शत्रु ¦ <lex>m.</lex> foe of the gods, an <s1 slp1='asura'>Asura</s1> or <s1 slp1='rakzas'>Rakṣas</s1>, <ls>MBh.</ls>; <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "देवशत्रु",
+            "eid": "96062",
+            "pagenum": 494,
+            "content": "देव/—शत्रु ¦ (°व/-), <lex>mfn.</lex> having the <ab n='gods'>g°</ab> as foes, <ls>RV. vi, 59, 1.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवशत्रु",
+            "eid": "52525",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> देवशत्रु¦ <lex>m.</lex> <i>ein Feind der Götter,</i> <ab>Bez.</ab> der <is>Asura</is> und <is>Rakṣas</is>."
+        },
+        {
+            "word": "देवशत्रु",
+            "eid": "52526",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> देव/शत्रु¦ <lex>Adj.</lex> <i>die Götter zu Feinden habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवशत्रु",
+            "eid": "34670",
+            "pagenum": 3,
+            "content": "1. देवशत्रु¦ (देव + शत्रु) <lex>m.</lex> <i>ein Feind der Götter, ein</i> <is>Asura</is> <ls>MBH. 7, 6296.</ls> <ls>SUŚR. 2, 532, 10.</ls> <i>ein</i> <is>Rakṣas</is> <ls>R. 6, 36, 83.</ls>"
+        },
+        {
+            "word": "देवशत्रु",
+            "eid": "34671",
+            "pagenum": 3,
+            "content": "2. देव/शत्रु¦ (wie eben) <lex>adj.</lex> <i>die Götter zu Feinden habend</i>: ह\\तासो^ वां पि\\तरो^ दे\\वश^त्रवः <ls>ṚV. 6, 59, 1.</ls>"
+        }
     ]
 }

@@ -7,5 +7,27 @@
             "pagenum": 680,
             "content": "परिवृ¦ {c5c} {c9c} {c10c} <ab>U.</ab> To encircle, surround; <ls>U. 4. 23.</ls>"
         }
+    ],
+    "MW": [
+        {
+            "word": "परिवृ",
+            "eid": "118601",
+            "pagenum": 601,
+            "content": "<hom>a</hom> परि-√ <hom>1.</hom> वृ ¦ <ab>P.</ab> <ab>Ā.</ab> -वरति, °ते, (<ab>pf.</ab> -वव्रुर्, <ab>p.</ab> -ववृव/स्; <ab>ind.p.</ab> -वृत्य), <div n='to'/>to cover, surround, conceal, keep back, hem in <ls>RV.</ls> &c. &c.: <div n='vp'/><ab>Caus.</ab> -वारयति, °ते (<ls>Pāṇ. iii, 1, 87</ls>, <ab>Vārtt.</ab> 16, <ls>Pat.</ls> <pb n='601,2'/>; <ab>ind.p.</ab> -वार्य), <div n='to'/>to cover, surround, encompass, embrace (बाहुभ्याम्), <ls>AV.</ls>; &c.<info verb='pre' cp='PĀ' parse='pari+vf'/>"
+        },
+        {
+            "word": "परिवृ",
+            "eid": "118617",
+            "pagenum": 601,
+            "content": "<hom>b</hom> परि-√ <hom>2.</hom> वृ ¦ <ab>Ā.</ab> -वृणीते, to choose, <ls>RV.</ls><info verb='pre' cp='Ā' parse='pari+vf'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "परिवृ",
+            "eid": "27918",
+            "pagenum": 548,
+            "content": "परिवृ¦ <i>pari-vṛ,</i> cl. 5. 9. 1. P. A. <i>-vṛṇoti,</i> <i>-ṇute, -vṛṇāti, -ṇīte, -varati, -te, -varitum, -va-</i> <i>rītum,</i> to surround, conceal: Caus. <i>-vārayati, -yi-</i> <i>tum,</i> to surround, cover, clothe."
+        }
     ]
 }

@@ -7,5 +7,43 @@
             "pagenum": 660,
             "content": "पणसः¦ An article of sale, a <lbinfo n='com+modity'/> commodity."
         }
+    ],
+    "MW": [
+        {
+            "word": "पणस",
+            "eid": "114585",
+            "pagenum": 580,
+            "content": "पणस ¦ <lex>m.</lex> a commodity, an article of sale or commerce, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पणस",
+            "eid": "114586",
+            "pagenum": 580,
+            "content": "¦ <bot>Artocarpus Integrifolia</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पणस",
+            "eid": "26820",
+            "pagenum": 526,
+            "content": "<i>Paṇasa, as,</i>¦ m. a commodity, an article of sale or commerce (<i>= panasa,</i> q. v.)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पणस",
+            "eid": "62390",
+            "pagenum": 4,
+            "content": "*पणस¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Handelsartikel</i>. <div n='1'>— 2〉 <i><bot>Artocarpus integrifolia</bot></i>. Richtig पनस."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पणस",
+            "eid": "41735",
+            "pagenum": 4,
+            "content": "पणस/¦ (von 1. पण्) <ls>UṆĀDIS. 3, 117.</ls> m. <div n='1'> 1) <i>Handelsartikel</i> <ls>Schol.</ls> zu <ls>Uṇ. 3, 116.</ls> <div n='1'>— 2) = पनस <ls>NIGH. PR.</ls>"
+        }
     ]
 }

@@ -7,5 +7,37 @@
             "pagenum": 302,
             "content": "<b>Gavijāta</b>¦ = Gavija: XIII, 2682, 2688 (“born of a cow,” PCR.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "गविजात",
+            "eid": "64405",
+            "pagenum": 351,
+            "content": "गवि—जात ¦ <lex>m.</lex> ‘cow-born’, <ab>N.</ab> of a <s1 slp1='muni'>muni</s1>, <ls>MBh. xiii, 2682 ff.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गविजात",
+            "eid": "17226",
+            "pagenum": 286,
+            "content": "<i>Gavi-jāta, as,</i>¦ m., N. of a Muni. <i>—Gavi-putra,</i> <i>as,</i> m. an epithet of Vaiśravaṇa. <i>—Gavi-ṣṭhira, as,</i> m., N. of a Ṛṣi of Atri's family; [cf. <i>gāviṣṭhira</i> and <i>gāviṣṭhirāyaṇa.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गविजात",
+            "eid": "35109",
+            "pagenum": 2,
+            "content": "गविजात¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Muni</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गविजात",
+            "eid": "22119",
+            "pagenum": 2,
+            "content": "गविजात¦ (गवि, loc. von गो, + जात) <lex>m.</lex> N. pr. eines <is>Muni</is> <ls>MBH. 13, 2682.</ls> <ls n='MBH. 13,'>2688.</ls>"
+        }
     ]
 }

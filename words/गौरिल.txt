@@ -23,5 +23,43 @@
             "pagenum": 253,
             "content": "gOrila¦ <i>m.</i> 1. White mustard; 2. dust of iron or steel."
         }
+    ],
+    "MW": [
+        {
+            "word": "गौरिल",
+            "eid": "68325",
+            "pagenum": 370,
+            "content": "गौरिल ¦ <lex>m.</lex> white mustard, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गौरिल",
+            "eid": "68326",
+            "pagenum": 370,
+            "content": "¦ iron filings, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गौरिल",
+            "eid": "17744",
+            "pagenum": 301,
+            "content": "<i>Gaurila, as,</i>¦ m. white mustard; iron or steel filings or dust."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गौरिल",
+            "eid": "37194",
+            "pagenum": 2,
+            "content": "*गौरिल¦ <lex>m.</lex> <div n='1'>— 1〉 <i>weisser Senf</i>. <div n='1'>— 2〉 <i>Eisenfeil</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गौरिल",
+            "eid": "23572",
+            "pagenum": 2,
+            "content": "गौरिल¦ (von गौर) <lex>m.</lex> <div n='1'> 1) <i>weisser Senf</i> <ls>H. an. 3, 645.</ls> <ls>MED. l. 86</ls> (गोरिल). <div n='1'>— 2) <i>Eisenfeil</i> diess."
+        }
     ]
 }

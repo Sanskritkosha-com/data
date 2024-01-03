@@ -15,5 +15,49 @@
             "pagenum": 398,
             "content": "<b>Kaṭakaṭa</b>¦ = Śiva (1000 names<sup>1</sup>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "कटकट",
+            "eid": "41916",
+            "pagenum": 243,
+            "content": "कट—कट <hom>a</hom> ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>MBh. xii, 10364.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कटकट",
+            "eid": "41972.1",
+            "pagenum": 1323,
+            "content": "कट—कट <hom>b</hom> ¦ <lex>n.</lex> sea-salt, <ls>L.</ls><info n='sup'/><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कटकट",
+            "eid": "13368",
+            "pagenum": 195,
+            "content": "कटकट¦ <i>kaṭakaṭa, as,</i> m. an epithet of Śiva. See <i>kaṭaṅkaṭa.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कटकट",
+            "eid": "23377",
+            "pagenum": 2,
+            "content": "कटकट¦ <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कटकट",
+            "eid": "14334",
+            "pagenum": 2,
+            "content": "कटकट¦ <lex>m.</lex> ein Bein. <is>Śiva's</is> <ls>MBH. 12, 10364.</ls> <div n='v'>— Vgl. कटङ्कट ."
+        },
+        {
+            "word": "कटकट",
+            "eid": "69351",
+            "pagenum": 5,
+            "content": "कटकट¦ erklärt <ls>NĪLAK.</ls> : कटानामावरकाणामपि कटाय आवरकाय . <div n='v'>— Vgl. कलकल ."
+        }
     ]
 }

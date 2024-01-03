@@ -23,5 +23,55 @@
             "pagenum": 101,
             "content": "AnAyya¦ <i>m.</i> One of the three consecrated fires, otherwise called दक्षिणाग्नि."
         }
+    ],
+    "MW": [
+        {
+            "word": "आनाय्य",
+            "eid": "24534",
+            "pagenum": 140,
+            "content": "<hom>1.</hom> आ-नाय्य ¦ <lex>mfn.</lex> to be brought near<info lex='m:f:n'/>"
+        },
+        {
+            "word": "आनाय्य",
+            "eid": "24535",
+            "pagenum": 140,
+            "content": "आ-नाय्य ¦ <lex>m.</lex> consecrated fire (taken from the <s1 slp1='gArhapatya'>Gārhapatya</s1> or household fire, and placed on the south side, where it is called dakziRA<srs/>gni, <ab>q.v.</ab>)<info lex='m'/>"
+        },
+        {
+            "word": "आनाय्य",
+            "eid": "24536",
+            "pagenum": 140,
+            "content": "<hom>2.</hom> आ-नाय्य ¦ <ab>ind.p.</ab> (of the <ab>Caus.</ab>) having caused to be brought, having caused to be introduced, having brought together."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आनाय्य",
+            "eid": "8594",
+            "pagenum": 121,
+            "content": "1. <i>ā-nāyya, as, ā, am,</i>¦ to be brought near; (<i>as</i>), m. consecrated fire, taken from the Gārhapatya or household fire, and placed on the south side, whence it is called Dakṣiṇāgni."
+        },
+        {
+            "word": "आनाय्य",
+            "eid": "8595",
+            "pagenum": 121,
+            "content": "2. <i>ā-nāyya,</i>¦ ind. having caused to be brought, having caused to be introduced, having brought together, having convened."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आनाय्य",
+            "eid": "14719",
+            "pagenum": 1,
+            "content": "*आनाय्य¦ <lex>m.</lex> <i>das aus dem</i> <is>Gārhapatya</is> <i>genommene südliche Altarfeuer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आनाय्य",
+            "eid": "8611",
+            "pagenum": 1,
+            "content": "आनाय्य¦ (von नी mit आ) <lex>m.</lex> <i>das vom</i> <is>Gārhapatya</is> <i>herbeigebrachte südliche Feuer</i> (दक्षिणाग्नि) <ls>P. 3, 1, 127.</ls> <ls>VOP. 26, 11.</ls> <ls>AK. 2, 7, 21.</ls>"
+        }
     ]
 }

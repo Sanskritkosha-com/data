@@ -37,5 +37,43 @@
             "pagenum": 719,
             "content": "Sili¦ <i>(II) f.</i> 1. The lower timber of a door; 2. a female frog."
         }
+    ],
+    "MW": [
+        {
+            "word": "शिलि",
+            "eid": "217388",
+            "pagenum": 1073,
+            "content": "शिलि ¦ <lex>m.</lex> <bot>Betula Bhojpatra</bot>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शिलि",
+            "eid": "217389",
+            "pagenum": 1073,
+            "content": "शिलि ¦ <lex>f.</lex> the lower timber of a door, <ls>W.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शिलि",
+            "eid": "46726",
+            "pagenum": 1007,
+            "content": "<i>Śili, is,</i>¦ f. the lower timber of a door; (<i>is</i>), m. the birch tree (<i>= bhūrja-pattra</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शिलि",
+            "eid": "112497",
+            "pagenum": 6,
+            "content": "*शिलि¦ <lex>m.</lex> <i><bot>Betula Bhojpatra</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शिलि",
+            "eid": "99567",
+            "pagenum": 7,
+            "content": "शिलि¦ <lex>m.</lex> <i>eine Art Birke</i> (भूर्जपत्त्र) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. शिति, शिबि ."
+        }
     ]
 }

@@ -23,5 +23,41 @@
             "pagenum": 560,
             "content": "mahA-ulkA¦ <i>f.</i> 1. a great firebrand; 2. a great meteor."
         }
+    ],
+    "MW": [
+        {
+            "word": "महोल्का",
+            "eid": "161366",
+            "pagenum": 802,
+            "content": "maho<srs/>lkA ¦ <lex>f.</lex> a <ab n='great'>gr°</ab> firebrand, <ls>MBh.</ls><info lex='f'/>"
+        },
+        {
+            "word": "महोल्का",
+            "eid": "161367",
+            "pagenum": 802,
+            "content": "¦ a <ab n='great'>gr°</ab> meteor, <ls>Mn.</ls>; <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "महोल्का",
+            "eid": "161368",
+            "pagenum": 802,
+            "content": "¦ lightning (?) See maho<srs/>tkA.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महोल्का",
+            "eid": "85510",
+            "pagenum": 5,
+            "content": "महोल्का¦ <lex>f.</lex> <div n='1'>— 1〉 <i>ein grosser Feuerbrand</i>. <div n='1'>— 2〉 <i>ein grosser Meteor</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महोल्का",
+            "eid": "59373",
+            "pagenum": 5,
+            "content": "महोल्का¦ (महा + उ°) <lex>f.</lex> <div n='1'> 1) <i>ein grosses Meteor</i> <ls>M. 4, 103.</ls> <ls>R. 3, 24, 18.</ls> <div n='1'>— 2) <i>ein grosser Feuerbrand</i> <ls>MBH. 5, 7210.</ls> <ls>R. 3, 75, 51.</ls>"
+        }
     ]
 }

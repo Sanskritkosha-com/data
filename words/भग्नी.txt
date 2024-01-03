@@ -23,5 +23,49 @@
             "pagenum": 517,
             "content": "BagnI¦ <i>f.</i> A sister."
         }
+    ],
+    "MW": [
+        {
+            "word": "भग्नी",
+            "eid": "147592",
+            "pagenum": 742,
+            "content": "भग्नी <hom>a</hom> ¦ See <pcol>p. 744, col. 2</pcol>."
+        },
+        {
+            "word": "भग्नी",
+            "eid": "147908",
+            "pagenum": 744,
+            "content": "भग्नी <hom>b</hom> ¦ <lex>f.</lex> = भगिनी, a sister, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भग्नी",
+            "eid": "34995",
+            "pagenum": 695,
+            "content": "भग्नी¦ <i>bhagnī.</i> See p. 696, col. 3."
+        },
+        {
+            "word": "भग्नी",
+            "eid": "35018",
+            "pagenum": 696,
+            "content": "<i>Bhagnī,</i>¦ f. <i>= bhaginī,</i> a sister."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भग्नी",
+            "eid": "78506",
+            "pagenum": 4,
+            "content": "*भग्नी¦ <lex>f.</lex> = भग्निनी <i>Schwester</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भग्नी",
+            "eid": "53834",
+            "pagenum": 5,
+            "content": "भग्नी¦ <lex>f.</lex> = भगिनी <i>Schwester</i> <ls>DVIRŪPAK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

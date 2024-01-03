@@ -13,5 +13,29 @@
             "pagenum": 579,
             "content": "mustA-Ada¦ <i>m.</i> a hog."
         }
+    ],
+    "MW": [
+        {
+            "word": "मुस्ताद",
+            "eid": "166000",
+            "pagenum": 824,
+            "content": "mustA<srs/>da ¦ <lex>m.</lex> ‘grass-eater’, a hog, wild boar, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मुस्ताद",
+            "eid": "87759",
+            "pagenum": 5,
+            "content": "*मुस्ताद¦ <lex>m.</lex> <i>Schwein, Eber</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मुस्ताद",
+            "eid": "61158",
+            "pagenum": 5,
+            "content": "मुस्ताद¦ (मुस्त + अद oder आद) <lex>m.</lex> <i>Schwein, Eber</i> (<is>Musta</is>-<i>Gras fressend)</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

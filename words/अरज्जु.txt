@@ -15,5 +15,37 @@
             "pagenum": 102,
             "content": "<b>a-rajjú,</b>¦ <ab>a.</ab>, 1〉 <i>nicht aus Stricken</i> [rájju] <i>bestehend;</i> 2〉 <i>nicht mit Stricken versehen</i>. <div n='TS'>-aú [<ab>L.</ab>] 1〉 {204,9}. <div n='TS'>-úbhis 2〉 setṛ́bhis {600,2}."
         }
+    ],
+    "MW": [
+        {
+            "word": "अरज्जु",
+            "eid": "15042",
+            "pagenum": 86,
+            "content": "अ-रज्जु/ ¦ <lex>mfn.</lex> not having or consisting of cords [‘not a cord or rope’, <ls>NBD.</ls>] <ls>RV. ii, 13, 9</ls> and <ls n='RV.'>vii, 84, 2.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अरज्जु",
+            "eid": "5714",
+            "pagenum": 80,
+            "content": "अरज्जु¦ <i>a-rajju, us, us, u,</i> Ved. not consisting of cords; not furnished with cords."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अरज्जु",
+            "eid": "8925",
+            "pagenum": 1,
+            "content": "अरज्जु/¦ <lex>f.</lex> <i>kein Strick</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अरज्जु",
+            "eid": "5552",
+            "pagenum": 1,
+            "content": "अरज्जु/¦ (3. अ + र°) <lex>adj.</lex> <div n='1'> 1) <i>nicht aus Stricken bestehend</i>: अ\\र\\ज्जौ दस्यू\\न्त्समु^नब्द\\भीत^ये <ls>ṚV. 2, 13, 9.</ls> <div n='1'>— 2) <i>nicht mit Stricken versehen</i>: यौ से\\तृभि^रर\\ज्जुभि^ः सिनी\\थः <ls>ṚV. 7, 84, 2.</ls>"
+        }
     ]
 }

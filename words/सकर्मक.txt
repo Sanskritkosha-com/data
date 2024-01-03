@@ -31,5 +31,43 @@
             "pagenum": 744,
             "content": "sakarmaka¦ <i>a. (f. का)</i> 1. Having or performing any act; 2. having an object, transitive (as a verb in gram.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "सकर्मक",
+            "eid": "227640",
+            "pagenum": 1123,
+            "content": "स—कर्मक ¦ <lex>mfn.</lex> effective, having consequences, <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सकर्मक",
+            "eid": "227641",
+            "pagenum": 1123,
+            "content": "¦ (in <ab>gram.</ab>) ‘having an object’, transitive, <ls>Pāṇ. i, 3, 53.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सकर्मक",
+            "eid": "48303",
+            "pagenum": 1043,
+            "content": "<i>Sa-karmaka, as,</i>¦ m. having or performing any act; (in grammar) ‘having an object,’ the transitive or active verb."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सकर्मक",
+            "eid": "117190",
+            "pagenum": 7,
+            "content": "सकर्मक¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>wirksam, Folgen habend</i>. <div n='1'>— 2〉 <i>mit einem Object verbunden, transitiv</i> (Zeitwort)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सकर्मक",
+            "eid": "103282",
+            "pagenum": 7,
+            "content": "सकर्मक¦ (von 2. स + कर्मन्) <lex>adj.</lex> <div n='1'> 1) <i>wirksam, Folgen habend</i>: कर्मन् <ls>BHĀG. P. 5, 20, 32.</ls> <div n='1'>— 2) <i>mit einem Object versehen, transitiv</i>: ein Zeitwort <ls>P. 1, 3, 53.</ls> <ls n='P.'>3, 1, 87</ls>, <is>Vārtt</is>. 3. Comm. zu <ls n='P.'>3, 2, 4.</ls>"
+        }
     ]
 }

@@ -15,5 +15,61 @@
             "pagenum": 239,
             "content": "galana¦ <i>n.</i> Oozing, trickling, melting, leaking."
         }
+    ],
+    "MW": [
+        {
+            "word": "गलन",
+            "eid": "64208",
+            "pagenum": 350,
+            "content": "गलन ¦ <lex>mfn.</lex> dropping, flowing, <ls>Nir. vi, 24</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गलन",
+            "eid": "64209",
+            "pagenum": 350,
+            "content": "गलन ¦ <lex>n.</lex> dropping, trickling, <ls>VS. i, 2</ls>, <ab>Sch.</ab><info lex='n'/>"
+        },
+        {
+            "word": "गलन",
+            "eid": "64210",
+            "pagenum": 350,
+            "content": "¦ melting, fusing, <ls>VarBṛS. xciv, 7</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गलन",
+            "eid": "64211",
+            "pagenum": 350,
+            "content": "¦ falling down or off, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गलन",
+            "eid": "64212",
+            "pagenum": 350,
+            "content": "¦ leaking, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गलन",
+            "eid": "17199",
+            "pagenum": 286,
+            "content": "<i>Galana, as, ā, am,</i>¦ dropping, flowing; (<i>am</i>), n. dropping, oozing, trickling; melting, fusing; falling down or off; leaking."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गलन",
+            "eid": "35029",
+            "pagenum": 2,
+            "content": "गलन¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>träufelnd, rinnend</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>das Träufeln, Rinnen</i> <ls>MAHĪDH. zu VS. 1,2</ls>. <div n='2'>— b〉 <i>das Schmelzen, Flüssigwerden</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गलन",
+            "eid": "22059",
+            "pagenum": 2,
+            "content": "गलन¦ (von 1. गल्) <div n='1'> 1) <lex>adj.</lex> <i>träufelnd, rinnend</i> <ls>NIR. 6, 24.</ls> <div n='1'>— 2) <lex>n.</lex> <i>das Träufeln, Rinnen</i> ebend. <i>Schmelzen, Flüssigwerden</i>: दन्तस्य <i>des Elfenbeins</i> <ls>VARĀH. BṚH. S. 93, 7.</ls>"
+        }
     ]
 }

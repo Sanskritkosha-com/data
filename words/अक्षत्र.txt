@@ -23,5 +23,45 @@
             "pagenum": 2,
             "content": "अक्षत्र¦ ohne die Kriegerkaste."
         }
+    ],
+    "MD": [
+        {
+            "word": "अक्षत्र",
+            "eid": "169",
+            "pagenum": 2,
+            "content": "अक्षत्र¦ a-kṣatra, <lex>a.</lex> without the warrior caste."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अक्षत्र",
+            "eid": "551",
+            "pagenum": 3,
+            "content": "अ-क्षत्र ¦ <lex>mfn.</lex> destitute of the <s1 slp1='kzatriya'>Kṣatriya</s1> caste, apart from the <s1 slp1='kzatriya'>Kṣatriya</s1> caste.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अक्षत्र",
+            "eid": "161",
+            "pagenum": 3,
+            "content": "अक्षत्र¦ <i>a-kṣatra, as, ā, am,</i> destitute of the Kṣatriya caste, apart from the Kṣatriya caste."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अक्षत्र",
+            "eid": "266",
+            "pagenum": 1,
+            "content": "अक्षत्र¦ <lex>Adj.</lex> <i>ohne Kriegerkaste</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अक्षत्र",
+            "eid": "174",
+            "pagenum": 1,
+            "content": "अक्षत्र¦ (अ + क्षत्र) <lex>adj.</lex> <i>von der Kriegerkaste getrennt</i>: नाब्रह्म क्षत्रमृध्नोति नाक्षत्रं ब्रह्म वर्धते <ls>M. 9, 322.</ls>"
+        }
     ]
 }

@@ -19,5 +19,35 @@
             "pagenum": 2,
             "content": "श्रीविद्या¦ tantr. Gov. Or. Libr. Madras 100."
         }
+    ],
+    "MW": [
+        {
+            "word": "श्रीविद्या",
+            "eid": "223265",
+            "pagenum": 1100,
+            "content": "श्री—विद्या ¦ <lex>f.</lex> a form of <s1 slp1='durgA'>Durgā</s1>, <ls>Cat.</ls><info lex='f'/>"
+        },
+        {
+            "word": "श्रीविद्या",
+            "eid": "223266",
+            "pagenum": 1100,
+            "content": "¦ exalted science (also <ab>N.</ab> of <ab>wk.</ab>), <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्रीविद्या",
+            "eid": "115274",
+            "pagenum": 6,
+            "content": "श्रीविद्या¦ <lex>f.</lex> <div n='1'>— 1〉 <i>eine Form der</i> <is>Durgā</is>. <div n='1'>— 2〉 Titel eines Werkes <ls>BÜHLER, Rep. No. 497</ls>. °पद्धति <lex>f.</lex> und °पूजापद्धति <lex>f.</lex> <ab>desgl.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्रीविद्या",
+            "eid": "101764",
+            "pagenum": 7,
+            "content": "श्रीविद्या¦ <lex>f.</lex> <i>eine Form der</i> <is>Durgā</is> <ls>Verz. d. Oxf. H. 93,b,22. 94,a,41. 96,a,8. 99,b,34. 36.</ls>"
+        }
     ]
 }

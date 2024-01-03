@@ -23,5 +23,59 @@
             "pagenum": 503,
             "content": "सुभूति¦ <i>f. = vor. n.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "सुभूति",
+            "eid": "248094",
+            "pagenum": 1230,
+            "content": "सु/—भूति ¦ (सु/-), <lex>f.</lex> well-being, welfare<info lex='f'/>"
+        },
+        {
+            "word": "सुभूति",
+            "eid": "248094.1",
+            "pagenum": 1230,
+            "content": "सु/—भूति ¦ <lex>m.</lex> <ab>N.</ab> of a lexicographer (also called -चन्द्र; he wrote a <ab>Comm.</ab> on the <s1 slp1='amara-koza'>Amara-koṣa</s1>)<info lex='m'/>"
+        },
+        {
+            "word": "सुभूति",
+            "eid": "248094.2",
+            "pagenum": 1230,
+            "content": "¦ of a <ns>Brāhman</ns> (son of <s1 slp1='vasu-BUti'>Vasu-bhūti</s1>), <ls>Kathās.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुभूति",
+            "eid": "248094.3",
+            "pagenum": 1230,
+            "content": "¦ of a teacher, <ls>Buddh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुभूति",
+            "eid": "127107",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सु/भूति¦ <lex>f.</lex> <i>Wohlsein, Wohlstand</i>."
+        },
+        {
+            "word": "सुभूति",
+            "eid": "127108",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सु/भूति¦ <div n='1'>— 1〉 wohl <lex>Adj.</lex> <ls>TS.</ls> <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> verschiedener Männer."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुभूति",
+            "eid": "110865",
+            "pagenum": 7,
+            "content": "1. सु/भूति¦ <lex>f.</lex> <i>Wohlsein, Wohlstand</i> <ls>AV. 3, 14, 1.</ls> <ls n='AV.'>19, 45, 6.</ls>"
+        },
+        {
+            "word": "सुभूति",
+            "eid": "110866",
+            "pagenum": 7,
+            "content": "2. सु/भूति¦ <div n='1'> 1) wohl <lex>adj.</lex> <ls>TS. 3, 4, 7, 2.</ls> <ls n='TS.'>4, 4, 12, 5.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines Lexicographen <ls>Verz. d. Oxf. H. 183,a,3.</ls> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. Einl. 3.</ls> zu <ls n='UṆĀDIS.'>1, 28. 2, 111.</ls> eines Brahmanen, Sohnes des <is>Vasubhūti</is>, <ls>KATHĀS. 73, 208.</ls> eines buddhistischen Lehrers <ls>LALIT. ed. Calc. 1, 18.</ls> <ls>BURNOUF, Intr. 465. fgg</ls> <ls>Lot. de la b. l. 2. 91.</ls> <ls>SCHIEFNER, Lebensb. 267 (37).</ls> <ls>HIOUENTHSANG 1, 240.</ls> <ls>Vie de HIOUEN-THSANG 189.</ls> <ls>WASSILJEW 154.</ls> <ls>TĀRAN. 90.</ls> °पाल <ls n='TĀRAN.'>226.</ls> °चन्द्र <ls>COLEBR. Misc. Ess. 2, 49. 54.</ls> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 2, 10. 85. 3, 42. 4, 1. 12. 52. 200. 5, 70.</ls> <ls>KAṬHINĀVADĀNA 16.</ls>"
+        }
     ]
 }

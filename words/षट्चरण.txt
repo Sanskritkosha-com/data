@@ -52,5 +52,47 @@
             "pagenum": 737,
             "content": "zawcaraRa¦ <i>m.</i> 1. a bee; 2. a locust; 3. a louse."
         }
+    ],
+    "MW": [
+        {
+            "word": "षट्चरण",
+            "eid": "224979",
+            "pagenum": 1108,
+            "content": "षट्—चरण ¦ <lex>mfn.</lex> six-footed<info lex='m:f:n'/>"
+        },
+        {
+            "word": "षट्चरण",
+            "eid": "224980",
+            "pagenum": 1108,
+            "content": "षट्—चरण ¦ <lex>m.</lex> a bee, <ls>Kāv.</ls>; <ls>VarBṛS.</ls>; <ls>Vās.</ls><info lex='m'/>"
+        },
+        {
+            "word": "षट्चरण",
+            "eid": "224981",
+            "pagenum": 1108,
+            "content": "¦ a louse, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "षट्चरण",
+            "eid": "224982",
+            "pagenum": 1108,
+            "content": "¦ a locust, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "षट्चरण",
+            "eid": "116117",
+            "pagenum": 6,
+            "content": "षट्चरण¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>sechsfüssig</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Biene</i> <ls>ŚIŚ. 14,69</ls>. <ls>VĀSAV. 172,4. 5</ls>, <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <div n='2'>— b〉 *<i>Laus</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "षट्चरण",
+            "eid": "102429",
+            "pagenum": 7,
+            "content": "षट्चरण¦ <lex>adj.</lex> <i>sechsfüssig</i>; <lex>m.</lex> <i>Biene (Laus</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>) <ls>H. 1212</ls>, Schol. <ls>HALĀY. 2, 100.</ls> <ls>ŚĀK. 23.</ls> <ls>VARĀH. BṚH. S. 104, 17.</ls> Davon nom. abstr. °ता <ls n='VARĀH. BṚH. S. 104,'>32.</ls>"
+        }
     ]
 }

@@ -23,5 +23,29 @@
             "pagenum": 342,
             "content": "deva-ari¦ <i>m.</i> a demon."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवारि",
+            "eid": "96236",
+            "pagenum": 495,
+            "content": "devA<srs/>ri ¦ <lex>m.</lex> ‘foe of the <ab n='gods'>g°</ab>’, an <s1 slp1='asura'>Asura</s1>, <ls>MBh.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवारि",
+            "eid": "52639",
+            "pagenum": 3,
+            "content": "देवारि¦ <lex>m.</lex> <i>Götterfeind, ein</i> <is>Asura</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवारि",
+            "eid": "34765",
+            "pagenum": 3,
+            "content": "देवारि¦ (देव + अरि) <lex>m.</lex> <i>ein Feind der Götter, ein</i> <is>Asura</is> <ls>MBH. 7, 2892.</ls>"
+        }
     ]
 }

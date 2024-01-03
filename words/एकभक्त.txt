@@ -7,5 +7,35 @@
             "pagenum": 99,
             "content": "एकभक्त¦ <lex>a.</lex>  devoted only to one, faithful."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकभक्त",
+            "eid": "39471",
+            "pagenum": 228,
+            "content": "एक—भक्त ¦ <lex>mf(आ)n.</lex> devoted or faithful to only one (husband), faithful, <ls>Mn. viii, 363</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "एकभक्त",
+            "eid": "39472",
+            "pagenum": 228,
+            "content": "एक—भक्त ¦ <lex>n.</lex> the eating only one meal (a day), <ls>Kauś.</ls>; <ls>Yājñ. iii, 319</ls>; <ls>MBh.</ls> &c.<info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकभक्त",
+            "eid": "21869",
+            "pagenum": 1,
+            "content": "एकभक्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>nur Einem ergeben, treu</i> <ls>M. 8,363</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>einmaliges Essen am Tage</i> <ls>KAUŚ. 38</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकभक्त",
+            "eid": "13311",
+            "pagenum": 1,
+            "content": "एकभक्त¦ (एक + भक्त) <div n='1'> 1) <lex>adj.</lex> <i>einem und demselben Herrn dienend</i> <ls>M. 8, 363.</ls> <div n='1'>— 2) <lex>n.</lex> <i>einmaliges Essen am Tage</i>: दिनार्धसमये ऽतीते भुज्यते नियमेन यत् । एकभक्तमिति प्रोक्तं रात्रौ तन्न कदा च न ॥ <ls>SKANDA-P.</ls> im <ls>ŚKDR.</ls> <ls>YĀJÑ. 3, 319.</ls> उपोष्य एकभक्तेन <ls>MBH. 13, 5146.</ls> <ls n='MBH. 13,'>5149.</ls> u.s.w. <ls>Verz. d. B. H. No. 1238.</ls>"
+        }
     ]
 }

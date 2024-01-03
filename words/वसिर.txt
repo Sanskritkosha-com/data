@@ -23,5 +23,55 @@
             "pagenum": 647,
             "content": "vasira¦ <i>n.</i> Sea-salt."
         }
+    ],
+    "MW": [
+        {
+            "word": "वसिर",
+            "eid": "189194",
+            "pagenum": 933,
+            "content": "वसिर ¦ <lex>m.</lex> <bot>Scindapsus Officinalis</bot> (<lex>n.</lex> its fruit), <ls>Suśr.</ls>; <ls>Bhpr.</ls> (<ab>v.l.</ab> वसीर and वशिर)<info lex='m'/>"
+        },
+        {
+            "word": "वसिर",
+            "eid": "189195",
+            "pagenum": 933,
+            "content": "¦ <bot>Achyranthes Aspera</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वसिर",
+            "eid": "189196",
+            "pagenum": 933,
+            "content": "वसिर ¦ <lex>n.</lex> sea salt (<ab>v.l.</ab> वशिर and वशीर), <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वसिर",
+            "eid": "41647",
+            "pagenum": 896,
+            "content": "<i>Vasira, am,</i>¦ n. sea salt; (<i>as</i>), m. <i>= gaja-pippalī,</i> a plant bearing a pungent seed or fruit resembling pepper, (according to some also <i>am,</i> n.; cf. <i>vaśira.</i>)"
+        },
+        {
+            "word": "वसिर",
+            "eid": "41673",
+            "pagenum": 897,
+            "content": "वसिर¦ <i>vasira.</i> See p. 896, col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वसिर",
+            "eid": "99393",
+            "pagenum": 6,
+            "content": "वसिर¦ <div n='1'>— 1〉 <lex>m.</lex> <i><bot>Scindapsus officinalis</bot></i> <ls>BHĀVAPR. 1,164</ls> (वशिर). <ls>CARAKA. 1,4</ls>. <lex>n.</lex> <i>die Frucht</i>. Nach <ls>MED.</ls> *<i><bot>Achyranthes aspera</bot></i>. <div n='1'>— 2〉 *<lex>n.</lex> <i>Meersalz</i> <ls>BHĀVAPR. (<ab>Hdschr.</ab>) 1,181</ls> (वशिर). <ls>RĀJAN. 6,103</ls> (वशीर)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वसिर",
+            "eid": "88986",
+            "pagenum": 6,
+            "content": "वसिर¦ <div n='1'> 1) <lex>m.</lex> <i>Scindapsus officinalis Schott.</i>, eine Schlingpflanze (= गजपिप्पली); <lex>n.</lex> <i>die Frucht</i> <ls>AK. 2, 4, 3, 16.</ls> <ls>MED. r. 209. fg.</ls> <ls>RATNAM. 77.</ls> <ls>SUŚR. 1, 137. 15. 20. 145, 17. 214, 2. 2, 52, 19.</ls> <i>Achyranthes aspera</i> <ls>MED.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Meersalz</i> <ls>AK. 2, 9, 41.</ls> <ls>H. 941.</ls> <ls>MED.</ls> — Wird auch वशिर geschrieben."
+        }
     ]
 }

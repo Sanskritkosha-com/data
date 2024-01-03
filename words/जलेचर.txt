@@ -31,5 +31,55 @@
             "pagenum": 286,
             "content": "jalecara¦ <i>a.</i> aquatic, amphibious."
         }
+    ],
+    "MD": [
+        {
+            "word": "जलेचर",
+            "eid": "7946",
+            "pagenum": 100,
+            "content": "जलेचर¦ jale-cara, <lex>a.</lex> (<b>ī</b>) living in the water; 🞄<lex>m.</lex> aquatic animal (<ab>—°</ab> <lex>a.</lex> <lex>f.</lex> <b>ā</b>); <b>-śaya,</b> <lex>a.</lex> abiding 🞄in the water; <ab>ep.</ab> <i>of</i> Viṣṇu."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जलेचर",
+            "eid": "78268",
+            "pagenum": 416,
+            "content": "जले—चर ¦ <lex>mf(ई)n.</lex> living in water, <ls>MBh. i, 7852</ls>; <ls n='MBh.'>iii, 17322</ls>; <ls>R. iv, 50, 18</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "जलेचर",
+            "eid": "78269",
+            "pagenum": 416,
+            "content": "जले—चर ¦ <lex>m.</lex> an aquatic animal, <ls>MBh. i</ls>, <ls n='MBh.'>iii</ls>; <ls>R.</ls> (<ab>ifc.</ab> <lex type='hwifc'>f(आ). </lex>)<info lex='m:f#A'/>"
+        },
+        {
+            "word": "जलेचर",
+            "eid": "78270",
+            "pagenum": 416,
+            "content": "जले—चर ¦ <lex>m.</lex> a fish, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "जलेचर",
+            "eid": "78271",
+            "pagenum": 416,
+            "content": "¦ any kind of water-fowl, <ls>W.</ls> =<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जलेचर",
+            "eid": "42264",
+            "pagenum": 2,
+            "content": "जलेचर¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <i>im Wasser lebend</i>. <div n='1'>— 2〉 <lex>m.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <i>Wasserthier</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जलेचर",
+            "eid": "27070",
+            "pagenum": 3,
+            "content": "जलेचर¦ (जले, loc. von जल, + चर) <lex>adj.</lex> <lex>f.</lex> ई <i>im Wasser lebend</i>: पक्षिन् <ls>MBH. 3, 17322.</ls> <ls>R. 4, 50, 18.</ls> <lex>m.</lex> <i>Wasserthier</i> <ls>MBH. 1, 7849.</ls> <ls n='MBH.'>3, 698.</ls> <ls>R. 4, 51, 39.</ls> °चरी <ls>MBH. 1, 7852.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> आ <ls>R. 3, 58, 38.</ls>"
+        }
     ]
 }

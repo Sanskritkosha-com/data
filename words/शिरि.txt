@@ -39,5 +39,55 @@
             "pagenum": 719,
             "content": "Siri¦ <i>m.</i> 1. A sword; 2. an arrow; 3. a locust; 4. a murderer, a killer."
         }
+    ],
+    "MW": [
+        {
+            "word": "शिरि",
+            "eid": "217230",
+            "pagenum": 1073,
+            "content": "शिरि ¦ <lex>m.</lex> (only <ls>L.</ls>; <ab>cf.</ab> <ls>Uṇ. iv, 142</ls>) a murderer, killer<info lex='m'/>"
+        },
+        {
+            "word": "शिरि",
+            "eid": "217231",
+            "pagenum": 1073,
+            "content": "¦ a sword<info lex='inh'/>"
+        },
+        {
+            "word": "शिरि",
+            "eid": "217232",
+            "pagenum": 1073,
+            "content": "¦ an arrow<info lex='inh'/>"
+        },
+        {
+            "word": "शिरि",
+            "eid": "217233",
+            "pagenum": 1073,
+            "content": "¦ a locust.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शिरि",
+            "eid": "46719",
+            "pagenum": 1006,
+            "content": "शिरि¦ <i>śiri, is,</i> m. (according to Uṇādi-s. IV. 142. fr. rt. <i>śṝ</i>), a murderer, killer; a sword; an arrow; a locust."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शिरि",
+            "eid": "112361",
+            "pagenum": 6,
+            "content": "*शिरि¦ <lex>Adj.</lex> und <lex>m.</lex> = हिंस्र, हन्तर्, शलभ, खङ्ग, शर."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शिरि",
+            "eid": "99453",
+            "pagenum": 7,
+            "content": "शिरि/¦ <ls>UṆĀDIS. 4, 142.</ls> m. = हन्तर् <ls>UJJVAL.</ls> = शलभ <ls>Schol.</ls> zu <ls>Uṇ. 4, 144.</ls> = खड्ग, शर, हिंस्र <ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

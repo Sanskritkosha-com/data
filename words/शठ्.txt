@@ -93,5 +93,65 @@
             "pagenum": 706,
             "content": "SaW¦ <i>(II) vt. 10P pres. शठयति)</i> To deceive, to defraud."
         }
+    ],
+    "MW": [
+        {
+            "word": "शठ्",
+            "eid": "211737",
+            "pagenum": 1048,
+            "content": "<hom>1.</hom> शठ् ¦ (<ab>cf.</ab> शट्, शल्) <ab>cl.</ab> 10. <ab>Ā.</ab> शाठयते, to praise, flatter, <ls>Dhātup. xxxiii, 18.</ls><info westergaard='SaWa,33.18,10.0136'/><info verb='root' cp='10Ā'/>"
+        },
+        {
+            "word": "शठ्",
+            "eid": "211738",
+            "pagenum": 1048,
+            "content": "<hom>2.</hom> शठ् ¦ (<ab>cf.</ab> √ <hom>1.</hom> श्वठ्) <ab>cl.</ab> 10. <ab>P.</ab> शठयति, to speak ill (according to others ‘to speak well’); <div n='to'/>to be true, <ls>Dhātup. xxxv, 4.</ls><info westergaard='SvaWa,35.4,10.0246'/><info verb='root' cp='10P'/>"
+        },
+        {
+            "word": "शठ्",
+            "eid": "211739",
+            "pagenum": 1048,
+            "content": "<hom>3.</hom> शठ् ¦ (<ab>cf.</ab> √ <hom>2.</hom> श्वठ्, सठ्, स्वठ्) <ab>cl.</ab> 10. <ab>P.</ab> शाठयति, to accomplish, adorn (others ‘to leave unfinished or unornamented’); <div n='to'/>to go, move, <ls>Dhātup. xxxii, 28.</ls><info westergaard='SaWa,32.28,10.0027'/><info verb='root' cp='10P'/>"
+        },
+        {
+            "word": "शठ्",
+            "eid": "211740",
+            "pagenum": 1048,
+            "content": "<hom>4.</hom> शठ् ¦ <ab>cl.</ab> 1. <ab>P.</ab> शठति, to deceive; <div n='to'/>to hurt; <div n='to'/>to suffer pain, <ls>Dhātup. ix, 65</ls>; <div n='to'/> <ab>cl.</ab> 10. <ab>P.</ab> शाठयति (<ab>cf.</ab> √ शुठ्), to be idle or lazy, <ls>ib.</ls><info westergaard='kadqa,9.65,01.0238'/><info verb='genuineroot' cp='1P,10P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शठ्",
+            "eid": "46045",
+            "pagenum": 989,
+            "content": "शठ् 1¦. <i>śaṭh</i> [cf. rts. <i>śaṭ, śal</i>], cl. 10. A. <i>śāṭhayate, -yitum,</i> to praise."
+        },
+        {
+            "word": "शठ्",
+            "eid": "46046",
+            "pagenum": 989,
+            "content": "शठ् 2¦. <i>śaṭh</i> (= rt. 1. <i>śvaṭh</i>), cl. 10. P. <i>śaṭhayati, -yitum,</i> to speak ill; (according to some) to speak correctly or well or elegantly; to be true."
+        },
+        {
+            "word": "शठ्",
+            "eid": "46047",
+            "pagenum": 989,
+            "content": "शठ् 3¦. <i>śaṭh</i> (= rts. 2. <i>śvaṭh, saṭh, svaṭh</i>), cl. 10. P. <i>śāṭhayati, -yitum,</i> to accomplish, finish, adorn; to leave unfinished or unornamented; to go, move."
+        },
+        {
+            "word": "शठ्",
+            "eid": "46048",
+            "pagenum": 989,
+            "content": "शठ् 4¦. <i>śaṭh,</i> cl. 1. P. <i>śaṭhati, śaṭhitum,</i> to cheat, defraud, deceive; to hurt, kill; to suffer pain; cl. 10. P. <i>śāṭhayati, -yitum,</i> to be idle or lazy."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शठ्",
+            "eid": "97405",
+            "pagenum": 7,
+            "content": "शठ्¦, श/ठति (हिंसासंक्लेशयोः und कैतवे) <ls>DHĀTUP. 9, 55.</ls> शठ/यति (सम्यगवभाषणे, सम्यगाभाषणे, भाषणे, सम्यग्भावे, दुर्वाचि) <ls n='DHĀTUP.'>35, 4.</ls> शाठ/यति (संस्कारगत्योः, असंस्कारगत्योः, गत्यसंस्कृतसंस्कृते) <ls n='DHĀTUP.'>32, 28.</ls> शाठ/यते (श्लाघायाम्) <ls n='DHĀTUP.'>33, 18.</ls>"
+        }
     ]
 }

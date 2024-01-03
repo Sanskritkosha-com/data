@@ -45,5 +45,51 @@
             "pagenum": 154,
             "content": "Ekzava¦ <i>(II) a. (f. वी)</i> Made of sugar."
         }
+    ],
+    "MD": [
+        {
+            "word": "ऐक्षव",
+            "eid": "5187",
+            "pagenum": 59,
+            "content": "ऐक्षव¦ aikṣavá, <lex>a.</lex> (<b>ī</b>) made of sugar-cane."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ऐक्षव",
+            "eid": "40350",
+            "pagenum": 233,
+            "content": "ऐक्षव/ and ऐक्षव्य^, ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> इक्षु), made of or produced from the sugar-cane, <ls>TS. vi</ls>; <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Hcat.</ls><info lex='m:f#I:n'/><info and='40350,Ekzava;40350.2,Ekzavya'/>"
+        },
+        {
+            "word": "ऐक्षव",
+            "eid": "40350.1",
+            "pagenum": 233,
+            "content": "ऐक्षव/ ¦ (अम्),<lex>n.</lex> sugar, <ls>Suśr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऐक्षव",
+            "eid": "12848",
+            "pagenum": 187,
+            "content": "ऐक्षव¦ <i>aikṣava, as, ī, am</i> (fr. <i>ikṣu</i>), produced from or relating to the sugar-cane, sugary; (<i>am</i>), n. sugar."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऐक्षव",
+            "eid": "22442",
+            "pagenum": 1,
+            "content": "ऐक्षव/¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई/) <i>aus Zuckerrohr gemacht, vom <ab n='Zuckerrohr'>Z.</ab> kommend</i> <ls>ŚAT. BR. 3,4,1,18. 6,2,10</ls>. <ls>KĀTY. ŚR. 8,1,4</ls>. <ls>HEMĀDRI 1,428,20</ls>. <ls>BĀLAR. 62,15</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>Zucker</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऐक्षव",
+            "eid": "13638",
+            "pagenum": 1,
+            "content": "ऐक्षव/¦ (von इक्षु) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <i>aus Zuckerrohr gemacht, dazu gehörig</i> <is>gaṇa</is> विल्वादि zu <ls>P. 4, 3, 136.</ls> ऐ\\क्ष\\वी ति\\रश्ची^ <ls>TS. 6, 2, 1, 5.</ls> ऐक्षवं मद्यम् Cit. bei <ls>KULL.</ls> zu <ls>M. 11, 95.</ls> मूलमैक्षवम् <ls>AK. 2, 9, 110.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Zucker</i> <ls>SUŚR. 1, 331, 3.</ls>"
+        }
     ]
 }

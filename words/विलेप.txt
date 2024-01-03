@@ -47,5 +47,49 @@
             "pagenum": 675,
             "content": "vilepa¦ <i>m.</i> 1. An unguent, an ointment; 2. mortar, plaster."
         }
+    ],
+    "MW": [
+        {
+            "word": "विलेप",
+            "eid": "199735",
+            "pagenum": 985,
+            "content": "वि-लेप ¦ <lex>m.</lex> ointment, unguent (<ab>esp.</ab> the fragrant <ab n='unguent'>u°</ab> of sandal &c.), <ls>BhP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विलेप",
+            "eid": "199736",
+            "pagenum": 985,
+            "content": "¦ anointing, plastering, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विलेप",
+            "eid": "199737",
+            "pagenum": 985,
+            "content": "¦ mortar, plaster, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विलेप",
+            "eid": "43859",
+            "pagenum": 938,
+            "content": "<i>Vi-lepa, as,</i>¦ m. ointment, unguent, (especially the fragrant unguent of sandal, agallochum, &c.); anointing, plastering; mortar, plaster; (<i>ī</i>), f. ricegruel."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विलेप",
+            "eid": "104254",
+            "pagenum": 6,
+            "content": "विलेप¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Salbe</i>. <div n='1'>— 2〉 <lex>f.</lex> ई <i>Reissuppe</i> <ls>RĀJAN. 20,68</ls>. <ls>BHĀVAPR. 3,43</ls>. <ls>CARAKA. 1,15. 6,10</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विलेप",
+            "eid": "92984",
+            "pagenum": 6,
+            "content": "विलेप¦ (von लिप् mit वि) <div n='1'> 1) <lex>m.</lex> <i>Salbe</i>: अङ्ग° <ls>BHĀG. P. 10, 42, 1.</ls> <div n='1'>— 2) <lex>f.</lex> ई <i>Reisbrei</i> <ls>AK. 2, 9, 50.</ls> <ls>H. 397.</ls> <ls>SUŚR. 1, 72, 7. 229, 10. 15. 2, 229, 20.</ls> <ls>VĀGBH. 6, 30.</ls> <ls>ŚĀRṄG. SAṂH. 2, 2, 113.</ls>"
+        }
     ]
 }

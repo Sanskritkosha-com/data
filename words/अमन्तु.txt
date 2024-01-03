@@ -31,5 +31,45 @@
             "pagenum": 119,
             "content": "<b>a-mantú,</b>¦ <i><ab>a.</ab></i> without intention. [<b>mántu:</b> <ls n='wg,1304'>1304a</ls>.]"
         }
+    ],
+    "MD": [
+        {
+            "word": "अमन्तु",
+            "eid": "2375",
+            "pagenum": 25,
+            "content": "अमन्तु¦ a-mantú, <lex>a.</lex> lacking an adviser, 🞄helpless."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अमन्तु",
+            "eid": "13816",
+            "pagenum": 80,
+            "content": "अ-मन्तु/ ¦ <lex>mfn.</lex> silly, ignorant, <ls>RV. x, 22, 8</ls> and <ls n='RV. x,'>125, 4.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अमन्तु",
+            "eid": "5411",
+            "pagenum": 75,
+            "content": "<i>A-mantu, us, us, u,</i>¦ Ved. unwise, foolish, indocile; (for <i>ava-mantu</i>), despising."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अमन्तु",
+            "eid": "8095",
+            "pagenum": 1,
+            "content": "अमन्तु/¦ <lex>Adj.</lex> <i>ohne Berather, rathlos, unberathen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अमन्तु",
+            "eid": "5056",
+            "pagenum": 1,
+            "content": "अमन्तु/¦ (3. अ + म°) <lex>adj.</lex> <i>ungelehrig, unverständig</i>: अ\\क\\र्मा दस्यु^र\\भि नो^ अम\\न्तुर\\न्यव्र^तो\\ अमा^नुषः <ls>ṚV. 10, 22, 8.</ls> अ\\म\\न्तवो\\ मां त उप^ क्षियन्ति <ls n='ṚV. 10,'>125, 4.</ls>"
+        }
     ]
 }

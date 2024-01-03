@@ -13,5 +13,55 @@
             "pagenum": 255,
             "content": "आरुह्¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Ascending. <i>--<ab>f.</ab></i> <b>1</b> Excrescence. <b>--2</b> A shoot (of a plant)."
         }
+    ],
+    "MW": [
+        {
+            "word": "आरुह्",
+            "eid": "26275",
+            "pagenum": 151,
+            "content": "<hom>1.</hom> आ-√ रुह् ¦ <ab>P.</ab> -रोहति (<ab>aor.</ab> -रुक्षत् and <ab>Ved.</ab> -रुहत् [<ls>Pāṇ. iii, 1, 59</ls>]; <ab>Inf.</ab> -रु/हम्, <ls>RV. x, 44, 6</ls>) <ab>Ā.</ab> (2. <ab>sg.</ab> आ/-रोहसे, <ls>RV. i, 51, 12</ls>) <div n='to'/>to ascend, mount, bestride, rise up, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls>; <ls>R.</ls>; <ls>Hariv.</ls>; <ls>Śak.</ls>; <ls>Kathās.</ls> &c.; <div n='to'/>to arise, come off, result, <ls>Kathās.</ls>; <ls>Kum.</ls> &c.; <div n='to'/>to venture upon, undertake; <div n='to'/>to attain, gain, <ls>RV.</ls>; <ls>MBh.</ls>; <ls>Kathās.</ls>; <ls>Ragh.</ls> &c.: <div n='vp'/><ab>Caus.</ab> -रोहयति & -रोपयति, to cause to mount or ascend; <div n='to'/>to raise, <ls>RV.</ls>; <ls>KātyŚr.</ls>; <ls>R.</ls>; <ls>BhP.</ls>; <ls>Pañcat.</ls> &c.; <div n='to'/>to string (a bow), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Kum.</ls>; <ls>Śak.</ls> &c.; <div n='to'/>to cause to grow; <div n='to'/>to plant, <ls>Kathās.</ls> &c.; <div n='to'/>to place, deposit, fasten, <ls>MBh.</ls>; <ls>R.</ls>; <ls>BhP.</ls>; <ls>Yājñ.</ls>; <div n='to'/>to produce, cause, effect, <ls>Kathās.</ls>; <ls>Prab.</ls>; <ls>MārkP.</ls>; <div n='to'/>to attribute, <ls>BhP.</ls>; <ls>Vedāntas.</ls>; <ls>Sāh.</ls> &c.: <div n='vp'/><ab>Desid.</ab> <ab>P.</ab> -रुरुक्षति, to wish to ascend or mount, <ls>RV.</ls>; <ls>BhP.</ls>; <ls>MBh.</ls><info verb='pre' cp='PĀ' parse='A+ruh'/>"
+        },
+        {
+            "word": "आरुह्",
+            "eid": "26277",
+            "pagenum": 151,
+            "content": "<hom>2.</hom> आ-रु/ह् ¦ <lex>mfn.</lex> <ab>ifc.</ab> ascending, <ls>RV. i, 124, 7</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आरुह्",
+            "eid": "26278",
+            "pagenum": 151,
+            "content": "आ-रु/ह् ¦ (क्), <lex>f.</lex> excrescence, shoot (of a plant), <ls>AV. xiii, 1, 9.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आरुह्",
+            "eid": "9138",
+            "pagenum": 128,
+            "content": "आरुह् 1¦. <i>ā-ruh,</i> cl. 1. P. <i>-rohati, -roḍhum,</i> to ascend, mount, bestride; to venture upon, undertake; to attain, gain: Caus. <i>-rohayati</i> or <i>-ropayati,</i> <i>-yitum,</i> to cause to mount or ascend, raise; to cause to grow; to plant; to place, fasten; to attribute."
+        },
+        {
+            "word": "आरुह्",
+            "eid": "9141",
+            "pagenum": 128,
+            "content": "2. <i>ā-ruh, k, k, k,</i>¦ Ved. ascending; (<i>k</i>), f. excrescence, shoot (of a plant)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आरुह्",
+            "eid": "15539",
+            "pagenum": 1,
+            "content": "आरु/ह्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>besteigend,</i> in गर्तारुह्. <div n='1'>— 2〉 <lex>f.</lex> <i>Auswuchs, Schössling</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आरुह्",
+            "eid": "9196",
+            "pagenum": 1,
+            "content": "आरु/ह्¦ (von रुह् mit आ) <div n='1'> 1) <lex>adj.</lex> <i>besteigend</i>, s. गर्तारुह् . <div n='1'>— 2) <lex>f.</lex> <i>Auswuchs, Schössling</i>: यास्ते\\ रुह^ः प्र\\रुहो\\ यास्त^ आ\\रुह^ः <ls>AV. 13, 1, 9.</ls>"
+        }
     ]
 }

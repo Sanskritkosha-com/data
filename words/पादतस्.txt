@@ -23,5 +23,41 @@
             "pagenum": 249,
             "content": "पादतस्¦ <i>Adv.</i> von den Füßen aus, zu Füßen, schritt- <i>o.</i> stufenweise."
         }
+    ],
+    "MW": [
+        {
+            "word": "पादतस्",
+            "eid": "121915",
+            "pagenum": 617,
+            "content": "पाद—तस् ¦ <lex>ind.</lex> from or at or near the feet (-तः-√ कृ, to place at the feet), <ls>ŚāṅkhGṛ.</ls>; <ls>Mn.</ls>; <ls>Kathās.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "पादतस्",
+            "eid": "121915.1",
+            "pagenum": 617,
+            "content": "¦ by the <s1 slp1='pAda'>Pāda</s1> (<ab>i.e.</ab> quarter of a verse), <ls>RPrāt.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पादतस्",
+            "eid": "121915.2",
+            "pagenum": 617,
+            "content": "¦ step by step, by degrees, <ls>Kām.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पादतस्",
+            "eid": "65828",
+            "pagenum": 4,
+            "content": "पादतस्¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>von —, aus —, zu —, bei —, an den Füssen</i>. Mit कर् <i>zu den Füssen stellen</i>. <div n='1'>— 2〉 <i>dem Stollen nach</i>. <div n='1'>— 3〉 <i>schrittweise, stufenweise</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पादतस्",
+            "eid": "44332",
+            "pagenum": 4,
+            "content": "पादतस्¦ (von पाद) adv. <div n='1'> 1) <i>von den Füssen aus</i> <ls>ŚĀṄKH. GṚHY. 2, 14.</ls> मुखबाहूरुपादतः <i>aus dem Gesicht, den Armen, den Schenkeln und den Füssen</i> <ls>M. 1, 31.</ls> कर् <i>zu den Füssen stellen</i> <ls n='M.'>4, 54.</ls> <i>in der Gegend der Füsse</i> <ls n='M.'>3, 89.</ls> <i>an, bei den Füssen</i>: सान्त्वेन राजपुत्रीं ताममुञ्चन्तं च पादतः । अश्वादाक्षिप्य <i>ihn vom Pferde werfend, indem er ihn bei den Füssen packte</i>, <ls>KATHĀS. 10, 123.</ls> <div n='1'>— 2) <i>nach dem Versviertel</i> <ls>ṚV. PRĀT. 17, 15.</ls> <ls n='ṚV. PRĀT. 17,'>24.</ls> <div n='1'>— 3) <i>schrittweise, stufenweise</i>: निसृष्टार्थो मितार्थश्च तथा शासनवाहकः । सामर्थ्यात्पादतो हीनो (so v. a. <i>der je nachfolgende geringer als der vorangehende</i>) दूतस्तु त्रिविधः स्मृतः ॥ <ls>KĀM. NĪTIS. 12, 3</ls>; vgl. पादहीनात् ."
+        }
     ]
 }

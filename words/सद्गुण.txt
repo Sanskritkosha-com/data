@@ -35,5 +35,47 @@
             "pagenum": 749,
             "content": "sat-guRa¦ <i>(II) m.</i> virtue, goodness, excellence."
         }
+    ],
+    "MW": [
+        {
+            "word": "सद्गुण",
+            "eid": "230264",
+            "pagenum": 1137,
+            "content": "सद्—गुण ¦ <lex>m.</lex> a <ab n='good'>g°</ab> quality, virtue, <ls>R.</ls>; <ls>Kathās.</ls>; <ls>BhP.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "सद्गुण",
+            "eid": "230265",
+            "pagenum": 1137,
+            "content": "सद्—गुण ¦ <lex>mf(आ)n.</lex> having <ab n='good'>g°</ab> <ab n='quality'>qual°</ab>, virtuous, <ls>Kathās.</ls><info lex='m:f#A:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सद्गुण",
+            "eid": "118607",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सद्गुण¦ <lex>m.</lex> <i>eine gute Eigenschaft, Vorzug</i> <ls n='Chr.'>289,3</ls>."
+        },
+        {
+            "word": "सद्गुण",
+            "eid": "118608",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सद्गुण¦ <lex>Adj.</lex> <lex>f.</lex> (<lex>f.</lex> आ) <i>mit Vorzügen ausgestattet</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सद्गुण",
+            "eid": "104371",
+            "pagenum": 7,
+            "content": "1. सद्गुण¦ (सन्त् + गुण) <lex>m.</lex> <i>eine gute Eigenschaft, Vorzug</i> <ls>R. GORR. 1, 1, 2.</ls> <ls n='R. GORR.'>2, 23, 7.</ls> <ls n='R. GORR.'>4, 56, 26.</ls> <ls>KATHĀS. 49, 190.</ls> <ls>BHĀG. P. 1, 12, 24.</ls> सद्गुणार्णव <ls>PAÑCAR. 4, 3, 94.</ls>"
+        },
+        {
+            "word": "सद्गुण",
+            "eid": "104372",
+            "pagenum": 7,
+            "content": "2. सद्गुण¦ (wie eben) <lex>adj.</lex> (f. आ) <i>mit Vorzügen ausgestattet</i>: eine Person <ls>KATHĀS. 42, 199.</ls> <ls n='KATHĀS.'>79, 5.</ls> zu <ls>Spr. (II) 527. fg.</ls>"
+        }
     ]
 }

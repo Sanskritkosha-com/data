@@ -52,5 +52,41 @@
             "pagenum": 769,
             "content": "sahasra-netra¦ <i>m.</i> 1. an epithet of Indra; 2. of Vishṇu."
         }
+    ],
+    "MW": [
+        {
+            "word": "सहस्रनेत्र",
+            "eid": "240594",
+            "pagenum": 1195,
+            "content": "सहस्र—नेत्र ¦ <lex>mfn.</lex> <ab n='thousand'>th°</ab>-eyed, <ls>MBh.</ls>; <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सहस्रनेत्र",
+            "eid": "240595",
+            "pagenum": 1195,
+            "content": "सहस्र—नेत्र ¦ <lex>m.</lex> (<ab>ifc.</ab> <lex type='hwifc'>f(आ). </lex>) <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>MBh.</ls>; <ls>Ragh.</ls>; <ls>Vās.</ls><info lex='m:f#A'/>"
+        },
+        {
+            "word": "सहस्रनेत्र",
+            "eid": "240596",
+            "pagenum": 1195,
+            "content": "सहस्र—नेत्र ¦ <lex>m.</lex> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>A.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सहस्रनेत्र",
+            "eid": "123085",
+            "pagenum": 7,
+            "content": "सहस्रनेत्र¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>tausendäugig</i>. <div n='1'>— 2〉 <lex>m.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <ab>Bein.</ab> <is>Indra</is>ʼs <ls>VĀSAV. 130,3. 244,3</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सहस्रनेत्र",
+            "eid": "107666",
+            "pagenum": 7,
+            "content": "सहस्रनेत्र¦ <lex>adj.</lex> <i>tausendäugig</i>: <is>Indra</is> <ls>MBH. 1, 7706.</ls> <is>Viṣṇu</is> <ls>BHĀG. P.</ls> nach <ls>ŚKDR.</ls> <lex>m.</lex> ein N. <is>Indra's</is> <ls>H. 172.</ls> <ls>MBH. 13, 6045.</ls> <ls>RAGH. 6, 23.</ls>"
+        }
     ]
 }

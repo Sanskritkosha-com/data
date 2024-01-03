@@ -47,5 +47,69 @@
             "pagenum": 1772,
             "content": "<hom>2.</hom> <b>sakṣáṇi:</b>¦<info vn='add 586a gra'/> <div n='TS'>-ī [<ab>du.</ab>] auch in {858,1} wird -ī statt -i zu lesen sein."
         }
+    ],
+    "MD": [
+        {
+            "word": "सक्षणि",
+            "eid": "18494",
+            "pagenum": 327,
+            "content": "सक्षणि¦ <hom>1.</hom> sak-ṣáṇi, <lex>a.</lex> [√ sac] connected 🞄with (<ab>g.</ab>), united with (<ab>in.</ab>; <ab>RV.</ab>); <lex>m.</lex> companion, 🞄possessor (<ab>RV.</ab>)."
+        },
+        {
+            "word": "सक्षणि",
+            "eid": "18495",
+            "pagenum": 327,
+            "content": "सक्षणि¦ <hom>2.</hom> sak-ṣáṇi, <lex>a.</lex> [√ sah] vanquishing 🞄(<ab>ac.</ab>; <ab>RV.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सक्षणि",
+            "eid": "227848",
+            "pagenum": 1124,
+            "content": "<hom>1.</hom> सक्ष/णि ¦ <lex>mfn.</lex> vanquishing (with <ab>acc.</ab>), <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सक्षणि",
+            "eid": "227849",
+            "pagenum": 1124,
+            "content": "<hom>2.</hom> सक्ष/णि ¦ <lex>mfn.</lex> (<ab>fr.</ab> √ सच्) connected or united with (<ab>gen.</ab> or <ab>instr.</ab>), a comrade, companion, possessor, <ls>RV.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सक्षणि",
+            "eid": "48349",
+            "pagenum": 1044,
+            "content": "सक्षणि¦ <i>sakṣaṇi, is, is, i</i> (according to some fr. rt. <i>kṣan,</i> perhaps fr. rt. 1. <i>sah;</i> according to Sāy. fr. rt. <i>sac</i>), Ved. overpowering, destroying; honouring, obeying; to be honoured; (Sāy. <i>= sa-</i> <i>camāna,</i> Ṛg-veda VIII. 70, 8; <i>= sacanīya-śīla,</i> VIII. 22, 15.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सक्षणि",
+            "eid": "117322",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सक्ष/णि¦ <lex>Adj.</lex> <i>zusammengehörig mit</i> (<ab>Gen.</ab>), <i>vereint mit</i> (<ab>Instr.</ab>); <lex>m.</lex> <i>Gefährte, Besitzer</i> <ls>ṚV. 10,32,1</ls>."
+        },
+        {
+            "word": "सक्षणि",
+            "eid": "117323",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सक्ष/णि¦ <lex>Adj.</lex> mit <ab>Acc.</ab> <i>überwältigend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सक्षणि",
+            "eid": "103359",
+            "pagenum": 7,
+            "content": "1. सक्ष/णि¦ (von सच्) <lex>adj.</lex> <i>zusammengehörig mit</i> (gen.), <i>Gefährte, Besitzer</i>: भुव^नस्य <is>Tvaṣṭar</is> <ls>ṚV. 2, 31, 4.</ls> ह\\र्म्यस्य^ <is>Soma</is> <ls n='ṚV.'>9, 71, 4.</ls> <ls n='ṚV. 9,'>78, 3.</ls> रथेना\\श्विना^ स\\क्षणी^ हुवे <ls n='ṚV.'>8, 22, 15.</ls> <ls n='ṚV. 8,'>59, 8.</ls> सक्षणि infin. s. u. सच् ."
+        },
+        {
+            "word": "सक्षणि",
+            "eid": "103360",
+            "pagenum": 7,
+            "content": "2. सक्ष/णि¦ (von सह्) <lex>adj.</lex> <i>überwältigend</i>, mit acc.: जा\\मिमजा^मि\\ं पृत^नासु स\\क्षणि^म् <ls>ṚV. 1, 111, 3.</ls> अ\\भिमा^तीः <ls n='ṚV.'>8, 24, 26.</ls> वृ\\त्राणि^ <ls n='ṚV.'>9, 110, 1.</ls>"
+        }
     ]
 }

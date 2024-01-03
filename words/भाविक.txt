@@ -37,5 +37,69 @@
             "pagenum": 525,
             "content": "BAvika¦ <i>(II) n.</i> 1. A figure of speech in which the past or future is described as actually present (प्रत्यक्षा इव यद्भावाः क्रियंते भूतभाविनः । तद्भाविकम् <ls>K.Pr.</ls>x.); 2. language full of passion."
         }
+    ],
+    "MD": [
+        {
+            "word": "भाविक",
+            "eid": "13194",
+            "pagenum": 204,
+            "content": "भाविक¦ bhāv-ika, <lex>a.</lex> (<b>ī</b>) real, actual; full of 🞄sentiment, expressive; <lex>n.</lex> vivid description <i>of 🞄something past or future</i> (<ab>rh.</ab>); language full 🞄of emotion."
+        }
+    ],
+    "MW": [
+        {
+            "word": "भाविक",
+            "eid": "150406",
+            "pagenum": 755,
+            "content": "भाविक ¦ <lex>mf(ई)n.</lex> actually being or existing, real, natural, <ls>Sāṃkhyak.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "भाविक",
+            "eid": "150407",
+            "pagenum": 755,
+            "content": "¦ full of feeling or sentiment, expressive, <ls>Mālav.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भाविक",
+            "eid": "150408",
+            "pagenum": 755,
+            "content": "¦ future, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भाविक",
+            "eid": "150409",
+            "pagenum": 755,
+            "content": "भाविक ¦ <lex>n.</lex> language full of feeling or passion (= भावुक), <ls>Pratāp.</ls><info lex='n'/>"
+        },
+        {
+            "word": "भाविक",
+            "eid": "150410",
+            "pagenum": 755,
+            "content": "¦ a figure of speech which consists in describing the past or future so vividly that it appears to be present, <ls>Sāh.</ls>; <ls>Kpr.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भाविक",
+            "eid": "35455",
+            "pagenum": 708,
+            "content": "<i>Bhāvika, as, ī, am,</i>¦ actually being or existing, real, natural, innate; full of feeling or sentiment, expressive, sentimental; future; (<i>am</i>), n. a description of an imaginary object so vivid that it actually appears to be present, describing the past or future as present; <i>= bhāvuka,</i> language full of feeling or passion; (<i>as</i>), m. an equation involving products of unknown quantities."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भाविक",
+            "eid": "79661",
+            "pagenum": 4,
+            "content": "भाविक¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <div n='2'>— a〉 <i>real, wirklich bestehend</i>. <div n='2'>— b〉 <i>gefühlvoll, ausdrucksvoll</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>lebhafte Schilderung eines vorgestellten Objectes, so dass man dasselbe vor Augen zu haben glaubt</i> <ls>KĀVYAPR. 10,28</ls>. <div n='2'>— b〉 <i>affectvolle Sprache</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भाविक",
+            "eid": "54745",
+            "pagenum": 5,
+            "content": "भाविक¦ (von भाव) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <div n='2'> a) <i>real, wirklich bestehend</i> <ls>KUSUM. 25, 19.</ls> <ls>WILSON, SĀṂKHYAK. S. 180.</ls> <div n='2'>— b) <i>gefühlvoll, ausdrucksvoll</i>: यद्यत्प्रयोगविषये भाविकमुपदिश्यते मया तस्यै <ls>MĀLAV. 5.</ls> <div n='1'>— 2) <lex>n.</lex> <div n='2'> a) <i>lebhafte Schilderung eines vorgestellten Objectes, so dass man glaubt dasselbe vor Augen zu haben</i>: अतीतानागते यत्र प्रत्यक्ष इव लक्षिते । अत्यद्भुतार्थकथ नाद्भाविकं तदुदाहृतम् ॥ <ls>PRATĀPAR. 101,a,5.</ls> <ls>KUVALAY. 153,a.</ls> <ls>SĀH. D. 751.</ls> <ls>Verz. d. Oxf. H. 208,b,24.</ls> <div n='2'>— b) = भावुक <i>affectvolle Sprache</i> <ls>PRATĀPAR. 67,a,9.</ls>"
+        }
     ]
 }

@@ -55,5 +55,53 @@
             "pagenum": 263,
             "content": "catur-veda¦ <i>(II) m.</i> the supreme soul."
         }
+    ],
+    "MW": [
+        {
+            "word": "चतुर्वेद",
+            "eid": "71317",
+            "pagenum": 385,
+            "content": "चतुर्-वेद ¦ <lex>mfn.</lex> (<ab>g.</ab> brAhmaRA<srs/>di) containing the 4 <s1 slp1='veda'>Veda</s1>s, <ls>MBh. iii, 13560</ls> (<s1 slp1='brahmA'>Brahmā</s1>), <ls>Hariv. 12884</ls> (<s1 slp1='vizRu'>Viṣṇu</s1>)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "चतुर्वेद",
+            "eid": "71318",
+            "pagenum": 385,
+            "content": "¦ (<ls>Pāṇ. v, 1, 124</ls>; <ls>Siddh.</ls>) = -विद्य, <ls>Hariv. 7993</ls>; <ls>Subh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "चतुर्वेद",
+            "eid": "71319",
+            "pagenum": 385,
+            "content": "चतुर्—वेद ¦ <lex>m. <ab>pl.</ab></lex> the 4 <s1 slp1='veda'>Veda</s1>s, <ls>Hariv. 14074</ls><info lex='m'/>"
+        },
+        {
+            "word": "चतुर्वेद",
+            "eid": "71320",
+            "pagenum": 385,
+            "content": "चतुर्—वेद ¦ <lex>m.</lex> a class of manes, <ls>MBh. ii, 463.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चतुर्वेद",
+            "eid": "38748",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> चतुर्वेद¦ <lex>m.</lex> <ab>Pl.</ab> <i>die vier</i> <is>Veda</is>."
+        },
+        {
+            "word": "चतुर्वेद",
+            "eid": "38749",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> चतुर्वेद¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>die 4</i> <is>Veda</is> <i>in sich enthaltend</i>. <div n='2'>— b〉 <i>mit den 4</i> <is>Veda</is> <i>vertraut</i> <ls>Spr. 2230</ls>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Pl.</ab> <i>eine <ab>best.</ab> Klasse von Manen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चतुर्वेद",
+            "eid": "24614",
+            "pagenum": 2,
+            "content": "चतुर्वेद¦ (च° + वेद) <div n='1'> 1) <lex>m.</lex> pl. <i>die 4</i> <is>Veda</is> <ls>HARIV. 14074.</ls> <div n='1'>— 2) <lex>adj.</lex> <is>gaṇa</is> ब्राह्मणादि zu <ls>P. 5, 1, 124.</ls> <i>die 4</i> <is>Veda</is> <i>in sich enthaltend</i>: ब्रह्मन् <ls>MBH. 3, 13560.</ls> विष्णु <ls>HARIV. 12884.</ls> <i>mit den 4</i> <is>Veda</is> <i>vertraut</i> <ls>SIDDH. K.</ls> zu <ls>P. 5, 1, 124.</ls> <ls>HARIV. 7993.</ls> <ls>COLEBR. Misc. Ess. II,398. 404. fg.</ls>, wo das ehrende Beiwort eines Autors der Kürze wegen als N. pr. gebraucht wird. <div n='1'>— 3) <lex>m.</lex> pl. <i>eine Art Manen</i> <ls>MBH. 2, 463.</ls>"
+        }
     ]
 }

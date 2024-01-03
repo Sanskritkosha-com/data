@@ -15,5 +15,41 @@
             "pagenum": 152,
             "content": "eka-pakza¦ <i>m.</i> 1. an assistant; 2. one side or party."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकपक्ष",
+            "eid": "39377",
+            "pagenum": 228,
+            "content": "एक—पक्ष ¦ <lex>m.</lex> one side or party, the one case or alternative, the one side of an argument<info lex='m'/>"
+        },
+        {
+            "word": "एकपक्ष",
+            "eid": "39379",
+            "pagenum": 228,
+            "content": "एक—पक्ष ¦ <lex>mfn.</lex> being of the same side or party, siding with, an associate, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकपक्ष",
+            "eid": "39380",
+            "pagenum": 228,
+            "content": "¦ partial, taking one view only, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकपक्ष",
+            "eid": "21819",
+            "pagenum": 1,
+            "content": "*एकपक्ष¦ <lex>Adj.</lex> <i>zu derselben Partei gehörig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकपक्ष",
+            "eid": "13279",
+            "pagenum": 1,
+            "content": "एकपक्ष¦ (एक + पक्ष) <lex>adj.</lex> <i>zu derselben Partei sich haltend</i> <ls>TRIK. 3, 2, 15.</ls>"
+        }
     ]
 }

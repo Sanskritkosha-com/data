@@ -31,5 +31,43 @@
             "pagenum": 327,
             "content": "davaTu¦ <i>m.</i> 1. Fire, heat; 2. pain, anxiety, distress; 3. inflammation of the eye."
         }
+    ],
+    "MW": [
+        {
+            "word": "दवथु",
+            "eid": "90793",
+            "pagenum": 471,
+            "content": "दवथु ¦ <lex>m.</lex> (<ls>Pāṇ. iii, 3, 89</ls>) heat, pain, <ls>Dhūrtan. i, 14</ls><info lex='m'/>"
+        },
+        {
+            "word": "दवथु",
+            "eid": "90794",
+            "pagenum": 471,
+            "content": "¦ inflammation (of the bile, eyes &c.), <ls>Car. i, 20.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दवथु",
+            "eid": "22003",
+            "pagenum": 404,
+            "content": "<i>Davathu, us,</i>¦ m. fire, heat; pain, anxiety, vexation, distress; inflammation of the eye."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दवथु",
+            "eid": "49225",
+            "pagenum": 3,
+            "content": "दवथु¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Brand, Schmerz</i> <ls>DHŪRTAN. 14</ls>. <div n='1'>— 2〉 <i>Entzündung</i> (der Galle, der Augen <ab>u. s. w.</ab>) <ls>CARAKA. 1,20</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दवथु",
+            "eid": "32203",
+            "pagenum": 3,
+            "content": "दवथु/¦ (wie eben) <lex>m.</lex> <ls>P. 3, 3, 89.</ls> <div n='1'> 1) = परिताप <i>Brand, Hitze; Schmerz u.s.w.</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <i>Entzündung</i> (der Augen u. s. w.) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -31,5 +31,61 @@
             "pagenum": 678,
             "content": "viSrAva¦ <i>m.</i> 1. Flowing; 2. great fame."
         }
+    ],
+    "MW": [
+        {
+            "word": "विश्राव",
+            "eid": "200929",
+            "pagenum": 992,
+            "content": "<hom>1.</hom> वि-श्राव ¦ <lex>m.</lex> (<ab>fr.</ab> √ <hom>2.</hom> श्रु = स्रु; for <hom>2.</hom> See <ab>col.</ab> 2) flowing forth, dropping, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विश्राव",
+            "eid": "200944",
+            "pagenum": 992,
+            "content": "<hom>2.</hom> वि-श्राव ¦ <lex>m.</lex> (for <hom>1.</hom> See <ab>s.v.</ab>, <ab>col.</ab> 1) noise, sound, <ls>Bhaṭṭ.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विश्राव",
+            "eid": "200945",
+            "pagenum": 992,
+            "content": "¦ great fame or celebrity, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विश्राव",
+            "eid": "44192",
+            "pagenum": 943,
+            "content": "1. <i>vi-śrāva, as,</i>¦ m. great fame or celebrity."
+        },
+        {
+            "word": "विश्राव",
+            "eid": "44198",
+            "pagenum": 943,
+            "content": "2. <i>vi-śrāva, as,</i>¦ m. flowing forth or away, dropping."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विश्राव",
+            "eid": "104723",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विश्राव¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Getöse</i>. <div n='1'>— 2〉 <i>Berühmtheit</i>."
+        },
+        {
+            "word": "विश्राव",
+            "eid": "104724",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> विश्राव¦ <lex>m.</lex> <i>das Herausfliessen</i> <ls>HARIV. 2,40,9</ls>. Richtig विश्राव oder निस्राव (so <ab>v. l.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विश्राव",
+            "eid": "93376",
+            "pagenum": 6,
+            "content": "विश्राव¦ (von श्रु mit वि) <lex>m.</lex> <ls>P. 3, 3, 25.</ls> <div n='1'> 1) <i>Getose</i>: तोय° <ls>BHAṬṬ. 7, 36.</ls> <div n='1'>— 2) <i>Berühmtheit</i> <ls>AK. 3, 3, 28.</ls>"
+        }
     ]
 }

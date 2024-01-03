@@ -23,5 +23,43 @@
             "pagenum": 599,
             "content": "yuDAna¦ <i>m.</i> A soldier, a man of the warrior caste."
         }
+    ],
+    "MW": [
+        {
+            "word": "युधान",
+            "eid": "172100",
+            "pagenum": 855,
+            "content": "युधान ¦ <lex>m.</lex> a man of the second or military order, a warrior, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "युधान",
+            "eid": "172101",
+            "pagenum": 855,
+            "content": "¦ an enemy, <ls>Uṇ. ii, 90</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "युधान",
+            "eid": "38760",
+            "pagenum": 820,
+            "content": "<i>Yudhāna, as,</i>¦ m. a man of the second or military order, a warrior; an enemy."
+        }
+    ],
+    "PW": [
+        {
+            "word": "युधान",
+            "eid": "91151",
+            "pagenum": 5,
+            "content": "*युधान¦ <lex>m.</lex> <i>Feind</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "युधान",
+            "eid": "82239",
+            "pagenum": 6,
+            "content": "युधान/¦ (von 1. युध्) <ls>UṆĀDIS. 2, 90.</ls> <lex>m.</lex> <i>Feind</i> <ls>UJJVAL.</ls>"
+        }
     ]
 }

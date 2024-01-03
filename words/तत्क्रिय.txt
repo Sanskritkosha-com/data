@@ -15,5 +15,35 @@
             "pagenum": 301,
             "content": "tad-kriya¦ <i>a.</i> working without wages."
         }
+    ],
+    "MW": [
+        {
+            "word": "तत्क्रिय",
+            "eid": "81829",
+            "pagenum": 432,
+            "content": "तत्—क्रिय ¦ <lex>mfn.</lex> = -कर, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तत्क्रिय",
+            "eid": "81829.1",
+            "pagenum": 1328,
+            "content": "¦ working without wages, <ls>L.</ls> <info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तत्क्रिय",
+            "eid": "44193",
+            "pagenum": 3,
+            "content": "*तत्क्रिय¦ <lex>Adj.</lex> <i>bestimmte Arbeiten thuend, <ab>best.</ab> Dienste leistend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तत्क्रिय",
+            "eid": "28449",
+            "pagenum": 3,
+            "content": "तत्क्रिय¦ (तद् + क्रिया) <lex>adj.</lex> <i>bestimmte Arbeiten thuend, bestimmte Dienste leistend</i>, = कर्मकार <ls>AK. 3, 1, 19.</ls>"
+        }
     ]
 }

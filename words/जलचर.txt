@@ -39,5 +39,35 @@
             "pagenum": 286,
             "content": "jalacara¦ <i>a.</i> aquatic, amphibious."
         }
+    ],
+    "MW": [
+        {
+            "word": "जलचर",
+            "eid": "77827",
+            "pagenum": 414,
+            "content": "जल—चर ¦ <lex>m.</lex> ‘water-goer’, an aquatic animal, <ls>R. i, 44, 33</ls>; <ls>Pañcat.</ls>; <ls>VarBṛS.</ls>; <ls>Laghuj.</ls><info lex='m'/>"
+        },
+        {
+            "word": "जलचर",
+            "eid": "77828",
+            "pagenum": 414,
+            "content": "¦ a fish, <ls>VarBṛS. iii, 12</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जलचर",
+            "eid": "42012",
+            "pagenum": 2,
+            "content": "जलचर¦ <lex>m.</lex> <i>Wasserthier; Fisch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जलचर",
+            "eid": "26880",
+            "pagenum": 3,
+            "content": "जलचर¦ (जल + चर) <lex>m.</lex> <i>Wasserthier</i> <ls>R. 1, 44, 33.</ls> <ls>PAÑCAT. 50, 7.</ls> <ls n='PAÑCAT.'>144, 3.</ls> <ls>VARĀH. BṚH. S. 4, 5. 15, 2.</ls> <ls>LAGHUJ. 1, 13.</ls> <i>Fisch</i> <ls>BṚH. S. 47, 12.</ls>"
+        }
     ]
 }

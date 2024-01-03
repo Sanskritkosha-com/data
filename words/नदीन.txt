@@ -29,5 +29,73 @@
             "pagenum": 367,
             "content": "nadI-ina¦ <i>m.</i> the ocean."
         }
+    ],
+    "MD": [
+        {
+            "word": "नदीन",
+            "eid": "10255",
+            "pagenum": 136,
+            "content": "नदीन¦ <hom>1.</hom> nadī‿ina, <lex>m.</lex> sea; Varuṇa."
+        },
+        {
+            "word": "नदीन",
+            "eid": "10256",
+            "pagenum": 136,
+            "content": "नदीन¦ <hom>2.</hom> na-dīna, <lex>a.</lex> not insignificant."
+        }
+    ],
+    "MW": [
+        {
+            "word": "नदीन",
+            "eid": "102641",
+            "pagenum": 523,
+            "content": "<hom>1.</hom> न—दीन ¦ <lex>mfn.</lex> not small or insignificant, <ls>Kathās.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "नदीन",
+            "eid": "103365",
+            "pagenum": 526,
+            "content": "<hom>2.</hom> nadI<srs/>°na ¦ <lex>m.</lex> (°dI<srs/>na) ‘lord of <ab n='river'>r°</ab>’, the ocean, <ls>Kathās.</ls><info lex='m'/>"
+        },
+        {
+            "word": "नदीन",
+            "eid": "103365.1",
+            "pagenum": 526,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='varuRa'>Varuṇa</s1>, <ls>Kāv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नदीन",
+            "eid": "103365.2",
+            "pagenum": 526,
+            "content": "¦ of a son of <s1 slp1='saha-deva'>Saha-deva</s1> and father of <s1 slp1='jagat-sena'>Jagat-sena</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नदीन",
+            "eid": "56477",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> नदीन¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das Meer</i> <ls>KATHĀS. 101,185</ls>. <div n='1'>— 2〉 <i>der Gott des Meeres,</i> <is>Varuṇa</is>. <div n='1'>— 3〉 <ab>N. pr.</ab> eines Sohnes des <is>Sahadeva</is>."
+        },
+        {
+            "word": "नदीन",
+            "eid": "56478",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> नदीन¦ <lex>Adj.</lex> <i>nicht gering, — unbedeutend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नदीन",
+            "eid": "37527",
+            "pagenum": 4,
+            "content": "नदीन¦ (नदी + इन) <lex>m.</lex> <div n='1'> 1) <i>Meer</i> <ls>TRIK. 1, 2, 10.</ls> <is>Varuṇa</is>, <i>der Gott des Meeres</i> <ls>UTTARANAIṢADHA</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) N. pr. eines Sohnes des <is>Sahadeva</is> und Vaters des <is>Jayatsena</is> <ls>HARIV. 1516.</ls>"
+        },
+        {
+            "word": "नदीन",
+            "eid": "76780",
+            "pagenum": 5,
+            "content": "नदीन¦ in der Stelle यस्पेश्वरस्य (विक्रमसिंहस्य) सुभगा नदीनप्रभवा प्रिया ॥ अलंकारतनुर्देवी शशिलेखेति चाभवत् ॥ <ls>KATHĀS. 58, 3</ls> wohl <is>Varuṇa</is> und zugleich <i>nicht gering</i> (न + दीन) ."
+        }
     ]
 }

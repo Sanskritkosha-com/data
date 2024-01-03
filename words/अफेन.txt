@@ -53,5 +53,69 @@
             "pagenum": 45,
             "content": "aPena¦ <i>(II) n.</i> Opium."
         }
+    ],
+    "MD": [
+        {
+            "word": "अफेन",
+            "eid": "2126",
+            "pagenum": 22,
+            "content": "अफेन¦ a-phena, °निल, <lex>a.</lex> foamless."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अफेन",
+            "eid": "10924",
+            "pagenum": 59,
+            "content": "अ-फेन ¦ <lex>mf(आ)n.</lex> frothless<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "अफेन",
+            "eid": "10925",
+            "pagenum": 59,
+            "content": "अ-फेन ¦ <lex>n.</lex> opium, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अफेन",
+            "eid": "4052",
+            "pagenum": 59,
+            "content": "अफेन 1¦. <i>a-phena, as, ā, am,</i> frothless, without scum or foam."
+        },
+        {
+            "word": "अफेन",
+            "eid": "4053",
+            "pagenum": 59,
+            "content": "अफेन 2¦. <i>a-phena, am,</i> n. (corruption of <i>ahi-phena,</i> foam of a snake?), opium."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अफेन",
+            "eid": "7062",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अफेन¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>schaumlos</i> <ls n='Chr.'>42,26</ls>."
+        },
+        {
+            "word": "अफेन",
+            "eid": "7063",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *अफेन¦ <lex>n.</lex> <i>Opium</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अफेन",
+            "eid": "4368",
+            "pagenum": 1,
+            "content": "अफेन¦ (3. अ + फेन) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> आ <i>schaumlos</i> <ls>M. 2, 61.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Opium</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> Unter dem Synonym अहिफेनक wird sowohl dieses als auch unser Wort mit ण geschrieben; dagegen erscheint निफेन sowohl u. अफेन als auch an seinem Orte mit न . Das Wort in dieser Bedeutung ist wohl ein entlehntes."
+        },
+        {
+            "word": "अफेन",
+            "eid": "64346",
+            "pagenum": 5,
+            "content": "अफेन¦ <div n='1'> 2) *Z. 2 lies अहिफेण und vgl. आफूक ."
+        }
     ]
 }

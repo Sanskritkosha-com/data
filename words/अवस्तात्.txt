@@ -39,5 +39,75 @@
             "pagenum": 128,
             "content": "<b>avás-tāt,</b>¦ <i>unten</i> [von avás], Gegensatz parástāt: {256,3}; {914,14}; {955,5}."
         }
+    ],
+    "MD": [
+        {
+            "word": "अवस्तात्",
+            "eid": "2840",
+            "pagenum": 30,
+            "content": "अवस्तात्¦ avás-tāt, <lex>ad.</lex> below; on this side; 🞄<ab>prp.</ab> below (<ab>g.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अवस्तात्",
+            "eid": "18220",
+            "pagenum": 104,
+            "content": "अव/स्—तात् <hom>a</hom> ¦ <lex>ind.</lex> (अव/स्-) (<ls>Pāṇ. v, 3, 40</ls>) below, <ls>RV.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "अवस्तात्",
+            "eid": "18220.1",
+            "pagenum": 104,
+            "content": "¦ before (in time), <ls>TBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अवस्तात्",
+            "eid": "18220.2",
+            "pagenum": 104,
+            "content": "¦ (as a <ab>prep.</ab> with <ab>gen.</ab>) below, <ls>ŚBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अवस्तात्",
+            "eid": "18378",
+            "pagenum": 105,
+            "content": "अव/स्-तात् <hom>b</hom> ¦ See <hom>2.</hom> अव/स्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अवस्तात्",
+            "eid": "6670",
+            "pagenum": 94,
+            "content": "<i>Avastāt.</i>¦ See s. v."
+        },
+        {
+            "word": "अवस्तात्",
+            "eid": "6723",
+            "pagenum": 94,
+            "content": "अवस्तात्¦ <i>avastāt,</i> ind. (fr. 2. <i>avas,</i> q. v.), below, from below, downwards, hitherwards; (with gen.) below. <i>—Avastāt-prapadana, as, ā, am,</i> (anything) attained from below (as heaven, &c.)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अवस्तात्",
+            "eid": "10762",
+            "pagenum": 1,
+            "content": "अव/स्तात्¦ <div n='1'>— 1〉 <lex>Adv.</lex> <div n='2'>— a〉 <i>unten</i>. <div n='2'>— b〉 <i>diesseits, vorher</i>. <div n='1'>— 2〉 <ab>Praep.</ab> mit <ab>Gen.</ab> <div n='2'>— a〉 <i>unter</i>. <div n='2'>— b〉 <i>westlich von</i> <ls>ŚULBAS. 3,90</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अवस्तात्",
+            "eid": "6639",
+            "pagenum": 1,
+            "content": "अव/स्तात्¦ (von 2. अवस्) <ls>P. 5, 3, 40.</ls> <ls>VOP. 7, 108.</ls> <div n='1'> 1) adv. <i>unten, von unten, nach unten, herwärts</i> (Gegens. परस्तात्): स्व\\धावस्ता\\त्प्रय^तिः प\\रस्ता^त् <ls>ṚV. 10, 129, 5.</ls> <ls>VS. 8, 9.</ls> अवस्तादुपोह्य <ls>ŚAT. BR. 1, 1, 2, 8.</ls> <ls n='ŚAT. BR.'>8, 6, 1, 23.</ls> अव/स्तात्प्रपदन <lex>adj.</lex> <i>was man von unten erreicht</i>: स्वर्गो लोकः ebend. <div n='1'>— 2) praep. <i>unter</i>, mit dem gen.: याः प\\रस्ता\\त्सूर्य^स्य\\ याश्चा\\वस्ता^त् <ls>ṚV. 3, 22, 3.</ls> अवस्ताद्धि दिव आदित्यः <ls>ŚAT. BR. 9, 3, 1, 6.</ls> <ls n='ŚAT. BR.'>1, 7, 2, 18.</ls> <ls n='ŚAT. BR.'>7, 4, 1, 10.</ls>"
+        },
+        {
+            "word": "अवस्तात्",
+            "eid": "65559",
+            "pagenum": 5,
+            "content": "अवस्तात्¦ auch <i>diesseits, vorher.</i> <ls>TAITT. BR. 1, 5, 2, 3</ls>; vgl. <ls>WEBER, Nakṣ. 2, 305. 311. 386.</ls>"
+        }
     ]
 }

@@ -23,5 +23,33 @@
             "pagenum": 20,
             "content": "anAdi-niDana¦ <i>a.</i> having neither beginning nor end."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनादिनिधन",
+            "eid": "5522",
+            "pagenum": 28,
+            "content": "अन्-आदि—निधन ¦ <lex>mfn.</lex> having neither beginning nor end, eternal.<info lex='m:f:n'/>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अनादिनिधन",
+            "eid": "634",
+            "pagenum": 1,
+            "content": "अनादिनिधन¦ <lex>Adj.</lex> <i>ohne Anfang und Ende</i> <ls>HEMĀDRI 1,311,23</ls>."
+        },
+        {
+            "word": "अनादिनिधन",
+            "eid": "3545",
+            "pagenum": 3,
+            "content": "अनादिनिधन¦ <lex>Adj.</lex> <i>ohne Anfang und Ende</i> <ls>VIṢṆUS. 65,1</ls>."
+        },
+        {
+            "word": "अनादिनिधन",
+            "eid": "10978",
+            "pagenum": 7,
+            "content": "अनादिनिधन¦ 1. 3."
+        }
     ]
 }

@@ -19,5 +19,35 @@
             "pagenum": 2,
             "content": "सोमोत्पत्ति¦ Sv. Ulwar 284."
         }
+    ],
+    "MW": [
+        {
+            "word": "सोमोत्पत्ति",
+            "eid": "253174",
+            "pagenum": 1251,
+            "content": "somo<srs/>tpatti ¦ <lex>f.</lex> the origin of <ab n='Soma' slp1='soma'>S°</ab> (either the plant or the moon), <ls>Cat.</ls><info lex='f'/>"
+        },
+        {
+            "word": "सोमोत्पत्ति",
+            "eid": "253175",
+            "pagenum": 1251,
+            "content": "¦ <ab>N.</ab> of various works.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सोमोत्पत्ति",
+            "eid": "129781",
+            "pagenum": 7,
+            "content": "सोमोत्पत्ति¦ <lex>f.</lex> <div n='1'>— 1〉 <i>die Entstehung des</i> <is>Soma</is> (<i>der Pflanze und des Mondes</i>). <div n='1'>— 2〉 Titel eines Werkes <ls>OPP. CAT. 1</ls>. Auch °परिशिष्ट."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सोमोत्पत्ति",
+            "eid": "113035",
+            "pagenum": 7,
+            "content": "सोमोत्पत्ति¦ <lex>f.</lex> <i>die Entstehung des</i> <is>Soma</is> (<i>der Pflanze und des Mondes</i>) <ls>Verz. d. B. H. 142,25.</ls> <ls>Verz. d. Oxf. H. 398,b,1.</ls> °परिशिष्ट <ls>Ind. St. 1, 59.</ls>"
+        }
     ]
 }

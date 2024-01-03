@@ -36,5 +36,43 @@
             "pagenum": 434,
             "content": "pArzadya¦ <i>m.</i> A member of an assembly."
         }
+    ],
+    "MW": [
+        {
+            "word": "पार्षद्य",
+            "eid": "123099",
+            "pagenum": 622,
+            "content": "पार्ष°द्य ¦ <lex>m.</lex> = पार्त्षद्य, a member of an assembly, assessor<info lex='m'/>"
+        },
+        {
+            "word": "पार्षद्य",
+            "eid": "123100",
+            "pagenum": 622,
+            "content": "पार्ष°द्य ¦ <lex>m.</lex> <ab>pl.</ab> = पार्षद <ab>pl.</ab> <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पार्षद्य",
+            "eid": "29068",
+            "pagenum": 570,
+            "content": "<i>Pārṣadya, as,</i>¦ m. <i>= pāriṣadya,</i> a member of an assembly or council, assessor; (<i>ās</i>), m. pl. the attendants or retinue of a god (especially of Śiva)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पार्षद्य",
+            "eid": "66521",
+            "pagenum": 4,
+            "content": "*पार्षद्य¦ <lex>m.</lex> <i>Mitglied einer Versammlung, Beisitzer;</i> <ab>Pl.</ab> <i>das Gefolge eines Gottes</i> (<ab>insbes.</ab> <is>Śiva</is>ʼs.)"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पार्षद्य",
+            "eid": "44887",
+            "pagenum": 4,
+            "content": "पार्षद्य¦ <lex>m.</lex> = पारिषद्य <i>Mitglied einer Versammlung, Beisitzer</i> <ls>H. 480.</ls> pl. <i>das Gefolge eines Gottes</i> (insbes. <is>Śiva's</is>) <ls>BHAR.</ls> zu <ls>AK. 1, 1, 1, 31.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

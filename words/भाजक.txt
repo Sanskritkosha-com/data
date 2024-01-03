@@ -23,5 +23,37 @@
             "pagenum": 523,
             "content": "BAjaka¦ <i>m.</i> 1. Dividing; 2. a divisor."
         }
+    ],
+    "MW": [
+        {
+            "word": "भाजक",
+            "eid": "149704",
+            "pagenum": 752,
+            "content": "भाजक ¦ <lex>m.</lex> (<ab>fr.</ab> <ab>Caus.</ab>) a divisor (in <ab>arithm.</ab>), <ls>Col.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भाजक",
+            "eid": "35322",
+            "pagenum": 705,
+            "content": "<i>Bhājaka, as,</i>¦ m. (fr. Caus. of rt. <i>bhaj</i>), dividing; (in arithmetic) a divisor."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भाजक",
+            "eid": "79328",
+            "pagenum": 4,
+            "content": "भाजक¦ <lex>m.</lex> <i>Divisor</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भाजक",
+            "eid": "54465",
+            "pagenum": 5,
+            "content": "भाजक¦ (von caus. von भज्) <lex>m.</lex> <i>Divisor</i> <ls>COLEBR. Alg. 8.</ls>"
+        }
     ]
 }

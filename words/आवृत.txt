@@ -36,5 +36,81 @@
             "pagenum": 68,
             "content": "आ/वृत¦ <lex>a.</lex> covered, veiled, hidden, clothed, surrounded, filled with (<ab>instr.</ab> or —°), fenced, locked; withheld, forbidden; captive, prisoner; <lex>m.</lex> a <ab>cert.</ab> mixed caste."
         }
+    ],
+    "MD": [
+        {
+            "word": "आवृत",
+            "eid": "3916",
+            "pagenum": 43,
+            "content": "आवृत¦ ā-vṛta, <ab>pp.</ab> surrounded; covered; 🞄overspread; <lex>m.</lex> <i>a certain mixed caste</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आवृत",
+            "eid": "27192",
+            "pagenum": 156,
+            "content": "आ/-वृत ¦ <lex>mfn.</lex> covered, concealed, hid<info lex='m:f:n'/>"
+        },
+        {
+            "word": "आवृत",
+            "eid": "27193",
+            "pagenum": 156,
+            "content": "¦ screened, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>Kathās.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "आवृत",
+            "eid": "27194",
+            "pagenum": 156,
+            "content": "¦ enclosed, encompassed, surrounded (by a ditch, wall, &c.), <ls>Mn.</ls>; <ls>R.</ls>; <ls>Rājat.</ls>; <ls>Pañcat.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "आवृत",
+            "eid": "27195",
+            "pagenum": 156,
+            "content": "¦ invested, involved<info lex='inh'/>"
+        },
+        {
+            "word": "आवृत",
+            "eid": "27196",
+            "pagenum": 156,
+            "content": "¦ spread, overspread, overcast<info lex='inh'/>"
+        },
+        {
+            "word": "आवृत",
+            "eid": "27197",
+            "pagenum": 156,
+            "content": "¦ filled with, abounding with<info lex='inh'/>"
+        },
+        {
+            "word": "आवृत",
+            "eid": "27198",
+            "pagenum": 156,
+            "content": "आ/-वृत ¦ <lex>m.</lex> a man of mixed origin (the son of a <ns>Brāhman</ns> by a woman of the <s1 slp1='ugra'>Ugra</s1> caste), <ls>Mn. x, 15.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आवृत",
+            "eid": "9419",
+            "pagenum": 132,
+            "content": "<i>Ā-vṛta, as, ā, am,</i>¦ enclosed, encompassed, surrounded (by a ditch, wall, &c.); covered, screened, concealed; invested, involved; spread, overspread, overcast; filled with, abounding with; (<i>as</i>), m. a man of mixed origin, the son of a Brāhman by a woman of the Ugra caste."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आवृत",
+            "eid": "16018",
+            "pagenum": 1,
+            "content": "आवृत¦ <lex>m.</lex> <i>eine <ab>best.</ab> Mischlingskaste</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आवृत",
+            "eid": "118861",
+            "pagenum": 7,
+            "content": "आवृत¦ <lex>m.</lex> <i>eine best. Mischlingskaste</i>: ब्राह्मणादुग्रकन्यायामावृतो नाम जायते <ls>M. 10, 15.</ls>"
+        }
     ]
 }

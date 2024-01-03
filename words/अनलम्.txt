@@ -15,5 +15,49 @@
             "pagenum": 19,
             "content": "analam¦ <i>ind.</i> Not enough, insufficiently."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनलम्",
+            "eid": "1340",
+            "pagenum": 13,
+            "content": "अनलम्¦ an-alam, <lex>ad.</lex> incapable of (<ab>inf.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनलम्",
+            "eid": "5274",
+            "pagenum": 26,
+            "content": "अन्-अलम् ¦ <lex>ind.</lex> not enough<info lex='ind'/>"
+        },
+        {
+            "word": "अनलम्",
+            "eid": "5274.1",
+            "pagenum": 26,
+            "content": "¦ insufficiently.<info lex='inh'/>"
+        },
+        {
+            "word": "अनलम्",
+            "eid": "5274.11",
+            "pagenum": 1311,
+            "content": "¦ unable to (<ab>inf.</ab>), <ls>Śiś.</ls><info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनलम्",
+            "eid": "1569",
+            "pagenum": 27,
+            "content": "अनलम्¦ <i>an-alam,</i> ind. not enough; insufficiently."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनलम्",
+            "eid": "3653",
+            "pagenum": 1,
+            "content": "अनलम्¦ <lex>Adv.</lex> <i>nicht im Stande zu</i> (<ab>Inf.</ab>) <ls>ŚIŚ. 7,10</ls>."
+        }
     ]
 }

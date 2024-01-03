@@ -39,5 +39,79 @@
             "pagenum": 1002,
             "content": "<b>mandána,</b>¦ <ab>a.</ab>, <i>erfreuend</i> [von mand]. <div n='TS'>-ās [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] (gā́s) {819,26}."
         }
+    ],
+    "MW": [
+        {
+            "word": "मन्दन",
+            "eid": "157645",
+            "pagenum": 787,
+            "content": "मन्द/न <hom>a</hom> ¦ <lex>mf(आ)n.</lex> gay, cheerful, <ls>RV.</ls>; <ls>TS.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "मन्दन",
+            "eid": "157646",
+            "pagenum": 787,
+            "content": "¦ = मन्द्र, <ls>Nir. vi, 23</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मन्दन",
+            "eid": "157647",
+            "pagenum": 787,
+            "content": "मन्द/न ¦ <lex>m.</lex> <ab>N.</ab> of a pupil of <s1 slp1='SaMkarAcArya'>Śaṃkarācārya</s1> (also -मिश्र), <ls>W.</ls> (<ab>cf.</ab> मण्डन)<info lex='m'/>"
+        },
+        {
+            "word": "मन्दन",
+            "eid": "157648",
+            "pagenum": 787,
+            "content": "मन्द/न ¦ <lex>n.</lex> (with a sect of <s1 slp1='pASupata'>Pāśupata</s1>s) <ab>N.</ab> of a <ab>partic.</ab> limping gait, <ls>Sarvad.</ls><info lex='n'/>"
+        },
+        {
+            "word": "मन्दन",
+            "eid": "157649",
+            "pagenum": 787,
+            "content": "¦ praise, eulogium, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मन्दन",
+            "eid": "157904",
+            "pagenum": 788,
+            "content": "मन्दन <hom>b</hom> ¦ मन्दयु &c. See <pcol>p. 787, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मन्दन",
+            "eid": "36426",
+            "pagenum": 746,
+            "content": "<i>Mandana, as, ā, am,</i>¦ gay, cheerful (Ved.); (<i>as</i>), m., N. of a pupil of Śaṅkarācārya; (<i>am</i>), n. praise, eulogium; (with a sect of Pāśupatas) a term for a particular limping gait."
+        },
+        {
+            "word": "मन्दन",
+            "eid": "36446",
+            "pagenum": 746,
+            "content": "मन्दन¦ <i>mandana, mandayu,</i> &c. See col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मन्दन",
+            "eid": "83257",
+            "pagenum": 5,
+            "content": "मन्द/न¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='2'>— a〉 <i>lustig</i>. <div n='2'>— b〉 *= मन्द्र. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines Schülers des <is>Śaṃkarācārya</is>. Auch °मिश्. <ab>Vgl.</ab> मण्डन. <div n='1'>— 3〉 <lex>n.</lex> <div n='2'>— a〉 bei den ekstatischen <is>Śaiva</is> <i>ein <ab>best.</ab> hinkender Gang</i>. <div n='2'>— b〉 *<i>Preis, Lob</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मन्दन",
+            "eid": "57606",
+            "pagenum": 5,
+            "content": "मन्द/न¦ (von 1. मद्, मन्द्) <ls>UṆĀDIS. 2, 81.</ls> <div n='1'> 1) <lex>adj.</lex> <i>lustig</i> (vgl. मदयन्तीः unter मद्): ज\\नय\\ं ज्योति^र्म\\न्दना^ अवीवश\\द्गाः कृ^ण्वा\\नो न नि\\र्णिज^म् <ls>ṚV. 9, 107, 26.</ls> <ls>TS. 3, 3, 3, 1.</ls> so v. a. मन्द्र <ls>NIR. 6, 23.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines Schülers des <is>Śaṃkarācārya</is> <ls>WILSON, Sel. Works I, 202.</ls> °मिश्र <ls n='WILSON, Sel. Works I,'>50.</ls> Wohl fehlerhaft für मण्डन . <div n='1'>— 3) <lex>n.</lex> <i>Preis, Lob</i> <ls>UJJVAL.</ls>"
+        },
+        {
+            "word": "मन्दन",
+            "eid": "80454",
+            "pagenum": 5,
+            "content": "मन्दन¦ <div n='1'> 4) <lex>n.</lex> bei den ekstatischen <is>Pāśupata</is> Bez. <i>eines best. hinkenden Ganges</i> <ls>SARVADARŚANAS. 78, 9. 11.</ls>"
+        }
     ]
 }

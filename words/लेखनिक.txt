@@ -23,5 +23,43 @@
             "pagenum": 629,
             "content": "leKanika¦ <i>m.</i> A letter-carrier."
         }
+    ],
+    "MW": [
+        {
+            "word": "लेखनिक",
+            "eid": "182408",
+            "pagenum": 901,
+            "content": "लेखनिक ¦ <lex>m.</lex> one who makes a deputy sign a document, signing by proxy or making a mark (from inability to write), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "लेखनिक",
+            "eid": "182409",
+            "pagenum": 901,
+            "content": "¦ a letter-carrier, bearer of a letter, <ls>L.</ls> (<ab>cf.</ab> लेखीलक). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लेखनिक",
+            "eid": "40438",
+            "pagenum": 866,
+            "content": "<i>Lekhanika, as,</i>¦ m. one who makes another sign a document instead of himself, signing by proxy, or making a mark (from inability to write); the bearer of a letter, a letter-carrier, postman, express."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लेखनिक",
+            "eid": "96439",
+            "pagenum": 5,
+            "content": "*लेखनिक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>der einen Andern für sich ein Document unterschreiben lässt</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>der Ueberbringer eines Briefes, Briefträger</i>. <div n='m'>— <ab>Vgl.</ab> लेखीलक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लेखनिक",
+            "eid": "86565",
+            "pagenum": 6,
+            "content": "लेखनिक¦ (von लेखन) <div n='1'> 1) <lex>adj.</lex> <i>der einen Andern für sich ein Document unterschreiben lässt.</i> <div n='1'>— 2) <lex>m.</lex> <i>ein Ueberbringer eines Briefes, Briefträger</i> <ls>H. an. 4, 30. fg.</ls> <ls>MED. k. 211.</ls>"
+        }
     ]
 }

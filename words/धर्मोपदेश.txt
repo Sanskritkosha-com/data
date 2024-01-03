@@ -23,5 +23,47 @@
             "pagenum": 354,
             "content": "Darma-upadeSa¦ <i>m.</i> 1. a discourse on law and religion; 2. the collective body of laws."
         }
+    ],
+    "MW": [
+        {
+            "word": "धर्मोपदेश",
+            "eid": "100462",
+            "pagenum": 512,
+            "content": "Darmo<srs/>padeSa ¦ <lex>m.</lex> instruction in <ab n='law'>l°</ab> or duty, religious or moral instruction, <ls>Mn.</ls>; <ls>Āpast.</ls><info lex='m'/>"
+        },
+        {
+            "word": "धर्मोपदेश",
+            "eid": "100463",
+            "pagenum": 512,
+            "content": "¦ the laws collectively, <ls>Mn. xii, 106</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्मोपदेश",
+            "eid": "100464",
+            "pagenum": 512,
+            "content": "¦ the statement of modality, <ls>Jaim.</ls> (<ab>cf.</ab> °म-मात्र)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्मोपदेश",
+            "eid": "100465",
+            "pagenum": 512,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='jEna'>Jaina</s1> <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धर्मोपदेश",
+            "eid": "54986",
+            "pagenum": 3,
+            "content": "धर्मोपदेश¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Unterweisung im Gesetze, in den Pflichten, Lehren in Bezug auf dieselben</i> <ls>ĀPAST.</ls> <div n='1'>— 2〉 <i>die Gesetze, Gesetzsammlung</i>. <div n='1'>— 3〉 <i>die Angabe des Wie</i> <ls>JAIM. 3,3,4</ls>. <div n='1'>— 4〉 Titel eines <is>Jaina</is>-Werkes <ls>BÜHLER, Rep. No. 727</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धर्मोपदेश",
+            "eid": "36450",
+            "pagenum": 3,
+            "content": "धर्मोपदेश¦ (धर्म + उप°) <lex>m.</lex> <i>Unterweisung im Gesetze, in den Pflichten, Lehren in Bezug auf dieselben</i> <ls>M. 8, 272.</ls> <i>die Gesetze, die Gesetzsammlung</i>: आर्षं धर्मोपदेशं च वेदशास्त्राविरोधिना । यस्तर्केनानुसंधत्ते स धर्मं वेद नेतरः ॥ <ls n='M.'>12, 106.</ls>"
+        }
     ]
 }

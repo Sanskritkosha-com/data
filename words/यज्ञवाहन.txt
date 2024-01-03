@@ -23,5 +23,41 @@
             "pagenum": 763,
             "content": "<b>Yajñavāhana</b>¦ = Viṣṇu (1000 names)."
         }
+    ],
+    "MW": [
+        {
+            "word": "यज्ञवाहन",
+            "eid": "169377",
+            "pagenum": 840,
+            "content": "यज्ञ—वाहन ¦ <lex>mfn.</lex> performing a <ab n='sacrifice'>s°</ab> (as a <ns>Brāhman</ns>), <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "यज्ञवाहन",
+            "eid": "169378",
+            "pagenum": 840,
+            "content": "यज्ञ—वाहन ¦ <lex>m.</lex> ‘having <ab n='sacrifice'>s°</ab> for a vehicle’, <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>ib.</ls><info lex='m'/>"
+        },
+        {
+            "word": "यज्ञवाहन",
+            "eid": "169379",
+            "pagenum": 840,
+            "content": "¦ of <s1 slp1='Siva'>Śiva</s1>, <ls>Śivag.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "यज्ञवाहन",
+            "eid": "89561",
+            "pagenum": 5,
+            "content": "यज्ञवाहन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>das Opfer geleitend,</i> so <ab>v. a.</ab> — <i>vollführend</i>. <div n='1'>— 2〉 <i>dessen Vehikel das Opfer ist</i> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs und <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यज्ञवाहन",
+            "eid": "81011",
+            "pagenum": 6,
+            "content": "यज्ञवाहन¦ (यज्ञ + वा°) <lex>adj.</lex> <div n='1'> 1) <i>das Opfer geleitend</i> so v. a. <i>vollführend</i>: विप्राः <ls>MBH. 12, 9721.</ls> <div n='1'>— 2) <i>dessen Vehikel das Opfer ist</i>, Bein. <is>Viṣṇu's</is> <ls>MBH. 13, 7053.</ls> <is>Śiva's</is> <ls>ŚIV.</ls>"
+        }
     ]
 }

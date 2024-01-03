@@ -74,5 +74,57 @@
             "pagenum": 391,
             "content": "nizAdin¦ <i>(II) m.</i> An elephant-driver, <ls>Sis.</ls>v.41."
         }
+    ],
+    "MD": [
+        {
+            "word": "निषादिन्",
+            "eid": "10742",
+            "pagenum": 144,
+            "content": "निषादिन्¦ niṣād-in, <lex>a.</lex> sitting, lying, on <i>or</i> 🞄in (<ab>lc.</ab>, <ab>—°</ab>); <lex>m.</lex> elephant driver."
+        }
+    ],
+    "MW": [
+        {
+            "word": "निषादिन्",
+            "eid": "110709",
+            "pagenum": 561,
+            "content": "नि-°षादिन् ¦ <lex>mfn.</lex> sitting down, sitting or lying or resting on or in <ls>Ragh.</ls>; <ls>Kathās.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "निषादिन्",
+            "eid": "110710",
+            "pagenum": 561,
+            "content": "नि-°षादिन् ¦ <lex>m.</lex> an elephant-keeper or driver, <ls>Śiś. v, 41</ls> (<ab>cf.</ab> °षादित)<info lex='m'/>"
+        },
+        {
+            "word": "निषादिन्",
+            "eid": "110711",
+            "pagenum": 561,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='eka'>Eka</s1>-lavya, <ls>VP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निषादिन्",
+            "eid": "25915",
+            "pagenum": 506,
+            "content": "<i>Ni-ṣādin, ī, inī, i,</i>¦ sitting down, lying down, reclining, resting; (<i>ī</i>), m. an elephant-keeper or driver."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निषादिन्",
+            "eid": "60048",
+            "pagenum": 3,
+            "content": "निषादिन्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>sitzend —, liegend auf oder in</i> (<ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend). <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Elephantenlenker</i>. <div n='2'>— b〉 <ab>Bein.</ab> <is>Ekalavya</is>ʼs <ls>VP.² 4,113</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निषादिन्",
+            "eid": "40031",
+            "pagenum": 4,
+            "content": "निषादिन्¦ (von सद् mit नि) <div n='1'> 1) <lex>adj.</lex> <i>sitzend, liegend</i>: इक्षुच्छायनिषादिन्यः - शालिगोप्यः <ls>RAGH. 4, 20.</ls> शय्या° <ls>KATHĀS. 25, 88.</ls> सिंहाच्छायानिषादिनः <ls n='KATHĀS.'>22, 85.</ls> निषादिभिः । मृगैः - उटजाङ्गणभूमिषु <ls>RAGH. 1, 52.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Elephantenlenker</i> <ls>AK. 2, 8, 2, 27.</ls> <ls>H. 762. 1231.</ls> <ls>HALĀY. 2, 70. 235.</ls> <ls>ŚIŚ. 5, 41.</ls>"
+        }
     ]
 }

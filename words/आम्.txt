@@ -80,5 +80,65 @@
             "pagenum": 104,
             "content": "Am¦ <i>ind.</i> The same as आं q.v."
         }
+    ],
+    "MD": [
+        {
+            "word": "आम्",
+            "eid": "3713",
+            "pagenum": 40,
+            "content": "आम्¦ ām, <ab>ij.</ab> <i>of reminiscence</i>, ah! <i>of assent</i>, 🞄yes."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आम्",
+            "eid": "25395",
+            "pagenum": 146,
+            "content": "आ/म् ¦ <lex>ind.</lex> an interjection of assent or recollection, <ls>MaitrS.</ls>; <ls>Mṛcch.</ls>; <ls>Śak.</ls>; <ls>Vikr.</ls> &c. <info n='rev' pc='1319,3'/><info lex='ind'/>"
+        },
+        {
+            "word": "आम्",
+            "eid": "25395.1",
+            "pagenum": 146,
+            "content": "¦ (a vocative following this particle is <s1 slp1='anudAtta'>anudātta</s1>, <ls>Pāṇ. viii, 1, 55.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आम्",
+            "eid": "8879",
+            "pagenum": 125,
+            "content": "आम्¦ <i>ām,</i> ind. an interjection of assent or recollection, (a vocative following this particle is <i>anu-</i> <i>dātta.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आम्",
+            "eid": "15124",
+            "pagenum": 1,
+            "content": "आम्¦ <ab>Interj.</ab> <div n='1'>— 1〉 eines sich auf Etwas Besinnenden. <div n='1'>— 2〉 des Einverständnisses, <i>ja</i> <ls>BĀLAR. 284,20. 288,11. 296,18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आम्",
+            "eid": "8900",
+            "pagenum": 1,
+            "content": "आम्¦ <is>gaṇa</is> स्वरादि zu <ls>P. 1, 1, 37.</ls> Einfluss auf den Accent eines nachfolgenden voc. <ls n='P.'>8, 1, 55.</ls> interj. <div n='1'> 1) <i>der Einwilligung</i> <ls>AK. 3, 5, 16.</ls> <ls>TRIK. 3, 4, 2</ls> (wohl आमङ्गमभ्यु° zu lesen; vgl. 1. अङ्ग). <ls>H. 1540.</ls> <ls>an. 7, 2.</ls> <ls>MED. avy. 50.</ls> आं कुर्मः <ls>H. 1540</ls>, <ls>Sch.</ls>  <div n='1'>— 2) <i>der Erinnerung</i> (wenn man sich auf Etwas besinnt) <ls>H. an.</ls> <ls>MED.</ls> विचिन्त्य । आं ज्ञातम् <ls>MṚCCH. 2, 8. 47, ult. 153, 14. 160, 21.</ls> <ls>ŚĀK.</ls> <ls>CH. 43, ult. 91, 9. 151, 12.</ls> <ls>VIKR. 58, 17.</ls>  <div n='v'>— Vgl. 1. आ ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "आम्",
+            "eid": "2632",
+            "pagenum": 2,
+            "content": "आ/म्¦ <ls>MAITR. S. 1,4,1</ls> (<ls>KĀṬH. 5,3</ls>. <ls n='KĀṬH.'>32,3</ls>)."
+        },
+        {
+            "word": "आम्",
+            "eid": "14223",
+            "pagenum": 7,
+            "content": "आ/म्¦ I. 2."
+        }
     ]
 }

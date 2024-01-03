@@ -41,5 +41,69 @@
             "pagenum": 773,
             "content": "<hom>2.</hom> <b>pápri,</b>¦ <ab>a.</ab>, <i>hinüberführend, rettend</i> [von <hom>2.</hom> par]. <div n='TS'>-is sá nas 〰 pārayāti {636,11}. <div n='TS'>-im pṛ́tanāsu {91,21}."
         }
+    ],
+    "MD": [
+        {
+            "word": "पप्रि",
+            "eid": "11134",
+            "pagenum": 153,
+            "content": "पप्रि¦ pá-pr-i, <lex>a.</lex> [√ <hom>1.</hom> pṛ] bestowing (<ab>ac.</ab>, <ab>g.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पप्रि",
+            "eid": "115878",
+            "pagenum": 585,
+            "content": "<hom>1.</hom> प/प्रि ¦ <lex>mfn.</lex> giving, granting (with <ab>gen.</ab> or <ab>acc.</ab>; <ab>superl.</ab> -तम), <ls>RV.</ls>; <ls>VS.</ls> (<ab>cf.</ab> <ls>Pāṇ. vii, 1, 103</ls>, <ab>Sch.</ab>)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "पप्रि",
+            "eid": "115880",
+            "pagenum": 585,
+            "content": "<hom>2.</hom> प/प्रि ¦ <lex>mfn.</lex> (√ <hom>1.</hom> पृ) delivering, saving, <ls>RV.</ls> : <ls>AV.</ls>; <ls>TS.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पप्रि",
+            "eid": "26974",
+            "pagenum": 532,
+            "content": "पप्रि 1¦. <i>papri, is, is, i</i> (fr. rt. 1. <i>pṛ</i>), leading over, delivering, saving."
+        },
+        {
+            "word": "पप्रि",
+            "eid": "26975",
+            "pagenum": 532,
+            "content": "पप्रि 2¦. <i>papri, is, is, i</i> (fr. rt. 2. <i>pṛ</i>), Ved. giving, granting."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पप्रि",
+            "eid": "63062",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> प/प्रि¦ <lex>Adj.</lex> <i>spenden,</i> mit <ab>Gen.</ab> oder <ab>Acc.</ab> <ab>Superl.</ab> प/प्रितम."
+        },
+        {
+            "word": "पप्रि",
+            "eid": "63063",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> प/प्रि¦ <lex>Adj.</lex> <i>hinüberführend, rettend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पप्रि",
+            "eid": "42255",
+            "pagenum": 4,
+            "content": "1. प/प्रि¦ (von 1. पर्) <lex>adj.</lex> <i>spendend</i>: स हि पप्रि\\रन्ध^सः <ls>ṚV. 1, 52, 3.</ls> पप्रि^णा\\ सस्नि^ना यु\\जा <ls n='ṚV.'>2, 23, 10.</ls> <ls>VS. 1, 7.</ls> दानु\\ पप्रि^ः <ls>ṚV. 6, 50, 13.</ls> पप्रितम <ls>VS. 1, 8.</ls> <ls>P. 7, 1, 103</ls>, <ls>Sch.</ls>"
+        },
+        {
+            "word": "पप्रि",
+            "eid": "42256",
+            "pagenum": 4,
+            "content": "2. प/प्रि¦ (von 2. पर्) <lex>adj.</lex> <i>hinüberführend, rettend</i>: पृतना^सु\\ पप्रि^म् <ls>ṚV. 1, 91, 21.</ls> स न\\ः पप्रि^ः पारयाति स्व\\स्ति ना\\वा <ls n='ṚV.'>8, 16, 11.</ls> <ls>AV. 12, 2, 47.</ls> ते नो\\ ऽग्नय\\ः पप्र^यः पारयन्तु <ls>TS. 1, 7, 7, 2.</ls>"
+        }
     ]
 }

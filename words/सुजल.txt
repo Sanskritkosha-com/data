@@ -15,5 +15,41 @@
             "pagenum": 500,
             "content": "सुजल¦ gutes Wasser habend."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुजल",
+            "eid": "246310",
+            "pagenum": 1223,
+            "content": "सु—जल ¦ <lex>mf(आ)n.</lex> having good or sweet water, <ls>R.</ls>; <ls>VarBṛS.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "सुजल",
+            "eid": "246311",
+            "pagenum": 1223,
+            "content": "सु—जल ¦ <lex>n.</lex> a lotus, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सुजल",
+            "eid": "246312",
+            "pagenum": 1223,
+            "content": "¦ good water, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुजल",
+            "eid": "126135",
+            "pagenum": 7,
+            "content": "सुजल¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>mit guten Wasser versehen</i>. <div n='1'>— 2〉 *<lex>n.</lex> <i>eine Lotusblüthe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुजल",
+            "eid": "110112",
+            "pagenum": 7,
+            "content": "सुजल¦ <div n='1'> 1) <lex>adj.</lex> (f. आ) <i>mit gutem Wasser versehen</i>: तीर्थ <ls>R. 1, 2, 7.</ls> नदी <ls>Spr. (II) 2477.</ls> सिरा <ls>VARĀH. BṚH. S. 54, 11.</ls> <div n='1'>— 2) <lex>n.</lex> <i>eine Lotusblüthe</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -15,5 +15,37 @@
             "pagenum": 19,
             "content": "अपज्वर¦ fieberlos."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपज्वर",
+            "eid": "9150.1",
+            "pagenum": 1313,
+            "content": "अपज्वर ¦ <lex>mfn.</lex> free from fever, <ls>MBh.</ls><info n='sup'/><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपज्वर",
+            "eid": "54672",
+            "pagenum": 1181,
+            "content": "<i>Apa-jvara, as, ā, am,</i>¦ free from fever."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपज्वर",
+            "eid": "5889",
+            "pagenum": 1,
+            "content": "अपज्वर¦ <lex>Adj.</lex> <i>fieberlos</i> <ls n='Chr.'>62,3. 13</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपज्वर",
+            "eid": "64066",
+            "pagenum": 5,
+            "content": "अपज्वर¦ (अप + ज्वर) <lex>adj.</lex> <i>frei von Fieber</i> <ls>MBH. 1, 1759.</ls>"
+        }
     ]
 }

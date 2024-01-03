@@ -52,5 +52,43 @@
             "pagenum": 559,
             "content": "maskara¦ <i>m.</i> 1. A bamboo; 2. a hollow bamboo; 3. going, moving, motion; 4. knowledge."
         }
+    ],
+    "MW": [
+        {
+            "word": "मस्कर",
+            "eid": "159141",
+            "pagenum": 794,
+            "content": "मस्कर ¦ <lex>m.</lex> a bamboo<info lex='m'/>"
+        },
+        {
+            "word": "मस्कर",
+            "eid": "159142",
+            "pagenum": 794,
+            "content": "¦ a hollow bamboo cane, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मस्कर",
+            "eid": "36684",
+            "pagenum": 753,
+            "content": "मस्कर¦ <i>maskara, as,</i> m. a bamboo; a hollow bamboo cane."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मस्कर",
+            "eid": "84023",
+            "pagenum": 5,
+            "content": "*मस्कर¦ <lex>m.</lex> <i>Bambus, hohles Bambusrohr</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मस्कर",
+            "eid": "58212",
+            "pagenum": 5,
+            "content": "मस्कर¦ <lex>m.</lex> <i>Bambus</i> <ls>P. 6, 1, 154.</ls> <ls>AK. 2, 4, 5, 26.</ls> <ls n='AK.'>3, 4, 28, 216.</ls> <ls>H. 1153.</ls> <ls>HALĀY. 2, 49.</ls> <i>hohles Bambusrohr</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

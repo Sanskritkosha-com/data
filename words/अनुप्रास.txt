@@ -39,5 +39,43 @@
             "pagenum": 24,
             "content": "anuprAsa¦ <i>m.</i> Alliteration, repetition of the same consonant though the vowels may differ. वर्णसाम्यमनुप्रासः <ls>Mammata.</ls> (For instances, See <ls>K.Pr.</ls>ix., <ls>S.D.</ls>x.)"
         }
+    ],
+    "MW": [
+        {
+            "word": "अनुप्रास",
+            "eid": "6854",
+            "pagenum": 36,
+            "content": "anu-prA<srs/>sa ¦ <lex>m.</lex> alliteration, repetition of similar letters, syllables, and words, <ls>Kpr.</ls> &c.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुप्रास",
+            "eid": "2392",
+            "pagenum": 36,
+            "content": "<i>Anu-prāsa, as,</i>¦ m. alliteration, repetition of similar letters, syllables, and words."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुप्रास",
+            "eid": "4648",
+            "pagenum": 1,
+            "content": "अनुप्रास¦ <lex>m.</lex> <i>Alliteration</i> <ls>VĀMANA 4,1,8. fgg.</ls> <ls>KĀVYAPR. 9,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुप्रास",
+            "eid": "2881",
+            "pagenum": 1,
+            "content": "अनुप्रास¦ (von अस्, अस्यति mit अनु + प्र) <lex>m.</lex> <i>Gleichsetzung von Lauten, Alliteration</i>: वर्णसाम्यमनुप्रासः । स्वरवैसादृश्ये ऽपि व्यञ्जनसदृशत्वं वर्णसाम्यम् । रसाद्यनुगतः प्रकृष्टो न्यासो ऽनुप्रासः । <ls>KĀVYA-PR. 126, 9-11.</ls>"
+        },
+        {
+            "word": "अनुप्रास",
+            "eid": "63654",
+            "pagenum": 5,
+            "content": "अनुप्रास¦ <ls>KĀVYĀD. 1,55.</ls> <ls>Verz. d. Oxf. H. 207,a,33. 208,a,40. 210,b,40. 211,a,38.b,2.</ls> <ls>SĀH. D. 633. fgg.</ls> ; vgl. <ls>PANDIT 1, 53. fgg.</ls>"
+        }
     ]
 }

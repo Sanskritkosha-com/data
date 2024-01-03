@@ -60,5 +60,61 @@
             "pagenum": 113,
             "content": "<b>aty-ugra,</b>¦ <i><ab>a.</ab></i> extraordinary. [‘excessively  <lbinfo n='[‘exces-sively'/> strong.’]"
         }
+    ],
+    "MD": [
+        {
+            "word": "अत्युग्र",
+            "eid": "850",
+            "pagenum": 8,
+            "content": "अत्युग्र¦ ati‿ugra, <lex>a.</lex> very mighty, very terrible."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अत्युग्र",
+            "eid": "2897",
+            "pagenum": 13,
+            "content": "अत्य्-उग्र ¦ <lex>mfn.</lex> very fierce<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अत्युग्र",
+            "eid": "2898",
+            "pagenum": 13,
+            "content": "¦ very pungent<info lex='inh'/>"
+        },
+        {
+            "word": "अत्युग्र",
+            "eid": "2899",
+            "pagenum": 13,
+            "content": "अत्य्-उग्र ¦ <lex>n.</lex> <bot>Asa Foetida</bot>.<info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अत्युग्र",
+            "eid": "2314",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अत्युग्र¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>überaus gewaltig, über die Maassen stark, — grausig</i> <ls n='Chr.'>143,23</ls>. <ls>KATHĀS. 18,381</ls>. <div n='1'>— 2〉 *<lex>n.</lex> <i><bot>Asa foetida</bot></i>."
+        },
+        {
+            "word": "अत्युग्र",
+            "eid": "2315",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अत्युग्र¦ <lex>Adj.</lex> <i>über dem</i> <is>ugra</is> <i>stehend</i> <ls>Ind. St. 9,155</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अत्युग्र",
+            "eid": "1597",
+            "pagenum": 1,
+            "content": "अत्युग्र¦ (अति + उग्र) <div n='1'> 1) <lex>adj.</lex> <i>sehr scharf, stechend: überaus schrecklich</i> (<is>Rakṣas</is>, <ls>VID. 313.</ls>) u. s. w. <div n='1'>— 2) <lex>n.</lex> <i>Asa foetida</i> <ls>H. ś. 102.</ls>"
+        },
+        {
+            "word": "अत्युग्र",
+            "eid": "63067",
+            "pagenum": 5,
+            "content": "अत्युग्र¦ <div n='1'> 1) उलूक <ls>PAÑCAT. III, 76.</ls> राक्षस <ls>VID. 313.</ls> भय <ls>R. 3, 30, 6.</ls> शास्त्रधारण <ls>MBH. 5, 7301.</ls> हृदयवृत्तेरभिमतम् <ls>Spr. 4185.</ls>"
+        }
     ]
 }

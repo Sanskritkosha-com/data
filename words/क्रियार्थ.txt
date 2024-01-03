@@ -15,5 +15,33 @@
             "pagenum": 95,
             "content": "क्रियार्थ¦ eine Handlung bezweckend <i>(g.).</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "क्रियार्थ",
+            "eid": "58048",
+            "pagenum": 321,
+            "content": "kriyA<srs/>rTa ¦ <lex>m.</lex> an action as object, <ls>Jaim. i, 1, 25</ls><info lex='m'/>"
+        },
+        {
+            "word": "क्रियार्थ",
+            "eid": "58048.1",
+            "pagenum": 321,
+            "content": "kriyA<srs/>rTa ¦ <lex>mf(आ)n.</lex> having an action (<ab>i.e.</ab> another action) as its aim, <ls>Pāṇ. ii, 3, 14</ls><info lex='m:f#A:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्रियार्थ",
+            "eid": "31856",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> क्रियार्थ¦ <lex>m.</lex> <i>eine Handlung als Zweck</i> <ls>JAIM. 1,1,25</ls>."
+        },
+        {
+            "word": "क्रियार्थ",
+            "eid": "31857",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> क्रियार्थ¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>eine Handlung —, eine zweite Handlung bezweckend</i> <ls n='Chr.'>229,8. 9</ls>. <i>Handlungen bezweckend, dazu dienend</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>JAIM. 1,2,1</ls>."
+        }
     ]
 }

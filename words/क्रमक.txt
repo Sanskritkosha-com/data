@@ -29,5 +29,61 @@
             "pagenum": 214,
             "content": "kramaka¦ <i>(II) m.</i> A student who goes through a regular course of study."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्रमक",
+            "eid": "57839",
+            "pagenum": 320,
+            "content": "क्रमक ¦ <lex>mfn.</lex> going, proceeding, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "क्रमक",
+            "eid": "57840",
+            "pagenum": 320,
+            "content": "¦ orderly, methodical, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्रमक",
+            "eid": "57841",
+            "pagenum": 320,
+            "content": "क्रमक ¦ <lex>m.</lex> succession, <ls>Jaim. v, 4, 1</ls><info lex='m'/>"
+        },
+        {
+            "word": "क्रमक",
+            "eid": "57842",
+            "pagenum": 320,
+            "content": "¦ a student who goes through a regular course of study, who proceeds methodically, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्रमक",
+            "eid": "57843",
+            "pagenum": 320,
+            "content": "¦ one who reads or knows the <s1 slp1='krama'>Krama</s1> (<s1 slp1='-pAWa'>-pāṭha</s1>), <ls>Pāṇ. iv, 2, 61.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "क्रमक",
+            "eid": "16151",
+            "pagenum": 260,
+            "content": "<i>Kramaka, as, ā, am,</i>¦ going, proceeding; orderly, methodical; (<i>as</i>), m. a student who goes through a regular course of study, one who proceeds methodically; one who reads or knows the Krama arrangement of a text."
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्रमक",
+            "eid": "31703",
+            "pagenum": 2,
+            "content": "क्रमक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Reihenfolge</i> <ls>JAIM. 5,4,1</ls>. <div n='1'>— 2〉 *<i>ein Kenner des</i> <is>Krama</is> 11〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्रमक",
+            "eid": "19766",
+            "pagenum": 2,
+            "content": "क्रमक¦ (von क्रम 8. ) <lex>m.</lex> <i>ein Leser</i> oder <i>Kenner des</i> <is>Krama</is> <ls>P. 4, 2, 61.</ls> <ls>VOP. 7, 15.</ls>"
+        }
     ]
 }

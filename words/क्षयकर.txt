@@ -23,5 +23,53 @@
             "pagenum": 219,
             "content": "kzayakara¦ <i>a.</i> causing destruction, ruinous."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षयकर",
+            "eid": "59390",
+            "pagenum": 328,
+            "content": "क्षय—कर ¦ <lex>mfn.</lex> <ab>ifc.</ab> causing destruction or ruin, destructive, terminating, <ls>MBh. ii, 2494</ls>; <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "क्षयकर",
+            "eid": "59391",
+            "pagenum": 328,
+            "content": "¦ liberating from existence, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्षयकर",
+            "eid": "59392",
+            "pagenum": 328,
+            "content": "¦ perhaps for क्षयि-कल (said of the moon ‘the portions of which are waning’), <ls>Cāṇ.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्षयकर",
+            "eid": "59393",
+            "pagenum": 328,
+            "content": "क्षय—कर ¦ <lex>m.</lex>, <ab>N.</ab> of the 49th year of the sixty years' <s1 slp1='bfhaspati'>Bṛhaspati</s1> cycle, <ls>VarBṛS.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षयकर",
+            "eid": "32361",
+            "pagenum": 2,
+            "content": "क्षयकर¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 am Ende eines <ab>Comp.</ab> <i>Untergang bereitend, zu Nichte machend</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <div n='2'>— b〉 <ls>Spr. 1713</ls>. wohl fehlerhaft für क्षयिकल. <div n='1'>— 2〉 <lex>m.</lex> <i>das 49te Jahr im 60jährigen Jupitercyclus</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षयकर",
+            "eid": "20181",
+            "pagenum": 2,
+            "content": "क्षयकर¦ (2. क्षय + 1. कर) <lex>adj.</lex> <i>Untergang bereitend, zu Nichte machend</i> <ls>MBH. 2, 2494.</ls> क्रियाक्षयकरत्वाच्च क्षय इत्युच्यते <ls>SUŚR. 2, 445, 6.</ls> <div n='v'>— Vgl. क्षयंकर ."
+        },
+        {
+            "word": "क्षयकर",
+            "eid": "72019",
+            "pagenum": 5,
+            "content": "क्षयकर¦ <lex>m.</lex> N. <i>des 49ten Jahres im 60jährigen Jupitercyclus</i> <ls>VARĀH. BṚH. S. 8, 47.</ls> <lex>adj.</lex> als Beiw. des Mondes <ls>VṚDDHA-CĀṆ. 12, 16</ls> fehlerhaft für क्षयिकल (क्षयिन् + कला); vgl. <ls>BHĀG. P. 5, 22, 9.</ls>"
+        }
     ]
 }

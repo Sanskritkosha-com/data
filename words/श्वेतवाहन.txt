@@ -28,5 +28,85 @@
             "pagenum": 736,
             "content": "Sveta-vAhana¦ <i>m.</i> 1. an epithet of Arjuna; 2. the moon; 3. the marine monster called <i>Makara</i>."
         }
+    ],
+    "MW": [
+        {
+            "word": "श्वेतवाहन",
+            "eid": "224754",
+            "pagenum": 1107,
+            "content": "श्वेत—वाहन ¦ <lex>mfn.</lex> = <ab>prec.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "श्वेतवाहन",
+            "eid": "224755",
+            "pagenum": 1107,
+            "content": "श्वेत—वाहन ¦ <lex>m.</lex> the moon, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "श्वेतवाहन",
+            "eid": "224756",
+            "pagenum": 1107,
+            "content": "¦ a marine monster (= मकर), <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्वेतवाहन",
+            "eid": "224757",
+            "pagenum": 1107,
+            "content": "¦ a form of <s1 slp1='Siva'>Śiva</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्वेतवाहन",
+            "eid": "224758",
+            "pagenum": 1107,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='arjuna'>Arjuna</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्वेतवाहन",
+            "eid": "224759",
+            "pagenum": 1107,
+            "content": "¦ of <s1 slp1='BadrASva'>Bhadrāśva</s1>, <ls>Cat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्वेतवाहन",
+            "eid": "224760",
+            "pagenum": 1107,
+            "content": "¦ of a son of <s1 slp1='rAjADideva'>Rājādhideva</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्वेतवाहन",
+            "eid": "224761",
+            "pagenum": 1107,
+            "content": "¦ of a son of <s1 slp1='SUra'>Śūra</s1>, <ls>VP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "श्वेतवाहन",
+            "eid": "15044",
+            "pagenum": 3,
+            "content": "<i>Śvetavāhana</i> (I)¦ — a son of Śūra. <div n='P'/>Br. III. 71. 138; Vā. 96. 136."
+        },
+        {
+            "word": "श्वेतवाहन",
+            "eid": "15045",
+            "pagenum": 3,
+            "content": "<i>Śvetavāhana</i> (II)¦ — a son of Rājādhideva. <div n='P'/>M. 44. 78."
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्वेतवाहन",
+            "eid": "116018",
+            "pagenum": 6,
+            "content": "श्वेतवाहन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>dass.</ab> <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 *<i>der Mond</i>. <div n='2'>— b〉 <i>eine Form</i> <is>Śiva</is>ʼs. <div n='2'>— c〉 <ab>Bein.</ab> <div n='3'>— α〉 <is>Arjuna</is>ʼs. <div n='3'>— β〉 <is>Bhadrāśva</is>ʼs. <div n='2'>— d〉 <ab>N. pr.</ab> eines Sohnes des <div n='3'>— α〉 <is>Rājādhideva</is>. <div n='3'>— β〉 des <is>Śūra</is> <ls>VP. 24,99</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्वेतवाहन",
+            "eid": "102347",
+            "pagenum": 7,
+            "content": "श्वेतवाहन¦ <div n='1'> 1) <lex>adj.</lex> <i>mit Schimmeln fahrend.</i> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>der Mond</i> <ls>TRIK. 3, 3, 265.</ls> <ls>H. ś. 10.</ls> <ls>H. an. 5, 33.</ls> <ls>MED. n. 248.</ls>  <div n='2'>— b) eine Form <is>Śiva's</is> <ls>HARIV. 7987.</ls> <ls n='HARIV.'>7990.</ls> <div n='2'>— c) ein Bein. <is>Arjuna's</is> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 7374.</ls> <ls n='MBH.'>3, 10532.</ls> <ls n='MBH.'>4, 1349.</ls> <ls n='MBH. 4,'>1375.</ls> <ls n='MBH. 4,'>1382.</ls> <ls>Verz. d. B. H. 114.</ls> <div n='2'>— d) ein Bein. <is>Bhadrāśva's</is> <ls>Verz. d. Oxf. H. 58,a,35.</ls> <div n='2'>— e) N. pr. eines Sohnes des <is>Rājādhideva</is> <ls>HARIV. 2033.</ls>"
+        }
     ]
 }

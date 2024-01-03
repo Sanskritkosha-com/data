@@ -68,5 +68,43 @@
             "pagenum": 658,
             "content": "vikAla¦ <i>m.</i> Evening twilight, the close of day."
         }
+    ],
+    "MW": [
+        {
+            "word": "विकाल",
+            "eid": "192897",
+            "pagenum": 950,
+            "content": "वि—काल <hom>a</hom> ¦ <lex>m.</lex> twilight, evening, afternoon (अम् <lex type='phw'>ind.</lex> in the evening, late), <ls>ĀpŚr.</ls>; <ls>MBh.</ls> &c.<info phwchild='192897.1'/><info lex='m'/>"
+        },
+        {
+            "word": "विकाल",
+            "eid": "193913",
+            "pagenum": 954,
+            "content": "वि-काल <hom>b</hom> ¦ &c. See <pcol>p. 950, col. 1</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विकाल",
+            "eid": "42179",
+            "pagenum": 909,
+            "content": "विकाल¦ <i>vi-kāla, as,</i> m. twilight, evening, afternoon, the close of day; [cf. <i>vaikālika.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विकाल",
+            "eid": "101692",
+            "pagenum": 6,
+            "content": "विकाल¦ <lex>m.</lex> <i>Abend</i> <ls>ĀPAST. ŚR. 10,13,6</ls>. <ab>Acc.</ab> <i>am Abend</i> <ls>MBH. 3,297,83</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विकाल",
+            "eid": "90862",
+            "pagenum": 6,
+            "content": "विकाल¦ (2. वि + काल) <lex>m.</lex> <i>Abend</i> <ls>H. 140.</ls> <ls>SĀV. 5, 82</ls> (हि कालं <ls>MBH. ed. Calc. 3, 16830.</ls> विकालम् <ls>ed. Bomb.</ls>). <ls>Spr. 4347.</ls>  <ls>R. GORR. 2, 108, 9.</ls> <ls>MĀRK. P. 35, 30.</ls> <ls>PAÑCAT. V, 74. 258, 9.</ls> °चर्य <ls>VYUTP. 70.</ls>"
+        }
     ]
 }

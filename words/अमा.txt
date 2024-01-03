@@ -119,5 +119,127 @@
             "pagenum": 56,
             "content": "amA¦ <i>(III) ind.</i> 1. Near; 2. with, together with."
         }
+    ],
+    "MD": [
+        {
+            "word": "अमा",
+            "eid": "2400",
+            "pagenum": 25,
+            "content": "अमा¦ <hom>1.</hom> amā́, <lex>ad.</lex> at home; homewards."
+        },
+        {
+            "word": "अमा",
+            "eid": "2401",
+            "pagenum": 25,
+            "content": "अमा¦ <hom>2.</hom> amā, <lex>f.</lex> night of new moon."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अमा",
+            "eid": "13769",
+            "pagenum": 80,
+            "content": "अमा/ <hom>a</hom> ¦ See <ab>ss.vv.</ab>"
+        },
+        {
+            "word": "अमा",
+            "eid": "14011",
+            "pagenum": 81,
+            "content": "<hom>1.</hom> अमा/ ¦ <lex>ind.</lex> (<ab>Ved.</ab> <ab>instr.</ab> <ab>fr.</ab> <hom>2.</hom> अ/म, <ab>q.v.</ab>) (chiefly <ab>Ved.</ab>) at home, in the house, in the house of (<ab>gen.</ab>), with, <ls>RV.</ls> &c.<info lex='ind'/>"
+        },
+        {
+            "word": "अमा",
+            "eid": "14011.1",
+            "pagenum": 81,
+            "content": "¦ together, <ls>Pāṇ. iii, 1, 122</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अमा",
+            "eid": "14011.2",
+            "pagenum": 81,
+            "content": "अमा/ ¦ (आ) <lex>f.</lex> = अमा-वास्या/, <ab>q.v.</ab> <ab>Comm.</ab> on <ls>Ragh. xiv, 80</ls> (in a verse quoted from <s1 slp1='vyAsa'>Vyāsa</s1>) <ab>Comm.</ab> on <ls>Sūryas.</ls><info lex='f'/>"
+        },
+        {
+            "word": "अमा",
+            "eid": "14030",
+            "pagenum": 81,
+            "content": "<hom>2.</hom> अ-मा ¦ (√ <hom>3.</hom> मा) <lex>f.</lex> (= अ-प्रमाण) not an authority, not a standard of action, <ls>Nyāyam.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अमा",
+            "eid": "5379",
+            "pagenum": 74,
+            "content": "<i>Amā,</i>¦ ind., Ved. at home, in the house; with; together with; near: see also p. 75, col. 3. <i>—Amā</i> <i>kṛ,</i> to take or carry with one's self."
+        },
+        {
+            "word": "अमा",
+            "eid": "5443",
+            "pagenum": 75,
+            "content": "अमा 1¦. <i>amā,</i> f. day of conjunction of sun and moon or new moon; see <i>amā-vasī,</i> p. 76, col. 1. <i>—Amānta (amā-anta), as,</i> m. the end of the day of new moon."
+        },
+        {
+            "word": "अमा",
+            "eid": "5444",
+            "pagenum": 75,
+            "content": "अमा 2¦. <i>amā,</i> ind. at home, in the house; see also under 2. <i>ama,</i> p. 74. <i>—Amākta (amā-akta),</i> <i>as, ā, am,</i> Ved. met, come together. <i>—Amā-jur,</i> <i>ūr,</i> f., Ved. living at home during life, growing old at home; being without husband in the same dwelling with her parents (as a maiden)."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "अमा",
+            "eid": "665",
+            "pagenum": 1,
+            "content": "<i>Amā</i>¦ — a ray of the sun. <div n='P'/>Vi. II. 12. 8."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अमा",
+            "eid": "8210",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अमा/¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>daheim, heimwärts; bei uns, euch</i> <ab>u. s. w.</ab> Mit कर् <i>zu sich nehmen, bei sich haben</i>. <div n='1'>— 2〉 *<i>zusammen</i>."
+        },
+        {
+            "word": "अमा",
+            "eid": "8211",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अमा¦ <lex>f.</lex> = अमावास्या."
+        },
+        {
+            "word": "अमा",
+            "eid": "8212",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> अमा¦ <lex>f.</lex> <i>keine Autorität</i> <ls>NYĀYAM. 1,3,10</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अमा",
+            "eid": "5113",
+            "pagenum": 1,
+            "content": "1. अमा/¦ (von 1. अम) adv. <div n='1'> 1) <i>daheim, zu Hause, bei sich</i> <ls>NAIGH. 3, 4.</ls> <ls>NIR. 6, 15. 11, 46.</ls> <ls>AK. 3, 4, 32 (COL. 28), 11.</ls> <ls>H. an. 7, 36</ls> (संनिधानार्थेहार्थे). विश्वे^षा\\ं काम\\श्चर^ताम\\माभू^त् <ls>ṚV. 2, 38, 6.</ls> कर्ता^ नो\\ अध्व\\न्ना सु\\गं गो\\पा अमा <ls n='ṚV.'>6, 51, 15.</ls> स नो^ अ\\मा सो अर^णे\\ नि पा^तु <ls n='ṚV.'>10, 63, 16.</ls> <ls n='ṚV.'>1, 124, 2.</ls> <ls n='ṚV.'>2, 36, 3.</ls> <ls n='ṚV.'>10, 27, 2.</ls> <ls n='ṚV. 10,'>185, 2.</ls> <ls>AV. 12, 4, 38.</ls> अमा वै नो ऽद्य वमुर्भवति <ls>ŚAT. BR. 1, 6, 4, 3. 5.</ls> अमैवासां तद्भवति <i>dieses findet sich bei ihnen vor</i> <ls n='ŚAT. BR.'>14, 4, 3, 29</ls> (= <ls>BṚH. ĀR. UP. 1, 5, 20.</ls>) अमो नामास्यमा हि ते सर्वमिदम् <ls>CHĀND. UP. 5, 2, 6.</ls> <ls>KAUŚ. 3.</ls> In Verbindung mit कर् <is>gaṇa</is> साक्षादादि (s. <ls>P. 1, 4, 74.</ls>): <i>zu sich nehmen, bei sich haben</i>: अ\\मा कृ\\त्वा पा\\प्मान^म् <ls>AV. 4, 18, 3.</ls> अ\\मा घृ\\तं कृ^णुते <ls n='AV.'>11, 5, 15.</ls> नो हामाकुर्वीत सिंही हैवैनं भूत्वा क्षिणोति । नो हान्यस्मै दद्यात् <ls>ŚAT. BR. 3, 5, 1, 25.</ls> <ls>ĀŚV. ŚR. 6, 10.</ls> <ls>GṚHY. 4, 3.</ls> Vgl. अमात्, अमोत . <div n='1'>— 2) <i>zusammen, gemeinschaftlich</i> <ls>AK. 3, 4, 32 (COL. 28), 11.</ls> <ls>H. 1527.</ls> <ls>P. 3, 1, 122</ls>, <ls>Sch.</ls> <ls>VOP. 26, 11.</ls> Vgl. अमावस्या ."
+        },
+        {
+            "word": "अमा",
+            "eid": "5114",
+            "pagenum": 1,
+            "content": "2. अमा¦ = अमावस्या <ls>TRIK. 1, 1, 107.</ls> <ls>H. 150.</ls> अमायां च सदा सोम ओषधीः प्रतिपद्यते <ls>VYĀSA</ls> bei <ls>MALLIN.</ls> zu <ls>RAGH. 14, 80.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अमा",
+            "eid": "6371",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> अमा/¦ 2〉 <i>zusammen mit</i> (<ab>Instr.</ab>) <ls>BHADRAB. 1,52</ls>."
+        },
+        {
+            "word": "अमा",
+            "eid": "12439",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> अमा/¦ I. 5."
+        }
     ]
 }

@@ -34,5 +34,55 @@
             "pagenum": 719,
             "content": "Sirasya¦ <i>(II) m.</i> Clean hair."
         }
+    ],
+    "MW": [
+        {
+            "word": "शिरस्य",
+            "eid": "217150",
+            "pagenum": 1072,
+            "content": "<hom>1.</hom> शिरस्य ¦ <ab>Nom.</ab> <ab>P.</ab> °यति = शिर इच्छति, <ls>Pāṇ. vi, 1, 61</ls>, <ab>Sch.</ab><info verb='nom' cp='P'/>"
+        },
+        {
+            "word": "शिरस्य",
+            "eid": "217151",
+            "pagenum": 1072,
+            "content": "<hom>2.</hom> शिरस्य ¦ <lex>mfn.</lex> = शिर इव <ab>g.</ab> SAKA<srs/>di<info lex='m:f:n'/>"
+        },
+        {
+            "word": "शिरस्य",
+            "eid": "217152",
+            "pagenum": 1072,
+            "content": "¦ belonging to or being on the head (= शीर्षण्य), <ls>Pāṇ. vi, 1, 61</ls>, <ab>Vārtt.</ab> 2, <ls>Pat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शिरस्य",
+            "eid": "217153",
+            "pagenum": 1072,
+            "content": "शिरस्य ¦ <lex>m.</lex> ‘the hair of the head’, or ‘clean hair’, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शिरस्य",
+            "eid": "46715",
+            "pagenum": 1006,
+            "content": "<i>Śirasya, as, ā, am,</i>¦ belonging to the head, being on the head; (<i>as</i>), m. clean or unentangled hair (<i>= śīrṣaṇya</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शिरस्य",
+            "eid": "112353",
+            "pagenum": 6,
+            "content": "*शिरस्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> = शिर इव. <div n='1'>— 2〉 <lex>m.</lex> <i>Kopfhaar und sauberes <ab n='Haupt'>H.</ab></i>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शिरस्य",
+            "eid": "99449",
+            "pagenum": 7,
+            "content": "शिरस्य/¦ <lex>adj.</lex> = शिर इव <is>gaṇa</is> शाखादि zu <ls>P. 5, 3, 103.</ls> शिरस्याः केशाः <ls>P. 6, 1, 61</ls>, <is>Vārtt</is>. 1. शीर्षण्यशिरस्यौ विशदे कचे <ls>AK. 2, 6, 2, 49.</ls> <ls>H. 570.</ls>"
+        }
     ]
 }

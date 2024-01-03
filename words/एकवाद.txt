@@ -7,5 +7,35 @@
             "pagenum": 125,
             "content": "एकवाद¦ <i>ekavāda</i> <ab>m.</ab> <i>(vād)</i> sorte de tambour <lbinfo n='4'/> pour orchestre."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकवाद",
+            "eid": "39577",
+            "pagenum": 229,
+            "content": "एक—वाद ¦ <lex>m.</lex> a kind of drum, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "एकवाद",
+            "eid": "39578",
+            "pagenum": 229,
+            "content": "¦ (with <s1 slp1='vedAntin'>Vedāntin</s1>s) a particular theory (establishing the identity of all objects with <s1 slp1='brahman'>Brahman</s1>), <ls>T.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकवाद",
+            "eid": "21935",
+            "pagenum": 1,
+            "content": "*एकवाद¦ <lex>m.</lex> <i>eine Art Trommel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकवाद",
+            "eid": "13353",
+            "pagenum": 1,
+            "content": "एकवाद¦ (एक + वाद) <lex>m.</lex> <i>eine Art Trommel</i> (s. डिण्डिम) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

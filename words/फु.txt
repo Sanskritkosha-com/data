@@ -7,5 +7,43 @@
             "pagenum": 785,
             "content": "फुः¦ <b>1</b> A magical formula. <b>--2</b> An idle talk."
         }
+    ],
+    "MW": [
+        {
+            "word": "फु",
+            "eid": "142190",
+            "pagenum": 718,
+            "content": "फु ¦ <lex>m.</lex> a magical formula, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "फु",
+            "eid": "142191",
+            "pagenum": 718,
+            "content": "¦ useless or idle talk, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "फु",
+            "eid": "34309",
+            "pagenum": 670,
+            "content": "फु¦ <i>phu, us,</i> m. a magical formula; useless or idle talk."
+        }
+    ],
+    "PW": [
+        {
+            "word": "फु",
+            "eid": "75528",
+            "pagenum": 4,
+            "content": "*फु¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Zauberformel</i>. <div n='1'>— 2〉 <i>leeres Geschwätz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "फु",
+            "eid": "51624",
+            "pagenum": 4,
+            "content": "फु¦ <lex>m.</lex> <div n='1'> 1) <i>Zauberformel</i> (मन्त्रक). <div n='1'>— 2) <i>leeres Geschwätz</i> (तुच्छवाक्य) <ls>VIŚVA</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

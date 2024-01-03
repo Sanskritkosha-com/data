@@ -13,5 +13,33 @@
             "pagenum": 251,
             "content": "आयत्¦ {c1c} <ab>A.</ab> <b>1</b> To strive, <lbinfo n='en+deavour'/> endeavour. <b>--2</b> To rest or depend on, rest with (with <ab>loc.</ab>); वयं <lbinfo n='tvayyA#yatAmahe'/> त्वय्यायतामहे <ls>Mv. 1. 49</ls>, <ls n='Mv.'>3. 34</ls>; <ls>Dk. 42.</ls> <b>--3</b> To arrive, come to, reach, dwell (<ab>Ved.</ab>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "आयत्",
+            "eid": "25708",
+            "pagenum": 148,
+            "content": "<hom>1.</hom> आयत् ¦ <lex>mfn.</lex> (<ab>p.</ab> <ab>pres.</ab>) coming near to.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "आयत्",
+            "eid": "25728",
+            "pagenum": 148,
+            "content": "<hom>2.</hom> आ-√ यत् ¦ <ab>P.</ab> (2. <ab>du.</ab> आ/-यतथस्) <ab>Ā.</ab> (3. <ab>pl.</ab> आ-यतन्ते) to arrive, enter; <div n='to'/>to adhere, abide; <div n='to'/>to attain to, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <div n='to'/>to rest on, depend on; <div n='to'/>to be at the disposition of <ls>MBh.</ls>; <ls>R.</ls>; <ls>Mn.</ls>; <ls>Megh.</ls> &c.; <div n='to'/>to make efforts, <ls>R.</ls>; <ls>BhP.</ls> : <div n='vp'/><ab>Caus.</ab> -यातयति, to cause to arrive at or reach, <ls>ŚBr.</ls>; <ls>AitBr.</ls><info verb='pre' cp='PĀ' parse='A+yat'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आयत्",
+            "eid": "8977",
+            "pagenum": 126,
+            "content": "1. <i>ā-yat, an, atī, at,</i>¦ coming, approaching. <i>—Āyatī-</i> <i>gavam,</i> ind. at the time when the cows come home. <i>—Āyad-vasu, us, us, u,</i> Ved. one to whom goods come."
+        },
+        {
+            "word": "आयत्",
+            "eid": "8986",
+            "pagenum": 126,
+            "content": "आयत् 2¦. <i>ā-yat,</i> cl. 1. A. <i>-yatate, -titum,</i> to make effort; to rest on, to depend on, to have the upper hand (?)."
+        }
     ]
 }

@@ -25,5 +25,27 @@
             "pagenum": 3,
             "content": "मन्त्रपाठ¦ (?) vaid. AS p. 137."
         }
+    ],
+    "MW": [
+        {
+            "word": "मन्त्रपाठ",
+            "eid": "157315",
+            "pagenum": 786,
+            "content": "मन्त्र—पाठ ¦ <lex>m.</lex> the recitation of a <ab n='sacred'>s°</ab> <ab n='text'>t°</ab>, <ls>KātyŚr.</ls>, <ab>Sch.</ab><info lex='m'/>"
+        },
+        {
+            "word": "मन्त्रपाठ",
+            "eid": "157316",
+            "pagenum": 786,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मन्त्रपाठ",
+            "eid": "83106",
+            "pagenum": 5,
+            "content": "मन्त्रपाठ¦ <lex>m.</lex> <i>die Recitation eines heiligen Spruches</i> <ls>Comm. zu KĀTY. ŚR. 1,5,7. 9,5,11</ls>."
+        }
     ]
 }

@@ -15,5 +15,43 @@
             "pagenum": 173,
             "content": "कुरल¦ <i>kurala</i> <ab>m.</ab> haliæetus. || Boucle de cheveux; <ab>angl.</ab> curl; || <ab>cf.</ab> <i>kurula.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "कुरल",
+            "eid": "52698",
+            "pagenum": 293,
+            "content": "कुरल ¦ <lex>m.</lex> an osprey, <ls>AV.Pariś.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कुरल",
+            "eid": "52699",
+            "pagenum": 293,
+            "content": "¦ = कुरुल, <ab>q.v.</ab>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कुरल",
+            "eid": "15274",
+            "pagenum": 239,
+            "content": "कुरल¦ <i>kurala, as,</i> m. an osprey [cf. <i>kurara</i>]; a curl, a lock of hair upon the forehead."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुरल",
+            "eid": "29002",
+            "pagenum": 2,
+            "content": "कुरल¦ <lex>m.</lex> <div n='1'>— 1〉 = कुरर 1〉a〉 <ls>AV. PARIŚ. 71,24</ls>. <div n='1'>— 2〉 *= कुरुल."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुरल",
+            "eid": "17965",
+            "pagenum": 2,
+            "content": "कुरल¦ <lex>m.</lex> <div n='1'> 1) = कुरर <i>Meeradler.</i> <div n='1'>— 2) = कुरुल <i>Haarlocke an der Stirn</i> <ls>DHAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

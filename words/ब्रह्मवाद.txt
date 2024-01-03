@@ -35,5 +35,47 @@
             "pagenum": 298,
             "content": "ब्रह्मवाद/¦ <i>m.</i> die Rede <i>o.</i> Lehre vom Heiligen; °वादि/न् dass. kennend, heiliger Weisheit <lbinfo n='4'/> voll."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्मवाद",
+            "eid": "147004",
+            "pagenum": 739,
+            "content": "ब्रह्म—वाद/ ¦ <lex>m.</lex> discourse on or explanation of sacred texts, <ls>TBr.</ls>; <ls>BhP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ब्रह्मवाद",
+            "eid": "147005",
+            "pagenum": 739,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='nyAya'>Nyāya</s1> <ab>wk.</ab> (also °dA<srs/>rTa, <lex type='phw'>m.</lex>)<info phwchild='147006.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "ब्रह्मवाद",
+            "eid": "147006",
+            "pagenum": 739,
+            "content": "ब्रह्म—वाद/ ¦ <lex>mfn.</lex> (<ab>m.c.</ab>) = next, <ls>Hariv.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्मवाद",
+            "eid": "78052",
+            "pagenum": 4,
+            "content": "ब्रह्मवाद/¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>Rede vom Heiligen</i>. <div n='2'>— b〉 Titel eines <is>Nyāya</is>-Werkes. <div n='1'>— 2〉 <lex>Adj.</lex> metrisch für °वादिन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्मवाद",
+            "eid": "53496",
+            "pagenum": 5,
+            "content": "ब्रह्मवाद/¦ (1. ब्रह्मन् + वाद) <div n='1'> 1) <lex>m.</lex> <i>Rede vom Heiligen</i>: दे\\वाना^ं ब्रह्मवा\\दं वद^ता\\ं यदु\\पोशृ^णोः <ls>TBR. 1, 2, 1, 6.</ls> बृहस्पतिर्ब्रह्मवादे <ls>BHĀG. P. 4, 22, 62. 5, 3, 17</ls> <i>(la parole des Brahmanes</i> <ls>BURN.</ls>). = श्रुतादान <ls>HĀR. 221.</ls> <div n='1'>— 2) <lex>adj.</lex> = ब्रह्मवादिन्. ब्राह्मणैर्ब्रह्मवादैश्च पुराणो ऽयं गीयते <ls>HARIV. 4382.</ls>"
+        },
+        {
+            "word": "ब्रह्मवाद",
+            "eid": "80029",
+            "pagenum": 5,
+            "content": "ब्रह्मवाद¦ <div n='1'> 1) <ls>BHĀG. P. 10, 87, 8. 10.</ls>"
+        }
     ]
 }

@@ -15,5 +15,35 @@
             "pagenum": 350,
             "content": "dvi-rasana¦ <i>m.</i> a snake."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विरसन",
+            "eid": "98637",
+            "pagenum": 505,
+            "content": "द्वि—रसन ¦ <lex>mfn.</lex> double tongued.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विरसन",
+            "eid": "98638",
+            "pagenum": 505,
+            "content": "द्वि—रसन ¦ <lex>m.</lex> snake, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विरसन",
+            "eid": "54056",
+            "pagenum": 3,
+            "content": "द्विरसन¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>zweizüngig</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Schlange</i> <ls>Ind. St. 15,269</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विरसन",
+            "eid": "35791",
+            "pagenum": 3,
+            "content": "द्विरसन¦ (द्वि + रसना) <div n='1'> 1) <lex>adj.</lex> <i>zweizüngig.</i> <div n='1'>— 2) <lex>m.</lex> <i>Schlange</i> <ls>TRIK. 1, 2, 5.</ls> <ls>HĀR. 15.</ls>"
+        }
     ]
 }

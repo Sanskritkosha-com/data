@@ -7,5 +7,43 @@
             "pagenum": 441,
             "content": "खट्टाशः --शी¦ The civet-cat."
         }
+    ],
+    "MW": [
+        {
+            "word": "खट्टाश",
+            "eid": "60951",
+            "pagenum": 335,
+            "content": "KawwA<srs/>Sa ¦ <lex>m.</lex> ‘eating sour food’ (?), the civet or zebet cat (<bio>Viverra Zibetha</bio>), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खट्टाश",
+            "eid": "16675",
+            "pagenum": 272,
+            "content": "खट्टाश¦ <i>khaṭṭāśa, as,</i> m. the civet or zebet cat, Viverra Zibetha; (<i>ī</i>), f. the same or (according to another authority) a different animal; (some write the word <i>khaṭṭāsa.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खट्टाश",
+            "eid": "33256",
+            "pagenum": 2,
+            "content": "*खट्टाश <lex>m.</lex>, *°शी <lex>f.</lex> (<ls>Mat. med. 15</ls>) und *खट्टास <lex>m.</lex>¦ <i>Zibethkatze oder ein anderes Thier</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खट्टाश",
+            "eid": "20827",
+            "pagenum": 2,
+            "content": "खट्टाश¦ <lex>m.</lex> <i>Zibethkatze</i> <ls>TRIK. 2, 5, 10.</ls> खट्टास <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> खट्टाशी <lex>f.</lex> dass. <ls>ŚABDAR. ebend.</ls>; nach <ls>TRIK. 2, 5, 9</ls> <i>ein anderes Thier.</i>"
+        },
+        {
+            "word": "खट्टाश",
+            "eid": "72228",
+            "pagenum": 5,
+            "content": "खट्टाश¦ <ls>H. an. 3, 594.</ls> <ls>MED. r. 205.</ls>"
+        }
     ]
 }

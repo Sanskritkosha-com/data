@@ -31,5 +31,55 @@
             "pagenum": 633,
             "content": "<b>Saugandha</b>,¦ name of a caste: XIII, 2584."
         }
+    ],
+    "MW": [
+        {
+            "word": "सौगन्ध",
+            "eid": "253324",
+            "pagenum": 1252,
+            "content": "सौगन्ध ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> सु-गन्ध) possessing a fragrant odour, sweet-scented, fragrant, <ls>MW.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "सौगन्ध",
+            "eid": "253325",
+            "pagenum": 1252,
+            "content": "सौगन्ध ¦ <lex>m.</lex> a dealer in perfumes, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सौगन्ध",
+            "eid": "253326",
+            "pagenum": 1252,
+            "content": "सौगन्ध ¦ <lex>n.</lex> fragrance, <ls>W.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सौगन्ध",
+            "eid": "253327",
+            "pagenum": 1252,
+            "content": "¦ a <ab>partic.</ab> fragrant grass (= कत्-तृण), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सौगन्ध",
+            "eid": "52815",
+            "pagenum": 1138,
+            "content": "सौगन्ध¦ <i>saugandha, as, ī, am,</i> (fr. <i>su-gan-</i> <i>dha</i>), possessing a fragrant odour, sweet-scented, fragrant; (<i>am</i>), n. sweet-scentedness, fragrance; a particular fragrant grass (<i>= kat-tṛṇa</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सौगन्ध",
+            "eid": "129846",
+            "pagenum": 7,
+            "content": "सौगन्ध¦ <div n='1'>— 1〉 <lex>m.</lex> <i>eine <ab>best.</ab> Mischlingskaste (Händler mit Wohlgerüchen)</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>ein <ab>best.</ab> wohlriechendes Gras</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सौगन्ध",
+            "eid": "113091",
+            "pagenum": 7,
+            "content": "सौगन्ध¦ (von 1. सगुन्ध) <div n='1'> 1) <lex>m.</lex> <i>eine best. Mischlingskaste (Händler mit Wohlgerüchen</i>) <ls>MBH. 13, 2584.</ls> <div n='1'>— 2) <lex>n.</lex> <i>ein best. wohlriechendes Gras</i>, = कत्तृण <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

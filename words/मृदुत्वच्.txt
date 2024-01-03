@@ -7,5 +7,35 @@
             "pagenum": 583,
             "content": "mfdu-tvac¦ <i>m.</i> a kind of birch tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "मृदुत्वच्",
+            "eid": "167329",
+            "pagenum": 830,
+            "content": "मृदु—त्वच् ¦ <lex>m.</lex> <bot>Betula Bhojpatra</bot>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मृदुत्वच्",
+            "eid": "167330",
+            "pagenum": 830,
+            "content": "¦ <bot>Saccharum Munja</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मृदुत्वच्",
+            "eid": "88474",
+            "pagenum": 5,
+            "content": "*मृदुत्वच्¦ <lex>m.</lex> <i><bot>Betula Bhojpatra</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मृदुत्वच्",
+            "eid": "61722",
+            "pagenum": 5,
+            "content": "मृदुत्वच्¦ oder °त्वच (मृदु + त्वच्) <lex>m.</lex> <i>eine Art Birke</i> (भूर्ज) <ls>AK. 2, 4, 2, 26.</ls>"
+        }
     ]
 }

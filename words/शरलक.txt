@@ -23,5 +23,37 @@
             "pagenum": 710,
             "content": "Saralaka¦ <i>n.</i> Water."
         }
+    ],
+    "MW": [
+        {
+            "word": "शरलक",
+            "eid": "213803",
+            "pagenum": 1057,
+            "content": "शरलक ¦ <lex>n.</lex> water, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शरलक",
+            "eid": "46203",
+            "pagenum": 995,
+            "content": "<i>Śaralaka, am,</i>¦ n. water."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शरलक",
+            "eid": "110615",
+            "pagenum": 6,
+            "content": "*शरलक¦ <lex>n.</lex> <i>Wasser</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शरलक",
+            "eid": "98106",
+            "pagenum": 7,
+            "content": "शरलक¦ <lex>n.</lex> <i>Wasser</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -7,5 +7,43 @@
             "pagenum": 656,
             "content": "हञ्जिका¦ <lex>f.</lex> maid-servant."
         }
+    ],
+    "MW": [
+        {
+            "word": "हञ्जिका",
+            "eid": "260224",
+            "pagenum": 1286,
+            "content": "हञ्जिका ¦ <lex>f.</lex> a female attendant, chamber-maid (-त्व <lex type='phw'>n.</lex>), <ls>KāśīKh.</ls><info phwchild='260225.1'/><info lex='f'/>"
+        },
+        {
+            "word": "हञ्जिका",
+            "eid": "260225",
+            "pagenum": 1286,
+            "content": "¦ <bot>Clerodendrum Siphonantus</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हञ्जिका",
+            "eid": "53855",
+            "pagenum": 1164,
+            "content": "हञ्जिका¦ <i>hañjikā,</i> f. (probably) a kind of plant (<i>= bhārgī</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "हञ्जिका",
+            "eid": "133382",
+            "pagenum": 7,
+            "content": "हञ्जिका¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Dienen</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>KĀŚĪKH. 51,3</ls>. <div n='1'>— 2〉 <i><bot>Clerodendrum siphonanthus</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हञ्जिका",
+            "eid": "115935",
+            "pagenum": 7,
+            "content": "हञ्जिका¦ <lex>f.</lex> <i>Clerodendrum Siphonanthus R. Br.</i> <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

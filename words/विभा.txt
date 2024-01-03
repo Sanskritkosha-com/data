@@ -82,5 +82,69 @@
             "pagenum": 670,
             "content": "viBA¦ <i>f.</i> 1. Light, lustre; 2. beauty; 3. a ray of light."
         }
+    ],
+    "MW": [
+        {
+            "word": "विभा",
+            "eid": "198263",
+            "pagenum": 977,
+            "content": "<hom>1.</hom> वि-√ भा ¦ <ab>P.</ab> -भाति, to shine or gleam forth, come to light, become visible, appear, <ls>RV.</ls> &c. &c.; <div n='to'/>to shine upon, illumine, <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh.</ls>; <div n='to'/>to procure light <ab>i.e.</ab> to kindle (fire <ab>dat.</ab>), <ls>RV. i, 71, 6</ls>; <div n='to'/>to shine brightly, glitter, be resplendent or beautiful, strike or catch the eye, excel by (<ab>instr.</ab>), <ls>RV.</ls> &c. &c.; <div n='to'/>to strike the ear, be heard (as sound), <ls>MBh.</ls>; <div n='to'/>to seem or appear as, look like (<ab>nom.</ab> with or without इव, or <ab>adv.</ab> in -वत्), <ls>RV.</ls>; &c.<info verb='pre' cp='P' parse='vi+BA'/>"
+        },
+        {
+            "word": "विभा",
+            "eid": "198264",
+            "pagenum": 977,
+            "content": "<hom>2.</hom> वि-भा/ ¦ <lex>mfn.</lex> shining, bright, <ls>RV.</ls>; <ls>ŚāṅkhŚr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विभा",
+            "eid": "198265",
+            "pagenum": 977,
+            "content": "वि-भा/ ¦ <lex>f.</lex> light, lustre, splendour, beauty, <ls>Śiś.</ls>; <ls>Sāh.</ls><info lex='f'/>"
+        },
+        {
+            "word": "विभा",
+            "eid": "198266",
+            "pagenum": 977,
+            "content": "¦ <ab>N.</ab> of the city of <s1 slp1='soma'>Soma</s1>, <ls>VP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विभा",
+            "eid": "43434",
+            "pagenum": 930,
+            "content": "विभा 1¦. <i>vi-bhā,</i> cl. 2. P. <i>-bhāti, -bhātum,</i> to shine or gleam forth; to shine brightly, glitter; to appear as, appear to be, seem; to come to light, be visible, appear; to lighten up, illuminate, brighten."
+        },
+        {
+            "word": "विभा",
+            "eid": "43435",
+            "pagenum": 930,
+            "content": "2. <i>vi-bhā,</i>¦ f. light, lustre; a ray of light; beauty. <i>—Vibhā-kara, as,</i> m. ‘light-maker,’ the sun; fire; N. of a kind of plant or tree (<i>= arka, citraka</i>). <i>—Vibhā-vas, ān,</i> m. (a doubtful word), the sun (?). <i>—Vibhā-vasu, us, us, u,</i> abounding in light, (Sāy. <i>dīpti-rocana</i>); (<i>us</i>), m. the sun, fire; the moon; a sort of necklace or garland; N. of a Gandharva (who is said to have stolen the Soma from Gāyatrī as she was carrying it to the gods). <i>—Vibhā-sāh, ṭ,</i> <i>ṭ, ṭ,</i> Ved. splendor-surpassing."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "विभा",
+            "eid": "12977",
+            "pagenum": 3,
+            "content": "<i>Vibhā (varī)</i> (I)¦ — the city of Varuṇa, entered by Hiraṇyakaśipu;<sup>1</sup> sun sets here when it is mid-day in Amarāvatī, and rises when it is mid-day in Saumyakam.<sup>2</sup> <F>1) Bhā. III. 17. 26.</F> <F>2) Br. II. 21. 33-9.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विभा",
+            "eid": "103608",
+            "pagenum": 6,
+            "content": "विभा/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>scheinend</i>. <div n='1'>— 2〉 <lex>f.</lex> <div n='2'>— a〉 <i>Licht, Glanz</i> <ls>ŚIŚ. 19,86</ls>. <div n='2'>— b〉 <i>Pracht, Schönheit</i>. <div n='2'>— c〉 <ab>N. pr.</ab> der Stadt <is>Soma</is>ʼs <ls>VP. 22,240</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विभा",
+            "eid": "92441",
+            "pagenum": 6,
+            "content": "विभा/¦ (1. भा mit वि) <div n='1'> 1) <lex>adj.</lex> <i>scheinend</i>: यदु^ष\\ औच्छ^ः प्रथ\\मा वि\\भाना^म् <ls>ṚV. 10, 55, 4.</ls> भा विभा उषाः स्वर्ज्योतिः <ls>ŚĀṄKH. ŚR. 7, 9, 6.</ls> <div n='1'>— 2) <lex>f.</lex> <div n='2'> a) <i>Licht, Lichtstrahl</i> <ls>H. 100.</ls> <ls>HALĀY. 1, 38.</ls> <div n='2'>— b) <i>Glanz, Schönheit</i> <ls>SĀH. D. 277, 10.</ls> <ls>NALOD. 1, 48.</ls>"
+        }
     ]
 }

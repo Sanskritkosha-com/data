@@ -39,5 +39,61 @@
             "pagenum": 325,
             "content": "<i>śu</i>¦ (IE 8-1; CII 3; LP), abbreviation of <i>śukla-pakṣa</i> or <i>śuddha-pakṣa</i> or the bright fortnight; a day of the bright half of the month; used in connection with <i>di</i> (e. g. <i>śu-di</i>), but sometimes by itself; often written as <i>su.</i> Cf. <i>ba-di.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "शु",
+            "eid": "218744",
+            "pagenum": 1079,
+            "content": "<hom>1.</hom> शु ¦ <ab>cl.</ab> 1. <ab>P.</ab> शवति, to go &c.; <div n='vp'/> <ab>cf.</ab> √ शव्, <pcol>p. 1059, col. 3</pcol>.<info verb='root' cp='1P'/>"
+        },
+        {
+            "word": "शु",
+            "eid": "218745",
+            "pagenum": 1079,
+            "content": "<hom>2.</hom> शु ¦ <lex>ind.</lex> (<ab>g.</ab> स्वर्-आदि) quickly, swiftly (= क्षिप्रम्), <ls>Naigh. ii, 15.</ls><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शु",
+            "eid": "46831",
+            "pagenum": 1011,
+            "content": "शु 1¦. <i>śu,</i> a form assumed by rt. <i>śvi,</i> cf. rt. <i>śav.</i>"
+        },
+        {
+            "word": "शु",
+            "eid": "46832",
+            "pagenum": 1011,
+            "content": "शु 2¦. <i>śu,</i> ind. (perhaps connected with <i>su</i> or with <i>āśu</i>), well, right, brilliantly, elegantly; quickly (<i>= kṣipram,</i> Sāy. on Ṛg-veda III. 33, 1)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शु",
+            "eid": "113163",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> *√शु¦, श/वति (गतिकर्मन्, विकारे, व्रजे)."
+        },
+        {
+            "word": "शु",
+            "eid": "113164",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *शु/¦ <lex>Adv.</lex> = क्षिप्रम्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शु",
+            "eid": "100069",
+            "pagenum": 7,
+            "content": "1. शु¦, श/वति (गतिकर्मन्) <ls>NAIGH. 2, 14.</ls> <ls>DHĀTUP. 17, 76</ls> (शव् गतौ; विकारे व्रजे <ls>VOP.</ls>). <ls n='DHĀTUP.'>22, 42, v. l.</ls> bei den <is>Kamboja</is> gebraucht <ls>NIR. 2, 2. 3, 18. 4, 13.</ls> Hierher (oder zu श्वा = श्वि; vgl. <ls>TBR. 1, 1, 5, 4.</ls> oder zu श्वस्) die Form अश्वत् zur Erklärung von अश्व <i>Pferd</i>: ततो ऽश्वः समभवद्यदश्वत्तन्मेध्यमभूत् <ls>ŚAT. BR. 10, 6, 5, 7.</ls>"
+        },
+        {
+            "word": "शु",
+            "eid": "100070",
+            "pagenum": 7,
+            "content": "2. शु¦ adv. <is>gaṇa</is> स्वरादि zu <ls>P. 1, 1, 37.</ls> so v. a. क्षिप्रम् <ls>NAIGH. 2, 15.</ls> Zu Etymologien gebraucht."
+        }
     ]
 }

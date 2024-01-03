@@ -39,5 +39,51 @@
             "pagenum": 405,
             "content": "paWana¦ <i>n.</i> 1. Reading; 2. mentioning; 3. studying."
         }
+    ],
+    "MD": [
+        {
+            "word": "पठन",
+            "eid": "11041",
+            "pagenum": 150,
+            "content": "पठन¦ paṭh-ana, <lex>n.</lex> reciting; studying, reading; 🞄mentioning; <b>-anīya,</b> <ab>fp.</ab> to be read."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पठन",
+            "eid": "114531",
+            "pagenum": 580,
+            "content": "पठन ¦ <lex>n.</lex> reciting, reading, studying, mentioning, <ls>Kāv.</ls>; <ls>Pur.</ls>, <ab>Sch.</ab>; <ls>Cat.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पठन",
+            "eid": "26800",
+            "pagenum": 526,
+            "content": "<i>Paṭhana, am,</i>¦ n. the act of reciting or reading, mentioning."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पठन",
+            "eid": "62357",
+            "pagenum": 4,
+            "content": "पठन¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Hersagen</i>. <div n='1'>— 2〉 <i>das Studiren, Lesen</i>. <div n='1'>— 3〉 <i>das Erwähnen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पठन",
+            "eid": "41712",
+            "pagenum": 4,
+            "content": "पठन¦ (wie eben) <lex>n.</lex> <i>das Hersagen</i> <ls>DEV. 12, 18.</ls> <ls>MĀRK. P. 51, 26. 70, 21.</ls> <i>das Lesen</i>: पुराणपठनैः <ls>Spr. 664.</ls> शास्त्र° <ls>Verz. d. Oxf. H. 91,a,5.</ls> als Erklärung von समाम्नाय <i>Erwähnung</i> <ls>Schol.</ls> zu <ls>JAIM. 1, 25.</ls>"
+        },
+        {
+            "word": "पठन",
+            "eid": "77893",
+            "pagenum": 5,
+            "content": "पठन¦, पठनाधिनाथ <i>ein Meister im Lesen, Studiren</i> <ls>Verz. d. Oxf. H. 166,b,14.</ls>"
+        }
     ]
 }

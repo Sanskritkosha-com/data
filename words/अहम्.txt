@@ -77,5 +77,69 @@
             "pagenum": 89,
             "content": "aham¦ <i>-----------------</i> (nom. sing. of the first personal pronoun.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "अहम्",
+            "eid": "3324",
+            "pagenum": 36,
+            "content": "अहम्¦ ahám, <lex>prn.</lex> I: <b>so'ham,</b> I here; I 🞄being such; <b>-ahamikā,</b> <lex>f.</lex> claim of precedence; 🞄<b>-uttará,</b> <lex>n.</lex>, (<b>m</b>) <b>-pūrvikā,</b> <lex>f.</lex>, (<b>m</b>) <b>-prathamikā,</b> <lex>f.</lex> <ab>id.</ab>"
+        }
+    ],
+    "MW": [
+        {
+            "word": "अहम्",
+            "eid": "21659",
+            "pagenum": 124,
+            "content": "अह/म् ¦ <ab>nom.</ab> <ab>sg.</ab>, ‘I’, <ls>RV.</ls> &c.<info lexcat='LEXID=pron,STEM=asmad'/>"
+        },
+        {
+            "word": "अहम्",
+            "eid": "21660",
+            "pagenum": 124,
+            "content": "¦ = अहंकरण, <ab>q.v.</ab>, (hence declinable <ab>gen.</ab> अहमस्, &c.), <ls>BhP.</ls>"
+        },
+        {
+            "word": "अहम्",
+            "eid": "21660.05",
+            "pagenum": 124,
+            "content": "अहम् ¦ [<ab>Zd.</ab> <etym>azem</etym>; <ab>Gk.</ab> <lang n='greek'>ἐγώ</lang>; <ab>Goth.</ab> <etym>ik</etym>; <ab>Mod. Germ.</ab> <etym>ich</etym>; <ab>Lith.</ab> <etym>asz</etym>; <ab>Slav.</ab> <etym>az</etym>]."
+        },
+        {
+            "word": "अहम्",
+            "eid": "21678",
+            "pagenum": 124,
+            "content": "अहं ¦ (in <ab>comp.</ab> for अह/म्)."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अहम्",
+            "eid": "7741",
+            "pagenum": 109,
+            "content": "अहम्¦ <i>aham,</i> nom. sing. ‘I.’ The supposed base of this 1st personal pronoun is <i>asmad,</i> q. v. [cf. Zend <nsi>azem;</nsi> Gr. <lang n='greek'>ἐγών, ἐγώ, ἱών;</lang> Lat. <nsi>ego;</nsi> Goth. <nsi>ik;</nsi> Mod. Germ. <nsi>ich;</nsi> Lith. <nsi>asz;</nsi> Slav. <nsi>az;</nsi> Cambrobrit. <nsi>ym;</nsi> Bret. <nsi>am, em</nsi>]."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अहम्",
+            "eid": "13120",
+            "pagenum": 1,
+            "content": "अह/म्¦ <div n='1'>— 1〉 <ab>Nom.</ab> <ab>Sg.</ab> <i>ich</i>. सोऽहम् so <ab>v. a.</ab> <i>ich, wie ich hier vor dir</i> <ab>u. s. w.</ab> <i>stehe,</i> <ls n='Chr.'>50,10. 55,20</ls>. <div n='1'>— 2〉 <i>das Ich</i> <ls>PIṆḌOP. 3</ls>. <div n='1'>— 3〉 <i>die Meinung, dass man Ich sei</i>. <ab>Gen.</ab> अहमस् <ab>Loc.</ab> अहमि. <div n='p'>— Mit कर् <i>sich für Ich halten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अहम्",
+            "eid": "7632",
+            "pagenum": 1,
+            "content": "अहम्¦ nom. sg. <i>ich</i> <ls>ṚV. 10, 125, 1.</ls> fgg. <ls n='ṚV. 10,'>48, 1.</ls> fgg. अहमिति हन्ति पाप्मानं जहाति च <ls>ŚAT. BR. 14, 8, 6, 5</ls> = <ls>BṚH. ĀR. UP. 5, 5, 4.</ls> Auf dieselbe spielende Weise wird ebend. 3 अहर् erklärt. — Ueber die übrigen casus des sg. s. u. म ."
+        },
+        {
+            "word": "अहम्",
+            "eid": "65993",
+            "pagenum": 5,
+            "content": "अहम्¦ scheinbar mit der 3ten Person construirt: तस्मात्तव वधार्थं हि समुत्पत्स्यत्यहं (wohl समुत्पत्स्ये ह्यहं zu lesen) पुनः <ls>R. 7, 17, 31.</ls> समुत्पस्यति = समुत्पत्स्ये Schol. अहम् = अहंकार <i>Selbstgefühl, die Meinung, dass man Ich</i> <ab>d. i.</ab> <i>Subject sei</i>: अहमि च प्रसुप्ते <ls>BHĀG. P. 11, 3, 39.</ls> अहमः संसृतिरूपिणः <ls n='BHĀG. P.'>23, 56.</ls> यन्नागादहमो भावम् <ls n='BHĀG. P.'>12, 8, 30.</ls> अहंरहित <ls n='BHĀG. P.'>10, 38, 11.</ls> इन्द्रियैरिन्द्रियार्थेषु गुणैरपि गुणेषु च । गृह्यमाणेष्वहंकुर्यान्न विद्वान्यस्तु <ls n='BHĀG. P.'>11, 11, 9.</ls> <div n='v'>— Vgl. निरहम् ."
+        }
     ]
 }

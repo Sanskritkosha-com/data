@@ -23,5 +23,49 @@
             "pagenum": 729,
             "content": "SOlka¦ <i>m.</i> A superintendent of tolls."
         }
+    ],
+    "MW": [
+        {
+            "word": "शौल्क",
+            "eid": "221903",
+            "pagenum": 1093,
+            "content": "शौल्क ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> शुल्क) relating to tolls or customs or taxes, levied (as a tax &c.), <ls>W.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "शौल्क",
+            "eid": "221904",
+            "pagenum": 1093,
+            "content": "शौल्क ¦ <lex>m.</lex> a superintendent of tolls or customs, custom-house officer, <ls>ib.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शौल्क",
+            "eid": "221905",
+            "pagenum": 1093,
+            "content": "शौल्क ¦ <lex>n.</lex> <ab>N.</ab> of various <s1 slp1='sAman'>Sāman</s1>s, <ls>ĀrṣBr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शौल्क",
+            "eid": "47261",
+            "pagenum": 1022,
+            "content": "शौल्क¦ <i>śaulka, as, ī, am</i> (fr. <i>śulka</i>), relating to tolls or customs or taxes, levied (as a tax &c.); (<i>as</i>), m. a superintendant of tolls or customs, a customhouse officer."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शौल्क",
+            "eid": "114594",
+            "pagenum": 6,
+            "content": "शौल्क¦ <div n='1'>— 1〉 *<lex>m.</lex> <i>Zollaufseher, Steuereinnehmer</i>. <div n='1'>— 2〉 Name verschiedener <is>Sāman</is> <ls>ĀRṢ. BR.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शौल्क",
+            "eid": "101249",
+            "pagenum": 7,
+            "content": "शौल्क¦ (von शुल्क) <div n='1'> 1) <lex>m.</lex> <i>Zollaufseher, Steuereinnehmer</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> <div n='1'>— 2) <lex>n.</lex> N. eines <is>Sāman</is> <ls>Ind. St. 3, 240,b.</ls>"
+        }
     ]
 }

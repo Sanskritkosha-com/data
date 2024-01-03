@@ -7,5 +7,35 @@
             "pagenum": 94,
             "content": "Agantu-ja¦ <i>a.</i> local (as a disease)."
         }
+    ],
+    "MW": [
+        {
+            "word": "आगन्तुज",
+            "eid": "22563",
+            "pagenum": 129,
+            "content": "आ-गन्तु—ज ¦ <lex>mfn.</lex> arising accidentally, <ls>Suśr.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आगन्तुज",
+            "eid": "13621",
+            "pagenum": 1,
+            "content": "आगन्तुज¦ <lex>Adj.</lex> <i>zufällig, entstanden</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आगन्तुज",
+            "eid": "7944",
+            "pagenum": 1,
+            "content": "आगन्तुज¦ (आ° + ज) <lex>adj.</lex> <i>zufällig entstanden</i> <ls>SUŚR. 1, 122, 12.</ls> <ls n='SUŚR.'>2, 61, 8.</ls>"
+        },
+        {
+            "word": "आगन्तुज",
+            "eid": "66141",
+            "pagenum": 5,
+            "content": "आगन्तुज¦ <ls>Verz. d. Oxf. H. 312,a, No. 745, Z. 24.</ls>"
+        }
     ]
 }

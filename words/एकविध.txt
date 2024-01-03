@@ -15,5 +15,41 @@
             "pagenum": 66,
             "content": "ए/कविध¦ einfach, identisch."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकविध",
+            "eid": "39601",
+            "pagenum": 229,
+            "content": "एक—विध ¦ <lex>mfn.</lex> of one kind, simple, <ls>ŚBr.</ls>; <ls>Sāṃkhyak.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकविध",
+            "eid": "39602",
+            "pagenum": 229,
+            "content": "¦ identical, <ls>Sāh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकविध",
+            "eid": "21957",
+            "pagenum": 1,
+            "content": "ए/कविध¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>einfach</i>. <div n='1'>— 2〉 <i>identisch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकविध",
+            "eid": "13365",
+            "pagenum": 1,
+            "content": "ए/कविध¦ (एक + विधा) <lex>adj.</lex> <i>einfach</i>: तद्धैक एकविधं प्रथमं विदधत्यथैकोत्तरमापरिमितविधात् <ls>ŚAT. BR. 10, 2, 3, 17.</ls> <ls>SĀṂKHYAK. 53.</ls>"
+        },
+        {
+            "word": "एकविध",
+            "eid": "68907",
+            "pagenum": 5,
+            "content": "एकविध¦ <i>identisch</i> <ls>SĀH. D. 642.</ls>"
+        }
     ]
 }

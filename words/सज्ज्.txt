@@ -35,5 +35,55 @@
             "pagenum": 671,
             "content": "*सज्ज्¦ <i>sajj.</i> <i>sajjāmi, sajje</i> 1. Aller, se mouvoir. <ab>Cf.</ab> <i>sañc.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "सज्ज्",
+            "eid": "229022",
+            "pagenum": 1131,
+            "content": "<hom>1.</hom> सज्ज् ¦ <ab>cl.</ab> 1. <ab>P.</ab> सज्जति, to go, move, <ls>Dhātup. vii, 22.</ls><info westergaard='zasja,7.22,01.0121'/><info verb='root' cp='1P'/>"
+        },
+        {
+            "word": "सज्ज्",
+            "eid": "229023",
+            "pagenum": 1131,
+            "content": "<hom>2.</hom> सज्ज् ¦ (= √ सञ्ज्; <ab>cf.</ab> सज्जय), <ab>Caus.</ab> सज्जयति, to cling, adhere, fasten or fix or attach to (<ab>loc.</ab>), <ls>Kathās.</ls>; <div n='to'/>to fix (the mind) upon, <ls>BhP.</ls>; <div n='to'/>to cause one's self to be embraced (by other men), <ls>Mn. viii, 362.</ls>"
+        },
+        {
+            "word": "सज्ज्",
+            "eid": "229217.1",
+            "pagenum": 1132,
+            "content": "<hom>1.</hom> सञ्ज् (or सज्ज्), ¦ <ab>cl.</ab> 1. <ab>P.</ab> सञ्जति, सज्जति, to go, move, <ls>Dhātup. vii, 22.</ls><info or='229217,saYj;229217.1,sajj'/><info westergaard='zasja,7.22,01.0121'/><info verb='root' cp='1P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सज्ज्",
+            "eid": "48665",
+            "pagenum": 1049,
+            "content": "सज्ज् 1¦. <i>sajj</i> (also written <i>sañc, sañj</i>), cl. 1. P. A. <i>sajjati, -te,</i> &c., to go, move."
+        },
+        {
+            "word": "सज्ज्",
+            "eid": "48666",
+            "pagenum": 1049,
+            "content": "सज्ज् 2¦. <i>sajj</i> or <i>saj,</i> cl. 1. P. <i>sajjati, sa-</i> <i>jati,</i> &c. = rt. 2. <i>sañj,</i> to cling, adhere; to fasten."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सज्ज्",
+            "eid": "117849",
+            "pagenum": 7,
+            "content": "सज्ज्¦ <ab>s.</ab> सञ्ज् und सज्जय्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सज्ज्",
+            "eid": "103774",
+            "pagenum": 7,
+            "content": "सज्ज्¦ s. सञ्ज् und सज्जय् ."
+        }
     ]
 }

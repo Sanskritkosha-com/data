@@ -21,5 +21,47 @@
             "pagenum": 749,
             "content": "sat-pratipakza¦ <i>m.</i> a counterbalanced <i>hetu</i>, one along with which there exists another equally good on the opposite side, [e.g. (1) sound is eternal because it is audible; (2) sound is non-eternal because it is a product] (in logic)."
         }
+    ],
+    "MW": [
+        {
+            "word": "सत्प्रतिपक्ष",
+            "eid": "229611",
+            "pagenum": 1134,
+            "content": "सत्—प्रतिपक्ष ¦ <lex>mfn.</lex> liable to a valid opposite argument or objection<info lex='m:f:n'/>"
+        },
+        {
+            "word": "सत्प्रतिपक्ष",
+            "eid": "229612",
+            "pagenum": 1134,
+            "content": "सत्—प्रतिपक्ष ¦ <lex>m.</lex> (with or <ab>scil.</ab> हेतु) an argument liable to a valid <ab n='objection'>obj°</ab> (-ता <lex type='phw'>f.</lex>), <ls>Tarkas.</ls>; <ls>Sarvad.</ls>; <ls>Kusum.</ls><info phwchild='229615.13'/><info lex='m'/>"
+        },
+        {
+            "word": "सत्प्रतिपक्ष",
+            "eid": "229613",
+            "pagenum": 1134,
+            "content": "सत्—प्रतिपक्ष ¦ <lex>m.</lex> contrariety of <ab n='argument'>arg°</ab>, existence of opposite premisses proving the existence or non-<ab n='existence'>ex°</ab> of a thing, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सत्प्रतिपक्ष",
+            "eid": "229614",
+            "pagenum": 1134,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सत्प्रतिपक्ष",
+            "eid": "118190",
+            "pagenum": 7,
+            "content": "सत्प्रतिपक्ष¦ <lex>Adj.</lex> <i>wogegen ein triftiger Einwand erhoben werden kann</i>. हेतु <lex>m.</lex> <i>ein solches Argument;</i> ohne हेतु <ab>dass.</ab> <ab>Nom. abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सत्प्रतिपक्ष",
+            "eid": "104053",
+            "pagenum": 7,
+            "content": "सत्प्रतिपक्ष¦ (सन्त् + प्र°) <lex>adj.</lex> <i>wogegen ein triftiger Einwand erhoben werden kann</i>: हेतु <i>ein solches Argument</i> (auch subst. mit Ergänzung von हेतु) <ls>TARKAS. 40. 42.</ls> <ls>SARVADARŚANAS. 119, 19.</ls> <ls>KUSUM. 50, 11.</ls> <ls>Verz. d. Oxf. H. 241,b,14.</ls> <ls n='Verz. d. Oxf. H.'>242,a,No. 593. fgg.</ls> Davon nom. abstr. °ता <lex>f.</lex> <ls>KUSUM. 49, 12.</ls>"
+        }
     ]
 }

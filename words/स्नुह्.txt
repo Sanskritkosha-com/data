@@ -51,5 +51,75 @@
             "pagenum": 812,
             "content": "snuh¦ <i>vt. 4P (pp. स्नुग्ध or स्नूढ; pres. स्नुह्यति)</i> To vomit."
         }
+    ],
+    "MD": [
+        {
+            "word": "स्नुह्",
+            "eid": "20016",
+            "pagenum": 367,
+            "content": "स्नुह्¦ snuh, <lex>f.</lex> (<ab>nm.</ab> <b>k</b>) <i>a plant</i> (wolfʼs milk): 🞄<b>-ā, -ī,</b> <lex>f.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "स्नुह्",
+            "eid": "256475",
+            "pagenum": 1268,
+            "content": "<hom>1.</hom> स्नुह् ¦ <ab>cl.</ab> 4. <ab>P.</ab> स्नुह्यति, to vomit, <ls>Dhātup. xxvi, 90</ls>; <div n='to'/>to be moist (= √ स्निह् See स्नूहन्). <info westergaard='znuha,26.90,04.0096'/><info verb='root' cp='4P'/>"
+        },
+        {
+            "word": "स्नुह्",
+            "eid": "256478",
+            "pagenum": 1268,
+            "content": "<hom>2.</hom> स्नुह् ¦ <lex>mfn.</lex> (<ab>nom.</ab> स्नुक् or स्नुट्) vomiting, one who vomits, <ls>MW.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्नुह्",
+            "eid": "256479",
+            "pagenum": 1268,
+            "content": "स्नुह् ¦ <lex>f.</lex> a kind of spurge, <bot>Euphorbia Antiquorum</bot> (its milky juice is used as an emetic &c.; it has 17 synonyms <ab>cf.</ab> सीहुण्ड &c.), <ls>Car.</ls>; <ls>Suśr.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्नुह्",
+            "eid": "53307",
+            "pagenum": 1150,
+            "content": "स्नुह् 1¦. <i>snuh,</i> cl. 4. P. <i>snuhyati, suṣṇoha,</i> <i>snohitum</i> or <i>snogdhum</i> or <i>snoḍhum,</i> to vomit; = rt. 1. <i>snih.</i>"
+        },
+        {
+            "word": "स्नुह्",
+            "eid": "53308",
+            "pagenum": 1150,
+            "content": "2. <i>snuh, ṭ, ṭ, ṭ,</i>¦ or <i>k, k, k,</i> vomiting, one who vomits; (<i>k</i>), f. the milk-hedge plant, Euphorbia Antiquorum (its milky juice has various medicinal properties, and is used as an emetic; seventeen synonyms of this plant are enumerated, cf. <i>sīhuṇḍa</i>). <i>—Snuk-</i> <i>chada, as,</i> m. a kind of reed (<i>= kṣīra-kañcukin</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्नुह्",
+            "eid": "131347",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> *√स्नुह्¦ स्नुह्यति उद्गिरणे."
+        },
+        {
+            "word": "स्नुह्",
+            "eid": "131348",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> स्नुह्¦ <lex>f.</lex> (<ab>Nomin.</ab> स्नुक्) und स्नुट् = स्नुही <ls>CARAKA. 1,25 (149,21). 7,10</ls> स्रु° <ab>gedr.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्नुह्",
+            "eid": "114304",
+            "pagenum": 7,
+            "content": "1. स्नुह्¦, स्नु/ह्यति (उद्रिरणे) <ls>DHĀTUP. 26, 90.</ls> स्नोहिता, स्नोग्घा und स्नोढा <ls>P. 7, 2, 45.</ls> <ls n='P.'>8, 2, 33.</ls>"
+        },
+        {
+            "word": "स्नुह्",
+            "eid": "114305",
+            "pagenum": 7,
+            "content": "2. स्नुह्¦ (= 1. स्नुह्), nom. स्नुग् und स्नुड् <ls>P. 8, 2, 33</ls>, Schol. <ls>VOP. 3, 101.</ls> f. = स्नुही <ls>AK. 2, 4, 3, 24.</ls> <ls>SUŚR. 1, 144, 17.</ls> <ls n='SUŚR.'>2, 69, 1.</ls>"
+        }
     ]
 }

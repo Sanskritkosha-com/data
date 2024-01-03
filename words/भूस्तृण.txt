@@ -23,5 +23,49 @@
             "pagenum": 531,
             "content": "BUstfRa¦ <i>m.</i> a kind of fragrant grass."
         }
+    ],
+    "MW": [
+        {
+            "word": "भूस्तृण",
+            "eid": "151769",
+            "pagenum": 761,
+            "content": "भू—स्-तृण <hom>a</hom> ¦ <lex>m.</lex> <bot>Andropogon Schoenanthus</bot>, <ls>Mn.</ls>; <ls>Hariv.</ls>; <ls>Suśr.</ls>; <ls>Vāgbh.</ls> (<ab>cf.</ab> भू-तृण). <info lex='m'/>"
+        },
+        {
+            "word": "भूस्तृण",
+            "eid": "151769.1",
+            "pagenum": 1331,
+            "content": "¦ <bot>Andropogon Schoenanthus</bot>, <ls>Mn.</ls>; <ls>Suśr.</ls><info n='sup'/><info lex='inh'/>"
+        },
+        {
+            "word": "भूस्तृण",
+            "eid": "152493",
+            "pagenum": 764,
+            "content": "भू-स्-तृण <hom>b</hom> ¦ See <pcol>p. 763, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भूस्तृण",
+            "eid": "35718",
+            "pagenum": 719,
+            "content": "भूस्तृण¦ <i>bhū-s-tṛṇa.</i> See p. 716, col. 1."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भूस्तृण",
+            "eid": "80734",
+            "pagenum": 4,
+            "content": "भूस्तृण¦ <lex>m.</lex> <i><bot>Andropogon Schoenanthus</bot></i> <ls>Mat. med. 271</ls>. <ls>RĀJAN. 8,121</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भूस्तृण",
+            "eid": "55602",
+            "pagenum": 5,
+            "content": "भूस्तृण¦ (2. भू + स्तृण) <lex>m.</lex> <i>Andropogon Schoenanthus Lin.</i> <ls>AK. 2, 4, 5, 32.</ls> <ls n='AK.'>3, 4, 1, 8.</ls> वर्जयेद्भूस्तृणम् (वानप्रस्थः) <ls>M. 6, 14.</ls> <ls>HARIV. 8443.</ls> <ls>SUŚR. 1, 217, 4. 218, 13.</ls> <ls>VĀGBH. 1, 6, 107.</ls>"
+        }
     ]
 }

@@ -23,5 +23,35 @@
             "pagenum": 655,
             "content": "<b>Suduścara</b>¦ = Skanda: III, 14634."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुदुश्चर",
+            "eid": "246709",
+            "pagenum": 1225,
+            "content": "सु—दुश्चर ¦ <lex>mfn.</lex> very <ab n='difficult'>d°</ab> of access, inaccessible, <ls>R.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सुदुश्चर",
+            "eid": "246710",
+            "pagenum": 1225,
+            "content": "¦ very arduous or painful, <ls>Mn.</ls>; <ls>Sūryas.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुदुश्चर",
+            "eid": "126382",
+            "pagenum": 7,
+            "content": "सुदुश्चर¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>sehr schwer zu betreten, ganz unzugänglich</i>. <div n='1'>— 2〉 <i>sehr schwer auszuführen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुदुश्चर",
+            "eid": "110314",
+            "pagenum": 7,
+            "content": "सुदुश्चर¦ <lex>adj.</lex> <div n='1'> 1) <i>sehr schwer zu betreten, ganz unzugänglich</i>: सुदुश्चरो गिरिश्चायं पक्षिणामपि <ls>R. 2, 97, 11.</ls> <div n='1'>— 2) <i>sehr schwer auszuführen</i>: तपस् <ls>M. 1, 34.</ls> <ls>SŪRYAS. 1, 3.</ls>"
+        }
     ]
 }

@@ -31,5 +31,57 @@
             "pagenum": 130,
             "content": "जज¦ <i>m.</i> Kämpfer."
         }
+    ],
+    "MD": [
+        {
+            "word": "जज",
+            "eid": "7819",
+            "pagenum": 98,
+            "content": "जज¦ jaja, <lex>m.</lex> warrior: <b>-ojas,</b> <lex>n.</lex> bravery."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जज",
+            "eid": "76501",
+            "pagenum": 409,
+            "content": "जज ¦ <lex>m.</lex> ‘a warrior’<info lex='m'/>"
+        },
+        {
+            "word": "जज",
+            "eid": "76502",
+            "pagenum": 409,
+            "content": "¦ <ab>cf.</ab> जाजिन्.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जज",
+            "eid": "19221",
+            "pagenum": 336,
+            "content": "<i>Jaja, as,</i>¦ m. a warrior. <i>—Jajaujas (°ja-oj°), as,</i> n. prowess, valour; [cf. <i>jājin.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जज",
+            "eid": "41369",
+            "pagenum": 2,
+            "content": "जज¦ <lex>m.</lex> <i>Kämpfer</i>. जजौजस् <lex>n.</lex> <i>Tapferkeit</i> <lex>n.</lex> <i>Tapferkeit</i> <ls>ŚIŚ. 19,3</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जज",
+            "eid": "26406",
+            "pagenum": 3,
+            "content": "जज¦ (von जज्) <lex>m.</lex> <i>Kämpfer</i>; जजौजस् <lex>n.</lex> <i>Tapferkeit</i> <ls>WILS.</ls> <div n='v'>— Vgl. जाजिन् ."
+        },
+        {
+            "word": "जज",
+            "eid": "74107",
+            "pagenum": 5,
+            "content": "जज¦, जजौजस् <ls>ŚIŚ. 19, 3.</ls>"
+        }
     ]
 }

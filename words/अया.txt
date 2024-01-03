@@ -39,5 +39,45 @@
             "pagenum": 97,
             "content": "<b>ayā́,</b>¦ <i>auf diese Weise,</i> <ab n='siehe'>s.</ab> idám."
         }
+    ],
+    "MD": [
+        {
+            "word": "अया",
+            "eid": "2498",
+            "pagenum": 26,
+            "content": "अया¦ ayā́, (<ab>in.</ab>) <lex>ad.</lex> in this manner, thus."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अया",
+            "eid": "14834",
+            "pagenum": 85,
+            "content": "अया/ ¦ <lex>ind.</lex> (<ab>fr.</ab> <ab>pronom.</ab> base अ = अन/या), in this manner, thus, <ls>RV.</ls><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अया",
+            "eid": "5622",
+            "pagenum": 79,
+            "content": "अया¦ <i>ayā,</i> ind. (fr. pronominal base <i>a =</i> <i>anayā</i>), Ved. in this manner, thus."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अया",
+            "eid": "8784",
+            "pagenum": 1,
+            "content": "अया/¦ <ab>Instr.</ab> <lex>Adv.</lex> <i>auf diese Weise</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अया",
+            "eid": "5465",
+            "pagenum": 1,
+            "content": "अया/¦ (instr. <lex>f.</lex> von 2. अ <i>b.</i>) adv. <i>auf diese Weise, so</i>: अ\\या वाज^ं दे\\वहि^तं सनेम <ls>ṚV. 6, 17, 15.</ls> अ\\या नि^ज\\घ्निरोज^सा <ls n='ṚV.'>9, 53, 2.</ls> अ\\या प^वस्व देव\\युः <ls n='ṚV. 9,'>106, 14.</ls> अ\\या पात^मि\\मं सु\\तम् <ls n='ṚV.'>3, 12, 2.</ls> <ls n='ṚV.'>10, 116, 9.</ls>"
+        }
     ]
 }

@@ -15,5 +15,19 @@
             "pagenum": 121,
             "content": "<b>CIRCUIT:</b>¦ <div n='I'>I Movement round: </div><div n='1'>(1) परिभ्रमणम्;</div> <div n='1'>(2) पर्ययणम्। <div n='xe'><i>To make a c:</i></div> <div n='xs'>परिभ्रमति</div> <div n='xe'><i>or</i></div> <div n='xs'>पर्येति</div> (इ, c. 2) (with acc.) </div><div n='I'>II Compass: </div><div n='1'>(1) परि- वेष्टनम्; </div><div n='1'>(2) परिधिः। </div><div n='I'>III Of judges, etc., परि- भ्रमणम् (?). <div n='xe'><i>C. -house:</i></div> <div n='xs'>*परिभ्रमणगृहम्।</div></div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "circuit",
+            "eid": "4467",
+            "pagenum": 95,
+            "content": "CIRCUIT¦, <i>s.</i> (Compass, circumference) मण्डलं, परिमण्डलं, परिधिः <i>m.,</i> परिमाणं, परिणाहः, परीणाहः, परिवेष्टनं. — (Act of moving round) परिवर्त्तनं, आवर्त्तः, आवृत्तिः <i>f.,</i> आवर्त्तनं, विवर्त्तः भमणं, परिभ्रमः, घूर्णिः <i>f.</i> — (Visitation of a judge) धर्म्माध्यक्षाभप्तगमनं, प्राड्विवाकभ्रमणं."
+        },
+        {
+            "word": "circuit",
+            "eid": "4468",
+            "pagenum": 95,
+            "content": "<i>To</i> CIRCUIT¦, <i>v. n.</i> परिभ्रम् (c. 4. -भ्राम्यति -भ्रमितुं), परिवृत् (c. 1. वर्त्तते -वर्त्तितुं)."
+        }
     ]
 }

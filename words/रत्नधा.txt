@@ -23,5 +23,35 @@
             "pagenum": 228,
             "content": "<b>ratna-dhā́</b>¦ [<ls n='wg,352'>352]</ls>, <i><ab>a.</ab></i> bestowing blessings. <lbinfo n='bless-ings.'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "रत्नधा",
+            "eid": "174309",
+            "pagenum": 864,
+            "content": "रत्न—धा/ ¦ <lex>mfn.</lex> procuring wealth, distributing riches or precious things (-तम <lex type='phw'>mfn.</lex> <ab n='distributing'>dist°</ab> great riches), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls><info phwchild='174310.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "रत्नधा",
+            "eid": "174310",
+            "pagenum": 864,
+            "content": "¦ possessing wealth, <ls>RV.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रत्नधा",
+            "eid": "92377",
+            "pagenum": 5,
+            "content": "रत्नधा/¦ <lex>Adj.</lex> <ab>s. u.</ab> रत्नध/."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रत्नधा",
+            "eid": "83261",
+            "pagenum": 6,
+            "content": "रत्नधा/¦ <lex>adj.</lex> <i>Gaben —, Güter verschaffend, - spendend</i> <ls>ṚV. 1, 1, 1.</ls> <ls n='ṚV. 1,'>15, 3.</ls> स्तोम <ls n='ṚV. 1,'>20, 1.</ls> <ls n='ṚV. 1,'>164, 49.</ls> <ls n='ṚV.'>2, 1, 7.</ls> <ls n='ṚV.'>4, 34, 6.</ls> <ls n='ṚV. 4,'>35, 7.</ls> <ls n='ṚV.'>5, 8, 3.</ls> कृ\\धि रत्न\\ं यज^मानाय सुक्रतो\\ त्वं हि र^त्न\\धा असि^ <ls n='ṚV.'>7, 16, 6.</ls> <ls n='ṚV.'>10, 35, 7.</ls> <ls>AV. 7, 14, 1.</ls> <ls>ŚAT. BR. 14, 9, 4, 28.</ls>"
+        }
     ]
 }

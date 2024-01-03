@@ -29,5 +29,67 @@
             "pagenum": 476,
             "content": "समांश¦ <i>m.</i> gleicher Anteil; <i>Adj.</i> einen gleichen A. erhaltend, <i>auch</i> °शक <i>(f.</i> °शिका) <i>u.</i> °शिन्."
         }
+    ],
+    "MD": [
+        {
+            "word": "समांश",
+            "eid": "18873",
+            "pagenum": 337,
+            "content": "समांश¦ sama‿aṃśa, <lex>m.</lex> equal share: <ab>in.</ab> in 🞄equal shares; <lex>a.</lex> containing equal parts; obtaining 🞄an equal share: <b>-ka,</b> <lex>a.</lex> obtaining an 🞄equal share; <b>-aṃśin,</b> <lex>a.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "समांश",
+            "eid": "233224",
+            "pagenum": 1153,
+            "content": "samA<srs/>MSa <hom>a</hom> ¦ <lex>m.</lex> an equal share (as in an inheritance; °शेन <lex type='phw'>ind.</lex> ‘in <ab n='equal'>eq°</ab> <ab n='share'>sh°</ab>’), <ls>Kathās.</ls>; <ls>Vajracch.</ls><info phwchild='233227.1'/><info lex='m'/>"
+        },
+        {
+            "word": "समांश",
+            "eid": "233225",
+            "pagenum": 1153,
+            "content": "samA<srs/>MSa ¦ <lex>mfn.</lex> containing equal parts, <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "समांश",
+            "eid": "233226",
+            "pagenum": 1153,
+            "content": "¦ entitled to or obtaining an <ab n='equal'>eq°</ab> <ab n='share'>sh°</ab>, <ls>Mn. ix, 157</ls><info lex='inh'/>"
+        },
+        {
+            "word": "समांश",
+            "eid": "234007",
+            "pagenum": 1158,
+            "content": "samA<srs/>MSa <hom>b</hom> ¦ &c. See <pcol>p. 1153, col. 1</pcol>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "समांश",
+            "eid": "120166",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> समांश¦ <lex>m.</lex> <i>ein gleicher Antheil</i> (<ab>insbes.</ab> bei der Erbschaft). <ab>Instr.</ab> <i>zu gleichen Theilen</i> <ls>VAJRACCH. 34,3</ls>."
+        },
+        {
+            "word": "समांश",
+            "eid": "120167",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> समांश¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>gleiche Theile enthaltend</i>. <div n='2'>— b〉 <i>einen gleichen Antheil erhaltend</i>. <div n='1'>— 2〉 <lex>f.</lex> आ <i><bot>Sida cordifolia</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समांश",
+            "eid": "105496",
+            "pagenum": 7,
+            "content": "1. समांश¦ (2. सम + अंश) <lex>m.</lex> <i>ein gleicher Antheil</i>: °हारिन् <ls>DĀYAT.</ls> im <ls>ŚKDR.</ls> विभज्य च । परस्परं समांशेन <i>zu gleichen Theilen</i> <ls>KATHĀS. 60, 215.</ls>"
+        },
+        {
+            "word": "समांश",
+            "eid": "105497",
+            "pagenum": 7,
+            "content": "2. समांश¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>gleiche Theile enthaltend</i> <ls>SUŚR. 1, 165, 16.</ls> <i>einen gleichen Antheil erhaltend</i> <ls>M. 9, 157.</ls> °क (f. समांशिका) dass. <ls>DĀYAT.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> आ <i>Sida cordifolia</i> <ls>RATNAM. 167.</ls>"
+        }
     ]
 }

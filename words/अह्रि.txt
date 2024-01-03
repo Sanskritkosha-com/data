@@ -23,5 +23,37 @@
             "pagenum": 168,
             "content": "<b>á-hri,</b>¦ <ab>a.</ab>, <ab>dass.</ab> <div n='TS'>-ayas {766,1} (Somapresser)."
         }
+    ],
+    "MW": [
+        {
+            "word": "अह्रि",
+            "eid": "22001",
+            "pagenum": 126,
+            "content": "अ/-ह्रि ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls>RV.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अह्रि",
+            "eid": "7818",
+            "pagenum": 110,
+            "content": "<i>A-hri, is, is, i,</i>¦ Ved. luxurious, fat."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अह्रि",
+            "eid": "13327",
+            "pagenum": 1,
+            "content": "अ/ह्रि¦ <lex>Adj.</lex> = अह्रय."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अह्रि",
+            "eid": "7759",
+            "pagenum": 1,
+            "content": "अह्रि¦ <lex>adj.</lex> <i>üppig, geil</i>: शु\\क्रं दु^दुह्रे\\ अह्र^यः <ls>ṚV. 9, 54, 1.</ls>"
+        }
     ]
 }

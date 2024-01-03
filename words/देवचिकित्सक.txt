@@ -7,5 +7,35 @@
             "pagenum": 342,
             "content": "deva-cikitsaka¦ <i>m. du.</i> Aśvins, the twin physicians of the gods."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवचिकित्सक",
+            "eid": "95627",
+            "pagenum": 493,
+            "content": "देव—चिकित्सक ¦ <lex>m.</lex> divine physician<info lex='m'/>"
+        },
+        {
+            "word": "देवचिकित्सक",
+            "eid": "95628",
+            "pagenum": 493,
+            "content": "¦ <ab>du.</ab> the two <s1 slp1='aSvin'>Aśvin</s1>s, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवचिकित्सक",
+            "eid": "52212",
+            "pagenum": 3,
+            "content": "*देवचिकित्सक¦ <lex>m.</lex> <ab>Du.</ab> <ab>Bez.</ab> <i>der beiden</i> <is>Aśvin</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवचिकित्सक",
+            "eid": "34433",
+            "pagenum": 3,
+            "content": "देवचिकित्सक¦ (देव + चि°) <lex>m.</lex> <i>Götterarzt</i>, du. Bein. der <is>Aśvin</is> <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

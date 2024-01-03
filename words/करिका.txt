@@ -15,5 +15,35 @@
             "pagenum": 169,
             "content": "karikA¦ <i>f.</i> Scratching."
         }
+    ],
+    "MW": [
+        {
+            "word": "करिका",
+            "eid": "44234.8",
+            "pagenum": 254,
+            "content": "करिका <hom>a</hom> ¦ <lex>f.</lex> (इका) a wound caused by a finger-nail, <ls>Śiś. iv, 29.</ls><info lex='f'/>"
+        },
+        {
+            "word": "करिका",
+            "eid": "44341",
+            "pagenum": 254,
+            "content": "करिका <hom>b</hom> ¦ <lex>f.</lex> See <hom>1.</hom> करक<info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "करिका",
+            "eid": "13733",
+            "pagenum": 205,
+            "content": "<i>Karikā,</i>¦ f. a wound caused by a finger-nail."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "करिका",
+            "eid": "15203",
+            "pagenum": 2,
+            "content": "करिका¦ <lex>f.</lex> <i>Fingernagelwunde</i> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4, 29</ls>; vgl. <ls>STENZLER, De lex. sanscr. principiis, S. 22.</ls>"
+        }
     ]
 }

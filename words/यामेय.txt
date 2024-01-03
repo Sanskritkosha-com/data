@@ -23,5 +23,61 @@
             "pagenum": 525,
             "content": "यामेय¦ <i>yāmeya</i> <ab>m.</ab> <i>(yāmi)</i> fils de la sœur, neveu."
         }
+    ],
+    "MW": [
+        {
+            "word": "यामेय",
+            "eid": "171207",
+            "pagenum": 850,
+            "content": "<hom>1.</hom> यामेय ¦ <lex>m.</lex> (for <hom>2.</hom> See <pcol>p. 851, col. 3</pcol>) <ab>metron.</ab> <ab>fr.</ab> <hom>1.</hom> यामि, <ls>BhP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "यामेय",
+            "eid": "171496",
+            "pagenum": 851,
+            "content": "<hom>2.</hom> यामेय ¦ <lex>m.</lex> (for <hom>1.</hom> See <pcol>p. 850, col. 1</pcol>) a sister's son, nephew, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "यामेय",
+            "eid": "38529",
+            "pagenum": 814,
+            "content": "1. <i>yāmeya, as,</i>¦ m. (fr. 1. <i>yāmi</i>), a metronymic."
+        },
+        {
+            "word": "यामेय",
+            "eid": "38647",
+            "pagenum": 816,
+            "content": "2. <i>yāmeya, as,</i>¦ m. (for 1. see p. 814, col. 2), a sister's son, nephew."
+        }
+    ],
+    "PW": [
+        {
+            "word": "यामेय",
+            "eid": "90856",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> *यामेय¦ <lex>m.</lex> <i>der Schwester Sohn</i>."
+        },
+        {
+            "word": "यामेय",
+            "eid": "90857",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> यामेय¦ <lex>m.</lex> <ab>Metron.</ab> von <hom>3.</hom> याम 2〉a〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यामेय",
+            "eid": "82017",
+            "pagenum": 6,
+            "content": "1. यामेय¦ (von 1. यामि) <lex>m.</lex> <i>der Schwester Sohn</i> <ls>ŚKDR.</ls> und <ls>WILSON.</ls>"
+        },
+        {
+            "word": "यामेय",
+            "eid": "82018",
+            "pagenum": 6,
+            "content": "2. यामेय¦ metron. von 2. यामि <ls>BHĀG. P. 6, 6, 6.</ls>"
+        }
     ]
 }

@@ -52,5 +52,49 @@
             "pagenum": 211,
             "content": "kOkzeyaka¦ <i>m.</i> A sword, a scimitar, कौक्षेयकेण सन्निहितविषधरेव चंदनलता <ls>Kad.</ls>"
         }
+    ],
+    "MW": [
+        {
+            "word": "कौक्षेयक",
+            "eid": "56964",
+            "pagenum": 315,
+            "content": "कौक्षेयक ¦ <lex>m.</lex> (<ls>Pāṇ. iv, 2, 96</ls>) ‘being in a sheath’, a sword, <ls>Daś.</ls>; <ls>Pratāpar.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कौक्षेयक",
+            "eid": "56965",
+            "pagenum": 315,
+            "content": "¦ a scymitar, knife, <ls>Kād.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कौक्षेयक",
+            "eid": "15961",
+            "pagenum": 257,
+            "content": "<i>Kaukṣeyaka, as,</i>¦ m. a sword; a scymitar."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कौक्षेयक",
+            "eid": "31270",
+            "pagenum": 2,
+            "content": "कौक्षेयक¦ <lex>m.</lex> <i>Schwert: Messer</i> <ls>KĀD. 8,4</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कौक्षेयक",
+            "eid": "19446",
+            "pagenum": 2,
+            "content": "कौ/क्षेयक¦ <lex>m.</lex> <i>Schwert</i> <ls>P. 4, 2, 96.</ls> <ls>AK. 2, 8, 2, 57.</ls> <ls>H. 782.</ls> <ls>DAŚAK. 71, 1.</ls>"
+        },
+        {
+            "word": "कौक्षेयक",
+            "eid": "71714",
+            "pagenum": 5,
+            "content": "कौक्षेयक¦ <ls>PRATĀPAR. 69,a,9.</ls>"
+        }
     ]
 }

@@ -31,5 +31,41 @@
             "pagenum": 161,
             "content": "kawikA¦ <i>f.</i> The hip."
         }
+    ],
+    "MW": [
+        {
+            "word": "कटिका",
+            "eid": "41989",
+            "pagenum": 243,
+            "content": "कटिका <hom>a</hom> ¦ <lex>f.</lex> a straw mat <ab>Comm.</ab> on <ls>KātyŚr.</ls><info lex='f'/>"
+        },
+        {
+            "word": "कटिका",
+            "eid": "42039.1",
+            "pagenum": 244,
+            "content": "कटिका <hom>b</hom> ¦ <lex>f.</lex> the hip, <ls>MBh.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कटिका",
+            "eid": "13384",
+            "pagenum": 196,
+            "content": "<i>Kaṭikā,</i>¦ f. the hip."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कटिका",
+            "eid": "14368",
+            "pagenum": 2,
+            "content": "कटिका¦ (von कटि) <lex>f.</lex> <i>Hüfte</i> <ls>MBH. 13, 5390.</ls> Am Ende eines <lex>adj.</lex> comp.: उन्नतकटिक <ls>SUŚR. 2, 47, 2.</ls> उन्नतकटीक <ls n='SUŚR.'>55, 11.</ls>"
+        },
+        {
+            "word": "कटिका",
+            "eid": "69370",
+            "pagenum": 5,
+            "content": "कटिका¦ <i>Matte</i> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 8, 3, 26.</ls> in आबद्धहेम° <lex>adj.</lex> <ls>CAURAP. 15</ls> bei <ls>HAEB. 229</ls> fehlerhaft für कटका (von कटक); vgl. 16 bei <ls>BOHLEN.</ls>"
+        }
     ]
 }

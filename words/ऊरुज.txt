@@ -23,5 +23,41 @@
             "pagenum": 149,
             "content": "Uru-ja¦ <i>(I) a.</i> sprung from the thigh."
         }
+    ],
+    "MW": [
+        {
+            "word": "ऊरुज",
+            "eid": "38010",
+            "pagenum": 221,
+            "content": "ऊरु—ज ¦ <lex>mfn.</lex> born from the thigh, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ऊरुज",
+            "eid": "38011",
+            "pagenum": 221,
+            "content": "ऊरु—ज ¦ <lex>m.</lex> a <s1 slp1='vESya'>Vaiśya</s1> (supposed to be born from <s1 slp1='brahmA'>Brahmā</s1>'s thigh See <ls>RV. x, 90, 12</ls>; <ls>Mn. i, 31</ls>, &c.), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ऊरुज",
+            "eid": "38012",
+            "pagenum": 221,
+            "content": "¦ <ab>N.</ab> of the <s1 slp1='fzi'>Ṛṣi</s1> <s1 slp1='Orva'>Aurva</s1> (<ab>q.v.</ab>)<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऊरुज",
+            "eid": "21015",
+            "pagenum": 1,
+            "content": "ऊरुज¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>aus einer Lende entsprossen</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>ein</i> <is>Vaiśya</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऊरुज",
+            "eid": "12734",
+            "pagenum": 1,
+            "content": "ऊरुज¦ (ऊरु + ज) <div n='1'> 1) <lex>adj.</lex> <i>aus dem Schenkel geboren</i> <ls>MBH. 1, 6820.</ls> <ls n='MBH. 1,'>6826.</ls> <div n='1'>— 2) <lex>m.</lex> <i>ein</i> <is>Vaiśya</is> (s. ऊरव्य) <ls>AK. 2, 9, 1.</ls> <ls>H. 864.</ls>"
+        }
     ]
 }

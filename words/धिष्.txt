@@ -37,5 +37,61 @@
             "pagenum": 345,
             "content": "*धिष्¦ <i>dhiṣ.</i> <i>didheṣmi</i> 3. Résonner."
         }
+    ],
+    "MW": [
+        {
+            "word": "धिष्",
+            "eid": "101212",
+            "pagenum": 516,
+            "content": "<hom>1.</hom> धिष् ¦ <ab>cl.</ab> 3. <ab>P.</ab> दिधेष्टि, to sound, <ls>Dhātup. xxv, 22.</ls> (Probably invented to explain धिषणा, speech, hymn; according to, <ls>Nir. viii, 3</ls> = √ <hom>1.</hom> धा, from which it seems to be a kind of <ab>Desid.</ab> = दि/धिषति.)<info westergaard='Diza,25.22,03.0032'/><info verb='genuineroot' cp='3P'/>"
+        },
+        {
+            "word": "धिष्",
+            "eid": "101213",
+            "pagenum": 516,
+            "content": "<hom>2.</hom> धिष् ¦ only <ab>instr.</ab> °षा, (?) mindfully, zealously, <ls>RV. i, 173, 8</ls>; <ls n='RV.'>iv, 21, 6</ls> (= प्रज्ञा, कर्मन्, स्तुति, <ls>Sāy.</ls>)"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "धिष्",
+            "eid": "23401",
+            "pagenum": 455,
+            "content": "धिष् 1¦. <i>dhiṣ</i> (thought by some to be an abbreviated form of a Vedic Desid. <i>didhiṣ</i> derived fr. rt. 1. <i>dhā;</i> connected with rt. 1. <i>dhī</i>), cl. 3. P. <i>didheṣṭi,</i> &c., to sound, emit a sound; to praise, celebrate by hymns (?)."
+        },
+        {
+            "word": "धिष्",
+            "eid": "23402",
+            "pagenum": 455,
+            "content": "2. <i>dhiṣ,</i>¦ f. (only occurring in inst. <i>dhiṣā</i> and probably connected with rt. 1. <i>dhī</i>), fixing the mind, attention (?), intelligence (?), devotion; (Sāy.) <i>= dhi-</i> <i>ṣaṇā,</i> knowledge, understanding; action; praise, hymn."
+        }
+    ],
+    "PW": [
+        {
+            "word": "धिष्",
+            "eid": "55397",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> *धिष्¦ = <hom>1.</hom> धा, दिधेष्टि (शब्दे)."
+        },
+        {
+            "word": "धिष्",
+            "eid": "55398",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> धि/ष्¦ <lex>f.</lex> etwa <i>Aufmerksamkeit</i>. Nur <ab>Instr.</ab> धिषा/, den <ls>GRASSMANN</ls> auf धिषा/ <lex>f.</lex> zurückführt."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धिष्",
+            "eid": "36747",
+            "pagenum": 3,
+            "content": "1. धिष्¦ = 1. धा <ls>NIR. 8, 3</ls> zur Erkl. von धिषणा. दिधेष्टि <i>tönen</i> (शब्दे) <ls>DHĀTUP. 25, 22.</ls>"
+        },
+        {
+            "word": "धिष्",
+            "eid": "36748",
+            "pagenum": 3,
+            "content": "2. धिष्¦ <lex>f.</lex> vielleicht <i>Aufmerksamkeit</i> (vgl. धी), = प्रज्ञा, कर्मन्, स्तुति  <ls>SĀY.</ls> विश्वा^ ते\\ अनु\\ जोष्या^ भू\\द्गौः सू\\रींश्चि\\द्यदि^ धि\\षा वेषि\\ जना^न् <ls>ṚV. 1, 173, 8.</ls> धि\\षा यदि^ धिष\\ण्यन्त^ः सर\\ण्यान्सद^न्तो\\ अद्रि^मौशि\\जस्य\\ गोहे^ <ls n='ṚV.'>4, 21, 6.</ls>"
+        }
     ]
 }

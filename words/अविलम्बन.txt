@@ -23,5 +23,41 @@
             "pagenum": 78,
             "content": "avilambana¦ <i>a. (f. ना)</i> See अविलम्बित."
         }
+    ],
+    "MW": [
+        {
+            "word": "अविलम्बन",
+            "eid": "18993",
+            "pagenum": 109,
+            "content": "अ-विलम्बन ¦ <lex>n.</lex> non-delay, <ls>MBh. i, 5227</ls><info lex='n'/>"
+        },
+        {
+            "word": "अविलम्बन",
+            "eid": "18993.1",
+            "pagenum": 109,
+            "content": "अ-विलम्बन ¦ (<lex type='hw'>mfn.</lex>) not delaying, prompt, <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अविलम्बन",
+            "eid": "11127",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अविलम्बन¦ <lex>n.</lex> <i>das Nichtzögern, rasches Vorsichgehen</i> <ls>MBH. 1,132,17</ls>."
+        },
+        {
+            "word": "अविलम्बन",
+            "eid": "11128",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *अविलम्बन¦ <lex>Adj.</lex> <i>nicht zögernd, rasch zu Werke gehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अविलम्बन",
+            "eid": "6785",
+            "pagenum": 1,
+            "content": "अविलम्बन¦ (3. अ + वि°) <lex>adj.</lex> <i>nicht zögernd, schnell</i> <ls>AK. 3, 2, 32.</ls>"
+        }
     ]
 }

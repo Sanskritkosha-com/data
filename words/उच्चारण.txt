@@ -47,5 +47,43 @@
             "pagenum": 122,
             "content": "uccAraRa¦ <i>n.</i> Articulation, pronunciation."
         }
+    ],
+    "MW": [
+        {
+            "word": "उच्चारण",
+            "eid": "30336",
+            "pagenum": 173,
+            "content": "उच्-चारण ¦ <lex>n.</lex> pronunciation, articulation, enunciation<info lex='n'/>"
+        },
+        {
+            "word": "उच्चारण",
+            "eid": "30337",
+            "pagenum": 173,
+            "content": "¦ making audible, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उच्चारण",
+            "eid": "10197",
+            "pagenum": 146,
+            "content": "<i>Uc-cāraṇa, am,</i>¦ n. pronunciation, articulation, enunciation; making audible. <i>—Uccāraṇa-jña, as,</i> m. a linguist, one skilled in utterances or sounds. <i>—Uc-</i> <i>cāraṇa-sthāna, am,</i> n. the part of the throat whence certain sounds such as nasals, gutturals &c. proceed. <i>—Uccāraṇārtha (°ṇa-ar°), as, ā, am,</i> useful for pronunciation; necessary for pronunciation, a redundant letter &c. only used to make pronunciation easy."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उच्चारण",
+            "eid": "17768",
+            "pagenum": 1,
+            "content": "उच्चारण¦ <lex>n.</lex> <i>das Aussprechen, Hörbarmachen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उच्चारण",
+            "eid": "10678",
+            "pagenum": 1,
+            "content": "उच्चारण¦ (wie eben) <lex>n.</lex> <i>das Aussprechen, Hörbarmachen</i>: वाचः <ls>ŚIKṢĀ 2.</ls> वेदोच्चारण <ls>MBH. 3, 14037.</ls> हूंकारो° <ls>DEV. 10, 9.</ls> रेफो° <ls>P. 1, 4, 56</ls>, <ls>Sch.</ls> अनुच्चारण <ls n='P.'>1, 1, 60</ls>, <ls>Sch.</ls> उच्चारणज्ञ <ls>ŚIŚUP. 4, 18.</ls> उच्चारणार्थ <i>zur Erleichterung der Aussprache dienend</i> <ls>VOP. 1, 2.</ls>"
+        }
     ]
 }

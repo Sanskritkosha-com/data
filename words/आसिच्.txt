@@ -37,5 +37,55 @@
             "pagenum": 190,
             "content": "<b>āsíc,</b>¦ <ab>f.</ab>, <i>Zugiessung</i> [von sic mit ā́], die den Göttern zugegossene Soma- oder Butterspende. <div n='TS'>-ícam pūrṇā́m (<ab>vgl.</ab> sutā́sas pūrṇā́s {333,2}) {228,1}; {532,11}."
         }
+    ],
+    "MW": [
+        {
+            "word": "आसिच्",
+            "eid": "28005",
+            "pagenum": 160,
+            "content": "<hom>1.</hom> आ-√ सिच् ¦ <ab>P.</ab> <ab>Ā.</ab> -सिञ्चति, -ते, to pour in, fill up, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>ŚāṅkhGṛ.</ls>; <ls>KātyŚr.</ls> &c.; <div n='to'/>to pour on, be sprinkle, water, wet, <ls>BhP.</ls>; <ls>Kathās.</ls>; &c. : <div n='vp'/><ab>Caus.</ab> -सेचयति, to pour in or on <ls>ĀśvGṛ.</ls> & <ls>ĀśvŚr.</ls>; <ls>Mn.</ls><info verb='pre' cp='PĀ' parse='A+sic'/>"
+        },
+        {
+            "word": "आसिच्",
+            "eid": "28008",
+            "pagenum": 160,
+            "content": "<hom>2.</hom> आ-सि/च् ¦ <lex>f.</lex> pouring in or towards<info lex='f'/>"
+        },
+        {
+            "word": "आसिच्",
+            "eid": "28009",
+            "pagenum": 160,
+            "content": "¦ an oblation of <s1 slp1='soma'>Soma</s1> or butter (poured out towards or for the gods), <ls>RV. ii, 37, 1</ls> and <ls n='RV.'>vii, 16, 11.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आसिच्",
+            "eid": "9644",
+            "pagenum": 135,
+            "content": "आसिच् 1¦. <i>ā-sic,</i> cl. 6. P. <i>-siñcati, -sektum,</i> to pour in or on, besprinkle, wet, water: Caus. <i>-secayati, -yitum,</i> to have (anything) poured in."
+        },
+        {
+            "word": "आसिच्",
+            "eid": "9646",
+            "pagenum": 135,
+            "content": "2. <i>ā-sic, k,</i>¦ f., Ved. a dish, vessel; (Say.) an oblation which is poured out."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आसिच्",
+            "eid": "16382",
+            "pagenum": 1,
+            "content": "आसि/च्¦ <lex>f.</lex> <i>Schale, Schüssel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आसिच्",
+            "eid": "9767",
+            "pagenum": 1,
+            "content": "आसि/च्¦ (von सिच् mit आ) <lex>f.</lex> <i>Schale, Schüssel</i>: स पू\\र्णां व^ष्ट्या\\सिच^म् <ls>ṚV. 2, 37, 1.</ls> <ls n='ṚV.'>7, 16, 11.</ls>"
+        }
     ]
 }

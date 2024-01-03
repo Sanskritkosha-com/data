@@ -29,5 +29,75 @@
             "pagenum": 12,
             "content": "<b>Adambha</b>¦ = Śiva (1000 names<sup>2</sup>)."
         }
+    ],
+    "MD": [
+        {
+            "word": "अदम्भ",
+            "eid": "897",
+            "pagenum": 8,
+            "content": "अदम्भ¦ a-dambha, <lex>m.</lex> sincerity."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अदम्भ",
+            "eid": "3631",
+            "pagenum": 18,
+            "content": "अ-दम्भ ¦ <lex>mfn.</lex> free from deceit, straightforward<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अदम्भ",
+            "eid": "3631.1",
+            "pagenum": 18,
+            "content": "अ-दम्भ ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1><info lex='m'/>"
+        },
+        {
+            "word": "अदम्भ",
+            "eid": "3632",
+            "pagenum": 18,
+            "content": "¦ absence of deceit<info lex='inh'/>"
+        },
+        {
+            "word": "अदम्भ",
+            "eid": "3633",
+            "pagenum": 18,
+            "content": "¦ straightforwardness.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अदम्भ",
+            "eid": "982",
+            "pagenum": 18,
+            "content": "<i>A-dambha, as, ā, am,</i>¦ free from deceit, straightforward; (<i>as</i>), m. an epithet of Śiva; freedom from or absence of deceit; straightforwardness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अदम्भ",
+            "eid": "2423",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अदम्भ¦ <lex>m.</lex> <i>Nichtverstellung, Aufrichtigkeit</i>."
+        },
+        {
+            "word": "अदम्भ",
+            "eid": "2424",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अदम्भ¦ <lex>Adj.</lex> <i>ehrlich</i>. °वृत्ति <lex>Adj.</lex> <ls>HARIV. 4137</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अदम्भ",
+            "eid": "1682",
+            "pagenum": 1,
+            "content": "1. अदम्भ¦ (3. अ + दम्भ) <lex>m.</lex> <i>Abwesenheit von Betrug, von Verstellung</i>: तमदम्भेन - अब्रुवम् <ls>R. 2, 86, 2.</ls>"
+        },
+        {
+            "word": "अदम्भ",
+            "eid": "1683",
+            "pagenum": 1,
+            "content": "2. अदम्भ¦ (3. अ + दम्भ) <div n='1'> 1) <lex>adj.</lex> <i>ohne Betrug, ohne Verstellung.</i> <div n='1'>— 2) <lex>m.</lex> ein Beiname <is>Śiva's</is>, <ls>ŚIV.</ls>"
+        }
     ]
 }

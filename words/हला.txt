@@ -66,5 +66,83 @@
             "pagenum": 828,
             "content": "halA¦ <i>(II) ind.</i> A vocative particle used in addressing a female friend (in theatrical language), हला भएण विसुमरिदम्हि <ls>Ve.</ls>ii."
         }
+    ],
+    "MD": [
+        {
+            "word": "हला",
+            "eid": "20442",
+            "pagenum": 376,
+            "content": "हला¦ halā, <ab>vc.</ab> <ab>pcl.</ab> <i>used in addressing a female 🞄friend on the stage</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "हला",
+            "eid": "261762",
+            "pagenum": 1293,
+            "content": "हला <hom>a</hom> ¦ (आ), <lex>f.</lex> the earth, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "हला",
+            "eid": "261763",
+            "pagenum": 1293,
+            "content": "¦ water, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "हला",
+            "eid": "261764",
+            "pagenum": 1293,
+            "content": "¦ spirituous liquor, wine, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "हला",
+            "eid": "261848",
+            "pagenum": 1293,
+            "content": "हला <hom>b</hom> ¦ <lex>ind.</lex> (in <ab>dram.</ab>) a vocative particle (used in addressing a female friend who is an equal), <ls>Daśar.</ls>; <ls>Sāh.</ls><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हला",
+            "eid": "53982",
+            "pagenum": 1168,
+            "content": "हला¦ <i>halā,</i> f. a female friend, (see also <i>halā</i> under <i>hala</i>); (<i>halā</i>), ind. a vocative particle used in addressing a female friend who is an equal (in theatrical language)."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "हला",
+            "eid": "17274",
+            "pagenum": 3,
+            "content": "<i>Halā</i>¦ — one of Atri's ten wives. <div n='P'/>Br. III. 8. 75."
+        }
+    ],
+    "PW": [
+        {
+            "word": "हला",
+            "eid": "134013",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> हला¦ <lex>Indecl.</lex> <i>Anruf an eine Freundin</i> (im <lang>Prākrit</lang>) <ls n='Chr.'>297,28</ls>."
+        },
+        {
+            "word": "हला",
+            "eid": "134014",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> *हला¦ <lex>f.</lex> <div n='1'>— 1〉 <i>die Erde</i>. <div n='1'>— 2〉 <i>ein berauschendes Getränk</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हला",
+            "eid": "116438",
+            "pagenum": 7,
+            "content": "1. हला¦ indecl. <i>Anruf an eine Freundin</i> im Drama <ls>AK. 1, 1, 7, 15.</ls> <ls>H. 334.</ls> <ls>DAŚAR. 2, 65.</ls> <ls>SĀH. D. 172, 13.</ls>"
+        },
+        {
+            "word": "हला",
+            "eid": "116439",
+            "pagenum": 7,
+            "content": "2. हला¦ <lex>f.</lex> <i>die Erde; Wasser; ein berauschendes Getränk</i> <ls>ANEKĀRTHAK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

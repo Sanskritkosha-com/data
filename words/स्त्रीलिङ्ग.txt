@@ -27,5 +27,59 @@
             "pagenum": 513,
             "content": "2. स्त्रीलिङ्ग¦ die weiblichen Merkmale habend, weiblich <i>(g.).</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "स्त्रीलिङ्ग",
+            "eid": "255072",
+            "pagenum": 1261,
+            "content": "स्त्री—लिङ्ग ¦ <lex>n.</lex> the female organ, <ls>MBh.</ls><info lex='n'/>"
+        },
+        {
+            "word": "स्त्रीलिङ्ग",
+            "eid": "255073",
+            "pagenum": 1261,
+            "content": "¦ (in <ab>gram.</ab>) the feminine gender, <ls>Vop.</ls> (-वर्तिन् <lex type='phw'>mfn.</lex> ‘being in the <ab n='feminine'>f°</ab> <ab n='gender'>g°</ab>, being a <ab n='feminine'>f°</ab>’), <ls>MW.</ls><info phwchild='255075.2'/><info lex='inh'/>"
+        },
+        {
+            "word": "स्त्रीलिङ्ग",
+            "eid": "255074",
+            "pagenum": 1261,
+            "content": "स्त्री—लिङ्ग ¦ <lex>mfn.</lex> having the characteristics of a <ab n='women'>w°</ab>, <ls>ŚrS.</ls>; <ls>MBh.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्त्रीलिङ्ग",
+            "eid": "255075",
+            "pagenum": 1261,
+            "content": "स्त्री—लिङ्ग ¦ <lex>n.</lex> (in <ab>gram.</ab>) feminine (-त्व <lex type='phw'>n.</lex>), <ls>IndSt.</ls><info phwchild='255075.1'/><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्त्रीलिङ्ग",
+            "eid": "130749",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स्त्रीलिङ्ग¦ <lex>n.</lex> <div n='1'>— 1〉 <i>die weiblichen Geschlechtstheile</i>. <div n='1'>— 2〉 <i>das weibliche Geschlecht</i> (<ab>gramm.</ab>) <ls n='Chr.'>234,28</ls>."
+        },
+        {
+            "word": "स्त्रीलिङ्ग",
+            "eid": "130750",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> स्त्रीलिङ्ग¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>die Merkmale eines Weibes [Page7-205-c] habend</i>. <div n='1'>— 2〉 <i>weiblich</i> (<ab>gramm.</ab>). <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>Ind. St. 13,390</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्त्रीलिङ्ग",
+            "eid": "113834",
+            "pagenum": 7,
+            "content": "1. स्त्रीलिङ्ग¦ <lex>n.</lex> <div n='1'> 1) <i>die weiblichen Geschlechtstheile</i> <ls>MBH. 5, 7491.</ls> <ls n='MBH.'>13, 828.</ls> <div n='1'>— 2) <i>das weibliche Geschlecht</i> (gramm.) <ls>VOP. 4, 1.</ls>"
+        },
+        {
+            "word": "स्त्रीलिङ्ग",
+            "eid": "113835",
+            "pagenum": 7,
+            "content": "2. स्त्रीलिङ्ग¦ <lex>adj.</lex> <i>die Merkmale eines Weibes habend</i> <ls>MBH. 9, 3304.</ls> <i>weiblich</i> (gramm.) <ls>KAUŚ. 60.</ls> Cit. beim Schol. zu <ls>KĀTY. ŚR. 5, 3, 6.</ls> <ls>Verz. d. B. H. No. 737.</ls> <ls>Verz. d. Oxf. H. 174,b,1</ls> v. u. <ls n='Verz. d. Oxf. H.'>175,a,2.</ls> Comm. zu <ls>TS. PRĀT. 2, 7.</ls>"
+        }
     ]
 }

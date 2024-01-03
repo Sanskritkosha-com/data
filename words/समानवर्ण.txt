@@ -7,5 +7,35 @@
             "pagenum": 593,
             "content": "समानवर्ण¦ <lex>a.</lex> having the same colour."
         }
+    ],
+    "MW": [
+        {
+            "word": "समानवर्ण",
+            "eid": "234316",
+            "pagenum": 1160,
+            "content": "समान—वर्ण ¦ <lex>mf(आ)n.</lex> having the same colour, <ls>VarBṛS.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "समानवर्ण",
+            "eid": "234317",
+            "pagenum": 1160,
+            "content": "¦ having the <ab n='same'>s°</ab> vowels, <ls>RPrāt.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "समानवर्ण",
+            "eid": "120310",
+            "pagenum": 7,
+            "content": "समानवर्ण¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>von gleicher Farbe</i>. <div n='1'>— 2〉 <i>dieselbe Vocale zeigend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समानवर्ण",
+            "eid": "105598",
+            "pagenum": 7,
+            "content": "समानवर्ण¦ <lex>adj.</lex> (f. आ) = सवर्ण <ls>VOP. 6, 98.</ls> <div n='1'> 1) <i>von gleicher Farbe</i>: चातक° <ls>VARĀH. BṚH. S. 28, 14.</ls> <div n='1'>— 2) <i>dieselben Vocale zeigend</i>: विवृत्ति <ls>ṚV. PRĀT. 14, 27.</ls>"
+        }
     ]
 }

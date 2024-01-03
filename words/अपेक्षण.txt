@@ -15,5 +15,43 @@
             "pagenum": 42,
             "content": "apekzaRa¦ <i>n.</i> The same as अपेक्षा q.v."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपेक्षण",
+            "eid": "10365",
+            "pagenum": 56,
+            "content": "ape<srs/>kzaRa ¦ <lex>n.</lex> = ape<srs/>kzA, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "अपेक्षण",
+            "eid": "10365.1",
+            "pagenum": 1314,
+            "content": "ape<srs/>kzaRa ¦ <lex>mfn.</lex> not looking at (<ab>comp.</ab>), <ls>Subh.</ls> (<ab>conj.</ab>).<info n='sup'/><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपेक्षण",
+            "eid": "3803",
+            "pagenum": 56,
+            "content": "<i>Apekṣaṇa, am,</i>¦ n. or <i>apekṣā,</i> f. looking round or about; (with the object either in loc. or as the preceding member of a compound) consideration, reference, regard; connection of cause with effect or of individual with species; expectation, hope, desire, need, requirement. <i>—Apekṣayā,</i> with reference to. <i>—Apekṣā-buddhi, is,</i> f. a mental process in the vaiśeṣika philosophy, the faculty of arranging and methodising; clearness of understanding."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपेक्षण",
+            "eid": "6615",
+            "pagenum": 1,
+            "content": "अपेक्षण¦ (<ab>Conj.</ab>) <lex>Adj.</lex> <i>hinschauend auf</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपेक्षण",
+            "eid": "118407",
+            "pagenum": 7,
+            "content": "अपेक्षण¦ <lex>adj.</lex> <i>hinschauend auf</i>: द्वारापेक्षण <ls>Spr. (II) 5543</ls> (Conj.)."
+        }
     ]
 }

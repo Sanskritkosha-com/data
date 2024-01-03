@@ -23,5 +23,55 @@
             "pagenum": 306,
             "content": "talita¦ <i>n.</i> Fried meat."
         }
+    ],
+    "MW": [
+        {
+            "word": "तलित",
+            "eid": "83549",
+            "pagenum": 440,
+            "content": "<hom>1.</hom> तलित ¦ <lex>mfn.</lex> ‘bottomed’, fixed, placed, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तलित",
+            "eid": "83559",
+            "pagenum": 440,
+            "content": "<hom>2.</hom> तलित ¦ <lex>mfn.</lex> fried, <ls>Bhpr.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तलित",
+            "eid": "20611",
+            "pagenum": 367,
+            "content": "1. <i>talita, as, ā, am,</i>¦ fixed, placed, having a bottom; [cf. 2. <i>talita</i> next col.]"
+        },
+        {
+            "word": "तलित",
+            "eid": "20617",
+            "pagenum": 367,
+            "content": "तलित 2¦. <i>talita, am,</i> n. fried meat. (For 1. <i>talita</i> see col. 1, under <i>tala.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तलित",
+            "eid": "45021",
+            "pagenum": 3,
+            "content": "तलित¦ <lex>Adj.</lex> <i>geschmort</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तलित",
+            "eid": "29066",
+            "pagenum": 3,
+            "content": "तलित¦ <lex>n.</lex> <i>gebratenes Fleisch</i> <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "तलित",
+            "eid": "120111",
+            "pagenum": 7,
+            "content": "तलित¦, lies <lex>adj.</lex> <i>geschmort</i> (in Oel oder Schmalz) <ls>BHĀVAPR. 5.</ls>"
+        }
     ]
 }

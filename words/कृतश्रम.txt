@@ -23,5 +23,35 @@
             "pagenum": 203,
             "content": "kfta-Srama¦ <i>a.</i> studied, e.g. पुराणे कृतश्रमः ‘who has spent his labours over <i>Purāṇa</i>, i.e. who has studied that branch of literature.’"
         }
+    ],
+    "MW": [
+        {
+            "word": "कृतश्रम",
+            "eid": "54385",
+            "pagenum": 302,
+            "content": "कृत—श्रम ¦ <lex>mfn.</lex> one who has made great exertions, painstaking, laborious (with <ab>loc.</ab> or <ab>ifc.</ab>), <ls>MBh.</ls>; <ls>R.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "कृतश्रम",
+            "eid": "54386",
+            "pagenum": 302,
+            "content": "कृत—श्रम ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1='muni'>Muni</s1>, <ls>MBh. ii, 109.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कृतश्रम",
+            "eid": "30013",
+            "pagenum": 2,
+            "content": "कृतश्रम¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>der sich Mühen unterzogen hat, der sich eifrig beschäftigt hat mit</i> (<ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend). <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines <is>Muni</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कृतश्रम",
+            "eid": "18650",
+            "pagenum": 2,
+            "content": "कृतश्रम¦ (कृत + श्रम) <div n='1'> 1) <lex>adj.</lex> <i>der sich Mühen unterzogen hat, der sich eifrig womit beschäftigt hat</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> पुराणे कृतश्रमः <ls>MBH. 1, 852.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines <is>Muni</is> <ls>MBH. 2, 109.</ls>"
+        }
     ]
 }

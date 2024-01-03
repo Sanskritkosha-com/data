@@ -15,5 +15,51 @@
             "pagenum": 101,
             "content": "AnarTakya¦ <i>n.</i> 1. Uselessness, आम्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानाम् <ls>Jaim.S.</ls>; 2. unfitness."
         }
+    ],
+    "MD": [
+        {
+            "word": "आनर्थक्य",
+            "eid": "3614",
+            "pagenum": 39,
+            "content": "आनर्थक्य¦ ānarthak-ya, <lex>n.</lex> uselessness."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आनर्थक्य",
+            "eid": "24480",
+            "pagenum": 140,
+            "content": "आनर्थक्य ¦ <lex>n.</lex> (<ab>fr.</ab> अन्-अर्थक), uselessness, unprofitableness, <ls>KātyŚr.</ls>; <ls>Pāṇ.</ls> &c.<info lex='n'/>"
+        },
+        {
+            "word": "आनर्थक्य",
+            "eid": "24481",
+            "pagenum": 140,
+            "content": "¦ unfitness, impropriety, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आनर्थक्य",
+            "eid": "8575",
+            "pagenum": 121,
+            "content": "आनर्थक्य¦ <i>ānarthakya, am,</i> n. (fr. <i>an-</i> <i>arthaka</i>), unfitness, impropriety; uselessness, unprofitableness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आनर्थक्य",
+            "eid": "14702",
+            "pagenum": 1,
+            "content": "आनर्थक्य¦ <lex>n.</lex> <i>Zwecklosigkeit</i> <ls>JAIM. 1,2,1</ls>. <ls>KAP. 4,15</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आनर्थक्य",
+            "eid": "8602",
+            "pagenum": 1,
+            "content": "आनर्थक्य¦ (von अनर्थक) <lex>n.</lex> <i>Zwecklosigkeit</i> <ls>KĀTY. ŚR. 1, 8, 5. 6.</ls> <ls>P. 2, 4, 82</ls>, <is>Vārtt</is>. <ls>PAT.</ls> zu <ls n='P.'>1, 2, 6.</ls> <ls>KAIY.</ls> zu <ls n='P.'>8, 2, 85.</ls>"
+        }
     ]
 }

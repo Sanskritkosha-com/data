@@ -7,5 +7,29 @@
             "pagenum": 222,
             "content": "kzetra-gata¦ <i>a.</i> geometrical."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षेत्रगत",
+            "eid": "60266",
+            "pagenum": 332,
+            "content": "क्षेत्र—गत ¦ <lex>mfn.</lex> ‘relating to plane figures’, geometrical<info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षेत्रगत",
+            "eid": "32923",
+            "pagenum": 2,
+            "content": "क्षेत्रगत¦ <lex>Adj.</lex> <i>geometrisch</i>. °गतोपपत्ति <lex>f.</lex> <i>geometrischer Beweis</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षेत्रगत",
+            "eid": "20585",
+            "pagenum": 2,
+            "content": "क्षेत्रगत¦ (क्षेत्र 9. + गत) <lex>adj.</lex> <i>geometrisch</i> <ls>COLEBR. Alg. 271.</ls> क्षेत्रगतोपपत्ति <i>geometrischer Beweis</i> <ls n='COLEBR. Alg.'>59.</ls>"
+        }
     ]
 }

@@ -37,5 +37,49 @@
             "pagenum": 670,
             "content": "viBIta¦ <i>m.n.</i> Name of a tree (<i>terminalia belerica</i>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "विभीत",
+            "eid": "193331",
+            "pagenum": 951,
+            "content": "<hom>1.</hom> वि—भीत ¦ <lex>mfn.</lex> (for <hom>2.</hom> and <hom>3.</hom> See <ab>s.v.</ab>) <ab>id.</ab>, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विभीत",
+            "eid": "198368",
+            "pagenum": 978,
+            "content": "<hom>2.</hom> वि-भीत ¦ <lex>mfn.</lex> (for <hom>1.</hom> See <pcol>p. 951, col. 3</pcol>; for <hom>3.</hom> See <ab>col.</ab> 2) afraid, intimidated, <ls>MārkP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विभीत",
+            "eid": "198386",
+            "pagenum": 978,
+            "content": "<hom>3.</hom> विभीत ¦ <lex>m.</lex> <lex type='hw'>n.</lex> = next, <ls>ŚārṅgS.</ls><info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विभीत",
+            "eid": "43460",
+            "pagenum": 931,
+            "content": "<i>Vi-bhīta, as, ā, am,</i>¦ fearless; (<i>as, ā, am</i>), m. f. n. the plant Terminalia Belerica."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विभीत",
+            "eid": "103657",
+            "pagenum": 6,
+            "content": "विभीत¦ <lex>m.</lex>, विभी/तक <lex>m.</lex> (*<lex>f.</lex> ई) und विभी/दक <lex>m.</lex> <i><bot>Terminalia Bellerica</bot>;</i> <lex>n.</lex> <i>die als Würfel gebrauchte Nuss</i> <ls>RĀJAN. 11,237</ls>. <ls>BHĀVAPR. 1,161</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विभीत",
+            "eid": "92484",
+            "pagenum": 6,
+            "content": "विभीत¦ <lex>m.</lex> = विभीतक <ls>HALĀY. 2, 463.</ls> <ls>ŚĀRṄG. SAṂH. 3, 8, 27. 11, 3. 13, 63.</ls>"
+        }
     ]
 }

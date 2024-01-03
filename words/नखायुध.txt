@@ -36,5 +36,61 @@
             "pagenum": 366,
             "content": "naKa-AyuDa¦ <i>m.</i> 1. a tiger; 2. a lion; 3. a cock."
         }
+    ],
+    "MD": [
+        {
+            "word": "नखायुध",
+            "eid": "10216",
+            "pagenum": 135,
+            "content": "नखायुध¦ nakha‿āyudha, <lex>a.</lex> armed with claws; 🞄<lex>m.</lex> animal with claws: <b>-tva,</b> <lex>n.</lex> <ab>abst. ɴ.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "नखायुध",
+            "eid": "102988",
+            "pagenum": 524,
+            "content": "naKA<srs/>yuDa ¦ <lex>mfn.</lex> ‘claw-armed’, <ls>Pañc. ii, 51/52</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "नखायुध",
+            "eid": "102989.1",
+            "pagenum": 524,
+            "content": "naKA<srs/>yuDa ¦ <lex>m.</lex> a lion<info lex='m'/>"
+        },
+        {
+            "word": "नखायुध",
+            "eid": "102990",
+            "pagenum": 524,
+            "content": "¦ tiger<info lex='inh'/>"
+        },
+        {
+            "word": "नखायुध",
+            "eid": "102991",
+            "pagenum": 524,
+            "content": "¦ cock, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नखायुध",
+            "eid": "102992",
+            "pagenum": 524,
+            "content": "¦ monkey, <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नखायुध",
+            "eid": "56281",
+            "pagenum": 3,
+            "content": "नखायुध¦ <lex>Adj.</lex> <i>die Kralle als Waffe gebrauchend;</i> <lex>m.</lex> <i>ein solches Thier</i> (<ab>insbes.</ab> *<i>Löwe und *Hahn</i>). <ab>Nom. abstr.</ab> °त्व <lex>n.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नखायुध",
+            "eid": "37378",
+            "pagenum": 4,
+            "content": "नखायुध¦ (नख + आयुध) <lex>adj.</lex> <i>die Nägel —, die Krallen als Waffen gebrauchend</i>; subst. <lex>m.</lex> <i>ein solches Thier</i>; von Affen <ls>R. 5, 73, 21.</ls> शष्पभुग्नखायुधानाम् <ls>PAÑCAT. 110, 22.</ls> Davon nom. abstr. °त्व <ls n='PAÑCAT.'>71, 11.</ls> Insbes. heisst नखायुध <i>der Tiger</i> ( <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>) und <i>der Hahn</i> ( <ls>H. ś. 190.</ls>)"
+        }
     ]
 }

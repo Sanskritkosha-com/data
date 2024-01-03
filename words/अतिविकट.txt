@@ -31,5 +31,35 @@
             "pagenum": 10,
             "content": "ati-vikawa¦ <i>m.</i> a vicious elephant."
         }
+    ],
+    "MW": [
+        {
+            "word": "अतिविकट",
+            "eid": "2794",
+            "pagenum": 13,
+            "content": "अति—विकट ¦ <lex>mfn.</lex> very fierce<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अतिविकट",
+            "eid": "2794.1",
+            "pagenum": 13,
+            "content": "अति—विकट ¦ <lex>m.</lex> a vicious elephant.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अतिविकट",
+            "eid": "2024",
+            "pagenum": 1,
+            "content": "अतिविकट¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>ungeheuerlich, scheusslich</i> <ls>SARVAD. 178,11</ls>. <div n='1'>— 2〉 <lex>m.</lex> *<i>böser Elephant</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अतिविकट",
+            "eid": "1429",
+            "pagenum": 1,
+            "content": "अतिविकट¦ (अति + विकट) <lex>m.</lex> <i>ein fehlerhafter Elephant</i> (दुष्टहस्तिन्) <ls>RATNAM.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

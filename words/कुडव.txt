@@ -36,5 +36,51 @@
             "pagenum": 193,
             "content": "kuqava(pa)¦ <i>m.</i> A measure of grain equal to a quarter of a प्रस्थ and containing twelve handfuls."
         }
+    ],
+    "MD": [
+        {
+            "word": "कुडव",
+            "eid": "5992",
+            "pagenum": 69,
+            "content": "कुडव¦ kuḍa-va, <lex>m.</lex> <i>a measure and weight</i> (= ¹⁄₄ 🞄<i>prastha</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कुडव",
+            "eid": "51749",
+            "pagenum": 289,
+            "content": "कुडव ¦ <lex>mn.</lex> a measure of grain or of wood or of iron &c. (4th part of a <s1 slp1='prasTa'>Prastha</s1>, described by some as a vessel four fingers wide and as many deep and containing 12 <s1 slp1='prakfti'>Prakṛti</s1>s or handfuls; also said to contain 13 1/2 cubic <s1 slp1='aNgula'>Aṅgula</s1>s, or to contain 64 cubic <s1 slp1='aNgula'>Aṅgula</s1>s [<ls>ŚārṅgS.</ls>], or to be a finger and a half deep and three fingers each in length and breadth; in <ab n='medicine'>med.</ab> it is equal to two <s1 slp1='prakfti'>Prakṛti</s1>s or thirty-two <s1 slp1='tolaka'>Tolaka</s1>s), <ls>MBh.</ls>; <ls>Jyot.</ls>; <ls>VarBṛS.</ls> &c.<info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कुडव",
+            "eid": "15024",
+            "pagenum": 234,
+            "content": "कुडव¦ <i>kuḍava, as,</i> m. a measure of grain, wood, iron, &c., the fourth part of a Prastha, described by some as a vessel four fingers wide and as many deep and containing twelve Prakṛtis or handfuls; it is also said to contain 13(1/2) cubic Angulas; or to be a finger and a half deep, and three fingers each in length and breadth; in medicine it is equal to two Prakṛtis or thirty-two Tolakas."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुडव",
+            "eid": "28384",
+            "pagenum": 2,
+            "content": "कुडव¦ <lex>m.</lex> <lex>n.</lex> <i>ein <ab>best.</ab> Hohlmaass und Gewicht</i> <ls>HEMĀDRI 2,a,57,11. 12. 58,1</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुडव",
+            "eid": "17590",
+            "pagenum": 2,
+            "content": "कुडव¦ <lex>m.</lex> <i>ein best. Hohlmaass</i> und <i>Gewicht</i> <ls>AK. 2, 9, 89.</ls> - = (1/4) <is>Prastha</is> <ls>SUŚR. 2, 175, 15.</ls> <ls>H. 886.</ls> = 13(1/2) Kubik-<is>Aṅgula</is> <ls>COLEBR. Alg. 3.</ls> = 2 <is>Prasṛta</is> = 32 <is>Tolaka</is> <ls>VAIDY.</ls> im <ls>ŚKDR.</ls> - <ls>GARBHOP.</ls> in <ls>Ind. St. 2, 71.</ls> <ls>MBH. 14, 2722.</ls> <ls n='MBH. 14,'>2728.</ls> <ls>SUŚR. 1, 33, 1. 161, 6. 162, 6. 2, 73, 4. 161, 13. 170, 6. 350, 15.</ls>"
+        },
+        {
+            "word": "कुडव",
+            "eid": "70903",
+            "pagenum": 5,
+            "content": "कुडव¦ <ls>Verz. d. Oxf. H. 307,b,2.</ls> <ls>WEBER, JYOT. 78. 72.</ls> <ls>VARĀH. BṚH. S. 104,46.</ls> = <i>ein Hohlmaass von 64 Kubik</i>-<is>Aṅgula</is> <ls>ŚĀRṄG. SAṂH. 1, 1, 26.</ls>"
+        }
     ]
 }

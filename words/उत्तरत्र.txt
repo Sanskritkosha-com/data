@@ -15,5 +15,35 @@
             "pagenum": 125,
             "content": "uttara-tra¦ <i>ind.</i> in what follows, subsequently, later on."
         }
+    ],
+    "MW": [
+        {
+            "word": "उत्तरत्र",
+            "eid": "31210",
+            "pagenum": 178,
+            "content": "उत्तर—त्र ¦ <lex>ind.</lex> in what follows, after, subsequently, later, further on, beyond, below (in a work), <ls>Pāṇ.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "उत्तरत्र",
+            "eid": "31210.1",
+            "pagenum": 178,
+            "content": "¦ northward, (पूर्वत्र, in the first case or place; उत्तरत्र, in the second), <ls>Sāh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उत्तरत्र",
+            "eid": "18165",
+            "pagenum": 1,
+            "content": "उत्तरत्र¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>in der Folge, weiter unten</i> (in einem Buche). <div n='1'>— 2〉 <i>im anderen Falle</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उत्तरत्र",
+            "eid": "10906",
+            "pagenum": 1,
+            "content": "उत्तरत्र¦ (von 1. उत्तर) adv. <i>in der Folge, weiter unten</i> (im Buche) <ls>Sch.</ls> zu <ls>P. 1, 3, 84.</ls> <ls n='P.'>3, 1, 9.</ls> पूर्वत्र - उत्तरत्र <i>im ersten Falle - im zweiten</i> <ls>SĀH. D. 11, 7.</ls>"
+        }
     ]
 }

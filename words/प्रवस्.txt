@@ -7,5 +7,33 @@
             "pagenum": 759,
             "content": "प्रवस्¦ {c1c} <ab>P.</ab> <b>1</b> To live, dwell. <b>--2</b> To go abroad, sojourn, be absent from home, travel; विधाय वृत्तिं <lbinfo n='BAryA#yAH'/> भार्यायाः प्रवसेत्कार्यवान्नरः <ls>Ms. 9. 74</ls>;  <lbinfo n='ls:R. 11.+ 4.'/> <ls>R. 11. 4.</ls> <i>--<ab>Caus.</ab></i> To banish, send into exile."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रवस्",
+            "eid": "136815",
+            "pagenum": 691,
+            "content": "<hom>a</hom> प्र-√ <hom>4.</hom> वस् ¦ <ab>Ā.</ab> -वस्ते, to put on (clothes), to dress, <ls>R.</ls><info verb='pre' cp='Ā' parse='pra+vas'/>"
+        },
+        {
+            "word": "प्रवस्",
+            "eid": "136816",
+            "pagenum": 691,
+            "content": "<hom>b</hom> प्र-√ <hom>5.</hom> वस् ¦ <ab>P.</ab> -वसति, (rarely <ab>Ā.</ab>; <ab>e.g.</ab> <ab>pf.</ab> -वासां चक्रे, <ls>ChUp.</ls>; <ab>fut.</ab> -वत्स्यति, <ls>ĀśvŚr.</ls>; <ab>ind.p.</ab> pro<srs/>zya, <ls>ŚBr.</ls>), <div n='to'/>to go or sojourn abroad, leave home, depart, <ls>RV.</ls> &c. &c.; <div n='to'/>to disappear vanish, cease, <ls>Hariv.</ls>; <div n='to'/>to stop at a place, abide, dwell, <ls>MBh.</ls>; <ls>R.</ls>; <div n='vp'/> (= <ab>Caus.</ab>) to banish to (<ab>loc.</ab>), <ls>R.</ls> : <div n='vp'/><ab>Caus.</ab> -वासयति, to make to dwell in <ls>Divyāv.</ls>; <div n='to'/>to order to live abroad, turn out, expel, banish, <ls>Mn.</ls>; <ls>MBh.</ls> &c.: <div n='vp'/><ab>Desid.</ab> -विवत्सति, to intend to set out on a journey, <ls>Śiś.</ls>; <div n='to'/>to be about to depart from (<ab>abl.</ab>), <ls>Car.</ls><info verb='pre' cp='PĀ' parse='pra+vas'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रवस्",
+            "eid": "32763",
+            "pagenum": 642,
+            "content": "प्रवस् 1¦. <i>pra-vas</i> (see rt. 5. <i>vas</i>), cl. 2. A. <i>-vaste, -vasitum,</i> to put on (clothes), to dress."
+        },
+        {
+            "word": "प्रवस्",
+            "eid": "32764",
+            "pagenum": 642,
+            "content": "प्रवस् 2¦. <i>pra-vas</i> (see rt. 6. <i>vas</i>), cl. 1. P. <i>-vasati, -vastum,</i> to live afar off, dwell abroad; to order to live abroad, banish to (with loc.): Caus. <i>-vāsayati, -yitum,</i> to cause to live afar off, order to dwell abroad, banish, exile."
+        }
     ]
 }

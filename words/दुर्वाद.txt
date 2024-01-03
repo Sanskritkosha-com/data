@@ -23,5 +23,47 @@
             "pagenum": 335,
             "content": "dur-vAda¦ <i>m.</i> slander, defamation, calumny."
         }
+    ],
+    "MW": [
+        {
+            "word": "दुर्वाद",
+            "eid": "94316",
+            "pagenum": 486,
+            "content": "दुर्—वाद ¦ <lex>m.</lex> slander, abuse, reproach, <ls>ŚārṅgP.</ls> (<ab>v.l.</ab>)<info lex='m'/>"
+        },
+        {
+            "word": "दुर्वाद",
+            "eid": "94317",
+            "pagenum": 486,
+            "content": "दुर्—वाद ¦ <lex>mfn.</lex> speaking ill, <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दुर्वाद",
+            "eid": "51393",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> दुर्वाद¦ <lex>m.</lex> <i>Tadel</i> <ls>Spr. 5621</ls>, <ab>v. l.</ab>"
+        },
+        {
+            "word": "दुर्वाद",
+            "eid": "51394",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *दुर्वाद¦ <lex>Adj.</lex> <i>schlecht redend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दुर्वाद",
+            "eid": "33793",
+            "pagenum": 3,
+            "content": "दुर्वाद¦ (2. दुष् + वाद) <lex>m.</lex> <i>üble Nachrede</i> (स्तुतिपूर्वकदुर्वाक्यम्) <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <lex>adj.</lex> <i>schlecht redend</i> <ls>WILS.</ls> nach ders. Aut."
+        },
+        {
+            "word": "दुर्वाद",
+            "eid": "75972",
+            "pagenum": 5,
+            "content": "दुर्वाद¦ <i>eine boshafte Rede</i> <ls>Spr. 132.</ls>"
+        }
     ]
 }

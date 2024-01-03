@@ -36,5 +36,47 @@
             "pagenum": 250,
             "content": "go-nardIya¦ <i>m.</i> an epithet of Patanjali, the author of the Mahābhāshya."
         }
+    ],
+    "MW": [
+        {
+            "word": "गोनर्दीय",
+            "eid": "67184",
+            "pagenum": 365,
+            "content": "गो—°नर्दीय ¦ <lex>m.</lex> ‘belonging to the people called <s1 slp1='gonarda'>Gonarda</s1>s (<ls>Pāṇ. i, 1, 75</ls>, <ls>Kāś.</ls>)’, <s1 slp1='pataYjali'>Patañjali</s1> (founder of the <s1 slp1='yoga'>Yoga</s1> <ab>phil.</ab>), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गोनर्दीय",
+            "eid": "67185",
+            "pagenum": 365,
+            "content": "¦ <ab>N.</ab> of a grammarian (apparently identified with, <ls>Pat.</ls> by, <ls>Kaiy.</ls>), <ls>Pat.</ls> on <ls>Pāṇ. i, 1, 21</ls> and <ls n='Pāṇ. i, 1'>29</ls>; <ls n='Pāṇ.'>iii, 1, 92</ls>; <ls n='Pāṇ.'>vii, 2, 101</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गोनर्दीय",
+            "eid": "67186",
+            "pagenum": 365,
+            "content": "¦ of the author of a work on the treatment of a wife (perhaps the same with the grammarian), <ls>Vātsyāy. i</ls>, <ls n='Vātsyāy.'>iv</ls>; <ls>Ragh. xix, 29 ff.</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोनर्दीय",
+            "eid": "36618",
+            "pagenum": 2,
+            "content": "गोनर्दीय¦ <lex>m.</lex> <ab>N. pr.</ab> eines Grammatikers, angeblich <ab>Bein.</ab> <is>Patañjali</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोनर्दीय",
+            "eid": "23157",
+            "pagenum": 2,
+            "content": "गोनर्दीय¦ (von गोनर्द) <lex>adj.</lex> <i>zu den</i> <is>Gonarda</is> <i>in Beziehung stehend u.s.w.</i>: गोनर्दीयाः <ls>P. 1, 1, 75</ls>, <ls>Sch.</ls> Bein. <is>Patañjali's</is> <ls>TRIK. 2, 7, 25.</ls> <ls>H. 851.</ls> <ls>LIA. II, 484.</ls> Nach <ls>WEBER</ls> in <ls>Ind. St. 1, 143</ls> N. eines von <is>Patañjali</is> erwähnten Grammatikers."
+        },
+        {
+            "word": "गोनर्दीय",
+            "eid": "73020",
+            "pagenum": 5,
+            "content": "गोनर्दीय¦ <lex>m.</lex> N. pr. <ls>PAT.</ls> in <ls>MAHĀBH. 412. 472.</ls> <ls>Verz. d. Oxf. H. 113,b,20. 160,a,26. 215,b,17. 217,b,1.</ls> <ls>Ind. St. 5,155. fgg.</ls>"
+        }
     ]
 }

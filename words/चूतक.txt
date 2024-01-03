@@ -20,5 +20,43 @@
             "pagenum": 497,
             "content": "चूतकः¦ <b>1</b> The mango tree. <b>--2</b> A small well."
         }
+    ],
+    "MW": [
+        {
+            "word": "चूतक",
+            "eid": "74795",
+            "pagenum": 401,
+            "content": "चूतक ¦ <lex>m.</lex> the mango tree, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "चूतक",
+            "eid": "74796",
+            "pagenum": 401,
+            "content": "¦ a small well (= चूडक), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चूतक",
+            "eid": "18823",
+            "pagenum": 329,
+            "content": "<i>Cūtaka, as,</i>¦ m. the mango tree; a small or shallow well; [cf. <i>cūḍaka.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चूतक",
+            "eid": "40524",
+            "pagenum": 2,
+            "content": "*चूतक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Mangobaum</i>. <div n='1'>— 2〉 <i>ein kleiner Brunnen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चूतक",
+            "eid": "25808",
+            "pagenum": 2,
+            "content": "चूतक¦ (von चूत) <lex>m.</lex> <div n='1'> 1) <i>der Mangobaum</i> <ls>H. an. 3, 42.</ls> <ls>MED. k. 89.</ls> <div n='1'>— 2) <i>ein kleiner Brunnen</i> (vgl. चूडक) <ls>H. 1093.</ls> <ls>H. an.</ls> <ls>MED.</ls>"
+        }
     ]
 }

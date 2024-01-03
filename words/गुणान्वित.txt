@@ -31,5 +31,41 @@
             "pagenum": 244,
             "content": "guRa-anvita¦ <i>a.</i> excellent, good, endowed with virtues."
         }
+    ],
+    "MW": [
+        {
+            "word": "गुणान्वित",
+            "eid": "65736",
+            "pagenum": 358,
+            "content": "guRA<srs/>nvita ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls n='ŚvetUp.'>vi, 4</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गुणान्वित",
+            "eid": "65737",
+            "pagenum": 358,
+            "content": "¦ endowed with virtues, excellent, <ls>Mn. ii</ls>, <ls n='Mn.'>vii</ls> (<ab>ifc.</ab> with रूप), <ls>Vedāntas.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गुणान्वित",
+            "eid": "65738",
+            "pagenum": 358,
+            "content": "¦ auspicious (a <s1 slp1='nakzatra'>Nakṣatra</s1>), <ls>Mn. ii, 30.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गुणान्वित",
+            "eid": "35791",
+            "pagenum": 2,
+            "content": "गुणान्वित¦ <lex>Adj.</lex> <i>mit löblichen Eigenschaften —, mit Vorzügen versehen</i> <ls n='Chr.'>256,32</ls>. <ls>M. 2,247</ls>. नक्षत्र <lex>n.</lex> so <ab>v. a.</ab> <i>Glück verheissend</i> <ls n='Chr. 256,'>30</ls>."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "गुणान्वित",
+            "eid": "16890",
+            "pagenum": 7,
+            "content": "गुणान्वित¦ II. auch = गुणान्वय <ls>ŚVETĀŚV. UP. 6,4</ls>."
+        }
     ]
 }

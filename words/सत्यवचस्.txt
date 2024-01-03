@@ -13,5 +13,47 @@
             "pagenum": 751,
             "content": "satya-vacas¦ <i>(II) m.</i> 1. a saint; 2. a crow."
         }
+    ],
+    "MW": [
+        {
+            "word": "सत्यवचस्",
+            "eid": "229999",
+            "pagenum": 1136,
+            "content": "सत्य—वचस् ¦ <lex>n.</lex> veracity, truth, <ls>W.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सत्यवचस्",
+            "eid": "230000",
+            "pagenum": 1136,
+            "content": "सत्य—वचस् ¦ <lex>mfn.</lex> true-speaking<info lex='m:f:n'/>"
+        },
+        {
+            "word": "सत्यवचस्",
+            "eid": "230001",
+            "pagenum": 1136,
+            "content": "सत्य—वचस् ¦ <lex>m.</lex> a <s1 slp1='fzi'>Ṛṣi</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सत्यवचस्",
+            "eid": "230002",
+            "pagenum": 1136,
+            "content": "¦ <ab>N.</ab> of a man, <ls>TUp.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सत्यवचस्",
+            "eid": "118298",
+            "pagenum": 7,
+            "content": "सत्यवचस्¦ <div n='1'>— 1〉 <lex>Adj.</lex> dessen Rede wahr ist. <div n='1'>— 2〉 [Page7-030-c] <lex>m.</lex> <div n='2'>— a〉 <i>ein</i> <is>Ṛṣi</is>. <div n='2'>— b〉 <ab>N. pr.</ab> eines Mannes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सत्यवचस्",
+            "eid": "104140",
+            "pagenum": 7,
+            "content": "सत्यवचस्¦ <div n='1'> 1) <lex>adj.</lex> <i>dessen Rede wahr ist</i>; <lex>m.</lex> Bez. <i>eines</i> <is>Ṛṣi</is> <ls>AK. 2, 7, 42.</ls> <ls>TRIK. 2, 7, 15.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines Mannes mit dem patron. <is>Rāthītara</is> <ls>TAITT. UP. 1, 9.</ls>"
+        }
     ]
 }

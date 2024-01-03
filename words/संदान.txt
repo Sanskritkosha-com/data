@@ -53,5 +53,47 @@
             "pagenum": 753,
             "content": "saMdAna¦ <i>(II) m.</i> That part of an elephant’s temples whence ichorous fluid issues."
         }
+    ],
+    "MW": [
+        {
+            "word": "संदान",
+            "eid": "231429",
+            "pagenum": 1143,
+            "content": "<hom>1.</hom> सं-दान ¦ <lex>n.</lex> the act of cutting or dividing, <ls>MW.</ls><info lex='n'/>"
+        },
+        {
+            "word": "संदान",
+            "eid": "231430",
+            "pagenum": 1143,
+            "content": "¦ that part of an elephant's temples whence the fluid called <s1 slp1='mada'>Mada</s1> issues (<ab>cf.</ab> <hom>2.</hom> दान), <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "संदान",
+            "eid": "231434",
+            "pagenum": 1143,
+            "content": "<hom>2.</hom> सं-दा/न ¦ <lex>m.</lex> the part under the knee of an elephant where the fetter is fastened (also -भाग), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "संदान",
+            "eid": "231435",
+            "pagenum": 1143,
+            "content": "¦ a bond, halter, fetter, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "संदान",
+            "eid": "118973",
+            "pagenum": 7,
+            "content": "संदा/न¦ <div n='1'>— 1〉 (*<lex>m.</lex>) <i>die Gegend unterhalb des Knies beim Elephanten</i> (wo ihm die Fessel angelegt wird) <ls>ŚIŚ. 18,71</ls>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>Band, Fessel</i>. <ab>Nom. abstr.</ab> संदानता <lex>f.</lex> <ls>DAŚAK. 44,4</ls>. <div n='2'>— b〉 <ls>MBH. 7,592</ls> fehlerhaft [Page7-041-c] für संधान."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "संदान",
+            "eid": "104663",
+            "pagenum": 7,
+            "content": "संदा/न¦ (wie eben) <div n='1'> 1) <lex>m.</lex> <i>die Gegend unterhalb des Knies beim Elephanten</i> (vgl. <i>Fessel</i>) <ls>TRIK. 2, 8, 37.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Band, Fessel</i> <ls>AK. 2, 9, 74.</ls> <ls>TRIK. 3, 2, 23.</ls> <ls>H. 1274.</ls> <ls>HALĀY. 2, 122.</ls> अर्व^तः <ls>ṚV. 1, 162, 8.</ls> <ls n='ṚV. 1, 162,'>16.</ls> <ls>AV. 6, 103, 1.</ls> <ls n='AV. 6,'>104, 1.</ls> आ\\दा\\न\\स\\ंदा\\नाभ्या^म् <ls n='AV.'>11, 9, 3.</ls> <ls>KAUŚ. 16.</ls> <ls>TS. 2, 4, 7, 2.</ls> <ls>ŚAT. BR. 14, 3, 1, 22.</ls> <ls>KĀTY. ŚR. 26, 2, 10.</ls> — Fehlerhaft für संधान (so <ls>ed. Bomb.</ls>) <ls>MBH. 7, 5923.</ls>"
+        }
     ]
 }

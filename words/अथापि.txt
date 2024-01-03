@@ -15,5 +15,31 @@
             "pagenum": 12,
             "content": "aTa-api¦ <i>ind.</i> moreover."
         }
+    ],
+    "MW": [
+        {
+            "word": "अथापि",
+            "eid": "3540",
+            "pagenum": 17,
+            "content": "aTA<srs/>pi ¦ <lex>ind.</lex> so much the more<info lex='ind'/>"
+        },
+        {
+            "word": "अथापि",
+            "eid": "3540.1",
+            "pagenum": 17,
+            "content": "¦ moreover<info lex='inh'/>"
+        },
+        {
+            "word": "अथापि",
+            "eid": "3540.2",
+            "pagenum": 17,
+            "content": "¦ therefore<info lex='inh'/>"
+        },
+        {
+            "word": "अथापि",
+            "eid": "3540.3",
+            "pagenum": 17,
+            "content": "¦ thus.<info lex='inh'/>"
+        }
     ]
 }

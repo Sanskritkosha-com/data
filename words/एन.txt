@@ -71,5 +71,87 @@
             "pagenum": 137,
             "content": "<b>ena</b>¦ [<ls n='wg,500'>500]</ls>, <i><ab>encl.</ab> <ab>pron.</ab> used only substantively;</i> <lbinfo n='substantive-ly;'/> <i>unemphatic</i> him, her, it, them. [<ab>pron.</ab> root e.]"
         }
+    ],
+    "MD": [
+        {
+            "word": "एन",
+            "eid": "5151",
+            "pagenum": 59,
+            "content": "एन¦ <hom>1.</hom> e-na, (<ab>encl.</ab>) <ab>prn.</ab> <i>stem of 3rd <ab>pers.</ab></i> he, 🞄she, it."
+        },
+        {
+            "word": "एन",
+            "eid": "5152",
+            "pagenum": 59,
+            "content": "एन¦ <hom>2.</hom> ena, एना enā, <ab>in.</ab> (<i>of</i> <hom>1.</hom> a), then, 🞄thereupon."
+        }
+    ],
+    "MW": [
+        {
+            "word": "एन",
+            "eid": "40112",
+            "pagenum": 232,
+            "content": "<hom>1.</hom> एन ¦ a <ab>pronom.</ab> base (used for certain cases of the 3rd personal pronoun, thus in the <ab>acc.</ab> <ab>sing.</ab> <ab>du.</ab> <ab>pl.</ab> [एनम्, एनाम्, एनद्, &c.], <ab>inst.</ab> <ab>sing.</ab> [एनेन, एनया] <ab>gen.</ab> <ab>loc.</ab> <ab>du.</ab> [एनयोस्, <ab>Ved.</ab> एनोस्]; the other cases are formed <ab>fr.</ab> the <ab>pronom.</ab> base अ See under इदम्), he, she, it<info lexcat='LEXID=pron,STEM=idam,etad'/>"
+        },
+        {
+            "word": "एन",
+            "eid": "40112.1",
+            "pagenum": 232,
+            "content": "¦ this, that, (this pronoun is enclitic and cannot begin a sentence; it is generally used alone, so that एनम् पुरुषम्, ‘that man’, would be very unusual if not incorrect. Grammarians assert that the substitution of एनम् &c. for इमम् or एतम् &c. takes place when something is referred to which has already been mentioned in a previous part of the sentence; See <ls>Gr. 223</ls> and <ls n='Gr.'>836</ls>)"
+        },
+        {
+            "word": "एन",
+            "eid": "40112.2",
+            "pagenum": 232,
+            "content": "एन ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>ἕν</lang>, <lang n='greek'>οἷος</lang>; <ab>Goth.</ab> <etym>ains</etym>; <ab>Old Pruss.</ab> <etym>ains</etym>; <ab>Lat.</ab> <etym>oinos</etym>, <etym>unus</etym>.]"
+        },
+        {
+            "word": "एन",
+            "eid": "40113",
+            "pagenum": 232,
+            "content": "<hom>2.</hom> एन and एना, ¦ <ab>Ved.</ab> <ab>instr.</ab> of इदम्, <ab>q.v.</ab><info and='40113,ena;40113.1,enA'/>"
+        },
+        {
+            "word": "एन",
+            "eid": "40115",
+            "pagenum": 232,
+            "content": "<hom>3.</hom> एन ¦ (<ab>cf.</ab> एण), a stag. See अन्-एन."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "एन",
+            "eid": "12755",
+            "pagenum": 186,
+            "content": "एन¦ <i>ena,</i> a pronom. base (used for certain cases of the 3rd personal pronoun, and occurring only in the acc. sing. du. pl. (<i>enam, enām, enad,</i> &c.), inst. sing. (<i>enena, enayā</i>), gen. loc. du. (<i>enayos,</i> Ved. <i>enos</i>); the other cases are formed fr. the pronom. base <i>a,</i> see under <i>idam</i>), he, she, it; this, that. This pronoun is enclitic and cannot begin a sentence. It is generally used alone, so that <i>enam puruṣam,</i> ‘that man,’ would be very unusual if not incorrect. Grammarians assert that the substitution of <i>enam</i> for <i>imam</i> or <i>etam</i> takes place in case of the re-employment of these pronouns in the subsequent part of a sentence; see Gram. 836; [cf. Gr. <lang n='greek'>ἕν, οἶος</lang> Goth. <nsi>ains;</nsi> Old Pruss. <nsi>ains;</nsi> Lat <nsi>oinos, unus.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एन",
+            "eid": "22261",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> एन¦ <lex>Pron.</lex> <ab>subst.</ab> der 3ten Person (<i>er, sie, es</i>). Davon folgende oblique Casus: एनम्, एनाम् (einmal im <ls>ṚV.</ls> एना/म् am Anfange eines Stollens). एनद्, एनेन, एनया; एनौ, एने, एनयोस् und एनोस् (<lang>ved.</lang>): एनान् [Page1-272-c] एनास्, एना, एनानि. In der späteren Sprache häufig mit एत verwechselt."
+        },
+        {
+            "word": "एन",
+            "eid": "22262",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> एन und एना¦ <ab>Instr.</ab> von <hom>1.</hom> अ In der <ab>Bed.</ab> <i>dann, alsdann</i> <ls n='Chr.'>17,16</ls>. <ab>Vgl.</ab> एना/."
+        },
+        {
+            "word": "एन",
+            "eid": "22263",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> एन¦ <lex>m.</lex> <i>Hirsch,</i> in अनेन."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एन",
+            "eid": "13519",
+            "pagenum": 1,
+            "content": "एन¦ pron. Stamm, von dem sich folg. enklitische oblique cass. vorfinden: acc. sg. एनम्, एनाम्, एनद्; <is>du</is>. एनौ, एने; pl. एनान्, एनास्, एनानि; instr. sg. एनेन, एनया; gen. loc. <is>du</is>. एनयोस्, ved. एनोस् <ls>P. 2, 4, 34.</ls> <ls>VOP. 3, 132. 165.</ls> Den übrigen obliquen casus liegt der Stamm अ (s. u. इदम्) zu Grunde. Der Stamm एन hat sich vielleicht aus dem instr. एन (s. u. इदम्) entwickelt. pron. subst. der 3ten Person <i>er, sie, es</i>: हना^मैना\\ँ इति\\ त्वष्टा\\ यदब्र^वीत् <ls>ṚV. 1, 161, 5.</ls> य\\मेन^ द\\त्तं त्रि\\त ए^नमायुनक् <ls n='ṚV. 1,'>163, 2.</ls> <ls n='ṚV.'>2, 12, 5.</ls> उप^ ह्वये सु\\दुघा^ं धे\\नुमे\\तां सु\\हस्तो^ गो\\धुगु\\त दो^हदेनाम् <ls n='ṚV.'>1, 164, 26.</ls> ए\\न\\त् <ls>AV. 6, 117, 1.</ls> ए\\नौ <ls n='AV.'>7, 95, 2.</ls> घृ\\तमे^ने अजन\\न्नम्न^माने <ls>ṚV. 10, 82, 1.</ls> ए\\नो\\ः <ls n='ṚV.'>1, 136, 1.</ls> <ls n='ṚV. 1, 136,'>5.</ls> <ls n='ṚV.'>6, 69, 8.</ls> ए\\न\\यो\\ः <ls>AV. 7, 44, 1</ls> ?(wo <ls>ṚV.</ls> ए\\नो\\ः). <ls>ŚAT. BR. 14, 6, 11, 3.</ls> — <ls>AIT. BR. 2, 11.</ls> <ls>ŚAT. BR. 8, 1, 4, 2. 14, 6, 9, 26. 10, 12.</ls> <ls>KĀTY. ŚR. 7, 3, 22. 31. 16, 2, 18.</ls> <ls>NIR. 1, 9.</ls> <ls>BṚH. ĀR. UP. 2, 5, 18. 5, 1.</ls> <ls>M. 2, 50. 113. 119. 128. 147. 202. 219. 243. 3, 45. 4, 43. 54. 137. 164. 254. 5, 151. 7, 6. 135. 180. 196. 203. 219. 8, 114. 220. 380. 9, 11. 70. 77. 89. 139. 313. 11, 23. 176.</ls> <ls>N. 3, 16. 19. 4, 23. 7, 3. 9, 4. 11, 35. 12, 22. 13, 24. 16, 22. 20, 11. 21, 22.</ls> <ls>R. 1, 9, 9.</ls> <ls n='R. 1, 9,'>25.</ls> <ls n='R. 1, 9,'>32.</ls> <ls n='R. 1, 9,'>37.</ls> <ls n='R. 1, 9,'>38.</ls> <ls n='R.'>3, 2, 28.</ls> <ls n='R.'>4, 26, 9.</ls> <ls>DAŚ. 2, 28.</ls> <ls>VIŚV. 13, 2.</ls> <ls n='VIŚV.'>14, 9.</ls> <ls>ŚAK. 4, 12. 9, 18. 11, 16.</ls> <ls>MEGH. 54.</ls> <ls>RAGH. 3, 43.</ls> <ls>VID. 164.</ls> कामेनां शोचसे नित्यम् <ls>N. 15, 11.</ls> An allen diesen Stellen, die wir mit Leichtigkeit verdoppeln und verdreifachen könnten, ist एन reines pron. subst.; sehen wir nun hier und da एन auch <lex>adj.</lex> mit einem subst. verbunden, so können wir uns nicht der Vermuthung enthalten, dass hier eine Verwechselung mit dem äusserlich so ähnlichen एत stattgefunden habe; in einigen von diesen Fällen wird das subst. vielleicht als Apposition aufgefasst werden können. Wir haben uns folg. Stellen für eine Verbind. von एन mit einem subst. aufgezeichnet: <ls>BṚH. ĀR. UP. 5, 9.</ls> <ls>ŚVETĀŚV. UP. 2, 9.</ls> <ls>MBH. 13, 24.</ls> <ls n='MBH. 13,'>275.</ls> <ls>BHAG. 4, 42. 15, 3.</ls> <ls>N. 22, 2.</ls> <ls>R. 1, 27, 13.</ls> <ls n='R. 1,'>31, 22.</ls> <ls n='R.'>6, 82, 41.</ls> <ls>PAÑCAT. 35, 24. 52, 1. 78, 19. 99, 13. 100, 7. 106, 7.</ls> <ls>VID. 37.</ls> Ausnahmsweise am Anf. des Satzes und oxytonirt: ए\\नामृ\\तस्य^ पि\\प्युषी^ः <ls>ṚV. 8, 6, 19.</ls> भवतु एनमेवं वक्ष्ये <ls>ŚĀK. 30, 13.</ls>"
+        }
     ]
 }

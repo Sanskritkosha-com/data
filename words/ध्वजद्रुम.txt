@@ -7,5 +7,41 @@
             "pagenum": 364,
             "content": "Dvaja-druma¦ <i>m.</i> the palm tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "ध्वजद्रुम",
+            "eid": "102434",
+            "pagenum": 522,
+            "content": "ध्वज—द्रुम ¦ <lex>m.</lex> the palm tree (used for making flag-staffs), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ध्वजद्रुम",
+            "eid": "102435",
+            "pagenum": 522,
+            "content": "ध्वज—द्रुम ¦ <lex>mfn.</lex> having banners for trees, <ls>R.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ध्वजद्रुम",
+            "eid": "56017",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> *ध्वजद्रुम¦ <lex>m.</lex> <i>die Weinpalme</i> <ls>RĀJAN. 9,86</ls>."
+        },
+        {
+            "word": "ध्वजद्रुम",
+            "eid": "56018",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> ध्वजद्रुम¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>wo Standarten die Bäume bilden</i> <ls>R. 6,73,12</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ध्वजद्रुम",
+            "eid": "37186",
+            "pagenum": 3,
+            "content": "ध्वजद्रुम¦ (ध्वज + द्रुम) <lex>m.</lex> Bein. <i>der zu Standarten verwandten Weinpalme</i> (ताल) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

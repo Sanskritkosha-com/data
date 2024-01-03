@@ -29,5 +29,79 @@
             "pagenum": 42,
             "content": "<i>ba</i>¦ (IE 8-1; CII 3, etc.); an abbreviation of <i>bahula</i> or of <i>bahula-pakṣa,</i> i. e. the dark fortnight; used in connection with <i>di</i> or <i>ti</i> (see <i>ba-di, la-ti</i>) and also by itself. Cf. <i>va.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "ब",
+            "eid": "142289",
+            "pagenum": 719,
+            "content": "<hom>1.</hom> ब ¦ the third letter of the labial class (often confounded with व)."
+        },
+        {
+            "word": "ब",
+            "eid": "142291",
+            "pagenum": 719,
+            "content": "<hom>2.</hom> ब ¦ <lex>m.</lex> = वरुन<info lex='m'/>"
+        },
+        {
+            "word": "ब",
+            "eid": "142292",
+            "pagenum": 719,
+            "content": "¦ सिन्धु<info lex='inh'/>"
+        },
+        {
+            "word": "ब",
+            "eid": "142293",
+            "pagenum": 719,
+            "content": "¦ भग<info lex='inh'/>"
+        },
+        {
+            "word": "ब",
+            "eid": "142294",
+            "pagenum": 719,
+            "content": "¦ गन्धन<info lex='inh'/>"
+        },
+        {
+            "word": "ब",
+            "eid": "142295",
+            "pagenum": 719,
+            "content": "¦ वपन &c., <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ब",
+            "eid": "34346",
+            "pagenum": 671,
+            "content": "ब 1¦. <i>ba,</i> the twenty-third consonant of the Nāgarī alphabet and the third of the labial class, often confounded with the semivowel <i>v,</i> with which some grammarians consider it optionally interchangeable. <i>—Ba-kāra, as,</i> m. the letter or sound <i>ba.</i>"
+        },
+        {
+            "word": "ब",
+            "eid": "34347",
+            "pagenum": 671,
+            "content": "ब 2¦. <i>ba, as,</i> m. a N. of Varuṇa; water; a water-jar. According to lexicographers <i>ba</i> also <i>=</i> <i>bhaga, gandhana, vapana,</i> &c."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब",
+            "eid": "75594",
+            "pagenum": 4,
+            "content": "*ब¦ <div n='1'>— 1〉 <lex>m.</lex> = वरुण, सिन्धु, भग, गन्धन, तन्तुसंतान und वपन. <div n='1'>— 2〉 <lex>f.</lex> वा = तोयं गतम्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब",
+            "eid": "51684.1",
+            "pagenum": 5,
+            "content": "ब¦ <F>1) Was man unter diesem Buchstaben vermisst, suche man unter व .</F>"
+        },
+        {
+            "word": "ब",
+            "eid": "51685",
+            "pagenum": 5,
+            "content": "ब¦ hat nach <ls>MED.</ls> <i>b</i>, 1 folgende Bedd.: बः पुमान्वरुणे (व <ls>TRIK. 1, 1, 75</ls>) सिन्धौ भगे तोये गते तु वा । गन्धने तन्तुसंताने पुंस्येव वपने स्मृतः ॥ Nach <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> ist das <lex>m.</lex> auch = कुम्भ ."
+        }
     ]
 }

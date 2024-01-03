@@ -39,5 +39,51 @@
             "pagenum": 826,
             "content": "ham¦ <i>ind.</i> A particle expressive of- (1) anger; (2) courtesy; (3) respect."
         }
+    ],
+    "MD": [
+        {
+            "word": "हम्",
+            "eid": "20383",
+            "pagenum": 375,
+            "content": "हम्¦ ham, <ab>ij.</ab> (<i>very rare</i>), <ab>sts.</ab> <i>used with</i> bhoḥ 🞄(haṃ bhoḥ = haṃho)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "हम्",
+            "eid": "260546",
+            "pagenum": 1288,
+            "content": "हम् ¦ <lex>ind.</lex> an exclamation expressive of anger or courtesy or respect (also हम् भो, or हम् भोः; <ab>cf.</ab> हंहो), <ls>Divyāv.</ls>; <ls>Jātakam.</ls><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हम्",
+            "eid": "53840",
+            "pagenum": 1163,
+            "content": "हं¦ <i>haṃ.</i> See <i>ham.</i>"
+        },
+        {
+            "word": "हम्",
+            "eid": "53915",
+            "pagenum": 1165,
+            "content": "हम्¦ <i>ham,</i> ind. an exclamation expressive of anger (<i>= ruṣokti</i>); of courtesy or respect."
+        }
+    ],
+    "PW": [
+        {
+            "word": "हम्",
+            "eid": "133505",
+            "pagenum": 7,
+            "content": "हम्¦ <ab>Interj.</ab> रोषभाषणे रोषोक्तौ und अनुनये; <ab>vgl.</ab> <ls>ZACH. Beitr. 93</ls>. हं भो <ls>DIVYĀVAD. 383,4</ls>. हं भोः <ls n='DIVYĀVAD.'>621,26</ls>. हम्भो <ls>JĀTAKAM. 28</ls>, <ab>v. l.</ab> <ab>Vgl.</ab> हंहो."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हम्",
+            "eid": "116024",
+            "pagenum": 7,
+            "content": "हम्¦ interj. रोषभाषणे und अनुशये <ls>H. an. 7, 18.</ls> रोषोक्तौ und अनुनये <ls>MED. avy. 55.</ls>"
+        }
     ]
 }

@@ -23,5 +23,37 @@
             "pagenum": 245,
             "content": "पलायक¦ flüchtig."
         }
+    ],
+    "MW": [
+        {
+            "word": "पलायक",
+            "eid": "120185",
+            "pagenum": 610,
+            "content": "palA<srs/>°yaka ¦ <lex>mfn.</lex> fleeing, a fugitive, <ls>SaddhP.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पलायक",
+            "eid": "28512",
+            "pagenum": 556,
+            "content": "<i>Palāyaka, as, ā,</i>¦ or <i>ikā</i> (?), <i>am,</i> fleeing, flying, taking to flight; a fugitive, runaway, deserter."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पलायक",
+            "eid": "64987",
+            "pagenum": 4,
+            "content": "पलायक¦ <lex>Adj.</lex> <i>flüchtig, der sich auf der Flucht befindet</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पलायक",
+            "eid": "43686",
+            "pagenum": 4,
+            "content": "पलायक¦ (von पलाय्) <lex>adj.</lex> <i>flüchtig, der sich auf der Flucht befindet</i> <ls>SADDH. P. 4,34,b.</ls>"
+        }
     ]
 }

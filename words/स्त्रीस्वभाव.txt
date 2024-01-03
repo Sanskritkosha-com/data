@@ -7,5 +7,47 @@
             "pagenum": 805,
             "content": "strI-svaBAva¦ <i>m.</i> 1. the nature of women; 2. a eunuch."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्त्रीस्वभाव",
+            "eid": "255122",
+            "pagenum": 1261,
+            "content": "स्त्री—स्वभाव ¦ <lex>m.</lex> the nature of <ab n='women'>w°</ab>, <ls>MBh.</ls>; <ls>Pañcar.</ls><info lex='m'/>"
+        },
+        {
+            "word": "स्त्रीस्वभाव",
+            "eid": "255123",
+            "pagenum": 1261,
+            "content": "¦ ‘having a woman's nature’, a eunuch, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्त्रीस्वभाव",
+            "eid": "130781",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स्त्रीस्वभाव¦ <lex>m.</lex> <i>die Natur des Weibes</i> <ls>R. 1,28,11. 2,72,46. 3,51,5. 5,23,28</ls>."
+        },
+        {
+            "word": "स्त्रीस्वभाव",
+            "eid": "130782",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> *स्त्रीस्वभाव¦ <lex>m.</lex> <i>Eunuch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्त्रीस्वभाव",
+            "eid": "113850",
+            "pagenum": 7,
+            "content": "1. स्त्रीस्वभाव¦ <lex>m.</lex> <i>die Natur des Weibes</i> <ls>MBH. 3, 2776.</ls> <ls>PAÑCAR. 1, 14, 74.</ls>"
+        },
+        {
+            "word": "स्त्रीस्वभाव",
+            "eid": "113851",
+            "pagenum": 7,
+            "content": "2. स्त्रीस्वभाव¦ <lex>m.</lex> <i>Eunuch</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

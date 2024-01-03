@@ -15,5 +15,49 @@
             "pagenum": 267,
             "content": "<b>saptá</b>¦ [<ls n='wg,483'>483<sup>4</sup></ls>], <i><ab>num.</ab></i> seven, <ls n='lan,53,6'>53<sup>6</sup></ls>, <ls n='lan,99,23'>99<sup>23</sup></ls>; <i>also,</i> <i>as</i> a favorite sacred number, <i>the expression</i> <i>of</i> an indefinite plurality, <i><ab>e. g.</ab></i> <ls n='lan,71,3'>71<sup>3</sup></ls>, <ls n='lan,72,4, 6'>72<sup>4, 6</sup></ls>. [<ab>cf.</ab> <lang n='greek'>ἑπτά</lang>, <ab>Lat.</ab> <i>septem,</i> <ab>AS.</ab> <i>seofon,</i> <ab>Eng.</ab> <i>seven.</i>]"
         }
+    ],
+    "MW": [
+        {
+            "word": "सप्त",
+            "eid": "232432",
+            "pagenum": 1149,
+            "content": "सप्त ¦ <ab>ifc.</ab> (<ab>cf.</ab> त्रि-षप्त/, त्रि-सप्त/) and in <ab>comp.</ab> for सप्त/न्, seven<info lexcat='LEXID=card,STEM=saptan'/>"
+        },
+        {
+            "word": "सप्त",
+            "eid": "232432.1",
+            "pagenum": 1149,
+            "content": "सप्त ¦ <lex>mfn.</lex> = °तम/, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सप्त",
+            "eid": "232432.2",
+            "pagenum": 1149,
+            "content": "सप्त ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>Viṣṇ. iii, 44</ls> (where सप्त महा-भाग may be two words; <ab>cf.</ab> सप्त-महा-भ्°). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सप्त",
+            "eid": "49469",
+            "pagenum": 1065,
+            "content": "<i>Sapta, as, ī, am,</i>¦ (according to Śabda-k.) <i>= sap-</i> <i>tama,</i> the seventh."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सप्त",
+            "eid": "119370",
+            "pagenum": 7,
+            "content": "सप्त¦ <lex>Adj.</lex> <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>VIṢṆUS. 98,44</ls>. Hier werden सप्त महाभाग als zwei Worte gefasst; anders <ls>NĪLAK. zu MBH.</ls> (<ab>s. u.</ab> सप्तमहाभाग.) <ab>Vgl.</ab> त्रिषप्त/ und त्रिसप्त/"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सप्त",
+            "eid": "104956",
+            "pagenum": 7,
+            "content": "सप्त¦ = सप्तन् in त्रिषप्त, त्रिसप्त ."
+        }
     ]
 }

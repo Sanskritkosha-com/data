@@ -28,5 +28,41 @@
             "pagenum": 638,
             "content": "vana-ASraya¦ <i>m.</i> 1. an inhabitant of the wood; 2. a kind of raven."
         }
+    ],
+    "MW": [
+        {
+            "word": "वनाश्रय",
+            "eid": "186038",
+            "pagenum": 918,
+            "content": "vanA<srs/>Sraya ¦ <lex>mfn.</lex> living in a <ab n='forest'>f°</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वनाश्रय",
+            "eid": "186039",
+            "pagenum": 918,
+            "content": "vanA<srs/>Sraya ¦ <lex>m.</lex> a <ab n='forest'>f°</ab>-dweller, <ls>MārkP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वनाश्रय",
+            "eid": "186040",
+            "pagenum": 918,
+            "content": "¦ a sort of crow or raven, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वनाश्रय",
+            "eid": "98109",
+            "pagenum": 6,
+            "content": "वनाश्रय¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>im Walde lebend;</i> <lex>m.</lex> <i>Waldbewohner</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>Robe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वनाश्रय",
+            "eid": "87916",
+            "pagenum": 6,
+            "content": "वनाश्रय¦ <div n='1'> 1) <lex>adj.</lex> <i>im Walde lebend</i>, <lex>m.</lex> <i>Waldbewohner</i> <ls>R. GORR. 2, 28, 22.</ls> <ls>MĀRK. P. 109, 31. 37. 43. 115, 11.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Rabe</i> <ls>H. 1323.</ls> <ls>HALĀY. 2, 91.</ls>"
+        }
     ]
 }

@@ -39,5 +39,35 @@
             "pagenum": 786,
             "content": "surarzi¦ <i>m.</i> a divine sage."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुरर्षि",
+            "eid": "249412",
+            "pagenum": 1234,
+            "content": "सुर—र्षि ¦ (°र + ऋषि), <lex>m.</lex> a divine <s1 slp1='fzi'>Ṛṣi</s1>, a <ab n='Ṛṣi' slp1='fzi'>Ṛ°</ab> dwelling among the <ab n='gods'>g°</ab>, <ls>MBh.</ls>; <ls>R.</ls>; <ls>BhP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुरर्षि",
+            "eid": "249412.1",
+            "pagenum": 1234,
+            "content": "¦ <ab>pl.</ab> the gods and <s1 slp1='fzi'>Ṛṣi</s1>s, <ls>BhP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुरर्षि",
+            "eid": "127530",
+            "pagenum": 7,
+            "content": "सुरर्षि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein göttlicher —, under den Göttern weilender</i> <is>Ṛṣi</is>. <div n='1'>— 2〉 <ab>Pl.</ab> <i>die Götter und</i> <is>Ṛṣi</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुरर्षि",
+            "eid": "111220",
+            "pagenum": 7,
+            "content": "सुरर्षि¦ (सुर + ऋषि) <lex>m.</lex> = देवर्षि <i>ein göttlicher —, ein unter den Göttern weilender</i> <is>Ṛṣi</is> <ls>AK. 1, 1, 1, 43.</ls> <ls>MBH. 1, 223</ls> (<is>Nārada</is>). <ls>R. 1, 59, 13.</ls> <ls n='R.'>6, 110, 56.</ls> <ls>Verz. d. Oxf. H. 78,b,39.</ls> <ls>BHĀG. P. 4, 24, 63</ls> (<i>die Götter und</i> <is>Ṛṣi</is> nach dem Comm.). <ls n='BHĀG. P.'>31, 5. 5, 1, 22. 7, 1, 12. 9, 28. 9, 14, 16.</ls> <div n='v'>— Vgl. सुरऋषि ."
+        }
     ]
 }

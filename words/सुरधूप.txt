@@ -15,5 +15,35 @@
             "pagenum": 786,
             "content": "sura-DUpa¦ <i>m.</i> turpentine."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुरधूप",
+            "eid": "249331",
+            "pagenum": 1234,
+            "content": "सुर—धूप ¦ <lex>m.</lex> ‘incense of the <ab n='gods'>g°</ab>’, the resin of the <bot>Shorea Robusta</bot>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुरधूप",
+            "eid": "249332",
+            "pagenum": 1234,
+            "content": "¦ resin, turpentine, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुरधूप",
+            "eid": "127434",
+            "pagenum": 7,
+            "content": "*सुरधूप¦ <lex>m.</lex> <i>das Harz der <bot>Shorea robusta</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुरधूप",
+            "eid": "111137",
+            "pagenum": 7,
+            "content": "सुरधूप¦ <lex>m.</lex> <i>der Götter Räucherwerk</i> <ab>d. i.</ab> <i>das Harz der Shorea robusta</i> <ls>RĀJAN. 12, 117.</ls>"
+        }
     ]
 }

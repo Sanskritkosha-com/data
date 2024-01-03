@@ -39,5 +39,63 @@
             "pagenum": 717,
             "content": "Sikzaka¦ <i>a. (f. क्षका or क्षिका)</i> 1. A learner; 2. a teacher, an instructor."
         }
+    ],
+    "MD": [
+        {
+            "word": "शिक्षक",
+            "eid": "17838",
+            "pagenum": 313,
+            "content": "शिक्षक¦ śikṣ-aka, <lex>a.</lex> teaching, instructing; 🞄<lex>m.</lex> teacher; <b>-aṇa,</b> <lex>n.</lex> instruction, in (<ab>lc.</ab>); 🞄<b>-aṇīya,</b> <ab>fp.</ab> to be taught <i>anything</i> (<ab>ac.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शिक्षक",
+            "eid": "216520",
+            "pagenum": 1070,
+            "content": "शिक्षक ¦ <lex>mfn.</lex> teaching, instructing, <ls>Śiś.</ls>, <ab>Sch.</ab> (<lex type='hwinfo'>m.</lex> a teacher, <ls>Mālav.</ls>; a trainer See हस्ति-श्°; a learner, <ls>W.</ls>)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "शिक्षक",
+            "eid": "216521",
+            "pagenum": 1070,
+            "content": "¦ one who knows <s1 slp1='SikzA'>Śikṣā</s1> (<ab>q.v.</ab>) <ab>g.</ab> kramA<srs/>di.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शिक्षक",
+            "eid": "46629",
+            "pagenum": 1004,
+            "content": "<i>Śikṣaka, as, ā</i>¦ or <i>ikā, am,</i> a learner; a teacher, instructor, (in this sense fr. Caus.); one who knows Śikṣā or the science of euphony, (see below.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शिक्षक",
+            "eid": "112080",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> शिक्षक¦ <ab>Nom. ag.</ab> <i>unterweisend, belehrend</i> (<ls>Comm. zu ŚIŚ. 13,24</ls>), <i>Lehrer</i>."
+        },
+        {
+            "word": "शिक्षक",
+            "eid": "112081",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *शिक्षक¦ <lex>Adj.</lex> <i>mit der</i> <is>Śikṣā</is> <i>vertraut</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शिक्षक",
+            "eid": "99223",
+            "pagenum": 7,
+            "content": "1. शि/क्षक¦ (von शिक्षा) <lex>adj.</lex> <i>ein Kenner der</i> <is>Śikṣā</is> <is>gaṇa</is> क्रमादि zu <ls>P. 4, 2, 61.</ls>"
+        },
+        {
+            "word": "शिक्षक",
+            "eid": "99224",
+            "pagenum": 7,
+            "content": "2. शिक्षक¦ (vom caus. von 1. शिक्ष्) nom. ag. <i>Lehrer</i> <ls>MĀLAV. 15.</ls> हस्ति° <i>Abrichter von Elephanten</i> <ls>MBH. 8, 1768.</ls>"
+        }
     ]
 }

@@ -15,5 +15,69 @@
             "pagenum": 353,
             "content": "Danaka¦ <i>m.</i> Avarice, covetousness."
         }
+    ],
+    "MW": [
+        {
+            "word": "धनक",
+            "eid": "99466",
+            "pagenum": 509,
+            "content": "धनक ¦ <lex>m.</lex> avarice, covetousness, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "धनक",
+            "eid": "99467",
+            "pagenum": 509,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='yAdava'>Yādava</s1> (son of <s1 slp1='dur-dama'>Dur-dama</s1> or <s1 slp1='dur-mada'>Dur-mada</s1>), <ls>Pur.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धनक",
+            "eid": "99468",
+            "pagenum": 509,
+            "content": "¦ of another man, <ls>Daś.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "धनक",
+            "eid": "23179",
+            "pagenum": 447,
+            "content": "<i>Dhanaka, as,</i>¦ m. avarice, covetousness, desire for riches; N. of a Yādava, son of Dur-dama or Durmada; of another man."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "धनक",
+            "eid": "6467",
+            "pagenum": 2,
+            "content": "<i>Dhanaka</i> (I)¦ — a son of Drumada and father of Kṛtavīrya and others. <div n='P'/>Bhā. IX. 23. 23."
+        },
+        {
+            "word": "धनक",
+            "eid": "6468",
+            "pagenum": 2,
+            "content": "<i>Dhanaka</i> (II)¦ — a Sage of the Tāmasa epoch. <div n='P'/>Vi. III. 1. 18."
+        },
+        {
+            "word": "धनक",
+            "eid": "6469",
+            "pagenum": 2,
+            "content": "<i>Dhanaka</i> (III)¦ — a son of Durdama, and father of four sons. <div n='P'/>Vi. IV. 11. 10."
+        }
+    ],
+    "PW": [
+        {
+            "word": "धनक",
+            "eid": "54357",
+            "pagenum": 3,
+            "content": "धनक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Geldgier</i>. <div n='1'>— 2〉 <ab>N. pr.</ab> verschiedener Männer."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धनक",
+            "eid": "36008",
+            "pagenum": 3,
+            "content": "धनक¦ (von धन) <lex>m.</lex> <div n='1'> 1) proparox. <i>Geldgier</i> <ls>P. 5, 2, 65.</ls> <div n='1'>— 2) N. pr. eines <is>Yādava</is>, eines Sohnes des <is>Durdama</is> oder <is>Durmada</is> <ls>VP. 417.</ls> <ls>BHĀG. P. 9, 23, 22.</ls> eines andern Mannes <ls>DAŚAK. 150, 18.</ls>"
+        }
     ]
 }

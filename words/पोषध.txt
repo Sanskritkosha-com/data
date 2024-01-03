@@ -15,5 +15,63 @@
             "pagenum": 252,
             "content": "<i>poṣadha,</i>¦ derived from Sanskrit <i>uposatha;</i> also called <i>poṣa-</i> <i>dha-vrata;</i> cf. <i>pauṣadha.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "पोषध",
+            "eid": "129368",
+            "pagenum": 650,
+            "content": "पोषध ¦ <lex>m.</lex> (with <ns>Buddhists</ns>) fasting, a fasting day, <ls>Lalit.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पोषध",
+            "eid": "129369",
+            "pagenum": 650,
+            "content": "¦ sacred day, <ls>Jātakam.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पोषध",
+            "eid": "29967",
+            "pagenum": 599,
+            "content": "पोषध¦ <i>poṣadha, as,</i> m. (with Buddhists) renewal of religious vows."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पोषध",
+            "eid": "69956",
+            "pagenum": 4,
+            "content": "पोषध¦ <lex>m.</lex> <i>Fasten, Fasttag</i> <ls>LALIT. 28,3. 46,6. 63,1</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पोषध",
+            "eid": "47413",
+            "pagenum": 4,
+            "content": "पोषध¦ <lex>m.</lex> bei den Buddhisten <i>Wiederholung des Gelübdes</i> <ls>WASSILJEW 58. 85. 87.</ls> <ls>VYUTP. 201.</ls> °वस्तु <ls n='VYUTP.'>211.</ls> °स्थापन <ls n='VYUTP.'>315.</ls> पौषधागार (sic) <ls>ŚATR. 14, 136.</ls> <div n='v'>— Vgl. उत्पोषध, उपाषध ."
+        },
+        {
+            "word": "पोषध",
+            "eid": "78982",
+            "pagenum": 5,
+            "content": "पोषध¦ vgl. पोषधेय <i>zu fasten</i> <ls>LALIT. ed. Calc. 15, 13.</ls> पोषध ist wohl = उपवसथ; vgl. <ls>WEBER</ls>, <ls>BHAG. 1, 410.</ls>"
+        },
+        {
+            "word": "पोषध",
+            "eid": "120983",
+            "pagenum": 7,
+            "content": "पोषध¦ bei den <is>Jaina</is> <ls>HEM.</ls> <ls>YOGAŚ. 3, 84. fg.</ls> fehlerhaft पौ° <ls n='YOGAŚ.'>116.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "पोषध",
+            "eid": "19530",
+            "pagenum": 7,
+            "content": "पोषध¦ IV. so <ab>v. a.</ab> <i>Sabbath</i> <ls>JĀTAKAM. 3</ls>. <ls n='JĀTAKAM.'>6</ls>. <ls n='JĀTAKAM.'>9</ls>. पोषधोत्सव <lex>m.</lex> <i>Sabbathfeier</i> <ls n='JĀTAKAM.'>6,6</ls>."
+        }
     ]
 }

@@ -31,5 +31,69 @@
             "pagenum": 39,
             "content": "<i>avanī</i>¦ (EI 7-1-2), ‘one’. <div n='P'>(EI 3), a district."
         }
+    ],
+    "MD": [
+        {
+            "word": "अवनी",
+            "eid": "2804",
+            "pagenum": 30,
+            "content": "अवनी¦ ava-nī, <lex>f.</lex> earth."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अवनी",
+            "eid": "16948",
+            "pagenum": 96,
+            "content": "अवनी <hom>a</hom> ¦ <lex>f.</lex> the plant <bot>Ficus Heterophylla</bot>, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "अवनी",
+            "eid": "16949",
+            "pagenum": 96,
+            "content": "¦ <ab>N.</ab> of a river, <ls>Hariv.</ls> (See अव/नि.)<info lex='inh'/>"
+        },
+        {
+            "word": "अवनी",
+            "eid": "17584",
+            "pagenum": 100,
+            "content": "<hom>1.</hom> अवनी ¦ <lex>f.</lex> the earth, <ls>R.</ls>; <ls>Pañcat.</ls><info lex='f'/>"
+        },
+        {
+            "word": "अवनी",
+            "eid": "17604",
+            "pagenum": 100,
+            "content": "<hom>2.</hom> अव-√ नी ¦ (<ab>fut.</ab> 2. <ab>sg.</ab> -नेष्यसि) to lead or bring down into (water), <ls>ŚBr.</ls>; <div n='to'/>to put into (<ab>loc.</ab>), <ls>Gobh.</ls>; <div n='vp'/> -नयति, <ab>Ved.</ab> to pour down or over, <ls>AV.</ls>; <ls>VS.</ls> &c.<info verb='pre' cp='' parse='ava+nI'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अवनी",
+            "eid": "6414",
+            "pagenum": 91,
+            "content": "1. <i>avanī,</i>¦ f. the earth; N. of a plant. <i>—Avanī-</i> <i>pati, is,</i> m. or <i>avanīśa</i> or <i>avanīśvara (°nī-īś°), as,</i> m. lord of the earth, a king. (For 2. see next col.)"
+        },
+        {
+            "word": "अवनी",
+            "eid": "6438",
+            "pagenum": 91,
+            "content": "अवनी 2¦. <i>ava-nī,</i> cl. 1. P. <i>-nayati, -netum,</i> to lead or bring down, to push into, to cause to descend or to flow; to lead away; to pour down or over."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अवनी",
+            "eid": "10440",
+            "pagenum": 1,
+            "content": "अवनी¦ <lex>f.</lex> <i>die Erde</i>. <ab>Vgl.</ab> <ab n='unter'>u.</ab> अवन."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अवनी",
+            "eid": "6421",
+            "pagenum": 1,
+            "content": "अवनी¦ (von अवनि) <lex>f.</lex> <div n='1'> 1) <i>Erde</i> <ls>BHARATA</ls> zu <ls>AK.</ls> im <ls>ŚKDR.</ls> <ls>R. 4, 57, 2.</ls> <ls n='R.'>5, 89, 21.</ls> <ls>PAÑCAT. 236, 9.</ls> <ls>GHAṬ. 1.</ls> Vgl. अवनि 3. <div n='1'>— 2) N. einer Pflanze, = त्रायमाणा (also in dieser Bed. von अव्) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -68,5 +68,51 @@
             "pagenum": 94,
             "content": "AKewa¦ <i>m.</i> Chase, hunting."
         }
+    ],
+    "MD": [
+        {
+            "word": "आखेट",
+            "eid": "3411",
+            "pagenum": 37,
+            "content": "आखेट¦ ākheṭa, <lex>m.</lex> chase: <b>-ka,</b> <lex>m.</lex> <ab>id.</ab>; hunter; 🞄<b>-bhūmi,</b> <lex>f.</lex> hunting ground; <b>-aṭavī,</b> <lex>f.</lex> game 🞄forest."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आखेट",
+            "eid": "22487",
+            "pagenum": 129,
+            "content": "आ-खेट ¦ <lex>m.</lex> (√ खिट् ?) chase, hunting, <ls>Kathās.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आखेट",
+            "eid": "8001",
+            "pagenum": 113,
+            "content": "आखेट¦ <i>ā-kheṭa, as,</i> m. (rt. <i>khiṭ ?</i>), chase, hunting; terror, fright. <i>—Ākheṭa-śīrṣaka, am,</i> n. a cavern, a mine."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आखेट",
+            "eid": "13582",
+            "pagenum": 1,
+            "content": "आखेट¦ <lex>m.</lex> <i>Jagd</i> <ls n='Chr.'>134,18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आखेट",
+            "eid": "7919",
+            "pagenum": 1,
+            "content": "आखेट¦ <lex>m.</lex> <i>Jagd</i> <ls>AK. 2, 10, 24.</ls> <ls>H. 927.</ls> सुभगाखेटभूमित्व <ls>KATHĀS. 15, 120.</ls> आखेटभूमयः <ls n='KATHĀS. 15,'>124.</ls> — Wird vom unbelegtem खिट् abgeleitet."
+        },
+        {
+            "word": "आखेट",
+            "eid": "66122",
+            "pagenum": 5,
+            "content": "आखेट¦ <ls>Spr. 1262.</ls> कृताखेट <ls>KATHĀS. 52, 131.</ls> <ls n='KATHĀS.'>53, 19.</ls> <ls n='KATHĀS.'>54, 8.</ls> °भूमि <ls n='KATHĀS.'>59, 44.</ls>"
+        }
     ]
 }

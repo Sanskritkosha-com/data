@@ -15,5 +15,27 @@
             "pagenum": 114,
             "content": "Asra¦ <i>n.</i> Blood."
         }
+    ],
+    "MW": [
+        {
+            "word": "आस्र",
+            "eid": "28241.1",
+            "pagenum": 1320,
+            "content": "आस्र ¦ <lex>m.</lex> distress, <ls>L.</ls><info n='sup'/><info lex='m'/>"
+        },
+        {
+            "word": "आस्र",
+            "eid": "28241.2",
+            "pagenum": 1320,
+            "content": "आस्र ¦ <lex>n.</lex> ‘a tear’ or ‘blood’ (<ab>cf.</ab> <hom>1.</hom> <hom>2.</hom> अस्र), <ls>L.</ls><info n='sup'/><info lex='n'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आस्र",
+            "eid": "9847",
+            "pagenum": 1,
+            "content": "आस्र¦ <is>gaṇa</is> सुखादि zu <ls>P. 3, 1, 18.</ls> <ls n='P.'>6, 2, 170</ls> und v. l. im <is>gaṇa</is> सुखादि zu <ls n='P.'>5, 2, 131.</ls>"
+        }
     ]
 }

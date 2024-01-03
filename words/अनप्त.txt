@@ -15,5 +15,43 @@
             "pagenum": 52,
             "content": "<b>án-apta,</b>¦ <ab>a.</ab>, <i>nicht wässerig</i>. <div n='TS'>-am sómam {728,3}."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनप्त",
+            "eid": "5140",
+            "pagenum": 25,
+            "content": "अ/न्-अप्त ¦ <lex>mfn.</lex> not watery, <ls>RV. ix, 16, 3.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनप्त",
+            "eid": "1514",
+            "pagenum": 26,
+            "content": "अनप्त¦ <i>an-apta, as, ā, am,</i> Ved. not watery."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनप्त",
+            "eid": "3515",
+            "pagenum": 1,
+            "content": "अ/नप्त¦ <lex>Adj.</lex> <i>nicht wässerig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनप्त",
+            "eid": "2343",
+            "pagenum": 1,
+            "content": "अ/नप्त¦ (3. अ + अप्त) <lex>adj.</lex> <i>nicht wässerig</i>: अन^प्तम\\प्सु दु\\ष्टर\\ं सोम^ं प\\वित्र\\ आ सृज^ <ls>ṚV. 9, 16, 3.</ls>"
+        },
+        {
+            "word": "अनप्त",
+            "eid": "63387",
+            "pagenum": 5,
+            "content": "अनप्त¦ lies: अन^प्तम\\प्सु - आ सृ^ज ."
+        }
     ]
 }

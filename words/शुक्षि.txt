@@ -31,5 +31,43 @@
             "pagenum": 723,
             "content": "Sukzi¦ <i>m.</i> 1. Air, wind; 2. light, lustre."
         }
+    ],
+    "MW": [
+        {
+            "word": "शुक्षि",
+            "eid": "219160",
+            "pagenum": 1081,
+            "content": "शुक्षि ¦ <lex>m.</lex> (<ab>accord.</ab> to <ls>Uṇ. iii, 155</ls> <ab>fr.</ab> √ शुष्) air, wind, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शुक्षि",
+            "eid": "219161",
+            "pagenum": 1081,
+            "content": "¦ (perhaps <ab>fr.</ab> √ <hom>1.</hom> शुच्) = तेजस्, or = चित्रम्, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शुक्षि",
+            "eid": "46851",
+            "pagenum": 1012,
+            "content": "शुक्षि¦ <i>śukṣi, is,</i> m. (according to Uṇādi-s. III. 155. fr. rt. <i>śuṣ</i>), air, wind; fire, light, lustre <i>(= tejas); = citram</i> (according to Śabda-k.)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शुक्षि",
+            "eid": "113347",
+            "pagenum": 6,
+            "content": "*शुक्षि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Wind</i>. <div n='1'>— 2〉 = तेजस्. <div n='1'>— 3〉 = चित्र."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शुक्षि",
+            "eid": "100209",
+            "pagenum": 7,
+            "content": "शुक्षि/¦ <ls>UṆĀDIS. 3, 155.</ls> m. <i>Wind</i> <ls>UJJVAL.</ls> = तेजस् und चित्र <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls>"
+        }
     ]
 }

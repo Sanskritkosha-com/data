@@ -45,5 +45,35 @@
             "pagenum": 120,
             "content": "Ipsita¦ <i>(II) n.</i> Wish, desire."
         }
+    ],
+    "MW": [
+        {
+            "word": "ईप्सित",
+            "eid": "29751",
+            "pagenum": 170,
+            "content": "ईप्सित ¦ <lex>mfn.</lex> wished, desired<info lex='m:f:n'/>"
+        },
+        {
+            "word": "ईप्सित",
+            "eid": "29752",
+            "pagenum": 170,
+            "content": "ईप्सित ¦ <lex>n.</lex> desire, wish, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Ragh.</ls>; <ls>Kathās.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ईप्सित",
+            "eid": "10079",
+            "pagenum": 143,
+            "content": "<i>Īpsita, as, ā, am,</i>¦ wished, desired."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ईप्सित",
+            "eid": "17469",
+            "pagenum": 1,
+            "content": "ईप्सित¦ <lex>n.</lex> <ab>dass.</ab> <ls n='Chr.'>81,11</ls>. <ls>R. 1,55,18</ls>. <ls>RAGH. 1,79. 3,1. 5</ls>. <ls>KATHĀS. 18,315. 22,170</ls>."
+        }
     ]
 }

@@ -7,5 +7,63 @@
             "pagenum": 209,
             "content": "असंयुक्त¦ <i><ab>a.</ab></i> <b>1</b> Separated. <b>--2</b> Not conjunct (as a consonant). --क्तं <b>1</b> Non-combination. <b>--2</b> (In <ab>gram.</ab>) Hiatus."
         }
+    ],
+    "MW": [
+        {
+            "word": "असंयुक्त",
+            "eid": "20369",
+            "pagenum": 117,
+            "content": "अ-संयुक्त ¦ <lex>mfn.</lex> unconnected, <ls>Jaim.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "असंयुक्त",
+            "eid": "20370",
+            "pagenum": 117,
+            "content": "¦ uncombined (as vowels in hiatus), <ls>RPrāt.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असंयुक्त",
+            "eid": "7349",
+            "pagenum": 103,
+            "content": "असंयुक्त¦ <i>a-saṃyukta, am,</i> n. (rt. <i>yuj</i>), noncombination, hiatus (in Vedic grammar)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असंयुक्त",
+            "eid": "12191",
+            "pagenum": 1,
+            "content": "असंयुक्त¦ <lex>Adj.</lex> <i>unverbunden, nicht zusammenhängend</i> <ls>JAIM. 3,3,11</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "असंयुक्त",
+            "eid": "7262",
+            "pagenum": 1,
+            "content": "असंयुक्त¦ (3. अ + सं°) <lex>n.</lex> gramm. <i>Hiatus</i> (wo Halbvocal eintreten sollte) <ls>ṚV. PRĀT. 15, 7.</ls>"
+        },
+        {
+            "word": "असंयुक्त",
+            "eid": "65830",
+            "pagenum": 5,
+            "content": "असंयुक्त¦ <lex>adj.</lex> <i>unverbunden</i> (von Lauten) <ls>ṚV. PRĀT. 6, 7.</ls> <ls>Verz. d. Oxf. H. 181,b, No. 413.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "असंयुक्त",
+            "eid": "6670",
+            "pagenum": 5,
+            "content": "अ/संयुक्त¦ <ls>TS. 2,5,7,5</ls>."
+        },
+        {
+            "word": "असंयुक्त",
+            "eid": "13494",
+            "pagenum": 7,
+            "content": "अ/संयुक्त¦ I. 5."
+        }
     ]
 }

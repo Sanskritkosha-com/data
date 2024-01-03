@@ -31,5 +31,43 @@
             "pagenum": 252,
             "content": "<b>udanyú,</b>¦ <ab>a.</ab>, 1〉 <i>nach Wasser verlangend;</i> 2〉 <i>Wasser ausströmend</i> [von udany]. <div n='TS'>-áve 1〉 {411,1}; parallel tṛṣnáje. <div n='TS'>-ávas 2〉 {408,2} párijrayas. <div n='TS'>-úvas [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] 2〉 abhiśríyas {798,27}."
         }
+    ],
+    "MW": [
+        {
+            "word": "उदन्यु",
+            "eid": "32238",
+            "pagenum": 183,
+            "content": "उदन्यु/ ¦ <lex>mfn.</lex> liking or seeking water, <ls>RV. v, 57, 1</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "उदन्यु",
+            "eid": "32239",
+            "pagenum": 183,
+            "content": "¦ pouring out water, irrigating, <ls>RV. v, 54, 3</ls>; <ls n='RV.'>ix, 86, 27.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उदन्यु",
+            "eid": "10677",
+            "pagenum": 153,
+            "content": "<i>Udanyu, us, us, u,</i>¦ Ved. liking or seeking water, walking in water."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उदन्यु",
+            "eid": "18689",
+            "pagenum": 1,
+            "content": "उदन्यु/¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>nach Wasser verlangend</i>. <div n='1'>— 2〉 <i>Wasser ausströmend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उदन्यु",
+            "eid": "11217",
+            "pagenum": 1,
+            "content": "उदन्यु/¦ (von उदन्य्) <lex>adj.</lex> <i>Wasser aufsuchend, im Wasser sich ergehend</i>; die <is>Marut</is> <ls>ṚV. 5, 54, 2.</ls> तृ\\ष्णजे\\ न दि\\व उत्सा^ उद\\न्यवे^ <ls n='ṚV. 5,'>57, 1.</ls> हरि^ं नव\\न्ते ऽव\\ ता उ^द\\न्युव^ः <ls n='ṚV.'>9, 86, 27.</ls>"
+        }
     ]
 }

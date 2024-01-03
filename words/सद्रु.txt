@@ -31,5 +31,49 @@
             "pagenum": 752,
             "content": "sadru¦ <i>a.</i> 1. Resting, staying; 2. going."
         }
+    ],
+    "MW": [
+        {
+            "word": "सद्रु",
+            "eid": "230608",
+            "pagenum": 1139,
+            "content": "सद्रु ¦ <lex>mfn.</lex> sitting, <ls>Bhaṭṭ.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सद्रु",
+            "eid": "48910",
+            "pagenum": 1055,
+            "content": "<i>Sadru, us, us, u</i>¦ [cf. <i>śadru</i>], resting, staying; going, moving; [cf. probably Gr. <lang n='greek'>ἱδρυ</lang> in <lang n='greek'>ἱδρύνω.</lang>.]"
+        },
+        {
+            "word": "सद्रु",
+            "eid": "48959",
+            "pagenum": 1056,
+            "content": "सद्रु¦ <i>sadru.</i> See p. 1055, col. 1."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सद्रु",
+            "eid": "118695",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स/द्रु¦ <lex>Adj.</lex> <i>laufend</i> in einer Etymologie."
+        },
+        {
+            "word": "सद्रु",
+            "eid": "118696",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सद्रु¦ <lex>Adj.</lex> <i>sitzend</i> <ls>BHAṬṬ. 7,21. 21,20</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सद्रु",
+            "eid": "104436",
+            "pagenum": 7,
+            "content": "स/द्रु¦ <ls>P. 3, 2, 159</ls> (oxyt.). <ls>VOP. 26, 149.</ls> <lex>adj.</lex> <i>laufend</i> (vgl. द्रु) in der Etymologie von समुद्र <ls>AV. 15, 7, 1.</ls>"
+        }
     ]
 }

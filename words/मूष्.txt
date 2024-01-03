@@ -71,5 +71,69 @@
             "pagenum": 581,
             "content": "mUz¦ <i>vt. 1P (pp. मूषित; pres. मूषति)</i> To steal, to rob."
         }
+    ],
+    "MD": [
+        {
+            "word": "मूष्",
+            "eid": "14371",
+            "pagenum": 233,
+            "content": "मूष्¦ mū́ṣ, <lex>m.</lex> <lex>f.</lex> mouse (<ab>RV.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मूष्",
+            "eid": "166549",
+            "pagenum": 827,
+            "content": "<hom>1.</hom> मूष् ¦ (= √ <hom>2.</hom> मुष्) <ab>cl.</ab> 1. <ab>P.</ab> मूषति, to steal, rob, plunder, <ls>Dhātup. xvii, 25.</ls><info westergaard='mUza,17.25,01.0440'/><info verb='root' cp='1P'/>"
+        },
+        {
+            "word": "मूष्",
+            "eid": "166550",
+            "pagenum": 827,
+            "content": "<hom>2.</hom> मू/ष् ¦ <lex>mf.</lex> ‘stealer, thief’, a mouse, <ls>RV. i, 105, 8.</ls> <info lex='m:f'/>"
+        },
+        {
+            "word": "मूष्",
+            "eid": "166550.1",
+            "pagenum": 827,
+            "content": "मूष् ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>μῦς</lang>; <ab>Lat.</ab> <etym>mus</etym>; <ab>Germ.</ab> <etym>myšǐ</etym> <ab>Germ.</ab> <etym>mûs</etym>, <etym>Maus</etym>; <ab>Eng.</ab> <etym>mouse</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मूष्",
+            "eid": "37769",
+            "pagenum": 789,
+            "content": "मूष् 1¦. <i>mūṣ</i> (= rt. 2. <i>muṣ</i>), cl. 1. P. <i>mūṣati, mūṣitum,</i> to steal, rob, plunder. 2. <i>mūṣ, ṭ,</i> Ved. a mouse."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मूष्",
+            "eid": "88056",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> *√मूष्¦ मूषति = <hom>1.</hom> √मुष् मुषित = मुषित."
+        },
+        {
+            "word": "मूष्",
+            "eid": "88057",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> मू/ष्¦ <i>Maus</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मूष्",
+            "eid": "61402",
+            "pagenum": 5,
+            "content": "1. मूष्¦, मू/षति = 1. मुष् <ls>DHĀTUP. 17, 25.</ls> मूषित = मुषित <ls>AK. 3, 2, 37.</ls> <ls>H. 1483.</ls>"
+        },
+        {
+            "word": "मूष्",
+            "eid": "61403",
+            "pagenum": 5,
+            "content": "2. मूष्¦ (von 1. मुष्) <i>Maus</i> <ls>NAIGH. 4, 1.</ls> <ls>NIR. 4, 5.</ls> मूषो\\ न शि\\श्ना व्य^दन्ति मा\\ध्य^ः <ls>ṚV. 1, 105, 8.</ls>"
+        }
     ]
 }

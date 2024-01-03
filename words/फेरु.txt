@@ -60,5 +60,43 @@
             "pagenum": 499,
             "content": "Peru¦ <i>m.</i> A jackal."
         }
+    ],
+    "MW": [
+        {
+            "word": "फेरु",
+            "eid": "142281",
+            "pagenum": 719,
+            "content": "फेरु ¦ <lex>m.</lex> a jackal, <ls>BhP.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "फेरु",
+            "eid": "34339",
+            "pagenum": 671,
+            "content": "<i>Pheru, us,</i>¦ m. a jackal."
+        }
+    ],
+    "PW": [
+        {
+            "word": "फेरु",
+            "eid": "75589",
+            "pagenum": 4,
+            "content": "फेरु¦ <lex>m.</lex> <i>Schakal</i> <ls>RĀJAN. 19,8</ls>. <ls>CAṆḌAK. 71,7</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "फेरु",
+            "eid": "51680",
+            "pagenum": 4,
+            "content": "फेरु¦ <lex>m.</lex> = फेरव <i>Schakal</i> <ls>AK. 2, 5, 5.</ls> <ls>H. 1289.</ls> <ls>HALĀY. 2,74.</ls> <ls>BHĀG. P. 8,16,7.</ls> <ls>Verz. d. Oxf. H. 92,b,33.</ls>"
+        },
+        {
+            "word": "फेरु",
+            "eid": "79777",
+            "pagenum": 5,
+            "content": "फेरु¦ <ls>KATHĀS. 109, 96.</ls>"
+        }
     ]
 }

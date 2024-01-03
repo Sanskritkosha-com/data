@@ -97,5 +97,93 @@
             "pagenum": 141,
             "content": "<b>ki,</b>¦ <i><ab>cf.</ab></i> <b>1ká 4,</b> <i>and</i> <ls n='wg,504'>504.</ls>"
         }
+    ],
+    "MD": [
+        {
+            "word": "कि",
+            "eid": "5882",
+            "pagenum": 68,
+            "content": "कि¦ <hom>1.</hom> ki, <ab>inter.</ab> <ab>prn.</ab> <ab>st.</ab> <i>in</i> kim, kiyat, kīdriś, <ab>&c.</ab>."
+        },
+        {
+            "word": "कि",
+            "eid": "5883",
+            "pagenum": 68,
+            "content": "कि¦ <hom>2.</hom> k-i, <i>suffix</i> <b>i</b> <i>in</i> pap-i <ab>&c.</ab> (<ab>gr.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कि",
+            "eid": "50169",
+            "pagenum": 282,
+            "content": "<hom>1.</hom> कि ¦ a pronominal base, like <hom>2.</hom> क/ and <hom>1.</hom> कु, in the words कि/म्, कि/यत्, किस्, की-दृक्ष, की-दृ/श्, की-दृश, की/वत्."
+        },
+        {
+            "word": "कि",
+            "eid": "50170",
+            "pagenum": 282,
+            "content": "<hom>2.</hom> कि ¦ <ab>cl.</ab> 3. <ab>P.</ab> चिके/ति. See √ चि.<info verb='root' cp='3P'/>"
+        },
+        {
+            "word": "कि",
+            "eid": "50296",
+            "pagenum": 282,
+            "content": "<hom>1.</hom> किं ¦ (in <ab>comp.</ab> for कि/म्). <info lexcat='LEXID=pron,STEM=kim'/>"
+        },
+        {
+            "word": "कि",
+            "eid": "50338",
+            "pagenum": 283,
+            "content": "<hom>2.</hom> किं ¦ (in <ab>comp.</ab> for कि/म्). <info lexcat='LEXID=pron,STEM=kim'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कि",
+            "eid": "14714",
+            "pagenum": 228,
+            "content": "कि 1¦. <i>ki,</i> a pronominal base, like <i>ka</i> and <i>ku,</i> in the words <i>kim, kiyat, kis, kīdṛkṣa, kīdṛś,</i> <i>kīdṛśa, kīvat,</i> q. v."
+        },
+        {
+            "word": "कि",
+            "eid": "14715",
+            "pagenum": 228,
+            "content": "कि 2¦. <i>ki,</i> a verbal root; [cf. <i>ci;</i> Lat. <nsi>scio?;</nsi> Hib. <nsi>ci,</nsi> ‘see, behold;’ <nsi>ci-thi,</nsi> ‘you see;’ <nsi>citear,</nsi> ‘it seems, appears.’]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कि",
+            "eid": "27714",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> कि¦ <ab>pron.</ab> <ab>interr.</ab> in किम् <ab>u. s. w.</ab>"
+        },
+        {
+            "word": "कि",
+            "eid": "27715",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> √कि¦, चिकेति <ab>s.</ab> चि."
+        },
+        {
+            "word": "कि",
+            "eid": "27716",
+            "pagenum": 2,
+            "content": "<hom>3.</hom> कि¦ Suffix इ in पपि <ab>u. s. w.</ab> <ls n='Chr.'>238,25</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कि",
+            "eid": "17135",
+            "pagenum": 2,
+            "content": "1. कि¦ pron. Stamm, Nebenform von क und कु, erhalten in किम्, कियन्त्, किस्, कीदृक्ष, कीदृश्, कीदृश, कीवन्त् ."
+        },
+        {
+            "word": "कि",
+            "eid": "17136",
+            "pagenum": 2,
+            "content": "2. कि¦ ved. Verbalwurzel <ls>DHĀTUP. 25, 19</ls>; s. चि. आकाय्य, wobei wir auf कि verwiesen haben, gehört wohl zu 2. का ."
+        }
     ]
 }

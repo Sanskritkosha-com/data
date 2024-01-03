@@ -47,5 +47,69 @@
             "pagenum": 320,
             "content": "triMSa¦ <i>a. (f. शी)</i> 1. The thirtieth; 2. joined with thirty, (e.g. त्रिंशं शतम् ‘one hundred and thirty’)."
         }
+    ],
+    "MD": [
+        {
+            "word": "त्रिंश",
+            "eid": "8844",
+            "pagenum": 113,
+            "content": "त्रिंश¦ triṃ-śá, <lex>a.</lex> (<b>ī</b>) thirtieth; <b>-śát,</b> <lex>f.</lex> [tir + 🞄(da) śat] thirty (<i>rarely <ab>pl.</ab>, <ab>gnly.</ab> in the same 🞄case as its noun, <ab>sts.</ab> governing a <ab>gen.</ab></i>); <b>-śati,</b> 🞄<lex>f.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "त्रिंश",
+            "eid": "88519",
+            "pagenum": 461,
+            "content": "त्रिंश ¦ <lex>mf(ई)n.</lex>, the 30th (<ab>chs.</ab> of <ls>MBh.</ls> & <ls>R.</ls>)<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "त्रिंश",
+            "eid": "88520",
+            "pagenum": 461,
+            "content": "¦ + 30 <ls>Pāṇ. v, 2, 46</ls><info lex='inh'/>"
+        },
+        {
+            "word": "त्रिंश",
+            "eid": "88521",
+            "pagenum": 461,
+            "content": "त्रिंश ¦ <lex>m.</lex> ‘a <s1 slp1='stoma'>Stoma</s1> consisting of 30 parts’<info lex='m'/>"
+        },
+        {
+            "word": "त्रिंश",
+            "eid": "88521.1",
+            "pagenum": 461,
+            "content": "त्रिंश ¦ <lex>mfn.</lex> connected with that <s1 slp1='stoma'>Stoma</s1>, <ls>TāṇḍyaBr.</ls>; <ls>Lāṭy.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "त्रिंश",
+            "eid": "88522",
+            "pagenum": 461,
+            "content": "त्रिंश ¦ <lex>m.</lex> = °SA<srs/>MSa, <ls>Laghuj.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "त्रिंश",
+            "eid": "21551",
+            "pagenum": 392,
+            "content": "<i>Triṃśa, as, ī, am</i>¦ (fr. <i>triṃśat</i>), the thirtieth, constituting the thirtieth part; joined with thirty (e. g. <i>triṃśaṃ śatam,</i> 130); consisting of thirty (as a Stoma); connected with the Triṃśa-stoma; (1/30) of a sign of the zodiac, a degree. <i>—Triṃśāṃśa</i> or <i>triṃśāṃśaka (°śa-aṃ°), as,</i> m. a thirtieth part, (1/30) of a sign of the zodiac, a degree."
+        }
+    ],
+    "PW": [
+        {
+            "word": "त्रिंश",
+            "eid": "47314",
+            "pagenum": 3,
+            "content": "त्रिंश¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <div n='2'>— a〉 <i>der 30ste</i>. <div n='2'>— b〉 <i>den 30sten Theil bildend</i>. <div n='2'>— c〉 <i>mit 30 verbunden, plus 30</i>. <div n='2'>— d〉 <i>aus 30 bestehend</i>. <div n='2'>— e〉 <i>mit einem 30theiligen</i> <is>Stoma</is> <i>verbunden</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 ¹⁄₃₀ <i>eines Zodiakalbildes, ein Grad</i>. Richtig त्र्यंश. <div n='2'>— b〉 <i>ein 30theiliger</i> <is>Stoma</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "त्रिंश",
+            "eid": "30843",
+            "pagenum": 3,
+            "content": "त्रिंश/¦ (von त्रिंशत्) <lex>adj.</lex> <lex>f.</lex> ई <div n='1'> 1) <i>der 30ste</i> <ls>VOP. 7, 40.</ls> <ls>MBH.</ls> und <ls>R.</ls> in den Unterschrr. der <is>Adhyāya</is>. <div n='1'>— 2) <i>den 30sten Theil bildend</i>, subst. (1/30) <i>eines Zodiakalbildes, ein Grad</i> <ls>VARĀH.</ls> <ls>LAGHUJ. 1, 23</ls>; vgl. त्रिंशांश, त्रिंशांशक . <div n='1'>— 3) <i>mit 30 verbunden</i> <ls>P. 5, 2, 46.</ls> शतम् 130 <ls>Sch.</ls> <div n='1'>— 4) <i>aus 30 bestehend</i>: स्तोम . <div n='1'>— 5) <i>mit dem</i> <is>Triṃśa-Stoma</is> <i>verbunden</i>: अहन् <ls>PAÑCAV. BR. 25, 1. 2.</ls> आज्य <ls>LĀṬY. 4, 5, 11.</ls> स्तोत्र 14."
+        }
     ]
 }

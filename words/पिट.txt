@@ -66,5 +66,57 @@
             "pagenum": 436,
             "content": "piwa¦ <i>(II) n.</i> 1. A hovel; 2. a roof."
         }
+    ],
+    "MD": [
+        {
+            "word": "पिट",
+            "eid": "11598",
+            "pagenum": 162,
+            "content": "पिट¦ piṭa, <lex>n.</lex> (?) basket: <b>-ka,</b> <lex>m.</lex> <lex>n.</lex> <ab>id.</ab>; boil."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पिट",
+            "eid": "123728",
+            "pagenum": 625,
+            "content": "पिट ¦ (from √ पिट् in the sense of gathering together), <lex>m.</lex> or <lex type='hw'>n.</lex> a basket, box, <ls>L.</ls> <info n='rev' pc='1330,2'/><info lex='m:n'/>"
+        },
+        {
+            "word": "पिट",
+            "eid": "123729",
+            "pagenum": 625,
+            "content": "¦ a roof, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पिट",
+            "eid": "123730",
+            "pagenum": 625,
+            "content": "¦ a sort of cupboard or granary made of bamboos or canes, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पिट",
+            "eid": "29203",
+            "pagenum": 572,
+            "content": "<i>Piṭa, as,</i>¦ m. a basket for holding grain, a sort of cupboard or granary made of bamboos or canes; a basket, box; (<i>am</i>), n. a house, a hovel; a roof."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पिट",
+            "eid": "66811",
+            "pagenum": 4,
+            "content": "पिट¦ <div n='1'>— 1〉 (*<lex>m.</lex> <lex>n.</lex>) <i>Korb</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>Dach</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पिट",
+            "eid": "45121",
+            "pagenum": 4,
+            "content": "पिट¦ <div n='1'> 1) <i>Korb</i>, <lex>m.</lex> <ls>AK. 2, 9, 26.</ls> n. <ls>H. 1017.</ls> अन्न° (Conjectur) <ls>Spr. 1558.</ls> Vgl. नील° . <div n='1'>— 2) <lex>n.</lex> <i>Dach</i> <ls>TRIK. 2, 2, 5.</ls>"
+        }
     ]
 }

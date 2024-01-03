@@ -7,5 +7,21 @@
             "pagenum": 224,
             "content": "आक्री¦ {c9c} <ab>U.</ab> To purchase, buy."
         }
+    ],
+    "MW": [
+        {
+            "word": "आक्री",
+            "eid": "22339",
+            "pagenum": 128,
+            "content": "आ-क्री ¦ (<ab>Pass.</ab> 3. <ab>pl.</ab> -क्रीयन्ते) to purchase, obtain, <ls>Kām.</ls> (<ab>v.l.</ab> आ-हार्यन्ते, <ls>Pañcat.</ls>)<info verb='pre' parse='A+krI'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आक्री",
+            "eid": "7944",
+            "pagenum": 112,
+            "content": "आक्री¦ <i>ā-krī,</i> cl. 9. P. A. <i>-krīṇāti, -ṇīte,</i> <i>-kretum,</i> to purchase."
+        }
     ]
 }

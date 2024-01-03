@@ -50,5 +50,51 @@
             "pagenum": 224,
             "content": "KakKawa¦ <i>(II) m.</i> Chalk."
         }
+    ],
+    "MW": [
+        {
+            "word": "खक्खट",
+            "eid": "60851",
+            "pagenum": 334,
+            "content": "खक्खट ¦ <lex>mfn.</lex> = कक्ख्° (<ab>q.v.</ab>), hard, solid, <ls>L.</ls>, <ab>Sch.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "खक्खट",
+            "eid": "60851.1",
+            "pagenum": 334,
+            "content": "¦ harsh (as sound), <ls>Divyāv. xxxvi.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खक्खट",
+            "eid": "16640",
+            "pagenum": 272,
+            "content": "खक्खट¦ <i>khakkhaṭa, as, ā, am,</i> hard, solid; (also <i>kakkhaṭa.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खक्खट",
+            "eid": "33171",
+            "pagenum": 2,
+            "content": "*खक्खट¦ <lex>Adj.</lex> = *कक्खट <i>hart</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खक्खट",
+            "eid": "20753",
+            "pagenum": 2,
+            "content": "खक्खट¦ <lex>adj.</lex> = कक्खट <i>hart</i> <ls>RĀYAM.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "खक्खट",
+            "eid": "16623",
+            "pagenum": 7,
+            "content": "खक्खट¦ II. <ls>DIVYĀVAD. 518,2</ls>."
+        }
     ]
 }

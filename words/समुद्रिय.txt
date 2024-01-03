@@ -31,5 +31,63 @@
             "pagenum": 1484,
             "content": "<b>samudríya,</b>¦ <ab>a.</ab> [von samudrá], <i>zum Meere gehörig</i> (<i>des Meeres</i>). <div n='TS'>-as rā́jā devás 〰 (sómas) (<ab>vgl.</ab> samudrá 4) {819,16} (wo <ls>SV.</ls> samudryàs). <div n='TS'>-ā árṇāṃsi nadī́nām {603,1}. <div n='TS'>-āṇi árṇāṃsi {312,7}. <div n='TS'>-ās [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] apsarásas {790,3}. <div n='TS'>-ās [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] apás {685,3}; {774,26}."
         }
+    ],
+    "MD": [
+        {
+            "word": "समुद्रिय",
+            "eid": "18935",
+            "pagenum": 338,
+            "content": "समुद्रिय¦ samudr-íya, <lex>a.</lex> belonging to <i>or</i> 🞄flowing into the sea (<ab>V.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "समुद्रिय",
+            "eid": "235347",
+            "pagenum": 1167,
+            "content": "समुद्रि/य ¦ <lex>mf(आ)n.</lex> belonging to or flowing into the sea, <ls>RV.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "समुद्रिय",
+            "eid": "235348",
+            "pagenum": 1167,
+            "content": "¦ relating to or being in the <s1 slp1='soma'>Soma</s1> vessel, <ls>ib.</ls> <ls n='RV.'>ix, 107, 16</ls><info lex='inh'/>"
+        },
+        {
+            "word": "समुद्रिय",
+            "eid": "235349",
+            "pagenum": 1167,
+            "content": "समुद्रि/य ¦ <lex>n.</lex> (<ab>prob.</ab>) a kind of metre, <ls>ŚBr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "समुद्रिय",
+            "eid": "50378",
+            "pagenum": 1079,
+            "content": "<i>Samudriya</i>¦ or <i>samudrīya, as, ā, am,</i> belonging to or generated in the firmament, aerial, (in Ṛg-veda X. 65, 13. the form <i>samudriyaḥ,</i> acc. pl. fem., occurs); marine, oceanic, maritime, living in the ocean."
+        },
+        {
+            "word": "समुद्रिय",
+            "eid": "50460",
+            "pagenum": 1080,
+            "content": "<i>Samudriya,</i>¦ &c. See p. 1079, col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "समुद्रिय",
+            "eid": "120778",
+            "pagenum": 7,
+            "content": "समुद्रि/य¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='2'>— a〉 <i>marinus</i> <ls>ṚV. 1,25,7. 10,65,13</ls>. <div n='2'>— b〉 <i>in der Kufe befindlich</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>ein <ab>best.</ab> Metrum</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समुद्रिय",
+            "eid": "105946",
+            "pagenum": 7,
+            "content": "समुद्रि/य¦ (von 1. समुद्र) <ls>P. 4, 4, 118.</ls> <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>marinus</i>: अर्णा^ंसि <ls>ṚV. 4, 16, 7.</ls> <ls n='ṚV.'>7, 87, 1.</ls> अ\\पः <ls n='ṚV.'>9, 62, 26.</ls> <ls n='ṚV.'>8, 63, 3.</ls> <ls>AV. 7, 107, 1.</ls> <ls>TS. 7, 4, 13, 1.</ls> अप्सरसः °याः <ls n='TS.'>9, 78, 3.</ls> <ls>VS. 11, 46.</ls> <ls n='VS.'>17, 87.</ls> <ls>AV. 7, 7, 1.</ls> f. pl. auch °द्रियः <ls>ṚV. 10, 68, 3.</ls> नाव^ः <ls n='ṚV.'>1, 25, 7.</ls> <div n='2'>— b) <i>in der Kufe befindlich</i>: देव <ls>ṚV. 9, 107, 16.</ls> <div n='1'>— 2) <lex>n.</lex> (oder <lex>adj.</lex> zu छन्दस्) angeblich <i>ein best. Metrum</i> <ls>ŚAT. BR. 7, 3, 1, 39.</ls>"
+        }
     ]
 }

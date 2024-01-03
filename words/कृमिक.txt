@@ -31,5 +31,43 @@
             "pagenum": 91,
             "content": "कृमिक¦ <i>m.</i> Würmchen."
         }
+    ],
+    "MW": [
+        {
+            "word": "कृमिक",
+            "eid": "54993",
+            "pagenum": 305,
+            "content": "कृमिक ¦ <lex>m.</lex> a small worm, <ls>MBh. i, 1800</ls>; <ls>BhP. iii, 31, 27</ls><info lex='m'/>"
+        },
+        {
+            "word": "कृमिक",
+            "eid": "54994",
+            "pagenum": 305,
+            "content": "कृमिक ¦ <lex>n.</lex> (= क्रम्°) betel nut, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कृमिक",
+            "eid": "15666",
+            "pagenum": 249,
+            "content": "<i>Kṛmika, as,</i>¦ m. a small worm."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कृमिक",
+            "eid": "30191",
+            "pagenum": 2,
+            "content": "कृमिक¦ <div n='1'>— 1〉 <lex>m.</lex> <i>ein kleiner Wurm</i>. <div n='1'>— 2〉 *<lex>n.</lex> = क्रमुक <i>Betelnuss</i> <ls>MADANAV. 72,101</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कृमिक",
+            "eid": "18758",
+            "pagenum": 2,
+            "content": "कृमिक¦ (von कृमि) <lex>m.</lex> <i>ein kleiner Wurm</i> <ls>MBH. 1, 1800.</ls> <ls>BHĀG. P. 3, 31, 27.</ls>"
+        }
     ]
 }

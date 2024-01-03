@@ -23,5 +23,39 @@
             "pagenum": 395,
             "content": "nihata¦ <i>a. (f. ता)</i> 1. struck down, killed, slain; 2. struck into, infixed."
         }
+    ],
+    "MW": [
+        {
+            "word": "निहत",
+            "eid": "111135",
+            "pagenum": 564,
+            "content": "नि/-°हत ¦ (नि/-), <lex>mfn.</lex> hurled, thrown, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "निहत",
+            "eid": "111135.1",
+            "pagenum": 564,
+            "content": "¦ hit, touched (<ab>lit.</ab> and <ab>fig.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "निहत",
+            "eid": "111135.2",
+            "pagenum": 564,
+            "content": "¦ struck down, smitten, slain, killed, destroyed, lost, gone, <ls>ib.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "निहत",
+            "eid": "111135.3",
+            "pagenum": 564,
+            "content": "¦ having the unaccented tone or <s1 slp1='anudAtta'>Anudātta</s1> (-त्व <lex type='phw'>n.</lex>), <ls>TPrāt.</ls><info phwchild='111135.31'/><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निहत",
+            "eid": "26240",
+            "pagenum": 510,
+            "content": "<i>Ni-hata, as, ā, am,</i>¦ struck down, stricken, smitten, killed, slain, overcome; struck into, infixed; attached, devoted. <i>—Nihata-bhūyiṣṭha, as, ā, am,</i> having the greater number killed. <i>—Nihata-sena,</i> <i>as, ā, am,</i> having (their) armies smitten or destroyed. <i>—Nihatoṣṭra (°ta-uṣ°), as, ā, am,</i> having the camels killed, whose camels have been slain."
+        }
     ]
 }

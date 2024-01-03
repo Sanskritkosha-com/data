@@ -37,5 +37,55 @@
             "pagenum": 601,
             "content": "yOktika¦ <i>(II) m.</i> A king’s companion. See नर्मसचिव."
         }
+    ],
+    "MW": [
+        {
+            "word": "यौक्तिक",
+            "eid": "172910",
+            "pagenum": 859,
+            "content": "यौक्तिक ¦ <lex>mfn.</lex> (<ab>fr.</ab> युक्ति) suitable, proper, fit, logical, reasonable (अ-य्°), <ls>Kap.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "यौक्तिक",
+            "eid": "172911",
+            "pagenum": 859,
+            "content": "¦ connective, binding, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "यौक्तिक",
+            "eid": "172912",
+            "pagenum": 859,
+            "content": "¦ usual, customary, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "यौक्तिक",
+            "eid": "172913",
+            "pagenum": 859,
+            "content": "यौक्तिक ¦ <lex>m.</lex> a king's companion or associate (= नर्म-सचिव), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "यौक्तिक",
+            "eid": "38896",
+            "pagenum": 824,
+            "content": "यौक्तिक¦ <i>yauktika, as, ī, am</i> (fr. <i>yukti</i>), anything which connects or binds, suitable, proper, fit; founded on reasoning, logical; inferrible, deducible; usual, customary; (<i>as</i>), m. a king's companion or associate (<i>= narma-saciva</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "यौक्तिक",
+            "eid": "91562",
+            "pagenum": 5,
+            "content": "यौक्तिक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>passend, zutreffend</i> in अ°. <div n='1'>— 2〉 <lex>m.</lex> <i>der Gefährte eines Fürsten, der diesen durch Scherz und Spässe aufheitert</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यौक्तिक",
+            "eid": "82590",
+            "pagenum": 6,
+            "content": "यौक्तिक¦ (von युक्ति) <div n='1'> 1) <lex>adj.</lex> <i>zutreffend, richtig</i>; s. अ° . <div n='1'>— 2) <lex>m.</lex> <i>der Gefährte eines Fürsten, der diesen durch Scherze und Spässe aufheitert</i>, = नर्मसचिव <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

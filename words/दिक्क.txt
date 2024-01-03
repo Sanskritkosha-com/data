@@ -39,5 +39,57 @@
             "pagenum": 331,
             "content": "dikka¦ <i>m.</i> A young elephant twenty years old."
         }
+    ],
+    "MD": [
+        {
+            "word": "दिक्क",
+            "eid": "9268",
+            "pagenum": 119,
+            "content": "दिक्क¦ dik-ka, <ab>—°</ab> = दिश् diś."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दिक्क",
+            "eid": "92034",
+            "pagenum": 477,
+            "content": "<hom>1.</hom> दिक्क ¦ <ab>ifc.</ab> = <hom>2.</hom> दिश्."
+        },
+        {
+            "word": "दिक्क",
+            "eid": "92035",
+            "pagenum": 477,
+            "content": "<hom>2.</hom> दिक्क ¦ <lex>m.</lex> = करभ (<ab>v.l.</ab> धिक्क and विक्क), <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दिक्क",
+            "eid": "22320",
+            "pagenum": 412,
+            "content": "दिक्क¦ <i>dikka, as,</i> m. <i>= karabha,</i> a young elephant ?; (also read <i>dhikka</i> and <i>vikka.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिक्क",
+            "eid": "50040",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> दिक्क¦ am Ende eines <ab>Comp.</ab> = <hom>2.</hom> दिश्."
+        },
+        {
+            "word": "दिक्क",
+            "eid": "50041",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *दिक्क¦ <lex>m.</lex> = करभ."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिक्क",
+            "eid": "32798",
+            "pagenum": 3,
+            "content": "दिक्क¦ <lex>m.</lex> = करभ (welches <ls>WILS.</ls> hier durch <i>ein junger Elephant</i> wiedergiebt) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> Varianten: धिक्क und विक्क nach <ls>WILSON.</ls>"
+        }
     ]
 }

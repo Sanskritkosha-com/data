@@ -28,5 +28,29 @@
             "pagenum": 2,
             "content": "aMhri-pa¦ <i>m.</i> a tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "अंह्रिप",
+            "eid": "111",
+            "pagenum": 1,
+            "content": "अंह्रि—प ¦ <lex>m.</lex> ‘root-drinker’, a tree, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अंह्रिप",
+            "eid": "61",
+            "pagenum": 1,
+            "content": "*अंह्रिप¦ <lex>m.</lex> <i>Baum</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अंह्रिप",
+            "eid": "62",
+            "pagenum": 1,
+            "content": "अंह्रिप¦ (अंह्रि <i>Wurzel</i> + प <i>trinkend</i>) <lex>m.</lex> <i>Baum</i> <ls>H. 1114.</ls>"
+        }
     ]
 }

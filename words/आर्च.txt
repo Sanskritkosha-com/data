@@ -7,5 +7,55 @@
             "pagenum": 255,
             "content": "आर्च¦ <i><ab>a.</ab></i> (र्ची <i><ab>f.</ab></i>) [अर्चा <lbinfo n='astya#sya'/> अस्त्यस्य ण <ls>P. V. 2. 101</ls>] <b>1</b> Devout, <lbinfo n='wor+shipping'/> worshipping, pious. <b>--2</b> Relating to, the Ṛk or Ṛgveda."
         }
+    ],
+    "MW": [
+        {
+            "word": "आर्च",
+            "eid": "26408",
+            "pagenum": 151,
+            "content": "<hom>1.</hom> आर्च ¦ <lex>mfn.</lex> (<ab>fr.</ab> अर्चा, <ls>Pāṇ. v, 2, 101</ls>) = अर्चावत् (<ab>q.v.</ab>), worshipping, doing homage.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "आर्च",
+            "eid": "26409",
+            "pagenum": 151,
+            "content": "<hom>2.</hom> आर्च ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> ऋच्), relating to the <s1 slp1='fc'>Ṛc</s1> or <s1 slp1='fg'>Ṛg</s1>-<s1 slp1='veda'>veda</s1>.<info lex='m:f#I:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आर्च",
+            "eid": "9174",
+            "pagenum": 129,
+            "content": "आर्च¦ <i>ārca, as, ī, am</i> (fr. <i>arcā</i> or fr. <i>ṛc</i>), devout, worshipping; relating to the Ṛc or Ṛg-veda."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आर्च",
+            "eid": "15596",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> *आर्च¦ <lex>Adj.</lex> von अर्चा."
+        },
+        {
+            "word": "आर्च",
+            "eid": "15597",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> आर्च¦ <lex>Adj.</lex> (<lex>f.</lex> ई) von ऋच्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आर्च",
+            "eid": "9239",
+            "pagenum": 1,
+            "content": "आर्च/¦ <lex>adj.</lex> von अर्चा <ls>P. 5, 2, 101.</ls>"
+        },
+        {
+            "word": "आर्च",
+            "eid": "66811",
+            "pagenum": 5,
+            "content": "आर्च¦ <lex>adj.</lex> (f. ई) von ऋच् <ls>Ind. St. 8, 117.</ls> <ls>VS. App. LXVIII.</ls>"
+        }
     ]
 }

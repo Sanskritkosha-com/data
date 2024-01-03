@@ -36,5 +36,37 @@
             "pagenum": 399,
             "content": "nEmeya¦ <i>m.</i> Barter, exchange."
         }
+    ],
+    "MW": [
+        {
+            "word": "नैमेय",
+            "eid": "112369",
+            "pagenum": 570,
+            "content": "नै—मेय ¦ <lex>m.</lex> = नि-मय, barter, exchange, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नैमेय",
+            "eid": "26485",
+            "pagenum": 517,
+            "content": "नैमेय¦ <i>naimeya, as,</i> m. barter, exchange (<i>= ni-maya</i> under <i>ni-me</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नैमेय",
+            "eid": "61247",
+            "pagenum": 3,
+            "content": "*नैमेय¦ <lex>m.</lex> <i>Tausch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नैमेय",
+            "eid": "40931",
+            "pagenum": 4,
+            "content": "नैमेय¦ <lex>m.</lex> = निमय <i>Tausch</i> <ls>AK. 2, 9, 81.</ls> <ls>H. 869.</ls>"
+        }
     ]
 }

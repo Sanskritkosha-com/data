@@ -60,5 +60,57 @@
             "pagenum": 100,
             "content": "Adima¦ <i>a. (f. मा)</i> First, prior."
         }
+    ],
+    "MD": [
+        {
+            "word": "आदिम",
+            "eid": "3559",
+            "pagenum": 39,
+            "content": "आदिम¦ ādi-ma, <lex>a.</lex> first; <b>-mat,</b> <lex>a.</lex> having a 🞄beginning; <b>-mūla,</b> <lex>n.</lex> original cause; <b>-varāha,</b> <lex>m.</lex> original boar, <ab>ep.</ab> <i>of</i> Viṣṇu."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आदिम",
+            "eid": "23890",
+            "pagenum": 137,
+            "content": "आदिम ¦ <lex>mf(आ)n.</lex> first, prior, primitive, original, <ls>Pāṇ.</ls>; <ls>Pat.</ls>; <ls>L.</ls><info lex='m:f#A:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आदिम",
+            "eid": "8411",
+            "pagenum": 119,
+            "content": "<i>Ādima, as, ā, am,</i>¦ first, prior, primitive, original."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आदिम",
+            "eid": "14455",
+            "pagenum": 1,
+            "content": "आदिम¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>der erste</i>. Davon <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>NṚS. UP.</ls> in <ls>Ind. St. 9,133</ls>. <div n='1'>— 2〉 *<lex>f.</lex> आ <i>die Erde</i> <ls>RĀJAN. 2,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आदिम",
+            "eid": "8449",
+            "pagenum": 1,
+            "content": "आदिम/¦ (von आदि) <lex>adj.</lex> <i>der erste</i> <ls>P. 4, 3, 23</ls>, <is>Vārtt</is>. 3. <ls n='P.'>4, 3, 8</ls>, <ls>KĀŚ.</ls> <ls>VOP. 7, 111.</ls> <ls>AK. 2, 1, 11.</ls> <ls>H. 1458.</ls>"
+        },
+        {
+            "word": "आदिम",
+            "eid": "66392",
+            "pagenum": 5,
+            "content": "आदिम¦ <ls>Ind. St. 8, 299.</ls> <ls>BHĀṢĀP. 20. 115.</ls>"
+        },
+        {
+            "word": "आदिम",
+            "eid": "118752",
+            "pagenum": 7,
+            "content": "आदिम¦ <ls>SŪRYAS. 1, 21.</ls>"
+        }
     ]
 }

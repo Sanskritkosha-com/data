@@ -28,5 +28,53 @@
             "pagenum": 199,
             "content": "kuzWa-ari¦ <i>m.</i> sulphur."
         }
+    ],
+    "MW": [
+        {
+            "word": "कुष्ठारि",
+            "eid": "53536",
+            "pagenum": 298,
+            "content": "kuzWA<srs/>ri ¦ <lex>m.</lex> ‘enemy of leprosy’, sulphur, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कुष्ठारि",
+            "eid": "53537",
+            "pagenum": 298,
+            "content": "¦ the plant <bot>Acacia Catechu</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कुष्ठारि",
+            "eid": "53538",
+            "pagenum": 298,
+            "content": "¦ the plant <bot>Acacia Farnesiana</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कुष्ठारि",
+            "eid": "53539",
+            "pagenum": 298,
+            "content": "¦ = कुष्ठ-कन्द, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कुष्ठारि",
+            "eid": "53540",
+            "pagenum": 298,
+            "content": "¦ a sort of <bot>Helianthus</bot> (आदित्यपत्त्र, or अर्क-प्°), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुष्ठारि",
+            "eid": "29521",
+            "pagenum": 2,
+            "content": "*कुष्ठारि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Schwefel</i>. <div n='1'>— 2〉 <i><bot>Acacia Catechu</bot></i>. <div n='1'>— 3〉 <i><bot>Acacia farnesiana</bot></i>. <div n='1'>— 4〉 <i><bot>Trichosanthes dioeca</bot></i> <ls>RĀJAN. 3,11</ls>. <div n='1'>— 5〉 <i>ein Helianthus</i> <ls>RĀJAN. 4,176</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुष्ठारि",
+            "eid": "18319",
+            "pagenum": 2,
+            "content": "कुष्ठारि¦ (कुष्ठ <i>Aussatz</i> + अरि <i>Feind</i>) <lex>m.</lex> <div n='1'> 1) N. verschiedener Pflanzen: <div n='2'> a) <i>Acacia Catechu Willd.</i> (खदिर) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <div n='2'>— b) <i>Acacia farnesiana Willd.</i> (विट्खदिर) <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <div n='2'>— c) <i>Trichosanthes dioeca Roxb.</i> (पटोल). <div n='2'>— d) N. eines Strauchs (आदित्यपत्र, अर्कपत्र) <ls>RĀJAN.</ls> <div n='1'>— 2) <i>Schwefel</i> <ls>H. 1057.</ls> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

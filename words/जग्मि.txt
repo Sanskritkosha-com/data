@@ -55,5 +55,57 @@
             "pagenum": 282,
             "content": "jagmi¦ <i>m.</i> Wind."
         }
+    ],
+    "MD": [
+        {
+            "word": "जग्मि",
+            "eid": "7806",
+            "pagenum": 98,
+            "content": "जग्मि¦ já-gm-i, <lex>a.</lex> going, nimble; hastening 🞄to (<ab>ac.</ab>, <ab>lc.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जग्मि",
+            "eid": "76397",
+            "pagenum": 408,
+            "content": "ज/ग्मि <hom>a</hom> ¦ <lex>mfn.</lex> (<ls>Pāṇ. iii, 2, 171</ls>) going, being in constant motion, hastening towards (<ab>acc.</ab> or <ab>loc.</ab>), <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "जग्मि",
+            "eid": "76418",
+            "pagenum": 408,
+            "content": "ज/ग्मि <hom>b</hom>, ¦ °ग्मिवस् See जग."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जग्मि",
+            "eid": "19187",
+            "pagenum": 335,
+            "content": "<i>Jagmi, is, is, i,</i>¦ Ved. going, being in constant motion; going to, hastening towards (with acc. or loc.); (<i>is</i>), m. the wind, air."
+        },
+        {
+            "word": "जग्मि",
+            "eid": "19198",
+            "pagenum": 335,
+            "content": "जग्मि¦ <i>jagmi, jagmivas.</i> See under <i>jagat.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जग्मि",
+            "eid": "41316",
+            "pagenum": 2,
+            "content": "ज/ग्मि¦ <lex>Adj.</lex> <i>gehend, in steter Bewegung befindlich, gehend —, eilend zu</i> (<ab>Acc.</ab> oder <ab>Loc.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जग्मि",
+            "eid": "26370",
+            "pagenum": 3,
+            "content": "ज/ग्मि¦ (von गम्) <lex>adj.</lex> <ls>P. 3, 2, 171.</ls> <ls>VOP. 26, 155.</ls> <i>gehend, in steter Bewegung befindlich; gehend, eilend zu</i> (acc. oder loc.): वायु (daher <lex>m.</lex> <i>Wind</i> <ls>ŚKDR.</ls> <ls>WILS.</ls>) <ls>P.</ls>, <ls>Sch.</ls> शूरा^ः <ls>ṚV. 1, 85, 8.</ls> वि\\दथे^षु <ls n='ṚV. 1,'>89, 7.</ls> आ\\ह\\वम् <ls n='ṚV.'>2, 23, 11.</ls> नृ\\षद^नम् <ls n='ṚV.'>7, 20, 1.</ls> <ls n='ṚV.'>6, 42, 1.</ls> <ls n='ṚV.'>8, 46, 17.</ls> <ls n='ṚV.'>10, 106, 8.</ls>"
+        }
     ]
 }

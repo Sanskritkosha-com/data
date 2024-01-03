@@ -63,5 +63,43 @@
             "pagenum": 32,
             "content": "anya-tama¦ <i>a.</i> any one of many."
         }
+    ],
+    "MW": [
+        {
+            "word": "अन्यतम",
+            "eid": "8633",
+            "pagenum": 45,
+            "content": "अन्य-तम ¦ <lex>mfn.</lex> any one of many, either, any.<info lexcat='LEXID=pron,STEM=anyatama'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अन्यतम",
+            "eid": "2999",
+            "pagenum": 46,
+            "content": "<i>Anya-tama, as, ā, am,</i>¦ any one of many, either, any."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अन्यतम",
+            "eid": "5609",
+            "pagenum": 1,
+            "content": "अन्यतम¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>einer von Mehreren, entweder der eine oder der andere;</i> mit <ab>Gen.</ab> (<ab>st.</ab> dessen auch अतस्) oder am Ende eines <ab>Comp.</ab> <div n='1'>— 2〉 <i>ein anderer</i> so <ab>v. a.</ab> <i>ein zweiter</i> (bei Vergleichen)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अन्यतम",
+            "eid": "3538",
+            "pagenum": 1,
+            "content": "अन्यतम¦ (superl. von अन्य) <lex>adj.</lex> <lex>f.</lex> आ <i>einer von mehreren, irgend ein</i> <ls>VOP. 7, 96.</ls> प्रागुदीचीमन्यतमां वा (<ls>Sch.</ls>: प्राचीं वोदीचीं वा) <ls>KĀTY. ŚR. 4, 2, 4.</ls> जपन्वान्यतमं वेदम् <ls>M. 11, 75.</ls> जातिभ्रंशकरं कर्म कृत्वान्यतमम् <ls n='M. 11,'>124.</ls> यतस्वान्यतमं रणम् <ls>R. 3, 35, 60.</ls> Mit einem gen. pl.: स्थाणुवृक्षवंशवल्मीकानामन्यतमस्मिन्नुत्क्षेपणवदासजति <ls>KĀTY. ŚR. 5, 10, 21.</ls> एषामन्यतमः <ls>M. 3, 246.</ls> <ls n='M.'>6, 32.</ls> <ls n='M.'>8, 119.</ls> <ls>YĀJÑ. 2, 22.</ls> <ls n='YĀJÑ.'>3, 253.</ls> <ls>BRĀHMAṆ. 1, 33.</ls> <ls>N. 3, 6.</ls> <ls>ŚĀK. 49, 9.</ls> mit अतस् <i>davon, von diesen</i>: अतो ऽन्यतमया वृत्त्या जीवंस्तु <ls>M. 4, 13. 222. 11, 86.</ls> am Ende eines comp.: दिव्यान्यतमम् <i>eins von den Gottesurtheilen</i> <ls>YĀJÑ. 2, 22.</ls> स्थानार्थगुणप्रमाणान्यतमेन <ls>P. 1, 1, 50</ls>, <ls>Sch.</ls> pl. : तासामन्यतमाः <i>einige von diesen</i> <ls>R. 5, 56, 115.</ls> <div n='v'>— Vgl. अन्यतर ."
+        },
+        {
+            "word": "अन्यतम",
+            "eid": "118339",
+            "pagenum": 7,
+            "content": "अन्यतम¦ = अन्य. श्री so v. a. <i>eine zweite</i> <is>Śrī</is> <ls>R. 7, 26, 17.</ls>"
+        }
     ]
 }

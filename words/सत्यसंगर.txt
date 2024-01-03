@@ -31,5 +31,41 @@
             "pagenum": 751,
             "content": "satya-saMgara¦ <i>a.</i> true to one’s word."
         }
+    ],
+    "MW": [
+        {
+            "word": "सत्यसंगर",
+            "eid": "230088",
+            "pagenum": 1136,
+            "content": "सत्य—संगर ¦ <lex>mfn.</lex> true to an agreement or promise, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "सत्यसंगर",
+            "eid": "230089",
+            "pagenum": 1136,
+            "content": "सत्य—संगर ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='kubera'>Kubera</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सत्यसंगर",
+            "eid": "230090",
+            "pagenum": 1136,
+            "content": "¦ of a <s1 slp1='fzi'>Ṛṣi</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सत्यसंगर",
+            "eid": "118338",
+            "pagenum": 7,
+            "content": "सत्यसंगर¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>dessen Zusage wahr ist, der sein Versprechen hält</i> <ls n='Chr.'>111,15</ls>. <ls>BĀLAR. 105,19</ls>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <ab>Bein.</ab> <is>Kubera</is>ʼs. <div n='2'>— b〉 <ab>N. pr.</ab> eines <is>Ṛṣi</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सत्यसंगर",
+            "eid": "104173",
+            "pagenum": 7,
+            "content": "सत्यसंगर¦ <div n='1'> 1) <lex>adj.</lex> <i>dessen Zusage wahr ist, der sein Versprechen hält</i>; Belege s. u. <div n='1'> 1) संगर 1)a). <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) ein Bein. <is>Kubera's</is> <ls>TRIK. 1, 1, 78.</ls> <ls>H. ś. 39.</ls> <div n='2'>— b) N. pr. eines <is>Ṛṣi</is> <ls>MBH. 2, 297.</ls>"
+        }
     ]
 }

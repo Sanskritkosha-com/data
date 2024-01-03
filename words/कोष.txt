@@ -47,5 +47,57 @@
             "pagenum": 160,
             "content": "<i>koṣa,</i>¦ treasure, see Ghoshal, <i>H. Rev. Syst.,</i> pp. 15-16."
         }
+    ],
+    "MD": [
+        {
+            "word": "कोष",
+            "eid": "6362",
+            "pagenum": 75,
+            "content": "कोष¦ koṣa, <ab>v.</ab> कोश kośa."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कोष",
+            "eid": "56863",
+            "pagenum": 314,
+            "content": "<hom>1.</hom> कोष ¦ See कोश."
+        },
+        {
+            "word": "कोष",
+            "eid": "56864",
+            "pagenum": 314,
+            "content": "<hom>2.</hom> कोष/ ¦ आस्, <lex>m. <ab>pl.</ab></lex> (<ab>g.</ab> pacA<srs/>di), <ab>N.</ab> of a family of priests, <ls>ŚBr. x, 5, 5, 8</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कोष",
+            "eid": "15937",
+            "pagenum": 256,
+            "content": "कोष¦ <i>koṣa</i> with its compounds, see under <i>kośa,</i> for which <i>koṣa</i> is only a later form."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कोष",
+            "eid": "31218",
+            "pagenum": 2,
+            "content": "कोष/¦ <div n='1'>— 1〉 <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Priestergeschlechts. <div n='1'>— 2〉 <lex>f.</lex> आ <ab>N. pr.</ab> eines Flusses <ls>MBH. 6,9,34</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कोष",
+            "eid": "19413",
+            "pagenum": 2,
+            "content": "1. को/ष¦ s. u. कोश . Die abgeleiteten und damit zusammensetzten Wörter suche man gleichfalls unter श ."
+        },
+        {
+            "word": "कोष",
+            "eid": "19414",
+            "pagenum": 2,
+            "content": "2. कोष/¦ <is>gaṇa</is> पचादि zu <ls>P. 3, 1, 134.</ls> <lex>m.</lex> N. pr. eines Priestergeschlechts <ls>ŚAT. BR. 10, 5, 5, 8.</ls>"
+        }
     ]
 }

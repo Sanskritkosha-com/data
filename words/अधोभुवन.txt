@@ -36,5 +36,29 @@
             "pagenum": 14,
             "content": "aDas-Buvana¦ <i>n.</i> nether world."
         }
+    ],
+    "MW": [
+        {
+            "word": "अधोभुवन",
+            "eid": "4084",
+            "pagenum": 20,
+            "content": "अधो-भुवन ¦ <lex>n.</lex> the lower world.<info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अधोभुवन",
+            "eid": "3016",
+            "pagenum": 1,
+            "content": "*अधोभुवन¦ <lex>n.</lex> <i>Unterwelt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अधोभुवन",
+            "eid": "2079",
+            "pagenum": 1,
+            "content": "अधोभुवन¦ (अधस् + भुवन) <lex>n.</lex> <i>Unterwelt</i>, <is>Pātāla</is>, <i>der Aufenthaltsort der Schlangen</i>, <ls>AK. 1, 2, 1, 1.</ls> <ls>H. 1363.</ls>"
+        }
     ]
 }

@@ -45,5 +45,75 @@
             "pagenum": 597,
             "content": "yAmi(mI)¦ <i>f.</i> 1. A corruption of जामि q.v.; 2. night."
         }
+    ],
+    "MD": [
+        {
+            "word": "यामि",
+            "eid": "14823",
+            "pagenum": 244,
+            "content": "यामि¦ yāmi, <ab>incorr.</ab> <i>for</i> जामि jāmi."
+        }
+    ],
+    "MW": [
+        {
+            "word": "यामि",
+            "eid": "171185",
+            "pagenum": 850,
+            "content": "<hom>1.</hom> यामि ¦ (for <hom>2.</hom> See <pcol>p. 851, col. 3</pcol>) = यामी; <div n='vp'/> See under <hom>1.</hom> याम."
+        },
+        {
+            "word": "यामि",
+            "eid": "171495",
+            "pagenum": 851,
+            "content": "<hom>2.</hom> यामि ¦ <lex>f.</lex> (or °मी) (for <hom>1.</hom> See <pcol>p. 850, col. 1</pcol>) = जामि (<ls>Uṇ. iv, 43</ls>, <ab>Sch.</ab>), a sister, female relation, <ls>Mn. iv, 180, 183</ls> (<ab>v.l.</ab> जामि), <ls>MārkP.</ls><info lex='f'/>"
+        },
+        {
+            "word": "यामि",
+            "eid": "171495.1",
+            "pagenum": 851,
+            "content": "¦ = कुल-स्त्री, a woman of rank or respectability, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "यामि",
+            "eid": "38524",
+            "pagenum": 814,
+            "content": "1. <i>yāmi = yāmī</i>¦ under 1. <i>yāma.</i> (For 2. <i>yāmi</i> see p. 816, col. 2.)"
+        },
+        {
+            "word": "यामि",
+            "eid": "38646",
+            "pagenum": 816,
+            "content": "यामि 2¦. <i>yāmi, is,</i> or <i>yāmī,</i> f. (for 1. <i>yāmi</i> see p. 814, col. 2), <i>= jāmi, svasṛ,</i> a sister, female relation; a daughter-in-law; a woman of rank or respectability (<i>= kula-strī</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "यामि",
+            "eid": "90838",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> यामि¦ <lex>f.</lex> = जामि 2〉a〉 <ls>GOP. BR. 1,9,9</ls>. Neuerer Fehler."
+        },
+        {
+            "word": "यामि",
+            "eid": "90839",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> यामि¦ <lex>f.</lex> = <hom>3.</hom> याम 2〉a〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यामि",
+            "eid": "82001",
+            "pagenum": 6,
+            "content": "1. यामि/¦ <lex>f.</lex> = जामि <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 43.</ls> = कुलस्त्री und स्वसर् <ls>MED. m. 24.</ls> यामयः <ls>M. 4, 183.</ls> <ls>MĀRK. P. 14, 59. 50, 64.</ls> यामीभिः <ls>M. 4, 180</ls>; vgl. जामि (2) <i>a)</i>."
+        },
+        {
+            "word": "यामि",
+            "eid": "82002",
+            "pagenum": 6,
+            "content": "2. यामि¦ = यामी; s. u. 3. याम (2) <i>a)</i>."
+        }
     ]
 }

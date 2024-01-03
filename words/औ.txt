@@ -37,5 +37,115 @@
             "pagenum": 156,
             "content": "O¦ <i>ind.</i> 1. An interjection of- (1) calling; (2) addressing; 2. a particle of opposition."
         }
+    ],
+    "MW": [
+        {
+            "word": "औ",
+            "eid": "40789",
+            "pagenum": 236,
+            "content": "<hom>1.</hom> औ ¦ the fourteenth vowel of the alphabet (having the sound of English <i>ou</i> in <i>our</i>)."
+        },
+        {
+            "word": "औ",
+            "eid": "40791",
+            "pagenum": 236,
+            "content": "<hom>2.</hom> औ ¦ <lex>ind.</lex> an interjection<info lex='ind'/>"
+        },
+        {
+            "word": "औ",
+            "eid": "40791.1",
+            "pagenum": 236,
+            "content": "¦ a particle of addressing<info lex='inh'/>"
+        },
+        {
+            "word": "औ",
+            "eid": "40791.2",
+            "pagenum": 236,
+            "content": "¦ calling<info lex='inh'/>"
+        },
+        {
+            "word": "औ",
+            "eid": "40791.3",
+            "pagenum": 236,
+            "content": "¦ prohibition<info lex='inh'/>"
+        },
+        {
+            "word": "औ",
+            "eid": "40791.4",
+            "pagenum": 236,
+            "content": "¦ ascertainment, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "औ",
+            "eid": "40792",
+            "pagenum": 236,
+            "content": "<hom>3.</hom> औ ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='ananta'>Ananta</s1> or <s1 slp1='Seza'>Śeṣa</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "औ",
+            "eid": "40793",
+            "pagenum": 236,
+            "content": "¦ a sound, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "औ",
+            "eid": "40794",
+            "pagenum": 236,
+            "content": "¦ the <s1 slp1='setu'>Setu</s1> or sacred syllable of the <s1 slp1='SUdra'>Śūdra</s1>s, <ls>KālikāP.</ls> [<ls>T.</ls>]<info lex='inh'/>"
+        },
+        {
+            "word": "औ",
+            "eid": "40795",
+            "pagenum": 236,
+            "content": "औ ¦ <lex>f.</lex> (औस्) the earth, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "औ",
+            "eid": "13000",
+            "pagenum": 189,
+            "content": "औ 1¦. <i>au,</i> the fourteenth letter of the alphabet, having the same sound as <i>ou</i> in <nsi>our.</nsi> <i>—Au-kāra, as,</i> m. the letter or sound <i>au.</i>"
+        },
+        {
+            "word": "औ",
+            "eid": "13001",
+            "pagenum": 189,
+            "content": "औ 2¦. <i>au,</i> ind. an interjection of calling, Ho, Hola; of addressing, Oh; of prohibition and of asseveration."
+        },
+        {
+            "word": "औ",
+            "eid": "13002",
+            "pagenum": 189,
+            "content": "औ 3¦. <i>au, aus,</i> m. sound; an epithet of Śeṣa or Ananta; (<i>aus</i>), f. the earth."
+        }
+    ],
+    "PW": [
+        {
+            "word": "औ",
+            "eid": "22745",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> *औ¦ <ab>Interj.</ab> <i>der Anrede, des Anrufs, Widerspruchs und der Entscheidung</i>."
+        },
+        {
+            "word": "औ",
+            "eid": "22746",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *औ¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>Laut</i>. <div n='2'>— b〉 <ab>Bein.</ab> <is>Śeṣa</is>ʼs. <div n='1'>— 2〉 <lex>f.</lex> <i>die Erde</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "औ",
+            "eid": "13855",
+            "pagenum": 1,
+            "content": "1. औ¦ interj. <is>gaṇa</is> चादि zu <ls>P. 1, 4, 57.</ls> <i>der Anrede</i> und <i>des Anrufs</i> <ls>H. an. 7, 6.</ls> <ls>MED. avy. 10.</ls> <i>der Abwehr</i> (विरोध) und <i>der Versicherung</i> (निर्णय) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "औ",
+            "eid": "13856",
+            "pagenum": 1,
+            "content": "2. औ¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Laut</i> (निस्वन) <ls>MED. avy. 10.</ls> <div n='2'>— b) ein Bein. des <is>Śeṣa</is> (अनन्त) <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> <i>Erde</i> <ls>MED. avy. 10.</ls>"
+        }
     ]
 }

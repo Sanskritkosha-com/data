@@ -53,5 +53,49 @@
             "pagenum": 1741,
             "content": "133,1: avyathí <ab>st.</ab> ávyathí <info vn='chg 41 gra'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "अव्यथि",
+            "eid": "19280",
+            "pagenum": 111,
+            "content": "अ-व्यथि/ ¦ <lex>mfn.</lex> not tremulous, not unsteady, sure-footed, safe, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अव्यथि",
+            "eid": "19281",
+            "pagenum": 111,
+            "content": "¦ unfailing (as help), <ls>RV. i, 112, 6</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अव्यथि",
+            "eid": "19282",
+            "pagenum": 111,
+            "content": "अ-व्यथि/ ¦ (इस्), <lex>f.</lex> sure-footedness, <ls>RV.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अव्यथि",
+            "eid": "7089",
+            "pagenum": 98,
+            "content": "<i>A-vyathi, is, is, i,</i>¦ Ved. not tremulous, not tottering; not unsteady, stepping firmly and safely, sure-footed, undaunted; epithet of the horses of the Aśvins; (<i>is</i>), f. a firm step, sure-footedness; undauntedness. <i>—A-</i> <i>vyathi-dhī, īs,</i> f. the earth; night."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अव्यथि",
+            "eid": "11351",
+            "pagenum": 1,
+            "content": "अव्यथि/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>nicht schwankend, sicher schreitend, unverzagt</i>. <div n='2'>— b〉 <i>sicher</i> (Hülfe). <div n='1'>— 2〉 *<lex>m.</lex> <i>Ross</i> <ls>GAL.</ls> <div n='1'>— 3〉 <lex>f.</lex> <i>sicherer Gang, Unverzagtheit</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अव्यथि",
+            "eid": "6856",
+            "pagenum": 1,
+            "content": "अव्यथि/¦ (3. अ + व्य°) <div n='1'> 1) <lex>adj.</lex> <i>nicht wankend, sicher schreitend, unverzagt</i>: प्रो|अ^ः समु\\द्रम^व्य\\थिर्ज^ग\\न्वान् <ls>ṚV. 1, 117, 15.</ls> (रयिं) सु\\प\\र्णो अ^व्य\\थिर्भ^रत् <ls n='ṚV.'>9, 48, 3.</ls> Beiw. der Rosse der <is>Aśvin</is> (vgl. <ls>NAIGH. 1, 14</ls>): (भुज्युम्) उदू^हथु\\रर्ण^सो\\ अस्रि^धानैः । प\\त\\त्रिभि^र\\मैर^व्य\\थिभि^ः <ls n='ṚV.'>7, 69, 8.</ls> भु\\ज्युं याभि^रव्य\\थिभि^र्जि\\जिन्वथु^ः <ls n='ṚV.'>1, 112, 6.</ls> <div n='1'>— 2) <lex>f.</lex> <i>sicherer Gang, Unverzagtheit</i>: तद^व्य\\थी ज^रि\\माण^स्तरन्ति <ls>ṚV. 10, 27, 21.</ls> यो वेदि^ष्ठो अव्य\\थिष्वश्वा^वन्तं जरि\\तृभ्य^ः (वाजम्) ?<ls n='ṚV.'>8, 2, 24.</ls> <ls n='ṚV.'>10, 31, 10.</ls> <ls>SV. II, 2, 2, 3, 3</ls> (Var. zu <ls>ṚV. 9, 48, 3</ls>)."
+        }
     ]
 }

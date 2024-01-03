@@ -39,5 +39,55 @@
             "pagenum": 559,
             "content": "masta¦ <i>n.</i> The head."
         }
+    ],
+    "MW": [
+        {
+            "word": "मस्त",
+            "eid": "159065",
+            "pagenum": 793,
+            "content": "मस्त <hom>a</hom> ¦ <lex>mfn.</lex> measured, <ls>MW.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "मस्त",
+            "eid": "159066",
+            "pagenum": 793,
+            "content": "मस्त ¦ <lex>n.</lex> (= मस्तक) the head, <ls>Dhūrtas.</ls><info lex='n'/>"
+        },
+        {
+            "word": "मस्त",
+            "eid": "159148",
+            "pagenum": 794,
+            "content": "मस्त and °तक, ¦ मस्ति &c. See <ab>p.</ab> 793.<info and='159148,masta;159148.1,mastaka;159148.2,masti'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मस्त",
+            "eid": "36665",
+            "pagenum": 752,
+            "content": "1. <i>masta, as, ā, am</i>¦ (for 2. see p. 753, col. 1), measured; [cf. perhaps Gr. <lang n='greek'>μεστός.</lang>]"
+        },
+        {
+            "word": "मस्त",
+            "eid": "36687",
+            "pagenum": 753,
+            "content": "मस्त 2¦. <i>masta, am,</i> n. (said to be fr. rt. 1. <i>mas;</i> probably connected with <i>mastu</i> below; for 1. <i>masta</i> see rt. 1. <i>mas</i>), the head. <i>—Masta-dāru,</i> <i>us,</i> m. Pinus Deodora. <i>—Masta-mūlaka, am,</i> n. ‘root of the head,’ the neck or the upper part of it supporting the head."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मस्त",
+            "eid": "84026",
+            "pagenum": 5,
+            "content": "मस्त¦ (*<lex>n.</lex>) <i>Kopf</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मस्त",
+            "eid": "58214",
+            "pagenum": 5,
+            "content": "मस्त¦ <lex>n.</lex> = मस्तक <i>Kopf</i> <ls>DVIRŪPAK.</ls> im <ls>ŚKDR.</ls> <ls>DHŪRTAS. in LA. 70, 2.</ls>"
+        }
     ]
 }

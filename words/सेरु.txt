@@ -23,5 +23,49 @@
             "pagenum": 795,
             "content": "seru¦ <i>a.</i> Binding, tying, fastening."
         }
+    ],
+    "MW": [
+        {
+            "word": "सेरु",
+            "eid": "252132",
+            "pagenum": 1246,
+            "content": "सेरु <hom>a</hom> ¦ <lex>mfn.</lex> binding, fastening, <ls>Pāṇ. iii, 2, 159.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सेरु",
+            "eid": "252250",
+            "pagenum": 1246,
+            "content": "सेरु <hom>b</hom> ¦ See <ab>col.</ab> 2."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सेरु",
+            "eid": "52648",
+            "pagenum": 1134,
+            "content": "<i>Seru, us, us, u,</i>¦ binding, tying, fastening."
+        },
+        {
+            "word": "सेरु",
+            "eid": "52669",
+            "pagenum": 1135,
+            "content": "सेरु¦ <i>seru.</i> See under <i>setu,</i> p. 1134, col. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सेरु",
+            "eid": "129278",
+            "pagenum": 7,
+            "content": "*सेरु¦ <lex>Adj.</lex> <i>bindend, fesselnd</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सेरु",
+            "eid": "112647",
+            "pagenum": 7,
+            "content": "सेरु/¦ (von 1. सि) <lex>adj.</lex> <i>bindend, fesselnd</i> <ls>P. 3, 2, 159.</ls> <ls>VOP. 26, 149.</ls>"
+        }
     ]
 }

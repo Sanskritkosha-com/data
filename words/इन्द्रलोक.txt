@@ -31,5 +31,43 @@
             "pagenum": 118,
             "content": "indra-loka¦ <i>m.</i> Indra’s world."
         }
+    ],
+    "MD": [
+        {
+            "word": "इन्द्रलोक",
+            "eid": "4133",
+            "pagenum": 46,
+            "content": "इन्द्रलोक¦ indra-loká, <lex>m.</lex> Indraʼs world; 🞄<b>-vaṃśā,</b> <lex>f.</lex> <i>a metre</i>; <b>-vajra,</b> <lex>n.</lex> Indraʼs thunderbolt: 🞄<b>ā,</b> <lex>f.</lex> <i>a metre</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "इन्द्रलोक",
+            "eid": "29087",
+            "pagenum": 166,
+            "content": "इन्द्र—लोक/ ¦ <lex>m.</lex> <s1 slp1='indra'>Indra</s1>'s world<info lex='m'/>"
+        },
+        {
+            "word": "इन्द्रलोक",
+            "eid": "29088",
+            "pagenum": 166,
+            "content": "¦ <s1 slp1='svarga'>Svarga</s1> or paradise, <ls>ŚBr.</ls>; <ls>Mn.</ls>; <ls>R.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "इन्द्रलोक",
+            "eid": "17040",
+            "pagenum": 1,
+            "content": "इन्द्रलोक/¦ <lex>m.</lex> <is>Indra</is>ʼs <i>Welt</i>. इन्द्रलोकाभिगमन (<ls>ed. Bomb.</ls>) oder इन्द्रलोकागमन <lex>n.</lex> Titel eines Abschnittes im <ls>MBH.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इन्द्रलोक",
+            "eid": "10208",
+            "pagenum": 1,
+            "content": "इन्द्रलोक/¦ (इ° + लो°) <lex>m.</lex> <is>Indra's</is> <i>Welt</i> <ls>ŚAT. BR. 8, 5, 3, 8.</ls> <ls>M. 4, 182.</ls> <ls>SUND. 2, 7.</ls> <ls>N. 2, 12.</ls> <ls>R. 1, 43, 11.</ls> <ls n='R.'>2, 70, 30</ls> <ls n='R.'>4, 44, 18.</ls> <ls>PRAB. 25, 5.</ls> इन्द्रलोकागमन (<is>Arjuna's</is>) <i>Gang in</i> <is>Indra's</is> <i>Welt</i> <ls>MBH. 3, 42</ls>-<ls n='MBH. 3,'>46.</ls>"
+        }
     ]
 }

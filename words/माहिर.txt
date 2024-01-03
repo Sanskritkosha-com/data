@@ -31,5 +31,37 @@
             "pagenum": 572,
             "content": "mAhira¦ <i>m.</i> An epithet of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "माहिर",
+            "eid": "164053",
+            "pagenum": 815,
+            "content": "माहिर ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>L.</ls> (<ab>v.l.</ab> मिहिर). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "माहिर",
+            "eid": "37338",
+            "pagenum": 776,
+            "content": "माहिर¦ <i>māhira, as,</i> m. an epithet of Indra."
+        }
+    ],
+    "PW": [
+        {
+            "word": "माहिर",
+            "eid": "86722",
+            "pagenum": 5,
+            "content": "*माहिर¦ <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "माहिर",
+            "eid": "60332",
+            "pagenum": 5,
+            "content": "माहिर¦ <lex>m.</lex> Bein. <is>Indra's</is> <ls>TRIK. 1, 1, 58.</ls> मिहर <ls>H. ś. 31.</ls>"
+        }
     ]
 }

@@ -23,5 +23,25 @@
             "pagenum": 440,
             "content": "pItikA¦ <i>f.</i> 1. Saffron; 2. turmeric; 3. yellow jasmine."
         }
+    ],
+    "MW": [
+        {
+            "word": "पीतिका",
+            "eid": "124855",
+            "pagenum": 630,
+            "content": "पीतिका ¦ <lex>f.</lex> saffron, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "पीतिका",
+            "eid": "124856",
+            "pagenum": 630,
+            "content": "¦ turmeric, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पीतिका",
+            "eid": "124857",
+            "pagenum": 630,
+            "content": "¦ yellow jasmine, <ls>L.</ls><info lex='inh'/>"
+        }
     ]
 }

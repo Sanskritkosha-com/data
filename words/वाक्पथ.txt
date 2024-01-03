@@ -15,5 +15,41 @@
             "pagenum": 395,
             "content": "वाक्पथ¦ <i>m.</i> Zeit <i>(eig</i>  Weg) zum Reden."
         }
+    ],
+    "MW": [
+        {
+            "word": "वाक्पथ",
+            "eid": "189844",
+            "pagenum": 936,
+            "content": "वाक्—पथ ¦ <lex>mfn.</lex> suitable or seasonable for discourse, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वाक्पथ",
+            "eid": "189845",
+            "pagenum": 936,
+            "content": "वाक्—पथ ¦ <lex>m.</lex> an opportunity or moment fit for speech, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वाक्पथ",
+            "eid": "189846",
+            "pagenum": 936,
+            "content": "¦ the compass or range of <ab n='speech'>sp°</ab> (vA<srs/>k-paTa-pAram avA<srs/>pita, passed beyond the range of speech indescribable; atI<srs/>ta-v° <ab>id.</ab>), <ls>Śiś.</ls>; <ls>Naiṣ.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वाक्पथ",
+            "eid": "99806",
+            "pagenum": 6,
+            "content": "वाक्पथ¦ <lex>m.</lex> <div n='1'>— 1〉 <i>die Gelegenheit —, der geeignete Augenblick zum Reden</i>. <div n='1'>— 2〉 <i>Bereich der Rede</i>. अवापिता °पारम् so <ab>v. a.</ab> <i>unbeschreiblich geworden</i> <ls>NAIṢ. 7,107</ls>. अतीत° <lex>Adj.</lex> <i>unbeschreiblich</i> <ls>ŚIŚ. 14,60</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वाक्पथ",
+            "eid": "89311",
+            "pagenum": 6,
+            "content": "वाक्पथ¦ <lex>m.</lex> <i>die Gelegenheit —, der geeignete Augenblick zum Reden</i>: अतीतवाक्पथे काले <ls>MBH. 2, 1590.</ls> <ls n='MBH.'>3, 2399.</ls>"
+        }
     ]
 }

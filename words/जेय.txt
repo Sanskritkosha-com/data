@@ -36,5 +36,55 @@
             "pagenum": 139,
             "content": "जेय¦ zu besiegen."
         }
+    ],
+    "MW": [
+        {
+            "word": "जेय",
+            "eid": "80172",
+            "pagenum": 424,
+            "content": "जेय <hom>a</hom> ¦ <lex>mfn.</lex> (<ls>Kāś.</ls> on <ls>Pāṇ. iii, 1, 97</ls> and <ls n='Pāṇ.'>vi, 1, 213</ls>) to be conquered, <ls>MBh. xv, 220</ls>; <ls>MārkP. xxvii</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "जेय",
+            "eid": "80173",
+            "pagenum": 424,
+            "content": "¦ <ls n='MārkP.'>xxxix.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जेय",
+            "eid": "80182",
+            "pagenum": 424,
+            "content": "जेय <hom>b</hom> ¦ See अबोवे."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जेय",
+            "eid": "19651",
+            "pagenum": 347,
+            "content": "<i>Jeya, as, ā, am, = jetavya</i>¦ above."
+        },
+        {
+            "word": "जेय",
+            "eid": "19857",
+            "pagenum": 351,
+            "content": "जेय¦ <i>jeya.</i> See p. 347, col. 1."
+        }
+    ],
+    "PW": [
+        {
+            "word": "जेय",
+            "eid": "43226",
+            "pagenum": 2,
+            "content": "जेय¦ <lex>Adj.</lex> <i>zu besiegen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जेय",
+            "eid": "27768",
+            "pagenum": 3,
+            "content": "जे/य¦ (von जि) <lex>adj.</lex> <i>zu besiegen</i> <ls>P. 3, 1, 97</ls>, <ls>Sch. 6, 1, 213,</ls> <ls>Sch.</ls>  <ls>AK. 2, 8, 2, 42.</ls> <ls>H. 793.</ls> क्षितिप <ls>MBH. 15, 220.</ls> तस्मात्कामादयः पूर्वं जेयाः पुत्र महीभुजा <ls>MĀRK. P. 27, 12.</ls> प्रागेवात्मात्मना जेयः <ls n='MĀRK. P.'>39, 9.</ls> मनः <ls>P. 6, 1, 81</ls>, <ls>Sch.</ls> अजेय (s. auch bes.) <i>unbesiegbar</i>: देवैरजेयाः <ls>MBH. 1, 162.</ls>"
+        }
     ]
 }

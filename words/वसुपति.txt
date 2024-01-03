@@ -23,5 +23,43 @@
             "pagenum": 1237,
             "content": "<b>vásu-pati,</b>¦ <ab>m.</ab>, <i>Herr der Güter,</i> insbesondere 2〉 mit dem <ab>Gen.</ab> vásūnam oder ({9,9}) vásos. <div n='TS'>-e indra {170,5}; {938,10}; agne {192,11}; {197,4}. — 2〉 {264,19}; {873,1}. <div n='TS'>-is savitā́ {561,3}; (agnís) {664,24}. — 2〉 {313,6}; {493,5}. <div n='TS'>-im índram {670,10}; {1021,6}. — 2〉 {9,9}; {270,9}; {358,1}."
         }
+    ],
+    "MD": [
+        {
+            "word": "वसुपति",
+            "eid": "16133",
+            "pagenum": 273,
+            "content": "वसुपति¦ vásu-pati, <lex>m.</lex> lord of wealth, <ab>ep.</ab> <i>of</i> 🞄Agni, Indra, <i>or</i> Savitṛ (<ab>RV.</ab>), <i>or of</i> Kubera; 🞄lord of the Vasus (Kṛṣṇa); <b>-pālita,</b> <lex>m.</lex> <ab>N.</ab>; 🞄<b>-bandhu,</b> <lex>m.</lex> <ab>N.</ab> <i>of a celebrated Buddhistic 🞄scholar</i>; <b>-bhūti,</b> <lex>m.</lex> <ab>N.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वसुपति",
+            "eid": "188869",
+            "pagenum": 931,
+            "content": "व/सु—पति ¦ (व/सु-), <lex>m.</lex> lord of wealth or of good things (also with व/सूनाम्; <ab>N.</ab> of <s1 slp1='agni'>Agni</s1>, <s1 slp1='indra'>Indra</s1>, <s1 slp1='savitf'>Savitṛ</s1> and <s1 slp1='kubera'>Kubera</s1>), <ls>RV.</ls>; <ls>Pañcar.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वसुपति",
+            "eid": "188869.1",
+            "pagenum": 931,
+            "content": "¦ ‘lord of the <s1 slp1='vasu'>Vasu</s1>s’, <ab>N.</ab> of <s1 slp1='kfzRa'>Kṛṣṇa</s1>, <ls>Pañcar.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वसुपति",
+            "eid": "99489",
+            "pagenum": 6,
+            "content": "व/सुपति¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Herr der Güter</i> (auch mit dem Beisatz व/सूनाम्), <ab>Beiw.</ab> <is>Agni</is>ʼs, <is>Indra</is>ʼs, <is>Savitar</is>ʼs und <is>Kubera</is>ʼs. <div n='1'>— 2〉 <i>Herr der Götterschaar</i> <is>Vasu</is> (<is>Kṛṣṇa</is>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वसुपति",
+            "eid": "89062",
+            "pagenum": 6,
+            "content": "व/सुपति¦ <lex>m.</lex> <i>Herr der Güter</i>, häufig mit dem Beisatz वसू^नास्ः <is>Agni</is> <ls>ṚV. 2, 1, 11.</ls> <ls n='ṚV. 2,'>6, 4.</ls> <ls n='ṚV.'>5, 4, 1.</ls> वसु\\र्वसु^पति\\र्हि क\\मस्य^ग्ने <ls n='ṚV.'>8, 24, 24.</ls> <is>Indra</is> <ls n='ṚV.'>1, 9, 9.</ls> <ls n='ṚV. 1,'>170, 5.</ls> <ls n='ṚV.'>3, 30, 19.</ls> <ls n='ṚV. 3,'>36, 9.</ls> <ls n='ṚV.'>4, 17, 6.</ls> <is>Savitar</is> <ls n='ṚV.'>7, 45, 3.</ls> <is>Kubera</is> <ls>PAÑCAR. 3, 7, 7.</ls> <i>Herr der</i> <is>Vasu</is>, so wird <is>Kṛṣṇa</is> genannt <ls n='PAÑCAR.'>4, 8, 33.</ls>"
+        }
     ]
 }

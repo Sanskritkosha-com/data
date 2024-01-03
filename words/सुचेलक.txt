@@ -31,5 +31,29 @@
             "pagenum": 500,
             "content": "*सुचेलक¦ <i>m.</i> ein schönes Gewand."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुचेलक",
+            "eid": "246276",
+            "pagenum": 1223,
+            "content": "सु—चेलक ¦ <lex>m.</lex> a fine garment, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुचेलक",
+            "eid": "126111",
+            "pagenum": 7,
+            "content": "*सुचेलक¦ <lex>m.</lex> <i>ein schönes Gewand</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुचेलक",
+            "eid": "110092",
+            "pagenum": 7,
+            "content": "सुचेलक¦ <lex>m.</lex> <i>ein schönes Gewand</i> <ls>AK. 2, 6, 3, 17.</ls>"
+        }
     ]
 }

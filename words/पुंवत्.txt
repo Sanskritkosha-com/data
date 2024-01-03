@@ -39,5 +39,35 @@
             "pagenum": 440,
             "content": "puMvat¦ <i>ind.</i> like a man, <ls>R.</ls>vi.20."
         }
+    ],
+    "MW": [
+        {
+            "word": "पुंवत्",
+            "eid": "125050",
+            "pagenum": 630,
+            "content": "पुं—वत् ¦ <lex>ind.</lex> like a man, like or in or with a man &c., <ls>MBh.</ls>; <ls>Kāv.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "पुंवत्",
+            "eid": "125050.1",
+            "pagenum": 630,
+            "content": "¦ like or in or with the masculine gender, <ls>ŚrS.</ls>; <ls>Pāṇ.</ls>; <ls>Vop.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पुंवत्",
+            "eid": "67470",
+            "pagenum": 4,
+            "content": "पुंवत्¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>wie ein Mann, wie beim Manne</i>. <div n='1'>— 2〉 <i>wie das Masculinum</i> (<ab>gramm.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पुंवत्",
+            "eid": "45615",
+            "pagenum": 4,
+            "content": "पुंवत्¦ (von पुमंस्) adv. <i>wie ein Mann, wie beim Manne</i> <ls>RAGH. 6, 20.</ls> <ls>MBH. 5, 7407.</ls> <i>wie das Masculinum</i> <ls>ĀŚV. ŚR. 3, 2.</ls> <ls>KĀTY. ŚR. 25, 10, 11.</ls> <ls>ŚĀṄKH. GṚHY. 1, 22.</ls> <ls>P. 1, 2, 66.</ls> <ls n='P.'>6, 3, 34.</ls> <ls n='P.'>7, 1, 74.</ls> <ls>VOP. 3, 94. 6, 4. 11. 34. 7, 49.</ls>"
+        }
     ]
 }

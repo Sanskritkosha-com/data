@@ -7,5 +7,27 @@
             "pagenum": 483,
             "content": "वाचकपद¦ <lex>a.</lex> containing words that have a sense or express something."
         }
+    ],
+    "MW": [
+        {
+            "word": "वाचकपद",
+            "eid": "190160",
+            "pagenum": 937,
+            "content": "वाचक—पद ¦ <lex>mfn.</lex> containing expressive (not senseless) words, <ls>Yājñ., Sch.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वाचकपद",
+            "eid": "190161",
+            "pagenum": 937,
+            "content": "वाचक—पद ¦ <lex>n.</lex> an <ab n='expressive'>expr°</ab> or significant word, explicit term, <ls>W.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वाचकपद",
+            "eid": "99994",
+            "pagenum": 6,
+            "content": "वाचकपद¦ <lex>Adj.</lex> <i>Etwas ausdrückende (nicht sinnlose) Worte enthaltend</i> <ls n='Chr.'>214,21</ls>."
+        }
     ]
 }

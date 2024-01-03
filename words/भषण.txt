@@ -53,5 +53,55 @@
             "pagenum": 522,
             "content": "BazaRa¦ <i>(II) n.</i> The barking of a dog."
         }
+    ],
+    "MW": [
+        {
+            "word": "भषण",
+            "eid": "149283",
+            "pagenum": 750,
+            "content": "भषण ¦ <lex>m.</lex> <ab>id.</ab>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "भषण",
+            "eid": "149284",
+            "pagenum": 750,
+            "content": "¦ <ab>N.</ab> of a dog, <ls>Vcar.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भषण",
+            "eid": "149285",
+            "pagenum": 750,
+            "content": "भषण ¦ <lex>n.</lex> barking, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "भषण",
+            "eid": "149286",
+            "pagenum": 750,
+            "content": "¦ <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भषण",
+            "eid": "35259",
+            "pagenum": 703,
+            "content": "<i>Bhaṣaṇa, as,</i>¦ m. a barker, a dog; (<i>am</i>), n. the act of barking, the barking of a dog."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भषण",
+            "eid": "79163",
+            "pagenum": 4,
+            "content": "भषण¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 *<i>Hund</i>. <div n='2'>— b〉 <ab>N. pr.</ab> eines <i>Hundes</i> <ls>Ind. St. 14,111</ls>. <div n='1'>— 2〉 *<lex>n.</lex> <i>das Bellen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भषण",
+            "eid": "54349",
+            "pagenum": 5,
+            "content": "भषण¦ (wie eben) <div n='1'> 1) <lex>m.</lex> <i>Hund</i> <ls>H. 1279.</ls> <ls>HALĀY. 2, 126.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Gebell</i> <ls>H. 1407.</ls>"
+        }
     ]
 }

@@ -36,5 +36,37 @@
             "pagenum": 110,
             "content": "Avuka¦ <i>m.</i> A father (in theatrical language)."
         }
+    ],
+    "MW": [
+        {
+            "word": "आवुक",
+            "eid": "27171",
+            "pagenum": 156,
+            "content": "आवुक ¦ <lex>m.</lex> (in <ab>dram.</ab>) father, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आवुक",
+            "eid": "9412",
+            "pagenum": 132,
+            "content": "आवुक¦ <i>āvuka, as,</i> m. a father (in theatrical language)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आवुक",
+            "eid": "16016",
+            "pagenum": 1,
+            "content": "*आवुक¦ <lex>m.</lex> <i>Vater</i> (im Drama)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आवुक",
+            "eid": "9505",
+            "pagenum": 1,
+            "content": "आवुक¦ <lex>m.</lex> <i>Vater</i> (im Drama) <ls>AK. 1, 1, 7, 12.</ls> <ls>H. 332.</ls>"
+        }
     ]
 }

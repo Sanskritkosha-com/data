@@ -27,5 +27,25 @@
             "pagenum": 750,
             "content": "<b>VOID</b>¦ (v.): <div n='I'>I To empty: q. v.: शून्यीकरोति।</div> <div n='I'>II To nullify: निष्फलीकरोति। </div><div n='I'>III To emit, discharge: q. v.: उत्सृजति (सृज्, c. 6.). Ph.: <i>to v. excrements:</i> </div><div n='1'>(1) गुवति (गु, c. 6.); </div><div n='1'>(2) हदति (हद्, c. 1.).</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "void",
+            "eid": "31001",
+            "pagenum": 832,
+            "content": "VOID¦, <i>a.</i> (Empty) शून्यः -न्या -न्यं, रिक्तः -क्ता -क्तं, शून्याकारः -रा -रं, <i>see</i> EMPTY. — (Null) निरर्थकः -का -कं, <i>see</i> NULL. — (Devoid) हीनः -ना -नं, शून्यः &c., <i>see</i> DEVOID, DESTITUTE."
+        },
+        {
+            "word": "void",
+            "eid": "31002",
+            "pagenum": 832,
+            "content": "VOID¦, <i>s.</i> शून्यं, रिक्तं, शून्यता. <i>See</i> VACUUM."
+        },
+        {
+            "word": "void",
+            "eid": "31003",
+            "pagenum": 832,
+            "content": "<i>To</i> VOID¦, <i>v. a.</i> उच्चर्, उत्सृज्, उत्सर्गं कृ, हद् (c. 1. हदति -दितुं), गु (c. 6. गुवति -वितुं). <i>See To</i> EVACUATE, EXCREMENT, &c."
+        }
     ]
 }

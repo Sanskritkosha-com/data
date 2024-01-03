@@ -7,5 +7,35 @@
             "pagenum": 234,
             "content": "दूरोहण/¦ <lex>a.</lex> difficult to be ascended, <lex>n.</lex> <ab>N.</ab> of a <ab>cert.</ab> rite."
         }
+    ],
+    "MW": [
+        {
+            "word": "दूरोहण",
+            "eid": "94711",
+            "pagenum": 488,
+            "content": "दू—रोहण ¦ <lex>mfn.</lex> <ab>id.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "दूरोहण",
+            "eid": "94712",
+            "pagenum": 488,
+            "content": "दू—रोहण ¦ <lex>n.</lex> <ab>N.</ab> of a difficult recitation of a verse in 7 ways (1 <s1 slp1='pAda'>Pāda</s1>, 2 <s1 slp1='pAda'>Pāda</s1>s, 3 <s1 slp1='pAda'>Pāda</s1>s, the whole verse, 3 <s1 slp1='pAda'>Pāda</s1>s, 2 <s1 slp1='pAda'>Pāda</s1>s, 1 <s1 slp1='pAda'>Pāda</s1>), <ls>MaitrS.</ls>; <ls>VS.</ls> &c.<info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दूरोहण",
+            "eid": "51867",
+            "pagenum": 3,
+            "content": "दूरोहण/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>dass.</ab> <div n='1'>— 2〉 <lex>n.</lex> <i>die siebenfache Recitation eines Verses und zwar so, dass derselbe aufsteigend je nach</i> <is>Pāda</is>, <i>Halbversen, Drei</i>-<is>Pāda</is> <i>und ununterbrochen, eben so von hier an wieder absteigend, vorgetragen wird</i> <ls>MAITR. S. 2,8,7</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दूरोहण",
+            "eid": "34162",
+            "pagenum": 3,
+            "content": "दूरोहण/¦ (2. दुष् + रो°) <lex>adj.</lex> <i>schwer zu erklimmen</i>; <lex>n.</lex> Bez. <i>eines Rituals: die siebenfache Recitation eines Verses und zwar so, dass derselbe aufsteigend je nach</i> <is>Pāda</is>, <i>Halbversen, Drei-</i><is>Pāda</is> <i>und ununterbrochen, eben so von hier an wieder absteigend vorgetragen wird.</i> Wer das thut, von dem sagt man: दूरोहणंरोहति . <ls>VS. 15, 5.</ls> <ls>AIT. BR. 4, 20.</ls> <ls n='AIT. BR.'>6, 25.</ls> <ls>ĀŚV. ŚR. 8, 2. 9, 9.</ls> <ls>ŚĀṄKH. ŚR. 11, 14, 13. 14.</ls>"
+        }
     ]
 }

@@ -59,5 +59,29 @@
             "pagenum": 103,
             "content": "गणपाठ¦ <i>m.</i> Wortgruppenverzeichnis <i>(g.).</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "गणपाठ",
+            "eid": "62585",
+            "pagenum": 343,
+            "content": "गण—पाठ ¦ <lex>m.</lex> a collection of the <s1 slp1='gaRa'>Gaṇa</s1>s or series of words following the same grammatical rule (ascribed to <s1 slp1='pARini'>Pāṇini</s1>). <info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गणपाठ",
+            "eid": "34227",
+            "pagenum": 2,
+            "content": "गणपाठ¦ <lex>m.</lex> <i>ein Verzeichniss von</i> <is>Gaṇa</is> 1〉l〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गणपाठ",
+            "eid": "21488",
+            "pagenum": 2,
+            "content": "गणपाठ¦ (गण 8. + पाठ) <lex>m.</lex> <i>eine Sammlung von Reihen von Wörtern, welche unter eine grammatische Regel fallen</i>, <ls>COLEBR. Misc. Ess. II, 8. 43.</ls> <ls>P. 1, 1, 34</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

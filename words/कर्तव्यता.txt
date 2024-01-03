@@ -31,5 +31,47 @@
             "pagenum": 140,
             "content": "<b>kartavyatā,</b>¦ <i><ab>f.</ab></i> the to-be-done-ness; <b>-tām</b> <b>brūhi,</b> tell me what I must do. [<ls n='wg,1237'>1237.</ls>]"
         }
+    ],
+    "MW": [
+        {
+            "word": "कर्तव्यता",
+            "eid": "45107",
+            "pagenum": 257,
+            "content": "कर्तव्य—ता ¦ <lex>f.</lex> the state of being necessary to be done or accomplished, <ls>Sāh.</ls><info lex='f'/>"
+        },
+        {
+            "word": "कर्तव्यता",
+            "eid": "45107.1",
+            "pagenum": 257,
+            "content": "¦ necessity, obligation, task, <ls>Yājñ.</ls>; <ls>Hit.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "कर्तव्यता",
+            "eid": "45107.2",
+            "pagenum": 257,
+            "content": "¦ the possibility or suitableness of being done, <ls>Tattvas.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कर्तव्यता",
+            "eid": "25095",
+            "pagenum": 2,
+            "content": "कर्तव्यता¦ <lex>f.</lex> <div n='1'>— 1〉 <i>das Gethanwerdenmüssen</i>. °तांब्रूहि <i>sage, was ich zu thun habe</i> <ls n='Chr.'>151,22</ls>. <i>Obliegenheit</i>. <div n='1'>— 2〉 <i>das Gethanwerdenkönnen, Erwägung der Möglichkeit einer Handlung</i> <ls>TATTVAS. 18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कर्तव्यता",
+            "eid": "15434",
+            "pagenum": 2,
+            "content": "कर्तव्यता¦ (von कर्तव्य) <lex>f.</lex> <i>Geschäft, Obliegenheit</i>: शास्त्राणि चिन्तयेत् - सर्वकर्तव्यतास्तथा <ls>YĀJÑ. 1, 330.</ls>"
+        },
+        {
+            "word": "कर्तव्यता",
+            "eid": "69885",
+            "pagenum": 5,
+            "content": "कर्तव्यता¦ <i>das Gethanwerdenmüssen</i> <ls>SĀH. D. 128, 19.</ls> im <is>Sāṃkhya</is> <i>Passlichkeit</i>, eine der fünf अभिबुद्धि, <ls>TATTVAS. 30.</ls>"
+        }
     ]
 }

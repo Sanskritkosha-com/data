@@ -7,5 +7,33 @@
             "pagenum": 673,
             "content": "परिचि¦ {vI.v} {c5c} <ab>U.</ab> <b>1</b> To heap up, accumulate. <b>--2</b> To know;  <lbinfo n='ls:Mv. 7.+ 11.'/> <ls>Mv. 7. 11.</ls> <b>--3</b> To get, acquire. <b>--4</b> To <lbinfo n='in+crease'/> increase. <b>--5</b> To cover or fill with. {vII.v} {c3c} <ab>P.</ab> <b>1</b> To practise, familiarize oneself with. <b>--2</b> To become <lbinfo n='ac+quainted'/> acquainted with. <b>--3</b> <ab>Ved.</ab> To <lbinfo n='exa+mine'/> examine, investigate. <i>--<ab>Caus.</ab></i> To search, seek for. <i>--<ab>Pass.</ab></i> To grow, be developed; <ls>R. 3. 24.</ls>"
         }
+    ],
+    "MW": [
+        {
+            "word": "परिचि",
+            "eid": "117392",
+            "pagenum": 593,
+            "content": "<hom>a</hom> परि-√ <hom>1.</hom> चि ¦ <ab>P.</ab> <ab>Ā.</ab> -चिनोति, °नुते, to pile up, <ls>ŚBr.</ls>; <div n='to'/>to surround or enclose with (<ab>instr.</ab>), <ls>Śulb.</ls>; <div n='to'/>to heap up, accumulate, augment, increase, <ls>RV.</ls> &c. &c.: <div n='vp'/><ab>Pass.</ab> -चीयते, to be increased or augmented, to grow, <ls>Ragh. 1.</ls><info verb='pre' cp='PĀ' parse='pari+ci'/>"
+        },
+        {
+            "word": "परिचि",
+            "eid": "117403",
+            "pagenum": 593,
+            "content": "<hom>b</hom> परि-√ <hom>2.</hom> चि ¦ (2. <ab>sg.</ab> <ab>Impv.</ab> -चिनु; <ab>p.</ab> -चिन्वत्; <ab>inf.</ab> -चेतुम्), <div n='to'/>to examine, investigate, search, <ls>MBh.</ls>; <ls>R.</ls>; <div n='to'/>to find out, know, learn, exercise, practise, become acquainted with (<ab>acc.</ab>), <ls>Kāv.</ls>; <ls>Rājat.</ls>; <ls>Pañc.</ls> : <div n='vp'/><ab>Pass.</ab> -चीयते, <ls>Kāv.</ls>; <ls>Hit.</ls> : <div n='vp'/><ab>Caus.</ab> <ab>Ā.</ab> -चाययते, to search, seek for, <ls>Kāv. 2.</ls><info verb='pre' cp='Ā' parse='pari+ci'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "परिचि",
+            "eid": "27319",
+            "pagenum": 540,
+            "content": "परिचि 1¦. <i>pari-ci,</i> cl. 5. P. A. <i>-cinoti, -nute,</i> <i>-cetum,</i> to pile up, heap up, accumulate; to collect; to augment, increase; to gather in, acquire, obtain; to fill with: Pass. <i>-cīyate,</i> to be increased or augmented, to grow."
+        },
+        {
+            "word": "परिचि",
+            "eid": "27327",
+            "pagenum": 541,
+            "content": "परिचि 2¦. <i>pari-ci,</i> cl. 3. P. <i>-ciketi, -cetum,</i> Ved. to examine, investigate, search; to familiarize one's self with, accustom one's self to, exercise one's self in, practise; to become acquainted with: Caus. A. <i>-cāyayate, -yitum,</i> to search, seek for."
+        }
     ]
 }

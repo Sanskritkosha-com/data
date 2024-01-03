@@ -7,5 +7,35 @@
             "pagenum": 350,
             "content": "dvi-ja˚Alaya¦ <i>m.</i> 1. the house of a <i>dvija</i>; 2. a nest."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विजालय",
+            "eid": "98857",
+            "pagenum": 506,
+            "content": "dvijA<srs/>laya ¦ <lex>m.</lex> ‘the residence of birds’, the hollow trunk of a tree, l.<info lex='m'/>"
+        },
+        {
+            "word": "द्विजालय",
+            "eid": "98858",
+            "pagenum": 506,
+            "content": "¦ the <ab n='residence'>r°</ab> of <ns>Brāhmans</ns>, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विजालय",
+            "eid": "53883",
+            "pagenum": 3,
+            "content": "*द्विजालय¦ <lex>m.</lex> <i>Baumhöhle</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विजालय",
+            "eid": "35682",
+            "pagenum": 3,
+            "content": "द्विजालय¦ (द्विज + आ°) <lex>m.</lex> <i>der Aufenthaltsort der Vögel, Baumhöhle</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

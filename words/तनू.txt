@@ -58,5 +58,55 @@
             "pagenum": 302,
             "content": "tanU¦ <i>f.</i> The body."
         }
+    ],
+    "MD": [
+        {
+            "word": "तनू",
+            "eid": "8366",
+            "pagenum": 106,
+            "content": "तनू¦ tan-ū́, <lex>f.</lex>, <ab>v.</ab> tan-ú."
+        }
+    ],
+    "MW": [
+        {
+            "word": "तनू",
+            "eid": "82362",
+            "pagenum": 435,
+            "content": "<hom>1.</hom> तनू ¦ in <ab>comp.</ab> for °नु/."
+        },
+        {
+            "word": "तनू",
+            "eid": "82369",
+            "pagenum": 435,
+            "content": "<hom>2.</hom> तनू/ ¦ <lex>f.</lex> (of °नु/, <ab>q.v.</ab>; <ab>acc.</ab> °न्व/म्, <ls>RV.</ls> &c., <ls>BhP. iii</ls>; °नुवम् [<ls>Pāṇ. vi, 4, 77</ls>, <ab>Vārtt.</ab>] <ls>BhP. vii, 9, 37</ls>; <ab>instr.</ab> °नुवा, <ls n='BhP.'>iii f.</ls>; <ab>gen.</ab> <ab>abl.</ab> °न्व/स्, <ls>RV.</ls> &c.; <ab>loc.</ab> °न्वि/ & °न्वी/, <ls>RV.</ls>; °न्वा/म्, <ls>AV.</ls> &c.; <ab>du.</ab> °नू/ [<ls>RV. x, 183, 2</ls>; <ls>AV. iv, 25, 5</ls>], °न्वा/ [<ls>RV.</ls>], °नु/वौ [<ls>TBr. i, 1, 7, 3</ls>], °न्वौ [see घर्म-]; <ab>pl.</ab> <ab>nom.</ab> & <ab>acc.</ab> °न्व/स्, <ls>RV.</ls> &c., <ls>BhP. i</ls>; <ab>nom.</ab> °नु/वस्, <ls>TBr. i, 1, 7, 3</ls>) the body, person, self (often used like a reflexive <ab>pron.</ab>; <ab>cf.</ab> आत्म/न्), <ls>RV.</ls> &c.<info lex='f'/>"
+        },
+        {
+            "word": "तनू",
+            "eid": "82370",
+            "pagenum": 435,
+            "content": "¦ form or manifestation, <ls>RV.</ls> &c. (तनू/ मन्योस्, ‘a sign of wrath’, <ls>PārGṛ. iii, 13, 5</ls>). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तनू",
+            "eid": "20367",
+            "pagenum": 362,
+            "content": "<i>Tanū, ūs,</i>¦ f. the body. See <i>tanu,</i> p. 361, col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तनू",
+            "eid": "44430",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> तनू¦ <lex>f.</lex> <ab>s. u.</ab> तनु."
+        },
+        {
+            "word": "तनू",
+            "eid": "44431",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> तनू¦ <lex>Adv.</lex> <div n='1'>— 1〉 mit कर् <div n='2'>— a〉 <i>dünn machen, behauen; schmal machen</i> <ls>NAIṢ. 7,82</ls>. <div n='2'>— b〉 <i>verringern, abschwächen, ablegen</i> (die Scham). <div n='1'>— 2〉 mit भू <i>geringer werden, abnehmen</i>."
+        }
     ]
 }

@@ -15,5 +15,55 @@
             "pagenum": 564,
             "content": "वन्दा¦ <i>vandā</i> <ab>f.</ab> mendiante, <ab>cf.</ab> <i>vanīka.</i> || Epidendron, <ab>bot.</ab>  <P><i>vandākā</i> <ab>f.</ab> epidendron, <ab>bot.</ab>  <P><i>vandāra</i> <ab>m.</ab> <ab>mms.</ab>"
         }
+    ],
+    "MW": [
+        {
+            "word": "वन्दा",
+            "eid": "186181",
+            "pagenum": 919,
+            "content": "वन्दा <hom>a</hom> ¦ <lex>f.</lex> See below.<info lex='f'/>"
+        },
+        {
+            "word": "वन्दा",
+            "eid": "186210",
+            "pagenum": 919,
+            "content": "वन्दा <hom>b</hom> ¦ <lex>f.</lex> (only <ls>L.</ls>) a parasitical plant (<ab>esp.</ab> <bot>Epidendrum Tesselatum</bot>)<info lex='f'/>"
+        },
+        {
+            "word": "वन्दा",
+            "eid": "186211",
+            "pagenum": 919,
+            "content": "¦ a female mendicant<info lex='inh'/>"
+        },
+        {
+            "word": "वन्दा",
+            "eid": "186212",
+            "pagenum": 919,
+            "content": "¦ = बन्दी, a prisoner.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वन्दा",
+            "eid": "41170",
+            "pagenum": 885,
+            "content": "<i>Vandā,</i>¦ f. a parasitical plant, the parasitical plant Epidendrum Tesselatum, &c.; a female beggar or mendicant; <i>= vandi, vandī.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वन्दा",
+            "eid": "98177",
+            "pagenum": 6,
+            "content": "*वन्दा¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Schmarotzerpflanze</i>. <div n='1'>— 2〉 <i>Bettlerin</i>. <div n='1'>— 3〉 = बन्दी <i>ein Gefangener</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वन्दा",
+            "eid": "87976",
+            "pagenum": 6,
+            "content": "वन्दा¦ <lex>f.</lex> <div n='1'> 1) <i>Schmarotzerpflanze</i> <ls>AK. 2, 4, 2, 62.</ls> <ls n='AK.'>3, 4, 18, 115.</ls> <ls>TRIK. 2, 4, 3.</ls> <ls>MED. d. 10.</ls> <div n='1'>— 2) <i>Bettlerin</i> <ls>MED.</ls> <div n='1'>— 3) = वन्दि oder वन्दी (ब°) <ls>MED.</ls>"
+        }
     ]
 }

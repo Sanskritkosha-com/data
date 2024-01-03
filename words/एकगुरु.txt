@@ -15,5 +15,29 @@
             "pagenum": 152,
             "content": "eka-guru¦ <i>a.</i> having the same preceptor."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकगुरु",
+            "eid": "39205",
+            "pagenum": 227,
+            "content": "एक—गुरु or एक—°गुरुक, ¦ <lex>m.</lex> having the same teacher, pupil of the same preceptor.<info or='39205,ekaguru;39206,ekaguruka'/><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकगुरु",
+            "eid": "21715",
+            "pagenum": 1,
+            "content": "*एकगुरु¦ <lex>m.</lex> <i>Studiengenosse</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकगुरु",
+            "eid": "13206",
+            "pagenum": 1,
+            "content": "एकगुरु¦ (एक + गुरु) <lex>m.</lex> <i>Studiengenosse (denselben Lehrer habend</i>) <ls>AK. 2, 7, 11.</ls> <ls>H. 79.</ls>"
+        }
     ]
 }

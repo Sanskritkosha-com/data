@@ -37,5 +37,67 @@
             "pagenum": 56,
             "content": "amAtra¦ <i>(II) m.</i> The supreme spirit."
         }
+    ],
+    "MW": [
+        {
+            "word": "अमात्र",
+            "eid": "14033",
+            "pagenum": 81,
+            "content": "अ-मात्र/ <hom>a</hom> ¦ <lex>mfn.</lex> without measure, boundless (as <s1 slp1='indra'>Indra</s1>), <ls>RV. i, 102, 7</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अमात्र",
+            "eid": "14034",
+            "pagenum": 81,
+            "content": "¦ (as <s1 slp1='brahman'>Brahman</s1>), <ls>BṛĀrUp.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अमात्र",
+            "eid": "14035",
+            "pagenum": 81,
+            "content": "¦ not metrical or prosodical, <ls>MāṇḍUp.</ls> having the measure or quantity of the letter अ, <ls>VPrāt.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अमात्र",
+            "eid": "14052",
+            "pagenum": 81,
+            "content": "अ-मात्र/ <hom>b</hom> ¦ See <hom>2.</hom> अ-मा."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अमात्र",
+            "eid": "5451",
+            "pagenum": 75,
+            "content": "अमात्र¦ <i>a-mātra, am,</i> n. non-measure, not a measure or quantity (said of the universal spirit); (<i>as, ā, am</i>), boundless; not whole or entire; not elementary; having the measure or quantity of the letter <i>a</i>. <i>—Amātravat-tva, am,</i> n. deficiency, defect; spirit, spiritual essence."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अमात्र",
+            "eid": "8225",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अमात्र/¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>maasslos, unermesslich</i>. <div n='1'>— 2〉 <i>kein prosodisches Maass enthaltend</i>."
+        },
+        {
+            "word": "अमात्र",
+            "eid": "8226",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अमात्र¦ <lex>Adj.</lex> <i>das Maass von</i> अ <i>habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अमात्र",
+            "eid": "5121",
+            "pagenum": 1,
+            "content": "अमात्र¦ (3. अ + मात्र) <lex>adj.</lex> <i>maasslos</i> <ls>BṚH. ĀR. UP. 3, 8, 8.</ls> Davon °त्र/म् adv.: अ\\मा\\त्रं त्वा^ धि\\षणा^ तित्विषे म\\ही <ls>ṚV. 1, 102, 7.</ls>"
+        },
+        {
+            "word": "अमात्र",
+            "eid": "64758",
+            "pagenum": 5,
+            "content": "अमात्र¦ <i>maasslos</i> so v. a. <i>kein prosodisches Zeitmaass enthaltend</i> <ls>MĀṆḌ. UP. 12.</ls> <i>das Maass von</i> अ <i>habend</i> <ls>VS. PRĀT. 1, 55.</ls> Lies 3. अ + मात्रा ."
+        }
     ]
 }

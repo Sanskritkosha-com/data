@@ -13,5 +13,35 @@
             "pagenum": 253,
             "content": "gOrI-ja¦ <i>(II) n.</i> talc."
         }
+    ],
+    "MW": [
+        {
+            "word": "गौरीज",
+            "eid": "68338",
+            "pagenum": 370,
+            "content": "गौरी—ज ¦ <lex>m.</lex> <ab>metron.</ab> of <s1 slp1='kArttikeya'>Kārttikeya</s1>, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गौरीज",
+            "eid": "68339",
+            "pagenum": 370,
+            "content": "गौरी—ज ¦ <lex>n.</lex> = °रिजेय, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गौरीज",
+            "eid": "37206",
+            "pagenum": 2,
+            "content": "*गौरीज¦ <div n='1'>— 1〉 <lex>m.</lex> <ab>Metron.</ab> <is>Kārttikeya</is>ʼs. <div n='1'>— 2〉 <lex>n.</lex> <i>Talk</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गौरीज",
+            "eid": "23578",
+            "pagenum": 2,
+            "content": "गौरीज¦ (गौरी + ज) <div n='1'> 1) <lex>m.</lex> Bein. <is>Kārttikeya's</is> <ls>WILS.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Talk</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

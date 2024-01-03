@@ -108,5 +108,135 @@
             "pagenum": 767,
             "content": "sava¦ <i>(II) n.</i> 1. Water; 2. the juice of flowers; 3. sprinkling the <i>Soma</i>."
         }
+    ],
+    "MD": [
+        {
+            "word": "सव",
+            "eid": "19042",
+            "pagenum": 342,
+            "content": "सव¦ sav-á, <lex>m.</lex> 〈1.〉 [√ <hom>1.</hom> su] extraction <i>of Soma</i> 🞄(<ab>V.</ab>); 〈2.〉 (√ <hom>2.</hom> su) <ab>V.</ab>: stimulator, commander; 🞄instigation, command, order; vivification (<i>the 🞄activity of Savitṛ</i>); <ab>Br.</ab>: <i>sacrificial</i> rite of 🞄consecration, initiation, inauguration; <ab>C.</ab>: 🞄sacrifice."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सव",
+            "eid": "239424",
+            "pagenum": 1190,
+            "content": "<hom>1.</hom> सव/ ¦ <lex>m.</lex> (<ab>fr.</ab> √ <hom>3.</hom> सु) pressing out the juice of the <s1 slp1='soma'>Soma</s1> plant, <ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>ŚāṅkhŚr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239425",
+            "pagenum": 1190,
+            "content": "¦ pouring it out, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239426",
+            "pagenum": 1190,
+            "content": "¦ the moon, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239427",
+            "pagenum": 1190,
+            "content": "सव/ ¦ <lex>n.</lex> the juice or honey of flowers, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239461",
+            "pagenum": 1190,
+            "content": "<hom>2.</hom> सव/ ¦ <lex>m.</lex> (<ab>fr.</ab> √ <hom>1.</hom> सू) one who sets in motion or impels, an instigator, stimulator, commander, <ls>VS.</ls>; <ls>ŚBr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239462",
+            "pagenum": 1190,
+            "content": "सव/ ¦ <lex>m.</lex> the sun (<ab>cf.</ab> सवितृ), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239463",
+            "pagenum": 1190,
+            "content": "¦ setting in motion, vivification, instigation, impulse, command, order (<ab>esp.</ab> applied to the activity of <s1 slp1='savitf'>Savitṛ</s1>; <ab>dat.</ab> सवा/य, ‘for setting in motion’), <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>TBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239464",
+            "pagenum": 1190,
+            "content": "¦ <ab>N.</ab> of <ab>partic.</ab> initiatory rites, inauguration, consecration, <ls>Br.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239465",
+            "pagenum": 1190,
+            "content": "¦ a kind of sacrifice, <ls>Kauś.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239466",
+            "pagenum": 1190,
+            "content": "¦ any sacrifice, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239467",
+            "pagenum": 1190,
+            "content": "¦ a year (?), <ls>BhP.</ls> (See बहु-स्°). <info lex='inh'/>"
+        },
+        {
+            "word": "सव",
+            "eid": "239491",
+            "pagenum": 1190,
+            "content": "<hom>3.</hom> सव ¦ <lex>m.</lex> (<ab>fr.</ab> √ <hom>2.</hom> सू) offspring, progeny, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सव",
+            "eid": "51465",
+            "pagenum": 1097,
+            "content": "सव 1¦. <i>sava, as,</i> m. (fr. rt. 3. <i>su</i>), pressing out or extracting the Soma juice; a libation, oblation, sacrifice; N. of the fifth book of the Śatapatha-Brāhmaṇa; (<i>am</i>), n. sprinkling or pouring out the juice of the Soma plant; making libations; water; the juice or honey of flowers."
+        },
+        {
+            "word": "सव",
+            "eid": "51468",
+            "pagenum": 1097,
+            "content": "सव 2¦. <i>sava, as,</i> m. (fr. rt. 4. <i>su</i>), a generator; the sun; the moon; offspring, progeny."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सव",
+            "eid": "122454",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सव/¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>Kelterung, Pressung des</i> <is>Soma</is>. <div n='2'>— b〉 <i>offspring, progeny</i>. <div n='2'>— c〉 <i>der Mond</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>the juice or honey of flowers</i>. <div n='2'>— b〉 <i>sprinkling the juice of the acid Asclepias</i>."
+        },
+        {
+            "word": "सव",
+            "eid": "122455",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सव/¦ <div n='1'>— 1〉 <ab>Nom. ag.</ab> <i>der Heissende, Anreger, der Befehlende</i>. <div n='1'>— 2〉 <i>die Sonne</i>. <div n='1'>— 3〉 <i>Antrieb, Anregung, Geheiss, Befehl</i>. <div n='1'>— 4〉 <i>Belebung</i> (<i>die von</i> <is>Savitar</is> <i>ausgehende Wirkung</i>). <div n='1'>— 5〉 in den <is>Brāhmaṇa</is> <i>gewisse Opferhandlungen, mit welchen die Weihung</i> (अभिषेक) <i>zu einer <ab>best.</ab> Thätigkeit oder Würde verbunden ist: Einweihung, Einsetzung, Bestellung, Inauguration</i>. <div n='1'>— 6〉 <ab>Bez.</ab> <i>gewisser Darbringungen</i>. <div n='1'>— 7〉 <i>Opfer</i> <ab>überh.</ab> <div n='1'>— 8〉 <i>Jahr</i> in बहु°"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सव",
+            "eid": "107293",
+            "pagenum": 7,
+            "content": "1. सव/¦ (von 1. सु) <lex>m.</lex> <i>Kelterung, Pressung des</i> <is>Soma</is> <ls>NIR. 11, 2.</ls> <ls>ṚV. 1, 126, 1.</ls> श्ये\\नो अ^भर\\त्सोम^ं स\\हस्र^ं स\\वान् <ls n='ṚV.'>4, 26, 7.</ls> <ls n='ṚV.'>10, 158, 2.</ls> <ls>ŚAT. BR. 4, 2, 1, 23.</ls> <ls n='ŚAT. BR.'>9, 3, 4, 5.</ls> <ls n='ŚAT. BR.'>12, 8, 2, 13.</ls> <ls>ŚĀṄKH. ŚR. 7, 15, 9. fgg.</ls> = संधान (vgl. Bed. 4) <div n='2'> h) <ls>MED. v. 29.</ls> st. dessen संतान <ls>ŚKDR.</ls> nach ders. Aut., <i>offspring, progeny</i> <ls>WILSON.</ls> <lex>n.</lex> <i>the juice or honey of flowers; sprinkling the juice of the acid Asclepias</i> <ls>WILSON</ls> nach <ls>ŚABDĀRTHAK.</ls> <i>Wasser</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <lex>m.</lex> <i>der Mond</i> <ls>WILSON</ls> nach <ls>ŚABDĀRTHAK.</ls>"
+        },
+        {
+            "word": "सव",
+            "eid": "107294",
+            "pagenum": 7,
+            "content": "2. सव/¦ (von 2. सु) <div n='1'> 1) <lex>adj.</lex> nom. ag. <i>der Heissende, Anreger</i>: स\\वि\\ता त्वा^ स\\वाना^ं सुवताम् <ls>VS. 9, 39.</ls> सवो वै देवानां वरुणः <i>der Befehlende</i> <ls>ŚAT. BR. 5, 3, 1, 5.</ls> <lex>m.</lex> <i>die Sonne</i> (vgl. सवितर्) <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> <div n='1'>— 2) <lex>m.</lex> <ls>P. 3, 3, 56</ls>, <is>Vārtt</is>. 3. <div n='2'> a) <i>Antrieb, Anregung, Geheiss, Befehl; Belebung (die von</i> <is>Savitar</is> <i>ausgehende Wirkung</i>): प्रसू^ताः सवि\\तुः स\\वाय^ <ls>ṚV. 1, 113, 1.</ls> <ls n='ṚV. 1,'>164, 26.</ls> <ls n='ṚV.'>2, 38, 1.</ls> <ls n='ṚV.'>3, 56, 7.</ls> <ls n='ṚV.'>4, 54, 5.</ls> ये ते\\ त्रिरह^न्सवितः स\\वास\\ः सौभ^गमासु\\वन्ति^ <ls n='ṚV. 4, 54,'>6.</ls> <ls n='ṚV.'>5, 82, 6.</ls> <ls n='ṚV.'>7, 38, 4.</ls> <ls n='ṚV.'>8, 91, 6.</ls> <ls n='ṚV.'>9, 67, 25.</ls> <ls>AV. 6, 23, 3.</ls> <ls n='AV.'>9, 2, 6.</ls> <ls>VS. 11, 2</ls> (<ls>ŚVETĀŚV. UP. 2, 2</ls>). <ls n='VS.'>20, 11.</ls> <ls>TBR. 1, 2, 1, 13.</ls> <ls>ĀŚV. ŚR. 9, 9, 8.</ls> <div n='2'>— b) in den <ls>BRĀHMAṆA</ls> <i>gew. Opferhandlungen, mit welchen die Weihung</i> (अभिषेक) <i>zu einer best. Thätigkeit oder Würde verbunden ist: Einweisung, Einsetzung, Bestallung, Inauguration</i> (सूयत ईश्वरत्वेनाभिषिच्यत एष्विति सवा एकाहविशेषाः Comm.; vgl. राजसूय). <ls>TBR. 2</ls>, <is>Adhy</is>. 7 zählt auf: बृहस्पति°, वैश्य°, ब्राह्मण°, सोम°, पृथि°, गो°, ओदन° Comm. <ls n='TBR.'>2, 750. fgg.</ls> <ls>ŚAT. BR. 5, 3, 5, 31. 9, 3, 4, 6. 4, 1, 13. 3, 12. fg. 10, 1, 5, 3.</ls> अग्नि° <ls n='ŚAT. BR.'>9, 3, 4, 7. 9.</ls> <ls>TS. 5, 6, 2, 1.</ls> वरुण° ebend. इन्द्र°, मनु° <ls n='TS.'>7, 5, 15, 3.</ls> देव° <ls>KĀṬH. 37, 4.</ls> <ls>TBR. 2, 7, 5, 1.</ls> मनुष्य° ebend. <ls>PAÑCAV. BR. 18, 8, 1. 10, 1.</ls> <ls>Ind. St. 3, 385. 388.</ls> पञ्चौदन <ls>P. 3, 3, 56</ls>, <is>Vārtt</is>. 3, Schol. °काण्ड Titel des 5ten Buches im <ls>ŚATAP. BR.</ls> Verschieden hiervon ist der Gebrauch für gewisse <i>Darbringungen</i> im <ls>KAUŚIKA</ls>, z. B. अग्नीनाधास्यमानः सवान्वा दास्यन् <ls n='P. 3, 3,'>60.</ls> सवानां संस्कारः <ls n='P. 3, 3,'>63.</ls> <ls n='P. 3, 3,'>67. fg.</ls> सवाग्नि <ls n='P. 3, 3,'>60.</ls> <div n='2'>— c) <i>Opfer</i> überh. <ls>AK. 2, 7, 13.</ls> <ls>H. 820.</ls> <ls>MED. v. 29.</ls> <ls>HALĀY. 2, 259.</ls> राजसूयाश्वमेधाद्यैः सो ऽयजद्बहुभिः सवैः <ls>MBH. 1, 3715.</ls> यियक्षोर्विविधैः सवैः <ls>MBH. 7, 2172.</ls> बहु° <lex>adj.</lex> <i>viele Opfer darbringend</i> oder <i>viele Jahre Etwas thuend</i> (Comm.) <ls>BHĀG. P. 3, 9, 18.</ls> <i>viele Opfer</i> — oder <i>viele Jahre enthaltend</i> (Comm.): काल <ls n='BHĀG. P.'>4, 12, 14.</ls>"
+        },
+        {
+            "word": "सव",
+            "eid": "107295",
+            "pagenum": 7,
+            "content": "12. सव¦ vgl. अञ्जः°, अप्सव, कुषवा, क्षत्रसव, गो° (auch <ls>BHĀG. P. 3, 2, 32</ls>), ग्रामणी°, तीव्र°, प्रातः°, बृहस्पति°, ब्रह्म°, भूमि°, मनु°, मनुष्य°, वरुण°, वृष°, वैश्य°, सत्य° ."
+        }
     ]
 }

@@ -12,5 +12,47 @@
             "synonyms": [],
             "content": "श्वेतेऽत्र श्वेतमरिचः पुंनागः सुरपर्णिका ॥ ११३४ ॥"
         }
+    ],
+    "MW": [
+        {
+            "word": "श्वेतमरिच",
+            "eid": "224695",
+            "pagenum": 1107,
+            "content": "श्वेत—मरिच ¦ <lex>m.</lex> a kind of <bot>Moringa Pterygosperma</bot>, <ls>Dhanv.</ls><info lex='m'/>"
+        },
+        {
+            "word": "श्वेतमरिच",
+            "eid": "224696",
+            "pagenum": 1107,
+            "content": "श्वेत—मरिच ¦ <lex>n.</lex> the seed of it, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "श्वेतमरिच",
+            "eid": "224697",
+            "pagenum": 1107,
+            "content": "¦ the <ab n='seed'>s°</ab> of the <bot>Hyperanthera</bot> <ab n='Moringa'>Mor°</ab> <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्वेतमरिच",
+            "eid": "224698",
+            "pagenum": 1107,
+            "content": "¦ <ab n='white'>wh°</ab> pepper, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्वेतमरिच",
+            "eid": "115982",
+            "pagenum": 6,
+            "content": "*श्वेतमरिच¦ <lex>m.</lex> <i>eine Art <bot>Moringa pterygosperma</bot></i> <ls>DHANV. 4,23</ls>. <ls>RĀJAN. 7,30</ls>. <lex>n.</lex> <i>der Same</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्वेतमरिच",
+            "eid": "102314",
+            "pagenum": 7,
+            "content": "श्वेतमरिच¦ <div n='1'> 1) <lex>m.</lex> <i>eine Art Moringa pterygosperma Gaertn.</i> <ls>H. 1134.</ls> <div n='1'>— 2) <lex>n.</lex> <i>der Same von Moringa pterygosperma Gaertn.</i> <ls>AK. 2, 9, 110.</ls>"
+        }
     ]
 }

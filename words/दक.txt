@@ -36,5 +36,49 @@
             "pagenum": 308,
             "content": "दक¦ <i>daka</i> <ab>n.</ab> (pour <i>udaka)</i> eau."
         }
+    ],
+    "MW": [
+        {
+            "word": "दक",
+            "eid": "89311",
+            "pagenum": 465,
+            "content": "दक ¦ <lex>n.</lex> = उद्°, water, <ls>Phetk. xvii</ls><info lex='n'/>"
+        },
+        {
+            "word": "दक",
+            "eid": "89312",
+            "pagenum": 465,
+            "content": "¦ <ab>cf.</ab> dagA<srs/>rgala.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दक",
+            "eid": "21771",
+            "pagenum": 396,
+            "content": "दक¦ <i>daka, am,</i> n. <i>= udaka</i> (the initial vowel being dropped), water. <i>—Daka-lāvaṇika, as, ī, am</i> (fr. <i>daka+lavaṇa</i>), prepared with water and salt. <i>—Dakodara (°ka-ud°), am,</i> n. (instead of <i>uda-</i> <i>kodara,</i> cf. <i>udakodarin</i>), a watery or dropsical belly."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दक",
+            "eid": "48390",
+            "pagenum": 3,
+            "content": "दक¦ <lex>n.</lex> = उदक <i>Wasser</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दक",
+            "eid": "31597",
+            "pagenum": 3,
+            "content": "दक¦ <lex>n.</lex> = उदक (und auch daraus entstanden) <i>Wasser</i> <ls>TRIK. 1, 2, 10.</ls> <ls>H. 1069.</ls>"
+        },
+        {
+            "word": "दक",
+            "eid": "75435",
+            "pagenum": 5,
+            "content": "दक¦, नाभिमात्रदके स्थित्वा <ls>PHEṬK. 17</ls> bei <ls>AUFRECHT, HALĀY.</ls> <ls>Ind.</ls>"
+        }
     ]
 }

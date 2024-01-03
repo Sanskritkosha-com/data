@@ -23,5 +23,51 @@
             "pagenum": 209,
             "content": "kEtaka¦ <i>n.</i> A flower of the <i>ketaka</i> plant."
         }
+    ],
+    "MD": [
+        {
+            "word": "कैतक",
+            "eid": "6314",
+            "pagenum": 74,
+            "content": "कैतक¦ kaitaka, <lex>a.</lex> produced from the Ketaka 🞄tree."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कैतक",
+            "eid": "56201",
+            "pagenum": 311,
+            "content": "कैतक ¦ <lex>mfn.</lex> (<ab>fr.</ab> केत्°), coming from the tree <bot>Pandanus odoratissimus</bot>, <ls>Ragh. iv, 55</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "कैतक",
+            "eid": "56202",
+            "pagenum": 311,
+            "content": "कैतक ¦ <lex>n.</lex> the flower of that tree, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कैतक",
+            "eid": "15804",
+            "pagenum": 254,
+            "content": "कैतक¦ <i>kaitaka, as, ī, am</i> (fr. <i>ketaka</i>), coming from the plant Pandanus Odoratissimus; (<i>am</i>), n. the flower of the tree Pandanus Odoratissimus."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कैतक",
+            "eid": "30884",
+            "pagenum": 2,
+            "content": "कैतक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>vom <bot>Pandanus odoratissimus</bot> herrührend</i>. <div n='1'>— 2〉 *<lex>n.</lex> <i>die Blüthe von <bot n='Pandanus odoratissimus'>P. o.</bot></i>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कैतक",
+            "eid": "19188",
+            "pagenum": 2,
+            "content": "कैतक¦ (von केतक) <div n='1'> 1) <lex>adj.</lex> <i>vom Pandanus odoratissimus herrührend</i>: रजः <ls>RAGH. 4, 55.</ls> <div n='1'>— 2) <lex>n.</lex> <i>die Blüthe jenes Baumes</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

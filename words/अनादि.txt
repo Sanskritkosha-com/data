@@ -67,5 +67,71 @@
             "pagenum": 20,
             "content": "anAdi¦ <i>a.</i> Without any beginning, existing from eternity, जगदादिरनादिस्त्वम् <ls>K.S.</ls>ii.9."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनादि",
+            "eid": "1426",
+            "pagenum": 13,
+            "content": "अनादि¦ an-ādi, <lex>a.</lex> having no beginning; <b>-tā,</b> 🞄<lex>f.</lex> <ab>abst. ɴ.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनादि",
+            "eid": "5520",
+            "pagenum": 28,
+            "content": "अन्-आदि ¦ <lex>mfn.</lex> having no beginning, existing from eternity.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनादि",
+            "eid": "5520.1",
+            "pagenum": 1311,
+            "content": "अन्-आदि ¦ <lex>ind.</lex> perpetually, incessantly, <ls>Naiṣ.</ls><info n='sup'/><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनादि",
+            "eid": "1691",
+            "pagenum": 28,
+            "content": "अनादि¦ <i>an-ādi, is, is, i,</i> having no beginning, existing from eternity. <i>—Anādi-tva, am,</i> n. state of having no beginning. <i>—An-ādi-nidhana, as,</i> <i>ā, am,</i> having neither beginning nor end, eternal. <i>—Anādi-mat, ān, atī, at,</i> having no beginning. <i>—An-ādi-madhyānta (°dhya-an°), as, ā, am,</i> having no beginning, middle or end. <i>—Anādy-</i> <i>ananta, as, ā, am,</i> without beginning and without end. <i>—An-ādyanta, as, ā, am,</i> without beginning and end; (<i>as</i>), m., N. of Śiva."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनादि",
+            "eid": "3871",
+            "pagenum": 1,
+            "content": "अनादि¦ <lex>Adj.</lex> <i>ohne Anfang</i> <ls n='Chr.'>104,26</ls>. Davon <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>NĪL. 35</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनादि",
+            "eid": "2507",
+            "pagenum": 1,
+            "content": "अनादि¦ (3. अ + आदि) <lex>adj.</lex> <i>ohne Anfang</i>: त्वमनादिः (हरिः) <ls>R. 1, 31, 12.</ls> अनादिरादिर्गोविन्दः सर्वकारणकारणम् <ls>BRAHMA-S.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "अनादि",
+            "eid": "63460",
+            "pagenum": 5,
+            "content": "अनादि¦ <ls>KAP. 1, 27. 3, 62.</ls> पुरुष <ls>TATTVAS. 17.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अनादि",
+            "eid": "633",
+            "pagenum": 1,
+            "content": "अनादि¦ <lex>Adv.</lex> so <ab>v. a.</ab> <i>immerwährend</i> <ls>NAIṢ. 6,102</ls>."
+        },
+        {
+            "word": "अनादि",
+            "eid": "10975",
+            "pagenum": 7,
+            "content": "अनादि¦ I. 1."
+        }
     ]
 }

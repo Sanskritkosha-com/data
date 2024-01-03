@@ -39,5 +39,69 @@
             "pagenum": 213,
             "content": "<b>mara,</b>¦ <i><ab>m.</ab></i> death. [<b>√mṛ,</b> ‘die.’]"
         }
+    ],
+    "MD": [
+        {
+            "word": "मर",
+            "eid": "13781",
+            "pagenum": 219,
+            "content": "मर¦ mar-a, <lex>m.</lex> dying, death; world of death, 🞄earth: <b>-ka,</b> <lex>m.</lex> plague, epidemic."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मर",
+            "eid": "158111",
+            "pagenum": 789,
+            "content": "मर ¦ <lex>m.</lex> (√ मृ) dying, death (See परि-मर)<info lex='m'/>"
+        },
+        {
+            "word": "मर",
+            "eid": "158112",
+            "pagenum": 789,
+            "content": "¦ the world of death <ab>i.e.</ab> the earth, <ls>AitUp.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मर",
+            "eid": "158113",
+            "pagenum": 789,
+            "content": "मर ¦ <lex>mfn.</lex> killing (See नृ-मर)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "मर",
+            "eid": "158114",
+            "pagenum": 789,
+            "content": "मर ¦ <lex>m. <ab>pl.</ab></lex> the inhabitants of hell, <ls>Āryabh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मर",
+            "eid": "158115",
+            "pagenum": 789,
+            "content": "मर ¦ <lex>m.</lex> <ab>w.r.</ab> for नराः, <ls>Hariv. 8464.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मर",
+            "eid": "36506",
+            "pagenum": 748,
+            "content": "मर¦ <i>mara, as,</i> m. (fr. rt. <i>mṛ</i>), Ved. death, dying; the world of death, i. e. the earth; <i>(as, ā,</i> <i>am),</i> killing; [cf. <i>a-m°, dur-m°, nṛ-m°.</i>] <i>—Marā-</i> <i>rāma (°ra-ār°), as,</i> m., N. of a Daitya."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मर",
+            "eid": "83516",
+            "pagenum": 5,
+            "content": "मर¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das Sterben, Tod</i>. <div n='1'>— 2〉 <i>die Welt des Sterbens, die Erde</i>. <div n='1'>— 3〉 <ab>Pl.</ab> <i>Höllenbewohner</i> <ls>ĀRYABH. 4,12</ls>. — मराः <ls>HARIV. 8464</ls> fehlerhaft für नराः."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मर",
+            "eid": "57786",
+            "pagenum": 5,
+            "content": "मर/¦ (von 1. मर्) <lex>m.</lex> v.l. für मद im <is>gaṇa</is> पचादि zu <ls>P. 3, 1, 134.</ls> <i>Tod; die Welt des Sterbens</i> so v. a. <i>die Erde</i> <ls>AIT. UP. 1, 2.</ls> मराः <ls>HARIV. 8464</ls> fehlerhaft fur नराः, wie die neuere Ausg. hat. <div n='v'>— Vgl. अ°, दुर्मर, नृ° ."
+        }
     ]
 }

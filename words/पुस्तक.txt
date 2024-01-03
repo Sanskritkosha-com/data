@@ -55,5 +55,55 @@
             "pagenum": 448,
             "content": "pustaka¦ <i>m.n.</i> A book, a manuscript."
         }
+    ],
+    "MW": [
+        {
+            "word": "पुस्तक",
+            "eid": "127302",
+            "pagenum": 640,
+            "content": "पुस्तक ¦ <lex>m.</lex> or <lex type='hw'>n.</lex> a protuberant ornament, boss (See below)<info lex='m:n'/>"
+        },
+        {
+            "word": "पुस्तक",
+            "eid": "127303",
+            "pagenum": 640,
+            "content": "पुस्तक ¦ <lex>mf(इका)n.</lex> a manuscript, book, booklet, <ls>Hariv.</ls>; <ls>Kāv.</ls>; <ls>Var.</ls> &c.<info lex='m:f#ikA:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पुस्तक",
+            "eid": "29634",
+            "pagenum": 589,
+            "content": "<i>Pustaka, as, ikā, am,</i>¦ m. f. n. (usually m. or n.), a manuscript, a book. <i>—Pustakāgāra (°ka-āg°),</i> <i>am,</i> n. ‘book-room,’ a library."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पुस्तक",
+            "eid": "68745",
+            "pagenum": 4,
+            "content": "पुस्तक¦ <div n='1'>— 1〉 <i>Bosse, Bossage</i>. <div n='1'>— 2〉 <lex>m.</lex> <lex>f.</lex> (पुस्तिका) <lex>n.</lex> <i>Handschrift, Buch</i> <ls>HEMĀDRI 1,546,12. 16</ls>. <ls>Spr. 4155. fgg.</ls> <lex>f.</lex> auch <i>Büchelchen</i> <ls>KĀD. 155,9</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पुस्तक",
+            "eid": "46560",
+            "pagenum": 4,
+            "content": "पुस्तक¦ <lex>n.</lex> <ls>SIDDH. K. 249,a,1</ls> (<ls n='SIDDH. K.'>251,a,2</ls> v. u. ist demnach पुस्त st. पुस्तक zu lesen). <lex>m.</lex> <lex>n.</lex> <i>Manuscript, Buch</i> <ls>HARIV. 16216.</ls> <ls>MṚCCH. 49, 2.</ls> <ls>VARĀH. BṚH. S. 58, 38.</ls> <ls>KATHĀS. 8, 11.</ls> <ls>Spr. 1810.</ls> <ls>RĀJA-TAR. 3, 261.</ls> <ls>PAÑCAT. 127, 9.</ls> <ls n='PAÑCAT.'>236, 24.</ls> <ls n='PAÑCAT.'>245, 1.</ls> <ls>VET. in LA. 18, 5. 8</ls> (es ist wohl पुस्तको ऽयं zu lesen). <ls n='VET. in LA.'>10. 15.</ls> <ls>PRAB. 48, 8.</ls> Schol. zu <ls>KĀTY. ŚR. 604, 18.</ls> Auch पुस्तिका <ls>Verz. d. Oxf. H. No. 208</ls> am Ende. Vgl. गीतपुस्तक ."
+        },
+        {
+            "word": "पुस्तक",
+            "eid": "78835",
+            "pagenum": 5,
+            "content": "पुस्तक¦, °कर <ls>Spr. 5415.</ls> °वाचन unter den 64 <is>Kalā</is> <ls n='Spr.'>217,a,10.</ls> पुस्तिका <ls>KATHĀS. 76, 22. 24. fg. 122, 24.</ls> Z. 4 <ls>VET. 18, 8</ls> lesen zwei Hdschrr. richtig पुस्तको ऽयं . <div n='v'>— Vgl. प्रति° ."
+        },
+        {
+            "word": "पुस्तक",
+            "eid": "120952",
+            "pagenum": 7,
+            "content": "पुस्तक¦ (Nachträge), schalte <ls>Verz. d. Oxf. H. vor 217,a,10</ls> ein."
+        }
     ]
 }

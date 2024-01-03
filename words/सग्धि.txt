@@ -52,5 +52,57 @@
             "pagenum": 745,
             "content": "sagDi¦ <i>f.</i> Eating together."
         }
+    ],
+    "MD": [
+        {
+            "word": "सग्धि",
+            "eid": "18506",
+            "pagenum": 327,
+            "content": "सग्धि¦ sá-gdhi, <lex>f.</lex> [sa(ja)gdhi] meal in common 🞄(<ab>V.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सग्धि",
+            "eid": "227899",
+            "pagenum": 1125,
+            "content": "स—ग्धि <hom>a</hom> ¦ See <ab>col.</ab> 2."
+        },
+        {
+            "word": "सग्धि",
+            "eid": "227918",
+            "pagenum": 1125,
+            "content": "स/-ग्धि <hom>b</hom> ¦ <lex>f.</lex> (<ab>fr.</ab> <hom>7.</hom> स + ग्धि = जग्धि) a common meal, <ls>VS.</ls>; <ls>TS.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सग्धि",
+            "eid": "48375",
+            "pagenum": 1044,
+            "content": "सग्धि¦ <i>sa-gdhi, is,</i> f. (contracted fr. <i>saha-</i> <i>jagdhi,</i> see <i>jagdhi</i>), eating together; (<i>is, is, i,</i>), Ved. eating together."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सग्धि",
+            "eid": "117380",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स/ग्धि¦ <lex>f.</lex> <i>ein gemeinschaftliches Mahl</i>."
+        },
+        {
+            "word": "सग्धि",
+            "eid": "117381",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सग्धि¦ <lex>f.</lex> <ab>Nom.</ab> <ab>act.</ab> zu सघ् 1〉 zu vermuthen <ls>J. A. O. S. 11, CXLVII</ls> statt सद्धि."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सग्धि",
+            "eid": "103406",
+            "pagenum": 7,
+            "content": "स/ग्धि¦ (2. स + ग्धि = जग्धि) <ls>VS. PRĀT. 5, 45.</ls> f. <i>ein gemeinschaftliches Mahl</i> <ls>NIR. 9, 43.</ls> <ls>P. 6, 4, 100.</ls> <ls>AK. 2, 9, 55.</ls> <ls>TRIK. 3, 2, 4.</ls> <ls>H. 425.</ls> <ls>VS. 18, 9.</ls> <ls n='VS.'>28, 16.</ls> <ls>TS. 4, 7, 4, 1.</ls>"
+        }
     ]
 }

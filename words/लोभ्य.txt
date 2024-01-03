@@ -20,5 +20,43 @@
             "pagenum": 631,
             "content": "loBya¦ <i>n.</i> A tail."
         }
+    ],
+    "MW": [
+        {
+            "word": "लोभ्य",
+            "eid": "183051",
+            "pagenum": 905,
+            "content": "लोभ्य ¦ <lex>mfn.</lex> = लोभनीय, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "लोभ्य",
+            "eid": "183052",
+            "pagenum": 905,
+            "content": "लोभ्य ¦ <lex>m.</lex> <bot>Phaseolus Mungo</bot>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लोभ्य",
+            "eid": "40618",
+            "pagenum": 870,
+            "content": "<i>Lobhya, as, ā, am,</i>¦ to be eagerly desired, desirable, alluring, enticing, attractive; (<i>as</i>), m. Phaseolus Mungo."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लोभ्य",
+            "eid": "96783",
+            "pagenum": 5,
+            "content": "*लोभ्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> = लोभनीय <div n='1'>— 2〉 <lex>m.</lex> <i><bot>Phaseolus Mungo</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लोभ्य",
+            "eid": "86839",
+            "pagenum": 6,
+            "content": "लोभ्य¦ <div n='1'> 1) <lex>adj.</lex> = लोभनीय . <div n='1'>— 2) <lex>m.</lex> <i>Phaseolus Mungo</i> <ls>H. 1172.</ls>"
+        }
     ]
 }

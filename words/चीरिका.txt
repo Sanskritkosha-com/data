@@ -47,5 +47,55 @@
             "pagenum": 275,
             "content": "cIrikA¦ <i>f.</i> A cricket."
         }
+    ],
+    "MD": [
+        {
+            "word": "चीरिका",
+            "eid": "7623",
+            "pagenum": 95,
+            "content": "चीरिका¦ cīr-ikā, <lex>f.</lex> written proclamation."
+        }
+    ],
+    "MW": [
+        {
+            "word": "चीरिका",
+            "eid": "74482",
+            "pagenum": 399,
+            "content": "चीरिका ¦ <lex>f.</lex> <ab>id.</ab>, <ls>Kathās. li</ls>, <ls n='Kathās.'>lv</ls>, <ls n='Kathās.'>lxxi</ls>; <ls>Lokapr.</ls><info lex='f'/>"
+        },
+        {
+            "word": "चीरिका",
+            "eid": "74483",
+            "pagenum": 399,
+            "content": "¦ (चीठिका, ‘a small slip of paper’), <ls>Bhojapr. 321/322</ls><info lex='inh'/>"
+        },
+        {
+            "word": "चीरिका",
+            "eid": "74484",
+            "pagenum": 399,
+            "content": "¦ = °री-वाक, <ls>L.</ls> (<ab>v.l.</ab> for °रुका). <info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चीरिका",
+            "eid": "40376",
+            "pagenum": 2,
+            "content": "चीरिका¦ <ab>s. u.</ab> चीरक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चीरिका",
+            "eid": "25688",
+            "pagenum": 2,
+            "content": "चीरिका¦ (von चीरी) <lex>f.</lex> <i>Grille, Heimchen</i> <ls>H. 1215, v. l.</ls> Nach <ls>TRIK. 3, 3, 80</ls> = कच्छा, welches auch den <i>Saum des Untergewandes</i> bezeichnet; vgl. चीरी ."
+        },
+        {
+            "word": "चीरिका",
+            "eid": "73875",
+            "pagenum": 5,
+            "content": "चीरिका¦ (von चीर) <lex>f.</lex> <i>ein Streifen Rinde</i> oder <i>Zeug</i>: तत्र चित्रकरो गत्वा राजद्वारि स चीरिकाम् । मम चित्रकरस्तुल्यो नास्तीत्युदलम्बयत् ॥ <ls>KATHĀS. 51, 130. 55, 37. 42. 71, 81.</ls>"
+        }
     ]
 }

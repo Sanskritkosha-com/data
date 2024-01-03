@@ -7,5 +7,43 @@
             "pagenum": 343,
             "content": "उल्लू¦ <i><ab>a.</ab></i> Cutting up."
         }
+    ],
+    "MW": [
+        {
+            "word": "उल्लू",
+            "eid": "37652",
+            "pagenum": 219,
+            "content": "<hom>1.</hom> उल्-लू ¦ (उद्-√ लू). <info verb='pre' cp='' parse='ud+lU'/>"
+        },
+        {
+            "word": "उल्लू",
+            "eid": "37653",
+            "pagenum": 219,
+            "content": "<hom>2.</hom> उल्-लू ¦ <lex>mfn.</lex> cutting off, cutting <ab>Comm.</ab> on <ls>Pāṇ. vi, 4, 83.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उल्लू",
+            "eid": "12408",
+            "pagenum": 175,
+            "content": "उल्लू¦ <i>ul-lū, ūs, ūs, u</i> (fr. rt. <i>lū</i> with <i>ud</i>), cutting up."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उल्लू",
+            "eid": "20792",
+            "pagenum": 1,
+            "content": "*उल्लू¦ <lex>Adj.</lex> <i>aufschneidend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उल्लू",
+            "eid": "12578",
+            "pagenum": 1,
+            "content": "उल्लू¦ (von लू mit उद्) <lex>adj.</lex> <i>aufschneidend</i> <ls>P. 6, 4, 83</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

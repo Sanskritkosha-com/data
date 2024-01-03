@@ -29,5 +29,47 @@
             "pagenum": 335,
             "content": "dur-vAcya¦ <i>(II) n.</i> ill fame."
         }
+    ],
+    "MW": [
+        {
+            "word": "दुर्वाच्य",
+            "eid": "94311",
+            "pagenum": 486,
+            "content": "दुर्—वाच्य ¦ <lex>mfn.</lex> hard (to be uttered)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "दुर्वाच्य",
+            "eid": "94312",
+            "pagenum": 486,
+            "content": "दुर्—वाच्य ¦ <lex>n.</lex> a <ab n='hard'>h°</ab> word, <ls>Pur.</ls><info lex='n'/>"
+        },
+        {
+            "word": "दुर्वाच्य",
+            "eid": "94313",
+            "pagenum": 486,
+            "content": "¦ bad news, <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दुर्वाच्य",
+            "eid": "51390",
+            "pagenum": 3,
+            "content": "दुर्वाच्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>schwer auszusprechen, hart</i> (Worte). <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>böse —, beleidigende Worte</i>. <div n='2'>— b〉 <i>eine böse Nachricht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दुर्वाच्य",
+            "eid": "33792",
+            "pagenum": 3,
+            "content": "दुर्वाच्य¦ (2. दुष् + वा°) <lex>adj.</lex> <i>schwer zu sprechen, hart</i> (von Worten): दुर्वाच्यमेतद्वचनं कर्तुं शक्नोम्यहम् <ls>MĀRK. P. 8, 27.</ls> <lex>n.</lex> <i>ein hartes, unheilvolles Wort, eine böse Nachricht</i>: सीतानिमित्तं स श्रुत्वा दुर्वाच्यं न भविष्यति <ls>R. 5, 15, 42.</ls>"
+        },
+        {
+            "word": "दुर्वाच्य",
+            "eid": "75970",
+            "pagenum": 5,
+            "content": "दुर्वाच्य¦ <lex>n.</lex> <i>böse —, beleidigende Worte</i> <ls>BHĀG. P. 10, 68, 29.</ls>"
+        }
     ]
 }

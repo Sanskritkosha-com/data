@@ -39,5 +39,35 @@
             "pagenum": 492,
             "content": "priya-kft¦ <i>m.</i> a friend, a benefactor."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रियकृत्",
+            "eid": "140478",
+            "pagenum": 710,
+            "content": "प्रिय—कृत् ¦ <lex>mfn.</lex> doing a kindness, <ls>MBh.</ls>; <ls>R.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "प्रियकृत्",
+            "eid": "140479",
+            "pagenum": 710,
+            "content": "प्रिय—कृत् ¦ <lex>m.</lex> a friend, benefactor, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रियकृत्",
+            "eid": "74715",
+            "pagenum": 4,
+            "content": "प्रियकृत्¦ <lex>Adj.</lex> <ab>dass.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रियकृत्",
+            "eid": "79679",
+            "pagenum": 5,
+            "content": "प्रियकृत्¦ <lex>adj.</lex> <i>Jmd etwas Liebes erweisend</i> <ls>MBH. 1, 5394.</ls>  <ls>R. GORR. 2, 15, 21.</ls>"
+        }
     ]
 }

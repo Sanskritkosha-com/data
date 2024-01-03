@@ -23,5 +23,61 @@
             "pagenum": 771,
             "content": "sAt¦ <i>ind.</i> A <i>Taddhita</i> affix which, when put after a word, denotes either a total change of anything into the thing expressed by that word, (e.g. भस्मसात्) or complete control, (e.g. ब्राह्मणसात्), ततो भ्रातुः शरीरमग्निसात्कृत्वा <ls>Mal.</ls>v., भस्मसात्कृतवतः पितृद्विषः पात्रसाच्च वसुधां ससागराम् <ls>R.</ls>xi.86."
         }
+    ],
+    "MW": [
+        {
+            "word": "सात्",
+            "eid": "241373",
+            "pagenum": 1200,
+            "content": "<hom>1.</hom> सात् ¦ a <s1 slp1='tadDita'>Taddhita</s1> affix which when put after a word denotes a total change of anything into the thing expressed by that word (See अग्नि-, भस्म-सात् &c.)"
+        },
+        {
+            "word": "सात्",
+            "eid": "241374",
+            "pagenum": 1200,
+            "content": "<hom>2.</hom> सात् ¦ a <s1 slp1='sOtra'>Sautra</s1> root meaning ‘to give pleasure’, <ls>Pāṇ.</ls>; <ls>Vop.</ls> <info verb='root'/>"
+        },
+        {
+            "word": "सात्",
+            "eid": "241375",
+            "pagenum": 1200,
+            "content": "<hom>3.</hom> सात् ¦ <lex>n.</lex> <ab>N.</ab> of <s1 slp1='brahman'>Brahman</s1>, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सात्",
+            "eid": "51776",
+            "pagenum": 1104,
+            "content": "सात् 1¦. <i>sāt,</i> a Taddhita affix which when put after a word denotes a total change of anything into the thing expressed by that word, (see <i>bhasma-</i> <i>sāt.</i>)"
+        },
+        {
+            "word": "सात्",
+            "eid": "51777",
+            "pagenum": 1104,
+            "content": "सात् 2¦. <i>sāt,</i> a Sautra rt. meaning ‘to give pleasure.’"
+        },
+        {
+            "word": "सात्",
+            "eid": "51778",
+            "pagenum": 1104,
+            "content": "3. <i>sāt, t,</i>¦ n. (according to some), N. of Brahma."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सात्",
+            "eid": "123640",
+            "pagenum": 7,
+            "content": "*सात्¦ <div n='1'>— 1〉 eine <is>Sautra</is>-Wurzel. <div n='1'>— 2〉 <lex>n.</lex> = ब्रह्मन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सात्",
+            "eid": "108096",
+            "pagenum": 7,
+            "content": "सात्¦ <div n='1'> 1) eine <is>Sautra</is>-Wurzel <ls>P. 3, 1, 138.</ls> <ls>VOP. 26, 35.</ls> <div n='1'>— 2) <lex>n.</lex> = ब्रह्मन् <ls>ŚKDR.</ls> und <ls>WILSON</ls> ohne Angabe einer Aut."
+        }
     ]
 }

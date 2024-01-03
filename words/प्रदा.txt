@@ -7,5 +7,43 @@
             "pagenum": 748,
             "content": "प्रदा¦ {c3c} <ab>U.</ab> <b>1</b> To grant, give, offer. present; स्वं प्रागह प्रादिषि नामराय किं नाम तस्मै मनसा नराय <ls>N. 6. 95</ls>;  <lbinfo n='ls:Ms.+ 3. 99'/> <ls>Ms. 3. 99</ls>, <ls n='Ms. 3.'>108</ls>, <ls n='Ms. 3.'>273</ls>; <ls>Y. 2. 90.</ls> <b>--2</b> To impart, teach (as learning);  <lbinfo n='ls:Bh. 2.+ 15'/> <ls>Bh. 2. 15</ls> <b>--3</b> To give, give away; yield. <b>--4</b> To give up, deliver. <b>--5</b> To give away in marriage. <b>--6</b> To sell;  <lbinfo n='ls:Pt. 1.+ 13.'/> <ls>Pt. 1. 13.</ls> <b>--7</b> To deliver up, restore."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रदा",
+            "eid": "134641",
+            "pagenum": 679,
+            "content": "<hom>a</hom> प्र-√ <hom>1.</hom> दा ¦ <ab>P.</ab> -ददाति, rarely <ab>Ā.</ab> -दत्ते, (<ab>Ved.</ab> <ab>inf.</ab> प्र/-दातोस्, <ls>TS.</ls>; <ab>irreg.</ab> <ab>Pot.</ab> <ab>P.</ab> -ददेत्, <ls>Hcat.</ls>), <div n='to'/>to give away, give, offer, present, grant, bestow, <ls>RV.</ls> &c. &c. (with or <ab>scil.</ab> भार्याम्, to give in marriage; with प्रतिवचस्, to <ab n='grant'>g°</ab> an answer; with प्रवृत्तिम्, to information about an event; with युद्धम्, to <ab n='grant'>g°</ab> battle; with द्वंद्व-युद्धम्, to engage in single combat; with विद्याम्, to communicate or impart knowledge; with hutA<srs/>Sanam, to set fire to); <div n='to'/>to give up, abolish, <ls>TS.</ls>; <div n='to'/>to sell (with <ab>instr.</ab> of price), <ls>Pañcat.</ls>; <div n='to'/>to restore (anything lost &c.), <ls>Mn.</ls>; <div n='to'/>to pay, discharge (a debt), <ls>Yājñ.</ls>; <div n='to'/>to put or place in (<ab>loc.</ab>), <ls>ib.</ls>; <ls>MBh.</ls> : <div n='vp'/><ab>Pass.</ab> -दीयते, to be given away, be given, <ls>Mn.</ls>; <ls>MBh.</ls> &c.: <div n='vp'/><ab>Caus.</ab> -दापयति, to cause to give, <ls>TS.</ls> &c. &c.; <div n='to'/>to compel to give back or to repay, <ls>Yājñ.</ls>; <ls>Kull.</ls> <pb n='679,3'/>; <div n='to'/>to cause to put in or to, <ls>MBh.</ls>; <ls>Bhpr.</ls>; <div n='to'/>to put or place in (<ab>loc.</ab>), <ls>Car.</ls>; <div n='to'/> (with वस्तिम्), to apply a clyster, <ls>ib.</ls> : <div n='vp'/><ab>Desid.</ab> -दित्सते, to wish to give in marriage, <ls>Daś.</ls><info verb='pre' cp='PĀ' parse='pra+dA'/>"
+        },
+        {
+            "word": "प्रदा",
+            "eid": "134646",
+            "pagenum": 679,
+            "content": "प्र-दा <hom>b</hom> ¦ <lex>f.</lex> a gift, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रदा",
+            "eid": "32000",
+            "pagenum": 630,
+            "content": "प्रदा¦ <i>pra-dā</i> (see rt. 1. <i>dā</i>), cl. 3. P. (rarely in the earlier language A.) <i>-dadāti (-datte), -dātum,</i> to give away, give to, give; to give up, deliver; to offer, present, grant; to give a daughter in marriage; to sell (with inst. of the price); to restore; to put in, place in; (with <i>ṛṇam</i>) to pay, discharge a debt; (with <i>vidyām</i>) to communicate or impart knowledge; (with <i>prativacaḥ</i>) to give an answer; (with <i>yuddham</i>) to give battle; (with <i>dvandva-yud-</i> <i>dham</i>) to engage in single combat; (with <i>pra-</i> <i>vṛttim</i>) to give information of an event; (with <i>hutāśanam</i>) to set fire to: Pass. <i>-dīyate,</i> to be given away, to be given: Caus. <i>-dāpayati, -yitum,</i> to cause to give, compel to give back or to repay; to cause to put or place in: Desid. <i>-ditsate,</i> to wish to give in marriage."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रदा",
+            "eid": "72290",
+            "pagenum": 4,
+            "content": "*प्रदा¦ <lex>f.</lex> <i>Gabe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रदा",
+            "eid": "49145",
+            "pagenum": 4,
+            "content": "प्रदा¦ (1. दा mit प्र) <lex>f.</lex> <i>Gabe</i> <ls>P. 6, 4, 64</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

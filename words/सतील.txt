@@ -31,5 +31,49 @@
             "pagenum": 750,
             "content": "satIla¦ <i>m.</i> 1. A bamboo; 2. air, wind; 3. pease."
         }
+    ],
+    "MW": [
+        {
+            "word": "सतील",
+            "eid": "229725",
+            "pagenum": 1135,
+            "content": "सतील ¦ <lex>m.</lex> (only <ls>L.</ls>) <bot>pisum Arvense</bot><info lex='m'/>"
+        },
+        {
+            "word": "सतील",
+            "eid": "229725.1",
+            "pagenum": 1135,
+            "content": "¦ a bamboo<info lex='inh'/>"
+        },
+        {
+            "word": "सतील",
+            "eid": "229725.2",
+            "pagenum": 1135,
+            "content": "¦ wind<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सतील",
+            "eid": "48852",
+            "pagenum": 1053,
+            "content": "<i>Satīla, as,</i>¦ m. a bamboo; air, wind; (<i>as, ā</i>), m. f. pease, pulse or a particular kind (called Teorā)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सतील",
+            "eid": "118060",
+            "pagenum": 7,
+            "content": "*सतील¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 = <hom>2.</hom> सतीन 1〉. <div n='2'>— b〉 = <hom>2.</hom> सतीन 2〉. <div n='1'>— 2〉 <lex>f.</lex> आ = <hom>2.</hom> सतीन 1〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सतील",
+            "eid": "103944",
+            "pagenum": 7,
+            "content": "सतील¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) = 2. सतीन <div n='1'> 1) <ls>VYĀḌI</ls> bei <ls>BHARATA</ls> zu <ls>AK. 2, 9, 16</ls> nach <ls>ŚKDR.</ls> <div n='2'>— b) = 2. सतीन <div n='1'> 2) <ls>HĀR. 108.</ls> <div n='2'>— c) <i>Wind</i> <ls>RĀYAM.</ls> zu <ls>AK.</ls> nach <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> आ = 2. सतीन <div n='1'> 1) <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

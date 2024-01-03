@@ -43,5 +43,73 @@
             "pagenum": 249,
             "content": "2. पात्य¦ <i>n.</i> Herrschaft."
         }
+    ],
+    "MW": [
+        {
+            "word": "पात्य",
+            "eid": "121796",
+            "pagenum": 617,
+            "content": "<hom>1.</hom> पात्य ¦ <lex>mfn.</lex> to be felled or caused to fall<info lex='m:f:n'/>"
+        },
+        {
+            "word": "पात्य",
+            "eid": "121797",
+            "pagenum": 617,
+            "content": "¦ to be inflicted or imposed (as a penalty), <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पात्य",
+            "eid": "121821",
+            "pagenum": 617,
+            "content": "<hom>2.</hom> पात्य ¦ <lex>n.</lex> (for <lex type='hwinfo'>f.</lex> See above) dominion, <ls>MBh.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पात्य",
+            "eid": "28781",
+            "pagenum": 563,
+            "content": "1. <i>pātya, as, ā, am</i>¦ (for 2. see p. 564, col. 1), to be felled, to be caused to fall, to be precipitated; to be inflicted or imposed (as a penalty)."
+        },
+        {
+            "word": "पात्य",
+            "eid": "28796",
+            "pagenum": 564,
+            "content": "2. <i>pātya, am,</i>¦ n. dominion. (For 1. <i>pātya</i> see p. 563, col. 3.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पात्य",
+            "eid": "65748",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> पात्य¦ <lex>Adj.</lex> <i>fallen zu lassen, zu schleudern</i>. दण्डः <lex>m.</lex> so <ab>v. a.</ab> <i>Strafe ist zu verhängen über</i> (<ab>Loc.</ab>)."
+        },
+        {
+            "word": "पात्य",
+            "eid": "65749",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> पात्य¦ <lex>n.</lex> <i>Herrschaft</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पात्य",
+            "eid": "44262",
+            "pagenum": 4,
+            "content": "1. पात्य¦ (vom caus. von 1. पत्) <lex>adj.</lex> <i>fallen zu lassen</i>: दण्डो हीनेषु पात्यस्तु so v. a. <i>Strafe ist zu verhängen</i> <ls>R. 5, 81, 39.</ls>"
+        },
+        {
+            "word": "पात्य",
+            "eid": "44263",
+            "pagenum": 4,
+            "content": "2. पात्य¦ (von पति) <lex>n.</lex> <i>Herrschaft</i>: भरणाद्धि स्त्रिया भर्ता पात्याच्चैव स्त्रियाः पतिः <ls>MBH. 12, 9517.</ls>"
+        },
+        {
+            "word": "पात्य",
+            "eid": "78434",
+            "pagenum": 5,
+            "content": "1. पात्य¦ <i>zu schleudern</i> <ls>R. 7, 22, 43.</ls>"
+        }
     ]
 }

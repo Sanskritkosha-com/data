@@ -36,5 +36,55 @@
             "pagenum": 683,
             "content": "vihanana¦ <i>n.</i> 1. Killing, striking; 2. hurt, injury; 3. obstacle, impediment; 4. a bow for cleaning cotton."
         }
+    ],
+    "MW": [
+        {
+            "word": "विहनन",
+            "eid": "203111",
+            "pagenum": 1003,
+            "content": "वि-°हनन ¦ <lex>n.</lex> (only <ls>L.</ls>) killing, slaying<info lex='n'/>"
+        },
+        {
+            "word": "विहनन",
+            "eid": "203112",
+            "pagenum": 1003,
+            "content": "¦ hurting, injury<info lex='inh'/>"
+        },
+        {
+            "word": "विहनन",
+            "eid": "203113",
+            "pagenum": 1003,
+            "content": "¦ opposition, obstruction<info lex='inh'/>"
+        },
+        {
+            "word": "विहनन",
+            "eid": "203114",
+            "pagenum": 1003,
+            "content": "¦ a bow-like instrument for carding cotton.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विहनन",
+            "eid": "44512",
+            "pagenum": 952,
+            "content": "<i>Vi-hanana, am,</i>¦ n. the act of striking; killing outright; hurting, injury; opposition, obstruction, impediment; a bow for cleaning cotton; [cf. <i>tūla-</i> <i>kārmuka.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विहनन",
+            "eid": "105807",
+            "pagenum": 6,
+            "content": "*विहनन¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Schlagen, Tödten</i>. <div n='1'>— 2〉 <i>das Verhindern</i>. <div n='1'>— 3〉 <i>eine bogenförmiges Werkzeug zum Auseinanderzupfen von Baumwolle</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विहनन",
+            "eid": "94279",
+            "pagenum": 6,
+            "content": "विहनन¦ (wie eben) <lex>n.</lex> <div n='1'> 1) <i>das Schlagen, Tödten</i> (वध, हिंसा) <ls>H. an. 4, 191. fg.</ls> <ls>MED. n. 208.</ls> <div n='1'>— 2) <i>das Verhindern</i> (विघ्न) <ls>MED.</ls> <div n='1'>— 3) <i>ein bogenförmiges Werkzeug zum Auseinanderzupfen von Baumwolle</i> <ls>H. 912.</ls> <ls>H. an.</ls> <ls>MED.</ls>"
+        }
     ]
 }

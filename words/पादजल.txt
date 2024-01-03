@@ -23,5 +23,47 @@
             "pagenum": 430,
             "content": "pAda-jala¦ <i>n.</i> 1. water for washing the feet; 2. water hallowed by washing sacred feet."
         }
+    ],
+    "MW": [
+        {
+            "word": "पादजल",
+            "eid": "121909",
+            "pagenum": 617,
+            "content": "पाद—जल <hom>a</hom> ¦ <lex>n.</lex> water for (washing) the feet, <ls>L. 2.</ls><info lex='n'/>"
+        },
+        {
+            "word": "पादजल",
+            "eid": "121910",
+            "pagenum": 617,
+            "content": "पाद—जल <hom>b</hom> ¦ <lex>mfn.</lex> containing (<ab>i.e.</ab> mixed with) one fourth of water, <ls>Bhpr.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पादजल",
+            "eid": "65823",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> पादजल¦ <lex>n.</lex> <i>Wasser zum Waschen der Füsse</i>."
+        },
+        {
+            "word": "पादजल",
+            "eid": "65824",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> पादजल¦ <lex>Adj.</lex> <i>wobei ein Viertel Wasser ist</i> Auch <lex>n.</lex> mit Ergänzung von तक्र <ls>BHĀVAPR. 2,47</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पादजल",
+            "eid": "44328",
+            "pagenum": 4,
+            "content": "1. पादजल¦ (पाद + जल) <lex>n.</lex> <i>Wasser für die Füsse, Wasser, in dem die Füsse gewaschen worden sind</i>, <ls>PĀDMOTTARAKHAṆḌA 100</ls> im <ls>ŚKDR.</ls> u. पादोदक ."
+        },
+        {
+            "word": "पादजल",
+            "eid": "44329",
+            "pagenum": 4,
+            "content": "2. पादजल¦ (wie eben) <lex>adj.</lex> <i>wobei ein Viertel Wasser ist</i>: तक्रं पुनः पादजलम् <i>drei Theile Buttermilch mit einem Theile Wasser</i> <ls>H. 409.</ls> <div n='v'>— Vgl. पादाम्बु ."
+        }
     ]
 }

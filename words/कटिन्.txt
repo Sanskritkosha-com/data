@@ -7,5 +7,49 @@
             "pagenum": 369,
             "content": "कटिन्¦ <i><ab>a.</ab></i> <b>1</b> Matted, screened. <b>--2</b> Having handsome loins &c. <i>--<ab>m.</ab></i> An elephant."
         }
+    ],
+    "MW": [
+        {
+            "word": "कटिन्",
+            "eid": "42040",
+            "pagenum": 244,
+            "content": "कटिन् ¦ <lex>mfn.</lex> matted, screened<info lex='m:f:n'/>"
+        },
+        {
+            "word": "कटिन्",
+            "eid": "42041",
+            "pagenum": 244,
+            "content": "¦ having handsome loins<info lex='inh'/>"
+        },
+        {
+            "word": "कटिन्",
+            "eid": "42042",
+            "pagenum": 244,
+            "content": "कटिन् ¦ <lex>m.</lex> an elephant, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कटिन्",
+            "eid": "13366",
+            "pagenum": 195,
+            "content": "<i>Kaṭin, ī, inī, i,</i>¦ matted, screened; having handsome loins &c.; (<i>ī</i>), m. an elephant."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कटिन्",
+            "eid": "23437",
+            "pagenum": 2,
+            "content": "*कटिन्¦ <lex>m.</lex> <i>Elephant</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कटिन्",
+            "eid": "14371",
+            "pagenum": 2,
+            "content": "कटि/न्¦ von कट (चतुर्ष्वर्थेषु) <is>gaṇa</is> प्रेक्षादि zu <ls>P. 4, 2, 80.</ls> <lex>m.</lex> (von कट 1,c) <i>Elephant</i> <ls>TRIK. 2, 8, 33.</ls>"
+        }
     ]
 }

@@ -39,5 +39,61 @@
             "pagenum": 382,
             "content": "<b>Kapīndra</b>¦ = Viṣṇu (1000 names)."
         }
+    ],
+    "MD": [
+        {
+            "word": "कपीन्द्र",
+            "eid": "5475",
+            "pagenum": 62,
+            "content": "कपीन्द्र¦ kapi‿indra, <lex>m.</lex> lord of the monkeys; 🞄<ab>ep.</ab> <i>of</i> Viṣṇu <i>and of</i> Hanumat; <b>-iśvara,</b> <lex>m.</lex> 🞄<ab>ep.</ab> <i>of</i> Sugrīva."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कपीन्द्र",
+            "eid": "43499",
+            "pagenum": 250,
+            "content": "kapI<srs/>ndra ¦ <lex>m.</lex> ‘lord of monkeys’, <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>MBh. xiii, 7002</ls><info lex='m'/>"
+        },
+        {
+            "word": "कपीन्द्र",
+            "eid": "43500",
+            "pagenum": 250,
+            "content": "¦ of <s1 slp1='jAmbavat'>Jāmbavat</s1> (the father-in-law of <s1 slp1='kfzRa'>Kṛṣṇa</s1>), <ls>MBh. xiii, 629</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कपीन्द्र",
+            "eid": "43501",
+            "pagenum": 250,
+            "content": "¦ of <s1 slp1='sugrIva'>Sugrīva</s1>, <ls>RāmatUp.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कपीन्द्र",
+            "eid": "43502",
+            "pagenum": 250,
+            "content": "¦ of <s1 slp1='hanumat'>Hanumat</s1>, <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कपीन्द्र",
+            "eid": "24315",
+            "pagenum": 2,
+            "content": "कपीन्द्र¦ <lex>m.</lex> <ab>Bein.</ab> <div n='1'>— 1〉 <is>Viṣṇu</is>ʼs. <div n='1'>— 2〉 <is>Jāmbavant</is>ʼs. <div n='1'>— 3〉 <is>Sugrīva</is>ʼs. <div n='1'>— 4〉 <is>Hanumant</is>ʼs <ls>R. 7,36,44. 45</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कपीन्द्र",
+            "eid": "14931",
+            "pagenum": 2,
+            "content": "कपीन्द्र¦ (कपि + इन्द्र) <lex>m.</lex> <i>Fürst der Affen</i>, ein Bein. <is>Viṣṇu's</is> (vgl. कपि und कपिल) <ls>MBH. 13, 7002.</ls> <is>Jāmbavant's</is>, des Schwiegervaters von <is>Kṛṣṇa</is> <ls n='MBH. 13,'>629.</ls> <is>Hanumant's</is> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <is>Sugriva's</is> u.s.w. <ls>WILS.</ls>"
+        },
+        {
+            "word": "कपीन्द्र",
+            "eid": "69650",
+            "pagenum": 5,
+            "content": "कपीन्द्र¦ Bein. <is>Sugrīva's</is> <ls>WEBER, RĀMAT. UP. 298.</ls>"
+        }
     ]
 }

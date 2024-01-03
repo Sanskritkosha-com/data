@@ -45,5 +45,61 @@
             "pagenum": 23,
             "content": "anudruta¦ <i>(II) m.</i> A measure of time in music."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनुद्रुत",
+            "eid": "6486",
+            "pagenum": 33,
+            "content": "अनु-द्रुत ¦ <lex>mfn.</lex> followed, pursued<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनुद्रुत",
+            "eid": "6487",
+            "pagenum": 33,
+            "content": "¦ having followed or pursued<info lex='inh'/>"
+        },
+        {
+            "word": "अनुद्रुत",
+            "eid": "6488",
+            "pagenum": 33,
+            "content": "¦ accompanied<info lex='inh'/>"
+        },
+        {
+            "word": "अनुद्रुत",
+            "eid": "6489",
+            "pagenum": 33,
+            "content": "अनु-द्रुत ¦ <lex>n.</lex> a measure of time in music (half a <s1 slp1='druta'>Druta</s1>, or one-fourth of a <s1 slp1='mAtrA'>Mātrā</s1> or of the time taken to articulate a short vowel). <info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुद्रुत",
+            "eid": "2194",
+            "pagenum": 34,
+            "content": "<i>Anu-druta, as, ā, am,</i>¦ followed, pursued; (<i>am</i>), n. a measure of time in music, half a Druta, or onefourth of a Mātrā or of the time taken to articulate a short vowel."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुद्रुत",
+            "eid": "4472",
+            "pagenum": 1,
+            "content": "*अनुद्रुत¦ <lex>n.</lex> <i>ein <ab>best.</ab> Tact,</i> = ¹⁄₂ <is>Druta</is> = ¹⁄₄ <is>Mātrā</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुद्रुत",
+            "eid": "2812",
+            "pagenum": 1,
+            "content": "1. अनुद्रुत¦ (von द्रु mit अनु) <lex>adj.</lex> <i>gefolgt, begleitet</i>; s. u. द्रु ."
+        },
+        {
+            "word": "अनुद्रुत",
+            "eid": "2813",
+            "pagenum": 1,
+            "content": "2. अनुद्रुत¦ (अनु + द्रुत) <lex>n.</lex> N. eines Tacts, = (1/2) <is>Druta</is> oder (1/4) <is>Mātrā</is>, <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

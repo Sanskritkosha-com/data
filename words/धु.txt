@@ -61,5 +61,81 @@
             "pagenum": 360,
             "content": "Du¦ <i>vt. or vi. 5U (pp. धुत; pres. धुनोति, धुनुते)</i> See धू below."
         }
+    ],
+    "MD": [
+        {
+            "word": "धु",
+            "eid": "10064",
+            "pagenum": 133,
+            "content": "धु¦ DHU, <ab>v.</ab> धू DHŪ."
+        }
+    ],
+    "MW": [
+        {
+            "word": "धु",
+            "eid": "101371",
+            "pagenum": 517,
+            "content": "<hom>1.</hom> धु ¦ = <hom>1.</hom> धू, <ab>q.v.</ab><info verb='root' cp='0'/>"
+        },
+        {
+            "word": "धु",
+            "eid": "101372",
+            "pagenum": 517,
+            "content": "<hom>2.</hom> धु ¦ <lex>f.</lex> shaking, trembling, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "धु",
+            "eid": "101389",
+            "pagenum": 517,
+            "content": "<hom>3.</hom> धु ¦ = <hom>2.</hom> दुह् in सबर्-धु/, <ab>q.v.</ab> (<ab>cf.</ab> <hom>2.</hom> ध्रु)."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "धु",
+            "eid": "23433",
+            "pagenum": 456,
+            "content": "धु 1¦. <i>dhu</i> = rt. 1. <i>dhū,</i> to shake, q. v."
+        },
+        {
+            "word": "धु",
+            "eid": "23434",
+            "pagenum": 456,
+            "content": "2. <i>dhu, us,</i>¦ f. shaking, trembling."
+        }
+    ],
+    "PW": [
+        {
+            "word": "धु",
+            "eid": "55471",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> धु¦ Verbalwurzel <ab>s.</ab> <hom>1.</hom> धू."
+        },
+        {
+            "word": "धु",
+            "eid": "55472",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *धु¦ <lex>f.</lex> <i>das Schütteln, Bewegen</i>."
+        },
+        {
+            "word": "धु",
+            "eid": "55473",
+            "pagenum": 3,
+            "content": "<hom>3.</hom> धु¦ (metrisch) <lex>Adj.</lex> = दुह् in <ab>Acc.</ab> सबर्धु/म्. <ab>Vgl.</ab> <hom>2.</hom> ध्रु"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धु",
+            "eid": "36799",
+            "pagenum": 3,
+            "content": "1. धु¦ s. धू ."
+        },
+        {
+            "word": "धु",
+            "eid": "36800",
+            "pagenum": 3,
+            "content": "2. धु¦ (= 1. धु) <lex>f.</lex> <i>das Schütteln, Bewegen</i> <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

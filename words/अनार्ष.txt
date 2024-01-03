@@ -47,5 +47,57 @@
             "pagenum": 20,
             "content": "anArza¦ <i>a. (f. र्षा)</i> 1. Not referring to a Ṛishi; 2. not relating to the Vedic hymns, अनार्षे अवैदिके <ls>S.K.</ls>"
         }
+    ],
+    "MD": [
+        {
+            "word": "अनार्ष",
+            "eid": "1469",
+            "pagenum": 14,
+            "content": "अनार्ष¦ an-ārṣa, <lex>a.</lex> not belonging to the 🞄Ṛṣis."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनार्ष",
+            "eid": "5642",
+            "pagenum": 28,
+            "content": "अन्-आर्ष ¦ <lex>mfn.</lex> not belonging to a <s1 slp1='fzi'>Ṛṣi</s1> or to a Vedic hymn<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनार्ष",
+            "eid": "5643",
+            "pagenum": 28,
+            "content": "¦ not belonging to the <s1 slp1='saMhitA'>Saṃhitā</s1> text (<ab>e.g.</ab> the word इति, added for grammatical purposes in the <s1 slp1='pada-pAWa'>Pada-pāṭha</s1> to certain words, <ls>RPrāt.</ls>)<info lex='inh'/>"
+        },
+        {
+            "word": "अनार्ष",
+            "eid": "5644",
+            "pagenum": 28,
+            "content": "¦ not applied to a <s1 slp1='fzi'>Ṛṣi</s1>, not added to his name (as an affix), <ls>Pāṇ. iv, 1, 78.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनार्ष",
+            "eid": "1756",
+            "pagenum": 29,
+            "content": "अनार्ष¦ <i>an-ārṣa, as, ī, am,</i> not referring or belonging to a Ṛṣi or to the genuine text of a Vedic hymn; e. g. the word <i>iti,</i> added for grammatical purposes in the Pada-pāṭha to certain words, which in the Saṃhitā-pāṭha are not followed by <i>iti;</i> not applied to a Ṛṣi, not added to his name, as an affix."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनार्ष",
+            "eid": "3967",
+            "pagenum": 1,
+            "content": "अनार्ष¦ <lex>Adj.</lex> <i>nicht von den</i> <is>Ṛṣi</is> <i>herstammend, nicht der</i> <is>Saṃhitā</is> <i>entsprechend; keinem</i> <is>Ṛṣi</is> <i>zukommend, nicht an den Namen eines</i> <is>Ṛṣi</is> <i>gefügt</i> (Suffix)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनार्ष",
+            "eid": "2573",
+            "pagenum": 1,
+            "content": "अनार्ष¦ (3. अ + आर्ष) <lex>adj.</lex> <i>nicht von den</i> <is>Ṛṣi's</is> <i>herrührend, nicht vedisch, nicht im Texte stehend</i>; z. B. इति, wenn dieses Wort, ohne im Texte (आर्षी) zu stehen, in den <is>Pāṭha's</is> des <is>Veda</is> zu grammatischen Zwecken zu Hülfe genommen wird, <ls>ṚV. PRĀT. 1, 14.</ls> <ls n='ṚV. PRĀT.'>3, 14.</ls> <ls>P. 1, 1, 16.</ls> <i>keinem</i> <is>Ṛṣi</is> <i>zukommend, nicht an den Namen eines</i> <is>Ṛṣi</is> <i>gefügt</i>, von einem Suffix <ls>P. 4, 1, 78.</ls>"
+        }
     ]
 }

@@ -15,5 +15,35 @@
             "pagenum": 106,
             "content": "कटी¦ <lex>f.</lex> hip."
         }
+    ],
+    "MW": [
+        {
+            "word": "कटी",
+            "eid": "41914",
+            "pagenum": 243,
+            "content": "क/टी <hom>a</hom> ¦ <lex>f.</lex> long pepper, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "कटी",
+            "eid": "42045",
+            "pagenum": 244,
+            "content": "कटी <hom>b</hom> ¦ <lex>f.</lex> = कटि above.<info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कटी",
+            "eid": "23450",
+            "pagenum": 2,
+            "content": "कटी¦ <ab>s.</ab> कटि."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कटी",
+            "eid": "14380",
+            "pagenum": 2,
+            "content": "कटी¦ s. u. कटि ."
+        }
     ]
 }

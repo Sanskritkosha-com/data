@@ -28,5 +28,29 @@
             "pagenum": 250,
             "content": "go-viz¦ <i>f.</i> cowdung."
         }
+    ],
+    "MW": [
+        {
+            "word": "गोविष्",
+            "eid": "67606",
+            "pagenum": 367,
+            "content": "गो—विष् ¦ <lex>f.</lex> cow-dung, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोविष्",
+            "eid": "36943",
+            "pagenum": 2,
+            "content": "*गोविष्¦ <lex>f.</lex> (<ab>Nom.</ab> °विट्) <i>Kuhmist</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोविष्",
+            "eid": "23384",
+            "pagenum": 2,
+            "content": "गोविष्¦ (गो + विष्) <lex>f.</lex> (nom. °विट्) <i>Kuhmist</i> <ls>AK. 2, 9, 50.</ls> <ls>H. 1272.</ls> <ls>HĀR. 207.</ls>"
+        }
     ]
 }

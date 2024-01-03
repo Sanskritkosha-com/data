@@ -15,5 +15,51 @@
             "pagenum": 516,
             "content": "*मेद्¦ <i>med.</i> <i>medāmi</i> 1. <ab>cf.</ab> <i>mith.</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "मेद्",
+            "eid": "14467",
+            "pagenum": 235,
+            "content": "मेद्¦ MED, <ab>v.</ab> मिद् MID."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मेद्",
+            "eid": "164437.1",
+            "pagenum": 817,
+            "content": "<hom>1.</hom> मिद् or मेद्, ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> = √ मिथ् (‘to understand’ or ‘to kill’), <ls>Dhātup. xxi, 7.</ls><info or='164437,mid;164437.1,med'/><info westergaard='medf,21.7,01.0600;meDf,21.7,01.0601'/><info verb='root' cp='1P,1Ā'/>"
+        },
+        {
+            "word": "मेद्",
+            "eid": "167792",
+            "pagenum": 832,
+            "content": "मेद् <hom>b</hom> ¦ strong form of √ मिद्.<info verb='root' cp='0'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मेद्",
+            "eid": "37946",
+            "pagenum": 795,
+            "content": "मेद्¦ <i>med</i> = rt. 1. <i>mid,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मेद्",
+            "eid": "88732",
+            "pagenum": 5,
+            "content": "मेद्¦ <ab>s.</ab> <hom>1.</hom> und <hom>2.</hom> मिद्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मेद्",
+            "eid": "61931",
+            "pagenum": 5,
+            "content": "मेद्¦ s. 1. und 2. मिद् ."
+        }
     ]
 }

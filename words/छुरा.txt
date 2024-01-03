@@ -23,5 +23,37 @@
             "pagenum": 281,
             "content": "CurA¦ <i>f.</i> Lime."
         }
+    ],
+    "MW": [
+        {
+            "word": "छुरा",
+            "eid": "76086",
+            "pagenum": 407,
+            "content": "छुरा ¦ <lex>f.</lex> lime, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छुरा",
+            "eid": "19145",
+            "pagenum": 334,
+            "content": "<i>Churā,</i>¦ f. lime."
+        }
+    ],
+    "PW": [
+        {
+            "word": "छुरा",
+            "eid": "41175",
+            "pagenum": 2,
+            "content": "*छुरा¦ <lex>f.</lex> <i>Kalk</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छुरा",
+            "eid": "26279",
+            "pagenum": 2,
+            "content": "छुरा¦ (von छुर्) <lex>f.</lex> <i>Kalk</i> <ls>HĀR. 135.</ls>"
+        }
     ]
 }

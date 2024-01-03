@@ -21,5 +21,71 @@
             "pagenum": 57,
             "content": "amUrta¦ <i>(II) m.</i> A name of Śiva."
         }
+    ],
+    "MD": [
+        {
+            "word": "अमूर्त",
+            "eid": "2444",
+            "pagenum": 25,
+            "content": "अमूर्त¦ á-mūrta, <lex>a.</lex> bodiless."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अमूर्त",
+            "eid": "14178",
+            "pagenum": 82,
+            "content": "अ/-मूर्त ¦ <lex>mfn.</lex> formless, shapeless, unembodied, <ls>ŚBr. xiv</ls>; <ls>Up.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अमूर्त",
+            "eid": "14179",
+            "pagenum": 82,
+            "content": "¦ not forming one body, consisting of different parts, <ls>Sūryas.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अमूर्त",
+            "eid": "14180",
+            "pagenum": 82,
+            "content": "अ/-मूर्त ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अमूर्त",
+            "eid": "5515",
+            "pagenum": 76,
+            "content": "अमूर्त¦ <i>a-mūrta, as, ā, am,</i> formless, shapeless, incorporeal, unembodied; (<i>as</i>), m., N. of Śiva. <i>—Amūrta-rajas, ās,</i> or <i>amūrta-rajasa, as,</i> m. a son of Kūśa by Vaidarbhī."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अमूर्त",
+            "eid": "8351",
+            "pagenum": 1,
+            "content": "अ/मूर्त¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>unkörperlich</i>. <div n='1'>— 2〉 <i>nicht als ein Ganzes erscheinend, in kleinere Theile zerfallend</i> <ls>SŪRYAS. 1,10</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अमूर्त",
+            "eid": "5195",
+            "pagenum": 1,
+            "content": "अ/मूर्त¦ (3. अ + मूर्त) <lex>adj.</lex> <i>unkörperlich</i>: द्वे वाव ब्रह्मणो रूपे मूर्तं चैवामूर्तं च <ls>ŚAT. BR. 14, 5, 3, 1.</ls> = <ls>BṚH. ĀR. UP. 2, 3, 1.</ls> <ls>MUṆḌ. UP. 2, 1, 2.</ls> <ls>PRAŚNOP. 1, 5.</ls> <ls>KATHĀS. 20, 70.</ls> <ls>PRAB. 71, 13.</ls> <ls>VOP. 23, 29.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अमूर्त",
+            "eid": "5286",
+            "pagenum": 4,
+            "content": "अमूर्त¦ 1〉 <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>MĀRK. P. 26,19</ls>."
+        },
+        {
+            "word": "अमूर्त",
+            "eid": "12466",
+            "pagenum": 7,
+            "content": "अमूर्त¦ I. 4."
+        }
     ]
 }

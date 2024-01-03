@@ -31,5 +31,85 @@
             "pagenum": 484,
             "content": "prasTita¦ <i>a. (f. ता)</i> Set out, departed, gone on a journey."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रस्थित",
+            "eid": "138374",
+            "pagenum": 699,
+            "content": "प्र/-स्थित ¦ <lex>mfn.</lex> set forth, prepared, ready (as sacrifice), <ls>RV.</ls>; <ls>Br.</ls>; <ls>ŚrS.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "प्रस्थित",
+            "eid": "138375",
+            "pagenum": 699,
+            "content": "¦ rising, upright, <ls>RV.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "प्रस्थित",
+            "eid": "138376",
+            "pagenum": 699,
+            "content": "¦ standing forth, prominent, <ls>AV.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "प्रस्थित",
+            "eid": "138377",
+            "pagenum": 699,
+            "content": "¦ appointed, installed, <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "प्रस्थित",
+            "eid": "138378",
+            "pagenum": 699,
+            "content": "¦ set out, departed, gone to (<ab>acc.</ab> with or without प्रति <ab>dat.</ab> or <ab>loc.</ab>) or for the purpose of (<ab>dat.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "प्रस्थित",
+            "eid": "138379",
+            "pagenum": 699,
+            "content": "¦ (-वत् <lex type='phw'>mfn.</lex> = प्र-तस्थे, ‘he has set out’, <ls>Kathās.</ls>)<info phwchild='138384.2'/><info lex='inh'/>"
+        },
+        {
+            "word": "प्रस्थित",
+            "eid": "138380",
+            "pagenum": 699,
+            "content": "¦ (<ab>ifc.</ab>) reaching to, <ls>Śak. vii, 4/3</ls> (<ab>v.l.</ab> प्रति-ष्ठित)<info lex='inh'/>"
+        },
+        {
+            "word": "प्रस्थित",
+            "eid": "138382",
+            "pagenum": 699,
+            "content": "प्र/-स्थित ¦ <lex>n.</lex> setting out, going away, departure, <ls>Bhartṛ.</ls><info lex='n'/>"
+        },
+        {
+            "word": "प्रस्थित",
+            "eid": "138383",
+            "pagenum": 699,
+            "content": "¦ <ab>N.</ab> of <ab>partic.</ab> <s1 slp1='soma'>Soma</s1> vessels (See next)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रस्थित",
+            "eid": "33292",
+            "pagenum": 650,
+            "content": "<i>Pra-sthita, as, ā, am,</i>¦ set forth, set out, departed, gone; an epithet of particular Soma vessels (Ved.). <i>—Prasthita-yājyā,</i> f., Ved. a particular Yājyā recited during the oblation offered with the Soma vessels called <i>pra-sthita.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रस्थित",
+            "eid": "73646",
+            "pagenum": 4,
+            "content": "प्रस्थित¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>1.</hom> स्था mit प्र <div n='1'>— 2〉 <lex>n.</lex> <i>Aufbruch, Weggang</i> <ls>Spr. 4646</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रस्थित",
+            "eid": "50215",
+            "pagenum": 4,
+            "content": "प्रस्थित¦ s. u. स्था mit प्र. °याज्या <lex>f.</lex> <i>diejenige</i> <is>Yājyā</is>, <i>welche bei der Darbringung der</i> <is>Soma</is>- <i>Schalen, welche</i> प्रस्थित <i>heissen, gesprochen werden</i>, <ls>AIT. BR. 5, 10.</ls>"
+        }
     ]
 }

@@ -20,5 +20,37 @@
             "pagenum": 250,
             "content": "<i>piñcha</i>¦ (IA 18), bunch of feathers carried by a Jain ascetic."
         }
+    ],
+    "MW": [
+        {
+            "word": "पिञ्छ",
+            "eid": "123555",
+            "pagenum": 624,
+            "content": "पिञ्छ ¦ <lex>n.</lex> a wing (= पिच्छ), <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पिञ्छ",
+            "eid": "29176",
+            "pagenum": 572,
+            "content": "<i>Piñcha, am,</i>¦ n. a wing (<i>= piccha</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पिञ्छ",
+            "eid": "66789",
+            "pagenum": 4,
+            "content": "*पिञ्छ¦ <lex>n.</lex> <i>Flügel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पिञ्छ",
+            "eid": "45102",
+            "pagenum": 4,
+            "content": "पिञ्छ¦ <lex>n.</lex> = पिच्छ <i>Flügel</i> <ls>H. 1317</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

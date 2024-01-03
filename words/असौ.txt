@@ -39,5 +39,43 @@
             "pagenum": 123,
             "content": "<b>asaú,</b>¦ <i>see</i> <ls n='wg,501'>501</ls> <i>and</i> <b>adas.</b>"
         }
+    ],
+    "MD": [
+        {
+            "word": "असौ",
+            "eid": "3234",
+            "pagenum": 35,
+            "content": "असौ¦ a-s-aú, <lex>prn.</lex> <lex>m.</lex> <lex>f.</lex> <i>of</i> ad-ás, that; he, 🞄she; so and so, <ab n='???'>M. or N.</ab>; as such (<i>emphatic</i>); 🞄<i>with</i> <b>eva,</b> the same."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असौ",
+            "eid": "21204",
+            "pagenum": 122,
+            "content": "असौ/ (<ab>nom.</ab>) and अ/सौ (<ab>voc.</ab>); ¦ See अद/स् and अमु."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असौ",
+            "eid": "12777",
+            "pagenum": 1,
+            "content": "असौ/¦ <ab>Nom.</ab> <ab>Sg.</ab> <lex>m.</lex> <lex>f.</lex> <i>jener, jene</i>. <ab>Vergl.</ab> अदस्, अमी, अमु."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "असौ",
+            "eid": "4024",
+            "pagenum": 3,
+            "content": "अ/सौ¦ <ab>Voc.</ab> zu असौ/ <ab>Nom.</ab> <ls>MAITR. S. 1,4,2</ls>. <ls n='MAITR. S.'>2,4,8</ls>. <ls>KAUṢ. UP. 2,4</ls>. <ls n='KAUṢ. UP. 2,'>11</ls>. <ls>ĀŚV. GṚHY. 1,14,7</ls>."
+        },
+        {
+            "word": "असौ",
+            "eid": "13702",
+            "pagenum": 7,
+            "content": "असौ¦ I. 3."
+        }
     ]
 }

@@ -23,5 +23,43 @@
             "pagenum": 129,
             "content": "udaNmuKa¦ <i>a.</i> facing the north, <ls>Megh.</ls>i.14."
         }
+    ],
+    "MD": [
+        {
+            "word": "उदङ्मुख",
+            "eid": "4473",
+            "pagenum": 50,
+            "content": "उदङ्मुख¦ udaṅ-mukha, <lex>a.</lex> facing northwards."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उदङ्मुख",
+            "eid": "32293",
+            "pagenum": 184,
+            "content": "उदङ्—मुख ¦ <lex>mf(ई)n.</lex> turned upwards, <ls>Bālar.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "उदङ्मुख",
+            "eid": "32294",
+            "pagenum": 184,
+            "content": "¦ facing the north, <ls>KātyŚr.</ls>; <ls>ChUp.</ls>; <ls>Mn.</ls>; <ls>Suśr.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उदङ्मुख",
+            "eid": "18651",
+            "pagenum": 1,
+            "content": "उदङ्मुख¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>nach oben gerichtet</i> <ls>BĀLAR. 90,7</ls>. <div n='1'>— 2〉 <i>mit nach Norden gewandtem Gesicht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उदङ्मुख",
+            "eid": "11189",
+            "pagenum": 1,
+            "content": "उदङ्मुख¦ (उदञ्च् + मुख) <lex>adj.</lex> <i>dessen Gesicht nach Norden gerichtet ist</i> <ls>KĀTY. ŚR. 5, 10, 4.</ls> <ls>CHĀND. UP. 2, 24, 3.</ls> <ls>M. 2, 52. 61. 70. 4, 50. 8, 87.</ls> <ls>MBH. 1, 4647. fg.</ls> <ls n='MBH.'>3, 10.</ls> <ls>R. 2, 46, 30.</ls> <ls>SUŚR. 1, 158, 18.</ls> <ls>RAGH. 5, 59.</ls> <ls>MEGH. 14.</ls>"
+        }
     ]
 }

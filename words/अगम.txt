@@ -76,5 +76,69 @@
             "pagenum": 3,
             "content": "agama¦ <i>m.</i> 1. A mountain; 2. a tree."
         }
+    ],
+    "MD": [
+        {
+            "word": "अगम",
+            "eid": "231",
+            "pagenum": 2,
+            "content": "अगम¦ a-gama, <lex>a.</lex> immovable; <lex>m.</lex> tree."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अगम",
+            "eid": "799",
+            "pagenum": 4,
+            "content": "अ-गम ¦ <lex>mfn.</lex> not going, unable to go<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अगम",
+            "eid": "799.01",
+            "pagenum": 1308,
+            "content": "¦ impassable, <ls>MBh.</ls><info n='sup'/><info lex='inh'/>"
+        },
+        {
+            "word": "अगम",
+            "eid": "799.1",
+            "pagenum": 4,
+            "content": "अ-गम ¦ <lex>m.</lex> a mountain, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अगम",
+            "eid": "799.2",
+            "pagenum": 4,
+            "content": "¦ a tree [<ab>cf.</ab> अ-ग]. <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अगम",
+            "eid": "224",
+            "pagenum": 4,
+            "content": "अगम¦ <i>a-gama, as, ā, am,</i> not going, unable to go; (<i>as</i>), m. a mountain, a tree [cf. 2. <i>a-ga</i>]."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अगम",
+            "eid": "439",
+            "pagenum": 1,
+            "content": "अगम¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>unbeweglich</i>. <div n='2'>— b〉 <i>unzugänglich</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Baum</i>. <div n='2'>— b〉 *<i>Berg</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अगम",
+            "eid": "309",
+            "pagenum": 1,
+            "content": "अगम¦ (3. अ + गम) <div n='1'> 1) <lex>adj.</lex> <i>nicht gehend.</i> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Baum</i> <ls>AK. 2, 4, 1, 5.</ls> <ls>H. 1114.</ls> <ls>N. 12, 76.</ls> <div n='2'>— b) <i>Berg</i> <ls>ŚKDR.</ls> <div n='v'>— Vgl. अग, अगच्छ und नग ."
+        },
+        {
+            "word": "अगम",
+            "eid": "62570",
+            "pagenum": 5,
+            "content": "अगम¦ <lex>adj.</lex> <i>sich nicht bewegend, unbeweglich</i>: यक्तिंचिज्जङ्गमागमम् <ls>MBH. 3, 11853.</ls> <i>unzugänglich</i> (Gegens. गम्य) <ls n='MBH. 3,'>8247.</ls> - m. <i>Baum</i> <ls>R. 5, 16, 20.</ls> <ls>Spr. 997, v. l.</ls>"
+        }
     ]
 }

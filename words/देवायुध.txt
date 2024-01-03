@@ -20,5 +20,35 @@
             "pagenum": 342,
             "content": "deva-AyuDa¦ <i>n.</i> 1. a divine weapon; 2. rainbow."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवायुध",
+            "eid": "96230",
+            "pagenum": 495,
+            "content": "devA<srs/>yu/Da ¦ <lex>n.</lex> ‘weapon of the <ab n='gods'>g°</ab>’, <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>TBr.</ls><info lex='n'/>"
+        },
+        {
+            "word": "देवायुध",
+            "eid": "96231",
+            "pagenum": 495,
+            "content": "¦ the rainbow, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवायुध",
+            "eid": "52636",
+            "pagenum": 3,
+            "content": "देवायु/ध¦ <lex>n.</lex> <div n='1'>— 1〉 <i>die Waffen der Götter,</i> so <ab>v. a.</ab> <i>der Vorkämpfer der <ab n='Götter'>G.</ab></i> (<is>Indra</is>) <ls>TBR. 2,5,6,4</ls>. <div n='1'>— 2〉 *<i>Regenbogen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवायुध",
+            "eid": "34762",
+            "pagenum": 3,
+            "content": "देवायुध¦ (देव + आ°) <lex>n.</lex> <is>Indra's</is> <i>Bogen, Regenbogen</i> <ls>H. 179.</ls>"
+        }
     ]
 }

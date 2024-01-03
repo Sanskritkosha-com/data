@@ -35,5 +35,69 @@
             "pagenum": 646,
             "content": "<b>drāpí,</b>¦ <ab>m.</ab>, [<ls>Fi. 〔97〕</ls>, wo <lang>lit.</lang> drapaná „Kleid, Gewand“ verglichen ist, <ab>vgl.</ab> <lang>französ.</lang> drap, wofür celtischer Ursprung zu vermuthen ist] <i>Mantel, Gewand</i>. <div n='TS'>-ím {25,13}; {116,10}; {349,2}; {798,14}; {812,9}."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्रापि",
+            "eid": "97793",
+            "pagenum": 501,
+            "content": "<hom>1.</hom> द्रापि/ ¦ <lex>m.</lex> mantle, garment, <ls>RV.</ls>; <ls>AV.</ls><info lex='m'/>"
+        },
+        {
+            "word": "द्रापि",
+            "eid": "97794",
+            "pagenum": 501,
+            "content": "<hom>2.</hom> द्रापि ¦ <lex>mfn.</lex> (<ab>Caus.</ab> of √ <hom>2.</hom> द्रा) causing to run (said of <s1 slp1='rudra'>Rudra</s1>), <ls>VS. xvi, 47</ls>; <ls>Mahīdh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "द्रापि",
+            "eid": "22994",
+            "pagenum": 440,
+            "content": "द्रापि 1¦. <i>drāpi, is,</i> m., Ved. a mantle, garment."
+        },
+        {
+            "word": "द्रापि",
+            "eid": "22995",
+            "pagenum": 440,
+            "content": "द्रापि 2¦. <i>drāpi, is,</i> m. (according to Mahīdhara fr. the Caus. of rt. 2. <i>drā</i>), Ved. ‘one who causes to run,’ epithet of Rudra."
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्रापि",
+            "eid": "53422",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> द्रा/पि¦ <lex>m.</lex> <i>Mantel, Gewand</i>."
+        },
+        {
+            "word": "द्रापि",
+            "eid": "53423",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> द्रापि¦ <lex>Adj.</lex> <i>laufen machend</i> <ls>VS.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्रापि",
+            "eid": "35337",
+            "pagenum": 3,
+            "content": "1. द्रा/पि¦ <lex>m.</lex> <i>Mantel, Gewand</i>: बिभ्र^द्द्रा\\पिं हि^र\\ण्मय\\ं वरु^णो वस्त नि\\र्णिज^म् <ls>ṚV. 1, 25, 13.</ls> जु\\जु\\रुषो^ व\\व्रिं प्रामु^ञ्चतं द्रा\\पिमि^व\\ च्यवा^नात् <ls n='ṚV. 1,'>116, 10.</ls> पिशङ्ग <ls n='ṚV.'>4, 53, 2.</ls> <ls n='ṚV.'>9, 86, 14.</ls> <ls n='ṚV. 9,'>100, 9.</ls> <ls>AV. 3, 13, 1.</ls> <div n='v'>— Vgl. हिरण्य° ."
+        },
+        {
+            "word": "द्रापि",
+            "eid": "35338",
+            "pagenum": 3,
+            "content": "2. द्रापि¦ <lex>adj.</lex> nach <ls>MAHĪDH.</ls> <i>der laufen macht</i> (vom caus. von 1. द्रा), von <is>Rudra</is> <ls>VS. 16, 47.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "द्रापि",
+            "eid": "18355",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> द्रापि/¦, so zu betonen."
+        }
     ]
 }

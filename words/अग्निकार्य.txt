@@ -44,5 +44,55 @@
             "pagenum": 10,
             "content": "<i>agni-kārya</i>¦ (EI 33; SII 3), fire-oblation."
         }
+    ],
+    "MD": [
+        {
+            "word": "अग्निकार्य",
+            "eid": "267",
+            "pagenum": 3,
+            "content": "अग्निकार्य¦ agni-kārya, <lex>n.</lex> making the sacred 🞄fire; prayers repeated in so doing."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अग्निकार्य",
+            "eid": "904",
+            "pagenum": 5,
+            "content": "अग्नि—कारिका [<ls>L.</ls>], <lex>f.</lex> and अग्नि/—कार्य [<ls>Mn.</ls> &c.], <lex>n.</lex> ¦ kindling or feeding the sacrificial fire with clarified butter &c.<info and='903,agnikArikA;904,agnikArya'/><info lex='n'/>"
+        },
+        {
+            "word": "अग्निकार्य",
+            "eid": "904.1",
+            "pagenum": 5,
+            "content": "¦ the prayers said while doing so, <ls>Kathās.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अग्निकार्य",
+            "eid": "904.2",
+            "pagenum": 5,
+            "content": "¦ cauterization.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्निकार्य",
+            "eid": "512",
+            "pagenum": 1,
+            "content": "अग्निकार्य¦ <lex>n.</lex> <div n='1'>— 1〉 <ab>dass.</ab> <div n='1'>— 2〉 <i>die dabei hergesagten Gebete</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्निकार्य",
+            "eid": "355",
+            "pagenum": 1,
+            "content": "अग्निकार्य¦ (अग्नि + कार्य) <lex>n.</lex> <i>Anlegung des heiligen Feuers</i> <ls>H. 814.</ls> <ls>M. 2, 69.</ls> <ls>YĀJÑ. 1, 25.</ls> <ls n='YĀJÑ.'>3, 281.</ls> अग्निकार्येषु च सदा सुमनोभिश्च देवताः । पूज्यास्ते <ls>R. 2, 24, 26.</ls> <ls>Verz. d. B. H.</ls> <ls>N. 1020.</ls>"
+        },
+        {
+            "word": "अग्निकार्य",
+            "eid": "62588",
+            "pagenum": 5,
+            "content": "अग्निकार्य¦ <lex>n.</lex> auch <i>die beim Anlegen des heiligen Feuers hergesagten Gebete</i>: संध्याग्निकार्यादि पठित्वा <ls>KATHĀS. 20, 40.</ls>"
+        }
     ]
 }

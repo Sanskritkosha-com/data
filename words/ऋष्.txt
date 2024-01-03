@@ -81,5 +81,47 @@
             "pagenum": 151,
             "content": "fz¦ <i>vt. 6P (pp. ऋष्ट)</i> 1. To go, to approach; 2. to injure."
         }
+    ],
+    "MD": [
+        {
+            "word": "ऋष्",
+            "eid": "5070",
+            "pagenum": 57,
+            "content": "ऋष्¦ <hom>1.</hom> ṚṢ, <cl>Ⅰ.</cl> <lex>P.</lex> <b>árṣa,</b> flow, glide. <b>abhi,</b> 🞄flow towards (<ab>ac.</ab>)."
+        },
+        {
+            "word": "ऋष्",
+            "eid": "5071",
+            "pagenum": 57,
+            "content": "ऋष्¦ <hom>2.</hom> ṚṢ, <cl>Ⅵ.</cl> <lex>P.</lex> <b>-ṛṣá,</b> pierce, push, 🞄thrust, <b>ni,</b> put in; conceal; fill: <ab>pp.</ab> 🞄<b>nyṛṣṭa,</b> filled <i>or</i> abounding with (<ab>in.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ऋष्",
+            "eid": "39001",
+            "pagenum": 226,
+            "content": "<hom>1.</hom> ऋष् ¦ <ab>cl.</ab> 1. <ab>P.</ab> अर्षति, आनर्ष, अर्षिता, to flow, flow quickly, glide, move with a quick motion, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <div n='to'/>to bring near by flowing, <ls>RV.</ls>; <div n='vp'/> [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>ἔρση</lang> (?); <lang n='greek'>ἄψ-ορρος</lang>, ‘flowing back’; <lang n='greek'>παλίν-ορσος</lang>, ‘darting back’.]<info whitneyroots='fz,16'/><info verb='genuineroot' cp='1P'/>"
+        },
+        {
+            "word": "ऋष्",
+            "eid": "39039",
+            "pagenum": 226,
+            "content": "<hom>2.</hom> ऋष् ¦ <ab>cl.</ab> 6. <ab>P.</ab> ऋषति, आनर्ष, अर्षिता, to go, move, <ls>Dhātup. xxviii, 7</ls>; <div n='to'/>to stab, kill, <ls>AV. ix, 4, 17</ls>; <div n='to'/>to push, thrust.<info westergaard='fzI,28.7,06.0008'/><info whitneyroots='fz,16'/><info verb='genuineroot' cp='6P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऋष्",
+            "eid": "12672",
+            "pagenum": 181,
+            "content": "ऋष् 1¦. <i>ṛṣ</i> (connected with rt. <i>vṛṣ</i>), cl. 1. P. <i>arṣati, ānarṣa, arṣitum,</i> to flow, flow quickly; to bring anything near by flowing; to glide, to move with a gliding or quick motion; [cf. Goth. <nsi>airz-ja;</nsi> Old Germ. <nsi>irru;</nsi> Lat. <nsi>erro.</nsi>]"
+        },
+        {
+            "word": "ऋष्",
+            "eid": "12676",
+            "pagenum": 181,
+            "content": "ऋष् 2¦. <i>ṛṣ,</i> cl. 6. P. <i>ṛṣati, ānarṣa,</i> <i>arṣiṣyati, ārṣīt, arṣitum,</i> to push; to pierce; to go, approach."
+        }
     ]
 }

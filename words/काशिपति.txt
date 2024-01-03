@@ -19,5 +19,27 @@
             "pagenum": 366,
             "content": "<b>Kāśipati</b><sup>3</sup>¦ (do.) = Pratardana: XII, 8594 (<i>P°</i>); XIII, 6249 (<i>P°</i>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "काशिपति",
+            "eid": "49846",
+            "pagenum": 280,
+            "content": "काशि—पति ¦ <lex>m.</lex> <ab>id.</ab>, <ls>MBh. i, 4083</ls>; <ls>Bhag.</ls><info lex='m'/>"
+        },
+        {
+            "word": "काशिपति",
+            "eid": "49847",
+            "pagenum": 280,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='divodAsa'>Divodāsa</s1> <s1 slp1='Danvantari'>Dhanvantari</s1> (a king of Benares, author of certain medical works and teacher of the <s1 slp1='Ayur-veda'>Āyur-veda</s1>; he is often confounded with the celestial namesake, the physician of the gods), <ls>Suśr.</ls><info lex='inh'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "काशिपति",
+            "eid": "17013",
+            "pagenum": 2,
+            "content": "काशिपति¦ (काशि + पति) <lex>m.</lex> dass. <ls>MBH. 1, 4083.</ls> <ls>BHAG. 1, 5.</ls> so heisst <is>Divodāsa</is> <is>Dhanvantari</is>, der Lehrer des <is>Āyurveda</is>, <ls>SUŚR. 1, 6, 6. 2, 347, 16</ls> (कासि°)."
+        }
     ]
 }

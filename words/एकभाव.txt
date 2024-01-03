@@ -21,5 +21,65 @@
             "pagenum": 65,
             "content": "एकभाव¦ eins seiend (<i>auch</i> °भाविन् <i>u.</i> °भूत); <i>m.</i> das Einssein, die Einfalt."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकभाव",
+            "eid": "39477",
+            "pagenum": 228,
+            "content": "एक—भाव ¦ <lex>m.</lex> the being one, oneness, <ls>BhP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "एकभाव",
+            "eid": "39478",
+            "pagenum": 228,
+            "content": "¦ simplicity, sincerity, <ls>Pañcat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "एकभाव",
+            "eid": "39479",
+            "pagenum": 228,
+            "content": "एक—भाव ¦ <lex>mfn.</lex> of the same nature, agreeing, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकभाव",
+            "eid": "39480",
+            "pagenum": 228,
+            "content": "¦ simple, sincere, <ls>Pañcat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकभाव",
+            "eid": "21872",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> एकभाव¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das Einssein</i>. <div n='1'>— 2〉 <i>Einfalt, schlichtes und ehrliches Benehmen</i> <ls>Spr. 1878</ls>."
+        },
+        {
+            "word": "एकभाव",
+            "eid": "21873",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> एकभाव¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>eines und desselben Wesens</i>. <div n='1'>— 2〉 <i>sich einfach und offen benehmend gegen</i> (<ab>Gen.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकभाव",
+            "eid": "13313",
+            "pagenum": 1,
+            "content": "1. एकभाव¦ (एक + भाव) <lex>m.</lex> <i>das Einswerden, Einssein, Einverständniss</i> (Gegens. द्वैधीभाव): आत्मैकभावेन <ls>BHĀG. P. 4, 31, 18.</ls> स्त्रीणां शत्रोः कुमित्रस्य पण्यस्त्रीणां विशेषतः । यो भवेदेकभावेन न स जीवति मानवः ॥ <ls>PAÑCAT. III, 61.</ls> <ls n='PAÑCAT. III,'>62.</ls> एको भावः <ls n='PAÑCAT. III,'>63.</ls>"
+        },
+        {
+            "word": "एकभाव",
+            "eid": "13314",
+            "pagenum": 1,
+            "content": "2. एकभाव¦ (wie eben) <lex>adj.</lex> <i>eines und desselben Wesens</i>: या वै यूयं सो ऽहमद्यैकभावः <ls>MBH. 13, 3677.</ls>"
+        },
+        {
+            "word": "एकभाव",
+            "eid": "119206",
+            "pagenum": 7,
+            "content": "2. एकभाव¦ <i>sich einfach und offen benehmend gegen</i> (gen.) <ls>Spr. (II) 7201.</ls>"
+        }
     ]
 }

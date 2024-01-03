@@ -37,5 +37,55 @@
             "pagenum": 354,
             "content": "Darma-aDikaraRa¦ <i>(II) m.</i> a judge, a magistrate."
         }
+    ],
+    "MW": [
+        {
+            "word": "धर्माधिकरण",
+            "eid": "100387",
+            "pagenum": 512,
+            "content": "DarmA<srs/>DikaraRa ¦ <lex>n.</lex> administration or court of Justice, <ls>Pañc.</ls> (-स्थान <lex type='phw'>n.</lex> a law court, <ls>ib.</ls>)<info phwchild='100388.1'/><info lex='n'/>"
+        },
+        {
+            "word": "धर्माधिकरण",
+            "eid": "100388",
+            "pagenum": 512,
+            "content": "DarmA<srs/>DikaraRa ¦ <lex>m.</lex> a judge, magistrate, <ls>MatsyaP.</ls><info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "धर्माधिकरण",
+            "eid": "6586",
+            "pagenum": 2,
+            "content": "<i>Dharmādhikaraṇa</i>¦ — judges, generally Brahmanas. <div n='P'/>M. 215. 24 and 30; 217. 11."
+        }
+    ],
+    "PW": [
+        {
+            "word": "धर्माधिकरण",
+            "eid": "54932",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> धर्माधिकरण¦ <lex>n.</lex> <i>Gericht</i>. °णाधिष्ठितपुरुष <lex>m.</lex> <i>Gerichtsperson</i>."
+        },
+        {
+            "word": "धर्माधिकरण",
+            "eid": "54933",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> धर्माधिकरण¦ <lex>m.</lex> <i>Richter</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धर्माधिकरण",
+            "eid": "36415",
+            "pagenum": 3,
+            "content": "1. धर्माधिकरण¦ (धर्म + अधि°) <lex>n.</lex> <i>Gericht</i>: धर्मशास्त्रानुसारेण अर्थशास्त्रनिरूपणम् । यत्राधिक्रियते स्थाने धर्माधिकरणं हि तत् ॥ <ls>KĀTY.</ls> in <ls>VĪRAMITR.</ls> <ls>ŚKDR.</ls> पुरुषान्तरतत्त्वज्ञाः प्रांशवश्चाप्यलोलुपाः । धर्माधिकरणे कार्या   जनाह्वानकरा नराः ॥ <ls>MATSYA-P. 189.</ls> <ls>ŚKDR.</ls> एवं द्वावपि तौ विवदमानौ °णं गतौ <ls>PAÑCAT. 96, 25.</ls> °णाधिष्ठितपुरुषैः <ls n='PAÑCAT.'>97, 1.</ls>"
+        },
+        {
+            "word": "धर्माधिकरण",
+            "eid": "36416",
+            "pagenum": 3,
+            "content": "2. धर्माधिकरण¦ (wie eben) <lex>m.</lex> <i>Richter</i>: समः शत्रौ च मित्रे च सर्वशास्त्रविशारदः । विप्रमुख्यः कुलीनश्च °णो भवेत् ॥ <ls>MATSYA-P. 189.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

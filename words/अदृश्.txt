@@ -31,5 +31,43 @@
             "pagenum": 13,
             "content": "adfS¦ <i>a.</i> Blind."
         }
+    ],
+    "MW": [
+        {
+            "word": "अदृश्",
+            "eid": "3741",
+            "pagenum": 18,
+            "content": "अ-दृश् ¦ <lex>mfn.</lex> (√ दृश्), blind, <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अदृश्",
+            "eid": "1041",
+            "pagenum": 18,
+            "content": "अदृश्¦ <i>a-dṛś, k, k, k</i> (rt. <i>dṛś</i>), sightless, blind."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अदृश्",
+            "eid": "2506",
+            "pagenum": 1,
+            "content": "*अदृश्¦ <lex>Adj.</lex> <i>blind</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अदृश्",
+            "eid": "1738",
+            "pagenum": 1,
+            "content": "अदृश्¦ (3. अ + दृश् <i>Auge</i>) <lex>adj.</lex> <i>blind</i> <ls>AK. 2, 6, 2, 12.</ls>"
+        },
+        {
+            "word": "अदृश्",
+            "eid": "63115",
+            "pagenum": 5,
+            "content": "अदृश्¦ <ls>Spr. 4736.</ls>"
+        }
     ]
 }

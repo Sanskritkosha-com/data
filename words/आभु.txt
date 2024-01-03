@@ -31,5 +31,51 @@
             "pagenum": 180,
             "content": "<b>ābhú,</b>¦ <ab>a.</ab>, 1〉 <i>leer;</i> 2〉 <i>karg</i> oder <i>nichtig</i> [wol aus a-bhú gedehnt, <ab>vgl.</ab> ábhva]. <div n='TS'>-úm 2〉 {853,1}. _{853,4}. <div n='TS'>-ú [<ab>n.</ab>] 1〉 {955,3}."
         }
+    ],
+    "MD": [
+        {
+            "word": "आभु",
+            "eid": "3704",
+            "pagenum": 40,
+            "content": "आभु¦ ābhú, <lex>a.</lex> empty; empty-handed, niggardly."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आभु",
+            "eid": "25330",
+            "pagenum": 145,
+            "content": "आभु/ ¦ <lex>mfn.</lex> empty, void, <ls>RV. x, 129, 3</ls> (‘pervading, reaching’, <ls>Sāy.</ls>), <ls>VS.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आभु",
+            "eid": "25331",
+            "pagenum": 145,
+            "content": "¦ one whose hands are empty, stingy, <ls>RV. x, 27, 1</ls>; <ls n='RV. x, 27,'>4.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आभु",
+            "eid": "8857",
+            "pagenum": 125,
+            "content": "आभु¦ <i>ābhu, us, us, u,</i> Ved. empty; one whose hands are empty; stingy; (Sāy.) pervading, reaching."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आभु",
+            "eid": "15103",
+            "pagenum": 1,
+            "content": "आभु/¦ <lex>Adj.</lex> <div n='1'>— 1〉 leer. <div n='1'>— 2〉 leerhändig, karg."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आभु",
+            "eid": "8885",
+            "pagenum": 1,
+            "content": "आभु/¦ <lex>adj.</lex> <div n='1'> 1) <i>leer</i>: आ\\भुर^स्य निषङ्ग\\धिः <ls>VS. 16, 10.</ls> तु\\च्छ्येना\\भ्वपि^हित\\ं यदासी^त् <ls>ṚV. 10, 129, 3.</ls> <div n='1'>— 2) <i>leerhändig, karg</i>: स\\त्य\\ध्वृत^ं वृजिना\\यन्त^मा\\भुम् <ls>ṚV. 10, 27, 1.</ls> जि\\नामि\\ वेत्क्षेम\\ आ सन्त^मा\\भुम् <ls n='ṚV. 10, 27,'>4.</ls> <div n='v'>— Vgl. आभूक ."
+        }
     ]
 }

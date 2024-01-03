@@ -60,5 +60,51 @@
             "pagenum": 538,
             "content": "BOrika¦ <i>m.</i> The superintendent of gold in a royal treasury."
         }
+    ],
+    "MD": [
+        {
+            "word": "भौरिक",
+            "eid": "13432",
+            "pagenum": 211,
+            "content": "भौरिक¦ bhauri-ka, <lex>m.</lex> treasurer, master of 🞄the mint."
+        }
+    ],
+    "MW": [
+        {
+            "word": "भौरिक",
+            "eid": "153425",
+            "pagenum": 768,
+            "content": "भौरिक ¦ <lex>m.</lex> (<ab>fr.</ab> भूरि, gold) a treasurer, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "भौरिक",
+            "eid": "153426",
+            "pagenum": 768,
+            "content": "¦ (<ab>pl.</ab>) <ab>N.</ab> of a country belonging to <s1 slp1='prAcya'>Prācya</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भौरिक",
+            "eid": "35878",
+            "pagenum": 724,
+            "content": "<i>Bhaurika, as,</i>¦ m. the superintendent of gold in a royal treasury, a treasurer, (fr. <i>bhūri,</i> gold.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "भौरिक",
+            "eid": "81140",
+            "pagenum": 4,
+            "content": "भौरिक¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Schatzmeister;</i> eher <i>Münzmeister</i> <ls>HARṢAC. 30,5</ls>. <div n='1'>— 2〉 *<lex>f.</lex> ई <i>Münzstätte</i> <ls>GAL.</ls> — भौरिकी <ab>s.</ab> auch <ab n='unter'>u.</ab> भौरिकि."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भौरिक",
+            "eid": "55926",
+            "pagenum": 5,
+            "content": "भौरिक¦ (von भूरि <i>Gold)</i> <lex>m.</lex> <i>Schatzmeister</i> <ls>AK. 2, 8, 1, 7.</ls> <ls>H. 723.</ls>"
+        }
     ]
 }

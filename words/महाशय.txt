@@ -75,5 +75,53 @@
             "pagenum": 560,
             "content": "mahA-ASaya¦ <i>(II) m.</i> 1. a liberal gentleman; 2. the ocean."
         }
+    ],
+    "MW": [
+        {
+            "word": "महाशय",
+            "eid": "160913",
+            "pagenum": 801,
+            "content": "mahA<srs/>°Saya ¦ (°hA<srs/>S°), <lex>m.</lex> ‘great receptacle’, the ocean, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "महाशय",
+            "eid": "160913.1",
+            "pagenum": 801,
+            "content": "mahA<srs/>—°Saya ¦ <lex>mfn.</lex> having a noble disposition, high-minded, magnanimous, noble, liberal, open, unsuspicious, <ls>AṣṭāvS.</ls>; <ls>Hit.</ls>; <ls>Kathās.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "महाशय",
+            "eid": "160913.2",
+            "pagenum": 801,
+            "content": "mahA<srs/>—°Saya ¦ <lex>m.</lex> a respectable person, gentleman (sometimes a term of respectful address = Sir, Master), <ls>MW.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महाशय",
+            "eid": "85073",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> महाशय¦ <lex>m.</lex> <i>das Meer</i>."
+        },
+        {
+            "word": "महाशय",
+            "eid": "85074",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> महाशय¦ <lex>Adj.</lex> <i>hochgesinnt, edel</i> (Person)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महाशय",
+            "eid": "59031",
+            "pagenum": 5,
+            "content": "1. महाशय¦ (महा + आ°) <lex>m.</lex> <i>der grosse</i> (Wasser-) <i>Behälter, das Meer</i> <ls>TRIK. 1, 2, 8.</ls> <ls>H. ś. 166.</ls>"
+        },
+        {
+            "word": "महाशय",
+            "eid": "59032",
+            "pagenum": 5,
+            "content": "2. महाशय¦ (wie eben) <lex>adj.</lex> <i>hochgesinnt, edel</i>; von Personen <ls>AK. 3, 1, 3.</ls> <ls>H. 367.</ls> <ls>AṢṬĀV. 3, 10. 17, 5. 12. 18, 28.</ls> <ls>Spr. 3510.</ls> <ls>VID. 59. 134.</ls> <ls>KATHĀS. 39, 231. 45, 82. 46, 231. 72, 128.</ls> <ls>RĀJA-TAR. 3, 148.</ls> <ls>HIT. 120, 15. 18.</ls>"
+        }
     ]
 }

@@ -63,5 +63,49 @@
             "pagenum": 399,
             "content": "nErukta¦ <i>m.</i> One who knows the etymology of words, a philologist."
         }
+    ],
+    "MW": [
+        {
+            "word": "नैरुक्त",
+            "eid": "112432",
+            "pagenum": 570,
+            "content": "नैर्—उक्त ¦ <lex>mfn.</lex> based on etymology, explained etymologically, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "नैरुक्त",
+            "eid": "112433",
+            "pagenum": 570,
+            "content": "¦ relating to the <s1 slp1='nirukta'>Nirukta</s1> (<ab>q.v.</ab>), explaining it <ab>g.</ab> fgayanA<srs/>di<info lex='inh'/>"
+        },
+        {
+            "word": "नैरुक्त",
+            "eid": "112434",
+            "pagenum": 570,
+            "content": "नैर्—उक्त ¦ <lex>m.</lex> (also -उक्तिक <ab>g.</ab> ukTA<srs/>di) a knower of the derivation of words, an etymologist, <ls>Nir.</ls>; <ls>Mn.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नैरुक्त",
+            "eid": "26500",
+            "pagenum": 517,
+            "content": "नैरुक्त¦ <i>nairukta, as, ī, am</i> (fr. <i>nir-ukta</i>), relating to the Nirukta (q. v.), explaining it; resting on etymology, explained etymologically; (<i>as</i>), m. one who knows the etymology or true derivation of words."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नैरुक्त",
+            "eid": "61270",
+            "pagenum": 3,
+            "content": "नैरुक्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>auf der Etymologie beruhend, etymologisch erklärt</i>. <div n='2'>— b〉 *<i>das</i> <is>Nirukta</is> <i>betreffend, dasselbe erklärend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>ein Kenner der Etymologie, der wahren Bedeutung der Wörter</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नैरुक्त",
+            "eid": "40948",
+            "pagenum": 4,
+            "content": "नैरुक्त/¦ (von निरुक्त) <lex>adj.</lex> <i>das</i> <is>Nirukta</is> <i>betreffend, dasselbe erklärend</i> <is>gaṇa</is> ऋगयनादि zu <ls>P. 4, 3, 73.</ls> <i>auf der Etymologie beruhend, etymologisch erklärt</i>: नाम नैरुक्तमेतत् <ls>MBH. 13, 4485.</ls> <ls n='MBH. 13,'>4489.</ls> m. <i>ein Kenner der Etymologie, der wahren Bedeutung der Wörter</i> <ls>NIR. 1, 12. 6, 11. 11, 19, 29. 31. 12, 10. 13, 9.</ls> <ls>M. 12, 111.</ls> <ls>Ind. St. 2, 39,</ls> <ls>N.</ls>"
+        }
     ]
 }

@@ -23,5 +23,57 @@
             "pagenum": 50,
             "content": "अशस्त्र¦ <lex>a.</lex> unarmed."
         }
+    ],
+    "MD": [
+        {
+            "word": "अशस्त्र",
+            "eid": "3025",
+            "pagenum": 32,
+            "content": "अशस्त्र¦ a-śastra, <lex>a.</lex> swordless, unarmed: 🞄<b>-pāṇi,</b> <lex>a.</lex> having no sword in the hand; <b>-pūta,</b> 🞄<ab>pp.</ab> not consecrated by the sword; <b>-vadha,</b> <lex>m.</lex> 🞄murder without a weapon."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अशस्त्र",
+            "eid": "19520",
+            "pagenum": 113,
+            "content": "<hom>1.</hom> अ-शस्त्र ¦ <lex>mf(आ)n.</lex> having no invocation, <ls>MārkP.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "अशस्त्र",
+            "eid": "19521",
+            "pagenum": 113,
+            "content": "<hom>2.</hom> अ-शस्त्र ¦ <lex>mfn.</lex> (√ <hom>1.</hom> शस्), weaponless, unarmed, <ls>MBh.</ls> &c.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अशस्त्र",
+            "eid": "7183",
+            "pagenum": 99,
+            "content": "अशस्त्र¦ <i>a-śastra, as, ā, am</i> (rt. <i>śas,</i> to hurt), weaponless, unarmed."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अशस्त्र",
+            "eid": "11509",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अशस्त्र¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>keinen Anruf habend</i>."
+        },
+        {
+            "word": "अशस्त्र",
+            "eid": "11510",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अशस्त्र¦ <lex>Adj.</lex> <i>schwertlos, unbewaffnet</i> <ls>MBH. 12,95,5</ls>. <ls>BHAG. 1,46</ls>. <ls>MṚCCH. 102,4</ls>."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अशस्त्र",
+            "eid": "13337",
+            "pagenum": 7,
+            "content": "<hom>3.</hom> *अशस्त्र¦ <lex>n.</lex> <ab>Instr.</ab> <i>ohne Anwendung von Waffen</i> <ls>MAHĀVY. 182</ls>."
+        }
     ]
 }

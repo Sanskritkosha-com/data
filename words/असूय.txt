@@ -31,5 +31,57 @@
             "pagenum": 123,
             "content": "<b>√asūya</b>¦ <b>(asūyáti).</b> be impatient."
         }
+    ],
+    "MD": [
+        {
+            "word": "असूय",
+            "eid": "3222",
+            "pagenum": 35,
+            "content": "असूय¦ <hom>1.</hom> asūya, <ab>den.</ab> grumble, be angry at (<ab>ac.</ab>, 🞄<ab>d.</ab>); <ab>cs.</ab> <b>asūyaya,</b> <lex>P.</lex> irritate."
+        },
+        {
+            "word": "असूय",
+            "eid": "3223",
+            "pagenum": 35,
+            "content": "असूय¦ <hom>2.</hom> asūya, <lex>a.</lex> grumbling, angry: <b>ā,</b> <lex>f.</lex> 🞄grumbling, displeasure, anger, grudge: <b>-ka,</b> 🞄<lex>a.</lex> grumbling, angry, grudging."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असूय",
+            "eid": "21139",
+            "pagenum": 121,
+            "content": "<hom>1.</hom> असूय ¦ <ab>Nom.</ab> <ab>P.</ab> °यति, rarely <ab>Ā.</ab> °यते (<ab>pr. p.</ab> °य/त्, <ls>RV. x, 135, 2</ls>; <ls>ŚBr.</ls>; <ab>aor.</ab> आसूयीत्, <ls>ŚBr. iii</ls>; 3. <ab>pl.</ab> असूयिषुः, <ls>Rājat.</ls>) <div n='to'/>to murmur at, be displeased or discontented with (<ab>dat.</ab> [<ls>ŚBr.</ls>; <ls>Pāṇ. i, 4, 37</ls>, &c.] or <ab>acc.</ab> [<ls>MBh.</ls>; <ls>R.</ls> &c.]) : <div n='vp'/><ab>Caus.</ab> (<ab>ind.p.</ab> असूययित्वा) to cause to be displeased, irritate, <ls>MBh. iii, 2624</ls> (<ls>N.</ls>)<info verb='nom' cp='PĀ'/>"
+        },
+        {
+            "word": "असूय",
+            "eid": "21140",
+            "pagenum": 121,
+            "content": "<hom>2.</hom> असूय ¦ <lex>mfn.</lex> grumbling at, displeased with (<ab>loc.</ab>), <ls>MBh. xiii, 513</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असूय",
+            "eid": "7585",
+            "pagenum": 106,
+            "content": "असूय¦ <i>asūya</i> (fr. <i>asu</i>), nom. P. A. <i>asūyati,</i> <i>-te, -yitum,</i> to murmur at, to detract from, depreciate; to envy, scorn, be displeased or discontented with, or grumble at (with dat. or acc.): Caus. <i>asū-</i> <i>yayati, -yitum,</i> to cause to murmur or be displeased or discontented."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असूय",
+            "eid": "12739",
+            "pagenum": 1,
+            "content": "असूय¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>murrend, grollend, ungehalten über</i>. <div n='1'>— 2〉 <lex>f.</lex> आ <i>das Murren, Ungehaltensein, Unlust, Unwille,</i> <ab>Insbes.</ab> <i>über die Verdienste oder das Wohlergehen Anderer, Missgunst</i> <ls>ĀPAST.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "असूय",
+            "eid": "65921",
+            "pagenum": 5,
+            "content": "असूय¦ <lex>adj.</lex> <i>murrend, ungehalten über Jmd</i> (loc.): गुरुषु <ls>MBH. 13, 513.</ls>"
+        }
     ]
 }

@@ -31,5 +31,35 @@
             "pagenum": 163,
             "content": "<b>tamo-bhūta,</b>¦ <i><ab>a.</ab></i> dark, enveloped in darkness. <lbinfo n='dark-ness.'/> [<ab>lit.</ab> ‘become darkness,’ <b>tamas:</b> <ls n='wg,1273'>1273c</ls>.]"
         }
+    ],
+    "MW": [
+        {
+            "word": "तमोभूत",
+            "eid": "82980",
+            "pagenum": 438,
+            "content": "तमो—भूत ¦ <lex>mfn.</lex> ‘become darkness’, covered with darkness, <ls>Mn. i, 5</ls>; <ls>Bhartṛ. i, 14</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तमोभूत",
+            "eid": "82981",
+            "pagenum": 438,
+            "content": "¦ ignorant, <ls>Mn. xii, 115.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तमोभूत",
+            "eid": "44728",
+            "pagenum": 3,
+            "content": "तमोभूत¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>dunkel, in Finsterniss gehüllt</i>. <div n='1'>— 2〉 <i>dumm, einfältig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तमोभूत",
+            "eid": "28854",
+            "pagenum": 3,
+            "content": "तमोभूत¦ (तमस् + भूत) <lex>adj.</lex> <i>dunkel, in Finsterniss gehüllt</i>: आसीदिदं   तमोभूतम् <ls>M. 1, 5.</ls> <ls>BHARTṚ. 1, 14.</ls> so v. a. <i>einfältig</i>: यं वदन्ति तमोभूता मूर्खा धर्ममतद्विदः <ls>M. 12, 115.</ls>"
+        }
     ]
 }

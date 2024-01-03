@@ -45,5 +45,35 @@
             "pagenum": 512,
             "content": "brahman-maya¦ <i>(II) n.</i> a weapon presided over by Brahman (m.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्ममय",
+            "eid": "146909",
+            "pagenum": 739,
+            "content": "ब्रह्म—मय ¦ <lex>mf(ई)n.</lex> formed or consisting of or identified with <s1 slp1='brahma'>Brahmă</s1>, <ls>AitBr.</ls>; <ls>KauṣUp.</ls>; <ls>MBh.</ls> &c.<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "ब्रह्ममय",
+            "eid": "146910",
+            "pagenum": 739,
+            "content": "¦ belonging to or fit for a <ns>Brāhman</ns>, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्ममय",
+            "eid": "77983",
+            "pagenum": 4,
+            "content": "ब्रह्ममय¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>aus dem</i> <is>Brahman</is> <i>bestehend, daraus gebildet</i> <ls>VP. 5,8,56</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्ममय",
+            "eid": "53440",
+            "pagenum": 5,
+            "content": "ब्रह्ममय¦ (von 1. ब्रह्मन्) <lex>adj.</lex> <lex>f.</lex> ई <i>aus dem</i> <is>Brahman</is> <i>bestehend, daraus gebildet</i> <ls>AIT. BR. 1, 22.</ls> <ls n='AIT. BR.'>2, 40.</ls> <ls>KAUṢ. UP. 1, 7.</ls> <ls>MBH. 5, 2412.</ls> <ls n='MBH.'>12, 1582.</ls> <ls n='MBH. 12,'>6811.</ls> <ls n='MBH.'>14, 1181. fg.</ls> <ls n='MBH. 14,'>1428. fg.</ls> <ls>HARIV. 11588.</ls> <ls n='HARIV.'>11806.</ls> <ls>KUMĀRAS. 5, 30.</ls> <ls>BHĀG. P. 4, 9, 4. 15, 16. 9, 10, 2.</ls> <ls>Verz. d. Oxf. H. No. 123.</ls>"
+        }
     ]
 }

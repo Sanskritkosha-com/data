@@ -23,5 +23,75 @@
             "pagenum": 321,
             "content": "म/न्था¦ <i>f.</i> Quirl, Rührtrank."
         }
+    ],
+    "MD": [
+        {
+            "word": "मन्था",
+            "eid": "13725",
+            "pagenum": 218,
+            "content": "मन्था¦ manth-ā, <lex>m.</lex> (?; <i>only</i> <ab>nm.</ab> <b>-s</b>) churningstick; 🞄<lex>f.</lex> <b>mánthā,</b> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मन्था",
+            "eid": "157554",
+            "pagenum": 787,
+            "content": "मन्था <hom>a</hom> ¦ <lex>f.</lex> See below<info lex='f'/>"
+        },
+        {
+            "word": "मन्था",
+            "eid": "157582",
+            "pagenum": 787,
+            "content": "<hom>1.</hom> म/न्था ¦ form from which comes <ab>nom.</ab> (<lex>m.</lex>) म/न्थास् <ab>acc.</ab> °थाम्<info lex='m'/>"
+        },
+        {
+            "word": "मन्था",
+            "eid": "157582.1",
+            "pagenum": 787,
+            "content": "¦ See मथि/न्, <pcol>p. 777, col. 1</pcol>."
+        },
+        {
+            "word": "मन्था",
+            "eid": "157583",
+            "pagenum": 787,
+            "content": "<hom>2.</hom> म/न्था ¦ <lex>f.</lex> a churning-stick <ab>B.</ab><info lex='f'/>"
+        },
+        {
+            "word": "मन्था",
+            "eid": "157584",
+            "pagenum": 787,
+            "content": "¦ a mixed beverage, <ls>AV.</ls>; <ls>ŚāṅkhŚr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मन्था",
+            "eid": "157585",
+            "pagenum": 787,
+            "content": "¦ <bot>Trigonella Foenum Graecum</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मन्था",
+            "eid": "36412",
+            "pagenum": 745,
+            "content": "<i>Manthā,</i>¦ f. a churning-stick; (<i>= methikā</i>), Trigonella Fœnum Græcum."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मन्था",
+            "eid": "83214",
+            "pagenum": 5,
+            "content": "मन्था¦ <div n='1'>— 1〉 *<lex>m.</lex> (nur <ab>Nom.</ab> मन्थास्) <i>Butterstössel</i>. <div n='1'>— 2〉 <lex>f.</lex> म/न्थ <div n='2'>— a〉 <i>Quirl</i>. <div n='2'>— b〉 = मन्थ/ 1〉c〉 <ls>AV. 20,127,9</ls> (<ab>Hdschrr.</ab>). <ls>ŚĀṄKH. ŚR. 12,17,3</ls>. <div n='2'>— c〉 *<i><bot>Trigonella foenum graecum</bot></i> <ls>RĀJAN. 6,70</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मन्था",
+            "eid": "57571",
+            "pagenum": 5,
+            "content": "म/न्था¦ (von मन्थ्) <lex>f.</lex> <div n='1'> 1) <i>Quirl</i>: यत्र\\ मन्था^ं विब\\ध्नते^ <ls>ṚV. 1, 28, 4.</ls> Das <lex>m.</lex> मन्था s. u. 2. मथ् . <div n='1'>— 2) = मेथिका <i>Trigonella Foenum graecum Lin.</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

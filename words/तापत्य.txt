@@ -35,5 +35,51 @@
             "pagenum": 674,
             "content": "<b>Tāpatya</b>,¦ adj. (“relating to Tapatī”). § 11 (Parvasaṅgr.): I, <b>2</b>, 387 (<i>ākhyānaṃ</i>, i.e. Tapatyupākhyāna)."
         }
+    ],
+    "MCI": [
+        {
+            "word": "तापत्य",
+            "eid": "707",
+            "pagenum": 183,
+            "content": "<b>Tāpatya</b>¦ nt.: Name of an <i>ākhyāna</i> (related to Tapatī). <div n='P'>Listed in the contents of the Ādiparvan 1. 2. 87; related to the incidents narrated in the <i>adhyāyas</i> 1. 160-163."
+        }
+    ],
+    "MW": [
+        {
+            "word": "तापत्य",
+            "eid": "83903",
+            "pagenum": 442,
+            "content": "तापत्य ¦ <lex>mfn.</lex> relating to <s1 slp1='tapatI'>Tapatī</s1>, <ls>MBh. i, 387</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तापत्य",
+            "eid": "83904",
+            "pagenum": 442,
+            "content": "तापत्य ¦ <lex>m.</lex> <ab>metron.</ab> <ab>fr.</ab> <s1 slp1='tapatI'>Tapatī</s1> (<ab>N.</ab> of <s1 slp1='kuru'>Kuru</s1>, <ls n='MBh. i,'>6505</ls>; of <s1 slp1='arjuna'>Arjuna</s1>, <ls n='MBh. i,'>6509</ls>; <ls n='MBh. i,'>6514 ff.</ls>; <ls n='MBh. i,'>6632 ff.</ls>)<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तापत्य",
+            "eid": "20746",
+            "pagenum": 369,
+            "content": "<i>Tāpatya, as, ā, am,</i>¦ relating to Tapatī (q. v.), treating of her; a metronymic from Tapatī, epithet of Kuru, also of Arjuna."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तापत्य",
+            "eid": "45213",
+            "pagenum": 3,
+            "content": "तापत्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>die</i> <is>Tapatī</is> <i>betreffend, von ihr handelnd</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Metron.</ab> von <is>Tapatī</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तापत्य",
+            "eid": "29218",
+            "pagenum": 3,
+            "content": "तापत्य¦ <div n='1'> 1) <lex>adj.</lex> <i>die</i> <is>Tapatī</is> <i>betreffend, von ihr handelnd</i>: आख्यान <ls>MBH. 1, 387.</ls> <div n='1'>— 2) metron. von <is>Tapatī</is>, Bein. <is>Kuru's</is> <ls>MBH. 1, 6505.</ls> <is>Arjuna's</is> <ls n='MBH. 1,'>6509.</ls> <ls n='MBH. 1,'>6514.</ls> <ls n='MBH. 1,'>6516. fgg.</ls> <ls n='MBH. 1,'>6632. fg.</ls>"
+        }
     ]
 }

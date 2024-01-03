@@ -31,5 +31,43 @@
             "pagenum": 642,
             "content": "varutra¦ <i>m.</i> A cloak, an outer garment."
         }
+    ],
+    "MW": [
+        {
+            "word": "वरुत्र",
+            "eid": "186742",
+            "pagenum": 921,
+            "content": "वरुत्र ¦ <lex>n.</lex> an upper and outer garment, cloak, mantle, <ls>Uṇ. iv, 172</ls>, <ab>Sch.</ab> [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>ἔλυτρον</lang> for <lang n='greek'>ϝελυτρον</lang>]<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वरुत्र",
+            "eid": "41311",
+            "pagenum": 889,
+            "content": "<i>Varutra, am,</i>¦ n. an upper and outer garment, cloak, mantle."
+        },
+        {
+            "word": "वरुत्र",
+            "eid": "41350",
+            "pagenum": 890,
+            "content": "वरुत्र¦ <i>varutra, varūtṛ,</i> &c. See p. 889, col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वरुत्र",
+            "eid": "98615",
+            "pagenum": 6,
+            "content": "*वरुत्र¦ <lex>n.</lex> <i>Ueberwurf, Mantel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वरुत्र",
+            "eid": "88342",
+            "pagenum": 6,
+            "content": "वरु/त्र¦ (von 1. वर्) <lex>n.</lex> <i>Ueberwurf, Mantel</i> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 172.</ls>"
+        }
     ]
 }

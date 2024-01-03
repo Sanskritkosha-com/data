@@ -47,5 +47,43 @@
             "pagenum": 806,
             "content": "sTal¦ <i>vt. 1P (pres. स्थलति)</i> To stand firm, to be firm."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्थल्",
+            "eid": "255204",
+            "pagenum": 1261,
+            "content": "स्थल् ¦ (connected with √ <hom>1.</hom> स्था) <ab>cl.</ab> 1. <ab>P.</ab> स्थलति, to stand firm, be firm, <ls>Dhātup. xx, 6.</ls> <info westergaard='zTala,20.6,01.0563'/><info verb='root' cp='1P'/>"
+        },
+        {
+            "word": "स्थल्",
+            "eid": "255204.1",
+            "pagenum": 1261,
+            "content": "स्थल् ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>στέλλω</lang>, <lang n='greek'>στόλος</lang>; <ab>Germ.</ab> <etym>stellen</etym>, <etym>still</etym> &c.; <ab>Eng.</ab> <etym>still</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्थल्",
+            "eid": "53153",
+            "pagenum": 1145,
+            "content": "स्थल्¦ <i>sthal</i> (connected with rt. 1. <i>sthā</i>), cl. 1. P. <i>sthalati, tasthāla, sthaliṣ-</i> <i>yati, asthālīt, sthalitum,</i> to stand firm, be firm: Caus. <i>sthālayati, -yitum,</i> Aor. <i>atiṣṭhalat,</i> to cause to stand firm, fix firmly: Desid. of Caus. <i>tisthālayiṣati:</i> Desid. <i>tisthaliṣati:</i> Intens. <i>tā-</i> <i>sthalyate, tāsthalti;</i> [cf. Gr. <lang n='greek'>στέλλ-ω, ἔσταλκα,</lang> <lang n='greek'>ἐ-στάλη-ν, στόλο-ς, στάλ-ιξ, στελεό-ν;</lang>] Lat. <nsi>prœ-</nsi> <nsi>stol-o-r, stul-tu-s, stol-i-du-s (?);</nsi> Old Germ. <nsi>stil,</nsi> <nsi>stallan, stellan;</nsi> Lith. <nsi>stelloju,</nsi> ‘I appoint.’]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्थल्",
+            "eid": "130822",
+            "pagenum": 7,
+            "content": "*√स्थल्¦ स्थलति स्थाने स्थितौ."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्थल्",
+            "eid": "113887",
+            "pagenum": 7,
+            "content": "स्थल्¦, स्थ/लति <ls>DHĀTUP. 20, 6</ls> (स्थाने, स्थितौ)."
+        }
     ]
 }

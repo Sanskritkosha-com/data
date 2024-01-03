@@ -15,5 +15,35 @@
             "pagenum": 650,
             "content": "vAkCala¦ <i>n.</i> prevarication."
         }
+    ],
+    "MW": [
+        {
+            "word": "वाक्छल",
+            "eid": "189825",
+            "pagenum": 936,
+            "content": "वाक्—छल ¦ <lex>n.</lex> the mere semblance of a voice, <ls>Kād.</ls> (<ab>sg.</ab> or <ab>pl.</ab>) untruthful talk, <ls>Hariv.</ls> (<ab>v.l.</ab>), <ls>Kathās.</ls><info lex='n'/>"
+        },
+        {
+            "word": "वाक्छल",
+            "eid": "189826",
+            "pagenum": 936,
+            "content": "¦ prevarication or perversion of the words of an opponent in disputation, <ls>Nyāyas.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वाक्छल",
+            "eid": "99797",
+            "pagenum": 6,
+            "content": "वाक्छल¦ <lex>n.</lex> <div n='1'>— 1〉 <i>der Schein einer Stimme</i> <ls>KĀD. 2,102,17</ls>. <div n='1'>— 2〉 <ab>Sg.</ab> und <ab>Pl.</ab> <i>lügnerische Reden</i> <ls>KATHĀS. 60,161</ls>. <div n='1'>— 3〉 <i>Verdrehung der Worte seines Gegners in der Disputation</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वाक्छल",
+            "eid": "89302",
+            "pagenum": 6,
+            "content": "वाक्छल¦ <lex>n.</lex> <i>lügnerische Reden</i>, pl. <ls>HARIV. 4228</ls> (die neuere Ausg. besser वाक्छल्यैः). सवाक्छलम् <ls>KATHĀS. 39, 215.</ls> <i>Verdrehung der Worte seines Gegners in einer Disputation</i>: वक्तुरभिप्रायादर्थान्तरकल्पना वाक्छलम् <ls>NYĀYAS. 1, 1, 53. 56.</ls>"
+        }
     ]
 }

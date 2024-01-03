@@ -44,5 +44,37 @@
             "pagenum": 522,
             "content": "Bazaka¦ <i>m.</i> A dog."
         }
+    ],
+    "MW": [
+        {
+            "word": "भषक",
+            "eid": "149282",
+            "pagenum": 750,
+            "content": "भषक ¦ <lex>m.</lex> a barker, dog, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भषक",
+            "eid": "35258",
+            "pagenum": 703,
+            "content": "<i>Bhaṣaka, as,</i>¦ m. a barker, a dog."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भषक",
+            "eid": "79162",
+            "pagenum": 4,
+            "content": "भषक¦ <lex>m.</lex> <i>Hund</i> <ls>RĀJAN. 19,10</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भषक",
+            "eid": "54348",
+            "pagenum": 5,
+            "content": "भ/षक¦ (wie eben) <lex>m.</lex> <i>Hund</i> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 2, 32.</ls> <ls>AK. 2, 10, 22.</ls> <ls>H. 1279</ls>, <ls>Sch.</ls> <ls>Spr. 1672.</ls>"
+        }
     ]
 }

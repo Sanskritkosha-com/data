@@ -7,5 +7,35 @@
             "pagenum": 211,
             "content": "koSa(za)-nAyaka¦ <i>m.</i> a treasurer, a minister of finance."
         }
+    ],
+    "MW": [
+        {
+            "word": "कोशनायक",
+            "eid": "56802",
+            "pagenum": 314,
+            "content": "कोश—नायक ¦ <lex>m.</lex> a chief over treasure, treasurer, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कोशनायक",
+            "eid": "56803",
+            "pagenum": 314,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='kubera'>Kubera</s1>, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कोशनायक",
+            "eid": "31188",
+            "pagenum": 2,
+            "content": "*कोशनायक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Schatzmeister</i>. <div n='1'>— 2〉 <ab>Bein.</ab> <is>Kubera</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कोशनायक",
+            "eid": "19389",
+            "pagenum": 2,
+            "content": "कोशनायक¦ (कोश + ना°) <lex>m.</lex> <div n='1'> 1) <i>Schatzmeister.</i> <div n='1'>— 2) ein Bein. <is>Kuvera's</is> <ls>WILS.</ls>"
+        }
     ]
 }

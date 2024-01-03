@@ -23,5 +23,35 @@
             "pagenum": 28,
             "content": "<b>Akartṛ</b>¦ = Kṛṣṇa? XII, 13285."
         }
+    ],
+    "MD": [
+        {
+            "word": "अकर्तृ",
+            "eid": "46",
+            "pagenum": 1,
+            "content": "अकर्तृ¦ a-kartṛ, <lex>m.</lex> non-agent."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अकर्तृ",
+            "eid": "183",
+            "pagenum": 1,
+            "content": "अ-कर्तृ ¦ <lex>m.</lex> not an agent, <ab>N.</ab> applied to the पुरुष (in <s1 slp1='sAMKya'>Sāṅkhya</s1> <ab>phil.</ab>)<info lex='m'/>"
+        },
+        {
+            "word": "अकर्तृ",
+            "eid": "184",
+            "pagenum": 1,
+            "content": "¦ not active (in <ab>Gr.</ab>)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अकर्तृ",
+            "eid": "55",
+            "pagenum": 1,
+            "content": "अकर्तृ¦ <i>a-kartṛ, tā,</i> m. not an agent; an inferior agent. <i>—Akartṛ-tva, am,</i> n. condition of an inferior agent, a subordinate station."
+        }
     ]
 }

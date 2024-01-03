@@ -12,5 +12,41 @@
             "synonyms": [],
             "content": "तत्र शुष्के तु गोग्रन्थिः करीषछगणे अपि ।"
         }
+    ],
+    "MW": [
+        {
+            "word": "गोग्रन्थि",
+            "eid": "66971",
+            "pagenum": 364,
+            "content": "गो—ग्रन्थि ¦ <lex>m.</lex> dried cow-dung, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गोग्रन्थि",
+            "eid": "66972",
+            "pagenum": 364,
+            "content": "¦ = -गोष्ठ, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गोग्रन्थि",
+            "eid": "66973",
+            "pagenum": 364,
+            "content": "¦ = -जिह्वा, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोग्रन्थि",
+            "eid": "36460",
+            "pagenum": 2,
+            "content": "*गोग्रन्थि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>trockener Kuhmist</i>. <div n='1'>— 2〉 <i>Standort von Rindern</i>. <div n='1'>— 3〉 <i>Kuhstall</i>. <div n='1'>— 4〉 <i>eine <ab>best.</ab> Pflanze</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोग्रन्थि",
+            "eid": "23044",
+            "pagenum": 2,
+            "content": "गोग्रन्थि¦ (गो + ग्र°) <lex>m.</lex> <div n='1'> 1) <i>trockener Kuhmist</i> <ls>TRIK. 2, 9, 21.</ls> <ls>H. 1273.</ls> <ls>HĀR. 170.</ls> <ls>MED. th. 19.</ls> <div n='1'>— 2) <i>Standort von Rindern, Kuhstall</i> <ls>MED.</ls> <div n='1'>— 3) N. einer Pflanze (गोजिह्विका) <ls>MED.</ls>"
+        }
     ]
 }

@@ -15,5 +15,35 @@
             "pagenum": 380,
             "content": "niDi-nATa¦ <i>m.</i> an epithet of Kubera."
         }
+    ],
+    "MW": [
+        {
+            "word": "निधिनाथ",
+            "eid": "108607.24",
+            "pagenum": 548,
+            "content": "नि-°धि—नाथ ¦ <lex>m.</lex> ‘lord of <ab n='treasure'>t°</ab>’, <ab>N.</ab> of <s1 slp1='kubera'>Kubera</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "निधिनाथ",
+            "eid": "108607.26",
+            "pagenum": 548,
+            "content": "¦ of an author, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "निधिनाथ",
+            "eid": "58581",
+            "pagenum": 3,
+            "content": "*निधिनाथ¦ <lex>m.</lex> <ab>Bein.</ab> <is>Kubera</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निधिनाथ",
+            "eid": "38927",
+            "pagenum": 4,
+            "content": "निधिनाथ¦ (नि° + नाथ) <lex>m.</lex> <i>Herr der Schätze</i>, Bein. <is>Kuvera's</is> <ls>TRIK. 1, 1, 78.</ls>"
+        }
     ]
 }

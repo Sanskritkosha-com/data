@@ -28,5 +28,49 @@
             "pagenum": 220,
             "content": "गुल्य¦ <i>gulya</i> <ab>n.</ab> <i>(guḍa;</i> <ab>sfx.</ab> <i>ya)</i> saveur sucrée. <lbinfo n='5'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "गुल्य",
+            "eid": "66200",
+            "pagenum": 360,
+            "content": "गुल्य <hom>a</hom> ¦ <lex>n.</lex> a sweet or saccharine taste, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "गुल्य",
+            "eid": "66253",
+            "pagenum": 360,
+            "content": "गुल्य <hom>b</hom> ¦ See गुल."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गुल्य",
+            "eid": "17533",
+            "pagenum": 293,
+            "content": "<i>Gulya, as,</i>¦ m. sweetness, a sweet or saccharine taste."
+        },
+        {
+            "word": "गुल्य",
+            "eid": "17545",
+            "pagenum": 294,
+            "content": "गुल्य¦ <i>gulya.</i> See under <i>gula.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गुल्य",
+            "eid": "36028",
+            "pagenum": 2,
+            "content": "*गुल्य¦ <lex>n.</lex> <i>Süsse</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गुल्य",
+            "eid": "22741",
+            "pagenum": 2,
+            "content": "गुल्य¦ (von गुल) <lex>m.</lex> <i>Süsse</i> <ls>H. 1388.</ls>"
+        }
     ]
 }

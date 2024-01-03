@@ -23,5 +23,49 @@
             "pagenum": 152,
             "content": "eka-antara¦ <i>a.</i> next but one."
         }
+    ],
+    "MD": [
+        {
+            "word": "एकान्तर",
+            "eid": "5104",
+            "pagenum": 58,
+            "content": "एकान्तर¦ eka‿antara, <lex>a.</lex> one degree lower."
+        }
+    ],
+    "MW": [
+        {
+            "word": "एकान्तर",
+            "eid": "39832",
+            "pagenum": 230,
+            "content": "ekA<srs/>ntara ¦ <lex>mfn.</lex> separated by one intermediate (caste), <ls>Gaut. iv, 16</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकान्तर",
+            "eid": "39833",
+            "pagenum": 230,
+            "content": "¦ next but one, one removed from, <ls>Śak. 191 d.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकान्तर",
+            "eid": "22095",
+            "pagenum": 1,
+            "content": "एकान्तर¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>nur durch ein Zwischenglied getrennt</i> <ls>GAUT.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकान्तर",
+            "eid": "13432",
+            "pagenum": 1,
+            "content": "एकान्तर¦ (एक + अन्तर) <lex>adj.</lex> <lex>f.</lex> आ <i>nur durch ein Zwischenglied getrennt</i> <ls>M. 10, 13.</ls> <ls>P. 8, 1, 55.</ls> <ls>RAGH. (ed. Calc.) 1, 82.</ls> द्व्येकान्तर <i>durch zwei oder ein Zwischenglied getrennt</i> <ls>M. 10, 7.</ls>"
+        },
+        {
+            "word": "एकान्तर",
+            "eid": "68947",
+            "pagenum": 5,
+            "content": "एकान्तर¦ <ls>VS. PRĀT. 6, 13.</ls> <ls>WEBER, JYOT. 36.</ls>"
+        }
     ]
 }

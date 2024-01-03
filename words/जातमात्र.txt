@@ -23,5 +23,35 @@
             "pagenum": 288,
             "content": "jAta-mAtra¦ <i>a.</i> just born."
         }
+    ],
+    "MW": [
+        {
+            "word": "जातमात्र",
+            "eid": "78589",
+            "pagenum": 417,
+            "content": "जात—मात्र ¦ <lex>mf(आ)n.</lex> just or merely born, <ls>Mn. ix, 106</ls>; <ls>MBh. i</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "जातमात्र",
+            "eid": "78590",
+            "pagenum": 417,
+            "content": "¦ just or merely arisen or appeared, <ls>Pañcat.</ls>; <ls>Daś.</ls>; <ls>VāyuP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जातमात्र",
+            "eid": "42432",
+            "pagenum": 2,
+            "content": "जातमात्र¦ <lex>Adj.</lex> (आ) <i>kaum —, eben geboren</i> <ls n='Chr.'>74,9. 194,29</ls>. <i>kaum —, eben entstanden</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जातमात्र",
+            "eid": "27207",
+            "pagenum": 3,
+            "content": "जातमात्र¦ (जात + मात्र) <lex>adj.</lex> <lex>f.</lex> आ <i>eben geboren, - entstanden</i> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 186, 18.</ls> जातमात्रं न यः शत्रुं रोगं च प्रशमं नयेत् <ls>PAÑCAT. I, 264.</ls> <ls>Verz. d. Oxf. H. 47,b.</ls>"
+        }
     ]
 }

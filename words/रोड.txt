@@ -7,5 +7,43 @@
             "pagenum": 918,
             "content": "रोड¦ <i><ab>a.</ab></i> Satisfied. --डः Crushing, grinding."
         }
+    ],
+    "MW": [
+        {
+            "word": "रोड",
+            "eid": "179806",
+            "pagenum": 889,
+            "content": "रोड ¦ <lex>mfn.</lex> satisfied, contented (= तृप्त), <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "रोड",
+            "eid": "179807",
+            "pagenum": 889,
+            "content": "रोड ¦ <lex>m.</lex> crushing, pounding (= क्षेद), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रोड",
+            "eid": "39884",
+            "pagenum": 854,
+            "content": "रोड¦ <i>roḍa, as, ā, am,</i> satisfied, contented; (<i>as</i>), m. crushing, pounding (<i>= kṣoda</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रोड",
+            "eid": "94972",
+            "pagenum": 5,
+            "content": "*रोड¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>gesättigt, befriedigt</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>das Zerstampfen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रोड",
+            "eid": "85361",
+            "pagenum": 6,
+            "content": "रोड¦ <div n='1'> 1) <lex>adj.</lex> <i>gesättigt, befriedigt</i> (तृप्त). <div n='1'>— 2) <lex>m.</lex> <i>das Zerstampfen</i> (क्षोद) <ls>MED. ḍ. 24.</ls>"
+        }
     ]
 }

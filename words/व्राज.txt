@@ -44,5 +44,55 @@
             "pagenum": 1364,
             "content": "<b>(vrājá),</b>¦ <i>Heerhaufen</i>. <div n='TS'>-ám <ls>AV. 1,16,1</ls>."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्राज",
+            "eid": "210447",
+            "pagenum": 1042,
+            "content": "<hom>1.</hom> व्राज ¦ <lex>m.</lex> (for <hom>2.</hom> See below) going, movement, motion, <ls>MW.</ls><info lex='m'/>"
+        },
+        {
+            "word": "व्राज",
+            "eid": "210503",
+            "pagenum": 1042,
+            "content": "<hom>2.</hom> व्राज/ ¦ <lex>m.</lex> (for <hom>1.</hom> See above) = <hom>2.</hom> व्रज/, a troop, host, band (अम् <lex type='phw'>ind.</lex> in troops), <ls>AV.</ls><info phwchild='210504.1'/><info lex='m'/>"
+        },
+        {
+            "word": "व्राज",
+            "eid": "210504",
+            "pagenum": 1042,
+            "content": "¦ a domestic cock, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "व्राज",
+            "eid": "210729",
+            "pagenum": 1043,
+            "content": "<hom>1.</hom> <hom>2.</hom> व्राज <hom>a</hom> ¦ &c. See <pcol>p. 1042, col. 1</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्राज",
+            "eid": "45903",
+            "pagenum": 984,
+            "content": "व्राज¦ <i>vrāja, as,</i> m. (fr. rt. <i>vraj</i>), going, movement, motion; a troop, multitude (Ved.). <i>—Vrāja-bāhū,</i> m. du., Ved. the spreading or outstretched arms of death."
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्राज",
+            "eid": "109117",
+            "pagenum": 6,
+            "content": "व्राज/¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Haufe</i>. व्राज/म् <i>in Haufen</i>. <div n='1'>— 2〉 *<i>Haushahn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्राज",
+            "eid": "96935",
+            "pagenum": 6,
+            "content": "व्राज¦ <div n='1'> 1) = व्रज <i>Heerde, Haufen</i>; adv. व्राज/म् <i>in Haufen</i>: ये ऽमावा\\स्या\\ं३^\\ रात्रि^मु\\दस्थु^र्व्रा\\जम\\त्रिण^ः <ls>AV. 1, 16, 1.</ls> <div n='1'>— 2) <lex>m.</lex> = ग्रामकुक्कुट <ls>H. ś. 192.</ls>"
+        }
     ]
 }

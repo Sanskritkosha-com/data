@@ -39,5 +39,35 @@
             "pagenum": 7,
             "content": "acyuta-agraja¦ <i>m.</i> 1. Balarāma; 2. Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "अच्युताग्रज",
+            "eid": "1924",
+            "pagenum": 9,
+            "content": "acyutA<srs/>graja ¦ <lex>m.</lex> (<s1 slp1='vizRu'>Viṣṇu</s1>'s elder brother), <s1 slp1='balarAma'>Balarāma</s1><info lex='m'/>"
+        },
+        {
+            "word": "अच्युताग्रज",
+            "eid": "1925",
+            "pagenum": 9,
+            "content": "¦ <s1 slp1='indra'>Indra</s1>.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अच्युताग्रज",
+            "eid": "1206",
+            "pagenum": 1,
+            "content": "*अच्युताग्रज¦ <lex>m.</lex> <ab>Bein.</ab> <is>Balarāma</is>ʼs und <is>Indra</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अच्युताग्रज",
+            "eid": "869",
+            "pagenum": 1,
+            "content": "अच्युताग्रज¦ (अच्युत + अग्रज) <lex>m.</lex> <is>Viṣṇu's</is> oder <is>Kṛṣṇa's</is> <i>älterer Bruder</i>; ein Beiname <div n='2'> a) <is>Balarāma's</is> <ls>AK. 1, 1, 1, 18.</ls> <ls>H. 225.</ls> <div n='2'>— b) <is>Indra's</is> <ls>H. 171.</ls>"
+        }
     ]
 }

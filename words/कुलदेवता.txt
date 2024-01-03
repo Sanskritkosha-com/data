@@ -20,5 +20,47 @@
             "pagenum": 196,
             "content": "kula-devatA¦ <i>f.</i> the guardian deity of a family, <ls>K.S.</ls>vii.27."
         }
+    ],
+    "MW": [
+        {
+            "word": "कुलदेवता",
+            "eid": "52873",
+            "pagenum": 294,
+            "content": "कुल—देवता ¦ <lex>f.</lex> the family deity, <ls>Kum. vii, 27</ls>; <ls>VP.</ls> &c.<info lex='f'/>"
+        },
+        {
+            "word": "कुलदेवता",
+            "eid": "52874",
+            "pagenum": 294,
+            "content": "¦ = -देवी <ab>N.</ab> of <s1 slp1='durgA'>Durgā</s1>, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुलदेवता",
+            "eid": "29136",
+            "pagenum": 2,
+            "content": "कुलदेवता¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Familiengottheit</i> <ls n='Chr.'>107,24</ls>. <ls>VARĀH. YOGAY. 6,19</ls>. <div n='1'>— 2〉 *<ab>Bein.</ab> der <is>Durgā</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुलदेवता",
+            "eid": "18056",
+            "pagenum": 2,
+            "content": "कुलदेवता¦ (कुल + दे°) <lex>f.</lex> <i>Hauptgottheit</i>: अर्चिताभ्यः कुलदेवताभ्यः <ls>KUMĀRAS. 7, 27</ls> (St.: <i>familiae dii</i>). Bein. der <is>Durgā</is> <ls>H. ś. 58.</ls>"
+        },
+        {
+            "word": "कुलदेवता",
+            "eid": "71121",
+            "pagenum": 5,
+            "content": "कुलदेवता¦ füge <i>Familiengottheit</i> hinzu. <ls>Verz. d. Oxf. H. 19,a,13.</ls> <ls>KATHĀS. 111,45.</ls>"
+        },
+        {
+            "word": "कुलदेवता",
+            "eid": "119534",
+            "pagenum": 7,
+            "content": "कुलदेवता¦ (vgl. Nachträge) <ls>Spr. (II) 4100.</ls> <ls>PISCHEL, de Gramm. prācr. 38, 1</ls> v. u."
+        }
     ]
 }

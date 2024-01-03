@@ -28,5 +28,47 @@
             "pagenum": 354,
             "content": "Darma-DAtu¦ <i>m.</i> an epithet of Buddha."
         }
+    ],
+    "MW": [
+        {
+            "word": "धर्मधातु",
+            "eid": "100071",
+            "pagenum": 511,
+            "content": "धर्म—धातु ¦ <lex>m.</lex> ‘the element of <ab n='law'>l°</ab> or of existence’, one of the 18 <s1 slp1='DAtu'>Dhātu</s1>s of the <ns>Buddhists</ns><info lex='m'/>"
+        },
+        {
+            "word": "धर्मधातु",
+            "eid": "100072",
+            "pagenum": 511,
+            "content": "¦ a <s1 slp1='budDa'>Buddha</s1> (whose essence is <ab n='law'>l°</ab>), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धर्मधातु",
+            "eid": "54748",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> धर्मधातु¦ <lex>m.</lex> <ab>Bez.</ab> eines der 18 <is>Dhātu</is> bei den Buddhisten."
+        },
+        {
+            "word": "धर्मधातु",
+            "eid": "54749",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *धर्मधातु¦ <lex>m.</lex> <i>ein</i> <is>Buddha</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धर्मधातु",
+            "eid": "36296",
+            "pagenum": 3,
+            "content": "1. धर्मधातु¦ (धर्म + धातु) <lex>m.</lex> <i>das Element des Gesetzes</i> (oder <i>des Seins</i>), einer der 18 <is>Dhātu</is> bei den Buddhisten, <ls>BURN.</ls> in <ls>Lot. de la b. l. 511. fg.</ls> <ls>WASSILJEW 296. 297. 333.</ls> <ls>VYUTP. 3. 14.</ls>"
+        },
+        {
+            "word": "धर्मधातु",
+            "eid": "36297",
+            "pagenum": 3,
+            "content": "2. धर्मधातु¦ (wie eben) <lex>m.</lex> <i>ein</i> <is>Buddha</is> (<i>dessen</i> <is>Dhātu</is> <i>der</i> <is>Dharma</is> <i>ist</i>) <ls>TRIK. 1, 1, 9.</ls> <ls>H. 232.</ls>"
+        }
     ]
 }

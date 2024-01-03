@@ -15,5 +15,35 @@
             "pagenum": 424,
             "content": "वेदशास्त्र¦ <i>n.</i> die Vedalehre."
         }
+    ],
+    "MW": [
+        {
+            "word": "वेदशास्त्र",
+            "eid": "205817",
+            "pagenum": 1016,
+            "content": "वेद—शास्त्र ¦ <lex>n.</lex> the doctrine of the <ab n='Veda' slp1='veda'>V°</ab>, <ls>Mn. iv, 260</ls> &c.<info lex='n'/>"
+        },
+        {
+            "word": "वेदशास्त्र",
+            "eid": "205818",
+            "pagenum": 1016,
+            "content": "¦ <ab>pl.</ab> the <ab n='Veda' slp1='veda'>V°</ab> and <s1 slp1='SAstra'>Śāstra</s1>s, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वेदशास्त्र",
+            "eid": "107164",
+            "pagenum": 6,
+            "content": "वेदशास्त्र¦ <lex>n.</lex> <div n='1'>— 1〉 <ab>Sg.</ab> <i>die im</i> <is>Veda</is> <i>vorgetragene Lehre</i>. <div n='1'>— 2〉 <ab>Pl.</ab> <i>der</i> <is>Veda</is> <i>und andere Lehrbücher</i>. °पुराणानि <ls>Spr. 6271</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वेदशास्त्र",
+            "eid": "95344",
+            "pagenum": 6,
+            "content": "वेदशास्त्र¦ <lex>n.</lex> sg. <i>die im</i> <is>Veda</is> <i>vorgetragene Lehre</i> <ls>M. 4, 260. 5, 2. 12, 94. 99. fg. 102. 106.</ls> <lex>n.</lex> pl. <i>der</i> <is>Veda</is> <i>und andere Lehrbücher</i> <ls>Verz. d. Oxf. H. 91,a,4.</ls> वेदशास्त्रार्णव <ls n='Verz. d. Oxf. H. 91,a,'>2.</ls> वेदशास्त्रागमकथाः <ls n='Verz. d. Oxf. H. 91,a,'>11.</ls>"
+        }
     ]
 }

@@ -35,5 +35,61 @@
             "pagenum": 106,
             "content": "<i>eka-dhana</i>¦ (LP), joint family."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकधन",
+            "eid": "39342",
+            "pagenum": 228,
+            "content": "एक—धन/ ¦ <lex>n.</lex> a choice portion of wealth, <ls>ŚBr. xi, 4, 1, 1</ls>; <ls>Āp. ii, 13, 13</ls><info lex='n'/>"
+        },
+        {
+            "word": "एकधन",
+            "eid": "39343",
+            "pagenum": 228,
+            "content": "¦ (ए/क-धन), ‘put down in an odd number’, <ab>N.</ab> of particular water-vessels by means of which water is taken up at certain sacrificial observances, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकधन",
+            "eid": "21791",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> एकधन/¦ <lex>n.</lex> <i>ein Theil der habe</i> <ls>ĀPAST.</ls>"
+        },
+        {
+            "word": "एकधन",
+            "eid": "21792",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> ए/कधन¦ <div n='1'>— 1〉 <lex>m.</lex> <i>ein <ab>best.</ab> Krug, mit dem zu einer <ab>best.</ab> gottesdienstlichen Handlung Wasser geschöpft wird</i>. <div n='1'>— 2〉 <lex>f.</lex> आ <ab>Pl.</ab> <i>das damit geschöpfte Wasser</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकधन",
+            "eid": "13259",
+            "pagenum": 1,
+            "content": "1. एकधन/¦ (एक + धन) <lex>n.</lex> <i>Ehrengabe</i>: तत्पूर्वेषां वृतानां धावयतामेकधनमुपाहितं भवति <ls>ŚAT. BR. 11, 4, 1, 1.</ls>"
+        },
+        {
+            "word": "एकधन",
+            "eid": "13260",
+            "pagenum": 1,
+            "content": "2. ए/कधन¦ (wie eben) <lex>m.</lex> Bezeichnung von <i>Krügen</i>, mit welchen zu einer bestimmten gottesdienstlichen Handlung Wasser geschöpft wird, <ls>ŚAT. BR. 3, 9, 3, 27. 34. 4, 3, 18. 4, 5, 10, 7.</ls> <ls>KĀTY. ŚR. 9, 3, 10. 29. 14, 1, 25.</ls> — pl. fem. (näml. आपस्) <i>das damit geschöpfte Wasser</i>: याश्चेमाः पूर्वेद्युर्वसतीवर्यो गृह्यन्ते याश्च प्रातरेकधनाः <ls>AIT. BR. 2, 20.</ls> <ls>ĀŚV. ŚR. 5, 1.</ls> <ls>KĀTY. ŚR. 9, 3, 22.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "एकधन",
+            "eid": "4296",
+            "pagenum": 3,
+            "content": "एकधन¦ <ls>KAUṢ. UP. 2,3</ls> nach dem <ab>Comm.</ab> <lex>m.</lex> (!) <i>das höchste Gut</i>."
+        },
+        {
+            "word": "एकधन",
+            "eid": "15379",
+            "pagenum": 7,
+            "content": "एकधन¦ I. 3."
+        }
     ]
 }

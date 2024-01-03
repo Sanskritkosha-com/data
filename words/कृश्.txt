@@ -63,5 +63,35 @@
             "pagenum": 205,
             "content": "kfS¦ <i>vi. 4P (pres. कृश्यति)</i> 1. To become lean, to become emaciated; 2. to wane (as the moon)."
         }
+    ],
+    "MD": [
+        {
+            "word": "कृश्",
+            "eid": "6247",
+            "pagenum": 73,
+            "content": "कृश्¦ KṚŚ, <cl>Ⅳ.</cl> <lex>P.</lex> <b>kṛ́śya,</b> grow thin; <ab>cs.</ab> 🞄<b>karśaya,</b> make thin; diminish; <ab>pp.</ab> <b>karśita,</b> emaciated."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कृश्",
+            "eid": "55010",
+            "pagenum": 305,
+            "content": "कृश् ¦ <ab>cl.</ab> 4. <ab>P.</ab> कृ/श्यति (<ab>perf.</ab> चक/र्श; <ab>ind.p.</ab> कृशित्वा or कर्श्°, <ls>Pāṇ. i, 2, 25</ls>), <div n='to'/>to become lean or thin, become emaciated or feeble, <ls>AV. xii, 3, 16</ls>; <ls>ŚBr. xi</ls>; <div n='to'/>to cause (the moon) to wane, <ls>Dhātup. xxvi, 117</ls> : <div n='vp'/><ab>Caus.</ab> कर्शयति, to make thin or lean, attenuate, emaciate, keep short of food, <ls>Āp.</ls>; <ls>Bhag.</ls>; <ls>Suśr.</ls> &c.; <div n='to'/>to lessen, diminish, <ls>Kāvyād. ii, 109</ls>; <info westergaard='kfSa,26.117,04.0125'/><info whitneyroots='kfS,23'/><info verb='genuineroot' cp='4P'/>"
+        },
+        {
+            "word": "कृश्",
+            "eid": "55010.1",
+            "pagenum": 305,
+            "content": "कृश् ¦ [<ab>cf.</ab> perhaps <ab>Lat.</ab> <etym>parco</etym>, <etym>parcus</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कृश्",
+            "eid": "15675",
+            "pagenum": 249,
+            "content": "कृश्¦ <i>kṛś,</i> cl. 4. P. <i>kṛśyati, cakarśa,</i> <i>karśiṣyati, akṛśat, karśitum,</i> to become lean or thin, to become emaciated or feeble; to wane (as the moon): Caus. <i>karśayati, -yitum,</i> to make thin or lean, to attenuate, emaciate, to keep short of food; [cf. perhaps Lat. <nsi>parco, parcus,</nsi> <nsi>parum, parvus, paucus;</nsi> Gr. <lang n='greek'>παῦρος</lang> Goth. <nsi>favai;</nsi> Eng. <nsi>few.</nsi>]"
+        }
     ]
 }

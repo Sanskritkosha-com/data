@@ -36,5 +36,35 @@
             "pagenum": 78,
             "content": "कल्पान्त¦ <i>m.</i> Ende einer Weltperiode, Weltuntergang. <lbinfo n='10'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "कल्पान्त",
+            "eid": "46162",
+            "pagenum": 262,
+            "content": "kalpA<srs/>nta ¦ <lex>m.</lex> the end of a <s1 slp1='kalpa'>Kalpa</s1>, dissolution of all things, <ls>L.</ls> (<ab>cf.</ab> प्रलय)<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कल्पान्त",
+            "eid": "25638",
+            "pagenum": 2,
+            "content": "कल्पान्त¦ <lex>m.</lex> <i>Ende eines</i> <is>Kalpa</is>, <i>Vernichtung der Welt</i>. Am <ab>Anf.</ab> eines <ab>Comp.</ab> auch <i>bis <ab n='zur'>z.</ab> <ab n='Vernichtung der Welt'>V. d. W.</ab></i>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कल्पान्त",
+            "eid": "15773",
+            "pagenum": 2,
+            "content": "कल्पान्त¦ (कल्प + अन्त) <lex>m.</lex> <i>Ende eines</i> <is>Kalpa</is>, <i>Vernichtung der Welt</i> <ls>AK. 1, 1, 3, 22.</ls> <ls>H. 161.</ls> जले कल्पान्तवासिनः <ls>R. 3, 10, 4.</ls> कल्पान्तस्थायिनो गुणाः <ls>HIT. I, 43.</ls> <ls>BHĀG. P. 3, 11, 30.</ls> <ls>DEV. 1, 49.</ls>"
+        },
+        {
+            "word": "कल्पान्त",
+            "eid": "70078",
+            "pagenum": 5,
+            "content": "कल्पान्त¦ <ls>HALĀY. 1, 117.</ls> <ls>MĀRK. P. 8, 115.</ls>"
+        }
     ]
 }

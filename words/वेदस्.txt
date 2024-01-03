@@ -71,5 +71,69 @@
             "pagenum": 252,
             "content": "<b>2védas,</b>¦ <i><ab>n.</ab></i> (<i>like <ab>Lat.</ab></i> quaestus) gettings, property, <i><ab>cf.</ab></i> <b>vitta.</b> [<b>√2vid,</b> ‘get.’]"
         }
+    ],
+    "MD": [
+        {
+            "word": "वेदस्",
+            "eid": "17036",
+            "pagenum": 298,
+            "content": "वेदस्¦ véd-as, <lex>n.</lex> 〈1.〉 knowledge (<ab>RV.</ab>); 〈2.〉 (gettings), 🞄property, wealth (<ab>V.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वेदस्",
+            "eid": "205936",
+            "pagenum": 1016,
+            "content": "<hom>1.</hom> वे/दस् ¦ <lex>n.</lex> (for <hom>2.</hom> See <pcol>p. 1017, col. 3</pcol>) knowledge, science, <ls>RV.</ls> (<ab>cf.</ab> केत-, जात-, विश्व-व्°). <info lex='n'/>"
+        },
+        {
+            "word": "वेदस्",
+            "eid": "206087",
+            "pagenum": 1017,
+            "content": "<hom>2.</hom> वे/दस् ¦ <lex>n.</lex> property, wealth, <ls>RV.</ls>; <ls>AV.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वेदस्",
+            "eid": "44845",
+            "pagenum": 965,
+            "content": "<i>Vedas, ās,</i>¦ m. the Vedas collectively; (<i>as</i>), n. acquisition, wealth (Ved.)."
+        },
+        {
+            "word": "वेदस्",
+            "eid": "55342",
+            "pagenum": 1186,
+            "content": "<i>Vedas;</i>¦ under <i>as,</i> n. add — knowledge; (<i>Vedās,</i> nom. m. although given by some authorities is probably only nom. pl. of <i>veda.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वेदस्",
+            "eid": "107175",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> वे/दस्¦ <lex>n.</lex> <i>Erkenntniss</i>."
+        },
+        {
+            "word": "वेदस्",
+            "eid": "107176",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> वे/दस्¦ <lex>n.</lex> <i>Habe, Besitz</i>. Auch <ab>Pl.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वेदस्",
+            "eid": "95353",
+            "pagenum": 6,
+            "content": "1. वे/दस्¦ (von 1. विद्) <lex>n.</lex> <i>Erkenntniss</i>: उ\\शिजो^ जग्मुर\\भि तानि\\ वेद^सा <ls>ṚV. 3, 60, 1.</ls> <div n='v'>— Vgl. केत°, जात°, 1. विश्व° ."
+        },
+        {
+            "word": "वेदस्",
+            "eid": "95354",
+            "pagenum": 6,
+            "content": "2. वे/दस्¦ (von 3. विद्) <lex>n.</lex> <i>Habe, Besitz</i> <ls>NAIGH. 2, 10.</ls> <ls>ṚV. 1, 70, 10.</ls> <ls n='ṚV. 1,'>81, 9.</ls> <ls n='ṚV.'>2, 7, 6.</ls> <ls n='ṚV.'>3, 53, 14.</ls> <ls n='ṚV.'>5, 2, 12.</ls> स नो\\ वेदो^ अ\\मात्य^ं रक्षतु <ls n='ṚV.'>7, 15, 3.</ls> <ls n='ṚV. 7,'>19, 1.</ls> <ls n='ṚV.'>8, 76, 2.</ls> अयु^द्धो अस्य\\ वि भ^जाति\\ वेद^ः ? <ls n='ṚV.'>10, 27, 10.</ls> <ls>AV. 5, 20, 4.</ls> <ls n='AV. 5, 20,'>10.</ls> pl. <ls>ṚV. 1, 89, 5.</ls> <ls>AV. 6, 66, 3.</ls> <div n='v'>— Vgl. अनष्ट°, केत°, जात°, 2. विश्व° ."
+        }
     ]
 }

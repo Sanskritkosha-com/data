@@ -7,5 +7,49 @@
             "pagenum": 321,
             "content": "उपदी¦ <ab>N.</ab> of a plant (वंदाक)."
         }
+    ],
+    "MW": [
+        {
+            "word": "उपदी",
+            "eid": "34734",
+            "pagenum": 199,
+            "content": "<hom>1.</hom> उप-√ <hom>3.</hom> दी ¦ (क्षये, <ls>Dhātup. xxvi, 25</ls>). <info westergaard='dIN,26.25,04.0025'/><info verb='pre' cp='' parse='upa+dI'/>"
+        },
+        {
+            "word": "उपदी",
+            "eid": "34738",
+            "pagenum": 199,
+            "content": "<hom>2.</hom> उपदी ¦ <lex>f.</lex> a parasitical plant, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उपदी",
+            "eid": "11456",
+            "pagenum": 163,
+            "content": "उपदी¦ <i>upadī,</i> f. the plant Vanda Roxburghii or Aërides Tesselata."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उपदी",
+            "eid": "19610",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> *उपदी¦ <lex>f.</lex> <i>Schmarotzerpflanze</i>."
+        },
+        {
+            "word": "उपदी",
+            "eid": "19611",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> उपदी¦ <lex>Adv.</lex> mit कर् <i>Jmd</i> (<ab>Dat.</ab>) <i>Etwas</i> (<ab>Acc.</ab>) <i>darbringen, schenken</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उपदी",
+            "eid": "11800",
+            "pagenum": 1,
+            "content": "उपदी¦ <lex>f.</lex> N. einer Pflanze, <i>Vanda Roxburghii R. Br.</i> oder <i>Aërides tesselata Wight</i> (वन्दाक, vulg. परगाछा), <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

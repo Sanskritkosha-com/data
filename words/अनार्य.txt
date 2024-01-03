@@ -53,5 +53,57 @@
             "pagenum": 20,
             "content": "anArya¦ <i>(II) a.</i> Ignoble, <ls>Na.</ls>iii.57."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनार्य",
+            "eid": "1468",
+            "pagenum": 14,
+            "content": "अनार्य¦ an-ārya, <lex>a.</lex> ignoble, dishonourable; 🞄un-Āryan; <b>-karmin,</b> <lex>a.</lex> performing the works 🞄of a non-Āryan; <b>-tā,</b> <lex>f.</lex> dishonourableness; 🞄<b>-vṛtta,</b> <ab>pp.</ab> behaving dishonourably."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनार्य",
+            "eid": "5631",
+            "pagenum": 28,
+            "content": "अन्-आर्य ¦ <lex>mfn.</lex> not honourable or respectable, vulgar, inferior<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनार्य",
+            "eid": "5632",
+            "pagenum": 28,
+            "content": "¦ destitute of <s1 slp1='Arya'>Ārya</s1>s<info lex='inh'/>"
+        },
+        {
+            "word": "अनार्य",
+            "eid": "5633",
+            "pagenum": 28,
+            "content": "अन्-आर्य ¦ <lex>m.</lex> not an <s1 slp1='Arya'>Ārya</s1>.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनार्य",
+            "eid": "1754",
+            "pagenum": 29,
+            "content": "अनार्य¦ <i>an-ārya, as, ā, am,</i> not respectable, vulgar, unworthy, inferior, bad, vile; destitute of Āryas; (<i>as</i>), m. not an Ārya. <i>—Anārya-karmin,</i> <i>ī,</i> m. doing work unbecoming an Ārya or becoming only a non-Ārya. <i>—Anārya-ja, as, ā, am,</i> of vile or unworthy origin; (<i>am</i>), n. Agallochum being a produce of the country of Mlecchas or barbarians. <i>—An-</i> <i>ārya-juṣṭa, as, ā, am,</i> practised, observed, or possessed by men who are not Āryas. <i>—Anārya-tā,</i> f. or <i>anārya-tva, am,</i> n. vileness, unworthiness, baseness. <i>—Anārya-tikta, as,</i> m. a medicinal plant, a kind of Gentian (Gentiana Cherayta Rox)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनार्य",
+            "eid": "3959",
+            "pagenum": 1,
+            "content": "अनार्य¦ <lex>Adj.</lex> (<lex>f.</lex> आ) und <ab>Subst.</ab> <i>unehrenhaft, kein</i> <is>Ārya</is>, <i>sich nicht wie ein</i> <is>Ārya</is> <i>betragend, für einen</i> <is>Ārya</is> <i>sich nicht schickend, nicht arisch</i> <ls n='Chr.'>105,1. 179,18. 204,18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनार्य",
+            "eid": "2567",
+            "pagenum": 1,
+            "content": "अनार्य¦ (3. अ + आर्य) <lex>adj.</lex> subst. <lex>f.</lex> आ <i>nicht ehrenhaft, kein</i> <is>Ārya</is>, <i>sich nicht wie ein</i> <is>Ārya</is> <i>betragend, sich für einen</i> <is>Ārya</is> <i>nicht schickend, nicht arisch</i>: कीकटा नाम देशो ऽनार्यनिवासः <ls>NIR. 6, 32.</ls> अनार्यानार्यलिङ्गिनः <ls>M. 9, 260.</ls> आर्यरूपमिवानार्यम् <ls n='M. 9,'>10, 57.</ls> अनार्यमार्यकर्माणमार्यं चानार्यकर्मिणम् <ls n='M. 9,'>73.</ls> अनार्यासु - आयोगवीषु <ls n='M. 9,'>35.</ls> अनार्यायां समुत्पन्नो ब्राह्मणात् <ls n='M. 9,'>66.</ls> जातो नार्यामनार्यायामार्यादार्यो भवेद्गुणैः । जातो ऽप्यनार्यादार्यायामनार्य इति निश्चयः ॥ <ls n='M. 9,'>67.</ls> अनार्य इति मामार्याः - विकरिष्यन्ति रथ्यासु सुरापं ब्राह्मणं यथा <ls>R. 2, 12, 73.</ls> <ls n='R. 2, 12,'>88.</ls> <ls n='R. 2,'>18, 31.</ls> <ls n='R. 2,'>19, 19.</ls> <ls n='R.'>5, 26, 24.</ls> <ls>N. 12, 59.</ls> <ls>PAÑCAT. I, 420.</ls> <ls>HIT. IV, 25</ls> (vgl. <ls n='HIT. IV,'>22.</ls>). अनार्युजुष्टम् <ls>BHAG. 2, 2.</ls> <ls>R. 2, 82, 13.</ls> अनार्याः (von den <is>Rakṣas</is>) <ls n='R.'>3, 1, 22.</ls> अनार्ये देशे <ls>ŚĀK. CH. 139, 7.</ls> अनार्यः परदारव्यवहारः <ls>ŚĀK. 104, 22.</ls>"
+        }
     ]
 }

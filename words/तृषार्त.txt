@@ -23,5 +23,27 @@
             "pagenum": 315,
             "content": "tfzA-Arta¦ <i>a.</i> suffering from thirst."
         }
+    ],
+    "MW": [
+        {
+            "word": "तृषार्त",
+            "eid": "86785",
+            "pagenum": 454,
+            "content": "tfzA<srs/>rta ¦ <lex>mfn.</lex> (°zA<srs/>r°) suffering from thirst, <ls>Siṃhās. vi, 7</ls>; <ls>Hit. iii, 4, 0/1</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तृषार्त",
+            "eid": "86785.1",
+            "pagenum": 454,
+            "content": "¦ affected by desire, <ls n='Hit.'>i, 6, 34</ls>.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तृषार्त",
+            "eid": "46833",
+            "pagenum": 3,
+            "content": "तृषार्त¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>von Durst geplagt</i> <ls n='Chr.'>153,8</ls>. <ls>Ind. St. 15,329</ls>. <div n='1'>— 2〉 <i>heftig verlangend, Begier empfindend</i> <ls>Spr. 5887</ls>."
+        }
     ]
 }

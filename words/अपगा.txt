@@ -23,5 +23,43 @@
             "pagenum": 36,
             "content": "apagA¦ <i>f.</i> A river. (See आपगा)."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपगा",
+            "eid": "9063",
+            "pagenum": 48,
+            "content": "अप-गा <hom>a</hom> ¦ <lex>f.</lex> = आप-गा, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "अपगा",
+            "eid": "9074",
+            "pagenum": 48,
+            "content": "<hom>b</hom> अप-√ <hom>1.</hom> गा ¦ to go away, vanish, retire (with <ab>abl.</ab>), <ls>VS.</ls> &c.<info verb='pre' cp='' parse='apa+gA'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपगा",
+            "eid": "3174",
+            "pagenum": 49,
+            "content": "अपगा¦ <i>apa-gā,</i> cl. 3. P. <i>-jigāti, -gātum,</i> to go away, vanish, retire."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपगा",
+            "eid": "5853",
+            "pagenum": 1,
+            "content": "*अपगा¦ <lex>f.</lex> = आपगा <i>Fluss</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपगा",
+            "eid": "3703",
+            "pagenum": 1,
+            "content": "अपगा¦ <lex>f.</lex> <i>Fluss</i> <ls>BHARATA</ls> zu <ls>AK. 1, 2, 3, 29.</ls> S. आपगा ."
+        }
     ]
 }

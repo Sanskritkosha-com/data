@@ -15,5 +15,49 @@
             "pagenum": 347,
             "content": "dyuvan¦ <i>m.</i> The sun."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्युवन्",
+            "eid": "97343",
+            "pagenum": 499,
+            "content": "द्यु—वन् ¦ <lex>m.</lex> the sun, heaven, <ls>Uṇ.</ls><info lex='m'/>"
+        },
+        {
+            "word": "द्युवन्",
+            "eid": "97343.1",
+            "pagenum": 1329,
+            "content": "¦ heaven, <ls>L.</ls><info n='sup'/><info lex='inh'/>"
+        },
+        {
+            "word": "द्युवन्",
+            "eid": "97343.2",
+            "pagenum": 1329,
+            "content": "¦ the sun, <ab>ib.</ab><info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "द्युवन्",
+            "eid": "22895",
+            "pagenum": 438,
+            "content": "<i>Dyuvan, ā,</i>¦ m. the sun; heaven."
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्युवन्",
+            "eid": "53236",
+            "pagenum": 3,
+            "content": "*द्युवन्¦ <lex>m.</lex> <div n='1'>— 1〉 <i>die Sonne</i>. <div n='1'>— 2〉 <i>der Himmel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्युवन्",
+            "eid": "35201",
+            "pagenum": 3,
+            "content": "द्यु/वन्¦ (von 1. दिव्) <lex>m.</lex> <i>die Sonne</i> <ls>UṆĀDIS. 1, 156.</ls> <i>der Himmel</i> <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

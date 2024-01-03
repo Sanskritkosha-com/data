@@ -39,5 +39,51 @@
             "pagenum": 123,
             "content": "<b>a-samartha,</b>¦ <i><ab>a.</ab></i> unable."
         }
+    ],
+    "MD": [
+        {
+            "word": "असमर्थ",
+            "eid": "3148",
+            "pagenum": 34,
+            "content": "असमर्थ¦ a-samartha, <lex>a.</lex> incapable (of, <ab>inf.</ab>, 🞄<ab>d.</ab>, <ab>lc.</ab>, <ab>—°</ab>); <b>-tva,</b> <lex>n.</lex> inability."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असमर्थ",
+            "eid": "20696",
+            "pagenum": 119,
+            "content": "अ-समर्थ ¦ <lex>mf(आ)n.</lex> unable to (<ab>Inf.</ab> <ab>dat.</ab> <ab>loc.</ab>, or in <ab>comp.</ab>)<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "असमर्थ",
+            "eid": "20697",
+            "pagenum": 119,
+            "content": "¦ not having the intended meaning, <ls>Kpr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असमर्थ",
+            "eid": "7455",
+            "pagenum": 104,
+            "content": "असमर्थ¦ <i>a-samartha, as, ā, am,</i> unable, incompetent; feeble, weak."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असमर्थ",
+            "eid": "12407",
+            "pagenum": 1,
+            "content": "असमर्थ¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>unfähig</i>. Die Ergänzung im <ab>Infin.</ab> (<ls n='Chr.'>155,26</ls>), <ab>Dat.</ab> (<ls n='Chr.'>81,27</ls>), <ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend (<ls n='Chr.'>281,16</ls>) Dazu <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <div n='1'>— 2〉 <i>nicht die beabsichtigte Bedeutung habend</i> <ls>KĀVYAPR. 7,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "असमर्थ",
+            "eid": "65867",
+            "pagenum": 5,
+            "content": "असमर्थ¦ (3. अ + स°) <lex>n.</lex> ein best. Fehler des Ausdrucks: <i>Missgriff in der Wortbedeutung</i>, z. B. wenn अम्बुधर für <i>Ocean</i> (अम्बुधि) gesetzt wird, <ls>PRATĀPAR. 61,a,1.b,5.</ls>"
+        }
     ]
 }

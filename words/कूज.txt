@@ -47,5 +47,51 @@
             "pagenum": 200,
             "content": "kUja¦ <i>m.</i> 1. Cooing, warbling; 2. the rattling of wheels."
         }
+    ],
+    "MD": [
+        {
+            "word": "कूज",
+            "eid": "6160",
+            "pagenum": 71,
+            "content": "कूज¦ kūj-a, <lex>m.</lex>, <b>-ana,</b> <lex>n.</lex> cry, coo, murmur; 🞄<b>-ita,</b> (<ab>pp.</ab>) <lex>n.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कूज",
+            "eid": "53797",
+            "pagenum": 299,
+            "content": "कूज ¦ <lex>m.</lex> (<ls>Pāṇ. vii, 3, 59</ls>, <ls>Kāś.</ls>) cooing, murmuring, warbling, &c., <ls>MBh. i, 4916</ls>; <ls>R. ii, 59, 10</ls><info lex='m'/>"
+        },
+        {
+            "word": "कूज",
+            "eid": "53798",
+            "pagenum": 299,
+            "content": "¦ rumbling (as of the bowels, &c.), <ls>Suśr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कूज",
+            "eid": "15531",
+            "pagenum": 244,
+            "content": "<i>Kūja, as,</i>¦ m. rumbling (as of the bowels &c.); cooing, murmuring, a warbling &c."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कूज",
+            "eid": "29677",
+            "pagenum": 2,
+            "content": "कूज¦ <lex>m.</lex> <i>Gemurmel</i> <ab>u. s. w.</ab> Auch vom <i>Kollern im Leibe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कूज",
+            "eid": "18421",
+            "pagenum": 2,
+            "content": "कूज¦ (von कूज्) <lex>m.</lex> <ls>P. 7, 3, 59</ls>, <ls>Sch.</ls> <i>das Knurren, Kollern im Leibe</i> <ls>SUŚR. 2, 514, 1.</ls> अन्त्रकूज <ls n='SUŚR.'>1, 251, 9.</ls> <i>Gemurmel, Gezwitscher u.s.w.</i>: तमकूजमभिज्ञाय जनौघं सर्वशस्तदा <ls>MBH. 1, 4916.</ls> <ls>P. 8, 1, 33</ls>, <ls>Sch.</ls> रामशोकाभिभूतं तन्निष्कूजमिव काननम् <ls>R. 2, 59, 10.</ls>"
+        }
     ]
 }

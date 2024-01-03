@@ -68,5 +68,87 @@
             "pagenum": 823,
             "content": "svAna¦ <i>m.</i> Sound, noise."
         }
+    ],
+    "MD": [
+        {
+            "word": "स्वान",
+            "eid": "20302",
+            "pagenum": 373,
+            "content": "स्वान¦ svān-á, <ab>RV.</ab> <lex>a.</lex> [√ svan] panting 🞄(<i>steed</i>); rattling (<i>car</i>); <lex>m.</lex> sound, noise, rattle 🞄(<ab>RV.</ab>); twang (<i>of a bowstring</i>, <ab>C.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "स्वान",
+            "eid": "258928",
+            "pagenum": 1280,
+            "content": "स्वान/ <hom>a</hom> ¦ <lex>m.</lex> (<ab>cf.</ab> √ <hom>3.</hom> सु, <ab>p.</ab> 1219) sounding, making a noise, rattling (as a chariot), panting (as a horse), <ls>RV.</ls><info lex='m'/>"
+        },
+        {
+            "word": "स्वान",
+            "eid": "258929",
+            "pagenum": 1280,
+            "content": "स्वान/ ¦ <lex>m.</lex> sound, noise, rattle, <ls>ib.</ls><info lex='m'/>"
+        },
+        {
+            "word": "स्वान",
+            "eid": "258930",
+            "pagenum": 1280,
+            "content": "¦ twang (of a bowstring), <ls>Śiś.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "स्वान",
+            "eid": "258931",
+            "pagenum": 1280,
+            "content": "¦ <ab>N.</ab> of one of the seven guardians of <s1 slp1='soma'>Soma</s1>, <ls>VS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "स्वान",
+            "eid": "259634",
+            "pagenum": 1283,
+            "content": "स्वान <hom>b</hom>. ¦ See √ <hom>3.</hom> सु, and <pcol>p. 1280, col. 2</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्वान",
+            "eid": "53699",
+            "pagenum": 1159,
+            "content": "<i>Svāna, as,</i>¦ m. sound, noise."
+        },
+        {
+            "word": "स्वान",
+            "eid": "53778",
+            "pagenum": 1161,
+            "content": "स्वान¦ <i>svāna, svānta.</i> See p. 1159."
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्वान",
+            "eid": "133027",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स्वान/¦ <lex>Adj.</lex> = सुवान/ <i>angetrieben, eilig</i> <ls>ṚV. 5,10,5</ls>. <ls n='ṚV.'>9,10,1</ls>. सुवान/ zu sprechen <ls n='ṚV.'>1,104,1</ls>. स्वान/ statt सुवान/ zu sprechen <ls n='ṚV.'>8,3,6. 6,38. 7,14. 9,10,4</ls>."
+        },
+        {
+            "word": "स्वान",
+            "eid": "133028",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> स्वान/¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Schall, Geräusch, Geklirr</i> <ab>u. s. w.</ab> <div n='1'>— 2〉 <ab>N. pr.</ab> eines der 7 <is>Soma</is>-Wächter."
+        },
+        {
+            "word": "स्वान",
+            "eid": "133029",
+            "pagenum": 7,
+            "content": "<hom>3.</hom> स्वान¦ <lex>m.</lex> <ls>PAÑCAD. 16</ls> fehlerhaft für स्वान = श्वन् <i>Hund</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्वान",
+            "eid": "115650",
+            "pagenum": 7,
+            "content": "स्वान/¦ (von 1. स्वन्) <div n='1'> 1) <lex>adj.</lex> <i>schallend, tönend, rauschend, rasselnd</i> u. s. w.: अर्वन् <ls>ṚV. 1, 104, 1.</ls> Wagen <ls n='ṚV.'>5, 70, 5.</ls> <ls n='ṚV.'>9, 10, 1.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Schall u.s.w.</i> <ls>P. 3, 3, 62.</ls> <ls>AK. 1, 1, 6, 1.</ls> <ls>H. 1399.</ls> <ls>HALĀY. 1, 138.</ls> उ\\त स्वा\\नासो^ दि\\वि ष^न्त्व\\ग्नेस्ति\\ग्मायु^धाः <ls>ṚV. 5, 2, 10.</ls> <ls n='ṚV. 5,'>25, 8.</ls> उदु^ स्वा\\नेभि^रीरते <ls n='ṚV.'>8, 7, 17.</ls> धनुषः <ls>AK. 2, 8, 2, 76.</ls> वल्लकीगुण° <ls>ŚIŚ. 4, 57.</ls> <div n='2'>— b) N. pr. eines der sieben <is>Soma</is> - Wächter <ls>VS. 4, 27.</ls> <div n='v'>— Vgl. स्वन ."
+        }
     ]
 }

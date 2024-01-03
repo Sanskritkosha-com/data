@@ -31,5 +31,63 @@
             "pagenum": 373,
             "content": "<b>(khādá),</b>¦ <ab>a.</ab>, <i>verzehrend,</i> <ab n='siehe'>s.</ab> unter khād."
         }
+    ],
+    "MD": [
+        {
+            "word": "खाद",
+            "eid": "6728",
+            "pagenum": 80,
+            "content": "खाद¦ khād-á, <lex>a.</lex> devouring (<ab>—°</ab>); <lex>m.</lex> food; 🞄<b>-aka,</b> <lex>m.</lex> eater, consumer; debtor; <b>-ana,</b> <lex>n.</lex> 🞄chewing, eating; foo: <b>ā,</b> <lex>f.</lex> <ab>N.</ab>; <b>-ikā,</b> <lex>f.</lex> eating 🞄(<ab>—°</ab>); <b>-i-tṛ,</b> <lex>m.</lex> eater, consumer; <b>-i-tavya,</b> 🞄<ab>fp.</ab> to be eaten <i>or</i> consumed; <b>-in,</b> <lex>a.</lex> chewing, 🞄biting (<ab>—°</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "खाद",
+            "eid": "61790",
+            "pagenum": 339,
+            "content": "खाद/ ¦ <lex>mfn.</lex> ‘eating, devouring’ <ab>ifc.</ab> See अमित्र- and वृत्र-खाद/<info lex='m:f:n'/>"
+        },
+        {
+            "word": "खाद",
+            "eid": "61791",
+            "pagenum": 339,
+            "content": "खाद/ ¦ <lex>m.</lex> eating, devouring, <ls>AitBr. v, 12, 10</ls><info lex='m'/>"
+        },
+        {
+            "word": "खाद",
+            "eid": "61792",
+            "pagenum": 339,
+            "content": "¦ food, <ls>AV. ix, 6, 12</ls>; <ls>ŚBr. xiii, 4, 2, 17.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खाद",
+            "eid": "16844",
+            "pagenum": 275,
+            "content": "<i>Khāda, as, ā, am,</i>¦ eating, devouring, (at the end of compounds, e. g. <i>amitra-khāda, vṛtra-khāda,</i> q. v.); (<i>as</i>), m. chewing, eating; food."
+        }
+    ],
+    "PW": [
+        {
+            "word": "खाद",
+            "eid": "33734",
+            "pagenum": 2,
+            "content": "खाद/¦ <div n='1'>— 1〉 <lex>Adj.</lex> am Ende eines <ab>Comp.</ab> <i>fressend, verschlingend</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>das Verzehren</i>. <div n='2'>— b〉 <i>Futter</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खाद",
+            "eid": "21156",
+            "pagenum": 2,
+            "content": "खाद/¦ (von खाद्) <div n='1'> 1) <lex>adj.</lex> <i>fressend, verschlingend</i>, am Ende eines comp.; 8. अमित्र°, वृत्र° . <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>das Kauen</i>, s. अवखाद . <div n='2'>— b) <i>Futter</i> <ls>AV. 9, 6, 12.</ls> <ls>ŚAT. BR. 13, 4, 2, 17.</ls>"
+        },
+        {
+            "word": "खाद",
+            "eid": "72335",
+            "pagenum": 5,
+            "content": "खाद¦ <div n='1'> 2) <div n='2'> a) <i>das Verzehren</i> <ls>AIT. BR. 5, 12.</ls>"
+        }
     ]
 }

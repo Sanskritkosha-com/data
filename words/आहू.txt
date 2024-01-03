@@ -23,5 +23,43 @@
             "pagenum": 192,
             "content": "<b>āhū́,</b>¦ <ab>f.</ab>, <i>Anruf, Einladung</i> [von hū mit ā́]. <div n='TS'>-úvas [<ab>A.</ab>] {652,19}."
         }
+    ],
+    "MW": [
+        {
+            "word": "आहू",
+            "eid": "28374",
+            "pagenum": 162,
+            "content": "आ-हू <hom>a</hom> ¦ &c. See आ-√ ह्वे."
+        },
+        {
+            "word": "आहू",
+            "eid": "28507",
+            "pagenum": 163,
+            "content": "आ-हू/ <hom>b</hom> ¦ <lex>f.</lex> calling, invoking (<ls>BRD.</ls>), <ls>ib.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आहू",
+            "eid": "9809",
+            "pagenum": 137,
+            "content": "<i>Ā-hū,</i>¦ f., Ved. calling, invoking."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आहू",
+            "eid": "16583",
+            "pagenum": 1,
+            "content": "आहू/¦ <lex>f.</lex> <i>Anruf</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आहू",
+            "eid": "9908",
+            "pagenum": 1,
+            "content": "आहू/¦ (von ह्वा mit आ) <lex>f.</lex> <i>Anruf</i>: कृ\\ष्टी\\नामन्वा\\हुव^ः <ls>ṚV. 8, 32, 19.</ls> <div n='v'>— Vgl. वर्षाहू ."
+        }
     ]
 }

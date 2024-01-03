@@ -15,5 +15,51 @@
             "pagenum": 640,
             "content": "शलालु¦ <i>śalālu</i> <ab>n.</ab> sorte de parfum."
         }
+    ],
+    "MW": [
+        {
+            "word": "शलालु",
+            "eid": "214220",
+            "pagenum": 1059,
+            "content": "शलालु ¦ <lex>n.</lex> a sort of perfume or fragrant substance (°लुक <lex type='phw'>mf(ई)n.</lex> dealing in it), <ls>Pāṇ. iv, 4, 54</ls> (<ls>Siddh.</ls>)<info phwchild='214221.01'/><info lex='n'/>"
+        },
+        {
+            "word": "शलालु",
+            "eid": "214221",
+            "pagenum": 1059,
+            "content": "¦ = शलाटु, <ls>ĀpGṛ.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शलालु",
+            "eid": "46268",
+            "pagenum": 996,
+            "content": "शलालु¦ <i>śalālu,</i> n. a sort of perfume or fragrant substance."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शलालु",
+            "eid": "110868",
+            "pagenum": 6,
+            "content": "*शलालु¦ <lex>n.</lex> <i>ein <ab>best.</ab> wohlriechender Stoff</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शलालु",
+            "eid": "98290",
+            "pagenum": 7,
+            "content": "शलालु¦ (शल + आलु) <lex>n.</lex> <i>ein best. wohlriechender Stoff</i> (<ls>SIDDH. K.</ls>) <ls>P. 4, 4, 54.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "शलालु",
+            "eid": "21447",
+            "pagenum": 7,
+            "content": "शलालु¦ VI. = शलाटु 1〉 <ls>ĀPAST. GṚHY. 14,3</ls>. <ls n='ĀPAST. GṚHY.'>16,6</ls>."
+        }
     ]
 }

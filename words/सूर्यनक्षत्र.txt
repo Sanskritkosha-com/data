@@ -7,5 +7,35 @@
             "pagenum": 792,
             "content": "sUrya-nakzatra¦ <i>n.</i> that of the twenty-seven constellations in which the sun happens to be."
         }
+    ],
+    "MW": [
+        {
+            "word": "सूर्यनक्षत्र",
+            "eid": "251541",
+            "pagenum": 1243,
+            "content": "सू/र्य—नक्षत्र ¦ (सू/र्य-) <lex>n.</lex> ‘sun-asterism’, a radiant <ab n='asterism'>ast°</ab>, <ls>ŚBr.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सूर्यनक्षत्र",
+            "eid": "251541.1",
+            "pagenum": 1243,
+            "content": "¦ that <s1 slp1='nakzatra'>Nakṣatra</s1> in which the sun happens to be, <ls>Sūryapr.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सूर्यनक्षत्र",
+            "eid": "128950",
+            "pagenum": 7,
+            "content": "सूर्यनक्षत्र¦ <lex>n.</lex> <div n='1'>— 1〉 <i>ein sonniges,</i> <ab>d. i.</ab> <i>strahlend Gestirn</i>. <div n='1'>— 2〉 <i>das Mondhaus, in welchem die Sonne sich zu einer gegebenen Zeit befindet</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सूर्यनक्षत्र",
+            "eid": "112355",
+            "pagenum": 7,
+            "content": "सूर्यनक्षत्र¦ <lex>n.</lex> <i>das</i> <is>Nakṣatra</is>, <i>in welchem die Sonne sich zu einer gegebenen Zeit befindet</i>, <ls>Ind. St. 10, 300.</ls> °योग <i>die Conjunction der Sonne mit einem</i> <is>Nakṣatra</is> <ls n='Ind. St.'>309.</ls> सू/र्यनक्षत्रे <i>unter einem sonnigen</i> (d. h. <i>strahlenden</i> nach <ls>SĀY.</ls>) <is>Nakṣatra</is> <ls>ŚAT. BR. 2, 1, 2, 19.</ls>"
+        }
     ]
 }

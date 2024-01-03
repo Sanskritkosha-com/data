@@ -7,5 +7,61 @@
             "pagenum": 992,
             "content": "विवस्¦ {vI.v} {c1c} <ab>P.</ab> <b>1</b> To dwell abroad. <b>--2</b> To live, dwell. <b>--3</b> To spend, pass (time). <b>--4</b> To retire, <lbinfo n='with+draw'/> withdraw. <i>--<ab>Caus.</ab></i> To banish, send into exile; <ls>Bk. 4. 35.</ls> {vII.v} {c2c} <ab>A.</ab> <b>1</b> To exchange clothes. <b>--2</b> To wear, put on."
         }
+    ],
+    "MW": [
+        {
+            "word": "विवस्",
+            "eid": "200006",
+            "pagenum": 987,
+            "content": "<hom>a</hom> वि-√ <hom>2.</hom> वस् ¦ (<ab>cf.</ab> व्युष्) <ab>P.</ab> व्य्-उच्छति, to shine forth, shine, dawn, <ls>RV.</ls> &c. &c.; <div n='to'/> (वि-व/स्ते), to illumine, <ls>ŚBr.</ls> : <div n='vp'/><ab>Caus.</ab> -वासयति, to cause to shine, <ls>RV.</ls>; <ls>TS.</ls>; <ls>Br.</ls><info verb='pre' cp='P' parse='vi+vas'/>"
+        },
+        {
+            "word": "विवस्",
+            "eid": "200036",
+            "pagenum": 987,
+            "content": "<hom>b</hom> वि-√ <hom>4.</hom> वस् ¦ <ab>Ā.</ab> -वस्ते, to change clothes, <ls>TS.</ls>; <ls>ĀśvŚr.</ls>; <div n='to'/>to put on, don, <ls>Bhaṭṭ.</ls> : <div n='vp'/><ab>Caus.</ab> -वासयति (<ab>Pass.</ab> -वास्यते), to put on, don, <ls>MBh.</ls><info verb='pre' cp='Ā' parse='vi+vas'/>"
+        },
+        {
+            "word": "विवस्",
+            "eid": "200038",
+            "pagenum": 987,
+            "content": "<hom>c</hom> वि-√ <hom>5.</hom> वस् ¦ <ab>P.</ab> -वसति, to change an abode, depart from (<ab>abl.</ab>), <ls>BhP.</ls>; <div n='to'/> (with ब्रह्मचर्यम्), to enter upon an apprenticeship, become a pupil, <ls>ChUp.</ls>; <div n='to'/>to abide, dwell, live, <ls>MBh.</ls>; <ls>R.</ls>; <div n='to'/>to pass, spend (time), <ls>ib.</ls> &c.: <div n='vp'/><ab>Caus.</ab> -वासयति, to cause to dwell apart, banish, expel, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <div n='to'/>to send forth, dismiss, <ls>MBh.</ls><info verb='pre' cp='P' parse='vi+vas'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विवस्",
+            "eid": "43974",
+            "pagenum": 939,
+            "content": "विवस् 1¦. <i>vi-vas</i> (see rts. 3. <i>vas,</i> 2. <i>uṣ,</i> 2. <i>vy-</i> <i>uṣ</i>), cl. 6. P. <i>-ucchati,</i> &c., Ved. to shine forth, shine, dawn: Caus. <i>-vāsayati, -yitum,</i> to cause to shine."
+        },
+        {
+            "word": "विवस्",
+            "eid": "43979",
+            "pagenum": 939,
+            "content": "विवस् 2¦. <i>vi-vas,</i> cl. 2. A. <i>-vaste, -vasitum,</i> to exchange clothes; to wear, put on (a garment), clothe: Caus. <i>-vāsayati, -yitum,</i> to clothe, put on, cover: Pass. of Caus. <i>-vāsyate,</i> to be clothed or clad in."
+        },
+        {
+            "word": "विवस्",
+            "eid": "43980",
+            "pagenum": 939,
+            "content": "विवस् 3¦. <i>vi-vas,</i> cl. 1. P. <i>-vasati, -vastum,</i> to change an abode, to depart, go off, retire, withdraw; to dwell, abide; to pass, spend (time &c.); to pass away: Caus. <i>-vāsayati, -yitum,</i> to cause to dwell apart, banish, expel, drive into exile, transport, dismiss."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विवस्",
+            "eid": "104362",
+            "pagenum": 6,
+            "content": "*विवस्¦ <lex>n.</lex> angeblich = धन."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विवस्",
+            "eid": "93081",
+            "pagenum": 6,
+            "content": "विवस्¦ <lex>n.</lex> angeblich so v. a. धन <ls>SĀY.</ls> zu <ls>ṚV. 1, 187, 7.</ls>"
+        }
     ]
 }

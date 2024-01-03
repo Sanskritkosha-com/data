@@ -31,5 +31,53 @@
             "pagenum": 1052,
             "content": "<b>múhur</b>¦ [von muh, <ab>vgl.</ab> muhūrtá], <i>plötzlich, auf einmal, augenblicklich</i> {465,5}; {621,1}; {836,9}; {858,2}; {997,3}; múhur ā́ {195,5}; {408,3}; {536,2}; mit cid {641,6}; mit íd {853,20}."
         }
+    ],
+    "MD": [
+        {
+            "word": "मुहुर्",
+            "eid": "14332",
+            "pagenum": 232,
+            "content": "मुहुर्¦ múh-ur, <lex>ad.</lex> [in a bewildering manner], 🞄suddenly, in a moment (<i>frequently with 🞄a following</i> ā́; <ab>V.</ab>); for a moment, for a 🞄while (<ab>RV.</ab>); on the contrary (<ab>C.</ab>); every 🞄moment, repeatedly, incessantly (<ab>C.</ab>): <ab>rep.</ab> 🞄<ab>id.</ab>; <b>muhur — muhur,</b> now — now, at one 🞄time — at another."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मुहुर्",
+            "eid": "166056",
+            "pagenum": 825,
+            "content": "मु/हुर् <hom>a</hom> ¦ <lex>ind.</lex> (perhaps <ab>orig.</ab> ‘in a bewildering manner’) suddenly, at once, in a moment (often with a following आ/), <ls>RV.</ls>; <ls>AV.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "मुहुर्",
+            "eid": "166056.1",
+            "pagenum": 825,
+            "content": "¦ for a moment, a while, <ls>RV.</ls> &c. &c.<info lex='inh'/>"
+        },
+        {
+            "word": "मुहुर्",
+            "eid": "166056.2",
+            "pagenum": 825,
+            "content": "¦ at every moment, constantly, incessantly (मुहुर्-मुहुर्, now and again, at one moment and at another, again and again), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "मुहुर्",
+            "eid": "166056.3",
+            "pagenum": 825,
+            "content": "¦ on the other hand, on the contrary, <ls>Śak.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मुहुर्",
+            "eid": "166162",
+            "pagenum": 825,
+            "content": "मुहुर् <hom>b</hom> ¦ See <ab>col.</ab> 1."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मुहुर्",
+            "eid": "87770",
+            "pagenum": 5,
+            "content": "मु/हुर्¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>plötzlich, augenblicklich, im Nu</i>. öfters mit nachgesetzten आ/ <div n='1'>— 2〉 für <i>einen Augenblick, eine Weile</i>. मुहुर् — मुहुर् <i>bald — bald</i>. <div n='1'>— 3〉 verdoppelt und einfach <i>jeden Augenblick, wiederholt</i>. <div n='1'>— 4〉 <i>dagegen</i>."
+        }
     ]
 }

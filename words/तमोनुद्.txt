@@ -39,5 +39,59 @@
             "pagenum": 148,
             "content": "तमोनुद्¦ <i>u.</i> °नुद <i>dass.; m.</i> Sonne o. Mond."
         }
+    ],
+    "MW": [
+        {
+            "word": "तमोनुद्",
+            "eid": "82959",
+            "pagenum": 438,
+            "content": "तमो—नुद् ¦ <lex>mfn.</lex> dispersing darkness, <ls n='Mn.'>xiii, 7298</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तमोनुद्",
+            "eid": "82960",
+            "pagenum": 438,
+            "content": "तमो—नुद् ¦ <lex>m.</lex> light, <ls>R. v, 32, 23</ls><info lex='m'/>"
+        },
+        {
+            "word": "तमोनुद्",
+            "eid": "82961",
+            "pagenum": 438,
+            "content": "¦ the sun (for <ab>acc.</ab> °दम् See °द), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तमोनुद्",
+            "eid": "82962",
+            "pagenum": 438,
+            "content": "¦ the moon (for <ab>acc.</ab> °दम् See °द), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तमोनुद्",
+            "eid": "82963",
+            "pagenum": 438,
+            "content": "¦ fire, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तमोनुद्",
+            "eid": "82964",
+            "pagenum": 438,
+            "content": "¦ a lamp, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तमोनुद्",
+            "eid": "44721",
+            "pagenum": 3,
+            "content": "तमोनुद्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>das Dunkel verscheuchend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Alles was Licht heisst</i>. नष्ट° <lex>Adj.</lex> so <ab>v. a.</ab> <i>finster</i>. nach den Lexicographen <i>die Sonne, der Mond, Feuer und Lampe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तमोनुद्",
+            "eid": "28848",
+            "pagenum": 3,
+            "content": "तमोनुद्¦ (तमस् + नुद्) <div n='1'> 1) <lex>adj.</lex> <i>das Dunkel verscheuchend</i>: एवमुक्तस्तदात्रिर्वै तमोनुदभवच्छशी <ls>MBH. 13, 7298.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Lichtkörper</i> überh.: विले नष्टतमोनुदि so v. a. <i>finster</i> <ls>R. 5, 32, 23.</ls> <div n='2'>— b) <i>die Sonne.</i> <div n='2'>— c) <i>der Mond.</i> <div n='2'>— d) <i>Feuer</i> <ls>AK. 3, 4, 16, 92.</ls> <ls>H. an. 3, 332.</ls> <ls>MED. d. 49.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='2'>— e) <i>Lampe</i> <ls>ŚABDAR.</ls>"
+        }
     ]
 }

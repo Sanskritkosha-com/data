@@ -39,5 +39,55 @@
             "pagenum": 243,
             "content": "gItaka¦ <i>n.</i> A song."
         }
+    ],
+    "MW": [
+        {
+            "word": "गीतक",
+            "eid": "65316",
+            "pagenum": 356,
+            "content": "गीतक ¦ <lex>n.</lex> a song, hymn, <ls>Yājñ. iii, 113</ls>; <ls>BhP. viii</ls>; <ls>VP.</ls> (<ls>Sāh. i, 2/3, 14</ls>), <ls>Kathās.</ls><info lex='n'/>"
+        },
+        {
+            "word": "गीतक",
+            "eid": "65317",
+            "pagenum": 356,
+            "content": "¦ a kind of metre (नर्कुटक), <ls>VarBṛS. civ, 52</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गीतक",
+            "eid": "65318",
+            "pagenum": 356,
+            "content": "¦ melody (seven in number), <ls>MārkP. xxiii, 51</ls> and <ls n='MārkP. xxiii,'>59</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गीतक",
+            "eid": "17415",
+            "pagenum": 290,
+            "content": "<i>Gītaka, am,</i>¦ n. a song."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गीतक",
+            "eid": "35545",
+            "pagenum": 2,
+            "content": "गीतक¦ <div n='1'>— 1〉 <lex>n.</lex> <div n='2'>— a〉 <i>Gesang, Lied</i>. <div n='2'>— b〉 <i>ein <ab>best.</ab> Versmaass</i>. <div n='2'>— c〉 etwa Gesangsweise (deren sieben). <div n='1'>— 2〉 <lex>f.</lex> °तिका <div n='2'>— a〉 <i>ein kurzer Gesang, ein kleines Lied</i>. गाथिका <ab>v. l.</ab> <div n='2'>— b〉 <i>ein <ab>best.</ab> Metrum</i>. <div n='2'>— c〉 <i>eine Strophe im</i> <is>Gīti</is>-<i>Metrum</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गीतक",
+            "eid": "22472",
+            "pagenum": 2,
+            "content": "गीतक¦ (von गीत) <lex>n.</lex> <i>Gesang</i> <ls>YĀJÑ. 3, 113.</ls> <ls>VP.</ls> in <ls>SĀH. D. 2, 14.</ls> <ls>BHĀG. P. 8, 15, 21.</ls> सप्त स्वरा ग्रामरागाः सप्त - गीतकानि च सप्तैव तावतीश्चापि मूर्छनाः <ls>MĀRK. P. 23, 51. 59.</ls>"
+        },
+        {
+            "word": "गीतक",
+            "eid": "72778",
+            "pagenum": 5,
+            "content": "गीतक¦ <i>Gesang, Lied</i> <ls>KATHĀS. 69, 114.</ls> वीणायां गीतकं जगौ <ls n='KATHĀS.'>106, 23.</ls> <i>ein best. Versmaass</i>, = नर्कुटक <ls>VARĀH. BṚH. S. 104, 52.</ls>"
+        }
     ]
 }

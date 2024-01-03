@@ -13,5 +13,29 @@
             "pagenum": 536,
             "content": "Bezaja-AgAra¦ <i>m.n.</i> an apothecary’s shop."
         }
+    ],
+    "MW": [
+        {
+            "word": "भेषजागार",
+            "eid": "152944",
+            "pagenum": 766,
+            "content": "BezajA<srs/>gAra ¦ <lex>n.</lex> ‘<ab n='medicine'>m°</ab>-room’, a druggist's or apothecary's shop, <ls>Suśr.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "भेषजागार",
+            "eid": "80918",
+            "pagenum": 4,
+            "content": "भेषजागार¦ <lex>n.</lex> <i>Arzeneikammer, Apotheke</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भेषजागार",
+            "eid": "55755",
+            "pagenum": 5,
+            "content": "भेषजागार¦ (भे° + अगार oder आ°) <lex>n.</lex> <i>Arzeneikammer, Apotheke</i> <ls>SUŚR. 1, 136, 20.</ls>"
+        }
     ]
 }

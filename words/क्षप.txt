@@ -7,5 +7,41 @@
             "pagenum": 435,
             "content": "क्षपः¦ Water."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षप",
+            "eid": "58969",
+            "pagenum": 326,
+            "content": "क्षप ¦ <lex>mfn.</lex> <ab>v.l.</ab> for क्षम, <ab>q.v.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "क्षप",
+            "eid": "58996",
+            "pagenum": 326,
+            "content": "क्ष/पः ¦ <lex>ind.</lex> <ab>acc.</ab> <ab>pl.</ab> at night<info lex='ind'/>"
+        },
+        {
+            "word": "क्षप",
+            "eid": "58996.1",
+            "pagenum": 326,
+            "content": "क्षप/ः ¦ <lex>ind.</lex> <ab>gen.</ab> <ab>sg.</ab> at night<info lex='ind'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षप",
+            "eid": "32298",
+            "pagenum": 2,
+            "content": "*क्षप¦ <lex>Adj.</lex> <is>gaṇa</is> पचादि. <lex>m.</lex> <ls>LALIT. 341,16</ls> fehlerhaft für क्षेप."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षप",
+            "eid": "20148",
+            "pagenum": 2,
+            "content": "क्षप/¦ (v. l. क्षम) <lex>adj.</lex> von 1. क्षप् <is>gaṇa</is> पचादि zu <ls>P. 3, 1, 134.</ls>"
+        }
     ]
 }

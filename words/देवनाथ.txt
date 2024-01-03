@@ -53,5 +53,35 @@
             "pagenum": 182,
             "content": "देवनाथ¦ <i>m.</i> der Götterherr <i>(Bein. Śiva's).</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "देवनाथ",
+            "eid": "95762",
+            "pagenum": 493,
+            "content": "देव—नाथ ¦ <lex>m.</lex> ‘lord of the <ab n='gods'>g°</ab>’, <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>Śivag.</ls><info lex='m'/>"
+        },
+        {
+            "word": "देवनाथ",
+            "eid": "95763",
+            "pagenum": 493,
+            "content": "¦ of <ab>sev.</ab> authors (also -ठक्कुर, -tarka-paYcA<srs/>nana, and -पाठक). <info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवनाथ",
+            "eid": "52323",
+            "pagenum": 3,
+            "content": "देवनाथ¦ <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवनाथ",
+            "eid": "34509",
+            "pagenum": 3,
+            "content": "देवनाथ¦ (देव + नाथ) <lex>m.</lex> <i>der Herr der Götter</i>, Bein. <is>Śiva's</is> <ls>ŚIV.</ls>"
+        }
     ]
 }

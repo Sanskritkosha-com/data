@@ -31,5 +31,29 @@
             "pagenum": 3,
             "content": "आत्मोपनिषद्¦ Av. AS p. 4. 5. 18. <HI1>Dīpikā by Nārāyaṇa. AS p. 18."
         }
+    ],
+    "MW": [
+        {
+            "word": "आत्मोपनिषद्",
+            "eid": "23681",
+            "pagenum": 136,
+            "content": "Atmo<srs/>panizad ¦ <lex>f.</lex> <ab>N.</ab> of an <s1 slp1='upanizad'>Upaniṣad</s1>.<info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आत्मोपनिषद्",
+            "eid": "14308",
+            "pagenum": 1,
+            "content": "आत्मोपनिषद्¦ <lex>f.</lex> Titel einer <is>Upaniṣad</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आत्मोपनिषद्",
+            "eid": "8362",
+            "pagenum": 1,
+            "content": "आत्मोपनिषद्¦ (आ° + उ°) <lex>f.</lex> Titel <i>einer über die Allseele handelnden</i> <is>Upaniṣad</is> <ls>COLEBR. Misc. Ess. I, 95.</ls> <ls>Ind. St. 1, 249. 251. 302. 2, 56.</ls>"
+        }
     ]
 }

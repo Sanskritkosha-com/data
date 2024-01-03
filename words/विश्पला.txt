@@ -37,5 +37,49 @@
             "pagenum": 1745,
             "content": "1297,25.a <ab>v. u.</ab>: {865,8} <ab>st.</ab> {865,9} <info vn='chg 222 gra'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "विश्पला",
+            "eid": "200845",
+            "pagenum": 991,
+            "content": "विश्प/ला ¦ <lex>f.</lex> (<ab>accord.</ab> to some <ab>fr.</ab> <hom>2.</hom> विश् and पला = पाला) <ab>N.</ab> of a woman (whose lost leg was replaced by the <s1 slp1='aSvin'>Aśvin</s1>s), <ls>RV.</ls><info lex='f'/>"
+        },
+        {
+            "word": "विश्पला",
+            "eid": "200845.1",
+            "pagenum": 1332,
+            "content": "¦ (<ab>accord.</ab> to some, ‘<ab>N.</ab> of a mare’).<info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विश्पला",
+            "eid": "44165",
+            "pagenum": 943,
+            "content": "विश्पला¦ <i>viśpalā,</i> f. a proper N."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विश्पला",
+            "eid": "104693",
+            "pagenum": 6,
+            "content": "विश्प/ला¦ <lex>f.</lex> <ab>N. pr.</ab> eines Weibes, welchem die <is>Aśvin</is> die abgerissenen Beine wieder ersetzten."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विश्पला",
+            "eid": "93356",
+            "pagenum": 6,
+            "content": "विश्प/ला¦ <lex>f.</lex> N. pr. eines Weibes, welchem die <is>Aśvin</is> das abgerissene Bein wieder anheilen oder durch ein ehernes ersetzen, <ls>ṚV. 1, 112, 10.</ls> <ls n='ṚV. 1,'>116, 15.</ls> <ls n='ṚV. 1,'>117, 11.</ls>"
+        },
+        {
+            "word": "विश्पला",
+            "eid": "122130",
+            "pagenum": 7,
+            "content": "विश्पला¦ auch <ls n='ṚV.'>10, 39, 8.</ls>"
+        }
     ]
 }

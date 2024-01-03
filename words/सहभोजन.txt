@@ -36,5 +36,35 @@
             "pagenum": 768,
             "content": "saha-Bojana¦ <i>n.</i> eating together in company with friends."
         }
+    ],
+    "MW": [
+        {
+            "word": "सहभोजन",
+            "eid": "240268",
+            "pagenum": 1194,
+            "content": "सह—भोजन ¦ <lex>n.</lex> eating <ab n='together'>t°</ab>, commensality with (<ab>comp.</ab>), <ls>Gaut.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सहभोजन",
+            "eid": "240269",
+            "pagenum": 1194,
+            "content": "¦ common enjoyment or possession of (<ab>gen.</ab>), <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सहभोजन",
+            "eid": "122930",
+            "pagenum": 7,
+            "content": "सहभोजन¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Zusammenessen, Gemeinsamkeit eines Mahles, — mit Jmd</i> (im <ab>Comp.</ab> vorangehend <ls>GAUT.</ls>). <div n='1'>— 2〉 <i>gemeinschaftlicher Genuss</i> einer Sache (<ab>Gen.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सहभोजन",
+            "eid": "107553",
+            "pagenum": 7,
+            "content": "सहभोजन¦ <lex>n.</lex> <i>das Zusammenessen, Gemeinsamkeit eines Mahles</i> <ls>AK. 2, 9, 55.</ls> <ls>TRIK. 3, 2, 4.</ls> <ls>H. 425.</ls> <ls>PAÑCAR. 2, 2, 6.</ls> <i>gemeinschaftlicher Genuss</i>: रत्नस्य <ls>MBH. 1, 7242.</ls>"
+        }
     ]
 }

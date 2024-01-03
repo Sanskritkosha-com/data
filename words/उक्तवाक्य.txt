@@ -15,5 +15,27 @@
             "pagenum": 53,
             "content": "उक्तवाक्य¦ gesprochen habend."
         }
+    ],
+    "MW": [
+        {
+            "word": "उक्तवाक्य",
+            "eid": "30021",
+            "pagenum": 171,
+            "content": "उक्त—वाक्य ¦ <lex>mfn.</lex> one who has given an opinion, <ls>R.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "उक्तवाक्य",
+            "eid": "30022",
+            "pagenum": 171,
+            "content": "उक्त—वाक्य ¦ <lex>n.</lex> a dictum, decree, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उक्तवाक्य",
+            "eid": "17622",
+            "pagenum": 1,
+            "content": "उक्तवाक्य¦ <lex>Adj.</lex> <i>gesprochen habend</i> <ls n='Chr.'>89,29</ls>."
+        }
     ]
 }

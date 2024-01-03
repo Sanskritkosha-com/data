@@ -25,5 +25,35 @@
             "pagenum": 3,
             "content": "कूटमुद्गर¦ med. by Mādhava. AK 924 (with his own C.). Bd. 885. 886."
         }
+    ],
+    "MW": [
+        {
+            "word": "कूटमुद्गर",
+            "eid": "53864",
+            "pagenum": 299,
+            "content": "कूट—मुद्गर ¦ <lex>m.</lex> a concealed weapon similar to a hammer, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>R.</ls>; <ls>MārkP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कूटमुद्गर",
+            "eid": "53865",
+            "pagenum": 299,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कूटमुद्गर",
+            "eid": "29708",
+            "pagenum": 2,
+            "content": "कूटमुद्गर¦ <div n='1'>— 1〉 <lex>m.</lex> <i>eine versteckte hammerähnliche Waffe</i>. <div n='1'>— 2〉 Titel eines Werkes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कूटमुद्गर",
+            "eid": "18446",
+            "pagenum": 2,
+            "content": "कूटमुद्गर¦ (1. कूट 10. + मु°) <lex>m.</lex> <i>eine versteckte hammerähnliche Waffe</i> <ls>MBH. 13, 150.</ls> <ls>HARIV. 9330.</ls> <ls>R. 3, 28, 25.</ls> <ls n='R.'>6, 7, 23</ls> <ls n='R. 6,'>75, 25.</ls> <ls>MĀRK. P. 10, 59.</ls>"
+        }
     ]
 }

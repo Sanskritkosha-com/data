@@ -7,5 +7,29 @@
             "pagenum": 224,
             "content": "Ka-hara¦ <i>a.</i> having a cypher for its denominator (in math.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "खहर",
+            "eid": "60813",
+            "pagenum": 334,
+            "content": "ख—हर ¦ <lex>mfn.</lex> (in <ab>arithm.</ab>) having a cypher for its denominator (as a fraction). <info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खहर",
+            "eid": "33680",
+            "pagenum": 2,
+            "content": "खहर¦ <lex>Adj.</lex> <i>eine Null zum Nenner habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खहर",
+            "eid": "21114",
+            "pagenum": 2,
+            "content": "खहर¦ (ख + हर) <lex>adj.</lex> <i>eine Null zum Nenner habend</i> (ein Bruch) <ls>COLEBR. Alg. 19.</ls>"
+        }
     ]
 }

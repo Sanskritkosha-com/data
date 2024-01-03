@@ -47,5 +47,45 @@
             "pagenum": 345,
             "content": "dEvatya¦ <i>a. (f. त्या)</i> Addressed to a deity, sacred to a deity, <ls>Yaj.</ls>i.99."
         }
+    ],
+    "MD": [
+        {
+            "word": "दैवत्य",
+            "eid": "9619",
+            "pagenum": 126,
+            "content": "दैवत्य¦ daivat-ya, <lex>a.</lex> having as deity, sacred 🞄<i>or</i> addressed to (<ab>—°</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दैवत्य",
+            "eid": "96914",
+            "pagenum": 498,
+            "content": "दैवत्य ¦ <lex>mf(आ)n.</lex> (<ab>fr.</ab> देवता) <ab>ifc.</ab> having as one's deity, addressed or sacred to some <ab n='deity'>d°</ab>, <ls>Yājñ.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<ab>cf.</ab> देवत्य). <info lex='m:f#A:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दैवत्य",
+            "eid": "22753",
+            "pagenum": 435,
+            "content": "<i>Daivatya, as, ā, am</i>¦ (fr. <i>devatā</i>), having as one's deity, addressed to some deity, sacred to a deity; [cf. <i>devatya.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दैवत्य",
+            "eid": "52902",
+            "pagenum": 3,
+            "content": "°दैवत्य¦ <lex>Adj.</lex> <i>Jmd zur Gottheit habend, an Jmd als Gottheit</i> (<ab>Acc.</ab>) <i>gerichtet, Jmd als Gottheit</i> (<ab>Dat.</ab>) <i>geweiht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दैवत्य",
+            "eid": "34940",
+            "pagenum": 3,
+            "content": "दैवत्य¦ (von देवता) <lex>adj.</lex> (f. आ) am Ende eines comp. <i>Jmd zur Gottheit habend, an Jmd als Gottheit</i> (acc.) <i>gerichtet, Jmd als Gottheit</i> (dat.) <i>geweiht</i>: सूर्यदैवत्य (मन्त्र) <ls>YĀJÑ. 1, 99.</ls> नक्षत्रे ऽदितिदैवत्ये <ls>R. 1, 19, 2.</ls> तद्दैवत्यासु तिथिषु <ls>VARĀH. BṚH. S. 99, 3. 42 (43), 49.</ls> आरण्यान्सर्वदैवत्यान्मृगान्प्रोक्ष्य महावने <ls>MBH. 1, 4571.</ls> सर्व°, मद्दै° <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. p. 59.</ls> देवदैवत्ये पित्र्ये कर्मणि <ls>M. 2, 189.</ls> ऋग्वेदो देवदैवत्यः <ls n='M.'>4, 124.</ls> वाग्दैवत्यैश्च चारुभिः <ls n='M.'>8, 105.</ls> <div n='v'>— Vgl. देवत्य ."
+        }
     ]
 }

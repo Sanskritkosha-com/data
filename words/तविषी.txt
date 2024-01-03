@@ -34,5 +34,39 @@
             "pagenum": 1763,
             "content": "<b>táviṣī:</b>¦<info vn='add 345 gra'/> <div n='TS'>-īs [<ab>A.</ab> <ab>p.</ab>] {939,5}."
         }
+    ],
+    "MD": [
+        {
+            "word": "तविषी",
+            "eid": "8477",
+            "pagenum": 108,
+            "content": "तविषी¦ táv-iṣ-ī, <lex>f.</lex> strength, might, courage."
+        }
+    ],
+    "MW": [
+        {
+            "word": "तविषी",
+            "eid": "83623",
+            "pagenum": 441,
+            "content": "त/विषी ¦ <lex>f.</lex> power, strength, violence, courage (also <ab>pl.</ab>; <ab>instr.</ab> °षीभिस् <lex type='phw'>ind.</lex>, ‘powerfully, violently’), <ls>RV.</ls><info phwchild='83626.1'/><info lex='f'/>"
+        },
+        {
+            "word": "तविषी",
+            "eid": "83624",
+            "pagenum": 441,
+            "content": "¦ the earth, <ls>Uṇ., Sch.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तविषी",
+            "eid": "83625",
+            "pagenum": 441,
+            "content": "¦ a river, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तविषी",
+            "eid": "83626",
+            "pagenum": 441,
+            "content": "¦ a heavenly virgin (‘<ab>N.</ab> of a daughter of <s1 slp1='indra'>Indra</s1>’, <ls>L.</ls>), <ls>ib.</ls><info lex='inh'/>"
+        }
     ]
 }

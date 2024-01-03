@@ -52,5 +52,67 @@
             "pagenum": 597,
             "content": "yApya¦ <i>a. (f. प्या)</i> Low, contemptible, unimportant."
         }
+    ],
+    "MW": [
+        {
+            "word": "याप्य",
+            "eid": "171144",
+            "pagenum": 850,
+            "content": "याप्य <hom>a</hom> ¦ <lex>mfn.</lex> to be caused to go, to be expelled or discharged (as a witness), <ls>Gaut.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "याप्य",
+            "eid": "171145",
+            "pagenum": 850,
+            "content": "¦ to be removed or cured (as a disease), <ls>Suśr.</ls> (-त्व <lex type='phw'>n.</lex>)<info phwchild='171148.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "याप्य",
+            "eid": "171146",
+            "pagenum": 850,
+            "content": "¦ trifling, unimportant, <ls>VarBṛS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "याप्य",
+            "eid": "171147",
+            "pagenum": 850,
+            "content": "¦ mean, base (as an action), <ls>Gaut.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "याप्य",
+            "eid": "171148",
+            "pagenum": 850,
+            "content": "याप्य ¦ <lex>m.</lex> the father's elder brother, <ls>Gal.</ls><info lex='m'/>"
+        },
+        {
+            "word": "याप्य",
+            "eid": "171449",
+            "pagenum": 851,
+            "content": "याप्य <hom>b</hom> ¦ &c. See <pcol>p. 850, col. 1</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "याप्य",
+            "eid": "38521",
+            "pagenum": 814,
+            "content": "<i>Yāpya, as, ā, am,</i>¦ to be passed or spent (as time); to be removed or cured; to be expelled or rejected; low, vile, contemptible, little, trifling, unimportant. <i>—Yāpya-tva, am,</i> n. curability. <i>—Yāpya-yāna,</i> <i>am,</i> n. a palanquin, litter."
+        }
+    ],
+    "PW": [
+        {
+            "word": "याप्य",
+            "eid": "90794",
+            "pagenum": 5,
+            "content": "याप्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>fortzuschicken, fortzujagen</i> <ls>GAUT. 13,23</ls> (<i>dem ein Verweis zu ertheilen ist</i> <ls>BÜHLER</ls>). <div n='2'>— b〉 <i>zu lindern, sich lindern lassend (Krankheit)</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <div n='2'>— c〉 <i>gering, unbedeutend</i>. <div n='2'>— d〉 <i>gemein, schlecht</i> (Handlung) <ls>GAUT. 19,2</ls>. <div n='1'>— 2〉 *<lex>m.</lex> <i>des Vaters älterer Bruder</i> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "याप्य",
+            "eid": "81968",
+            "pagenum": 6,
+            "content": "याप्य¦ (vom caus. von 1. या) <lex>adj.</lex> = यापनीय <ls>MED. y. 47.</ls> <div n='1'> 1) <i>zu lindern, sich lindern lassend</i>; von Krankheiten <ls>SUŚR. 1, 30, 21. 87, 5. 127, 7. 253, 20. 2, 305, 4. 319, 17.</ls> <ls>ŚĀRṄG. SAṂH. 1, 5, 31.</ls> °त्व <lex>n.</lex> ebend. <div n='1'>— 2) <i>gering, unbedeutend</i> <ls>AK. 3, 2, 3.</ls> <ls>H. 1442.</ls> <ls>MED.</ls> <ls>P. 5, 3, 47.</ls> वैयाकरण <ls>Sch.</ls> फल <ls>VARĀH. BṚH. S. 4, 21. 19, 22. 86, 61.</ls>"
+        }
     ]
 }

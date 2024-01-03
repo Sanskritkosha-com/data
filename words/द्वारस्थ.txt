@@ -52,5 +52,35 @@
             "pagenum": 350,
             "content": "dvAra-sTa¦ <i>m.</i> a door-keeper."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्वारस्थ",
+            "eid": "98369",
+            "pagenum": 504,
+            "content": "द्वार—स्थ ¦ <lex>mfn.</lex> standing at the <ab n='door'>d°</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्वारस्थ",
+            "eid": "98370",
+            "pagenum": 504,
+            "content": "द्वार—स्थ ¦ <lex>m.</lex> <ab n='door'>d°</ab>-keeper, porter, <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्वारस्थ",
+            "eid": "53771",
+            "pagenum": 3,
+            "content": "द्वारस्थ¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>an der Thür —, am Thor stehend</i> <ls n='Chr.'>157,31</ls>. <div n='1'>— 2〉 <lex>m.</lex> <i>Thürsteher</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्वारस्थ",
+            "eid": "35601",
+            "pagenum": 3,
+            "content": "द्वारस्थ¦ (द्वार + स्थ) <lex>adj.</lex> <lex>f.</lex> आ <i>an der Thür stehend</i>; <lex>m.</lex> <i>Thürsteher</i> <ls>H. 721.</ls> <ls>HARIV. 8743.</ls> <ls>KATHĀS. 18, 116.</ls> <ls>PAÑCAT. 193, 11.</ls> <ls n='PAÑCAT.'>15, 25.</ls> <ls>INDR. 5, 17.</ls>"
+        }
     ]
 }

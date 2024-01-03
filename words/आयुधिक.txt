@@ -44,5 +44,77 @@
             "pagenum": 105,
             "content": "AyuDika¦ <i>m.</i> A soldier, a warrior."
         }
+    ],
+    "MD": [
+        {
+            "word": "आयुधिक",
+            "eid": "3777",
+            "pagenum": 41,
+            "content": "आयुधिक¦ āyudh-ika, -ín, -īya, <lex>a.</lex> armed; <lex>m.</lex> 🞄warrior."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आयुधिक",
+            "eid": "25962",
+            "pagenum": 149,
+            "content": "आयुधिक ¦ <lex>mfn.</lex> relating to arms<info lex='m:f:n'/>"
+        },
+        {
+            "word": "आयुधिक",
+            "eid": "25963",
+            "pagenum": 149,
+            "content": "¦ living by one's weapons<info lex='inh'/>"
+        },
+        {
+            "word": "आयुधिक",
+            "eid": "25964",
+            "pagenum": 149,
+            "content": "आयुधिक ¦ <lex>m.</lex> a warrior, soldier, <ls>Pāṇ. iv, 4, 14</ls>; <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आयुधिक",
+            "eid": "25964.1",
+            "pagenum": 1320,
+            "content": "आयु—°धिक or आयु—°धीयक, ¦ <lex>n.</lex> making or dealing in weapons, <ls>Baudh.</ls><info or='25964.1,AyuDika;25968.1,AyuDIyaka'/><info n='sup'/><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आयुधिक",
+            "eid": "9032",
+            "pagenum": 127,
+            "content": "<i>Āyudhika, as, ī, am,</i>¦ relating to arms; (<i>as</i>), m. a soldier, warrior."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आयुधिक",
+            "eid": "15346",
+            "pagenum": 1,
+            "content": "आयुधिक, आयुधिन् und आयुधीय (<ls n='Chr.'>214,4</ls>)¦ <lex>Adj.</lex> <i>bewaffnet;</i> <lex>m.</lex> <i>Krieger</i>. आयुधीयपुत्र <lex>m.</lex> <i>der Sohn eines Kriegerdienste thuenden Brahmanen</i> <ls>ĀPAST.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आयुधिक",
+            "eid": "9058",
+            "pagenum": 1,
+            "content": "आ/युधिक¦ (von आयुध) <lex>m.</lex> <i>Krieger</i> <ls>P. 4, 4, 14.</ls> <ls>AK. 2, 8, 2, 35.</ls> <ls>H. 770.</ls> <ls>MBH. 16, 212.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "आयुधिक",
+            "eid": "8628",
+            "pagenum": 6,
+            "content": "आयुधिक oder आयुधीयक¦ <lex>n.</lex> <i>Waffenhandwerk</i> <ls>BAUDH. 1,2,4</ls>."
+        },
+        {
+            "word": "आयुधिक",
+            "eid": "14268",
+            "pagenum": 7,
+            "content": "आयुधिक¦ I. 6."
+        }
     ]
 }

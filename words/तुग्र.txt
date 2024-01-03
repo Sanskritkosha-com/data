@@ -23,5 +23,57 @@
             "pagenum": 538,
             "content": "<b>túgra,</b>¦ <ab>m.</ab> [wol von tuj], Eigenname 1〉 für den Vater des bhujyú; 2〉 für einen Feind des Indra. <div n='TS'>-as 1〉 {116,3}. <div n='TS'>-am 2〉 {467,4}; {461,8}; {875,4}. <div n='TS'>-āya 1〉 {117,14}. <div n='TS'>-asya 1〉 〰 sūnúm (bhujyúm) {503,6}."
         }
+    ],
+    "MD": [
+        {
+            "word": "तुग्र",
+            "eid": "8650",
+            "pagenum": 110,
+            "content": "तुग्र¦ tug-ra, <lex>m.</lex> <ab>N.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "तुग्र",
+            "eid": "85733",
+            "pagenum": 449,
+            "content": "तु/ग्र ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Bujyu'>Bhujyu</s1>'s father (saved by the <s1 slp1='aSvin'>Aśvin</s1>s), <ls>RV. i</ls>; <ls n='RV.'>vi, 62</ls><info lex='m'/>"
+        },
+        {
+            "word": "तुग्र",
+            "eid": "85734",
+            "pagenum": 449,
+            "content": "¦ of an enemy of <s1 slp1='indra'>Indra</s1>, <ls n='RV. vi,'>20</ls> and <ls n='RV. vi,'>26</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तुग्र",
+            "eid": "85735",
+            "pagenum": 449,
+            "content": "¦ <ls n='RV.'>x.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तुग्र",
+            "eid": "21033",
+            "pagenum": 377,
+            "content": "तुग्र¦ <i>tugra, as,</i> m., N. of the father of Bhujyu who was protected by the Aśvins; N. of an enemy of Indra, conquered by the latter."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तुग्र",
+            "eid": "46167",
+            "pagenum": 3,
+            "content": "तु/ग्र¦ <lex>m.</lex> <ab>N. pr.</ab> <div n='1'>— 1〉 <i>des Vaters von</i> <is>Bhujyu</is>. <div n='1'>— 2〉 eines Feindes des <is>Indra</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तुग्र",
+            "eid": "29919",
+            "pagenum": 3,
+            "content": "तु/ग्र¦ <lex>m.</lex> N. pr. <div n='1'> 1) des Vaters von <is>Bhujyu</is>, der von den <is>Aśvin</is> gerettet wird: ता भु\\ज्युं विभि^र\\द्भ्यः स^मु\\द्रात्तुग्र^स्य सू\\नुमू^हथू\\ रजो^भिः <ls>ṚV. 6, 62, 6.</ls> <ls n='ṚV.'>1, 116, 3.</ls> <ls n='ṚV. 1,'>117, 14.</ls> <div n='1'>— 2) eines von <is>Indra</is> bekämpften Feindes <ls>ṚV. 6, 20, 8.</ls> त्वं तुग्र^ं वेत\\सवे\\ सचा^हन् <ls n='ṚV. 6,'>26, 4.</ls> <ls n='ṚV.'>10, 49, 4.</ls>"
+        }
     ]
 }

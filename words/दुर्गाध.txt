@@ -23,5 +23,29 @@
             "pagenum": 335,
             "content": "dur-gADa¦ <i>a.</i> difficult to be fathomed or investigated."
         }
+    ],
+    "MW": [
+        {
+            "word": "दुर्गाध",
+            "eid": "93905",
+            "pagenum": 485,
+            "content": "दुर्—गाढ (<ls>Hariv.</ls>), दुर्—गाध (<ls>Suśr.</ls>), and दुर्—गाह्य (-त्व <lex type='phw'>n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info and='93904,durgAQa;93905,durgADa;93906,durgAhya'/><info phwchild='93905.1'/><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दुर्गाध",
+            "eid": "51127",
+            "pagenum": 3,
+            "content": "दुर्गाध¦ <lex>Adj.</lex> <i>unergründlich</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दुर्गाध",
+            "eid": "33583",
+            "pagenum": 3,
+            "content": "दुर्गाध¦ (2. दुष् + गाध) <lex>adj.</lex> <i>unergründlich</i>: अम्बुधि <ls>SUŚR. 2, 302, 15.</ls>"
+        }
     ]
 }

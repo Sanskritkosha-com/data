@@ -116,5 +116,111 @@
             "pagenum": 7,
             "content": "acCa¦ <i>(II) m.</i> 1. A bear; 2. crystal."
         }
+    ],
+    "MD": [
+        {
+            "word": "अच्छ",
+            "eid": "440",
+            "pagenum": 4,
+            "content": "अच्छ¦ <hom>1.</hom> áccha, <lex>ad.</lex> near at hand; <ab>°—</ab> <i>or <ab>prp.</ab> 🞄with</i> <ab>ac.</ab> to, towards."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "441",
+            "pagenum": 4,
+            "content": "अच्छ¦ <hom>2.</hom> accha, clear; bright, pure."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अच्छ",
+            "eid": "1858",
+            "pagenum": 9,
+            "content": "<hom>1.</hom> अ-च्छ ¦ <lex>mfn.</lex> (<ab>fr.</ab> अ + छ for छद् or छय, √ छद्), ‘not shaded’, ‘not dark, pellucid’, transparent, clear<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अच्छ",
+            "eid": "1859",
+            "pagenum": 9,
+            "content": "अ-च्छ ¦ <lex>m.</lex> a crystal, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अच्छ",
+            "eid": "1864",
+            "pagenum": 9,
+            "content": "<hom>2.</hom> अच्छ ¦ <lex>m.</lex> (corruption of ऋक्ष), a bear.<info lex='m'/>"
+        },
+        {
+            "word": "अच्छ",
+            "eid": "1866",
+            "pagenum": 9,
+            "content": "<hom>3.</hom> अ/च्छ ¦ (so at the end of a <s1 slp1='pAda'>pāda</s1>), or usually अ/च्छा <lex type='nhw'>ind.</lex>, <ab>Ved.</ab> to, towards (governing <ab>acc.</ab> and rarely the locative). It is a kind of separable preposition or prefix to verbs and verbal derivatives, as in the following."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अच्छ",
+            "eid": "397",
+            "pagenum": 8,
+            "content": "अच्छ 1¦. <i>a-ccha, as, ā, am</i> (not shaded or covered, fr. <i>a + cha</i> for <i>chad</i> or <i>chāyā,</i> rt. <i>chad</i>), pellucid, transparent, clear; (<i>as</i>), m. a crystal. <i>—Acchoda (accha-uda), as, ā, am,</i> having clear water; (<i>ā</i>), f., N. of a river; a covering or garment of Viṣṇu (?); (<i>am</i>), n., N. of a lake in the Himālaya formed by the river Acchodā."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "399",
+            "pagenum": 8,
+            "content": "अच्छ 2¦. <i>accha, as,</i> m. (corruption of <i>ṛkṣa</i>), a bear. <i>—Accha-bhalla, as,</i> m. a bear; (<i>bhalla</i> itself means ‘a bear.’)"
+        },
+        {
+            "word": "अच्छ",
+            "eid": "400",
+            "pagenum": 8,
+            "content": "अच्छ 3¦. <i>accha</i> or usually <i>accha,</i> rarely <i>accham,</i> ind., Ved. to, towards (governing the accusative and rarely the locative). It is a kind of separable preposition or prefix to verbs and verbal derivatives, as in the following."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अच्छ",
+            "eid": "1160",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/च्छ¦ (ausnahmsweise) und अ/च्छा <lex>Adv.</lex> <i>nahe dabei, coram</i> <ls>ṚV. 8,33,13</ls>. In Verbindung mit Verben der Bewegung, des Redens und Hörens <i>zu, zu — hin, versus</i>. Als <ab>Präp.</ab> mit <ab>Acc.</ab> (<ab>Loc.</ab> nur einmal)."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "1161",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अच्छ¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>klar, durchsichtig; blank, rein</i> (auch <ab>übertr.</ab>). <div n='2'>— b〉 <i>lauter (ohne Zusatz)</i> <ls>CARAKA. 1,13</ls>. <div n='1'>— 2〉 *<lex>m.</lex> <div n='2'>— a〉 <i>Krystall</i>. <div n='2'>— b〉 <i>eine <ab>best.</ab> Pflanze</i>."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "1162",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> *अच्छ¦ <lex>m.</lex> = अऋक्ष <i>Bär</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अच्छ",
+            "eid": "835",
+            "pagenum": 1,
+            "content": "1. अच्छ¦ <div n='1'> 1) <lex>adj.</lex> <i>klar, durchsichtig</i> <ls>AK. 1, 2, 3, 14.</ls> <ls n='AK.'>3, 4, 6, 31.</ls> <ls>H. an. 2, 62.</ls> <ls>MED. ch. 1.</ls> <ls>SUŚR. 1, 32, 20.</ls> जलमच्छम् <ls>P. 1, 4, 69</ls>, <ls>Sch.</ls> अच्छस्फटिक <ls>SUŚR. 1, 303, 6.</ls> <ls>MEGH. 52.</ls> <i>rein</i>: अच्छकपोलमूलगलितैः - अश्रुभिः <ls>AMAR. 26</ls>; vgl. अच्छोद und स्वच्छ . <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Krystall</i> <ls>H. an.</ls> <ls>MED.</ls> <div n='2'>— b) <i>Bär</i> <ls>AK. 2, 5, 4.</ls> <ls n='AK.'>3, 4, 31.</ls> <ls>H. an.</ls> <ls>MED.</ls> — In der letzten Bedeutung ist अच्छ vielleicht aus ऋक्ष entstanden; im <is>Prākṛt</is> ist ऋक्ष in रिच्छ übergegangen; s. <ls>VARARUCI 3, 30.</ls>"
+        },
+        {
+            "word": "अच्छ",
+            "eid": "836",
+            "pagenum": 1,
+            "content": "2. अ/च्छ¦ praep. erscheint im <ls>ṚV.</ls> in Uebereinstimmung mit der Regel des <ls>ṚV. PRĀT. 7, 2.</ls> überall mit Dehnung (अच्छा), ausgenommen am Ende des Verses und in den zwei Verbindungen: इन्द्र\\मच्छ^ सु\\ता इ\\मे ( <ls>ṚV. 9, 106, 1.</ls> <ls>SV. I, 6, 2, 3, 1.</ls>) und अच्छ^ या\\ह्या व^ह ( <ls>ṚV. 1, 31, 17.</ls>); ferner kurz <ls>SV. I, 5, 2, 3, 5</ls>, wo <ls>ṚV.</ls> in der Parallele die Länge zeigt. Für <ls>VS.</ls> gilt dieselbe Regel, <ls>VS. PRĀT. 3, 124.</ls> Der <is>Padap</is>. hat immer die Kürze. Kommt immer nur in Verbindung mit verbis <i>movendi</i> oder <i>dicendi</i> vor <ls>P. 1, 4, 69.</ls> (अच्छगत्य, अच्छोद्य <ls>Sch.</ls>) <ls>VOP. 8, 44</ls> (अच्छसेधति); die Bedeutung — अभिमुखे oder आभिमुख्ये <ls>H. an. 2, 62.</ls> <ls>MED. kh. 1. 2</ls> (अच्छम्). <i>Zu, zu -x- hin, versus</i>, mit dem acc. und zwar <div n='2'> a) demselben vorangehend: अच्छा^ समु\\द्रम् <ls>ṚV. 1, 130, 5.</ls> अच्छा^ पि\\तर^ं मा\\तर^ं च <ls n='ṚV. 1,'>163, 3.</ls> <ls n='ṚV.'>8, 49, 2.</ls> <ls n='ṚV.'>3, 61, 5.</ls> u. s. w. <div n='2'>— b) ihm folgend: सखा\\रच्छा^ <ls>ṚV. 1, 165, 13.</ls> <ls n='ṚV.'>2, 39, 1.</ls> <ls n='ṚV.'>10, 45, 9.</ls> u. s. w. <ls>TAITT. BR. 3, 1, 1, 11.</ls> in <ls>Z. f. d. K. d. M. VII, 269.</ls> — Eine Construction mit dem loc. findet sich in der <ls>SV.</ls> ? -Lesart zu <ls>ṚV. 9, 91, 2</ls> : सद^ने\\ष्वच्छ^ und <ls n='ṚV. 9,'>92, 2</ls> : अच्छा^ नृ\\चक्षा^ असरत्प\\वित्रे^ . Bemerkenswerth sind die Verbindungen अच्छा वद् <i>begrüssen</i>: अच्छा^ वद त\\वस^ं गी\\र्भिरा\\भिः <ls>ṚV. 5, 83, 1.</ls> अग्ने\\ अच्छा^ वदे\\ह न^ः प्र\\त्यङ्न^ः सु\\मना^ भव <ls n='ṚV.'>10, 141, 1.</ls> अच्छा वच् <i>einladen</i>: अच्छा^ वोचेय शुशुचा\\नम\\ग्निम् <ls n='ṚV.'>4, 1, 19.</ls> <ls n='ṚV.'>1, 142, 4.</ls> <ls n='ṚV.'>3, 57, 4.</ls> <ls n='ṚV.'>6, 2, 11.</ls> अच्छा गम् <i>zu etwas kommen, erlangen</i>: स रत्न\\ं मर्त्यो\\ वसु\\ विश्व^ं तो\\कमु\\त त्मना^ ।   अच्छा^ गच्छ\\त्यस्तृ^तः ॥ <ls n='ṚV.'>1, 41, 6.</ls> Im <ls>AV.</ls> findet man Formen wie अ\\च्छाव^दामसि <ls n='AV.'>7, 38, 3.</ls> und अ\\च्छाय^न्ति <ls n='AV.'>12, 4, 14.</ls> <ls n='AV. 12, 4,'>15.</ls> vom <is>Padap</is>. in अच्छ + आ + वद् und अच्छ + आ + इ zerlegt; dagegen अच्छा^ वदामसि <ls n='AV.'>19, 2, 3.</ls> <div n='v'>— Vgl. अच्छावाक, अच्छेत, अच्छोक्ति ."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "62784",
+            "pagenum": 5,
+            "content": "1. अच्छ¦ <div n='1'> 1) <i>rein</i> (vom Herzen): °हृदय <lex>adj.</lex> <ls>Spr. 5175.</ls> सुवृत्ताच्छहृदया  <ls>KATHĀS. 21, 98.</ls> अच्छाच्छ <i>vollkommen klar, - durchsichtig</i>: चन्दनरस <ls>Spr. 31.</ls> <div n='1'>— 2) <div n='2'> c) <i>eine best. Pflanze</i>, s. u. गुन्द्र 1,b."
+        },
+        {
+            "word": "अच्छ",
+            "eid": "62785",
+            "pagenum": 5,
+            "content": "2. अच्छ¦ vgl. <ls>VS. PRĀT. 3, 123.</ls>"
+        }
     ]
 }

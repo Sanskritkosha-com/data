@@ -76,5 +76,51 @@
             "pagenum": 839,
             "content": "hyas¦ <i>ind.</i> Yesterday."
         }
+    ],
+    "MD": [
+        {
+            "word": "ह्यस्",
+            "eid": "20671",
+            "pagenum": 381,
+            "content": "ह्यस्¦ hyás, <lex>ad.</lex> yesterday: <b>-tana,</b> <lex>a.</lex> (<b>ī</b>) belonging 🞄to yesterday: <b>ī,</b> <lex>f.</lex> personal terminations 🞄of the imperfect."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ह्यस्",
+            "eid": "264653",
+            "pagenum": 1306,
+            "content": "ह्य/स् ¦ <lex>ind.</lex> (<ab>g.</ab> स्वर्-आदि) yesterday, <ls>RV.</ls>; &c. <info lex='ind'/>"
+        },
+        {
+            "word": "ह्यस्",
+            "eid": "264653.1",
+            "pagenum": 1306,
+            "content": "ह्यस् ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>χθές</lang>; <ab>Lat.</ab> <etym>hesternus</etym>, <etym>heri</etym>; <ab>Goth.</ab> <etym>gistra(-dagis)</etym>; <ab>Germ.</ab> <etym>gëstaron</etym>, <etym>gestern</etym>; <ab>Angl.Sax.</ab> <etym>geostra</etym>; <ab>Eng.</ab> <etym>yester(-day)</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ह्यस्",
+            "eid": "54454",
+            "pagenum": 1179,
+            "content": "ह्यस्¦ <i>hyas,</i> ind. (perhaps fr. 5. <i>ha + dyas</i>), yesterday; [cf. Gr. <lang n='greek'>χθές, ἐ-χθές, χθιζό-ς,</lang> <lang n='greek'>χθεσ-ινό-ς;</lang> Lat. <nsi>heri, hes-ternu-s;</nsi> Goth. <nsi>gistra-dagis;</nsi> Old Germ. <nsi>gester,</nsi> ‘yesterday.’] <i>—Hyo-bhava, as,</i> <i>ā, am,</i> what happened yesterday."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ह्यस्",
+            "eid": "135648",
+            "pagenum": 7,
+            "content": "ह्यस्, हिअ/स्¦ <lex>Adv.</lex> <i>gestern</i> <ls n='Chr.'>240,27 fgg.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ह्यस्",
+            "eid": "117797",
+            "pagenum": 7,
+            "content": "ह्य/स्¦ adv. <is>gaṇa</is> स्वरादि zu <ls>P. 1, 1, 37.</ls> <i>gestern</i> <ls>AK. 3, 5, 22.</ls> ? <ls>H. 1541.</ls> <ls>ṚV. 8, 55, 7.</ls> <ls n='ṚV. 8,'>88, 1.</ls> <ls n='ṚV.'>10, 55, 5.</ls> <ls>PAÑCAV. BR. 11, 9, 3.</ls> <ls>KATHĀS. 30, 105.</ls> <ls>RĀJA-TAR. 6, 46.</ls> <ls>Spr. (II) 7423.</ls>"
+        }
     ]
 }

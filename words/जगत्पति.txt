@@ -61,5 +61,65 @@
             "pagenum": 282,
             "content": "jagat-pati¦ <i>m.</i> the lord of the universe, the supreme deity."
         }
+    ],
+    "MW": [
+        {
+            "word": "जगत्पति",
+            "eid": "76245",
+            "pagenum": 408,
+            "content": "जगत्—पति ¦ <lex>m.</lex> the lord of the world, <ls>Prab. i, 22/23</ls> (°तस् प/ति, <ls>AV. vii, 17, 1</ls>)<info lex='m'/>"
+        },
+        {
+            "word": "जगत्पति",
+            "eid": "76246",
+            "pagenum": 408,
+            "content": "¦ <s1 slp1='brahmA'>Brahmā</s1>, <ls>MBh. i, 36, 20</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जगत्पति",
+            "eid": "76247",
+            "pagenum": 408,
+            "content": "¦ <s1 slp1='Siva'>Śiva</s1>, <ls n='MBh.'>xiii, 588</ls>; <ls>Kum. v, 59</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जगत्पति",
+            "eid": "76248",
+            "pagenum": 408,
+            "content": "¦ <s1 slp1='vizRu'>Viṣṇu</s1> or <s1 slp1='kfzRa'>Kṛṣṇa</s1>, <ls>Bhag. x, 15</ls>; <ls>R. i, 14, 24</ls>; <ls>VarP. clxix, 1</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जगत्पति",
+            "eid": "76249",
+            "pagenum": 408,
+            "content": "¦ <s1 slp1='agni'>Agni</s1>, <ls>MBh. i, 8418</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जगत्पति",
+            "eid": "76250",
+            "pagenum": 408,
+            "content": "¦ the sun, <ls>VP. iii, 5, 20</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जगत्पति",
+            "eid": "76251",
+            "pagenum": 408,
+            "content": "¦ a king, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जगत्पति",
+            "eid": "41241",
+            "pagenum": 2,
+            "content": "जगत्पति¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Herr der Welt, die höchste Gottheit</i>. <ab>Bein.</ab> <div n='2'>— a〉 <is>Brahman</is>ʼs <ls n='Chr.'>56,7</ls>. <div n='2'>— b〉 <is>Viṣṇu</is>ʼs oder <is>Kṛṣṇa</is>ʼs. <div n='2'>— c〉 <is>Śiva</is>ʼs. <div n='2'>— d〉 <is>Agni</is>ʼs <ls n='Chr.'>80,29</ls>. <div n='2'>— e〉 der Sonne <ls n='Chr.'>102,9</ls>. <div n='1'>— 2〉 *<i>Fürst, König</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जगत्पति",
+            "eid": "26330",
+            "pagenum": 3,
+            "content": "जगत्पति¦ (ज° + पति) <lex>m.</lex> <i>der Herr der Welt</i> <ls>PRAB. 13, 6.</ls> Bein. <is>Śiva's</is> <ls>MBH. 13, 588.</ls> <ls>KUMĀRAS. 5, 59.</ls> <is>Viṣṇu's</is> oder <is>Kṛṣṇa's</is> <ls>BHAG. 10, 15.</ls> <ls>R. 1, 14, 24.</ls> <ls>Verz. d. Oxf. H. 61,b.</ls> <i>König</i> <ls>WILS.</ls>"
+        }
     ]
 }

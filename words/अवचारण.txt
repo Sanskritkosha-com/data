@@ -31,5 +31,43 @@
             "pagenum": 72,
             "content": "avacAraRa¦ <i>n.</i> Employing, application."
         }
+    ],
+    "MW": [
+        {
+            "word": "अवचारण",
+            "eid": "17215.1",
+            "pagenum": 1317,
+            "content": "अव-चारण <hom>a</hom> ¦ <lex>mfn.</lex> running, <ab>ib.</ab><info n='sup'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अवचारण",
+            "eid": "17216",
+            "pagenum": 98,
+            "content": "अव-चारण <hom>b</hom> ¦ <lex>n.</lex> (in <ab>med.</ab>) application, <ls>Suśr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अवचारण",
+            "eid": "6263",
+            "pagenum": 89,
+            "content": "<i>Ava-cāraṇa, am,</i>¦ n. employing, application, mode of proceeding."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अवचारण",
+            "eid": "10292",
+            "pagenum": 1,
+            "content": "अवचारण¦ <lex>n.</lex> <i>das Anwenden</i> (<ab>medic.</ab>)"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अवचारण",
+            "eid": "6315",
+            "pagenum": 1,
+            "content": "अवचारण¦ (von चर् im caus. mit अव) <lex>n.</lex> <i>das Behandeln, Verfahren, Anwendung</i> <ls>SUŚR. 1, 31, 11. 42, 20. 315, 4. 2, 61, 3. 350, 3.</ls>"
+        }
     ]
 }

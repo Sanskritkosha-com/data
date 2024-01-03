@@ -28,5 +28,47 @@
             "pagenum": 736,
             "content": "Sveta-haya¦ <i>m.</i> 1. an epithet of Arjuna; 2. the horse of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "श्वेतहय",
+            "eid": "224790",
+            "pagenum": 1107,
+            "content": "श्वेत—हय ¦ <lex>m.</lex> a <ab n='white'>wh°</ab> horse (<ab>N.</ab> of the <ab n='horse'>h°</ab> of <s1 slp1='indra'>Indra</s1>), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "श्वेतहय",
+            "eid": "224791",
+            "pagenum": 1107,
+            "content": "¦ ‘having white <ab n='horse'>h°</ab>’, <ab>N.</ab> of <s1 slp1='arjuna'>Arjuna</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्वेतहय",
+            "eid": "116039",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> *श्वेतहय¦ <lex>m.</lex> <i>Schimmel,</i> <ab>Bez.</ab> des Rosses von [Page6-287-b] <is>Indra</is>."
+        },
+        {
+            "word": "श्वेतहय",
+            "eid": "116040",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *श्वेतहय¦ <lex>m.</lex> <ab>Bein.</ab> <is>Arjuna</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्वेतहय",
+            "eid": "102368",
+            "pagenum": 7,
+            "content": "1. श्वेतहय¦ <lex>m.</lex> ein <i>Schimmel</i>, Bez. des Rosses von <is>Indra</is> <ls>TRIK. 1, 1, 60.</ls>"
+        },
+        {
+            "word": "श्वेतहय",
+            "eid": "102369",
+            "pagenum": 7,
+            "content": "2. श्वेतहय¦ <lex>adj.</lex> <i>weisse Rosse habend</i>; <lex>m.</lex> ein Bein. <is>Arjuna's</is> <ls>H. 709.</ls>"
+        }
     ]
 }

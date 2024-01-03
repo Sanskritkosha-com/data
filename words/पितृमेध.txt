@@ -31,5 +31,35 @@
             "pagenum": 437,
             "content": "pitf-meDa¦ <i>m.</i> obsequial offerings."
         }
+    ],
+    "MW": [
+        {
+            "word": "पितृमेध",
+            "eid": "124088",
+            "pagenum": 626,
+            "content": "पितृ—मेध ¦ <lex>m.</lex> oblation made to the <ab n='Pitṛ' slp1='pitf'>P°</ab>s <ls>ŚrS.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "पितृमेध",
+            "eid": "124089",
+            "pagenum": 626,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पितृमेध",
+            "eid": "66993",
+            "pagenum": 4,
+            "content": "पितृमेध¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Manenopfer</i>. <div n='1'>— 2〉 Titel eines Werkes <ls>OPP. CAT. 1</ls>. °सार <ab>desgl.</ab> <ls>ebend.</ls> °सूत्र <lex>n.</lex> <ab>desgl.</ab> <ls>WEBER, Lit. 93</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पितृमेध",
+            "eid": "45276",
+            "pagenum": 4,
+            "content": "पितृमेध¦ (पितर् + मेध) <lex>m.</lex> <i>Manenopfer</i> <ls>KAUŚ. 80.</ls> <ls>KĀTY. ŚR. 21, 3, 1.</ls> <ls>MÜLLER, SL. 356.</ls> <ls>M. 5, 65.</ls> <ls>MBH. 1, 4929.</ls> <ls n='MBH.'>11, 794.</ls> <ls n='MBH.'>13, 7774.</ls> <ls n='MBH.'>16, 199.</ls> <ls>BHĀG. P. 9, 10, 29.</ls> <ls>Ind. St. 1, 83.</ls>"
+        }
     ]
 }

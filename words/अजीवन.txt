@@ -7,5 +7,43 @@
             "pagenum": 25,
             "content": "अजीवन¦ <i><ab>a.</ab></i> [न. ब.] Devoid of livelihood. --नं Non-existence, death."
         }
+    ],
+    "MW": [
+        {
+            "word": "अजीवन",
+            "eid": "2185",
+            "pagenum": 10,
+            "content": "अ/-जीवन ¦ <lex>mfn.</lex> destitute of a livelihood, <ls>AV.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अजीवन",
+            "eid": "476",
+            "pagenum": 10,
+            "content": "<i>A-jīvana, am,</i>¦ n. non-existence, death; (<i>as, ā,</i> <i>am</i>), destitute of a livelihood."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अजीवन",
+            "eid": "1375",
+            "pagenum": 1,
+            "content": "अ/जीवन¦ <lex>Adj.</lex> <i>ohne Lebensmittel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अजीवन",
+            "eid": "1006",
+            "pagenum": 1,
+            "content": "1. अजीवन¦ (3. अ + जीवन) <lex>n.</lex> <i>Nichtleben, Tod</i>: अजीवनार्ह <ls>R. 2, 38, 7.</ls>"
+        },
+        {
+            "word": "अजीवन",
+            "eid": "1007",
+            "pagenum": 1,
+            "content": "2. अ/जीवन¦ (3. अ + जीवन) <lex>adj.</lex> <i>ohne Lebensmittel</i> <ls>AV. 18, 2, 30.</ls>"
+        }
     ]
 }

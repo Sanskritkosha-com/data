@@ -29,5 +29,35 @@
             "pagenum": 1745,
             "content": "1256,26.b: 20 <ab>st.</ab> 19 <info vn='chg 213 gra'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "वाजिनीवसु",
+            "eid": "190444",
+            "pagenum": 938,
+            "content": "वाजि/नी—वसु ¦ (वाजि/नी-), <lex>mfn.</lex> = <ab>prec.</ab> <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वाजिनीवसु",
+            "eid": "190444.1",
+            "pagenum": 938,
+            "content": "¦ bestowing strength or power, <ls>TĀr.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वाजिनीवसु",
+            "eid": "100135",
+            "pagenum": 6,
+            "content": "वाजि/नीवसु¦ <lex>Adj.</lex> <div n='1'>— 1〉 so <ab>v. a.</ab> वाजिनी/वन्त् 1〉a〉. <div n='1'>— 2〉 <i>Kraft verleihend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वाजिनीवसु",
+            "eid": "89556",
+            "pagenum": 6,
+            "content": "वाजि/नीवसु¦ (वाजिन् + वसु) <lex>adj.</lex> so v. a. वाजिनीवन्त्: die <is>Aśvin</is> <ls>ṚV. 2, 37, 5.</ls> <ls n='ṚV.'>5, 74, 6.</ls> <ls n='ṚV.'>8, 5, 3.</ls> <ls n='ṚV.'>10, 40, 2.</ls> <is>Indra</is> <ls n='ṚV.'>3, 42, 5.</ls> अर्व^द्भि\\र्यो हरि^भिर्वा\\जिनी^वसुः  <ls n='ṚV.'>10, 96, 8.</ls> <ls n='ṚV.'>1, 2, 5.</ls> <i>Kraft verleihend</i>: ऊर्ध्वपवित्रो वाजिनीवस्वमृतमस्मि <ls>TAITT. ĀR. 7, 9</ls> in <ls>Ind. St. 10, 106</ls> = <ls>TAITT. UP. 1, 10</ls>, wo <ls>ŚAṂK.</ls> वाजिनीव (= वाजवतीव <ab>d. i.</ab> सवितरीव) स्व° trennt."
+        }
     ]
 }

@@ -36,5 +36,73 @@
             "pagenum": 652,
             "content": "vAtsaka¦ <i>n.</i> A herd of calves."
         }
+    ],
+    "MW": [
+        {
+            "word": "वात्सक",
+            "eid": "190634",
+            "pagenum": 939,
+            "content": "<hom>1.</hom> वात्सक ¦ <lex>n.</lex> (<ab>fr.</ab> वत्स) a herd of calves, <ls>Pāṇ. iv, 2, 39.</ls><info lex='n'/>"
+        },
+        {
+            "word": "वात्सक",
+            "eid": "190635",
+            "pagenum": 939,
+            "content": "<hom>2.</hom> वात्सक ¦ <lex>mfn.</lex> (<ab>fr.</ab> वत्सक) coming or made from the <bot>Wrightia Antidysenterica</bot>, <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वात्सक",
+            "eid": "190636",
+            "pagenum": 939,
+            "content": "<hom>3.</hom> वात्सक ¦ <lex>mfn.</lex> (<ab>fr.</ab> वात्स्य), <ls>Pat.</ls> on <ls>Pāṇ. iv, 2, 104</ls>, <ab>Vārtt.</ab> 18; 22.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वात्सक",
+            "eid": "41822",
+            "pagenum": 902,
+            "content": "वात्सक¦ <i>vātsaka, am,</i> n. (fr. <i>vatsa</i>), a herd of calves."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वात्सक",
+            "eid": "100445",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> *वात्सक¦ <lex>n.</lex> <i>Kälberschaar</i>."
+        },
+        {
+            "word": "वात्सक",
+            "eid": "100446",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> वात्सक¦ <lex>Adj.</lex> <i>von der <bot>Wrightia antidysenterica</bot> stammend</i>."
+        },
+        {
+            "word": "वात्सक",
+            "eid": "100447",
+            "pagenum": 6,
+            "content": "<hom>3.</hom> *वात्सक¦ <lex>Adj.</lex> von वात्स्य <ls>PAT. zu P. 4,2,104, Vārtt. 18. 22</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वात्सक",
+            "eid": "89826",
+            "pagenum": 6,
+            "content": "1. वा/त्सक¦ (von वत्स) <lex>n.</lex> <i>Kälberschaar</i> <ls>P. 4, 2, 39.</ls> <ls>AK. 2, 9, 60.</ls> <ls>H. 1417.</ls>"
+        },
+        {
+            "word": "वात्सक",
+            "eid": "89827",
+            "pagenum": 6,
+            "content": "2. वात्सक¦ (von वत्सक) <lex>adj.</lex> <i>von der Wrightia antidysenterica kommend</i>: फल <ls>SUŚR. 2, 431, 19.</ls>"
+        },
+        {
+            "word": "वात्सक",
+            "eid": "89828",
+            "pagenum": 6,
+            "content": "3. वात्सक¦ <lex>adj.</lex> von वात्स्य <ls>P. 6, 4, 151</ls>, Schol."
+        }
     ]
 }

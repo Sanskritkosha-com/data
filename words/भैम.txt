@@ -39,5 +39,51 @@
             "pagenum": 209,
             "content": "<b>bhaima,</b>¦ <i><ab>a.</ab></i> descended from Bhīma; <i><ab>f.</ab></i> <b>-ī,</b> Bhīma's daughter, Damayantī. [<b>bhīmá,</b> <ls n='wg,1208'>1208f</ls>.]"
         }
+    ],
+    "MD": [
+        {
+            "word": "भैम",
+            "eid": "13396",
+            "pagenum": 210,
+            "content": "भैम¦ bhaima, <lex>a.</lex> (<b>ī</b>) relating to Bhīma; <lex>m.</lex> 🞄<ab>pat.</ab> descendant of Bhīma: <b>ī,</b> <lex>f.</lex> <ab>pat.</ab> daughter 🞄of Bhīma, Damayantī."
+        }
+    ],
+    "MW": [
+        {
+            "word": "भैम",
+            "eid": "152974",
+            "pagenum": 767,
+            "content": "भैम ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> भीम, of which it is also the <s1 slp1='vfdDi'>Vṛddhi</s1> form in <ab>comp.</ab>) relating or belonging to <s1 slp1='BIma'>Bhīma</s1><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "भैम",
+            "eid": "152975",
+            "pagenum": 767,
+            "content": "भैम ¦ <lex>m.</lex> a descendant of <ab n='Bhīma' slp1='BIma'>Bh°</ab>, <ls>MBh.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भैम",
+            "eid": "35817",
+            "pagenum": 722,
+            "content": "भैम¦ <i>bhaima, as, ī, am</i> (fr. <i>bhīma</i>), relating to Bhīma; (<i>ās</i>), m. pl. the descendants of Bhīma; (<i>ī</i>), f. ‘the daughter of Bhīma,’ a patronymic of Damayantī; a festival on the eleventh day of Māgha, when ceremonies with <i>tila</i> or sesamum are performed in honour of Bhīma; [cf. Lith. <nsi>baime†,</nsi> ‘terror.’] <i>—Bhaima-pravīra, as,</i> m. the bravest of the Bhaimas, the chief of the Bhaimas."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भैम",
+            "eid": "80940",
+            "pagenum": 4,
+            "content": "भैम¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <i>zu</i> <is>Bhīma</is> <i>in Beziehung stehend</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Patron.</ab> von <is>Bhīma</is>. Auch <ab>Pl.</ab> <div n='1'>— 3〉 <lex>f.</lex> ई <div n='2'>— a〉 <i>der 11te Tag in der lichten Hälfte des</i> <is>Māgha</is>. [Page4-284-b] <div n='2'>— b〉 <ab>Patron.</ab> der <is>Damayantī</is>. <div n='2'>— c〉 Titel einer Grammatik <ls>OPP. CAT. 1</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भैम",
+            "eid": "55772",
+            "pagenum": 5,
+            "content": "भैम¦ (von भीम) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <i>zu</i> <is>Bhīma</is> <i>in Beziehung stehend</i>: एकादशी (s. भीमैकादशी <ls>Verz. d. Oxf. H. 154,a,5.</ls> <lex>f.</lex> subst. dass. <ls>ŚKDR.</ls> <ls>As. Res. III, 272.</ls> <ls>WILSON, Sel. Works I, 203. fgg. 203.</ls> Davon nom. abstr. भैमीत्व <ls>MATSYA-P.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>m.</lex> patron., pl. <ls>MBH. 3, 10268</ls> (भीमकर्मकर्तारो भीमवंशजा वा Schol.). <ls n='MBH.'>7, 4069.</ls> <ls>HARIV. 5243.</ls> <ls n='HARIV.'>7663.</ls> °प्रवीर <ls n='HARIV.'>8814.</ls> <lex>f.</lex> ई <is>Bhīma's</is> <i>Tochter</i>, patron. der <is>Damayantī</is> <ls>N. 1, 12.</ls> <ls n='N.'>7, 13.</ls> <ls n='N.'>12, 6.</ls>"
+        }
     ]
 }

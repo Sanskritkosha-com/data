@@ -33,5 +33,53 @@
             "pagenum": 190,
             "content": "2. द्व्यक्षर¦ <i>u.</i> द्व्य^क्षर zweisilbig; ein zw. Wort."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्व्यक्षर",
+            "eid": "99152",
+            "pagenum": 507,
+            "content": "द्व्य्—अ^क्षर ¦ <lex>n.</lex> <ab>sg.</ab> 2 syllables, <ls>TS.</ls><info lex='n'/>"
+        },
+        {
+            "word": "द्व्यक्षर",
+            "eid": "99153",
+            "pagenum": 507,
+            "content": "द्व्य्—अ^क्षर ¦ <lex>mf(आ)n.</lex> 2-syllabled, <ls>ŚBr.</ls> (अक्षर/, <ls>TS.</ls>)<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "द्व्यक्षर",
+            "eid": "99154",
+            "pagenum": 507,
+            "content": "द्व्य्—अ^क्षर ¦ <lex>n.</lex> a 2-syllabled word, <ls>ib.</ls> &c.<info lex='n'/>"
+        },
+        {
+            "word": "द्व्यक्षर",
+            "eid": "99155",
+            "pagenum": 507,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='SAman'>Śāman</s1><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्व्यक्षर",
+            "eid": "54294",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> द्व्य/क्षर¦ <lex>n.</lex> <ab>Sg.</ab> <i>zwei Silben</i> <ls>TS. 1,6,11,1</ls>."
+        },
+        {
+            "word": "द्व्यक्षर",
+            "eid": "54295",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> द्व्यक्षर/ (<ls>TS.</ls>) und द्व्यंक्षर (<ls>ŚAT. BR.</ls>)¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>zweisilbig</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>ein zweisilbiges Wort</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्व्यक्षर",
+            "eid": "35968",
+            "pagenum": 3,
+            "content": "द्व्य^क्षर¦ und द्व्यक्षर/ (द्वि + अक्षर) <lex>adj.</lex> <i>zweisilbig</i>; <lex>n.</lex> <i>ein zweisilbiges Wort</i> <ls>VS. 9, 31.</ls> यजेति\\ द्व्य^क्षरम् द्व्य\\क्ष\\रो व^षट्का\\रः <ls>TS. 1. 6, 11, 1.</ls> एकाक्षरद्व्यक्षराण्यव प्रथमं वदन्कुमारो वदति <ls>ŚAT. BR. 11, 1, 6, 4. 7, 1, 2, 22. 8, 3, 2, 11. 10, 2, 4, 6. 5. 4, 5. 11, 2, 2, 3.</ls> <ls>ĀŚV. GṚHY. 1, 15.</ls> <ls>BHĀG. P. 2, 9, 6. 4, 4, 14.</ls> <ls>N.</ls> eines <is>Sāman</is> <ls>Ind. St. 3, 220.</ls>"
+        }
     ]
 }

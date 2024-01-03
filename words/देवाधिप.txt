@@ -37,5 +37,35 @@
             "pagenum": 342,
             "content": "deva-aDipa¦ <i>m.</i> an epithet of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवाधिप",
+            "eid": "96205",
+            "pagenum": 495,
+            "content": "devA<srs/>Dipa ¦ <lex>m.</lex> ‘king of the <ab n='gods'>g°</ab>’, <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>MBh. v, 297</ls><info lex='m'/>"
+        },
+        {
+            "word": "देवाधिप",
+            "eid": "96206",
+            "pagenum": 495,
+            "content": "¦ of a king identified with the <s1 slp1='asura'>Asura</s1> <s1 slp1='nikumBa'>Nikumbha</s1>, <ls n='MBh.'>i, 2663.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवाधिप",
+            "eid": "52620",
+            "pagenum": 3,
+            "content": "देवाधिप¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Götterfürst,</i> <ab>Bein.</ab> <is>Indra</is>ʼs. <div n='1'>— 2〉 <ab>N. pr.</ab> eines Fürsten."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवाधिप",
+            "eid": "34747",
+            "pagenum": 3,
+            "content": "देवाधिप¦ (देव + अधि°) <lex>m.</lex> <div n='1'> 1) <i>Fürst der Götter</i>, von <is>Indra</is> <ls>MBH. 5, 297.</ls> <div n='1'>— 2) N. pr. eines Königs, der mit dem <is>Asura</is> <is>Nikumbha</is> identificirt wird, <ls>MBH. 1, 2663.</ls>"
+        }
     ]
 }

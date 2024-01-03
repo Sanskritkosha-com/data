@@ -55,5 +55,63 @@
             "pagenum": 781,
             "content": "sima¦ <i>a. (f. मा)</i> Every, all, entire."
         }
+    ],
+    "MD": [
+        {
+            "word": "सिम",
+            "eid": "19413",
+            "pagenum": 350,
+            "content": "सिम¦ simá, <lex>a.</lex> all, every (<ab>RV.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सिम",
+            "eid": "244936",
+            "pagenum": 1217,
+            "content": "<hom>1.</hom> सिम/ ¦ <lex>mfn.</lex> (<ab>prob.</ab> connected with <hom>1.</hom> सम; <ab>abl.</ab> सिम/स्मात् <ab>dat.</ab> सिम/स्मै; <ab>voc.</ab> सि/मा [<ls>Padap.</ls> सिम, <ls>RV. viii, 41</ls>]; <lex type='hwinfo'>n.</lex> <ab>pl.</ab> सि/मे) all, every, whole, entire (<ab>accord.</ab> to some = श्रेष्ठ; <ab>accord.</ab> to others = आत्मन्, ‘one's self’), <ls>RV.</ls><info lexcat='LEXID=pron,STEM=sima'/>"
+        },
+        {
+            "word": "सिम",
+            "eid": "244937",
+            "pagenum": 1217,
+            "content": "<hom>2.</hom> सि/म ¦ <lex>m.</lex> = शि/म, <ls>VS.</ls> (<ab>accord.</ab> to <ls>Mahīdh.</ls> = सीमा, रेखा). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सिम",
+            "eid": "52269",
+            "pagenum": 1116,
+            "content": "सिम¦ <i>sima, as, ā, am,</i> (in Uṇādi-s. I. 143. said to be fr. rt. <i>si;</i> probably connected with 1. <i>sama; simasmāt,</i> abl. c. <i>= sarvasmāt,</i> Ṛgveda I. 95, 7; <i>simasmai,</i> dat. c. everywhere, Ṛgveda 1. 115, 4), all, every, whole, entire; (<i>as</i>), m., Ved. ‘the best, most excellent,’ epithet of Indra, (in Ṛg-veda VIII. 4, 1. <i>simā,</i> voc. c. <i>= sima =</i> <i>śreṣṭhendra</i>); (<i>ā</i>), f., Ved. a cord, band, (according to some <i>as,</i> m.; cf. <i>sīmā.</i>) <i>—Simā-tva, am,</i> n., Ved. the state of a cord."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सिम",
+            "eid": "125423",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सिम/¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>jeder, all</i>. <div n='1'>— 2〉 *= श्रेष्ठ."
+        },
+        {
+            "word": "सिम",
+            "eid": "125424",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सि/म¦ <lex>m.</lex> = शि/म. Nach <ls>MAHĪDH.</ls> = सीमा, रेखा."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सिम",
+            "eid": "109536",
+            "pagenum": 7,
+            "content": "1. सिम/¦ pron. <ls>UṆĀDIS. 1, 143</ls> (सि/म) <ls>ŚĀNT. 4, 10. fg.</ls> (soll auch tonlos sein). <is>gaṇa</is> सर्वादि zu <ls>P. 1, 1, 27.</ls> <ls>VOP. 3, 9.</ls> <i>jeder, all</i> <ls>NIR. 4, 11.</ls> उच्छु\\क्रमत्क^मजते सि\\मस्मा^त् <ls>ṚV. 1, 95, 7.</ls> अमि^तक्रतुः सि\\मः <ls n='ṚV. 1,'>102, 6.</ls> रात्री\\ वास^स्तनुते सि\\मस्मै^ <ls n='ṚV. 1,'>115, 4.</ls> तमित्पृ^च्छान्त\\ न सि\\मो वि पृ^च्छति <ls n='ṚV. 1,'>145, 2.</ls> सि\\म उ\\क्ष्णो^ ऽवसृ\\ष्टाँ अ^दन्ति <ls n='ṚV.'>10, 28, 11.</ls> Angeblich so v. a. श्रेष्ठ. सिम इति वै श्रेष्ठमाचक्षत इति वाजसनेयकम् <ls>SĀY.</ls> zu <ls>ṚV. 8, 4, 1.</ls>"
+        },
+        {
+            "word": "सिम",
+            "eid": "109537",
+            "pagenum": 7,
+            "content": "2. सि/म¦ so v. a. शिम. अश्व^स्य वा\\जिन^स्त्व\\चि सिमा^ः शम्यन्तु\\ शम्य^न्तीः <ls>VS. 23, 37. 42</ls>, wo das fem. शम्यन्तीः irrig in den Text gekommen zu sein scheint; vgl. <ls>TS. 5, 2, 12, 1.</ls> nach <ls>MAHĪDH.</ls> = सीमा so v. a. रेखा ."
+        }
     ]
 }

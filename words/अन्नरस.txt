@@ -31,5 +31,49 @@
             "pagenum": 117,
             "content": "<b>anna-rasa,</b>¦ <i><ab>n.</ab></i> food and drink. [<ls n='wg,1253'>1253b</ls>.]"
         }
+    ],
+    "MW": [
+        {
+            "word": "अन्नरस",
+            "eid": "8530",
+            "pagenum": 45,
+            "content": "अन्न—रस ¦ <lex>m.</lex> essence of food, chyle<info lex='m'/>"
+        },
+        {
+            "word": "अन्नरस",
+            "eid": "8531",
+            "pagenum": 45,
+            "content": "¦ meat and drink, nutriment, taste in distinguishing food.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अन्नरस",
+            "eid": "5572",
+            "pagenum": 1,
+            "content": "अन्नरस¦ <lex>n.</lex> <ab>Sg.</ab> und <lex>m.</lex> <ab>Pl.</ab> <i>Speise und Trank</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अन्नरस",
+            "eid": "3510",
+            "pagenum": 1,
+            "content": "अन्नरस¦ (अन्न + रस) sg. oder pl. <i>Speise und Trank</i>: अपथ्यैः सह संभुक्ते व्याधिरन्नरसे यथा <ls>DAŚ. 2, 57.</ls> यमस्त्वन्नरसं प्रादात् <ls>N. 5, 37.</ls> नानाविधानन्नरसान्वन्यमूलफलाश्रयान् । तेभ्यो ददौ <ls>R. 2, 54, 17.</ls> Getrennt erscheinen die Worte <ls>VIŚV. 2, 24</ls> : रसेनान्नेन पेयेन लेह्यचोष्येण संयुतम् । अन्नानां निचयं सर्वं सृजस्व शबले त्वर ॥ <ls>WILS.</ls> : <i>Nahrungssaft.</i>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अन्नरस",
+            "eid": "3658",
+            "pagenum": 3,
+            "content": "अन्नरस¦ <lex>m.</lex> <i>Speisegeschmack</i> <ls>KAUṢ. UP. 3,5</ls>."
+        },
+        {
+            "word": "अन्नरस",
+            "eid": "11540",
+            "pagenum": 7,
+            "content": "अन्नरस¦ I. 3."
+        }
     ]
 }

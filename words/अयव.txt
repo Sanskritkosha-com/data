@@ -23,5 +23,73 @@
             "pagenum": 39,
             "content": "अ/यव¦ <lex>m.</lex>  °वस् <lex>n.</lex> the dark half-month."
         }
+    ],
+    "MW": [
+        {
+            "word": "अयव",
+            "eid": "14752",
+            "pagenum": 84,
+            "content": "<hom>1.</hom> अ/-यव ¦ <lex>m.</lex> the dark half of the month, <ls>VS.</ls>; <ls>ŚBr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अयव",
+            "eid": "14757",
+            "pagenum": 84,
+            "content": "<hom>2.</hom> अ-यव ¦ <lex>mfn.</lex> producing bad or no barley, <ls>Pāṇ. vi, 2, 108</ls>; <ls>Pat.</ls> and 172 <ls>Kāś.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अयव",
+            "eid": "14758",
+            "pagenum": 84,
+            "content": "अ-यव ¦ <lex>m.</lex> <ab>N.</ab> of one of the seven species of worms in the intestines, <ls>Suśr.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अयव",
+            "eid": "5614",
+            "pagenum": 79,
+            "content": "अयव 1¦. <i>ayava, as, ā, am,</i> deficient; (<i>as</i>), m., N. of a worm bred in the intestines."
+        },
+        {
+            "word": "अयव",
+            "eid": "5615",
+            "pagenum": 79,
+            "content": "अयव 2¦. <i>a-yava, as,</i> m. or <i>a-yavan, ā,</i> m. or <i>a-yavas, as,</i> n. the dark half of the month."
+        },
+        {
+            "word": "अयव",
+            "eid": "5616",
+            "pagenum": 79,
+            "content": "अयव 3¦. <i>a-yava, as, ā, am,</i> or <i>a-yavaka,</i> <i>as, ikā, am,</i> having worthless or no barley."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अयव",
+            "eid": "8753",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/यव¦ <lex>m.</lex> <i>die dunkele Monatshälfte</i>."
+        },
+        {
+            "word": "अयव",
+            "eid": "8754",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अयव¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>keine Gerste erzeugend</i> <ls>MAHĀBH. 6,82,a</ls> <div n='1'>— 2〉 <lex>m.</lex> <i>ein <ab>best.</ab> Eingeweidewurm</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अयव",
+            "eid": "5437",
+            "pagenum": 1,
+            "content": "1. अयव¦ <lex>m.</lex> N. eines Insects <ls>SUŚR. 2, 509, 15.</ls>"
+        },
+        {
+            "word": "अयव",
+            "eid": "5438",
+            "pagenum": 1,
+            "content": "2. अ/यव¦ (3. अ + य°) <lex>m.</lex> <i>die dunkle Monatshälfte</i> <ls>VS. 14, 26. 31.</ls> पूर्वपक्षा वै यवा अपरपक्षा अयवास्ते हीदं सर्वं युवते चायुवते च <ls>ŚAT. BR. 8, 4, 2, 11.</ls>"
+        }
     ]
 }

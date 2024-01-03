@@ -31,5 +31,35 @@
             "pagenum": 798,
             "content": "soma-sut¦ <i>m.</i> a <i>soma</i>-distiller."
         }
+    ],
+    "MW": [
+        {
+            "word": "सोमसुत्",
+            "eid": "253076",
+            "pagenum": 1251,
+            "content": "सोम—सु/त् ¦ <lex>mfn.</lex> pressing <ab n='Soma' slp1='soma'>S°</ab>, <ls>RV.</ls>; <ls>TBr.</ls>; <ls>ĀśvŚr.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "सोमसुत्",
+            "eid": "253077",
+            "pagenum": 1251,
+            "content": "सोम—सु/त् ¦ <lex>m.</lex> a <ab n='Soma' slp1='soma'>S°</ab>-distiller, a priest who offers the <s1 slp1='soma'>Soma</s1>-juice at a sacrifice, <ls>MW.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सोमसुत्",
+            "eid": "129711",
+            "pagenum": 7,
+            "content": "सोमसु/त्¦ <lex>Adj.</lex> <is>Soma</is> <i>kelternd</i> <ls>BĀLAR. 32,23</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सोमसुत्",
+            "eid": "112982",
+            "pagenum": 7,
+            "content": "सोमसु/त्¦ <lex>adj.</lex> <is>Soma</is> <i>pressend</i> <ls>P. 3, 2, 90.</ls> <ls>ṚV. 4, 24, 8.</ls> <ls n='ṚV.'>7, 68, 4.</ls> <ls n='ṚV. 7,'>93, 5.</ls> <ls n='ṚV.'>8, 46, 26.</ls> ग्रावा^णः <ls>TBR. 2, 7, 16, 4.</ls> <ls>ĀŚV. ŚR. 2, 1, 5.</ls> <ls>MBH. 2, 291.</ls> <ls>RAGH. 18, 26.</ls>"
+        }
     ]
 }

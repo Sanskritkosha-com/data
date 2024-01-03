@@ -7,5 +7,43 @@
             "pagenum": 780,
             "content": "प्रैयं¦ Being kind, kindness, love."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रैय",
+            "eid": "141140",
+            "pagenum": 713,
+            "content": "<hom>1.</hom> प्रैय ¦ <lex>n.</lex> (<ab>fr.</ab> प्रिय) <ab>g.</ab> पृथ्व्-आदि.<info lex='n'/>"
+        },
+        {
+            "word": "प्रैय",
+            "eid": "141141",
+            "pagenum": 713,
+            "content": "<hom>2.</hom> प्रैय ¦ <s1 slp1='vfdDi'>Vṛddhi</s1> form of प्रिय in <ab>comp.</ab>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रैय",
+            "eid": "33995",
+            "pagenum": 665,
+            "content": "प्रैय¦ <i>praiya, am,</i> n. an abstract noun from <i>priya,</i> see Gaṇa Pṛthv-ādi to Pāṇ. V. 1, 122."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रैय",
+            "eid": "75019",
+            "pagenum": 4,
+            "content": "*प्रैय¦ <lex>n.</lex> <ab>Nom. abstr.</ab> von प्रिय."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रैय",
+            "eid": "51226",
+            "pagenum": 4,
+            "content": "प्रैय/¦ <lex>n.</lex> nom. abstr. von प्रिय <is>gaṇa</is> पृथ्वादि zu <ls>P. 5, 1, 122.</ls>"
+        }
     ]
 }

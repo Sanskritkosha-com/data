@@ -23,5 +23,43 @@
             "pagenum": 121,
             "content": "Izma¦ <i>m.</i> 1. Kāmadeva; 2. spring."
         }
+    ],
+    "MW": [
+        {
+            "word": "ईष्म",
+            "eid": "29982",
+            "pagenum": 171,
+            "content": "ईष्म and <hom>1.</hom> ईष्व, ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='kAmadeva'>Kāmadeva</s1><info and='29982,Izma;29982.2,Izva'/><info lex='m'/>"
+        },
+        {
+            "word": "ईष्म",
+            "eid": "29982.1",
+            "pagenum": 171,
+            "content": "¦ spring, <ls>L.</ls> See इष्म and इष्व.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ईष्म",
+            "eid": "10130",
+            "pagenum": 144,
+            "content": "ईष्म¦ <i>īṣma</i> and <i>īṣva, as,</i> m. Kāmadeva; spring. See <i>iṣma</i> and <i>iṣva.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ईष्म",
+            "eid": "17600",
+            "pagenum": 1,
+            "content": "*ईष्म¦ <lex>m.</lex> = इष्म."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ईष्म",
+            "eid": "10569",
+            "pagenum": 1,
+            "content": "ईष्म/¦ und ई/ष्व = इष्म und इष्व <ls>Uṇ. 1, 143. 152.</ls>"
+        }
     ]
 }

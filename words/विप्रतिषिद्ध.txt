@@ -15,5 +15,33 @@
             "pagenum": 500,
             "content": "विप्रतिषिद्ध¦ <lex>a.</lex> forbidden, contrary, <lex>n.</lex> <ab>adv.</ab>"
         }
+    ],
+    "MW": [
+        {
+            "word": "विप्रतिषिद्ध",
+            "eid": "197898",
+            "pagenum": 975,
+            "content": "वि-प्रति-षिद्ध ¦ <lex>mfn.</lex> (√ <hom>2.</hom> सिध्) prohibited, forbidden, <ls>KātyŚr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विप्रतिषिद्ध",
+            "eid": "197899",
+            "pagenum": 975,
+            "content": "¦ contradicted, opposed (अम् <lex type='phw'>ind.</lex>), <ls>Nir.</ls>; <ls>Āpast.</ls> &c.<info phwchild='197900.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "विप्रतिषिद्ध",
+            "eid": "197900",
+            "pagenum": 975,
+            "content": "¦ of opposed meaning, <ls>Pāṇ. ii, 4, 13.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विप्रतिषिद्ध",
+            "eid": "43309",
+            "pagenum": 928,
+            "content": "विप्रतिषिद्ध¦ <i>vi-pratiṣiddha, as, ā, am</i> (fr. rt. <i>sidh</i> with <i>prati</i> and <i>vi</i>), contradicted, opposed, prohibited, forbidden."
+        }
     ]
 }

@@ -55,5 +55,81 @@
             "pagenum": 732,
             "content": "SrAya¦ <i>m.</i> Shelter, protection, refuge."
         }
+    ],
+    "MD": [
+        {
+            "word": "श्राय",
+            "eid": "18279",
+            "pagenum": 320,
+            "content": "श्राय¦ śrāy-á, <lex>a.</lex> provided with (<ab>lc.</ab>; <ab>RV.¹</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "श्राय",
+            "eid": "222484",
+            "pagenum": 1096,
+            "content": "<hom>1.</hom> श्राय/ ¦ <lex>mfn.</lex> possessing anything, furnished or provided with (<ab>loc.</ab>), <ls>RV. v, 53, 4</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "श्राय",
+            "eid": "222485",
+            "pagenum": 1096,
+            "content": "श्राय/ ¦ <lex>m.</lex> refuge, reliance, shelter, protection, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "श्राय",
+            "eid": "222486",
+            "pagenum": 1096,
+            "content": "¦ a house, dwelling, abode (<ab>cf.</ab> उच्-छ्राय), <ls>Bhaṭṭ.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्राय",
+            "eid": "222817",
+            "pagenum": 1098,
+            "content": "<hom>2.</hom> श्राय ¦ <lex>mfn.</lex> (for <hom>1.</hom> See <pcol>p. 1096, col. 3</pcol>) relating or belonging to <s1 slp1='SrI'>Śrī</s1>, <ls>Siddh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "श्राय",
+            "eid": "47382",
+            "pagenum": 1025,
+            "content": "श्राय¦ <i>śrāya,</i> &c. See col. 2."
+        },
+        {
+            "word": "श्राय",
+            "eid": "47396",
+            "pagenum": 1025,
+            "content": "<i>Śrāya, as,</i>¦ m. taking refuge, refuge, reliance, shelter, protection; [cf. <i>uc-chrāya</i>]; (<i>as, ī, am</i>), sacred or belonging to the goddess Śrī, (in this sense fr. 2. <i>śrī.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्राय",
+            "eid": "114974",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> श्राय/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>Etwas an sich habend, mit Etwas</i> (<ab>Loc.</ab>) <i>versehen</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Behausung</i> <ls>BHAṬṬ.</ls>"
+        },
+        {
+            "word": "श्राय",
+            "eid": "114975",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *श्राय¦ <lex>Adj.</lex> <i>zur</i> <is>Śrī</is> <i>in Beziehung stehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्राय",
+            "eid": "101543",
+            "pagenum": 7,
+            "content": "1. श्राय/¦ (von 1. श्रि) <ls>P. 3, 3, 24.</ls> <div n='1'> 1) <lex>adj.</lex> <i>Etwas an sich habend, mit Etwas</i> (loc.) <i>versehen</i>: श्रा\\या रथे^षु\\ धन्व^सु <ls>ṚV. 5, 53, 4.</ls> <div n='1'>— 2) <lex>m.</lex> = श्रयण <ls>AK. 3, 3, 12.</ls> <i>Behausung</i>: यात यूयं यमश्रायम् (= यमस्थानम् Comm.) <ls>BHAṬṬ. 7, 36.</ls>"
+        },
+        {
+            "word": "श्राय",
+            "eid": "101544",
+            "pagenum": 7,
+            "content": "2. श्राय¦ <lex>adj.</lex> <i>zur</i> <is>Śri</is> <i>in Beziehung stehend</i>: हविस् <ls>SIDDH. K.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

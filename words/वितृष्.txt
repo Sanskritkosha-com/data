@@ -15,5 +15,49 @@
             "pagenum": 404,
             "content": "वितृष्¦ <i>u.</i> °ष frei von Durst."
         }
+    ],
+    "MW": [
+        {
+            "word": "वितृष्",
+            "eid": "193097",
+            "pagenum": 950,
+            "content": "वि—तृष् or वि—तृष, ¦ <lex>mfn.</lex> free from thirst, <ls>BhP.</ls><info or='193097,vitfz;193098,vitfza'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वितृष्",
+            "eid": "195579",
+            "pagenum": 963,
+            "content": "<hom>1.</hom> वि-√ तृष् ¦ <ab>P.</ab> -तृष्यति, to be thirsty, <ls>VS.</ls>; <ls>TS.</ls>; <ls>Kāṭh.</ls> : <div n='vp'/><ab>Caus.</ab> -तर्षयति (<ab>aor.</ab> -तीतृषत्), to make thirsty, cause to thirst, <ls>TS.</ls>; <ls>Kāṭh.</ls><info verb='pre' cp='P' parse='vi+tfz'/>"
+        },
+        {
+            "word": "वितृष्",
+            "eid": "195582",
+            "pagenum": 963,
+            "content": "<hom>2.</hom> वि-तृष् ¦ &c. See <pcol>p. 950, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वितृष्",
+            "eid": "42696",
+            "pagenum": 918,
+            "content": "वितृष्¦ <i>vi-tṛṣ,</i> cl. 4. P. <i>-tṛṣyati, -tarṣi-</i> <i>tum,</i> to be thirsty: Caus. <i>-tarṣayati, -yitum,</i> to make thirsty, cause to thirst."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वितृष्",
+            "eid": "102462",
+            "pagenum": 6,
+            "content": "वितृष्¦ <lex>Adj.</lex> <i>frei von Durst</i>. <ab>Vgl.</ab> अ° (<ls>Nachtr. 5</ls>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वितृष्",
+            "eid": "91531",
+            "pagenum": 6,
+            "content": "वितृष्¦ (2. वि + तृष्) <lex>adj.</lex> <i>frei von Durst</i> <ls>BHĀG. P. 4, 6, 26.</ls> अ° <i>dessen Durst nicht gestillt werden kann</i> <ls n='BHĀG. P.'>29, 40.</ls>"
+        }
     ]
 }

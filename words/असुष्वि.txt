@@ -31,5 +31,51 @@
             "pagenum": 157,
             "content": "<b>á-suṣvi,</b>¦ <ab>a.</ab>, <i>nicht Soma bereitend</i> [súṣvi], <i>unfromm</i>. <div n='TS'>-es {321,6} (paktím). <div n='TS'>-īn {320,5}; {485,11}."
         }
+    ],
+    "MD": [
+        {
+            "word": "असुष्वि",
+            "eid": "3214",
+            "pagenum": 35,
+            "content": "असुष्वि¦ á-suṣvi, <lex>a.</lex> not Soma-pressing, niggardly."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असुष्वि",
+            "eid": "21110",
+            "pagenum": 121,
+            "content": "अ/-सुष्वि <hom>a</hom> ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls>RV. iv, 24, 5</ls>; <ls n='RV. iv,'>25, 6</ls>; <ls n='RV.'>vi, 44, 11.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "असुष्वि",
+            "eid": "21125",
+            "pagenum": 121,
+            "content": "अ/-सुष्वि <hom>b</hom> ¦ See अ/-सुत."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असुष्वि",
+            "eid": "7576",
+            "pagenum": 106,
+            "content": "असुष्वि¦ <i>a-suṣvi.</i> See under. 1. <i>a-suta.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "असुष्वि",
+            "eid": "12723",
+            "pagenum": 1,
+            "content": "अ/सुष्वि¦ <lex>Adj.</lex> <i>keinen</i> <is>Soma</is> <i>auspressend, unfromm</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "असुष्वि",
+            "eid": "7446",
+            "pagenum": 1,
+            "content": "अ/सुष्वि¦ (3. अ + सु°) <lex>adj.</lex> <i>keinen</i> <is>Soma</is> <i>bereitend, unfromm</i>: नासु^ष्वेरा\\पिर्न सखा^ <ls>ṚV. 4, 25, 6.</ls> <ls n='ṚV. 4,'>24, 5.</ls> ज\\ह्यसु^ष्वी\\न्प्र वृ\\हापृ^णतः <ls n='ṚV.'>6, 44, 11.</ls>"
+        }
     ]
 }

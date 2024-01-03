@@ -7,5 +7,67 @@
             "pagenum": 93,
             "content": "आस्कन्दिन्¦ <i>ā-skand + in,</i> <b>I.</b> <ab>adj.</ab>, <ab>f.</ab> <i>nī,</i> Jumping on, <ls>Ragh.</ls> 17, 52. <b>II.</b> <ab>m.</ab> A donor, <ls>Kathās.</ls> 24, 87."
         }
+    ],
+    "MW": [
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "28108",
+            "pagenum": 161,
+            "content": "आ-स्कन्दिन् ¦ <lex>mfn.</lex> jumping upon, <ls>Ragh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "28109",
+            "pagenum": 161,
+            "content": "¦ assailing<info lex='inh'/>"
+        },
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "28110",
+            "pagenum": 161,
+            "content": "¦ causing to jump away, giving away, granting, <ls>Kathās.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "28111",
+            "pagenum": 161,
+            "content": "¦ a robber, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "9680",
+            "pagenum": 135,
+            "content": "<i>Ā-skandin, ī, inī, i,</i>¦ jumping upon, assailing; causing to flow; granting."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "16432",
+            "pagenum": 1,
+            "content": "आस्कन्दिन्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>springend auf</i>. <div n='2'>— b〉 <i>angreifend</i>. <div n='2'>— c〉 <i>spendend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>Räuber</i> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "9797",
+            "pagenum": 1,
+            "content": "आस्कन्दिन्¦ (von स्कन्द् mit आ) <lex>adj.</lex> <div n='1'> 1) <i>auf Jmd springend</i>: सिंहो गजास्कन्दी <ls>RAGH. 17, 52.</ls> <div n='1'>— 2) (vom caus.) <i>fliessen lassend, spendend</i>: आस्कन्दी दक्षिणार्धस्य - कीनाशो गीयते द्विजैः <ls>KATHĀS. 24, 87.</ls>"
+        },
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "67077",
+            "pagenum": 5,
+            "content": "आस्कन्दिन्¦ <div n='1'> 3) <i>angreifend</i>; s. परास्कन्दिन् ."
+        },
+        {
+            "word": "आस्कन्दिन्",
+            "eid": "118889",
+            "pagenum": 7,
+            "content": "आस्कन्दिन्¦ <div n='1'> 2) सुधास्यन्दास्कन्दिन् (wegen der Cäsur besser सुधास्यन्दस्कन्दिन्) <ls>Spr. (II) 5934.</ls>"
+        }
     ]
 }

@@ -28,5 +28,41 @@
             "pagenum": 589,
             "content": "yakza-DUpa¦ <i>m.</i> resin, incense."
         }
+    ],
+    "MW": [
+        {
+            "word": "यक्षधूप",
+            "eid": "169039",
+            "pagenum": 838,
+            "content": "यक्ष—धूप ¦ <lex>m.</lex> a <ab>partic.</ab> incense, <ls>Hcat.</ls><info lex='m'/>"
+        },
+        {
+            "word": "यक्षधूप",
+            "eid": "169040",
+            "pagenum": 838,
+            "content": "¦ the resin of <bot>Shorea Robusta</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "यक्षधूप",
+            "eid": "169041",
+            "pagenum": 838,
+            "content": "¦ resin in general, <ls>W.</ls> (also °पक, <ls>Gal.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "यक्षधूप",
+            "eid": "89340",
+            "pagenum": 5,
+            "content": "यक्षधूप¦ <lex>m.</lex> <i>ein <ab>best.</ab> Räucherwerk</i> <ls>HEMĀDRI 2,1,50,18</ls>. Nach den Lexicographen <i>das Harz der <bot>Shorea robusta</bot></i>. Auch *°ध्य्पक <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यक्षधूप",
+            "eid": "80827",
+            "pagenum": 6,
+            "content": "यक्षधूप¦ (1. यक्ष + धूप) <lex>m.</lex> <i>das Harz der Shorea robusta</i> <ls>AK. 2, 6, 3, 29.</ls> <ls>H. 647.</ls>"
+        }
     ]
 }

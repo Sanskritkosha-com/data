@@ -23,5 +23,41 @@
             "pagenum": 335,
             "content": "dur-uttara¦ <i>a.</i> unanswerable."
         }
+    ],
+    "MW": [
+        {
+            "word": "दुरुत्तर",
+            "eid": "93846",
+            "pagenum": 485,
+            "content": "<hom>1.</hom> दुर्—उत्तर ¦ <lex>mfn.</lex> (<ab>fr.</ab> <hom>1.</hom> उत्तर) unanswerable, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "दुरुत्तर",
+            "eid": "93847",
+            "pagenum": 485,
+            "content": "<hom>2.</hom> दुर्—उत्तर ¦ <lex>mfn.</lex> (<ab>fr.</ab> <hom>2.</hom> उत्तर or <ns>Prākṛt</ns> for दुस्-तर) <ab n='difficult'>d°</ab> to be crossed or overcome, <ls>Kathās. xxvi, 10</ls>; <ls>Kull.</ls> on <ls>Mn. ix, 161.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दुरुत्तर",
+            "eid": "51054",
+            "pagenum": 3,
+            "content": "दुरुत्तर¦ <lex>Adj.</lex> <i>schwer zu überwinden</i>. Häufig im <lang>Prākrit</lang> und vielleicht aus दुस्तर entstanden; <ab>s.</ab> <ls>KUHNʼS Z. 23,595</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दुरुत्तर",
+            "eid": "33528",
+            "pagenum": 3,
+            "content": "दुरुत्तर¦ (2. दुष् + 2. उत्तर) <lex>adj.</lex> <i>worüber man schwer hinwegkommt, schwer zu überwinden</i>: क्लेशाः <ls>KATHĀS. 26, 110.</ls> दुःख <ls>KULL.</ls> zu <ls>M. 9, 161.</ls>"
+        },
+        {
+            "word": "दुरुत्तर",
+            "eid": "75877",
+            "pagenum": 5,
+            "content": "दुरुत्तर¦, कृच्छ्राणि <ls>KATHĀS. 101, 387.</ls>"
+        }
     ]
 }

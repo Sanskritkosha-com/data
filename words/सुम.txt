@@ -50,5 +50,57 @@
             "pagenum": 786,
             "content": "suma¦ <i>(II) n.</i> A flower."
         }
+    ],
+    "MD": [
+        {
+            "word": "सुम",
+            "eid": "19528",
+            "pagenum": 354,
+            "content": "सुम¦ suma, <lex>n.</lex> flower (<i>rare</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सुम",
+            "eid": "248177",
+            "pagenum": 1230,
+            "content": "सु-म ¦ <lex>m.</lex> (<ab>i.e.</ab> <hom>5.</hom> सु + <hom>4.</hom> म; √ <hom>3.</hom> मा) the moon, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुम",
+            "eid": "248178",
+            "pagenum": 1230,
+            "content": "¦ the sky, atmosphere, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुम",
+            "eid": "248179",
+            "pagenum": 1230,
+            "content": "सु-म ¦ <lex>n.</lex> a flower (<ab>cf.</ab> सु-मनस्), <ls>Cāṇ.</ls>; <ls>Śatr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सुम",
+            "eid": "52433",
+            "pagenum": 1128,
+            "content": "सुम¦ <i>suma, as,</i> m. (probably fr. 5. <i>su</i> + 4. <i>ma,</i> see rt. 3. <i>mā</i>), the moon; the sky, atmosphere, <i>= nabha; (am),</i> n. a flower."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुम",
+            "eid": "127135",
+            "pagenum": 7,
+            "content": "सुम¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>der Mond</i>. <div n='2'>— b〉 <i>Luftraum, Himmel</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>Blume</i> <ls>BHADRAB. 2,21. 70</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुम",
+            "eid": "110890",
+            "pagenum": 7,
+            "content": "सुम¦ <div n='1'> 1) <lex>m.</lex> = चन्द्र und नभस् <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>n.</lex> = कुसुम <i>Blume, Blüthe</i> <ls>BHARATA</ls> zu <ls>AK. 2, 4, 1, 17</ls> nach <ls>ŚKDR.</ls> <ls>H. 1124.</ls> <ls>Spr. (II) 2921.</ls> <ls>ŚATR. 14, 222.</ls>"
+        }
     ]
 }

@@ -66,5 +66,59 @@
             "pagenum": 566,
             "content": "mAtAmaha¦ <i>(II) m. du.</i> grandfather and grandmother on the mother’s side."
         }
+    ],
+    "MW": [
+        {
+            "word": "मातामह",
+            "eid": "162370",
+            "pagenum": 807,
+            "content": "माता—मह ¦ <lex>m.</lex> (<ls>Pāṇ. iv, 2, 35</ls>, <ab>Vārtt.</ab> 2, <ls>Pat.</ls>) a maternal grandfather, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "मातामह",
+            "eid": "162371",
+            "pagenum": 807,
+            "content": "¦ (<ab>du.</ab>) <ab n='maternal'>mat°</ab> grandparents, <ls>PārGṛ.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मातामह",
+            "eid": "162372",
+            "pagenum": 807,
+            "content": "¦ (<ab>pl.</ab>) a mother's father, grandfather, and ancestors, <ls>Yājñ.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मातामह",
+            "eid": "162374",
+            "pagenum": 807,
+            "content": "माता—मह ¦ <lex>mf(ई)n.</lex> related or belonging to a <ab n='maternal'>mat°</ab> grandfather, <ls>R.</ls>; <ls>Hariv.</ls> (also °हीय <lex type='phw'>mfn.</lex>, <ls>Hariv.</ls>, <ab>Sch.</ab>)<info phwchild='162374.1'/><info lex='m:f#I:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मातामह",
+            "eid": "85808",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> मातामह¦ <div n='1'>— 1〉 <lex>m.</lex> <i>der mütterliche Grossvater</i>. <ab>Du.</ab> <i>die Grosseltern mütterlicherseits;</i> <ab>Pl.</ab> <i>der Vater, Grossvater</i> und <i>die Ahnen der Mutter</i>. <div n='1'>— 2〉 <lex>f.</lex> ई <i>die mütterliche Grossmutter</i>."
+        },
+        {
+            "word": "मातामह",
+            "eid": "85809",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> मातामह¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>zum Vater der Mutter in Beziehung stehend, ihm gehörig</i> <ab>u. s. w.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मातामह",
+            "eid": "59611",
+            "pagenum": 5,
+            "content": "1. मातामह/¦ (माता, nom. von 1. मातर्, + 2. मह) <lex>m.</lex> <i>mütterlicher Grossvater</i> <ls>P. 4, 2, 36</ls>, <is>Vārtt</is>. 2. <ls>AK. 2, 6, 1, 33.</ls> <ls>H. 557.</ls> <ls>M. 3, 148. 9, 132. 136.</ls> <ls>R. 2, 67, 6.</ls> <ls n='R. 2,'>107, 3.</ls> <ls n='R.'>6, 11, 9.</ls> <ls>VIKR. 101.</ls> <ls>KATHĀS. 42, 84.</ls> <ls n='KATHĀS.'>67, 51.</ls> <ls>MĀRK. P. 30, 21.</ls> <ls>RĀJA-TAR. 4, 8.</ls> <ls>PAÑCAR. 1, 9, 24.</ls> °म/ही <lex>f.</lex> <i>mütterliche Grossmutter</i> <ls>P. 4, 2, 36</ls>, <is>Vārtt</is>. 3. <is>gaṇa</is> गौर्यादि zu <ls>P. 4, 1, 41.</ls> <ls>M. 9, 193.</ls> <ls>RĀJA-TAR. 5, 289.</ls> °महौ du. <i>die Grosseltern mütterlicher Seits</i> <ls>PĀR. GṚHY. 3, 10.</ls> pl. <i>der Vater, Grossvater und die Ahnen der Mutter</i> <ls>H. 559.</ls> <ls>YĀJÑ. 1, 228.</ls> <ls>KŪRMA-P.</ls> in <ls>ŚUDDHIT.</ls> <ls>ŚKDR.</ls> °श्राद्ध <ls>Verz. d. Oxf. H. 284,a,6</ls> v. u. <div n='v'>— Vgl. प्र° ."
+        },
+        {
+            "word": "मातामह",
+            "eid": "59612",
+            "pagenum": 5,
+            "content": "2. मातामह¦ (vom vorherg.) <lex>adj.</lex> <lex>f.</lex> ई <i>zum Vater der Mutter in Beziehung</i> <i>stehend, ihm gehörig</i> u. s. w.: यज्ञ <ls>HARIV. 12215.</ls> कुल <ls>R. GORR. 2, 74, 7.</ls> तनु <ls>AGNI-P.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

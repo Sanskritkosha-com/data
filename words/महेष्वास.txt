@@ -31,5 +31,35 @@
             "pagenum": 560,
             "content": "mahA-izvAsa¦ <i>m.</i> a great archer, a great warrior, <ls>Bg.</ls>i.4."
         }
+    ],
+    "MW": [
+        {
+            "word": "महेष्वास",
+            "eid": "161282",
+            "pagenum": 802,
+            "content": "mahe<srs/>zvAsa ¦ <lex>m.</lex> a <ab n='great'>gr°</ab> archer, <ls>MBh.</ls> (also -तम), <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "महेष्वास",
+            "eid": "161283",
+            "pagenum": 802,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>Śivag.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महेष्वास",
+            "eid": "85468",
+            "pagenum": 5,
+            "content": "महेष्वास¦ <lex>m.</lex> <i>ein grosser Bogenschütze</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महेष्वास",
+            "eid": "59338",
+            "pagenum": 5,
+            "content": "महे/ष्वास¦ (महा + इ°) <lex>m.</lex> <i>ein grosser Bogenschütze</i> <ls>P. 6, 2, 38.</ls> <ls>MBH. 5, 2004.</ls> <ls n='MBH. 5,'>2248.</ls> <ls n='MBH. 5,'>2269.</ls> <ls>BHAG. 1, 4.</ls> <ls>R. 1, 1, 12.</ls> <ls n='R.'>5, 36, 48.</ls> <ls>WEBER, RĀMAT. UP. 296. <is>Śiva</is></ls> <ls>ŚIV.</ls> superl. °तम <ls>MBH. 7, 9404.</ls>"
+        }
     ]
 }

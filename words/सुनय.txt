@@ -31,5 +31,85 @@
             "pagenum": 785,
             "content": "sunaya¦ <i>m.</i> Good conduct, good policy."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुनय",
+            "eid": "247050",
+            "pagenum": 1226,
+            "content": "सु—नय ¦ <lex>m.</lex> wise conduct or policy, <ls>MBh.</ls>; <ls>R.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "सुनय",
+            "eid": "247051",
+            "pagenum": 1226,
+            "content": "¦ ‘well-conducted’, <ab>N.</ab> of a son of <s1 slp1='fta'>Ṛta</s1>, <ls>Pur.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुनय",
+            "eid": "247052",
+            "pagenum": 1226,
+            "content": "¦ of a son of <s1 slp1='pariplava'>Pariplava</s1>, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुनय",
+            "eid": "247053",
+            "pagenum": 1226,
+            "content": "¦ of a brother of <s1 slp1='Kanitra'>Khanitra</s1>, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुनय",
+            "eid": "247054",
+            "pagenum": 1226,
+            "content": "¦ <ab>pl.</ab> <ab>N.</ab> of a people, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "सुनय",
+            "eid": "16190",
+            "pagenum": 3,
+            "content": "<i>Sunaya</i> (I)¦ — a son of Pariplava (Paripluta-<i>Vā. P.,</i> Pāriplava-<i>Vi. P.</i>) and father of Medhāvi. <div n='P'/>Bhā. IX. 22. 43; Vā. 99. 275; Vā. IV. 21. 12."
+        },
+        {
+            "word": "सुनय",
+            "eid": "16191",
+            "pagenum": 3,
+            "content": "<i>Sunaya</i> (II)¦ — an Ajita deva. <div n='P'/>Br. II. 13. 93."
+        },
+        {
+            "word": "सुनय",
+            "eid": "16192",
+            "pagenum": 3,
+            "content": "<i>Sunaya</i> (III)¦ — a son of Kratu (Ṛtu-<i>Vā. P.</i>) and father of Vītahavya. <div n='P'/>Br. III. 64. 22; Vā. 87. 22; Vi. IV. 5. 31."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुनय",
+            "eid": "126553",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सुनय¦ <lex>m.</lex> <i>kluges Benehmen, Klugheit</i>."
+        },
+        {
+            "word": "सुनय",
+            "eid": "126554",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सुनय¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>sich klug benehmend</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> <div n='2'>— a〉 <ab>Pl.</ab> eines Volkes. <div n='2'>— b〉 verschiedener Personen."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुनय",
+            "eid": "110443",
+            "pagenum": 7,
+            "content": "1. सुनय¦ <lex>m.</lex> <i>kluges Benehmen, Klugheit</i> <ls>H. an. 3, 314.</ls> <ls>MBH. 1, 129.</ls> <ls>R. 5, 85, 13.</ls> <ls>KĀM. NĪTIS. 13, 95. 15, 32.</ls> <ls>Spr. (II) 4355.</ls>"
+        },
+        {
+            "word": "सुनय",
+            "eid": "110444",
+            "pagenum": 7,
+            "content": "2. सुनय¦ <div n='1'> 1) <lex>adj.</lex> <i>sich klug benehmend.</i> <div n='1'>— 2) <lex>m.</lex> N. pr. <div n='2'> a) pl. eines Volkes <ls>MBH. 6, 371</ls> (<ls>VP. 193).</ls> <div n='2'>— b) eines Sohnes des <is>Ṛta</is> <ls>VP. 390.</ls> <div n='2'>— c) eines Sohnes des <is>Pariplava</is> <ls>VP. 462.</ls> <ls>BHĀG. P. 9, 22, 41.</ls> <div n='2'>— d) eines Bruders des <is>Khanitra</is> <ls>MĀRK. P. 118, 23. 25.</ls>"
+        }
     ]
 }

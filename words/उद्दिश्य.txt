@@ -31,5 +31,59 @@
             "pagenum": 133,
             "content": "<b>uddiśya,</b>¦ at, towards, <i>see</i> <b>√diś.</b>"
         }
+    ],
+    "MD": [
+        {
+            "word": "उद्दिश्य",
+            "eid": "4561",
+            "pagenum": 51,
+            "content": "उद्दिश्य¦ ud-diś-ya, <ab>gd.</ab> (pointing to =) towards, 🞄to, with regard to, about."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उद्दिश्य",
+            "eid": "32963",
+            "pagenum": 188,
+            "content": "उद्-दिश्य ¦ <ab>ind.p.</ab> having shown or explained"
+        },
+        {
+            "word": "उद्दिश्य",
+            "eid": "32963.1",
+            "pagenum": 188,
+            "content": "¦ stipulating for, demanding"
+        },
+        {
+            "word": "उद्दिश्य",
+            "eid": "32963.2",
+            "pagenum": 188,
+            "content": "¦ (used as a preposition) aiming at, in the direction of"
+        },
+        {
+            "word": "उद्दिश्य",
+            "eid": "32963.3",
+            "pagenum": 188,
+            "content": "¦ with reference to"
+        },
+        {
+            "word": "उद्दिश्य",
+            "eid": "32963.4",
+            "pagenum": 188,
+            "content": "¦ towards"
+        },
+        {
+            "word": "उद्दिश्य",
+            "eid": "32963.5",
+            "pagenum": 188,
+            "content": "¦ with regard to, for, for the sake of, in the name of &c. (with <ab>acc.</ab>), <ls>MBh.</ls>; <ls>BhP.</ls>; <ls>Śak.</ls> &c."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उद्दिश्य",
+            "eid": "10894",
+            "pagenum": 156,
+            "content": "<i>Ud-diśya,</i>¦ ind. having shown or explained; stipulating for, demanding; aiming at, in the direction of, with reference to; towards; with regard to, for, for the sake of, in the name of."
+        }
     ]
 }

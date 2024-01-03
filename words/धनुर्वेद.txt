@@ -47,5 +47,43 @@
             "pagenum": 353,
             "content": "Danurveda¦ <i>m.</i> that of the four <i>Upavedas</i> which treats of archery. See उपवेद."
         }
+    ],
+    "MW": [
+        {
+            "word": "धनुर्वेद",
+            "eid": "99595",
+            "pagenum": 509,
+            "content": "धनुर्-वेद ¦ <lex>m.</lex> the science of archery, an <ab n='archery'>a°</ab> treatise (regarded as an <s1 slp1='upa-veda'>Upa-veda</s1> connected with the <s1 slp1='yajur-veda'>Yajur-veda</s1>, and derived from <s1 slp1='viSvAmitra'>Viśvāmitra</s1> or <s1 slp1='Bfgu'>Bhṛgu</s1>), <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "धनुर्वेद",
+            "eid": "99596",
+            "pagenum": 509,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab> by <s1 slp1='SArNga-datta'>Śārṅga-datta</s1>, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "धनुर्वेद",
+            "eid": "6493",
+            "pagenum": 2,
+            "content": "<i>Dhanurveda</i>¦ — the science of war; taught by Droṇa to the Pāṇḍavas;<sup>1</sup> Satyadhṛti well versed in;<sup>2</sup> learnt by Kṛṣṇa and Rāma;<sup>3</sup> personified,<sup>4</sup> knowledge of, essential to a king; Prācetasas was an expert in;<sup>5</sup> variety and detail of.<sup>6</sup> <F>1) Vā. 61. 79. 91. 91. Vi. III. 6. 28; IV. 19. 60. Bhā. I. 7. 44; III. 12. 38. M. 4. 47; 50. 9.</F> <F>2) Bhā. IX. 21. 35; M. 215. 8.</F> <F>3) Bhā. X. 45. 34; Br. II. 35. 88; 37. 27.</F> <F>4) Ib. IV. 17. 38-41; M. 220. 2.</F> <F>5) Vi. I. 14. 6.</F> <F>6) Ib. V. 21. 21.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धनुर्वेद",
+            "eid": "54501",
+            "pagenum": 3,
+            "content": "धनुर्वेद¦ <lex>m.</lex> <i>Bogenkunde, ein über die <ab n='Bogenkunde'>B.</ab> handeln des Lehrbuch</i>. Gilt als ein <is>Upaveda</is> zum <is>Yajurveda</is>. Ein Werk unter diesem Titel von <is>Śārṅgadatta</is> <ls>BÜHLER, Rep. No. 558</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धनुर्वेद",
+            "eid": "36107",
+            "pagenum": 3,
+            "content": "धनुर्वेद¦ (1. धनुस् + वेद) <lex>m.</lex> <i>Bogenkunde, ein über die Bogenkunde handelndes Lehrbuch</i>, ein dem <is>Viśvāmitra</is> und auch <is>Bhṛgu</is> zugeschriebener <is>Upaveda</is> zum <is>Yajurveda</is>. <ls>CARAṆAVY.</ls> in <ls>Ind. St. 3, 280, 2.</ls> <ls>MADHUS. ebend. 1, 13. 21. 22.</ls> <ls>MBH. 1, 5132.</ls> <ls n='MBH.'>4, 1830.</ls> <ls n='MBH.'>12, 50.</ls> <ls n='MBH.'>13, 2910.</ls> <ls>R. 1, 1, 15.</ls> <ls n='R. 1,'>19, 19.</ls> <ls n='R.'>5, 32, 9.</ls> <ls>KATHĀS. 9, 72.</ls> <ls>VP. 284.</ls> <ls>BHĀG. P. 1, 7, 44. 3, 12, 38.</ls> चतुष्पाद <ls>MBH. 3, 1459.</ls> <ls n='MBH.'>5, 5352.</ls> <ls n='MBH. 5,'>7548.</ls> <ls>HARIV. 4910.</ls> चतुष्पादो दशविधः <ls>MBH. 1, 8032.</ls> चतुर्विध <ls n='MBH. 1,'>5091.</ls> °वेदस्य सूत्रम् <ls n='MBH.'>2, 256.</ls> साङ्गोपाङ्गोपनिषदः सरहस्यः <ls>R. 1, 55, 16.</ls> Eine Stelle daraus mitgetheilt beim <ls>Schol.</ls> zu <ls>H. 777.</ls>"
+        }
     ]
 }

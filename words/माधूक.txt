@@ -23,5 +23,65 @@
             "pagenum": 407,
             "content": "माधूक¦ <lex>a.</lex> sweet-voiced."
         }
+    ],
+    "MD": [
+        {
+            "word": "माधूक",
+            "eid": "14002",
+            "pagenum": 225,
+            "content": "माधूक¦ mādhūka, <lex>a.</lex> prepared from the 🞄Madhūka plant (<bot>Bassia latifolia</bot>); sweet-voiced 🞄(<ab>ep.</ab> <i>of the mixed caste Maitreya</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "माधूक",
+            "eid": "162685",
+            "pagenum": 809,
+            "content": "माधूक ¦ <lex>mfn.</lex> (<ab>fr.</ab> मधूक) made from <bot>Bassia Latifolia</bot>, <ls>Kull.</ls> on <ls>Mn. xi, 95</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "माधूक",
+            "eid": "162686",
+            "pagenum": 809,
+            "content": "¦ (= मधुर-भाषिन्) sweet-voiced (said of the <s1 slp1='mEtreyaka'>Maitreyaka</s1>s), <ls>Mn. x, 33</ls> (<ls>Kull.</ls>; <ab>cf.</ab> माधुक)<info lex='inh'/>"
+        },
+        {
+            "word": "माधूक",
+            "eid": "162687",
+            "pagenum": 809,
+            "content": "माधूक ¦ <lex>n.</lex> a kind of mead, <ls>Yājñ., Sch.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "माधूक",
+            "eid": "37013",
+            "pagenum": 769,
+            "content": "माधूक¦ <i>mādhūka, as, ī, am</i> (fr. <i>madhūka</i>), made from Bassia Latifolia; (according to Kullūka) <i>= madhura-bhāṣin,</i> sweetly speaking, kindly speaking; an epithet of the Maitreyakas (a mixed caste; cf. <i>mādhuka,</i> col. 2)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "माधूक",
+            "eid": "86025",
+            "pagenum": 5,
+            "content": "माधूक¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>aus der <bot>Bassia latifolia</bot> bereitet</i>. <div n='1'>— 2〉 <i>süss —, freundlich redend</i> als <ab>Beiw.</ab> der Mischlingskaste मैत्रेयक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "माधूक",
+            "eid": "59781",
+            "pagenum": 5,
+            "content": "माधूक/¦ (von मधूक) <lex>adj.</lex> <div n='1'> 1) <i>aus der Bassia latifolia bereitet</i> <ls>P. 4, 3, 137</ls>, <ls>Sch.</ls> मद्य <ls>PULASTYA</ls> bei <ls>KULL.</ls> zu <ls>M. 11, 95.</ls> <div n='1'>— 2) als Beiw. von मैत्रेयक (einer, Mischlingskaste) nach <ls>KULL.</ls> so v. a. मधुरभाषिन् <i>süss —, freundlich redend</i>: मैत्रेयकं तु वैदेहो माधूकं संप्रसूयते । नॄन्प्रशंसत्यजस्रं यो घण्टाताडो ऽरुणोदये ॥ <ls>M. 10, 33.</ls> Vgl. माधुक 2."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "माधूक",
+            "eid": "20463",
+            "pagenum": 7,
+            "content": "माधूक¦ V. <lex>n.</lex> <i>eine Art Meth</i> <ls>VIJÑ.</ls> zu <ls>YĀJÑ. 3,253. fg.</ls>"
+        }
     ]
 }

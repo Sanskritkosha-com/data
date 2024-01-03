@@ -28,5 +28,43 @@
             "pagenum": 694,
             "content": "vEdehika¦ <i>m.</i> A merchant."
         }
+    ],
+    "MW": [
+        {
+            "word": "वैदेहिक",
+            "eid": "207048",
+            "pagenum": 1022,
+            "content": "वैदेहिक ¦ <lex>m.</lex> a man of the <s1 slp1='vEdeha'>Vaideha</s1> caste, <ls>Mn. x, 36</ls><info lex='m'/>"
+        },
+        {
+            "word": "वैदेहिक",
+            "eid": "207049",
+            "pagenum": 1022,
+            "content": "¦ (<ab>accord.</ab> to <ls>Kull.</ls>) a merchant.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वैदेहिक",
+            "eid": "45050",
+            "pagenum": 968,
+            "content": "<i>Vaidehika, as,</i>¦ m. a merchant (<i>= vaidehaka</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैदेहिक",
+            "eid": "107685",
+            "pagenum": 6,
+            "content": "वैदेहिक¦ <lex>m.</lex> = वैदेह 2〉c〉. Nach <ls>KULL.</ls> <i>Kaufmann</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैदेहिक",
+            "eid": "95751",
+            "pagenum": 6,
+            "content": "वैदेहिक¦ <lex>m.</lex> = वैदेह <div n='1'> 2) <div n='2'> c) <ls>H. 898</ls> (वैदेहक v. l.) <ls>SĀRAS.</ls> zu <ls>AK.</ls> nach <ls>ŚKDR.</ls> <ls>M. 10, 36.</ls> <i>Kaufmann</i> <ls>KULL.</ls> zu <ls>M. 7, 154.</ls>"
+        }
     ]
 }

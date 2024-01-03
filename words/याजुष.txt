@@ -15,5 +15,57 @@
             "pagenum": 524,
             "content": "याजुष¦ <i>yājuṣa</i> <ab>a.</ab> relatif au <s1 slp1='yajurveda'>Yajur-veda</s1>."
         }
+    ],
+    "MD": [
+        {
+            "word": "याजुष",
+            "eid": "14777",
+            "pagenum": 243,
+            "content": "याजुष¦ yājuṣ-a, <lex>a.</lex> (<b>ī́</b>) relating to the Yajus 🞄formulae."
+        }
+    ],
+    "MW": [
+        {
+            "word": "याजुष",
+            "eid": "171340",
+            "pagenum": 851,
+            "content": "याजुष ¦ <lex>mf(ई)n.</lex> relating to the <s1 slp1='yajus'>Yajus</s1> or <s1 slp1='yajurveda'>Yajurveda</s1>, <ls>TBr.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "याजुष",
+            "eid": "171341",
+            "pagenum": 851,
+            "content": "याजुष ¦ <lex>m.</lex> an observer of religious ceremonies as prescribed in the <s1 slp1='yajur-veda'>Yajur-veda</s1>, <ls>MW.</ls><info lex='m'/>"
+        },
+        {
+            "word": "याजुष",
+            "eid": "171342",
+            "pagenum": 851,
+            "content": "¦ a partridge (<ab>cf.</ab> तैत्तिरीय-संहिता), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "याजुष",
+            "eid": "38588",
+            "pagenum": 815,
+            "content": "<i>Yājuṣa, as, ī, am,</i>¦ relating to the Yajus, belonging to the Yajur-veda; (<i>as</i>), m. an observer of religious ceremonies as prescribed in the Yajur-veda."
+        }
+    ],
+    "PW": [
+        {
+            "word": "याजुष",
+            "eid": "90654",
+            "pagenum": 5,
+            "content": "याजुष¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई/) <i>zu den</i> <is>Yajus</is> <i>in Beziehung stehend</i>. याजुषाम्नाय <lex>m.</lex> <i>der</i> <is>Yajus</is>-<i>Text</i> <ls>PRATIJÑĀS. 75</ls>. <div n='1'>— 2〉 *<lex>m.</lex> <i>Rebhuhn</i> (wegen तैत्तिरीय) <ls>RĀJAN. 19,122</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "याजुष",
+            "eid": "81854",
+            "pagenum": 6,
+            "content": "याजुष¦ <lex>adj.</lex> (f. ई/) <i>zu den</i> <is>Yajus</is> <i>in Beziehung stehend</i> <ls>TBR. 3, 12, 9, 1.</ls> <ls>Ind. St. 1, 83, 5. 10, 436.</ls> गायत्री <ls n='Ind. St.'>9, 103.</ls> शाखा <ls>Verz. d. Oxf. H. 257,b,8. 264,a,15.</ls>"
+        }
     ]
 }

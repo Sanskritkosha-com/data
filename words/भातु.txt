@@ -23,5 +23,43 @@
             "pagenum": 523,
             "content": "BAtu¦ <i>m.</i> The sun."
         }
+    ],
+    "MW": [
+        {
+            "word": "भातु",
+            "eid": "149442",
+            "pagenum": 751,
+            "content": "भातु ¦ <lex>m.</lex> the sun, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "भातु",
+            "eid": "149443",
+            "pagenum": 751,
+            "content": "¦ = दीप्त, <ls>L.</ls> (<ab>cf.</ab> भानु). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भातु",
+            "eid": "35285",
+            "pagenum": 704,
+            "content": "<i>Bhātu, us,</i>¦ m. the sun; [cf. <i>bhānu.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "भातु",
+            "eid": "79384",
+            "pagenum": 4,
+            "content": "*भातु¦ <lex>m.</lex> <i>die Sonne</i>. Angeblich auch = दीप्त."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भातु",
+            "eid": "54526",
+            "pagenum": 5,
+            "content": "भातु/¦ (wie eben) <ls>UṆĀDIS. 1, 73.</ls> <lex>m.</lex> <i>die Sonne</i> <ls>TRIK. 1, 1, 98.</ls> <ls>UJJVAL.</ls> = दीप्त <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls> <div n='v'>— Vgl. भानु ."
+        }
     ]
 }

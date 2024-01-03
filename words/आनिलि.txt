@@ -15,5 +15,49 @@
             "pagenum": 101,
             "content": "Anili¦ <i>m.</i> A name (1) of Hanūmat, (2) of Bhīma."
         }
+    ],
+    "MW": [
+        {
+            "word": "आनिलि",
+            "eid": "24519",
+            "pagenum": 140,
+            "content": "आनिलि ¦ <lex>m.</lex> ‘a descendant of <s1 slp1='anila'>Anila</s1>’<info lex='m'/>"
+        },
+        {
+            "word": "आनिलि",
+            "eid": "24520",
+            "pagenum": 140,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='hanumat'>Hanumat</s1><info lex='inh'/>"
+        },
+        {
+            "word": "आनिलि",
+            "eid": "24521",
+            "pagenum": 140,
+            "content": "¦ of <s1 slp1='BIma'>Bhīma</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आनिलि",
+            "eid": "8586",
+            "pagenum": 121,
+            "content": "<i>Ānili, is,</i>¦ m., N. of Hanumat and Bhīma."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आनिलि",
+            "eid": "14732",
+            "pagenum": 1,
+            "content": "*आनिलि¦ <lex>m.</lex> <ab>Patron.</ab> <is>Hanumant</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आनिलि",
+            "eid": "8618",
+            "pagenum": 1,
+            "content": "आनिलि¦ patron. von अनिल <i>der Gott des Windes</i>, ein Bein. <is>Hanumant's</is> <ls>TRIK. 2, 8, 6.</ls>"
+        }
     ]
 }

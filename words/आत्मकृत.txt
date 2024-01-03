@@ -7,5 +7,41 @@
             "pagenum": 60,
             "content": "आत्मकृत¦ <lex>a.</lex> done by or against one's self."
         }
+    ],
+    "MW": [
+        {
+            "word": "आत्मकृत",
+            "eid": "23481",
+            "pagenum": 135,
+            "content": "आत्म/—कृत ¦ (आत्म/-), <lex>mfn.</lex> done or committed against one's self, <ls>VS. viii, 13</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आत्मकृत",
+            "eid": "23481.1",
+            "pagenum": 135,
+            "content": "¦ done of one's self, self-executed, <ls>R. ii, 46, 23.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आत्मकृत",
+            "eid": "14136",
+            "pagenum": 1,
+            "content": "आत्म/कृत¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>gegen sich selbst begangen</i>. <div n='1'>— 2〉 <i>selbstbegangen, — verschuldet</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आत्मकृत",
+            "eid": "8287",
+            "pagenum": 1,
+            "content": "आत्म/कृत¦ (आ° + कृत) <lex>adj.</lex> <i>gegen sich selbst gethan</i>: एन^ः <ls>VS. 8, 13.</ls>"
+        },
+        {
+            "word": "आत्मकृत",
+            "eid": "66292",
+            "pagenum": 5,
+            "content": "आत्मकृत¦ <i>was man selbst verübt hat, selbstverschuldet</i>: दुःख <ls>R. 2, 46, 23.</ls>"
+        }
     ]
 }

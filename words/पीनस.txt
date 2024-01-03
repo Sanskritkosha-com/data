@@ -60,5 +60,45 @@
             "pagenum": 440,
             "content": "pInasa¦ <i>m.</i> 1. Cold affecting the nose; 2. cough."
         }
+    ],
+    "MD": [
+        {
+            "word": "पीनस",
+            "eid": "11673",
+            "pagenum": 163,
+            "content": "पीनस¦ pīnasa, <lex>m.</lex> cold, catarrh."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पीनस",
+            "eid": "124961",
+            "pagenum": 630,
+            "content": "पी-नस ¦ <lex>m.</lex> (<ab>prob.</ab> <ab>fr.</ab> पी = अपि + नस्; <ab>cf.</ab> अपी-नस) cold (affecting the nose), catarrh, <ls>Suśr.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पीनस",
+            "eid": "29406",
+            "pagenum": 578,
+            "content": "पीनस¦ <i>pīnasa, as,</i> m. (probably <i>api + nas</i> <i>= nāsā;</i> by some connected with <i>pīna</i>), cough, catarrh; cold affecting the nose, inflammation of the schneiderian membrane [cf. <i>apī-nasa</i>]; (<i>ā</i>), f. the plant Cucumis Utilissimus (<i>= karkaṭī</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पीनस",
+            "eid": "67407",
+            "pagenum": 4,
+            "content": "पीनस¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Nasenkatarrh, Schnupfen</i>. <div n='1'>— 2〉 *<lex>f.</lex> आ <i><bot>Caucumis utilissimus</bot></i> <ls>RĀJAN. 7,199</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पीनस",
+            "eid": "45560",
+            "pagenum": 4,
+            "content": "पीनस¦ <div n='1'> 1) <lex>m.</lex> <i>Nasenkatarrh, Schnupfen</i> <ls>AK. 2, 6, 2, 2.</ls> <ls>H. 468.</ls> <ls>HALĀY. 2, 450.</ls> <ls>WISE 289.</ls> <ls>SUŚR. 1, 177, 2. 372, 20. 181, 14.</ls> °नाशन <ls n='SUŚR.'>203, 19. 232, 7.</ls> <div n='v'>— Vgl. अपीनस . <div n='1'>— 2) <lex>f.</lex> आ <i>Cucumis utilissimus Roxb.</i> (कर्कटी) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

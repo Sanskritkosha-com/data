@@ -23,5 +23,41 @@
             "pagenum": 640,
             "content": "vayoDika¦ <i>a.</i> older in age."
         }
+    ],
+    "MW": [
+        {
+            "word": "वयोधिक",
+            "eid": "186545",
+            "pagenum": 920,
+            "content": "वयो—ऽधिक ¦ <lex>mfn.</lex> superior in years, older in age, <ls>VarBṛS.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वयोधिक",
+            "eid": "186546",
+            "pagenum": 920,
+            "content": "¦ advanced in years<info lex='inh'/>"
+        },
+        {
+            "word": "वयोधिक",
+            "eid": "186547",
+            "pagenum": 921,
+            "content": "वयो—ऽधिक ¦ <lex>m.</lex> an old man, <ls>Mn.</ls>; <ls>R.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वयोधिक",
+            "eid": "98328",
+            "pagenum": 6,
+            "content": "वयोऽधिक¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>an Jahren überlegen, — älter</i>. <div n='1'>— 2〉 <i>betagt;</i> <lex>m.</lex> <i>Greis</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वयोधिक",
+            "eid": "88092",
+            "pagenum": 6,
+            "content": "वयोऽधिक¦ <lex>adj.</lex> <div n='1'> 1) <i>an Jahren überlegen, - älter</i> <ls>VARĀH. BṚH. S. 86, 11.</ls> <div n='1'>— 2) <i>betagt</i>, <lex>m.</lex> <i>Greis</i> <ls>M. 4, 141.</ls> नगरी सस्त्रीबालवयोऽधिका <ls>R. 2, 47, 10.</ls>"
+        }
     ]
 }

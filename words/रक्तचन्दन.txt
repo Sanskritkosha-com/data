@@ -28,5 +28,41 @@
             "pagenum": 355,
             "content": "रक्तचन्दन¦ <i>n.</i> roter Sandel."
         }
+    ],
+    "MW": [
+        {
+            "word": "रक्तचन्दन",
+            "eid": "173414",
+            "pagenum": 861,
+            "content": "रक्त—चन्दन ¦ <lex>n.</lex> red sandal, <ls>Bhpr.</ls><info lex='n'/>"
+        },
+        {
+            "word": "रक्तचन्दन",
+            "eid": "173415",
+            "pagenum": 861,
+            "content": "¦ <bot>Caesalpina Sappan</bot>, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रक्तचन्दन",
+            "eid": "173416",
+            "pagenum": 861,
+            "content": "¦ saffron, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रक्तचन्दन",
+            "eid": "91668",
+            "pagenum": 5,
+            "content": "रक्तचन्दन¦ <lex>n.</lex> <i>rother Sandel und <bot>Caesalpina Sappan</bot></i> <ls>RĀJAN. 12,21</ls>. <ls>BHĀVAPR. 1,184</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रक्तचन्दन",
+            "eid": "82687",
+            "pagenum": 6,
+            "content": "रक्तचन्दन¦ <lex>n.</lex> <i>rother Sandel</i> und <i>Caesalpina Sappan</i> <ls>AK. 2, 6, 3, 33</ls> <ls n='AK. 2,'>9, 111</ls> <ls>H. 642.</ls> <ls>RATNAM. 142.</ls> <ls>YĀJÑ. 1, 296.</ls> <ls>R. 2, 33, 9.</ls> <ls n='R. 2,'>91, 56.</ls> <ls n='R.'>5, 3, 29.</ls> <ls n='R.'>6, 82, 61.</ls> <ls>SUŚR. 2, 420, 13. 433, 15.</ls> <ls>MṚCCH. 157, 18.</ls>"
+        }
     ]
 }

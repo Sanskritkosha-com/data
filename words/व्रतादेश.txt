@@ -15,5 +15,43 @@
             "pagenum": 702,
             "content": "vrata-AdeSa¦ <i>m.</i> investiture with the sacred thread."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्रतादेश",
+            "eid": "210666",
+            "pagenum": 1042,
+            "content": "vratA<srs/>deSa ¦ <lex>m.</lex> direction for undertaking a <s1 slp1='vrata'>Vrata</s1>, imposition of a vow &c. (<ab>esp.</ab> that of a <s1 slp1='brahma-cArin'>Brahma-cārin</s1>), <ls>R.</ls>; <ls>Yājñ.</ls><info lex='m'/>"
+        },
+        {
+            "word": "व्रतादेश",
+            "eid": "210667",
+            "pagenum": 1042,
+            "content": "¦ investiture with the sacred cord, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्रतादेश",
+            "eid": "55371",
+            "pagenum": 1186,
+            "content": "<i>Vratādeśa;</i>¦ add — enjoining a religious observance."
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्रतादेश",
+            "eid": "109091",
+            "pagenum": 6,
+            "content": "व्रतादेश¦ <lex>m.</lex> <i>eine Anweisung zur Uebernahme eines</i> <is>Vrata</is>, <i>Auflegung eines Gelübdes</i> <ab>u. s. w.</ab>, <ab>insbes.</ab> <i>des ersten Gelübdes beim</i> <is>Brahmacārin</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्रतादेश",
+            "eid": "96913",
+            "pagenum": 6,
+            "content": "व्रतादेश¦ (1. व्रत + आ°) <lex>m.</lex> <i>eine Anweisung zur Uebernahme eines</i> <is>Vrata</is>, <i>Auferlegung eines Gelübdes u.s.w.</i> <ls>R. 2, 22, 28.</ls> insbes. <i>des ersten Gelübdes beim</i> <is>Brahmacārin</is> <ls>YĀJÑ. 3, 23.</ls>"
+        }
     ]
 }

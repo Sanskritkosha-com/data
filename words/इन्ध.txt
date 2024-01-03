@@ -31,5 +31,57 @@
             "pagenum": 118,
             "content": "inDa¦ <i>m.</i> Fuel."
         }
+    ],
+    "MD": [
+        {
+            "word": "इन्ध",
+            "eid": "4148",
+            "pagenum": 46,
+            "content": "इन्ध¦ índh-a, <lex>a.</lex> kindling."
+        }
+    ],
+    "MW": [
+        {
+            "word": "इन्ध",
+            "eid": "29284",
+            "pagenum": 167,
+            "content": "इ/न्ध ¦ <lex>mfn.</lex> lighting, kindling, <ls>ŚBr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "इन्ध",
+            "eid": "29285",
+            "pagenum": 167,
+            "content": "इ/न्ध ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1='fzi'>Ṛṣi</s1>, (<ab>g.</ab> naqA<srs/>di, <ls>Pāṇ. iv, 1, 99.</ls>)<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "इन्ध",
+            "eid": "9936",
+            "pagenum": 141,
+            "content": "<i>Indha, as, ā, am,</i>¦ lighting, kindling."
+        }
+    ],
+    "PW": [
+        {
+            "word": "इन्ध",
+            "eid": "17168",
+            "pagenum": 1,
+            "content": "इ/न्ध¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>entflammend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <ab>N. pr.</ab> eines Mannes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इन्ध",
+            "eid": "10278",
+            "pagenum": 1,
+            "content": "इ/न्ध¦ (von इन्ध्) <lex>adj.</lex> <i>entflammend</i> <ls>ŚAT. BR. 6, 1, 1, 2.</ls> <ls n='ŚAT. BR.'>14, 6, 11, 2.</ls> Davon ऐन्धायन nach <is>gaṇa</is> नडादि zu <ls>P. 4, 1, 99.</ls> <div n='v'>— Vgl. अग्निमिन्ध ."
+        },
+        {
+            "word": "इन्ध",
+            "eid": "67297",
+            "pagenum": 5,
+            "content": "इन्ध¦ vgl. भ्राष्ट्रमिन्ध ."
+        }
     ]
 }

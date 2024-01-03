@@ -15,5 +15,41 @@
             "pagenum": 230,
             "content": "gaRa-kAra¦ <i>m.</i> 1. a classifier; 2. an epithet of Bhīmasena."
         }
+    ],
+    "MW": [
+        {
+            "word": "गणकार",
+            "eid": "62544",
+            "pagenum": 343,
+            "content": "गण—कार ¦ <lex>m.</lex> arranging into classes, classifier, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गणकार",
+            "eid": "62545",
+            "pagenum": 343,
+            "content": "¦ one who collects grammatical <s1 slp1='gaRa'>Gaṇa</s1>s, <ls>Kāt.</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        },
+        {
+            "word": "गणकार",
+            "eid": "62546",
+            "pagenum": 343,
+            "content": "¦ <ab>v.l.</ab> for °रि.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गणकार",
+            "eid": "34182",
+            "pagenum": 2,
+            "content": "गणकार¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein Zusammensteller von</i> <is>Gaṇa</is> 1〉l〉. <div n='1'>— 2〉 *<ab>Bein.</ab> <is>Bhīmasena</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गणकार",
+            "eid": "21463",
+            "pagenum": 2,
+            "content": "गणकार¦ (गण + कार) <lex>m.</lex> <div n='1'> 1) <i>ein Zusammensteller von grammatischen</i> <is>Gaṇa</is> (s. गण 8) <ls>KĀTANTRAVṚ.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) ein Bein. <is>Bhīmasena's</is> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

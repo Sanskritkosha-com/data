@@ -31,5 +31,57 @@
             "pagenum": 133,
             "content": "<b>udumbalá,</b>¦ <i><ab>a.</ab></i> brown."
         }
+    ],
+    "MD": [
+        {
+            "word": "उदुम्बल",
+            "eid": "4529",
+            "pagenum": 51,
+            "content": "उदुम्बल¦ ud-umbalá, <lex>a.</lex> copper-coloured."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उदुम्बल",
+            "eid": "32705",
+            "pagenum": 186,
+            "content": "<hom>1.</hom> उदुम्ब/ल ¦ <lex>m.</lex> = उदुम्ब/र [<ls>T.</ls> ?], <ls>AV. viii, 6, 17.</ls><info lex='m'/>"
+        },
+        {
+            "word": "उदुम्बल",
+            "eid": "32706",
+            "pagenum": 186,
+            "content": "<hom>2.</hom> उदुम्बल/ ¦ <lex>mfn.</lex> of widely-reaching power (for उरु-बल, <ls>Sāy.</ls>; said of the two dogs, the messengers of <s1 slp1='yama'>Yama</s1>), <ls>RV. x, 14, 12</ls>; <ls>AV. xviii, 2, 13</ls>, [copper-coloured, <ls>BRD.</ls>]<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उदुम्बल",
+            "eid": "10800",
+            "pagenum": 155,
+            "content": "<i>Udumbala, as, ā, am,</i>¦ Ved. copper-coloured?; (Say.) of extended power (for <i>uru-bala;</i> said of the two dogs, the messengers of Yama)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उदुम्बल",
+            "eid": "18912",
+            "pagenum": 1,
+            "content": "उदुम्बल/¦ <lex>Adj.</lex> <i>kupferfarben</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उदुम्बल",
+            "eid": "11334",
+            "pagenum": 1,
+            "content": "उदुम्बल/¦ (verwandt mit उदुम्बर) <lex>adj.</lex> <i>kupferfarben</i> (?), von den Hunden <is>Yama's</is> <ls>ṚV. 10, 14, 2.</ls> paroxyt.: उ\\पैष^न्तमुदु\\म्बल^ं तु\\ण्डेल^मु\\त शालु^दम् <ls>AV. 8, 6, 17.</ls>"
+        },
+        {
+            "word": "उदुम्बल",
+            "eid": "67902",
+            "pagenum": 5,
+            "content": "उदुम्बल¦ Z. 2. fg. lies 10, 14, 12 st. 10, 14, 2, उ\\पे° st. उ\\पै° und शालु^डम् st. शालु^दम् ."
+        }
     ]
 }

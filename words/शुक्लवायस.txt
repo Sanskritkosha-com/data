@@ -7,5 +7,41 @@
             "pagenum": 722,
             "content": "Sukla-vAyasa¦ <i>m.</i> a crane."
         }
+    ],
+    "MW": [
+        {
+            "word": "शुक्लवायस",
+            "eid": "219113",
+            "pagenum": 1080,
+            "content": "शुक्ल—वायस ¦ <lex>m.</lex> <bio>Ardea</bio> <bio>Nivea</bio>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शुक्लवायस",
+            "eid": "219114",
+            "pagenum": 1080,
+            "content": "¦ a crane, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शुक्लवायस",
+            "eid": "219115",
+            "pagenum": 1080,
+            "content": "¦ a white crow, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शुक्लवायस",
+            "eid": "113326",
+            "pagenum": 6,
+            "content": "*शुक्लवायस¦ <lex>m.</lex> <i><zoo>Ardea nivea</zoo></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शुक्लवायस",
+            "eid": "100193",
+            "pagenum": 7,
+            "content": "शुक्लवायस¦ <lex>m.</lex> <i>eine Reiherart, Ardea nivea</i> <ls>TRIK. 2, 5, 23.</ls>"
+        }
     ]
 }

@@ -23,5 +23,43 @@
             "pagenum": 656,
             "content": "vAsata¦ <i>m.</i> An ass."
         }
+    ],
+    "MW": [
+        {
+            "word": "वासत",
+            "eid": "192404",
+            "pagenum": 947,
+            "content": "वासत ¦ <lex>m.</lex> an ass, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वासत",
+            "eid": "192405",
+            "pagenum": 947,
+            "content": "¦ <bot>Terminalia Bellerica</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वासत",
+            "eid": "42061",
+            "pagenum": 907,
+            "content": "वासत¦ <i>vāsata, as,</i> m. an ass."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वासत",
+            "eid": "101339",
+            "pagenum": 6,
+            "content": "*वासत¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Esel</i>. <div n='1'>— 2〉 <i><bot>Terminalia Bellerica</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वासत",
+            "eid": "90559",
+            "pagenum": 6,
+            "content": "वासत¦ <lex>m.</lex> <div n='1'> 1) <i>Esel</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <i>Terminalia Bellerica Roxb.</i> <ls>AUSH. 40.</ls>"
+        }
     ]
 }

@@ -32,5 +32,61 @@
             "pagenum": 3,
             "content": "महाविद्या¦ tantr. CS 5, 93."
         }
+    ],
+    "MW": [
+        {
+            "word": "महाविद्या",
+            "eid": "160758",
+            "pagenum": 800,
+            "content": "महा—विद्या ¦ <lex>f.</lex> a <ab n='great'>gr°</ab> or exalted science, <ls>MW.</ls><info lex='f'/>"
+        },
+        {
+            "word": "महाविद्या",
+            "eid": "160759",
+            "pagenum": 800,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='lakzmI'>Lakṣmī</s1>, <ls>VP.</ls> (= viSva-rUpo<srs/>pA<srs/>sanA <ab>Comm.</ab>)<info lex='inh'/>"
+        },
+        {
+            "word": "महाविद्या",
+            "eid": "160760",
+            "pagenum": 800,
+            "content": "¦ of <s1 slp1='durgA'>Durgā</s1>, <ls>MārkP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "महाविद्या",
+            "eid": "160761",
+            "pagenum": 800,
+            "content": "¦ of a <s1 slp1='mantra'>Mantra</s1>, <ls>Cat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "महाविद्या",
+            "eid": "160762",
+            "pagenum": 800,
+            "content": "¦ <ab>pl.</ab> of a class of personifications of the <s1 slp1='Sakti'>Śakti</s1> or female energy of <s1 slp1='Siva'>Śiva</s1> (10 in number), <ls>RTL. 187</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "महाविद्या",
+            "eid": "10451",
+            "pagenum": 2,
+            "content": "<i>Mahāvidyā</i>¦ — a name of Lalitā;<sup>1</sup> symbolical of Devī.<sup>2</sup> <F>1) Br. IV. 18. 16.</F> <F>2) Vi. I. 9. 120.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महाविद्या",
+            "eid": "84993",
+            "pagenum": 5,
+            "content": "महाविद्या¦ <lex>f.</lex> <div n='1'>— 1〉 <i>das grosse Wissen</i> als <ab>Bein.</ab> <div n='2'>— a〉 der <is>Lakṣmī</is> <ls>VP. 1,9,117</ls> = विशुपोपासना <ab>Comm.</ab> <div n='2'>— b〉 der <is>Durgā</is>. <div n='1'>— 2〉 Titel eines <is>Mantra</is> <ls>OPP. CAT. 1</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महाविद्या",
+            "eid": "58968",
+            "pagenum": 5,
+            "content": "महाविद्या¦ (म° + वि°) <lex>f.</lex> <i>eine Form der</i> <is>Durgā</is> <ls>H. ś. 50.</ls> <ls>MĀRK. P. 81,58. 91,20.</ls> <ls>Verz. d. Oxf. H. 101,a,22.</ls>"
+        }
     ]
 }

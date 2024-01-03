@@ -39,5 +39,57 @@
             "pagenum": 229,
             "content": "पच¦ (—°) kochend, backend, bratend."
         }
+    ],
+    "MD": [
+        {
+            "word": "पच",
+            "eid": "10990",
+            "pagenum": 149,
+            "content": "पच¦ paca, <lex>a.</lex> cooking, baking (<ab>—°</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पच",
+            "eid": "113467",
+            "pagenum": 575,
+            "content": "<hom>1.</hom> पच ¦ <lex>mfn.</lex> <ab>id.</ab> (<ab>cf.</ab> अल्पम्-, इष्टि-, किम्- &c.)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "पच",
+            "eid": "113468",
+            "pagenum": 575,
+            "content": "पच ¦ <lex>mf.</lex> the act of cooking &c., <ls>L.</ls><info lex='m:f'/>"
+        },
+        {
+            "word": "पच",
+            "eid": "113471",
+            "pagenum": 575,
+            "content": "<hom>2.</hom> पच ¦ 2. <ab>sg.</ab> <ab>Impv.</ab> of √ पच्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पच",
+            "eid": "26692",
+            "pagenum": 522,
+            "content": "<i>Paca, as, ā, am,</i>¦ cooking, baking, roasting; digesting [cf. <i>alpam-paca, iṣṭi-p°, kim-p°, duṣ-</i> <i>p°,</i> &c.]; (<i>as, ā</i>), m. f. cooking, maturing, &c."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पच",
+            "eid": "61763",
+            "pagenum": 4,
+            "content": "पच¦ <div n='1'>— 1〉 <lex>Adj.</lex> am Ende eines <ab>Comp.</ab> <ab>trans.</ab> <i>kochend, backend, bratend</i>. <div n='1'>— 2〉 *<lex>m.</lex> und <lex>f.</lex> आ <ab>Nom.</ab> <ab>act.</ab> von <hom>1.</hom> पच्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पच",
+            "eid": "41314",
+            "pagenum": 4,
+            "content": "पच/¦ (von 1. पच्) <div n='1'> 1) <lex>adj.</lex> <i>kochend, backend, bratend</i> (trans.) <ls>P. 3, 1, 134.</ls> <ls n='P. 3,'>2, 33. fgg.</ls> <ls>VOP. 26, 55.</ls> Vgl. अल्पं°, इष्टि°, किं°, खारिं°, द्रोणं°, नखं°, मितं°, प्रस्थं° . <div n='1'>— 2) <lex>f.</lex> आ nom. act. <ls>VOP. 26, 192.</ls> = पाक <ls>AK. 3, 3, 8.</ls> <ls>WILSON</ls> führt auch ein <lex>m.</lex> an; vgl. दुष्पच (von पच oder पचा) <i>schwer zu verdauen.</i>"
+        }
     ]
 }

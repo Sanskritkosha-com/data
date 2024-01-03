@@ -23,5 +23,51 @@
             "pagenum": 123,
             "content": "कुतूह°लिन्¦ <lex>a.</lex> curious, eager, interested in anything."
         }
+    ],
+    "MD": [
+        {
+            "word": "कुतूहलिन्",
+            "eid": "6014",
+            "pagenum": 69,
+            "content": "कुतूहलिन्¦ kutūhal-in, <lex>a.</lex> curious, interested."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कुतूहलिन्",
+            "eid": "52011",
+            "pagenum": 290,
+            "content": "कुतूहलिन् ¦ <lex>mfn.</lex> curious, highly interested in anything, <ls>Mn. iv, 63</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "कुतूहलिन्",
+            "eid": "52012",
+            "pagenum": 290,
+            "content": "¦ eager, impatient.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कुतूहलिन्",
+            "eid": "15085",
+            "pagenum": 235,
+            "content": "<i>Kutūhalin, ī, inī, i,</i>¦ curious, highly interested in any extraordinary matter, inquisitive; eager, impatient."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुतूहलिन्",
+            "eid": "28531",
+            "pagenum": 2,
+            "content": "कुतूहलिन्¦ <lex>Adj.</lex> <i>neugierig</i> <ls>HARṢAC. 16,11</ls>. <i>Etwas mit Interesse verfolgend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुतूहलिन्",
+            "eid": "17682",
+            "pagenum": 2,
+            "content": "कुतूहलिन्¦ (wie eben) <lex>adj.</lex> <i>neugierig, der eine ungewöhnliche Erscheinung mit Theilnahme verfolgt</i>: न जातु स्यात्कुतूहली <ls>M. 4, 63.</ls> मुहुस्तच्च वदन्तं तं तत्रादित्यप्रभो नृपः । बुद्ध्वा प्रवेशयामास फलभूतिं कुतूहली ॥ <ls>KATHĀS. 20, 42.</ls> रूपे गीते च माधुर्यं तयोस्तज्ज्ञैर्निवेदितम् । ददर्श सानुजो रामः शुश्राव च कुतूहली ॥ <ls>RAGH. 15, 65.</ls> <ls n='RAGH.'>13, 21.</ls>"
+        }
     ]
 }

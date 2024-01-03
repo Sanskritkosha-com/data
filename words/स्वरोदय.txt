@@ -19,5 +19,35 @@
             "pagenum": 3,
             "content": "स्वरोदय¦ See Pavanavijaya."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्वरोदय",
+            "eid": "259977",
+            "pagenum": 1285,
+            "content": "svaro<srs/>daya ¦ <lex>mfn.</lex> followed by a vowel, <ls>RPrāt.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्वरोदय",
+            "eid": "259978",
+            "pagenum": 1285,
+            "content": "svaro<srs/>daya ¦ <lex>mn.</lex> <ab>N.</ab> of a class of works. (= स्वर-शास्त्र, <ab>q.v.</ab>)<info lex='m:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्वरोदय",
+            "eid": "132519",
+            "pagenum": 7,
+            "content": "स्वरोदय¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>einen Vocal nach sich habend</i>. <div n='1'>— 2〉 <lex>m.</lex> <lex>m.</lex> Titel <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>. °विवरण <lex>n.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्वरोदय",
+            "eid": "115244",
+            "pagenum": 7,
+            "content": "स्वरोदय¦ <div n='1'> 1) <lex>adj.</lex> <i>einen Vocal nach sich habend</i> <ls>ṚV. PRĀT. 4, 26.</ls> <ls n='ṚV. PRĀT.'>5, 5.</ls> <div n='1'>— 2) n. (m. <ls>ŚKDR.</ls> )Titel einer Schrift <ls>MACK. Coll. 1,129.</ls> <ls>Notices of Skt. Mss. 1,276.</ls> <ls>Verz. d. Oxf. H. 337,a, No. 793</ls> (= स्वरतत्त्वोदय). <ls>Verz. d. Cambr. H. 69.</ls> <ls>HALL 18.</ls> °विवरण <ls n='HALL'>200.</ls>"
+        }
     ]
 }

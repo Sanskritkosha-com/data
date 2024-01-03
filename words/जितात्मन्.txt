@@ -39,5 +39,41 @@
             "pagenum": 290,
             "content": "jita-Atman¦ <i>a.</i> self-subdued, void of passion."
         }
+    ],
+    "MW": [
+        {
+            "word": "जितात्मन्",
+            "eid": "79226",
+            "pagenum": 420,
+            "content": "jitA<srs/>tman ¦ <lex>mfn.</lex> self-subdued, <ls>MBh.</ls>; <ls>Pañcat. ii, 4, 9/10</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "जितात्मन्",
+            "eid": "79227",
+            "pagenum": 420,
+            "content": "¦ (अ- <ab>neg.</ab>), <ls>Mn. vii, 34</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जितात्मन्",
+            "eid": "79228",
+            "pagenum": 420,
+            "content": "jitA<srs/>tman ¦ <lex>m.</lex> <ab>N.</ab> of one of the <s1 slp1='viSve-devA'>Viśve-devā</s1>s, <ls>MBh. xiii, 4356.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जितात्मन्",
+            "eid": "42789",
+            "pagenum": 2,
+            "content": "जितात्मन्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>der seiner Herr geworden ist</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines der <is>Viśve Devās</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जितात्मन्",
+            "eid": "27456",
+            "pagenum": 3,
+            "content": "जितात्मन्¦ (जित + आत्मन्) <div n='1'> 1) <lex>adj.</lex> <i>der sich selbst überwunden hat. seiner selbst Herr geworden ist</i> <ls>SUND. 3, 2.</ls> <ls>PAÑCAT. 131, 19.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines der <is>Viśve</is> <is>Devās</is> <ls>MBH. 13, 4356.</ls>"
+        }
     ]
 }

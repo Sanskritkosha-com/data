@@ -75,5 +75,67 @@
             "pagenum": 344,
             "content": "dEteya¦ <i>m.</i> (son of Diti) A Rākshasa, a demon."
         }
+    ],
+    "MW": [
+        {
+            "word": "दैतेय",
+            "eid": "96727",
+            "pagenum": 497,
+            "content": "दैतेय ¦ <lex>m.</lex> (<ab>fr.</ab> दिति) a son or descendant of <s1 slp1='diti'>Diti</s1>, an <s1 slp1='asura'>Asura</s1>, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>R.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "दैतेय",
+            "eid": "96728",
+            "pagenum": 497,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='rAhu'>Rāhu</s1>, <ls>Var.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दैतेय",
+            "eid": "96730",
+            "pagenum": 497,
+            "content": "दैतेय ¦ <lex>mf(ई)n.</lex> proceeding from or belonging to the <s1 slp1='dEteya'>Daiteya</s1>s, <ls>MBh.</ls>; <ls>Hariv.</ls><info lex='m:f#I:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दैतेय",
+            "eid": "22737",
+            "pagenum": 435,
+            "content": "दैतेय¦ <i>daiteya, as,</i> m. (fr. <i>diti</i>), a son of Diti, an Asura, an enemy of the gods, (especially) epithet of Rāhu; (<i>as, ī, am</i>), proceeding from or belonging to the Daiteyas."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दैतेय",
+            "eid": "52834",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> दैतेय¦ <div n='1'>— 1〉 <lex>m.</lex> <i>ein Sohn oder ein Abkömmling der</i> <is>Diti</is>, <i>ein</i> <is>Asura</is>; <ab>Insbes.</ab> <ab>Bez.</ab> <is>Rāhu</is>ʼs. <div n='1'>— 2〉 <lex>f.</lex> ई <lex>f.</lex> zu 1〉."
+        },
+        {
+            "word": "दैतेय",
+            "eid": "52835",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> दैतेय¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>zu einem oder zu den</i> <is>Daiteya</is> <i>in Beziehung stehend, daher kommend, ihm oder ihnen gehörig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दैतेय",
+            "eid": "34889",
+            "pagenum": 3,
+            "content": "1. दैतेय¦ (von 3. दिति) <lex>m.</lex> <i>ein Sohn der</i> <is>Diti</is>, <i>ein</i> <is>Asura</is>, <i>ein Feind der Götter</i> <ls>AK. 1, 1, 1, 7.</ls> <ls>H. 238</ls>, <ls>Sch.</ls>  <ls>MBH. 3, 1694.</ls> <ls n='MBH. 3,'>12203</ls> (दैतेयी <ls>ARJ. 10, 7</ls> fehlerhaft für दैतेयो). <ls n='MBH. 3,'>12220.</ls> दैतेयाश्चाप्यदैतेयाः (<ab>d. i.</ab> देवाः) <ls>HARIV. 11931.</ls> <ls>R. 1, 45, 38.</ls> <ls>BHĀG. P. 6, 18, 9.</ls> Insbes. heisst so <is>Rāhu</is> <ls>VARĀH. BṚH. S. 5, 34.</ls>"
+        },
+        {
+            "word": "दैतेय",
+            "eid": "34890",
+            "pagenum": 3,
+            "content": "2. दैतेय¦ (vom vorherg.) <lex>adj.</lex> <lex>f.</lex> ई <i>zu einem</i> oder <i>zu den</i> <is>Daiteya</is> <i>in Beziehung stehend, daher kommend, ihm</i> oder <i>ihnen gehörig</i>: दैतेयी चासुरी प्रजा <ls>MBH. 12, 7544.</ls> वाण <ls>HARIV. 10771.</ls>"
+        },
+        {
+            "word": "दैतेय",
+            "eid": "76199",
+            "pagenum": 5,
+            "content": "1. दैतेय¦, <lex>f.</lex> दैतेयी ( = दितेः पौत्री <ls>Schol.</ls>) <ls>R. 7, 58, 8.</ls>"
+        }
     ]
 }

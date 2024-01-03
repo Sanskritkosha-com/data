@@ -15,5 +15,65 @@
             "pagenum": 255,
             "content": "पुंलिङ्ग¦ <i>n.</i> das männliche Geschlecht; <i>Adj.</i> männlichen Geschlechts <i>(g).</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "125044",
+            "pagenum": 630,
+            "content": "पुं—लिङ्ग ¦ <lex>n.</lex> <ab>id.</ab>, <ls>MBh.</ls><info lex='n'/>"
+        },
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "125045",
+            "pagenum": 630,
+            "content": "¦ the male organ, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "125046",
+            "pagenum": 630,
+            "content": "¦ the masculine gender, <ls>Kum.</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        },
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "125047",
+            "pagenum": 630,
+            "content": "पुं—लिङ्ग ¦ <lex>mf(आ)n.</lex> having the mark of a man, <ls>AgP.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "125048",
+            "pagenum": 630,
+            "content": "¦ (in <ab>gram.</ab>) being masculine<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "67468",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> पुंलिङ्ग¦ <lex>n.</lex> <div n='1'>— 1〉 <ab>dass.</ab> <div n='1'>— 2〉 in der Grammatik <i>das männliche Geschlecht</i> <ls n='Chr.'>234,28</ls>."
+        },
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "67469",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> पुंलिङ्ग¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>die Kennzeichen des Mannes habend</i> <ls>AGNI-P. 43,14</ls>. <div n='1'>— 2〉 in der Grammatik <i>männlichen Geschlechts</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "45612",
+            "pagenum": 4,
+            "content": "1. पुंलिङ्ग¦ (पुमंस् + लिङ्ग) <lex>n.</lex> <i>das Merkmal des Mannes, Männlichkeit</i>: दास्ये पुंलिङ्गं स्वमिदं तव <ls>MBH. 5, 7489.</ls> <ls n='MBH. 5,'>7492.</ls> पुंलिङ्गं सर्वमीशानं (lies शर्व°) स्त्रीलिङ्गं विद्धि चाप्युमाम् <ls n='MBH.'>13, 828.</ls> in grammatischem Sinne: पुंलिङ्गान्त <i>männlich auslautend</i> <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 6, 46.</ls>"
+        },
+        {
+            "word": "पुंलिङ्ग",
+            "eid": "45613",
+            "pagenum": 4,
+            "content": "2. पुंलिङ्ग¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> आ <i>die Merkmale des Mannes habend</i>: पुंलिङ्गा इव नार्यस्तु स्त्रीलिङ्गाः पुरुषाभवन् <ls>MBH. 9, 3304.</ls> in gramm. Sinne: मन्त्र <ls>KAUŚ. 60.</ls> <ls>Schol.</ls> zu <ls>AV. PRĀT. 4, 46.</ls> <ls>VOP. 3, 70</ls> in der Unterschr. <ls>Verz. d. B. H. No. 737.</ls>"
+        }
     ]
 }

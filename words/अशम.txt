@@ -15,5 +15,35 @@
             "pagenum": 50,
             "content": "अशम¦ <lex>m.</lex> restlessness."
         }
+    ],
+    "MW": [
+        {
+            "word": "अशम",
+            "eid": "19496",
+            "pagenum": 113,
+            "content": "अ-शम ¦ <lex>m.</lex> disquietude, uneasiness, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अशम",
+            "eid": "19497",
+            "pagenum": 113,
+            "content": "¦ ‘not resting’, in <ab>comp.</ab> with<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अशम",
+            "eid": "7172",
+            "pagenum": 99,
+            "content": "<i>A-śama, as,</i>¦ m. disquietude, uneasiness."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अशम",
+            "eid": "22243",
+            "pagenum": 7,
+            "content": "अशम¦ <lex>m.</lex> <i>Unruhe</i> <ls>BHAG. 14,12</ls>."
+        }
     ]
 }

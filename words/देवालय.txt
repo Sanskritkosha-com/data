@@ -15,5 +15,43 @@
             "pagenum": 342,
             "content": "deva-Alaya¦ <i>m.</i> 1. heaven; 2. a temple."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवालय",
+            "eid": "96248",
+            "pagenum": 495,
+            "content": "devA<srs/>laya ¦ <lex>m.</lex> ‘residence of the <ab n='gods'>g°</ab>’, heaven, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "देवालय",
+            "eid": "96249",
+            "pagenum": 495,
+            "content": "¦ temple, <ls>Pañc.</ls>; <ls>MārkP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "देवालय",
+            "eid": "6324",
+            "pagenum": 2,
+            "content": "<i>Devālayas</i>¦ — the homes of the nine planets;<sup>1</sup> temples visited by Paraśurāma;<sup>2</sup> see also Devagṛhas. <F>1) Br. II. 23. 95; Vā. 52. 85.</F> <F>2) Br. III. 24. 41; 27. 11; IV. 38. 57; M. 96. 25; 257. 6.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवालय",
+            "eid": "52647",
+            "pagenum": 3,
+            "content": "देवालय¦ <lex>m.</lex> <div n='1'>— 1〉 *<i>die Wohnung der Götter, der Himmel</i>. <div n='1'>— 2〉 <i>Tempel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवालय",
+            "eid": "34769",
+            "pagenum": 3,
+            "content": "देवालय¦ (देव + आ°) <lex>m.</lex> (n. <ls>WILS.</ls> <ls>ŚKDR.</ls>) <div n='1'> 1) <i>die Wohnung der Götter, der Himmel</i> <ls>ŚABDĀRTHAK.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <i>Tempel</i> ebend. <ls>PAÑCAT. 183, 23.</ls> <ls>MĀRK. P. 14, 65.</ls> <ls>SĀH. D. 47, 15.</ls> <ls>HIOUEN-THSANG I, 190. 233. II, 72.</ls>"
+        }
     ]
 }

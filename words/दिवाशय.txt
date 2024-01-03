@@ -7,5 +7,35 @@
             "pagenum": 332,
             "content": "divA-Saya¦ <i>a.</i> sleeping at day, <ls>R.</ls>xix.34."
         }
+    ],
+    "MW": [
+        {
+            "word": "दिवाशय",
+            "eid": "92337",
+            "pagenum": 479,
+            "content": "दिवा—शय ¦ <lex>mfn.</lex> sleeping by day, <ls>Ragh. xix, 34.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिवाशय",
+            "eid": "50316",
+            "pagenum": 3,
+            "content": "दिवाशय¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>am Tage schlafend</i>. <ab>Nom. abstr.</ab> °ता. <div n='1'>— 2〉 <lex>m.</lex> <i>das Schlafen am Tage</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिवाशय",
+            "eid": "32984",
+            "pagenum": 3,
+            "content": "दिवाशय¦ (दिवा + शय) <lex>adj.</lex> <i>am Tage schlafend</i> <ls>RAGH. 19, 34.</ls> Davon दिवाशयता <lex>f.</lex> <i>das Schlafen bei Tage</i> <ls>RĀJA-TAR. 5, 252.</ls>"
+        },
+        {
+            "word": "दिवाशय",
+            "eid": "75749",
+            "pagenum": 5,
+            "content": "दिवाशय¦ <lex>m.</lex> <i>das Schlafen am Tage</i> <ls>Spr. 3418.</ls>"
+        }
     ]
 }

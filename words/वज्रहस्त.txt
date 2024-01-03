@@ -31,5 +31,35 @@
             "pagenum": 705,
             "content": "<b>Vajrahasta</b><sup>1</sup>¦ = Indra, q.v.—Do.<sup>2</sup> = Śiva (1000 names<sup>2</sup>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "वज्रहस्त",
+            "eid": "185055",
+            "pagenum": 914,
+            "content": "व/ज्र—हस्त ¦ (व/ज्र-), <lex>mfn.</lex> ‘thunderbolt-handed’, wielding a <ab n='thunderbolt'>th°</ab> (said of <s1 slp1='indra'>Indra</s1>, <s1 slp1='agni'>Agni</s1>, the <s1 slp1='marut'>Marut</s1>s), <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वज्रहस्त",
+            "eid": "185055.1",
+            "pagenum": 914,
+            "content": "व/ज्र—हस्त ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>Śivag.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वज्रहस्त",
+            "eid": "97551",
+            "pagenum": 6,
+            "content": "व/ज्रहस्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>den Donnerkeil in der Hand haltend</i>. <div n='1'>— 2〉 <lex>f.</lex> वज्रहस्ता <div n='2'>— a〉 Name <i>einer der 9</i> <is>Samidh</is>. <div n='2'>— b〉 <ab>N. pr.</ab> einer <ab>buddh.</ab> Göttin."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वज्रहस्त",
+            "eid": "87462",
+            "pagenum": 6,
+            "content": "व/ज्रहस्त¦ <div n='1'> 1) <lex>adj.</lex> <i>den Donnerkeil in der Hand haltend</i>: <is>Indra</is> <ls>ṚV. 1, 173, 10.</ls> <ls n='ṚV.'>2, 12, 13.</ls> <ls n='ṚV. 2,'>19, 2.</ls> <ls n='ṚV.'>6, 22, 5.</ls> <is>Indra-Agni</is> <ls n='ṚV.'>1, 109, 8.</ls> die <is>Marut</is> <ls n='ṚV.'>8, 7, 32.</ls> <is>Śiva</is> <ls>ŚIV.</ls> <div n='1'>— 2) <lex>f.</lex> आ <div n='2'> a) N. einer der 9 <is>Samidh</is> <ls>GṚHYAS. 1, 27.</ls> <div n='2'>— b) N. pr. einer buddhistischen Göttin <ls>WILSON, Sel. Works II, 39.</ls> <ls>KĀLACAKRA 1, 119.</ls>"
+        }
     ]
 }

@@ -55,5 +55,65 @@
             "pagenum": 113,
             "content": "<b>á-jñāta,</b>¦ <i><ab>a.</ab></i> unknown. [<b>√jñā:</b> <ab>cf.</ab> <lang n='greek'>ἄ-γνωτος</lang>, <ab>Lat.</ab> <i>i-gnotus,</i> <ab>Eng.</ab> <i>un-couth,</i> ‘unknown.’]"
         }
+    ],
+    "MD": [
+        {
+            "word": "अज्ञात",
+            "eid": "512",
+            "pagenum": 5,
+            "content": "अज्ञात¦ á-jñāta, <ab>pp.</ab> unknown, unrecognised: 🞄<b>-m,</b> <lex>ad.</lex> without the knowledge of (<ab>g.</ab>); <b>-kulaśila,</b> <lex>a.</lex> whose family and character are unknown; 🞄<b>-bhukta,</b> <ab>pp.</ab> eaten unawares; <b>-vāsa,</b> 🞄<lex>m.</lex> unknown abode; <lex>a.</lex> whose abode is unknown: 🞄<b>-m,</b> <lex>ad.</lex> unknown, incognito."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अज्ञात",
+            "eid": "2212",
+            "pagenum": 10,
+            "content": "अ/-ज्ञात ¦ <lex>mfn.</lex> unknown<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अज्ञात",
+            "eid": "2213",
+            "pagenum": 10,
+            "content": "¦ unexpected<info lex='inh'/>"
+        },
+        {
+            "word": "अज्ञात",
+            "eid": "2214",
+            "pagenum": 10,
+            "content": "¦ unaware<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अज्ञात",
+            "eid": "493",
+            "pagenum": 10,
+            "content": "<i>A-jñāta, as, ā, am,</i>¦ unknown; unexpected; unaware. <i>—Ajñāta-kula-śīla, as, ā, am,</i> whose lineage and character are unknown. <i>—Ajñāta-keta, as, ā, am,</i> Ved. having unknown or secret designs. <i>—Ajñāta-</i> <i>bhukta, as, ā, am,</i> eaten unawares. <i>—Ajñāta-</i> <i>yakṣma, as,</i> m., Ved. (insidious consumption?), N. of a disease. <i>—Ajñāta-vāsa, as, ā, am,</i> whose dwelling is unknown. <i>—Ajñāta-śīla, as, ā, am,</i> whose character is unknown."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अज्ञात",
+            "eid": "1400",
+            "pagenum": 1,
+            "content": "अ/ज्ञात¦ <lex>Adj.</lex> <i>unbekannt</i> <ls n='Chr.'>141,28. 281,4</ls>. <ls>Spr. 7622</ls>. <i>ungekannt als</i> <ls>Chr. 199,3</ls>. °भुक्त <i>was man ohne zu wissen gegessen hat</i>. अज्ञातम् <lex>Adj.</lex> <i>ohne Wissen von</i> (<ab>Gen.</ab>) <ls n='Chr.'>61,6. 73,10</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अज्ञात",
+            "eid": "1026",
+            "pagenum": 1,
+            "content": "अ/ज्ञात¦ (3. अ + ज्ञात) <lex>adj.</lex> <i>unbekannt</i>: दू\\रे अज्ञा^ता उ\\षसो^ बबाधे <ls>ṚV. 4, 23, 7.</ls> वृ\\जना^ <ls n='ṚV.'>7, 32, 27.</ls> <ls n='ṚV.'>10, 27, 4.</ls> नाज्ञातेन समं गच्छेत् <ls>M. 4, 140.</ls> <ls n='M.'>5, 17.</ls> <ls>INDR. 5, 57.</ls> <ls>N. (BOPP) 15, 20. 25, 11.</ls> <ls>HIT. I, 49.</ls> — <i>Ungekannt, unbekannt</i> in einer gewissen, durch ein anderes Wort näher angegebenen Beziehung: या गर्भिणी ज्ञाताज्ञातापि वा सती <i>welche Schwangere, sie mag als solche gekannt oder ungekannt sein</i>, <ls>M. 9, 173.</ls> अज्ञातभुक्त <i>was man ohne zu wissen gegessen hat</i> <ls n='M.'>5, 21.</ls> <ls n='M.'>11, 155.</ls> Am Anfange einer Zusammens. पूजनार्थे <ls>SIDDH. K. 246,b,4.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अज्ञात",
+            "eid": "9987",
+            "pagenum": 7,
+            "content": "अज्ञात¦ I. Auch <i>unerkannt, unerwartet</i> <ls>R. ed. Bomb. 4,56,8</ls>."
+        }
     ]
 }

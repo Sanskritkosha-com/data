@@ -44,5 +44,43 @@
             "pagenum": 756,
             "content": "saptan-sapti¦ <i>m.</i> an epithet of the sun, सर्वैरुस्रैः समग्रैस्त्वमिव नृप गुणैर्दीप्यते सप्तसप्तिः <ls>Mal.</ls>ii."
         }
+    ],
+    "MW": [
+        {
+            "word": "सप्तसप्ति",
+            "eid": "232668",
+            "pagenum": 1150,
+            "content": "सप्त—सप्ति ¦ <lex>mfn.</lex> having 7 horses<info lex='m:f:n'/>"
+        },
+        {
+            "word": "सप्तसप्ति",
+            "eid": "232669",
+            "pagenum": 1150,
+            "content": "सप्त—सप्ति ¦ <lex>m.</lex> <ab>N.</ab> of the Sun (<ab>cf.</ab> saptA<srs/>Sva), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "सप्तसप्ति",
+            "eid": "15357",
+            "pagenum": 3,
+            "content": "<i>Saptasapti</i>¦ — the Sun God with seven rays emitting fire before the deluge. <div n='P'/>M. 2. 4; 55. 8."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सप्तसप्ति",
+            "eid": "119566",
+            "pagenum": 7,
+            "content": "सप्तसप्ति¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>mit sieben Rossen fahrend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>die Sonne</i> <ls>ŚIŚ. 11,48</ls>. <ls>KĀD. 257,9 (420,19)</ls>. <ls>HARṢAC. 96,24</ls>. <ls>RĀJAN. 7,23</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सप्तसप्ति",
+            "eid": "105083",
+            "pagenum": 7,
+            "content": "सप्तसप्ति¦ <lex>adj.</lex> <i>mit sieben Rossen fahrend</i>; <lex>m.</lex> <i>die Sonne</i> <ls>TRIK. 1, 1, 99.</ls> <ls>H. 96.</ls> <ls>MBH. 3, 193.</ls> <ls n='MBH.'>8, 473.</ls> <ls>RAGH. 13, 41.</ls> <ls>ŚĀK. 157.</ls> <ls>MĀLAV. 33.</ls> <ls>KIR. 5, 34.</ls> <ls>MĀRK. P. 107, 2.</ls>"
+        }
     ]
 }

@@ -85,5 +85,147 @@
             "pagenum": 148,
             "content": "U¦ <i>ind.</i> 1. A particle used to introduce a sentence; 2. an interjection- (1) of calling; (2) of compassion."
         }
+    ],
+    "MD": [
+        {
+            "word": "ऊ",
+            "eid": "4974",
+            "pagenum": 55,
+            "content": "ऊ¦ ū = उ u."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ऊ",
+            "eid": "37938",
+            "pagenum": 221,
+            "content": "<hom>1.</hom> ऊ ¦ the sixth letter of the alphabet (corresponding to <i>u</i> long, and having the sound of that letter in the word <i>rule</i>)."
+        },
+        {
+            "word": "ऊ",
+            "eid": "37942",
+            "pagenum": 221,
+            "content": "<hom>2.</hom> ऊ ¦ <lex>ind.</lex> an interjection of calling to<info lex='ind'/>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "37942.1",
+            "pagenum": 221,
+            "content": "¦ of compassion<info lex='inh'/>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "37942.2",
+            "pagenum": 221,
+            "content": "¦ a particle implying promise to protect, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "37942.3",
+            "pagenum": 221,
+            "content": "¦ a particle used at the beginning of a sentence.<info lex='inh'/>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "37943",
+            "pagenum": 221,
+            "content": "<hom>3.</hom> ऊ ¦ <lex>mfn.</lex> (√ अव्, <ls>Pāṇ. vi, 4, 20</ls>), helping, protecting, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "37944",
+            "pagenum": 221,
+            "content": "ऊ ¦ <lex>m.</lex> (ऊस्) the moon, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "37945",
+            "pagenum": 221,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "37958",
+            "pagenum": 221,
+            "content": "<hom>4.</hom> ऊ ¦ <lex>mfn.</lex> (√ वे, <ls>Vop. xxvi, 73</ls>), weaving, sewing.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "37964",
+            "pagenum": 221,
+            "content": "ऊं ¦ a mode of designating <hom>3.</hom> उ (<ab>q.v.</ab>) in the <s1 slp1='pada-pAWa'>Pada-pāṭha</s1> followed by इति."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऊ",
+            "eid": "12490",
+            "pagenum": 176,
+            "content": "ऊ 1¦. <i>ū,</i> the sixth letter of the alphabet, corresponding to <i>u</i> long, and having the sound of that letter in the word <i>rule</i>. <i>—Ū-kāra, as,</i> m. the letter or sound <i>ū.</i>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "12491",
+            "pagenum": 176,
+            "content": "ऊ 2¦. <i>ū,</i> ind. an interjection of compassion, of regard; an incipient particle used at the beginning of a sentence."
+        },
+        {
+            "word": "ऊ",
+            "eid": "12492",
+            "pagenum": 176,
+            "content": "ऊ 3¦. <i>ū, ūs,</i> m. the moon; epithet of Śiva."
+        },
+        {
+            "word": "ऊ",
+            "eid": "12493",
+            "pagenum": 176,
+            "content": "ऊ 4¦. <i>ū</i> (fr. rt. <i>av</i>), ‘a preserver’ (?)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऊ",
+            "eid": "20960",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> ऊ/¦ = <hom>1.</hom> उ; <ab>s. d.</ab>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "20961",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *ऊ¦ <ab>Interj.</ab> वाक्यारम्भे, अनुकम्पायाम्, रक्षायाम्."
+        },
+        {
+            "word": "ऊ",
+            "eid": "20962",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> *ऊ¦ <lex>Adj.</lex> von अव्, अवति und von वा, वयति."
+        },
+        {
+            "word": "ऊ",
+            "eid": "20963",
+            "pagenum": 1,
+            "content": "*ऊ¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Mond</i>. <div n='1'>— 2〉 <ab>Bein.</ab> <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऊ",
+            "eid": "12699",
+            "pagenum": 1,
+            "content": "1. ऊ¦ interj. <ls>Sch.</ls> zu <is>gaṇa</is> चादि zu <ls>P. 1, 4, 57.</ls> <div n='1'> 1) वाक्यारम्भे <i>beim Beginn einer Rede</i>, <div n='1'> 2) अनुकम्पायाम् <i>des Mitleidens</i>, <div n='1'> 3) रक्षायाम् <i>der Abwehr</i> (<ls>WILSON</ls>: <i>of regard</i>) <ls>MED. avy. 5.</ls> — Das ved. ऊ s. u. 2. उ ."
+        },
+        {
+            "word": "ऊ",
+            "eid": "12700",
+            "pagenum": 1,
+            "content": "2. ऊ¦ <lex>m.</lex> <div n='1'> 1) <i>Mond</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) ein Bein. <is>Śiva's</is> <ls>PURUṢ.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "ऊ",
+            "eid": "12701",
+            "pagenum": 1,
+            "content": "3. ऊ¦ <lex>adj.</lex> <div n='1'> 1) von अव्; nom. sg. ऊस्, du. उवौ <ls>P. 6, 4, 20</ls>, <ls>Sch.</ls>  <ls>VOP. 26, 75.</ls> <div n='1'>— 2) von वा, वयति <ls>VOP. 26, 73.</ls>"
+        }
     ]
 }

@@ -53,5 +53,35 @@
             "pagenum": 149,
             "content": "तर्कस/ंग्रह¦ <i>m. T. eines Werkes.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "तर्कसंग्रह",
+            "eid": "83386",
+            "pagenum": 440,
+            "content": "तर्क—संग्रह ¦ <lex>m.</lex> <ab>N.</ab> of a manual of the <s1 slp1='vESezika'>Vaiśeṣika</s1> branch of the <s1 slp1='nyAya'>Nyāya</s1> <ab>phil.</ab> by <s1 slp1='annam-Bawwa'>Annam-bhaṭṭa</s1><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तर्कसंग्रह",
+            "eid": "44913",
+            "pagenum": 3,
+            "content": "तर्कसंग्रह <lex>m.</lex>, °चन्द्रिका <lex>f.</lex>, °तत्त्वप्रकाश <lex>m.</lex>, °तत्त्वोपन्यास <lex>m.</lex>, °दीपिका <lex>f.</lex>, °दीपिकाव्याख्या (<ls>OPP. CAT. 1</ls>) und °व्याख्या <lex>f.</lex> (<ls>ebend.</ls>)¦ Titel von Werken."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तर्कसंग्रह",
+            "eid": "28994",
+            "pagenum": 3,
+            "content": "तर्कसंग्रह¦ (तर्क + सं°) <lex>m.</lex> Titel eines Handbuchs der <i><is>Nyāya</is>-Lehre</i> von <is>Annabhaṭṭa</is> <ls>TARKAS. 1. 59.</ls> <ls>Verz. d. B. H. No. 682.</ls> <ls>MACK. Coll. I, 17.</ls> <ls>Z. d. d. m. G. 6, 9.</ls> Commentar dazu ebend. <ls n='Z. d. d. m. G.'>2, 342 (No. 200,b).</ls> <ls>Verz. d. B. H. No. 683.</ls>"
+        },
+        {
+            "word": "तर्कसंग्रह",
+            "eid": "74907",
+            "pagenum": 5,
+            "content": "तर्कसंग्रह¦, °चन्द्रिका <ls>HALL 70.</ls> °तत्त्वप्रकाश <ls n='HALL'>71.</ls> °दीपिका <ls>Verz. d. Oxf. H. 243,b, No. 605.</ls> तर्कसंग्रहतत्त्वोपन्यास <ls>HALL 71.</ls>"
+        }
     ]
 }

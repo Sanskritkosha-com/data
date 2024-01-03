@@ -31,5 +31,35 @@
             "pagenum": 512,
             "content": "brahman-vrata¦ <i>n.</i> a vow of chastity."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्मव्रत",
+            "eid": "147052",
+            "pagenum": 740,
+            "content": "ब्रह्म—व्रत ¦ <lex>n.</lex> <ab>N.</ab> of a religious observance, <ls>MBh.</ls><info lex='n'/>"
+        },
+        {
+            "word": "ब्रह्मव्रत",
+            "eid": "147053",
+            "pagenum": 740,
+            "content": "¦ a vow of chastity (-धर <lex type='phw'>mfn.</lex> practising the vow of chastity), <ls>Pañcat.</ls><info phwchild='147053.1'/><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्मव्रत",
+            "eid": "78084",
+            "pagenum": 4,
+            "content": "ब्रह्मव्रत¦ <lex>n.</lex> <div n='1'>— 1〉 eine <ab>best.</ab> Begehung. <div n='1'>— 2〉 <i>das Gelübde der Keuschheit</i>. °धर <lex>Adj.</lex> <i>dieses übend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्मव्रत",
+            "eid": "53523",
+            "pagenum": 5,
+            "content": "ब्रह्मव्रत¦ (1. ब्रह्मन् + व्रत) <lex>n.</lex> Bez. <i>eines best. Gelübdes</i> <ls>MBH. 2, 128</ls> (= हार्दब्रह्मोपासना Schol.). °व्रतानि चत्वारि <ls>Verz. d. Oxf. H. 30,b. 2.</ls> <i>das Gelübde der Keuschheit</i> <ls>PAÑCAT. 187, 6.</ls> °धर <ls n='PAÑCAT.'>12.</ls>"
+        }
     ]
 }

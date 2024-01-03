@@ -50,5 +50,51 @@
             "pagenum": 131,
             "content": "udIcIna¦ <i>a. (f. ना)</i> 1. Northern; 2. turned towards the north."
         }
+    ],
+    "MD": [
+        {
+            "word": "उदीचीन",
+            "eid": "4524",
+            "pagenum": 51,
+            "content": "उदीचीन¦ udīc-īna, <lex>a.</lex> northward."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उदीचीन",
+            "eid": "32312",
+            "pagenum": 184,
+            "content": "उदीची/न <hom>a</hom> ¦ <lex>mfn.</lex> turned towards the north, northern, <ls>AV.</ls>; <ls>AitBr.</ls>; <ls>ŚBr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "उदीचीन",
+            "eid": "32676",
+            "pagenum": 186,
+            "content": "उदीची/न <hom>b</hom> ¦ &c. See <pcol>p. 184, col. 2</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उदीचीन",
+            "eid": "10785",
+            "pagenum": 155,
+            "content": "उदीचीन¦ <i>udīcīna, as, ā, am</i> (fr. 2. <i>ud-añc</i>), turned towards the north, northern."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उदीचीन",
+            "eid": "18897",
+            "pagenum": 1,
+            "content": "उदीची/न¦ <lex>Adj.</lex> <i>nördlich gewandt</i>. °प्रवण <i>nach Norden sich neigend</i>. °दश <lex>Adj.</lex> <ls>ŚAT. BR. 1,7,1,13. 4,3,5,21</ls>. °वंश <lex>Adj.</lex> (<lex>f.</lex> आ) <ls n='ŚAT. BR.'>3,1,1,7. 6,1,23</ls>. उदीची/नाग्र <lex>Adj.</lex> (<lex>f.</lex> आ) <ls n='ŚAT. BR.'>1,2,1,16</ls> (falsch betont), <ls n='ŚAT. BR.'>3,5,4,20. 6,1,14. 7,1,7</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उदीचीन",
+            "eid": "11323",
+            "pagenum": 1,
+            "content": "उदीची/न¦ (von उदञ्च्) <lex>adj.</lex> <i>nördlich gewandt</i> <ls>H. 168.</ls> प\\थिभि^ः <ls>AV. 12, 2, 29.</ls> उदीचीनाँ अस्य पदो नि धत्तात् <ls>AIT. BR. 2, 6.</ls> उदीची/नप्रवण <ls>ŚAT. BR. 13, 8, 1, 6. 1, 7, 1, 13. 2, 1, 16. 3, 1, 1, 7.</ls>"
+        }
     ]
 }

@@ -20,5 +20,45 @@
             "pagenum": 353,
             "content": "DanyA¦ <i>f.</i> A nurse."
         }
+    ],
+    "MW": [
+        {
+            "word": "धन्या",
+            "eid": "99503",
+            "pagenum": 509,
+            "content": "ध/न्या ¦ (आ), <lex>f.</lex> a nurse, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "धन्या",
+            "eid": "99504",
+            "pagenum": 509,
+            "content": "¦ <bot>Emblic Myrobalan</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धन्या",
+            "eid": "99505",
+            "pagenum": 509,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='Druva'>Dhruva</s1>'s wife, <ls>VP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धन्या",
+            "eid": "99506",
+            "pagenum": 509,
+            "content": "¦ (also <lex type='hwalt'>n.</lex>) coriander, <ls>L.</ls><info lex='f:n'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "धन्या",
+            "eid": "6501",
+            "pagenum": 2,
+            "content": "<i>Dhanyā</i> (I)¦ — the Vaiśya caste of Krauñcadvīpa. <div n='P'/>Vi. II. 4. 53."
+        },
+        {
+            "word": "धन्या",
+            "eid": "6502",
+            "pagenum": 2,
+            "content": "<i>Dhanyā</i> (II)¦ — a daughter of Manas; wife of Dhruva; gave birth to a son Śiṣṭa. <div n='P'/>M. 4. 38."
+        }
     ]
 }

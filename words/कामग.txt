@@ -39,5 +39,47 @@
             "pagenum": 180,
             "content": "kAma-ga¦ <i>a.</i> able to act as one pleases."
         }
+    ],
+    "MW": [
+        {
+            "word": "कामग",
+            "eid": "47995",
+            "pagenum": 272,
+            "content": "काम—ग ¦ <lex>mfn.</lex> going or coming of one's own accord<info lex='m:f:n'/>"
+        },
+        {
+            "word": "कामग",
+            "eid": "47996",
+            "pagenum": 272,
+            "content": "¦ moving or acting as one pleases, <ls>MBh.</ls>; <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कामग",
+            "eid": "47997",
+            "pagenum": 272,
+            "content": "¦ following one's impulses, indulging one's passions, running after men or women, <ls>Yājñ. iii, 6</ls> (of a woman = कुलटा <ab>Comm.</ab>)<info lex='inh'/>"
+        },
+        {
+            "word": "कामग",
+            "eid": "47998",
+            "pagenum": 272,
+            "content": "काम—ग ¦ <lex>m.</lex> one who comes accidentally or unexpectedly, casual visitor, one who travels about without any specific purpose, <ls>Nal. xviii, 23</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कामग",
+            "eid": "26498",
+            "pagenum": 2,
+            "content": "कामग¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='2'>— a〉 <i>nach Belieben sich nach irgend einem Orte begebend</i>. <div n='2'>— b〉 <i>seinen Neigungen fröhnend</i>. <div n='1'>— 2〉 *<lex>f.</lex> आ <is>Kokila</is>-<i>Weibchen</i> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कामग",
+            "eid": "16375",
+            "pagenum": 2,
+            "content": "कामग¦ (काम + ग) <lex>adj.</lex> <lex>f.</lex> आ <i>aus freiem Antriebe gehend, - kommend; nach Belieben überall sich zu bewegen befähigt</i>: ऋतुपर्णं वचो ब्रूहि संपतन्निव कामगः <ls>N. 18, 21.</ls> रथः <ls>R. 3, 28, 30.</ls> <ls n='R. 3,'>36, 15.</ls> <ls n='R. 3,'>39, 6.</ls> <ls n='R. 3,'>48, 5.</ls> <ls n='R. 3,'>54, 6.</ls> <ls n='R.'>6, 106, 9.</ls> <ls>INDR. 2, 8.</ls> कामगेन च सौभेन <ls>MBH. 3, 628.</ls> <ls n='MBH. 3,'>685.</ls> <ls n='MBH. 3,'>701.</ls> कामगा <i>eine Frau, welche ihren Neigungen</i> (in Bezug auf die Männer) <i>fröhnt</i> <ls>YĀJÑ. 3, 6.</ls>"
+        }
     ]
 }

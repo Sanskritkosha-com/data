@@ -39,5 +39,129 @@
             "pagenum": 599,
             "content": "yuta¦ <i>a. (f. ता)</i> Joined with, united with, together with."
         }
+    ],
+    "MD": [
+        {
+            "word": "युत",
+            "eid": "14873",
+            "pagenum": 246,
+            "content": "युत¦ yu-ta, <ab>pp.</ab> (√ <hom>1.</hom> yu) joined <ab>etc.</ab>; <b>-tá,</b> <ab>pp.</ab> 🞄(√ <hom>2.</hom> yu) separated."
+        }
+    ],
+    "MW": [
+        {
+            "word": "युत",
+            "eid": "171688",
+            "pagenum": 853,
+            "content": "<hom>1.</hom> युत ¦ <lex>mfn.</lex> (for <hom>2.</hom> See below) kept off, removed (See <ab>comp.</ab>)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171689",
+            "pagenum": 853,
+            "content": "¦ separate (= पृथक्), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171701",
+            "pagenum": 853,
+            "content": "<hom>2.</hom> युत ¦ <lex>mfn.</lex> (for <hom>1.</hom> See above) attached, fastened (<ab>ifc.</ab>), <ls>Bhartṛ.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171702",
+            "pagenum": 853,
+            "content": "¦ added, <ls>Sūryas.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171703",
+            "pagenum": 853,
+            "content": "¦ united, combined, joined or connected or provided or filled or covered with, accompanied by, possessed of (<ab>instr.</ab> or <ab>comp.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171704",
+            "pagenum": 853,
+            "content": "¦ (<ab>ifc.</ab>) standing in conjunction with, <ls>VarBṛS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171705",
+            "pagenum": 853,
+            "content": "¦ made or consisting of <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171706",
+            "pagenum": 853,
+            "content": "¦ (with <ab>instr.</ab>) occupied in, performing (sacrifices), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171707",
+            "pagenum": 853,
+            "content": "¦ (<ab>ifc.</ab>) connected with, concerning, <ls>R.</ls>; <ls>BhP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "171708",
+            "pagenum": 853,
+            "content": "युत ¦ <lex>n.</lex> a <ab>partic.</ab> measure of length (= 4 <s1 slp1='hasta'>Hasta</s1>s), <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "युत",
+            "eid": "172010",
+            "pagenum": 854,
+            "content": "युत <hom>a</hom>, युतक, युति. ¦ See under √ <hom>1.</hom> <hom>2.</hom> यु."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "युत",
+            "eid": "38693",
+            "pagenum": 817,
+            "content": "1. <i>yuta, as, ā, am</i>¦ (for 2. see col. 3), separated, separate. <i>—Yuta-dveṣas, ās, ās, as,</i> Ved. delivered from enemies, relieved from foes, (Sāy. <i>= pṛthag-</i> <i>bhūta-śatruka.</i>)"
+        },
+        {
+            "word": "युत",
+            "eid": "38699",
+            "pagenum": 817,
+            "content": "2. <i>yuta, as, ā, am</i>¦ (often at the end of comps.), fastened to or on, attached to [cf. <i>vaḍiśa-y°</i>]; added, joined, united; connected or joined with, accompanied, attended by, furnished with, endowed with, possessed of, filled with, covered with; (<i>am</i>), n. a particular measure of length = 4 Hastas."
+        },
+        {
+            "word": "युत",
+            "eid": "38747",
+            "pagenum": 819,
+            "content": "युत¦ <i>yuta, yutaka.</i> See under rts. 1. and 2. <i>yu,</i> p. 817."
+        }
+    ],
+    "PW": [
+        {
+            "word": "युत",
+            "eid": "91104",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> युत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>1.</hom> यु. <div n='1'>— 2〉 *<lex>n.</lex> <i>ein <ab>best.</ab> Längenmaass,</i> = 4 <is>Hasta</is>."
+        },
+        {
+            "word": "युत",
+            "eid": "91105",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> युत/¦ <lex>Adj.</lex> <ab>s. u.</ab> <hom>4.</hom> यु."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "युत",
+            "eid": "82198",
+            "pagenum": 6,
+            "content": "1. युत¦ <div n='1'> 1) partic. <lex>adj.</lex> von 2. यु; s. das. <div n='1'>— 2) <lex>n.</lex> <i>ein best. Längenmaass: vier Handlängen</i> (हस्त) <ls>MED. t. 48.</ls>"
+        },
+        {
+            "word": "युत",
+            "eid": "82199",
+            "pagenum": 6,
+            "content": "2. युत¦ partic. <lex>adj.</lex> von 3. यु; s. das."
+        }
     ]
 }

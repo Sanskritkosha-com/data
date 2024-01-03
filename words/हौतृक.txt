@@ -23,5 +23,49 @@
             "pagenum": 758,
             "content": "हौतृक¦ <i>hautṛka</i> <ab>a.</ab> du <i>hotṛ,</i> qui se rapporte <lbinfo n='5'/> au <i>hotṛ.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "हौतृक",
+            "eid": "264578",
+            "pagenum": 1306,
+            "content": "हौतृक ¦ <lex>mfn.</lex> relating or belonging to or coming from the <s1 slp1='hotf'>Hotṛ</s1> priest, sacerdotal, <ls>Pāṇ. iv, 3, 78</ls>, <ab>Sch.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "हौतृक",
+            "eid": "264579",
+            "pagenum": 1306,
+            "content": "हौतृक ¦ <lex>n.</lex> the office of the <s1 slp1='hotf'>Hotṛ</s1>, <ls>Cat.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हौतृक",
+            "eid": "54429",
+            "pagenum": 1178,
+            "content": "<i>Hautṛka, as, ī, am</i>¦ (fr. <i>hotṛ</i>), relating or belonging to the Hotṛ priest, sacerdotal."
+        },
+        {
+            "word": "हौतृक",
+            "eid": "54445",
+            "pagenum": 1179,
+            "content": "हौतृक¦ <i>hautṛka, hautna, hautra.</i> See p. 1178, col. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "हौतृक",
+            "eid": "135632",
+            "pagenum": 7,
+            "content": "हौतृक¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>von</i> <is>Hotar</is> <i>kommend</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>das Amt des</i> <is>Hotar</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हौतृक",
+            "eid": "117784",
+            "pagenum": 7,
+            "content": "हौ/तृक¦ <div n='1'> 1) <lex>adj.</lex> <i>vom</i> <is>Hotar</is> <i>kommend</i> <ls>P. 4, 3, 78</ls>, Schol. <div n='1'>— 2) <lex>n.</lex> <i>das Amt des</i> <is>Hotar</is> <ls>Verz. d. Oxf. H. 54,b,11.</ls>"
+        }
     ]
 }

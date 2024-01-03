@@ -36,5 +36,63 @@
             "pagenum": 65,
             "content": "आमो°दिन्¦ <lex>a.</lex> fragrant."
         }
+    ],
+    "MW": [
+        {
+            "word": "आमोदिन्",
+            "eid": "25607",
+            "pagenum": 147,
+            "content": "आमोदिन् ¦ <lex>mfn.</lex> fragrant<info lex='m:f:n'/>"
+        },
+        {
+            "word": "आमोदिन्",
+            "eid": "25608",
+            "pagenum": 147,
+            "content": "¦ <ab>ifc.</ab> fragrant or perfumed with, <ab>e.g.</ab> kadambA<srs/>modin, perfumed with <s1 slp1='kadamba'>Kadamba</s1>s<info lex='inh'/>"
+        },
+        {
+            "word": "आमोदिन्",
+            "eid": "25609",
+            "pagenum": 147,
+            "content": "आमोदिन् ¦ <lex>m.</lex> a perfume for the mouth made up in the form of a camphor pill &c.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आमोदिन्",
+            "eid": "8951",
+            "pagenum": 126,
+            "content": "<i>Ā-modin, ī, inī, i,</i>¦ fragrant; happy, delighted; (at the end of compounds) fragrant or perfumed with, e. g. <i>kadambāmodin,</i> perfumed with kadambas; (<i>ī</i>), m. a perfume for the mouth made up in the form of a pill or bolus of camphor &c."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आमोदिन्",
+            "eid": "15227",
+            "pagenum": 1,
+            "content": "आमोदिन्¦ <div n='1'>— 1〉 <lex>Adj.</lex> am Ende eines <ab>Comp.</ab> <i>den Wohlgeruch von — habend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <div n='2'>— a〉 <i>wohlriechendes Spülwasser</i>. <div n='2'>— b〉 <i><bot>Acacia Catechu Willd.</bot></i> <ls>GAL.</ls> <div n='1'>— 3〉 (*<lex>f.</lex> °नी) Moschus <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आमोदिन्",
+            "eid": "8972",
+            "pagenum": 1,
+            "content": "आमोदिन्¦ (von आमोद) <div n='1'> 1) <lex>adj.</lex> am Ende eines comp. <i>einen Wohlgeruch von dem und dem habend</i>: नवकुटजकदम्बामोदिनो गन्धवाहाः <ls>BHARTṚ. 1, 42.</ls> कुमुदामोदिनि voc. <lex>f.</lex> <ls>ŚRUT. 42.</ls> <div n='1'>— 2) <lex>m.</lex> <i>ein Parfum für den Mund</i> <ls>AK. 1, 1, 4, 20.</ls> <ls>H. 1391.</ls>"
+        },
+        {
+            "word": "आमोदिन्",
+            "eid": "66685",
+            "pagenum": 5,
+            "content": "आमोदिन्¦ <div n='1'> 1) आसवामोदिभिर्वक्त्रैः <ls>RĀJA-TAR. 5, 357.</ls> <ls>KATHĀS. 123, 51.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "आमोदिन्",
+            "eid": "14243",
+            "pagenum": 7,
+            "content": "आमोदिन्¦ auch <i>freudig, froh</i> <ls>PĀRV. 592,4</ls>."
+        }
     ]
 }

@@ -39,5 +39,45 @@
             "pagenum": 232,
             "content": "<b>raukma,</b>¦ <i><ab>a.</ab></i> golden, adorned with gold. [<b>rukmá,</b> <ls n='wg,1208'>1208f</ls>.]"
         }
+    ],
+    "MD": [
+        {
+            "word": "रौक्म",
+            "eid": "15427",
+            "pagenum": 259,
+            "content": "रौक्म¦ raukma, <lex>a.</lex> (<b>ī</b>) golden, adorned with 🞄gold (rukma)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "रौक्म",
+            "eid": "180181",
+            "pagenum": 890,
+            "content": "रौक्म ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> रुक्म) golden, adorned with gold, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='m:f#I:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रौक्म",
+            "eid": "39952",
+            "pagenum": 856,
+            "content": "रौक्म¦ <i>raukma, as, ī, am</i> (fr. <i>rukma</i>), golden, adorned with gold."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रौक्म",
+            "eid": "95187",
+            "pagenum": 5,
+            "content": "रौक्म¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>golden, mit Gold verziert</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रौक्म",
+            "eid": "85543",
+            "pagenum": 6,
+            "content": "रौक्म¦ (von रुक्म) <lex>adj.</lex> (f. ई) <i>golden, mit Gold verziert</i> <ls>M. 4, 36.</ls> <ls>MBH. 5, 3045.</ls> <ls n='MBH.'>7, 76.</ls> <ls n='MBH.'>13, 6361.</ls> <ls n='MBH.'>14, 2093.</ls> <ls>HARIV. 7893.</ls> <ls>R. 5, 14, 42.</ls> <ls n='R.'>7, 16, 2.</ls> <ls>RĀJA-TAR. 8, 3469.</ls> <ls>BHĀG. P. 4, 9, 61. 10, 1, 30.</ls>"
+        }
     ]
 }

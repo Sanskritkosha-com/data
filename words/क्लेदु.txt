@@ -36,5 +36,43 @@
             "pagenum": 194,
             "content": "क्लेदु¦ <i>kledu</i> <ab>m.</ab> <i>(klid)</i> la lune."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्लेदु",
+            "eid": "58595",
+            "pagenum": 323,
+            "content": "क्लेदु ¦ <lex>m.</lex> the moon, <ls>Uṇ. i, 10</ls><info lex='m'/>"
+        },
+        {
+            "word": "क्लेदु",
+            "eid": "58596",
+            "pagenum": 323,
+            "content": "¦ a morbid combination (संनिपात) of the three humors of the body, complication of disorders, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "क्लेदु",
+            "eid": "16293",
+            "pagenum": 263,
+            "content": "<i>Kledu, us,</i>¦ m. the moon; a morbid combination of the three humors of the body (<i>sannipāta</i>), complication of disorders."
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्लेदु",
+            "eid": "32145",
+            "pagenum": 2,
+            "content": "*क्लेदु¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Mond</i>. <div n='1'>— 2〉 <i>der Zusammentritt sämmtlicher drei Humores zur Hervorbringung einer Krankheit</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्लेदु",
+            "eid": "20043",
+            "pagenum": 2,
+            "content": "क्ले/दु¦ (von क्लिद्) <lex>m.</lex> <div n='1'> 1) <i>der Mond</i> <ls>Uṇ. 1, 10.</ls> <ls>TRIK. 1, 1, 86.</ls> <ls>H. ś. 12.</ls> Vgl. क्लेदन् . <div n='1'>— 2) <i>eine krankhafte Verbindung der drei Flüssigkeiten im Körper</i> (संनिपात) <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

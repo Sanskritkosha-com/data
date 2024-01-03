@@ -58,5 +58,41 @@
             "pagenum": 526,
             "content": "BAzita¦ <i>(II) n.</i> Speech, language."
         }
+    ],
+    "MW": [
+        {
+            "word": "भाषित",
+            "eid": "150514",
+            "pagenum": 755,
+            "content": "भाषित ¦ <lex>mfn.</lex> spoken, uttered, said<info lex='m:f:n'/>"
+        },
+        {
+            "word": "भाषित",
+            "eid": "150515",
+            "pagenum": 755,
+            "content": "¦ spoken to, addressed, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "भाषित",
+            "eid": "150516",
+            "pagenum": 755,
+            "content": "भाषित ¦ <lex>n.</lex> speech, language, talk, <ls>ib.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भाषित",
+            "eid": "35476",
+            "pagenum": 709,
+            "content": "<i>Bhāṣita, as, ā, am,</i>¦ spoken, uttered, said; (<i>am</i>), n. that which is spoken, speech, language, talk, speaking. <i>—Bhāṣita-puṃska, as, am,</i> m. n. <i>=</i> <i>ukta-puṃska,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भाषित",
+            "eid": "79695",
+            "pagenum": 4,
+            "content": "भाषित¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>1.</hom> भाष् <div n='1'>— 2〉 <lex>n.</lex> <i>das Sprechen, Rede, Sprache</i>."
+        }
     ]
 }

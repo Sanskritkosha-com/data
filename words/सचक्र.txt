@@ -7,5 +7,49 @@
             "pagenum": 576,
             "content": "सचक्र¦ <lex>a.</lex> furnished with wheels."
         }
+    ],
+    "MW": [
+        {
+            "word": "सचक्र",
+            "eid": "228911",
+            "pagenum": 1130,
+            "content": "स—चक्र ¦ <lex>mf(आ)n.</lex> having wheels, wheeled, <ls>MBh.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "सचक्र",
+            "eid": "228912",
+            "pagenum": 1130,
+            "content": "¦ having a circle or discus, <ls>MW.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सचक्र",
+            "eid": "228913",
+            "pagenum": 1130,
+            "content": "¦ having troops (of soldiers), <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सचक्र",
+            "eid": "48627",
+            "pagenum": 1049,
+            "content": "सचक्र¦ <i>sa-cakra, as, ā, am,</i> having a circle or discus; (<i>am</i>), ind. together with a wheel or discus."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सचक्र",
+            "eid": "117744",
+            "pagenum": 7,
+            "content": "सचक्र¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='2'>— a〉 <i>mit Rädern versehen</i>. <div n='2'>— b〉 <i>mit Truppenabtheilungen versehen</i>. <div n='1'>— 2〉 *<lex>Adv.</lex> °म् <i>zugleich mit dem Rade</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सचक्र",
+            "eid": "103703",
+            "pagenum": 7,
+            "content": "सचक्र¦ (2. स + चक्र) <div n='1'> 1) <lex>adj.</lex> (f. आ) <div n='2'> a) <i>mit Rädern versehen</i> <ls>MBH. 7, 846.</ls> <div n='2'>— b) <i>mit Truppenabtheilungen versehen</i> <ls>MBH. 3, 640.</ls> <div n='1'>— 2) °म् adv. <ls>P. 6, 3, 81</ls>, Schol. = चक्रेण युगपत् <ls>Schol.</ls> zu <ls>P. 2, 1, 6.</ls> <ls>VOP. 6, 61.</ls>"
+        }
     ]
 }

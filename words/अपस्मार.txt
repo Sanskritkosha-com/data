@@ -68,5 +68,57 @@
             "pagenum": 40,
             "content": "apasmAra¦ <i>m.</i> Epilepsy, falling sickness."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपस्मार",
+            "eid": "9881",
+            "pagenum": 53,
+            "content": "अप-स्मार ¦ <lex>m.</lex> epilepsy, falling sickness, <ls>Suśr.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "अपस्मार",
+            "eid": "9881.1",
+            "pagenum": 1314,
+            "content": "¦ want of memory, confusion of mind (in <ab>rhet.</ab> one of the <s1 slp1='vyaBicAriBAva'>Vyabhicāribhāva</s1>s, <ab>q.v.</ab>), <ls>Sāh.</ls><info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपस्मार",
+            "eid": "3557",
+            "pagenum": 53,
+            "content": "अपस्मार¦ <i>apa-smāra, as,</i> m. or <i>apa-smṛti,</i> <i>is,</i> f. forgetfulness; epilepsy, falling sickness."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "अपस्मार",
+            "eid": "581",
+            "pagenum": 1,
+            "content": "<i>Apasmāras</i>¦ — a group of evil spirits. <div n='P'/>Bhā. X. 6. 28."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपस्मार",
+            "eid": "6325",
+            "pagenum": 1,
+            "content": "अपस्मार¦ <lex>m.</lex> (<i>Verlust des Bewusstseins</i>) <i>Besessensein; Fallsucht</i> <ls>CARAKA. 2,8. 8,8</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपस्मार",
+            "eid": "4014",
+            "pagenum": 1,
+            "content": "अपस्मार¦ (von स्मर् mit अप) <lex>m.</lex> <i>Besessensein, Tollheit; Fallsucht</i> <ls>H. 321.</ls> <ls>SUŚR. 2, 537, 11. fgg.</ls> <ls>SĀH. D. 64, 4.</ls> <ls n='SĀH. D.'>68, 1.</ls> <ls>Verz. d. B. H. No. 934. 975. 996. 1005.</ls> स्मरापस्मार <ls>BHARTṚ. 1, 88.</ls>"
+        },
+        {
+            "word": "अपस्मार",
+            "eid": "118389",
+            "pagenum": 7,
+            "content": "अपस्मार¦ <ls>CARAKA 2, 8. 8, 8.</ls>"
+        }
     ]
 }

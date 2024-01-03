@@ -21,5 +21,55 @@
             "pagenum": 411,
             "content": "विमृश्य¦ zu prüfen, zu erwägen."
         }
+    ],
+    "MW": [
+        {
+            "word": "विमृश्य",
+            "eid": "198932",
+            "pagenum": 981,
+            "content": "<hom>1.</hom> वि-°मृश्य ¦ <lex>mfn.</lex> to be tried or examined, <ls>ib.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विमृश्य",
+            "eid": "198933",
+            "pagenum": 981,
+            "content": "<hom>2.</hom> वि-°मृश्य ¦ <lex>ind.</lex> having deliberated or considered (-कारिन् <lex type='phw'>mfn.</lex> acting after due deliberation), <ls>Hit.</ls><info phwchild='198933.1'/><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विमृश्य",
+            "eid": "43604",
+            "pagenum": 933,
+            "content": "1. <i>vi-mṛśya, as, ā, am,</i>¦ to be deliberated about or investigated, to be discussed or reflected upon."
+        },
+        {
+            "word": "विमृश्य",
+            "eid": "43605",
+            "pagenum": 933,
+            "content": "2. <i>vi-mṛśya,</i>¦ ind. having considered, after due deliberation or reflection, (<i>a-vimṛśya,</i> without due deliberation.) <i>—Vimṛśya-kārin, ī, iṇī, i,</i> acting after due deliberation."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विमृश्य",
+            "eid": "103887",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विमृश्य¦ <lex>Adj.</lex> <i>zu prüfen, zu untersuchen</i>."
+        },
+        {
+            "word": "विमृश्य",
+            "eid": "103888",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> विमृश्य¦ <ab>Absol.</ab> °कारिन् <lex>Adj.</lex> <i>erst nach reiflicher Erwägung an ein Werk gehend</i> <ls>Spr. 6970</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विमृश्य",
+            "eid": "92678",
+            "pagenum": 6,
+            "content": "विमृश्य¦ (wie eben) <lex>adj.</lex> <i>zu prüfen, zu untersuchen</i> <ls>BHĀG. P. 10, 85, 23.</ls>"
+        }
     ]
 }

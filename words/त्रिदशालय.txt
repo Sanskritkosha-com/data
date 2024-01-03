@@ -43,5 +43,53 @@
             "pagenum": 318,
             "content": "tri-daSa˚Alaya¦ <i>m.</i> 1. heaven; 2. the mountain Meru."
         }
+    ],
+    "MW": [
+        {
+            "word": "त्रिदशालय",
+            "eid": "87781",
+            "pagenum": 458,
+            "content": "tri—da°SA<srs/>laya ¦ <lex>m.</lex> ‘abode of the gods’, heaven, <ls>MBh. iii</ls>; <ls>R. i</ls>; <ls>Vet.</ls><info lex='m'/>"
+        },
+        {
+            "word": "त्रिदशालय",
+            "eid": "87782",
+            "pagenum": 458,
+            "content": "tri—da°SA<srs/>laya ¦ <lex>n.</lex> the mountain <s1 slp1='su-meru'>Su-meru</s1>, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "त्रिदशालय",
+            "eid": "87783",
+            "pagenum": 458,
+            "content": "¦ a heaven-dweller, god, <ls>MBh. iii, 1725</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "त्रिदशालय",
+            "eid": "47483",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> त्रिदशालय¦ <lex>m.</lex> <i>der Götter Wohnort;</i> <div n='1'>— 1〉 <i>der Himmel</i>. <div n='1'>— 2〉 *<ab>Bein.</ab> des Berges <is>Sumeru</is>."
+        },
+        {
+            "word": "त्रिदशालय",
+            "eid": "47484",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> त्रिदशालय¦ <lex>m.</lex> <i>ein Himmelsbewohner, ein Gott</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "त्रिदशालय",
+            "eid": "30960",
+            "pagenum": 3,
+            "content": "1. त्रिदशालय¦ (त्रिदश + आलय) <lex>m.</lex> <i>der Götter Wohnort, der Himmel</i> <ls>AK. 1, 1, 1, 1.</ls> <ls>MBH. 3, 1852.</ls> <ls>R. 1, 2, 3.</ls> <ls>VET. 27, 17.</ls> <i>der Berg</i> <is>Sumeru</is> <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "त्रिदशालय",
+            "eid": "30961",
+            "pagenum": 3,
+            "content": "2. त्रिदशालय¦ (wie eben) <lex>m.</lex> <i>ein Bewohner der Götterwelt, ein Gott</i> <ls>MBH. 3, 1725.</ls>"
+        }
     ]
 }

@@ -31,5 +31,37 @@
             "pagenum": 524,
             "content": "BArava¦ <i>m.</i> A bow-string."
         }
+    ],
+    "MW": [
+        {
+            "word": "भारव",
+            "eid": "150033",
+            "pagenum": 753,
+            "content": "भारव ¦ <lex>m.</lex> a bow-string, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भारव",
+            "eid": "35407",
+            "pagenum": 706,
+            "content": "भारव¦ <i>bhārava, am,</i> n. a bow-string; (<i>ī</i>), f. sacred basil."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भारव",
+            "eid": "79479",
+            "pagenum": 4,
+            "content": "*भारव¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Bogensehne</i>. <div n='1'>— 2〉 <lex>f.</lex> ई <i>Basilienkraut</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भारव",
+            "eid": "54608",
+            "pagenum": 5,
+            "content": "भारव¦ <div n='1'> 1) <lex>n.</lex> <i>Bogensehne</i> <ls>TRIK. 2, 8, 51.</ls> <div n='1'>— 2) <lex>f.</lex> ई <i>Basilienkraut</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
+        }
     ]
 }

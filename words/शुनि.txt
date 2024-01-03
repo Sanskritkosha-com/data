@@ -36,5 +36,29 @@
             "pagenum": 724,
             "content": "Suni¦ <i>m.</i> A dog."
         }
+    ],
+    "MW": [
+        {
+            "word": "शुनि",
+            "eid": "219601",
+            "pagenum": 1083,
+            "content": "शुनि ¦ <lex>m.</lex> (<ab>fr.</ab> श्वन्) a dog, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शुनि",
+            "eid": "46932",
+            "pagenum": 1014,
+            "content": "<i>Śuni, is,</i>¦ m. (fr. <i>śvan</i>), a dog."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शुनि",
+            "eid": "113535",
+            "pagenum": 6,
+            "content": "*शुनि¦ <lex>m.</lex> <i>Hund</i>."
+        }
     ]
 }

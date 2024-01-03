@@ -21,5 +21,35 @@
             "pagenum": 346,
             "content": "dorgraha¦ <i>(II) m.</i> pain in the arm."
         }
+    ],
+    "MW": [
+        {
+            "word": "दोर्ग्रह",
+            "eid": "97112",
+            "pagenum": 499,
+            "content": "दोर्—ग्रह ¦ <lex>mfn.</lex> ‘seizing with the arms’, strong, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "दोर्ग्रह",
+            "eid": "97113",
+            "pagenum": 499,
+            "content": "दोर्—ग्रह ¦ <lex>m.</lex> pain in the arm, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दोर्ग्रह",
+            "eid": "52987",
+            "pagenum": 3,
+            "content": "*दोर्ग्रह¦ <lex>Adj.</lex> <i>stark, kräftig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दोर्ग्रह",
+            "eid": "35006",
+            "pagenum": 3,
+            "content": "दोर्ग्रह¦ (दोस् + ग्रह) <lex>adj.</lex> <i>stark, kräftig (der an den Armen anpackt</i>) <ls>HĀR. 127.</ls>"
+        }
     ]
 }

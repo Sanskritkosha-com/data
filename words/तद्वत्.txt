@@ -69,5 +69,41 @@
             "pagenum": 301,
             "content": "tad-vat¦ <i>(II) ind.</i> 1. like that, in that manner, thus; 2. equally, likewise."
         }
+    ],
+    "MW": [
+        {
+            "word": "तद्वत्",
+            "eid": "82144",
+            "pagenum": 434,
+            "content": "तद्—वत् ¦ <lex>mfn.</lex> having or containing that, <ls>VPrāt.</ls>; <ls>Pāṇ. iv, 4, 125</ls>; <ls>KapS. i</ls>, <ls n='KapS.'>v</ls>; <ls>Tarkas.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "तद्वत्",
+            "eid": "82145",
+            "pagenum": 434,
+            "content": "तद्—वत् ¦ <lex>ind.</lex> like that, thus, so (correlative of यद्-वत्, <ls>Mn. x, 13</ls>; <ls>Bhag.</ls>; <ls>Pañcat.</ls>; of यथा, ‘as’, <ls>ŚvetUp. ii, 14</ls> [<ab>v.l.</ab> for तद्-वा] <ls>MBh. i</ls>, <ls n='MBh.'>vii</ls> &c.), <ls>ŚāṅkhGṛ. v, 9, 3</ls> &c.<info lex='ind'/>"
+        },
+        {
+            "word": "तद्वत्",
+            "eid": "82146",
+            "pagenum": 434,
+            "content": "¦ in like manner, likewise, also, <ls>Śrut.</ls>; <ls>Kathās. vi</ls>, <ls n='Kathās.'>xxvi</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तद्वत्",
+            "eid": "44350",
+            "pagenum": 3,
+            "content": "तद्वत्¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>auf diese Weise, so</i>. In Correlation mit यद्वत् und यथा. <div n='1'>— 2〉 <i>gleichfalls, ebenfalls, desgleichen, auch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तद्वत्",
+            "eid": "28545",
+            "pagenum": 3,
+            "content": "तद्वत्¦ (von तद्) adv. <i>auf diese Weise, so</i>: तद्वदार्तम् <ls>BHĀG. P. 8, 3, 31.</ls> <ls>KATHĀS. 16, 43.</ls> <ls n='KATHĀS.'>18, 263.</ls> <ls>VET. 24, 7.</ls> <ls>AK. 2, 7, 51.</ls> <ls n='AK.'>1, 1, 2, 37.</ls> <ls>SĀH. D. 3, 20.</ls> यद्वत् - तद्वत् <ls>M. 10, 13.</ls> <ls>BHAG. 2, 70.</ls> <ls>PAÑCAT. II, 62.</ls> यथा - तद्वत् <ls>ŚVETĀŚV. UP. 2, 14, v. l.</ls> <ls>MBH. 1, 5717.</ls> <ls n='MBH.'>7, 142.</ls> <ls>SĀṂKHYAK. 41. 58.</ls> <ls>PAÑCAT. I, 254.</ls> <i>gleichfalls, ebenfalls, desgleichen, auch</i> <ls>ŚRUT. 21.</ls> <ls>KATHĀS. 26, 83.</ls> संस्कृतं प्राकृतं तद्वद्देशभाषा <ls n='KATHĀS.'>6, 148.</ls> <div n='v'>— Vgl. तथा ."
+        }
     ]
 }

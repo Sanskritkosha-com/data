@@ -53,5 +53,43 @@
             "pagenum": 420,
             "content": "pariSuzka¦ <i>(II) n.</i> A kind of fried meat."
         }
+    ],
+    "MW": [
+        {
+            "word": "परिशुष्क",
+            "eid": "118812",
+            "pagenum": 602,
+            "content": "परि-शुष्क ¦ <lex>mfn.</lex> thoroughly dried or parched up, withered, shrivelled, shrunk (as a vein), hollow (as the cheeks) &c., <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>Var.</ls>; <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "परिशुष्क",
+            "eid": "118813",
+            "pagenum": 602,
+            "content": "परि-शुष्क ¦ <lex>n.</lex> (with मांस) meat fried in ghee dried and spiced, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "परिशुष्क",
+            "eid": "28002",
+            "pagenum": 549,
+            "content": "<i>Pari-śuṣka, as, ā, am,</i>¦ perfectly dried up, thoroughly dried, completely dry or parched; withered, shriveled, shrunk (as a vein); hollow (as the cheeks); <i>pariśuṣkam māṃsam,</i> meat fried in ghee, washed and spiced. <i>—Pariśuṣka-tālu, us,</i> <i>us, u,</i> having the palate dried up. <i>—Pariśuṣka-</i> <i>palāśa, as, ā, am,</i> having withered foliage."
+        }
+    ],
+    "PW": [
+        {
+            "word": "परिशुष्क",
+            "eid": "64297",
+            "pagenum": 4,
+            "content": "परिशुष्क¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>vollkommen trocken, — getrocknet, — vertrocknet</i>. Von Gesicht so <ab>v. a.</ab> <i>eingefallen,</i> von einer angeschlagenen Ader so <ab>v. a.</ab> <i>kein Blut entlassend</i>. *मास <lex>n.</lex> <i>auf besondere Art geröstetes Fleisch</i> <ls>MADANAV. 118,102</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "परिशुष्क",
+            "eid": "43177",
+            "pagenum": 4,
+            "content": "परिशुष्क¦ (प° + शु°) <lex>adj.</lex> <lex>f.</lex> आ <i>vollkommen trocken, - getrocknet, - vertrocknet</i>: °पलाश <ls>R. 2, 59, 9.</ls> आतप° <ls>SUŚR. 1, 158, 9. 159, 13. 230, 11.</ls> फल <ls n='SUŚR.'>240, 20.</ls> व्रण <ls n='SUŚR.'>2, 11, 11.</ls> तालु <ls>ṚT. 1, 11.</ls> °वस्तिशीर्ष <i>ganz dürr, - mager</i> <ls>VARĀH. BṚH. S. 67, 14.</ls> मुख, वक्त्र <i>verdorrt</i> so v. a. <i>eingefallen</i> <ls>MBH. 11, 469.</ls> <ls>R. 4, 16, 53.</ls> eine angeschlagene Ader heisst <i>trocken</i>, wenn kein Blut fliesst, <ls>SUŚR. 1, 361, 12. 21.</ls> मांस <i>auf besondere Art geröstetes Fleisch</i>: मांसं बहुघृतैर्भृष्टं सिक्तं चेच्चाम्बुना मुहुः । जीरकाद्यैः समायुक्तं परिशुष्कं तदुच्यते ॥ <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

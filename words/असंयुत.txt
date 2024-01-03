@@ -20,5 +20,55 @@
             "pagenum": 209,
             "content": "असंयुत¦ <i><ab>a.</ab></i> Unblended, <lbinfo n='ununit+ed'/> ununited. --तः An epithet of Viṣṇu."
         }
+    ],
+    "MW": [
+        {
+            "word": "असंयुत",
+            "eid": "20375",
+            "pagenum": 117,
+            "content": "अ-संयुत ¦ <lex>mfn.</lex> not combined, unmixed, <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "असंयुत",
+            "eid": "20376",
+            "pagenum": 117,
+            "content": "¦ not put together (as the hands), <ls>PSarv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "असंयुत",
+            "eid": "20377",
+            "pagenum": 117,
+            "content": "अ-संयुत ¦ <lex>m.</lex> a <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असंयुत",
+            "eid": "7351",
+            "pagenum": 103,
+            "content": "असंयुत¦ <i>a-saṃyuta, as,</i> m. unmixed, unblended; an epithet of Viṣṇu."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असंयुत",
+            "eid": "12192",
+            "pagenum": 1,
+            "content": "असंयुत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>unverbunden, nicht zusammengefügt</i>. <div n='1'>— 2〉 *<lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "असंयुत",
+            "eid": "7263",
+            "pagenum": 1,
+            "content": "असंयुत¦ (3. अ + सं°) <lex>m.</lex> ein Bein. <is>Viṣṇu's</is> <ls>H. ś. 67.</ls>"
+        },
+        {
+            "word": "असंयुत",
+            "eid": "65831",
+            "pagenum": 5,
+            "content": "असंयुत¦ <lex>adj.</lex> <i>unverbunden</i> <ls>Verz. d. Oxf. H. 86,a,24. fg. 201,b,36. 202,a,1.</ls>"
+        }
     ]
 }

@@ -23,5 +23,43 @@
             "pagenum": 79,
             "content": "avyaTiza¦ <i>m.</i> 1. the ocean; 2. mid-night."
         }
+    ],
+    "MW": [
+        {
+            "word": "अव्यथिष",
+            "eid": "19284",
+            "pagenum": 111,
+            "content": "अ-व्यथिष ¦ <lex>m.</lex> the sun, <ls>Uṇ.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अव्यथिष",
+            "eid": "19285",
+            "pagenum": 111,
+            "content": "¦ the ocean, <ls>Uṇ.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अव्यथिष",
+            "eid": "7091",
+            "pagenum": 98,
+            "content": "<i>A-vyathiṣa, as,</i>¦ m. the ocean; the sun; (<i>ī</i>), f. the earth; midnight."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अव्यथिष",
+            "eid": "11353",
+            "pagenum": 1,
+            "content": "*अव्यथिष¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>die Sonne</i>. <div n='2'>— b〉 <i>Meer</i>. <div n='1'>— 2〉 <lex>f.</lex> ई <div n='2'>— a〉 <i>die Erde</i>. <div n='2'>— b〉 <i>Nacht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अव्यथिष",
+            "eid": "6858",
+            "pagenum": 1,
+            "content": "अव्यथिष¦ (3. अ + व्य°) <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Sonne</i> <ls>Uṇ. 1, 49.</ls> <ls>TRIK. 1, 1, 98.</ls> <div n='2'>— b) <i>Meer</i> <ls>Uṇ.</ls> <div n='1'>— 2) °षी <lex>f.</lex> <div n='2'> a) <i>Nacht</i> <ls>Uṇ.</ls> <i>Mitternacht</i> <ls>ŚKDR.</ls> <ls>WILS.</ls> <div n='2'>— b) <i>Erde</i> <ls>Uṇ.</ls>"
+        }
     ]
 }

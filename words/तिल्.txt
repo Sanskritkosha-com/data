@@ -49,5 +49,61 @@
             "pagenum": 293,
             "content": "*तिल्¦ <i>til.</i> <i>telāmi</i> 1; <ab>cf.</ab> <i>till.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "तिल्",
+            "eid": "85213",
+            "pagenum": 448,
+            "content": "<hom>1.</hom> तिल् ¦ <ab>cl.</ab> 1. तेलति, to go, <ls>Dhātup.</ls><info verb='root' cp='1'/>"
+        },
+        {
+            "word": "तिल्",
+            "eid": "85214",
+            "pagenum": 448,
+            "content": "<hom>2.</hom> तिल् ¦ (derived <ab>fr.</ab> ति/ल) <ab>cl.</ab> 6. 10. °लति, तेलयति, to be unctuous, <ls>ib.</ls>; <div n='to'/>to anoint, <ls>ib.</ls><info verb='root' cp='6,10'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तिल्",
+            "eid": "20968",
+            "pagenum": 375,
+            "content": "तिल् 1¦. <i>til,</i> cl. 1. P. <i>telati,</i> &c., to go or move; [cf. rt. <i>till.</i>]"
+        },
+        {
+            "word": "तिल्",
+            "eid": "20969",
+            "pagenum": 375,
+            "content": "तिल् 2¦. <i>til</i> (probably an artificial rt. fr. <i>tila</i> below), cl. 6. 10. P. <i>tilati, telayati,</i> &c., to be unctuous or greasy; to oil or anoint."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तिल्",
+            "eid": "45912",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> √तिल्¦, तिलति, *तेययति (स्नेहे, स्नेहने). <div n='p'>— Mit प्र etwa <i>coeundi ardore flagrare</i>."
+        },
+        {
+            "word": "तिल्",
+            "eid": "45913",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *√तिल्¦, तेलति (गतौ)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तिल्",
+            "eid": "29737",
+            "pagenum": 3,
+            "content": "1. तिल्¦, तिल/ति und तेल/यति <i>ölig —, fettig sein</i> <ls>DHĀTUP. 28, 62. 32, 67.</ls> Wohl nur eine aus तिल geschlossene Wurzel.  <div n='p'>— प्र, प्रतिलामि <ls>VS. 23, 24.</ls> Nach <ls>MAHĪDH.</ls> = स्निह्यामि, aber weit eher = प्रतिरामि von 1. तर् ."
+        },
+        {
+            "word": "तिल्",
+            "eid": "29738",
+            "pagenum": 3,
+            "content": "2. तिल्¦, ते/लति <i>gehen, sich bewegen</i> <ls>DHĀTUP. 15, 27.</ls> <div n='v'>— Vgl. तिल्ल् ."
+        }
     ]
 }

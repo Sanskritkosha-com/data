@@ -20,5 +20,35 @@
             "pagenum": 286,
             "content": "jala-vyAla¦ <i>m.</i> a water-snake."
         }
+    ],
+    "MW": [
+        {
+            "word": "जलव्याल",
+            "eid": "78091",
+            "pagenum": 415,
+            "content": "जल—व्याल ¦ <lex>m.</lex> a water-snake, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "जलव्याल",
+            "eid": "78092",
+            "pagenum": 415,
+            "content": "¦ a marine monster, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जलव्याल",
+            "eid": "42178",
+            "pagenum": 2,
+            "content": "*जलव्याल¦ <lex>m.</lex> <i>Wasserschlange</i> <ls>NIGH. PR.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जलव्याल",
+            "eid": "27005",
+            "pagenum": 3,
+            "content": "जलव्याल¦ (जल + व्याल) <lex>m.</lex> <i>Wasserschlange</i> <ls>AK. 1, 2, 1, 6.</ls> <ls>H. 1305.</ls> = क्रूरकर्मा जलजन्तुः <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

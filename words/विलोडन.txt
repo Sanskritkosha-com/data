@@ -39,5 +39,55 @@
             "pagenum": 675,
             "content": "viloqana¦ <i>n.</i> Agitating, shaking, churning, tossing."
         }
+    ],
+    "MW": [
+        {
+            "word": "विलोडन",
+            "eid": "199796",
+            "pagenum": 985,
+            "content": "वि-°लोडन ¦ <lex>n.</lex> stirring up, churning, <ls>Śiś.</ls><info lex='n'/>"
+        },
+        {
+            "word": "विलोडन",
+            "eid": "199797",
+            "pagenum": 985,
+            "content": "¦ splashing (in water), <ls>Daś.</ls> (<ab>v.l.</ab> °ना <lex>f(आ). </lex>)<info lex='f#A'/><info lex='inh'/>"
+        },
+        {
+            "word": "विलोडन",
+            "eid": "199798",
+            "pagenum": 985,
+            "content": "¦ agitating, alarming, <ls>Pratāp.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विलोडन",
+            "eid": "43889",
+            "pagenum": 938,
+            "content": "<i>Vi-loḍana, am,</i>¦ n. the act of agitating, shaking, stirring, churning, rolling, tossing."
+        },
+        {
+            "word": "विलोडन",
+            "eid": "43927",
+            "pagenum": 938,
+            "content": "विलोडन¦ <i>vi-loḍana,</i> &c. See under <i>vi-luḍ,</i> col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विलोडन",
+            "eid": "104277",
+            "pagenum": 6,
+            "content": "विलोडन¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Verrühren, Umrühren, Quirlen</i> <ls>ŚIŚ. 14,83</ls>. <div n='1'>— 2〉 <i>das Plätschern im Wasser</i> <ls>DAŚAK. 84,5</ls>. <ab>v. l.</ab> विलोडना <lex>f.</lex> <div n='1'>— 3〉 <i>das in Verwirrung Bringen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विलोडन",
+            "eid": "93003",
+            "pagenum": 6,
+            "content": "विलोडन¦ (von लुड् mit वि) <lex>n.</lex> nom. act. <ls>DHĀTUP. 2, 4. 3, 5. 9, 27. 16,48. 20, 18. 26, 113. 31, 40.</ls> <i>das Verrühren, Umrühren, Quirlen</i>: दधि° <ls>CHANDOM. 34.</ls> सिन्धु° <ls>PRATĀPAR. 93,b,3.</ls> <i>das in-Verwirrung-Bringen</i>: शत्रु° ebend."
+        }
     ]
 }

@@ -58,5 +58,43 @@
             "pagenum": 239,
             "content": "gavala¦ <i>(II) n.</i> Buffalo’s horn."
         }
+    ],
+    "MW": [
+        {
+            "word": "गवल",
+            "eid": "64392",
+            "pagenum": 351,
+            "content": "गवल ¦ <lex>m.</lex> the wild buffalo, <ls>VarYogay. vi, 25</ls><info lex='m'/>"
+        },
+        {
+            "word": "गवल",
+            "eid": "64393",
+            "pagenum": 351,
+            "content": "गवल ¦ <lex>n.</lex> buffalo's horn, <ls>VarBṛS. xxxii, 17.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गवल",
+            "eid": "17221",
+            "pagenum": 286,
+            "content": "<i>Gavala, as,</i>¦ m. the wild buffalo; (<i>am</i>), n. buffalo's horn."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गवल",
+            "eid": "35081",
+            "pagenum": 2,
+            "content": "गवल¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Büffel</i> <ls>VARĀH. YOGAY. 6,25</ls>. <div n='1'>— 2〉 (*<lex>n.</lex>). <i>Büffelhorn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गवल",
+            "eid": "22101",
+            "pagenum": 2,
+            "content": "गवल¦ (wie eben) <div n='1'> 1) <lex>m.</lex> <i>der Wilde Büffel</i> <ls>H. 1283.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Büffelhorn</i> <ls>AK. 2, 9, 100.</ls> <ls>VARĀH. BṚH. S. 31, 17.</ls>"
+        }
     ]
 }

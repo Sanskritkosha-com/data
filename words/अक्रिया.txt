@@ -23,5 +23,35 @@
             "pagenum": 2,
             "content": "akriyA¦ <i>f.</i> Inactivity, neglect of duty."
         }
+    ],
+    "MD": [
+        {
+            "word": "अक्रिया",
+            "eid": "150",
+            "pagenum": 2,
+            "content": "अक्रिया¦ a-kriyā, <lex>f.</lex> omission to do (<ab>g.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अक्रिया",
+            "eid": "402",
+            "pagenum": 3,
+            "content": "अ-क्रिया ¦ <lex>f.</lex> inactivity<info lex='f'/>"
+        },
+        {
+            "word": "अक्रिया",
+            "eid": "403",
+            "pagenum": 3,
+            "content": "¦ neglect of duty.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अक्रिया",
+            "eid": "233",
+            "pagenum": 1,
+            "content": "अक्रिया¦ <lex>f.</lex> <i>das Nichtthun, nicht zu Wege Bringen von</i> (<ab>Gen.</ab>), <i>Unterlassung</i> <ls n='Chr.'>252,15</ls>. <ls>GAUT. 19,2</ls>."
+        }
     ]
 }

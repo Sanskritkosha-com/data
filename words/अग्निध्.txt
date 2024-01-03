@@ -31,5 +31,37 @@
             "pagenum": 9,
             "content": "<b>agnídh,</b>¦ <ab>m.</ab> (aus agni-ídh verkürzt), <i>der Feueranzünder</i> (als Priester). <div n='TS'>-ít {192,2}; {917,10}. <div n='TS'>-ídham {867,3}."
         }
+    ],
+    "MD": [
+        {
+            "word": "अग्निध्",
+            "eid": "275",
+            "pagenum": 3,
+            "content": "अग्निध्¦ agnídh, <lex>m.</lex> fire-kindler; fire-priest."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अग्निध्",
+            "eid": "975",
+            "pagenum": 5,
+            "content": "अग्नि/—ध् ¦ (अग्नि/-ध्, ध् for इ/ध् <ab>cf.</ab> agnI/<srs/>D) <lex>m.</lex> the priest who kindles the sacred fire, <ls>RV. ii, 1, 2</ls>; <ls n='RV.'>x, 41, 3</ls>; <ls n='RV. x,'>91, 10.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्निध्",
+            "eid": "561",
+            "pagenum": 1,
+            "content": "अग्नि/ध्¦ <lex>m.</lex> <i>der mit dem Anzünden des heiligen Feuers beauftragte Priester</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्निध्",
+            "eid": "400",
+            "pagenum": 1,
+            "content": "अग्नि/ध्¦ (verkürzt aus अग्नीध्) <lex>m.</lex> <i>der mit dem Anzünden des heiligen</i> <i>Feuers beauftragte Priester</i>: तवा^ग्ने हो\\त्रं तव^ पो\\त्रमृ\\त्विय\\ं तव^ ने\\ष्ट्रं त्वम\\ग्निदृ^ताय\\तः <ls>ṚV. 2, 1, 2.</ls> अ\\ध्व\\र्युं वा\\ मधु^पाणिं सु\\हस्त्य^म\\ग्निध^ं वा धृ\\तद^क्ष\\ं दमू^नसम् <ls n='ṚV.'>10, 41, 3.</ls>"
+        }
     ]
 }

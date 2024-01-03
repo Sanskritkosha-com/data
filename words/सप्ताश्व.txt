@@ -31,5 +31,51 @@
             "pagenum": 756,
             "content": "saptan-aSva¦ <i>m.</i> the sun."
         }
+    ],
+    "MW": [
+        {
+            "word": "सप्ताश्व",
+            "eid": "232729",
+            "pagenum": 1150,
+            "content": "saptA/<srs/>Sva ¦ <lex>mfn.</lex> having 7 horses, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सप्ताश्व",
+            "eid": "232730",
+            "pagenum": 1150,
+            "content": "saptA/<srs/>Sva ¦ <lex>m.</lex> the sun (the 7 horses symbolizing the 7 days of the week), <ls>KāśīKh.</ls><info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "सप्ताश्व",
+            "eid": "15365",
+            "pagenum": 3,
+            "content": "<i>Saptāśva</i>¦ — a sage of the Raivata epoch. <div n='P'/>M. 9. 20."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सप्ताश्व",
+            "eid": "119606",
+            "pagenum": 7,
+            "content": "सप्ता/श्व¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>siebenrossig</i> (die Sonne). <div n='1'>— 2〉 <lex>m.</lex> <i>die Sonne</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सप्ताश्व",
+            "eid": "105108",
+            "pagenum": 7,
+            "content": "सप्ता/श्व¦ (सप्तन् + अश्व) <lex>adj.</lex> <i>siebenrossig</i>: die Sonne <ls>ṚV. 5, 45, 9.</ls> m. <i>die Sonne</i> <ls>AK. 1, 1, 2, 30.</ls> <ls>HALĀY. 1, 36.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "सप्ताश्व",
+            "eid": "21698",
+            "pagenum": 7,
+            "content": "सप्ताश्व¦ VII. 2〉 <ls>KĀŚĪKH. 46,2</ls>. <ls n='KĀŚĪKH.'>49,76</ls>. <ls n='KĀŚĪKH.'>51,45</ls>."
+        }
     ]
 }

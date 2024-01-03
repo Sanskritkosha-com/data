@@ -31,5 +31,35 @@
             "pagenum": 434,
             "content": "pArSva-ga¦ <i>m.</i> an attendant, a servant, <ls>R.</ls>xi.43."
         }
+    ],
+    "MW": [
+        {
+            "word": "पार्श्वग",
+            "eid": "123011",
+            "pagenum": 622,
+            "content": "पार्श्व—ग ¦ <lex>mfn.</lex> going at a person's side, accompanying, being in close proximity to (<ab>gen.</ab> or <ab>comp.</ab>), an attendant<info lex='m:f:n'/>"
+        },
+        {
+            "word": "पार्श्वग",
+            "eid": "123012",
+            "pagenum": 622,
+            "content": "पार्श्व—ग ¦ <lex>m. <ab>pl.</ab></lex> attendants, retinue, <ls>Kāv.</ls>; <ls>Rājat.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पार्श्वग",
+            "eid": "66470",
+            "pagenum": 4,
+            "content": "पार्श्वग¦ <lex>Adj.</lex> <i>an Jmdes Seite stehend, Jmd begleitend;</i> <lex>m.</lex> <i>Begleiter,</i> <ab>Pl.</ab> <i>Gefolge; in der nächsten Nähe von Etwas</i> (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend) <i>seiend, — gelegen</i>. वाम° <i>zur Linken stehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पार्श्वग",
+            "eid": "44842",
+            "pagenum": 4,
+            "content": "पार्श्वग¦ (पार्श्व + 1. ग) <lex>adj.</lex> subst. <i>der an Jmdes Seite steht, Jmd begleitet; Begleiter</i>, pl. <i>Gefolge</i> <ls>SOM. NAL. 133.</ls> <ls>RĀJA-TAR. 3, 366. 1, 78. 5, 56.</ls> <ls>RAGH. 11, 43.</ls> अर्क° <ls>TRIK. 3, 3, 113.</ls> <i>in der nächsten Nähe von Etwas</i> <i>seiend</i>: किं मेरोः पार्श्वगा वयम् <ls>HARIV. 10446.</ls> शशको निशि वामपार्श्वगः <i>zur Linken stehend</i> <ls>VARĀH. BṚH. S. 87, 21.</ls> विन्ध्याद्रिपार्श्वगा देशाः <i>seitwärts vom</i> <is>Vindhya</is> <i>gelegen</i> <ls n='VARĀH. BṚH. S.'>16, 2.</ls>"
+        }
     ]
 }

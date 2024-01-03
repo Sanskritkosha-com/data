@@ -23,5 +23,43 @@
             "pagenum": 382,
             "content": "nir-anuroDa¦ <i>a.</i> 1. unfavourable, unfriendly; 2. unkind, unamiable."
         }
+    ],
+    "MW": [
+        {
+            "word": "निरनुरोध",
+            "eid": "106546",
+            "pagenum": 539,
+            "content": "निर्—अनुरोध ¦ <lex>mfn.</lex> unfavourable, unfriendly, unamiable (-त्व <lex type='phw'>n.</lex>), <ls>Kāv.</ls><info phwchild='106547.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "निरनुरोध",
+            "eid": "106547",
+            "pagenum": 539,
+            "content": "¦ unkind towards, regardless of (<ab>loc.</ab>), <ls>Ratnāv.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निरनुरोध",
+            "eid": "24937",
+            "pagenum": 491,
+            "content": "निरनुरोध¦ <i>nir-anurodha, as, ā, am,</i> unfavourable, unfriendly, unkind, ungracious, unamiable."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निरनुरोध",
+            "eid": "58882",
+            "pagenum": 3,
+            "content": "निरनुरोध¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>rücksichtslos, gleichgültig</i> <ls>KĀD. 250,1</ls>. — <i>gegen</i> (<ab>Loc.</ab>). <ls>Chr. 320,3. 327,28</ls>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निरनुरोध",
+            "eid": "39150",
+            "pagenum": 4,
+            "content": "निरनुरोध¦ (निस् + अनु°) <lex>adj.</lex> <lex>f.</lex> आ <i>ungefällig, unfreundlich, nicht liebenswürdig</i> <ls>AMAR. 87.</ls>"
+        }
     ]
 }

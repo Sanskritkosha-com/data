@@ -15,5 +15,43 @@
             "pagenum": 224,
             "content": "Ka-SvAsa¦ <i>m.</i> wind, air."
         }
+    ],
+    "MW": [
+        {
+            "word": "खश्वास",
+            "eid": "60802",
+            "pagenum": 334,
+            "content": "ख—श्वास <hom>a</hom> ¦ <lex>m.</lex> wind, air, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "खश्वास",
+            "eid": "61697",
+            "pagenum": 338,
+            "content": "ख-श्वास <hom>b</hom> ¦ See <hom>3.</hom> ख/, <ab>p.</ab> 334."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खश्वास",
+            "eid": "16807",
+            "pagenum": 275,
+            "content": "खश्वास¦ <i>kha-śvāsa.</i> See under 3. <i>kha.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खश्वास",
+            "eid": "33659",
+            "pagenum": 2,
+            "content": "*खश्वास¦ <lex>m.</lex> <i>Wind</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खश्वास",
+            "eid": "21096",
+            "pagenum": 2,
+            "content": "खश्वास¦ (ख + श्वास) <lex>m.</lex> <i>Wind</i> <ls>TRIK. 1, 1, 76.</ls>"
+        }
     ]
 }

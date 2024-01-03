@@ -23,5 +23,41 @@
             "pagenum": 5,
             "content": "<i>acita</i>¦ (SITI), damage; injury."
         }
+    ],
+    "MW": [
+        {
+            "word": "अचित",
+            "eid": "1821",
+            "pagenum": 8,
+            "content": "<hom>1.</hom> अ/-चित ¦ <lex>mfn.</lex> not heaped up.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अचित",
+            "eid": "1822",
+            "pagenum": 8,
+            "content": "<hom>2.</hom> अचित ¦ <lex>mfn.</lex> (√ अच्), gone, <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अचित",
+            "eid": "381",
+            "pagenum": 8,
+            "content": "1. <i>a-cita, as, ā, am,</i>¦ not collected."
+        },
+        {
+            "word": "अचित",
+            "eid": "382",
+            "pagenum": 8,
+            "content": "अचित 2¦. <i>acita, as, ā, am</i> (fr. rt. <i>ac</i>), gone."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अचित",
+            "eid": "1133",
+            "pagenum": 1,
+            "content": "अ/चित¦ <lex>Adj.</lex> <i>ungeschichtet</i> <ls>ŚAT. BR. 7,2,1,15</ls>."
+        }
     ]
 }

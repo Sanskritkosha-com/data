@@ -44,5 +44,51 @@
             "pagenum": 512,
             "content": "bODa¦ <i>m.</i> An epithet of Purūravas, son of <i>Budha</i>."
         }
+    ],
+    "MD": [
+        {
+            "word": "बौध",
+            "eid": "12941",
+            "pagenum": 198,
+            "content": "बौध¦ baudha, <lex>a.</lex> relating <i>or</i> belonging to 🞄Mercury: <ab>w.</ab> <b>ahan,</b> <lex>n.</lex> day of Mercury, Wednesday."
+        }
+    ],
+    "MW": [
+        {
+            "word": "बौध",
+            "eid": "145938",
+            "pagenum": 735,
+            "content": "बौध ¦ <lex>mf(ई)n.</lex> relating to <s1 slp1='buDa'>Budha</s1> or the planet Mercury, <ls>Sūryas.</ls> (with अहन् <lex type='nhw'>n.</lex> day of <ab n='Mercury'>M°</ab>, Wednesday, <ls>Viṣṇ.</ls>)<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "बौध",
+            "eid": "145939",
+            "pagenum": 735,
+            "content": "बौध ¦ <lex>m.</lex> <ab>patr.</ab> of <s1 slp1='purU-ravas'>Purū-ravas</s1>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "बौध",
+            "eid": "34899",
+            "pagenum": 688,
+            "content": "<i>Baudha, as, ī, am,</i>¦ relating or belonging to the planet Mercury; (<i>as</i>), m. a patronymic of Purū-ravas son of Budha and grandson of Soma."
+        }
+    ],
+    "PW": [
+        {
+            "word": "बौध",
+            "eid": "77759",
+            "pagenum": 4,
+            "content": "बौध¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>zu Mercur in Beziehung stehend, ihm eigen</i>. अहन् <lex>n.</lex> <i>Mittewoch</i> <ls>VIṢṆUS. 78,4</ls>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Patron.</ab> des <is>Purūravas</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बौध",
+            "eid": "53257",
+            "pagenum": 5,
+            "content": "बौध¦ (von बुध) <div n='1'> 1) <lex>adj.</lex> <i>zu Mercur in Beziehung stehend, ihm eigen</i> <ls>SŪRYAS. 1, 41. 43.</ls> <div n='1'>— 2) <lex>m.</lex> <is>Budha's</is> Sohn, <is>Purūravas</is> <ls>TRIK. 2, 8, 8.</ls> <ls>H. 701.</ls>"
+        }
     ]
 }

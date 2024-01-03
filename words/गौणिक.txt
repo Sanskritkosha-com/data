@@ -31,5 +31,85 @@
             "pagenum": 152,
             "content": "<b>gauṇika,</b>¦ <i><ab>f.</ab></i> <b>-ī,</b> <i><ab>a.</ab></i> standing in relation to the three <b>guṇa's,</b> <i>see</i> <b>guṇa</b> 3. [<b>guṇa,</b> <ls n='wg,1222'>1222e</ls> 2.]"
         }
+    ],
+    "MW": [
+        {
+            "word": "गौणिक",
+            "eid": "68130",
+            "pagenum": 369,
+            "content": "<hom>1.</hom> गौणिक ¦ <lex>mf(ई)n.</lex> relating to the three qualities (of सत्त्व, रजस् and तमस्), <ls>Mn. xii, 41</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "गौणिक",
+            "eid": "68131",
+            "pagenum": 369,
+            "content": "¦ = गुणे साधु <ab>g.</ab> kaTA<srs/>di<info lex='inh'/>"
+        },
+        {
+            "word": "गौणिक",
+            "eid": "68132",
+            "pagenum": 369,
+            "content": "¦ = guRam aDI<srs/>te veda vA <ab>g.</ab> ukTA<srs/>di and vasantA<srs/>di<info lex='inh'/>"
+        },
+        {
+            "word": "गौणिक",
+            "eid": "68133",
+            "pagenum": 369,
+            "content": "¦ relating to or connected with qualities, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गौणिक",
+            "eid": "68134",
+            "pagenum": 369,
+            "content": "¦ subordinate, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गौणिक",
+            "eid": "68138",
+            "pagenum": 369,
+            "content": "<hom>2.</hom> गौणिक ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> गोणी), resembling a sack, <ab>g.</ab> अङ्गुल्य्-आदि.<info lex='m:f#I:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गौणिक",
+            "eid": "17722",
+            "pagenum": 301,
+            "content": "1. <i>gauṇika, as, ī, am,</i>¦ relating to the three qualities (of <i>sattva, rajas,</i> and <i>tamas</i>), having qualities, relating to or connected with qualities; subordinate."
+        },
+        {
+            "word": "गौणिक",
+            "eid": "17724",
+            "pagenum": 301,
+            "content": "गौणिक 2¦. <i>gauṇika, as, ī, am</i> (fr. <i>goṇī</i>), resembling a sack."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गौणिक",
+            "eid": "37098",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> गौणिक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <div n='1'>— 1〉 <i>zu den drei Qualitäten in Beziehung stehend</i>. <div n='1'>— 2〉 *= गुणे साधुः. <div n='1'>— 3〉 = *गुणमधीते वेद वा."
+        },
+        {
+            "word": "गौणिक",
+            "eid": "37099",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> *गौणिक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>sackartig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गौणिक",
+            "eid": "23506",
+            "pagenum": 2,
+            "content": "1. गौणिक/¦ (von गुण) <lex>adj.</lex> <lex>f.</lex> ई <i>zu den drei</i> <is>Guṇa</is> <i>in Beziehung stehend</i>: गतिः <ls>M. 12, 41.</ls> = गुणे साधुः <is>gaṇa</is> कथादि zu <ls>P. 4, 4, 102.</ls> = गुणमधीते वेद वा <is>gaṇa</is> उक्थादि zu <ls>P. 4, 2, 60</ls> und वसन्तादि zu <ls n='P. 4, 2,'>63.</ls>"
+        },
+        {
+            "word": "गौणिक",
+            "eid": "23507",
+            "pagenum": 2,
+            "content": "2. गौणिक/¦ (von गोणी) <lex>adj.</lex> <lex>f.</lex> ई <i>sackartig</i> <is>gaṇa</is> अङ्गुल्यादि zu <ls>P. 5, 3, 108.</ls>"
+        }
     ]
 }

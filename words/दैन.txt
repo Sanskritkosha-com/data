@@ -21,5 +21,61 @@
             "pagenum": 345,
             "content": "dEna¦ <i>a. (f. नी)</i> Diurnal, daily."
         }
+    ],
+    "MW": [
+        {
+            "word": "दैन",
+            "eid": "96766",
+            "pagenum": 497,
+            "content": "<hom>1.</hom> दैन ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> दिन) relating to a day, diurnal, daily, <ls>L.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "दैन",
+            "eid": "96772",
+            "pagenum": 497,
+            "content": "<hom>2.</hom> दैन ¦ <lex>n.</lex> (<ab>fr.</ab> दीन) = the next, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दैन",
+            "eid": "22740",
+            "pagenum": 435,
+            "content": "दैन 1¦. <i>daina, as, ī, am</i> (fr. <i>dina</i>), relating to a day, diurnal, daily."
+        },
+        {
+            "word": "दैन",
+            "eid": "22743",
+            "pagenum": 435,
+            "content": "दैन 2¦. <i>daina</i> or <i>dainya, am,</i> n. (fr. <i>dīna</i>), wretchedness, feebleness, weakness, affliction, sorrow, grief, depression, low-spiritedness; poverty, humbleness, a poor and pitiable state, miserable state; meanness, covetousness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दैन",
+            "eid": "52859",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> *दैन¦ <lex>Adj.</lex> <i>auf den Tag bezüglich, täglich</i>."
+        },
+        {
+            "word": "दैन",
+            "eid": "52860",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *दैन¦ <lex>n.</lex> = दैन्य."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दैन",
+            "eid": "34909",
+            "pagenum": 3,
+            "content": "1. दैन¦ (von दिन) <lex>adj.</lex> <i>auf den Tag bezüglich, täglich</i> <ls>ŚKDR.</ls> <ls>WILS.</ls>"
+        },
+        {
+            "word": "दैन",
+            "eid": "34910",
+            "pagenum": 3,
+            "content": "2. दैन¦ (von दीन) <lex>n.</lex> = दैन्य <ls>ŚKDR.</ls> <ls>WILS.</ls>"
+        }
     ]
 }

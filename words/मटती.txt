@@ -15,5 +15,37 @@
             "pagenum": 543,
             "content": "mawatI¦ <i>f.</i> Hail."
         }
+    ],
+    "MW": [
+        {
+            "word": "मटती",
+            "eid": "154548",
+            "pagenum": 774,
+            "content": "मटती ¦ <lex>f.</lex> hail, <ls>W.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मटती",
+            "eid": "36137",
+            "pagenum": 730,
+            "content": "मटती¦ <i>maṭatī,</i> f. hail."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मटती",
+            "eid": "81688",
+            "pagenum": 5,
+            "content": "*मटती¦ <lex>f.</lex> <i>Hagel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मटती",
+            "eid": "56375",
+            "pagenum": 5,
+            "content": "मटती¦ <lex>f.</lex> <i>Hagel</i> <ls>WILSON.</ls>"
+        }
     ]
 }

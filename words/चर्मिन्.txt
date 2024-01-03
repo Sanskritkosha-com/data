@@ -74,5 +74,81 @@
             "pagenum": 268,
             "content": "carmin¦ <i>(II) m.</i> 1. A soldier armed with a shield; 2. plantain; 3. the <i>bhūrja</i> tree."
         }
+    ],
+    "MD": [
+        {
+            "word": "चर्मिन्",
+            "eid": "7475",
+            "pagenum": 93,
+            "content": "चर्मिन्¦ carm-in, <lex>a.</lex> covered with a hide; 🞄armed with a shield; <lex>m.</lex> shield-bearer."
+        }
+    ],
+    "MW": [
+        {
+            "word": "चर्मिन्",
+            "eid": "72552",
+            "pagenum": 391,
+            "content": "चर्मिन् ¦ <lex>mfn.</lex> (<ab>g.</ab> व्रीह्य्-आदि) <ab>id.</ab>, <ls>MBh.</ls>; <ls>Hariv. 1863</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "चर्मिन्",
+            "eid": "72553",
+            "pagenum": 391,
+            "content": "¦ covered with a hide, <ls>Caraṇ.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "चर्मिन्",
+            "eid": "72554",
+            "pagenum": 391,
+            "content": "¦ made of leather, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "चर्मिन्",
+            "eid": "72555",
+            "pagenum": 391,
+            "content": "चर्मिन् ¦ <lex>m.</lex> = °र्म-द्रुम, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "चर्मिन्",
+            "eid": "72556",
+            "pagenum": 391,
+            "content": "¦ (= °र्मण्-वती) <bot>Musa sapientum</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "चर्मिन्",
+            "eid": "72557",
+            "pagenum": 391,
+            "content": "¦ <ab>N.</ab> of an attendant of <s1 slp1='Siva'>Śiva</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "चर्मिन्",
+            "eid": "72558",
+            "pagenum": 391,
+            "content": "¦ of a man, <ls>Pāṇ. iv, 1, 158</ls>, <ab>Vārtt.</ab> 2, <ls>Pat.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चर्मिन्",
+            "eid": "18318",
+            "pagenum": 319,
+            "content": "<i>Carmin, ī, iṇī, i,</i>¦ covered with skin or parchment, having a hide or skin; leather, leathern, made of leather, &c.; armed with a shield; (<i>ī</i>), m. a soldier armed with a shield, a shield-bearer; N. of a tree, the bark of which is used for writing upon, &c. [cf. <i>bhūrja</i>]; a plantain; N. of an attendant of Śiva."
+        }
+    ],
+    "PW": [
+        {
+            "word": "चर्मिन्",
+            "eid": "39409",
+            "pagenum": 2,
+            "content": "चर्मिन्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>in eine Fell gehüllt</i>. <div n='2'>— b〉 <i>mit einem Schilde bewaffnet, Schildträger</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 *<i><bot>Betula Bhojpatra</bot></i>. <div n='2'>— b〉 *<i>Pisang</i>. <div n='2'>— c〉 <ab>N. pr.</ab> <div n='3'>— α〉 *eines Diener des <is>Śiva</is>. <div n='3'>— β〉 eines Mannes <ls>Ind. St. 13,420</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चर्मिन्",
+            "eid": "25030",
+            "pagenum": 2,
+            "content": "चर्मि/न्¦ (wie eben) <is>gaṇa</is> व्रीह्यादि zu <ls>P. 5, 2, 116.</ls> <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>in ein Fell</i> <i>gehüllt</i> <ls>Ind. St. 3, 281.</ls> <div n='2'>— b) <i>mit einem Schilde bewaffnet, Schildführer</i> <ls>AK. 2, 8, 2, 39.</ls> <ls>TRIK. 3, 3, 239.</ls> <ls>H. an. 2, 263.</ls> <ls>MED. n. 63.</ls> <ls>MBH. 3, 1019.</ls> <ls n='MBH.'>6, 63.</ls> अश्वे ऽश्वे दश धानुष्का धानुष्के दश चर्मिणः <ls n='MBH. 6,'>756.</ls> <ls n='MBH.'>7, 8025.</ls> <ls n='MBH.'>12, 3635.</ls> <ls n='MBH.'>13, 1973.</ls> <ls>HARIV. 1863.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) N. pr. eines Dieners des <is>Śiva</is> <ls>H. ś. 62.</ls> <ls>H. an.</ls> <ls>MED.</ls> <div n='2'>— b) N. eines Baumes (s. भूर्ज) <ls>AK. 2, 4, 2, 26.</ls> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> चर्मिवृक्ष <ls>SUŚR. 2, 79, 1.</ls> <i>Pisang</i> (मोचा) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

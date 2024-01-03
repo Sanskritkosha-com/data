@@ -23,5 +23,37 @@
             "pagenum": 28,
             "content": "ano¦ <i>ind.</i> No, not."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनो",
+            "eid": "7886",
+            "pagenum": 42,
+            "content": "अनो ¦ <lex>ind.</lex> no, not, <ls>L.</ls><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनो",
+            "eid": "2901",
+            "pagenum": 43,
+            "content": "अनो¦ <i>ano,</i> ind. no, not. (An unusual form of <i>no.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनो",
+            "eid": "5134",
+            "pagenum": 1,
+            "content": "*अनो¦ <lex>Adv.</lex> <i>nicht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनो",
+            "eid": "3211",
+            "pagenum": 1,
+            "content": "अनो¦ <i>nicht</i> <ls>NĪLAK.</ls> zu <ls>AK. 3, 5, 11.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

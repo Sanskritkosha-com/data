@@ -52,5 +52,37 @@
             "pagenum": 13,
             "content": "admara¦ <i>a. (f. रा)</i> Gluttonous."
         }
+    ],
+    "MW": [
+        {
+            "word": "अद्मर",
+            "eid": "3827",
+            "pagenum": 19,
+            "content": "अद्मर ¦ <lex>mfn.</lex> gluttonous, <ls>Pāṇ. iii, 2, 160.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अद्मर",
+            "eid": "1068",
+            "pagenum": 19,
+            "content": "<i>Admara, as, ā, am,</i>¦ gluttonous."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अद्मर",
+            "eid": "2580",
+            "pagenum": 1,
+            "content": "*अद्मर¦ <lex>Adj.</lex> <i>gefrässig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अद्मर",
+            "eid": "1783",
+            "pagenum": 1,
+            "content": "अद्मर/¦ (von 1. अद्) <lex>adj.</lex> <i>gefrässig</i> <ls>P. 3, 2, 160.</ls> <ls>VOP. 26, 150.</ls> <ls>AK. 3, 1, 20.</ls> <ls>H. 394.</ls>"
+        }
     ]
 }

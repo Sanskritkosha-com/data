@@ -51,5 +51,93 @@
             "pagenum": 2,
             "content": "akarman¦ <i>(II) n.</i> 1. Absence of occupation; 2. an improper act."
         }
+    ],
+    "MD": [
+        {
+            "word": "अकर्मन्",
+            "eid": "50",
+            "pagenum": 1,
+            "content": "अकर्मन्¦ a-karman, <lex>n.</lex> inaction; <lex>a.</lex> (-mán) 🞄doing nothing, idling; wicked."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अकर्मन्",
+            "eid": "186",
+            "pagenum": 2,
+            "content": "अ-कर्म/न् ¦ <lex>mfn.</lex> not working<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अकर्मन्",
+            "eid": "187",
+            "pagenum": 2,
+            "content": "¦ not performing good works, wicked, <ls>RV. x, 22, 8</ls>;<info lex='inh'/>"
+        },
+        {
+            "word": "अकर्मन्",
+            "eid": "188",
+            "pagenum": 2,
+            "content": "¦ inefficient<info lex='inh'/>"
+        },
+        {
+            "word": "अकर्मन्",
+            "eid": "189",
+            "pagenum": 2,
+            "content": "¦ (in <ab>Gr.</ab>) intransitive<info lex='inh'/>"
+        },
+        {
+            "word": "अकर्मन्",
+            "eid": "190",
+            "pagenum": 2,
+            "content": "अ-कर्मन् ¦ <lex>n.</lex> absence of work<info lex='n'/>"
+        },
+        {
+            "word": "अकर्मन्",
+            "eid": "191",
+            "pagenum": 2,
+            "content": "¦ observances<info lex='inh'/>"
+        },
+        {
+            "word": "अकर्मन्",
+            "eid": "192",
+            "pagenum": 2,
+            "content": "¦ improper work, crime.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अकर्मन्",
+            "eid": "56",
+            "pagenum": 1,
+            "content": "अकर्मन्¦ <i>a-karman, ā, ā, a,</i> without work, idle; inefficient; disqualified for performing essential rites, destitute of good works; (in grammar) intransitive; (<i>a</i>), n. absence of work; absence of essential observances; improper work, crime. <i>—Akarma-bhoga, as,</i> m. renunciation of self-righteousness; enjoyment of freedom from the fruits of action. <i>—Akarmānvita (°ma-</i> <i>an°), as, ā, am,</i> unoccupied, disqualified; criminal."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अकर्मन्",
+            "eid": "103",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अकर्मन्¦ <lex>n.</lex> <i>Unthätigkeit</i>."
+        },
+        {
+            "word": "अकर्मन्",
+            "eid": "104",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अकर्म/न्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>Nichts thuend, faulenzend</i> <ls>Spr. 4</ls>. <div n='1'>— 2〉 <i>kein gutes Werk übend, ruchlos</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अकर्मन्",
+            "eid": "80",
+            "pagenum": 1,
+            "content": "1. अ/कर्मन्¦ (अ + कर्मन्) <lex>n.</lex> <i>Nichthandeln, Unthätigkeit</i> <ls>BHAG. 2, 47.</ls>"
+        },
+        {
+            "word": "अकर्मन्",
+            "eid": "81",
+            "pagenum": 1,
+            "content": "2. अकर्म/न्¦ (अ + कर्मन्) <lex>adj.</lex> <i>kein Werk</i>, namentlich <i>kein frommes Werk verrichtend, ruchlos.</i> Vom <is>Śuṣṇa</is> heisst es <ls>ṚV. 10, 22, 8</ls> : अ\\क\\र्मा दस्यु^र\\भि नो^ अम\\न्तुर\\न्यव्र^तो\\ अमा^नुषः ."
+        }
     ]
 }

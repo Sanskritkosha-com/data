@@ -37,5 +37,55 @@
             "pagenum": 53,
             "content": "aByaya¦ <i>m.</i> 1. Arrival; 2. setting (of the sun)."
         }
+    ],
+    "MW": [
+        {
+            "word": "अभ्यय",
+            "eid": "13008",
+            "pagenum": 74,
+            "content": "अभ्य्-अय <hom>a</hom> ¦ <lex>m.</lex> approaching (as of darkness), <ls>KātyŚr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अभ्यय",
+            "eid": "13009",
+            "pagenum": 74,
+            "content": "¦ setting (of the sun), <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अभ्यय",
+            "eid": "13240",
+            "pagenum": 76,
+            "content": "अभ्य्-अय <hom>b</hom> ¦ See <hom>2.</hom> aBI<srs/>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभ्यय",
+            "eid": "5013",
+            "pagenum": 70,
+            "content": "<i>Abhy-aya.</i>¦ See s. v., p. 71, col. 2."
+        },
+        {
+            "word": "अभ्यय",
+            "eid": "5116",
+            "pagenum": 71,
+            "content": "अभ्यय¦ <i>abhy-aya, as,</i> m. (fr. <i>abhi-i,</i> see <i>abhī</i>), going near, approaching, arriving; entering; setting (of the sun)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभ्यय",
+            "eid": "7877",
+            "pagenum": 1,
+            "content": "अभ्यय¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Herbeikunft, Eintritt</i> (der Finsterniss). <div n='1'>— 2〉 <i>Untergang</i> (der Sonne)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभ्यय",
+            "eid": "4902",
+            "pagenum": 1,
+            "content": "अभ्यय¦ (von इ mit अभि) <lex>m.</lex> <div n='1'> 1) <i>das Herbeikommen, Nahen</i>: तमोऽभ्यये <ls>KĀTY. ŚR. 4, 15, 13.</ls> <div n='1'>— 2) <i>Eingang, Untergang</i>: आदित्याभ्यये <ls>KĀTY. ŚR. 8, 9, 13.</ls>"
+        }
     ]
 }

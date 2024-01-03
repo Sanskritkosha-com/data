@@ -23,5 +23,43 @@
             "pagenum": 655,
             "content": "vAru¦ <i>m.</i> A war-elephant."
         }
+    ],
+    "MW": [
+        {
+            "word": "वारु",
+            "eid": "191684",
+            "pagenum": 944,
+            "content": "वारु ¦ <lex>m.</lex> a royal elephant, war-elephant (carrying a standard = विजय-कुञ्जर), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वारु",
+            "eid": "191685",
+            "pagenum": 944,
+            "content": "¦ a horse, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वारु",
+            "eid": "41915",
+            "pagenum": 905,
+            "content": "<i>Vāru, us,</i>¦ m. a royal or war elephant carrying a standard (<i>= vijaya-kuñjara</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वारु",
+            "eid": "101020",
+            "pagenum": 6,
+            "content": "*वारु¦ <lex>m.</lex> <i>ein im Triumph geführter Elephant</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वारु",
+            "eid": "90292",
+            "pagenum": 6,
+            "content": "वारु¦ <lex>m.</lex> <i>ein im Triumph geführter Elephant</i> (विजयकुञ्जर) <ls>HĀR. 160.</ls>"
+        }
     ]
 }

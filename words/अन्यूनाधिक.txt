@@ -23,5 +23,27 @@
             "pagenum": 33,
             "content": "anyUna-aDika¦ <i>a.</i> neither deficient nor excessive."
         }
+    ],
+    "MW": [
+        {
+            "word": "अन्यूनाधिक",
+            "eid": "8723",
+            "pagenum": 46,
+            "content": "a/-nyUnA<srs/>tirikta [<ls>ŚBr.</ls>] or a-nyUnA<srs/>Dika ¦ <lex>mfn.</lex> not too little and not too much<info or='8721,anyUnAtirikta;8723,anyUnADika'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अन्यूनाधिक",
+            "eid": "8724",
+            "pagenum": 46,
+            "content": "¦ neither deficient nor excessive.<info lex='inh'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अन्यूनाधिक",
+            "eid": "3602",
+            "pagenum": 1,
+            "content": "अन्यूनाधिक¦ (3. अ + न्यून - अधिक) <lex>adj.</lex> <i>nicht zu wenig und nicht zu viel</i>: सर्वमन्यूनाधिकम् <ls>R. 6, 16, 78.</ls>"
+        }
     ]
 }

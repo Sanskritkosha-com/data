@@ -13,5 +13,55 @@
             "pagenum": 1772,
             "content": "<b>sádhrī:</b>¦<info vn='add 600 gra'/> <div n='TS'>-īm; <ls>Padap.</ls> sadhrī́ īm richtig, also sadhrī́ anzusetzen."
         }
+    ],
+    "MW": [
+        {
+            "word": "सध्रि",
+            "eid": "231009",
+            "pagenum": 1140,
+            "content": "<hom>1.</hom> स/ध्रि ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1='fzi'>Ṛṣi</s1> (having the <ab>patr.</ab> <s1 slp1='vErUpa'>Vairūpa</s1> and author of <ls>RV. x, 114</ls>), <ls>Sāy.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सध्रि",
+            "eid": "231010",
+            "pagenum": 1140,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='agni'>Agni</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सध्रि",
+            "eid": "231011",
+            "pagenum": 1140,
+            "content": "<hom>2.</hom> सध्रि ¦ (= <hom>2.</hom> सह), with, along with, together with, <ls>Pāṇ. vi, 3, 95</ls>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सध्रि",
+            "eid": "48979",
+            "pagenum": 1056,
+            "content": "सध्रि 1¦. <i>sadhri, is,</i> m., N. of the author of the hymn Ṛg-veda X. 114 (having the patronymic Vairūpa)."
+        },
+        {
+            "word": "सध्रि",
+            "eid": "48980",
+            "pagenum": 1056,
+            "content": "सध्रि 2¦. <i>sadhri</i> [cf. <i>sa-trā</i>], a form substituted for 2. <i>saha,</i> with, together with, (Pāṇ. VI. 3, 95.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सध्रि",
+            "eid": "118762",
+            "pagenum": 7,
+            "content": "स/ध्रि¦ <lex>m.</lex> nach <ls>SĀY.</ls> <ab>N. pr.</ab> eines <is>Ṛṣi</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सध्रि",
+            "eid": "104491",
+            "pagenum": 7,
+            "content": "स/ध्रि¦ <lex>m.</lex> nach <ls>SĀY.</ls> N. pr. eines <is>Ṛṣi</is> <ls>ṚV. 5, 44, 10.</ls> Liedverfasser von <ls n='ṚV. 5,'>10, 114.</ls> mit dem patron. <is>Vairūpa</is>."
+        }
     ]
 }

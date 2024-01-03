@@ -15,5 +15,79 @@
             "pagenum": 107,
             "content": "Arki¦ <i>m.</i> (a son of <i>Arka</i>) An epithet (1) of the planet Saturn, (2) of Yama, (3) of Karṇa, (4) of Sugrīva."
         }
+    ],
+    "MW": [
+        {
+            "word": "आर्कि",
+            "eid": "26388",
+            "pagenum": 151,
+            "content": "आर्कि ¦ <lex>m.</lex> a son or descendant of <s1 slp1='arka'>Arka</s1> or the sun<info lex='m'/>"
+        },
+        {
+            "word": "आर्कि",
+            "eid": "26389",
+            "pagenum": 151,
+            "content": "¦ <ab>N.</ab> of the planet Saturn, <ls>VarBṛS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आर्कि",
+            "eid": "26390",
+            "pagenum": 151,
+            "content": "¦ of <s1 slp1='yama'>Yama</s1>, <ls>T.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आर्कि",
+            "eid": "26391",
+            "pagenum": 151,
+            "content": "¦ of a <s1 slp1='manu'>Manu</s1>, <ls>T.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आर्कि",
+            "eid": "26392",
+            "pagenum": 151,
+            "content": "¦ of <s1 slp1='sugrIva'>Sugrīva</s1>, <ls>T.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आर्कि",
+            "eid": "26393",
+            "pagenum": 151,
+            "content": "¦ of <s1 slp1='karRa'>Karṇa</s1>, <ls>T.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आर्कि",
+            "eid": "9166",
+            "pagenum": 128,
+            "content": "आर्कि¦ <i>ārki, is,</i> m. a son of Arka or the sun; epithet of the planet Saturn."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आर्कि",
+            "eid": "15584",
+            "pagenum": 1,
+            "content": "आर्कि¦ <lex>m.</lex> <i>der Sohn der Sonne, der Planet Saturn</i> <ls>VARĀH. BṚH. 15,3</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आर्कि",
+            "eid": "9228",
+            "pagenum": 1,
+            "content": "आर्कि¦ <lex>m.</lex> <i>der Sohn</i> <is>Arka's</is>, ein Bein. <i>des Planeten Saturn</i>, <ls>JYOT.</ls> im <ls>ŚKDR.</ls> <ls>Ind. St. 2, 261. 285.</ls>"
+        },
+        {
+            "word": "आर्कि",
+            "eid": "66808",
+            "pagenum": 5,
+            "content": "आर्कि¦ <ls>VARĀH. BṚH. S. 100, 2.</ls>"
+        },
+        {
+            "word": "आर्कि",
+            "eid": "118819",
+            "pagenum": 7,
+            "content": "आर्कि¦ <ls>SŪRYAS. 1, 29. 2, 56. 7, 13.</ls>"
+        }
     ]
 }

@@ -31,5 +31,37 @@
             "pagenum": 292,
             "content": "*तिप्¦ <i>tip.</i> <i>tepe</i> 1; <ab>p.</ab> <i>titipe;</i> <ab>f2.</ab> <i>tepsye;</i> <ab>etc.</ab> Distiller, tomber goutte à goutte."
         }
+    ],
+    "MW": [
+        {
+            "word": "तिप्",
+            "eid": "84971",
+            "pagenum": 447,
+            "content": "तिप् ¦ <ab>cl.</ab> 1. <ab>P.</ab> तेपति (<ls>Pāṇ. vii, 2, 10</ls>; <ls>Kār.</ls>) to sprinkle, <ls>Dhātup. x, 1.</ls><info westergaard='tipf,10.1,01.0249'/><info verb='root' cp='1P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तिप्",
+            "eid": "20926",
+            "pagenum": 374,
+            "content": "तिप्¦ <i>tip,</i> cl. 1. P. <i>tepati,</i> &c., to sprinkle, to distil or drop, to ooze or leak."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तिप्",
+            "eid": "45767",
+            "pagenum": 3,
+            "content": "*√तिप्¦, तेपति (क्षरणे)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तिप्",
+            "eid": "29633",
+            "pagenum": 3,
+            "content": "तिप्¦, ते/पति <i>träufeln</i> <ls>DHĀTUP. 10, 1.</ls> erhält keinen Bindevocal इ <is>Kār.</is> <ls n='DHĀTUP.'>4</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls>"
+        }
     ]
 }

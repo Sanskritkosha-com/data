@@ -35,5 +35,91 @@
             "pagenum": 703,
             "content": "Sa¦ <i>(II) n.</i> Happiness."
         }
+    ],
+    "MW": [
+        {
+            "word": "श",
+            "eid": "210829",
+            "pagenum": 1043,
+            "content": "<hom>1.</hom> श ¦ the first of the three sibilants (it belongs to the palatal class, but in sound as well as euphonic treatment often corresponds to ष्, though in some words pronounced more like स्)."
+        },
+        {
+            "word": "श",
+            "eid": "210834",
+            "pagenum": 1043,
+            "content": "<hom>2.</hom> श ¦ (<ab>ifc.</ab>) = शय (See गिरि-, वारि-, वृक्ष-श)."
+        },
+        {
+            "word": "श",
+            "eid": "210835",
+            "pagenum": 1043,
+            "content": "<hom>3.</hom> श ¦ <lex>m.</lex> = शस्त्र, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "श",
+            "eid": "210836",
+            "pagenum": 1043,
+            "content": "¦ = शिव, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श",
+            "eid": "210837",
+            "pagenum": 1043,
+            "content": "श ¦ <lex>n.</lex> See <hom>2.</hom> शम्.<info lex='n'/>"
+        },
+        {
+            "word": "श",
+            "eid": "213070",
+            "pagenum": 1054,
+            "content": "शं ¦ in <ab>comp.</ab> for <hom>2.</hom> शम्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "श",
+            "eid": "45930",
+            "pagenum": 985,
+            "content": "श 1¦. <i>śa,</i> the thirtieth consonant of the Nāgarī alphabet and first of the three sibilants; it belongs to the palatal class, and in sound often corresponds to <i>ṣ,</i> though in some words pronounced more like <i>s</i>. <i>—Śa-kāra, as,</i> m. the letter or sound <i>śa</i>. <i>—Śa-varga, as,</i> m. the sibilating class of letters, i. e. the three sibilants and the letter <i>h.</i>"
+        },
+        {
+            "word": "श",
+            "eid": "45931",
+            "pagenum": 985,
+            "content": "श 2¦. <i>śa, as,</i> m. (fr. rt. <i>śo</i>), a cutter, destroyer (Kirāt. XV. 45); a weapon; N. of Śiva, (in this sense probably connected with 2. <i>śam</i>); (<i>am</i>), n. or ind. happiness, &c., see 2. <i>śam,</i> p. 993."
+        }
+    ],
+    "PW": [
+        {
+            "word": "श",
+            "eid": "109185",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> श¦ <lex>Adj.</lex> in गिरिश, *वारिश und *वृक्षश."
+        },
+        {
+            "word": "श",
+            "eid": "109186",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *श¦ <lex>m.</lex> <div n='1'>— 1〉 = शस्त्र. <div n='1'>— 2〉 = शिव."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श",
+            "eid": "96987.1",
+            "pagenum": 7,
+            "content": "श¦ <F>*) Was man unter श vermisst, suche man unter ष oder स .</F>"
+        },
+        {
+            "word": "श",
+            "eid": "96988",
+            "pagenum": 7,
+            "content": "1. श¦ = शय in गिरिश, वारिश und वृक्षश ."
+        },
+        {
+            "word": "श",
+            "eid": "96989",
+            "pagenum": 7,
+            "content": "2. श¦ <lex>m.</lex> <div n='1'> 1) = शस्त्र . <div n='1'>— 2) = शिव <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

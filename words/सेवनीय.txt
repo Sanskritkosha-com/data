@@ -7,5 +7,55 @@
             "pagenum": 634,
             "content": "सेवनीय¦ <lex>a.</lex> to be followed <ab>etc.</ab> (<ab>v.</ab> <ab>prec.</ab>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "सेवनीय",
+            "eid": "252278",
+            "pagenum": 1247,
+            "content": "<hom>1.</hom> सेवनीय ¦ <lex>mfn.</lex> (for <hom>2.</hom> See <ab>col.</ab> 2) to be followed or practised, <ls>Bhartṛ.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सेवनीय",
+            "eid": "252279",
+            "pagenum": 1247,
+            "content": "¦ to be served or waited upon or honoured, <ls>Hariv.</ls>; <ls>BhP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सेवनीय",
+            "eid": "252360",
+            "pagenum": 1247,
+            "content": "<hom>2.</hom> सेवनीय ¦ <lex>mfn.</lex> (for <hom>1.</hom> See <ab>col.</ab> 1) to be sewn or stitched together, <ls>MW.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सेवनीय",
+            "eid": "52677",
+            "pagenum": 1135,
+            "content": "1. <i>sevanīya, as, ā, am</i>¦ (for 2. see col. 2), to be followed; to be practised; to be served or waited on, to be honoured."
+        },
+        {
+            "word": "सेवनीय",
+            "eid": "52690",
+            "pagenum": 1135,
+            "content": "2. <i>sevanīya, as, ā, am,</i>¦ (for 1. see col. 1), to be sewn or stitched together."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सेवनीय",
+            "eid": "129296",
+            "pagenum": 7,
+            "content": "सेवनीय¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>aufzusuchen</i>. <div n='1'>— 2〉 <i>zu ehren, dem zu huldigen ist</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सेवनीय",
+            "eid": "112664",
+            "pagenum": 7,
+            "content": "सेवनीय¦ (von सेव्) <lex>adj.</lex> <div n='1'> 1) <i>aufzusuchen</i>: वन <ls>Spr. (II) 1771.</ls> <div n='1'>— 2) <i>zu ehren, dem zu huldigen ist</i> <ls>HARIV. 2853.</ls> सत्सेवनीयः पूरुवंशः <ls>BHĀG. P. 3, 8, 1.</ls> सुन्दरीणां यौवनम् <ls>Spr. (II) 1771.</ls>"
+        }
     ]
 }

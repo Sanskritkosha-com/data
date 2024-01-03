@@ -23,5 +23,55 @@
             "pagenum": 664,
             "content": "vidA¦ <i>f.</i> Knowledge, learning."
         }
+    ],
+    "MW": [
+        {
+            "word": "विदा",
+            "eid": "196106",
+            "pagenum": 965,
+            "content": "वि-√ दा <hom>a</hom> ¦ <ab>P.</ab> -ददाति, to give out, distribute, grant, <ls>R.</ls><info verb='pre' cp='P' parse='vi+dA'/>"
+        },
+        {
+            "word": "विदा",
+            "eid": "196110",
+            "pagenum": 965,
+            "content": "वि-√ दा <hom>b</hom> (or दो, ¦ not separable <ab>fr.</ab> √ <hom>4.</hom> दा) <ab>P.</ab> -दाति, or -द्यति (<ab>ind.p.</ab> -दित्य), to cut up, cut to pieces, bruise, pound, <ls>VS.</ls>;<info or='196110,vidA;196110.1,vido'/><info verb='pre' cp='P' parse='vi+dA'/> <div n='to'/>to untie, release, deliver from (<ab>abl.</ab>), <ls>ŚBr.</ls>; <div n='to'/>to destroy, <ls>Hariv.</ls>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विदा",
+            "eid": "42770",
+            "pagenum": 919,
+            "content": "विदा 1¦. <i>vi-dā</i> (see rt. 1. <i>dā</i>), cl. 3. P. <i>-da-</i> <i>dāti, -dātum,</i> to give out, distribute, grant."
+        },
+        {
+            "word": "विदा",
+            "eid": "42772",
+            "pagenum": 919,
+            "content": "विदा 2¦. <i>vi-dā</i> (<i>= vi-do,</i> see rt. 3. <i>dā</i>), cl. 2. 4. P. <i>-dāti, -dyati, -dātum,</i> to cut up, cut in pieces, bruise, pound; to destroy; to be destroyed, perish (Ved.)."
+        },
+        {
+            "word": "विदा",
+            "eid": "42773",
+            "pagenum": 920,
+            "content": "विदा 3¦. <i>vi-dā</i> (see rt. 4. <i>dā</i>), cl. 4. P. <i>-dyati,</i> <i>dātum,</i> to unbind, untie; to release; deliver from (with abl.)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विदा",
+            "eid": "102570",
+            "pagenum": 6,
+            "content": "*विदा¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Kenntniss</i>. <div n='1'>— 2〉 <i>Verstand</i>. — विदा/म् mit कर् bildet periphrastische Formen zu <hom>1.</hom> विद्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विदा",
+            "eid": "91618",
+            "pagenum": 6,
+            "content": "विदा/¦ <lex>f.</lex> nom. act. von 5. विद् nach <is>gaṇa</is> भिदादि zu <ls>P. 3, 3, 104.</ls> <ls>VOP. 26, 192.</ls> <i>Kenntniss</i> <ls>H. an. 2, 234.</ls> <ls>MED. d. 14.</ls> <i>Verstand</i> <ls>TRIK. 1, 1, 114.</ls> <ls>H. an.</ls> <ls>MED.</ls>"
+        }
     ]
 }

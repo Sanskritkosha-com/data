@@ -23,5 +23,37 @@
             "pagenum": 118,
             "content": "ilikA¦ <i>f.</i> The earth."
         }
+    ],
+    "MW": [
+        {
+            "word": "इलिका",
+            "eid": "29415",
+            "pagenum": 168,
+            "content": "इलिका ¦ <lex>f.</lex> the earth, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "इलिका",
+            "eid": "9977",
+            "pagenum": 142,
+            "content": "<i>Ilikā,</i>¦ f. the earth."
+        }
+    ],
+    "PW": [
+        {
+            "word": "इलिका",
+            "eid": "17258",
+            "pagenum": 1,
+            "content": "*इलिका¦ <lex>f.</lex> <i>die Erde</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इलिका",
+            "eid": "10355",
+            "pagenum": 1,
+            "content": "इलिका¦ (von इला) <lex>f.</lex> <i>Erde</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

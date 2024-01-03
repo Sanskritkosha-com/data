@@ -21,5 +21,47 @@
             "pagenum": 448,
             "content": "pUta-Atman¦ <i>(II) m.</i> an epithet of Vishṇu."
         }
+    ],
+    "MW": [
+        {
+            "word": "पूतात्मन्",
+            "eid": "127338",
+            "pagenum": 641,
+            "content": "pUtA<srs/>tman ¦ <lex>mfn.</lex> pure-minded (°म-ता <lex type='phw'>f.</lex>), <ls>Hariv.</ls><info phwchild='127341.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पूतात्मन्",
+            "eid": "127339",
+            "pagenum": 641,
+            "content": "pUtA<srs/>tman ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>RTL. 106</ls><info lex='m'/>"
+        },
+        {
+            "word": "पूतात्मन्",
+            "eid": "127340",
+            "pagenum": 641,
+            "content": "¦ a saint, ascetic<info lex='inh'/>"
+        },
+        {
+            "word": "पूतात्मन्",
+            "eid": "127341",
+            "pagenum": 641,
+            "content": "¦ a man purified by ablution, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पूतात्मन्",
+            "eid": "68819",
+            "pagenum": 4,
+            "content": "पूतात्मन्¦ <lex>Adj.</lex> <i>dessen Person gereinigt, ist, geläutert</i>. <ab>Nom. abstr.</ab> °त्मता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पूतात्मन्",
+            "eid": "46609",
+            "pagenum": 4,
+            "content": "पूतात्मन्¦ (पूत + आ°) <lex>adj.</lex> <i>dessen Person gereinigt ist, geläutert</i> <ls>SŪRYASTAVA</ls> im <ls>ŚĀMBA-P.</ls> <ls>ŚKDR.</ls> Davon nom. abstr. पूतात्मता <ls>HARIV. 9488.</ls>"
+        }
     ]
 }

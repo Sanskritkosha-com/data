@@ -31,5 +31,57 @@
             "pagenum": 1440,
             "content": "<b>saká,</b>¦ <ab>a.</ab>, <i>dieser geringe</i> (Deminutiv von sá). <div n='TS'>-ā́ {191,11} iyattikā́ śakuntikā́ 〰 jaghāsa te viṣám."
         }
+    ],
+    "MD": [
+        {
+            "word": "सक",
+            "eid": "18475",
+            "pagenum": 327,
+            "content": "सक¦ sa-ká, <ab>dim.</ab> (<i>of <ab>prn.</ab></i> sá), <b>ā́,</b> <lex>f.</lex> (<ab>V.</ab>, <i>very 🞄rare</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सक",
+            "eid": "225594",
+            "pagenum": 1111,
+            "content": "सक/ <hom>a</hom> ¦ <lex>mf(आ/)n.</lex> (<ab>cf.</ab> <ls>Pāṇ. vi, 1, 132</ls>, <ab>Sch.</ab>; <ls n='Pāṇ.'>vii, 3, 45</ls>) he that man, she that woman &c., <ls>RV.</ls>; <ls>AV.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "सक",
+            "eid": "225595",
+            "pagenum": 1111,
+            "content": "सक/ ¦ <lex>n.</lex> applied to the Intellect, <ls>VP.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सक",
+            "eid": "227601",
+            "pagenum": 1123,
+            "content": "सक <hom>b</hom> ¦ See <hom>6.</hom> स, <pcol>p. 1111, col. 2</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सक",
+            "eid": "48291",
+            "pagenum": 1043,
+            "content": "सक¦ <i>saka, as,</i> m. (a diminutive fr. <i>sa,</i> the base of nom. sing. of <i>tad</i>), he, that man; (<i>ā</i>), f. she, (Ṛg-veda I. 191, 11.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सक",
+            "eid": "117169",
+            "pagenum": 7,
+            "content": "सक/ (<lex>f.</lex> आ/)¦ <ab>Demin.</ab> von <hom>1.</hom> स/; <i>dieser geringe, — winzige</i>. <lex>n.</lex> als <ab>Bez.</ab> <i>des Intellects</i> <ls>VP.² 1,31</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सक",
+            "eid": "103269",
+            "pagenum": 7,
+            "content": "सक/¦ (demin. von 1. स) pron. im nom. masc. bleibt das Casuszeichen nach <ls>P. 6, 1, 132.</ls> सको देवः <ls>Schol.</ls> f. सका <ls>P. 7, 3, 45.</ls> <ls>VOP. 4, 6.</ls> स\\का ज^घास ते वि\\षम् <ls>ṚV. 1, 191, 11.</ls> <ls>AV. 10, 4, 14.</ls> <div n='v'>— Vgl. एषक, यक ."
+        }
     ]
 }

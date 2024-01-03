@@ -40,5 +40,111 @@
             "pagenum": 63,
             "content": "<i>bṛhatī</i>¦ (IE 7-1-2), ‘nine’."
         }
+    ],
+    "MW": [
+        {
+            "word": "बृहती",
+            "eid": "146103",
+            "pagenum": 735,
+            "content": "बृह/ती <hom>a</hom> ¦ (ती), <lex>f.</lex> See <ab>s.v.</ab><info lex='f'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146202",
+            "pagenum": 736,
+            "content": "बृहती/ <hom>b</hom> ¦ <lex>f.</lex> <ab>fr.</ab> बृक/त् <ab>N.</ab> of a <ab>partic.</ab> metre of 36 (<ab>orig.</ab> 8 + 8 + 12 + 8) syllables or (later) any metre containing 36 syllables (<ab>ifc.</ab> °तीक <lex type='hwifc'>mfn.</lex>), <ls>RV.</ls>; <ls>RPrāt.</ls>; <ls>AV.</ls>; <ls>Br.</ls> &c.<info lex='m#tIka:f:f#tIkA:n#tIka'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146203",
+            "pagenum": 736,
+            "content": "¦ a symbolical expression for the number 36 <ls>ŚrS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146204",
+            "pagenum": 736,
+            "content": "¦ (<ab>pl.</ab>) <ab>N.</ab> of <ab>partic.</ab> bricks forming part of the sacrificial fire-altar, <ls>ŚBr.</ls>; <ls>Śulbas.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146205",
+            "pagenum": 736,
+            "content": "¦ a <ab>partic.</ab> <bot>Solanum</bot> (-द्वय <lex type='phw'>n.</lex> two species of it), <ls>ŚāṅkhGṛ.</ls>; <ls>Suśr.</ls><info phwchild='146215.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146206",
+            "pagenum": 736,
+            "content": "¦ a part of the body between the breast and backbone, <ls>Suśr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146207",
+            "pagenum": 736,
+            "content": "¦ (<ab>du.</ab>) heaven and earth, <ls>Gal.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146208",
+            "pagenum": 736,
+            "content": "¦ speech (a sense inferred from certain passages)<info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146209",
+            "pagenum": 736,
+            "content": "¦ a mantle, wrapper, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146210",
+            "pagenum": 736,
+            "content": "¦ a place containing water, reservoir, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146211",
+            "pagenum": 736,
+            "content": "¦ the lute of <s1 slp1='nArada'>Nārada</s1> or <s1 slp1='viSvA-vasu'>Viśvā-vasu</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146212",
+            "pagenum": 736,
+            "content": "¦ <ab>N.</ab> of two works.<info lex='inh'/>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "146213",
+            "pagenum": 736,
+            "content": "¦ <ab>N.</ab> of <ab>sev.</ab> women, <ls>Hariv.</ls>; <ls>BhP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "बृहती",
+            "eid": "9097",
+            "pagenum": 2,
+            "content": "<i>Bṛhatī</i> (I)¦ — the mother of Yogeśvara. <div n='P'/>Bhā. VIII. 13. 32."
+        },
+        {
+            "word": "बृहती",
+            "eid": "9098",
+            "pagenum": 2,
+            "content": "<i>Bṛhatī</i> (II)¦ — poetic metre;<sup>1</sup> a horse of the Sun's chariot.<sup>2</sup> <F>1) Bhā. XI. 21. 41; M. 125. 47; Vā. 51. 65.</F> <F>2) Br. II. 22. 72; Vi. II. 8. 5.</F>"
+        },
+        {
+            "word": "बृहती",
+            "eid": "9099",
+            "pagenum": 2,
+            "content": "<i>Bṛhatī</i> (III)¦ — wife of Ripu and mother of Cākṣuṣa. <div n='P'/>Br. II. 36. 102; Vi. I. 13. 2."
+        },
+        {
+            "word": "बृहती",
+            "eid": "9100",
+            "pagenum": 2,
+            "content": "<i>Bṛhatī</i> (IV)¦ — a daughter of Bṛhaduktha-Śaineya and wife of Pūru; had three sons and a daughter, Śvetā. <div n='P'/>Br. III. 71. 255; Vā. 96. 246."
+        }
     ]
 }

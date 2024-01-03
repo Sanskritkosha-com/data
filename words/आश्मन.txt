@@ -34,5 +34,43 @@
             "pagenum": 111,
             "content": "ASmana¦ <i>(II) m.</i> A name of Aruṇa, the charioteer of the sun."
         }
+    ],
+    "MW": [
+        {
+            "word": "आश्मन",
+            "eid": "27604",
+            "pagenum": 158,
+            "content": "आश्मन ¦ <lex>mfn.</lex> stony, <ls>Bhaṭṭ.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आश्मन",
+            "eid": "27605",
+            "pagenum": 158,
+            "content": "आश्मन ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='aruRa'>Aruṇa</s1> (the sun's charioteer), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आश्मन",
+            "eid": "9528",
+            "pagenum": 133,
+            "content": "<i>Āśmana, as, ī, am,</i>¦ stony, made of stone; (<i>as</i>), m., N. of Aruṇa, the charioteer of the sun."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आश्मन",
+            "eid": "16191",
+            "pagenum": 1,
+            "content": "*आश्मन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>steinern</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Bein.</ab> <is>Aruṇa</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आश्मन",
+            "eid": "9627",
+            "pagenum": 1,
+            "content": "आश्मन¦ (von 2. अश्मन्) <div n='1'> 1) <lex>adj.</lex> <i>steinern</i> <ls>P. 4, 3, 143</ls>, <ls>Sch.</ls>  <ls>BHAṬṬ. 4, 26.</ls> <div n='1'>— 2) <lex>m.</lex> ein Bein. <is>Aruṇa's</is>, des Wagenlenkers der Sonne, <ls>TRIK. 1, 1, 103.</ls> <ls>H. ś. 9.</ls>"
+        }
     ]
 }

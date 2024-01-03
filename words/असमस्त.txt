@@ -31,5 +31,49 @@
             "pagenum": 86,
             "content": "asamasta¦ <i>a. (f. स्ता)</i> 1. Separate, several, unconnected; 2. partial, not whole; 3. not compounded, not joined in a compound (in gram.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "असमस्त",
+            "eid": "3152",
+            "pagenum": 34,
+            "content": "असमस्त¦ a-sam-asta, <ab>pp.</ab> not compounded."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असमस्त",
+            "eid": "20708",
+            "pagenum": 119,
+            "content": "अ-समस्त ¦ <lex>mfn.</lex> uncompounded, <ls>Kāvyād.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "असमस्त",
+            "eid": "20709",
+            "pagenum": 119,
+            "content": "¦ uncollected, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "असमस्त",
+            "eid": "20710",
+            "pagenum": 119,
+            "content": "¦ incomplete, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असमस्त",
+            "eid": "7461",
+            "pagenum": 104,
+            "content": "असमस्त¦ <i>a-samasta, as, ā, am,</i> uncompounded, separate, several; uncollected; incomplete, imperfect."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असमस्त",
+            "eid": "12414",
+            "pagenum": 1,
+            "content": "असमस्त¦ <lex>Adj.</lex> <i>nicht zusammengesetzt</i> (<ab>gramm.</ab>) <ls n='Chr.'>251,15</ls>."
+        }
     ]
 }

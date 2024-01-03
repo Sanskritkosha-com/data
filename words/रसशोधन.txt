@@ -20,5 +20,41 @@
             "pagenum": 1,
             "content": "रसशोधन¦ med. Rādh 32 (and <symbol n='C.'>C.</symbol>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "रसशोधन",
+            "eid": "175694",
+            "pagenum": 870,
+            "content": "रस—शोधन ¦ <lex>m.</lex> borax, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रसशोधन",
+            "eid": "175695",
+            "pagenum": 870,
+            "content": "रस—शोधन ¦ <lex>n.</lex> purification of quicksilver, <ls>Cat.</ls><info lex='n'/>"
+        },
+        {
+            "word": "रसशोधन",
+            "eid": "175696",
+            "pagenum": 870,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रसशोधन",
+            "eid": "93019",
+            "pagenum": 5,
+            "content": "रसशोधन¦ <div n='1'>— 1〉 *<lex>m.</lex> <i>Borax</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>das Reinigen des Quecksilbers</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रसशोधन",
+            "eid": "83796",
+            "pagenum": 6,
+            "content": "रसशोधन¦ <div n='1'> 1) <lex>m.</lex> <i>Borax</i> <ls>H. 944.</ls> <div n='1'>— 2) <lex>n.</lex> <i>das Reinigen des Quecksilbers</i> <ls>Verz. d. Oxf. H. 321, No. 761.</ls>"
+        }
     ]
 }

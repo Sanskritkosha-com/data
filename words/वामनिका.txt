@@ -23,5 +23,33 @@
             "pagenum": 653,
             "content": "vAmanikA¦ <i>f.</i> A female dwarf."
         }
+    ],
+    "MW": [
+        {
+            "word": "वामनिका",
+            "eid": "191164",
+            "pagenum": 942,
+            "content": "वामनिका ¦ <lex>f.</lex> <ab>N.</ab> of one of the <s1 slp1='mAtf'>Mātṛ</s1>s attending on <s1 slp1='skanda'>Skanda</s1>, <ls>ib.</ls><info lex='f'/>"
+        },
+        {
+            "word": "वामनिका",
+            "eid": "191165",
+            "pagenum": 942,
+            "content": "¦ a female dwarf, <ls>Nalac.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वामनिका",
+            "eid": "191166",
+            "pagenum": 942,
+            "content": "¦ a sort of woman, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वामनिका",
+            "eid": "41886",
+            "pagenum": 903,
+            "content": "<i>Vāmanikā,</i>¦ f. a female dwarf; a sort of woman."
+        }
     ]
 }

@@ -15,5 +15,49 @@
             "pagenum": 177,
             "content": "kazwi¦ <i>f.</i> 1. Test, trial; 2. pain, trouble."
         }
+    ],
+    "MW": [
+        {
+            "word": "कष्टि",
+            "eid": "46754",
+            "pagenum": 265,
+            "content": "<hom>1.</hom> कष्टि ¦ <lex>f.</lex> test, trial, <ls>W.</ls><info lex='f'/>"
+        },
+        {
+            "word": "कष्टि",
+            "eid": "46859",
+            "pagenum": 266,
+            "content": "<hom>2.</hom> कष्टि ¦ <lex>f.</lex> pain, trouble, <ls>W.</ls>; (for 1 See <pcol>p. 265, col. 3</pcol>.)<info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कष्टि",
+            "eid": "14137",
+            "pagenum": 215,
+            "content": "<i>Kaṣṭi, is,</i>¦ f. test, trial; pain, trouble."
+        },
+        {
+            "word": "कष्टि",
+            "eid": "14151",
+            "pagenum": 215,
+            "content": "कष्टि¦ <i>kaṣṭi.</i> See under <i>kaṣ.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कष्टि",
+            "eid": "25905",
+            "pagenum": 2,
+            "content": "*कष्टि¦ <lex>f.</lex> <div n='1'>— 1〉 <i>test, trial</i>. <div n='1'>— 2〉 <i>pain, trouble</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कष्टि",
+            "eid": "15939",
+            "pagenum": 2,
+            "content": "कष्टि¦ (von कष्) <lex>f.</lex> <div n='1'> 1) <i>test, trial.</i> <div n='1'>— 2) <i>pain, trouble</i> <ls>WILS.</ls>"
+        }
     ]
 }

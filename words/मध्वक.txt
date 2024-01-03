@@ -31,5 +31,57 @@
             "pagenum": 550,
             "content": "maDvaka¦ <i>m.</i> A bee."
         }
+    ],
+    "MD": [
+        {
+            "word": "मध्वक",
+            "eid": "13668",
+            "pagenum": 216,
+            "content": "मध्वक¦ madhu‿aka, <lex>m.</lex> bee; <b>-akṣa,</b> <lex>a.</lex> having 🞄honey-coloured eyes."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मध्वक",
+            "eid": "156340",
+            "pagenum": 781,
+            "content": "मध्वक <hom>a</hom> ¦ <lex>m.</lex> a bee, <ls>AdbhBr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मध्वक",
+            "eid": "156624",
+            "pagenum": 783,
+            "content": "मध्वक <hom>b</hom> ¦ &c. See <pcol>p. 781, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मध्वक",
+            "eid": "36317",
+            "pagenum": 738,
+            "content": "<i>Madhvaka, as,</i>¦ m. a bee."
+        },
+        {
+            "word": "मध्वक",
+            "eid": "36332",
+            "pagenum": 740,
+            "content": "मध्वक¦ <i>madhvaka,</i> &c. See p. 738, col. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मध्वक",
+            "eid": "82740",
+            "pagenum": 5,
+            "content": "मध्वक¦ <lex>m.</lex> <i>Biene</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मध्वक",
+            "eid": "57228",
+            "pagenum": 5,
+            "content": "मध्वक¦ (von मधु) <lex>m.</lex> <i>Biene</i> <ls>ADBH. BR. 6, 5</ls> in <ls>Ind. St. 1, 40.</ls>"
+        }
     ]
 }

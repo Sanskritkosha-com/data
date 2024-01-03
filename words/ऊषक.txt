@@ -23,5 +23,49 @@
             "pagenum": 149,
             "content": "Uzaka¦ <i>n.</i> Day-break."
         }
+    ],
+    "MW": [
+        {
+            "word": "ऊषक",
+            "eid": "38344",
+            "pagenum": 223,
+            "content": "ऊषक ¦ <lex>n.</lex> salt or pepper, <ls>Suśr.</ls><info lex='n'/>"
+        },
+        {
+            "word": "ऊषक",
+            "eid": "38345",
+            "pagenum": 223,
+            "content": "¦ daybreak, dawn, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऊषक",
+            "eid": "12561",
+            "pagenum": 178,
+            "content": "<i>Ūṣaka, am,</i>¦ n. salt, pepper; dawn, day-break."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऊषक",
+            "eid": "21222",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> ऊषक¦ <lex>n.</lex> <i>Salz oder Pfeffer</i>."
+        },
+        {
+            "word": "ऊषक",
+            "eid": "21223",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *ऊषक¦ <lex>n.</lex> <i>Tagesanbruch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऊषक",
+            "eid": "12868",
+            "pagenum": 1,
+            "content": "ऊषक¦ <div n='1'> 1) scheint eher <i>Salz</i> als <i>Pfeffer</i> (wie <ls>HESSLER</ls> annimmt) zu bedeuten <ls>SUŚR. 1, 140, 13. 2, 53, 4. 54, 11. 99, 2. 225, 18. 531, 1.</ls> Vgl. ऊष 1,a. <div n='1'>— 2) <lex>n.</lex> <i>Tagesanbruch</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> Vgl. ऊष 1,d."
+        }
     ]
 }

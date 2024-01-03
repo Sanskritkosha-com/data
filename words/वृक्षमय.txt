@@ -23,5 +23,35 @@
             "pagenum": 421,
             "content": "वृक्षमय,¦ <i>f.</i> ई Baum-, hölzern."
         }
+    ],
+    "MW": [
+        {
+            "word": "वृक्षमय",
+            "eid": "204228",
+            "pagenum": 1008,
+            "content": "वृक्ष—मय ¦ <lex>mf(ई)n.</lex> made of wood, wooden, <ls>Śāntik.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "वृक्षमय",
+            "eid": "204229",
+            "pagenum": 1008,
+            "content": "¦ abounding with trees, consisting of trees, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वृक्षमय",
+            "eid": "106298",
+            "pagenum": 6,
+            "content": "वृक्षमय¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>aus Holz gemacht, hölzern</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वृक्षमय",
+            "eid": "94695",
+            "pagenum": 6,
+            "content": "वृक्षमय¦ (von वृक्ष) <lex>adj.</lex> (f. ई) <i>aus Holz gemacht, hölzern</i> <ls>ŚĀNTIK. 5.</ls>"
+        }
     ]
 }

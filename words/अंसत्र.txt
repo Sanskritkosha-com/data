@@ -39,5 +39,43 @@
             "pagenum": 1,
             "content": "aMsa-tra¦ <i>n.</i> 1. an armour to protect the shoulder; 2. a bow."
         }
+    ],
+    "MD": [
+        {
+            "word": "अंसत्र",
+            "eid": "20",
+            "pagenum": 1,
+            "content": "अंसत्र¦ áṃsa-tra, <lex>n.</lex> armour."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अंसत्र",
+            "eid": "95",
+            "pagenum": 1,
+            "content": "अ/ंस—त्र ¦ <lex>n.</lex> armour to protect the shoulder, <ls>RV.</ls><info lex='n'/>"
+        },
+        {
+            "word": "अंसत्र",
+            "eid": "95.1",
+            "pagenum": 1,
+            "content": "¦ a bow, <ls>Nir.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अंसत्र",
+            "eid": "37",
+            "pagenum": 1,
+            "content": "अ/ंसत्र¦ <lex>n.</lex> <i>Panzer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अंसत्र",
+            "eid": "36",
+            "pagenum": 1,
+            "content": "अ/ंसत्र¦ (अंस <i>Schulter</i> + त्र <i>schützend</i>) <lex>n.</lex> <div n='1'> 1) <i>Panzer</i> <ls>ṚV. 4, 34, 9.</ls> <ls n='ṚV.'>8, 17, 14.</ls> <div n='1'>— 2) <i>Bogen</i> (?) <ls>NIR. 5, 25.</ls>"
+        }
     ]
 }

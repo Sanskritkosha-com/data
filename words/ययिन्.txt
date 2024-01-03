@@ -23,5 +23,35 @@
             "pagenum": 1098,
             "content": "<b>(yayín),</b>¦ <ab>a.</ab>, <ab>dass.</ab>, enthalten in ni-yayín."
         }
+    ],
+    "MW": [
+        {
+            "word": "ययिन्",
+            "eid": "170624",
+            "pagenum": 847,
+            "content": "ययिन् ¦ <lex>mfn.</lex> = <ab>prec.</ab> (See नि-ययि/न्)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "ययिन्",
+            "eid": "170625",
+            "pagenum": 847,
+            "content": "ययिन् ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ययिन्",
+            "eid": "38427",
+            "pagenum": 811,
+            "content": "<i>Yayin, ī,</i>¦ m., N. of Śiva."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ययिन्",
+            "eid": "90403",
+            "pagenum": 5,
+            "content": "*ययिन्¦ <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼs."
+        }
     ]
 }

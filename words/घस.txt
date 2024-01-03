@@ -31,5 +31,57 @@
             "pagenum": 116,
             "content": "घस¦ <i>m.</i> Fresser <i>(Name von Dämonen).</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "घस",
+            "eid": "7255",
+            "pagenum": 89,
+            "content": "घस¦ ghas-a, <lex>m.</lex> devourer, <ab>N.</ab> <i>of a demon of disease</i>; 🞄<ab>N.</ab> <i>of a Rākṣasa</i>; <b>-ana,</b> <lex>n.</lex> devouring."
+        }
+    ],
+    "MW": [
+        {
+            "word": "घस",
+            "eid": "69693",
+            "pagenum": 377,
+            "content": "घस ¦ <lex>m.</lex> ‘devourer’, <ab>N.</ab> of a demon causing diseases, <ls>Hariv. 9558</ls><info lex='m'/>"
+        },
+        {
+            "word": "घस",
+            "eid": "69694",
+            "pagenum": 377,
+            "content": "¦ of a <s1 slp1='rAkzasa'>Rākṣasa</s1>, <ls>R. v, 12, 12</ls><info lex='inh'/>"
+        },
+        {
+            "word": "घस",
+            "eid": "69695",
+            "pagenum": 377,
+            "content": "¦ flesh, meat, <ls>Gal.</ls> (<ab>cf.</ab> उद्-.)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "घस",
+            "eid": "17936",
+            "pagenum": 307,
+            "content": "<i>Ghasa, as,</i>¦ m. the eater or devourer; N. of a kind of demon; also of a Rākṣasa; [cf. <i>mahā-ghasa</i> and <i>pra-ghasa.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "घस",
+            "eid": "37887",
+            "pagenum": 2,
+            "content": "घस¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Fresser;</i> <ab>N. pr.</ab> <div n='3'>— α〉 eines Krankheitsdämons. <div n='3'>— β〉 eines <is>Rakṣas</is>. <div n='1'>— 2〉 *<i>Fleisch</i> (<ab>vgl.</ab> उद्घस) <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "घस",
+            "eid": "24044",
+            "pagenum": 2,
+            "content": "घस¦ (von घस्) <lex>m.</lex> <i>der Fresser</i>, N. pr. eines dämonischen Wesens <ls>HARIV. 9558.</ls> <ls>LANGL. I, 513.</ls> eines <is>Rākṣasa</is> <ls>R. 5, 12, 12.</ls> <div n='v'>— Vgl. महाघस und प्रघस ."
+        }
     ]
 }

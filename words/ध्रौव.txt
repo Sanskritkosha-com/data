@@ -15,5 +15,49 @@
             "pagenum": 200,
             "content": "ध्रौव¦ zum Polarstern gehörig; im Dhruvā-Löffel <lbinfo n='6'/> befindlich."
         }
+    ],
+    "MW": [
+        {
+            "word": "ध्रौव",
+            "eid": "102385",
+            "pagenum": 521,
+            "content": "ध्रौव <hom>a</hom> ¦ <lex>mf(ई)n.</lex> belonging to <s1 slp1='Druva'>Dhruva</s1> or the polar star, <ls>MārkP.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "ध्रौव",
+            "eid": "102386",
+            "pagenum": 522,
+            "content": "¦ being in the ladle called <s1 slp1='DruvA'>Dhruvā</s1> (with or <lex type='hwinfo'>m.</lex> <ab>scil.</ab> आज्य), <ls>ŚrS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ध्रौव",
+            "eid": "102397",
+            "pagenum": 522,
+            "content": "ध्रौव <hom>b</hom> ¦ &c. See under ध्रुव."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ध्रौव",
+            "eid": "23656",
+            "pagenum": 462,
+            "content": "<i>Dhrauva, as, ī, am,</i>¦ belonging to Dhruva or the polar star; being in the ladle called Dhruvā."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ध्रौव",
+            "eid": "56001",
+            "pagenum": 3,
+            "content": "ध्रौव¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>dem Polarstern gehörig</i>. <div n='1'>— 2〉 <i>in dem</i> <is>Dhruvā</is> <i>genannten Löffel befindlich;</i> <ab>Subst.</ab> <i>solches Schmalz</i> <ls>MĀN. ŚR. 1,3,2. 3,5. 2,1,3</ls>. <ls>VAITĀN.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ध्रौव",
+            "eid": "37171",
+            "pagenum": 3,
+            "content": "ध्रौव¦ <lex>adj.</lex> <div n='1'> 1) <i>dem</i> <is>Dhruva</is>, <i>dem Polarstern gehörig</i>: क्व भूतलं क्व च ध्रौवं स्थानं यत्प्राप्तवान्ध्रुवः <ls>MĀRK. P. 20, 39.</ls> <div n='1'>— 2) <i>in dem</i>, <is>Dhruvā</is> <i>genannten Löffel befindlich</i>: आज्य <ls>KĀTY. ŚR. 3, 8, 4.</ls> <ls n='KĀTY. ŚR.'>7, 3, 18.</ls> <ls n='KĀTY. ŚR.'>8, 1, 19.</ls>"
+        }
     ]
 }

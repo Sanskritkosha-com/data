@@ -29,5 +29,27 @@
             "pagenum": 164,
             "content": "<b>tṛ́,</b>¦ <i><ab>m.</ab></i> star, <i>see</i> <b>stṛ́.</b>"
         }
+    ],
+    "MW": [
+        {
+            "word": "तृ",
+            "eid": "86521",
+            "pagenum": 453,
+            "content": "तृ/ ¦ <lex>n.</lex> (= स्तृ/) <ab>nom.</ab> <ab>pl.</ab> ता/रस्, the stars, <ls>RV. viii, 55, 2</ls><info lex='n'/>"
+        },
+        {
+            "word": "तृ",
+            "eid": "86521.1",
+            "pagenum": 453,
+            "content": "¦ <ab>cf.</ab> तारा.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तृ",
+            "eid": "21238",
+            "pagenum": 381,
+            "content": "तृ¦ <i>tṛ, tā,</i> m. (for <i>stṛ</i>), Ved. a star; [cf. <i>tāra.</i>]"
+        }
     ]
 }

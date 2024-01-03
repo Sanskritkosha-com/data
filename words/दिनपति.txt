@@ -23,5 +23,35 @@
             "pagenum": 331,
             "content": "dina-pati¦ <i>m.</i> the sun."
         }
+    ],
+    "MW": [
+        {
+            "word": "दिनपति",
+            "eid": "92165",
+            "pagenum": 478,
+            "content": "दिन—पति ¦ <lex>m.</lex> <ab>id.</ab>, <ls>Gaṇit.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दिनपति",
+            "eid": "92166",
+            "pagenum": 478,
+            "content": "¦ ‘day-lord’, the sun, <ls>Bhartṛ.</ls>; <ls>Rājat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिनपति",
+            "eid": "50199",
+            "pagenum": 3,
+            "content": "दिनपति¦ <lex>m.</lex> <div n='1'>— 1〉 <i>die Sonne</i>. <div n='1'>— 2〉 <i>der Regent eines Wochentages</i> <ls>GAṆIT. GRAH. 18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिनपति",
+            "eid": "32898",
+            "pagenum": 3,
+            "content": "दिनपति¦ (दिन + पति) <lex>m.</lex> <i>der Herr des Tages, die Sonne</i> <ls>BHARTṚ. 2, 69.</ls> <ls>RĀJA-TAR. 3, 492.</ls>"
+        }
     ]
 }

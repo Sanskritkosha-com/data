@@ -23,5 +23,37 @@
             "pagenum": 35,
             "content": "apa-mUrDan¦ <i>a.</i> headless."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपमूर्धन्",
+            "eid": "9380",
+            "pagenum": 50,
+            "content": "अप-मूर्धन् ¦ <lex>mfn.</lex> headless.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपमूर्धन्",
+            "eid": "3335",
+            "pagenum": 51,
+            "content": "अपमूर्धन्¦ <i>apa-mūrdhan, ā, ā, a,</i> headless."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपमूर्धन्",
+            "eid": "6024",
+            "pagenum": 1,
+            "content": "अपमूर्धन्¦ <lex>Adj.</lex> <i>kopflos</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपमूर्धन्",
+            "eid": "3819",
+            "pagenum": 1,
+            "content": "अपमूर्धन्¦ (1. अप + मूर्धन्) <lex>adj.</lex> <i>kopflos</i>: अपमूर्धकलेवरम् <ls>AK. 2, 8, 2, 86.</ls>"
+        }
     ]
 }

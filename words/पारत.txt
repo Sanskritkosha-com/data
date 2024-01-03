@@ -60,5 +60,69 @@
             "pagenum": 432,
             "content": "pArata¦ <i>m.</i> quick-silver."
         }
+    ],
+    "MD": [
+        {
+            "word": "पारत",
+            "eid": "11504",
+            "pagenum": 160,
+            "content": "पारत¦ pārata, <lex>m.</lex> quicksilver (= pārada)."
+        },
+        {
+            "word": "पारत",
+            "eid": "11506",
+            "pagenum": 160,
+            "content": "पारतः¦ pārá-taḥ, <lex>ad.</lex> on the other side of (<ab>g.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पारत",
+            "eid": "122557",
+            "pagenum": 620,
+            "content": "पारत ¦ <lex>m.</lex> (<ab>cf.</ab> <hom>2.</hom> पारद) quicksilver, <ls>Kathās. xxxvii, 232</ls><info lex='m'/>"
+        },
+        {
+            "word": "पारत",
+            "eid": "122558",
+            "pagenum": 620,
+            "content": "¦ <ab>pl.</ab> <ab>N.</ab> of a people, <ls>Var.</ls> (also °तक <ab>v.l.</ab> in <ls>VP.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पारत",
+            "eid": "28885",
+            "pagenum": 567,
+            "content": "पारत 1¦. <i>pārata, as, ī, am</i> (fr. <i>para-tas</i>), see Vārttikā to Pāṇ. IV. 2, 104; (Ved.) N. of a people or country."
+        },
+        {
+            "word": "पारत",
+            "eid": "28886",
+            "pagenum": 567,
+            "content": "पारत 2¦. <i>pārata, as,</i> m. quicksilver; [cf. <i>pārada.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पारत",
+            "eid": "66190",
+            "pagenum": 4,
+            "content": "पारत¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Quecksilber</i> <ls n='Chr.'>162,21</ls>. <div n='1'>— 2〉 <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes. <ab>Vgl.</ab> पारद."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पारत",
+            "eid": "44614",
+            "pagenum": 4,
+            "content": "1. पारत¦ (von परतस्) <lex>adj.</lex> <ls>P. 4, 2, 104</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls> Hierher gehört viell. पारत als N. eines Landes oder Volkes <ls>VARĀH. BṚH. S. 10, 5. 7. 13, 9. 14, 21. 16, 4. 13. 22.</ls> Vgl. पारतक, पारद ."
+        },
+        {
+            "word": "पारत",
+            "eid": "44615",
+            "pagenum": 4,
+            "content": "2. पारत¦ <lex>m.</lex> = पारद <i>Quecksilber</i> <ls>H. 1050.</ls> <ls>KATHĀS. 37, 232.</ls> — तं ते पारतं <ls>MBH. 1, 1838</ls> verdruckt für तं तपोरतं ."
+        }
     ]
 }

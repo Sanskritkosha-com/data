@@ -29,5 +29,47 @@
             "pagenum": 82,
             "content": "aSva-vid¦ <i>(II) m.</i> a jockey."
         }
+    ],
+    "MW": [
+        {
+            "word": "अश्वविद्",
+            "eid": "20013",
+            "pagenum": 115,
+            "content": "<hom>1.</hom> अश्व—विद् ¦ <lex>m.</lex> (√ <hom>1.</hom> विद्), ‘skilled in training horses’, a <ab>N.</ab> of <s1 slp1='nala'>Nala</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अश्वविद्",
+            "eid": "20014",
+            "pagenum": 115,
+            "content": "<hom>2.</hom> अश्व—वि/द् ¦ <lex>mfn.</lex> (√ <hom>3.</hom> विद्), procuring horses, <ls>RV. ix, 55, 3</ls>; <ls n='RV. ix,'>61, 3.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अश्वविद्",
+            "eid": "11925",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> *अश्वविद्¦ <lex>Adj.</lex> <i>Sich auf Pferde verstehend</i>. <lex>m.</lex> <ab>Bein.</ab> <is>Nala</is>ʼs."
+        },
+        {
+            "word": "अश्वविद्",
+            "eid": "11926",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अश्ववि/द्¦ <lex>Adj.</lex> <i>Rosse verschaffend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अश्वविद्",
+            "eid": "7138",
+            "pagenum": 1,
+            "content": "1. अश्वविद्¦ (अ° + विद् von वेद्मि) <i>ein Kenner der Pferde</i>, ein Bein. des Königs <is>Nala</is> <ls>TRIK. 2, 8, 10.</ls> Vgl. <ls>N. 1, 1.</ls>"
+        },
+        {
+            "word": "अश्वविद्",
+            "eid": "7139",
+            "pagenum": 1,
+            "content": "2. अश्ववि/द्¦ (अ° + विद् von विन्दति) <lex>adj.</lex> <i>Rosse verschaffend</i> <ls>ṚV. 9, 61, 3.</ls>"
+        }
     ]
 }

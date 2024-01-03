@@ -15,5 +15,57 @@
             "pagenum": 20,
             "content": "anAdi-anta¦ <i>a.</i> having neither beginning nor end, eternal."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनाद्यन्त",
+            "eid": "1435",
+            "pagenum": 13,
+            "content": "अनाद्यन्त¦ an-ādi‿anta, <lex>a.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनाद्यन्त",
+            "eid": "5526",
+            "pagenum": 28,
+            "content": "अन्-आद्यन्त ¦ <lex>mfn.</lex> without beginning and end<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनाद्यन्त",
+            "eid": "5527",
+            "pagenum": 28,
+            "content": "अन्-आद्यन्त ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनाद्यन्त",
+            "eid": "3883",
+            "pagenum": 1,
+            "content": "अनाद्यन्त¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <ab>dass.</ab> <ls>Spr. 277</ls>. <ls>ĀRYABH. 3,11</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनाद्यन्त",
+            "eid": "2514",
+            "pagenum": 1,
+            "content": "अनाद्यन्त¦ (3. अ + आद्यन्त [आदि + अन्त]) <div n='1'> 1) <lex>adj.</lex> dass. <div n='1'>— 2) <lex>m.</lex> ein Beiname <is>Śiva's</is> <ls>ŚIV.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अनाद्यन्त",
+            "eid": "3551",
+            "pagenum": 3,
+            "content": "अनाद्यन्त¦, <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>VIṢṆUS. 20,21</ls>."
+        },
+        {
+            "word": "अनाद्यन्त",
+            "eid": "10988",
+            "pagenum": 7,
+            "content": "अनाद्यन्त und °त्व¦ I. 3."
+        }
     ]
 }

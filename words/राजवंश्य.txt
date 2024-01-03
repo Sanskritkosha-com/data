@@ -36,5 +36,35 @@
             "pagenum": 609,
             "content": "rAjan-vaMSya¦ <i>a.</i> one of royal lineage."
         }
+    ],
+    "MW": [
+        {
+            "word": "राजवंश्य",
+            "eid": "176607",
+            "pagenum": 874,
+            "content": "राज—वं°श्य ¦ <lex>mfn.</lex> <ab>id.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "राजवंश्य",
+            "eid": "176608",
+            "pagenum": 874,
+            "content": "राज—वं°श्य ¦ <lex>m.</lex> a <s1 slp1='kzatriya'>Kṣatriya</s1>, <ls>Mcar. 1.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "राजवंश्य",
+            "eid": "93491",
+            "pagenum": 5,
+            "content": "राजवंश्य¦ <lex>Adj.</lex> <i>aus fürstlichem Geschlecht stammend;</i> <lex>m.</lex> <i>ein</i> <is>Kṣatriya</is> <ls>MAHĀVĪRAC. 37,5</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "राजवंश्य",
+            "eid": "84176",
+            "pagenum": 6,
+            "content": "राजवंश्य¦ <lex>adj.</lex> <i>aus fürstlichem Geschlecht stammend</i> <ls>AK. 2, 7, 2.</ls> <ls>H. 713.</ls>"
+        }
     ]
 }

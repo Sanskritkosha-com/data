@@ -31,5 +31,71 @@
             "pagenum": 830,
             "content": "hahA¦ <i>m.</i> Name of a <i>Gandharva</i>. (See हाहा.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "हहा",
+            "eid": "20473",
+            "pagenum": 376,
+            "content": "हहा¦ hahā, <ab>ij.</ab> alas: <b>-hā,</b> <ab>ij.</ab> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "हहा",
+            "eid": "262490",
+            "pagenum": 1296,
+            "content": "<hom>1.</hom> हहा ¦ <lex>ind.</lex> an exclamation (= ‘alas!’ in हहा धिक्), <ls>Ratnāv.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "हहा",
+            "eid": "262491",
+            "pagenum": 1296,
+            "content": "<hom>2.</hom> हहा ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1='ganDarva'>Gandharva</s1> (<ab>mc.</ab> for हाहा), <ls>MBh.</ls>; <ls>R.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हहा",
+            "eid": "54037",
+            "pagenum": 1169,
+            "content": "हहा¦ <i>hahā, ās,</i> m. a kind of Gandharva, q. v.; [cf. 1. <i>hāhā, huhū.</i>]"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "हहा",
+            "eid": "17333",
+            "pagenum": 3,
+            "content": "<i>Hahā</i>¦ — the Gandharva presiding over the month of Śukra;<sup>1</sup> with the sun in summer;<sup>2</sup> expert in divine music.<sup>3</sup> <F>1) Bhā. XII. 11. 36; Br. III. 7. 8.</F> <F>2) Vā. 52. 7.</F> <F>3) Ib. 69. 46.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "हहा",
+            "eid": "134344",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> हहा¦ <ab>Interj.</ab> <i>wehe!</i> हहा धिक् <ls n='Chr.'>326,2</ls>."
+        },
+        {
+            "word": "हहा",
+            "eid": "134345",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> हहा¦ (metrisch) <lex>m.</lex> = हाहा <ab>N. pr.</ab> eines <is>Gandharva</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हहा",
+            "eid": "116715",
+            "pagenum": 7,
+            "content": "1. हहा¦ interj. <i>wehe!</i> <ls>HEM.</ls> <ls>YOGAŚ. 2, 14.</ls> हहाहा <ls>SĀH. D. 16, 8.</ls>"
+        },
+        {
+            "word": "हहा",
+            "eid": "116716",
+            "pagenum": 7,
+            "content": "2. हहा¦ <lex>m.</lex> = हाहा N. pr. eines <is>Gandharva</is>: हहा हुहूः am Ende eines <is>Śloka</is> <ls>MBH. 13, 3887.</ls> <ls n='MBH. 13,'>7639.</ls> so ist auch zu lesen <ls n='MBH.'>3, 1769</ls> (vgl. <ls>INDRAL. 2, 14</ls>). <ls>R. 6, 83, 13.</ls> <ls n='R. 6,'>92, 70.</ls> विश्वावसुहहाहुहून् <ls>R. SCHL. 2, 91, 16.</ls> Wo es das Metrum gestattet, steht überall हाहा ."
+        }
     ]
 }

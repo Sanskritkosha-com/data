@@ -20,5 +20,35 @@
             "pagenum": 406,
             "content": "paRya-AjIva¦ <i>m.</i> a trader."
         }
+    ],
+    "MW": [
+        {
+            "word": "पण्याजीव",
+            "eid": "114641",
+            "pagenum": 580,
+            "content": "paRyA<srs/>jIva ¦ <lex>m.</lex> ‘living by trade’, a tradesman, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पण्याजीव",
+            "eid": "114642",
+            "pagenum": 580,
+            "content": "paRyA<srs/>jIva ¦ <lex>n.</lex> (also -क) a market, <ls>W.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पण्याजीव",
+            "eid": "62446",
+            "pagenum": 4,
+            "content": "*पण्याजीव¦ <lex>m.</lex> <i>Handelsmann</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पण्याजीव",
+            "eid": "41786",
+            "pagenum": 4,
+            "content": "पण्याजीव¦ (1. पण्य + आजीव) <lex>m.</lex> <i>Handelsmann</i> <ls>AK. 2, 9, 79.</ls> <ls>H. 867.</ls> <ls>HALĀY. 2, 416.</ls>"
+        }
     ]
 }

@@ -81,5 +81,69 @@
             "pagenum": 452,
             "content": "pfdAku¦ <i>f.</i> 1. A tiger; 2. a panther; 3. an elephant; 4. a tree; 5. a scorpion; 6. a serpent."
         }
+    ],
+    "MD": [
+        {
+            "word": "पृदाकु",
+            "eid": "11918",
+            "pagenum": 169,
+            "content": "पृदाकु¦ pṛ́dāku, <lex>m.</lex> adder, snake."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पृदाकु",
+            "eid": "128713",
+            "pagenum": 647,
+            "content": "पृ/दाकु ¦ <lex>m.</lex> an adder, viper, snake, <ls>VS.</ls>; <ls>TS.</ls>; <ls>AV.</ls>; <ls>MBh.</ls> (also <lex>°दाकू/ f.</lex>)<info lex='m:f#dAkU'/>"
+        },
+        {
+            "word": "पृदाकु",
+            "eid": "128714",
+            "pagenum": 647,
+            "content": "¦ a tiger or panther, <ls>L.</ls> <info lex='inh'/>"
+        },
+        {
+            "word": "पृदाकु",
+            "eid": "128714.1",
+            "pagenum": 647,
+            "content": "पृदाकु ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>pardus</etym>, <etym>pardalis</etym> &c.]"
+        },
+        {
+            "word": "पृदाकु",
+            "eid": "128715",
+            "pagenum": 647,
+            "content": "¦ an elephant, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पृदाकु",
+            "eid": "128716",
+            "pagenum": 647,
+            "content": "¦ a tree, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पृदाकु",
+            "eid": "29780",
+            "pagenum": 595,
+            "content": "पृदाकु¦ <i>pṛdāku, us,</i> m. or <i>pṛdākū, ūs,</i> f. (said to be fr. rt. <i>pard</i>), an adder, viper, snake, serpent; (<i>us</i>), m. a scorpion; a tiger; a panther (<i>= citraka</i>); an elephant; a tree. <i>—Pṛdāku-sānu, us, us, u,</i> Ved. having a surface like that of a serpent; smooth or variegated or shining like a serpent; (according to Sāy.) having the head uplifted like a serpent."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पृदाकु",
+            "eid": "69579",
+            "pagenum": 4,
+            "content": "पृ/दाकु¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>Natter, Schlange</i>. <div n='2'>— b〉 *<i>Scorpion</i>. <div n='2'>— c〉 *<i>Tiger</i>. <div n='2'>— d〉 *<i>Panther</i>. <div n='2'>— e〉 *<i>Elephant</i>. <div n='2'>— f〉 *<i>Baum</i>. <div n='1'>— 2〉 <lex>f.</lex> पृदाकू/ = 1〉a〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पृदाकु",
+            "eid": "47114",
+            "pagenum": 4,
+            "content": "पृ/दाकु¦ ( <ls>UṆĀDIS. 3, 80</ls>) <lex>m.</lex> und पृदाकू/ <lex>f.</lex> <i>Natter, Schlange</i> <ls>AK. 1, 2, 1, 7.</ls> <ls>H. 1303.</ls> <ls>an. 3, 72.</ls> <ls>MED. k. 125.</ls> <ls>HALĀY. 3, 18.</ls> <ls>AV. 3, 27, 3.</ls> <ls n='AV.'>6, 38, 1.</ls> <ls n='AV.'>10, 4, 11. fgg.</ls> <ls n='AV.'>12, 3, 57.</ls> <ls n='AV.'>1, 27, 1.</ls> <ls n='AV.'>7, 56, 1.</ls> <ls>VS. 6, 12.</ls> <ls n='VS.'>24, 33.</ls> <ls>TS. 5, 5, 10, 1.</ls> <ls>MBH. 3, 12390.</ls> <lex>m.</lex> <i>Scorpion; Tiger; Panther</i> (चित्रक) <ls>H. an.</ls> <ls>MED.</ls> <ls>VIŚVA</ls> bei <ls>UJJVAL.</ls> <i>Elephant; Baum</i> <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

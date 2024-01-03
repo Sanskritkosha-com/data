@@ -35,5 +35,69 @@
             "pagenum": 1461,
             "content": "<b>sá-dāna,</b>¦ <ab>a.</ab>, <i>mit Gaben</i> [dā́na] <i>versehen</i>. <div n='TS'>-as vásiṣṭhas {549,12} (neben sahára-dānas)."
         }
+    ],
+    "MD": [
+        {
+            "word": "सदान",
+            "eid": "18663",
+            "pagenum": 332,
+            "content": "सदान¦ sá-dāna, <lex>a.</lex> 〈1.〉 having gifts (<ab>RV.¹</ab>); 〈2.〉 🞄rutting (<i>elephant</i>; <ab>C.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सदान",
+            "eid": "230700",
+            "pagenum": 1139,
+            "content": "<hom>1.</hom> स/—दान ¦ (स/-), <lex>mfn.</lex> having gifts, with gifts, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सदान",
+            "eid": "230701",
+            "pagenum": 1139,
+            "content": "<hom>2.</hom> स—दान ¦ <lex>mfn.</lex> having ichor (exuding from the temples), being in rut (as an elephant), <ls>Kir.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सदान",
+            "eid": "48942",
+            "pagenum": 1055,
+            "content": "सदान 1¦. <i>sa-dāna, as, ā, am,</i> having gifts, with gifts."
+        },
+        {
+            "word": "सदान",
+            "eid": "48943",
+            "pagenum": 1055,
+            "content": "सदान 2¦. <i>sa-dāna, as, ā, am,</i> having ichor (exuding from the temples), being in rut (as an elephant)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सदान",
+            "eid": "118507",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स/दान¦ <lex>Adj.</lex> <i>Gaben habend</i>."
+        },
+        {
+            "word": "सदान",
+            "eid": "118508",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सदान¦ <lex>Adj.</lex> <i>brünstig</i> (Elephant)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सदान",
+            "eid": "104311",
+            "pagenum": 7,
+            "content": "1. स/दान¦ (2. स + 1. दान) <lex>adj.</lex> <i>Gaben habend</i> <ls>ṚV. 7, 33, 12.</ls>"
+        },
+        {
+            "word": "सदान",
+            "eid": "104312",
+            "pagenum": 7,
+            "content": "2. सदान¦ (2. स + 5. दान) <lex>adj.</lex> <i>brünstig</i>: Elephant <ls>KIR. 5, 9.</ls>"
+        }
     ]
 }

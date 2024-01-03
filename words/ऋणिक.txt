@@ -15,5 +15,51 @@
             "pagenum": 150,
             "content": "fRika¦ <i>m.</i> A debtor."
         }
+    ],
+    "MD": [
+        {
+            "word": "ऋणिक",
+            "eid": "5046",
+            "pagenum": 57,
+            "content": "ऋणिक¦ ṛṇ-ika, <lex>m.</lex> debtor; <b>-in,</b> <lex>a.</lex> indebted; 🞄<lex>m.</lex> debtor."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ऋणिक",
+            "eid": "38908",
+            "pagenum": 226,
+            "content": "ऋणिक ¦ <lex>m.</lex> a debtor, <ls>Yājñ. ii, 56</ls>; <ls n='Yājñ. ii,'>93</ls>; <info lex='m'/>"
+        },
+        {
+            "word": "ऋणिक",
+            "eid": "38908.1",
+            "pagenum": 226,
+            "content": "ऋणिक ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>reus</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऋणिक",
+            "eid": "12631",
+            "pagenum": 180,
+            "content": "<i>Ṛṇika, as,</i>¦ m. a debtor."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऋणिक",
+            "eid": "21427",
+            "pagenum": 1,
+            "content": "ऋणिक¦ <lex>m.</lex> <i>Schuldner</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऋणिक",
+            "eid": "13001",
+            "pagenum": 1,
+            "content": "ऋणिक¦ (von ऋण) <lex>m.</lex> <i>Schuldner</i> <ls>YĀJÑ. 2, 56. 93.</ls>"
+        }
     ]
 }

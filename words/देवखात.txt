@@ -28,5 +28,41 @@
             "pagenum": 342,
             "content": "deva-KAta¦ <i>n.</i> 1. a natural hollow among mountains; 2. a natural pond or reservoir, <ls>M.</ls>iv.203; 3. a pond near a temple."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवखात",
+            "eid": "95581",
+            "pagenum": 492,
+            "content": "देव—खात ¦ <lex>mfn.</lex> ‘dug by the <ab n='gods'>g°</ab>’, hollow by nature<info lex='m:f:n'/>"
+        },
+        {
+            "word": "देवखात",
+            "eid": "95582",
+            "pagenum": 492,
+            "content": "देव—खात ¦ <lex>n.</lex> (<lex type='hwalt'>m.</lex> <ab>Sch.</ab>) a natural pond or reservoir, <ls>VāyuP.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "देवखात",
+            "eid": "95583",
+            "pagenum": 492,
+            "content": "देव—खात ¦ <lex>n.</lex> a cave or cavern, <ls>W.</ls> (-क <lex type='phw'>n.</lex> <ab>id.</ab>, <ls>L.</ls>)<info phwchild='95583.1'/><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवखात",
+            "eid": "52181",
+            "pagenum": 3,
+            "content": "देवखात¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>von den Göttern gegraben,</i> so <ab>v. a.</ab> <i>von Natur ausgehöhlt</i>. <div n='1'>— 2〉 *<lex>f.</lex> आ (संज्ञायाम्). <div n='1'>— 3〉 (*<lex>n.</lex>) <i>ein natürlicher Wasserbehälter</i> <ls>VP. 3,11,24</ls> (<lex>m.</lex> nach dem <ab>Comm.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवखात",
+            "eid": "34411",
+            "pagenum": 3,
+            "content": "देवखात¦ (देव + खात) <lex>adj.</lex> <i>von den Göttern gegraben</i> <ab>d. i.</ab> <i>von Natur ausgehöhlt</i>: °विल <ls>AK. 2, 3, 6.</ls> <lex>n.</lex> <i>ein natürlicher Wasserbehälter</i> <ls>H. 1034.</ls> नदीषु देवखातेषु तडागेषु सरित्सु च । स्नानं समाचरेत् <ls>M. 4, 203.</ls> <ls>YĀJÑ. 1, 159.</ls> स्नायीत देवखातेषु गङ्गाह्रदसरित्सु च <ls>MĀRK. P. 35, 32.</ls> °तीर्थ N. pr. eines <is>Tīrtha</is> <ls>ŚIVA-P.</ls> in <ls>Verz. d. Oxf. H. 67,b,1.</ls> देवखाता <lex>f.</lex> (संज्ञायाम्) <ls>P. 6, 2, 148</ls>, <ls>Sch.</ls> देवखातक <lex>n.</lex> = देवखात <lex>n.</lex> <ls>AK. 1, 2, 3, 27.</ls>"
+        }
     ]
 }

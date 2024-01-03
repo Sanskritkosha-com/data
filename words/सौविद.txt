@@ -60,5 +60,37 @@
             "pagenum": 800,
             "content": "sOvida¦ <i>m.</i> An attendant on the women’s apartments."
         }
+    ],
+    "MW": [
+        {
+            "word": "सौविद",
+            "eid": "253974",
+            "pagenum": 1255,
+            "content": "सौविद ¦ <lex>m.</lex> (<ab>fr.</ab> सुविद) a guard or attendant on the women's apartments, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सौविद",
+            "eid": "52928",
+            "pagenum": 1140,
+            "content": "सौविद¦ <i>sauvida, as,</i> m. (fr. <i>su-vida</i>), a guard or attendant on the women's apartments."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सौविद",
+            "eid": "130163",
+            "pagenum": 7,
+            "content": "*सौविद¦ <lex>m.</lex> <i>Haremswärter</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सौविद",
+            "eid": "113366",
+            "pagenum": 7,
+            "content": "सौविद¦ <lex>m.</lex> <i>Haremswächter</i> <ls>AK. 2, 8, 1, 8.</ls> <ls>H. 727.</ls> <ls>HALĀY. 2, 272.</ls>"
+        }
     ]
 }

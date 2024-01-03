@@ -29,5 +29,69 @@
             "pagenum": 90,
             "content": "ahuta¦ <i>(II) m.</i> Religious meditation, prafer and study of the Veda (together called ब्रह्मयज्ञ) See <ls>M.</ls>iii.73, 74."
         }
+    ],
+    "MD": [
+        {
+            "word": "अहुत",
+            "eid": "3343",
+            "pagenum": 36,
+            "content": "अहुत¦ á-huta, <ab>pp.</ab> not sacrificed <i>or</i> offered; 🞄<lex>m.</lex> muttered prayer."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अहुत",
+            "eid": "21949",
+            "pagenum": 125,
+            "content": "अ/-हुत ¦ <lex>mfn.</lex> unoffered, not yet offered (as a sacrificial oblation), <ls>AV. xii, 4, 53</ls>; <ls>ŚBr.</ls>; <ls>Mn. xii, 68</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अहुत",
+            "eid": "21950",
+            "pagenum": 125,
+            "content": "¦ one who has not received any sacrifice, <ls>AV. vii, 97, 7</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अहुत",
+            "eid": "21951",
+            "pagenum": 125,
+            "content": "¦ (the fire) through or in which no sacrificial oblation has been offered, <ls>Āp.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अहुत",
+            "eid": "21952",
+            "pagenum": 125,
+            "content": "¦ not obtained by sacrifice, <ls>AV. vi, 71, 2</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अहुत",
+            "eid": "21953",
+            "pagenum": 125,
+            "content": "अ/-हुत ¦ <lex>m.</lex> religious meditation, prayer (considered as one of the five great sacraments, otherwise called <s1 slp1='brahma-yajYa'>Brahma-yajña</s1>), <ls>Mn. iii, 73</ls> <ab>seq.</ab><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अहुत",
+            "eid": "7793",
+            "pagenum": 110,
+            "content": "अहुत¦ <i>a-huta, as, ā, am</i> (rt. <i>hu</i>), unsacrificed, unoffered, not yet sacrificed; one who has not received any sacrifice; not gained or obtained by sacrifice; (<i>as</i>), m. religious meditation, prayer, and study of the Veda, considered as one of the five great sacraments, otherwise called Brahma-yajña. <i>—A-hutād</i> <i>(°ta-ad), t, t, t,</i> Ved. not eating of a sacrifice; not allowed to partake of a sacrifice."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अहुत",
+            "eid": "13282",
+            "pagenum": 1,
+            "content": "अ/हुत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>nicht geopfert, — dargebracht, noch nicht geopfert</i>. <div n='2'>— b〉 <i>dem nicht geopfert worden ist</i>. <div n='2'>— c〉 <i>worin (Feuer) nicht geopfert worden ist</i> <ls>ĀPAST. 2,7,15</ls>. <div n='2'>— d〉 <i>nicht eropfert, — durch Opfer erlangt</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>ein leise hergesagtes Gebet</i> <ls>M. 3,73. 74</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अहुत",
+            "eid": "7732",
+            "pagenum": 1,
+            "content": "अ/हुत¦ (3. अ + हुत) <lex>adj.</lex> <div n='1'> 1) <i>nicht geopfert, nicht dargebracht, noch nicht geopfert</i> <ls>AV. 12, 4, 53.</ls> हविषो ऽहुतस्य नाश्नीयात् <ls>ŚAT. BR. 3, 6, 3, 21. 2, 5, 3, 17. 4, 5, 2, 16. 9, 5, 1, 19. 23.</ls> अहुताभ्युदिते <ls>KĀTY. ŚR. 25, 4, 10.</ls> अहुतं च हुतं चैव तथा प्रहुतमेव च । ब्राह्म्यं हुतं प्राशितं च पञ्च यज्ञान्प्रचक्षते ॥ जपो ऽहुतो हुतो होमः u. s. w. <ls>M. 3, 73.</ls> <ls n='KĀTY. ŚR. 3,'>74.</ls> अहुतं हविः <ls n='M.'>12, 68.</ls> <div n='1'>— 2) <i>dem nicht geopfert worden ist</i> <ls>AV. 7, 97, 7.</ls> <div n='1'>— 3) <i>nicht eropfert, nicht durch Opfer erlangt</i>: यन्मा^ हु\\तं यदहु^तमाज\\गाम^ <ls>AV. 6, 71, 2.</ls>"
+        }
     ]
 }

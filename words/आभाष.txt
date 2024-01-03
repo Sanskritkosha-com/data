@@ -23,5 +23,69 @@
             "pagenum": 103,
             "content": "ABAza¦ <i>m.</i> An introduction, a preface."
         }
+    ],
+    "MD": [
+        {
+            "word": "आभाष",
+            "eid": "3698",
+            "pagenum": 40,
+            "content": "आभाष¦ ā-bhāṣ-a, <lex>m.</lex> speech; saying, proverb; 🞄<b>-aṇa,</b> <lex>n.</lex> conference; addressing; <b>-ya,</b> 🞄<ab>fp.</ab> worthy of being addressed."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आभाष",
+            "eid": "25242",
+            "pagenum": 145,
+            "content": "आ-भाष ¦ <lex>m.</lex> speech, talking<info lex='m'/>"
+        },
+        {
+            "word": "आभाष",
+            "eid": "25243",
+            "pagenum": 145,
+            "content": "¦ addressing, <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आभाष",
+            "eid": "25244",
+            "pagenum": 145,
+            "content": "¦ a saying, proverb<info lex='inh'/>"
+        },
+        {
+            "word": "आभाष",
+            "eid": "25245",
+            "pagenum": 145,
+            "content": "¦ introduction, preface, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आभाष",
+            "eid": "8829",
+            "pagenum": 124,
+            "content": "<i>Ā-bhāṣa, as,</i>¦ m. addressing; introduction, preface."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आभाष",
+            "eid": "15067",
+            "pagenum": 1,
+            "content": "आभाष¦ <lex>m.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <div n='1'>— 1〉 <i>Rede, Sprache</i>. <div n='1'>— 2〉 <i>Spruch, Sprichwort</i> <ls>Spr. 1409</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आभाष",
+            "eid": "8854",
+            "pagenum": 1,
+            "content": "आभाष¦ (von भाष् mit आ) <lex>m.</lex> <i>Anrede, Rede</i>: आभाषस्ते किमु न विदितः खण्डितः पण्डितः स्यात् <ls>ŚĀNTIŚ. 3, 18.</ls> मधुराभाष <lex>adj.</lex> <ls>R. 3, 26, 12.</ls> <lex>f.</lex> आ <ls n='R.'>5, 67, 15.</ls> <ls n='R.'>6, 10, 15.</ls>"
+        },
+        {
+            "word": "आभाष",
+            "eid": "66623",
+            "pagenum": 5,
+            "content": "आभाष¦ bedeutet an der ersten Stelle (vgl. <ls>Spr. 3839</ls>) <i>Spruch, Sprichwort.</i> समाभाष <i>gleiche Sprache redend</i> <ls>R. 7, 30, 19.</ls>"
+        }
     ]
 }

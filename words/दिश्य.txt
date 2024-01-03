@@ -44,5 +44,57 @@
             "pagenum": 333,
             "content": "diSya¦ <i>a. (f. श्या)</i> Belonging to or born in any quarter of the compass."
         }
+    ],
+    "MD": [
+        {
+            "word": "दिश्य",
+            "eid": "9329",
+            "pagenum": 120,
+            "content": "दिश्य¦ díś-ya, <lex>a.</lex> belonging <i>or</i> referring to 🞄the quarters <i>or</i> horizon; foreign (<i>ware</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दिश्य",
+            "eid": "92614",
+            "pagenum": 480,
+            "content": "दि/श्य ¦ <lex>mfn.</lex> relating to the quarters of the sky or to the horizon, being there, <ls>ĀśvGṛ.</ls>; <ls>Kauś.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "दिश्य",
+            "eid": "92615",
+            "pagenum": 480,
+            "content": "¦ relating to space, <ls>Kaṇ. ii, 2, 10</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दिश्य",
+            "eid": "92616",
+            "pagenum": 480,
+            "content": "¦ foreign, outlandish, <ls>Śiś. iii, 76</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दिश्य",
+            "eid": "22400",
+            "pagenum": 415,
+            "content": "<i>Diśya, as, ā, am,</i>¦ relating or belonging to the quarters of the sky or to the horizon; situated towards any particular point, lying in a particular tract or quarter, bearing in a particular direction or towards a particular point of the compass [cf. <i>pūrva-d°</i>]; N. of a particular kind of brick used in constructing an altar."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिश्य",
+            "eid": "50433",
+            "pagenum": 3,
+            "content": "दि/श्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>auf die Himmelsgegenden, den Horizont bezüglich, denselben gehörig, dort befindlich</i>. <div n='2'>— b〉 <i>dem Raum eigen</i>. <div n='2'>— c〉 <i>der Fremde angehörig, ausländisch</i> (Waare) <ls>ŚIŚ. 3,76</ls>. <div n='1'>— 2〉 <lex>f.</lex> आ <ab>Bez.</ab> <i>bestimmter Backsteine</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिश्य",
+            "eid": "33072",
+            "pagenum": 3,
+            "content": "दि/श्य¦ (von 2. दिश्) <lex>adj.</lex> <i>auf die Himmelsgegenden, den Horizont bezüglich, denselben gehörig, dort befindlich</i> <ls>P. 4, 3, 54.</ls> <ls>AK. 1, 1, 2, 3.</ls> <ls>H. 168.</ls> ये दिव्या ये दिश्याः (सर्पाः) <ls>ĀŚV. GṚHY. 2, 1.</ls> बलि <ls>KAUŚ. 8. 51. 66. 127.</ls> Bez. <i>gewisser Backsteine beim Altarbau</i> <ls>ŚAT. BR. 10, 4, 3, 16.</ls> <ls n='ŚAT. BR.'>6, 2, 3, 4.</ls> <ls>KĀTY. ŚR. 17, 9, 2.</ls>"
+        }
     ]
 }

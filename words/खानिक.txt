@@ -23,5 +23,43 @@
             "pagenum": 227,
             "content": "KAnika¦ <i>m.n.</i> A hole in a wall."
         }
+    ],
+    "MW": [
+        {
+            "word": "खानिक",
+            "eid": "61328",
+            "pagenum": 337,
+            "content": "खानिक ¦ <lex>n.</lex> an opening in a wall, breach, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खानिक",
+            "eid": "16738",
+            "pagenum": 273,
+            "content": "<i>Khānika, am,</i>¦ n. an opening or hole in a wall, a breach."
+        }
+    ],
+    "PW": [
+        {
+            "word": "खानिक",
+            "eid": "33767",
+            "pagenum": 2,
+            "content": "*खानिक¦ <lex>n.</lex> <i>Bresche</i>."
+        },
+        {
+            "word": "खानिक",
+            "eid": "33768",
+            "pagenum": 2,
+            "content": "*खानिक¦ <lex>n.</lex> <i>Bresche</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खानिक",
+            "eid": "21179",
+            "pagenum": 2,
+            "content": "खानिक¦ (von खान) <lex>n.</lex> <i>eine in einer Mauer gegrabene Oeffnung, Bresche</i> <ls>TRIK. 2, 10, 9.</ls>"
+        }
     ]
 }

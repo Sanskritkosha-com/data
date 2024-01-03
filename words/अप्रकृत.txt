@@ -29,5 +29,55 @@
             "pagenum": 43,
             "content": "aprakfta¦ <i>(II) n.</i> The standard of comparison, i.e. उपमान (in rhetoric)."
         }
+    ],
+    "MW": [
+        {
+            "word": "अप्रकृत",
+            "eid": "10472",
+            "pagenum": 57,
+            "content": "अ-प्रकृत ¦ <lex>mfn.</lex> not principal, not relevant to the main topic under discussion, not chief<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अप्रकृत",
+            "eid": "10473",
+            "pagenum": 57,
+            "content": "¦ occasional or incidental<info lex='inh'/>"
+        },
+        {
+            "word": "अप्रकृत",
+            "eid": "10474",
+            "pagenum": 57,
+            "content": "¦ not natural.<info lex='inh'/>"
+        },
+        {
+            "word": "अप्रकृत",
+            "eid": "10474.1",
+            "pagenum": 1314,
+            "content": "¦ not being in question, not belonging to the matter, <ls>KātyŚr.</ls><info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अप्रकृत",
+            "eid": "3860",
+            "pagenum": 57,
+            "content": "<i>A-prakṛta, as, ā, am,</i>¦ not principal, not relevant to the main topic under discussion, not chief; occasional or incidental, not natural."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अप्रकृत",
+            "eid": "6690",
+            "pagenum": 1,
+            "content": "अप्रकृत¦ <lex>Adj.</lex> <i>wovon nicht die Rede ist, nicht hingehörig</i> <ls>CARAKA. 1,29. 3,8</ls>. Dazu <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>JAIM. 2,2,10. 15</ls>. <ls>KĀTY. ŚR. 6,7,2</ls> <ab>v. l.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अप्रकृत",
+            "eid": "118411",
+            "pagenum": 7,
+            "content": "अप्रकृत¦ <lex>adj.</lex> <i>nicht hingehörig, wovon nicht die Rede ist</i>: अप्रकृते प्रकृतान्तरे वा <i>ganz ohne Anlass oder an unrechter Stelle</i> <ls>CARAKA 1, 29.</ls>"
+        }
     ]
 }

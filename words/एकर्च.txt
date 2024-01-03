@@ -7,5 +7,41 @@
             "pagenum": 100,
             "content": "एकर्च/¦ <lex>a.</lex> consisting of one verse; <lex>n.</lex> such a hymn."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकर्च",
+            "eid": "39542",
+            "pagenum": 229,
+            "content": "एक—°र्च/ ¦ <lex>m.</lex> (एक-ऋच) <lex type='hw'>n.</lex> a single verse <ab>g.</ab> arDarcA<srs/>di, <ls>Pāṇ. ii, 4, 31</ls> [<ls>T.</ls>]<info lex='m:n'/>"
+        },
+        {
+            "word": "एकर्च",
+            "eid": "39542.1",
+            "pagenum": 229,
+            "content": "एक—°र्च/ ¦ <lex>mfn.</lex> consisting of only one verse, <ls>ŚBr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकर्च",
+            "eid": "39542.2",
+            "pagenum": 229,
+            "content": "एक—°र्च/ ¦ <lex>n.</lex> a <s1 slp1='sUkta'>Sūkta</s1> of only one verse, <ls>AV. xix, 23, 20.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकर्च",
+            "eid": "21909",
+            "pagenum": 1,
+            "content": "एकर्च/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>aus einem Verse bestehend</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>ein aus einem Verse bestehendes Lied</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकर्च",
+            "eid": "13338",
+            "pagenum": 1,
+            "content": "एकर्च/¦ (एक + ऋच) <div n='1'> 1) <lex>adj.</lex> <i>aus einem Verse bestehend</i> <ls>ŚAT. BR. 10, 1, 2, 9.</ls> <div n='1'>— 2) <lex>n.</lex> <i>ein aus einem Verse bestehendes Lied</i> <ls>AV. 19, 23, 20.</ls>"
+        }
     ]
 }

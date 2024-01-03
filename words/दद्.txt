@@ -55,5 +55,61 @@
             "pagenum": 324,
             "content": "dad¦ <i>vt. 1A (pres. ददते)</i> To give."
         }
+    ],
+    "MW": [
+        {
+            "word": "दद्",
+            "eid": "89874",
+            "pagenum": 467,
+            "content": "दद् <hom>a</hom> ¦ <ab>cl.</ab> 1. °दति See √ दा<info whitneyroots='dA1,71'/><info verb='root' cp='1'/>"
+        },
+        {
+            "word": "दद्",
+            "eid": "89874.1",
+            "pagenum": 467,
+            "content": "दद् <hom>b</hom> ¦ <lex>mfn.</lex> <ab>ifc.</ab> See आयुर्द/द्.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दद्",
+            "eid": "21823",
+            "pagenum": 399,
+            "content": "दद् 1¦. <i>dad,</i> a reduplicated form substituted for rt. 1. <i>dā,</i> to give, before certain affixes and terminations (Pāṇ. VI. 4, 126; VII. 4, 46; VIII. 2, 38), and by some grammarians given as a separate rt.: cl. 1. A. <i>dadate,</i> &c., to give, (see rt. 1. <i>dā.</i>)"
+        },
+        {
+            "word": "दद्",
+            "eid": "21826",
+            "pagenum": 400,
+            "content": "2. <i>dad,</i>¦ giving, in <i>āyur-dad.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दद्",
+            "eid": "48733",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> दद्¦ <ab>s.</ab> <hom>1.</hom> दा."
+        },
+        {
+            "word": "दद्",
+            "eid": "48734",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> दद्¦ <lex>Adj.</lex> <i>gebend, verleihend</i> in आयुर्द/द्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दद्",
+            "eid": "31826",
+            "pagenum": 3,
+            "content": "1. दद्¦ reduplic. Nebenform von 1. दा; s. dass."
+        },
+        {
+            "word": "दद्",
+            "eid": "31827",
+            "pagenum": 3,
+            "content": "2. दद्¦ (= 1. दद् = दा) <lex>adj.</lex> <i>gebend</i> in आयुर्दद् ."
+        }
     ]
 }

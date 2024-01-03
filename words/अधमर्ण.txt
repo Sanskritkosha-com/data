@@ -52,5 +52,35 @@
             "pagenum": 14,
             "content": "aDama-fRa¦ <i>m.</i> a debtor."
         }
+    ],
+    "MW": [
+        {
+            "word": "अधमर्ण",
+            "eid": "3963",
+            "pagenum": 19,
+            "content": "अधम—र्ण (ऋ) or अधम—र्णिक (ऋ), ¦ <lex>m.</lex> one reduced to inferiority by debt, a debtor.<info or='3963,aDamarRa;3964,aDamarRika'/><info lex='m'/>"
+        },
+        {
+            "word": "अधमर्ण",
+            "eid": "3970",
+            "pagenum": 19,
+            "content": "अधम-र्ण <hom>b</hom> ¦ &c. See अधम/."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अधमर्ण",
+            "eid": "2706",
+            "pagenum": 1,
+            "content": "अधमर्ण und अधमर्णिक¦ <lex>m.</lex> <i>Schuldner</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अधमर्ण",
+            "eid": "1864",
+            "pagenum": 1,
+            "content": "अधमर्ण¦ (अधम + ऋण) <lex>m.</lex> <i>Schuldner</i> (Gegens. उत्तमर्ण <i>Gläubiger</i>) <ls>AK. 2, 9, 5.</ls> <ls>H. 882.</ls> <ls>M. 8, 47. 52.</ls>"
+        }
     ]
 }

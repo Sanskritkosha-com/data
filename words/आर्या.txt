@@ -70,5 +70,33 @@
             "pagenum": 108,
             "content": "AryA¦ <i>f.</i> 1. A name of Pārvatī; 2. a mother-in-law; 3. a respectable lady; 4. a kind of metre. (See App. I.)"
         }
+    ],
+    "MW": [
+        {
+            "word": "आर्या",
+            "eid": "26550",
+            "pagenum": 152,
+            "content": "आ/र्या ¦ <lex>f.</lex> a name of <s1 slp1='pArvatI'>Pārvatī</s1>, <ls>Hariv.</ls><info lex='f'/>"
+        },
+        {
+            "word": "आर्या",
+            "eid": "26551",
+            "pagenum": 152,
+            "content": "¦ a kind of metre of two lines (each line consisting of seven and a half feet; each foot containing four instants, except the sixth of the second line, which contains only one, and is therefore a single short syllable; hence there are thirty instants in the first line and twenty-seven in the second); <info lex='inh'/>"
+        },
+        {
+            "word": "आर्या",
+            "eid": "26551.1",
+            "pagenum": 1320,
+            "content": "¦ (also) <ab>N.</ab> of a <s1 slp1='stotra'>Stotra</s1> &c.<info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "आर्या",
+            "eid": "1395",
+            "pagenum": 1,
+            "content": "<i>Āryā</i>¦ — Dvaipāyanī — a R. visited by Balarāma. <div n='P'/>Bhā. X. 79. 20."
+        }
     ]
 }

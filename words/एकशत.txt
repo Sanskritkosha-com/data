@@ -35,5 +35,49 @@
             "pagenum": 297,
             "content": "<b>éka-śata,</b>¦ <ab>n.</ab>, <i>hundertundeins</i>. <div n='TS'>-am {956,1} devakarmébhis."
         }
+    ],
+    "MD": [
+        {
+            "word": "एकशत",
+            "eid": "5086",
+            "pagenum": 58,
+            "content": "एकशत¦ éka-śata, <lex>n.</lex> a hundred and one; 🞄<lex>a.</lex> 101st; <b>-tama,</b> <lex>a.</lex> <ab>id.</ab>; <b>-śapha,</b> <lex>a.</lex> (<b>é-</b>) one-hoofed, 🞄having an uncloven hoof; <lex>m.</lex> animal 🞄with uncloven hoof; <lex>n.</lex> the genus of solid-hoofed 🞄animals; <b>-śas,</b> <lex>ad.</lex> singly; <b>-śeṣa,</b> <lex>m.</lex> 🞄sole remainder; ellipse by which <i>only</i> <i>of 🞄two or more words</i> remains (<ab>e. g.</ab> <ab>du.</ab> <i>or</i> <ab>pl.</ab>); 🞄<lex>a.</lex> sole remaining, with the sole exception of 🞄(<ab>—°</ab>); <b>-śruta-dhara,</b> <lex>a.</lex> remembering what 🞄one has heard once: <b>-tva,</b> <lex>n.</lex> <ab>abst. ɴ.</ab>; <b>-śruti,</b> 🞄<lex>f.</lex> monotony; <lex>a.</lex> monotonous; <b>-śruṣṭi,</b> <lex>a.</lex> (<b>é-</b>) 🞄obeying one behest; <b>-ṣaṣ-ṭá,</b> <lex>a.</lex> 61st; 🞄<b>-ṣaṣṭi,</b> <lex>f.</lex> ¤61¤: <b>-tama,</b> <lex>a.</lex> 61st."
+        }
+    ],
+    "MW": [
+        {
+            "word": "एकशत",
+            "eid": "39635",
+            "pagenum": 229,
+            "content": "एक—शत ¦ <lex>n.</lex> 101<info lex='n'/>"
+        },
+        {
+            "word": "एकशत",
+            "eid": "39636",
+            "pagenum": 229,
+            "content": "एक—शत ¦ <lex>mf(आ)n.</lex> the 101st, <ls>MBh. iii, 101</ls><info lex='m:f#A:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकशत",
+            "eid": "21976",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> ए/कशत¦ <lex>n.</lex> <i>hundertundeins</i>. ऋषभैकशतं गाः <i>hundert Kühe und einen Stier</i> <ls>MBH. 12,165,57</ls>."
+        },
+        {
+            "word": "एकशत",
+            "eid": "21977",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> एकशत¦ <lex>Adj.</lex> <i>der hundertunderste</i> Am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> आ <ls>GAUT.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकशत",
+            "eid": "13375",
+            "pagenum": 1,
+            "content": "ए/कशत¦ (एक + शत) <lex>n.</lex> <i>hundert und eins</i>: एक^शत\\ं विष्क^न्धानि <ls>AV. 3, 9, 6.</ls> <ls n='AV.'>5, 18, 12.</ls> <ls n='AV.'>7, 115, 3.</ls> ये मृ\\त्यव\\ एक^शतम् <ls n='AV.'>8, 2, 27.</ls> <ls n='AV.'>11, 6, 16.</ls> <ls n='AV.'>19, 46, 5.</ls> <ls>ŚAT. BR. 10, 2, 6, 10.</ls> <ls n='ŚAT. BR.'>13, 2, 1, 6.</ls> <ls>BHĀG. P. 9, 16, 29</ls> (<ls>BURNOUF</ls> fäschlich: <i>ein Hundert</i>). एकशतं गवाम् <ls>M. 11, 129.</ls> °विध <lex>adj.</lex> <i>101fach</i> <ls>ŚAT. BR. 10, 2, 3, 7. 17, 6, 1.</ls> Davon एकशत <lex>adj.</lex> <i>der 101ste</i> <ls>MBH. 3, 101</ls> in der Unterschr. एकशततम/ dass. <ls>ŚAT. BR. 10, 2, 4, 3. 6, 1, 2.</ls> <ls>R. 6, 101</ls> in der Unterschr. एकशतधा/ adv. <i>104fach, in 101 Theile</i> <ls>ŚAT. BR. 10, 2, 4, 1. fgg.</ls>"
+        }
     ]
 }

@@ -23,5 +23,53 @@
             "pagenum": 125,
             "content": "uttara-kAla¦ <i>m.</i> future time."
         }
+    ],
+    "MW": [
+        {
+            "word": "उत्तरकाल",
+            "eid": "31185",
+            "pagenum": 178,
+            "content": "उत्तर—काल ¦ <lex>m.</lex> future time<info lex='m'/>"
+        },
+        {
+            "word": "उत्तरकाल",
+            "eid": "31186",
+            "pagenum": 178,
+            "content": "¦ time reckoned from full moon to full moon<info lex='inh'/>"
+        },
+        {
+            "word": "उत्तरकाल",
+            "eid": "31188",
+            "pagenum": 178,
+            "content": "उत्तर—काल ¦ <lex>mfn.</lex> future, <ls>MBh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उत्तरकाल",
+            "eid": "18139",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> उत्तरकाल¦ <lex>m.</lex> <i>Folgezeit</i>. °म् <lex>Adv.</lex> <i>später, nach;</i> die Ergänzung im <ab>Abl.</ab> oder im <ab>Comp.</ab> vorangehend. °तस् <i>nach,</i> mit <ab>Gen.</ab>"
+        },
+        {
+            "word": "उत्तरकाल",
+            "eid": "18140",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> उत्तरकाल¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>bevorstehend, zukünftig</i> <ls>MBH. 3,181,23. 9,62,23</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उत्तरकाल",
+            "eid": "67627",
+            "pagenum": 5,
+            "content": "1. उत्तरकाल¦ (1. उ° + काल) <lex>m.</lex> <i>zeitliche Folge</i>: °तस् <i>nach</i> (zeitlich), mit gen. <ls>PAÑCAR. 1, 12, 1.</ls>"
+        },
+        {
+            "word": "उत्तरकाल",
+            "eid": "67628",
+            "pagenum": 5,
+            "content": "2. उत्तरकाल¦ (wie eben) <lex>adj.</lex> <i>die Zukunft betreffend</i>: कार्याणि <ls>MBH. 9, 3482.</ls>"
+        }
     ]
 }

@@ -20,5 +20,29 @@
             "pagenum": 248,
             "content": "gfha-ArAma¦ <i>m.</i> a garden attached to a house."
         }
+    ],
+    "MW": [
+        {
+            "word": "गृहाराम",
+            "eid": "66680",
+            "pagenum": 362,
+            "content": "gfhA<srs/>rAma ¦ <lex>m.</lex> = °ह-वाटिका, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गृहाराम",
+            "eid": "36313",
+            "pagenum": 2,
+            "content": "*गृहाराम¦ <lex>m.</lex> <i>ein am Hause gelegener Garten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गृहाराम",
+            "eid": "22945",
+            "pagenum": 2,
+            "content": "गृहाराम¦ (गृह + आराम) <lex>m.</lex> <i>ein zum Hause gehöriger Garten</i> <ls>AK. 2, 4, 1, 1.</ls> <ls>H. 1112.</ls>"
+        }
     ]
 }

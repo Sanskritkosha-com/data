@@ -23,5 +23,41 @@
             "pagenum": 284,
             "content": "janman-sTAna¦ <i>n.</i> birthplace, native country."
         }
+    ],
+    "MW": [
+        {
+            "word": "जन्मस्थान",
+            "eid": "77084",
+            "pagenum": 411,
+            "content": "जन्म—स्थान ¦ <lex>n.</lex> = -क्षेत्र, <ls>W.</ls><info lex='n'/>"
+        },
+        {
+            "word": "जन्मस्थान",
+            "eid": "77085",
+            "pagenum": 411,
+            "content": "¦ = -भू, <ls>Pañcat. v, 6, 2/3</ls>; <ls>Vet.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जन्मस्थान",
+            "eid": "77086",
+            "pagenum": 411,
+            "content": "¦ the womb, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जन्मस्थान",
+            "eid": "41658",
+            "pagenum": 2,
+            "content": "जन्मस्थान¦ <lex>n.</lex> <i>Geburtsstätte, Heimat</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जन्मस्थान",
+            "eid": "26621",
+            "pagenum": 3,
+            "content": "जन्मस्थान¦ (ज° + स्थान) <lex>n.</lex> <i>Geburtsort, Heimath</i> <ls>PAÑCAT. 247, 4.</ls> <ls>VET. 12, 13.</ls>"
+        }
     ]
 }

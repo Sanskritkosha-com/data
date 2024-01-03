@@ -39,5 +39,89 @@
             "pagenum": 80,
             "content": "aSIta¦ <i>a. (f. ता)</i> Not cool, hot."
         }
+    ],
+    "MD": [
+        {
+            "word": "अशीत",
+            "eid": "3036",
+            "pagenum": 32,
+            "content": "अशीत¦ <hom>1.</hom> aśīta, <lex>a.</lex> eightieth."
+        },
+        {
+            "word": "अशीत",
+            "eid": "3037",
+            "pagenum": 32,
+            "content": "अशीत¦ <hom>2.</hom> a-śīta, <lex>a.</lex> not cold, hot: <b>-kara, -marīci, -ruc, -ruci,</b> <lex>m.</lex> sun."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अशीत",
+            "eid": "19577",
+            "pagenum": 113,
+            "content": "<hom>1.</hom> अ-शीत ¦ <lex>mfn.</lex> not cold, warm, hot.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अशीत",
+            "eid": "19583",
+            "pagenum": 113,
+            "content": "<hom>2.</hom> अशीत ¦ <lex>mfn.</lex> <ab>ifc.</ab> ‘the eightieth’, see अर्वाग्-अशीत/.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अशीत",
+            "eid": "7209",
+            "pagenum": 100,
+            "content": "अशीत 1¦. <i>aśīta, as, ī, am,</i> the eightieth."
+        },
+        {
+            "word": "अशीत",
+            "eid": "7212",
+            "pagenum": 100,
+            "content": "अशीत 2¦. <i>a-śīta, as, ā, am,</i> not cold, warm, hot. <i>—Aśīta-kara, as,</i> or <i>aśīta-ruc, k,</i> m. the sun, ‘having hot rays.’"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अशीत",
+            "eid": "11562",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अशीत¦ <lex>Adj.</lex> <i>der 80ste</i>."
+        },
+        {
+            "word": "अशीत",
+            "eid": "11563",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अशीत¦ <lex>Adj.</lex> <i>nicht kalt</i> <ls>TARKAS. 14</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अशीत",
+            "eid": "6921",
+            "pagenum": 1,
+            "content": "अशीत¦ (von अशीति) <lex>adj.</lex> <i>der 80ste</i>: अर्वागशीत <i>dem 80sten vorangehend</i> <ls>ŚAT. BR.</ls>"
+        },
+        {
+            "word": "अशीत",
+            "eid": "65695",
+            "pagenum": 5,
+            "content": "अशीत¦ Z. 2 lies अर्वागशीत/ <i>weniger als 80</i> <ls>ŚAT. BR. 10, 2, 6, 8.</ls>"
+        },
+        {
+            "word": "अशीत",
+            "eid": "65696",
+            "pagenum": 5,
+            "content": "अशीत¦ (3. अ + शीत) <lex>adj.</lex> <i>heiss</i>: °रुचि <lex>m.</lex> <i>die Sonne</i> <ls>ŚIŚ. 9, 5.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अशीत",
+            "eid": "13354",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> अशीत¦ I. °म् <lex>Adv.</lex> <i>heiss</i> (aufseufzen) <ls>R. ed. Bomb. 3,61,28</ls>."
+        }
     ]
 }

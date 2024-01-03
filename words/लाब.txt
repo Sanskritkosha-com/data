@@ -31,5 +31,51 @@
             "pagenum": 624,
             "content": "lAba¦ <i>m.</i> A sort of quail."
         }
+    ],
+    "MD": [
+        {
+            "word": "लाब",
+            "eid": "15567",
+            "pagenum": 262,
+            "content": "लाब¦ lāba, <lex>m.</lex> <i>kind of</i> quail (<zoo>Pardix chinensis</zoo>): 🞄<b>-ka,</b> <lex>m.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "लाब",
+            "eid": "182241",
+            "pagenum": 900,
+            "content": "लाब ¦ <lex>m.</lex> (often written लाव) <bot>Perdix Chinensis</bot>, <ls>R.</ls>; <ls>Suśr.</ls> (also <lex type='hwalt'>f(आ). </lex>)<info lex='m:f#A'/>"
+        },
+        {
+            "word": "लाब",
+            "eid": "182241.1",
+            "pagenum": 900,
+            "content": "¦ a <ab>partic.</ab> gait, <ls>Saṃgīt.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लाब",
+            "eid": "40381",
+            "pagenum": 865,
+            "content": "लाब¦ <i>lāba</i> (often written <i>lāva</i>), <i>as,</i> m. <i>=</i> <i>laba,</i> a sort of quail, Perdix Chinensis; (<i>ā</i>), f. the female of this bird. <i>—Lābākṣa (°ba-ak°)</i> or <i>lā-</i> <i>bākṣaka, as,</i> m. ‘quail-eyed,’ a kind of rice."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लाब",
+            "eid": "96075",
+            "pagenum": 5,
+            "content": "लाब¦ <lex>m.</lex> <div n='1'>— 1〉 <i>eine Art Wachtel, <bot>Perdix chinensis</bot></i> <ls>RĀJAN. 19,122</ls>. Auch *<lex>f.</lex> लाबा. <div n='1'>— 2〉 <i>eine <ab>best.</ab> Gangart</i> <ls>S. S. S. 253</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लाब",
+            "eid": "86265",
+            "pagenum": 6,
+            "content": "लाब¦ <lex>m.</lex> = लब <i>eine Art Wachtel, Perdix chinensis</i> <ls>AK. 2, 5, 25.</ls> यदन्तरं बर्हिणलाबयोर्भवेत् <ls>R. 3, 53, 58.</ls> <ls>SUŚR. 1, 73, 7. 200, 20. 2, 59, 13. 364, 2. 412, 3. 441, 15. 480, 2.</ls> Auch लाबा <lex>f.</lex> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> Fast überall लाव geschrieben."
+        }
     ]
 }

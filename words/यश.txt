@@ -7,5 +7,75 @@
             "pagenum": 445,
             "content": "<b>Yaśa</b>¦, see <b>Yaśas</b>."
         }
+    ],
+    "MW": [
+        {
+            "word": "यश",
+            "eid": "170843",
+            "pagenum": 848,
+            "content": "यश <hom>a</hom>, ¦ यशः &c. See below."
+        },
+        {
+            "word": "यश",
+            "eid": "170870",
+            "pagenum": 848,
+            "content": "यश <hom>b</hom> ¦ <lex>mfn.</lex> (<ab>ifc.</ab>) = यशस् (See अति-यश). <info lex='m:f:n'/>"
+        },
+        {
+            "word": "यश",
+            "eid": "170871",
+            "pagenum": 848,
+            "content": "यशः ¦ in <ab>comp.</ab> for यशस्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "यश",
+            "eid": "38474",
+            "pagenum": 812,
+            "content": "यश¦ <i>yaśa.</i> See col. 3."
+        },
+        {
+            "word": "यश",
+            "eid": "38477",
+            "pagenum": 812,
+            "content": "<i>Yaśa</i>¦ at the end of a comp. <i>= yaśas,</i> cf. <i>ati-y°;</i> <i>(am),</i> n., N. of a Sāman."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "यश",
+            "eid": "11243",
+            "pagenum": 3,
+            "content": "<i>Yaśa</i> (I)¦ — a son of Kīrti. <div n='P'/>Br. II. 9. 62; Vā. 10. 37."
+        },
+        {
+            "word": "यश",
+            "eid": "11244",
+            "pagenum": 3,
+            "content": "<i>Yaśa</i> (II)¦ — a Vaikuṇṭha god. <div n='P'/>Br. II. 36. 57; Vā. 62. 9."
+        },
+        {
+            "word": "यश",
+            "eid": "11245",
+            "pagenum": 3,
+            "content": "<i>Yaśa</i> (III)¦ — one of the twenty Sutapa gaṇas. <div n='P'/>Vā. 100. 15; Br. IV. 1. 15."
+        }
+    ],
+    "PW": [
+        {
+            "word": "यश",
+            "eid": "90524",
+            "pagenum": 5,
+            "content": "यश¦ = यशस् in अतियश."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यश",
+            "eid": "81741",
+            "pagenum": 6,
+            "content": "यश¦ am Ende eines <lex>adj.</lex> comp. = यशस् in अति° und सु° . <lex>n.</lex> यशम् (<ls>BENFEY</ls>None vermuthet यशस्) N. eines <is>Sāman</is> <ls>Ind. St. 3, 230,a</ls>; vgl. कार्त° ."
+        }
     ]
 }

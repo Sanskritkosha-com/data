@@ -36,5 +36,37 @@
             "pagenum": 87,
             "content": "<i>deva-cchanda</i>¦ (SII 2), name of a jewel."
         }
+    ],
+    "MD": [
+        {
+            "word": "देवच्छन्द",
+            "eid": "9559",
+            "pagenum": 124,
+            "content": "देवच्छन्द¦ deva-cchanda, <lex>m.</lex> pearl necklace 🞄of ¤81¤ strings; <b>-ja,</b> <lex>a.</lex> god-begotten; <b>-janá,</b> 🞄<lex>m.</lex> (<ab>gnly.</ab> <ab>pl.</ab>) divine host; host of demons <i>or</i> 🞄(<ab>esp.</ab>) serpents; <b>-jā́,</b> <lex>a.</lex> god-begotten, — born; 🞄<b>-jātá,</b> <lex>n.</lex> race <i>or</i> class of gods."
+        }
+    ],
+    "MW": [
+        {
+            "word": "देवच्छन्द",
+            "eid": "95630",
+            "pagenum": 493,
+            "content": "देव—च्छन्द ¦ <lex>m.</lex> a necklace of pearls (composed of 100 or 103 or 81 or 108 strings), <ls>VarBṛS. lxxxi, 32</ls>; <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवच्छन्द",
+            "eid": "52213",
+            "pagenum": 3,
+            "content": "देवच्छन्द¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein Perlenschmuck aus 81 (*100, *103 oder *108) Schnüren</i> <ls>PAÑCAD.</ls> <div n='1'>— 2〉 von unbekannter <ab>Bed.</ab> <ls>HEM. PAR. 1,33</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवच्छन्द",
+            "eid": "34434",
+            "pagenum": 3,
+            "content": "देवच्छन्द¦ (देव + छन्द) <lex>m.</lex> <i>ein Perlenschmuck von 100 Schnüren</i> <ls>AK. 2, 6, 3, 6.</ls> <ls>H. 658.</ls> <i>aus 81 Schnüren</i> <ls>VARĀH. BṚH. S. 82</ls> (<ls n='VARĀH. BṚH. S.'>80,b),32.</ls> nach Andern <i>aus 103</i> ( <ls>COLEBR.</ls> und <ls>LOIS.</ls> zu <ls>AK.</ls> <ls>WILS.</ls>) oder 108 (<ls>ŚKDR.).</ls>"
+        }
     ]
 }

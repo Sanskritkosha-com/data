@@ -23,5 +23,35 @@
             "pagenum": 225,
             "content": "Kaqga-Dara¦ <i>m.</i> a swordsman."
         }
+    ],
+    "MW": [
+        {
+            "word": "खड्गधर",
+            "eid": "61014",
+            "pagenum": 335,
+            "content": "खड्ग—धर ¦ <lex>m.</lex> a swordsman, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "खड्गधर",
+            "eid": "61015",
+            "pagenum": 335,
+            "content": "¦ <ab>N.</ab> of a soldier, <ls>Kathās.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खड्गधर",
+            "eid": "33300",
+            "pagenum": 2,
+            "content": "खड्गधर¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>ein Schwert tragend</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines Kriegers."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खड्गधर",
+            "eid": "72235",
+            "pagenum": 5,
+            "content": "खड्गधर¦ <lex>adj.</lex> <i>ein Schwert tragend</i>; <lex>m.</lex> N. pr. eines Kriegers <ls>KATHĀS. 52, 103.</ls> <ls n='KATHĀS.'>83, 27.</ls>"
+        }
     ]
 }

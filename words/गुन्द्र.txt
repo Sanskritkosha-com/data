@@ -36,5 +36,57 @@
             "pagenum": 109,
             "content": "गुन्द्र¦ <i>m.</i>, आ <i>f. Pflanzennamen.</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "गुन्द्र",
+            "eid": "7015",
+            "pagenum": 85,
+            "content": "गुन्द्र¦ gundra, <lex>m.</lex>, <b>ā,</b> <lex>f.</lex> <i>names of plants</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गुन्द्र",
+            "eid": "65889",
+            "pagenum": 358,
+            "content": "गुन्द्र ¦ <lex>m.</lex> <bot>Saccharum Sara</bot> (शर), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गुन्द्र",
+            "eid": "65890",
+            "pagenum": 358,
+            "content": "¦ the plant <s1 slp1='pawaraka'>Paṭaraka</s1>, <ls>Bhpr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गुन्द्र",
+            "eid": "65891",
+            "pagenum": 358,
+            "content": "गुन्द्र ¦ <lex>mn.</lex> the root of <bot>Cyperus pertenuis</bot>, <ls>L.</ls><info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गुन्द्र",
+            "eid": "17494",
+            "pagenum": 292,
+            "content": "गुन्द्र¦ <i>gundra, as,</i> m. a kind of grass, Saccharum Sara (<i>śara</i>); N. of a plant, <i>= paṭaraka,</i> <i>accha, śṛṅgaverāhva, mūlaka; (ā),</i> f., N. of several plants and roots, <i>= bhadra-mustaka,</i> the root of the grass Cyperus Pertenuis (also m. and n. in this sense); <i>= mustaka; = priyaṅgu; = kaivartī,</i> Cyperus Rotundus; <i>= erakā; = gavedhukā,</i> Coix Barbata."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गुन्द्र",
+            "eid": "35857",
+            "pagenum": 2,
+            "content": "गुन्द्र¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 *<i><bot>Saccharum Sara</bot></i>. <div n='2'>— b〉 <i>eine andere Pflanze,</i> = पटरक <ls>BHĀVAPR. 2,210</ls>. <div n='1'>— 2〉 (*<lex>m.</lex>) <lex>f.</lex> आ und (*<lex>n.</lex>) <i>die Wurzel von <bot>Cyperus pertenuis</bot></i>. <div n='1'>— 3〉 <lex>f.</lex> आ <div n='2'>— a〉 <i><bot>Typha angustifolia</bot></i> <ls>BHĀVAPR. 1,210</ls>. <div n='2'>— b〉 *<i><bot>Cyperus rotundus</bot></i>. <div n='2'>— c〉 *<i><bot>Coix barbata</bot></i>. <div n='2'>— d〉 *<i>Fennich</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गुन्द्र",
+            "eid": "22665",
+            "pagenum": 2,
+            "content": "गुन्द्र¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) N. eines Grases, <i>Saccharum Sara</i> (शर) <i>Roxb.</i>, <ls>AK. 2, 4, 5, 27.</ls> <ls>TRIK. 3, 3, 345.</ls> <ls>H. 1192.</ls> <ls>an. 2, 410.</ls> <ls>MED. r. 24.</ls> <div n='2'>— b) N. einer anderen Pflanze, = पटरक, अच्छ, शृङ्गवेराह्व, मूलक <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> आ N. verschiedener Pflanzen und Wurzeln: <div n='2'> a) = भद्रमुस्तक <i>die Wurzel von Cyperus pertenuis Roxb.</i> (einem Grase) <ls>AK. 2, 4, 5, 25.</ls> <ls>H. 1193.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>SUŚR. 1, 137, 19. 145, 22. 2, 100, 20. 115, 6. 208, 9. 323, 16.</ls> In dieser Bed. auch <lex>m.</lex> und <lex>n.</lex> <ls>TRIK. 3, 3, 345.</ls> <div n='2'>— b) = मुस्तक <ls>H. an.</ls> <div n='2'>— c) = प्रियंगु <ls>AK. 2, 4, 2, 36.</ls> <ls>TRIK. 3, 3, 303.</ls> <ls>H. an.</ls> <ls>MED.</ls> <div n='2'>— d) = कैवर्ती <i>Cyperus rotundus</i> <ls>H. an.</ls> <div n='2'>— e) = एरका <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls> <div n='2'>— f) = गवेधुका <i>Coix barbata Roxb.</i> <ls>RATNAM. 313.</ls> — सगुन्द्राः काशाः कुशा वा <ls>VARĀH. BṚH. S. 53, 101 (102).</ls>"
+        }
     ]
 }

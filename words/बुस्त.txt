@@ -31,5 +31,43 @@
             "pagenum": 511,
             "content": "busta¦ <i>n.</i> Baked flesh."
         }
+    ],
+    "MW": [
+        {
+            "word": "बुस्त",
+            "eid": "146015",
+            "pagenum": 735,
+            "content": "बुस्त ¦ <lex>m.</lex> <lex type='hw'>n.</lex> (<ab>g.</ab> arDarcA<srs/>di) the burnt exterior of roast meat, <ls>L.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "बुस्त",
+            "eid": "146016",
+            "pagenum": 735,
+            "content": "¦ the husk or shell of fruit, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "बुस्त",
+            "eid": "34825",
+            "pagenum": 687,
+            "content": "बुस्त¦ <i>busta, as, am,</i> m. n. the burnt exterior of roast meat; the husk or shell of fruit; [cf. <i>custa.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बुस्त",
+            "eid": "77391",
+            "pagenum": 4,
+            "content": "*बुस्त¦ <lex>m.</lex> <lex>n.</lex> <div n='1'>— 1〉 <i>die Kruste bei gebratenem Fleische</i>. <div n='1'>— 2〉 <i>die Schale von Früchten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बुस्त",
+            "eid": "52971",
+            "pagenum": 5,
+            "content": "बुस्त¦ <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> अर्धर्चादि zu <ls>P. 2, 4, 31.</ls> <ls>AK. 3, 6, 4, 34.</ls> <ls>SIDDH. K. 251,a,2</ls> v. u. <i>Kruste bei gebratenem Fleische; Schale bei Früchten</i> <ls>BHAR.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> <div n='v'>— Vgl. चुस्त ."
+        }
     ]
 }

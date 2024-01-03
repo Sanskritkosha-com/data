@@ -28,5 +28,35 @@
             "pagenum": 518,
             "content": "<b>Nīlavāsas</b>¦ (“dressed in dark clothes”) = Balarāma: I, 7950; IX, 2137, 3126."
         }
+    ],
+    "MW": [
+        {
+            "word": "नीलवासस्",
+            "eid": "111625",
+            "pagenum": 566,
+            "content": "नील—वासस् ¦ <lex>mfn.</lex> dressed in dark-blue clothes, <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "नीलवासस्",
+            "eid": "111626",
+            "pagenum": 566,
+            "content": "नील—वासस् ¦ <lex>m.</lex> the planet Saturn, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नीलवासस्",
+            "eid": "60733",
+            "pagenum": 3,
+            "content": "नीलवासस्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>in ein blaues Gewand gehüllt</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>der Planet Saturn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नीलवासस्",
+            "eid": "40553",
+            "pagenum": 4,
+            "content": "नीलवासस्¦ (नील + वा°) <div n='1'> 1) <lex>adj.</lex> <i>in ein blaues Gewand gekleidet</i> <ls>BHĀG. P. 5, 25, 7.</ls> <div n='1'>— 2) <lex>m.</lex> <i>der Planet Saturn</i> <ls>TRIK. 1, 1, 94.</ls> <ls>H. 121</ls>; vgl. नीलवसन ."
+        }
     ]
 }

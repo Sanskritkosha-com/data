@@ -23,5 +23,51 @@
             "pagenum": 233,
             "content": "घोषक¦ <i>ghoṣaka</i> <ab>m.</ab> la plante nommée <i>ghoṣa.</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "घोषक",
+            "eid": "7299",
+            "pagenum": 89,
+            "content": "घोषक¦ ghoṣa-ka, <lex>m.</lex> crier, bell-man."
+        }
+    ],
+    "MW": [
+        {
+            "word": "घोषक",
+            "eid": "69894",
+            "pagenum": 378,
+            "content": "घोषक ¦ <lex>m.</lex> <ab>ifc.</ab> a crier, proclaimer (<ab>e.g.</ab> पटह-, <ab>q.v.</ab>)<info lex='m'/>"
+        },
+        {
+            "word": "घोषक",
+            "eid": "69895",
+            "pagenum": 378,
+            "content": "¦ the creeping plant <bot>Luffa foetida</bot> or a similar plant, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "घोषक",
+            "eid": "17991",
+            "pagenum": 308,
+            "content": "<i>Ghoṣaka, as,</i>¦ m. a crier, a proclaimer (e. g. in <i>paṭaha-gh°,</i> q. v.); the creeping plant Luffa Fœtida or a similar plant. <i>—Ghoṣakākṛti (°ka-āk°), is,</i> m. a plant with white blossoms, similar to the Ghoshaka, and perhaps a species of it, commonly called Hātīghoṣa."
+        }
+    ],
+    "PW": [
+        {
+            "word": "घोषक",
+            "eid": "38133",
+            "pagenum": 2,
+            "content": "घोषक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Ausrufer</i>. <div n='1'>— 2〉 *<i><bot>Luffa foetida</bot> oder eine verwandte Pflanze</i> <ls>Comm. zu CARAKA. 1,1</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "घोषक",
+            "eid": "24225",
+            "pagenum": 2,
+            "content": "घोषक¦ (wie eben) <lex>m.</lex> <div n='1'> 1) <i>Ausrufer</i>: पटह° <i>der durch eine Trommel die Leute zusammenruft</i> <ls>KATHĀS. 24, 60.</ls> <ls n='KATHĀS.'>26, 95.</ls> <div n='1'>— 2) <i>Luffa foetida Cav.</i> oder <i>eine ähnliche Pflanze</i> <ls>AK. 2, 4, 4, 5.</ls>"
+        }
     ]
 }

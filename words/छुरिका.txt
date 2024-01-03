@@ -74,5 +74,51 @@
             "pagenum": 281,
             "content": "CurikA¦ <i>f.</i> A knife."
         }
+    ],
+    "MD": [
+        {
+            "word": "छुरिका",
+            "eid": "7774",
+            "pagenum": 97,
+            "content": "छुरिका¦ chur-ikā, <lex>f.</lex> knife."
+        }
+    ],
+    "MW": [
+        {
+            "word": "छुरिका",
+            "eid": "76093",
+            "pagenum": 407,
+            "content": "छुरिका ¦ <lex>f.</lex> (<ab>fr.</ab> क्षुर्°) a knife, <ls>Kathās. xii</ls>, <ls n='Kathās.'>xxv</ls>; <ls>Vet. <ab>Introd.</ab> 30/31 iv, 26/27 f.</ls><info lex='f'/>"
+        },
+        {
+            "word": "छुरिका",
+            "eid": "76094",
+            "pagenum": 407,
+            "content": "¦ <bot>Beta bengalensis</bot>, <ls>Bhpr. v, 9, 16.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छुरिका",
+            "eid": "19146",
+            "pagenum": 334,
+            "content": "<i>Churikā,</i>¦ f. a knife."
+        }
+    ],
+    "PW": [
+        {
+            "word": "छुरिका",
+            "eid": "41176",
+            "pagenum": 2,
+            "content": "छुरिका¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Messer</i>. *°फल <lex>n.</lex> <i>Messerklinge</i> <ls>MED. j. 25</ls>. <div n='1'>— 2〉 <i><bot>Beta bengalensis</bot></i> <ls>BHĀVAPR. 1,282</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छुरिका",
+            "eid": "26280",
+            "pagenum": 2,
+            "content": "छुरिका¦ (von छुरी) <lex>f.</lex> <i>Messer</i> <ls>AK. 2, 8, 2, 60.</ls> <ls>VYUTP. 141.</ls> <ls>KATHĀS. 12, 21.</ls> <ls n='KATHĀS.'>25, 149.</ls> <ls>VET. 5, 6. 33, 13. 16.</ls>"
+        }
     ]
 }

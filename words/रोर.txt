@@ -15,5 +15,33 @@
             "pagenum": 369,
             "content": "रो/र¦ <i>m.</i> ein best. Körperteil."
         }
+    ],
+    "MW": [
+        {
+            "word": "रोर",
+            "eid": "179998",
+            "pagenum": 890,
+            "content": "<hom>1.</hom> रो/र ¦ <lex>m.</lex> a <ab>partic.</ab> part of the body, <ls>MaitrS.</ls> (<ab>du.</ab>), <ls>VS.</ls> (= अंस-ग्रन्थि, <ls>Mahīdh.</ls>)<info lex='m'/>"
+        },
+        {
+            "word": "रोर",
+            "eid": "179999",
+            "pagenum": 890,
+            "content": "<hom>2.</hom> रोर or रौर ¦ <lex>m.</lex> a worker, labourer (?), <ls>HPariś.</ls><info or='179999,rora;179999.1,rOra'/><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रोर",
+            "eid": "95092",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> रो/र¦ <lex>m.</lex> <i>ein <ab>best.</ab> Körpertheil</i> (= अंसग्रन्थि <ls>MAHĪDH.</ls>). <ab>Du.</ab> <ls>MAITR. S. 3,15,3</ls> = <ls>VS. 25,3</ls>."
+        },
+        {
+            "word": "रोर",
+            "eid": "95093",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> रोर¦ <lex>m.</lex> <i>Arbeiter</i> (?) <ls>HEM. PAR. 13,291</ls>. रौर <ls>8,72</ls>."
+        }
     ]
 }

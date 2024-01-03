@@ -21,5 +21,49 @@
             "pagenum": 97,
             "content": "अनुभू¦ Tatpur. m. f. n. (-भूः-भूः-भु) Perceiving, knowing. E. भू with अनु, kṛt aff. क्विप्."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनुभू",
+            "eid": "6915",
+            "pagenum": 36,
+            "content": "अनु-√ भू <hom>a</hom> ¦ to enclose, embrace, <ls>ChUp.</ls>; <div n='to'/>to be after, attain, equal, <ls>RV.</ls> &c.; <div n='to'/>to be useful, to help, <ls>ŚBr.</ls>; <ls>ŚāṅkhŚr.</ls>; <div n='to'/>to turn or incline to, <ls>RV. x, 147, 1</ls> <pb n='36,3'/>; <div n='to'/>to notice, perceive, understand; <div n='to'/>to experience, to attempt.<info verb='pre' cp='' parse='anu+BU'/>"
+        },
+        {
+            "word": "अनुभू",
+            "eid": "6932",
+            "pagenum": 36,
+            "content": "अनु-भू <hom>b</hom> ¦ <lex>mfn.</lex> perceiving, understanding (<ab>ifc.</ab>)<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुभू",
+            "eid": "2420",
+            "pagenum": 37,
+            "content": "अनुभू¦ <i>anu-bhū,</i> cl. 1. P. <i>-bhavati, -vitum,</i> to be after, to notice, perceive, understand; to experience, to attempt."
+        },
+        {
+            "word": "अनुभू",
+            "eid": "2426",
+            "pagenum": 37,
+            "content": "<i>Anu-bhū, ūs, ūs, u,</i>¦ perceiving, understanding."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुभू",
+            "eid": "4679",
+            "pagenum": 1,
+            "content": "अनुभू¦ <lex>Adj.</lex> <i>wahrnehmend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुभू",
+            "eid": "2900",
+            "pagenum": 1,
+            "content": "अनुभू¦ (von भू mit अनु) <lex>adj.</lex> <i>sehend, wahrnehmend</i>: अयमात्मा ब्रह्म सर्वानुभूः <ls>BṚH. ĀR. UP. 2, 5, 19.</ls>"
+        }
     ]
 }

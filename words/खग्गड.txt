@@ -7,5 +7,37 @@
             "pagenum": 441,
             "content": "खग्गडः¦ A kind of reed."
         }
+    ],
+    "MW": [
+        {
+            "word": "खग्गड",
+            "eid": "60855",
+            "pagenum": 334,
+            "content": "खग्गड ¦ <lex>m.</lex> <ab>id.</ab>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खग्गड",
+            "eid": "16644",
+            "pagenum": 272,
+            "content": "खग्गड¦ <i>khaggaḍa, as,</i> m. a kind of reed, Saccharum Spontaneum, commonly <i>khāgḍā.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खग्गड",
+            "eid": "33201",
+            "pagenum": 2,
+            "content": "*खग्गड¦ <lex>m.</lex> <i><bot>Saccharum spontaneum</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खग्गड",
+            "eid": "20777",
+            "pagenum": 2,
+            "content": "खग्गड¦ <lex>m.</lex> <i>Saccharum spontaneum Lin.</i> (vulg. खाग्डा) <ls>RATNAM.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. खगोड ."
+        }
     ]
 }

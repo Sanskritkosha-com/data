@@ -59,5 +59,63 @@
             "pagenum": 129,
             "content": "udan¦ <i>n.</i> Water.<P>(This word has no forms for the first five cases and is rarely used by itself. It is found only at the beginning, (with the final न् dropped), or at the end of compounds. It is not a separate word but only a substitute for उदक according to some authorities.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "उदन्",
+            "eid": "4480",
+            "pagenum": 50,
+            "content": "उदन्¦ ud-án, <lex>n.</lex> wave; water."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उदन्",
+            "eid": "32229",
+            "pagenum": 183,
+            "content": "<hom>1.</hom> उद/न् ¦ (for <hom>2.</hom> See <ab>s.v.</ab>) <lex>n.</lex> <ab>Ved.</ab> (defective in the strong cases, <ls>Pāṇ. vi, 1, 63</ls>) a wave, water, <ls>RV.</ls>; <ls>AV.</ls>; <ls>TS.</ls>; <ls>Kāṭh.</ls><info lex='n'/>"
+        },
+        {
+            "word": "उदन्",
+            "eid": "32327",
+            "pagenum": 184,
+            "content": "<hom>2.</hom> उद्-√ अन् ¦ (for <hom>1.</hom> See <pcol>p. 183, col. 3</pcol>) <ab>P.</ab> -अनिति (and आनिति, <ls>BṛĀrUp. iii, 4, 1</ls>; <ab>cf.</ab> व्य्-√ अन्; <ab>p.</ab> -अन/त्, <ls>ŚBr.</ls>; <ab>aor.</ab> 3. <ab>pl.</ab> -आनिषुस्, <ls>AV. iii, 13, 4</ls>) <div n='to'/>to breathe upwards, emit the breath in an upward direction; <div n='to'/>to breathe out, breathe, <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>BṛĀrUp.</ls><info verb='pre' cp='P' parse='ud+an'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उदन्",
+            "eid": "10673",
+            "pagenum": 153,
+            "content": "1. <i>udan,</i>¦ n. (not used in the nom. sing. du. plur. and the acc. sing. and du.), Ved. a wave, water. <i>—Udan-vat, ān, atī, at,</i> Ved. wavy, watery, abounding in water; (<i>ān</i>), m. the ocean; N. of a Ṛṣi."
+        },
+        {
+            "word": "उदन्",
+            "eid": "10695",
+            "pagenum": 153,
+            "content": "<i>Udan</i>¦ 2. <i>ud-an,</i> cl. 2. P. <i>-aniti, -nitum,</i> to breathe upwards, emit the breath in an upward direction; to breathe."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उदन्",
+            "eid": "18679",
+            "pagenum": 1,
+            "content": "उद/न्¦ <lex>n.</lex> <i>Wasserwoge, Wasser</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उदन्",
+            "eid": "11208",
+            "pagenum": 1,
+            "content": "उद/न्¦ (von 2. उद्) <lex>n.</lex> <i>Wasserwoge, Wasser</i>; im nom. aller Zahlen und im acc. sg. und du. nicht im Gebrauch <ls>P. 6, 1, 63.</ls> <ls>VOP. 3, 39. 89.</ls> उ\\दभि\\र्व्यु^न्दन्ति\\ भूम^ <ls>ṚV. 1, 85, 5.</ls> उ\\दन् <ls n='ṚV. 1,'>104, 3.</ls> <ls n='ṚV. 1, 104,'>4.</ls> उ\\दनि^ <ls n='ṚV. 1,'>116, 24.</ls> क्षोद^सो\\द्भः <ls n='ṚV. 1,'>112, 12.</ls> <ls n='ṚV.'>10, 68, 5.</ls> <ls n='ṚV. 10, 68,'>8.</ls> उ\\द्भो ह्र\\दम^पिबत् <ls n='ṚV. 10,'>102, 4.</ls> <ls n='ṚV.'>5, 41, 14.</ls> उ\\देव\\ यन्त^ उ\\दभि^ः <ls n='ṚV.'>8, 87, 7.</ls> उ\\द्भा न नाव^मनयन्त\\ धीरा^ः <ls n='ṚV.'>5, 45, 10.</ls> <ls n='ṚV. 5,'>85, 6.</ls> <ls n='ṚV.'>8, 89, 9.</ls> <ls n='ṚV. 8,'>32, 25.</ls> <ls n='ṚV.'>7, 65, 4.</ls> <ls>AV. 7, 45, 2.</ls> <ls>TS. 3, 5, 5, 2.</ls> <div n='v'>— Vgl. उद, उदक ."
+        },
+        {
+            "word": "उदन्",
+            "eid": "67821",
+            "pagenum": 5,
+            "content": "उदन्¦, उद्भ/स् gen. sg. <ls>TS. 2, 4, 8, 1.</ls> <ls>KĀṬH. 11, 9.</ls>"
+        }
     ]
 }

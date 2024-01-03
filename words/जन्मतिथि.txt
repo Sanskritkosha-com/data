@@ -15,5 +15,29 @@
             "pagenum": 284,
             "content": "janman-tiTi¦ <i>m.f.</i> birth-day."
         }
+    ],
+    "MW": [
+        {
+            "word": "जन्मतिथि",
+            "eid": "77048",
+            "pagenum": 411,
+            "content": "जन्म—तिथि ¦ <lex>mf.</lex> (<ls>L.</ls>) birthday, <ls>ŚāṅkhGṛ. i, 25.</ls><info lex='m:f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जन्मतिथि",
+            "eid": "41633",
+            "pagenum": 2,
+            "content": "जन्मतिथि¦ (*<lex>m.</lex> *<lex>f.</lex>) <i>Geburtstag</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जन्मतिथि",
+            "eid": "26604",
+            "pagenum": 3,
+            "content": "जन्मतिथि¦ (जन्मन् + तिथि) <lex>m.</lex> <i>Geburtstag</i> <ls>ŚĀṄKH. GṚHY. 1, 25.</ls>"
+        }
     ]
 }

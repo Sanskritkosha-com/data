@@ -15,5 +15,35 @@
             "pagenum": 210,
             "content": "kopa-vega¦ <i>m.</i> violence."
         }
+    ],
+    "MW": [
+        {
+            "word": "कोपवेग",
+            "eid": "56596",
+            "pagenum": 313,
+            "content": "कोप—वेग ¦ <lex>m.</lex> impetuosity of anger or passion, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कोपवेग",
+            "eid": "56597",
+            "pagenum": 313,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='fzi'>Ṛṣi</s1>, <ls>MBh. ii, 111.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कोपवेग",
+            "eid": "31107",
+            "pagenum": 2,
+            "content": "कोपवेग¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Ṛṣi</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कोपवेग",
+            "eid": "19335",
+            "pagenum": 2,
+            "content": "कोपवेग¦ (कोप + वेग) <lex>m.</lex> N. pr. eines <is>Ṛṣi</is> (<i>Zorn-Ungestüm</i>) <ls>MBH. 2, 111.</ls>"
+        }
     ]
 }

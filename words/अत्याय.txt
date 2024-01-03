@@ -31,5 +31,43 @@
             "pagenum": 12,
             "content": "atyAya¦ <i>m.</i> Transgression, excess."
         }
+    ],
+    "MW": [
+        {
+            "word": "अत्याय",
+            "eid": "3328",
+            "pagenum": 16,
+            "content": "अत्य्-आय <hom>a</hom> ¦ See <ab>s.v.</ab>"
+        },
+        {
+            "word": "अत्याय",
+            "eid": "3474",
+            "pagenum": 17,
+            "content": "अत्य्-आ/य <hom>b</hom> ¦ <lex>m.</lex> (√ इ), the act of going beyond, transgression, excess, <ls>Pāṇ. iii, 1, 141</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अत्याय",
+            "eid": "915",
+            "pagenum": 17,
+            "content": "अत्याय¦ <i>aty-āya, as,</i> m. (fr. rt. <i>i</i> with <i>ati</i>), transgression, excess; (<i>as, ā, am</i>), going beyond, transgressing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अत्याय",
+            "eid": "2295",
+            "pagenum": 1,
+            "content": "*अत्याय¦ <lex>m.</lex> <ab>Nom.</ab> <ab>act.</ab> <ls>P. 3,1,141</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अत्याय",
+            "eid": "1589",
+            "pagenum": 1,
+            "content": "अत्या/य¦ (von इ mit अति) <div n='1'> 1) <lex>adj.</lex> <i>überschreitend</i> <ls>P. 3, 1, 141.</ls> <ls>VOP. 26, 37.</ls> <div n='1'>— 2) <lex>m.</lex> <i>das Ueberschreiten</i>: प्र\\जा ह^ ति\\स्रो अ\\त्याय^मीयु\\र्न्य१^\\न्या अ\\र्कम\\भितो^ विविश्रे <ls>ṚV. 8, 90, 14.</ls>"
+        }
     ]
 }

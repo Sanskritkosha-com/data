@@ -52,5 +52,55 @@
             "pagenum": 829,
             "content": "havya-vAha¦ <i>m.</i> fire, (the bearer of oblations)."
         }
+    ],
+    "MW": [
+        {
+            "word": "हव्यवाह",
+            "eid": "262007",
+            "pagenum": 1294,
+            "content": "हव्य—वाह/ ¦ <lex>mfn.</lex> (or -वा/ह) = -वह् (also applied to the <s1 slp1='aSvatTa'>Aśvattha</s1> tree of whose wood the <s1 slp1='araRi'>Araṇi</s1> is made), <ls>AV.</ls>; <ls>TBr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "हव्यवाह",
+            "eid": "262007.1",
+            "pagenum": 1294,
+            "content": "हव्य—वाह/ ¦ <lex>m.</lex> <s1 slp1='agni'>Agni</s1> or fire, <ls>MBh.</ls>; <ls>MārkP.</ls><info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "हव्यवाह",
+            "eid": "17308",
+            "pagenum": 3,
+            "content": "<i>Havyavāha</i> (I)¦ — a son of Suci Agni; the agni of devas. <div n='P'/>Br. II. 12. 5. Vā. 29. 4, 5."
+        },
+        {
+            "word": "हव्यवाह",
+            "eid": "17309",
+            "pagenum": 3,
+            "content": "<i>Havyavāha</i> (II)¦ — one of the ten kalas energising Agni. <div n='P'/>Br. IV. 35. 83."
+        },
+        {
+            "word": "हव्यवाह",
+            "eid": "17310",
+            "pagenum": 3,
+            "content": "<i>Havyavāhas</i>¦ — those charged with different directions. <div n='P'/>Vā. 69. 67."
+        }
+    ],
+    "PW": [
+        {
+            "word": "हव्यवाह",
+            "eid": "134134",
+            "pagenum": 7,
+            "content": "हव्यवाह/ (°वा/ह <ls>AV. 18,4,1</ls>)¦ <div n='1'>— 1〉 <lex>Adj.</lex> = हव्यव/ह् 1〉. Auch als <ab>Beiw.</ab> des <is>Aśvattha</is>, weil er die <is>Araṇi</is> liefert. <div n='1'>— 2〉 <lex>m.</lex> <i>Feuer, der Gott des Feuers</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हव्यवाह",
+            "eid": "116537",
+            "pagenum": 7,
+            "content": "हव्यवाह/¦ <lex>adj.</lex> = हव्यवह् . <is>Agni</is> <ls>MBH. 5, 486.</ls> अवा^ड्ढ\\व्येषि\\तो ह^व्यवा\\हः (°वाह^ः Hdschrr.) <ls>AV. 18, 4, 1.</ls> दे\\वाना^ं भि\\षजौ^ <ls>TBR. 3, 1, 2, 11.</ls> der <is>Aśvattha</is>, weil er die <is>Araṇi</is> liefert, <ls n='TBR.'>1, 2, 1, 8.</ls> m. <i>Feuer</i>, <is>Agni</is> <ls>H. 1099.</ls> <ls>RATNAM.</ls> im <ls>ŚKDR.</ls> <ls>MBH. 1, 2113.</ls> <ls n='MBH.'>3, 15597.</ls> <ls n='MBH.'>14, 245.</ls> <ls>Spr. (II) 7350, v. l.</ls> <ls>MĀRK. P. 62, 4. 99, 61.</ls>"
+        }
     ]
 }

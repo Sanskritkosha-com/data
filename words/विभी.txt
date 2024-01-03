@@ -31,5 +31,49 @@
             "pagenum": 410,
             "content": "विभी¦ furchtlos."
         }
+    ],
+    "MW": [
+        {
+            "word": "विभी",
+            "eid": "193330",
+            "pagenum": 951,
+            "content": "वि—भी <hom>a</hom> ¦ <lex>mfn.</lex> fearless, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विभी",
+            "eid": "198367",
+            "pagenum": 978,
+            "content": "वि-√ भी <hom>b</hom> ¦ <ab>P.</ab> -बिभेति, to be afraid of, fear, <ls>MBh.</ls>; <ls>MārkP.</ls> : <div n='vp'/><ab>Caus.</ab> -भीषयति, °ते, to frighten, terrify, intimidate, <ls>RV.</ls>; <ls>TS.</ls>; <ls>MBh.</ls><info verb='pre' cp='P' parse='vi+BI'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विभी",
+            "eid": "43458",
+            "pagenum": 931,
+            "content": "विभी 1¦. <i>vi-bhī,</i> cl. 3. P. <i>-bibheti,</i> &c., to be afraid of, fear: Caus. <i>-bhīṣayati,</i> &c., to frighten, terrify, intimidate."
+        },
+        {
+            "word": "विभी",
+            "eid": "43459",
+            "pagenum": 931,
+            "content": "2. <i>vi-bhī, īs, īs, i,</i>¦ free from fear."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विभी",
+            "eid": "103656",
+            "pagenum": 6,
+            "content": "विभी¦ <lex>Adj.</lex> <i>furchtlos</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विभी",
+            "eid": "92483",
+            "pagenum": 6,
+            "content": "विभी¦ (2. वि + 2. भी) <lex>adj.</lex> <i>furchtlos</i> <ls>MBH. 3, 11153.</ls> <ls n='MBH.'>8, 786.</ls>"
+        }
     ]
 }

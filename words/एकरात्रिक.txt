@@ -15,5 +15,41 @@
             "pagenum": 100,
             "content": "एकरात्रिक¦ <lex>a.</lex> sufficient for one night or day."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकरात्रिक",
+            "eid": "39527",
+            "pagenum": 229,
+            "content": "एक—रात्रिक ¦ <lex>mfn.</lex> lasting for one night<info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकरात्रिक",
+            "eid": "39528",
+            "pagenum": 229,
+            "content": "¦ lasting for one day and night (as food), <ls>Mn. iv, 223</ls><info lex='inh'/>"
+        },
+        {
+            "word": "एकरात्रिक",
+            "eid": "39529",
+            "pagenum": 229,
+            "content": "¦ staying one night, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकरात्रिक",
+            "eid": "21901",
+            "pagenum": 1,
+            "content": "एकरात्रिक¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>für eine Nacht (eine Tag) ausreichend</i>. <div n='1'>— 2〉 <i>eine Nacht (einen Tag) verweilend</i> <ls>MBH. 12,192,3</ls>. ग्रामैक° <i>in einem Dorfe</i> <ls n='MBH.'>14,46,26</ls>. <ab>Vgl.</ab> ऐक°."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकरात्रिक",
+            "eid": "13333",
+            "pagenum": 1,
+            "content": "एकरात्रिक¦ (von एकरात्र) <lex>adj.</lex> <i>für eine Nacht</i> (einen Tag) <i>ausreichend</i>: अन्न <ls>M. 4, 223.</ls>"
+        }
     ]
 }

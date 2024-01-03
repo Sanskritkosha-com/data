@@ -31,5 +31,69 @@
             "pagenum": 155,
             "content": "Endava¦ <i>a. (f. वी)</i> Lunar."
         }
+    ],
+    "MD": [
+        {
+            "word": "ऐन्दव",
+            "eid": "5197",
+            "pagenum": 59,
+            "content": "ऐन्दव¦ aindava, <lex>a.</lex> (<b>ī</b>) lunar."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ऐन्दव",
+            "eid": "40417",
+            "pagenum": 234,
+            "content": "ऐन्दव ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> इन्दु), relating to the moon, like the moon, lunar, <ls>Prab.</ls>; <ls>Kathās.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "ऐन्दव",
+            "eid": "40418",
+            "pagenum": 234,
+            "content": "ऐन्दव ¦ <lex>m.</lex> the planet Mercury, <ls>VarBṛS.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ऐन्दव",
+            "eid": "40420",
+            "pagenum": 234,
+            "content": "ऐन्दव ¦ <lex>mn.</lex> the <s1 slp1='nakzatra'>Nakṣatra</s1> <s1 slp1='mfgaSiras'>Mṛgaśiras</s1>, <ls>VarBṛS.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "ऐन्दव",
+            "eid": "40421",
+            "pagenum": 234,
+            "content": "ऐन्दव ¦ <lex>m.</lex> (with and without शोधन) the observance called <s1 slp1='cAndrAyaRa'>Cāndrāyaṇa</s1> (<ab>q.v.</ab>), <ls>Mn. xi, 125</ls>; <ls>Parāś.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऐन्दव",
+            "eid": "12876",
+            "pagenum": 187,
+            "content": "ऐन्दव¦ <i>aindava, as, ī, am</i> (fr. <i>indu</i>), lunar, belonging or relating or similar to the moon; (<i>ī</i>), f. the plant Serratula Anthelminthica; (<i>am</i>), n. the asterism Mṛgaśiras."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऐन्दव",
+            "eid": "22485",
+            "pagenum": 1,
+            "content": "ऐन्दव¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <i>lunaris</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>der Planet Mercur</i>. <div n='1'>— 3〉 *<lex>f.</lex> ई <i><bot>Serratula anthelminthica</bot></i> <ls>RĀJAN. 4,64</ls>. <div n='1'>— 4〉 <lex>n.</lex> <div n='2'>— a〉 <i>das Mondhaus</i> <is>Mṛgaśiras</is>. <div n='2'>— b〉 <i>eine <ab>best.</ab> Kasteiung,</i> = चान्द्रायण <ls>PARĀŚ. 4,12,6</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऐन्दव",
+            "eid": "13672",
+            "pagenum": 1,
+            "content": "ऐन्दव¦ (von इन्दु) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <i>dem Monde eigen, - angehörig, den Mond betreffend, ihm ähnlich</i>: बिम्ब <ls>PRAB. 94, 14.</ls> कला <ls n='PRAB.'>80, 9.</ls> <ls>KATHĀS. 22, 107.</ls> मूर्ति <ls n='KATHĀS.'>9, 41.</ls> कान्ति <ls n='KATHĀS.'>16, 86.</ls> शोधनमैन्दवम् = चान्द्रायण <ls>M. 11, 125.</ls> <div n='1'>— 2) <lex>f.</lex> °वी N. einer Pflanze, <i>Serratula anthelminthica Roxb.</i> (सोमराजी), <ls>VAIDY.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 3) <lex>n.</lex> <i>das Gestirn</i> <is>Mṛgaśiras</is> <ls>JYOT.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "ऐन्दव",
+            "eid": "69060",
+            "pagenum": 5,
+            "content": "ऐन्दव¦ <div n='1'> 1) मास <ls>WEBER, JYOT. 54. fg.</ls> अहोरात्र <is>Nakṣ</is>. 2, 287. रश्मयः <ls>LA. (II) 88. 4.</ls> अर्चिस् <ls>Spr. 3853.</ls> <div n='1'>— 3) <ls>VARĀH. BṚH. S. 98, 10.</ls> <div n='1'>— 4) wohl patron. in ऐन्दवोपाख्यान <ls>Verz. d. Oxf. H. 354,a,22.</ls> <i>der Planet Mercur (der Sohn des Mondes)</i> <ls>VARĀH. BṚH. 26, 9.</ls>"
+        }
     ]
 }

@@ -23,5 +23,43 @@
             "pagenum": 543,
             "content": "mawwaka¦ <i>n.</i> A ridge of a roof."
         }
+    ],
+    "MW": [
+        {
+            "word": "मट्टक",
+            "eid": "154555",
+            "pagenum": 774,
+            "content": "मट्टक ¦ <lex>m.</lex> the top of a roof, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मट्टक",
+            "eid": "154556",
+            "pagenum": 774,
+            "content": "¦ <bot>Eleusine Coracana</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मट्टक",
+            "eid": "36141",
+            "pagenum": 730,
+            "content": "मट्टक¦ <i>maṭṭaka, as,</i> m. <i>= maḍaka,</i> Eleusine Coracana; (<i>am</i>), n. the ridge or top of a roof."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मट्टक",
+            "eid": "81693",
+            "pagenum": 5,
+            "content": "*मट्टक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Gipfel eines Dachs</i>. <div n='1'>— 2〉 <i><bot>Eleusine coracana</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मट्टक",
+            "eid": "56379",
+            "pagenum": 5,
+            "content": "मट्टक¦ <lex>m.</lex> <div n='1'> 1) <i>Gipfel eines Dachs</i> <ls>ŚKDR.</ls> <ls>WILSON.</ls> <div n='1'>— 2) = मडक <i>Eleusine coracana</i> <ls>WILSON.</ls>"
+        }
     ]
 }

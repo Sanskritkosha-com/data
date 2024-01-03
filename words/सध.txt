@@ -39,5 +39,63 @@
             "pagenum": 266,
             "content": "<b>sadha,</b>¦ <i><ab>adv.</ab> <ab>equiv.</ab> of</i> <b>1sahá,</b> <i>see</i> <ls n='wg,1104'>1104<sup>3</sup></ls>."
         }
+    ],
+    "MD": [
+        {
+            "word": "सध",
+            "eid": "18691",
+            "pagenum": 332,
+            "content": "सध¦ sa-dha, <ab>V.</ab> <lex>ad.</lex> [in the same manner, 🞄together = saha] <ab>°—</ab> <i>in some compounds</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सध",
+            "eid": "230956",
+            "pagenum": 1140,
+            "content": "<hom>1.</hom> सध ¦ (= <hom>2.</hom> सह), with, together with, in the same manner (only in <ab>comp.</ab>; <ab>cf.</ab> <ls>Pāṇ. vi, 3, 96</ls>)."
+        },
+        {
+            "word": "सध",
+            "eid": "230972",
+            "pagenum": 1140,
+            "content": "<hom>2.</hom> सध ¦ <lex>n.</lex> or सधा <lex type='hw'>f.</lex> (only in <ab>du.</ab>, ‘heaven and earth’ <ab>v.l.</ab> for स्वधे), <ls>Naigh. iii, 30.</ls><info lex='f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सध",
+            "eid": "48962",
+            "pagenum": 1056,
+            "content": "सध¦ <i>sa-dha,</i> ind. (probably for <i>sa-dhā</i>), Ved. = 2. <i>saha,</i> with, together with, (Pāṇ. VI. 3, 96.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सध",
+            "eid": "118724",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सध°¦ <lex>Adv.</lex> = सह."
+        },
+        {
+            "word": "सध",
+            "eid": "118725",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> *सध¦ <lex>n.</lex> oder सधा <lex>f.</lex> <ab>Du.</ab> <i>Himmel und Erde</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सध",
+            "eid": "104457",
+            "pagenum": 7,
+            "content": "1. सध¦ (von 2. स) adv. = सह am Anfange einiger Composita."
+        },
+        {
+            "word": "सध",
+            "eid": "104458",
+            "pagenum": 7,
+            "content": "2. सध¦ <lex>n.</lex> oder सधा <lex>f.</lex> सधे du. v. l. für स्वधे <i>Himmel und Erde</i> <ls>NAIGH. 3, 30.</ls>"
+        }
     ]
 }

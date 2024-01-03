@@ -34,5 +34,59 @@
             "pagenum": 233,
             "content": "gadgada-svara¦ <i>(II) m.</i> 1. indistinct or stammering utterance; 2. a buffalo."
         }
+    ],
+    "MW": [
+        {
+            "word": "गद्गदस्वर",
+            "eid": "62940",
+            "pagenum": 344,
+            "content": "गद्गद—स्वर ¦ <lex>mf(आ)n.</lex> <ab>id.</ab>, <ls>Daś. vii, 167</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "गद्गदस्वर",
+            "eid": "62941",
+            "pagenum": 344,
+            "content": "गद्गद—स्वर ¦ <lex>m.</lex> stammering utterance, <ls>Sāh. iii, 113</ls><info lex='m'/>"
+        },
+        {
+            "word": "गद्गदस्वर",
+            "eid": "62942",
+            "pagenum": 344,
+            "content": "¦ a buffalo, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गद्गदस्वर",
+            "eid": "62943",
+            "pagenum": 344,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='boDi-sattva'>Bodhi-sattva</s1>, <ls>SaddhP. xxiii.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गद्गदस्वर",
+            "eid": "34446",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> गद्गदस्वर¦ <lex>m.</lex> <i>gestammelte Laute</i>."
+        },
+        {
+            "word": "गद्गदस्वर",
+            "eid": "34447",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> गद्गदस्वर¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>stammelnd</i> <ls>BENF. Chr. 187,10</ls>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 *<i>Büffel</i>. <div n='2'>— b〉 <ab>N. pr.</ab> eines <is>Bodhisattva</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गद्गदस्वर",
+            "eid": "21632",
+            "pagenum": 2,
+            "content": "1. गद्गदस्वर¦ (ग° + स्वर) <lex>m.</lex> <i>gestammelte Laute</i>: सगद्गदस्वरं किंचित्प्रियं प्रायेण भाषते <ls>SĀH. D. 59, 4.</ls> भयगद्गदस्वरा <ls>DAŚAK.</ls> in <ls>BENF. Chr. 187, 10.</ls>"
+        },
+        {
+            "word": "गद्गदस्वर",
+            "eid": "21633",
+            "pagenum": 2,
+            "content": "2. गद्गदस्वर¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>gestammelte Laute von sich gebend.</i> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Büffel</i> <ls>H. ś. 182.</ls> <div n='2'>— b) N. pr. eines <is>Bodhisattva</is> <ls>BURN.</ls> <ls>Lot. de la b. l. 253. fgg.</ls>"
+        }
     ]
 }

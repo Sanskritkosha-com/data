@@ -28,5 +28,49 @@
             "pagenum": 147,
             "content": "कलक¦ <i>kalaka</i> <ab>m.</ab> <ab>esp.</ab> de poisson, le <i>śakula.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "कलक",
+            "eid": "45682",
+            "pagenum": 260,
+            "content": "कलक ¦ <lex>m.</lex> a sort of fish, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कलक",
+            "eid": "45683",
+            "pagenum": 260,
+            "content": "¦ a kind of prose, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कलक",
+            "eid": "45684",
+            "pagenum": 260,
+            "content": "कलक ¦ <lex>n.</lex> the root of <bot>Andropogon Muricatus</bot>, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कलक",
+            "eid": "13968",
+            "pagenum": 211,
+            "content": "कलक¦ <i>kalaka, as,</i> m. a kind of fish; a kind of prose."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कलक",
+            "eid": "25351",
+            "pagenum": 2,
+            "content": "*कलक¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>ein <ab>best.</ab> Fisch</i>. <div n='2'>— b〉 <i>eine <ab>best.</ab> Art Prosa</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>die Wurzel von <bot>Andropogon muricatus</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कलक",
+            "eid": "15606",
+            "pagenum": 2,
+            "content": "कलक¦ <lex>m.</lex> <div n='1'> 1) <i>ein best. Fisch</i> (s. शकुल) <ls>H. 1345.</ls> <div n='1'>— 2) <i>eine best. Art Prosa</i> <ls>WILS.</ls>"
+        }
     ]
 }

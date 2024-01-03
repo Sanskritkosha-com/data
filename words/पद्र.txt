@@ -47,5 +47,61 @@
             "pagenum": 411,
             "content": "padra¦ <i>m.</i> A village."
         }
+    ],
+    "MW": [
+        {
+            "word": "पद्र",
+            "eid": "115474",
+            "pagenum": 584,
+            "content": "पद्र <hom>a</hom> ¦ See <pcol>p. 585, col. 2</pcol>."
+        },
+        {
+            "word": "पद्र",
+            "eid": "115824",
+            "pagenum": 585,
+            "content": "पद्र <hom>b</hom> ¦ <lex>m.</lex> (√ <hom>2.</hom> पद्?) a village or = संवेश, <ls>Uṇ. ii, 13</ls>, <ab>Sch.</ab> (-वड, -सण्ड and -सड [<ls>HPariś.</ls>] perhaps <ab>w.r.</ab> for -बटु, or -बण्ड, ‘village lad or cripple’)<info lex='m'/>"
+        },
+        {
+            "word": "पद्र",
+            "eid": "115825",
+            "pagenum": 585,
+            "content": "¦ a road in a village, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पद्र",
+            "eid": "115826",
+            "pagenum": 585,
+            "content": "¦ the earth, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पद्र",
+            "eid": "115827",
+            "pagenum": 585,
+            "content": "¦ <ab>N.</ab> of a district, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पद्र",
+            "eid": "26941",
+            "pagenum": 532,
+            "content": "पद्र¦ <i>padra, as,</i> m. (said to be fr. rt. 2. <i>pad</i>), a village; the entrance into a village; the earth; a particular district."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पद्र",
+            "eid": "63005",
+            "pagenum": 4,
+            "content": "पद्र¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Dorf</i>. Statt पद्रवड, पद्रशण्ड und पद्रसड <ls>HEM. PAR. 3,112</ls> ist vielleicht पद्रबट <i>Dorfjunge</i> oder पद्रबण्ड <i>Dorfkrüppel</i> zu lesen. <div n='1'>— 2〉 *<i>Dorfweg</i>. <div n='1'>— 3〉 *<i>die Erde</i>. <div n='1'>— 4〉 *= संवेश <div n='1'>— 5〉 *<ab>N. pr.</ab> einer Gegend."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पद्र",
+            "eid": "42210",
+            "pagenum": 4,
+            "content": "पद्र/¦ <ls>UṆĀDIS. 2, 13.</ls> = ग्राम <i>Dorf</i> und संवेश (?) <ls>UJJVAL.</ls> = ग्रामपथ <i>Dorfweg</i> <ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls> = भूलोक <i>die Erde</i> (vgl. पद्व) und देशभेद <i>eine best. Gegend</i> <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

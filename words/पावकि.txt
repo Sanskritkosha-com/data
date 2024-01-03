@@ -53,5 +53,57 @@
             "pagenum": 435,
             "content": "pAvaki¦ <i>m.</i> An epithet of Kārtikeya."
         }
+    ],
+    "MD": [
+        {
+            "word": "पावकि",
+            "eid": "11567",
+            "pagenum": 161,
+            "content": "पावकि¦ pāvak-i, <lex>m.</lex> son of Fire, Skanda."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पावकि",
+            "eid": "123270",
+            "pagenum": 623,
+            "content": "पावकि ¦ <lex>m.</lex> ‘son of Fire’, <ab>N.</ab> of <s1 slp1='skanda'>Skanda</s1>, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पावकि",
+            "eid": "123271",
+            "pagenum": 623,
+            "content": "¦ of <s1 slp1='su-darSana'>Su-darśana</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पावकि",
+            "eid": "123272",
+            "pagenum": 623,
+            "content": "¦ of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पावकि",
+            "eid": "29106",
+            "pagenum": 570,
+            "content": "<i>Pāvaki, is,</i>¦ m. ‘son of Fire,’ an epithet of Skanda or Kārttikeya; of Su-darśana; of Hari (?)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पावकि",
+            "eid": "66608",
+            "pagenum": 4,
+            "content": "पावकि¦ <lex>m.</lex> <ab>Patron.</ab> <div n='1'>— 1〉 <is>Skanda</is>ʼs. <div n='1'>— 2〉 <is>Sudarśana</is>ʼs. <div n='1'>— 3〉 <is>Viṣṇu</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पावकि",
+            "eid": "44958",
+            "pagenum": 4,
+            "content": "पावकि¦ <lex>m.</lex> <i>ein Sohn des Feuers</i> (पावक), Bein. <is>Skanda's</is> <ls>MBH. 3, 1576.</ls> <ls n='MBH. 3,'>14378.</ls> <ls n='MBH.'>7, 173.</ls> <ls n='MBH.'>9, 2709.</ls> <ls n='MBH.'>12, 12324.</ls> <ls n='MBH.'>13, 4027.</ls> <ls n='MBH. 13,'>4217.</ls> <ls>HARIV. 10703.</ls> कुमाराविव पावकी <ls>R. 1, 24, 9</ls> (<ls n='GORR. 1,'>25, 9</ls> <ls>GORR.</ls>). <is>Sudarśana's</is> <ls>MBH. 13, 141.</ls> <is>Hari's</is> (!) <ls>HARIV. 11440.</ls>"
+        }
     ]
 }

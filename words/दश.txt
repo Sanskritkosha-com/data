@@ -23,5 +23,63 @@
             "pagenum": 168,
             "content": "<b>dáśa</b>¦ [<ls n='wg,483'>483<sup>4</sup></ls>], <i><ab>num.</ab></i> ten. [<ab>cf.</ab> <lang n='greek'>δέκα</lang>, <ab>Lat.</ab> <i>decem,</i> <ab>Goth.</ab> <i>taihun,</i> <ab>Eng.</ab> <i>ten,</i> <ab>Ger.</ab> <i>zehn,</i> ‘ten’; <ab>Eng.</ab> <i>-teen</i> in <i>six-teen,</i> <ab>etc.</ab>]"
         }
+    ],
+    "MW": [
+        {
+            "word": "दश",
+            "eid": "90808",
+            "pagenum": 471,
+            "content": "<hom>1.</hom> दश ¦ <ab>ifc.</ab> for °शा (अज्प-, उदग्- &c.)"
+        },
+        {
+            "word": "दश",
+            "eid": "90809",
+            "pagenum": 471,
+            "content": "<hom>2.</hom> दश ¦ <lex>mfn.</lex> <ab>ifc.</ab> (त्रि-, द्वि-, निर्-) and in <ab>comp.</ab> for °शन्<info lexcat='LEXID=card,STEM=daSan'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दश",
+            "eid": "22010",
+            "pagenum": 405,
+            "content": "<i>Daśa</i>¦ (at the end of comp.) <i>= daśan</i> above; [cf. <i>tri-daśa, dvi-daśa, nir-daśa.</i>] <i>Daśa</i> (at the end of comp.) may also stand for <i>daśā,</i> p. 406, col. 1."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "दश",
+            "eid": "5882",
+            "pagenum": 2,
+            "content": "<i>Daśa</i>¦ — one of Danu's sons. <div n='P'/>Vā. 68. 9."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दश",
+            "eid": "49234",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> दश¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>Pl.</ab> = दशन् <i>zehn</i> nur <ls>MBH. 3,10667</ls>, wo aber <ls>ed. Bomb.</ls> eine andere Lesart hat. Häufig am Ende eines <ab>Comp.</ab> <div n='1'>— 2〉 <lex>m.</lex> <ab>Pl.</ab> bei den <is>Jaina</is> <ab>Bez.</ab> <i>bestimmter aus 10 Büchern bestehender Schriften</i> <ls>H. 244</ls>."
+        },
+        {
+            "word": "दश",
+            "eid": "49235",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> दश¦ am Ende eines <ab>adj. Comp.</ab> = दशा."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दश",
+            "eid": "32211",
+            "pagenum": 3,
+            "content": "दश¦ <is>gaṇa</is> संकाशादि zu <ls>P. 4, 2, 80.</ls> <div n='1'> 1) am Ende eines comp. = दशन् (s. त्रिदश, द्विदश, निर्दश); ausserhalb der comp. in der Stelle: दशैरेकादश दाशा दशार्हाः <ls>MBH. 3, 10667</ls>; vgl. सप्तदशेषु = °दशसु <ls>MBH. 3, 15649.</ls> <div n='1'>— 2) am Ende eines <lex>adj.</lex> comp. = दशा ."
+        },
+        {
+            "word": "दश",
+            "eid": "75549",
+            "pagenum": 5,
+            "content": "दश¦ <div n='1'> 1) <ls>MBH. 3, 10667</ls> liest die <ls>ed. Bomb.</ls> दशैरका दश दासा दशार्हाः; <ls>NĪLAK.</ls> : आ समन्तादीरयन्ति उपदिशन्ति तत्त्वमित्येरकास्तत्त्वदर्शिन उपदेष्टारः . Es ist wohl दशेरका[ः] zu lesen als N. eines Volkes, in welchem Worte der Dichter die Zahl <i>zehn</i> annimmt wie in दशार्हाः . Vielleicht ist auch दशदास als N. eines Volkes aufzufassen."
+        }
     ]
 }

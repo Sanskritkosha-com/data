@@ -39,5 +39,45 @@
             "pagenum": 777,
             "content": "sAva¦ <i>m.</i> A libation."
         }
+    ],
+    "MD": [
+        {
+            "word": "साव",
+            "eid": "19331",
+            "pagenum": 349,
+            "content": "साव¦ sāv-á, <lex>m.</lex> [√ <hom>1.</hom> su] Soma libation."
+        }
+    ],
+    "MW": [
+        {
+            "word": "साव",
+            "eid": "243355",
+            "pagenum": 1210,
+            "content": "साव/ ¦ <lex>m.</lex> (<ab>fr.</ab> √ <hom>3.</hom> सु) a <s1 slp1='soma'>Soma</s1> libation (<ab>cf.</ab> प्रातः- and सहस्र-स्°), <ls>RV.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "साव",
+            "eid": "52098",
+            "pagenum": 1111,
+            "content": "साव¦ <i>sāva, as,</i> m. (fr. 1. <i>sava</i>), a libation, in <i>prātaḥ-sāva,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "साव",
+            "eid": "124653",
+            "pagenum": 7,
+            "content": "साव/¦ <lex>m.</lex> <is>Soma</is>-<i>Libation</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "साव",
+            "eid": "108868",
+            "pagenum": 7,
+            "content": "साव/¦ (von 1. सु) <lex>m.</lex> <is>Soma</is>-<i>Libation</i> <ls>ṚV. 10, 49, 7.</ls> <div n='v'>— Vgl. प्रातः°, सहस्र° und 1. सव ."
+        }
     ]
 }

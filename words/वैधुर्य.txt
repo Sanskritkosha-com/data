@@ -31,5 +31,55 @@
             "pagenum": 694,
             "content": "vEDurya¦ <i>n.</i> Agitation, tremor."
         }
+    ],
+    "MW": [
+        {
+            "word": "वैधुर्य",
+            "eid": "207207",
+            "pagenum": 1023,
+            "content": "वैधुर्य ¦ <lex>n.</lex> desolation, <ls>Kathās.</ls><info lex='n'/>"
+        },
+        {
+            "word": "वैधुर्य",
+            "eid": "207208",
+            "pagenum": 1023,
+            "content": "¦ bereavement, deprivation, absence (°यं वि-√ धा, ‘to deprive of’, ‘remove’), <ls>Bālar.</ls>; <ls>Sāh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वैधुर्य",
+            "eid": "207209",
+            "pagenum": 1023,
+            "content": "¦ misery, wretchedness, desperate plight, <ls>Kathās.</ls>; <ls>Rājat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वैधुर्य",
+            "eid": "207210",
+            "pagenum": 1023,
+            "content": "¦ agitation, tremulousness, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वैधुर्य",
+            "eid": "45062",
+            "pagenum": 969,
+            "content": "वैधुर्य¦ <i>vaidhurya, am,</i> n. (fr. <i>vidhura</i>), agitation, tremulousness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैधुर्य",
+            "eid": "107744",
+            "pagenum": 6,
+            "content": "वैधुर्य¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Alleinstehen, Verwaistsein</i>. <div n='1'>— 2〉 <i>das Fehlen, Mangeln, Nichtdasein</i>. <ab>Acc.</ab> mit वि-धा so <ab>v. a.</ab> <i>entfernen</i> <ls>BĀLAR. 190,9</ls> = <ls n='Chr.'>294,14</ls>. <div n='1'>— 3〉 <i>eine [Page6-167-c] verzweifelte Lage</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैधुर्य",
+            "eid": "95792",
+            "pagenum": 6,
+            "content": "वैधुर्य¦ (von विधुर) <lex>n.</lex> <div n='1'> 1) <i>das Alleinstehen, Verwaistsein</i>: रामप्रवासवैधुर्यदुःखं पुर्याः <ls>KATHĀS. 103, 121.</ls> <div n='1'>— 2) <i>das Fehlen, Mangeln, Nichtdasein</i>: शक्ति° <ls>Verz. d. Oxf. H. 109,b, No. 170</ls> (fehlerhaft वैधूर्य). पदार्थान्वय° <ls>SĀH. D. 120, 12</ls> = <ls>KUSUM. 32, 4.</ls> <div n='1'>— 3) <i>eine verzweifelte Lage</i> <ls>KATHĀS. 26, 198.</ls> <ls>RĀJA-TAR. 4, 671.</ls>"
+        }
     ]
 }

@@ -20,5 +20,35 @@
             "pagenum": 560,
             "content": "mahA-graha¦ <i>m.</i> an epithet of Rāhu."
         }
+    ],
+    "MW": [
+        {
+            "word": "महाग्रह",
+            "eid": "159510",
+            "pagenum": 795,
+            "content": "महा—ग्रह ¦ <lex>m.</lex> ‘the great planet’, <ab>N.</ab> of <s1 slp1='rAhu'>Rāhu</s1>, <ls>Hariv.</ls><info lex='m'/>"
+        },
+        {
+            "word": "महाग्रह",
+            "eid": "159511",
+            "pagenum": 795,
+            "content": "¦ of the planet Saturn, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महाग्रह",
+            "eid": "84252",
+            "pagenum": 5,
+            "content": "महाग्रह¦ <lex>m.</lex> <ab>Bein.</ab> <div n='1'>— 1〉 <is>Rāhu</is>ʼs. <div n='1'>— 2〉 *<i>des Planeten Saturn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महाग्रह",
+            "eid": "58397",
+            "pagenum": 5,
+            "content": "महाग्रह¦ (म° + ग्रह) <lex>m.</lex> <i>der grosse Planet</i>, Beiw. <is>Rāhu's</is>, <ls>HARIV. 12503.</ls> <i>Saturn</i> <ls>H. ś. 14.</ls>"
+        }
     ]
 }

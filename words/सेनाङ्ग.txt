@@ -28,5 +28,35 @@
             "pagenum": 308,
             "content": "<i>sen-āṅga</i>¦ (IE 7-1-2), ‘four’."
         }
+    ],
+    "MW": [
+        {
+            "word": "सेनाङ्ग",
+            "eid": "252159",
+            "pagenum": 1246,
+            "content": "senA<srs/>°Nga ¦ (°nA<srs/>Nga), <lex>n.</lex> the component part of an army (supposed to consist of four divisions: elephants, chariots, cavalry, and infantry), <ls>Ragh.</ls>; <ls>VarBṛS.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सेनाङ्ग",
+            "eid": "252159.1",
+            "pagenum": 1246,
+            "content": "¦ a division of an army<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सेनाङ्ग",
+            "eid": "129238",
+            "pagenum": 7,
+            "content": "सेनाङ्ग¦ <lex>n.</lex> <div n='1'>— 1〉 <i>Alles was einen Bestandtheil des Heeres bildet, — zu einem Heere gehört</i>. <div n='1'>— 2〉 <i>Heeresabtheilung</i>. °पति <lex>m.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सेनाङ्ग",
+            "eid": "112609",
+            "pagenum": 7,
+            "content": "सेनाङ्ग¦ (सेना + 3. अङ्ग) <lex>n.</lex> <i>Alles was einen Bestandtheil des Heeres bildet, zum Heere gehört</i> <ls>AK. 2, 8, 2, 1.</ls> <ls>H. 751.</ls> <ls>HALĀY. 5, 80.</ls> <ls>RAGH. 15, 9.</ls> <ls>VARĀH. BṚH. S. 11, 42. 95, 11.</ls> <i>Heeresabtheilung</i>: °पति <ls>KĀM. NĪTIS. 19, 32.</ls>"
+        }
     ]
 }

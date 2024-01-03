@@ -47,5 +47,57 @@
             "pagenum": 123,
             "content": "<b>a-svastha,</b>¦ <i><ab>a.</ab></i> not well, ill; not self-contained, <lbinfo n='self-con-tained,'/> not master of one's self."
         }
+    ],
+    "MD": [
+        {
+            "word": "अस्वस्थ",
+            "eid": "3309",
+            "pagenum": 36,
+            "content": "अस्वस्थ¦ a-svastha, <lex>a.</lex> unwell, indisposed: 🞄<b>-cetana,</b> <lex>a.</lex> troubled in mind; <b>-tā,</b> <lex>f.</lex> indisposition; 🞄<b>-śarīra,</b> <lex>a.</lex> unwell."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अस्वस्थ",
+            "eid": "21580",
+            "pagenum": 123,
+            "content": "अ-स्व—स्थ <hom>a</hom> ¦ <lex>mf(आ)n.</lex> not in good health, sick, feeling uneasy, <ls>Mn. vii, 226</ls>; <ls>MBh.</ls> &c.<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "अस्वस्थ",
+            "eid": "21581",
+            "pagenum": 123,
+            "content": "¦ not being firm in itself, <ls>MBh. xii, 276</ls> (<ls>Hit.</ls>)<info lex='inh'/>"
+        },
+        {
+            "word": "अस्वस्थ",
+            "eid": "21616",
+            "pagenum": 124,
+            "content": "अ-स्वस्थ <hom>b</hom> ¦ See अ-स्व."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अस्वस्थ",
+            "eid": "7719",
+            "pagenum": 108,
+            "content": "अस्वस्थ¦ <i>a-sva-stha, as, ā, am,</i> not in good health, not one's self, sick. <i>—Asvastha-tā,</i> f. want of firmness; weakness, illness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अस्वस्थ",
+            "eid": "13068",
+            "pagenum": 1,
+            "content": "अस्वस्थ¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>unwohl, krank, sich unbehaglich fühlend</i>. Dazu <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls n='Chr.'>309,25</ls> (im <lang>Prākrit</lang>). <div n='1'>— 2〉 <i>nicht natürlich, — in seinen Fugen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अस्वस्थ",
+            "eid": "65974",
+            "pagenum": 5,
+            "content": "अस्वस्थ¦ s. u. स्वस्थ und vgl. आस्वस्थ्य ."
+        }
     ]
 }

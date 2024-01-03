@@ -61,5 +61,35 @@
             "pagenum": 770,
             "content": "sAgnika¦ <i>(II) m.</i> A householder who maintains a sacred fire."
         }
+    ],
+    "MW": [
+        {
+            "word": "साग्निक",
+            "eid": "241179",
+            "pagenum": 1198,
+            "content": "sA<srs/>gnika ¦ <lex>mfn.</lex> possessing or maintaining a sacred fire, associated with <s1 slp1='agni'>Agni</s1>, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "साग्निक",
+            "eid": "241180",
+            "pagenum": 1198,
+            "content": "¦ witnessed by <s1 slp1='agni'>Agni</s1>, <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "साग्निक",
+            "eid": "51739",
+            "pagenum": 1103,
+            "content": "<i>Sāgnika, as, ā, am,</i>¦ possessing or maintaining a fire; associated with Agni; (<i>as</i>), m. a householder who maintains a sacred fire."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "साग्निक",
+            "eid": "108016",
+            "pagenum": 7,
+            "content": "साग्निक¦ <lex>adj.</lex> <div n='1'> 1) <i>nebst</i> <is>Agni</is>: लोकपालाः <ls>MBH. 3, 2127.</ls> <div n='1'>— 2) = अग्निसाक्षिक <i>vor dem Feuer als Zeugen geschlossen</i>: सख्य <ls>R. 7, 33, 18.</ls>"
+        }
     ]
 }

@@ -27,5 +27,25 @@
             "pagenum": 224,
             "content": "<b>DUE</b>¦ (subs.): <div n='I'>I Lit.: </div><div n='1'>(1) देयम्; </div><div n='1'>(2) ऋणम् (= debt). Ph.: <div n='xe'><i>respect. is d. to elders:</i></div> <div n='xs'>पूज्या गुरवः:</div> v. Ought. </div><div n='I'>II Right: q. v. </div><div n='I'>III In pl., taxes: शुल्कः।</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "due",
+            "eid": "9068",
+            "pagenum": 212,
+            "content": "DUE¦, <i>a.</i> (That ought to be paid or received) देयः -या -यं, प्रतिदेयः -या -यं, दानीयः -या -यं, दातव्यः -व्या -व्यं, शोध्यः -ध्या -ध्यं, शोधनीयः -या -यं, संशोध्यः -ध्या -ध्यं, परिशोधनीयः -या -यं, प्राप्यः -प्या -प्यं, प्राप्तव्यः -व्या -व्यं, ग्राह्यः -ह्या -ह्यं. — (Fit, becoming) योग्यः -ग्या -ग्यं, युक्तः -क्ता -क्तं, यथायोग्यः -ग्या -ग्यं, उचितः -ता -तं, यथोचितः -ता -तं, उपयुक्तः -क्ता -क्तं, यथार्हः -र्हा -र्हं, अनुरूपः -पा -पं; ‘in due time,’ उपयुक्ते समये, समया; ‘in due form,’ विधिवत्, यथाविधि."
+        },
+        {
+            "word": "due",
+            "eid": "9069",
+            "pagenum": 212,
+            "content": "DUE¦, <i>s.</i> (That which ought to be paid or received) देयं, प्रतिदेयं, दानीयं, शोधनीयं, ग्राह्यं, प्राप्यं, प्राप्तव्यं. — (Debt) ऋणं. — (That which ought to be done) कर्त्तव्यं; ‘respect is due to parents,’ मातापितरौ पूजनीयौ. — (Tribute) शुल्कः -ल्कं, करः, तारिकं, तार्य्यं, राजग्राह्यभागः. — (Right) अधिकारः, स्वाधिकारः."
+        },
+        {
+            "word": "due",
+            "eid": "9070",
+            "pagenum": 212,
+            "content": "DUE¦, <i>adv.</i> (Directly) अवक्रं, अजिह्मं, अविलोमं, समरेखं."
+        }
     ]
 }

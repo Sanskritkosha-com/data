@@ -29,5 +29,61 @@
             "pagenum": 13,
             "content": "adanta¦ <i>(II) m.</i> A leech."
         }
+    ],
+    "MD": [
+        {
+            "word": "अदन्त",
+            "eid": "892",
+            "pagenum": 8,
+            "content": "अदन्त¦ a-d-anta, <lex>a.</lex> ending in ă."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अदन्त",
+            "eid": "3615",
+            "pagenum": 18,
+            "content": "<hom>1.</hom> अ-दन्त ¦ <lex>mfn.</lex> toothless<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अदन्त",
+            "eid": "3616",
+            "pagenum": 18,
+            "content": "अ-दन्त ¦ <lex>m.</lex> a leech, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अदन्त",
+            "eid": "3622",
+            "pagenum": 18,
+            "content": "<hom>2.</hom> अद्-अन्त ¦ <lex>mfn.</lex> (in <ab>Gr.</ab>) ending in अत् <ab>i.e.</ab> in the short inherent vowel अ.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अदन्त",
+            "eid": "976",
+            "pagenum": 18,
+            "content": "अदन्त 1¦. <i>a-danta</i> or <i>a-dantaka, as, ā, am,</i> toothless; (<i>as</i>), m. a leech."
+        },
+        {
+            "word": "अदन्त",
+            "eid": "978",
+            "pagenum": 18,
+            "content": "अदन्त 2¦. <i>ad-anta, as, ā, am,</i> (in gram.) ending in <i>at,</i> i. e. in the short inherent vowel <i>a.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अदन्त",
+            "eid": "2407",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> *अदन्त¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Eber</i>. <div n='1'>— 2〉 <i>Vogel</i> <ls>GAL.</ls>"
+        },
+        {
+            "word": "अदन्त",
+            "eid": "2408",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अदन्त¦ <lex>Adj.</lex> <i>auf kurzes</i> अ <i>auslautend</i> <ls n='Chr.'>223,8</ls>."
+        }
     ]
 }

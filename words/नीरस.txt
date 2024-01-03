@@ -53,5 +53,61 @@
             "pagenum": 382,
             "content": "nIrasa¦ <i>(II) m.</i> the pomegranate."
         }
+    ],
+    "MW": [
+        {
+            "word": "नीरस",
+            "eid": "107720",
+            "pagenum": 543,
+            "content": "नी—रस ¦ <lex>mf(आ)n.</lex> without juice, sapless, dried up, withered (-त्व <lex type='phw'>n.</lex>), <ls>Hariv.</ls>; <ls>Kāv.</ls> &c.<info phwchild='107723.2'/><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "नीरस",
+            "eid": "107721",
+            "pagenum": 543,
+            "content": "¦ flavourless, tasteless, <ls>Bhartṛ. iii, 16</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नीरस",
+            "eid": "107722",
+            "pagenum": 543,
+            "content": "¦ insipid, without charm, dull (-ता <lex type='phw'>f.</lex>), <ls>Kāv.</ls>; <ls>Pañc.</ls>; <ls>Sāh.</ls> &c.<info phwchild='107723.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "नीरस",
+            "eid": "107723",
+            "pagenum": 543,
+            "content": "नी—रस ¦ <lex>m.</lex> the pomegranate, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नीरस",
+            "eid": "26325",
+            "pagenum": 512,
+            "content": "नीरस¦ <i>nī-rasa, as, ā, am</i> (fr. <i>nis + rasa</i>), without juice, sapless, dried up, withered; flavourless, unsavoury, tasteless, devoid of taste, flat, dry; insipid; vain; (<i>as</i>), m. the pomegranate. <i>—Nīrasa-tā,</i> f. the state of being devoid of taste, tastelessness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नीरस",
+            "eid": "60609",
+            "pagenum": 3,
+            "content": "नीरस¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>saftlos, ausgetrocknet, verdorrt, dürr</i>. <div n='1'>— 2〉 <i>nicht schmackhaft</i> (Speise) <ls>Spr. 3802</ls>. <div n='1'>— 3〉 <i>nicht schmackhaft,</i> so <ab>v. a.</ab> <i>keine Reize darbietend, langeweilig</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <div n='1'>— 4〉 <i>gefühllos, keinen Sinn —, kein Verständniss für Etwas habend, geschmacklos</i> zu <ls>Spr. 867</ls>. <ls>PRASANNAR. 7,15</ls>. ein Sänger <ls>S. S. S. 117</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नीरस",
+            "eid": "40462",
+            "pagenum": 4,
+            "content": "नीरस¦ (निस् + रस) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> आ <div n='2'> a) <i>saftlos, ausgetrocknet, verdorrt</i>: (मुनयः) निर्मज्जा नीरसाः <ls>HARIV. 14533.</ls> अङ्ग <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 106.</ls> रसा <ls>KĀT. 7.</ls> काष्ठ <ls>ŚṚṄGĀRAT. 9.</ls> <div n='2'>— b) <i>geschmacklos</i>: भिक्षाशन (viell. auch zu <div n='2'> a) <ls>BHARTṚ. 3, 16.</ls> <div n='2'>— c) <i>trocken, unschmackhaft</i> in übertr. Bed.: पैशाचं वचः <ls>KATHĀS. 8, 15.</ls> पद्यानाम् <ls>SĀH. D. 6, 8.</ls> अलब्धफलनीरसं मम विधाय तस्मिञ्जने समागममनोरथं भवतु पञ्चवाणः कृती <ls>VIKR. 30.</ls> बालिका <i>keine Reize zeigend</i> <ls>PAÑCAT. IV, 62.</ls> Davon nom. abstr. °ता <ls>SĀH. D. 2, 4.</ls>"
+        },
+        {
+            "word": "नीरस",
+            "eid": "77598",
+            "pagenum": 5,
+            "content": "नीरस¦ <div n='1'> 1) <div n='2'> d) <i>gefühllos</i> <ls>UTTARARĀMAC. 91, 3 (117, 6).</ls>"
+        }
     ]
 }

@@ -36,5 +36,43 @@
             "pagenum": 737,
             "content": "स्थूरिन्¦ <i>sthūrin</i> <ab>m.</ab> <ab>cf.</ab> <i>sthurin.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "स्थूरिन्",
+            "eid": "255985",
+            "pagenum": 1265,
+            "content": "स्थूरिन् ¦ <lex>m.</lex> (<ab>cf.</ab> स्थौरिन्) a pack-horse, beast of burden, draught-ox, <ls>L.</ls> <info lex='m'/>"
+        },
+        {
+            "word": "स्थूरिन्",
+            "eid": "255985.1",
+            "pagenum": 1265,
+            "content": "स्थूरिन् ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>ταῦρος</lang>; <ab>Lat.</ab> <etym>taurus</etym>; <ab>Goth.</ab> <etym>stiur</etym>; <ab>Eng.</ab> <etym>steer</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्थूरिन्",
+            "eid": "53208",
+            "pagenum": 1147,
+            "content": "<i>Sthūrin, ī,</i>¦ m. (also written <i>sthurin,</i> cf. <i>sthau-</i> <i>rin</i>), a pack-horse, one carrying loads on his back; a pack-bullock; (<i>i</i>), n., Ved. a cart drawn by one bull or draught animal, (Sāy. <i>= ekena dhuryeṇa</i> <i>yuktam anaḥ,</i> Ṛg-veda X. 131, 3); [cf. Zend <nsi>staora,</nsi> ‘a beast of burden:’ Gr. <lang n='greek'>ταῦρο-ς:</lang> Lat. <nsi>tauru-s:</nsi> Umbr. <nsi>turu:</nsi> Old Germ. <nsi>stiuri,</nsi> ‘strong;’ <nsi>stur,</nsi> ‘large:’ Goth. <nsi>stiur:</nsi> Angl. Sax. <nsi>steor, stor:</nsi> Engl. <nsi>steer:</nsi> Slav. <nsi>turu,</nsi> ‘a bull:’ Lith. <nsi>taura-s,</nsi> ‘a wild ox.’]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्थूरिन्",
+            "eid": "131116",
+            "pagenum": 7,
+            "content": "*स्थूरिन्¦ <lex>m.</lex> = स्थौरिन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्थूरिन्",
+            "eid": "114113",
+            "pagenum": 7,
+            "content": "स्थूरिन्¦ <lex>m.</lex> = स्थौरिन् <ls>H. 1263</ls>, <ls>Schol.</ls> <ls>HALĀY. 2, 111.</ls>"
+        }
     ]
 }

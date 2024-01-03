@@ -31,5 +31,79 @@
             "pagenum": 678,
             "content": "viSruti¦ <i>f.</i> Celebrity, fame."
         }
+    ],
+    "MW": [
+        {
+            "word": "विश्रुति",
+            "eid": "200932",
+            "pagenum": 992,
+            "content": "<hom>1.</hom> वि-श्रुति ¦ <lex>f.</lex> oozing, flowing, <ls>ib.</ls><info lex='f'/>"
+        },
+        {
+            "word": "विश्रुति",
+            "eid": "200933",
+            "pagenum": 992,
+            "content": "¦ ‘flowing asunder’, ramification of a channel or road, <ls>ŚāṅkhŚr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विश्रुति",
+            "eid": "200934",
+            "pagenum": 992,
+            "content": "¦ ‘flowing (<ab>scil.</ab> with milk)’, <ab>N.</ab> of the cow, <ls>VS.</ls>; <ls>PañcavBr.</ls> (<ab>Sch.</ab> ‘the celebrated one’; <ab>cf.</ab> <hom>2.</hom> वि-श्रुति). <info lex='inh'/>"
+        },
+        {
+            "word": "विश्रुति",
+            "eid": "200959",
+            "pagenum": 992,
+            "content": "<hom>2.</hom> वि-श्रुति ¦ <lex>f.</lex> celebrity, fame, notoriety, <ls>MBh.</ls>; <ls>BhP.</ls> (°तिं √ गम्, to become famous or celebrated)<info lex='f'/>"
+        },
+        {
+            "word": "विश्रुति",
+            "eid": "200960",
+            "pagenum": 992,
+            "content": "¦ <ab>N.</ab> of a <ab>partic.</ab> <s1 slp1='sruti'>Sruti</s1>, <ls>Saṃgīt.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विश्रुति",
+            "eid": "44196",
+            "pagenum": 943,
+            "content": "1. <i>vi-śruti, is,</i>¦ f. celebrity, fame, notoriety."
+        },
+        {
+            "word": "विश्रुति",
+            "eid": "44201",
+            "pagenum": 943,
+            "content": "2. <i>vi-śruti, is,</i>¦ f. flowing, oozing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विश्रुति",
+            "eid": "104730",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विश्रुति¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Berühmtheit, Ruhm</i>. <div n='1'>— 2〉 <i>eine <ab>best.</ab></i> <is>Śruti</is> <ls>S. S. S. 24</ls>."
+        },
+        {
+            "word": "विश्रुति",
+            "eid": "104731",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> विश्रुति¦ (<ab>st.</ab> विस्रुति) <lex>f.</lex> <div n='1'>— 1〉 <i>Verzweigung</i> (des Weges oder Wasserlaufes). <div n='1'>— 2〉 als mystischer Name der Kuh etwa so <ab>v. a.</ab> <i>die nach den Seiten Ausströmende</i> (nach den Erklärern <i>die Gerühmte, Berühmte;</i> also zu <hom>1.</hom> विश्रुति). <ab>Voc.</ab> °ति (<ls>VS.</ls>) und °ते."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विश्रुति",
+            "eid": "93381",
+            "pagenum": 6,
+            "content": "1. विश्रुति¦ (von श्रु mit वि) <lex>f.</lex> <i>Berühmtheit, Ruhm</i> <ls>BHĀG. P. 3, 25, 2. 10, 29, 82.</ls> विश्रुतिं गम् <i>berühmt werden</i> <ls>MBH. 5, 4561.</ls> <div n='v'>— Vgl. लोक° ."
+        },
+        {
+            "word": "विश्रुति",
+            "eid": "93382",
+            "pagenum": 6,
+            "content": "2. विश्रुति¦ (von श्रु = स्रु mit वि) <lex>f.</lex> <i>Verzweigung</i> (des Weges oder Wasserlaufes): विश्रुतयो यथा पथ इन्द्र त्वद्यन्ति रातयः <ls>ŚĀṄKH. ŚR. 9, 6, 6.</ls> Unter mystischen Namen der Kuh so v. a. <i>die nach den Seiten Ausströmende</i>: voc. °ति <ls>VS. 8, 43.</ls> °ते <ls>PAÑCAV. BR. 20, 15, 15.</ls>"
+        }
     ]
 }

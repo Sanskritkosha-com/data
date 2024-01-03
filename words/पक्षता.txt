@@ -31,5 +31,65 @@
             "pagenum": 228,
             "content": "पक्षता¦ <i>f.</i> Bundesgenossenschaft."
         }
+    ],
+    "MW": [
+        {
+            "word": "पक्षता",
+            "eid": "113113",
+            "pagenum": 573,
+            "content": "पक्ष—ता ¦ <lex>f.</lex> partisanship, adherence to a party (°तां-√ गम्, with <ab>gen.</ab> ‘to take the side of’), <ls>MBh.</ls><info lex='f'/>"
+        },
+        {
+            "word": "पक्षता",
+            "eid": "113114",
+            "pagenum": 573,
+            "content": "¦ (in <ab>phil.</ab>) the taking up a side or argument<info lex='inh'/>"
+        },
+        {
+            "word": "पक्षता",
+            "eid": "113115",
+            "pagenum": 573,
+            "content": "¦ maintaining or defending a thesis<info lex='inh'/>"
+        },
+        {
+            "word": "पक्षता",
+            "eid": "113116",
+            "pagenum": 573,
+            "content": "¦ the essential nature of a proposition<info lex='inh'/>"
+        },
+        {
+            "word": "पक्षता",
+            "eid": "113117",
+            "pagenum": 573,
+            "content": "¦ the being the premiss to be proved<info lex='inh'/>"
+        },
+        {
+            "word": "पक्षता",
+            "eid": "113118",
+            "pagenum": 573,
+            "content": "¦ <ab>N.</ab> of <ab>sev.</ab> works.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पक्षता",
+            "eid": "61607",
+            "pagenum": 4,
+            "content": "पक्षता¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Bundesgenossenschaft</i>. °तां गम् <i>Jmds</i> (<ab>Gen.</ab>) <i>Partei ergreifen</i>. <div n='1'>— 2〉 <i>das Subjectsein eines Schlusses</i>. <div n='1'>— 3〉 Titel eines Werkes <ls>OPP. CAT. 1</ls>. °टिप्पणी <lex>f.</lex> und °टीका <lex>f.</lex> <ls>ebend.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पक्षता",
+            "eid": "41199",
+            "pagenum": 4,
+            "content": "पक्षता¦ (von पक्ष) <lex>f.</lex> <i>Bundesgenossenschaft</i>: गतो हि पक्षतां तेषाम् <i>er hat ihre Partei ergriffen</i> <ls>MBH. 2, 2665.</ls>"
+        },
+        {
+            "word": "पक्षता",
+            "eid": "77783",
+            "pagenum": 5,
+            "content": "पक्षता¦ nom. abstr. von पक्ष 10): °धर्म  <ls>Verz. d. Oxf. H. 242,a, No. 593. fgg.</ls>; vgl. पक्षधर्मता <ls n='Verz. d. Oxf. H.'>240,b, No. 586.</ls>"
+        }
     ]
 }

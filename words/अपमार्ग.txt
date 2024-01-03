@@ -59,5 +59,61 @@
             "pagenum": 35,
             "content": "apa-mArga¦ <i>m.</i> a by-way, a side-way."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपमार्ग",
+            "eid": "9375",
+            "pagenum": 50,
+            "content": "<hom>1.</hom> अप-मार्ग ¦ <lex>m.</lex> a by-way, <ls>Pañcat.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अपमार्ग",
+            "eid": "9382",
+            "pagenum": 50,
+            "content": "<hom>2.</hom> अप-मार्ग ¦ <lex>m.</lex> wiping off, cleaning, <ls>Śiś.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपमार्ग",
+            "eid": "3332",
+            "pagenum": 51,
+            "content": "अपमार्ग¦ <i>apa-mārga, as,</i> m. a by-way."
+        },
+        {
+            "word": "अपमार्ग",
+            "eid": "54678",
+            "pagenum": 1182,
+            "content": "<i>Apa-mārga, as,</i>¦ m. (fr. <i>apa-mṛj</i>), wiping off, cleaning, removing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपमार्ग",
+            "eid": "6019",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अपमार्ग¦ <lex>m.</lex> <i>Abwischung</i>."
+        },
+        {
+            "word": "अपमार्ग",
+            "eid": "6020",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अपमार्ग¦ <lex>m.</lex> <i>Seitenweg</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपमार्ग",
+            "eid": "3814",
+            "pagenum": 1,
+            "content": "अपमार्ग¦ (1. अप + मार्ग) <lex>m.</lex> <i>Seitenweg</i>: संमुखो भूत्वापमार्गेण <ls>PAÑCAT. 169, 15.</ls>"
+        },
+        {
+            "word": "अपमार्ग",
+            "eid": "64110",
+            "pagenum": 5,
+            "content": "अपमार्ग¦ (von 1. मर्ज् mit अप) <lex>m.</lex> <i>das Abwischen, Putzen</i>: अमतद्रवैर्विदधदब्जदृशामपमार्गमोषधिपतिः <i>(der Mond</i> und zugleich <i>Arzt)</i> स्म करैः <ls>ŚIŚ. 9, 36.</ls>"
+        }
     ]
 }

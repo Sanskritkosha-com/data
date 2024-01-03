@@ -31,5 +31,61 @@
             "pagenum": 127,
             "content": "<b>ālokana,</b>¦ <i><ab>n.</ab></i> the beholding. [<b>√lok + ā.</b>]"
         }
+    ],
+    "MW": [
+        {
+            "word": "आलोकन",
+            "eid": "26917",
+            "pagenum": 154,
+            "content": "आ-लोकन ¦ <lex>mfn.</lex> looking at<info lex='m:f:n'/>"
+        },
+        {
+            "word": "आलोकन",
+            "eid": "26918",
+            "pagenum": 154,
+            "content": "¦ contemplating<info lex='inh'/>"
+        },
+        {
+            "word": "आलोकन",
+            "eid": "26919",
+            "pagenum": 154,
+            "content": "आ-लोकन ¦ <lex>n.</lex> seeing, looking<info lex='n'/>"
+        },
+        {
+            "word": "आलोकन",
+            "eid": "26920",
+            "pagenum": 154,
+            "content": "¦ sight, beholding, <ls>Yājñ.</ls>; <ls>Ragh.</ls>; <ls>Kum.</ls>; <ls>Kathās.</ls>; <ls>Sāh.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आलोकन",
+            "eid": "9312",
+            "pagenum": 130,
+            "content": "<i>Ā-lokana, am,</i>¦ n. seeing, looking, sight, beholding."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आलोकन",
+            "eid": "15873",
+            "pagenum": 1,
+            "content": "आलोकन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>anblickend, anschauend</i>. Dazu <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>Spr. 7210</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>das Ansehen, Anblicken, Anblick</i> <ls n='Chr.'>176,26. 300,32</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आलोकन",
+            "eid": "9419",
+            "pagenum": 1,
+            "content": "आलोकन¦ (wie eben) <lex>n.</lex> <i>das Sehen, Ansehen, Anblicken, Erblicken</i> <ls>AK. 3, 3, 31.</ls> तव कुरुते - आलोकनम् <i>er schaut dich an</i> <ls>CĀT. 4.</ls> mit dem obj. comp. भास्करा° <ls>YĀJÑ. 1, 33.</ls> <ls>VIKR. 150.</ls> <ls>RAGH. 7, 5.</ls> <ls>KUMĀRAS. 2, 45.</ls> <ls>KATHĀS. 17, 143.</ls> <ls n='KATHĀS.'>21, 79.</ls> <ls n='KATHĀS.'>22, 250.</ls> <ls>VID. 85.</ls> <ls>SĀH. D. 43, 12.</ls>"
+        },
+        {
+            "word": "आलोकन",
+            "eid": "66899",
+            "pagenum": 5,
+            "content": "आलोकन¦ <lex>adj.</lex> <i>anschauend, betrachtend</i>; davon nom. abstr. °ता <i>das Anschauen, Betrachten</i>: स्त्रीमुखालोकनतया व्यग्राणामल्पचेतसाम् <ls>KĀM. NĪTIS. 14, 58.</ls>"
+        }
     ]
 }

@@ -47,5 +47,43 @@
             "pagenum": 168,
             "content": "kara-ruha¦ <i>m.</i> 1. a fingernail, कररुहपदैर्मुच्यमानो मदीयैः <ls>Megh.</ls>ii.33; 2. a sword."
         }
+    ],
+    "MD": [
+        {
+            "word": "कररुह",
+            "eid": "5517",
+            "pagenum": 63,
+            "content": "कररुह¦ kara-ruha, <lex>m.</lex> finger-nail; <b>-vīra,</b> <lex>n.</lex> 🞄fragrant oleander."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कररुह",
+            "eid": "44150",
+            "pagenum": 253,
+            "content": "कर—रुह ¦ <lex>m.</lex> ‘growing from the hand’, a finger-nail, <ls>Śak.</ls>; <ls>Bhartṛ.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "कररुह",
+            "eid": "44151",
+            "pagenum": 253,
+            "content": "¦ <bot>Unguis Odoratus</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कररुह",
+            "eid": "24677",
+            "pagenum": 2,
+            "content": "कररुह¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Fingernagel</i> <ls>PRASANNAR. 7,1</ls>. <div n='1'>— 2〉 *<i><zoo>Unguis odoratus</zoo></i> <ls>RĀJAN. 12,128</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कररुह",
+            "eid": "15169",
+            "pagenum": 2,
+            "content": "कररुह¦ (कर <i>Hand</i> + रुह <i>wachsend</i>) <lex>m.</lex> <i>Fingernagel</i> <ls>AK. 2, 6, 2, 34.</ls> <ls>H. 594</ls>, <ls>Sch.</ls>  <ls>BHARTṚ. Suppl. 18.</ls> <ls>ŚĀK. 43.</ls> <ls>MEGH. 94.</ls>"
+        }
     ]
 }

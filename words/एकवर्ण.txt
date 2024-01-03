@@ -31,5 +31,79 @@
             "pagenum": 136,
             "content": "<b>eka-varṇa,</b>¦ <i><ab>a.</ab></i> having one color, not brindled."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकवर्ण",
+            "eid": "39558",
+            "pagenum": 229,
+            "content": "एक—वर्ण ¦ <lex>m.</lex> a single sound or letter, <ls>RPrāt.</ls>; <ls>VPrāt.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "एकवर्ण",
+            "eid": "39559",
+            "pagenum": 229,
+            "content": "एक—वर्ण ¦ <lex>mfn.</lex> of one colour, one-coloured, uniform, <ls>PārGṛ.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकवर्ण",
+            "eid": "39560",
+            "pagenum": 229,
+            "content": "¦ having one caste only, being all one caste, <ls>MBh. iii</ls><info lex='inh'/>"
+        },
+        {
+            "word": "एकवर्ण",
+            "eid": "39561",
+            "pagenum": 229,
+            "content": "¦ consisting of one sound only, <ls>RPrāt. 110</ls>; <ls>VPrāt. i, 151</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकवर्ण",
+            "eid": "21924",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> एकवर्ण¦ <lex>m.</lex> <i>ein einziger Laut</i>."
+        },
+        {
+            "word": "एकवर्ण",
+            "eid": "21925",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> एकवर्ण¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>einfarbig, gleich</i>. — <ls>Spr. 1375</ls>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>BRAHMABINDŪP. 19</ls>. <div n='2'>— b〉 <i>einförmig</i> <ls>BHĀG. P. 8,5,29</ls>. <div n='2'>— c〉 <i>nur eine Kaste habend</i>. <div n='2'>— d〉 <i>nur aus einem Laute bestehend</i>. <div n='1'>— 2〉 *<lex>f.</lex> ई <i>ein <ab>best.</ab> <ab>musik.</ab> Instrument</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकवर्ण",
+            "eid": "13349",
+            "pagenum": 1,
+            "content": "एकवर्ण¦ (एक + वर्ण) <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>einfarbig</i> <ls>PĀR. GṚHY. 3, 9.</ls> <ls>MBH. 13, 3781.</ls> <div n='2'>— b) <i>identisch</i> <ls>BHĀG. P. 8, 5, 29.</ls> <div n='2'>— c) <i>nur aus einer Kaste bestehend</i>: एकवर्णस्तदा लोको भविष्यति युगक्षये <ls>MBH. 3, 13051.</ls> <div n='2'>— d) <i>nur aus einem Buchstaben bestehend</i>: एकवर्णसमीकरण <i>eine Gleichung mit einer unbekannten Grösse</i> <ls>COLEBR. Alg. 185.</ls> <div n='1'>— 2) <lex>f.</lex> °र्णी <i>ein best. musik. Instrument</i> (वाद्यभेद), = कङ्कमाला, करताली, कलंकषा <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "एकवर्ण",
+            "eid": "68900",
+            "pagenum": 5,
+            "content": "1. एकवर्ण¦ <lex>m.</lex> <i>ein einziger Laut</i> <ls>VS. PRĀT. 4, 145.</ls> °वत् <ls n='VS. PRĀT.'>141.</ls> <ls>ṚV. PRĀT. 1, 17</ls> (nach der richtigen Lesart). <ls>AV. PRĀT. 1, 40.</ls>"
+        },
+        {
+            "word": "एकवर्ण",
+            "eid": "68901",
+            "pagenum": 5,
+            "content": "2. एकवर्ण¦ <lex>adj.</lex> <div n='1'> 1) <div n='2'> a) <ls>R. 7, 30, 19.</ls> <div n='2'>— d) <ls>ṚV. PRĀT. 2, 2.</ls> <ls>VS. PRĀT. 1, 151.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "एकवर्ण",
+            "eid": "1764",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> एकवर्ण¦ 1〉e〉 <i>zu derselben Kaste gehörig</i> <ls>KĀLAC. 5,196</ls>."
+        },
+        {
+            "word": "एकवर्ण",
+            "eid": "15405",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> एकवर्ण¦ I. 1."
+        }
     ]
 }

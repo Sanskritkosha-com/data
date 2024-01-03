@@ -23,5 +23,51 @@
             "pagenum": 243,
             "content": "<b>ukthín,</b>¦ <ab>a.</ab>, 1〉 <i>Loblied</i> [ukthá] <i>sprechend, preisend;</i> 2〉 <i>von Loblied begleitet, unter Lobsprüchen dargebracht</i>. <div n='TS'>-ínam 2〉 (sutám) {286,1}; {700,2}. <div n='TS'>-ínas [<ab>N.</ab>] 1〉 {635,6}; {1022,6}; jaritā́ras {246,5}; náras {653,2}. — 2〉 sómāsas {685,8}; {874,4}."
         }
+    ],
+    "MD": [
+        {
+            "word": "उक्थिन्",
+            "eid": "4270",
+            "pagenum": 47,
+            "content": "उक्थिन्¦ ukth-ín, <lex>a.</lex> praising; <b>-yâ,</b> <lex>a.</lex> praiseworthy."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उक्थिन्",
+            "eid": "30063",
+            "pagenum": 172,
+            "content": "उक्थिन् ¦ <lex>mfn.</lex> uttering verses, praising, lauding<info lex='m:f:n'/>"
+        },
+        {
+            "word": "उक्थिन्",
+            "eid": "30064",
+            "pagenum": 172,
+            "content": "¦ accompanied by praise or (in ritual) by <s1 slp1='ukTa'>Uktha</s1>s, <ls>RV.</ls>; <ls>VS.</ls>; <ls>AitBr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उक्थिन्",
+            "eid": "10149",
+            "pagenum": 145,
+            "content": "<i>Ukthin, ī, inī, i,</i>¦ Ved. uttering verses, praising, lauding; accompanied by praise, or (in ritual) by ukthas."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उक्थिन्",
+            "eid": "17650",
+            "pagenum": 1,
+            "content": "उक्थि/न्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>Sprüche sprechend, preisend, lobend</i>. <div n='1'>— 2〉 <i>von Preis begleitet,</i> <ab>liturg.</ab> <i>von</i> <is>Uktha</is> (<ab>rit.</ab>) 2〉b〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उक्थिन्",
+            "eid": "10603",
+            "pagenum": 1,
+            "content": "उक्थि/न्¦ (von उक्थ) <lex>adj.</lex> <div n='1'> 1) <i>Sprüche sprechend, preisend, lobend</i>: प्र वा^मर्चन्त्यु\\क्थिनो^ नीथा\\विदो^ जरि\\तार^ः <ls>ṚV. 3, 12, 5.</ls> <ls n='ṚV.'>8, 15, 6.</ls> <ls n='ṚV. 8,'>31, 2.</ls> <ls>VĀLAKH. 5, 6.</ls> <div n='1'>— 2) <i>von Preis begleitet</i>; liturg. <i>von</i> <is>Uktha</is> <i>begleitet</i> <ls>ṚV. 3, 52, 1.</ls> (सोमासः) हृ\\दा हू^यन्त उ\\क्थिन^ः <ls n='ṚV.'>8, 65, 8.</ls> यन्मा\\ सोमा^स उ\\क्थिनो\\ अम^न्दिषुः <ls n='ṚV.'>10, 48, 4.</ls> <ls>VS. 28, 33.</ls> उक्थिन्यो ऽन्या होत्रा अनुक्था अन्याः <ls>AIT. BR. 6, 13. 14.</ls>"
+        }
     ]
 }

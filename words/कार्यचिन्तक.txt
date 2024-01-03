@@ -7,5 +7,35 @@
             "pagenum": 150,
             "content": "<i>Kārya-cintaka</i>¦ (CII 4), a member of the executive committee of a corporation."
         }
+    ],
+    "MW": [
+        {
+            "word": "कार्यचिन्तक",
+            "eid": "48879",
+            "pagenum": 276,
+            "content": "कार्य—चिन्तक ¦ <lex>m.</lex> ‘taking care of a business’, manager of a business, <ls>Yājñ. ii, 191</ls><info lex='m'/>"
+        },
+        {
+            "word": "कार्यचिन्तक",
+            "eid": "48880",
+            "pagenum": 276,
+            "content": "¦ prudent, cautious.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कार्यचिन्तक",
+            "eid": "26979",
+            "pagenum": 2,
+            "content": "कार्यचिन्तक¦ <lex>m.</lex> <i>Geschäftsführer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कार्यचिन्तक",
+            "eid": "16687",
+            "pagenum": 2,
+            "content": "कार्यचिन्तक¦ (का° + चि°) <lex>adj.</lex> subst. <i>der für die Geschäfte sorgt, Geschäftsführer</i> <ls>YĀJÑ. 2, 191.</ls>"
+        }
     ]
 }

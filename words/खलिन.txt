@@ -44,5 +44,55 @@
             "pagenum": 227,
             "content": "Kali(lI)na¦ <i>m.n.</i> The bit of a bridle."
         }
+    ],
+    "MW": [
+        {
+            "word": "खलिन",
+            "eid": "61624",
+            "pagenum": 338,
+            "content": "<hom>1.</hom> खलिन ¦ <lex>m.</lex> <ab>N.</ab> of a place (named after the <s1 slp1='Kalin'>Khalin</s1>s), <ls>MBh. xiii, 7288.</ls><info lex='m'/>"
+        },
+        {
+            "word": "खलिन",
+            "eid": "61646",
+            "pagenum": 338,
+            "content": "<hom>2.</hom> खलिन ¦ <lex>mn.</lex> (<ab>cf.</ab> <lang n='greek'>χαλινός</lang>) the bit of a bridle, <ls>VarBṛS. xliv, 22</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "खलिन",
+            "eid": "61647",
+            "pagenum": 338,
+            "content": "¦ <ls n='VarBṛS.'>xciii, 9.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खलिन",
+            "eid": "16777",
+            "pagenum": 274,
+            "content": "<i>Khalina, as, ā, am,</i>¦ covered with sediment, covered with oil-dregs (?); (<i>as, am</i>), m. n. the bit of a bridle; see <i>khalīna;</i> [cf. Gr. <lang n='greek'>χαλινός.</lang>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खलिन",
+            "eid": "33619",
+            "pagenum": 2,
+            "content": "खलिन¦ <div n='1'>— 1〉 (*<lex>m.</lex> *<lex>n.</lex>) <i>Gebiss eines Zaumes</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> einer Oertlichkeit <ls>MBH. 13,156,24</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खलिन",
+            "eid": "21061",
+            "pagenum": 2,
+            "content": "खलिन¦ <div n='1'> 1) <lex>adj.</lex> viell. <i>gleichsam mit Oelkuchen bedeckt</i> (von खल): हताश्च खलिनो (eine Art <is>Gandharva</is>) यत्र स देशः खलिनो ऽभवत् <ls>MBH. 13, 7288.</ls> <div n='1'>— 2) <lex>m.</lex> <lex>n.</lex> = खलीन <ls>RĀYAM.</ls> zu <ls>AK. 2, 8, 2, 17.</ls> <ls>ŚKDR.</ls> <ls>H. 1250</ls>, <ls>Sch.</ls>"
+        },
+        {
+            "word": "खलिन",
+            "eid": "72310",
+            "pagenum": 5,
+            "content": "खलिन¦ <div n='1'> 2) <ls>VARĀH. BṚH. S. 44, 22. 93, 9.</ls>"
+        }
     ]
 }

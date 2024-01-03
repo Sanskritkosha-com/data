@@ -47,5 +47,51 @@
             "pagenum": 669,
             "content": "vipravAsa¦ <i>m.</i> Residence in a foreign country, staying abroad."
         }
+    ],
+    "MW": [
+        {
+            "word": "विप्रवास",
+            "eid": "197992",
+            "pagenum": 976,
+            "content": "<hom>5.</hom> वि-°प्रवास ¦ <lex>m.</lex> going or dwelling abroad, staying away from (<ab>abl.</ab> or <ab>comp.</ab>), <ls>MBh.</ls>; <ls>R.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "विप्रवास",
+            "eid": "198001",
+            "pagenum": 976,
+            "content": "<hom>2.</hom> वि-प्र-वास ¦ <lex>m.</lex> (√ <hom>4.</hom> वस्) the offence committed by a monk in giving away his garment, <ls>Buddh.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विप्रवास",
+            "eid": "43366",
+            "pagenum": 929,
+            "content": "<i>Vi-pravāsa, as,</i>¦ m. dwelling at a distance, residence in a foreign country, staying abroad."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विप्रवास",
+            "eid": "103490",
+            "pagenum": 6,
+            "content": "विप्रवास¦ <lex>m.</lex> <i>ein Aufenthalt auswärts, das Verreisen</i> (<ls>GAUT.</ls>), <i>das Verweilen ausserhalb von</i> (<ab>Abl.</ab> oder im <ab>Comp.</ab> vorangehend)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विप्रवास",
+            "eid": "92344",
+            "pagenum": 6,
+            "content": "विप्रवास¦ (von 5. वस् mit विप्र) <lex>m.</lex> <i>ein Aufenthalt auswärts</i>: ज्ञातिभिः <ls>MBH. 3, 15870.</ls> °मलाः स्त्रियः <ls n='MBH.'>5, 1525.</ls> <ls>R. GORR. 2, 50, 20.</ls> <ls n='R. GORR.'>5, 33, 33.</ls> <ls>BHĀG. P. 6, 8, 13.</ls> गृहेभ्यः <i>ausserhalb des Hauses</i> <ls>Spr. (II) 252.</ls> पुर° <ls>R. 2, 56, 33.</ls> अ° <ls>ŚĀṄKH. GṚHY. 1, 17.</ls> <ls>Spr. (II) 1013.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "विप्रवास",
+            "eid": "21177",
+            "pagenum": 7,
+            "content": "विप्रवास¦ VI. <i>*das Vergehen eines Mönchs, wenn er sein Gewand weggiebt,</i> <ls><ab>ebend.</ab> 260</ls>."
+        }
     ]
 }

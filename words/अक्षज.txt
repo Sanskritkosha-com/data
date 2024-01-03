@@ -28,5 +28,53 @@
             "pagenum": 2,
             "content": "akza-ja¦ <i>m.</i> a diamond."
         }
+    ],
+    "MW": [
+        {
+            "word": "अक्षज",
+            "eid": "434",
+            "pagenum": 3,
+            "content": "अ/क्ष—ज <hom>a</hom> ¦ <lex>m.</lex> a diamond<info lex='m'/>"
+        },
+        {
+            "word": "अक्षज",
+            "eid": "435",
+            "pagenum": 3,
+            "content": "¦ a thunderbolt<info lex='inh'/>"
+        },
+        {
+            "word": "अक्षज",
+            "eid": "436",
+            "pagenum": 3,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>.<info lex='inh'/>"
+        },
+        {
+            "word": "अक्षज",
+            "eid": "469",
+            "pagenum": 3,
+            "content": "अक्ष—ज <hom>b</hom> ¦ <lex>m.</lex> a thunderbolt<info lex='m'/>"
+        },
+        {
+            "word": "अक्षज",
+            "eid": "470",
+            "pagenum": 3,
+            "content": "¦ <ab>N.</ab> <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अक्षज",
+            "eid": "261",
+            "pagenum": 1,
+            "content": "*अक्षज¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Donnerkeil</i>. <div n='1'>— 2〉 <ab>Bein.</ab> <is>Viṣṇu</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अक्षज",
+            "eid": "171",
+            "pagenum": 1,
+            "content": "अक्षज¦ (अक्ष + ज) <lex>m.</lex> <div n='1'> 1) <i>Donnerkeil</i> <ls>PUR.</ls> im <ls>ŚKDR.</ls> (v. l. अस्थिज) <div n='1'>— 2) <is>Viṣṇu</is>, <ls>H. ś. 70.</ls>"
+        }
     ]
 }

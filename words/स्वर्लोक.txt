@@ -37,5 +37,53 @@
             "pagenum": 821,
             "content": "svar-loka¦ <i>m.</i> the celestial region, the heaven, स्खलंती स्वर्लोकादवनितलशोकापहृतये <ls>G.L.</ls>14."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्वर्लोक",
+            "eid": "259152",
+            "pagenum": 1281,
+            "content": "स्वर्—लोक ¦ <lex>m.</lex> the world of <ab n='heaven'>h°</ab>, a <ab>partic.</ab> <ab n='heaven'>h°</ab>, the region called <s1 slp1='svar'>Svar</s1> (<ab>cf.</ab> भुवर्-, भूर्-ल्°), <ls>R.</ls>; <ls>Pur.</ls><info lex='m'/>"
+        },
+        {
+            "word": "स्वर्लोक",
+            "eid": "259153",
+            "pagenum": 1281,
+            "content": "¦ <ab>N.</ab> of mount <s1 slp1='meru'>Meru</s1> (also -शिखर), <ls>Daś.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "स्वर्लोक",
+            "eid": "259154",
+            "pagenum": 1281,
+            "content": "स्वर्—लोक ¦ <lex>m.</lex> an occupant of <ab n='heaven'>h°</ab>, a god, one of the Blest (-ता <lex type='phw'>f.</lex>), <ls>BhP.</ls><info phwchild='259154.1'/><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्वर्लोक",
+            "eid": "132717",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स्वर्लोक¦ <lex>m.</lex> <i>die Himmelswelt und eine <ab>best.</ab> Himmelswelt;</i> auch <ab>Bez.</ab> des Berges <is>Meru</is> <ls>DAŚAK. 1,19</ls>."
+        },
+        {
+            "word": "स्वर्लोक",
+            "eid": "132718",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> स्वर्लोक¦ <lex>Adj.</lex> <i>der Himmelswelt theilhaftig;</i> <lex>m.</lex> <i>ein Gott, ein Seliger</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्वर्लोक",
+            "eid": "115419",
+            "pagenum": 7,
+            "content": "1. स्वर्लोक¦ <lex>m.</lex> <i>die Himmelswelt</i>, auch <i>eine best. Himmelswelt</i> (neben भुवर्लोक, भूलोक u.s.w.) <ls>TRIK. 1, 1, 4.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>Ind. St. 2, 178. 9, 119.</ls> <ls>R. 1, 44, 57</ls> (<ls n='GORR. 1,'>45, 52</ls> <ls>GORR.</ls>). <ls>P. 3, 3, 6</ls>, Schol. <ls>Spr. (II) 7332.</ls> <ls>VP. 2, 7, 18.</ls> <ls>MĀRK. P. 42, 11. 46, 39.</ls> <ls>BHĀG. P. 2, 5, 38. 42. 6, 42. 4, 12, 31. 8, 21, 31.</ls> <ls>PAÑCAR. 2, 2, 58.</ls> <div n='v'>— Vgl. 1. स्वर्गलोक ."
+        },
+        {
+            "word": "स्वर्लोक",
+            "eid": "115420",
+            "pagenum": 7,
+            "content": "2. स्वर्लोक¦ <lex>adj.</lex> <i>der Himmelswelt theilhaftig, ein Gott, - Seliger</i>; davon nom. abstr. °ता <lex>f.</lex> <ls>BHĀG. P. 10, 10, 22.</ls> <div n='v'>— Vgl. 2. स्वर्गलोक ."
+        }
     ]
 }

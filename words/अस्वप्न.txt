@@ -44,5 +44,67 @@
             "pagenum": 89,
             "content": "asvapna¦ <i>m.</i> A god, a deity."
         }
+    ],
+    "MW": [
+        {
+            "word": "अस्वप्न",
+            "eid": "21603",
+            "pagenum": 124,
+            "content": "अ/-स्वप्न ¦ <lex>m.</lex> sleeplessness, <ls>ŚBr. iii</ls>; <ls>ṢaḍvBr.</ls> (अम्, <lex type='hwalt'>n.</lex>), <ls>VarBṛS.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "अस्वप्न",
+            "eid": "21604",
+            "pagenum": 124,
+            "content": "अ-स्वप्न/ ¦ <lex>mfn.</lex> (= <lang n='greek'>ἄϋπνος</lang>) not sleeping, watchful, <ls>AV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अस्वप्न",
+            "eid": "21605",
+            "pagenum": 124,
+            "content": "¦ not dreaming, <ls>NṛsUp.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अस्वप्न",
+            "eid": "21606",
+            "pagenum": 124,
+            "content": "अ-स्वप्न/ ¦ <lex>m.</lex> ‘sleepless’, a god, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अस्वप्न",
+            "eid": "7715",
+            "pagenum": 108,
+            "content": "अस्वप्न¦ <i>a-svapna, as, ā, am,</i> Ved. sleepless, awake; (<i>as</i>), m. sleeplessness, the being awake; a god, a deity [cf. <lang n='greek'>ἄϋπνος</lang>]."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अस्वप्न",
+            "eid": "13055",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/स्वप्न¦ <lex>m.</lex> <lex>n.</lex> <i>Schlaflosigkeit</i>."
+        },
+        {
+            "word": "अस्वप्न",
+            "eid": "13056",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अस्वप्न/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>nicht schlafend, wachsam</i>. <div n='2'>— b〉 <i>nicht träumend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>ein Gott</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अस्वप्न",
+            "eid": "7601",
+            "pagenum": 1,
+            "content": "1. अ/स्वप्न¦ (3. अ + स्वप्न) <lex>m.</lex> <i>Schlaflosigkeit, Wachsein</i> <ls>ŚAT. BR. 3, 2, 2, 22.</ls> <lex>n.</lex> (sic!) <ls>ṢAḌV. BR. 6, 4</ls> in <ls>Ind. St. 1, 40.</ls>"
+        },
+        {
+            "word": "अस्वप्न",
+            "eid": "7602",
+            "pagenum": 1,
+            "content": "2. अस्वप्न/¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>schlaflos, wachsam</i>: अ\\स्व\\प्नो यश्च\\ जागृ^विः <ls>AV. 5, 30, 10.</ls> <ls n='AV.'>8, 1, 13.</ls> यां रक्ष^न्त्यस्व\\प्ना वि^श्व\\दानी^ं दे\\वा भूमि^म् <ls n='AV.'>12, 1, 7.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Gott, Gottheit</i> <ls>AK. 1, 1, 1, 3.</ls> <ls>H. 89.</ls>"
+        }
     ]
 }

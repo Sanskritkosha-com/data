@@ -15,5 +15,49 @@
             "pagenum": 105,
             "content": "औपवसथिक¦ <lex>a.</lex>  belonging to the fast-day."
         }
+    ],
+    "MW": [
+        {
+            "word": "औपवसथिक",
+            "eid": "41092",
+            "pagenum": 238,
+            "content": "औपवसथिक ¦ <lex>mfn.</lex> designed for or belonging to the <s1 slp1='upa-vasaTa'>Upa-vasatha</s1> (<ab>q.v.</ab>) ceremony, <ls>ĀśvŚr.</ls>; <ls>Gobh.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "औपवसथिक",
+            "eid": "41093",
+            "pagenum": 238,
+            "content": "औपवसथिक ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1='pariSizwa'>Pariśiṣṭa</s1> of the <s1 slp1='sAma-veda'>Sāma-veda</s1>.<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "औपवसथिक",
+            "eid": "13141",
+            "pagenum": 191,
+            "content": "औपवसथिक¦ <i>aupavasathika, as, ī, am,</i> or <i>aupavasathya, as, ā, am</i> (fr. <i>upa-vasatha</i>), designed for or belonging to the Upa-vasatha; (<i>am</i>), n., N. of a Pariśiṣṭa of the Sāma-veda."
+        }
+    ],
+    "PW": [
+        {
+            "word": "औपवसथिक",
+            "eid": "22962",
+            "pagenum": 1,
+            "content": "औपवसथिक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>zum</i> <is>Upavasatha</is> <i>gehörig, — bestimmt</i> <ls>GOBH. 1,5,26. 6,1</ls>. <div n='1'>— 2〉 Titel eines <is>Pariśiṣṭa</is> zum <ls>SV.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "औपवसथिक",
+            "eid": "14033",
+            "pagenum": 1,
+            "content": "औपवसथिक¦ <lex>adj.</lex> <i>zum</i> <is>Upavasatha</is> <i>bestimmt, - gehörig</i>: कर्म <ls>ĀŚV. ŚR. 12, 1.</ls> <ls>Ind. St. 1, 59.</ls>"
+        },
+        {
+            "word": "औपवसथिक",
+            "eid": "69211",
+            "pagenum": 5,
+            "content": "औपवसथिक¦ Titel eines <is>Pariśiṣṭa</is> des <is>Sāmaveda</is> <ls>Verz. d. Oxf. H. 383,b, No. 466.</ls>"
+        }
     ]
 }

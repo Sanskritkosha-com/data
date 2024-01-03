@@ -21,5 +21,35 @@
             "pagenum": 28,
             "content": "aneka-ja¦ <i>(II) m.</i> a bird."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनेकज",
+            "eid": "7818",
+            "pagenum": 42,
+            "content": "अन्-एक—ज ¦ <lex>mfn.</lex> born more than once<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनेकज",
+            "eid": "7819",
+            "pagenum": 42,
+            "content": "अन्-एक—ज ¦ <lex>m.</lex> a bird, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनेकज",
+            "eid": "5088",
+            "pagenum": 1,
+            "content": "*अनेकज¦ <lex>m.</lex> <i>Vogel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनेकज",
+            "eid": "3185",
+            "pagenum": 1,
+            "content": "अनेकज¦ (अनेक + ज) <div n='1'> 1) <lex>adj.</lex> <i>mehr als ein Mal geboren.</i> <div n='1'>— 2) <lex>m.</lex> <i>Vogel</i> <ls>TRIK. 2, 5, 37.</ls> <div n='v'>— Vgl. द्विज ."
+        }
     ]
 }

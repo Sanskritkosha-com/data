@@ -50,5 +50,49 @@
             "pagenum": 698,
             "content": "vyavaDA¦ <i>f.</i> Anything which intervenes, a screen, a covering, a partition."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्यवधा",
+            "eid": "208964",
+            "pagenum": 1033,
+            "content": "व्य्-अव-√ धा <hom>a</hom> ¦ <ab>P.</ab> <ab>Ā.</ab> -दधाति, -द्कत्ते, to place apart or asunder, <ls>ŚāṅkhBr.</ls>; <div n='to'/>to put or place between, interpose, <ls>Ragh.</ls>; <div n='to'/>to leave out, omit, <ls>Kāṭh.</ls>; <div n='to'/>to separate, divide, interrupt, <ls>BhP.</ls> : <div n='vp'/><ab>Pass.</ab> -धीयते, to be separated or divided or interrupted, <ls>R.</ls>; <ls>BhP.</ls> : <div n='vp'/><ab>Caus.</ab>, -धापयति, to separate, <ls>Naiṣ.</ls><info verb='pre' cp='PĀ' parse='vi+ava+DA'/>"
+        },
+        {
+            "word": "व्यवधा",
+            "eid": "208965",
+            "pagenum": 1033,
+            "content": "व्य्-अवधा <hom>b</hom> ¦ <lex>f.</lex> covering or anything that covers, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्यवधा",
+            "eid": "45466",
+            "pagenum": 976,
+            "content": "व्यवधा 1¦. <i>vy-ava-dhā (vi-ava-),</i> cl. 3. P. A. <i>-dadhāti, -dhatte, -dhātum,</i> to place apart or asunder; to put or place between, interpose; to separate, divide, interrupt, obstruct, cover, screen, conceal; to lay aside, leave out, omit, pass over; to put down here and there: Pass. <i>-dhīyate,</i> to be separated or separated from."
+        },
+        {
+            "word": "व्यवधा",
+            "eid": "45467",
+            "pagenum": 976,
+            "content": "2. <i>vy-avadhā,</i>¦ f. anything which intervenes or conceals from sight; a screen, partition, covering, the state of being covered, concealment, disappearance."
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्यवधा",
+            "eid": "108431",
+            "pagenum": 6,
+            "content": "*व्यवधा¦ <lex>f.</lex> <i>Verhüllung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्यवधा",
+            "eid": "96367",
+            "pagenum": 6,
+            "content": "व्यवधा¦ (1. धा mit व्यव) <lex>f.</lex> <i>Verhüllung</i> <ls>AK. 1, 1, 2, 14.</ls> <ls>H. 1477.</ls>"
+        }
     ]
 }

@@ -43,5 +43,55 @@
             "pagenum": 883,
             "content": "<b>prasárga,</b>¦ <ab>m.</ab>, dasselbe. <div n='TS'>-e {121,4}."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रसर्ग",
+            "eid": "137923",
+            "pagenum": 697,
+            "content": "प्र-सर्ग <hom>a</hom> ¦ प्र-सर्जन See प्र-√ सृज्."
+        },
+        {
+            "word": "प्रसर्ग",
+            "eid": "138174",
+            "pagenum": 698,
+            "content": "प्र-सर्ग/ <hom>b</hom> (or °स/र्ग) ¦ <lex>m.</lex> pouring or flowing forth, <ls>RV.</ls><info lex='m'/><info or='138174,prasarga'/>"
+        },
+        {
+            "word": "प्रसर्ग",
+            "eid": "138174.1",
+            "pagenum": 698,
+            "content": "¦ dismissal, <ls>ŚāṅkhŚr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रसर्ग",
+            "eid": "33136",
+            "pagenum": 647,
+            "content": "प्रसर्ग¦ <i>pra-sarga, pra-sarjana.</i> See under <i>pra-sṛj,</i> p. 649, col. 2."
+        },
+        {
+            "word": "प्रसर्ग",
+            "eid": "33222",
+            "pagenum": 649,
+            "content": "<i>Pra-sarga, as,</i>¦ m., Ved. pouring forth, flowing forth, efflux (Sāy. <i>= varṣaṇa</i>); emission, discharge."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रसर्ग",
+            "eid": "73476",
+            "pagenum": 4,
+            "content": "प्रसर्ग/ und प्रर्सर्ग¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das Hervorströmen, Hervorstürzen</i>. <div n='1'>— 2〉 <i>Entlassung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रसर्ग",
+            "eid": "50065",
+            "pagenum": 4,
+            "content": "प्रसर्ग¦ (von सर्ज् mit प्र) <lex>m.</lex> <div n='1'> 1) <i>das Hervorströmen, Hervorstürzen</i>; oxyt.: अ\\पाम् <ls>ṚV. 7, 103, 4.</ls> parox. <ls n='ṚV.'>1, 121, 4.</ls> <div n='1'>— 2) <i>Entlassung</i> <ls>ŚĀṄKH. ŚR. 3, 21, 7. fgg.</ls>"
+        }
     ]
 }

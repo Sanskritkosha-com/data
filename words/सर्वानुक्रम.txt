@@ -23,5 +23,35 @@
             "pagenum": 486,
             "content": "सर्वानुक्रम¦ <i>m.</i> vollständiges Verzeichnis."
         }
+    ],
+    "MW": [
+        {
+            "word": "सर्वानुक्रम",
+            "eid": "239010",
+            "pagenum": 1188,
+            "content": "sarvA<srs/>nukrama, <lex>m.</lex> (<ls>Caraṇ.</ls>), sarvA<srs/>nukra°maRikA, <lex>f.</lex> (<ls>Cat.</ls>) or sarvA<srs/>nukra°maRI, <lex>f.</lex> (<ls>ib.</ls>) ¦ a complete index (<ab>esp.</ab> to the <s1 slp1='veda'>Veda</s1>) <info or='239010,sarvAnukrama;239011,sarvAnukramaRikA;239014,sarvAnukramaRI'/><info lex='m'/>"
+        },
+        {
+            "word": "सर्वानुक्रम",
+            "eid": "239010.1",
+            "pagenum": 1188,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सर्वानुक्रम",
+            "eid": "122264",
+            "pagenum": 7,
+            "content": "सर्वानुक्रम <lex>m.</lex>, °क्रमणिका <lex>f.</lex> und °क्रमणी <lex>f.</lex>¦ <i>vollständiges Inhaltsverzeichniss</i> (<ab>insbes.</ab> zum <is>Veda</is>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सर्वानुक्रम",
+            "eid": "107138",
+            "pagenum": 7,
+            "content": "सर्वानुक्रम¦ <lex>m.</lex> <i>vollständiges Inhaltsverzeichniss</i> (zum <is>Veda</is>) <ls>Ind. St. 3, 270.</ls>"
+        }
     ]
 }

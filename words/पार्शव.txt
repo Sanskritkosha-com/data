@@ -23,5 +23,49 @@
             "pagenum": 434,
             "content": "pArSava¦ <i>m.</i> A warrior armed with an axe."
         }
+    ],
+    "MW": [
+        {
+            "word": "पार्शव",
+            "eid": "122996",
+            "pagenum": 622,
+            "content": "<hom>1.</hom> पार्शव ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>1.</hom> पर्शु) a prince of the <s1 slp1='parSu'>Parśu</s1>s, <ls>Pāṇ. v, 3, 117.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पार्शव",
+            "eid": "123073",
+            "pagenum": 622,
+            "content": "<hom>2.</hom> पार्शव ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>2.</hom> पर्शु) a warrior armed with an axe, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पार्शव",
+            "eid": "29054",
+            "pagenum": 569,
+            "content": "पार्शव 1¦. <i>pārśava, as,</i> m. (fr. 1. <i>parśu</i>), a prince of the Parśus."
+        },
+        {
+            "word": "पार्शव",
+            "eid": "29061",
+            "pagenum": 570,
+            "content": "पार्शव 2¦. <i>pārśava, as,</i> m. a warrior armed with an axe."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पार्शव",
+            "eid": "66466",
+            "pagenum": 4,
+            "content": "*पार्शव¦ <lex>m.</lex> <i>ein Fürst der</i> <is>Parśu</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पार्शव",
+            "eid": "44838",
+            "pagenum": 4,
+            "content": "पार्शव/¦ <lex>m.</lex> <i>ein Fürst der</i> <is>Parśu</is> <ls>P. 5, 3, 117.</ls> <div n='v'>— Vgl. पारशव ."
+        }
     ]
 }

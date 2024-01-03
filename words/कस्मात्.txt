@@ -47,5 +47,45 @@
             "pagenum": 140,
             "content": "<b>kásmāt,</b>¦ <i><ab>adv.</ab></i> why ? wherefore ? [<b>ka,</b> <b><ls n='wg,1114'>1114a</ls>.</b>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "कस्मात्",
+            "eid": "5681",
+            "pagenum": 65,
+            "content": "कस्मात्¦ ká-smāt, <ab>ab.</ab> <i>of</i> kim; <lex>ad.</lex> whence? 🞄why? on what account?"
+        }
+    ],
+    "MW": [
+        {
+            "word": "कस्मात्",
+            "eid": "46896",
+            "pagenum": 266,
+            "content": "क/स्मात् ¦ <lex>ind.</lex> (<ab>abl.</ab> <ab>fr.</ab> <hom>2.</hom> क/, <ls>AV.</ls> &c.) where from? whence? why? wherefore? <ls>MBh.</ls>; <ls>R.</ls>; <ls>Śak.</ls>; <ls>Pañcat.</ls> &c. (<ab>cf.</ab> अ-कस्मात्.)<info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कस्मात्",
+            "eid": "14170",
+            "pagenum": 215,
+            "content": "कस्मात्¦ <i>kasmāt,</i> ind. (abl. fr. 2. <i>ka</i>), where from ? whence? why?"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कस्मात्",
+            "eid": "25935",
+            "pagenum": 2,
+            "content": "क/स्मात्¦ <ab>Abl.</ab> von <hom>1.</hom> क <ls n='Chr.'>31,11</ls>. Als <lex>Adv.</lex> <i>woher? weshalb? Warum?</i>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कस्मात्",
+            "eid": "15958",
+            "pagenum": 2,
+            "content": "कस्मात्¦ (abl. von 1. क) <i>woher? warum?</i> <ls>N. 3, 9.</ls> <ls>ARJ. 9, 27.</ls> <ls>R. 1, 9, 26.</ls> <ls n='R.'>3, 44, 28.</ls> <ls>PAÑCAT. I. 283.</ls> <ls>ŚĀK. 140.</ls> <ls>VID. 190.</ls> <ls>KĀŚ.</ls> zu <ls>P. 1, 2, 35.</ls> <div n='v'>— Vgl. अकस्मात् ."
+        }
     ]
 }

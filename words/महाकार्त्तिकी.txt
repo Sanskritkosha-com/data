@@ -7,5 +7,29 @@
             "pagenum": 177,
             "content": "<i>Mahākārttikī</i>¦ (EI 11; CII 4), full-moon day of the month of Kārttika."
         }
+    ],
+    "MW": [
+        {
+            "word": "महाकार्त्तिकी",
+            "eid": "159364",
+            "pagenum": 795,
+            "content": "महा—कार्त्तिकी ¦ <lex>f.</lex> the night of full moon in the month <s1 slp1='kArttika'>Kārttika</s1> (when the moon is in the constellation <s1 slp1='rohiRI'>Rohiṇī</s1>), <ls>PadmaP.</ls>; <ls>Hcat.</ls><info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महाकार्त्तिकी",
+            "eid": "84162",
+            "pagenum": 5,
+            "content": "महाकार्त्तिकी¦ <lex>f.</lex> <i>die Vollmondsnacht im Monat</i> <is>Kārttika</is>, <i>wenn der Mond im Mondhause</i> <is>Rohiṇī</is> <i>steht,</i> <ls>HEMĀDRI 1,65,22</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महाकार्त्तिकी",
+            "eid": "58324",
+            "pagenum": 5,
+            "content": "महाकार्त्तिकी¦ (म° + का°) <lex>m.</lex> <i>die Vollmondsnacht im Monat</i> <is>Kārttika</is>, <i>wenn der Mond im Sternbild</i> <is>Rohiṇī</is> <i>steht</i> (रोहिणीनक्षत्रयुक्ता कार्त्तिकी पूर्णिमा <ls>ŚKDR.</ls>): प्राजापत्यं यदा ऋक्षं तथैतस्यां नराधिप । सा महाकार्त्तिकी प्रोक्ता देवानामपि दुर्लभा ॥ <ls>PĀDMA-P. 2, 3</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -71,5 +71,57 @@
             "pagenum": 297,
             "content": "qamara¦ <i>(II) n.</i> Running away through fear."
         }
+    ],
+    "MD": [
+        {
+            "word": "डमर",
+            "eid": "8246",
+            "pagenum": 104,
+            "content": "डमर¦ ḍama-ra, <lex>m.</lex> tumult, brawl."
+        }
+    ],
+    "MW": [
+        {
+            "word": "डमर",
+            "eid": "81342",
+            "pagenum": 430,
+            "content": "डमर ¦ <lex>m.</lex> (<lex type='hwalt'>n.</lex>, <ls>L.</ls>) a riot, tumult, <ls>VarBṛS.</ls>; <ls>Kathās. c</ls>; <ls>Pārśvan. iv, 186</ls>; <ab>cf.</ab> डाम्°.<info lex='m:n'/>"
+        },
+        {
+            "word": "डमर",
+            "eid": "81342.1",
+            "pagenum": 1328,
+            "content": "¦ (also) a portent, evil omen, <ls>L.</ls><info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "डमर",
+            "eid": "20164",
+            "pagenum": 356,
+            "content": "डमर¦ <i>ḍamara, as, ā,</i> m. f. a riot, tumult, affray, a conflict without weapons; terrifying an enemy by shouts and gestures; petty or predatory warfare carried on by detachments or between villages and not kings; (<i>am</i>), n. flight, rout, running away through fear; [cf. <i>ḍāmara.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "डमर",
+            "eid": "43902",
+            "pagenum": 2,
+            "content": "डमर¦ <lex>m.</lex> (*<lex>n.</lex>). <i>Schlägerei, Tumult</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "डमर",
+            "eid": "28248",
+            "pagenum": 3,
+            "content": "डमर¦ <i>Schlägerei, Tumult</i> <ls>VARĀH. BṚH. S. 11, 30. 16, 41. 85, 57.</ls> <lex>m.</lex> = डिम्ब, विप्लव <ls>AK. 3, 3, 14.</ls> <ls>H. 803.</ls> = परचक्रादिभय und अस्त्रकलह <ls>SVĀMIN</ls> zu <ls>AK.</ls> im <ls>ŚKDR.</ls> <lex>n.</lex> = शृगालिका, डिम्ब, विद्रव <ls>HĀR. 99.</ls> = भयंकर <ls>H. ś. 87.</ls> <div n='v'>— Vgl. डामर ."
+        },
+        {
+            "word": "डमर",
+            "eid": "74675",
+            "pagenum": 5,
+            "content": "डमर¦ <ls>KATHĀS. 100, 44.</ls> जिनेश्वरे संनिहिते क्व वैरिडमरः <ls>PĀRŚVANĀTHAK. 4, 186</ls> bei <ls>AUFRECHT, HALĀY.</ls> <ls>Ind.</ls>"
+        }
     ]
 }

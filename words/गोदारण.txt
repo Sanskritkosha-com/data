@@ -39,5 +39,41 @@
             "pagenum": 250,
             "content": "go-dAraRa¦ <i>n.</i> 1. a plough; 2. a spade, a hoe."
         }
+    ],
+    "MW": [
+        {
+            "word": "गोदारण",
+            "eid": "67130",
+            "pagenum": 365,
+            "content": "गो—दारण ¦ <lex>n.</lex> ‘opening the earth’, a plough, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "गोदारण",
+            "eid": "67131",
+            "pagenum": 365,
+            "content": "¦ a spade or hoe, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोदारण",
+            "eid": "36574",
+            "pagenum": 2,
+            "content": "*गोदारण¦ <lex>n.</lex> <div n='1'>— 1〉 <i>Pflug</i>. <div n='1'>— 2〉 <i>Hause, Spaten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोदारण",
+            "eid": "23121",
+            "pagenum": 2,
+            "content": "गोदारण¦ (गो <i>Erde</i> + दारण) <lex>n.</lex> <div n='1'> 1) <i>Pflug</i> <ls>AK. 2, 9, 14.</ls> <ls>H. 891.</ls> <div n='1'>— 2) <i>Haue, Spaten</i> <ls>H. 892.</ls>"
+        },
+        {
+            "word": "गोदारण",
+            "eid": "73012",
+            "pagenum": 5,
+            "content": "गोदारण¦ <div n='1'> 2) <ls>HALĀY. 2, 422.</ls>"
+        }
     ]
 }

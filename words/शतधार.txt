@@ -28,5 +28,53 @@
             "pagenum": 706,
             "content": "Sata-DAra¦ <i>n.</i> the thunderbolt of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "शतधार",
+            "eid": "211953",
+            "pagenum": 1049,
+            "content": "शत/—धार ¦ (शत/-), <lex>mf(आ)n.</lex> having a <ab n='hundred'>h°</ab> streams, <ls>RV.</ls>; <ls>VS.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "शतधार",
+            "eid": "211953.1",
+            "pagenum": 1049,
+            "content": "¦ having a <ab n='hundred'>h°</ab> (<ab>i.e.</ab> numberless) points or edges, <ls>RV.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शतधार",
+            "eid": "211953.2",
+            "pagenum": 1049,
+            "content": "शत/—धार ¦ <lex>m.</lex> ‘<ab n='hundred'>h°</ab> -edged’, the thunderbolt, <ls>Vās.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शतधार",
+            "eid": "109818",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> शत/धार¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>hundertströmig</i> <ls>ṚV. 9,85,4. 86,11. 27. 96,14. 10,107,4</ls>."
+        },
+        {
+            "word": "शतधार",
+            "eid": "109819",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> शतधार¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>hundertschneidig, hundertspitzig</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>der Donnerkeil</i> <ls>VĀSAV. 227,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शतधार",
+            "eid": "97507",
+            "pagenum": 7,
+            "content": "1. शत/धार¦ (1. शत + 1. धारा) <lex>adj.</lex> <i>hundertströmig</i>: उत्स <ls>ṚV. 3, 26, 9.</ls> <ls>VS. 13, 49.</ls> वसोः पवित्रमसि शतधारम् <ls>PAŚUPATIPADDH.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "शतधार",
+            "eid": "97508",
+            "pagenum": 7,
+            "content": "2. शतधार¦ (1. शत + 2. धारा) <div n='1'> 1) <lex>adj.</lex> <i>hundertschneidig, hundertspitzig</i>: मणि <ls>ṚV.</ls> beim Schol. zu <ls>P. 6, 1, 116.</ls> <div n='1'>— 2) <i>der Donnerkeil</i> (vgl. शतकोटि), n. <ls>TRIK. 1, 1, 63.</ls> <ls>HALĀY. 1, 56.</ls> <ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf. H. 191,b,2</ls>. masc. <ls>H. 180</ls>, Schol."
+        }
     ]
 }

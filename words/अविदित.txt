@@ -23,5 +23,57 @@
             "pagenum": 32,
             "content": "अ/विदित¦ ungekannt, unerkannt."
         }
+    ],
+    "MD": [
+        {
+            "word": "अविदित",
+            "eid": "2887",
+            "pagenum": 31,
+            "content": "अविदित¦ á-vid-ita, <ab>pp.</ab> unknown: <b>-m,</b> <lex>ad.</lex> 🞄unawares."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अविदित",
+            "eid": "18807",
+            "pagenum": 108,
+            "content": "अ/-विदित ¦ <lex>mfn.</lex> unknown, <ls>ŚBr. x</ls>, <ls n='ŚBr.'>xi</ls>, <ls n='ŚBr.'>xiv</ls>; <ls>KenUp.</ls>; <ls>R.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अविदित",
+            "eid": "18808",
+            "pagenum": 108,
+            "content": "¦ without the knowledge of (<ab>gen.</ab>), <ls>Kathās.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अविदित",
+            "eid": "6905",
+            "pagenum": 96,
+            "content": "अविदित¦ <i>a-vidita, as, ā, am,</i> unknown."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अविदित",
+            "eid": "10990",
+            "pagenum": 1,
+            "content": "अ/विदित¦ <lex>Adj.</lex> <i>ungekannt, nicht erkannt</i> <ls>ŚAT. BR. 10,6,1,4. fgg.</ls> <ls>KENOP. 3</ls>. अविदितम् <lex>Adv.</lex> <i>ohne dass man es weiss</i> <ls>MṚCCH. 108,1</ls>."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अविदित",
+            "eid": "2481",
+            "pagenum": 2,
+            "content": "अविदित¦, °तः पित्रोः <i>ohne Wissen der Eltern,</i> °ते पितुः <i><ab n='ohne Wissen'>o. W.</ab> des Vaters,</i> °तं (<lex>Adv.</lex>) तस्य <i><ab n='ohne'>o.</ab> sein <ab n='Wissen'>W.</ab></i>"
+        },
+        {
+            "word": "अविदित",
+            "eid": "13158",
+            "pagenum": 7,
+            "content": "अ/विदित¦ I. 2."
+        }
     ]
 }

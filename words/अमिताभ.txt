@@ -15,5 +15,35 @@
             "pagenum": 57,
             "content": "amita-ABa¦ <i>a.</i> of unmeasured splendour."
         }
+    ],
+    "MW": [
+        {
+            "word": "अमिताभ",
+            "eid": "14097",
+            "pagenum": 81,
+            "content": "amitA<srs/>Ba ¦ <lex>m. <ab>pl.</ab></lex> ‘of unmeasured splendour’, <ab>N.</ab> of certain deities in the eighth <s1 slp1='manvantara'>Manvantara</s1>, <ls>VP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अमिताभ",
+            "eid": "14098",
+            "pagenum": 81,
+            "content": "amitA<srs/>Ba ¦ <lex>m. <ab>sg.</ab></lex> = amitA<srs/>yus. (see, <ls>MWB. 183</ls> &c.) <info n='rev' pc='1315,3'/><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अमिताभ",
+            "eid": "8277",
+            "pagenum": 1,
+            "content": "अमिताभ¦ <lex>m.</lex> <ab>N. pr.</ab> <div n='1'>— 1〉 <ab>Pl.</ab> einer Klasse von Göttern im 8ten <is>Manvantara</is> <ls>VP. 3,2,15</ls>. <div n='1'>— 2〉 eines <is>Dhyānibuddha</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अमिताभ",
+            "eid": "5140",
+            "pagenum": 1,
+            "content": "अमिताभ¦ (von अ° + आभा) <i>von unermesslichem Glanze</i>: <div n='1'> 1) eine Klasse von Göttern <ls>VP. 262. 267.</ls> <div n='1'>— 2) N. eines <is>Dhyānibuddha</is> <ls>BURN. Intr. 100.</ls> u.s.w. <ls>Lot. de la b. l. 113. 251.</ls> <ls>WEBER, Lit. 260. 266, N. 1.</ls>"
+        }
     ]
 }

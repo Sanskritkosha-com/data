@@ -23,5 +23,57 @@
             "pagenum": 243,
             "content": "परे/¦ <i>(Loc. adv.)</i> später, künftig."
         }
+    ],
+    "MD": [
+        {
+            "word": "परे",
+            "eid": "11287",
+            "pagenum": 157,
+            "content": "परे¦ paré, <ab>lc.</ab> <lex>ad.</lex> at a later <i>time</i>, subsequently."
+        }
+    ],
+    "MW": [
+        {
+            "word": "परे",
+            "eid": "116048",
+            "pagenum": 586,
+            "content": "परे/ <hom>a</hom> ¦ <lex>ind.</lex> later, farther, in future, afterwards, <ls>RV.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> <info lex='ind'/>"
+        },
+        {
+            "word": "परे",
+            "eid": "116695",
+            "pagenum": 589,
+            "content": "<hom>1.</hom> परे ¦ (for <hom>2.</hom> See <pcol>p. 606, col. 1</pcol>) <ab>loc.</ab> of पर in <ab>comp.</ab>"
+        },
+        {
+            "word": "परे",
+            "eid": "119427",
+            "pagenum": 606,
+            "content": "<hom>2.</hom> pare<srs/> ¦ (परा-√ इ; for <hom>1.</hom> See <pcol>p. 589, col. 1</pcol>) <ab>P.</ab> parE<srs/>ti (<ab>Impv.</ab> 2. 3. <ab>sg.</ab> pa/re<srs/>hi, parE<srs/>tu; <ab>pr. p.</ab> परा-य/त्; <ab>ind.p.</ab> pare<srs/>tya), <div n='to'/>to go or run away, go along, go towards (<ab>acc.</ab>), <ls>RV.</ls> &c. &c.; <div n='to'/>to depart, die, <ls>RV.</ls>; <ls>AV.</ls>; <div n='to'/>to reach, attain, partake of (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>Kir.</ls><info verb='pre' cp='P' parse='parA+i'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "परे",
+            "eid": "28278",
+            "pagenum": 552,
+            "content": "परे¦ <i>pare</i> (<i>parā-i,</i> see rt. 5. <i>i</i>), cl. 2, P. <i>paraiti, paraitum,</i> to go away, run away; to go to, set out for, approach; to go to the other world, depart, die."
+        }
+    ],
+    "PW": [
+        {
+            "word": "परे",
+            "eid": "64564",
+            "pagenum": 4,
+            "content": "परे/¦ <ab>Loc.</ab> <lex>Adv.</lex> <i>später, künftig,</i> मध्ये वाह्नस्ततोऽपि परे <i>um Mittagszeit oder später</i> (<ab>d. i.</ab> <i>zwischen Mittag und Abend</i>) <ls>Spr. 4291</ls>. — <ls>MBH. 13,2880</ls> fehlerhaft für पुरे."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "परे",
+            "eid": "43372",
+            "pagenum": 4,
+            "content": "परे/¦ (loc. von पर) adv. <i>darauf, fernerhin, künftig</i>: ततो ऽहमागम्य परे त्वामवोचम् <ls>MBH. 13, 2880.</ls> अ\\द्याद्या\\ श्वः श्व\\ इन्द्र\\ त्रास्व^ प\\रे च^ नः <ls>ṚV. 8, 50, 17.</ls> मध्ये वाह्नस्ततो ऽपि परे ऽथ वा <i>oder auch nach Mittagszeit</i> <ls>AMAR. 9.</ls>"
+        }
     ]
 }

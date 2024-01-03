@@ -7,5 +7,41 @@
             "pagenum": 404,
             "content": "<b>Khacārin</b>¦ = Skanda: III, 14635."
         }
+    ],
+    "MW": [
+        {
+            "word": "खचारिन्",
+            "eid": "60755",
+            "pagenum": 334,
+            "content": "ख—चारिन् ¦ <lex>mfn.</lex> moving in the air, flying (said of <s1 slp1='skanda'>Skanda</s1>), <ls>MBh. iii, 14635</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "खचारिन्",
+            "eid": "60756",
+            "pagenum": 334,
+            "content": "ख—चारिन् ¦ <lex>m.</lex> a planet, <ls>Sūryas.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खचारिन्",
+            "eid": "33211",
+            "pagenum": 2,
+            "content": "खचारिन्¦ <div n='1'>— 1〉 <lex>Adj.</lex> = खचर 1〉. <div n='1'>— 2〉 <lex>m.</lex> <i>Planet</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खचारिन्",
+            "eid": "20785",
+            "pagenum": 2,
+            "content": "खचारिन्¦ (ख + चा°) <lex>adj.</lex> <i>im Luftraum sich bewegend, fliegend</i>; von <is>Skanda</is> <ls>MBH. 3, 14635.</ls>"
+        },
+        {
+            "word": "खचारिन्",
+            "eid": "72216",
+            "pagenum": 5,
+            "content": "खचारिन्¦ <lex>m.</lex> <i>ein Planet</i> <ls>SŪRYAS. 2, 69.</ls>"
+        }
     ]
 }

@@ -29,5 +29,57 @@
             "pagenum": 121,
             "content": "<b>ávatta,</b>¦ <i>see</i> <ls n='wg,1087'>1087e</ls>."
         }
+    ],
+    "MD": [
+        {
+            "word": "अवत्त",
+            "eid": "2782",
+            "pagenum": 29,
+            "content": "अवत्त¦ áva-tta, <ab>pp.</ab> √ dā (dyati)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अवत्त",
+            "eid": "17369",
+            "pagenum": 99,
+            "content": "अ/व-त्त & अव-त्तिन् ¦ See अव-√ दो<info and='17369,avatta;17369.1,avattin'/>"
+        },
+        {
+            "word": "अवत्त",
+            "eid": "17413",
+            "pagenum": 99,
+            "content": "अ/व-त्त <hom>b</hom> ¦ <lex>mfn.</lex> cut off, divided, <ls>VS. xxi, 43</ls>, &c. (<ab>cf.</ab> चतुर्-अवत्त/, paYcA<srs/>vatta, and yaTA<srs/>vattam.)<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अवत्त",
+            "eid": "6341",
+            "pagenum": 90,
+            "content": "अवत्त, अवत्तिन्,¦ See under <i>ava-do.</i>"
+        },
+        {
+            "word": "अवत्त",
+            "eid": "6369",
+            "pagenum": 90,
+            "content": "<i>Ava-tta, as, ā, am,</i>¦ cut off, divided."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अवत्त",
+            "eid": "10352",
+            "pagenum": 1,
+            "content": "अ/वत्त¦ <ab>Partic.</ab> von दा, द्यति mit अव."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अवत्त",
+            "eid": "6360",
+            "pagenum": 1,
+            "content": "अ/वत्त¦ (von दा, द्यति mit अव) <lex>adj.</lex> <i>abgeschnitten, abgetheilt</i> (von der Zertheilung einzelner Stücke des Thiers oder anderer Opfergegenstände) <ls>VS. 21, 43.</ls> तत्पशोरवत्तं भवति यद्धृदयस्याग्रे ऽवद्यति <ls>ŚAT. BR. 3, 8, 3, 16.</ls> <ls n='ŚAT. BR.'>4, 5, 2, 6.</ls> <ls>KĀTY. ŚR. 6, 10, 29.</ls> <ls>ĀŚV. GṚHY. 1, 7.</ls> <ls>KAUŚ. 4.</ls> चतुरवत्त/, पञ्चावत्त/ <i>viertheilig, fünftheilig</i> <ls>ŚAT. BR. 1, 7, 2, 7. 8. 8, 1, 12.</ls> <ls>AIT. BR. 2, 14.</ls> <ls>SĀY.</ls> zu <ls>AIT. BR. 1, 24.</ls> यथावत्तम् <ls>KĀTY. ŚR. 20, 8, 9.</ls>"
+        }
     ]
 }

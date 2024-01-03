@@ -49,5 +49,43 @@
             "pagenum": 153,
             "content": "etana¦ <i>m.</i> Breath, expiration."
         }
+    ],
+    "MW": [
+        {
+            "word": "एतन",
+            "eid": "40090",
+            "pagenum": 231,
+            "content": "एतन ¦ <lex>m.</lex> expiration, breathing out, discharging air from the lungs, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "एतन",
+            "eid": "40091",
+            "pagenum": 231,
+            "content": "¦ the fish <bio>Silurus</bio> <bio>Pelorius</bio>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "एतन",
+            "eid": "12743",
+            "pagenum": 185,
+            "content": "एतन¦ <i>etana, as,</i> m. expiration, breathing out, discharging air from the lungs; the fish Silurus Pelorius."
+        }
+    ],
+    "PW": [
+        {
+            "word": "एतन",
+            "eid": "22231",
+            "pagenum": 1,
+            "content": "*एतन¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der ausgestossene Athem</i>. <div n='1'>— 2〉 <i><bot>Silurus pelorius</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एतन",
+            "eid": "13500",
+            "pagenum": 1,
+            "content": "एतन¦ <lex>m.</lex> <div n='1'> 1) <i>der ausgestossene Athem</i> <ls>H. 1368.</ls> <div n='1'>— 2) ein best. Fisch, <i>Silurus pelorius</i>, <ls>H. ś. 195.</ls>"
+        }
     ]
 }

@@ -7,5 +7,33 @@
             "pagenum": 240,
             "content": "आधर्षित¦ <i><ab>p. p.</ab></i> <b>1</b> Injured, annoyed forcibly. <b>--2</b> Aggrieved, censured, injured. <b>--3</b> Refuted in argument, disproved. <b>--4</b> Sentenced, convicted."
         }
+    ],
+    "MW": [
+        {
+            "word": "आधर्षित",
+            "eid": "24245",
+            "pagenum": 139,
+            "content": "आ-धर्षित ¦ <lex>mf(आ)n.</lex> convicted, sentenced<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "आधर्षित",
+            "eid": "24246",
+            "pagenum": 139,
+            "content": "¦ refuted in argument, disproved<info lex='inh'/>"
+        },
+        {
+            "word": "आधर्षित",
+            "eid": "24247",
+            "pagenum": 139,
+            "content": "¦ injured, aggrieved, <ls>Yājñ.</ls>; <ls>Hariv.</ls>; <ls>MBh.</ls>; <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आधर्षित",
+            "eid": "8515",
+            "pagenum": 120,
+            "content": "<i>Ā-dharṣita, as, ā, am,</i>¦ convicted, sentenced; refuted in argument, disproved, injured, aggrieved."
+        }
     ]
 }

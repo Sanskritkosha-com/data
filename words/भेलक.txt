@@ -15,5 +15,43 @@
             "pagenum": 536,
             "content": "Belaka¦ <i>m.n.</i> A boat, a raft."
         }
+    ],
+    "MW": [
+        {
+            "word": "भेलक",
+            "eid": "152923.1",
+            "pagenum": 766,
+            "content": "भेलक ¦ <lex>mn.</lex>, a raft, boat<info phwparent='152922,Bela'/><info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भेलक",
+            "eid": "35806",
+            "pagenum": 721,
+            "content": "<i>Bhelaka, as, am,</i>¦ m. n. <i>= bhela,</i> a boat, raft."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भेलक",
+            "eid": "80909",
+            "pagenum": 4,
+            "content": "*भेलक¦ <div n='1'>— 1〉 <lex>Adj.</lex> = लघिष्ठ. <div n='1'>— 2〉 <lex>m.</lex> <lex>n.</lex> <i>Nachen, Boot, Floss</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भेलक",
+            "eid": "55747",
+            "pagenum": 5,
+            "content": "भेलक¦ <lex>m.</lex> <lex>n.</lex> (nach <ls>ŚKDR.</ls> <ls>WILSON</ls>) = भेल <i>Nachen, Boot, Floss</i> <ls>TRIK. 1, 2, 12.</ls>"
+        },
+        {
+            "word": "भेलक",
+            "eid": "121415",
+            "pagenum": 7,
+            "content": "भेलक¦ <lex>adj.</lex> desgl. <ls>H. an. 3, 177.</ls>"
+        }
     ]
 }

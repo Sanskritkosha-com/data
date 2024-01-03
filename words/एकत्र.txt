@@ -63,5 +63,67 @@
             "pagenum": 153,
             "content": "ekatra¦ <i>ind.</i> 1. In one place; 2. in a combined manner, together."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकत्र",
+            "eid": "39955",
+            "pagenum": 231,
+            "content": "एकत्र ¦ <lex>ind.</lex> in one, in one and the same, <ls>MBh.</ls>; <ls>Kathās.</ls>; <ls>Pañcat.</ls> &c.<info lex='ind'/>"
+        },
+        {
+            "word": "एकत्र",
+            "eid": "39955.1",
+            "pagenum": 231,
+            "content": "¦ in one place, in the same place, in a single spot (with the force of the locative), <ls>MBh.</ls>; <ls>Yājñ.</ls>; <ls>Mṛcch.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "एकत्र",
+            "eid": "39955.2",
+            "pagenum": 231,
+            "content": "¦ on the one side<info lex='inh'/>"
+        },
+        {
+            "word": "एकत्र",
+            "eid": "39955.3",
+            "pagenum": 231,
+            "content": "¦ (the correlative is अपरत्र or sometimes अन्यस्मिन्, on the one side - on the other side, here - there)<info lex='inh'/>"
+        },
+        {
+            "word": "एकत्र",
+            "eid": "39955.4",
+            "pagenum": 231,
+            "content": "¦ in one and the same place, all together, <ls>Kathās.</ls>; <ls>Suśr.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "एकत्र",
+            "eid": "12699",
+            "pagenum": 185,
+            "content": "<i>Ekatra,</i>¦ ind. in one place, on one spot, in close connection; in a combined manner, together; used sometimes as a loc. c. of <i>eka</i> (e. g. <i>ekatra kare,</i> ‘on one hand’); <i>ekatra — aparatra</i> or <i>ekatra — anyas-</i> <i>min,</i> on the one side — on the other side, here — there."
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकत्र",
+            "eid": "21767",
+            "pagenum": 1,
+            "content": "एकत्र¦ <lex>Adv.</lex> <div n='1'>— 1〉 = <ab>Loc.</ab> von एक <i>ein</i>. <div n='1'>— 2〉 <i>an einer Stelle</i>. एकत्र — अपरत्र <i>hier — dort</i>. एकस्यां दिशि — एकत्र — कुत्रापि <ls>PAÑCAD. 53</ls>. <div n='1'>— 3〉 <i>an einem und demselben Orte, zusammen, vereinigt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकत्र",
+            "eid": "13240",
+            "pagenum": 1,
+            "content": "एकत्र¦ (von एक) adv. <div n='1'> 1) = loc. von एक <i>ein</i>: एकत्र करे <i>an einer Hand</i> <ls>M. 5, 136.</ls> नैकत्र परिनिष्ठास्ति ज्ञानस्य पुरुषे क्वचित् <ls>N. 20, 16.</ls> एकत्र पुत्रे <ls>MBH. 3, 337.</ls> <ls>PAÑCAT. 117, 12.</ls> <ls>KATHĀS. 15, 7.</ls> <ls>SĀH. D. 17, 8.</ls> <i>in Einem</i> <ls>BHĀṢĀP. 129.</ls> <div n='1'>— 2) <i>an einem Orte, auf einer Stelle; in enger Verbindung, vereinigt</i>: अन्त्यजैर्गर्दभैरुष्ट्रैः सहैकत्रावतिष्ठते <ls>YĀJÑ. 1, 272.</ls> <ls>MBH. 3, 1446.</ls> <ls n='MBH.'>14, 1284.</ls> <ls>R. 5, 16, 1.</ls> <ls>KĀṆ. 77.</ls> <ls>MṚCCH. 83, 8.</ls> <ls>PAÑCAT. 25, 10.</ls> <ls n='PAÑCAT.'>243, 23.</ls> <ls>HIT. 21, 4. II, 158.</ls> एकत्र भुज्यतां राज्यं भ्रातृभवेन पुत्रकाः ॥ सहिता भ्रातरस्ते ऽथ राज्यं बुभुजिरे तथा । <ls>MBH. 13, 552.</ls> तैलं भल्लातकस्याथ स्नुहीक्षीरं तथैव च । प्रगृह्यैकत्र मतिमान्रोमशातनमुत्तमम् ॥ <ls>SUŚR. 2, 13, 20.</ls> एकत्रासनसंस्थितिः = एकस्मिन्नासने सं° <ls>AMAR. 15.</ls> मिलित्वा चैकत्र <i>zusammen</i> oder <i>irgendwo</i> <ls>KATHĀS. 24, 111.</ls> एकत्र - अपरत्र <i>hier - dort</i> <ls>P. 6, 1, 194</ls>, <ls>Sch.</ls> एकत्र - अन्यस्मिन् <ls>R. 5, 74, 9.</ls>"
+        },
+        {
+            "word": "एकत्र",
+            "eid": "68860",
+            "pagenum": 5,
+            "content": "एकत्र¦ <div n='1'> 1) एकत्र जन्मनि <ls>KATHĀS. 52, 397.</ls> <div n='1'>— 2) नैकत्रास्ते <i>an einem und demselben Orte</i> <ls>BHĀG. P. 3, 31, 10.</ls> स्थातुमर्हसि नैकत्र <ls n='BHĀG. P.'>4, 27, 22.</ls>"
+        }
     ]
 }

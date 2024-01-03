@@ -59,5 +59,77 @@
             "pagenum": 288,
             "content": "jAWara¦ <i>(II) m.</i> The digestive faculty, gastric juice."
         }
+    ],
+    "MD": [
+        {
+            "word": "जाठर",
+            "eid": "7981",
+            "pagenum": 100,
+            "content": "जाठर¦ jāṭhara, <lex>a.</lex> (<b>ī</b>) relating to the belly; 🞄(<i>with</i> <b>agni,</b> <lex>m.</lex> digestive fire, hunger); <lex>m.</lex> son."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जाठर",
+            "eid": "78524",
+            "pagenum": 417,
+            "content": "जाठर ¦ <lex>mf(ई)n.</lex> being on or in or relating to the stomach or belly or womb (जठ/र), <ls>MBh. xii, 9661</ls>; <ls>MārkP. ii, 37</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "जाठर",
+            "eid": "78525",
+            "pagenum": 417,
+            "content": "¦ with अग्नि, ‘stomach fire’, digestive faculty, <ls>MBh. iii, 149</ls>; <ls>Suśr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जाठर",
+            "eid": "78526",
+            "pagenum": 417,
+            "content": "¦ hunger, <ls>Pañcat. ii, 6, 50</ls> (<ls n='Pañcat.'>iv, 8, 3</ls>); <ls>BhP. iv</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जाठर",
+            "eid": "78527",
+            "pagenum": 417,
+            "content": "जाठर ¦ <lex>m.</lex> ‘womb-offspring’, a child, <ls n='Pañcat.'>iii, 14, 38</ls><info lex='m'/>"
+        },
+        {
+            "word": "जाठर",
+            "eid": "78528",
+            "pagenum": 417,
+            "content": "¦ <ab>N.</ab> of one of <s1 slp1='skanda'>Skanda</s1>'s attendants, <ls>MBh. ix, 2564.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जाठर",
+            "eid": "19512",
+            "pagenum": 344,
+            "content": "जाठर¦ <i>jāṭhara, as, ī, am</i> (fr. <i>jaṭhara</i>), stomachic, abdominal, visceral, being in the stomach or belly, relating to it, relating to the womb, e. g. <i>jāṭharo'gniḥ,</i> the fire in the stomach, the digestive faculty, gastric juice, hunger; (<i>as</i>), m. ‘offspring of the womb,’ a child; N. of an attendant of Skanda."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "जाठर",
+            "eid": "5119",
+            "pagenum": 1,
+            "content": "<i>Jāṭhara</i>¦ — the fire originating in waters; this exists in the men's bellies and cannot be put out by waters; burns without fuel; it has no <i>jvāla</i> or glow.<sup>1</sup> Father of Vidvānagni.<sup>2</sup> <F>1) Br. II. 24. 12; Vā. 53. 8, 10.</F> <F>2) Br. II. 12. 34.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जाठर",
+            "eid": "42415",
+            "pagenum": 2,
+            "content": "जाठर¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <i>am oder im Bauch befindlich, den <ab n='Bauch'>B.</ab> betreffend</i>. अग्नि <lex>m.</lex> <i>die verdauende Feuerkraft im Leibe; Hunger</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Leibesfrucht, Sohn</i>. <div n='2'>— b〉 <ab>N. pr.</ab> eines Wesens im Gefolge <is>Skanda</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जाठर",
+            "eid": "27197",
+            "pagenum": 3,
+            "content": "जाठर¦ (von जठर) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <i>am</i> oder <i>im Bauche befindlich, den Bauch betreffend</i>: त्वचं चिच्छेद जाठरीम् <ls>MĀRK. P. 2, 37.</ls> तथास्य स्याज्जाठरी द्वारगुप्तिः (so ist zu lesen) <ls>MBH. 12, 9661.</ls> अग्नि <i>das im Leibe befindliche Feuer, die verdauende Feuerkraft im Leibe; Hunger</i>: वैद्युतो जाठरश्चाग्निः <ls n='MBH.'>3, 149.</ls> जाठरो भगवानग्निरीश्वरो ऽन्नस्य पाचकः <ls>SUŚR. 1, 128, 18.</ls> धनक्षये दीव्यति जाठराग्निः <ls>PAÑCAT. II, 193.</ls> अन्नक्षये वर्धति जाठराग्निः <ls n='PAÑCAT.'>IV, 66.</ls> जाठरेणाभितप्ता यथाग्निना <ls>BHĀG. P. 4, 17, 10.</ls> Vgl. जठराग्नि . <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Leibesfrucht, Kind</i>: भविष्यतस्तवाभद्रावभद्रे जाठराधमौ <ls>BHĀG. P. 3, 14, 38.</ls> <div n='2'>— b) N. pr. eines Wesens im Gefolge von <is>Skanda</is> <ls>MBH. 9, 2564.</ls>"
+        }
     ]
 }

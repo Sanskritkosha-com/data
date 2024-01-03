@@ -7,5 +7,55 @@
             "pagenum": 594,
             "content": "समासाद्य¦ <ab>ger.</ab> according to, by means or on account of (<ab>acc.</ab>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "समासाद्य",
+            "eid": "234723",
+            "pagenum": 1163,
+            "content": "<hom>1.</hom> सम्-°आसाद्य ¦ <lex>ind.</lex> having approached &c.<info lex='ind'/>"
+        },
+        {
+            "word": "समासाद्य",
+            "eid": "234723.1",
+            "pagenum": 1163,
+            "content": "¦ according to, by means or on account of (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls>; &c.<info lex='inh'/>"
+        },
+        {
+            "word": "समासाद्य",
+            "eid": "234724",
+            "pagenum": 1163,
+            "content": "<hom>2.</hom> सम्-°आसाद्य ¦ <lex>mfn.</lex> attainable, practicable, <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "समासाद्य",
+            "eid": "50164",
+            "pagenum": 1076,
+            "content": "1. <i>sam-āsādya, as, ā, am,</i>¦ attainable, obtainable, procurable, to be effected."
+        },
+        {
+            "word": "समासाद्य",
+            "eid": "50165",
+            "pagenum": 1076,
+            "content": "2. <i>sam-āsādya,</i>¦ ind. having encountered; having met with or obtained."
+        }
+    ],
+    "PW": [
+        {
+            "word": "समासाद्य",
+            "eid": "120478",
+            "pagenum": 7,
+            "content": "*समासाद्य¦ <lex>Adj.</lex> <i>erreichbar, erlangbar</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समासाद्य",
+            "eid": "105720",
+            "pagenum": 7,
+            "content": "समासाद्य¦ (vom caus. von 1. सद् mit समा) <lex>adj.</lex> <i>erreichbar, erlangbar</i> <ls>AK. 3, 2, 42.</ls>"
+        }
     ]
 }

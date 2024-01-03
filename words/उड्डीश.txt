@@ -36,5 +36,43 @@
             "pagenum": 123,
             "content": "uqqISa¦ <i>m.</i> An epithet of Śiva."
         }
+    ],
+    "MW": [
+        {
+            "word": "उड्डीश",
+            "eid": "30675",
+            "pagenum": 175,
+            "content": "उड्डीश ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "उड्डीश",
+            "eid": "30676",
+            "pagenum": 175,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='tantra'>Tantra</s1> work (containing charms and incantations), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उड्डीश",
+            "eid": "10313",
+            "pagenum": 147,
+            "content": "उड्डीश¦ <i>uḍḍīśa, as,</i> m. a work so called, containing charms and incantations; a N. of Śiva."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उड्डीश",
+            "eid": "17942",
+            "pagenum": 1,
+            "content": "*उड्डीश¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Bein.</ab> <is>Śiva</is>ʼs. <div n='1'>— 2〉 Titel eines Werkes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उड्डीश",
+            "eid": "10772",
+            "pagenum": 1,
+            "content": "उड्डीश¦ <lex>m.</lex> <div n='1'> 1) <i>eine bes. Art Werk</i> <ls>H. an. 3, 716.</ls> <ls>MED. ś. 16.</ls> nach <ls>WILS.</ls> Zaubersprüche enthaltend. <div n='1'>— 2) ein Bein. <is>Śiva's</is> diess. und <ls>H. 195</ls> (उद्दीश)."
+        }
     ]
 }

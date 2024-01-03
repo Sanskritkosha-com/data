@@ -55,5 +55,57 @@
             "pagenum": 423,
             "content": "pard¦ <i>vi. 1A (pres. पर्दते)</i> To break wind."
         }
+    ],
+    "MW": [
+        {
+            "word": "पर्द्",
+            "eid": "119581",
+            "pagenum": 606,
+            "content": "पर्द् ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. ii, 28</ls>) to break wind downwards, <ls>Sarasv. i, 25.</ls> <info westergaard='parda,2.28,01.0025'/><info whitneyroots='pard,95'/><info verb='root' cp='1Ā'/>"
+        },
+        {
+            "word": "पर्द्",
+            "eid": "119581.1",
+            "pagenum": 606,
+            "content": "पर्द् ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>πέρδω</lang>; <ab>Lat.</ab> <etym>pēdo</etym>, <etym>pōdex</etym>; <ab>Lith.</ab> <etym>pérdżu</etym>; <ab>Germ.</ab> <etym>farzen</etym>, <etym>furzen</etym>; <ab>Angl.Sax.</ab> <etym>feortan</etym>; <ab>Eng.</ab> <etym>to fart</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पर्द्",
+            "eid": "28318",
+            "pagenum": 553,
+            "content": "पर्द्¦ <i>pard,</i> cl. 1. A. <i>pardate,</i> &c., to break wind, fart; [cf. Gr. <lang n='greek'>πέρδ-ω, πέρδ-ο-μαι,</lang> <lang n='greek'>ἔ-παρδ-ο-ν, πέ-πορδ-α, πορδ-ή, πέρδ-ιξ;</lang> Lat. <nsi>pêd-o,</nsi> <nsi>pêd-or, pôdex;</nsi> Old Germ. <nsi>firz-u;</nsi> Bohem. <nsi>prd-u;</nsi> Lith. <nsi>perd-z-u, pérs-ti, pī1rd-i-s.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पर्द्",
+            "eid": "64712",
+            "pagenum": 4,
+            "content": "*√पर्द्¦, पर्दते <i>farzen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पर्द्",
+            "eid": "43482",
+            "pagenum": 4,
+            "content": "पर्द्¦, प/र्दते <i>furzen</i> <ls>DHĀTUP. 2, 28.</ls> Eine unbelegbare, aber, wie die verwandten Sprachen zeigen, ächte Wurzel."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "पर्द्",
+            "eid": "7718",
+            "pagenum": 5,
+            "content": "पर्द्¦, पर्दते <ls>SARASVATĪK. 1,22</ls>."
+        },
+        {
+            "word": "पर्द्",
+            "eid": "19205",
+            "pagenum": 7,
+            "content": "पर्द्¦ IV. 5."
+        }
     ]
 }

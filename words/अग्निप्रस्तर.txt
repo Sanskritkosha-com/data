@@ -15,5 +15,35 @@
             "pagenum": 4,
             "content": "agni-prastara¦ <i>m.</i> the flint."
         }
+    ],
+    "MW": [
+        {
+            "word": "अग्निप्रस्तर",
+            "eid": "999",
+            "pagenum": 5,
+            "content": "अग्नि—प्रस्तर ¦ <lex>m.</lex> a fire-producing stone<info lex='m'/>"
+        },
+        {
+            "word": "अग्निप्रस्तर",
+            "eid": "1000",
+            "pagenum": 5,
+            "content": "¦ flint, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्निप्रस्तर",
+            "eid": "587",
+            "pagenum": 1,
+            "content": "*अग्निप्रस्तर¦ <lex>m.</lex> <i>Feuerstein</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्निप्रस्तर",
+            "eid": "416",
+            "pagenum": 1,
+            "content": "अग्निप्रस्तर¦ (अग्नि + प्रस्तर) <lex>m.</lex> <i>Feuerstein</i> <ls>ŚKDR.</ls>"
+        }
     ]
 }

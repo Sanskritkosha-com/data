@@ -15,5 +15,35 @@
             "pagenum": 560,
             "content": "mahA-SramaRa¦ <i>m.</i> an epithet of Buddha."
         }
+    ],
+    "MW": [
+        {
+            "word": "महाश्रमण",
+            "eid": "160984",
+            "pagenum": 801,
+            "content": "महा—श्रमण ¦ <lex>m.</lex> ‘<ab n='great'>gr°</ab> religious mendicant’, <ab>N.</ab> of <s1 slp1='gOtama'>Gautama</s1> <s1 slp1='budDa'>Buddha</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "महाश्रमण",
+            "eid": "160985",
+            "pagenum": 801,
+            "content": "¦ a <s1 slp1='jina'>Jina</s1>, <ls>Gal.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महाश्रमण",
+            "eid": "85123",
+            "pagenum": 5,
+            "content": "*महाश्रमण¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Bein.</ab> <is>Śākyamuni</is>ʼs. <div n='1'>— 2〉 <i>ein</i> <is>Jina</is> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महाश्रमण",
+            "eid": "59075",
+            "pagenum": 5,
+            "content": "महाश्रमण¦ (म° + श्र°) <lex>m.</lex> <i>der grosse religiöse Bettler</i>, Bein. <is>Śākyamuni's</is>, <ls>TRIK. 1, 1, 11.</ls> <ls>BURN. Intr. 25.</ls>"
+        }
     ]
 }

@@ -7,5 +7,33 @@
             "pagenum": 528,
             "content": "व्यपविद्ध¦ <lex>a.</lex> thrown asunder or away, scattered, broken, pierced, hit."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्यपविद्ध",
+            "eid": "208770",
+            "pagenum": 1031,
+            "content": "व्य्-अप-विद्ध ¦ <lex>mfn.</lex> (√ व्यध्) thrown about, broken to pieces (-बृशी-मठ <lex type='phw'>mfn.</lex> with abandoned seats and cells), <ls>MBh.</ls><info phwchild='208772.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "व्यपविद्ध",
+            "eid": "208771",
+            "pagenum": 1032,
+            "content": "¦ cast away, rejected, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "व्यपविद्ध",
+            "eid": "208772",
+            "pagenum": 1032,
+            "content": "¦ pierced, transfixed, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्यपविद्ध",
+            "eid": "45399",
+            "pagenum": 974,
+            "content": "<i>Vy-apaviddha, as, ā, am,</i>¦ broken to pieces, thrown about in confusion, cast away, rejected, discarded. <i>—Vyapaviddha-vṛṣī-maṭha, as, ā, am,</i> whose (ascetic) seats and cells were discarded or abandoned."
+        }
     ]
 }

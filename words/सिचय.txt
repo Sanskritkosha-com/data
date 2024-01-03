@@ -52,5 +52,51 @@
             "pagenum": 779,
             "content": "sicaya¦ <i>m.</i> Cloth."
         }
+    ],
+    "MD": [
+        {
+            "word": "सिचय",
+            "eid": "19381",
+            "pagenum": 350,
+            "content": "सिचय¦ sic-aya, <lex>m.</lex> cloth, garment."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सिचय",
+            "eid": "244048",
+            "pagenum": 1214,
+            "content": "सिचय ¦ <lex>m.</lex> robe, raiment, cloth, clothes, <ls>Vikr.</ls>; <ls>Kād.</ls>; <ls>Rājat.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सिचय",
+            "eid": "244049",
+            "pagenum": 1214,
+            "content": "¦ old or ragged raiment, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सिचय",
+            "eid": "52205",
+            "pagenum": 1113,
+            "content": "<i>Sicaya, as,</i>¦ m. a robe, raiment, cloth, clothes; old or ragged raiment."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सिचय",
+            "eid": "124988",
+            "pagenum": 7,
+            "content": "सिचय¦ <lex>m.</lex> <i>Gewand, Tuch</i> <ls>KĀD. 2,113,21 (140,8)</ls>. <ls>ŚUKAS. 2,54</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सिचय",
+            "eid": "109141",
+            "pagenum": 7,
+            "content": "सिचय¦ <lex>m.</lex> <i>Gewand, Tuch</i> <ls>TRIK. 2, 6, 33.</ls> <ls>H. 666.</ls> <ls>HALĀY. 2, 393.</ls> <ls>VIKR. 7.</ls> <ls>RĀJA-TAR. 1, 1.</ls> <ls>WILSON, SĀṂKHYAK. S. 174.</ls> चीन° (vgl. चीनांशुक) <ls>PAÑCAR. 3, 5, 28.</ls>"
+        }
     ]
 }

@@ -7,5 +7,35 @@
             "pagenum": 560,
             "content": "mahA-sarja¦ <i>m.</i> the bread-fruit tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "महासर्ज",
+            "eid": "161059",
+            "pagenum": 801,
+            "content": "महा—सर्ज ¦ <lex>m.</lex> <bot>Terminalia Tomentosa</bot>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "महासर्ज",
+            "eid": "161060",
+            "pagenum": 801,
+            "content": "¦ <bot>Artocarpus Integrifolia</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महासर्ज",
+            "eid": "85172",
+            "pagenum": 5,
+            "content": "*महासर्ज¦ <lex>m.</lex> <div n='1'>— 1〉 <i><bot>Germinalia tomentosa</bot></i> <ls>RĀJAN. 9,138</ls>. <div n='1'>— 2〉 <i><bot>Artocarpus integrifolia</bot></i> <ls>RĀJAN. 11,32</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महासर्ज",
+            "eid": "59115",
+            "pagenum": 5,
+            "content": "महासर्ज¦ (म° + सर्ज) <lex>m.</lex> <i>Terminalia tomentosa W. u. A.</i> und <i>Artocarpus integrifolia Lin.</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

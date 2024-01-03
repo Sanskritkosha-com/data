@@ -29,5 +29,53 @@
             "pagenum": 295,
             "content": "jyotirvid¦ <i>m.</i> an astronomer or astrologer."
         }
+    ],
+    "MW": [
+        {
+            "word": "ज्योतिर्विद्",
+            "eid": "80719",
+            "pagenum": 427,
+            "content": "ज्योतिर्—वि/द् ¦ <lex>mfn.</lex> = °तिष्-कृ/त्, <ls>TS. i, 4, 34, 1</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ज्योतिर्विद्",
+            "eid": "80720",
+            "pagenum": 427,
+            "content": "¦ knowing the stars, (<lex type='hwalt'>m.</lex>) an astronomer, <ls>Yājñ. 1, 332</ls>; <ls>Romakas.</ls>; <ls>Kathās. liv</ls><info lex='m'/><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ज्योतिर्विद्",
+            "eid": "43557",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> ज्योतिर्विद्¦ <lex>Adj.</lex> <i>sternkundig;</i> <lex>m.</lex> <i>Astronom</i> zu <ls>Spr. 6288</ls>."
+        },
+        {
+            "word": "ज्योतिर्विद्",
+            "eid": "43558",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> ज्योतिर्वि/द्¦ <lex>Adj.</lex> <i>Licht schaffend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ज्योतिर्विद्",
+            "eid": "28001",
+            "pagenum": 3,
+            "content": "1. ज्योतिर्विद्¦ (ज्योतिस् + विद्) <lex>adj.</lex> subst. <i>sternkundig, Astronom</i> <ls>Z. d. d. m. G. 9, 668.</ls> <ls>YĀJÑ. 1, 332.</ls>"
+        },
+        {
+            "word": "ज्योतिर्विद्",
+            "eid": "28002",
+            "pagenum": 3,
+            "content": "2. ज्योतिर्वि/द्¦ (ज्योतिस् + विद् = विन्द्) <lex>adj.</lex> <i>lichtschaffend</i> <ls>TS. 1, 4, 34, 1.</ls>"
+        },
+        {
+            "word": "ज्योतिर्विद्",
+            "eid": "74588",
+            "pagenum": 5,
+            "content": "1. ज्योतिर्विद्¦ <ls>KATHĀS. 54, 213.</ls> ज्योतिर्विदाभरण <lex>n.</lex> Titel eines <i>astrologischen Werkes</i> eines Pseudo-<is>Kālidāsa</is> <ls>KERN</ls> in Pref. zu <ls>VARĀH. BṚH. S. 12. fgg.</ls> <ls>Verz. d. Oxf. H. 336,a, No. 790.</ls> <ls>Ind. St. 8,195, N.</ls>"
+        }
     ]
 }

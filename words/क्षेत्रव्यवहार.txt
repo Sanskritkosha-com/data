@@ -7,5 +7,41 @@
             "pagenum": 3,
             "content": "क्षेत्रव्यवहार¦ a chapter from Bhāskara's Līlāvatī. AK 854 (inc.). 899 (inc.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षेत्रव्यवहार",
+            "eid": "60318",
+            "pagenum": 332,
+            "content": "क्षेत्र—व्यवहार ¦ <lex>m.</lex> ascertainment of the dimensions of a plane figure, <ls>Līl.</ls><info lex='m'/>"
+        },
+        {
+            "word": "क्षेत्रव्यवहार",
+            "eid": "60319",
+            "pagenum": 332,
+            "content": "¦ (in <ab>geom.</ab>) drawing a figure, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्षेत्रव्यवहार",
+            "eid": "60320",
+            "pagenum": 332,
+            "content": "¦ geometrical demonstration, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षेत्रव्यवहार",
+            "eid": "32953",
+            "pagenum": 2,
+            "content": "क्षेत्रव्यवहार¦ <lex>m.</lex> <i>Bestimmung geometrischer Figuren, Planimetrie</i> <ls>LĪLĀV. 44,5</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षेत्रव्यवहार",
+            "eid": "20608",
+            "pagenum": 2,
+            "content": "क्षेत्रव्यवहार¦ (क्षेत्र + व्य°) <lex>m.</lex> <i>Bestimmung von Figuren auf einer Ebene</i> <ls>COLEBR. Alg. 58.</ls>"
+        }
     ]
 }

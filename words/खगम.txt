@@ -47,5 +47,49 @@
             "pagenum": 224,
             "content": "Ka-gama¦ <i>m.</i> a bird."
         }
+    ],
+    "MD": [
+        {
+            "word": "खगम",
+            "eid": "6644",
+            "pagenum": 79,
+            "content": "खगम¦ kha-gama, <lex>m.</lex> bird; <ab>N.</ab> <i>of a Brāhman</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "खगम",
+            "eid": "60733",
+            "pagenum": 334,
+            "content": "ख—गम ¦ <lex>mfn.</lex> moving in the air, flying (said of <s1 slp1='ganDarva'>Gandharva</s1>s and of missile weapons), <ls>MBh. iii, 820</ls> and <ls n='MBh. iii,'>14983</ls>; <ls n='MBh.'>xiv, 2188</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "खगम",
+            "eid": "60734",
+            "pagenum": 334,
+            "content": "ख—गम ¦ <lex>m.</lex> a bird, <ls>Nal. i, 23</ls><info lex='m'/>"
+        },
+        {
+            "word": "खगम",
+            "eid": "60735",
+            "pagenum": 334,
+            "content": "¦ <ab>N.</ab> of a <ns>Brāhman</ns>, <ls>MBh. i, 995.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खगम",
+            "eid": "33183",
+            "pagenum": 2,
+            "content": "खगम¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>im Luftraum sich bewegend, fliegend</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Vogel</i>. <div n='2'>— b〉 <ab>N. pr.</ab> eines Brahmanen."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खगम",
+            "eid": "20761",
+            "pagenum": 2,
+            "content": "खगम¦ (ख + गम) <div n='1'> 1) <lex>adj.</lex> <i>sich im Luftraum bewegend, fliegend</i>; von <is>Gandharva</is> <ls>MBH. 3, 14983.</ls> von Wurfgeschossen <ls n='MBH. 3,'>820.</ls> <ls n='MBH.'>14, 2188.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Vogel</i> <ls>N. 1, 23.</ls> <div n='2'>— b) N. pr. eines Brahmanen <ls>MBH. 1, 995.</ls> <div n='v'>— Vgl. खग ."
+        }
     ]
 }

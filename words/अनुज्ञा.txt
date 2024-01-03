@@ -77,5 +77,75 @@
             "pagenum": 22,
             "content": "anujYA¦ <i>f.</i> 1. Assent, permission; 2. leave to depart; 3. an order or command. (Also अनुज्ञान n.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "अनुज्ञा",
+            "eid": "1648",
+            "pagenum": 15,
+            "content": "अनुज्ञा¦ anu-jñā, <lex>f.</lex> consent; leave to depart; 🞄<b>-na,</b> <lex>n.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनुज्ञा",
+            "eid": "6322",
+            "pagenum": 32,
+            "content": "<hom>1.</hom> अनु-√ ज्ञा ¦ to permit, grant, allow, consent; <div n='to'/>to excuse, forgive; <div n='to'/>to authorize; <div n='to'/>to allow one to depart, dismiss, bid farewell to; <div n='to'/>to entreat; <div n='to'/>to behave kindly: <div n='vp'/><ab>Caus.</ab> -ज्ञापयति, to request, ask permission, ask for leave to depart, to take leave: <div n='vp'/><ab>Desid.</ab> -जिज्ञासति or -ते, to wish to allow or permit, <ls>Pāṇ. i, 3, 58.</ls><info verb='pre' cp='' parse='anu+jYA'/>"
+        },
+        {
+            "word": "अनुज्ञा",
+            "eid": "6324",
+            "pagenum": 32,
+            "content": "<hom>2.</hom> अनु-ज्ञा ¦ <lex>f.</lex> assent, assenting, permission<info lex='f'/>"
+        },
+        {
+            "word": "अनुज्ञा",
+            "eid": "6325",
+            "pagenum": 32,
+            "content": "¦ leave to depart<info lex='inh'/>"
+        },
+        {
+            "word": "अनुज्ञा",
+            "eid": "6326",
+            "pagenum": 32,
+            "content": "¦ allowance made for faults<info lex='inh'/>"
+        },
+        {
+            "word": "अनुज्ञा",
+            "eid": "6327",
+            "pagenum": 32,
+            "content": "¦ an order or command.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुज्ञा",
+            "eid": "2110",
+            "pagenum": 33,
+            "content": "अनुज्ञा 1¦. <i>anu-jñā,</i> cl. 9. P. rarely A. <i>-jānāti,</i> <i>jānīte, -jñātum,</i> to permit, grant, allow, consent; to excuse, forgive; to authorize; to allow one to take leave, dismiss, bid farewell; to entreat; to behave kindly: Caus. <i>-jñāpayati, -yitum,</i> to request, ask permission, ask for leave, to take leave: Desid. <i>-jijñāsati</i> or <i>-te,</i> to be willing to grant."
+        },
+        {
+            "word": "अनुज्ञा",
+            "eid": "2111",
+            "pagenum": 33,
+            "content": "2. <i>anu-jñā,</i>¦ f. or <i>anu-jñāna, am,</i> n. assent, assenting, permission; leave to depart; allowance made for faults; an order or command. <i>—Anujñā-prārthanā</i> or <i>anujñaiṣaṇā (°jñā-eṣ°),</i> f. asking permission, taking leave."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुज्ञा",
+            "eid": "4384",
+            "pagenum": 1,
+            "content": "अनुज्ञा¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Einwilligung, Erlaubniss</i>. Davon °त्व <lex>n.</lex> <ab>Nom. abstr.</ab> <ls>Ind. St. 9,134</ls>. <div n='1'>— 2〉 <i>Einwilligung zum Fortgehen, Entlassung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुज्ञा",
+            "eid": "2774",
+            "pagenum": 1,
+            "content": "अनुज्ञा¦ (von ज्ञा mit अनु) <lex>f.</lex> <i>Einwilligung, Erlaubniss</i> <ls>AK. 3, 4, 32 (COL. 28), 10.</ls> <ls>VOP. 26, 25.</ls> तद्वा एतदनुज्ञाक्षरं यद्धि किं चानुजानात्योमित्येव तदाह <ls>CHĀND. UP. 1, 1, 8.</ls> नानुज्ञां मे युधिष्ठिरः ॥ प्रयच्छति वधे तुभ्यम् (<i>dich zu tödten</i>) <ls>HIḌ. 1, 45. 46.</ls> गुरोरनुज्ञामधिगम्य <ls>RAGH. 2, 66.</ls> अनुज्ञैषणा <i>das um-Erlaubniss-Fragen</i> <ls>P. 8, 1, 43.</ls> अनुज्ञावचन <ls>PAÑCAT. 198, 21.</ls> <i>Einwilligung zum Fortgehen, Entlassung</i>: प्रतीक्षमाणमनुज्ञां जगतीपतेः <ls>R. 2, 34, 25.</ls> अनुज्ञां प्राप्य वासवात् <ls>INDR. 4, 4.</ls> रक्षसि प्राप्तानुज्ञे <ls>VID. 284.</ls> गुरोस्तु लब्धानुज्ञः <ls>AK. 2, 7, 10.</ls>"
+        }
     ]
 }

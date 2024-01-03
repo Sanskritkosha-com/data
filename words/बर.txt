@@ -7,5 +7,37 @@
             "pagenum": 461,
             "content": "बर¦ <i>bara</i> <ab>cf.</ab> <i>vara.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "बर",
+            "eid": "142899",
+            "pagenum": 721,
+            "content": "बर ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='bala-rAma'>Bala-rāma</s1> (= बल), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "बर",
+            "eid": "34445",
+            "pagenum": 674,
+            "content": "बर¦ <i>bara, as,</i> m. a N. of Bala-rāma (<i>=</i> <i>bala</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "बर",
+            "eid": "75861",
+            "pagenum": 4,
+            "content": "*बर¦ <lex>m.</lex> <ab>N. pr.</ab> = बल, बलदेव."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बर",
+            "eid": "51839",
+            "pagenum": 5,
+            "content": "बर¦ <lex>m.</lex> = 2. बल <is>Baladeva</is> <ls>H. ś. 75.</ls>"
+        }
     ]
 }

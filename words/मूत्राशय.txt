@@ -20,5 +20,35 @@
             "pagenum": 580,
             "content": "mUtra-ASaya¦ <i>m.</i> the lower belly."
         }
+    ],
+    "MW": [
+        {
+            "word": "मूत्राशय",
+            "eid": "166243",
+            "pagenum": 825,
+            "content": "mUtrA<srs/>Saya ¦ <lex>m.</lex> <ab n='urinary'>u°</ab>-receptacle, <ls>ib.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मूत्राशय",
+            "eid": "166244",
+            "pagenum": 825,
+            "content": "¦ the belly or bladder, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मूत्राशय",
+            "eid": "87860",
+            "pagenum": 5,
+            "content": "मूत्राशय¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Harnbehälter</i>. <div n='1'>— 2〉 <i>Unterleib</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मूत्राशय",
+            "eid": "61244",
+            "pagenum": 5,
+            "content": "मूत्राशय¦ (मूत्र + आ°) <lex>m.</lex> <i>Harnbehälter</i> <ls>SUŚR. 1, 264, 6.</ls> <i>Unterleib</i> <ls>H. 606.</ls>"
+        }
     ]
 }

@@ -45,5 +45,83 @@
             "pagenum": 4,
             "content": "aguRa¦ <i>(II) m.</i> A fault."
         }
+    ],
+    "MD": [
+        {
+            "word": "अगुण",
+            "eid": "246",
+            "pagenum": 2,
+            "content": "अगुण¦ a-guṇa, <lex>m.</lex> lack of virtue, demerit, 🞄defect; fault, vice; <lex>a.</lex> void of qualities; 🞄worthless, vicious."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अगुण",
+            "eid": "852",
+            "pagenum": 4,
+            "content": "अ-गुण ¦ <lex>mfn.</lex> destitute of qualities or attributes (said of the supreme Being <ab>cf.</ab> निर्गुण)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अगुण",
+            "eid": "853",
+            "pagenum": 4,
+            "content": "¦ destitute of good qualities<info lex='inh'/>"
+        },
+        {
+            "word": "अगुण",
+            "eid": "854",
+            "pagenum": 4,
+            "content": "अ-गुण ¦ <lex>m.</lex> a fault.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अगुण",
+            "eid": "244",
+            "pagenum": 4,
+            "content": "अगुण¦ <i>a-guṇa, as, ā, am,</i> destitute of qualities or attributes (sometimes said of the supreme being); destitute of good qualities; (<i>as</i>), m. a fault. <i>—Aguṇa-tā,</i> f. absence of good qualities. <i>—Agu-</i> <i>ṇa-vat, ān, atī, at,</i> destitute of qualities, especially of good qualities. <i>—Aguṇa-vādin, ī, inī, i,</i> faultfinding, censorious. <i>—Aguṇa-śīla, as, ā, am,</i> of a worthless character."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अगुण",
+            "eid": "474",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अगुण¦ <lex>m.</lex> <i>schlechte Eigenschaft, Untugend</i> <ls n='Chr.'>184,17</ls>."
+        },
+        {
+            "word": "अगुण",
+            "eid": "475",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अगुण¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>ohne Qualitäten</i>. <div n='1'>— 2〉 <i>der Vorzüge ermangelnd, werthlos</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अगुण",
+            "eid": "334",
+            "pagenum": 1,
+            "content": "अगुण¦ <lex>m.</lex> <i>schlechte Eigenschaft, Fehler, Untugend</i>: तद्वः सर्वं प्रवक्ष्यामि प्रसवे च गुणागुणान् <ls>M. 3, 22.</ls> देशानां च गुणागुणान् <ls n='M.'>9, 331.</ls> न त्वं वेत्सि गुणागुणम् <ls>R. 6, 66, 23.</ls> गुणागुणज्ञ <ls>HIT. Pr. 47.</ls>"
+        },
+        {
+            "word": "अगुण",
+            "eid": "62580",
+            "pagenum": 5,
+            "content": "अगुण¦ <lex>adj.</lex> <i>ohne Qualitäten</i> <ls>TATTVAS. 17.</ls> <ls>KAṆ. 1, 1, 17.</ls> <i>der Vorzüge ermangelnd, werthlos</i>: वाक्य <ls>Spr.</ls> हेतुप्रमाणयुक्तं im 4ten Theile."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अगुण",
+            "eid": "1861",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> अगुण¦ 3〉 <i>ohne besondere Beigabe, — Epitheton</i> <ls>KĀTY. ŚR. 6,7,23</ls>."
+        },
+        {
+            "word": "अगुण",
+            "eid": "9675",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> अगुण und अगुणवन्त्¦ I. 2."
+        }
     ]
 }

@@ -28,5 +28,47 @@
             "pagenum": 784,
             "content": "sudAya¦ <i>m.</i> 1. An auspicious gift; 2. a special gift given on particular solemn occasions."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुदाय",
+            "eid": "246622",
+            "pagenum": 1224,
+            "content": "सु—दाय ¦ <lex>m.</lex> a good or auspicious gift, a special gift on <ab>partic.</ab> occasions (<ab>e.g.</ab> a gift to a student at his investiture with the sacred thread or <s1 slp1='yajYopavIta'>Yajñopavīta</s1>, a nuptial present &c.), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुदाय",
+            "eid": "246623",
+            "pagenum": 1224,
+            "content": "सु—दाय ¦ <lex>mfn.</lex> one who makes the above gift (<ab>e.g.</ab> a father, mother, husband &c.), <ls>Dāyabh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुदाय",
+            "eid": "126321",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> *सुदाय¦ <lex>m.</lex> <i>Hochzeitsgeschenk</i> <ls>Comm. zu HARṢAC. 325,10</ls>."
+        },
+        {
+            "word": "सुदाय",
+            "eid": "126322",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सुदाय¦ <lex>Adj.</lex> <i>ein schöne Hochzeitsgeschenk gebend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुदाय",
+            "eid": "110265",
+            "pagenum": 7,
+            "content": "1. सुदाय¦ <lex>m.</lex> <i>Hochzeitsgeschenk</i> <ls>H. 520.</ls>"
+        },
+        {
+            "word": "सुदाय",
+            "eid": "110266",
+            "pagenum": 7,
+            "content": "2. सुदाय¦ <lex>adj.</lex> <i>ein schönes Hochzeitsgeschenk gebend</i>: °संबन्धिभ्यो लब्धं सौदायिकम् <ls>DĀYABH. 124, 2</ls> v. u."
+        }
     ]
 }

@@ -7,5 +7,27 @@
             "pagenum": 350,
             "content": "dvi-Wa¦ <i>m.</i> a <i>visarga</i> (ः)."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विठ",
+            "eid": "98460",
+            "pagenum": 504,
+            "content": "द्वि—ठ or द्वि—ढ, ¦ <lex>m.</lex> <ab>N.</ab> of the <s1 slp1='visarga'>Visarga</s1> (as having 2 points) and of <s1 slp1='svAhA'>Svāhā</s1> (wife of <s1 slp1='agni'>Agni</s1>), <ls>L. 1.</ls><info or='98460,dviWa;98461,dviQa'/><info lex='m'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विठ",
+            "eid": "35692",
+            "pagenum": 3,
+            "content": "द्विठ¦ (द्वि + ठ) <lex>m.</lex> Bez. des <is>Visarga</is> und der <is>Svāhā</is>, der Gemahlin <is>Agni's</is> <ls>ŚKDR.</ls> nach dem <ls>PHETKĀRĪYATANTRA.</ls>"
+        },
+        {
+            "word": "द्विठ",
+            "eid": "76376",
+            "pagenum": 5,
+            "content": "द्विठ¦ vgl. <ls>Verz. d. Oxf. H. 97,a,39.b,1. 105,a,10.</ls>"
+        }
     ]
 }

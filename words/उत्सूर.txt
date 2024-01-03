@@ -44,5 +44,37 @@
             "pagenum": 128,
             "content": "utsUra¦ <i>m.</i> Evening twilight."
         }
+    ],
+    "MW": [
+        {
+            "word": "उत्सूर",
+            "eid": "31965",
+            "pagenum": 182,
+            "content": "उत्-सूर ¦ <lex>m.</lex> (<ab>scil.</ab> काल) the time when the sun sets, the evening, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उत्सूर",
+            "eid": "10636",
+            "pagenum": 152,
+            "content": "उत्सूर¦ <i>ut-sūra, as,</i> m. evening, twilight (when the sun sets)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उत्सूर",
+            "eid": "18533",
+            "pagenum": 1,
+            "content": "*उत्सूर¦ <lex>m.</lex> <i>Abend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उत्सूर",
+            "eid": "11127",
+            "pagenum": 1,
+            "content": "उत्सूर¦ (उद् + सूर) <lex>m.</lex> (sc. काल) <i>Abend (die Zeit, in der sich die Sonne entfernt</i>) <ls>H. 140.</ls>"
+        }
     ]
 }

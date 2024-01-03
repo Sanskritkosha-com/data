@@ -15,5 +15,49 @@
             "pagenum": 97,
             "content": "ARava¦ <i>n.</i> Exceeding minuteness."
         }
+    ],
+    "MW": [
+        {
+            "word": "आणव",
+            "eid": "23307",
+            "pagenum": 134,
+            "content": "आणव ¦ <lex>mfn.</lex> (<ab>fr.</ab> अ/णु), fine, minute, <ls>Up.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आणव",
+            "eid": "23308",
+            "pagenum": 134,
+            "content": "¦ = आणवीन, <ab>q.v.</ab>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आणव",
+            "eid": "23309",
+            "pagenum": 134,
+            "content": "आणव ¦ <lex>n.</lex> exceeding smallness, (<ab>g.</ab> पृथ्व्-आदि, <ab>q.v.</ab>)<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आणव",
+            "eid": "8290",
+            "pagenum": 116,
+            "content": "<i>Āṇava, am,</i>¦ n. exceeding smallness; (<i>as, ī, am</i>), very small, fine (?)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आणव",
+            "eid": "14021",
+            "pagenum": 1,
+            "content": "आणव¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>fein</i>. <div n='2'>— b〉 *<i>mit <bot>Panicum miliaceum</bot> bestanden</i> <ls>GAL.</ls> <div n='1'>— 2〉 *<lex>n.</lex> <i>Feinheit, Dünnheit</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आणव",
+            "eid": "8206",
+            "pagenum": 1,
+            "content": "आणव/¦ <lex>n.</lex> nom. abstr. von अणु 1. <is>gaṇa</is> पृथ्वादि zu <ls>P. 5, 1, 122.</ls> <lex>adj.</lex> (!) <i>überaus klein, fein</i> <ls>TEJOV. UP.</ls> in <ls>Ind. St. 2, 63, N. 1.</ls>"
+        }
     ]
 }

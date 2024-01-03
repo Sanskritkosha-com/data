@@ -7,5 +7,43 @@
             "pagenum": 357,
             "content": "एरु¦ <i><ab>a.</ab></i> <ab>Ved.</ab> Going."
         }
+    ],
+    "MW": [
+        {
+            "word": "एरु",
+            "eid": "40148",
+            "pagenum": 232,
+            "content": "ए/रु ¦ <lex>mfn.</lex> (<ab>fr.</ab> आ-√ ईर्) = गन्तृ, <ls>T.</ls> (?), <ls>AV. vi, 22, 3.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "एरु",
+            "eid": "40148.1",
+            "pagenum": 1323,
+            "content": "¦ (<ab>accord.</ab> to some, ‘the penis’).<info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "एरु",
+            "eid": "12773",
+            "pagenum": 186,
+            "content": "एरु¦ <i>eru,</i> a word of doubtful meaning in Atharva-veda VI. 22, 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "एरु",
+            "eid": "22283",
+            "pagenum": 1,
+            "content": "ए/रु¦ <lex>m.</lex> (?) <ls>AV. 6,22,3</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एरु",
+            "eid": "13536",
+            "pagenum": 1,
+            "content": "ए/रु¦ m.: एजा^ति\\ ग्लहा^ क\\न्ये^व तु\\न्नैरु^ं तुन्दा\\ना पत्ये^व जा\\या <ls>AV. 6, 22, 3.</ls>"
+        }
     ]
 }

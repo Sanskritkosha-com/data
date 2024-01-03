@@ -7,5 +7,35 @@
             "pagenum": 513,
             "content": "विसल्य/¦ <lex>m.</lex> a <ab>cert.</ab> disease."
         }
+    ],
+    "MW": [
+        {
+            "word": "विसल्य",
+            "eid": "193688",
+            "pagenum": 953,
+            "content": "वि—सल्य/ or वि—स/ल्यक, ¦ <lex>m.</lex> a <ab>partic.</ab> disease, <ls>AV.</ls><info or='193688,visalya;193689,visalyaka'/><info lex='m'/>"
+        },
+        {
+            "word": "विसल्य",
+            "eid": "202715",
+            "pagenum": 1000,
+            "content": "वि-सल्य <hom>b</hom>. ¦ वि-सामग्री, वि-सारथि &c. See <pcol>p. 953, col. 1</pcol>."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विसल्य",
+            "eid": "105647",
+            "pagenum": 6,
+            "content": "विसल्य/ und विस/ल्यक¦ <lex>m.</lex> <i>eine <ab>best.</ab> Krankheit</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विसल्य",
+            "eid": "94148",
+            "pagenum": 6,
+            "content": "विस/ल्य¦ und विस/ल्यक (2. वि + स) <lex>m.</lex> <i>eine best. Krankheit</i> <ls>AV. 6, 127, 1.</ls> <ls n='AV. 6, 127,'>3.</ls> <ls n='AV.'>9, 8, 2.</ls> <ls n='AV. 9, 8,'>20.</ls> <ls n='AV.'>19, 44, 2.</ls>"
+        }
     ]
 }

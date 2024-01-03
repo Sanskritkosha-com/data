@@ -29,5 +29,37 @@
             "pagenum": 1745,
             "content": "1190,2 <ab>v. u.</ab>: {715,5} <ab>st.</ab> {715,15} <info vn='chg 205 gra'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "वग्वनु",
+            "eid": "184690",
+            "pagenum": 912,
+            "content": "वग्वनु/ ¦ <lex>m.</lex> a sound, noise, <ls>ib.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वग्वनु",
+            "eid": "40924",
+            "pagenum": 878,
+            "content": "<i>Vagvanu, us,</i>¦ m., Ved. a sound, noise, (Sāy. <i>=</i> <i>śabda.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वग्वनु",
+            "eid": "97317",
+            "pagenum": 6,
+            "content": "वग्वनु/¦ <lex>m.</lex> <i>Ton, Geräusch, Ruf</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वग्वनु",
+            "eid": "87266",
+            "pagenum": 6,
+            "content": "वग्वनु/¦ <lex>m.</lex> <i>Ton, Geräusch, Ruf</i> <ls>ṚV. 9, 3, 5.</ls>"
+        }
     ]
 }

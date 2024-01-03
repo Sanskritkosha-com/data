@@ -43,5 +43,43 @@
             "pagenum": 797,
             "content": "sotprAsa¦ <i>(III) m.n.</i> Ironical exaggeration, sarcasm."
         }
+    ],
+    "MW": [
+        {
+            "word": "सोत्प्रास",
+            "eid": "252575",
+            "pagenum": 1248,
+            "content": "so<srs/>tprA<srs/>sa ¦ <lex>mfn.</lex> exaggerated, ironical, derisive, scornful (अम् <lex type='phw'>ind.</lex> scornfully), <ls>Ratnāv.</ls>; <ls>Kād.</ls><info phwchild='252576.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सोत्प्रास",
+            "eid": "252576",
+            "pagenum": 1248,
+            "content": "so<srs/>tprA<srs/>sa ¦ <lex>m.</lex> <lex type='hw'>n.</lex> ironical exaggeration, sarcasm, <ls>ib.</ls><info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सोत्प्रास",
+            "eid": "52742",
+            "pagenum": 1136,
+            "content": "सोत्प्रास¦ <i>sotprāsa (sa-ut°), as, ā, am,</i> having excess, excessive; exaggerated, exaggerating ironically; (<i>as</i>), m. violent laughter; (<i>as, am</i>), m. n. ironical exaggeration, sarcasm, flattering speech, sneering praise and covert censure. <i>—Sotprāsa-hasita,</i> <i>am,</i> n. sarcastic laughter."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सोत्प्रास",
+            "eid": "129440",
+            "pagenum": 7,
+            "content": "सोत्प्रास¦ <lex>Adj.</lex> <i>höhnisch, spöttisch</i> <ls>KĀD. 2,7,1</ls>. °म् <lex>Adv.</lex> <ls>Chr. 309,2</ls>. Angeblich = चटु चाटु."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सोत्प्रास",
+            "eid": "112776",
+            "pagenum": 7,
+            "content": "सोत्प्रास¦ s. u. उत्प्रास. = चटु, चाटु <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

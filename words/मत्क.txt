@@ -53,5 +53,69 @@
             "pagenum": 545,
             "content": "matka¦ <i>(II) m.</i> A bug."
         }
+    ],
+    "MD": [
+        {
+            "word": "मत्क",
+            "eid": "13580",
+            "pagenum": 214,
+            "content": "मत्क¦ mat-ka, <lex>a.</lex> my."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मत्क",
+            "eid": "155055",
+            "pagenum": 776,
+            "content": "<hom>1.</hom> मत्क ¦ <lex>m.</lex> (for <hom>2.</hom> See <pcol>p. 777, col. 2</pcol>) a bug, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मत्क",
+            "eid": "155278",
+            "pagenum": 777,
+            "content": "<hom>2.</hom> मत्क ¦ <lex>mfn.</lex> (for <hom>1.</hom> See <pcol>p. 776, col. 2</pcol>) mine, my, <ls>Bālar.</ls>; <ls>Bhaṭṭ.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मत्क",
+            "eid": "36209",
+            "pagenum": 732,
+            "content": "मत्क 1¦. <i>matka, as,</i> m. (for 2. see p. 734, col. 1), a bug, <i>= matkuṇa</i> below."
+        },
+        {
+            "word": "मत्क",
+            "eid": "36247",
+            "pagenum": 734,
+            "content": "2. <i>matka, as, ā, am</i>¦ (for 1. see p. 732, col. 3), mine, my."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मत्क",
+            "eid": "81979",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> मत्क¦ <lex>Adj.</lex> <i>mein</i> <ls>BĀLAR. 175,8</ls>."
+        },
+        {
+            "word": "मत्क",
+            "eid": "81980",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> *मत्क¦ <lex>m.</lex> = मत्कुण <i>Wanze</i> <ls>RĀJAN. 19,68</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मत्क",
+            "eid": "56603",
+            "pagenum": 5,
+            "content": "1. मत्क¦ (von मत्) <lex>adj.</lex> <i>mein</i> <ls>BHAṬṬ. 8, 16.</ls>"
+        },
+        {
+            "word": "मत्क",
+            "eid": "56604",
+            "pagenum": 5,
+            "content": "2. मत्क¦ <lex>m.</lex> = मत्कुण <i>Wanze</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

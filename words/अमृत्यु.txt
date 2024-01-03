@@ -31,5 +31,55 @@
             "pagenum": 35,
             "content": "<b>Amṛtyu</b>¦ = Viṣṇu (1000 names)."
         }
+    ],
+    "MW": [
+        {
+            "word": "अमृत्यु",
+            "eid": "14311",
+            "pagenum": 82,
+            "content": "अ/-मृत्यु ¦ <lex>m.</lex> non death, immortality, <ls>ŚBr. xiii</ls>; <ls>KauṣUp.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अमृत्यु",
+            "eid": "14312",
+            "pagenum": 82,
+            "content": "अ/-मृत्यु ¦ <lex>mfn.</lex> immortal, <ls>RV.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अमृत्यु",
+            "eid": "5525",
+            "pagenum": 77,
+            "content": "अमृत्यु¦ <i>a-mṛtyu, us,</i> m. not death, immortality; (<i>us, us, u</i>), immortal, causing immortality."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अमृत्यु",
+            "eid": "8457",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/मृत्यु¦ <lex>m.</lex> <i>Nichttod</i>."
+        },
+        {
+            "word": "अमृत्यु",
+            "eid": "8458",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अ/मृत्यु¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>unsterblich</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>ein Gott</i> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अमृत्यु",
+            "eid": "5253",
+            "pagenum": 1,
+            "content": "1. अ/मृत्यु¦ (3. अ + मृ°) <lex>m.</lex> <i>Nicht - Tod, Nicht - Todtschlag</i>: अमृत्युर्ह वा अन्यो ब्रह्महत्यायै मृत्युरेष ह वै साक्षान्मृत्युर्यद्ब्रह्महत्या <ls>ŚAT. BR. 13, 3, 6, 3.</ls>"
+        },
+        {
+            "word": "अमृत्यु",
+            "eid": "5254",
+            "pagenum": 1,
+            "content": "2. अ/मृत्यु¦ (wie eben) <lex>adj.</lex> <i>ohne Tod, unsterblich</i>: अद्र^यः <ls>ṚV. 10, 94, 11.</ls> श्रव^ः <ls n='ṚV.'>6, 48, 12.</ls> उ\\शिज^ः <ls n='ṚV.'>3, 2, 9.</ls>"
+        }
     ]
 }

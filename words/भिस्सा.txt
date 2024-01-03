@@ -23,5 +23,37 @@
             "pagenum": 528,
             "content": "BissA¦ <i>f.</i> Boiled rice."
         }
+    ],
+    "MW": [
+        {
+            "word": "भिस्सा",
+            "eid": "150967",
+            "pagenum": 757,
+            "content": "भिस्सा ¦ <lex>f.</lex> boiled rice, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भिस्सा",
+            "eid": "35567",
+            "pagenum": 711,
+            "content": "<i>Bhissā,</i>¦ f. boiled rice."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भिस्सा",
+            "eid": "79899",
+            "pagenum": 4,
+            "content": "*भिस्सा¦ <lex>f.</lex> <i>gekochter Reis</i> <ls>BHĀVAPR. 2,14</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भिस्सा",
+            "eid": "54935",
+            "pagenum": 5,
+            "content": "भिस्सा¦ <lex>f.</lex> <i>gekochter Reis</i> <ls>AK. 2, 9, 48.</ls> <ls>H. 395.</ls> <ls>HALĀY. 2, 164.</ls>"
+        }
     ]
 }

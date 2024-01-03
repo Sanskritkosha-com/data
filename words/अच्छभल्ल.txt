@@ -36,5 +36,43 @@
             "pagenum": 7,
             "content": "acCa-Balla¦ <i>m.</i> a bear."
         }
+    ],
+    "MW": [
+        {
+            "word": "अच्छभल्ल",
+            "eid": "1865",
+            "pagenum": 9,
+            "content": "अच्छ—भल्ल ¦ <lex>m.</lex> a bear, <ls>Bālar.</ls> (<ab>cf.</ab> भल्ल). <info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अच्छभल्ल",
+            "eid": "1165",
+            "pagenum": 1,
+            "content": "*अच्छभल्ल¦ <lex>m.</lex> <i>Bär</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अच्छभल्ल",
+            "eid": "838",
+            "pagenum": 1,
+            "content": "अच्छभल्ल¦ <lex>m.</lex> <i>Bär</i> <ls>H. 1289.</ls> <div n='v'>— Vgl. अच्छ und भल्ल, die dieselbe Bedeutung haben. Der <ls>Sch.</ls> zu <ls>H. 1289.</ls> fasst अच्छभल्ल als ein Wort auf, dagegen ist <ls>AK. 2, 5, 4.</ls> अच्छभल्ल zu trennen, da अच्छ in der Bedeutung <i>Bär</i> auch an einer anderen Stelle (<ls n='AK.'>3, 4, 31</ls>) angeführt wird und भल्ल <ls n='AK.'>3, 6, 2, 21.</ls> wohl auch in der Bedeutung <i>Bär</i> zu nehmen ist, weil die Namen für <i>Pfeil</i> schon durch <ls n='AK.'>3, 6, 2, 11.</ls> als <lex>m.</lex> bezeichnet werden und weil भल्ल <i>Pfeil</i> nach andern Autoritäten auch <lex>n.</lex> ist."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अच्छभल्ल",
+            "eid": "210",
+            "pagenum": 1,
+            "content": "अच्छभल्ल¦ <ls>BĀLAR. 167,1</ls>."
+        },
+        {
+            "word": "अच्छभल्ल",
+            "eid": "9907",
+            "pagenum": 7,
+            "content": "अच्छभल्ल¦ I. 1. Auch <ls>VIKRAMĀṄKAC. 13,23</ls>."
+        }
     ]
 }

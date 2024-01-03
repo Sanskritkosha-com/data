@@ -7,5 +7,33 @@
             "pagenum": 678,
             "content": "परिभुज्¦ {c7c} <ab>U.</ab> <b>1</b> To eat. <b>--2</b> To use, enjoy; न खलु च परिभेक्तुं नैव शक्नोमि ह तुं <ls>Ś. 5. 19</ls>; <ls>Ki. 5. 5</ls>; <ls n='Ki.'>8. 57.</ls> <b>--3</b> To neglect to feed."
         }
+    ],
+    "MW": [
+        {
+            "word": "परिभुज्",
+            "eid": "118142",
+            "pagenum": 598,
+            "content": "<hom>a</hom> परि-√ <hom>1.</hom> भुज् ¦ <ab>P.</ab> -भुजति, (-अ/बुभोजीर्, <ls>RV. i, 33, 9</ls>), to span, encompass, embrace, <ls>RV.</ls>; <ls>VS.</ls>; <ls>TāṇḍBr.</ls><info verb='pre' cp='P' parse='pari+Buj'/>"
+        },
+        {
+            "word": "परिभुज्",
+            "eid": "118144",
+            "pagenum": 598,
+            "content": "<hom>b</hom> परि-√ <hom>3.</hom> भुज् ¦ <ab>P.</ab> <ab>Ā.</ab> -भुनक्ति, -भुङ्क्ते, (<ab>inf.</ab> -भोक्तुम्), to eat before another (with <ab>acc.</ab>), <ls>MBh.</ls>; <div n='to'/>to neglect to feed, <ls>BhP.</ls>; <div n='to'/>to feed upon, eat, consume, enjoy, <ls>Kāv.</ls>; <ls>Sāh.</ls><info verb='pre' cp='PĀ' parse='pari+Buj'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "परिभुज्",
+            "eid": "27683",
+            "pagenum": 545,
+            "content": "परिभुज् 1¦. <i>pari-bhuj</i> (see rt. 1. <i>bhuj</i>), cl. 6. P. <i>-bhujati, -bhoktum,</i> Ved. to span, encompass, embrace."
+        },
+        {
+            "word": "परिभुज्",
+            "eid": "27685",
+            "pagenum": 545,
+            "content": "परिभुज् 2¦. <i>pari-bhuj</i> (see rt. 3. <i>bhuj</i>), cl. 7. P. A. <i>-bhunakti, -bhuṅkte, -bhoktum,</i> to eat up, eat, devour; to feed upon; to use, enjoy; to neglect to feed: Caus. <i>-bhojayati, -yitum,</i> Ved. to possess, enjoy, govern."
+        }
     ]
 }

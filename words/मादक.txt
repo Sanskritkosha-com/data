@@ -37,5 +37,65 @@
             "pagenum": 567,
             "content": "mAdaka¦ <i>(II) m.</i> A gallinule."
         }
+    ],
+    "MD": [
+        {
+            "word": "मादक",
+            "eid": "13987",
+            "pagenum": 225,
+            "content": "मादक¦ māda-ka, (<ab>cs.</ab>) <lex>a.</lex> intoxicating, stupefying: 🞄<b>-tva,</b> <lex>n.</lex> <ab>abst. ɴ.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मादक",
+            "eid": "162482",
+            "pagenum": 808,
+            "content": "मादक ¦ <lex>mfn.</lex> intoxicating, exhilarating, gladdening, stupefying (-ता <lex type='phw'>f.</lex> -त्व <lex type='phw'>n.</lex>), <ls>Kām.</ls>; <ls>Kap.</ls>, <ab>Sch.</ab><info phwchild='162483.1'/><info phwchild='162483.2'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "मादक",
+            "eid": "162483",
+            "pagenum": 808,
+            "content": "मादक ¦ <lex>m.</lex> a gallinule (= दात्यूक), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मादक",
+            "eid": "36976",
+            "pagenum": 768,
+            "content": "<i>Mādaka, as, ikā, am</i>¦ (fr. Caus. of rt. 2. <i>mad</i>), intoxicating, causing intoxication, stupefying; exhilarating, gladdening; (<i>as</i>), m. a gallinule <i>(= dā-</i> <i>tyūha)</i>. <i>—Mādaka-tva, am,</i> n. the property or state of causing intoxication."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मादक",
+            "eid": "85939",
+            "pagenum": 5,
+            "content": "मादक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>berauschend, betäubend</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <div n='1'>— 2〉 *<lex>m.</lex> <i>eine Hühnerart</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मादक",
+            "eid": "59714",
+            "pagenum": 5,
+            "content": "मादक¦ (vom caus. von 1. मद्) <div n='1'> 1) <lex>adj.</lex> <i>berauschend, betäubend</i>; davon nom. abstr. °त्व <lex>n.</lex> <ls>KĀM. NĪTIS. 7, 17.</ls> <div n='1'>— 2) <lex>m.</lex> <i>eine Hühnerart</i> (दात्यूह) <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "मादक",
+            "eid": "9264",
+            "pagenum": 6,
+            "content": "मादक¦ 1〉 <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls><ab>Comm.</ab> zu KAP. 3,22</ls>."
+        },
+        {
+            "word": "मादक",
+            "eid": "20462",
+            "pagenum": 7,
+            "content": "मादक¦ V. 6."
+        }
     ]
 }

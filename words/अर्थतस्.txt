@@ -31,5 +31,59 @@
             "pagenum": 65,
             "content": "arTa-tas¦ <i>ind.</i> 1. with reference to the meaning; 2. in fact, really; 3. for the sake of money, ऐश्वर्यादनपेतमीश्वरमयं लोकोऽर्थतः सेवते <ls>Mud.</ls>i.; 4. on account of."
         }
+    ],
+    "MW": [
+        {
+            "word": "अर्थतस्",
+            "eid": "15899",
+            "pagenum": 90,
+            "content": "अर्थ—तस् ¦ <lex>ind.</lex> towards a particular object, <ls>Sāṅkhyak.</ls>; <ls>Mcar.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "अर्थतस्",
+            "eid": "15899.1",
+            "pagenum": 90,
+            "content": "¦ (<ab>ifc.</ab>) for the sake of <ls>Pañcat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अर्थतस्",
+            "eid": "15899.2",
+            "pagenum": 90,
+            "content": "¦ in fact, really, truly, <ls>R.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "अर्थतस्",
+            "eid": "15899.3",
+            "pagenum": 90,
+            "content": "¦ for the profit of<info lex='inh'/>"
+        },
+        {
+            "word": "अर्थतस्",
+            "eid": "15899.4",
+            "pagenum": 90,
+            "content": "¦ with respect to the sense, <ls>VarBṛS.</ls> (opposed to ग्रन्थ-तस् and सूत्र-तस्, <ls>Jain.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अर्थतस्",
+            "eid": "9435",
+            "pagenum": 1,
+            "content": "अर्थतस्¦ <div n='1'>— 1〉 <i>eines Zweckes wegen, für Etwas</i> <ls>SĀṂKHYAK. 13</ls> <ls>MAHĀVĪRAC. 1,12</ls>. <ls>Spr. 3186</ls>. Am Ende eines <ab>Comp.</ab> <i>wegen</i> <ls n='Spr.'>5187</ls>. <div n='1'>— 2〉 <i>des Vortheils wegen</i> <ls>MUDRĀR. 7,1</ls>. <div n='1'>— 3〉 <i>in der That, in Wahrheit</i>. <div n='1'>— 4〉 <i>dem Sinne nach</i> <ls n='Chr.'>253,15</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अर्थतस्",
+            "eid": "5893",
+            "pagenum": 1,
+            "content": "अर्थतस्¦ (von अर्थ) <div n='1'> 1) <i>nach einem Ziele hin</i>: प्रदीपवच्चार्थतः वृत्तिः <i>einer Lampe gleich streben sie nach einem Ziele</i> <ls>SĀṂKHYAK. 13.</ls> <div n='1'>— 2) <i>in der That, in Wahrheit, wirklich</i> <ls>R. 6, 98, 20.</ls> <ls>MṚCCH. 55, 8.</ls> <ls>HIT. I, 179.</ls> <ls>KATHĀS. 17, 76.</ls> <div n='1'>— 3) <i>wegen</i>, am Ende eines comp.: तत्सर्वमुदरार्थतः <ls>PAÑCAT. I, 286.</ls>"
+        },
+        {
+            "word": "अर्थतस्",
+            "eid": "65110",
+            "pagenum": 5,
+            "content": "अर्थतस्¦ <i>um des Vortheils willen</i>: अर्थतस्तु निबध्यन्ते मित्राणि रिपवस्तथा <ls>Spr. 4274.</ls> <i>dem Sinne nach</i>: ग्रन्थतश्चार्थतश्चैतत्कृत्स्नं जानाति यो द्विजः <ls>VARĀH. BṚH. S. 2, 14.</ls> <ls>VEDĀNTAS. (Allah.) No. 2.</ls>"
+        }
     ]
 }

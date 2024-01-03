@@ -27,5 +27,25 @@
             "pagenum": 131,
             "content": "<b>COLOUR</b>¦ (v. i.): Ph.: <div n='xe'><i>his face c. ed</i></div> <div n='xs'>*तस्य   वदनमारक्तं बभूव</div> <div n='xe'><i>or</i></div> <div n='xs'>रक्तवर्णमापेदे</div> <div n='xe'><i>or</i></div> <div n='xs'>भेजे।</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "colour",
+            "eid": "5042",
+            "pagenum": 108,
+            "content": "COLOUR¦, <i>s.</i> (Hue, dye, tint) रागः, रङ्गः, वर्णः; ‘of one colour,’ एकवर्णः -र्णा -र्णं; ‘of the same colour,’ सवर्णः -र्णा -र्णं, समवर्णः -र्णा -र्णं; ‘of various colours,’ नानावर्णः -र्णा -र्णं; ‘of lasting colour,’ स्थिररङ्गः -ङ्गा -ङ्गं; ‘to change colour,’ विवर्णीभू; ‘that has lost its colour,’ वीतरागः -गा -गं. — (Paint) रङ्गः, वर्णकः -का, लेपः; ‘a picture in colours,’ चित्रलेखा, चित्रलिखितं, चित्रं. — (Complexion, colour in the cheek) कपोलरागः; ‘of a ruddy colour,’ अरुणवदनः -ना -नं, लोहिताननः -नी -नं; ‘without colour,’ विवर्णवदनः -ना -नं. — (Colours of a regiment) पताका, ध्वजः, वैजयन्ती. — (Pretext) अपदेशः, व्यपदेशः, छद्म <i>n.</i> (न्); ‘under colour of a vow,’ व्रतव्यपदेशेन."
+        },
+        {
+            "word": "colour",
+            "eid": "5043",
+            "pagenum": 108,
+            "content": "<i>To</i> COLOUR¦, <i>v. a.</i> रञ्ज् in caus. (रञ्जयति -यितुं), वर्ण् (c. 10. वर्णयति -यितुं), चित्र् (c. 10. चित्रयति -यितुं), सरागं -गां -गं कृ. — (Excuse, palliate) व्यपदिश् (c. 6. -दिशति -देष्टुं), अपदिश्, शम् in caus. (शमयति -यितुं), छद् (c. 10. छादयति -यितुं). — (Make plausible) सत्यसङ्काशं -शां -शं कृ, सुदृश्यं -श्यां -श्यं कृ."
+        },
+        {
+            "word": "colour",
+            "eid": "5044",
+            "pagenum": 108,
+            "content": "<i>To</i> COLOUR¦, <i>v. n.</i> (Take a colour) रञ्ज् in pass. (रज्यते), संरञ्ज्. — (Blush) सलज्जत्वाद् रक्तवदनः -नी -नं भू, लज्ज् (c. 1. लज्जते -ज्जितुं), व्रीड् (c. 4. व्रीड्यति, व्रीडितुं)."
+        }
     ]
 }

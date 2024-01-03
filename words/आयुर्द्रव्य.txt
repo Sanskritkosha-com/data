@@ -7,5 +7,29 @@
             "pagenum": 105,
             "content": "Ayus-dravya¦ <i>n.</i> a medicament."
         }
+    ],
+    "MW": [
+        {
+            "word": "आयुर्द्रव्य",
+            "eid": "25886",
+            "pagenum": 148,
+            "content": "आयुर्—द्रव्य ¦ <lex>n.</lex> a medicament, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आयुर्द्रव्य",
+            "eid": "15354",
+            "pagenum": 1,
+            "content": "*आयुर्द्रव्य¦ <lex>n.</lex> <i>Arzenei</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आयुर्द्रव्य",
+            "eid": "9065",
+            "pagenum": 1,
+            "content": "आयुर्द्रव्य¦ (आ° + द्रव्य) <lex>n.</lex> <i>Arzenei</i> <ls>RATNAM.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

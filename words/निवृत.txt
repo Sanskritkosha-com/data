@@ -37,5 +37,55 @@
             "pagenum": 390,
             "content": "nivfta¦ <i>(II) m.n.</i> A veil, a mantle."
         }
+    ],
+    "MW": [
+        {
+            "word": "निवृत",
+            "eid": "110352",
+            "pagenum": 559,
+            "content": "नि/-°वृत ¦ (नि/-), <lex>mfn.</lex> held back, withheld, <ls>RV.</ls> <pb n='560,1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "निवृत",
+            "eid": "110352.1",
+            "pagenum": 560,
+            "content": "¦ surrounded, enclosed, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "निवृत",
+            "eid": "110352.2",
+            "pagenum": 560,
+            "content": "¦ (= नि-वीत) a veil, mantle, wrapper, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "निवृत",
+            "eid": "110352.3",
+            "pagenum": 560,
+            "content": "नि/-°वृत ¦ <lex>n.</lex> = next, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निवृत",
+            "eid": "25788",
+            "pagenum": 504,
+            "content": "<i>Ni-vṛta, as, ā, am,</i>¦ surrounded, enclosed, encompassed; (<i>as, ā, am</i>), m. f. n. (<i>= ni-vīta</i>), a veil, a mantle, a wrapper."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निवृत",
+            "eid": "59817",
+            "pagenum": 3,
+            "content": "नि/वृत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>1.</hom> वर् mit नि. <div n='1'>— 2〉 *<lex>m.</lex> <lex>f.</lex> <lex>n.</lex> <i>Ueberwurf, Mantel</i>. <div n='1'>— 3〉 *<lex>n.</lex> <i>das Verdecken, Verhüllen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निवृत",
+            "eid": "39847",
+            "pagenum": 4,
+            "content": "निवृत¦ <div n='1'> 1) partic. s. u. वर् mit नि . <div n='1'>— 2) <lex>m.</lex> <lex>f.</lex> <lex>n.</lex> = निवीत <i>Ueberwurf,</i> <i>Mantel</i> <ls>SVĀMIN</ls> zu <ls>AK. 2, 6, 3, 15.</ls> <ls>ŚKDR.</ls> <lex>n.</lex> = आवरण <ls>SIDDH. K.</ls> <ls>P. 3, 3, 21</ls>, <is>Vārtt</is>. 2."
+        }
     ]
 }

@@ -31,5 +31,73 @@
             "pagenum": 680,
             "content": "vizA¦ <i>f.</i> 1. Ordure, feces; 2. intellect."
         }
+    ],
+    "MW": [
+        {
+            "word": "विषा",
+            "eid": "201657",
+            "pagenum": 995,
+            "content": "विषा <hom>a</hom> ¦ (आ), <lex>f.</lex> a kind of aconite, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "विषा",
+            "eid": "201658",
+            "pagenum": 995,
+            "content": "¦ a tree (commonly called <ns>Atis</ns>, its bark is used as a red dye), <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विषा",
+            "eid": "201659",
+            "pagenum": 995,
+            "content": "¦ = <hom>3.</hom> विष्, feces (<ab>cf.</ab> vI<srs/>ta-viza)<info lex='inh'/>"
+        },
+        {
+            "word": "विषा",
+            "eid": "202126",
+            "pagenum": 997,
+            "content": "विषा <hom>b</hom> ¦ <lex>ind.</lex> = बुद्धि, <ls>Uṇ. iv, 36</ls>, <ab>Sch.</ab> (for विषा <lex type='hwinfo'>f.</lex> See under विष, <pcol>p. 995, col. 2</pcol>). <info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विषा",
+            "eid": "44276",
+            "pagenum": 947,
+            "content": "विषा¦ <i>vi-ṣā,</i> ind. See <i>vi-ṣo.</i>"
+        },
+        {
+            "word": "विषा",
+            "eid": "44299",
+            "pagenum": 948,
+            "content": "<i>Vi-ṣā,</i>¦ ind. (said in Uṇādi-s. IV. 36. to be fr. <i>vi-ṣo</i> above), intellect, understanding. (For <i>viṣā</i> see under <i>viṣa,</i> p. 946, col. 2.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विषा",
+            "eid": "105304",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विषा/¦ <lex>Adj.</lex> <lex>f.</lex> und <ab>Subst.</ab> <ab>s. u.</ab> <hom>2.</hom> विष."
+        },
+        {
+            "word": "विषा",
+            "eid": "105305",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *विषा¦ <lex>Indecl.</lex> = बुद्धि."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विषा",
+            "eid": "93878",
+            "pagenum": 6,
+            "content": "1. विषा¦ <lex>f.</lex> <i>eine best. Pflanze</i> s. 2. विष 3)."
+        },
+        {
+            "word": "विषा",
+            "eid": "93879",
+            "pagenum": 6,
+            "content": "2. विषा/¦ <ls>UṆĀDIS. 4, 36.</ls> indecl. = बुद्धि <ls>UJJVAL.</ls>"
+        }
     ]
 }

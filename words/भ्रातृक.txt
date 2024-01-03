@@ -31,5 +31,55 @@
             "pagenum": 540,
             "content": "BrAtfka¦ <i>a. (f. का)</i> Relating to a brother."
         }
+    ],
+    "MW": [
+        {
+            "word": "भ्रातृक",
+            "eid": "153734",
+            "pagenum": 770,
+            "content": "भ्रातृक ¦ (<ab>ifc.</ab>, with <lex type='hwifc'>f(आ). </lex>) = भ्रातृ, a brother, <ls>Kālid.</ls> (<ab>cf.</ab> अ- and स-भ्°)<info lex='f#A'/>"
+        },
+        {
+            "word": "भ्रातृक",
+            "eid": "153734.1",
+            "pagenum": 770,
+            "content": "भ्रातृक ¦ <lex>mf(ई)n.</lex> coming from or belonging to a brother, brotherly, fraternal, <ls>Pāṇ. iv, 3, 78</ls>, <ab>Sch.</ab><info lex='m:f#I:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भ्रातृक",
+            "eid": "35964",
+            "pagenum": 726,
+            "content": "<i>Bhrātṛka, as, ā, am,</i>¦ having a brother, (at the end of a comp., cf. <i>a-bh°</i>); coming from a brother, of or belonging to a brother, fraternal, brotherly (in this sense the fem. is <i>ī</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भ्रातृक",
+            "eid": "81247",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> भ्रातृक¦ am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> आ = भ्रातर् <i>Bruder</i>."
+        },
+        {
+            "word": "भ्रातृक",
+            "eid": "81248",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> *भ्रातृक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>vom Bruder kommend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भ्रातृक",
+            "eid": "56021",
+            "pagenum": 5,
+            "content": "1. भ्रातृक¦ (von भ्रातर्) am Ende eines <lex>adj.</lex> comp. (f. आ): अ° <i>keinen Bruder habend</i> <ls>YĀJÑ. 2, 134.</ls> रामे सभ्रातृके <is>Rāma</is> <i>mit seinem Bruder</i> <ls>R. 2, 87, 10.</ls> <ls>RĀJA-TAR. 6, 334.</ls> इमां तथागतभ्रातृकाम् <ls>MĀLAV. 67, 19.</ls> <div n='v'>— Vgl. अ° ."
+        },
+        {
+            "word": "भ्रातृक",
+            "eid": "56022",
+            "pagenum": 5,
+            "content": "2. भ्रा/तृक¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> ई <i>vom Bruder kommend</i> <ls>P. 4, 3, 78</ls>, <ls>Sch.</ls> und <is>Vārtt</is>. 22 zu <ls>P. 4, 2, 104.</ls>"
+        }
     ]
 }

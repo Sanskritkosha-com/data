@@ -39,5 +39,63 @@
             "pagenum": 281,
             "content": "<b>syá</b>¦ [<ls n='wg,499'>499a</ls>], <i><ab>pron.</ab></i> that; <i><ab>cf.</ab></i> <b>tyá.</b>"
         }
+    ],
+    "MD": [
+        {
+            "word": "स्य",
+            "eid": "20109",
+            "pagenum": 369,
+            "content": "स्य¦ syá, <ab>V.</ab> <ab>prn.</ab> <i>base</i> (= sa), <i>only</i> <ab>nm.</ab> <ab>sg.</ab> <b>syáḥ</b> 🞄<i>or</i> <b>syá,</b> <lex>m.</lex>, <b>syā́,</b> <lex>f.</lex>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "स्य",
+            "eid": "257400",
+            "pagenum": 1273,
+            "content": "<hom>1.</hom> स्य/ ¦ <lex>mfn.</lex> <ab>pron.</ab> base of 3rd person (= स/; only in <ab>nom.</ab> <lex type='hwinfo'>m.</lex> स्य/स्, स्य/ <lex type='hwinfo'>f.</lex> स्य/; <ab>cf.</ab> त्य/, त्य/द्), <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्य",
+            "eid": "257401",
+            "pagenum": 1273,
+            "content": "<hom>2.</hom> स्य ¦ <lex>n.</lex> a winnowing basket (= शूर्प), <ls>ŚāṅkhGṛ.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्य",
+            "eid": "53526",
+            "pagenum": 1154,
+            "content": "स्य¦ <i>sya, am,</i> n., Ved. a winnowing basket (<i>= śūrpa,</i> q. v.)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्य",
+            "eid": "131759",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स्य/¦ <lang>ved.</lang> Pronominalstamm der 3ten Person = स/ Nur <ab>Nomin.</ab> स्य/स्, स्य/ und स्या/."
+        },
+        {
+            "word": "स्य",
+            "eid": "131760",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> स्य¦ <lex>n.</lex> = शूर्प 1〉a〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्य",
+            "eid": "114655",
+            "pagenum": 7,
+            "content": "1. स्य¦ ved. Pronominalstamm der 3ten Person = स; nur im nom. <lex>m.</lex> स्यस्, स्य <ls>VS. PRĀT. 3, 16.</ls>  <ls>TS. PRĀT. 5, 15.</ls> <ls>P. 6, 1, 133</ls> und <lex>f.</lex> स्या. अ\\यमु\\ ष्य सुम^हाँ अवेदि <ls>ṚV. 7, 8, 2.</ls> स्य इन्द्र^ः <ls n='ṚV. 7,'>23, 3.</ls> <ls n='ṚV. 7,'>38, 1.</ls> यो हि स्य रथ^ः <ls n='ṚV. 7,'>69, 5.</ls> <ls n='ṚV.'>2, 33, 7.</ls> ए\\ष उ\\ स्य पु^रुव्र\\तः <ls n='ṚV.'>9, 3, 10.</ls> <ls n='ṚV. 9,'>89, 1.</ls> ए\\षा स्या <ls n='ṚV.'>7, 75, 4.</ls> <ls n='ṚV. 7,'>80, 2.</ls> <ls n='ṚV.'>1, 178, 1.</ls> <ls n='ṚV.'>8, 46, 33.</ls> <ls n='ṚV. 8,'>26, 18.</ls> Fehlt im <ls>AV.</ls>; <ls>TBR. 2, 1, 2, 1</ls> fehlerhaft für स . <div n='v'>— Vgl. त्य ."
+        },
+        {
+            "word": "स्य",
+            "eid": "114656",
+            "pagenum": 7,
+            "content": "2. स्य¦ <lex>n.</lex> = शूर्प <ls>NIR. 6, 9.</ls> <ls>ŚĀṄKH. GṚHY. 1, 13, 15</ls> in <ls>Ind. St. 5, 332.</ls>"
+        }
     ]
 }

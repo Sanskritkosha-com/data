@@ -60,5 +60,57 @@
             "pagenum": 662,
             "content": "viqa¦ <i>n.</i> A kind of salt."
         }
+    ],
+    "MD": [
+        {
+            "word": "विड",
+            "eid": "16521",
+            "pagenum": 282,
+            "content": "विड¦ viḍa, <lex>m.</lex> <lex>n.</lex> <i>kind of</i> salt."
+        }
+    ],
+    "MW": [
+        {
+            "word": "विड",
+            "eid": "195397",
+            "pagenum": 962,
+            "content": "विड ¦ <lex>mn.</lex> a kind of salt (either factitious salt, procured by boiling earth impregnated with saline particles, or a <ab>partic.</ab> kind of fetid salt used medicinally as a tonic aperient, commonly called Vit-lavan or Bit-noben <ab>cf.</ab> विड्-लवण; it is black in colour and is prepared by fusing fossil silt with a small portion of <bot>Emblic Myrobalan</bot>, the product being muriate of soda with small quantities of muriate of lime, sulphur, and oxide of iron), <ls>Suśr.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "विड",
+            "eid": "195398",
+            "pagenum": 962,
+            "content": "विड ¦ <lex>m.</lex> <ab>N.</ab> of a country and its king, <ls>Inscr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विड",
+            "eid": "195399",
+            "pagenum": 962,
+            "content": "¦ a fragment, bit, portion (?), <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विड",
+            "eid": "42623",
+            "pagenum": 916,
+            "content": "<i>Viḍa, am,</i>¦ n. a kind of factitious salt (procured by boiling earth impregnated with saline particles); a particular kind of fetid salt (used medicinally as a tonic aperient, commonly called Vit-lavan or Bitnoben, cf. <i>viḍ-lavaṇa;</i> it is black in colour and is prepared by fusing fossil salt with a small portion of Emblic Myrobalan, the product being muriate of soda with small quantities of muriate of lime, sulphur, and oxide of iron); a fragment, bit, portion (?). <i>—Viḍa-gandha, am,</i> n. the medicinal salt described above."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विड",
+            "eid": "102354",
+            "pagenum": 6,
+            "content": "विड¦ <div n='1'>— 1〉 <lex>m.</lex> <lex>n.</lex> <i>eine Art Salz</i>. Auch °लवण <lex>n.</lex> <ls>Mat. med. 84</ls>. <ls>RĀJAN. 6,98</ls>. <ls>BHĀVAPR. 1,181</ls>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines Landes und dessen Fürsten <ls>Ind. Antiq. 6,92. 7,302</ls>. <div n='1'>— 3〉 *<lex>n.</lex> <i>a part, a fracture, a bit</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विड",
+            "eid": "91434",
+            "pagenum": 6,
+            "content": "विड¦ <lex>n.</lex> <i>eine Art Salz</i> <ls>AK. 2, 9, 42.</ls> <ls>H. 942.</ls> <ls>SUŚR. 1, 33, 9. 157, 8. 226, 20. 2, 125, 15.</ls> °लवण (vgl. विड्लवण) <ls n='SUŚR.'>89, 13.</ls> masc. <ls>MBH. 13, 4365.</ls> Nach <ls>WILSON</ls> auch <i>a part, a fracture, a bit (!).</i>"
+        }
     ]
 }

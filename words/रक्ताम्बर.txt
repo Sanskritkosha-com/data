@@ -21,5 +21,53 @@
             "pagenum": 355,
             "content": "रक्ताम्बर¦ <i>n.</i> ein rotes Gewand; <i>Adj.</i> in ein r. G. gekleidet."
         }
+    ],
+    "MW": [
+        {
+            "word": "रक्ताम्बर",
+            "eid": "173700",
+            "pagenum": 862,
+            "content": "raktA<srs/>mbara ¦ <lex>n.</lex> a red garment (-धर <lex type='phw'>mfn.</lex> wearing a red <ab n='garment'>g°</ab>), <ls>MBh.</ls><info phwchild='173702.1'/><info lex='n'/>"
+        },
+        {
+            "word": "रक्ताम्बर",
+            "eid": "173701",
+            "pagenum": 862,
+            "content": "raktA<srs/>mbara ¦ <lex>mfn.</lex> clad in red <ab n='garment'>g°</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "रक्ताम्बर",
+            "eid": "173702",
+            "pagenum": 862,
+            "content": "raktA<srs/>mbara ¦ <lex>m.</lex> any vagrant religious mendicant wearing red <ab n='garment'>g°</ab> (-त्व, <lex type='phw'>n.</lex>), <ls>Sarvad.</ls><info phwchild='173702.2'/><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रक्ताम्बर",
+            "eid": "91830",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> रक्ताम्बर¦ <lex>n.</lex> <i>rothes Gewand</i>."
+        },
+        {
+            "word": "रक्ताम्बर",
+            "eid": "91831",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> रक्ताम्बर¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>in ein rothes Gewand gehüllt</i> <ls n='Chr.'>91,20</ls>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <div n='1'>— 2〉 <lex>f.</lex> आ <ab>N. pr.</ab> einer Göttin."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रक्ताम्बर",
+            "eid": "82827",
+            "pagenum": 6,
+            "content": "1. रक्ताम्बर¦ (रक्त + अ°) <lex>n.</lex> <i>ein rothes Gewand</i>: °धर <ls>MBH. 2, 221.</ls> <ls>R. 3, 55, 5.</ls> <ls n='R. 3, 55,'>13</ls>"
+        },
+        {
+            "word": "रक्ताम्बर",
+            "eid": "82828",
+            "pagenum": 6,
+            "content": "2. रक्ताम्बर¦ (wie eben) <lex>adj.</lex> <i>in ein rothes Gewand gehüllt</i>; <lex>f.</lex> आ N. pr. einer Göttin <ls>Verz. d. Oxf. H. 19,a,8.</ls> रक्ताम्बरत्व <lex>n.</lex> <i>das Tragen eines rothen Gewandes</i> (bei den buddh. Mönchen) <ls>SARVADARŚANAS. 24, 16.</ls>"
+        }
     ]
 }

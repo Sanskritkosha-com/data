@@ -23,5 +23,61 @@
             "pagenum": 123,
             "content": "ucCvasana¦ <i>n.</i> Breathing, sighing."
         }
+    ],
+    "MD": [
+        {
+            "word": "उच्छ्वसन",
+            "eid": "4321",
+            "pagenum": 48,
+            "content": "उच्छ्वसन¦ uc-chvasana, <lex>n.</lex> becoming slack; 🞄<b>-chvasita,</b> (<ab>pp.</ab>) <lex>n.</lex> breath; exhalation; solution; 🞄<b>-chvāsá,</b> <lex>m.</lex> expiration; breath; sigh; 🞄expiring; swelling, rising; section; chapter; 🞄<b>-chvāsita,</b> <ab>cs.</ab> <ab>pp.</ab> riven; <b>-chvāsin,</b> <lex>a.</lex> breathing 🞄out; breathing again; sighing; swelling; 🞄rising; issuing."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उच्छ्वसन",
+            "eid": "30495",
+            "pagenum": 174,
+            "content": "उच्-छ्वसन ¦ <lex>n.</lex> breathing, taking breath<info lex='n'/>"
+        },
+        {
+            "word": "उच्छ्वसन",
+            "eid": "30496",
+            "pagenum": 174,
+            "content": "¦ sighing<info lex='inh'/>"
+        },
+        {
+            "word": "उच्छ्वसन",
+            "eid": "30497",
+            "pagenum": 174,
+            "content": "¦ swelling up <ab>Comm.</ab> on <ls>Bādar.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "उच्छ्वसन",
+            "eid": "30497.1",
+            "pagenum": 1321,
+            "content": "¦ becoming loose (as a girdle), <ls>Mālatīm.</ls><info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उच्छ्वसन",
+            "eid": "10263",
+            "pagenum": 146,
+            "content": "<i>Uc-chvasana, am,</i>¦ n. breathing, sighing; taking a deep breath."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "उच्छ्वसन",
+            "eid": "1680",
+            "pagenum": 1,
+            "content": "उच्छ्वसन¦ <lex>n.</lex> <i>das Schlaffwerden</i> <ls>MĀLATĪM. 35,9 (88,2)</ls>."
+        },
+        {
+            "word": "उच्छ्वसन",
+            "eid": "14715",
+            "pagenum": 7,
+            "content": "उच्छ्वसन¦ 1."
+        }
     ]
 }

@@ -55,5 +55,37 @@
             "pagenum": 24,
             "content": "<i>anudivasam</i>¦ (CII 1), daily."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनुदिवसम्",
+            "eid": "1663",
+            "pagenum": 16,
+            "content": "अनुदिवसम्¦ anu-divasam, <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनुदिवसम्",
+            "eid": "6443",
+            "pagenum": 33,
+            "content": "अनु-दिवसम् ¦ <lex>ind.</lex> <ab>id.</ab><info lex='ind'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुदिवसम्",
+            "eid": "4448",
+            "pagenum": 1,
+            "content": "अनुदिवसम्¦ <lex>Adv.</lex> <ab>dass.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुदिवसम्",
+            "eid": "2802",
+            "pagenum": 1,
+            "content": "अनुदिवसम्¦ (von 1. अनु + दिवस) adv. <i>jeden Tag</i> <ls>SUŚR. 2, 198, 8.</ls>"
+        }
     ]
 }

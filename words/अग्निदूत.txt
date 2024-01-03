@@ -23,5 +23,37 @@
             "pagenum": 9,
             "content": "<b>agní-dūta,</b>¦ <ab>a.</ab>, <i>den Agni als Ueberbringer</i> (dūtá) <i>habend = von <ab>A.</ab> überbracht</i>. <div n='TS'>-as: yajñás {840,13}."
         }
+    ],
+    "MD": [
+        {
+            "word": "अग्निदूत",
+            "eid": "274",
+            "pagenum": 3,
+            "content": "अग्निदूत¦ agní-dūta, <lex>a.</lex> having Agni for a 🞄messenger, brought by Agni."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अग्निदूत",
+            "eid": "969",
+            "pagenum": 5,
+            "content": "अग्नि/—दूत ¦ (अग्नि/-) <lex>mfn.</lex> having <s1 slp1='agni'>Agni</s1> for a messenger, brought by <s1 slp1='agni'>Agni</s1>, <ls>RV. x, 14, 13</ls>; <ls>AV.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्निदूत",
+            "eid": "558",
+            "pagenum": 1,
+            "content": "अग्नि/दूत¦ <lex>Adj.</lex> <is>Agni</is> <i>zum Boten habend, von</i> <is n='Agni'>A.</is> <i>überbracht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्निदूत",
+            "eid": "398",
+            "pagenum": 1,
+            "content": "अग्नि/दूत¦ (अग्नि + दूत) <lex>adj.</lex> <is>Agni</is> <i>zum Boten habend, von</i> <is>Agni</is> <i>getragen</i>: य\\मं ह^ य\\ज्ञो ग^च्छत्य\\ग्निदू^तो\\ अर^ंकृतः <ls>ṚV. 10, 14, 13.</ls> अया^ य\\मस्य\\ साद^नम\\ग्निदू^तो\\ अर^ंकृतः <ls>AV. 2, 12, 7.</ls>"
+        }
     ]
 }

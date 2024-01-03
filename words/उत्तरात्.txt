@@ -15,5 +15,51 @@
             "pagenum": 250,
             "content": "<b>uttarā́t,</b>¦ adverbialer <ab>Abl.</ab> von úttara, <i>von Norden her,</i> Gegensatz paścā́t, adharā́t, purástāt (purás) {460,9}; {670,16}."
         }
+    ],
+    "MD": [
+        {
+            "word": "उत्तरात्",
+            "eid": "4401",
+            "pagenum": 49,
+            "content": "उत्तरात्¦ uttarā́t, (<ab>ab.</ab>) <lex>ad.</lex> from the north <i>or</i> 🞄left."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उत्तरात्",
+            "eid": "31357",
+            "pagenum": 179,
+            "content": "उत्तरा/त् ¦ <lex>ind.</lex> from the left<info lex='ind'/>"
+        },
+        {
+            "word": "उत्तरात्",
+            "eid": "31357.1",
+            "pagenum": 179,
+            "content": "¦ from the north, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उत्तरात्",
+            "eid": "10460",
+            "pagenum": 150,
+            "content": "<i>Uttarāt,</i>¦ ind. from the left, from the north, northward."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उत्तरात्",
+            "eid": "18237",
+            "pagenum": 1,
+            "content": "उत्तरा/त्¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>von Norden her</i>. <div n='1'>— 2〉 <i>von links her</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उत्तरात्",
+            "eid": "10949",
+            "pagenum": 1,
+            "content": "उत्तरा/त्¦ (wie eben) adv. <ls>P. 5, 3, 34.</ls> <i>von Norden her, von links her</i>: प\\श्चादोत्त\\रा^दध\\रादा पु\\रस्ता^त् <ls>ṚV. 6, 19, 9.</ls> <ls n='ṚV.'>8, 50, 16.</ls> <ls>AV. 6, 40, 3.</ls> <ls n='AV.'>8, 3, 20.</ls> <ls n='AV.'>12, 3, 24.</ls> <ls>VS. 13, 57.</ls> <ls>ŚAT. BR. 8, 6, 1, 19.</ls>"
+        }
     ]
 }

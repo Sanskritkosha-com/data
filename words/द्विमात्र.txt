@@ -31,5 +31,41 @@
             "pagenum": 350,
             "content": "dvi-mAtra¦ <i>m.</i> a long vowel."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विमात्र",
+            "eid": "98603",
+            "pagenum": 505,
+            "content": "द्वि—मात्र ¦ <lex>mfn.</lex> doubly as great, <ls>MānŚr.</ls> & <ls>MānGṛ.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विमात्र",
+            "eid": "98604",
+            "pagenum": 505,
+            "content": "¦ containing 2 syllabic instants, <ls>Prāt.</ls> (also °त्रिक, <ls>Śikṣ.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विमात्र",
+            "eid": "54025",
+            "pagenum": 3,
+            "content": "द्विमात्र¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>doppelt so gross</i> <ls>MĀN. ŚR. 1,3,2</ls> = <ls>MĀN. GṚHY. 2,2</ls>. <div n='1'>— 2〉 <i>zwei Moren enthaltend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विमात्र",
+            "eid": "35770",
+            "pagenum": 3,
+            "content": "द्विमात्र¦ (द्वि + मात्रा) <lex>adj.</lex> <i>zwei Zeitlängen enthaltend</i>, von einem langen Vocal <ls>AV. PRĀT. 1, 61.</ls> <ls>TAITT. PRĀT. 2, 10.</ls> द्विमात्रिक dass. <ls>ŚIKṢĀ</ls> in <ls>Ind. St. 4, 119, N.</ls>"
+        },
+        {
+            "word": "द्विमात्र",
+            "eid": "76394",
+            "pagenum": 5,
+            "content": "द्विमात्र¦, °मात्रां (die v. l. richtig द्वे मात्रे) वायसो ऽब्रवीत् <ls>ṚV. PRĀT. 13, 20.</ls>"
+        }
     ]
 }

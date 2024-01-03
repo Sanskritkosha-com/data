@@ -61,5 +61,77 @@
             "pagenum": 231,
             "content": "gaRita¦ <i>(II) n.</i> 1. Reckoning, calculating; 2. the science of computation, mathematics, [comprising arithmetic (पाटीगणित or व्यक्तगणित), algebra (बीजगणित) and geometry (रेखागणित)], गणितमथकलां वैशिकीं हस्तिशिक्षां ज्ञात्वा <ls>Mrich.</ls>i.; 3. the sum of a progression; 4. a sum in general."
         }
+    ],
+    "MW": [
+        {
+            "word": "गणित",
+            "eid": "62701",
+            "pagenum": 343,
+            "content": "गणित ¦ <lex>mfn.</lex> counted, numbered, reckoned, calculated, <ls>MBh.</ls>; <ls>BhP.</ls>; <ls>Vet.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गणित",
+            "eid": "62702",
+            "pagenum": 343,
+            "content": "गणित ¦ <lex>n.</lex> reckoning, calculating, science of computation (comprising arithmetic, algebra, and geometry, पाटी- or व्यक्त-, बीज-, & रेखा-), <ls>MBh. i, 293</ls>; <ls>Mṛcch. i, 4</ls>; <ls>VarBṛS.</ls> &c.<info lex='n'/>"
+        },
+        {
+            "word": "गणित",
+            "eid": "62703",
+            "pagenum": 343,
+            "content": "¦ the astronomical or astrological part of a <s1 slp1='jyotiHSAstra'>Jyotiḥśāstra</s1> (with the exception of the portion treating of nativities), <ls>VarBṛS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गणित",
+            "eid": "62704",
+            "pagenum": 343,
+            "content": "¦ the sum of a progression<info lex='inh'/>"
+        },
+        {
+            "word": "गणित",
+            "eid": "62705",
+            "pagenum": 343,
+            "content": "¦ sum (in general). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गणित",
+            "eid": "17025",
+            "pagenum": 279,
+            "content": "<i>Gaṇita, as, ā, am,</i>¦ numbered, counted, reckoned, calculated; (<i>am</i>), n. reckoning, calculating, the science of computation (comprising arithmetic, algebra, and geometry, severally called <i>pāṭī-gaṇitam</i> or <i>vyakta-gaṇitam, vīja-gaṇitam,</i> and <i>rekhā-</i> <i>gaṇitam</i>); the astronomical or astrological part of a Jyotiḥ-śāstra, with exception of the portion treating of nativities; the sum of a progression, a sum in general. <i>—Gaṇita-kaumudī,</i> f. title of a commentary on the Līlāvatī. <i>—Gaṇita-tattva-cintā-</i> <i>maṇi, is,</i> m. title of a commentary on Bhāskara's Sūrya-Siddhānta. <i>—Gaṇita-mālatī,</i> f. or <i>gaṇita-</i> <i>sāra, as,</i> m. titles of two mathematical works. <i>—Gaṇita-śāstra, am,</i> n. the book or science of computation; see above. <i>—Gaṇitādhyāya (°ta-</i> <i>adh°), as,</i> m. title of a chapter in the BrahmaSiddhānta. <i>—Gaṇitāmṛta-sāgarī (°ta-am°),</i> f. title of a commentary on the Līlāvatī."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "गणित",
+            "eid": "3998",
+            "pagenum": 1,
+            "content": "<i>Gaṇita</i>¦ — the science of computation (Algebra, Geometry and Arithmetic). <div n='P'/>Vā. 70. 15."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गणित",
+            "eid": "34269",
+            "pagenum": 2,
+            "content": "गणित¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> गणय्. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>das Rechnen, Berechnung, Rechenkunst</i>. <div n='2'>— b〉 <i>Summe</i>. <div n='2'>— c〉 <i>die Summe einer Progression</i>. <div n='2'>— d〉 <i>der astronomische (astrologische) Theil eines</i> <is>Jyotiḥśāstra</is> <i>mit Ausschluss der Nativitätslehre</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गणित",
+            "eid": "21522",
+            "pagenum": 2,
+            "content": "गणित¦ s. u. गणय्; गणितकौमुदी <lex>f.</lex> Titel eines Commentars zur <is>Līlāvatī</is> <ls>COLEBR. Misc. Ess. II, 421. 454.</ls> — गणिततत्त्वचिन्तामणि <lex>m.</lex> Titel eines Comm. zu <is>Bhāskara's</is> <is>Sūryasiddhānta</is> ebend. <ls n='COLEBR. Misc. Ess. II,'>395</ls> u.s.w. (vgl. <ls>Verz. d. B. H. No. 843</ls>). — गणितमालती <lex>f.</lex> Titel eines mathem. Werkes ebend. <ls n='COLEBR. Misc. Ess. II,'>451.</ls> — गणितसार <lex>m.</lex> desgl. ebend. — गणिताध्याय <lex>m.</lex> Titel eines Kapitels im <is>Brahmasiddhānta</is> ebend. <ls n='COLEBR. Misc. Ess. II,'>419.</ls> गणितामृतसागरी <lex>f.</lex> Titel eines Commentars zur <is>Līlāvatī</is> <ls>Verz. d. B. H. No. 831.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "गणित",
+            "eid": "16736",
+            "pagenum": 7,
+            "content": "गणित, °चन्द्रिका, °भास्कर, °संग्रह und गणितामृत¦ 2."
+        }
     ]
 }

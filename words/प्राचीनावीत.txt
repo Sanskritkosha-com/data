@@ -28,5 +28,35 @@
             "pagenum": 487,
             "content": "prAcIna-AvIta¦ <i>n.</i> the sacred cord worn over the right shoulder and under the left arm."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्राचीनावीत",
+            "eid": "139452",
+            "pagenum": 705,
+            "content": "prAcInA<srs/>vIta/ ¦ <lex>mfn.</lex> = °nA<srs/>vIti/n, <ls>Gal.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "प्राचीनावीत",
+            "eid": "139453",
+            "pagenum": 705,
+            "content": "prAcInA<srs/>vIta/ ¦ <lex>n.</lex> the wearing of the sacred cord over the right shoulder (as at a <s1 slp1='SrAdDa'>Śrāddha</s1>), <ls>TS.</ls>; <ls>Lāṭy.</ls>; <ls>ŚāṅkhGṛ.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्राचीनावीत",
+            "eid": "74008",
+            "pagenum": 4,
+            "content": "प्राचीनावीत/¦ <div n='1'>— 1〉 *<lex>Adj.</lex> = प्राचीनावीति/न् <ls>GAL.</ls> <div n='1'>— 2〉 <lex>n.</lex> <i>das Tragen der heiligen Schnur über die rechte Schulter</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्राचीनावीत",
+            "eid": "50484",
+            "pagenum": 4,
+            "content": "प्राचीनावीत/¦ (प्रा° + आवीत) <lex>n.</lex> <i>das Tragen der heiligen Schnur von der rechten Schulter nach der linken Seite</i> <ls>AK. 2, 7, 49.</ls> <ls>H. 845.</ls> <ls>HALĀY. 2, 252.</ls> <ls>TS. 2, 5, 11, 1.</ls> <ls>LĀṬY. 5, 2, 1.</ls> <ls>ŚĀṄKH. GṚHY. 2, 14. 4, 10.</ls>"
+        }
     ]
 }

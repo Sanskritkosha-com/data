@@ -39,5 +39,35 @@
             "pagenum": 191,
             "content": "<b>púṇya-gandha,</b>¦ <i><ab>a.</ab></i> of good <i>or</i> pleasant smell."
         }
+    ],
+    "MW": [
+        {
+            "word": "पुण्यगन्ध",
+            "eid": "125367",
+            "pagenum": 632,
+            "content": "पु/ण्य—गन्ध ¦ (पु/°,) <lex>mfn.</lex> sweet-scented, fragrant, <ls>RV.</ls>; <ls>MBh.</ls>; <ls>Ragh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पुण्यगन्ध",
+            "eid": "125367.1",
+            "pagenum": 632,
+            "content": "पु/ण्य—गन्ध ¦ <lex>m.</lex> <bot>Michelia Champaka</bot>, <ls>L.</ls> =<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पुण्यगन्ध",
+            "eid": "67618",
+            "pagenum": 4,
+            "content": "पु/ण्यगन्ध¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>wohlriechend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i><bot>Michelia Champaca</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पुण्यगन्ध",
+            "eid": "45726",
+            "pagenum": 4,
+            "content": "पु/ण्यगन्ध¦ (पु° + ग°) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> आ <i>wohlriechend</i>: स्त्रिय^ः <ls>ṚV. 7, 55, 8.</ls> Einschiebung nach <ls n='ṚV. 7,'>9, 67.</ls> <ls>INDR. 2, 23.</ls> <ls>RAGH. 12, 27.</ls> <div n='1'>— 2) <i>Michelia Champaka Lin.</i> (s. चम्पक) <ls>TRIK. 2, 4, 17.</ls>"
+        }
     ]
 }

@@ -45,5 +45,41 @@
             "pagenum": 351,
             "content": "dvizwa¦ <i>(II) n.</i> Copper."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विष्ट",
+            "eid": "98975",
+            "pagenum": 507,
+            "content": "<hom>1.</hom> द्विष्ट ¦ <lex>mfn.</lex> hated, disliked, odious, hostile, <ls>Yājñ.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विष्ट",
+            "eid": "99003",
+            "pagenum": 507,
+            "content": "<hom>2.</hom> द्विष्ट ¦ <lex>n.</lex> (for द्व्य्-अष्ट) copper, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "द्विष्ट",
+            "eid": "23109",
+            "pagenum": 445,
+            "content": "1. <i>dviṣṭa, as, ā, am</i>¦ (for 2. see below), hated, disliked, odious; hostile."
+        },
+        {
+            "word": "द्विष्ट",
+            "eid": "23120",
+            "pagenum": 445,
+            "content": "द्विष्ट 2¦. <i>dviṣṭa, am,</i> n. (for <i>dvy-aṣṭa</i>), copper. (For 1. <i>dviṣṭa</i> see above.)"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विष्ट",
+            "eid": "35864",
+            "pagenum": 3,
+            "content": "द्विष्ट¦ <div n='1'> 1) partic. s. u. 1. द्विष् . <div n='1'>— 2) <lex>n.</lex> = द्व्यष्ट <i>Kupfer</i> <ls>SĀRAS.</ls> zu <ls>AK. 2, 9, 98.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

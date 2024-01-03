@@ -82,5 +82,119 @@
             "pagenum": 255,
             "content": "<b>upadhí,</b>¦ <ab>m.</ab>, <i>der Theil des Rades zwischen Nabe und Radkranz</i> [von dhā mit úpa]. <div n='TS'>-ī́ [<ab>d.</ab>] {230,4}."
         }
+    ],
+    "MD": [
+        {
+            "word": "उपधि",
+            "eid": "4706",
+            "pagenum": 53,
+            "content": "उपधि¦ upa-dhí, <lex>m.</lex> addition; fraud; part 🞄of wheel between nave and felly."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उपधि",
+            "eid": "34818",
+            "pagenum": 199,
+            "content": "उप-धि/ <hom>a</hom> ¦ इस्, <lex>m.</lex> the act of putting to, adding, addition, <ls>Lāṭy.</ls><info lex='m'/>"
+        },
+        {
+            "word": "उपधि",
+            "eid": "34819",
+            "pagenum": 199,
+            "content": "¦ the part of the wheel between the nave and the circumference, <ls>RV. ii, 39, 4</ls>; <ls>AV. vi, 70, 3</ls>; <ls>Kāṭh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "उपधि",
+            "eid": "34820",
+            "pagenum": 199,
+            "content": "¦ fraud, circumvention, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Yājñ.</ls>; <ls>Kir.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "उपधि",
+            "eid": "34821",
+            "pagenum": 199,
+            "content": "¦ condition<info lex='inh'/>"
+        },
+        {
+            "word": "उपधि",
+            "eid": "34822",
+            "pagenum": 199,
+            "content": "¦ peculiarity, attribute (<ls>Buddh.</ls>; See upA<srs/>-Di)<info lex='inh'/>"
+        },
+        {
+            "word": "उपधि",
+            "eid": "34822.1",
+            "pagenum": 1322,
+            "content": "¦ one of the requisites for the equipment of a <s1 slp1='jEna'>Jaina</s1> ascetic (said to be 6, <ab>viz.</ab> 3 garments, 1 jar, 1 broom, and 1 screen for the mouth), <ls>Śīl.</ls><info n='sup'/>"
+        },
+        {
+            "word": "उपधि",
+            "eid": "34823",
+            "pagenum": 199,
+            "content": "¦ support, <ls>MW.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "उपधि",
+            "eid": "34835",
+            "pagenum": 200,
+            "content": "उप-धि/ <hom>b</hom> ¦ See <pcol>p. 199, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उपधि",
+            "eid": "11485",
+            "pagenum": 163,
+            "content": "<i>Upa-dhi, is,</i>¦ m. the part of a wheel between the nave and the circumference; fraud, circumvention; fear, terror; foundation, (with Buddhists) substratum (?)."
+        },
+        {
+            "word": "उपधि",
+            "eid": "11494",
+            "pagenum": 163,
+            "content": "उपधि¦ <i>upa-dhi.</i> See <i>upa-dhā</i> above."
+        },
+        {
+            "word": "उपधि",
+            "eid": "54872",
+            "pagenum": 1183,
+            "content": "<i>Upa-dhi;</i>¦ add — support."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उपधि",
+            "eid": "19652",
+            "pagenum": 1,
+            "content": "उपधि/¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Hinzufügung</i> <ls>LĀṬY. 7,9,8</ls>. <div n='1'>— 2〉 <i>Betrug, Schelmerei</i>. <div n='1'>— 3〉 <i>der Theil des Rades zwischen Nabe und Radkranz</i>. <div n='1'>— 4〉 = उपाधि <i>Bedingung, Attribut</i> (<ab>buddh.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उपधि",
+            "eid": "11831",
+            "pagenum": 1,
+            "content": "उपधि/¦ (von धा mit उप) <lex>m.</lex> <div n='1'> 1) <i>der Theil des Rades, welcher zwischen der Nabe und dem äussern Umkreis liegt</i>, <ls>ṚV. 2, 39, 4.</ls> <ls>AV. 6, 70, 3.</ls> <ls>P. 5, 1, 13.</ls> <i>Rad</i> <ls>H. an. 3, 343.</ls> <ls>MED. dh. 30.</ls> Vgl. उद्धि, प्रधि . <div n='1'>— 2) <i>Betrug, Schelmerei</i> <ls>AK. 1, 1, 7, 30.</ls> <ls>H. 378.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>M. 8, 165.</ls> <ls>YĀJÑ. 2, 31. 89.</ls> <ls>MBH. 1, 1316.</ls> <ls n='MBH. 1,'>1531.</ls> <ls>R. 5, 69, 12.</ls> निरुपधिजीवनता <ls>DHŪRTAS. 88, 15.</ls> विदधति सोपधिसंधिदूषणानि <ls>KIRĀT. 1, 45.</ls> <div n='1'>— 3) buddh. <i>Unterlage, Substrat</i> (?): निरुपधिशेषे (अनुप°) निर्वाणधातौ, सोपधिशेष <ls>BURN. Intr. 590. fgg.</ls> <div n='v'>— Vgl. उपधा, उपधान, उपाधि ."
+        },
+        {
+            "word": "उपधि",
+            "eid": "68217",
+            "pagenum": 5,
+            "content": "उपधि¦ <div n='1'> 1) du. <ls>KĀṬH. 25, 8.</ls> <div n='1'>— 2) फलान्युपधियुक्तानि य एवं नः (so die <ls>ed. Bomb.</ls>) प्रयच्छति <ls>MBH. 13, 4448.</ls> — स्वोपधि <ls>PADMA-P. 16, 101</ls> giebt <ls>WOLLHEIM</ls> und nach ihm <ls>BENFEY</ls> durch <i>Fixstern</i> wieder; die Lesart ist, wie schon das Versmaass zeigt, falsch."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "उपधि",
+            "eid": "4227",
+            "pagenum": 3,
+            "content": "उपधि¦ 3〉 <i>ein Bestandtheil der Ausrüstung eines</i> [Page3-257-b] <is>Jaina</is>-<i>Mönchs</i> (3 Kleider, 1 Napf, 1 Besen und 1 Mundfilter) <ls>ŚĪLĀṄKA 1,367</ls>."
+        },
+        {
+            "word": "उपधि",
+            "eid": "15049",
+            "pagenum": 7,
+            "content": "उपधि¦ I. 3."
+        }
     ]
 }

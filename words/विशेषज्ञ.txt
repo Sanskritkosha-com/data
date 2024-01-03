@@ -23,5 +23,35 @@
             "pagenum": 416,
             "content": "विशेषज्ञ¦ urteilschfähig (unterschiedskundig)."
         }
+    ],
+    "MW": [
+        {
+            "word": "विशेषज्ञ",
+            "eid": "200626",
+            "pagenum": 990,
+            "content": "वि-शेष—ज्ञ ¦ <lex>mfn.</lex> knowing distinctions, judicious, <ls>Kāv.</ls>; <ls>Kathās.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विशेषज्ञ",
+            "eid": "200627",
+            "pagenum": 990,
+            "content": "¦ (<ab>ifc.</ab>) knowing various kinds of <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विशेषज्ञ",
+            "eid": "104645",
+            "pagenum": 6,
+            "content": "विशेषज्ञ¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>den Unterschied der Dinge kennend,</i> so <ab>v. a.</ab> <i>Urtheilskraft —, Einsicht besitzend</i>. <div n='1'>— 2〉 am Ende eines <ab>Comp.</ab> <i>sich auf mannichfache — verstehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विशेषज्ञ",
+            "eid": "93318",
+            "pagenum": 6,
+            "content": "विशेषज्ञ¦ <lex>adj.</lex> <i>den Unterschied der Dinge kennend</i> so v. a. <i>Urtheilskraft —, Einsicht besitzend</i> <ls>Spr. (II) 105</ls> (Gegens. अज्ञ) . <ls n='Spr.'>(I) 2985.</ls> <ls>KATHĀS. 25, 127.</ls> <ls>HIT. 129, 9.</ls> वाग्विशेषज्ञ <i>sich auf mannichfache Reden verstehend, redefertig</i> <ls>R. 2, 81, 1.</ls> अविशेषज्ञता <lex>f.</lex> <i>Mangel an Urtheilskraft, Unverstand</i> <ls>KATHĀS. 49, 223.</ls>"
+        }
     ]
 }

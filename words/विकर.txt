@@ -47,5 +47,93 @@
             "pagenum": 657,
             "content": "vikara¦ <i>m.</i> Sickness, disease."
         }
+    ],
+    "MW": [
+        {
+            "word": "विकर",
+            "eid": "192851",
+            "pagenum": 950,
+            "content": "<hom>1.</hom> वि—कर ¦ <lex>mfn.</lex> (for <hom>2.</hom> See वि- √ <hom>1.</hom> कृ) deprived of hands (as a punishment), <ls>Viṣṇ.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विकर",
+            "eid": "193851",
+            "pagenum": 953,
+            "content": "वि-कर <hom>1a</hom> ¦ वि-करण. See <ab>p.</ab> 950."
+        },
+        {
+            "word": "विकर",
+            "eid": "193852",
+            "pagenum": 953,
+            "content": "वि-कर <hom>2a</hom> ¦ &c. See वि- √ <hom>1.</hom> कृ."
+        },
+        {
+            "word": "विकर",
+            "eid": "193952",
+            "pagenum": 954,
+            "content": "<hom>2.</hom> वि-कर ¦ <lex>m.</lex> (for <hom>1.</hom> See <pcol>p. 950, col. 1</pcol>; for <hom>3.</hom> See वि-√ कॄ) disease, sickness, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विकर",
+            "eid": "193953",
+            "pagenum": 954,
+            "content": "¦ a <ab>partic.</ab> mode of fighting, <ls>Hariv.</ls> (<ab>v.l.</ab> विष्कर). <info lex='inh'/>"
+        },
+        {
+            "word": "विकर",
+            "eid": "194090",
+            "pagenum": 955,
+            "content": "<hom>3.</hom> वि-कर ¦ <lex>m.</lex> (for <hom>1.</hom> See <pcol>p. 950, col. 1</pcol>; for <hom>2.</hom> <pcol>p. 954, col. 2</pcol>) an earth-pit, <ls>TS.</ls>, <ab>Sch.</ab><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विकर",
+            "eid": "42152",
+            "pagenum": 909,
+            "content": "विकर¦ <i>vi-kara,</i> &c. See under <i>vi-kṛ,</i> p. 910, col. 1."
+        },
+        {
+            "word": "विकर",
+            "eid": "42204",
+            "pagenum": 910,
+            "content": "<i>Vi-kara, as,</i>¦ m. sickness, disease, loss of health."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विकर",
+            "eid": "101624",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विकर¦ <lex>m.</lex> <div n='1'>— 1〉 *<i>Krankheit</i>. <div n='1'>— 2〉 <i>eine <ab>best.</ab> Art zu fechten</i>. <ab>v. l.</ab> विष्कर."
+        },
+        {
+            "word": "विकर",
+            "eid": "101625",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> विकर¦ <lex>Adj.</lex> <i>der Hände beraubt</i> (als Strafe) <ls>VIṢṆUS. 5,81</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विकर",
+            "eid": "90801",
+            "pagenum": 6,
+            "content": "विकर¦ (von 1. कर् mit वि) <is>gaṇa</is> उत्सादि zu <ls>P. 4, 1, 86.</ls> संकाशादि zu <ls n='P. 4,'>2, 80.</ls> <lex>m.</lex> <div n='1'> 1) <i>Krankheit</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) Bez. <i>einer best. Fechtart</i> <ls>HARIV. 15978.</ls> विष्कर die neuere Ausg. <div n='v'>— Vgl. वैकर, वैकर्य ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "विकर",
+            "eid": "9366",
+            "pagenum": 6,
+            "content": "*विकर¦ <lex>m.</lex> = भूविवर <ls><ab>Comm.</ab> zu TS. 7,1,12,1</ls>."
+        },
+        {
+            "word": "विकर",
+            "eid": "21069",
+            "pagenum": 7,
+            "content": "विकर¦ VI. 6."
+        }
     ]
 }

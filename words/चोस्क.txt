@@ -23,5 +23,37 @@
             "pagenum": 76,
             "content": "<i>coska</i>¦ (EI 4), a horse."
         }
+    ],
+    "MW": [
+        {
+            "word": "चोस्क",
+            "eid": "75161",
+            "pagenum": 403,
+            "content": "चोस्क ¦ <lex>m.</lex> an <s1 slp1='indu'>Indu</s1>s horse, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चोस्क",
+            "eid": "18939",
+            "pagenum": 330,
+            "content": "चोस्क¦ <i>coska, as,</i> m. a horse peculiar to the Indus district; a horse of a particular and good breed."
+        }
+    ],
+    "PW": [
+        {
+            "word": "चोस्क",
+            "eid": "40754",
+            "pagenum": 2,
+            "content": "*चोस्क¦ <lex>m.</lex> <i>ein Pferd aus dem Indusgebiete</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चोस्क",
+            "eid": "25991",
+            "pagenum": 2,
+            "content": "चोस्क¦ <lex>m.</lex> <i>ein Pferd aus dem Indusgebiete</i> <ls>TRIK. 2, 8, 43.</ls>"
+        }
     ]
 }

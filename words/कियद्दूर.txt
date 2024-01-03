@@ -23,5 +23,27 @@
             "pagenum": 141,
             "content": "<b>kiyad-dūra,</b>¦ <i><ab>n.</ab></i> small distance; <b>-re,</b> <i>as</i> <i><ab>adv.</ab></i> [<ls n='wg,1116'>1116]</ls>, a little way. [<b>kiyant.</b>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "कियद्दूर",
+            "eid": "5909",
+            "pagenum": 68,
+            "content": "कियद्दूर¦ kiyad-dūra, <lex>n.</lex> some distance: <b>-m,</b> 🞄<ab>lc.</ab>, <ab>°—</ab>, not far, a short way."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कियद्दूर",
+            "eid": "50479",
+            "pagenum": 283,
+            "content": "कियद्—दूर ¦ <lex>n.</lex> ‘what distance?’, see -दूरे above <ab>s.v.</ab> कि/यत्<info lex='n'/>"
+        },
+        {
+            "word": "कियद्दूर",
+            "eid": "50480",
+            "pagenum": 283,
+            "content": "¦ ‘some small distance’, (°रे <lex type='phw'>ind.</lex>, अम् <lex type='phw'>ind.</lex>, or in <ab>comp.</ab>) <lex type='hwinfo'>ind.</lex> not far, a little way, <ls>Hit.</ls><info phwchild='50480.1'/><info phwchild='50480.2'/><info lex='inh'/>"
+        }
     ]
 }

@@ -58,5 +58,67 @@
             "pagenum": 382,
             "content": "niyAmaka¦ <i>(II) m.</i> 1. A charioteer; 2. a boatman, a sailor."
         }
+    ],
+    "MW": [
+        {
+            "word": "नियामक",
+            "eid": "109176",
+            "pagenum": 552,
+            "content": "नि-°यामक ¦ <lex>mf(इका)n.</lex> restraining, checking, subduing, controlling, governing, <ls>MBh.</ls>; <ls>Kām.</ls>; <ls>Sarvad.</ls><info lex='m:f#ikA:n'/>"
+        },
+        {
+            "word": "नियामक",
+            "eid": "109177",
+            "pagenum": 552,
+            "content": "¦ restrictive, limiting, defining (-ता <lex type='phw'>f.</lex> -त्व <lex type='phw'>n.</lex>), <ls>BhP.</ls>; <ls>Sarvad.</ls><info phwchild='109180.1'/><info phwchild='109180.2'/><info lex='inh'/>"
+        },
+        {
+            "word": "नियामक",
+            "eid": "109178",
+            "pagenum": 552,
+            "content": "नि-°यामक ¦ <lex>m.</lex> a guide or ruler, <ls>Sarvad.</ls><info lex='m'/>"
+        },
+        {
+            "word": "नियामक",
+            "eid": "109179",
+            "pagenum": 552,
+            "content": "¦ a charioteer, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नियामक",
+            "eid": "109180",
+            "pagenum": 552,
+            "content": "¦ a sailor or boatman, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नियामक",
+            "eid": "24878",
+            "pagenum": 491,
+            "content": "<i>Ni-yāmaka, as, ā, am,</i>¦ restraining, checking, controlling, subduing, suppressing, overpowering; restrictive, limiting; defining more closely; guiding, governing, who or what regulates or restrains; a restrainer, ruler, master; (<i>as</i>), m. a charioteer; a boatman, a sailor, but variously applied to one who rows or steers, a pilot, a helmsman; [cf. <i>nir-yāma.</i>] <i>—Ni-</i> <i>yāmaka-tā,</i> f. controllership, power of restraining, restraint; exact definition, explanation."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नियामक",
+            "eid": "58816",
+            "pagenum": 3,
+            "content": "नियामक¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> °मिक) <div n='2'>— a〉 <i>zurückhaltend, im Zaume haltend, lenkend, bezwingend</i>. <div n='2'>— b〉 <i>beschränkend, feststellend, genauer bestimmend, entscheidend</i> <ls>HEMĀDRI 1,662,9</ls>. <ls>ŚAṂK. zu TAITT. UP. 62,10</ls>. नियामकाभावात् <i>in Ermangelung eines entscheidenden Moments</i> <ls>DEŚĪN. 1,47</ls>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> und °त्व <lex>n.</lex> <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Lenker</i>. <div n='2'>— b〉 *<i>Wagenlenker</i>. <div n='2'>— c〉 *<i>Schiffer, Steuermann</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नियामक",
+            "eid": "39104",
+            "pagenum": 4,
+            "content": "नियामक¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>zurückhaltend, im Zaume haltend, bezwingend</i>: तस्य तथा कुर्वतो यो नियामकः <ls>KULL.</ls> zu <ls>M. 7, 207.</ls> (पयोधराः) संवर्ताग्निनियामकाः <ls>MBH. 3, 15812.</ls> लोकप्रसिद्धमेवैतद्वारि वह्नेर्नियामकम् <ls>KĀM. NĪTIS. 11, 49.</ls> <div n='2'>— b) <i>beschränkend, feststellend, genauer bestimmend</i> <ls>VOP. 26, 219.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 58.</ls> Davon nom. abstr. °ता ebend. <ls>BHĀG. P. 5, 7, 6.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Wagenlenker</i> <ls>H. an. 4, 17.</ls> <ls>MED. k. 194.</ls> <div n='2'>— b) <i>Schiffer, Steuermann</i> <ls>AK. 1, 2, 3, 12.</ls> <ls>TRIK. 3, 3, 28</ls> (wo सभ्यो st. सभ्ये zu lesen ist). <ls>H. 876.</ls> <ls>H. an.</ls> <ls>MED.</ls>; vgl. निर्याम ."
+        },
+        {
+            "word": "नियामक",
+            "eid": "77172",
+            "pagenum": 5,
+            "content": "नियामक¦ <div n='1'> 1) <div n='2'> a) <ls>BHĀG. P. 10, 78, 31.</ls> जीव° <i>die individuelle Seele lenkend</i> <ls>SARVADARŚANAS. 54, 16. 55, 2.</ls> <div n='2'>— b) <ls>SARVADARŚANAS. 7, 9. 20, 8.</ls> आत्मेच्छैव नियामिका <i>der blosse eigene Wunsch ist bestimmend</i> <ls>MIT. I,2,a,10.</ls> <div n='2'>— c) <i>Lenker</i> <ls>SARVADARŚANAS. 46, 1.</ls>"
+        }
     ]
 }

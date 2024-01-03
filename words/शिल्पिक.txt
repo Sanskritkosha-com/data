@@ -31,5 +31,49 @@
             "pagenum": 202,
             "content": "<b>Śilpika</b>¦ = Śiva (1000 names<sup>1</sup>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "शिल्पिक",
+            "eid": "217487",
+            "pagenum": 1074,
+            "content": "शिल्पिक ¦ <lex>mfn.</lex> skilled in art (applied to <s1 slp1='Siva'>Śiva</s1>), <ls>MBh.</ls> (<ab>accord.</ab> to <ls>Nīlak.</ls> = little versed in art)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "शिल्पिक",
+            "eid": "217488",
+            "pagenum": 1074,
+            "content": "शिल्पिक ¦ <lex>n.</lex> any handicraft or mechanical art, <ls>W.</ls><info lex='n'/>"
+        },
+        {
+            "word": "शिल्पिक",
+            "eid": "217489",
+            "pagenum": 1074,
+            "content": "¦ a kind of drama (= शिल्पक), <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शिल्पिक",
+            "eid": "46740",
+            "pagenum": 1007,
+            "content": "<i>Śilpika, as, ā</i>¦ or <i>ī, am,</i> manual, mechanical; (<i>am</i>), n. any handicraft or mechanical art; a sort of drama, <i>= śilpaka; (ā),</i> f. <i>= śilpinī,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शिल्पिक",
+            "eid": "112546",
+            "pagenum": 6,
+            "content": "शिल्पिक¦ <lex>Adj.</lex> <i>sich auf die Künste verstehend</i> (<is>Śiva</is>). Nach <ls>NĪLAK.</ls> <i>sich wenig auf Künste verstehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शिल्पिक",
+            "eid": "99606",
+            "pagenum": 7,
+            "content": "शिल्पिक¦ (von 2. शिल्प) <lex>adj.</lex> <i>sich auf die Künste verstehend</i>: <is>Śiva</is> <ls>MBH. 12, 10422.</ls> nach <ls>NĪLAK.</ls> = अल्पशिल्पिन् ."
+        }
     ]
 }

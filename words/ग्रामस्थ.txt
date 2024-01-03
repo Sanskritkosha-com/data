@@ -7,5 +7,33 @@
             "pagenum": 255,
             "content": "grAma-sTa¦ <i>a.</i> 1. a villager; 2. a co-villager."
         }
+    ],
+    "MW": [
+        {
+            "word": "ग्रामस्थ",
+            "eid": "68943",
+            "pagenum": 373,
+            "content": "ग्राम—स्थ ¦ <lex>mfn.</lex> = -सद्, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ग्रामस्थ",
+            "eid": "68944",
+            "pagenum": 373,
+            "content": "¦ belonging to a village, rustic, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ग्रामस्थ",
+            "eid": "68945",
+            "pagenum": 373,
+            "content": "ग्राम—स्थ ¦ <lex>m.</lex> a village, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्रामस्थ",
+            "eid": "37513",
+            "pagenum": 2,
+            "content": "*ग्रामस्थ¦ <lex>Adj.</lex> <i>an der Spitze stehend</i>."
+        }
     ]
 }

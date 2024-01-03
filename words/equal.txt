@@ -27,5 +27,25 @@
             "pagenum": 245,
             "content": "<b>EQUAL</b>¦ (v. t.): <div n='I'>I To be e. to: expr. by adj., <div n='xe'><i>but does not e. me in penances:</i></div> <div n='xs'>न तु तपसा मे समः,</div> Vi. </div><div n='I'>II To make e. to: </div><div n='1'>(1) expr. by adj.;</div> <div n='1'>(2) समीकरोति <div n='xe'><i>or</i></div> <div n='xs'>समानीकरोति।</div></div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "equal",
+            "eid": "9900",
+            "pagenum": 234,
+            "content": "EQUAL¦, <i>a.</i> समः -मा -मं, समानः -ना -नं, तुल्यः -ल्या -ल्यं, समीयः -या -यं, सदृशः -शी -शं, ईदृशः -शी -शं. — (Not inferior) अनवरः -रा -रं, अनवमः -मा -मं. — (Even, uniform) समानः -ना -नं, समस्थः -स्था -स्थं, निर्विकारः -रा -रं, अञ्जसः -सा -सं; ‘of equal extent or size,’ सम्मितः -ता -तं, सममात्रः -त्रा -त्रं, तुल्यपरिमाणः -णा -णं; ‘equal to all,’ सर्व्वसमः -मा -मं; ‘of equal strength,’ तुल्यबलः -ला -लं; ‘equal in glory,’ समानतेजाः -जाः -जः (स्); ‘this is equal to a sixteenth part of that,’ एतत् तस्य षोडशांशेन समं."
+        },
+        {
+            "word": "equal",
+            "eid": "9901",
+            "pagenum": 234,
+            "content": "EQUAL¦, <i>s.</i> (Of the same age) समानवयस्कः, समवयस्कः, सवयाः <i>m.</i> (स्), तुल्यवयाः <i>m.</i> (स्), समानजन्मा <i>m.</i> (न्), वयस्यः. — (Of the same rank) समानपदस्थः, तुल्यपदस्थः."
+        },
+        {
+            "word": "equal",
+            "eid": "9902",
+            "pagenum": 234,
+            "content": "<i>To</i> EQUAL¦, <i>v. a.</i> समीकृ, समानीकृ, तुल्पीकृ, समान (nom. समानयति -यितुं), समानं -नां -नं कृ, तुल्यं -ल्यां -ल्यं कृ."
+        }
     ]
 }

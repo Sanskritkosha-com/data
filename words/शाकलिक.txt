@@ -15,5 +15,61 @@
             "pagenum": 642,
             "content": "शाकलिक¦ <i>śākalika</i> <ab>a.</ab> <i>(śakala)</i> qui a une part, un morceau."
         }
+    ],
+    "MW": [
+        {
+            "word": "शाकलिक",
+            "eid": "214812",
+            "pagenum": 1062,
+            "content": "शाकलिक ¦ <lex>mf(ई)n.</lex> dyed with the substance called <s1 slp1='Sakala'>Śakala</s1>, <ls>Pāṇ. iv, 2, 2</ls>, <ab>Vārtt.</ab> 1<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "शाकलिक",
+            "eid": "214813",
+            "pagenum": 1062,
+            "content": "¦ having a piece or portion, fragmentary, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शाकलिक",
+            "eid": "214814",
+            "pagenum": 1062,
+            "content": "¦ relating to the town <s1 slp1='SAkala'>Śākala</s1>, <ls>ib.</ls> <ls n='Pāṇ.'>iv, 2, 117</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शाकलिक",
+            "eid": "46354",
+            "pagenum": 998,
+            "content": "<i>Śākalika, as, ī, am,</i>¦ belonging or relating to Śakala, belonging to a piece or part, having a piece or portion, fragmentary."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शाकलिक",
+            "eid": "111216",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> *शाकलिक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>mit dem</i> <is>Śakala</is> <i>genannten [Page6-218-c] Stoffe gefärbt</i>."
+        },
+        {
+            "word": "शाकलिक",
+            "eid": "111217",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *शाकलिक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>zum Dorf</i> <is>Śākala</is> <i>in Beziehung stehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शाकलिक",
+            "eid": "98561",
+            "pagenum": 7,
+            "content": "शाकलिक/¦ <lex>adj.</lex> (f. ई) <i>mit dem</i> <is>Śākala</is> <i>genannten Stoffe gefärbt</i> <ls>P. 4, 2, 2</ls>, <is>Vārtt</is>. 1."
+        },
+        {
+            "word": "शाकलिक",
+            "eid": "98562",
+            "pagenum": 7,
+            "content": "शा/कलिक¦ <lex>adj.</lex> (f. आ und ई) <i>zur Stadt</i> <is>Śākala</is> <i>in Beziehung stehend u.s.w.</i> <ls>P. 4, 2, 117</ls>, Schol."
+        }
     ]
 }

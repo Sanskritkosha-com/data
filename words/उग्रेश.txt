@@ -7,5 +7,35 @@
             "pagenum": 688,
             "content": "<b>Ugreśa</b>¦ = Śiva: III, 8836."
         }
+    ],
+    "MW": [
+        {
+            "word": "उग्रेश",
+            "eid": "30203",
+            "pagenum": 172,
+            "content": "ugre<srs/>Sa ¦ <lex>m.</lex> the mighty or terrible lord, <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1><info lex='m'/>"
+        },
+        {
+            "word": "उग्रेश",
+            "eid": "30204",
+            "pagenum": 172,
+            "content": "¦ <ab>N.</ab> of a sanctuary built by <s1 slp1='ugra'>Ugra</s1>, <ls>Rājat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उग्रेश",
+            "eid": "17725",
+            "pagenum": 1,
+            "content": "उग्रेश¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der gewaltige Herr,</i> <ab>Bein.</ab> <is>Śiva</is>ʼs <ls>MBH. 3,106,12</ls>. <div n='1'>— 2〉 <ab>N. pr.</ab> eine von einem <is>Ugra</is> erbauten Heiligthums."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उग्रेश",
+            "eid": "10651",
+            "pagenum": 1,
+            "content": "उग्रेश¦ (उग्र + ईश) <lex>m.</lex> <i>der gewaltige Gebieter</i>, ein Bein. <is>Śiva's</is> <ls>MBH. 3, 8836.</ls> N. eines von <is>Ugra</is> erbauten Heiligthums <ls>RĀJA-TAR. 1, 350.</ls>"
+        }
     ]
 }

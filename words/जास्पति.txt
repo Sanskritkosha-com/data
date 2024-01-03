@@ -37,5 +37,57 @@
             "pagenum": 485,
             "content": "<b>jā́spáti,</b>¦ <ab>m.</ab>, Familie [jā́s <ab>Nom.</ab> von jā́] und ihr Herr [páti], <i>Haus und Herr</i>. <div n='TS'>-is {554,6}."
         }
+    ],
+    "MD": [
+        {
+            "word": "जास्पति",
+            "eid": "8039",
+            "pagenum": 101,
+            "content": "जास्पति¦ jā́-s-pati, <lex>m.</lex> paterfamilias."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जास्पति",
+            "eid": "78413",
+            "pagenum": 416,
+            "content": "जा/स्-पति <hom>a</hom> ¦ <lex>m.</lex> (जास् <ab>gen.</ab> <ab>sg.</ab>) the head of a family, <ls n='RV.'>i, 185, 8</ls><info lex='m'/>"
+        },
+        {
+            "word": "जास्पति",
+            "eid": "78414",
+            "pagenum": 416,
+            "content": "¦ (जा/स्प/ति), <ls n='RV.'>vii, 38, 6.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जास्पति",
+            "eid": "79168",
+            "pagenum": 420,
+            "content": "जा/स्-पति <hom>b</hom>, ¦ त्य/ See जा."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जास्पति",
+            "eid": "19629",
+            "pagenum": 346,
+            "content": "जास्पति¦ <i>jās-pati, jāspatya.</i> See under <i>jā</i> at p. 343."
+        }
+    ],
+    "PW": [
+        {
+            "word": "जास्पति",
+            "eid": "42728",
+            "pagenum": 2,
+            "content": "जा/स्पति¦ <lex>m.</lex> <i>Hausvater, Familienvater</i>. जा/स्प/ति <ls>ṚV. 7,38,6</ls> wohl fehlerhaft."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जास्पति",
+            "eid": "27405",
+            "pagenum": 3,
+            "content": "जा/स्पति¦ (जास्, wohl gen. von जा, + पति) <lex>m.</lex> <i>Hausvater, Familienhaupt</i>: दे\\वान्वा\\ यच्च^कृ\\मा कच्चि\\दाग\\ः सखा^यं वा\\ सद\\मिज्जास्प^तिं वा <ls>ṚV. 1, 185, 8.</ls>"
+        }
     ]
 }

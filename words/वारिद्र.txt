@@ -7,5 +7,29 @@
             "pagenum": 654,
             "content": "vAri-dra¦ <i>m.</i> the <i>chātaka</i> bird."
         }
+    ],
+    "MW": [
+        {
+            "word": "वारिद्र",
+            "eid": "191480",
+            "pagenum": 943,
+            "content": "वारि—द्र ¦ <lex>m.</lex> the <s1 slp1='cAtaka'>Cātaka</s1> bird, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वारिद्र",
+            "eid": "100950",
+            "pagenum": 6,
+            "content": "*वारिद्र¦ <lex>m.</lex> <i>der Vogel</i> <is>Cātaka</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वारिद्र",
+            "eid": "90236",
+            "pagenum": 6,
+            "content": "वारिद्र¦ <lex>m.</lex> <i>der Vogel</i> <is>Cātaka</is> <ls>WILSON</ls> nach <ls>ŚABDĀRTHAK.</ls>"
+        }
     ]
 }

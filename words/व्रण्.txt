@@ -57,5 +57,49 @@
             "pagenum": 702,
             "content": "vraR¦ <i>(II) vt. 10U (pres. व्रणयति-ते)</i> To wound."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्रण्",
+            "eid": "210509",
+            "pagenum": 1042,
+            "content": "<hom>1.</hom> व्रण् ¦ (also written ब्रण्) <ab>cl.</ab> 1. <ab>P.</ab> व्रणति, to sound, <ls>Dhātup. xiii, 8.</ls><info westergaard='vraRa,13.8,01.0297'/><info whitneyroots='vran,167'/><info verb='root' cp='1P'/>"
+        },
+        {
+            "word": "व्रण्",
+            "eid": "210510",
+            "pagenum": 1042,
+            "content": "<hom>2.</hom> व्रण् ¦ (rather <ab>Nom.</ab> <ab>fr.</ab> व्रण below) <ab>cl.</ab> 1. <ab>P.</ab> व्रणति, to wound, <ls>Suśr.</ls>; <div n='vp'/> <ab>cl.</ab> 10. <ab>P.</ab> (<ls>Dhātup. xxxv, 82</ls>) व्रणयति <ab>id.</ab>, <ls>Kāv.</ls>; <ls>Kathās.</ls> &c.<info westergaard='vraRa,35.82,10.0321'/><info verb='root' cp='1P,10P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्रण्",
+            "eid": "45879",
+            "pagenum": 984,
+            "content": "व्रण् 1¦. <i>vraṇ</i> (also written <i>braṇ</i>), cl. 1. P. <i>vraṇati, vavrāṇa, vraṇitum,</i> to sound."
+        },
+        {
+            "word": "व्रण्",
+            "eid": "45880",
+            "pagenum": 984,
+            "content": "व्रण् 2¦. <i>vraṇ</i> (perhaps rather to be regarded as a Nom. fr. <i>vraṇa</i> below), cl. 10. P. <i>vraṇayati, -yitum,</i> to wound."
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्रण्",
+            "eid": "109005",
+            "pagenum": 6,
+            "content": "√व्रण्¦, व्रणति (शब्दार्थ). Nur in der Etymologie व्रणतीति व्रणः <ls>SUŚR.</ls> — व्रणय् <ab>s.</ab> <ab>bes.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्रण्",
+            "eid": "96856",
+            "pagenum": 6,
+            "content": "व्रण्¦ (ब्रण्), व्र/णति (शब्दार्थ) <ls>DHĀTUP. 13, 8.</ls> व्रणतीति व्रणः <ls>SUŚR. 2, 2, 1.</ls> — व्रणय् s. bes."
+        }
     ]
 }

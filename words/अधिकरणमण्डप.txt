@@ -23,5 +23,29 @@
             "pagenum": 15,
             "content": "aDikaraRa-maRqapa¦ <i>m.n.</i> the hall of justice."
         }
+    ],
+    "MW": [
+        {
+            "word": "अधिकरणमण्डप",
+            "eid": "4169",
+            "pagenum": 20,
+            "content": "अधि-करण—मण्डप ¦ <lex>m.</lex> <lex type='hw'>n.</lex> the hall of justice.<info lex='m:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अधिकरणमण्डप",
+            "eid": "2779",
+            "pagenum": 1,
+            "content": "अधिकरणमण्डप¦ <i>Gerichtshalle</i> <ls>KĀD. 98</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अधिकरणमण्डप",
+            "eid": "1922",
+            "pagenum": 1,
+            "content": "अधिकरणमण्डप¦ (अधिकरण 5. + मण्डप) <i>Gerichtshalle</i> <ls>MṚCCH. 138, 4.</ls> <ls n='MṚCCH.'>143, 9.</ls>"
+        }
     ]
 }

@@ -15,5 +15,49 @@
             "pagenum": 69,
             "content": "आशि¦ <ab>s.</ab> eating."
         }
+    ],
+    "MW": [
+        {
+            "word": "आशि",
+            "eid": "27358",
+            "pagenum": 157,
+            "content": "<hom>1.</hom> आशि ¦ <lex>f.</lex> eating, <ls>Kauś.</ls><info lex='f'/>"
+        },
+        {
+            "word": "आशि",
+            "eid": "27475",
+            "pagenum": 157,
+            "content": "<hom>2.</hom> आ-√ शि ¦ <ab>P.</ab> (<ab>Impv.</ab> आ/-शिशीहि) <div n='to'/>to sharpen [<ls>Sāy.</ls>] <ab>i.e.</ab> to make zealous, <ls>RV. vii, 16, 6</ls>; <ls n='RV.'>viii, 21, 8</ls> [to bestow, let partake, <ls>BRD.</ls>]; <div n='vp'/> (for <hom>1.</hom> आशि See <hom>2.</hom> आश.)<info verb='pre' cp='P' parse='A+Si'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आशि",
+            "eid": "9463",
+            "pagenum": 132,
+            "content": "1. <i>āśi, is,</i>¦ f. the act of eating food."
+        },
+        {
+            "word": "आशि",
+            "eid": "9504",
+            "pagenum": 133,
+            "content": "आशि 2¦. <i>ā-śi,</i> cl. 3. P., Ved. <i>-śiśeti, -śetum,</i> to incite. (For 1. <i>āśi</i> see under <i>āśa</i> last page.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आशि",
+            "eid": "16114",
+            "pagenum": 1,
+            "content": "आशि¦ <i>das Essen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आशि",
+            "eid": "9570",
+            "pagenum": 1,
+            "content": "आशि¦ (von 2. अश्) <i>das Essen</i>: आशये ऽन्नस्य नो देह्यनमीवस्य शुष्मिणः <ls>KAUŚ. 106.</ls>"
+        }
     ]
 }

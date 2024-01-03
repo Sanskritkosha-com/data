@@ -7,5 +7,45 @@
             "pagenum": 200,
             "content": "<b>√bah,</b>¦ <i>see</i> <b>baṃh.</b>"
         }
+    ],
+    "MD": [
+        {
+            "word": "बह्",
+            "eid": "12772",
+            "pagenum": 193,
+            "content": "बह्¦ BAH, <ab>v.</ab> बंह् BAṂH."
+        }
+    ],
+    "MW": [
+        {
+            "word": "बह्",
+            "eid": "143477",
+            "pagenum": 724,
+            "content": "बह् ¦ short form of √ बंह्, <ab>q.v.</ab>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "बह्",
+            "eid": "34542",
+            "pagenum": 677,
+            "content": "बह्¦ <i>bah</i> (another form of rt. <i>baṃh</i>), to grow, increase, &c. See rt. <i>baṃh.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बह्",
+            "eid": "76161",
+            "pagenum": 4,
+            "content": "बह्¦ <ab>s.</ab> बंह्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बह्",
+            "eid": "52063",
+            "pagenum": 5,
+            "content": "बह्¦ s. बंह् ."
+        }
     ]
 }

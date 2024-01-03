@@ -45,5 +45,87 @@
             "pagenum": 719,
             "content": "Sira¦ <i>(II) m.</i> 1. A bed; 2. a large serpent."
         }
+    ],
+    "MD": [
+        {
+            "word": "शिर",
+            "eid": "17886",
+            "pagenum": 313,
+            "content": "शिर¦ śira, <lex>m.</lex> (= śiras) head (<i>rare</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शिर",
+            "eid": "217094",
+            "pagenum": 1072,
+            "content": "<hom>1.</hom> शिर ¦ <lex>m.</lex> = शिरस्, the head, <ls>MBh.</ls>; <ls>Pañcar.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "शिर",
+            "eid": "217095",
+            "pagenum": 1072,
+            "content": "¦ the root of <bot>Piper Longum</bot>, <ls>L.</ls> (<ab>v.l.</ab> सिर)<info lex='inh'/>"
+        },
+        {
+            "word": "शिर",
+            "eid": "217096",
+            "pagenum": 1072,
+            "content": "¦ <bot>Betula Bhojpatra</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शिर",
+            "eid": "217097",
+            "pagenum": 1072,
+            "content": "¦ a Boa, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शिर",
+            "eid": "217098",
+            "pagenum": 1072,
+            "content": "¦ a bed, couch, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शिर",
+            "eid": "217100",
+            "pagenum": 1072,
+            "content": "<hom>2.</hom> शिर ¦ in <ab>comp.</ab> for शिरस्."
+        },
+        {
+            "word": "शिर",
+            "eid": "217104",
+            "pagenum": 1072,
+            "content": "शिरः ¦ in <ab>comp.</ab> for शिरस्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शिर",
+            "eid": "46711",
+            "pagenum": 1006,
+            "content": "शिर¦ <i>śira.</i> See col. 2."
+        },
+        {
+            "word": "शिर",
+            "eid": "46713",
+            "pagenum": 1006,
+            "content": "<i>Śira, as,</i>¦ m. the head, (according to some <i>am,</i> n.); the root of the pepper plant, (according to some <i>am,</i> n.); a bed, couch (<i>= śayyā</i>); a large serpent. <i>—Śira-ja, as,</i> m. ‘head-produced,’ the hair of the head."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शिर",
+            "eid": "112320",
+            "pagenum": 6,
+            "content": "शिर¦ <lex>m.</lex> <div n='1'>— 1〉 = शिरस् <i>Kopf</i> <ls>Ind. St. 15,230. 264</ls>. <div n='1'>— 2〉 *<i>die Wurzel von <bot>Piper longum</bot></i>. Auch सिर geschrieben. <div n='1'>— 3〉 *<i><bot>Betula Bhojpatra</bot></i>. <div n='1'>— 4〉 *<i>Boa</i>. <div n='1'>— 5〉 *<i>Lager</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शिर",
+            "eid": "99420",
+            "pagenum": 7,
+            "content": "शिर¦ <lex>m.</lex> 1. = शिरस् <i>Kopf</i> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 193.</ls> कुण्डलोद्घृष्टगण्डानां कुमाराणां तरस्विनाम् । निचकर्त शिरान्द्रौणिर्नालेभ्य इव पङ्कजान् ॥ <ls>MBH.</ls> ebend. <ls>PAÑCAR. 3,2,18. 4,3.</ls> <ls>Verz. d. Oxf. H. 103,b,7</ls> (Conj.). <ls>HARIV. 2683</ls> ist °शिरःप्रख्यात् zu lesen; die neuere Ausg. hat eine ganz andere Lesart. Vgl. इन्द्र°, त्रि°, मृग°, वेद° . <div n='1'>— 2) <i>die Wurzel von Piper longum</i> <ls>H. an. 2, 468</ls> (mit स). <ls>MED. r. 92.</ls> Vgl. चटिकाशिर, °शिरस् . <div n='1'>— 3) <i>eine Art Birke</i> (भूर्जपत्त्र) <ls>RATNAM. 256.</ls> <div n='1'>— 4) = शय्या . <div n='1'>— 5) = अजगर <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls>"
+        }
     ]
 }

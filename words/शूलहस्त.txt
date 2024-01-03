@@ -23,5 +23,41 @@
             "pagenum": 449,
             "content": "शूलहस्त¦ शूलपाणि."
         }
+    ],
+    "MW": [
+        {
+            "word": "शूलहस्त",
+            "eid": "220432",
+            "pagenum": 1086,
+            "content": "शूल—हस्त ¦ <lex>mfn.</lex> = -पाणि, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शूलहस्त",
+            "eid": "220433",
+            "pagenum": 1086,
+            "content": "शूल—हस्त ¦ <lex>m.</lex> a man armed with a lance, lancer, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शूलहस्त",
+            "eid": "220434",
+            "pagenum": 1086,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>Pañcar.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शूलहस्त",
+            "eid": "113927",
+            "pagenum": 6,
+            "content": "शूलहस्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>einen Spiess in der Hand haltend</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शूलहस्त",
+            "eid": "100692",
+            "pagenum": 7,
+            "content": "शूलहस्त¦ <lex>m.</lex> <i>einen Spiess in der Hand haltend</i>: रक्षस् <ls>MBH. 1, 7632.</ls> <lex>m.</lex> ein N. <is>Śiva's</is> <ls>PAÑCAR. 1, 7, 66. 73. 76.</ls>"
+        }
     ]
 }

@@ -7,5 +7,37 @@
             "pagenum": 456,
             "content": "गाडवः¦ A cloud."
         }
+    ],
+    "MW": [
+        {
+            "word": "गाडव",
+            "eid": "64704",
+            "pagenum": 353,
+            "content": "गाडव ¦ <lex>m.</lex> (= गवेडु) a cloud, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गाडव",
+            "eid": "17276",
+            "pagenum": 287,
+            "content": "गाडव¦ <i>gāḍava, as,</i> m. a cloud; [cf. <i>gaveḍu.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गाडव",
+            "eid": "35183",
+            "pagenum": 2,
+            "content": "*गाडव¦ <lex>m.</lex> <i>Wolke</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गाडव",
+            "eid": "22185",
+            "pagenum": 2,
+            "content": "गाडव¦ <lex>m.</lex> <i>Wolke</i> <ls>TRIK. 1, 1, 82.</ls> <div n='v'>— Vgl. गवेडु ."
+        }
     ]
 }

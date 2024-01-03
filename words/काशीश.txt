@@ -13,5 +13,41 @@
             "pagenum": 366,
             "content": "<b>Kāśīśa</b><sup>2</sup>¦ (do.) = Divodāsa: XIII, 1954 (<i>D°</i>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "काशीश",
+            "eid": "49859",
+            "pagenum": 280,
+            "content": "kASI<srs/>Sa ¦ <lex>m.</lex> ‘the lord of the <s1 slp1='kASi'>Kāśi</s1>s’, <ab>N.</ab> of <s1 slp1='divo-dAsa'>Divo-dāsa</s1>, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "काशीश",
+            "eid": "49860",
+            "pagenum": 280,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "काशीश",
+            "eid": "49861",
+            "pagenum": 280,
+            "content": "kASI<srs/>Sa ¦ <lex>n.</lex> wrongly spelt for कासीस, <ab>q.v.</ab><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "काशीश",
+            "eid": "27560",
+            "pagenum": 2,
+            "content": "*काशीश¦ <lex>m.</lex> <ab>Bein.</ab> <div n='1'>— 1〉 <is>Śiva</is>ʼs. <div n='1'>— 2〉 <is>Divodāsa</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "काशीश",
+            "eid": "17027",
+            "pagenum": 2,
+            "content": "काशीश¦ <div n='1'> 1) <lex>m.</lex> (काशि oder काशी + ईश) <div n='2'> a) ein Bein. <is>Śiva's</is>. <div n='2'>— b) ein Bein. <is>Divodāsa's</is> <ls>WILS.</ls> <div n='v'>— Vgl. काशीनाथ, काशिपति, काशिराज . <div n='1'>— 2) <lex>n.</lex> <i>Eisenvitriol</i> <ls>H. an. 3, 726.</ls> उपधातुविशेषः । हिराकसी इति भाषा । तद्द्विविधम् । धातुकाशीशम् १ । तद्धरिद्वर्णं लोहितं च । पुष्पकाशीशम् २ । तच्छुक्लवर्णं कृष्णं च । इति रत्नमाला ॥ <ls>ŚKDR.</ls> Vgl. कासीस ."
+        }
     ]
 }

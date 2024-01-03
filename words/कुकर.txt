@@ -28,5 +28,43 @@
             "pagenum": 166,
             "content": "कुकर¦ <i>kukara</i> <ab>a.</ab> <i>(kara)</i> qui a la main débile, <lbinfo n='5'/> mal constituée ou estropiée."
         }
+    ],
+    "MW": [
+        {
+            "word": "कुकर",
+            "eid": "50908",
+            "pagenum": 285,
+            "content": "कु—कर <hom>a</hom> ¦ <lex>mfn.</lex> having a crooked or withered hand, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "कुकर",
+            "eid": "51279",
+            "pagenum": 287,
+            "content": "कु-कर <hom>b</hom> ¦ &c. See <hom>1.</hom> कु."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कुकर",
+            "eid": "14880",
+            "pagenum": 231,
+            "content": "कुकर¦ <i>ku-kara, as, ā, am</i> (see 1. <i>ku</i>) , having a crooked or withered arm; acting wickedly, wicked."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुकर",
+            "eid": "28121",
+            "pagenum": 2,
+            "content": "*कुकर¦ <lex>Adj.</lex> <i>eine verkrüppelte Hand habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुकर",
+            "eid": "17412",
+            "pagenum": 2,
+            "content": "कुकर¦ (1. कु + 1. कर) <lex>adj.</lex> <i>eine verkrüppelte Hand habend</i> <ls>AK. 2, 6, 1, 48.</ls> <ls>H. 453.</ls>"
+        }
     ]
 }

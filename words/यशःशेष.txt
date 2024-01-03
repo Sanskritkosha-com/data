@@ -26,5 +26,35 @@
             "pagenum": 595,
             "content": "yaSas-Seza¦ <i>(II) m.</i> death."
         }
+    ],
+    "MW": [
+        {
+            "word": "यशःशेष",
+            "eid": "170881",
+            "pagenum": 848,
+            "content": "यशः—शेष ¦ <lex>mfn.</lex> having nothing left but glory or fame, <ab>i.e.</ab> dead (-ताम् with प्र-√ या, to die, <ls>Kathās.</ls>; with √ नी, to die; °षी-भूत <lex type='phw'>mfn.</lex> dead, <ls>Kāv.</ls>)<info phwchild='170882.01'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "यशःशेष",
+            "eid": "170882",
+            "pagenum": 848,
+            "content": "यशः—शेष ¦ <lex>m.</lex> death, dying, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "यशःशेष",
+            "eid": "90531",
+            "pagenum": 5,
+            "content": "यशःशेष¦ <lex>Adj.</lex> <i>von dem nur der Ruhm nachgeblieben ist,</i> <ab>d. i.</ab> <i>todt</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> °तां प्रया so <ab>v. a.</ab> <i>sterben,</i> °तां नी <i>tödten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यशःशेष",
+            "eid": "81748",
+            "pagenum": 6,
+            "content": "यशःशेष¦ (यशस् + शेष) <lex>adj.</lex> <i>von dem nur der Ruhm übriggeblieben ist</i> <ab>d. i.</ab> <i>todt</i> <ls>H. 374.</ls> °शेषीभूत <i>verstorben</i> <ls>Ind. St. 8, 393.</ls> °शेषतां प्रया so v. a. <i>sterben</i> <ls>KATHĀS. 91, 44.</ls> °शेषतां नी <i>tödten</i> <ls>RĀJA-TAR. 4, 112.</ls>"
+        }
     ]
 }

@@ -7,5 +7,55 @@
             "pagenum": 224,
             "content": "कौश्य¦ <i>kauśya,</i> <ab>i. e.</ab> <i>kuśa + ya,</i> <ab>adj.</ab> Made of Kuśa grass, <ls>MBh.</ls> 15, 739."
         }
+    ],
+    "MW": [
+        {
+            "word": "कौश्य",
+            "eid": "57422",
+            "pagenum": 317,
+            "content": "कौश्य <hom>a</hom> ¦ <lex>mfn.</lex> made of <s1 slp1='kuSa'>Kuśa</s1> grass, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "कौश्य",
+            "eid": "57423",
+            "pagenum": 317,
+            "content": "कौश्य ¦ <lex>m.</lex> <ab>patr.</ab> <ab>fr.</ab> <s1 slp1='kuSa'>Kuśa</s1> (= कौ/ष्य), <ls>ŚBr. x, 5, 5, 1</ls>, <ab>Sch.</ab><info lex='m'/>"
+        },
+        {
+            "word": "कौश्य",
+            "eid": "57512",
+            "pagenum": 318,
+            "content": "कौश्य <hom>b</hom> ¦ See <hom>1.</hom> कौश."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कौश्य",
+            "eid": "16071",
+            "pagenum": 258,
+            "content": "<i>Kauśya, as, ā, am,</i>¦ made of Kuśa grass."
+        },
+        {
+            "word": "कौश्य",
+            "eid": "16091",
+            "pagenum": 259,
+            "content": "कौश्य¦ <i>kauśya.</i> See under 1. <i>kauśa.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कौश्य",
+            "eid": "31569",
+            "pagenum": 2,
+            "content": "कौश्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>aus</i> <is>Kuśa</is>-<i>Gras gemacht</i>. <div n='1'>— 2〉 *<lex>m.</lex> <ab>Patron.</ab> von <is>Kuśa</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कौश्य",
+            "eid": "19669",
+            "pagenum": 2,
+            "content": "कौश्य¦ (von कुश) <div n='1'> 1) <lex>adj.</lex> <i>aus</i> <is>Kuśa</is> - <i>Gras gemacht</i>: शयन <ls>MBH. 13, 3495.</ls> विष्टर <ls n='MBH.'>15, 739.</ls> <div n='1'>— 2) = कुशगोत्रज = कौष्य <ls>SĀY.</ls> zu <ls>ŚAT. BR. 10, 5, 5, 1.</ls>"
+        }
     ]
 }

@@ -15,5 +15,49 @@
             "pagenum": 766,
             "content": "sarjaka¦ <i>m.</i> The <i>sāla</i> tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "सर्जक",
+            "eid": "237887",
+            "pagenum": 1184,
+            "content": "सर्जक ¦ <lex>m.</lex> <bot>Terminalia Tomentosa</bot>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सर्जक",
+            "eid": "237888",
+            "pagenum": 1184,
+            "content": "¦ <bot>Vatica Robusta</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सर्जक",
+            "eid": "237889",
+            "pagenum": 1184,
+            "content": "सर्जक ¦ <lex>n.</lex> the first change in warm milk when mixed with <s1 slp1='takra'>Takra</s1>, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सर्जक",
+            "eid": "51416",
+            "pagenum": 1094,
+            "content": "<i>Sarjaka, as,</i>¦ m. the Śāl tree; another tree (<i>=</i> <i>pīta-śāla</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सर्जक",
+            "eid": "121558",
+            "pagenum": 7,
+            "content": "*सर्जक¦ <lex>m.</lex> <div n='1'>— 1〉 <i><bot>Terminalia tomentosa</bot></i>. <div n='1'>— 2〉 <i><bot>Vatica robusta</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सर्जक",
+            "eid": "106571",
+            "pagenum": 7,
+            "content": "सर्जक¦ <lex>m.</lex> <i>Terminalia tomentosa W. et. A.</i> <ls>AK. 2, 4, 2, 24.</ls> <i>Vatica robusta W et A.</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

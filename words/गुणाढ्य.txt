@@ -39,5 +39,49 @@
             "pagenum": 244,
             "content": "guRa-AQya¦ <i>a.</i> rich in virtues."
         }
+    ],
+    "MW": [
+        {
+            "word": "गुणाढ्य",
+            "eid": "65711",
+            "pagenum": 358,
+            "content": "guRA<srs/>Qya ¦ <lex>mfn.</lex> rich in virtues or excellences, <ls>R. i, 7, 6</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गुणाढ्य",
+            "eid": "65712",
+            "pagenum": 358,
+            "content": "guRA<srs/>Qya ¦ <lex>m.</lex> <ab>N.</ab> of the famous author of the <s1 slp1='bfhat-kaTA'>Bṛhat-kathā</s1>, <ls>Vāsav.</ls> 346 <ls>Kṣem.</ls>; <ls>Kathās. i</ls>, <ls n='Kathās.'>vi</ls><info lex='m'/>"
+        },
+        {
+            "word": "गुणाढ्य",
+            "eid": "65713",
+            "pagenum": 358,
+            "content": "¦ = °ढ्यक, <ls>Gal.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गुणाढ्य",
+            "eid": "35780",
+            "pagenum": 2,
+            "content": "गुणाढ्य¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>reich an Vorzügen</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 *= गुणाढ्यक <ls>GAL.</ls> <div n='2'>— b〉 <ab>N. pr.</ab> des Verfassers der <is>Bṛhatkathā</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गुणाढ्य",
+            "eid": "22614",
+            "pagenum": 2,
+            "content": "गुणाढ्य¦ (गुण + आढ्य) <lex>m.</lex> N. pr. eines Brahmanen, = <is>Mālyavant</is> in einer früheren Geburt <ls>KATHĀS. 1, 65. 6. 1. 20.</ls> <ls>VĀSAV.</ls> in <ls>Z. d. d. m. G. 8, 537.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "गुणाढ्य",
+            "eid": "16889",
+            "pagenum": 7,
+            "content": "गुणाढ्य¦ II. 1〉 <ls>R. 1,7,6</ls>."
+        }
     ]
 }

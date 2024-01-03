@@ -23,5 +23,35 @@
             "pagenum": 350,
             "content": "dvi-SaPa¦ <i>m.</i> a cloven-footed animal."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विशफ",
+            "eid": "98701",
+            "pagenum": 505,
+            "content": "द्वि—शफ ¦ <lex>mfn.</lex> cloven-hoofed<info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विशफ",
+            "eid": "98702",
+            "pagenum": 505,
+            "content": "द्वि—शफ ¦ <lex>m.</lex> a cloven-hoofed animal, <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विशफ",
+            "eid": "54114",
+            "pagenum": 3,
+            "content": "द्विशफ¦ <lex>Adj.</lex> <i>zweihufig;</i> <lex>m.</lex> <i>ein zweihufiges Thier</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विशफ",
+            "eid": "35837",
+            "pagenum": 3,
+            "content": "द्विशफ¦ (द्वि + शफ) <lex>adj.</lex> <i>zweihufig</i>; <lex>m.</lex> <i>ein zweihufiges Thier</i> <ls>M. 11, 168.</ls> <ls>YĀJÑ. 1, 261.</ls> गौरजो महिषः कृष्णः सूकरो गवयो रुरुः । द्विशफाः पशवश्चेमे अविरुष्ट्रश्च <ls>BHĀG. P. 3, 10, 20. 6, 6, 26.</ls>"
+        }
     ]
 }

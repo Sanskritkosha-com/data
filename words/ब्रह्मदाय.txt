@@ -37,5 +37,59 @@
             "pagenum": 512,
             "content": "brahman-dAya¦ <i>m.</i> 1. instruction in the Vedas; 2. the Vedas as a hereditary gift."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्मदाय",
+            "eid": "146761",
+            "pagenum": 738,
+            "content": "<hom>1.</hom> ब्रह्म—दाय ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>1.</hom> दाय) = <ab>prec.</ab> <ls>MW.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ब्रह्मदाय",
+            "eid": "146762",
+            "pagenum": 738,
+            "content": "ब्रह्म—दाय ¦ <lex>mfn.</lex> imparting or teaching sacred <ab n='knowledge'>k°</ab>, <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ब्रह्मदाय",
+            "eid": "146763",
+            "pagenum": 738,
+            "content": "<hom>2.</hom> ब्रह्म—दाय ¦ <lex>m.</lex> (and. <hom>2.</hom>, दाय) <ab n='sacred'>s°</ab> <ab n='knowledge'>k°</ab> as an inheritance (-हर <lex type='phw'>mfn.</lex> receiving it from [<ab>gen.</ab>] <ls>Mn. iii, 3</ls>; °yA<srs/>da <lex type='phw'>mfn.</lex> [according to <ab>Sch.</ab>] either ‘enjoying <ab n='sacred'>s°</ab> <ab n='knowledge'>k°</ab> as an <ab n='inheritance'>i°</ab>’ or ‘<s1 slp1='brahmA'>Brahmā</s1>'s son’, <ls>BhP.</ls>)<info phwchild='146764.1'/><info phwchild='146764.2'/><info lex='m'/>"
+        },
+        {
+            "word": "ब्रह्मदाय",
+            "eid": "146764",
+            "pagenum": 738,
+            "content": "ब्रह्म—दाय ¦ <lex>m.</lex> the earthly possession of a <ns>Brāhman</ns>, <ls>BhP.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्मदाय",
+            "eid": "77893",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> ब्रह्मदाय¦ <lex>Adj.</lex> <i>der Jmd den</i> <is>Veda</is> <i>mittheilt lehrt</i>."
+        },
+        {
+            "word": "ब्रह्मदाय",
+            "eid": "77894",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> ब्रह्मदाय¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das heilige Wissen als Erbtheil</i>. °हर <lex>Adj.</lex> <i>dieses von</i> — (<ab>Gen.</ab>) <i>empfangend</i>. <div n='1'>— 2〉 <i>der Antheil —, der erbliche Besitz eines Brahmanen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्मदाय",
+            "eid": "80015",
+            "pagenum": 5,
+            "content": "1. ब्रह्मदाय¦ (ब्रह्मन् + 1. दाय) <lex>adj.</lex> <i>der Jmd das heilige Wissen mittheilt, - lehrt</i> <ls>BHĀG. P. 11, 29, 26.</ls>"
+        },
+        {
+            "word": "ब्रह्मदाय",
+            "eid": "80016",
+            "pagenum": 5,
+            "content": "1. ब्रह्मदाय¦ (ब्रह्मन् + 2. दाय) <lex>m.</lex> <div n='1'> 1) <i>das heilige Wissen als Erbtheil</i>: °हरं पितुः <ls>M. 3, 3.</ls> <div n='1'>— 2) <i>der Antheil —, der erbliche Besitz eines Brahmanen</i>: ब्रह्मदायापहारिन् (राजन्) <ls>BHĀG. P. 10, 64, 38.</ls>"
+        }
     ]
 }

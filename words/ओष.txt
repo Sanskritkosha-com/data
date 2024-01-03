@@ -67,5 +67,51 @@
             "pagenum": 156,
             "content": "oza¦ <i>m.</i> Burning, combustion."
         }
+    ],
+    "MD": [
+        {
+            "word": "ओष",
+            "eid": "5236",
+            "pagenum": 60,
+            "content": "ओष¦ óṣ-a, <lex>m.</lex> burning."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ओष",
+            "eid": "40726",
+            "pagenum": 236,
+            "content": "ओष ¦ <lex>m.</lex> (√ उष्), burning, combustion, <ls>Suśr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ओष",
+            "eid": "40727",
+            "pagenum": 236,
+            "content": "ओष/ ¦ <lex>mfn.</lex> burning, shining, <ls>RV. x, 119, 10</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ओष",
+            "eid": "12986",
+            "pagenum": 189,
+            "content": "ओष¦ <i>oṣa, as,</i> m. (fr. 1. <i>uṣ</i>), burning, combustion; [cf. Goth. <nsi>azgô;</nsi> Angl. Sax. <nsi>asca;</nsi> Old Germ. <nsi>asga;</nsi> Mod. Germ. <nsi>asche;</nsi> Eng. <nsi>ashes.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ओष",
+            "eid": "22704",
+            "pagenum": 1,
+            "content": "ओष¦ <lex>m.</lex> <i>das Brennen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ओष",
+            "eid": "13821",
+            "pagenum": 1,
+            "content": "ओष¦ (von 1. उष्) <lex>m.</lex> <i>das Brennen</i> <ls>AK. 3, 3, 9.</ls> <ls>SUŚR. 1, 61, 21. 253, 15. 268, 14. 2, 133, 9.</ls>"
+        }
     ]
 }

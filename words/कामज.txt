@@ -31,5 +31,47 @@
             "pagenum": 180,
             "content": "kAma-ja¦ <i>a.</i> produced by passion or desire, <ls>M.</ls>vii.46, 47."
         }
+    ],
+    "MW": [
+        {
+            "word": "कामज",
+            "eid": "48034",
+            "pagenum": 272,
+            "content": "काम—ज ¦ <lex>mfn.</lex> produced or caused by passion or desire, arising from lust, <ls>Mn. vii, 46.</ls> <ls n='Mn. vii,'>47.</ls> <ls n='Mn. vii,'>50.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "कामज",
+            "eid": "48035",
+            "pagenum": 272,
+            "content": "¦ begotten or born of desire or lust, <ls>Mn. ix, 107.</ls> <ls n='Mn. ix,'>143.</ls> <ls n='Mn. ix,'>147.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कामज",
+            "eid": "48036",
+            "pagenum": 272,
+            "content": "काम—ज ¦ <lex>m.</lex> ‘born of <s1 slp1='kAma'>Kāma</s1>’, <ab>N.</ab> of <s1 slp1='anirudDa'>Aniruddha</s1>, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कामज",
+            "eid": "48037",
+            "pagenum": 272,
+            "content": "काम—ज ¦ <lex>m. <ab>pl.</ab></lex> = कामगमास्, <ls>VP.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कामज",
+            "eid": "26516",
+            "pagenum": 2,
+            "content": "कामज¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>aus dem Begehren entstehend</i>. <div n='2'>— b〉 <i>in Folge sinnlicher Triebe erzeugt</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 *<ab>Bein.</ab> <is>Aniruddha</is>ʼs. <div n='2'>— b〉 <ab>Pl.</ab> = कामगम 2〉. <ls>VP.² 3,26</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कामज",
+            "eid": "16386",
+            "pagenum": 2,
+            "content": "कामज¦ (काम + ज) <div n='1'> 1) <lex>adj.</lex> <i>aus dem Begehren entstehend</i>: व्यसनानि <ls>M. 7, 46. 47. 50.</ls> <ls>AK. 3, 4, 18, 123.</ls> <i>in Liebe erzeugt</i>: पुत्र <ls>M. 9, 107. 143. 147.</ls> <div n='1'>— 2) <lex>m.</lex> <is>Kāma's</is> <i>Sohn</i> <ab>d. i.</ab> <is>Aniruddha</is> <ls>WILS.</ls>"
+        }
     ]
 }

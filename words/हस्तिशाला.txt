@@ -28,5 +28,35 @@
             "pagenum": 530,
             "content": "हस्तिशाला¦ <i>f.</i> Elefantenstall."
         }
+    ],
+    "MW": [
+        {
+            "word": "हस्तिशाला",
+            "eid": "262410",
+            "pagenum": 1295,
+            "content": "हस्ति—शाला ¦ <lex>f.</lex> an <ab n='elephants'>el°</ab>-stable, <ls>MBh.</ls>; <ls>Kathās.</ls><info lex='f'/>"
+        },
+        {
+            "word": "हस्तिशाला",
+            "eid": "262411",
+            "pagenum": 1295,
+            "content": "¦ <ab>N.</ab> of a place, <ls>Rājat.</ls> (could be also -शाल). <info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "हस्तिशाला",
+            "eid": "134318",
+            "pagenum": 7,
+            "content": "हस्तिशाला¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Elephantenstall</i>. <div n='1'>— 2〉 <ab>N. pr.</ab> einer Oertlichkeit. Könnte auch °शाल sein."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हस्तिशाला",
+            "eid": "116692",
+            "pagenum": 7,
+            "content": "हस्तिशाला¦ <lex>f.</lex> <div n='1'> 1) <i>Elephantenstall</i> <ls>H. 998.</ls> <ls>MBH. 3, 13323.</ls> <ls>KATHĀS. 69, 67.</ls> <div n='1'>— 2) N. pr. einer Oertlichkeit: °शालाख्यमग्रहारम् (könnte auch °शाल sein) <ls>RĀJA-TAR. 1, 96.</ls>"
+        }
     ]
 }

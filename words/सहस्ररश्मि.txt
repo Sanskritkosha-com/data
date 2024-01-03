@@ -23,5 +23,35 @@
             "pagenum": 607,
             "content": "<b>Sahasraraśmi</b>¦ = Sūrya: III, 192."
         }
+    ],
+    "MW": [
+        {
+            "word": "सहस्ररश्मि",
+            "eid": "240679",
+            "pagenum": 1196,
+            "content": "सहस्र—रश्मि ¦ <lex>mfn.</lex> <ab n='thousand'>th°</ab>-rayed<info lex='m:f:n'/>"
+        },
+        {
+            "word": "सहस्ररश्मि",
+            "eid": "240680",
+            "pagenum": 1196,
+            "content": "सहस्र—रश्मि ¦ <lex>m.</lex> the sun, <ls>MaitrUp.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>MārkP.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सहस्ररश्मि",
+            "eid": "123142",
+            "pagenum": 7,
+            "content": "सहस्ररश्मि¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>tausendstrahlig</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>die Sonne</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सहस्ररश्मि",
+            "eid": "107707",
+            "pagenum": 7,
+            "content": "सहस्ररश्मि¦ <lex>adj.</lex> <i>tausendstrahlig</i>, <lex>m.</lex> <i>die Sonne</i> <ls>MAITRYUP. 6, 8.</ls> <ls>MBH. 3, 192.</ls> <ls n='MBH.'>4, 2122.</ls> <ls n='MBH.'>6, 4885.</ls> <ls>R. 1, 24, 21.</ls> <ls n='R.'>3, 62, 13</ls> <ls n='R.'>6, 85, 13.</ls> <ls>KUMĀRAS. 6, 7. 7. 41.</ls> <ls>ŚIŚ. 1, 53.</ls> <ls>MĀRK. P. 109, 78.</ls> अनेक° <ls>R. 5, 11, 1.</ls>"
+        }
     ]
 }

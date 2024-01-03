@@ -37,5 +37,35 @@
             "pagenum": 255,
             "content": "graha-yudDa¦ <i>n.</i> opposition of the planets."
         }
+    ],
+    "MW": [
+        {
+            "word": "ग्रहयुद्ध",
+            "eid": "68651",
+            "pagenum": 372,
+            "content": "ग्रह—युद्ध ¦ <lex>n.</lex> = -मर्द, <ls>AV.Pariś.</ls>; <ls>VarBṛS.</ls><info lex='n'/>"
+        },
+        {
+            "word": "ग्रहयुद्ध",
+            "eid": "68652",
+            "pagenum": 372,
+            "content": "¦ <ab>N.</ab> of <ls>VarBṛS. xvii.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्रहयुद्ध",
+            "eid": "37391",
+            "pagenum": 2,
+            "content": "ग्रहयुद्ध¦ <lex>n.</lex> <i>Streit der Planeten, Opposition</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ग्रहयुद्ध",
+            "eid": "23706",
+            "pagenum": 2,
+            "content": "ग्रहयुद्ध¦ (ग्रह + युद्ध) <lex>n.</lex> <i>Streit der Planeten, Opposition</i> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 92. 93 (51. 52).</ls> <ls>VARĀH. BṚH. S. 2,c (Bl. 1,b). 5,95. 21,26</ls>; vgl. <ls n='VARĀH. BṚH. S.'>17, 2. 3. 18, 8.</ls> Titel des 17ten <is>Adhyāya</is> in dems. Werke."
+        }
     ]
 }

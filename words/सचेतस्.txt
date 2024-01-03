@@ -45,5 +45,43 @@
             "pagenum": 1747,
             "content": "1449,15.a: pṛthivī́ <ab>st.</ab> pṛthiv <info vn='chg 258 gra'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "सचेतस्",
+            "eid": "228942",
+            "pagenum": 1131,
+            "content": "स/—चेतस् ¦ (स/-), <lex>mfn.</lex> having the same mind, unanimous, <ls>RV.</ls>; <ls>AV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सचेतस्",
+            "eid": "228942.1",
+            "pagenum": 1131,
+            "content": "¦ conscious, intelligent, rational, <ls>RV.</ls>; &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सचेतस्",
+            "eid": "48638",
+            "pagenum": 1049,
+            "content": "<i>Sa-cetas, ās, ās, as,</i>¦ conscious, reflective, intelligent; having the same mind, unanimous."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सचेतस्",
+            "eid": "117780",
+            "pagenum": 7,
+            "content": "स/चेतस्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>einmüthig, einverstanden</i>. <div n='1'>— 2〉 <i>eine richtige Einsicht —, ein richtiges Verständniss habend, verständig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सचेतस्",
+            "eid": "103730",
+            "pagenum": 7,
+            "content": "स/चेतस्¦ (2. स + चेतस्) <lex>adj.</lex> <div n='1'> 1) <i>einmüthig, einverstanden</i> <ls>ṚV. 10, 1, 3.</ls> <ls n='ṚV. 10,'>4, 5.</ls> <ls n='ṚV. 10,'>64, 7.</ls> <ls n='ṚV. 10,'>113, 1.</ls> <ls>VĀLAKH. 10, 1.</ls> <ls>AV. 1, 30, 2.</ls> <ls n='AV.'>5, 21, 12.</ls> <ls n='AV.'>6, 68, 1.</ls> <div n='1'>— 2) <i>eine richtige Einsicht —, ein richtiges Verständniss habend, verständig</i> <ls>ṚV. 1, 61, 10.</ls> <ls n='ṚV.'>10, 44, 4.</ls> दक्ष <ls>AV. 2, 29, 3.</ls> <ls n='AV.'>4, 26, 1.</ls> <ls n='AV. 4,'>29, 1.</ls> <ls>PĀR. GṚHY. 3, 13.</ls> <ls>BHAG. 11, 51.</ls> <ls>KUMĀRAS. 5, 48.</ls> <ls>RĀJA-TAR. 4, 498.</ls> <ls>SĀH. D. 33. 35. 24, 21.</ls> <ls>BHĀṢĀP. 144.</ls>"
+        }
     ]
 }

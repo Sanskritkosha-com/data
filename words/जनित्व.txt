@@ -57,5 +57,75 @@
             "pagenum": 158,
             "content": "<b>janitvá,</b>¦ <i><ab>n.</ab></i> wifehood. [<b>jani.</b>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "जनित्व",
+            "eid": "7864",
+            "pagenum": 99,
+            "content": "जनित्व¦ jani-tva, <lex>n.</lex> wifehood; <b>-divasa,</b> <lex>m.</lex> 🞄birth-day; <b>-mat,</b> <lex>a.</lex> wedded; having an origin; 🞄<lex>m.</lex> creature, man."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जनित्व",
+            "eid": "76941",
+            "pagenum": 411,
+            "content": "<hom>1.</hom> जनि—त्व/ ¦ <lex>n.</lex> the state of a wife, <ls>RV. x, 18, 8.</ls><info lex='n'/>"
+        },
+        {
+            "word": "जनित्व",
+            "eid": "76967",
+            "pagenum": 411,
+            "content": "<hom>2.</hom> ज/नित्व ¦ <lex>mfn.</lex> = °तव्य^, <ls>RV. i, 66, 8</ls> and <ls n='RV. i,'>89, 10</ls>; <ls n='RV.'>iv, 18, 4</ls>; <ls n='RV.'>x, 45, 10</ls>; <ls>AV. ii, 28, 3</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "जनित्व",
+            "eid": "76968",
+            "pagenum": 411,
+            "content": "ज/नित्व ¦ <lex>m.</lex> father, <ls>Uṇ., Sch.</ls><info lex='m'/>"
+        },
+        {
+            "word": "जनित्व",
+            "eid": "76969",
+            "pagenum": 411,
+            "content": "ज/नित्व ¦ <lex>m. <ab>du.</ab></lex> parents, <ls>ib.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जनित्व",
+            "eid": "19280",
+            "pagenum": 338,
+            "content": "2. <i>janitva, as, ā, am, = janitavya,</i>¦ to be born or produced; (<i>as</i>), m. father; (<i>ā</i>), f. mother; (<i>au</i>), m. du. father and mother, parents."
+        }
+    ],
+    "PW": [
+        {
+            "word": "जनित्व",
+            "eid": "41573",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> ज/नित्व¦ <div n='1'>— 1〉 <lex>Adj.</lex> = जनितव्य. <div n='1'>— 2〉 *<lex>m.</lex> <i>Vater</i> *<lex>f.</lex> आ <i>Mutter,</i> *<lex>m.</lex> <ab>Du.</ab> <i>die Eltern</i>."
+        },
+        {
+            "word": "जनित्व",
+            "eid": "41574",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> जनित्व/¦ <lex>n.</lex> <i>der Stand der Ehefrau</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जनित्व",
+            "eid": "26557",
+            "pagenum": 3,
+            "content": "1. ज/नित्व¦ (wie eben) <ls>Uṇ. 4, 107.</ls> <div n='1'> 1) <lex>adj.</lex> so v. a. जनितव्यः अ\\न्तर्जा\\तेषू\\त ये जनि^त्वाः <ls>ṚV. 4, 18, 4.</ls> <ls n='ṚV.'>1, 66, 8</ls> (4). <ls n='ṚV.'>10, 45, 10.</ls> <ls>AV. 2, 28, 3.</ls> <div n='1'>— 2) <lex>m.</lex> du. <i>die Eltern</i> <ls>Uṇ.</ls>, <ls>Sch.</ls> जनित्व <lex>m.</lex> <i>Vater</i>, °त्वा <lex>f.</lex> <i>Mutter</i> <ls>ŚKDR.</ls> und <ls>WILS.</ls> nach ders. Aut."
+        },
+        {
+            "word": "जनित्व",
+            "eid": "26558",
+            "pagenum": 3,
+            "content": "2. जनित्व/¦ (von जनि) <lex>n.</lex> <i>Ehestand</i> (als <i>Verhältniss des Weibes zum Gatten</i>): पत्यु^र्जनि\\त्वम\\भि सं ब^भूथ <ls>ṚV. 10, 18, 8.</ls>"
+        }
     ]
 }

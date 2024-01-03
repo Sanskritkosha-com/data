@@ -29,5 +29,61 @@
             "pagenum": 382,
             "content": "nir-utsAha¦ <i>a.</i> without energy, indolent."
         }
+    ],
+    "MW": [
+        {
+            "word": "निरुत्साह",
+            "eid": "106851",
+            "pagenum": 540,
+            "content": "निर्—उत्साह ¦ <lex>m.</lex> absence of exertion, indolence, <ls>Hariv.</ls><info lex='m'/>"
+        },
+        {
+            "word": "निरुत्साह",
+            "eid": "106852",
+            "pagenum": 540,
+            "content": "निर्—उत्साह ¦ <lex>mf(आ)n.</lex> without energy or courage, indolent, indifferent, <ls>MBh.</ls>; <ls>R.</ls> &c.<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "निरुत्साह",
+            "eid": "106853",
+            "pagenum": 540,
+            "content": "¦ despondent of (<ab>loc.</ab>), <ls>MBh. vii, 1836</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निरुत्साह",
+            "eid": "25126",
+            "pagenum": 494,
+            "content": "निरुत्साह¦ <i>nir-utsāha, as,</i> m. absence of exertion, want of energy, indolence, pusillanimity; (<i>as, ā, am</i>), without energy, devoid of energy, undertaking nothing, without courage, indolent, indifferent. <i>—Nirutsāha-tā,</i> f. want of energy, cowardice."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निरुत्साह",
+            "eid": "59127",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> निरुत्साह¦ <lex>m.</lex> <i>Abwesenheit aller Thatkraft, Kleinmuth</i>."
+        },
+        {
+            "word": "निरुत्साह",
+            "eid": "59128",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> निरुत्साह¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>ohne Thatkraft, der Nichts zu unternehmen wagt</i> (<ls>GAUT.</ls>), <i>keinen Muth habend, — zu</i> (<ab>Loc.</ab>), <i>kleinmüthig</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <i>Kleinmuth</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निरुत्साह",
+            "eid": "39322",
+            "pagenum": 4,
+            "content": "1. निरुत्साह¦ (निस् + उ°) <lex>m.</lex> <i>Abwesenheit aller Thatkraft, Kleinmuth</i>: उत्साहः सर्वदा कार्यो निरुत्साहो न यत्नतः <ls>HARIV. 14493.</ls>"
+        },
+        {
+            "word": "निरुत्साह",
+            "eid": "39323",
+            "pagenum": 4,
+            "content": "2. निरुत्साह¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> आ <i>ohne Thatkraft, der nichts zu unternehmen wagt, keinen Muth habend, kleinmüthig</i> <ls>MBH. 4, 976.</ls> <ls>R. 1, 21, 6.</ls> <ls n='R.'>5, 85, 20</ls> <ls n='R.'>6, 23, 30.</ls> <ls>KATHĀS. 15, 59.</ls> <ls>PAÑCAT. 123, 23. ed. orn. 63, 18.</ls> <ls>HIT. II, 6.</ls> पलायनकृतोत्साहा निरुत्साहा द्विषज्जये <i>keinen Muth habend die Feinde zu besiegen</i> <ls>MBH. 7, 1836</ls> = <ls>MĀRK. P. 18, 18.</ls>"
+        }
     ]
 }

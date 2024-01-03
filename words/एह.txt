@@ -31,5 +31,37 @@
             "pagenum": 67,
             "content": "एह/¦ begierig."
         }
+    ],
+    "MW": [
+        {
+            "word": "एह",
+            "eid": "40281",
+            "pagenum": 233,
+            "content": "एह/ ¦ <lex>mf(आ)n.</lex> desirous, wishing, <ls>AV. xiii, 3, 33.</ls><info lex='m:f#A:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "एह",
+            "eid": "12816",
+            "pagenum": 187,
+            "content": "एह¦ <i>eha, as, ā, am</i> (fr. rt. <i>īh</i>), Ved. desirous, wishing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "एह",
+            "eid": "22383",
+            "pagenum": 1,
+            "content": "एह/¦ <lex>Adj.</lex> (<lex>f.</lex> आ/) <i>begierig, verlangend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एह",
+            "eid": "13598",
+            "pagenum": 1,
+            "content": "एह/¦ (von ईह्) <lex>adj.</lex> <i>begierig, verlangend</i>: ए\\ना ए\\हाः परि\\ पात्रे^ ददृश्राम् <ls>AV. 12, 3, 33.</ls>"
+        }
     ]
 }

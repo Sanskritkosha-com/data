@@ -21,5 +21,35 @@
             "pagenum": 49,
             "content": "2 अविवाद¦ <lex>m.</lex> non-dissent, consent."
         }
+    ],
+    "MW": [
+        {
+            "word": "अविवाद",
+            "eid": "19008",
+            "pagenum": 110,
+            "content": "अ-विवाद ¦ <lex>m.</lex> non-dispute, agreement<info lex='m'/>"
+        },
+        {
+            "word": "अविवाद",
+            "eid": "19009",
+            "pagenum": 110,
+            "content": "अ-विवाद ¦ <lex>mfn.</lex> not disputed, agreed upon <ab>Comm.</ab> on <ls>Nyāyad.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अविवाद",
+            "eid": "6985",
+            "pagenum": 97,
+            "content": "अविवाद¦ <i>a-vivāda, as,</i> m. non-disagreement, concurrence, consent."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अविवाद",
+            "eid": "11144",
+            "pagenum": 1,
+            "content": "अविवाद¦ <lex>Adj.</lex> <i>unbestritten, worüber Alle einig sind</i> <ls>Comm. zu NYĀYAS. 1,1,18,24</ls>."
+        }
     ]
 }

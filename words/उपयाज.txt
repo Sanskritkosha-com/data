@@ -23,5 +23,43 @@
             "pagenum": 140,
             "content": "upayAja¦ <i>m.</i> Additional formulæ at a sacrifice."
         }
+    ],
+    "MW": [
+        {
+            "word": "उपयाज",
+            "eid": "35379",
+            "pagenum": 204,
+            "content": "<hom>1.</hom> उप-याज ¦ (for <hom>2.</hom> see <ab>s.v.</ab>), <lex>m.</lex> = <hom>2.</hom> उपय/ज्, <ls>AitBr. ii, 18, 8</ls>; <ls>Kāś.</ls> on <ls>Pāṇ. vii, 3, 62.</ls><info lex='m'/>"
+        },
+        {
+            "word": "उपयाज",
+            "eid": "35423",
+            "pagenum": 204,
+            "content": "<hom>2.</hom> उप-याज ¦ (for <hom>1.</hom> See उप-√ यज्) <lex>m.</lex> <ab>N.</ab> of a younger brother of <s1 slp1='yAja'>Yāja</s1>, <ls>MBh.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उपयाज",
+            "eid": "11684",
+            "pagenum": 166,
+            "content": "<i>Upa-yāja, as,</i>¦ m. additional formulas at a sacrifice; N. of a younger brother of Yāja."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उपयाज",
+            "eid": "19838",
+            "pagenum": 1,
+            "content": "उपयाज¦ <lex>m.</lex> <div n='1'>— 1〉 = उपयज्. <div n='1'>— 2〉 <ab>N. pr.</ab> <i>einer jüngern Bruders des</i> <is>Yāja</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उपयाज",
+            "eid": "11968",
+            "pagenum": 1,
+            "content": "उपयाज¦ <lex>m.</lex> <div n='1'> 1) = उपयज् <ls>P. 7, 3, 62</ls>, <ls>Sch.</ls> एकादश प्रयाजा एकादशानुयाजा एकादशोपयाजा एते ऽसोमपाः पशुभाजनाः <ls>AIT. BR. 2, 18.</ls> <div n='1'>— 2) N. pr. <i>ein jüngerer Bruder des</i> <is>Yāja</is>: याजोपयाजौ ब्रह्मर्षी <ls>MBH. 1, 6362.</ls> <ls n='MBH. 1,'>6365.</ls> <ls n='MBH.'>2, 2662.</ls>"
+        }
     ]
 }

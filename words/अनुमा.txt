@@ -45,5 +45,69 @@
             "pagenum": 25,
             "content": "anumA¦ <i>f.</i> The same as अनुमिति q.v., शंका चेदनुमास्त्येव न चेच्छंका <ls>Kus.</ls>iii."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनुमा",
+            "eid": "1698",
+            "pagenum": 16,
+            "content": "अनुमा¦ anu-mā, <lex>f.</lex> conclusion; <b>-mā́dya,</b> <ab>fp.</ab> 🞄to be hailed; <b>-māna,</b> <lex>n.</lex> inference; argument; 🞄<b>-mānana,</b> <lex>n.</lex> persuasion; <b>-mārga,</b> <lex>m.</lex> following; 🞄seeking: <ab>in.</ab> after (<ab>g.</ab>); <b>-mārdava,</b> <lex>n.</lex> 🞄pity; <b>-mālinī-tīram,</b> <lex>ad.</lex> on the bank of the 🞄<ab n='Mālinī'>M.</ab>; <b>-miti,</b> <lex>f.</lex> conclusion, inference; <b>-mṛt,</b> <lex>a.</lex> 🞄following in death; <b>-meya,</b> <ab>fp.</ab> to be inferred."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनुमा",
+            "eid": "6974",
+            "pagenum": 36,
+            "content": "<hom>1.</hom> अनु-√ <hom>2.</hom> मा ¦ <ab>Intens.</ab> (<ab>impf.</ab> अमीमेद् अ/नु) to roar or bleat towards, <ls>RV. i, 164, 28.</ls><info verb='pre' cp='' parse='anu+mA'/>"
+        },
+        {
+            "word": "अनुमा",
+            "eid": "6975",
+            "pagenum": 36,
+            "content": "<hom>2.</hom> अनु-√ <hom>3.</hom> मा ¦ to be behind in measure, to be unable to equal, <ls>RV.</ls> <pb n='37,1'/>; <div n='to'/>to infer, conclude, guess, conjecture: <div n='vp'/><ab>Pass.</ab> -मीयते, to be inferred or supposed.<info verb='pre' cp='' parse='anu+mA'/>"
+        },
+        {
+            "word": "अनुमा",
+            "eid": "6976",
+            "pagenum": 37,
+            "content": "<hom>3.</hom> अनु-मा ¦ <lex>f.</lex> inference, a conclusion from given premises.<info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुमा",
+            "eid": "2450",
+            "pagenum": 37,
+            "content": "अनुमा 1¦. <i>anu-mā,</i> cl. 3. A. <i>-mimīte, -mātum,</i> to infer, conclude, guess, conjecture; to reconcile, to equal: Pass. <i>-mīyate,</i> to be inferred or supposed."
+        },
+        {
+            "word": "अनुमा",
+            "eid": "2451",
+            "pagenum": 37,
+            "content": "2. <i>anu-mā,</i>¦ f. inference, a conclusion from given premises."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुमा",
+            "eid": "4696",
+            "pagenum": 1,
+            "content": "अनुमा¦ <lex>f.</lex> <i>Schluss, Folgerung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुमा",
+            "eid": "2913",
+            "pagenum": 1,
+            "content": "अनुमा¦ (von मा mit अनु) <lex>f.</lex> <i>Schluss, Folgerung</i> <ls>TRIK. 3, 2, 11.</ls>"
+        },
+        {
+            "word": "अनुमा",
+            "eid": "63676",
+            "pagenum": 5,
+            "content": "अनुमा¦ <ls>BHĀṢĀP. 66.</ls> <ls>DAŚAR. 1, 37.</ls>"
+        }
     ]
 }

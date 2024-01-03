@@ -35,5 +35,75 @@
             "pagenum": 79,
             "content": "avedya¦ <i>(II) m.</i> A calf."
         }
+    ],
+    "MD": [
+        {
+            "word": "अवेद्य",
+            "eid": "2973",
+            "pagenum": 32,
+            "content": "अवेद्य¦ a-ved-ya, <ab>fp.</ab> not to be wedded."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अवेद्य",
+            "eid": "19196",
+            "pagenum": 111,
+            "content": "<hom>1.</hom> अ-वेद्य ¦ <lex>mfn.</lex> not to be known, unascertainable, <ls>MBh. xii, 11765</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अवेद्य",
+            "eid": "19200",
+            "pagenum": 111,
+            "content": "<hom>2.</hom> अ-वेद्य ¦ <lex>mf(आ)n.</lex> (√ <hom>3.</hom> विद्), not to be married, <ls>Mn. x, 24</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "अवेद्य",
+            "eid": "19201",
+            "pagenum": 111,
+            "content": "अ-वेद्य ¦ <lex>m.</lex> a calf, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अवेद्य",
+            "eid": "7063",
+            "pagenum": 98,
+            "content": "1. <i>a-vedya, as, ā, am,</i>¦ not to be known; unascertainable, secret."
+        },
+        {
+            "word": "अवेद्य",
+            "eid": "7064",
+            "pagenum": 98,
+            "content": "अवेद्य 2¦. <i>a-vedya, as, ā, am</i> (rt. 2. <i>vid</i>), not to be married; (<i>as</i>), m. a calf."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अवेद्य",
+            "eid": "11294",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अवेद्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>nicht zu erkennen</i>. <div n='1'>— 2〉 <lex>f.</lex> आ im <is>Sāṃkhya</is> <i>die Nichtanerkennung des</i> <is>Ahaṃkāra</is>."
+        },
+        {
+            "word": "अवेद्य",
+            "eid": "11295",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अवेद्य¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>nicht zu ehelichen</i> (Weib)."
+        },
+        {
+            "word": "अवेद्य",
+            "eid": "11296",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> *अवेद्य¦ <lex>m.</lex> <i>Kalb</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अवेद्य",
+            "eid": "6836",
+            "pagenum": 1,
+            "content": "अवेद्य¦ (3. अ + वेद्य von विद्, विन्दति) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> आ <i>nicht zu ehelichen</i>: अवेद्यावेदनेन <ls>M. 10, 24.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Kalb</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

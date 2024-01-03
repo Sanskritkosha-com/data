@@ -44,5 +44,49 @@
             "pagenum": 39,
             "content": "apavana¦ <i>n.</i> A park or forest planted in the vicinity of a town."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपवन",
+            "eid": "9677",
+            "pagenum": 52,
+            "content": "<hom>1.</hom> अ-पवन ¦ <lex>mfn.</lex> without air, sheltered from wind.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अपवन",
+            "eid": "9678",
+            "pagenum": 52,
+            "content": "<hom>2.</hom> अप-वन ¦ <lex>n.</lex> a grove, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपवन",
+            "eid": "3449",
+            "pagenum": 52,
+            "content": "अपवन 1¦. <i>a-pavana, as, ā, am,</i> without air, sheltered from wind."
+        },
+        {
+            "word": "अपवन",
+            "eid": "3450",
+            "pagenum": 52,
+            "content": "अपवन 2¦. <i>apa-vana, am,</i> n. a grove."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपवन",
+            "eid": "6223",
+            "pagenum": 1,
+            "content": "*अपवन¦ <lex>n.</lex> <i>Park</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपवन",
+            "eid": "3932",
+            "pagenum": 1,
+            "content": "अपवन¦ (1. अप + वन) <lex>n.</lex> <i>angepflanzter Wald, Park</i> <ls>H. 1111.</ls> <div n='v'>— Vgl. उपवन ."
+        }
     ]
 }

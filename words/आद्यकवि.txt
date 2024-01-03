@@ -7,5 +7,35 @@
             "pagenum": 100,
             "content": "Adya-kavi¦ <i>m.</i> the same as आदिकवि q.v."
         }
+    ],
+    "MW": [
+        {
+            "word": "आद्यकवि",
+            "eid": "23900",
+            "pagenum": 137,
+            "content": "आद्य—कवि ¦ <lex>m.</lex> ‘the first poet’, <ab>N.</ab> of <s1 slp1='vAlmIki'>Vālmīki</s1> (<ab>cf.</ab> आदि-कवि above), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आद्यकवि",
+            "eid": "23901",
+            "pagenum": 137,
+            "content": "¦ <ab>cf.</ab> <ls>Ragh. xv, 41.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आद्यकवि",
+            "eid": "14509",
+            "pagenum": 1,
+            "content": "*आद्यकवि¦ <lex>m.</lex> <ab>Bein.</ab> <is>Vālmīki</is>ʼs. <ab>Vgl.</ab> <ls>RAGH. 15,41</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आद्यकवि",
+            "eid": "8483",
+            "pagenum": 1,
+            "content": "आद्यकवि¦ (आ° + क°) <lex>m.</lex> <i>der Urdichter</i>, ein Beiname <is>Valmīki's</is> <ls>BHŪRIPR.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. आदिकवि ."
+        }
     ]
 }

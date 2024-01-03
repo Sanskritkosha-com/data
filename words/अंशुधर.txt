@@ -31,5 +31,29 @@
             "pagenum": 1,
             "content": "aMSu-Dara¦ <i>m.</i> the sun."
         }
+    ],
+    "MW": [
+        {
+            "word": "अंशुधर",
+            "eid": "58",
+            "pagenum": 1,
+            "content": "अंशु—धर ¦ <lex>m.</lex> ‘bearer of rays’, the sun, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अंशुधर",
+            "eid": "24",
+            "pagenum": 1,
+            "content": "*अंशुधर¦ <lex>m.</lex> <i>die Sonne</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अंशुधर",
+            "eid": "22",
+            "pagenum": 1,
+            "content": "अंशुधर¦ (अंशु <i>Strahl</i> + धर <i>tragend</i>) <lex>m.</lex> <i>Sonne</i> <ls>TRIK. 1, 1, 98.</ls>"
+        }
     ]
 }

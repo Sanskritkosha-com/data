@@ -23,5 +23,55 @@
             "pagenum": 275,
             "content": "<i>Rāṇa</i>¦ (EI 16, 23), same as <i>Rāṇaka;</i> see <i>Rāṇa-putra, rāṇa-kula.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "राण",
+            "eid": "177022",
+            "pagenum": 875,
+            "content": "राण ¦ <lex>m.</lex> <lex type='hw'>n.</lex> (√ <hom>2.</hom> रण्) murmuring, <ls>L.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "राण",
+            "eid": "177023",
+            "pagenum": 875,
+            "content": "राण ¦ <lex>n.</lex> a leaf, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "राण",
+            "eid": "177024",
+            "pagenum": 875,
+            "content": "¦ a peacock's tail, <ls>L.</ls> (<ab>cf.</ab> राज-राणक)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "राण",
+            "eid": "39354",
+            "pagenum": 841,
+            "content": "राण¦ <i>rāṇa, am,</i> n. (said to be fr. rt. <i>raṇ</i>), a leaf; a peacock's tail; (<i>as</i>), m. a proper N."
+        }
+    ],
+    "PW": [
+        {
+            "word": "राण",
+            "eid": "93706",
+            "pagenum": 5,
+            "content": "*राण¦ <lex>n.</lex> <div n='1'>— 1〉 <i>Blatt</i>. <div n='1'>— 2〉 <i>Pfauenschweif</i>. <div n='m'>— <ab>Vgl.</ab> <ab n='unter'>u.</ab> राजराणक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "राण",
+            "eid": "84349",
+            "pagenum": 6,
+            "content": "राण¦ <lex>n.</lex> <div n='1'> 1) <i>Blatt.</i> <div n='1'>— 2) <i>Pfauenschweif</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
+        },
+        {
+            "word": "राण",
+            "eid": "84355",
+            "pagenum": 6,
+            "content": "राण/¦ <lex>m.</lex> patron. von रण <is>gaṇa</is> पैलाद zu <ls>P. 2, 4, 59.</ls>"
+        }
     ]
 }

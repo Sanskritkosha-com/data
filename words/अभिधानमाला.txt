@@ -23,5 +23,35 @@
             "pagenum": 47,
             "content": "aBiDAna-mAlA¦ <i>f.</i> a dictionary, a lexicon."
         }
+    ],
+    "MW": [
+        {
+            "word": "अभिधानमाला",
+            "eid": "11524",
+            "pagenum": 63,
+            "content": "अभि-धान—माला ¦ <lex>f.</lex> a dictionary.<info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभिधानमाला",
+            "eid": "7370",
+            "pagenum": 1,
+            "content": "अभिधानमाला¦ <lex>f.</lex> <i>Wörterbuch</i> und Titel eines <ab>best.</ab> <i>Wörterbuchs</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभिधानमाला",
+            "eid": "4553",
+            "pagenum": 1,
+            "content": "अभिधानमाला¦ (अभिधान + माला) <lex>f.</lex> <i>Wörtersammlung</i> <ls>H. 19</ls>, <ls>Sch.</ls>"
+        },
+        {
+            "word": "अभिधानमाला",
+            "eid": "64442",
+            "pagenum": 5,
+            "content": "अभिधानमाला¦ auch Titel eines best. <i>Wörterbuchs</i> <ls>Verz. d. Oxf. H. 163,b,4</ls> v. u."
+        }
     ]
 }

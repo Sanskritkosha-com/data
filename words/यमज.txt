@@ -45,5 +45,35 @@
             "pagenum": 594,
             "content": "yama-ja¦ <i>a.</i> twin-born."
         }
+    ],
+    "MW": [
+        {
+            "word": "यमज",
+            "eid": "170414",
+            "pagenum": 846,
+            "content": "यम—ज (<ls>MBh.</ls>; <ls>Hariv.</ls> &c.) or यम—जात, यम—जा°तक (<ls>R.</ls>), ¦ <lex>mfn.</lex> twin-born<info or='170414,yamaja;170415,yamajAta;170416,yamajAtaka'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "यमज",
+            "eid": "170414.1",
+            "pagenum": 846,
+            "content": "यम—ज ¦ <lex>m.</lex> <ab>du.</ab> twins.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "यमज",
+            "eid": "90267",
+            "pagenum": 5,
+            "content": "यमज, °जात und °जातक¦ <lex>Adj.</lex> <i>von Geburt doppelt;</i> <lex>m.</lex> <ab>Du.</ab> <i>Zwillinge</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यमज",
+            "eid": "81542",
+            "pagenum": 6,
+            "content": "यमज¦ (2. यम + 1. ज) <lex>adj.</lex> <i>von Geburt doppelt</i>, <lex>m.</lex> du. <i>Zwillinge</i> <ls>MBH. 1, 5271.</ls> <ls n='MBH.'>3, 10858.</ls> <ls n='MBH. 3,'>15608.</ls> <ls>HARIV. 552.</ls> <ls>KATHĀS. 23, 91.</ls> <ls n='KATHĀS.'>63, 7.</ls> <ls>UTTARARĀMAC. 87, 7 (112, 3).</ls>"
+        }
     ]
 }

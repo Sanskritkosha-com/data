@@ -23,5 +23,35 @@
             "pagenum": 320,
             "content": "मन्त्रतस्¦ <i>Adv.</i> von Seiten der heiligen Sprüche."
         }
+    ],
+    "MW": [
+        {
+            "word": "मन्त्रतस्",
+            "eid": "157288",
+            "pagenum": 786,
+            "content": "मन्त्र—तस् ¦ <lex>ind.</lex> with respect to <ab n='sacred'>s°</ab> <ab n='text'>t°</ab>, from or by the <s1 slp1='mantra'>Mantra</s1>s, <ls>Mn.</ls>; <ls>R.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "मन्त्रतस्",
+            "eid": "157288.1",
+            "pagenum": 786,
+            "content": "¦ from advice, deliberately, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मन्त्रतस्",
+            "eid": "83090",
+            "pagenum": 5,
+            "content": "मन्त्रतस्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>von Seiten der heiligen Sprüche</i> <ls>ĀPAST. ŚR. 3,11,2</ls>. <div n='1'>— 2〉 <i>unter Hersagung heiliger Sprüche</i> <ls>R. GORR. 1,64,22</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मन्त्रतस्",
+            "eid": "57484",
+            "pagenum": 5,
+            "content": "मन्त्रतस्¦ (von मन्त्र) adv. <i>von Seiten der heiligen Sprüche</i>: यानि (कुलानि) हीनानि मन्त्रतः <ls>M. 3, 65.</ls> मन्त्रतस्तु समृद्धानि <ls n='M.'>66.</ls> <i>den heiligen Sprüchen gemäss</i>: पशुं मां मन्त्रतः प्रोक्ष्य <ls>R. GORR. 1, 64, 22.</ls>"
+        }
     ]
 }

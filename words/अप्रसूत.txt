@@ -7,5 +7,35 @@
             "pagenum": 123,
             "content": "अप्रसूत¦ <i><ab>a.</ab></i> Barren, childless."
         }
+    ],
+    "MW": [
+        {
+            "word": "अप्रसूत",
+            "eid": "10780",
+            "pagenum": 59,
+            "content": "अ/-प्रसूत ¦ <lex>mfn.</lex> (√ <hom>1.</hom> सू), not allowed, <ls>ŚāṅkhŚr.</ls> (of persons), <ls>ŚBr.</ls> (of things). <info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अप्रसूत",
+            "eid": "4006",
+            "pagenum": 58,
+            "content": "<i>A-prasūta, as, ā, am,</i>¦ not having offspring, barren, childless."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अप्रसूत",
+            "eid": "6953",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/प्रसूत¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>keine Erlaubniss habend</i> <ls>ŚĀṄKH. ŚR. 14,7,2</ls>. <div n='1'>— 2〉 <i>unerlaubt</i> <ls>ŚAT. BR. 4,1,4,3. 6</ls>."
+        },
+        {
+            "word": "अप्रसूत",
+            "eid": "6954",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अप्रसूत¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>nicht geboren habend, unfruchtbar</i> <ls>Spr. 2055</ls>. <ls>BHĀVAPR. 2,9</ls>."
+        }
     ]
 }

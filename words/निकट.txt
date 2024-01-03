@@ -90,5 +90,57 @@
             "pagenum": 376,
             "content": "nikawa¦ <i>(II) m.n.</i> Proximity.<P>(निकटे is used as an indeclinable in the sense of ‘near, at hand,’ वहति निकटे कालस्रोतः समस्तभयावहम् <ls>Sant.S.</ls>iii.2.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "निकट",
+            "eid": "10533",
+            "pagenum": 140,
+            "content": "निकट¦ ni-kaṭa, <lex>a.</lex> being at oneʼs side, near; 🞄<lex>n.</lex> proximity: <b>-m,</b> near, to (<ab>g.</ab> <i>or</i> <ab>—°</ab>); <ab>ab.</ab> from 🞄the neighbourhood of, away from; <ab>lc.</ab> near, 🞄beside, to; <b>-ga, -vartin, -stha,</b> <lex>a.</lex> standing 🞄near, being at hand."
+        }
+    ],
+    "MW": [
+        {
+            "word": "निकट",
+            "eid": "107815",
+            "pagenum": 544,
+            "content": "नि-कट ¦ <lex>mf(आ)n.</lex>, being at the side, near<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "निकट",
+            "eid": "107816",
+            "pagenum": 544,
+            "content": "नि-कट ¦ <lex>m.</lex> or <lex type='hw'>n.</lex> nearness, proximity (°टम् <lex type='phw'>ind.</lex> near to, towards, with <ab>gen.</ab> or <ab>comp.</ab>; °टे, <lex type='phw'>ind.</lex> <ab>id.</ab>, near, at hand; °टात् <lex type='phw'>ind.</lex>, away from), <ls>R.</ls>; <ls>Pañc.</ls>; <ls>Kathās.</ls> &c.<info phwchild='107816.1'/><info phwchild='107816.2'/><info phwchild='107816.3'/><info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निकट",
+            "eid": "24358",
+            "pagenum": 482,
+            "content": "निकट¦ <i>ni-kaṭa, as, ā, am,</i> situated at the side, near, proximate, close by; without neighbours, kinless?; (<i>as, am</i>), m. n. proximity; (<i>e</i>), ind. in the neighbourhood, at hand. <i>—Nikaṭī-bhūta, as, ā,</i> <i>am,</i> approached."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निकट",
+            "eid": "58195",
+            "pagenum": 3,
+            "content": "निकट¦ <lex>Adj.</lex> <i>zur Seite befindlich, nahe gelegen;</i> <ab>Subst.</ab> (*<lex>m.</lex> <lex>n.</lex>) <i>Nähe</i>. °टम् <i>in die Nähe von, hin zu</i> (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend); °टे <i>in der Nähe von, bei und auch hin zu</i> (<ls n='Chr.'>153,15</ls>); °टात् <i>aus der Nähe —, weg von</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निकट",
+            "eid": "38667",
+            "pagenum": 4,
+            "content": "निकट¦ (1. नि + कट) <lex>adj.</lex> <i>zur Seite befindlich, nahe gelegen</i>; subst. (m. <lex>n.</lex> <ls>SIDDH. K. 249,a,3. 4</ls>) <i>Nähe</i> <ls>AK. 3, 2, 16.</ls> <ls n='AK.'>3, 4, 32 (COLEBR. 28), 15.</ls> <ls>H. 1450.</ls> गम्यतां किंचिन्निकटं सरः <ls>PAÑCAT. 77, 15.</ls> निकटीभूत <i>der sich genähert hat</i> <ls>KATHĀS. 19, 87.</ls> आनीतां राजनिकटम् <i>in die Nähe von, zu</i> <ls n='KATHĀS.'>3, 73.</ls> स च प्राप निकटं भोगवर्मणः <ls n='KATHĀS.'>5, 68. 10, 96. 111. 157.</ls> <ls>VID. 81.</ls> <ls>RĀJA-TAR. 6, 14.</ls> <ls>Z. d. d. m. G. 14, 573, 9.</ls> निकटात् <ls>SOM. NAL. 105.</ls> <ls>RĀJA-TAR. 2, 165.</ls> निकटे <ls>P. 4, 4, 73.</ls> <ls>ŚĀNTIŚ. 3, 2.</ls> <ls>KATHĀS. 3, 75.</ls> <ls n='KATHĀS.'>6, 135.</ls> <ls>BHĀG. P. 8, 8, 24.</ls> <ls>PAÑCAT. 59, 7.</ls> निकटवर्तिन् <ls n='PAÑCAT.'>140, 25.</ls>"
+        },
+        {
+            "word": "निकट",
+            "eid": "77063",
+            "pagenum": 5,
+            "content": "निकट¦, निकटीभू <i>sich nähern</i>: °भूय <ls>KATHĀS. 102, 67.</ls> <ls n='KATHĀS.'>103, 3.</ls> °भूत <ls n='KATHĀS.'>61, 135.</ls> निकटग (Gegens. दूरग) <ls>VARĀH. BṚH. S. 24, 28.</ls>"
+        }
     ]
 }

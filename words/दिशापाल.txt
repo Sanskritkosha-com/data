@@ -7,5 +7,35 @@
             "pagenum": 333,
             "content": "diSA-pAla¦ <i>m.</i> See दिक्पाल."
         }
+    ],
+    "MW": [
+        {
+            "word": "दिशापाल",
+            "eid": "92612",
+            "pagenum": 480,
+            "content": "दिशा—पाल ¦ <lex>m.</lex> = दिक्-, <ls>Hariv. 273</ls><info lex='m'/>"
+        },
+        {
+            "word": "दिशापाल",
+            "eid": "92613",
+            "pagenum": 480,
+            "content": "¦ = दिक्-करिन्, <ls>R. i, 41, 16</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिशापाल",
+            "eid": "50428",
+            "pagenum": 3,
+            "content": "दिशापाल¦ <lex>m.</lex> <div n='1'>— 1〉 = दिक्पाल. <div n='1'>— 2〉 = दिक्करिन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिशापाल",
+            "eid": "33070",
+            "pagenum": 3,
+            "content": "दिशापाल¦ (दि° + पाल) <lex>m.</lex> <i>Hüter eines Himmelsstriches</i> <ls>HARIV. 273.</ls> = दिशागज <ls>R. 1, 41, 16.</ls> <ls n='R. 1,'>42, 11.</ls>"
+        }
     ]
 }

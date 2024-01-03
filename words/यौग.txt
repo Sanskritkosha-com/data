@@ -36,5 +36,43 @@
             "pagenum": 601,
             "content": "yOga¦ <i>m.</i> A follower of the <i>Yoga</i> philosophy."
         }
+    ],
+    "MW": [
+        {
+            "word": "यौग",
+            "eid": "172914",
+            "pagenum": 859,
+            "content": "<hom>1.</hom> यौग ¦ <lex>m.</lex> (<ab>fr.</ab> योग) a follower of the <s1 slp1='yoga'>Yoga</s1> system of philosophy, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "यौग",
+            "eid": "172915",
+            "pagenum": 859,
+            "content": "<hom>2.</hom> यौग ¦ <s1 slp1='vfdDi'>Vṛddhi</s1> form of युग in <ab>comp.</ab>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "यौग",
+            "eid": "38897",
+            "pagenum": 824,
+            "content": "यौग¦ <i>yauga, as,</i> m. (fr. <i>yoga</i>), a follower of the Yoga system of philosophy."
+        }
+    ],
+    "PW": [
+        {
+            "word": "यौग",
+            "eid": "91563",
+            "pagenum": 5,
+            "content": "*यौग¦ <lex>m.</lex> <i>ein Anhänger des</i> <is>Yoga</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यौग",
+            "eid": "82591",
+            "pagenum": 6,
+            "content": "यौग¦ <lex>m.</lex> <i>ein Anhänger der</i> <is>Yoga</is>-<i>Lehre</i> <ls>H. 862.</ls>"
+        }
     ]
 }

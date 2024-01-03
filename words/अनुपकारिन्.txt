@@ -47,5 +47,43 @@
             "pagenum": 116,
             "content": "<b>an-upakārin,</b>¦ <i><ab>a.</ab></i> not doing <i>or</i> unable to do a friendly service."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनुपकारिन्",
+            "eid": "1675",
+            "pagenum": 16,
+            "content": "अनुपकारिन्¦ an-upakārin, <lex>a.</lex> not doing <i>or</i> 🞄unable to do a friendly service."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनुपकारिन्",
+            "eid": "6578",
+            "pagenum": 34,
+            "content": "अन्-उपकारिन् ¦ <lex>mfn.</lex> not assisting, disobliging, ungrateful, not making a return for benefits received<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनुपकारिन्",
+            "eid": "6579",
+            "pagenum": 34,
+            "content": "¦ unserviceable, useless.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुपकारिन्",
+            "eid": "2239",
+            "pagenum": 35,
+            "content": "अनुपकारिन्¦ <i>an-upakārin, ī, iṇī, i,</i> not assisting, disobliging, ungrateful, not making a return for benefits received; unserviceable, useless."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुपकारिन्",
+            "eid": "4503",
+            "pagenum": 1,
+            "content": "अनुपकारिन्¦ <lex>Adj.</lex> <i>keinen Dienst erweisend oder zu erweisen vermögend</i> <ls n='Chr.'>140,30</ls>. <ls>KATHĀS. 22,28</ls>."
+        }
     ]
 }

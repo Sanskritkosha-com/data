@@ -44,5 +44,43 @@
             "pagenum": 312,
             "content": "<b>Gopendra</b>¦ = Kṛṣṇa: VI, 799 (<i>°syānuje jyeṣṭhe</i>, i.e. Durgā)."
         }
+    ],
+    "MD": [
+        {
+            "word": "गोपेन्द्र",
+            "eid": "7130",
+            "pagenum": 87,
+            "content": "गोपेन्द्र¦ gopa‿indra, <lex>m.</lex> chief of herdsmen, 🞄<ab>ep.</ab> <i>of</i> Kṛṣṇa; <b>-īśa,</b> <lex>m.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गोपेन्द्र",
+            "eid": "67912",
+            "pagenum": 368,
+            "content": "gope<srs/>ndra ¦ <lex>m.</lex> ‘chief herdsman’, <s1 slp1='kfzRa'>Kṛṣṇa</s1>, <ls>MBh. vi, 799</ls><info lex='m'/>"
+        },
+        {
+            "word": "गोपेन्द्र",
+            "eid": "67913",
+            "pagenum": 368,
+            "content": "¦ <ab>N.</ab> of the author of <s1 slp1='kAvyAlaMkAra-Denu'>Kāvyālaṃkāra-dhenu</s1>.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोपेन्द्र",
+            "eid": "36742",
+            "pagenum": 2,
+            "content": "गोपेन्द्र¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Oberhirt,</i> <ab>Bein.</ab> <is>Kṛṣṇa</is>ʼs. <div n='1'>— 2〉 <ab>N. pr.</ab> des Verfassers der <is>Kāvyālaṃkāradhenu</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोपेन्द्र",
+            "eid": "23233",
+            "pagenum": 2,
+            "content": "गोपेन्द्र¦ (गोप + इन्द्र) <lex>m.</lex> <i>Oberhirt</i>, ein Beiname <is>Kṛṣṇa's</is> <ls>H. 218.</ls> <ls>MBH. 6, 799.</ls>"
+        }
     ]
 }

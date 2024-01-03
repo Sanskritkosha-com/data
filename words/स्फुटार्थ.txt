@@ -29,5 +29,49 @@
             "pagenum": 815,
             "content": "sPuwa-arTa¦ <i>a.</i> intelligible, obvious, significant."
         }
+    ],
+    "MD": [
+        {
+            "word": "स्फुटार्थ",
+            "eid": "20076",
+            "pagenum": 368,
+            "content": "स्फुटार्थ¦ sphuṭa‿artha, <lex>a.</lex> having a clear sense, 🞄intelligible: <b>-tā,</b> <lex>f.</lex> distinctness."
+        }
+    ],
+    "MW": [
+        {
+            "word": "स्फुटार्थ",
+            "eid": "256903",
+            "pagenum": 1270,
+            "content": "sPuwA<srs/>rTa ¦ <lex>m.</lex> clear sense or meaning, <ls>Śak.</ls>, <ab>Sch.</ab><info lex='m'/>"
+        },
+        {
+            "word": "स्फुटार्थ",
+            "eid": "256904",
+            "pagenum": 1270,
+            "content": "sPuwA<srs/>rTa ¦ <lex>mfn.</lex> having clear sense, perspicuous, intelligible (-ता <lex type='phw'>f.</lex>), <ls>Śiś.</ls><info phwchild='256904.1'/><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्फुटार्थ",
+            "eid": "131572",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> स्फुटार्थ¦ <lex>m.</lex> <i>der deutliche, offenbare Sinn</i>."
+        },
+        {
+            "word": "स्फुटार्थ",
+            "eid": "131573",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> स्फुटार्थ¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>deutlich, verständlich</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>ŚIŚ. 12,9</ls>. <div n='1'>— 2〉 <lex>m.</lex> Titel eines Commentars."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्फुटार्थ",
+            "eid": "114496",
+            "pagenum": 7,
+            "content": "स्फुटार्थ¦ (स्फुट + अर्थ) <lex>m.</lex> <i>der deutliche, offenbare Sinn</i> <ls>Schol.</ls> zu <ls>ŚĀK. 41.</ls> Titel eines Commentars (wohl <lex>adj.</lex> comp. <i>dessen Sinn klar ist</i>) <ls>BURNOUF, Intr. 563.</ls>"
+        }
     ]
 }

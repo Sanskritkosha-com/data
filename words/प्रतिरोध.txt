@@ -39,5 +39,49 @@
             "pagenum": 467,
             "content": "pratiroDa¦ <i>m.</i> 1. Impediment, hindrance; 2. siege, blockade; 3. theft, robbery; 4. abuse, censure."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रतिरोध",
+            "eid": "132981",
+            "pagenum": 669,
+            "content": "प्रति-°रोध ¦ <lex>m.</lex> opposition, impediment, obstruction (-कर <lex type='phw'>mfn.</lex> obstructing, <ls>Suśr.</ls>)<info phwchild='132982.1'/><info lex='m'/>"
+        },
+        {
+            "word": "प्रतिरोध",
+            "eid": "132982",
+            "pagenum": 669,
+            "content": "¦ = तिरस्कार, व्युत्थान, चौर्य, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रतिरोध",
+            "eid": "31219",
+            "pagenum": 619,
+            "content": "<i>Prati-rodha, as,</i>¦ m. opposition, impediment, obstruction, hinderance, stoppage; an opponent; concealing, hiding; siege, blockade; theft, robbery."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रतिरोध",
+            "eid": "71409",
+            "pagenum": 4,
+            "content": "प्रतिरोध¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Hemmniss, Verstopfung</i>. °कर <lex>Adj.</lex> <i>Verstopfend</i>. <div n='1'>— 2〉 *= व्युत्थान, तिरस्कार, चौर्य."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रतिरोध",
+            "eid": "48511",
+            "pagenum": 4,
+            "content": "प्रतिरोध¦ (wie eben) <lex>m.</lex> = व्युत्थान <ls>AK. 3, 4, 18, 121.</ls> = तिरस्कार <ls>BHAR.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> = सत्प्रतिपक्ष nach <ls>ŚKDR.</ls> in der Stelle: पक्षसाध्यसाधनाप्रसिद्धिस्वरूपासिद्धिबाधप्रतिरोधानां निरासः (इति सव्यभिचारशिरोमणिः). = चौर्य <i>Diebstahl, Raub</i> (aus प्रतिरोधिन् geschlossen) <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "प्रतिरोध",
+            "eid": "79217",
+            "pagenum": 5,
+            "content": "प्रतिरोध¦ <i>Hemmniss, Verstopfung</i>: अन्त्रप्रतिरोधकर <ls>SUŚR. 2, 90, 5.</ls>"
+        }
     ]
 }

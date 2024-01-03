@@ -31,5 +31,45 @@
             "pagenum": 297,
             "content": "qama¦ <i>m.</i> A despised mixed caste."
         }
+    ],
+    "MD": [
+        {
+            "word": "डम",
+            "eid": "8245",
+            "pagenum": 104,
+            "content": "डम¦ ḍam-a, <lex>m.</lex> <ab>N.</ab> <i>of a despised mixed caste</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "डम",
+            "eid": "81341",
+            "pagenum": 430,
+            "content": "डम ¦ <lex>m.</lex> a despised mixed caste (son of a <s1 slp1='cARqAli'>Cāṇḍāli</s1> and a <s1 slp1='lewa'>Leṭa</s1>), <ls>BrahmaP.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "डम",
+            "eid": "20163",
+            "pagenum": 356,
+            "content": "डम¦ <i>ḍama, as,</i> m. a despised mixed caste (commonly Ḍom), the son of a Cāṇḍālī and a Leṭa, employed to clear away filth &c."
+        }
+    ],
+    "PW": [
+        {
+            "word": "डम",
+            "eid": "43901",
+            "pagenum": 2,
+            "content": "डम¦ <lex>m.</lex> <i>eine <ab>best.</ab> verachtete Mischlingskaste</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "डम",
+            "eid": "28247",
+            "pagenum": 3,
+            "content": "डम¦ <lex>m.</lex> <i>eine verachtete Mischlingskaste</i> (vulg. डोम), im System <i>der Sohn einer</i> <is>Kāṇḍālī</is> <i>und eines</i> <is>Leṭa</is> <ls>BRAHMAVAIV-P.</ls> im <ls>ŚKDR.</ls> Nach <ls>WILS.</ls> mit dem Forttragen der Unreinigkeiten beschäftigt. Vgl. <ls>LIA. I, 386.</ls> <ls>POTT, Zig. I, 42.</ls>"
+        }
     ]
 }

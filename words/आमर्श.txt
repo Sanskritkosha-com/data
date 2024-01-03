@@ -31,5 +31,63 @@
             "pagenum": 104,
             "content": "AmarSa¦ <i>m.</i> Advice, counsel."
         }
+    ],
+    "MD": [
+        {
+            "word": "आमर्श",
+            "eid": "3725",
+            "pagenum": 40,
+            "content": "आमर्श¦ ā-marśa, <lex>m.</lex> contact."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आमर्श",
+            "eid": "25489",
+            "pagenum": 146,
+            "content": "आ-मर्श <hom>a</hom> ¦ See आ-√ मृश्."
+        },
+        {
+            "word": "आमर्श",
+            "eid": "25590",
+            "pagenum": 147,
+            "content": "आ-मर्श <hom>b</hom> ¦ <lex>m.</lex> touching, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आमर्श",
+            "eid": "25591",
+            "pagenum": 147,
+            "content": "¦ contact<info lex='inh'/>"
+        },
+        {
+            "word": "आमर्श",
+            "eid": "25592",
+            "pagenum": 147,
+            "content": "¦ nearness, similarity, <ls>ĀśvŚr. ii, 2, 13, 32.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आमर्श",
+            "eid": "8943",
+            "pagenum": 126,
+            "content": "<i>Ā-marśa, as,</i>¦ m. advice, counsel."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आमर्श",
+            "eid": "15167",
+            "pagenum": 1,
+            "content": "आमर्श¦ <lex>m.</lex> <i>Berührung, Anklang</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आमर्श",
+            "eid": "118788",
+            "pagenum": 7,
+            "content": "आमर्श¦ <lex>m.</lex> <i>Berührung, Anklang</i>: हौत्रामर्श <ls>ĀŚV. ŚR. 8, 13, 32.</ls>"
+        }
     ]
 }

@@ -47,5 +47,41 @@
             "pagenum": 690,
             "content": "veda-vid¦ <i>m.</i> a Brāhmaṇa conversant with the Vedas."
         }
+    ],
+    "MW": [
+        {
+            "word": "वेदविद्",
+            "eid": "205788",
+            "pagenum": 1016,
+            "content": "वेद—वि/द् ¦ <lex>mfn.</lex> knowing the <ab n='Veda' slp1='veda'>V°</ab>, conversant with it (<ab>superl.</ab> -वित्-तम, <ls>Mn. v, 107</ls>), <ls>ŚBr.</ls> &c. &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "वेदविद्",
+            "eid": "205789",
+            "pagenum": 1016,
+            "content": "वेद—वि/द् ¦ <lex>m.</lex> a <ns>Brāhman</ns> versed in the <ab n='Veda' slp1='veda'>V°</ab>, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वेदविद्",
+            "eid": "205790",
+            "pagenum": 1016,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वेदविद्",
+            "eid": "107146",
+            "pagenum": 6,
+            "content": "वेदवि/द्¦ <lex>Adj.</lex> <is>Veda</is>-<i>kundig</i>. <ab>Superl.</ab> वेदवित्तम."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वेदविद्",
+            "eid": "95335",
+            "pagenum": 6,
+            "content": "वेदवि/द्¦ <lex>adj.</lex> <is>Veda</is>-<i>kundig</i> <ls>ŚAT. BR. 14, 6, 7, 4.</ls> <ls>ŚĀṄKH. GṚHY. 4, 1. 4.</ls> <ls>M. 2, 78. 3, 179. 7, 38</ls> u.s.w. <ls>WEBER, JYOT. 110.</ls> <ls>BHAG. 8, 11. 15, 1. 15.</ls> <ls>MBH. 3, 2074.</ls> <ls n='MBH. 3,'>2450.</ls> <ls n='MBH.'>5, 6063.</ls> <ls n='MBH. 5,'>7132.</ls> <ls>R. 1, 5, 21.</ls> <ls n='R. 1,'>6, 1.</ls> <ls>ŚĀK. CH. 18, 8.</ls> अ° <ls>M. 4, 192.</ls> वेदवेदाङ्गविद् <ls>R. 1, 1, 15.</ls> वेदवित्तम <ls>M. 5, 107.</ls>"
+        }
     ]
 }

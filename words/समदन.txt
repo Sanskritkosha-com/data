@@ -35,5 +35,47 @@
             "pagenum": 1479,
             "content": "<b>sa-mádana,</b>¦ <ab>n.</ab>, <i>Kampflust, Kampf</i>. <div n='TS'>-asya kartā́ (índras) {100,6}."
         }
+    ],
+    "MW": [
+        {
+            "word": "समदन",
+            "eid": "233426",
+            "pagenum": 1154,
+            "content": "स-म/दन ¦ <lex>n.</lex> conflict, strife, <ls>RV.</ls><info lex='n'/>"
+        },
+        {
+            "word": "समदन",
+            "eid": "233427",
+            "pagenum": 1154,
+            "content": "स-म/दन ¦ <lex>mf(आ)n.</lex> impassioned, enamoured, <ls>Mṛcch.</ls>; <ls>Vās.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "समदन",
+            "eid": "233428",
+            "pagenum": 1154,
+            "content": "¦ furnished with thorn-apple trees, <ls>Vās.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "समदन",
+            "eid": "119843",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सम/दन¦ <lex>n.</lex> <i>Streit, Händel</i>."
+        },
+        {
+            "word": "समदन",
+            "eid": "119844",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> समदन¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>verliebt</i> <ls n='Chr.'>300,27</ls>. <ls>MṚCCH. 86,19</ls>. [Page7-054-a] <ls>VĀSAV. 87,2</ls>. <div n='1'>— 2〉 <i>mit Stechapfel-Bäumen versehen</i> <ls>VĀSAV. 87,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समदन",
+            "eid": "105257",
+            "pagenum": 7,
+            "content": "सम/दन¦ <lex>n.</lex> wohl = समद्. स म^न्यु\\मीः स\\मद^नस्य क\\र्ता <ls>ṚV. 1, 100, 6.</ls> सऽमदन <ls>PADAP.</ls>"
+        }
     ]
 }

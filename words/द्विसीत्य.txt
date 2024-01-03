@@ -15,5 +15,29 @@
             "pagenum": 350,
             "content": "dvi-sItya¦ <i>a.</i> ploughed lengthwise and breadthwise."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विसीत्य",
+            "eid": "98764",
+            "pagenum": 506,
+            "content": "द्वि—सीत्य ¦ <lex>mfn.</lex> twice ploughed, <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विसीत्य",
+            "eid": "54173",
+            "pagenum": 3,
+            "content": "*द्विसीत्य¦ <lex>Adj.</lex> <i>zweimal gepflügt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विसीत्य",
+            "eid": "35879",
+            "pagenum": 3,
+            "content": "द्विसीत्य¦ (द्वि + सीता) <lex>adj.</lex> <i>zweimal gepflügt</i> <ls>AK. 2, 9, 9.</ls> <ls>H. 968.</ls>"
+        }
     ]
 }

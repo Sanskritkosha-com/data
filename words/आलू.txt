@@ -28,5 +28,27 @@
             "pagenum": 67,
             "content": "आलू¦ <lex>f.</lex> a small water-jar; <lex>n.</lex> raft, float."
         }
+    ],
+    "MW": [
+        {
+            "word": "आलू",
+            "eid": "26870.1",
+            "pagenum": 154,
+            "content": "आलू <hom>a</hom> ¦ <lex>f.</lex> (ऊस्) a pitcher, a small water-jar, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "आलू",
+            "eid": "26897",
+            "pagenum": 154,
+            "content": "आ-√ लू <hom>b</hom> ¦ <ab>P.</ab> -लुनाति, to cut, cut off; <div n='to'/>to pluck off.<info verb='pre' cp='P' parse='A+lU'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आलू",
+            "eid": "9412",
+            "pagenum": 1,
+            "content": "आलू¦ <lex>f.</lex> s. u. आलु ."
+        }
     ]
 }

@@ -61,5 +61,51 @@
             "pagenum": 432,
             "content": "pAradeSya¦ <i>(II) m.</i> A foreigner."
         }
+    ],
+    "MD": [
+        {
+            "word": "पारदेश्य",
+            "eid": "11511",
+            "pagenum": 161,
+            "content": "पारदेश्य¦ pāra-deś-ya, <lex>a.</lex> belonging to <i>or</i> coming 🞄from another country (para-deśa), foreign."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पारदेश्य",
+            "eid": "122519",
+            "pagenum": 620,
+            "content": "पार—देश्य ¦ <lex>mfn.</lex> (<ls>Yājñ.</ls>) (-देश) outlandish, foreign, abroad<info lex='m:f:n'/>"
+        },
+        {
+            "word": "पारदेश्य",
+            "eid": "122519.1",
+            "pagenum": 620,
+            "content": "पार—देश्य ¦ <lex>m.</lex> a traveller or a foreigner.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पारदेश्य",
+            "eid": "28898",
+            "pagenum": 567,
+            "content": "<i>Pāradeśya, as, śī, am,</i>¦ belonging to or coming from a foreign country, foreign; (<i>as</i>), m. a traveller, one who has gone to a foreign country; a foreigner; [cf. Lat. <nsi>per-egrinus.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पारदेश्य",
+            "eid": "66210",
+            "pagenum": 4,
+            "content": "पारदेश्य¦ <lex>Adj.</lex> <i>aus einem fremden Lande herstammend, ausländisch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पारदेश्य",
+            "eid": "44632",
+            "pagenum": 4,
+            "content": "पारदेश्य¦ (wie eben) <lex>adj.</lex> <i>aus einem fremden Lande herstammend, ausländisch</i>: पण्य <ls>YĀJÑ. 2, 252.</ls>"
+        }
     ]
 }

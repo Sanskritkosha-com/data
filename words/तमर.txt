@@ -28,5 +28,37 @@
             "pagenum": 285,
             "content": "तमर¦ <i>tamara</i> <ab>n.</ab> plomb."
         }
+    ],
+    "MW": [
+        {
+            "word": "तमर",
+            "eid": "83007",
+            "pagenum": 438,
+            "content": "तमर ¦ <lex>n.</lex> tin, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तमर",
+            "eid": "20470",
+            "pagenum": 364,
+            "content": "तमर¦ <i>tamara, am,</i> n. tin; lead (?)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तमर",
+            "eid": "44690",
+            "pagenum": 3,
+            "content": "*तमर¦ <lex>n.</lex> <i>Zinn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तमर",
+            "eid": "28820",
+            "pagenum": 3,
+            "content": "तमर¦ <lex>n.</lex> <i>Zinn</i> <ls>H. 1042.</ls>"
+        }
     ]
 }

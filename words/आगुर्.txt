@@ -29,5 +29,63 @@
             "pagenum": 59,
             "content": "आगुर्¦ <lex>f.</lex> acclamation (<ab>(r.)</ab>)."
         }
+    ],
+    "MD": [
+        {
+            "word": "आगुर्",
+            "eid": "3425",
+            "pagenum": 37,
+            "content": "आगुर्¦ ā-gur, <lex>f.</lex> ritual response."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आगुर्",
+            "eid": "22646",
+            "pagenum": 130,
+            "content": "<hom>1.</hom> आ-√ गुर् ¦ <ab>Ā.</ab> -गुरते (<ab>Impv.</ab> 2. <ab>sg.</ab> -गुरस्व) to approve, agree or assent to (<ab>acc.</ab>), <ls>RV. iii, 52, 2</ls>; <ls>AV. v, 20, 4</ls>; <ls>TBr.</ls>; <div n='to'/> (<ab>Pot.</ab> -गुरेत) to pronounce the <s1 slp1='Agur'>Āgur</s1> (See the next), <ls>AitBr.</ls><info verb='pre' cp='Ā' parse='A+gur'/>"
+        },
+        {
+            "word": "आगुर्",
+            "eid": "22647",
+            "pagenum": 130,
+            "content": "<hom>2.</hom> आ-गुर् ¦ <lex>f.</lex> <ab>N.</ab> of applauding or approving exclamations or formularies (used by the priests at sacrificial rites), <ls>AitBr.</ls>; <ls>ĀśvŚr.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आगुर्",
+            "eid": "8051",
+            "pagenum": 113,
+            "content": "आगुर् 1¦. <i>ā-gur,</i> cl. 6. A. <i>-gurate, -ritum</i> (<i>gur</i> = rt. <i>gṝ,</i> see <i>ā-gṝ</i>), to approve, to agree or assent to, to promise, to pronounce the Āgur."
+        },
+        {
+            "word": "आगुर्",
+            "eid": "8052",
+            "pagenum": 113,
+            "content": "2. <i>ā-gur, ūr,</i>¦ f., Ved., N. of a class of plauditory or approving exclamations or formularies used by the priests in sacrificial rites; assent, an agreement."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आगुर्",
+            "eid": "13659",
+            "pagenum": 1,
+            "content": "आगुर्¦ <lex>f.</lex> <i>zustimmender Ausruf,</i> <ab>Bez.</ab> <i><ab>best.</ab> Formeln in priesterlichen Responsorien</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आगुर्",
+            "eid": "7970",
+            "pagenum": 1,
+            "content": "आगुर्¦ (von गुर् = गर्, गृणाति mit आ) <lex>f.</lex> <i>zustimmender Ausruf</i>; so heissen Formeln in priesterlichen Responsorien: तद्यदेवात्र मैत्रावरुणो द्विरागुरते सैव होतुरागूः <ls>AIT. BR. 2, 28.</ls> ये३ यजामह इत्यागूः <ls>ĀŚV. ŚR. 1, 5.</ls> अस्य यज्ञस्यागुर उदृचमशीय <ls n='ĀŚV. ŚR.'>4, 3.</ls> = प्रतिज्ञा <ls>AK. 1, 1, 4, 14.</ls> <ls>H. 278.</ls> <ls>SĀY.</ls> Die Erklärer zu <ls>AK.</ls> stellen aus Missverständniss auch eine Form आगू auf."
+        },
+        {
+            "word": "आगुर्",
+            "eid": "118716",
+            "pagenum": 7,
+            "content": "आगुर्¦ <ls>ĀŚV. ŚR. 3, 8, 7.</ls>"
+        }
     ]
 }

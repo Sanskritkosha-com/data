@@ -36,5 +36,41 @@
             "pagenum": 509,
             "content": "bIja-pUra¦ <i>(I) m.</i> common citron."
         }
+    ],
+    "MW": [
+        {
+            "word": "बीजपूर",
+            "eid": "145427",
+            "pagenum": 732,
+            "content": "बीज—पूर <hom>a</hom> ¦ <lex>m.</lex> (<ls>Suśr.</ls>) ‘seed-filled’, a citron, <bot>Citrus Medica</bot><info lex='m'/>"
+        },
+        {
+            "word": "बीजपूर",
+            "eid": "145427.1",
+            "pagenum": 732,
+            "content": "बीज—पूर <hom>b</hom> ¦ <lex>n.</lex> a citron, <ls>Kathās.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बीजपूर",
+            "eid": "77163",
+            "pagenum": 4,
+            "content": "बीजपूर¦ <lex>m.</lex>, °क <lex>m.</lex>, °पूरी (<ls>PAÑCAD.</ls>) und °पूर्ण <lex>m.</lex> <i><bot>Citrus medica</bot>;</i> <lex>n.</lex> <i>Citrone</i> <ls>RĀJAN. 11,149</ls>. <ls>BHĀVAPR. 1,249</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बीजपूर",
+            "eid": "52795",
+            "pagenum": 5,
+            "content": "बीजपूर¦ (बीज + पूर) <lex>m.</lex> <i>Citrus medica Lin.; Citrone</i> <ls>AK. 2, 4, 2, 59.</ls> <ls>H. 1150.</ls> <ls>RATNAM. 66.</ls> °रस <ls>SUŚR. 2, 453, 8. 496, 2</ls> (fälschlich °पुर) . <ls>ŚĀRṄG. SAṂH. 2, 1, 12. 27. 2, 14.</ls> °पूरक dass. <ls>MBH. 3, 11568.</ls> <ls>R. 2, 91, 30</ls> (<ls n='GORR. 2,'>100, 27</ls> <ls>GORR.</ls>). <ls n='R.'>3, 17, 8.</ls> <ls>BHĀG. P. 8, 2, 11.</ls> <ls>SUŚR. 1, 215, 15. 2, 328, 11. 425, 16. 462, 3.</ls>"
+        },
+        {
+            "word": "बीजपूर",
+            "eid": "79955",
+            "pagenum": 5,
+            "content": "बीजपूर¦, °क <lex>m.</lex> <i>der Baum</i> <ls>HARIV. 12680.</ls> <lex>n.</lex> <i>die Frucht</i> <ls>KATHĀS. 53, 58.</ls>"
+        }
     ]
 }

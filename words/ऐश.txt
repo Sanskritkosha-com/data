@@ -39,5 +39,57 @@
             "pagenum": 155,
             "content": "ESa¦ <i>a. (f. शी)</i> 1. Belonging to Śiva; 2. divine; 3. regal."
         }
+    ],
+    "MD": [
+        {
+            "word": "ऐश",
+            "eid": "5209",
+            "pagenum": 59,
+            "content": "ऐश¦ aiśa, <lex>a.</lex> belonging to Śiva (īśa)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ऐश",
+            "eid": "40545",
+            "pagenum": 234,
+            "content": "ऐश ¦ <lex>mfn.</lex> (<ab>fr.</ab> ईश), relating to or coming from <s1 slp1='Siva'>Śiva</s1>, <s1 slp1='Siva'>Śiva</s1>-like, <ls>BhP.</ls>; <ls>AgP.</ls>; <ls>Ragh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ऐश",
+            "eid": "40546",
+            "pagenum": 234,
+            "content": "¦ divine, supreme, regal.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऐश",
+            "eid": "12915",
+            "pagenum": 188,
+            "content": "ऐश¦ <i>aiśa, as, ī, am</i> (fr. <i>īśa</i>), proceeding from or relating to Śiva; divine, supreme, regal."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऐश",
+            "eid": "22565",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> ऐश¦ <lex>Adj.</lex> <i>von</i> <is>Śiva</is> <i>herrührend, ihm gehörig</i> <ls>AGNI-P. 27. 73</ls>."
+        },
+        {
+            "word": "ऐश",
+            "eid": "22566",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> ऐश¦ <ab>3.</ab> <ab>Sg.</ab> <ab>Imperf.</ab> von <hom>1.</hom> इश् <ls>MAITR. S. 1,6,8</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऐश",
+            "eid": "13731",
+            "pagenum": 1,
+            "content": "ऐश¦ (von ईश) <lex>adj.</lex> <i>von</i> <is>Śiva</is> <i>herrührend, ihm gehörig</i>: तेजस् <ls>RAGH. 2, 75.</ls> धनुस् <ls>BHĀG. P. 9, 10, 6.</ls>"
+        }
     ]
 }

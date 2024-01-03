@@ -39,5 +39,45 @@
             "pagenum": 13,
             "content": "adeSa¦ <i>m.</i> 1. A bad or improper place; 2. a bad country."
         }
+    ],
+    "MD": [
+        {
+            "word": "अदेश",
+            "eid": "940",
+            "pagenum": 9,
+            "content": "अदेश¦ a-deśa, <lex>m.</lex> wrong place."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अदेश",
+            "eid": "3778",
+            "pagenum": 19,
+            "content": "अ-देश ¦ <lex>m.</lex> a wrong place, an improper place.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अदेश",
+            "eid": "1054",
+            "pagenum": 19,
+            "content": "अदेश¦ <i>a-deśa, as,</i> m. (rt. <i>diś</i>), a wrong place, an improper place. <i>—A-deśa-kāla, am,</i> n. wrong place and time. <i>—Adeśa-ja, as, ā, am,</i> grown in a wrong place. <i>—Adeśa-stha, as, ā, am,</i> out of place, in the wrong place, one absent from his country, an absentee."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अदेश",
+            "eid": "2533",
+            "pagenum": 1,
+            "content": "अदेश¦ <lex>m.</lex> <i>unrechter Ort</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अदेश",
+            "eid": "1753",
+            "pagenum": 1,
+            "content": "अदेश¦ (3. अ + देश) <lex>m.</lex> <i>der unrechte Ort</i>: अदेशे वा वचनं व्यञ्जनस्य <ls>ṚV. PRĀT. 14, 5.</ls> स्त्रियं स्पृशेददेशे यः <ls>M. 8, 358.</ls> अदेशस्थो हि रिपुणा स्वल्पकेनापि बाध्यते <ls>HIT. IV, 45.</ls> अदेशज <i>am unrechten Orte gewachsen</i> (von Pflanzen) <ls>SUŚR. 1, 224, 20.</ls> u. s. w."
+        }
     ]
 }

@@ -23,5 +23,43 @@
             "pagenum": 467,
             "content": "pratisaMvid¦ <i>f.</i> An accurate knowledge of anything."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रतिसंविद्",
+            "eid": "133331",
+            "pagenum": 672,
+            "content": "प्रति-सं-√ विद् <hom>a</hom> ¦ <ab>Caus.</ab> -वेदयति, to recognize (?), <ls>Divyāv.</ls> (<ab>Ā.</ab> <ab>p.</ab> -वेदयमान, feeling, <ls>ib.</ls>)<info verb='pre' cp='Ā' parse='prati+sam+vid'/>"
+        },
+        {
+            "word": "प्रतिसंविद्",
+            "eid": "133332",
+            "pagenum": 672,
+            "content": "प्रति-°संविद् <hom>b</hom> ¦ <lex>f.</lex> analytical science (4 with <ns>Buddhists</ns>), <ls>Dharmas. 51</ls>; <ls>Lalit.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रतिसंविद्",
+            "eid": "31406",
+            "pagenum": 621,
+            "content": "प्रतिसंविद्¦ <i>prati-saṃvid, t,</i> f. (fr. rt. <i>vid</i> with <i>prati-sam</i>), an accurate understanding of the particulars of anything. <i>—Pratisaṃvit-prāpta, as,</i> m., N. of a Bodhi-sattva."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रतिसंविद्",
+            "eid": "71617",
+            "pagenum": 4,
+            "content": "प्रतिसंविद्¦ <lex>f.</lex> <i>Genaues Verständniss im Einzelnen</i> <ls>LALIT. 39,8</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रतिसंविद्",
+            "eid": "48665",
+            "pagenum": 4,
+            "content": "प्रतिसंविद्¦ (विद् mit प्रतिसम्) <lex>f.</lex> <i>genaues Verständniss im Einzelnen</i>: धर्म°, अर्थ°, निरुक्ति°, प्रतिभान° <ls>VYUTP. 7.</ls> <ls>BURNOUF</ls> in <ls>Lot. de la b. l. 838. fgg.</ls> <ls>KÖPPEN I, 409.</ls> °विन्निश्चय <ls>VYUTP. 23.</ls>"
+        }
     ]
 }

@@ -23,5 +23,43 @@
             "pagenum": 493,
             "content": "सामिष¦ mit Fleisch."
         }
+    ],
+    "MD": [
+        {
+            "word": "सामिष",
+            "eid": "19259",
+            "pagenum": 347,
+            "content": "सामिष¦ sa‿āmiṣa, <lex>a.</lex> possessed of prey; 🞄provided with meat (<i>funeral feast</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सामिष",
+            "eid": "242501",
+            "pagenum": 1206,
+            "content": "sA<srs/>miza ¦ <lex>mf(आ)n.</lex> possessed of flesh or prey, <ls>BhP.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "सामिष",
+            "eid": "242502",
+            "pagenum": 1206,
+            "content": "¦ provided with meat (as a <s1 slp1='SrAdDa'>Śrāddha</s1>), <ls>Mn. iv, 131.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सामिष",
+            "eid": "124182",
+            "pagenum": 7,
+            "content": "सामिष¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>mit Fleisch —, mit einer Beute versehen</i>. <div n='1'>— 2〉 <i>nebst Fleisch</i>. <div n='1'>— 3〉 सामिषा (<ab>v. l.</ab> सामिका) संहिता (?)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सामिष",
+            "eid": "108517",
+            "pagenum": 7,
+            "content": "सामिष¦ (2. स + आमिष) <lex>adj.</lex> <i>mit Fleisch —, mit einer Beute versehen</i>: कुरर <ls>Spr. (II) 7015. fg.</ls> <i>nebst Fleisch</i>: श्राद्ध <ls>M. 4, 131.</ls> — सामिषा (v. l. सामिका) संहिता <ls>Verz. d. Oxf. H. 56,a,2.</ls>"
+        }
     ]
 }

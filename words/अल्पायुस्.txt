@@ -21,5 +21,35 @@
             "pagenum": 70,
             "content": "alpa-Ayus¦ <i>(II) m.</i> a goat."
         }
+    ],
+    "MW": [
+        {
+            "word": "अल्पायुस्",
+            "eid": "16911",
+            "pagenum": 96,
+            "content": "alpA<srs/>yus ¦ <lex>mfn.</lex> shortlived, <ls>Mn. iv, 157</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अल्पायुस्",
+            "eid": "16912",
+            "pagenum": 96,
+            "content": "¦ ‘of few years’, a goat, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अल्पायुस्",
+            "eid": "10152",
+            "pagenum": 1,
+            "content": "अल्पायुस्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>ein kurzes Leben habend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>Ziege</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अल्पायुस्",
+            "eid": "6227",
+            "pagenum": 1,
+            "content": "अल्पायुस्¦ (अ° + आ°) <div n='1'> 1) <lex>adj.</lex> <i>ein kurzes Leben habend</i> <ls>M. 4, 157.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Ziege</i> <ls>TRIK. 2, 9, 25.</ls>"
+        }
     ]
 }

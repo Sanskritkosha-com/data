@@ -45,5 +45,87 @@
             "pagenum": 616,
             "content": "la¦ <i>m.</i> 1. An epithet of Indra; 2. a short syllable (in prosody); 3. Pāṇini’s technical term for all the tenses and moods (in gram.)."
         }
+    ],
+    "MD": [
+        {
+            "word": "ल",
+            "eid": "15439",
+            "pagenum": 259,
+            "content": "ल¦ la, <lex>m.</lex> <i>techinical term embracing all tenses 🞄and moods</i> = finite verb (<i>also applied to some 🞄forms with primary suffixes construed like the 🞄finite verb</i>): <b>-kāra,</b> <lex>m.</lex> letter l."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ल",
+            "eid": "180308",
+            "pagenum": 891,
+            "content": "<hom>1.</hom> ल ¦ the 3rd semivowel (corresponding to the vowels ऌ, ॡ, and having the sound of the English <i>l</i>) <pb n='891,3'/>"
+        },
+        {
+            "word": "ल",
+            "eid": "180308.1",
+            "pagenum": 891,
+            "content": "¦ a technical term for all the tenses and moods of a finite verb or for the terminations of those tenses and moods (also applied to some forms with कृत् affixes construed like a finite verb, <ls>Pāṇ. ii, 3, 69</ls>; <ab>cf.</ab> <ls n='Pāṇ.'>iii, 2, 124</ls>, and when accompanied by certain indicatory letters denoting each tense separately See लट्; लङ्; लिङ्; लोट्; लिट्; लुट्; ऌट्; लुङ्; ऌङ्; लेट्), <ls>Pāṇ. iii, 4, 69</ls>; <ls n='Pāṇ. iii, 4'>77</ls>, <ab>Sch.</ab>"
+        },
+        {
+            "word": "ल",
+            "eid": "180312",
+            "pagenum": 891,
+            "content": "<hom>2.</hom> ल ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ल",
+            "eid": "180313",
+            "pagenum": 891,
+            "content": "¦ cutting (? <ab>cf.</ab> लव), <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ल",
+            "eid": "180315",
+            "pagenum": 891,
+            "content": "<hom>3.</hom> ल ¦ (in prosody) = लघु, a short syllable."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ल",
+            "eid": "40002",
+            "pagenum": 857,
+            "content": "ल 1¦. <i>la,</i> the twenty-eighth consonant of the Nāgarī alphabet, being the semivowel of the vowels <i>ḷ, ḹ,</i> and having the sound of the English <i>l</i>. <i>—La-kāra, as,</i> m. the letter or sound <i>la</i>. <i>—La-</i> <i>kāra-vāda, as,</i> m., N. of a work."
+        },
+        {
+            "word": "ल",
+            "eid": "40003",
+            "pagenum": 857,
+            "content": "ल 2¦. <i>la,</i> Pāṇini's general or technical term for all the tenses and moods or verbal terminations."
+        },
+        {
+            "word": "ल",
+            "eid": "40004",
+            "pagenum": 857,
+            "content": "ल 3¦. <i>la, as,</i> m., N. of Indra; cutting (?)."
+        },
+        {
+            "word": "ल",
+            "eid": "40005",
+            "pagenum": 857,
+            "content": "ल 4¦. <i>la</i> (for <i>laghu</i>), a short syllable."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ल",
+            "eid": "95263",
+            "pagenum": 5,
+            "content": "ल¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der gemeinschaftliche Name für alle Tempora und Modi, Verbum finitum;</i> übertragen auch auf <i>einige</i> <is>Kṛt</is>-<i>Suffixe, die wie ein Verbum finitum construirt werden</i> <ls n='Chr.'>238,23. fgg.</ls> <div n='1'>— 2〉 *<ab>Bein.</ab> <is>Indra</is>ʼs. <div n='1'>— 3〉 *<i>cutting</i>. — ला <lex>f.</lex> <ab>s.</ab> <ab>bes.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ल",
+            "eid": "85606",
+            "pagenum": 6,
+            "content": "ल¦ <lex>m.</lex> <div n='1'> 1) ein N. <is>Indra's</is> <ls>TRIK. 1, 1, 57.</ls> <ls>MED. l. 1.</ls> <div n='1'>— 2) <i>cutting</i> <ls>WILSON</ls> nach <ls>ŚABDAR.</ls>"
+        }
     ]
 }

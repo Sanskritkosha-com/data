@@ -37,5 +37,65 @@
             "pagenum": 318,
             "content": "tri-veda¦ <i>m.</i> a Brāhmaṇa who knows the three <i>Vedas</i>."
         }
+    ],
+    "MW": [
+        {
+            "word": "त्रिवेद",
+            "eid": "88304",
+            "pagenum": 460,
+            "content": "त्रि—वेद <hom>a</hom> ¦ in <ab>comp.</ab> the 3 <s1 slp1='veda'>Veda</s1>s, <ls>KātyŚr. xxv</ls>"
+        },
+        {
+            "word": "त्रिवेद",
+            "eid": "88304.2",
+            "pagenum": 460,
+            "content": "त्रि—वेद ¦ <lex>mfn.</lex> familiar with the 3 <s1 slp1='veda'>Veda</s1>s, <ls>Mn. ii, 118</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "त्रिवेद",
+            "eid": "88304.3",
+            "pagenum": 460,
+            "content": "त्रि—वेद ¦ <lex>m.</lex> = त्रयी-देह, <ls>Hcat. i</ls><info lex='m'/>"
+        },
+        {
+            "word": "त्रिवेद",
+            "eid": "88304.41",
+            "pagenum": 1328,
+            "content": "त्रि—वेद <hom>b</hom> ¦ <lex>m.</lex> (with कृष्ण-राश-लौहित्य) <ab>N.</ab> of a teacher, <ls>JaimUp.</ls><info n='sup'/><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "त्रिवेद",
+            "eid": "47813",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> त्रिवेद¦ am <ab>Anf.</ab> eines <ab>Comp.</ab> und °वेदी <lex>f.</lex> <i>die drei</i> <is>Veda</is>."
+        },
+        {
+            "word": "त्रिवेद",
+            "eid": "47814",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> त्रिवेद¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>mit den drei</i> <is>Veda</is> <i>vertraut</i>. <div n='1'>— 2〉 <i>die drei</i> <is>Veda</is> <i>in sich bergend</i> (die Sonne) <ls>HEMĀDRI 1,591,9</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "त्रिवेद",
+            "eid": "31156",
+            "pagenum": 3,
+            "content": "1. त्रिवेद¦ (त्रि + वेद) <i>die drei</i> <is>Veda</is>, am Anf. eines comp.: °संयोग <ls>KĀTY. ŚR. 25, 14, 37.</ls> °वेदी <lex>f.</lex> dass. <ls>TRIK. 3, 3, 312.</ls>"
+        },
+        {
+            "word": "त्रिवेद",
+            "eid": "31157",
+            "pagenum": 3,
+            "content": "2. त्रिवेद¦ (wie eben) <lex>adj.</lex> <i>mit den drei</i> <is>Veda</is> <i>vertraut</i> <ls>M. 2, 118.</ls> त्रिवेदिन् dass. <ls>COLEBR. Misc. Ess. I, 13.</ls>"
+        },
+        {
+            "word": "त्रिवेद",
+            "eid": "75348",
+            "pagenum": 5,
+            "content": "2. त्रिवेद¦, त्रिवेदिन् als Beiw. <is>Viṣṇu's</is> wohl so v. a. <i>die drei</i> <is>Veda</is> <i>in sich enthaltend</i> <ls>R. 7, 37, 5, 48.</ls>"
+        }
     ]
 }

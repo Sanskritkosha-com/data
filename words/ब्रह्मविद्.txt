@@ -51,5 +51,41 @@
             "pagenum": 512,
             "content": "brahman-vid¦ <i>a.</i> knowing the supreme spirit, possessed of sacred knowledge."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्मविद्",
+            "eid": "147014",
+            "pagenum": 740,
+            "content": "ब्रह्म—वि/द् ¦ <lex>mfn.</lex> knowing the one <s1 slp1='brahma'>Brahmă</s1>, a Vedic philosopher, <ls>AV.</ls> &c. &c. (also -विद)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "ब्रह्मविद्",
+            "eid": "147015",
+            "pagenum": 740,
+            "content": "¦ skilled in sacred spells or magic, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ब्रह्मविद्",
+            "eid": "147016",
+            "pagenum": 740,
+            "content": "ब्रह्म—वि/द् ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>RTL. 84</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्मविद्",
+            "eid": "78059",
+            "pagenum": 4,
+            "content": "ब्रह्मवि/द्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>das Heilige kennend, Theolog, Philosoph</i>. <div n='1'>— 2〉 <i>zauberkundig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्मविद्",
+            "eid": "53503",
+            "pagenum": 5,
+            "content": "ब्रह्मवि/द्¦ (1. ब्रह्मन् + विद्) <lex>adj.</lex> <ls>P. 3, 2, 61</ls>, <ls>Sch.</ls> <i>das Heilige kennend, Theolog, Philosoph</i>: देवाः <ls>AV. 10, 7, 24.</ls> <ls n='AV. 10, 7,'>27.</ls> <ls n='AV. 10,'>8, 43.</ls> <ls n='AV.'>19, 43, 1.</ls> यो वै तत्सूत्रं विद्यात्स ब्रह्मवित् <ls>ŚAT. BR. 14, 6, 7, 4. 7, 2, 11. 12.</ls> <ls>TBR. 1, 4, 8, 6.</ls> <ls>KAUŚ. 73.</ls> <ls>MUṆḌ. UP. 1, 1, 4.</ls> <ls>TAITT. UP. 2, 1.</ls> <ls>Spr. 4134. 4633.</ls> <ls>SĀH. D. 83.</ls> <i>ein Zauberkundiger</i> <ls>MBH. 3, 2625.</ls>"
+        }
     ]
 }

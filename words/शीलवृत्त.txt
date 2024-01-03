@@ -13,5 +13,35 @@
             "pagenum": 550,
             "content": "2 शीलवृत्त¦ <lex>a.</lex> well-conducted, moral."
         }
+    ],
+    "MW": [
+        {
+            "word": "शीलवृत्त",
+            "eid": "218699",
+            "pagenum": 1079,
+            "content": "शील—वृत्त ¦ <lex>n. <ab>sg.</ab></lex> or <lex type='hw'>m. <ab>du.</ab></lex> <ab n='virtue'>v°</ab> and good conduct (-धर <lex type='phw'>mfn.</lex> and -विद् <lex type='phw'>mfn.</lex> holding or knowing <ab n='virtue'>v°</ab> and <ab n='good'>g°</ab> <ab n='conduct'>c°</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls><info phwchild='218700.1'/><info phwchild='218700.2'/><info lex='m:n'/>"
+        },
+        {
+            "word": "शीलवृत्त",
+            "eid": "218700",
+            "pagenum": 1079,
+            "content": "शील—वृत्त ¦ <lex>mfn.</lex> virtuous and well-conducted, <ls>MBh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शीलवृत्त",
+            "eid": "113145",
+            "pagenum": 6,
+            "content": "शीलवृत्त¦ <lex>n.</lex> <ab>Sg.</ab> und <ab>Du.</ab> <i>Ehrenhaftigkeit und gutes Benehmen</i>. °धर <ls>Spr. 6477</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शीलवृत्त",
+            "eid": "100055",
+            "pagenum": 7,
+            "content": "शीलवृत्त¦ <lex>n.</lex> <i>Ehrenhaftigkeit und gutes Benehmen</i>; du. <ls>MBH. 13, 2339.</ls> sg. <ls>Spr. (II) 71.</ls> <ls>R. 1, 58, 20</ls> (<ls n='GORR. 1,'>60, 23</ls> <ls>GORR.</ls>). <ls n='R. 1,'>77, 24.</ls> °विद् <ls n='R.'>2, 113, 16.</ls>"
+        }
     ]
 }

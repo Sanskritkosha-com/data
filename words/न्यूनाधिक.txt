@@ -23,5 +23,27 @@
             "pagenum": 400,
             "content": "nyUna-aDika¦ <i>a.</i> less or more, unequal."
         }
+    ],
+    "MW": [
+        {
+            "word": "न्यूनाधिक",
+            "eid": "113013",
+            "pagenum": 573,
+            "content": "nyUnA<srs/>Dika ¦ <lex>mfn.</lex> less or more, unequal<info lex='m:f:n'/>"
+        },
+        {
+            "word": "न्यूनाधिक",
+            "eid": "113014",
+            "pagenum": 573,
+            "content": "nyUnA<srs/>Dika ¦ <lex>n.</lex> inequality, difference, <ls>ŚāṅkhGṛ.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "न्यूनाधिक",
+            "eid": "61534",
+            "pagenum": 3,
+            "content": "न्यूनाधिक¦ <lex>Adj.</lex> <i>zu wenig oder zu viel;</i> <lex>n.</lex> substantivisch <ls>ŚĀṄKH. GṚHY. 6,6</ls>. <ls>DAIV. BR.</ls> am Ende."
+        }
     ]
 }

@@ -76,5 +76,55 @@
             "pagenum": 382,
             "content": "niyuta¦ <i>n.</i> 1. A million; 2. a hundred thousand; 3. ten thousand krores."
         }
+    ],
+    "MW": [
+        {
+            "word": "नियुत",
+            "eid": "109192",
+            "pagenum": 552,
+            "content": "नि/-°युत <hom>a</hom> ¦ <lex>mfn.</lex> (नि/-) fixed, fastened, <ls>RV. i, 121, 3</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "नियुत",
+            "eid": "109192.1",
+            "pagenum": 552,
+            "content": "नि/-°युत ¦ <lex>m.</lex> or <lex type='hw'>n.</lex> a very high number, generally a million, <ls>Br.</ls>; <ls>Pur.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "नियुत",
+            "eid": "109247",
+            "pagenum": 552,
+            "content": "नि-युत <hom>b</hom> ¦ See under नि-यु, <ab>col.</ab> 2"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नियुत",
+            "eid": "24888",
+            "pagenum": 491,
+            "content": "<i>Ni-yuta, am,</i>¦ n. (according to some lexicographers also m.), a million; a hundred thousand; 100 Ayutas = 10, 000 Koṭis."
+        },
+        {
+            "word": "नियुत",
+            "eid": "24907",
+            "pagenum": 491,
+            "content": "नियुत¦ <i>ni-yuta.</i> See under 2. <i>ni-yu,</i> col. 1."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नियुत",
+            "eid": "58822",
+            "pagenum": 3,
+            "content": "नियुत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>2.</hom> यु mit नि. <div n='1'>— 2〉 (*<lex>m.</lex>) <lex>n.</lex> <i>eine <ab>best.</ab> Zahl,</i> gewöhnlich <i>Million</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नियुत",
+            "eid": "39109",
+            "pagenum": 4,
+            "content": "नियुत¦ (wie eben) <lex>n.</lex> (nach <ls>AK. 3, 6, 3, 24</ls> auch m.) <i>Million (eine Reihe</i>) <ls>PAÑCAV. BR. 17, 14, 2.</ls> <ls>ŚĀṄKH. ŚR. 15, 11, 7.</ls> <ls>PURĀṆA</ls> im <ls>ŚKDR.</ls> = लक्ष <i>Hunderttausend</i> <ls>H. 873</ls>, <ls>Sch.</ls>  <ls>RATNAK.</ls> und <ls>ŚRĪDHARASVĀMIN</ls> im <ls>ŚKDR.</ls> = 100 <is>Ayuta</is> = 10000 <is>Koṭi</is> <ls>LALIT. 140. - 67. 143.</ls> <ls>BHĀG. P. 5, 16, 5. 9, 20, 28.</ls>"
+        }
     ]
 }

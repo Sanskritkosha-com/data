@@ -37,5 +37,43 @@
             "pagenum": 566,
             "content": "mAqa¦ <i>m.</i> 1. A species of tree; 2. weight, measure."
         }
+    ],
+    "MW": [
+        {
+            "word": "माड",
+            "eid": "162070",
+            "pagenum": 806,
+            "content": "माड ¦ <lex>m.</lex> measure, weight, quantity, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "माड",
+            "eid": "162071",
+            "pagenum": 806,
+            "content": "¦ <bot>Caryota Urens</bot>, <ls>L.</ls> (also मडा-द्रुम; <ab>cf.</ab> मद्य-द्°). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "माड",
+            "eid": "36897",
+            "pagenum": 767,
+            "content": "<i>Māḍa, as,</i>¦ m. measure, weight, quantity; a species of tree (<i>= madya-druma,</i> also read <i>māḍā-druma</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "माड",
+            "eid": "85717",
+            "pagenum": 5,
+            "content": "*माड¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Maass, Quantität</i>. <div n='1'>— 2〉 <i><bot>Caryota urens</bot></i> <ls>RĀJAN. 9,95</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "माड",
+            "eid": "59534",
+            "pagenum": 5,
+            "content": "माड¦ <lex>m.</lex> <div n='1'> 1) <i>Maass, Quantität</i> (vgl. माड्) <ls>WILSON.</ls> <div n='1'>— 2) <i>ein best. Baum</i> (wohl aus मद्य entstanden), = मद्यद्रुम; auch माडाद्रुम <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

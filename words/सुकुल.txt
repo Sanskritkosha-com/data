@@ -27,5 +27,47 @@
             "pagenum": 498,
             "content": "2. सुकुल¦ aus edlem Geschlecht."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुकुल",
+            "eid": "245478",
+            "pagenum": 1220,
+            "content": "सु—कुल ¦ <lex>n.</lex> a noble family, <ls>Kāv.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सुकुल",
+            "eid": "245479",
+            "pagenum": 1220,
+            "content": "सु—कुल ¦ <lex>mf(आ)n.</lex> sprung from a <ab n='noble'>n°</ab> <ab n='family'>f°</ab>, <ls>ib.</ls>; <ls>Pañcat.</ls><info lex='m:f#A:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुकुल",
+            "eid": "125681",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सुकुल¦ <lex>m.</lex> <i>ein edles Geschlecht</i>. °ज <lex>Adj.</lex> und °जन्मन् <lex>n.</lex>"
+        },
+        {
+            "word": "सुकुल",
+            "eid": "125682",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सुकुल¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>aus edlem Geschlechte stammend</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुकुल",
+            "eid": "109746",
+            "pagenum": 7,
+            "content": "1. सुकुल¦ <lex>n.</lex> <i>ein edles Geschlecht</i>: °ज <ls>Spr. (II) 6117, v. l.</ls> °जन्मन् <ls n='Spr. (II)'>7057.</ls>"
+        },
+        {
+            "word": "सुकुल",
+            "eid": "109747",
+            "pagenum": 7,
+            "content": "2. सुकुल¦ <lex>adj.</lex> <i>aus edlem Geschlechte stammend</i> <ls>Spr. (II) 2743.</ls> <ls n='Spr. (II)'>7056.</ls> <ls n='Spr. (II)'>7058.</ls> <ls n='Spr. (II)'>7225.</ls>"
+        }
     ]
 }

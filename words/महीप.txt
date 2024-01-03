@@ -39,5 +39,35 @@
             "pagenum": 564,
             "content": "mahI-pa¦ <i>m.</i> a king, <ls>Bg.</ls>i.20, <ls>R.</ls>vi.12, ii.34."
         }
+    ],
+    "MW": [
+        {
+            "word": "महीप",
+            "eid": "161561",
+            "pagenum": 803,
+            "content": "मही—प ¦ <lex>m.</lex> ‘earth-protector’, a king, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "महीप",
+            "eid": "161562",
+            "pagenum": 803,
+            "content": "¦ <ab>N.</ab> of a lexicographer, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महीप",
+            "eid": "85368",
+            "pagenum": 5,
+            "content": "महीप¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Fürst, König</i>. <div n='1'>— 2〉 <ab>N. pr.</ab> eines Lexicographen."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महीप",
+            "eid": "59267",
+            "pagenum": 5,
+            "content": "महीप¦ (म° + 2. प) <lex>m.</lex> <div n='1'> 1) <i>Beschützer der Erde, Fürst, König</i> <ls>MBH. 1, 3974.</ls> <ls n='MBH.'>7, 82.</ls> <ls>Spr. 2516.</ls> <div n='1'>— 2) N. pr. eines Lexicographen <ls>Verz. d. Oxf. H. 351,b, No. 832. 352,a,22.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 45.</ls>"
+        }
     ]
 }

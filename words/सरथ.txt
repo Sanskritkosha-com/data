@@ -47,5 +47,49 @@
             "pagenum": 765,
             "content": "saraTa¦ <i>m.</i> A warrior riding in a chariot."
         }
+    ],
+    "MW": [
+        {
+            "word": "सरथ",
+            "eid": "237715",
+            "pagenum": 1183,
+            "content": "स/—रथ <hom>a</hom> ¦ (स/-), <lex>mf(आ)n.</lex> together with the chariot, <ls>ŚBr.</ls>; <ls>MBh.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "सरथ",
+            "eid": "237715.2",
+            "pagenum": 1183,
+            "content": "स/—रथ ¦ <lex>m.</lex> a warrior or <s1 slp1='kzatriya'>Kṣatriya</s1> (as riding in a <ab n='chariot'>ch°</ab>), <ls>MW.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सरथ",
+            "eid": "237790",
+            "pagenum": 1183,
+            "content": "स-रथ <hom>b</hom>, ¦ °थिन्. See <ab>col.</ab> 1."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सरथ",
+            "eid": "51377",
+            "pagenum": 1093,
+            "content": "सरथ¦ <i>sa-ratha, as, ā, am,</i> having a car or chariot, possessing a carriage; riding in the same car; (<i>as</i>), m. a warrior or Kṣatriya (as riding in a chariot). <i>—Sa-ratha-pādāta, as, ā, am,</i> accompanied by or along with chariots and infantry."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सरथ",
+            "eid": "121387",
+            "pagenum": 7,
+            "content": "स/रथ¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>sammt Wagen</i> <ls>MBH. 8,78,67</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सरथ",
+            "eid": "106442",
+            "pagenum": 7,
+            "content": "स/रथ¦ (2. स + रथ) <lex>adj.</lex> (f. आ) <i>sammt Wagen</i> <ls>ŚAT. BR. 5, 4, 3, 23.</ls> <ls>KAṬHOP. 1, 25.</ls> <ls>MBH. 5, 7213.</ls>"
+        }
     ]
 }

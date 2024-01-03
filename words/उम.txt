@@ -7,5 +7,43 @@
             "pagenum": 340,
             "content": "उमः¦ <b>1</b> A town. <b>--2</b> A wharf."
         }
+    ],
+    "MW": [
+        {
+            "word": "उम",
+            "eid": "37159",
+            "pagenum": 217,
+            "content": "उम ¦ <lex>m.</lex> a city, town, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "उम",
+            "eid": "37160",
+            "pagenum": 217,
+            "content": "¦ a wharf, landing-place, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उम",
+            "eid": "12294",
+            "pagenum": 173,
+            "content": "उम¦ <i>uma, as,</i> m. a city, a town; a wharf, a landing-place."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उम",
+            "eid": "20539",
+            "pagenum": 1,
+            "content": "उम¦ <div n='1'>— 1〉 *<lex>m.</lex> <div n='2'>— a〉 <i>Stadt</i>. <div n='2'>— b〉 <i>Landungsplatz</i>. <div n='1'>— 2〉 <lex>f.</lex> उ/मा <div n='2'>— a〉 <i>Flachs</i>. °फल <lex>n.</lex> <ls>KAUŚ. 33</ls>. <div n='2'>— b〉 <i>Gelbwurz</i> <ls>CARAKA. 6,13</ls>. <div n='2'>— c〉 *<i>Glanz</i>. <div n='2'>— d〉 *<i>Ruhm</i>. <div n='2'>— e〉 *<i>Ruhe</i>. <div n='2'>— f〉 *<i>Nacht</i>. <div n='2'>— g〉 <ab>N. pr.</ab> <div n='3'>— α〉 einer Tochter des <is>Himavant</is> und Gattin <is>Śiva-Rudra</is>ʼs. <div n='3'>— β〉 verschiedener Frauen. <div n='2'>— h〉 <ab>Bez.</ab> <i>eines 7jährigen Mädchens, das bei der</i> <is>Durgā</is>-<i>Feier diese Göttin vertritt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उम",
+            "eid": "12394",
+            "pagenum": 1,
+            "content": "उम¦ <lex>m.</lex> <div n='1'> 1) <i>Stadt.</i> <div n='1'>— 2) <i>Landungsplatz</i> <ls>H. an. 2, 315.</ls>"
+        }
     ]
 }

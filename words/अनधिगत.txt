@@ -39,5 +39,43 @@
             "pagenum": 115,
             "content": "<b>an-adhigata,</b>¦ <i><ab>a.</ab></i> un-studied."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनधिगत",
+            "eid": "1200",
+            "pagenum": 11,
+            "content": "अनधिगत¦ an-adhi-gata, <ab>pp.</ab> not reached, 🞄unattained; unread."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनधिगत",
+            "eid": "4883",
+            "pagenum": 24,
+            "content": "अन्-अधिगत ¦ <lex>mfn.</lex> not obtained, not acquired<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनधिगत",
+            "eid": "4884",
+            "pagenum": 24,
+            "content": "¦ not studied.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनधिगत",
+            "eid": "1440",
+            "pagenum": 25,
+            "content": "अनधिगत¦ <i>an-adhigata, as, ā, am,</i> not obtained, not acquired; not studied. <i>—Anadhigata-</i> <i>manoratha, as, ā, am,</i> disappointed. <i>—Anadhigata-</i> <i>śāstra, as, ā, am,</i> unacquainted with the Śāstras."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनधिगत",
+            "eid": "3306",
+            "pagenum": 1,
+            "content": "अनधिगत¦ <lex>Adj.</lex> <i>nicht erreicht</i> <ls n='Chr.'>163,17</ls>."
+        }
     ]
 }

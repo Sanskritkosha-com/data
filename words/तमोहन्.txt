@@ -31,5 +31,47 @@
             "pagenum": 304,
             "content": "tamohan¦ <i>m.</i> 1. the sun; 2. the moon."
         }
+    ],
+    "MW": [
+        {
+            "word": "तमोहन्",
+            "eid": "82999",
+            "pagenum": 438,
+            "content": "तमो—ह/न् ¦ <lex>mfn.</lex> striking down or dispersing darkness, <ls n='RV.'>i, 140, 1</ls>;<ls n='RV.'>iii, 39, 3</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "तमोहन्",
+            "eid": "83000",
+            "pagenum": 438,
+            "content": "तमो—ह/न् ¦ <lex>m.</lex> fire, <ls>Gal.</ls><info lex='m'/>"
+        },
+        {
+            "word": "तमोहन्",
+            "eid": "83001",
+            "pagenum": 438,
+            "content": "¦ <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तमोहन्",
+            "eid": "83002",
+            "pagenum": 438,
+            "content": "¦ <s1 slp1='Siva'>Śiva</s1>, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तमोहन्",
+            "eid": "44741",
+            "pagenum": 3,
+            "content": "तमोह/न्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>das Dunkel niederschlagend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <div n='2'>— a〉 <i>Feuer</i> <ls>GAL.</ls> <div n='2'>— b〉 <ab>Bein.</ab> <div n='3'>— α〉 <is>Viṣṇu</is>ʼs <ls>GAL.</ls> <div n='3'>— β〉 <is>Śiva</is>ʼs <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तमोहन्",
+            "eid": "28862",
+            "pagenum": 3,
+            "content": "तमोह/न्¦ (तमस् + हन्) <lex>adj.</lex> <i>das Dunkel niederschlagend</i> <ls>ṚV. 1, 140, 1.</ls> <ls n='ṚV.'>3, 39, 3.</ls>"
+        }
     ]
 }

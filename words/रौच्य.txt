@@ -36,5 +36,75 @@
             "pagenum": 547,
             "content": "रौच्य¦ <i>raucya</i> <ab>m.</ab> ascète portant un bâton de <s1 slp1='vilva'>vilva</s1>."
         }
+    ],
+    "MW": [
+        {
+            "word": "रौच्य",
+            "eid": "180190",
+            "pagenum": 890,
+            "content": "रौच्य ¦ <lex>m.</lex> (<ab>fr.</ab> रुच्य = बिल्व) a staff of <s1 slp1='bilva'>Bilva</s1> wood, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रौच्य",
+            "eid": "180191",
+            "pagenum": 890,
+            "content": "¦ an ascetic with a staff of <ab n='Bilva' slp1='bilva'>B°</ab> <ab n='wood'>w°</ab>, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रौच्य",
+            "eid": "180192",
+            "pagenum": 890,
+            "content": "¦ (<ab>fr.</ab> रुचि) <ab>N.</ab> of the 13th (9th) <s1 slp1='manu'>Manu</s1>, <ls>Hariv.</ls>; <ls>Pur.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रौच्य",
+            "eid": "180193",
+            "pagenum": 890,
+            "content": "रौच्य ¦ <lex>mfn.</lex> belonging to <s1 slp1='manu'>Manu</s1> <s1 slp1='rOcya'>Raucya</s1>, <ls>MārkP.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रौच्य",
+            "eid": "39958",
+            "pagenum": 856,
+            "content": "<i>Raucya, as,</i>¦ m. (fr. <i>rucya = bilva</i>), a staff of Bilva wood; (according to some) an ascetic with a staff of Bilva wood, a patronymic of the thirteenth Manu; of the ninth Manu, (in these senses fr. <i>ruci</i>); (<i>as,</i> &c.), of or belonging to the thirteenth Manu."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "रौच्य",
+            "eid": "11836",
+            "pagenum": 3,
+            "content": "<i>Raucya</i> (I)¦ — see Manu (s.v.). <div n='P'/>Br. II. 36. 4; IV. 1. 95."
+        },
+        {
+            "word": "रौच्य",
+            "eid": "11837",
+            "pagenum": 3,
+            "content": "<i>Raucya</i> (II)¦ — a son of Ruci, a Prajāpati of the Vaivasvata epoch;<sup>1</sup> the ninth Manu.<sup>2</sup> <F>1) Br. IV. 1. 50.</F> <F>2) M. 9. 35; Vā. 100. 54.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रौच्य",
+            "eid": "95193",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> रौच्य¦ <lex>m.</lex> <div n='1'>— 1〉 *<i>ein Stab aus</i> <is>Bilva</is>-<i>Holz</i>. <div n='1'>— 2〉 <ab>Patron.</ab> des 13ten (9ten) <is>Manu</is>. Auch <ab>Pl.</ab>"
+        },
+        {
+            "word": "रौच्य",
+            "eid": "95194",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> रौच्य¦ <lex>Adj.</lex> <i>zu</i> <is>Manu</is> <is>Raucya</is> <i>in Beziehung stehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रौच्य",
+            "eid": "85549",
+            "pagenum": 6,
+            "content": "रौच्य¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>ein Stab aus <is>Bilva</is>-Holz</i> <ls>H. 815</ls> (nach dem Comm. von रुच्य = बिल्व). <div n='2'>— b) patron. (von रुचि) des 13ten <is>Manu</is> <ls>HARIV. 410.</ls> <ls n='HARIV.'>490.</ls> <ls>VP. 269.</ls> <ls>MĀRK. P. 53, 8</ls> (pl.!). <ls n='MĀRK. P.'>94, 27. 97, 20. 98, 7.</ls> des 9ten <ls>VP. 268, N. 1.</ls> <div n='1'>— 2) <lex>adj.</lex> von 1) <i>b)</i>: मन्वन्तर <ls>MĀRK. P. 100, 39.</ls>"
+        }
     ]
 }

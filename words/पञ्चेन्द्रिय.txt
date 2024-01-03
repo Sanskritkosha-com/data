@@ -15,5 +15,47 @@
             "pagenum": 230,
             "content": "पञ्चेन्द्रिय¦ fünf Sinnesorgane habend."
         }
+    ],
+    "MW": [
+        {
+            "word": "पञ्चेन्द्रिय",
+            "eid": "114121",
+            "pagenum": 578,
+            "content": "paYce<srs/>ndriya ¦ <lex>n.</lex> the 5 organs of sense (<ab>viz.</ab> the eye, ear, nose, tongue, and skin) or the 5 organs of action (<ab>viz.</ab> hands, feet, larynx, and organs of generation and excretion), <ls>W.</ls><info lex='n'/>"
+        },
+        {
+            "word": "पञ्चेन्द्रिय",
+            "eid": "114122",
+            "pagenum": 578,
+            "content": "¦ <ab>pl.</ab> <ab>N.</ab> of a tale<info lex='inh'/>"
+        },
+        {
+            "word": "पञ्चेन्द्रिय",
+            "eid": "114123",
+            "pagenum": 578,
+            "content": "paYce<srs/>ndriya ¦ <lex>mfn.</lex> having the 5 organs of sense, <ls>MBh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पञ्चेन्द्रिय",
+            "eid": "62217",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> पञ्चेन्द्रिय¦ <lex>n.</lex> <ab>Pl.</ab> Titel eines Werkes <ls>OPP. CAT. 1</ls>."
+        },
+        {
+            "word": "पञ्चेन्द्रिय",
+            "eid": "62218",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> पञ्चेन्द्रिय¦ <lex>Adj.</lex> <i>fünf Sinnesorgane habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पञ्चेन्द्रिय",
+            "eid": "41614",
+            "pagenum": 4,
+            "content": "पञ्चेन्द्रिय¦ (पञ्चन् + इन्द्रिय) <lex>adj.</lex> <i>fünf Sinnesorgane habend</i> <ls>H. 22.</ls> <ls>MBH. 5, 1047</ls> = <ls n='MBH.'>12, 8782.</ls>"
+        }
     ]
 }

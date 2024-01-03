@@ -15,5 +15,43 @@
             "pagenum": 188,
             "content": "kiwwAla¦ <i>m.</i> 1. A copper vessel; 2. rust of iron &c."
         }
+    ],
+    "MW": [
+        {
+            "word": "किट्टाल",
+            "eid": "50256",
+            "pagenum": 282,
+            "content": "किट्टाल ¦ <lex>m.</lex> rust of iron, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "किट्टाल",
+            "eid": "50257",
+            "pagenum": 282,
+            "content": "¦ a copper vessel, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "किट्टाल",
+            "eid": "14753",
+            "pagenum": 229,
+            "content": "<i>Kiṭṭāla, as,</i>¦ m. scoria, rust of iron &c.; a copper vessel."
+        }
+    ],
+    "PW": [
+        {
+            "word": "किट्टाल",
+            "eid": "27830",
+            "pagenum": 2,
+            "content": "*किट्टाल¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Eisenrost</i>. <div n='1'>— 2〉 <i>ein kupferner Krug</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "किट्टाल",
+            "eid": "17203",
+            "pagenum": 2,
+            "content": "किट्टाल¦ (von किट्ट) <lex>m.</lex> <div n='1'> 1) <i>Eisenrost.</i> <div n='1'>— 2) <i>ein kupferner Krug</i> <ls>H. an. 3, 636.</ls> <ls>MED. l. 76.</ls>"
+        }
     ]
 }

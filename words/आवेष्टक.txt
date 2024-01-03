@@ -36,5 +36,55 @@
             "pagenum": 110,
             "content": "Avezwaka¦ <i>m.</i> A wall, a fence, an enclosure."
         }
+    ],
+    "MW": [
+        {
+            "word": "आवेष्टक",
+            "eid": "27304",
+            "pagenum": 156,
+            "content": "आ-वेष्टक ¦ <lex>m.</lex> a snare <ab>Comm.</ab> on <ls>KātyŚr. vi, 5, 19</ls><info lex='m'/>"
+        },
+        {
+            "word": "आवेष्टक",
+            "eid": "27305",
+            "pagenum": 156,
+            "content": "¦ a wall, fence<info lex='inh'/>"
+        },
+        {
+            "word": "आवेष्टक",
+            "eid": "27306",
+            "pagenum": 156,
+            "content": "¦ an enclosure, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आवेष्टक",
+            "eid": "9444",
+            "pagenum": 132,
+            "content": "<i>Ā-veṣṭaka, as,</i>¦ m. a wall, a fence, an enclosure."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आवेष्टक",
+            "eid": "16043",
+            "pagenum": 1,
+            "content": "आवेष्टक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Schlinge</i>. <div n='1'>— 2〉 *<i>Umzäunung, Wall</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आवेष्टक",
+            "eid": "9526",
+            "pagenum": 1,
+            "content": "आवेष्टक¦ (wie eben) <lex>m.</lex> <i>Umzäunung, Mauer, Wall</i> <ls>H. 982.</ls> <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "आवेष्टक",
+            "eid": "66963",
+            "pagenum": 5,
+            "content": "आवेष्टक¦ <lex>m.</lex> <i>Schlinge</i>: वेष्को गलावेष्टकः <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 6, 5, 19.</ls>"
+        }
     ]
 }

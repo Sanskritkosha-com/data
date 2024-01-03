@@ -28,5 +28,35 @@
             "pagenum": 777,
             "content": "<b>Yogīśa</b><sup>1</sup>¦ (“lord of the yogins”) = Kṛṣṇa (Viṣṇu): VI, 3036 (only C.); XIII, 7040 (1000 names)."
         }
+    ],
+    "MW": [
+        {
+            "word": "योगीश",
+            "eid": "172673",
+            "pagenum": 857,
+            "content": "yogI<srs/>Sa ¦ <lex>m.</lex> a king among <ab n='Yogi'>Y°</ab>, <ls>MārkP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "योगीश",
+            "eid": "172674",
+            "pagenum": 857,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='yAjYavalkya'>Yājñavalkya</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "योगीश",
+            "eid": "91456",
+            "pagenum": 5,
+            "content": "योगीश¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein Fürst unter den</i> <is>Yogin</is>. <div n='1'>— 2〉 <ab>Bez.</ab> <is>Yājñavalkya</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "योगीश",
+            "eid": "82509",
+            "pagenum": 6,
+            "content": "योगीश¦ <lex>m.</lex> <i>ein Fürst</i> (ईश) <i>unter den</i> <is>Yogin</is> <ls>MĀRK. P. 17,24.</ls> <ls>Verz. d. Oxf. H. 92,a,12.</ls> Bez. <is>Yājñavalkya's</is> <ls>H. 851</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

@@ -31,5 +31,29 @@
             "pagenum": 3,
             "content": "आश्रमोपनिषद्¦ Av. AS p. 5. Bd. 11."
         }
+    ],
+    "MW": [
+        {
+            "word": "आश्रमोपनिषद्",
+            "eid": "27636",
+            "pagenum": 158,
+            "content": "ASramo<srs/>panizad ¦ <lex>f.</lex> <ab>N.</ab> of an <s1 slp1='upanizad'>Upaniṣad</s1>.<info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आश्रमोपनिषद्",
+            "eid": "16210",
+            "pagenum": 1,
+            "content": "आश्रमोपनिषद्¦ <lex>f.</lex> Titel einer <is>Upaniṣad</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आश्रमोपनिषद्",
+            "eid": "9647",
+            "pagenum": 1,
+            "content": "आश्रमोपनिषद्¦ (आ 2. + उ°) <lex>f.</lex> N. einer <is>Upaniṣad</is> <ls>COLEBR. Misc. Ess. I, 97.</ls> <ls>WEBER, Lit. 158.</ls>"
+        }
     ]
 }

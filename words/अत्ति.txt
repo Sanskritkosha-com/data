@@ -39,5 +39,61 @@
             "pagenum": 12,
             "content": "atti¦ <i>f.</i> See अत्ता."
         }
+    ],
+    "MW": [
+        {
+            "word": "अत्ति",
+            "eid": "3380",
+            "pagenum": 16,
+            "content": "अ/त्ति <hom>a</hom> ¦ <lex>m.</lex> an eater, <ls>ŚBr. xiv.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अत्ति",
+            "eid": "3386",
+            "pagenum": 16,
+            "content": "अत्ति, इस् or अत्तिका, ¦ <lex>f.</lex> elder sister, <ls>L.</ls><info or='3386,atti;3387,attikA'/><info lex='f'/>"
+        },
+        {
+            "word": "अत्ति",
+            "eid": "3578",
+            "pagenum": 17,
+            "content": "अ/त्ति <hom>c</hom> ¦ &c. See <ab>s.v.</ab>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अत्ति",
+            "eid": "878",
+            "pagenum": 16,
+            "content": "<i>Atti, is,</i>¦ m., Ved. an eater; f., see also s. v. <i>attā.</i>"
+        },
+        {
+            "word": "अत्ति",
+            "eid": "881",
+            "pagenum": 16,
+            "content": "<i>Atti, is,</i>¦ or <i>attikā,</i> f. elder sister."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अत्ति",
+            "eid": "2230",
+            "pagenum": 1,
+            "content": "अ/त्ति¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>essend, verzehrend</i>. <div n='1'>— 2〉 *<i>ältere Schwester</i> (im Drama)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अत्ति",
+            "eid": "1547",
+            "pagenum": 1,
+            "content": "1. अ/त्ति¦ (von 1. अद्) <lex>adj.</lex> <i>essend, verzehrend</i>: व\\गेवा\\त्रिर्वाचा ह्य\\न्नमद्यते\\ ऽत्तिर्ह वै ना\\मैतद्यद\\त्रिरि\\ति <ls>ŚAT. BR. 14, 5, 2, 5.</ls> = <ls>BṚH. ĀR. UP. 2, 2, 4.</ls> Ein zur Erklärung von अत्रि gebildetes Wort."
+        },
+        {
+            "word": "अत्ति",
+            "eid": "1548",
+            "pagenum": 1,
+            "content": "2. अत्ति¦ <lex>f.</lex> <i>eine ältere Schwester</i> (im Drama) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. अत्ता ."
+        }
     ]
 }

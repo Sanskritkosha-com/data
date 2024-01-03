@@ -31,5 +31,49 @@
             "pagenum": 28,
             "content": "<b>Akara</b>¦ = Śiva (1000 names<sup>2</sup>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "अकर",
+            "eid": "165",
+            "pagenum": 1,
+            "content": "अ-कर ¦ <lex>mfn.</lex> handless, maimed<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अकर",
+            "eid": "166",
+            "pagenum": 1,
+            "content": "¦ exempt from tax or duty, privileged<info lex='inh'/>"
+        },
+        {
+            "word": "अकर",
+            "eid": "167",
+            "pagenum": 1,
+            "content": "¦ not acting<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अकर",
+            "eid": "45",
+            "pagenum": 1,
+            "content": "अकर¦ <i>a-kara, as, ā</i> or <i>ī, am,</i> handless, maimed; exempt from tax or duty, privileged; not acting; (<i>ā</i>), f. Emblic Myrobalan, Phyllanthus Emblica."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अकर",
+            "eid": "84",
+            "pagenum": 1,
+            "content": "अकर¦ <lex>Adj.</lex> <i>steuerfrei</i> <ls>GAUT. 10,11</ls>."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अकर",
+            "eid": "22071",
+            "pagenum": 7,
+            "content": "अकर¦ I. <lex>m.</lex> <i>ein steuerfreier Ort</i> <ls>DAMAYANTĪK. 216</ls>."
+        }
     ]
 }

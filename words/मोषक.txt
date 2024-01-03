@@ -31,5 +31,37 @@
             "pagenum": 587,
             "content": "mozaka¦ <i>m.</i> A thief."
         }
+    ],
+    "MW": [
+        {
+            "word": "मोषक",
+            "eid": "168564",
+            "pagenum": 836,
+            "content": "मोषक ¦ <lex>m.</lex> a thief, robber, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मोषक",
+            "eid": "38120",
+            "pagenum": 798,
+            "content": "<i>Moṣaka, as,</i>¦ m. a thief, robber."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मोषक",
+            "eid": "89102",
+            "pagenum": 5,
+            "content": "*मोषक¦ <lex>m.</lex> <i>Räuber, Dieb</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मोषक",
+            "eid": "62235",
+            "pagenum": 5,
+            "content": "मोषक¦ (wie eben) <lex>m.</lex> <i>Räuber, Dieb</i> <ls>AK. 2, 10, 25.</ls> <ls>MED. k. 103.</ls>"
+        }
     ]
 }

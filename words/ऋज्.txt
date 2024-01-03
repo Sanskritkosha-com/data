@@ -81,5 +81,35 @@
             "pagenum": 150,
             "content": "fj¦ <i>vt. 1A (pp. ऋजित)</i> 1. To go; 2. to invigorate; 3. to acquire."
         }
+    ],
+    "MD": [
+        {
+            "word": "ऋज्",
+            "eid": "5033",
+            "pagenum": 56,
+            "content": "ऋज्¦ ṚJ, <cl>Ⅰ.</cl> <lex>P.</lex> <b>arja,</b> procure; acquire, 🞄obtain; <ab>cs.</ab> <lex>P.</lex> <lex>Ā.</lex> <ab>id.</ab> <b>upa,</b> <ab>cs.</ab> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ऋज्",
+            "eid": "38776",
+            "pagenum": 225,
+            "content": "ऋज् ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> अर्जति, -ते, आनृजे, अर्जिता, अर्जिष्यते, आर्जिष्ट, to go; <div n='to'/>to stand or be firm; <div n='to'/>to obtain, acquire; <div n='to'/>to be strong or healthy: <div n='vp'/><ab>Caus.</ab> अर्जयति, to obtain, get, acquire, <ls>Dhātup. vi, 16</ls>; <div n='vp'/> [<ab>cf.</ab> अर्ज्, <pcol>p. 90, col. 1</pcol>.]<info westergaard='fja,6.16,01.0109'/><info verb='genuineroot' cp='1P,1Ā'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऋज्",
+            "eid": "12609",
+            "pagenum": 179,
+            "content": "ऋज् 1¦. <i>ṛj,</i> cl. 1. P. <i>arjati, ānarja, ar-</i> <i>jitum,</i> to bring near, obtain, get, acquire: Caus. <i>arjayati, -yitum,</i> to obtain, get, acquire."
+        },
+        {
+            "word": "ऋज्",
+            "eid": "12610",
+            "pagenum": 179,
+            "content": "ऋज् 2¦. <i>ṛj,</i> cl. 1. A. <i>arjate, -jitum,</i> to go; to stand or be firm; to acquire; to be healthy or strong; [cf. Lat. <nsi>rego, rectus;</nsi> Goth. <nsi>raihts;</nsi> Mod. Germ. <nsi>recht;</nsi> Gr. <lang n='greek'>ὀρέγω</lang> Hib. <nsi>righim,</nsi> ‘I reach, arrive, stretch.’]"
+        }
     ]
 }

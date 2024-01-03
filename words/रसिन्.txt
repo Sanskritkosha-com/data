@@ -31,5 +31,49 @@
             "pagenum": 1153,
             "content": "<b>rasín,</b>¦ <ab>a.</ab>, <i>kräftig, seimig, schmackhaft</i> [von rása]. <div n='TS'>-ínas [<ab>G.</ab>] (sómasya) {621,26}; {623,1}; {825,5}."
         }
+    ],
+    "MW": [
+        {
+            "word": "रसिन्",
+            "eid": "175913",
+            "pagenum": 871,
+            "content": "रसि/न् ¦ <lex>mfn.</lex> juicy, liquid (as <s1 slp1='soma'>Soma</s1>), <ls>RV.</ls>; <ls>VS.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "रसिन्",
+            "eid": "175914",
+            "pagenum": 871,
+            "content": "¦ impassioned, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रसिन्",
+            "eid": "175915",
+            "pagenum": 871,
+            "content": "¦ having good taste, aesthetic, <ls>Nalod.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रसिन्",
+            "eid": "39256",
+            "pagenum": 836,
+            "content": "<i>Rasin, ī, inī, i,</i>¦ having juice or sap, juicy, liquid; tasteful, spirited, full of feeling, impassioned; having good taste, having a taste for the beautiful."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रसिन्",
+            "eid": "93081",
+            "pagenum": 5,
+            "content": "रसि/न्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>saftig, kräftig</i>. <div n='1'>— 2〉 <i>einen richtigen Geschmack habend, Sinn für das Schöne habend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रसिन्",
+            "eid": "83857",
+            "pagenum": 6,
+            "content": "रसि/न्¦ (von रस) <lex>adj.</lex> <div n='1'> 1) <i>saftig, kräftig</i>: सोम <ls>ṚV. 8, 1, 26.</ls> <ls n='ṚV. 8,'>3, 1.</ls> <ls n='ṚV.'>9, 113, 5.</ls> <ls>VS. 19, 35.</ls> <div n='1'>— 2) <i>einen richtigen Geschmack habend, Sinn für das Schöne habend</i> <ls>NALOD. 2, 39.</ls>"
+        }
     ]
 }

@@ -69,5 +69,45 @@
             "pagenum": 112,
             "content": "<b>√aṅg.</b>¦ move, <i>in <ab>derivs.</ab></i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "अङ्ग्",
+            "eid": "360",
+            "pagenum": 4,
+            "content": "अङ्ग्¦ AṄG, <cl>Ⅰ.</cl> <lex>P.</lex> go. páli (= pari), <ab>cs.</ab> <b>aṅga ya,</b> stir: <ab>ps.</ab> revolve."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अङ्ग्",
+            "eid": "1492",
+            "pagenum": 7,
+            "content": "अङ्ग् ¦ <ab>cl.</ab> 1. <ab>P.</ab> अङ्गति, आनङ्ग, अङ्गितुम्, to go (<ab>cf.</ab> √ अग्); <div n='to'/> <ab>cl.</ab> 10. <ab>P.</ab> अङ्गयति, to mark (<ab>cf.</ab> √ अङ्क्), <ls>L.</ls><info whitneyroots='aNg,1'/><info verb='genuineroot' cp='1P,10P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अङ्ग्",
+            "eid": "316",
+            "pagenum": 7,
+            "content": "अङ्ग्¦ <i>aṅg,</i> cl. 1. P. <i>aṅgati, ānaṅga,</i> <i>aṅgitum,</i> to walk, go round (connected with rt. <i>ag</i>); cl. 10. P. <i>aṅgayati, -yitum,</i> to walk, go round; to mark (in the last sense connected with rt. <i>aṅk</i>); [cf. Gr. <lang n='greek'>ἐγγυς, ἐγγίζω</lang>?]."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अङ्ग्",
+            "eid": "920",
+            "pagenum": 1,
+            "content": "√अङ्ग्¦ अङ्गति <i>gehen</i>. <ab>Vgl.</ab> पल्यङ्ग्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अङ्ग्",
+            "eid": "667",
+            "pagenum": 1,
+            "content": "अङ्ग्¦, अ/ङ्गति, आनङ्ग <ls>P. 7, 4, 71</ls>, <ls>Sch.</ls> <i>gehen</i> <ls>DHĀTUP. 5, 38.</ls> सा ते ऽङ्के त्वङ्गतु <ls>NALOD. 1, 23.</ls> <div n='v'>— Vgl. अङ्क् und अङ्गय् .  <div n='p'>— पलि (परि) caus. <i>herumgehen lassen, umrühren</i>: पल्य\\ङ्य <ls>ŚAT. BR. 1, 7, 1, 18.</ls> <ls>KĀTY. ŚR. 8, 2, 1.</ls> पल्यङ्ग्यन्ते <ls>ŚAT. BR. 3, 9, 2, 16.</ls> pass. <i>sich drehen</i>: पल्य\\ङ्ग्यमाने (रथचक्रे) <ls n='ŚAT. BR.'>2, 3, 3, 12.</ls>  <div n='p'>— विपलि caus. <i>umhüllen</i>: ते ऽग्नि\\नैव त्व\\चं विप\\ल्याङ्गयन्त <ls>ŚAT. BR. 3, 4, 3, 2-5.</ls>"
+        }
     ]
 }

@@ -36,5 +36,35 @@
             "pagenum": 451,
             "content": "pfTak-viDa¦ <i>a.</i> of different kinds."
         }
+    ],
+    "MW": [
+        {
+            "word": "पृथग्विध",
+            "eid": "128451",
+            "pagenum": 646,
+            "content": "पृथग्—विध ¦ <lex>mfn.</lex> of <ab n='distinct'>d°</ab> kinds, manifold, various, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "पृथग्विध",
+            "eid": "128452",
+            "pagenum": 646,
+            "content": "¦ <ab n='distinct'>d°</ab> from (<ab>abl.</ab>), <ls>BhP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पृथग्विध",
+            "eid": "69411",
+            "pagenum": 4,
+            "content": "पृथग्विध¦ <lex>Adj.</lex> <div n='1'>— 1〉 <ab>Pl.</ab> (oder <ab>Sg.</ab> mit einem Collectivum) <i>mannichfaltig, verschieden, -artig</i>. <div n='1'>— 2〉 <i>verschieden von</i> (<ab>Instr.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पृथग्विध",
+            "eid": "47005",
+            "pagenum": 4,
+            "content": "पृथग्विध¦ (पृथक् + विधा) <lex>adj.</lex> dass. <ls>AK. 3, 2, 43.</ls> <ls>H. 1469.</ls> <ls>M. 1, 40.</ls> <ls n='M.'>11, 46.</ls> <ls>BHAG. 10, 5. 18, 14. 21.</ls> <ls>MBH. 2, 1746.</ls> <ls n='MBH.'>3, 13439.</ls> <ls n='MBH.'>13, 97.</ls> <ls n='MBH. 13,'>3982.</ls> <ls n='MBH.'>14, 440.</ls> <ls>R. 2, 50, 23.</ls> <ls>SŪRYAS. 2, 3.</ls> <ls>KATHĀS. 50, 17.</ls> एवं कौशिकगोत्रं तु वैश्वामित्रैः   पृथग्विधम् <i>verschieden von</i> <ls>BHĀG. P. 9, 16, 37.</ls>"
+        }
     ]
 }

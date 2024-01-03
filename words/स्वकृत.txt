@@ -15,5 +15,41 @@
             "pagenum": 520,
             "content": "स्व/कृत¦ selbst gethan."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्वकृत",
+            "eid": "257808",
+            "pagenum": 1275,
+            "content": "स्व/—कृत ¦ (स्व/-), <lex>mf(आ)n.</lex> done or performed or built or composed or created or fixed by <ab n='one'>o°</ab>'s self, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>R.</ls> &c.<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "स्वकृत",
+            "eid": "257808.1",
+            "pagenum": 1275,
+            "content": "¦ spontaneous, <ls>TS.</ls>; <ls>ŚBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "स्वकृत",
+            "eid": "257808.2",
+            "pagenum": 1275,
+            "content": "स्व/—कृत ¦ <lex>n.</lex> a deed done by <ab n='one'>o°</ab>'s self, <ls>MBh.</ls>; <ls>R.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्वकृत",
+            "eid": "131978",
+            "pagenum": 7,
+            "content": "स्व/कृत¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> स्वकृत) <div n='2'>— a〉 <i>selbstvollbracht, -ausgeführt, -erbaut, -verfasst, -geschaffen, -festgesetzt</i>. <div n='2'>— b〉 <i>von selbst entstanden, natürlich</i> <ls>TS. 3,4,8,5</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>eine selbstvollbrachte That</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्वकृत",
+            "eid": "114836",
+            "pagenum": 7,
+            "content": "स्व/कृत¦ <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>selbst vollbracht, - ausgeführt</i>: कर्मन् <ls>MBH. 1, 6427.</ls> <ls>R. GORR. 2, 105, 32.</ls> <ls n='R. GORR.'>3, 45, 5.</ls> तपस् <ls n='R. GORR.'>5, 89, 38.</ls> अनय <ls>MBH. 15, 288.</ls> दुर्णय <ls>KATHĀS. 15, 50.</ls> दोष <ls>MBH. 5, 6004.</ls> <i>selbsterbaut</i>: सुरसद्मन् <ls>KATHĀS. 25, 228.</ls> पुर <ls>RĀJA-TAR. 1, 157. 5, 39.</ls> <i>selbstverfasst</i>: ग्रन्थ <ls n='RĀJA-TAR.'>6, 11.</ls> स्तव <ls>HARIV. 7417.</ls> <ls>Ind. St. 5, 70.</ls> <i>selbstgeschaffen</i>: मही <ls>BHĀG. P. 8, 5, 32.</ls> <i>selbstfestgesetzt</i>: समय <ls n='BHĀG. P.'>9, 22.</ls> वृद्धि <ls>YĀJÑ. 2, 38.</ls> <div n='2'>— b) <i>von selbst entstanden, natürlich</i>: इरिण <ls>TS. 2, 5, 1, 3.</ls> <ls n='TS.'>3, 8, 4, 5.</ls> <ls>ŚAT. BR. 5, 2, 3, 2.</ls> <div n='1'>— 2) <lex>n.</lex> <i>eine selbstvollbrachte That</i>: स्वकृते का नु शान्तिः स्यात् <ls>MBH. 13, 2.</ls> <ls>R. 3, 75, 44.</ls> <ls n='R.'>6, 98, 29.</ls>"
+        }
     ]
 }

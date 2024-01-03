@@ -68,5 +68,69 @@
             "pagenum": 142,
             "content": "upavAsa¦ <i>m.</i> 1. A fast, fasting, e.g. उपवासाद्वरं भिक्षा <ls>Yaj.</ls>i.175, iii.190, <ls>M.</ls>xi.195; 2. kindling a sacred fire."
         }
+    ],
+    "MD": [
+        {
+            "word": "उपवास",
+            "eid": "4789",
+            "pagenum": 53,
+            "content": "उपवास¦ upa-vās-a, <lex>m.</lex> fasting; <b>-aka,</b> <lex>n.</lex> <ab>id.</ab>; 🞄<b>-in,</b> <lex>a.</lex> fasting."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उपवास",
+            "eid": "35753",
+            "pagenum": 206,
+            "content": "उप-वास ¦ <lex>m.</lex> (<lex type='hwalt'>n.</lex>, <ls>L.</ls>) a fast, fasting (as a religious act comprising abstinence from all sensual gratification, from perfumes, flowers, unguents, ornaments, betel, music, dancing &c.), <ls>Gaut.</ls>; <ls>ĀśvGṛ.</ls>; <ls>Mn. ii, 183</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "उपवास",
+            "eid": "35754",
+            "pagenum": 206,
+            "content": "¦ <ls n='Mn.'>xi, 195</ls>; <ls n='Mn. xi,'>212</ls>; <ls>Yājñ. iii, 190</ls>; <ls>MBh.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "उपवास",
+            "eid": "35755",
+            "pagenum": 206,
+            "content": "¦ abstinence from food &c. in general, <ls>Suśr.</ls>; <ls>R.</ls>; <ls>Pañcat.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "उपवास",
+            "eid": "35756",
+            "pagenum": 206,
+            "content": "¦ kindling a sacred fire<info lex='inh'/>"
+        },
+        {
+            "word": "उपवास",
+            "eid": "35757",
+            "pagenum": 206,
+            "content": "¦ a fire altar, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उपवास",
+            "eid": "11798",
+            "pagenum": 167,
+            "content": "<i>Upa-vāsa, as, am,</i>¦ m. n. a fast, fasting (as a religious act comprising abstinence from all sensual gratification, from perfumes, flowers, unguents, ornaments, betel, music, dancing, &c.); kindling a sacred fire, a fire altar."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उपवास",
+            "eid": "19995",
+            "pagenum": 1,
+            "content": "उपवास¦ <lex>m.</lex> *<lex>n.</lex> <div n='1'>— 1〉 <i>Fasten</i> (religiös und diätetisch) <ls>GAUT.</ls> <ls>Spr. 7623</ls>. <ls n='Spr.'>802</ls>. <div n='1'>— 2〉 <i>das Anlegen des heiligen Feuers</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उपवास",
+            "eid": "12076",
+            "pagenum": 1,
+            "content": "उपवास¦ (von वस्, वसति mit उप) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> अर्धर्चादि zu <ls>P. 2, 4, 31.</ls> <ls>TRIK. 3, 5, 12.</ls> <ls>SIDDH. K. 249,b,7.</ls>  <div n='1'> 1) <i>Fasten</i>, <lex>m.</lex> <ls>AK. 2, 7, 37.</ls> <ls>TRIK. 2, 7, 10.</ls> <ls>H. 842</ls> (nach dem <ls>Sch.</ls> auch n.). <ls>ĀŚV. GṚHY. 1, 10.</ls> <ls>M. 2, 188.</ls> <ls n='M.'>11, 195.</ls> <ls n='M. 11,'>212.</ls> <ls>YĀJÑ. 3, 190.</ls> <ls>MBH. 3, 6019.</ls> <ls n='MBH. 3,'>8032.</ls> उपवासान्विविधानुपोष्य <ls n='MBH. 3,'>10227.</ls> <ls n='MBH.'>13, 362.</ls> <ls>SĀV. 6, 12.</ls> <ls>R. 2, 24, 23.</ls> <ls n='R. 2,'>26, 28.</ls> <ls n='R. 2,'>28, 13.</ls> <ls n='R.'>3, 10, 4.</ls> <ls n='R. 3,'>77, 25.</ls> <ls n='R.'>5, 18, 1.</ls> <ls>SUŚR. 1, 70, 14.</ls> <ls n='SUŚR. 1,'>80, 5.</ls> <ls n='SUŚR.'>2, 111, 5.</ls> <ls n='SUŚR. 2,'>410, 13.</ls> <ls n='SUŚR. 2,'>433, 5.</ls> <ls>PAÑCAT. 138, 9.</ls> <ls>PRAB. 29, 5.</ls> <ls>VET. 32, 11.</ls> सोपवास <i>der da fastet</i> oder <i>gefastet hat</i> <ls>YĀJÑ. 1, 175.</ls> <lex>f.</lex> आ <ls n='YĀJÑ.'>3, 261.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Anlegung eines heiligen Feuers</i> (अग्न्याधान) <ls>MALAMĀSAT.</ls> im <ls>ŚKDR.</ls> <i>a fire altar</i> <ls>WILS.</ls>"
+        }
     ]
 }

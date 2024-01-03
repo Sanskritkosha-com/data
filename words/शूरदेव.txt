@@ -28,5 +28,35 @@
             "pagenum": 449,
             "content": "शूरदेव¦ <i>m.</i> <i>Fürstenname.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "शूरदेव",
+            "eid": "220300",
+            "pagenum": 1086,
+            "content": "शूर—देव ¦ <lex>m.</lex> <ab>N.</ab> of a son of king <s1 slp1='vIra-deva'>Vīra-deva</s1>, <ls>ib.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शूरदेव",
+            "eid": "220301",
+            "pagenum": 1086,
+            "content": "¦ (with <s1 slp1='jEna'>Jaina</s1>s) <ab>N.</ab> of the second of the 24 <s1 slp1='arhat'>Arhat</s1>s of the future <s1 slp1='utsarpiRI'>Utsarpiṇī</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शूरदेव",
+            "eid": "113850",
+            "pagenum": 6,
+            "content": "शूरदेव¦ <lex>m.</lex> <ab>N. pr.</ab> <div n='1'>— 1〉 eines Sohnes des Fürsten. <is>Vīradeva</is>. <div n='1'>— 2〉 *eines <is>Arhant</is> bei den <is>Jaina</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शूरदेव",
+            "eid": "100628",
+            "pagenum": 7,
+            "content": "शूरदेव¦ <lex>m.</lex> N. pr. <div n='1'> 1) eines Sohnes des Fürsten <is>Vīradeva</is> <ls>KATHĀS. 83, 12.</ls> <div n='1'>— 2) des 2ten <is>Arhant's</is> in der zukünftigen <is>Utsarpiṇī</is> <ls>H. 53.</ls> <div n='v'>— Vgl. शौरदेव्य ."
+        }
     ]
 }

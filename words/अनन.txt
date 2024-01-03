@@ -23,5 +23,43 @@
             "pagenum": 18,
             "content": "anana¦ <i>n.</i> Breathing, living."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनन",
+            "eid": "4785",
+            "pagenum": 24,
+            "content": "अनन ¦ <lex>n.</lex> breathing, living, <ls>Nir.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनन",
+            "eid": "1404",
+            "pagenum": 24,
+            "content": "<i>Anana, am,</i>¦ n. breathing, living."
+        },
+        {
+            "word": "अनन",
+            "eid": "1448",
+            "pagenum": 25,
+            "content": "अनन¦ <i>anana, am,</i> n. (fr. rt. <i>an</i>), breathing, living."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनन",
+            "eid": "3321",
+            "pagenum": 1,
+            "content": "*अनन¦ <lex>n.</lex> <i>das Athmen, Leben</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनन",
+            "eid": "2260",
+            "pagenum": 1,
+            "content": "अनन¦ (von 2. अन्) <lex>n.</lex> <i>das Athmen, Leben</i> <ls>NIR. 2, 5.</ls>"
+        }
     ]
 }

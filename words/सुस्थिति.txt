@@ -23,5 +23,41 @@
             "pagenum": 789,
             "content": "susTiti¦ <i>f.</i> 1. Good condition, well-being, welfare; 2. health, convalescence."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुस्थिति",
+            "eid": "250572",
+            "pagenum": 1239,
+            "content": "सु—स्थिति ¦ <lex>f.</lex> an excellent position, <ls>Ragh.</ls><info lex='f'/>"
+        },
+        {
+            "word": "सुस्थिति",
+            "eid": "250573",
+            "pagenum": 1239,
+            "content": "¦ good condition, wellbeing, welfare, <ls>Bhadrab.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुस्थिति",
+            "eid": "250574",
+            "pagenum": 1239,
+            "content": "¦ health convalescence, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुस्थिति",
+            "eid": "128453",
+            "pagenum": 7,
+            "content": "सुस्थिति¦ <lex>f.</lex> <div n='1'>— 1〉 <i>ein schöner Standort</i>. <div n='1'>— 2〉 <i>Wohlergehen</i> <ls>BHADRAB. 3,86</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुस्थिति",
+            "eid": "111950",
+            "pagenum": 7,
+            "content": "सुस्थिति¦ <lex>f.</lex> <div n='1'> 1) <i>ein schöner Standort</i> <ls>RAGH. 8, 36.</ls> <div n='1'>— 2) <i>ein Gefühl des Wohlbehagens</i> <ls>MED. t. 120.</ls>"
+        }
     ]
 }

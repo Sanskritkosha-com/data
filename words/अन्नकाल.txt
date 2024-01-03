@@ -15,5 +15,27 @@
             "pagenum": 32,
             "content": "anna-kAla¦ <i>m.</i> meal-time."
         }
+    ],
+    "MW": [
+        {
+            "word": "अन्नकाल",
+            "eid": "8486",
+            "pagenum": 45,
+            "content": "अन्न—काल ¦ <lex>m.</lex> meal-time, proper hour for eating<info lex='m'/>"
+        },
+        {
+            "word": "अन्नकाल",
+            "eid": "8487",
+            "pagenum": 45,
+            "content": "¦ time at which a convalescent patient begins to take food, <ls>Bhpr.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अन्नकाल",
+            "eid": "5535",
+            "pagenum": 1,
+            "content": "अन्नकाल¦ <lex>m.</lex> <i>der Zeitpunkt, wo der Appetit</i> (bei einem Kranken) <i>sich wieder einstellt,</i> <ls>BHĀVAPR. 3,37,16. 40,10</ls>."
+        }
     ]
 }

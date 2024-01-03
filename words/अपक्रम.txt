@@ -66,5 +66,81 @@
             "pagenum": 36,
             "content": "apakrama¦ <i>(II) a. (f. मा)</i> 1. Without any order; 2. in wrong order, irregular."
         }
+    ],
+    "MD": [
+        {
+            "word": "अपक्रम",
+            "eid": "1858",
+            "pagenum": 19,
+            "content": "अपक्रम¦ apa-kramá, <lex>m.</lex>, <b>-ṇa,</b> <lex>n.</lex>, <b>-krānti,</b> <lex>f.</lex> 🞄departure; <b>-krāma,</b> <lex>m.</lex> <ab>id.</ab>; escape; <b>-kriyā,</b> 🞄<lex>f.</lex> delivery; injury; wrong procedure."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अपक्रम",
+            "eid": "9034",
+            "pagenum": 48,
+            "content": "अप-क्रम/ ¦ <lex>m.</lex> going away, <ls>ŚBr.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "अपक्रम",
+            "eid": "9035",
+            "pagenum": 48,
+            "content": "¦ flight, retreat, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अपक्रम",
+            "eid": "9036",
+            "pagenum": 48,
+            "content": "अप-क्रम/ ¦ <lex>mfn.</lex> not being in the regular order (a fault in poetry). <info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपक्रम",
+            "eid": "3153",
+            "pagenum": 49,
+            "content": "<i>Apa-krama, as,</i>¦ m. going away; passing off or away; flight, retreat."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपक्रम",
+            "eid": "5826",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अपक्रम/¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Weggang</i>. <div n='1'>— 2〉 *<i>Flucht</i>. <div n='1'>— 3〉 <i>Declination</i> (<ab>astron.</ab>) <ls>SIDDH. ŚIR.</ls> <ls>ĀRYABH.</ls>"
+        },
+        {
+            "word": "अपक्रम",
+            "eid": "5827",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अपक्रम¦ <lex>Adj.</lex> <i>nicht in der gehörigen Reihenfolge stehend</i>. <lex>n.</lex> <i>in der Rhetorik</i> <ab>Bez.</ab> <i>eines <ab>best.</ab> Fehlers</i> <ls>VĀMANA 2,2,22</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपक्रम",
+            "eid": "3688",
+            "pagenum": 1,
+            "content": "अपक्रम/¦ (von क्रम् mit अप) <lex>m.</lex> <i>Weggang</i>: अपक्रमादु हैवैषामेतद्बिभयां चकार <ls>ŚAT. BR. 4, 3, 3, 11.</ls> देवयज्यायै देवतानामनपक्रमाय <ls n='ŚAT. BR.'>13, 4, 2, 10.</ls> <ls n='ŚAT. BR. 13,'>5, 2, 10.</ls> <i>Flucht</i> <ls>AK. 2, 8, 2, 80.</ls> <ls>H. 803.</ls> <div n='v'>— Vgl. अपक्राम ."
+        },
+        {
+            "word": "अपक्रम",
+            "eid": "64043",
+            "pagenum": 5,
+            "content": "1. अपक्रम¦ <lex>m.</lex> <i>Weggang</i> <ls>BHĀG. P. 11, 29, 45.</ls>"
+        },
+        {
+            "word": "अपक्रम",
+            "eid": "64044",
+            "pagenum": 5,
+            "content": "2. अपक्रम¦ (अप + क्रम) <lex>adj.</lex> <i>aus der Ordnung gekommen</i>; <lex>n.</lex> in der Rhetorik Bez. <i>eines best. Fehlers</i> <ls>KĀVYĀD. 3, 125.</ls> <ls n='KĀVYĀD. 3,'>144.</ls> Beispiel: स्थितिनिर्माणसंहारहेतवो जगताममी । शंभुनारायणाम्भोजयोनयः पालयन्तु वः <ls n='KĀVYĀD. 3,'>145</ls>; hier verlangen स्थिति - निर्माण - संहार die entsprechende Reihenfolge नारायणाम्भोजयोनिशंभवः . <ls>Verz. d. Oxf. H. 207,a,16.</ls>"
+        },
+        {
+            "word": "अपक्रम",
+            "eid": "118362",
+            "pagenum": 7,
+            "content": "अपक्रम¦ <lex>m.</lex> <i>declination of any given point of the ecliptic</i> <ls>SŪRYAS. 2, 6. 28. 58. 3, 18. 20. 40. 5, 3. 8, 6. 11. 11, 6. 12, 60. 63. 65. 13, 6. 13.</ls>"
+        }
     ]
 }

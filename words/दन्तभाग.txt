@@ -12,5 +12,35 @@
             "synonyms": [],
             "content": "दन्तभागः पुरोभागः पक्षभागस्तु पार्श्वकः ।"
         }
+    ],
+    "MW": [
+        {
+            "word": "दन्तभाग",
+            "eid": "90103",
+            "pagenum": 468,
+            "content": "दन्त—भाग ¦ <lex>m.</lex> the fore-part of an elephant's head (where the tusks appear), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दन्तभाग",
+            "eid": "90104",
+            "pagenum": 468,
+            "content": "¦ part of a tooth, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दन्तभाग",
+            "eid": "48888",
+            "pagenum": 3,
+            "content": "*दन्तभाग¦ <lex>m.</lex> <i>Vordertheil des Kopfes beim Elephanten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दन्तभाग",
+            "eid": "31947",
+            "pagenum": 3,
+            "content": "दन्तभाग¦ (दन्त + भाग) <lex>m.</lex> <i>Vordertheil des Kopfes beim Elephanten (wo die Zähne zum Vorschein kommen</i>) <ls>AK. 2, 8, 2, 8.</ls> <ls>H. 1228.</ls>"
+        }
     ]
 }

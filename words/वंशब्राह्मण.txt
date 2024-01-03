@@ -47,5 +47,35 @@
             "pagenum": 379,
             "content": "वंशब्राह्मण¦ <i>n. T. eines Werks.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "वंशब्राह्मण",
+            "eid": "184248",
+            "pagenum": 910,
+            "content": "वंश—ब्राह्मण ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1='brAhmaRa'>Brāhmaṇa</s1> (belonging to the <s1 slp1='sAma-veda'>Sāma-veda</s1> and containing a chronological list of ancient teachers)<info lex='n'/>"
+        },
+        {
+            "word": "वंशब्राह्मण",
+            "eid": "184249",
+            "pagenum": 910,
+            "content": "¦ of a part of the <s1 slp1='Sata-paTa'>Śata-patha</s1> <s1 slp1='brAhmaRa'>Brāhmaṇa</s1>, <ls n='ŚBr.'>xiv, 5, 5, 20</ls>-<ls n='ŚBr. xiv, 5, 5,'>22</ls>.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वंशब्राह्मण",
+            "eid": "97136",
+            "pagenum": 6,
+            "content": "वंशब्राह्मण¦ <lex>n.</lex> <i>ein Verzeichniss alter Lehrer,</i> auch als Titel eines bestimmten Werkes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वंशब्राह्मण",
+            "eid": "87117",
+            "pagenum": 6,
+            "content": "वंशब्राह्मण¦ <lex>n.</lex> <i>ein chronologisches Verzeichniss alter Lehrer</i> <ls>Ind. St. 4,371. fgg.</ls> <ls>Verz. d. Oxf. H. 382,a, No. 451. 264,b,26. 270,b,39.</ls>"
+        }
     ]
 }

@@ -31,5 +31,35 @@
             "pagenum": 623,
             "content": "lavaRa-uda¦ <i>m.</i> the sea of salt water."
         }
+    ],
+    "MW": [
+        {
+            "word": "लवणोद",
+            "eid": "181958",
+            "pagenum": 899,
+            "content": "lavaRo<srs/>da ¦ <lex>n.</lex> salt water, brine (<ab>comp.</ab>)<info lex='n'/>"
+        },
+        {
+            "word": "लवणोद",
+            "eid": "181959",
+            "pagenum": 899,
+            "content": "lavaRo<srs/>da ¦ <lex>m.</lex> ‘containing salt <ab n='water'>w°</ab>’, the sea of salt <ab n='water'>w°</ab>, ocean, <ls>Sūryapr.</ls>; <ls>Cat.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "लवणोद",
+            "eid": "95929",
+            "pagenum": 5,
+            "content": "लवणोद¦ <lex>m.</lex> <i>das Salzmeer, Meer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लवणोद",
+            "eid": "86136",
+            "pagenum": 6,
+            "content": "लवणोद¦ <lex>m.</lex> <i>das Meer mit salzigem Wasser, Ocean</i> <ls>AK. 1, 2, 3, 2.</ls> <ls>Verz. d. Oxf. H. 33,a,12.</ls> <ls>Ind. St. 10,283. 314.</ls>"
+        }
     ]
 }

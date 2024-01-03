@@ -28,5 +28,43 @@
             "pagenum": 350,
             "content": "<i>umbara</i>¦ (IE 8-8), same as Prakrit <i>ummara;</i> threshold or door; cf. <i>umbara-bheda,</i> also <i>udumbara</i> and <i>unmara.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "उम्बर",
+            "eid": "37190",
+            "pagenum": 217,
+            "content": "उम्बर ¦ <lex>m.</lex> the upper timber of a door frame, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "उम्बर",
+            "eid": "37191",
+            "pagenum": 217,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='ganDarva'>Gandharva</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उम्बर",
+            "eid": "12297",
+            "pagenum": 173,
+            "content": "उम्बर¦ <i>umbara, as,</i> m. the upper timber of a door frame; N. of a Gandharva."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उम्बर",
+            "eid": "20560",
+            "pagenum": 1,
+            "content": "उम्बर¦ <lex>m.</lex> <div n='1'>— 1〉 *<i>Schwelle;</i> <ab>vgl.</ab> उदुम्बर. <div n='1'>— 2〉 <ab>N. pr.</ab> eines <is>Gandharva</is>. दुम्बर <ab>v. l.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उम्बर",
+            "eid": "12404",
+            "pagenum": 1,
+            "content": "उम्बर¦ <lex>m.</lex> <div n='1'> 1) <i>Schwelle</i> <ls>H. 1009.</ls> Vgl. उम्बुर und उदुम्बर . <div n='1'>— 2) N. pr. eines <is>Gandharva</is> <ls>HARIV. 7225.</ls>"
+        }
     ]
 }

@@ -51,5 +51,57 @@
             "pagenum": 512,
             "content": "brahman-kalpa¦ <i>m.</i> an age of Brahman (m.)."
         }
+    ],
+    "MCI": [
+        {
+            "word": "ब्रह्मकल्प",
+            "eid": "909",
+            "pagenum": 260,
+            "content": "<b>Brahmakalpa</b>¦ m.: A cosmic period of Brahman. <div n='P'>In a former Brahmakalpa, when the <i>brahmarṣis</i> met, they entertained doubt about the creation of the world (<i>brahmakalpe</i> <i>purā brahman brahmarṣīṇāṃ samāgame /</i> <i>lokasaṃbhavasandehaḥ samutpanno mahāt-</i> <i>manām</i>) 12. 176. 6."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्मकल्प",
+            "eid": "146585",
+            "pagenum": 738,
+            "content": "ब्रह्म—कल्प ¦ <lex>mfn.</lex> like <s1 slp1='brahmA'>Brahmā</s1>, <ls>R.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ब्रह्मकल्प",
+            "eid": "146586",
+            "pagenum": 738,
+            "content": "ब्रह्म—कल्प ¦ <lex>m.</lex> the cosmic period of <s1 slp1='brahmA'>Brahmā</s1>, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ब्रह्मकल्प",
+            "eid": "146587",
+            "pagenum": 738,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "ब्रह्मकल्प",
+            "eid": "9221",
+            "pagenum": 2,
+            "content": "<i>Brahmakalpa</i>¦ — the period when Brahmā was born. <div n='P'/>Bhā. II. 8. 28; 10. 46; III. 11. 34."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्मकल्प",
+            "eid": "77787",
+            "pagenum": 4,
+            "content": "ब्रह्मकल्प¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>dem Gotte</i> <is>Brahman</is> <i>ähnlich</i>. <div n='1'>— 2〉 <lex>m.</lex> <is>Brahman</is>ʼs <i>Weltperiode</i> als <ab>Bez.</ab> <i>einer Urzeit</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्मकल्प",
+            "eid": "53278",
+            "pagenum": 5,
+            "content": "ब्रह्मकल्प¦ (ब्रह्मन् + क°) <div n='1'> 1) <lex>adj.</lex> <i>dem Gotte</i> <is>Brahman</is> <i>ähnlich</i> <ls>R. 1, 51, 25.</ls> <div n='1'>— 2) <lex>m.</lex> <is>Brahman's</is> <i>Weltperiode</i> als Bez. einer <i>Urzeit</i>: °कल्पे (Schol.: ब्रह्मलोके कल्पादौ) <ls>MBH. 12, 6809.</ls>"
+        }
     ]
 }

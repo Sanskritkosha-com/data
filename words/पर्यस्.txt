@@ -7,5 +7,33 @@
             "pagenum": 685,
             "content": "पर्यस्¦ {c4c} <ab>P.</ab> <b>1</b> To throw or cast round, spread round, diffuse. <b>--2</b> To spread over, surround; ताम्रौष्ठपर्य स्तरुचः स्मितस्य <ls>Ku. 1. 44.</ls> <b>--3</b> To turn round; पर्यस्तविलोचनेन <ls>Ku. 3. 68</ls> <b>--4</b> To shed, throw down (as tears); <ls>R. 10. 75</ls>; <ls>Ms. 11. 184.</ls> <b>--5</b> To <lbinfo n='over+turn'/> overturn, upset. <b>--6</b> To throw about;  <lbinfo n='ls:R.+ 18. 13'/> <ls>R. 18. 13</ls>; <ls n='R.'>5. 49.</ls> <b>--7</b> To entrap, ensnare. <b>--8</b> To enclose."
         }
+    ],
+    "MW": [
+        {
+            "word": "पर्यस्",
+            "eid": "119722",
+            "pagenum": 607,
+            "content": "<hom>a</hom> पर्य्-√ <hom>1.</hom> अस् ¦ <ab>P.</ab> पर्य्-अस्ति, (3. <ab>du.</ab> प/रि-ष्टः; 2. <ab>pl.</ab> प/रि-ष्ठ; <ab>pf.</ab> प/र्य्-आस), <div n='to'/>to be in the way of (<ab>acc.</ab>), <ls>RV.</ls>; <div n='to'/>to pass or spend time, <ls>ib.</ls><info verb='pre' cp='P' parse='pari+as'/>"
+        },
+        {
+            "word": "पर्यस्",
+            "eid": "119723",
+            "pagenum": 607,
+            "content": "<hom>b</hom> पर्य्-√ <hom>2.</hom> अस् ¦ <ab>P.</ab> <ab>Ā.</ab> पर्य्-अस्यति, °ते, to throw or cast or place round, <ls>AV.</ls>; <ls>AitBr.</ls>; <div n='to'/>to spread round, diffuse, <ls>Kir.</ls>; <div n='to'/>to entrap, ensnare (<ab>Ā.</ab> <ab>aor.</ab> 3. <ab>du.</ab> पर्य्-आसिषाताम्, <ls>Pāṇ. iii, 1, 52</ls>, <ab>Sch.</ab>); <div n='to'/>to turn round, wallow (<ab>ind.p.</ab> पर्य्-अस्य), <ls>Amar.</ls>; <div n='to'/>to throw down, overturn, upset (<ab>aor.</ab> पर्य्-आस्थत्), <ls>ŚBr.</ls>; <ls>Mn.</ls>; <ls>Kathās.</ls> : <div n='vp'/><ab>Pass.</ab> पर्य्-अस्यते (<ab>aor.</ab> पर्य्-आस्थत, <ls>Pāṇ. iii, 1, 52</ls>, <ab>Sch.</ab>), to tall down, drop: <div n='vp'/><ab>Caus.</ab> पर्य्-आसयति, to cause to roll down or shed (as tears), <ls>Ragh.</ls><info verb='pre' cp='PĀ' parse='pari+as'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पर्यस्",
+            "eid": "28380",
+            "pagenum": 554,
+            "content": "पर्यस् 1¦. <i>pary-as,</i> cl. 2. P. <i>-asti,</i> Ved. to be in the way; to surpass; to pass or spend (time); (Sāy.) <i>= parito bhū,</i> to be everywhere about."
+        },
+        {
+            "word": "पर्यस्",
+            "eid": "28381",
+            "pagenum": 554,
+            "content": "पर्यस् 2¦. <i>pary-as,</i> cl. 4. P. A. <i>-asyati, -te,</i> <i>-asitum,</i> to throw or cast round, put or place round, put on, spread round, diffuse; to surround, encircle, encompass; to enchase; to entrap, ensnare; to turn round, turn over; to turn away; to throw down, overturn, upset: Pass. <i>-asyate,</i> to fall down, drop, sink down: Caus. to cause to drop, to cause to roll down or shed (as tears)."
+        }
     ]
 }

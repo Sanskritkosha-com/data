@@ -23,5 +23,27 @@
             "pagenum": 211,
             "content": "kosa(Sa)lA¦ <i>f.</i> The city of Ayodhyā."
         }
+    ],
+    "MCI": [
+        {
+            "word": "कोसला",
+            "eid": "1900",
+            "pagenum": 525,
+            "content": "<b>Kosalā</b>¦ f.: See <b>Ayodhyā.</b>"
+        },
+        {
+            "word": "कोसला",
+            "eid": "2252",
+            "pagenum": 708,
+            "content": "<b>Kosalā:</b>¦ See <b>Kosala.</b>"
+        }
+    ],
+    "MW": [
+        {
+            "word": "कोसला",
+            "eid": "56917",
+            "pagenum": 314,
+            "content": "कोसला ¦ <lex>f.</lex> <ab>id.</ab>, <ls>MBh.</ls>; <ls>Nal.</ls>; <ls>Ragh.</ls> (<ab>ed.</ab> <ab>Calc.</ab>), <ls n='Ragh.'>i, 35</ls>, &c.<info lex='f'/>"
+        }
     ]
 }

@@ -7,5 +7,35 @@
             "pagenum": 222,
             "content": "kzetra-AjIva¦ <i>m.</i> a cultivator, a husbandman."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षेत्राजीव",
+            "eid": "60332",
+            "pagenum": 332,
+            "content": "kzetrA<srs/>jIva ¦ <lex>mfn.</lex> living by agriculture, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "क्षेत्राजीव",
+            "eid": "60333",
+            "pagenum": 332,
+            "content": "kzetrA<srs/>jIva ¦ <lex>m.</lex> a cultivator, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षेत्राजीव",
+            "eid": "32960",
+            "pagenum": 2,
+            "content": "*क्षेत्राजीव¦ <lex>Adj.</lex> <i>vom Felde lebend;</i> <lex>m.</lex> <i>Landmann</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षेत्राजीव",
+            "eid": "20613",
+            "pagenum": 2,
+            "content": "क्षेत्राजीव¦ (क्षेत्र + आजीव) <lex>adj.</lex> subst. <i>vom Felde lebend, Landmann</i> <ls>AK. 2, 9, 6.</ls> <ls>H. 890</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

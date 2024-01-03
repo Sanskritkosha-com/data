@@ -23,5 +23,43 @@
             "pagenum": 474,
             "content": "सप्रभ¦ gleich glänzend <i>o.</i> aussehend wie (—°)."
         }
+    ],
+    "MW": [
+        {
+            "word": "सप्रभ",
+            "eid": "232356",
+            "pagenum": 1148,
+            "content": "स—प्रभ ¦ <lex>mfn.</lex> having the same lustre or appearance (-त्व <lex type='phw'>n.</lex>), <ls>MBh.</ls>; <ls>VarBṛS.</ls><info phwchild='232357.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सप्रभ",
+            "eid": "232357",
+            "pagenum": 1148,
+            "content": "¦ possessing splendour, brilliant, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सप्रभ",
+            "eid": "49488",
+            "pagenum": 1065,
+            "content": "सप्रभ¦ <i>sa-prabha, as, ā, am,</i> possessing splendor, brilliant."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सप्रभ",
+            "eid": "119650",
+            "pagenum": 7,
+            "content": "°सप्रभ¦ <lex>Adj.</lex> <i>gleiches Glanzes —, gleiches Aussehens [Page7-051-a] mit</i> <ab>Nom. abstr.</ab> सप्रभत्व <lex>n.</lex> <i>gleiches Aussehen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सप्रभ",
+            "eid": "105127",
+            "pagenum": 7,
+            "content": "सप्रभ¦ (2, स + प्रभा) <lex>adj.</lex> <i>gleiches Glanzes, - Aussehens mit</i> (geht im comp. voran): दीप्तपावक° <ls>MBH. 1, 1033.</ls> सूर्य° <ls n='MBH.'>3, 12222.</ls> हिङ्गुल° <ls n='MBH. 3,'>12881.</ls> <ls n='MBH.'>7, 2811.</ls> अमराधिपसैन्य° <ls n='MBH.'>8, 1212.</ls> <ls>HARIV. 2692.</ls> <ls n='HARIV.'>12513.</ls> <ls>R. 6, 19, 46.</ls> <ls>VARĀH. BṚH. S. 37, 1. 81, 23. 82, 5.</ls> <ls>PAÑCAR. 3, 14, 2.</ls>"
+        }
     ]
 }

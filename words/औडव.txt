@@ -23,5 +23,43 @@
             "pagenum": 69,
             "content": "औडव¦ <i>f.</i> ई stellaris."
         }
+    ],
+    "MD": [
+        {
+            "word": "औडव",
+            "eid": "5251",
+            "pagenum": 60,
+            "content": "औडव¦ auḍava, <lex>a.</lex> (<b>ī</b>) stellar."
+        }
+    ],
+    "MW": [
+        {
+            "word": "औडव",
+            "eid": "40835",
+            "pagenum": 236,
+            "content": "<hom>1.</hom> औडव ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> उडु), relating to a constellation, <ls>Kād.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "औडव",
+            "eid": "40836",
+            "pagenum": 236,
+            "content": "<hom>2.</hom> औडव ¦ <lex>m.</lex> (in <ab>mus.</ab>) a mode which consists of five notes only<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "औडव",
+            "eid": "22781",
+            "pagenum": 1,
+            "content": "औडव¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <i>stellaris</i> <ls>KĀD. 200,22</ls>. <div n='1'>— 2〉 <lex>m.</lex> <i>ein nur aus fünf Tönen bestehender</i> <is>Rāga</is> <ls>S. S. S. 32. 100</ls>. <div n='1'>— 3〉 <lex>f.</lex> आ <i>eine <ab>best.</ab></i> <is>Rāgiṇī</is> <ls>S. S. S. 38 fgg. 47. 48. 54</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "औडव",
+            "eid": "69161",
+            "pagenum": 5,
+            "content": "औडव¦ <lex>m.</lex> = ओडव <ls>ŚKDR.</ls> (Suppl.) nach <ls>SAM̃GĪTADĀM.</ls>"
+        }
     ]
 }

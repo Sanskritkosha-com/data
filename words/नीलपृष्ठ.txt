@@ -29,5 +29,35 @@
             "pagenum": 1744,
             "content": "742,15: bṛ́haspátim <ab>st.</ab> agním <info vn='chg 147 gra'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "नीलपृष्ठ",
+            "eid": "111571",
+            "pagenum": 566,
+            "content": "नील—पृष्ठ ¦ <lex>m.</lex> ‘black-backed’, <ab>N.</ab> of <s1 slp1='agni'>Agni</s1>, <ls>RV.</ls><info lex='m'/>"
+        },
+        {
+            "word": "नीलपृष्ठ",
+            "eid": "111572",
+            "pagenum": 566,
+            "content": "नील—पृष्ठ ¦ <lex>m.</lex> <bio>Cyprinus</bio> <bio>Denticulatus</bio> (a kind of fish), <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नीलपृष्ठ",
+            "eid": "60696",
+            "pagenum": 3,
+            "content": "नी/लपृष्ठ¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>einen schwarzen Rücken habend</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i><bot>Cyprinus denticulatus</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नीलपृष्ठ",
+            "eid": "40526",
+            "pagenum": 4,
+            "content": "नी/लपृष्ठ¦ (नील + पृ°) <div n='1'> 1) <lex>adj.</lex> <i>einen schwarzen Rücken habend</i>: <is>Agni</is> <ls>ṚV. 3, 7, 3.</ls> <ls n='ṚV.'>5, 43, 12.</ls> हंसासः <ls n='ṚV.'>7, 59, 7.</ls> <div n='1'>— 2) <lex>m.</lex> <i>ein best. Fisch, Cyprinus denticulatus</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILS.</ls>"
+        }
     ]
 }

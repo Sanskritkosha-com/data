@@ -15,5 +15,43 @@
             "pagenum": 208,
             "content": "kelika¦ <i>m.</i> The <i>aśoka</i> tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "केलिक",
+            "eid": "55840",
+            "pagenum": 309,
+            "content": "केलिक ¦ <lex>mfn.</lex> sporting, sportive, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "केलिक",
+            "eid": "55841",
+            "pagenum": 309,
+            "content": "¦ the tree <bot>Jonesia</bot> <s1 slp1='aSoka'>Aśoka</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "केलिक",
+            "eid": "15773",
+            "pagenum": 253,
+            "content": "<i>Kelika, as, ā, am,</i>¦ sporting, sportive; (<i>as</i>), m. the tree Jonesia Aśoka."
+        }
+    ],
+    "PW": [
+        {
+            "word": "केलिक",
+            "eid": "30680",
+            "pagenum": 2,
+            "content": "*केलिक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>spielend, scherzend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i><bot>Jonesia asoca</bot></i> <ls>RĀJAN. 10,54</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "केलिक",
+            "eid": "19064",
+            "pagenum": 2,
+            "content": "केलिक¦ (von केलि) <div n='1'> 1) <lex>adj.</lex> <i>sportive, sporting</i> <ls>WILS.</ls> <div n='1'>— 2) <lex>m.</lex> N. eines Baumes, <i>Jonesia Asoca</i> (s. अशोक), <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

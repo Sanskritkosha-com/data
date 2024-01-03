@@ -21,5 +21,35 @@
             "pagenum": 797,
             "content": "sopaDi¦ <i>(II) ind.</i> Deceitfully, fraudulently, विदधति सोपधि संधिदूषणानि <ls>Kir.</ls>i.45."
         }
+    ],
+    "MW": [
+        {
+            "word": "सोपधि",
+            "eid": "252646",
+            "pagenum": 1249,
+            "content": "so<srs/>paDi ¦ <lex>mfn.</lex> fraudulent (°इ <lex type='phw'>ind.</lex>), <ls>Kir.</ls><info phwchild='252646.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सोपधि",
+            "eid": "252646.1",
+            "pagenum": 1249,
+            "content": "so<srs/>paDi ¦ <lex>ind.</lex><info phwparent='252646,sopaDi'/><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सोपधि",
+            "eid": "52764",
+            "pagenum": 1136,
+            "content": "<i>Sopadhi, is, is, i,</i>¦ fraudulent; (<i>i</i>), ind. deceitfully, fraudulently."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सोपधि",
+            "eid": "129481",
+            "pagenum": 7,
+            "content": "सोपधि¦ <lex>Adv.</lex> <i>auf eine hinterlistige Weise</i> <ls>KIR. 1,45</ls>."
+        }
     ]
 }

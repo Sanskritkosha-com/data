@@ -45,5 +45,71 @@
             "pagenum": 116,
             "content": "<b>á-nutta,</b>¦ <i><ab>a.</ab></i> un-moved, <i><ab>i. e.</ab></i> invincible. [<b>√nud.</b>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "अनुत्त",
+            "eid": "1651",
+            "pagenum": 15,
+            "content": "अनुत्त¦ <hom>1.</hom> ánu-tta, <ab>pp.</ab> √ dā."
+        },
+        {
+            "word": "अनुत्त",
+            "eid": "1652",
+            "pagenum": 15,
+            "content": "अनुत्त¦ <hom>2.</hom> á-nut-ta, <ab>pp.</ab> invincible."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनुत्त",
+            "eid": "6365",
+            "pagenum": 33,
+            "content": "अ/-नुत्त ¦ <lex>mfn.</lex> not cast down, invincible, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनुत्त",
+            "eid": "6365.1",
+            "pagenum": 1311,
+            "content": "¦ (<ab>accord.</ab> to some) = अ/नु-त्त (for अनु-दत्त), admitted.<info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुत्त",
+            "eid": "2137",
+            "pagenum": 33,
+            "content": "अनुत्त¦ <i>a-nutta, as, ā, am,</i> Ved. not cast down, invincible; (or, not moistened, <i>= an-utta?</i>). <i>—Anutta-manyu, us,</i> m. of invincible wrath, i. e. Indra."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुत्त",
+            "eid": "4404",
+            "pagenum": 1,
+            "content": "अ/नुत्त¦ <lex>Adj.</lex> <i>nicht zu verrücken, unbezwinglich</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुत्त",
+            "eid": "2784",
+            "pagenum": 1,
+            "content": "अ/नुत्त¦ <ls>P. 8, 2, 61.</ls> (3. अ + नुत von नुद्) <lex>adj.</lex> <i>unerschüttert, unbezwinglich</i>: वीर्य^म् <ls>ṚV. 1, 80, 7.</ls> तवि^षीः <ls n='ṚV.'>3, 31, 13.</ls> क्षत्र^म् <ls n='ṚV.'>7, 34, 11.</ls> <ls n='ṚV.'>8, 79, 5.</ls> Die <ls>Sch.</ls> zu <ls>P. 8, 2, 61.</ls> zerlegen अनुत्त in अन् + उत्त von उन्द् und führen, übrigens unrichtig, auf als Beispiel <ls>ṚV. 1, 165, 9</ls> : अनु^त्त\\मा ते^ मघव\\न् नकि\\र्नु <i>nichts ist von dir unbezwungen</i>; <ls>SĀY.</ls> : अप्रेरितम् ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अनुत्त",
+            "eid": "5079",
+            "pagenum": 4,
+            "content": "अ/नुत्त¦ nach <ls>AUFRECHT</ls> (<ls>KUHNʼs Z. 26,610. fgg.</ls>) = अ/नुदत्त <i>zugestanden</i>."
+        },
+        {
+            "word": "अनुत्त",
+            "eid": "11200",
+            "pagenum": 7,
+            "content": "अ/नुत्त¦ I. 4."
+        }
     ]
 }

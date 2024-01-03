@@ -71,5 +71,99 @@
             "pagenum": 615,
             "content": "ropa¦ <i>n.</i> 1. The act of raising; 2. of planting; 3. an arrow."
         }
+    ],
+    "MD": [
+        {
+            "word": "रोप",
+            "eid": "15395",
+            "pagenum": 258,
+            "content": "रोप¦ rop-a, <lex>m.</lex> [<ab>fr.</ab> <ab>cs.</ab> <i>of</i> √ ruh] planting; 🞄arrow; <b>-aṇa,</b> <lex>a.</lex> (<b>ī</b>) putting on; causing to 🞄heal (<i>wounds</i>); <lex>n.</lex> erecting, setting up; healing, 🞄healing application; planting."
+        }
+    ],
+    "MW": [
+        {
+            "word": "रोप",
+            "eid": "178858",
+            "pagenum": 884,
+            "content": "रोप <hom>a</hom> ¦ 1."
+        },
+        {
+            "word": "रोप",
+            "eid": "179011",
+            "pagenum": 885,
+            "content": "रोप <hom>b</hom> ¦ &c. See <ab>p.</ab> 889, <ab>cols.</ab> 1, 2."
+        },
+        {
+            "word": "रोप",
+            "eid": "179840",
+            "pagenum": 889,
+            "content": "<hom>1.</hom> रोप ¦ <lex>m.</lex> (√ <hom>1.</hom> रुप्) confusing, disturbing, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रोप",
+            "eid": "179847",
+            "pagenum": 889,
+            "content": "<hom>2.</hom> रोप ¦ <lex>m.</lex> (<ab>fr.</ab> <ab>Caus.</ab> of √ <hom>1.</hom> रुह्) the act of raising, setting up, planting, fixing in &c., <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रोप",
+            "eid": "179848",
+            "pagenum": 889,
+            "content": "¦ an arrow, <ls>Śiś.</ls>; <ls>Naiṣ.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रोप",
+            "eid": "179849",
+            "pagenum": 889,
+            "content": "रोप ¦ <lex>n.</lex> a fissure, hole.<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रोप",
+            "eid": "39689",
+            "pagenum": 850,
+            "content": "1. <i>ropa,</i>¦ 1. <i>ropita,</i> &c. See p. 855, col. 1."
+        },
+        {
+            "word": "रोप",
+            "eid": "39895",
+            "pagenum": 855,
+            "content": "रोप 1¦. <i>ropa, as,</i> m. (fr. rt. 1. <i>rup</i> = rt. 1. <i>lup</i>), confusing, disturbing; (<i>am</i>), n. a fissure, chasm, hole, cavity, (in this sense possibly connected with rt. 1. <i>ruh,</i> cf. <i>ruhaka.</i>)"
+        },
+        {
+            "word": "रोप",
+            "eid": "39900",
+            "pagenum": 855,
+            "content": "रोप 2¦. <i>ropa, as,</i> m. (fr. the Caus. of rt. 1. <i>ruh</i>), the act of raising or setting up, &c. (= 2. <i>ropaṇa</i>); the planting (of trees); an arrow."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रोप",
+            "eid": "95009",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> *रोप¦ <lex>n.</lex> <i>Loch, Höhle</i>."
+        },
+        {
+            "word": "रोप",
+            "eid": "95010",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> रोप¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das Pflanzen</i>. <div n='1'>— 2〉 <i>Pfeil</i> <ls>NAIṢ. 8,105</ls>. <ls>ŚIŚ. 19,94. 120</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रोप",
+            "eid": "85392",
+            "pagenum": 6,
+            "content": "1. रोप¦ (von रुप्) <lex>n.</lex> <i>Loch, Höhle</i> <ls>H. 1364.</ls> <ls>an. 2, 299</ls>, wo रन्ध्रे st. रोध्रे zu lesen ist."
+        },
+        {
+            "word": "रोप",
+            "eid": "85393",
+            "pagenum": 6,
+            "content": "2. रोप¦ (vom caus. von रुह्) <lex>m.</lex> <div n='1'> 1) = रोपण <ls>TRIK. 3, 3, 279.</ls> <ls>H. an. 2, 299.</ls> <ls>MED. p. 10.</ls> <i>das Pflanzen</i>: वृक्षाणाम् <ls>MBH. 13, 2993.</ls> <div n='1'>— 2) <i>Pfeil</i> <ls>AK. 2, 8, 2, 55.</ls> <ls>TRIK.</ls> <ls>H. 778.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 311.</ls>"
+        }
     ]
 }

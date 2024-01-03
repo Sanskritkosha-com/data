@@ -20,5 +20,21 @@
             "pagenum": 358,
             "content": "ऐकाग्र¦ <i><ab>a.</ab></i> Intent on one object."
         }
+    ],
+    "PW": [
+        {
+            "word": "ऐकाग्र",
+            "eid": "22420",
+            "pagenum": 1,
+            "content": "*ऐकाग्र¦ <ls>H. 1458</ls> fehlerhaft für एकाग्र."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऐकाग्र",
+            "eid": "13623",
+            "pagenum": 1,
+            "content": "ऐकाग्र¦ <lex>adj.</lex> falsche Form für एकाग्र <ls>H. 1458.</ls>"
+        }
     ]
 }

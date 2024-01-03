@@ -15,5 +15,43 @@
             "pagenum": 795,
             "content": "setuka¦ <i>m.</i> A bank, a causeway, a bridge."
         }
+    ],
+    "MW": [
+        {
+            "word": "सेतुक",
+            "eid": "252128",
+            "pagenum": 1246,
+            "content": "सेतुक ¦ <lex>m.</lex> a causeway, bridge, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सेतुक",
+            "eid": "252129",
+            "pagenum": 1246,
+            "content": "¦ <bot>Crataeva Roxburghii</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सेतुक",
+            "eid": "52645",
+            "pagenum": 1134,
+            "content": "<i>Setuka, as,</i>¦ m. a bank, causeway, bridge, pass; the tree Cratæva Roxburghii."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सेतुक",
+            "eid": "129201",
+            "pagenum": 7,
+            "content": "*सेतुक¦ <lex>m.</lex> <i><bot>Crataeva Roxburghii</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सेतुक",
+            "eid": "112574",
+            "pagenum": 7,
+            "content": "सेतुक¦ <lex>m.</lex> = सेतु <i>Crataeva Roxburghii R. Br.</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

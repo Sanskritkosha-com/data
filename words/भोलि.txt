@@ -44,5 +44,37 @@
             "pagenum": 538,
             "content": "Boli¦ <i>m.</i> A camel."
         }
+    ],
+    "MW": [
+        {
+            "word": "भोलि",
+            "eid": "153351",
+            "pagenum": 768,
+            "content": "भोलि ¦ <lex>m.</lex> a camel, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भोलि",
+            "eid": "35857",
+            "pagenum": 723,
+            "content": "भोलि¦ <i>bholi, is,</i> m. a camel."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भोलि",
+            "eid": "81111",
+            "pagenum": 4,
+            "content": "*भोलि¦ <lex>m.</lex> <i>Kamel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भोलि",
+            "eid": "55901",
+            "pagenum": 5,
+            "content": "भोलि¦ <lex>m.</lex> <i>Kameel</i> <ls>TRIK. 2, 9, 23.</ls> <ls>H. 1253.</ls>"
+        }
     ]
 }

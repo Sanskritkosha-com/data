@@ -39,5 +39,43 @@
             "pagenum": 163,
             "content": "kati-DA¦ <i>ind.</i> 1. how often; 2. in how many places or parts."
         }
+    ],
+    "MW": [
+        {
+            "word": "कतिधा",
+            "eid": "42668",
+            "pagenum": 246,
+            "content": "कतिधा/ ¦ <lex>ind.</lex> how many times? how often? in how many places? in how many parts? <ls>RV.</ls> &c.<info lex='ind'/>"
+        },
+        {
+            "word": "कतिधा",
+            "eid": "42668.1",
+            "pagenum": 246,
+            "content": "¦ with चिद्, everywhere, <ls>RV. i, 31, 2.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कतिधा",
+            "eid": "13500",
+            "pagenum": 198,
+            "content": "<i>Katidhā,</i>¦ ind. in how many places? in how many parts? how often? <i>katidhā cit,</i> everywhere."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कतिधा",
+            "eid": "23791",
+            "pagenum": 2,
+            "content": "कतिधा/¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>wie vielfach? an wie vielen Orten? in wie vielen Theilen? — viele Theile? wie oft?</i> <div n='1'>— 2〉 mit folgendem चिद् <i>allenthalben</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कतिधा",
+            "eid": "14604",
+            "pagenum": 2,
+            "content": "कतिधा/¦ (wie eben) adv. <ls>P. 1, 1, 23</ls>, <ls>Sch.</ls> <i>an wie vielen Orten? in wie vielen Theilen (viele Theile)? wie oft?</i> क\\ति\\धा समि^द्धः <ls>VS. 23, 57.</ls> यत्पुरु^ष\\ं व्यद^धुः कति\\धा व्य^कल्पयन् <ls>ṚV. 10, 90, 11.</ls> <ls>AV. 8, 9, 10.</ls> अथ तस्याभितप्तस्य कतिधायतनानि ह । निरभिद्यन्त देवानाम् <ls>BHĀG. P. 3, 6, 11.</ls> तत्त्वानां भगवंस्तेषां कतिधा (<i>wie oft</i>) प्रतिसंक्रमः <ls n='BHĀG. P.'>7, 37.</ls> तस्यां स वै - ससर्ज कतिधा वीर्यम् <ls n='BHĀG. P.'>31, 4.</ls> Mit चिद् <i>allenthalben</i> <ls>ṚV. 1, 31, 2.</ls>"
+        }
     ]
 }

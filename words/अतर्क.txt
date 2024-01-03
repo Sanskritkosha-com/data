@@ -23,5 +23,49 @@
             "pagenum": 9,
             "content": "atarka¦ <i>m.</i> 1. An illogical reasoner; 2. bad logic."
         }
+    ],
+    "MW": [
+        {
+            "word": "अतर्क",
+            "eid": "2533",
+            "pagenum": 12,
+            "content": "अ-तर्क ¦ <lex>m.</lex> an illogical reasoner<info lex='m'/>"
+        },
+        {
+            "word": "अतर्क",
+            "eid": "2534",
+            "pagenum": 12,
+            "content": "¦ bad logic.<info lex='inh'/>"
+        },
+        {
+            "word": "अतर्क",
+            "eid": "2534.1",
+            "pagenum": 1309,
+            "content": "अ-तर्क ¦ <lex>mfn.</lex> incomprehensible, <ab>ib.</ab><info n='sup'/><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अतर्क",
+            "eid": "614",
+            "pagenum": 12,
+            "content": "अतर्क¦ <i>a-tarka, as,</i> m. an illogical reasoner; bad logic."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अतर्क",
+            "eid": "1611",
+            "pagenum": 1,
+            "content": "अतर्क¦ <lex>Adj.</lex> <i>von spitzfindigen Erwägungen sich fernhaltend</i> <ls>MBH. 13,23,29</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अतर्क",
+            "eid": "1205",
+            "pagenum": 1,
+            "content": "अतर्क¦ (3. अ + तर्क) <lex>adj.</lex> <i>der falsche Schlüsse macht</i>: अहेतुकः । शुष्कतर्कपरः । इति महाभारते दानधर्मः । <ls>ŚKDR.</ls>"
+        }
     ]
 }

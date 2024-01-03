@@ -15,5 +15,51 @@
             "pagenum": 133,
             "content": "जयध्वज¦ <i>m.</i> Siegesbanner."
         }
+    ],
+    "MD": [
+        {
+            "word": "जयध्वज",
+            "eid": "7903",
+            "pagenum": 99,
+            "content": "जयध्वज¦ jaya-dhvaja, <lex>m.</lex> banner of victory."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जयध्वज",
+            "eid": "77407",
+            "pagenum": 413,
+            "content": "जय—ध्वज ¦ <lex>m.</lex> a flag of victory<info lex='m'/>"
+        },
+        {
+            "word": "जयध्वज",
+            "eid": "77408",
+            "pagenum": 413,
+            "content": "¦ <ab>N.</ab> of a son of <s1 slp1='arjuna'>Arjuna</s1> <s1 slp1='kArtavIrya'>Kārtavīrya</s1>, <ls>Hariv. 1893</ls>; <ls>VP. iv, 11, 5</ls>; <ls>BhP. ix, 23, 26 f.</ls>; <ls>BṛNārP. xxxvii</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "जयध्वज",
+            "eid": "5040",
+            "pagenum": 1,
+            "content": "<i>Jayadhvaja</i>¦ — a son of Kārtavīrya Arjuna and father of Tālajangha;<sup>1</sup> a Mahāratha who reigned at Avanti;<sup>2</sup> known also as Vaikarta.<sup>3</sup> <F>1) Bhā. IX. 23. 27-28; Vā. 94. 50; Vi. IV. 11. 21-22.</F> <F>2) Br. III. 41. 13; 47. 66; 69. 50.</F> <F>3) M. 43. 46.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जयध्वज",
+            "eid": "41798",
+            "pagenum": 2,
+            "content": "जयध्वज¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Siegesbanner</i>. <div n='1'>— 2〉 <ab>N. pr.</ab> eines Sohnes des <is>Arjuna</is> <is>Kārtavīrya</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जयध्वज",
+            "eid": "26724",
+            "pagenum": 3,
+            "content": "जयध्वज¦ (जय + ध्वज) <lex>m.</lex> N. pr. eines Sohnes der <is>Kārtavīrya</is> <is>Arjuna</is> und Vaters des <is>Tālajaṅgha</is> <ls>HARIV. 1893.</ls> <ls>VP. 418.</ls> <ls>BHĀG. P. 9, 23, 26. 27.</ls> <ls>Verz. d. B. H. No. 452.</ls> <ls>Verz. d. Oxf. H. 11,a.</ls>"
+        }
     ]
 }

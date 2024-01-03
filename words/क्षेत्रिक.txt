@@ -45,5 +45,63 @@
             "pagenum": 222,
             "content": "kzetrika¦ <i>(II) m.</i> 1. A farmer, <ls>M.</ls>viii.241, 243; 2. a husband."
         }
+    ],
+    "MD": [
+        {
+            "word": "क्षेत्रिक",
+            "eid": "6604",
+            "pagenum": 79,
+            "content": "क्षेत्रिक¦ kṣetr-ika, <lex>m.</lex> owner of a field; husband; 🞄<b>-in,</b> <lex>m.</lex> <ab>id.</ab>; soul; <b>-iyá,</b> <lex>a.</lex> local; constitutional 🞄= incurable."
+        }
+    ],
+    "MW": [
+        {
+            "word": "क्षेत्रिक",
+            "eid": "60341",
+            "pagenum": 332,
+            "content": "क्षेत्रिक ¦ <lex>mfn.</lex> relating to a field, having a field, agrarian, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "क्षेत्रिक",
+            "eid": "60342",
+            "pagenum": 332,
+            "content": "क्षेत्रिक ¦ <lex>m.</lex> the owner of a field, <ls>Gaut.</ls>; <ls>Mn. viii, 241 ff.</ls>; <ls n='Mn.'>ix, 53 f.</ls><info lex='m'/>"
+        },
+        {
+            "word": "क्षेत्रिक",
+            "eid": "60343",
+            "pagenum": 332,
+            "content": "¦ a farmer, cultivator, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्षेत्रिक",
+            "eid": "60344",
+            "pagenum": 332,
+            "content": "¦ a husband, <ls>Nār.</ls>; <ls>Mn. ix, 145.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "क्षेत्रिक",
+            "eid": "16573",
+            "pagenum": 270,
+            "content": "<i>Kṣetrika, as, ī, am,</i>¦ having a field, relating to a field &c., agrarian; (<i>as</i>), m. the owner of a field, a farmer, a cultivator, a husband."
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षेत्रिक",
+            "eid": "32965",
+            "pagenum": 2,
+            "content": "क्षेत्रिक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Besitzer eines Feldes</i> <ls>GAUT.</ls> <div n='1'>— 2〉 <i>Ehemann</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षेत्रिक",
+            "eid": "20618",
+            "pagenum": 2,
+            "content": "क्षेत्रिक¦ (von क्षेत्र) <lex>m.</lex> <div n='1'> 1) <i>der Besitzer eines Feldes</i> <ls>M. 8, 241. 243. 9, 53. 54.</ls> <div n='1'>— 2) <i>Ehemann</i> (vgl. क्षेत्र 5. ) <ls>NĀRADA</ls> in <ls>DĀY. 8, 2.</ls> <ls>M. 9, 145.</ls>"
+        }
     ]
 }

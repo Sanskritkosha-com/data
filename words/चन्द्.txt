@@ -31,5 +31,51 @@
             "pagenum": 436,
             "content": "<b>√cand,</b>¦ <i>glänzen, schimmern,</i> <ab n='siehe'>s.</ab> ścand."
         }
+    ],
+    "MD": [
+        {
+            "word": "चन्द्",
+            "eid": "7409",
+            "pagenum": 91,
+            "content": "चन्द्¦ CAND, <ab>v.</ab> श्वन्द् ŚCAND, shine."
+        }
+    ],
+    "MW": [
+        {
+            "word": "चन्द्",
+            "eid": "71529",
+            "pagenum": 386,
+            "content": "चन्द् ¦ (<ab>fr.</ab> श्चन्द्, <ab>q.v.</ab>) <ab>cl.</ab> 1. °दति (<ls>Nir. xi, 5</ls>), to shine, be bright, <ls>Dhātup. iii, 31</ls>; <div n='to'/>to gladden, <ls>ib.</ls>; <info westergaard='cadi,3.31,01.0058'/><info whitneyroots='Scand,177'/><info verb='root' cp='1'/>"
+        },
+        {
+            "word": "चन्द्",
+            "eid": "71529.1",
+            "pagenum": 386,
+            "content": "चन्द् ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>candeo</etym>, <etym>candela</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चन्द्",
+            "eid": "18205",
+            "pagenum": 315,
+            "content": "चन्द्¦ <i>cand</i> (originally <i>ścand ?</i>), cl. 1. P. <i>candati,</i> to shine, to be bright; to gladden; (only the Ved. part. of the Intens. <i>caniścadat</i> seems to occur); [cf. Lat. <nsi>candeo</nsi> and <nsi>candela.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चन्द्",
+            "eid": "38885",
+            "pagenum": 2,
+            "content": "*√चन्द्¦, च/न्दति (कान्तिकर्मन्, दीप्तौ, आह्लादने). <ab>Vgl.</ab> श्चन्द्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चन्द्",
+            "eid": "24687",
+            "pagenum": 2,
+            "content": "चन्द्¦ (urspr. Form श्चन्द्), च/न्दति <div n='1'> 1) कान्तिकर्मन् <ls>NIR. 11, 5.</ls> <i>leuchten</i>, <ls>DHĀTUP. 3, 31.</ls> <div n='1'>— 2) <i>erfreuen</i> ebend. — Zu belegen nur intens. <i>licht sein, schimmern</i>: चनि^श्चदद्दुदुहे शु\\क्रम\\ंशुः <ls>ṚV. 5, 43, 4.</ls>"
+        }
     ]
 }

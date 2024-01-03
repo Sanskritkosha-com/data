@@ -15,5 +15,49 @@
             "pagenum": 248,
             "content": "पाठ्य¦ herzusagen <i>o.</i> zu unterrichten."
         }
+    ],
+    "MW": [
+        {
+            "word": "पाठ्य",
+            "eid": "121421",
+            "pagenum": 615,
+            "content": "पाठ्य ¦ <lex>mfn.</lex> to be recited, <ls>R.</ls>; <ls>Sāh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पाठ्य",
+            "eid": "121422",
+            "pagenum": 615,
+            "content": "¦ to be taught, needing instruction, <ls>BhP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पाठ्य",
+            "eid": "28732",
+            "pagenum": 562,
+            "content": "<i>Pāṭhya, as, ā, am,</i>¦ to be taught, needing instruction."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पाठ्य",
+            "eid": "65547",
+            "pagenum": 4,
+            "content": "पाठ्य¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>zu recitiren</i>. <div n='1'>— 2〉 <i>der des Unterrichts bedarf</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पाठ्य",
+            "eid": "44112",
+            "pagenum": 4,
+            "content": "पाठ्य¦ (vom. caus. von पठ्) <lex>adj.</lex> <i>der des Unterrichts bedarf</i> <ls>BHĀG. P. 7, 5, 2.</ls>"
+        },
+        {
+            "word": "पाठ्य",
+            "eid": "78401",
+            "pagenum": 5,
+            "content": "पाठ्य¦ <i>zu recitiren</i>: जग्राह पाठ्यमृग्वेदात्सामभ्यो गीतमेव च <ls>Verz. d. Oxf. H. 265,b,24.</ls> <ls>R. 7, 94, 2.</ls> <ls>SĀH. D. 542.</ls>"
+        }
     ]
 }

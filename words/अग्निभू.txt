@@ -28,5 +28,47 @@
             "pagenum": 4,
             "content": "agni-BU¦ <i>m.</i> Skanda."
         }
+    ],
+    "MW": [
+        {
+            "word": "अग्निभू",
+            "eid": "1010",
+            "pagenum": 5,
+            "content": "अग्नि—भू ¦ <lex>m.</lex> <s1 slp1='skanda'>Skanda</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अग्निभू",
+            "eid": "1011",
+            "pagenum": 5,
+            "content": "¦ <ab>N.</ab> of a Vedic teacher, with the <ab>patron.</ab> <s1 slp1='kASyapa'>Kāśyapa</s1>, <ls>VBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अग्निभू",
+            "eid": "1012",
+            "pagenum": 5,
+            "content": "¦ (in <ab>arithm.</ab>) six.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्निभू",
+            "eid": "593",
+            "pagenum": 1,
+            "content": "अग्निभू¦ (<i>aus Feuer entstanden,</i> <is>Agni</is>ʼs <i>Sohn</i>) <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 *ein <ab>N.</ab> <is>Skanda</is>ʼs. <div n='2'>— b〉 <ab>N. pr.</ab> verschiedener Männer. <div n='1'>— 2〉 *<lex>n.</lex> °भू <i>Wasser</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्निभू",
+            "eid": "420",
+            "pagenum": 1,
+            "content": "अग्निभू¦ (अग्नि + भू adj.) <lex>m.</lex> <is>Skanda</is>, <i>der Gott des Krieges</i>, <ls>AK. 1, 1, 1, 35.</ls> <ls>H. 209.</ls> <div n='v'>— Vgl. अग्निजन्मन् ."
+        },
+        {
+            "word": "अग्निभू",
+            "eid": "62608",
+            "pagenum": 5,
+            "content": "अग्निभू¦ <lex>m.</lex> N. pr. eines Mannes mit dem patron. <is>Kāśyapa</is> <ls>Ind. St. 4, 373. fg.</ls>"
+        }
     ]
 }

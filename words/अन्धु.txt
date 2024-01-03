@@ -44,5 +44,51 @@
             "pagenum": 32,
             "content": "anDu¦ <i>m.</i> A well."
         }
+    ],
+    "MD": [
+        {
+            "word": "अन्धु",
+            "eid": "1808",
+            "pagenum": 18,
+            "content": "अन्धु¦ andhu, <lex>m.</lex> well."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अन्धु",
+            "eid": "8470",
+            "pagenum": 45,
+            "content": "अन्धु ¦ <lex>m.</lex> a well, <ls>Rājat.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अन्धु",
+            "eid": "2991",
+            "pagenum": 45,
+            "content": "अन्धु¦ <i>andhu, us,</i> m. (fr. rt. <i>am</i> or <i>andh?</i>), a well."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अन्धु",
+            "eid": "5528",
+            "pagenum": 1,
+            "content": "अन्धु¦ <lex>m.</lex> <i>Brunnen</i> <ls>RĀJAT. 8,2417</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अन्धु",
+            "eid": "3484",
+            "pagenum": 1,
+            "content": "अन्धु/¦ <lex>m.</lex> <i>Brunnen</i> <ls>Uṇ. 1, 27.</ls> <ls>AK. 1, 2, 3, 26.</ls> <ls>TRIK. 1, 2, 27.</ls> <ls>H. 1091.</ls> आपीनो ऽन्धुः <ls>P. 6, 1, 28</ls>, <ls>Sch.</ls>"
+        },
+        {
+            "word": "अन्धु",
+            "eid": "63952",
+            "pagenum": 5,
+            "content": "अन्धु¦ vgl. कर्करान्धुक, धर्मान्धु, मेलान्धु ."
+        }
     ]
 }

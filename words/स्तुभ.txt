@@ -39,5 +39,43 @@
             "pagenum": 804,
             "content": "stuBa¦ <i>m.</i> A goat."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्तुभ",
+            "eid": "254818",
+            "pagenum": 1260,
+            "content": "स्तुभ ¦ <lex>m.</lex> <ab>N.</ab> of an <s1 slp1='agni'>Agni</s1>, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "स्तुभ",
+            "eid": "254819",
+            "pagenum": 1260,
+            "content": "¦ a goat (<ab>cf.</ab> तुभ, स्त/भ and स्तुनक), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्तुभ",
+            "eid": "53079",
+            "pagenum": 1143,
+            "content": "स्तुभ¦ <i>stubha, as,</i> m. a goat (<i>= chāga</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्तुभ",
+            "eid": "130565",
+            "pagenum": 7,
+            "content": "स्तुभ¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein <ab>best.</ab></i> <is>Agni</is>. <div n='1'>— 2〉 <i>Bock</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्तुभ",
+            "eid": "113690",
+            "pagenum": 7,
+            "content": "स्तुभ¦ <lex>m.</lex> <div n='1'> 1) N. eines <is>Agni</is> <ls>MBH. 3, 14190.</ls> <div n='1'>— 2) <i>Bock</i> <ls>AK. 2, 9, 76.</ls> nach <ls>ŚKDR.</ls> Lesart <ls>BHARATA'S</ls>; vgl. तुभ, स्तभ ."
+        }
     ]
 }

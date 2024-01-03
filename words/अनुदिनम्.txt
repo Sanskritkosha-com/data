@@ -31,5 +31,37 @@
             "pagenum": 23,
             "content": "anudinam¦ <i>ind.</i> Daily, every day."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनुदिनम्",
+            "eid": "6442",
+            "pagenum": 33,
+            "content": "अनु-दिनम् ¦ <lex>ind.</lex> every day.<info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुदिनम्",
+            "eid": "2168",
+            "pagenum": 34,
+            "content": "अनुदिनम्¦ <i>anu-dinam</i> or <i>anu-divasam,</i> ind. daily, every day."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुदिनम्",
+            "eid": "4447",
+            "pagenum": 1,
+            "content": "अनुदिनम् und अनुदिन°¦ <lex>Adv.</lex> <i>Tag für Tag</i> <ls n='Chr.'>104,24. 105,2. 315,4</ls>. <ls>KĀD. 120,16</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुदिनम्",
+            "eid": "63604",
+            "pagenum": 5,
+            "content": "अनुदिनम्¦ (1. अनु + दिन) adv. <i>Tag für Tag</i> <ls>Spr. 1785.</ls> <ls>KIR. 5, 37.</ls> <ls>KATHĀS. 24, 231.</ls> अनुदिनसहवाससानुराग <ls n='KATHĀS.'>16, 123.</ls>"
+        }
     ]
 }

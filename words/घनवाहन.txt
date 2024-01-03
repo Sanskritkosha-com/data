@@ -20,5 +20,35 @@
             "pagenum": 258,
             "content": "Gana-vAhana¦ <i>m.</i> 1. Śiva; 2. Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "घनवाहन",
+            "eid": "69523",
+            "pagenum": 376,
+            "content": "घन—वाहन ¦ <lex>m.</lex> ‘riding on clouds’, <s1 slp1='Siva'>Śiva</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "घनवाहन",
+            "eid": "69524",
+            "pagenum": 376,
+            "content": "¦ <s1 slp1='indra'>Indra</s1> (<ab>cf.</ab> मेघ-व्°), <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "घनवाहन",
+            "eid": "37790",
+            "pagenum": 2,
+            "content": "*घनवाहन¦ <lex>m.</lex> <ab>Bein.</ab> <div n='1'>— 1〉 <is>Śiva</is>ʼs. <div n='1'>— 2〉 <is>Indra</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "घनवाहन",
+            "eid": "23975",
+            "pagenum": 2,
+            "content": "घनवाहन¦ (घन <i>Wolke</i> + वा° <i>Vehikel</i>) <lex>m.</lex> ein Bein. <is>Śiva's</is> <ls>H. 197.</ls> <is>Indra's</is> (nach der Analogie von मेघवाहन) <ls>ŚKDR.</ls> <ls>WILS.</ls>"
+        }
     ]
 }

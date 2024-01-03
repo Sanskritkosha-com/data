@@ -23,5 +23,35 @@
             "pagenum": 512,
             "content": "brahman-BUta¦ <i>a.</i> become one with the supreme spirit."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्मभूत",
+            "eid": "146896",
+            "pagenum": 739,
+            "content": "ब्रह्म—भूत ¦ <lex>mfn.</lex> become <ab>i.e.</ab> absorbed in <s1 slp1='brahma'>Brahmă</s1>, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>VP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ब्रह्मभूत",
+            "eid": "146896.1",
+            "pagenum": 739,
+            "content": "ब्रह्म—भूत ¦ <lex>n.</lex> identification with <s1 slp1='brahma'>Brahmă</s1>, <ls>VP.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्मभूत",
+            "eid": "77972",
+            "pagenum": 4,
+            "content": "ब्रह्मभूत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>in das</i> <is>Brahman</is> <i>eingegangen</i> <ls>VP. 5,37,68</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>das Eingegangensein in das</i> <is>Brahman</is> <ls>VP. 1,22,42. 5,19,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्मभूत",
+            "eid": "53430",
+            "pagenum": 5,
+            "content": "ब्रह्मभूत¦ (1. ब्रह्मन् + भूत) <lex>adj.</lex> <i>zu</i> <is>Brahman</is> <i>geworden, in's</i> <is>Brahman</is> <i>eingegangen</i> <ls>M. 5, 93.</ls> <ls>MBH. 1, 14.</ls> <i>condition (!) of Brahma</i> <ls>VP. 155.</ls>"
+        }
     ]
 }

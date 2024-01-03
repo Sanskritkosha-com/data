@@ -31,5 +31,37 @@
             "pagenum": 12,
             "content": "aTarvARa¦ <i>n.</i> Ritual of the Atharvaveda."
         }
+    ],
+    "MW": [
+        {
+            "word": "अथर्वाण",
+            "eid": "3571",
+            "pagenum": 17,
+            "content": "अथर्वाण ¦ <lex>n.</lex> the <s1 slp1='aTarva'>Atharva</s1>-<s1 slp1='veda'>veda</s1> or the ritual of it, <ls>MBh.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अथर्वाण",
+            "eid": "956",
+            "pagenum": 17,
+            "content": "<i>Atharvāṇa, am,</i>¦ n. the work, i. e. ritual of the Atharva-veda. <i>—Atharvāṇa-vid, t,</i> m. one versed in that ritual."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अथर्वाण",
+            "eid": "2382",
+            "pagenum": 1,
+            "content": "अथर्वाण¦ <i>die Lieder des</i> <is>Atharvaveda</is>. °विद्. [Page1-028-b] <ls>MBH. 12,342,100</ls>. °शिरस् <ls>Ind. St. 9,16</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अथर्वाण",
+            "eid": "1650",
+            "pagenum": 1,
+            "content": "अथर्वाण¦ <lex>n.</lex> <i>der</i> <is>Atharvaveda</is>: अथर्वाणविदः <ls>MBH. 12, 13259.</ls> पञ्चकल्पमथर्वाणं कृत्याभिः परिवृंहितम् <ls n='MBH. 12,'>13258.</ls>"
+        }
     ]
 }

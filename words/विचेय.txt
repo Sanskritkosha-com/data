@@ -21,5 +21,55 @@
             "pagenum": 403,
             "content": "2. विचेय¦ zu suchen; <i>n.</i> Untersuchung."
         }
+    ],
+    "MW": [
+        {
+            "word": "विचेय",
+            "eid": "194805",
+            "pagenum": 959,
+            "content": "वि-°चेय ¦ <lex>mfn.</lex> to be searched or searched through, <ls>R.</ls> (-तारक <lex type='phw'>mfn.</lex> having the stars distinguishable or separated by long intervals, <ls>Ragh.</ls>)<info phwchild='194806.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विचेय",
+            "eid": "194806",
+            "pagenum": 959,
+            "content": "वि-°चेय ¦ <lex>n.</lex> investigation, <ls>R.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विचेय",
+            "eid": "42469",
+            "pagenum": 914,
+            "content": "<i>Vi-ceya, as, ā, am,</i>¦ discernible, distinguishable; to be searched for. <i>—Viceya-tāraka, as, ā, am,</i> having stars which have to be searched for, i. e. separated by long intervals (<i>= virala-nakṣatra</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विचेय",
+            "eid": "102073",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विचेय¦ <lex>Adj.</lex> <i>zu sichten, zu sondern, zu zählen</i> (so <ab>v. a.</ab> <i>gering an Zahl</i>)."
+        },
+        {
+            "word": "विचेय",
+            "eid": "102074",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> विचेय¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>zu suchen</i>. <div n='2'>— b〉 <i>zu durchsuchen</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>Untersuchung, Nachforschung</i>. °यं कर् <i>eine Untersuchung anstellen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विचेय",
+            "eid": "91192",
+            "pagenum": 6,
+            "content": "1. विचेय¦ (von 1. चि mit वि) <lex>adj.</lex> <i>zu sichten, zu sondern, zu zählen</i> (so v. a. <i>gering an Zahl</i>): °तारका <ls>RAGH. 3, 2.</ls>"
+        },
+        {
+            "word": "विचेय",
+            "eid": "91193",
+            "pagenum": 6,
+            "content": "2. विचेय¦ (von 2. चि mit वि) <div n='1'> 1) <lex>adj.</lex> <i>zu suchen</i>: जनकात्मजा <ls>R. 4, 41, 34.</ls> <i>zu durchsuchen</i>: आलयाः <ls n='R. 4,'>40, 32.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Untersuchung, Nachforschung</i>: विचेयं कर् <i>eine Untersuchung anstellen</i> <ls>R. 4, 47, 7.</ls>"
+        }
     ]
 }

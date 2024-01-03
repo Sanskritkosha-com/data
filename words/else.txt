@@ -21,5 +21,19 @@
             "pagenum": 234,
             "content": "<b>ELSE</b>¦ (adj.): Ph.: <div n='xe'><i>who e.:</i></div> <div n='xs'>कोऽन्यः</div> <div n='xe'><i>or</i></div> <div n='xs'>कोऽपरः,</div> K.; <div n='xe'><i>what e.:</i></div> <div n='xs'>किमन्यत्</div> <div n='xe'><i>or</i></div> <div n='xs'>किमपरम्,</div> Ma. <div n='xe'><i>or</i></div> <div n='xs'>किमितः परम्,</div> Ra.; <div n='xe'><i>something e.:</i></div> <div n='xs'>अन्यत् किञ्चित्,</div> Ana; <div n='xe'><i>some-</i> <i>where e.:</i></div> <div n='xs'>अन्यत्र कुत्रापि,</div> N."
         }
+    ],
+    "MWE": [
+        {
+            "word": "else",
+            "eid": "9439",
+            "pagenum": 222,
+            "content": "ELSE¦, <i>a.</i> अन्यः -न्या -न्यत्, इतरः -रा -रं, परः -रा -रं, व्यतिरिक्तः -क्ता -क्तं, भिन्नः -न्ना -न्नं, प्रभिन्नः -न्ना -न्नं, अपरः -रा -रं; ‘any thing else,’ किञ्चिद् अन्यत्; ‘what else can he do,’ पुनः किं करोति; ‘any thing else but this,’ एतद्भिन्नं किञ्चित्, अस्मात् परं किञ्चित्, or एतद्व्यतिरिक्तं किञ्चित्."
+        },
+        {
+            "word": "else",
+            "eid": "9440",
+            "pagenum": 222,
+            "content": "ELSE¦, <i>conj.</i> (Otherwise) अन्यथा, अथवा, नो चेत्, न चेत्, इतरथा, इतरतस्, अन्यतस्, परतस्, अन्यत्, किंवा, एतद्विना, एतद्व्यतिरेकेण."
+        }
     ]
 }

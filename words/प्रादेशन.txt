@@ -44,5 +44,37 @@
             "pagenum": 489,
             "content": "prAdeSana¦ <i>n.</i> A gift."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रादेशन",
+            "eid": "138851",
+            "pagenum": 702,
+            "content": "प्रा—देशन ¦ <lex>n.</lex> = प्र-देशन, a gift &c., <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रादेशन",
+            "eid": "33629",
+            "pagenum": 657,
+            "content": "<i>Prādeśana, am,</i>¦ n. <i>= pra-deśana,</i> a gift, &c."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रादेशन",
+            "eid": "74370",
+            "pagenum": 4,
+            "content": "*प्रादेशन¦ <lex>n.</lex> = प्रदशन <i>Darbringung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रादेशन",
+            "eid": "50753",
+            "pagenum": 4,
+            "content": "प्रादेशन¦ <lex>n.</lex> = प्रदेशन <i>Darbringung</i> <ls>AK. 2, 7, 29.</ls> <ls>H. 386</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

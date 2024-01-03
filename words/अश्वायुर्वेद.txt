@@ -27,5 +27,29 @@
             "pagenum": 82,
             "content": "aSva-Ayurveda¦ <i>m.</i> veterinary science."
         }
+    ],
+    "MW": [
+        {
+            "word": "अश्वायुर्वेद",
+            "eid": "20074",
+            "pagenum": 115,
+            "content": "aSvA<srs/>yurveda ¦ <lex>m.</lex> veterinary science.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अश्वायुर्वेद",
+            "eid": "11980",
+            "pagenum": 1,
+            "content": "अश्वायुर्वेद¦ <lex>m.</lex> <i>Veterinärkunde</i>. Wird dem <is>Bhoja</is> zugeschrieben <ls>B. A. J. 10,130</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अश्वायुर्वेद",
+            "eid": "7172",
+            "pagenum": 1,
+            "content": "अश्वायुर्वेद¦ (अश्व + आयुस् - वेद) <lex>m.</lex> <i>Veterinärkunde</i> <ls>Verz. d. B. H. No. 944.</ls>"
+        }
     ]
 }

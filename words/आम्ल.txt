@@ -29,5 +29,43 @@
             "pagenum": 105,
             "content": "Amla¦ <i>(II) n.</i> Sourness, acidity."
         }
+    ],
+    "MW": [
+        {
+            "word": "आम्ल",
+            "eid": "25687",
+            "pagenum": 147,
+            "content": "आम्ल ¦ <lex>mf.</lex> (<ab>fr.</ab> अम्ल), the tamarind tree, <bot>Tamarindus Indica</bot>, <ls>L.</ls><info lex='m:f'/>"
+        },
+        {
+            "word": "आम्ल",
+            "eid": "25688",
+            "pagenum": 147,
+            "content": "आम्ल ¦ <lex>n.</lex> sourness, acidity, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आम्ल",
+            "eid": "8973",
+            "pagenum": 126,
+            "content": "आम्ल¦ <i>āmla, as, ā,</i> m. f. (fr. <i>amla</i>), the tamarind tree, Tamarindus Indica; (<i>am</i>), n. sourness, acidity. <i>—Āmla-vetasa, as,</i> m. the plant Rumex Vesicatorius."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आम्ल",
+            "eid": "15269",
+            "pagenum": 1,
+            "content": "*आम्ल¦ <lex>m.</lex> <lex>f.</lex> आ und <lex>n.</lex> <i><bot>Tamarindus indica</bot></i> und = श्रीवल्ली."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आम्ल",
+            "eid": "9001",
+            "pagenum": 1,
+            "content": "आम्ल¦ (von अम्ल) <lex>m.</lex> <lex>f.</lex> (आ) <lex>n.</lex> <i>Tamarindus indica</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> eine andere Pflanze (श्रीवल्ली) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

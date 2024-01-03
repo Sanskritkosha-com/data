@@ -166,5 +166,247 @@
             "pagenum": 1,
             "content": "a¦ <i>(IV) n.</i> A name of Brahman (n.)."
         }
+    ],
+    "MCI": [
+        {
+            "word": "अ",
+            "eid": "2063",
+            "pagenum": 579,
+            "content": "<b>A</b>¦ Location: In the north (<i>prayayāv</i> <i>uttarāṃ tasmād diśam</i>) 2. 24. 1. <b>B.</b> Description: Delightful (<i>ramya</i>) 2. 24. 19. <b>C.</b> Epic event: It was ruled by Cirāyudha: Arjuna defeated him in battle in his expedition to the north of Indraprastha before the Rājasūya (<i>tataḥ siṃhapuraṃ ramyaṃ</i> <i>citrāyudhasurakṣitam / prāmathad … pāka-</i> <i>śāsanir āhave //</i>) 2. 24. 19."
+        }
+    ],
+    "MD": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "अ¦ <hom>1.</hom> a, <ab>pn.</ab> <i>root used in the inflexion of</i> idam 🞄<i>and in some particles</i>: a-tra, a-tha."
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "अ°¦ <hom>2.</hom> a-, अन्° an- <i>before vowels</i>, <ab>neg.</ab> <ab>px.</ab> = un-."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ ¦ the first letter of the alphabet"
+        },
+        {
+            "word": "अ",
+            "eid": "1.1",
+            "pagenum": 1,
+            "content": "¦ the first short vowel inherent in consonants."
+        },
+        {
+            "word": "अ",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अ ¦ (प्रगृह्य, <ab>q.v.</ab>), a vocative particle [अ अनन्त, O <s1 slp1='vizRu'>Viṣṇu</s1>], <ls>T.</ls>"
+        },
+        {
+            "word": "अ",
+            "eid": "3.1",
+            "pagenum": 1,
+            "content": "¦ interjection of pity, Ah!"
+        },
+        {
+            "word": "अ",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> अ ¦ (before a vowel अन्, <ab>exc.</ab> अ-ऋणिन्), a prefix corresponding to <ab>Gk.</ab> <lang n='greek'>ἀ</lang>, <lang n='greek'>ἀν</lang>, <ab>Lat.</ab> <etym>in</etym>, <ab>Goth.</ab> and <ab>Germ.</ab> <etym>un</etym>, <ab>Eng.</ab> <etym>in</etym> or <etym>un</etym>, and having a negative or privative or contrary sense (अन्-एक not one; अन्-अन्त endless; अ-सत् not good; अ-पश्यत् not seeing)"
+        },
+        {
+            "word": "अ",
+            "eid": "4.1",
+            "pagenum": 1,
+            "content": "¦ rarely prefixed to <ab>Inf.</ab> (अ-स्वप्तुम् not to sleep, <ls>TāṇḍyaBr.</ls>) and even to forms of the finite verb (अ-स्पृहयन्ति they do not desire, <ls>BhP.</ls>; <ls>Śiś.</ls>) and to pronouns (अ-सः not he, <ls>Śiś.</ls>; अ-तद् not that, <ls>BhP.</ls>)"
+        },
+        {
+            "word": "अ",
+            "eid": "4.2",
+            "pagenum": 1,
+            "content": "¦ occasionally denoting comparison (अ-ब्राह्मण like a <s1 slp1='brahman'>Brahman</s1>, <ls>T.</ls>)"
+        },
+        {
+            "word": "अ",
+            "eid": "4.3",
+            "pagenum": 1,
+            "content": "¦ sometimes disparagement (अ-यज्ञ a miserable sacrifice)"
+        },
+        {
+            "word": "अ",
+            "eid": "4.4",
+            "pagenum": 1,
+            "content": "¦ sometimes diminutiveness (<ab>cf.</ab> अ/-कर्ण, अन्-उदरा)"
+        },
+        {
+            "word": "अ",
+            "eid": "4.5",
+            "pagenum": 1,
+            "content": "¦ rarely an expletive (<ab>cf.</ab> अ-कुप्य, अ-पूप). According to, <ls>Pāṇ. vi, 2, 161</ls>, the accent may be optionally either on the first or last syllable in certain compounds formed with अ (as अ/-तीक्ष्ण or अ-तीक्ष्ण/, अ/-शुचि or अ-शुचि/, अ/न्-अन्न or अन्-अन्न/)"
+        },
+        {
+            "word": "अ",
+            "eid": "4.6",
+            "pagenum": 1,
+            "content": "¦ the same applies to stems ending in तृ accentuated on the first syllable before अ is prefixed"
+        },
+        {
+            "word": "अ",
+            "eid": "4.7",
+            "pagenum": 1,
+            "content": "¦ <ab>cf.</ab> also अ/-तूर्त and अ-तू/र्त, अ/-भिन्न and अ-भिन्न/, &c."
+        },
+        {
+            "word": "अ",
+            "eid": "5",
+            "pagenum": 1,
+            "content": "<hom>4.</hom> अ ¦ the base of some pronouns and <ab>pronom.</ab> forms, in अस्य, अत्र, &c.<info lexcat='LEXID=pron,STEM=idam'/>"
+        },
+        {
+            "word": "अ",
+            "eid": "6",
+            "pagenum": 1,
+            "content": "<hom>5.</hom> अ ¦ the augment prefixed to the root in the formation of the imperfect, aorist, and conditional tenses (in the <s1 slp1='veda'>Veda</s1> often wanting, as in Homer, the fact being that originally the augment was only prefixed in principal sentences where it was accentuated, whilst it was dropped in subordinate sentences where the root-vowel took the accent)."
+        },
+        {
+            "word": "अ",
+            "eid": "7",
+            "pagenum": 1,
+            "content": "<hom>6.</hom> अ ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>L.</ls> (especially as the first of the three sounds in the sacred syllable ओम्). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "अ 1¦. <i>a,</i> the first letter of the alphabet; the first short vowel inherent in consonants. <i>—A-kāra,</i> <i>as,</i> m. the letter or sound <i>a.</i>"
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "अ 2¦. <i>a,</i> ind. an interjection of pity (Ah!)."
+        },
+        {
+            "word": "अ",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "अ 3¦. <i>a</i> (before a vowel <i>an</i>), a prefix corresponding to Gr. <lang n='greek'>ἀ, ἀν</lang> Lat. <nsi>in,</nsi> Goth. and Germ. <nsi>un,</nsi> Eng. <nsi>in</nsi> or <nsi>un,</nsi> and having a negative or privative or depreciative sense; e. g. <i>eka</i> one, <i>an-eka</i> not one; <i>anta</i> end, <i>an-anta</i> endless; <i>paśyat</i> seeing, <i>a-paśyat</i> not seeing. Sometimes this prefix denotes comparison. It is occasionally an expletive."
+        },
+        {
+            "word": "अ",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "अ 4¦. <i>a,</i> the base of some pronouns and pronom. forms; (substituted for <i>idam,</i> in <i>asya, atra,</i> &c.)"
+        },
+        {
+            "word": "अ",
+            "eid": "5",
+            "pagenum": 1,
+            "content": "अ 5¦. <i>a,</i> the augment prefixed to the root in the formation of the imperfect, aorist, and conditional tenses, by some considered as connected with 3. <i>a,</i> and by others as connected with 4. <i>a.</i>"
+        },
+        {
+            "word": "अ",
+            "eid": "6",
+            "pagenum": 1,
+            "content": "अ 6¦. <i>a, as,</i> m., N. of Viṣṇu (especially as the first of the three sounds in the sacred syllable <i>om</i>), also of Brahmā, Śiva, and Vaiśvānara; (<i>am</i>), n. Brahma."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ¦ <lex>Pron.</lex> der 3ten Person. Davon अस्मै/, अस्यै/, अस्मा/त्, अस्या/स्, अस्य/, अस्मि/न्, अस्या/म्, आभ्या/म्, एभि/स्, आभि/स्, एभ्य/स्, आभ्य/स्, एषा/म्, आसा/म् एषु/, आसु/ <i>Diesem, diesem hier</i> <ab>u. s. w.</ab> Unbetont <ab>Subst.</ab> <i>ihm, ihr</i> <ab>u. s. w.</ab> <ab>Vgl.</ab> अयम्, अया, इदम्, इम, इयम्, एन, एना."
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अ° vor Consonanten, अन्° vor Vocalen¦ = <gk>ἀ, ἀν</gk> <ab>priv.</ab> अब्राह्मण <i>kein Brahman,</i> अनध्याय <i>kein Lesen,</i> अस्वेद <i>schweisslos,</i> अनङ्ग <i>körperlos,</i> अशुचि <i>unrein,</i> अतर्ह <i>unwürdig,</i> अकृत्वा <i>nicht gethan habend,</i> अनर्चितुम् (selten) <i>nicht ehren,</i> अस्पृहयन्ति (<ls>BHĀG. P.</ls> <ls>ŚIŚ. 15,33</ls>) <i>sie begehren nicht</i>."
+        },
+        {
+            "word": "अ",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> *अ¦ <ab>Interj.</ab>"
+        },
+        {
+            "word": "अ",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "<hom>4.</hom> *अ¦ <lex>m.</lex> <div n='1'>— 1〉 <is>Viṣṇu</is>. <div n='1'>— 2〉 fingirter Mannsname."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "1. अ¦ Interj. अ अपेहि (die beiden Vocale fliessen nicht in einander) <ls>P. 1, 1, 14</ls>, <ls>Sch.</ls>; vgl. <is>gaṇa</is> चादि und <ls>VOP. 2, 19.</ls> Drückt Mitleid aus (अनुकम्पायाम्) <ls>MED. <is>avy</is>. 2.</ls>"
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "2. अ¦ Pronominalstamm: <div n='2'> a) der 1sten Person, enthalten in अह/म्, आवा/म्, आवा/भ्याम्, आव/योस्, अस्मा/न्, अस्मा/भिस्, अस्म/भ्यम्, अस्म/त्, अस्मा/कम्, अस्मा/सु und im ved. अस्मे/ . <div n='2'>— b) der 3ten Person; <lex>f.</lex> आ . Davon folgende Casusformen: अय/म् (अ wird nach ए und ओ im <ls>ṚV.</ls> nicht elidirt, <ls>P. 6, 1, 116.</ls> zwei Ausnahmen findet man schon <ls>ṚV. PRĀTIŚ. 2, 19.</ls> <ls n='ṚV. PRĀTIŚ. 2,'>21</ls> : अग्ने ऽयम् und वहते ऽयम्), अस्मै/, अस्यै/, अस्मा/त्, अस्या/स्, अस्य/, अस्मि/न्, अस्या/म्, आभ्या/म्, एभि/स्, आभि/स्, एभ्य/स्, आभ्य/स्, एषा/म्, आसा/म्, एषु/, आसु/ . In den Veden allein erscheinen überdies: Instr.Sg.m.n. एना/, <lex>f.</lex> अया/ (beide Formen auch als Adverbia im Gebrauch); der zu einem Adverb erstarrte Ablativ आ/त् und der Gen. Du. अयो/स् . Ueber die Bedeutung und die Betonung dieser Formen s. u. इदम् . Demselben Stamme begegnen wir ferner in अतस्, अत्र, अथ, अद्य, अध, अना, अह ."
+        },
+        {
+            "word": "अ",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "3. अ¦ vor Consonanten und अन् vor Vocalen (vergl. jedoch अऋणिन्). Eine negirende Partikel, die wie das griech. <lang n='greek'>ἀ, ἀν</lang> priv., das lat. <i>in</i> und deutsche <i>un</i> nur in Verbindung mit andern Worten erscheint, <ls>P. 2, 2, 6.</ls> <ls>AK. 3, 5, 1.</ls> <ls>TRIK. 3, 3, 463. 464.</ls> <ls>H. 1539.</ls> <ls>an. 7, 1.</ls> <ls>MED. <is>avy</is>. 2.</ls> Ueber den Accent solcher zusammenges. Wörter s. <ls>P. 6, 2, 2.</ls> <ls n='P. 6, 2,'>116.</ls> <ls n='P. 6, 2,'>155</ls>-<ls n='P. 6, 2,'>161.</ls> <ls n='P. 6, 2,'>172</ls>-<ls n='P. 6, 2,'>174.</ls> <ls>AUFR.</ls> <i>De accentu comp.</i> § 35. 36. 40. 44, 6. 127-132; über die Bildung von Derivaten <ls>P. 5, 1, 121.</ls> <ls n='P.'>7, 3, 30.</ls> <ls n='P. 7, 3,'>31</ls>; über den Accent derselben <is>Vārtt</is>. 7-9. zu <ls>P. 5, 1, 119.</ls> Wird verbunden: <div n='1'> 1) mit Substantiven aller Art: <div n='2'> a) der nachfolgende Begriff wird einfach negirt: अकर्मन् <i>das Nichthandeln</i> <ls>BHAG. 2, 47.</ls> त्र्यहमनध्यायः <i>während dreier Tage kein Lesen</i> <ls>YĀJÑ. 1, 144.</ls> अजीवनिस्ते भूयात् <i>Nichtleben sei dir, mögest du sterben</i> <ls>P. 3, 3, 112</ls>, <ls>Sch.</ls> अकारणात् <i>ohne Grund</i> <ls>R. 1, 2, 32.</ls> अदेशकाले <i>am unrechten Orte und zu unrechter Zeit</i> <ls>BHAG. 17, 22.</ls> अत्र पितापिता भवति मातामाता लोका अलोका देवा अदेवा वेदा अवेदाः <ls>BṚH. ĀR. UP. 4, 3, 22.</ls> अब्राह्मण <i>ein Nicht-Brahmane</i> <ls>CHĀND. UP. 4, 4, 5.</ls> <ls>M. 7, 85.</ls> अनपुंसकेन <i>mit einem Worte, das kein Neutrum ist</i> <F>*Mit Unrecht nimmt <ls>PAT.</ls> an अनपुंसकस्य <ls>P. 1, 1, 43.</ls> Anstoss. Er löst dasselbe in न भवति नपुंसकस्य auf und ähnliche Auflösungen mögen <ls>TRIK.</ls> und <ls>MED.</ls> veranlasst haben, dem neg. अ die Bedeutung von निषेध und प्रतिषेध zuzutheilen.</F> <ls>P. 1, 2, 69.</ls> देवनेन   मम प्रीतिर्न भवत्यसुहृद्गणैः <i>ich habe keine Freude am Spiel mit Nicht-Freunden</i> <ls>N. 26, 14.</ls> नाद्वारेण विशेत् <i>er trete nicht anders als durch die Thür ein</i> <ls>YĀJÑ. 1, 140.</ls> नासहस्रेणावर्तेय <i>ich möchte nicht mit einem Nicht-Tausend heimkehren</i>, d. h. <i>ich möchte nicht eher heimkehren, bis ein Tausend voll ist</i> <ls>CHĀND. UP. 4, 4, 5.</ls> Vor einem Nomen pr. oder Appell. (संज्ञा) im Vorwurf, mit dem Accent auf der letzten Silbe <ls>P. 6, 2, 159.</ls> अदेवदत्त/ः <i>wie ein Nicht</i>-<is>Devadatta</is>, <i>des</i> <ab n='?'>D.</ab> <i>unwürdig</i> <ls>Sch.</ls> In der Regel behält das Substantiv die unveränderte Gestalt bei <ls>P. 5, 4, 71.</ls> अराजा (sonst am Ende eines Comp. — राजस्), असखा (sonst — सखस्), (अगौस्) (sonst — गवस्) <ls>Sch.</ls> Ausnahmen: ebend. <ls n='P. 5, 4,'>72.</ls> <ls>VOP. 6, 90.</ls> <div n='2'>— b) die Identität des nachfolgenden Begriffs mit einem andern Begriff im Satze wird negirt. Durch ein solches einfaches Negiren der Identität wird indessen auf die Aehnlichkeit der beiden Begriffe in einer im Satze näher angegebenen Beziehung hingewiesen. Das Compositum erscheint als Apposition eines andern Nominalbegriffs, der mit diesem verglichen wird. Diese Bedeutung von अ, die an den vedischen Gebrauch der Negation न erinnert, finden wir im <ls>TRIK.</ls> (नञ् सादृश्ये) erwähnt, vermögen aber dieselbe nur durch ein <F>अस्थूरि <ls>VS. 2, 27.</ls> gehört nicht, wie <ls>WEBER</ls> in <ls>Ind. St. I, 339, N.</ls> anzunehmen geneigt wäre, hierher. Der Scholiast erklärt es durch अस्थूरीव und nicht durch स्थूरीव .</F> Beispiel zu belegen: ब्रह्मैव - कुरूनश्वाभिरक्षति <i>Br. beschützt die Vollbringer von Werken</i> (कुरून् = कर्तॄन् <ls>Sch.</ls>) <i>wie ein Hund</i> (<is>Śaṃkar</is>. fasst अश्वा als <i>Stute</i> und ergänzt यथा) <ls>CHĀND. UP. 4, 17, 10.</ls> vgl. अनिक्षु <i>eine Art Zuckerrohr</i> (इक्षु), das auch den Namen इक्षुतुल्या führt. <div n='2'>— c) der nachfolgende Begriff wird an einem andern Begriff negirt. Das Compositum bildet ein Adjectiv des Nichtbesitzes, das wie ein anderes Adjectiv in ein Appellativ oder ein Nomen pr. übergehen kann; <is>Vārtt</is>. 6. zu <ls>P. 2, 2, 24.</ls> अकर्दम <i>sumpflos</i> <ls>R. 1, 2, 5.</ls> अस्वेद <i>schweisslos</i> <ls>N. 5, 23.</ls> अनङ्ग <i>gliederlos, der Liebesgott.</i> Bezeichnet das Substantiv einen Theil des Körpers, so geht das Fem. auf आ aus, <ls>P. 4, 1, 57.</ls> (अकेशा <i>haarlos</i>, <ls>Sch.</ls>). Der Ton ruht auf der letzten Silbe <ls>P. 6, 2, 172.</ls> In den Veden vielfache Ausnahmen, ohne dass eine bestimmte Regel wahrzunehmen wäre. Vor dem Affix क (अब्रह्मबन्धू/क, अव्री/हिक) eine abweichende Betonung, <ls>P. 6, 2, 173.</ls> <ls n='P. 6, 2,'>174.</ls> Die indischen Lexicographen geben der Negation auch die Bedeutung von wenig (ईषदर्थे <ls>TRIK.</ls> स्वल्पार्थे <ls>MED.</ls> <ls>H. an.</ls>), weil sie, wie auch in andern Sprachen, bisweilen in übertreibender Weise gebraucht wird. So umschreibt z. B. <ls>ŚKDR.</ls> अकेश durch <div n='1'> 1) केशरहित <i>haarlos</i>, <div n='1'> 2) अल्पकेशयुक्त <i>mit wenig Haar versehen</i>, <div n='1'> 3) अप्रशस्तकेशविशिष्ट <i>nicht durch schönes Haar ausgezeichnet.</i> <div n='1'>— 2) mit Adjectiven aller Art: अक्रूर <i>nicht rauh</i> <ls>M. 2, 33.</ls> अतैजस <i>nicht von Metall</i> <ls>M. 6, 53.</ls> अहस्ताभरणोपेत <i>nicht mit Handschmuck versehen</i> <ls>R. 1, 6, 9.</ls> अ/तीक्ष्ण oder अतीक्ष्ण/, अ/शुचि oder अशुचि/; dieselbe doppelte Betonung haben die Nomina ag. auf तर् mit dem Accent auf der ersten Silbe, <ls>P. 6, 2, 161.</ls> Vgl. über die Betonung noch <ls>P. 6, 2, 155</ls> - <ls n='P. 6, 2,'>158.</ls> <ls n='P. 6, 2,'>160.</ls> Bisweilen verlieren solche Composita ganz die ihnen ursprünglich zukommende Unbestimmtheit des Begriffs, indem durch das Negiren eines bestimmten Begriffes der gerade entgegengesetzte Begriff gemeint wird; so bedeutet z. B. असित <i>nicht weiss</i> geradezu <i>schwarz.</i> Zwei Negationen bejahen: अनमितंपच = मितंपच, अनसूरि <ls>CHĀND. UP. 4, 3, 7.</ls> = सूरि . <div n='1'>— 3) mit verschiedenen Pronominibus: असस् <i>nicht er</i>, अनेषस् <i>nicht dieser</i> <ls>P. 6, 1, 132.</ls> Vgl. अकस्मात्, अकिंचन, अकुतोभय, अकुत्रा, अकुध्र्यञ्च् . <div n='1'>— 4) mit Adverbien: अमृषा <i>in Wahrheit</i> <ls>BṚH. ĀR. UP. 3, 9, 28.</ls> असकृत् <i>nicht einmal, öfters.</i> <div n='1'>— 5) mit Participien aller Art, mit dem Gerundivum und mit dem Infinitiv: मामपश्यन् <ls>N. 11, 12.</ls> किं नु मे स्यादिदमकुर्वतः <i>was würde wohl mit mir geschehen, wenn ich dieses nicht thäte</i> <ls>N. 10, 10.</ls> अ/नन्न oder अनन्न/ <ls>P. 6, 2, 161.</ls> Das Partic. praet. pass. verbindet sich mit der verneinten Form desselben Partic. sehr häufig zu einem Compositum, <ls>P. 2, 1, 60.</ls> (कृताकृतम्, भुक्ताभुक्तम्, अशितानशितेन जीवति, क्लिष्टाक्लिशितेन वर्तते <ls>Sch.</ls>) अकर्तव्य/, अकरणीय/ <ls>P. 6, 2, 160.</ls> अ/दत्वा <ls>AV. 12, 5, 19.</ls> अनवाप्य <ls>VIŚV. 8, 17.</ls> अनशितुं दध्रे <ls>CHĀND. UP. 4, 10, 3.</ls> नाशकत्तीव्रमायासमकर्तुम् <ls>DAŚ. 2, 19.</ls> वेति शक्यमवक्तुम् <ls>PAT.</ls> zu <ls>P. 7, 3, 70.</ls> अन्यतरच्छक्यमकर्तुम् id. zu <ls n='P.'>1, 1, 62.</ls> <div n='1'>— 6) mit einem Verbum finitum: अपचसि त्वं जाल्म <i>du kochst nicht</i> (im Vorwurf), <i>Narr!</i> <is>Vārtt</is>. zu <ls>P. 6, 3, 73.</ls> — Man hat die neg. Partikel अ mit dem im vorigen Artikel besprochenen Pronominalstamm der 3ten Person identificirt; die indischen Grammatiker dagegen halten अ für eine Verstümmelung von न (नञ्); s. <ls>P. 6, 3, 73</ls> - <ls n='P. 6, 3,'>77.</ls> <ls>VOP. 6, 9.</ls>"
+        },
+        {
+            "word": "अ",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "4. अ¦ Augment beim Imperfect, Aorist und Conditionalis. Ist wohl auch auf den unter 2. erwähnten Pronominalstamm der 3ten Person zurückzuführen."
+        },
+        {
+            "word": "अ",
+            "eid": "5",
+            "pagenum": 1,
+            "content": "5. अ¦ <lex>m.</lex> <is>Viṣṇu</is> <ls>TRIK. 1, 1, 29.</ls> <ls>MED. <is>avy</is>. 2.</ls>"
+        },
+        {
+            "word": "अ",
+            "eid": "62404",
+            "pagenum": 5,
+            "content": "3. अ¦ <div n='1'> 5) अनर्चितुम् <ls>R. 2, 48, 10.</ls> अवर्तितुम् <ls n='R. 2,'>111, 6.</ls> <div n='1'>— 6) scheinbar in der Stelle यद्यनुपश्येत् यद्यनानुपश्येत् <ls>AIT. BR. 7, 6</ls>, wo aber zu lesen ist यद्यु नानुपश्येत् ."
+        },
+        {
+            "word": "अ",
+            "eid": "117929",
+            "pagenum": 7,
+            "content": "3. अ¦ <div n='1'> 6) अस्पृहयान्त <ls>BHĀG. P. 3, 25, 37.</ls>"
+        },
+        {
+            "word": "अ",
+            "eid": "117930",
+            "pagenum": 7,
+            "content": "6. अ¦ (angeblich von 1. अत्) <lex>m.</lex> N. pr. eines Mannes <ls>PAT.</ls> in <ls>MAHĀBH. lith. Ausg. 1,172,b.</ls> <div n='v'>— Vgl. 5. इ weiter unten."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अ°¦, अस्वप्तुम् <ls>TĀṆḌYA-BR. 10,4,4</ls>."
+        },
+        {
+            "word": "अ",
+            "eid": "9410",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> अ und अंश¦ I. 1."
+        }
     ]
 }

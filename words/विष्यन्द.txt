@@ -15,5 +15,43 @@
             "pagenum": 512,
             "content": "विष्यन्द¦ <lex>m.</lex> drop; <ab>adj.</ab> °न्दिन्."
         }
+    ],
+    "MW": [
+        {
+            "word": "विष्यन्द",
+            "eid": "202678",
+            "pagenum": 1000,
+            "content": "वि-ष्यन्द ¦ <lex>m.</lex> (also written वि-स्यन्द and वि-स्पन्द <ab>cf.</ab> also वि-ष्पन्द) a drop, <ls>MBh.</ls>; <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विष्यन्द",
+            "eid": "202679",
+            "pagenum": 1000,
+            "content": "¦ flowing, trickling, issuing forth, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विष्यन्द",
+            "eid": "44360",
+            "pagenum": 950,
+            "content": "<i>Vi-ṣyanda, as,</i>¦ m. flowing, trickling, issuing forth."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विष्यन्द",
+            "eid": "105578",
+            "pagenum": 6,
+            "content": "विष्यन्द¦ <lex>m.</lex> <i>Tropfen</i> <ls>MBH. 13,77,31</ls>. Auch विस्यन्द und विस्पन्द geschrieben."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विष्यन्द",
+            "eid": "94085",
+            "pagenum": 6,
+            "content": "विष्यन्द¦ (von स्यन्द् mit वि) <lex>m.</lex> <i>Tropfen</i>: सोमस्य <ls>MBH. 13, 3727.</ls> (विस्पन्द <ls>ed. Calc.</ls>). शुक्रस्य विष्यन्दान् (so ist zu lesen; विस्यन्दात् <ls>ed. Calc.</ls> विस्पन्दान् <ls>ed. Bomb.</ls>). <ls>R. GORR. 2, 94, 13</ls> (विस्यन्द)."
+        }
     ]
 }

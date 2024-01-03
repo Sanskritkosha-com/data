@@ -15,5 +15,35 @@
             "pagenum": 189,
             "content": "द्विबाहु¦ zweiarmig; <i>m.</i> Mensch."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विबाहु",
+            "eid": "98582",
+            "pagenum": 505,
+            "content": "द्वि—बाहु ¦ <lex>mfn.</lex> 2-armed<info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विबाहु",
+            "eid": "98583",
+            "pagenum": 505,
+            "content": "द्वि—बाहु ¦ <lex>m.</lex> man, <ls>Kathās. liii, 94.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विबाहु",
+            "eid": "54008",
+            "pagenum": 3,
+            "content": "द्विबाहु¦ <lex>Adj.</lex> <i>zweiarmig;</i> <lex>m.</lex> <i>der Mensch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विबाहु",
+            "eid": "76391",
+            "pagenum": 5,
+            "content": "द्विबाहु¦ <lex>adj.</lex> <i>zweiarmig</i>; <lex>m.</lex> so v. a. <i>Mensch</i> <ls>KATHĀS. 53, 94.</ls>"
+        }
     ]
 }

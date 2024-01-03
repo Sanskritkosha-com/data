@@ -7,5 +7,53 @@
             "pagenum": 565,
             "content": "mAMsa-sAra¦ <i>m.</i> fat."
         }
+    ],
+    "MW": [
+        {
+            "word": "मांससार",
+            "eid": "161865",
+            "pagenum": 805,
+            "content": "मांस—सार ¦ <lex>m.</lex> ‘<ab n='flesh'>fl°</ab>-essence’, tat, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मांससार",
+            "eid": "161866",
+            "pagenum": 805,
+            "content": "¦ blood, <ls>Gal.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मांससार",
+            "eid": "161867",
+            "pagenum": 805,
+            "content": "मांस—सार ¦ <lex>mfn.</lex> having the <ab n='flesh'>fl°</ab> predominant (among the 7 constituent parts of the body), <ls>VarBṛS.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मांससार",
+            "eid": "85600",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> *मांससार¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Fett</i> <ls>RĀJAN. 18,68</ls>. <div n='1'>— 2〉 <i>Blut</i> <ls>GAL.</ls>"
+        },
+        {
+            "word": "मांससार",
+            "eid": "85601",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> मांससार¦ <lex>Adj.</lex> <i>bei dem</i> (unter den sieben Bestandtheilen des Körpers) <i>das Fleisch vorwaltet</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मांससार",
+            "eid": "59438",
+            "pagenum": 5,
+            "content": "1. मांससार¦ (मांस + सार) <lex>m.</lex> <i>Fett</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "मांससार",
+            "eid": "59439",
+            "pagenum": 5,
+            "content": "2. मांससार¦ (wie eben) <lex>adj.</lex> <i>bei dem unter den sieben Bestandtheilen des Körpers</i> (सार, धातु) <i>das Fleisch vorwaltet</i> <ls>VARĀH. BṚH. S. 68, 100.</ls> शोणित° <ls n='VARĀH. BṚH. S.'>69, 28.</ls>"
+        }
     ]
 }

@@ -36,5 +36,49 @@
             "pagenum": 540,
             "content": "BrAtrIya¦ <i>m.</i> A brother’s son, a nephew."
         }
+    ],
+    "MW": [
+        {
+            "word": "भ्रात्रीय",
+            "eid": "153755",
+            "pagenum": 770,
+            "content": "भ्रात्रीय ¦ <lex>m.</lex> a (father's) brother's son, nephew, <ls>Pāṇ. iv, 1, 144</ls><info lex='m'/>"
+        },
+        {
+            "word": "भ्रात्रीय",
+            "eid": "153756",
+            "pagenum": 770,
+            "content": "भ्रात्रीय ¦ <lex>mfn.</lex> fraternal, belonging or relating to a brother, <ls>W.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भ्रात्रीय",
+            "eid": "35967",
+            "pagenum": 726,
+            "content": "<i>Bhrātrīya</i>¦ or <i>bhrātreya, as,</i> m. a (father's) brother's son, nephew; <i>(as, ā, am),</i> fraternal, belonging or relating to a brother."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भ्रात्रीय",
+            "eid": "81275",
+            "pagenum": 4,
+            "content": "*भ्रात्रीय und भ्रात्रेय¦ <lex>m.</lex> <i>Vatersbruderssohn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भ्रात्रीय",
+            "eid": "56041",
+            "pagenum": 5,
+            "content": "भ्रात्री/य¦ (wie eben) <lex>m.</lex> <i>(Vaters-)Bruderssohn</i> <ls>P. 4, 1, 144.</ls> <ls>AK. 2, 6, 1, 36.</ls> <ls>H. 543.</ls> <ls>HALĀY. 2, 351.</ls>"
+        },
+        {
+            "word": "भ्रात्रीय",
+            "eid": "56042",
+            "pagenum": 5,
+            "content": "भ्रात्री/य¦ (wie eben) <lex>n.</lex> = भ्रात्र <ls>MBH. 12, 148.</ls>"
+        }
     ]
 }

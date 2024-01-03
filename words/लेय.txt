@@ -15,5 +15,37 @@
             "pagenum": 463,
             "content": "[<b>leya</b>¦, see <b>lepa</b>.]"
         }
+    ],
+    "MW": [
+        {
+            "word": "लेय",
+            "eid": "183200",
+            "pagenum": 906,
+            "content": "लेय ¦ <lex>m.</lex> (<ab>fr.</ab> <ab>Gk.</ab> <lang n='greek'>λέων</lang>,) the sign of the zodiac Leo, <ls>VarBṛS.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लेय",
+            "eid": "40677",
+            "pagenum": 871,
+            "content": "लेय¦ <i>leya, as,</i> m. (fr. Gr. <lang n='greek'>λέων</lang>), Ved. the sign of the zodiac Leo."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लेय",
+            "eid": "96488",
+            "pagenum": 5,
+            "content": "लेय¦ <lex>m.</lex> <gk>λέων</gk>, <i>der Löwe im Thierkreise</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लेय",
+            "eid": "86608",
+            "pagenum": 6,
+            "content": "लेय¦ (aus <lang n='greek'>λέων</lang>) <lex>m.</lex> <i>der Löwe im Thierkreise</i> <ls>VARĀH. BṚH. 1, 8.</ls>"
+        }
     ]
 }

@@ -23,5 +23,51 @@
             "pagenum": 625,
             "content": "lAvARaka¦ <i>m.</i> Name of a district near Magadha."
         }
+    ],
+    "MD": [
+        {
+            "word": "लावाणक",
+            "eid": "15585",
+            "pagenum": 262,
+            "content": "लावाणक¦ lāvāṇa-ka, <lex>m.</lex> <ab>N.</ab> <i>of a district near 🞄Magadha</i>; <ab>N.</ab> <i>of the third Lambaka of the 🞄Kathāsaritsāgara</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "लावाणक",
+            "eid": "182309",
+            "pagenum": 901,
+            "content": "लावाणक ¦ <lex>m.</lex> <ab>N.</ab> of a district adjacent to <s1 slp1='magaDa'>Magadha</s1>, <ls>Kathās.</ls> (sometimes written लावान्°)<info lex='m'/>"
+        },
+        {
+            "word": "लावाणक",
+            "eid": "182310",
+            "pagenum": 901,
+            "content": "¦ <ab>N.</ab> of the 3rd <s1 slp1='lambaka'>Lambaka</s1> of the <s1 slp1='kaTA-sarit-sAgara'>Kathā-sarit-sāgara</s1>.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लावाणक",
+            "eid": "40411",
+            "pagenum": 866,
+            "content": "लावाणक¦ <i>lāvāṇaka, as,</i> m., N. of a district adjacent to Magadha, (sometimes incorrectly written <i>lāvānaka</i>); N. of the third Lambaka of the Kathāsarit-sāgara."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लावाणक",
+            "eid": "96150",
+            "pagenum": 5,
+            "content": "लावाणक¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>N. pr.</ab> einer Oertlichkeit. <ab>Vgl.</ab> लावणक. <div n='1'>— 2〉 Titel des dritten <is>Lambaka</is> im <is>Kathāsaritsāgara</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लावाणक",
+            "eid": "86327",
+            "pagenum": 6,
+            "content": "लावाणक¦ <lex>m.</lex> <div n='1'> 1) N. pr. einer an <is>Magadha</is> grenzenden Oertlichkeit <ls>KATHĀS. 15, 119. 19, 118. 44, 45. 166. 170</ls> (an den drei letzten Stellen fälschlich लावानक gedr.). <div n='1'>— 2) N. des 3ten <is>Lambaka</is> im <is>Kathāsaritsāgara</is> <ls>KATHĀS. 1, 4. 20</ls> in der Unterschr."
+        }
     ]
 }

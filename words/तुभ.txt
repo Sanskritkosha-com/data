@@ -35,5 +35,29 @@
             "pagenum": 312,
             "content": "tuBa¦ <i>m.</i> A goat."
         }
+    ],
+    "MW72": [
+        {
+            "word": "तुभ",
+            "eid": "21100",
+            "pagenum": 378,
+            "content": "तुभ¦ <i>tubha, as,</i> m. <i>= stubha,</i> a goat."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तुभ",
+            "eid": "46280",
+            "pagenum": 3,
+            "content": "*तुभ¦ <lex>m.</lex> = स्तुभ <i>Bock</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तुभ",
+            "eid": "30019",
+            "pagenum": 3,
+            "content": "तुभ¦ <lex>m.</lex> = स्तुभ <i>Bock</i> <ls>LOIS.</ls> zu <ls>AK. 2, 9, 76.</ls> तभ <ls>COLEBR.</ls>"
+        }
     ]
 }

@@ -23,5 +23,29 @@
             "pagenum": 350,
             "content": "dvi-varza¦ <i>a.</i> two years old."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विवर्ष",
+            "eid": "98665",
+            "pagenum": 505,
+            "content": "द्वि—वर्ष ¦ <lex>mfn.</lex> 2 years old<info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विवर्ष",
+            "eid": "54087",
+            "pagenum": 3,
+            "content": "द्विवर्ष¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>zweijährig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विवर्ष",
+            "eid": "35818",
+            "pagenum": 3,
+            "content": "द्विवर्ष¦ (द्वि + व°) <lex>adj.</lex> <lex>f.</lex> आ <i>zweijährig</i>: गो <ls>AK. 2, 9, 68.</ls>"
+        }
     ]
 }

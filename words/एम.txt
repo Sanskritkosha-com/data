@@ -23,5 +23,63 @@
             "pagenum": 67,
             "content": "ए/म¦ <i>m.</i> ए/मन् <i>n.</i> Gang, Weg."
         }
+    ],
+    "MD": [
+        {
+            "word": "एम",
+            "eid": "5157",
+            "pagenum": 59,
+            "content": "एम¦ é-ma, <lex>n.</lex>, एमन् é-man, <lex>n.</lex> path, course."
+        }
+    ],
+    "MW": [
+        {
+            "word": "एम",
+            "eid": "40093",
+            "pagenum": 231,
+            "content": "ए/म, अम्, ए/मन्, अ, ¦ <lex>n.</lex> course, way, <ls>RV.</ls>; <ls>VS.</ls>; <info lex='n'/><info or='40093,ema;40094,eman'/>"
+        },
+        {
+            "word": "एम",
+            "eid": "40093.1",
+            "pagenum": 231,
+            "content": "एम ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>οἶμος</lang>, <lang n='greek'>οἴμη</lang>; <ab>Lith.</ab> <etym>eisme</etym>.]"
+        },
+        {
+            "word": "एम",
+            "eid": "40128",
+            "pagenum": 232,
+            "content": "ए/म <hom>b</hom> ¦ ए/मन्. See <pcol>p. 231, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "एम",
+            "eid": "12745",
+            "pagenum": 185,
+            "content": "<i>Ema, as,</i>¦ m. or <i>eman, a,</i> n., Ved. a course, way."
+        },
+        {
+            "word": "एम",
+            "eid": "12765",
+            "pagenum": 186,
+            "content": "एम¦ <i>ema.</i> See under <i>etṛ</i> above."
+        }
+    ],
+    "PW": [
+        {
+            "word": "एम",
+            "eid": "22272",
+            "pagenum": 1,
+            "content": "ए/म <lex>m.</lex> und ए/मन् <lex>n.</lex>¦ <i>Gang, Weg, Bahn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एम",
+            "eid": "13526",
+            "pagenum": 1,
+            "content": "ए/म¦ (von 3. इ) <lex>m.</lex> <i>Gang, Weg</i>: अर्थ^श्च म\\ एम^श्च मे <ls>VS. 18, 15.</ls>"
+        }
     ]
 }

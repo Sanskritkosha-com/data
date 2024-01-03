@@ -45,5 +45,61 @@
             "pagenum": 758,
             "content": "samavasTA¦ <i>f.</i> 1. State, condition, <ls>R.</ls>xix.50; 2. similar condition or state."
         }
+    ],
+    "MW": [
+        {
+            "word": "समवस्था",
+            "eid": "233859",
+            "pagenum": 1157,
+            "content": "सम्-अव-√ स्था <hom>a</hom> ¦ <ab>Caus.</ab> -स्थापयति, to cause to stand firm or still, stop, <ls>MBh.</ls>; <div n='to'/>to establish, found, <ls>ib.</ls><info verb='pre' cp='' parse='sam+ava+sTA'/>"
+        },
+        {
+            "word": "समवस्था",
+            "eid": "233860",
+            "pagenum": 1157,
+            "content": "सम्-अवस्था <hom>b</hom> ¦ <lex>f.</lex> firm or fixed state or condition, <ls>Kālid.</ls><info lex='f'/>"
+        },
+        {
+            "word": "समवस्था",
+            "eid": "233861",
+            "pagenum": 1157,
+            "content": "¦ (<ab>ifc.</ab> <lex type='hwifc'>f(आ). </lex>) similar condition or state, <ls>Ragh.</ls><info lex='f#A'/><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "समवस्था",
+            "eid": "49835",
+            "pagenum": 1070,
+            "content": "समवस्था 1¦. <i>sam-ava-sthā,</i> cl. 1. P. A. <i>-tiṣṭhati, -te, -sthātum,</i> to stand firmly, stand still, stand ready: Caus. <i>-sthāpayati, -yitum,</i> to cause to stand firm or still, stop; to establish, found."
+        },
+        {
+            "word": "समवस्था",
+            "eid": "49836",
+            "pagenum": 1070,
+            "content": "2. <i>sam-avasthā,</i>¦ f. firm or fixed state or condition; similar condition or state; state or condition (in general)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "समवस्था",
+            "eid": "120086",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> समवस्था¦ <lex>f.</lex> <i>Lage, Zustand</i>. ईदृशी वयःसमवस्थां प्रतिपन्नो ऽस्मि so <ab>v. a.</ab> <i>ich bin so alt geworden</i>."
+        },
+        {
+            "word": "समवस्था",
+            "eid": "120087",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> समवस्था¦ <lex>f.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <i>eine gleiche Lage, ein gleicher Zustand</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समवस्था",
+            "eid": "105446",
+            "pagenum": 7,
+            "content": "समवस्था¦ (1. स्था mit समव und 2. सम + अ° <lex>f.</lex> 1) <i>Lage, Zustand</i> <ls>RAGH. 19, 50.</ls> <ls>ŚĀK. 39, 20.</ls> <ls n='ŚĀK.'>82, 20.</ls> <ls>MĀLAV. 65.</ls> ईदृशीं वयःसमवस्थां प्रतिपन्नो ऽस्मि so v. a. <i>ich bin so alt geworden</i> <ls>ŚĀK. 60, 12, v. l.</ls> <div n='1'>— 2) <i>eine gleiche Lage, ein gleicher Zustand</i> <ls>Schol.</ls> zu <ls>ŚĀK. 53, 5.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> आ <ls>RAGH. 8, 41.</ls>"
+        }
     ]
 }

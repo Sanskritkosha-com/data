@@ -23,5 +23,29 @@
             "pagenum": 243,
             "content": "<b>Dharmendra</b>¦ = Yama: VII, 160 (<i>Pitṛnām iva Dh°ḥ</i>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "धर्मेन्द्र",
+            "eid": "100449",
+            "pagenum": 512,
+            "content": "Darme<srs/>ndra ¦ <lex>m.</lex> ‘lord of justice’, <ab>N.</ab> of <s1 slp1='yama'>Yama</s1>, <ls>MBh.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धर्मेन्द्र",
+            "eid": "54975",
+            "pagenum": 3,
+            "content": "धर्मेन्द्र¦ <lex>m.</lex> <ab>Bein.</ab> <is>Yama</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धर्मेन्द्र",
+            "eid": "36443",
+            "pagenum": 3,
+            "content": "धर्मेन्द्र¦ (धर्म + इन्द्र) <lex>m.</lex> <i>der Fürst des Gesetzes</i>, Bein. <is>Yama's</is> <ls>MBH. 7, 160.</ls>"
+        }
     ]
 }

@@ -13,5 +13,41 @@
             "pagenum": 805,
             "content": "strI-priya¦ <i>(II) m.</i> the mango tee."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्त्रीप्रिय",
+            "eid": "255032",
+            "pagenum": 1261,
+            "content": "स्त्री—प्रिय ¦ <lex>mfn.</lex> dear to <ab n='women'>w°</ab>, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्त्रीप्रिय",
+            "eid": "255033",
+            "pagenum": 1261,
+            "content": "¦ <bot>Mangifera Indica</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "स्त्रीप्रिय",
+            "eid": "255034",
+            "pagenum": 1261,
+            "content": "¦ the <s1 slp1='aSoka'>Aśoka</s1> tree, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्त्रीप्रिय",
+            "eid": "130723",
+            "pagenum": 7,
+            "content": "*स्त्रीप्रिय¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>den Weibern lieb</i>. <div n='1'>— 2〉 <lex>m.</lex> <i><bot>Mangifera indica</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्त्रीप्रिय",
+            "eid": "113814",
+            "pagenum": 7,
+            "content": "स्त्रीप्रिय¦ <div n='1'> 1) <lex>adj.</lex> <i>den Weibern lieb.</i> <div n='1'>— 2) <lex>m.</lex> <i>Mangifera indica</i> <ls>TRIK. 2, 4, 9.</ls>"
+        }
     ]
 }

@@ -23,5 +23,47 @@
             "pagenum": 350,
             "content": "dvi-arTa¦ <i>a.</i> 1. having two senses; 2. ambiguous, equivocal; 3. having two objects."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्व्यर्थ",
+            "eid": "99173",
+            "pagenum": 507,
+            "content": "द्व्य्—अर्थ ¦ <lex>mf(आ)n.</lex> having 2 senses, ambiguous, equivocal, <ls>Sāh.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "द्व्यर्थ",
+            "eid": "99174",
+            "pagenum": 507,
+            "content": "¦ having 2 objects, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "द्व्यर्थ",
+            "eid": "99175",
+            "pagenum": 507,
+            "content": "द्व्य्—अर्थ ¦ <lex>n.</lex> double meaning, double entendre, <ls>W.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्व्यर्थ",
+            "eid": "54306",
+            "pagenum": 3,
+            "content": "द्व्यर्थ¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>zwei Bedeutungen habend, doppelsinnig</i> <ls>DEŚĪN. 5,22. 23</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्व्यर्थ",
+            "eid": "35973",
+            "pagenum": 3,
+            "content": "द्व्यर्थ¦ (द्वि + अर्थ) <lex>adj.</lex> <i>doppelsinnig</i> <ls>ŚKDR.</ls> <ls>WILS.</ls>"
+        },
+        {
+            "word": "द्व्यर्थ",
+            "eid": "76425",
+            "pagenum": 5,
+            "content": "द्व्यर्थ¦ <ls>SĀH. D. 303.</ls>"
+        }
     ]
 }

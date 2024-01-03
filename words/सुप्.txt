@@ -15,5 +15,35 @@
             "pagenum": 501,
             "content": "सुप्¦ Endung des Loc. Pl., <i>überh.</i> Casusendung <lbinfo n='6'/> <i>(g.).</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "सुप्",
+            "eid": "19516",
+            "pagenum": 353,
+            "content": "सुप्¦ sup, <i>pratyāhāra meaning</i> case-ending."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सुप्",
+            "eid": "247302",
+            "pagenum": 1227,
+            "content": "सुप् ¦ (in <ab>gram.</ab>) technical expression for the termination of the <ab>loc.</ab> case <ab>pl.</ab> <ls>Pāṇ. iv, 1, 2</ls> &c."
+        },
+        {
+            "word": "सुप्",
+            "eid": "247302.1",
+            "pagenum": 1227,
+            "content": "¦ a <s1 slp1='pratyAhAra'>Pratyāhāra</s1> used as a term for all or for any one of the 21 case-terminations, <ls>ib.</ls> <ls n='Pāṇ.'>i, 1, 71</ls> &c."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सुप्",
+            "eid": "52424",
+            "pagenum": 1128,
+            "content": "सुप्¦ <i>sup,</i> (in grammar) the technical expression for the termination of the locative case plural; a Pratyāhāra used as a technical expression for all the twenty-one case-terminations; a term for any one of these case-endings. <i>—Sub-anta, am,</i> n. a technical expression for an inflected noun as ending with a case-termination."
+        }
     ]
 }

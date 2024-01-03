@@ -39,5 +39,69 @@
             "pagenum": 53,
             "content": "aBeda¦ <i>m.</i> 1. Undividedness, close union, आशास्महे विग्रहयोरभेदम् <ls>Bhartr.</ls>i.24; 2. sameness, identity, तद्रूपकमभेदो य उपमानोपमेययोः <ls>K.Pr.</ls>x."
         }
+    ],
+    "MD": [
+        {
+            "word": "अभेद",
+            "eid": "2311",
+            "pagenum": 24,
+            "content": "अभेद¦ a-bheda, <lex>m.</lex> non-separation, cohesion; 🞄no difference, identity; <lex>a.</lex> identical."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अभेद",
+            "eid": "13121",
+            "pagenum": 75,
+            "content": "अ-भेद ¦ <lex>m.</lex> non-fracture, compactness, closeness of array, <ls>RPrāt.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "अभेद",
+            "eid": "13122",
+            "pagenum": 75,
+            "content": "¦ absence of difference or distinction, identity<info lex='inh'/>"
+        },
+        {
+            "word": "अभेद",
+            "eid": "13123",
+            "pagenum": 75,
+            "content": "अ-भेद ¦ <lex>mfn.</lex> not different, identical, <ls>VP.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभेद",
+            "eid": "5069",
+            "pagenum": 71,
+            "content": "अभेद¦ <i>a-bheda, as,</i> m. absence of difference or distinction; identity; not breaking, compactness, closeness of array; <i>(as, ā, am),</i> undivided, identical, alike."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभेद",
+            "eid": "7838",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अभेद¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Ungetrenntheit, Ungetheiltheit</i> <ls n='Chr.'>163,2</ls>. <ls>Spr. 509</ls>. <div n='1'>— 2〉 <i>kein Unterschied, Nichtverschiedenheit</i> <ls n='Chr.'>260,26. 31. 285,17</ls>."
+        },
+        {
+            "word": "अभेद",
+            "eid": "7839",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अभेद¦ <lex>Adj.</lex> <i>nicht verschieden, ein und derselbe</i> <ls n='Chr.'>104,3</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभेद",
+            "eid": "4878",
+            "pagenum": 1,
+            "content": "अभेद¦ (3. अ + भेद) <lex>m.</lex> <i>Ungetrenntheit</i>: पदाभेदेन पादानां विभागो ऽभिसमीक्ष्यतु <ls>ṚV. PRĀT. 17, 14.</ls> विग्रहयोरभेदः <i>der beiden Körper</i> <ls>BHARTṚ. 1, 23.</ls> अभिदेन च युध्येत बलं रक्षेत्परस्परम् <ls>HIT. III, 79.</ls>"
+        },
+        {
+            "word": "अभेद",
+            "eid": "64629",
+            "pagenum": 5,
+            "content": "अभेद¦ (3. अ + भेद) <lex>m.</lex> <i>Nichtverschiedenheit</i> <ls>KAP. 1, 125.</ls>"
+        }
     ]
 }

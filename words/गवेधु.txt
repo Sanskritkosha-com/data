@@ -28,5 +28,37 @@
             "pagenum": 239,
             "content": "gaveDu¦ <i>f.</i> A kind of grass on which cattle feed."
         }
+    ],
+    "MW": [
+        {
+            "word": "गवेधु",
+            "eid": "64440",
+            "pagenum": 351,
+            "content": "गवेधु ¦ <lex>f.</lex> <ab>id.</ab>, <ls>Bhpr. vii, 72, 49.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गवेधु",
+            "eid": "17245",
+            "pagenum": 287,
+            "content": "गवेधु¦ <i>gavedhu, us,</i> f. the grass Coix Barbata."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गवेधु",
+            "eid": "35123",
+            "pagenum": 2,
+            "content": "*गवेधु¦ <lex>f.</lex> <i><bot>Coix barbata</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गवेधु",
+            "eid": "22133",
+            "pagenum": 2,
+            "content": "गवेधु¦ <lex>f.</lex> = गवेधुका <ls>BHAR.</ls> zu <ls>AK. 2, 9, 25.</ls> <ls>H. 1179.</ls> <ls>SUŚR. 1, 196, 1.</ls>"
+        }
     ]
 }

@@ -47,5 +47,45 @@
             "pagenum": 20,
             "content": "aniketa¦ <i>m.</i> An ascetic having no fixed abode."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनिकेत",
+            "eid": "1515",
+            "pagenum": 14,
+            "content": "अनिकेत¦ a-niketa, <lex>a.</lex> houseless."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनिकेत",
+            "eid": "5752",
+            "pagenum": 29,
+            "content": "अ-निकेत or अ-निकेतन ¦ <lex>mfn.</lex> houseless.<info or='5752,aniketa;5752.1,aniketana'/><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनिकेत",
+            "eid": "1813",
+            "pagenum": 29,
+            "content": "अनिकेत¦ <i>a-niketa</i> or <i>a-niketana, as, ā, am,</i> houseless."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनिकेत",
+            "eid": "4040",
+            "pagenum": 1,
+            "content": "अनिकेत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>wohnungslos</i>. Davon <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>BHĀG. P. 11,3,25</ls>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Bez.</ab> <i>eines <ab>best.</ab> Krankheitsdämonen</i> <ls>HARIV. 9560</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनिकेत",
+            "eid": "2604",
+            "pagenum": 1,
+            "content": "अनिकेत¦ (3. अ + निकेत) <lex>adj.</lex> <i>wohnungslos</i>: अनग्निरनिकेतः स्यान्मुनिर्मूलफलाशनः <ls>M. 6, 25. 43.</ls>"
+        }
     ]
 }

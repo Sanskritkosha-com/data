@@ -45,5 +45,61 @@
             "pagenum": 430,
             "content": "pATa¦ <i>(II) n.</i> Water."
         }
+    ],
+    "MW": [
+        {
+            "word": "पाथ",
+            "eid": "121831",
+            "pagenum": 617,
+            "content": "पाथ ¦ <lex>m.</lex> = पथ <ab>g.</ab> jvalA<srs/>di<info lex='m'/>"
+        },
+        {
+            "word": "पाथ",
+            "eid": "121832",
+            "pagenum": 617,
+            "content": "¦ fire, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पाथ",
+            "eid": "121833",
+            "pagenum": 617,
+            "content": "¦ the sun, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पाथ",
+            "eid": "121834",
+            "pagenum": 617,
+            "content": "पाथ ¦ <lex>n.</lex> water, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "पाथ",
+            "eid": "121835",
+            "pagenum": 617,
+            "content": "¦ <ab>N.</ab> of 2 <s1 slp1='sAman'>Sāman</s1>s, <ls>ĀrṣBr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पाथ",
+            "eid": "28802",
+            "pagenum": 564,
+            "content": "पाथ¦ <i>pātha, as,</i> m. (said to be fr. rt. 1. <i>pā</i>), fire; the sun; (<i>am</i>), n. water [cf. <i>pītha</i>]; N. of a Sāman; <i>= patha.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पाथ",
+            "eid": "65784",
+            "pagenum": 4,
+            "content": "पाथ¦ <div n='1'>— 1〉 *<lex>m.</lex> <div n='2'>— a〉 <i>Feuer</i>. <div n='2'>— b〉 <i>die Sonne</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 *<i>Wasser</i>. <div n='2'>— b〉 Name zweier <is>Sāman</is> <ls>ĀRṢ. BR.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पाथ",
+            "eid": "44293",
+            "pagenum": 4,
+            "content": "पाथ/¦ = पथ <is>gaṇa</is> ज्वलादि zu <ls>P. 3, 1, 140.</ls> <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Feuer.</i> <div n='2'>— b) <i>die Sonne.</i> <div n='1'>— 2) <lex>n.</lex> <div n='2'> a) <i>Wasser</i> <ls>MED.</ls> im <ls>ŚKDR.</ls> u. bei <ls>WILS.</ls> — Die gedr. Ausg. (th. 9.) liest fehlerhaft पार्थ; vgl. पीथ und पाथस् . <div n='2'>— b) N. eines <is>Sāman</is> <ls>Ind. St. 3,222,b.</ls>"
+        }
     ]
 }

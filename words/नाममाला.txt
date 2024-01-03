@@ -121,5 +121,29 @@
             "pagenum": 375,
             "content": "nAman-mAlA¦ <i>f.</i> a vocabulary."
         }
+    ],
+    "MW": [
+        {
+            "word": "नाममाला",
+            "eid": "105781",
+            "pagenum": 536,
+            "content": "नाम—माला ¦ <lex>f.</lex> <ab>N.</ab> of <ab>sev.</ab> glossaries (also -कोश <lex type='phw'>m.</lex> and °लिका <lex type='phw'>f.</lex>)<info phwchild='105781.1'/><info phwchild='105782.1'/><info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नाममाला",
+            "eid": "57915",
+            "pagenum": 3,
+            "content": "नाममाला¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Wörterbuch der Nomina</i>. <div n='1'>— 2〉 Titel eines <ab>best.</ab> <i>Wörterbuchs</i> und eines <ab n='medicinischen'>med.</ab> Werkes [Page3-196-b] (<ls>BÜHLER, Rep. No. 556</ls>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नाममाला",
+            "eid": "38469",
+            "pagenum": 4,
+            "content": "नाममाला¦ (नामन् + मा°) <lex>f.</lex> <i>Wörterbuch</i> H. in den Unterschrr. der Kapitel. Titel eines best. <i>Wörterbuchs</i> <ls>MED. Anh. 1.</ls> <ls>Verz. d. Oxf. H. 182,b. 185,b.</ls> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 2,94.</ls>"
+        }
     ]
 }

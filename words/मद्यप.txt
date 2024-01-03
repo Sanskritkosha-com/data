@@ -31,5 +31,35 @@
             "pagenum": 548,
             "content": "madya-pa¦ <i>a.</i> a drunkard, a wine-drinker."
         }
+    ],
+    "MW": [
+        {
+            "word": "मद्यप",
+            "eid": "155661",
+            "pagenum": 779,
+            "content": "मद्य—प ¦ <lex>mf(आ)n.</lex> drinking intoxicating liquor, a drunkard, <ls>ChUp.</ls>; <ls>Mn.</ls> &c.<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "मद्यप",
+            "eid": "155662",
+            "pagenum": 779,
+            "content": "मद्य—प ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1='dAnava'>Dānava</s1>, <ls>Hariv.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मद्यप",
+            "eid": "82278",
+            "pagenum": 5,
+            "content": "मद्यप¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>berauschende Getränke trinkend;</i> <lex>m.</lex> <i>Trunkenbold</i> <ls>GAUT.</ls> <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines <is>Dānava</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मद्यप",
+            "eid": "56849",
+            "pagenum": 5,
+            "content": "मद्यप¦ (मद्य + 1. प) <div n='1'> 1) <lex>adj.</lex> <i>berauschende Getränke trinkend, Trunkenbold</i> <ls>CHĀND. UP. 5, 11, 5.</ls> <ls>SUŚR. 1, 63, 6.</ls> <ls>M. 3, 159.</ls> °स्त्री <ls n='M.'>11, 66.</ls> °देवताः <ls>RĀJA-TAR. 2, 103.</ls> <ls>Spr. 627. 3795.</ls> <ls>KATHĀS. 13, 140.</ls> मद्यपा <lex>f.</lex> <ls>M. 9, 80.</ls> मद्यपाः किं न जल्पन्ति <i>Trunkenbolde, Betrunkene</i> <ls>Spr. 615. 390. 2704.</ls> <ls>PRASAṄGĀBH. 16,b.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines <is>Dānava</is> <ls>HARIV. 12940.</ls>"
+        }
     ]
 }

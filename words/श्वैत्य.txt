@@ -45,5 +45,57 @@
             "pagenum": 736,
             "content": "SvEtya¦ <i>n.</i> 1. Whiteness; 2. white leprosy."
         }
+    ],
+    "MD": [
+        {
+            "word": "श्वैत्य",
+            "eid": "18403",
+            "pagenum": 323,
+            "content": "श्वैत्य¦ śvait-ya, <lex>n.</lex> [śveta] whiteness."
+        }
+    ],
+    "MW": [
+        {
+            "word": "श्वैत्य",
+            "eid": "224868",
+            "pagenum": 1107,
+            "content": "श्वैत्य ¦ <lex>m.</lex> <ab>patr.</ab> of <s1 slp1='sfYjaya'>Sṛñjaya</s1>, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "श्वैत्य",
+            "eid": "224869",
+            "pagenum": 1107,
+            "content": "श्वैत्य ¦ <lex>n.</lex> whiteness, <ls>Kāv.</ls>; <ls>Vāgbh.</ls>; <ls>Sāh.</ls><info lex='n'/>"
+        },
+        {
+            "word": "श्वैत्य",
+            "eid": "224870",
+            "pagenum": 1107,
+            "content": "¦ white leprosy, vitiligo, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "श्वैत्य",
+            "eid": "47642",
+            "pagenum": 1032,
+            "content": "<i>Śvaitya, am,</i>¦ n. whiteness; white leprosy; vitiligo; (<i>as</i>), m. a proper N."
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्वैत्य",
+            "eid": "116082",
+            "pagenum": 6,
+            "content": "श्वैत्य¦ <div n='1'>— 1〉 <lex>m.</lex> <ab>Patron.</ab> <is>Sṛñjaya</is>ʼs. <div n='1'>— 2〉 <lex>n.</lex> <i>Weisse</i> <ls>ŚIŚ. 2,21</ls>. <ls>NAIṢ. 7,29</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्वैत्य",
+            "eid": "102400",
+            "pagenum": 7,
+            "content": "श्वैत्य/¦ (von श्वेत) <div n='1'> 1) <lex>m.</lex> patron. <is>Srñjaya's</is> (nach) <ls>NĪLAK.</ls> von श्वित्य? <ls>MBH. 7, 2183.</ls> <ls n='MBH. 7,'>2195.</ls> <ls n='MBH. 7,'>2208.</ls> <ls n='MBH.'>12, 1052.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Weisse</i> <ls>DHĀTUP. 2, 9.</ls> <ls>VĀGBH. 11, 8.</ls> <ls>SĀH. D. 337, 18.</ls>"
+        }
     ]
 }

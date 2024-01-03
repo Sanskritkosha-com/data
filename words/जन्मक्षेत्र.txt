@@ -23,5 +23,35 @@
             "pagenum": 284,
             "content": "janman-kzetra¦ <i>n.</i> birth-place."
         }
+    ],
+    "MW": [
+        {
+            "word": "जन्मक्षेत्र",
+            "eid": "77038",
+            "pagenum": 411,
+            "content": "जन्म—क्षेत्र ¦ <lex>n.</lex> birthplace, <ls>Kathās.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जन्मक्षेत्र",
+            "eid": "41625",
+            "pagenum": 2,
+            "content": "जन्मक्षेत्र¦ <lex>n.</lex> <i>Geburtsstätte</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जन्मक्षेत्र",
+            "eid": "26601",
+            "pagenum": 3,
+            "content": "जन्मक्षेत्र¦ (जन्मन् + क्षेत्र) <lex>n.</lex> <i>Geburtsstätte</i>: जन्मक्षेत्रमिवापदाम् <ls>KATHĀS. 2, 49.</ls>"
+        },
+        {
+            "word": "जन्मक्षेत्र",
+            "eid": "74160",
+            "pagenum": 5,
+            "content": "जन्मक्षेत्र¦ <ls>KATHĀS. 54, 54.</ls> <ls n='KATHĀS.'>104, 81.</ls>"
+        }
     ]
 }

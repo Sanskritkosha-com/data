@@ -37,5 +37,43 @@
             "pagenum": 1,
             "content": "aMSula¦ <i>(II) m.</i> A name of Chāṇakya."
         }
+    ],
+    "MW": [
+        {
+            "word": "अंशुल",
+            "eid": "85",
+            "pagenum": 1,
+            "content": "अंशुल ¦ <lex>m.</lex> radiant, <ls>T.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अंशुल",
+            "eid": "86",
+            "pagenum": 1,
+            "content": "¦ <ab>N.</ab> of the sage <s1 slp1='cARakya'>Cāṇakya</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अंशुल",
+            "eid": "19",
+            "pagenum": 1,
+            "content": "<i>Aṃśula, as, ā, am,</i>¦ radiant; (<i>as</i>), m., N. of the sage Cāṇakya."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अंशुल",
+            "eid": "32",
+            "pagenum": 1,
+            "content": "*अंशुल¦ <lex>m.</lex> <ab>N. pr.</ab> = चाणक्य."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अंशुल",
+            "eid": "31",
+            "pagenum": 1,
+            "content": "अंशुल¦ (von अंशु) <lex>m.</lex> der Weise <is>Cāṇakya</is>, <ls>TRIK. 2, 7, 22.</ls>"
+        }
     ]
 }

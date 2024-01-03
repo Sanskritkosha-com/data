@@ -7,5 +7,47 @@
             "pagenum": 318,
             "content": "tri-Rava¦ <i>a. pl.</i> three times nine, i.e. ‘27’."
         }
+    ],
+    "MW": [
+        {
+            "word": "त्रिणव",
+            "eid": "87713",
+            "pagenum": 458,
+            "content": "त्रि—णव/ ¦ <lex>mfn.</lex> consisting of 3 × 9 parts (स्तो/म), <ls>VS.</ls>; <ls>TS.</ls>; <ls>TBr.</ls>; <ls>ŚBr.</ls>; <ls>TāṇḍyaBr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "त्रिणव",
+            "eid": "87714",
+            "pagenum": 458,
+            "content": "¦ connected with the <ab n='Triṇava' slp1='triRava'>T°</ab> स्तो/म, <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>ŚāṅkhŚr.</ls>; <ls>Nidānas.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "त्रिणव",
+            "eid": "87715",
+            "pagenum": 458,
+            "content": "¦ in <ab>comp.</ab> 27, <ls>BhP. ix</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "त्रिणव",
+            "eid": "47435",
+            "pagenum": 3,
+            "content": "त्रिणव/¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>aus dreimal neun (Gliedern) bestehend</i>. <div n='1'>— 2〉 <i>mit einem 27theiligen</i> <is>Stoma</is> <i>verbunden</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "त्रिणव",
+            "eid": "30927",
+            "pagenum": 3,
+            "content": "त्रिणव/¦ (von त्रिणवन्) <lex>adj.</lex> <div n='1'> 1) <i>aus drei Mal neun</i> (Gliedern) <i>bestehend</i> (so v. a. सप्तविंश)ः स्तोम <ls>VS. 10, 14.</ls> <ls n='VS.'>13, 58.</ls> <ls>TS. 5, 2, 6, 3.</ls> <ls>TBR. 2, 2, 4, 6.</ls> <ls>PAÑCAV. BR. 3, 1.</ls> <ls>ŚAT. BR. 12, 2, 4, 13. 3, 1, 6. 13, 4, 4, 1.</ls> <div n='1'>— 2) <i>mit dem</i> <is>Triṇava</is> - <is>Stoma</is> <i>verbunden</i>: बृहस्पति <ls>VS. 29, 60.</ls> उक्थ <ls>ŚAT. BR. 13, 5, 4, 20.</ls> अहन् <ls n='ŚAT. BR.'>7, 1, 10.</ls> सवन <ls>ŚĀṄKH. ŚR. 16, 23, 11. 12.</ls>"
+        },
+        {
+            "word": "त्रिणव",
+            "eid": "75277",
+            "pagenum": 5,
+            "content": "त्रिणव¦ <div n='1'> 1) यस्य त्रिणवमन्तर्यन्ति <ls>TS. 7, 1, 3, 2.</ls> <ls>NIDĀNA 5, 12, 5.</ls> युद्धं त्रिणवरात्रम् <i>27tägig</i> <ls>BHĀG. P. 10, 77, 5.</ls> त्रिणवात्मक <ls>WEBER, Nakṣ. 2, 281.</ls> <div n='v'>— Vgl. त्रिनवह ."
+        }
     ]
 }

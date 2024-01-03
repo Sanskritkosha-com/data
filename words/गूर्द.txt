@@ -23,5 +23,71 @@
             "pagenum": 110,
             "content": "गूर्द¦ <i>m.</i> Sprung."
         }
+    ],
+    "MD": [
+        {
+            "word": "गूर्द",
+            "eid": "7053",
+            "pagenum": 85,
+            "content": "गूर्द¦ gūrda, <lex>m.</lex> leap, bound."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गूर्द",
+            "eid": "66403",
+            "pagenum": 361,
+            "content": "गूर्द ¦ <lex>m.</lex> a jump, <ls>Kāṭh. xxxix, 5</ls>; <ls>ĀpŚr. xvi</ls><info lex='m'/>"
+        },
+        {
+            "word": "गूर्द",
+            "eid": "66404",
+            "pagenum": 361,
+            "content": "¦ (‘a particular food of the <s1 slp1='asura'>Asura</s1>s’ <ab>Sch.</ab>) <ab>N.</ab> of a <s1 slp1='sAman'>Sāman</s1>, <ls>TāṇḍyaBr. xiii, 12, 4</ls>; <ls>Lāṭy. vii, 1, 1 f.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गूर्द",
+            "eid": "66405",
+            "pagenum": 361,
+            "content": "¦ प्रजापतेर् ग्° or °तेः कूर्द, ‘jump of <s1 slp1='prajApati'>Prajāpati</s1>’, <ab>N.</ab> of two <s1 slp1='sAman'>Sāman</s1>s, <ls>ĀrṣBr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गूर्द",
+            "eid": "17575",
+            "pagenum": 294,
+            "content": "<i>Gūrda, as,</i>¦ m. a jump; <i>Prajāpater gūrdaḥ</i> or <i>Prajāpateḥ kūrdaḥ,</i> N. of a Sāman."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गूर्द",
+            "eid": "36138",
+            "pagenum": 2,
+            "content": "गूर्द¦ <div n='1'>— 1〉 <lex>m.</lex> <is>gaṇa</is> गौरादि in der <ls>KĀŚ.</ls> <div n='2'>— a〉 <i>Sprung</i> <ls>ĀPAST. ŚR. 16,30</ls>. <div n='2'>— b〉 Name eines <is>Sāman</is> <ls>LĀṬY. 7,1,1. 2</ls>. प्रजापतेः Name zweier <is>Sāman</is> <ls>ĀRṢ. BR.</ls> <div n='1'>— 2〉 *<lex>f.</lex> ई <is>gaṇa</is> गौरादि in der <ls>KĀŚ.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गूर्द",
+            "eid": "22817",
+            "pagenum": 2,
+            "content": "गूर्द¦ (von गूर्द्) <lex>m.</lex> <i>Sprung</i>: प्रजापतेर्गूर्द; oder प्रजापतेः कूर्दः N. eines <is>Sāman</is> <ls>Ind. St. 3, 224.</ls> Vgl. <ls>LĀṬY.</ls> in <ls>Verz. d. B. H. No. 309.</ls>"
+        },
+        {
+            "word": "गूर्द",
+            "eid": "72922",
+            "pagenum": 5,
+            "content": "गूर्द¦ <i>Sprung</i> <ls>KĀṬH. 39, 5.</ls> N. eines <is>Sāman</is> <ls>PAÑCAV. BR. 13, 12, 4.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "गूर्द",
+            "eid": "8882",
+            "pagenum": 6,
+            "content": "गूर्द¦ <lex>m.</lex> angeblich <i>eine <ab>best.</ab> Speise der</i> <is>Asura</is>, nach welcher das <is>Sāman</is> benannt worden ist. <ab>Nom. abstr.</ab> zu dem Namen des <is>Sāman</is> °त्व <lex>n.</lex> <ls><ab>ebend.</ab></ls>"
+        }
     ]
 }

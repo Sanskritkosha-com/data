@@ -45,5 +45,41 @@
             "pagenum": 171,
             "content": "<b>√dṛbh</b>¦ (<b>dṛbháti; dṛbdhá</b>). make into tufts."
         }
+    ],
+    "MD": [
+        {
+            "word": "दृभ्",
+            "eid": "9530",
+            "pagenum": 124,
+            "content": "दृभ्¦ DṚBH, <cl>Ⅵ.</cl> <lex>P.</lex> <b>dṛbhá,</b> make into 🞄tufts, string together. <b>sam,</b> <ab>pp.</ab> <b>sáṃdabdha,</b> bound together; composed; confirmed."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दृभ्",
+            "eid": "95254",
+            "pagenum": 491,
+            "content": "<hom>1.</hom> दृभ् ¦ <ab>cl.</ab> 1. 10. <ab>P.</ab> दर्भति and दर्भयति, to fear, be afraid, <ls>Dhātup. xxxiv, 15.</ls><info westergaard='dfBI,34.15,10.0214'/><info verb='root' cp='1,10P'/>"
+        },
+        {
+            "word": "दृभ्",
+            "eid": "95255",
+            "pagenum": 491,
+            "content": "<hom>2.</hom> दृभ् ¦ <ab>cl.</ab> 6. <ab>P.</ab> दृभ/ति (<ls>ŚBr.</ls>); 1. 10. <ab>P.</ab> दर्भति and दर्भयति (<ls>Dhātup. xxxiv, 16</ls>), to string or tie together, tie in a bunch.<info westergaard='dfBa,34.16,10.0215'/><info whitneyroots='dfB,77'/><info verb='root' cp='6P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दृभ्",
+            "eid": "22640",
+            "pagenum": 428,
+            "content": "दृभ् 1¦. <i>dṛbh,</i> cl. 6. 1. 10. P. <i>dṛbhati,</i> <i>darbhati, darbhayati, dadarbha,</i> &c., to string together, arrange, tie, fasten."
+        },
+        {
+            "word": "दृभ्",
+            "eid": "22644",
+            "pagenum": 428,
+            "content": "दृभ् 2¦. <i>dṛbh,</i> cl. 1. 10. P. <i>darbhati</i> and <i>darbhayati,</i> &c., to fear, be afraid."
+        }
     ]
 }

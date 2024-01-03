@@ -47,5 +47,49 @@
             "pagenum": 168,
             "content": "<b>Bṛhanta</b><sup>5</sup>,¦ a Pāṇḍava warrior. § 604 (Karṇap.): VIII, <b>6</b>, 162 (slain by Duḥśāsana)."
         }
+    ],
+    "MW": [
+        {
+            "word": "बृहन्त",
+            "eid": "146390",
+            "pagenum": 737,
+            "content": "बृहन्त ¦ <lex>mfn.</lex> = बृह/त्, large, great, <ls>ŚvetUp.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "बृहन्त",
+            "eid": "146391",
+            "pagenum": 737,
+            "content": "बृहन्त ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>MBh.</ls><info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "बृहन्त",
+            "eid": "9196",
+            "pagenum": 2,
+            "content": "<i>Bṛhanta</i> (I)¦ — a son of Bṛhadanu. <div n='P'/>M. 49. 48."
+        },
+        {
+            "word": "बृहन्त",
+            "eid": "9197",
+            "pagenum": 2,
+            "content": "<i>Bṛhanta</i> (II)¦ — a Marut gaṇa. <div n='P'/>M. 171. 54."
+        }
+    ],
+    "PW": [
+        {
+            "word": "बृहन्त",
+            "eid": "77604",
+            "pagenum": 4,
+            "content": "बृहन्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>gross</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बृहन्त",
+            "eid": "53141",
+            "pagenum": 5,
+            "content": "बृहन्त¦ <div n='1'> 1) <lex>adj.</lex> = बृहन्त् <i>gross</i> <ls>ŚVETĀŚV. UP. 1, 6. 3, 7.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines Fürsten (vgl. बृहन्त् m.) <ls>MBH. 1, 6987.</ls> <ls n='MBH.'>2, 1014.</ls> <ls n='MBH. 2,'>1016. fg.</ls> <ls n='MBH.'>5, 76.</ls>"
+        }
     ]
 }

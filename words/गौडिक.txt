@@ -23,5 +23,49 @@
             "pagenum": 253,
             "content": "gOqika¦ <i>m.</i> Sugarcane."
         }
+    ],
+    "MW": [
+        {
+            "word": "गौडिक",
+            "eid": "68116",
+            "pagenum": 369,
+            "content": "गौडिक ¦ <lex>mfn.</lex> prepared with sugar or molasses, <ls>Suśr. i, 46, 9, 3</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गौडिक",
+            "eid": "68117",
+            "pagenum": 369,
+            "content": "¦ fit for the preparation of sugar, <ls>Pāṇ. iv, 4, 103</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गौडिक",
+            "eid": "68118",
+            "pagenum": 369,
+            "content": "गौडिक ¦ <lex>n.</lex> rum (prepared with sugar), <ls>Suśr. vi, 58, 28.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गौडिक",
+            "eid": "17718",
+            "pagenum": 301,
+            "content": "<i>Gauḍika, as, ī, am,</i>¦ relating to sugar or molasses, fit for the preparation of sugar, prepared with sugar or molasses; (<i>am</i>), n. rum."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गौडिक",
+            "eid": "37091",
+            "pagenum": 2,
+            "content": "गौडिक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>mit Zucker zubereitet</i>. <div n='2'>— b〉 *<i>zur Bereitung von Zucker geeignet</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>Rum aus Zucker</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गौडिक",
+            "eid": "23502",
+            "pagenum": 2,
+            "content": "गौ/डिक¦ (von गुड) <lex>adj.</lex> <i>zur Bereitung von Zucker geeignet</i> <ls>P. 4, 4, 103.</ls> इक्षु <ls>Sch.</ls> <i>mit Zucker (Melasse) zubereitet</i>: भक्ष्य <ls>SUŚR. 1, 234, 10.</ls> <lex>n.</lex> <i>Rum (aus Zucker Bereitetes</i>) <ls n='SUŚR.'>2, 526, 4.</ls>"
+        }
     ]
 }

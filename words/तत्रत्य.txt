@@ -47,5 +47,45 @@
             "pagenum": 300,
             "content": "tatra-tya¦ <i>a.</i> produced there, belonging to that place."
         }
+    ],
+    "MD": [
+        {
+            "word": "तत्रत्य",
+            "eid": "8327",
+            "pagenum": 105,
+            "content": "तत्रत्य¦ tatra-tya, <lex>a.</lex> being there."
+        }
+    ],
+    "MW": [
+        {
+            "word": "तत्रत्य",
+            "eid": "81981",
+            "pagenum": 433,
+            "content": "तत्र—त्य ¦ <lex>mfn.</lex> (<ls>Pāṇ. iv, 2, 104</ls>; <ls>Pat.</ls>) of that place, being there, <ls>BhP.</ls>; <ls>Kathās.</ls>; <ls>Rājat. i, 117</ls>; <ls>Hit.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तत्रत्य",
+            "eid": "20332",
+            "pagenum": 359,
+            "content": "<i>Tatratya, as, ā, am,</i>¦ produced there or in that place, relating to that place, of that place, being there."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तत्रत्य",
+            "eid": "44254",
+            "pagenum": 3,
+            "content": "तत्रत्य¦ <lex>Adj.</lex> <i>dortig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तत्रत्य",
+            "eid": "28478",
+            "pagenum": 3,
+            "content": "त/त्रत्य¦ (von तत्र) <lex>adj.</lex> <i>dortig</i> <ls>P. 4, 2, 104</ls>, <is>Vārtt</is>. 1. <ls>VOP. 7, 111.</ls> <ls>HIT. 88. 12.</ls> <ls>KATHĀS. 5, 99. 13, 117. 166. 18, 319. 22, 148.</ls> <ls>RĀJA-TAR. 1, 117.</ls> <ls>BHĀG. P. 3, 31, 6. 5, 7, 8.</ls> तत्रत्यैः sc. जनैः <ls n='BHĀG. P.'>1, 10, 36. 5, 21, 8.</ls>"
+        }
     ]
 }

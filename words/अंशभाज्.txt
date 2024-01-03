@@ -31,5 +31,37 @@
             "pagenum": 1,
             "content": "aMSa-BAj¦ <i>a.</i> an heir, a co-heir."
         }
+    ],
+    "MD": [
+        {
+            "word": "अंशभाज्",
+            "eid": "8",
+            "pagenum": 1,
+            "content": "अंशभाज्¦ aṃśa-bhāj, <lex>a.</lex> <ab>id.</ab>"
+        }
+    ],
+    "MW": [
+        {
+            "word": "अंशभाज्",
+            "eid": "25",
+            "pagenum": 1,
+            "content": "अंश—भागिन् or अंश—भाज्, ¦ <lex>mfn.</lex> one who has a share, an heir, co-heir.<info or='24,aMSaBAgin;25,aMSaBAj'/><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अंशभाज्",
+            "eid": "13",
+            "pagenum": 1,
+            "content": "अंशभाज्¦ <lex>Adj.</lex> <i>Theil habend, — nehmend:</i> धर्मस्य <ls>GAUT. 11,11</ls>. मखांश° <ls>Chr. 98,13</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अंशभाज्",
+            "eid": "62407",
+            "pagenum": 5,
+            "content": "अंशभाज्¦ (1. अंश + 4. भाज्) <lex>adj.</lex> <i>Theil nehmend, mit Jmd theilend</i>: यस्याविभक्तं वसु राजन्सहायैस्तस्य दुःखे ऽप्यंशभाजः सहायाः <ls>MBH. 3, 259.</ls>"
+        }
     ]
 }

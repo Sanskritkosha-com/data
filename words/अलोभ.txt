@@ -31,5 +31,57 @@
             "pagenum": 121,
             "content": "<b>a-lobha,</b>¦ <i><ab>m.</ab></i> non-greed; absence of cupidity. <lbinfo n='cu-pidity.'/>"
         }
+    ],
+    "MD": [
+        {
+            "word": "अलोभ",
+            "eid": "2736",
+            "pagenum": 29,
+            "content": "अलोभ¦ a-lobha, <lex>m.</lex> freedom from confusion; 🞄lack of cupidity; moderation; <lex>a.</lex> moderate, 🞄contented."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अलोभ",
+            "eid": "16783",
+            "pagenum": 95,
+            "content": "अ-लोभ ¦ <lex>m.</lex> ‘non-confusion’, steadiness, <ls>AitBr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अलोभ",
+            "eid": "16784",
+            "pagenum": 95,
+            "content": "¦ absence of cupidity, moderation, <ls>Hit.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अलोभ",
+            "eid": "6074",
+            "pagenum": 86,
+            "content": "<i>A-lobha, as,</i>¦ m. non-confusion; right process (?); absence of cupidity, moderation."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अलोभ",
+            "eid": "10068",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अलोभ¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Nichtverwirrung, richtiger Gang</i>. <div n='1'>— 2〉 <i>Nichthabsucht, Genügsamkeit</i>."
+        },
+        {
+            "word": "अलोभ",
+            "eid": "10069",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अलोभ¦ <lex>Adj.</lex> <i>nicht habsüchtig</i> zu <ls>Spr. 716</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अलोभ",
+            "eid": "6200",
+            "pagenum": 1,
+            "content": "अलोभ¦ (3. अ + लोभ) <lex>m.</lex> <div n='1'> 1) <i>Nichtverwirrung, richtiger Gang</i>: मनुष्यरथस्यैवान्तरौ रश्मी विहरन्त्यलोभाय <ls>AIT. BR. 2, 37.</ls> <div n='1'>— 2) <i>Genügsamkeit</i> <ls>HIT. I, 7.</ls>"
+        }
     ]
 }

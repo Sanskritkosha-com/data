@@ -75,5 +75,69 @@
             "pagenum": 635,
             "content": "vaw¦ <i>(III) vt. 10U (pres. वटयति-ते)</i> 1. To surround, to envelop; 2. to divide, to separate."
         }
+    ],
+    "MD": [
+        {
+            "word": "वट्",
+            "eid": "15791",
+            "pagenum": 267,
+            "content": "वट्¦ váṭ, <i>a sacrificial exclamation</i> (<ab>YV.</ab>, <i>rare</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वट्",
+            "eid": "185175",
+            "pagenum": 914,
+            "content": "<hom>1.</hom> वट् ¦ (<ab>prob.</ab> invented to serve as a root for the words below; <ab>cf.</ab> √ <hom>1.</hom> वृत्) <ab>cl.</ab> 1. <ab>P.</ab>, वटति (<ab>pf.</ab> ववाट &c.), <div n='to'/>to surround, encompass, <ls>Dhātup. ix, 13</ls>; <div n='to'/> <ab>cl.</ab> 10. <ab>P.</ab> वटयति, to tie, string, connect, <ls n='Dhātup.'>xxxv, 5</ls>; <div n='to'/>to divide, partition, <ls n='Dhātup.'>xxxv, 65</ls>; <div n='to'/>to speak, <ls n='Dhātup.'>xix, 17</ls>: <div n='vp'/><ab>Pass.</ab> वट्यते (only वट्यन्ते, <ls>Viṣṇ. xliii, 34</ls>), to be crushed or pounded or ground down.<info westergaard='vawa,9.13,01.0200'/><info verb='root' cp='1P,10P'/>"
+        },
+        {
+            "word": "वट्",
+            "eid": "185239",
+            "pagenum": 914,
+            "content": "<hom>2.</hom> व/ट् ¦ <lex>ind.</lex> an interjection or exclamation used in sacrificial ceremonies, <ls>TS.</ls><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वट्",
+            "eid": "40975",
+            "pagenum": 880,
+            "content": "वट् 1¦. <i>vaṭ</i> (probably connected with rt. 1. <i>vṛt</i>), cl. 1. P. <i>vaṭati, vavāṭa, vaṭitum,</i> to surround, encompass; cl. 10. P. <i>vaṭayati,</i> &c., to tie, string, connect; to divide, partition: Caus. <i>vaṭayati, -yitum,</i> to speak."
+        },
+        {
+            "word": "वट्",
+            "eid": "40991",
+            "pagenum": 880,
+            "content": "वट् 2¦. <i>vaṭ,</i> ind., Ved. an interjection or exclamation used in sacrificial ceremonies."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वट्",
+            "eid": "97607",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> √वट्¦, *वटति (वेष्टने, परिभाषणे), *वटयति (ग्रन्थे, वेष्टने, विभाजने). Zu belegen nur वट्यन्ते <i>sie werden zerstossen</i> <ls>VIṢṆUS. 43,38</ls>. <ab>Vgl.</ab> चट्."
+        },
+        {
+            "word": "वट्",
+            "eid": "97608",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> व/ट्¦ ein Opferausruf <ls>ĀPAST. ŚR. 1,4,2</ls> (<ab>vgl.</ab> <ls>TAITT. ĀR. 4,9,3</ls>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वट्",
+            "eid": "87510",
+            "pagenum": 6,
+            "content": "1. वट्¦, व/टति <ls>DHĀTUP. 9, 13</ls> (वेष्टने). <ls n='DHĀTUP.'>19, 17</ls> (परिभाषणे). वट/यति <ls n='DHĀTUP.'>35, 5</ls> (ग्रन्थे, वेष्टने). <ls n='DHĀTUP.'>65</ls> (विभाजने)."
+        },
+        {
+            "word": "वट्",
+            "eid": "87511",
+            "pagenum": 6,
+            "content": "2. वट्¦ ein Opferausruf: श्ये\\नाय\\ पत्व^ने\\ वट् <ls>TS. 3, 2, 8, 1.</ls> नृ\\षदे\\ वट् <ls n='TS.'>5, 4, 5, 1.</ls> वेट् statt dessen <ls>VS.</ls>"
+        }
     ]
 }

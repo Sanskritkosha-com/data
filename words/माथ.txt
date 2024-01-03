@@ -47,5 +47,63 @@
             "pagenum": 567,
             "content": "mATa¦ <i>n.</i> 1. Stirring, churning; 2. killing, destruction; 3. a way, a road."
         }
+    ],
+    "MD": [
+        {
+            "word": "माथ",
+            "eid": "13984",
+            "pagenum": 225,
+            "content": "माथ¦ māth-a, <lex>m.</lex> crushing, destroying: <b>-ka,</b> 🞄<lex>m.</lex> destroyer."
+        }
+    ],
+    "MW": [
+        {
+            "word": "माथ",
+            "eid": "162461",
+            "pagenum": 808,
+            "content": "माथ ¦ <lex>m.</lex> (√ मथ्) churning, stirring, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "माथ",
+            "eid": "162462",
+            "pagenum": 808,
+            "content": "¦ hurting, killing, destruction, <ls>Śatr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "माथ",
+            "eid": "162463",
+            "pagenum": 808,
+            "content": "¦ illness, disease, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "माथ",
+            "eid": "162464",
+            "pagenum": 808,
+            "content": "¦ a way, road, <ls>L.</ls> (<ab>cf.</ab> माठ). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "माथ",
+            "eid": "36970",
+            "pagenum": 768,
+            "content": "माथ¦ <i>mātha, as,</i> m. (fr. rt. 1. <i>math</i>), churning, stirring; hurting, injuring, killing, destruction, annihilation; a way, road; [cf. <i>māṭha.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "माथ",
+            "eid": "85930",
+            "pagenum": 5,
+            "content": "माथ¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das Aufreiben, Zunichtemachen</i>. <div n='1'>— 2〉 *<i>Weg</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "माथ",
+            "eid": "59707",
+            "pagenum": 5,
+            "content": "माथ¦ <lex>m.</lex> <div n='1'> 1) (nom. act. von 1. मथ्) = मथ <is>gaṇa</is> ज्वलादि zu <ls>P. 3, 1, 140.</ls> = मन्थन <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <i>das Aufreiben, Zunichtemachen</i>: कर्ममाथकृत् (आदिनाथ) <ls>ŚATR. 2, 1.</ls> <div n='1'>— 2) <i>Weg</i> <ls>TRIK. 2, 1, 19.</ls> <ls>JAṬĀDH.</ls> bei <ls>WILSON</ls>; vgl. माठ ."
+        }
     ]
 }

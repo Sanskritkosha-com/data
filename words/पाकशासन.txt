@@ -47,5 +47,45 @@
             "pagenum": 427,
             "content": "pAka-SAsana¦ <i>m.</i> an epithet of Indra, <ls>K.S.</ls>ii.63."
         }
+    ],
+    "MD": [
+        {
+            "word": "पाकशासन",
+            "eid": "11400",
+            "pagenum": 159,
+            "content": "पाकशासन¦ pāka-śāsana, <lex>m.</lex> chastiser of <i>the 🞄demon</i> Pāka, <ab>ep.</ab> <i>of</i> Indra; <b>-śāstra,</b> <lex>n.</lex> art of 🞄cookery."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पाकशासन",
+            "eid": "121034",
+            "pagenum": 613,
+            "content": "पाक—शासन ¦ <lex>m.</lex> ‘punisher of the <s1 slp1='dEtya'>Daitya</s1> <s1 slp1='pAka'>Pāka</s1>’ or ‘instructor of the ignorant’, <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>Pur.</ls> (<ab>cf.</ab> <ls>RV. i, 31, 14</ls>)<info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "पाकशासन",
+            "eid": "7721",
+            "pagenum": 2,
+            "content": "<i>Pākaśāsana</i>¦ — Indra, the lord of rains;<sup>1</sup> fought with the Asuras and got the full share of <i>Yajñas</i> for devas and deprived them of their place.<sup>2</sup> <F>1) Br. III. 63. 99; 66. 35; M. 7. 51. Vā. 88. 85.</F> <F>2) Ib. 97. 93.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पाकशासन",
+            "eid": "65381",
+            "pagenum": 4,
+            "content": "पाकशासन¦ <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पाकशासन",
+            "eid": "43976",
+            "pagenum": 4,
+            "content": "पाकशासन¦ (1. पाक + शा°) <lex>m.</lex> <i>der Züchtiger des</i> <is>Daitya</is> <is>Pāka</is> (urspr. wohl <i>Unterweiser der Einfältigen</i>; vgl. प्र पाकं शास्सि <ls>ṚV. 1, 31, 14</ls>), Bein. <is>Indra's</is> <ls>AK. 1, 1, 1, 36.</ls> <ls>H. 174</ls>, <ls>Sch.</ls>  <ls>HALĀY. 1, 54.</ls> <ls>INDR. 1, 14.</ls> <ls>MBH. 1, 8279.</ls> <ls n='MBH.'>13, 271.</ls> <ls>R. 1, 60, 16.</ls>  <ls>R. GORR. 1, 27, 22.</ls> <ls n='R. GORR.'>4, 43, 40.</ls> <ls>KUMĀRAS. 2, 63.</ls> <ls>VIKR. 89, 1.</ls> <ls>BHĀG. P. 8, 11, 2.</ls>"
+        }
     ]
 }

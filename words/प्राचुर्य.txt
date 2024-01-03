@@ -39,5 +39,57 @@
             "pagenum": 487,
             "content": "prAcurya¦ <i>n.</i> Abundance, copiousness, plenty."
         }
+    ],
+    "MD": [
+        {
+            "word": "प्राचुर्य",
+            "eid": "12377",
+            "pagenum": 184,
+            "content": "प्राचुर्य¦ prācur-ya, <lex>n.</lex> copiousness, abundance, 🞄plenty; amplitude, prolixity; prevalence, 🞄currency: <ab>in.</ab> for the most part; in 🞄detail."
+        }
+    ],
+    "MW": [
+        {
+            "word": "प्राचुर्य",
+            "eid": "138804",
+            "pagenum": 702,
+            "content": "प्रा—चुर्य ¦ <lex>n.</lex> (<ab>fr.</ab> -चुर) multitude, abundance, plenty, <ls>Bādar.</ls>; <ls>Rājat.</ls>; <ls>Pañcat.</ls><info lex='n'/>"
+        },
+        {
+            "word": "प्राचुर्य",
+            "eid": "138805",
+            "pagenum": 702,
+            "content": "¦ amplitude, prolixity, <ls>TPrāt.</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        },
+        {
+            "word": "प्राचुर्य",
+            "eid": "138806",
+            "pagenum": 702,
+            "content": "¦ prevalence, currency, <ls>Śaṃk.</ls>; <ls>Rājat.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्राचुर्य",
+            "eid": "33492",
+            "pagenum": 653,
+            "content": "प्राचुर्य¦ <i>prācurya, am,</i> n. (fr. <i>pracura</i>), multitude, quantity; abundance, copiousness, plentifulness, plenty; (<i>eṇa</i>), ind. in a mass; fully, in detail."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्राचुर्य",
+            "eid": "74015",
+            "pagenum": 4,
+            "content": "प्राचुर्य¦ <lex>n.</lex> <div n='1'>— 1〉 <i>Vielheit, Menge,</i> <ab>Instr.</ab> <i>zum grössten Theil, fast insgesammt</i> <ls>MĀRK. P. 134,53</ls>. <div n='1'>— 2〉 <i>Ausführlichkeit</i> <ls>Comm. zu TS. PRĀT.</ls> <ab>Instr.</ab> <i>ausführlich</i>. <div n='1'>— 3〉 <i>allgemeine Verbreitung, — Gangbarkeit</i> <ls>RĀJAT. 3,153</ls>. <ls>ŚAṂK. zu BĀDAR. 3,2,33</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्राचुर्य",
+            "eid": "50489",
+            "pagenum": 4,
+            "content": "प्राचुर्य¦ (von प्रचुर) <lex>n.</lex> <i>Vielheit, Menge</i> <ls>BĀDAR. 1, 1, 13.</ls> <ls>KĀŚ.</ls> zu <ls>P. 5, 4, 21.</ls> <ls>RĀJA-TAR. 3, 103.</ls> <ls>MĀRK. P. 113, 26.</ls> <ls>PAÑCAT. 253, 22.</ls> <ls n='PAÑCAT.'>254, 22.</ls> प्राचुर्येण <i>in Masse</i> <ls>MĀRK. P. 134, 53.</ls> <i>ausführlich</i> <ls>BHĀG. P. 5, 26, 3. 9, 1, 7.</ls>"
+        }
     ]
 }

@@ -60,5 +60,37 @@
             "pagenum": 256,
             "content": "glAsnu¦ <i>a.</i> Languid, wearied."
         }
+    ],
+    "MW": [
+        {
+            "word": "ग्लास्नु",
+            "eid": "69191",
+            "pagenum": 374,
+            "content": "ग्लास्नु ¦ <lex>mfn.</lex> exhausted by fatigue or disease, languid, <ls>Pāṇ. iii, 2, 139</ls>; <ls>Car. iii, 1, 3</ls>; <ls n='Car.'>v, 8, 16.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ग्लास्नु",
+            "eid": "17882",
+            "pagenum": 305,
+            "content": "<i>Glāsnu, us, us, u,</i>¦ exhausted by fatigue or disease, languid, wearied; [cf. Lat. <nsi>lassus.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्लास्नु",
+            "eid": "37634",
+            "pagenum": 2,
+            "content": "ग्लास्नु¦ <lex>Adj.</lex> <i>schlaff, welk, krank</i> <ls>CARAKA. 3,1. 5,8</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ग्लास्नु",
+            "eid": "23867",
+            "pagenum": 2,
+            "content": "ग्लास्नु/¦ (wie eben) <lex>adj.</lex> <i>schlaff, welk</i> <ls>P. 3, 2, 139.</ls> <ls>VOP. 26, 144.</ls> <ls>AK. 2, 6, 2, 9.</ls> <i>krank</i> <ls>H. 459.</ls>"
+        }
     ]
 }

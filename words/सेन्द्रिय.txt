@@ -15,5 +15,43 @@
             "pagenum": 508,
             "content": "सेन्द्रिय¦ <i>Adj.</i> samt den Sinnensorganen."
         }
+    ],
+    "MW": [
+        {
+            "word": "सेन्द्रिय",
+            "eid": "252235",
+            "pagenum": 1246,
+            "content": "se<srs/>ndriya ¦ <lex>mfn.</lex> possessed of manly vigour or potency (-त्व/ <lex type='phw'>n.</lex>), <ls>MaitrS.</ls><info phwchild='252236.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सेन्द्रिय",
+            "eid": "252236",
+            "pagenum": 1246,
+            "content": "¦ together with the organs of sense, <ls>Mn. i, 50.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सेन्द्रिय",
+            "eid": "52664",
+            "pagenum": 1135,
+            "content": "सेन्द्रिय¦ <i>sendriya (sa-in°), as, ā, am,</i> having organs of sense, with the organs of sense."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सेन्द्रिय",
+            "eid": "129269",
+            "pagenum": 7,
+            "content": "सेन्द्रिय¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>mit Vermögen —, mit männlichem Vermögen</i> <ab>u. s. w.</ab> <i>ausgestattet</i>. <div n='1'>— 2〉 <i>sammt den Sinnesorganen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सेन्द्रिय",
+            "eid": "112639",
+            "pagenum": 7,
+            "content": "सेन्द्रिय¦ (2. स + इ°) <lex>adj.</lex> <div n='1'> 1) <i>mit Vermögen —, männlichem Vermögen</i> u. s. w. <i>ausgestattet.</i> <div n='1'>— 2) <i>sammt den Sinnesorganen</i> <ls>M. 1, 55.</ls>"
+        }
     ]
 }

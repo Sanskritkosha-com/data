@@ -20,5 +20,41 @@
             "pagenum": 364,
             "content": "Dvaja-praharaRa¦ <i>m.</i> air, wind."
         }
+    ],
+    "MW": [
+        {
+            "word": "ध्वजप्रहरण",
+            "eid": "102439",
+            "pagenum": 522,
+            "content": "ध्वज—प्रहरण ¦ <lex>m.</lex> ‘<ab n='banner'>b°</ab>-striking’, air, wind, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ध्वजप्रहरण",
+            "eid": "102439.1",
+            "pagenum": 1329,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='vAyu'>Vāyu</s1>, <ls>L.</ls><info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ध्वजप्रहरण",
+            "eid": "56022",
+            "pagenum": 3,
+            "content": "*ध्वजप्रहरण¦ <lex>m.</lex> <i>Wind</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ध्वजप्रहरण",
+            "eid": "37188",
+            "pagenum": 3,
+            "content": "ध्वजप्रहरण¦ (ध्वज + प्र°) <lex>m.</lex> <i>Wind (der mit den Fahnen Kämpfende</i>) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "ध्वजप्रहरण",
+            "eid": "76713",
+            "pagenum": 5,
+            "content": "ध्वजप्रहरण¦ <ls>H. ś. 171</ls>, wo ध्वजप्र° zu lesen ist."
+        }
     ]
 }

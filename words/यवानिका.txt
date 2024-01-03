@@ -15,5 +15,49 @@
             "pagenum": 595,
             "content": "yavAnikA¦ <i>f.</i> Bad barley, (दुष्टो यवो यवानी <ls>S.K.</ls>)"
         }
+    ],
+    "MW": [
+        {
+            "word": "यवानिका",
+            "eid": "170748",
+            "pagenum": 847,
+            "content": "यवानिका <hom>a</hom> ¦ <lex>f.</lex> <bot>Ptychotis Ajowan</bot>, <ls>Car.</ls><info lex='f'/>"
+        },
+        {
+            "word": "यवानिका",
+            "eid": "170823",
+            "pagenum": 848,
+            "content": "यवानिका <hom>b</hom> ¦ See <pcol>p. 847, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "यवानिका",
+            "eid": "38443",
+            "pagenum": 811,
+            "content": "<i>Yavānikā,</i>¦ f. Ptychotis Ajowan."
+        },
+        {
+            "word": "यवानिका",
+            "eid": "38463",
+            "pagenum": 812,
+            "content": "यवानिका¦ <i>yavānikā.</i> See p. 811, col. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "यवानिका",
+            "eid": "90495",
+            "pagenum": 5,
+            "content": "यवानिका (<ls>CARAKA. 6,20</ls>) und यवानी¦ <lex>f.</lex> <i><bot>Plychotis Ajowan</bot></i> <ls>RĀJAN. 6,39</ls>. <ls>BHĀVAPR. 1,165. 284</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यवानिका",
+            "eid": "81711",
+            "pagenum": 6,
+            "content": "यवानिका¦ <lex>f.</lex> = यवानी <ls>AK. 2, 4, 5, 10.</ls>"
+        }
     ]
 }

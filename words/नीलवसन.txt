@@ -15,5 +15,41 @@
             "pagenum": 224,
             "content": "नीलवसन¦ <i>n.</i> blaues Tuch."
         }
+    ],
+    "MW": [
+        {
+            "word": "नीलवसन",
+            "eid": "111619",
+            "pagenum": 566,
+            "content": "नील—वसन ¦ <lex>n.</lex> a blue garment, <ls>Kathās.</ls><info lex='n'/>"
+        },
+        {
+            "word": "नीलवसन",
+            "eid": "111620",
+            "pagenum": 566,
+            "content": "नील—वसन ¦ <lex>m.</lex> the planet Saturn, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नीलवसन",
+            "eid": "60729",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> नीलवसन¦ <lex>n.</lex> <i>ein blaues Tuch</i> <ls n='Chr.'>110,31</ls>."
+        },
+        {
+            "word": "नीलवसन",
+            "eid": "60730",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *नीलवसन¦ <lex>m.</lex> <i>der Planet Saturn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नीलवसन",
+            "eid": "40550",
+            "pagenum": 4,
+            "content": "नीलवसन¦ (नील + व°) <lex>m.</lex> <i>der Planet Saturn (ein blaues Gewand tragend</i>) <ls>HĀR. 12.</ls> <div n='v'>— Vgl. नीलवासस्, नीलाम्बर ."
+        }
     ]
 }

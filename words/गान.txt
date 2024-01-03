@@ -60,5 +60,63 @@
             "pagenum": 241,
             "content": "gAna¦ <i>n.</i> Singing, a song."
         }
+    ],
+    "MD": [
+        {
+            "word": "गान",
+            "eid": "6933",
+            "pagenum": 83,
+            "content": "गान¦ gā-na, <lex>n.</lex> song."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गान",
+            "eid": "64598",
+            "pagenum": 352,
+            "content": "गान <hom>a</hom> ¦ <lex>n.</lex> singing, song, <ls>KātyŚr.</ls>; <ls>Lāṭy. i</ls>, <ls n='Lāṭy.'>vii</ls>; <ls>Hariv. 11793</ls>; <ls>Śiś. ix, 54</ls><info lex='n'/>"
+        },
+        {
+            "word": "गान",
+            "eid": "64599",
+            "pagenum": 352,
+            "content": "¦ a sound, <ls>L.</ls> (<ab>cf.</ab> अरण्य-, ऊह-, ऊह्य-.)<info lex='inh'/>"
+        },
+        {
+            "word": "गान",
+            "eid": "64772",
+            "pagenum": 353,
+            "content": "गान <hom>b</hom> ¦ 1."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गान",
+            "eid": "17306",
+            "pagenum": 288,
+            "content": "गान¦ <i>gāna, am,</i> n. (fr. <i>gai</i>), singing, a song; a sound; [cf. <i>araṇya-gāna, ūha-g°, ūhya-g°.</i>] <i>—Gāna-bandhu, us,</i> m. a friend of songs; N. of a man (?). <i>—Gāna-vidyā,</i> f. the science of vocal music."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गान",
+            "eid": "35274",
+            "pagenum": 2,
+            "content": "गान¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Singen, Gesang</i>. <div n='1'>— 2〉 *<i>Laut</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गान",
+            "eid": "22256",
+            "pagenum": 2,
+            "content": "गान¦ (von 2. गा) <lex>n.</lex> <i>das Singen, Gesang</i> <ls>AK. 1, 1, 6, 4.</ls> <ls>H. 280.</ls> अध्वर्योः <ls>KĀTY. ŚR. 4, 9, 7.</ls> <ls n='KĀTY. ŚR.'>20, 3, 5.</ls> सामगान <ls n='KĀTY. ŚR.'>24, 6, 40.</ls> <ls>LĀṬY. 1, 8, 5. 7, 10, 18.</ls> <ls>HARIV. 11793.</ls> Cit. beim Sch. zu <ls>ŚĀK. 98.</ls> <ls>Verz. d. B. H. 125, 4. 7.</ls> <i>Laut</i> <ls>DHAR.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. अरण्य°, ऊह°, ऊह्य° ."
+        },
+        {
+            "word": "गान",
+            "eid": "72726",
+            "pagenum": 5,
+            "content": "गान¦ <ls>ŚIŚ. 9, 54.</ls> गान्धर्वं गानमित्यस्य (गीतस्य) भेदद्वयमुदीरितम् <ls>Verz. d. Oxf. H. 199,b, No. 472.</ls>"
+        }
     ]
 }

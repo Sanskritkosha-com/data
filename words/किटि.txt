@@ -68,5 +68,51 @@
             "pagenum": 188,
             "content": "kiwi¦ <i>m.</i> A hog."
         }
+    ],
+    "MD": [
+        {
+            "word": "किटि",
+            "eid": "5892",
+            "pagenum": 68,
+            "content": "किटि¦ kiṭi, <lex>m.</lex> wild boar."
+        }
+    ],
+    "MW": [
+        {
+            "word": "किटि",
+            "eid": "50242",
+            "pagenum": 282,
+            "content": "किटि ¦ <lex>m.</lex> (<ab>cf.</ab> किर, किरि) a hog, <ls>Kauś. 25</ls><info lex='m'/>"
+        },
+        {
+            "word": "किटि",
+            "eid": "50243",
+            "pagenum": 282,
+            "content": "¦ <bot>Batatas edulis</bot>, <ls>Npr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "किटि",
+            "eid": "14749",
+            "pagenum": 229,
+            "content": "किटि¦ <i>kiṭi, is,</i> m. a hog; [cf. <i>kira, kiri.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "किटि",
+            "eid": "27820",
+            "pagenum": 2,
+            "content": "किटि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Wildschwein</i>. <div n='1'>— 2〉 *<i><bot>Batatas edulis</bot></i> <ls>NIGH. PR.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "किटि",
+            "eid": "17198",
+            "pagenum": 2,
+            "content": "किटि¦ <lex>m.</lex> <i>ein wildes Schwein</i> <ls>AK. 2, 5, 2.</ls> <ls>H. 1288.</ls> <ls>KAUŚ. 25</ls> (?). <div n='v'>— Vgl. किर, किरि ."
+        }
     ]
 }

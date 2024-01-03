@@ -15,5 +15,53 @@
             "pagenum": 286,
             "content": "jala-ASraya¦ <i>m.</i> 1. a pond; 2. a water-house."
         }
+    ],
+    "MW": [
+        {
+            "word": "जलाश्रय",
+            "eid": "78210",
+            "pagenum": 416,
+            "content": "jalA<srs/>Sraya ¦ <lex>m.</lex> for °शय, a pond, <ls>Pañcat. i, 13, 0/1</ls><info lex='m'/>"
+        },
+        {
+            "word": "जलाश्रय",
+            "eid": "78211",
+            "pagenum": 416,
+            "content": "¦ a water-house, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जलाश्रय",
+            "eid": "78212",
+            "pagenum": 416,
+            "content": "¦ a wolf, <ls>Gal.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जलाश्रय",
+            "eid": "42252",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> जलाश्रय¦ <lex>m.</lex> fehlerhaft für <hom>1.</hom> जलाशय."
+        },
+        {
+            "word": "जलाश्रय",
+            "eid": "42253",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> *जलाश्रय¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Wolf</i> <ls>GAL.</ls> <div n='1'>— 2〉 <lex>f.</lex> आ <div n='2'>— a〉 <i>eine Kranichart</i> <ls>RĀJAN. 19,104</ls>. <div n='2'>— b〉 <i>eine Grasart</i> <ls>RĀJAN. 8,131</ls> (<ab>v. l.</ab> जयाश्रया); <i>eine Schilfart</i> <ls n='Chr.'>10,150</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जलाश्रय",
+            "eid": "27059",
+            "pagenum": 3,
+            "content": "जलाश्रय¦ (जल + आश्रय) <div n='1'> 1) <lex>m.</lex> = जलाशय <i>Wasserbehälter, Teich</i> <ls>H. an. 4, 222.</ls> <ls>PAÑCAT. 76, 6</ls> (viell. nur Druckfehler für जलाशय). <div n='1'>— 2) <lex>f.</lex> आ <div n='2'> a) <i>eine Art Kranich</i> (वलाका). <div n='2'>— b) <i>eine Art Gras</i> (शूली) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "जलाश्रय",
+            "eid": "74279",
+            "pagenum": 5,
+            "content": "जलाश्रय¦ <div n='1'> 1) <ls>Spr. 1500, v. l.</ls>"
+        }
     ]
 }

@@ -15,5 +15,47 @@
             "pagenum": 235,
             "content": "पद/पङ्क्ति¦ <i>f.</i> Fußspur <i>(eig.</i> Schrittreihe); <i>N. eines Metrums.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "पदपङ्क्ति",
+            "eid": "115281",
+            "pagenum": 583,
+            "content": "पद—पङ्क्ति ¦ <lex>f.</lex> a series of footsteps, track, <ls>Kālid.</ls>; <ls>Pañc.</ls><info lex='f'/>"
+        },
+        {
+            "word": "पदपङ्क्ति",
+            "eid": "115282",
+            "pagenum": 583,
+            "content": "¦ a series of words, <ls>Kir.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पदपङ्क्ति",
+            "eid": "115283",
+            "pagenum": 583,
+            "content": "¦ a kind of metre (of 5 <s1 slp1='pada'>Pada</s1>s of 5 syllables each), <ls>RPrāt.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पदपङ्क्ति",
+            "eid": "115284",
+            "pagenum": 583,
+            "content": "¦ a sacred brick called after this metre, <ls>KātyŚr.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पदपङ्क्ति",
+            "eid": "62746",
+            "pagenum": 4,
+            "content": "पद/पङ्क्ति¦ <lex>f.</lex> <div n='1'>— 1〉 <i>eine Reihe von Fusstritten, Fussspuren</i> <ls n='Chr.'>134,10</ls> <div n='1'>— 2〉 <i>ein aus fünf</i> <is>Pada</is> <i>mit je fünf Silben bestehendes Metrum</i>. <div n='1'>— 3〉 <i>ein nach dem Metrum benannter Backstein</i>. <div n='1'>— 4〉 <i>eine Reihe von Worten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पदपङ्क्ति",
+            "eid": "42030",
+            "pagenum": 4,
+            "content": "पद/पङ्क्ति¦ (पद + प°) <lex>f.</lex> <div n='1'> 1) <i>eine Reihe von Fusstritten, - Fussspuren</i>  <ls>ŚĀK. 56.</ls> <ls>VIKR. 79.</ls> <ls>VID. 286.</ls> <ls>PAÑCAT. 243, 1.</ls> <div n='1'>— 2) <i>ein aus fünf</i> <is>Pada</is> <i>mit je fünf Silben bestehendes Metrum</i> <ls>ṚV. PRĀT. 16, 10.</ls> <ls>CHANDAS</ls> in <ls>Verz. d. B. H. No. 383.</ls> <ls>VS. 15, 4.</ls> <ls>ŚĀṄKH. ŚR. 7, 27, 25.</ls> <div n='1'>— 3) <i>eine nach dem Metrum benannte</i> <is>Iṣṭakā</is> <ls>KĀTY. ŚR. 17, 12, 15.</ls> <div n='1'>— 4) <i>eine Reihe von Worten</i>: कृतपदपङ्क्तिरथर्वणेव वेदः <ls>KIR. 10, 10.</ls>"
+        }
     ]
 }

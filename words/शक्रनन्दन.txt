@@ -7,5 +7,29 @@
             "pagenum": 183,
             "content": "<b>Śakranandana</b>¦ = Arjuna, q.v."
         }
+    ],
+    "MW": [
+        {
+            "word": "शक्रनन्दन",
+            "eid": "211088",
+            "pagenum": 1045,
+            "content": "शक्र—नन्दन ¦ <lex>m.</lex> ‘<ab n='Indra' slp1='indra'>I°</ab>'s son’ <ab>patr.</ab> of <s1 slp1='arjuna'>Arjuna</s1>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शक्रनन्दन",
+            "eid": "109427",
+            "pagenum": 6,
+            "content": "*शक्रनन्दन¦ <lex>m.</lex> <ab>Patron.</ab> <is>Arjuna</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शक्रनन्दन",
+            "eid": "97188",
+            "pagenum": 7,
+            "content": "शक्रनन्दन¦ <lex>m.</lex> <is>Indra's</is> <i>Sohn</i> <ab>d. i.</ab> <is>Arjuna</is> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

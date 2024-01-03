@@ -23,5 +23,43 @@
             "pagenum": 382,
             "content": "nir-vraRa¦ <i>a.</i> unhurt, without wounds."
         }
+    ],
+    "MW": [
+        {
+            "word": "निर्व्रण",
+            "eid": "107399",
+            "pagenum": 542,
+            "content": "निर्—व्रण ¦ <lex>mfn.</lex> unwounded, unhurt, <ls>MBh.</ls>; <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "निर्व्रण",
+            "eid": "107400",
+            "pagenum": 542,
+            "content": "¦ undamaged, without notches or rents, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>AgP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निर्व्रण",
+            "eid": "25669",
+            "pagenum": 502,
+            "content": "निर्व्रण¦ <i>nir-vraṇa, as, ā, am,</i> without wounds, unhurt; undamaged; without notches or rents."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निर्व्रण",
+            "eid": "59715",
+            "pagenum": 3,
+            "content": "निर्व्रण¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>ohne Wunden, unverletzt</i>. <div n='1'>— 2〉 <i>nicht schadhaft, ohne Schaden, ohne Sprung</i> <ls>AGNI-P. 34,18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निर्व्रण",
+            "eid": "39758",
+            "pagenum": 4,
+            "content": "निर्व्रण¦ (निस् + व्रण) <lex>adj.</lex> <i>ohne Wunden, unverletzt</i> <ls>MBH. 7, 2742.</ls> <ls n='MBH.'>8, 1607.</ls> <ls n='MBH.'>12, 11313.</ls> <ls>BHĀG. P. 8, 6, 37.</ls> <i>nicht schadhaft, ohne Scharten, ohne Sprung</i>: सायकः परनिर्ब्रणः <ls>MBH. 4, 1340.</ls> पात्र <ls>M. 6, 53.</ls>"
+        }
     ]
 }

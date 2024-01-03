@@ -15,5 +15,37 @@
             "pagenum": 14,
             "content": "aDi-hari¦ <i>ind.</i> concering Hari."
         }
+    ],
+    "MW": [
+        {
+            "word": "अधिहरि",
+            "eid": "4475",
+            "pagenum": 22,
+            "content": "अधि-हरि ¦ <lex>ind.</lex> concerning <s1 slp1='hari'>Hari</s1>, <ls>Pāṇ. ii, 1, 6</ls>, <ab>Sch.</ab><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अधिहरि",
+            "eid": "1289",
+            "pagenum": 22,
+            "content": "अधिहरि¦ <i>adhi-hari,</i> ind. concerning Hari."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अधिहरि",
+            "eid": "2959",
+            "pagenum": 1,
+            "content": "*अधिहरि¦ <lex>Adv.</lex> = हरौ."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अधिहरि",
+            "eid": "2040",
+            "pagenum": 1,
+            "content": "अधिहरि¦ (1. अधि + हरि) adv. <i>in Bezug auf</i> <is>Hari</is> <ls>P. 1, 1, 41</ls>, <ls>Sch. 2 1, 6,</ls> <ls>Sch.</ls>"
+        }
     ]
 }

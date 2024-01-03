@@ -68,5 +68,63 @@
             "pagenum": 9,
             "content": "atawa¦ <i>m.</i> A precipice."
         }
+    ],
+    "MD": [
+        {
+            "word": "अतट",
+            "eid": "559",
+            "pagenum": 5,
+            "content": "अतट¦ a-taṭa, <lex>m.</lex> precipice, abyss."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अतट",
+            "eid": "2496",
+            "pagenum": 12,
+            "content": "अ-तट ¦ <lex>mfn.</lex> having no beach or shore, precipitous, <ls>Śāk.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अतट",
+            "eid": "2497",
+            "pagenum": 12,
+            "content": "अ-तट ¦ <lex>m.</lex> a precipice<info lex='m'/>"
+        },
+        {
+            "word": "अतट",
+            "eid": "2498",
+            "pagenum": 12,
+            "content": "¦ the third hell<info lex='inh'/>"
+        },
+        {
+            "word": "अतट",
+            "eid": "2499",
+            "pagenum": 12,
+            "content": "¦ <ab>cf.</ab> अतल.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अतट",
+            "eid": "599",
+            "pagenum": 12,
+            "content": "अतट¦ <i>a-taṭa, as, ā, am,</i> having no beach or shore, precipitous; (<i>as</i>), m. a precipice; the third hell."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अतट",
+            "eid": "1583",
+            "pagenum": 1,
+            "content": "अतट¦ <lex>m.</lex> <i>ein jäher Abhang, Abgrund</i> <ls>ŚĀK. 137</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अतट",
+            "eid": "1190",
+            "pagenum": 1,
+            "content": "अतट¦ (3. अ + तट) <div n='1'> 1) <lex>adj.</lex> <i>uferlos, ohne einen sanften Abhang, ohne Leite, jähe</i>: मनोरथानामतटप्रपाताः <ls>ŚĀK. 137.</ls> <div n='1'>— 2) <lex>m.</lex> <i>ein jäher Abhang, Abgrund</i> <ls>AK. 2, 3, 4.</ls> <ls>H. 1032.</ls>"
+        }
     ]
 }

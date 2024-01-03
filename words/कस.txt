@@ -29,5 +29,49 @@
             "pagenum": 151,
             "content": "कस¦ <i>kasa</i> <ab>m.</ab> <ab>cf.</ab> <i>kaṣa.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "कस",
+            "eid": "46862",
+            "pagenum": 266,
+            "content": "<hom>1.</hom> कस ¦ <lex>mfn.</lex>, <ls>Pāṇ. iii, 1, 140.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "कस",
+            "eid": "46866",
+            "pagenum": 266,
+            "content": "<hom>2.</hom> कस ¦ <lex>m.</lex> (= कष) a touch stone <ab>Sch.</ab> on <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कस",
+            "eid": "14156",
+            "pagenum": 215,
+            "content": "कस¦ <i>kasa, as,</i> m. <i>= kaṣa,</i> a touchstone; (<i>ā</i>), f. <i>= kaśā,</i> a whip."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कस",
+            "eid": "25909",
+            "pagenum": 2,
+            "content": "*कस¦ <lex>Adj.</lex> von <hom>1.</hom> कस्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कस",
+            "eid": "15943",
+            "pagenum": 2,
+            "content": "1. कस/¦ nom. ag. von 1. कस् <ls>P. 3, 1, 140.</ls>"
+        },
+        {
+            "word": "कस",
+            "eid": "15944",
+            "pagenum": 2,
+            "content": "2. कस¦ <div n='1'> 1) <lex>m.</lex> = कष <i>Probierstein</i> <ls>BHAR.</ls> zu <ls>AK. 2, 10, 32.</ls> <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> कसा = कशा <i>Peitsche</i> <ls>Sch.</ls> zu <ls>AK. 2, 10, 31.</ls>"
+        }
     ]
 }

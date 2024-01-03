@@ -31,5 +31,41 @@
             "pagenum": 721,
             "content": "SIta-raSmi¦ <i>m.</i> 1. the moon; 2. camphor."
         }
+    ],
+    "MW": [
+        {
+            "word": "शीतरश्मि",
+            "eid": "218356",
+            "pagenum": 1078,
+            "content": "शीत—रश्मि ¦ <lex>mfn.</lex> cool-rayed (-त्व <lex type='phw'>n.</lex>), <ls>Śak.</ls><info phwchild='218359.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शीतरश्मि",
+            "eid": "218357",
+            "pagenum": 1078,
+            "content": "शीत—रश्मि ¦ <lex>m.</lex> the moon, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Kāv.</ls>; <ls>Var.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शीतरश्मि",
+            "eid": "218358",
+            "pagenum": 1078,
+            "content": "¦ camphor, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शीतरश्मि",
+            "eid": "112962",
+            "pagenum": 6,
+            "content": "शीतरश्मि¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>kaltstrahlig</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <div n='1'>— 2〉 <lex>m.</lex> <i>der Mond</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शीतरश्मि",
+            "eid": "99912",
+            "pagenum": 7,
+            "content": "शीतरश्मि¦ <div n='1'> 1) <lex>adj.</lex> <i>kaltstrahlig</i>; davon nom. abstr. °त्व n. <ls>ŚĀK. 54.</ls> <div n='1'>— 2) <lex>m.</lex> <i>der Mond</i> <ls>MBH. 6, 485.</ls> <ls n='MBH.'>13, 2645.</ls> <ls>HARIV. 8721.</ls> <ls n='HARIV.'>14995.</ls>  <ls>R. GORR. 2, 16, 44.</ls> <ls>Spr. (II) 2468.</ls> <ls>VARĀH. BṚH. S. 4, 23. 31. 96, 15.</ls> <ls>BṚH. 2, 2.</ls> °ज <lex>m.</lex> <i>der Sohn des Mondes</i> <ab>d. i.</ab> <i>Mercur</i> <ls>BṚH. S. 104, 21.</ls>"
+        }
     ]
 }

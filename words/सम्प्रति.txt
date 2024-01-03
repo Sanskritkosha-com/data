@@ -44,5 +44,63 @@
             "pagenum": 268,
             "content": "<b>sampratí,</b>¦ <i><ab>adv.</ab></i> <div n='2'/><b>—1.</b> just opposite; <i>and</i> <i>so</i> <div n='2'/><b>—2.</b> (to the same limit) even, exactly; <div n='2'/><b>—3.</b> (<i>like <ab>Eng.</ab></i> even) at the very time; <i>and so</i> just now. [<b>sám</b> (intensive, <ls n='wg,1077'>1077b</ls> end) <b>+ práti,</b> <ls n='wg,1314'>1314a</ls>.]"
         }
+    ],
+    "MW": [
+        {
+            "word": "सम्प्रति",
+            "eid": "236333",
+            "pagenum": 1174,
+            "content": "<hom>1.</hom> सम्-प्रति/ ¦ <lex>ind.</lex> directly over, against or opposite, close in front of (<ab>acc.</ab>), <ls>ŚBr.</ls>; <ls>PārGṛ.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "सम्प्रति",
+            "eid": "236333.1",
+            "pagenum": 1174,
+            "content": "¦ rightly, in the right way, at the right time, <ls>Br.</ls>; <ls>ChUp.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सम्प्रति",
+            "eid": "236333.2",
+            "pagenum": 1174,
+            "content": "¦ exactly, just, <ls>TS.</ls>; <ls>ŚBr.</ls>; <ls>ChUp.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सम्प्रति",
+            "eid": "236333.3",
+            "pagenum": 1174,
+            "content": "¦ now, at this moment, at present, <ls>Kāv.</ls>; <ls>RāmatUp.</ls>; <ls>VarBṛS.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "सम्प्रति",
+            "eid": "236333.4",
+            "pagenum": 1174,
+            "content": "¦ (with <ab>impf.</ab>) immediately, at once, <ls>Kathās.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सम्प्रति",
+            "eid": "236335",
+            "pagenum": 1174,
+            "content": "<hom>2.</hom> सम्-प्रति ¦ <lex>m.</lex> <ab>N.</ab> of the 24th <s1 slp1='arhat'>Arhat</s1> of the past <s1 slp1='utsarpiRI'>Utsarpiṇī</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सम्प्रति",
+            "eid": "236336",
+            "pagenum": 1174,
+            "content": "¦ of a son of <s1 slp1='kuRAla'>Kuṇāla</s1>, <ls>HPariś.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सम्प्रति",
+            "eid": "50881",
+            "pagenum": 1085,
+            "content": "सम्प्रति 1¦. <i>sam-prati,</i> ind. now, at this time, at present."
+        },
+        {
+            "word": "सम्प्रति",
+            "eid": "50882",
+            "pagenum": 1085,
+            "content": "सम्प्रति 2¦. <i>sam-prati, is,</i> m., N. of a particular Arhat of the past Utsarpiṇī."
+        }
     ]
 }

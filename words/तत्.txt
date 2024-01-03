@@ -34,5 +34,73 @@
             "pagenum": 282,
             "content": "तत्¦ <i>tat</i> <ab>n.</ab> de <i>sas.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "तत्",
+            "eid": "81779",
+            "pagenum": 432,
+            "content": "तत् <hom>1a</hom> ¦ for त/द्. See <ab>col.</ab> 3."
+        },
+        {
+            "word": "तत्",
+            "eid": "81780",
+            "pagenum": 432,
+            "content": "तत् <hom>2a</hom> ¦ <hom>2.</hom> तत/. See √ तन्"
+        },
+        {
+            "word": "तत्",
+            "eid": "81811",
+            "pagenum": 432,
+            "content": "<hom>1.</hom> तत् ¦ in <ab>comp.</ab> for त/द्.<info lexcat='LEXID=pron,STEM=tad'/>"
+        },
+        {
+            "word": "तत्",
+            "eid": "82228",
+            "pagenum": 435,
+            "content": "<hom>2.</hom> तत् ¦ <lex type='hwifc'>mfn.</lex> <ab>ifc.</ab> See परी-<info lex='m:f:n'/>"
+        },
+        {
+            "word": "तत्",
+            "eid": "82229",
+            "pagenum": 435,
+            "content": "¦ <ab>cf.</ab> पुरी-त/त्.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तत्",
+            "eid": "20315",
+            "pagenum": 358,
+            "content": "तत् 1¦. <i>tat</i> for <i>tad,</i> that. See <i>tad,</i> p. 360."
+        },
+        {
+            "word": "तत्",
+            "eid": "20316",
+            "pagenum": 359,
+            "content": "तत् 2¦. <i>tat,</i> 2. <i>tata.</i> See rt. 3. <i>tan,</i> p. 361."
+        },
+        {
+            "word": "तत्",
+            "eid": "20352",
+            "pagenum": 361,
+            "content": "2. <i>tat, t, t, t,</i>¦ at the end of a comp.; [cf. <i>parī-</i> <i>tat.</i>] (For 1. <i>tat</i> see p. 358, col. 3.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तत्",
+            "eid": "44161",
+            "pagenum": 3,
+            "content": "*°तत्¦ <lex>Adj.</lex> von <hom>1.</hom> तन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तत्",
+            "eid": "28426",
+            "pagenum": 3,
+            "content": "तत्¦ <lex>adj.</lex> von तन् am Ende eines comp.; vgl. परीतत् ."
+        }
     ]
 }

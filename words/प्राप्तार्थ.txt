@@ -35,5 +35,33 @@
             "pagenum": 489,
             "content": "prApta-arTa¦ <i>a.</i> successful."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्राप्तार्थ",
+            "eid": "140079",
+            "pagenum": 707,
+            "content": "prA<srs/>ptA<srs/>rTa ¦ <lex>mfn.</lex> one who has attained an object or advantage, <ls>Kathās.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "प्राप्तार्थ",
+            "eid": "140080",
+            "pagenum": 707,
+            "content": "prA<srs/>ptA<srs/>rTa ¦ <lex>m.</lex> an object attained, <ls>Kap.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्राप्तार्थ",
+            "eid": "74431",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> प्राप्तार्थ¦ <lex>m.</lex> <i>das erreichte Ziel</i> <ls>KAP. 5,106</ls>."
+        },
+        {
+            "word": "प्राप्तार्थ",
+            "eid": "74432",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> प्राप्तार्थ¦ <lex>Adj.</lex> <i>zu Gelde gekommen</i> <ls n='Chr.'>124,32</ls>."
+        }
     ]
 }

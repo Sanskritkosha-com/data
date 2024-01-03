@@ -36,5 +36,69 @@
             "pagenum": 503,
             "content": "balA¦ <i>f.</i> Name of a particular incantation, तौ बलातिबलयोः प्रभावतः <ls>R.</ls>xi.9."
         }
+    ],
+    "MW": [
+        {
+            "word": "बला",
+            "eid": "143086",
+            "pagenum": 722,
+            "content": "बला ¦ <lex>f.</lex> <bot>Sida Cordifolia</bot>, <ls>Suśr.</ls> (<ab>du.</ab> the plants <s1 slp1='balA'>Balā</s1> and <s1 slp1='ati-balA'>Ati-balā</s1>, <ls>ib.</ls>)<info lex='f'/>"
+        },
+        {
+            "word": "बला",
+            "eid": "143087",
+            "pagenum": 722,
+            "content": "¦ <ab>N.</ab> of a <ab>partic.</ab> charm, <ls>R.</ls>; <ls>Ragh.</ls> (<ab>cf.</ab> अति-ब्°)<info lex='inh'/>"
+        },
+        {
+            "word": "बला",
+            "eid": "143088",
+            "pagenum": 722,
+            "content": "¦ the youngest sister in a drama, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बला",
+            "eid": "143089",
+            "pagenum": 722,
+            "content": "¦ <ab>N.</ab> of a daughter of <s1 slp1='dakza'>Dakṣa</s1>, <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बला",
+            "eid": "143090",
+            "pagenum": 722,
+            "content": "¦ of a daughter of <s1 slp1='rOdrASva'>Raudrāśva</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बला",
+            "eid": "143091",
+            "pagenum": 722,
+            "content": "¦ of a female divinity who executes the orders of the 17th <s1 slp1='arhat'>Arhat</s1> of the present <s1 slp1='avasarpiRI'>Avasarpiṇī</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "बला",
+            "eid": "143092",
+            "pagenum": 722,
+            "content": "¦ of a peasant girl, <ls>Lalit.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "बला",
+            "eid": "8925",
+            "pagenum": 2,
+            "content": "<i>Balā</i> (I)¦ — one of the ten wives of Atri. <div n='P'/>Br. III. 8. 75."
+        },
+        {
+            "word": "बला",
+            "eid": "8926",
+            "pagenum": 2,
+            "content": "<i>Balā</i> (II)¦ — a mind-born mother. <div n='P'/>M. 179. 12."
+        },
+        {
+            "word": "बला",
+            "eid": "8927",
+            "pagenum": 2,
+            "content": "<i>Balā</i> (III)¦ — a medicinal plant;<sup>1</sup> used in the first bathing of the deity.<sup>2</sup> <F>1) M. 218. 23.</F> <F>2) Ib. 267. 14.</F>"
+        }
     ]
 }

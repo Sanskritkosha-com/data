@@ -61,5 +61,57 @@
             "pagenum": 364,
             "content": "DyAma¦ <i>(II) n.</i> A kind of grass."
         }
+    ],
+    "MD": [
+        {
+            "word": "ध्याम",
+            "eid": "10159",
+            "pagenum": 134,
+            "content": "ध्याम¦ dhyāma, <lex>n.</lex> <i>kind of</i> fragrant grass."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ध्याम",
+            "eid": "102174",
+            "pagenum": 521,
+            "content": "ध्याम ¦ <lex>mfn.</lex> dark-coloured, black, <ls>L.</ls> (<ab>cf.</ab> श्याम)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "ध्याम",
+            "eid": "102175",
+            "pagenum": 521,
+            "content": "ध्याम ¦ <lex>n.</lex> any or a <ab>partic.</ab> fragrant grass, <ls>Suśr.</ls><info lex='n'/>"
+        },
+        {
+            "word": "ध्याम",
+            "eid": "102176",
+            "pagenum": 521,
+            "content": "¦ <bot>Artemisia Indica</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ध्याम",
+            "eid": "23613",
+            "pagenum": 461,
+            "content": "ध्याम¦ <i>dhyāma, as, ā, am,</i> dark-coloured, black; (<i>am</i>), n. a fragrant grass in general or a particular kind of it; the plant Artemisia Indica <i>(= damanaka)</i>. <i>—Dhyāmī-karaṇa, am,</i> n. making dark-coloured, blackening. <i>—Dhyāmī-kṛta, as,</i> <i>ā, am,</i> made dark-coloured, blackened."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ध्याम",
+            "eid": "55914",
+            "pagenum": 3,
+            "content": "ध्याम¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>dunkelfarbig</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>wohlriechendes Gras oder ein <ab>best.</ab> <ab n='wohlriechendes Gras'>w. G.</ab></i> <div n='2'>— b〉 *<i><bot>Artemisia indica</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ध्याम",
+            "eid": "37116",
+            "pagenum": 3,
+            "content": "ध्याम¦ <div n='1'> 1) <lex>adj.</lex> <i>dunkelfarbig</i> <ls>MED. m. 17.</ls> ध्यामीकृत und ध्यामीकरण <ls>VYUTP. 153.</ls> Vgl. श्याम . <div n='1'>— 2) <lex>n.</lex> <div n='2'> a) <i>ein wohlriechendes Gras</i> überh. oder <i>ein bestimmtes</i> <ls>AK. 2, 4, 5, 32.</ls> <ls>MED.</ls> <ls>SUŚR. 1, 103, 16.</ls> <div n='2'>— b) <i>Artemisia indica</i> (दमनक) <ls>MED.</ls> — Was ist aber क्षौमध्याम <ls>SUŚR. 1, 94, 8</ls> ?"
+        }
     ]
 }

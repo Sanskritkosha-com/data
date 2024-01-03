@@ -52,5 +52,29 @@
             "pagenum": 324,
             "content": "danu-ja¦ <i>m.</i> a demon."
         }
+    ],
+    "MW": [
+        {
+            "word": "दनुज",
+            "eid": "90017.1",
+            "pagenum": 468,
+            "content": "दनु—ज ¦ <lex>m.</lex> ‘born from <ab n='Danu' slp1='danu'>D°</ab>’, a <s1 slp1='dAnava'>Dānava</s1>, <ls>BhP. vi, 9, 39</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दनुज",
+            "eid": "48841",
+            "pagenum": 3,
+            "content": "दनुज¦ <lex>m.</lex> <i>ein</i> <is>Dānava</is>. °जेन्द्र <lex>m.</lex> <i>ein Fürst der</i> <is n='Dānava'>D.</is> <ls>VIKRAMĀṄKAC. 17,17</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दनुज",
+            "eid": "31909",
+            "pagenum": 3,
+            "content": "दनुज¦ (दनु + ज) <lex>m.</lex> <i>ein Sohn der</i> <is>Danu</is>, <i>ein</i> <is>Dānava</is> <ls>AK. 1, 1, 1, 7.</ls> <ls>H. 238.</ls> <ls>BHĀG. P. 6, 9, 39.</ls>"
+        }
     ]
 }

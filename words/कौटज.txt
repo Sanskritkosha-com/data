@@ -15,5 +15,43 @@
             "pagenum": 211,
             "content": "kOwa-ja¦ <i>m.</i> the <i>kuṭaja</i> tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "कौटज",
+            "eid": "56996",
+            "pagenum": 315,
+            "content": "कौटज ¦ <lex>mfn.</lex> coming from the plant <bot>Wrightia antidysenterica</bot> (कुट-ज), <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "कौटज",
+            "eid": "56997",
+            "pagenum": 315,
+            "content": "कौटज ¦ <lex>m.</lex> the plant <bot>Wrightia antidysenterica</bot>, <ls>Bhpr. iii, 159.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कौटज",
+            "eid": "15975",
+            "pagenum": 257,
+            "content": "कौटज¦ <i>kauṭaja, as, ī, am</i> (fr. <i>kuṭaja</i>), coming from the plant Wrightia Antidysenterica; (<i>as</i>), m. the plant Wrightia Antidysenterica. <i>—Kauṭaja-bhā-</i> <i>rika, as, ā, am,</i> carrying or bearing a load of Wrightia Antidysenterica."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कौटज",
+            "eid": "31292",
+            "pagenum": 2,
+            "content": "कौटज¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>von der <bot>Wrightia antidysenterica</bot> kommend</i> <ab>u. s. w.</ab> <div n='1'>— 2〉 <lex>m.</lex> <i><bot>Wrightia antidysenterica</bot></i> <ls>BHĀVAPR. 3,159</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कौटज",
+            "eid": "19460",
+            "pagenum": 2,
+            "content": "कौटज¦ (von कुटज) <div n='1'> 1) <lex>adj.</lex> <i>von der Wrightia antidysenterica R. Br. kommend u.s.w.</i>: फल <ls>SUŚR. 2, 415, 4. 431, 10. 13. 14.</ls> <ls>TRIK. 3, 3, 58.</ls> <div n='1'>— 2) <lex>m.</lex> = कुटज <i>Wrightia antidysenterica R. Br.</i> <ls>RĀYAM.</ls> zu <ls>AK. 2, 4, 2, 47.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

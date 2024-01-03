@@ -15,5 +15,49 @@
             "pagenum": 466,
             "content": "pratiBAva¦ <i>m.</i> Corresponding disposition."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रतिभाव",
+            "eid": "132839",
+            "pagenum": 668,
+            "content": "प्रति-°भाव ¦ <lex>m.</lex> counterpart (-ता <lex type='phw'>f.</lex>), <ls>Prasannar.</ls><info phwchild='132840.1'/><info lex='m'/>"
+        },
+        {
+            "word": "प्रतिभाव",
+            "eid": "132840",
+            "pagenum": 668,
+            "content": "¦ corresponding character or disposition, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रतिभाव",
+            "eid": "31114",
+            "pagenum": 617,
+            "content": "प्रतिभाव¦ <i>prati-bhāva.</i> See under 1. <i>prati-</i> <i>bhū</i> below."
+        },
+        {
+            "word": "प्रतिभाव",
+            "eid": "31128",
+            "pagenum": 617,
+            "content": "<i>Prati-bhāva, as,</i>¦ m. corresponding character or disposition. <i>—Pratibhāva-vat, ān, atī, at,</i> having corresponding or congenial characters, social."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रतिभाव",
+            "eid": "71298",
+            "pagenum": 4,
+            "content": "प्रतिभाव¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>v. l.</ab> für प्रतिभात. <div n='1'>— 2〉 <i>Gegenstück</i>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>PRASANNAR. 7,20</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रतिभाव",
+            "eid": "48435",
+            "pagenum": 4,
+            "content": "प्रतिभाव¦ (1. प्र° + भाव) <lex>m.</lex> <i>corresponding character or disposition</i> <ls>WILS.</ls>"
+        }
     ]
 }

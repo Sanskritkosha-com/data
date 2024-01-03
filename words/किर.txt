@@ -52,5 +52,49 @@
             "pagenum": 189,
             "content": "kira¦ <i>m.</i> A hog."
         }
+    ],
+    "MW": [
+        {
+            "word": "किर",
+            "eid": "50489",
+            "pagenum": 283,
+            "content": "किर ¦ <lex>mf(आ)n.</lex> scattering, &c., <ls>Pāṇ. iii, 1, 135</ls> (<ab>cf.</ab> मृत्-किरा)<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "किर",
+            "eid": "50490",
+            "pagenum": 283,
+            "content": "किर ¦ <lex>m.</lex> a hog, <ls>L.</ls> (<ab>cf.</ab> किटि, किरि.)<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "किर",
+            "eid": "14778",
+            "pagenum": 230,
+            "content": "किर¦ <i>kira, as,</i> m. (fr. 1. <i>kṝ</i>), a hog."
+        }
+    ],
+    "PW": [
+        {
+            "word": "किर",
+            "eid": "27926",
+            "pagenum": 2,
+            "content": "*किर¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>ausstreuend</i> <ab>u. s. w.</ab> <div n='1'>— 2〉 <lex>m.</lex> <i>Wildschwein</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "किर",
+            "eid": "17261",
+            "pagenum": 2,
+            "content": "किर/¦ nom. ag. von 3. कर् <ls>P. 3, 1, 135.</ls> <ls>VOP. 26, 32.</ls> — <lex>m.</lex> <i>ein wildes Schwein</i> <ls>AK. 2, 5, 2.</ls> <ls>H. 1287.</ls> Vgl. किटि, किरि ."
+        },
+        {
+            "word": "किर",
+            "eid": "70751",
+            "pagenum": 5,
+            "content": "किर¦ vgl. मृत्किरा ."
+        }
     ]
 }

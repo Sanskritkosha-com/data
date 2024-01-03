@@ -37,5 +37,73 @@
             "pagenum": 369,
             "content": "namata¦ <i>(II) m.</i> 1. An actor; 2. smoke; 3. master, lord."
         }
+    ],
+    "MW": [
+        {
+            "word": "नमत",
+            "eid": "103833",
+            "pagenum": 528,
+            "content": "<hom>1.</hom> नमत ¦ <lex>mf(आ)n.</lex> bent, crooked, <ls>Uṇ. iii, 110</ls>, <ab>Sch.</ab><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "नमत",
+            "eid": "103834",
+            "pagenum": 528,
+            "content": "नमत ¦ <lex>m.</lex> master, lord<info lex='m'/>"
+        },
+        {
+            "word": "नमत",
+            "eid": "103835",
+            "pagenum": 528,
+            "content": "¦ actor, mime, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नमत",
+            "eid": "103836",
+            "pagenum": 528,
+            "content": "¦ a cloud, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नमत",
+            "eid": "103902",
+            "pagenum": 528,
+            "content": "<hom>2.</hom> नमत ¦ <lex>n.</lex> felt, woollen stuff, <ls>L.</ls> (<ab>cf.</ab> <hom>2.</hom> नवत). <info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नमत",
+            "eid": "23876",
+            "pagenum": 469,
+            "content": "<i>Namata, as, ā, am,</i>¦ bent, bowed, crooked, curved; (<i>as</i>), m. a master, lord (?); an actor, mime; smoke; a cloud; (<i>am</i>), n. felt, woollen stuff; [cf. <i>nāmatika,</i> 1. <i>navata.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नमत",
+            "eid": "56702",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> *नमत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>gebeugt, gebogen</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Herr, Gebieter</i>. <div n='2'>— b〉 <i>Schauspieler</i>. <div n='2'>— c〉 <i>Rauch</i>. <div n='2'>— d〉 <i>Wolke</i>."
+        },
+        {
+            "word": "नमत",
+            "eid": "56703",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *नमत¦ <lex>n.</lex> <arab>نمد</arab>, <i>Filz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नमत",
+            "eid": "37696",
+            "pagenum": 4,
+            "content": "1. नमत/¦ (von नम्) <ls>UṆĀDIS. 3, 110.</ls> <i>gebeugt, gebogen</i> <ls>UJJVAL.</ls> Nach <ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls> <lex>m.</lex> <i>Herr, Gebieter</i> (प्रभु; viell. eine Verwechselung mit प्रह्व); <i>Schauspieler; Rauch (Wolke</i> <ls>WILS.</ls>)."
+        },
+        {
+            "word": "नमत",
+            "eid": "37697",
+            "pagenum": 4,
+            "content": "2. नमत¦ <lex>n.</lex> <i>Filz</i> <ls>VYUTP. 208.</ls> Vgl. pers. afgh. <lang n='arabic'>نمد</lang> नामतिक und 2. नवत ."
+        }
     ]
 }

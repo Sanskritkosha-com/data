@@ -31,5 +31,55 @@
             "pagenum": 122,
             "content": "<b>aṣṭá</b>¦ [<ls n='wg,483'>483<sup>3</sup></ls>], <i><ab>num.</ab></i> eight. [<ab>cf.</ab> <lang n='greek'>ὀκτώ</lang>, <ab>Lat.</ab> <i>octō,</i> <ab>AS.</ab> <i>eahta,</i> <ab>Eng.</ab> <i>eight.</i>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "अष्ट",
+            "eid": "3089",
+            "pagenum": 33,
+            "content": "अष्ट¦ aṣ-ṭa, <ab>pp.</ab> √ akṣ & √ aś, obtain."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अष्ट",
+            "eid": "20169",
+            "pagenum": 116,
+            "content": "<hom>1.</hom> अष्ट ¦ <lex>mfn.</lex> (√ अक्ष्; <ab>cf.</ab> निर्-√ अक्ष्) ‘marked, branded’, only in <ab>comp.</ab> with -कर्ण<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अष्ट",
+            "eid": "20172",
+            "pagenum": 116,
+            "content": "<hom>2.</hom> अष्ट ¦ <ab>fr.</ab> √ <hom>1.</hom> अश्. See अ/-समष्ट-क्°."
+        },
+        {
+            "word": "अष्ट",
+            "eid": "20174",
+            "pagenum": 116,
+            "content": "<hom>3.</hom> अष्ट ¦ (in <ab>comp.</ab> for अष्टन्). <info lexcat='LEXID=card,STEM=azwan'/>"
+        },
+        {
+            "word": "अष्ट",
+            "eid": "20304",
+            "pagenum": 117,
+            "content": "<hom>4.</hom> अष्ट ¦ अष्ट or अष्टा with the final अ,आ blended in <ab>comp.</ab>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अष्ट",
+            "eid": "12015",
+            "pagenum": 1,
+            "content": "अष्ट¦ <div n='1'>— 1〉 <ab>Partic.</ab> von अक्ष (in <hom>1.</hom> अष्टकर्ण) und <hom>1.</hom> अश् <div n='1'>— 2〉 am Ende eines <ab>adj. Comp.</ab> = अष्ट्रन्. <div n='1'>— 3〉 <lex>m.</lex> <ab>v. l.</ab> für अष्टक 2〉 <ls>VP.² 4,27</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अष्ट",
+            "eid": "65780",
+            "pagenum": 5,
+            "content": "अष्ट¦ am Ende eines <lex>adj.</lex> comp. = अष्टन् <i>acht</i>: साष्टे शते <ls>AK. 3, 4, 1, 13.</ls>"
+        }
     ]
 }

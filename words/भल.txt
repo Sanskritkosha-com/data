@@ -37,5 +37,69 @@
             "pagenum": 929,
             "content": "<b>bhala,</b>¦ <i>fürwahr</i> (<ab>vgl.</ab> das wahrscheinlich damit verwandte baḍ), das vorhergehende Wort hervorhebend; {912,23} bhadrám 〰 tyásyās abhūt."
         }
+    ],
+    "MD": [
+        {
+            "word": "भल",
+            "eid": "13071",
+            "pagenum": 202,
+            "content": "भल¦ bhala, <ab>enc.</ab> <ab>pcl.</ab> truly, indeed (<ab>V.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "भल",
+            "eid": "148924",
+            "pagenum": 748,
+            "content": "<hom>1.</hom> भल ¦ <lex>ind.</lex> certainly, indeed, <ls>RV.</ls>; <ls>AV.</ls> (<ab>cf.</ab> बल्, बट्, and <ns>Marāṭhī</ns> <i>bhalla</i>, ‘well’)<info lex='ind'/>"
+        },
+        {
+            "word": "भल",
+            "eid": "148925",
+            "pagenum": 748,
+            "content": "<hom>2.</hom> भल ¦ <lex>m.</lex> (only <ab>dat.</ab> भलाय) a term used in addressing the Sun, <ls>MantraBr.</ls>; <ls>Gobh.</ls> (<ab>cf.</ab> भल्ल). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भल",
+            "eid": "35204",
+            "pagenum": 701,
+            "content": "भल 1¦. <i>bhala,</i> ind., Ved. certainly; [cf. <i>bal, baṭ,</i> and Marāṭhī <i>bhalla,</i> ‘well!’]"
+        },
+        {
+            "word": "भल",
+            "eid": "35205",
+            "pagenum": 701,
+            "content": "भल 2¦. <i>bhala, as,</i> m. a term used in addressing the Sun."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भल",
+            "eid": "78992",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> भल¦ <lex>Adv.</lex> <i>fürwahr, gewiss</i>."
+        },
+        {
+            "word": "भल",
+            "eid": "78993",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> भल¦ <lex>m.</lex> gegen die Sonne gewendet spricht man भलाय स्वाहा भल्लाय स्वाहा <ls>MANTRABR. 2,5,17</ls>. <ls>GOBH. 4,6,14</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भल",
+            "eid": "54242",
+            "pagenum": 5,
+            "content": "1. भल¦ enklit. Part. <i>gewiss</i>: भ\\द्रं भ^ल\\ त्यस्या^ अभू\\द्यस्या^ उ\\दर\\माम^यत् <ls>ṚV. 10, 86, 23.</ls> सर्वे^ भल ब्रवाथ <ls>AV. 7, 56, 7.</ls> <div n='v'>— Vgl. बल्, बट् und mahr. भल्ल <i>well!</i>"
+        },
+        {
+            "word": "भल",
+            "eid": "54243",
+            "pagenum": 5,
+            "content": "2. भल¦ <lex>m.</lex> gegen die Sonne gewendet spricht man: भलाय स्वाहा भल्लाय स्वाहा <ls>GOBH. 4, 6, 11.</ls>"
+        }
     ]
 }

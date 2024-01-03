@@ -58,5 +58,49 @@
             "pagenum": 707,
             "content": "Sapa¦ <i>m.</i> 1. An imprecation, a curse; 2. an oath."
         }
+    ],
+    "MW": [
+        {
+            "word": "शप",
+            "eid": "212544",
+            "pagenum": 1052,
+            "content": "शप ¦ <lex>m.</lex> a curse, imprecation, oath (= शपथ), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शप",
+            "eid": "212545",
+            "pagenum": 1052,
+            "content": "¦ a corpse (<ab>w.r.</ab> for शव, <ab>q.v.</ab>), <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शप",
+            "eid": "212546",
+            "pagenum": 1052,
+            "content": "¦ <ab>N.</ab> of a man <ab>g.</ab> aSvA<srs/>di.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शप",
+            "eid": "46099",
+            "pagenum": 991,
+            "content": "<i>Śapa, as,</i>¦ m. an imprecation, curse, cursing; an oath; a corpse, (for <i>śava,</i> q. v.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शप",
+            "eid": "110150",
+            "pagenum": 6,
+            "content": "*शप¦ <lex>m.</lex> <div n='1'>— 1〉 = शपथ, शपन. <div n='1'>— 2〉 <ab>N. pr.</ab> eines Mannes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शप",
+            "eid": "97761",
+            "pagenum": 7,
+            "content": "शप¦ (von शप्) <lex>m.</lex> <div n='1'> 1) = शपथ, शपन <ls>H. 262.</ls> Vgl. शाप . <div n='1'>— 2) N. pr. eines Mannes <is>gaṇa</is> अश्वादि zu <ls>P. 4, 1, 110.</ls>"
+        }
     ]
 }

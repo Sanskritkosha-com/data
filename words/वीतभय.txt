@@ -31,5 +31,35 @@
             "pagenum": 684,
             "content": "vIta-Baya¦ <i>m.</i> an epithet of Vishṇu."
         }
+    ],
+    "MW": [
+        {
+            "word": "वीतभय",
+            "eid": "203361",
+            "pagenum": 1004,
+            "content": "vI<srs/>ta—Baya ¦ <lex>m.</lex> ‘fearless, undaunted’, <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>Śivag.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वीतभय",
+            "eid": "203362",
+            "pagenum": 1004,
+            "content": "¦ of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वीतभय",
+            "eid": "105958",
+            "pagenum": 6,
+            "content": "वीतभय¦ <lex>Adj.</lex> <i>frei von Furcht, unerschrocken</i> (<is>Viṣṇu</is>, <is>Śiva</is>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वीतभय",
+            "eid": "94420",
+            "pagenum": 6,
+            "content": "वीतभय¦ (4. वीत + भय) <lex>adj.</lex> <i>frei von Furcht</i>: <is>Viṣṇu</is> <ls>ŚKDR.</ls> (nach dem <ls>VIṢṆUSAHASRANĀMASTOTRA</ls>). <is>Śiva</is> <ls>ŚIV.</ls>"
+        }
     ]
 }

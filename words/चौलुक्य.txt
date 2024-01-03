@@ -20,5 +20,37 @@
             "pagenum": 252,
             "content": "चौलुक्य¦ <i>caulukya</i> <ab>m.</ab> <ab>np.</ab> d'un <s1 slp1='rAjarzi'>rājarṣi</s1>."
         }
+    ],
+    "MW": [
+        {
+            "word": "चौलुक्य",
+            "eid": "75249",
+            "pagenum": 403,
+            "content": "चौलुक्य ¦ <lex>m.</lex> (<ab>g.</ab> kaRvA<srs/>di) <ab>patr.</ab> <ab>fr.</ab> <s1 slp1='culuka'>Culuka</s1>, <ab>N.</ab> of king <s1 slp1='kumAra-pAla'>Kumāra-pāla</s1>, <ls>Hemac.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चौलुक्य",
+            "eid": "18953",
+            "pagenum": 331,
+            "content": "चौलुक्य¦ <i>caulukya, as,</i> m. (fr. <i>culuka</i>), a patronymic of Kumāra-pāla."
+        }
+    ],
+    "PW": [
+        {
+            "word": "चौलुक्य",
+            "eid": "40804",
+            "pagenum": 2,
+            "content": "*चौलुक्य¦ <lex>m.</lex> <ab>Patron.</ab> von चुलुक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चौलुक्य",
+            "eid": "26022",
+            "pagenum": 2,
+            "content": "चौ/लुक्य¦ patron. von चुलुक <is>gaṇa</is> गर्गादि zu <ls>P. 4, 1, 105.</ls> patron. des <is>Kumārapāla</is> <ls>H. 712.</ls>"
+        }
     ]
 }

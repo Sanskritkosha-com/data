@@ -39,5 +39,93 @@
             "pagenum": 673,
             "content": "virAja¦ <i>m.</i> The same as विराज् q.v."
         }
+    ],
+    "MW": [
+        {
+            "word": "विराज",
+            "eid": "199226",
+            "pagenum": 983,
+            "content": "वि-राज ¦ <lex>mfn.</lex> shining, brilliant, <ls>Pañcar.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विराज",
+            "eid": "199227",
+            "pagenum": 983,
+            "content": "वि-राज ¦ <lex>m.</lex> a <ab>partic.</ab> form of a temple, <ls>Hcat.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विराज",
+            "eid": "199228",
+            "pagenum": 983,
+            "content": "¦ a <ab>part.</ab> <s1 slp1='ekAha'>Ekāha</s1>, <ls>Vait.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विराज",
+            "eid": "199229",
+            "pagenum": 983,
+            "content": "¦ a species of plant, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विराज",
+            "eid": "199230",
+            "pagenum": 983,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='prajA-pati'>Prajā-pati</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विराज",
+            "eid": "199231",
+            "pagenum": 983,
+            "content": "¦ of a son of <s1 slp1='a-vikzit'>A-vikṣit</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विराज",
+            "eid": "43704",
+            "pagenum": 935,
+            "content": "<i>Vi-rāja, as,</i>¦ m. = 2. <i>vi-rāj.</i>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "विराज",
+            "eid": "13065",
+            "pagenum": 3,
+            "content": "<i>Virāja</i> (I)¦ — a son of Śamīka. <div n='P'/>M. 46. 27."
+        },
+        {
+            "word": "विराज",
+            "eid": "13066",
+            "pagenum": 3,
+            "content": "<i>Virāja</i> (II)¦ — a Marut gaṇa. <div n='P'/>M. 171. 53."
+        },
+        {
+            "word": "विराज",
+            "eid": "13067",
+            "pagenum": 3,
+            "content": "<i>Virāja</i> (III)¦ — (Virāṭpuruṣa; also Samrāt and Manu)<sup>1</sup> married Śatarūpā; sons Priyavrata and Uttānapāda and two daughters, Ākūtī and Prasūtī; the latter was given to Dakṣa and the former to Ruci to whom twins, Yajña and Dakṣiṇa were born.<sup>2</sup> <F>1) Vā. 10. 15.</F> <F>2) Br. II. 9. 39.</F>"
+        },
+        {
+            "word": "विराज",
+            "eid": "13068",
+            "pagenum": 3,
+            "content": "<i>Virāja</i> (IV)¦ — a Mt. north of the Mahābhadra lake. <div n='P'/>Vā. 36. 33."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विराज",
+            "eid": "104027",
+            "pagenum": 6,
+            "content": "विराज¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>prangend</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>eine <ab>best.</ab> Tempelform</i> <ls>HEMĀDRI 2,a,58,10</ls>. <div n='2'>— b〉 <i>ein <ab>best.</ab></i> <is>Ekāha</is> <ls>VAITĀN.</ls> <div n='2'>— c〉 *<i>eine <ab>best.</ab> Pflanze</i>. <div n='2'>— d〉 <ab>N. pr.</ab> <div n='2'>— a〉 eines <is>Prajāpati</is>. <div n='2'>— b〉 eines Sohnes des <is>Avikṣit</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विराज",
+            "eid": "92804",
+            "pagenum": 6,
+            "content": "विराज¦ (von 1. राज् mit वि) <div n='1'> 1) <lex>adj.</lex> <i>prangend</i>: भ्रमराकुलदामविराजभुज <ls>PAÑCAR. 3, 12, 13.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>eine best. Pflanze</i>, vulg. व्रीहाली <ls>AUSH. 24.</ls> <div n='2'>— b) N. pr. <div n='3'> α) eines <is>Prajāpati</is> <ls>HARIV. 936.</ls> = विराज् 3): इन्द्राग्नी वदनात्तुभ्यं पशवो मलसंभवाः । ओषध्यो रोमसंभूता विराजस्त्वं नमो ऽस्तु ते ॥ <ls>VĀMANA-P. 83</ls> im <ls>ŚKDR.</ls> <div n='3'>— β) eines Sohnes des <is>Avikṣit</is> <ls>MBH. 1, 3741.</ls> <div n='v'>— Vgl. वैराज ."
+        }
     ]
 }

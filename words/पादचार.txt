@@ -31,5 +31,59 @@
             "pagenum": 430,
             "content": "pAda-cAra¦ <i>m.</i> going on foot, walking, यदि च विचरेत्पादचारेण <ls>Megh.</ls>i.60."
         }
+    ],
+    "MW": [
+        {
+            "word": "पादचार",
+            "eid": "121899",
+            "pagenum": 617,
+            "content": "पाद—चार ¦ <lex>mfn.</lex> going on foot, walking, <ls>Ragh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पादचार",
+            "eid": "121900",
+            "pagenum": 617,
+            "content": "पाद—चार ¦ <lex>m.</lex> a foot-soldier, <ls>Uttarar.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पादचार",
+            "eid": "121901",
+            "pagenum": 617,
+            "content": "पाद—चार ¦ <lex>m.</lex> walking on foot (°रेण <lex type='phw'>ind.</lex> on foot), <ls>MBh.</ls>; <ls>Kālid.</ls><info phwchild='121903.1'/><info lex='m'/>"
+        },
+        {
+            "word": "पादचार",
+            "eid": "121902",
+            "pagenum": 617,
+            "content": "पाद—चार ¦ <lex>m.</lex> the daily position of the planets, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पादचार",
+            "eid": "121903",
+            "pagenum": 617,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पादचार",
+            "eid": "65819",
+            "pagenum": 4,
+            "content": "पादचार¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>zu Fusse gehend</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Fusssoldat</i>. <div n='2'>— b〉 <i>das zu Fusse Gehen</i>. <ab>Instr.</ab> so <ab>v. a.</ab> zu <i>Fusse</i> <ls>Ind. St. 15,359</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पादचार",
+            "eid": "44325",
+            "pagenum": 4,
+            "content": "पादचार¦ (पाद + चार) <lex>m.</lex> <i>das zu Fusse Gehen</i> <ls>RAGH. 11, 10.</ls> °चारेण so v. a. <i>zu Fusse</i> <ls>MBH. 1, 7911.</ls> <ls>R. 2, 56, 12.</ls> <ls>MEGH. 61.</ls>"
+        },
+        {
+            "word": "पादचार",
+            "eid": "78447",
+            "pagenum": 5,
+            "content": "पादचार¦ <lex>adj.</lex> <i>zu Fusse gehend</i> <ls>R. 7, 33, 5.</ls> <lex>m.</lex> <i>Fusssoldat</i> <ls>UTTARARĀMAC. 98, 10 (103, 5).</ls>"
+        }
     ]
 }

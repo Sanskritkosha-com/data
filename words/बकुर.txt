@@ -31,5 +31,37 @@
             "pagenum": 897,
             "content": "<b>bákura,</b>¦ <ab>m.</ab>, ein <i>Blasinstrument für den Krieg</i> (<ls>BR.</ls>). <div n='TS'>-eṇa {117,21} abhí dásyum bákureṇā dhámantā."
         }
+    ],
+    "MW": [
+        {
+            "word": "बकुर",
+            "eid": "142353",
+            "pagenum": 719,
+            "content": "ब/कुर ¦ <lex>m.</lex> (<ab>prob.</ab>) a horn, trumpet (or other wind instrument used in battle; <ab>cf.</ab> बाकुर, बेकुरा), <ls>RV. i, 117, 21</ls> (<ls>Naigh.</ls> ‘a thunderbolt, lightning’). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "बकुर",
+            "eid": "34353",
+            "pagenum": 671,
+            "content": "बकुर¦ <i>bakura, as,</i> m., Ved. (according to native authorities), a thunderbolt, lightning, anything shining; perhaps ‘a horn, trumpet, or other wind instrument used in battle;’ [cf. <i>bākura, bekurā.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बकुर",
+            "eid": "75626",
+            "pagenum": 4,
+            "content": "ब/कुर¦ <lex>m.</lex> wohl <i>ein kriegerisches Blaseinstrument</i>. Nach den Erklären <i>Donnerkeil, Blitz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बकुर",
+            "eid": "51690",
+            "pagenum": 5,
+            "content": "ब/कुर¦ <lex>m.</lex> nach den Comm. <i>Donnerkeil, Blitz</i> <ls>NAIGH. 4, 3.</ls> <ls>NIR. 6, 25.</ls> अभि दस्यु\\ं बकु^रेणा\\ धम^न्तो\\रु ज्योति^श्चक्रथु\\रार्या^य <ls>ṚV. 1, 117, 21.</ls> Eher Bez. <i>eines kriegerischen Blasinstruments</i>; vgl. बाकुर, बेकुरा ."
+        }
     ]
 }

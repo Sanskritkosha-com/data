@@ -7,5 +7,47 @@
             "pagenum": 681,
             "content": "परिवर्धित¦ <i><ab>a.</ab></i> <b>1</b> Increased. <b>--2</b> Cut, excavated."
         }
+    ],
+    "MW": [
+        {
+            "word": "परिवर्धित",
+            "eid": "118500",
+            "pagenum": 600,
+            "content": "<hom>1.</hom> परि-वर्धित ¦ <lex>mfn.</lex> (√ वर्ध्) cut, excavated, <ls>MW.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "परिवर्धित",
+            "eid": "118706",
+            "pagenum": 601,
+            "content": "<hom>2.</hom> परि-वर्धित ¦ <lex>mfn.</lex> (for <hom>1.</hom> See <ab>p.</ab> 600) increased, augmented, grown, swollen (as the sea), <ls>Kālid.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "परिवर्धित",
+            "eid": "118706.1",
+            "pagenum": 601,
+            "content": "¦ reared, brought up (<ab n='familiar'>fam.</ab> also -क), <ls>Śak. iv, 15.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "परिवर्धित",
+            "eid": "27866",
+            "pagenum": 547,
+            "content": "परिवर्धित 1¦. <i>pari-vardhita, as, ā, am</i> (fr. rt. <i>vardh,</i> to cut, with <i>pari;</i> for 2. see under <i>pari-</i> <i>vṛdh,</i> p. 548, col. 3), cut excavated."
+        },
+        {
+            "word": "परिवर्धित",
+            "eid": "27953",
+            "pagenum": 548,
+            "content": "2. <i>pari-vardhita, as, ā, am,</i>¦ increased, augmented."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "परिवर्धित",
+            "eid": "43086",
+            "pagenum": 4,
+            "content": "परिवर्धित¦ partic. praet. pass. vom caus. von वर्ध् mit परि (s. das.); davon °क <i>aufgezogen</i> (in sentimentaler Sprechweise): श्यामाकमुष्टिपरिवर्धितको जहाति सो ऽयं न पुत्रकृतकः पदवीं मृगस्ते <ls>ŚĀK. 89.</ls>"
+        }
     ]
 }

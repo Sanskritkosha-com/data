@@ -31,5 +31,41 @@
             "pagenum": 502,
             "content": "bala-da¦ <i>m.</i> an ox."
         }
+    ],
+    "MW": [
+        {
+            "word": "बलद",
+            "eid": "143122",
+            "pagenum": 722,
+            "content": "बल—द ¦ <lex>m.</lex> ‘strength-giving’, a <ab>partic.</ab> form of <s1 slp1='agni'>Agni</s1>, <ls>Gṛhyās.</ls>; <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "बलद",
+            "eid": "143123",
+            "pagenum": 722,
+            "content": "¦ an ox, bullock, <ls>Kathās.</ls> (°दी-भूत <lex type='phw'>mfn.</lex> become an ox, <ls>ib.</ls>)<info phwchild='143126.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "बलद",
+            "eid": "143124",
+            "pagenum": 722,
+            "content": "¦ a <ab>partic.</ab> medicinal plant (= जीवक), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बलद",
+            "eid": "75958",
+            "pagenum": 4,
+            "content": "बलद¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>ein <ab>best.</ab></i> <is>Agni</is>. <div n='2'>— b〉 <i>Ochs</i>. <div n='2'>— c〉 *<i>ein <ab>best.</ab> Heilpflanze,</i> = जीवक <ls>RĀJAN. 5,12</ls>. <div n='1'>— 2〉 <lex>f.</lex> आ <div n='2'>— a〉 *<i><bot>Physalis flexuosa</bot></i> <ls>RĀJAN. 4,112</ls>. <div n='2'>— b〉 <ab>N. pr.</ab> einer Tochter <is>Raudrāśva</is>ʼs. <ab>v. l.</ab> बला."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बलद",
+            "eid": "51910",
+            "pagenum": 5,
+            "content": "बलद¦ (1. बल + 1. द) <div n='1'> 1) <lex>m.</lex> <div n='2'> a) N. eines <is>Agni</is> <ls>GṚHYASAṂGR. 1, 10.</ls> <ls>MBH. 3, 14186.</ls> <div n='2'>— b) <i>Ochs</i> <ls>HAUGHT.</ls> <ls>KATHĀS. 37, 153.</ls> बलदीभूत <ls n='KATHĀS.'>154.</ls> <div n='2'>— c) <i>eine best. Heilpflanze</i> (जीवक) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> आ <div n='2'> a) <i>Physalis flexuosa Lin.</i> (अश्वगन्धा) <ls>RĀJAN.</ls> <div n='2'>— b) N. pr. einer Tochter <is>Raudrāśva's</is> <ls>HARIV.</ls> <ls>LANGL. I, 139</ls> (स्वलदा <ls>ed. Calc. 1661</ls>)."
+        }
     ]
 }

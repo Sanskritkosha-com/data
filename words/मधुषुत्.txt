@@ -21,5 +21,35 @@
             "pagenum": 1765,
             "content": "<b>madhuṣút:</b>¦<info vn='add 400 gra'/> <div n='H'>Die Stelle {890,15} gehört zu -út."
         }
+    ],
+    "MW": [
+        {
+            "word": "मधुषुत्",
+            "eid": "156104",
+            "pagenum": 780,
+            "content": "मधु—षु/त् ¦ <lex>mfn.</lex> (षुत् for सुत्) pressing out sweetness, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "मधुषुत्",
+            "eid": "156105",
+            "pagenum": 780,
+            "content": "¦ emitting <ab n='sweetness'>sw°</ab> (<s1 slp1='soma'>Soma</s1>), <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मधुषुत्",
+            "eid": "82553",
+            "pagenum": 5,
+            "content": "मधुषु/त्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>Süssigkeit auspressend</i>. <div n='1'>— 2〉 <i>Süssigkeit von sich gebend</i> (<is>Soma</is>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मधुषुत्",
+            "eid": "121458",
+            "pagenum": 7,
+            "content": "मधुषुत्¦, lies <i>auspressend</i> st. <i>erzeugend.</i>"
+        }
     ]
 }

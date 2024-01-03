@@ -47,5 +47,81 @@
             "pagenum": 116,
             "content": "<b>án-udita,</b>¦ <i><ab>a.</ab></i> not arisen. [<b>√i + ud.</b>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "अनुदित",
+            "eid": "1660",
+            "pagenum": 16,
+            "content": "अनुदित¦ <hom>1.</hom> án-ud-i-ta, <ab>pp.</ab> not risen (<i>sun</i>)."
+        },
+        {
+            "word": "अनुदित",
+            "eid": "1661",
+            "pagenum": 16,
+            "content": "अनुदित¦ <hom>2.</hom> án-ud-ita, <ab>pp.</ab> undiscussed; not 🞄to be uttered."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनुदित",
+            "eid": "6419",
+            "pagenum": 33,
+            "content": "<hom>1.</hom> अ/न्-उदित ¦ <lex>mfn.</lex> not risen, not appeared.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनुदित",
+            "eid": "6440",
+            "pagenum": 33,
+            "content": "<hom>2.</hom> अ/न्-उदित ¦ <lex>mfn.</lex> unsaid, unuttered<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनुदित",
+            "eid": "6441",
+            "pagenum": 33,
+            "content": "¦ unutterable, blamable (<ab>cf.</ab> अ-वद्य/), <ls>RV. x, 95, 1</ls>; <ls>AV. v, 1, 2</ls> (See <hom>1.</hom> अ/न्-उदित <ab>s.v.</ab> अन्-उदय). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुदित",
+            "eid": "2156",
+            "pagenum": 34,
+            "content": "1. <i>an-udita, as, ā, am,</i>¦ not risen, not appeared. (For 2. <i>an-udita,</i> see next column.)"
+        },
+        {
+            "word": "अनुदित",
+            "eid": "2167",
+            "pagenum": 34,
+            "content": "अनुदित 2¦. <i>an-udita, as, ā, am,</i> unsaid, unuttered, interdicted (see 1. <i>anu-udita</i> under <i>an-</i> <i>udaya</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुदित",
+            "eid": "4445",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/नुदित¦ <lex>Adj.</lex> <i>nicht aufgegangen</i> (Sonne)."
+        },
+        {
+            "word": "अनुदित",
+            "eid": "4446",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अ/नुदित¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>nicht besprochen</i>. अनुदितप्राय <lex>Adj.</lex> <i>so zu sagen <ab n='nicht besprochen'>n. b.</ab></i> <ls>BHĀG. P. 1,5,8</ls>. <div n='1'>— 2〉 <i>nicht auszusprechen, nefandus</i> <ls>Chr. 30,6</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुदित",
+            "eid": "2800",
+            "pagenum": 1,
+            "content": "1. अ/नुदित¦ (3. अ + उदित von वद्) <lex>adj.</lex> <i>verboten, unrecht</i>: न नौ\\ मन्त्रा\\ अनु^दितास ए\\ते <ls>ṚV. 10, 95, 1.</ls> <div n='v'>— Vgl. अवद्य ."
+        },
+        {
+            "word": "अनुदित",
+            "eid": "2801",
+            "pagenum": 1,
+            "content": "2. अ/नुदित¦ (3. अ + उदित [von इ mit उद्]) <lex>adj.</lex> <i>nicht aufgegangen</i>, von der Sonne <ls>ŚAT. BR. 2, 1, 4, 8. 3, 7, 2. 4, 1, 2, 11. 13, 2, 1, 7.</ls> <ls>KĀTY. ŚR. 4, 13, 2. 15, 1. 7, 4, 17.</ls> <ls>R. 4, 8, 4.</ls>"
+        }
     ]
 }

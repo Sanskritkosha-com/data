@@ -35,5 +35,47 @@
             "pagenum": 1553,
             "content": "<b>su-véda,</b>¦ <ab>a.</ab>, <i>leicht zu gewinnen, zu erlangen</i>. <div n='TS'>-am [<ab>m.</ab>] (agním) {303,6}. <div n='TS'>-am [<ab>n.</ab>] vásu {624,16}. <div n='TS'>-ā [<ab>n.</ab> <ab>p.</ab>] vásū {489,15}; {548,25}."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुवेद",
+            "eid": "249200",
+            "pagenum": 1234,
+            "content": "<hom>1.</hom> सु—वेद ¦ <lex>mfn.</lex> deeply versed in (sacred) science, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सुवेद",
+            "eid": "249201",
+            "pagenum": 1234,
+            "content": "<hom>2.</hom> सु—वे/द ¦ <lex>mfn.</lex> easy to be found or obtained, <ls>GopBr.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुवेद",
+            "eid": "128085",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सुवेद¦ <lex>Adj.</lex> <i>gute theologischer Kenntnisse besitzend</i>."
+        },
+        {
+            "word": "सुवेद",
+            "eid": "128086",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सुवे/द¦ <lex>Adj.</lex> <i>leicht zu erwerben, — finden</i> <ls>GOP. BR. 1,1,1</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुवेद",
+            "eid": "111664",
+            "pagenum": 7,
+            "content": "1. सुवेद¦ <lex>adj.</lex> <i>gute theologische Kenntnisse besitzend</i>: ब्राह्मण <ls>MBH. 3, 13437.</ls>"
+        },
+        {
+            "word": "सुवेद",
+            "eid": "111665",
+            "pagenum": 7,
+            "content": "2. सुवे/द¦ <lex>adj.</lex> <i>leicht zu erwerben, - finden</i>: <is>Agni</is> <ls>ṚV. 4, 7, 6.</ls> सु\\वेदो^ नो\\ वसू^ करत् <ls n='ṚV.'>6, 48, 15.</ls> <ls n='ṚV.'>7, 32, 25.</ls> <ls n='ṚV.'>8, 4, 16.</ls>"
+        }
     ]
 }

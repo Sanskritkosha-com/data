@@ -28,5 +28,35 @@
             "pagenum": 89,
             "content": "ahaskara¦ <i>m.</i> the sun."
         }
+    ],
+    "MW": [
+        {
+            "word": "अहस्कर",
+            "eid": "21753",
+            "pagenum": 124,
+            "content": "अहस्—कर <hom>a</hom> ¦ <lex>m.</lex> (<ls>Pāṇ. iii, 2, 21</ls>; <ab>g.</ab> kaskA<srs/>di, <ab>q.v.</ab>) ‘producing the day’, the sun, <ls>Rājat.</ls>; <ls>Bālar.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अहस्कर",
+            "eid": "21792",
+            "pagenum": 125,
+            "content": "अहस्-कर <hom>b</hom> ¦ See <ls>ib.</ls>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अहस्कर",
+            "eid": "13177",
+            "pagenum": 1,
+            "content": "अहस्कर¦ <lex>m.</lex> <i>die Sonne</i> <ls>RĀJAT. 7,1219</ls>. <ls>BĀLAR. 79,18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अहस्कर",
+            "eid": "7664",
+            "pagenum": 1,
+            "content": "अहस्कर¦ (अहस् + कर) <lex>m.</lex> <ls>P. 3, 2, 21.</ls> <is>gaṇa</is> कस्कादि zu <ls n='P.'>8, 3, 48.</ls> <ls>VOP. 2, 54.</ls> <i>Sonne</i> <ls>AK. 1, 1, 2, 30.</ls> <ls>H. 97.</ls>"
+        }
     ]
 }

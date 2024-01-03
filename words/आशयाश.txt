@@ -20,5 +20,43 @@
             "pagenum": 110,
             "content": "ASaya-ASa¦ <i>m.</i> fire."
         }
+    ],
+    "MW": [
+        {
+            "word": "आशयाश",
+            "eid": "27514",
+            "pagenum": 157,
+            "content": "ASayA<srs/>Sa ¦ <lex>m.</lex> fire, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आशयाश",
+            "eid": "27515",
+            "pagenum": 157,
+            "content": "¦ (<ab>v.l.</ab> for ASrayA<srs/>Sa, <ab>q.v.</ab>)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आशयाश",
+            "eid": "9491",
+            "pagenum": 133,
+            "content": "आशयाश¦ <i>āśayāśa.</i> See under <i>ā-śaya</i> below."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आशयाश",
+            "eid": "16077",
+            "pagenum": 1,
+            "content": "*आशयाश¦ <lex>m.</lex> = आश्रयाश <i>Feuer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आशयाश",
+            "eid": "9547",
+            "pagenum": 1,
+            "content": "आशयाश¦ (आ° + आश) <lex>m.</lex> = आश्रयाश <i>Feuer</i> <ls>SVĀMIN</ls> zu <ls>AK. 1, 1, 1, 50.</ls>"
+        }
     ]
 }

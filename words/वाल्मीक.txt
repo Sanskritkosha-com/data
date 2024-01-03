@@ -60,5 +60,65 @@
             "pagenum": 655,
             "content": "vAlmIka¦ <i>m.</i> Name of the celebrated author of the <i>Rāmāyaṇa</i>. (See App. II.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "वाल्मीक",
+            "eid": "16368",
+            "pagenum": 278,
+            "content": "वाल्मीक¦ vālmīka, <lex>a.</lex> composed by Vālmīki."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वाल्मीक",
+            "eid": "192208",
+            "pagenum": 946,
+            "content": "वाल्मीक ¦ <lex>m.</lex> (<ab>fr.</ab> वल्मीक) = वाल्मीकि, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वाल्मीक",
+            "eid": "192209",
+            "pagenum": 946,
+            "content": "¦ <ab>N.</ab> of a son of <s1 slp1='citra-gupta'>Citra-gupta</s1>, <ls>Cat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वाल्मीक",
+            "eid": "192210",
+            "pagenum": 946,
+            "content": "वाल्मीक ¦ <lex>mfn.</lex> composed by <s1 slp1='vAlmIki'>Vālmīki</s1>, <ls>BrahmaP.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वाल्मीक",
+            "eid": "42003",
+            "pagenum": 906,
+            "content": "वाल्मीक¦ <i>vālmīka, as,</i> m. (fr. <i>valmīka,</i> q. v.) <i>= vālmīki</i> below; a proper N. <i>—Vālmīkeśvara-</i> <i>tīrtha (°ka-īś°), am,</i> n., N. of a Tīrtha."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "वाल्मीक",
+            "eid": "12642",
+            "pagenum": 3,
+            "content": "<i>Vālmīka(c)</i>¦ — noted for horses. <div n='P'/>Br. IV. 16. 17."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वाल्मीक",
+            "eid": "101281",
+            "pagenum": 6,
+            "content": "वाल्मीक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>von</i> <is>Vālmīki</is> <i>verfasst</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> = वाल्मीकि 2〉."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वाल्मीक",
+            "eid": "90504",
+            "pagenum": 6,
+            "content": "वाल्मीक¦ <div n='1'> 1) <lex>adj.</lex> <i>von</i> <is>Vālmīki</is> <i>verfasst</i>: काव्य <ls>BRAHMAVAIV. P.</ls> bei <ls>BURNOUF</ls>, <ls>BHĀG. P. I, XXIII.</ls> <div n='1'>— 2) <lex>m.</lex> = वाल्मीकि <ls>TRIK. 2, 7, 19.</ls> <ls>H. 846.</ls> <ls>MBH. 5, 2946.</ls> <ls>HARIV. 3285.</ls> <ls>R. 7, 71, 3.</ls> <ls>WEBER, RĀMAT. UP. 306.</ls> ein Sohn <is>Citragupta's</is> <ls>Verz. d. Oxf. H. 341,b, No. 799.</ls>"
+        }
     ]
 }

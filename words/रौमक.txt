@@ -20,5 +20,55 @@
             "pagenum": 919,
             "content": "रौमक¦ <i><ab>a.</ab></i> Roman. --कं A kind of salt."
         }
+    ],
+    "MW": [
+        {
+            "word": "रौमक",
+            "eid": "180237",
+            "pagenum": 891,
+            "content": "<hom>1.</hom> रौमक ¦ <lex>n.</lex> (<ab>cf.</ab> <hom>2.</hom> रोमक) = <ab>prec.</ab> <lex type='nhw'>n.</lex>, <ls>Suśr.</ls><info lex='n'/>"
+        },
+        {
+            "word": "रौमक",
+            "eid": "180240",
+            "pagenum": 891,
+            "content": "<hom>2.</hom> रौमक ¦ <lex>mfn.</lex> (<ab>fr.</ab> <hom>2.</hom> रोमक) <ab>g.</ab> पलद्य्-आदि<info lex='m:f:n'/>"
+        },
+        {
+            "word": "रौमक",
+            "eid": "180241",
+            "pagenum": 891,
+            "content": "¦ Roman, spoken by the inhabitants of the Roman empire, <ls>Col.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रौमक",
+            "eid": "180242",
+            "pagenum": 891,
+            "content": "¦ derived or coming from the astronomer <s1 slp1='romaka'>Romaka</s1>, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रौमक",
+            "eid": "39974",
+            "pagenum": 856,
+            "content": "<i>Raumaka, as, ī, am</i>¦ (fr. 2. <i>romaka</i>), Roman, spoken by the inhabitants of the Roman empire; derived or coming from the astronomer Romaka; (<i>am</i>), n. a kind of salt procured from a salt-lake near Sambhar in Ajmere, (in this sense fr. <i>rumā.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रौमक",
+            "eid": "95228",
+            "pagenum": 5,
+            "content": "रौमक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 *von रोमक <ab>N. pr.</ab> eines Dorfes im Nordlande. <div n='2'>— b〉 <i>römisch, von den Bewohnern des Römerreichs gesprochen</i>. <div n='2'>— c〉 <i>vom Astronomen</i> <is>Romaka</is> <i>herrührend</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>eine Art Salz</i> <ls>SUŚR. 1,157,8</ls> nach der Lesart von <ls>CAKR.</ls> (= रुमानदीभव). Auch *°लवण <lex>n.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रौमक",
+            "eid": "85575",
+            "pagenum": 6,
+            "content": "रौमक¦ <div n='1'> 1) <lex>adj.</lex> oxyt. von रोमक (einem उदीच्यग्राम) <is>gaṇa</is> पलद्यादि zu <ls>P. 4, 2, 110.</ls> <i>römisch, von den Bewohnern des Römerreiches gesprochen</i> <ls>COLEBR. Misc. Ess. I, 315.</ls> <i>vom Astronomen</i> <is>Romaka</is> <i>herrührend</i>: गणित <ls>Verz. d. B. H. No. 939.</ls> <div n='1'>— 2) <lex>n.</lex> (von रुमा) <i>eine Art Salz</i> <ls>AK. 2, 9, 42.</ls> <ls>H. 942.</ls> <ls>MED. k. 152</ls> (wo वसुकं रौ° zu lesen ist). °लवण <ls>RATNAM.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

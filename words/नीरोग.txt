@@ -31,5 +31,43 @@
             "pagenum": 382,
             "content": "nIroga¦ <i>a.</i> free from sickness, healthy."
         }
+    ],
+    "MW": [
+        {
+            "word": "नीरोग",
+            "eid": "107736",
+            "pagenum": 543,
+            "content": "नी—रोग ¦ <lex>mfn.</lex> free from sickness, healthy, well, <ls>Suśr.</ls>; <ls>Pañc.</ls> (-ता <lex type='phw'>f.</lex>)<info phwchild='107736.1'/><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नीरोग",
+            "eid": "26334",
+            "pagenum": 512,
+            "content": "नीरोग¦ <i>nī-roga, as, ā, am</i> (fr. <i>nis + roga</i>), free from sickness, healthy, well. <i>—Nīroga-tā,</i> f. health."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नीरोग",
+            "eid": "60621",
+            "pagenum": 3,
+            "content": "नीरोग¦ <lex>Adj.</lex> <i>gesund, sich wohl befindend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नीरोग",
+            "eid": "40472",
+            "pagenum": 4,
+            "content": "नीरोग¦ (निस् + रोग) <lex>adj.</lex> <i>gesund, sich wohl befindend</i> <ls>HARIV. 16118. fg.</ls> <ls>SUŚR. 1, 374, 17.</ls> <ls>PAÑCAT. I, 134. 184, 22.</ls> Davon nom. abstr. °ता <i>Gesundheit</i> <ls n='PAÑCAT.'>217, 24</ls>, wo fälschlich नीरोग्यता gedruckt ist."
+        },
+        {
+            "word": "नीरोग",
+            "eid": "77601",
+            "pagenum": 5,
+            "content": "नीरोग¦, °ता <lex>f.</lex> <ls>Spr. 5094.</ls>"
+        }
     ]
 }

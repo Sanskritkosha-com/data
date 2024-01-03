@@ -7,5 +7,47 @@
             "pagenum": 573,
             "content": "mita-arTa¦ <i>a.</i> of measured meaning."
         }
+    ],
+    "MW": [
+        {
+            "word": "मितार्थ",
+            "eid": "164138",
+            "pagenum": 816,
+            "content": "mitA<srs/>rTa ¦ <lex>m.</lex> a well-weighed matter (-भाषिन् <lex type='phw'>mfn.</lex> speaking deliberately), <ls>Sāh.</ls><info phwchild='164139.1'/><info lex='m'/>"
+        },
+        {
+            "word": "मितार्थ",
+            "eid": "164139",
+            "pagenum": 816,
+            "content": "mitA<srs/>rTa ¦ <lex>mfn.</lex> (also -क) of measured meaning, speaking with caution (said of a <ab>partic.</ab> class of envoys), <ls>Kām.</ls>; <ls>Sāh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मितार्थ",
+            "eid": "86785",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> मितार्थ¦ <lex>m.</lex> <i>Gemessenes, Wohlerwogenes</i>. °माषिन् <lex>Adj.</lex>"
+        },
+        {
+            "word": "मितार्थ",
+            "eid": "86786",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> मितार्थ¦ <lex>Adj.</lex> <i>gemessen —, vorsichtig zu Werke gehend;</i> <lex>m.</lex> <ab>Bez.</ab> einer Art von Abgesandten."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मितार्थ",
+            "eid": "60384",
+            "pagenum": 5,
+            "content": "1. मितार्थ¦ (1. मित + अर्थ) <lex>m.</lex> <i>Gemessenes, Wohlerwogenes</i>: °भाषिन् <ls>SĀH. D. 88.</ls>"
+        },
+        {
+            "word": "मितार्थ",
+            "eid": "60385",
+            "pagenum": 5,
+            "content": "2. मितार्थ¦ (wie eben) <lex>adj.</lex> <i>gemessen —, vorsichtig zu Werke gehend</i>; Bez. einer Art von Abgesandten (दूत) <ls>KĀM. NĪTIS. 12, 3.</ls> <ls>SĀH. D. 86.</ls> मितार्थक <lex>m.</lex> dass.: मितार्थभाषी कार्यस्य सिद्धिकारी मितार्थकः <ls n='SĀH. D.'>88.</ls>"
+        }
     ]
 }

@@ -28,5 +28,43 @@
             "pagenum": 632,
             "content": "शक्ल¦ <i>śakla</i> <ab>a.</ab> <ab>cf.</ab> <i>śakna.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "शक्ल",
+            "eid": "211160",
+            "pagenum": 1045,
+            "content": "<hom>1.</hom> शक्ल ¦ <lex>mfn.</lex> (for <hom>2.</hom> See <pcol>p. 1047, col. 1</pcol>.) speaking pleasantly or kindly, affable, <ls>L.</ls> (<ab>cf.</ab> शक्न). <info lex='m:f:n'/>"
+        },
+        {
+            "word": "शक्ल",
+            "eid": "211422",
+            "pagenum": 1047,
+            "content": "<hom>2.</hom> शक्ल ¦ <lex>m.</lex> (for <hom>1.</hom> See <pcol>p. 1045, col. 2</pcol>) <ab>prob.</ab> for शकल, शल्क, <ls>TS.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शक्ल",
+            "eid": "45975",
+            "pagenum": 986,
+            "content": "<i>Śakla, as, ā, am,</i>¦ speaking pleasingly or kindly, affable; [cf. rt. <i>śac.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शक्ल",
+            "eid": "109482",
+            "pagenum": 6,
+            "content": "शक्ल¦ <div n='1'>— 1〉 *<lex>Adj.</lex> = प्रियंवद. <div n='1'>— 2〉 <lex>m.</lex> <ab>v. l.</ab> शल्क, शकल <ls>TS. 5,2,9,3</ls>. <ab>Vgl.</ab> शक्लीकरण."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शक्ल",
+            "eid": "97237",
+            "pagenum": 7,
+            "content": "शक्ल/¦ <ls>UṆĀDIS. 4, 108.</ls> <lex>adj.</lex> = प्रियंवद <ls>H. 351.</ls> <ls>UJJVAL.</ls> nach <ls>AK.</ls> (<ls n='AK.'>3, 1, 36</ls>); unsere Ausgg. lesen aber शक्नु und als Varianten werden शक्ल, शक्न und शक्त aufgeführt."
+        }
     ]
 }

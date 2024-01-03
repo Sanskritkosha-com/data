@@ -31,5 +31,79 @@
             "pagenum": 779,
             "content": "siMhI¦ <i>m.</i> 1. A lioness; 2. name of the mother of Rāhu."
         }
+    ],
+    "MD": [
+        {
+            "word": "सिंही",
+            "eid": "19373",
+            "pagenum": 349,
+            "content": "सिंही¦ siṃhī́, <lex>f.</lex> lioness; <i>designation of the</i> 🞄Uttara-vedi (<ab>nm.</ab> <b>-s</b>; <ab>TS.</ab>); <ab>N.</ab> <i>of a various 🞄plants</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सिंही",
+            "eid": "243749",
+            "pagenum": 1213,
+            "content": "सिंही <hom>a</hom> ¦ (ई), <lex>f.</lex>, see below.<info lex='f'/>"
+        },
+        {
+            "word": "सिंही",
+            "eid": "243988",
+            "pagenum": 1213,
+            "content": "<hom>1.</hom> सिंही/ ¦ <lex>f.</lex> a lioness, <ls>RV.</ls>; <ls>VS.</ls>; <ls>TS.</ls> &c.<info lex='f'/>"
+        },
+        {
+            "word": "सिंही",
+            "eid": "243989",
+            "pagenum": 1213,
+            "content": "¦ <ab>N.</ab> of the <s1 slp1='uttara-vedi'>Uttara-vedi</s1> (<ab>nom.</ab> सिंही/ह्), <ls>TS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सिंही",
+            "eid": "243990",
+            "pagenum": 1213,
+            "content": "¦ of various plants (<bot>Solanum Jacquini</bot>; <ab n='Solanum Melongena'>Sol°</ab>; <bot>Gendarussa Vulgaris</bot>; <bot>Hemionitis Cordifolia</bot>; <bot>Phaseolus Trilobus</bot>), <ls>PārGṛ.</ls>; <ls>Suśr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सिंही",
+            "eid": "243991",
+            "pagenum": 1213,
+            "content": "¦ a vein, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सिंही",
+            "eid": "243992",
+            "pagenum": 1213,
+            "content": "¦ <ab>N.</ab> of the mother of <s1 slp1='rAhu'>Rāhu</s1> (= सिंहिका), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सिंही",
+            "eid": "243994",
+            "pagenum": 1213,
+            "content": "<hom>2.</hom> सिंही ¦ in <ab>comp.</ab> for सिंह."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सिंही",
+            "eid": "52185",
+            "pagenum": 1113,
+            "content": "<i>Siṃhī,</i>¦ f. a lioness; N. of the mother of Rāhu; of various plants <i>(= vārtākī; = kaṇṭakārī; = vā-</i> <i>saka; = bṛhatī; = mudga-parṇī)</i>. <i>—Siṃhī-latā,</i> f. a kind of plant (<i>= bṛhatī</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सिंही",
+            "eid": "124955",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सिंही/¦ <lex>f.</lex> <ab>s. u.</ab> सिंह/."
+        },
+        {
+            "word": "सिंही",
+            "eid": "124956",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सिंही¦ <lex>Adv.</lex> <div n='1'>— 1〉 mit कर् <i>in einen Löwen verwandeln</i>. <div n='1'>— 2〉 mit भू <i>in einen Löwen verwandelt werden</i>."
+        }
     ]
 }

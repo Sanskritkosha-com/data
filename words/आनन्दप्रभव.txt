@@ -20,5 +20,35 @@
             "pagenum": 101,
             "content": "Ananda-praBava¦ <i>m.</i> semen."
         }
+    ],
+    "MW": [
+        {
+            "word": "आनन्दप्रभव",
+            "eid": "24398",
+            "pagenum": 140,
+            "content": "आ-नन्द—प्रभव ¦ <lex>m.</lex> the seminal fluid, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आनन्दप्रभव",
+            "eid": "24399",
+            "pagenum": 140,
+            "content": "¦ the universe (as proceeding from <s1 slp1='Ananda'>Ānanda</s1> = <s1 slp1='brahman'>Brahman</s1>, <ls>T.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आनन्दप्रभव",
+            "eid": "14657",
+            "pagenum": 1,
+            "content": "*आनन्दप्रभव¦ <lex>m.</lex> <i>männlicher Same</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आनन्दप्रभव",
+            "eid": "8575",
+            "pagenum": 1,
+            "content": "आनन्दप्रभव¦ (आ° + प्र°) <lex>n.</lex> (<i>aus der Wollust entspringend) der männliche Saamen</i> <ls>H. 629.</ls>"
+        }
     ]
 }

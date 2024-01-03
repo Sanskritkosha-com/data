@@ -39,5 +39,61 @@
             "pagenum": 706,
             "content": "Sata-manyu¦ <i>m.</i> 1. an epithet of Indra, <ls>K.S.</ls>ii.64, <ls>R.</ls>ix.13; 2. an owl."
         }
+    ],
+    "MW": [
+        {
+            "word": "शतमन्यु",
+            "eid": "212080",
+            "pagenum": 1049,
+            "content": "शत/—मन्यु ¦ (शत/-), <lex>mfn.</lex> having <ab n='hundred'>h°</ab>-fold wrath, <ls>RV.</ls>; <ls>VarBṛS.</ls>; <ls>Rājat.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शतमन्यु",
+            "eid": "212080.1",
+            "pagenum": 1049,
+            "content": "¦ receiving a <ab n='hundred'>h°</ab> sacrifices, <ls>MW.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शतमन्यु",
+            "eid": "212080.2",
+            "pagenum": 1049,
+            "content": "¦ very spirited, <ab n='very'>v°</ab> zealous, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शतमन्यु",
+            "eid": "212080.3",
+            "pagenum": 1049,
+            "content": "शत/—मन्यु ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>Rājat.</ls>; <ls>BhP.</ls>; <ls>Bhaṭṭ.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शतमन्यु",
+            "eid": "212080.4",
+            "pagenum": 1049,
+            "content": "¦ an owl, <ls>A.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "शतमन्यु",
+            "eid": "14046",
+            "pagenum": 3,
+            "content": "<i>Śatamanyu</i>¦ — a name of Indra. <div n='P'/>Bhā. I. 8. 6."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शतमन्यु",
+            "eid": "109883",
+            "pagenum": 6,
+            "content": "शत/मन्यु¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>hundertfachen Grimm habend</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शतमन्यु",
+            "eid": "97562",
+            "pagenum": 7,
+            "content": "शत/मन्यु¦ <div n='1'> 1) <lex>adj.</lex> <i>hundertfachen Grimm habend</i> <ls>ṚV. 10, 103, 7.</ls> <is>Viṣṇu</is> <ls>VARĀH. BṚH. S. 43, 54.</ls> <is>Indra</is> <ls>RĀJA-TAR. 1, 92.</ls> <div n='1'>— 2) <lex>m.</lex> ein Name <is>Indra's</is> <ls>AK. 1, 1, 1, 37.</ls> <ls>RĀJA-TAR. 1, 174.</ls> <ls>BHĀG. P. 1, 8, 6.</ls> <ls>BHAṬṬ. 1, 5.</ls>"
+        }
     ]
 }

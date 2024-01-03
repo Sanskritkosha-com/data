@@ -63,5 +63,51 @@
             "pagenum": 86,
             "content": "asan¦ <i>n.</i> Blood.<P>(This word has no forms for the first five cases.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "असन्",
+            "eid": "3134",
+            "pagenum": 34,
+            "content": "असन्¦ as-án, <lex>n.</lex> (<i>used in <ab>in.</ab>, <ab>ab.</ab>, <ab>g.</ab> <ab>s.</ab> for</i> asṛj) 🞄blood."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असन्",
+            "eid": "20597",
+            "pagenum": 118,
+            "content": "<hom>1.</hom> असन् ¦ (in <ab>comp.</ab> for असत्)."
+        },
+        {
+            "word": "असन्",
+            "eid": "20609",
+            "pagenum": 118,
+            "content": "<hom>2.</hom> अस/न् ¦ <lex>n.</lex> <ab>ved.</ab> the base of some cases (<ab>viz.</ab> <ab>instr.</ab> अस्ना/ <ab>gen.</ab> <ab>abl.</ab> अस्न/स् <ab>gen.</ab> <ab>pl.</ab> अस्ना/म्) of अ/सृज्, <ab>q.v.</ab>, <ls>AV.</ls>; <ls>VS.</ls>; <ls>MaitrS.</ls> &c.<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असन्",
+            "eid": "7419",
+            "pagenum": 104,
+            "content": "असन्¦ <i>asan,</i> the base of some of the cases of <i>asṛj,</i> blood, q. v.; thus, inst. <i>asnā,</i> gen. <i>asnas,</i> &c."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असन्",
+            "eid": "12348",
+            "pagenum": 1,
+            "content": "अस/न्¦ <lex>n.</lex> <i>Blut</i>. Zu belegen nur अस्ना/, अस्न/स् und अस्ना/म् (<ls>MAITR. S. 3,9,6</ls>). <ab>Vgl.</ab> असृज्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "असन्",
+            "eid": "7305",
+            "pagenum": 1,
+            "content": "असन्¦ <lex>n.</lex> <i>Blut</i>; von diesem Stamm sind nach <ls>P. 6, 1, 63</ls> und <ls>VOP. 3, 39</ls> alle casus mit Ausnahme des nom. und acc. sg. du. und pl. erhalten; zu belegen sind nur der instr. und gen. abl. sg.: तस्य^ हा\\स्नास्यु^क्षि\\ता <ls>AV. 5, 5, 8.</ls> <ls>VS. 25, 9.</ls> <ls>AIT. BR. 2, 7.</ls> <ls>ŚAT. BR. 1, 9, 2, 35.</ls> <ls n='ŚAT. BR.'>11, 7, 4, 2.</ls> अश्व^स्या\\स्नः संप^तिता <ls>AV. 5, 5, 9.</ls> <ls n='AV. 5,'>19, 3.</ls> <div n='v'>— Vgl. असृज् und अस्र 3."
+        }
     ]
 }

@@ -15,5 +15,29 @@
             "pagenum": 424,
             "content": "वेदविद्या¦ <i>f.</i> Vedakunde."
         }
+    ],
+    "MW": [
+        {
+            "word": "वेदविद्या",
+            "eid": "205791",
+            "pagenum": 1016,
+            "content": "वेद—विद्या ¦ <lex>f.</lex> knowledge of the <ab n='Veda' slp1='veda'>V°</ab><info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वेदविद्या",
+            "eid": "107147",
+            "pagenum": 6,
+            "content": "वेदविद्या¦ <lex>f.</lex> <is>Veda</is>-<i>Kunde</i>. °विद् <i>mit dem</i> <is>Veda</is> <i>vertraut</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वेदविद्या",
+            "eid": "95336",
+            "pagenum": 6,
+            "content": "वेदविद्या¦ <lex>f.</lex> <is>Veda</is>-<i>Kunde</i>: °विद्याधिगम <ls>MAITRYUP. 4, 3.</ls> °विद् <ls>KATHĀS. 27, 164.</ls> °विद्यात्मक <ls>MĀRK. P. 102, 20.</ls> °विद्याधिप <ls>PAÑCAR. 1, 8, 24.</ls>"
+        }
     ]
 }

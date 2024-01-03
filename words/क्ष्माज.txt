@@ -7,5 +7,35 @@
             "pagenum": 223,
             "content": "kzmA-ja¦ <i>m.</i> the planet Mars."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्ष्माज",
+            "eid": "60604",
+            "pagenum": 333,
+            "content": "क्ष्मा—ज ¦ <lex>m.</lex> ‘earth-born’, the planet Mars<info lex='m'/>"
+        },
+        {
+            "word": "क्ष्माज",
+            "eid": "60605",
+            "pagenum": 333,
+            "content": "क्ष्मा—ज ¦ <lex>n.</lex> the horizon, <ls>Gol.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्ष्माज",
+            "eid": "33137",
+            "pagenum": 2,
+            "content": "क्ष्माज¦ <div n='1'>— 1〉 <lex>m.</lex> <i>der Planet Mars</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>Horizont</i> <ls>GOLĀDHY. 7,39</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्ष्माज",
+            "eid": "20726",
+            "pagenum": 2,
+            "content": "क्ष्माज¦ (क्ष्मा + ज) <lex>m.</lex> <i>der Planet Mars</i> <ls>Ind. St. 2, 261.</ls>"
+        }
     ]
 }

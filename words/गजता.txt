@@ -28,5 +28,41 @@
             "pagenum": 229,
             "content": "gaja-tA¦ <i>f.</i> a multitude of elephants."
         }
+    ],
+    "MW": [
+        {
+            "word": "गजता",
+            "eid": "62334",
+            "pagenum": 342,
+            "content": "गज—ता ¦ <lex>f.</lex> the state of an elephant, <ls>Kathās. lxxiv, 22</ls><info lex='f'/>"
+        },
+        {
+            "word": "गजता",
+            "eid": "62335",
+            "pagenum": 342,
+            "content": "¦ a multitude of elephants, <ls>Pāṇ. iv, 2, 43</ls>; <ls>Pat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गजता",
+            "eid": "34068",
+            "pagenum": 2,
+            "content": "गजता¦ <lex>f.</lex> <div n='1'>— 1〉 <ab>Nom. abstr.</ab> von गज <i>Elephant</i>. <div n='1'>— 2〉 *<i>Elephantentrupp</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गजता",
+            "eid": "21380",
+            "pagenum": 2,
+            "content": "गज/ता¦ (von गज) <lex>f.</lex> <i>Elephantentrupp</i> <ls>P. 4, 2, 43</ls>, <is>Vārtt</is>. 1. <ls>AK. 2, 8, 2, 4.</ls> <ls>H. 1422.</ls>"
+        },
+        {
+            "word": "गजता",
+            "eid": "72433",
+            "pagenum": 5,
+            "content": "गजता¦ <i>der Zustand eines Elephanten</i> <ls>KATHĀS. 74, 22.</ls>"
+        }
     ]
 }

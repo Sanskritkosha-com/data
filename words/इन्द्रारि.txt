@@ -7,5 +7,29 @@
             "pagenum": 118,
             "content": "indra-ari¦ <i>m.</i> a demon."
         }
+    ],
+    "MW": [
+        {
+            "word": "इन्द्रारि",
+            "eid": "29182",
+            "pagenum": 167,
+            "content": "indrA<srs/>ri ¦ <lex>m.</lex> <s1 slp1='indra'>Indra</s1>'s enemy, an <s1 slp1='asura'>Asura</s1> or demon, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "इन्द्रारि",
+            "eid": "17124",
+            "pagenum": 1,
+            "content": "*इन्द्रारि¦ <lex>m.</lex> <is>Indra</is>ʼs Feind, ein <is>Asura</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इन्द्रारि",
+            "eid": "10254",
+            "pagenum": 1,
+            "content": "इन्द्रारि¦ (इ° + अरि) <lex>m.</lex> <is>Indra's</is> <i>Feind, ein</i> <is>Asura</is> <ls>AK. 1, 1, 1, 7.</ls>"
+        }
     ]
 }

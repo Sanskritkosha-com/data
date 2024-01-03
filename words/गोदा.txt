@@ -44,5 +44,35 @@
             "pagenum": 250,
             "content": "go-dA¦ <i>f.</i> the river Godāvarī."
         }
+    ],
+    "MW": [
+        {
+            "word": "गोदा",
+            "eid": "67113",
+            "pagenum": 364,
+            "content": "गो—दा <hom>a</hom> ¦ <lex>f.</lex> the river commonly called गो-दावरी, <ls>Kathārṇ.</ls> (<ab>cf.</ab> अनु-गोदम्). <info lex='f'/>"
+        },
+        {
+            "word": "गोदा",
+            "eid": "67125",
+            "pagenum": 365,
+            "content": "गो—दा/ <hom>b</hom> ¦ <lex>mfn.</lex> presenting with cattle or kine, <ls>RV.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोदा",
+            "eid": "36569",
+            "pagenum": 2,
+            "content": "गोदा/¦ <lex>Adj.</lex> <i>Rinder —, Kühe schenken</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोदा",
+            "eid": "23116",
+            "pagenum": 2,
+            "content": "गोदा/¦ (गो + दा) <lex>adj.</lex> <i>Rinder —, Kühe schenkend</i> <ls>ṚV. 1, 4, 2.</ls> <ls n='ṚV.'>3, 30, 21.</ls> <ls n='ṚV.'>4, 22, 10.</ls> <ls n='ṚV.'>5, 42, 8.</ls> <div n='v'>— Vgl. 1. गोद ."
+        }
     ]
 }

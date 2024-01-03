@@ -39,5 +39,27 @@
             "pagenum": 336,
             "content": "*द्रै¦ <i>drai</i> [en <ab>compos.</ab> avec <i>ni</i>]. <i>drāmi</i> 2 et 4. Dormir. || <ab>Lat.</ab> dormire; <ab>gr.</ab> <lang n='greek'>δραθεῖν, δαρθάνω</lang>; <ab>sax.</ab> drôm; <ab>germ.</ab> traum."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्रै",
+            "eid": "98000",
+            "pagenum": 502,
+            "content": "द्रै or द्रा ¦ (<ls>Dhātup. xxii, 10</ls> and <ls n='Dhātup.'>xxiv, 46</ls>) <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> द्रायति, °ते (<ab>cf.</ab> नि-) or <ab>cl.</ab> 2. <ab>P.</ab> द्राति (<ab>pf.</ab> -दद्रौ, <ls>Naiṣ.</ls>; <ab>aor.</ab> अद्रासीत्, <ls>Br.</ls>; <ab>fut.</ab> द्रास्य/ति, <ls>ib.</ls>) to sleep. <info or='98000,drE;98000.1,drA'/><info westergaard='drE,22.10,01.0635;drA,24.46,02.0057'/><info whitneyroots='drA2,79'/><info verb='root' cp='1P,1Ā,2P'/>"
+        },
+        {
+            "word": "द्रै",
+            "eid": "98000.05",
+            "pagenum": 502,
+            "content": "द्रै ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>ἔδραθον</lang>, <ab>Lat.</ab> <etym>dormio</etym>]."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "द्रै",
+            "eid": "23058",
+            "pagenum": 441,
+            "content": "द्रै¦ <i>drai,</i> cl. 1. P. <i>drāyati,</i> &c., to sleep; [cf. 1. <i>drā;</i> cf. also Gr. <lang n='greek'>δαρθ-άν-ω, ἔ-δραθ-ο-ν;</lang> Lat. <nsi>dor-mi-o;</nsi> Slav. <nsi>dre†-m-a-ti,</nsi> ‘to sleep;’ Old Sax. <nsi>drom;</nsi> Eng. <nsi>dream;</nsi> Mod. Germ. <nsi>traum.</nsi>]"
+        }
     ]
 }

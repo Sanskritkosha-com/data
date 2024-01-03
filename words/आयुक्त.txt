@@ -52,5 +52,69 @@
             "pagenum": 105,
             "content": "Ayukta¦ <i>m.</i> A minister, an agent or deputy."
         }
+    ],
+    "MD": [
+        {
+            "word": "आयुक्त",
+            "eid": "3774",
+            "pagenum": 41,
+            "content": "आयुक्त¦ ā-yukta, (<ab>pp.</ab>) <lex>m.</lex>, °क -ka, <lex>m.</lex> official."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आयुक्त",
+            "eid": "25927",
+            "pagenum": 149,
+            "content": "आ-युक्त ¦ <lex>mfn.</lex> joined with, united, applied to<info lex='m:f:n'/>"
+        },
+        {
+            "word": "आयुक्त",
+            "eid": "25928",
+            "pagenum": 149,
+            "content": "¦ appointed, charged with, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आयुक्त",
+            "eid": "25929",
+            "pagenum": 149,
+            "content": "¦ burdened with, slightly joined, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आयुक्त",
+            "eid": "25930",
+            "pagenum": 149,
+            "content": "आ-युक्त ¦ <lex>m.</lex> a minister, an agent or deputy.<info lex='m'/>"
+        },
+        {
+            "word": "आयुक्त",
+            "eid": "25930.1",
+            "pagenum": 1320,
+            "content": "¦ (in <ab>dram.</ab>) an official appointed by a king, <ls>Bhar.</ls><info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आयुक्त",
+            "eid": "9023",
+            "pagenum": 127,
+            "content": "<i>Ā-yukta, as, ā, am,</i>¦ appointed, charged with; united, joined, obtained; (<i>as</i>), m. a minister, an agent or deputy."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आयुक्त",
+            "eid": "15332",
+            "pagenum": 1,
+            "content": "आयुक्त und °क¦ <lex>m.</lex> <i>Beamter</i> <ls>Spr. 994</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आयुक्त",
+            "eid": "9051",
+            "pagenum": 1,
+            "content": "आयुक्त¦ (von युज् mit आ) <lex>adj.</lex> <i>bei Etwas angestellt, mit Etwas beauftragt</i>; <lex>m.</lex> <i>Beamter</i> <ls>H. 719.</ls> mit dem loc. oder gen. <ls>P. 2, 3, 40.</ls> <ls>VOP. 5, 29.</ls> कटकरणे oder कटकरणस्य <ls>P.</ls>, <ls>Sch.</ls> दूतकर्मणि <ls>BHAṬṬ. 8, 115.</ls> Davon आयुक्ति/न् <is>gaṇa</is> इष्टादि zu <ls>P. 5, 2, 88.</ls> S. auch युज् mit आ ."
+        }
     ]
 }

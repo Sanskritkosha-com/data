@@ -39,5 +39,35 @@
             "pagenum": 786,
             "content": "sura-pati¦ <i>m.</i> an epithet of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुरपति",
+            "eid": "249345",
+            "pagenum": 1234,
+            "content": "सुर—पति ¦ <lex>m.</lex> ‘lord of the gods’, <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "सुरपति",
+            "eid": "249346",
+            "pagenum": 1234,
+            "content": "¦ of <s1 slp1='Siva'>Śiva</s1>, <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुरपति",
+            "eid": "127443",
+            "pagenum": 7,
+            "content": "सुरपति¦ <lex>m.</lex> <i>Götterherr,</i> <ab>Bein.</ab> <div n='1'>— 1〉 <is>Indra</is>ʼs. <div n='1'>— 2〉 <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुरपति",
+            "eid": "111148",
+            "pagenum": 7,
+            "content": "सुरपति¦ <lex>m.</lex> <i>der Götter Herr</i>, Bez. <is>Indra's</is> <ls>AK. 1, 1, 1, 38.</ls> <ls>HALĀY. 1, 52.</ls> <ls>MBH. 7, 3862.</ls> <ls>R. 1, 28, 27.</ls> <ls n='R. 1,'>48, 25.</ls> <ls n='R. 1,'>64, 3.</ls> <ls>R. GORR. 1, 66, 4.</ls> <ls n='R. GORR.'>3, 75, 29.</ls> <ls n='R. GORR.'>5, 8, 16.</ls> ad <ls>ŚĀK. 193.</ls> <ls>Spr. (II) 1894.</ls> <ls n='Spr. (II)'>2220.</ls> <ls>VARĀH. BṚH. S. 32, 7. 16. 86, 75.</ls> <ls>CAURAP. 38.</ls> <ls>PRAB. 8, 2.</ls> <ls n='PRAB.'>35, 8.</ls> <ls>BHĀG. P. 7, 7, 8. 8, 11, 32.</ls> <ls>KṢITĪS. 26, 6.</ls> <is>Śiva's</is> <ls>R. 1, 37, 17.</ls>"
+        }
     ]
 }

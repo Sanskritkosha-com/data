@@ -40,5 +40,41 @@
             "pagenum": 798,
             "content": "soma-ja¦ <i>(III) n.</i> milk."
         }
+    ],
+    "MW": [
+        {
+            "word": "सोमज",
+            "eid": "252780",
+            "pagenum": 1250,
+            "content": "सोम—ज ¦ <lex>mfn.</lex> moon-produced, <ls>MW.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सोमज",
+            "eid": "252781",
+            "pagenum": 1250,
+            "content": "सोम—ज ¦ <lex>m.</lex> <ab>N.</ab> of the planet Mercury, <ls>Hāyan.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सोमज",
+            "eid": "252782",
+            "pagenum": 1250,
+            "content": "सोम—ज ¦ <lex>n.</lex> milk, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सोमज",
+            "eid": "129548",
+            "pagenum": 7,
+            "content": "सोमज¦ <div n='1'>— 1〉 <lex>m.</lex> <ab>Patron.</ab> <i>des Planeten Merkur</i> <ls>KĀŚYAPA</ls> in <ls>J. R. A. S. 1870, S. 475</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>Milch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सोमज",
+            "eid": "112850",
+            "pagenum": 7,
+            "content": "सोमज¦ <div n='1'> 1) <lex>m.</lex> <i>der Sohn des Mondes, der Planet Mercur</i> <ls>AK. 3, 4, 8, 36.</ls> <ls>Ind. St. 2, 261.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Milch</i> <ls>H. 404.</ls>"
+        }
     ]
 }

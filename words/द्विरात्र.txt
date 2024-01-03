@@ -23,5 +23,35 @@
             "pagenum": 350,
             "content": "dvi-rAtra¦ <i>n.</i> two nights."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विरात्र",
+            "eid": "98640",
+            "pagenum": 505,
+            "content": "द्वि—रात्र/ ¦ <lex>mfn.</lex> ‘lasting 2 days’<info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विरात्र",
+            "eid": "98641",
+            "pagenum": 505,
+            "content": "द्वि—रात्र/ ¦ <lex>m.</lex> a period or festival of that length, <ls>AV.</ls>; <ls>ŚrS.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विरात्र",
+            "eid": "54059",
+            "pagenum": 3,
+            "content": "द्विरात्र/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>zweitägig</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>eine zweitägige Feier</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विरात्र",
+            "eid": "35794",
+            "pagenum": 3,
+            "content": "द्विरात्र/¦ (द्वि + रात्रि) <lex>adj.</lex> <i>zwei Nächte dauernd</i>; <lex>m.</lex> <i>eine zweitägige Feier</i> <ls>AV. 11, 7, 10.</ls> <ls>KĀTY. ŚR. 15, 9, 22.</ls> <ls>ŚĀṄKH. ŚR. 14, 7, 6. 16, 20, 1.</ls> <ls>MAŚ.</ls> in <ls>Verz. d. B. H. 73.</ls>"
+        }
     ]
 }

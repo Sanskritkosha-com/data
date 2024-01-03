@@ -37,5 +37,69 @@
             "pagenum": 656,
             "content": "vAs¦ <i>(II) vi. 4A (pres. वास्यते)</i> The same as वाश् q.v."
         }
+    ],
+    "MD": [
+        {
+            "word": "वास्",
+            "eid": "16385",
+            "pagenum": 278,
+            "content": "वास्¦ VĀS, <i>only</i> <b>ni</b>-<b>vāsate,</b> resists (?; 🞄<ab>RV.¹</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वास्",
+            "eid": "192284",
+            "pagenum": 947,
+            "content": "<hom>1.</hom> वास् ¦ See नि- √ <hom>5.</hom> वस्."
+        },
+        {
+            "word": "वास्",
+            "eid": "192285",
+            "pagenum": 947,
+            "content": "<hom>2.</hom> वास् ¦ <ab>cl.</ab> 10. <ab>P.</ab> (<ls>Dhātup. xxxv, 32</ls>; perhaps only <ab>Nom.</ab> <ab>fr.</ab> next) वासयति (<ab>ep.</ab> also °ते; <ab>aor.</ab> -अववासत्), to perfume, make fragrant, scent, fumigate, incense, steep, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info westergaard='vAsa,35.32,10.0271'/><info verb='genuineroot' cp='10P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वास्",
+            "eid": "42041",
+            "pagenum": 907,
+            "content": "वास्¦ <i>vās</i> (perhaps rather to be regarded as a Nom. fr. 1. <i>vāsa</i> below), cl. 10. P. <i>vāsayati</i> (ep. also A. <i>vāsayate</i>), <i>-yitum,</i> to fill with (perfumes &c.); to infuse (fragrant odours or other qualities), steep, macerate; to perfume, make fragrant, fumigate, incense; to spice, season; cl. 4. A. <i>vāsyate,</i> to sound, cry, (in this sense for rt. <i>vāś,</i> q. v.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वास्",
+            "eid": "101322",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> वास्¦, nur निवासते etwa <i>hält Stand</i> <ls>ṚV. 10,37,3</ls>."
+        },
+        {
+            "word": "वास्",
+            "eid": "101323",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> वास्¦ fehlerhaft für वाश्."
+        },
+        {
+            "word": "वास्",
+            "eid": "101324",
+            "pagenum": 6,
+            "content": "<hom>3.</hom> √वास्¦, वासयति <ab>s.</ab> वासय्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वास्",
+            "eid": "90543",
+            "pagenum": 6,
+            "content": "1. वास्¦ s. वाश् ."
+        },
+        {
+            "word": "वास्",
+            "eid": "90544",
+            "pagenum": 6,
+            "content": "2. वास्¦, वासयति s. वासय् ."
+        }
     ]
 }

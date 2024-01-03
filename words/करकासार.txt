@@ -15,5 +15,27 @@
             "pagenum": 169,
             "content": "karakA-AsAra¦ <i>m.</i> a shower of hail."
         }
+    ],
+    "MW": [
+        {
+            "word": "करकासार",
+            "eid": "44389",
+            "pagenum": 254,
+            "content": "<hom>1.</hom> karakA<srs/>sAra ¦ <lex>m.</lex> a shower of hail.<info lex='m'/>"
+        },
+        {
+            "word": "करकासार",
+            "eid": "44390",
+            "pagenum": 254,
+            "content": "<hom>2.</hom> करकासार ¦ <ab>Nom.</ab> <ab>P.</ab> करकासारति, to pour or shower down like hail, <ls>Dhūrtas.</ls><info verb='nom' cp='P'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "करकासार",
+            "eid": "15087",
+            "pagenum": 2,
+            "content": "करकासार¦ (करक <i>Hagel</i> + आसार) <lex>m.</lex> <i>Hagelwetter</i>; davon denom. करकासारति <i>wie ein Hagelwetter sich ergiessen</i> <ls>DHŪRTAS. 67, 16.</ls>"
+        }
     ]
 }

@@ -52,5 +52,35 @@
             "pagenum": 411,
             "content": "para-aDIna¦ <i>a.</i> dependant, subservient, <ls>M.</ls>x.83."
         }
+    ],
+    "MW": [
+        {
+            "word": "पराधीन",
+            "eid": "116327",
+            "pagenum": 587,
+            "content": "parA<srs/>DIna ¦ <lex>mf(आ)n.</lex> = °र-वश, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "पराधीन",
+            "eid": "116328",
+            "pagenum": 587,
+            "content": "¦ (<ab>ifc.</ab>) entirely engaged in or intent upon or devoted to, <ls>Kād.</ls>; <ls>Rājat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पराधीन",
+            "eid": "63513",
+            "pagenum": 4,
+            "content": "पराधीन¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>von einem Andern abhängig, abhängig von</i> (im <ab>Comp.</ab> vorangehend). <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <div n='1'>— 2〉 <i>ganz in Anspruch genommen von, beschäftigt mit, nur bedacht auf</i> (im <ab>Comp.</ab> vorangehend) <ls>RĀJAT. 6,9</ls>. <ls>KĀD. 204,15</ls>. <ls>Chr. 295,19</ls> (im <lang>Prākrit</lang>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पराधीन",
+            "eid": "42555",
+            "pagenum": 4,
+            "content": "पराधीन¦ (पर + अधीन) <lex>adj.</lex> <lex>f.</lex> आ <i>von einem Andern abhängig, abhängig</i> <ls>AK. 3, 1, 16.</ls> <ls>H. 356.</ls> <ls>HALĀY. 2, 186.</ls> नराधिपाः <ls>R. 3, 37, 6.</ls> कृषि <ls>M. 10, 83.</ls> अन्न 54. भोजन <ls>HIT. I, 131.</ls> संपत्ति <ls n='HIT.'>II, 143.</ls> वृत्ति <ls>Spr. 621.</ls> <ls>MEGH. 8.</ls> जीवित <ls>Spr. 1331.</ls> पुरुषस्य क्रियाफलम् <ls>MBH. 12, 12520</ls> (vgl. <ls n='MBH.'>3, 13850</ls>). अ° <ls>ŚAT. BR. 11, 5, 7, 1.</ls> बन्धुपराधीना कन्या <ls>KATHĀS. 24, 38.</ls> अहं भक्तपराधीनः <ls>BHĀG. P. 9, 4, 63.</ls> ग्राम्याः कृषिपराधीनाः <ls>RĀJA-TAR. 6, 9.</ls>"
+        }
     ]
 }

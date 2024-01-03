@@ -47,5 +47,49 @@
             "pagenum": 504,
             "content": "bahu-tiTa¦ <i>a.</i> very much, abundant, काले गते बहुतिथे <ls>Sak.</ls>v."
         }
+    ],
+    "MW": [
+        {
+            "word": "बहुतिथ",
+            "eid": "143590",
+            "pagenum": 724,
+            "content": "बहु—तिथ <hom>a</hom> ¦ See <pcol>p. 726, col. 1</pcol>."
+        },
+        {
+            "word": "बहुतिथ",
+            "eid": "143969",
+            "pagenum": 726,
+            "content": "बहुतिथ <hom>b</hom> ¦ <lex>mfn.</lex> manifold, various, many, much, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>Pur.</ls> (<ab>cf.</ab> <ls>Pāṇ. v, 2, 52</ls>)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "बहुतिथ",
+            "eid": "143970",
+            "pagenum": 726,
+            "content": "¦ बहुतिथे <pb n='726,2'/> ऽहनि, on the ‘manieth’ day, during many days, <ls>Nal. ix, 12</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "बहुतिथ",
+            "eid": "34547",
+            "pagenum": 679,
+            "content": "<i>Bahutitha, as, ī, am,</i>¦ manifold, various, many, (<i>bahutithe 'hani,</i> on the ‘manieth’ day, during many days, Nala IX. 12); much; (<i>am</i>), ind. much, greatly, sorely, in a high degree."
+        }
+    ],
+    "PW": [
+        {
+            "word": "बहुतिथ",
+            "eid": "76317",
+            "pagenum": 4,
+            "content": "बहुतिथ¦ <lex>Adj.</lex> <i>vielfach, viel, mannichfach</i>. °थे ऽहनि <i>viele Tage hindurch</i>. °म् <lex>Adv.</lex> <i>sehr, in hohem Grade</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बहुतिथ",
+            "eid": "52173",
+            "pagenum": 5,
+            "content": "बहुतिथ/¦ (wie eben) <lex>adj.</lex> <i>vielfach, viel</i> <ls>P. 5, 2, 52.</ls> <ls>VOP. 7, 42.</ls> काल <ls>N. 13, 2. 36.</ls> <ls>SĀV. 4, 1.</ls> <ls>MBH. 3, 8582.</ls> <ls>ŚĀK. 100.</ls> ad <ls n='ŚĀK.'>193.</ls> <ls>BHĀG. P. 9, 19, 11.</ls> <ls>MĀRK. P. 22, 1.</ls> °थे ऽहनि <i>viele Tage hindurch</i> <ls>N. 9, 12.</ls> <ls>MBH. 1, 4323.</ls> तपस् <i>mannichfache Kasteiungen</i> <ls>BHĀG. P. 1, 16, 33.</ls> °थम् adv. <i>sehr, in hohem Grade</i>: अनश्नाना बहुतिथं शरीरमुदशोषयत् <ls>MBH. 5, 7478.</ls>"
+        }
     ]
 }

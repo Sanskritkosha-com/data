@@ -26,5 +26,41 @@
             "pagenum": 361,
             "content": "DUrvaha¦ <i>(II) m.</i> a beast of burden."
         }
+    ],
+    "MW": [
+        {
+            "word": "धूर्वह",
+            "eid": "101442",
+            "pagenum": 517,
+            "content": "धूर्-वह <hom>a</hom> ¦ &c. See <hom>2.</hom> धूर्."
+        },
+        {
+            "word": "धूर्वह",
+            "eid": "101751",
+            "pagenum": 518,
+            "content": "धूर्—वह <hom>b</hom> ¦ <lex>mfn.</lex> = -धर <lex type='nhw'>mfn.</lex><info lex='m:f:n'/>"
+        },
+        {
+            "word": "धूर्वह",
+            "eid": "101752",
+            "pagenum": 518,
+            "content": "धूर्—वह ¦ <lex>m.</lex> a beast of burden, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धूर्वह",
+            "eid": "55674",
+            "pagenum": 3,
+            "content": "*धूर्वह¦ <lex>Adj.</lex> <i>eine Last ziehend;</i> <lex>m.</lex> <i>Zugthier</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धूर्वह",
+            "eid": "36948",
+            "pagenum": 3,
+            "content": "धूर्वह¦ (धुर् + वह) <lex>adj.</lex> <i>eine Last ziehend</i>; <lex>m.</lex> <i>Zugthier</i> <ls>AK. 2, 9, 65</ls> (<ls>COLEBR.</ls> und <ls>LOIS.</ls> fälschlich धुर्वह). <ls>H. 1263.</ls> <ls>MED. r. 272.</ls>"
+        }
     ]
 }

@@ -15,5 +15,35 @@
             "pagenum": 4,
             "content": "agni-sahAya¦ <i>m.</i> 1. wind; 2. smoke."
         }
+    ],
+    "MW": [
+        {
+            "word": "अग्निसहाय",
+            "eid": "1120",
+            "pagenum": 6,
+            "content": "अग्नि—सहाय ¦ <lex>m.</lex> ‘friend of fire’, the wind<info lex='m'/>"
+        },
+        {
+            "word": "अग्निसहाय",
+            "eid": "1121",
+            "pagenum": 6,
+            "content": "¦ a wild pigeon, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अग्निसहाय",
+            "eid": "666",
+            "pagenum": 1,
+            "content": "*अग्निसहाय¦ <lex>m.</lex> <i>wilde Taube</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अग्निसहाय",
+            "eid": "480",
+            "pagenum": 1,
+            "content": "अग्निसहाय¦ (अग्नि + सहाय) <lex>m.</lex> <i>wilde Taube</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

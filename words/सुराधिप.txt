@@ -31,5 +31,43 @@
             "pagenum": 786,
             "content": "sura-aDipa¦ <i>m.</i> an epithet of Indra."
         }
+    ],
+    "MD": [
+        {
+            "word": "सुराधिप",
+            "eid": "19565",
+            "pagenum": 355,
+            "content": "सुराधिप¦ sura‿adhipa, <lex>m.</lex> mountain of the gods, 🞄Meru."
+        },
+        {
+            "word": "सुराधिप",
+            "eid": "19567",
+            "pagenum": 355,
+            "content": "सुराधिप¦ sura‿adhipa, <lex>m.</lex> lord of the gods, 🞄<ab>ep.</ab> <i>of</i> Indra; <b>-ahīśa,</b> <lex>m.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सुराधिप",
+            "eid": "249489",
+            "pagenum": 1235,
+            "content": "surA<srs/>Dipa ¦ <lex>m.</lex> ‘sovereign of the <ab n='gods'>g°</ab>’, <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Kathās.</ls> &c.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुराधिप",
+            "eid": "127606",
+            "pagenum": 7,
+            "content": "सुराधिप¦ <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुराधिप",
+            "eid": "111284",
+            "pagenum": 7,
+            "content": "सुराधिप¦ (सुर + अ°) <lex>m.</lex> <i>der Fürst der Götter</i>, Bein. <is>Indra's</is> <ls>MBH. 3, 11938.</ls> <ls>R. 1, 63, 27.</ls>  <ls>R. GORR. 1, 66, 2.</ls> <ls>KATHĀS. 53, 121.</ls> <ls>LA. (III) 92, 6.</ls> <ls>BHĀG. P. 10, 18, 28.</ls>"
+        }
     ]
 }

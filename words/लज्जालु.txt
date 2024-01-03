@@ -37,5 +37,43 @@
             "pagenum": 619,
             "content": "lajjAlu¦ <i>(II) m.f.</i> Name of a sensitive plant."
         }
+    ],
+    "MW": [
+        {
+            "word": "लज्जालु",
+            "eid": "181185",
+            "pagenum": 895,
+            "content": "लज्जालु ¦ <lex>mfn.</lex> shameful, bashful, timid (in <ns>Prākṛt</ns> <i>°luka</i>), <ls>Ratnāv.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "लज्जालु",
+            "eid": "181186",
+            "pagenum": 895,
+            "content": "लज्जालु ¦ <lex>f.</lex> <bot>Mimosa Pudica</bot>, <ls>Bhpr.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लज्जालु",
+            "eid": "40100",
+            "pagenum": 860,
+            "content": "<i>Lajjālu, us, us, u,</i>¦ bashful, modest, shameful; (<i>us</i>), m. f. the sensitive plant, Mimosa Pudica."
+        }
+    ],
+    "PW": [
+        {
+            "word": "लज्जालु",
+            "eid": "95624",
+            "pagenum": 5,
+            "content": "लज्जालु¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>schamhaft</i>. लज्जालुए (<ab>d. i.</ab> °लुके <ab>Voc.</ab>) im <lang>Prākrit</lang>. <ls n='Chr.'>317,30</ls>. <div n='1'>— 2〉 <lex>f.</lex> <i><bot>Mimosa pudica</bot></i> <ls>RĀJAN. 5,104</ls>. <ls>BHĀVAPR. 1,220</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लज्जालु",
+            "eid": "85892",
+            "pagenum": 6,
+            "content": "लज्जालु¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>schamhaft.</i> <div n='1'>— 2) <lex>m.</lex> <lex>f.</lex> <i>Mimosa pudica</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>ŚĀRṄG. SAṂH. 2, 2, 41.</ls>"
+        }
     ]
 }

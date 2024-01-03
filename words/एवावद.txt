@@ -15,5 +15,37 @@
             "pagenum": 303,
             "content": "<b>evā-vadá,</b>¦ <ab>a.</ab>, <i>so,</i> <ab>d. h.</ab> <i>wahr</i> [evá] <i>redend, wahrhaftig</i>. <div n='TS'>-ásya yajatásya {398,10}."
         }
+    ],
+    "MW": [
+        {
+            "word": "एवावद",
+            "eid": "40240",
+            "pagenum": 232,
+            "content": "एवावद/ ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>1.</hom> एव and आ-√ वद्, <ls>T.</ls> ?), <ab>N.</ab> of a <s1 slp1='fzi'>Ṛṣi</s1> [<ls>Sāy.</ls>], <ls>RV. v, 44, 10.</ls><info n='rev' pc='1323,2'/><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "एवावद",
+            "eid": "12796",
+            "pagenum": 186,
+            "content": "एवावद¦ <i>evā-vada, as, ā, am,</i> Ved. so speaking, true; (<i>as</i>), m., (Sāy.) N. of a man."
+        }
+    ],
+    "PW": [
+        {
+            "word": "एवावद",
+            "eid": "22354",
+            "pagenum": 1,
+            "content": "एवावद/¦ <lex>Adj.</lex> <i>wahr redend, wahrhaftig</i>. Nach <ls>SĀY.</ls> <ab>N. pr.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एवावद",
+            "eid": "13580",
+            "pagenum": 1,
+            "content": "एवावद/¦ (1. एव + वद) nach <ls>SĀY.</ls> N. pr., wahrscheinlich <lex>adj.</lex> <i>so redend</i> <ab>d. i.</ab> <i>wahr redend, wahrhaftig</i>: स हि क्ष\\त्रस्य^ मन\\सस्य\\ चित्ति^भिरेवाव\\दस्य^ यज\\तस्य\\ सध्रे^ः <ls>ṚV. 5, 44, 10.</ls>"
+        }
     ]
 }

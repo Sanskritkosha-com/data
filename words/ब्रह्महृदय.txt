@@ -15,5 +15,35 @@
             "pagenum": 512,
             "content": "brahman-hfdaya¦ <i>m.n.</i> name of a star."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्महृदय",
+            "eid": "147141",
+            "pagenum": 740,
+            "content": "ब्रह्म—हृदय ¦ <lex>m.</lex> <lex type='hw'>n.</lex> the star <bio>Capella </bio>, <ls>Sūryas.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "ब्रह्महृदय",
+            "eid": "147141.1",
+            "pagenum": 1331,
+            "content": "¦ <ab>N.</ab> of a <ab>partic.</ab> <s1 slp1='anuvAka'>Anuvāka</s1> (<ls>TĀr. x, 28</ls>), <ls>Baudh.</ls><info n='sup'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्महृदय",
+            "eid": "78140",
+            "pagenum": 4,
+            "content": "ब्रह्महृदय¦ <lex>m.</lex> <lex>n.</lex> <i>der Stern Capella</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्महृदय",
+            "eid": "53572",
+            "pagenum": 5,
+            "content": "ब्रह्महृदय¦ (ब्रह्मन् + हृ°) <lex>m.</lex> <lex>n.</lex> <i>der Stern Capella</i> <ls>SŪRYAS. 8, 11. 20. 9, 12. 18.</ls>"
+        }
     ]
 }

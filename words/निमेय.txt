@@ -23,5 +23,61 @@
             "pagenum": 214,
             "content": "निमेय¦ zu messen."
         }
+    ],
+    "MW": [
+        {
+            "word": "निमेय",
+            "eid": "108941",
+            "pagenum": 551,
+            "content": "<hom>1.</hom> नि-मेय ¦ <lex>mfn.</lex> to be measured, measurable, <ls>Pāṇ. v, 2, 47</ls>, <ab>Vārtt.</ab> 5.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "निमेय",
+            "eid": "109056",
+            "pagenum": 551,
+            "content": "<hom>2.</hom> नि-°मेय ¦ <lex>mfn.</lex> to be exchanged<info lex='m:f:n'/>"
+        },
+        {
+            "word": "निमेय",
+            "eid": "109057",
+            "pagenum": 551,
+            "content": "नि-°मेय ¦ <lex>m.</lex> barter, exchange, <ls>L.</ls> (<ab>cf.</ab> नैमेय). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निमेय",
+            "eid": "24816",
+            "pagenum": 489,
+            "content": "1. <i>ni-meya, as, ā, am,</i>¦ (for 2. see <i>ni-me</i>), to be measured, measurable, anything the measure or value of which can be fixed."
+        },
+        {
+            "word": "निमेय",
+            "eid": "24850",
+            "pagenum": 490,
+            "content": "2. <i>ni-meya, as, ā, am,</i>¦ (for 1. see <i>ni-mā</i>), to be exchanged; (<i>as</i>), m. barter, exchange; [cf. <i>naimeya.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "निमेय",
+            "eid": "58748",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> निमेय¦ <lex>Adj.</lex> <i>dessen Maassverhältniss oder Werth bestimmt wird, — bestimmt werden kann</i>."
+        },
+        {
+            "word": "निमेय",
+            "eid": "58749",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *निमेय¦ <lex>m.</lex> <i>Tausch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निमेय",
+            "eid": "39059",
+            "pagenum": 4,
+            "content": "निमेय¦ (von मा mit नि) <div n='1'> 1) <lex>adj.</lex> <i>dessen Maassverhältniss</i> oder <i>Werth bestimmt wird, bestimmt werden kann</i> <ls>P. 5, 2, 47</ls>, <is>Vārtt</is>. 5. नाहं शतसहस्रेण निमेयः <ls>MBH. 13, 2676.</ls> <div n='1'>— 2) <lex>m.</lex> = निमय <i>Tausch</i> <ls>BHAR.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls>; vgl. नैमेय ."
+        }
     ]
 }

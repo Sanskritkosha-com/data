@@ -21,5 +21,19 @@
             "pagenum": 10,
             "content": "<b>ADDRESS</b>¦ (v. t.): <div n='I'>I To discourse to: </div><div n='1'>(1) [Page011] सम्बोधयति (बुध्, c. 10) <div n='xe'><i>or</i></div> <div n='xs'>सम्बोधनं करोति;</div> </div><div n='1'>(2) अभि-भाषते, सभ्-, आ-, समा-, (भाष्, c. 1), <div n='xe'><i>he a.</i> <i>es me by my name</i></div> <div n='xs'>नामग्रहणपूर्वकं मां सम्भाषते;</div> </div><div n='1'>(3) अभि-दधाति (धा, c. 3), <div n='xe'><i>a. me as you have been</i> <i>accustomed to do</i></div> <div n='xs'>यथाभ्यस्तमभिधीयतां,</div> <ls>U.</ls> i.: v. To speak to. </div><div n='I'>II To superscribe (as a letter): q. v.: Ph. <i>he a. ed a letter to me</i> स मह्यं पत्रं प्राहिणोत्। </div><div n='I'>III To court, woo: q. v.</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "address",
+            "eid": "236",
+            "pagenum": 6,
+            "content": "<i>To</i> ADDRESS¦, <i>v. a.</i> (By words) आमन्त्र् (c. 10. -मन्त्रयते -यितुं), समामन्त्र्, अभिभाष् (c. 1. -भाषते -भाषितुं), आभाष्, समाभाष्, प्रतिभाष्, अभिवद् (c. 1. -वदति -ते -वदितुं, c. 10. -वादयति -ते -यितुं), अभिवच् (c. 2. -वक्ति -वक्तुं), आलप् (c. 1. -लपति -लपितुं), निगद् (c. 1. -गदति -गदितुं). — (By name) सम्बोधनं कृ, नाम ग्रह् (c. 9. गृह्लाति, ग्रहीतुं). — (To address a letter, &c., to any one) पत्रसंज्ञां कृ."
+        },
+        {
+            "word": "address",
+            "eid": "237",
+            "pagenum": 6,
+            "content": "ADDRESS¦, <i>s.</i> सम्बोधनं, अभिवादः, वाक्यं, वचनं, वाक्यारम्भः. — (By name) नामग्रहः. — (Courtship) भावकरणं. — (Dexterity) नैपुण्यं चतुरता. — (Direction of a letter) पत्रसंज्ञा, पत्रादेशः."
+        }
     ]
 }

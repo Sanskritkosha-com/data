@@ -45,5 +45,73 @@
             "pagenum": 214,
             "content": "<b>mahā-bāhu,</b>¦ <i><ab>a.</ab></i> great-armed [<ls n='wg,1294'>1294]</ls>, <i><ab>i. e.</ab></i> stout-armed."
         }
+    ],
+    "MW": [
+        {
+            "word": "महाबाहु",
+            "eid": "160175",
+            "pagenum": 798,
+            "content": "महा—बाहु ¦ <lex>mfn.</lex> long-armed, <ls>MBh.</ls>; <ls>R.</ls>; <ls>MārkP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "महाबाहु",
+            "eid": "160176",
+            "pagenum": 798,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "महाबाहु",
+            "eid": "160177",
+            "pagenum": 798,
+            "content": "¦ of a <s1 slp1='dAnava'>Dānava</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "महाबाहु",
+            "eid": "160178",
+            "pagenum": 798,
+            "content": "¦ of a <s1 slp1='rAkzasa'>Rākṣasa</s1>, <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "महाबाहु",
+            "eid": "160179",
+            "pagenum": 798,
+            "content": "¦ of one of the sons of <s1 slp1='Dfta-rAzwra'>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "महाबाहु",
+            "eid": "160180",
+            "pagenum": 798,
+            "content": "¦ of a king, <ls>Kathās.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "महाबाहु",
+            "eid": "10396",
+            "pagenum": 2,
+            "content": "<i>Mahābāhu</i> (I)¦ — a son of Danu. <div n='P'/>M. 6. 19."
+        },
+        {
+            "word": "महाबाहु",
+            "eid": "10397",
+            "pagenum": 2,
+            "content": "<i>Mahābāhu</i> (II)¦ — a son of Hiraṇyākṣa. <div n='P'/>Vi. I. 21. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "महाबाहु",
+            "eid": "84642",
+            "pagenum": 5,
+            "content": "महाबाहु¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>langarmig</i>. Auch als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> <div n='2'>— a〉 eines <is>Dānava</is>. <div n='2'>— b〉 eines <is>Rākṣasa</is>. <div n='2'>— c〉 eines Sohnes des <is>Dhṛtarāṣṭra</is>. <div n='2'>— d〉 eines Fürsten."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महाबाहु",
+            "eid": "80555",
+            "pagenum": 5,
+            "content": "महाबाहु¦ <div n='1'> 2) n. pr. <ls>KATHĀS. 109, 55.</ls>"
+        }
     ]
 }

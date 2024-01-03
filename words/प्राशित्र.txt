@@ -31,5 +31,57 @@
             "pagenum": 198,
             "content": "<b>prāśitrá,</b>¦ <i><ab>n.</ab></i> the portion of ghee to be eaten by a Brahman at a sacrifice. [‘that which belongs to the <b>prāśitṛ,</b>’ <ls n='wg,1208'>1208b</ls>.]"
         }
+    ],
+    "MD": [
+        {
+            "word": "प्राशित्र",
+            "eid": "12499",
+            "pagenum": 187,
+            "content": "प्राशित्र¦ prāśitrá, <lex>n.</lex> [belonging to the Prāśitṛ], 🞄portion of sacrificial ghee eaten by the 🞄Brahman priest: <b>-háraṇa,</b> <lex>n.</lex> vessel for holding 🞄the Prāśitra."
+        }
+    ],
+    "MW": [
+        {
+            "word": "प्राशित्र",
+            "eid": "140345",
+            "pagenum": 709,
+            "content": "prA<srs/>Sitra/ ¦ <lex>n.</lex> the portion of <s1 slp1='havis'>Havis</s1> eaten by the <s1 slp1='brahman'>Brahman</s1> at a sacrifice, <ls>TS.</ls>; <ls>ŚBr.</ls>; <ls>ŚrS.</ls> (-वत् <lex type='phw'>ind.</lex>, <ls>Vait.</ls>)<info phwchild='140347.01'/><info lex='n'/>"
+        },
+        {
+            "word": "प्राशित्र",
+            "eid": "140346",
+            "pagenum": 709,
+            "content": "¦ = -हरण, <ls>BhP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "प्राशित्र",
+            "eid": "140347",
+            "pagenum": 709,
+            "content": "¦ anything edible, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्राशित्र",
+            "eid": "33814",
+            "pagenum": 660,
+            "content": "<i>Prāśitra, am,</i>¦ n., Ved. the portion of Havis eaten by the Brahman at a sacrifice; the vessel in which the Brahman's portion of Havis is placed; anything edible. <i>—Prāśitra-haraṇa, am,</i> n., Ved. a vessel in which the Brahman's portion of Havis is placed."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्राशित्र",
+            "eid": "74631",
+            "pagenum": 4,
+            "content": "प्राशित्र/¦ <lex>n.</lex> <div n='1'>— 1〉 <i>der zum Essen bestimmte Antheil des</i> <is>Brahman</is> <i>am</i> <is>Havis</is>. प्राशित्रवत् <lex>Adv.</lex> <ls>VAITĀN.</ls> <div n='1'>— 2〉 = प्राशित्रह/रण."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्राशित्र",
+            "eid": "50949",
+            "pagenum": 4,
+            "content": "प्राशित्र/¦ (von प्राशितर्) <lex>n.</lex> <ls>KĀŚ.</ls> zu <ls>P. 5, 1, 105</ls> (= प्राशिता प्राप्तो ऽस्य). <i>der zum Essen bestimmte Antheil des</i> <is>Brahman</is> <i>am</i> <is>Havis</is> <ls>ŚAT. BR. 1, 7, 4, 8. 9. 18. 2, 5, 2, 40. 6, 1, 33. 11, 4, 1, 11.</ls> <ls>TS. 2, 6, 8, 7.</ls> <ls>ĀŚV. ŚR. 1, 13.</ls> <ls>KĀTY. ŚR. 1, 1, 17. 8, 41. 2, 2, 15.</ls> <ls>NIR. 12, 14.</ls> = प्राशित्रहरण <ls>BHĀG. P. 3, 13, 35.</ls>"
+        }
     ]
 }

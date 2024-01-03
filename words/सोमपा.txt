@@ -53,5 +53,47 @@
             "pagenum": 798,
             "content": "soma-pA¦ <i>m.</i> a drinker of <i>soma</i>."
         }
+    ],
+    "MW": [
+        {
+            "word": "सोमपा",
+            "eid": "252864",
+            "pagenum": 1250,
+            "content": "सोम—पा/ ¦ <lex>mfn.</lex> (<ab>cf.</ab> -प/ above <ab>acc.</ab> <ab>pl.</ab> <lex type='hwinfo'>m.</lex> -पस् <pb n='1250,2'/>; <ab>dat.</ab> <ab>sg.</ab> -पे) drinking or entitled to drink <s1 slp1='soma'>Soma</s1>-juice, <ls>RV.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सोमपा",
+            "eid": "252865",
+            "pagenum": 1250,
+            "content": "¦ a <ab n='Soma' slp1='soma'>S°</ab> sacrificer or performer of any sacrifice, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सोमपा",
+            "eid": "252866",
+            "pagenum": 1250,
+            "content": "¦ a <s1 slp1='pitf'>Pitṛ</s1> of a <ab>partic.</ab> class (said to be <ab>esp.</ab> the progenitors of the <ns>Brāhmans</ns>), <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सोमपा",
+            "eid": "252867",
+            "pagenum": 1250,
+            "content": "¦ a <ns>Brāhman</ns>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सोमपा",
+            "eid": "129590",
+            "pagenum": 7,
+            "content": "सोमपा/¦ <div n='1'>— 1〉 <lex>Adj.</lex> = सोमप/ 1〉. <ab>Superl.</ab> °तम. <div n='1'>— 2〉 <lex>m.</lex> <i>ein Brahmane</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सोमपा",
+            "eid": "112880",
+            "pagenum": 7,
+            "content": "सोमपा/¦ <lex>adj.</lex> = सोमप <ls>VOP. 26, 69.</ls> <ls>ṚV. 1, 4, 2.</ls> <ls n='ṚV. 1,'>10, 3.</ls> <ls n='ṚV. 1,'>21, 3.</ls> <ls n='ṚV.'>2, 12, 13.</ls> <ls n='ṚV.'>3, 39, 7.</ls> <ls n='ṚV. 3,'>41, 5.</ls> <ls n='ṚV.'>4, 32, 14.</ls> <ls n='ṚV.'>8, 2, 4.</ls> <ls n='ṚV. 8,'>17, 3.</ls> <ls>MBH. 12, 10435. fg.</ls> <ls>BHĀG. P. 3, 32, 3.</ls> वामप्यसोमपोः <ls n='BHĀG. P.'>9, 3, 12. 24.</ls> °पातम <ls>ṚV. 1, 8, 7.</ls> <ls n='ṚV. 1,'>21, 1.</ls> <ls n='ṚV.'>6, 42, 2.</ls> मद <ls n='ṚV.'>8, 12, 1.</ls> सोमपा <lex>m.</lex> = ब्राह्मण <ls>HALĀY. 2, 236.</ls>"
+        }
     ]
 }

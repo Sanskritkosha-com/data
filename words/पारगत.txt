@@ -28,5 +28,41 @@
             "pagenum": 431,
             "content": "pAra-gata¦ <i>a.</i> ono who has passed to the other shore."
         }
+    ],
+    "MW": [
+        {
+            "word": "पारगत",
+            "eid": "122411",
+            "pagenum": 619,
+            "content": "पार—गत ¦ <lex>mfn.</lex> one who has reached the opposite shore of (<ab>gen.</ab>), passed over in safety, <ls>Bhartṛ.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पारगत",
+            "eid": "122412",
+            "pagenum": 619,
+            "content": "¦ pure, holy, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "पारगत",
+            "eid": "122413",
+            "pagenum": 619,
+            "content": "पार—गत ¦ <lex>m.</lex> (with <s1 slp1='jEna'>Jaina</s1>s) an <s1 slp1='arhat'>Arhat</s1> or deified saint or teacher.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पारगत",
+            "eid": "66176",
+            "pagenum": 4,
+            "content": "पारगत¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>anʼs jenseitige Ufer gelangt, glücklich hinübergelangt über</i> (<ab>Gen.</ab>) <ls>Spr. 1074</ls>. <div n='1'>— 2〉 *<lex>m.</lex> bei den <is>Jaina</is> <i>ein</i> <is>Arhant</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पारगत",
+            "eid": "44599",
+            "pagenum": 4,
+            "content": "पारगत¦ (पार + गत) <div n='1'> 1) <lex>adj.</lex> <i>an's jenseitige Ufer gelangt, glücklich hinübergelangt</i> <ls>Spr. 397.</ls> <div n='1'>— 2) <lex>m.</lex> bei den <is>Jaina</is> <i>ein</i> <is>Arhant</is> <ls>H. 24.</ls>"
+        }
     ]
 }

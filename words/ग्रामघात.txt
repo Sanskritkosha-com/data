@@ -23,5 +23,29 @@
             "pagenum": 255,
             "content": "grAma-GAta¦ <i>m.</i> plundering a village."
         }
+    ],
+    "MW": [
+        {
+            "word": "ग्रामघात",
+            "eid": "68852",
+            "pagenum": 373,
+            "content": "ग्राम—घात ¦ <lex>m.</lex> plundering a village, <ls>Mn. ix, 274</ls>; <ls>VarBṛS.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्रामघात",
+            "eid": "37453",
+            "pagenum": 2,
+            "content": "ग्रामघात¦ <lex>m.</lex> <i>Plünderung eines Dorfes</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ग्रामघात",
+            "eid": "23739",
+            "pagenum": 2,
+            "content": "ग्रामघात¦ (ग्राम + घात) <lex>m.</lex> <i>Plünderung eines Dorfes</i> <ls>M. 9, 274.</ls> <ls>VARĀH. BṚH. S. 29, 3. 85, 65.</ls>"
+        }
     ]
 }

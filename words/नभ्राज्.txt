@@ -44,5 +44,43 @@
             "pagenum": 369,
             "content": "naBrAj¦ <i>m.</i> A dark cloud."
         }
+    ],
+    "MW": [
+        {
+            "word": "नभ्राज्",
+            "eid": "103700.1",
+            "pagenum": 523,
+            "content": "नभ्—राज् ¦ <lex>m.</lex> (<ab>nom.</ab> ट्) <ab>N.</ab> of a divine <s1 slp1='soma'>Soma</s1>-keeper, <ls>MaitrS.</ls> <info n='rev' pc='1329,2'/><info lex='m'/>"
+        },
+        {
+            "word": "नभ्राज्",
+            "eid": "103700.2",
+            "pagenum": 523,
+            "content": "¦ a cloud, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नभ्राज्",
+            "eid": "23873",
+            "pagenum": 469,
+            "content": "नभ्राज्¦ <i>na-bhrāj, ṭ,</i> m. ‘not shining,’ a dark cloud."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नभ्राज्",
+            "eid": "56697",
+            "pagenum": 3,
+            "content": "नभ्राज्¦ (<ab>Nom.</ab> नभ्राट्) <lex>m.</lex> <div n='1'>— 1〉 <ab>N. pr.</ab> eines himmlischen <is>Soma</is>-Wächters <ls>MAITR. S. 1,2,5</ls>. <div n='1'>— 2〉 *<i>Wolke</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नभ्राज्",
+            "eid": "37693",
+            "pagenum": 4,
+            "content": "नभ्राज्¦ (1. न + भ्राज्), nom. नभ्राड् <ls>P. 6, 3, 75.</ls> <lex>m.</lex> <i>Wolke</i> <ls>H. 164.</ls>"
+        }
     ]
 }

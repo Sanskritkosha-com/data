@@ -61,5 +61,75 @@
             "pagenum": 12,
             "content": "adakziRa¦ <i>a. (f. णा)</i> 1. Unfavourable; 2. unskilled; 3. left (as a hand); 4. without any gifts (as a sacrifice)."
         }
+    ],
+    "MD": [
+        {
+            "word": "अदक्षिण",
+            "eid": "881",
+            "pagenum": 8,
+            "content": "अदक्षिण¦ <hom>1.</hom> a-dakṣiṇa, <lex>a.</lex> not right, left; 🞄awkward; inexperience; unamiable."
+        },
+        {
+            "word": "अदक्षिण",
+            "eid": "882",
+            "pagenum": 8,
+            "content": "अदक्षिण¦ <hom>2.</hom> a-dakṣiṇa, <lex>a.</lex> without gifts <i>to 🞄Brāhmans</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अदक्षिण",
+            "eid": "3592",
+            "pagenum": 17,
+            "content": "अ-दक्षिण/ ¦ <lex>mfn.</lex> not dexterous, not handy, not right, left<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अदक्षिण",
+            "eid": "3593",
+            "pagenum": 17,
+            "content": "¦ inexperienced, simple-minded; not giving or bringing in a <s1 slp1='dakziRA'>dakṣiṇā</s1> or present to the priest, <ls>RV. x, 61, 10</ls>, &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अदक्षिण",
+            "eid": "966",
+            "pagenum": 17,
+            "content": "अदक्षिण¦ <i>a-dakṣiṇa, as, ā, am,</i> not handy; not right, left; not giving or bringing in a dakṣiṇā or present to the priest. <i>—Adakṣiṇa-tva, am,</i> n. awkwardness; peculiarity of not bringing in a dakṣiṇā. <i>—Adakṣiṇīya</i> or <i>adakṣiṇya, as, ā, am,</i> not entitled to a dakṣiṇā."
+        },
+        {
+            "word": "अदक्षिण",
+            "eid": "54581",
+            "pagenum": 1181,
+            "content": "<i>A-dakṣiṇa;</i>¦ add — inexperienced, simple-minded."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अदक्षिण",
+            "eid": "2389",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अदक्षिण¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>nicht recht, link</i>. <div n='1'>— 2〉 <i>unerfahren, einfältig</i>. <div n='1'>— 3〉 <i>unliebenswürdig, ungefällig</i> <ls n='Chr.'>319,30</ls>. <ls>R. ed. Bomb. 5,9,72</ls>."
+        },
+        {
+            "word": "अदक्षिण",
+            "eid": "2390",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अदक्षिण/¦ <lex>Adj.</lex> <i>kein Geschenk —, keinen Lohn gebend; von keinem <ab n='Geschenk'>G.</ab> oder <ab n='Lohn'>L.</ab> begleitet</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अदक्षिण",
+            "eid": "1660",
+            "pagenum": 1,
+            "content": "1. अदक्षिण¦ (3. अ + दक्षिण) <lex>adj.</lex> <lex>f.</lex> आ <div n='1'> 1) <i>nicht der rechte, der linke</i>: बाहुः <ls>R. 6, 29, 10.</ls> <div n='1'>— 2) <i>unerfahren, einfältig</i>: मेने ऽथ सत्यमेवेति परिहासमदक्षिणा <ls>R. 3, 24, 13.</ls>"
+        },
+        {
+            "word": "अदक्षिण",
+            "eid": "1661",
+            "pagenum": 1,
+            "content": "2. अदक्षिण/¦ (3. अ + दक्षिणा) <lex>adj.</lex> <i>kein Geschenk gebend</i>: अ\\द\\क्षि\\णासो\\ अच्यु^ता दुदुक्षन् <ls>ṚV. 10, 61, 10.</ls> <i>von keinem Geschenk an die Brahmanen begleitet</i>: हविः <ls>ŚAT. BR. 1, 2, 3, 4.</ls> <ls n='ŚAT. BR.'>2, 4, 3, 14.</ls> <ls n='ŚAT. BR.'>6, 2, 2, 40.</ls> यज्ञः <ls>PAÑCAT. II, 101.</ls> <ls>KĀṆ. 100.</ls>"
+        }
     ]
 }

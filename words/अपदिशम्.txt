@@ -23,5 +23,37 @@
             "pagenum": 35,
             "content": "apa-diSam¦ <i>ind.</i> between two regions of the compass."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपदिशम्",
+            "eid": "9241",
+            "pagenum": 49,
+            "content": "अप-दिशम् ¦ <lex>ind.</lex> in an intermediate region (of the compass), half a point, <ls>L.</ls><info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपदिशम्",
+            "eid": "3257",
+            "pagenum": 50,
+            "content": "<i>Apa-diśam,</i>¦ ind. in an intermediate region (of the compass), half a point."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपदिशम्",
+            "eid": "5947",
+            "pagenum": 1,
+            "content": "*अपदिशम्¦ <lex>Adv.</lex> <i>in einer Zwischengegend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपदिशम्",
+            "eid": "3767",
+            "pagenum": 1,
+            "content": "अपदिशम्¦ (von 1. अप + दिश्) adv. <i>in einer Zwischengegend</i> (der Windrose) <ls>AK. 1, 1, 2, 7.</ls> <ls>H. 167.</ls>"
+        }
     ]
 }

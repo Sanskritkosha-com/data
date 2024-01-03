@@ -31,5 +31,55 @@
             "pagenum": 378,
             "content": "nigamana¦ <i>n.</i> 1. Quotation of words from the Vedas; 2. the conclusion in a syllogism, the deduction (the fifth member of a five-membered syllogism) (in logic)."
         }
+    ],
+    "MW": [
+        {
+            "word": "निगमन",
+            "eid": "108062",
+            "pagenum": 545,
+            "content": "नि-°गमन ¦ <lex>n.</lex> insertion, quotation of words (from the <s1 slp1='veda'>Veda</s1>) and the word quoted, <ls>Nir.</ls><info lex='n'/>"
+        },
+        {
+            "word": "निगमन",
+            "eid": "108063",
+            "pagenum": 545,
+            "content": "¦ the summing up of an argument or conclusion in a syllogism, deduction, <ls>Tarkas.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "निगमन",
+            "eid": "108064",
+            "pagenum": 545,
+            "content": "¦ going in or into, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निगमन",
+            "eid": "24466",
+            "pagenum": 484,
+            "content": "<i>Ni-gamana, am,</i>¦ n. insertion, quotation of words (from the Veda &c.) or the word &c. quoted; the conclusion in a syllogism, the deduction; going in or into."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निगमन",
+            "eid": "58312",
+            "pagenum": 3,
+            "content": "निगमन¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Angeführtwerden</i>. <div n='1'>— 2〉 <i>Schluss</i> (im Syllogismus)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निगमन",
+            "eid": "38753",
+            "pagenum": 4,
+            "content": "निगमन¦ (wie eben) <lex>n.</lex> <div n='1'> 1) <i>das (Sicheinfügen) Angeführtwerden</i>: ते निगन्तव एव सन्तो निगमान्निघण्टव उच्यन्ते <ls>NIR. 1, 1.</ls> <div n='1'>— 2) <i>Schluss</i> (im Syllogismus): प्रतिज्ञाहेतूदाहरणोपनयननिगमनानि पञ्चावयवाः <ls>TARKAS. 32.</ls> एवं च वीजप्राधान्यनिगमनम् <ls>KULL.</ls> zu <ls>M. 10, 72.</ls> <ls>VYUTP. 109.</ls>"
+        },
+        {
+            "word": "निगमन",
+            "eid": "77088",
+            "pagenum": 5,
+            "content": "निगमन¦ <div n='1'> 2) genauer <i>die Wiederholung der Thesis und des Grundes</i>; vgl. noch <ls>NYĀYAS. 1, 1, 39.</ls> <ls>SARVADARŚANAS. 113, 20.</ls>"
+        }
     ]
 }

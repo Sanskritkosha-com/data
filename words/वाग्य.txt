@@ -29,5 +29,55 @@
             "pagenum": 649,
             "content": "vAgya¦ <i>(II) m.</i> Modesty, humility."
         }
+    ],
+    "MW": [
+        {
+            "word": "वाग्य",
+            "eid": "190116",
+            "pagenum": 937,
+            "content": "वाग्य ¦ <lex>mfn.</lex> (?) (perhaps <ab>fr.</ab> वाच् + य <ab>fr.</ab> √ यम्; <ab>cf.</ab> वाग्-यत) speaking little, speaking cautiously or humbly, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वाग्य",
+            "eid": "190116.1",
+            "pagenum": 937,
+            "content": "¦ <ab n='speaking'>sp°</ab> truly, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वाग्य",
+            "eid": "190116.2",
+            "pagenum": 937,
+            "content": "वाग्य ¦ <lex>m.</lex> modesty, humility, self-disparagement, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वाग्य",
+            "eid": "190116.3",
+            "pagenum": 937,
+            "content": "¦ doubt, alternative, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वाग्य",
+            "eid": "41761",
+            "pagenum": 901,
+            "content": "<i>Vāgya, as, ā, am,</i>¦ speaking little, speaking cautiously or humbly (perhaps fr. <i>vāc + ya</i> fr. rt. <i>yam;</i> cf. <i>vāg-yata</i>); speaking truly; (<i>as</i>), m. modesty, humility, self-disparagement; doubt, alternative (?). <i>—Vāgya-tas,</i> ind. silently."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वाग्य",
+            "eid": "99938",
+            "pagenum": 6,
+            "content": "*वाग्य¦ (!) <lex>Adj.</lex> = वाग्दरिद्र, निर्वेद und कल्य."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वाग्य",
+            "eid": "89404",
+            "pagenum": 6,
+            "content": "वाग्य¦ <lex>adj.</lex> = वाग्दरिद्र <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> = निर्वेद und कल्य <ls>AJAYA</ls> ebend."
+        }
     ]
 }

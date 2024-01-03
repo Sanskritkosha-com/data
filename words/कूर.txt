@@ -60,5 +60,43 @@
             "pagenum": 200,
             "content": "kUra¦ <i>m.n.</i> Food, boiled rice, इतश्च कूरच्युततैलमिश्रं पिंडं हस्ती प्रतिप्राह्यते मात्रपुरुषैः <ls>Mrich.</ls>iv."
         }
+    ],
+    "MW": [
+        {
+            "word": "कूर",
+            "eid": "54002",
+            "pagenum": 300,
+            "content": "कूर ¦ <lex>n.</lex> boiled rice, <ls>Bhpr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कूर",
+            "eid": "15562",
+            "pagenum": 245,
+            "content": "कूर¦ <i>kūra, as,</i> m. boiled rice."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कूर",
+            "eid": "29780",
+            "pagenum": 2,
+            "content": "कूर¦ <lex>n.</lex> <i>gekochter Reis</i> <ls>BHĀVAPR. 2,14</ls>. — <ls>HARIV. 9546</ls> fehlerhaft für क्रूर."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कूर",
+            "eid": "18499",
+            "pagenum": 2,
+            "content": "कूर¦ <lex>m.</lex> <i>gekochter Reis</i> <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "कूर",
+            "eid": "71286",
+            "pagenum": 5,
+            "content": "कूर¦ <lex>n.</lex> <ls>HALĀY. 2, 164.</ls> <div n='v'>— Vgl. दन्त°, दीर्घकूरक ."
+        }
     ]
 }

@@ -39,5 +39,75 @@
             "pagenum": 584,
             "content": "mfzwi¦ <i>f.</i> 1. Cleaning, cleansing; 2. cooking, dressing; 3. touch, contact."
         }
+    ],
+    "MD": [
+        {
+            "word": "मृष्टि",
+            "eid": "14447",
+            "pagenum": 235,
+            "content": "मृष्टि¦ mṛ́ṣ-ṭi, <lex>f.</lex> cleansing, careful preparation; 🞄careful dressing of food."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मृष्टि",
+            "eid": "167157",
+            "pagenum": 829,
+            "content": "<hom>1.</hom> मृ/ष्टि ¦ <lex>f.</lex> (for <hom>2.</hom> See <pcol>p. 831, col. 1</pcol>) cleansing, preparation, dressing (of food), <ls>MaitrS.</ls>; <ls>Kāṭh.</ls><info lex='f'/>"
+        },
+        {
+            "word": "मृष्टि",
+            "eid": "167158",
+            "pagenum": 829,
+            "content": "¦ a savoury repast, <ls>Mn. iii, 255.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मृष्टि",
+            "eid": "167427",
+            "pagenum": 831,
+            "content": "<hom>2.</hom> मृष्टि ¦ <lex>f.</lex> (for <hom>1.</hom> and <hom>3.</hom> See <ls>ib.</ls>) touching, contact, <ls>W.</ls><info lex='f'/>"
+        },
+        {
+            "word": "मृष्टि",
+            "eid": "167456",
+            "pagenum": 831,
+            "content": "<hom>3.</hom> मृष्टि ¦ <lex>f.</lex> (for <hom>1.</hom> and <hom>2.</hom> See <ls>ib.</ls>) sprinkling, <ls>W.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मृष्टि",
+            "eid": "37829",
+            "pagenum": 792,
+            "content": "1. <i>mṛṣṭi, is,</i>¦ f. (for 2. see p. 793, col. 1), cleansing, cleaning, preparation, dressing (of food, Manu III. 255); a savoury repast, (according to Kullūka <i>= annādeḥ saṃskāra-viśeṣa.</i>)"
+        },
+        {
+            "word": "मृष्टि",
+            "eid": "37892",
+            "pagenum": 793,
+            "content": "2. <i>mṛṣṭi, is,</i>¦ f. (for 1. and 3. see p. 792, col. 1, and this page, col. 2), touching, stroking, contact."
+        },
+        {
+            "word": "मृष्टि",
+            "eid": "37901",
+            "pagenum": 793,
+            "content": "3. <i>mṛṣṭi, is,</i>¦ f. (for 1. and 2. see under rts. 1. <i>mṛj</i> and 1. <i>mṛś</i>), sprinkling."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मृष्टि",
+            "eid": "88554",
+            "pagenum": 5,
+            "content": "मृ/ष्टि¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Reinigung, saubere Zubereitung</i> <ls>MAITR. S. 1,4,7 (54,14)</ls>. <div n='1'>— 2〉 <i>Leckermahl</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मृष्टि",
+            "eid": "61781",
+            "pagenum": 5,
+            "content": "मृष्टि¦ (von 1. मर्ज्) <lex>f.</lex> <i>Reinigung, saubere Zubereitung</i> <ls>KĀṬH. 32, 5.</ls> so v. a. <i>Leckermahl</i> <ls>M. 3, 255.</ls> = अन्नादेः संस्कारविशेषः <ls>KULL.</ls>"
+        }
     ]
 }

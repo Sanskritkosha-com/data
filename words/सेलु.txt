@@ -15,5 +15,51 @@
             "pagenum": 729,
             "content": "सेलु¦ <i>selu,</i> <ab>cf.</ab> <i>śelu.</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "सेलु",
+            "eid": "19691",
+            "pagenum": 359,
+            "content": "सेलु¦ selu, <lex>m.</lex> = selu (<bot>Cordia Myxa</bot>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सेलु",
+            "eid": "252259",
+            "pagenum": 1247,
+            "content": "सेलु ¦ <lex>m.</lex> = शेलु, <bot>Cordia Myxa</bot>, <ls>Suśr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सेलु",
+            "eid": "252260",
+            "pagenum": 1247,
+            "content": "¦ a <ab>partic.</ab> high number (<ab>cf.</ab> सेल), <ls>Buddh.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सेलु",
+            "eid": "52672",
+            "pagenum": 1135,
+            "content": "सेलु¦ <i>selu, us,</i> m. the tree Cordia Myxa (see <i>śelu</i>); N. of a river."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सेलु",
+            "eid": "129283",
+            "pagenum": 7,
+            "content": "सेलु¦ <div n='1'>— 1〉 <lex>m.</lex> = शेलु <i><bot>Cordia Myxa</bot></i>. <div n='1'>— 2〉 *<i>eine <ab>best.</ab> hohe Zahl</i> (<ab>buddh.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सेलु",
+            "eid": "112652",
+            "pagenum": 7,
+            "content": "सेलु¦ <div n='1'> 1) <i>eine best. hohe Zahl</i> (bei den Buddhisten) <ls>Mél. asiat. 4, 639.</ls> Vgl. सेल . <div n='1'>— 2) = शेलु <ls>SUŚR. 1, 237, 21.</ls>"
+        }
     ]
 }

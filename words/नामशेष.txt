@@ -36,5 +36,35 @@
             "pagenum": 375,
             "content": "nAman-Seza¦ <i>a.</i> having only the name left, i.e. dead, deceased."
         }
+    ],
+    "MW": [
+        {
+            "word": "नामशेष",
+            "eid": "105804",
+            "pagenum": 536,
+            "content": "नाम—शेष ¦ <lex>mfn.</lex> having only the name left <ab>i.e.</ab> dead, <ls>Uttarar.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "नामशेष",
+            "eid": "105805",
+            "pagenum": 536,
+            "content": "नाम—शेष ¦ <lex>m.</lex> death, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नामशेष",
+            "eid": "57927",
+            "pagenum": 3,
+            "content": "नामशेष¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>von dem nur der Name übrig geblieben ist, gestorben, todt</i> <ls>UTTARAR. 28,16. 17</ls> (<ls n='Chr.'>37,19. 20</ls>). <div n='1'>— 2〉 *<lex>m.</lex> <i>der Name als einziges Ueberbleibsel, Tod</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नामशेष",
+            "eid": "38475",
+            "pagenum": 4,
+            "content": "नामशेष¦ (नामन् + शेष) <lex>adj.</lex> <i>von dem nur der Name übriggeblieben ist, gestorben, todt</i> <ls>H. 374.</ls> <lex>m.</lex> <i>der Name als einziges Ueberbleibsel, Tod</i> <ls>ŚKDR.</ls> <ls>WILS.</ls> <div n='v'>— Vgl. आलेख्यशेष, कीर्ति°, यशः° ."
+        }
     ]
 }

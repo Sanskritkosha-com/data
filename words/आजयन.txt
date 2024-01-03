@@ -7,5 +7,43 @@
             "pagenum": 230,
             "content": "आजयनं¦ <b>1</b> Conquering. <b>--2</b> A battle."
         }
+    ],
+    "MW": [
+        {
+            "word": "आजयन",
+            "eid": "23089",
+            "pagenum": 132,
+            "content": "आ-जयन <hom>a</hom> ¦ See <hom>2.</hom> आ-√ जि."
+        },
+        {
+            "word": "आजयन",
+            "eid": "23129",
+            "pagenum": 133,
+            "content": "आ-जयन <hom>b</hom> ¦ <lex>n.</lex> (only for the <ab>etym.</ab> of <hom>1.</hom> आजि/) ‘conquering’, <ls>Nir. ix, 23.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आजयन",
+            "eid": "8229",
+            "pagenum": 116,
+            "content": "<i>Ā-jayana, am,</i>¦ n. conquering."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आजयन",
+            "eid": "13865",
+            "pagenum": 1,
+            "content": "*आजयन¦ <lex>n.</lex> <ab>Nom.</ab> <ab>act.</ab> zur Erklärung von आजि."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आजयन",
+            "eid": "8113",
+            "pagenum": 1,
+            "content": "आजयन¦ nom. act. von जि mit आ <ls>NIR. 9, 23</ls> (zur Erklärung von आजि)."
+        }
     ]
 }

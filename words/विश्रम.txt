@@ -47,5 +47,43 @@
             "pagenum": 678,
             "content": "viSrama¦ <i>m.</i> 1. Rest, repose; 2. cessation, relaxation."
         }
+    ],
+    "MW": [
+        {
+            "word": "विश्रम",
+            "eid": "200854",
+            "pagenum": 991,
+            "content": "वि-श्रम ¦ <lex>m.</lex> rest, repose, quiet, relaxation, <ls>Kālid.</ls>; <ls>Śiś.</ls>; <ls>Vās.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विश्रम",
+            "eid": "200855",
+            "pagenum": 991,
+            "content": "¦ <ab>N.</ab> of a scribe, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विश्रम",
+            "eid": "44173",
+            "pagenum": 943,
+            "content": "<i>Vi-śrama, as,</i>¦ m. rest, repose, quiet; cessation from labour or fatigue, remission of work, relaxation; N. of a scribe."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विश्रम",
+            "eid": "104699",
+            "pagenum": 6,
+            "content": "विश्रम¦ <lex>m.</lex> <i>Ruhe, Erholung</i> <ls>ŚIŚ. 10,88</ls>. <ls>VĀSAV. 291,3</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विश्रम",
+            "eid": "93362",
+            "pagenum": 6,
+            "content": "विश्रम¦ (von श्रम् mit वि) <lex>m.</lex> = विश्राम <ls>VOP. 26, 170.</ls> <ls>BHARATA</ls> im <ls>DVIRŪPAK.</ls> nach <ls>ŚKDR.</ls> <i>Ruhe, Erholung</i>: (कुटुम्बी) पुत्रैरपहृतभरः कल्पते विश्रमाय <ls>VIKR. 42.</ls> अनुज्ञात° <lex>adj.</lex> <ls>ŚĀK. 32, 11, v. l.</ls> अविश्रमो ऽयं लोकतन्त्राधिकारः <ls n='ŚĀK.'>60, 19, v. l.</ls>"
+        }
     ]
 }

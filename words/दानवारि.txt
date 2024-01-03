@@ -28,5 +28,41 @@
             "pagenum": 330,
             "content": "dAnava-ari¦ <i>m.</i> 1. a god; 2. an epithet of Vishṇu."
         }
+    ],
+    "MW": [
+        {
+            "word": "दानवारि",
+            "eid": "91384",
+            "pagenum": 474,
+            "content": "dAnavA<srs/>ri ¦ <lex>m.</lex> <ab>id.</ab>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दानवारि",
+            "eid": "91385",
+            "pagenum": 474,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>R. ii</ls>, <ls n='R.'>iii, 9</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दानवारि",
+            "eid": "91386",
+            "pagenum": 474,
+            "content": "¦ <ab>pl.</ab> the gods, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दानवारि",
+            "eid": "49670",
+            "pagenum": 3,
+            "content": "दानवारि¦ <lex>m.</lex> <i>ein Feind der</i> <is>Dānava</is>. <div n='1'>— 1〉 <ab>Sg.</ab> <ab>Bein.</ab> <div n='2'>— a〉 <is>Indra</is>ʼs. <div n='2'>— b〉 <is>Śiva</is>ʼs. <div n='1'>— 2〉 <ab>Pl.</ab> *<i>die Götter</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दानवारि",
+            "eid": "32512",
+            "pagenum": 3,
+            "content": "दानवारि¦ (1. दानव + अरि) <lex>m.</lex> pl. <i>die Feinde der</i> <is>Dānava</is>, <i>die Götter</i> <ls>AK. 1, 1, 1, 4.</ls> <ls>H. 89.</ls> sg. Bein. <is>Indra's</is> <ls>R. GORR. 2, 111, 9.</ls> <is>Śiva's</is> <ls>ŚIV.</ls>"
+        }
     ]
 }

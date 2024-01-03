@@ -54,5 +54,57 @@
             "pagenum": 155,
             "content": "Elavila¦ <i>(II) n.</i> A kind of perfume."
         }
+    ],
+    "MW": [
+        {
+            "word": "ऐलविल",
+            "eid": "40539",
+            "pagenum": 234,
+            "content": "ऐलविल ¦ <lex>m.</lex> or ऐलविड (<ab>cf.</ab> ऐडविड) a descendant of <s1 slp1='ilavila'>Ilavila</s1>, <ab>N.</ab> of <s1 slp1='dilIpa'>Dilīpa</s1>, <ls>MBh. vii, 2263</ls><info lex='m'/>"
+        },
+        {
+            "word": "ऐलविल",
+            "eid": "40539.1",
+            "pagenum": 234,
+            "content": "¦ a descendant of <s1 slp1='ilavilA'>Ilavilā</s1>, <ab>N.</ab> of <s1 slp1='kuvera'>Kuvera</s1>, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Bālar.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ऐलविल",
+            "eid": "12912",
+            "pagenum": 188,
+            "content": "ऐलविल¦ <i>ailavila, as,</i> m., N. of Kuvera as son of Ilavilā; (also <i>aiḍavida, aiḍavila,</i>  and <i>ela-</i> <i>vila</i>); N. of a king."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "ऐलविल",
+            "eid": "2259",
+            "pagenum": 1,
+            "content": "<i>Ailavila</i>¦ — another name for Kubera. <div n='P'/>Br. III. 7. 331; Vā. 69. 216."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ऐलविल",
+            "eid": "22558",
+            "pagenum": 1,
+            "content": "ऐलविल¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Patron.</ab> <is>Dilīpa</is>ʼs. <div n='1'>— 2〉 <ab>Metron.</ab> <is>Kubera</is>ʼs <ls>BĀLAR. 119,10. 290,5</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ऐलविल",
+            "eid": "13724",
+            "pagenum": 1,
+            "content": "ऐलविल¦ <lex>m.</lex> ein N. <is>Kuvera's</is> <ls>AK. 1, 1, 1, 65.</ls> <ls>H. 189.</ls> <ls>HARIV. 10054.</ls> Wird als metron. von इलविला erklärt. Varianten: ऐडविड, ऐडविल, एलविल . — N. pr. eines Königs <ls>MBH. 12, 6195. fg.</ls>"
+        },
+        {
+            "word": "ऐलविल",
+            "eid": "69089",
+            "pagenum": 5,
+            "content": "ऐलविल¦ <is>KuveraH</is> (दिशम्) उत्तरां मातले धर्म्यां तथैलविलसंज्ञिताम् <ls>MBH. 5, 3611.</ls> अत्र कैलासमित्युक्तं स्थानमैलविलस्य तत् <ls n='MBH. 5,'>3840.</ls> patron. des <is>Dilīpa</is> <ls n='MBH.'>7, 2263.</ls>"
+        }
     ]
 }

@@ -15,5 +15,55 @@
             "pagenum": 500,
             "content": "सुतप्त¦ sehr heiß <i>o.</i> geglüht; stark gequält, gut gebüßt."
         }
+    ],
+    "MD": [
+        {
+            "word": "सुतप्त",
+            "eid": "19484",
+            "pagenum": 352,
+            "content": "सुतप्त¦ sú-tapta, <ab>pp.</ab> <ab>V.</ab>, <ab>C.</ab>: very hot; <ab>C.</ab>: 🞄strongly healed, purified (<i>gold</i>); greatly 🞄afflicted; well-performed (<i>penances</i>); <b>-tāra,</b> 🞄<lex>a.</lex> easy to <i>cross</i> (<ab>V.</ab>, <ab>C.</ab>); easy to pass (<i>night</i>, 🞄<ab>RV.</ab>); <b>-taraṇá,</b> <lex>a.</lex> easy to cross (<i>river</i>; <ab>RV.¹</ab>); 🞄<b>-tarām,</b> <lex>ad.</lex> still more; exceedingly, very; 🞄<ab>w.</ab> <b>na,</b> not very well; still less (<i>the negative</i> 🞄<ab>sts.</ab> <i>to be supplied</i>); <b>-tala,</b> <lex>n.</lex> <i>a certain hell</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सुतप्त",
+            "eid": "246381",
+            "pagenum": 1223,
+            "content": "सु/—तप्त ¦ (सु/-), <lex>mfn.</lex> very hot, much heated, <ls>ŚBr.</ls> &c. &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "सुतप्त",
+            "eid": "246381.1",
+            "pagenum": 1223,
+            "content": "¦ purified by heat (as gold), <ls>MBh.</ls> <pb n='1224,1'/><info lex='inh'/>"
+        },
+        {
+            "word": "सुतप्त",
+            "eid": "246381.2",
+            "pagenum": 1224,
+            "content": "¦ greatly harassed or afflicted, <ls>Hit.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुतप्त",
+            "eid": "246381.3",
+            "pagenum": 1224,
+            "content": "¦ very severe (as a penance), <ls>Mn. xi, 239</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुतप्त",
+            "eid": "126192",
+            "pagenum": 7,
+            "content": "सु/तप्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>sehr heiss</i> <ls>Spr. 6371</ls>. <div n='2'>— b〉 <i>stark geglüht, durch Glühen gereinigt</i> (Gold) <ls>VIṢṆUS. 99,1</ls>. हेममये कोशे सुतप्ते so <ab>v. a.</ab> सुतप्तहेममये कोशे. <div n='2'>— c〉 <i>dem stark zugesetzt worden ist</i> <ls>HIT. IV,51</ls>. <div n='2'>— d〉 <i>gut gebüsst</i>. तपस् <lex>m.</lex> <i>eine gut ausgeführte Kasteiung</i>. <div n='1'>— 2〉 *<lex>f.</lex> सुतप्ता <i><bot>Mucuna pruritus</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुतप्त",
+            "eid": "110159",
+            "pagenum": 7,
+            "content": "सु/तप्त¦ <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>sehr heiss</i> <ls>ŚAT. BR. 1, 2, 1, 13.</ls> <div n='2'>— b) <i>stark geglüht</i>: हेममये कोशे सुतप्ते so v. a. सुतप्तहेमये कोशे <ls>MBH. 4, 1339.</ls> <div n='2'>— c) <i>gut gebüsst</i>: तपस् <i>eine gut ausgeführte Kasteiung</i> <ls>M. 11, 239.</ls> <ls>MBH. 12, 13566.</ls> <ls>Spr. (II) 7281.</ls> <div n='1'>— 2) <lex>f.</lex> आ (<i>die brennende) Mucuna pruritus</i> <ls>RATNAM. 17.</ls>"
+        }
     ]
 }

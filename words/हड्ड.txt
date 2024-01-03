@@ -44,5 +44,37 @@
             "pagenum": 825,
             "content": "haqqa¦ <i>n.</i> A bone."
         }
+    ],
+    "MW": [
+        {
+            "word": "हड्ड",
+            "eid": "260279",
+            "pagenum": 1287,
+            "content": "हड्ड ¦ <lex>n.</lex> a bone, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हड्ड",
+            "eid": "53867",
+            "pagenum": 1164,
+            "content": "हड्ड¦ <i>haḍḍa, am,</i> n. a bone. <i>—Haḍḍa-ja, am,</i> n. produced from bones, marrow."
+        }
+    ],
+    "PW": [
+        {
+            "word": "हड्ड",
+            "eid": "133411",
+            "pagenum": 7,
+            "content": "*हड्ड¦ <lex>n.</lex> <i>Knochen</i> <ls>ZACH. Beitr. 56</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हड्ड",
+            "eid": "115954",
+            "pagenum": 7,
+            "content": "हड्ड¦ <lex>n.</lex> <i>Knochen</i> <ls>Schol.</ls> zu <ls>H. 626.</ls> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

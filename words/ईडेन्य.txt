@@ -21,5 +21,51 @@
             "pagenum": 1755,
             "content": "(<b>īḍénya</b>):¦<info vn='add 175a gra'/> <div n='TS'>-as 2〉 {355,9}."
         }
+    ],
+    "MD": [
+        {
+            "word": "ईडेन्य",
+            "eid": "4228",
+            "pagenum": 47,
+            "content": "ईडेन्य¦ īḍ-énya, ईळेन्य īḷ-énya, <ab>fp.</ab> to be implored, 🞄to be praised."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ईडेन्य",
+            "eid": "29728",
+            "pagenum": 170,
+            "content": "ईडे/न्य or ईळे/न्य or ई/ड्य, ¦ <lex>mfn.</lex> to be invoked or implored<info or='29728,Iqenya;29730,ILenya;29732,Iqya'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ईडेन्य",
+            "eid": "29729",
+            "pagenum": 170,
+            "content": "¦ to be praised or glorified, praiseworthy, laudable, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>Ragh.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ईडेन्य",
+            "eid": "10067",
+            "pagenum": 143,
+            "content": "<i>Īḍenya</i>¦ or <i>īḷenya</i> or <i>īḍya, as, ā, am,</i> Ved. to be invoked or implored, to be praised or glorified, praiseworthy, laudable."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ईडेन्य",
+            "eid": "17455",
+            "pagenum": 1,
+            "content": "ईडे/न्य, ईळे/निअ¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>anzuflehen um</i> (<ab>Dat.</ab>). <div n='1'>— 2〉 <i>zu preisen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ईडेन्य",
+            "eid": "10487",
+            "pagenum": 1,
+            "content": "ईडे/न्य¦, ईळेन्य (wie eben) <lex>adj.</lex> <i>anzurufen, anzuflehen, zu preisen</i>: ई\\ळेन्यो^ म\\हो अर्भा^य जी\\वसे^ <ls>ṚV. 1, 146, 5.</ls> <ls n='ṚV. 1,'>79, 5.</ls> ई\\ळेन्यो^ नम\\स्य^ः <ls n='ṚV.'>3, 27, 13.</ls> <ls n='ṚV.'>5, 14, 5.</ls> <ls n='ṚV.'>7, 2, 3.</ls> <ls n='ṚV. 7,'>9, 4.</ls> <ls n='ṚV.'>9, 5, 3.</ls> <ls n='ṚV.'>10, 46, 9.</ls> अ\\ग्निरी\\ळेन्यो^ गि\\रा <ls n='ṚV. 10,'>118, 3.</ls> <ls>VS. 28, 26.</ls> <ls>ŚAT. BR. 1, 4, 3, 5. 5, 2, 3.</ls>"
+        }
     ]
 }

@@ -52,5 +52,51 @@
             "pagenum": 66,
             "content": "arTanA¦ <i>f.</i> Request, begging, entreaty, <ls>Na.</ls>v.112."
         }
+    ],
+    "MD": [
+        {
+            "word": "अर्थना",
+            "eid": "2627",
+            "pagenum": 27,
+            "content": "अर्थना¦ arth-anā, <lex>f.</lex> prayer, request."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अर्थना",
+            "eid": "16058",
+            "pagenum": 91,
+            "content": "अर्थना ¦ <lex>f.</lex> request, entreaty, <ls>Kathās.</ls>; <ls>Naiṣ.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अर्थना",
+            "eid": "5902",
+            "pagenum": 84,
+            "content": "<i>Arthanā,</i>¦ f. request, begging, asking, entreaty."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अर्थना",
+            "eid": "9449",
+            "pagenum": 1,
+            "content": "अर्थना¦ <lex>f.</lex> <i>Bitte</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अर्थना",
+            "eid": "5896",
+            "pagenum": 1,
+            "content": "अर्थना¦ (von अर्थय्) <lex>f.</lex> <i>das Bitten</i> <ls>AK. 2, 7, 32.</ls> <ls n='AK.'>3, 3, 6.</ls> <ls n='AK. 3,'>4, 226.</ls> <ls>H. 388.</ls>"
+        },
+        {
+            "word": "अर्थना",
+            "eid": "65116",
+            "pagenum": 5,
+            "content": "अर्थना¦ <i>Bitte</i>: तदस्मदर्थनामेतां कुरुध्वम् <i>erfüllet diese unsere Bitte</i> <ls>KATHĀS. 73, 228.</ls> अर्थना मयि भवद्भिरिवास्यै (<i>in Betreff ihrer</i>) कर्तुमर्हति मयापि भवत्सु <ls>NAIṢ. 5, 112.</ls>"
+        }
     ]
 }

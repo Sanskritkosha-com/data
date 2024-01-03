@@ -23,5 +23,35 @@
             "pagenum": 350,
             "content": "dvi-sahasra¦ <i>a.</i> consisting of 2,000."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विसहस्र",
+            "eid": "98757",
+            "pagenum": 506,
+            "content": "द्वि—सहस्र ¦ <lex>mfn.</lex> worth 2000 <ls>Pāṇ. iv, 3, 156</ls>; <ls n='Pāṇ.'>v, 1, 29</ls>, <ls>Kāś.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विसहस्र",
+            "eid": "98758",
+            "pagenum": 506,
+            "content": "द्वि—सहस्र ¦ <lex>n.</lex> 2000, <ls n='Pāṇ.'>vi, 3, 47</ls>, <ab>Vārtt.</ab>, <ls>Pat.</ls> (<ab>cf.</ab> -षाह्° and -साह्°)<info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विसहस्र",
+            "eid": "54168",
+            "pagenum": 3,
+            "content": "द्विसहस्र¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>2000 werth</i> <ab>u. s. w.</ab> <div n='1'>— 2〉 <lex>n.</lex> <i>zwei Tausend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विसहस्र",
+            "eid": "35874",
+            "pagenum": 3,
+            "content": "द्विसहस्र¦ (द्वि + स°) <div n='1'> 1) <lex>n.</lex> 2000 <ls>P. 6, 3, 47</ls>, <is>Vārtt</is>., <ls>Sch.</ls> <div n='1'>— 2) <lex>adj.</lex> <i>2000 werth u.s.w.</i> <ls>P. 4, 3, 156</ls>, <ls>Sch. 5, 1, 29,</ls>  <ls>Sch.</ls>; vgl. द्विसा° ."
+        }
     ]
 }

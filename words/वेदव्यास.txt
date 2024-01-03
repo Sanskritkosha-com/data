@@ -36,5 +36,43 @@
             "pagenum": 690,
             "content": "veda-vyAsa¦ <i>m.</i> an epithet of Vyāsa as being the arranger of the Vedas, वेदव्यासः स नव दश यो वेद वेदाक्षराणि <ls>Venkaṭādhvari.</ls>"
         }
+    ],
+    "MW": [
+        {
+            "word": "वेदव्यास",
+            "eid": "205806",
+            "pagenum": 1016,
+            "content": "वेद—व्यास ¦ <lex>m.</lex> ‘arranger of the <ab n='Veda' slp1='veda'>V°</ab>’, <ab>N.</ab> of <s1 slp1='vyAsa'>Vyāsa</s1> or <s1 slp1='bAdarAyaRa'>Bādarāyaṇa</s1>, <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "वेदव्यास",
+            "eid": "13587",
+            "pagenum": 3,
+            "content": "<i>Vedavyāsa</i> (I)¦ — (Vyāsa) a sage; twenty-eight Vedavyāsas for twenty-eight dvāparas of the Vaivasvata epoch; Svayambhuva, Vedavyāsa, Uśanā, Bṛhaspati, Savitā, Mṛtyu, Indra, Vasiṣṭha, Sārasvata, Antarikṣa, Dharma, Traiyāruṇi, Dhanañjaya, Kṛtamjaya, Ṛjīṣa, Bharadvāja, Gautama, Uttama, Haryavana, Vena, Vājaśrava, Arvāk, Somamukhyāyana, Tṛṇabindu, Tataja, Śakti, Parāśara, Jātūkarṇa, and Dvaipāyana; in the future Dvāparadroṇi (more names are given);<sup>1</sup> son of Parāśara born in the 28th dvāpara; eighth human incarnation of Viṣṇu with Jātūkarṇi (ja) as purodha (purohita).<sup>2</sup> <F>1) Br. II. 33. 33; 35. 117-125.</F> <F>2) Ib. III. 73. 93; M. 47. 246; Vā. 98. 93.</F>"
+        },
+        {
+            "word": "वेदव्यास",
+            "eid": "13588",
+            "pagenum": 3,
+            "content": "<i>Vedavyāsa</i> (II)¦ — Kṛṣṇadvaipāyana; he who split the one Veda into four parts;<sup>1</sup> different Vedavyāsas are said to be compilers of the Veda in different Yugas.<sup>2</sup> <F>1) Vā. 1. 17, 179.</F> <F>2) Ib. 58. 11; 61. 104.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वेदव्यास",
+            "eid": "107157",
+            "pagenum": 6,
+            "content": "वेदव्यास¦ <lex>m.</lex> <i>der</i> <is>Veda</is>-<i>Diaskeuast</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वेदव्यास",
+            "eid": "95340",
+            "pagenum": 6,
+            "content": "वेदव्यास¦ <lex>m.</lex> <i>der</i> <is>Veda</is>-<i>Diaskeuast</i>, = व्यास <ls>TRIK. 2,7,19.</ls> <ls>H. 846.</ls> <ls>MBH. 1, 76.</ls> <ls n='MBH.'>13, 680.</ls> <ls n='MBH. 13,'>1337.</ls> <ls>HARIV. 2364.</ls> <ls>VARĀH. BṚH. S. 46,12.</ls> <ls>Verz. d. B. H. 13,5. 9. No. 392 (S. 104). 804. 1343.</ls> <ls>Verz. d. Oxf. H. 3,a, No. 24. 9,b,14.</ls> <ls>VP. 272.</ls> <ls>Ind. St. 1,468. fg. 3,396.</ls> <ls>PAÑCAR. 2,1,15. 3,1,9.</ls>"
+        }
     ]
 }

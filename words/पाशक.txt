@@ -28,5 +28,49 @@
             "pagenum": 435,
             "content": "pASaka¦ <i>m.</i> A die, dice."
         }
+    ],
+    "MW": [
+        {
+            "word": "पाशक",
+            "eid": "123346",
+            "pagenum": 623,
+            "content": "पाशक ¦ <lex>m.</lex> a snare, trap, noose (<ab>ifc.</ab>; <ab>cf.</ab> कण्ठ-, दण्ड-)<info lex='m'/>"
+        },
+        {
+            "word": "पाशक",
+            "eid": "123347",
+            "pagenum": 623,
+            "content": "¦ a die, <ls>HPariś.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पाशक",
+            "eid": "29119",
+            "pagenum": 571,
+            "content": "<i>Pāśaka, as,</i>¦ m. (at the end of a comp.) <i>= pāśa,</i> a snare, trap, &c. [cf. <i>kaṇṭha-p°, daṇḍa-p°</i>]; a die (particularly the long sort used in playing Chaupai). <i>—Pāśaka-kevalī,</i> f., N. of a work. <i>—Pā-</i> <i>śaka-pīṭha, am,</i> n. a gaming-table."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पाशक",
+            "eid": "66628",
+            "pagenum": 4,
+            "content": "पाशक¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 = पाश 1〉. <div n='2'>— b〉 <i>Würfel</i> <ls>HEM. PAR. 8,355</ls>. <div n='1'>— 2〉 <lex>f.</lex> °शिका <i>ein Riemen am Pfluge</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पाशक",
+            "eid": "44976",
+            "pagenum": 4,
+            "content": "पाशक¦ <div n='1'> 1) am Ende eines comp. von पाश <i>Schlinge</i>; s. कण्ठ° (vgl. u. कलाप), दण्ड°, पशु° . <div n='1'>— 2) <lex>m.</lex> <i>Würfel</i> <ls>AK. 2, 10, 45.</ls> <ls>H. 486.</ls>"
+        },
+        {
+            "word": "पाशक",
+            "eid": "78564",
+            "pagenum": 5,
+            "content": "पाशक¦ <div n='1'> 1) वलीवलय° <i>Schlinge</i> <ls>KATHĀS. 123, 61.</ls>"
+        }
     ]
 }

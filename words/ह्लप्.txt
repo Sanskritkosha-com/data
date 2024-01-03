@@ -31,5 +31,37 @@
             "pagenum": 759,
             "content": "*ह्लप्¦ <i>hlap,</i> <ab>cf.</ab> <i>hrap.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "ह्लप्",
+            "eid": "264825",
+            "pagenum": 1307,
+            "content": "ह्लप् ¦ (<ab>v.l.</ab> ह्रप्) <ab>cl.</ab> 10. <ab>P.</ab> ह्लापयति, to speak, <ls>Dhātup. xxxii, 115</ls>; <div n='to'/>to sound, creak, <ls>ib.</ls><info westergaard='hlapa,32.115,10.0106'/><info verb='root' cp='10P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ह्लप्",
+            "eid": "54508",
+            "pagenum": 1180,
+            "content": "ह्लप्¦ <i>hlap</i> (also written <i>hrap;</i> cf. rt. <i>klap</i>), cl. 10. P. <i>hlāpayati,</i> &c., to speak; to sound, creak."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ह्लप्",
+            "eid": "135752",
+            "pagenum": 7,
+            "content": "*√ह्लप्¦, ह्लापयति (व्यक्तायां oder अव्यक्तायां वाचि)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ह्लप्",
+            "eid": "117895",
+            "pagenum": 7,
+            "content": "ह्लप्¦, ह्लाप/यति (व्यक्तायां oder अव्यक्तायां वाचि) <ls>DHĀTUP. 32, 115.</ls> <div n='v'>— Vgl. ह्रप् ."
+        }
     ]
 }

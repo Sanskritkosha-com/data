@@ -51,5 +51,55 @@
             "pagenum": 285,
             "content": "jam¦ <i>vt. 1P (pres. जमति)</i> To eat."
         }
+    ],
+    "MW": [
+        {
+            "word": "जम्",
+            "eid": "77251",
+            "pagenum": 412,
+            "content": "<hom>1.</hom> जम् ¦ ज्मा, ज्म/स्. See <hom>2.</hom> क्ष/म्."
+        },
+        {
+            "word": "जम्",
+            "eid": "77252",
+            "pagenum": 412,
+            "content": "<hom>2.</hom> जम् ¦ (derived <ab>fr.</ab> जम/द्-अग्नि) <ab>cl.</ab> 1. ज/मति, to go, <ls>Naigh. ii, 14</ls>; <ls>Nir. iii, 6</ls>; <div n='to'/>to eat, <ls>Dhātup. xiii, 28</ls> : <div n='vp'/><ab>Intens.</ab> <ab>p.</ab> जाजमत् consuming continually, <ls>MBh. xiii, 4495.</ls><info westergaard='jamu,13.28,01.0309'/><info whitneyroots='jam,52'/><info verb='root' cp='1'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जम्",
+            "eid": "19330",
+            "pagenum": 339,
+            "content": "जम् 1¦. <i>jam,</i> cl. 1. P. <i>jamati, jajāma,</i> <i>jamitum,</i> to eat, consume; to go (?); to blaze (?); [cf. Hib. <nsi>diamanu,</nsi> ‘food, sustenance;’ <nsi>gion,</nsi> ‘the mouth:’ Old Germ. <nsi>gouma, kouma,</nsi> ‘food;’ <nsi>gaumo,</nsi> ‘the palate:’ Mod. Germ. <nsi>Gaumen.</nsi>]"
+        },
+        {
+            "word": "जम्",
+            "eid": "19333",
+            "pagenum": 339,
+            "content": "जम् 2¦. <i>jam,</i> Ved. (used in Inst. <i>jmā</i> and Abl. Gen. <i>jmas</i>), the earth; <i>jmā,</i> on earth; [cf. <i>gam</i> and <i>kṣam.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जम्",
+            "eid": "41700",
+            "pagenum": 2,
+            "content": "√जम्¦, *ज/मति = गतिकर्मन् und अदने, जम/न्त् = ज्वलन्त्. <ab>Intens.</ab> जाजमत् <i>beständig verzehrend</i>. Nur in Etymologien von जमदग्नि."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जम्",
+            "eid": "26655",
+            "pagenum": 3,
+            "content": "1. जम्¦, ज/मति = गम् <ls>NAIGH. 2, 14.</ls> <ls>NIR. 3, 6.</ls> <i>essen, verzehren</i> <ls>DHĀTUP. 13, 28.</ls> जम/त् (aus जमदग्नि entnommen) <i>lodernd</i> <ls>NAIGH. 1, 17.</ls> जाजमत् <ls>MBH. 13, 4495</ls> gleichfalls zur Erkl. von जमदग्नि .  <div n='p'>— प्र in प्रजमिताग्नयो वा प्रज्वलिताग्नयो वा zur Erkl. von जमदग्नयः <ls>NIR. 7, 24.</ls>"
+        },
+        {
+            "word": "जम्",
+            "eid": "26656",
+            "pagenum": 3,
+            "content": "2. जम्¦ (vgl. 2. गम्, 2. क्षम्), instr. ज्मा, abl. gen. ज्मस् . <i>Erde</i>; ज्मा <i>auf Erden</i> <ls>NAIGH. 1, 1.</ls> ये के च\\ ज्मा म\\हिनो\\ अहि^माया दि\\वो ज^ज्ञि\\रे अ\\पां स\\धस्थे^ <ls>ṚV. 6, 52, 15.</ls> अध\\ ज्मो अध^ वा दि\\वः <ls>ṚV. 8, 1, 18.</ls> अबो^ध्य\\ग्निर्ज्म उदे^ति\\ सूर्य^ः <ls n='ṚV.'>1, 157, 1.</ls> यस्त\\स्तम्भ\\ सह^सा\\ वि ज्मो अन्ता^न् <ls n='ṚV.'>4, 50, 1.</ls> <ls n='ṚV.'>6, 62, 1.</ls> <ls n='ṚV.'>10, 89, 1.</ls> <ls n='ṚV. 10, 89,'>11.</ls>"
+        }
     ]
 }

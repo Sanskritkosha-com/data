@@ -31,5 +31,41 @@
             "pagenum": 168,
             "content": "<b>daśāhá,</b>¦ <i><ab>m.</ab></i> space of ten days. [<b>dáśa +</b> <b>2 áha,</b> <ls n='wg,1312'>1312<sup>4</sup></ls>.]"
         }
+    ],
+    "MW": [
+        {
+            "word": "दशाह",
+            "eid": "91042",
+            "pagenum": 472,
+            "content": "daSA<srs/>ha ¦ <lex>m.</lex> 10 days, <ls>ŚBr. xiii</ls>; <ls>ĀśvGṛ.</ls>; <ls>Mn.</ls>; <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दशाह",
+            "eid": "91043",
+            "pagenum": 472,
+            "content": "¦ a ceremony lasting 10 days, <ls>KātyŚr. xxiii</ls>; <ls>Lāṭy. x, 10.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दशाह",
+            "eid": "49452",
+            "pagenum": 3,
+            "content": "दशाह/¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein Zeitraum von 10 Tagen</i>. <div n='1'>— 2〉 <i>eine <ab>best.</ab> zehntägige liturgische Ceremonie</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दशाह",
+            "eid": "32345",
+            "pagenum": 3,
+            "content": "1. दशाह/¦ (दशन् + अह) <lex>m.</lex> <i>ein Zeitraum von zehn Tagen</i> <ls>ŚAT. BR. 13, 4, 3, 15.</ls> <ls>ĀŚV. GṚHY. 4, 4.</ls> <ls>M. 5, 59. 76. 83. 102. 8, 223.</ls>  <ls>R. GORR. 2, 85, 26.</ls> <ls n='R. GORR. 2,'>86, 1.</ls> अन्तर्दशाहे <ls>M. 5, 76.</ls> अन्तर्दशाहात् <ls n='M.'>8, 222.</ls> <div n='v'>— Vgl. अनिर्दशाह ."
+        },
+        {
+            "word": "दशाह",
+            "eid": "32346",
+            "pagenum": 3,
+            "content": "2. दशाह¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>zehntägig.</i> <div n='1'>— 2) <lex>m.</lex> <i>eine best. liturgische Cerimonie</i> (vgl. दशरात्र) <ls>KĀTY. ŚR. 23, 5, 27.</ls> <ls>LĀṬY. 10, 10, 1.</ls>"
+        }
     ]
 }

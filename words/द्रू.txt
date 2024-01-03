@@ -75,5 +75,83 @@
             "pagenum": 349,
             "content": "drU¦ <i>m.</i> Gold."
         }
+    ],
+    "MD": [
+        {
+            "word": "द्रू",
+            "eid": "9765",
+            "pagenum": 127,
+            "content": "द्रू¦ DRŪ, <cl>Ⅸ.</cl> <lex>P.</lex> (<ab>V.</ab>) <b>drū-ṇā,</b> hurl, cast."
+        }
+    ],
+    "MW": [
+        {
+            "word": "द्रू",
+            "eid": "97987",
+            "pagenum": 502,
+            "content": "<hom>1.</hom> द्रू ¦ <ab>cl.</ab> 9. <ab>P.</ab> द्रूणाति, to hurl, throw, <ls>MaitrS.</ls> (<ab>v.l.</ab> द्रुण्°); <div n='to'/> <ab>cl.</ab> 5. <ab>P.</ab> द्रूणोति, to kill or to go, <ls>Dhātup. xxvii, 33</ls> (<ab>v.l.</ab>)<info westergaard='dru,27.33,05.0030'/><info whitneyroots='drU,80'/><info verb='root' cp='9P,5P'/>"
+        },
+        {
+            "word": "द्रू",
+            "eid": "97988",
+            "pagenum": 502,
+            "content": "<hom>2.</hom> द्रू ¦ <lex>mfn.</lex> taking any shape at will, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्रू",
+            "eid": "97989",
+            "pagenum": 502,
+            "content": "द्रू ¦ <lex>f.</lex> (?) gold, <ls>Uṇ. ii, 57.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "द्रू",
+            "eid": "23050",
+            "pagenum": 441,
+            "content": "द्रू 1¦. <i>drū,</i> cl. 9. P. <i>drūṇāti,</i> &c., to raise the arm or hand in order to strike, &c.; cl. 5. P. <i>drūṇoti,</i> &c., to hurt, injure, wound, kill; to go, move."
+        },
+        {
+            "word": "द्रू",
+            "eid": "23051",
+            "pagenum": 441,
+            "content": "द्रू 2¦. <i>drū, ūs,</i> m. f. ? (said to be fr. rt. 2. <i>dru</i>), gold; taking any shape at will."
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्रू",
+            "eid": "53526",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> द्रू¦ <div n='1'>— 1〉 द्रूणाति <i>schleudern, hinwerfen</i> (वधे) न/हैनं द्रूणाति (सुरा) <ls>MAITR. S. 2,4,2</ls>. द्रूणान/. <div n='1'>— 2〉 *द्रूणेति (वधे, गतौ)."
+        },
+        {
+            "word": "द्रू",
+            "eid": "53527",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *द्रू¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>nach Belieben eine Gestalt annehmend</i>. <div n='1'>— 2〉 <i>Gold</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्रू",
+            "eid": "35423",
+            "pagenum": 3,
+            "content": "1. द्रू¦, द्रूणाति <ls>NAIGH. 2, 19.</ls> etwa <i>ausholen</i> (zum Schlag, Wurf) oder <i>treffen</i>: तृ\\ष्वीमनु\\ प्रसि^तिं द्रूणा\\नो ऽस्ता^सि\\ विध्य^ र\\क्षस\\स्तपि^ष्ठैः <ls>ṚV. 4, 4, 1.</ls> द्रू, द्रूणोति = वध und गति <ls>DHĀTUP. 27, 33, v. l.</ls>"
+        },
+        {
+            "word": "द्रू",
+            "eid": "35424",
+            "pagenum": 3,
+            "content": "2. द्रू¦ <ls>UṆĀDIS. 2, 57.</ls> <ls>VOP. 26, 71.</ls> <div n='1'> 1) <i>Gold</i> <ls>UJJVAL.</ls> <ls>H. an. 1, 12.</ls> <div n='1'>— 2) <i>nach Belieben eine Gestalt annehmend</i> (कामरूपिन्) <ls>H. an.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "द्रू",
+            "eid": "18360",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> द्रू¦ III. 1〉 द्रुणाति <ls>MAITR. S. 3,7,3 (78,3)</ls>. So auch <ab>v. l.</ab> zu <ls n='MAITR. S.'>2,4,2 (40,2)</ls>."
+        }
     ]
 }

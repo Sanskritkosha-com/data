@@ -23,5 +23,35 @@
             "pagenum": 322,
             "content": "dakziRA-pravaRa¦ <i>a.</i> inclining to the south."
         }
+    ],
+    "MW": [
+        {
+            "word": "दक्षिणाप्रवण",
+            "eid": "89435.3",
+            "pagenum": 1328,
+            "content": "दक्षिणा/—प्रवण <hom>a</hom> ¦ <lex>mfn.</lex> sloping down southwards, <ls>Hir.</ls><info n='sup'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "दक्षिणाप्रवण",
+            "eid": "89497",
+            "pagenum": 466,
+            "content": "दक्षिणा/—प्रवण <hom>b</hom> ¦ (°णा/), <lex>mf(आ)n.</lex> sloping southwards, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>ĀśvGṛ.</ls>; <ls>MānGṛ. ii, 11</ls>; <ls>Mn. iii</ls>; <ls>Yājñ.</ls><info lex='m:f#A:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दक्षिणाप्रवण",
+            "eid": "48481",
+            "pagenum": 3,
+            "content": "दक्षिणा/प्रवण¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>nach Süden abfallend</i> (Ort) <ls>MĀN. GṚHY. 2,11</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दक्षिणाप्रवण",
+            "eid": "31653",
+            "pagenum": 3,
+            "content": "दक्षिणा/प्रवण¦ (द° adv. + प्र°) <lex>adj.</lex> <i>nach Süden abfallend</i>, von einem Orte <ls>ŚAT. BR. 1, 2, 5, 17. 13, 8, 1, 7. 8.</ls> <ls>ĀŚV. GṚHY. 2, 5. 7. 4, 1.</ls> <ls>KĀTY. ŚR. 22, 3, 6.</ls> <ls>M. 3, 206.</ls> <ls>YĀJÑ. 1, 227.</ls>"
+        }
     ]
 }

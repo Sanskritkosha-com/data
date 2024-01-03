@@ -7,5 +7,41 @@
             "pagenum": 821,
             "content": "svayam-ukti¦ <i>f.</i> 1. voluntary declaration; 2. information, deposition (in law)."
         }
+    ],
+    "MW": [
+        {
+            "word": "स्वयमुक्ति",
+            "eid": "258601",
+            "pagenum": 1278,
+            "content": "स्वयम्—उक्ति ¦ <lex>m.</lex> a deponent or witness who volunteers to give evidence in a lawsuit, <ls>Nār.</ls><info lex='m'/>"
+        },
+        {
+            "word": "स्वयमुक्ति",
+            "eid": "258602",
+            "pagenum": 1278,
+            "content": "स्वयम्—उक्ति ¦ <lex>f.</lex> voluntary declaration or information, <ls>W.</ls><info lex='f'/>"
+        },
+        {
+            "word": "स्वयमुक्ति",
+            "eid": "258603",
+            "pagenum": 1278,
+            "content": "¦ (in law) voluntary testimony or evidence, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्वयमुक्ति",
+            "eid": "132363",
+            "pagenum": 7,
+            "content": "स्वयमुक्ति¦ <lex>m.</lex> <i>ein Angeber, der unaufgefordert als Zeuge gegen Jmd in einem Rechtshandel auftritt,</i> <ls>NĀR. 2,1,157 (S. 93)</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्वयमुक्ति",
+            "eid": "115121",
+            "pagenum": 7,
+            "content": "स्वयमुक्ति¦ <lex>f.</lex> <i>eigene Aussage</i> <ls>WILSON.</ls>"
+        }
     ]
 }

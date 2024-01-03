@@ -7,5 +7,49 @@
             "pagenum": 382,
             "content": "nir-akza¦ <i>m.</i> the place of no latitude (in astronomy)."
         }
+    ],
+    "MW": [
+        {
+            "word": "निरक्ष",
+            "eid": "106501",
+            "pagenum": 539,
+            "content": "निर्—अक्ष ¦ <lex>mfn.</lex> having no dice, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "निरक्ष",
+            "eid": "106502",
+            "pagenum": 539,
+            "content": "¦ having no latitude, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "निरक्ष",
+            "eid": "106503",
+            "pagenum": 539,
+            "content": "निर्—अक्ष ¦ <lex>m.</lex> the place of no <ab n='latitude'>l°</ab> <ab>i.e.</ab> the terrestrial equator, <ls>Sūryas.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "निरक्ष",
+            "eid": "24916",
+            "pagenum": 491,
+            "content": "निरक्ष¦ <i>nir-akṣa, as, ā, am,</i> having no dice; having no latitude; (<i>as</i>), m. (in astronomy) the place of no latitude, i. e. the terrestrial equator. <i>—Nirakṣa-deśa, as,</i> m. a first meridian, as Laṅkā; a place where the sun is always vertical and the days and nights are equal; the equatorial region."
+        }
+    ],
+    "PW": [
+        {
+            "word": "निरक्ष",
+            "eid": "58850",
+            "pagenum": 3,
+            "content": "निरक्ष¦ <i>Aequator (keine Breite habend)</i>. °देश <lex>m.</lex> <i>Aequatorial-Gegend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "निरक्ष",
+            "eid": "39128",
+            "pagenum": 4,
+            "content": "निरक्ष¦ (निस् + अक्ष) <lex>adj.</lex> <i>keine Breite habend</i>; subst. <i>Aequator</i> <ls>SŪRYAS. 12, 72.</ls> °देश <i>Aequatorial-Gegend</i> <ls n='SŪRYAS.'>43.</ls>"
+        }
     ]
 }

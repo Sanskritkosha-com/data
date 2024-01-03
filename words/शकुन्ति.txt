@@ -44,5 +44,45 @@
             "pagenum": 1370,
             "content": "<b>śakúnti,</b>¦ <ab>m.</ab>, <ab>dass.</ab> <div n='TS'>-e {233,3}. <div n='TS'>-ayas {234,1}."
         }
+    ],
+    "MD": [
+        {
+            "word": "शकुन्ति",
+            "eid": "17423",
+            "pagenum": 305,
+            "content": "शकुन्ति¦ śakúnti, <lex>m.</lex> bird."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शकुन्ति",
+            "eid": "211386",
+            "pagenum": 1046,
+            "content": "शकु/न्ति ¦ <lex>m.</lex> a bird, <ls>RV.</ls>; <ls>Kāv.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शकुन्ति",
+            "eid": "46000",
+            "pagenum": 987,
+            "content": "<i>Śakunti, is,</i>¦ m. a bird (in general); a kind of bird, (see <i>śakunta.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शकुन्ति",
+            "eid": "109309",
+            "pagenum": 6,
+            "content": "शकु/न्ति¦ <lex>m.</lex> <i>Vogel</i> <ls>BĀLAR. 175,13</ls>. <ls>ŚIŚ. 19,113</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शकुन्ति",
+            "eid": "97083",
+            "pagenum": 7,
+            "content": "शकु/न्ति¦ <ls>UṆĀDIS. 3, 49.</ls> m. = शकुन <div n='1'> 1) <div n='2'> a) <ls>AK. 2, 5, 32.</ls> <ls>H. 1316.</ls> <ls>HALĀY. 2, 82.</ls> <ls>ṚV. 2, 42, 3.</ls> <ls n='ṚV. 2,'>43, 1.</ls> <ls>Spr. (II) 2309, v. l.</ls> <ls>UTTARAR. 53, 14 (69, 6).</ls>"
+        }
     ]
 }

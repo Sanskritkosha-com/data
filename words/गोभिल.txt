@@ -35,5 +35,65 @@
             "pagenum": 112,
             "content": "गोभिल¦ <i>m. N. eines Schriftstellers.</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "गोभिल",
+            "eid": "7133",
+            "pagenum": 87,
+            "content": "गोभिल¦ gobhila, <lex>m.</lex> <ab>N.</ab> <i>of a writer of sūtras</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गोभिल",
+            "eid": "67982",
+            "pagenum": 368,
+            "content": "गोभिल ¦ <lex>m.</lex> <ab>N.</ab> of the author of <ls>Puṣpas.</ls> and of the <s1 slp1='gfhya-sUtra'>Gṛhya-sūtra</s1> of the <ls>SV.</ls> (said to have also composed a <s1 slp1='SrOta-sUtra'>Śrauta-sūtra</s1> and a <s1 slp1='nEgeya-sUtra'>Naigeya-sūtra</s1>)<info lex='m'/>"
+        },
+        {
+            "word": "गोभिल",
+            "eid": "67983",
+            "pagenum": 368,
+            "content": "¦ <ab>pl.</ab> <ab>N.</ab> of a family, <ls>Pravar. v, 4</ls> (<ab>v.l.</ab> गो-बिद). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गोभिल",
+            "eid": "17684",
+            "pagenum": 300,
+            "content": "गोभिल¦ <i>gobhila, as,</i> m., N. of an author of certain Gṛhya-sūtras and of grammatical Sūtras."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "गोभिल",
+            "eid": "4342",
+            "pagenum": 1,
+            "content": "<i>Gobhila</i> (I)¦ — a Pravara sage. <div n='P'/>M. 199. 16."
+        },
+        {
+            "word": "गोभिल",
+            "eid": "4343",
+            "pagenum": 1,
+            "content": "<i>Gobhila</i> (II)¦ — a ṛtvik at the yajña of Brahmā. <div n='P'/>Vā. 106. 37."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोभिल",
+            "eid": "36771",
+            "pagenum": 2,
+            "content": "गोभिल¦ <lex>m.</lex> <ab>N. pr.</ab> eines Verfassers von <is>Sūtra</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोभिल",
+            "eid": "23251",
+            "pagenum": 2,
+            "content": "गोभिल¦ <lex>m.</lex> N. pr. eines Verfassers von liturgischen und grammatischen <is>Sūtra</is> <ls>KĀTY.</ls> <ls>KARMAPRAD. 1, 1, 1. 2, 8, 24.</ls> <ls>GṚHYASAṂGR. 1, 18. 2, 103.</ls> <ls>Verz. d. B. H. No. 305. 318. fgg.</ls> <ls>PRAVARĀDHY. ebend. S. 58.</ls> <ls>WEBER, Lit. 80. 81.</ls> <ls>COLEBR. Misc. Ess. II, 8.</ls>"
+        }
     ]
 }

@@ -65,5 +65,99 @@
             "pagenum": 241,
             "content": "gAya¦ <i>m.</i> Singing, a song, <ls>Yaj.</ls>iii.112."
         }
+    ],
+    "MD": [
+        {
+            "word": "गाय",
+            "eid": "6940",
+            "pagenum": 84,
+            "content": "गाय¦ gā-ya, 〈1.〉 <lex>a.</lex> striding; 〈2.〉 <lex>m.</lex> song; 〈3.〉 <lex>a.</lex> 🞄relating to Gaya."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गाय",
+            "eid": "64544",
+            "pagenum": 352,
+            "content": "<hom>1.</hom> गाय ¦ See उरु-ग्°."
+        },
+        {
+            "word": "गाय",
+            "eid": "64608",
+            "pagenum": 352,
+            "content": "<hom>2.</hom> गाय ¦ <lex>n.</lex> ‘a song’, see उत्तम-, साम-.<info lex='n'/>"
+        },
+        {
+            "word": "गाय",
+            "eid": "64860",
+            "pagenum": 354,
+            "content": "<hom>1.</hom> and <hom>2.</hom> <hom>a</hom>. ¦ See √ <hom>1.</hom> गा and <hom>3.</hom> गा."
+        },
+        {
+            "word": "गाय",
+            "eid": "64861",
+            "pagenum": 354,
+            "content": "<hom>3.</hom> गाय, ¦ <lex>mfn.</lex> relating to <s1 slp1='gaya'>Gaya</s1>, <ls>AitBr. v, 2, 12.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गाय",
+            "eid": "17264",
+            "pagenum": 287,
+            "content": "1. <i>gāya, as, ā, am,</i>¦ going, striding; (<i>am</i>), n. going, motion; [cf. <i>uru-gāya.</i>]"
+        },
+        {
+            "word": "गाय",
+            "eid": "17328",
+            "pagenum": 288,
+            "content": "गाय 2¦. <i>gāya, as, ī, am</i> (fr. <i>gaya</i>), relating to Gaya, coming from him, &c. (For 1. <i>gāya</i> see under 1. <i>gā.</i>)"
+        },
+        {
+            "word": "गाय",
+            "eid": "17329",
+            "pagenum": 288,
+            "content": "गाय 3¦. <i>gāya, am,</i> n. (fr. rt. <i>gai</i>), a song."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गाय",
+            "eid": "35310",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> गाय¦ <lex>Adj.</lex> <i>schreitend</i> in उरु°."
+        },
+        {
+            "word": "गाय",
+            "eid": "35311",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> गाय¦ <lex>m.</lex> <i>Gesang</i>. <ab>Vgl.</ab> उत्तम°."
+        },
+        {
+            "word": "गाय",
+            "eid": "35312",
+            "pagenum": 2,
+            "content": "<hom>3.</hom> गाय¦ <lex>Adj.</lex> zu <is>Gaya</is> in <i>Beziehung stehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गाय",
+            "eid": "22283",
+            "pagenum": 2,
+            "content": "1. गाय¦ (von 1. गा) <lex>adj.</lex> <i>gehend, schreitend</i> oder <lex>n.</lex> <i>Gang, Bewegung</i> in उरुगाय (s. d.) und उत्तमगाय (<ls>BHĀG. P. 4, 12, 21</ls>), welches als Bein. von <is>Viṣṇu</is> wohl = उरुगाय ist. <ls>BURNOUF</ls> übersetzt: <i>le Dieu dont la gloire est exellente</i>, führt also गाय auf गा <i>singen</i> zurück. गाय in उरुगाय fasst BURNOUF auf ähnliche Weise auf, z. B. <ls n='BHĀG. P.'>2, 3, 20</ls> : <i>dont le nom est chanté au loin.</i>"
+        },
+        {
+            "word": "गाय",
+            "eid": "22284",
+            "pagenum": 2,
+            "content": "2. गाय¦ (von 2. गा) <lex>n.</lex> <i>Gesang</i>: पठन्सामगायमविच्युतम् <ls>YĀJÑ. 3, 112.</ls>"
+        },
+        {
+            "word": "गाय",
+            "eid": "22285",
+            "pagenum": 2,
+            "content": "3. गाय¦ (von गय) <lex>adj.</lex> <i>auf</i> <is>Gaya</is> <i>bezüglich, von ihm herrührend u.s.w.</i> <ls>AIT. BR. 5, 2.</ls>"
+        }
     ]
 }

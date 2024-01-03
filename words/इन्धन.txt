@@ -60,5 +60,65 @@
             "pagenum": 118,
             "content": "inDana¦ <i>n.</i> 1. Fuel; 2. kindling."
         }
+    ],
+    "MD": [
+        {
+            "word": "इन्धन",
+            "eid": "4149",
+            "pagenum": 46,
+            "content": "इन्धन¦ indh-ana, <lex>n.</lex> kindling; fuel: <b>-vat,</b> <lex>a.</lex> 🞄supplied with fuel."
+        }
+    ],
+    "MW": [
+        {
+            "word": "इन्धन",
+            "eid": "29286",
+            "pagenum": 167,
+            "content": "इन्धन ¦ <lex>n.</lex> kindling, lighting, [<ab>cf.</ab> agnI<srs/>nDana]<info lex='n'/>"
+        },
+        {
+            "word": "इन्धन",
+            "eid": "29287",
+            "pagenum": 167,
+            "content": "¦ fuel<info lex='inh'/>"
+        },
+        {
+            "word": "इन्धन",
+            "eid": "29288",
+            "pagenum": 167,
+            "content": "¦ wood, grass &c. used for this purpose, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>R.</ls>; <ls>Yājñ.</ls>; <ls>Śiś.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "इन्धन",
+            "eid": "9937",
+            "pagenum": 141,
+            "content": "<i>Indhana, am,</i>¦ n. kindling, lighting; [cf. <i>agnīn-</i> <i>dhana</i>]; fuel; wood, grass &c. used for this purpose. <i>—Indhana-vat, ān, atī, at,</i> possessed of fuel. <i>—Indhan-van, ā, ā, a,</i> Ved. possessed of fuel; flaming."
+        }
+    ],
+    "PW": [
+        {
+            "word": "इन्धन",
+            "eid": "17169",
+            "pagenum": 1,
+            "content": "इन्धन¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Anzünden, Entflammen,</i> in अग्निन्धन <div n='1'>— 2〉 <i>Brennstoff, Brennholz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इन्धन",
+            "eid": "10279",
+            "pagenum": 1,
+            "content": "इन्धन¦ (wie eben) <lex>n.</lex> <div n='1'> 1) <i>das Anzünden, Entflammen</i>; s. अग्नीन्धन . <div n='1'>— 2) <i>Brennstoff, Brennholz</i> <ls>AK. 2, 4, 1, 13.</ls> <ls>H. 827.</ls> <ls>ŚVETĀŚV. UP. 1, 13.</ls> <ls>NIR. 7, 23.</ls> <ls>M. 7, 118. 195. 8, 112. 11, 64.</ls> <ls>YĀJÑ. 3, 240.</ls> <ls>N. 13, 2.</ls> <ls>MBH. 1, 2000.</ls> <ls n='MBH.'>3, 17403.</ls> <ls>R. 3, 13, 13.</ls> <ls n='R.'>5, 49, 6.</ls> <ls>SUŚR. 1, 122, 7.</ls> इन्धनैर्गोमयाभिमिश्रैरादीपयेत् <ls n='SUŚR.'>2, 75, 13.</ls> <ls n='SUŚR. 2,'>405, 3.</ls> <ls>BHARTṚ. 1, 90. 2, 98.</ls> <ls>PAÑCAT. I, 369.</ls> <ls>ŚĀK. 158.</ls> <ls>RAGH. 11, 21.</ls> <ls>AMAR. 98.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "इन्धन",
+            "eid": "14585",
+            "pagenum": 7,
+            "content": "इन्धन¦ I. 2〉 <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>CAṆḌAK. 31,10</ls>. <ls>JĀTAKAM. 28,59</ls>."
+        }
     ]
 }

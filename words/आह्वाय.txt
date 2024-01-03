@@ -15,5 +15,43 @@
             "pagenum": 115,
             "content": "AhvAya¦ <i>m.</i> 1. A summons; 2. a name."
         }
+    ],
+    "MW": [
+        {
+            "word": "आह्वाय",
+            "eid": "28528",
+            "pagenum": 163,
+            "content": "आ-ह्वाय ¦ <lex>m.</lex> a summons<info lex='m'/>"
+        },
+        {
+            "word": "आह्वाय",
+            "eid": "28529",
+            "pagenum": 163,
+            "content": "¦ a name, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आह्वाय",
+            "eid": "9820",
+            "pagenum": 137,
+            "content": "<i>Ā-hvāya, as,</i>¦ m. a summons, a name."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आह्वाय",
+            "eid": "16617",
+            "pagenum": 1,
+            "content": "*आह्वाय¦ <lex>m.</lex> <i>Herbeirufung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आह्वाय",
+            "eid": "9934",
+            "pagenum": 1,
+            "content": "आह्वाय/¦ (von ह्वा mit आ) <lex>m.</lex> <ls>Sch.</ls> zu <ls>P. 3, 3, 73.</ls> <ls n='P. 3, 3,'>74.</ls> <i>Aufforderung; Benennung</i> <ls>WILS.</ls>"
+        }
     ]
 }

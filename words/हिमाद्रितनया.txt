@@ -7,5 +7,35 @@
             "pagenum": 833,
             "content": "hima-adri˚tanayA¦ <i>f.</i> 1. Pārvatī; 2. the Ganges."
         }
+    ],
+    "MW": [
+        {
+            "word": "हिमाद्रितनया",
+            "eid": "263078",
+            "pagenum": 1299,
+            "content": "himA<srs/>dri—tanayA ¦ <lex>f.</lex> ‘daughter of <ab n='Himālaya' slp1='himAlaya'>Him°</ab>’, <s1 slp1='parvatI'>Parvatī</s1> (-पति <lex type='phw'>m.</lex> ‘husband of <ab n='Parvatī' slp1='parvatI'>P°</ab>’, <s1 slp1='Siva'>Śiva</s1>), <ls>Kavik.</ls><info phwchild='263079.1'/><info lex='f'/>"
+        },
+        {
+            "word": "हिमाद्रितनया",
+            "eid": "263079",
+            "pagenum": 1299,
+            "content": "¦ the Ganges, <ls>A.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "हिमाद्रितनया",
+            "eid": "134730",
+            "pagenum": 7,
+            "content": "हिमाद्रितनया¦ <lex>f.</lex> <ab>Patron.</ab> der <is>Pārvatī</is> = °पति <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हिमाद्रितनया",
+            "eid": "117044",
+            "pagenum": 7,
+            "content": "हिमाद्रितनया¦ <lex>f.</lex> <i>die Tochter des</i> <is>Himālaya</is> <ab>d. i.</ab> <is>Pārvatī</is>: °पति <i>der Gatte der</i> <is>Pārvatī</is> <ab>d. i.</ab> <is>Śiva</is> <ls>KAVIKALPALATĀ</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -36,5 +36,35 @@
             "pagenum": 684,
             "content": "vIRA-vAda¦ <i>m.</i> a lutanist."
         }
+    ],
+    "MW": [
+        {
+            "word": "वीणावाद",
+            "eid": "203507",
+            "pagenum": 1005,
+            "content": "वीणा—वाद/ ¦ <lex>m.</lex> a lute-player, lutanist, <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>ĀpŚr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वीणावाद",
+            "eid": "203508",
+            "pagenum": 1005,
+            "content": "¦ playing on a lute, <ls>Bhartṛ.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वीणावाद",
+            "eid": "105938",
+            "pagenum": 6,
+            "content": "वीणावाद/¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Lautenspieler</i> <ls>ĀPAST. ŚR. 21,18. 19</ls>. <div n='1'>— 2〉 <i>Lautenspiel</i> <ls n='Chr.'>171,25</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वीणावाद",
+            "eid": "94402",
+            "pagenum": 6,
+            "content": "वीणावाद/¦ <lex>m.</lex> <div n='1'> 1) <i>Lautenspieler</i> <ls>AK. 2, 10, 13.</ls> <ls>H. 924.</ls> <ls>VS. 30, 20.</ls> <ls>ŚAT. BR. 14, 5, 4, 8. 7, 3, 9.</ls> <div n='1'>— 2) <i>Lautenspiel</i> <ls>KATHĀS. 63, 161.</ls>"
+        }
     ]
 }

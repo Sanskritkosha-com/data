@@ -31,5 +31,47 @@
             "pagenum": 461,
             "content": "संवलन¦ <i>n.</i>, °ना <i>f.</i> Zusammentreffen <i>(freundl.</i> <i>u. feindl.)</i>, Vereinigung."
         }
+    ],
+    "MW": [
+        {
+            "word": "संवलन",
+            "eid": "226096",
+            "pagenum": 1114,
+            "content": "सं-वलन ¦ <lex>nf.</lex> meeting, encountering (of enemies), <ls>Bālar.</ls><info lex='f:n'/>"
+        },
+        {
+            "word": "संवलन",
+            "eid": "226097",
+            "pagenum": 1114,
+            "content": "¦ mixture, union, <ls>Mālatīm.</ls>; <ls>Gīt.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "संवलन",
+            "eid": "116690",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> संवलन <lex>n.</lex> und °ना <lex>f.</lex>¦ <i>das Zusammentreffen, Zusammenstossen</i> (in feindlichem Sinne <ls>BĀLAR. 201,10</ls>); <i>Vereinigung, Verbindung</i>."
+        },
+        {
+            "word": "संवलन",
+            "eid": "116691",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> संवलन¦ fehlerhaft für संवनन."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "संवलन",
+            "eid": "102871",
+            "pagenum": 7,
+            "content": "1. संवलन¦ (von वल् mit सम्) <lex>n.</lex> <i>das Zusammentreffen, Vereinigung, Verbindung</i> <ls>MĀLATĪM. 167, 5.</ls> <ls>Verz. d. Oxf. H. 245,a,No. 613.</ls> f. आ dass. <ls>GĪT. 12, 27.</ls>"
+        },
+        {
+            "word": "संवलन",
+            "eid": "102872",
+            "pagenum": 7,
+            "content": "2. संवलन¦ (सम्बलन) fehlerhaft für संवनन ."
+        }
     ]
 }

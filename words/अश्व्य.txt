@@ -51,5 +51,73 @@
             "pagenum": 122,
             "content": "<b>áśvya,</b>¦ <i><ab>a.</ab></i> consisting of horses; of a horse. [<b>aśva:</b> <ab>cf.</ab> <lang n='greek'>ἵππιος</lang>, ‘of a horse.’]"
         }
+    ],
+    "MW": [
+        {
+            "word": "अश्व्य",
+            "eid": "20155",
+            "pagenum": 116,
+            "content": "<hom>1.</hom> अ/श्व्य ¦ <lex>mfn.</lex> (3, rarely 2) (<ab>g.</ab> apUpA<srs/>di, <ab>q.v.</ab>) belonging to or coming from horses, <ls>RV.</ls>; <ls>ŚBr. xiv</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अश्व्य",
+            "eid": "20155.1",
+            "pagenum": 116,
+            "content": "¦ consisting of horses, <ls>RV.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अश्व्य",
+            "eid": "20155.2",
+            "pagenum": 116,
+            "content": "अ/श्व्य ¦ <lex>n.</lex> a number of horses, possession of horses, <ls>RV.</ls><info lex='n'/>"
+        },
+        {
+            "word": "अश्व्य",
+            "eid": "20156",
+            "pagenum": 116,
+            "content": "<hom>2.</hom> अश्व्य/ ¦ अस्, <lex>m.</lex> (3) ‘son of <s1 slp1='aSva'>Aśva</s1>’, <ab>N.</ab> of <s1 slp1='vaSa'>Vaśa</s1>, <ls>RV. i, 112, 10</ls>; <ls n='RV.'>viii, 46, 21</ls> and <ls n='RV. viii, 46,'>33</ls><info lex='m'/>"
+        },
+        {
+            "word": "अश्व्य",
+            "eid": "20156.1",
+            "pagenum": 116,
+            "content": "¦ <ab>N.</ab> of another man, <ls>RV. viii, 24, 14</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अश्व्य",
+            "eid": "7317",
+            "pagenum": 102,
+            "content": "<i>Aśvya, as, ā, am,</i>¦ Ved. belonging to or coming from horses; consisting of horses; (<i>am</i>), n., Ved. a number of horses, possession of horses; (<i>as</i>), m., N. of Vaśa, the son of Aśva."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अश्व्य",
+            "eid": "12004",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/श्व्य und अ/श्विअ¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>zum Rosse gehörig</i>. <div n='2'>— b〉 <i>aus Rossen bestehend</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>Besitz an Rossen, Rossheerde</i>."
+        },
+        {
+            "word": "अश्व्य",
+            "eid": "12005",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> (अश्व्य/) अश्विअ/¦ <lex>m.</lex> <ab>Patron.</ab> von अश्व."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अश्व्य",
+            "eid": "7187",
+            "pagenum": 1,
+            "content": "1. अ/श्व्य¦ (von अश्व) <div n='1'> 1) <lex>adj.</lex> <is>gaṇa</is> अपूपादि zu <ls>P. 5, 1, 4.</ls> <div n='2'> a) <i>dem Rosse angehörig, von ihm herrührend</i>: वार^ः <ls>ṚV. 1, 32, 12.</ls> उ\\प\\ब्दिः <ls n='ṚV. 1,'>74, 7.</ls> शिर^ः <ls n='ṚV. 1,'>119, 9.</ls> <ls n='ṚV.'>7, 18, 19.</ls> <ls>ŚAT. BR. 14, 5, 5, 17</ls> = <ls>BṚH. ĀR. UP. 2, 5, 17.</ls> <div n='2'>— b) <i>aus</i> oder <i>in Rossen bestehend</i>: म\\घानि^ <ls>ṚV. 7, 67, 9.</ls> ऊ\\र्वम् <ls n='ṚV.'>4, 28, 5.</ls> वसौ^ <ls n='ṚV.'>8, 13, 22.</ls> <ls n='ṚV. 8,'>25, 23.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Rossschaar, Besitz von Rossen</i> <ls>ṚV. 4, 41, 10.</ls> <ls n='ṚV.'>8, 46, 22.</ls> <ls n='ṚV.'>9, 72, 9.</ls> pl. <ls n='ṚV.'>6, 60, 14.</ls> <ls n='ṚV.'>8, 27, 6.</ls> <ls n='ṚV. 8,'>62, 15.</ls> <div n='v'>— Vgl. स्वश्व्य ."
+        },
+        {
+            "word": "अश्व्य",
+            "eid": "7188",
+            "pagenum": 1,
+            "content": "2. अश्व्य/¦ (wie eben) <lex>m.</lex> N. pr. patron. des <is>Vaśa</is>, so v. a. <i>Sohn</i> <is>Aśva's</is> <ls>ṚV. 1, 112, 10.</ls> <ls n='ṚV.'>8, 46, 21.</ls> In <ls>ṚV. 8, 24, 14</ls> : नू\\नं श्रु^धि स्तुव\\तो अ\\श्व्यस्य^, wo nach <ls>ANUKR.</ls> ein Abkömmling <is>Vyaśva's</is> Verfasser ist, wäre es so v. a. <i>einem</i> <is>Aśva</is>-<i>Namen angehörig.</i>"
+        }
     ]
 }

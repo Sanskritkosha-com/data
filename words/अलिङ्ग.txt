@@ -15,5 +15,89 @@
             "pagenum": 30,
             "content": "अलिङ्ग¦ ohne Abzeichen; geschlechtslos <i>(g.)</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "अलिङ्ग",
+            "eid": "2721",
+            "pagenum": 29,
+            "content": "अलिङ्ग¦ a-liṅga, <lex>a.</lex> lacking characteristics; 🞄lacking gender."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अलिङ्ग",
+            "eid": "16741",
+            "pagenum": 95,
+            "content": "अ-लिङ्ग ¦ <lex>n.</lex> absence of marks <ab>Comm.</ab> on <ls>Nyāyad.</ls><info lex='n'/>"
+        },
+        {
+            "word": "अलिङ्ग",
+            "eid": "16741.1",
+            "pagenum": 95,
+            "content": "अ-लिङ्ग ¦ (<lex type='hw'>mfn.</lex>) having no marks, <ls>Nir.</ls>; <ls>MuṇḍUp.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अलिङ्ग",
+            "eid": "16742",
+            "pagenum": 95,
+            "content": "¦ (in <ab>Gr.</ab>) having no gender.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अलिङ्ग",
+            "eid": "6057",
+            "pagenum": 86,
+            "content": "अलिङ्ग¦ <i>a-liṅga, am,</i> n. absence of marks; <i>(as, ā, am),</i> having no marks; (in gram.) having no gender."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अलिङ्ग",
+            "eid": "10013",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अलिङ्ग¦ <lex>n.</lex> <i>kein entscheidendes Merkmal</i> <ls>Comm. zu NYĀYAS. 2,2,29</ls>."
+        },
+        {
+            "word": "अलिङ्ग",
+            "eid": "10014",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अलिङ्ग¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>ohne Kennzeichen</i> <ls>MUṆḌ. UP. 3,2,4</ls>. <div n='1'>— 2〉 <i>geschlechtslos</i> (<ab>gramm.</ab>). <div n='1'>— 3〉 <i>ohne feinen Körper</i>. Dazu <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>BHĀG. P. 1,15,31</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अलिङ्ग",
+            "eid": "6168",
+            "pagenum": 1,
+            "content": "1. अलिङ्ग¦ (3. अ + लि°) <lex>n.</lex> <i>das Fehlen von Merkmalen</i> <ls>MUṆḌ. UP. 3, 2, 4.</ls>"
+        },
+        {
+            "word": "अलिङ्ग",
+            "eid": "6169",
+            "pagenum": 1,
+            "content": "2. अलिङ्ग¦ (wie eben) <lex>adj.</lex> <i>ohne Kennzeichen</i>, im liturg. Sinne (s. लिङ्ग) <ls>NIR. 12, 40.</ls> neben अलक्षण <ls>MĀṆD. UP.</ls> in <ls>Ind. St. 2, 108.</ls> <i>ohne entscheidendes Kennzeichen</i> <ls>AV. PRĀT. 4, 12.</ls> (ein Wort) <i>ohne grammatisches Geschlecht</i>, z. B. पञ्चन् <ls>H. 872</ls>, <ls>Sch.</ls> oder ein indecl. wie रहस् und उपांशु <ls>AK. 2, 8, 1, 23.</ls>"
+        },
+        {
+            "word": "अलिङ्ग",
+            "eid": "65288",
+            "pagenum": 5,
+            "content": "2. अलिङ्ग¦ <i>keine Kennzeichen habend</i> <ls>YOGAS. 1, 45. 2, 19.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अलिङ्ग",
+            "eid": "6477",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> अलिङ्ग¦ 1〉 <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>MBH. 12,203,15</ls>. — Als <lex>n.</lex> = अव्यक्त <lex>n.</lex> <ls>YOGAS. 2,19</ls>."
+        },
+        {
+            "word": "अलिङ्ग",
+            "eid": "12876",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> अलिङ्ग¦ I. 5."
+        }
     ]
 }

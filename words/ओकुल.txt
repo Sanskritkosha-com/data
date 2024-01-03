@@ -7,5 +7,37 @@
             "pagenum": 360,
             "content": "ओकुलः¦ A cake of flour."
         }
+    ],
+    "MW": [
+        {
+            "word": "ओकुल",
+            "eid": "40604",
+            "pagenum": 235,
+            "content": "ओकुल ¦ <lex>m.</lex> wheat fried slightly, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ओकुल",
+            "eid": "12940",
+            "pagenum": 188,
+            "content": "ओकुल¦ <i>okula, as,</i> m. a cake of flour."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ओकुल",
+            "eid": "22607",
+            "pagenum": 1,
+            "content": "*ओकुल¦ <lex>m.</lex> <i>grün geröstete Weizenkörner</i> <ls>RĀJAN. 16,96</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ओकुल",
+            "eid": "13757",
+            "pagenum": 1,
+            "content": "ओकुल¦ <lex>m.</lex> <i>Kuchen von Waizenmehl</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

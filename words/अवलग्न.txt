@@ -52,5 +52,57 @@
             "pagenum": 75,
             "content": "avalagna¦ <i>m.n.</i> The white colour."
         }
+    ],
+    "MD": [
+        {
+            "word": "अवलग्न",
+            "eid": "2825",
+            "pagenum": 30,
+            "content": "अवलग्न¦ ava-lagna, (<ab>pp.</ab>) <lex>m.</lex> <lex>n.</lex> waist."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अवलग्न",
+            "eid": "18010",
+            "pagenum": 103,
+            "content": "अव-लग्न ¦ <lex>mfn.</lex> hanging down from (in <ab>comp.</ab>), <ls>Ragh. xvi, 68</ls>, &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अवलग्न",
+            "eid": "18011",
+            "pagenum": 103,
+            "content": "अव-लग्न ¦ <lex>mn.</lex> the waist, <ls>Śiś. ix, 49</ls>, &c.<info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अवलग्न",
+            "eid": "6588",
+            "pagenum": 93,
+            "content": "अवलग्न¦ <i>ava-lagna, as, ā, am</i> (rt. <i>lag</i>), hanging down; placed contiguously, impressed, attached, &c.; <i>(as, am),</i> m. n. the waist."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अवलग्न",
+            "eid": "10630",
+            "pagenum": 1,
+            "content": "अवलग्न¦ <lex>m.</lex> <lex>n.</lex> <i>Taille</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अवलग्न",
+            "eid": "6551",
+            "pagenum": 1,
+            "content": "अवलग्न¦ (von लग् mit अव) <div n='1'> 1) <lex>adj.</lex> <i>herabhängend</i> (लग्न) <ls>H. an. 4, 155.</ls> <ls>MED. n. 159.</ls> <div n='1'>— 2) <lex>m.</lex> <lex>n.</lex> <i>Taille</i> <ls>AK. 2, 6, 2, 30.</ls> <ls>H. 607.</ls> <ls>an.</ls> <ls>MED.</ls>"
+        },
+        {
+            "word": "अवलग्न",
+            "eid": "65501",
+            "pagenum": 5,
+            "content": "अवलग्न¦ <div n='1'> 2) <ls>Spr. 5328.</ls> <ls>ŚIŚ. 9, 49.</ls>"
+        }
     ]
 }

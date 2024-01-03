@@ -13,5 +13,35 @@
             "pagenum": 710,
             "content": "SarIra-BAj¦ <i>(II) m.</i> a creature."
         }
+    ],
+    "MW": [
+        {
+            "word": "शरीरभाज्",
+            "eid": "213873",
+            "pagenum": 1058,
+            "content": "शरीर—भाज् ¦ <lex>mfn.</lex> having a body, embodied, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शरीरभाज्",
+            "eid": "213874",
+            "pagenum": 1058,
+            "content": "शरीर—भाज् ¦ <lex>m.</lex> an embodied being, <ls>BhP.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शरीरभाज्",
+            "eid": "110707",
+            "pagenum": 6,
+            "content": "शरीरभाज्¦ <lex>m.</lex> <i>ein lebendes Wesen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शरीरभाज्",
+            "eid": "98169",
+            "pagenum": 7,
+            "content": "शरीरभाज्¦ <lex>adj.</lex> <i>einen Körper habend</i>, <lex>m.</lex> <i>ein lebendes Wesen</i> <ls>BHĀG. P. 1, 9, 42.</ls>"
+        }
     ]
 }

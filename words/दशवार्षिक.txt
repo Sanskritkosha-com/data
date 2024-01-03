@@ -23,5 +23,41 @@
             "pagenum": 327,
             "content": "daSan-vArzika¦ <i>a.</i> happening after ten years."
         }
+    ],
+    "MW": [
+        {
+            "word": "दशवार्षिक",
+            "eid": "90956",
+            "pagenum": 472,
+            "content": "दश—वार्षिक ¦ <lex>mf(ई)n.</lex> = -वर्ष, <ls>R. iv, 48, 12</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "दशवार्षिक",
+            "eid": "90957",
+            "pagenum": 472,
+            "content": "¦ lasting 10 years, <ls>Pañcat. iii, 2, 5</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दशवार्षिक",
+            "eid": "90958",
+            "pagenum": 472,
+            "content": "¦ happening after 10 years, <ls>Yājñ. ii, 24.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दशवार्षिक",
+            "eid": "49381",
+            "pagenum": 3,
+            "content": "दशवार्षिक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <div n='1'>— 1〉 <i>zehn Jahre alt</i> <ls>R. 4,48,12</ls>. <div n='1'>— 2〉 <i>zehn Jahre während</i> <ls>Spr. 4822</ls>. <div n='1'>— 3〉 <i>nach [Page3-076-a] zehn Jahren erfolgend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दशवार्षिक",
+            "eid": "32296",
+            "pagenum": 3,
+            "content": "दशवार्षिक¦ (von दशन् + वर्ष) <lex>adj.</lex> <lex>f.</lex> ई <i>nach zehn Jahren erfolgend</i>: हानिर्भूमेः <ls>YĀJÑ. 2, 24.</ls>"
+        }
     ]
 }

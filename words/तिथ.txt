@@ -23,5 +23,55 @@
             "pagenum": 309,
             "content": "tiTa¦ <i>m.</i> 1. Fire; 2. love; 3. time; 4. the rainy season."
         }
+    ],
+    "MW": [
+        {
+            "word": "तिथ",
+            "eid": "84906",
+            "pagenum": 446,
+            "content": "तिथ ¦ <lex>m.</lex> fire, <ls>Uṇ. ii, 12</ls>, <ab>Sch.</ab><info lex='m'/>"
+        },
+        {
+            "word": "तिथ",
+            "eid": "84907",
+            "pagenum": 446,
+            "content": "¦ love, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तिथ",
+            "eid": "84908",
+            "pagenum": 446,
+            "content": "¦ time, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तिथ",
+            "eid": "84909",
+            "pagenum": 446,
+            "content": "¦ autumn, <ls>Uṇvṛ.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तिथ",
+            "eid": "20911",
+            "pagenum": 373,
+            "content": "तिथ¦ <i>titha, as,</i> m. (said to be fr. rt. <i>tij</i>), fire; love; time; autumn."
+        }
+    ],
+    "PW": [
+        {
+            "word": "तिथ",
+            "eid": "45733",
+            "pagenum": 3,
+            "content": "*तिथ¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Feuer</i>. <div n='1'>— 2〉 <i>Liebe</i>. <div n='1'>— 3〉 <i>Zeit</i>. <div n='1'>— 4〉 <i>Herbst</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तिथ",
+            "eid": "29609",
+            "pagenum": 3,
+            "content": "तिथ/¦ <ls>UṆĀDIS. 2, 12.</ls> <lex>m.</lex> <div n='1'> 1) <i>Feuer.</i> <div n='1'>— 2) <i>Liebe</i> <ls>UJJVAL.</ls> <div n='1'>— 3) <i>Zeit</i> <ls>TRIK. 1, 1, 103.</ls> <div n='1'>— 4) <i>Herbst</i> <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls>"
+        }
     ]
 }

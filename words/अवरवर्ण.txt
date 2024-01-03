@@ -37,5 +37,47 @@
             "pagenum": 75,
             "content": "avara-varRa¦ <i>(II) m.</i> a low tribe."
         }
+    ],
+    "MW": [
+        {
+            "word": "अवरवर्ण",
+            "eid": "17875",
+            "pagenum": 102,
+            "content": "अवर—वर्ण ¦ <lex>m.</lex> ‘a low or despised caste’, see -वर्ण-ज<info lex='m'/>"
+        },
+        {
+            "word": "अवरवर्ण",
+            "eid": "17876",
+            "pagenum": 102,
+            "content": "¦ ‘belonging to a low caste’, a <s1 slp1='SUdra'>Śūdra</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अवरवर्ण",
+            "eid": "10568",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अवरवर्ण¦ <lex>m.</lex> <i>niedrige —, verachtete Kaste</i>. °ज = <hom>2.</hom> अवरवर्ण."
+        },
+        {
+            "word": "अवरवर्ण",
+            "eid": "10569",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *अवरवर्ण und *°क¦ <i>ein</i> <is>Śūdra</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अवरवर्ण",
+            "eid": "6502",
+            "pagenum": 1,
+            "content": "1. अवरवर्ण¦ (अ° + व°) <lex>m.</lex> <i>eine niedrige, verachtete Kaste</i>: अवरवर्णज <ls>M. 3, 241.</ls> <ls n='M.'>9, 248.</ls>"
+        },
+        {
+            "word": "अवरवर्ण",
+            "eid": "6503",
+            "pagenum": 1,
+            "content": "2. अवरवर्ण¦ (wie eben) <lex>m.</lex> <i>ein Mann aus einer verachteten Kaste, ein</i> <is>Śūdra</is> <ls>AK. 2, 10, 1.</ls>"
+        }
     ]
 }

@@ -23,5 +23,35 @@
             "pagenum": 762,
             "content": "<b>Yajñabhṛt</b>¦ = Viṣṇu (1000 names)."
         }
+    ],
+    "MW": [
+        {
+            "word": "यज्ञभृत्",
+            "eid": "169333",
+            "pagenum": 840,
+            "content": "यज्ञ—भृत् ¦ <lex>m.</lex> ‘<ab n='sacrifice'>s°</ab>-bearer’, the institutor of a <ab n='sacrifice'>s°</ab>, <ls>VarBṛS.</ls><info lex='m'/>"
+        },
+        {
+            "word": "यज्ञभृत्",
+            "eid": "169334",
+            "pagenum": 840,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "यज्ञभृत्",
+            "eid": "89524",
+            "pagenum": 5,
+            "content": "यज्ञभृत्¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Veranstalter eines Opfers</i>. <div n='1'>— 2〉 <ab>Bein.</ab> <is>Viṣṇu</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यज्ञभृत्",
+            "eid": "80978",
+            "pagenum": 6,
+            "content": "यज्ञभृत्¦ (यज्ञ + भृत्) <lex>m.</lex> <i>der Veranstalter eines Opfers</i> <ls>VARĀH. BṚH. S. 13, 11.</ls> Beiw. <is>Viṣṇu's</is> <ls>MBH. 13, 7054.</ls>"
+        }
     ]
 }

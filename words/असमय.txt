@@ -23,5 +23,49 @@
             "pagenum": 36,
             "content": "असमय¦ <i>m.</i> Unzeit, unrechte Zeit."
         }
+    ],
+    "MD": [
+        {
+            "word": "असमय",
+            "eid": "3147",
+            "pagenum": 34,
+            "content": "असमय¦ a-samaya, <lex>m.</lex> unseasonable time."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असमय",
+            "eid": "20693",
+            "pagenum": 119,
+            "content": "अ-समय ¦ <lex>m.</lex> non-obligation, absence of contract or agreement, <ls>Āp.</ls><info lex='m'/>"
+        },
+        {
+            "word": "असमय",
+            "eid": "20694",
+            "pagenum": 119,
+            "content": "¦ unseasonableness<info lex='inh'/>"
+        },
+        {
+            "word": "असमय",
+            "eid": "20695",
+            "pagenum": 119,
+            "content": "¦ unfit or unfavourable time, <ls>Kathās.</ls>; <ls>Veṇīs.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असमय",
+            "eid": "7454",
+            "pagenum": 104,
+            "content": "असमय¦ <i>a-samaya, as,</i> m. unseasonableness; unfit or unfavourable time."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असमय",
+            "eid": "12402",
+            "pagenum": 1,
+            "content": "असमय¦ <lex>m.</lex> <div n='1'>— 1〉 <i>keine übernommene Verpflichtung</i> <ls>ĀPAST.</ls> <div n='1'>— 2〉 <i>Unzeit</i> <ls>KATHĀS. 18,2</ls>. <ls>VEṆĪS. 166</ls>."
+        }
     ]
 }

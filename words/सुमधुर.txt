@@ -28,5 +28,53 @@
             "pagenum": 503,
             "content": "सुमधुर¦ sehr süß <i>o.</i> leibelich."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुमधुर",
+            "eid": "248245",
+            "pagenum": 1230,
+            "content": "सु—मधुर <hom>a</hom> ¦ <lex>mfn.</lex> very sweet or tender or gentle (अम् <lex type='phw'>ind.</lex>), <ls>MBh.</ls>; <ls>R.</ls> &c.<info phwchild='248248.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सुमधुर",
+            "eid": "248246",
+            "pagenum": 1230,
+            "content": "¦ singing very beautifully (अम् <lex type='phw'>ind.</lex>), <ls>MBh.</ls>; <ls>BrahmaP.</ls><info phwchild='248248.2'/><info lex='inh'/>"
+        },
+        {
+            "word": "सुमधुर",
+            "eid": "248247",
+            "pagenum": 1230,
+            "content": "सु—मधुर ¦ <lex>m.</lex> a kind of potherb, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुमधुर",
+            "eid": "248248",
+            "pagenum": 1230,
+            "content": "¦ very soothing or gentle speech &c., <ls>MW.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुमधुर",
+            "eid": "248484",
+            "pagenum": 1231,
+            "content": "सु-मधुर <hom>b</hom>, ¦ सु-मध्य &c. See <pcol>p. 1230, col. 3</pcol>."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुमधुर",
+            "eid": "127170",
+            "pagenum": 7,
+            "content": "सुमधुर¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>überaus süss</i>. <div n='2'>— b〉 <i>überaus lieblich, — zart</i> <ls n='Chr.'>216,21</ls>. °म् <lex>Adv.</lex> <div n='2'>— c〉 <i>überaus lieblich singend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>eine Art Portulak</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुमधुर",
+            "eid": "110921",
+            "pagenum": 7,
+            "content": "सुमधुर¦ <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>überaus süss.</i> <div n='2'>— b) <i>überaus lieblich, - zart</i>: गीतध्वनि <ls>MBH. 13, 2839.</ls> वचस् <ls>R. 1, 9, 32.</ls> = सान्त्व <ls>H. 266.</ls> <i>überaus lieblich singend</i>: हंसाः <ls>MBH. 13, 2839.</ls> °म् adv.: कूजन् <ls>BRAHMA-P. in LA. (III) 52, 3.</ls> <div n='1'>— 2) <lex>m.</lex> <i>eine best. Gemüsepflanze</i>, = जीवशाक <ls>RĀJAN. 7, 50.</ls>"
+        }
     ]
 }

@@ -15,5 +15,49 @@
             "pagenum": 766,
             "content": "sarka¦ <i>m.</i> 1. Air, wind; 2. the mind."
         }
+    ],
+    "MW": [
+        {
+            "word": "सर्क",
+            "eid": "237840",
+            "pagenum": 1183,
+            "content": "सर्क ¦ <lex>m.</lex> (of unknown derivation) the wind, air, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सर्क",
+            "eid": "237841",
+            "pagenum": 1183,
+            "content": "¦ the mind, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सर्क",
+            "eid": "237842",
+            "pagenum": 1183,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='prajA-pati'>Prajā-pati</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सर्क",
+            "eid": "51413",
+            "pagenum": 1093,
+            "content": "सर्क¦ <i>sarka, as,</i> m. (according to Śabda-k.), wind, air, (probably fr. rt. <i>sṛ</i>); the mind; N. of Prajā-pati, (perhaps for <i>sarga</i> below.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सर्क",
+            "eid": "121543",
+            "pagenum": 7,
+            "content": "सर्क¦ <ls>Ind. St. 3,267</ls> vielleicht fehlerhaft. *<lex>m.</lex> = वायु मनस् und प्रजापति."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सर्क",
+            "eid": "106557",
+            "pagenum": 7,
+            "content": "सर्क¦ <lex>m.</lex> = वायु, मनस् und प्रजापति <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls> — <ls>Ind. St. 3, 267.</ls>"
+        }
     ]
 }

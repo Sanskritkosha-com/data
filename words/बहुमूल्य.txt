@@ -35,5 +35,55 @@
             "pagenum": 504,
             "content": "bahu-mUlya¦ <i>a.</i> highly prized, costly."
         }
+    ],
+    "MW": [
+        {
+            "word": "बहुमूल्य",
+            "eid": "143793",
+            "pagenum": 725,
+            "content": "बहु—मूल्य ¦ <lex>mfn.</lex> high-priced, precious (-ता <lex type='phw'>f.</lex>), <ls>Pañcat.</ls><info phwchild='143794.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "बहुमूल्य",
+            "eid": "143794",
+            "pagenum": 725,
+            "content": "बहु—मूल्य ¦ <lex>n.</lex> a large sum of money, <ls>Rājat.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बहुमूल्य",
+            "eid": "76444",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> बहुमूल्य¦ <lex>n.</lex> <i>eine grosses Summe Geldes</i>."
+        },
+        {
+            "word": "बहुमूल्य",
+            "eid": "76445",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> बहुमूल्य¦ <lex>Adj.</lex> <i>kostbar</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बहुमूल्य",
+            "eid": "52258",
+            "pagenum": 5,
+            "content": "1. बहुमूल्य¦ (बहु + मू°) <lex>n.</lex> <i>eine grosse Summe Geldes</i> <ls>RĀJA-TAR. 6, 39.</ls>"
+        },
+        {
+            "word": "बहुमूल्य",
+            "eid": "52259",
+            "pagenum": 5,
+            "content": "2. बहुमूल्य¦ (wie eben) <lex>adj.</lex> <i>kostbar</i> <ls>AK. 2, 6, 3, 14.</ls> <ls>PAÑCAT. 176, 3. ed. orn. 49, 13.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "बहुमूल्य",
+            "eid": "19974",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> बहुमूल्य¦ IV. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>BṚHASPATI</ls> in <ls>VIVĀDAR. 310</ls>."
+        }
     ]
 }

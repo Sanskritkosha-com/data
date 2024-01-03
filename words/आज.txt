@@ -45,5 +45,75 @@
             "pagenum": 40,
             "content": "आज¦ <i>Adj.</i> Ziegen-, caprinus; <i>n. N. eines</i> <i>Mondhauses.</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "आज",
+            "eid": "3464",
+            "pagenum": 37,
+            "content": "आज¦ āja, <lex>a.</lex> relating to goats; <lex>n.</lex> <ab>N.</ab> <i>of a 🞄lunar mansion</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आज",
+            "eid": "23033",
+            "pagenum": 132,
+            "content": "आज ¦ <lex>mfn.</lex> (<ab>fr.</ab> <hom>1.</hom> अज/), coming from or belonging to goats, produced by goats, <ls>ĀśvGṛ.</ls>; <ls>R.</ls>; <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "आज",
+            "eid": "23034",
+            "pagenum": 132,
+            "content": "आज ¦ <lex>m.</lex> a vulture, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आज",
+            "eid": "23035",
+            "pagenum": 132,
+            "content": "¦ a descendant of <s1 slp1='aja'>Aja</s1><info lex='inh'/>"
+        },
+        {
+            "word": "आज",
+            "eid": "23037",
+            "pagenum": 132,
+            "content": "आज ¦ (अम्), <lex>n.</lex> the lunar mansion <s1 slp1='pUrvABAdrapadA'>PūrvāBhādrapadā</s1> (presided over by <s1 slp1='aja'>Aja</s1> <ns>Ekapād</ns>), <ls>VarBṛS.</ls><info lex='n'/>"
+        },
+        {
+            "word": "आज",
+            "eid": "23038",
+            "pagenum": 132,
+            "content": "¦ clarified butter, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आज",
+            "eid": "8205",
+            "pagenum": 115,
+            "content": "आज¦ <i>āja, as, ī, am</i> (fr. 1. <i>aja</i>), coming from goats, belonging to goats, produced by goats; (<i>as</i>), m. a vulture; (<i>am</i>), n. boiled or clarified butter; ghee."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आज",
+            "eid": "13843",
+            "pagenum": 1,
+            "content": "आज¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>von der Ziege herrührend, caprinus</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 *<i>Geier</i>. <div n='2'>— b〉 <ab>Patron.</ab> Auch im <ab>Pl.</ab> <div n='1'>— 3〉 <lex>f.</lex> आजा/ ein zur Erklärung von आजा/ <i>Ziege</i> erfundenes und diesem gleich gesetztes Wort <ls>ŚAT. BR. 3,3,3,9</ls>. <div n='1'>— 4〉 <lex>n.</lex> <div n='2'>— a〉 <i>das unter</i> <is>Aja</is> <is>Ekapad</is> <i>stehende Mondhaus</i> <is>Pūrvabhādrapadā</is> <ls n='Chr.'>220,1</ls>. <div n='2'>— b〉 *<i>ein mit einem Ziegenfell geschlossener Korb</i> <ls>Comm. zu R. ed. Bomb. 2,55,18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आज",
+            "eid": "8100",
+            "pagenum": 1,
+            "content": "आज¦ (von अज) <div n='1'> 1) <lex>adj.</lex> <i>von Ziegen herrührend, caprinus</i>: अजिन <ls>ĀŚV. GṚHY. 1, 19.</ls> पयस् <ls>SUŚR. 1, 174, 20.</ls> मूत्र <ls n='SUŚR.'>2, 13, 1.</ls> आजैः - निष्ठानवरसंचयैः <ls>R. 2, 91, 66.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Geier</i> <ls>H. ś. 194.</ls> <div n='1'>— 3) N. pr. <ls>Verz. d. B. H. 61, 5</ls> (pl.)."
+        },
+        {
+            "word": "आज",
+            "eid": "66221",
+            "pagenum": 5,
+            "content": "आज¦ <div n='1'> 4) <lex>n.</lex> <div n='2'> a) <i>das unter</i> <is>Aja</is> <is>Ekapād</is> <i>stehende</i> <is>Nakṣatra</is> <is>Pūrvabhadrapadā</is> <ls>VARĀH. BṚH. S. 10, 17. 15, 23. 23, 9. 32, 12.</ls> <div n='2'>— b) = अजचर्मपिनद्धपेटेक <ls>Schol.</ls> zu <ls>R. 2, 55, 17</ls>; vgl. u. कठिन <ls n='R. 2, 55,'>5</ls>)."
+        }
     ]
 }

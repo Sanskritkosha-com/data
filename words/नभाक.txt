@@ -31,5 +31,43 @@
             "pagenum": 369,
             "content": "naBAka¦ <i>m.</i> 1. Darkness; 2. an epithet of Rāhu."
         }
+    ],
+    "MW": [
+        {
+            "word": "नभाक",
+            "eid": "103817",
+            "pagenum": 528,
+            "content": "नभाक ¦ <lex>m.</lex> <ab>N.</ab> of the author of <ls>RV. viii, 39</ls>-<ls n='RV. viii,'>41</ls> (-व/त्, <ab n='Nabhāka' slp1='naBAka'>N°</ab>'s hymn, <ls>AitBr. vi, 24</ls>; -व/त् <lex type='phw'>ind.</lex> like <ab n='Nabhāka' slp1='naBAka'>N°</ab>, <ls>RV. viii, 40, 4</ls>; <ls n='RV. viii, 40,'>5</ls>)<info phwchild='103818.1'/><info lex='m'/>"
+        },
+        {
+            "word": "नभाक",
+            "eid": "103818",
+            "pagenum": 528,
+            "content": "नभाक ¦ <lex>n.</lex> = नभस्, or तमस्, <ls>Uṇ.</ls>; <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नभाक",
+            "eid": "23867",
+            "pagenum": 469,
+            "content": "<i>Nabhāka, as,</i>¦ m., N. of a Vedic Ṛṣi by whom three hymns of the Ṛg-veda (VIII. 39-41) are supposed to have been composed, see <i>nābhāka;</i> <i>(am),</i> n. (said to be <i>= nabhas</i> and to be derived fr. 2. <i>na</i> + rt. 1. <i>bhā</i> + aff. <i>āka</i>), darkness; a cloud; the sky. <i>—Nabhāka-vat</i> in Ṛg-veda VIII. 40 = the hymn of Nabhāka."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नभाक",
+            "eid": "56670",
+            "pagenum": 3,
+            "content": "नभाक¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <ab>N. pr.</ab> eines <is>Ṛṣi</is>. °व/त् <lex>Adv.</lex> <div n='2'>— b〉 <i>das Lied des</i> <is>Nabhāka</is>. <div n='1'>— 2〉 *<lex>n.</lex> <div n='2'>— a〉 <i>Luftraum, Himmel</i>. <div n='2'>— b〉 <i>Finsterniss</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नभाक",
+            "eid": "37666",
+            "pagenum": 4,
+            "content": "नभाक¦ <lex>m.</lex> N. pr. eines Mannes <is>gaṇa</is> शिवादि zu <ls>P. 4, 1, 112.</ls> eines <is>Ṛṣi</is>, dem die Lieder <ls>ṚV. 8, 39</ls> bis 42 zugeschrieben werden. न\\भा\\क\\वत् <ls>ṚV. 8, 40, 4.</ls> <ls n='ṚV. 8, 40,'>5.</ls> so v. a. <i>Lied des</i> <ls>N.</ls> <ls>AIT. BR. 6, 24.</ls> Nach <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 15</ls> ist नभा/क <lex>n.</lex> = नभस्; nach <ls>UṆĀDIS.</ls> im <ls>ŚKDR.</ls> = तमस् <i>Finsterniss.</i> <div n='v'>— Vgl. नाभाक ."
+        }
     ]
 }

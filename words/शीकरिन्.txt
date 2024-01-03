@@ -31,5 +31,43 @@
             "pagenum": 445,
             "content": "शीकरिन्¦ tröpfelnd, sprühend."
         }
+    ],
+    "MD": [
+        {
+            "word": "शीकरिन्",
+            "eid": "17944",
+            "pagenum": 315,
+            "content": "शीकरिन्¦ śīkar-in, <lex>a.</lex> wafting spray (<i>wind</i>); 🞄squirting water (<i>elephantʼs trunk</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शीकरिन्",
+            "eid": "218189",
+            "pagenum": 1077,
+            "content": "शीकरिन् ¦ <lex>mfn.</lex> sprinkling. drizzling, scattering spray, <ls>Ragh.</ls>; <ls>Sāh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शीकरिन्",
+            "eid": "218190",
+            "pagenum": 1077,
+            "content": "¦ spurting water (as the trunk of an elephant), <ls>Uttarar.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शीकरिन्",
+            "eid": "112865",
+            "pagenum": 6,
+            "content": "शीकरिन्¦ <lex>Adj.</lex> <i>von einem feinen Regen begleitet, mit feinen Tropfen geschwängert, einem feinen Regen bewirkend, Wasser ausspritzend</i> (Elephantenrüssel)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शीकरिन्",
+            "eid": "99835",
+            "pagenum": 7,
+            "content": "शीकरिन्¦ (von शीकर) <lex>adj.</lex> <i>von einem feinen Regen begleitet, mit feinen Tropfen geschwängert, einen feinen Regen bewirkend</i>: वाताः <ls>SĀH. D. 16, 6.</ls> गङ्गाशीकरिणो मरुतः <ls>RAGH. 4, 73.</ls> कर <i>ein Wasser ausspritzender Rüssel</i> <ls>UTTARAR. 49, 3 (63, 5)</ls> = <ls>MĀLATĪM. 153, 18.</ls>"
+        }
     ]
 }

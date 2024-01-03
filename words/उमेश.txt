@@ -23,5 +23,41 @@
             "pagenum": 93,
             "content": "उमेश¦ <lex>m.</lex> the lord or husband of Umā, <ab>i.e.</ab> Śiva."
         }
+    ],
+    "MW": [
+        {
+            "word": "उमेश",
+            "eid": "37186",
+            "pagenum": 217,
+            "content": "ume<srs/>Sa ¦ <lex>m.</lex> ‘<s1 slp1='umA'>Umā</s1>'s lord’, <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1><info lex='m'/>"
+        },
+        {
+            "word": "उमेश",
+            "eid": "37187",
+            "pagenum": 217,
+            "content": "¦ ‘<s1 slp1='umA'>Umā</s1> and <s1 slp1='Siva'>Śiva</s1>’, <ab>N.</ab> of an idol (representing <s1 slp1='Siva'>Śiva</s1> joined with <s1 slp1='umA'>Umā</s1>), <ls>MatsyaP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उमेश",
+            "eid": "20559",
+            "pagenum": 1,
+            "content": "उमेश¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Bein.</ab> <is>Śiva</is>ʼs. <div n='1'>— 2〉 <is>Śiva</is> <i>mit</i> <is>Umā</is> (als Statue)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उमेश",
+            "eid": "12403",
+            "pagenum": 1,
+            "content": "उमेश¦ (उमा + इश) <lex>m.</lex> ein Bein. <is>Śiva's</is> <ls>H. 195, v. l.</ls>"
+        },
+        {
+            "word": "उमेश",
+            "eid": "68534",
+            "pagenum": 5,
+            "content": "उमेश¦ (उमा + ईश) <lex>m.</lex> <is>Śiva</is> <i>in Verbindung mit</i> <is>Umā</is> (als Statue) <ls>Verz. d. Oxf. H. 42,b,48.</ls>"
+        }
     ]
 }

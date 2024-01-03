@@ -31,5 +31,35 @@
             "pagenum": 269,
             "content": "<b>sárva-vīra,</b>¦ <i><ab>a.</ab></i> with unharmed heroes <i>or</i> with all heroes, <i><ab>i. e.</ab></i> having lost none. [<ls n='wg,1298'>1298.</ls>]"
         }
+    ],
+    "MW": [
+        {
+            "word": "सर्ववीर",
+            "eid": "238727",
+            "pagenum": 1187,
+            "content": "स/र्व—वीर ¦ (स/र्व-), <lex>mf(आ)n.</lex> all-heroic, consisting of or relating to or accompanied by or leading all men or heroes, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Kauś.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "सर्ववीर",
+            "eid": "238727.1",
+            "pagenum": 1187,
+            "content": "¦ possessing numerous male descendants, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सर्ववीर",
+            "eid": "122087",
+            "pagenum": 7,
+            "content": "स/र्ववीर¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>aus allen Männern bestehend, vollzählig; von allen Männern begleitet, alle Mannen führend; auf alle <ab n='Männern'>M.</ab> sich erstreckend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सर्ववीर",
+            "eid": "107007",
+            "pagenum": 7,
+            "content": "स/र्ववीर¦ <lex>adj.</lex> <i>aus allen Männern bestehend, vollzählig; von allen Männern begleitet</i>: विश् <ls>ṚV. 1, 111, 2.</ls> सर्व^वीरा\\स्तव\\ शर्म^न्स्याम <i>mit allen unsern Mannen</i> <ls n='ṚV. 1,'>51, 15.</ls> <ls n='ṚV. 1,'>105, 19.</ls> रयि <ls n='ṚV.'>2, 30, 11.</ls> <ls n='ṚV.'>3, 62, 3.</ls> <is>Pūṣan</is> <ls n='ṚV.'>10, 17, 5.</ls> <is>Uṣas</is> <ls n='ṚV.'>1, 113, 18.</ls> <ls>AV. 3, 12, 1.</ls> <ls n='AV.'>7, 8, 1.</ls> <ls n='AV.'>12, 2, 28.</ls> <ls>KAUŚ. 45.</ls> <i>alle Mannen führend</i>: वीर <ls>ṚV. 6, 23, 4.</ls> <ls n='ṚV.'>9, 90, 3.</ls> <div n='v'>— Vgl. अ° ."
+        }
     ]
 }

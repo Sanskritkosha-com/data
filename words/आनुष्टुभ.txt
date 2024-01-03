@@ -23,5 +23,49 @@
             "pagenum": 178,
             "content": "<b>ā́nuṣṭubha,</b>¦ <ab>a.</ab>, wie die anuṣṭúbh <i>aus vier Theilen zusammengesetzt</i>. <div n='TS'>-asya {1007,1} havíṣas."
         }
+    ],
+    "MW": [
+        {
+            "word": "आनुष्टुभ",
+            "eid": "24630",
+            "pagenum": 141,
+            "content": "आ/नुष्टुभ ¦ <lex>mf(ई)n.</lex> consisting of <s1 slp1='anu-zwuB'>Anu-ṣṭubh</s1>s<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "आनुष्टुभ",
+            "eid": "24631",
+            "pagenum": 141,
+            "content": "¦ formed like the <s1 slp1='anu-zwuB'>Anu-ṣṭubh</s1> metre (<ab>e.g.</ab> composed of four divisions), <ls>RV. x, 181, 1</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>RPrāt.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आनुष्टुभ",
+            "eid": "8631",
+            "pagenum": 122,
+            "content": "आनुष्टुभ¦ <i>ānuṣṭubha, as, ī, am</i> (fr. <i>anu-</i> <i>ṣṭubh</i>), consisting of Anuṣṭubhs, formed like the Anuṣṭubh metre (e. g. composed of four divisions)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आनुष्टुभ",
+            "eid": "14782",
+            "pagenum": 1,
+            "content": "आ/नुष्टुभ¦ <lex>Adj.</lex> (<lex>f.</lex> आ und ई <ls>VAITĀN.</ls>). <i>aus</i> <is>Anuṣṭubh</is> <i>bestehend, der</i> <is n='Anuṣṭubh'>A.</is> <i>gleichartig,</i> <ab>z. B.</ab> <i>aus vier Theilen zusammengesetzt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आनुष्टुभ",
+            "eid": "8665",
+            "pagenum": 1,
+            "content": "आ/नुष्टुभ¦ (von अनुष्टुभ्) <lex>adj.</lex> <lex>f.</lex> आ <is>gaṇa</is> उत्सादि zu <ls>P. 4, 1, 86.</ls> <i>aus</i> <is>A.</is> <i>bestehend, der</i> <is>A.</is> <i>gleichartig</i>; z. B. <i>aus vier Gliedern zusammengesetzt</i>: आनु^ष्टुभस्य ह\\विषो^ ह\\विर्यत् <ls>ṚV. 10, 181, 1.</ls> छन्द^सा <ls>VS. 11, 11. 60.</ls> आनुष्टुभो   वा अश्व आनुष्टुभैषा दिक् <ls>ŚAT. BR. 13, 2, 2, 19.</ls> <ls n='ŚAT. BR.'>11, 5, 9, 7.</ls> अनुष्टुब्द्वे च गायत्र्यावेष (प्रगाथः) आनुष्टुभः स्मृतः <ls>ṚV. PRĀT. 18, 3.</ls> <ls n='ṚV. PRĀT. 18,'>11.</ls>"
+        },
+        {
+            "word": "आनुष्टुभ",
+            "eid": "66524",
+            "pagenum": 5,
+            "content": "आनुष्टुभ¦ <ls>PAÑCAV. BR. 12, 13, 26.</ls> <ls>NIDĀNA 1, 3, 9.</ls> आनुष्टुभेन च्छन्दसा <ls>UTTARARĀMAC. 36, 5</ls> (in der neueren Ausg.; अनु° die ältere Ausg. <ls n='UTTARARĀMAC.'>27, 15</ls>)."
+        }
     ]
 }

@@ -39,5 +39,71 @@
             "pagenum": 53,
             "content": "aBojya¦ <i>a. (f. ज्या)</i> 1. Unfit for food, prohibited as food; 2. one whose food must not be eaten."
         }
+    ],
+    "MD": [
+        {
+            "word": "अभोज्य",
+            "eid": "2315",
+            "pagenum": 24,
+            "content": "अभोज्य¦ a-bhojya, <ab>fp.</ab> that may not be eaten; 🞄whose food may not be eaten: <b>-anna,</b> <lex>a.</lex> <ab>id.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अभोज्य",
+            "eid": "13142",
+            "pagenum": 75,
+            "content": "अ-भोज्य ¦ <lex>mfn.</lex> uneatable, <ls>Hariv.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अभोज्य",
+            "eid": "13143",
+            "pagenum": 75,
+            "content": "¦ not to be eaten, prohibited as food, <ls>Gaut.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "अभोज्य",
+            "eid": "13144",
+            "pagenum": 75,
+            "content": "¦ one whose food is not allowed to be eaten, <ls>Mn. xi, 152.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभोज्य",
+            "eid": "5080",
+            "pagenum": 71,
+            "content": "<i>A-bhojya, as, ā, am,</i>¦ not to be eaten, prohibited as food, impure. <i>—A-bhojyānna (°ya-an°), as, ā,</i> <i>am,</i> one whose food is not allowed to be eaten."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभोज्य",
+            "eid": "7847",
+            "pagenum": 1,
+            "content": "अभोज्य¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>zu essen verboten</i> <ls n='Chr.'>107,20</ls>. <ls>GAUT. 17,8. 23,23. 24,3</ls>. <div n='1'>— 2〉 <i>dessen Speise man nicht geniessen darf</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभोज्य",
+            "eid": "4882",
+            "pagenum": 1,
+            "content": "अभोज्य¦ (3. अ + भोज्य) <lex>adj.</lex> <div n='1'> 1) <i>zu essen verboten</i>: अभोज्यान्न <lex>adj.</lex> <i>dessen Speise man nicht geniessen darf</i> <ls>M. 4, 221.</ls> <div n='1'>— 2) = dem eben bespr. अभोज्यान्न <ls>M. 11, 152</ls> : अभोज्यानां तु भुक्त्वान्नम् ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अभोज्य",
+            "eid": "5260",
+            "pagenum": 4,
+            "content": "अभोज्य¦ 3〉 <i>ungeniessbar</i> <ls>HARIV. 3636</ls>."
+        },
+        {
+            "word": "अभोज्य",
+            "eid": "12348",
+            "pagenum": 7,
+            "content": "अभोज्य¦ I. 4."
+        }
     ]
 }

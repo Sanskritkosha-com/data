@@ -80,5 +80,67 @@
             "pagenum": 279,
             "content": "Cardis¦ <i>f.</i> Vomiting."
         }
+    ],
+    "MW": [
+        {
+            "word": "छर्दिस्",
+            "eid": "75709",
+            "pagenum": 405,
+            "content": "<hom>1.</hom> छर्दि/स् ¦ <lex>n.</lex> (= छदि/स्) a fence, secure place or residence (गृह, <ls>Naigh. iii, 4</ls>), <ls>RV. i, 48, 15</ls> and <ls n='RV. i,'>114, 5</ls><info lex='n'/>"
+        },
+        {
+            "word": "छर्दिस्",
+            "eid": "75710",
+            "pagenum": 405,
+            "content": "¦ <ls n='RV.'>vi</ls>-<ls n='RV.'>viii</ls>, <ls n='RV.'>x</ls>; <ls>VS. xiii f.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "छर्दिस्",
+            "eid": "76120",
+            "pagenum": 407,
+            "content": "<hom>2.</hom> छर्दिस् ¦ <lex>n.</lex> (<lex type='hwalt'>f.</lex>, <ls>L.</ls>) vomition, <ls>Car. i</ls>, <ls n='Car.'>vi</ls>, <ls n='Car.'>viii.</ls><info lex='f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छर्दिस्",
+            "eid": "19043",
+            "pagenum": 332,
+            "content": "1. <i>chardis, is,</i>¦ f. n. vomiting. (For 2. <i>chardis</i> see below.)"
+        },
+        {
+            "word": "छर्दिस्",
+            "eid": "19046",
+            "pagenum": 332,
+            "content": "छर्दिस् 2¦. <i>chardis, is,</i> n. (fr. 1. <i>chad ?</i>), Ved. a fence, a secure place, secure residence; a house; [cf. <i>chadis.</i>] <i>—Chardiṣ-pā, ās, ās, am,</i> Ved. protecting a house."
+        }
+    ],
+    "PW": [
+        {
+            "word": "छर्दिस्",
+            "eid": "40991",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> छर्दि/स्¦ <lex>n.</lex> <i>Schirm, Schutzwehr; sichrer Wohnort</i>."
+        },
+        {
+            "word": "छर्दिस्",
+            "eid": "40992",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> छर्दिस्¦ (*<lex>f.</lex>) <lex>n.</lex> <i>Erbrechen,</i> <ab>Pl.</ab> <i>Arten des Erbrechens</i> <ls>CARAKA. 1,19. 25. 6,20. 8,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छर्दिस्",
+            "eid": "26141",
+            "pagenum": 2,
+            "content": "1. छर्दि/स्¦ <lex>n.</lex> <i>Schirm, Schutzwehr; sicherer Wohnort</i>, = गृह <ls>NAIGH. 3, 4.</ls> Gewöhnlich in Verbindung mit यम्: छ\\र्दिर्य^न्त\\मदा^भ्यम् <ls>ṚV. 8, 5, 12.</ls> शर्म\\ वर्म\\ च्छ\\र्दिर\\स्मभ्य^ं यंसत् <ls n='ṚV.'>1, 114, 5.</ls> <ls n='ṚV.'>6, 15, 3.</ls> <ls n='ṚV. 6,'>46, 9.</ls> <ls n='ṚV. 6, 46,'>12.</ls> <ls n='ṚV.'>7, 74, 5.</ls> <ls n='ṚV.'>8, 27, 20.</ls> <ls n='ṚV. 8,'>74, 5.</ls> <ls n='ṚV.'>10, 35, 12.</ls> अ\\ग्निष्ट्वा\\भि पा^तु म\\ह्या स्व\\स्त्या छ\\र्दिषा\\ शन्त^मेन <ls>VS. 13, 19.</ls> <ls n='VS.'>14, 12.</ls> Das Wort ist wahrscheinlich auf 1. छद् zurückzuführen, also wesentlich identisch mit छदिस्, wofür auch der Umstand spricht, dass es als Jambus gebraucht wird, z. B. <ls>ṚV. 1, 48, 15.</ls> <ls n='ṚV.'>8, 18, 21.</ls> <ls n='ṚV. 8,'>27, 4.</ls> <ls n='ṚV. 8,'>56, 6.</ls> <ls n='ṚV. 8,'>60, 14.</ls> Das <i>r</i> wäre als unorganisch anzusehen."
+        },
+        {
+            "word": "छर्दिस्",
+            "eid": "26142",
+            "pagenum": 2,
+            "content": "2. छर्दि/स्¦ (von छर्द्) <ls>Uṇ. 2, 104.</ls> f. n. <ls>TRIK. 3, 5, 20.</ls> = छर्दि <i>das Erbrechen</i> <ls>H. 469.</ls> <ls>Uṇ.</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

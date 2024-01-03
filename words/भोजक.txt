@@ -23,5 +23,93 @@
             "pagenum": 312,
             "content": "भोजक¦ essend (—°); *essen wollend <i>(Acc.).</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "भोजक",
+            "eid": "13411",
+            "pagenum": 210,
+            "content": "भोजक¦ bhoja-ka, 〈1.〉 <lex>a.</lex> eating (<ab>—°</ab>); feeding 🞄(<ab>g.</ab>); <lex>m.</lex> attendant at meals; 〈2.〉 priest of the 🞄sun (<i>supposed to be descended from the union 🞄of Magi with Bhoja women</i>); astrologer."
+        }
+    ],
+    "MW": [
+        {
+            "word": "भोजक",
+            "eid": "153260",
+            "pagenum": 768,
+            "content": "भोजक ¦ <lex>mfn.</lex> eating (See बहु-भ्°)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "भोजक",
+            "eid": "153261",
+            "pagenum": 768,
+            "content": "¦ being about to eat, <ls>Pāṇ. iii, 3, 10</ls>, <ab>Sch.</ab><info lex='inh'/>"
+        },
+        {
+            "word": "भोजक",
+            "eid": "153262",
+            "pagenum": 768,
+            "content": "¦ (<ab>fr.</ab> <ab>Caus.</ab>) giving to eat, nourishing, <ls>Yājñ.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भोजक",
+            "eid": "153263",
+            "pagenum": 768,
+            "content": "भोजक ¦ <lex>m.</lex> (perhaps) a waiter at table, <ls>Kām.</ls><info lex='m'/>"
+        },
+        {
+            "word": "भोजक",
+            "eid": "153264",
+            "pagenum": 768,
+            "content": "¦ <ab>N.</ab> of a class of priests (or Sun-worshippers, supposed to be descended from the <s1 slp1='maga'>Maga</s1>s by intermarriage with women of the <s1 slp1='Boja'>Bhoja</s1> race), <ls>Cat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भोजक",
+            "eid": "153265",
+            "pagenum": 768,
+            "content": "¦ an astrologer, <ls>Hcar.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "भोजक",
+            "eid": "153266",
+            "pagenum": 768,
+            "content": "¦ <ab>N.</ab> of a king, <ls>VP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भोजक",
+            "eid": "35842",
+            "pagenum": 723,
+            "content": "<i>Bhojaka, as, ā, am,</i>¦ eating; (fr. the Caus.), giving to eat, causing to eat, nourishing; (<i>as</i>), m. one who gives to eat, (perhaps) a waiter at table; N. of a class of priests (or Sun-worshippers, supposed to be descended from the Magas by intermarriage with women of the Bhoja race)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भोजक",
+            "eid": "81048",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> भोजक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>essend</i> (<ab>s.</ab> बहु°), *<i>im Begriff stehend zu essen</i>. <div n='2'>— b〉 <i>speisend, zu essen gebend</i>. <div n='1'>— 2〉 <lex>m.</lex> etwa <i>ein Aufwärter beim Essen</i>."
+        },
+        {
+            "word": "भोजक",
+            "eid": "81049",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> भोजक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein Priester der Sonne, der aus einer ehelichen Verbindung der</i> <is>Maga</is> <i>mit Frauen aus dem</i> <is>Bhoja</is>-<i>Geschlecht herstammen soll</i>. <div n='1'>— 2〉 <i>Astrolog</i> <ls>HARṢAC. 96,18</ls>. <div n='1'>— 3〉 <ab>N. pr.</ab> eines Fürsten <ls>VP. 24,99</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भोजक",
+            "eid": "55852",
+            "pagenum": 5,
+            "content": "1. भो/जक¦ nom. ag. <div n='1'> 1) (von 3. भुज्) <i>essend</i>: ओदनस्य <ls>P. 2, 2, 17</ls>, <ls>Sch.</ls> <i>im Begriff stehend zu essen</i>: भोजको व्रजति <i>er geht um seine Mahlzeit zu halten</i> <ls>P. 3, 3, 10</ls>, <ls>Sch.</ls>  <div n='1'>— 2) (vom caus. von 3. भुज्) <i>speisend</i> (trans.): शूद्रप्रव्रजितानाम् <ls>YĀJÑ. 2, 235.</ls> viell. <i>ein Aufwärter beim Essen</i> <ls>KĀM. NĪTIS. 12, 45.</ls>"
+        },
+        {
+            "word": "भोजक",
+            "eid": "55853",
+            "pagenum": 5,
+            "content": "2. भोजक¦ <lex>m.</lex> <i>ein Priester der Sonne, der aus einer ehelichen Verbindung der</i> <is>Maga</is> <i>mit Frauen aus dem</i> <is>Bhoja</is>-<i>Geschlecht herstammen soll</i>, <ls>Verz. d. Oxf. H. 31-33.</ls>"
+        }
     ]
 }

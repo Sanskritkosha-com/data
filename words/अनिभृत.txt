@@ -39,5 +39,57 @@
             "pagenum": 20,
             "content": "aniBfta¦ <i>a. (f. ता)</i> 1. Not modest, bold; 2. not private; 3. unstable."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनिभृत",
+            "eid": "1536",
+            "pagenum": 14,
+            "content": "अनिभृत¦ a-ni-bhṛta, <ab>pp.</ab> movable, restless; 🞄immodest; <b>-tva,</b> <lex>n.</lex> mobility."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनिभृत",
+            "eid": "5808",
+            "pagenum": 29,
+            "content": "अ-निभृत ¦ <lex>mfn.</lex> not private, not reserved, immodest, bold, public.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अनिभृत",
+            "eid": "5808.1",
+            "pagenum": 1311,
+            "content": "¦ violently moved or shaken, <ls>Jātakam.</ls><info n='sup'/><info lex='inh'/>"
+        },
+        {
+            "word": "अनिभृत",
+            "eid": "5808.2",
+            "pagenum": 1311,
+            "content": "¦ violent, intense, strong, <ab>ib.</ab><info n='sup'/><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनिभृत",
+            "eid": "1840",
+            "pagenum": 30,
+            "content": "अनिभृत¦ <i>a-nibhṛta, as, ā, am,</i> not private, not reserved, immodest, bold, public."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनिभृत",
+            "eid": "4086",
+            "pagenum": 1,
+            "content": "अनिभृत¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>nicht fest, beweglich, unruhig, unstät</i> <ls>NIR. 10,4</ls>. <ls>MEGH. 67</ls>. <ls>KIR. 13,66</ls>. <div n='1'>— 2〉 <i>unbescheiden</i> <ls>BHĀR. NĀṬYAŚ. 34,119</ls>."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अनिभृत",
+            "eid": "11078",
+            "pagenum": 7,
+            "content": "अनिभृत¦ I. <i>stark bewegt</i> (जल) <ls>JĀTAKAM. 14</ls>. <i>stark, intensiv</i> (गन्ध) <ls n='JĀTAKAM.'>15,11</ls>."
+        }
     ]
 }

@@ -7,5 +7,27 @@
             "pagenum": 118,
             "content": "iByA¦ <i>f.</i> A female elephant."
         }
+    ],
+    "MW": [
+        {
+            "word": "इभ्या",
+            "eid": "29321",
+            "pagenum": 167,
+            "content": "इ/भ्या ¦ <lex>f.</lex> a female elephant, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "इभ्या",
+            "eid": "29322",
+            "pagenum": 167,
+            "content": "¦ the Olibanum tree, <bot>Boswellia Serrata</bot>.<info lex='inh'/>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इभ्या",
+            "eid": "10300",
+            "pagenum": 1,
+            "content": "इभ्या/¦ (von 2. इभ) <lex>f.</lex> <ls>ŚĀNT. 1, 5.</ls> <div n='1'> 1) <i>Elephantenweibchen</i> <ls>H. an. 2, 436.</ls> <ls>MED. y. 6.</ls> <div n='1'>— 2) N. eines Weihrauchbaums, <i>Boswellia serrata Stackh.</i>, diess."
+        }
     ]
 }

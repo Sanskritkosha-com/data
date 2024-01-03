@@ -39,5 +39,51 @@
             "pagenum": 611,
             "content": "rADeya¦ <i>m.</i> An epithet of Karṇa."
         }
+    ],
+    "MD": [
+        {
+            "word": "राधेय",
+            "eid": "15200",
+            "pagenum": 254,
+            "content": "राधेय¦ rādh-eya, <lex>m.</lex> <ab>met.</ab> <i>of</i> Karṇa."
+        }
+    ],
+    "MW": [
+        {
+            "word": "राधेय",
+            "eid": "177247",
+            "pagenum": 876,
+            "content": "राधेय ¦ <lex>m.</lex> <ab>metr.</ab> of <s1 slp1='karRa'>Karṇa</s1> (<ab>cf.</ab> under राधा), <ls>MBh.</ls>; <ls>R.</ls>; <ls>Rājat.</ls><info lex='m'/>"
+        },
+        {
+            "word": "राधेय",
+            "eid": "177248",
+            "pagenum": 876,
+            "content": "¦ of <s1 slp1='BIzma'>Bhīṣma</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "राधेय",
+            "eid": "39394",
+            "pagenum": 842,
+            "content": "<i>Rādheya, as,</i>¦ m. (fr. <i>rādhā</i>), a metronymic of Karṇa (as passing for the child of his foster-mother Rādhā, see <i>rādhā</i>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "राधेय",
+            "eid": "84459",
+            "pagenum": 6,
+            "content": "राधेय¦ (von राधा) <lex>m.</lex> metron. <is>Karṇa's</is> <ls>TRIK. 2, 8, 18. 3, 3, 124.</ls> <ls>H. 711.</ls> <ls>Sch.</ls> <ls>MBH. 1, 5221.</ls> <ls n='MBH. 1,'>7051.</ls> <ls n='MBH. 1,'>7095.</ls> <ls n='MBH.'>3, 14822.</ls> <ls n='MBH.'>4, 1300.</ls> <ls n='MBH.'>6, 5826.</ls> <ls n='MBH.'>8, 4355.</ls> <ls>R. 7, 6, 35.</ls> <ls>RĀJA-TAR. 5, 379.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "राधेय",
+            "eid": "20792",
+            "pagenum": 7,
+            "content": "राधेय¦ <lex>m.</lex> <ab>Metron.</ab> <is>Bhīṣma</is>ʼs."
+        }
     ]
 }

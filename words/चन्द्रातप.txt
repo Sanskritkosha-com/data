@@ -20,5 +20,43 @@
             "pagenum": 167,
             "content": "*चन्द्रातप¦ <lex>m.</lex> moon-shine.*"
         }
+    ],
+    "MW": [
+        {
+            "word": "चन्द्रातप",
+            "eid": "71897",
+            "pagenum": 387,
+            "content": "candrA<srs/>tapa ¦ <lex>m.</lex> moon-light, <ls>Daś.</ls><info lex='m'/>"
+        },
+        {
+            "word": "चन्द्रातप",
+            "eid": "71898",
+            "pagenum": 387,
+            "content": "¦ an open hall, awning, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चन्द्रातप",
+            "eid": "39103",
+            "pagenum": 2,
+            "content": "*चन्द्रातप¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Mondschein</i> <ls>RĀJAN. 21,46</ls>. <div n='1'>— 2〉 <i>eine offene, mit einem blossen Dache versehene Halle</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चन्द्रातप",
+            "eid": "24813",
+            "pagenum": 2,
+            "content": "चन्द्रातप¦ (च° + आतप) <lex>m.</lex> <div n='1'> 1) <i>Mondschein</i> <ls>H. 107.</ls> <div n='1'>— 2) <i>eine offene, mit einem blossen Dach versehene Halle</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "चन्द्रातप",
+            "eid": "17212",
+            "pagenum": 7,
+            "content": "चन्द्रातप¦ II. 1〉 <ls>DAŚAK. (1883) 111,4</ls>."
+        }
     ]
 }

@@ -39,5 +39,51 @@
             "pagenum": 198,
             "content": "धुर्व्¦ <i>s.</i> धूर्व्"
         }
+    ],
+    "MD": [
+        {
+            "word": "धुर्व्",
+            "eid": "10075",
+            "pagenum": 133,
+            "content": "धुर्व्¦ DHURV, <ab>v.</ab> धूर्व् DHŪRV."
+        }
+    ],
+    "MW": [
+        {
+            "word": "धुर्व्",
+            "eid": "101477",
+            "pagenum": 517,
+            "content": "धुर्व् <hom>a</hom> ¦ = धूर्व्, <ab>q.v.</ab><info verb='root' cp='0'/>"
+        },
+        {
+            "word": "धुर्व्",
+            "eid": "101761.1",
+            "pagenum": 518,
+            "content": "धूर्व् or धुर्व् ¦ (<ls>Dhātup. xv, 64</ls>) <ab>cl.</ab> 1. <ab>P.</ab> धू/र्वति, <ls>RV.</ls>; <ls>VS.</ls>; <ls>Br.</ls> (<ab>aor.</ab> अधूर्वीत्, <ls>ŚBr.</ls>; <ab>inf.</ab> धूर्वितुम्, <ls>ib.</ls>; <ab>pf.</ab> दुधूर्व; <ab>fut.</ab> धूर्विष्यति, °विता <ab>Gr.</ab>) to bend, cause to fall, hurt, injure, <ls>RV.</ls> &c., <ls>Bhaṭṭ.</ls> (<ab>cf.</ab> ध्वृ). <info or='101761,DUrv;101761.1,Durv'/><info westergaard='DurvI,15.64,01.0370'/><info whitneyroots='DUrv,84'/><info verb='root' cp='1P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "धुर्व्",
+            "eid": "23457",
+            "pagenum": 457,
+            "content": "धुर्व्¦ <i>dhurv</i> [cf. rt. <i>dhūrv</i>], cl. 1. P. <i>dhur-</i> <i>vati,</i> &c., to hurt, kill."
+        }
+    ],
+    "PW": [
+        {
+            "word": "धुर्व्",
+            "eid": "55504",
+            "pagenum": 3,
+            "content": "धुर्व्¦ <ab>s.</ab> धूर्व्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धुर्व्",
+            "eid": "36821",
+            "pagenum": 3,
+            "content": "धुर्व्¦ s. धूर्व् ."
+        }
     ]
 }

@@ -7,5 +7,19 @@
             "pagenum": 16,
             "content": "<b>AFT:</b>¦ <div n='I'>I subs: *(नावः) पश्चाद्भागः </div><div n='I'>II Adv.: v. Abaft.</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "aft",
+            "eid": "426",
+            "pagenum": 10,
+            "content": "AFT¦, <i>s.</i> (The part of a ship towards the stern) नावः पश्चिमभागः."
+        },
+        {
+            "word": "aft",
+            "eid": "427",
+            "pagenum": 10,
+            "content": "AFT¦, <i>adv.</i> (Towards the stern of a ship) नावः पश्चिमभागं प्रति, नावः पश्चाद्भागं प्रति."
+        }
     ]
 }

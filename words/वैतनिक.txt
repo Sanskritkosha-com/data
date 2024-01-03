@@ -44,5 +44,43 @@
             "pagenum": 693,
             "content": "vEtanika¦ <i>m.</i> A hired labourer, a stipendiary."
         }
+    ],
+    "MW": [
+        {
+            "word": "वैतनिक",
+            "eid": "206860",
+            "pagenum": 1021,
+            "content": "वैतनिक ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> वेतन) living on wages, serving for wages<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "वैतनिक",
+            "eid": "206861",
+            "pagenum": 1021,
+            "content": "वैतनिक ¦ <lex>m.</lex> a hireling, labourer, <ls>Pāṇ. iv, 4, 12.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वैतनिक",
+            "eid": "45017",
+            "pagenum": 968,
+            "content": "वैतनिक¦ <i>vaitanika, as, ī, am</i> (fr. <i>vetana</i>), living on wages, subsisting on a stipend; (<i>as</i>), m. a hireling, stipendiary; a labourer."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैतनिक",
+            "eid": "107615",
+            "pagenum": 6,
+            "content": "*वैतनिक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <ab>Subst.</ab> <i>Lohn empfangend, für <ab n='Lohn'>L.</ab> dienend, Söldling</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैतनिक",
+            "eid": "95693",
+            "pagenum": 6,
+            "content": "वैतनिक/¦ (von वेतन) <lex>adj.</lex> (f. ई) <i>Lohn empfangend, für Lohn dienend, Söldling</i> <ls>P. 4, 4, 12.</ls> <ls>AK. 2, 10, 15.</ls> <ls>H. 361.</ls>"
+        }
     ]
 }

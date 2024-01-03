@@ -37,5 +37,25 @@
             "pagenum": 400,
             "content": "nOkA¦ <i>f.</i> A small boat."
         }
+    ],
+    "MW": [
+        {
+            "word": "नौका",
+            "eid": "112654",
+            "pagenum": 571,
+            "content": "नौका ¦ <lex>f.</lex> a small boat or ship, <ls>MBh.</ls>; <ls>R.</ls> &c.<info lex='f'/>"
+        },
+        {
+            "word": "नौका",
+            "eid": "112655",
+            "pagenum": 571,
+            "content": "¦ the rook or castle (in the game <s1 slp1='catur-aNga'>Catur-aṅga</s1>), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नौका",
+            "eid": "112656",
+            "pagenum": 571,
+            "content": "¦ <ab>N.</ab> of <ab>sev.</ab> <ab>Comms.</ab><info lex='inh'/>"
+        }
     ]
 }

@@ -19,5 +19,79 @@
             "pagenum": 533,
             "content": "<hom>3.</hom> <b>(tā́nva),</b> <b>tā́nua,</b>¦ <ab>a.</ab> [von tan], <i>ausgespannt, gewebt</i>. <div n='TS'>-ā [<ab>p.</ab> <ab>n.</ab>] śáryāṇi {726,4}. <div n='TS'>-ā [<ab>f.</ab>] ávis {790,1}."
         }
+    ],
+    "MW": [
+        {
+            "word": "तान्व",
+            "eid": "83880",
+            "pagenum": 442,
+            "content": "<hom>1.</hom> ता/न्व ¦ <lex>mf(आ)n.</lex> woven, spun, <ls>RV. ix, 14, 4</ls> and <ls n='RV. ix,'>78, 1</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "तान्व",
+            "eid": "83881",
+            "pagenum": 442,
+            "content": "¦ (<ab>fr.</ab> तनु) one's own son, <ls n='RV.'>iii, 31, 2</ls>.<info lex='inh'/>"
+        },
+        {
+            "word": "तान्व",
+            "eid": "83883",
+            "pagenum": 442,
+            "content": "<hom>2.</hom> ता/न्व ¦ <lex>m.</lex> <ab>patr.</ab> <ab>fr.</ab> तन्व (author of <ls>RV. x, 93</ls>), <ls n='RV. x,'>93, 15</ls><info lex='m'/>"
+        },
+        {
+            "word": "तान्व",
+            "eid": "83884",
+            "pagenum": 442,
+            "content": "ता/न्व ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1='sAman'>Sāman</s1>, <ls>ĀrṣBr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तान्व",
+            "eid": "20742",
+            "pagenum": 369,
+            "content": "तान्व¦ <i>tānva, as, ī, am</i> (fr. <i>tanū</i>), Ved. belonging to one's own body or person, personal; (<i>as</i>), m. a patronymic from Tanva; (<i>am</i>), n., N. of a Sāman called after Tanva; (<i>as, ā, am</i>), forming the warp of a web, woven, spun; (Sāy.) a cloth for filtering the Soma; (perhaps for <i>tanva</i> by a metrical lengthening of the first syllable.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तान्व",
+            "eid": "45206",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> (तान्व) ता/नुअ¦ <lex>m.</lex> <i>ein leiblicher Sohn</i>."
+        },
+        {
+            "word": "तान्व",
+            "eid": "45207",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> तान्व, ता/नुअ¦ <div n='1'>— 1〉 <lex>m.</lex> <ab>Patron.</ab> von तन्व. <div n='1'>— 2〉 <lex>n.</lex> Name zweier <is>Sāman</is> <ls>ĀRṢ. BR.</ls>"
+        },
+        {
+            "word": "तान्व",
+            "eid": "45208",
+            "pagenum": 3,
+            "content": "<hom>3.</hom> (तान्व) ता/नुअ¦ <lex>Adj.</lex> <i>geflochten, gewebt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तान्व",
+            "eid": "29211",
+            "pagenum": 3,
+            "content": "1. ता/न्व¦ (von तनू) <lex>adj.</lex> <i>zur eigenen Person gehörig, leiblich</i> <ls>NIR. 3, 6.</ls> न जा\\मये\\ तान्वो^ रि\\क्थमा^रैक् <i>ein leiblicher Sohn</i> <ls>ṚV. 3, 31, 2.</ls>"
+        },
+        {
+            "word": "तान्व",
+            "eid": "29212",
+            "pagenum": 3,
+            "content": "2. ता/न्व¦ <div n='1'> 1) wohl patron von तन्व (s. d.). N. pr.: स\\द्यो दि^दिष्ट\\ तान्व^ः स\\द्यो दि^° पा\\र्थ्यः स\\द्यो दि^° माय\\वः <ls>ṚV. 10, 93, 15.</ls> Nach <ls>ṚV. ANUKR.</ls> Liedverfasser von <ls>ṚV. 10, 93.</ls> <div n='1'>— 2) <lex>n.</lex> Bez. eines nach <is>Tanva</is> benannten <is>Sāman</is> <ls>Ind. St. 3, 217.</ls>"
+        },
+        {
+            "word": "तान्व",
+            "eid": "29213",
+            "pagenum": 3,
+            "content": "3. ता/न्व¦ (wohl durch metrische Dehnung für तन्व [von तन्]) <lex>adj.</lex> <i>einen Aufzug bildend, geflochten, gewebt</i>: नि\\रि\\णा\\नो वि धा^वति\\ जह\\च्छर्या^णि\\ -तान्वा^ <ls>ṚV. 9, 14, 4.</ls> गृ\\भ्णाति^ रि\\प्रमवि^रस्य\\ तान्वा^ <ls n='ṚV. 9,'>78, 1.</ls> In beiden Fällen zu sprechen: तानुवा ."
+        }
     ]
 }

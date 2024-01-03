@@ -15,5 +15,43 @@
             "pagenum": 229,
             "content": "पञ्चथ¦ der fünfte."
         }
+    ],
+    "MW": [
+        {
+            "word": "पञ्चथ",
+            "eid": "114152",
+            "pagenum": 578,
+            "content": "पञ्चथ ¦ <lex>mfn.</lex> (<ab>cf.</ab> <ls>Pāṇ. v, 2, 50</ls>) the fifth, <ls>Kāṭh.</ls> <info lex='m:f:n'/>"
+        },
+        {
+            "word": "पञ्चथ",
+            "eid": "114152.1",
+            "pagenum": 578,
+            "content": "पञ्चथ ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pukhdha</etym>; <ab>Gk.</ab> <lang n='greek'>πέμπτος</lang>; <ab>Lat.</ab> <etym>quinctus</etym>, <etym>quintus</etym> for <etym>pinctus</etym>; <ab>Lith.</ab> <etym>pénktas</etym>; <ab>Goth.</ab> <etym>fimfta</etym>; <ab>Germ.</ab> <etym>fünfte</etym>; <ab>Angl.Sax.</ab> <etym>fīfta</etym>; <ab>Eng.</ab> <etym>fifth</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पञ्चथ",
+            "eid": "26721",
+            "pagenum": 524,
+            "content": "<i>Pañcatha, as, ā, am,</i>¦ Ved. the fifth."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पञ्चथ",
+            "eid": "61873",
+            "pagenum": 4,
+            "content": "पञ्चथ¦ <lex>Adj.</lex> <i>der fünfte</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पञ्चथ",
+            "eid": "41397",
+            "pagenum": 4,
+            "content": "पञ्चथ/¦ (wie eben) <lex>adj.</lex> ved. = पञ्चम <i>der fünfte</i> <ls>P. 5, 2, 50.</ls> <ls>KĀṬH. 9, 3.</ls>"
+        }
     ]
 }

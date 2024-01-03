@@ -31,5 +31,77 @@
             "pagenum": 170,
             "content": "दाक्ष¦ südlich, zu Daksha gehörig."
         }
+    ],
+    "MD": [
+        {
+            "word": "दाक्ष",
+            "eid": "9161",
+            "pagenum": 118,
+            "content": "दाक्ष¦ dākṣa, <lex>a.</lex> southern, dwelling in the 🞄south; relating to Dakṣa."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दाक्ष",
+            "eid": "91474",
+            "pagenum": 475,
+            "content": "दाक्ष ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> दक्ष) relating to <s1 slp1='dakza'>Dakṣa</s1> (<ls>Hariv.</ls>) or to <s1 slp1='dAkzi'>Dākṣi</s1> (<ls>Pāṇ. iv, 2, 112</ls>)<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "दाक्ष",
+            "eid": "91475",
+            "pagenum": 475,
+            "content": "¦ southern, dwelling in the south, <ls>SŚaṃkar.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दाक्ष",
+            "eid": "91476",
+            "pagenum": 475,
+            "content": "दाक्ष ¦ <lex>m.</lex> or <lex type='hw'>n.</lex> the south (in °zasyA<srs/>yana <lex type='phw'>n.</lex> the sun's progress towards <ab n='south'>s°</ab>, the winter solstice and sacrifice then performed, <ls>Mn. vi, 10</ls> [<ab>v.l.</ab> दक्ष्°])<info phwchild='91479.1'/><info lex='m:n'/>"
+        },
+        {
+            "word": "दाक्ष",
+            "eid": "91477",
+            "pagenum": 475,
+            "content": "दाक्ष ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of the disciples of a <ab>partic.</ab> school (See कुमारी-द्°). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दाक्ष",
+            "eid": "22123",
+            "pagenum": 408,
+            "content": "दाक्ष¦ <i>dākṣa, as, ī, am</i> (fr. <i>dakṣa</i>), relating to Dakṣa; relating to Dākṣi; (<i>as</i>), m. or (<i>am</i>), n. the south; <i>dākṣasyāyanam (°ya-ay°)</i> <i>= dakṣiṇāyanam,</i> the progress of the sun towards the south; the winter solstice; the sacrifice performed at this time; (<i>ās</i>), m. pl., N. of the disciples of a particular school."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दाक्ष",
+            "eid": "49520",
+            "pagenum": 3,
+            "content": "दाक्ष¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>südlich, im Süden wohnend</i>. <div n='2'>— b〉 <i>in Beziehung stehend</i>. <div n='3'>— α〉 <i>zu</i> <is>Dakṣa</is>. <div n='3'>— β〉 *<i>zu</i> <is>Dākṣi</is>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 दाक्षस्यायनम् <i>ein <ab>best.</ab> Opfer</i>. <ab>v. l.</ab> दक्षस्या°. <div n='2'>— b〉 *<ab>Pl.</ab> <i>die Schule des</i> <is>Dakṣa</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दाक्ष",
+            "eid": "32408",
+            "pagenum": 3,
+            "content": "दाक्ष¦ <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>zu</i> <is>Dakṣa</is> <i>in Beziehung stehend</i>: मख <ls>HARIV. 7444.</ls> <div n='2'>— b) oxyt. <i>zu</i> <is>Dākṣi</is> <i>in Beziehung stehend</i>: संघ, अङ्क, लक्षण <ls>P. 4, 3, 127</ls>, Sch.; vgl. <ls n='P. 4,'>2, 112</ls>, <ls>Sch.</ls> <div n='1'>— 2) दाक्षस्यायणम् = दक्षिणायनम् <i>der Gang der Sonne nach Süden, das Wintersolstitium, das zu dieser Zeit stattfindende Opfer</i> <ls>M. 6, 10.</ls> <div n='1'>— 3) <lex>m.</lex> pl. N. einer Schule: कुमारीदाक्षाः <ls>P. 6, 2, 69</ls>, Sch.; vgl. <ls n='P.'>4, 2, 112.</ls> <ls n='P. 4, 2,'>113</ls>, <ls>Sch.</ls>"
+        },
+        {
+            "word": "दाक्ष",
+            "eid": "75588",
+            "pagenum": 5,
+            "content": "दाक्ष¦ <div n='1'> 1) <div n='2'> c) <i>südlich, im Süden wohnend</i> <ls>Verz. d. Oxf. H. 259,a,10.</ls> <div n='1'>— 2) lies दाक्षस्यायनम् ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "दाक्ष",
+            "eid": "18105",
+            "pagenum": 7,
+            "content": "दाक्ष¦ III. <lex>n.</lex> = दाक्ष्य 1〉 <ls>JĀTAKAM. 29,56</ls>."
+        }
     ]
 }

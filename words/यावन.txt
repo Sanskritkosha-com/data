@@ -88,5 +88,99 @@
             "pagenum": 597,
             "content": "yAvana¦ <i>m.</i> Incense, <ls>M.</ls>ii.51."
         }
+    ],
+    "MD": [
+        {
+            "word": "यावन",
+            "eid": "14842",
+            "pagenum": 245,
+            "content": "यावन¦ yāvana, <lex>a.</lex> born in the land of the 🞄Yavans <i>or</i> Greeks."
+        }
+    ],
+    "MW": [
+        {
+            "word": "यावन",
+            "eid": "171649",
+            "pagenum": 852,
+            "content": "<hom>1.</hom> यावन ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> यवन; for <hom>2.</hom> and <hom>3.</hom> See <pcol>p. 853, col. 1</pcol>) born or produced in the land of the <s1 slp1='yavana'>Yavana</s1>s, <ls>Prāyaśc.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "यावन",
+            "eid": "171650",
+            "pagenum": 852,
+            "content": "यावन ¦ <lex>m.</lex> olibanum, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "यावन",
+            "eid": "171683",
+            "pagenum": 853,
+            "content": "<hom>2.</hom> यावन ¦ <lex>n.</lex> (<ab>fr.</ab> <ab>Caus.</ab>; for <hom>1.</hom> See <pcol>p. 852, col. 3</pcol>; for <hom>3.</hom> below) keeping off, removing, <ls>Nir.</ls>; <ls>Sāy.</ls><info lex='n'/>"
+        },
+        {
+            "word": "यावन",
+            "eid": "171695",
+            "pagenum": 853,
+            "content": "<hom>3.</hom> यावन ¦ <lex>n.</lex> (<ab>fr.</ab> <ab>Caus.</ab>) uniting, joining, mixing (See अ-य्°). <info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "यावन",
+            "eid": "38669",
+            "pagenum": 817,
+            "content": "यावन 1¦. <i>yāvana, as, ī, am</i> (fr. <i>yavana;</i> for 2. see col. 2, for 3. see col. 3), born or produced in the land of the Yavanas; (<i>as</i>), m. incense (as coming from the country of the Yavanas)."
+        },
+        {
+            "word": "यावन",
+            "eid": "38690",
+            "pagenum": 817,
+            "content": "2. <i>yāvana, am,</i>¦ n. (fr. the Caus.; for 1. <i>yāvana</i> see col. 1, for 3. see col. 3), the act of removing or keeping off."
+        },
+        {
+            "word": "यावन",
+            "eid": "38695",
+            "pagenum": 817,
+            "content": "3. <i>yāvana, am,</i>¦ n. (fr. the Caus.; for 1. see col. 1, for 2. see col. 2), the act of uniting or joining, mixing, mingling, blending."
+        }
+    ],
+    "PW": [
+        {
+            "word": "यावन",
+            "eid": "90948",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> यावन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>im Lande der</i> <is>Yavana</is> <i>geboren</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>Olibanum</i>."
+        },
+        {
+            "word": "यावन",
+            "eid": "90949",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> यावन¦ <lex>n.</lex> <i>Mischung</i> in अयावन."
+        },
+        {
+            "word": "यावन",
+            "eid": "90950",
+            "pagenum": 5,
+            "content": "<hom>3.</hom> यावन¦ <lex>n.</lex> <i>das Entfernen, Fernhalten</i> <ls>SĀY. zu ṚV. 5,53,14</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "यावन",
+            "eid": "82080",
+            "pagenum": 6,
+            "content": "1. यावन¦ (von 1. यवन) <div n='1'> 1) <lex>adj.</lex> <i>im Lande der</i> <is>Yavana</is> <i>geboren</i> <ls>PRĀYAŚCITTEND. 20,a,3. 57,a,1.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Weihrauch</i> <ls>AK. 2, 6, 3, 30.</ls> <ls>H. 648</ls>, <ls>Sch.</ls>"
+        },
+        {
+            "word": "यावन",
+            "eid": "82081",
+            "pagenum": 6,
+            "content": "2. यावन¦ (vom caus. von 2. यु) <lex>n.</lex> <i>das Verbinden, Vermengen</i>: अ° (= अमिश्रण Comm.) <ls>ṚV. PRĀT. 11, 12.</ls>"
+        },
+        {
+            "word": "यावन",
+            "eid": "82082",
+            "pagenum": 6,
+            "content": "3. यावन¦ (vom caus. von 3. यु) <lex>n.</lex> <i>das Entfernen</i>: भयानाम् <ls>NIR. 4, 21.</ls> <div n='v'>— Vgl. शपथ° ."
+        }
     ]
 }

@@ -20,5 +20,29 @@
             "pagenum": 255,
             "content": "graha-ASraya¦ <i>m.</i> polar star as the fixed centre of the planets."
         }
+    ],
+    "MW": [
+        {
+            "word": "ग्रहाश्रय",
+            "eid": "68687",
+            "pagenum": 372,
+            "content": "grahA<srs/>Sraya ¦ <lex>m.</lex> = °hA<srs/>DAra, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्रहाश्रय",
+            "eid": "37420",
+            "pagenum": 2,
+            "content": "*ग्रहाश्रय¦ <lex>m.</lex> <i>der Polarstern</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ग्रहाश्रय",
+            "eid": "23719",
+            "pagenum": 2,
+            "content": "ग्रहाश्रय¦ (ग्रह + आश्रय) <lex>m.</lex> <i>der Polarstern</i> <ls>H. ś. 15.</ls> <div n='v'>— Vgl. ग्रहाधार ."
+        }
     ]
 }

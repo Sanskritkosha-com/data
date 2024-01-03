@@ -47,5 +47,55 @@
             "pagenum": 421,
             "content": "pariSraya¦ <i>m.</i> 1. A meeting, an assembly; 2. refuge, asylum."
         }
+    ],
+    "MW": [
+        {
+            "word": "परिश्रय",
+            "eid": "118834",
+            "pagenum": 602,
+            "content": "परि-श्रय ¦ <lex>m.</lex> an enclosure, fence (in स/-परिश्°), <ls>ŚBr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "परिश्रय",
+            "eid": "118835",
+            "pagenum": 602,
+            "content": "¦ a refuge, asylum, <ls>Pañc.</ls> (<ab>B.</ab>), <ls n='Pañc.'>i, 252</ls><info lex='inh'/>"
+        },
+        {
+            "word": "परिश्रय",
+            "eid": "118836",
+            "pagenum": 602,
+            "content": "¦ an assembly, meeting, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "परिश्रय",
+            "eid": "118837",
+            "pagenum": 602,
+            "content": "¦ <ab>N.</ab> of a prince, <ls>VP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "परिश्रय",
+            "eid": "28014",
+            "pagenum": 549,
+            "content": "परिश्रय¦ <i>pari-śraya, as,</i> m. (fr. rt. <i>śri</i> with <i>pari</i>), an enclosure, fence (Ved.); a refuge, asylum; an assembly, meeting."
+        }
+    ],
+    "PW": [
+        {
+            "word": "परिश्रय",
+            "eid": "64311",
+            "pagenum": 4,
+            "content": "परिश्रय¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Umfassung, Einfriedigung in</i> स/° <lex>Adj.</lex> = <div n='1'>— 2〉 *<i>Zuflucht</i>. <div n='1'>— 3〉 *<i>Versammlung</i>. <div n='1'>— 4〉 <ab>N. pr.</ab> eines Fürsten <ls>VP. 2,4,165</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "परिश्रय",
+            "eid": "43187",
+            "pagenum": 4,
+            "content": "परिश्रय¦ (von श्रि mit परि) <lex>m.</lex> <i>Umfassung, Einfriedigung</i>: व्रजः सपरिश्रयः <ls>ŚAT. BR. 14, 9, 4, 22.</ls> <i>Zuflucht</i> (आश्रय) und <i>Versammlung</i> (सभा) <ls>ŚKDR.</ls> und <ls>WILS.</ls> nach <ls>MED.</ls> : die gedr. Ausg. j. 121 liest aber प्रतिश्रय ."
+        }
     ]
 }

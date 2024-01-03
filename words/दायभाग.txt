@@ -61,5 +61,35 @@
             "pagenum": 330,
             "content": "dAya-BAga¦ <i>m.</i> division of property among heirs, partition."
         }
+    ],
+    "MW": [
+        {
+            "word": "दायभाग",
+            "eid": "91408",
+            "pagenum": 474,
+            "content": "दाय—भाग ¦ <lex>m.</lex> partition of inheritance, <ls>Mn. ix, 103</ls><info lex='m'/>"
+        },
+        {
+            "word": "दायभाग",
+            "eid": "91409",
+            "pagenum": 474,
+            "content": "¦ <ab>N.</ab> of <ab>wk.</ab><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दायभाग",
+            "eid": "49765",
+            "pagenum": 3,
+            "content": "दायभाग¦ <lex>m.</lex> <i>Erbtheilung</i>. Auch Titel eines Werkes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दायभाग",
+            "eid": "32582",
+            "pagenum": 3,
+            "content": "दायभाग¦ (2. दाय + भाग) <lex>m.</lex> <i>Erbtheilung</i> <ls>M. 9, 103.</ls> Titel eines Werkes über <i>Erbrecht</i> <ls>GILD. Bibl. 461. 490-492.</ls>"
+        }
     ]
 }

@@ -15,5 +15,49 @@
             "pagenum": 403,
             "content": "*पस्¦ <i>pas,</i> <ab>cf.</ab> <i>paś</i> 1."
         }
+    ],
+    "MW": [
+        {
+            "word": "पस्",
+            "eid": "120780",
+            "pagenum": 612,
+            "content": "पस् ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> पसति, °ते (<ab>v.l.</ab> for स्पश्, <ls>Dhātup. xxi, 22</ls>); <div n='to'/> <ab>cl.</ab> 10. <ab>P.</ab> पासयति, to bind (<ab>v.l.</ab> for पश्, <ls n='Dhātup.'>xxxiii, 45</ls>). <info westergaard='spaSa,21.22,01.0615'/><info verb='root' cp='1P,1Ā,10P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पस्",
+            "eid": "28597",
+            "pagenum": 559,
+            "content": "पस् 1¦. <i>pas,</i> cl. 1. P. A. <i>pasati, -te, pa-</i> <i>situm,</i> a various reading for rt. <i>spaś,</i> q. v.; cl. 10. P. <i>pāsayati, -yitum,</i> a various reading for rt. 3. <i>paś.</i>"
+        },
+        {
+            "word": "पस्",
+            "eid": "28598",
+            "pagenum": 559,
+            "content": "पस् 2¦. <i>pas,</i> the pudenda."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पस्",
+            "eid": "65298",
+            "pagenum": 4,
+            "content": "*√पस्¦, पसति, °ते (बन्धनस्पर्शनयोः) पासयति (बन्धने)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पस्",
+            "eid": "43910",
+            "pagenum": 4,
+            "content": "1. पस्¦, प/सति, °ते v.l. für स्पश् (पश्, पष्) <ls>DHĀTUP. 21, 22. v. l.</ls> für पश्, पाशयति (s. पाशय्) <ls n='DHĀTUP.'>33, 45.</ls>"
+        },
+        {
+            "word": "पस्",
+            "eid": "43911",
+            "pagenum": 4,
+            "content": "2. पस्¦ <i>Schamgegend</i>: शुभःपसं युवतीम् <ls>TBR. 3, 1, 1, 12</ls> in <ls>Z. f. d. K. d. M. 7, 269.</ls> <div n='v'>— Vgl. पसस् ."
+        }
     ]
 }

@@ -29,5 +29,47 @@
             "pagenum": 788,
             "content": "suvid¦ <i>(II) f.</i> A shrewd or clever woman."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुविद्",
+            "eid": "249034",
+            "pagenum": 1233,
+            "content": "<hom>1.</hom> सु—विद् ¦ <lex>m.</lex> (√ <hom>1.</hom> विद्) ‘knowing well’, a <s1 slp1='jina'>Jina</s1>, <ls>Gal.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुविद्",
+            "eid": "249035",
+            "pagenum": 1233,
+            "content": "सु—विद् ¦ <lex>f.</lex> a shrewd or clever woman, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "सुविद्",
+            "eid": "249036",
+            "pagenum": 1233,
+            "content": "<hom>2.</hom> सु—विद् ¦ <lex>m.</lex> (√ <hom>3.</hom> विद्) procuring or granting well (in विश्व-सुविद्, <ab>q.v.</ab>)<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुविद्",
+            "eid": "127990",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> *सुविद्¦ <lex>m.</lex> <i>ein</i> <is>Jina</is> <ls>GAL.</ls>"
+        },
+        {
+            "word": "सुविद्",
+            "eid": "127991",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सुविद्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>wohl verschaffend</i> in विश्वसुवि/द्. <div n='1'>— 2〉 <lex>f.</lex> <i>ein vorzügliches Weib</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुविद्",
+            "eid": "111602",
+            "pagenum": 7,
+            "content": "सुविद्¦ <div n='1'> 1) <lex>adj.</lex> <i>gut vertraut, ein genauer Kenner.</i> <div n='1'>— 2) <lex>f.</lex> <i>ein vorzügliches Weib</i> <ls>RĀMĀŚRAYA</ls> zu <ls>AK.</ls> nach <ls>ŚKDR.</ls> <div n='v'>— Vgl. विश्व° ."
+        }
     ]
 }

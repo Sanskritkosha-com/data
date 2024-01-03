@@ -31,5 +31,47 @@
             "pagenum": 335,
             "content": "dIrGa-nAda¦ <i>m.</i> 1. a dog; 2. a cock; 3. a conch-shell."
         }
+    ],
+    "MW": [
+        {
+            "word": "दीर्घनाद",
+            "eid": "93070",
+            "pagenum": 482,
+            "content": "दीर्घ—नाद ¦ <lex>mfn.</lex> <ab n='long'>l°</ab>-sounding<info lex='m:f:n'/>"
+        },
+        {
+            "word": "दीर्घनाद",
+            "eid": "93071",
+            "pagenum": 482,
+            "content": "दीर्घ—नाद ¦ <lex>m.</lex> a dog, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दीर्घनाद",
+            "eid": "93072",
+            "pagenum": 482,
+            "content": "¦ a cock, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दीर्घनाद",
+            "eid": "93073",
+            "pagenum": 482,
+            "content": "¦ a conch-shell, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दीर्घनाद",
+            "eid": "50646",
+            "pagenum": 3,
+            "content": "*दीर्घनाद¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>dessen Geschrei, Ton</i> <ab>u. s. w.</ab> <i>weit reicht</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Hund</i>. <div n='2'>— b〉 <i>Hahn</i>. <div n='2'>— c〉 <i>Muschel</i> <ls>RĀJAN. 13,125</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दीर्घनाद",
+            "eid": "33223",
+            "pagenum": 3,
+            "content": "दीर्घनाद¦ (दी° + नाद) <div n='1'> 1) <lex>adj.</lex> <i>dessen Geschrei, Ton u.s.w. weithin reicht.</i> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Hund</i> <ls>H. ś. 181.</ls> <div n='2'>— b) <i>Hahn</i> <ls>H. ś. 190.</ls> <div n='2'>— c) <i>Muschel</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

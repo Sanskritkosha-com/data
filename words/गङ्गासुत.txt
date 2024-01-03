@@ -20,5 +20,35 @@
             "pagenum": 299,
             "content": "<b>Gaṅgāsuta</b>¦ = Skanda: III, 14642."
         }
+    ],
+    "MW": [
+        {
+            "word": "गङ्गासुत",
+            "eid": "62281",
+            "pagenum": 341,
+            "content": "गङ्गा—सुत ¦ <lex>m.</lex> (= -ज) <ab>N.</ab> of the deity <s1 slp1='kArttikeya'>Kārttikeya</s1>, <ls>MBh. iii, 14642</ls><info lex='m'/>"
+        },
+        {
+            "word": "गङ्गासुत",
+            "eid": "62282",
+            "pagenum": 341,
+            "content": "¦ of <s1 slp1='BIzma'>Bhīṣma</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गङ्गासुत",
+            "eid": "34040",
+            "pagenum": 2,
+            "content": "गङ्गासुत¦ <lex>m.</lex> <ab>Metron.</ab> <div n='1'>— 1〉 <is>Kārttikeya</is>ʼs. <div n='1'>— 2〉 *<is>Bhīṣma</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गङ्गासुत",
+            "eid": "21361",
+            "pagenum": 2,
+            "content": "गङ्गासुत¦ (ग° + सुत) <lex>m.</lex> <i>der Sohn der</i> <is>Gaṅgā</is>, ein Bein. <div n='1'> 1) <is>Kārttikeya's</is> <ls>H. 208.</ls> <ls>MBH. 3, 14642.</ls> <div n='1'>— 2) <is>Bhīṣma's</is> <ls>ŚKDR.</ls> <ls>WILS.</ls>"
+        }
     ]
 }

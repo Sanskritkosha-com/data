@@ -7,5 +7,47 @@
             "pagenum": 82,
             "content": "aSva-raTa¦ <i>m.</i> a carriage drawn by horses."
         }
+    ],
+    "MW": [
+        {
+            "word": "अश्वरथ",
+            "eid": "19987",
+            "pagenum": 115,
+            "content": "अश्व—रथ/ ¦ <lex>m.</lex> a carriage drawn by horses, <ls>ŚBr. v</ls>; <ls>KātyŚr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अश्वरथ",
+            "eid": "19988",
+            "pagenum": 115,
+            "content": "अश्व—रथ/ ¦ <lex>mfn.</lex> driving in such a carriage, <ls>PBr.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अश्वरथ",
+            "eid": "11904",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अश्वरथ/¦ <lex>m.</lex> <i>ein mit Rossen bespannter Wagen</i>. अश्वरथदान <lex>n.</lex> Titel eines <is>Pariśiṣṭa</is> zum <ls>AV.</ls>"
+        },
+        {
+            "word": "अश्वरथ",
+            "eid": "11905",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अश्वरथ¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>auf einem mit Rossen bespannten Wagen sitzend</i>. <div n='1'>— 2〉 <lex>f.</lex> आ <ab>N. pr.</ab> eines Flusses."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अश्वरथ",
+            "eid": "65764",
+            "pagenum": 5,
+            "content": "1. अश्वरथ/¦ (अश्व + रथ) <lex>m.</lex> <i>ein bespannter Wagen</i> <ls>ŚAT. BR. 5, 2, 4, 9.</ls> <ls>KĀTY. ŚR. 15, 1, 22.</ls> <ls n='KĀTY. ŚR.'>22, 2, 1.</ls>"
+        },
+        {
+            "word": "अश्वरथ",
+            "eid": "65765",
+            "pagenum": 5,
+            "content": "2. अश्वरथ¦ (wie eben) <lex>adj.</lex> <i>einen bespannten Wagen habend</i> <ls>PAÑCAV. BR. 16, 13, 10.</ls>"
+        }
     ]
 }

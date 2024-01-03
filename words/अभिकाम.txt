@@ -69,5 +69,67 @@
             "pagenum": 46,
             "content": "aBikAma¦ <i>(II) m.</i> 1. Love, affection; 2. wish, desire."
         }
+    ],
+    "MW": [
+        {
+            "word": "अभिकाम",
+            "eid": "11199",
+            "pagenum": 61,
+            "content": "अभि-काम ¦ <lex>m.</lex> (<ab>ifc.</ab> <lex type='hwifc'>f(आ). </lex>) affection, desire, <ab>N.</ab> <ls>BhP.</ls><info lex='m:f#A'/>"
+        },
+        {
+            "word": "अभिकाम",
+            "eid": "11200",
+            "pagenum": 61,
+            "content": "अभि-काम ¦ <lex>mf(आ)n.</lex>, affectionate, loving, desirous (with <ab>acc.</ab> or <ab>ifc.</ab>)<info lex='m:f#A:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभिकाम",
+            "eid": "4143",
+            "pagenum": 60,
+            "content": "<i>Abhi-kāma, as,</i>¦ m. affection, desire; <i>(as, ā, am),</i> affectionate, loving, desirous, with obj. in acc. or gen.; (<i>am</i>), ind. with desire."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभिकाम",
+            "eid": "7258",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अभिकाम¦ <lex>m.</lex> <i>Liebe, Zuneigung; Verlangen nach, Wunsch</i>."
+        },
+        {
+            "word": "अभिकाम",
+            "eid": "7259",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अभिकाम¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>in Liebe zugethan; hingezogen zu, verlangend nach</i> (<ab>Acc.</ab> oder im <ab>Comp.</ab> vorangehend)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभिकाम",
+            "eid": "4476",
+            "pagenum": 1,
+            "content": "1. अभिकाम¦ (अभि + काम) <lex>m.</lex> <i>Zuneigung</i>: साभिकामा <i>in Liebe zugethan</i> <ls>N. 24, 13.</ls>"
+        },
+        {
+            "word": "अभिकाम",
+            "eid": "4477",
+            "pagenum": 1,
+            "content": "2. अभिकाम¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> आ <i>in Liebe zugethan, hingezogen zu Etwas, verlangend</i>: अभिकामो ऽभिकामां तु - सेवेत प्रमदाम् <ls>SUŚR. 2, 488, 13.</ls> तया स - अभिकामया समेयिवान् <ls>R. 1, 77, 29.</ls> याचे त्वां चाभिकामाहम् <ls>MBH. 1, 7807.</ls> Das obj. im acc.: यं यमन्तमभिकामा भवन्ति <ls>CHĀND. UP. 8, 1, 5.</ls> अकस्माच्चाभिकामो ऽसि सीताम् <ls>R. 6, 95, 15.</ls> geht im comp. voran: अहं त्वदभिकामा <ls n='R.'>3, 24, 15.</ls> समराभिकामा <ls n='R. 6,'>29, 33.</ls>"
+        },
+        {
+            "word": "अभिकाम",
+            "eid": "64384",
+            "pagenum": 5,
+            "content": "1. अभिकाम¦ <i>Wunsch</i> <ls>BHĀG. P. 10, 48, 26.</ls> <div n='v'>— Vgl. आभिकामिक ."
+        },
+        {
+            "word": "अभिकाम",
+            "eid": "64385",
+            "pagenum": 5,
+            "content": "2. अभिकाम¦ mit acc.: मनसाप्यभिकामेन पुष्कराणि मनस्विनः । दूयन्ते सर्वपापानि <ls>MBH. 3, 4066.</ls> Das obj. im comp. vorangehend: श्रेयोऽभिकाम <ls n='MBH.'>13, 3916.</ls>"
+        }
     ]
 }

@@ -53,5 +53,63 @@
             "pagenum": 256,
             "content": "grAmika¦ <i>(II) m.</i> The headman of a village, <ls>M.</ls>vii.116."
         }
+    ],
+    "MD": [
+        {
+            "word": "ग्रामिक",
+            "eid": "7193",
+            "pagenum": 88,
+            "content": "ग्रामिक¦ grām-ika, <lex>m.</lex> village chief; <b>-in,</b> <lex>a.</lex> 🞄ruling a community; <lex>m.</lex> villager; peasant: 🞄(<b>i</b>) <b>-putra,</b> <lex>m.</lex> peasant-boy."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ग्रामिक",
+            "eid": "68980",
+            "pagenum": 373,
+            "content": "ग्रामिक ¦ <lex>m.</lex> rustic, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ग्रामिक",
+            "eid": "68981",
+            "pagenum": 373,
+            "content": "¦ (in music) chromatic, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ग्रामिक",
+            "eid": "68982",
+            "pagenum": 373,
+            "content": "ग्रामिक ¦ <lex>m.</lex> a villager, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ग्रामिक",
+            "eid": "68983",
+            "pagenum": 373,
+            "content": "¦ = °me<srs/>Sa, <ls>Mn. vii, 116</ls> and <ls n='Mn. vii,'>118</ls>; <ls>MBh. xii, 3264 ff.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ग्रामिक",
+            "eid": "17834",
+            "pagenum": 304,
+            "content": "<i>Grāmika, as, ī, am,</i>¦ village, rude, rustic; (in music) chromatic; (<i>as</i>), m. the head man of a village; a villager."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्रामिक",
+            "eid": "37523",
+            "pagenum": 2,
+            "content": "ग्रामिक¦ <lex>m.</lex> <i>das Oberhaupt eines Dorfes</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ग्रामिक",
+            "eid": "23786",
+            "pagenum": 2,
+            "content": "ग्रामिक¦ (von ग्राम) <lex>m.</lex> <i>Oberhaupt eines Dorfes</i> <ls>M. 7, 116. 118.</ls> <ls>MBH. 12, 3264.</ls> <ls n='MBH. 12,'>3266.</ls>"
+        }
     ]
 }

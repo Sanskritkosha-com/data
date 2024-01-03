@@ -44,5 +44,35 @@
             "pagenum": 679,
             "content": "viza-Dara¦ <i>m.</i> a snake."
         }
+    ],
+    "MW": [
+        {
+            "word": "विषधर",
+            "eid": "201721",
+            "pagenum": 995,
+            "content": "विष—धर ¦ <lex>mfn.</lex> holding or containing <ab n='poison'>p°</ab>, venomous, poisonous<info lex='m:f:n'/>"
+        },
+        {
+            "word": "विषधर",
+            "eid": "201722",
+            "pagenum": 995,
+            "content": "विष—धर ¦ <lex>m.</lex> or <lex type='hw'>f(ई). </lex> a snake, <ls>Gīt.</ls>; <ls>Subh.</ls><info lex='m:f#I'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विषधर",
+            "eid": "105165",
+            "pagenum": 6,
+            "content": "विषधर¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>Giftschlange</i>. <div n='2'>— b〉 <i>Wasserbehälter</i>. Am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> आ <ls>VĀSAV. 102,1</ls>. <div n='1'>— 2〉 <lex>f.</lex> ई <lex>f.</lex> zu 1〉a〉 <ls>Ind. St. 14,388</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विषधर",
+            "eid": "93753",
+            "pagenum": 6,
+            "content": "विषधर¦ <lex>m.</lex> <i>Giftschlange</i> <ls>AK. 1, 2, 1, 7.</ls> <ls>H. 1303.</ls> <ls>HĀR. 15.</ls> <ls>HALĀY. 3, 18.</ls> <ls>Spr. 2250 (II). 2860. 2866.</ls> <ls>GĪT. 1, 19.</ls> विषधरी <lex>f.</lex> <ls>HAEB. Anth. 510, Śl. 3.</ls>"
+        }
     ]
 }

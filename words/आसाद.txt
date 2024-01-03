@@ -7,5 +7,57 @@
             "pagenum": 268,
             "content": "आसादः¦ <ab>Ved.</ab> Cushion."
         }
+    ],
+    "MW": [
+        {
+            "word": "आसाद",
+            "eid": "27975",
+            "pagenum": 160,
+            "content": "आ-साद/ <hom>a</hom> ¦ <lex>m.</lex> a footstool, cushion, <ls>AV. xv, 3, 8</ls>; <ls>TāṇḍyaBr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आसाद",
+            "eid": "27975.1",
+            "pagenum": 1320,
+            "content": "¦ an eating-room, kitchen, <ls>Kauś.</ls><info n='sup'/><info lex='inh'/>"
+        },
+        {
+            "word": "आसाद",
+            "eid": "27999",
+            "pagenum": 160,
+            "content": "आसाद <hom>b</hom> ¦ &c. See आ-√ सद्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आसाद",
+            "eid": "9621",
+            "pagenum": 135,
+            "content": "<i>Ā-sāda, as,</i>¦ m., Ved. a cushion."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आसाद",
+            "eid": "16370",
+            "pagenum": 1,
+            "content": "आसाद/¦ <lex>m.</lex> <i>Fussbank eines Sessels</i> <ls>TĀṆḌYA-BR. 16,3,7</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आसाद",
+            "eid": "9758",
+            "pagenum": 1,
+            "content": "आसाद/¦ (von सद् mit आ) <lex>m.</lex> <i>Sitzkissen</i> <ls>AV. 15, 3, 8.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "आसाद",
+            "eid": "14456",
+            "pagenum": 7,
+            "content": "आसाद¦ I. <i>Speisezimmer</i> <ls>KAUŚ. 23,5</ls>. <ls n='KAUŚ.'>24,15</ls>."
+        }
     ]
 }

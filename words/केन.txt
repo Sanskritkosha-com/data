@@ -15,5 +15,63 @@
             "pagenum": 92,
             "content": "केन¦ <i>(s. 1.</i> क) durch wen? wodurch womit?"
         }
+    ],
+    "MD": [
+        {
+            "word": "केन",
+            "eid": "6289",
+            "pagenum": 74,
+            "content": "केन¦ kéna, <ab>in.</ab> <i>of</i> <b>ka,</b> by whom? whereby? 🞄wherewith? whence?"
+        }
+    ],
+    "MW": [
+        {
+            "word": "केन",
+            "eid": "55736",
+            "pagenum": 309,
+            "content": "के/न ¦ <ab>instr.</ab> <lex>ind.</lex> (<ab>fr.</ab> <hom>2.</hom> क/), by what? <ls>ŚBr. iv</ls>; <ls>MBh. i, <ab>ch.</ab> 3</ls><info lex='ind'/>"
+        },
+        {
+            "word": "केन",
+            "eid": "55736.1",
+            "pagenum": 309,
+            "content": "¦ whence? <ls>MBh. xiii, 2167</ls>; <ls>R. vi, 12, 4</ls><info lex='inh'/>"
+        },
+        {
+            "word": "केन",
+            "eid": "55736.2",
+            "pagenum": 309,
+            "content": "¦ how? why? <ls>Pañcat.</ls>; <ls>Bhartṛ.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "केन",
+            "eid": "15749",
+            "pagenum": 252,
+            "content": "केन¦ <i>kena,</i> ind. (inst. fr. 2. <i>ka</i>), by what? wherefore? whence?"
+        }
+    ],
+    "PW": [
+        {
+            "word": "केन",
+            "eid": "30646",
+            "pagenum": 2,
+            "content": "के/न¦ <ab>Instr.</ab> von <hom>1.</hom> क <div n='1'>— 1〉 <i>durch wen?</i> <ab>u. s. w.</ab> <div n='1'>— 2〉 <i>wodurch? womit?</i> <ls n='Chr.'>29,7. 40,2</ls>. <div n='1'>— 3〉 <i>woher?</i>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "केन",
+            "eid": "19036",
+            "pagenum": 2,
+            "content": "केन¦ (instr. von 1. क) <i>wodurch, woher</i>: श्रेष्ठं त्वां केन मन्यन्ते <ls>MBH. 13, 2167.</ls> <ls>R. 6, 12, 4.</ls>"
+        },
+        {
+            "word": "केन",
+            "eid": "71514",
+            "pagenum": 5,
+            "content": "केन¦ <ls>Spr. 472. 546. 1756.</ls>"
+        }
     ]
 }

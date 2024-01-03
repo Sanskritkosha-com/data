@@ -28,5 +28,35 @@
             "pagenum": 782,
             "content": "sIsaka¦ <i>n.</i> Lead, <ls>M.</ls>v.144."
         }
+    ],
+    "MW": [
+        {
+            "word": "सीसक",
+            "eid": "245228",
+            "pagenum": 1219,
+            "content": "सीसक ¦ <lex>mn.</lex> lead, <ls>L.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "सीसक",
+            "eid": "245229",
+            "pagenum": 1219,
+            "content": "सीसक ¦ <lex>m.</lex> = शूल, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सीसक",
+            "eid": "125597",
+            "pagenum": 7,
+            "content": "सीसक¦ <div n='1'>— 1〉 <lex>m.</lex> <lex>n.</lex> <i>Blei</i> <ls>RĀJAN. 13,24</ls>. <div n='1'>— 2〉 *<lex>m.</lex> = शूल."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सीसक",
+            "eid": "109673",
+            "pagenum": 7,
+            "content": "सीसक¦ <lex>n.</lex> <div n='1'> 1) <i>Blei</i> <ls>AK. 2, 9, 106.</ls> <ls>H. ś. 158.</ls> <ls>HALĀY. 2, 17.</ls> <ls>M. 5, 114.</ls> <ls>YĀJÑ. 1, 190.</ls> <ls n='YĀJÑ.'>3, 38</ls> (masc.). <ls n='YĀJÑ. 3,'>273.</ls> <ls>R. 1, 38, 20</ls> (<ls n='GORR. 1,'>39, 19</ls> <ls>GORR.</ls>). <ls>SUŚR. 1, 99, 5.</ls> <ls>VARĀH. BṚH. S. 57, 8.</ls> <div n='1'>— 2) = शूल <ls>TRIK. 2, 8, 56.</ls>"
+        }
     ]
 }

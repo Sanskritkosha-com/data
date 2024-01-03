@@ -31,5 +31,37 @@
             "pagenum": 200,
             "content": "kUpA(vA)ra¦ <i>m.</i> The ocean."
         }
+    ],
+    "MW": [
+        {
+            "word": "कूपार",
+            "eid": "53988",
+            "pagenum": 300,
+            "content": "कूपार ¦ <lex>m.</lex> (= अकूप्°) the ocean, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कूपार",
+            "eid": "15556",
+            "pagenum": 245,
+            "content": "कूपार¦ <i>kūpāra, as,</i> m. the ocean, <i>= akūpāra.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कूपार",
+            "eid": "29770",
+            "pagenum": 2,
+            "content": "*कूपार¦ <lex>m.</lex> = अकूपार <i>Meer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कूपार",
+            "eid": "18489",
+            "pagenum": 2,
+            "content": "कूपार¦ <lex>m.</lex> = अकूपार <lex>m.</lex> <i>das Meer</i> <ls>Sch.</ls> zu <ls>AK. 1, 2, 3, 1.</ls>"
+        }
     ]
 }

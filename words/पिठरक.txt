@@ -47,5 +47,51 @@
             "pagenum": 436,
             "content": "piWaraka¦ <i>m.n.</i> A pot, a pan."
         }
+    ],
+    "MCI": [
+        {
+            "word": "पिठरक",
+            "eid": "207",
+            "pagenum": 39,
+            "content": "<b>Piṭharaka</b>¦ m.: A mythical serpent. <div n='P'>Son of Kadrū, listed among her sons by Sūta at the request of Śaunaka 1. 31. 14, 2. <div n='P'>[See Pīṭharaka]"
+        }
+    ],
+    "MW": [
+        {
+            "word": "पिठरक",
+            "eid": "123756",
+            "pagenum": 625,
+            "content": "पिठरक ¦ <lex>mf(इका)n.</lex> (इका <lex type='hwinfo'>f.</lex>, <ls>Divyāv.</ls>) a pot, pan (<ab>cf.</ab> next)<info lex='m:f#ikA:n'/>"
+        },
+        {
+            "word": "पिठरक",
+            "eid": "123757",
+            "pagenum": 625,
+            "content": "पिठरक ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1='nAga'>Nāga</s1>, <ls>Hariv.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पिठरक",
+            "eid": "29215",
+            "pagenum": 572,
+            "content": "<i>Piṭharaka, as,</i>¦ m. (?), a pot, pan; N. of a Nāga. <i>—Piṭharaka-kapāla, as, am,</i> m. n. a fragment of a pot, potsherd."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पिठरक",
+            "eid": "66822",
+            "pagenum": 4,
+            "content": "पिठरक¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Topf, Kochtopf</i>. <div n='1'>— 2〉 <ab>N. pr.</ab> eines Schlangendämons."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पिठरक",
+            "eid": "45133",
+            "pagenum": 4,
+            "content": "पिठरक¦ (von पिठर) <div n='1'> 1) <i>Topf, Kochtopf</i>: °कपाल <ls>Spr. 729.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines <is>Nāga</is> <ls>MBH. 1, 1559.</ls> <ls n='MBH. 1,'>2156.</ls> <ls n='MBH.'>5, 3630.</ls> <ls>HARIV.</ls> <ls>LANGL. I, 507.</ls>"
+        }
     ]
 }

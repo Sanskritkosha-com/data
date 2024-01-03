@@ -37,5 +37,83 @@
             "pagenum": 72,
             "content": "avacana¦ <i>(II) n.</i> 1. The not speaking; 2. blame, rebuke."
         }
+    ],
+    "MD": [
+        {
+            "word": "अवचन",
+            "eid": "2767",
+            "pagenum": 29,
+            "content": "अवचन¦ a-vacana, <lex>a.</lex> speechless; <b>-kara,</b> <lex>a.</lex> 🞄not following —, disregarding advice."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अवचन",
+            "eid": "17204",
+            "pagenum": 98,
+            "content": "अ-वचन ¦ <lex>n.</lex> absence of a special assertion, <ls>KātyŚr.</ls> &c.<info lex='n'/>"
+        },
+        {
+            "word": "अवचन",
+            "eid": "17205",
+            "pagenum": 98,
+            "content": "अ-वचन ¦ <lex>mfn.</lex> not expressing anything, <ls>Jaim.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अवचन",
+            "eid": "17206",
+            "pagenum": 98,
+            "content": "¦ not speaking, silent, <ls>Śak.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अवचन",
+            "eid": "6257",
+            "pagenum": 89,
+            "content": "अवचन¦ <i>a-vacana, am,</i> n. absence of assertion, silence, taciturnity; (<i>as, ā, am</i>), not speaking, silent. <i>—A-vacana-kara, as, ā, am,</i> not doing what one is bid, disobedient."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अवचन",
+            "eid": "10282",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अवचन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>Etwas nicht ausdrückend</i> <ls>JAIM. 1,1,24</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>das Fehlen einer bestimmten Angabe</i>."
+        },
+        {
+            "word": "अवचन",
+            "eid": "10283",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अवचन¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>sprachlos, nicht sprechend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अवचन",
+            "eid": "6307",
+            "pagenum": 1,
+            "content": "1. अवचन¦ (3. अ + व°) <lex>n.</lex> <i>das Fehlen einer Angabe</i> <ls>KĀTY. ŚR. 20, 7, 21.</ls> <ls n='KĀTY. ŚR.'>22, 1, 2.</ls>"
+        },
+        {
+            "word": "अवचन",
+            "eid": "6308",
+            "pagenum": 1,
+            "content": "2. अवचन¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> आ <i>sprachlos, nicht sprechend</i>: शकुन्तला साध्वसादवचना तिष्ठति <ls>ŚĀK. 12, 21.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अवचन",
+            "eid": "8438",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> अवचन¦ auch <i>das Schweigen</i> <ls>Z. d. d. m. G. 39,306</ls>."
+        },
+        {
+            "word": "अवचन",
+            "eid": "12940",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> अवचन¦ I. 6."
+        }
     ]
 }

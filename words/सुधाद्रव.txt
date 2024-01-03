@@ -31,5 +31,41 @@
             "pagenum": 785,
             "content": "suDA-drava¦ <i>m.</i> a nectar-like fluid."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुधाद्रव",
+            "eid": "246918",
+            "pagenum": 1226,
+            "content": "<hom>1.</hom> सु-धा—द्रव ¦ <lex>m.</lex> whitewash, plaster (°vA<srs/>nulepa), <ls>Mṛcch.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुधाद्रव",
+            "eid": "246919",
+            "pagenum": 1226,
+            "content": "¦ a nectarlike fluid, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुधाद्रव",
+            "eid": "246920",
+            "pagenum": 1226,
+            "content": "<hom>2.</hom> सु-धा—द्रव ¦ <ab>Nom.</ab> <ab>P.</ab> °वति, to appear white as plaster, <ls>Dhūrtas.</ls>; <div n='to'/>to flow like nectar, <ls>MW.</ls><info verb='nom' cp='P'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुधाद्रव",
+            "eid": "126465",
+            "pagenum": 7,
+            "content": "सुधाद्रव¦ <lex>m.</lex> <i>Tünche</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुधाद्रव",
+            "eid": "110383",
+            "pagenum": 7,
+            "content": "सुधाद्रव¦ (2. सुधा + द्रव) <lex>m.</lex> <i>Tünche</i> <ls>MṚCCH. 92, 6.</ls> Hiervon denom. सुधाद्रवति <i>weiss wie Tünche erscheinen</i> <ls>DHŪRTAS. 67, 15.</ls>"
+        }
     ]
 }

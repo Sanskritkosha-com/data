@@ -20,5 +20,41 @@
             "pagenum": 766,
             "content": "sarpa-arAti¦ <i>m.</i> 1. an ichneumon; 2. a peacock; 3. an epithet of Garuḍa."
         }
+    ],
+    "MW": [
+        {
+            "word": "सर्पाराति",
+            "eid": "238038",
+            "pagenum": 1184,
+            "content": "sarpA<srs/>rAti ¦ <lex>m.</lex> ‘enemy of <ab n='snake'>sn°</ab>’, <ab>N.</ab> of <s1 slp1='garuqa'>Garuḍa</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सर्पाराति",
+            "eid": "238039",
+            "pagenum": 1184,
+            "content": "¦ an ichneumon, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सर्पाराति",
+            "eid": "238040",
+            "pagenum": 1184,
+            "content": "¦ a peacock, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सर्पाराति",
+            "eid": "121638",
+            "pagenum": 7,
+            "content": "*सर्पाराति¦ <lex>m.</lex> <ab>Bein.</ab> <is>Garuḍa</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सर्पाराति",
+            "eid": "106643",
+            "pagenum": 7,
+            "content": "सर्पाराति¦ (सर्प + अ°) <lex>m.</lex> ein N. <is>Garuḍa's</is> (<i>Feind der Schlangen</i>) <ls>H. 231.</ls>"
+        }
     ]
 }

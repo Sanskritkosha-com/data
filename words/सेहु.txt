@@ -15,5 +15,35 @@
             "pagenum": 509,
             "content": "से/हु¦ <i>m.</i> ein best. Stoff."
         }
+    ],
+    "MW": [
+        {
+            "word": "सेहु",
+            "eid": "252376",
+            "pagenum": 1247,
+            "content": "सेहु ¦ <lex>m.</lex> a <ab>partic.</ab> dry substance, <ls>AV.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सेहु",
+            "eid": "252377",
+            "pagenum": 1247,
+            "content": "¦ a <ab>partic.</ab> organ in the body, <ls>Kāṭh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सेहु",
+            "eid": "129326",
+            "pagenum": 7,
+            "content": "से/हु¦ <lex>m.</lex> <div n='1'>— 1〉 <i>ein <ab>best.</ab> trockener Stoff</i>. <div n='1'>— 2〉 <i>ein <ab>best.</ab> Organ im Leibe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सेहु",
+            "eid": "112689",
+            "pagenum": 7,
+            "content": "से/हु¦ <lex>m.</lex> <div n='1'> 1) <i>ein best. trockener Stoff</i>: सेहो^रर\\सत^राः <ls>AV. 7, 76, 1.</ls> <div n='1'>— 2) <i>ein best. Organ im Leibe</i>: सेहुश्च प्लीहा च <ls>KĀṬH. 34, 12.</ls>"
+        }
     ]
 }

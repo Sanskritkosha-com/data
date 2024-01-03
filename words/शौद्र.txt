@@ -45,5 +45,51 @@
             "pagenum": 729,
             "content": "SOdra¦ <i>(II) m.</i> The son of a man of any of the first three castes by a <i>Śūdra</i> woman."
         }
+    ],
+    "MD": [
+        {
+            "word": "शौद्र",
+            "eid": "18192",
+            "pagenum": 319,
+            "content": "शौद्र¦ śaúdra, <lex>a.</lex> belonging, relating <i>or</i> peculiar 🞄to a Śūdra; born of a Śūdrā."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शौद्र",
+            "eid": "221806",
+            "pagenum": 1093,
+            "content": "शौ/द्र ¦ <lex>mfn.</lex> relating or belonging to a <s1 slp1='SUdra'>Śūdra</s1>, <ls>ŚBr.</ls>; <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शौद्र",
+            "eid": "221807",
+            "pagenum": 1093,
+            "content": "शौ/द्र ¦ <lex>m.</lex> the son of a man of either of the first three classes by a <s1 slp1='SUdra'>Śūdra</s1> woman (the last of the twelve kinds of sons acknowledged in the ancient <ns>Hindū</ns> law), <ls>Mn. ix, 160.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शौद्र",
+            "eid": "47239",
+            "pagenum": 1022,
+            "content": "शौद्र¦ <i>śaudra, as, ī, am</i> (fr. <i>śūdra</i>), servile, relating or belonging to the Śūdra or lowest tribe; (<i>as</i>), m. the son of a man of either of the first three classes by a Śūdra woman, (the last of the twelve kinds of sons acknowledged in the ancient Hindū law.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शौद्र",
+            "eid": "114542",
+            "pagenum": 6,
+            "content": "शौ/द्र¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>einem</i> <is>Śūdra</is> <i>eigen, ihm gehörig</i> <ab>u. s. w.</ab> <div n='1'>— 2〉 <i>von einer</i> <is>Śūdra</is> <i>geboren</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शौद्र",
+            "eid": "101209",
+            "pagenum": 7,
+            "content": "शौ/द्र¦ (von शूद्र) <lex>adj.</lex> <i>einem</i> <is>Śūdra</is> <i>eigen, ihm gehörig u.s.w.</i> <ls>AIT. BR. 7, 17.</ls> वर्ण <ls n='AIT. BR.'>8, 4.</ls> <ls>ŚAT. BR. 6, 4, 4, 9.</ls> <ls n='ŚAT. BR.'>14, 4, 2, 25.</ls> कर्मन् <ls>MBH. 12, 2348.</ls> <ls n='MBH.'>13, 2148.</ls> अन्न <ls n='MBH. 13,'>6213.</ls> <i>von einer</i> <is>Śūdrā</is> <i>geboren</i> <ls>M. 9, 160.</ls>"
+        }
     ]
 }

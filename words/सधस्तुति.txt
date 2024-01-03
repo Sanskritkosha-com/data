@@ -35,5 +35,63 @@
             "pagenum": 1464,
             "content": "<b>sadhá-stuti,</b>¦ <ab>f.</ab>, <ab>a.</ab>, 1〉 <ab>f.</ab>, <i>gemeinsames Lob, gemeinsamer Preisgesang;</i> 2〉 <ab>a.</ab>, <i>gemeinsames Lob empfangend</i>. <div n='TS'>-im 1〉 {17,9}; {340,6}; {621,16}. <div n='TS'>-i [<ab>I.</ab>] 1〉 {372,5} yé me … dadús ‥ 〰. <div n='TS'>-ī [<ab>V.</ab> <ab>du.</ab>] 2〉 indrāgnī {658,4}."
         }
+    ],
+    "MD": [
+        {
+            "word": "सधस्तुति",
+            "eid": "18696",
+            "pagenum": 332,
+            "content": "सधस्तुति¦ sadhá-stuti, <lex>f.</lex> joint praise (<ab>RV.</ab>); 🞄(<b>á</b>) <b>-stha,</b> <lex>a.</lex> present (<ab>V.</ab>, <i>rare</i>); <lex>n.</lex> (<ab>V.</ab>) place, 🞄abode, home; space."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सधस्तुति",
+            "eid": "230969",
+            "pagenum": 1140,
+            "content": "सध/—स्तुति ¦ (सध/-), <lex>f.</lex> joint praise (when used as <ab>instr.</ab> = ‘with joint praise’), <ls>RV.</ls><info lex='f'/>"
+        },
+        {
+            "word": "सधस्तुति",
+            "eid": "230969.1",
+            "pagenum": 1140,
+            "content": "सध/—स्तुति ¦ <lex>mfn.</lex> praised together (as <s1 slp1='indra'>Indra</s1> and <s1 slp1='agni'>Agni</s1>), <ls>ib.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सधस्तुति",
+            "eid": "48966",
+            "pagenum": 1056,
+            "content": "<i>Sadha-stuti, is,</i>¦ f., Ved. united praise; (<i>i</i>), ind. along with praise, (Sāy. <i>= stutyā sahitam,</i> Ṛg-veda V. 18, 5.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सधस्तुति",
+            "eid": "118748",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सध/स्तुति¦ <lex>f.</lex> <i>gemeinsames Lob</i>. Der gleichlautende <ab>Instr.</ab> <i>unter gemeinsamem Beifall</i>."
+        },
+        {
+            "word": "सधस्तुति",
+            "eid": "118749",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सधस्तुति¦ <lex>Adj.</lex> <i>gemeinsam gepriesen</i> <ls>ṚV.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सधस्तुति",
+            "eid": "104479",
+            "pagenum": 7,
+            "content": "1. सध/स्तुति¦ (1. सध + स्तु°) <lex>f.</lex> <i>gemeinsames Lob</i> <ls>ṚV. 1, 17, 9.</ls> स\\धस्तु^तिमाजमी\\|आसो^ अग्मन् <ls n='ṚV.'>4, 44, 6.</ls> <ls n='ṚV.'>8, 1, 16.</ls> ये मे^ पञ्चा\\शत^ं द\\दुरश्वा^नां स\\धस्तु^ति <i>unter gemeinsamem Beifall</i> <ls n='ṚV.'>5, 18, 5.</ls>"
+        },
+        {
+            "word": "सधस्तुति",
+            "eid": "104480",
+            "pagenum": 7,
+            "content": "2. सधस्तुति¦ (wie eben) <lex>adj.</lex> <i>gemeinsam gepriesen</i>: <is>Indra</is>, <is>Agni</is> <ls>ṚV. 8, 38, 4.</ls>"
+        }
     ]
 }

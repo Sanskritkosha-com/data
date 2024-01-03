@@ -28,5 +28,29 @@
             "pagenum": 271,
             "content": "cAra-paTa¦ <i>m.</i> a place where two roads meet."
         }
+    ],
+    "MW": [
+        {
+            "word": "चारपथ",
+            "eid": "73060",
+            "pagenum": 393,
+            "content": "चार—पथ ¦ <lex>m.</lex> a cross-way, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चारपथ",
+            "eid": "39683",
+            "pagenum": 2,
+            "content": "*चारपथ¦ <lex>m.</lex> <i>Kreuzweg</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चारपथ",
+            "eid": "25223",
+            "pagenum": 2,
+            "content": "चारपथ¦ (चार <i>Kundschafter</i> + पथ) <lex>m.</lex> <i>ein Ort an dem zwei Wege zusammenkommen</i> <ls>H. 986.</ls>"
+        }
     ]
 }

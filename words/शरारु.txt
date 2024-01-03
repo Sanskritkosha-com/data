@@ -60,5 +60,69 @@
             "pagenum": 710,
             "content": "SarAru¦ <i>a.</i> Hurtful, injurious, mischievous."
         }
+    ],
+    "MD": [
+        {
+            "word": "शरारु",
+            "eid": "17591",
+            "pagenum": 309,
+            "content": "शरारु¦ śar-ā́ru, <lex>a.</lex> noxious, injurious."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शरारु",
+            "eid": "213609",
+            "pagenum": 1056,
+            "content": "शरा/रु <hom>a</hom> ¦ <lex>mfn.</lex> injurious, noxious, <ls>RV.</ls>; <ls>Nir.</ls>; <ls>Hcar.</ls>; <ls>Śiś.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "शरारु",
+            "eid": "213610",
+            "pagenum": 1056,
+            "content": "शरा/रु ¦ <lex>m.</lex> any mischievous creature, <ls>MW.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शरारु",
+            "eid": "213819",
+            "pagenum": 1057,
+            "content": "शरारु <hom>b</hom> ¦ See <pcol>p. 1056, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शरारु",
+            "eid": "46183",
+            "pagenum": 994,
+            "content": "<i>Śarāru, us, us, u,</i>¦ hurtful, injurious, noxious, mischievous; (<i>us</i>), m. a mischievous creature (Ṛgveda X. 86, 9)."
+        },
+        {
+            "word": "शरारु",
+            "eid": "46212",
+            "pagenum": 995,
+            "content": "शरारु¦ <i>śarāru.</i> See p. 994, col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शरारु",
+            "eid": "110650",
+            "pagenum": 6,
+            "content": "शरा/रु¦ <lex>Adj.</lex> <i>Schaden zufügend, schädigend</i> <ls>HARṢAC. 56,10</ls> (श्वापद). <ls>ŚIŚ. 19,108</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शरारु",
+            "eid": "98131",
+            "pagenum": 7,
+            "content": "शरा/रु¦ (von 1. शर्) <lex>adj.</lex> <ls>P. 3, 2, 173.</ls> <ls>VOP. 26, 162.</ls> <i>Schaden zufügend, schädigend</i> <ls>AK. 3, 1, 28.</ls> <ls>H. 369.</ls> <ls>HALĀY. 2, 217.</ls>"
+        },
+        {
+            "word": "शरारु",
+            "eid": "122300",
+            "pagenum": 7,
+            "content": "शरारु¦ <ls>NIR. 6, 31.</ls> <ls>ṚV. 10, 86, 9.</ls>"
+        }
     ]
 }

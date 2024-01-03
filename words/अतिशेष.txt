@@ -23,5 +23,37 @@
             "pagenum": 10,
             "content": "ati-Seza¦ <i>m.</i> 1. remainder; 2. remnant of time."
         }
+    ],
+    "MW": [
+        {
+            "word": "अतिशेष",
+            "eid": "3228",
+            "pagenum": 15,
+            "content": "अति-शेष ¦ <lex>m.</lex> remainder, remnant (especially of time), <ls>ChUp.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अतिशेष",
+            "eid": "811",
+            "pagenum": 15,
+            "content": "अतिशेष¦ <i>ati-śeṣa, as,</i> m. remainder, remnant, especially of time."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अतिशेष",
+            "eid": "2094",
+            "pagenum": 1,
+            "content": "अतिशेष¦ <lex>m.</lex> <i>Ueberbleibsel</i>. अतिशेपेण <ls>CHĀND. UP. 3,15</ls> fehlerhaft für अवि°."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अतिशेष",
+            "eid": "1463",
+            "pagenum": 1,
+            "content": "अतिशेष¦ (von शिष् mit अति) <lex>m.</lex> <i>Ueberbleibsel</i>: स ह खादित्वातिशेषाञ्जायाया   आजहार <ls>CHĀND. UP. 1, 10, 5.</ls> अतिशेषेण <ls n='CHĀND. UP. 1,'>8, 15.</ls> <i>in der noch übrig bleibenden Zeit</i>; <ls>ŚAṂK.</ls> : यो ऽतिशिष्टः कालस्तेन कालेन ."
+        }
     ]
 }

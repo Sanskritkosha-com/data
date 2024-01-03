@@ -20,5 +20,35 @@
             "pagenum": 290,
             "content": "jita-Ahava¦ <i>a.</i> victorious."
         }
+    ],
+    "MW": [
+        {
+            "word": "जिताहव",
+            "eid": "79237",
+            "pagenum": 420,
+            "content": "jitA<srs/>hava ¦ <lex>mfn.</lex> one who has won a battle, <ls>L.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जिताहव",
+            "eid": "42794",
+            "pagenum": 2,
+            "content": "*जिताहव¦ <lex>Adj.</lex> <i>der einen Kampf siegreich bestanden hat</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जिताहव",
+            "eid": "27460",
+            "pagenum": 3,
+            "content": "जिताहव¦ (जित + आहव) <lex>adj.</lex> subst. <i>der den Kampf gewonnen hat, Sieger</i> <ls>H. 806.</ls>"
+        },
+        {
+            "word": "जिताहव",
+            "eid": "74401",
+            "pagenum": 5,
+            "content": "जिताहव¦ <ls>HALĀY. 2, 324.</ls>"
+        }
     ]
 }

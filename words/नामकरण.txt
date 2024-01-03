@@ -45,5 +45,61 @@
             "pagenum": 375,
             "content": "nAman-karaRa¦ <i>n.</i> the ceremony of naming a child after birth."
         }
+    ],
+    "MD": [
+        {
+            "word": "नामकरण",
+            "eid": "10471",
+            "pagenum": 139,
+            "content": "नामकरण¦ nāma-karaṇa, <lex>n.</lex> ceremony of 🞄giving a name; <b>-karman,</b> <lex>n.</lex> <ab>id.</ab>; <b>-kīrtana,</b> 🞄<lex>n.</lex> mentioning the name of (<ab>g.</ab>); <b>-gotra,</b> <lex>n.</lex> 🞄<ab>du.</ab> personal and family name; <b>-graha,</b> <lex>m.</lex>, 🞄<b>-grahaṇa,</b> <lex>n.</lex> mention of a name; <b>-grāhá,</b> <lex>m.</lex> 🞄<ab>id.</ab>: (<b>-grā́ha</b>) <b>-m,</b> <ab>abs.</ab> mentioning the name; 🞄<b>-jāti-graha,</b> <lex>m.</lex>: <b>-ṇa,</b> <lex>n.</lex> mention of the name 🞄and rank (<i>of the caste</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "नामकरण",
+            "eid": "105727",
+            "pagenum": 536,
+            "content": "नाम—करण ¦ <lex>m.</lex> a nominal suffix, <ls>Nir.</ls><info lex='m'/>"
+        },
+        {
+            "word": "नामकरण",
+            "eid": "105728",
+            "pagenum": 536,
+            "content": "नाम—करण ¦ <lex>n.</lex> the calling of a person (<ab>gen.</ab>) by the name of (नाम्ना), <ls>Sarvad.</ls><info lex='n'/>"
+        },
+        {
+            "word": "नामकरण",
+            "eid": "105729",
+            "pagenum": 536,
+            "content": "¦ the ceremony of naming a child after birth, <ls>Kauś.</ls> &c., <ls>RTL. 370</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नामकरण",
+            "eid": "105730",
+            "pagenum": 536,
+            "content": "¦ (°रणं √ कृ, to perform this <ab n='ceremony'>c°</ab>), <ls>BhP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नामकरण",
+            "eid": "57880",
+            "pagenum": 3,
+            "content": "नामकरण¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Nominalsuffix</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>das Belegen Jmds</i> (<ab>Gen.</ab>) mit dem Namen von (°नाम्ना); <i>die Ceremonie der Namengebung</i> <ls>GAUT.</ls> °णां कर् <i>mit Jmd</i> (<ab>Gen.</ab>) <i>diese <ab n='Ceremonie'>C.</ab> vornehmen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नामकरण",
+            "eid": "38447",
+            "pagenum": 4,
+            "content": "नामकरण¦ (नामन् + क°) <div n='1'> 1) <lex>m.</lex> <i>Nominalsuffix</i> <ls>NIR. 1, 17. 2, 2. 5. 7, 29. 10, 18.</ls> <div n='1'>— 2) <lex>n.</lex> <i>das Namengeben</i> (beim Kinde) <ls>KAUŚ. 58.</ls> <ls>Verz. d. B. H. No. 321. 1031. 1037.</ls>"
+        },
+        {
+            "word": "नामकरण",
+            "eid": "76993",
+            "pagenum": 5,
+            "content": "नामकरण¦ <div n='1'> 2) चकार नामकरणं गूढो रहसि बालयोः <i>die Cerimonie der Namengebung</i> <ls>BHĀG. P. 10, 8, 11.</ls> <i>das Benennen nach Jmd</i> (einer Gottheit) <ls>SARVADARŚANAS. 64, 12.</ls> नामकरणं पुत्रादीनां केशवादिनाम्ना व्यवहारः सर्वदा तन्नामानुस्मरणार्थम् <ls n='SARVADARŚANAS.'>65, 8. fg.</ls>"
+        }
     ]
 }

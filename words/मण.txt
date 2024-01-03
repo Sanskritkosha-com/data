@@ -23,5 +23,37 @@
             "pagenum": 315,
             "content": "मण¦ ein best. Gewicht."
         }
+    ],
+    "MW": [
+        {
+            "word": "मण",
+            "eid": "154590",
+            "pagenum": 774,
+            "content": "मण ¦ <lex>m.</lex> or <lex type='hw'>n.</lex> (?) (<ab>fr.</ab> Arabic <lang script='Arabic' n='Arabic'>من</lang>) a <ab>partic.</ab> measure of grain, <ls>Col.</ls><info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मण",
+            "eid": "36161",
+            "pagenum": 731,
+            "content": "मण¦ <i>maṇa</i> (fr. Arabic <lang n='arabic'>من</lang> a particular measure of grain by weight = 40 ser, mentioned by Hindū writers as used by the Turuṣkas or Muhammadans, a ‘maund.’"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मण",
+            "eid": "81713",
+            "pagenum": 5,
+            "content": "मण¦ <i>ein <ab>best.</ab> Gewicht für Korn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मण",
+            "eid": "56395",
+            "pagenum": 5,
+            "content": "मण¦ (aus dem arab. <lang n='arabic'>من</lang> ) <i>ein best. Gewicht für Korn</i> <ls>COLEBR. Alg. 3.</ls>"
+        }
     ]
 }

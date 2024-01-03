@@ -68,5 +68,87 @@
             "pagenum": 271,
             "content": "<b>sāta,</b>¦ <i><ab>m.</ab></i> Sāta, name of a Yaksha."
         }
+    ],
+    "MD": [
+        {
+            "word": "सात",
+            "eid": "19160",
+            "pagenum": 345,
+            "content": "सात¦ sā-tá, <ab>pp.</ab> san; <lex>m.</lex> <ab>N.</ab> <i>of a Yakṣa</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सात",
+            "eid": "240852",
+            "pagenum": 1196,
+            "content": "<hom>1.</hom> सात/ ¦ <lex>mfn.</lex> gained, obtained, <ls>RV.</ls>; <ls>Br.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सात",
+            "eid": "240853",
+            "pagenum": 1196,
+            "content": "¦ granted, given, bestowed, <ls>RV.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सात",
+            "eid": "240854",
+            "pagenum": 1196,
+            "content": "सात/ ¦ <lex>n.</lex> a gift, wealth, riches, <ls>ib.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सात",
+            "eid": "240863",
+            "pagenum": 1196,
+            "content": "<hom>2.</hom> सात ¦ <lex>mfn.</lex> (for <hom>3.</hom> See <pcol>p. 1200, col. 1</pcol>) ended, destroyed, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सात",
+            "eid": "241376",
+            "pagenum": 1200,
+            "content": "<hom>3.</hom> सात ¦ <lex>n.</lex> (for <hom>1.</hom> and <hom>2.</hom> See <pcol>p. 1196, col. 3</pcol>) pleasure, delight, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सात",
+            "eid": "51686",
+            "pagenum": 1102,
+            "content": "1. <i>sāta, as, ā, am,</i>¦ given, bestowed; (<i>am</i>), n., Ved. a gift, present, wealth, riches, (Sāy. <i>sātāni =</i> <i>dhanāni,</i> Ṛg-veda II. 24, 10.)"
+        },
+        {
+            "word": "सात",
+            "eid": "51690",
+            "pagenum": 1102,
+            "content": "2. <i>sāta, as, ā, am,</i>¦ (regarded as an irregular part. fr. rt. <i>so</i>), destroyed. (For 3. <i>sāta</i> see p. 1104, col. 2.)"
+        },
+        {
+            "word": "सात",
+            "eid": "51779",
+            "pagenum": 1104,
+            "content": "3. <i>sāta, am,</i>¦ n. pleasure, delight."
+        },
+        {
+            "word": "सात",
+            "eid": "51782",
+            "pagenum": 1104,
+            "content": "सात 1¦. and 2. <i>sāta,</i> &c. See p. 1102, col. 1."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सात",
+            "eid": "123641",
+            "pagenum": 7,
+            "content": "सात/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>1.</hom> सन्. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines <is>Yakṣa</is>. <div n='1'>— 3〉 <lex>n.</lex> = शात = सुख."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सात",
+            "eid": "108097",
+            "pagenum": 7,
+            "content": "सात¦ <div n='1'> 1) <lex>adj.</lex> s. u. 1. सन् und vgl. ऋत° . <div n='1'>— 2) <lex>m.</lex> N. pr. eines <is>Yakṣa</is> <ls>KATHĀS. 6, 97. 105.</ls> <div n='1'>— 3) <lex>n.</lex> = शात = सुख <ls>BHARATA</ls> zu <ls>AK. 1, 1, 4, 3</ls> nach <ls>ŚKDR.</ls>"
+        }
     ]
 }

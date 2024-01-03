@@ -55,5 +55,59 @@
             "pagenum": 74,
             "content": "<i>chuṭ</i>¦ (LP), cf. <i>choṭanīya;</i> Gujarātī <i>cho</i>ḏ<i>āvavuṃ;</i> also cf. <i>granthi-baddhair = api drammaiḥ kṣetraṃ choṭayituṃ dhāraṇiko na</i> <i>labhate,</i> ‘[when the date is already over], the debtor will not get his farm liberated by the ready money tied in a piece of cloth’. <div n='P'><i>Cf. patra-grahāt chuṭanti</i> (LP), ‘will be free from the bond’; also Gujarātī <i>chaṭśe.</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "छुट्",
+            "eid": "7769",
+            "pagenum": 97,
+            "content": "छुट्¦ CHUṬ, <i>only with</i> <b>ā,</b> <ab>cs.</ab> <ab>pp.</ab> <b>-choṭita,</b> 🞄pulled; torn off."
+        }
+    ],
+    "MW": [
+        {
+            "word": "छुट्",
+            "eid": "76066",
+            "pagenum": 407,
+            "content": "छुट् ¦ <ab>cl.</ab> 6. °टति, to bind, <ls>Dhātup.</ls> : <ab>cl.</ab> 10. छोटयति, to cut, split, <ls>ib.</ls> (<ab>v.l.</ab> for √ चुट्). <info verb='root' cp='6,10'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छुट्",
+            "eid": "19137",
+            "pagenum": 334,
+            "content": "छुट्¦ <i>chuṭ</i> (a various reading for <i>cuṭ</i>), cl. 6. 10. P. <i>chuṭati, choṭayati,</i> &c., to cut; [cf. Hib. <nsi>sgoth,</nsi> ‘a cut;’ <nsi>sgothan,</nsi> ‘a small flock.’]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "छुट्",
+            "eid": "41166",
+            "pagenum": 2,
+            "content": "√छुट्¦, *छुटति (बन्धने), *छोटयति (छेदने). <div n='p'>— Mit आ <ab>Caus.</ab> आच्छोटित <div n='1'>— 1〉 <i>gezerrt</i> <ls>KĀD. 2,83,13</ls>. <div n='1'>— 2〉 <i>abgerissen</i> <ls>HARṢAC. 142,20</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छुट्",
+            "eid": "26271",
+            "pagenum": 2,
+            "content": "छुट्¦, छुट/ति v.l. für चुट्, चुट/ति <ls>DHĀTUP. 28, 84.</ls> ebenso छोट/यति für चोट/यति <ls n='DHĀTUP.'>32, 72.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "छुट्",
+            "eid": "7266",
+            "pagenum": 5,
+            "content": "छुट्¦ <ab>Caus.</ab> छोटित <i>abgeschnitten</i> <ls>UTTAMAC. 316</ls>."
+        },
+        {
+            "word": "छुट्",
+            "eid": "22387",
+            "pagenum": 7,
+            "content": "छुट्¦ mit उद् <ab>Caus.</ab> उच्छोटित <i>getüncht</i> <ls>DAMAYANTĪK. 254</ls>."
+        }
     ]
 }

@@ -7,5 +7,33 @@
             "pagenum": 81,
             "content": "अनुविद्¦ {c6c} <ab>U.</ab> <b>1</b> To find, discover, see, obtain. <b>--2</b> To deem, consider. <b>--3</b> To marry."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनुविद्",
+            "eid": "7273",
+            "pagenum": 38,
+            "content": "<hom>1.</hom> अनु-√ <hom>1.</hom> विद् ¦ <ab>cl.</ab> 2. <ab>P.</ab>, <ab>Ved.</ab> -वेत्ति, to know thoroughly, <ls>RV.</ls> &c.<info verb='pre' cp='2P' parse='anu+vid'/>"
+        },
+        {
+            "word": "अनुविद्",
+            "eid": "7274",
+            "pagenum": 38,
+            "content": "<hom>2.</hom> अनु-√ <hom>3.</hom> विद् ¦ <ab>cl.</ab> 6. <ab>P.</ab> <ab>Ā</ab> -विन्दति, °ते, to find, obtain, discover, <ls>RV.</ls> &c.; <div n='to'/>to marry, <ls>MBh.</ls>; <div n='to'/>to deem, <ls>Gīt.</ls><info verb='pre' cp='6P6Ā' parse='anu+vid'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुविद्",
+            "eid": "2593",
+            "pagenum": 39,
+            "content": "अनुविद् 1¦. <i>anu-vid,</i> cl. 2. P., Ved. <i>-vetti,</i> <i>-veditum,</i> to know thoroughly."
+        },
+        {
+            "word": "अनुविद्",
+            "eid": "2594",
+            "pagenum": 39,
+            "content": "अनुविद् 2¦. <i>anu-vid,</i> cl. 6. P. A. <i>-vindati,</i> <i>-te, -veditum,</i> to find, discover; to deem; to marry."
+        }
     ]
 }

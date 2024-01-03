@@ -39,5 +39,45 @@
             "pagenum": 730,
             "content": "SOvastika¦ <i>a. (f. की)</i> Belonging to or lasting till tomorrow."
         }
+    ],
+    "MD": [
+        {
+            "word": "शौवस्तिक",
+            "eid": "18201",
+            "pagenum": 319,
+            "content": "शौवस्तिक¦ śauvas-tika, <lex>a.</lex> occurring on <i>or</i> 🞄lasting till to-morrow (śvas)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शौवस्तिक",
+            "eid": "221934",
+            "pagenum": 1093,
+            "content": "शौवस्तिक ¦ <lex>mf(ई)n.</lex> of or belonging to the morrow, lasting till to-morrow, ephemeral, <ls>Pāṇ. iv, 3, 15.</ls><info lex='m:f#I:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शौवस्तिक",
+            "eid": "47271",
+            "pagenum": 1022,
+            "content": "शौवस्तिक¦ <i>śauvastika, as, ī, am</i> (fr. 2. <i>śvas</i>), of or belonging to to-morrow, lasting till to-morrow, ephemeral. <i>—Śauvastika-tva, am,</i> n. the lasting or enduring till to-morrow, ephemeralness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शौवस्तिक",
+            "eid": "114609",
+            "pagenum": 6,
+            "content": "शौवस्तिक¦ <lex>Adj.</lex> <i>morgen —, am folgenden Tag erfolgend, bis dahin reichend</i> <ab>u. s. w.</ab> <ab>Nom. abstr.</ab> [Page6-265-a] °त्व <lex>n.</lex> <ls>BHAṬṬ.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शौवस्तिक",
+            "eid": "101263",
+            "pagenum": 7,
+            "content": "शौ/वस्तिक¦ (von 2. श्वस्) <lex>adj.</lex> <i>morgen —, am folgenden Tage erfolgend, bis dahin reichend u.s.w.</i> <ls>P. 4, 3, 15.</ls> Davon °त्व <lex>n.</lex> nom. abstr.: शौवस्तिकत्वं विभवा न येषां व्रजन्ति <i>dessen Reichthümer nicht bis zum folgenden Tage reichen</i> <ls>BHAṬṬ. 2, 33.</ls>"
+        }
     ]
 }

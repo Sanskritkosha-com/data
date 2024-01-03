@@ -39,5 +39,43 @@
             "pagenum": 350,
             "content": "dvi-tra¦ <i>a. pl.</i> two or three, <ls>R.</ls>v.25."
         }
+    ],
+    "MD": [
+        {
+            "word": "द्वित्र",
+            "eid": "9823",
+            "pagenum": 128,
+            "content": "द्वित्र¦ dvi-tra, <lex>a.</lex> <ab>pl.</ab> two or three."
+        }
+    ],
+    "MW": [
+        {
+            "word": "द्वित्र",
+            "eid": "98463",
+            "pagenum": 504,
+            "content": "द्वि—त्र ¦ <lex>mfn.</lex> <ab>pl.</ab> 2 or 3 <ls>Kāv.</ls> &c.<info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्वित्र",
+            "eid": "53916",
+            "pagenum": 3,
+            "content": "द्वित्र (<lex>f.</lex> आ) und द्वित्रि (ausnahmsweise)¦ <lex>Adj.</lex> <ab>Pl.</ab> <i>zwei oder drei</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्वित्र",
+            "eid": "35708",
+            "pagenum": 3,
+            "content": "द्वित्र/¦ (द्वि + त्रि) pl. <lex>m.</lex> <lex>f.</lex> °त्रास्, <lex>n.</lex> त्राणि <i>zwei oder drei</i> <ls>Schol.</ls> zu <ls>P. 2, 2, 25.</ls> <ls n='P.'>5, 4, 73.</ls> <ls n='P.'>6, 3, 47.</ls> <ls>BHARTṚ. 2, 90.</ls> <ls>RAGH. 5, 25.</ls> <ls>KATHĀS. 14, 15.</ls> <ls n='KATHĀS.'>18, 30.</ls> <ls>RĀJA-TAR. 3, 18. 4, 16. 5, 90.</ls> <ls>SĀH. D. 33, 21.</ls> द्वित्रि im comp.: द्वित्रिदिवसनिवास <ls>PRAB. 21, 15.</ls> द्वित्रियतुर <i>zwei-, drei - oder viermalig</i> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 193, 8.</ls>"
+        },
+        {
+            "word": "द्वित्र",
+            "eid": "76378",
+            "pagenum": 5,
+            "content": "द्वित्र¦ <ls>KATHĀS. 54, 201.</ls> <ls n='KATHĀS.'>56, 24.</ls> द्वित्रिभिर्बहुभिः सार्धम् <i>mit Zweien, Dreien oder Vielen</i> <ls>Spr. 515.</ls>"
+        }
     ]
 }

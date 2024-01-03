@@ -92,5 +92,63 @@
             "pagenum": 332,
             "content": "divA¦ <i>ind.</i> By day, in the day time.<P>(दिवाभू ‘to become day’ e.g. दिवाभूता रात्रिः.)"
         }
+    ],
+    "MD": [
+        {
+            "word": "दिवा",
+            "eid": "9308",
+            "pagenum": 120,
+            "content": "दिवा¦ dívā, <lex>ad.</lex> by day: <ab>sts.</ab> <i>subject of a 🞄sentence or</i> <ab>°—</ab>, = day."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दिवा",
+            "eid": "92289",
+            "pagenum": 478,
+            "content": "दि/वा ¦ <lex>ind.</lex> (for दिवा/, <ab>instr.</ab> of <hom>3.</hom> दि/व्) <ab>g.</ab> स्वरादि, by day (often opposed to न/क्तम्), <ls>RV.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "दिवा",
+            "eid": "92289.1",
+            "pagenum": 478,
+            "content": "¦ used also as <ab>subst.</ab>, <ab>e.g.</ab> दिवा भवति, <ls>ChUp. iii, 11, 3</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दिवा",
+            "eid": "92289.2",
+            "pagenum": 478,
+            "content": "¦ (with रात्रिस्), <ls>MBh. ii, 154</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "दिवा",
+            "eid": "92289.3",
+            "pagenum": 478,
+            "content": "¦ <ab>esp.</ab> in beginning of <ab>comp.</ab><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दिवा",
+            "eid": "22382",
+            "pagenum": 414,
+            "content": "<i>Divā,</i>¦ ind. by day, see 3. <i>div,</i> p. 413, col. 2; <i>a-divā,</i> not by day."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिवा",
+            "eid": "50281",
+            "pagenum": 3,
+            "content": "दि/वा¦ <lex>Adv.</lex> <i>am Tage</i>. Nicht selten als Subject (<ls n='Chr.'>184,25</ls>) oder am <ab>Anf.</ab> eines <ab>Comp.</ab> so <ab>v. a.</ab> <i>Tag</i> im Gegensatz zur <i>Nacht</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिवा",
+            "eid": "32961",
+            "pagenum": 3,
+            "content": "दि/वा¦ (instr. von दिव् mit nicht vorgeschobenem Tone) ved., दिवा/ <is>gaṇa</is> स्वरादि zu <ls>P. 1, 1, 37.</ls> adv. <i>am Tage</i> <ls>AK. 3, 5, 6.</ls> <ls>H. 1531.</ls> दिवा^, नक्त^म् <ls>ṚV. 1, 34, 2.</ls> <ls n='ṚV. 1,'>98, 2.</ls> <ls n='ṚV. 1,'>139, 5.</ls> <ls n='ṚV.'>7, 15, 15.</ls> <ls n='ṚV. 7,'>140, 11</ls> u.s.w. <ls>AV. 5, 7, 3.</ls> <ls n='AV. 5,'>29, 9.</ls> सायम्, प्रातः, रात्र्या, दिवा <ls n='AV.'>11, 2, 16.</ls> <ls>ŚAT. BR. 2, 1, 4, 1.</ls> <ls n='ŚAT. BR.'>11, 5, 1, 4.</ls> <ls n='ŚAT. BR.'>14, 1, 2, 21.</ls> <ls>PRAŚNOP. 1, 13.</ls> <ls>ĀŚV. GṚHY. 1, 2. 22.</ls> <ls>M. 2, 102. 4, 50. 102. 106. 6, 19.</ls> <ls>N. 2, 4.</ls> <ls>SĀV. 5, 83.</ls> <ls>R. 4, 43, 45.</ls> <ls>SUŚR. 1, 113, 16. 316, 5.</ls> <ls>ŚĀK. 102.</ls> <ls>KATHĀS. 7, 32.</ls> <ls>BHĀG. P. 1, 16, 10.</ls> दिवारात्रम् <ls>M. 5, 80.</ls> <ls>MBH. 3, 12540.</ls> <ls n='MBH.'>16, 38.</ls> <ls>R. 1, 58, 12.</ls> दिवानिशम् <ls>M. 7, 44.</ls> <ls n='M.'>9, 2.</ls> <ls>N. 13, 37.</ls> <ls n='N.'>20, 28.</ls> <ls>RAGH. 19, 6.</ls> अदिवा <i>nicht bei Tage</i> <ls>AIT. BR. 5, 31.</ls> Das adv. als subj. an Stelle des nom. sg.: सर्वमस्मै दिवा भवति <ls>PAÑCAV. BR. 5, 8, 9. 11, 1, 11.</ls> सकृद्दिवा हैवास्मै भवति <ls>CHĀND. UP. 3, 11, 3.</ls> क्षणा लवा मुहूर्ताश्च दिवा रात्रिस्तथैव च <ls>MBH. 2, 454.</ls> ततो नाज्ञायत तदा दिवारात्रं तथा दिशः <ls n='MBH.'>3, 816.</ls> <ls>BHĀG. P. 5, 22, 5.</ls>"
+        }
     ]
 }

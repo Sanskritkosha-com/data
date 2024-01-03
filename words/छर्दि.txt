@@ -52,5 +52,43 @@
             "pagenum": 279,
             "content": "Cardi¦ <i>f.</i> Vomiting."
         }
+    ],
+    "MW": [
+        {
+            "word": "छर्दि",
+            "eid": "76113",
+            "pagenum": 407,
+            "content": "छर्दि ¦ <lex>f.</lex> vomiting, sickness, <ls>KātyŚr. xxv, 11</ls>; <ls>Gaut.</ls>; <ls>Suśr.</ls>; <ls>VarBṛS. xxxii, 18</ls><info lex='f'/>"
+        },
+        {
+            "word": "छर्दि",
+            "eid": "76114",
+            "pagenum": 407,
+            "content": "¦ expulsion (of the breath), <ls>KapS. iii, 33.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छर्दि",
+            "eid": "19041",
+            "pagenum": 332,
+            "content": "<i>Chardi, is,</i>¦ f. sickness, vomiting. <i>—Chardi-ghna,</i> <i>as,</i> m. ‘anti-emetic,’ N. of a tree, <i>= nimba.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "छर्दि",
+            "eid": "40986",
+            "pagenum": 2,
+            "content": "छर्दि¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Uebelkeit, erbrechen</i> <ls>GAUT.</ls> <ls>Chr. 217,9. 220,14</ls>. <div n='1'>— 2〉 <i>das Ausstossen</i> (des Athems)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छर्दि",
+            "eid": "26136",
+            "pagenum": 2,
+            "content": "छर्दि/¦ (von छर्द्) <lex>f.</lex> <i>Uebelkeit, Erbrechen</i> <ls>Uṇ. 2, 104</ls>, <ls>Sch.</ls>  <ls>H. 469.</ls> <ls>SUŚR. 1, 108, 18. 2, 180, 5. 283, 18. 491, 9.</ls> <ls>KĀTY. ŚR. 25, 11, 31.</ls> — निरोधश्छर्दिविधारणाभ्याम् <ls>KAP. 3, 33.</ls> <ls>BALL.</ls> : <i>restraint (of the breath) is by means of expulsion and retention.</i>"
+        }
     ]
 }

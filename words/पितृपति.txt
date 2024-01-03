@@ -28,5 +28,35 @@
             "pagenum": 437,
             "content": "pitf-pati¦ <i>m.</i> an epithet of Yama."
         }
+    ],
+    "MW": [
+        {
+            "word": "पितृपति",
+            "eid": "124054",
+            "pagenum": 626,
+            "content": "पितृ—पति ¦ <lex>m.</lex> ‘lord of the <ab n='Pitṛ' slp1='pitf'>P°</ab>s’, <ab>N.</ab> of <s1 slp1='yama'>Yama</s1>, <ls>MārkP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पितृपति",
+            "eid": "124055",
+            "pagenum": 626,
+            "content": "¦ <ab>pl.</ab> the <ab n='Pitṛ' slp1='pitf'>P°</ab>s and the <s1 slp1='prajA-pati'>Prajā-pati</s1>s, <ls>BhP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पितृपति",
+            "eid": "66973",
+            "pagenum": 4,
+            "content": "पितृपति¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Herr der Manen</i>. <ab>Bein.</ab> <is>Yama</is>ʼs. <div n='1'>— 2〉 <ab>Pl.</ab> <i>die Väter und die</i> <is>Prajāpati</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पितृपति",
+            "eid": "45260",
+            "pagenum": 4,
+            "content": "पितृपति¦ (पितर् + प°) <lex>m.</lex> <div n='1'> 1) <i>der Herr der Manen</i>, Bein. <is>Yama's</is> <ls>AK. 1, 1, 1, 53</ls> <ls n='AK. 1, 1,'>2, 4</ls> <ls>H. 184.</ls> <ls>HALĀY. 1, 71.</ls> <ls>MĀRK. P. 104, 37.</ls> <div n='1'>— 2) pl. <i>die Manen und die Herren der Geschöpfe</i> (प्रजापति) <ls>BHĀG. P. 7, 4, 6.</ls>"
+        }
     ]
 }

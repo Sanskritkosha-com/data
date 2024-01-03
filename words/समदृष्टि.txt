@@ -15,5 +15,53 @@
             "pagenum": 590,
             "content": "समदृष्टि¦ <lex>a.</lex> = समदर्शिन्, <lex>f.</lex> as <ab>abstr.</ab>"
         }
+    ],
+    "MW": [
+        {
+            "word": "समदृष्टि",
+            "eid": "233095",
+            "pagenum": 1152,
+            "content": "सम—दृष्टि ¦ <lex>f.</lex> the act of looking on all equally or impartially, <ls>Kathās.</ls><info lex='f'/>"
+        },
+        {
+            "word": "समदृष्टि",
+            "eid": "233096",
+            "pagenum": 1152,
+            "content": "सम—दृष्टि ¦ <lex>mfn.</lex> looking on all <ab n='impartially'>imp°</ab> (-त्व <lex type='phw'>n.</lex>), <ls>BhP.</ls>; <ls>Rājat.</ls>; <ls>Vās.</ls><info phwchild='233097.01'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "समदृष्टि",
+            "eid": "233097",
+            "pagenum": 1152,
+            "content": "¦ even-eyed, <ls>Vās.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "समदृष्टि",
+            "eid": "119851",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> समदृष्टि¦ <lex>f.</lex> <i>das Schauen mit gleichen Augen auf Alles</i> oder <i>Alle</i>."
+        },
+        {
+            "word": "समदृष्टि",
+            "eid": "119852",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> समदृष्टि¦ <lex>Adj.</lex> <div n='1'>— 1〉 = समदर्शिन् <ls>VĀSAV. 35,2</ls>. <div n='1'>— 2〉 <i>paarige Augen habend</i> <ls>ebend.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समदृष्टि",
+            "eid": "105264",
+            "pagenum": 7,
+            "content": "1. समदृष्टि¦ <lex>f.</lex> <i>das Schauen mit gleichen Augen auf Alles</i> oder <i>Alle</i>: दुःखे सुखे च विप्रेन्द्र या दृष्टिर्वर्तते सदा (lies समा) । तथा शत्रौ च मित्रे च समदृष्टिश्च सा स्मृता ॥ <ls>KRIYĀYOGASĀRA 16</ls> im <ls>ŚKDR.</ls> तिस्रस्तदेता द्रष्टव्याः समदृष्ट्या सुत त्वया <ls>KATHĀS. 45, 179.</ls>"
+        },
+        {
+            "word": "समदृष्टि",
+            "eid": "105265",
+            "pagenum": 7,
+            "content": "2. समदृष्टि¦ <lex>adj.</lex> = समदर्शन <div n='1'> 2) <ls>Spr. (II) 5192.</ls> Davon nom. abstr. °त्व n.: सर्वत्र <ls>RĀJA-TAR. 1, 357.</ls>"
+        }
     ]
 }

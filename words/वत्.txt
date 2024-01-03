@@ -69,5 +69,69 @@
             "pagenum": 636,
             "content": "vat¦ <i>(II) ind.</i> An affix, translatable by ‘as, like,’ added to noun to form adverbs, e.g. दुरालोकः स समरे निदाघांबररत्नवत् <ls>K.Pr.</ls>x."
         }
+    ],
+    "MD": [
+        {
+            "word": "वत्",
+            "eid": "15810",
+            "pagenum": 267,
+            "content": "वत्¦ VAT, <cl>Ⅰ.</cl> <lex>P.</lex> <b>-váta</b> (<ab>RV.</ab>). <b>api,</b> understand; 🞄<ab>cs.</ab> <b>vātáya,</b> <lex>P.</lex> cause to understand, 🞄awaken, arouse, inspire <i>any one</i> (<ab>d.</ab>) 🞄with (<i>devotion</i>; <ab>ac.</ab>)."
+        },
+        {
+            "word": "वत्",
+            "eid": "15811",
+            "pagenum": 267,
+            "content": "वत्¦ vat, 〈1.〉 <lex>ad.</lex> <i>suffix meaning</i> like, as (<i>the 🞄preceding noun having the sense of any case</i>); 🞄〈2.〉 <lex>a.</lex> <i>suffix meaning</i> having, possessing."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वत्",
+            "eid": "185373",
+            "pagenum": 915,
+            "content": "<hom>1.</hom> वत् ¦ an affix (technically termed वति; See <ls>Pāṇ. v, 1, 115</ls> &c.) added to words to imply likeness or resemblance, and generally translatable by ‘as’, ‘like’ (<ab>e.g.</ab> ब्राह्मण-वत्, like a <ns>Brāhman</ns>; पितृ-वत् = pite<srs/>va, पितरम् इव, पितुर् इव and pitarI<srs/>va)."
+        },
+        {
+            "word": "वत्",
+            "eid": "185375",
+            "pagenum": 915,
+            "content": "<hom>2.</hom> वत् ¦ See अपि-√ वत्.<info verb='root'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वत्",
+            "eid": "41024",
+            "pagenum": 881,
+            "content": "वत् 1¦. <i>vat,</i> ind. an affix (technically termed <i>vati</i>) added to words to imply likeness or resemblance, and generally translatable by ‘as,’ ‘like’ (e. g. <i>brāhmaṇa-vat,</i> like a Brāhman)."
+        },
+        {
+            "word": "वत्",
+            "eid": "41025",
+            "pagenum": 881,
+            "content": "वत् 2¦. <i>vat,</i> a Vedic rt. usually connected with <i>api,</i> (probably) cl. 1. <i>vatati,</i> &c., to understand, comprehend, apprehend, (according to Sāy. on Ṛg-veda VII. 3, 10. <i>vatema = sambha-</i> <i>jemahi,</i> ‘may we share in or possess or obtain,’ where <i>vat</i> is said to stand for rt. 1. <i>van</i>): Caus. <i>vātayati, -yitum,</i> Aor. <i>avīvatat,</i> to cause to understand, make intelligible; to excite, awaken, (Sāy. <i>=</i> <i>prāpayati, āgamayati, prerayati.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वत्",
+            "eid": "97707",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> √वत्¦, व/तति mit अपि <i>verstehen, begreifen</i>. <div n='m'>— <ab>Caus.</ab> वात/यति mit अपि <i>verstehen —, begreiflich [Page6-010-a] machen, wecken</i> (einen guten Sinn)."
+        },
+        {
+            "word": "वत्",
+            "eid": "97708",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> वत्¦ Adverbia bildendes Suffix mit der <ab>Bed.</ab> <i>in der Weise von</i>. पितृवत् = पितेव, पितरमिव, पित्रैव, पितुरिव und पितरीव."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वत्",
+            "eid": "87585",
+            "pagenum": 6,
+            "content": "वत्¦, वतति mit अपि <i>verstehen, begreifen</i>: अपि\\ क्रतु^ं सु\\चेत^सं वतेम <ls>ṚV. 7, 3, 10.</ls> <ls n='ṚV. 7,'>60, 7.</ls> — caus. <i>verstehen —, begreiflich machen</i>: भ\\द्रं नो\\ अपि^ वातय\\ मन^ः <i>wecke in uns einen guten Sinn</i> <ls>ṚV. 10, 20, 1.</ls> <ls n='ṚV. 10,'>25, 1.</ls> पि\\त्रे पु\\त्रासो\\ अप्य^वीवतन्नृ\\तम् <ls n='ṚV. 10,'>13, 5.</ls> मन्मा^नि चित्रा अपिवा\\तय^न्त ए\\षां भू^त\\ नवे^दा म ऋ\\ताना^म् <ls>ṚV. 1, 165, 13.</ls> <div n='v'>— Vgl. स्वपिवात ."
+        }
     ]
 }

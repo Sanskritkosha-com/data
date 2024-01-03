@@ -61,5 +61,83 @@
             "pagenum": 2,
             "content": "aka¦ <i>n.</i> 1. Sin; 2. sorrow."
         }
+    ],
+    "MD": [
+        {
+            "word": "अक",
+            "eid": "28",
+            "pagenum": 1,
+            "content": "अक¦ aka, <lex>m.</lex> <i>the suffix</i> -aka (<ab>gr.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अक",
+            "eid": "135",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अक ¦ the suffix अक (अकच्)."
+        },
+        {
+            "word": "अक",
+            "eid": "136",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अ/-क ¦ <lex>n.</lex> unhappiness, pain, trouble, <ls>TS.</ls><info lex='n'/>"
+        },
+        {
+            "word": "अक",
+            "eid": "137",
+            "pagenum": 1,
+            "content": "¦ sin, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अक",
+            "eid": "35",
+            "pagenum": 1,
+            "content": "<i>Aka, as, ā, am,</i>¦ moving tortuously; (<i>am</i>), n. pain, trouble, sin (also derived from <i>a,</i> not <i>+ ka,</i> happiness)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अक",
+            "eid": "64",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/क¦ <lex>n.</lex> <div n='1'>— 1〉 <i>(Nichtfreude), Leid, Schmerz</i> <ls>TS. 5,3,7,1</ls>. <div n='1'>— 2〉 *<i>Sünde</i>."
+        },
+        {
+            "word": "अक",
+            "eid": "65",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अक¦ <lex>m.</lex> <i>das Suffix</i> <is>aka</is> <ls n='Chr.'>238,6. 239,3. 4</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अक",
+            "eid": "65",
+            "pagenum": 1,
+            "content": "अक¦ (3. अ + क <i>Freude</i>) <lex>n.</lex> <i>Schmerz; Sünde</i> <ls>TRIK. 1, 2, 7.</ls> (अकं दुःखमघम्) <ls>H. an. 2, 1.</ls> (दुःखाघयोः) <ls>MED. k. 16</ls> (पापदुःखयोः)."
+        },
+        {
+            "word": "अक",
+            "eid": "62433",
+            "pagenum": 5,
+            "content": "अक¦ <ls>NIR. 2, 14.</ls> Vielleicht zend. <is>aka</is> zu vergleichen."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अक",
+            "eid": "5975",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> अक¦ 1〉 <i>Unheil</i> <ls>KĀŚĪKH. 24,17</ls>."
+        },
+        {
+            "word": "अक",
+            "eid": "9422",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> अक¦ I. 5."
+        }
     ]
 }

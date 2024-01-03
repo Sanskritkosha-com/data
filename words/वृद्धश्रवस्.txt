@@ -28,5 +28,41 @@
             "pagenum": 688,
             "content": "vfdDa-Sravas¦ <i>m.</i> an epithet of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "वृद्धश्रवस्",
+            "eid": "204696",
+            "pagenum": 1011,
+            "content": "वृद्ध/—श्रवस् ¦ (वृद्ध/-), <lex>mfn.</lex> possessed of great swiftness, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वृद्धश्रवस्",
+            "eid": "204696.1",
+            "pagenum": 1011,
+            "content": "वृद्ध/—श्रवस् ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>Vās.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वृद्धश्रवस्",
+            "eid": "204696.2",
+            "pagenum": 1011,
+            "content": "¦ of a <s1 slp1='muni'>Muni</s1>, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वृद्धश्रवस्",
+            "eid": "106578",
+            "pagenum": 6,
+            "content": "वृद्ध/श्रवस्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>mit grosser Schnelligkeit begabt</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <ab>Bein.</ab> <is>Indra</is>ʼs <ls>VĀSAV. 150,1</ls>. <div n='2'>— b〉 <ab>N. pr.</ab> eines <is>Muni</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वृद्धश्रवस्",
+            "eid": "94904",
+            "pagenum": 6,
+            "content": "वृद्ध/श्रवस्¦ <div n='1'> 1) <lex>adj.</lex> <i>mit grosser Schnelligkeit begabt</i>: <is>Indra</is> <ls>ṚV. 1, 89, 6.</ls> <ls>VS. 10, 9.</ls> <lex>m.</lex> Bein. <is>Indra's</is> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 226.</ls> <ls>AK. 1, 1, 1, 37.</ls> <ls>H. 172.</ls> <ls>HALĀY. 1, 52.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines <is>Muni</is> <ls>Verz. d. Oxf. H. 18,b,15. 19,a,35.</ls>"
+        }
     ]
 }

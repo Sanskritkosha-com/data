@@ -31,5 +31,41 @@
             "pagenum": 222,
             "content": "kzetra-pati¦ <i>m.</i> a land-owner, a landlord."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षेत्रपति",
+            "eid": "60293",
+            "pagenum": 332,
+            "content": "क्षेत्र—पति ¦ <lex>m.</lex> (<ab>g.</ab> अश्व-पत्यादि) the owner of a field, landowner, landlord, farmer, <ls>Hit.</ls><info lex='m'/>"
+        },
+        {
+            "word": "क्षेत्रपति",
+            "eid": "60294",
+            "pagenum": 332,
+            "content": "¦ = क्षेत्रस्य प/ति (See <ab>s.v.</ab> क्षेत्र), <ls>Kāṭh. xxiv, 10.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षेत्रपति",
+            "eid": "32937",
+            "pagenum": 2,
+            "content": "क्षेत्रपति¦ <lex>m.</lex> <i>der Herr —, Besitzer eines Feldes</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षेत्रपति",
+            "eid": "20595",
+            "pagenum": 2,
+            "content": "क्षेत्रपति¦ (क्षेत्र + पति) <lex>m.</lex> <is>gaṇa</is> अश्वपत्यादि zu <ls>P. 4, 1, 84.</ls> <i>der Herr eines Feldes</i> <ls>HIT. 23, 6. 12.</ls> <div n='v'>— Vgl. क्षैत्रपत, क्षैत्रपत्य und क्षेत्रस्य पतिः u. क्षेत्र 1."
+        },
+        {
+            "word": "क्षेत्रपति",
+            "eid": "72144",
+            "pagenum": 5,
+            "content": "क्षेत्रपति¦ <ls>KĀṬH. 24, 10.</ls>"
+        }
     ]
 }

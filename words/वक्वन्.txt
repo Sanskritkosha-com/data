@@ -31,5 +31,35 @@
             "pagenum": 1189,
             "content": "<b>vákvan,</b>¦ <ab>a.</ab>, <ab>dass.</ab> <div n='TS'>-ā hvārás {141,7}; (sómas) {803,1}. <div n='TS'>-arī [<ab>N.</ab> <ab>s.</ab> <ab>f.</ab>] gī́r {463,5}. <div n='TS'>-arī [<ab>du.</ab> <ab>f.</ab>] énī {144,6}."
         }
+    ],
+    "MW": [
+        {
+            "word": "वक्वन्",
+            "eid": "184483",
+            "pagenum": 911,
+            "content": "व/क्वन् ¦ <lex>mf(अरी)n.</lex> <ab>id.</ab>, <ls>ib.</ls><info lex='m:f#arI:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वक्वन्",
+            "eid": "40864",
+            "pagenum": 877,
+            "content": "वक्वन्¦ <i>vakvan.</i> See p. 878, col. 1."
+        },
+        {
+            "word": "वक्वन्",
+            "eid": "40920",
+            "pagenum": 878,
+            "content": "<i>Vakvan, ā, -varī, a,</i>¦ Ved. (according to modern scholars) <i>= vakva,</i> p. 876, col. 3; (<i>ā</i>), m. a speaker, singer, chanter, great talker, chatterer."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वक्वन्",
+            "eid": "87241",
+            "pagenum": 6,
+            "content": "व/क्वन्¦ <lex>adj.</lex> dass.: ह्वार <ls>ṚV. 1, 141, 7.</ls> vom <is>Soma</is>: अस^र्जि\\ वक्वा\\ रथ्ये\\ यथा\\जौ <ls n='ṚV.'>9, 91, 1.</ls> एनी^ त ए\\ते बृ^ह\\ती अ^भि\\श्रिया^ हिर\\ण्ययी\\ वक्व^री ब\\र्हिरा^शाते <ls n='ṚV.'>1, 144, 6.</ls> वे\\पी\\ वक्व^री\\ गीः <ls n='ṚV.'>6, 22, 5.</ls>"
+        }
     ]
 }

@@ -31,5 +31,37 @@
             "pagenum": 299,
             "content": "<b>éti,</b>¦ <ab>f.</ab>, die <i>Ankunft,</i> das <i>Herbeikommen</i>. <div n='TS'>-au {1004,2} <ab>par.</ab> páretau. <div n='TS'>-ayas {917,4} (uṣásām)."
         }
+    ],
+    "MW": [
+        {
+            "word": "एति",
+            "eid": "39166",
+            "pagenum": 227,
+            "content": "e/<srs/>ti ¦ <lex>f.</lex> arrival, approach, <ls>RV. x, 91, 4</ls>; <ls n='RV. x,'>178, 2.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "एति",
+            "eid": "12732",
+            "pagenum": 185,
+            "content": "<i>Eti, is,</i>¦ f., Ved. arrival, approach."
+        }
+    ],
+    "PW": [
+        {
+            "word": "एति",
+            "eid": "22247",
+            "pagenum": 1,
+            "content": "ए/ति¦ <lex>f.</lex> <i>Ankunft</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एति",
+            "eid": "13510",
+            "pagenum": 1,
+            "content": "ए/ति¦ (von 3. इ mit आ) <lex>f.</lex> <i>Ankunft</i>: आ ते^ चिकित्र उ\\षसा^मि\\वेत^यः (<is>Padap</is>.: एत^यः) <ls>ṚV. 10, 91, 4.</ls> मा वा\\मेतौ\\ (<is>Padap</is>.: आ ऽइ^तौ) मा परे^तौ रिषाम <ls n='ṚV. 10,'>178, 2.</ls> <ls>VS. 27, 45.</ls>"
+        }
     ]
 }

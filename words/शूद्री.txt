@@ -20,5 +20,27 @@
             "pagenum": 725,
             "content": "SUdrI¦ <i>f.</i> The wife of a <i>Śūdra</i>."
         }
+    ],
+    "MD": [
+        {
+            "word": "शूद्री",
+            "eid": "18077",
+            "pagenum": 317,
+            "content": "शूद्री¦ śūdrī, <lex>f.</lex> woman of the fourth caste."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शूद्री",
+            "eid": "220255",
+            "pagenum": 1086,
+            "content": "शूद्री ¦ <lex>f.</lex> a woman of the fourth caste, a <s1 slp1='SUdra'>Śūdra</s1> woman, <ls>Yājñ.</ls>; <ls>KātyŚr.</ls>, <ab>Sch.</ab><info lex='f'/>"
+        },
+        {
+            "word": "शूद्री",
+            "eid": "220256",
+            "pagenum": 1086,
+            "content": "¦ the wife of a <s1 slp1='SUdra'>Śūdra</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
     ]
 }

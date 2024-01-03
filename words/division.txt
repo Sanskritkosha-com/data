@@ -7,5 +7,19 @@
             "pagenum": 214,
             "content": "<b>DIVISION:</b>¦ <div n='I'>I Partition: विभागः (rarely भागः <div n='xe'><i>or</i></div> <div n='xs'>प्रवि-</div>), <div n='xe'><i>d. of paternal property:</i></div> <div n='xs'>विभागोऽर्थस्य   पित्र्यस्य,</div> Da.; <div n='xe'><i>one who knows d. s of countries</i> <i>and times:</i></div> <div n='xs'>देशकालविभागवित्,</div> Ka. </div><div n='I'>II A section: विभागः, <div n='xe'><i>by the d. s of the army:</i></div> <div n='xs'>अनीकानां विभागेन,</div> Mah. </div><div n='I'>III In arith: </div><div n='1'>(1) भजनम्, Vij.: </div><div n='1'>(2) हरणम्, Li.; </div><div n='1'>(3) भागहारः, <div n='xe'><i>d. of fractions:</i></div> <div n='xs'>भिन्न- भागहारः,</div> Li. </div><div n='I'>IV Discord, Disunion: q. v. v. Distinction: q. v.</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "division",
+            "eid": "8638",
+            "pagenum": 202,
+            "content": "DIVISION¦, <i>s.</i> (Dividing, separating) छेदः, विच्छेदः -दनं, भेदः, विभेदः -दनं, खण्डनं, परिच्छेदः, परिच्छित्तिः <i>f.,</i> छित्तिः <i>f.,</i> पृथक्करणं, द्विधाकरणं, द्वैधीकरणं. — (Partition) भाजनं, विभागः, प्रविभागः, विभागकरणं, अंशनं, उद्धारविभागः, उद्धारः -रणं. — (Disunion) वियोगः, विसंयोगः, विप्रयोगः, विश्लेषः. — (State of being divided) भिन्नता, विभिन्नता, विच्छिन्नता, विभक्तता. — (Part, distinct portion) भागः, खण्डः, विभागः, देशः, प्रदेशः, एकदेशः. — (Division of time) कालविभक्तिः <i>f.</i> — (Of an army) गुल्मः, दल, सैन्यव्यूहः. — (In arithmetic) भागहरः -हारः, हरणं, छेदनं."
+        },
+        {
+            "word": "division",
+            "eid": "32156",
+            "pagenum": 856,
+            "content": "DIVISION¦, <i>s.</i> (In Arith.) भजनं, भाजनं, लब्धं. DIVISOR, वियोजकः."
+        }
     ]
 }

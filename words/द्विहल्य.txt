@@ -28,5 +28,29 @@
             "pagenum": 350,
             "content": "dvi-halya¦ <i>a.</i> ploughed lengthwise and breadthwise."
         }
+    ],
+    "MW": [
+        {
+            "word": "द्विहल्य",
+            "eid": "98776",
+            "pagenum": 506,
+            "content": "द्वि—हल्य ¦ <lex>mfn.</lex> twice ploughed, <ls>L.</ls> (<ab>cf.</ab> -सीत्य). <info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विहल्य",
+            "eid": "54183",
+            "pagenum": 3,
+            "content": "*द्विहल्य¦ <lex>Adj.</lex> <i>zweimal gepflügt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विहल्य",
+            "eid": "35885",
+            "pagenum": 3,
+            "content": "द्विहल्य¦ (द्वि + हलि) <lex>adj.</lex> <i>zweimal gepflügt</i> <ls>AK. 2, 9, 8.</ls> <ls>H. 968.</ls> <div n='v'>— Vgl. द्विसीत्य ."
+        }
     ]
 }

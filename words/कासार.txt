@@ -76,5 +76,65 @@
             "pagenum": 188,
             "content": "kAsAra¦ <i>m.n.</i> A pond, a pool, <ls>Bh.V.</ls>i.43."
         }
+    ],
+    "MD": [
+        {
+            "word": "कासार",
+            "eid": "5878",
+            "pagenum": 68,
+            "content": "कासार¦ kāsāra, <lex>m.</lex> pond, lake."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कासार",
+            "eid": "50118",
+            "pagenum": 281,
+            "content": "कासार ¦ <lex>m.</lex> [अम् <lex type='hwalt'>n.</lex>, <ls>L.</ls>] a pond, pool, <ls>Hariv.</ls>; <ls>Daś.</ls>; <ls>Bhartṛ.</ls>; <ls>Gīt.</ls><info lex='m:n'/>"
+        },
+        {
+            "word": "कासार",
+            "eid": "50119",
+            "pagenum": 281,
+            "content": "¦ <ab>N.</ab> of a teacher, <ls>BhP. xii, 6, 59.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कासार",
+            "eid": "14701",
+            "pagenum": 228,
+            "content": "कासार¦ <i>kāsāra, as, am,</i> m. n. (said to be fr. rt. <i>kās</i>), a pond, a pool."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "कासार",
+            "eid": "3022",
+            "pagenum": 1,
+            "content": "<i>Kāsāra</i>¦ — a pupil of Bāṣkali. <div n='P'/>Bhā. XII. 6. 59."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कासार",
+            "eid": "27683",
+            "pagenum": 2,
+            "content": "कासार¦ <div n='1'>— 1〉 <lex>m.</lex> (*<lex>n.</lex>) <i>Teich, See</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines Lehrers <ls>BHĀG. P. 12,6,59</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कासार",
+            "eid": "17112",
+            "pagenum": 2,
+            "content": "कासार/¦ <ls>Uṇ. 3, 138.</ls> m. n. <ls>TRIK. 3, 5, 12.</ls> <i>Teich, See</i> <ls>AK. 1, 2, 3, 27.</ls> <ls>H. 1094.</ls> <ls>BHARTṚ. 1, 39.</ls> <ls>CĀT. 4.</ls> <ls>GĪT. 2, 20.</ls> <ls>DAŚAK. 21, 8.</ls>"
+        },
+        {
+            "word": "कासार",
+            "eid": "70686",
+            "pagenum": 5,
+            "content": "कासार¦ <ls>HARIV. 4834.</ls> <ls>Spr. 660.</ls> <ls>LA. (II) 91, 22.</ls>"
+        }
     ]
 }

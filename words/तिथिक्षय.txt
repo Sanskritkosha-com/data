@@ -7,5 +7,41 @@
             "pagenum": 309,
             "content": "tiTi-kzaya¦ <i>m.</i> 1. the day of the new moon; 2. the day on which a <i>tithi</i> begins and ends between two sunrises."
         }
+    ],
+    "MW": [
+        {
+            "word": "तिथिक्षय",
+            "eid": "84913",
+            "pagenum": 446,
+            "content": "तिथि—क्षय ¦ <lex>m.</lex> = त्र्य्-अह-स्पर्श, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "तिथिक्षय",
+            "eid": "84914",
+            "pagenum": 446,
+            "content": "¦ the day of new moon, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "तिथिक्षय",
+            "eid": "84915",
+            "pagenum": 446,
+            "content": "¦ <ab>pl.</ab> = -प्रलय, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तिथिक्षय",
+            "eid": "45735",
+            "pagenum": 3,
+            "content": "तिथिक्षय¦ <lex>m.</lex> <div n='1'>— 1〉 <i>die Berührung dreier solarer Tage mit einem lunaren</i>. <div n='1'>— 2〉 <ab>Pl.</ab> = अवम 3〉. <div n='1'>— 3〉 *<i>der Neumondstag</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तिथिक्षय",
+            "eid": "29611",
+            "pagenum": 3,
+            "content": "तिथिक्षय¦ (ति° + क्षय) <lex>m.</lex> <i>der Neumondstag</i> <ls>ŚABDĀRTHAKALPATARU</ls> im <ls>ŚKDR.</ls> Nach <ls>ŚKDR.</ls> (Suppl.) auch = दिनक्षय, त्र्यहस्पर्श <i>die Berührung eines solaren Tages mit drei lunaren.</i> Nach <ls>HAUGHT</ls> : <i>the difference between the solar and lunar days in a yuga</i> (युग)."
+        }
     ]
 }

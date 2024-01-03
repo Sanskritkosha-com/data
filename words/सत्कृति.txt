@@ -31,5 +31,35 @@
             "pagenum": 749,
             "content": "sat-kfti¦ <i>f.</i> 1. virtue, morality; 2. treating with respect, hospitality."
         }
+    ],
+    "MW": [
+        {
+            "word": "सत्कृति",
+            "eid": "229559",
+            "pagenum": 1134,
+            "content": "सत्—कृति ¦ <lex>f.</lex> doing good, virtue, morality, <ls>W.</ls><info lex='f'/>"
+        },
+        {
+            "word": "सत्कृति",
+            "eid": "229560",
+            "pagenum": 1134,
+            "content": "¦ kind treatment, hospitable reception, hospitality, <ls>MBh.</ls>; <ls>BhP.</ls>; <ls>Kathās.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सत्कृति",
+            "eid": "118108",
+            "pagenum": 7,
+            "content": "सत्कृति¦ <lex>f.</lex> = सत्कार 1〉 <ls>ŚIŚ. 14,57</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सत्कृति",
+            "eid": "103984",
+            "pagenum": 7,
+            "content": "सत्कृति¦ (von सत्कर्) <lex>f.</lex> = सत्कार. सत्कृतिं गम् <ls>MBH. 2, 828.</ls> तत्सत्कृतिं समधिगम्य <ls>BHĀG. P. 10, 15, 43.</ls> प्र - यम् <ls>Spr. (II) 5549, v. l.</ls> कृत° <lex>adj.</lex> <ls>KATHĀS. 110, 111.</ls> <ls>RĀJA-TAR. 3, 262</ls> (vom Vorangehenden zu trennen)."
+        }
     ]
 }

@@ -41,5 +41,61 @@
             "pagenum": 509,
             "content": "*मुञ्च्¦ <i>muñc.</i> <i>muñcāmi</i> 1. Aller, se mouvoir; <ab>cf.</ab> <i>mluñc.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "मुञ्च्",
+            "eid": "165302",
+            "pagenum": 821,
+            "content": "मुञ्च् ¦ <ab>cl.</ab> 1. <ab>P.</ab> मुञ्चति, to go, move, <ls>Dhātup. vii, 16</ls> (<ls>Vop.</ls>); <div n='to'/> <ab>cl.</ab> 1. <ab>Ā.</ab> मुञ्चते, to cheat, be wicked, <ls>Dhātup. vi, 12</ls> (<ab>cf.</ab> √ मच् and √ <hom>1.</hom> मुच्). <info westergaard='muncu,7.16,01.0119;muci,6.12,01.0105'/><info verb='root' cp='1P,1Ā'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मुञ्च्",
+            "eid": "37563",
+            "pagenum": 783,
+            "content": "मुञ्च्¦ <i>muñc</i> (connected with rts. <i>mañc,</i> <i>mruñc, mluñc</i>), cl. 1. P. <i>muñcati,</i> &c., to go, move; cl. 1. A. <i>muñcate,</i> &c. = rt. <i>mac,</i> q. v., to cheat, to be wicked, &c."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मुञ्च्",
+            "eid": "87437",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> √मुञ्च्¦ <ab>s.</ab> <hom>1.</hom> मुच्"
+        },
+        {
+            "word": "मुञ्च्",
+            "eid": "87438",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> *√मुञ्च्¦ मुञ्चति गत्यर्थ."
+        },
+        {
+            "word": "मुञ्च्",
+            "eid": "87439",
+            "pagenum": 5,
+            "content": "<hom>3.</hom> *√मुञ्च्¦ मुञ्चते कल्कने"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मुञ्च्",
+            "eid": "60897",
+            "pagenum": 5,
+            "content": "1. मुञ्च्¦ s. 1. मुच् ."
+        },
+        {
+            "word": "मुञ्च्",
+            "eid": "60898",
+            "pagenum": 5,
+            "content": "2. मुञ्च्¦, मु/ञ्चति = मञ्च्, म्रुञ्च्, म्लुञ्च् <i>gehen, sich bewegen</i> <ls>VOP.</ls> in <ls>DHĀTUP. 7, 16.</ls>"
+        },
+        {
+            "word": "मुञ्च्",
+            "eid": "60899",
+            "pagenum": 5,
+            "content": "3. मुञ्च्¦, मु/ञ्चते = मच्, 3. मुच् (कल्कने) <ls>DHĀTUP. 6, 12.</ls>"
+        }
     ]
 }

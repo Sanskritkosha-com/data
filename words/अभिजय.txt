@@ -23,5 +23,43 @@
             "pagenum": 47,
             "content": "aBijaya¦ <i>m.</i> Complete victory."
         }
+    ],
+    "MW": [
+        {
+            "word": "अभिजय",
+            "eid": "11391",
+            "pagenum": 62,
+            "content": "अभि-जय ¦ <lex>m.</lex> conquest, complete victory.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभिजय",
+            "eid": "4259",
+            "pagenum": 62,
+            "content": "<i>Abhi-jaya, as</i>¦ m. conquest, complete victory."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभिजय",
+            "eid": "7320",
+            "pagenum": 1,
+            "content": "अभिजय¦ <lex>m.</lex> <i>Besiegung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभिजय",
+            "eid": "4523",
+            "pagenum": 1,
+            "content": "अभिजय¦ (von जि mit अभि) <lex>m.</lex> <i>Besiegung</i>: दिशाम् <ls>MBH. 2, 994.</ls>"
+        },
+        {
+            "word": "अभिजय",
+            "eid": "64412",
+            "pagenum": 5,
+            "content": "अभिजय¦, इन्द्रियभिजय <ls>MBH. 3, 15431.</ls>"
+        }
     ]
 }

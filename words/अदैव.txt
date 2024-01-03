@@ -31,5 +31,57 @@
             "pagenum": 12,
             "content": "अदैव¦ <lex>a.</lex> unconnected with the gods."
         }
+    ],
+    "MD": [
+        {
+            "word": "अदैव",
+            "eid": "944",
+            "pagenum": 9,
+            "content": "अदैव¦ a-daiva, <lex>a.</lex> independent of fate."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अदैव",
+            "eid": "3776",
+            "pagenum": 18,
+            "content": "अ-दैव ¦ <lex>mfn.</lex> not referring to or connected with the gods or with their action<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अदैव",
+            "eid": "3776.1",
+            "pagenum": 18,
+            "content": "¦ not predetermined by them or by fate.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अदैव",
+            "eid": "1052",
+            "pagenum": 19,
+            "content": "<i>A-daiva, as, ī, am,</i>¦ not referring to or connected with the gods or with their action; not predetermined by them or by fate."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अदैव",
+            "eid": "2538",
+            "pagenum": 1,
+            "content": "अदैव¦ <lex>Adj.</lex> <i>wobei die Götter nicht betheiligt sind</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अदैव",
+            "eid": "1756",
+            "pagenum": 1,
+            "content": "अदैव¦ (3. अ + दैव) <lex>adj.</lex> <i>wobei die Götter nicht betheiligt sind</i>: अदैवं भोजयेच्छ्राद्धम् <ls>M. 3, 247.</ls> अदैवं दैवतं कुर्युः <ls>ŚĀRṄG. PADDH.</ls> <is>Rājanīti</is>."
+        },
+        {
+            "word": "अदैव",
+            "eid": "63122",
+            "pagenum": 5,
+            "content": "अदैव¦, नह्यदैवं कृतं किंचिन्नराणामिह विद्यते <ls>N. 13, 18</ls> schlechte Lesart für अदैवकृतं <i>was nicht das Schicksal gemacht hat</i>, wie beide Ausgg. des <ls>MBH. 3, 2571</ls> lesen."
+        }
     ]
 }

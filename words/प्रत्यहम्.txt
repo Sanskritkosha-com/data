@@ -39,5 +39,35 @@
             "pagenum": 461,
             "content": "prati-aham¦ <i>ind.</i> every day, daily, <ls>K.S.</ls>i.60."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रत्यहम्",
+            "eid": "132056",
+            "pagenum": 664,
+            "content": "प्रत्य्—अहम् ¦ (अम्), <lex>ind.</lex> day by <ab n='day'>d°</ab>, every <ab n='day'>d°</ab>, <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Kāv.</ls> &c.<info lex='ind'/>"
+        },
+        {
+            "word": "प्रत्यहम्",
+            "eid": "132057",
+            "pagenum": 664,
+            "content": "¦ in the morning, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रत्यहम्",
+            "eid": "31746",
+            "pagenum": 626,
+            "content": "प्रत्यहम्¦ <i>praty-aham,</i> ind. day by day, every day, daily; in the morning."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रत्यहम्",
+            "eid": "48956",
+            "pagenum": 4,
+            "content": "प्रत्यहम्¦ (1. प्रति + अह = अहर्) adv. <i>täglich</i> <ls>KĀTY. ŚR. 1, 7, 8.</ls> <ls n='KĀTY. ŚR.'>22, 7, 14.</ls> <ls n='KĀTY. ŚR.'>26, 7, 51.</ls> <ls>M. 3, 69. 7, 118. 125. 8, 3, 9, 27.</ls> <ls>YĀJÑ. 1, 22.</ls> <ls n='YĀJÑ.'>3, 317.</ls> <ls>KUMĀRAS. 1, 61.</ls> <ls>ŚĀK. 47. 132.</ls> <ls>Spr. 1255. 1848.</ls> <ls>VARĀH. BṚH. S. 29, 30.</ls> <ls>SŪRYAS. 1, 26.</ls> <ls>RĀJA-TAR. 2, 51.</ls> <ls>KATHĀS. 4, 28.</ls> <ls n='KATHĀS.'>33, 137.</ls> <ls n='KATHĀS.'>36, 22.</ls> <ls>PAÑCAT. 9, 7.</ls> <ls>HIT. 20, 12. 25, 17. 27, 13. 30, 2.</ls> <ls>VET. 2, 8.</ls>"
+        }
     ]
 }

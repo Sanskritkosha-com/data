@@ -7,5 +7,41 @@
             "pagenum": 705,
             "content": "Sakra-druma¦ <i>m.</i> the <i>Devadāru</i> tree."
         }
+    ],
+    "MW": [
+        {
+            "word": "शक्रद्रुम",
+            "eid": "211081",
+            "pagenum": 1045,
+            "content": "शक्र—द्रुम ¦ <lex>m.</lex> <bot>Pinus Deodora</bot>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शक्रद्रुम",
+            "eid": "211082",
+            "pagenum": 1045,
+            "content": "¦ <bot>Mimusops Elengi</bot>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शक्रद्रुम",
+            "eid": "211083",
+            "pagenum": 1045,
+            "content": "¦ <bot>Terminalia Arjuna</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शक्रद्रुम",
+            "eid": "109424",
+            "pagenum": 6,
+            "content": "*शक्रद्रुम¦ <lex>m.</lex> <i><bot>Mimusops Elengi</bot></i> (बकुल) <ls>BHĀVAPR. 3,126</ls>. <i><bot>Terminalia Arunja</bot></i> (ककुभ) <ls>ebend.</ls> <ab>Hdschr.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शक्रद्रुम",
+            "eid": "97185",
+            "pagenum": 7,
+            "content": "शक्रद्रुम¦ <lex>m.</lex> <i>Pinus Deodora</i> (देवदारु) <i>Roxb.</i> <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

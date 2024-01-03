@@ -53,5 +53,93 @@
             "pagenum": 571,
             "content": "mAlaya¦ <i>(II) m.</i> Sandal-wood."
         }
+    ],
+    "MD": [
+        {
+            "word": "मालय",
+            "eid": "14118",
+            "pagenum": 227,
+            "content": "मालय¦ <hom>1.</hom> māla-ya, <ab>den.</ab> wreathe."
+        },
+        {
+            "word": "मालय",
+            "eid": "14119",
+            "pagenum": 227,
+            "content": "मालय¦ <hom>2.</hom> mālaya, <lex>a.</lex> coming from the Malaya 🞄range; <lex>n.</lex> caravanserai."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मालय",
+            "eid": "163635",
+            "pagenum": 813,
+            "content": "<hom>1.</hom> मालय ¦ <ab>Nom.</ab> (<ab>fr.</ab> माला) <ab>P.</ab> °यति (for <hom>2.</hom> See <pcol>p. 814, col. 1</pcol>), to crown or wreathe, <ls>Up.</ls> (<ab>cf.</ab> <ls>Pāṇ. vii, 4, 2</ls>, <ab>Sch.</ab>)<info verb='nom' cp='P'/>"
+        },
+        {
+            "word": "मालय",
+            "eid": "163771",
+            "pagenum": 814,
+            "content": "<hom>2.</hom> मालय ¦ <lex>mfn.</lex> (for <hom>1.</hom> See <pcol>p. 813, col. 3</pcol>) coming from the Malaya mountains, <ls>Nalod.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "मालय",
+            "eid": "163772",
+            "pagenum": 814,
+            "content": "मालय ¦ <lex>m.</lex> sandal-wood, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मालय",
+            "eid": "163773",
+            "pagenum": 814,
+            "content": "¦ <ab>N.</ab> of a son of <s1 slp1='garuqa'>Garuḍa</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मालय",
+            "eid": "163774",
+            "pagenum": 814,
+            "content": "मालय ¦ <lex>n.</lex> a caravansery, <ls>Sāh.</ls><info lex='n'/>"
+        },
+        {
+            "word": "मालय",
+            "eid": "163775",
+            "pagenum": 814,
+            "content": "¦ the unguent prepared from sandal, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "मालय",
+            "eid": "163776",
+            "pagenum": 814,
+            "content": "¦ = -मलय-द्वीप, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मालय",
+            "eid": "37240",
+            "pagenum": 774,
+            "content": "1. <i>mālaya</i>¦ (for 2. see p. 775, col. 1), Nom. P. <i>mā-</i> <i>layati</i> (Aor. <i>amamālat = mālām ākhyat</i>), Schol. on Pāṇ. VII. 4, 2."
+        },
+        {
+            "word": "मालय",
+            "eid": "37256",
+            "pagenum": 775,
+            "content": "मालय 2¦. <i>mālaya, as, ī, am</i> (fr. <i>malaya;</i> for 1. <i>mālaya</i> see p. 774, col. 3), coming from the Malaya mountains; (<i>as</i>), m. sandal-wood; N. of a son of Garuḍa; (<i>am</i>), n. the unguent prepared from sandal; a caravansary."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मालय",
+            "eid": "86525",
+            "pagenum": 5,
+            "content": "मालय¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>vom Gebirge</i> <is>Malaya</is> <i>kommend</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 *<i>Sandelholz</i>. <div n='2'>— b〉 <ab>N. pr.</ab> eines Sohnes des <is>Garuḍa</is> <ls>MBH. 5,101,14</ls>. <div n='1'>— 3〉 <lex>n.</lex> <div n='2'>— a〉 <i>Karawanserai</i>. <div n='2'>— b〉 *<i><bot>Cerasus Puddum</bot></i> <ls>RĀJAN. 12,147</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मालय",
+            "eid": "60165",
+            "pagenum": 5,
+            "content": "मालय¦ <div n='1'> 1) <lex>adj.</lex> <i>vom Gebirge</i> <is>Malaya</is> <i>kommend</i>: अनिल <ls>NALOD. 2, 37.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Sandelholz</i> <ls>TRIK. 2, 6, 39.</ls> <ls>HĀR. 103.</ls> <div n='2'>— b) N. pr. eines Sohnes des <is>Garuḍa</is> <ls>MBH. 5, 3599</ls> (<ls>ed. Bomb.</ls>, मलय <ls>ed. Calc.</ls>). <div n='1'>— 3) <lex>n.</lex> <i>Karavanserai</i> <ls>SĀH. D. 47, 16</ls> (auch die ältere Ausg. liest so, nicht etwa आलय) ."
+        }
     ]
 }

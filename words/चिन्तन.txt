@@ -47,5 +47,55 @@
             "pagenum": 156,
             "content": "<b>cintana,</b>¦ <i><ab>n.</ab></i> a thinking upon. [<b>√cint.</b>]"
         }
+    ],
+    "MW": [
+        {
+            "word": "चिन्तन",
+            "eid": "74110",
+            "pagenum": 398,
+            "content": "चिन्तन ¦ <lex>n.</lex> thinking, thinking of, reflecting upon<info lex='n'/>"
+        },
+        {
+            "word": "चिन्तन",
+            "eid": "74111",
+            "pagenum": 398,
+            "content": "¦ anxious thought, <ls>Mn. xii, 5</ls>; <ls>MBh.</ls>; <ls>Kathās.</ls>; <ls>Rājat. v, 205</ls>; <ls>Sāh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "चिन्तन",
+            "eid": "74112",
+            "pagenum": 398,
+            "content": "¦ consideration, <ls>Sarvad. x</ls>; <ls n='Sarvad.'>xii, 6 ff.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चिन्तन",
+            "eid": "18620",
+            "pagenum": 325,
+            "content": "<i>Cintana, am,</i>¦ n. thinking, thinking of, reflecting upon, anxious thought; (<i>pūrva-cintana,</i> the former manner of thinking.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चिन्तन",
+            "eid": "40183",
+            "pagenum": 2,
+            "content": "चिन्तन¦ <lex>n.</lex> <div n='1'>— 1〉 <i>das Gedenken, Denken an, Betrachtung, das Nachdenken über, Sorge um;</i> die Ergänzung im <ab>Gen.</ab> oder in <ab>Comp.</ab> vorangehend. <div n='1'>— 2〉 <i>trübe Gedanken, Sorgen</i> <ls>Spr. 2093</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चिन्तन",
+            "eid": "25557",
+            "pagenum": 2,
+            "content": "चिन्तन¦ (wie eben) <lex>n.</lex> <i>das Denken</i>: पूर्व° <i>die frühere Art und Weise zu denken</i> <ls>RĀJA-TAR. 5, 200.</ls> <i>das Denken an Jmd</i> oder <i>Etwas, das Nachdenken über, Sorge um</i>: ततः स राजा सस्मार मामेव - तदाहं चिन्तनं ज्ञात्वा गतवांस्तस्य दर्शनम् <ls>MBH. 12, 1126.</ls> मनसानिष्टचिन्तनम् <ls>M. 12, 5.</ls> धर्म° <ls>H. 1381.</ls> एकचिन्तनमर्थानामनर्थज्ञैश्च चिन्तनम् <ls>MBH. 2, 242.</ls> <ls>SĀH. D. 35, 17. 20.</ls> अरि° <ls>H. 715.</ls> भूभारचिन्तनैः <ls>KATHĀS. 9, 12.</ls>"
+        },
+        {
+            "word": "चिन्तन",
+            "eid": "73837",
+            "pagenum": 5,
+            "content": "चिन्तन¦, पूर्व° <ls>RĀJA-TAR. 5, 200</ls> bedeutet <i>die früheren Sorgen</i>; vgl. <ls>Spr. 4010.</ls> <i>Betrachtung</i> <ls>SARVADARŚANAS. 104, 14. fg. 20. 122, 8. 17.</ls>"
+        }
     ]
 }

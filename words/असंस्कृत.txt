@@ -45,5 +45,47 @@
             "pagenum": 85,
             "content": "asaMskfta¦ <i>(II) m.</i> An ungrammatical form."
         }
+    ],
+    "MW": [
+        {
+            "word": "असंस्कृत",
+            "eid": "20422",
+            "pagenum": 117,
+            "content": "अ-संस्कृत ¦ <lex>mfn.</lex> not prepared, <ls>ŚāṅkhGṛ.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "असंस्कृत",
+            "eid": "20423",
+            "pagenum": 117,
+            "content": "¦ not consecrated, <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "असंस्कृत",
+            "eid": "20424",
+            "pagenum": 117,
+            "content": "¦ unadorned, <ls>Pañcat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "असंस्कृत",
+            "eid": "20425",
+            "pagenum": 117,
+            "content": "¦ unpolished, rude (as speech). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असंस्कृत",
+            "eid": "7368",
+            "pagenum": 103,
+            "content": "असंस्कृत¦ <i>a-saṃskṛta, as, ā, am,</i> not perfect, unpolished, rude, common; uninitiated, not having gone through the proper rites of caste, state, sex, or age."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असंस्कृत",
+            "eid": "12234",
+            "pagenum": 1,
+            "content": "असंस्कृत¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>nicht zugerüstet</i>. <div n='1'>— 2〉 <i>nicht geweiht</i> (Vieh, Jüngling mit der heiligen Schnur, Mädchen bei der Hochzeit). <div n='1'>— 3〉 <i>ungeschmückt, unverziert; ungebildet, roh</i> (Sprache) <ls>Spr. 4434</ls>."
+        }
     ]
 }

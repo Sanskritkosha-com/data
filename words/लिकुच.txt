@@ -23,5 +23,43 @@
             "pagenum": 625,
             "content": "likuca¦ <i>m.</i> The same as लकुच q.v."
         }
+    ],
+    "MW": [
+        {
+            "word": "लिकुच",
+            "eid": "182331",
+            "pagenum": 901,
+            "content": "लिकुच ¦ <lex>m.</lex> = लकुच, <bot>Artocarpus Lacucha</bot>, <ls>Daś.</ls>; <ls>Car.</ls><info lex='m'/>"
+        },
+        {
+            "word": "लिकुच",
+            "eid": "182332",
+            "pagenum": 901,
+            "content": "लिकुच ¦ <lex>n.</lex> vinegar, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लिकुच",
+            "eid": "40424",
+            "pagenum": 866,
+            "content": "लिकुच¦ <i>likuca, as,</i> m. <i>= lakuca.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "लिकुच",
+            "eid": "96175",
+            "pagenum": 5,
+            "content": "लिकुच¦ <div n='1'>— 1〉 <lex>m.</lex> = लकुच <i><bot>Artocarpus Locucha</bot></i> <ls>RĀJAN. 9,159</ls>. <ls>CARAKA. 1,26</ls>. <div n='1'>— 2〉 *<lex>n.</lex> <i>Fruchtessig</i> <ls>RĀJAN. 7,123</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लिकुच",
+            "eid": "86350",
+            "pagenum": 6,
+            "content": "लिकुच¦ <div n='1'> 1) <lex>m.</lex> = लकुच <ls>AK. 2, 4, 2, 41.</ls> <ls>DAŚAK. 180, 5.</ls> <div n='1'>— 2) <lex>n.</lex> = चुक्र <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

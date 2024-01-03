@@ -43,5 +43,53 @@
             "pagenum": 792,
             "content": "sUrya-raSmi¦ <i>m.</i> a ray of the sun, sunbeam."
         }
+    ],
+    "MW": [
+        {
+            "word": "सूर्यरश्मि",
+            "eid": "251631",
+            "pagenum": 1243,
+            "content": "सूर्य—रश्मि ¦ <lex>m.</lex> a sunbeam, <ls>Mn. v, 133</ls><info lex='m'/>"
+        },
+        {
+            "word": "सूर्यरश्मि",
+            "eid": "251632",
+            "pagenum": 1243,
+            "content": "सू/र्य—रश्मि ¦ (सू/र्य-), <lex>mfn.</lex> having the rays of the sun, <ls>RV.</ls>; <ls>VS.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सूर्यरश्मि",
+            "eid": "251633",
+            "pagenum": 1243,
+            "content": "सू/र्य—रश्मि ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='savitf'>Savitṛ</s1>, <ls>MW.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सूर्यरश्मि",
+            "eid": "128991",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सूर्यरश्मि¦ <lex>m.</lex> <i>Sonnenstrahl</i>."
+        },
+        {
+            "word": "सूर्यरश्मि",
+            "eid": "128992",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सू/र्यरश्मि, सू/रिअरश्मि¦ <lex>Adj.</lex> <i>sonnenstrahlig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सूर्यरश्मि",
+            "eid": "112393",
+            "pagenum": 7,
+            "content": "1. सूर्यरश्मि¦ <lex>m.</lex> <i>Sonnenstrahl</i> <ls>M. 5, 133.</ls>"
+        },
+        {
+            "word": "सूर्यरश्मि",
+            "eid": "112394",
+            "pagenum": 7,
+            "content": "2. सू/र्यरश्मि¦ <lex>adj.</lex> <i>sonnenstrahlig</i> <ls>ṚV. 10, 139, 1.</ls> <ls>VS. 15, 15.</ls> <ls n='VS.'>17, 58.</ls> <ls n='VS.'>18, 40.</ls>"
+        }
     ]
 }

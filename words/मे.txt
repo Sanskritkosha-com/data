@@ -59,5 +59,55 @@
             "pagenum": 584,
             "content": "me¦ <i>vt. 1A (pp. मित; pres. मयते; desid. मित्सते)</i> To exchange, to barter.<P>With नि- or विनि-, to exchange, to barter."
         }
+    ],
+    "MD": [
+        {
+            "word": "मे",
+            "eid": "14448",
+            "pagenum": 235,
+            "content": "मे¦ <hom>1.</hom> me, <ab>encl.</ab> <ab>d.</ab> <ab>g.</ab> <i>of</i> ahám, I."
+        },
+        {
+            "word": "मे",
+            "eid": "14449",
+            "pagenum": 235,
+            "content": "मे¦ <hom>2.</hom> me, <ab>onom.</ab>: <b>me me kṛ,</b> bleat (<i>of a goat</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "मे",
+            "eid": "167462",
+            "pagenum": 831,
+            "content": "<hom>1.</hom> मे ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. xxii, 65</ls>) मयते (<ab>ep.</ab> also <ab>P.</ab> मयति; <ab>pf.</ab> मन्मे <ab>Gr.</ab>; <ab>aor.</ab> अमास्त, <ls>ib.</ls>; <ab>fut.</ab> माता, मास्यते, <ls>ib.</ls>; <ab>ind.p.</ab> -मित्य or -माय, <ls>ib.</ls>). to exchange, barter (<ab>cf.</ab> अप-. and नि-√ मे) : <div n='vp'/><ab>Caus.</ab> मापयति, <ls>ib.</ls> : <div n='vp'/><ab>Desid.</ab> मित्सते, <ls>ib.</ls> : <div n='vp'/><ab>Intens.</ab> मेमीयत्च्, मामेति, मामाति, <ls>ib.</ls><info westergaard='meN,22.65,01.0676'/><info verb='root' cp='1Ā,1P'/>"
+        },
+        {
+            "word": "मे",
+            "eid": "167463",
+            "pagenum": 831,
+            "content": "<hom>2.</hom> मे ¦ (<ab>onomat.</ab>) imitative of the sound of a bleating goat (मे-मे-√ कृ, to bleat), <ls>Kāv.</ls>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मे",
+            "eid": "37906",
+            "pagenum": 793,
+            "content": "मे¦ <i>me,</i> cl. 1. A. <i>mayate, mame, māsyate,</i> <i>amāsta, mātum,</i> to change, exchange, barter: Caus. <i>māpayati, -yitum,</i> to cross over, (perhaps fr. rt. 3. <i>mā</i>): Desid. <i>mitsate:</i> Intens. <i>memīyate,</i> <i>māmeti, māmāti;</i> [cf. Gr. <lang n='greek'>ἀ-μείβ-ω, ἀμείβ-ο-μαι,</lang> <lang n='greek'>ἀ-μεύ-σα-οθαι, παρ-αμείβ-εινμ ἀμοιβή, μοῖ-το-ς:</lang> Lat. <nsi>me-a-re, mov-e-o, mô-tu-s, mô-tio, mô-men-</nsi> <nsi>tu-m, mu-ta-re, mû-tuu-s, communis, munus:</nsi> Goth. <nsi>maithms, maidjan, ga-mains:</nsi> Angl. Sax. <nsi>madhm, mane, man, ge-mœne:</nsi> Slav. <nsi>me-na,</nsi> ‘change:’ Lith. <nsi>mai-na-s,</nsi> ‘exchange;’ <nsi>mainý-ti,</nsi> ‘to change, exchange.’]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मे",
+            "eid": "88557",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> मे¦ enklitischer <ab>Gen.</ab> und <ab>Dat.</ab> zu अह/म् <i>ich</i>. Nach <ls>VĀMANA 5,2,11</ls> auch = मया, nach <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 35,715</ls> = मा <i>mich</i> <ls>ṚV. 5,12,3</ls>."
+        },
+        {
+            "word": "मे",
+            "eid": "88558",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> मे¦ <ab>onomatop.</ab> vom <i>Meckern</i> des Ziegenbocks. मेमे कर् <i>meckern</i> <ls>Spr. 7698</ls>. <ab>Vgl.</ab> *मेनाद."
+        }
     ]
 }

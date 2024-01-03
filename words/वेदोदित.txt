@@ -23,5 +23,29 @@
             "pagenum": 424,
             "content": "वेदोदित¦ <i>dass.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "वेदोदित",
+            "eid": "205907",
+            "pagenum": 1016,
+            "content": "vedo<srs/>dita ¦ <lex>mfn.</lex> mentioned or enjoined in the <ab n='Veda' slp1='veda'>V°</ab>, <ls>Mn. iv, 14</ls> &c.<info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वेदोदित",
+            "eid": "107268",
+            "pagenum": 6,
+            "content": "वेदोदित¦ <lex>Adj.</lex> <i>im</i> <is>Veda</is> <i>erwähnt, — geboten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वेदोदित",
+            "eid": "95422",
+            "pagenum": 6,
+            "content": "वेदोदित¦ (1. वेद + उ° von वद्) <lex>adj.</lex> <i>im</i> <is>Veda</is> <i>erwähnt, - geboten</i>: कर्मन् <ls>M. 4, 14.</ls> <ls n='M.'>11, 203.</ls>"
+        }
     ]
 }

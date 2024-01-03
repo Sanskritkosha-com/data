@@ -23,5 +23,47 @@
             "pagenum": 168,
             "content": "kara-da¦ <i>a.</i> 1. paying taxes; 2. tributary."
         }
+    ],
+    "MW": [
+        {
+            "word": "करद",
+            "eid": "44088",
+            "pagenum": 253,
+            "content": "<hom>1.</hom> कर—द ¦ (<hom>1.</hom> कर-द; for <hom>2.</hom> See <pcol>p. 254, col. 3</pcol>) <lex>mfn.</lex> one who gives his hand, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "करद",
+            "eid": "44371",
+            "pagenum": 254,
+            "content": "<hom>2.</hom> कर—द ¦ <lex>mfn.</lex> paying taxes, subject to tax, tributary, <ls>MBh.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "करद",
+            "eid": "24612",
+            "pagenum": 2,
+            "content": "करद¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>Abgaben entrichtend, Tribut zahlend</i>. <div n='1'>— 2〉 <ab>übertr.</ab> so <ab>v. a.</ab> <i>majori cedens, nachstehend</i> mit <ab>Gen.</ab> <ls>Spr. 7809</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "करद",
+            "eid": "15127",
+            "pagenum": 2,
+            "content": "करद¦ (कर + द) <lex>adj.</lex> <i>Abgaben entrichtend, Tribut zahlend</i>: वैश्येन वा करदेन <ls>MBH. 1, 7170.</ls> य इमे पृथिवीपालाः करदास्तव <ls n='MBH.'>3, 15288.</ls> (तम्) करदं चैव कृत्वा <ls n='MBH.'>2, 1107.</ls> करदीकर् <i>tributbar machen</i>: ते - पाण्डुना करदीकृताः <ls n='MBH.'>1, 4462.</ls> <div n='v'>— Vgl. करप्रद ."
+        },
+        {
+            "word": "करद",
+            "eid": "69759",
+            "pagenum": 5,
+            "content": "करद¦, करदीकृत <ls>KATHĀS. 120, 77.</ls>"
+        },
+        {
+            "word": "करद",
+            "eid": "119334",
+            "pagenum": 7,
+            "content": "करद¦ <ls>Spr. (II) 2949.</ls>"
+        }
     ]
 }

@@ -39,5 +39,35 @@
             "pagenum": 363,
             "content": "De¦ <i>vt. 1P (pp. धीत; pres. धयति; desid. धित्सति)</i> 1. To suck, to drink, to absorb; 2. to seek out, to draw away."
         }
+    ],
+    "MD": [
+        {
+            "word": "धे",
+            "eid": "10133",
+            "pagenum": 134,
+            "content": "धे¦ DHE, <cl>Ⅰ.</cl> <lex>P.</lex> <b>dhaya,</b> suck; drink; suck 🞄in, absorb: <ab>pp.</ab> <b>dhītá</b>; <ab>cs.</ab> <b>dhāpáya,</b> <lex>Ā.</lex> 🞄suckle, nourish."
+        }
+    ],
+    "MW": [
+        {
+            "word": "धे",
+            "eid": "102003",
+            "pagenum": 520,
+            "content": "धे ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhāt. xxii, 6</ls>) ध/यति, <ls>RV.</ls> &c. &c. (<ab>pf.</ab> दधौ, 3. <ab>pl.</ab> °धु/र्, <ls>RV.</ls>; <ab>aor.</ab> -अधात्, <ls>AV. x, 4, 26</ls>; अधासीत् or अदधत्, <ls>Pāṇ. ii, 4, 78</ls>; <ls n='Pāṇ.'>iii, 1, 49</ls>; <ab>Prec.</ab> धेयात्, <ls n='Pāṇ.'>vi, 4, 67</ls>; <ab>fut.</ab> धास्यति, <ls>MBh.</ls>, धाता <ab>Gr.</ab>; <ab>dat.</ab> <ab>inf.</ab> धा/तवे, <ls>RV.</ls>; <ab>ind.p.</ab> धीत्वा/ and -धी/य, <ls>ŚBr.</ls>; -धाय <ab>Gr.</ab>) <div n='to'/>to suck, drink, suck or drink in, take to one's self, absorb, appropriate, <ls>RV.</ls> &c. &c.: <div n='vp'/><ab>Pass.</ab> धीयते <ab>Gr.</ab>: <div n='vp'/><ab>Caus.</ab> धाप/यते (<ab>cf.</ab> <ls>Pāṇ. i, 3, 89</ls>, <ab>Vārtt.</ab> 1, <ls>Pat.</ls>) to give suck, nourish, <ls>RV.</ls>; <div n='vp'/> °ति, <ls>ŚBr.</ls> (<ab>cf.</ab> अनु-√ धे); <div n='vp'/> <ab>aor.</ab> अदीधपत् <ab>Gr.</ab>: <div n='vp'/><ab>Desid.</ab> धित्सति, <ls>Pāṇ. vii, 4, 54</ls> : <div n='vp'/><ab>Intens.</ab> देधीयते, दाधेति, and दाधाति <ab>Gr.</ab> <info whitneyroots='DA2,82'/><info verb='genuineroot' cp='1P'/>"
+        },
+        {
+            "word": "धे",
+            "eid": "102003.1",
+            "pagenum": 520,
+            "content": "धे ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>θή-σασθαι</lang>, <lang n='greek'>γαλα-θηνός</lang>, <lang n='greek'>θη-λή</lang>; <ab>Lat.</ab> <etym>fē-lare</etym>; <ab>Goth.</ab> <etym>dadd-jan</etym>; <ab>Germ.</ab> <etym>tā-an</etym>, <etym>tā-jan</etym>.]"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "धे",
+            "eid": "23554",
+            "pagenum": 460,
+            "content": "धे¦ <i>dhe,</i> cl. 1. P. <i>dhayati, dadhau, dhās-</i> <i>yati, adhāt, adhāsīt, adadhat,</i> Prec. <i>dhe-</i> <i>yāt, dhātum,</i> to suck, drink, to suck in, drink in, absorb; appropriate; to suck out, draw away, take away: Caus. <i>dhāpayati, -yitum,</i> to give suck, suckle, nourish: Desid. <i>dhitsati,</i> to wish to suck; [cf. <i>dadhi, dhātrī,</i> 2. <i>dhāyas, dhāru,</i> 2. <i>dhāsi:</i> Zend <nsi>daēnu,</nsi> ‘female:’ Gr. <lang n='greek'>θῆ-σθαι, θη-λή, θη-λώ,</lang> <lang n='greek'>θηλα-μών, τήθη, τι-θή-νη, τί-τθο-ς, θῆ-λυ-ς,</lang> <lang n='greek'>γαλα-θη-νό-ς, Τη-θύ-ς, ϴέ-τι-ς:</lang> Lat. <nsi>fī-liu-s, fī-</nsi> <nsi>li-a, fē-lā-re, fē-mina:</nsi> Umbr. <nsi>fe-liu = filius:</nsi> Goth. <nsi>dadd-ya</nsi> = Old Germ. <nsi>tā-u,</nsi> ‘I suck;’ <nsi>tila,</nsi> ‘female breast;’ <nsi>tuta, tutta</nsi> = Eng. <nsi>teat:</nsi> Slav. <nsi>do-</nsi> <nsi>ya,</nsi> ‘to suck;’ <nsi>doilica,</nsi> ‘nurse;’ <nsi>de†-te,</nsi> ‘child;’ <nsi>de†-va,</nsi> ‘virgin:’ Hib. <nsi>daif,</nsi> ‘drink.’]"
+        }
     ]
 }

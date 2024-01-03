@@ -7,5 +7,35 @@
             "pagenum": 618,
             "content": "वेदीश¦ <i>vedīśa</i> <ab>m.</ab> <i>(iśa)</i> le maître de la <i>vedi,</i> <s1 slp1='agni'>Agni</s1>; || l'époux de <s1 slp1='sarasvatI'>Sarasvatī</s1>, <s1 slp1='brahmA'>Brahmā</s1>."
         }
+    ],
+    "MW": [
+        {
+            "word": "वेदीश",
+            "eid": "206061",
+            "pagenum": 1017,
+            "content": "vedI<srs/>Sa <hom>a</hom> ¦ <lex>m.</lex> ‘lord of the wise’, <ab>N.</ab> of <s1 slp1='brahmA'>Brahmā</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वेदीश",
+            "eid": "206130",
+            "pagenum": 1017,
+            "content": "vedI<srs/>Sa <hom>b</hom> ¦ See under <hom>2.</hom> वेदि, <ab>col.</ab> 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वेदीश",
+            "eid": "107260",
+            "pagenum": 6,
+            "content": "*वेदीश¦ <lex>m.</lex> <ab>Bein.</ab> <is>Brahman</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वेदीश",
+            "eid": "95414",
+            "pagenum": 6,
+            "content": "वेदीश¦ (1. वेदिन् + ईश) <lex>m.</lex> Bein. <is>Brahman's</is> <ls>TRIK. 1, 1, 26.</ls>"
+        }
     ]
 }

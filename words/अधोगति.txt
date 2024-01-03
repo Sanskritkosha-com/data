@@ -23,5 +23,47 @@
             "pagenum": 14,
             "content": "aDas-gati¦ <i>f.</i> 1. descent; 2. degradation."
         }
+    ],
+    "MW": [
+        {
+            "word": "अधोगति",
+            "eid": "4058",
+            "pagenum": 20,
+            "content": "अधो-गति, <lex>f.</lex> or अधो—गम, <lex>m.</lex> or अधो—गमन, <lex>n.</lex> ¦ descent, downward movement, degradation.<info or='4058,aDogati;4059,aDogama;4060,aDogamana'/><info lex='f'/>"
+        },
+        {
+            "word": "अधोगति",
+            "eid": "4061",
+            "pagenum": 20,
+            "content": "अधो-गति and अधो—गामिन्, ¦ <lex>mfn.</lex> going downwards, descending.<info and='4061,aDogati;4062,aDogAmin'/><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अधोगति",
+            "eid": "2997",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अधोगति¦ <lex>f.</lex> <i>Gang nach unten</i> (auch <i>zur Hölle</i>), <i>das Sinken</i>."
+        },
+        {
+            "word": "अधोगति",
+            "eid": "2998",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अधोगति¦ <lex>Adj.</lex> <i>nach unten gehend; zur Hölle fahrend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अधोगति",
+            "eid": "2069",
+            "pagenum": 1,
+            "content": "1. अधोगति¦ (अधस् + गति) <lex>f.</lex> <i>der Gang nach unten, das Sinken</i>: स्तोकेनोन्नतिमायाति स्तोकेनायात्यधोगतिम् । अहो सुसदृशी चेष्टा तुलायष्टेः खलस्य च ॥ <ls>PAÑCAT. I, 166.</ls> अयशः प्राप्यते येन येन चाधोगतिर्भवेत् । स्वर्गाच्च भ्रश्यते येन तत्कर्म न समाचरेत् ॥ <ls n='PAÑCAT.'>II, 116.</ls> <i>der Gang zur Hölle</i>: अधोगतिं या <ls>M. 3, 17. 52.</ls>"
+        },
+        {
+            "word": "अधोगति",
+            "eid": "2070",
+            "pagenum": 1,
+            "content": "2. अधोगति¦ (wie eben) <lex>adj.</lex> <i>seinen Gang nach unten nehmend</i> (von Pfeilen) <ls>R. 6, 20, 26.</ls> <i>zur Hölle fahrend</i>: अरक्षितारमत्तारं नृपं विद्यादधोगतिम् <ls>M. 8, 309.</ls>"
+        }
     ]
 }

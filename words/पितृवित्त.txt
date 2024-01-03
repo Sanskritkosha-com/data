@@ -23,5 +23,43 @@
             "pagenum": 815,
             "content": "<b>pitṛ-vittá,</b>¦ <ab>a.</ab>, <i>von den Vätern erworben</i> [vittá von vid]. <div n='TS'>-ás rayís {73,1}. <div n='TS'>-ásya rāyás {73,9}."
         }
+    ],
+    "MW": [
+        {
+            "word": "पितृवित्त",
+            "eid": "124119",
+            "pagenum": 626,
+            "content": "पितृ—वित्त/ ¦ <lex>mfn.</lex> acquired by ancestors, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पितृवित्त",
+            "eid": "124120",
+            "pagenum": 626,
+            "content": "पितृ—वित्त/ ¦ <lex>n.</lex> patrimony, <ls>Var.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पितृवित्त",
+            "eid": "67011",
+            "pagenum": 4,
+            "content": "पितृवित्त/¦ <lex>Adj.</lex> <i>von den Vätern erworben</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पितृवित्त",
+            "eid": "45288",
+            "pagenum": 4,
+            "content": "पितृवित्त/¦ (पितर् + वित्त) <lex>adj.</lex> <i>von den Vätern erworben</i>: रयि <ls>ṚV. 1, 73, 1.</ls> <ls n='ṚV. 1, 73,'>9.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "पितृवित्त",
+            "eid": "7769",
+            "pagenum": 5,
+            "content": "पितृवित्त¦ 2〉 <lex>n.</lex> <i>väterliches Vermögen</i> <ls>VARĀH. BṚH. S. 68,39</ls>."
+        }
     ]
 }

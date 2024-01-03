@@ -23,5 +23,41 @@
             "pagenum": 778,
             "content": "siMha-Dvani¦ <i>m.</i> a war-cry."
         }
+    ],
+    "MW": [
+        {
+            "word": "सिंहध्वनि",
+            "eid": "243797",
+            "pagenum": 1213,
+            "content": "सिंह—ध्वनि ¦ <lex>m.</lex> the roar of a <ab n='lion'>l°</ab>, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सिंहध्वनि",
+            "eid": "243798",
+            "pagenum": 1213,
+            "content": "¦ a sound like the roar of a <ab n='lion'>l°</ab>, <ls>MW.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सिंहध्वनि",
+            "eid": "243799",
+            "pagenum": 1213,
+            "content": "¦ a cry challenging to battle, war-cry, <ls>Kum.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सिंहध्वनि",
+            "eid": "124863",
+            "pagenum": 7,
+            "content": "सिंहध्वनि¦ <lex>m.</lex> <i>Löwengebrüll,</i> so <ab>v. a.</ab> <i>ein herausforderndes Geschrei</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सिंहध्वनि",
+            "eid": "109034",
+            "pagenum": 7,
+            "content": "सिंहध्वनि¦ <lex>m.</lex> <i>Löwengebrüll</i> so v. a. <i>ein herausforderndes Geschrei</i> <ls>KUMĀRAS. 1, 57.</ls>"
+        }
     ]
 }

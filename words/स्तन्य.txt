@@ -60,5 +60,51 @@
             "pagenum": 802,
             "content": "stanya¦ <i>n.</i> Mother’s milk, milk."
         }
+    ],
+    "MD": [
+        {
+            "word": "स्तन्य",
+            "eid": "19858",
+            "pagenum": 362,
+            "content": "स्तन्य¦ stan-ya, <lex>a.</lex> contained in the motherʼs 🞄breast; <lex>n.</lex> milk (contained in the female 🞄breast <i>or</i> the udder): <b>-tyāga,</b> <lex>m.</lex> leaving off 🞄the motherʼs milk, being weaned: <b>-mātraka,</b> <lex>a.</lex> <ab>w.</ab> vayas, <lex>n.</lex> period of life immediately 🞄after weaning."
+        }
+    ],
+    "MW": [
+        {
+            "word": "स्तन्य",
+            "eid": "254405",
+            "pagenum": 1257,
+            "content": "स्तन्य ¦ <lex>mfn.</lex> contained in the female breast, <ls>RV.</ls>, <ab>Sch.</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "स्तन्य",
+            "eid": "254406",
+            "pagenum": 1257,
+            "content": "स्तन्य ¦ <lex>n.</lex> (once <lex>m.</lex>) milk, <ls>MBh.</ls>; <ls>Suśr.</ls>; <ls>Kāv.</ls> &c.<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "स्तन्य",
+            "eid": "52997",
+            "pagenum": 1142,
+            "content": "<i>Stanya, am,</i>¦ n. (fr. <i>stana</i>), ‘that which is to be drawn from the breast,’ mother's milk, milk. <i>—Sta-</i> <i>nya-tyāga, as,</i> m. leaving off the mother's milk, weaning. <i>—Stanya-tyāga-mātraka, as, ā, am,</i> only just weaned. <i>—Stanya-pāyin, ī, inī, i,</i> or <i>stanya-bhuj, k, k, k,</i> sucking or feeding on milk, sucking at the breast."
+        }
+    ],
+    "PW": [
+        {
+            "word": "स्तन्य",
+            "eid": "130404",
+            "pagenum": 7,
+            "content": "स्तन्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>in der Mutterbrust befindlich</i> <ls>SĀY. zu ṚV. 1,113,2</ls>. <div n='1'>— 2〉 <lex>m.</lex> (ganz ausnahmsweise) <lex>n.</lex> <i>die in der weiblichen Brust enthaltene Milch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "स्तन्य",
+            "eid": "113562",
+            "pagenum": 7,
+            "content": "स्तन्य¦ (von स्तन) <lex>n.</lex> (m. <ls>BHĀG. P. 9, 6, 31</ls>) <i>die in der weiblichen Brust enthaltene Milch</i> <ls>H. 404.</ls> <ls>HALĀY. 2, 119.</ls> <ls>MBH. 8, 4237.</ls> <ls>SUŚR. 1, 48, 14. 176, 6. 285, 16. 369, 9. 12. 2, 323, 2. 324, 6. 10.</ls> °क्षय <ls n='SUŚR.'>1, 49, 14.</ls> °कर <ls n='SUŚR.'>198, 6.</ls> °वर्धन <ls n='SUŚR.'>155, 10.</ls> °नाश <ls n='SUŚR.'>372, 20.</ls> <ls>NYĀYAS. 3, 1, 22.</ls> <ls>RAGH. 2, 69.</ls> आ स्तन्यपानात् <ls>Spr. (II) 1608.</ls> जननी° <ls n='Spr. (II)'>1620. 2067.</ls> स्तन्यत्यागमात्रके वयसि <ls>UTTARAR. 26, 10 (34, 16).</ls> <ls>MĀRK. P. 44, 7.</ls> <ls>KATHĀS. 21, 43.</ls> तदालोकस्रुतस्तन्यैः <ls n='KATHĀS.'>110, 109.</ls> <ls>BHĀG. P. 4, 8, 18. 6, 11, 26.</ls> <ls>PAÑCAT. 238, 7.</ls> शुनी° <ls>H. an. 3, 620.</ls> <ls>MED. r. 238.</ls>"
+        }
     ]
 }

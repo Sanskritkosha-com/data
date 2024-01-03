@@ -49,5 +49,49 @@
             "pagenum": 262,
             "content": "*जल्¦ <i>jal.</i> <i>jalāmi</i> 1. Etre riche."
         }
+    ],
+    "MW": [
+        {
+            "word": "जल्",
+            "eid": "77760",
+            "pagenum": 414,
+            "content": "जल् ¦ <ab>cl.</ab> 1. °लति (<ab>pf.</ab> जजाल, <ls>Pāṇ. viii, 4, 54</ls>, <ab>Sch.</ab>), ‘to be rich’ or ‘to cover’ (derived <ab>fr.</ab> जाल?), <ls>Dhātup. xx, 3</ls>; <div n='to'/>to be sharp, <ls>ib.</ls>; <div n='to'/>to be stiff or dull (for जड्, derived <ab>fr.</ab> जड), <ls>ib.</ls> : <ab>cl.</ab> 10. जालयति, to cover, <ls n='Dhātup.'>xxxii, 10</ls>.<info westergaard='jala,20.3,01.0561'/><info verb='root' cp='1,10'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जल्",
+            "eid": "19416",
+            "pagenum": 341,
+            "content": "जल्¦ <i>jal,</i> cl. 1. P. <i>jalati,</i> &c., to be rich or wealthy; to cover, hide, or veil; to cover as with a net, encompass; to be sharp; to be cold, stiff, dull, dumb; cl. 10. P. <i>jālayati, -yitum,</i> to cover; [cf. Lat. <nsi>galea.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जल्",
+            "eid": "41969",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> *√जल्¦, जलति (घातने, धान्ये, अपवारणे, तैक्ष्ण्ये, अतैक्ष्ण्ये), जालयति (अपवारणे)."
+        },
+        {
+            "word": "जल्",
+            "eid": "41970",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> √जल्¦, जलति <i>zu Wasser werden</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जल्",
+            "eid": "26845",
+            "pagenum": 3,
+            "content": "1. जल्¦, ज/लति <i>reich sein</i> oder <i>bedecken</i> (धान्ये; vgl. जाल <i>Netz)</i>; nach Andern: <i>starr —, stumpf sein</i> (vgl. जड) oder <i>scharf sein</i> <ls>DHĀTUP. 20, 3.</ls> जजाल <ls>P. 8, 4, 54</ls>, <ls>Sch.</ls> — जल्, जाल/यति <i>bedecken</i> <ls>DHĀTUP. 32, 10.</ls>"
+        },
+        {
+            "word": "जल्",
+            "eid": "26846",
+            "pagenum": 3,
+            "content": "2. जल्¦ (denom. von जल), जलति <i>zu Wasser werden</i>: जलत्यग्निः <ls>ŚATR. 14, 81.</ls>"
+        }
     ]
 }

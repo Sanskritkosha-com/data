@@ -44,5 +44,65 @@
             "pagenum": 495,
             "content": "सार्व¦ allen heilsam."
         }
+    ],
+    "MD": [
+        {
+            "word": "सार्व",
+            "eid": "19321",
+            "pagenum": 348,
+            "content": "सार्व¦ sārva, <lex>a.</lex> [sarva] beneficial to all: 🞄<b>-kām-ika,</b> <lex>a.</lex> (<b>ī</b>) satisfying <i>or</i> grating every 🞄wish; <b>-kāla,</b> <lex>a.</lex> occurring at all times; <b>-kālika,</b> <lex>a.</lex> (<b>ī</b>) everlasting; <b>-janya,</b> <lex>a.</lex> general, 🞄universal; <b>-jñya,</b> <lex>n.</lex> [<b>sarva-jña</b>] omniscience."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सार्व",
+            "eid": "243221",
+            "pagenum": 1210,
+            "content": "सार्व ¦ <lex>mfn.</lex> (<ab>fr.</ab> सर्व, of which it is also the <s1 slp1='vfdDi'>Vṛddhi</s1> form in <ab>comp.</ab>) relating to all, fit or good for all, <ls>Śiś. xiv, 4</ls> (<ab>cf.</ab> <ls>Pāṇ. v, 1, 10</ls>)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "सार्व",
+            "eid": "243222",
+            "pagenum": 1210,
+            "content": "¦ general, universal (See <ab>comp.</ab>)<info lex='inh'/>"
+        },
+        {
+            "word": "सार्व",
+            "eid": "243223",
+            "pagenum": 1210,
+            "content": "सार्व ¦ <lex>m.</lex> a <s1 slp1='budDa'>Buddha</s1> or a <s1 slp1='jina'>Jina</s1>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सार्व",
+            "eid": "52059",
+            "pagenum": 1110,
+            "content": "सार्व¦ <i>sārva, as, ī, am,</i> (fr. <i>sarva</i>), relating to all, general, universal; fit for all; (<i>as</i>), m. a Buddha; a Jina or Jaina deified saint."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "सार्व",
+            "eid": "15824",
+            "pagenum": 3,
+            "content": "<i>Sārva</i>¦ — a particular period of the day. <div n='P'/>Vā. 66. 40."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सार्व",
+            "eid": "124550",
+            "pagenum": 7,
+            "content": "सार्व¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>Allen zum Wohl gereichend</i> <ls>ŚIŚ. 14,4</ls>. <div n='1'>— 2〉 <lex>m.</lex> bei den <is>Jaina</is> <i>ein</i> <is>Arhant</is> <ls>PĀRŚVAN. 2,26</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सार्व",
+            "eid": "108800",
+            "pagenum": 7,
+            "content": "सार्व¦ <div n='1'> 1) <lex>adj.</lex> = सर्वेभ्यो हितम् <ls>P. 5, 1, 10.</ls> <div n='1'>— 2) bei den <is>Jaina</is> <i>ein</i> <is>Arhant</is> <ls>H. 25.</ls>"
+        }
     ]
 }

@@ -39,5 +39,55 @@
             "pagenum": 62,
             "content": "ariMdama¦ <i>m.</i> a subjugator of enemies."
         }
+    ],
+    "MD": [
+        {
+            "word": "अरिंदम",
+            "eid": "2570",
+            "pagenum": 27,
+            "content": "अरिंदम¦ ariṃ-dama, <lex>a.</lex> foe-taming, victorious."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अरिंदम",
+            "eid": "15299",
+            "pagenum": 87,
+            "content": "अ-रि—ं-दम ¦ <lex>mfn.</lex> (<ls>Pāṇ. iii, 2, 46</ls>, <ab>Sch.</ab>) foe-conquering, victorious, <ab>N.</ab> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अरिंदम",
+            "eid": "15299.1",
+            "pagenum": 87,
+            "content": "अ-रि—ं-दम ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1><info lex='m'/>"
+        },
+        {
+            "word": "अरिंदम",
+            "eid": "15300",
+            "pagenum": 87,
+            "content": "¦ of the father of <s1 slp1='sanaSruta'>Sanaśruta</s1>, <ls>AitBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अरिंदम",
+            "eid": "15301",
+            "pagenum": 87,
+            "content": "¦ of a <s1 slp1='muni'>Muni</s1>, <ls>Kathās.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अरिंदम",
+            "eid": "9092",
+            "pagenum": 1,
+            "content": "अरिंदम¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>Feinde im Zaum haltend</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <ab>Bein.</ab> <is>Śiva</is>ʼs. <div n='2'>— b〉 <ab>N. pr.</ab> zweier Männer."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अरिंदम",
+            "eid": "5669",
+            "pagenum": 1,
+            "content": "अरिंदम¦ (अरिम्, acc. von 2. अरि, + दम) संज्ञायाम् (नाम्नि) <ls>P. 3, 2, 46</ls>, <ls>Sch.</ls>  <ls>VOP. 26, 60.</ls> <div n='1'> 1) <lex>adj.</lex> <i>den Feind bändigend</i>, ein Bein. tapferer Krieger <ls>N. 7, 9. 12, 69. 18, 23. 24, 36.</ls> <ls>HIḌ. 4, 17.</ls> <ls>R. 1, 1, 12.</ls> <ls>VIŚV. 3, 12.</ls> <div n='1'>— 2) <lex>m.</lex> ein Bein. <is>Śiva's</is> <ls>ŚIV.</ls> <div n='1'>— 3) N. pr. Vater von <is>Sanaśruta</is> <ls>AIT. BR. 7, 34.</ls> ein <is>Muni</is> <ls>KATHĀS. 21, 23.</ls>"
+        }
     ]
 }

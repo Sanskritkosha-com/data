@@ -31,5 +31,87 @@
             "pagenum": 837,
             "content": "heya¦ <i>a. (f. या)</i> What ought to he abandoned."
         }
+    ],
+    "MD": [
+        {
+            "word": "हेय",
+            "eid": "20621",
+            "pagenum": 380,
+            "content": "हेय¦ he-ya, <ab>fp.</ab> [√ <hom>2.</hom> hā] to be left, abandoned, 🞄avoided, rejected, <i>or</i> eschewed."
+        }
+    ],
+    "MW": [
+        {
+            "word": "हेय",
+            "eid": "262506",
+            "pagenum": 1296,
+            "content": "<hom>1.</hom> हेय ¦ <lex>mfn.</lex> (for <hom>2.</hom> See <pcol>p. 1297, col. 1</pcol>) to be gone &c., <ls>MW.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "हेय",
+            "eid": "262622",
+            "pagenum": 1297,
+            "content": "<hom>2.</hom> हेय ¦ <lex>mfn.</lex> (for <hom>1.</hom> and <hom>3.</hom> See <ab>p.</ab> 1296 and 1304) to be left or quitted or abandoned or rejected or avoided (-त्व <lex type='phw'>n.</lex>), <ls>Kāv.</ls>; <ls>Kathās.</ls> &c.<info phwchild='262623.1'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "हेय",
+            "eid": "262623",
+            "pagenum": 1297,
+            "content": "¦ to be subtracted, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "हेय",
+            "eid": "264071",
+            "pagenum": 1304,
+            "content": "<hom>3.</hom> हेय ¦ <lex>mfn.</lex> (for <hom>1.</hom> and <hom>2.</hom> See <ab>p.</ab> 1296 and 1297) <ab>id.</ab>, <ls>MW.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "हेय",
+            "eid": "264353",
+            "pagenum": 1305,
+            "content": "हेय <hom>a</hom>. ¦ See <ab>pp.</ab> 1296, 1297, and 1304."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हेय",
+            "eid": "54044",
+            "pagenum": 1169,
+            "content": "1. <i>heya, as, ā, am</i>¦ (for 2. see p. 1170), to be gone."
+        },
+        {
+            "word": "हेय",
+            "eid": "54064",
+            "pagenum": 1170,
+            "content": "2. <i>heya, as, ā, am</i>¦ (for 3. see p. 1171, col. 2), to be left or abandoned, to be avoided."
+        },
+        {
+            "word": "हेय",
+            "eid": "54136",
+            "pagenum": 1171,
+            "content": "3. <i>heya, as, ā, am</i>¦ (for 1. and 2. see pp. 1169, 1170), to be sent or impelled."
+        },
+        {
+            "word": "हेय",
+            "eid": "54362",
+            "pagenum": 1177,
+            "content": "हेय¦ <i>heya.</i> See under rts. 2. 3. <i>hā,</i> 1. <i>hi.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "हेय",
+            "eid": "135434",
+            "pagenum": 7,
+            "content": "हेय¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>zu verlassen</i> (ein Lehrer) <ls>GAUT.</ls> <div n='1'>— 2〉 <i>zu lassen, aufzugeben, zu meiden, zu [Page7-284-a] verwerfen, verwerflich</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <div n='1'>— 3〉 <i>abzuziehen</i> (von einer Zahl)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हेय",
+            "eid": "117620",
+            "pagenum": 7,
+            "content": "हेय¦ (von 2. हा) <lex>adj.</lex> <div n='1'> 1) <i>zu lassen, aufzugeben, zu meiden, - verwerfen, verwerflich</i> (Gegens. आदेय, उपादेय) <ls>KAP. 1,4. 3,52.</ls> <ls>YOGAS. 2,10.</ls> <ls>Spr. (II) 1653.</ls> <ls n='Spr. (II)'>1716.</ls> <ls n='Spr. (II)'>4161.</ls> <ls n='Spr. (II)'>4526.</ls> <ls n='Spr. (II)'>6241.</ls> <ls>KATHĀS. 60,42. 72,316.</ls> <ls>MĀRK. P. 37,24.</ls> <ls>BHĀG. P. 3,32,25. 5,11,3.</ls> <ls>H. 739.</ls> <ls>HEM.</ls> <ls>YOGAŚ. 3,88.</ls> <ls>Verz. d. Oxf. H. 237,b, No. 569.</ls> <ls>SĀH. D. 3,13.</ls> <ls>SARVADARŚANAS. 31,1</ls> (इमास्तु हेयाः zu lesen). <ls n='SARVADARŚANAS.'>33, 22. 42, 5. 8. 52, 15. fg. 60, 9. 74, 21. 164, 3. 180, 13.</ls> <ls>NĪLAK. 161.</ls> अति° <ls>MĀRK. P. 16, 1.</ls> <div n='1'>— 2) <i>abzuziehen</i> (von einer Zahl) <ls>WEBER, JYOT. 95.</ls> <ls>KĀLACAKRA 1, 31. fg. 42.</ls>"
+        }
     ]
 }

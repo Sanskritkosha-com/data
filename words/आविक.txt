@@ -66,5 +66,83 @@
             "pagenum": 109,
             "content": "Avika¦ <i>(II) n.</i> A woollen cloth, a blanket."
         }
+    ],
+    "MD": [
+        {
+            "word": "आविक",
+            "eid": "3905",
+            "pagenum": 42,
+            "content": "आविक¦ ā́vi-ka, <lex>a.</lex> coming from a sheep, 🞄woolen; <lex>n.</lex> sheep-skin; woolen cloth; <b>-sautrika,</b> <lex>a.</lex> consisting of woollen threads."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आविक",
+            "eid": "27073",
+            "pagenum": 155,
+            "content": "आविक ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> अवि), relating to or coming from sheep, <ls>MBh.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls>; <ls>Gaut.</ls>; <ls>Suśr.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "आविक",
+            "eid": "27074",
+            "pagenum": 155,
+            "content": "¦ woollen, <ls>Mn.</ls>; <ls>Suśr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आविक",
+            "eid": "27076",
+            "pagenum": 155,
+            "content": "आविक ¦ <lex>n.</lex> [and <lex type='hwalt'>m.</lex>, <ls>L.</ls>] a woollen cloth or blanket, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls> &c.<info lex='m:n'/>"
+        },
+        {
+            "word": "आविक",
+            "eid": "27076.1",
+            "pagenum": 1320,
+            "content": "आ/विक¦ <lex>n.</lex> (<ls>ŚBr.</ls>)<info n='sup'/><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आविक",
+            "eid": "9375",
+            "pagenum": 131,
+            "content": "आविक¦ <i>āvika, as, ī, am</i> (fr. <i>avi</i>), relating to or derived from sheep; woollen; (<i>am</i>), n. a woollen cloth, blanket. <i>—Āvika-sautrika, as, ī, am,</i> made of woollen thread."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आविक",
+            "eid": "15981",
+            "pagenum": 1,
+            "content": "आ/विक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>vom Schaf herrührend</i>. <ls>GAUT. 17,24</ls>. <div n='2'>— b〉 <i>wollen</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>Schaffell</i> <ls>ĀPAST.</ls> <div n='2'>— b〉 <i>wollenes Gewand, — Decke</i>. Auch *<lex>m.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आविक",
+            "eid": "9480",
+            "pagenum": 1,
+            "content": "आ/विक¦ (von अवि) <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>vom Schafe herrührend</i>: चर्माणि <ls>M. 2, 41.</ls> अजिनम् <ls>MBH. 2, 1848.</ls> <ls>R. 5, 14, 2.</ls> क्षीरम् <ls>M. 5, 8.</ls> <ls>YĀJÑ. 1, 170.</ls> <ls>SUŚR. 1, 174, 20.</ls> <ls n='SUŚR. 1,'>175, 21.</ls> <ls n='SUŚR. 1,'>177, 15.</ls> मूत्र <ls n='SUŚR. 1,'>193, 21.</ls> <ls n='SUŚR.'>2, 91, 2.</ls> <div n='2'>— b) <i>wollen</i> <ls>M. 10, 87.</ls> <ls>SUŚR. 1, 65, 13.</ls> <div n='1'>— 2) <lex>n.</lex> <i>wollener Zeug, wollenes Gewand</i> <ls>ŚAT. BR. 14, 5, 3, 10</ls> (= <ls>BṚH. ĀR. UP. 2, 3, 6</ls>). <ls>KĀTY. ŚR. 22, 4, 20.</ls> <ls>M. 5, 120.</ls> <ls>YĀJÑ. 1, 186.</ls> <ls>R. 3, 49, 44.</ls> <i>wollene Decke</i> <ls>H. 670.</ls> <lex>m.</lex> nach <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "आविक",
+            "eid": "66941",
+            "pagenum": 5,
+            "content": "आविक¦ <div n='1'> 1) <div n='2'> b) <ls>M. 2, 41.</ls> <div n='v'>— Vgl. पञ्चाविक ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "आविक",
+            "eid": "5408",
+            "pagenum": 4,
+            "content": "आविक¦ 3〉 <lex>f.</lex> ई <i>Schaffell</i> <ls>R. ed. Bomb. 3,43,36</ls>."
+        },
+        {
+            "word": "आविक",
+            "eid": "14387",
+            "pagenum": 7,
+            "content": "आविक¦ I. 4."
+        }
     ]
 }

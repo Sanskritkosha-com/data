@@ -52,5 +52,49 @@
             "pagenum": 611,
             "content": "rAvaRi¦ <i>m.</i> An epithet of Indrajit, एष रावणिरापादि वानराणां भयंकरः <ls>Bt.</ls>xv.89."
         }
+    ],
+    "MW": [
+        {
+            "word": "रावणि",
+            "eid": "177740",
+            "pagenum": 879,
+            "content": "रावणि ¦ <lex>m.</lex> (<ab>patr.</ab> <ab>fr.</ab> रावण <ab>g.</ab> तौल्वल्य्-आदि), <ab>N.</ab> of <s1 slp1='indra-jit'>Indra-jit</s1>, <ls>MBh.</ls>; <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रावणि",
+            "eid": "177741",
+            "pagenum": 879,
+            "content": "¦ of <s1 slp1='siMha-nAda'>Siṃha-nāda</s1>, <ls>Bālar.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रावणि",
+            "eid": "177742",
+            "pagenum": 879,
+            "content": "¦ of any son of <s1 slp1='rAvaRa'>Rāvaṇa</s1> (<ab>pl.</ab> the sons of <ab n='Rāvaṇa' slp1='rAvaRa'>R°</ab>), <ls>Bhaṭṭ.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रावणि",
+            "eid": "39426",
+            "pagenum": 844,
+            "content": "<i>Rāvaṇi, is,</i>¦ m. a patronymic from Rāvaṇa, N. of Indra-jit (eldest son of the demon Rāvaṇa) or of any son of Rāvaṇa; of the author of a Bāla-tantra; (<i>ayas</i>), m. pl. the sons of Rāvaṇa."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रावणि",
+            "eid": "94071",
+            "pagenum": 5,
+            "content": "रावणि¦ <lex>m.</lex> <ab>Patron.</ab> <is>Indrajit</is>ʼs und <is>Siṃhanāda</is>ʼs [Page5-188-a] (<ls>BĀLAR. 211,15</ls>). <ab>Pl.</ab> <i>die Söhne</i> <is>Rāvaṇa</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रावणि",
+            "eid": "84642",
+            "pagenum": 6,
+            "content": "रा/वणि¦ <lex>m.</lex> patron. von रावण <is>gaṇa</is> पैलादि zu <ls>P. 2, 4, 59</ls> und तौल्वल्यादि zu <ls n='P. 2, 4,'>61.</ls> Bez. <is>Indragit's</is>, des ältesten Sohnes des <is>Rākṣasa</is> <is>Rāvaṇa</is>, <ls>H. 706.</ls> <ls>MBH. 3, 16449.</ls> <ls n='MBH.'>7, 4065.</ls> <ls n='MBH. 7,'>5888.</ls> <ls>R. 6, 67, 1.</ls> <ls n='R.'>7, 28, 22.</ls> Verfasser eines <is>Bālatantra</is> <ls>Verz. d. B. H. No. 958.</ls> pl. <i>die Söhne</i> <is>Rāvaṇa's</is> <ls>BHAṬṬ. 15, 79.</ls>"
+        }
     ]
 }

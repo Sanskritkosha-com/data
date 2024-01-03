@@ -23,5 +23,45 @@
             "pagenum": 219,
             "content": "दमक¦ <lex>a.</lex> (—°) = <ab>prec.</ab> <lex>a.</lex>"
         }
+    ],
+    "MD": [
+        {
+            "word": "दमक",
+            "eid": "9066",
+            "pagenum": 116,
+            "content": "दमक¦ dama-ka, <lex>a.</lex> taming, breaking in, training 🞄(<ab>—°</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दमक",
+            "eid": "90266",
+            "pagenum": 469,
+            "content": "दमक ¦ <lex>mfn.</lex> (<ls>Pāṇ. vii, 3, 34</ls>, <ls>Kāś.</ls>) <ab>ifc.</ab> taming, a tamer, <ls>Mn. iii, 162</ls>; <ls>MBh. xiii, 1651.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दमक",
+            "eid": "21899",
+            "pagenum": 402,
+            "content": "<i>Damaka, as, ā, am,</i>¦ taming, a tamer, subduer."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दमक",
+            "eid": "48985",
+            "pagenum": 3,
+            "content": "°दमक¦ <lex>Adj.</lex> <i>zähmend, bändigend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दमक",
+            "eid": "32025",
+            "pagenum": 3,
+            "content": "दमक¦ (wie eben) <lex>adj.</lex> <i>zähmend, bändigend</i> <ls>P. 7, 3, 34</ls>, <ls>Sch.</ls> हस्तिगोऽश्वोष्ट्र° <ls>M. 3, 162.</ls> अप्राप्तदमकाश्चैव नासानां वेधकाश्च ये । बन्धकाश्च पशूनां ये ते वै निरयगामिनः ॥ <ls>MBH. 13, 1651.</ls>"
+        }
     ]
 }

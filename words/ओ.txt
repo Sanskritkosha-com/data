@@ -81,5 +81,123 @@
             "pagenum": 155,
             "content": "o¦ <i>ind.</i> 1. A vocative particle; 2. an interjection of- (1) calling; (2) reminiscence; (3) compassion."
         }
+    ],
+    "MD": [
+        {
+            "word": "ओ",
+            "eid": "5218",
+            "pagenum": 59,
+            "content": "ओ¦ ó = ā́‿u."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ओ",
+            "eid": "40584",
+            "pagenum": 235,
+            "content": "<hom>1.</hom> ओ ¦ the thirteenth vowel of the alphabet (corresponding to English <i>o</i>)."
+        },
+        {
+            "word": "ओ",
+            "eid": "40586",
+            "pagenum": 235,
+            "content": "<hom>2.</hom> ओ ¦ <lex>ind.</lex> an interjection, <ls>L.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "ओ",
+            "eid": "40586.1",
+            "pagenum": 235,
+            "content": "¦ a particle of addressing<info lex='inh'/>"
+        },
+        {
+            "word": "ओ",
+            "eid": "40586.2",
+            "pagenum": 235,
+            "content": "¦ calling<info lex='inh'/>"
+        },
+        {
+            "word": "ओ",
+            "eid": "40586.3",
+            "pagenum": 235,
+            "content": "¦ reminiscence<info lex='inh'/>"
+        },
+        {
+            "word": "ओ",
+            "eid": "40586.4",
+            "pagenum": 235,
+            "content": "¦ of compassion, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ओ",
+            "eid": "40587",
+            "pagenum": 235,
+            "content": "<hom>3.</hom> ओ ¦ <lex>m.</lex> <ab>N.</ab> of <s1 slp1='brahmA'>Brahmā</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ओ",
+            "eid": "40588",
+            "pagenum": 235,
+            "content": "<hom>4.</hom> o<srs/> ¦ (आ-√ उ). <info verb='pre' cp='' parse='A+u'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ओ",
+            "eid": "12931",
+            "pagenum": 188,
+            "content": "ओ 1¦. <i>o,</i> the vowel <i>o,</i> the thirteenth letter of the alphabet. <i>—O-kāra, as,</i> m. the letter or sound <i>o.</i>"
+        },
+        {
+            "word": "ओ",
+            "eid": "12932",
+            "pagenum": 188,
+            "content": "ओ 2¦. <i>o,</i> ind. a vocative particle, Oh; an interjection of calling, Ho, Holla; of reminiscence, Ho, Ah; of compassion, Ah, Oh."
+        },
+        {
+            "word": "ओ",
+            "eid": "12933",
+            "pagenum": 188,
+            "content": "ओ 3¦. <i>o, aus,</i> m. a N. of Brahmā."
+        },
+        {
+            "word": "ओ",
+            "eid": "12934",
+            "pagenum": 188,
+            "content": "ओ 4¦. <i>o (ā-u),</i> only occurring in the past pass. part. <i>—1. ota, as, ā, am,</i> Ved. invoked, summoned."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ओ",
+            "eid": "22596",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> *ओ¦ <ab>Interj.</ab> <i>der Anrede, des Anrufs, des Sichbesinnens auf Etwas</i> und <i>des Mitleids</i>."
+        },
+        {
+            "word": "ओ",
+            "eid": "22597",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *ओ¦ <lex>m.</lex> <ab>Bein.</ab> <is>Brahman</is>ʼs."
+        },
+        {
+            "word": "ओ",
+            "eid": "22598",
+            "pagenum": 1,
+            "content": "<hom>3.</hom> ओ/¦ <ls n='Chr.'>6,7. 18,22</ls> = <hom>2.</hom> आ/ + <hom>2.</hom>उ"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ओ",
+            "eid": "13751",
+            "pagenum": 1,
+            "content": "1. ओ¦ interj. <is>gaṇa</is> चादि zu <ls>P. 1, 4, 57.</ls> <i>der Anrede</i> und <i>des Anrufs</i> <ls>H. an. 7, 6.</ls> <ls>MED. avy. 9.</ls> <i>der Erinnerung</i> und <i>des Mitleidens</i> <ls>MED.</ls>"
+        },
+        {
+            "word": "ओ",
+            "eid": "13752",
+            "pagenum": 1,
+            "content": "2. ओ¦ <lex>m.</lex> ein Name <is>Brahman's</is> <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

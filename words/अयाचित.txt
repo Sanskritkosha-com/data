@@ -42,5 +42,43 @@
             "pagenum": 60,
             "content": "ayAcita¦ <i>(II) n.</i> Unsolicited alms."
         }
+    ],
+    "MD": [
+        {
+            "word": "अयाचित",
+            "eid": "2499",
+            "pagenum": 26,
+            "content": "अयाचित¦ á-yāc-i-ta, <ab>pp.</ab> unasked; given 🞄without asking; <b>-tṛ,</b> <lex>a.</lex> not soliciting <i>or</i> 🞄wooing."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अयाचित",
+            "eid": "14838",
+            "pagenum": 85,
+            "content": "अ/-याचित ¦ <lex>mfn.</lex> not asked for, unsolicited, <ls>TĀr.</ls>; <ls>Mn.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अयाचित",
+            "eid": "14839",
+            "pagenum": 85,
+            "content": "अ/-याचित ¦ <lex>m.</lex> <ab>N.</ab> of the <s1 slp1='fzi'>Ṛṣi</s1> <s1 slp1='upavarza'>Upavarṣa</s1>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अयाचित",
+            "eid": "8787",
+            "pagenum": 1,
+            "content": "अ/याचित¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>nicht erbeten, — erbettelt</i> <ls>TAITT. ĀR. 10,48</ls>. अयाचिताहृत <i>ungebeten dargereicht</i> <ls>YĀJÑ. 1,215</ls>. <div n='1'>— 2〉 *<lex>m.</lex> <ab>N. pr.</ab> eines <is>Ṛṣi</is>, = <is>Upavarṣa</is>. <div n='1'>— 3〉 *<lex>n.</lex> <i>das Aehrenlesen</i> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अयाचित",
+            "eid": "5466",
+            "pagenum": 1,
+            "content": "अयाचित¦ (3. अ + या°) <div n='1'> 1) <lex>adj.</lex> <i>nicht erbeten, von freien Stücken dargereicht</i> (Almosen) <ls>TRIK. 3, 3, 143.</ls> <ls>H. 866.</ls> अमृतं स्यादयाचितम् (भैक्षम्) <ls>M. 4, 5.</ls> त्र्यहमद्यादयाचितम् <ls n='M.'>11, 211.</ls> अयाचितोपस्थितमम्बु <i>Wasser, das, ohne dass man darum bäte, sich darbietet</i> <ls>KUMĀRAS. 5, 22.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines <is>Ṛṣi</is>, der sonst <is>Upavarṣa</is> heisst, <ls>TRIK. 2, 7, 23.</ls>"
+        }
     ]
 }

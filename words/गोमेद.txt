@@ -15,5 +15,67 @@
             "pagenum": 250,
             "content": "go-meda¦ <i>m.</i> a gem brought from the Himālaya and the Indus described as of four varieties- white, pale-yellow or red and dark-blue."
         }
+    ],
+    "MW": [
+        {
+            "word": "गोमेद",
+            "eid": "67428",
+            "pagenum": 366,
+            "content": "गो—मेद ¦ <lex>m.</lex> ‘cow-fat’, a gem brought from the <s1 slp1='himAlaya'>Himālaya</s1> and the <s1 slp1='indu'>Indu</s1>s (being of 4 sorts, white, pale yellow, red, and dark blue), <ls>RTL. p. 468</ls><info lex='m'/>"
+        },
+        {
+            "word": "गोमेद",
+            "eid": "67429",
+            "pagenum": 366,
+            "content": "¦ the tree कक्कोल, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गोमेद",
+            "eid": "67430",
+            "pagenum": 366,
+            "content": "¦ a kind of fish, <ls>Gal.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गोमेद",
+            "eid": "67431",
+            "pagenum": 366,
+            "content": "¦ <ab>N.</ab> of a mountain, <ls>VP. ii, 4, 7</ls><info lex='inh'/>"
+        },
+        {
+            "word": "गोमेद",
+            "eid": "67432",
+            "pagenum": 366,
+            "content": "¦ of a <s1 slp1='dvIpa'>Dvīpa</s1>, <ls>Romakas.</ls>; <ls>MatsyaP. cxxii</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "गोमेद",
+            "eid": "4360",
+            "pagenum": 1,
+            "content": "<i>Gomeda(ka)</i>¦ — Mt. one of the seven hills of Plakṣadvīpa; gives its name to Gomedavarṣa. <div n='P'/>Br. II. 19. 7, 138; M. 123. 28; Vā. 49. 6; Vi. II. 4. 7."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोमेद",
+            "eid": "36816",
+            "pagenum": 2,
+            "content": "गोमेद¦ <lex>m.</lex> <div n='1'>— 1〉 <i>eine Art Edelstein</i> <ls>RĀJAN. 13,189</ls>. <div n='1'>— 2〉 *<i>ein <ab>best.</ab> Baum</i>. <div n='1'>— 3〉 *<i>ein <ab>best.</ab> Fisch</i> <ls>GAL.</ls> <div n='1'>— 4〉 <ab>N. pr.</ab> eines Gebirges <ls>VP. 2,4,7</ls>. °द्वीप <ab>N. pr.</ab> eines <is>Dvīpa</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोमेद",
+            "eid": "23288",
+            "pagenum": 2,
+            "content": "गोमेद¦ (गो <i>Kuh</i> + मेद <i>Fett</i>) <lex>m.</lex> <div n='1'> 1) <i>eine Art Edelstein</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> Er wird im <is>Himālaya</is> und am Indus gefunden und ist von weisser, rother, gelblicher und blauer Farbe, <ls>BHOJARĀJA</ls> im <ls>YUKTIKALPAT.</ls> <ls>ŚKDR.</ls> <div n='1'>— 2) N. einer Pflanze (कक्कोल) <ls>HĀR. 261</ls>; vgl. गोमेदक 2."
+        },
+        {
+            "word": "गोमेद",
+            "eid": "73078",
+            "pagenum": 5,
+            "content": "गोमेद¦ <div n='1'> 3) N. pr. eines <is>Dvīpa</is> <ls>Verz. d. Oxf. H. 41,a,37. 338,b,6.</ls>"
+        }
     ]
 }

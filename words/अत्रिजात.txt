@@ -15,5 +15,61 @@
             "pagenum": 12,
             "content": "atri-jAta¦ <i>m.</i> the moon."
         }
+    ],
+    "MW": [
+        {
+            "word": "अत्रिजात",
+            "eid": "3513",
+            "pagenum": 17,
+            "content": "अत्रि—जात <hom>a</hom> ¦ <lex>m.</lex> ‘produced by <s1 slp1='atri'>Atri</s1>’, the moon.<info lex='m'/>"
+        },
+        {
+            "word": "अत्रिजात",
+            "eid": "3528",
+            "pagenum": 17,
+            "content": "अ-त्रि-जात <hom>b</hom> ¦ <lex>mfn.</lex> ‘not born thrice’ (but twice), a man belonging to one of the first three classes, [for अत्रि-जात See under अत्रि.]<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अत्रिजात",
+            "eid": "940",
+            "pagenum": 17,
+            "content": "अत्रिजात¦ <i>a-tri-jāta, as, ā, am,</i> (not born thrice, but twice); a man belonging to one of the first three classes [for <i>atri-jāta,</i> see s. v. <i>atri</i>]."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अत्रिजात",
+            "eid": "2349",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अत्रिजात¦ <lex>m.</lex> <i>der Mond</i> (<is>Atri</is>ʼs <i>Sohn</i>)."
+        },
+        {
+            "word": "अत्रिजात",
+            "eid": "2350",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अत्रिजात¦ <lex>m.</lex> <i>ein Angehöriger einer der drei oberen Kasten (nicht dreimal geboren)</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अत्रिजात",
+            "eid": "1617",
+            "pagenum": 1,
+            "content": "1. अत्रिजात¦ (अत्रि + जात) <lex>m.</lex> <i>von</i> <is>Atri</is> <i>geboren</i>, ein Beiname des <i>Mondes</i>, <ls>TRIVIKRAMABHAṬṬA</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "अत्रिजात",
+            "eid": "1618",
+            "pagenum": 1,
+            "content": "2. अत्रिजात¦ (3. अ + त्रिजात [त्रि + जात]) <lex>m.</lex> <i>ein nicht 3 mal geborener, ein 2 mal Geborener, ein Mann aus einer der 3 oberen Kasten</i>, <ls>TRIVIKRAMABHAṬṬA</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "अत्रिजात",
+            "eid": "63080",
+            "pagenum": 5,
+            "content": "12. अत्रिजात¦ vgl. <ls>Verz. d. Oxf. H. 120,a,23.</ls>"
+        }
     ]
 }

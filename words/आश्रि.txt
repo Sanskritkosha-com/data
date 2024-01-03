@@ -29,5 +29,55 @@
             "pagenum": 111,
             "content": "ASri¦ <i>f.</i> the edge of a sword."
         }
+    ],
+    "MW": [
+        {
+            "word": "आश्रि",
+            "eid": "27644",
+            "pagenum": 158,
+            "content": "<hom>1.</hom> आ-√ श्रि ¦ <ab>P.</ab> -श्रयति, to affix; <div n='to'/>to apply anything, <ls>AV. xi, 10, 10</ls> : <div n='to'/><ab>Ā.</ab> -श्रयते, to attach one's self to; <div n='to'/>to join, <ls>MBh.</ls>; <ls>BhP.</ls>; <ls>Kathās.</ls>; <ls>Pañcat.</ls> &c.; <div n='to'/>to adhere, rest on <ls>Mn.</ls>; <ls>MBh.</ls>; <div n='to'/>to betake one's self to, resort to; <div n='to'/>to depend on; <div n='to'/>to choose, prefer; <div n='to'/>to be subject to, keep in mind; <div n='to'/>to seek refuge in, enter, inhabit; <div n='to'/>to refer or appeal to, <ls>MBh.</ls>; <ls>Kathās.</ls>; <ls>Śak.</ls>; <ls>Ragh.</ls>; <ls>Prab.</ls>; <ls>R.</ls> &c.<info verb='pre' cp='PĀ' parse='A+Sri'/>"
+        },
+        {
+            "word": "आश्रि",
+            "eid": "27702",
+            "pagenum": 158,
+            "content": "<hom>2.</hom> आश्रि ¦ <lex>f.</lex> the edge of a sword (= अश्रि, <ab>q.v.</ab>), <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "आश्रि",
+            "eid": "27703",
+            "pagenum": 158,
+            "content": "¦ (= आ-अश्रि, a very sharp edge, <ls>T.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आश्रि",
+            "eid": "9538",
+            "pagenum": 133,
+            "content": "आश्रि 1¦. <i>ā-śri,</i> cl. 1. P. A. <i>-śrayati, -te,</i> <i>-yitum,</i> to resort to, betake one's self to; seek refuge in, enter, inhabit; depend on, choose, prefer; to assist, adhere to, be subject to, keep in mind."
+        },
+        {
+            "word": "आश्रि",
+            "eid": "9544",
+            "pagenum": 134,
+            "content": "आश्रि 2¦. <i>āśri, is,</i> f. the edge of a sword. See <i>aśri.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आश्रि",
+            "eid": "16231",
+            "pagenum": 1,
+            "content": "*आश्रि¦ <lex>f.</lex> = आश्रि."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आश्रि",
+            "eid": "9661",
+            "pagenum": 1,
+            "content": "आश्रि¦ <lex>f.</lex> = अश्रि <ls>ŚKDR.</ls> ohne Angabe einer Autorität."
+        }
     ]
 }

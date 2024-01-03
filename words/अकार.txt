@@ -63,5 +63,45 @@
             "pagenum": 111,
             "content": "<b>a-kāra,</b>¦ <i><ab>m.</ab></i> the sound <i>or</i> letter <ab>a.</ab> [Whitney, <lbinfo n='[Whit-ney,'/> <ls n='wg,18'>18.</ls>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "अकार",
+            "eid": "73",
+            "pagenum": 1,
+            "content": "अकार¦ a-kāra, <lex>m.</lex> the sound or letter ă."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अकार",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "अ—कार ¦ <lex>m.</lex> the letter or sound अ.<info lex='m'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "अकार",
+            "eid": "10",
+            "pagenum": 1,
+            "content": "<i>Akāra</i>¦ — its significance in <i>Oṃ;</i><sup>1</sup> the source of 63 varṇas;<sup>2</sup> the primordial <i>svara</i> and its place in creation.<sup>3</sup> <F>1) Vā. 20. 8ff.</F> <F>2) Vā. 26. 28.</F> <F>3) Vā. 26. 29ff.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अकार",
+            "eid": "132",
+            "pagenum": 1,
+            "content": "अकार¦ <lex>m.</lex> <i>der Laut</i> अ <ls n='Chr.'>20,29</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अकार",
+            "eid": "103",
+            "pagenum": 1,
+            "content": "अकार¦ (अ + कार) <lex>m.</lex> <i>der Buchstab</i> अ <ls>ṚV. PRĀTIŚ. 1, 8.</ls> <ls>M. 2, 76. 125.</ls> <ls>BHAG. 10, 33.</ls>"
+        }
     ]
 }

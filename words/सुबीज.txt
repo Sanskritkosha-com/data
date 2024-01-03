@@ -23,5 +23,53 @@
             "pagenum": 652,
             "content": "<b>Subīja</b>¦ = Śiva (1000 names<sup>2</sup>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुबीज",
+            "eid": "247923",
+            "pagenum": 1229,
+            "content": "सु—बीज ¦ <lex>n.</lex> good seed, <ls>Mn. x, 69</ls><info lex='n'/>"
+        },
+        {
+            "word": "सुबीज",
+            "eid": "247924",
+            "pagenum": 1229,
+            "content": "सु—बीज ¦ <lex>m.</lex> ‘having good seed’, <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुबीज",
+            "eid": "247925",
+            "pagenum": 1229,
+            "content": "¦ the poppy, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुबीज",
+            "eid": "127018",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सुबीज¦ <lex>n.</lex> <i>guter Same</i>."
+        },
+        {
+            "word": "सुबीज",
+            "eid": "127019",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> *सुबीज¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>guten oder viel Samen habend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Mohn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुबीज",
+            "eid": "110798",
+            "pagenum": 7,
+            "content": "1. सुबीज¦ <lex>n.</lex> <i>guter Same</i> <ls>M. 10, 69.</ls>"
+        },
+        {
+            "word": "सुबीज",
+            "eid": "110799",
+            "pagenum": 7,
+            "content": "2. सुबीज¦ <div n='1'> 1) <lex>adj.</lex> <i>schönen Samen habend.</i> <div n='1'>— 2) <lex>m.</lex> <i>Mohn</i> <ls>RĀJAN. 4, 166.</ls>"
+        }
     ]
 }

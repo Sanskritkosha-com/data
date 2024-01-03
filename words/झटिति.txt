@@ -76,5 +76,51 @@
             "pagenum": 296,
             "content": "Jawiti¦ <i>ind.</i> Quickly, at once, प्रविशि झटिति गेहं मा बहिस्तिष्ठ कांते <ls>Sr.T.</ls>6."
         }
+    ],
+    "MD": [
+        {
+            "word": "झटिति",
+            "eid": "8197",
+            "pagenum": 103,
+            "content": "झटिति¦ jhaṭ-iti, <lex>ad.</lex> at once, on the spot."
+        }
+    ],
+    "MW": [
+        {
+            "word": "झटिति",
+            "eid": "80981",
+            "pagenum": 428,
+            "content": "झट्-इति ¦ <lex>ind.</lex> <ab>onomat.</ab> (<ab>g.</ab> स्वर्-आदि, not in <ls>Kāś.</ls>) instantly, at once, <ls>Bhartṛ. i, 69</ls> and <ls n='Bhartṛ. i,'>95</ls>; <ls>Ratnāv. i, 6</ls>; <ls>Śṛṅgār.</ls>; <ls>Kathās. vi, 118</ls>; <ls n='Kathās.'>ix</ls>; <ls>Rājat.</ls> &c.<info lex='ind'/>"
+        },
+        {
+            "word": "झटिति",
+            "eid": "80981.1",
+            "pagenum": 1328,
+            "content": "¦ repeated = ‘no sooner-than’, <ls>Mālatīm.</ls>.<info n='sup'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "झटिति",
+            "eid": "20019",
+            "pagenum": 354,
+            "content": "झटिति¦ <i>jhaṭiti,</i> ind. (fr. <i>jhaṭ,</i> an onomatopoetic word with <i>iti;</i> cf. <i>paṭiti</i>), quickly, speedily, instantly; at once; on the spot."
+        }
+    ],
+    "PW": [
+        {
+            "word": "झटिति",
+            "eid": "43689",
+            "pagenum": 2,
+            "content": "झटिति¦ <lex>Adv.</lex> <i>sofort, sogleich, auf der Stelle</i> <ls n='Chr.'>291,6</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "झटिति",
+            "eid": "28090",
+            "pagenum": 3,
+            "content": "झटिति¦ (onomatop. mit इति; vgl. पटिति = पटत् इति <ls>P. 6, 1, 98</ls>, <ls>Sch.</ls>) adv. <is>gaṇa</is> स्वरादि zu <ls>P. 1, 1, 37.</ls> <i>sofort, sogleich, auf der Stelle</i> <ls>AK. 3, 5, 2.</ls> <ls>H. 1530.</ls> <ls>BHARTṚ. 1, 69. 95.</ls> <ls>KATHĀS. 6, 118. 9, 25. 30.</ls> <ls>RĀJA-TAR. 3, 199.</ls> <ls>ŚṚṄGĀRAT. 6.</ls> <ls>SĀH. D. 28, 2.</ls> <ls n='SĀH. D.'>63, 16.</ls> <ls>Sch.</ls> zu <ls>KĀTY. ŚR. 1, 5, 7. 9. 7, 8, 27.</ls> <ls>KULL.</ls> zu <ls>M. 8, 187.</ls>"
+        }
     ]
 }

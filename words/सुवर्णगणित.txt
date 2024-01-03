@@ -7,5 +7,35 @@
             "pagenum": 788,
             "content": "suvarRa-gaRita¦ <i>n.</i> a particular method of calculation (in arithmetic)."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुवर्णगणित",
+            "eid": "249863",
+            "pagenum": 1236,
+            "content": "सु-वर्ण—गणित ¦ <lex>n.</lex> computation of <ab n='gold'>g°</ab> (of its weight and purity), <ls>Col.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सुवर्णगणित",
+            "eid": "249864",
+            "pagenum": 1236,
+            "content": "¦ a <ab>partic.</ab> method of calculation in arithmetic, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुवर्णगणित",
+            "eid": "127827",
+            "pagenum": 7,
+            "content": "सुवर्णगणित¦ <lex>n.</lex> <i>Berechnung des Gewichts und des Gehalts von Gold</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुवर्णगणित",
+            "eid": "111472",
+            "pagenum": 7,
+            "content": "सुवर्णगणित¦ <lex>n.</lex> <i>Berechnung des Gewichts und des Gehaltes von Gold</i> <ls>COLEBR. Alg. 46.</ls>"
+        }
     ]
 }

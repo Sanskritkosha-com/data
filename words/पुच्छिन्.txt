@@ -15,5 +15,49 @@
             "pagenum": 441,
             "content": "pucCin¦ <i>m.</i> A cock."
         }
+    ],
+    "MW": [
+        {
+            "word": "पुच्छिन्",
+            "eid": "125166",
+            "pagenum": 631,
+            "content": "पुच्छिन् ¦ <lex>mfn.</lex> = पुच्छ-वत्<info lex='m:f:n'/>"
+        },
+        {
+            "word": "पुच्छिन्",
+            "eid": "125167",
+            "pagenum": 631,
+            "content": "पुच्छिन् ¦ <lex>m.</lex> a cock, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पुच्छिन्",
+            "eid": "125168",
+            "pagenum": 631,
+            "content": "¦ <bot>Calotropis Gigantea</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पुच्छिन्",
+            "eid": "29443",
+            "pagenum": 579,
+            "content": "<i>Pucchin, ī, inī, i,</i>¦ having a tail, tailed; a cock; Calotropis Gigantea (<i>= arka</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पुच्छिन्",
+            "eid": "67538",
+            "pagenum": 4,
+            "content": "*पुच्छिन्¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Hahn</i>. <div n='1'>— 2〉 <i><bot>Calotropis gigantea</bot></i> <ls>RĀJAN. 10,26</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पुच्छिन्",
+            "eid": "45664",
+            "pagenum": 4,
+            "content": "पुच्छिन्¦ (von पुच्छ) <div n='1'> 1) <lex>adj.</lex> <i>geschwänzt.</i> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Hahn</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <div n='2'>— b) <i>Calotropis gigantea</i> (अर्क) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

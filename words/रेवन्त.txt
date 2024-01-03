@@ -28,5 +28,59 @@
             "pagenum": 545,
             "content": "रेवन्त¦ <i>revanta</i> <ab>m.</ab> <ab>np.</ab> du 5ᵉ <s1 slp1='manu'>Manu</s1> du présent <lbinfo n='4'/> <s1 slp1='kalpa'>kalpa</s1>.  <P><i>revantamanusū</i> <ab>f.</ab> <s1 slp1='saMjYA'>Saṃjñā</s1>, mère du <s1 slp1='manu'>Manu</s1> <s1 slp1='revanta'>Revanta</s1>."
         }
+    ],
+    "MD": [
+        {
+            "word": "रेवन्त",
+            "eid": "15369",
+            "pagenum": 258,
+            "content": "रेवन्त¦ revant-a, <lex>m.</lex> <ab>N.</ab> <i>of a son of the sun and 🞄chief of the Guhyakas</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "रेवन्त",
+            "eid": "179585",
+            "pagenum": 888,
+            "content": "रेवन्त ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1 slp1='sUrya'>Sūrya</s1> and chief of the <s1 slp1='guhyaka'>Guhyaka</s1>s, <ls>VarBṛS.</ls>; <ls>Pur.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रेवन्त",
+            "eid": "179586",
+            "pagenum": 888,
+            "content": "¦ the 5th <s1 slp1='manu'>Manu</s1> of the present <s1 slp1='kalpa'>Kalpa</s1> (<ab>cf.</ab> next and रैवत). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रेवन्त",
+            "eid": "39840",
+            "pagenum": 854,
+            "content": "<i>Revanta, as,</i>¦ m., N. of a son of Sūrya and chief of the Guhyakas; the fifth Manu of the present Kalpa; [cf. <i>raivata.</i>] <i>—Revanta-manu-sū, ūs,</i> f. mother of Manu Revanta, epithet of Sañjñā (wife of Sūrya). <i>—Revantottara (°ta-ut°),</i> N. of a work."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "रेवन्त",
+            "eid": "11776",
+            "pagenum": 3,
+            "content": "<i>Revanta</i>¦ — born of Samjña as a mare of the Sun god. <div n='P'/>Vi. III. 2. 7."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रेवन्त",
+            "eid": "94854",
+            "pagenum": 5,
+            "content": "रेवन्त¦ <lex>m.</lex> <ab>N. pr.</ab> eines Sohnes des Sonnengottes und Hauptes der <is>Guhyaka</is> <ls n='Chr.'>100,17</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रेवन्त",
+            "eid": "85276",
+            "pagenum": 6,
+            "content": "रेवन्त¦ <lex>m.</lex> N. pr. eines Sohnes des Sonnengottes und Hauptes der <is>Guhyaka</is> <ls>H. 103.</ls> <ls>VARĀH. BṚH. S. 58, 56.</ls> <ls>MĀRK. P. 78, 24. 31. 108, 11. 20.</ls> <ls>VP. 266,</ls> <ls>N. 1.</ls> °मनुसू <lex>f.</lex> <i>die Mutter des</i> <is>Manu</is> <is>Revanta</is> (s. रैवत). Bein. der <is>Saṃjñā</is>, einer Gemahlin des Sonnengottes, <ls>TRIK. 1, 1, 100.</ls>"
+        }
     ]
 }

@@ -7,5 +7,35 @@
             "pagenum": 152,
             "content": "eka-janman¦ <i>m.</i> 1. a king, a sovereign; 2. a <i>Śūdra</i>."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकजन्मन्",
+            "eid": "39256",
+            "pagenum": 228,
+            "content": "एक—जन्मन् ¦ <lex>m.</lex> ‘once-born’, a <s1 slp1='SUdra'>Śūdra</s1>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "एकजन्मन्",
+            "eid": "39257",
+            "pagenum": 228,
+            "content": "¦ ‘having pre-eminent birth’, a king, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकजन्मन्",
+            "eid": "21745",
+            "pagenum": 1,
+            "content": "*एकजन्मन्¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Fürst, König</i>. <div n='1'>— 2〉 <i>ein</i> <is>Śūdra</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकजन्मन्",
+            "eid": "13224",
+            "pagenum": 1,
+            "content": "एकजन्मन्¦ (एक + ज°) <lex>m.</lex> <div n='1'> 1) <i>Herrscher, König (dessen Geburt einzig ist</i>) <ls>TRIK. 2, 8, 1.</ls> <div n='1'>— 2) <i>ein</i> <is>Śūdra</is> (<i>der Einmalgeborene</i> im Gegensatz zu द्विजन्मन्) <ls>WILS.</ls>"
+        }
     ]
 }

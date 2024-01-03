@@ -23,5 +23,39 @@
             "pagenum": 167,
             "content": "<b>dám-pati,</b>¦ <i><ab>m.</ab></i> master of the house; <i>as</i> <i>dual,</i> master and mistress, man and wife; pair. [<ab>acct</ab>, <ls n='wg,1267'>1267a</ls>.]"
         }
+    ],
+    "MW": [
+        {
+            "word": "दम्पति",
+            "eid": "90248",
+            "pagenum": 469,
+            "content": "द/म्—पति <hom>a</hom> ¦ (द/म्-), <lex>m.</lex> (= <lang n='greek'>δεσ-πότης</lang>) the lord of the house (<s1 slp1='agni'>Agni</s1>, <s1 slp1='indra'>Indra</s1>, the <s1 slp1='aSvin'>Aśvin</s1>s), <ls n='RV.'>i</ls>; <ls n='RV.'>ii, 39, 2</ls> (<ab>cf.</ab> <ls>Pāṇ. i, 1, 11</ls>, <ls>Kāś.</ls>); <ls n='RV.'>v</ls>, <ls n='RV.'>viii</ls><info lex='m'/>"
+        },
+        {
+            "word": "दम्पति",
+            "eid": "90248.1",
+            "pagenum": 469,
+            "content": "¦ (ई), <ab>du.</ab> (<ab>g.</ab> rAjadantA<srs/>di, the <ab>comp.</ab> taken as a <s1 slp1='dvaMdva'>Dvandva</s1> and दम् in the sense of ‘wife’), ‘the two masters’, husband and wife, <ls n='RV.'>v</ls>, <ls n='RV.'>viii</ls>, <ls n='RV.'>x</ls>; <ls>AV.</ls>; <ls>Gobh.</ls> &c. (said of birds, <ls>VarBṛS. vc</ls>; <ls>Hit.</ls>)<info lex='inh'/>"
+        },
+        {
+            "word": "दम्पति",
+            "eid": "90248.11",
+            "pagenum": 1328,
+            "content": "¦ (<ab>accord.</ab> to some = ‘lord, master’, <ab>fr.</ab> √ दंस् + प्° [<ab>cf.</ab> दन् above]; ई, <ab>du.</ab>, ‘master and mistress’).<info n='sup'/>"
+        },
+        {
+            "word": "दम्पति",
+            "eid": "90317",
+            "pagenum": 469,
+            "content": "द/म्-पति <hom>b</hom> ¦ See <hom>2.</hom> द/म्"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दम्पति",
+            "eid": "21920",
+            "pagenum": 402,
+            "content": "दम्पति¦ <i>dam-pati.</i> See under 2. <i>dam,</i> col. 1."
+        }
     ]
 }

@@ -15,5 +15,47 @@
             "pagenum": 172,
             "content": "<b>Candrānana</b>¦ = Skanda: III, 14632."
         }
+    ],
+    "MW": [
+        {
+            "word": "चन्द्रानन",
+            "eid": "71903",
+            "pagenum": 387,
+            "content": "candrA<srs/>nana ¦ <lex>m.</lex> ‘moon-faced’, <s1 slp1='skanda'>Skanda</s1>, <ls>MBh. iii, 14632</ls><info lex='m'/>"
+        },
+        {
+            "word": "चन्द्रानन",
+            "eid": "71904",
+            "pagenum": 387,
+            "content": "¦ <ab>N.</ab> of a <s1 slp1='jina'>Jina</s1><info lex='inh'/>"
+        },
+        {
+            "word": "चन्द्रानन",
+            "eid": "71905",
+            "pagenum": 387,
+            "content": "¦ of a hero of <s1 slp1='kAlikA'>Kālikā</s1>, <ls>Vīrac. xxx.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चन्द्रानन",
+            "eid": "39106",
+            "pagenum": 2,
+            "content": "चन्द्रानन¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>mondantlitzig</i>. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <ab>Bein.</ab> <is>Skanda</is>ʼs. <div n='2'>— b〉 <ab>N. pr.</ab> <div n='3'>— α〉 eines <is>Jaina</is>. <div n='3'>— β〉 eines Helden der <is>Kālikā</is> <ls>Ind. St. 14</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चन्द्रानन",
+            "eid": "24815",
+            "pagenum": 2,
+            "content": "चन्द्रानन¦ (च° + आनन) <i>mondantlitzig</i>, <lex>m.</lex> Bein. <is>Skanda's</is> <ls>MBH. 3, 14632.</ls>"
+        },
+        {
+            "word": "चन्द्रानन",
+            "eid": "73577",
+            "pagenum": 5,
+            "content": "चन्द्रानन¦ <lex>m.</lex> N. pr. eines <is>Jina</is> <ls>WILSON, Sel. Works 1, 321.</ls>"
+        }
     ]
 }

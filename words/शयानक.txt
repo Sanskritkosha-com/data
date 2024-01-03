@@ -36,5 +36,49 @@
             "pagenum": 710,
             "content": "SayAnaka¦ <i>m.</i> 1. A lizard; 2. a kind of snake."
         }
+    ],
+    "MW": [
+        {
+            "word": "शयानक",
+            "eid": "213407",
+            "pagenum": 1056,
+            "content": "शयानक ¦ <lex>mfn.</lex> lying, resting (See प्रति-सुर्यश्°)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "शयानक",
+            "eid": "213408",
+            "pagenum": 1056,
+            "content": "शयानक ¦ <lex>m.</lex> a lizard, chameleon, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शयानक",
+            "eid": "213409",
+            "pagenum": 1056,
+            "content": "¦ a snake, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शयानक",
+            "eid": "46167",
+            "pagenum": 994,
+            "content": "<i>Śayānaka, as,</i>¦ m. a kind of snake, the boa constrictor; a chameleon, lizard."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शयानक",
+            "eid": "110477",
+            "pagenum": 6,
+            "content": "*शयानक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>liegend, schlafend</i> in *प्रतिसूर्य°. <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>eine Eidechsenart</i>. <div n='2'>— b〉 <i>Schlange</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शयानक",
+            "eid": "98012",
+            "pagenum": 7,
+            "content": "शयानक¦ (von शयान) <div n='1'> 1) <lex>adj.</lex> = शयान in प्रतिसूर्य° . <div n='1'>— 2) <lex>m.</lex> = प्रतिसूर्य° <i>eine Eidechsenart</i> <ls>H. 1299.</ls> <i>Schlange</i> <ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

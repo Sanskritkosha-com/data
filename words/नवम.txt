@@ -55,5 +55,63 @@
             "pagenum": 371,
             "content": "navama¦ <i>a. (f. मी)</i> The ninth."
         }
+    ],
+    "MD": [
+        {
+            "word": "नवम",
+            "eid": "10363",
+            "pagenum": 137,
+            "content": "नवम¦ nava-má, <lex>a.</lex> ninth; <b>ī,</b> <lex>f.</lex> ninth day in 🞄a fortnight."
+        }
+    ],
+    "MW": [
+        {
+            "word": "नवम",
+            "eid": "104526",
+            "pagenum": 531,
+            "content": "<hom>1.</hom> नव—म/ ¦ <lex>mfn.</lex> = नवतम, <ls>RV. v, 57, 3</ls> (<ls>Sāy.</ls>)<info lex='m:f:n'/>"
+        },
+        {
+            "word": "नवम",
+            "eid": "104742",
+            "pagenum": 531,
+            "content": "<hom>2.</hom> नवम/ ¦ <lex>mf(ई)n.</lex> the ninth, <ls>AV.</ls> &c. &c. (<ab>cf.</ab> <hom>1.</hom> नवम/ under <hom>1.</hom> नव)<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "नवम",
+            "eid": "104743",
+            "pagenum": 531,
+            "content": "¦ of 9 kinds, ninefold, <ls>Hcat.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "नवम",
+            "eid": "23983",
+            "pagenum": 473,
+            "content": "<i>Navama, as, ī, am,</i>¦ the 9th; (<i>ā</i>), f., scil. <i>tithi,</i> the 9th day of a lunar half month. <i>—Navamāṃśa</i> <i>(°ma-aṃ°), as,</i> m. <i>= navāṃśa,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "नवम",
+            "eid": "57146",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> नवम/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>der neunte</i>. <div n='2'>— b〉 <i>neunartig</i> <ls>HEMĀDRI 2,58,11</ls>. <div n='1'>— 2〉 <lex>f.</lex> ई <i>der neunte Tag in einem Halbmonat</i>."
+        },
+        {
+            "word": "नवम",
+            "eid": "57147",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> नवम/¦ <lex>Adj.</lex> <ls>ṚV. 5,57,3</ls> = नवतम nach <ls>SĀY.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नवम",
+            "eid": "37979",
+            "pagenum": 4,
+            "content": "नवम/¦ (von नवन्) <lex>adj.</lex> <lex>f.</lex> ई <i>der neunte</i> (das. <lex>f.</lex> mit Ergänzung von तिथि <i>der neunte Tag in einem Halbmonat</i>) <ls>AV. 13, 4, 18.</ls> <ls>VS. 25, 4. 5.</ls> <ls>ŚAT. BR. 3, 4, 1, 15.</ls> <ls n='ŚAT. BR.'>6, 3, 1, 21.</ls> <ls>KĀTY. ŚR. 20, 1, 2.</ls> <ls>HARIV. 7879.</ls> <ls>DEV. 12, 3.</ls> <ls>VET. in LA. 16, 14.</ls> In der Stelle <ls>ṚV. 5, 27, 3</ls> erklärt <ls>SĀY.</ls> नवम durch नवतम ."
+        }
     ]
 }

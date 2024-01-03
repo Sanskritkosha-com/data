@@ -39,5 +39,51 @@
             "pagenum": 157,
             "content": "OrRa¦ <i>a. (f. र्णी)</i> Made of wool."
         }
+    ],
+    "MD": [
+        {
+            "word": "और्ण",
+            "eid": "5292",
+            "pagenum": 60,
+            "content": "और्ण¦ aurṇa, <lex>a.</lex> woollen."
+        }
+    ],
+    "MW": [
+        {
+            "word": "और्ण",
+            "eid": "41197",
+            "pagenum": 239,
+            "content": "और्ण ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> ऊर्णा), made of wool, woollen, <ls>Yājñ. ii, 179</ls>; <ls>MBh.</ls>; <ls>Pāṇ.</ls><info lex='m:f#I:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "और्ण",
+            "eid": "13189",
+            "pagenum": 192,
+            "content": "और्ण¦ <i>aurṇa</i> or <i>aurṇaka, as, ī, am</i> (fr. <i>ūrṇā</i>), made of wool, woollen."
+        }
+    ],
+    "PW": [
+        {
+            "word": "और्ण",
+            "eid": "23037",
+            "pagenum": 1,
+            "content": "और्ण¦ <lex>Adj.</lex> (*<lex>f.</lex> ई) <i>wollen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "और्ण",
+            "eid": "14090",
+            "pagenum": 1,
+            "content": "औ/र्ण¦ (von ऊर्णा) <lex>adj.</lex> <lex>f.</lex> ई <i>wollen</i> <ls>P. 4, 3, 158.</ls> <ls>YĀJÑ. 2, 179.</ls> <ls>MBH. 2, 1823.</ls>"
+        },
+        {
+            "word": "और्ण",
+            "eid": "69235",
+            "pagenum": 5,
+            "content": "और्ण¦ <ls>MBH. 2, 1847</ls> nach der Lesart der <ls>ed. Bomb.</ls>"
+        }
     ]
 }

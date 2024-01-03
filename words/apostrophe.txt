@@ -15,5 +15,19 @@
             "pagenum": 32,
             "content": "<b>APOSTROPHE:</b>¦ <div n='I'>I In Rhe.: सम्बोधनम्। </div><div n='I'>II In gram.: *अमिनिधानम्।</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "apostrophe",
+            "eid": "1010",
+            "pagenum": 20,
+            "content": "APOSTROPHE¦, <i>s.</i> सम्बोधनं, वाक्यालङ्कारविशेषः."
+        },
+        {
+            "word": "apostrophe",
+            "eid": "31867",
+            "pagenum": 851,
+            "content": "APOSTROPHE¦, <i>s.</i> सम्बोधितान्यसम्बोधनं, प्रसक्तानुप्रसक्तान्यसम्बोधनं."
+        }
     ]
 }

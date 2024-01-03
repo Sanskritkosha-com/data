@@ -44,5 +44,47 @@
             "pagenum": 49,
             "content": "इतर/था¦ anders, auf andere Weise, sonst."
         }
+    ],
+    "MW": [
+        {
+            "word": "इतरथा",
+            "eid": "28728",
+            "pagenum": 164,
+            "content": "इ-तर/—था ¦ <lex>ind.</lex> in another manner, in a contrary manner <info n='rev' pc='1320,3'/><info lex='ind'/>"
+        },
+        {
+            "word": "इतरथा",
+            "eid": "28728.1",
+            "pagenum": 164,
+            "content": "¦ perversely<info lex='inh'/>"
+        },
+        {
+            "word": "इतरथा",
+            "eid": "28728.2",
+            "pagenum": 164,
+            "content": "¦ on the other hand, else, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Śiś.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "इतरथा",
+            "eid": "16754",
+            "pagenum": 1,
+            "content": "इतर/था¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>anders, auf andere Weise</i>. <div n='1'>— 2〉 [Page1-202-c] <i>im entgegengesetzten Falle, sonst</i> <ls n='Chr.'>225,1. 232,1. 29. 237,33. 239,19</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इतरथा",
+            "eid": "10023",
+            "pagenum": 1,
+            "content": "इतर/था¦ (wie eben) adv. <i>auf andere Art; in entgegengesetzter Weise, umgekehrt, im entgegengesetzten Falle, sonst</i> <ls>H. ś. 204.</ls> एवमेव चित इतरथाचितः <ls>ŚAT. BR. 8, 7, 2, 10.</ls> एवं देवत्रेतरथा मानुषे <ls n='ŚAT. BR.'>6, 8, 1, 8.</ls> <ls n='ŚAT. BR.'>7, 2, 2, 6.</ls> अथो इतरथाहुः <ls n='ŚAT. BR.'>1, 7, 2, 26.</ls> <ls n='ŚAT. BR.'>3, 4, 4, 7.</ls> इतरथा पात्रे विपर्यस्येते <ls n='ŚAT. BR.'>4, 3, 1, 13.</ls> <ls n='ŚAT. BR. 4,'>4, 5, 19.</ls> <ls n='ŚAT. BR.'>11, 1, 4, 2.</ls> <ls n='ŚAT. BR.'>13, 5, 3, 9.</ls> <ls>KĀTY. ŚR. 1, 8, 28.</ls> इतरथेतरः <ls>ṚV. PRĀT. 13, 10.</ls> <ls n='ṚV. PRĀT.'>11, 24.</ls> <ls>P. 4, 2, 104</ls>, <is>Vārtt</is>. 2. <ls>PAT.</ls> zu <ls n='P.'>8, 3, 74.</ls>"
+        },
+        {
+            "word": "इतरथा",
+            "eid": "67178",
+            "pagenum": 5,
+            "content": "इतरथा¦ <i>sonst</i> <ls>ŚIŚ. 9, 13.</ls>"
+        }
     ]
 }

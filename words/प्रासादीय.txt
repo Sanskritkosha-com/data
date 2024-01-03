@@ -7,5 +7,33 @@
             "pagenum": 777,
             "content": "प्रासादीय¦ <i><ab>a.</ab></i> Palatial, splendid."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रासादीय",
+            "eid": "140417",
+            "pagenum": 709,
+            "content": "<hom>1.</hom> प्रासादीय ¦ <ab>Nom.</ab> <ab>P.</ab> °यति, to imagine one's self to be in a palace, <ls>Pāṇ. iii, 1, 10</ls>, <ab>Vārtt.</ab> 1, <ls>Pat.</ls><info verb='nom' cp='P'/>"
+        },
+        {
+            "word": "प्रासादीय",
+            "eid": "140418",
+            "pagenum": 709,
+            "content": "<hom>2.</hom> प्रासादीय ¦ <lex>mfn.</lex> belonging to a palace, palatial, splendid, <ls>W.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रासादीय",
+            "eid": "33849",
+            "pagenum": 661,
+            "content": "1. <i>prāsādīya,</i>¦ Nom. P. <i>prāsādīyati,</i> &c., to imagine one's self to be in a palace."
+        },
+        {
+            "word": "प्रासादीय",
+            "eid": "33850",
+            "pagenum": 661,
+            "content": "2. <i>prāsādīya, as, ā, am,</i>¦ belonging to a palace, palatial."
+        }
     ]
 }

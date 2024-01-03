@@ -60,5 +60,75 @@
             "pagenum": 178,
             "content": "<b>āná,</b>¦ <ab>m.</ab>, <i>Mund, Antlitz</i> [von an, athmen] = ānana der spätern Sprache. <div n='TS'>-ám {52,15}."
         }
+    ],
+    "MD": [
+        {
+            "word": "आन",
+            "eid": "3598",
+            "pagenum": 39,
+            "content": "आन¦ ān-á, <lex>m.</lex> [breather], face."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आन",
+            "eid": "24313",
+            "pagenum": 139,
+            "content": "आन/ ¦ <lex>m.</lex> (<ab>fr.</ab> √ अन्), face [<ls>NBD.</ls>]<info lex='m'/>"
+        },
+        {
+            "word": "आन",
+            "eid": "24314",
+            "pagenum": 139,
+            "content": "¦ mouth<info lex='inh'/>"
+        },
+        {
+            "word": "आन",
+            "eid": "24315",
+            "pagenum": 139,
+            "content": "¦ nose [<ls>Sāy.</ls>], <ls>RV. i, 52, 15</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आन",
+            "eid": "24316",
+            "pagenum": 139,
+            "content": "¦ exhaling the breath through the nose, <ls>T.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आन",
+            "eid": "24317",
+            "pagenum": 139,
+            "content": "¦ inhalation, breath inspired, breathing, blowing, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आन",
+            "eid": "8540",
+            "pagenum": 121,
+            "content": "आन¦ <i>āna, as,</i> m. (fr. rt. <i>an</i>), inhalation, breath inspired; Ved. mouth, nose; breathing, blowing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आन",
+            "eid": "14605",
+            "pagenum": 1,
+            "content": "आन/¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Gesicht</i>. <div n='1'>— 2〉 *<i>Hauch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आन",
+            "eid": "8547",
+            "pagenum": 1,
+            "content": "1. आन/¦ (von 2. अन्) <lex>m.</lex> <i>das Einathmen</i> <ls>H. 1368.</ls> Nach <ls>SĀY.</ls> <i>Mund</i> oder <i>Nase</i>; viell. <i>Hauch, das Blasen</i> <ls>ṚV. 1, 52, 15</ls> : वृ\\त्रस्य\\ यद्भृ^ष्टि\\मता^ व\\धेन\\ नि त्वमि^न्द्र\\ प्रत्या\\नं ज\\घन्थ^ ."
+        },
+        {
+            "word": "आन",
+            "eid": "8548",
+            "pagenum": 1,
+            "content": "2. आ/न¦ von आन् <is>gaṇa</is> संकलादि zu <ls>P. 4, 2, 75.</ls>"
+        }
     ]
 }

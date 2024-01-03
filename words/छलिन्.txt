@@ -15,5 +15,43 @@
             "pagenum": 279,
             "content": "Calin¦ <i>m.</i> A cheat, a swindler."
         }
+    ],
+    "MW": [
+        {
+            "word": "छलिन्",
+            "eid": "75733",
+            "pagenum": 405,
+            "content": "छलिन् ¦ <lex>m.</lex> a cheat, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "छलिन्",
+            "eid": "75734",
+            "pagenum": 405,
+            "content": "¦ a swindler, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "छलिन्",
+            "eid": "19054",
+            "pagenum": 333,
+            "content": "<i>Chalin, ī,</i>¦ m. cheating, a cheat; a swindler."
+        }
+    ],
+    "PW": [
+        {
+            "word": "छलिन्",
+            "eid": "41007",
+            "pagenum": 2,
+            "content": "*छलिन्¦ <lex>m.</lex> <i>Betrüger</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "छलिन्",
+            "eid": "26153",
+            "pagenum": 2,
+            "content": "छलिन्¦ (von छल) <lex>m.</lex> <i>Betrüger</i> <ls>WILS.</ls>"
+        }
     ]
 }

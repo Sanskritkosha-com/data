@@ -31,5 +31,35 @@
             "pagenum": 798,
             "content": "soma-pati¦ <i>m.</i> an epithet of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "सोमपति",
+            "eid": "252852",
+            "pagenum": 1250,
+            "content": "सो/म—पति ¦ (सो/म-), <lex>m.</lex> ‘lord of <ab n='Soma' slp1='soma'>S°</ab>’, <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>RV.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सोमपति",
+            "eid": "252852.1",
+            "pagenum": 1250,
+            "content": "¦ a lord of the moon, <ls>Kṛṣṇaj.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सोमपति",
+            "eid": "129581",
+            "pagenum": 7,
+            "content": "सो/मपति¦ <lex>m.</lex> <i>Herr</i>. <div n='1'>— 1〉 <i>des</i> <is>Soma</is>. <div n='1'>— 2〉 <i>des Mondes</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सोमपति",
+            "eid": "112874",
+            "pagenum": 7,
+            "content": "सो/मपति¦ <lex>m.</lex> <i>Herr des</i> <is>Soma</is>: <is>Indra</is> <ls>ṚV. 1, 76, 3.</ls> <ls n='ṚV.'>3, 32, 1.</ls> <ls n='ṚV.'>8, 21, 3.</ls> <i>Herr des Mondes</i>: <is>Kṛṣṇa</is> <ls>WEBER, KṚṢṆAJ. 298</ls>; Vgl. सोमस्य पतिः <ls n='WEBER, KṚṢṆAJ.'>299.</ls>"
+        }
     ]
 }

@@ -189,5 +189,379 @@
             "pagenum": 354,
             "content": "Darma¦ <i>m.</i> 1. The prescribed course of conduct, the prescribed ceremonial, <ls>M.</ls>i.81; 3. ordinance, law, custom, practice, <ls>M.</ls>ii.12; 3. piety, propriety; 4. duty, एक एव सुहृद्धर्मो निधनेऽप्यनुयाति यः <ls>Hit.</ls>i.; 5. justice, equity; 6. moral merit; 7. nature, character; 8. an essential quality, a peculiarity; 9. resemblance, likeness; 10. a sacrifice; 11. good company; 12. an <i>Upanishad</i> q.v.; 13. the soul; 14. name of Yama, the god of death; 15. name of the eldest Pāṇḍava prince begotten on Kuntī by Yama, the god of death."
         }
+    ],
+    "MD": [
+        {
+            "word": "धर्म",
+            "eid": "9944",
+            "pagenum": 130,
+            "content": "धर्म¦ dhár-ma, <lex>m.</lex> established order, usage, 🞄institution, custom, prescription; rule; duty; 🞄virtue, moral merit, good works; right; justice; 🞄law (concerning, <ab>g.</ab> <i>or</i> <ab>—°</ab>); <i>often personified</i>, 🞄<ab>esp.</ab> <i>as</i> Yama, <i>judge of the dead, 🞄and as a</i> Prajāpati; nature, character, essential 🞄quality, characteristic attribute, property: 🞄<ab>in.</ab> <b>dhārmeṇa,</b> in accordance with law, 🞄custom, <i>or</i> duty, as is <i>or</i> was right; <ab>—°</ab>, after 🞄the manner of, in accordance with; <b>dharme</b> 🞄<b>sthita,</b> observing the law, true to oneʼs duty."
+        }
+    ],
+    "MW": [
+        {
+            "word": "धर्म",
+            "eid": "99903",
+            "pagenum": 510,
+            "content": "<hom>1.</hom> ध/र्म ¦ <lex>m.</lex> (rarely <lex type='hwalt'>n.</lex> <ab>g.</ab> arDarcA<srs/>di; the older form of the <ls>RV.</ls> is ध/र्मन्, <ab>q.v.</ab>) that which is established or firm, steadfast decree, statute, ordinance, law<info lex='m:n'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99904",
+            "pagenum": 510,
+            "content": "¦ usage, practice, customary observance or prescribed conduct, duty<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99905",
+            "pagenum": 510,
+            "content": "¦ right, justice (often as a synonym of punishment)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99906",
+            "pagenum": 510,
+            "content": "¦ virtue, morality, religion, religious merit, good works (ध/र्मेण <lex type='phw'>ind.</lex> or °मात् <lex type='phw'>ind.</lex> according to right or rule, rightly, justly, according to the nature of anything; <ab>cf.</ab> below; °मेस्थित <lex type='phw'>mfn.</lex> holding to the law, doing one's duty), <ls>AV.</ls> &c. &c.<info phwchild='99930.1'/><info phwchild='99930.2'/><info phwchild='99930.3'/><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99907",
+            "pagenum": 510,
+            "content": "¦ Law or Justice personified (as <s1 slp1='indra'>Indra</s1>, <ls>ŚBr.</ls> &c.; as <s1 slp1='yama'>Yama</s1>, <ls>MBh.</ls>; as born from the right breast of <s1 slp1='yama'>Yama</s1> and father of <s1 slp1='Sama'>Śama</s1>, <s1 slp1='kAma'>Kāma</s1> and <s1 slp1='harza'>Harṣa</s1>, <ls>ib.</ls>; as <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>Hariv.</ls>; as <s1 slp1='prajA-pati'>Prajā-pati</s1> and son-in-law of <s1 slp1='dakza'>Dakṣa</s1>, <ls>Hariv.</ls>; <ls>Mn.</ls> &c.; as one of the attendants of the Sun, <ls>L.</ls>; as a Bull, <ls>Mn. viii, 16</ls>; as a Dove, <ls>Kathās. vii, 89</ls>, &c.)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99908",
+            "pagenum": 510,
+            "content": "¦ the law or doctrine of Buddhism (as distinguished from the सङ्घ or monastic order, <ls>MWB. 70</ls>)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99909",
+            "pagenum": 510,
+            "content": "¦ the ethical precepts of Buddhism (or the principal धर्म called सूत्र, as distinguished from the अभि-धर्म or ‘further <s1 slp1='Darma'>dharma</s1>’ and from the विनय or ‘discipline’, these three constituting the canon of Southern <ab n='Buddhism'>B°</ab>, <ls>MWB. 61</ls>)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99910",
+            "pagenum": 510,
+            "content": "¦ the law of Northern <ab n='Buddhism'>B°</ab> (in 9 canonical scriptures, <ab>viz.</ab> <s1 slp1='prajYA-pAramitA'>Prajñā-pāramitā</s1>, <s1 slp1='gaRqa-vyUha'>Gaṇḍa-vyūha</s1>, <s1 slp1='daSa-BUmISvara'>Daśa-bhūmīśvara</s1>, <s1 slp1='samADirAja'>Samādhirāja</s1>, <s1 slp1='laNkAvatAra'>Laṅkāvatāra</s1>, <s1 slp1='sadDarma-puRqarIka'>Saddharma-puṇḍarīka</s1>, <s1 slp1='taTA-gata-guhyaka'>Tathā-gata-guhyaka</s1>, <s1 slp1='lalita-vistara'>Lalita-vistara</s1>, <s1 slp1='suvarRa-praBAsa'>Suvarṇa-prabhāsa</s1>,<ls>ib.</ls> <ls n='MWB.'>69</ls>)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99911",
+            "pagenum": 510,
+            "content": "¦ nature, character, peculiar condition or essential quality, property, mark, peculiarity (= स्व-भाव, <ls>L.</ls>; <ab>cf.</ab> दश-ध्°अर्म-गत, <ls>ŚBr.</ls> &c. &c.; upamAno<srs/>pameyayor D°, the tertium comparationis, <ls>Pāṇ. ii, 1, 55</ls>, <ab>Sch.</ab>)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99912",
+            "pagenum": 510,
+            "content": "¦ a <ab>partic.</ab> ceremony, <ls>MBh. xiv, 2623</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99913",
+            "pagenum": 510,
+            "content": "¦ sacrifice, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99914",
+            "pagenum": 510,
+            "content": "¦ the ninth mansion, <ls>Var.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99915",
+            "pagenum": 510,
+            "content": "¦ an <s1 slp1='upanizad'>Upaniṣad</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99916",
+            "pagenum": 510,
+            "content": "¦ associating with the virtuous, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99917",
+            "pagenum": 510,
+            "content": "¦ religious abstraction, devotion, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99918",
+            "pagenum": 510,
+            "content": "¦ = उपमा, <ls>L.</ls> (<ab>cf.</ab> above)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99919",
+            "pagenum": 510,
+            "content": "¦ a bow, <ls>Dharmaś.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99919.1",
+            "pagenum": 1329,
+            "content": "¦ a thing, <ls>Sukh. i</ls><info n='sup'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99920",
+            "pagenum": 510,
+            "content": "¦ a <s1 slp1='soma'>Soma</s1>-drinker, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99921",
+            "pagenum": 510,
+            "content": "¦ <ab>N.</ab> of the 15th <s1 slp1='arhat'>Arhat</s1> of the present <s1 slp1='ava-sarpiRI'>Ava-sarpiṇī</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99922",
+            "pagenum": 510,
+            "content": "¦ of a son of <s1 slp1='anu'>Anu</s1> and father of <s1 slp1='Gfta'>Ghṛta</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99923",
+            "pagenum": 510,
+            "content": "¦ of a <ab n='son'>s°</ab> of <s1 slp1='gAnDAra'>Gāndhāra</s1> and <ab n='father'>f°</ab> of <s1 slp1='Dfta'>Dhṛta</s1>, <ls>Pur.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99924",
+            "pagenum": 510,
+            "content": "¦ of a <ab n='son'>s°</ab> of <s1 slp1='hEhaya'>Haihaya</s1> and <ab n='father'>f°</ab> of <s1 slp1='netra'>Netra</s1>, <ls>BhP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99925",
+            "pagenum": 510,
+            "content": "¦ of a <ab n='son'>s°</ab> of <s1 slp1='pfTu-Sravas'>Pṛthu-śravas</s1> and of <s1 slp1='uSanas'>Uśanas</s1>, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99926",
+            "pagenum": 510,
+            "content": "¦ of a <ab n='son'>s°</ab> of <s1 slp1='su-vrata'>Su-vrata</s1>, <ls>VP.</ls> (<ab>cf.</ab> धर्म-सूत्र)<info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99927",
+            "pagenum": 510,
+            "content": "¦ of a <ab n='son'>s°</ab> of <s1 slp1='dIrGa-tapas'>Dīrgha-tapas</s1>, <ls>VāyuP.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99928",
+            "pagenum": 510,
+            "content": "¦ of a king of <s1 slp1='kaSmIra'>Kaśmīra</s1>, <ls>Rāj. iv, 678</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99929",
+            "pagenum": 510,
+            "content": "¦ of another man, <ls>ib.</ls> <ls n='Rāj.'>vii, 85</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99930",
+            "pagenum": 510,
+            "content": "¦ of a lexicographer &c. (also -पण्डित, -भट्ट and -शास्त्रिन्), <ls>Cat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "99930.05",
+            "pagenum": 510,
+            "content": "धर्म ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>firmus</etym>, <ab>Lith.</ab> <etym>dermė́</etym>.]"
+        },
+        {
+            "word": "धर्म",
+            "eid": "100471",
+            "pagenum": 512,
+            "content": "<hom>2.</hom> धर्म ¦ <ab>Nom.</ab> <ab>P.</ab> °मति, to become, law, <ls>Vop.</ls><info verb='nom' cp='P'/>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "100472",
+            "pagenum": 512,
+            "content": "<hom>3.</hom> ध/र्म ¦ in <ab>comp.</ab> for °मन्, <ab>q.v.</ab>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "100518",
+            "pagenum": 513,
+            "content": "धर्म <hom>a</hom> ¦ See <pcol>p. 510, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "धर्म",
+            "eid": "23240",
+            "pagenum": 449,
+            "content": "1. <i>dharma, as, am,</i>¦ m. n. (rarely n.; the older form which occurs in the Ṛg-veda is <i>dharman,</i> q. v.; for 2. <i>dharma</i> see p. 451, col. 3), that which is to be held fast or kept, ordinance, statute, law, usage, practice, custom, the customary observances of caste, sect, &c.; religion, piety; prescribed course of conduct, duty, (thus ‘giving alms’ &c. is the <i>dharma</i> of the householder, ‘administering justice’ of a king, ‘piety’ of a Brāhman, ‘courage’ of a Kṣatriya); right, justice, equity, anything right, proper, or just; virtue, morality, morals, merit, good works; nature, character, the peculiar state or condition of anything; an essential or characteristic quality, mark, peculiarity; manner, resemblance; any sacrifice; a peculiar kind of sacrifice; an Upaniṣad; religious abstraction, devotion (<i>= yoga</i>); associating with the virtuous; a bow; a drinker of Soma juice; Right, Justice, Law, or Virtue personified (as born from the right breast of Brahmā, and having Śama, Kāma, and Harṣa as his offspring); or personified as a Bull; or personified as a Dove; a N. of Yama (the Hindū Pluto, ruler of the lower regions, god of justice, and judge of the dead); one of the attendants of the god of the Sun; Justice or Virtue identified with Viṣṇu; also identified with Prajā-pati, and said to be son-inlaw of Dakṣa; N. of the fifteenth Arhat of the present Ava-sarpiṇī, descended from Ikṣvāku, son of Bhānu and Su-vratā; N. of a son of Anu and father of Ghṛta; of a son of Gāndhāra and father of Dhṛta; of a son of Haihaya and father of Netra; of a son of Pṛthu-śravas and father of Uśanas; of a son of Su-vrata; of a son of Dīrgha-tapas; of a prince of Kaśmīra; of a lexicographer; (in astrology) N. of the ninth mansion; <i>dharmāt</i> or <i>dharmeṇa,</i> ind. according to right, rightly, justly, according to rule, according to the nature of anything. <i>—Dhar-</i> <i>ma-kathaka, as,</i> m. a propounder of the law. <i>—Dharma-kathā,</i> f. a discourse upon law, &c. <i>—Dharma-karman, a,</i> n. a work of duty or piety; any virtuous or pious action. <i>—Dharma-kāma, as,</i> <i>ā, am,</i> loving justice, observing right or duty; (<i>as</i>), m., N. of a son of the demon Pāpīyas; of a god of the Bodhi tree. <i>—Dharma-kāmārtha-sambaddha</i> <i>(°ma-ar°), as, ā, am,</i> joined with or containing virtue, pleasure, and wealth. <i>—Dharma-kāya, as,</i> m. ‘the body of law or of abstract existence,’ epithet of one of the three bodies of a Buddha; (<i>as</i>), m. a Buddha; a Jina or Jaina saint; an epithet of Avalokiteśvara. <i>—Dharma-kāra, as,</i> m. a doer or observer of the law; N. of a person. <i>—Dharma-kāraṇa, am,</i> n. cause of virtue. <i>—Dharma-kārya, am,</i> n. any act of duty or religion (as digging a well, building a temple, &c.); pious act, good work, virtuous conduct. <i>—Dhar-</i> <i>ma-kīrtti, is,</i> m. ‘glory of religion,’ N. of a poet; of a logician; of a king mentioned in the twenty-first chapter of the Vṛhan-nāradīya-Purāṇa. <i>—Dharma-</i> <i>kīla, as,</i> m. royal edict or order, decree, grant. <i>—Dharma-kīlaka, as,</i> m. the command of a Brāhman. <i>—Dharma-kūpa, as,</i> m. ‘the holy well,’ N. of a Tīrtha. <i>—1. dharma-kṛt, t, t, t</i> (for 2. see under <i>dharman</i>), fulfilling duty, one who acts justly or practises virtue. <i>—Dharma-kṛtya, am,</i> n. fulfilment of duty, virtue; any moral or religious observance. <i>—Dharma-ketu, us,</i> m. ‘having justice for a banner or symbol,’ N. of a son of Su-ketu and father of Satya-ketu; N. of a Buddha; of a Jaina deified saint. <i>—Dharma-kośa</i> or <i>dharma-koṣa, as,</i> m. the treasury of law or duties; the collective body of laws or duties. <i>—Dharmakośa-vyākhyā,</i> f. ‘the explanation of the treasury of law,’ N. of a Buddhist work. <i>—Dharma-kriyā,</i> f. observance of duties, acting according to law, righteous conduct, any religious act or pious work. <i>—Dharma-kṣetra, am,</i> n. the department or province of the law; a plain in the north-west of India near Delhi (the scene of the great battle between the Kurus and Pāṇḍus, commonly called Kuru-kṣetra); (<i>as</i>), m. a man of piety and virtue. <i>—Dharma-gañja, as,</i> m. ‘treasury of law or religion,’ N. of a library. <i>—Dharma-gaveṣa,</i> <i>as,</i> m. ‘seeking virtue &c.,’ N. of a man. <i>—Dhar-</i> <i>ma-gahanābhyudgata-rāja (°na-abh°), as,</i> m. ‘a prince who has threaded the labyrinth of the law,’ N. of a Buddha. <i>—Dharma-gupta, as,</i> m. ‘protected by the law,’ N. of several persons; (<i>ās</i>), m. pl., N. of a Buddhist school. <i>—Dharmagupta-miśra,</i> <i>as,</i> m., N. of an author mentioned in the Saṅkṣepaśaṅkara-jaya by Mādhava. <i>—Dharma-grantha, as,</i> m. book of the law, sacred scriptures. <i>—Dharma-gra-</i> <i>haṇa, am,</i> n. observance of moral or religious precepts, accepting or following the law. <i>—Dharma-ghaṭa, as,</i> m. a jar of fragrant water offered daily in the month Vaiśākha. <i>—Dharma-ghna, as, ī, am,</i> ‘destroying law or right,’ contrary to law or duty, immoral, unlawful; (<i>as</i>), m. (?), the plant Terminalia Bellerica (so called because the seeds are used as dice). <i>—Dharma-cakra, am,</i> n. ‘the wheel or circle of religion or law,’ (an expression used to denote the vast range of Dharma); a kind of mythical weapon; (<i>as</i>), m. ‘having the wheel of Dharma,’ a Buddha. <i>—Dharmacakra-bhṛt, t,</i> m. ‘holding the wheel of Dharma,’ a Buddha or Jaina. <i>—Dharma-caraṇa,</i> <i>am,</i> n. or <i>dharma-caryā,</i> f. observance of the law, performance of duty. <i>—Dharma-cārin, ī, iṇī, i,</i> observing the law, fulfilling one's duties, practising virtue, virtuous, dutiful, moral; (<i>ī</i>), m., N. of a Buddhist deity; epithet of Śiva; (<i>iṇī</i>), f. a female helpmate in the fulfilment of duties, especially a wife, an honest wife, a virtuous woman. <i>—Dharma-</i> <i>cintaka, as, ā, am,</i> reflecting on the law, studying duty, familiar with it. <i>—Dharma-cintana, am,</i> n. or <i>dharma-cintā,</i> f. pondering on the law or duty, study of virtue, consideration of moral duties, virtuous reflection. <i>—Dharma-cinti, is, is, i,</i> reflecting on the law or duty; an epithet of Śākya-muni; (perhaps wrongly for <i>dharma-cintin.</i>) <i>—Dharma-ja, as, ā,</i> <i>am,</i> produced by a sense of duty; (<i>as</i>), m. ‘son of Dharma, judge of the dead,’ an epithet of Yudhiṣṭhira. <i>—Dharma-jijñāsā,</i> f. ‘inquiry into the law,’ N. of a Pariśiṣṭa ascribed to Kātyāyana. <i>—Dharma-</i> <i>jīvana, as, ā, am,</i> living by fulfilment of prescribed duties, a Brāhman who lives according to the rules of his class, one who practises the outward acts of the law. <i>—Dharma-jña, as, ā, am,</i> knowing the law or what is right, knowing one's duty, conversant with virtue. <i>—Dharma-jñāna, am,</i> n. knowledge of moral, legal, and religious duty. <i>—Dharma-tattva,</i> <i>am,</i> n., N. of a Mīmāṃsā work by Kamalākara. <i>—Dharmatattva-vid, t, t, t,</i> knowing the truths of law or religion. <i>—Dharma-tas,</i> ind. according to law or to rule, rightly, justly, religiously, righteously, virtuously; from a virtuous motive. <i>—Dharma-tīr-</i> <i>tha, am,</i> n. ‘the holy Tīrtha,’ N. of a sacred place of pilgrimage. <i>—Dharma-tyāga, as,</i> m. abandonment of religion, apostacy. <i>—Dharma-trāta, as,</i> m. ‘protected by the law,’ N. of a Buddhist author. <i>—Dharma-tva, am,</i> n. religion, virtue, righteousness, morality, piety; inherent nature, peculiar property. <i>—Dharma-da, as, ā, am,</i> giving or granting virtue; (<i>as</i>), m., N. of one of the attendants of Skanda. <i>—Dharma-datta, as,</i> m. ‘given by religion,’ N. of a writer on rhetoric. <i>—Dharma-darśana,</i> <i>am,</i> n. seeing or knowing duty or the law. <i>—Dhar-</i> <i>ma-dāna, am,</i> n. a gift made from a sense of duty (without regard to self-interest). <i>—Dharma-dāra,</i> <i>ās,</i> m. pl. a lawful wife; [cf. <i>dharma-patnī.</i>] <i>—Dharma-dāsa, as,</i> m. ‘the slave of duty,’ N. of a poet, author of the Vidagdha-mukha-maṇḍana. <i>—Dharma-dinnā,</i> f. ‘given by religion,’ (<i>dinna</i> in Pāli <i>= datta</i>), N. of a female. <i>—Dharma-dīpikā,</i> f., N. of a work. <i>—Dharma-dughā,</i> f. a cow milked for the fulfilment of religious duty. <i>—Dhar-</i> <i>ma-dṛḍhābhedya-sunilambha (°ḍha-abh°), as,</i> m., N. of a king of the Garuḍas. <i>—Dharma-dṛś,</i> <i>k, k, k,</i> seeing the right, regarding piety. <i>—Dharma-</i> <i>dravī,</i> f. ‘having law or virtue for its waters,’ the Ganges. <i>—Dharma-drohin, ī, iṇī, i,</i> violating the law or right; (<i>ī</i>), m. a Rākṣasa. <i>—Dharma-dve-</i> <i>ṣin, ī,</i> m. the plant Terminalia Bellerica; see <i>dharma-ghna</i>. <i>—Dharma-dhara, as,</i> m. ‘supporter of the law,’ N. of a king of the Kin-naras. <i>—Dharma-dhātu, us,</i> m. ‘the element of law or of existence,’ one of the eighteen Dhātus of the Buddhists; a Buddha (‘whose Dhātu is Dharma’). <i>—Dharmadhātu-vāg-īśvara, as,</i> m., N. of a deity. <i>—Dharma-dhṛt, t, t, t,</i> Ved. observing the law. <i>—Dharma-dhṛṣ, k,</i> m. (<i>dhṛk</i> is also referred to rt. <i>dhṛ</i> or to rt. <i>dṛh</i>), ‘supporter of the law or right,’ N. of a son of Śva-phalka; [cf. <i>dharma-bhṛt.</i>] <i>—Dharma-dhvaja, as, ā, am,</i> ‘whose banner is virtue,’ one who hangs out the flag of religion for selfish purposes, one who makes a livelihood by assumed devotion, a religious hypocrite or impostor; (<i>as</i>), m., N. of the Sun; of a king of Mithilā, son of Kuśa-dhvaja and father of Amita-dhvaja and Kṛta-dhvaja; N. of a brother of Kuśa-dhvaja; of a king of Kāṅkana-pura. <i>—Dharma-dhvajin, ī, inī,</i> <i>i,</i> ‘hoisting the flag or colours of religion,’ a religious hypocrite or impostor, one who makes a livelihood by assumed devotion. <i>—Dharma-nada, am,</i> n., N. of a sacred lake; (according to a legend, a metamorphosis of the god Dharma.) <i>—Dharma-nan-</i> <i>dana, as,</i> m. ‘Dharma's joy, a son of the god Dharma,’ properly an epithet of Yudhi-ṣṭhira, but applied in Bhāg.-Purāṇa I. 9, 12, to all the sons of Pāṇḍu; [cf. <i>dharma-ja, dharma-putra, dharma-</i> <i>suta.</i>] <i>—Dharma-nandin, ī,</i> m., N. of a Buddhist who translated certain sacred writings into Chinese. <i>—Dharma-nātha, as,</i> m. legal protector, rightful lord. <i>—Dharma-nābha, as,</i> m. ‘the centre of the law,’ an epithet of Viṣṇu; N. of a king. <i>—Dhar-</i> <i>ma-nibandha, as,</i> m. attachment to virtue or religion, piety, virtue. <i>—Dharma-nibandhin, ī, inī,</i> <i>i,</i> pious, attached to virtue, engaged in religious duties, holy. <i>—Dharma-niveśa, as,</i> m. religious devotion. <i>—Dharma-niṣpatti, is,</i> f. fulfilment or discharge of duty, moral or religious observance. <i>—Dharma-netra, as,</i> m. ‘law-eyed,’ N. of a grandson of Dhṛta-rāṣṭra; of a son of Taṃsu and father of Dush-manta (Dushyanta). <i>—Dharma-paṭṭa, as,</i> m. the band of law or duty. <i>—Dharma-pati, is,</i> m., Ved. the lord or guardian of order and law. <i>—Dhar-</i> <i>ma-pattana, am,</i> n. ‘the city of the law,’ epithet of the city of Śrāvantī [cf. <i>dharma-paṭṭana</i>]; pepper. <i>—Dharma-pattra, am,</i> n. the plant Ficus Glomerata. <i>—Dharma-patnī,</i> f. a lawful wife, a man's first wife, a wife of the same caste with her husband and married conformably to the established law. <i>—Dharma-patha, as,</i> m. the way of duty or virtue, virtuous course; N. of a merchant. <i>—Dhar-</i> <i>ma-pathin, -panthās,</i> m. the way of duty or virtue. <i>—Dharma-para, as, ā, am,</i> intent on virtue, devoted to duty; pious, righteous. <i>—Dharma-pā-</i> <i>ṭhaka, as,</i> m. a teacher of law, a lawyer. <i>—Dharma-</i> <i>pāla, as,</i> m. ‘protector or guardian of the law,’ metaphorical expression for ‘punishment’ or for ‘a sword;’ N. of a minister of king Daśa-ratha; of a learned Buddhist; of a prince. <i>—Dharma-pālaka,</i> <i>as, ikā, am,</i> observing the law, dutiful. <i>—Dharma-</i> <i>pāśa, as,</i> m. ‘the noose of the god of justice,’ N. of a mythical weapon. <i>—Dharma-pīṭha,</i> ‘the seat of law,’ N. of a place in Vārāṇasī. <i>—Dharma-pīḍā,</i> f. an offence against the law, transgressing the law or right. <i>—Dharma-putra, as,</i> m. a lawful son, a son begot from a sense of duty (not from sensual pleasure); ‘son of the god Dharma,’ epithet of Yudhi-ṣṭhira; (<i>au</i>), m. du. epithet of the Ṛṣis Nara and Nārāyaṇa. <i>—Dharma-pura, am,</i> n. ‘the city of the law,’ N. of a town situated on the Narmadā river. <i>—Dharma-purāṇa, am,</i> n. ‘the Purāṇa of law,’ N. of a work. <i>—Dharma-pracāra, as,</i> m. ‘the course of law or right,’ metaphorical expression for ‘a sword.’ <i>—Dharma-pradīpa, as,</i> m. ‘light of the law,’ N. of a work composed by Dhanañ-jaya. <i>—Dharmapradīpa-vyākhyāna, am,</i> n. ‘the explanation of the lamp of law,’ N. of a commentary to the preceding work. <i>—Dharma-pradhāna, as,</i> <i>ā, am,</i> eminent in piety. <i>—Dharma-prabhāsa, as,</i> m. ‘illuminator of the law,’ N. of a Buddha. <i>—Dhar-</i> <i>ma-pravaktṛ, tā,</i> m. a teacher or expounder of the law. <i>—Dharma-pravacana, am,</i> n. enunciation of the law, the act of propounding the law. <i>—Dharma-prastha, as,</i> m. ‘the table-land of the god Dharma,’ N. of a place. <i>—Dharma-priya, as,</i> m. ‘a friend of the law,’ N. of a Buddhist scholar. <i>—Dharma-bala, as,</i> m. ‘the strength of law,’ N. of a man. <i>—Dharma-bāṇijika, as,</i> m. one who tries to make a profit out of his virtue like a merchant. <i>—Dharma-buddhi, is, is, i,</i> virtuously-minded, virtuous; (<i>is</i>), m., N. of a king. <i>—Dharma-bha-</i> <i>ginī,</i> f. a lawful sister, a female that has the rights of a sister; ‘a sister in respect of religion,’ i. e. as belonging to the same religion; [cf. <i>dharma-bhrātṛ.</i>] <i>—Dharma-bhāgin, ī, inī, i,</i> possessed of religion or virtue; (<i>inī</i>), f. a virtuous wife. <i>—Dharma-bhā-</i> <i>ṇaka, as,</i> m. ‘an expounder of the law;’ a lecturer, a public reader of the Mahā-bhārata and other sacred works which are read aloud and explained to large assemblies of Hindūs at particular seasons. <i>—Dhar-</i> <i>ma-bhikṣuka, as,</i> m. a mendicant from virtuous motives. <i>—Dharma-bhīruka, as, ā, am,</i> tremblingly alive to duty. <i>—Dharma-bhṛt, t,</i> m. ‘a supporter of law, a maintainer of justice,’ (often an epithet of a king); a virtuous person; N. of a son of Śva-phalka. <i>—Dharma-bhṛta, as,</i> m., N. of one of the sons of the thirteenth Manu. <i>—Dharma-bhrātṛ, tā,</i> m. ‘a brother in respect of religion,’ a fellow religious student, any one regarded as a brother from discharging the same religious duties; [cf. <i>dharma-bhaginī.</i>] <i>—Dharma-mati, is,</i> m. ‘virtuous-minded,’ N. of a prince; of a god; of the Bodhi tree. <i>—Dharma-</i> <i>maya, as, ī, am,</i> consisting of law or virtue, made up or replete with virtue, moral, righteous. <i>—Dhar-</i> <i>ma-mahāmātra, as,</i> m. a minister in matters of religion. <i>—Dharma-mātra, as, ā, am,</i> depending only on custom. <i>—Dharma-mārga, as,</i> m. the path of virtue. <i>—Dharma-mitra, as,</i> m., N. of a Buddhist. <i>—Dharma-mīmāṃsā-saṅgraha, as,</i> m. ‘an abridgment of the inquiry into Dharma,’ N. of a Mīmāṃsā work by Kṛṣṇa-deva. <i>—Dharma-mūla,</i> <i>am,</i> n. the foundation of Hindū law and religion, the Vedas. <i>—Dharma-meghā,</i> f., N. of one of the ten Bhūmis with Buddhists. <i>—Dharma-yuga, am,</i> n. ‘the age of religion,’ the Kṛta-yuga. <i>—Dharma-</i> <i>yuj, k, k, k,</i> righteous, pious, just. <i>—Dharma-rak-</i> <i>ṣitā,</i> f., N. of a female. <i>—Dharma-rati, is, is, i,</i> ‘delighting in justice or virtue,’ N. of one of the sons of the demon Pāpīyas. <i>—Dharma-ratna, am,</i> n. ‘gem of the law,’ N. of a work. <i>—Dharma-ratha, as,</i> m. ‘whose chariot is dharma,’ N. of a son of Sagara; of Divi-ratha. <i>—Dharma-rāj, ṭ,</i> m. ‘the king of justice,’ epithet of Yama; of Yudhi-ṣṭhira; of a king of the herons, son of Kaśyapa and an Apsaras. <i>—Dharma-rāja, as,</i> m. ‘king of justice,’ an epithet of Yama; an epithet of Yudhi-ṣṭhira; a king in general; a Buddha. <i>—Dharmarāja-tā,</i> f. the rank or title of Dharma-rāja. <i>—Dharmarāja-dīkṣita,</i> <i>as,</i> m., N. of the author of the Vedānta-paribhāṣā. <i>—Dharma-rājan, ā,</i> m. ‘king of justice,’ epithet of Yudhi-ṣṭhira. <i>—Dharmarāja-purogama, as,</i> <i>ā, am,</i> having Yudhi-ṣṭhira for a leader; headed by Yudhi-ṣṭhira. <i>—Dharma-rājikā,</i> f. a Stūpa. <i>—Dharma-ruci, is,</i> m., N. of a god of the Bodhi tree; N. of a man. <i>—Dharma-rodhin, ī, inī, i,</i> opposed to law or virtue, illegal, immoral. <i>—Dhar-</i> <i>ma-lakṣaṇa, am,</i> n. an essential mark or characteristic of ethics or law, as place, time, &c. <i>—Dharma-</i> <i>lopa, as,</i> m. irreligion. <i>—Dharma-vat, ān, atī, at,</i> endowed with virtue, virtuous, pious, upright, just, lawful; accompanied by Dharma; (<i>atī</i>), f., N. of a Mudrā; N. of a queen. <i>—Dharma-vatsala, as, ā,</i> <i>am,</i> tenderly alive to duty, loving piety. <i>—Dhar-</i> <i>ma-vartin, ī, inī, i,</i> ‘abiding in duty,’ righteous. <i>—Dharma-vardhana, as, ā, am,</i> ‘increasing right or virtue,’ an epithet of Śiva; (<i>as</i>), m., N. of a king of Śrāvastī; of a poet; (<i>am</i>), n., N. of a town. <i>—Dharma-varman, a,</i> n. ‘shield or armour of justice or virtue,’ epithet of Kṛṣṇa. <i>—Dharma-vāda,</i> <i>as,</i> m. discussion or argument about law or duty. <i>—Dharma-vādin, ī, inī, i,</i> discussing the law or duty. <i>—Dharma-vāsara, as,</i> m. ‘day of religious duties,’ the day of full moon, peculiar sacrifices being performed on this day. <i>—Dharma-vāhana, as,</i> m. ‘whose vehicle is the bull, considered as a personification of virtue,’ an epithet of Śiva. <i>—Dharma-</i> <i>vāhya, as, ā, am,</i> ‘outside the law,’ contrary to what is right. <i>—Dharma-vicāra-saṅgraha, as,</i> m., N. of an abridgment of the Mīmāṃsā-sūtras by the Muni Jaimini. <i>—Dharma-vid, t, t, t,</i> acquainted with the law, duty-knowing, endued with a sense of justice, virtuous, pious, moral. <i>—Dharma-vidyā,</i> f. knowledge of the law or right; [cf. <i>dhārmavidya.</i>] <i>—Dharma-vidhi, is,</i> m. legal precept or injunction. <i>—Dharma-viplava, as,</i> m. ‘confusion or violation of duty,’ immorality, wickedness. <i>—Dharma-vivar-</i> <i>dhana, as,</i> m. ‘promoter of law or right,’ epithet of a son of Aśoka, <i>= kunāla</i>. <i>—Dharma-viveka,</i> <i>as,</i> m. investigation of right or virtue. <i>—Dharma-</i> <i>viveka-vākya, am,</i> n., N. of a short poem ascribed to Halāyudha. <i>—Dharma-vivecana, am,</i> n. judicial investigation. <i>—Dharma-vṛtti, is,</i> f. ‘explanation of the law,’ N. of a chapter of the Śārṅgadharapaddhati. <i>—Dharma-vṛddha, as,</i> m. ‘advanced in virtue,’ N. of a son of Śva-phalka; [cf. <i>dharma-</i> <i>dhṛṣ</i> and <i>dharma-bhṛt.</i>] <i>—Dharma-vaitaṃsika,</i> <i>as,</i> m. one who gives away money unlawfully acquired in the hope of appearing generous. <i>—Dhar-</i> <i>ma-vyādha, as,</i> m. ‘the hunter versed in law,’ N. of a Brāhman changed into a hunter in consequence of a curse; of a Brāhman-killer (born as a hunter from the body of Vasu, king of Kaśmīra). <i>—Dharma-</i> <i>śarīra, am,</i> n. ‘religious or sacred relic,’ a term applied to certain small Buddhist Stūpas. <i>—Dharma-</i> <i>śarman, ā,</i> m., N. of a preceptor. <i>—Dharma-śālā,</i> f. a court of justice, a tribunal; a charitable institution, a hospital. <i>—Dharma-śāsana</i> or <i>dharma-</i> <i>śāstra, am,</i> n. ‘a law-book,’ a code of laws, the body or code of Hindū law, jurisprudence, any work on the subject. <i>—Dharma-śīla, as, ā, am,</i> of a virtuous disposition, virtuous, just, pious; (<i>ā</i>), f., N. of a female. <i>—Dharma-śreṣṭhin, ī,</i> m., N. of a Buddhist Arhat. <i>—Dharma-saṃśrita, as, ā, am,</i> ‘following or seeking virtue,’ virtuous, just, pious. <i>—Dharma-saṃhitā,</i> f. a code or collection of law, especially the work of some saint or divine person (as Manu, Yājñavalkya, &c.). <i>—Dharma-saṅga,</i> <i>as,</i> m. addiction to justice or virtue; hypocrisy. <i>—Dharma-saṅgīti, is,</i> f. a discussion about the law; (with Buddhists) a council; N. of a work. <i>—Dharma-saṅgraha, as,</i> m. ‘collection of laws, legal compilation,’ N. of a Buddhist work on law. <i>—Dharma-santāna-sū, ūs, ūs, u,</i> producing virtuous offspring or actions. <i>—Dharma-sabhā,</i> f. a court of justice, tribunal. <i>—Dharma-sahāya, as,</i> m. a companion in the fulfilment of religious duties. <i>—Dharma-sādhana, am,</i> n. ‘means of performing duty,’ any act or virtue essential to a system of duties. <i>—Dharma-sārathi, is,</i> m., N. of a son of Tri-kakud. <i>—Dharma-sāvarṇi, is,</i> m., N. of the eleventh Manu. <i>—Dharma-siṃha, as,</i> m., N. of a man. <i>—Dharma-suta, as,</i> m. ‘the son of the god Dharma,’ an epithet of Yudhi-ṣṭhira. <i>—Dharma-</i> <i>sū, ūs, ūs, u,</i> Ved. promoting order or justice; (<i>ūs</i>), m. the fork-tailed shrike. <i>—Dharma-sūtra, am,</i> n. a Sūtra work treating on law and custom; (<i>as</i>), m., N. of a son of Su-vrata. <i>—Dharma-setu, us,</i> m. ‘barrier of justice,’ epithet of Śiva; N. of a son of Āryaka. <i>—Dharma-sena, as,</i> m., N. of a king. <i>—Dharma-skandha, as,</i> m. ‘collection of laws,’ N. of a work by Śāriputra and Maudgalyāyana. <i>—Dharma-stha, as,</i> m. ‘abiding in the law,’ a judge. <i>—Dharma-sthala, am,</i> n. ‘the place of justice,’ N. of a town. <i>—Dharma-sthavira, as,</i> m. ‘firm in law,’ N. of a man. <i>—Dharma-svāmin, ī,</i> m. ‘the lord of law and right,’ epithet of Buddha; N. of a sanctuary built by Dharma, king of Kaśmīra. <i>—Dharma-hantṛ, tā, trī, tṛ,</i> transgressing the law or justice. <i>—Dharmākara (°ma-āk°),</i> <i>as,</i> m. ‘mine of virtue or law,’ N. of a disciple of Buddha Lokeśvara-rāja; of the ninety-ninth Buddha; of a Buddhist translator. <i>—Dharmāgama (°ma-āg°),</i> <i>as,</i> m. a law-book. <i>—Dharmāṅgada (°ma-aṅ°), as,</i> m., N. of a man; of a prince, son of Priyaṅ-kara. <i>—Dharmāṅgā (°ma-aṅ°),</i> f. a heron. <i>—Dharmā-</i> <i>cārya (°ma-āc°), as,</i> m. a teacher of law or of customs. <i>—Dharmācārya-stuti, is,</i> f. ‘praise of the teacher of the law,’ N. of a work. <i>—Dharmātmaja</i> <i>(°ma-āt°), as,</i> m. ‘the son of Dharma,’ an epithet of Yudhi-ṣṭhira. <i>—Dharmātma-tā,</i> f. pious-mindedness, justice, virtue. <i>—Dharmātman (°ma-āt°), ā,</i> <i>ā, a,</i> just, virtuous, pious-minded, virtuously-minded, of a virtuous disposition, pious, fulfilling duties; (<i>ā</i>), m. a saint, a pious or virtuous person; an epithet of Kumāra-pāla. <i>—Dharmāditya (°ma-ād°),</i> <i>as,</i> m., N. of a Buddhist king. <i>—Dharmādharma</i> <i>(°ma-adh°), au,</i> m. du. right and wrong, justice and injustice. <i>—Dharmādharma-parīkṣā,</i> f. or <i>-parīkṣaṇa, am,</i> n. ‘test of right and wrong,’ a kind of ordeal by drawing lots or slips of black and white paper. <i>—Dharmādharma-senā-hanana, am,</i> n., N. of the 120th chapter of the Krīḍā-khaṇḍa of the Gaṇeśa-Purāṇa. <i>—Dharmādhikaraṇa (°ma-adh°),</i> <i>am,</i> n. administration of the laws; a court of justice; (<i>as</i>), m. a judge, magistrate. <i>—Dharmādhikaraṇa-</i> <i>sthāna, am,</i> n. a court of justice. <i>—Dharmādhika-</i> <i>raṇika, as,</i> m. or <i>dharmādhikaraṇin, ī,</i> m. ‘presiding over justice,’ a judge, an administrator of the law. <i>—Dharmādhikāra (°ma-adh°), as,</i> m. administration of justice, the office of a judge; N. of a work. <i>—Dharmādhikārin, ī,</i> m. or <i>dharmādhi-</i> <i>kṛta, as,</i> m. a chief officer of justice, an administrator of the law, lord-chief-justice, magistrate, a judge. <i>—Dharmādhiṣṭhāna (°ma-adh°), am,</i> n. a court of justice. <i>—Dharmādhyakṣa (°ma-adh°),</i> <i>as,</i> m. ‘overseer of justice,’ minister of justice, a magistrate, a judge. <i>—Dharmādhvan (°ma-adh°),</i> <i>ā,</i> m. the way of justice or virtue. <i>—Dharmānuṣ-</i> <i>ṭhāna (°ma-an°), am,</i> n. virtuous or moral conduct, acting according to law. <i>—Dharmānusāra (°ma-</i> <i>an°), as,</i> m. conformity to law or virtue, course or practice of duty. <i>—Dharmānusmṛty-upasthāna,</i> <i>am,</i> n., N. of a Buddhist Āgama. <i>—Dharmāndhu</i> <i>(°ma-an°), us,</i> m. ‘the well of Dharma, the holy well,’ N. of a Tīrtha. <i>—Dharmāpeta (°ma-ap°),</i> <i>as, ā, am,</i> departing from virtue, wicked, immoral, unrighteous; (<i>am</i>), n. injustice, immorality, vice. <i>—Dharmābhimanas (°ma-abh°), ās, ās, as,</i> directing the mind to virtue or religion, virtuous. <i>—Dharmābhiṣeka-kriyā (°ma-abh°),</i> f. any ablution prescribed as a religious duty. <i>—Dharmām-</i> <i>bhodhi (°ma-am°), is,</i> m. ‘the ocean of laws,’ N. of a work. <i>—Dharmāyatana (°ma-āy°), am,</i> n. knowledge of <i>dharma</i> by means of <i>manas</i> (?). <i>—Dharmāraṇya (°ma-ar°), am,</i> n. ‘grove of religion,’ a sacred grove, a wood inhabited by hermits or ascetics; N. of a sacred forest in Madhyadeśa, into which Dharma is said to have retired; N. of a town founded by Amūrta-rajas. <i>—Dharmārtha-</i> <i>kāma-mokṣa (°ma-ar°), ās,</i> m. pl. religious merit, wealth, pleasure, and final emancipation, (the four ends or objects of existence.) <i>—Dharmārtha-dar-</i> <i>śin, ī, inī, i,</i> having an eye to duty and interest or to religion and wealth. <i>—Dharmārtha-prati-</i> <i>baddha-tā,</i> f. attachment to duty and interest or to religion and wealth. <i>—Dharmārtham,</i> ind. for religious purposes; according to right or duty, in a just manner, according to prescript. <i>—Dharmārthīya,</i> <i>as, ā, am</i> (fr. <i>dharma-artha</i>), relating to law or duty. <i>—Dharmālīka (°ma-al°), as, ā, am,</i> having a false character. <i>—Dharmāloka-mukha (°ma-āl°),</i> <i>am,</i> n. introduction to the understanding of the <i>dharma</i> of Śākya-muni. <i>—Dharmāśoka (°ma-aś°),</i> <i>as,</i> m. the Aśoka of justice,’ epithet of king Aśoka, grandson of Candra-gupta, (after he had adopted the Buddhist faith.) <i>—Dharmāśrita (°ma-āś°), as, ā,</i> <i>am,</i> seeking virtue, just, virtuous. <i>—Dharmāsana</i> <i>(°ma-ās°), am,</i> n. the throne of justice, judgmentseat, the bench. <i>—Dharmāsana-gata, as, ā, am,</i> seated on the judgment-seat. <i>—Dharmāstikāya</i> <i>(°ma-as°), as,</i> m. (with Jainas) the category or predicament of virtue. <i>—Dharmendra (°ma-in°), </i> <i>as,</i> m. ‘lord of justice,’ epithet of Yama. <i>—Dhar-</i> <i>mepsu (°ma-īp°), us, us, u,</i> wishing to acquire religious merit. <i>—Dharmeśa (°ma-īśa), as,</i> m. ‘lord of justice,’ epithet of Yama. <i>—Dharmeśvara</i> <i>(°ma-īś°), as,</i> m. ‘lord of justice,’ epithet of Yama; N. of a Buddhist deity; of a commentator on Yājñavalkya. <i>—Dharmeśvara-tīrtha, am,</i> n. ‘the Tīrtha of the lord of justice,’ N. of a place of pilgrimage. <i>—Dharmeśvara-liṅga, am,</i> n. ‘the Liṅga of the lord of justice,’ N. of a place of pilgrimage. <i>—Dhar-</i> <i>moccaya (°ma-uc°), as,</i> m. ‘collection of law,’ N. of a place (in which Śākya-muni is said to have instructed the deities called Tuṣitas). <i>—Dharmot-</i> <i>tara (°ma-ut°), as,</i> m. ‘chiefly characterized by virtue,’ N. of a Buddhist teacher. <i>—Dharmottarīya,</i> <i>ās,</i> m. pl. the disciples of Dharmottara. <i>—Dharmo-</i> <i>padeśa (°ma-up°), as,</i> m. instruction in law or duty, a discourse on religion, moral or religious instruction; the laws, the collective body of laws. <i>—Dharmopa-</i> <i>deśaka (°ma-up°), as,</i> m. a teacher of the law, a Guru or spiritual preceptor. <i>—Dharmopadeśanā</i> <i>(°ma-up°),</i> f. instruction in the law, advice relating to it. <i>—Dharmopadha (°ma-up°), as, ā, am,</i> making a pretence of religion, hypocritical. <i>—Dhar-</i> <i>mopeta (°ma-up°), as, ā, am,</i> endowed with virtues, virtuous, moral."
+        },
+        {
+            "word": "धर्म",
+            "eid": "23241",
+            "pagenum": 451,
+            "content": "2. <i>dharma,</i>¦ Nom. P. <i>dharmati,</i> &c., to become law. (For 1. <i>dharma</i> see p. 449, col. 3.)"
+        },
+        {
+            "word": "धर्म",
+            "eid": "23254",
+            "pagenum": 452,
+            "content": "धर्म¦ <i>dharma.</i> See p. 449, col. 3; p. 451, col. 3."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "धर्म",
+            "eid": "6522",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (I)¦ — with one foot in Kali (truth), the others are austerity, purity and compassion which have disappeared;<sup>1</sup> dialogue with Earth in the guise of a bull;<sup>2</sup> confusion of, due to different schools of metaphysics.<sup>3</sup> The force of Dharma in administration;<sup>4</sup> Sanātanadharma lost in Kali.<sup>5</sup> Vyavastha done by sages in different periods of Manus.<sup>6</sup> Thirty characteristics of. <F>1) Bhā. I. 3. 9; 16. 19; 17. 24-5.</F> <F>2) Ib. I. 16. 20-36; 17. 7-16.</F> <F>3) Ib. I. 17. 19-20.</F> <F>4)Br. III. 50. 53-7.</F> <F>5) M. 9. 28-31; 201. 6-8.</F> <F>6) Bhā. VII. 11. 8-12.</F>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "6523",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (II)¦ — the father of Nara, married Mūrtī. <div n='P'/>Bhā. II. 7. 6; XI. 4. 6."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6524",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (III)¦ — a son of Brahmā, born of the right side of his chest; one of the first five created things for the propagation of people; the first devata who married the thirteen daughters of Dakṣa or the Dākṣāyaṇis (ten: <i>Vā. P.</i>): each of whom had sons; they were Śraddhā, Lakṣmī, Dhṛti, Tuṣṭi, Puṣṭi, Medhā, Kriyā, Buddhi, Lajjā, Vasu, Śānti, Siddhi and Kīrti;<sup>1</sup> in the Vaivasvata epoch had for his wives Dākṣāyaṇī and Arundhatī;<sup>2</sup> father of Kāma and Lakṣmī;<sup>3</sup> presented Pṛthu with a garland of fame.<sup>4</sup> <F>1) Bhā. III. 12. 25; IV. I. 48-50; Br. II. 9. 1, 49-50; IV. 1. 40; M. 3. 10; 4. 34 and 55; 5. 13; 146. 16; Va. 1. 69; 10. 26; 100. 43; Vi. I. 7. 24, 28-31; 15. 77, 103. Vā. 63. 41; 66. 2; 76. 3.</F> <F>2) M. 203. 1-2.</F> <F>3) Ib. 171. 42.</F> <F>4) Bhā. IV. 15. 15; VI. 6. 2.</F>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "6525",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (IV)¦ — a constellation which goes round Dhruva keeping him to the right. <div n='P'/>Bhā. IV. 9. 21; V. 23. 5; Br. II. 21. 176."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6526",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (V)¦ — married Sūnṛtā and had sons like Satyasena and others. <div n='P'/>Bhā. VIII. 1 25."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6527",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (VI)¦ — The god of righteousness and appointed father of Yudhiṣṭhira;<sup>1</sup> father of Dharmavratā, the future Śila at Gayā;<sup>2</sup> did not comprehend Hari's <i>māya.</i><sup>3</sup> <F>1) Bhā. IX. 22. 27; M. 46. 9; 50. 49; 171. 26; Vā. 96. 153; Vi. IV. 14. 35; 20. 40.</F> <F>2) Vā. 107. 2. 111. 23.</F> <F>3) Bhā. IX. 4. 57.</F>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "6528",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (VII)¦ — the son of Gāndhāra and father of Dhṛta (Ghṛta: <i>Vi. P.</i>). <div n='P'/>Bhā. IX. 23. 15; Br. III. 74. 10; M. 48. 8; Vā. 19. 10; Vi. IV. 17. 4."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6529",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (VIII)¦ — a son of Haihaya, and father of Netra. <div n='P'/>Bhā. IX. 23. 22."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6530",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (IX)¦ — a son of Pṛthuśravas and father of Uśanas. <div n='P'/>Bhā. IX. 23. 34."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6531",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (X)¦ — Caturmūrti in Benares. <div n='P'/>M. 183. 41."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6532",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XI)¦ — a Devaṛṣi and the 14th Vedavyāsa; wife Lakṣmi and daughter Sūnṛtā; married ten daughters of Dakṣa; father of 12 Sādhyas, 8 Vasavas, 10 Viśvedevas, of Maruts, of Bhānus, of Muhūrtas and so on. Father of Yudhiṣṭhira; cursed by Māṇḍavya the sage. <div n='P'/>Vā. 10. 26; 63. 41; 66. 2; 76. 3. Br. II. 9. 1, 49-50."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6533",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XII)¦ — manifold and subtle; to understand the truth is difficult; hence it is not possible to give a definite lead in the Vedic laws; hence sages do not attach weight to <i>dānam</i> and <i>yajñam</i> but to sanātanadharma which leads to svarga; is knowledge of the Śrauta Smārta dharma and following of Varṇāśrama for attainment of heaven; Iṣṭaprāpaka dharma introduced by the Ācāryas.<sup>1</sup> Consists of ten things: begging food, non-theft, purity, disinterestedness, activity, sympathy, non-injury, avoidance of anger, service of the guru, truthfulness;<sup>2</sup> of four pādas;<sup>3</sup> course of, in the four yugas.<sup>4</sup> <F>1) Vā. 57. 112-8; 59. 21, 28.</F> <F>2) Br. II. 7. 178; Vā. 8. 186.</F> <F>3) Ib. 23. 81-2.</F> <F>4) Ib. 58. 5.</F>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "6534",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XIII)¦ — a son of Dīrghatapas. <div n='P'/>Vā. 92. 7."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6535",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XIV)¦ — one of the ten Sutapa gaṇas. <div n='P'/>Vā. 100. 15."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6536",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XV)¦ — a son of Suvrata, and father of Śuśravas. <div n='P'/>Vi. IV. 23. 6."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6537",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XVI)¦ — a Sutapa god. <div n='P'/>Br. IV. 1. 14."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6538",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XVII)¦ — a son of Raucya Manu. <div n='P'/>Br. IV. 1. 104."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6539",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XVIII)¦ — a Vasu; wife Manoharā; father of a number of sons. <div n='P'/>Vi. I. 15. 110, 113."
+        },
+        {
+            "word": "धर्म",
+            "eid": "6540",
+            "pagenum": 2,
+            "content": "<i>Dharma</i> (XIX)¦ — a son of Haihaya, and father of Dharmanetra. <div n='P'/>Vi. IV. 11. 8."
+        }
+    ],
+    "PW": [
+        {
+            "word": "धर्म",
+            "eid": "54669",
+            "pagenum": 3,
+            "content": "ध/र्म¦ <lex>m.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <div n='1'>— 1〉 <i>Satzung, Ordnung, Gesetz, Brauch, Sitte, Vorschrift, Regel, Bestimmung, — in Betreff von</i> (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend), <i>Rechtssache, jus; Gerechtigkeit, das Rechte, Gute, Pflicht, Tugend, moralisches Verdienst, gute Werke</i>. ध/र्मेण <i>nach dem Gesetz, nach Recht, auf gerechte Weise, der gute Sitte —, der Pflicht gemäss</i>. धर्मे स्थितः <i>am Gesetz sich haltend, pflichtgemäss sich benehmend</i> <ls n='Chr.'>71,2</ls>. <i>die Gerechtigkeit</i> auch als Synonym von <i>Strafe</i>. Bei den Buddhisten oft so <ab>v. a.</ab> <i>religio</i>. Ausnahmsweise <lex>n.</lex> <div n='1'>— 2〉 <i>das Recht oder Gesetz</i> wird häufig personificirt, <ab>insbes.</ab> als <is>Yama</is> (<i>der Todtenrichter</i>) und als ein <is>Prajāpati</is>, Schwiegersohn <is>Dakṣa</is>ʼs. <div n='1'>— 3〉 <i>die Natur —, die Art und Weise eines Dinges, eine wesentliche, charakteristische Eigenschaft, ein solches Merkmal, Eigenthümlichkeit, Attribut</i>. Bei den Buddhisten oft so <ab>v. a.</ab> भाव <i>Zustand</i>. ईर्ष्या° <ls>LALIT. 333,17</ls>. दश धर्मान्गताः (<ls>HARIV. 1,13,15</ls>) = दशधर्मगत. Häufig am Ende eines <ab>adj. Comp.</ab> (<ab>Nom. abstr.</ab> °त्व <lex>n.</lex>). <div n='1'>— 4〉 <i>eine <ab>best.</ab> Ceremonie</i> (प्रवर्ग्य). <div n='1'>— 5〉 <i>das 9te <ab>astrol.</ab> Haus</i>. <div n='1'>— 6〉 *<i>Opfer</i>. <div n='1'>— 7〉 *<i>eine</i> <is>Upaniṣad</is>. <div n='1'>— 8〉 *<i>Umgang mit guten Menschen</i>. <div n='1'>— 9〉 *= योग. <div n='1'>— 10〉 = *उपमा. <div n='1'>— 11〉 *<i>Bogen</i>. <div n='1'>— 12〉 *<i>ein</i> <is>Soma</is>-<i>Trinker</i>. <div n='1'>— 13〉 <ab>N. pr.</ab> verschiedener Männer. <div n='1'>— 14〉 mit धर्म्य verwechselt."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धर्म",
+            "eid": "36241",
+            "pagenum": 3,
+            "content": "ध/र्म¦ (von धर्) <ls>UṆĀDIS. 1, 139.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> अर्धर्चादि zu <ls>P. 2, 4, 31.</ls> <ls>AK. 1, 1, 4, 2.</ls> <ls>TRIK. 3, 5, 11.</ls> <ls>H. an. 2, 327.</ls> <ls>MED. m. 16.</ls> Das <lex>n.</lex> selten. z. <ls>B.</ls> <ls>MBH. 12, 2260.</ls> <ls n='MBH. 12,'>9232</ls> (धर्माणि von धर्मन्?). <ls n='MBH.'>13, 1370.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> आ <ls n='MBH.'>12, 7850.</ls> <ls>R. 2, 42, 7.</ls> Der <ls>ṚV.</ls> kennt das Wort noch nich (vgl. 2. धर्मन्). <div n='1'> 1) <i>Satzung, Ordnung</i>; <div n='2'> a) <i>Sitte, Recht, Pflicht, Tugend</i>; <div n='2'> b) <i>Gesetz, Brauch, Vorschrift, Regel</i>; = पुण्य <ls>AK. 1, 1, 4, 2.</ls> <ls n='AK.'>3, 4, 23, 141.</ls> <ls>H. 1379.</ls> <ls>H. an.</ls> <ls>MED.</ls> = आचार <ls>AK. 3, 4, 23, 141.</ls> <ls>H. an.</ls> <ls>MED.</ls> = अहिंसा <ls>TRIK. 3, 3, 298.</ls> <ls>H. an.</ls> <ls>MED.</ls> = न्याय <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> = दानादिक <ls>H. an.</ls> धर्म^ं पुरा\\णम^नुपा\\लय^न्ती <i>die alte Sitte</i> <ls>AV. 18, 3, 1.</ls> श्रमो\\ धर्म^श्च\\ कर्म^ च <ls n='AV.'>11, 7, 17.</ls> श्रीश्च\\ धर्म^श्च <ls n='AV.'>12, 5, 7.</ls> <ls>VS. 20, 9.</ls> <ls n='VS.'>15, 6.</ls> <ls n='VS.'>30, 6.</ls> <ls>TS. 3, 5, 2, 2.</ls> धर्मस्य गोप्ता <ls>AIT. BR. 8, 12.</ls> तदेतत्क्षत्रस्य क्षत्रं यद्धर्मस्तस्माद्धर्मात्परं नास्त्यथो अबलीयान्बलीयांसमाशंसते धर्मेण यथा राज्ञैवं यो वै स धर्मः सत्यं वै तत्तस्मात्सत्यं वदन्तमाहुर्धर्मं वदतीति <ls>ŚAT. BR. 14, 4, 2, 26.</ls> <ls>TAITT. ĀR. 4, 42, 30.</ls> यो हि परमतां गच्छति तं हि धर्म उपयन्ति <i>in Rechtssachen</i> <ls>ŚAT. BR. 5, 3, 3, 9.</ls> धर्माणामधिपतिः <is>Varuṇa</is> <ls>ŚĀṄKH. ŚR. 4, 10, 1.</ls> धर्मेण सर्वमिदं परिगृहीतम् <ls>TAITT. ĀR. 10, 79. 80.</ls> यतो ऽभ्युदयनिःश्रेयससिद्धिः स धर्मः <ls>KAṆĀDA 1, 2.</ls> एक एव सुहृद्धर्मो निधने ऽप्यनुयाति यः <i>die Tugenden, die guten Werke</i> <ls>HIT. I. 59.</ls> दानधर्मादेकं चरतु <ls n='HIT.'>10, 21.</ls> <ls>KAP. 2, 14.</ls> वेदः स्मृतिः सदाचारः स्वस्य च प्रिपमात्मनः । एतच्चतुर्विधं प्राहुः साक्षाद्धर्मस्य लक्षणम् ॥ <ls>M. 2, 12.</ls> दशकं धर्मलक्षणम् <ls n='M.'>6, 92. 94.</ls> दण्डं धर्मं विदुर्बुधाः <ls n='M.'>7, 18.</ls> षष्ठांशवृत्तेरपि धर्म एषः <ls>ŚĀK. 101. 101, 7.</ls> चोदनालक्षणो ऽर्थो धर्मः <ls>JAIM. 1, 2.</ls> विहितकर्मजन्यो धर्मः <ls>TARKAS. 54.</ls> सह धर्मं चरतः <ls>ĀŚV. GṚHY. 1, 6.</ls> <ls>KAUŚ. 17.</ls> स्वाध्याय° <i>Regel</i> <ls>TAITT. ĀR. 1, 32, 4.</ls> धर्मान्कुर्यात् त उक्ता ब्राह्मणेन <ls>LĀṬY. 8, 2, 1.</ls> जनपद° <ls>ĀŚV. GṚHY. 1, 7. 17.</ls> <ls>KAUŚ. 82.</ls> स्त्री° <ls>M. 1, 114.</ls> विभाग° <ls n='M.'>115.</ls> आपद्धर्मं च वर्णानाम् <ls n='M.'>116. 10, 130.</ls> दान° <ls n='M.'>4, 227.</ls> धर्मः शेषो ऽङ्गं (vgl. <ls>TRIK. 3, 5, 8</ls>) गुण इत्येकार्थाः <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 1, 2, 3.</ls> ज्योतिष्टोम° <ls>KĀTY. ŚR. 12, 1, 1.</ls> पौर्णमास° <ls n='KĀTY. ŚR.'>5, 11, 3.</ls> <ls>ŚĀṄKH. ŚR. 4, 5, 14. 13, 20, 11.</ls> <ls>ĀŚV. ŚR. 12, 8.</ls> एकीभाविनो धर्माः <i>Bestimmungen</i> <ls>ṚV. PRĀT. 3, 8.</ls> द्यूत° <ls>M. 9, 220.</ls> धर्मान्संस्थापयामासुर्युद्धानाम् <ls>MBH. 6, 27.</ls> °मात्र <i>nur auf Brauch beruhend</i> <ls>KĀTY. ŚR. 1, 8, 7.</ls> <ls n='KĀTY. ŚR.'>9, 5, 10.</ls> °त्व <ls n='KĀTY. ŚR.'>4, 12, 16.</ls> धर्मेण <i>nach Recht, der Pflicht gemäss, auf gerechte Weise, nach der Vorschrift</i> <ls>N. 5, 25. 42.</ls> <ls>R. 1, 58, 20.</ls> <ls n='R. 1,'>69, 19.</ls> Ueber den <is>Trivarga</is> धर्म, काम, अर्थ und den <is>Caturvarga</is> धर्म, काम, अर्थ, मोक्ष s. u. अर्थ <ls n='R. 1, 69,'>3.</ls> धर्म unter den verschiedenen bildlichen Bezeichnungen für <i>Strafe</i> <ls>MBH. 12, 4428.</ls> <div n='1'>— 2) <i>die Natur —, die Art und Weise eines Dinges, eine wesentliche, charakteristische Eigenschaft, ein solches Merkmal, Eigenthümlichkeit</i>; = स्वभाव <ls>AK. 3, 4, 23, 141.</ls> <ls>H. an.</ls> <ls>MED.</ls> = भाव u. s. w. <ls>TRIK. 3, 2, 21.</ls> <ls>H. 1376.</ls> प्रज्ञा वर्धमाना चतुरो धर्मान्ब्राह्मणमभिनिष्पादयति <ls>ŚAT. BR. 11, 5, 7, 1.</ls> <ls>KAṬHOP. 4, 14.</ls> प्रचयस्वरधर्म <ls>ṚV. PRĀT. 3, 13.</ls> (वर्णानाम्) संहितो धर्मः <ls n='ṚV. PRĀT.'>14, 1.</ls> अन्यधर्मत्व <ls>KAPILA 1, 16.</ls> देहधर्मत्व <ls n='KAPILA 1,'>14.</ls> <ls>SĀH. D. 9, 3.</ls> <ls n='SĀH. D.'>28, 16.</ls> लघ्वादिधर्म <ls>KAP. 1, 129.</ls> तद्धर्मोपदेशात् <ls>BĀDAR. 1, 20.</ls> नाना° <ls>TARKAS. 52.</ls> प्रकृत्या स्वर्गधर्मिण्या तथा त्रिगुणधर्मया <ls>MBH. 12, 7850.</ls> मृत्युं मरणधर्मेण योजयेयम् <ls>R. 3, 29, 18.</ls> बुद्ध्यात्मनो ऽशनाया धर्मः <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. p. 12.</ls> <ls>SĀH. D. 4, 2.</ls> <ls n='SĀH. D.'>28, 16.</ls> नेत्रधर्मेषु <ls>BĀLAB. 3</ls> (vgl. <ls>WIND.</ls> zu d. St.). जलधर्माः 44. स्वरितो नाम स्वरविशेषो वर्णधर्मः <ls>KĀŚ.</ls> zu <ls>P. 1, 3, 11.</ls> <ls>Schol.</ls> zu <ls>P. 1, 2, 31.</ls> उपमानोपमेयधर्म so v. a. <i>das tertium comparationis</i> <ls>Schol.</ls> zu <ls>P. 2, 1, 55.</ls> एते च प्रयोक्तृधर्माः (असूया u. s. w.) <ls>Schol.</ls> zu <ls>P. 8, 1, 8.</ls> प्राणायामस्तथा ध्यानं प्रत्याहारो ऽथ धारणा । स्मरणं चैव योगे ऽस्मिन्पञ्च धर्माः प्रकीर्तिताः ॥ <ls>VĀYUP.</ls> in <ls>Verz. d. Oxf. H. 50,b, N. 3.</ls> संपूर्णश्रुतिधर्मरागरुचिर (संगीतशास्त्र) in einer Inschr. in <ls>Journ. of the Am. Or. S. 7, 10, 37.</ls> इक्ष्वाकोर्न्यासधर्मान्नपश्रियम् । धारयस्व <i>nach Art eines Pfandes, wie ein anvertrautes Pfand</i> <ls>R. GORR. 2, 123, 14.</ls> <ls n='R. GORR.'>3, 66, 2.</ls> मया सह समयधर्मेण वर्तितव्यम् <i>der Abmachung gemäss</i> <ls>PAÑCAT. 26, 2.</ls> Daher wohl धर्म = उपमा <ls>TRIK. 3, 3, 298.</ls> <ls>H. an.</ls> <ls>MED.</ls> दशधर्मगत <i>der die Natur der Zehn angenommen hat</i> so v. a. <i>der seine eigene Natur aufgegeben hat, in einem schwachen Augenblick sich vergisst</i> <ls>HARIV. 744.</ls> <ls n='HARIV.'>1153</ls> <i>Die Zehn</i> sind nach der ersten Stelle मत्तः प्रमत्त उन्मत्तः श्रान्तः क्रुद्धो बुभुक्षितः । त्वरमाणश्च भीरुश्च लुब्धः कामी च . Ueber den in dieser Bed. sehr beliebten Gebrauch des Wortes धर्म bei den Buddhisten s. <ls>BURN. Intr. 41. 42. 439.</ls> <ls>HIOUEN-THSANG I, 159. 160.</ls> आश्चर्याद्भुतधर्मप्राप्त so v. a. <i>in Staunen und Verwunderung gerathen</i> <ls>SADDH. P. 4, 17,b.</ls> <div n='1'>— 3) <i>Opfer</i>, = क्रतु <ls>MED.</ls> <ls>VIŚVA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 139.</ls> <i>eine best. Art Opfer</i>: कृत्वा प्रवर्ग्यं धर्माख्यं यथावद्द्विजसत्तमाः <ls>MBH. 14, 2623.</ls> <div n='1'>— 4) <i>eine</i> <is>Upaniṣad</is> <ls>TRIK. 3, 3, 298.</ls> <ls>H. an.</ls> <ls>MED.</ls> <div n='1'>— 5) = योग <ls>TRIK.</ls> <div n='1'>— 6) <i>ein Umgang mit guten Menschen</i> (सत्संग) <ls>H. an.</ls> <div n='1'>— 7) <i>Bogen</i> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <div n='1'>— 8) <i>ein</i> <is>Soma</is> — <i>Trinker</i> <ls>AK. 3, 4, 23.</ls> <ls n='AK. 3, 4,'>141.</ls> <ls>MED.</ls> <div n='1'>— 9) <i>das Recht, das Gesetz</i> personif.: धनदेन समत्यागो सत्ये धर्म इवापरः <ls>R. 1, 1, 19.</ls> इक्ष्वाकूणां कुले जातः साक्षाद्धर्म इवापरः <ls n='R. 1,'>23, 6.</ls> entsteht aus der rechten Brust <is>Brahman's</is> und zeugt <is>Śama</is>, <is>Kāma</is> und <is>Harṣa</is> <ls>MBH. 1, 2595. fg.</ls> als <i>Stier</i> <ls>M. 8, 16.</ls> चतुष्पात्सकलो धर्मः <ls n='M.'>1, 81. 82.</ls> विद्या दानं तपः सत्यं धर्मस्येति पदानि च <ls>BHĀG. P. 3, 12, 41.</ls> in Gestalt einer <i>Taube</i> <ls>KATHĀS. 7, 89.</ls> धर्म इन्द्रः <ls>ŚAT. BR. 13, 4, 3, 14.</ls> <ls>ĀŚV. ŚR. 10, 7.</ls> als <is>Yama</is>, <i>der Todtenrichter</i>, <ls>AK. 3, 4, 23, 141.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HIḌ. 1, 34.</ls> <ls>MBH. 1, 4759. fgg.</ls> धर्मतीर्थमनुत्तमम् । यत्र धर्मो महाभागस्तप्तवानुत्तमं तपः ॥ <ls n='MBH.'>3, 7079.</ls> तत्र (धर्मप्रस्थे) धर्मः - नित्यमास्ते <ls n='MBH. 3,'>8077.</ls> <ls>VARĀH. BṚH. S. 45, 10. 99, 1.</ls> <ls>LALIT. 26.</ls> im Gefolge des Sonnengottes <ls>VYĀḌI</ls> zu <ls>H. 103.</ls> mit <is>Viṣṇu</is> identif. <ls>H. ś. 67.</ls> <ls>HARIV. 2382.</ls> <is>Dharma</is> als <is>Prajāpati</is> und Schwiegersohn <is>Dakṣa's</is> <ls n='HARIV.'>143.</ls> <ls n='HARIV.'>11526.</ls> <ls n='HARIV.'>11837.</ls> <ls n='HARIV.'>12455.</ls> <ls>M. 9, 129.</ls> <ls>KUMĀRAS. 4, 43.</ls> <ls>VP. 54. 55. 115. 119.</ls> <ls>KŪRMA-P.</ls> in <ls>VP. 49, N. 2.</ls> <ls>BHĀG. P. 4, 1, 48.</ls> <div n='1'>— 10) N. pr. des 15ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is>, aus dem Geschlechte <is>Ikṣvāku's</is>, eines Sohnes des <is>Bhānu</is> von der <is>Suvratā</is>, <ls>H. 28. 35. 37. 40.</ls> <ls>H. an.</ls> eines Sohnes des <is>Anu</is> und Vaters des <is>Ghṛta</is> <ls>HARIV. 1840.</ls> eines Sohnes des <is>Gāndhāra</is> und Vaters des <is>Dhṛta</is> <ls>VP. 443.</ls> <ls>BHĀG. P. 9, 23, 14.</ls> eines Sohnes des <is>Haihaya</is> und Vaters des <is>Netra</is> <ls n='BHĀG. P.'>21.</ls> eines Sohnes des <is>Pṛthuśravas</is> und Vaters des <is>Uśanas</is> 32. eines Sohnes des <is>Suvrata</is> (vgl. धर्मसूत्र) <ls>VP. 465.</ls> eines Sohnes des <is>Dirghatapas</is> <ls>VĀYU-P. ebend. 406, N. 10.</ls> धर्मो नारायणो नाम व्यासस्तु भविता तदा (त्रयोदशे परिवर्ते) <ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 52,b,26.</ls> N. pr. eines Fürsten von <is>Kāśmīra</is> <ls>RĀJA-TAR. 4, 678. 696.</ls> einer anderen Person  <ls n='RĀJA-TAR.'>7, 85.</ls> eines Lexicographen <ls>MED. Anh. 4.</ls> <div n='1'>— 11) in der Astrol. Bez. <i>des 9ten Hauses</i> <ls>VARĀH. BṚH. S. 59, 20. 103, 9. 104, 30. 44.</ls> <ls>LAGHUJ. 1, 15. 8, 1.</ls> <ls>BṚH. 2, 15. 9, 2. fgg. 11, 15. 19 (18), 3. 22 (21), 13.</ls>"
+        },
+        {
+            "word": "धर्म",
+            "eid": "76490",
+            "pagenum": 5,
+            "content": "धर्म¦ Z. 2. fg. <ls>MBH. 12, 2260</ls> liest die <ls>ed. Bomb.</ls> सर्वं st. धर्मं, <ls n='MBH. 12,'>9232</ls> धर्म्याणि st. धर्माणि; über महद्धर्मम् <ls n='MBH.'>13, 3213</ls> s. u. महन्त् am Anf. Als <lex>n.</lex> noch <ls>DAM̃PATĪŚ. 44.</ls> <div n='1'> 1) <div n='2'> a) füge noch <i>moralisches Verdienst</i> hinzu; z. B. pr. <ls n='MBH. 13,'>4215.</ls> <ls>BHĀṢĀP. 160.</ls> <ls>WILSON, Sel. Works 1, 317.</ls> <ls>SARVADARŚANAS. 77, 18. 115, 18.</ls> <div n='1'>— 2) <ls>Sp. 883, Z. 14. fgg.</ls> vgl. <ls>Spr. 1117. fg.</ls> <ls>HARIV. 744</ls> liest die neuere Ausg. दश धर्मान्गतो राजा . Zu धर्म in buddhistischem Sinne vgl. <ls>SARVADARŚANAS. 21, 9. fgg.</ls> <div n='1'>— 6) lies सत्सङ्ग . <div n='1'>— 9) <is>Yama</is> <ls>KATHĀS. 72,145. fgg.</ls> <ls>WEBER, RĀMAT. UP. 302.</ls>  <div n='1'>— 10) ein Fürst <ls>KATHĀS. 98, 5.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "धर्म",
+            "eid": "18446",
+            "pagenum": 7,
+            "content": "धर्म¦ III. 11〉 <i>Bogen</i> <ls>DHARMAŚ. 17,66</ls>."
+        }
     ]
 }

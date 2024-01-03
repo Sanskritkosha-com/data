@@ -39,5 +39,71 @@
             "pagenum": 329,
             "content": "dAda¦ <i>m.</i> A gift, a donation."
         }
+    ],
+    "MD": [
+        {
+            "word": "दाद",
+            "eid": "9177",
+            "pagenum": 118,
+            "content": "दाद¦ dād-a, <lex>m.</lex> gift: <b>-da,</b> <lex>a.</lex> giving."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दाद",
+            "eid": "91238",
+            "pagenum": 474,
+            "content": "दाद ¦ <lex>m.</lex> (√ दद्) gift, donation, <ls>MBh. ix, 2117</ls>; <ls n='MBh. ix,'>2269</ls> (<ab>B.</ab> दाय), <ls>Śiś. xix, 114.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दाद",
+            "eid": "22070",
+            "pagenum": 407,
+            "content": "<i>Dāda, as,</i>¦ m. (fr. base <i>dad</i>), a gift, donation, oblation, giving. <i>—Dāda-da, as,</i> m. a donor, giver of a gift."
+        },
+        {
+            "word": "दाद",
+            "eid": "22161",
+            "pagenum": 409,
+            "content": "दाद¦ <i>dāda, dādin,</i> &c. See p. 407, col. 2."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दाद",
+            "eid": "49621",
+            "pagenum": 3,
+            "content": "दाद¦ <ls>MBH. 9,2117. 2269</ls> fehlerhaft für दाय."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दाद",
+            "eid": "32482",
+            "pagenum": 3,
+            "content": "दाद¦ (von दद् = 1. दा) <lex>m.</lex> <i>Gabe, Spende</i>: स्पृष्ट्वा तोयं हलायुधः । दत्त्वा च विविधान्दादान् <ls>MBH. 9, 2117.</ls> <ls n='MBH. 9,'>2269.</ls> Gewöhnlich steht in ähnlicher Verbindung दाय . Auch <ls>WILS.</ls> hat die Form दाद, aber ohne Angabe einer Autorität; derselbe führt auch दादद (दाद + 1. द) und दादिन् (von दद्) in der Bed. <i>gebend</i> auf."
+        },
+        {
+            "word": "दाद",
+            "eid": "75603",
+            "pagenum": 5,
+            "content": "दाद¦, die <ls>ed. Bomb.</ls> an beiden Stellen richtig दाय ."
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "दाद",
+            "eid": "7410",
+            "pagenum": 5,
+            "content": "दाद¦ <lex>m.</lex> <i>Gabe</i> <ls>ŚIŚ. 19,114</ls>."
+        },
+        {
+            "word": "दाद",
+            "eid": "18111",
+            "pagenum": 7,
+            "content": "दाद¦ III. 5."
+        }
     ]
 }

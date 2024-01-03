@@ -31,5 +31,55 @@
             "pagenum": 254,
             "content": "<b>Diganta</b>¦ = Śiva: X, 256."
         }
+    ],
+    "MW": [
+        {
+            "word": "दिगन्त",
+            "eid": "92037",
+            "pagenum": 477,
+            "content": "दिग्-अन्त <hom>a</hom> ¦ &c. See <ls>ib.</ls>"
+        },
+        {
+            "word": "दिगन्त",
+            "eid": "92514",
+            "pagenum": 479,
+            "content": "दिग्—अन्त <hom>b</hom> ¦ <lex>m.</lex> ‘the end of the horizon’, remote distance, <ls>Bhartṛ. i, 37</ls><info lex='m'/>"
+        },
+        {
+            "word": "दिगन्त",
+            "eid": "92515",
+            "pagenum": 480,
+            "content": "दिग्—अन्त ¦ <lex>mfn.</lex> being in remote <ab n='distance'>d°</ab>, <ls>MBh. x, 260.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दिगन्त",
+            "eid": "22323",
+            "pagenum": 412,
+            "content": "दिगन्त¦ <i>dig-anta, dig-antara, dig-ambara.</i> See under the compounds of 2. <i>diś.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिगन्त",
+            "eid": "50070",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> दिगन्त¦ <lex>m.</lex> <i>Ende des Horizonts, — der Welt weiteste Ferne</i>. नानादिगन्तसमागत <i>von verschiedenen Enden der Welt zusammengekommen</i> <ls>PRASANNAR. 10,12. 62,23</ls>."
+        },
+        {
+            "word": "दिगन्त",
+            "eid": "50071",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> दिगन्त¦ <lex>Adj.</lex> <i>am Ende der Welt weilend</i>. Vielleicht ist aber दिगन्ते <i>am Ende der Welt</i> <ab>st.</ab> दिगन्तं zu lesen."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिगन्त",
+            "eid": "32817",
+            "pagenum": 3,
+            "content": "दिगन्त¦ (2. दिश् + अन्त) <div n='1'> 1) <lex>m.</lex> <i>Ende des Horizonts, Ende der Welt, weite Ferne</i> <ls>BHARTṚ. 1, 37.</ls> आकाशमुत्पततु गच्छतु वा दिगन्तम् <ls>ŚĀNTIŚ. 3, 21.</ls> <ls>ŚĀK. 95, v. l.</ls> <ls>RAGH. 3, 4. 10. 5, 67. 16, 87.</ls> <ls>KUMĀRAS. 6, 59.</ls> <ls>PRAB. 113, 6.</ls> <ls>KIR. 5, 1.</ls> <div n='1'>— 2) <lex>adj.</lex> <i>am Ende der Welt weilend</i>: दिगन्तं देशरक्षिणम् (शिवम्) <ls>MBH. 10, 260.</ls>"
+        }
     ]
 }

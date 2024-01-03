@@ -44,5 +44,49 @@
             "pagenum": 123,
             "content": "uwa-ja¦ <i>m.</i> a hut, a hermitage (grass and leaves being used in making huts), <ls>R.</ls>i.50, 52, <ls>K.S.</ls>v.17."
         }
+    ],
+    "MD": [
+        {
+            "word": "उटज",
+            "eid": "4333",
+            "pagenum": 48,
+            "content": "उटज¦ uṭa-ja, <lex>m.</lex> <lex>n.</lex> hut of leaves."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उटज",
+            "eid": "30623",
+            "pagenum": 175,
+            "content": "उट—ज ¦ <lex>mn.</lex> a hut made of leaves (the residence of hermits or saints), <ls>MBh.</ls>; <ls>R.</ls>; <ls>Ragh.</ls>; <ls>Śak.</ls> &c.<info lex='m:n'/>"
+        },
+        {
+            "word": "उटज",
+            "eid": "30624",
+            "pagenum": 175,
+            "content": "¦ a house in general, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उटज",
+            "eid": "17908",
+            "pagenum": 1,
+            "content": "उटज¦ <lex>m.</lex> <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <i>Hütte aus Laub</i>. उटजाङ्गन <lex>n.</lex> <ls>NĀGĀN. 55,12</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उटज",
+            "eid": "10757",
+            "pagenum": 1,
+            "content": "उटज¦ <lex>m.</lex> <lex>n.</lex> <i>eine Laubhütte der Asketen</i> <ls>AK. 2, 2, 6.</ls> <ls>H. 994.</ls> <ls>MBH. 13, 147.</ls> <ls>R. 1, 48, 22.</ls> <ls n='R.'>2, 91, 9</ls> (m.). <ls n='R. 2,'>100, 4.</ls> <ls n='R. 2, 100,'>24.</ls> <ls>ŚĀK. 96. ad 78.</ls> <ls>RAGH. 1, 50. 52.</ls> <ls>KUMARĀS. 5, 17.</ls> <ls>BRAHMA-P. in LA. 56, 17.</ls>"
+        },
+        {
+            "word": "उटज",
+            "eid": "67548",
+            "pagenum": 5,
+            "content": "उटज¦ <ls>MBH. 12, 4279.</ls> विरचितोटजा <lex>adj.</lex> <ls>KATHĀS. 66, 142.</ls> <div n='v'>— Vgl. पुटोटज, सहोटज ."
+        }
     ]
 }

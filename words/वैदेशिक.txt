@@ -39,5 +39,51 @@
             "pagenum": 694,
             "content": "vEdeSika¦ <i>a. (f. की)</i> Foreign, belonging to another country."
         }
+    ],
+    "MD": [
+        {
+            "word": "वैदेशिक",
+            "eid": "17142",
+            "pagenum": 300,
+            "content": "वैदेशिक¦ vaideś-ika, <lex>a.</lex> (<b>ī</b>) belonging to another 🞄country (videśa), foreign; <lex>m.</lex> stranger, 🞄foreigner; <b>-ya,</b> <lex>a.</lex> <ab>id.</ab>; <lex>n.</lex> separation in space."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वैदेशिक",
+            "eid": "207025",
+            "pagenum": 1022,
+            "content": "वैदेशिक ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> वि-देश) belonging to another country, foreign<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "वैदेशिक",
+            "eid": "207026",
+            "pagenum": 1022,
+            "content": "वैदेशिक ¦ <lex>m.</lex> a stranger, foreigner, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वैदेशिक",
+            "eid": "45046",
+            "pagenum": 968,
+            "content": "वैदेशिक¦ <i>vaideśika, as, ī, am</i> (fr. <i>vi-deśa</i>), belonging to another country, foreign, strange, a foreigner."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैदेशिक",
+            "eid": "107680",
+            "pagenum": 6,
+            "content": "वैदेशिक¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <ab>Subst.</ab> <i>aus der Fremde gekommen, Fremdling</i> <ls>BĀLAR. 14,18</ls>. <ls>UTTAMAC. 209. 222</ls>. <ls>Comm. zu TĀṆḌYA-BR. 20,15,10</ls>. °निवासिनस् <ab>Pl.</ab> <i>fremde und eingeborene</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>BĀLAR. 161,18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैदेशिक",
+            "eid": "95747",
+            "pagenum": 6,
+            "content": "वैदेशिक¦ (von विदेश) <lex>adj.</lex> <i>aus der Fremde gekommen</i>, <lex>m.</lex> <i>Fremdling</i> <ls>MBH. 12, 4762.</ls> <ls>KATHĀS. 21, 125.</ls> <ls n='KATHĀS.'>43, 142.</ls> <ls n='KATHĀS.'>49, 44.</ls> <ls>RĀJA-TAR. 3, 161. 5, 353. 8, 1049.</ls> <ls>ŚATR. 10, 167.</ls> <ls>PAÑCAT. 184, 4.</ls> °निवासिनाम् <ls>R. 1, 12, 11</ls> nach dem Comm. <i>fremder und eingeborener.</i>"
+        }
     ]
 }

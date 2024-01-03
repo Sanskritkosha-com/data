@@ -45,5 +45,69 @@
             "pagenum": 152,
             "content": "<b>go-pā́</b>¦ [<ls n='wg,351'>351]</ls>, <i><ab>m.</ab></i> <div n='2'/><b>—1.</b> cow-keeper; <div n='2'/><b>—2.</b> keeper <i>in general</i> (<i>see</i> go 4), <ls n='lan,85,16'>85<sup>16</sup></ls>; protector, <lbinfo n='protec-tor,'/> <ls n='lan,69,15'>69<sup>15</sup></ls>. [<b>2pā.</b>]"
         }
+    ],
+    "MD": [
+        {
+            "word": "गोपा",
+            "eid": "7124",
+            "pagenum": 87,
+            "content": "गोपा¦ go-pā́, <lex>m.</lex> herd; watcher, protector; 🞄<lex>f.</lex> female watcher."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गोपा",
+            "eid": "67225",
+            "pagenum": 365,
+            "content": "गो—पा/ <hom>a</hom> ¦ <lex>m.</lex> (<ab>nom.</ab> आ/स् <ab>acc.</ab> आ/म् <ab>du.</ab> आ/ or औ/ <ab>pl.</ab> <ab>nom.</ab> आ/स् <ab>instr.</ab> आ/भिस्) a herdsman, guardian, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>TBr. iii</ls>; <ls>ChUp.</ls>; <ls>ŚvetUp.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गोपा",
+            "eid": "67226",
+            "pagenum": 365,
+            "content": "गो—पा/ ¦ <lex>f.</lex> (आ/स्) a female guardian, <ls>AV. xii, 1, 57</ls>; <ls>TBr. iii</ls> (<ab>cf.</ab> गोप/ <ab>s.v.</ab>, अ/-, देव/-, वायु/-, सह-, सो/म-, सु-गोपा/)<info lex='f'/>"
+        },
+        {
+            "word": "गोपा",
+            "eid": "67866",
+            "pagenum": 368,
+            "content": "गो-पा <hom>b</hom> ¦ (आ), <lex>f.</lex> <ab>N.</ab> of one of the wives of <s1 slp1='SAkya-muni'>Śākya-muni</s1>, <ls>Lalit. xii</ls> &c.<info lex='f'/>"
+        },
+        {
+            "word": "गोपा",
+            "eid": "67867",
+            "pagenum": 368,
+            "content": "¦ <ab>cf.</ab> गौपेय<info lex='inh'/>"
+        },
+        {
+            "word": "गोपा",
+            "eid": "67868",
+            "pagenum": 368,
+            "content": "¦ <bot>Ichnocarpus frutescens</bot>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "गोपा",
+            "eid": "17679",
+            "pagenum": 300,
+            "content": "<i>Go-pā, ās,</i>¦ m., Ved. a herdsman, a protector, a guardian; [cf. <i>go-pa, deva-gopā, vāta-g°, vāyu-g°,</i> <i>saha-g°, su-g°, soma-g°.</i>] <i>—Gopā-jihva, as, ā, am,</i> Ved. one who has the tongue, i. e. the voice of a cowherd; (Sāy.) an epithet of Indra. <i>—Gopā-vat,</i> <i>ān, atī, at,</i> Ved. granting protection."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोपा",
+            "eid": "36670",
+            "pagenum": 2,
+            "content": "गोपा/¦ <lex>m.</lex> <i>Hirt, Hüter, Wächter;</i> <lex>f.</lex> <i>Hirtin</i> <ab>u. s. w.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोपा",
+            "eid": "23190",
+            "pagenum": 2,
+            "content": "गोपा/¦ (गो + पा) <lex>m.</lex> (auch <lex>f.</lex> <ls>AV. 12, 1, 57.</ls> <ls>TBR. 3, 1, 2, 7)</ls> sg. गोपास्, गोपाम्; du. गोपौ und गोपा; pl. गोपास्, गोपाभिस् (<ls>VOP. 3, 78. 42).</ls> <i>Hirt, Hüter, Wächter</i> <ls>NIR. 7, 9.</ls> इ\\नो विश्व^स्य\\ भुव^नस्य गो\\पाः <ls>ṚV. 1, 164, 21.</ls> <ls n='ṚV.'>2, 23, 6.</ls> <ls>TAITT. BR. 3, 1, 1, 14.</ls> <ls>CHĀND. UP. 4, 3, 6.</ls> <ls>ŚVETĀŚV. UP. 3, 2.</ls> गो\\पा ऋ\\तस्य^ <ls>ṚV. 3, 10, 2.</ls> क आस^तो\\ वच^सः सन्ति गो\\पाः <ls n='ṚV.'>5, 12, 4.</ls> <ls n='ṚV.'>6, 9, 3.</ls> अद^ब्धेभि\\स्तव^ गो\\पाभि^रिष्टे\\ ऽस्माक^ं पाहि <ls n='ṚV. 6,'>8, 7.</ls> <ls>VS. 16, 7.</ls> <ls>AV. 7, 53, 2.</ls> वृ\\जन^स्य गो\\पाम् <ls>ṚV. 1, 91, 21.</ls> <div n='v'>— Vgl. गोप, देवगोपा, वात°, वायु°, सह°, सु°, सोम° ."
+        }
     ]
 }

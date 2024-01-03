@@ -23,5 +23,37 @@
             "pagenum": 654,
             "content": "vAr-muc¦ <i>m.</i> a cloud."
         }
+    ],
+    "MD": [
+        {
+            "word": "वार्मुच्",
+            "eid": "16349",
+            "pagenum": 278,
+            "content": "वार्मुच्¦ vār-muc, <lex>m.</lex> rain-cloud."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वार्मुच्",
+            "eid": "191423",
+            "pagenum": 943,
+            "content": "वार्—मुच् ¦ <lex>m.</lex> ‘<ab n='water'>w°</ab>-discharger’, a cloud, <ls>BhP.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वार्मुच्",
+            "eid": "101148",
+            "pagenum": 6,
+            "content": "वार्मुच्¦ <lex>m.</lex> <i>Regenwolke</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वार्मुच्",
+            "eid": "90401",
+            "pagenum": 6,
+            "content": "वार्मुच्¦ (वार् + 2. मुच्) <lex>m.</lex> <i>Wolke</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>BHĀG. P. 10, 24, 9.</ls>"
+        }
     ]
 }

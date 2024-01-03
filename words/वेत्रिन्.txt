@@ -52,5 +52,51 @@
             "pagenum": 690,
             "content": "vetrin¦ <i>m.</i> 1. A door-keeper; 2. a staff-bearer."
         }
+    ],
+    "MD": [
+        {
+            "word": "वेत्रिन्",
+            "eid": "17027",
+            "pagenum": 298,
+            "content": "वेत्रिन्¦ vetr-in, <lex>m.</lex> staff-bearer, door-keeper."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वेत्रिन्",
+            "eid": "205644",
+            "pagenum": 1015,
+            "content": "वेत्रिन् ¦ <lex>mfn.</lex> (<ab>ifc.</ab>) having a cane, having anything for a cane, <ls>MaitrUp.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वेत्रिन्",
+            "eid": "205645",
+            "pagenum": 1015,
+            "content": "वेत्रिन् ¦ <lex>m.</lex> a staff-bearer, door-keeper, <ls>Rājat.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वेत्रिन्",
+            "eid": "44837",
+            "pagenum": 963,
+            "content": "<i>Vetrin, ī,</i>¦ m. a staff-bearer, mace-bearer, porter, door-keeper."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वेत्रिन्",
+            "eid": "107036",
+            "pagenum": 6,
+            "content": "वेत्रिन्¦ <div n='1'>— 1〉 am Ende eines <ab>Comp.</ab> — <i>zum Rohrstab habend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Stabträger, Thürsteher, Diener eines vornehmen Herrn</i> <ls>KĀD. 2,47,12 (56,8)</ls>. <ab>Vgl.</ab> राज°."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वेत्रिन्",
+            "eid": "95249",
+            "pagenum": 6,
+            "content": "वेत्रिन्¦ (von वेत्र) <div n='1'> 1) <lex>adj.</lex> am Ende eines comp. — <i>zum Rohrstock habend</i> <ls>MAITRYUP. 6, 28</ls> (S. 152). <div n='1'>— 2) <i>Stabträger, Thürsteher</i> <ls>H. 721.</ls> <ls>RĀJA-TAR. 6, 3. 8, 526.</ls>"
+        }
     ]
 }

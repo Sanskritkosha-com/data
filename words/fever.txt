@@ -15,5 +15,25 @@
             "pagenum": 275,
             "content": "<b>FEVER:</b>¦ <div n='I'>I Lit. ज्वरः, <i>acute</i> (<i>lit. new</i>) <div n='xe'><i>f.:</i></div> <div n='xs'>नव- ज्वरः;</div> <i>chronic</i> (<i>lit. old</i>) <div n='xe'><i>f.:</i></div> <div n='xs'>जीर्णज्वरः,</div> Bha.; <div n='xe'><i>inflammatory f.:</i></div> <div n='xs'>दाहज्वरः;</div> <div n='xe'><i>cold f.:</i></div> <div n='xs'>शीतज्वरः;</div> <div n='xe'><i>typhoid f.:</i></div> <div n='xs'>सन्निपातज्वरः</div> (?); <i>he will have f. again:</i> अस्य पुनरेव भवेज्ज्वरः; Sr.; <div n='xe'><i>recovered from f.:</i></div> <div n='xs'>जरो- त्सृष्टः</div> (ष्टा, ष्टं), Sr, <div n='xe'><i>or</i></div> <div n='xs'>ज्वरमुक्तः</div> (क्ता, क्तं), Bha.</div> <div n='I'>II Fig.: ज्वरः, <div n='xe'><i>speak it without f.:</i></div> <div n='xs'>तद्ब्रूत विगत- ज्वराः,</div> Mat.: v. Excitement.</div>"
         }
+    ],
+    "MWE": [
+        {
+            "word": "fever",
+            "eid": "11112",
+            "pagenum": 268,
+            "content": "FEVER¦, <i>s.</i> ज्वरः, संज्वरः, तापः, शरीरतापः, शरीरदाहः, देहदाहः, अन्तर्दाहः, जूर्त्तिः <i>f.,</i> महागदः; ‘common fever,’ प्राकृतज्वरः; ‘bilious fever,’ पित्तज्वरः; ‘continued fever,’ सततज्वरः; ‘remittent,’ सन्ततज्वरः; ‘slow fever,’ प्रलेपकः; ‘ill of fever,’ <i>see</i> FEVERISH. ‘To be ill of fever,’ ज्वर् (c. 1. ज्वरति -रितुं), संज्वर्; ‘attack of fever,’ ज्वरावतरणं, ज्वराक्रमणं, आतपलङ्घनं."
+        },
+        {
+            "word": "fever",
+            "eid": "11113",
+            "pagenum": 268,
+            "content": "<i>To</i> FEVER¦, <i>v. a.</i> ज्वर् in caus. (ज्वरयति -यितुं), संज्वर्, in caus. ज्वरं कृ, तप् in caus. (तापयति -यितुं), सन्तप्, दह् (c. 1. दहति, दग्धुं)."
+        },
+        {
+            "word": "fever",
+            "eid": "32205",
+            "pagenum": 857,
+            "content": "FEVER¦, <i>s.</i> (Arising from vitiation of the humour bile) पित्त- ज्वरः. — (Of the humour phlegm) कफज्वरः. — (Of the humour wind) अतज्वरः. — (Of the three humours) त्रिदोषात्मकज्वरः. — (Of the bile and wind) पित्तवातज्वरः. — (Of the bile and phlegm) पित्तकफज्वरः. — (With ague) शीतज्वरः; ‘illusions of f.,’ ज्वरसृष्टिः <i>f.;</i> ‘inflammatory f.,’ दाहज्वरः; ‘slow f.,’ जीर्णज्वरः."
+        }
     ]
 }

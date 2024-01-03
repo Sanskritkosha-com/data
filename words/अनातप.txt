@@ -47,5 +47,69 @@
             "pagenum": 19,
             "content": "anAtapa¦ <i>a.</i> Cool, free from heat."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनातप",
+            "eid": "1415",
+            "pagenum": 13,
+            "content": "अनातप¦ an-ātapa, <lex>a.</lex> shady."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनातप",
+            "eid": "5486",
+            "pagenum": 27,
+            "content": "अन्-आतप ¦ <lex>m.</lex> freedom from the blaze of the sun<info lex='m'/>"
+        },
+        {
+            "word": "अनातप",
+            "eid": "5487",
+            "pagenum": 27,
+            "content": "¦ shade<info lex='inh'/>"
+        },
+        {
+            "word": "अनातप",
+            "eid": "5488",
+            "pagenum": 27,
+            "content": "अन्-आतप ¦ <lex>mfn.</lex> shady.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनातप",
+            "eid": "1677",
+            "pagenum": 28,
+            "content": "अनातप¦ <i>an-ātapa, as,</i> m. freedom from the blaze of the sun; shade; coolness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनातप",
+            "eid": "3840",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> *अनातप¦ <lex>m.</lex> <i>Schatten</i>."
+        },
+        {
+            "word": "अनातप",
+            "eid": "3841",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अनातप¦ <lex>Adj.</lex> <i>schattig</i> <ls n='Chr.'>172,20</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनातप",
+            "eid": "2492",
+            "pagenum": 1,
+            "content": "अनातप¦ (3. अ + आतप) <lex>m.</lex> <i>Schatten</i> <ls>AK. 3, 4, 159.</ls> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "अनातप",
+            "eid": "2493",
+            "pagenum": 1,
+            "content": "अनातप¦ (3. अ + आतुर) <lex>adj.</lex> <div n='1'> 1) <i>unversehrt, wohlbehalten, gesund</i>: विश्व^ं पु\\ष्टं ग्रामे^ अ\\स्मिन्न^नातु\\रम् <ls>ṚV. 1, 114, 1.</ls> अ\\ना\\तु\\रा अ\\जरा\\ स्थाम^रिष्णवः <ls n='ṚV.'>10, 94, 11.</ls> <ls n='ṚV.'>8, 47, 10.</ls> <ls n='ṚV.'>10, 97, 20.</ls> <ls>AV. 12, 2, 49.</ls> <ls>M. 2, 187.</ls> <ls n='M.'>4, 144.</ls> <div n='1'>— 2) <i>unverdrossen</i>: भेजे धर्मनातुरः <ls>RAGH. 1, 21.</ls>"
+        }
     ]
 }

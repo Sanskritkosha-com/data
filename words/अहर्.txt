@@ -73,5 +73,67 @@
             "pagenum": 124,
             "content": "<b>áhar,</b>¦ <i>see</i> <b>áhan.</b>"
         }
+    ],
+    "MD": [
+        {
+            "word": "अहर्",
+            "eid": "3325",
+            "pagenum": 36,
+            "content": "अहर्¦ áhar (<i>used as the middle base of</i> áhan), <lex>n.</lex> 🞄day: <b>-ahar,</b> <lex>ad.</lex> day by day, daily; <b>-āgama,</b> 🞄<lex>m.</lex> day-break; <b>-ādi,</b> <lex>m.</lex> <ab>id.</ab>; <b>-divá,</b> <lex>a.</lex> daily: 🞄<b>-m,</b> <lex>ad.</lex>; <b>-niśa,</b> <lex>n.</lex> day & night: <b>-m,</b> <lex>ad.</lex>; <b>-pāti,</b> <lex>m.</lex> lord of day; sun."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अहर्",
+            "eid": "21710",
+            "pagenum": 124,
+            "content": "अ/हर् ¦ <lex>n.</lex> (the weak cases come <ab>fr.</ab> अ/हन्, <ab>q.v.</ab>, the middle ones <ab>fr.</ab> अ/हस् [see below] or in <ls>RV.</ls> also <ab>fr.</ab> अ/हन्, <ab>q.v.</ab>) a day, <ls>RV.</ls> &c.<info lex='n'/>"
+        },
+        {
+            "word": "अहर्",
+            "eid": "21711",
+            "pagenum": 124,
+            "content": "¦ a sacrificial or festival day, portion of a sacrifice appointed for one day's performance, <ls>AitBr.</ls> &c. (often <ab>ifc.</ab>, as dvAdaSA<srs/>ha/, &c. See <ab>s.v.</ab> <hom>2.</hom> अ/ह)<info lex='inh'/>"
+        },
+        {
+            "word": "अहर्",
+            "eid": "21712",
+            "pagenum": 124,
+            "content": "¦ day personified as one of the eight <s1 slp1='vasu'>Vasu</s1>s, <ls>MBh. i, 2582</ls> <ab>seqq.</ab><info lex='inh'/>"
+        },
+        {
+            "word": "अहर्",
+            "eid": "21713",
+            "pagenum": 124,
+            "content": "¦ <ab>N.</ab> of an <s1 slp1='ANgirasa'>Āṅgirasa</s1>, <ls>KāṭhAnukr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अहर्",
+            "eid": "21714",
+            "pagenum": 124,
+            "content": "¦ of a <s1 slp1='tIrTa'>Tīrtha</s1>, <ls>MBh. iii, 6070</ls><info lex='inh'/>"
+        },
+        {
+            "word": "अहर्",
+            "eid": "21715",
+            "pagenum": 124,
+            "content": "¦ (अ/हनी) <ab>nom.</ab> <ab>du.</ab> day and night, <ls>RV.</ls>; <ls>AV. xiii, 2, 3</ls> (<ab>cf.</ab> अ/हश् च कृष्ण/म् अ/हर् अ/र्जुनम् च, ‘the black and the white day’ <ab>i.e.</ab> night and day, <ls>RV. vi, 9, 1</ls>)<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अहर्",
+            "eid": "13137",
+            "pagenum": 1,
+            "content": "अहर्¦ <ab>s.</ab> अहन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अहर्",
+            "eid": "7641",
+            "pagenum": 1,
+            "content": "अहर्¦ s. u. अहन् ."
+        }
     ]
 }

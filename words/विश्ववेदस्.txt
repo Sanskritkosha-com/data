@@ -29,5 +29,53 @@
             "pagenum": 1770,
             "content": "<b>viśvávedas:</b>¦<info vn='add 522 gra'/> <div n='TS'>-asas [<ab>V.</ab> <ab>p.</ab>] in {421,3} ist es <ab>N.</ab> <ab>p.</ab>"
         }
+    ],
+    "MW": [
+        {
+            "word": "विश्ववेदस्",
+            "eid": "201337",
+            "pagenum": 993,
+            "content": "<hom>1.</hom> विश्व/—वेदस् ¦ (विश्व/-), <lex>mfn.</lex> = <hom>1.</hom> -विद्, <ls>RV.</ls>; <ls>VS.</ls>; <ls>AV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विश्ववेदस्",
+            "eid": "201337.1",
+            "pagenum": 993,
+            "content": "¦ a sage, saint, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विश्ववेदस्",
+            "eid": "201338",
+            "pagenum": 993,
+            "content": "<hom>2.</hom> विश्व/—वेदस् ¦ <lex>mfn.</lex> (विश्व/-) = <hom>2.</hom> -विद्, <ls>RV.</ls>; <ls>VS.</ls>; <ls>BhP.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विश्ववेदस्",
+            "eid": "104988",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विश्व/वेदस्¦ <lex>Adj.</lex> = <hom>1.</hom> विश्ववि/द्."
+        },
+        {
+            "word": "विश्ववेदस्",
+            "eid": "104989",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> विश्व/वेदस्¦ <lex>Adj.</lex> = <hom>2.</hom> विश्ववि/द्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विश्ववेदस्",
+            "eid": "93613",
+            "pagenum": 6,
+            "content": "1. विश्व/वेदस्¦ <lex>adj.</lex> = 1. विश्वविद्. होतर् <ls>ṚV. 1, 36, 3.</ls> <ls n='ṚV. 1,'>44, 7.</ls> दूत <ls n='ṚV.'>4, 8, 1.</ls> <is>Agni</is> <ls n='ṚV.'>1, 143, 4.</ls> <ls n='ṚV. 1,'>147, 3.</ls> <ls n='ṚV.'>3, 25, 1.</ls> Götter überh. <ls n='ṚV.'>10, 66, 1.</ls> <ls n='ṚV. 10, 66,'>5.</ls> <ls n='ṚV. 10,'>93, 7.</ls> <is>Varuṇa</is> und die <is>Āditya</is> <ls n='ṚV.'>5, 67, 3.</ls> <ls n='ṚV.'>8, 18, 11.</ls> <ls n='ṚV. 8,'>27, 21.</ls> <ls n='ṚV. 8,'>25, 3.</ls> <ls n='ṚV. 8,'>42, 1.</ls> <ls n='ṚV. 8,'>47, 3.</ls> <is>Pūṣan</is> <ls n='ṚV.'>1, 89, 6.</ls> <ls>VS. 10, 9.</ls> die <is>Marut</is> <ls n='VS.'>5, 60, 7.</ls> <ls>AV. 3, 3, 1.</ls> <ls n='AV.'>6, 92, 1.</ls>"
+        },
+        {
+            "word": "विश्ववेदस्",
+            "eid": "93614",
+            "pagenum": 6,
+            "content": "2. विश्व/वेदस्¦ <lex>adj.</lex> = 2. विश्वविद् etwa <ls>ṚV. 1, 139, 3.</ls> <ls>VS. 3, 38.</ls> <ls n='VS.'>7, 45.</ls> <ls>BHĀG. P. 8, 3, 26</ls> (nach dem Comm.)."
+        }
     ]
 }

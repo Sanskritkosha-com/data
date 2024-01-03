@@ -39,5 +39,51 @@
             "pagenum": 50,
             "content": "aBivadana¦ <i>n.</i> 1. Addressing, allocution; 2. salutation."
         }
+    ],
+    "MD": [
+        {
+            "word": "अभिवदन",
+            "eid": "2262",
+            "pagenum": 23,
+            "content": "अभिवदन¦ abhi-vadana, <lex>n.</lex> address; <b>-vandana,</b> <lex>n.</lex> respectful salutation; <b>-varṇana,</b> <lex>n.</lex> 🞄description; <b>-vardhana,</b> <lex>n.</lex> strengthening, 🞄increasing."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अभिवदन",
+            "eid": "12279",
+            "pagenum": 68,
+            "content": "अभि-वदन ¦ <lex>n.</lex> salutation, <ls>MBh. iii, 1835</ls><info lex='n'/>"
+        },
+        {
+            "word": "अभिवदन",
+            "eid": "12280",
+            "pagenum": 68,
+            "content": "¦ addressing <ab>Comm.</ab> on <ls>Kum. vi, 2.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभिवदन",
+            "eid": "4697",
+            "pagenum": 67,
+            "content": "<i>Abhi-vadana, am,</i>¦ n. addressing, salutation."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभिवदन",
+            "eid": "7581",
+            "pagenum": 1,
+            "content": "अभिवदन¦ <lex>n.</lex> <i>Anrede</i>. — Auch fehlerhaft für °वादन."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभिवदन",
+            "eid": "4702",
+            "pagenum": 1,
+            "content": "अभिवदन¦ <ls>INDR. 5, 19.</ls> = अभिवादन <ls>MBH. 3, 1835.</ls> <i>Anrede</i> (von वद् mit अभि) <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 6, 2.</ls>"
+        }
     ]
 }

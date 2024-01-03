@@ -37,5 +37,35 @@
             "pagenum": 459,
             "content": "prajA-kAma¦ <i>a.</i> desirous of progeny."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रजाकाम",
+            "eid": "130865",
+            "pagenum": 658,
+            "content": "प्रजा/—काम ¦ (°जा/-), <lex>mfn.</lex> desirous of offspring, <ls>AV.</ls> &c. &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "प्रजाकाम",
+            "eid": "130865.1",
+            "pagenum": 658,
+            "content": "प्रजा/—काम ¦ (°जा/-) <lex>m.</lex> desire of <ab n='offspring'>o°</ab>, <ls>ML.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रजाकाम",
+            "eid": "70612",
+            "pagenum": 4,
+            "content": "प्रजा/काम¦ <lex>Adj.</lex> <i>Nachkommen wünschend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रजाकाम",
+            "eid": "47944",
+            "pagenum": 4,
+            "content": "प्रजा/काम¦ (प्र° + काम) <lex>adj.</lex> <i>Nachkommen wünschend</i> <ls>AV. 7, 17, 3.</ls> <ls>AIT. BR. 3. 7.</ls> <ls>ŚAT. BR. 1, 8, 1, 7. 2, 1, 2, 6. 5, 1, 7.</ls> <ls>KĀTY. ŚR. 4, 4, 1.</ls> <ls n='KĀTY. ŚR.'>24, 2, 13.</ls> <ls>ĀŚV. ŚR. 1, 10.</ls>"
+        }
     ]
 }

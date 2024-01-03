@@ -36,5 +36,37 @@
             "pagenum": 47,
             "content": "aBicara¦ <i>m.</i> A servant."
         }
+    ],
+    "MW": [
+        {
+            "word": "अभिचर",
+            "eid": "11342",
+            "pagenum": 62,
+            "content": "अभि-चर ¦ <lex>m.</lex> a servant, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभिचर",
+            "eid": "4232",
+            "pagenum": 61,
+            "content": "<i>Abhi-cara, as,</i>¦ m. a servant."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभिचर",
+            "eid": "7305",
+            "pagenum": 1,
+            "content": "*अभिचर¦ <lex>m.</lex> <i>Begleiter, Diener</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभिचर",
+            "eid": "4512",
+            "pagenum": 1,
+            "content": "अभिचर¦ (von चर् mit अभि) <lex>m.</lex> <i>Begleiter, Diener</i> <ls>AK. 2, 8, 2, 39.</ls> <ls>H. 496.</ls>"
+        }
     ]
 }

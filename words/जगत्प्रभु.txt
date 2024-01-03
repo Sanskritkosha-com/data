@@ -42,5 +42,53 @@
             "pagenum": 346,
             "content": "<b>Jagatprabhu</b><sup>2</sup>¦ = Viṣṇu: XIII, 6939."
         }
+    ],
+    "MW": [
+        {
+            "word": "जगत्प्रभु",
+            "eid": "76257",
+            "pagenum": 408,
+            "content": "जगत्—प्रभु ¦ <lex>m.</lex> the lord of the world, <ls>Prab. i, 24</ls><info lex='m'/>"
+        },
+        {
+            "word": "जगत्प्रभु",
+            "eid": "76258",
+            "pagenum": 408,
+            "content": "¦ <s1 slp1='brahmA'>Brahmā</s1>, <ls>MBh. iii, 15908</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जगत्प्रभु",
+            "eid": "76259",
+            "pagenum": 408,
+            "content": "¦ <s1 slp1='Siva'>Śiva</s1><info lex='inh'/>"
+        },
+        {
+            "word": "जगत्प्रभु",
+            "eid": "76260",
+            "pagenum": 408,
+            "content": "¦ <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>VarP. clxix, 2</ls><info lex='inh'/>"
+        },
+        {
+            "word": "जगत्प्रभु",
+            "eid": "76261",
+            "pagenum": 408,
+            "content": "¦ <ab>N.</ab> of an <s1 slp1='arhat'>Arhat</s1> of the <s1 slp1='jEna'>Jaina</s1>s, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "जगत्प्रभु",
+            "eid": "41245",
+            "pagenum": 2,
+            "content": "जगत्प्रभु¦ <lex>m.</lex> <i>Herr der Welt</i>. <ab>Bein.</ab> <div n='1'>— 1〉 <is>Brahman</is>ʼs. <div n='1'>— 2〉 <is>Viṣṇu</is>ʼs. <div n='1'>— 3〉 *<is>Śiva</is>ʼs. <div n='1'>— 4〉 *eines <is>Arhant</is> bei den <is>Jaina</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जगत्प्रभु",
+            "eid": "26331",
+            "pagenum": 3,
+            "content": "जगत्प्रभु¦ (ज° + प्रभु) <lex>m.</lex> <i>der Herr der Welt</i> <ls>PRAB. 14, 5.</ls> Bein. <is>Brahman's</is> <ls>MBH. 3, 15908.</ls> <is>Śiva's</is> <ls>ŚIV.</ls> <is>Viṣṇu's</is> <ls>Verz. d. Oxf. H. 61</ls>, <i>b. ein</i> <is>Arhant</is> (bei den <is>Jaina</is>) <ls>H. 24.</ls>"
+        }
     ]
 }

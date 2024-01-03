@@ -23,5 +23,41 @@
             "pagenum": 152,
             "content": "eka-yoni¦ <i>a.</i> 1. uterine; 2. of the same family."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकयोनि",
+            "eid": "39510",
+            "pagenum": 229,
+            "content": "एक—योनि ¦ <lex>f.</lex> the same womb<info lex='f'/>"
+        },
+        {
+            "word": "एकयोनि",
+            "eid": "39511",
+            "pagenum": 229,
+            "content": "एक—योनि ¦ <lex>mfn.</lex> of the same mother, <ls>ĀśvŚr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकयोनि",
+            "eid": "39512",
+            "pagenum": 229,
+            "content": "¦ of the same origin or caste, <ls>Mn. ix, 148.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकयोनि",
+            "eid": "21892",
+            "pagenum": 1,
+            "content": "एकयोनि¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>von derselben Mutter geboren</i>. <div n='1'>— 2〉 <i>von derselben Herkunft, — Kaste</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकयोनि",
+            "eid": "13326",
+            "pagenum": 1,
+            "content": "एकयोनि¦ (एक + योनि) <lex>adj.</lex> <i>von einer Mutter geboren</i> <ls>ĀŚV. ŚR. 2, 2.</ls> <i>von derselben Herkunft, - Kaste</i> <ls>M. 9, 148.</ls>"
+        }
     ]
 }

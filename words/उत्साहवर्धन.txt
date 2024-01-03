@@ -13,5 +13,41 @@
             "pagenum": 128,
             "content": "utsAha-varDana¦ <i>(II) n.</i> increase of energy, heroism."
         }
+    ],
+    "MW": [
+        {
+            "word": "उत्साहवर्धन",
+            "eid": "31892",
+            "pagenum": 182,
+            "content": "उत्-साह—वर्धन ¦ <lex>mfn.</lex> increasing energy, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "उत्साहवर्धन",
+            "eid": "31893",
+            "pagenum": 182,
+            "content": "उत्-साह—वर्धन ¦ <lex>m.</lex> (<ab>scil.</ab> रस) the sentiment of heroism, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "उत्साहवर्धन",
+            "eid": "31894",
+            "pagenum": 182,
+            "content": "उत्-साह—वर्धन ¦ <lex>n.</lex> increase of energy, heroism, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उत्साहवर्धन",
+            "eid": "18521",
+            "pagenum": 1,
+            "content": "*उत्साहवर्धन¦ <lex>Adj.</lex> <i>die Willenskraft steigernd</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उत्साहवर्धन",
+            "eid": "11120",
+            "pagenum": 1,
+            "content": "उत्साहवर्धन¦ (उ° + व°) m. (<ls>WILS.</ls> und <ls>ŚKDR.</ls> n.) <i>Heroismus</i> <ls>AK. 1, 1, 7, 18.</ls>"
+        }
     ]
 }

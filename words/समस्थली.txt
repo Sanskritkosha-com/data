@@ -20,5 +20,41 @@
             "pagenum": 683,
             "content": "समस्थली¦ <i>samasthalī</i> <ab>f.</ab> <i>(sthala)</i> les plaines <lbinfo n='3'/> du Doab, entre le Gange et le <s1 slp1='yamunA'>Yamunā</s1>."
         }
+    ],
+    "MW": [
+        {
+            "word": "समस्थली",
+            "eid": "233217",
+            "pagenum": 1153,
+            "content": "सम—स्थली ¦ (ई), <lex>f.</lex> <ab>id.</ab><info lex='f'/>"
+        },
+        {
+            "word": "समस्थली",
+            "eid": "233218",
+            "pagenum": 1153,
+            "content": "¦ the Doab or country between the Ganges and <ns>Jumnā</ns> rivers (<ab>cf.</ab> अन्तर्वेदी), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "समस्थली",
+            "eid": "120155",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> *समस्थली¦ <lex>f.</lex> <i>das ebene Land,</i> <ab>Bez.</ab> <i>des zwischen der</i> <is>Yamunā</is> <i>und der</i> <is>Gaṅgā</is> <i>gelegenen Landes</i>."
+        },
+        {
+            "word": "समस्थली",
+            "eid": "120156",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> समस्थली¦ <lex>Adv.</lex> mit कर् <i>in einen ebenen Boden verwandeln, dem Erdboden gleichmachen</i> <ls>ŚIŚ. 12,60. 17,66</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समस्थली",
+            "eid": "105488",
+            "pagenum": 7,
+            "content": "समस्थली¦ <lex>f.</lex> <i>ebenes Land</i>, Bez. des zwischen der <is>Yamunā</is> und der <is>Gaṅgā</is> belegenen Landes <ls>H. 949.</ls>"
+        }
     ]
 }

@@ -55,5 +55,35 @@
             "pagenum": 333,
             "content": "diSA¦ <i>f.</i> Direction, region, quarter of the compass."
         }
+    ],
+    "MW": [
+        {
+            "word": "दिशा",
+            "eid": "92608",
+            "pagenum": 480,
+            "content": "दिशा ¦ <lex>f.</lex> direction, region, quarter or point of the compass, <ls>MBh. iv, 1716</ls> &c.; <ls>Hār. 2243</ls> (<ab>cf.</ab> अन्तर- and avA<srs/>ntara-)<info lex='f'/>"
+        },
+        {
+            "word": "दिशा",
+            "eid": "92609",
+            "pagenum": 480,
+            "content": "¦ <ab>N.</ab> of the wife of <s1 slp1='rudra-BIma'>Rudra-Bhīma</s1>, <ls>VP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दिशा",
+            "eid": "22399",
+            "pagenum": 415,
+            "content": "<i>Diśā,</i>¦ f. direction, region, quarter or point of the compass; N. of a wife of Rudra; [cf. <i>antara-d°</i> and <i>avāntara-d°.</i>] <i>—Diśā-gaja, as,</i> m. <i>= dik-ka-</i> <i>rin,</i> q. v. <i>—Diśā-cakṣus, us,</i> m. ‘sky-vision,’ N. of a son of Garuḍa. <i>—Diśā-pāla, as,</i> m. ‘the guardian of a quarter,’ the elephant of a quarter; [cf. <i>dik-pāla</i> and <i>dik-karin.</i>]"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिशा",
+            "eid": "33067",
+            "pagenum": 3,
+            "content": "दिशा¦ <lex>f.</lex> <div n='1'> 1) = 2. दिश् <i>Richtung, Himmelsrichtung</i> <ls>VOP. 4, 2.</ls> दिशया <ls>MBH. 13, 1390.</ls> दिशासु <ls n='MBH.'>4, 1716.</ls> <ls n='MBH.'>12, 10454.</ls> दिशाभिर्विदिशाभिश्च <ls>HARIV. 2243.</ls> Vgl. अन्तर°, अवान्तर° . <div n='1'>— 2) N. pr. der Gemahlin des <is>Rudra</is> <is>Bhīma</is> <ls>VP. 59.</ls>"
+        }
     ]
 }

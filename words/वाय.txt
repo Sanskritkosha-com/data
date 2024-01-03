@@ -31,5 +31,87 @@
             "pagenum": 653,
             "content": "vAya¦ <i>m.</i> Weaving."
         }
+    ],
+    "MD": [
+        {
+            "word": "वाय",
+            "eid": "16303",
+            "pagenum": 277,
+            "content": "वाय¦ vāy-a, <lex>m.</lex> (<ab>—°</ab>) weaver; weaving; thread 🞄[√ <hom>4.</hom> vā]: <b>-ka,</b> <lex>m.</lex> weaver, sewer."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वाय",
+            "eid": "191180",
+            "pagenum": 942,
+            "content": "<hom>1.</hom> वाय ¦ <lex>m.</lex> (<ab>fr.</ab> √ वे; <ab>cf.</ab> <hom>1.</hom> वाप) ‘weaving’ or ‘a weaver’ (See तन्तु-, तन्त्र-, तुन्न-, वासो-व्°)<info lex='m'/>"
+        },
+        {
+            "word": "वाय",
+            "eid": "191181",
+            "pagenum": 942,
+            "content": "¦ a thread, strap (See तिरश्चिन-व्°). <info lex='inh'/>"
+        },
+        {
+            "word": "वाय",
+            "eid": "191187",
+            "pagenum": 942,
+            "content": "<hom>2.</hom> वाय ¦ <lex>m.</lex> (said to be) <ab>patr.</ab> <ab>fr.</ab> वि, a bird, <ls>Nir. vi, 28.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वाय",
+            "eid": "191188",
+            "pagenum": 942,
+            "content": "<hom>3.</hom> वाय ¦ <lex>m.</lex> (<ab>fr.</ab> √ वी) a leader, guide (See पद-वाय/). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वाय",
+            "eid": "41889",
+            "pagenum": 904,
+            "content": "वाय¦ <i>vāya, as,</i> m. (fr. rt. <i>ve</i>), weaving, sewing. <i>—Vāya-daṇḍa, as,</i> m. a weaver's loom."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वाय",
+            "eid": "100714",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> °वाय¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Weber</i>. <div n='1'>— 2〉 das Weben. <div n='1'>— 3〉 <i>Band</i> in तिरश्चीन°."
+        },
+        {
+            "word": "वाय",
+            "eid": "100715",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> वाय¦ <lex>m.</lex> angeblich <ab>Patron.</ab> von वि <i>Vogel</i>."
+        },
+        {
+            "word": "वाय",
+            "eid": "100716",
+            "pagenum": 6,
+            "content": "<hom>3.</hom> वाय¦ <lex>m.</lex> <i>Führer</i> in पदवाय/."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वाय",
+            "eid": "90037",
+            "pagenum": 6,
+            "content": "1. वाय¦ (von 5. वा) am Ende eines comp. nom. ag. ( <ls>P. 3, 3, 2</ls>) und act. s. तन्तु°, तन्त्र°, तुन्न°, वासो°. तिरश्चीन° <lex>m.</lex> <i>Querband</i> <ls>AIT. BR. 18, 12. 17.</ls>"
+        },
+        {
+            "word": "वाय",
+            "eid": "90038",
+            "pagenum": 6,
+            "content": "2. वाय¦ angebl. patron. von वि <i>Vogel</i> <ls>NIR. 6, 28.</ls>"
+        },
+        {
+            "word": "वाय",
+            "eid": "90039",
+            "pagenum": 6,
+            "content": "3. वाय¦ = वी in पद° ."
+        }
     ]
 }

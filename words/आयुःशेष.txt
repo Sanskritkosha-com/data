@@ -29,5 +29,49 @@
             "pagenum": 105,
             "content": "Ayus-Seza¦ <i>m.</i> end of life, decline of life."
         }
+    ],
+    "MD": [
+        {
+            "word": "आयुःशेष",
+            "eid": "3779",
+            "pagenum": 41,
+            "content": "आयुःशेष¦ āyuḥ-śeṣa, <lex>m.</lex> remnant of life; 🞄<lex>a.</lex> having a remnant of life, still alive: <b>-tā,</b> 🞄<lex>f.</lex> <ab>abst. ɴ.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आयुःशेष",
+            "eid": "25876",
+            "pagenum": 148,
+            "content": "आयुः—शेष ¦ <lex>m.</lex> remainder of life, <ls>Hit.</ls><info lex='m'/>"
+        },
+        {
+            "word": "आयुःशेष",
+            "eid": "25877",
+            "pagenum": 148,
+            "content": "आयुः—शेष ¦ <lex>mfn.</lex> having still a short space of life left, not yet about to die<info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आयुःशेष",
+            "eid": "15363",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> आयुःशेष¦ <lex>m.</lex> <i>Lebensrest</i> <ls n='Chr.'>157,27</ls>."
+        },
+        {
+            "word": "आयुःशेष",
+            "eid": "15364",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> आयुःशेष¦ <lex>Adj.</lex> <i>dessen Lebenszeit noch nicht abgelaufen ist</i> <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>PAÑCAT. 9,4. 127,3</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आयुःशेष",
+            "eid": "66723",
+            "pagenum": 5,
+            "content": "आयुःशेष¦ (आयुस् + शेष) <lex>adj.</lex> <i>der nur eben mit dem Leben davonkommt</i>; davon nom. abstr. °ता <ls>PAÑCAT. 127, 3</ls> (आयुशे° gedr.)."
+        }
     ]
 }

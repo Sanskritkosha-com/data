@@ -39,5 +39,43 @@
             "pagenum": 345,
             "content": "dEva-tas¦ <i>ind.</i> perchance, through fortune."
         }
+    ],
+    "MD": [
+        {
+            "word": "दैवतस्",
+            "eid": "9618",
+            "pagenum": 126,
+            "content": "दैवतस्¦ daiva-tas, <lex>ad.</lex> by fate, accidentally."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दैवतस्",
+            "eid": "96807",
+            "pagenum": 497,
+            "content": "दैव—तस् ¦ <lex>ind.</lex> by <ab n='fate'>f°</ab> or chance, <ls>Kathās.</ls>; <ls>BhP. 1.</ls><info lex='ind'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दैवतस्",
+            "eid": "52899",
+            "pagenum": 3,
+            "content": "दैवतस्¦ <lex>Adv.</lex> <i>durch einen Fügung des Schicksals, zufällig</i> <ls n='Chr.'>110,1. 125,22</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दैवतस्",
+            "eid": "34937",
+            "pagenum": 3,
+            "content": "दैवतस्¦ (von दैव) <lex>adj.</lex> <i>durch eine Fügung des Schicksals</i> <ls>KATHĀS. 25, 197.</ls> <ls>BHĀG. P. 4, 7, 39.</ls>"
+        },
+        {
+            "word": "दैवतस्",
+            "eid": "76210",
+            "pagenum": 5,
+            "content": "दैवतस्¦ lies adv. st. <lex>adj.</lex> und füge <ls>KATHĀS. 73, 380</ls> hinzu."
+        }
     ]
 }

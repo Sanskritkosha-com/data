@@ -23,5 +23,43 @@
             "pagenum": 274,
             "content": "cimi¦ <i>m.</i> A parrot."
         }
+    ],
+    "MW": [
+        {
+            "word": "चिमि",
+            "eid": "74201",
+            "pagenum": 398,
+            "content": "चिमि ¦ <lex>m.</lex> = <hom>1.</hom> चिरि, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "चिमि",
+            "eid": "74201.1",
+            "pagenum": 398,
+            "content": "¦ <ab>N.</ab> of a plant (from the fibres of which cloth is made), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चिमि",
+            "eid": "18646",
+            "pagenum": 326,
+            "content": "चिमि¦ <i>cimi, is,</i> m. a parrot [cf. <i>ciri</i>]; a kind of plant, from the fibres of which coarse cloth and ropes are made, <i>= paṭṭa-vṛkṣa.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चिमि",
+            "eid": "40236",
+            "pagenum": 2,
+            "content": "*चिमि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Papagei</i>. <div n='1'>— 2〉 <i>eine <ab>best.</ab> Pflanze</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चिमि",
+            "eid": "25589",
+            "pagenum": 2,
+            "content": "चिमि¦ <lex>m.</lex> <div n='1'> 1) <i>Papagei</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> Vgl. चिरि . <div n='1'>— 2) <i>eine best. Pflanze, aus deren Fasern Zeuge bereitet werden</i> (पट्टवृक्ष), <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

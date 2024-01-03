@@ -29,5 +29,59 @@
             "pagenum": 52,
             "content": "ईर¦ <i>u.</i> ईरण <i>m.</i> Wind."
         }
+    ],
+    "MD": [
+        {
+            "word": "ईर",
+            "eid": "4239",
+            "pagenum": 47,
+            "content": "ईर¦ īr-a, <lex>m.</lex> wind; <b>-aṇa,</b> <lex>m.</lex> <ab>id.</ab>; <lex>n.</lex> pressure."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ईर",
+            "eid": "29762",
+            "pagenum": 170,
+            "content": "ईर ¦ <lex>m.</lex> wind.<info lex='m'/>"
+        },
+        {
+            "word": "ईर",
+            "eid": "29762.1",
+            "pagenum": 1321,
+            "content": "ईर ¦ <lex>mfn.</lex> driving, chasing, <ls>Nalac.</ls><info n='sup'/><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ईर",
+            "eid": "54831",
+            "pagenum": 1182,
+            "content": "<i>Īra, as,</i>¦ m. the wind. <i>—Īra-ja</i> or <i>īra-putra, as,</i> m. ‘son of the wind,’ Hanu-mat."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ईर",
+            "eid": "17477",
+            "pagenum": 1,
+            "content": "ईर¦ <lex>m.</lex> <i>Wind</i>. °ज <lex>m.</lex> <ab>Patron.</ab> <is>Hanumant</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ईर",
+            "eid": "67392",
+            "pagenum": 5,
+            "content": "ईर¦ (von ईर्) <lex>m.</lex> <i>Wind</i>: °ज <i>der Sohn des Windes</i> <ab>d. i.</ab> <is>Hanumant</is> <ls>WEBER, RĀMAT. UP. 310.</ls> °पुत्र dass. <ls n='WEBER, RĀMAT. UP.'>297</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "ईर",
+            "eid": "22280",
+            "pagenum": 7,
+            "content": "ईर¦ I. <lex>Adj.</lex> <i>treibend, jagend</i> <ls>DAMAYANTĪK. 201</ls>."
+        }
     ]
 }

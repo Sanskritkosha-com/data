@@ -20,5 +20,35 @@
             "pagenum": 420,
             "content": "मेरु°पृष्ठ¦ <lex>n.</lex> the summit of Meru."
         }
+    ],
+    "MW": [
+        {
+            "word": "मेरुपृष्ठ",
+            "eid": "168014",
+            "pagenum": 833,
+            "content": "मेरु—पृष्ठ ¦ <lex>n.</lex> the summit of <ab n='Meru' slp1='meru'>M°</ab>, <ls>Hariv.</ls><info lex='n'/>"
+        },
+        {
+            "word": "मेरुपृष्ठ",
+            "eid": "168015",
+            "pagenum": 833,
+            "content": "¦ heaven, the sky, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मेरुपृष्ठ",
+            "eid": "88841",
+            "pagenum": 5,
+            "content": "मेरुपृष्ठ¦ <div n='1'>— 1〉 <i>die Höhe —, der Gipfel des</i> <is>Meru</is>. <div n='1'>— 2〉 *<i>der Himmel</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मेरुपृष्ठ",
+            "eid": "62027",
+            "pagenum": 5,
+            "content": "मेरुपृष्ठ¦ (मेरु + पृष्ठ) <lex>n.</lex> <div n='1'> 1) <i>die Höhe —, der Gipfel des</i> <is>Meru</is> <ls>HARIV. 12009.</ls> <ls>Verz. d. Oxf. H. 55,a,17.</ls> <div n='1'>— 2) <i>der Himmel</i> <ls>H. ś. 1.</ls>"
+        }
     ]
 }

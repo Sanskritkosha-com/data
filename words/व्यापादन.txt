@@ -44,5 +44,43 @@
             "pagenum": 700,
             "content": "vyApAdana¦ <i>n.</i> 1. Ruin, destruction; 2. evil design, malice."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्यापादन",
+            "eid": "209827",
+            "pagenum": 1037,
+            "content": "व्य्-°आपादन ¦ <lex>n.</lex> destruction, killing, slaughter, death by (<ab>comp.</ab>), <ls>MārkP.</ls>; <ls>Suśr.</ls>; <ls>Pañcat.</ls><info lex='n'/>"
+        },
+        {
+            "word": "व्यापादन",
+            "eid": "209828",
+            "pagenum": 1037,
+            "content": "¦ ill-will, malice, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्यापादन",
+            "eid": "45659",
+            "pagenum": 980,
+            "content": "<i>Vy-āpādana, am,</i>¦ n. the act of destroying, destruction, killing, slaying; malice."
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्यापादन",
+            "eid": "108696",
+            "pagenum": 6,
+            "content": "व्यापादन¦ <lex>n.</lex> <i>Verderbniss</i> (<ab>trans.</ab>), <i>Zerstörung, Zugrunderichtung, Tödtung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्यापादन",
+            "eid": "96598",
+            "pagenum": 6,
+            "content": "व्यापादन¦ (wie eben) <lex>n.</lex> <i>Verderbniss</i> (trans.), <i>Zerstörung, zu-Grunde-Richtung, Tödtung</i> <ls>H. 370.</ls> <ls>HALĀY. 2, 323.</ls> सिरास्नायुसंध्यस्थि° <ls>SUŚR. 1, 37, 4. 5. 62, 17.</ls> बालामात्यव्यापादनोद्यता <ls>MĀRK. P. 21, 32.</ls> आंत्मव्यापादनोद्यता <ls n='MĀRK. P.'>64, 12.</ls> सर्प° <i>Tödtung durch</i> <ls>PAÑCAT. 265, 16.</ls>"
+        }
     ]
 }

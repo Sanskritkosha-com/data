@@ -15,5 +15,29 @@
             "pagenum": 120,
             "content": "चन्द्रपाद¦ <i>m.</i> Mondstrahl."
         }
+    ],
+    "MW": [
+        {
+            "word": "चन्द्रपाद",
+            "eid": "71710",
+            "pagenum": 387,
+            "content": "चन्द्र—पाद ¦ <lex>m.</lex> a moon-beam, <ls>Megh. 71.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चन्द्रपाद",
+            "eid": "38986",
+            "pagenum": 2,
+            "content": "चन्द्रपाद¦ <lex>m.</lex> <i>Mondstrahl</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चन्द्रपाद",
+            "eid": "24743",
+            "pagenum": 2,
+            "content": "चन्द्रपाद¦ (च° + पाद) <lex>m.</lex> <i>Mondstrahl</i> <ls>MEGH. 71.</ls>"
+        }
     ]
 }

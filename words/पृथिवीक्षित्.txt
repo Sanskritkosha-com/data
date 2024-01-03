@@ -39,5 +39,35 @@
             "pagenum": 451,
             "content": "pfTivI-kzit¦ <i>m.</i> a king."
         }
+    ],
+    "MW": [
+        {
+            "word": "पृथिवीक्षित्",
+            "eid": "128475",
+            "pagenum": 646,
+            "content": "पृथिवी—क्षित् ¦ <lex>mfn.</lex> dwelling on or ruling over the <ab n='earth'>e°</ab><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पृथिवीक्षित्",
+            "eid": "128475.1",
+            "pagenum": 646,
+            "content": "पृथिवी—क्षित् ¦ <lex>m.</lex> a prince, king, <ls>KātyŚr.</ls>; <ls>ChUp.</ls> &c.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पृथिवीक्षित्",
+            "eid": "69439",
+            "pagenum": 4,
+            "content": "पृथिवीक्षित्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>die Erde bewohnend</i>. <div n='2'>— b〉 <i>die Erde —, das Land beherrschend</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>Fürst König</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पृथिवीक्षित्",
+            "eid": "47023",
+            "pagenum": 4,
+            "content": "पृथिवीक्षित्¦ (पृ° + क्षित्) <lex>adj.</lex> <i>die Erde bewohnend</i>: अग्नि <ls>CHĀND. UP. 2, 24, 5.</ls> <ls>KĀTY. ŚR. 4, 14, 28.</ls> <i>die Erde beherrschend</i>; <lex>m.</lex> <i>Fürst, König</i>: पार्थिवाः <ls>HARIV. 3840.</ls> राज्यान्तकरणावेतौ द्वौ दोषौ पृथिवीक्षिताम् <ls>M. 9, 221.</ls> <ls>N. 5, 4.</ls> <ls>RAGH. 7, 2.</ls> <ls>MĀRK. P. 27, 19.</ls>"
+        }
     ]
 }

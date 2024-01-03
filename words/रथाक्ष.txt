@@ -31,5 +31,61 @@
             "pagenum": 605,
             "content": "raTa-akza¦ <i>m.</i> a carriage-axle."
         }
+    ],
+    "MD": [
+        {
+            "word": "रथाक्ष",
+            "eid": "15049",
+            "pagenum": 250,
+            "content": "रथाक्ष¦ ratha‿akṣá, <lex>m.</lex> chariot-axle."
+        }
+    ],
+    "MW": [
+        {
+            "word": "रथाक्ष",
+            "eid": "174666",
+            "pagenum": 866,
+            "content": "raTA<srs/>kza/ ¦ <lex>m.</lex> a <ab n='chariots'>ch°</ab>-axle, <ls>TS.</ls>; <ls>Kāṭh.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "रथाक्ष",
+            "eid": "174667",
+            "pagenum": 866,
+            "content": "¦ a measure of length, = 104 <s1 slp1='aNgula'>Aṅgula</s1>s (-मात्र <lex type='phw'>mfn.</lex> having that length), <ls>KātyŚr.</ls>; <ls>ib.</ls>, <ab>Sch.</ab> &c.<info phwchild='174668.1'/><info lex='inh'/>"
+        },
+        {
+            "word": "रथाक्ष",
+            "eid": "174668",
+            "pagenum": 866,
+            "content": "¦ <ab>N.</ab> of one of <s1 slp1='skanda'>Skanda</s1>'s attendants, <ls>MBh.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रथाक्ष",
+            "eid": "92599",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> रथाक्ष/¦ <lex>m.</lex> <i>Wagenachse</i>. Als Längenmaass = 104 <is>Aṅgula</is>. रथाक्षमात्र <lex>Adj.</lex> <i>von solcher Länge</i>."
+        },
+        {
+            "word": "रथाक्ष",
+            "eid": "92600",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> रथाक्ष¦ <lex>m.</lex> <ab>N. pr.</ab> eines Wesens im Gefolge <is>Skanda</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रथाक्ष",
+            "eid": "83437",
+            "pagenum": 6,
+            "content": "1. रथाक्ष/¦ (रथ + 2. अक्ष) <lex>m.</lex> <i>Wagenachse</i> <ls>TS. 6, 6, 4, 1.</ls> <ls>KĀṬH. 29, 8.</ls> <ls>ŚĀṄKH. GṚHY. 1, 15.</ls> <ls>MBH. 7, 6090.</ls> als Längenmaass (= <ls n='MBH. 7,'>104</ls> <is>Aṅgula</is> nach dem <ls>Schol.</ls> zu <ls>KĀTY. ŚR.</ls>): °मात्र <ls>KĀTY. ŚR. 8, 8, 6.</ls> °मात्रैरिषुभिः <ls>MBH. 7, 6829.</ls> <ls>R. 3, 67, 18.</ls>"
+        },
+        {
+            "word": "रथाक्ष",
+            "eid": "83438",
+            "pagenum": 6,
+            "content": "2. रथाक्ष¦ (रथ + 3. अक्ष <i>Auge</i>) <lex>m.</lex> N. pr. eines Wesens im Gefolge <is>Skanda's</is> <ls>MBH. 9, 2565.</ls>"
+        }
     ]
 }

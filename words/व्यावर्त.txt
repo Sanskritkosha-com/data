@@ -23,5 +23,67 @@
             "pagenum": 701,
             "content": "vyAvarta¦ <i>m.</i> 1. Encompassing, surrounding; 2. ruptured navel."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्यावर्त",
+            "eid": "210002",
+            "pagenum": 1039,
+            "content": "व्य्-आवर्त <hom>a</hom> ¦ &c. See below."
+        },
+        {
+            "word": "व्यावर्त",
+            "eid": "210030",
+            "pagenum": 1039,
+            "content": "व्य्-आवर्त <hom>b</hom> ¦ <lex>m.</lex> revolving, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "व्यावर्त",
+            "eid": "210031",
+            "pagenum": 1039,
+            "content": "¦ encompassing, surrounding, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "व्यावर्त",
+            "eid": "210032",
+            "pagenum": 1039,
+            "content": "¦ separating, selecting, appointing, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "व्यावर्त",
+            "eid": "210033",
+            "pagenum": 1039,
+            "content": "¦ ruptured navel (= नाभि-कण्टक), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्यावर्त",
+            "eid": "45727",
+            "pagenum": 981,
+            "content": "व्यावर्त¦ <i>vy-āvarta.</i> See col. 3."
+        },
+        {
+            "word": "व्यावर्त",
+            "eid": "45743",
+            "pagenum": 981,
+            "content": "<i>Vy-āvarta, as,</i>¦ m. separating from, selecting, revolution, going round; encompassing, surrounding, enclosing; ruptured navel, umbilical hernia (<i>= nābhi-</i> <i>kaṇṭaka</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्यावर्त",
+            "eid": "108776",
+            "pagenum": 6,
+            "content": "*व्यावर्त¦ <lex>m.</lex> = नाभिकण्टक."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्यावर्त",
+            "eid": "96665",
+            "pagenum": 6,
+            "content": "व्यावर्त¦ (von वर्त् mit व्या) <lex>m.</lex> = नाभिकण्टक <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> आवर्तक v.l."
+        }
     ]
 }

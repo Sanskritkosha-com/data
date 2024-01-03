@@ -15,5 +15,41 @@
             "pagenum": 318,
             "content": "tri-doza¦ <i>n.</i> disorder of the three humours of the body (viz., कफ, वात and पित्त)."
         }
+    ],
+    "MW": [
+        {
+            "word": "त्रिदोष",
+            "eid": "87811",
+            "pagenum": 458,
+            "content": "त्रि—दोष ¦ in <ab>comp.</ab>, disorder of the 3 humours of the body"
+        },
+        {
+            "word": "त्रिदोष",
+            "eid": "87811.1",
+            "pagenum": 458,
+            "content": "त्रि—दोष ¦ <lex>mfn.</lex> causing the <ab n='Tri-doṣa' slp1='tri-doza'>T°</ab>, <ls>Suśr. i, 45, 10, 11</ls> and <ls n='Suśr. i,'>46, 4, 28</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "त्रिदोष",
+            "eid": "47501",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> त्रिदोष¦ am <ab>Anf.</ab> eines <ab>Comp.</ab> <i>ein gestörter Zustand der drei Flüssigkeiten des Körpers</i>. °कृत्, °घ्न, °ज und °शमन <lex>Adj.</lex>"
+        },
+        {
+            "word": "त्रिदोष",
+            "eid": "47502",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> त्रिदोष¦ <lex>Adj.</lex> <i>die drei Flüssigkeiten des Körpers afficirend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "त्रिदोष",
+            "eid": "30973",
+            "pagenum": 3,
+            "content": "त्रिदोष¦ s. u. दोष ."
+        }
     ]
 }

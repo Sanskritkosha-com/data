@@ -23,5 +23,41 @@
             "pagenum": 710,
             "content": "SaradA¦ <i>f.</i> 1. Autumn; 2. a year."
         }
+    ],
+    "MD": [
+        {
+            "word": "शरदा",
+            "eid": "17570",
+            "pagenum": 309,
+            "content": "शरदा¦ śarad-ā, <lex>f.</lex> <ab>N.</ab>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "शरदा",
+            "eid": "213752.1",
+            "pagenum": 1057,
+            "content": "शरदा ¦ <lex>f.</lex> autumn, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "शरदा",
+            "eid": "213752.2",
+            "pagenum": 1057,
+            "content": "¦ a year, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शरदा",
+            "eid": "213752.3",
+            "pagenum": 1057,
+            "content": "¦ <ab>N.</ab> of a woman, <ls>Rājat.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शरदा",
+            "eid": "46197",
+            "pagenum": 994,
+            "content": "<i>Śaradā,</i>¦ f. autumn, the sultry season; a year."
+        }
     ]
 }

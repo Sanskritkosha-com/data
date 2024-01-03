@@ -57,5 +57,69 @@
             "pagenum": 259,
             "content": "Gu¦ <i>m.</i> The indistinct sound of a pigeon."
         }
+    ],
+    "MD": [
+        {
+            "word": "घु",
+            "eid": "7262",
+            "pagenum": 89,
+            "content": "[घु¦ GHU, cry out, shriek.]."
+        }
+    ],
+    "MW": [
+        {
+            "word": "घु",
+            "eid": "69779",
+            "pagenum": 377,
+            "content": "<hom>1.</hom> घु ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> घवते, to utter or produce a peculiar sound, <ls n='Dhātup.'>xxii, 55</ls>.<info verb='root' cp='1Ā'/>"
+        },
+        {
+            "word": "घु",
+            "eid": "69780",
+            "pagenum": 377,
+            "content": "<hom>2.</hom> घु ¦ <lex>m.</lex> a kind of sound, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "घु",
+            "eid": "17962",
+            "pagenum": 308,
+            "content": "घु 1¦. <i>ghu,</i> cl. 1. A. <i>ghavate,</i> &c., to utter a peculiar sound, to sound."
+        },
+        {
+            "word": "घु",
+            "eid": "17963",
+            "pagenum": 308,
+            "content": "2. <i>ghu, us,</i>¦ m. a kind of sound."
+        }
+    ],
+    "PW": [
+        {
+            "word": "घु",
+            "eid": "37924",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> *√घु¦, घवेते (शब्दे)."
+        },
+        {
+            "word": "घु",
+            "eid": "37925",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> *घु¦ <lex>m.</lex> <i>ein <ab>best.</ab> Laut</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "घु",
+            "eid": "24077",
+            "pagenum": 2,
+            "content": "1. घु¦, घ/वते <i>einen best. Laut von sich geben</i> <ls>DHĀTUP. 22, 55.</ls>"
+        },
+        {
+            "word": "घु",
+            "eid": "24078",
+            "pagenum": 2,
+            "content": "2. घु¦ <lex>m.</lex> <i>ein best. Laut</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

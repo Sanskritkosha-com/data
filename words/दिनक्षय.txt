@@ -23,5 +23,47 @@
             "pagenum": 331,
             "content": "dina-kzaya¦ <i>m.</i> evening."
         }
+    ],
+    "MW": [
+        {
+            "word": "दिनक्षय",
+            "eid": "92149",
+            "pagenum": 478,
+            "content": "दिन—क्षय ¦ <lex>m.</lex> ‘day-decline’, evening, <ls>Kām.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दिनक्षय",
+            "eid": "92150",
+            "pagenum": 478,
+            "content": "¦ = तिथि-, <ls>Hcat. i, 3</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दिनक्षय",
+            "eid": "92151",
+            "pagenum": 478,
+            "content": "¦ <ab>N.</ab> of a <ab>ch.</ab> of <ls>PSarv.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिनक्षय",
+            "eid": "50188",
+            "pagenum": 3,
+            "content": "दिनक्षय¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Neige des Tages, Abend</i>. <div n='1'>— 2〉 = तिथिक्षय <ls>HEMĀDRI 1,76,10</ls> (<lex>n.</lex> !), <ls n='HEMĀDRI 1,76,'>16. 17. 19</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिनक्षय",
+            "eid": "32895",
+            "pagenum": 3,
+            "content": "दिनक्षय¦ (दिन + क्षय) <lex>m.</lex> <div n='1'> 1) <i>die Neige des Tages, Abend</i> <ls>KĀM. NĪTIS. 7, 57.</ls> <div n='1'>— 2) = तिथिक्षय (s. d.) <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "दिनक्षय",
+            "eid": "75718",
+            "pagenum": 5,
+            "content": "दिनक्षय¦ <div n='1'> 2) <ls>GAṆITĀDHY. 2,12. fg.</ls> <ls>Verz. d. Oxf. H. 87,b,4.</ls> अवमदिनक्षययोः <ls n='Verz. d. Oxf. H.'>86,b,2.</ls>"
+        }
     ]
 }

@@ -29,5 +29,47 @@
             "pagenum": 371,
             "content": "nava-yOvana¦ <i>n.</i> fresh youth, bloom of youth."
         }
+    ],
+    "MW": [
+        {
+            "word": "नवयौवन",
+            "eid": "104535",
+            "pagenum": 531,
+            "content": "नव—यौवन ¦ <lex>n.</lex> fresh youth, bloom of <ab n='youth'>y°</ab>, <ls>Bhartṛ.</ls><info lex='n'/>"
+        },
+        {
+            "word": "नवयौवन",
+            "eid": "104536",
+            "pagenum": 531,
+            "content": "नव—यौवन ¦ <lex>mf(आ)n.</lex> (<ls>Śṛṅgār.</ls>) = -वत् (<ls>MW.</ls>) <lex type='nhw'>mfn.</lex> blooming with the freshness of <ab n='youth'>y°</ab>.<info lex='m:f#A:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नवयौवन",
+            "eid": "57157",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> नवयौवन¦ <lex>n.</lex> <i>die erste Jugendfrische</i>."
+        },
+        {
+            "word": "नवयौवन",
+            "eid": "57158",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> नवयौवन¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>in der ersten Jugend stehend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नवयौवन",
+            "eid": "37987",
+            "pagenum": 4,
+            "content": "1. नवयौवन¦ (1. नव + यौ°) <lex>n.</lex> <i>die erste Jugendfrische</i> <ls>BHARTṚ. 1, 7.</ls> <ls>CAURAP. 2.</ls> <ls>PRAB. 40, 16.</ls> <ls>AŚOKĀV. 21.</ls>"
+        },
+        {
+            "word": "नवयौवन",
+            "eid": "37988",
+            "pagenum": 4,
+            "content": "2. नवयौवन¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> आ <i>in der ersten Jugend stehend</i> <ls>HĀR. 154.</ls> <ls>ŚṚṄGĀRAT. 11.</ls>"
+        }
     ]
 }

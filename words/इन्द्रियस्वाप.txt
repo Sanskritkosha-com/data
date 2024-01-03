@@ -7,5 +7,35 @@
             "pagenum": 118,
             "content": "indriya-svApa¦ <i>m.</i> unconsciousness, insensibility."
         }
+    ],
+    "MW": [
+        {
+            "word": "इन्द्रियस्वाप",
+            "eid": "29247",
+            "pagenum": 167,
+            "content": "इन्द्रिय—स्वाप ¦ <lex>m.</lex> sleep of the senses, unconsciousness, insensibility<info lex='m'/>"
+        },
+        {
+            "word": "इन्द्रियस्वाप",
+            "eid": "29248",
+            "pagenum": 167,
+            "content": "¦ the end of the world, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "इन्द्रियस्वाप",
+            "eid": "17151",
+            "pagenum": 1,
+            "content": "*इन्द्रियस्वाप¦ <lex>m.</lex> <i>Weltende</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इन्द्रियस्वाप",
+            "eid": "10266",
+            "pagenum": 1,
+            "content": "इन्द्रियस्वाप¦ (इ° + स्वाप) <lex>m.</lex> <i>das Ende der Welt (der Schlaf der Sinne</i>) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

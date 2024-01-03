@@ -36,5 +36,49 @@
             "pagenum": 198,
             "content": "*धीदा¦ <i>f.</i> Tochter.*"
         }
+    ],
+    "MW": [
+        {
+            "word": "धीदा",
+            "eid": "101299",
+            "pagenum": 517,
+            "content": "<hom>1.</hom> धीदा ¦ <lex>f.</lex> intelligence, understanding, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "धीदा",
+            "eid": "101325.1",
+            "pagenum": 517,
+            "content": "धीता (<ls>Buddh.</ls>) and <hom>2.</hom> धीदा (<ls>Mṛcch.</ls>; <ls>Ratn.</ls>), ¦ <lex>f.</lex> (<s1 slp1='pAli'>Pāli</s1> and <ns>Prākṛt</ns> forms for दुहिता) daughter.<info lex='f'/><info or='101325,DItA;101325.1,DIdA'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "धीदा",
+            "eid": "23419",
+            "pagenum": 456,
+            "content": "1. <i>dhīdā,</i>¦ f. (for 2. <i>dhīdā</i> see col. 2), understanding, intellect."
+        },
+        {
+            "word": "धीदा",
+            "eid": "23426",
+            "pagenum": 456,
+            "content": "धीदा 2¦. <i>dhīdā,</i> f. (probably a Prākṛt form for <i>duhitā</i>), a daughter, a virgin, a maiden. (For 1. <i>dhīdā</i> see col. 1.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धीदा",
+            "eid": "55429",
+            "pagenum": 3,
+            "content": "*धीदा¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Tochter</i>. <div n='1'>— 2〉 <i>Intelligenz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धीदा",
+            "eid": "36769",
+            "pagenum": 3,
+            "content": "धीदा¦ <lex>f.</lex> <div n='1'> 1) <i>Tochter</i> (vgl. दुहितर् und <ls>LASSEN, Institt. ling. pr. 172</ls>) <ls>H. ś. 113. an. 2, 227.</ls> <div n='1'>— 2) <i>Intelligenz</i> (vgl. 2. धी) <ls>H. an.</ls>"
+        }
     ]
 }

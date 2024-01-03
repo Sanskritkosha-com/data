@@ -31,5 +31,67 @@
             "pagenum": 626,
             "content": "<b>Satyaśravas</b>,¦ a Kuru warrior. § 572 (Rathātirathasaṅkhyānap.): V, <b>167</b>, 5790 (<i>bṛhadbalaḥ</i>, a ratha in the army of Duryodhana, Nīl. takes <i>satyaśravāḥ</i> as an adj. and Bṛhadbala as the name, but Bṛhadbala is mentioned v. 5765). —§ 593 (Abhimanyuvadhap.): VII, <b>45</b>, 1805, 1806 (seized by Abhimanyu)."
         }
+    ],
+    "MW": [
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "230076",
+            "pagenum": 1136,
+            "content": "सत्य/—श्रवस् ¦ (सत्य/-), <lex>n.</lex> true renown, <ls>ŚBr.</ls>; <ls>ŚrS.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "230076.1",
+            "pagenum": 1136,
+            "content": "सत्य/—श्रवस् ¦ <lex>m.</lex> ‘having true <ab n='renown'>r°</ab>’ (<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>Ἐτεοκλῆς</lang>)<info lex='m'/>"
+        },
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "230076.2",
+            "pagenum": 1136,
+            "content": "¦ <ab>N.</ab> of the author of the hymns, <ls>RV. v, 79</ls>; <ls n='RV. v,'>80</ls> (having the <ab>patr.</ab> आत्रेय or वाय्य), <ls>Anukr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "230076.3",
+            "pagenum": 1136,
+            "content": "¦ of various other men, <ls>ĀrṣBr.</ls>; <ls>BhP.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "15218",
+            "pagenum": 3,
+            "content": "<i>Satyaśravas</i> (I)¦ — a son of Vītihotra and father of Uruśravas. <div n='P'/>Bhā. IX. 2. 20."
+        },
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "15219",
+            "pagenum": 3,
+            "content": "<i>Satyaśravas</i> (II)¦ — the eldest son of Māṇḍūki, (Markaṇḍeya-<i>Vā. P.</i>) initiated into the portion of the Ṛg Veda left to him by Indrapramati. <div n='P'/>Br. II. 34. 29: Vā. 60. 28."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "118328",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सत्य/श्रवस्¦ <lex>n.</lex> <i>wahrhaftes Ansehen</i> <ls>VAITĀN.</ls>"
+        },
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "118329",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सत्य/श्रवस्¦ <lex>m.</lex> <ab>N. pr.</ab> verschiedener Männer <ls>ĀRṢ. BR.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सत्यश्रवस्",
+            "eid": "104168",
+            "pagenum": 7,
+            "content": "सत्य/श्रवस्¦ <div n='1'> 1) <lex>n.</lex> <i>das Hören der Wahrheit</i> (in einer Formel) <ls>ŚAT. BR. 12, 8, 3, 26.</ls> <ls>KĀTY. ŚR. 19, 5, 3.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines Liedverfassers mit dem patron. <is>Vāyya</is> <ls>ṚV. 5, 79, 1.</ls> <ls>Ind. St. 3, 242,a.</ls> <is>Ātreya</is> ebend. ein Sohn <is>Mārkaṇḍeya's</is> <ls>Verz. d. Oxf. H. 54,b,24.</ls> <is>Vītihotra's</is> <ls>BHĀG. P. 9, 2, 20.</ls>"
+        }
     ]
 }

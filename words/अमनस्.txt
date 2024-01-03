@@ -63,5 +63,69 @@
             "pagenum": 55,
             "content": "amanas¦ <i>(III) n.</i> Inattention."
         }
+    ],
+    "MD": [
+        {
+            "word": "अमनस्",
+            "eid": "2371",
+            "pagenum": 25,
+            "content": "अमनस्¦ á-manas, <lex>n.</lex> lack of intelligence; <lex>a.</lex> 🞄(ás) unintelligent; foolish."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अमनस्",
+            "eid": "13804",
+            "pagenum": 80,
+            "content": "अ/-मनस् ¦ अस्, <lex>n.</lex> non-perception, want of perception, <ls>ŚBr. xiv</ls><info lex='n'/>"
+        },
+        {
+            "word": "अमनस्",
+            "eid": "13805",
+            "pagenum": 80,
+            "content": "अ-मन/स् ¦ <lex>mfn.</lex> without perception or intellect, <ls>ŚBr. xiv</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "अमनस्",
+            "eid": "13806",
+            "pagenum": 80,
+            "content": "¦ silly, <ls>ChUp.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अमनस्",
+            "eid": "5398",
+            "pagenum": 74,
+            "content": "अमनस्¦ <i>a-manas, as,</i> n. not the organ of desire, non-perception, want of perception; <i>(ās, ās,</i> <i>as),</i> = the next."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अमनस्",
+            "eid": "8084",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अ/मनस्¦ <lex>n.</lex> <i>kein geistiges Vermögen</i>."
+        },
+        {
+            "word": "अमनस्",
+            "eid": "8085",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अमन/स्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>ohne geistiges Vermögen</i> <ls>MUṆḌ. UP. 2,2</ls>. <div n='1'>— 2〉 <i>unverständig</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अमनस्",
+            "eid": "5051",
+            "pagenum": 1,
+            "content": "1. अ/मनस्¦ (3. अ + मनस्) <lex>n.</lex> <i>Nicht-Empfindung</i> <ls>ŚAT. BR. 14, 6, 10, 14.</ls> = <ls>BṚH. ĀR. UP. 4, 1, 6.</ls>"
+        },
+        {
+            "word": "अमनस्",
+            "eid": "5052",
+            "pagenum": 1,
+            "content": "2. अमन/स्¦ (wie eben) <lex>adj.</lex> <div n='1'> 1) <i>ohne Empfindung</i> <ls>ŚAT. BR. 14, 6, 8, 8.</ls> = <ls>BṚH. ĀR. UP. 3, 8, 8.</ls> <div n='1'>— 2) <i>ohne Verstand, unverständig</i>: यथा बाला अमनसः प्राणन्तः प्राणेन वदन्तो वाचा u. s. w. <ls>CHĀND. UP. 5, 1, 11.</ls>"
+        }
     ]
 }

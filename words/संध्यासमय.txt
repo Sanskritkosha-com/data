@@ -29,5 +29,27 @@
             "pagenum": 266,
             "content": "<b>saṃdhyā-samaya,</b>¦ <i><ab>m.</ab></i> twilight-time, evening."
         }
+    ],
+    "MW": [
+        {
+            "word": "संध्यासमय",
+            "eid": "231850",
+            "pagenum": 1145,
+            "content": "सं-ध्या—समय ¦ <lex>m.</lex> <ab n='twilight'>tw°</ab>-period, <ls>Hit.</ls>; <ls>Vās.</ls><info lex='m'/>"
+        },
+        {
+            "word": "संध्यासमय",
+            "eid": "231851",
+            "pagenum": 1145,
+            "content": "¦ a portion of each <s1 slp1='yuga'>Yuga</s1>, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "संध्यासमय",
+            "eid": "119139",
+            "pagenum": 7,
+            "content": "संध्यासमय¦ <lex>m.</lex> <i>Dämmerungszeit</i> <ls n='Chr.'>156,7</ls>. <ls>VĀSAV. 281,1</ls>."
+        }
     ]
 }

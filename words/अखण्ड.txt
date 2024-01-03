@@ -60,5 +60,63 @@
             "pagenum": 3,
             "content": "aKaRqa¦ <i>a. (f. ण्डा)</i> Entire, whole."
         }
+    ],
+    "MD": [
+        {
+            "word": "अखण्ड",
+            "eid": "212",
+            "pagenum": 2,
+            "content": "अखण्ड¦ a-khaṇḍa, <lex>a.</lex> indivisible, entire; 🞄<b>-maṇḍala,</b> <lex>a.</lex> possessing the whole realm."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अखण्ड",
+            "eid": "732",
+            "pagenum": 4,
+            "content": "अ-खण्ड ¦ <lex>mfn.</lex> not fragmentary, entire, whole<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अखण्ड",
+            "eid": "732.1",
+            "pagenum": 4,
+            "content": "अ-खण्ड ¦ <lex>n.</lex> time, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "अखण्ड",
+            "eid": "733",
+            "pagenum": 4,
+            "content": "¦ (अ-खण्डा द्वा-दशी), the twelfth day of the first half of the month <s1 slp1='mArgaSIrza'>Mārgaśīrṣa</s1>.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अखण्ड",
+            "eid": "198",
+            "pagenum": 4,
+            "content": "अखण्ड¦ <i>a-khaṇḍa, as, ā, am,</i> not fragmentary, entire, whole; (<i>am</i>), n. time (?). <i>A-khaṇḍā</i> <i>dvādaśī</i> is the twelfth day of the first half of the lunar month Mārgaśirṣa."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अखण्ड",
+            "eid": "404",
+            "pagenum": 1,
+            "content": "अखण्ड¦ <lex>Adj.</lex> <i>ungetheilt, ganz, untheilbar</i>. तिथि <i>ein lunarer Tag, der ganz in einen bürgerlichen Tag fällt</i>. °द्वादशी <i>der 12te Tag in der lichten Hälfte des Monats</i> <is>Mārgaśīrṣa</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अखण्ड",
+            "eid": "282",
+            "pagenum": 1,
+            "content": "अखण्ड¦ (3. अ + खण्ड) <lex>adj.</lex> <i>ungetheilt, ganz</i> <ls>AK. 3, 2, 15.</ls> <ls>H. 1433.</ls> <ls>ŚĀK. 43.</ls> <ls>BĀLAB. 29.</ls> अखण्डा द्वादशी <i>der 12te Tag in der 1sten Hälfte des Monats</i> <is>Mārgaśīrṣa</is>, <ls>As. Res. III, 268.</ls>"
+        },
+        {
+            "word": "अखण्ड",
+            "eid": "62557",
+            "pagenum": 5,
+            "content": "अखण्ड¦ <ls>Spr. 1754.</ls> <ls>WEBER, RĀMAT. UP. 350. 354.</ls> °तिथि <ls>Verz. d. Oxf. H. 283, No. 662.</ls> °द्वादशी <ls n='Verz. d. Oxf. H.'>34,b,15.</ls>"
+        }
     ]
 }

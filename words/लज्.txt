@@ -105,5 +105,85 @@
             "pagenum": 619,
             "content": "laj¦ <i>(V) vt. or vi. 10U (pres. लंजयति-ते)</i> 1. To speak; 2. to injure, to kill; 3. to give; 4. to be powerful, to be strong; 5. to dwell."
         }
+    ],
+    "MW": [
+        {
+            "word": "लज्",
+            "eid": "181152",
+            "pagenum": 895,
+            "content": "<hom>1.</hom> लज् ¦ (<ab>cf.</ab> √ लज्ज्) <ab>cl.</ab> 6. <ab>Ā.</ab> लजते (only 3. <ab>pl.</ab> <ab>pf.</ab> लेजिरे, <ls>Bhaṭṭ.</ls>), to be ashamed, <ls>Dhātup. xxviii, 10.</ls><info westergaard='o:lasjI,28.10,06.0012'/><info verb='root' cp='6Ā'/>"
+        },
+        {
+            "word": "लज्",
+            "eid": "181154",
+            "pagenum": 895,
+            "content": "<hom>2.</hom> लज् ¦ (<ab>cf.</ab> √ <hom>1.</hom> लञ्ज्) <ab>cl.</ab> 1. <ab>P.</ab> लजति ‘to fry’ or ‘to blame’ (भर्जने <ab>v.l.</ab> भर्त्सने), <ls>Dhātup. vii, 64.</ls><info westergaard='laja,7.64,01.0150'/><info verb='root' cp='1P'/>"
+        },
+        {
+            "word": "लज्",
+            "eid": "181155",
+            "pagenum": 895,
+            "content": "<hom>3.</hom> लज् ¦ (<ab>cf.</ab> √ <hom>2.</hom> लञ्ज्) <ab>cl.</ab> 10. <ab>P.</ab> लजयति, to appear (प्रकाशने), <ls>Dhātup. xxxv, 66.</ls><info westergaard='laja,35.66,10.0306'/><info verb='root' cp='10P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "लज्",
+            "eid": "40086",
+            "pagenum": 860,
+            "content": "लज् 1¦. <i>laj</i> (= rt. <i>lajj,</i> q. v.), cl. 6. A. <i>lajate, leje, lajitum,</i> to be ashamed: Caus. <i>lājayati:</i> Desid. <i>lilajiṣate:</i> Intens. <i>lālaj-</i> <i>yate, lālakti.</i>"
+        },
+        {
+            "word": "लज्",
+            "eid": "40088",
+            "pagenum": 860,
+            "content": "लज् 2¦. <i>laj</i> (= rt. 1. <i>lañj</i>), cl. 1. P. <i>la-</i> <i>jati,</i> &c., to fry, roast; to calumniate, blame."
+        },
+        {
+            "word": "लज्",
+            "eid": "40089",
+            "pagenum": 860,
+            "content": "लज् 3¦. <i>laj</i> (= rt. 2. <i>lañj</i>), cl. 10. P. <i>lajayati,</i> &c., to appear, seem, shine; to cover, (in this sense another reading for rt. <i>jal.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "लज्",
+            "eid": "95611",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> √लज्¦, लजते <i>sich schämen</i> <ls>BHAṬṬ.</ls> *लग्न <i>sich schämend, beschämt</i>."
+        },
+        {
+            "word": "लज्",
+            "eid": "95612",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> *√लज्¦, लजति (भर्त्सने oder भर्जने)."
+        },
+        {
+            "word": "लज्",
+            "eid": "95613",
+            "pagenum": 5,
+            "content": "<hom>3.</hom> *√लज्¦, लजयति (प्रकाशने)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "लज्",
+            "eid": "85883",
+            "pagenum": 6,
+            "content": "1. लज्¦, लज/ते (व्रीडायाम्) <ls>DHĀTUP. 28, 10.</ls> <i>sich schämen</i>: लेजिरे ऽन्ये पराजिताः <ls>BHAṬṬ. 14, 105.</ls> लग्न <i>sich schämend, beschämt</i> <ls>Schol.</ls> zu <ls>P. 7, 2, 14.</ls> <ls n='P.'>8, 2, 29</ls> (von लज्ज्). <ls n='P. 7, 2,'>45.</ls> <ls>H. an. 2, 282.</ls> <ls>MED. n. 18.</ls> <div n='v'>— Vgl. लञ्ज्ज् ."
+        },
+        {
+            "word": "लज्",
+            "eid": "85884",
+            "pagenum": 6,
+            "content": "2. लज्¦, ल/जति (भर्त्सने, v. l. भर्जने) <ls>DHĀTUP. 7 64.</ls> <div n='v'>— Vgl. 1. लञ्ज् ."
+        },
+        {
+            "word": "लज्",
+            "eid": "85885",
+            "pagenum": 6,
+            "content": "3. लज्¦, लज/यति (प्रकाशने) <ls>DHĀTUP. 35, 66.</ls> <div n='v'>— Vgl. 2. लञ्ज् ."
+        }
     ]
 }

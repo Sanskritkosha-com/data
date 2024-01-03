@@ -21,5 +21,53 @@
             "pagenum": 285,
             "content": "<b>Ekātman</b>¦ = Viṣṇu (1000 names)."
         }
+    ],
+    "MW": [
+        {
+            "word": "एकात्मन्",
+            "eid": "39774",
+            "pagenum": 230,
+            "content": "ekA<srs/>tman ¦ <lex>m.</lex> the one spirit, <ls>MāṇḍUp.</ls><info lex='m'/>"
+        },
+        {
+            "word": "एकात्मन्",
+            "eid": "39775",
+            "pagenum": 230,
+            "content": "ekA<srs/>tman ¦ <lex>mfn.</lex> depending solely on one's self, being without any friend, only, alone, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "एकात्मन्",
+            "eid": "39776",
+            "pagenum": 230,
+            "content": "¦ having the same nature, of one and the same nature, <ls>BhP.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "एकात्मन्",
+            "eid": "22056",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> एकात्मन्¦ <lex>m.</lex> <i>der einziger Geist</i>."
+        },
+        {
+            "word": "एकात्मन्",
+            "eid": "22057",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> एकात्मन्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>auf sich allein beschränkt, alleinstehend</i> <ls>MBH. 13,107,4</ls>. <div n='1'>— 2〉 <i>eines und desselben Wesens mit</i> (<ab>Gen.</ab>). <ab>Nom. abstr.</ab> °त्मता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एकात्मन्",
+            "eid": "13413",
+            "pagenum": 1,
+            "content": "1. एकात्मन्¦ (एक + आत्मन्) <lex>m.</lex> <i>Eingeist</i> <ls>MĀṆḌ. UP. 7</ls>; vgl. <ls>Ind. St. 2, 108.</ls>"
+        },
+        {
+            "word": "एकात्मन्",
+            "eid": "13414",
+            "pagenum": 1,
+            "content": "2. एकात्मन्¦ (wie eben) <lex>adj.</lex> <i>auf sich allein beschränkt, alleinstehend</i> <ls>MBH. 3, 4057.</ls> <ls n='MBH. 3,'>5207.</ls>"
+        }
     ]
 }

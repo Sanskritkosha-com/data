@@ -23,5 +23,43 @@
             "pagenum": 250,
             "content": "go-hatyA¦ <i>f.</i> cow-slaughter."
         }
+    ],
+    "MD": [
+        {
+            "word": "गोहत्या",
+            "eid": "7151",
+            "pagenum": 87,
+            "content": "गोहत्या¦ go-hatyā, <lex>f.</lex> slaughter of a cow; 🞄<b>-hantṛ,</b> <lex>m.</lex> cow-killer; <b>-hara,</b> <lex>m.</lex>: <b>-ṇa,</b> <lex>n.</lex> 🞄cow-stealing."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गोहत्या",
+            "eid": "67766",
+            "pagenum": 367,
+            "content": "गो—हत्या <hom>a</hom> ¦ <lex>f.</lex> = -वध, <ls>Mn. xi, 116.</ls><info lex='f'/>"
+        },
+        {
+            "word": "गोहत्या",
+            "eid": "68068",
+            "pagenum": 369,
+            "content": "गो-हत्या <hom>b</hom> ¦ -ह/न्, &c. See गो/, <ab>p.</ab> 367."
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोहत्या",
+            "eid": "37060",
+            "pagenum": 2,
+            "content": "गोहत्या¦ <lex>f.</lex> <i>Tödtung einer Kuh</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोहत्या",
+            "eid": "23478",
+            "pagenum": 2,
+            "content": "गोहत्या¦ (गो + हत्या) <lex>f.</lex> <i>die Tödtung einer Kuh</i> <ls>M. 11, 115.</ls>"
+        }
     ]
 }

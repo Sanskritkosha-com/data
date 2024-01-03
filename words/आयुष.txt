@@ -23,5 +23,59 @@
             "pagenum": 42,
             "content": "<i>āyuṣa,</i>¦ used in the sense of <i>āyus</i> in the Junagadh inscription of Rudradāman, text line 10 (<i>Sel. Ins.,</i> p. 171)."
         }
+    ],
+    "MD": [
+        {
+            "word": "आयुष",
+            "eid": "3780",
+            "pagenum": 41,
+            "content": "आयुष¦ āyuṣa, <lex>n.</lex> <ab>—°</ab> = āyus, life."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आयुष",
+            "eid": "25907",
+            "pagenum": 149,
+            "content": "आयुष ¦ <lex>n.</lex> <ab>ifc.</ab> = आयुस्, duration of life, <ls>ŚBr.</ls>; <ls>Pañcat.</ls> &c.<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आयुष",
+            "eid": "9019",
+            "pagenum": 127,
+            "content": "<i>Āyuṣa, am,</i>¦ n. (at the end of some compounds) <i>= āyus,</i> life."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "आयुष",
+            "eid": "1359",
+            "pagenum": 1,
+            "content": "<i>Āyuṣa</i>¦ — the son of Aiḍa. <div n='P'/>Vā. 1. 192."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आयुष",
+            "eid": "15365",
+            "pagenum": 1,
+            "content": "°आयुष¦ <lex>n.</lex> = आयुस् <i>Lebenszeit</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आयुष",
+            "eid": "9073",
+            "pagenum": 1,
+            "content": "आयुष/¦ <lex>n.</lex> = आयुस् am Ende eines comp.: त्र्या\\यु\\षम् <ls>VS. 3, 62.</ls> द्राघीयो हि देवायुषं ह्रसीयो मनुष्यायुषम् <ls>ŚAT. BR. 7, 3, 1, 10.</ls> सर्वायुष <ls>TAITT. UP. 2, 3.</ls> तेनाप्युक्तम् यदतिविस्तारविस्तीर्णं तद्भवेन्न चिरायुषम् <ls>PAÑCAT. 245, 25.</ls>"
+        },
+        {
+            "word": "आयुष",
+            "eid": "66724",
+            "pagenum": 5,
+            "content": "आयुष¦ vgl. पुरुषायुष ."
+        }
     ]
 }

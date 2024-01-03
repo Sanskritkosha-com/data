@@ -37,5 +37,55 @@
             "pagenum": 458,
             "content": "pragfhya¦ <i>m.</i> A word allowed to be written or pronounced separately without observing the usual rules of <i>sandhi</i>."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रगृह्य",
+            "eid": "130476",
+            "pagenum": 656,
+            "content": "<hom>1.</hom> प्र-°गृह्य ¦ <lex>mfn.</lex> to be seized or taken or accepted, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "प्रगृह्य",
+            "eid": "130477",
+            "pagenum": 656,
+            "content": "¦ (in <ab>gram.</ab>) to be taken or pronounced separately, not subject to the rules of <s1 slp1='saMDi'>Saṃdhi</s1> (as the final ई, ऊ, and ए of the dual terminations, <ab>e.g.</ab> कवी एतौ, ‘these two poets’), <ls>Prāt.</ls>; <ls>Pāṇ.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "प्रगृह्य",
+            "eid": "130478",
+            "pagenum": 656,
+            "content": "<hom>2.</hom> प्र-°गृह्य ¦ <lex>ind.</lex> having taken or grasped, carrying away with, with, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex='ind'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रगृह्य",
+            "eid": "30350",
+            "pagenum": 605,
+            "content": "1. <i>pra-gṛhya, as, ā, am,</i>¦ to be taken or accepted, to be admitted; (in grammar) to be taken or pronounced separately, not subject to the rules of Sandhi or euphony (as the final <i>ī, ū,</i> and <i>e</i> of the dual terminations whether of nouns, pronouns, or verbs, e. g. <i>kavī etau,</i> ‘these two poets;’ <i>bandhū etau,</i> ‘these two relations’)."
+        },
+        {
+            "word": "प्रगृह्य",
+            "eid": "30351",
+            "pagenum": 605,
+            "content": "2. <i>pra-gṛhya,</i>¦ ind. having taken or grasped, carrying away with; with."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रगृह्य",
+            "eid": "70454",
+            "pagenum": 4,
+            "content": "प्रगृह्य¦ <lex>Adj.</lex> (ein Vocal) <i>der gesondert ausgesprochen wird, den Gesetzen des</i> <is>Saṃdhi</is> <i>nicht unterliegt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रगृह्य",
+            "eid": "47811",
+            "pagenum": 4,
+            "content": "प्रगृह्य¦ (wie eben) <lex>adj.</lex> in der Gramm. Bez. eines Vocals, <i>der gesondert ausgesprochen wird, den</i> <is>Saṃdhi-</is> <i>Gesetzen nicht unterliegt</i>, <ls>ṚV. PRĀT. 1, 16.</ls> <ls n='ṚV. PRĀT. 1,'>18.</ls> <ls n='ṚV. PRĀT. 1,'>19.</ls> <ls n='ṚV. PRĀT.'>2, 27.</ls> <ls n='ṚV. PRĀT.'>11, 19.</ls> <ls>VS. PRĀT. 1, 92.</ls> <ls n='VS. PRĀT.'>4, 17.</ls> <ls>AV. PRĀT. 1, 73.</ls> <ls n='AV. PRĀT.'>3, 33.</ls> <ls n='AV. PRĀT.'>4, 117.</ls> <ls n='AV. PRĀT. 4,'>123.</ls> <ls>P. 1, 1, 11.</ls> <ls n='P.'>6, 1, 125.</ls> <ls n='P.'>8, 4, 57.</ls> <ls>ŚĀṄKH. ŚR. 1, 2, 7.</ls> पद <ls>P. 3, 1, 119</ls>, <ls>Sch.</ls>  <ls>VOP. 26, 20, v. l.</ls>"
+        }
     ]
 }

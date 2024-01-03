@@ -15,5 +15,43 @@
             "pagenum": 99,
             "content": "Adi-udAtta¦ <i>a.</i> having the acute accent on the first syllable."
         }
+    ],
+    "MD": [
+        {
+            "word": "आद्युदात्त",
+            "eid": "3573",
+            "pagenum": 39,
+            "content": "आद्युदात्त¦ ādi‿udātta, <lex>a.</lex> having the acute on 🞄the first syllable: <b>-tva,</b> <lex>n.</lex> accentuation on that 🞄syllable."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आद्युदात्त",
+            "eid": "23888",
+            "pagenum": 137,
+            "content": "आद्य्-उदात्त ¦ <lex>mfn.</lex> having the <s1 slp1='udAtta'>Udātta</s1> accent on the first syllable, <ls>Pāṇ. iii, 1, 3</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "आद्युदात्त",
+            "eid": "14521",
+            "pagenum": 1,
+            "content": "आद्युदात्त¦ <lex>Adj.</lex> <i>den Acut auf der ersten Silbe habend</i>. Davon <ab>Nom. abstr.</ab> °त्व <lex>n.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आद्युदात्त",
+            "eid": "8487",
+            "pagenum": 1,
+            "content": "आद्युदात्त¦ (आ° + उ°) <lex>adj.</lex> <i>den Accent auf der ersten Silbe habend</i> <ls>P. 3, 1, 3.</ls> Davon nom. abstr. °त्तत्व <ls>KĀŚ.</ls> zu <ls n='P.'>1, 1, 21.</ls> <ls n='P. 1, 1,'>63.</ls>"
+        },
+        {
+            "word": "आद्युदात्त",
+            "eid": "66421",
+            "pagenum": 5,
+            "content": "आद्युदात्त¦ lies <i>Acut</i> st. <i>Accent</i> und füge <ls>ṚV. PRĀT. 1, 21.</ls> <ls>VS. PRĀT. 3, 102</ls> hinzu."
+        }
     ]
 }

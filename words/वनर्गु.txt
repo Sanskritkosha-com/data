@@ -23,5 +23,57 @@
             "pagenum": 1208,
             "content": "<b>vanar-gú,</b>¦ <ab>a.</ab>, <i>im Walde</i> (vánar = vána) <i>sich umhertreibend</i> [gú von gā]. <div n='TS'>-ús mṛgás {145,5} (bildlich von Agni). <div n='TS'>-ū́ [<ab>du.</ab>] táskarā {830,6}."
         }
+    ],
+    "MD": [
+        {
+            "word": "वनर्गु",
+            "eid": "15866",
+            "pagenum": 268,
+            "content": "वनर्गु¦ vanar-gú, <lex>a.</lex> roaming in the wood, 🞄forest, <i>or</i> wilds (<ab>V.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वनर्गु",
+            "eid": "186070",
+            "pagenum": 918,
+            "content": "वनर्—गु/ <hom>a</hom> ¦ <lex>mfn.</lex> moving about in woods, wandering in a forest or wilderness, a savage, <ls>RV.</ls>; <ls>AV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वनर्गु",
+            "eid": "186071",
+            "pagenum": 918,
+            "content": "¦ a thief or robber, <ls>Naigh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वनर्गु",
+            "eid": "186169",
+            "pagenum": 919,
+            "content": "वनर्-गु <hom>b</hom> ¦ &c. See <pcol>p. 918, col. 3</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वनर्गु",
+            "eid": "41154",
+            "pagenum": 885,
+            "content": "वनर्गु¦ <i>vanar-gu.</i> See under <i>vanas,</i> p. 884."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वनर्गु",
+            "eid": "98021",
+            "pagenum": 6,
+            "content": "वनर्गु/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>im Holze —, im Walde —, in der Wildniss sich umhertreibend;</i> <lex>m.</lex> <i>ein Wilder</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>Räuber</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वनर्गु",
+            "eid": "87843",
+            "pagenum": 6,
+            "content": "वनर्गु/¦ (वनस् = 1. वन + 4. गु) <lex>adj.</lex> <i>im Holze —, im Walde</i> — oder <i>in der Wildniss sich umtreibend</i>; = वनगामिन् <ls>NIR. 3, 14.</ls> मृ\\गो अप्यो^ वन\\र्गुः von <is>Agni</is>, <i>der im Wasser und im Holze wohnt</i>, <ls>ṚV. 1, 145, 5.</ls> त\\नू\\त्यजे^व\\ तस्क^रा वन\\र्गू <ls n='ṚV.'>10, 4, 6.</ls> न स्ते\\नैर्न व^न\\र्गुभि^ः <ls>AV. 4, 36, 7.</ls> daher = स्तेन <ls>NAIGH. 3, 24.</ls> तं त्वा^ स्तुवन्ति क\\वय\\ः परु\\षासो^ व\\नर्ग^वः <i>Weise und Wilde</i> <ls>SV.</ls> <ls>NAIGH. 4, 9.</ls>"
+        }
     ]
 }

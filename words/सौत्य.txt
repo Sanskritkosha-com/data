@@ -51,5 +51,75 @@
             "pagenum": 799,
             "content": "sOtya¦ <i>n.</i> The office of a charioteer, अक्षमोऽस्य सौत्येऽधिकृतः <ls>Nal.</ls>iv.9."
         }
+    ],
+    "MD": [
+        {
+            "word": "सौत्य",
+            "eid": "19750",
+            "pagenum": 360,
+            "content": "सौत्य¦ saut-ya, 〈1.〉 <lex>a.</lex> relating to a charioteer 🞄(sūta); <lex>n.</lex> office of charioteer; 〈2.〉 <lex>a.</lex> relating 🞄to the Soma-pressing (sutyā)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सौत्य",
+            "eid": "253369",
+            "pagenum": 1252,
+            "content": "<hom>1.</hom> सौत्य ¦ <lex>mfn.</lex> relating to a charioteer, <ls>BhP.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सौत्य",
+            "eid": "253370",
+            "pagenum": 1252,
+            "content": "सौत्य ¦ <lex>n.</lex> the office of a charioteer, <ls>ib.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सौत्य",
+            "eid": "253375",
+            "pagenum": 1252,
+            "content": "<hom>2.</hom> सौत्य ¦ <lex>mfn.</lex> (<ab>fr.</ab> सुत्य and सुत्या) relating or devoted to <s1 slp1='soma'>Soma</s1>-pressing (with अहन् <lex type='nhw'>n.</lex> ‘a day devoted to <s1 slp1='soma'>Soma</s1>-pressing’), <ls>ŚrS.</ls>; <ls>Hariv.</ls>; <ls>BhP.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सौत्य",
+            "eid": "52826",
+            "pagenum": 1138,
+            "content": "1. <i>sautya, am,</i>¦ n. the office of a charioteer."
+        },
+        {
+            "word": "सौत्य",
+            "eid": "52827",
+            "pagenum": 1138,
+            "content": "सौत्य 2¦. <i>sautya, as,</i> &c. (fr. <i>sutyā</i>), relating to Soma-pressing, sacrificial."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सौत्य",
+            "eid": "129872",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सौत्य¦ <lex>Adj.</lex> <i>Kelterungstagen bestehend, der Kelterung des</i> <is>Soma</is> <i>gewidmet</i>. अहन् <lex>n.</lex> <i>ein Kelterungstag</i>."
+        },
+        {
+            "word": "सौत्य",
+            "eid": "129873",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सौत्य¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>zum Wagenlenker in Beziehung stehend</i>. कर्मन् <lex>n.</lex> = 2〉. <div n='1'>— 2〉 <lex>n.</lex> <i>das Amt eines Wagenlenkers</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सौत्य",
+            "eid": "113114",
+            "pagenum": 7,
+            "content": "1. सौत्य¦ (von सुत्य und सुत्या) <lex>adj.</lex> <i>aus Kelterungstagen bestehend</i>: Monat <ls>ĀŚV. ŚR. 12, 4, 11. 5, 10.</ls> Jahr <ls>KĀTY. ŚR. 24, 5, 14.</ls> <ls>LĀṬY. 1, 5, 14. 8, 8, 1.</ls> <i>der Kelterung des</i> <is>Soma</is> <i>gewidmet</i>: सौत्ये ऽहनि <i>an einem Kelterungstage</i> <ls>HARIV. 325.</ls> <ls>VP. 1, 13, 51.</ls> <ls>BHĀG. P. 8, 21, 26. 10, 74, 17.</ls>"
+        },
+        {
+            "word": "सौत्य",
+            "eid": "113115",
+            "pagenum": 7,
+            "content": "2. सौत्य¦ (von सूत) <div n='1'> 1) <lex>adj.</lex> <i>zum Wagenlenker in Beziehung stehend</i>: कर्मन् = सौत्य <div n='1'> 2) <ls>BHĀG. P. 5, 21, 16.</ls> <div n='1'>— 2) <lex>n.</lex> <i>das Amt eines Wagenlenkers</i> <ls>BHĀG. P. 1, 15, 17.</ls> <ls>NALOD. 4, 9.</ls>"
+        }
     ]
 }

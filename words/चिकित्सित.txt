@@ -15,5 +15,55 @@
             "pagenum": 492,
             "content": "चिकित्सित¦ <i><ab>a.</ab></i> [कित् स्यार्थे सन् कर्मणि क्त] Healed, cured. --तं Healing, curing."
         }
+    ],
+    "MW": [
+        {
+            "word": "चिकित्सित",
+            "eid": "73505",
+            "pagenum": 395,
+            "content": "चिकित्सित ¦ <lex>mfn.</lex> treated medically, cured, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "चिकित्सित",
+            "eid": "73506",
+            "pagenum": 395,
+            "content": "चिकित्सित ¦ <lex>m.</lex> <ab>N.</ab> of a man <ab>g.</ab> gargA<srs/>di (not in <ls>Kāś.</ls>)<info lex='m'/>"
+        },
+        {
+            "word": "चिकित्सित",
+            "eid": "73507",
+            "pagenum": 395,
+            "content": "चिकित्सित ¦ <lex>n.</lex> = °त्सा, <ls>Mn. x, 47</ls>; <ls>MBh. iii, 1460</ls>; <ls n='MBh.'>iv, 318</ls>; <ls>Suśr.</ls> &c.<info lex='n'/>"
+        },
+        {
+            "word": "चिकित्सित",
+            "eid": "73508",
+            "pagenum": 395,
+            "content": "चिकित्सित ¦ <lex>n.</lex> (<ab>pl.</ab>) the chapters of the therapeutical section (of <ab>med.</ab>), <ls>Suśr.</ls> (<ab>ifc.</ab> <lex type='hwifc'>f(आ). </lex> <ls n='Suśr.'>i, 13, 6</ls>)<info lex='f#A:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चिकित्सित",
+            "eid": "18566",
+            "pagenum": 323,
+            "content": "<i>Cikitsita, as, ā, am,</i>¦ treated medically, remedied, healed, physicked, cured; (<i>am</i>), n. healing, remedying, medical attendance; pl. the chapters of the therapeutical section of medicine; (<i>as</i>), m., N. of a man."
+        }
+    ],
+    "PW": [
+        {
+            "word": "चिकित्सित",
+            "eid": "39817",
+            "pagenum": 2,
+            "content": "चिकित्सित¦ <div n='1'>— 1〉 *<lex>m.</lex> <ab>N. pr.</ab> eines Mannes. <div n='1'>— 2〉 <lex>n.</lex> = चिकित्सा. <ab>Pl.</ab> <i>die Abschnitte der therapeutischen Abtheilung</i>. Am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> आ <ls n='Chr.'>217,11</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चिकित्सित",
+            "eid": "25317",
+            "pagenum": 2,
+            "content": "चिकित्सित¦ (wie eben) <div n='1'> 1) <lex>n.</lex> dass. <ls>SUŚR. 1, 5, 20. 6, 2. 38, 18.</ls> <ls>M. 10, 47.</ls> <ls>MBH. 3, 1460.</ls> <ls n='MBH.'>4, 318.</ls> <ls>PAÑCAT. 255, 7.</ls> <ls>VARĀH. BṚH. S. 54, 15.</ls> <ls>BHĀG. P. 1, 5, 32. 33.</ls> pl. <i>die Abschnitte der therapeutischen Abtheilung</i> <ls>SUŚR. 1, 8, 5. 94, 11. 191, 4.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines Mannes <is>gaṇa</is> गर्गादि zu <ls>P. 4, 1, 105.</ls>"
+        }
     ]
 }

@@ -39,5 +39,51 @@
             "pagenum": 126,
             "content": "चूर्¦ चूरयति stehlen."
         }
+    ],
+    "MD": [
+        {
+            "word": "चूर्",
+            "eid": "7654",
+            "pagenum": 95,
+            "content": "चूर्¦ CŪR, <cl>Ⅹ.</cl> <lex>P.</lex> <b>cūraya,</b> steal."
+        }
+    ],
+    "MW": [
+        {
+            "word": "चूर्",
+            "eid": "74798",
+            "pagenum": 401,
+            "content": "चूर् ¦ <ab>cl.</ab> 4. °र्यते, to burn, <ls>Dhātup. xxvi, 49</ls>; <div n='vp'/> for <ab>cl.</ab> 10. °रयति See √ चुर्.<info westergaard='cUrI,26.49,04.0050'/><info verb='root' cp='4,10'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चूर्",
+            "eid": "18825",
+            "pagenum": 329,
+            "content": "चूर्¦ <i>cūr,</i> cl. 4. A. <i>cūryate, cucūre, cūritum,</i> to burn."
+        }
+    ],
+    "PW": [
+        {
+            "word": "चूर्",
+            "eid": "40528",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> √चूर्¦, चूरयति <i>stehlen,</i> so <ab>v. a.</ab> <i>verschwinden machen</i> <ls>Ind. St. 15,267</ls>. <ab>Vgl.</ab> चुर्."
+        },
+        {
+            "word": "चूर्",
+            "eid": "40529",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> *√चूर्¦, चूर्यते (दाहे)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चूर्",
+            "eid": "25810",
+            "pagenum": 2,
+            "content": "चूर्¦, चू/र्यते <i>brennen</i> <ls>DHĀTUP. 26, 49.</ls>"
+        }
     ]
 }

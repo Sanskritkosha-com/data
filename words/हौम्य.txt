@@ -47,5 +47,51 @@
             "pagenum": 839,
             "content": "hOmya¦ <i>n.</i> Clarified butter."
         }
+    ],
+    "MD": [
+        {
+            "word": "हौम्य",
+            "eid": "20669",
+            "pagenum": 381,
+            "content": "हौम्य¦ haum-ya, <lex>a.</lex> belonging to the oblation 🞄<i>or</i> sacrifice (homa)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "हौम्य",
+            "eid": "264591",
+            "pagenum": 1306,
+            "content": "हौम्य ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls>ṢaḍvBr.</ls>; <ls>GṛŚrS.</ls>; <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "हौम्य",
+            "eid": "264592",
+            "pagenum": 1306,
+            "content": "हौम्य ¦ <lex>n.</lex> clarified butter, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हौम्य",
+            "eid": "54434",
+            "pagenum": 1178,
+            "content": "<i>Haumya, as, ā</i>¦ or <i>-mī, am</i> (fr. <i>homa</i>), belonging to or fit for a Homa or oblation; (<i>am</i>), n. clarified butter. <i>—Haumya-dhānya, am,</i> n. sacrificial grain, sesamum."
+        }
+    ],
+    "PW": [
+        {
+            "word": "हौम्य",
+            "eid": "135639",
+            "pagenum": 7,
+            "content": "हौम्य¦ <lex>Adj.</lex> <i>zum Opfer —, zur Spende gehörig</i> (Stoffe). <lex>n.</lex> angeblich = घृत."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हौम्य",
+            "eid": "117791",
+            "pagenum": 7,
+            "content": "हौम्य¦ <lex>adj.</lex> = होम्य <i>zum Opfer —, zur Spende gehörig</i> (Stoffe): °शेषं दक्षिणा <ls>ṢAḌV. BR. 4, 1.</ls> <ls>ĀŚV. GṚHY. 1, 9, 5.</ls> <ls>KĀTY. ŚR. 25, 2, 3. 7, 11.</ls> <ls>MBH. 13, 3355. fg.</ls> <ls n='MBH. 13,'>3519.</ls> <ls n='MBH. 13,'>3740.</ls> n. = घृत <ls>RĀJAN. 15, 2.</ls>"
+        }
     ]
 }

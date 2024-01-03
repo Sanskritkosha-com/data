@@ -31,5 +31,43 @@
             "pagenum": 777,
             "content": "sAvaDAna¦ <i>a. (f. ना)</i> 1. Having or bestowing attention, attentive, careful, cautious; 2. diligent.<P>(सावधानम् is used as an indeclinable in the sense of ‘cautiously.’)"
         }
+    ],
+    "MW": [
+        {
+            "word": "सावधान",
+            "eid": "243385",
+            "pagenum": 1211,
+            "content": "sA<srs/>vaDAna ¦ <lex>mf(आ)n.</lex> having attention, attentive, heedful, careful, <ls>Bhartṛ.</ls>; <ls>HPariś.</ls><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "सावधान",
+            "eid": "243386",
+            "pagenum": 1211,
+            "content": "¦ intent upon doing anything (<ab>inf.</ab>), <ls>Uttamac.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सावधान",
+            "eid": "52105",
+            "pagenum": 1111,
+            "content": "सावधान¦ <i>sāvadhāna (sa-av°), as, ā, am,</i> having or bestowing attention, attentive, heedful, careful, cautious; diligent; (<i>am</i>), ind. cautiously. <i>—Sāvadhāna-tā,</i> f. attention, carefulness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सावधान",
+            "eid": "124662",
+            "pagenum": 7,
+            "content": "सावधान¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>aufmerksam, auf Alles achtend, besorgt</i> <ls>HEM. PAR. 2,63</ls>. <ls>PAÑCAD. 16. 20</ls>. Mit einem <ab>Infin.</ab> so <ab>v. a.</ab> <i>erpicht</i> <ls>UTTAMAC. 69</ls>. °म् <lex>Adv.</lex> <i>aufmerksam,</i> <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <i>Aufmerksamkeit</i> <ls>PAÑCAT. 34,23</ls>. किमु सावधानम् <ls>Spr. 3767</ls> fehlerhaft für किमुताव°."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सावधान",
+            "eid": "108876",
+            "pagenum": 7,
+            "content": "सावधान¦ (2. स + अव°) <lex>adj.</lex> <i>aufmerksam</i>: °मनस् <ls>Spr. (II) 5802.</ls> अतो यूयं तदवलोकने सावधाना भवत <ls>Z. d. d. m. G. 14, 574, 14.</ls> °म् adv. <ls>ŚĀK. 88, 4.</ls> किमु सावधानम् <ls>Spr. (II) 3767</ls> fehlerhaft für किमुतावधानम् . Vgl. auch unter अवधान ."
+        }
     ]
 }

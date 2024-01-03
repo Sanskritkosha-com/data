@@ -84,5 +84,99 @@
             "pagenum": 597,
             "content": "yAva¦ <i>m.</i> 1. A food prepared from barley; 2. lac, उषसि सयावकस्व्यपादलेखा <ls>Kir.</ls>v.40."
         }
+    ],
+    "MD": [
+        {
+            "word": "याव",
+            "eid": "14832",
+            "pagenum": 244,
+            "content": "याव¦ <hom>1.</hom> yāva, <lex>m.</lex> red dye, lac: <b>-ka,</b> <lex>m.</lex> <ab>id.</ab>."
+        },
+        {
+            "word": "याव",
+            "eid": "14833",
+            "pagenum": 244,
+            "content": "याव¦ <hom>2.</hom> yāva, <lex>a.</lex> made <i>or</i> consisting of 🞄barley (yava): <b>-ka,</b> <lex>m.</lex> <lex>n.</lex> <i>kind of</i> food prepared 🞄from barley."
+        }
+    ],
+    "MW": [
+        {
+            "word": "याव",
+            "eid": "171524",
+            "pagenum": 852,
+            "content": "<hom>1.</hom> या/व ¦ <lex>m.</lex> = <hom>1.</hom> यव, <ls>TS.</ls><info lex='m'/>"
+        },
+        {
+            "word": "याव",
+            "eid": "171525",
+            "pagenum": 852,
+            "content": "<hom>2.</hom> याव ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> <hom>3.</hom> यव, of which it is also the <s1 slp1='vfdDi'>Vṛddhi</s1> form in <ab>comp.</ab>) relating to or consisting of or prepared from barley, <ls>KātyŚr.</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "याव",
+            "eid": "171526",
+            "pagenum": 852,
+            "content": "याव ¦ <lex>m.</lex> a kind of food prepared from <ab n='barley'>b°</ab>, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "याव",
+            "eid": "171537",
+            "pagenum": 852,
+            "content": "<hom>3.</hom> याव ¦ <lex>m.</lex> lac or the red dye prepared from the cochineal insect, <ls>Naiṣ.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "याव",
+            "eid": "38661",
+            "pagenum": 816,
+            "content": "याव 1¦. <i>yāva</i> = 1. <i>yava,</i> q. v."
+        },
+        {
+            "word": "याव",
+            "eid": "38662",
+            "pagenum": 816,
+            "content": "याव 2¦. <i>yāva, as, ī, am</i> (fr. 3. <i>yava</i>), relating to barley, consisting of barley, made or prepared from barely, <i>= yāvaka; (as),</i> m. a kind of food prepared from barley; lac or the red dye prepared from the cochineal insect."
+        }
+    ],
+    "PW": [
+        {
+            "word": "याव",
+            "eid": "90874",
+            "pagenum": 5,
+            "content": "<hom>1.</hom> या/व¦ <lex>m.</lex> <ab>Pl.</ab> = <hom>2.</hom> य/व <i>die lichten Monatshälften</i>."
+        },
+        {
+            "word": "याव",
+            "eid": "90875",
+            "pagenum": 5,
+            "content": "<hom>2.</hom> याव¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>aus Gerste bestehend, — bereitet</i>. <div n='1'>— 2〉 *<lex>m.</lex> <i>eine <ab>best.</ab> aus Gerste bereitete Speise</i>. <div n='1'>— 3〉 *<lex>f.</lex> ई <i><bot>Andrographis paniculata</bot></i> <ls>RĀJAN. 3,65</ls>."
+        },
+        {
+            "word": "याव",
+            "eid": "90876",
+            "pagenum": 5,
+            "content": "<hom>3.</hom> याव¦ <lex>m.</lex> <i>Lackfarbe</i> <ls>VIKRAMĀṄKAC. 12,17</ls>. <ls>RĀJAT. 8,3404</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "याव",
+            "eid": "82030",
+            "pagenum": 6,
+            "content": "1. या/व¦ <lex>m.</lex> = 2. यव <ls>TS. 4, 3, 9, 2. 10, 3. 4, 7, 2. 5, 3, 4, 5.</ls>"
+        },
+        {
+            "word": "याव",
+            "eid": "82031",
+            "pagenum": 6,
+            "content": "2. याव¦ (von 1. यव) = यावक <ls>P. 5, 4, 29.</ls> <lex>adj.</lex> <i>aus Gerste bestehend</i>, <i>— bereitet</i> <ls>KĀTY. ŚR. 4, 11, 8.</ls> अ° <ls n='KĀTY. ŚR.'>5, 12, 5.</ls> <lex>m.</lex> <i>eine best. aus Gerstenkörnern bereitete Speise</i> <ls>H. an. 2, 535.</ls>"
+        },
+        {
+            "word": "याव",
+            "eid": "82032",
+            "pagenum": 6,
+            "content": "3. याव¦ <lex>m.</lex> <i>Lackfarbe</i> <ls>AK. 2, 6, 3, 26.</ls> <ls>H. 686. an. 2,535.</ls> <ls>Verz. d. Oxf. H. 98,a,4.</ls> <ls>NAIṢ. 22,46.</ls>"
+        }
     ]
 }

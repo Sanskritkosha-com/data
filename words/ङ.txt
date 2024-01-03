@@ -15,5 +15,67 @@
             "pagenum": 234,
             "content": "ङ¦ <i>ṅa,</i> 19ᵉ lettre et nasale des gutturales dans l'alphabet sanscrit; elle est représentée <lbinfo n='3'/> en grec par le <i>r</i> devant les gutturales, et elle a son correspondant dans les autres langues âryennes qui cependant ne la représentent <lbinfo n='10'/> pas par un signe particulier."
         }
+    ],
+    "MW": [
+        {
+            "word": "ङ",
+            "eid": "70275",
+            "pagenum": 380,
+            "content": "<hom>1.</hom> ङ ¦ the 5th consonant of the <ns>Sanskṛt</ns> alphabet, nasal of the 1st class. No word in use begins with this letter"
+        },
+        {
+            "word": "ङ",
+            "eid": "70275.1",
+            "pagenum": 380,
+            "content": "¦ it is usually found as the 1st member of a conjunct consonant preceded by a vowel."
+        },
+        {
+            "word": "ङ",
+            "eid": "70277",
+            "pagenum": 380,
+            "content": "<hom>2.</hom> ङ ¦ <lex>m.</lex> an object of sense, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "ङ",
+            "eid": "70278",
+            "pagenum": 380,
+            "content": "¦ desire for any sensual object, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ङ",
+            "eid": "70279",
+            "pagenum": 380,
+            "content": "¦ <s1 slp1='Siva'>Śiva</s1> (भैरव), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ङ",
+            "eid": "18076",
+            "pagenum": 310,
+            "content": "ङ 1¦. <i>ṅa,</i> the fifth consonant of the Sanskṛt alphabet, and the nasal of the first class. No real word in use begins with this letter; it is usually found as the first member of a compound consonant preceded by a vowel; the sound of <i>ṅ</i> corresponds to that of <i>ng</i> in <nsi>song</nsi>. <i>—Ṅa-kāra, as,</i> m. the letter or sound <i>ṅa.</i>"
+        },
+        {
+            "word": "ङ",
+            "eid": "18077",
+            "pagenum": 310,
+            "content": "ङ 2¦. <i>ṅa, as,</i> m. an object of sense; desire, wish for any sensual object; an epithet of Śiva; (Bhairava.)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ङ",
+            "eid": "38178",
+            "pagenum": 2,
+            "content": "*ङ¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Sinnesobject</i>. <div n='1'>— 2〉 <i>der Zug nach Sinnesobjecten</i>. <div n='1'>— 3〉 <ab>Bein.</ab> <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ङ",
+            "eid": "24257",
+            "pagenum": 2,
+            "content": "ङ¦ <lex>m.</lex> <div n='1'> 1) <i>Sinnesobject.</i> <div n='1'>— 2) <i>der Zug nach Sinnesobjecten</i> <ls>MED. ṅ. 1.</ls> <div n='1'>— 3) Bein. <is>Śiva's</is> (भैरव) <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

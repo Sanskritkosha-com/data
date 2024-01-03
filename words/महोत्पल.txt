@@ -28,5 +28,35 @@
             "pagenum": 560,
             "content": "mahA-utpala¦ <i>n.</i> a large water-lily."
         }
+    ],
+    "MW": [
+        {
+            "word": "महोत्पल",
+            "eid": "161295",
+            "pagenum": 802,
+            "content": "maho<srs/>tpala ¦ <lex>n.</lex> a large water-lily, <bot>Nelumbium Speciosum</bot>, <ls>MBh.</ls><info lex='n'/>"
+        },
+        {
+            "word": "महोत्पल",
+            "eid": "161296",
+            "pagenum": 802,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='dAkzAyaRI'>Dākṣāyaṇī</s1> in <s1 slp1='kamalAkza'>Kamalākṣa</s1>, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "महोत्पल",
+            "eid": "85480",
+            "pagenum": 5,
+            "content": "महोत्पल¦ <div n='1'>— 1〉 <lex>n.</lex> <i>die Blüthe von <bot>Nelumbium speciosum</bot></i>. <div n='1'>— 2〉 <lex>f.</lex> आ Name der <is>Dākṣāyaṇī</is> in <is>Kamalākṣa</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "महोत्पल",
+            "eid": "59347",
+            "pagenum": 5,
+            "content": "महोत्पल¦ (महा + उ°) <div n='1'> 1) <lex>n.</lex> <i>Lotus, Nelumbium speciosum</i> <ls>AK. 1, 2, 3, 38.</ls> <ls>H. 1161.</ls> <ls>HALĀY. 3, 57.</ls> <ls>Spr. 4574.</ls> <div n='1'>— 2) <lex>f.</lex> आ N. der <is>Dākṣāyaṇi</is> in <is>Kamalākṣa</is> <ls>Verz. d. Oxf. H. 39,b,8.</ls>"
+        }
     ]
 }

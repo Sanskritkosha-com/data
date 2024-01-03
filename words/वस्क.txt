@@ -31,5 +31,43 @@
             "pagenum": 572,
             "content": "वस्क¦ <i>vaska</i> <ab>m.</ab> mouvement, action d'aller: <lbinfo n='4'/> || continuation du mouvement, persévérance. <lbinfo n='8'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "वस्क",
+            "eid": "189202",
+            "pagenum": 933,
+            "content": "वस्क ¦ <lex>m.</lex> going, motion, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वस्क",
+            "eid": "189203",
+            "pagenum": 933,
+            "content": "¦ application, perseverance, <ls>ib.</ls> (= अध्यवसाय, <ls>L.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वस्क",
+            "eid": "41678",
+            "pagenum": 898,
+            "content": "<i>Vaska, as,</i>¦ m. going, motion; application, perseverance."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वस्क",
+            "eid": "99561",
+            "pagenum": 6,
+            "content": "*वस्क¦ <lex>m.</lex> = अध्यवसाय."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वस्क",
+            "eid": "89121",
+            "pagenum": 6,
+            "content": "वस्क¦ <lex>m.</lex> = अध्यवसाय <ls>BHŪRIPR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

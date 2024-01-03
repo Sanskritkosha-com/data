@@ -31,5 +31,67 @@
             "pagenum": 9,
             "content": "<i>aghoṣa</i>¦ (IE 7-1-2), ‘thirteen’ [being the number of surds in the Sanskrit alphabet]."
         }
+    ],
+    "MW": [
+        {
+            "word": "अघोष",
+            "eid": "1401",
+            "pagenum": 7,
+            "content": "अ-घोष ¦ <lex>m.</lex> (in <ab>Gr.</ab>) ‘non-sonance, absence of all sound or soft murmur’, hard articulation or effort as applied to the hard consonants and <s1 slp1='visarga'>Visarga</s1><info lex='m'/>"
+        },
+        {
+            "word": "अघोष",
+            "eid": "1402",
+            "pagenum": 7,
+            "content": "अ-घोष ¦ <lex>mfn.</lex> soundless, hard (as the hard consonants). <info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अघोष",
+            "eid": "286",
+            "pagenum": 6,
+            "content": "अघोष¦ <i>a-ghoṣa, as,</i> m. (in grammar) the hard sound of a consonant; (<i>as, ā, am</i>), hard-sounding; destitute of cowherds."
+        },
+        {
+            "word": "अघोष",
+            "eid": "54562",
+            "pagenum": 1181,
+            "content": "<i>A-ghoṣa;</i>¦ under <i>as,</i> m. add — ‘non-sonance,’ absence of all sound or soft murmur, hard articulation or effort as applied to the hard consonants and Visarga."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अघोष",
+            "eid": "857",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अघोष¦ <lex>m.</lex> <i>Tonlosigkeit</i> (bei der Aussprache der harten Consonanten <ab n='und'>u.</ab> der verschiedenen Hauche)."
+        },
+        {
+            "word": "अघोष",
+            "eid": "858",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> अघोष¦ <lex>Adj.</lex> <i>tonlos</i> (von Lauten)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अघोष",
+            "eid": "615",
+            "pagenum": 1,
+            "content": "1. अघोष¦ (3. अ + घोष) <lex>m.</lex> <i>Geräuschlosigkeit, Dumpfheit</i>, eine äussere Articulation (वाह्यप्रयत्न), mit der alle harten Consonanten und der <is>Visarga</is> ausgesprochen werden, <ls>P. 1, 1, 9</ls>, <ls>Sch.</ls>"
+        },
+        {
+            "word": "अघोष",
+            "eid": "616",
+            "pagenum": 1,
+            "content": "2. अघोष¦ (3. अ + घोष) <lex>adj.</lex> <i>dumpf</i> (vom Laut) <ls>ṚV. PRĀT. 1, 2.</ls> <ls n='ṚV. PRĀT.'>4, 4.</ls>"
+        },
+        {
+            "word": "अघोष",
+            "eid": "62688",
+            "pagenum": 5,
+            "content": "2. अघोष¦ auch in <ls>TAITT. PRĀT.</ls>; s. <ls>Ind. St. 4, 181. 245.</ls>"
+        }
     ]
 }

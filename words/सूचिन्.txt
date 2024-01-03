@@ -50,5 +50,49 @@
             "pagenum": 790,
             "content": "sUcin¦ <i>(II) m.</i> A spy, an informer."
         }
+    ],
+    "MW": [
+        {
+            "word": "सूचिन्",
+            "eid": "251084",
+            "pagenum": 1241,
+            "content": "सूचिन् ¦ <lex>mfn.</lex> spying, informing, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सूचिन्",
+            "eid": "251085",
+            "pagenum": 1241,
+            "content": "¦ piercing perforating, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सूचिन्",
+            "eid": "251086",
+            "pagenum": 1241,
+            "content": "सूचिन् ¦ <lex>m.</lex> a spy, informer, <ls>MBh.</ls>; <ls>VP.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सूचिन्",
+            "eid": "52506",
+            "pagenum": 1131,
+            "content": "<i>Sūcin, ī, inī, i,</i>¦ piercing, perforating; pointing out, indicating; informing against, informing; spying out; (<i>ī</i>), m. a spy, informer; (<i>inī</i>), f. a needle; night."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सूचिन्",
+            "eid": "128642",
+            "pagenum": 7,
+            "content": "सूचिन्¦ <lex>m.</lex> <i>Angeber, delator</i>. Nach <ls>H. ś.</ls> = दुष्टसाक्षिन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सूचिन्",
+            "eid": "112106",
+            "pagenum": 7,
+            "content": "सूचिन्¦ (von सूचय्) <lex>m.</lex> <i>Angeber, delator</i> <ls>MBH. 5, 1227.</ls> <ls n='MBH.'>13, 4278.</ls> <ls>VP. 2, 6, 21.</ls> = दुष्टसाक्षिन् <ls>H. ś. 153.</ls>"
+        }
     ]
 }

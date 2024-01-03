@@ -39,5 +39,49 @@
             "pagenum": 434,
             "content": "pArzad¦ <i>f.</i> An assembly."
         }
+    ],
+    "MW": [
+        {
+            "word": "पार्षद्",
+            "eid": "123082",
+            "pagenum": 622,
+            "content": "<hom>1.</hom> पार्षद् ¦ <s1 slp1='vfdDi'>Vṛddhi</s1> form of पृषद् in <ab>comp.</ab>"
+        },
+        {
+            "word": "पार्षद्",
+            "eid": "123086",
+            "pagenum": 622,
+            "content": "<hom>2.</hom> पार्षद् ¦ <lex>f.</lex> (<ab>cf.</ab> next) an assembly, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "पार्षद्",
+            "eid": "123087",
+            "pagenum": 622,
+            "content": "¦ <ab>pl.</ab> the attendance or retinue of a god, <ls>BhP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पार्षद्",
+            "eid": "29065",
+            "pagenum": 570,
+            "content": "पार्षद्¦ <i>pārṣad, t,</i> f. (for <i>pari-ṣada?</i>), an assembly; (<i>das</i>), m. pl. the attendants or retinue of a god."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पार्षद्",
+            "eid": "66514",
+            "pagenum": 4,
+            "content": "पार्षद्¦ wohl <lex>f.</lex> *<i>Versammlung;</i> <ab>Pl.</ab> <i>Gefolge</i> (eines Gottes)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पार्षद्",
+            "eid": "44880",
+            "pagenum": 4,
+            "content": "पार्षद्¦ = परिषद (!), गोष्ठी <i>Versammlung</i> <ls>TRIK. 2, 7, 5.</ls> pl. <i>das Gefolge eines Gottes</i>: रुद्रपार्षदां गणाः <ls>BHĀG. P. 3, 6, 29.</ls> मधुद्विषः पार्षत्प्रधानौ <ls n='BHĀG. P.'>4, 12, 21.</ls> <div n='v'>— Vgl. पर्षद् ."
+        }
     ]
 }

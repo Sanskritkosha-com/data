@@ -47,5 +47,53 @@
             "pagenum": 706,
             "content": "Sata-DA¦ <i>ind.</i> 1. in a hundred ways; 2. in a hundred parts."
         }
+    ],
+    "MW": [
+        {
+            "word": "शतधा",
+            "eid": "211949",
+            "pagenum": 1049,
+            "content": "<hom>1.</hom> शत—धा ¦ <lex>f.</lex> <s1 slp1='dUrvA'>Dūrvā</s1> grass, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "शतधा",
+            "eid": "211950",
+            "pagenum": 1049,
+            "content": "<hom>2.</hom> शत—धा/ ¦ <lex>ind.</lex> in a <ab n='hundred'>h°</ab> ways, <ls>W.</ls><info lex='ind'/>"
+        },
+        {
+            "word": "शतधा",
+            "eid": "211950.1",
+            "pagenum": 1049,
+            "content": "¦ a <ab n='hundred'>h°</ab>-fold, into a <ab n='hundred'>h°</ab> parts or pieces (with √ भू, to be divided into a <ab n='hundred'>h°</ab> parts), <ls>ŚBr.</ls>; <ls>Up.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शतधा",
+            "eid": "109814",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> शतधा/¦ <lex>Adv.</lex> <i>hundertfach, in hundert Theile</i>. Mit भू <i>sich hundertfach theilen in</i> (<ab>Gen.</ab>) <ls n='Chr.'>73,28</ls>."
+        },
+        {
+            "word": "शतधा",
+            "eid": "109815",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> *शतधा¦ <lex>f.</lex> <is>Dūrvā</is>-Gras."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शतधा",
+            "eid": "97503",
+            "pagenum": 7,
+            "content": "1. शतधा/¦ (von 1. शत) adv. <i>hundertfach, in hundert Theile</i> (sich theilend u. s. w.) <ls>ŚAT. BR. 7, 2, 4, 27.</ls> वर्तमानः <ls>MAITRYUP. 6, 8.</ls> कल्पितः <ls>ŚVETĀŚV. UP. 5, 9.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 160.</ls> भू <ls>MBH. 12, 115.</ls> भिद्यते <ls n='MBH.'>1, 2191.</ls> <ls n='MBH. 1,'>6753.</ls> <ls n='MBH.'>3, 12123.</ls> <ls n='MBH. 3,'>12131.</ls> <ls>HARIV. 5524.</ls> <ls>R. GORR. 2, 17, 41.</ls> <ls n='R. GORR.'>3, 33, 9.</ls> <ls n='R. GORR. 3,'>34, 18.</ls> गम् <ls n='R. GORR.'>4, 22, 15.</ls> <ls>Spr. (II) 2071.</ls> धौत (vgl. शतधौत) <ls n='Spr. (II)'>2849.</ls> कृत <ls n='Spr.'>(I) 2741.</ls> <ls>KATHĀS. 61, 315.</ls> <ls n='KATHĀS.'>106, 33.</ls> <ls>RĀJA-TAR. 5, 330.</ls> <ls>BRAHMA-P. in LA. (III) 58, 6.</ls> <ls>PAÑCAT. 94, 6.</ls>"
+        },
+        {
+            "word": "शतधा",
+            "eid": "97504",
+            "pagenum": 7,
+            "content": "2. शतधा¦ <lex>f.</lex> <is>Dūrvā</is>-<i>Gras</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

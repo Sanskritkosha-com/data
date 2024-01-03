@@ -23,5 +23,41 @@
             "pagenum": 239,
             "content": "<b>Devayājin</b>,¦ a warrior of Skanda. § 615<i>u</i> (Skanda): IX, <b>45</b>η, 2572."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवयाजिन्",
+            "eid": "95935",
+            "pagenum": 494,
+            "content": "देव—याजि/न् ¦ <lex>mfn.</lex> sacrificing to the gods, <ls>ŚBr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "देवयाजिन्",
+            "eid": "95936",
+            "pagenum": 494,
+            "content": "देव—याजि/न् ¦ <lex>m.</lex> <ab>N.</ab> of one of the attendants of <s1 slp1='skanda'>Skanda</s1>, <ls>MBh.</ls><info lex='m'/>"
+        },
+        {
+            "word": "देवयाजिन्",
+            "eid": "95937",
+            "pagenum": 494,
+            "content": "¦ of a <s1 slp1='dAnava'>Dānava</s1>, <ls>Hariv.</ls> (<ab>v.l.</ab> -यात्रिन्). <info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवयाजिन्",
+            "eid": "52439",
+            "pagenum": 3,
+            "content": "देवयाजि/न्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>den Göttern opfernd</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> <div n='2'>— a〉 eines Wesens <lex>m.</lex> Gefolge <is>Skanda</is>ʼs. <div n='2'>— b〉 eins <is>Dānava</is> <ls>HARIV. 3,47,14</ls>. देवयात्रिन् <ab>v. l.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवयाजिन्",
+            "eid": "34601",
+            "pagenum": 3,
+            "content": "देवयाजि/न्¦ (देव + या°) <div n='1'> 1) <lex>adj.</lex> <i>den Göttern opfernd</i> <ls>ŚAT. BR. 11, 2, 6, 13.</ls> <div n='1'>— 2) <lex>m.</lex> N. pr. eines Wesens im Gefolge des <is>Skanda</is> <ls>MBH. 9, 2572.</ls> eines <is>Dānava</is> <ls>HARIV.</ls> <ls>LANGL. II, 409</ls> (die Calc. Ausg.: देवयात्रिन्)."
+        }
     ]
 }

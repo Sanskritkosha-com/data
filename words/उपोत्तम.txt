@@ -31,5 +31,43 @@
             "pagenum": 146,
             "content": "upottama¦ <i>a. (f. मा)</i> Last but one."
         }
+    ],
+    "MW": [
+        {
+            "word": "उपोत्तम",
+            "eid": "36998",
+            "pagenum": 216,
+            "content": "upo<srs/>ttama/ ¦ <lex>mfn.</lex> last but one, <ls>AV. xix, 22, 11</ls>; <ls>KātyŚr.</ls>; <ls>ŚāṅkhŚr.</ls>; <ls>RPrāt.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "उपोत्तम",
+            "eid": "36999",
+            "pagenum": 216,
+            "content": "upo<srs/>ttama/ ¦ (अम्), <lex>n.</lex> (with or without अक्षर) the last vowel but one, <ls>RPrāt. 990</ls>; <ls>Pāṇ.</ls>; <ls>Kāty.</ls> &c.<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उपोत्तम",
+            "eid": "12254",
+            "pagenum": 173,
+            "content": "उपोत्तम¦ <i>upottama (upa-utt°), as, ā, am,</i> last but one; (<i>am</i>), n. (scil. <i>akṣaram</i>) the last vowel but one."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उपोत्तम",
+            "eid": "20431",
+            "pagenum": 1,
+            "content": "उपोत्तम/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>der vorletzte</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>der vorletzte Vocal</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उपोत्तम",
+            "eid": "12350",
+            "pagenum": 1,
+            "content": "उपोत्तम/¦ (उप + उत्तम) <lex>adj.</lex> <i>der vorletzte</i> <ls>AV. 19, 22, 11.</ls> <ls>KĀTY. ŚR. 16, 4, 41.</ls> <ls>ŚĀṄKH. GṚHY. 6, 7, 13. 10, 11, 17.</ls> <ls>ṚV. PRĀT. 1, 19.</ls> <ls n='ṚV. PRĀT.'>2, 10.</ls> <ls n='ṚV. PRĀT.'>17, 21.</ls> <ls>NIR. 1, 19.</ls> <lex>n.</lex> (sc. अक्षर) <i>der vorletzte Vocal</i> <ls>P. 4, 1, 78.</ls> <ls n='P.'>5, 1, 132.</ls> <ls n='P.'>6, 1, 180.</ls> <ls n='P. 6, 1,'>217.</ls> <ls n='P.'>1, 2, 37</ls>, <is>Vārtt</is>. 3."
+        }
     ]
 }

@@ -42,5 +42,41 @@
             "pagenum": 274,
             "content": "cira-Ayus¦ <i>(II) m.</i> a god."
         }
+    ],
+    "MW": [
+        {
+            "word": "चिरायुस्",
+            "eid": "74315",
+            "pagenum": 399,
+            "content": "cirA<srs/>yus ¦ <lex>mfn.</lex> long-lived, <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "चिरायुस्",
+            "eid": "74316",
+            "pagenum": 399,
+            "content": "cirA<srs/>yus ¦ <lex>m.</lex> a deity, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "चिरायुस्",
+            "eid": "74317",
+            "pagenum": 399,
+            "content": "¦ a crow, <ls>Gal.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चिरायुस्",
+            "eid": "40283",
+            "pagenum": 2,
+            "content": "चिरायुस्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>langlebig</i>. <div n='1'>— 2〉 *<lex>m.</lex> <div n='2'>— a〉 <i>eine Gottheit</i>. <div n='2'>— b〉 <i>Krähe</i> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चिरायुस्",
+            "eid": "25620",
+            "pagenum": 2,
+            "content": "चिरायुस्¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>langlebig</i> <ls>SUŚR. 1, 322, 15.</ls> <div n='1'>— 2) <lex>m.</lex> <i>eine Gottheit</i> <ls>TRIK. 1, 1, 5.</ls> <ls>H. ś. 2.</ls>"
+        }
     ]
 }

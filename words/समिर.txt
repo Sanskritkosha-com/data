@@ -57,5 +57,43 @@
             "pagenum": 760,
             "content": "samira¦ <i>m.</i> Wind."
         }
+    ],
+    "MW": [
+        {
+            "word": "समिर",
+            "eid": "234942",
+            "pagenum": 1164,
+            "content": "सम्-इर ¦ <lex>m.</lex> = सम्-ईर, wind, air (See सम्-√ ईर्), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "समिर",
+            "eid": "234943",
+            "pagenum": 1164,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "समिर",
+            "eid": "50230",
+            "pagenum": 1077,
+            "content": "समिर¦ <i>sam-ira, as,</i> m. <i>= sam-īra,</i> wind, air, (see <i>sam-īr.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "समिर",
+            "eid": "120542",
+            "pagenum": 7,
+            "content": "*समिर¦ <lex>m.</lex> <div n='1'>— 1〉 = समीर <i>Wind</i>. <div n='1'>— 2〉 <ab>Bein.</ab> <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समिर",
+            "eid": "105770",
+            "pagenum": 7,
+            "content": "समिर¦ <lex>m.</lex> <div n='1'> 1) = समीर <i>Wind</i> <ls>H. 1106.</ls> <div n='1'>— 2) ein N. <is>Śiva's</is> (?) <ls>H. ś. 45.</ls>"
+        }
     ]
 }

@@ -47,5 +47,43 @@
             "pagenum": 761,
             "content": "samutseDa¦ <i>m.</i> 1. Height, elevation; 2. fatness, thickness."
         }
+    ],
+    "MW": [
+        {
+            "word": "समुत्सेध",
+            "eid": "235215",
+            "pagenum": 1166,
+            "content": "सम्-उत्सेध ¦ <lex>m.</lex> (<ab>ifc.</ab> <lex type='hwifc'>f(आ). </lex>) elevation, height, <ls>MBh.</ls>; <ls>R.</ls><info lex='m:f#A'/>"
+        },
+        {
+            "word": "समुत्सेध",
+            "eid": "235216",
+            "pagenum": 1166,
+            "content": "¦ swelling up, intumescence, fatness, thickness, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "समुत्सेध",
+            "eid": "50374",
+            "pagenum": 1079,
+            "content": "समुत्सेध¦ <i>sam-utsedha, as,</i> m. (fr. rt. 1. <i>sidh</i> with <i>ud</i> and <i>sam</i>), elevation, height; swelling up, intumescence, fatness, thickness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "समुत्सेध",
+            "eid": "120654",
+            "pagenum": 7,
+            "content": "समुत्सेध¦ <lex>m.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <i>Höhe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "समुत्सेध",
+            "eid": "105857",
+            "pagenum": 7,
+            "content": "समुत्सेध¦ <lex>m.</lex> = उत्सेध <i>Höhe</i>; am Ende eines <lex>adj.</lex> comp. (f. आ) <ls>MBH. 3, 11614.</ls> <ls n='MBH. 3,'>15719.</ls> <ls>HARIV. 8994.</ls> <ls>R. 1, 15, 7</ls> (<ls n='GORR. 1, 15,'>5</ls> <ls>GORR.</ls>). <ls n='R.'>6, 2, 6.</ls>"
+        }
     ]
 }

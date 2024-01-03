@@ -81,5 +81,53 @@
             "pagenum": 449,
             "content": "राम°नाथ¦ <lex>m.</lex> <ab>E.</ab> of Rāma, <ab>N.</ab> of <ab>sev.</ab> men."
         }
+    ],
+    "MW": [
+        {
+            "word": "रामनाथ",
+            "eid": "177422",
+            "pagenum": 877,
+            "content": "राम—नाथ ¦ <lex>m.</lex> ‘R's lord’, <ab>N.</ab> of <ab n='Rāma' slp1='rAma'>R°</ab>s <s1 slp1='dASaraTi'>Dāśarathi</s1>, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रामनाथ",
+            "eid": "177423",
+            "pagenum": 877,
+            "content": "¦ (with hosalA<srs/>DI<srs/>Svara) of a king of <s1 slp1='deva-giri'>Deva-giri</s1> (also called <s1 slp1='rAma-candra'>Rāma-candra</s1>), <ls>Cat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रामनाथ",
+            "eid": "177424",
+            "pagenum": 877,
+            "content": "¦ of a teacher (also called <s1 slp1='rAma-candra'>Rāma-candra</s1>), <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रामनाथ",
+            "eid": "177425",
+            "pagenum": 877,
+            "content": "¦ of another man, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रामनाथ",
+            "eid": "177426",
+            "pagenum": 877,
+            "content": "¦ (also with चक्र-वर्तिन्, विद्या-वाचस्-पति, and sidDA<srs/>nta) of various authors, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रामनाथ",
+            "eid": "93919",
+            "pagenum": 5,
+            "content": "रामनाथ¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Bez.</ab> <is>Rāma</is>ʼs, Sohnes des <is>Daśaratha</is>. °स्तोत्र <lex>n.</lex> <ls>BURNELL, T.</ls> <div n='1'>— 2〉 <ab>N. pr.</ab> verschiedener Männer."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रामनाथ",
+            "eid": "84525",
+            "pagenum": 6,
+            "content": "रामनाथ¦ <lex>m.</lex> <div n='1'> 1) Bez. des göttlich verehrten <is>Rāma</is>, des Sohnes des <is>Daśaratha</is>, <ls>WILSON, Sel. Works I,39.</ls> <ls>Verz. d. Oxf. H. 258,a,22.</ls> <div n='1'>— 2) N. pr. verschiedener Männer <ls>Verz. d. Oxf. H. 125,b, No. 218. 280,a, N. 1.</ls> <ls>HALL 111.</ls>"
+        }
     ]
 }

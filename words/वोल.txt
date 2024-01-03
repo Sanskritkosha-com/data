@@ -23,5 +23,37 @@
             "pagenum": 696,
             "content": "vola¦ <i>m.</i> Gum-myrrh."
         }
+    ],
+    "MW": [
+        {
+            "word": "वोल",
+            "eid": "208184",
+            "pagenum": 1028,
+            "content": "वोल ¦ <lex>m.</lex> gum-myrrh, <ls>Bhpr.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वोल",
+            "eid": "45202",
+            "pagenum": 971,
+            "content": "वोल¦ <i>vola, am,</i> n. gum-myrrh (<i>= raktā-</i> <i>paha</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वोल",
+            "eid": "108203",
+            "pagenum": 6,
+            "content": "*वोल¦ <lex>m.</lex> <i>Myrrhe</i> <ls>RĀJAN. 6,116</ls>. <ls>BHĀVAPR. 1,266</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वोल",
+            "eid": "96179",
+            "pagenum": 6,
+            "content": "वोल¦ <lex>m.</lex> <i>Myrrhe</i> <ls>AK. 2, 9, 105.</ls> <ls>H. 1063.</ls> nach <ls>ŚKDR.</ls> auch n."
+        }
     ]
 }

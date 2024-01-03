@@ -52,5 +52,51 @@
             "pagenum": 358,
             "content": "DAnuzka¦ <i>m.</i> An archer, निमित्तादपराद्धेषोर्धानुष्कस्येव वल्गितम् <ls>Sis.</ls>ii.27."
         }
+    ],
+    "MD": [
+        {
+            "word": "धानुष्क",
+            "eid": "9983",
+            "pagenum": 132,
+            "content": "धानुष्क¦ dhānuṣ-ka, <lex>a.</lex> armed with a bow; 🞄<lex>m.</lex> bowman."
+        }
+    ],
+    "MW": [
+        {
+            "word": "धानुष्क",
+            "eid": "100919",
+            "pagenum": 515,
+            "content": "धानुष्क ¦ <lex>mf(ई)n.</lex> armed with a bow<info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "धानुष्क",
+            "eid": "100920",
+            "pagenum": 515,
+            "content": "धानुष्क ¦ <lex>m.</lex> bowman, archer, <ls>MBh.</ls> (-ता <lex type='phw'>f.</lex>, <ls>Bhartṛ. i, 13</ls> <ab>v.l.</ab>)<info phwchild='100921.1'/><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "धानुष्क",
+            "eid": "23317",
+            "pagenum": 454,
+            "content": "धानुष्क¦ <i>dhānuṣka, as, ī, am</i> (fr. <i>dhanus</i>), armed with a bow, one who carries a bow, a bowyer, bowman, archer; (<i>ā</i>), f. the plant Achyranthes Aspera (<i>= apāmārga</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "धानुष्क",
+            "eid": "55152",
+            "pagenum": 3,
+            "content": "धानुष्क¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>mit einem Bogen bewaffnet;</i> <lex>m.</lex> <i>Bogenkämpfer, Bogenträger</i>. <div n='1'>— 2〉 *<lex>f.</lex> आ <i><bot>Achyranthes aspera</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धानुष्क",
+            "eid": "36561",
+            "pagenum": 3,
+            "content": "धानुष्क¦ (von 1. धनुस्) <div n='1'> 1) oxyt. <lex>adj.</lex> subst. <i>mit einem Bogen bewaffnet, Bogenträger, Bogenkämpfer</i> <ls>Schol.</ls> zu <ls>P. 4, 4, 12.</ls> <ls n='P.'>7, 3, 51.</ls> <ls n='P.'>8, 1, 8.</ls> <ls>AK. 2, 8, 2, 37.</ls> <ls>H. 771.</ls> <ls>MBH. 6, 756.</ls> <ls n='MBH. 6,'>3545.</ls> <ls>KULL.</ls> zu <ls>M. 7, 74.</ls> <ls>BHAṬṬ. 4. 50.</ls> Davon nom. abstr. °ता <ls>BHARTṚ. 1, 13, v. l.</ls> <div n='1'>— 2) <lex>f.</lex> आ <i>Achyranthes aspera</i> (s. अपामार्ग) <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

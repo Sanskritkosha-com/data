@@ -23,5 +23,45 @@
             "pagenum": 45,
             "content": "abanDu¦ <i>a.</i> Without friends, without companions."
         }
+    ],
+    "MD": [
+        {
+            "word": "अबन्धु",
+            "eid": "2128",
+            "pagenum": 22,
+            "content": "अबन्धु¦ a-bandhú, <lex>a.</lex> lacking relations, companionless."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अबन्धु",
+            "eid": "10944",
+            "pagenum": 60,
+            "content": "अ-बन्धु/ ¦ <lex>mfn.</lex> without kindred, without companions, friendless, <ls>RV. i, 53, 9</ls> and <ls n='RV.'>viii, 21, 4</ls>; <ls>AV. vi, 122, 2.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अबन्धु",
+            "eid": "4061",
+            "pagenum": 59,
+            "content": "अबन्धु¦ <i>a-bandhu, us, us, u,</i> without kindered, without companions, friendless. <i>—Abandhu-kṛt, t,</i> <i>t, t,</i> Ved. causing want of companions."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अबन्धु",
+            "eid": "7076",
+            "pagenum": 1,
+            "content": "अबन्धु/¦ <lex>Adj.</lex> <i>ohne Verwandte, — Genossen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अबन्धु",
+            "eid": "4380",
+            "pagenum": 1,
+            "content": "अबन्धु/¦ (3. अ + ब°) <lex>adj.</lex> <i>ohne Verwandtschaft, ohne Genossen</i>: वयं हि त्वा\\ बन्धु^मन्तमब\\न्धवो\\ विप्रा^स इन्द्र येमि\\म <ls>ṚV. 8, 21, 4.</ls> <ls n='ṚV.'>1, 53, 9.</ls> <ls>AV. 6, 122, 2.</ls>"
+        }
     ]
 }

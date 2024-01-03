@@ -31,5 +31,49 @@
             "pagenum": 647,
             "content": "vasi¦ <i>m.</i> 1. Clothes; 2. a dwelling."
         }
+    ],
+    "MW": [
+        {
+            "word": "वसि",
+            "eid": "189010",
+            "pagenum": 932,
+            "content": "<hom>1.</hom> वसि ¦ <lex>m.</lex> or <lex type='hw'>f.</lex> (for <hom>2.</hom> See <ab>col.</ab> 3) = वस्त्र, clothes &c., <ls>L.</ls><info lex='m:f'/>"
+        },
+        {
+            "word": "वसि",
+            "eid": "189114",
+            "pagenum": 932,
+            "content": "<hom>2.</hom> वसि ¦ <lex>m.</lex> (for <hom>1.</hom> See <ab>col.</ab> 1) dwelling or a dwelling-place, <ls>W.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वसि",
+            "eid": "41629",
+            "pagenum": 896,
+            "content": "1. <i>vasi, is,</i>¦ m. f. (?) , clothes. (For 2. see col. 2.)"
+        },
+        {
+            "word": "वसि",
+            "eid": "41645",
+            "pagenum": 896,
+            "content": "2. <i>vasi, is,</i>¦ m. (for 1. see col. 1), dwelling, abode; a dwelling."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वसि",
+            "eid": "99388",
+            "pagenum": 6,
+            "content": "*वसि¦ <lex>m.</lex> oder <lex>f.</lex> = वस्त्र."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वसि",
+            "eid": "88981",
+            "pagenum": 6,
+            "content": "वसि/¦ (von 3. वस्) <ls>UṆĀDIS. 4, 139.</ls> = वस्त्र <i>Gewand</i> <ls>UJJVAL.</ls>"
+        }
     ]
 }

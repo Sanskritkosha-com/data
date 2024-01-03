@@ -44,5 +44,35 @@
             "pagenum": 354,
             "content": "Darma-saMhitA¦ <i>f.</i> a code of laws (compiled by sages such as Manu, Yājnyavalkya &c.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "धर्मसंहिता",
+            "eid": "100301",
+            "pagenum": 512,
+            "content": "धर्म—संहिता ¦ <lex>f.</lex> code or collection of <ab n='law'>l°</ab> (as <s1 slp1='manu'>Manu</s1>, <ls>Yājñ.</ls> &c.)<info lex='f'/>"
+        },
+        {
+            "word": "धर्मसंहिता",
+            "eid": "100302",
+            "pagenum": 512,
+            "content": "¦ <ab>N.</ab> of a <ab>partic.</ab> <ab>wk.</ab> <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "धर्मसंहिता",
+            "eid": "54880",
+            "pagenum": 3,
+            "content": "धर्मसंहिता¦ <lex>f.</lex> <i>Gesetzsammlung</i>. Auch Titel eines <ab>best.</ab> Werkes <ls>OPP. CAT. 1</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "धर्मसंहिता",
+            "eid": "36385",
+            "pagenum": 3,
+            "content": "धर्मसंहिता¦ (धर्म + सं°) <lex>f.</lex> <i>Gesetzsammlung</i> <ls>AK. 1, 1, 5, 7.</ls> <ls>H. 251.</ls>"
+        }
     ]
 }

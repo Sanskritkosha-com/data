@@ -58,5 +58,57 @@
             "pagenum": 800,
             "content": "sOvastika¦ <i>(II) m.</i> A family-priest."
         }
+    ],
+    "MW": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "253966",
+            "pagenum": 1255,
+            "content": "सौवस्तिक ¦ <lex>mfn.</lex> (<ab>fr.</ab> स्व्-अस्ति) benedictive, salutatory, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सौवस्तिक",
+            "eid": "253967",
+            "pagenum": 1255,
+            "content": "सौवस्तिक ¦ <lex>m.</lex> a family <ns>Brāhman</ns> or priest, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सौवस्तिक",
+            "eid": "253968",
+            "pagenum": 1255,
+            "content": "सौवस्तिक ¦ <lex>n.</lex> = स्वस्त्य्-अयन, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "52925",
+            "pagenum": 1140,
+            "content": "सौवस्तिक¦ <i>sauvastika, as, ī, am</i> (fr. <i>svasti</i>), benedictive, salutatory; (<i>as</i>), m. a family Brāhman or priest."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "130157",
+            "pagenum": 7,
+            "content": "*सौवस्तिक¦ <lex>m.</lex> <i>Hauspriester eines Fürsten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "113361",
+            "pagenum": 7,
+            "content": "सौवस्तिक¦ (von स्वस्ति) <ls>VOP. 7, 4. 18.</ls> m. <i>Hauspriester eines Fürsten (seinen Segen gebend</i>) <ls>H. 721.</ls> <ls>HALĀY. 2, 271.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "21976",
+            "pagenum": 7,
+            "content": "सौवस्तिक¦ VII. <lex>n.</lex> = स्वस्त्ययन <ls>MAHĀVY. 137</ls>."
+        }
     ]
 }

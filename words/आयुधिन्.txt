@@ -39,5 +39,55 @@
             "pagenum": 105,
             "content": "AyuDin¦ <i>m.</i> A warrior, a soldier."
         }
+    ],
+    "MW": [
+        {
+            "word": "आयुधिन्",
+            "eid": "25965",
+            "pagenum": 149,
+            "content": "आयुधि/न् ¦ <lex>m.</lex> bearing weapons<info lex='m'/>"
+        },
+        {
+            "word": "आयुधिन्",
+            "eid": "25966",
+            "pagenum": 149,
+            "content": "¦ a warrior, <ls>VS. xvi, 36</ls>; <ls>Kauś.</ls>; <ls>R.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आयुधिन्",
+            "eid": "9033",
+            "pagenum": 127,
+            "content": "<i>Āyudhin, ī, inī, i,</i>¦ bearing weapons; (<i>ī</i>), m. a warrior."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आयुधिन्",
+            "eid": "9059",
+            "pagenum": 1,
+            "content": "आयुधि/न्¦ (wie eben) <lex>adj.</lex> <i>waffentragend</i>; <lex>m.</lex> <i>Krieger</i> <ls>VS. 16, 36.</ls> <ls>KAUŚ. 104.</ls> <ls>R. 2, 53, 30.</ls>"
+        },
+        {
+            "word": "आयुधिन्",
+            "eid": "66719",
+            "pagenum": 5,
+            "content": "आयुधिन्¦ <lex>adj.</lex> <ls>MBH. 13, 1157.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "आयुधिन्",
+            "eid": "4104",
+            "pagenum": 3,
+            "content": "आयुधि/न्¦ <lex>Adj.</lex> <i>Waffen tragend;</i> <lex>m.</lex> <i>Krieger</i>."
+        },
+        {
+            "word": "आयुधिन्",
+            "eid": "14269",
+            "pagenum": 7,
+            "content": "आयुधि/न्¦ I. 3."
+        }
     ]
 }

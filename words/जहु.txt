@@ -31,5 +31,59 @@
             "pagenum": 287,
             "content": "jahu¦ <i>m.</i> A young animal."
         }
+    ],
+    "MD": [
+        {
+            "word": "जहु",
+            "eid": "7968",
+            "pagenum": 100,
+            "content": "जहु¦ jahu, <lex>m.</lex> young <i>of an animal</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जहु",
+            "eid": "78392",
+            "pagenum": 416,
+            "content": "जहु ¦ <lex>m.</lex> (= यहु/) <ab>ifc.</ab> a young animal, <ls>BhP. v, 8, 8</ls><info lex='m'/>"
+        },
+        {
+            "word": "जहु",
+            "eid": "78393",
+            "pagenum": 416,
+            "content": "¦ <ab>N.</ab> of a son of <s1 slp1='puzpavat'>Puṣpavat</s1>, <ls n='BhP.'>ix, 22, 7.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जहु",
+            "eid": "19466",
+            "pagenum": 343,
+            "content": "जहु¦ <i>jahu, us,</i> m. a young animal; N. of a son of Puṣpa-vat and descendant of Ṛṣabha."
+        }
+    ],
+    "PUI": [
+        {
+            "word": "जहु",
+            "eid": "5112",
+            "pagenum": 1,
+            "content": "<i>Jahu</i>¦ — a son of Puṣpavat. <div n='P'/>Bhā. IX. 22. 7."
+        }
+    ],
+    "PW": [
+        {
+            "word": "जहु",
+            "eid": "42350",
+            "pagenum": 2,
+            "content": "जहु¦ <lex>m.</lex> <div n='1'>— 1〉 <i>das Junge eines Thieres</i>. <ab>Vgl.</ab> यहु <div n='1'>— 2〉 <ab>N. pr.</ab> eines Sohnes des <is>Puṣpavant</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जहु",
+            "eid": "27140",
+            "pagenum": 3,
+            "content": "जहु¦ <lex>m.</lex> <div n='1'> 1) <i>das Junge eines Thieres</i>: मृग° <ls>BHĀG. P. 5, 8, 8.</ls> <div n='1'>— 2) N. pr. eines Sohnes des <is>Puṣpavant</is> und Nachkommen des <is>Ṛṣabha</is> <ls>BHĀG. P. 9, 22, 7.</ls>"
+        }
     ]
 }

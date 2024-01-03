@@ -60,5 +60,63 @@
             "pagenum": 87,
             "content": "asuKa¦ <i>n.</i> Misery, sorrow, pain, <ls>M.</ls>xii.19."
         }
+    ],
+    "MD": [
+        {
+            "word": "असुख",
+            "eid": "3200",
+            "pagenum": 35,
+            "content": "असुख¦ a-sukha, <lex>n.</lex> pain, sorrow; <lex>a.</lex> unpleasant; 🞄painful; unhappy; not easy to (<ab>inf.</ab>); 🞄<b>-jīvika,</b> <lex>a.</lex> leading a joyless life; <b>-āviṣṭa,</b> 🞄<ab>pp.</ab> afflicted with grief."
+        }
+    ],
+    "MW": [
+        {
+            "word": "असुख",
+            "eid": "21092",
+            "pagenum": 121,
+            "content": "अ-सुख ¦ <lex>mf(आ)n.</lex> unhappy, sorrowful, <ls>MBh.</ls> &c.<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "असुख",
+            "eid": "21093",
+            "pagenum": 121,
+            "content": "¦ painful, <ls>N.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "असुख",
+            "eid": "21094",
+            "pagenum": 121,
+            "content": "¦ not easy to (<ab>Inf.</ab>), <ls>Kir. v, 49</ls><info lex='inh'/>"
+        },
+        {
+            "word": "असुख",
+            "eid": "21095",
+            "pagenum": 121,
+            "content": "अ-सुख ¦ <lex>n.</lex> sorrow, pain, affliction, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "असुख",
+            "eid": "7559",
+            "pagenum": 106,
+            "content": "असुख¦ <i>a-sukha, as, ā, am,</i> unhappy, sorrowful, melancholic; (<i>am</i>), n. sorrow, pain, affliction. <i>—Asukha-jīvikā,</i> f. a joyless life. <i>—Asukha-pīḍita,</i> <i>as, ā, am,</i> pained with grief. <i>—Asukhāvaha (°kha-</i> <i>āv°), as, ā, am,</i> producing unhappiness. <i>—Asukhā-</i> <i>viṣṭa (°kha-āv°), as, ā, am,</i> afflicted with grief, pain, or unhappiness. <i>—Asukhodaya (°kha-ud°), as,</i> <i>ā, am,</i> causing or ending in unhappiness. <i>—Asukho-</i> <i>darka (°kha-ud°), as, ā, am,</i> productive of or ending in unhappiness."
+        }
+    ],
+    "PW": [
+        {
+            "word": "असुख",
+            "eid": "12657",
+            "pagenum": 1,
+            "content": "असुख¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='2'>— a〉 <i>unangenehm, schmerzlich</i>. <div n='2'>— b〉 <i>unglücklich</i>. <div n='2'>— c〉 <i>nicht leicht zu</i> (<ab>Inf.</ab>) <ls>KIR. 5,49</ls>. <div n='1'>— 2〉 <lex>n.</lex> <i>Herzeleid, Pein, Kummer</i> <ls>Spr. 7703</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "असुख",
+            "eid": "7419",
+            "pagenum": 1,
+            "content": "असुख¦ (3. अ + सु°) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> आ <i>unglücklich, kummervoll, wehmüthig</i>: (भूतानाम्) असुखानामनाथानाम् <ls>MBH. 1, 3984.</ls> <ls n='MBH. 1,'>6428.</ls> शोकजं वारि नेत्राभ्यामसुखं प्रास्रवद्बहु <ls>N. 24, 15.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Kummer, Herzeleid, Pein</i> <ls>H. 1370.</ls> असुखैश्च विना <ls>PAÑCAT. II, 191.</ls> असुखपीडितः <ls>N. 15, 13.</ls> इदमत्यसुखं प्राप्य <ls>R. 5, 15, 37.</ls> द्वेष्टा ह्यसुखमादत्ते <ls>MBH. 2, 1934.</ls> प्राप्नोति - प्रेत्येह च सुखासुखम् <ls>M. 12, 19.</ls> <ls>VOP. 5, 6.</ls> असुखावह <ls>MBH. 1, 4732.</ls> असुखोदय <ls>M. 4, 70.</ls> असुखोदर्क <ls n='M. 4,'>176.</ls> <ls n='M.'>11, 10.</ls> <ls n='M.'>12, 18.</ls>"
+        }
     ]
 }

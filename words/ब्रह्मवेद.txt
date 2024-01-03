@@ -23,5 +23,55 @@
             "pagenum": 512,
             "content": "brahman-veda¦ <i>m.</i> 1. knowledge of the Vedas; 2. knowledge of Brahman (n.)."
         }
+    ],
+    "MW": [
+        {
+            "word": "ब्रह्मवेद",
+            "eid": "147038",
+            "pagenum": 740,
+            "content": "ब्रह्म—वेद ¦ <lex>m.</lex> ‘the <s1 slp1='veda'>Veda</s1> of sacred spells or charms’ the <s1 slp1='aTarva'>Atharva</s1>-<s1 slp1='veda'>veda</s1>, <ls>AV.</ls>; <ls>Anukr.</ls>; <ls>ŚāṅkhGṛ.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "ब्रह्मवेद",
+            "eid": "147039",
+            "pagenum": 740,
+            "content": "¦ the <ab n='Veda' slp1='veda'>V°</ab> of the <ns>Brāhmans</ns> (as <ab>opp.</ab> to क्षत्र-वेद, <ab>q.v.</ab>), <ls>R.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ब्रह्मवेद",
+            "eid": "147040",
+            "pagenum": 740,
+            "content": "¦ knowledge of <s1 slp1='brahma'>Brahmă</s1>, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "ब्रह्मवेद",
+            "eid": "147041",
+            "pagenum": 740,
+            "content": "¦ <ab n='knowledge'>kn°</ab> of the <s1 slp1='veda'>Veda</s1>s, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "ब्रह्मवेद",
+            "eid": "9281",
+            "pagenum": 2,
+            "content": "<i>Brahmaveda</i>¦ — (Atharva) personified in the Vārunī <i>Yajña;</i><sup>1</sup> with cruel Kṛtyavidhi; with Pratyangarasayoga and with a head with two bodies.<sup>2</sup> <F>1) Br. III. 1. 26-30.</F> <F>2) Vā. 65. 27.</F>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ब्रह्मवेद",
+            "eid": "78076",
+            "pagenum": 4,
+            "content": "ब्रह्मवेद¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der</i> <is>Veda</is> <i>der Zaubersprüche, der</i> <is>Atharvaveda</is>. <div n='1'>— 2〉 <i>der</i> <is>Veda</is> <i>der Brahmanen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ब्रह्मवेद",
+            "eid": "53516",
+            "pagenum": 5,
+            "content": "ब्रह्मवेद¦ (ब्रह्मन् + वेद) <lex>m.</lex> <i>der</i> <is>Veda</is> <i>der Zaubersprüche. der</i> <is>Atharvaveda</is>, <ls>ANUKR.</ls> zu <ls>AV.</ls> Einl. <ls>ŚĀṄKH. GṚHY. 1, 16.</ls> <ls>Ind. St. 1, 296. 301.</ls> °परिशिष्ट <ls>Verz. d. B. H. No. 361. 364.</ls> <i>der</i> <is>Veda</is> <i>der Brahmanen</i> im Gegens. zu क्षत्रवेद <ls>R. 1, 65, 22.</ls>"
+        }
     ]
 }

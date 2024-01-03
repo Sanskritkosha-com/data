@@ -39,5 +39,37 @@
             "pagenum": 70,
             "content": "alu¦ <i>f.</i> A small water-pot."
         }
+    ],
+    "MW": [
+        {
+            "word": "अलु",
+            "eid": "16777",
+            "pagenum": 95,
+            "content": "अलु ¦ <lex>f.</lex> (= आलु, <ab>q.v.</ab>) a small water-pot, <ls>L.</ls><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अलु",
+            "eid": "6071",
+            "pagenum": 86,
+            "content": "अलु¦ <i>alu, us,</i> f. a small water-pot. See <i>ālu.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अलु",
+            "eid": "10051",
+            "pagenum": 1,
+            "content": "*अलु¦ <lex>f.</lex> = आलु <i>kleiner Wasserkrug</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अलु",
+            "eid": "6192",
+            "pagenum": 1,
+            "content": "अलु¦ <lex>f.</lex> = आलु <i>ein kleiner Wasserkrug</i> <ls>RAMĀN.</ls> zu <ls>AK. 2, 9, 31</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

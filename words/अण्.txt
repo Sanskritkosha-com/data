@@ -59,5 +59,63 @@
             "pagenum": 9,
             "content": "aR¦ <i>(II) vt. 4A (pp. अणित)</i> To breathe."
         }
+    ],
+    "MD": [
+        {
+            "word": "अण्",
+            "eid": "547",
+            "pagenum": 5,
+            "content": "अण्¦ <hom>1.</hom> aṇ, <i>grammatical designation of the 🞄vowels ā̆, ī̆, ū̆</i>."
+        },
+        {
+            "word": "अण्",
+            "eid": "548",
+            "pagenum": 5,
+            "content": "अण्¦ <hom>2.</hom> a-ṇ, <i>the taddhita suffix</i> -a (<ab>cp.</ab> ṇ-it)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अण्",
+            "eid": "2390",
+            "pagenum": 11,
+            "content": "अण् ¦ <ab>cl.</ab> 1. <ab>P.</ab> अणति, आण, अणितुम्, to sound, <ls>L.</ls> : <ab>cl.</ab> 4. <ab>Ā.</ab> अण्यते, to breathe, (another form of √ अन्, <ab>q.v.</ab>; in this sense regarded in the <s1 slp1='DAtu-pAWa'>Dhātu-pāṭha</s1> as a distinct root), <ls>L.</ls><info verb='genuineroot' cp='1P,4Ā'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अण्",
+            "eid": "573",
+            "pagenum": 11,
+            "content": "अण् 1¦. <i>aṇ,</i> cl. 1. P. <i>aṇati, āṇa, aṇitum,</i> to sound."
+        },
+        {
+            "word": "अण्",
+            "eid": "574",
+            "pagenum": 11,
+            "content": "अण् 2¦. <i>aṇ,</i> cl. 4. A. <i>aṇyate,</i> to breathe; another form of rt. <i>an,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अण्",
+            "eid": "1522",
+            "pagenum": 1,
+            "content": "*√अण्¦ अणति <i>tönen,</i> अण्यते <i>athmen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अण्",
+            "eid": "1136",
+            "pagenum": 1,
+            "content": "1. अण्¦, अ/णति <i>tönen</i> <ls>DHĀTUP. 13, 1.</ls>"
+        },
+        {
+            "word": "अण्",
+            "eid": "1137",
+            "pagenum": 1,
+            "content": "2. अण्¦, अ/ण्यते <i>athmen</i> <ls>DHĀTUP. 26, 66.</ls> <div n='v'>— Vgl. अन् ."
+        }
     ]
 }

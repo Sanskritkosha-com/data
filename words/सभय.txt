@@ -23,5 +23,43 @@
             "pagenum": 267,
             "content": "<b>sa-bhaya,</b>¦ <i><ab>a.</ab></i> fearful; <b>-am,</b> <i><ab>adv.</ab></i> in terror."
         }
+    ],
+    "MW": [
+        {
+            "word": "सभय",
+            "eid": "232870",
+            "pagenum": 1151,
+            "content": "स—भय ¦ <lex>mf(आ)n.</lex> fearful, apprehensive (अम् <lex type='phw'>ind.</lex>), <ls>Kāv.</ls>; <ls>Kathās.</ls> &c.<info phwchild='232871.1'/><info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "सभय",
+            "eid": "232871",
+            "pagenum": 1151,
+            "content": "¦ riskful, dangerous, <ls>Lalit.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सभय",
+            "eid": "49519",
+            "pagenum": 1065,
+            "content": "सभय¦ <i>sa-bhaya, as, ā, am,</i> fearful, apprehensive; (<i>am</i>), ind. with fear, timidly."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सभय",
+            "eid": "119715",
+            "pagenum": 7,
+            "content": "सभय¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <div n='1'>— 1〉 <i>von Angst —, von Furcht ergriffen, erschrocken, sich fürchtend vor</i> (im <ab>Comp.</ab> vorangehend). °म् <lex>Adv.</lex> <i>erschrocken</i> <ls n='Chr.'>300,3. 301,2</ls>. <div n='1'>— 2〉 <i>mit Angst —, mit Gefahren verbunden</i> <ls>LALIT. 259,8</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सभय",
+            "eid": "105169",
+            "pagenum": 7,
+            "content": "सभय¦ (2. स + भय) <lex>adj.</lex> (f. आ) <i>von Angst —, von Furcht ergriffen, erschrocken</i> <ls>KATHĀS. 10, 157.</ls> <ls n='KATHĀS.'>17, 67.</ls> <ls n='KATHĀS.'>22, 254.</ls> <ls>PAÑCAT. 45, 8.</ls> आत्मापराध° <i>sich fürchtend vor</i> <ls>KATHĀS. 18, 224.</ls> सभयम् adv. <ls>R. 1, 64, 4.</ls> <ls>KATHĀS. 26, 217.</ls> <ls>HIT. 18, 12.</ls> <ls n='HIT.'>39, 8.</ls>"
+        }
     ]
 }

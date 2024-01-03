@@ -15,5 +15,49 @@
             "pagenum": 512,
             "content": "boDAna¦ <i>m.</i> 1. An epithet of Bṛihaspati; 2. a learned man."
         }
+    ],
+    "MW": [
+        {
+            "word": "बोधान",
+            "eid": "145862",
+            "pagenum": 734,
+            "content": "बोधान ¦ <lex>mfn.</lex> prudent, clever, wise, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "बोधान",
+            "eid": "145863",
+            "pagenum": 734,
+            "content": "बोधान ¦ <lex>m.</lex> a wise man<info lex='m'/>"
+        },
+        {
+            "word": "बोधान",
+            "eid": "145864",
+            "pagenum": 734,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='bfhas-pati'>Bṛhas-pati</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "बोधान",
+            "eid": "34888",
+            "pagenum": 688,
+            "content": "<i>Bodhāna, as, ā, am,</i>¦ prudent, clever; (<i>as</i>), m. a prudent man; an epithet of Bṛhas-pati; [cf. <i>bu-</i> <i>dhāna.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बोधान",
+            "eid": "77721",
+            "pagenum": 4,
+            "content": "*बोधान¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>Subst.</ab> <i>klug, ein kluger Mann</i>. <div n='1'>— 2〉 <lex>m.</lex> <ab>Bein.</ab> <is>Bṛhaspati</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बोधान",
+            "eid": "53225",
+            "pagenum": 5,
+            "content": "बोधान¦ (von 1. बुध्) <lex>adj.</lex> subst. <i>klug, ein kluger Mann</i> (विज्ञ und बुधभेद); <lex>m.</lex> Bein. <is>Bṛhaspati's</is> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. बुधान ."
+        }
     ]
 }

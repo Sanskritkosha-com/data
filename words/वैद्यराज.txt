@@ -43,5 +43,41 @@
             "pagenum": 426,
             "content": "वैद्यराज¦ <i>m.</i> der Fürst der Ärzte <i>(Dhanvantari).</i> <lbinfo n='11'/>"
         }
+    ],
+    "MW": [
+        {
+            "word": "वैद्यराज",
+            "eid": "207128",
+            "pagenum": 1022,
+            "content": "वैद्य—राज ¦ <lex>m.</lex> ‘<ab>id.</ab>’, <ab>N.</ab> of <s1 slp1='Danvantari'>Dhanvantari</s1>, <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वैद्यराज",
+            "eid": "207129",
+            "pagenum": 1022,
+            "content": "¦ of the father of <s1 slp1='SArNga-Dara'>Śārṅga-dhara</s1>, <ls>Cat.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "वैद्यराज",
+            "eid": "207130",
+            "pagenum": 1022,
+            "content": "¦ of an author, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैद्यराज",
+            "eid": "107716",
+            "pagenum": 6,
+            "content": "वैद्यराज¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Bez.</ab> <is>Dhanvantari</is>ʼs. <div n='1'>— 2〉 <ab>N. pr.</ab> des Vaters von <is>Śārṅgadhara</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैद्यराज",
+            "eid": "95769",
+            "pagenum": 6,
+            "content": "वैद्यराज¦ <lex>m.</lex> <div n='1'> 1) Bez. <is>Dhanvantari's</is> <ls>R. GORR. 1, 46, 30.</ls> <div n='1'>— 2) N. pr. des Vaters von <is>Śārṅgadhara</is> <ls>Verz. d. Oxf. H. 318,b, No. 755.</ls>"
+        }
     ]
 }

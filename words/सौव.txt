@@ -45,5 +45,63 @@
             "pagenum": 800,
             "content": "sOva¦ <i>(II) n.</i> An order, an edict."
         }
+    ],
+    "MD": [
+        {
+            "word": "सौव",
+            "eid": "19807",
+            "pagenum": 361,
+            "content": "सौव¦ sauvá, <lex>a.</lex> (<ab>YV.</ab>) celestial [svar]."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सौव",
+            "eid": "253928",
+            "pagenum": 1255,
+            "content": "<hom>1.</hom> सौव ¦ <lex>mfn.</lex> (<ab>fr.</ab> स्व) relating to self or to one's own property, <ls>Vop.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सौव",
+            "eid": "253929",
+            "pagenum": 1255,
+            "content": "सौव ¦ <lex>n.</lex> an order, edict, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "सौव",
+            "eid": "253932",
+            "pagenum": 1255,
+            "content": "<hom>2.</hom> सौव/ ¦ <lex>mfn.</lex> (<ab>fr.</ab> स्वर्) heavenly, celestial, <ls>VS.</ls>; <ls>TS.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सौव",
+            "eid": "52913",
+            "pagenum": 1140,
+            "content": "सौव 1¦. <i>sauva, as, ī, am</i> (fr. <i>sva</i>), relating to self or to one's own property; (<i>am</i>), n. an order, edict (according to some)."
+        },
+        {
+            "word": "सौव",
+            "eid": "52915",
+            "pagenum": 1140,
+            "content": "सौव 2¦. <i>sauva, as, ī, am</i> (fr. 2. <i>svar</i>), belonging to heaven, being in heaven."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सौव",
+            "eid": "130139",
+            "pagenum": 7,
+            "content": "सौव/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>himmlisch</i>. <div n='1'>— 2〉 *<lex>n.</lex> <i>Verordnung, Befehl</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सौव",
+            "eid": "113342",
+            "pagenum": 7,
+            "content": "सौव/¦ <lex>adj.</lex> von स्व und स्वर् <ls>VOP. 7, 4. 18.</ls> <div n='1'> 1) <lex>adj.</lex> (von स्वर्) <i>himmlisch</i> <ls>VS. 13, 57.</ls> <ls>TS. 4, 3, 2, 2.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Verordnung, Befehl</i> <ls>ŚABDAR.</ls> bei <ls>WILSON.</ls>"
+        }
     ]
 }

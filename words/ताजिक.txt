@@ -59,5 +59,57 @@
             "pagenum": 332,
             "content": "<i>Tājika Tajjika</i>¦ (EI 23, 32), <i>Tājiya, Tāyika;</i> an Arab."
         }
+    ],
+    "MD": [
+        {
+            "word": "ताजिक",
+            "eid": "8487",
+            "pagenum": 108,
+            "content": "ताजिक¦ tājika, <lex>m.</lex> Persian."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ताजिक",
+            "eid": "83695",
+            "pagenum": 441,
+            "content": "ताजिक ¦ <lex>m.</lex> a Persian <ab>pl.</ab> the Persians (<ab>cf.</ab> तर्ज्° and तायिक), <ls>Kathās. xxxvii, 36</ls>; <ls>Romakas.</ls> (also °जीक)<info lex='m'/>"
+        },
+        {
+            "word": "ताजिक",
+            "eid": "83695.1",
+            "pagenum": 1328,
+            "content": "¦ Arab, <ls>Inscr.</ls><info n='sup'/>"
+        },
+        {
+            "word": "ताजिक",
+            "eid": "83696",
+            "pagenum": 441,
+            "content": "ताजिक ¦ <lex>n.</lex> = °जक (<ab>e.g.</ab> -ज्योतिर्-मणि, -praSnA<srs/>DyAya, -शास्त्र, °kA<srs/>larMkAra). <info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ताजिक",
+            "eid": "20674",
+            "pagenum": 368,
+            "content": "ताजिक¦ <i>tājika</i> or <i>tājīka,</i> N. of a district; also <i>= tājaka,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ताजिक",
+            "eid": "45103",
+            "pagenum": 3,
+            "content": "ताजिक¦ <div n='1'>— 1〉 <lex>m.</lex> <i>ein Perser</i>. <div n='1'>— 2〉 <lex>n.</lex> = ताजक. °ज्योतिर्मणि <lex>m.</lex>, °प्रश्नाध्याय <lex>m.</lex>, °शास्त्र <lex>n.</lex> und ताजिकालंकार <lex>m.</lex> Titel <ab>bes.</ab> Werke."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ताजिक",
+            "eid": "29138",
+            "pagenum": 3,
+            "content": "ताजिक¦ s. u. ताजक ."
+        }
     ]
 }

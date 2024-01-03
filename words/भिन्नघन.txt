@@ -7,5 +7,29 @@
             "pagenum": 528,
             "content": "Binna-Gana¦ <i>m.</i> the cube of a fraction."
         }
+    ],
+    "MW": [
+        {
+            "word": "भिन्नघन",
+            "eid": "150819",
+            "pagenum": 757,
+            "content": "भिन्न—घन ¦ <lex>m.</lex> the cube of a fraction, <ls>ib.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "भिन्नघन",
+            "eid": "79834",
+            "pagenum": 4,
+            "content": "भिन्नघन¦ <lex>m.</lex> <i>der Cubus eines Bruches</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भिन्नघन",
+            "eid": "54890",
+            "pagenum": 5,
+            "content": "भिन्नघन¦ (भिन्न + घन) <lex>m.</lex> <i>der Cubus eines Bruchs</i> <ls>COLEBR. Alg. 18.</ls>"
+        }
     ]
 }

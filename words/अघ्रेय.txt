@@ -15,5 +15,45 @@
             "pagenum": 5,
             "content": "अघ्रेय¦ <lex>a.</lex> not to be smelled at."
         }
+    ],
+    "MD": [
+        {
+            "word": "अघ्रेय",
+            "eid": "339",
+            "pagenum": 3,
+            "content": "अघ्रेय¦ a-ghreya, <ab>fp.</ab> not to be smelt."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अघ्रेय",
+            "eid": "1407",
+            "pagenum": 7,
+            "content": "अ-घ्रेय ¦ <lex>mfn.</lex> (√ घ्र), improper to be smelled at, <ls>Mn.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अघ्रेय",
+            "eid": "290",
+            "pagenum": 6,
+            "content": "अघ्रेय¦ <i>a-ghreya, as, ā, am</i> (fr. rt. <i>ghrā</i>), improper to be smelled at."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अघ्रेय",
+            "eid": "866",
+            "pagenum": 1,
+            "content": "अघ्रेय¦ <lex>Adj.</lex> <i>woran man nicht riechen darf</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अघ्रेय",
+            "eid": "623",
+            "pagenum": 1,
+            "content": "अघ्रेय¦ (3. अ + घ्रेय von घ्रा) <lex>adj.</lex> <i>woran man nicht riechen dürfte</i>: घ्रातिरघ्रेयमद्ययोः <ls>M. 11, 67.</ls>"
+        }
     ]
 }

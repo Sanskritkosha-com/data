@@ -39,5 +39,35 @@
             "pagenum": 30,
             "content": "अल्पता¦ <i>f.</i>, °त्व <i>n.</i> Kleinheit, Geringheit."
         }
+    ],
+    "MW": [
+        {
+            "word": "अल्पता",
+            "eid": "16840",
+            "pagenum": 95,
+            "content": "अल्प—ता, <lex>f.</lex> or अल्प—त्व, <lex>n.</lex> ¦ smallness, minuteness<info or='16840,alpatA;16842,alpatva'/><info lex='f'/>"
+        },
+        {
+            "word": "अल्पता",
+            "eid": "16841",
+            "pagenum": 95,
+            "content": "¦ insignificance.<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अल्पता",
+            "eid": "10091",
+            "pagenum": 1,
+            "content": "अल्पता <lex>f.</lex> und अल्पत्व <lex>n.</lex> (<ls n='Chr.'>215,22</ls>)¦ <i>Geringheit, Geringfügigkeit; Kürze</i> (eines Tages) <ls>Spr. 5567</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अल्पता",
+            "eid": "6212",
+            "pagenum": 1,
+            "content": "अल्पता¦ (von अल्प) <lex>f.</lex> <i>Geringheit, Geringfügigkeit</i> <ls>SUŚR. 1, 75</ls>, ult. <ls n='SUŚR. 1,'>76, 3.</ls> <ls>MṚCCH. 114, 4.</ls> <ls>PAÑCAT. II, 169.</ls> <ls>HIT. III, 12.</ls>"
+        }
     ]
 }

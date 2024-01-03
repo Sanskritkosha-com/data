@@ -65,5 +65,81 @@
             "pagenum": 698,
             "content": "vyay¦ <i>(III) vt. 10U (pres. व्याययति-ते)</i> To drive."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्यय्",
+            "eid": "208870",
+            "pagenum": 1032,
+            "content": "<hom>1.</hom> व्यय् ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> व्ययति, °ते (rather <ab>Nom.</ab> <ab>fr.</ab> व्यय below), to expend, spend, waste, <ls>Bhaṭṭ.</ls>; <ls>Hit.</ls>; <ls>Subh.</ls>; <div n='vp'/> <ab>cl.</ab> 10. <ab>P.</ab> व्यययति <ab>id.</ab>, <ls>Dhātup. xxxv, 78</ls>; <div n='to'/>to go, move, <ls>ib.</ls><info westergaard='vyaya,35.78,10.0317'/><info whitneyroots='vyay,167'/><info verb='root' cp='1P,1Ā,10P'/>"
+        },
+        {
+            "word": "व्यय्",
+            "eid": "208913",
+            "pagenum": 1032,
+            "content": "<hom>2.</hom> व्यय् ¦ (<ab>v.l.</ab> for व्यप्) <ab>cl.</ab> 10. <ab>P.</ab> व्याययति, to throw, <ls>Dhātup. xxxii, 95.</ls><info westergaard='vyapa,32.95,10.xxxx'/><info verb='root' cp='10P'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "व्यय्",
+            "eid": "45429",
+            "pagenum": 975,
+            "content": "व्यय्¦ <i>vyay</i> (probably formed fr. rt. <i>ay</i> for 5. <i>i</i> with <i>vi</i>), cl. 1. P. A. <i>vyayati, -te, vavyā-</i> <i>ya, vavyaye, vyayitum,</i> and cl. 10. P. <i>vyayayati,</i> <i>yitum,</i> to go, move; to expend, disburse, spend; to waste, give away or squander money, &c., (in these senses probably a Nom. fr. <i>vyaya</i> below); cl. 10. P. <i>vyāyayati</i> or <i>vyāpayati, vepayati</i> (rather to be referred to rts. <i>vyap,</i> 1. <i>vip</i>), <i>-yitum,</i> to throw, cast."
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्यय्",
+            "eid": "108390",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> √व्यय्¦, व्ययति, °ते <i>verausgaben, verthun, verschleudern</i>. व्ययित <ls>Ind. St. 15,286</ls>. <div n='m'>— *<ab>Caus.</ab> व्यययति (वित्तसमुत्सर्गे, त्यागे, गतौ)."
+        },
+        {
+            "word": "व्यय्",
+            "eid": "108391",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> √व्यय्¦, व्ययति <ab>s. u.</ab> <hom>1.</hom> व्या."
+        },
+        {
+            "word": "व्यय्",
+            "eid": "108392",
+            "pagenum": 6,
+            "content": "<hom>3.</hom> √व्यय्¦, व्ययति (गतौ)."
+        },
+        {
+            "word": "व्यय्",
+            "eid": "108393",
+            "pagenum": 6,
+            "content": "<hom>4.</hom> √व्यय्¦, व्याययति (क्षेपे, प्रेरणे)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्यय्",
+            "eid": "96332",
+            "pagenum": 6,
+            "content": "1. व्यय्¦ (von व्यय), व्ययति und °ते <i>verausgaben, verthun, verschleudern</i>: कोशांस्त्वमव्ययीः <ls>BHAṬṬ. 15, 17.</ls> वारि व्ययति वारिदे <ls>Spr. (II) 3936.</ls> क्षुद्रमायमनालोच्य व्ययमानः स्ववाञ्छया <ls n='Spr. (II)'>2020.</ls> तदवशिष्टं च भोजनव्ययेन व्ययितम् <ls>HIT. 98, 17.</ls> मांसम् <ls n='HIT.'>60, 10.</ls> — व्यययति dass. (वित्तसमुत्संर्गे) <ls>DHĀTUP. 35, 78.</ls> गतौ und त्यागे <ls>KAVIKALPADRUMA</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "व्यय्",
+            "eid": "96333",
+            "pagenum": 6,
+            "content": "2. व्यय्¦, व्ययति, °ते (गतौ) <ls>DHĀTUP. 21, 17.</ls>"
+        },
+        {
+            "word": "व्यय्",
+            "eid": "96334",
+            "pagenum": 6,
+            "content": "3. व्यय्¦, व्याययति (क्षेपे) <ls>DHĀTUP. 32, 95, v. l.</ls> für व्यप्. नुदि (= प्रेरणे) <ls>KAVIKALPADRUMA</ls> im <ls>ŚKDR.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "व्यय्",
+            "eid": "21352",
+            "pagenum": 7,
+            "content": "<hom>3.</hom> und <hom>4.</hom> व्यय्¦ mit *zu versehen."
+        }
     ]
 }

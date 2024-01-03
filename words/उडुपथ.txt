@@ -20,5 +20,29 @@
             "pagenum": 123,
             "content": "uqu-paTa¦ <i>m.</i> the sky, the firmament."
         }
+    ],
+    "MW": [
+        {
+            "word": "उडुपथ",
+            "eid": "30640",
+            "pagenum": 175,
+            "content": "उडु—पथ ¦ <lex>m.</lex> ‘the path of the stars’, the ether, firmament.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उडुपथ",
+            "eid": "17921",
+            "pagenum": 1,
+            "content": "*उडुपथ¦ <lex>m.</lex> <i>Luftraum</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उडुपथ",
+            "eid": "10763",
+            "pagenum": 1,
+            "content": "उडुपथ¦ (उडु 1. + पथ) <lex>m.</lex> (<i>der Pfad der Sterne) Luft, Aether</i> <ls>H. 163.</ls>"
+        }
     ]
 }

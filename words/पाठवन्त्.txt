@@ -23,5 +23,21 @@
             "pagenum": 248,
             "content": "पाठवन्त्¦ belesen, gelehrt."
         }
+    ],
+    "PW": [
+        {
+            "word": "पाठवन्त्",
+            "eid": "65537",
+            "pagenum": 4,
+            "content": "पाठवन्त्¦ <lex>Adj.</lex> <i>studirt, gelehrt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पाठवन्त्",
+            "eid": "44101",
+            "pagenum": 4,
+            "content": "पाठवन्त्¦ (von पाठ) <lex>adj.</lex> <i>studirt, gelehrt</i> <ls>VARĀH. BṚH. S. 42 (43), 9.</ls>"
+        }
     ]
 }

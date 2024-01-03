@@ -23,5 +23,35 @@
             "pagenum": 318,
             "content": "tri-Buja¦ <i>n.</i> a triangle."
         }
+    ],
+    "MW": [
+        {
+            "word": "त्रिभुज",
+            "eid": "88080",
+            "pagenum": 459,
+            "content": "त्रि—भुज ¦ <lex>mfn.</lex> triangular<info lex='m:f:n'/>"
+        },
+        {
+            "word": "त्रिभुज",
+            "eid": "88081",
+            "pagenum": 459,
+            "content": "त्रि—भुज ¦ <lex>m.</lex> a triangle, <ls>Āryabh. ii, 11.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "त्रिभुज",
+            "eid": "47650",
+            "pagenum": 3,
+            "content": "त्रिभुज¦ <lex>Adj.</lex> <i>dreiarmig, dreiseitig;</i> <lex>m.</lex> <i>Dreieck</i> <ls>ĀRYABH. 2,11</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "त्रिभुज",
+            "eid": "31065",
+            "pagenum": 3,
+            "content": "त्रिभुज¦ (त्रि + भुज) <lex>adj.</lex> <i>dreiarmig; dreiseitig</i> <ls>COLEBR. Alg. 58.</ls>"
+        }
     ]
 }

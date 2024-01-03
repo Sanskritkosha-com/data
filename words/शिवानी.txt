@@ -15,5 +15,43 @@
             "pagenum": 720,
             "content": "SivAnI¦ <i>f.</i> Pārvatī, wife of Śiva."
         }
+    ],
+    "MW": [
+        {
+            "word": "शिवानी",
+            "eid": "217961",
+            "pagenum": 1076,
+            "content": "शिवानी ¦ <lex>f.</lex> the wife of <s1 slp1='Siva'>Śiva</s1> (= <s1 slp1='durgA'>Durgā</s1>, <s1 slp1='pArvati'>Pārvati</s1> &c.), <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "शिवानी",
+            "eid": "217962",
+            "pagenum": 1076,
+            "content": "¦ the plant <bot>Sesbania Aegyptiaca</bot> (or <ab>accord.</ab> to others <bot>Celtis Orientalis</bot>), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शिवानी",
+            "eid": "46745",
+            "pagenum": 1009,
+            "content": "<i>Śivānī,</i>¦ f. the wife of Śiva (i. e. Durgā); the plant Sesbana Ægyptiaca (<i>= jayantī;</i> or, according to others, Celtis Orientalis)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शिवानी",
+            "eid": "112726",
+            "pagenum": 6,
+            "content": "*शिवानी¦ <lex>f.</lex> <div n='1'>— 1〉 <is>Śiva</is>ʼs <i>Gattin</i>. <div n='1'>— 2〉 <i><bot>Sesbania aegyptiaca</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शिवानी",
+            "eid": "99735",
+            "pagenum": 7,
+            "content": "शिवानी¦ (von शिव) <lex>f.</lex> <div n='1'> 1) <is>Śiva's</is> <i>Gattin</i> <ls>ŚKDR.</ls> und <ls>WILSON.</ls> <div n='1'>— 2) <i>Sesbania aegyptiaca Pers.</i> (जयन्ती) <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -15,5 +15,67 @@
             "pagenum": 221,
             "content": "kzipti¦ <i>f.</i> 1. Throwing, sending; 2. solving a riddle, explaining a hidden meaning."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षिप्ति",
+            "eid": "59538",
+            "pagenum": 329,
+            "content": "क्षिप्ति ¦ <lex>f.</lex> sending, throwing, <ls>W.</ls><info lex='f'/>"
+        },
+        {
+            "word": "क्षिप्ति",
+            "eid": "59539",
+            "pagenum": 329,
+            "content": "¦ solving a riddle, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्षिप्ति",
+            "eid": "59540",
+            "pagenum": 329,
+            "content": "¦ explaining or understanding a hidden meaning, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्षिप्ति",
+            "eid": "59541",
+            "pagenum": 329,
+            "content": "¦ (in <ab>dram.</ab>) the becoming known or exposure of a secret, <ls>Sāh. 373</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्षिप्ति",
+            "eid": "59542",
+            "pagenum": 329,
+            "content": "¦ (in <ab>alg.</ab>) = क्षिप्तिका.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "क्षिप्ति",
+            "eid": "16472",
+            "pagenum": 267,
+            "content": "<i>Kṣipti, is,</i>¦ f. throwing; sending; solving a riddle; explaining or understanding a hidden meaning; the quantity to be added to the square of the least root multiplied by the multiplicator, to render it capable of yielding an exact square root; (in the latter sense also <i>kṣiptikā.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षिप्ति",
+            "eid": "32552",
+            "pagenum": 2,
+            "content": "क्षिप्ति¦ <lex>f.</lex> <div n='1'>— 1〉 in der Dramatik <i>das Zutagekommen eines Geheimnisses</i>. <div n='1'>— 2〉 <i>he quantity to be added to the square of the least root multiplied by the multiplicator, to render it capable of yielding an exact square-root</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षिप्ति",
+            "eid": "20330",
+            "pagenum": 2,
+            "content": "क्षिप्ति¦ (von 1. क्षिप्) <lex>f.</lex> <i>the quantity to be added to the square of the least root multiplied by the multiplicator, to render it capable of yielding an exact square-root</i> <ls>COLEBR. Alg. 363.</ls> Auch क्षिप्तिका ebend."
+        },
+        {
+            "word": "क्षिप्ति",
+            "eid": "72076",
+            "pagenum": 5,
+            "content": "क्षिप्ति¦ in der Dramatik <i>das Zutagekommen eines Geheimnisses</i>: रहस्यार्थस्य तूद्भेदः क्षिप्तिः स्यात् <ls>SĀH. D. 373.</ls>"
+        }
     ]
 }

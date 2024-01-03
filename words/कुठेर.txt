@@ -7,5 +7,43 @@
             "pagenum": 408,
             "content": "कुठेरः¦ Fire."
         }
+    ],
+    "MW": [
+        {
+            "word": "कुठेर",
+            "eid": "51740",
+            "pagenum": 289,
+            "content": "कुठेर ¦ <lex>m.</lex> the plant <bot>Ocimum pilosum</bot>, <ls>Car.</ls>; <ls>Bhpr.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कुठेर",
+            "eid": "51741",
+            "pagenum": 289,
+            "content": "¦ fire, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कुठेर",
+            "eid": "15018",
+            "pagenum": 234,
+            "content": "कुठेर¦ <i>kuṭhera, as,</i> m. fire; a kind of Basilicum. <i>—Kuṭhera-ja, as,</i> m. a white kind of Basilicum, Ocimum Gratissimum."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुठेर",
+            "eid": "28377",
+            "pagenum": 2,
+            "content": "कुठेर¦ <lex>m.</lex> <div n='1'>— 1〉 <i><bot>Ocimum pilosum</bot></i> <ls>RĀJAN. 10,160</ls>. <ls>BHĀVAPR. 5,118</ls>. <ls>CARAKA. 2,2</ls>. <div n='1'>— 2〉 *<i>Feuer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुठेर",
+            "eid": "17583",
+            "pagenum": 2,
+            "content": "कुठेर¦ <lex>m.</lex> <div n='1'> 1) <i>Feuer</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <i>eine Art Basilicum</i>, = तुलसी <ls>UṆĀDIK.</ls> = अर्जक <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>R. 3, 17, 10.</ls>"
+        }
     ]
 }

@@ -36,5 +36,35 @@
             "pagenum": 230,
             "content": "पञ्चशाख¦ fünffingerig <i>(eig. -ästig); m.</i> Hand."
         }
+    ],
+    "MW": [
+        {
+            "word": "पञ्चशाख",
+            "eid": "113949",
+            "pagenum": 577,
+            "content": "पञ्च—शाख ¦ <lex>mfn.</lex> 5-branched, 5-fingered, <ls>R.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पञ्चशाख",
+            "eid": "113950",
+            "pagenum": 577,
+            "content": "पञ्च—शाख ¦ <lex>m.</lex> the hand, <ls>Dhūrtan.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पञ्चशाख",
+            "eid": "62074",
+            "pagenum": 4,
+            "content": "पञ्चशाख¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>fünffingerig</i> <ls>R. 6,36,32</ls>. <div n='1'>— 2〉 <lex>m.</lex> <i>Hand</i> <ls>DHŪRTAN.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पञ्चशाख",
+            "eid": "41521",
+            "pagenum": 4,
+            "content": "पञ्चशाख¦ (पञ्चन् + शाखा) <lex>m.</lex> <i>Hand</i>, <lang n='greek'>πέντοζον</lang> <ls>AK. 2, 6, 2, 32.</ls> <ls>H. 591.</ls> <ls>HALĀY. 2, 356.</ls>"
+        }
     ]
 }

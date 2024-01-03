@@ -15,5 +15,41 @@
             "pagenum": 368,
             "content": "रोगघ्न¦ Krankheit vertreibend."
         }
+    ],
+    "MW": [
+        {
+            "word": "रोगघ्न",
+            "eid": "179657",
+            "pagenum": 888,
+            "content": "रोग—घ्न ¦ <lex>mfn.</lex> removing disease, <ls>Śiś.</ls>; <ls>Suśr.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "रोगघ्न",
+            "eid": "179658",
+            "pagenum": 888,
+            "content": "रोग—घ्न ¦ <lex>n.</lex> medicine, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "रोगघ्न",
+            "eid": "179659",
+            "pagenum": 888,
+            "content": "रोग—घ्न ¦ <lex>n.</lex> (<lex type='hwalt'>f(ई). </lex> See -हन्). <info lex='f#I:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रोगघ्न",
+            "eid": "94903",
+            "pagenum": 5,
+            "content": "रोगघ्न¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>Krankheit vertreibend</i> <ls>ŚIŚ. 19,89</ls>. <div n='1'>— 2〉 *<lex>n.</lex> <i>Arzenei</i>. — °घ्नी <ab>s. u.</ab> रोगहन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रोगघ्न",
+            "eid": "85318",
+            "pagenum": 6,
+            "content": "रोगघ्न¦ <lex>adj.</lex> (f. ई) <i>Krankheit vertreibend</i> <ls>SUŚR. 1, 167, 7.</ls> <lex>n.</lex> <i>Arzenei</i> <ls>ŚKDR.</ls> nach dem <ls>VAIDYAKA.</ls>"
+        }
     ]
 }

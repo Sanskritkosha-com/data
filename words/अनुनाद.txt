@@ -39,5 +39,51 @@
             "pagenum": 23,
             "content": "anunAda¦ <i>m.</i> 1. Echo; 2. consequent sound."
         }
+    ],
+    "MD": [
+        {
+            "word": "अनुनाद",
+            "eid": "1669",
+            "pagenum": 16,
+            "content": "अनुनाद¦ anu-nāda, <lex>m.</lex> echo; sound; <b>-nādin,</b> 🞄<lex>a.</lex> echoing; <b>-nāyaka,</b> <lex>a.</lex> (<b>ikā</b>) reconciling; 🞄<b>-nāyana,</b> <lex>a.</lex> reconciling; <b>-nāyikā,</b> <lex>f.</lex> secondary 🞄heroine; <b>-nāsika,</b> <lex>a.</lex> nasal; <lex>m.</lex> nasalised 🞄vowel: <b>-bhāva,</b> <lex>m.</lex> nasality."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अनुनाद",
+            "eid": "6515",
+            "pagenum": 33,
+            "content": "अनु-नाद ¦ <lex>m.</lex> sound, vibration, <ls>Śiś.</ls><info lex='m'/>"
+        },
+        {
+            "word": "अनुनाद",
+            "eid": "6516",
+            "pagenum": 33,
+            "content": "¦ reverberation, echo.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुनाद",
+            "eid": "2209",
+            "pagenum": 34,
+            "content": "<i>Anu-nāda, as,</i>¦ m. sound, vibration, reverberation, echo."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुनाद",
+            "eid": "4487",
+            "pagenum": 1,
+            "content": "अनुनाद¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Nachklang</i>. <div n='1'>— 2〉 <i>Klang</i> <ls>ŚIŚ. 7,18</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुनाद",
+            "eid": "2819",
+            "pagenum": 1,
+            "content": "अनुनाद¦ (von नद् mit अनु) <lex>m.</lex> <i>Nachklang</i> <ls>ṚV. PRĀT. 14, 6</ls> (s. u. अनाद). <ls>SĀH. D. 56, 8.</ls>"
+        }
     ]
 }

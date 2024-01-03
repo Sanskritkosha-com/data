@@ -20,5 +20,35 @@
             "pagenum": 1,
             "content": "मधुकण्ठ¦ poet. Skm."
         }
+    ],
+    "MW": [
+        {
+            "word": "मधुकण्ठ",
+            "eid": "155793",
+            "pagenum": 779,
+            "content": "मधु—कण्ठ ¦ <lex>m.</lex> the Indian cuckoo (= कोकिल), <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "मधुकण्ठ",
+            "eid": "155794",
+            "pagenum": 779,
+            "content": "¦ <ab>N.</ab> of a poet, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मधुकण्ठ",
+            "eid": "82322",
+            "pagenum": 5,
+            "content": "*मधुकण्ठ¦ <lex>m.</lex> <i>der indische Kuckuck</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मधुकण्ठ",
+            "eid": "56890",
+            "pagenum": 5,
+            "content": "मधुकण्ठ¦ (मधु + क°) <lex>m.</lex> <i>der indische Kuckuck</i> (कोकिल) <ls>TRIK. 2, 5, 19.</ls> <ls>H. ś. 189.</ls> <ls>HĀR. 88.</ls>"
+        }
     ]
 }

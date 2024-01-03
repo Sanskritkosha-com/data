@@ -29,5 +29,35 @@
             "pagenum": 123,
             "content": "uqUpa¦ <i>(II) m.</i> the moon."
         }
+    ],
+    "MW": [
+        {
+            "word": "उडूप",
+            "eid": "30642",
+            "pagenum": 175,
+            "content": "उडू-प ¦ <lex>mn.</lex> a raft, float<info lex='m:n'/>"
+        },
+        {
+            "word": "उडूप",
+            "eid": "30643",
+            "pagenum": 175,
+            "content": "उडू-प ¦ <lex>m.</lex> the moon, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "उडूप",
+            "eid": "17927",
+            "pagenum": 1,
+            "content": "*उडूप¦ = उडुप."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उडूप",
+            "eid": "10767",
+            "pagenum": 1,
+            "content": "उडूप¦ = उडुप <ls>DVIRŪPAK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

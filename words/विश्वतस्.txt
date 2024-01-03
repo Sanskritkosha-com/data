@@ -61,5 +61,49 @@
             "pagenum": 679,
             "content": "viSva-tas¦ <i>ind.</i> every where, all around."
         }
+    ],
+    "MW": [
+        {
+            "word": "विश्वतस्",
+            "eid": "201089",
+            "pagenum": 993,
+            "content": "विश्व—तस् <hom>a</hom> ¦ &c. See <ab>p.</ab> 994."
+        },
+        {
+            "word": "विश्वतस्",
+            "eid": "201505",
+            "pagenum": 994,
+            "content": "विश्व/-तस् <hom>b</hom> ¦ <lex>ind.</lex> from or on all sides, everywhere, all around, universally, <ls>RV.</ls> &c. &c. (°तो भयात्, ‘from all danger’, <ls>BhP.</ls>)<info lex='ind'/>"
+        },
+        {
+            "word": "विश्वतस्",
+            "eid": "201505.1",
+            "pagenum": 994,
+            "content": "¦ = <ab>abl.</ab> of विश्व <lex type='nhw'>n.</lex> the universe, <ls>TĀr.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विश्वतस्",
+            "eid": "44215",
+            "pagenum": 945,
+            "content": "<i>Viśva-tas,</i>¦ ind. everywhere, all around, universally. <i>—Viśvataś-cakṣus, us, us, us,</i> Ved. having eyes on every side, (Ṛg-veda VIII. 81, 3.) <i>—Viś-</i> <i>vatas-pād, t,</i> m., Ved. having feet on every side; epithet of Viśva-karman. <i>—Viśvato-dāvan, ā,</i> &c., Ved. granting from all sides. <i>—Viśvato-dhī, īs,</i> m., Ved. supporter of the universe, (Sāy. <i>= sarva-jagato</i> <i>dhāraka.</i>) <i>—Viśvato-bāhu, us, us, u,</i> Ved. having arms on every side. <i>—Viśvato-mukha, as, ī, am,</i> having a face on every side, facing all sides."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विश्वतस्",
+            "eid": "104807",
+            "pagenum": 6,
+            "content": "विश्व/तस्¦ <lex>Adv.</lex> <div n='1'>— 1〉 <i>von —, an allen Seiten, allenthalben</i>. विश्वतो भयात् so <ab>v. a.</ab> <i>vor aller Gefahr</i>. <div n='1'>— 2〉 = <ab>Abl.</ab> von विश्व <i>das Weltall</i> <ls>TAITT. ĀR. 10,11,1</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विश्वतस्",
+            "eid": "93449",
+            "pagenum": 6,
+            "content": "विश्व/तस्¦ (von विश्व) adv. <i>von —, an allen Seiten, allenthalben</i> Comm. zu <ls>AK. 3, 5, 13</ls> nach <ls>ŚKDR.</ls> <ls>ṚV. 1, 31, 5.</ls> <ls n='ṚV. 1,'>122, 6.</ls> अभ^यं कृणुहि वि\\श्वतो^ नः <ls n='ṚV.'>3, 47, 2.</ls> तप^ वि\\श्वत^ः शो\\चिषा^ <ls n='ṚV.'>6, 22, 8.</ls> <ls n='ṚV.'>7, 12, 1.</ls> <ls n='ṚV. 7,'>83, 8.</ls> परि^ वां भूतु वि\\श्वत^ इ\\यं म\\तिः <ls n='ṚV. 7,'>104, 6.</ls> <ls n='ṚV.'>2, 43, 2.</ls> <ls n='ṚV.'>6, 19, 9.</ls> गि\\रिर्न वि\\श्वत^स्पृ\\थुः <ls n='ṚV.'>8, 87, 4.</ls> <ls n='ṚV.'>2, 1, 12.</ls> <ls>AV. 7, 50, 2.</ls> <ls>VS. 12, 10.</ls> <ls n='VS.'>16, 11.</ls> <ls>KAUŚ. 47. 68.</ls> विश्वतो ऽस्थिमये जाते - क्षितिमण्डले <ls>RĀJA-TAR. 5, 272.</ls> विश्वतो भयात् <i>vor aller Gefahr</i> <ls>BHĀG. P. 10, 31, 3.</ls>"
+        }
     ]
 }

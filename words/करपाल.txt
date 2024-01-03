@@ -31,5 +31,41 @@
             "pagenum": 168,
             "content": "kara-pAla¦ <i>m.</i> 1. sword; 2. a cudgel."
         }
+    ],
+    "MW": [
+        {
+            "word": "करपाल",
+            "eid": "44114",
+            "pagenum": 253,
+            "content": "<hom>1.</hom> कर—पाल ¦ (<hom>1.</hom> कर-पाल; for <hom>2.</hom> See <pcol>p. 254, col. 3</pcol>) <lex>m.</lex> ‘hand-protecting’, a sword, scymitar, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "करपाल",
+            "eid": "44375",
+            "pagenum": 254,
+            "content": "<hom>2.</hom> कर—पाल ¦ (<hom>2.</hom> करपाल; for <hom>1.</hom> See <pcol>p. 253, col. 2</pcol>) <lex>m.</lex> chief tax-gatherer, <ls>Pañcat.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "करपाल",
+            "eid": "24629",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> *करपाल¦ <lex>m.</lex> <i>Schwert</i>."
+        },
+        {
+            "word": "करपाल",
+            "eid": "24630",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> करपाल¦ <lex>m.</lex> <i>Obersteuerempfänger</i> <ls>PAÑCAT. ed. Bomb. 3,59,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "करपाल",
+            "eid": "15138",
+            "pagenum": 2,
+            "content": "करपाल¦ (कर <i>Hand</i> + पाल <i>beschützend</i>) <lex>m.</lex> <i>Schwert</i> <ls>AK. 2, 8, 2, 57.</ls> <ls>H. ś. 144.</ls> <div n='v'>— Vgl. करबाल ."
+        }
     ]
 }

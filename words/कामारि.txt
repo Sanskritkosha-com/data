@@ -63,5 +63,41 @@
             "pagenum": 180,
             "content": "kAma-ari¦ <i>m.</i> an epithet of Śiva."
         }
+    ],
+    "MW": [
+        {
+            "word": "कामारि",
+            "eid": "48255",
+            "pagenum": 273,
+            "content": "kAmA<srs/>ri ¦ <lex>m.</lex> ‘love's adversary’, <ab>N.</ab> of <s1 slp1='Siva'>Śiva</s1>, <ls>R. vii, 6, 31</ls>; <ls>Prasannar.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कामारि",
+            "eid": "48256",
+            "pagenum": 273,
+            "content": "¦ a mineral substance used in medicine, a sort of pyrites (= विट-माषिक), <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कामारि",
+            "eid": "26668",
+            "pagenum": 2,
+            "content": "कामारि¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Bein.</ab> <is>Śiva</is>ʼs <ls>Spr. 7809</ls>. <ls>PRASANNAR. 13,8</ls>. <ls>DHŪRTAN. 69</ls>. <div n='1'>— 2〉 *<i>eine <ab>best.</ab> mineralische Substanz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कामारि",
+            "eid": "16483",
+            "pagenum": 2,
+            "content": "कामारि¦ (काम + अरि) <lex>m.</lex> <div n='1'> 1) <i>eine best. mineralische Substanz</i> <ls>H. 1055.</ls> <div n='1'>— 2) ein Bein. <is>Śiva's</is> (<i>der Feind des Liebesgottes</i>) <ls>ŚIV.</ls>"
+        },
+        {
+            "word": "कामारि",
+            "eid": "70404",
+            "pagenum": 5,
+            "content": "कामारि¦ <div n='1'> 2) <ls>R. 7, 6, 31.</ls>"
+        }
     ]
 }

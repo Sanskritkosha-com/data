@@ -39,5 +39,49 @@
             "pagenum": 552,
             "content": "manAyI¦ <i>f.</i> Wife of Manu."
         }
+    ],
+    "MW": [
+        {
+            "word": "मनायी",
+            "eid": "156849",
+            "pagenum": 784,
+            "content": "मना/यी <hom>a</hom> ¦ <lex>f.</lex> (<ab>fr.</ab> मनु) <s1 slp1='manu'>Manu</s1>'s wife, <ls>MaitrS.</ls> (<ab>cf.</ab> मनावी/). <info lex='f'/>"
+        },
+        {
+            "word": "मनायी",
+            "eid": "157526",
+            "pagenum": 787,
+            "content": "मनायी <hom>b</hom> ¦ मनावी See <pcol>p. 784, col. 2</pcol>."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मनायी",
+            "eid": "36352",
+            "pagenum": 742,
+            "content": "<i>Manāyī,</i>¦ f. (fr. <i>manu</i>), Manu's wife."
+        },
+        {
+            "word": "मनायी",
+            "eid": "36388",
+            "pagenum": 745,
+            "content": "मनायी¦ <i>manāyī, manāvī.</i> See p. 742, col. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मनायी",
+            "eid": "82849",
+            "pagenum": 5,
+            "content": "मना/यी¦ <lex>f.</lex> <is>Manu</is>ʼs <i>Gattin</i> <ls>MAITR. S. 1,8,6</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मनायी",
+            "eid": "57314",
+            "pagenum": 5,
+            "content": "मना/यी¦ (von मनु) <lex>f.</lex> <is>Manu's</is> <i>Gattin</i> <ls>P. 4, 1, 38.</ls> <ls>VOP. 4, 25.</ls> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>  <div n='v'>— Vgl. मनावी ."
+        }
     ]
 }

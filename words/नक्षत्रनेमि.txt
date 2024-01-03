@@ -15,5 +15,47 @@
             "pagenum": 366,
             "content": "nakzatra-nemi¦ <i>m.</i> 1. the moon; 2. the pole-star; 3. an epithet of Vishṇu."
         }
+    ],
+    "MW": [
+        {
+            "word": "नक्षत्रनेमि",
+            "eid": "102858",
+            "pagenum": 524,
+            "content": "नक्षत्र—नेमि ¦ <lex>m.</lex> the pole-star, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "नक्षत्रनेमि",
+            "eid": "102859",
+            "pagenum": 524,
+            "content": "¦ the moon, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नक्षत्रनेमि",
+            "eid": "102860",
+            "pagenum": 524,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='vizRu'>Viṣṇu</s1>, <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नक्षत्रनेमि",
+            "eid": "102861",
+            "pagenum": 524,
+            "content": "नक्षत्र—नेमि ¦ <lex>f.</lex> the <ab n='Nakṣatra' slp1='nakzatra'>N°</ab>s <s1 slp1='revatI'>Revatī</s1>.<info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नक्षत्रनेमि",
+            "eid": "56195",
+            "pagenum": 3,
+            "content": "नक्षत्रनेमि¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 *<i>der Polarstern</i>. <div n='2'>— b〉 *<i>der Mond</i>. <div n='2'>— c〉 <ab>Bein.</ab> <is>Viṣṇu</is>ʼs. <div n='1'>— 2〉 *<lex>f.</lex> <i>das Mondhaus</i> <is>Revatī</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नक्षत्रनेमि",
+            "eid": "37318",
+            "pagenum": 4,
+            "content": "नक्षत्रनेमि¦ (न° + ने°) <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>der Polarstern.</i> <div n='2'>— b) <i>der Mond</i> <ls>H. an. 5, 36.</ls> <ls>MED. m. 64.</ls> <div n='2'>— c) Bein. <is>Viṣṇu's</is> <ls>MBH. 13, 6996.</ls> <div n='1'>— 2) <lex>f.</lex> Bein. <i>der Mondstation</i> <is>Revati</is> <ls>H. an.</ls> <ls>MED.</ls>"
+        }
     ]
 }

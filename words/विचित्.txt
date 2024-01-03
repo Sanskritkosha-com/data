@@ -15,5 +15,43 @@
             "pagenum": 403,
             "content": "विचि/त्¦ sondernd, sichtend."
         }
+    ],
+    "MW": [
+        {
+            "word": "विचित्",
+            "eid": "194798",
+            "pagenum": 959,
+            "content": "वि-°चि/त् <hom>a</hom> ¦ <lex>mfn.</lex> searching, sifting, <ls>VS.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विचित्",
+            "eid": "194808",
+            "pagenum": 959,
+            "content": "<hom>b</hom> वि-√ <hom>4.</hom> चित् ¦ <ab>P.</ab> <ab>Ā.</ab> -चेतति, °ते, to perceive, discern, understand, <ls>RV.</ls>; <div n='to'/> (<ab>Ā.</ab>) to be or become visible, appear, <ls>ib.</ls>; <ls>AV.</ls> : <div n='vp'/><ab>Caus.</ab> -चितयति, to perceive, distinguish, <ls>RV. v, 19, 2</ls> : <div n='vp'/><ab>Desid.</ab> -चिकित्सति, to wish to distinguish, <ls>ib.</ls> <ls n='RV.'>iv, 16, 10</ls>; <div n='to'/>to reflect, consider, doubt, be uncertain, hesitate, <ls>TS.</ls>; <ls>Br.</ls>; <ls>KaṭhUp.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls><info verb='pre' cp='PĀ' parse='vi+cit'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विचित्",
+            "eid": "42470",
+            "pagenum": 914,
+            "content": "विचित्¦ <i>vi-cit</i> (see rt. 4. <i>cit,</i> which is probably connected with rt. 2. <i>ci;</i> cf. 3. <i>vi-ci</i>), cl. 1. P. A. <i>-cetati, -te, -cetitum,</i> to perceive, notice, observe, know, comprehend, understand, distinguish; to be perceived or known (A.), to appear: Caus., Ved. <i>-citayati, -yitum,</i> to perceive, distinguish: Desid. <i>-cikitsati,</i> to wish to distinguish; to reflect, consider, ponder; to hesitate about, doubt, be uncertain."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विचित्",
+            "eid": "102031",
+            "pagenum": 6,
+            "content": "विचि/त्¦ <lex>Adj.</lex> <i>sondernd, sichtend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विचित्",
+            "eid": "91152",
+            "pagenum": 6,
+            "content": "विचि/त्¦ (von 1. चि mit वि) <lex>adj.</lex> <i>sondernd, sichtend</i> <ls>VS. 4, 24.</ls>"
+        }
     ]
 }

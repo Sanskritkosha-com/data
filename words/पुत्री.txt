@@ -71,5 +71,53 @@
             "pagenum": 443,
             "content": "putrI¦ <i>f.</i> 1. A daughter; 2. a puppet, a doll; 3. (at the end of a compound) anything little of its kind, (e.g. असिपुत्रिका, खड्गपुत्रिका)."
         }
+    ],
+    "MD": [
+        {
+            "word": "पुत्री",
+            "eid": "11707",
+            "pagenum": 164,
+            "content": "पुत्री¦ putrī, <lex>f.</lex> daughter (<ab>v.</ab> putra)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पुत्री",
+            "eid": "125499",
+            "pagenum": 632,
+            "content": "पुत्री <hom>a</hom> ¦ (ई), <lex>f.</lex> a daughter, <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex='f'/>"
+        },
+        {
+            "word": "पुत्री",
+            "eid": "125500",
+            "pagenum": 632,
+            "content": "¦ a doll or puppet (See दारु-पुत्री)<info lex='inh'/>"
+        },
+        {
+            "word": "पुत्री",
+            "eid": "125630",
+            "pagenum": 633,
+            "content": "<hom>1.</hom> पुत्री ¦ <lex>f.</lex> of पुत्र, <ab>q.v.</ab><info lex='f'/>"
+        },
+        {
+            "word": "पुत्री",
+            "eid": "125631",
+            "pagenum": 633,
+            "content": "<hom>2.</hom> पुत्री ¦ in <ab>comp.</ab> for पुत्र,"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पुत्री",
+            "eid": "67766",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> पुत्री¦ <lex>f.</lex> <ab>s. u.</ab> पुत्र."
+        },
+        {
+            "word": "पुत्री",
+            "eid": "67767",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> पुत्री¦ <lex>Adv.</lex> <div n='1'>— 1〉 mit कर् <i>an Sohnes Statt annehmen</i>. <div n='1'>— 2〉 भू <i>zum Sohne werden</i>."
+        }
     ]
 }

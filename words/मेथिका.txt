@@ -15,5 +15,43 @@
             "pagenum": 585,
             "content": "meTikA¦ <i>f.</i> A kind of grass."
         }
+    ],
+    "MW": [
+        {
+            "word": "मेथिका",
+            "eid": "167788",
+            "pagenum": 832,
+            "content": "मेथिका <hom>a</hom> ¦ <lex>f.</lex> See next.<info lex='f'/>"
+        },
+        {
+            "word": "मेथिका",
+            "eid": "167789",
+            "pagenum": 832,
+            "content": "मेथिका or मेथिनी, ¦ <lex>f.</lex> <bot>Trigonella Foenum Graecum</bot>, <ls>L.</ls><info or='167789,meTikA;167790,meTinI'/><info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "मेथिका",
+            "eid": "37945",
+            "pagenum": 795,
+            "content": "<i>Methikā</i>¦ or <i>methinī,</i> f. a sort of grass, Trigondella Fœnum Græcum."
+        }
+    ],
+    "PW": [
+        {
+            "word": "मेथिका",
+            "eid": "88730",
+            "pagenum": 5,
+            "content": "*मेथिका und *मेथिनी¦ <lex>f.</lex> <i><bot>Trigonella foenum graecum</bot></i> <ls>Mat. med. 141</ls>. <ls>RĀJAN. 6,69</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मेथिका",
+            "eid": "61928",
+            "pagenum": 5,
+            "content": "मेथिका¦ <lex>f.</lex> = मेथी, मेथिनी <i>Trigonella Foenum graecum</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

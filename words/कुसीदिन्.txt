@@ -23,5 +23,57 @@
             "pagenum": 199,
             "content": "kusIdin¦ <i>m.</i> An usurer."
         }
+    ],
+    "MD": [
+        {
+            "word": "कुसीदिन्",
+            "eid": "6139",
+            "pagenum": 71,
+            "content": "कुसीदिन्¦ kusīd-ín, <lex>m.</lex> usurer."
+        }
+    ],
+    "MW": [
+        {
+            "word": "कुसीदिन्",
+            "eid": "53582",
+            "pagenum": 298,
+            "content": "कुसीदि/न् ¦ ई, <lex>m.</lex> <ab>id.</ab>, <ls>Nir.</ls>; <ls>ŚBr. xiii</ls>; <ls>ĀśvŚr.</ls>; <ls>ŚāṅkhŚr.</ls>; <ls>Gaut.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कुसीदिन्",
+            "eid": "53583",
+            "pagenum": 298,
+            "content": "¦ (See कुशीति) <ab>N.</ab> of a descendant of <s1 slp1='kaRva'>Kaṇva</s1> (author of <ls>RV. viii, 81</ls>-<ls n='RV. viii,'>83</ls>), <ls>RAnukr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "कुसीदिन्",
+            "eid": "53584",
+            "pagenum": 298,
+            "content": "¦ of a teacher, <ls>VP.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कुसीदिन्",
+            "eid": "15480",
+            "pagenum": 243,
+            "content": "<i>Kusīdin, ī,</i>¦ m. a usurer; N. of a descendant of Kaṇva, author of several hymns of the Ṛg-veda."
+        }
+    ],
+    "PW": [
+        {
+            "word": "कुसीदिन्",
+            "eid": "29544",
+            "pagenum": 2,
+            "content": "कुसीदि/न्¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>Subst.</ab> <ab>dass.</ab> <ls>GAUT.</ls> <div n='1'>— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines Liederdichters und eines Lehrers (<ls>VP. 3,6,5</ls>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कुसीदिन्",
+            "eid": "18339",
+            "pagenum": 2,
+            "content": "कुसीदि/न्¦ (wie eben) <div n='1'> 1) dass. <ls>NIR. 6, 32.</ls> <ls>ŚAT. BR. 13, 4, 3, 11.</ls> <ls>ĀŚV. ŚR. 10, 7.</ls> <ls>ŚĀṄKH. ŚR. 16, 2, 21.</ls>  <div n='1'>— 2) <lex>m.</lex> N. pr. eines <is>Kāṇva</is>, Verfassers von <ls>ṚV. 8, 70</ls>-72, <ls>ṚV. ANUKR.</ls>"
+        }
     ]
 }

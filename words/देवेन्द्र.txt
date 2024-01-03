@@ -73,5 +73,49 @@
             "pagenum": 240,
             "content": "<b>Devendra</b><sup>3</sup>¦ = Śiva (1000 names<sup>1—2</sup>)."
         }
+    ],
+    "MW": [
+        {
+            "word": "देवेन्द्र",
+            "eid": "96282",
+            "pagenum": 495,
+            "content": "deve<srs/>ndra ¦ <lex>m.</lex> ‘chief of the <ab n='gods'>g°</ab>’, <ab>N.</ab> of <s1 slp1='indra'>Indra</s1> or <s1 slp1='Siva'>Śiva</s1>, <ls>MBh.</ls>; <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "देवेन्द्र",
+            "eid": "96283",
+            "pagenum": 495,
+            "content": "¦ of <ab>sev.</ab> authors, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "देवेन्द्र",
+            "eid": "6337",
+            "pagenum": 2,
+            "content": "<i>Devendra</i>¦ — see Indra. <div n='P'/>Br. III. 7. 269; IV. 12. 35; M. 146. 20; Vi. I. 8. 26; 9. 16, 139."
+        },
+        {
+            "word": "देवेन्द्र",
+            "eid": "6338",
+            "pagenum": 2,
+            "content": "<i>Devendras</i>¦ — Gods of prime importance, of secondary importance; share in sacrifices; they are Gurus, Lords, Kings and Forefathers; protect the subjects. <div n='P'/>Vā. 64. 21-23."
+        }
+    ],
+    "PW": [
+        {
+            "word": "देवेन्द्र",
+            "eid": "52705",
+            "pagenum": 3,
+            "content": "देवेन्द्र¦ <lex>m.</lex> <div n='1'>— 1〉 <ab>Bein.</ab> <is>Indra</is>ʼs. <div n='1'>— 2〉 <ab>N. pr.</ab> eines Mannes."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "देवेन्द्र",
+            "eid": "34810",
+            "pagenum": 3,
+            "content": "देवेन्द्र¦ (देव + इन्द्र) <lex>m.</lex> <div n='1'> 1) <i>der Fürst der Götter</i>, Bein. <is>Indra's</is> <ls>ARJ. 4, 5.</ls> <ls>R. 3, 6, 19.</ls> <ls>RAGH. 3, 44.</ls> <ls>HIOUEN-THSANG I, 478.</ls> <is>Śiva's</is> <ls>ŚIV.</ls> <div n='1'>— 2) N. pr. eines Mannes <ls>Verz. d. Oxf. H. 72,a,4</ls> v. u."
+        }
     ]
 }

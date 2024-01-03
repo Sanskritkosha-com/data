@@ -45,5 +45,27 @@
             "pagenum": 377,
             "content": "niKarva¦ <i>(II) n.</i> A billion."
         }
+    ],
+    "MW": [
+        {
+            "word": "निखर्व",
+            "eid": "108009",
+            "pagenum": 545,
+            "content": "नि-खर्व ¦ <lex>mfn.</lex> dwarfish, a dwarf, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "निखर्व",
+            "eid": "108010",
+            "pagenum": 545,
+            "content": "नि-खर्व ¦ <lex>n.</lex> a billion, <ls>MBh.</ls>; <ls>R.</ls> (or, 100 billion, See खर्व)<info lexcat='LEXID=card,STEM=niKarva'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "निखर्व",
+            "eid": "58289",
+            "pagenum": 3,
+            "content": "निखर्व¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>klein von Wuchs, zwerghaft</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>eine <ab>best.</ab> hohe Zahl</i>."
+        }
     ]
 }

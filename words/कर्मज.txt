@@ -31,5 +31,47 @@
             "pagenum": 140,
             "content": "<b>karma-ja,</b>¦ <i><ab>a.</ab></i> deed-born, resulting from the actions of a life."
         }
+    ],
+    "MW": [
+        {
+            "word": "कर्मज",
+            "eid": "45323",
+            "pagenum": 258,
+            "content": "कर्म—ज ¦ <lex>mfn.</lex> ‘act-born’, resulting or produced from any act (good or bad), <ls>Mn. xii, 3</ls> and <ls n='Mn. xii,'>101</ls>; <ls>Daś.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "कर्मज",
+            "eid": "45324",
+            "pagenum": 258,
+            "content": "कर्म—ज ¦ <lex>m.</lex> <bot>Ficus religiosa</bot><info lex='m'/>"
+        },
+        {
+            "word": "कर्मज",
+            "eid": "45325",
+            "pagenum": 258,
+            "content": "¦ the <s1 slp1='kaliyuga'>Kaliyuga</s1> (<ab>q.v.</ab>)<info lex='inh'/>"
+        },
+        {
+            "word": "कर्मज",
+            "eid": "45326",
+            "pagenum": 258,
+            "content": "¦ a god, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कर्मज",
+            "eid": "25213",
+            "pagenum": 2,
+            "content": "कर्मज¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>aus Handlungen, Werken, Thaten hervorgehend oder hervorgegangen</i>. <div n='1'>— 2〉 *<lex>m.</lex> <div n='2'>— a〉 <i>ein Gott</i> <ls>GAL.</ls> <div n='2'>— b〉 <i>der indische Feigenbaum</i>. <div n='2'>— c〉 <i>das</i> <is>Kaliyuga</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कर्मज",
+            "eid": "15513",
+            "pagenum": 2,
+            "content": "कर्मज¦ (कर्मन् + ज) <div n='1'> 1) <lex>adj.</lex> <i>aus Handlungen, Werken, Thaten hervorgehend</i> oder <i>hervorgegangen</i> <ls>M. 12, 3. 101.</ls> <ls>DAŚ. 1, 5.</ls> <ls>R. 3, 53, 32.</ls> <ls>BHĀṢĀP. 95.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>der indische Feigenbaum</i> (वट) <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <div n='2'>— b) <i>das</i> <is>Kaliyuga</is> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> Vgl. कर्मयुग ."
+        }
     ]
 }

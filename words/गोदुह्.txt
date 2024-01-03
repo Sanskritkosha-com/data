@@ -52,5 +52,43 @@
             "pagenum": 250,
             "content": "go-duh¦ <i>m.</i> a cowherd."
         }
+    ],
+    "MD": [
+        {
+            "word": "गोदुह्",
+            "eid": "7113",
+            "pagenum": 86,
+            "content": "गोदुह्¦ go-dúh, (<ab>nm.</ab> <b>-dhúk</b>), <lex>m.</lex> cow-milker, 🞄cowhered; <b>-doha,</b> <lex>m.</lex>: <b>-na,</b> <lex>n.</lex> milking of cows."
+        }
+    ],
+    "MW": [
+        {
+            "word": "गोदुह्",
+            "eid": "67139",
+            "pagenum": 365,
+            "content": "गो—दु/ह् <hom>a</hom> ¦ <lex>m(<ab>nom.</ab> -धुक्)fn.</lex> (<ls>Pāṇ. iii, 2, 61</ls>) a milkman or milkmaid, cowherd, <ls>RV. i, 4, 1</ls> and <ls n='RV. i,'>164, 26</ls>; <ls n='RV.'>viii, 52, 4</ls>; <ls>AV. vii, 73, 6</ls>; <ls>Pāṇ. v, 1, 5</ls>, <ls>Kāś.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "गोदुह्",
+            "eid": "67830",
+            "pagenum": 368,
+            "content": "गो-दु/ह् <hom>b</hom> ¦ &c. See <ls>ib.</ls>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोदुह्",
+            "eid": "36578",
+            "pagenum": 2,
+            "content": "गोदु/ह्¦ (<ab>Nom.</ab> °धुक्) <lex>m.</lex> <i>Kuhmelkerhirt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोदुह्",
+            "eid": "23125",
+            "pagenum": 2,
+            "content": "गोदु/ह्¦ (गो + दुह्) <lex>m.</lex> <lex>f.</lex> (nom. गोधुग्) <i>Melker, Melkerin; Kuhhirt, Kuhhirtin</i> <ls>P. 3, 2, 61</ls>, <ls>Sch.</ls>  <ls>AK. 2, 9, 57.</ls> <ls n='AK.'>3, 4, 19, 132.</ls> <ls>H. 889.</ls> <ls>HĀR. 176.</ls> <ls>ṚV. 1, 4, 1.</ls> सु\\हस्तो^ गो\\धुगु\\त दो^हदेनाम् (धेनुम्) <ls n='ṚV. 1,'>164, 26.</ls> <ls>VĀLAKH. 4, 4.</ls> <ls>AV. 7, 73, 6.</ls> वत्सीयो गोधुक् <i>ein für die Kälber sorgender Melker</i> <ls>P. 5, 1, 5</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

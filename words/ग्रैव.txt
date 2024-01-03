@@ -61,5 +61,63 @@
             "pagenum": 256,
             "content": "grEva¦ <i>(II) n.</i> 1. A necklace; 2. a chain worn round the neck of an elephant, नास्रसत् करिणां ग्रैवं त्रिपदीच्छेदिनामपि <ls>R.</ls>iv.48."
         }
+    ],
+    "MD": [
+        {
+            "word": "ग्रैव",
+            "eid": "7207",
+            "pagenum": 88,
+            "content": "ग्रैव¦ graiva, <lex>n.</lex> neck-chain (<i>of an elephant</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ग्रैव",
+            "eid": "69114",
+            "pagenum": 374,
+            "content": "ग्रैव ¦ <lex>mfn.</lex> (<ab>fr.</ab> ग्रीवा/, <ls>Pāṇ. iv, 3, 57</ls>) representing the neck, <ls>ŚāṅkhŚr. xviii, 3, 1</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "ग्रैव",
+            "eid": "69115",
+            "pagenum": 374,
+            "content": "ग्रैव ¦ <lex>n.</lex> a necklace, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "ग्रैव",
+            "eid": "69116",
+            "pagenum": 374,
+            "content": "¦ a chain worn round the neck of an elephant, <ls>Ragh. iv, 48.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ग्रैव",
+            "eid": "17848",
+            "pagenum": 305,
+            "content": "<i>Graiva, as, ī, am,</i>¦ being on or belonging to the neck, representing the neck, being on the neck; (<i>am</i>), n. a necklace, a close necklace or collar; a chain worn round the neck of an elephant."
+        },
+        {
+            "word": "ग्रैव",
+            "eid": "17857",
+            "pagenum": 305,
+            "content": "ग्रैव¦ <i>graiva.</i> See under <i>grīvā</i> last col."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्रैव",
+            "eid": "37609",
+            "pagenum": 2,
+            "content": "ग्रैव¦ <div n='1'>— 1〉 <lex>Adj.</lex> (*<lex>f.</lex> ई) <i>die Stelle des Nackens vertretend</i>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>Halskette</i> (eines Elephanten). <div n='2'>— b〉 *<i>Halsschmuck</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ग्रैव",
+            "eid": "23845",
+            "pagenum": 2,
+            "content": "ग्रैव/¦ (von ग्रीवा) <ls>P. 4, 3, 57.</ls> <ls n='P. 4,'>2, 96</ls>, <ls>Sch.</ls>  <div n='1'> 1) <lex>adj.</lex> (f. ई) <i>die Stelle des Nackens vertretend</i>: तृच <ls>ŚĀṄKH. ŚR. 18, 3, 1.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Halskette</i>: करिणाम् <ls>RAGH. 4, 48.</ls> <i>Halsschmuck</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

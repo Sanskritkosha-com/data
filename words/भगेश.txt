@@ -15,5 +15,43 @@
             "pagenum": 300,
             "content": "भगेश¦ <i>m.</i> Herr des Glücks."
         }
+    ],
+    "MW": [
+        {
+            "word": "भगेश",
+            "eid": "147590",
+            "pagenum": 742,
+            "content": "Bage<srs/>Sa <hom>a</hom> ¦ See <pcol>p. 743, col. 3</pcol>."
+        },
+        {
+            "word": "भगेश",
+            "eid": "147803",
+            "pagenum": 743,
+            "content": "Bage<srs/>Sa <hom>b</hom> ¦ <lex>m.</lex> the lord of fortune or prosperity, <ls>ŚvetUp.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भगेश",
+            "eid": "34993",
+            "pagenum": 695,
+            "content": "भगेश¦ <i>bhageśa.</i> See p. 696, col. 1."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भगेश",
+            "eid": "78482",
+            "pagenum": 4,
+            "content": "भगेश¦ <lex>m.</lex> <i>Herr des Glückes</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भगेश",
+            "eid": "53824",
+            "pagenum": 5,
+            "content": "भगेश¦ (भग + ईश) <lex>m.</lex> <i>Herr des Glückes</i> <ls>ŚVETĀŚV. UP. 6, 6.</ls>"
+        }
     ]
 }

@@ -23,5 +23,43 @@
             "pagenum": 163,
             "content": "katamAla¦ <i>m.</i> Fire. (Cf. कतमाल.)"
         }
+    ],
+    "MW": [
+        {
+            "word": "कतमाल",
+            "eid": "42674",
+            "pagenum": 246,
+            "content": "कतमाल ¦ <lex>m.</lex> fire, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "कतमाल",
+            "eid": "42675",
+            "pagenum": 246,
+            "content": "¦ (incorrect for खतमाल, <ls>BRD.</ls>; <ab>cf.</ab> कचमाल, करमाल.)<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "कतमाल",
+            "eid": "13503",
+            "pagenum": 198,
+            "content": "कतमाल¦ <i>katamāla, as,</i> m. fire; the right form is <i>khatamāla;</i> [cf. also <i>kacamāla</i> and <i>kara-</i> <i>māla.</i>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "कतमाल",
+            "eid": "23780",
+            "pagenum": 2,
+            "content": "*कतमाल¦ <lex>m.</lex> fehlerhaft für खतमाल <i>Feuer</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "कतमाल",
+            "eid": "14596",
+            "pagenum": 2,
+            "content": "कतमाल¦ <lex>m.</lex> <i>Feuer</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> — Die richtige Form ist खतमाल; vgl. auch कचमाल und करमाल ."
+        }
     ]
 }

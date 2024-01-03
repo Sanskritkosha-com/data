@@ -28,5 +28,49 @@
             "pagenum": 224,
             "content": "Ka-tamAla¦ <i>m.</i> 1. a cloud; 2. smoke."
         }
+    ],
+    "MW": [
+        {
+            "word": "खतमाल",
+            "eid": "60761",
+            "pagenum": 334,
+            "content": "ख—तमाल <hom>a</hom> ¦ <lex>m.</lex> a cloud, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "खतमाल",
+            "eid": "60762",
+            "pagenum": 334,
+            "content": "¦ smoke, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "खतमाल",
+            "eid": "61225",
+            "pagenum": 336,
+            "content": "ख-तमाल <hom>b</hom> ¦ &c. See <hom>3.</hom> ख/."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खतमाल",
+            "eid": "16710",
+            "pagenum": 273,
+            "content": "खतमाल¦ <i>kha-tamāla,</i> &c. See under 3. <i>kha.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खतमाल",
+            "eid": "33410",
+            "pagenum": 2,
+            "content": "*खतमाल¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Wolke</i>. <div n='1'>— 2〉 <i>Rauch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खतमाल",
+            "eid": "20916",
+            "pagenum": 2,
+            "content": "खतमाल¦ (ख + त°) <lex>m.</lex> <div n='1'> 1) <i>Wolke</i> <ls>TRIK. 1, 1, 81.</ls> <ls>HĀR. 18.</ls> <ls>H. an. 4, 288.</ls> <ls>H. ś. 27.</ls> <ls>MED. l. 152.</ls> <div n='1'>— 2) <i>Rauch</i> <ls>TRIK. 1, 1, 70.</ls> <ls>H. an.</ls> <ls>MED.</ls>"
+        }
     ]
 }

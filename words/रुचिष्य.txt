@@ -31,5 +31,63 @@
             "pagenum": 365,
             "content": "रुचिष्य¦ gefallend, erwünscht."
         }
+    ],
+    "MD": [
+        {
+            "word": "रुचिष्य",
+            "eid": "15291",
+            "pagenum": 256,
+            "content": "रुचिष्य¦ ruc-iṣya, <lex>a.</lex> pleasing, agreeable; 🞄<b>-ī,</b> <lex>f.</lex> <ab>metr.</ab> = ruci, light, lustre (<ab>pl.</ab>); <b>-ya,</b> <lex>a.</lex> 🞄pleasing, radiant beautiful; appetising."
+        }
+    ],
+    "MW": [
+        {
+            "word": "रुचिष्य",
+            "eid": "178427",
+            "pagenum": 882,
+            "content": "रुचिष्य ¦ <lex>mfn.</lex> pleasant, agreeable, liked, <ls>Hariv.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "रुचिष्य",
+            "eid": "178428",
+            "pagenum": 882,
+            "content": "¦ giving an appetite, tonic, stomachic, <ls>Suśr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रुचिष्य",
+            "eid": "178429",
+            "pagenum": 882,
+            "content": "¦ dainty, nice, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रुचिष्य",
+            "eid": "178430",
+            "pagenum": 882,
+            "content": "रुचिष्य ¦ <lex>n.</lex> white salt, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "रुचिष्य",
+            "eid": "39620",
+            "pagenum": 848,
+            "content": "<i>Ruciṣya, as, ā, am,</i>¦ pleasing, pleasant, agreeable, liked; giving an appetite, tonic, stomachic; dainty, nice."
+        }
+    ],
+    "PW": [
+        {
+            "word": "रुचिष्य",
+            "eid": "94387",
+            "pagenum": 5,
+            "content": "रुचिष्य¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>gefallend, genehm, erwünscht</i>. <div n='1'>— 2〉 <i>Appetit machend</i>. <div n='1'>— 3〉 *<i>lecker</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रुचिष्य",
+            "eid": "84905",
+            "pagenum": 6,
+            "content": "रु/चिष्य¦ (von 1. रुच्) <ls>UṆĀDIS. 4, 178.</ls> <lex>adj.</lex> <div n='1'> 1) <i>gefallend, genehm, erwünscht</i> <ls>UJJVAL.</ls> न पृथ्वीं कामये कृत्स्नां संतुष्टो ऽस्मि पदैस्त्रिभिः । एष एव रुचिष्यो मे वरः <ls>HARIV. 14265.</ls> <div n='1'>— 2) <i>Appetit machend</i> <ls>SUŚR. 1, 224, 16. 231, 19.</ls> <i>lecker</i> <ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

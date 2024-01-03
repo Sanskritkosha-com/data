@@ -23,5 +23,39 @@
             "pagenum": 769,
             "content": "sahasvat¦ <i>a. (f. ती)</i> Powerful."
         }
+    ],
+    "MD": [
+        {
+            "word": "सहस्वत्",
+            "eid": "19101",
+            "pagenum": 344,
+            "content": "सहस्वत्¦ sáhas-vat, <lex>a.</lex> mighty, victorious (<ab>V.</ab>; 🞄<i>rarely</i> <ab>P.</ab>); containing <i>the word</i> sahas (<ab>Br.</ab>): 🞄<b>-ī,</b> <lex>f.</lex> <i>a plant</i> (?; <ab>V.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सहस्वत्",
+            "eid": "240017",
+            "pagenum": 1193,
+            "content": "स/हस्—वत् ¦ (स/हस्-), <lex>mfn.</lex> powerful, mighty, victorious, <ls>RV.</ls>; <ls>AV.</ls>; <ls>BhP.</ls> (°वत् <lex type='phw'>ind.</lex> mightily), <ls>RV.</ls><info phwchild='240017.4'/><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सहस्वत्",
+            "eid": "240017.1",
+            "pagenum": 1193,
+            "content": "¦ containing the word सहस्, <ls>AitBr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सहस्वत्",
+            "eid": "240017.2",
+            "pagenum": 1193,
+            "content": "स/हस्—वत् ¦ <lex>m.</lex> <ab>N.</ab> of a king (<ab>v.l.</ab> महस्-वत्), <ls>VP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सहस्वत्",
+            "eid": "240017.4",
+            "pagenum": 1193,
+            "content": "स/हस्—वत् ¦ <lex>ind.</lex>, mightily<info phwparent='240017,sahasvat'/><info lex='ind'/>"
+        }
     ]
 }

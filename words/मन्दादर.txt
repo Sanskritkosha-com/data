@@ -23,5 +23,29 @@
             "pagenum": 213,
             "content": "<b>mandādara,</b>¦ <i><ab>a.</ab></i> having little regard for (<i><ab>w.</ab> <ab>loc.</ab>,</i> <ls n='wg,303'>303a</ls>), careless about. [<b>manda +</b> <b>ādara.</b>]"
         }
+    ],
+    "MW": [
+        {
+            "word": "मन्दादर",
+            "eid": "157793",
+            "pagenum": 788,
+            "content": "mandA<srs/>dara ¦ <lex>mfn.</lex> having little respect for, careless about (<ab>loc.</ab>), <ls>Hit.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मन्दादर",
+            "eid": "83316",
+            "pagenum": 5,
+            "content": "मन्दादर¦ <lex>Adj.</lex> <i>wenig Rücksicht nehmend auf, wenig besorgt um</i> (<ab>Loc.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मन्दादर",
+            "eid": "57642",
+            "pagenum": 5,
+            "content": "मन्दादर¦ (मन्द + आ°) <lex>adj.</lex> <i>wenig Rücksicht auf Etwas</i> (loc.) <i>nehmend, wenig besorgt um</i>: ममाहारदाने <ls>HIT. 50, 7.</ls> <ls n='HIT.'>58, 13.</ls>"
+        }
     ]
 }

@@ -7,5 +7,29 @@
             "pagenum": 222,
             "content": "kzetra-rASi¦ <i>m.</i> the quantity represented by geometrical figures."
         }
+    ],
+    "MW": [
+        {
+            "word": "क्षेत्रराशि",
+            "eid": "60307",
+            "pagenum": 332,
+            "content": "क्षेत्र—राशि ¦ <lex>m.</lex> quantity represented by geometrical figures.<info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्षेत्रराशि",
+            "eid": "32947",
+            "pagenum": 2,
+            "content": "क्षेत्रराशि¦ <lex>m.</lex> <i>eine durch geometrische Figuren bezeichnete Quantität</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्षेत्रराशि",
+            "eid": "20604",
+            "pagenum": 2,
+            "content": "क्षेत्रराशि¦ (क्षेत्र + राशि) <lex>m.</lex> <i>durch geometrische Figuren bezeichnete Quantität</i> <ls>COLEBR. Alg. 278.</ls>"
+        }
     ]
 }

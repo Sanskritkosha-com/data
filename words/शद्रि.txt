@@ -31,5 +31,55 @@
             "pagenum": 707,
             "content": "Sadri¦ <i>m.</i> 1. A cloud; 2. an elephant; 3. a name of Arjuna."
         }
+    ],
+    "MW": [
+        {
+            "word": "शद्रि",
+            "eid": "212489",
+            "pagenum": 1051,
+            "content": "शद्रि ¦ <lex>m.</lex> (only <ls>L.</ls>) a cloud<info lex='m'/>"
+        },
+        {
+            "word": "शद्रि",
+            "eid": "212489.1",
+            "pagenum": 1051,
+            "content": "¦ an elephant<info lex='inh'/>"
+        },
+        {
+            "word": "शद्रि",
+            "eid": "212489.2",
+            "pagenum": 1051,
+            "content": "शद्रि ¦ <lex>f.</lex> lightning<info lex='f'/>"
+        },
+        {
+            "word": "शद्रि",
+            "eid": "212489.3",
+            "pagenum": 1051,
+            "content": "¦ clayed or candied sugar.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शद्रि",
+            "eid": "46082",
+            "pagenum": 991,
+            "content": "<i>Śadri, is,</i>¦ m. a cloud; an elephant; an epithet of Arjuna; (<i>is</i>), f. lightning; clayed or candied sugar."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शद्रि",
+            "eid": "110109",
+            "pagenum": 6,
+            "content": "*शद्रि¦ <lex>m.</lex> = जिष्णु, तडित् (<ab>v. l.</ab> तडित्वन्त् <ls>ZACH. Beitr. 84</ls>), अम्भोधर, शर्करा und हस्तिन्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शद्रि",
+            "eid": "97734",
+            "pagenum": 7,
+            "content": "श/द्रि¦ <ls>UṆĀDIS. 4, 65.</ls> m. = जिष्णु und तडित् <ls>H. an. 2, 461.</ls> = अम्भोधर und जिष्णु <ls>MED. r. 89.</ls> = शर्करा <ls>UJJVAL.</ls> = हस्तिन् (vgl. शत्रि) <ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

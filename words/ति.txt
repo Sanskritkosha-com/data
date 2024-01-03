@@ -21,5 +21,43 @@
             "pagenum": 340,
             "content": "<i>ti</i>¦ (IE 8-1), abbreviation of <i>tithi.</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "ति",
+            "eid": "84739",
+            "pagenum": 446,
+            "content": "ति ¦ for इ/ति (after का/), <ls>ŚBr. xi, 6, 1, 3 ff.</ls>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ति",
+            "eid": "20875",
+            "pagenum": 372,
+            "content": "ति¦ <i>ti = iti</i> in the Śatapatha-Brāhmaṇa."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ति",
+            "eid": "45635",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> ति¦ (!) तिनोति mit सम् <i>zerquetschen, zerdrücken</i> <ls>MANTRABR. 2,7,2</ls>. <ab>Vgl.</ab> तिक्, तिक्नोति und तिग्, तिग्नोति."
+        },
+        {
+            "word": "ति",
+            "eid": "45636",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> ति¦ = इति nach का/ <i>welche?</i>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ति",
+            "eid": "29532",
+            "pagenum": 3,
+            "content": "ति¦ für इति <ls>ŚAT. BR. 11, 6, 1, 3. fgg.</ls>"
+        }
     ]
 }

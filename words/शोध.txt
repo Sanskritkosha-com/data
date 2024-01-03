@@ -15,5 +15,67 @@
             "pagenum": 728,
             "content": "SoDa¦ <i>m.</i> 1. Purification; 2. correction; 3. retaliation; 4. acquittance."
         }
+    ],
+    "MW": [
+        {
+            "word": "शोध",
+            "eid": "219555",
+            "pagenum": 1082,
+            "content": "शोध <hom>a</hom> ¦ &c. See <pcol>p. 1091, col. 3</pcol>."
+        },
+        {
+            "word": "शोध",
+            "eid": "221535",
+            "pagenum": 1091,
+            "content": "शोध <hom>b</hom> ¦ <lex>m.</lex> purification, cleansing, <ls>Vop.</ls><info lex='m'/>"
+        },
+        {
+            "word": "शोध",
+            "eid": "221536",
+            "pagenum": 1091,
+            "content": "¦ correction, setting right, <ls>MW.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शोध",
+            "eid": "221537",
+            "pagenum": 1091,
+            "content": "¦ payment, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "शोध",
+            "eid": "221538",
+            "pagenum": 1091,
+            "content": "¦ retaliation, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शोध",
+            "eid": "46916",
+            "pagenum": 1014,
+            "content": "<i>Śodha, as,</i>¦ m. purification, cleansing; correction; payment; retaliation. <i>—Śodha-pattra, am,</i> n. a sheet or paper of corrections; [cf. <i>śuddhi-p°.</i>]"
+        },
+        {
+            "word": "शोध",
+            "eid": "47196",
+            "pagenum": 1021,
+            "content": "शोध¦ <i>śodha, śodhaka, śodhana, śodhita,</i> &c. See under rt. <i>śudh.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शोध",
+            "eid": "114425",
+            "pagenum": 6,
+            "content": "*शोध¦ <lex>m.</lex> <i>Reinigung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शोध",
+            "eid": "101099",
+            "pagenum": 7,
+            "content": "शोध¦ (von शुध्) <lex>m.</lex> <i>Reinigung</i> <ls>VOP.</ls> in <ls>DHĀTUP. 22, 70.</ls> <div n='v'>— Vgl. दुः° ."
+        }
     ]
 }

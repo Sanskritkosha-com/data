@@ -36,5 +36,29 @@
             "pagenum": 173,
             "content": "दिनान्त¦ <i>m.</i> Abend <i>(eig.</i> Tagesende)."
         }
+    ],
+    "MW": [
+        {
+            "word": "दिनान्त",
+            "eid": "92194",
+            "pagenum": 478,
+            "content": "dinA<srs/>nta ¦ <lex>m.</lex> ‘day-end’, sunset, evening, <ls>Kālid.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दिनान्त",
+            "eid": "50222",
+            "pagenum": 3,
+            "content": "दिनान्त¦ <lex>m.</lex> <i>Abend</i> <ls>RĀJAN. 21,42</ls>. <ls>Chr. 119,29</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दिनान्त",
+            "eid": "32914",
+            "pagenum": 3,
+            "content": "दिनान्त¦ (दिन + अन्त) <lex>m.</lex> <i>Ende des Tages, Abend</i> <ls>AK. 1, 1, 3, 3.</ls> <ls>RAGH. 2, 15.</ls> <ls n='RAGH.'>4, 1.</ls> <ls>ṚT. 1, 1.</ls> <ls>VID. 54.</ls>"
+        }
     ]
 }

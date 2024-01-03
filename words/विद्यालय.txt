@@ -7,5 +7,35 @@
             "pagenum": 664,
             "content": "vidyA-Alaya¦ <i>m.</i> a school, a college."
         }
+    ],
+    "MW": [
+        {
+            "word": "विद्यालय",
+            "eid": "195837",
+            "pagenum": 964,
+            "content": "vidyA<srs/>°laya ¦ (°yA<srs/>l°), <lex>m.</lex> abode or seat of learning, a school, college, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विद्यालय",
+            "eid": "195837.1",
+            "pagenum": 964,
+            "content": "¦ <ab>N.</ab> of a place, <ls>Cat.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विद्यालय",
+            "eid": "102744",
+            "pagenum": 6,
+            "content": "विद्यालय¦ <lex>m.</lex> <ab>N. pr.</ab> einer Oertlichkeit."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विद्यालय",
+            "eid": "91740",
+            "pagenum": 6,
+            "content": "विद्यालय¦ N. pr. einer Oertlichkeit ebend. <ls n='Verz. d. Oxf. H.'>251,b,15.</ls>"
+        }
     ]
 }

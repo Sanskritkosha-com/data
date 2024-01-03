@@ -23,5 +23,35 @@
             "pagenum": 815,
             "content": "<b>pitṛ-ṣád,</b>¦ <ab>a.</ab>, <i>beim Vater</i> oder <i>bei den Aeltern</i> [pitṛ́ {1,6}] <i>weilend</i> [ṣád von sad], <i>unvermählt bleibend</i>. <div n='TS'>-ádam anyā́m {911,21}. <div n='TS'>-áde ghóṣāyai {117,7}."
         }
+    ],
+    "MW": [
+        {
+            "word": "पितृषद्",
+            "eid": "124127",
+            "pagenum": 626,
+            "content": "पितृ—ष/द् ¦ <lex>mfn.</lex> living unmarried with a <ab n='father'>f°</ab>, <ls>RV.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "पितृषद्",
+            "eid": "124128",
+            "pagenum": 626,
+            "content": "¦ ‘dwelling with the <ab n='Pitṛ' slp1='pitf'>P°</ab>s’, <ab>N.</ab> of <s1 slp1='rudra'>Rudra</s1>, <ls>PārGṛ.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पितृषद्",
+            "eid": "67018",
+            "pagenum": 4,
+            "content": "पितृष/द्¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>beim Vater —, bei den Eltern —, ledig bleibend</i>. <div n='1'>— 2〉 <i>bei den Manen wohnend</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पितृषद्",
+            "eid": "45292",
+            "pagenum": 4,
+            "content": "पितृष/द्¦ (पितर् + सद्) <lex>adj.</lex> <i>beim Vater —, bei den Eltern —, ledig bleibend</i> <ls>ṚV. 1, 117, 7.</ls> <ls n='ṚV.'>10, 85, 21.</ls> <i>bei den Manen wohnend</i>: <is>Rudra</is> <ls>PĀR. GṚHY. 3, 15.</ls>"
+        }
     ]
 }

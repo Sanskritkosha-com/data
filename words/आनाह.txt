@@ -63,5 +63,57 @@
             "pagenum": 101,
             "content": "AnAha¦ <i>m.</i> 1. Constipation; 2. length."
         }
+    ],
+    "MW": [
+        {
+            "word": "आनाह",
+            "eid": "24501",
+            "pagenum": 140,
+            "content": "आ-नाह ¦ <lex>m.</lex> epistasis, suppression of urine<info lex='m'/>"
+        },
+        {
+            "word": "आनाह",
+            "eid": "24502",
+            "pagenum": 140,
+            "content": "¦ constipation, <ls>Suśr.</ls>; <ls>MBh.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आनाह",
+            "eid": "24503",
+            "pagenum": 140,
+            "content": "¦ length, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आनाह",
+            "eid": "8581",
+            "pagenum": 121,
+            "content": "<i>Ā-nāha, as,</i>¦ m. epistasis, suppression of urine, or constipation; length, especially of cloth."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आनाह",
+            "eid": "14721",
+            "pagenum": 1,
+            "content": "आनाह¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Verstopfung des Leibes</i>. <div n='1'>— 2〉 *<i>Länge</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आनाह",
+            "eid": "8612",
+            "pagenum": 1,
+            "content": "आनाह¦ (von नह् mit आ) <lex>m.</lex> <div n='1'> 1) <i>Verstopfung des Leibes</i> <ls>AK. 2, 6, 2, 6.</ls> <ls>H. 471.</ls> <ls>SUŚR. 1, 32, 2. 82, 5. 97, 11. 366, 7. 2, 44, 15. 256, 19.</ls> <ls>MBH. 3, 10334.</ls> <div n='1'>— 2) <i>Länge</i> <ls>AK. 2, 6, 3, 16.</ls> <ls>H. 1431.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "आनाह",
+            "eid": "14138",
+            "pagenum": 7,
+            "content": "आनाह¦ I. 2〉 <ls>DIVYĀVAD. 546,12</ls>."
+        }
     ]
 }

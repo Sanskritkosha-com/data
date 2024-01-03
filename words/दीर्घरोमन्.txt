@@ -7,5 +7,41 @@
             "pagenum": 335,
             "content": "dIrGa-roman¦ <i>m.</i> a bear."
         }
+    ],
+    "MW": [
+        {
+            "word": "दीर्घरोमन्",
+            "eid": "93172",
+            "pagenum": 482,
+            "content": "दीर्घ—रोमन् ¦ <lex>mfn.</lex> ‘<ab n='long'>l°</ab>-haired’<info lex='m:f:n'/>"
+        },
+        {
+            "word": "दीर्घरोमन्",
+            "eid": "93173",
+            "pagenum": 482,
+            "content": "दीर्घ—रोमन् ¦ <lex>m.</lex> a bear, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "दीर्घरोमन्",
+            "eid": "93174",
+            "pagenum": 482,
+            "content": "¦ <ab>N.</ab> of one of the attendants on <s1 slp1='Siva'>Śiva</s1>, <ls>Hariv.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "दीर्घरोमन्",
+            "eid": "50693",
+            "pagenum": 3,
+            "content": "दीर्घरोमन्¦ <lex>m.</lex> <div n='1'>— 1〉 *<i>Bär</i>. <div n='1'>— 2〉 <ab>N. pr.</ab> eines Wesens im Gefolge <is>Śiva</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दीर्घरोमन्",
+            "eid": "33265",
+            "pagenum": 3,
+            "content": "दीर्घरोमन्¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <i>lange Haare am Körper habend.</i> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Bär</i> <ls>ŚABDĀRTHAKALP.</ls> im <ls>ŚKDR.</ls> <div n='2'>— b) N. pr. eines Wesens im Gefolge von <is>Śiva</is> <ls>HARIV. 14850.</ls>"
+        }
     ]
 }

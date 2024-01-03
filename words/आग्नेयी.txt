@@ -39,5 +39,45 @@
             "pagenum": 95,
             "content": "AgneyI¦ <i>f.</i> 1. The wife of <i>Agni</i>; 2. the south-east quarter; (it is presided over by अग्नि)."
         }
+    ],
+    "MW": [
+        {
+            "word": "आग्नेयी",
+            "eid": "22711",
+            "pagenum": 130,
+            "content": "आग्नेयी ¦ (ई), <lex>f.</lex> <ab>N.</ab> of a daughter of <s1 slp1='agni'>Agni</s1> and wife of <s1 slp1='Uru'>Ūru</s1>, <ls>Hariv.</ls>; <ls>VP.</ls><info lex='f'/>"
+        },
+        {
+            "word": "आग्नेयी",
+            "eid": "22712",
+            "pagenum": 130,
+            "content": "¦ (= अग्नायी) the wife of <s1 slp1='agni'>Agni</s1>, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "आग्नेयी",
+            "eid": "22713",
+            "pagenum": 130,
+            "content": "¦ the south-east quarter (of which <s1 slp1='agni'>Agni</s1> is the regent), <ls>VarBṛS.</ls><info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "आग्नेयी",
+            "eid": "1165",
+            "pagenum": 1,
+            "content": "<i>Āgneyī</i> (II)¦ — the wife of Havirdhāna, and mother of six children: also known as Dhiṣaṇā. <div n='P'/>Br. II. 37. 23; Vā. 63. 23; Vi. I. 14. 2; M. 4. 45."
+        },
+        {
+            "word": "आग्नेयी",
+            "eid": "1166",
+            "pagenum": 1,
+            "content": "<i>Āgneyī</i> (III)¦ — the wife of Ūru. <div n='P'/>M. 4. 43."
+        },
+        {
+            "word": "आग्नेयी",
+            "eid": "1167",
+            "pagenum": 1,
+            "content": "<i>Āgneyī</i> (IV)¦ — the wife of Kuru and mother of six sons. <div n='P'/>Vi. I. 13. 6."
+        }
     ]
 }

@@ -23,5 +23,45 @@
             "pagenum": 694,
             "content": "vEDa¦ <i>a. (f. धी)</i> Enjoined by a rule, ritual."
         }
+    ],
+    "MD": [
+        {
+            "word": "वैध",
+            "eid": "17148",
+            "pagenum": 300,
+            "content": "वैध¦ vaidha, <lex>a.</lex> (<b>ī</b>) prescribed, expressly enjoined 🞄[vidhi]."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वैध",
+            "eid": "207184",
+            "pagenum": 1023,
+            "content": "वैध ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> विधि) enjoined by rule or precept, prescribed, legal (-त्व <lex type='phw'>n.</lex>), <ls>TS.</ls>, <ab>Sch.</ab>; <ls>KātyŚr.</ls>, <ab>Sch.</ab> &c.<info phwchild='207184.1'/><info lex='m:f#I:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वैध",
+            "eid": "45055",
+            "pagenum": 969,
+            "content": "वैध¦ <i>vaidha, as, ī, am</i> (fr. <i>vidhi</i>), enjoined by rule, conformable to rule, prescribed, appointed, giving rules or directions, preceptive, ritual; legal."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैध",
+            "eid": "107732",
+            "pagenum": 6,
+            "content": "वैध¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>vorgeschrieben, ausdrücklich angeordnet</i> <ls>NAIṢ. 8,20</ls>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>Comm. zu NYĀYAM. 1,1,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैध",
+            "eid": "95784",
+            "pagenum": 6,
+            "content": "वैध¦ (von 1. विधि) <lex>adj.</lex> (f. ई) <i>vorgeschrieben, ausdrücklich angeordnet</i> (Gegens. ऐच्छिक) <ls>NĪLAK.</ls> zu <ls>MBH. 13, 2456.</ls> Schol. zu <ls>KĀTY. ŚR. 890, 1.</ls> Comm. zu <ls>TS. I, 257, 3.</ls> अ° <ls>KULL.</ls> zu <ls>M. 5, 50. 55. 6, 31.</ls>"
+        }
     ]
 }

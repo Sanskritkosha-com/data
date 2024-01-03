@@ -7,5 +7,35 @@
             "pagenum": 724,
             "content": "Sulka-sTAna¦ <i>n.</i> a custom-house."
         }
+    ],
+    "MW": [
+        {
+            "word": "शुल्कस्थान",
+            "eid": "219875",
+            "pagenum": 1084,
+            "content": "शुल्क—स्थान ¦ <lex>n.</lex> a toll-house, tax-office, custom house, <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex='n'/>"
+        },
+        {
+            "word": "शुल्कस्थान",
+            "eid": "219876",
+            "pagenum": 1084,
+            "content": "¦ any object of taxation or duty, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शुल्कस्थान",
+            "eid": "113674",
+            "pagenum": 6,
+            "content": "शुल्कस्थान¦ <lex>n.</lex> <i>Zollstätte, Steuerplatz</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शुल्कस्थान",
+            "eid": "100492",
+            "pagenum": 7,
+            "content": "शुल्कस्थान¦ <lex>n.</lex> <i>Zollstätte, Steuerplatz</i> <ls>M. 8, 398. 400.</ls> <ls>YĀJÑ. 2, 262.</ls>"
+        }
     ]
 }

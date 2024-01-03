@@ -47,5 +47,51 @@
             "pagenum": 693,
             "content": "vERa¦ <i>m.</i> A maker of bamboo-work."
         }
+    ],
+    "MD": [
+        {
+            "word": "वैण",
+            "eid": "17120",
+            "pagenum": 300,
+            "content": "वैण¦ vaiṇa, <lex>m.</lex> worker in bamboo, basketmaker."
+        }
+    ],
+    "MW": [
+        {
+            "word": "वैण",
+            "eid": "206811",
+            "pagenum": 1021,
+            "content": "वैण ¦ <lex>m.</lex> (<ab>fr.</ab> वेणु) a maker of bamboo-work (a <ab>partic.</ab> mixed caste), <ls>Āpast.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वैण",
+            "eid": "206812",
+            "pagenum": 1021,
+            "content": "वैण ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1='sAman'>Sāman</s1>, <ls>ĀrṣBr.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वैण",
+            "eid": "45004",
+            "pagenum": 968,
+            "content": "वैण¦ <i>vaiṇa, as,</i> m. (fr. <i>veṇu</i>), a cutter of bamboos, a maker of bamboo-work; N. of a Ṛṣi."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वैण",
+            "eid": "107595",
+            "pagenum": 6,
+            "content": "वैण¦ <div n='1'>— 1〉 <lex>m.</lex> <i>Rohrarbeiter</i>. Im System <i>eine <ab>best.</ab> Mischlingskaste</i> <ls>ĀPAST.</ls> <div n='1'>— 2〉 <lex>n.</lex> Name eines <is>Sāman</is> <ls>ĀRṢ. BR.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वैण",
+            "eid": "95675",
+            "pagenum": 6,
+            "content": "वैण¦ (von वेणु) <lex>m.</lex> <i>Rohrarbeiter</i> <ls>M. 4, 215</ls> (वेण v. l.). <ls>YĀJÑ. 1, 161.</ls>"
+        }
     ]
 }

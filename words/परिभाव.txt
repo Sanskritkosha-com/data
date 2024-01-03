@@ -52,5 +52,49 @@
             "pagenum": 418,
             "content": "pariBAva¦ <i>m.</i> The same as परिभव q.v."
         }
+    ],
+    "MW": [
+        {
+            "word": "परिभाव",
+            "eid": "118115",
+            "pagenum": 598,
+            "content": "परि-भाव <hom>a</hom> ¦ °वन &c. See परि-भू."
+        },
+        {
+            "word": "परिभाव",
+            "eid": "118163",
+            "pagenum": 598,
+            "content": "परि-भाव <hom>b</hom> ¦ (also परि-भ्°) <lex>m.</lex> contempt, <ls>Pañc. i, 258/259</ls> (<ab>B.</ab> °भव). <info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "परिभाव",
+            "eid": "27693",
+            "pagenum": 545,
+            "content": "<i>Pari-bhāva, as,</i>¦ m. <i>= pari-bhava,</i> q. v."
+        }
+    ],
+    "PW": [
+        {
+            "word": "परिभाव",
+            "eid": "64047",
+            "pagenum": 4,
+            "content": "परिभाव¦ <lex>m.</lex> <i>Geringachtung</i> <ls>PAÑCAT. 56,8</ls>. °भव <ls>PAÑCAT. ed. Bomb. 1,59,12</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "परिभाव",
+            "eid": "42966",
+            "pagenum": 4,
+            "content": "परिभाव¦ <lex>m.</lex> = परिभव <ls>P. 3, 3, 55.</ls> <ls>AK. 1, 1, 7, 22.</ls> <ls>H. 441.</ls> परीभाव <ls>BHAR.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "परिभाव",
+            "eid": "78190",
+            "pagenum": 5,
+            "content": "परिभाव¦ <ls>PAÑCAT. 56, 8.</ls>"
+        }
     ]
 }

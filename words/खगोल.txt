@@ -7,5 +7,35 @@
             "pagenum": 224,
             "content": "Ka-gola¦ <i>m.</i> the celestial sphere."
         }
+    ],
+    "MW": [
+        {
+            "word": "खगोल",
+            "eid": "60739",
+            "pagenum": 334,
+            "content": "ख—गोल ¦ <lex>m.</lex> the vault or circle of heaven, celestial sphere, <ls>Gol.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "खगोल",
+            "eid": "33200",
+            "pagenum": 2,
+            "content": "*खगोल¦ <lex>m.</lex> <i>Himmelssphäre</i> <ls>GOLĀDHY. 6,9. 31</ls>. °क <lex>m.</lex> <ab>dass.</ab> <ls n='Chr.'>6,2</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खगोल",
+            "eid": "20776",
+            "pagenum": 2,
+            "content": "खगोल¦ (ख + गोल) <lex>m.</lex> <i>das Himmelsgewölbe</i> <ls>ŚKDR.</ls> <ls>WILS.</ls>"
+        },
+        {
+            "word": "खगोल",
+            "eid": "72213",
+            "pagenum": 5,
+            "content": "खगोल¦ <ls>GOLĀDHY. 6, 1. 8. fg. 31.</ls>"
+        }
     ]
 }

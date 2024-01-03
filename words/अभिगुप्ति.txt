@@ -23,5 +23,43 @@
             "pagenum": 46,
             "content": "aBigupti¦ <i>f.</i> Guarding, protecting."
         }
+    ],
+    "MW": [
+        {
+            "word": "अभिगुप्ति",
+            "eid": "11286",
+            "pagenum": 61,
+            "content": "अभि/-गुप्ति ¦ <lex>f.</lex> guarding, protecting, <ls>ŚBr.</ls> &c.<info lex='f'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अभिगुप्ति",
+            "eid": "4204",
+            "pagenum": 61,
+            "content": "<i>Abhi-gupti, is,</i>¦ f. guarding, protecting."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अभिगुप्ति",
+            "eid": "7286",
+            "pagenum": 1,
+            "content": "अभि/गुप्ति¦ <lex>f.</lex> <i>Bewahrung, Behütung</i>. आत्माभि° <ls>MBH. 12,299,7</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अभिगुप्ति",
+            "eid": "4498",
+            "pagenum": 1,
+            "content": "अभि/गुप्ति¦ (von गुप् mit अभि) <lex>f.</lex> <i>Bewahrung, Behütung</i> <ls>ŚAT. BR. 1, 2, 5, 20. 5, 1, 17.</ls>"
+        },
+        {
+            "word": "अभिगुप्ति",
+            "eid": "64398",
+            "pagenum": 5,
+            "content": "अभिगुप्ति¦, स्वजनाभि° <ls>BHĀG. P. 10, 84, 18.</ls>"
+        }
     ]
 }

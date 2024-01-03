@@ -44,5 +44,43 @@
             "pagenum": 671,
             "content": "vimaya¦ <i>m.</i> Barter, exchange."
         }
+    ],
+    "MW": [
+        {
+            "word": "विमय",
+            "eid": "198644",
+            "pagenum": 979,
+            "content": "वि-मय <hom>a</hom> ¦ See under वि-√ मे, <ab>p.</ab> 981."
+        },
+        {
+            "word": "विमय",
+            "eid": "198939",
+            "pagenum": 981,
+            "content": "वि-मय <hom>b</hom> ¦ <lex>m.</lex> exchange, barter, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "विमय",
+            "eid": "43539",
+            "pagenum": 932,
+            "content": "विमय¦ <i>vi-maya, as,</i> m. (see rt. <i>me</i>), change, exchange, barter."
+        }
+    ],
+    "PW": [
+        {
+            "word": "विमय",
+            "eid": "103750",
+            "pagenum": 6,
+            "content": "*विमय¦ <lex>m.</lex> <i>Tausch</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विमय",
+            "eid": "92563",
+            "pagenum": 6,
+            "content": "विमय¦ <lex>m.</lex> = निमय, विनिमय <i>Tausch</i> <ls>H. 870.</ls>"
+        }
     ]
 }

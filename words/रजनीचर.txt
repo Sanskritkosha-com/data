@@ -15,5 +15,53 @@
             "pagenum": 603,
             "content": "rajanI-cara¦ <i>m.</i> a demon, a goblin."
         }
+    ],
+    "MW": [
+        {
+            "word": "रजनीचर",
+            "eid": "173945",
+            "pagenum": 863,
+            "content": "रजनी—चर ¦ <lex>mfn.</lex> wandering in the night (as the moon), <ls>Hariv.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "रजनीचर",
+            "eid": "173946",
+            "pagenum": 863,
+            "content": "रजनी—चर ¦ <lex>m.</lex> a <ab n='night'>n°</ab>-rover (-नाथ <lex type='phw'>m.</lex> ‘lord of the <ab n='night'>n°</ab>-<ab n='rover'>r°</ab>’, the moon; <ab>w.r.</ab> रजनी-चरन्°), <ls>Hit.</ls><info phwchild='173949.1'/><info lex='m'/>"
+        },
+        {
+            "word": "रजनीचर",
+            "eid": "173947",
+            "pagenum": 863,
+            "content": "रजनी—चर ¦ <lex>m.</lex> a <s1 slp1='rAkzasa'>Rākṣasa</s1>, <ls>R.</ls><info lex='m'/>"
+        },
+        {
+            "word": "रजनीचर",
+            "eid": "173948",
+            "pagenum": 863,
+            "content": "¦ a <ab n='night'>n°</ab>-watcher, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रजनीचर",
+            "eid": "173949",
+            "pagenum": 863,
+            "content": "¦ a thief, <ls>ib.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "रजनीचर",
+            "eid": "92092",
+            "pagenum": 5,
+            "content": "रजनीचर¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>in der Nacht wandelnd</i> (Mond). <div n='1'>— 2〉 <lex>m.</lex> <div n='2'>— a〉 <i>Nachtwandler</i>. <div n='2'>— b〉 <i>ein</i> <is>Rākṣasa</is> <ls>KĀD. 23,9</ls>. <div n='2'>— c〉 <i>Nachtwächter</i>. <div n='2'>— d〉 <i>Dieb</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "रजनीचर",
+            "eid": "83034",
+            "pagenum": 6,
+            "content": "रजनीचर¦ <lex>adj.</lex> <i>in der Nacht wandelnd</i>, Beiw. des Mondes <ls>HARIV. 11802.</ls> °नाथ <i>der Schutzherr der Nachtwandler</i> oder <i>der Oberste der Nachtwandler</i> als Bez. <i>des Mondes</i> <ls>Spr. 2583.</ls> रजनीचर <lex>m.</lex> <i>ein</i> <is>Rākṣasa</is> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>R. 3, 31, 4.</ls> <ls n='R. 3, 31,'>38.</ls> <ls n='R. 3,'>53, 61.</ls> <ls n='R.'>6, 28, 12.</ls> <ls n='R. 6,'>30, 4.</ls> <ls n='R.'>7, 5, 4.</ls> Nach <ls>WILSON</ls> und <ls>ŚKDR.</ls> auch <i>Nachtwächter</i> und <i>Dieb.</i>"
+        }
     ]
 }

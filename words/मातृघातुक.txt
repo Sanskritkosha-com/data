@@ -7,5 +7,35 @@
             "pagenum": 566,
             "content": "mAtf-GAtuka¦ <i>m.</i> 1. a matricide; 2. an epithet of Indra."
         }
+    ],
+    "MW": [
+        {
+            "word": "मातृघातुक",
+            "eid": "162275",
+            "pagenum": 807,
+            "content": "मातृ—घातुक ¦ <lex>m.</lex> <ab>id.</ab><info lex='m'/>"
+        },
+        {
+            "word": "मातृघातुक",
+            "eid": "162276",
+            "pagenum": 807,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='indra'>Indra</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "मातृघातुक",
+            "eid": "85855",
+            "pagenum": 5,
+            "content": "*मातृघातुक¦ <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "मातृघातुक",
+            "eid": "59646",
+            "pagenum": 5,
+            "content": "मातृघातुक¦ (1. मातर् + घा°) <lex>m.</lex> dass.; Bein. <is>Indra's</is> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
+        }
     ]
 }

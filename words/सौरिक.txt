@@ -53,5 +53,75 @@
             "pagenum": 800,
             "content": "sOrika¦ <i>(II) m.</i> 1. Saturn; 2. heaven, paradise; 3. a vender of spirituous liquor."
         }
+    ],
+    "MD": [
+        {
+            "word": "सौरिक",
+            "eid": "19803",
+            "pagenum": 361,
+            "content": "सौरिक¦ saur-ika, <lex>a.</lex> [surā] due for spirituous 🞄liquor (<i>money</i>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "सौरिक",
+            "eid": "253819",
+            "pagenum": 1254,
+            "content": "<hom>1.</hom> सौरिक ¦ <lex>mfn.</lex> (for <hom>2.</hom> See <pcol>p. 1255, col. 1</pcol>) heavenly, celestial, <ls>W.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सौरिक",
+            "eid": "253820",
+            "pagenum": 1254,
+            "content": "सौरिक ¦ <lex>m.</lex> the planet Saturn, <ls>MW.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सौरिक",
+            "eid": "253821",
+            "pagenum": 1254,
+            "content": "¦ heaven, paradise, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सौरिक",
+            "eid": "253913",
+            "pagenum": 1255,
+            "content": "<hom>2.</hom> सौरिक ¦ <lex>mfn.</lex> (<ab>fr.</ab> सुरा; for <hom>1.</hom> सौरिक See <pcol>p. 1254, col. 3</pcol>) relating to or due for spirituous liquor (as money), <ls>Mn. viii, 159.</ls><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सौरिक",
+            "eid": "52891",
+            "pagenum": 1140,
+            "content": "<i>Saurika, as, ī, am,</i>¦ celestial; spirituous, vinous; anything (such as money) due for spirits; (<i>as</i>), m. Saturn; heaven, paradise; a vender of spirituous liquor."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सौरिक",
+            "eid": "130109",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> सौरिक¦ <lex>Adj.</lex> <i>zu Branntwein in Beziehung stehend</i> (Schulden) <ls>VASIṢṬHA 16,31</ls>."
+        },
+        {
+            "word": "सौरिक",
+            "eid": "130110",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> *सौरिक¦ <lex>m.</lex> = स्वर्ग."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सौरिक",
+            "eid": "113314",
+            "pagenum": 7,
+            "content": "1. सौरिक¦ (von सुरा) <lex>adj.</lex> <i>zu Branntwein in Beziehung stehend</i>: Schulden <ls>M. 8, 159.</ls>"
+        },
+        {
+            "word": "सौरिक",
+            "eid": "113315",
+            "pagenum": 7,
+            "content": "2. सौरिक¦ (von स्वर्) <lex>m.</lex> = स्वर्ग <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

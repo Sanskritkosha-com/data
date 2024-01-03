@@ -52,5 +52,53 @@
             "pagenum": 615,
             "content": "revA¦ <i>f.</i> Name of the river Narmadā, रेवां द्रक्ष्यस्युपलविषमे विन्ध्यपादे विशीर्णाम् <ls>Megh.</ls>i.19."
         }
+    ],
+    "MD": [
+        {
+            "word": "रेवा",
+            "eid": "15370",
+            "pagenum": 258,
+            "content": "रेवा¦ revā, <lex>f.</lex> <ab>N.</ab> <i>of a river</i> = Narmadā."
+        }
+    ],
+    "MW": [
+        {
+            "word": "रेवा",
+            "eid": "179484",
+            "pagenum": 887,
+            "content": "रेवा <hom>a</hom> ¦ <lex>f.</lex> See below<info lex='f'/>"
+        },
+        {
+            "word": "रेवा",
+            "eid": "179494",
+            "pagenum": 887,
+            "content": "रेवा <hom>b</hom> ¦ <lex>f.</lex> the indigo plant, <ls>L.</ls><info lex='f'/>"
+        },
+        {
+            "word": "रेवा",
+            "eid": "179495",
+            "pagenum": 887,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='rati'>Rati</s1> (the wife of <s1 slp1='kAma-deva'>Kāma-deva</s1>), <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रेवा",
+            "eid": "179496",
+            "pagenum": 887,
+            "content": "¦ (in music) a <ab>partic.</ab> <s1 slp1='rAga'>Rāga</s1>, <ls>Saṃgīt.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "रेवा",
+            "eid": "179497",
+            "pagenum": 887,
+            "content": "¦ <ab>N.</ab> of the <s1 slp1='narma-dA'>Narma-dā</s1> or Nerbudda river (which rises in one of the <s1 slp1='vinDya'>Vindhya</s1> mountains called <s1 slp1='Amra-kUwa'>Āmra-kūṭa</s1> or more commonly <s1 slp1='amara-kaRwaka'>Amara-kaṇṭaka</s1> in Gondwana, and after a westerly course of about 800 miles falls into the sea below Broach), <ls>Kāv.</ls>; <ls>Var.</ls> &c.<info lex='inh'/>"
+        }
+    ],
+    "PUI": [
+        {
+            "word": "रेवा",
+            "eid": "11777",
+            "pagenum": 3,
+            "content": "<i>Revā</i>¦ — a R. near the Māhiṣmatī in the Bhārata varṣa. <div n='P'/>Bhā. X. 79. 21; V. 19. 18."
+        }
     ]
 }

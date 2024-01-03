@@ -44,5 +44,43 @@
             "pagenum": 835,
             "content": "hUrava¦ <i>m.</i> A jackal."
         }
+    ],
+    "MW": [
+        {
+            "word": "हूरव",
+            "eid": "263604",
+            "pagenum": 1301,
+            "content": "हू—रव <hom>a</hom> ¦ <lex>m.</lex> ‘making the sound हू’, a jackal, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "हूरव",
+            "eid": "263618",
+            "pagenum": 1302,
+            "content": "हू-रव <hom>b</hom>. ¦ See under <hom>3.</hom> हू, <ab>p.</ab> 1301."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "हूरव",
+            "eid": "54273",
+            "pagenum": 1175,
+            "content": "हूरव¦ <i>hū-rava.</i> See under <i>hū.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "हूरव",
+            "eid": "135067",
+            "pagenum": 7,
+            "content": "*हूरव¦ <lex>m.</lex> <i>Schakal</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "हूरव",
+            "eid": "117319",
+            "pagenum": 7,
+            "content": "हूरव¦ <lex>m.</lex> <i>Schakal (den Laut</i> हू <i>ausstossend</i>) <ls>TRIK. 2, 5, 7</ls> (vgl. Corrigg.). <ls>H. 1290.</ls>"
+        }
     ]
 }

@@ -31,5 +31,49 @@
             "pagenum": 649,
             "content": "vAMSika¦ <i>m.</i> 1. A bamboo-cutter; 2. a flute-player."
         }
+    ],
+    "MW": [
+        {
+            "word": "वांशिक",
+            "eid": "189755",
+            "pagenum": 935,
+            "content": "वांशिक ¦ <lex>mfn.</lex> = वांश-भारिक, <ls>Pāṇ.</ls>; <ls>ib.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "वांशिक",
+            "eid": "189756",
+            "pagenum": 935,
+            "content": "वांशिक ¦ <lex>m.</lex> a flute-player, piper, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "वांशिक",
+            "eid": "189757",
+            "pagenum": 935,
+            "content": "¦ a bamboo-cutter, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "वांशिक",
+            "eid": "41737",
+            "pagenum": 900,
+            "content": "<i>Vāṃśika, as,</i>¦ a bamboo-cutter, &c.; a fluteplayer, piper, fifer."
+        }
+    ],
+    "PW": [
+        {
+            "word": "वांशिक",
+            "eid": "99774",
+            "pagenum": 6,
+            "content": "*वांशिक¦ <div n='1'>— 1〉 <lex>Adj.</lex> <ab>dass.</ab> <div n='1'>— 2〉 <lex>m.</lex> <i>Flötenspieler</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "वांशिक",
+            "eid": "89284",
+            "pagenum": 6,
+            "content": "वांशिक¦ (von वंश) <div n='1'> 1) <lex>adj.</lex> dass. <ls>P. 5, 1, 50.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Flötenspieler</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

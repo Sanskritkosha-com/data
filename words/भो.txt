@@ -53,5 +53,57 @@
             "pagenum": 209,
             "content": "<b>bho,</b>¦ <i>see</i> <ls n='wg,176'>176a</ls> (in 2d ed., see <ls n='wg,174'>174b</ls>)."
         }
+    ],
+    "MD": [
+        {
+            "word": "भो",
+            "eid": "13402",
+            "pagenum": 210,
+            "content": "भो¦ bho = bhoḥ <i>before soft letters</i>."
+        }
+    ],
+    "MW": [
+        {
+            "word": "भो",
+            "eid": "153077",
+            "pagenum": 767,
+            "content": "भो <hom>a</hom> ¦ See भोस्, <pcol>p. 768, col. 2</pcol>."
+        },
+        {
+            "word": "भो",
+            "eid": "153354",
+            "pagenum": 768,
+            "content": "भो <hom>b</hom> ¦ in <ab>comp.</ab> for भोस्."
+        },
+        {
+            "word": "भो",
+            "eid": "153358",
+            "pagenum": 768,
+            "content": "भोः ¦ in <ab>comp.</ab> for भोस्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भो",
+            "eid": "35832",
+            "pagenum": 722,
+            "content": "भो¦ <i>bho.</i> See <i>bhos,</i> p. 723, col. 3."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भो",
+            "eid": "80985",
+            "pagenum": 4,
+            "content": "भो¦ <ab>s.</ab> भोस्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भो",
+            "eid": "55799",
+            "pagenum": 5,
+            "content": "भो¦ s. भोस् ."
+        }
     ]
 }

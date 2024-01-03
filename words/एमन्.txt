@@ -7,5 +7,27 @@
             "pagenum": 301,
             "content": "<b>éman,</b>¦ <ab>n.</ab>, <i>Bahn, Gang</i> [von i]. <ab>Vgl.</ab> kṛṣṇá, tigmá. <div n='TS'>-a {58,4}; {303,9}; {444,4}. <div n='TS'>-abhis {413,2}."
         }
+    ],
+    "MW": [
+        {
+            "word": "एमन्",
+            "eid": "40094",
+            "pagenum": 231,
+            "content": "ए/म, अम्, ए/मन्, अ, ¦ <lex>n.</lex> course, way, <ls>RV.</ls>; <ls>VS.</ls>; <info lex='n'/><info or='40093,ema;40094,eman'/>"
+        },
+        {
+            "word": "एमन्",
+            "eid": "40094.1",
+            "pagenum": 231,
+            "content": "एमन् ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n='greek'>οἶμος</lang>, <lang n='greek'>οἴμη</lang> <ab>Lith.</ab> <etym>eisme</etym>.]"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "एमन्",
+            "eid": "13527",
+            "pagenum": 1,
+            "content": "ए/मन्¦ (wie eben) <lex>n.</lex> <i>Bahn, Gang</i>: कृ\\ष्णं त\\ एम^ <ls>ṚV. 1, 58, 4.</ls> <ls n='ṚV.'>4, 7, 9.</ls> अ\\पां पृ\\ष्ठे स^मु\\द्रस्येम^न् <ls>VS. 13, 17.</ls> अ\\पां त्वेम^न्त्सादयामि <ls n='VS.'>53</ls> (<ls>P. 6, 1, 94</ls>, <is>Vārtt</is>. 5). दू\\रे\\दृशो\\ ये चि\\तय^न्त\\ एम^भिः <ls>ṚV. 5, 59, 2.</ls> ति\\ग्मं चि\\देम\\ महि\\ वर्पो^ अस्य <ls n='ṚV.'>6, 3, 4.</ls>"
+        }
     ]
 }

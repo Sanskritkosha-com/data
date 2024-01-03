@@ -82,5 +82,77 @@
             "pagenum": 4,
             "content": "aguru¦ <i>(II) m.n.</i> The fragrant aloe wood and tree."
         }
+    ],
+    "MD": [
+        {
+            "word": "अगुरु",
+            "eid": "251",
+            "pagenum": 3,
+            "content": "अगुरु¦ a-guru, <lex>a.</lex> not heavy, light; <lex>m.</lex> <lex>n.</lex> 🞄aloe-wood."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अगुरु",
+            "eid": "864",
+            "pagenum": 4,
+            "content": "अ-गुरु ¦ <lex>mfn.</lex> not heavy, light<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अगुरु",
+            "eid": "865",
+            "pagenum": 4,
+            "content": "¦ (in prosody) short as a short vowel alone or before a single consonant<info lex='inh'/>"
+        },
+        {
+            "word": "अगुरु",
+            "eid": "866",
+            "pagenum": 5,
+            "content": "अ-गुरु ¦ <lex>mn.</lex> the fragrant <bot>Aloe</bot> wood and tree, <bot>Aquilaria Agallocha</bot>.<info lex='m:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अगुरु",
+            "eid": "246",
+            "pagenum": 4,
+            "content": "अगुरु¦ <i>a-guru, us, ū</i> or <i>vī, u,</i> not heavy, light; (in prosody) short as a short vowel alone or before a single consonant; (<i>us, u</i>), m. n. the fragrant Aloe wood and tree, Aquiluria Agallocha; the Śiśu tree; the tree which yields Bdellium, Amyris Agallocha. <i>—Aguru-śiṃśapā,</i> f. the Śiśu tree, (probably distinct words, <i>śiṃśapā</i> being added to explain <i>aguru.</i>)"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अगुरु",
+            "eid": "482",
+            "pagenum": 1,
+            "content": "अगुरु¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>nicht schwer, leicht</i>. <div n='2'>— b〉 <i>prosodisch kurz</i>. <div n='1'>— 2〉 <lex>m.</lex> <lex>n.</lex> <div n='2'>— a〉 <i><bot>Amyris Agallocha</bot>, Aloeholz</i> (sehr wohlriechend). <div n='2'>— b〉 *<i><bot>Dalbergia Sissoo</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अगुरु",
+            "eid": "335",
+            "pagenum": 1,
+            "content": "अगुरु¦ (3. अ + गुरु) <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>nicht schwer, leicht</i> <ls>TRIK. 3, 3, 328.</ls> <ls>H. an. 3, 520.</ls> <ls>MED. r. 112.</ls> <div n='2'>— b) <i>kurz</i> (Silbe) <ls>ŚRUT. 8.</ls> (<ls>BR. 10.).</ls> <div n='1'>— 2) subst. Name verschiedener Pflanzen: <i>Amyris Agallocha</i> <lex>m.</lex> <lex>n.</lex> <ls>AK. 2, 6, 3, 28</ls> <F>* <ls>ŚKDR.</ls> trennt nicht, und wohl mit Recht, कालागुर्वगुरुः von den in der vorhergehenden Zeile aufgeführten Worten.</F> <ls>H. 640.</ls> n. <ls>MED. r. 112.</ls> <i>Aquilaria ovata, Agallocha</i>, <ls>SUŚR.</ls> <i>Dalbergia Sissoo</i> (शिंशपा) <ls>AK. 2, 4, 2, 43.</ls> <ls>MED. r. 112.</ls> अगुरूणि <ls>R. 5, 22, 9.</ls> धूपैश्चागुरुगन्धिभिः <ls n='R.'>1, 33, 13.</ls> संनद्धाश्चन्दनागुरुभूषिताः <ls n='R.'>2, 16, 34.</ls> राजमार्गं ययौ रामो मध्येनागुरुधूपितम् <ls n='R.'>2, 17, 2.</ls> अगुरुधूप <ls n='R.'>5, 13, 16.</ls> चितामुदारागुरुसंयुक्ताम् <ls n='R.'>6, 96, 8.</ls> <div n='v'>— Vgl. अगरु, अगुरुशिंशपा und लघु ."
+        },
+        {
+            "word": "अगुरु",
+            "eid": "117971",
+            "pagenum": 7,
+            "content": "अगुरु¦ <div n='1'> 3) <ls>RĀJAN. 12, 89.</ls> <ls>SUŚR. 1, 138, 5. 2, 185, 10. 550, 14.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अगुरु",
+            "eid": "111",
+            "pagenum": 1,
+            "content": "अगुरु¦ 3〉 <lex>m.</lex> <i>kein Lehrer</i> <ls>ĀPAST.</ls>"
+        },
+        {
+            "word": "अगुरु",
+            "eid": "9679",
+            "pagenum": 7,
+            "content": "अगुरु¦ I. 1."
+        }
     ]
 }

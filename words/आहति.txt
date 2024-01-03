@@ -39,5 +39,63 @@
             "pagenum": 114,
             "content": "Ahati¦ <i>f.</i> 1. A blow, a hit; 2. killing; 3. multiplication (in math.)."
         }
+    ],
+    "MD": [
+        {
+            "word": "आहति",
+            "eid": "4039",
+            "pagenum": 44,
+            "content": "आहति¦ ā-hati, <lex>f.</lex> blow, knock, stroke."
+        }
+    ],
+    "MW": [
+        {
+            "word": "आहति",
+            "eid": "28299",
+            "pagenum": 162,
+            "content": "आ-हति ¦ <lex>f.</lex> hitting, striking<info lex='f'/>"
+        },
+        {
+            "word": "आहति",
+            "eid": "28300",
+            "pagenum": 162,
+            "content": "¦ a blow, hit, <ls>Kathās.</ls>; <ls>Ratnāv.</ls>; <ls>Kpr.</ls> &c.<info lex='inh'/>"
+        },
+        {
+            "word": "आहति",
+            "eid": "28301",
+            "pagenum": 162,
+            "content": "¦ (in arith.) a product, <ls>Āryabh.</ls>; <ls>Bījag.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "आहति",
+            "eid": "9751",
+            "pagenum": 136,
+            "content": "<i>Ā-hati, is,</i>¦ f. hitting, striking, a blow, a hit; killing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "आहति",
+            "eid": "16518",
+            "pagenum": 1,
+            "content": "आहति¦ <lex>f.</lex> <div n='1'>— 1〉 <i>Schlag, Stoss</i>. <div n='1'>— 2〉 <i>Product einer Multiplication</i> <ls>Comm. zu ĀRYABH. 2,17</ls>. <ls>BĪJAG. 70</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "आहति",
+            "eid": "9866",
+            "pagenum": 1,
+            "content": "आहति¦ (von हन् mit आ) <lex>f.</lex> <i>Schlag</i>: पादाहति <i>mit dem Fusse</i> <ls>KATHĀS. 20, 15.</ls>"
+        },
+        {
+            "word": "आहति",
+            "eid": "67108",
+            "pagenum": 5,
+            "content": "आहति¦, पादाहति <ls>Spr. 2580.</ls> <ls>RATNĀV. 12, 4.</ls> पादतलाहति <ls>Spr. 2579.</ls> रुष्टेन्द्रवज्राहति <ls>CHANDOM. 27.</ls> कराहति <ls>KATHĀS. 97, 6.</ls> लगुडाहति <ls n='KATHĀS.'>68. 58. fg. 114, 112.</ls> वाताहति <i>ein heftiger Windstoss</i> <ls n='KATHĀS.'>113, 58.</ls> जलाहति <i>ein</i> <i>heftiger Regenguss</i> <ls>Spr. 4066.</ls>"
+        }
     ]
 }

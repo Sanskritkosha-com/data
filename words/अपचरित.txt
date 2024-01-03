@@ -39,5 +39,43 @@
             "pagenum": 35,
             "content": "apa-carita¦ <i>n.</i> fault offence, प्रसवो ममापचरितैर्विष्टम्भितो वीरुधाम् <ls>Sak.</ls>v."
         }
+    ],
+    "MW": [
+        {
+            "word": "अपचरित",
+            "eid": "9096",
+            "pagenum": 48,
+            "content": "अप-चरित ¦ <lex>mfn.</lex> gone away, departed, dead<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अपचरित",
+            "eid": "9097",
+            "pagenum": 48,
+            "content": "अप-चरित ¦ <lex>n.</lex> fault, offence, <ls>Śāk.</ls><info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अपचरित",
+            "eid": "3188",
+            "pagenum": 49,
+            "content": "<i>Apa-carita, as, ā, am,</i>¦ gone away, departed, dead; (<i>am</i>), n. fault, offence."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अपचरित",
+            "eid": "5868",
+            "pagenum": 1,
+            "content": "अपचरित¦ <lex>n.</lex> <i>Vergehen</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अपचरित",
+            "eid": "3711",
+            "pagenum": 1,
+            "content": "अपचरित¦ (von चर् mit अप) <lex>n.</lex> <i>Vergehen</i>: आहो स्वित्प्रसवो ममापचरितैर्विष्टम्भितो वीरुधाम् <ls>ŚĀK. 106.</ls>"
+        }
     ]
 }

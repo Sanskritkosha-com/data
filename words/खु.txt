@@ -47,5 +47,37 @@
             "pagenum": 148,
             "content": "<b>khu,</b>¦ <i>a Prakrit form for</i> <b>khalu.</b>"
         }
+    ],
+    "MW": [
+        {
+            "word": "खु",
+            "eid": "61963",
+            "pagenum": 340,
+            "content": "खु ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> खवते, to sound, <ls>Dhātup. xxii, 58.</ls><info westergaard='KuN,22.58,01.0672'/><info verb='root' cp='1Ā'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "खु",
+            "eid": "16899",
+            "pagenum": 276,
+            "content": "खु¦ <i>khu,</i> cl. 1. A. <i>khavate,</i> &c., to sound."
+        }
+    ],
+    "PW": [
+        {
+            "word": "खु",
+            "eid": "33831",
+            "pagenum": 2,
+            "content": "*√खु¦, खवते (शब्दे)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "खु",
+            "eid": "21227",
+            "pagenum": 2,
+            "content": "खु¦, ख/वते <i>einen best. Ton von sich geben</i> <ls>DHĀTUP. 22, 58.</ls>"
+        }
     ]
 }

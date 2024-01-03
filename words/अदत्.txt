@@ -31,5 +31,41 @@
             "pagenum": 12,
             "content": "adat¦ <i>a.</i> Tooth-less."
         }
+    ],
+    "MD": [
+        {
+            "word": "अदत्",
+            "eid": "884",
+            "pagenum": 8,
+            "content": "अदत्¦ ad-at, <ab>pr.</ab> <ab>pt.</ab> eating."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अदत्",
+            "eid": "3584",
+            "pagenum": 17,
+            "content": "<hom>1.</hom> अद/त् ¦ <lex>mfn.</lex> eating, <ls>RV. x, 4, 4</ls>, &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अदत्",
+            "eid": "3604",
+            "pagenum": 18,
+            "content": "<hom>2.</hom> अ-द/त् [<ls>RV.</ls>] or अदत्क [<ls>ChUp.</ls>], ¦ <lex>mfn.</lex> toothless. (for <hom>1.</hom> अद/त्, see above.)<info or='3604,adat;3604.1,adatka'/><info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अदत्",
+            "eid": "961",
+            "pagenum": 17,
+            "content": "1. <i>adat, an, atī, at,</i>¦ eating. (For <i>a-dat,</i> see below.)"
+        },
+        {
+            "word": "अदत्",
+            "eid": "970",
+            "pagenum": 17,
+            "content": "अदत् 2¦. <i>a-dat, an, atī, at,</i> or <i>adatka, as, ā,</i> <i>am,</i> toothless. (For <i>adat,</i> see above.)"
+        }
     ]
 }

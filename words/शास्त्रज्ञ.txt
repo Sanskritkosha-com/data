@@ -15,5 +15,35 @@
             "pagenum": 545,
             "content": "शास्त्रज्ञ¦ <lex>a.</lex> versed in science."
         }
+    ],
+    "MW": [
+        {
+            "word": "शास्त्रज्ञ",
+            "eid": "216366",
+            "pagenum": 1069,
+            "content": "शास्त्र—ज्ञ ¦ <lex>mfn.</lex> (or <lex type='hwinfo'>m.</lex>) acquainted with the <ab n='Śāstra' slp1='SAstra'>Ś°</ab>s, learned, a specialist (केवल-श्°, ‘a mere theorist’), <ls>VarBṛS.</ls>; <ls>Suśr.</ls>; <ls>Pañcat.</ls> &c.<info lex='m:f:n'/>"
+        },
+        {
+            "word": "शास्त्रज्ञ",
+            "eid": "216367",
+            "pagenum": 1069,
+            "content": "¦ a mere theorist, <ls>MW.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "शास्त्रज्ञ",
+            "eid": "112016",
+            "pagenum": 6,
+            "content": "शास्त्रज्ञ¦ <lex>Adj.</lex> <i>mit den Lehrbüchern vertraut, gelehrt;</i> <lex>m.</lex> <i>Fachmann</i>. केवल° <i>ein blosser Theoretiker</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शास्त्रज्ञ",
+            "eid": "99176",
+            "pagenum": 7,
+            "content": "शास्त्रज्ञ¦ <lex>adj.</lex> <i>mit den Lehrbüchern vertraut, gelehrt, Fachmann</i>: अनियुक्तो नियुक्तो वा शास्त्रज्ञो वक्तुमर्हति <ls>NĀRADA</ls> im <ls>VYAVAHĀRAT.</ls> nach <ls>ŚKDR.</ls> <ls>Spr. 2556. 2978. 3353.</ls> <ls>VARĀH. BṚH. S. 43, 51. 49, 8. 53, 21.</ls> <ls>WEBER, JYOT. 94.</ls> केवल° <i>ein blosser Theoretiker</i> <ls>SUŚR. 1, 12, 10.</ls>"
+        }
     ]
 }

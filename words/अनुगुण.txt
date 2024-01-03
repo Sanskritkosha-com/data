@@ -55,5 +55,63 @@
             "pagenum": 22,
             "content": "anuguRa¦ <i>a. (f. णा)</i> Congenial with, suitable to, अनुगुणं सर्वास्ववस्थासु यत् <ls>Ut.</ls>i."
         }
+    ],
+    "MW": [
+        {
+            "word": "अनुगुण",
+            "eid": "6218",
+            "pagenum": 32,
+            "content": "अनु-गुण ¦ <lex>mf(आ)n.</lex> having similar qualities, congenial to<info lex='m:f#A:n'/>"
+        },
+        {
+            "word": "अनुगुण",
+            "eid": "6219",
+            "pagenum": 32,
+            "content": "¦ according or suitable to<info lex='inh'/>"
+        },
+        {
+            "word": "अनुगुण",
+            "eid": "6221",
+            "pagenum": 32,
+            "content": "अनु-गुण ¦ <lex>m.</lex> natural peculiarity.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अनुगुण",
+            "eid": "2046",
+            "pagenum": 32,
+            "content": "अनुगुण¦ <i>anu-guṇa, as, ā, am,</i> having similar qualities, congenial with; according or suitable to; (<i>am</i>), ind. naturally; (<i>as</i>), m. natural peculiarity."
+        }
+    ],
+    "PW": [
+        {
+            "word": "अनुगुण",
+            "eid": "4343",
+            "pagenum": 1,
+            "content": "अनुगुण¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>von entsprechenden Eigenschaften, entsprechend, gleichartig</i> <ls n='Chr.'>256,17. 284,14</ls>. Davon °त्व <lex>n.</lex> <ab>Nom. abstr.</ab> <div n='1'>— 2〉 °म् <lex>Adv.</lex> <i>jenach den Verdiensten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अनुगुण",
+            "eid": "2757",
+            "pagenum": 1,
+            "content": "अनुगुण¦ (1. अनु + गुण) <lex>adj.</lex> <lex>f.</lex> आ <i>von entsprechenden Eigenschaften, gleichartig, entsprechend</i>: कान्तारतापसाविक्षू वंशकानुगुणौ मतौ <ls>SUŚR. 1, 187, 2.</ls> (वीणा) उत्कण्ठितस्य हृदयानुगुणा वयस्या <ls>MṚCCH. 43, 16.</ls> अनुगुणीभू <i>gleicher Art werden</i> <ls>VIKR. 49.</ls> Nom. abstr. <ls>KĀVYA-PR. 59, 16</ls> : काव्यानुगुणत्वम् . Davon अनुगुणिक nach <is>gaṇa</is> वसन्तादि ."
+        },
+        {
+            "word": "अनुगुण",
+            "eid": "63569",
+            "pagenum": 5,
+            "content": "अनुगुण¦, अनुगुणीभूत <ls>VIKR. 49</ls> schlechte Lesart für शतगुणी°; vgl. <ls>Spr. 1403.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "अनुगुण",
+            "eid": "11175",
+            "pagenum": 7,
+            "content": "अनुगुण¦ I. Am Ende eines <ab>Comp.</ab> <i>zuträglich, förderlich</i> <ls>JĀTAKAM. 2,1</ls>. <ls n='JĀTAKAM.'>26,42</ls>."
+        }
     ]
 }

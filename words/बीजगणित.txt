@@ -47,5 +47,35 @@
             "pagenum": 509,
             "content": "bIja-gaRita¦ <i>n.</i> algebra."
         }
+    ],
+    "MW": [
+        {
+            "word": "बीजगणित",
+            "eid": "145406",
+            "pagenum": 732,
+            "content": "बीज—गणित ¦ <lex>n.</lex> calculation of primary causes, analysis, algebra<info lex='n'/>"
+        },
+        {
+            "word": "बीजगणित",
+            "eid": "145407",
+            "pagenum": 732,
+            "content": "¦ <ab>N.</ab> of the 2nd part of <s1 slp1='BAs-kara'>Bhās-kara</s1>'s <s1 slp1='sidDAntaSiromaRi'>Siddhāntaśiromaṇi</s1><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "बीजगणित",
+            "eid": "77151",
+            "pagenum": 4,
+            "content": "बीजगणित¦ <lex>n.</lex> <i>Algebra</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "बीजगणित",
+            "eid": "52784",
+            "pagenum": 5,
+            "content": "बीजगणित¦ (बीज + ग°) <lex>n.</lex> <i>algebra</i> <ls>COLEBR. Alg. 129. fgg. 246.</ls>"
+        }
     ]
 }

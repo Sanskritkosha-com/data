@@ -55,5 +55,63 @@
             "pagenum": 217,
             "content": "kleda¦ <i>m.</i> 1. Wetness, moisture, <ls>R.</ls>vii.27; 2. running, discharge from a sore; 3. distress, pain, suffering, <ls>R.</ls>xv.32."
         }
+    ],
+    "MD": [
+        {
+            "word": "क्लेद",
+            "eid": "6495",
+            "pagenum": 77,
+            "content": "क्लेद¦ kled-a, <lex>m.</lex> moisture, humidity; <b>-ana,</b> 🞄<lex>n.</lex> moistening."
+        }
+    ],
+    "MW": [
+        {
+            "word": "क्लेद",
+            "eid": "58579",
+            "pagenum": 323,
+            "content": "क्लेद <hom>a</hom> ¦ <lex>m.</lex> wetness, dampness, moisture, <ls>Yājñ.</ls>; <ls>MBh.</ls>; <ls>R.</ls>; <ls>Suśr.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "क्लेद",
+            "eid": "58580",
+            "pagenum": 323,
+            "content": "¦ running, discharge (from a sore), <ls>Suśr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्लेद",
+            "eid": "58581",
+            "pagenum": 323,
+            "content": "¦ rotting, putrefying, <ls>Car. i, 20</ls> and <ls n='Car.'>vi, 11.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "क्लेद",
+            "eid": "58672",
+            "pagenum": 324,
+            "content": "क्लेद <hom>b</hom> ¦ &c. See √ क्लिद्."
+        }
+    ],
+    "MW72": [
+        {
+            "word": "क्लेद",
+            "eid": "16289",
+            "pagenum": 263,
+            "content": "<i>Kleda, as,</i>¦ m. wetness, dampness, moisture; running, discharge from a sore. <i>—Kleda-vat, ān, atī,</i> <i>at,</i> moist, flowing."
+        }
+    ],
+    "PW": [
+        {
+            "word": "क्लेद",
+            "eid": "32140",
+            "pagenum": 2,
+            "content": "क्लेद¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Feuchtigkeit; das Fliessen</i> (einer Wunde <ab>u. s. w.</ab>). <div n='1'>— 2〉 <i>das in Fäulniss Uebergehen</i> <ls>CARAKA. 1,20. 6,11</ls>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "क्लेद",
+            "eid": "20039",
+            "pagenum": 2,
+            "content": "क्लेद¦ (von क्लिद्) <lex>m.</lex> <i>Feuchtigkeit</i> <ls>MBH. 14, 473.</ls> <ls n='MBH. 14,'>2799.</ls> <ls>R. 5, 12, 42.</ls> <ls>YĀJÑ. 3, 77.</ls> <ls>SUŚR. 1, 66, 9. 76, 10. 88, 13. 2, 267, 20.</ls> <ls>ŚĀNTIŚ. 1, 29.</ls> <ls>RAGH. 7, 24.</ls> <ls n='RAGH.'>15, 32.</ls> <i>das Fliessen</i>, z. B. einer Wunde <ls>SUŚR. 1, 48, 12. 144, 6. 215, 3. 2, 548, 17.</ls> Nach <ls>VOP. 26, 30</ls> nom. ag."
+        }
     ]
 }

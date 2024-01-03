@@ -15,5 +15,43 @@
             "pagenum": 238,
             "content": "चन्द¦ <i>canda</i> <ab>m.</ab> (<ab>sfx.</ab> <i>a)</i> la Lune.  <P><i>candaka</i> <ab>m.</ab> <ab>mms.</ab>"
         }
+    ],
+    "MW": [
+        {
+            "word": "चन्द",
+            "eid": "71530",
+            "pagenum": 386,
+            "content": "चन्द ¦ <lex>m.</lex> (for °द्र/) the moon, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "चन्द",
+            "eid": "71531",
+            "pagenum": 386,
+            "content": "¦ <ab>N.</ab> of the author of the work <s1 slp1='pfTivi-rAja-rAsaka'>Pṛthivi-rāja-rāsaka</s1>.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "चन्द",
+            "eid": "18206",
+            "pagenum": 315,
+            "content": "<i>Canda, as,</i>¦ m. the moon; N. of the author of the work Pṛthivī-rājarāsaka; [cf. <i>candra</i> below; cf. also Hib. <nsi>canu,</nsi> ‘full moon.’]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "चन्द",
+            "eid": "38886",
+            "pagenum": 2,
+            "content": "*चन्द¦ <lex>m.</lex> <i>der Mond</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "चन्द",
+            "eid": "24688",
+            "pagenum": 2,
+            "content": "चन्द/¦ (von चन्द्) <lex>m.</lex> <i>der Mond</i> <ls>Uṇ. 2, 13.</ls> <ls>Sch.</ls> <ls>ŚABDĀRṆ.</ls> bei <ls>BHAR.</ls> zu <ls>AK. 1, 1, 2, 15.</ls> <ls>ŚKDR.</ls> <div n='v'>— Vgl. चन्द्र ."
+        }
     ]
 }

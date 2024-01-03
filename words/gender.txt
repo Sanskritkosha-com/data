@@ -15,5 +15,25 @@
             "pagenum": 308,
             "content": "<b>GENDER:</b>¦ लिङ्गम्, <div n='xe'><i>of masculine g.:</i></div> <div n='xs'>पुंलिङ्गः;</div> <div n='xe'><i>of feminine</i> <i>g.:</i></div> <div n='xs'>स्त्रीलिङ्गा;</div> <div n='xe'><i>of neuter g.:</i></div> <div n='xs'>क्लीवलिङ्गम्;</div> <i>of two g. s:</i> द्विलिङ्ग (ङ्गा, ङ्गं), <div n='xe'><i>of three g.s:</i></div> <div n='xs'>त्रिलिङ्गः</div> (ङ्गा, ङ्गं); <div n='xe'><i>a predicative noun of invariable g.:</i></div> <div n='xs'>अजहल्लिङ्गः;</div> <i>these</i> (<i>words</i>) <div n='xe'><i>are of masculine g.:</i></div> <div n='xs'>एतानि पुंसि स्युः;</div> <i>the</i> (<i>words</i>) अर्चिः <div n='xe'><i>is of feminine and neuter g.:</i></div> <div n='xs'>अर्चिः   सित्रयान्नपुंसके च स्यात्,</div> S. k."
         }
+    ],
+    "MWE": [
+        {
+            "word": "gender",
+            "eid": "12603",
+            "pagenum": 303,
+            "content": "GENDER¦, <i>s.</i> लिङ्गं, प्रकृतिः <i>f.;</i> ‘masculine gender,’ युंलिङ्गं, पुरुषः; ‘feminine gender,’ स्त्रीलिङ्गं; ‘a noun of invariable gender,’ अजहल्लिङ्गः"
+        },
+        {
+            "word": "gender",
+            "eid": "12604",
+            "pagenum": 303,
+            "content": "<i>To</i> GENDER¦, <i>v. a.</i> जन् in caus. (जनयति -यितुं), सञ्जन्, प्रसू or प्रसु (c. 2. -सूते, c. 4. -सूयते -सोतुं), उत्पद् in caus. (-पादयति -यितुं)."
+        },
+        {
+            "word": "gender",
+            "eid": "12605",
+            "pagenum": 303,
+            "content": "<i>To</i> GENDER¦, <i>v. n.</i> स्त्रीपुरुषवत् सङ्गम् (c. 1. -गच्छति -गन्तुं) or मैथुनं कृ."
+        }
     ]
 }

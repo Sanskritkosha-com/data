@@ -47,5 +47,87 @@
             "pagenum": 330,
             "content": "dArdura¦ <i>m.</i> A conch-shell the valve of which opens to the right."
         }
+    ],
+    "MD": [
+        {
+            "word": "दार्दुर",
+            "eid": "9231",
+            "pagenum": 119,
+            "content": "दार्दुर¦ dārdura, <lex>a.</lex> (<b>ī</b>) relating to a frog."
+        }
+    ],
+    "MW": [
+        {
+            "word": "दार्दुर",
+            "eid": "91786",
+            "pagenum": 476,
+            "content": "दार्दुर ¦ <lex>mf(ई)n.</lex> (<ab>fr.</ab> दर्दुर) relating to a cloud, <ls>Hariv. 4162</ls><info lex='m:f#I:n'/>"
+        },
+        {
+            "word": "दार्दुर",
+            "eid": "91787",
+            "pagenum": 476,
+            "content": "¦ a frog's (bite), <ls>Car. vi, 23</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दार्दुर",
+            "eid": "91788",
+            "pagenum": 476,
+            "content": "¦ belonging to the mountain <s1 slp1='dardura'>Dardura</s1>, <ls>R. ii, 15, 33</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दार्दुर",
+            "eid": "91789",
+            "pagenum": 476,
+            "content": "दार्दुर ¦ <lex>n.</lex> a conch-shell the valve of which opens to the right, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "दार्दुर",
+            "eid": "91790",
+            "pagenum": 476,
+            "content": "¦ lac, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दार्दुर",
+            "eid": "91791",
+            "pagenum": 476,
+            "content": "¦ water, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "दार्दुर",
+            "eid": "91792",
+            "pagenum": 476,
+            "content": "¦ the ways of a frog, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "दार्दुर",
+            "eid": "22220",
+            "pagenum": 410,
+            "content": "दार्दुर¦ <i>dārdura, as, ī, am</i> (fr. <i>dardura</i>), relating to a cloud, frog, &c.; (<i>am</i>), n. a conch-shell or muscle, the valve of which opens to the right; lac; water."
+        }
+    ],
+    "PW": [
+        {
+            "word": "दार्दुर",
+            "eid": "49853",
+            "pagenum": 3,
+            "content": "दार्दुर¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> ई) <div n='2'>— a〉 <i>froschartig</i>. <div n='2'>— b〉 <i>von einem Frosche herrührend</i> (biss) <ls>CARAKA. 6,23</ls>. <div n='2'>— c〉 <i>zum Gebirge</i> <is>Dardura</is> <i>gehörig</i> <ls>R. 2,15,33</ls>. <div n='1'>— 2〉 *<lex>n.</lex> <div n='2'>— a〉 <i>eine sich von links nach rechts wendende Muschel</i>. <div n='2'>— b〉 <i>Lack</i>. <div n='2'>— c〉 <i>Wasser</i>. <div n='2'>— d〉 = दर्दुरधर्म."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "दार्दुर",
+            "eid": "32651",
+            "pagenum": 3,
+            "content": "दार्दुर¦ (von दर्दुर) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <i>zu einem Frosche (?) in Beziehung stehend</i>: चालितो गुरुपुत्रेण भार्गवो ऽङ्गिरसेन वै । प्रविष्टो दार्दुरीं मायामनावृष्टिं चकार ह ॥ <ls>HARIV. 4162.</ls> <div n='1'>— 2) <lex>n.</lex> <div n='2'> a) <i>eine sich von links nach rechts windende Muschel.</i> <div n='2'>— b) <i>Lack.</i> <div n='2'>— c) <i>Wasser</i> <ls>ŚABDĀRTHAKALPATARU</ls> im <ls>ŚKDR.</ls> <div n='2'>— d) = दर्दुरधर्म <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "दार्दुर",
+            "eid": "75651",
+            "pagenum": 5,
+            "content": "दार्दुर¦ <div n='1'> 1) <ls>NĪLAK.</ls> : यथा दर्दुरो मृत्वा पुनः पुनरुत्तिष्ठति एवं कचो ऽपि दानवेभ्यो ऽसकृन्मृत्युमासाद्य गुरूदरं प्रवेशितस्ततो गुरोः सकाशाद्विद्यां प्रा प्य तदुदरं भित्त्वा पुनरुत्थितः मृतं च गुरुं पुनर्जीवितवान् ."
+        }
     ]
 }

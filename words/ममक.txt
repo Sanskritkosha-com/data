@@ -23,5 +23,45 @@
             "pagenum": 1005,
             "content": "<b>mámaka,</b>¦ <ab>a.</ab>, <i>mein</i> [von máma siehe ahám]. <div n='TS'>-asya pitúr {31,11}. <div n='TS'>-āya sūnáve {34,6}."
         }
+    ],
+    "MD": [
+        {
+            "word": "ममक",
+            "eid": "13764",
+            "pagenum": 218,
+            "content": "ममक¦ máma-ka, <lex>a.</lex> my (<ab>RV.</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "ममक",
+            "eid": "157971",
+            "pagenum": 789,
+            "content": "म/मक ¦ <lex>mfn.</lex> my, mine, <ls>RV. i, 31, 11</ls>; <ls n='RV. i,'>34, 6</ls> (<ab>cf.</ab> <ls>Pāṇ. iv, 3, 3</ls> and मामक). <info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ममक",
+            "eid": "36480",
+            "pagenum": 747,
+            "content": "<i>Mamaka, as, ā, am,</i>¦ Ved. my, mine (see Pāṇ. IV. 3, 3; cf. <i>māmaka</i>)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "ममक",
+            "eid": "83424",
+            "pagenum": 5,
+            "content": "म/मक¦ <lex>Adj.</lex> <i>mein</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ममक",
+            "eid": "57716",
+            "pagenum": 5,
+            "content": "म/मक¦ <lex>adj.</lex> nach <ls>SĀY.</ls> so v. a. मदीय <i>mein</i>: पि\\तुर्यत्पु\\त्रो मम^कस्य\\ जाय^ते <ls>ṚV. 1, 31, 11.</ls> ओ\\मान^ं श\\ंयोर्मम^काय सू\\नवे\\ शर्म^ वहतम् <ls n='ṚV. 1,'>34, 6.</ls> <div n='v'>— Vgl. <ls>P. 4, 3, 3</ls> und मामक ."
+        }
     ]
 }

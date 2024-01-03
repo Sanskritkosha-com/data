@@ -15,5 +15,49 @@
             "pagenum": 118,
             "content": "indra-maha¦ <i>m.</i> 1. a festival in honour of Indra; 2. the rainy season."
         }
+    ],
+    "MW": [
+        {
+            "word": "इन्द्रमह",
+            "eid": "29069",
+            "pagenum": 166,
+            "content": "इन्द्र—मह ¦ <lex>m.</lex> a festival in honour of <s1 slp1='indra'>Indra</s1>, <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "इन्द्रमह",
+            "eid": "54825",
+            "pagenum": 1182,
+            "content": "<i>Indra-maha;</i>¦ add — (according to a commentator) a feast in honour of Indra [cf. <i>maha</i>]."
+        }
+    ],
+    "PW": [
+        {
+            "word": "इन्द्रमह",
+            "eid": "17019",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> इन्द्रमह¦ (इन्द्र + मह) <lex>m.</lex> <i>ein Fest zu Ehren</i> <is>Indra</is>ʼs."
+        },
+        {
+            "word": "इन्द्रमह",
+            "eid": "17020",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> इन्द्रमह (इ/न्द्रमह/म् <ls>AV. 3,15,1</ls>)¦ <lex>n.</lex> <i>eine <ab>best.</ab> Weihe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "इन्द्रमह",
+            "eid": "10197",
+            "pagenum": 1,
+            "content": "इन्द्रमह¦ <lex>n.</lex> N. einer Weihe, entspr. aus इन्द्रमहम्, den Anfangsworten von <ls>AV. 3, 15, 1.</ls> इन्द्रमहमस्योपचारकल्पम्, इन्द्रमहेण चरति <ls>KAUŚ. 140.</ls>"
+        },
+        {
+            "word": "इन्द्रमह",
+            "eid": "67263",
+            "pagenum": 5,
+            "content": "इन्द्रमह¦, °महः प्रयोजनमस्य ऐन्द्रमहिकम् <ls>P. 5, 1, 109</ls>, <ls>Sch.</ls> <i>ein zu Ehren</i> <is>Indra's</is> <i>veranstaltetes Fest</i> (1. मह) <ls>AV. PARIŚ. 17, 19.</ls> <ls>MBH. 1, 2361.</ls> <ls>HARIV. 4936</ls>; vgl. राजानश्च महं मम (<ab>d. i.</ab> इन्द्रस्य) । कारयिष्यन्ति च मुदा <ls>MBH. 1, 2356.</ls>"
+        }
     ]
 }

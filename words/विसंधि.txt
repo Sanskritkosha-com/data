@@ -31,5 +31,71 @@
             "pagenum": 419,
             "content": "विसंधि¦ ohne Gelenke; ohne Samdhi <i>(g.).</i>"
         }
+    ],
+    "MW": [
+        {
+            "word": "विसंधि",
+            "eid": "193678",
+            "pagenum": 953,
+            "content": "<hom>1.</hom> वि—संधि ¦ <lex>m.</lex> a secondary joint, <ls>SaddhP.</ls><info lex='m'/>"
+        },
+        {
+            "word": "विसंधि",
+            "eid": "193679",
+            "pagenum": 953,
+            "content": "¦ absence of <s1 slp1='saMDi'>Saṃdhi</s1>, <ls>Kpr.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विसंधि",
+            "eid": "193680",
+            "pagenum": 953,
+            "content": "<hom>2.</hom> वि—संधि ¦ <lex>mfn.</lex> jointless, <ls>MBh.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "विसंधि",
+            "eid": "193681",
+            "pagenum": 953,
+            "content": "¦ unallied with, <ls>Kām.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "विसंधि",
+            "eid": "193682",
+            "pagenum": 953,
+            "content": "¦ without (grammatical) <s1 slp1='saMDi'>Saṃdhi</s1>, <ls>Pratāp.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "विसंधि",
+            "eid": "105623",
+            "pagenum": 6,
+            "content": "<hom>1.</hom> विसंधि¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Nebengelenk</i>. <div n='1'>— 2〉 <i>Vernachlässigung des grammatischen</i> <is>Saṃdhi</is> <ls>KĀVYAPR. 154,13</ls>."
+        },
+        {
+            "word": "विसंधि",
+            "eid": "105624",
+            "pagenum": 6,
+            "content": "<hom>2.</hom> विसंधि¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>ohne Gelenke</i>. <div n='1'>— 2〉 <i>nicht im Bündniss mit Jmd stehend</i>. <div n='1'>— 3〉 <i>ohne grammatischen</i> <is>Saṃdhi</is>, <i>wobei der</i> <is n='Saṃdhi'>S.</is> <i>vernachlässigt ist</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "विसंधि",
+            "eid": "94125",
+            "pagenum": 6,
+            "content": "1. विसंधि¦ (2. वि + सं°) <lex>m.</lex> <i>Nebengelenk</i>: संधिविसंधयः <ls>SADDH. P. 4, 5,a.</ls>"
+        },
+        {
+            "word": "विसंधि",
+            "eid": "94126",
+            "pagenum": 6,
+            "content": "2. विसंधि¦ (wie eben) <lex>adj.</lex> <div n='1'> 1) <i>ohne Gelenke</i>: शरीर <ls>MBH. 3, 8746.</ls> <div n='1'>— 2) <i>nicht im Bündniss mit Jmd stehend</i> <ls>KĀM. NĪTIS. 15, 54.</ls> <div n='1'>— 3) <i>ohne grammatischen</i> <is>Saṃdhi</is>, <i>wobei der</i> <is>Saṃdhi</is> <i>vernachlässigt ist</i> <ls>Verz. d. Oxf. H. 207,a,15.</ls> <ls>PRATĀPAR. 62,b,4. 63,a,7.</ls>"
+        },
+        {
+            "word": "विसंधि",
+            "eid": "94127",
+            "pagenum": 6,
+            "content": "3. विसंधि¦ (वि = विसर्ग + सं°) <lex>m.</lex> <i>die euphonischen Regeln über den</i> <is>Visarga</is> <ls>VOP. 2</ls> in der Unterschr."
+        }
     ]
 }

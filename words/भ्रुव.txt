@@ -47,5 +47,57 @@
             "pagenum": 210,
             "content": "<b>bhruva,</b>¦ <i>for</i> <b>bhrū</b> <i>at end of <ab>cpds</ab>,</i> <ls n='wg,1315'>1315c</ls>."
         }
+    ],
+    "MD": [
+        {
+            "word": "भ्रुव",
+            "eid": "13471",
+            "pagenum": 212,
+            "content": "भ्रुव¦ bhruva, <ab>—°</ab> <lex>a.</lex> = bhrū."
+        }
+    ],
+    "MW": [
+        {
+            "word": "भ्रुव",
+            "eid": "153770",
+            "pagenum": 770,
+            "content": "भ्रुव <hom>a</hom> ¦ See below."
+        },
+        {
+            "word": "भ्रुव",
+            "eid": "153835",
+            "pagenum": 771,
+            "content": "भ्रुव <hom>b</hom> ¦ (<ab>ifc.</ab>) = भ्रू, <ls>MBh.</ls>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "भ्रुव",
+            "eid": "35980",
+            "pagenum": 726,
+            "content": "भ्रुव¦ <i>bhruva.</i> See below."
+        },
+        {
+            "word": "भ्रुव",
+            "eid": "35982",
+            "pagenum": 726,
+            "content": "<i>Bhruva, as, ā, am, = bhrū</i>¦ at the end of an adj. comp."
+        }
+    ],
+    "PW": [
+        {
+            "word": "भ्रुव",
+            "eid": "81310",
+            "pagenum": 4,
+            "content": "भ्रुव¦ = भ्रू am Ende eines <ab>adj. Comp.</ab>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "भ्रुव",
+            "eid": "56072",
+            "pagenum": 5,
+            "content": "भ्रुव¦ = भ्रू am Ende eines <lex>adj.</lex> comp.: सुनासाक्षिभ्रुवाणि (मुखानि) <ls>MBH. 3, 2197.</ls> चलद्भ्रुवम् (वदनम्) <ls n='MBH. 3,'>11148.</ls>"
+        }
     ]
 }

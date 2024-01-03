@@ -7,5 +7,35 @@
             "pagenum": 250,
             "content": "go-nATa¦ <i>m.</i> 1. a bull; 2. an owner of land; 3. an owner of kine."
         }
+    ],
+    "MW": [
+        {
+            "word": "गोनाथ",
+            "eid": "67195",
+            "pagenum": 365,
+            "content": "गो—नाथ ¦ <lex>m.</lex> a bull, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "गोनाथ",
+            "eid": "67196",
+            "pagenum": 365,
+            "content": "¦ a cowherd, <ls>W.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "गोनाथ",
+            "eid": "36624",
+            "pagenum": 2,
+            "content": "*गोनाथ¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Stier</i> <ls>RĀJAN. 19,25</ls>. <div n='1'>— 2〉 <i>Kuhhirt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "गोनाथ",
+            "eid": "23160",
+            "pagenum": 2,
+            "content": "गोनाथ¦ (गो + नाथ) <lex>m.</lex> <div n='1'> 1) <i>Stier</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <i>Kuhhirt</i> <ls>WILS.</ls>"
+        }
     ]
 }

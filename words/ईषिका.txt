@@ -47,5 +47,49 @@
             "pagenum": 121,
             "content": "Izi(zI)kA¦ <i>f.</i> 1. A painter’s brush; 2. an elephant’s eye ball; 3. an arrow."
         }
+    ],
+    "MW": [
+        {
+            "word": "ईषिका",
+            "eid": "29973",
+            "pagenum": 171,
+            "content": "ईषिका ¦ <lex>f.</lex> an elephant's eyeball<info lex='f'/>"
+        },
+        {
+            "word": "ईषिका",
+            "eid": "29974",
+            "pagenum": 171,
+            "content": "¦ a painter's brush, &c.<info lex='inh'/>"
+        },
+        {
+            "word": "ईषिका",
+            "eid": "29975",
+            "pagenum": 171,
+            "content": "¦ a weapon, a dart or arrow, <ls>L.</ls> <ab>Cf.</ab> इषीका and ईषीका.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "ईषिका",
+            "eid": "10127",
+            "pagenum": 144,
+            "content": "ईषिका¦ <i>īṣikā,</i> f. an elephant's eyeball; a painter's brush, &c.; a weapon, a dart or arrow. See <i>iṣīkā</i> and <i>īṣīkā.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ईषिका",
+            "eid": "17595",
+            "pagenum": 1,
+            "content": "*ईषिका¦ <lex>f.</lex> <div n='1'>— 1〉 <i><bot>Saccharum spontaneum</bot></i>. <div n='1'>— 2〉 <i>Pinsel, Probirstäbchen</i>. <div n='1'>— 3〉 <i>Augapfel eines Elephanten</i>. <ab>Vgl.</ab> इषीका."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ईषिका",
+            "eid": "10566",
+            "pagenum": 1,
+            "content": "ईषिका¦ <lex>f.</lex> <div n='1'> 1) इषीका 2. <ls>H. 1195</ls>, <ls>Sch.</ls>  <div n='1'>— 2) = इषीका <i>Pinsel; Probierstäbchen</i> <ls>AK. 2, 10, 33.</ls> <ls>H. 920.</ls> <div n='1'>— 3) = इषीका 4. <ls>RĀYAM.</ls> zu <ls>AK. 2, 8, 2, 6.</ls> <ls>ŚKDR.</ls> <ls>H. 1225.</ls>"
+        }
     ]
 }

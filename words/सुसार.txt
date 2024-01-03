@@ -29,5 +29,59 @@
             "pagenum": 789,
             "content": "susAra¦ <i>(II) m.</i> 1. Good essence, good substance; 2. competence; 3. the red flowering <i>Khadira</i>."
         }
+    ],
+    "MW": [
+        {
+            "word": "सुसार",
+            "eid": "250494",
+            "pagenum": 1238,
+            "content": "सु—सार ¦ <lex>m.</lex> good essence or sap or substance, <ls>MW.</ls><info lex='m'/>"
+        },
+        {
+            "word": "सुसार",
+            "eid": "250495",
+            "pagenum": 1238,
+            "content": "¦ competence, <ls>ib.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "सुसार",
+            "eid": "250496",
+            "pagenum": 1238,
+            "content": "सु—सार ¦ <lex>mfn.</lex> having good <ab n='essence'>ess°</ab> or sap, <ls>ib.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सुसार",
+            "eid": "250497",
+            "pagenum": 1238,
+            "content": "सु—सार ¦ <lex>m.</lex> the red-flowering <s1 slp1='Kadira'>Khadira</s1>, <bot>Mimosa Catechu</bot>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सुसार",
+            "eid": "128402",
+            "pagenum": 7,
+            "content": "<hom>1.</hom> *सुसार¦ <lex>m.</lex> <i>rother</i> <is>Khadira</is>."
+        },
+        {
+            "word": "सुसार",
+            "eid": "128403",
+            "pagenum": 7,
+            "content": "<hom>2.</hom> सुसार¦ <ls>MBH. 7,67</ls> fehlerhaft für मसार."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सुसार",
+            "eid": "111907",
+            "pagenum": 7,
+            "content": "1. सुसार¦ <lex>m.</lex> <i>der rothe</i> <is>Khadira</is> <ls>RĀJAN. 8, 26.</ls>"
+        },
+        {
+            "word": "सुसार",
+            "eid": "111908",
+            "pagenum": 7,
+            "content": "2. सुसार¦ <ls>MBH. 7, 672</ls> fehlerhaft für मसार ."
+        }
     ]
 }

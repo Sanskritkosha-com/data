@@ -15,5 +15,55 @@
             "pagenum": 202,
             "content": "नगेन्द्र¦ <i>m.</i> Bergkönig <i>(Bein. des Himālaya).</i>"
         }
+    ],
+    "MD": [
+        {
+            "word": "नगेन्द्र",
+            "eid": "10230",
+            "pagenum": 135,
+            "content": "नगेन्द्र¦ naga‿indra, <lex>m.</lex> lord of mountain, <ab>ep.</ab> 🞄<i>of</i> Himālaya <i>and</i> Kailāsa; <b>-īśvara,</b> <lex>m.</lex> <ab>ep.</ab> <i>of 🞄the</i> Himālaya; <b>-udara,</b> <lex>n.</lex> mountain ravine."
+        }
+    ],
+    "MW": [
+        {
+            "word": "नगेन्द्र",
+            "eid": "103052",
+            "pagenum": 525,
+            "content": "nage<srs/>ndra ¦ <lex>m.</lex> ‘<ab n='mountain'>m°</ab>-lord’, <ab>N.</ab> of <s1 slp1='himAlaya'>Himālaya</s1>, <ls>Ragh. ii, 28</ls><info lex='m'/>"
+        },
+        {
+            "word": "नगेन्द्र",
+            "eid": "103053",
+            "pagenum": 525,
+            "content": "¦ of <s1 slp1='kElAsa'>Kailāsa</s1>, <ls>Megh. 63</ls><info lex='inh'/>"
+        },
+        {
+            "word": "नगेन्द्र",
+            "eid": "103054",
+            "pagenum": 525,
+            "content": "¦ of <s1 slp1='nizaDa'>Niṣadha</s1>, <ls>Ragh. xviii, 1.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "नगेन्द्र",
+            "eid": "56345",
+            "pagenum": 3,
+            "content": "नगेन्द्र¦ <lex>m.</lex> <ab>Bein.</ab> der Berge (Gebirge) <div n='1'>— 1〉 <is>Himālaya</is>. <div n='1'>— 2〉 <is>Kailāsa</is>. <div n='1'>— 3〉 <is>Niṣadha</is>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "नगेन्द्र",
+            "eid": "37430",
+            "pagenum": 4,
+            "content": "नगेन्द्र¦ (नग + इन्द्र) <lex>m.</lex> <i>der Fürst der Berge</i>: नगेन्द्रो हिमवान् <ls>KATHĀS. 22, 16.</ls> <i>der</i> <is>Himālaya</is> <ls>RAGH. 2, 28.</ls> <i>der</i> <is>Kailāsa</is> <ls>MEGH. 63.</ls>"
+        },
+        {
+            "word": "नगेन्द्र",
+            "eid": "76762",
+            "pagenum": 5,
+            "content": "नगेन्द्र¦ der <is>Niṣadha</is> genannt <ls>RAGH. 18, 1.</ls>"
+        }
     ]
 }

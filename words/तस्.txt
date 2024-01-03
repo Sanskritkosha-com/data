@@ -37,5 +37,61 @@
             "pagenum": 288,
             "content": "*तस्¦ <i>tas.</i> <i>tasyāmi</i> 4; <ab>p.</ab> <i>tatāsa;</i> <ab>etc.</ab> Rejeter; projeter, lancer. || Périr. || Soulever; <lbinfo n='4'/> enlever. || <ab>Angl.</ab> toss."
         }
+    ],
+    "MW": [
+        {
+            "word": "तस्",
+            "eid": "83653",
+            "pagenum": 441,
+            "content": "<hom>1.</hom> तस् ¦ <ab>cl.</ab> 4. °स्यति, to fade away, perish, <ls>Dhātup. xxvi, 103</ls>; <div n='to'/> (<ab>cf.</ab> √ तंस्) to cast upwards (or ‘to throw down’), <ls>ib.</ls> (<ls>Vop.</ls>); <div n='to'/>to throw, <ls>Pāṇ. iii, 4, 61</ls>, <ls>Kāś.</ls><info westergaard='tasu,26.103,04.0111'/><info verb='root' cp='4'/>"
+        },
+        {
+            "word": "तस्",
+            "eid": "83654",
+            "pagenum": 441,
+            "content": "<hom>2.</hom> तस् ¦ <lex>mfn.</lex> ‘throwing’<info lex='m:f:n'/>"
+        },
+        {
+            "word": "तस्",
+            "eid": "83655",
+            "pagenum": 441,
+            "content": "¦ See सुख-.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "तस्",
+            "eid": "20656",
+            "pagenum": 367,
+            "content": "तस्¦ <i>tas,</i> cl. 4. P. <i>tasyati,</i> &c., to fade away, become exhausted, perish, wane; to throw down; to cast upwards, reject, cast; [cf. rt. <i>taṃs</i> and Eng. <nsi>toss.</nsi>]"
+        }
+    ],
+    "PW": [
+        {
+            "word": "तस्",
+            "eid": "45077",
+            "pagenum": 3,
+            "content": "<hom>1.</hom> *√तस्¦, तस्यते (उपक्षये, उपक्षेपे, उत्क्षेपे)."
+        },
+        {
+            "word": "तस्",
+            "eid": "45078",
+            "pagenum": 3,
+            "content": "<hom>2.</hom> *°तस्¦ <lex>Adj.</lex> <i>werfend in</i> *सुखतस्."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "तस्",
+            "eid": "29116",
+            "pagenum": 3,
+            "content": "तस्¦, त/स्यति <i>abnehmen, sich erschöpfen</i> (उपक्षये); <i>hinwerfen</i> (उपक्षेपे v. l.); <i>in die Höhe werfen</i> (उत्क्षेपे <ls>VOP.</ls>) <ls>DHĀTUP. 26, 103.</ls> <div n='v'>— Vgl. तंस् ."
+        },
+        {
+            "word": "तस्",
+            "eid": "74935",
+            "pagenum": 5,
+            "content": "तस्¦, मुखे तस्यति (<i>wirft</i>) इति मुखतः <ls>P. 3, 4, 61</ls>, <ls>Sch.</ls>"
+        }
     ]
 }

@@ -23,5 +23,29 @@
             "pagenum": 766,
             "content": "sarila¦ <i>n.</i> Water."
         }
+    ],
+    "MW": [
+        {
+            "word": "सरिल",
+            "eid": "237666",
+            "pagenum": 1183,
+            "content": "सरिल ¦ <lex>n.</lex> = सलिल, water, <ls>L.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "सरिल",
+            "eid": "121490",
+            "pagenum": 7,
+            "content": "*सरिल¦ <lex>n.</lex> = सलिल <i>Wasser</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सरिल",
+            "eid": "106521",
+            "pagenum": 7,
+            "content": "सरिल¦ <lex>n.</lex> = सलिल <i>Wasser</i> <ls>BHAR.</ls> zu <ls>AK. 1, 2, 3, 3</ls> nach <ls>ŚKDR.</ls>"
+        }
     ]
 }

@@ -66,5 +66,57 @@
             "pagenum": 127,
             "content": "utpAda¦ <i>(II) m.</i> birth, production, appearance, <ls>Yaj.</ls>ii.225."
         }
+    ],
+    "MD": [
+        {
+            "word": "उत्पाद",
+            "eid": "4434",
+            "pagenum": 49,
+            "content": "उत्पाद¦ utpād-a, <lex>m.</lex> issuing forth, production, 🞄birth; <b>-aka,</b> <lex>a.</lex> (<b>ikā</b>) producing, productive; 🞄<lex>m.</lex> producer, shedder; father; <b>-ana,</b> 🞄<lex>a.</lex> (<b>ī</b>) producing; <lex>n.</lex> begetting, bearing; effecting; 🞄procuring; <b>-ayitrī,</b> <lex>f.</lex> producer; <b>-in,</b> 🞄<lex>a.</lex> produced <i>or</i> born; producing, causing (<ab>—°</ab>)."
+        }
+    ],
+    "MW": [
+        {
+            "word": "उत्पाद",
+            "eid": "31657",
+            "pagenum": 180,
+            "content": "<hom>1.</hom> उत्-पाद ¦ (for <hom>2.</hom> See <ab>s.v.</ab>) <lex>m.</lex> coming forth, birth, production, <ls>Yājñ.</ls>; <ls>Prab.</ls> &c.<info lex='m'/>"
+        },
+        {
+            "word": "उत्पाद",
+            "eid": "31729",
+            "pagenum": 181,
+            "content": "<hom>2.</hom> उत्-पाद ¦ (for <hom>1.</hom> See <pcol>p. 180, col. 3</pcol>) <lex>mfn.</lex> having the legs stretched out, standing on the legs.<info lex='m:f:n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "उत्पाद",
+            "eid": "10555",
+            "pagenum": 151,
+            "content": "<i>Ut-pāda, as,</i>¦ m. coming forth, birth, production. <i>—Utpāda-pūrva, am,</i> n. title of the first of the fourteen Pūrvas or older sacred writings of the Jainas. <i>—Ut-pāda-śayana,</i> see s. v. next col."
+        }
+    ],
+    "PW": [
+        {
+            "word": "उत्पाद",
+            "eid": "18424",
+            "pagenum": 1,
+            "content": "उत्पाद¦ <lex>m.</lex> <i>das Hervorkommen, Entstehung, Geburt</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "उत्पाद",
+            "eid": "11062",
+            "pagenum": 1,
+            "content": "उत्पाद¦ (von पद् mit उद्) <lex>m.</lex> <i>das Hervorkommen, Geburt, Entstehung</i>: शोणितोत्पाद <ls>YĀJÑ. 2, 225.</ls> <ls>AK. 3, 4, 27, 210.</ls> प्राण्यु° <ls n='AK. 3,'>13, 57.</ls> दोषो° <ls n='AK. 3,'>17, 101.</ls> अनुत्पाद <ls>PRAB. 77, 4.</ls> <ls>LALIT.</ls> in <ls>BURN.</ls> <ls>Lot. de la b. l. 380.</ls> <div n='v'>— Vgl. औत्पाद ."
+        },
+        {
+            "word": "उत्पाद",
+            "eid": "67721",
+            "pagenum": 5,
+            "content": "उत्पाद¦ <ls>KAP. 1, 114.</ls> अनुत्पादज्ञान <ls>WASSILJEW 185.</ls> <div n='v'>— Vgl. अर्थोत्पाद ."
+        }
     ]
 }

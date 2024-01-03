@@ -29,5 +29,87 @@
             "pagenum": 404,
             "content": "pawa-vAsa¦ <i>m.</i> 1. a tent; 2. a petticoat; 3. perfumed powder."
         }
+    ],
+    "MD": [
+        {
+            "word": "पटवास",
+            "eid": "11022",
+            "pagenum": 150,
+            "content": "पटवास¦ paṭa-vāsa, <lex>m.</lex> scented powder; 🞄<b>-veśman,</b> <lex>n.</lex> tent."
+        }
+    ],
+    "MW": [
+        {
+            "word": "पटवास",
+            "eid": "114285",
+            "pagenum": 579,
+            "content": "<hom>1.</hom> पट—वास ¦ <lex>m.</lex> a tent, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पटवास",
+            "eid": "114286",
+            "pagenum": 579,
+            "content": "<hom>2.</hom> पट—वास ¦ <lex>m.</lex> a petticoat, <ls>L.</ls><info lex='m'/>"
+        },
+        {
+            "word": "पटवास",
+            "eid": "114287",
+            "pagenum": 579,
+            "content": "<hom>3.</hom> पट—वास ¦ <lex>m.</lex> perfumed powder (-ता <lex type='phw'>f.</lex>), <ls>Ratnāv.</ls><info phwchild='114287.1'/><info lex='m'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "पटवास",
+            "eid": "62258",
+            "pagenum": 4,
+            "content": "<hom>1.</hom> *पटवास¦ <lex>m.</lex> <i>Zelt</i>."
+        },
+        {
+            "word": "पटवास",
+            "eid": "62259",
+            "pagenum": 4,
+            "content": "<hom>2.</hom> *पटवास¦ <lex>m.</lex> <i>Tuch, Binde</i>."
+        },
+        {
+            "word": "पटवास",
+            "eid": "62260",
+            "pagenum": 4,
+            "content": "<hom>3.</hom> पटवास¦ <lex>m.</lex> <i>wohlriechendes Pulver</i>. <ls n='Chr.'>292,27</ls>. <ab>Nom. abstr.</ab> °ता <lex>f.</lex>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पटवास",
+            "eid": "41646",
+            "pagenum": 4,
+            "content": "1. पटवास¦ (पट + वास <i>Wohnung</i>) <lex>m.</lex> <i>Zelt</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>; vgl. पटवाप ."
+        },
+        {
+            "word": "पटवास",
+            "eid": "41647",
+            "pagenum": 4,
+            "content": "2. पटवास¦ (पट + वास <i>Kleidung</i>) <lex>m.</lex> <i>Schurz, Unterrock</i> (शाटी) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
+        },
+        {
+            "word": "पटवास",
+            "eid": "41648",
+            "pagenum": 4,
+            "content": "3. पटवास¦ (पट + वास <i>Wohlgeruch</i>) <lex>m.</lex> <i>wohlriechendes Pulver (das in die Kleider gestreut wird)</i>: त्वगुशीरपत्त्रभागैः सूक्ष्मैलार्धेन संयुतश्चूर्णः । पटवासः प्रवरो ऽयं मृगकर्पूरप्रबोधेन ॥ <ls>VARĀH. BṚH. S. 76, 18</ls> (der Schol. पुटवास). <ls>RĀJA-TAR. 4, 127.</ls> <ls>GĪT. 1, 35.</ls> अगमत्कैतकं रजः । तद्योधवारवाणानामयत्नपटवासताम् <ls>RAGH. 4, 55.</ls> °वासक <lex>m.</lex> dass. <ls>AK. 2, 6, 3, 41.</ls> <ls>H. 637.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "पटवास",
+            "eid": "7660",
+            "pagenum": 5,
+            "content": "पटवास¦ <ls>ŚIŚ. 6,37</ls>."
+        },
+        {
+            "word": "पटवास",
+            "eid": "19023",
+            "pagenum": 7,
+            "content": "पटवास¦ IV. 5."
+        }
     ]
 }

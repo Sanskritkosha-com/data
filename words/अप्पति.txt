@@ -39,5 +39,57 @@
             "pagenum": 35,
             "content": "ap-pati¦ <i>m.</i> 1. the ocean; 2. a name of Varuṇa."
         }
+    ],
+    "MD": [
+        {
+            "word": "अप्पति",
+            "eid": "2050",
+            "pagenum": 21,
+            "content": "अप्पति¦ ap-pati, <lex>m.</lex> lord of waters, Varuṇa."
+        }
+    ],
+    "MW": [
+        {
+            "word": "अप्पति",
+            "eid": "8946",
+            "pagenum": 47,
+            "content": "अपाम्-पति or अप्-पति ¦ [<ls>Mn.</ls>], <lex>m.</lex> the ocean<info or='8945,apAmpati;8946,appati'/><info lex='m'/>"
+        },
+        {
+            "word": "अप्पति",
+            "eid": "8946.1",
+            "pagenum": 47,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='varuRa'>Varuṇa</s1>.<info lex='inh'/>"
+        },
+        {
+            "word": "अप्पति",
+            "eid": "10451",
+            "pagenum": 57,
+            "content": "अप्-पति <hom>b</hom> ¦ <lex>m.</lex> See <hom>2.</hom> अ/प्.<info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अप्पति",
+            "eid": "3846",
+            "pagenum": 57,
+            "content": "अप्पति¦ <i>appati, is,</i> m. See under <i>ap.</i>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अप्पति",
+            "eid": "6665",
+            "pagenum": 1,
+            "content": "अप्पति¦ <lex>m.</lex> <div n='1'>— 1〉 <is>Varuṇa</is>. <div n='1'>— 2〉 *<i>Meer</i> <ls>GAL.</ls>"
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अप्पति",
+            "eid": "4225",
+            "pagenum": 1,
+            "content": "अप्पति¦ (2. अप् + पति) <lex>m.</lex> <i>der Gebieter der Wasser</i>, <is>Varuṇa</is>, <ls>AK. 1, 1, 1, 56.</ls> <ls>M. 3, 87.</ls> <ls n='M.'>5, 96.</ls>"
+        }
     ]
 }

@@ -52,5 +52,49 @@
             "pagenum": 465,
             "content": "pratidAna¦ <i>n.</i> 1. Restoration, restitution (as of a deposit); 2. barter, exchange."
         }
+    ],
+    "MW": [
+        {
+            "word": "प्रतिदान",
+            "eid": "132375",
+            "pagenum": 666,
+            "content": "प्रति-°दान ¦ <lex>n.</lex> restitution (of a deposit), restoration, <ls>L.</ls><info lex='n'/>"
+        },
+        {
+            "word": "प्रतिदान",
+            "eid": "132376",
+            "pagenum": 666,
+            "content": "¦ giving or a gift in return, <ls>Daś.</ls>; <ls>Pāṇ. i, 4, 92</ls><info lex='inh'/>"
+        },
+        {
+            "word": "प्रतिदान",
+            "eid": "132377",
+            "pagenum": 666,
+            "content": "¦ exchange, barter, <ls>L.</ls> (<ab>v.l.</ab> for परि-द्°). <info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "प्रतिदान",
+            "eid": "30872",
+            "pagenum": 614,
+            "content": "<i>Prati-dāna, am,</i>¦ n. giving back, restoring (a deposit), restitution, restoration; returning, a gift in return; exchange, barter."
+        }
+    ],
+    "PW": [
+        {
+            "word": "प्रतिदान",
+            "eid": "71055",
+            "pagenum": 4,
+            "content": "प्रतिदान¦ <lex>n.</lex> <div n='1'>— 1〉 *<i>das Zurückgeben, Wiederabliefern</i>. <div n='1'>— 2〉 <i>das Dagegengeben, Gegengabe</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "प्रतिदान",
+            "eid": "48261",
+            "pagenum": 4,
+            "content": "प्रतिदान¦ (wie eben) <lex>n.</lex> <i>das Zurückgeben, Wiederabliefern</i> (z. B. eines Pfandes) <ls>AK. 2, 9, 81.</ls> <ls>H. 870.</ls> <i>das Dagegengeben, Gegengabe</i> <ls>P. 1, 4, 92.</ls> <ls n='P.'>2, 3, 11.</ls> <ls>VOP. 5, 21.</ls> न प्रियादानस्य प्रतिदानमिदं शरीरम् <ls>DAŚAK.</ls> in <ls>BENF. Chr. 188, 3.</ls> <i>Tausch</i> <ls>AK. 2, 9, 81, v. l.</ls> für परिदान ."
+        }
     ]
 }

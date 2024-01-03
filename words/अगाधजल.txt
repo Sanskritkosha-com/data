@@ -28,5 +28,41 @@
             "pagenum": 4,
             "content": "agADa-jala¦ <i>m.</i> a deep lake."
         }
+    ],
+    "MW": [
+        {
+            "word": "अगाधजल",
+            "eid": "838",
+            "pagenum": 4,
+            "content": "अ-गाध—जल ¦ <lex>mfn.</lex> having deep water<info lex='m:f:n'/>"
+        },
+        {
+            "word": "अगाधजल",
+            "eid": "839",
+            "pagenum": 4,
+            "content": "अ-गाध—जल ¦ <lex>n.</lex> deep water.<info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "अगाधजल",
+            "eid": "465",
+            "pagenum": 1,
+            "content": "<hom>1.</hom> अगाधजल¦ <lex>n.</lex> <i>tiefes Wasser</i> <ls>Spr. 59</ls>."
+        },
+        {
+            "word": "अगाधजल",
+            "eid": "466",
+            "pagenum": 1,
+            "content": "<hom>2.</hom> *अगाधजल¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>mit tiefem Wasser</i>. <div n='1'>— 2〉 <lex>m.</lex> <i>ein tiefer See</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "अगाधजल",
+            "eid": "328",
+            "pagenum": 1,
+            "content": "अगाधजल¦ (अगाध + जल) <div n='1'> 1) <lex>adj.</lex> <i>mit tiefem Wasser versehen</i>: तत्रागाधजलो ह्रदः <ls>AK. 1, 2, 3, 25.</ls> <div n='1'>— 2) <lex>m.</lex> <i>tiefer See</i> <ls>H. 1091.</ls>"
+        }
     ]
 }

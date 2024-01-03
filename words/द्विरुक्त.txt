@@ -23,5 +23,49 @@
             "pagenum": 351,
             "content": "dvirukta¦ <i>a.</i> 1. spoken twice, repeated; 2. superfluous."
         }
+    ],
+    "MD": [
+        {
+            "word": "द्विरुक्त",
+            "eid": "9842",
+            "pagenum": 128,
+            "content": "द्विरुक्त¦ dvir-ukta, <ab>pp.</ab> said twice, repeated; 🞄reduplicated; <lex>n.</lex> reduplication; <b>-ukti,</b> <lex>f.</lex> repetition, 🞄doubling."
+        }
+    ],
+    "MW": [
+        {
+            "word": "द्विरुक्त",
+            "eid": "98936",
+            "pagenum": 506,
+            "content": "द्विर्—उक्त ¦ <lex>mfn.</lex> twice said, repeated, doubled, reduplicated, <ls>VPrāt.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "द्विरुक्त",
+            "eid": "98937",
+            "pagenum": 506,
+            "content": "¦ said or told in 2 ways, <ls>W.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "द्विरुक्त",
+            "eid": "98938",
+            "pagenum": 506,
+            "content": "द्विर्—उक्त ¦ <lex>n.</lex> repetition, <ls>Siddh.</ls><info lex='n'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "द्विरुक्त",
+            "eid": "54065",
+            "pagenum": 3,
+            "content": "द्विरुक्त¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>zweimal gesagt, wiederholt, verdoppelt, reduplicirt</i>. <ab>Nom. abstr.</ab> °त्व <lex>n.</lex> <ls>Comm. zu TS. PRĀT.</ls> <div n='1'>— 2〉 <lex>n.</lex> <i>Wiederholung</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "द्विरुक्त",
+            "eid": "35799",
+            "pagenum": 3,
+            "content": "द्विरुक्त¦ (द्विस् + उक्त) <lex>adj.</lex> <i>zweimal gesagt, wiederholt, verdoppelt, reduplicirt</i> <ls>VS. PRĀT. 1, 146.</ls> <ls n='VS. PRĀT.'>4, 115.</ls> <ls n='VS. PRĀT. 4,'>155</ls>; <lex>n.</lex> <i>Wiederholung</i> Cit. beim Schol. zu <ls>ŚĀK. 5,5.</ls> <ls>SIDDH. K. 107,a,2.</ls> <ls>VOP. 3,97. 8,45.</ls>"
+        }
     ]
 }

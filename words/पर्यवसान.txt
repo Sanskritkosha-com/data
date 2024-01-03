@@ -55,5 +55,57 @@
             "pagenum": 423,
             "content": "paryavasAna¦ <i>n.</i> 1. End, termination, conclusion; 2. determination."
         }
+    ],
+    "MW": [
+        {
+            "word": "पर्यवसान",
+            "eid": "119699",
+            "pagenum": 607,
+            "content": "पर्य्-अव-°सान ¦ <lex>n.</lex> end, termination, conclusion, issue (°नात् <lex type='phw'>ind.</lex> in consequence of), <ls>Gobh.</ls>; <ls>Nāg.</ls>; <ls>Hit.</ls><info phwchild='119700.1'/><info lex='n'/>"
+        },
+        {
+            "word": "पर्यवसान",
+            "eid": "119700",
+            "pagenum": 607,
+            "content": "¦ comprehending, including, amounting to (<ab>loc.</ab>), <ls>Sarvad.</ls><info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "पर्यवसान",
+            "eid": "28366",
+            "pagenum": 554,
+            "content": "<i>Pary-avasāna, am,</i>¦ n. end, termination, conclusion, issue."
+        }
+    ],
+    "PW": [
+        {
+            "word": "पर्यवसान",
+            "eid": "64761",
+            "pagenum": 4,
+            "content": "पर्यवसान¦ <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> आ) <div n='1'>— 1〉 <i>Schluss, Ende</i> <ls>NĀGĀN. 45,4. (61,6)</ls> <div n='1'>— 2〉 <i>das Enden mit, das Herauskommen auf</i> (<ab>Loc.</ab>)."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "पर्यवसान",
+            "eid": "43517",
+            "pagenum": 4,
+            "content": "पर्यवसान¦ (von सा, स्यति mit पर्यव) <lex>n.</lex> <i>Schluss, Ende</i>: कर्मणः <ls>GOBH. 1, 6, 15.</ls> आकाङ्क्षा प्रतीतिपर्यवसानविरहः <ls>SĀH. D. 8, 20.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 23, 5</ls> v. u. किं मम वचनं पर्यवसानपर्यन्तमवगतं युष्माभिः <ls>HIT. 116, 20.</ls> = परिनिष्ठा <ls>Schol.</ls> zu <ls>KAP. 1, 69.</ls> निश्चय° <lex>adj.</lex> = निश्चयान्त <ls>PRATĀPAR. 80,b,12.</ls> परमात्मादियाथात्म्यज्ञानविधीनां तावन्मात्रपर्यवसानता <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 76.</ls>"
+        },
+        {
+            "word": "पर्यवसान",
+            "eid": "78292",
+            "pagenum": 5,
+            "content": "पर्यवसान¦ <ls>SĀH. D. 257, 16. 18. 284, 3.</ls> <i>das Enden mit, das Herauskommen auf</i> (loc.) <ls>SARVADARŚANAS. 14, 14.</ls>"
+        }
+    ],
+    "PWKVN": [
+        {
+            "word": "पर्यवसान",
+            "eid": "19210",
+            "pagenum": 7,
+            "content": "पर्यवसान¦ IV. Fehlerhaft für पर्यवस्थान <ls>DIVYĀVAD. 185,29</ls>. <ls n='DIVYĀVAD.'>186,9. fgg.</ls>"
+        }
     ]
 }

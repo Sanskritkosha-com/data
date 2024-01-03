@@ -23,5 +23,43 @@
             "pagenum": 744,
             "content": "sakawa¦ <i>a. (f. टी)</i> Bad, vile."
         }
+    ],
+    "MW": [
+        {
+            "word": "सकट",
+            "eid": "227606",
+            "pagenum": 1123,
+            "content": "स—कट ¦ <lex>mfn.</lex> bad, vile, <ls>L.</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "सकट",
+            "eid": "227607",
+            "pagenum": 1123,
+            "content": "स—कट ¦ <lex>m.</lex> <bot>Trophis Aspera</bot> or <bot>Anogeissus Latifolia</bot>, <ls>L.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "सकट",
+            "eid": "48292",
+            "pagenum": 1043,
+            "content": "सकट¦ <i>sa-kaṭa, as, ā, am,</i> bad, vile; (<i>as</i>), m. the small tree Trophis Aspera <i>(= śākhoṭa).</i> <i>—Sakaṭānna (°ṭa-an°), am,</i> n. impure food (according to some)."
+        }
+    ],
+    "PW": [
+        {
+            "word": "सकट",
+            "eid": "117172",
+            "pagenum": 7,
+            "content": "*सकट¦ <lex>m.</lex> <i><bot>Tropis aspera</bot></i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "सकट",
+            "eid": "103272",
+            "pagenum": 7,
+            "content": "सकट¦ <lex>m.</lex> = शाखोट <i>Trophis aspera</i> <ls>BHŪRIPRAYOGA</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }

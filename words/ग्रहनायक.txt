@@ -15,5 +15,35 @@
             "pagenum": 255,
             "content": "graha-nAyaka¦ <i>m.</i> 1. the sun; 2. an epithet of Saturn."
         }
+    ],
+    "MW": [
+        {
+            "word": "ग्रहनायक",
+            "eid": "68620",
+            "pagenum": 372,
+            "content": "ग्रह—नायक ¦ <lex>m.</lex> = -ग्रामणी, <ls>Hcat. i, 8, 435</ls><info lex='m'/>"
+        },
+        {
+            "word": "ग्रहनायक",
+            "eid": "68621",
+            "pagenum": 372,
+            "content": "¦ the planet Saturn, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्रहनायक",
+            "eid": "37367",
+            "pagenum": 2,
+            "content": "ग्रहनायक¦ <lex>m.</lex> <ab>Bein.</ab> <div n='1'>— 1〉 <i>der Sonne</i> <ls>HEMĀDRI 1,614,21</ls>. <div n='1'>— 2〉 *<i>des Planeten Saturn</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ग्रहनायक",
+            "eid": "23688",
+            "pagenum": 2,
+            "content": "ग्रहनायक¦ (ग्रह + नायक) <lex>m.</lex> <i>Führer der Planeten, der Saturn</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <i>die Sonne</i> <ls>ŚKDR.</ls> <ls>WILS.</ls>"
+        }
     ]
 }

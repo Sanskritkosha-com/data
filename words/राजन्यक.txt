@@ -47,5 +47,43 @@
             "pagenum": 610,
             "content": "rAjanyaka¦ <i>n.</i> An assemblage of warriors."
         }
+    ],
+    "MW": [
+        {
+            "word": "राजन्यक",
+            "eid": "176856",
+            "pagenum": 875,
+            "content": "राजन्यक ¦ <lex>mfn.</lex> inhabited by warriors, <ls>Pāṇ. iv, 2, 53</ls><info lex='m:f:n'/>"
+        },
+        {
+            "word": "राजन्यक",
+            "eid": "176857",
+            "pagenum": 875,
+            "content": "राजन्यक ¦ <lex>n.</lex> a number or assemblage of warriors, <ls>Ragh.</ls>; <ls>Daś.</ls> (<ab>cf.</ab> <ls>Pāṇ. iv, 2, 39</ls>). <info lex='n'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "राजन्यक",
+            "eid": "39317",
+            "pagenum": 840,
+            "content": "<i>Rājanyaka, as, ā, am,</i>¦ inhabited by warriors; (<i>am</i>), n. a number of Kṣatriyas, assemblage of warriors."
+        }
+    ],
+    "PW": [
+        {
+            "word": "राजन्यक",
+            "eid": "93369",
+            "pagenum": 5,
+            "content": "राजन्यक¦ <div n='1'>— 1〉 *<lex>Adj.</lex> <i>von Kriegern bewohnt</i>. <div n='1'>— 2〉 <lex>n.</lex> <i>eine Schaar von Kriegern</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "राजन्यक",
+            "eid": "84076",
+            "pagenum": 6,
+            "content": "रा/जन्यक¦ <div n='1'> 1) <lex>adj.</lex> <i>von Kriegern bewohnt</i> <ls>P. 4, 2, 53.</ls> <div n='1'>— 2) <lex>n.</lex> <i>eine Schaar von Kriegern</i> <ls>P. 4, 2, 39.</ls> <ls n='P.'>6, 4, 151</ls>, <is>Vārtt</is>. <ls>AK. 2, 8, 1, 4.</ls> <ls>H. 1417.</ls> <ls>RAGH. 7, 53.</ls> <ls>DAŚAK. 57, 12.</ls>"
+        }
     ]
 }

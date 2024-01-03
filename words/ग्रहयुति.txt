@@ -23,5 +23,29 @@
             "pagenum": 255,
             "content": "graha-yuti¦ <i>f.</i> the transit of a planet."
         }
+    ],
+    "MW": [
+        {
+            "word": "ग्रहयुति",
+            "eid": "68650",
+            "pagenum": 372,
+            "content": "ग्रह—युति ¦ <lex>f.</lex> conjunction of planets.<info lex='f'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "ग्रहयुति",
+            "eid": "37390",
+            "pagenum": 2,
+            "content": "ग्रहयुति¦ <lex>f.</lex> <i>Conjunction der Planeten</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "ग्रहयुति",
+            "eid": "23705",
+            "pagenum": 2,
+            "content": "ग्रहयुति¦ (ग्रह + युति) <lex>m.</lex> <i>Conjunction der Planeten</i> <ls>Verz. d. B. H. No. 836. 842.</ls>"
+        }
     ]
 }

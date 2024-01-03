@@ -36,5 +36,27 @@
             "pagenum": 10,
             "content": "atasI¦ <i>f.</i> 1. Common flax; 2. Bengal flax; 3. linseed."
         }
+    ],
+    "MW": [
+        {
+            "word": "अतसी",
+            "eid": "2558",
+            "pagenum": 12,
+            "content": "अतसी ¦ <lex>f.</lex> common flax, <bot>Linum Usitatissimum</bot><info lex='f'/>"
+        },
+        {
+            "word": "अतसी",
+            "eid": "2559",
+            "pagenum": 12,
+            "content": "¦ <s1 slp1='SaRa'>Śaṇa</s1>, Bengal sun used as hemp, <bot>Crotolaria Juncea</bot>.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "अतसी",
+            "eid": "621",
+            "pagenum": 12,
+            "content": "<i>Atasī,</i>¦ f. common flax, Linum Usitatissimum; Śaṇa, Bengal sun used as hemp, Crotolaria Juncea."
+        }
     ]
 }

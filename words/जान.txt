@@ -39,5 +39,69 @@
             "pagenum": 483,
             "content": "<b>jā́na,</b>¦ <ab>n.</ab>, 1〉 <i>Geburt, Ursprung</i> [von jan]; 2〉 <i>Geburtsstätte</i>. <div n='TS'>-am 1〉 eṣaam (marútām) {407,1}; pitarós {858,3}. — 2〉 eṣaam (marútām) {37,9} (sthirám). <div n='TS'>-ā 1〉 devā́nām {898,1}. — 2〉 trī́ṇi asya (agnés) {95,3}."
         }
+    ],
+    "MD": [
+        {
+            "word": "जान",
+            "eid": "8000",
+            "pagenum": 101,
+            "content": "जान¦ jā́n-a, <lex>n.</lex> origin, birth-place."
+        }
+    ],
+    "MW": [
+        {
+            "word": "जान",
+            "eid": "78782",
+            "pagenum": 418,
+            "content": "<hom>1.</hom> जा/न ¦ <lex>n.</lex> birth, origin, birth place, <ls>RV. i, 37, 9</ls> and <ls n='RV. i,'>95, 3</ls>; <ls n='RV.'>v</ls>, <ls n='RV.'>x</ls>; <ls>AV. vii, 76, 5</ls>; <ls>ŚBr. iii, 2, 1, 40.</ls><info lex='n'/>"
+        },
+        {
+            "word": "जान",
+            "eid": "78783",
+            "pagenum": 418,
+            "content": "<hom>2.</hom> जान ¦ <lex>m.</lex> (<ab>fr.</ab> ज/न) <ab>patr.</ab> of <s1 slp1='vfSa'>Vṛśa</s1> (= वैजान, ‘son of <s1 slp1='vijAnA'>Vijānā</s1>’ <ab>Sch.</ab>), <ls>TāṇḍyaBr. xiii, 3</ls>; <ls>ĀrṣBr.</ls><info lex='m'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "जान",
+            "eid": "19531",
+            "pagenum": 345,
+            "content": "जान¦ <i>jāna, am,</i> n. (fr. rt. <i>jan</i>), Ved. production, birth, origin, birthplace; (<i>as</i>), m. a patronymic of Vṛśa."
+        }
+    ],
+    "PW": [
+        {
+            "word": "जान",
+            "eid": "42514",
+            "pagenum": 2,
+            "content": "<hom>1.</hom> जा/न¦ <lex>n.</lex> <i>Entstehung, Ursprung; Geburtsstätte</i>."
+        },
+        {
+            "word": "जान",
+            "eid": "42515",
+            "pagenum": 2,
+            "content": "<hom>2.</hom> जान¦ <lex>m.</lex> <ab>Patron.</ab> des Hymnendichters <is>Vṛśa</is> <ls>ĀRṢ. BR.</ls> <ab>Vgl.</ab> वैजान."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "जान",
+            "eid": "27256",
+            "pagenum": 3,
+            "content": "1. जा/न¦ (von जन्) <lex>n.</lex> <i>Entstehung, Ursprung; Geburtsstätte</i>: को वे^द\\ जान^मेषाम् (मरुताम्) <ls>ṚV. 5, 53, 1.</ls> दे\\वाना^म् <ls n='ṚV.'>10, 72, 1.</ls> पु\\त्रो यज्जान^ं पि\\त्रोर\\धीय^ति <ls n='ṚV. 10,'>32, 3.</ls> त्रीणि\\ जाना\\ परि^ भूषन्त्यस्य <ls n='ṚV.'>1, 95, 3.</ls> <ls n='ṚV. 1,'>37, 9.</ls> वि\\द्म वै ते\\ जान\\ं यतो\\ जाय^से <ls>AV. 7, 76, 5.</ls> <ls>ŚAT. BR. 3, 2, 1, 40.</ls>"
+        },
+        {
+            "word": "जान",
+            "eid": "27257",
+            "pagenum": 3,
+            "content": "2. जान¦ (von जन) <lex>m.</lex> patron. des <is>Vṛca</is> <ls>PAÑCAV. BR. 13, 3.</ls>"
+        },
+        {
+            "word": "जान",
+            "eid": "74337",
+            "pagenum": 5,
+            "content": "2. जान¦, nach dem Comm. वैजान <ab>d. i.</ab> विजानायाः पुत्रः ."
+        }
     ]
 }

@@ -23,5 +23,41 @@
             "pagenum": 701,
             "content": "vyAla-mfga¦ <i>m.</i> a hunting-leopard."
         }
+    ],
+    "MW": [
+        {
+            "word": "व्यालमृग",
+            "eid": "209964",
+            "pagenum": 1038,
+            "content": "व्याल—मृग ¦ <lex>m.</lex> a fierce animal, <ls>W.</ls><info lex='m'/>"
+        },
+        {
+            "word": "व्यालमृग",
+            "eid": "209965",
+            "pagenum": 1038,
+            "content": "¦ a beast of prey, <ls>MBh.</ls>; <ls>R.</ls>; <ls>VarBṛS.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "व्यालमृग",
+            "eid": "209966",
+            "pagenum": 1038,
+            "content": "¦ a <ab>partic.</ab> beast of prey, <ls>MBh.</ls> (a hunting leopard, <ls>MW.</ls>)<info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "व्यालमृग",
+            "eid": "108757",
+            "pagenum": 6,
+            "content": "व्यालमृग¦ <lex>m.</lex> <div n='1'>— 1〉 <i>Raubthier</i>. <div n='1'>— 2〉 <i>ein <ab>best.</ab> Raubthier</i>."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "व्यालमृग",
+            "eid": "96651",
+            "pagenum": 6,
+            "content": "व्यालमृग¦ <lex>m.</lex> <i>Raubthier</i> <ls>MBH. 3, 11919.</ls> <ls>R. 2, 37, 32.</ls>  <ls>R. GORR. 2, 99, 3.</ls> <ls n='R. GORR.'>3, 1, 35.</ls> <ls>VARĀH. BṚH. S. 6, 3</ls> (दंष्ट्रिव्यालमृगेभ्यः <i>through mordacious animals, serpents and wild beasts</i> <ls>KERN</ls>). <i>ein best. Raubthier</i>: ईहामृगा व्यालमृगा   माङ्गल्याश्च मृगद्विजाः <ls>MBH. 8, 4417.</ls> बिडालमत्ति श्वा - श्वानं व्यालमृगस्तथा (= चित्रव्याघ्र <ls>NĪLAK.</ls>) <ls n='MBH.'>12, 444.</ls>"
+        }
     ]
 }

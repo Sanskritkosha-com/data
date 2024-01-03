@@ -15,5 +15,55 @@
             "pagenum": 705,
             "content": "Sakri¦ <i>m.</i> 1. A cloud; 2. Indra’s thunderbolt; 3. an elephant."
         }
+    ],
+    "MW": [
+        {
+            "word": "शक्रि",
+            "eid": "211155",
+            "pagenum": 1045,
+            "content": "शक्रि ¦ <lex>m.</lex> (only <ls>L.</ls>) a cloud<info lex='m'/>"
+        },
+        {
+            "word": "शक्रि",
+            "eid": "211156",
+            "pagenum": 1045,
+            "content": "¦ a thunderbolt<info lex='inh'/>"
+        },
+        {
+            "word": "शक्रि",
+            "eid": "211157",
+            "pagenum": 1045,
+            "content": "¦ an elephant<info lex='inh'/>"
+        },
+        {
+            "word": "शक्रि",
+            "eid": "211158",
+            "pagenum": 1045,
+            "content": "¦ a mountain.<info lex='inh'/>"
+        }
+    ],
+    "MW72": [
+        {
+            "word": "शक्रि",
+            "eid": "45974",
+            "pagenum": 986,
+            "content": "<i>Śakri, is,</i>¦ m. a cloud; a thunderbolt; an elephant; a mountain."
+        }
+    ],
+    "PW": [
+        {
+            "word": "शक्रि",
+            "eid": "109477",
+            "pagenum": 6,
+            "content": "*शक्रि¦ <lex>m.</lex> = मेघ, वज्र, हस्तिन् und पर्वत."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "शक्रि",
+            "eid": "97233",
+            "pagenum": 7,
+            "content": "शक्रि¦ <lex>m.</lex> = मेघ, वज्र, हस्तिन् und पर्वत <ls>UṆADIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls>"
+        }
     ]
 }

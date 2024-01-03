@@ -7,5 +7,41 @@
             "pagenum": 736,
             "content": "Sveta-vAjin¦ <i>m.</i> 1. the moon; 2. an epithet of Arjuna."
         }
+    ],
+    "MW": [
+        {
+            "word": "श्वेतवाजिन्",
+            "eid": "224741",
+            "pagenum": 1107,
+            "content": "श्वेत—वाजिन् ¦ <lex>m.</lex> a white horse, <ls>MW.</ls><info lex='m'/>"
+        },
+        {
+            "word": "श्वेतवाजिन्",
+            "eid": "224742",
+            "pagenum": 1107,
+            "content": "¦ ‘having <ab n='white'>wh°</ab> horses’, the moon, <ls>L.</ls><info lex='inh'/>"
+        },
+        {
+            "word": "श्वेतवाजिन्",
+            "eid": "224743",
+            "pagenum": 1107,
+            "content": "¦ <ab>N.</ab> of <s1 slp1='arjuna'>Arjuna</s1>, <ls>L.</ls><info lex='inh'/>"
+        }
+    ],
+    "PW": [
+        {
+            "word": "श्वेतवाजिन्",
+            "eid": "116011",
+            "pagenum": 6,
+            "content": "*श्वेतवाजिन्¦ <lex>m.</lex> <div n='1'>— 1〉 <i>der Mond</i>. <div n='1'>— 2〉 <ab>Bein.</ab> <is>Arjuna</is>ʼs."
+        }
+    ],
+    "PWG": [
+        {
+            "word": "श्वेतवाजिन्",
+            "eid": "102341",
+            "pagenum": 7,
+            "content": "श्वेतवाजिन्¦ <lex>m.</lex> <div n='1'> 1) <i>der Mond</i> <ls>H. 104.</ls> <div n='1'>— 2) Bein. <is>Arjuna's</is> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
+        }
     ]
 }
