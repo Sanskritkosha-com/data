@@ -23,5 +23,21 @@
             "pagenum": 7,
             "content": "नविद्य¦ <lex>Adj.</lex> <i>unwissend</i> <ls>MBH. 1,76,63</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "नविद्य",
+            "eid": "16489",
+            "pagenum": 228,
+            "content": "<i>navidya</i>¦ Adj. unwissend, <ls>MBh.</ls> 1, 76, 63. {part=,seq=16740,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "नविद्य",
+            "eid": "11404",
+            "pagenum": 353,
+            "content": "<b>na-vidya-</b>¦ <ab>a.</ab> <i>na-vidvāṃs-</i> <ab>a. v.</ab> ignorant."
+        }
     ]
 }

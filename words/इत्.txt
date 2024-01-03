@@ -85,5 +85,29 @@
             "pagenum": 5,
             "content": "इत्¦ vgl. दिवित् ."
         }
+    ],
+    "SHS": [
+        {
+            "word": "इत्",
+            "eid": "6225",
+            "pagenum": 107,
+            "content": "इत्¦ ind. A grammatical term, implying a letter in the inflective particles that is to be rejected."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "इत्",
+            "eid": "6228",
+            "pagenum": 130,
+            "content": "इत्¦ <i>ind.</i> A grammatical term, implying a letter in the inflective particles that is to be rejected."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "इत्",
+            "eid": "5611",
+            "pagenum": 106,
+            "content": "इत्¦ <i>ind.</i> Rejection of letters."
+        }
     ]
 }

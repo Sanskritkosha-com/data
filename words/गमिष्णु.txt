@@ -59,5 +59,21 @@
             "pagenum": 7,
             "content": "गमिष्णु¦ II. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गमिष्णु",
+            "eid": "12134",
+            "pagenum": 167,
+            "content": "<i>gamiṣṇu</i>¦ , lies: sich zu begeben beabsichtigend statt zu d. b. {part=,seq=12320,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "गमिष्णु",
+            "eid": "8680",
+            "pagenum": 225,
+            "content": "<b>gamiṣṇu-</b>¦ <ab>ag.</ab> qui a l'intention d'aller à (<ab>acc.</ab>)."
+        }
     ]
 }

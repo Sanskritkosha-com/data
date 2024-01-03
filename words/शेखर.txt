@@ -168,5 +168,45 @@
             "pagenum": 7,
             "content": "शेखर¦ <div n='1'> 1) <div n='2'> c) शिरः° <ls>VĀMANA 2, 2, 14.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शेखर",
+            "eid": "25247",
+            "pagenum": 347,
+            "content": "<i>śekhara</i>¦ m. °Wipfel, <ls>Govardh.</ls> 349. {part=,seq=25590,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शेखर",
+            "eid": "40747",
+            "pagenum": 728,
+            "content": "शेखर¦ m. (-रः) 1. A garland of flowers worn on the crown of the head. 2. A crest. 3. The burden of a song. 4. Anything the best of its kind, (when used at the end of a compound.) f. (-री) A parasite plant. n. (-रं) 1. The root of the Hyperanthera morunga. 2. Cloves. E. शिखि to go, अरन् aff.; the nasal omitted."
+        }
+    ],
+    "STC": [
+        {
+            "word": "शेखर",
+            "eid": "20444",
+            "pagenum": 737,
+            "content": "<b>śekhara-</b>¦ <ab>m.</ab> sommet (de la tête) ; guirlande <lbinfo n='5'/> (portée sur la tête), diadème, couronne ; pic, sommet ; <ab>ifc.</ab> le meilleur, le plus beau de ; <i>-tā-</i> <ab>f.</ab> fait d'être la meilleure partie ou le plus beau ; <i>-ī-kṛ-</i> faire de <ab>qqch.</ab> un diadème.  <P><i>°jyotis-</i> <ab>m.</ab> <ab>n.</ab> d'un roi."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शेखर",
+            "eid": "38879",
+            "pagenum": 856,
+            "content": "शेखर¦ m. (-रः) .²1 A garland of flowers worn on the crown of the head. .²2 A crest. f. (-री) A parasite plant. n. (-रं) The root of the <bot>Hyperanthera morunga</bot>. .E. शिथि to go, अरन् aff., and the nasal omitted."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शेखर",
+            "eid": "38532",
+            "pagenum": 775,
+            "content": "शेखर¦ (रः) 1. <i>m.</i> A garland; a crest. <i>f.</i> (ई) A parasite plant. <i>n.</i> Root of the <i>Hyperanthera morunga.</i>"
+        }
     ]
 }

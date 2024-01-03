@@ -23,5 +23,49 @@
             "pagenum": 231,
             "content": "<i>Kuka, as, ā, am,</i>¦ taking, accepting."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुक",
+            "eid": "10709",
+            "pagenum": 147,
+            "content": "°<i>kuka</i>¦ m. <ls>H</ls> 43, 288 = <i>*kokate māṃsādy aśituṃ ādatte … śivāvāyasādiḥ</i>; 349 [= <i>māṃsādanapara</i>]. {part=,seq=10867,type=°,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुक",
+            "eid": "10528",
+            "pagenum": 184,
+            "content": "कुक¦ r. 1st cl. (कोकते) To take, to accept."
+        },
+        {
+            "word": "कुक",
+            "eid": "10529",
+            "pagenum": 184,
+            "content": "कुक¦ mfn. (-कः-का-कं) Taking, accepting. E. कुक and क aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुक",
+            "eid": "10535",
+            "pagenum": 224,
+            "content": "कुक¦ r. 1st cl. (कोकते) To take, to accept."
+        },
+        {
+            "word": "कुक",
+            "eid": "10536",
+            "pagenum": 224,
+            "content": "कुक¦ mfn. (-कः-का-कं) Taking, accepting. .E. कुक and क aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुक",
+            "eid": "9977",
+            "pagenum": 189,
+            "content": "कुक¦ (कः-का-कं) <i>a.</i> Taking."
+        }
     ]
 }

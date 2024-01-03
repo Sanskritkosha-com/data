@@ -155,5 +155,65 @@
             "pagenum": 7,
             "content": "कृ/प¦ II. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कृप",
+            "eid": "11179",
+            "pagenum": 154,
+            "content": "<i>kṛpa</i>¦ , so zu akzentuieren. {part=,seq=11348,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कृप",
+            "eid": "11406",
+            "pagenum": 200,
+            "content": "कृप(ऊ, ऌ)ऊकृपॢ¦ r. 1st cl. (कल्पते) to be able. r. 1st and 10th cls. (कल्पति, कल्पयति) 1. To think or imagine. 2. To mix. 3. To paint or colour. r. 1st cl. (कृपति) To have pity or mercy. r. 10th cl. (कृपयति) To be weak. In the first roots ल or ऌ is substituted for ऋ."
+        },
+        {
+            "word": "कृप",
+            "eid": "11407",
+            "pagenum": 200,
+            "content": "कृप¦ m. (-पः) 1. The name of a sage, the brother-in-law of DRONA. 2. A name of VYASA, the compiler of Vedas and Puranas. f. (-पा) Tenderness, compassionateness f. (-पी) The wife of the sage DRONA. E. कृप् to be able, &c. अङ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कृप",
+            "eid": "8230",
+            "pagenum": 206,
+            "content": "<b>kṛpa-</b>¦ <ab>m.</ab> <i>-ī-</i> <ab>f.</ab> fils et fille du sage Śaradvant. <lbinfo n='4'/>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कृप",
+            "eid": "691",
+            "pagenum": 1,
+            "content": "<b>Kṛpa</b>¦ is mentioned in the Rigveda,<sup>1</sup> along with Ruśama and <b>Śyāvaka,</b> as a protégé of Indra. <F>1) viii. 3, 12; 4, 2. <i>Cf.</i> Ludwig, Translation of the Rigveda, 3, 163.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कृप",
+            "eid": "11412",
+            "pagenum": 244,
+            "content": "कृप¦ (ऊ, ऌ) ऊकृपॢ r. 1st cl. (कल्पते) To be able. r. 1st and 10th cls. (कल्पति, कल्पयति) .²1 To think or imagine. .²2 To mix. .²3 To paint or colour. r. 1st cl. (कृपति) To have pity or mercy. r. 10th cl. (कृपयति) To be weak. In the first roots ल ॡ is substituted for ऋ."
+        },
+        {
+            "word": "कृप",
+            "eid": "11413",
+            "pagenum": 244,
+            "content": "कृप¦ m. (-पः) .²1 The name of a sage, the brother-in-law of DROṆA. .²2 A name of VYĀSA, the compiler of the <i>Vedas</i> and <i>Purāṇas.</i> f. (-पा) Tenderness, compassionateness. f. (-पी) The wife of the sage DROṆA. .E. कृप to be able, &c. अङ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कृप",
+            "eid": "10861",
+            "pagenum": 208,
+            "content": "कृप¦ (पः) 1. <i>m.</i> Brother-in-law of <i>Dro-</i> <i>nā, Vyāsa. f.</i> (पी) <i>Dronā's</i> wife."
+        }
     ]
 }

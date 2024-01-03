@@ -72,5 +72,29 @@
             "pagenum": 5,
             "content": "दुश्चर्मन्¦ = शिपिविष्ट (so auch <ls>H.</ls>) <ls>HALĀY. 5, 31.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दुश्चर्मन्",
+            "eid": "15552",
+            "pagenum": 214,
+            "content": "<i>Duścarman</i>¦ m. °Eigenname, <ls>S</ls> II, 363, 5. {part=,seq=15793,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "दुश्चर्मन्",
+            "eid": "10782",
+            "pagenum": 316,
+            "content": "<b>duś-carman-</b>¦ <ab>a.</ab> qui a une maladie de la peau ; lépreux."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "दुश्चर्मन्",
+            "eid": "1337",
+            "pagenum": 1,
+            "content": "<b>Duś-carman,</b>¦ ‘afflicted with a skin disease,’ occurs in the Taittirīya Saṃhitā<sup>1</sup> and Brāhmaṇa.<sup>2</sup> The disease meant is probably leprosy, the usual name of which is <b>Kilāsa.</b><sup>3</sup> <F>1) ii. 1, 4, 3; 5, 1, 7.</F> <F>2) i. 7, 8, 3.</F> <F>3) Pañcaviṃśa Brāhmaṇa, xiv. 3, 17; xxiii. 16, 11; Taittirīya Āraṇyaka v. 4, 12.</F>"
+        }
     ]
 }

@@ -39,5 +39,29 @@
             "pagenum": 1,
             "content": "ओडिका¦ und ओडी <lex>f.</lex> <i>wilder Reis</i> <ls>RATNAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ओडिका",
+            "eid": "8340",
+            "pagenum": 143,
+            "content": "ओडिका¦ f. (-का) Wild rice."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ओडिका",
+            "eid": "8344",
+            "pagenum": 175,
+            "content": "ओडिका¦ f. (-का) Wild rice."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ओडिका",
+            "eid": "7771",
+            "pagenum": 145,
+            "content": "ओडिका¦ (का) 1. <i>f.</i> Wild rice."
+        }
     ]
 }

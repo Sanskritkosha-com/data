@@ -23,5 +23,37 @@
             "pagenum": 6,
             "content": "वज्रवल्ली¦ <lex>f.</lex> <i>Heliotropium indicum</i> <ls>HĀR. 95.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वज्रवल्ली",
+            "eid": "23098",
+            "pagenum": 319,
+            "content": "*<i>vajravallī</i>¦ Heliotropium indicum, V 369; E 863, Anm. 4 (P). {part=,seq=23421,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वज्रवल्ली",
+            "eid": "34878",
+            "pagenum": 626,
+            "content": "वज्रवल्ली¦ f. (-ल्ली) A species of sun-flower, (Heliotropium.) E. वज्र the thunder-bolt, वल्ली a creeper."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वज्रवल्ली",
+            "eid": "33389",
+            "pagenum": 730,
+            "content": "वज्रवल्ली¦ f. (-ल्ली) A species of sun-flower, (<bot>Heliotropium</bot>.) .E. वज्र the thunder-bolt, and वल्ली a creeper."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वज्रवल्ली",
+            "eid": "32975",
+            "pagenum": 653,
+            "content": "वज्र-वल्ली¦ (ल्ली) 3. <i>f.</i> A sun flower."
+        }
     ]
 }

@@ -105,5 +105,51 @@
             "pagenum": 7,
             "content": "अम्लान¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अम्लान",
+            "eid": "4603",
+            "pagenum": 62,
+            "content": "<i>amlāna</i>¦ 2. Hemādri 1, 284, 15; 285, 9. {part=,seq=4662,type=,n=1}"
+        },
+        {
+            "word": "अम्लान",
+            "eid": "4603.1",
+            "pagenum": 62,
+            "content": "<i>amlāna</i>¦ m. *Gomphraena globosa, <ls>Vās.</ls> 135, 2. {part=,seq=4663,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अम्लान",
+            "eid": "3031",
+            "pagenum": 53,
+            "content": "अम्लान¦ mfn. (-नः-ना-नं) 1. Clean, clear. 2. Bright, unclouded. m. (-नः) Globe amaranth, (Gomphrena globosa.) E. अ neg. and म्लान dirty."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अम्लान",
+            "eid": "3645",
+            "pagenum": 76,
+            "content": "<b>a-mlāna-</b>¦ <ab>a.</ab> non fané ; non affaibli, frais (aussi <ab>fig.</ab>), brillant.  <P><i>°darśana-</i> <ab>a.</ab> qui a l'œil vif.  <P><i>°manas-</i> <ab>a.</ab> alerte, dispos."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अम्लान",
+            "eid": "3033",
+            "pagenum": 64,
+            "content": "अम्लान¦ mfn. (-नः-ना-नं) .²1 Clean, clear. .²2 Bright, unclouded. m. (-नः) Globe amaranth, (<bot>Gomphrena globosa</bot>.) .E. अ neg. and म्लान dirty."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अम्लान",
+            "eid": "2522",
+            "pagenum": 50,
+            "content": "अ-म्लान¦ (नः) 1. <i>m.</i> Globe amaranth. <i>a.</i> Unfaded, clear, bright."
+        }
     ]
 }

@@ -201,5 +201,37 @@
             "pagenum": 7,
             "content": "विप्¦ mit अव <ls>KAUŚ. 58,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विप्",
+            "eid": "23921",
+            "pagenum": 330,
+            "content": "<i>vip</i>¦ mit <i>ava</i>, <ls>Kauś.</ls> 58, 1. {part=,seq=24253,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विप्",
+            "eid": "36966",
+            "pagenum": 662,
+            "content": "विप्¦ r. 10th cl. (वेपयति-ते) To throw."
+        }
+    ],
+    "STC": [
+        {
+            "word": "विप्",
+            "eid": "18752",
+            "pagenum": 662,
+            "content": "<b>VIP-</b>¦ <ab>v.</ab> <i>VEP-.</i>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "विप्",
+            "eid": "2951",
+            "pagenum": 2,
+            "content": "<b>Vip</b>¦ in several passages of the Rigveda<sup>1</sup> refers, according to Roth,<sup>2</sup> to the rods which form the bottom of the Soma filter, and on which the straining cloth is stretched. But this explanation is very doubtful.<sup>3</sup> <F>1) ix. 3, 2; 65, 12; 99, 1.</F> <F>2) St. Petersburg Dictionary, <i>s.v.</i></F> <F>3) Hillebrandt, <i>Vedische Mythologie,</i> 1, 203; Bergaigne, <i>Religion Vedique,</i> 1, v; Oldenberg, <i>Zeitschrift der Deutschen</i> <i>Morgenländischen Gesellchaft,</i> 54, 171; Geldner, <i>Vedische Studien,</i> 3, 97-110.</F>"
+        }
     ]
 }

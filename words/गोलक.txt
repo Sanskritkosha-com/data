@@ -178,5 +178,43 @@
             "pagenum": 7,
             "content": "गोलक¦ II. 5. 2〉 <lex>f.</lex> गोळिका <i>Tausendfuss</i> <ls>SUD.</ls> zu <ls>ĀPAST. GṚHY. 23,3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गोलक",
+            "eid": "12558",
+            "pagenum": 173,
+            "content": "<i>golaka</i>¦ <ls>Gobh.</ls> 4, 4, 26 nach dem Komm. = <i>palāśa</i>. 2. f. <i>golikā</i> Tausendfuß, <ls>Sud.</ls> zu <ls>Āpast. Gṛhy.</ls> 23, 3. {part=,seq=12749,type=,n=1}"
+        },
+        {
+            "word": "गोलक",
+            "eid": "12558.1",
+            "pagenum": 173,
+            "content": "<i>golaka</i>¦ [m.? n.?] = <i>maṇḍala</i>, <ls>Śrīk.</ls> VI. 71. {part=,seq=12750,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गोलक",
+            "eid": "14064",
+            "pagenum": 248,
+            "content": "गोलक¦ m. (-कः) 1. A wooden ball for playing with, or any thing globular, a sphere, a globe, &c. 2. A widow's bastard. 3. A water jar. 4. Gum myrrh, 5. Pease. n. (-कं) The heaven of KRISHNA. E. कन् added to the preceding. गुड-ण्वुल् डस्य लः ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गोलक",
+            "eid": "14073",
+            "pagenum": 301,
+            "content": "गोलक¦ m. (-कः) .²1 A wooden ball for playing with, or any thing globular, a sphere, a globe, &c. .²2 A widow's bastard. .²3 A water jar. .²4 Gum myrrh. .²5 Pease. n. (-कं) The heaven of KṚṢṆA. .E. कन् added to the preceding."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गोलक",
+            "eid": "13528",
+            "pagenum": 263,
+            "content": "गोलक¦ (कः) 1. <i>m.</i> A wooden play ball, a globe; pease; water-jar; myrrh. <i>n. Krishna's</i> heaven."
+        }
     ]
 }

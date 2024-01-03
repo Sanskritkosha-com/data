@@ -153,5 +153,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> श्रा¦ mit अधि VI. <i>kochen</i>. °श्राय <ls>JĀTAKAM. 7</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "श्रा",
+            "eid": "25353",
+            "pagenum": 348,
+            "content": "1. <i>śrā</i>¦ mit <i>adhi</i> kochen. <i>°śrāya</i> <ls>Jātakam.</ls> 7. {part=,seq=25696,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "श्रा",
+            "eid": "41031",
+            "pagenum": 733,
+            "content": "श्रा¦ r. 2nd cl. (श्राति) 1. To boil, to cook, to mature, to ripen, &c. 2. To sweat. Causal from, (श्रपयति ते) To render mature or ripe by cooking, &c. (श्रापयति) To heat, to cause to sweat."
+        }
+    ],
+    "STC": [
+        {
+            "word": "श्रा",
+            "eid": "20565",
+            "pagenum": 742,
+            "content": "<b>ŚRĀ-</b>¦ <ab>caus.</ab> <i>śrapayati -te</i> (<i>śrapyate</i>) ; (<i>śṛta-</i>) -- faire cuire ou bouillir ou rôtir ; mettre au four (poterie)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "श्रा",
+            "eid": "39139",
+            "pagenum": 862,
+            "content": "श्रा¦ r. 2nd cl. (श्राति) .²1 To boil, to cook, to mature, to ripen, &c. .²2 To sweat. <i>Causal form</i> (श्रपयति) To render mature or ripe by cooking, &c. (श्रापयति) To heat, to cause to sweat."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "श्रा",
+            "eid": "38798",
+            "pagenum": 781,
+            "content": "श्रा¦ (ल) श्राति 2. <i>a.</i> To boil; to sweat; <i>Causal,</i> to heat, to ripen."
+        }
     ]
 }

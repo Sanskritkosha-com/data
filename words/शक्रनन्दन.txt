@@ -31,5 +31,37 @@
             "pagenum": 7,
             "content": "शक्रनन्दन¦ <lex>m.</lex> <is>Indra's</is> <i>Sohn</i> <ab>d. i.</ab> <is>Arjuna</is> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शक्रनन्दन",
+            "eid": "24712",
+            "pagenum": 340,
+            "content": "*<i>Śakranandana</i>¦ m. = Arjuna, <ls>Yudh.</ls> 7, 124. {part=,seq=25051,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शक्रनन्दन",
+            "eid": "39274",
+            "pagenum": 703,
+            "content": "शक्रनन्दन¦ m. (-नः) ARJUNA. E. शक्र INDRA, नन्दन a son."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शक्रनन्दन",
+            "eid": "37489",
+            "pagenum": 825,
+            "content": "शक्रनन्दन¦ m. (-नः) ARJUNA. .E. शक्र INDRA, and नन्दन son."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शक्रनन्दन",
+            "eid": "37123",
+            "pagenum": 743,
+            "content": "शक्र-नन्दन¦ (नः) 1. <i>m. Arjuna.</i>"
+        }
     ]
 }

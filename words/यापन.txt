@@ -127,5 +127,51 @@
             "pagenum": 6,
             "content": "यापन¦ (wie eben) <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>verstreichen lassend, zu Ende bringend</i>: यामाः स्वान्तरयापनाः <ls>BHĀG. P. 3, 22, 35.</ls> <div n='2'>— b) <i>erleichternd, lindernd</i>; so heisst ein gewöhnlich aus Honig und Oel bereitetes Klystier (daher माधुतैलिक genannt) <ls>SUŚR. 2, 198, 3.</ls> <div n='2'>— c) <i>das Leben fristend, unterhaltend</i>: अस्वाद्वपि हि यापनम् <ls>MBH. 12, 7719.</ls> <div n='1'>— 2) <lex>f.</lex> (आ) und <lex>n.</lex> <div n='2'> a) <lex>n.</lex> <i>das Verjagen</i> <ls>TRIK. 3, 3, 254.</ls> <ls>H. an. 3, 401.</ls> <ls>MED. n. 110.</ls> <div n='2'>— b) <i>das Verstreichenlassen der Zeit, Aufschieben, Versäumen, Versäumniss</i>; <lex>n.</lex> = कालक्षेप, कालविक्षेप <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>P. 5, 4, 60.</ls> <ls>VOP. 7, 90.</ls> यापना <ls>NALOD. 2, 18.</ls> कालयापन (s. auch bes.) dass. <ls>KĀM. NĪTIS. 17, 31.</ls> कालयापना <ls>Spr. 1949.</ls> <div n='2'>— c) <i>das Lindern</i> (einer Krankheit): यायनार्थम् <ls>SUŚR. 2, 78, 11. 343, 8.</ls> <div n='2'>— d) <i>das Fristen, Erhalten</i>: देहयापनं कर् <ls>MBH. 3, 15410.</ls> विना वधं न कुर्वन्ति तापसाः प्राणयापनम् <ls n='MBH.'>12, 447. fg.</ls> आत्मयापनाय स्थापनं प्रतिष्ठा  <ls>P. 6, 1, 146</ls>, <ls>Sch.</ls> यापन = वर्तन, यात्रा <i>Lebensunterhalt</i> <ls>AK. 3, 4, 25, 177.</ls> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED. n. 110. r. 79.</ls> <div n='2'>— e) <i>das Ausüben, Ueben</i>: धर्मयापना <ls>MBH. 12, 4836.</ls> = धर्मोपदेश <ls>NĪLAK.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "यापन",
+            "eid": "22216",
+            "pagenum": 306,
+            "content": "<i>yāpana</i>¦ n. *Lebensunterhalt, Y 44, 238. {part=,seq=22521,type=,n=1}"
+        },
+        {
+            "word": "यापन",
+            "eid": "22216.1",
+            "pagenum": 306,
+            "content": "<i>yāpana</i>¦ n. *Verjagen, <ls>Viṣṇubh.</ls> III, 27<sup>b</sup> (in <i>mala° = pāpanāśana</i>). {part=,seq=22522,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "यापन",
+            "eid": "32662",
+            "pagenum": 587,
+            "content": "यापन¦ n. (-नं) 1. Spending or passing away time. 2. Abinding, staying, being. 3. Rejection, ejection, expelling, expulsion. 4. Allaying, alleviating, (as pain or sickness.) E. या to go, causal form, aff. ल्युट् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "यापन",
+            "eid": "17152",
+            "pagenum": 590,
+            "content": "<b>yāpana-</b>¦ <ab>ag.</ab> qui prolonge la vie ; qui mène à terme ; <ab>nt.</ab> et <i>-ā-</i> <ab>f.</ab> délai, fait de laisser passer le temps ; maintien ; exercice."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "यापन",
+            "eid": "31425",
+            "pagenum": 684,
+            "content": "यापन¦ n. (-नं) .²1 Spending or passing away time. .²2 Abiding staying, being. .²3 Rejection, ejection, expelling, expulsion. .²4 Allaying, alleviating, (as pain or sickness.) .E. या to go, causal form, aff. ल्युट्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "यापन",
+            "eid": "30986",
+            "pagenum": 613,
+            "content": "यापन¦ (नं) 1. <i>n.</i> Spending time; staying; rejecting; allaying."
+        }
     ]
 }

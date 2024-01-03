@@ -133,5 +133,35 @@
             "pagenum": 7,
             "content": "एज्¦ mit सम्, lies <i>beben</i> st. <i>sich erheben.</i>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "एज्",
+            "eid": "28331",
+            "pagenum": 390,
+            "content": "<i>ej</i>¦ mit <i>°ni</i> wanken von (Abl.), <ls>Kir.</ls> XV, 22. {part=N,seq=28702,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "एज्",
+            "eid": "7342",
+            "pagenum": 167,
+            "content": "<b>EJ-</b>¦ <i>ejati ; ejayati</i> -- trembler ; <ab>caus.</ab> agiter."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एज्",
+            "eid": "7633",
+            "pagenum": 142,
+            "content": "एज्¦ (ऋ) एजति 1. <i>a.</i> To tremble."
+        },
+        {
+            "word": "एज्",
+            "eid": "7634",
+            "pagenum": 142,
+            "content": "एज्¦ (ऋ ङ) एजते 1. <i>d.</i> To shine."
+        }
     ]
 }

@@ -31,5 +31,29 @@
             "pagenum": 3,
             "content": "द्रेक्क¦ <lex>m.</lex> = द्रेक्काण <ls>WILS.</ls> <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "द्रेक्क",
+            "eid": "20013",
+            "pagenum": 358,
+            "content": "द्रेक्क¦ m. (-क्कः) The regent of one-third of a planetary sign."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "द्रेक्क",
+            "eid": "20027",
+            "pagenum": 430,
+            "content": "द्रेक्क¦ m. (-क्कः) The regent of one-third of a planetary sign."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "द्रेक्क",
+            "eid": "19512",
+            "pagenum": 384,
+            "content": "द्रेक्क¦ (क्कः) 1. <i>m.</i> The regent of one third of a planetary sign."
+        }
     ]
 }

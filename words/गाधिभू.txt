@@ -23,5 +23,37 @@
             "pagenum": 7,
             "content": "*गाधिभू¦ <lex>m.</lex> <ab>Patron.</ab> <is>Viśvāmitra</is>ʼs."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गाधिभू",
+            "eid": "12260",
+            "pagenum": 168,
+            "content": "*<i>Gādhibhū</i>¦ m. Patron. Viśvāmitra's. {part=,seq=12448,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गाधिभू",
+            "eid": "13460",
+            "pagenum": 236,
+            "content": "गाधिभू¦ m. (-भूः) The saint VISWAMITRA. E. गाधि, and भू born, the son of GADHI."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गाधिभू",
+            "eid": "13468",
+            "pagenum": 287,
+            "content": "गाधिभू¦ m. (-भूः) The saint VIŚVĀMITRA. .E. गाधि, and भू born, the son of GĀDHI."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गाधिभू",
+            "eid": "12924",
+            "pagenum": 251,
+            "content": "गाधि-भू¦ (भूः) 3. <i>m. Viswāmitra.</i>"
+        }
     ]
 }

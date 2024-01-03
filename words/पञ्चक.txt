@@ -169,5 +169,45 @@
             "pagenum": 7,
             "content": "पञ्चक¦ IV. <lex>m.</lex> <ab>Pl.</ab> <i>die fünf ersten Jünger</i> <is>Buddha</is>ʼs <ls>JĀTAKAM. 8</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पञ्चक",
+            "eid": "17484",
+            "pagenum": 241,
+            "content": "<i>pañcaka</i>¦ m. Pl. die fünf ersten Jünger Buddha's, <ls>Jātakam.</ls> 8. {part=,seq=17740,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पञ्चक",
+            "eid": "22799",
+            "pagenum": 412,
+            "content": "पञ्चक¦ mfn. (-कः-का-कं) Five or relating to five, made of five, bought with five, &c. m. (-कः) Any collection or aggregate of five, a five. n. (-कं) A field of battle. E. पञ्च five, and कन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पञ्चक",
+            "eid": "12784",
+            "pagenum": 398,
+            "content": "<b>pañcaka-</b>¦ <ab>a.</ab> qui consiste en 5, qui concerne <lbinfo n='5'/> (le nombre) 5 ; (avec <i>śata-</i>) 5% ; <ab>nt.</ab> groupe de 5."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पञ्चक",
+            "eid": "22814",
+            "pagenum": 492,
+            "content": "पञ्चक¦ mfn. (-कः-का-कं) Five or relating to five, made of five, bought with five, &c. m. (-कः) Any collection or aggregate of five, a five. n. (-कं) A field of battle. .E. पञ्च five, and कन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पञ्चक",
+            "eid": "22286",
+            "pagenum": 439,
+            "content": "पञ्चक¦ (कः-का-कं) <i>a.</i> Relating to five. <i>m.</i> A five. <i>n.</i> Field of battle."
+        }
     ]
 }

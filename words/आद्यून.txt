@@ -96,5 +96,51 @@
             "pagenum": 5,
             "content": "आद्यून¦ <ls>Spr. 4019.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "आद्यून",
+            "eid": "6935",
+            "pagenum": 95,
+            "content": "<i>ādyūna</i>¦ Adj. auch = <i>°vijigīṣāvivarjita</i>, <ls>Yudh.</ls> 7, 118. {part=,seq=7027,type=,n=2}"
+        },
+        {
+            "word": "आद्यून",
+            "eid": "28112",
+            "pagenum": 387,
+            "content": "<i>ādyūna</i>¦ Adj. °dickbäuchig, <ls>Kir.</ls> XI, 5. {part=N,seq=28483,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आद्यून",
+            "eid": "5365",
+            "pagenum": 91,
+            "content": "आद्यून¦ mfn. (-नः-ना-नं) 1. Shamelessly voracious. 2. Without the beginning. E. आङ्, दिव to play or enjoy in the part. past, or आदि first, and ऊन minus."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आद्यून",
+            "eid": "5184",
+            "pagenum": 115,
+            "content": "<b>ādyūna-</b>¦ <ab>a.</ab> vorace ; ventru."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आद्यून",
+            "eid": "5367",
+            "pagenum": 111,
+            "content": "आद्यून¦ mfn. (-नः-ना-नं) .²1 Shamelessly voracious. .²2 Without the beginning. .E. आङ्, दिव to play or enjoy in the part. past, or आदि first, and ऊन minus."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आद्यून",
+            "eid": "4740",
+            "pagenum": 89,
+            "content": "आ-द्यून¦ (नः-ना-नं) <i>a.</i> Shamelessly voracious; without beginning."
+        }
     ]
 }

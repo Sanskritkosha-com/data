@@ -77,5 +77,45 @@
             "pagenum": 7,
             "content": "प्रतिवासिन्¦ IV. <ls>MBH. 15,5,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रतिवासिन्",
+            "eid": "19281",
+            "pagenum": 266,
+            "content": "<i>prativāsin</i>¦ <ls>MBh.</ls> 15, 5, 15. {part=,seq=19555,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रतिवासिन्",
+            "eid": "26641",
+            "pagenum": 482,
+            "content": "प्रतिवासिन्¦ mfn. (-सी-सिनी-सि) A neighbour, neighbouring. E. प्रति near, about, and वासिन् who resides."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रतिवासिन्",
+            "eid": "14597",
+            "pagenum": 464,
+            "content": "<b>prati-vāsin-</b>¦ <ab>a.</ab> voisin."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रतिवासिन्",
+            "eid": "26146",
+            "pagenum": 566,
+            "content": "प्रतिवासिन्¦ mfn. (-सी-सिनी-सि) A neighbour, neighbouring. .E. प्रति near, about, and वासिन् who resides."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रतिवासिन्",
+            "eid": "25638",
+            "pagenum": 508,
+            "content": "प्रति-वासिन्¦ (सी-सिनी-सि) <i>a.</i> Neighbouring; a neighbour."
+        }
     ]
 }

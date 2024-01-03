@@ -237,5 +237,45 @@
             "pagenum": 7,
             "content": "मौलि¦ V. 2〉c〉 <ls>KIR. 12,42</ls>. <ls n='KIR.'>17,8</ls>. <ls>DAMAYANTĪK. 174</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मौलि",
+            "eid": "22054",
+            "pagenum": 304,
+            "content": "<i>mauli</i>¦ 2. c) <ls>Kir.</ls> 12, 42; 17, 8; <ls>Damayantīk.</ls> 174. {part=,seq=22356,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मौलि",
+            "eid": "32279",
+            "pagenum": 580,
+            "content": "मौलि¦ mf. (-लिः-लिः or ली) 1. A lock of hair on the crown of the head. 2. Hair ornamented and braided round the head. 3. A diadem, a tiara. 4. The head. f. (-ली) The earth. E. मूल the root or base, aff. इञ्; or मूल a name, and इञ् aff of descent; or मू to bind, लि aff., and the radical vowel changed."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मौलि",
+            "eid": "17026",
+            "pagenum": 579,
+            "content": "<b>mauli-</b>¦ <ab>m.</ab> tête, sommet ; chef ; diadème, tiare (aussi <ab>f.</ab>) ; chignon, tresse de cheveux ramenés sur le crâne.  <P><i>°maṇi-</i> <ab>m.</ab> joyau de la couronne.  <P><i>°maṇḍana-</i> <ab>nt.</ab> parure pour la chevelure.  <P><i>°mālā-</i> <i>-ikā-</i> <ab>f.</ab> couronne."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मौलि",
+            "eid": "31087",
+            "pagenum": 676,
+            "content": "मौलि¦ mf. (-लिः-ली or -ली) .²1 A lock of hair on the crown of the head. .²2 Hair ornamented and braided round the head. .²3 A diadem, a <i>Tiara.</i> .²4 The head. f. (-ली) The earth. .E. मूल the root or base, aff. इञ् or मूल a name, and इञ् aff. of descent, or मू to bind, लि aff., and the radical vowel changed."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मौलि",
+            "eid": "30640",
+            "pagenum": 606,
+            "content": "मौलि¦ (लिः-ली) 2. <i>m.</i> 3. <i>f.</i> A lock of hair on the crown of the head; a diadem; the head. <i>f.</i> The earth."
+        }
     ]
 }

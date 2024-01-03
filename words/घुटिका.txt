@@ -29,5 +29,19 @@
             "pagenum": 377,
             "content": "¦ (= खट्°) chalk, <ls>Siṃhās. xx, 8/9.</ls><info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "घुटिका",
+            "eid": "12768",
+            "pagenum": 176,
+            "content": "*<i>ghuṭikā</i>¦ <ls>Śṛṅgārasarv.</ls> 155<sup>a</sup>? {part=,seq=12965,type=*,n=1}"
+        },
+        {
+            "word": "घुटिका",
+            "eid": "12768.1",
+            "pagenum": 176,
+            "content": "*<i>ghuṭikā</i>¦ = <i>nalaka</i>, Vīrarāghava zu <ls>Mahāvīrac.</ls> I, 35. {part=,seq=12966,type=*,n=2}"
+        }
     ]
 }

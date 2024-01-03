@@ -68,5 +68,41 @@
             "pagenum": 5,
             "content": "गुम्फ¦ <div n='1'> 1) <i>das Aufreihen</i> überh. <ls>KUVALAY. 111,b. 117,a.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "गुम्फ",
+            "eid": "13707",
+            "pagenum": 241,
+            "content": "गुम्फ¦ r. 6th cl. (गुम्फति) To string together as a garland, &c."
+        },
+        {
+            "word": "गुम्फ",
+            "eid": "13708",
+            "pagenum": 241,
+            "content": "गुम्फ¦ m. (-म्फः) 1. Tying, stringing as a garland, &c. 2. A bracelet. 3. A whisker, a mustachio. E. गुम्फ to tie or string, affix अच्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गुम्फ",
+            "eid": "13716",
+            "pagenum": 293,
+            "content": "गुम्फ¦ r. 6th cl. (गुम्फति) To string together as a garland, &c."
+        },
+        {
+            "word": "गुम्फ",
+            "eid": "13717",
+            "pagenum": 293,
+            "content": "गुम्फ¦ m. (-म्फः) .²1 Tying, stringing as a garland, &c. .²2 A bracelet. .²3 A whisker, a mustachio. .E. गुम्फ to tie or string, affix अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गुम्फ",
+            "eid": "13171",
+            "pagenum": 256,
+            "content": "गुम्फ¦ (म्फः) 1. <i>m.</i> Tying together; a bracelet; a whisker."
+        }
     ]
 }

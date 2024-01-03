@@ -168,5 +168,45 @@
             "pagenum": 7,
             "content": "ऋते/¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ऋते",
+            "eid": "9025",
+            "pagenum": 124,
+            "content": "<i>ṛté</i>¦ , so zu akzentuieren. {part=,seq=9145,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ऋते",
+            "eid": "8034",
+            "pagenum": 138,
+            "content": "ऋते¦ ind. Besides, except. E. ऋत Sautra root, to except, के aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ऋते",
+            "eid": "7318",
+            "pagenum": 164,
+            "content": "<b>ṛte-</b>¦ <ab>prép.</ab> (<ab>abl.</ab> <ab>acc.</ab>) à l'exclusion de, excepté ; sans."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ऋते",
+            "eid": "8039",
+            "pagenum": 169,
+            "content": "ऋते¦ <i>ind.</i> Besides, except. .E. ऋत <i>Sautra</i> root, to except, के aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ऋते",
+            "eid": "7456",
+            "pagenum": 139,
+            "content": "ऋते¦ <i>prep.</i> Besides, except."
+        }
     ]
 }

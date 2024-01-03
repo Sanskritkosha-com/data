@@ -37,5 +37,37 @@
             "pagenum": 7,
             "content": "अपुरुष¦ <lex>m.</lex> <i>Unmensch, ein grausamer Knecht</i> (<is>Yama</is>ʼs) <ls>JĀTAKAM. 29,30</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपुरुष",
+            "eid": "3635",
+            "pagenum": 50,
+            "content": "<i>apuruṣa</i>¦ m. Unmensch, ein grausamer Knecht (Yama's), <ls>Jātakam.</ls> 29, 30. {part=,seq=3685,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अपुरुष",
+            "eid": "2241",
+            "pagenum": 40,
+            "content": "अपुरुष¦ mfn. (-षः-षा-षं) Unmanly. E. अ neg. पुरुष a man."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अपुरुष",
+            "eid": "2243",
+            "pagenum": 48,
+            "content": "अपुरुष¦ mfn. (-षः-षा-षं) Unmanly. .E. अ neg. पुरुष a man."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अपुरुष",
+            "eid": "1860",
+            "pagenum": 38,
+            "content": "अ-पुरुष¦ (षः-षा-षं) <i>a.</i> Unmanly."
+        }
     ]
 }

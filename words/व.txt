@@ -305,5 +305,63 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> व¦ V. Scheinbar <ls>MĀLAV. (ed. BOLL.) 40</ls>, da hier पृच्छतेव zu verbinden ist."
         }
+    ],
+    "SCH": [
+        {
+            "word": "व",
+            "eid": "23052",
+            "pagenum": 318,
+            "content": "1. <i>va</i>¦ nur scheinbar <ls>Mālav.</ls> (ed. <ls>Boll.</ls>) 40, da hier <i>pṛcchateva</i> zu verbinden ist. {part=,seq=23374,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "व",
+            "eid": "34700",
+            "pagenum": 623,
+            "content": "व¦ The twenty-ninth consonant of the Nagari alphabet, or more properly the semi vowel V; it is often confounded with the labial consonant or ब, with which it is also optionally interchangeable."
+        },
+        {
+            "word": "व",
+            "eid": "34701",
+            "pagenum": 623,
+            "content": "व¦ m. (-वः) 1. Air, wind. 2. The arm. 3. A name of VARUṆA. 4. Addressing. 5. Auspiciousness. 6. Strong, powerful. 7. A dwelling. 8. The residence of VARUṆA. 9. The ocean. 10. Water. 11. Shaving. 12. Like, as, (rarely used.) 13. An epithet of RĀHU. 14. A tiger. 15. Cloth. f. (-वा) 1. Going. 2. Hurting, injury. 3. An arrow. 4. Weaving. 5. A weaver. n. (-वं) A sort of incantation or Mantra, of which the object is the deity VARUṆA. E. वा to go, to injure, &c., aff. ड ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "व",
+            "eid": "17750",
+            "pagenum": 620,
+            "content": "<b>va</b>¦ = <i>iva</i> (rare)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "व",
+            "eid": "33230",
+            "pagenum": 726,
+            "content": "व¦ The twenty-ninth consonant of the <i>Nāgarī</i> alphabet, or more properly the semivowel V; it is often confounded. with the labial consonant or ब, with which it is also optionally interchangeable."
+        },
+        {
+            "word": "व",
+            "eid": "33231",
+            "pagenum": 727,
+            "content": "व¦ m. (-वः) .²1 Air, wind. .²2 The arm. .²3 A name of VARUṆA. .²4 Addressing. .²5 Auspiciousness. .²6 Strong, powerful. .²7 A dwelling. .²8 The residence of VARUṆA. .²9 The ocean. .²10 Water. .²11 Shaving. .²12 Like, as. f. (वा) .²1 Going. .²2 Hurting, injury. .²3 An arrow. .²4 Weaving. .²5 A weaver. n. (वं) A sort of incantation or <i>Mantra,</i> of which the object is the deity VARUṆA. .E. वा to go, to injure, &c., aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "व",
+            "eid": "32815",
+            "pagenum": 650,
+            "content": "व¦ <i>v</i> The 29th consonant; last letter of the liquids."
+        },
+        {
+            "word": "व",
+            "eid": "32816",
+            "pagenum": 650,
+            "content": "व¦ (वः) 1. <i>m.</i> Air; the arm; <i>Varuna;</i> his residence; shaving. <i>f.</i> (वा) Going; injury; arrow; weaving. <i>n.</i> Incantation to <i>Varuna.</i>"
+        }
     ]
 }

@@ -220,5 +220,21 @@
             "pagenum": 5,
             "content": "तूर्य¦ N. pr. einer Familie <ls>HALL 203.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तूर्य",
+            "eid": "14739",
+            "pagenum": 203,
+            "content": "<i>tūrya</i>¦ n. ° = <i>gajānāṃ galagarjitam</i>, <ls>H</ls> 44, 24. {part=,seq=14972,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "तूर्य",
+            "eid": "10116",
+            "pagenum": 288,
+            "content": "<b>tūrya-</b>¦ <ab>nt.</ab> instrument de musique ; <ab>ifc.</ab> <ab>fig.</ab> résonance, bruit ; <i>-maya-</i> <i>-ī-</i> <ab>a.</ab> musical.  <P><i>°ghoṣa-</i> <ab>m.</ab> son d'instruments."
+        }
     ]
 }

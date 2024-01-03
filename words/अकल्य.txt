@@ -101,5 +101,51 @@
             "pagenum": 7,
             "content": "अकल्य¦ I. 1. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकल्य",
+            "eid": "72",
+            "pagenum": 2,
+            "content": "<i>akalya</i>¦ (so zu lesen) Adj. nicht zu erraten, <ls>Daśak.</ls> 42, 19. {part=,seq=75,type=,n=1}"
+        },
+        {
+            "word": "अकल्य",
+            "eid": "72.1",
+            "pagenum": 2,
+            "content": "<i>akalya</i>¦ Adj. mit <i>na</i> und <i>jātu</i> stets bereit zu (Lok. eines Nom. act.), <ls>MBh.</ls> 5, 975f. <i>akalpa</i> v.l. {part=,seq=76,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अकल्य",
+            "eid": "68",
+            "pagenum": 2,
+            "content": "अकल्य¦ mfn. (-ल्य-ल्या-ल्यं) Sick, diseased. E. अ priv. कल्य well."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकल्य",
+            "eid": "37",
+            "pagenum": 2,
+            "content": "<b>a-kalya-</b>¦ <ab>a.</ab> malade ; non devinable ; vrai (?)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अकल्य",
+            "eid": "69",
+            "pagenum": 2,
+            "content": "अकल्य¦ mfn. (-ल्यः-ल्या-ल्यं) Sick, diseased. .E. अ priv. कल्य well."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकल्य",
+            "eid": "56",
+            "pagenum": 2,
+            "content": "अ-कल्य¦ (ल्यः-ल्या-ल्यं) <i>a.</i> Sick."
+        }
     ]
 }

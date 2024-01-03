@@ -142,5 +142,57 @@
             "pagenum": 5,
             "content": "पुस्त¦ <div n='1'> 2) °भारभरण <ls>Verz. d. Oxf. H. 250,a,31.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पुस्त",
+            "eid": "18806",
+            "pagenum": 259,
+            "content": "<i>pusta</i>¦ n. Buch auch <ls>S</ls> II, 419, 2. {part=,seq=19074,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पुस्त",
+            "eid": "25568",
+            "pagenum": 463,
+            "content": "पुस्त¦ r. 10th cl. (पुस्तयति-ते) 1. To respect. 2. To disregard, to treat with disrespect. 3. To bind. 4. To smear. चु० उभ० सक० सेट् ।"
+        },
+        {
+            "word": "पुस्त",
+            "eid": "25569",
+            "pagenum": 463,
+            "content": "पुस्त¦ mfn. (-स्तः-स्ता-स्तं) 1. Filled. 2. Covered. n. (-स्तं) 1. Smearing, anointing, painting, plastering, &c. 2. Any thing made of metal, wood or clay, &c. nf. (-स्तं-स्ती) A book, a manuscript. E. पुस्त to bind, अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पुस्त",
+            "eid": "13915",
+            "pagenum": 443,
+            "content": "<b>pusta-</b>¦ <ab>m.</ab> <ab>nt.</ab> fait de modeler la terre, sculpture.  <P><i>°karman-</i> <i>°kṛt-</i> <ab>m.</ab> modeleur."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पुस्त",
+            "eid": "25291",
+            "pagenum": 547,
+            "content": "पुस्त¦ r. 10th cl. (पुस्तयति) .²1 To respect. .²2 To disregard, to treat with disrespect. .²3 To bind. .²4 To smear."
+        },
+        {
+            "word": "पुस्त",
+            "eid": "25292",
+            "pagenum": 547,
+            "content": "पुस्त¦ mfn. (-स्तः-स्ता-स्तं) .²1 Filled. .²2 Covered. n. (-स्तं) .²1 Smearing, anointing, painting, plastering, &c. .²2 Any thing made of metal, wood or clay, &c. nf. (-स्तं-स्ती) A book, a manuscript. .E. पुस्त to bind, अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पुस्त",
+            "eid": "24774",
+            "pagenum": 490,
+            "content": "पुस्त¦ (स्तं) 1. <i>n.</i> Smearing. <i>f. n.</i> (स्तं-स्ती) A book. <i>a.</i> Filled; covered."
+        }
     ]
 }

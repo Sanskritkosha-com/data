@@ -121,5 +121,69 @@
             "pagenum": 7,
             "content": "2. श¦ <lex>m.</lex> <div n='1'> 1) = शस्त्र . <div n='1'>— 2) = शिव <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "श",
+            "eid": "24681",
+            "pagenum": 340,
+            "content": "°<i>śa</i>¦ °zertrümmernd, Zerstörer, s. <i>jagatīśa</i>. {part=,seq=25018,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "श",
+            "eid": "39185",
+            "pagenum": 701,
+            "content": "श¦ The thirtieth consonant of the Nāgarī alphabet and first of the three sibilants; it is termed the palatal sibilant, and corresponds to “Sh” pronounced softly, as in Shun; in the Roman character it is distinguished by an accent, as Ś."
+        },
+        {
+            "word": "श",
+            "eid": "39186",
+            "pagenum": 702,
+            "content": "श¦ m. (-शः) 1. A name of ŚIVA. 2. A weapon. 3. A cutter, a destroyer. n. Adv. (-शं) or Ind. (शं or शम्) Happy, happily, auspiciously. E. शी to sleep or शी to pare, &c., aff. ड ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "श",
+            "eid": "19969",
+            "pagenum": 711,
+            "content": "<b>1 śa-</b>¦ <ab>ifc.</ab> = <i>śaya-.</i>"
+        },
+        {
+            "word": "श",
+            "eid": "19970",
+            "pagenum": 711,
+            "content": "<b>2 śa-</b>¦ <ab>ifc.</ab> qui détruit."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "श",
+            "eid": "37406",
+            "pagenum": 823,
+            "content": "श¦ The thirtieth consonant of the <i>Nāgarī</i> alphabet and first of the three sibilants; it is termed the palatal sibilant, and corresponds to <i>Sh</i> pronounced softly, as in <i>Shun;</i> in the Roman character it is distinguished by an accent, as <i>S.</i>"
+        },
+        {
+            "word": "श",
+            "eid": "37407",
+            "pagenum": 823,
+            "content": "श¦ m. (-शः) .²1 A name of ŚIVA. .²2 A weapon. n. <i>adv.</i> (शं) <i>or ind.</i> (शं or शम्) Happy, happily, auspiciously. .E. शी to sleep or शो to pare, &c. aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "श",
+            "eid": "37041",
+            "pagenum": 741,
+            "content": "श¦ <i>Sh,</i> the first of the sibilant class."
+        },
+        {
+            "word": "श",
+            "eid": "37042",
+            "pagenum": 741,
+            "content": "श¦ (शः) 1. <i>m.</i> A name of <i>Shiva;</i> a weapon. <i>n.</i> Happily."
+        }
     ]
 }

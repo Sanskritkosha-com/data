@@ -239,5 +239,43 @@
             "pagenum": 7,
             "content": "3. हैम¦ (von हेम = 2. हेमन्) <div n='1'> 1) <lex>adj.</lex> (f. ई) <i>von Gold, golden</i> <ls>VOP. 7, 19.</ls> <ls>M. 1, 9.</ls> <ls>MBH. 3, 10207.</ls> <ls n='MBH. 3,'>15719</ls> (हेमन् <ls>ed. Bomb.</ls>). <ls n='MBH. 3,'>16654.</ls> <ls n='MBH.'>13, 4437.</ls> <ls>R. 2, 92, 32.</ls> <ls n='R.'>3, 48, 11.</ls> <ls n='R.'>4, 33, 25.</ls> <ls n='R.'>5, 45, 3.</ls> <ls>CARAKA 10, 9.</ls> <ls>MEGH. ed. ST. 73. IV.</ls> <ls>RAGH. 6, 15.</ls> <ls>VIKR. 157.</ls> <ls>VARĀH. BṚH. S. 1, 6. 26, 9. 73, 2.</ls> <ls>KATHĀS. 59, 9.</ls> <ls>AK. 2, 8, 1, 32.</ls> <ls>H. 717.</ls> <ls>HALĀY. 2, 268.</ls> <ls>VOP. 6, 14.</ls> <ls>WEBER, KṚṢṆAJ. 277. fg.</ls> <ls>PRAB. 71, 3.</ls> <ls>BHĀG. P. 3, 33, 16. 6, 2, 44. 7, 10, 53. 10, 50, 53.</ls> <ls>PAÑCAR. 3, 11, 7.</ls> <ls>BHAṬṬ. 5, 89.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Gentiana Cherayta Roxb.</i> <ls>RĀJAN. 9, 15.</ls> <div n='1'>— 3) <lex>f.</lex> आ <i>gelber Jasmin</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 4) <lex>f.</lex> ई dass. ebend. <i>Pandanus odoratissimus</i> <ls>RĀJAN. 10, 70.</ls> = क्षीरिणी <ls n='RĀJAN.'>5, 5.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "हैम",
+            "eid": "47200",
+            "pagenum": 837,
+            "content": "हैम¦ mfn. (-मः-मी-मं) 1. Golden. 2. Frigid, freezing, cold. n. (-मं) Hoarfrost, dew. f. (-सा or मी) Yellow jasmine. m. (-मः) ŚIVA. E. हेमन् gold, or हिम frost, अण् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "हैम",
+            "eid": "24524",
+            "pagenum": 893,
+            "content": "<b>1 haima-</b>¦ <ab>a.</ab> né de la neige ; couvert de neige ; relatif à l'Himā-laya."
+        },
+        {
+            "word": "हैम",
+            "eid": "24525",
+            "pagenum": 893,
+            "content": "<b>2 haima-</b>¦ <i>-ī-</i> <ab>a.</ab> d'or. en or.  <P><i>°candra-</i> <ab>m.</ab> patron de Hemacandra.  <P><i>-ī-bhūta-</i> <ab>a. v.</ab> changé en or."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हैम",
+            "eid": "44482",
+            "pagenum": 980,
+            "content": "हैम¦ mfn. (-मः-मा-मं) .²1 Golden. .²2 Frigid, freezing, cold. n. (-मं) Hoar-frost. f. (-मी) Yellow jasmine. .E. हेमन् gold, or हिम frost, अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हैम",
+            "eid": "44319",
+            "pagenum": 905,
+            "content": "हैम¦ (मं) <i>n.</i> Hoar frost. <i>f.</i> (ई) Yellow jasmine. <i>a.</i> Golden; cold."
+        }
     ]
 }

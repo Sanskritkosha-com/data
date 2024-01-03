@@ -73,5 +73,21 @@
             "pagenum": 7,
             "content": "अभित्ति¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभित्ति",
+            "eid": "4036",
+            "pagenum": 55,
+            "content": "<i>abhitti</i>¦ auch: eine fehlende Wand, <ls>Kathās.</ls> 6, 50. {part=,seq=4091,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभित्ति",
+            "eid": "2880",
+            "pagenum": 61,
+            "content": "<b>a-bhitti-</b>¦ <ab>f.</ab> absence de mur, chose qui n'est pas un mur ; <ab>a.</ab> sans fondations."
+        }
     ]
 }

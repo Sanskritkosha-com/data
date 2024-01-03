@@ -75,5 +75,37 @@
             "pagenum": 1,
             "content": "<hom>2.</hom> अव्याज¦ <lex>Adj.</lex> <i>nicht simulirt, natürlich, wirklich</i> <ls>MĀLATĪM. 77,15. (69,15)</ls>. <ls>BĀLAR. 16,20</ls>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अव्याज",
+            "eid": "4178",
+            "pagenum": 72,
+            "content": "अव्याज¦ m. (-जः) Absence of fraud, simplicity, honesty. E. अ neg. व्याज disguise."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अव्याज",
+            "eid": "4463",
+            "pagenum": 96,
+            "content": "<b>a-vyāja-</b>¦ <ab>a.</ab> non artificiel ; <i>-am</i> sans artifice. <lbinfo n='4'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अव्याज",
+            "eid": "4180",
+            "pagenum": 87,
+            "content": "अव्याज¦ m. (-जः) Absence of fraud, simplicity, honesty. .E. अ, and व्याज disguise."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अव्याज",
+            "eid": "3566",
+            "pagenum": 68,
+            "content": "अ-व्याज¦ (जः) 1. <i>m.</i> Simplicity."
+        }
     ]
 }

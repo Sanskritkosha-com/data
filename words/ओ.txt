@@ -199,5 +199,83 @@
             "pagenum": 1,
             "content": "2. ओ¦ <lex>m.</lex> ein Name <is>Brahman's</is> <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ओ",
+            "eid": "8322",
+            "pagenum": 143,
+            "content": "ओ¦ The vowel O, and the thirteenth of the Nagari alphabet."
+        },
+        {
+            "word": "ओ",
+            "eid": "8323",
+            "pagenum": 143,
+            "content": "ओ¦ ind. 1. A vocative particle, (ho.) 2. An interjection of calling, (ho, hola.) 3. Of reminiscence, (ho, ah.) 4. Of compassionating, (ah, oh.)"
+        },
+        {
+            "word": "ओ",
+            "eid": "8324",
+            "pagenum": 143,
+            "content": "ओ¦ m. (ओः) BRAHMA."
+        },
+        {
+            "word": "ओ",
+            "eid": "8325",
+            "pagenum": 143,
+            "content": "ॐ¦ ind. The mystical monosyllable Om: see ओम्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ओ",
+            "eid": "8326",
+            "pagenum": 174,
+            "content": "ओ¦ The vowel <i>O,</i> and the thirteenth of the <i>Nāgarī</i> alphabet."
+        },
+        {
+            "word": "ओ",
+            "eid": "8327",
+            "pagenum": 174,
+            "content": "ओ¦ <i>ind.</i> .²1 A vocative particle, (oh.) .²2 An interjection of calling, (ho, hola.) .²3 Of reminiscence, (ho, ah.) .²4 Of compassionating, (ah, oh.)"
+        },
+        {
+            "word": "ओ",
+            "eid": "8328",
+            "pagenum": 174,
+            "content": "ओ¦ m. (-औः) BRAHMĀ."
+        },
+        {
+            "word": "ओ",
+            "eid": "8329",
+            "pagenum": 174,
+            "content": "ॐ¦ <i>ind.</i> The mystical monosyllable <i>Om:</i> see ओम्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ओ",
+            "eid": "7751",
+            "pagenum": 145,
+            "content": "ओ¦ The 13th vowel or diphthong of the alphabet, <i>o</i> long."
+        },
+        {
+            "word": "ओ",
+            "eid": "7752",
+            "pagenum": 145,
+            "content": "ओ¦ <i>interj.</i> oh! ho!"
+        },
+        {
+            "word": "ओ",
+            "eid": "7753",
+            "pagenum": 145,
+            "content": "ओ¦ (औः) 4. <i>m.</i> Brahmā."
+        },
+        {
+            "word": "ओ",
+            "eid": "7754",
+            "pagenum": 145,
+            "content": "ॐ¦ or ओम् <i>ind.</i> The mystical syllable composed of अ, उ and अम् Brahmā, Vishnu, and Shiva."
+        }
     ]
 }

@@ -90,5 +90,43 @@
             "pagenum": 7,
             "content": "अजगाव¦ I. 1. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अजगाव",
+            "eid": "783",
+            "pagenum": 11,
+            "content": "<i>ajagāva</i>¦ 1. n. ein Gefäß für die Spende an Mitra-Varuṇa, <ls>Āpast. Śr.</ls> 12, 1, 11. {part=,seq=802,type=,n=1}"
+        },
+        {
+            "word": "अजगाव",
+            "eid": "783.1",
+            "pagenum": 11,
+            "content": "<i>Ajagāva</i>¦ oder <i>Ājagava</i> m. N. pr. eines Schlangendämons, <ls>Tāṇḍya-Br.</ls> 25, 15, 3. {part=,seq=803,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अजगाव",
+            "eid": "536",
+            "pagenum": 10,
+            "content": "अजगाव¦ n. (-कः) See अजगव, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अजगाव",
+            "eid": "537",
+            "pagenum": 12,
+            "content": "अजगाव¦ n. (-वं) See अजगव, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अजगाव",
+            "eid": "473",
+            "pagenum": 11,
+            "content": "अज-गाव¦ (वं) 1. <i>n. Idem.</i>"
+        }
     ]
 }

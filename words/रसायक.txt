@@ -31,5 +31,29 @@
             "pagenum": 6,
             "content": "रसायक¦ <lex>m.</lex> <i>eine best. Grasart</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "रसायक",
+            "eid": "33341",
+            "pagenum": 599,
+            "content": "रसायक¦ m. (-कः) A sort of grass, (Saccharum munja.)"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "रसायक",
+            "eid": "32027",
+            "pagenum": 698,
+            "content": "रसायक¦ m. (-कः) A sort of grass, (<bot>Saccharum munja</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रसायक",
+            "eid": "31592",
+            "pagenum": 624,
+            "content": "रसायक¦ (कः) 1. <i>m.</i> A sort of grass."
+        }
     ]
 }

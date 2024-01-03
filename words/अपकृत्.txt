@@ -43,5 +43,27 @@
             "pagenum": 7,
             "content": "अपकृत्¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपकृत्",
+            "eid": "3240",
+            "pagenum": 44,
+            "content": "<i>apakṛt</i>¦ Adj. anderen ein Leid zufügend, <ls>Mahāvīrac.</ls> 53, 20. {part=,seq=3284,type=,n=2}"
+        },
+        {
+            "word": "अपकृत्",
+            "eid": "27843",
+            "pagenum": 383,
+            "content": "°<i>apakṛt</i>¦ Adj. schädigend, <ls>Mahāvīr.</ls> IV, 7<sup>a</sup>. {part=N,seq=28214,type=°,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपकृत्",
+            "eid": "2210",
+            "pagenum": 48,
+            "content": "<b>apa-kṛt-</b>¦ <ab>ag.</ab> qui cause peine ou préjudice."
+        }
     ]
 }

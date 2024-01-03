@@ -45,5 +45,29 @@
             "pagenum": 5,
             "content": "भेन¦ (1. भ + इन) <lex>m.</lex> <i>der Fürst der Gestirne: die Sonne; der Mond</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "भेन",
+            "eid": "29804",
+            "pagenum": 537,
+            "content": "भेन¦ m. (-नः) 1. The sun. 2. The moon. E. भ a star, &c. इन a master."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भेन",
+            "eid": "28885",
+            "pagenum": 627,
+            "content": "भेन¦ m. (-नः) .²1 The sun. .²2 The moon. .E. भ a star, a planet, and इन a master."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भेन",
+            "eid": "28398",
+            "pagenum": 562,
+            "content": "भेन¦ (नः) 1. <i>m.</i> The sun; the moon."
+        }
     ]
 }

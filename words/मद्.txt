@@ -251,5 +251,55 @@
             "pagenum": 7,
             "content": "<hom>4.</hom> मद्¦ mit निस् <ab>Caus.</ab> (निर्मादयति) <i>abwaschen</i> <ls>MAHĀVY. 263,75</ls>. <ls>DIVYĀVAD. 53,18</ls>. <ls n='DIVYĀVAD.'>185,21</ls>. <ls n='DIVYĀVAD.'>343,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मद्",
+            "eid": "20987",
+            "pagenum": 290,
+            "content": "1. <i>mad</i>¦ mit <i>ud, unmādita</i> trunken gemacht = °zum Aufblühen gebracht, <ls>S</ls> I, 35, 2. — Mit <i>°anupra</i> (nach einem gegebenen Beispiele) gleichfalls lässig sein, <ls>Kauṭ.</ls> 37, 7. {part=,seq=21278,type=,n=5}"
+        },
+        {
+            "word": "मद्",
+            "eid": "20988",
+            "pagenum": 290,
+            "content": "4. <i>mad</i>¦ mit <i>nis</i> <ls>Kaus.</ls> (<i>nirmādayati</i>) abwaschen, <ls>Mahāvy.</ls> 263, 75; <ls>Divyāvad.</ls> 53, 18; 185, 21; 343, 1. {part=,seq=21279,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मद्",
+            "eid": "30214",
+            "pagenum": 545,
+            "content": "मद्¦ r. 10th cl. (मादयते) (इ, इर्) मदि r. 1st cl. (मन्दते) and (ई, इर्) मदी r. 4th cl. (माद्यति) 1. To be glad, to be satisfied or content, to rejoice. 2. To be proud. (इ) मदि r. 1st cl. (मन्दते) 1. To praise. 2. To sleep, to doze, to be lazy or sluggish. 3. To be stupid, to be an idiot or fool. 4. To be elegant. 5. To go or approach. मद r. 10th cl. (मादयते) To cause or justify satisfaction or contentment. मदी r. 1st cl. causal form. (मादयति) 1. To delight, to make glad, to exhilarate. 2. To madden or intoxicate, literally or figuratively. 3. To be poor or distressed. 4. To be proud. With नि prefixed, (निमादयति) To articulate."
+        },
+        {
+            "word": "मद्",
+            "eid": "30215",
+            "pagenum": 545,
+            "content": "मद्¦ A form of the first personal pronoun in the singular number used at the beginning of compounds, as in मत्सादृश्य “my likeness.” &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मद्",
+            "eid": "16467",
+            "pagenum": 546,
+            "content": "<b>1 MAD-</b>¦ <i>madati mādyati</i> (<i>-te</i>) ; <i>amādīt ; madayati</i><i> -te</i> <i>mādayati -te ; matta-</i> (<i>madita-</i>) -- se réjouir, trouver sa joie (dans, <ab>instr.</ab> <ab>gén.</ab> <ab>loc.</ab>), se plaire ; être excité, être ivre, s'enivrer (aussi <ab>fig.</ab>) ; <ab>caus.</ab> réjouir, enthousiasmer, inspirer, enivrer ; <ab>moy.</ab> jouir de la félicité céleste."
+        },
+        {
+            "word": "मद्",
+            "eid": "16468",
+            "pagenum": 546,
+            "content": "<b>2 mad-</b>¦ thème du pronom pers., 1{^re^} personne, <lbinfo n='5'/> servant en composition et en dérivation <lbinfo n='4'/> ; <i>mattas</i> par moi ; <i>madvat</i> comme (à) moi ; <i>mad-bhū-</i> devenir moi. -- Nomin. <i>aham</i> <ab>gén.</ab> <i>mama,</i> <ab>s. v.</ab>  <P><i>°artham</i> <ab>adv.</ab> en vue de moi.  <P><i>°deha-</i> <ab>m.</ab> mon corps.  <P><i>°bhakta-</i> <ab>a. v.</ab> dévoué à moi.  <P><i>°vacanāt</i> <ab>adv.</ab> en mon <ab>nom.</ab>  <P><i>°vidha-</i> <ab>a.</ab> semblable à moi, de mon espèce.  <P><i>°vihīna-</i> <ab>a. v.</ab> séparé de moi.  <P><i>mac-citta-</i> <ab>a.</ab> qui pense à moi.  <P><i>°charīra-</i> <ab>nt.</ab> mon corps.  <P><i>mat-kṛta-</i> <ab>a. v.</ab> fait par moi.  <P><i>°para-</i> <i>°parama- °parāyaṇa-</i> <ab>a.</ab> dévoué à moi.  <P><i>°pūrva-</i> <ab>m.</ab> mon frère aîné.  <P><i>°saṃsthā-</i> <ab>f.</ab> union avec moi.  <P><i>°samakṣam</i> <ab>adv.</ab> en ma présence."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मद्",
+            "eid": "28767",
+            "pagenum": 570,
+            "content": "मद्¦ (य, ई, इर, भ,) माद्यति 4. <i>a.</i> To be glad; to be proud. (क, ङ) मादयते 10. <i>d.</i> To cause satisfaction. <i>Caus.</i> मादयति To delight, to madden; with नि to articulate. (इ, इर) मन्दति 1. <i>a.</i> To praise; to sleep; to be stupid; to be elegant; to go."
+        }
     ]
 }

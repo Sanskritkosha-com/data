@@ -220,5 +220,51 @@
             "pagenum": 2,
             "content": "चन्द्रिका¦ <lex>f.</lex> s. u. चन्द्रक ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "चन्द्रिका",
+            "eid": "13064",
+            "pagenum": 180,
+            "content": "<i>candrikā</i>¦ f. = <i>°candrikātvenādhyavasitaṃ smitam</i>, <ls>Padyac.</ls> VII, 44<sup>a</sup>. {part=,seq=13268,type=,n=2}"
+        },
+        {
+            "word": "चन्द्रिका",
+            "eid": "28670",
+            "pagenum": 394,
+            "content": "<i>Candrikā</i>¦ f. N. °einer Kuh, <ls>Kaṃs.</ls> III, 22<sup>a</sup>. {part=N,seq=29041,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चन्द्रिका",
+            "eid": "14784",
+            "pagenum": 262,
+            "content": "चन्द्रिका¦ f. (-का) 1. Moonlight. 2. A small fish, commonly Chanda, (Chanda of var. species, HAM.) 3. Large cardamoms. E. चन्द्र the moon, चन्द्रोऽस्ति अस्याः आश्रयत्वेन ठन् । चदि दीप्तौ रक् ततः स्वार्थे कवा ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "चन्द्रिका",
+            "eid": "9108",
+            "pagenum": 245,
+            "content": "<b>candrikā-</b>¦ <ab>f.</ab> clair de lune ; <ab>ifc.</ab> splendeur, clarté ; <ab>n.</ab> d'une femme."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चन्द्रिका",
+            "eid": "14792",
+            "pagenum": 317,
+            "content": "चन्द्रिका¦ f. (-का) .²1 Moonlight. .²2 A small fish, commonly <i>Cāndā,</i> (<i>Canda</i> of var. species, HAM.) .²3 Large cardamoms. .E. चन्द्र the moon, and वुन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चन्द्रिका",
+            "eid": "14247",
+            "pagenum": 277,
+            "content": "चन्द्रिका¦ (का) 1. <i>f.</i> Moonlight; small fish; large cardamoms."
+        }
     ]
 }

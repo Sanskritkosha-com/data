@@ -222,5 +222,57 @@
             "pagenum": 7,
             "content": "स्कन्द¦ <lex>Adj.</lex> <i>eine Samenergiessung habend</i> <ls>ŚŪLAP. PRĀYAŚC.</ls> nach <ls>AUFRECHT</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "स्कन्द",
+            "eid": "27043",
+            "pagenum": 370,
+            "content": "<i>skanda</i>¦ Adj. eine Samenergießung habend, <ls>Śūlap. Prāyaśc.</ls> nach Aufrecht. {part=,seq=27404,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "स्कन्द",
+            "eid": "45287",
+            "pagenum": 807,
+            "content": "स्कन्द¦ m. (-न्दः) 1. SKANDA, or KĀRTIKEYA, the son of ŚIVA, and military deity of the Hindus. 2. A king, a prince. 3. The body. 4. The bank of a river. 5. A clever or learned man. E. स्कन्द् to go, (to fly before whom; the enemies of the gods,) and अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "स्कन्द",
+            "eid": "23974",
+            "pagenum": 864,
+            "content": "<b>skanda-</b>¦ <ab>m.</ab> destruction, perte ; dieu de la guerre (et de la maladie, des voleurs), fils de Śiva, Kārttikeya ; <i>-tā-</i> <ab>f.</ab> condition de Skanda.  <P><i>°gupta-</i> <ab>m.</ab> <ab>n.</ab> de divers personnages.  <P><i>°graha-</i> <ab>m.</ab> Skanda comme démon (causant des maladies).  <P><i>°jananī-</i> <ab>f.</ab> Pārvatī.  <P><i>°dāsa-</i> <ab>m.</ab> <ab>n.</ab> d'un marchand.  <P><i>°putra-</i> <ab>m.</ab> fils de Skanda (dit d'un voleur).  <P><i>°purāṇa-</i> <ab>nt.</ab> <ab>n.</ab> d'un Purāṇa.  <P><i>°rāja-</i> <ab>m.</ab> le roi Skanda.  <P><i>skandāpasmāra-</i> (<i>-mara-</i>) <ab>m.</ab> démon causant une maladie particulière."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्कन्द",
+            "eid": "42918",
+            "pagenum": 947,
+            "content": "स्कन्द¦ (इर) स्कन्दिर r. 1st cl. (स्कन्दति) .²1 To go, to move. .²2 To be dry or arid. .²3 To effuse or emit. <div n='p'>With अव prefixed, To assail, to assault."
+        },
+        {
+            "word": "स्कन्द",
+            "eid": "42919",
+            "pagenum": 947,
+            "content": "स्कन्द¦ m. (-न्दः) .²1 SKANDA, or KĀRTTIKEYA, the son of ŚIVA, and military deity of the <i>Hindus.</i> .²2 A king, a prince. .²3 The body. .²4 The bank of a river. .²5 A clever or learned man. .E. स्कन्द to go, (to fly before whom; the enemies of the gods,) and अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्कन्द",
+            "eid": "42716",
+            "pagenum": 871,
+            "content": "स्कन्द¦ स्कन्दति 1. <i>a.</i> To go; to be dry; to emit; with अव, to assail; with आ, to enter."
+        },
+        {
+            "word": "स्कन्द",
+            "eid": "42717",
+            "pagenum": 871,
+            "content": "स्कन्द¦ (न्दः) 1. <i>m. Skanda</i> or <i>Kārti-</i> <i>keya,</i> the Hindu Mars; a king; the body; bank of a river; learned man; name of a <i>Purāna.</i>"
+        }
     ]
 }

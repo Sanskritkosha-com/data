@@ -127,5 +127,27 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> नवक¦ III. <lex>m.</lex> <i>ein jüngerer Mönch</i> <ls>MAHĀVY. 270,29</ls>. <ls>DIVYĀVAD. 404,14</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "नवक",
+            "eid": "16460",
+            "pagenum": 227,
+            "content": "1. <i>navaka</i>¦ m. ein jüngerer Mönch, <ls>Mahāvy.</ls> 270, 29; <ls>Divyāvad.</ls> 404, 14. {part=,seq=16710,type=,n=1}"
+        },
+        {
+            "word": "नवक",
+            "eid": "16460.1",
+            "pagenum": 227,
+            "content": "<i>navaka</i>¦ °despised, unkown, <ls>Vās.</ls> 7, 4. {part=,seq=16711,type=,n=1}"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "नवक",
+            "eid": "1523",
+            "pagenum": 1,
+            "content": "<b>Navaka</b>¦ is mentioned as having wished for a wife at the Sattra of the <b>Vibhindukīyas</b> in the Jaiminīya Brāhmaṇa.<sup>1</sup> <F>1) ii. 233 (<i>Journal of the American Oriental Society,</i> 18, 38).</F>"
+        }
     ]
 }

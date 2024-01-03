@@ -31,5 +31,29 @@
             "pagenum": 2,
             "content": "कटुरव¦ (कटु + रव) <lex>m.</lex> <i>Frosch</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कटुरव",
+            "eid": "9548",
+            "pagenum": 131,
+            "content": "*<i>kaṭurava</i>¦ m. Frosch, <ls>Śṛṅgārasarv.</ls> 90<sup>d</sup>. Wohl eher °Krähe! {part=,seq=9677,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कटुरव",
+            "eid": "8639",
+            "pagenum": 149,
+            "content": "कटुरव¦ m. (-वः) A frog. E. कटु, and रव sound."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कटुरव",
+            "eid": "8644",
+            "pagenum": 182,
+            "content": "कटुरव¦ n. (-वः) A frog. .E. कटु, and रव sound."
+        }
     ]
 }

@@ -118,5 +118,37 @@
             "pagenum": 7,
             "content": "पराभव¦ IV. <i>Verderben</i> <ls>JĀTAKAM. 13</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पराभव",
+            "eid": "17855",
+            "pagenum": 246,
+            "content": "<i>parābhava</i>¦ Verderben, <ls>Jātakam.</ls> 13. {part=,seq=18114,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पराभव",
+            "eid": "12902",
+            "pagenum": 407,
+            "content": "<b>parā-bhava-</b>¦ <ab>m.</ab> défaite, humiliation, destruction <lbinfo n='8'/> ; disparition, séparation ; mépris."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पराभव",
+            "eid": "23421",
+            "pagenum": 506,
+            "content": "पराभव¦ m. (-वः) .²1 Discomfiting, overcoming. .²2 Contempt, disrespect, disgrace. .²3 Destruction. .E. परा disgrace, भू to be, अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पराभव",
+            "eid": "22895",
+            "pagenum": 452,
+            "content": "परा-भव¦ (वः) 1. <i>m.</i> Discomfiting; contempt; destruction."
+        }
     ]
 }

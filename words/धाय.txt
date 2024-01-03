@@ -91,5 +91,37 @@
             "pagenum": 7,
             "content": "धाय¦ III. nach <ls>DĀRILA</ls> <i>Bündel</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "धाय",
+            "eid": "16135",
+            "pagenum": 223,
+            "content": "<i>dhāya</i>¦ nach <ls>Dārila</ls> Bündel. {part=,seq=16379,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "धाय",
+            "eid": "20570",
+            "pagenum": 369,
+            "content": "धाय¦ mfn. (-यः-या-यं) Having, possessing, or who has or possesses. E. धा to have, ण aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "धाय",
+            "eid": "20584",
+            "pagenum": 443,
+            "content": "धाय¦ mfn. (-यः-या-यं) Having, possessing, or who has or possesses. .E. धा to have, ण aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "धाय",
+            "eid": "20076",
+            "pagenum": 395,
+            "content": "धाय¦ (यः-या-यं) <i>a.</i> Having, possessing."
+        }
     ]
 }

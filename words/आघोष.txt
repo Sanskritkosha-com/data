@@ -85,5 +85,19 @@
             "pagenum": 7,
             "content": "आघो/ष¦ I. 3. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आघोष",
+            "eid": "6673",
+            "pagenum": 91,
+            "content": "<i>āghóṣa</i>¦ , so zu akzentuieren. {part=,seq=6762,type=,n=1}"
+        },
+        {
+            "word": "आघोष",
+            "eid": "6673.1",
+            "pagenum": 91,
+            "content": "<i>āghóṣa</i>¦ zu streichen, da <ls>ṚV. 8, 64, 4</ls> <i>āghóṣan</i> Partic. ist. {part=,seq=6763,type=,n=2}"
+        }
     ]
 }

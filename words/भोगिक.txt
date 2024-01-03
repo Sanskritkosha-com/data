@@ -85,5 +85,37 @@
             "pagenum": 5,
             "content": "*भोगिक¦ auch <i>Oberhaupt eines Dorfes</i> <ls>ZACH. Beitr.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "भोगिक",
+            "eid": "20789",
+            "pagenum": 287,
+            "content": "*<i>bhogika</i>¦ auch: Oberhaupt eines Dorfes, <ls>Zach.</ls> Beitr. {part=,seq=21076,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भोगिक",
+            "eid": "29849",
+            "pagenum": 538,
+            "content": "भोगिक¦ m. (-कः) A horse-keeper, a groom. E. भोग pleasure, ठन् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भोगिक",
+            "eid": "28925",
+            "pagenum": 628,
+            "content": "भोगिक¦ m. (-कः) A horse-keeper, a groom. .E. भोग pleasure, ठक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भोगिक",
+            "eid": "28438",
+            "pagenum": 563,
+            "content": "भोगिक¦ (कं) 1. <i>n.</i> A groom."
+        }
     ]
 }

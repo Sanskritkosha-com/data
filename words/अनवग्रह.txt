@@ -91,5 +91,51 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अनवग्रह¦ 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनवग्रह",
+            "eid": "2222",
+            "pagenum": 30,
+            "content": "2. <i>anavagraha</i>¦ Adj. ungehemmt, <ls>Mālatīm.</ls> 24, 7; <ls>Naiṣ.</ls> 1, 120. {part=,seq=2256,type=,n=2}"
+        },
+        {
+            "word": "अनवग्रह",
+            "eid": "27783",
+            "pagenum": 382,
+            "content": "<i>anavagraha</i>¦ °ungezügelt, <ls>Kauṭ.</ls> 28, 8. {part=N,seq=28154,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनवग्रह",
+            "eid": "1270",
+            "pagenum": 23,
+            "content": "अनवग्रह¦ mfn. (-हः-हा-हं) Resistless, not to be obstructed or impeded. E. अन् neg. अवग्रह obstruction."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनवग्रह",
+            "eid": "1280",
+            "pagenum": 28,
+            "content": "<b>an-avagraha-</b>¦ <ab>a.</ab> irréfréné."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनवग्रह",
+            "eid": "1272",
+            "pagenum": 27,
+            "content": "अनवग्रह¦ mfn. (-हः-हा-हं) Resistless, not to be obstructed or impeded. .E. अन् neg. अवग्रह obstruction."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनवग्रह",
+            "eid": "1065",
+            "pagenum": 23,
+            "content": "अन_वग्रह¦ (हः-हा-हं) <i>a.</i> Resistless."
+        }
     ]
 }

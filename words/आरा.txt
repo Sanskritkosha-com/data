@@ -164,5 +164,29 @@
             "pagenum": 7,
             "content": "आरा¦ I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आरा",
+            "eid": "7240",
+            "pagenum": 99,
+            "content": "<i>ārā</i>¦ auch: Stachel zum Antreiben der Zugochsen, <ls>Baudh.</ls> 2, 4, 21. {part=,seq=7341,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आरा",
+            "eid": "5509",
+            "pagenum": 122,
+            "content": "<b>ārā-</b>¦ <ab>f.</ab> aiguillon ou fouet."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "आरा",
+            "eid": "254",
+            "pagenum": 1,
+            "content": "<b>Ārā,</b>¦ a word later<sup>1</sup> known as an ‘awl’ or ‘gimlet,’ occurs in the Rigveda<sup>2</sup> only to designate a weapon of Pūṣan, with whose pastoral character its later use for piercing leather is consistent. <i>Cf.</i> <b>Vāśī.</b> <F>1) Hillebrandt, <i>Vedische Mythologie,</i> 3, 365. n. 1.</F> <F>2) vi. 53. 8.</F>"
+        }
     ]
 }

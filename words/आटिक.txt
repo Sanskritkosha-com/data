@@ -51,5 +51,19 @@
             "pagenum": 7,
             "content": "आटिक¦ 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आटिक",
+            "eid": "6769",
+            "pagenum": 92,
+            "content": "<i>āṭika</i>¦ m. = <i>śarāri</i> (Reiher) <ls>H</ls> 16, 40 (Ko.); ° = <i>āti</i> <ls>H</ls> 30, 30. {part=,seq=6859,type=,n=1}"
+        },
+        {
+            "word": "आटिक",
+            "eid": "6769.1",
+            "pagenum": 92,
+            "content": "<i>Āṭika</i>¦ m. Pl. eine best. Schule des Yajus, <ls>AV. Pariś.</ls> 49, 2. Vgl. <i>paramāṭika</i>. {part=,seq=6860,type=,n=3}"
+        }
     ]
 }

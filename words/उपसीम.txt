@@ -23,5 +23,21 @@
             "pagenum": 7,
             "content": "उपसीम¦ <lex>Adv.</lex> <i>am Rande</i> <ls>KIR. 4,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपसीम",
+            "eid": "8701",
+            "pagenum": 119,
+            "content": "<i>upasīma</i>¦ Adv. am Rande, <ls>Kir.</ls> 4, 2. {part=,seq=8818,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपसीम",
+            "eid": "7031",
+            "pagenum": 156,
+            "content": "<b>upa-sīma</b>¦ <ab>adv.</ab> près de la limite, au bord."
+        }
     ]
 }

@@ -31,5 +31,37 @@
             "pagenum": 5,
             "content": "मदनसारिका¦ (म° + सा°) <lex>f.</lex> = सारिका <i>Turdus Salica</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मदनसारिका",
+            "eid": "21020",
+            "pagenum": 290,
+            "content": "*<i>madanasārikā</i>¦ eine Art Predigerkrähe, V 210; Y 212. {part=,seq=21311,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मदनसारिका",
+            "eid": "30237",
+            "pagenum": 545,
+            "content": "मदनसारिका¦ f. (-का) The Sārikā a small bird, (Turdus salica.) E. मदन love, and सारिका the Sālika."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मदनसारिका",
+            "eid": "29268",
+            "pagenum": 636,
+            "content": "मदनसारिका¦ f. (-का) The <i>Śārikā</i> or <i>Śārika,</i> a small bird, (<bio>Turdus salica</bio>.) .E. मदब love, and सारिका the <i>Śālikā.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मदनसारिका",
+            "eid": "28780",
+            "pagenum": 570,
+            "content": "मदन-सारिका¦ (का) 1. <i>f.</i> Turdus salica."
+        }
     ]
 }

@@ -154,5 +154,51 @@
             "pagenum": 7,
             "content": "अ/श्रि¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अश्रि",
+            "eid": "5894",
+            "pagenum": 80,
+            "content": "<i>aśri</i>¦ °Strom [in <i>aśritoya = dhārājala</i>] <ls>H</ls> 5, 115. {part=,seq=5973,type=,n=1}"
+        },
+        {
+            "word": "अश्रि",
+            "eid": "5894.1",
+            "pagenum": 80,
+            "content": "<i>áśri</i>¦ , so zu akzentuieren. {part=,seq=5974,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अश्रि",
+            "eid": "4296",
+            "pagenum": 74,
+            "content": "अश्रि¦ f. (-श्रिः) 1. The edge of a sword. 2. A corner, the angle of a room or house. E. श्रिञ् to serve, आङ् prefixed, आ becomes अ; also अश्री and आश्रि."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अश्रि",
+            "eid": "4557",
+            "pagenum": 98,
+            "content": "<b>aśri-</b>¦ <ab>f.</ab> arête, côté, lame ; <i>-kā-</i> <ab>ifc.</ab> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अश्रि",
+            "eid": "4298",
+            "pagenum": 89,
+            "content": "अश्रि¦ f. (-श्रिः) .²1 The edge of a sword. .²2 A corner, the angle of a room or house. .E. श्रिञ to serve, आङ् prefixed, आ becomes अ; also अश्री and आश्रि."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अश्रि",
+            "eid": "3677",
+            "pagenum": 70,
+            "content": "अ-श्रि¦ (श्रिः) 2. <i>f.</i> The edge of a sword; a corner, or angle of a room."
+        }
     ]
 }

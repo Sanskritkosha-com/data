@@ -91,5 +91,29 @@
             "pagenum": 3,
             "content": "दायभाग¦ (2. दाय + भाग) <lex>m.</lex> <i>Erbtheilung</i> <ls>M. 9, 103.</ls> Titel eines Werkes über <i>Erbrecht</i> <ls>GILD. Bibl. 461. 490-492.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "दायभाग",
+            "eid": "18816",
+            "pagenum": 338,
+            "content": "दायभाग¦ m. (-गः) Partition of heritage, apportioning inheritance, &c. E. दाय heritage, and भाग a part or portion."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दायभाग",
+            "eid": "18831",
+            "pagenum": 405,
+            "content": "दायभाग¦ m. (-गः) Partition of heritage, apportioning inheritance, &c. .E. दाय heritage, and भाग a part or portion."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दायभाग",
+            "eid": "18302",
+            "pagenum": 360,
+            "content": "दाय-भाग¦ (गः) 1. <i>m.</i> Partition of heritage or inheritance."
+        }
     ]
 }

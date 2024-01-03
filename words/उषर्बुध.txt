@@ -84,5 +84,43 @@
             "pagenum": 5,
             "content": "उषर्बुध¦ nach <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 233</ls> auch <i>Kind.</i>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "उषर्बुध",
+            "eid": "8878",
+            "pagenum": 121,
+            "content": "*<i>uṣarbudha</i>¦ m. Feuer, <ls>S</ls> II, 338, 18; <ls>Uttarar.</ls> p. 157, Z. 2 ed. <ls>Lakṣmaṇasūri</ls>. {part=,seq=8997,type=*,n=2}"
+        },
+        {
+            "word": "उषर्बुध",
+            "eid": "28306",
+            "pagenum": 389,
+            "content": "*<i>uṣarbudha</i>¦ m. Feuer, <ls>Subhadr.</ls> 1<sup>c</sup>. {part=N,seq=28677,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उषर्बुध",
+            "eid": "7809",
+            "pagenum": 135,
+            "content": "उषर्बुध¦ m. (-धः) Fire. E. उषस् dawn, बुध् to know, क aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उषर्बुध",
+            "eid": "7812",
+            "pagenum": 164,
+            "content": "उषर्बुध¦ m. (-धः) Fire. .E. उषस् dawn, बुध to know, क aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उषर्बुध",
+            "eid": "7225",
+            "pagenum": 135,
+            "content": "उष-र्बुध¦ (धः) 1. <i>m.</i> Fire."
+        }
     ]
 }

@@ -193,5 +193,53 @@
             "pagenum": 7,
             "content": "वसति¦ VI. 7. व/सति <ls>ŚAT. BR. 14,9,1,5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वसति",
+            "eid": "23360",
+            "pagenum": 323,
+            "content": "<i>vasatí</i>¦ , vgl. <ls>Pischel, Ved. Studien</ls> I, 49. — <i>vásati</i> <ls>Śat. Br.</ls> 14, 9, 1, 5. {part=,seq=23686,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वसति",
+            "eid": "35522",
+            "pagenum": 637,
+            "content": "वसति¦ f. (-तिः or ती) 1. A house, a dwelling. 2. Abiding, abode, residence. 3. Night. E. वस् to dwell, अति Unādi aff., ङीष् optionally added."
+        }
+    ],
+    "STC": [
+        {
+            "word": "वसति",
+            "eid": "18025",
+            "pagenum": 633,
+            "content": "<b>vasati-</b>¦ <ab>f.</ab> fait de passer la nuit, halte, campement, <lbinfo n='6'/> séjour ; endroit où l'on séjourne, où l'on passe la nuit, habitation, logis ; nuit (que l'on passe <ab>qq.</ab> part).  <P><i>°druma-</i> <ab>m.</ab> arbre sous lequel on passe la nuit."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "वसति",
+            "eid": "2839",
+            "pagenum": 2,
+            "content": "<b>Vasati</b>¦ denotes in the Rigveda<sup>1</sup> and later<sup>2</sup> ‘abode,’ ‘house.’ <F>1) i. 31, 15; v. 2, 6.</F> <F>2) Vājasaneyī̆ Saṃhitā, xviii. 15; Taittirīya Brāhmaṇa, ii. 3, 5, 4; iii. 7, 3, 3, etc.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वसति",
+            "eid": "33982",
+            "pagenum": 743,
+            "content": "वसति¦ f. (-तिः or -ती) .²1 A house, a dwelling. .²2 Abiding, abode, residence. .²3 Night. .E. वस to dwell, अति Uṇādi aff., ङीष् optionally added."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वसति",
+            "eid": "33571",
+            "pagenum": 665,
+            "content": "वसति¦ (तिः) 2. <i>f.</i> A dwelling; night."
+        }
     ]
 }

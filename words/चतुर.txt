@@ -234,5 +234,51 @@
             "pagenum": 5,
             "content": "2. चतुर¦ <div n='1'> 1) <div n='2'> a) वाहनानि <ls>KATHĀS. 10, 108</ls> (च तुराणि gedr.) adv.: चतुरं गत्वा <ls n='KATHĀS.'>101, 96.</ls> <div n='2'>— b) शिष्याः <ls>LA. (II) 87, 18.</ls> <div n='2'>— c) °वाच् <ls>Spr. 3018.</ls> Z. 3 lies <div n='2'> b) st. <i>a).</i> <div n='1'>— 3) <div n='2'> a) <ls>AMAR. 20</ls> (<ls>Spr. 1749</ls>) gehört zu 1) <i>c).</i> <div n='1'>— 4) <lex>m.</lex> (sc. हस्त) Bez. <i>einer best. Stellung der Hand</i> <ls>Verz. d. Oxf. H. 86,a,29. 202,a,10.b,2.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "चतुर",
+            "eid": "12933",
+            "pagenum": 178,
+            "content": "<i>catura</i>¦ Adj. °apt (of things), <ls>Harṣac.</ls> 8, 5. {part=,seq=13133,type=,n=1}"
+        },
+        {
+            "word": "चतुर",
+            "eid": "12933.1",
+            "pagenum": 178,
+            "content": "<i>catura</i>¦ Elefantenstall, vgl. <i>caüra</i> <ls>ZDMG</ls> 69, 324, 21. [Z.] {part=,seq=13134,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चतुर",
+            "eid": "14684",
+            "pagenum": 260,
+            "content": "चतुर¦ mfn. (-रः-रा-रं) 1. Dexterous, ingenious, clever. 2. Visible, perceptible. m. (-रः) 1. A round pillow, one for the cheek. 3. An elephant stable. E. चत् to ask, Unadi affix उरच्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "चतुर",
+            "eid": "9086",
+            "pagenum": 244,
+            "content": "<b>catura-</b>¦ <ab>a.</ab> adroit, ingénieux, vif, charmant <lbinfo n='4'/> ; <ab>ifc.</ab> apte à ; <i>-am</i> vivement, adroitement <lbinfo n='4'/> ; <i>-tā-</i> <ab>f.</ab> <i>-tva-</i> <ab>nt.</ab> habileté, dextérité.  <P><i>°ga-</i> <ab>a.</ab> agile, qui court prestement."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चतुर",
+            "eid": "14692",
+            "pagenum": 315,
+            "content": "चतुर¦ mfn. (-रः-रा-रं) .²1 Dexterous, ingenious, clever. .²2 Visible, perceptible. m. (-रः) .²1 A round pillow, one for the cheek. .²3 An elephant stable. .E. चत to ask, Uṇādi affix उरच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चतुर",
+            "eid": "14146",
+            "pagenum": 275,
+            "content": "चतुर¦ (रः-रा-रं) <i>a.</i> Dexterous; perceptible. <i>m.</i> A round pillow, one for the cheek; elephant's stable."
+        }
     ]
 }

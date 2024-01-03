@@ -147,5 +147,37 @@
             "pagenum": 7,
             "content": "अ/धिपति¦ I. Auf ein <lex>n.</lex> bezogen als <lex>n.</lex> <ls>TS. 3,4,5,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अधिपति",
+            "eid": "1751",
+            "pagenum": 24,
+            "content": "<i>ádhipati</i>¦ , auf ein n. bezogen als n., <ls>TS.</ls> 3, 4, 5, 1. {part=,seq=1777,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अधिपति",
+            "eid": "1034",
+            "pagenum": 19,
+            "content": "अधिपति¦ m. (-तिः) A master, an owner, a ruler. 2. A king. E. अधि, and पति a master."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अधिपति",
+            "eid": "1035",
+            "pagenum": 22,
+            "content": "अधिपति¦ m. (-तिः) A master, an owner, a ruler. .²2 A king. .E. अधि, and पति a master."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अधिपति",
+            "eid": "853",
+            "pagenum": 18,
+            "content": "अधि-पति¦ (तिः) 2. <i>m.</i> A master."
+        }
     ]
 }

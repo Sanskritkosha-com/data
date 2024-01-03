@@ -292,5 +292,51 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अनल¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनल",
+            "eid": "2199",
+            "pagenum": 30,
+            "content": "2. <i>anala</i>¦ m. ein Anderer als Nala, <ls>Naiṣ.</ls> 3, 77 (zugleich: Feuer). {part=,seq=2233,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनल",
+            "eid": "1265",
+            "pagenum": 23,
+            "content": "अनल¦ m. (-लः) 1. A name of AGNI or fire. 2. One of the eight Vasus or demigods so called. 3. Bile. 4. A plant, (Plumbago zeylanica and rosea.) E. अन् to be, कलच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनल",
+            "eid": "1269",
+            "pagenum": 28,
+            "content": "<b>anala-</b>¦ <ab>m.</ab> feu ; Agni ; <ab>n.</ab> d'un singe.  <P><i>°da-</i> <ab>a.</ab> qui apaise le feu (du soleil).  <P><i>°sakha-</i> <ab>m.</ab> vent."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनल",
+            "eid": "1267",
+            "pagenum": 27,
+            "content": "अनल¦ m. (-लः) .²1 A name of AGNI or fire. .²2 One of the eight <i>Vasus</i> or demigods so called. .²3 Bile. .²4 A plant, (<bot>Plumbago zeylanica and rosea</bot>.) .E. अन् to be, and कलच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनल",
+            "eid": "1058",
+            "pagenum": 22,
+            "content": "अनल¦ (लः) 1. <i>m.</i> A name of Agni or fire; a demigod; bile."
+        },
+        {
+            "word": "अनल",
+            "eid": "1060",
+            "pagenum": 22,
+            "content": "अन_लं¦ <i>adv.</i> Insufficient."
+        }
     ]
 }

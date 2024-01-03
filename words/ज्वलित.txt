@@ -111,5 +111,43 @@
             "pagenum": 7,
             "content": "ज्वलित¦ II. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ज्वलित",
+            "eid": "14051",
+            "pagenum": 194,
+            "content": "<i>jvalita</i>¦ 2. auch: helles Lodern, <ls>MBh.</ls> 5, 133, 15. {part=,seq=14274,type=,n=1}"
+        },
+        {
+            "word": "ज्वलित",
+            "eid": "14051.1",
+            "pagenum": 194,
+            "content": "<i>jvalita</i>¦ Adj. °offenbart (= <i>prakāśita</i>), <ls>Kir.</ls> V, 21. {part=,seq=14275,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ज्वलित",
+            "eid": "16601",
+            "pagenum": 295,
+            "content": "ज्वलित¦ mfn. (-तः-ता-तं) 1. Burnt. 2. Blazing, flaming. E. ज्वल् to flame, affix क्त."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ज्वलित",
+            "eid": "16627",
+            "pagenum": 357,
+            "content": "ज्वलित¦ mfn. (-तः-ता-तं) .²1 Burnt. .²2 Blazing, flaming. .E. ज्वल to flame, affix क्त."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ज्वलित",
+            "eid": "16093",
+            "pagenum": 314,
+            "content": "ज्वलित¦ (तः-ता-तं) <i>a.</i> Burnt; blazing."
+        }
     ]
 }

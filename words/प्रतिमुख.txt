@@ -143,5 +143,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> प्रतिमुख¦ IV. <i>Spiegelbild des Mundes</i> <ls>HARAVIJAYA 1,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रतिमुख",
+            "eid": "19247",
+            "pagenum": 265,
+            "content": "1. <i>pratimukha</i>¦ Spiegelbild des Mundes, Haravijaya 1, 2. {part=,seq=19520,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रतिमुख",
+            "eid": "26586",
+            "pagenum": 481,
+            "content": "प्रतिमुख¦ n. (-खं) (In dramatic composition), A secondary plot or incident, calculated either to promote or obstruct the catastrophe, adv. n. (-खं) 1. In front, before, in presence. 2. Near. E. प्रति, and मुख the face."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रतिमुख",
+            "eid": "14522",
+            "pagenum": 462,
+            "content": "<b>prati-mukha-</b>¦ <i>-ā- -ī-</i> <ab>a.</ab> qui est en face, qui est devant ; <ab>iic.</ab> et <i>-am</i> (<ab>gén.</ab>) vers."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रतिमुख",
+            "eid": "26114",
+            "pagenum": 566,
+            "content": "प्रतिमुख¦ n. (-खं) (In dramatic composition), A secondary plot or incident, calculated either to promote or obstruct the catastrophe. <i>adv.</i> n. (-खं) In front, before, in presence. .E. प्रति, and मुख the face."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रतिमुख",
+            "eid": "25601",
+            "pagenum": 507,
+            "content": "प्रति-मुख¦ (खं) 1. <i>n.</i> Secondary plot; pretext. <i>adv.</i> In front, before."
+        }
     ]
 }

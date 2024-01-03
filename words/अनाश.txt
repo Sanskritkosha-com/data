@@ -77,5 +77,33 @@
             "pagenum": 7,
             "content": "अनाश¦ 1. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनाश",
+            "eid": "2423",
+            "pagenum": 33,
+            "content": "2. <i>anāśa</i>¦ m. das Nichtzugrundegehen, <ls>Śiś.</ls> 18, 31. {part=,seq=2458,type=,n=1}"
+        },
+        {
+            "word": "अनाश",
+            "eid": "2423.1",
+            "pagenum": 33,
+            "content": "<i>anāśa</i>¦ Adj. (f. <i>ā</i>), aller Erwartungen bar. <i>āśām anāśāṃ kṛ</i> allen E. entsagen, Sp. 7078. Vgl. <i>nirāśa</i>. {part=,seq=2459,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनाश",
+            "eid": "1405",
+            "pagenum": 31,
+            "content": "<b>1 an-āśa-</b>¦ <ab>a.</ab> dépourvu d'espoir."
+        },
+        {
+            "word": "अनाश",
+            "eid": "1406",
+            "pagenum": 31,
+            "content": "<b>2 a-nāśa-</b>¦ <ab>m.</ab> fait de ne pas périr."
+        }
     ]
 }

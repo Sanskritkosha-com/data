@@ -59,5 +59,41 @@
             "pagenum": 7,
             "content": "सरत्¦ <lex>m.</lex> = सूत्र <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "सरत्",
+            "eid": "43108",
+            "pagenum": 771,
+            "content": "सरत्¦ mfn. (-रन्-रन्ती-रत्) Going, proceeding. E. सृ to go, शतृ aff."
+        },
+        {
+            "word": "सरत्",
+            "eid": "43109",
+            "pagenum": 771,
+            "content": "सरत्¦ m. (-रत्) Thread. E. सृ to go, अति aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सरत्",
+            "eid": "41037",
+            "pagenum": 906,
+            "content": "सरत्¦ mfn. (-रन्-रन्ती-रत्) Going, proceeding. .E. सृ to go, शतृ aff."
+        },
+        {
+            "word": "सरत्",
+            "eid": "41038",
+            "pagenum": 906,
+            "content": "सरत्¦ m. (-रत्) Thread. .E. सृ to go, अति aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सरत्",
+            "eid": "40763",
+            "pagenum": 826,
+            "content": "सरत्¦ (त्) 5. <i>m.</i> Thread. <i>a.</i> (न्-न्नी-त्) Going, proceeding."
+        }
     ]
 }

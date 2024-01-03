@@ -98,5 +98,19 @@
             "pagenum": 5,
             "content": "कूर्प¦ <ls>HALĀY. 2, 365.</ls> <i>Sand</i> (nach dem <ls>Schol.</ls>) in der Verbindung: °दृश् <lex>adj.</lex> <i>Sand in den Augen habend</i> <ls>BHĀG. P. 10, 87, 18.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कूर्प",
+            "eid": "11094",
+            "pagenum": 153,
+            "content": "<i>kūrpa</i>¦ (°m. nach dem Ko.) = <i>bhruvor antarālakeśaḥ</i>, <ls>S</ls> I, 182, 2. {part=,seq=11261,type=,n=2}"
+        },
+        {
+            "word": "कूर्प",
+            "eid": "28541",
+            "pagenum": 393,
+            "content": "<i>kūrpa</i>¦ m. °eine Art Edelstein, <ls>Kauṭ.</ls> 77, 8. {part=N,seq=28912,type=,n=1}"
+        }
     ]
 }

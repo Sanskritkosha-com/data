@@ -174,5 +174,45 @@
             "pagenum": 7,
             "content": "परिवार¦ IV. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "परिवार",
+            "eid": "18000",
+            "pagenum": 248,
+            "content": "<i>parivāra</i>¦ 2. 3. <ls>Śiś.</ls> 19, 49. {part=,seq=18261,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "परिवार",
+            "eid": "23710",
+            "pagenum": 429,
+            "content": "परिवार¦ m. (-रः) 1. Dependent. 2. Train or retinue. 3. A scabbard, a sheath. E. परि round, वृ to be, aff. घञ्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "परिवार",
+            "eid": "13289",
+            "pagenum": 417,
+            "content": "<b>pari-vāra-</b>¦ <ab>m.</ab> couverture, suite, entourage, escorte ; fourreau ; <ab>ifc.</ab> <ab>a.</ab> suivi de ; <i>-ī-kṛ-</i> s'entourer <lbinfo n='6'/> de (<ab>acc.</ab>) ; <i>-tā-</i> <ab>f.</ab> dépendance ; <i>-vant-</i> <ab>a.</ab> qui a une nombreuse suite ; <i>-ita-</i> <ab>a. v.</ab> entouré de, enveloppé dans (<ab>instr.</ab> <ab>ifc.</ab>).  <P><i>°śobhin-</i> <ab>a.</ab> embelli par l'entourage."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "परिवार",
+            "eid": "23690",
+            "pagenum": 512,
+            "content": "परिवार¦ m. (-रः) .²1 Dependant. .²2 Train or retinue. .²3 A scabbard, a sheath. .E. परि round, वृ to be, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "परिवार",
+            "eid": "23165",
+            "pagenum": 457,
+            "content": "परि-वार¦ (रः) 1. <i>m.</i> A dependant; a retinue; a sheath or scabbard."
+        }
     ]
 }

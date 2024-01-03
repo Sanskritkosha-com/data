@@ -222,5 +222,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> कुणप (*<lex>m.</lex> <i>eine <ab>best.</ab> Hölle</i> <ls>MAHĀVY. 215</ls>) und <hom>2.</hom> कुण्ठ्¦ II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुणप",
+            "eid": "10774",
+            "pagenum": 148,
+            "content": "1. <i>kuṇapa</i>¦ *m. eine best. Hölle, <ls>Mahāvy.</ls> 215. {part=,seq=10933,type=,n=2}"
+        },
+        {
+            "word": "कुणप",
+            "eid": "10775",
+            "pagenum": 148,
+            "content": "1. <i>kúṇapa</i>¦ , vor Leichnam ist 1. hinzuzufügen. Auch <i>kuṇápa</i> als Subst., <ls>TS.</ls> 7, 2, 10, 2. {part=,seq=10934,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुणप",
+            "eid": "10682",
+            "pagenum": 187,
+            "content": "कुणप¦ mfn. (-पः-पी-पं) Foul smelling, stinking. mn. (-पः-पं) 1. A dead body, a corpse. m. (-पः) 1. A stink, a foul smell. 2. A spear. f. (-पी) A small bird, a kind of Maina or Salik: see विट्सारिका. E. कृण् to sound, कपन affix, व is changed to its congener उ; sound proceeding from the corpse, &c. by the escape of the vital air, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुणप",
+            "eid": "8078",
+            "pagenum": 197,
+            "content": "<b>kuṇapa-</b>¦ <ab>nt.</ab> cadavre, charogne, terme de mépris pour le corps ; <ab>m.</ab> lance.  <P><i>°bhuj-</i> <ab>m.</ab> <ab>ép.</ab> d'un Rākṣasa.  <P><i>kuṇapāśana-</i> <ab>ag.</ab> qui se nourrit de cadavres."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुणप",
+            "eid": "10688",
+            "pagenum": 227,
+            "content": "कुणप¦ mn. (-पः-पी-पं) Foul smelling, stinking. mn. (-पः-पं) .²1 A dead body, a corpse. m. (-पः) .²1 A stink, a foul smell. .²2 A spear. f. (-पी) A small bird, a kind of <i>Maina</i> or <i>Sārika:</i> see विट्सारिका. .E. क्वण to sound, कपन् affix, व is changed to its congener उ; sound proceeding from the corpse, &c. by the escape of the vital air, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुणप",
+            "eid": "10131",
+            "pagenum": 192,
+            "content": "कुणप¦ (पः-पी) 1. <i>m. n.</i> A dead body. <i>m.</i> Foetor; a spear. <i>f.</i> (पी) A <i>Maina. a.</i> Foul, stinking."
+        }
     ]
 }

@@ -301,5 +301,21 @@
             "pagenum": 2,
             "content": "*कुमारी¦ <lex>Adj.</lex> <i>nach einem Mädchen Verlangen habend</i>. <ab>Vgl.</ab> auch <ab n='unter'>u.</ab> कुमार."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुमारी",
+            "eid": "28529",
+            "pagenum": 393,
+            "content": "<i>kumārī</i>¦ °wagerechter Balken, <ls>Kauṭ.</ls> 136, 2. Vgl. <ls>J. J. Meyer</ls>, S. 217, Anm. 2. {part=N,seq=28898,type=,n=2}"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "कुमारी",
+            "eid": "301",
+            "pagenum": 434,
+            "content": "kumārī¦ <div n='P'/>Aloe vera Linn. (KB 4, p. 2505-2506; DEP 1, p. 183: ghṛtakumārī, p. 186: ghṛtakumārī, kanyā) = A. barbadensis Mill. (Kai.Nigh., oṣadhivarga 1638; Bpn, guḍūcyādivarga 229-230; Chopra: ghṛtakumārī)."
+        }
     ]
 }

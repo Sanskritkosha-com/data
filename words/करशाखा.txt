@@ -52,5 +52,37 @@
             "pagenum": 2,
             "content": "करशाखा¦ (कर <i>Hand</i> + शाखा <i>Zweig</i>) <lex>f.</lex> <i>Finger</i> <ls>AK. 2, 6, 2, 33.</ls> <ls>H. 592.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "करशाखा",
+            "eid": "9878",
+            "pagenum": 136,
+            "content": "*<i>karaśākhā</i>¦ Finger, <ls>S</ls> I, 142, 3. {part=,seq=10013,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "करशाखा",
+            "eid": "9156",
+            "pagenum": 158,
+            "content": "करशाखा¦ f. (-खा) A finger. E. कर the hand, and शाखा a branch."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "करशाखा",
+            "eid": "9161",
+            "pagenum": 193,
+            "content": "करशाखा¦ f. (-खा) A finger. .E. कर the hand, and शाखा a branch."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "करशाखा",
+            "eid": "8591",
+            "pagenum": 161,
+            "content": "कर-शाखा¦ (खा) 1. <i>f.</i> A finger."
+        }
     ]
 }

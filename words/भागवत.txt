@@ -163,5 +163,29 @@
             "pagenum": 5,
             "content": "भागवत¦ <div n='1'> 2) <ls>BHĀG. P. 12, 1, 16.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "भागवत",
+            "eid": "20521",
+            "pagenum": 283,
+            "content": "<i>bhāgavata</i>¦ Adj. ° = <i>bhagavān Śivo devatāsyeti</i>, <ls>Yudh.</ls> 4, 82. {part=,seq=20802,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भागवत",
+            "eid": "29274",
+            "pagenum": 528,
+            "content": "भागवत¦ f. (-ती) Adj. 1. Relating to or worshipping of VISHṆU or KRISHṆA. 2. Holy, sacred. m. (-तः) A devotee of the said deity. n. (-तं) Name of one of the eighteen Purānas."
+        }
+    ],
+    "STC": [
+        {
+            "word": "भागवत",
+            "eid": "16140",
+            "pagenum": 528,
+            "content": "<b>bhāgavata-</b>¦ <i>-ī-</i> <ab>a.</ab> relatif à ou issu de ViṣṇuKṛṣṇa <lbinfo n='5'/> ; saint, sacré ; <ab>m.</ab> adepte de ViṣṇuKṛṣṇa <lbinfo n='5'/> ; <ab>nt.</ab> <ab>v.</ab> <i>°purāṇa-.</i>  <P><i>°purāṇa-</i> <ab>nt.</ab> titre d'un Purāṇa d'inspiration vishnouïte."
+        }
     ]
 }

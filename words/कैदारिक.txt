@@ -42,5 +42,21 @@
             "pagenum": 7,
             "content": "कैदारिक¦ II. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कैदारिक",
+            "eid": "11347",
+            "pagenum": 156,
+            "content": "<i>kaidārika</i>¦ <ls>Śiś.</ls> 12, 42. {part=,seq=11520,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कैदारिक",
+            "eid": "8283",
+            "pagenum": 209,
+            "content": "<b>kaidārika-</b>¦ <ab>nt.</ab> une quantité de (champs) kedāra."
+        }
     ]
 }

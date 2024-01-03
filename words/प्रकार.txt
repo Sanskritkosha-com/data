@@ -150,5 +150,51 @@
             "pagenum": 5,
             "content": "प्रकार¦, तत्प्रकार <i>derartig</i> <ls>BHĀṢĀP. 134.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रकार",
+            "eid": "19007",
+            "pagenum": 262,
+            "content": "<i>prakāra</i>¦ m. ° = <i>pradeśa</i>, <ls>S</ls> I, 95, 4. {part=,seq=19276,type=,n=1}"
+        },
+        {
+            "word": "प्रकार",
+            "eid": "19007.1",
+            "pagenum": 262,
+            "content": "<i>prakāra</i>¦ <ls>Kauṭ.</ls> 118, 6 v.u. falsch statt <i>prakara</i> °Getreidehaufen. {part=,seq=19277,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रकार",
+            "eid": "26062",
+            "pagenum": 472,
+            "content": "प्रकार¦ m. (-रः) 1. Difference. 2. Similitude. n. (-रं) 1. Sort, kind, species. 2. Way, mode, manner. 3. Property, quality, speciality, E. प्र before, कृ to do, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रकार",
+            "eid": "14100",
+            "pagenum": 450,
+            "content": "<b>pra-kāra-</b>¦ <ab>m.</ab> manière, mode, façon ; sorte, espèce ; <i>kena- -eṇa</i> comment ? de quelle manière <lbinfo n='5'/> ? <i>-ais</i> d'une façon ou de l'autre."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रकार",
+            "eid": "25731",
+            "pagenum": 557,
+            "content": "प्रकार¦ m. (-रः) .²1 Difference. .²2 Similitude. n. (-रं) .²1 Sort, kind, species. .²2 Way, mode, manner. .E. प्र before कृ to do, aff. अण्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रकार",
+            "eid": "25214",
+            "pagenum": 499,
+            "content": "प्र-कार¦ (रः) 1. <i>m.</i> Difference; similitude. <i>n.</i> Sort, kind; way, mode."
+        }
     ]
 }

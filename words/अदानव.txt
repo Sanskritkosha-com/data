@@ -23,5 +23,21 @@
             "pagenum": 7,
             "content": "अदानव¦ <lex>m.</lex> <i>kein</i> <is>Dānava</is>, <i>ein Gott</i> <ls>MBH. 1,76,14</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अदानव",
+            "eid": "1528",
+            "pagenum": 21,
+            "content": "<i>adānava</i>¦ m. kein Dānava, ein Gott, <ls>MBh.</ls> 1, 76, 14. {part=,seq=1554,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अदानव",
+            "eid": "887",
+            "pagenum": 19,
+            "content": "<b>a-dānava-</b>¦ <ab>m.</ab> non un Dānava."
+        }
     ]
 }

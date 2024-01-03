@@ -72,5 +72,37 @@
             "pagenum": 5,
             "content": "तालवृन्त¦ <div n='1'> 1) <ls>KATHĀS. 71, 196.</ls> <ls>WEBER, RĀMAT. UP. 300.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तालवृन्त",
+            "eid": "14528",
+            "pagenum": 200,
+            "content": "<i>tālavṛnta</i>¦ °eine Art Kriegsgerät, <ls>Kauṭ.</ls> 101, 5 v.u. Vgl. <ls>J. J. Meyer</ls>, S. 154, Anm. 11. {part=,seq=14759,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तालवृन्त",
+            "eid": "17386",
+            "pagenum": 311,
+            "content": "तालवृन्त¦ m. (-न्तः) A fan. E. ताल the palm of the hand, and वृन्त a rootstalk, expanding from the hand like a leaf from its stem; also with कन् added तालवृन्तक, ताले करताले वृन्तं बन्धनमस्य ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तालवृन्त",
+            "eid": "17403",
+            "pagenum": 375,
+            "content": "तालवृन्त¦ m. (-न्तः) A fan. .E. ताल the palm of the hand, and वृन्त a root-stalk; expanding from the hand like a leaf from its stem; also with कन् added तालवृन्तक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तालवृन्त",
+            "eid": "16875",
+            "pagenum": 331,
+            "content": "ताल-वृन्त¦ (न्तः) 1. <i>m.</i> A fan."
+        }
     ]
 }

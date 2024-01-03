@@ -21,5 +21,21 @@
             "pagenum": 7,
             "content": "उपनदि¦ <lex>Adv.</lex> <i>am Fluss</i> <ls>KIR. 7,21</ls>. <ls>DHARMAŚARMĀBHY. 13,16</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपनदि",
+            "eid": "8561",
+            "pagenum": 117,
+            "content": "<i>upanadi</i>¦ Adv. am Flusse, <ls>Kir.</ls> 7, 21; <ls>Dharmaśarmābhy.</ls> 13, 16. {part=,seq=8676,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपनदि",
+            "eid": "6764",
+            "pagenum": 151,
+            "content": "<b>upa-nadi</b>¦ <ab>adv.</ab> au fleuve."
+        }
     ]
 }

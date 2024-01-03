@@ -150,5 +150,43 @@
             "pagenum": 2,
             "content": "कालचक्र¦ 4〉 auch Titel eines Werkes des <is>Varāhamihira</is> <ls>OPP. Cat. 1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कालचक्र",
+            "eid": "10481",
+            "pagenum": 144,
+            "content": "<i>kālacakra</i>¦ 4. auch Titel eines Werkes des Varāhamihira, <ls>Opp. Cat.</ls> 1. {part=,seq=10634,type=,n=1}"
+        },
+        {
+            "word": "कालचक्र",
+            "eid": "10481.1",
+            "pagenum": 144,
+            "content": "<i>Kālacakra</i>¦ m. °N. eines daitya, <ls>H</ls> 34, 28. {part=,seq=10635,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कालचक्र",
+            "eid": "10201",
+            "pagenum": 178,
+            "content": "कालचक्र¦ n. (-क्रं) 1. A cycle, a given revolution of time. 2. A period, according to the Jainas, of twelve Aras: see अर."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कालचक्र",
+            "eid": "10206",
+            "pagenum": 216,
+            "content": "कालचक्र¦ n. (-क्रं) .²1 A cycle, a given revolution of time. .²2 A period according to the <i>Jainas,</i> of twelve <i>Aras:</i> see अर."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कालचक्र",
+            "eid": "9645",
+            "pagenum": 182,
+            "content": "काल-चक्र¦ (क्रं) 1. <i>n.</i> A cycle."
+        }
     ]
 }

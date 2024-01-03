@@ -87,5 +87,29 @@
             "pagenum": 5,
             "content": "जानक¦ <div n='1'> 2) <div n='2'> a) जानकीनाथ <ls>WEBER, RĀMAT. UP. 332.</ls> °वल्लभ <ls n='WEBER, RĀMAT. UP.'>282. 301.</ls> °देहभूष <ls n='WEBER, RĀMAT. UP.'>296.</ls> °मन्त्र ebend. °स्वयंवर <ls>Verz. d. Oxf. H. 143,a,1.</ls> °रामचन्द्रविलास 2. °सहस्रनामस्तोत्र <ls n='Verz. d. Oxf. H.'>106,b, No. 162.</ls> °हरण <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 3, 73.</ls> °नाथचूडामणिभट्टाचार्य N. pr. eines Autors <ls>HALL 24.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "जानक",
+            "eid": "13858",
+            "pagenum": 191,
+            "content": "<i>jānaka</i>¦ m. ° = <i>araṇyavṛṣabha</i> (?!) oder Affe, <ls>S</ls> II, 198, 3. {part=,seq=14079,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "जानक",
+            "eid": "9573",
+            "pagenum": 262,
+            "content": "<b>jānaka-</b>¦ <ab>m.</ab> <ab>patron.</ab> d'un certain Āyaḥsthūṇa <lbinfo n='5'/> ; <i>-ī-</i> <ab>f.</ab> de Sītā."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "जानक",
+            "eid": "1042",
+            "pagenum": 1,
+            "content": "<b>Jānaka,</b>¦ ‘descendant of Janaka,’ is the patronymic of <b>Kratuvid</b> in some MSS. of the Aitareya Brāhmaṇa.<sup>1</sup> In the Taittirīya Saṃhitā<sup>2</sup> the name appears instead as <b>Kratujit</b> <b>Jānaki.</b> Jānaka is also, according to some manuscripts of the Bṛhadāraṇyaka Upaniṣad,<sup>3</sup> the patronymic of <b>Āyasthūṇa,</b> but is here no doubt a misreading of <b>Jānaki.</b> <F>1) vii. 34.</F> <F>2) ii. 3, 8, 1; Kāṭhaka Saṃhitā, xi. 1.</F> <F>3) vi. 3, 10 (Kāṇva).</F>"
+        }
     ]
 }

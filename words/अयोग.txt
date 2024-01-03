@@ -185,5 +185,43 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> अयोग¦ <lex>Adj.</lex> <i>auf Eisen bezüglich</i> <ls>DAMAYANTĪK. 124</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अयोग",
+            "eid": "4676",
+            "pagenum": 63,
+            "content": "1. <i>ayoga</i>¦ 9. Zerstreutheit, <ls>Āpast.</ls> {part=,seq=4736,type=,n=1}"
+        },
+        {
+            "word": "अयोग",
+            "eid": "4677",
+            "pagenum": 63,
+            "content": "3. <i>ayoga</i>¦ Adj. auf Eisen bezüglich, <ls>Damayantīk.</ls> 124. {part=,seq=4737,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अयोग",
+            "eid": "3092",
+            "pagenum": 54,
+            "content": "अयोग¦ m. (-गः) 1. Separation, disjunction. 2. A widower, an absent lover or husband. 3. Unfitness, unsuitableness. 4. Medical treatment, counter to the symptoms. 5. Consistent treatment, non-mixture of opposite qualities. 6. Dislike, aversion to any thing. 7. Vigorous effort, exertion. 8. An iron hammer. E. अ neg. and योग union; or अयस् iron, and ग what goes, or is."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अयोग",
+            "eid": "3094",
+            "pagenum": 65,
+            "content": "अयोग¦ m. (-गः) .²1 Separation, disjunction. .²2 A widower, an absent lover or husband. .²3 Unfitness, unsuitableness. .²4 Medical treatment, counter to the symptoms. .²5 Consistent treatment, non-mixture of opposite qualities. .²6 Dislike, aversion to any thing. .²7 Vigorous effort, exertion. .²8 An iron hammer. .E. अ neg. and योग union; or अयस् iron, and ग what goes, or is."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अयोग",
+            "eid": "2567",
+            "pagenum": 51,
+            "content": "अ-योग¦ (गः) 1. <i>m.</i> Separation; a widower; dislike; effort."
+        }
     ]
 }

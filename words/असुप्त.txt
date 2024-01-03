@@ -31,5 +31,21 @@
             "pagenum": 1,
             "content": "अ/सुप्त¦ <lex>Adj.</lex> <i>nicht schlafend</i> <ls>ŚAT. BR. 14,7,1,12</ls>."
         }
+    ],
+    "STC": [
+        {
+            "word": "असुप्त",
+            "eid": "4764",
+            "pagenum": 103,
+            "content": "<b>a-supta-</b>¦ <ab>a. v.</ab> non endormi."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असुप्त",
+            "eid": "44763",
+            "pagenum": 916,
+            "content": "असुप्त¦ दृश् (क्) <i>a.</i> Never closing the eyes in sleep, all-seeing."
+        }
     ]
 }

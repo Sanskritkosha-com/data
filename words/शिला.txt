@@ -220,5 +220,27 @@
             "pagenum": 7,
             "content": "2. शिला¦ = शिरा (सिरा) <i>Ader</i> <ls>MAHĀNĀR. UP.</ls> in <ls>Ind. St. 2, 93.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शिला",
+            "eid": "25054",
+            "pagenum": 345,
+            "content": "<i>śilā</i>¦ Hagel, <ls>Harṣac.</ls> 31, 2? [Z.] {part=,seq=25395,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शिला",
+            "eid": "20323",
+            "pagenum": 729,
+            "content": "<b>1 śilā-</b>¦ <ab>f.</ab> pierre, rocher, roc ; <ab>n.</ab> d'une rivière <lbinfo n='5'/> ; <i>-maya- -ī-</i> (<i>-ā-</i>) <ab>a.</ab> fait de pierres, qui consiste en pierres ; <i>-tva-</i> <ab>nt.</ab> fait d'être une pierre, nature de la pierre.  <P><i>°gṛha-</i> <ab>nt.</ab> habitation dans la pierre, maison de pierre.  <P><i>°ghana-</i> <ab>a.</ab> aussi dur que la pierre.  <P><i>°jatu-</i> <ab>nt.</ab> bitume.  <P><i>°tala-</i> <ab>nt.</ab> pierre ou rocher à surface horizontale. <lbinfo n='7'/>  <P><i>°paṭṭa-</i> <ab>m.</ab> pierre plate (pour s'asseoir ou pour moudre).  <P><i>°bhāva-</i> <ab>m.</ab> nature de la pierre.  <P><i>°varṣin-</i> <ab>a.</ab> qui fait pleuvoir des pierres.  <P><i>°vaha-</i> <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> d'un peuple ; <i>-ā-</i> <ab>f.</ab> <ab>n.</ab> d'une rivière.  <P><i>°veśman-</i> <ab>nt.</ab> grotte.  <P><i>°śastra-</i> <ab>nt.</ab> arme de pierre.  <P><i>°śita-</i> <ab>a. v.</ab> aiguisé sur une pierre.  <P><i>°stambha-</i> <ab>m.</ab> pilier de pierre.  <P><i>śilāsana-</i> <ab>a.</ab> assis sur une pierre.  <P><i>śiloccaya-</i> <ab>m.</ab> montagne.  <P><i>śiloraska-</i> <ab>a.</ab> qui a une poitrine de pierre (Himālaya).  <P><i>śilī-bhūta-</i> <ab>a. v.</ab> changé en pierre, devenu aussi dur qu'une pierre."
+        },
+        {
+            "word": "शिला",
+            "eid": "20324",
+            "pagenum": 729,
+            "content": "<b>2 śilā-</b>¦ <ab>f.</ab> croc (?)."
+        }
     ]
 }

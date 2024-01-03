@@ -123,5 +123,51 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अगुण und अगुणवन्त्¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अगुण",
+            "eid": "382",
+            "pagenum": 6,
+            "content": "2. <i>aguṇa</i>¦ 3. ohne besondere Beigabe, -x- besonderes Epitheton, <ls>Kāty. Śr.</ls> 6, 7, 23. {part=,seq=395,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अगुण",
+            "eid": "233",
+            "pagenum": 5,
+            "content": "अगुण¦ m. (-णः) A defect, a fault. mfn. (-णः-णा-णं) 1. Void of good qualities, bad. 2. Void of attributes. E. अ neg. गुण qualities."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अगुण",
+            "eid": "152",
+            "pagenum": 4,
+            "content": "<b>a-guṇa-</b>¦ <ab>m.</ab> absence de qualité, défaut ; <ab>a.</ab> sans valeur ; <i>-vant-</i> sans vertus, mauvais ; <i>-in-</i> sans qualités.  <P><i>°jña-</i> <ab>a.</ab> qui n'apprécie pas le mérite.  <P><i>°śīla-</i> <ab>a.</ab> dénué de vertus.  <P><i>aguṇī-bhūta-</i> <ab>a. v.</ab> qui n'est pas devenu subordonné."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अगुण",
+            "eid": "234",
+            "pagenum": 5,
+            "content": "अगुण¦ m. (-णः) A defect, a fault. mfn. (-णः-णा-णं) .²1 Void of good qualities, bad. .²2 Void of attributes. .E. अ neg. गुण qualities."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अगुण",
+            "eid": "196",
+            "pagenum": 5,
+            "content": "अ-गुण¦ (णः-णा-णं) <i>a.</i> Defective, of bad quality; 1. <i>m.</i> A fault."
+        },
+        {
+            "word": "अगुण",
+            "eid": "44442",
+            "pagenum": 909,
+            "content": "*अगुण¦ (णः-णा-णं) <i>a.</i> Without qualities (God)."
+        }
     ]
 }

@@ -131,5 +131,45 @@
             "pagenum": 5,
             "content": "पचन¦ <div n='1'> 5) <div n='2'> b) तेजः पचने प्रकाशने च <ls>Verz. d. Oxf. H. 225,a,8</ls> v. u."
         }
+    ],
+    "SHS": [
+        {
+            "word": "पचन",
+            "eid": "22789",
+            "pagenum": 411,
+            "content": "पचन¦ mfn. (-नः-ना-नी-नं) What cooks or matures, &c. n. (-नं) 1. Cooking, dressing, boiling. 2. Maturing. m. (-नः) Fire. E. पच् to cook, aff. युच् or कर्त्तरि-ल्युट् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पचन",
+            "eid": "12779",
+            "pagenum": 396,
+            "content": "<b>pacana-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui cuit, qui mûrit ; <ab>nt.</ab> cuisson, maturation."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "पचन",
+            "eid": "1640",
+            "pagenum": 1,
+            "content": "<b>Pacana</b>¦ in the Rigveda<sup>1</sup> and the Śatapatha Brāhamaṇa<sup>2</sup> denotes a ‘vessel for cooking’ food. <F>1) i. 162, 6.</F> <F>2) vi. 5, 43, 3. 4; xiv. 1, 2, 21.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पचन",
+            "eid": "22804",
+            "pagenum": 492,
+            "content": "पचन¦ mfn. (-नः-ना-नी-नं) What books or matures, &c. n. (-नं) .²1 Cooking, dressing, boiling. .²2 Maturing. m. (-नः) Fire. .E. पच to cook, aff. युच् or ल्युट्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पचन",
+            "eid": "22276",
+            "pagenum": 439,
+            "content": "पचन¦ (नः) 1. <i>m.</i> Fire. <i>n.</i> Cooking."
+        }
     ]
 }

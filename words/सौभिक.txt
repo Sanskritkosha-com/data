@@ -55,5 +55,37 @@
             "pagenum": 7,
             "content": "सौभिक¦ (wohl von सौभ) <lex>m.</lex> <i>Zauberer, Gaukler</i> <ls>HĀR. 151.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "सौभिक",
+            "eid": "27020",
+            "pagenum": 370,
+            "content": "*<i>saubhika</i>¦ m. Gaukler, <ls>Kauṭ.</ls> 125, 9. {part=,seq=27380,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सौभिक",
+            "eid": "45221",
+            "pagenum": 806,
+            "content": "सौभिक¦ m. (-कः) A juggler."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सौभिक",
+            "eid": "42875",
+            "pagenum": 946,
+            "content": "सौभिक¦ m. (-कः) A juggler."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सौभिक",
+            "eid": "42670",
+            "pagenum": 869,
+            "content": "सौभिक¦ (कः) 1. <i>m.</i> A juggler."
+        }
     ]
 }

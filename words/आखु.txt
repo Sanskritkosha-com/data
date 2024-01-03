@@ -174,5 +174,53 @@
             "pagenum": 7,
             "content": "आखु/¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आखु",
+            "eid": "6623",
+            "pagenum": 90,
+            "content": "<i>ākhu</i>¦ 5., das Sternchen zu streichen. {part=,seq=6711,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आखु",
+            "eid": "5033",
+            "pagenum": 86,
+            "content": "आखु¦ m. (-खुः) 1. A rat, a mouse. 2. A hog. 3. A thief. 4. A sort of tree: see देवताड. E. आङ्, खन् to dig, and कु Unādi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आखु",
+            "eid": "4975",
+            "pagenum": 109,
+            "content": "<b>ā-khu-</b>¦ <ab>m.</ab> jetée ; souris, rat."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "आखु",
+            "eid": "207",
+            "pagenum": 1,
+            "content": "<b>Ākhu.</b>¦ — The exact sense of this word is uncertain. Zimmer<sup>1</sup> renders it ‘mole,’ while Roth<sup>2</sup> prefers ‘mouse’ or ‘rat.’ It is frequently mentioned in the later Saṃhitās,<sup>3</sup> and is known to the Rigveda,<sup>4</sup> where, however, the word is regarded by Pischel<sup>5</sup> as having acquired the secondary sense of ‘thief.’ This is denied by Hillebrandt.<sup>6</sup> <F>1) <i>Altindisches Leben,</i> 84, 85, followed by Bloomfield. <i>Hymns of the Athar-</i> <i>vaveda,</i> 142.</F> <F>2) St. Petersburg Dictionary, <i>s.v.,</i> followed by Whitney, Translation of the Atharvaveda, 317, 318.</F> <F>3) Taittirīya Saṃhitā, v. 5, 14, 1; Maitrāyaṇī Saṃhitā, iii. 14. 7; Vājasaneyi Saṃhitā, iii. 57; xxiv. 26; 28; Av. vi. 50, 1.</F> <F>4) ix. 67, 30.</F> <F>5) <i>Vedische Studien,</i> 2, 246; <i>Zeitschrift</i> <i>der Deutschen Morgenländischen Gesell-</i> <i>schaft,</i> 48, 701.</F> <F>6) <i>Zeitschrift,</i> 48, 418; <i>Vedainterpreta-</i> <i>tion,</i> 7.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आखु",
+            "eid": "5035",
+            "pagenum": 104,
+            "content": "आखु¦ m. (-खुः) .²1 A rat, a mouse. .²2 A hog. .²3 A thief. .²4 A sort of tree: see देबताड. .E. आङ्, खन to dig, and कु Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आखु",
+            "eid": "4399",
+            "pagenum": 82,
+            "content": "आ-खु¦ (खुः) 2. <i>m.</i> A rat or mouse."
+        }
     ]
 }

@@ -47,5 +47,45 @@
             "pagenum": 7,
             "content": "ब्रह्मौदन/¦ <lex>m.</lex> <i>das für den</i> <is>Brahman</is> <i>bestimmte Mus</i> <ls>TS. 3,4,8,7</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ब्रह्मौदन",
+            "eid": "20374",
+            "pagenum": 281,
+            "content": "<i>brahmaudaná</i>¦ m. das für den Brahmanen bestimmte Mus, <ls>TS.</ls> 3, 4, 8, 7. {part=,seq=20655,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ब्रह्मौदन",
+            "eid": "28942",
+            "pagenum": 522,
+            "content": "ब्रह्मौदन¦ n. (-नं) Boiled-rice distributed to priests at a sacrifice. E. ब्रह्मन् a Brāhman and ओदन boiled-rice."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "ब्रह्मौदन",
+            "eid": "2221",
+            "pagenum": 2,
+            "content": "<b>Brahmaudana</b>¦ denotes in the later Saṃhitās<sup>1</sup> and the Brāhmaṇas<sup>2</sup> the ‘rice boiled (<b>Odana</b>) for the priests’ officiating at the sacrifice. <F>1) Av. iv. 35, 7; xi. 1, 1, 3, 20. 23 <i>et seq.;</i> Taittirīya Saṃhitā, iii. 4, 8, 7; v. 7, 3, 4; vi. 5, 6, 1, etc.</F> <F>2) Śatapatha Brāhmaṇa, xiii. 1, 1, 1. 4; 3, 6, 6; 4, 1, 5, etc.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ब्रह्मौदन",
+            "eid": "28072",
+            "pagenum": 609,
+            "content": "ब्रह्मौदन¦ n. (-नं) Boiled rice distributed to priests at a sacrifice. .E. ब्रह्मन् a <i>Brahman,</i> and ओदन boiled rice."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ब्रह्मौदन",
+            "eid": "27582",
+            "pagenum": 546,
+            "content": "ब्रह्मौ_दन¦ (नं) 1. <i>n.</i> Boiled rice given to priests at a sacrifice."
+        }
     ]
 }

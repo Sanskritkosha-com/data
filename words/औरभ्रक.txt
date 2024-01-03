@@ -84,5 +84,43 @@
             "pagenum": 1,
             "content": "औ/रभ्रक¦ (wie eben) <lex>n.</lex> <i>eine Heerde Schafe</i> <ls>P. 4, 2, 39.</ls> <ls>AK. 2, 9, 77.</ls> <ls>H. 1417.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "औरभ्रक",
+            "eid": "9410",
+            "pagenum": 129,
+            "content": "*<i>aurabhraka</i>¦ n. Schafherde, <ls>Harṣac.</ls> 105, 12. {part=,seq=9534,type=*,n=2}"
+        },
+        {
+            "word": "औरभ्रक",
+            "eid": "28352",
+            "pagenum": 390,
+            "content": "*<i>aurabhraka</i>¦ °Adj. <ls>Kauṭ.</ls> 33, 3 mit <i>bhayam</i> 'Furcht von Schafen'. Vgl. <ls>J. J. Meyer</ls>, p. 40, Anm. 1. Die ed. Mysore 1919 hat übrigens <i>aurabhragaṃ bhayam</i>. {part=N,seq=28723,type=*,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "औरभ्रक",
+            "eid": "8420",
+            "pagenum": 145,
+            "content": "औरभ्रक¦ n. (-कं) A flock of sheep. E. उरभ्र and वुञ् affix of multitude."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "औरभ्रक",
+            "eid": "8424",
+            "pagenum": 176,
+            "content": "औरभ्रक¦ n. (-कं) A flock of sheep. .E. उरभ्र, and वुञ् affix of multitude."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "औरभ्रक",
+            "eid": "7850",
+            "pagenum": 146,
+            "content": "औरभ्रक¦ (कं) 1. <i>n.</i> A flock of sheep."
+        }
     ]
 }

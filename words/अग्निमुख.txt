@@ -115,5 +115,37 @@
             "pagenum": 1,
             "content": "अग्नि/मुख¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <is>Agni</is> <i>zum Munde habend</i> <ls>ŚAT. BR. 7,1,2,4</ls>. <ls n='ŚAT. BR.'>13,4,1,12</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अग्निमुख",
+            "eid": "451",
+            "pagenum": 7,
+            "content": "<i>agnímukha</i>¦ Adj. (f. <i>ī</i>), Agni zum Munde habend, <ls>Śat. Br.</ls> 7, 1, 2, 4, 13, 4, 1, 12. {part=,seq=465,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अग्निमुख",
+            "eid": "283",
+            "pagenum": 6,
+            "content": "अग्निमुख¦ m. (-खः) 1. A deity. 2. A Brahman. E. अग्नि and मुख the mouth; oblations to the gods passing through fire as their mouths. 3. A plant, (Plumbago zeylanica.) 4. Marking nut, (Semecarpus anacardium.) (In this sense it is also fem. -खी) E. as before, from its marking like fire."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अग्निमुख",
+            "eid": "284",
+            "pagenum": 7,
+            "content": "अग्निमुख¦ m. (-खः) .²1 A deity. .²2 A Brahman. .E. अग्नि and मुख the mouth; oblations to the gods passing through fire as their mouths. .²2 A plant, (<bot>Plumbago zeylanica</bot>.) .²4 Marking nut, (<bot>Semecarpus anacardium</bot>.) (In this sense it is also fem. -खी.) .E. as before, from its marking like fire."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अग्निमुख",
+            "eid": "239",
+            "pagenum": 6,
+            "content": "अग्नि-मुख¦ (खः) 1. <i>m.</i> A deity; a brāhman; a plant; a marking nut."
+        }
     ]
 }

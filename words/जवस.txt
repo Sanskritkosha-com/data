@@ -55,5 +55,37 @@
             "pagenum": 3,
             "content": "जवस¦ = यवस, <lex>m.</lex> <ls>BHAR.</ls> zu <ls>AK.</ls> <ls>WILS.</ls> n. <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "जवस",
+            "eid": "13810",
+            "pagenum": 190,
+            "content": "*<i>javasa</i>¦ m. n. = <i>yavasa</i>, <ls>Gopāl.</ls> 143, 19. {part=,seq=14031,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "जवस",
+            "eid": "16117",
+            "pagenum": 286,
+            "content": "जवस¦ m. (-सः) Meadow or pasture grass. जु to grow quick, असच् affix: see यवस."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जवस",
+            "eid": "16146",
+            "pagenum": 346,
+            "content": "जवस¦ m. (-सः) Meadow or pasture grass. .E. जु to grow quick, असच् affix: see यवस."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जवस",
+            "eid": "15613",
+            "pagenum": 304,
+            "content": "जवस¦ (सः) 1. <i>m.</i> Meadow grass."
+        }
     ]
 }

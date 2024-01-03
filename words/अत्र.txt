@@ -277,5 +277,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अत्र¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अत्र",
+            "eid": "1481",
+            "pagenum": 20,
+            "content": "1. <i>atra</i>¦ , wann tonlos: <ls>P. 2, 4, 33.</ls> {part=,seq=1506,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अत्र",
+            "eid": "867",
+            "pagenum": 16,
+            "content": "अत्र¦ ind. In this place, here, herein. E. त्र being substituted for the termination of the seventh case of इदम् this."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अत्र",
+            "eid": "850",
+            "pagenum": 19,
+            "content": "<b>1 atra</b>¦ <ab>adv.</ab> ici (local et <ab>fig.</ab>), ici-bas, en ce cas, alors (temporel) ; sert de <ab>loc.</ab> à <i>idam-</i> comme adj. et pronom ; dans celui-ci, etc.  <P><i>°bhavant-</i> (<i>-atī-</i> <ab>f.</ab>) <ab>m.</ab> honorable (désignation <lbinfo n='7'/> respectueuse d'un tiers présent).  <P><i>°stha-</i> <ab>a.</ab> situé ici, présent."
+        },
+        {
+            "word": "अत्र",
+            "eid": "851",
+            "pagenum": 19,
+            "content": "<b>2 a-tra-</b>¦ <ab>a.</ab> qui ne protège pas."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अत्र",
+            "eid": "868",
+            "pagenum": 19,
+            "content": "अत्र¦ <i>ind.</i> In this place, here, herein. .E. त्र being substituted for the termination of the seventh case of इदम् this."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अत्र",
+            "eid": "720",
+            "pagenum": 16,
+            "content": "अत्र¦ <i>adv.</i> In this place, here."
+        }
     ]
 }

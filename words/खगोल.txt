@@ -37,5 +37,29 @@
             "pagenum": 5,
             "content": "खगोल¦ <ls>GOLĀDHY. 6, 1. 8. fg. 31.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "खगोल",
+            "eid": "12571",
+            "pagenum": 221,
+            "content": "खगोल¦ m. (-लः) 1. The vault or circle of the heavens, the planisphere. 2. The same represented artificially, the armillary sphere. E. ख, and गोल sphere."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खगोल",
+            "eid": "12577",
+            "pagenum": 269,
+            "content": "खगोल¦ m. (-लः) .²1 The vault or circle of the heavens, the planisphere. .²2 The same represented artificially, the armillary sphere. .E. ख, and गोल sphere."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खगोल",
+            "eid": "12031",
+            "pagenum": 232,
+            "content": "ख-गोल¦ (लः) 1. <i>m.</i> Circle of the heavens; celestial globe."
+        }
     ]
 }

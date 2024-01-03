@@ -45,5 +45,51 @@
             "pagenum": 7,
             "content": "अकृप¦ 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकृप",
+            "eid": "164",
+            "pagenum": 3,
+            "content": "<i>akṛpa</i>¦ Adj. (f. <i>ā</i>) mitleidlos, grausam, <ls>Daśak.</ls> 80, 5; <ls>H</ls> 50, 23. {part=,seq=170,type=,n=2}"
+        },
+        {
+            "word": "अकृप",
+            "eid": "27673",
+            "pagenum": 381,
+            "content": "°<i>akṛpa</i>¦ Adj. erbarmungslos, <ls>Prabandh.</ls> 299, 5 v.u. {part=N,seq=28044,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अकृप",
+            "eid": "102",
+            "pagenum": 3,
+            "content": "अकृप¦ mfn. (-पः-पा-पं) Unmerciful, unkind. E. अ neg. कृपा mercy."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकृप",
+            "eid": "78",
+            "pagenum": 3,
+            "content": "<b>a-kṛpa-</b>¦ <ab>a.</ab> sans pitié ; <i>-ṇa-</i> qui n'agit pas misérablement."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अकृप",
+            "eid": "103",
+            "pagenum": 3,
+            "content": "अकृप¦ mfn. (-पः-पा-पं) Unmerciful, unkind. .E. अ neg. कृपा mercy."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकृप",
+            "eid": "77",
+            "pagenum": 2,
+            "content": "अ-कृप¦ (पः-पा-पं) <i>a.</i> Harsh, unmerciful, devoid of feeling."
+        }
     ]
 }

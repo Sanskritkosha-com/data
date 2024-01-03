@@ -64,5 +64,37 @@
             "pagenum": 5,
             "content": "गजता¦ <i>der Zustand eines Elephanten</i> <ls>KATHĀS. 74, 22.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गजता",
+            "eid": "11973",
+            "pagenum": 164,
+            "content": "<i>gajatā</i>¦ *Elefantentrupp, <ls>H</ls> 41, 47. {part=,seq=12155,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गजता",
+            "eid": "12964",
+            "pagenum": 227,
+            "content": "गजता¦ f. (-ता) A multitude of elephants. E. गज an elephant, तल् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गजता",
+            "eid": "12970",
+            "pagenum": 276,
+            "content": "गजता¦ f. (-ता) A multitude of elephants. .E. गज an elephant, तल् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गजता",
+            "eid": "12421",
+            "pagenum": 240,
+            "content": "गज-ता¦ (ता) 1. <i>f.</i> A multitude or herd of elephants."
+        }
     ]
 }

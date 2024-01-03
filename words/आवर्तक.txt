@@ -117,5 +117,21 @@
             "pagenum": 7,
             "content": "आवर्तक¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आवर्तक",
+            "eid": "7373",
+            "pagenum": 101,
+            "content": "<i>āvartaka</i>¦ 2. lies <i>°tikā</i> statt <i>ī</i>. {part=,seq=7475,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आवर्तक",
+            "eid": "5638",
+            "pagenum": 125,
+            "content": "<b>ā-vartaka-</b>¦ <ab>m.</ab> <ab>n.</ab> d'un nuage mythique."
+        }
     ]
 }

@@ -21,5 +21,21 @@
             "pagenum": 7,
             "content": "अतिप्रवेश¦ 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतिप्रवेश",
+            "eid": "1136",
+            "pagenum": 16,
+            "content": "<i>atipraveśa</i>¦ m. heftiges Dringen in jemand, das Sichaufdrängen, Sichmischen in fremde Angelegenheiten, <ls>Kathās.</ls> 60, 35. {part=,seq=1159,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतिप्रवेश",
+            "eid": "499",
+            "pagenum": 13,
+            "content": "<b>ati-praveśa-</b>¦ <ab>m.</ab> immixtion dans les affaires <lbinfo n='3'/> d'autrui."
+        }
     ]
 }

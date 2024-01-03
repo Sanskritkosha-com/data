@@ -47,5 +47,37 @@
             "pagenum": 1,
             "content": "अराग¦ <lex>Adj.</lex> <i>ohne Leidenschaft, — Zuneigungen</i> <ls>VEṆĪS. 4</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अराग",
+            "eid": "4749",
+            "pagenum": 64,
+            "content": "<i>arāga</i>¦ Adj. °ohne Röte, <ls>S</ls> I, 620, 4. {part=,seq=4811,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अराग",
+            "eid": "3713",
+            "pagenum": 78,
+            "content": "<b>a-rāga-</b>¦ <ab>a.</ab> exempt de passion.  <P><i>°dveṣatas-</i> <ab>adv.</ab> sans amour ni haine."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अराग",
+            "eid": "3154",
+            "pagenum": 66,
+            "content": "अराग¦ mfn. (-गः-गा-गं) Cool, unimpassioned. .E. अ neg. राग passion."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अराग",
+            "eid": "2619",
+            "pagenum": 52,
+            "content": "अ-राग¦ (गः-गा-गं) <i>a.</i> Cool, collected. Also अ-रागिन्."
+        }
     ]
 }

@@ -111,5 +111,55 @@
             "pagenum": 2,
             "content": "2. छ¦ (von छा) <lex>m.</lex> <i>das Abschneiden, Abschnitt</i> (छेदन) <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "छ",
+            "eid": "13494",
+            "pagenum": 186,
+            "content": "*<i>cha</i>¦ <i>[ccha]</i> abschneidend, <ls>H</ls> 43, 113. {part=,seq=13707,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "छ",
+            "eid": "15507",
+            "pagenum": 275,
+            "content": "छ¦ The aspirated letter corresponding to the preceding, and expressed by Chh."
+        },
+        {
+            "word": "छ",
+            "eid": "15508",
+            "pagenum": 275,
+            "content": "छ¦ mfn. (छः-छा-छं) 1. Pure, clean. 2. Trembling, tremulous, unsteady. m. (छः) Cutting, dividing. 2. A part, a fragment. f. (छा) 1. Covering, concealing. 2. An infant, a child, any young animal. E. छो to cut, or छद् to cover, &c. affix ड."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "छ",
+            "eid": "15513",
+            "pagenum": 333,
+            "content": "छ¦ The aspirated letter corresponding to the preceding, and expressed by <i>Ch.</i>"
+        },
+        {
+            "word": "छ",
+            "eid": "15514",
+            "pagenum": 333,
+            "content": "छ¦ mfn. (छः-छा-छं) .²1 Pure, clean. .²2 Trembling, tremulous, unsteady. m. (छः) .²1 Cutting, dividing. .²2 A part, a fragment. f. (-छा) .²1 Covering, concealing. .²2 An infant, a child, any young animal. .E. छो to cut, or छद to cover, &c. affix ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "छ",
+            "eid": "14978",
+            "pagenum": 292,
+            "content": "छ¦ <i>chh.</i> The aspirate of च <i>ch.</i>"
+        },
+        {
+            "word": "छ",
+            "eid": "14979",
+            "pagenum": 292,
+            "content": "छ¦ (छः-छा-छं) <i>a.</i> Pure; tremulous. 1. <i>m.</i> A cutting; a fragment. <i>f.</i> A concealing; an infant."
+        }
     ]
 }

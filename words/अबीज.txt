@@ -73,5 +73,21 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अबीज¦ I. 2. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अबीज",
+            "eid": "3923",
+            "pagenum": 54,
+            "content": "1. <i>abīja</i>¦ n. Nom. abstr. <i>°tva</i> n. <ls>MBh.</ls> 12, 320, 33. {part=,seq=3976,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अबीज",
+            "eid": "2765",
+            "pagenum": 59,
+            "content": "<b>a-bīja-</b>¦ <ab>a.</ab> sans semences ; impuissant ; <ab>nt.</ab> mauvaises graines ; <i>-ka-</i> <ab>a.</ab> non semé."
+        }
     ]
 }

@@ -125,5 +125,45 @@
             "pagenum": 7,
             "content": "भरु¦ IV. 5〉 <ls>Festgr. 15,24</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भरु",
+            "eid": "20474",
+            "pagenum": 282,
+            "content": "<i>bharu</i>¦ 5. Festgr. 15, 24. {part=,seq=20755,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भरु",
+            "eid": "29164",
+            "pagenum": 526,
+            "content": "भरु¦ m. (-रुः) 1. A name of VISHṆU. 2. A name of ŚIVA. 3. Gold. 4. A husband, a lord. 5. The sea. E. भृ to nourish, Unādi aff. उन् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भरु",
+            "eid": "16097",
+            "pagenum": 525,
+            "content": "<b>bharu-</b>¦ <ab>m.</ab> <ab>n.</ab> de Viṣṇu ; de Śiva ; <ab>du.</ab> Viṣṇu et Śiva ; <i>-ka-</i> <ab>n.</ab> d'un prince."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भरु",
+            "eid": "28284",
+            "pagenum": 614,
+            "content": "भरु¦ m. (-रुः) .²1 A name of VIṢṆU. .²2 A name of ŚIVA. .²3 Gold. .²4 A husband, a lord. .E. भृ to nourish, Uṇādi aff. उ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भरु",
+            "eid": "27795",
+            "pagenum": 550,
+            "content": "भरु¦ (रुः) 2. <i>m.</i> A name of <i>Vishnu;</i> <i>Shiva;</i> gold; a husband."
+        }
     ]
 }

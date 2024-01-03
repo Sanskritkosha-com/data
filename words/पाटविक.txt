@@ -61,5 +61,37 @@
             "pagenum": 7,
             "content": "पाटविक und पाटीर¦ IV. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पाटविक",
+            "eid": "18247",
+            "pagenum": 252,
+            "content": "<i>pāṭavika</i>¦ <ls>Śiś.</ls> 19, 56. {part=,seq=18511,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पाटविक",
+            "eid": "24230",
+            "pagenum": 439,
+            "content": "पाटविक¦ mfn. (-कः-की-कं) 1. Cunning, crafty, fraudulent. 2. Clever, dexterous. E. पटु clever, ठक् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाटविक",
+            "eid": "24176",
+            "pagenum": 522,
+            "content": "पाटविक¦ mfn. (-कः-की-कं) .²1 Cunning, crafty, fraudulent. .²2 Clever, dexterous. .E. पटु clever, ठक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाटविक",
+            "eid": "23650",
+            "pagenum": 467,
+            "content": "पाटविक¦ (कः-की-कं) <i>a.</i> Cunning, fraudulent; clever, dexterous."
+        }
     ]
 }

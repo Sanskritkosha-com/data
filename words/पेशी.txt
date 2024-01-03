@@ -169,5 +169,51 @@
             "pagenum": 5,
             "content": "पेशी¦ <div n='1'> 1) <ls>MBH. 1, 4526.</ls> <ls n='MBH. 1,'>4536.</ls> मांस° <ls>KATHĀS. 61, 77.</ls> <div n='1'>— 2) <ls>BHĀG. P. 11, 3, 39.</ls> <div n='1'>— 4) <ls>ŚĀRṄG. SAṂH. 1, 5, 18.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पेशी",
+            "eid": "18942",
+            "pagenum": 261,
+            "content": "<i>peśī</i>¦ *Vogelei, <ls>Śuk.</ls> t. o. 63 [p. 66, 1. 3. 6]. {part=,seq=19211,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पेशी",
+            "eid": "25887",
+            "pagenum": 468,
+            "content": "पेशी¦ f. (-शी) 1. The egg of a bird. 2. A blown bud. 3. Spikenard, (Valeriana jatamansi.) 4. A ball of flesh or meat. 5. A sheath, a scabbard. 6. A muscle. 7. The fetus shortly after conception. 8. A kind of musical instrument. 9. The name a river. 10. The name of a female imp or demon. E. पिश् to be a component part, aff. इन् and ङीप् added; also पेशि ।"
+        },
+        {
+            "word": "पेशी",
+            "eid": "25888",
+            "pagenum": 469,
+            "content": "पेशी(शि)कोष(श)¦ m. (-षः or शः) A bird's egg. “अण्डकोषेच” ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पेशी",
+            "eid": "13996",
+            "pagenum": 448,
+            "content": "<b>peśī-</b>¦ <ab>f.</ab> morceau de chair, morceau de viande ; fœtus peu de temps après la conception <lbinfo n='7'/> ; sorte de tambour ; (et <i>-ikā-</i> <ab>f.</ab>) œuf d'oiseau.  <P><i>peśy-aṇḍa-</i> <ab>nt.</ab> morceau de chair ; fœtus."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पेशी",
+            "eid": "25576",
+            "pagenum": 553,
+            "content": "पेशी¦ f. (-शी) .²1 The egg of a bird. .²2 A blown bud. .²3 Spikenard, (<bot>Valeriana jatamansi</bot>.) .²4 A ball of flesh or meat. .²5 A sheath, a scabbard. .²6 A muscle. .²7 The name of a river. .²8 The name of a female imp or demon. .E. पिश to be a component part, aff. इन् and ङीप् added; also पेशि."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पेशी",
+            "eid": "25057",
+            "pagenum": 496,
+            "content": "पेशी¦ (शी) 3. <i>f.</i> The egg of a bird; a blown bud; spikenard; ball of meat; sheath; a muscle; name of an imp; name of a river."
+        }
     ]
 }

@@ -143,5 +143,37 @@
             "pagenum": 7,
             "content": "शिलीमुख¦ <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) neben शिलीपृष्ठ als Beiw. eines Schwertes <ls>MBH. 4, 1335.</ls> शिली = भेकी <ls>NĪLAK.</ls> <div n='2'>— b) = जडीभूत <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Pfeil</i> <ls>AK. 3, 4, 2, 19.</ls> <ls>H. 778.</ls> <ls>an. 4, 46.</ls> <ls>MED. kh. 17.</ls> <ls>HALĀY. 2, 311.</ls> <ls>MBH. 6, 3910.</ls> <ls>HARIV. 6646.</ls> <ls>R. 3, 26, 19.</ls> <ls n='R. 3,'>31, 20.</ls> <ls n='R. 3,'>34, 23.</ls> <ls>RAGH. 7, 46.</ls> <ls n='RAGH.'>18, 16.</ls> <ls>KUMĀRAS. 4, 54.</ls> <ls>Spr. (II) 2559.</ls> <ls n='Spr. (II)'>4686.</ls> <ls>KATHĀS. 42, 6</ls> (am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> आ). <ls>BHĀG. P. 4, 3, 19. 11, 4. 26, 9. 10, 50, 23. 59, 16.</ls> <div n='2'>— b) <i>Biene</i> <ls>AK.</ls> <ls>H. 1212.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 100.</ls> <ls>RAGH. 4, 57.</ls> <ls>GĪT. 1, 30.</ls> <div n='2'>— a) <div n='2'> b) <i>Pfeil</i> und <i>Biene</i> zugleich <ls>ŚIŚ. 9, 41.</ls> <ls>Spr. 2579.</ls> <div n='2'>— c) <i>Schlacht</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='2'>— d) N. pr. eines Hasen <ls>KATHĀS. 62, 29. fgg.</ls> <ls>HIT. 82, 16.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शिलीमुख",
+            "eid": "25064",
+            "pagenum": 345,
+            "content": "<i>śilīmukha</i>¦ 2. m. b) Biene, auch <ls>Śrīk.</ls> 5, 29. {part=,seq=25405,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शिलीमुख",
+            "eid": "40245",
+            "pagenum": 720,
+            "content": "शिलीमुख¦ m. (-खः) 1. A bee. 2. An arrow. 3. A fool, a block-head. 4. War. E. शिली a dart, (a sting,) and मुख the face."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शिलीमुख",
+            "eid": "38395",
+            "pagenum": 845,
+            "content": "शिलीमुख¦ m. (-खः) .²1 A bee. .²2 An arrow. .²3 A fool, a blockhead. .²4 War. .E. शिली a dart, (a sting,) and मुख the face."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शिलीमुख",
+            "eid": "38040",
+            "pagenum": 764,
+            "content": "शिली-मुख¦ (खः) 1. <i>m.</i> A bee; arrow; fool; war."
+        }
     ]
 }

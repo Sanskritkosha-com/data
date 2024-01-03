@@ -47,5 +47,37 @@
             "pagenum": 7,
             "content": "अतिविष¦ <lex>Adj.</lex> <i>überaus giftig</i> <ls>JĀTAKAM. 32,31</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतिविष",
+            "eid": "1271",
+            "pagenum": 18,
+            "content": "<i>ativiṣa</i>¦ Adj. überaus giftig, <ls>Jātakam.</ls> 32, 31. {part=,seq=1296,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अतिविष",
+            "eid": "780",
+            "pagenum": 14,
+            "content": "अतिविष¦ mfn. (-षः-षा-षं) Antidote, exceeding or subduing poison. f. (-षा) A tree used in medicine, the bark is also employed in dyeing; it is of three kinds; white, red, and black. (Atis or Betula.) E. अति overcoming, and विष poison."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतिविष",
+            "eid": "635",
+            "pagenum": 15,
+            "content": "<b>ati-viṣa-</b>¦ <ab>a.</ab> qui contient un violent poison. <lbinfo n='3'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अतिविष",
+            "eid": "781",
+            "pagenum": 17,
+            "content": "अतिविष¦ mfn. (-षः-षा-षं) Antidote, exceeding or subduing poison. f. (-षा) A tree used in medicine, the bark is also employed in dyeing; it is of three kinds; white, red, and black. (<bot>Atis or Betula</bot>.) .E. अति overcoming, and विष poison."
+        }
     ]
 }

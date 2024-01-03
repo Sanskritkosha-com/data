@@ -42,5 +42,37 @@
             "pagenum": 5,
             "content": "गौधेर¦ <i>eine junge Eidechse</i> <ls>HALĀY. 2, 79.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गौधेर",
+            "eid": "12589",
+            "pagenum": 173,
+            "content": "*<i>gaudhera</i>¦ lizard, <ls>Vās.</ls> 265, 2. {part=,seq=12783,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गौधेर",
+            "eid": "14123",
+            "pagenum": 249,
+            "content": "गौधेर¦ m. (-रः) An iguana. E. गोधा, and ढक् affix; see गौधारः"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गौधेर",
+            "eid": "14132",
+            "pagenum": 303,
+            "content": "गौधेर¦ m. (-रः) An iguana. .E. गौधा, and द्रक् affix: see गौधार."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गौधेर",
+            "eid": "13587",
+            "pagenum": 264,
+            "content": "गौधेर¦ (रः) 1. <i>m. Idem.</i>"
+        }
     ]
 }

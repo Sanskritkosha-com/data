@@ -67,5 +67,29 @@
             "pagenum": 1,
             "content": "आविग्न¦ <lex>m.</lex> = अविग्न <ls>ŚABDAR.</ls> und <ls>SĀRAS.</ls> zu <ls>AK. 2, 4, 2, 48.</ls> <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "आविग्न",
+            "eid": "5901",
+            "pagenum": 101,
+            "content": "आविग्न¦ m. (-ग्नः) A small fruit tree, vulgarly Carinda, (Carissa carondas.) Also अविग्न."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आविग्न",
+            "eid": "5903",
+            "pagenum": 123,
+            "content": "आविग्न¦ m. (-ग्नः) A small fruit tree, vulgarly <i>Caronda,</i> (<bot>Carissa carondas</bot>.) also अविग्न."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आविग्न",
+            "eid": "5284",
+            "pagenum": 99,
+            "content": "आविग्न¦ (ग्नः) 1. <i>m.</i> Carissa carondas."
+        }
     ]
 }

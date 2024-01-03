@@ -71,5 +71,21 @@
             "pagenum": 7,
             "content": "अतिजन/¦ I. <ls>MAITR. S. 4,4,9 (60,9). 10 (62,10)</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतिजन",
+            "eid": "1031",
+            "pagenum": 15,
+            "content": "<i>atijaná</i>¦ <ls>Maitr. S.</ls> 4, 4, 9 (60, 9). 10 (62, 10). {part=,seq=1053,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतिजन",
+            "eid": "379",
+            "pagenum": 11,
+            "content": "<b>ati-jana-</b>¦ <ab>a.</ab> vide d'hommes."
+        }
     ]
 }

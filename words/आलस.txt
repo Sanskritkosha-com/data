@@ -67,5 +67,37 @@
             "pagenum": 1,
             "content": "2. आलस¦ <lex>adj.</lex> = अलस <ls>DVIRŪPAK.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "आलस",
+            "eid": "7336",
+            "pagenum": 100,
+            "content": "<i>ālasa</i>¦ (m. n.?) ° = <i>ālasyam</i>, <ls>H</ls> 5, 145. {part=,seq=7438,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आलस",
+            "eid": "5815",
+            "pagenum": 99,
+            "content": "आलस¦ mfn. (-सः-सी-सं) Idle, slothful, lazy. E. अलस idle, अण् affix: see अलस."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आलस",
+            "eid": "5817",
+            "pagenum": 121,
+            "content": "आलस¦ mfn. (-सः-सी-सं) Idle, slothful, lazy. .E. अलस idle, अण् affix: see अलस."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आलस",
+            "eid": "5200",
+            "pagenum": 98,
+            "content": "आलस¦ (सः-सी-सं) <i>a.</i> Idle."
+        }
     ]
 }

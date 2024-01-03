@@ -66,5 +66,37 @@
             "pagenum": 5,
             "content": "गूवाक¦ <ls>HALĀY. 2, 45.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गूवाक",
+            "eid": "12420",
+            "pagenum": 171,
+            "content": "*<i>gūvāka</i>¦ m. Betelnußbaum, <ls>S</ls> I, 466, 3. {part=,seq=12610,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गूवाक",
+            "eid": "13796",
+            "pagenum": 243,
+            "content": "गूवाक¦ m. (-कः) The betelnut tree: see गुवाक."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गूवाक",
+            "eid": "13805",
+            "pagenum": 295,
+            "content": "गूवाक¦ m. (-कः) The betelnut tree: see गुवाक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गूवाक",
+            "eid": "13260",
+            "pagenum": 257,
+            "content": "गूवाक¦ (कः) 1. <i>m.</i> The betel-nut tree."
+        }
     ]
 }

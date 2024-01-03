@@ -39,5 +39,37 @@
             "pagenum": 1,
             "content": "एकगुरु¦ (एक + गुरु) <lex>m.</lex> <i>Studiengenosse (denselben Lehrer habend</i>) <ls>AK. 2, 7, 11.</ls> <ls>H. 79.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकगुरु",
+            "eid": "28318",
+            "pagenum": 390,
+            "content": "*<i>ekaguru</i>¦ m. °der einzige Lehrer, <ls>Padyac.</ls> IX, 33<sup>a</sup>. {part=N,seq=28689,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "एकगुरु",
+            "eid": "8088",
+            "pagenum": 139,
+            "content": "एकगुरु¦ m. (-रुः) A spiritual brother, pupil of the same preceptor. E. एक and गुरु a religious preceptor; also with कन् added एकगुरुक."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकगुरु",
+            "eid": "8092",
+            "pagenum": 170,
+            "content": "एकगुरु¦ m. (-रुः) A spiritual brother, pupil of the same preceptor. .E. एक and गुरु a religious preceptor; also with कन् added एकगुरुक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकगुरु",
+            "eid": "7509",
+            "pagenum": 140,
+            "content": "एक-गुरु¦ (रुः) 2. <i>m.</i> A spiritual brother, pupil of the same master."
+        }
     ]
 }

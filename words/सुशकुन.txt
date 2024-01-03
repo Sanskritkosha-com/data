@@ -35,5 +35,21 @@
             "pagenum": 7,
             "content": "सुशकुन¦ <lex>n.</lex> <i>ein gutes Omen</i> <ls>WEBER, Nakṣ. 2, 280.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "सुशकुन",
+            "eid": "26852",
+            "pagenum": 368,
+            "content": "<i>suśakuna</i>¦ good omen, <ls>Harṣac.</ls> 234, 2. {part=,seq=27211,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सुशकुन",
+            "eid": "23615",
+            "pagenum": 854,
+            "content": "<b>su-śakuna-</b>¦ <ab>nt.</ab> bon augure."
+        }
     ]
 }

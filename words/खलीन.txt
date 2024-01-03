@@ -88,5 +88,51 @@
             "pagenum": 7,
             "content": "खलीन¦ II. <lex>m.</lex> <ls>MBH. 7,202,75</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "खलीन",
+            "eid": "11889",
+            "pagenum": 163,
+            "content": "<i>khalīna</i>¦ m., <ls>MBh.</ls> 7, 202, 75. {part=,seq=12070,type=,n=1}"
+        },
+        {
+            "word": "खलीन",
+            "eid": "11889.1",
+            "pagenum": 163,
+            "content": "<i>khalīna</i>¦ °Adj. = <i>antarikṣe lagna</i>, <ls>H</ls> 39, 40. {part=,seq=12071,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "खलीन",
+            "eid": "12772",
+            "pagenum": 224,
+            "content": "खलीन¦ mn. (-नः-नं) The bit of a bridle. E. ख the mouth, and लीन what is fixed; also the vowel being made short खलिन."
+        }
+    ],
+    "STC": [
+        {
+            "word": "खलीन",
+            "eid": "8592",
+            "pagenum": 221,
+            "content": "<b>khalīna-</b>¦ <ab>nt.</ab> mors."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खलीन",
+            "eid": "12778",
+            "pagenum": 272,
+            "content": "खलीन¦ mn. (-नः-नं) The bit of a bridle. .E. ख the mouth, and लीन what is fixed; also the vowel being made short खलिन."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खलीन",
+            "eid": "12231",
+            "pagenum": 236,
+            "content": "खलीन¦ (नः-नं) 1. <i>m. n.</i> Bit of a bridle."
+        }
     ]
 }

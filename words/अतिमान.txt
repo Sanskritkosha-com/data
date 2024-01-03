@@ -93,5 +93,21 @@
             "pagenum": 5,
             "content": "अतिमान¦ <ls>Spr. 3407.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतिमान",
+            "eid": "1181",
+            "pagenum": 17,
+            "content": "<i>atimāna</i>¦ °Adj. = <i>atiśayena mānayukta</i>, <ls>Yudh.</ls> 4, 36. {part=,seq=1205,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतिमान",
+            "eid": "550",
+            "pagenum": 14,
+            "content": "<b>ati-māna-</b>¦ <ab>m.</ab> orgueil, haute opinion de soi ; <i>-in-</i> <ab>a.</ab> orgueilleux ; <i>-itā-</i> <ab>f.</ab> fait de penser trop haut de soi."
+        }
     ]
 }

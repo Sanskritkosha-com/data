@@ -90,5 +90,37 @@
             "pagenum": 5,
             "content": "अवार¦ <ls>TS. 7, 3, 16, 1. 5, 3, 2.</ls> <ls>KĀṬH. 34, 16.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवार",
+            "eid": "5491",
+            "pagenum": 75,
+            "content": "<i>avāra</i>¦ Adj. = °nirnirodha, <ls>H</ls> 43, 60, 88. {part=,seq=5567,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवार",
+            "eid": "3952",
+            "pagenum": 68,
+            "content": "अवार¦ n. (-रं) The near bank of a river. E. अव down, ऋ to go, घञ् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवार",
+            "eid": "3954",
+            "pagenum": 83,
+            "content": "अवार¦ n. (-रं) The near bank of a river. .E. अव down, ऋ to go, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवार",
+            "eid": "3374",
+            "pagenum": 64,
+            "content": "अ-वार¦ (रं) 1. <i>n.</i> Near bank of a river."
+        }
     ]
 }

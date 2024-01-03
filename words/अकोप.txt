@@ -43,5 +43,27 @@
             "pagenum": 7,
             "content": "अकोप¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकोप",
+            "eid": "175",
+            "pagenum": 3,
+            "content": "<i>akopa</i>¦ Adj. frei von Zorn, <ls>Śobh.</ls> 61. {part=,seq=181,type=,n=1}"
+        },
+        {
+            "word": "अकोप",
+            "eid": "175.1",
+            "pagenum": 3,
+            "content": "<i>akopa</i>¦ m. ° = <i>īṣatkopa</i>, <ls>Yudh.</ls> 7, 16 (nañ īṣadarthe). {part=,seq=182,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकोप",
+            "eid": "86",
+            "pagenum": 3,
+            "content": "<b>akopa-</b>¦ <ab>m.</ab> ministre de Daśaratha."
+        }
     ]
 }

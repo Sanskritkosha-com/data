@@ -173,5 +173,41 @@
             "pagenum": 7,
             "content": "ईर्¦ mit अभ्युद् <ab>Caus.</ab> 3〉 <i>entgegen sprengen</i> <ls>ŚIŚ. 1,18</ls>. — Mit वि I. 4. — Mit सम् <ab>Caus.</ab> I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ईर्",
+            "eid": "7795",
+            "pagenum": 107,
+            "content": "<i>īr</i>¦ mit <i>abhyud</i> <ls>Kaus.</ls> 3. entgegensprengen, <ls>Śiś.</ls> 1, 18. — Mit <i>prati</i> <ls>Kaus.</ls> lies aufsetzen. — Mit <i>vi</i>, <i>yádi … vī́ryeta</i> wenn... zerfallen sollte, <ls>Maitr. S.</ls> 2, 1, 8 (9, 13. 14). Richtig wohl <i>śī́ryeta</i>. — Mit <i>sam</i> <ls>Kaus.</ls> 5. ertönen lassen, sprechen. <i>samīritaṃ vacaḥ</i> 98, 19. {part=,seq=7905,type=,n=1}"
+        },
+        {
+            "word": "ईर्",
+            "eid": "7795.1",
+            "pagenum": 107,
+            "content": "<i>[īr]</i>¦ <i>īrayati ° = nyakkaroti</i>, <ls>H</ls> 43, 45 in <i>°śaśīra</i> = Rāhu. {part=,seq=7906,type=,n=9}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "ईर्",
+            "eid": "5970",
+            "pagenum": 133,
+            "content": "<b>ĪR-</b>¦ <i>īrayati</i> (<ab>pass.</ab> <i>īryate</i>) ; <i>īrita- °īrṇa-</i> -- mouvoir ; faire retentir, prononcer, proclamer <lbinfo n='3'/> ; attirer ; <ab>pass.</ab> être appelé ; <ab>a. v.</ab> lancé, annoncé, etc. ; <ab>cf.</ab> <i>Ṛ-.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ईर्",
+            "eid": "5858",
+            "pagenum": 110,
+            "content": "ईर्¦ (ल ङ) ईर्ते 2. <i>d.</i> To go; to shake."
+        },
+        {
+            "word": "ईर्",
+            "eid": "5859",
+            "pagenum": 110,
+            "content": "ईर्¦ (कि) ईरति, ईरयति To go, to throw, to order, to drive on. With उत् to speak; with प्र to send; with सं to go as the wind."
+        }
     ]
 }

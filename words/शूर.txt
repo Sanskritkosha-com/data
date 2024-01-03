@@ -446,5 +446,65 @@
             "pagenum": 7,
             "content": "2. शूर¦ <lex>m.</lex> fehlerhafte Schreibart für सूर <i>Sonne</i> <ls>TRIK. 1,1,99.</ls> <ls>H. 96,</ls> Schol. <ls n='H.'>an. 2,464.</ls> <ls>VIŚVA</ls> in <ls>Verz. d. Oxf. H. 188,b,22.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शूर",
+            "eid": "25213",
+            "pagenum": 347,
+            "content": "*<i>śūra</i>¦ m. Sonne, <ls>Śrīk.</ls> XXIV, 21. 37. {part=,seq=25556,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शूर",
+            "eid": "40667",
+            "pagenum": 727,
+            "content": "शूर¦ r. 10th cl. (शूरयति-ते) 1. To be valiant or powerful, to act the hero. 2. To make great effort or exertion. (ई) शूरी r. 4th cl. (शूर्य्यते) 1. To hurt or kill. 2. To be stupid."
+        },
+        {
+            "word": "शूर",
+            "eid": "40668",
+            "pagenum": 727,
+            "content": "शूर¦ m. (-रः) 1. A hero. 2. The sun. 3. A lion. 4. A boar. 5. The grandfather of KRISHṆA. 6. The Śal tree, (Shorea robusta.) f. (-रा) Brave, mighty. E. शु to bear, Sautra root, Unādi aff. क्रन्, and the vowel made long; or शूर् to be brave, aff. अच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शूर",
+            "eid": "20424",
+            "pagenum": 736,
+            "content": "<b>śūra-</b>¦ <ab>a.</ab> courageux, brave, hardi, guerrier ; <ab>m.</ab> héros, qui agit héroïquement en face de <ab>qq'un</ab> (<ab>loc.</ab>), ou de <ab>qqch.</ab> (<ab>loc.</ab> <ab>instr.</ab> <ab>ifc.</ab>) ; héroïsme (?) ; <ab>n.</ab> d'un Yādava, père de Vasudeva <lbinfo n='4'/> et grand'père de Kṛṣṇa ; d'un fils de Vasudeva ; d'un fils de Vidūratha ; <ab>pl.</ab> <ab>n.</ab> d'un peuple ; <i>-tama-</i> <ab>sup.</ab> très héroïque, très brave ; <i>-ī-kṛ-</i> changer en un héros ; <i>-tā-</i> <ab>f.</ab> <i>-tva-</i> <ab>nt.</ab> héroïsme, courage.  <P><i>°kīṭa-</i> <ab>m.</ab> héros pour les insectes, héros pour rire.  <P><i>°danta-</i> <ab>m.</ab> <ab>n.</ab> d'un Brâhmane.  <P><i>°deva-</i> <ab>m.</ab> fils de Vīradeva.  <P><i>°pura-</i> <ab>nt.</ab> <ab>n.</ab> d'une ville.  <P><i>°bhū- °bhūmi-</i> <ab>f.</ab> fille d'Ugrasena.  <P><i>°mānin-</i> <ab>a.</ab> qui se croit un héros.  <P><i>°mūrdhamaya-</i> <i>-ī-</i> <ab>a.</ab> qui consiste en des têtes de héros.  <P><i>°varman-</i> <ab>m.</ab> <ab>n.</ab> de divers personnages.  <P><i>°vākya-</i> <ab>nt.</ab> <ab>pl.</ab> discours d'un héros, hâblerie.  <P><i>°vidya-</i> <ab>a.</ab> qui comprend l'héroïsme, héroïque. <lbinfo n='6'/>  <P><i>°sena-</i> <ab>m.</ab> <ab>n.</ab> d'un pays autour de Mathurā ; prince des Śūrasena ; <ab>n.</ab> de divers personnages <lbinfo n='5'/> ; <ab>pl.</ab> <ab>n.</ab> du peuple habitant ce pays (aussi <i>-ka- °ja-</i>) ; <i>-ā-</i> <ab>f.</ab> Mathurā ; <i>-ī-</i> <ab>f.</ab> princesse <lbinfo n='5'/> des Śūrasena."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "शूर",
+            "eid": "3325",
+            "pagenum": 2,
+            "content": "<b>Śūra</b>¦ is the regular word in the Rigveda,<sup>1</sup> and occasionally later,<sup>2</sup> to denote a ‘hero’ or ‘brave warrior.’ <F>1) i. 70, 11; 101, 6; 141, 8; 158, 3; ii. 17, 2; 30, 10, etc.</F> <F>2) Av. viii. 8, 1; Vājasaneyi Saṃhitā, xvi. 34; xx. 37, etc. (of gods, Indra and Agni); <i>śūra-vīra,</i> Av. viii. 5, 1.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शूर",
+            "eid": "38804",
+            "pagenum": 854,
+            "content": "शूर¦ r. 10th cl. (शूरयते) .²1 To be valiant or powerful. .²2 To make great effort or exertion. (ई) शूरी r. 4th cl. (शूर्य्यते) .²1 To hurt or kill. .²2 To be stupid."
+        },
+        {
+            "word": "शूर",
+            "eid": "38805",
+            "pagenum": 854,
+            "content": "शूर¦ m. (-रः) .²1 A hero. .²2 The sun. .²3 A lion. .²4 A boar. .²5 The grandfather of KṚṢṆA. .²6 The <i>Śāl</i> tree, (<bot>Shorea robusta</bot>.) .E. शु to bear, <i>Sautra</i> root, Uṇādi aff. क्रन्, and the vowel made long, or शूर to be brave, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शूर",
+            "eid": "38457",
+            "pagenum": 773,
+            "content": "शूर¦ (रः) 1. <i>m.</i> A hero; <i>Krishna's</i> grandfather; a lion; a boar; sun; <i>Sāl</i> tree."
+        }
     ]
 }

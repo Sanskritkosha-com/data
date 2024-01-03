@@ -153,5 +153,45 @@
             "pagenum": 7,
             "content": "मौल¦ V. <lex>m.</lex> <ab>Pl.</ab> <i>Eingeborene, die später ausgewandert sind,</i> <ls>BṚHASPATI</ls> in <ls>VIVĀDAR. 213</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मौल",
+            "eid": "22052",
+            "pagenum": 304,
+            "content": "<i>maula</i>¦ m. Pl. Eingeborene, die später ausgewandert sind, Bṛhaspati in <ls>Vivādar.</ls> 213. {part=,seq=22354,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मौल",
+            "eid": "32278",
+            "pagenum": 580,
+            "content": "मौल¦ mfn. (-लः-ला-ली-लं) 1. Radical, proceeding from a root or origin. 2. Of pure blood, descended from a respectable and primitive family without any improper intermixture. E. मूल a root, and अण् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मौल",
+            "eid": "17025",
+            "pagenum": 578,
+            "content": "<b>maula-</b>¦ <ab>a.</ab> provenant de racines ; traditionnel, <lbinfo n='3'/> héréditaire (dit <ab>not.</ab> d'un ministre ou d'un guerrier au service d'un roi) ; aborigène ; <ab>m.</ab> ministre héréditaire."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मौल",
+            "eid": "31086",
+            "pagenum": 676,
+            "content": "मौल¦ mfn. (-लः-ला-लं) .²1 Radical, proceeding from a root or origin. .²2 Of pure blood, descended from a respectable and primitive family without any improper intermixture. .E. मूल a root, and अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मौल",
+            "eid": "30639",
+            "pagenum": 606,
+            "content": "मौल¦ (लः-ली-लं) <i>a.</i> Radical; of pure blood, or high descent."
+        }
     ]
 }

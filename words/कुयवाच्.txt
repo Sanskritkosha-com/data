@@ -63,5 +63,21 @@
             "pagenum": 5,
             "content": "कु/यवाच् (°वाच)¦ ist nach <ls>AUFRECHT</ls> <i>ein Dämon, der Missernte</i> (कुयव) <i>hervorruft</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुयवाच्",
+            "eid": "10887",
+            "pagenum": 150,
+            "content": "<i>kúyavāc</i>¦ <i>(°vāca)</i> ist nach Aufrecht ein Dämon, der Mißernte <i>(kuyava)</i> hervorruft. {part=,seq=11049,type=,n=3}"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कुयवाच्",
+            "eid": "642",
+            "pagenum": 1,
+            "content": "<b>Kuya-vāc</b>¦ (‘evil-speaking’) appears in one passage of the Rigveda<sup>1</sup> to denote a demon slain by Indra, probably as a personification of the barbarian opponents of the Āryans. The expression <i>mṛdhra-vāc</i> (‘speaking insultingly’) is similarly used of barbarians in the Rigveda.<sup>2</sup> <F>1) i. 174, 7.</F> <F>2) v. 29, 10; 32, 8. See Dasyu.</F>"
+        }
     ]
 }

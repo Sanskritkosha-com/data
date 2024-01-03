@@ -39,5 +39,19 @@
             "pagenum": 7,
             "content": "कार्दमिक¦ II. <i>schmutzig</i> <ls>DAMAYANTĪK. 33</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कार्दमिक",
+            "eid": "10453",
+            "pagenum": 144,
+            "content": "<i>kārdamika</i>¦ schmutzig, <ls>Damayantīk.</ls> 33. — °schlammfarbig (<i>kardamena rakta</i>), <ls>S</ls> II, 220, 1. {part=,seq=10606,type=,n=3}"
+        },
+        {
+            "word": "कार्दमिक",
+            "eid": "28475",
+            "pagenum": 392,
+            "content": "<i>Kārdamika</i>¦ Adj. °vom Flusse °Kardamā stammend, <ls>Kauṭ.</ls> 75, 2 v.u. {part=N,seq=28846,type=,n=2}"
+        }
     ]
 }

@@ -243,5 +243,43 @@
             "pagenum": 7,
             "content": "जड¦ <lex>adj.</lex> <i>dumm</i> und zugleich <lex>n.</lex> <i>Wasser</i> <ls>Spr. (II) 3160.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "जड",
+            "eid": "13631",
+            "pagenum": 188,
+            "content": "<i>jaḍa</i>¦ Adj. ° = <i>guru</i>, Maṇirāma zu <ls>Ṛtusaṃh.</ls> I, 7 <i>(gurūṇi jaḍāni vastrāṇi)</i>. {part=,seq=13848,type=,n=1}"
+        },
+        {
+            "word": "जड",
+            "eid": "13631.1",
+            "pagenum": 188,
+            "content": "<i>jaḍa</i>¦ n. im <ls>Kaśm. Śiv.</ls> °Bez. des rein Materiellen, <ls>Praty. Hṛd.</ls> 15, 5. [B.] {part=,seq=13849,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "जड",
+            "eid": "9460",
+            "pagenum": 257,
+            "content": "<b>jaḍa-</b>¦ <ab>a.</ab> froid, glacé ; engourdi, inerte, insensible, abasourdi, stupide ; <ab>ifc.</ab> stupéfiant ; <i>-tā-</i> <ab>f.</ab> <i>-tva-</i> <ab>nt.</ab> stupeur, torpeur ; <i>-ī-kṛ-</i> stupéfier, <lbinfo n='4'/> plonger dans la torpeur ; confondre <ab>qq'un</ab>.  <P><i>°dhī-</i> <i>°prakṛti- °buddhi- °mati-</i> <ab>a.</ab> stupide, idiot.  <P><i>°bharata-</i> <ab>m.</ab> <ab>n.</ab> d'un homme.  <P><i>jaḍātmaka-</i> <i>jaḍātman-</i> <ab>a.</ab> inanimé, indifférent, <lbinfo n='4'/> stupide.  <P><i>jaḍāśaya-</i> <ab>a.</ab> = <i>°dhī-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जड",
+            "eid": "15779",
+            "pagenum": 338,
+            "content": "जड¦ mfn. (-डः-डा-डं) .²1 Cold, frigid, chilly. .²2 Stupid, apathetic, idiotic. .²3 Dumb. n. (-डं) .²1 Water: see जल. .²2 Lead. f. (-डा) Cowach. m. (-डः) .²1 Cold, frost, winter. .²2 Idiocy, fatuity, stupidity. .²3 Dulness, apathy, sluggishness of mind or body. .E. जल to heap or accumulate, affix अच्, and ल changed to ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जड",
+            "eid": "15242",
+            "pagenum": 297,
+            "content": "जड¦ (डः-डा-डं) <i>a.</i> Cold, frigid; stupid; dumb. <i>m.</i> Frost; idiocy. <i>f.</i> Cowach. <i>n.</i> Water; lead."
+        }
     ]
 }

@@ -61,5 +61,21 @@
             "pagenum": 7,
             "content": "उपव्याख्यान¦ I. genauer <i>eine ergänzende Erklärung</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपव्याख्यान",
+            "eid": "8671",
+            "pagenum": 119,
+            "content": "<i>upavyākhyāna</i>¦ genauer: eine ergänzende Erklärung. {part=,seq=8788,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपव्याख्यान",
+            "eid": "6948",
+            "pagenum": 155,
+            "content": "<b>upa-vyākhyāna-</b>¦ <ab>nt.</ab> éclaircissement."
+        }
     ]
 }

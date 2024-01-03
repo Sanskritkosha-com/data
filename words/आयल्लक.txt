@@ -86,5 +86,43 @@
             "pagenum": 5,
             "content": "आयल्लक¦ <ls>HALĀY. 4, 57.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "आयल्लक",
+            "eid": "7185",
+            "pagenum": 98,
+            "content": "<i>āyallaka</i>¦ Zitat bei Mahendra zu <ls>Hem. An.</ls> 2, 492 aus dem Mahānāṭaka. [Z.] {part=,seq=7283,type=,n=2}"
+        },
+        {
+            "word": "आयल्लक",
+            "eid": "28150",
+            "pagenum": 387,
+            "content": "*<i>āyallaka</i>¦ n. Sehnsucht, Neugierde, <ls>Prabandh.</ls> 82, 1/2; 182, 3. {part=N,seq=28521,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आयल्लक",
+            "eid": "5667",
+            "pagenum": 96,
+            "content": "आयल्लक¦ n. (-कं) Missing, regretting."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आयल्लक",
+            "eid": "5669",
+            "pagenum": 117,
+            "content": "आयल्लक¦ n. (-कं) Missing, regretting."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आयल्लक",
+            "eid": "5051",
+            "pagenum": 95,
+            "content": "आयल्लक¦ (कं) 1. <i>n.</i> Missing."
+        }
     ]
 }

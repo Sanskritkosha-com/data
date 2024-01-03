@@ -253,5 +253,45 @@
             "pagenum": 5,
             "content": "कौरव¦ <div n='1'> 1) <ls>VARĀH. BṚH. S. 4, 24. fg.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "कौरव",
+            "eid": "11861",
+            "pagenum": 209,
+            "content": "कौरव¦ m. (-वः) A Kaurava, a descendant of KURU. E. कुरु, and अण् affix; also with वुञ् affix कौरवक."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कौरव",
+            "eid": "8356",
+            "pagenum": 211,
+            "content": "<b>kaurava-</b>¦ <i>-ī-</i> <ab>a.</ab> qui se rapporte, qui appartient <lbinfo n='5'/> aux Kuru ; <ab>m.</ab> descendant de Kuru."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कौरव",
+            "eid": "749",
+            "pagenum": 1,
+            "content": "<b>Kaurava</b>¦ is the reading of the text of the Khilas<sup>1</sup> and of some manuscripts of the Śāṅkhāyana Śrauta Sūtra<sup>2</sup> for the Kaurama of the Atharvaveda,<sup>3</sup> who appears in a Dānastuti (‘Praise of Gifts’) as a generous donor among the <b>Ruśamas.</b> <F>1) v. 8, 1 (Scheftelowitz, <i>Die Apo-</i> <i>kryphen des Ṛgveda,</i> 155).</F> <F>2) xii. 14, 1.</F> <F>3) xx. 127, 1. <div n='P'/><i>Cf.</i> Bloomfield, <i>Hymns of the Athar-</i> <i>vaveda,</i> 689.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कौरव",
+            "eid": "11867",
+            "pagenum": 254,
+            "content": "कौरव¦ m. (-वः) A <i>Kaurava,</i> a descendant of KURU. .E. कुरु, and अण् affix; also with वुञ् affix कौरवक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कौरव",
+            "eid": "11319",
+            "pagenum": 218,
+            "content": "कौरव¦ (वः) 1. <i>m. Kaurava,</i> of a <i>Kuru.</i>"
+        }
     ]
 }

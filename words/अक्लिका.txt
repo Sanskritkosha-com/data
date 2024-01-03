@@ -61,5 +61,29 @@
             "pagenum": 5,
             "content": "अक्लिका¦ vgl. क्लीतकिका ."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अक्लिका",
+            "eid": "123",
+            "pagenum": 3,
+            "content": "अक्लिका¦ f. (-का) The indigo plant. (Indigofera tinctoria.)"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक्लिका",
+            "eid": "124",
+            "pagenum": 3,
+            "content": "अक्लिका¦ f. (-का) The indigo plant. (<bot>Indigofera tinctoria</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक्लिका",
+            "eid": "89",
+            "pagenum": 3,
+            "content": "अक्लिका¦ (का) 1. <i>f.</i> The indigo plant."
+        }
     ]
 }

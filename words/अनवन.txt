@@ -61,5 +61,21 @@
             "pagenum": 1,
             "content": "अनवन¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>nicht erquickend</i> <ls>ŚIŚ. 6,37</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनवन",
+            "eid": "2232",
+            "pagenum": 30,
+            "content": "<i>anavana</i>¦ Adj. (f. <i>ī</i>) nicht erquickend, <ls>Śiś.</ls> 6, 37. {part=,seq=2266,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनवन",
+            "eid": "1284",
+            "pagenum": 28,
+            "content": "<b>an-avana-</b>¦ <i>-ī-</i> <ab>a.</ab> qui n'aide pas ; qui cause du malheur."
+        }
     ]
 }

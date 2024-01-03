@@ -128,5 +128,45 @@
             "pagenum": 5,
             "content": "पश्चिम¦ <div n='1'> 1) <div n='2'> b) आम्नाय bei den <is>Śākta</is> <ls>Verz. d. Oxf. H. 91,a,3.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पश्चिम",
+            "eid": "18182",
+            "pagenum": 251,
+            "content": "<i>paścima</i>¦ Adj. °indirekt, von einem Dritten herrührend, in <i>paścimaṃ karaṇam</i> <ls>Kauṭ.</ls> 148, 17. {part=,seq=18446,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पश्चिम",
+            "eid": "24135",
+            "pagenum": 437,
+            "content": "पश्चिम¦ mfn. (-मः-मा-मं) 1. West, western. 2. Behind, after. mf. (-मः-मा) The region of VARUṆA, the west. E. पश्चात् behind, and डिमच् aff.; Hindus in their prayers, usually facing the east; and consequently having the west behind them."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पश्चिम",
+            "eid": "13569",
+            "pagenum": 425,
+            "content": "<b>paścima-</b>¦ <ab>a.</ab> (flex. <ab>pronom.</ab> rare) situé derrière <lbinfo n='5'/> ; dernier, final, occidental (<i>kriyā-</i> <ab>f.</ab> rite funéraire, crémation ; <i>saṃdhyā-</i> <ab>f.</ab> crépuscule ; <i>diś-</i> <ab>f.</ab> Occident) ; <i>-tas</i> par derrière.  <P><i>°darśana-</i> <ab>nt.</ab> dernier regard ; <i>-aṃ dṛś-</i> voir pour la dernière fois.  <P><i>°rātra-</i> <ab>m.</ab> dernière partie de la nuit.  <P><i>paścimāmbu-dhi-</i> <ab>m.</ab> océan occidental.  <P><i>paścimāsanika-</i> <ab>a.</ab> qui occupe le siège postérieur <lbinfo n='7'/> (sur un éléphant).  <P><i>paścimetara-</i> <ab>a.</ab> oriental.  <P><i>paścimottara-pūrva-</i> <ab>a.</ab> occidental, septentrional <lbinfo n='7'/> et oriental."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पश्चिम",
+            "eid": "24084",
+            "pagenum": 520,
+            "content": "पश्चिम¦ mfn. (-मः-मा-मं) .²1 West, western. .²2 Behind, after. mf. (-मः-मा) The region of VARUṆA, the west. .E. पश्चात् behind, and डिमच् aff.; <i>Hindus</i> in their prayers, usually facing the east, and consequently having the west behind them."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पश्चिम",
+            "eid": "23558",
+            "pagenum": 465,
+            "content": "पश्चिम¦ (मः-मा-मं) <i>a.</i> West; behind."
+        }
     ]
 }

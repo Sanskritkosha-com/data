@@ -88,5 +88,37 @@
             "pagenum": 2,
             "content": "कच्चर¦ <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>schmutzig</i> <ls>AK. 3, 2, 4.</ls> <ls>H. 1435.</ls> <div n='2'>— b) <i>schlecht</i> (कुत्सित) <ls>TRIK. 3, 3, 340.</ls> <ls>MED. r. 130.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Buttermilch mit Wasser</i> (तक्र) <ls>TRIK.</ls> <ls>MED.</ls> — Zerlegt sich in कद् + चर . Vgl. कङ्कर, कटुर, कट्वर, कदर, कद्वर ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कच्चर",
+            "eid": "9486",
+            "pagenum": 130,
+            "content": "*<i>kaccara</i>¦ schlecht, schmutzig, <ls>S</ls> II, 55, 1. {part=,seq=9614,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कच्चर",
+            "eid": "8538",
+            "pagenum": 147,
+            "content": "कच्चर¦ mfn. (-रः-रा-रं) 1. Dirty, foul. 2. Soiled, spoiled by dirt. 3. Vile, wicked, bad. n. (-रं) Buttermilk diluted with water. E. कुत् bad, vile, चर what goes or is, from चर with अच् affix; कत् is substituted for कुत्, and the त changed."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कच्चर",
+            "eid": "8543",
+            "pagenum": 179,
+            "content": "कच्चर¦ mfn. (-रः-रा-रं) .²1 Dirty, foul. .²2 Soiled, spoiled by dirt. .²3 Vile, wicked, bad. n. (-रं) Buttermilk diluted with water. .E. कुत् bad, vile, चर what goes or is, from चर with अच् affix; कत् is substituted for कत्, and the त changed."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कच्चर",
+            "eid": "7969",
+            "pagenum": 149,
+            "content": "कच्चर¦ (रः-रा-रं) <i>a.</i> Dirty, foul, soiled; vile, wicked. (रं) 1. <i>n.</i> Buttermilk diluted with water."
+        }
     ]
 }

@@ -140,5 +140,29 @@
             "pagenum": 7,
             "content": "आ/म्¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आम्",
+            "eid": "7127",
+            "pagenum": 97,
+            "content": "<i>ā́m</i>¦ <ls>Maitr. S.</ls> 1, 4, 1 (<ls>Kāṭh.</ls> 5, 3; 32, 3). {part=,seq=7225,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आम्",
+            "eid": "5395",
+            "pagenum": 119,
+            "content": "<b>ām</b>¦ <ab>interj.</ab> marquant souvenir ou approbation. <lbinfo n='4'/>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आम्",
+            "eid": "4285",
+            "pagenum": 80,
+            "content": "आं¦ --Yes."
+        }
     ]
 }

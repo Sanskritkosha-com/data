@@ -129,5 +129,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अ/क्रोध und <hom>2.</hom> अक्रोध¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्रोध",
+            "eid": "203",
+            "pagenum": 4,
+            "content": "1. <i>ákrodha</i>¦ <ls>Śat. Br.</ls> 3, 2, 2, 24. {part=,seq=210,type=,n=1}"
+        },
+        {
+            "word": "अक्रोध",
+            "eid": "204",
+            "pagenum": 4,
+            "content": "2. <i>akrodha</i>¦ , f. <i>ā</i>, Hemādri 2, a, 92, 9. {part=,seq=211,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अक्रोध",
+            "eid": "114",
+            "pagenum": 3,
+            "content": "अक्रोध¦ m. (-धः) Dispassionateness, restraint of anger, one of the ten duties of an ascetic. mfn. (-धः-धा-धं) Dispassionate. E. अ neg. and क्रोध anger."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अक्रोध",
+            "eid": "96",
+            "pagenum": 3,
+            "content": "<b>a-krodha-</b>¦ <ab>m.</ab> absence de colère ; <ab>a.</ab> non colérique ; <i>-na-</i> <ab>a.</ab> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक्रोध",
+            "eid": "115",
+            "pagenum": 3,
+            "content": "अक्रोध¦ m. (-धः) Dispassionateness, restraint of anger, one of the ten duties of an ascetic. mfn. (-धः-धा-धं) Dispassionate. .E. अ meg. and क्रोध anger."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक्रोध",
+            "eid": "88",
+            "pagenum": 3,
+            "content": "अ-क्रोध¦ (धः) 1. <i>m.</i> Dispassionateness."
+        }
     ]
 }

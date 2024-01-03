@@ -185,5 +185,29 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> अजन¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अजन",
+            "eid": "790",
+            "pagenum": 11,
+            "content": "3. <i>ajana</i>¦ m. Pl. keine Menschen, <ls>Vajracch.</ls> 24, 15. {part=,seq=810,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अजन",
+            "eid": "247",
+            "pagenum": 8,
+            "content": "<b>a-jana-</b>¦ <ab>a.</ab> vide d'hommes, désert."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अजन",
+            "eid": "44458",
+            "pagenum": 910,
+            "content": "अ-जन¦ (नः) 1. <i>m.</i> An inferior or insignificant person."
+        }
     ]
 }

@@ -156,5 +156,49 @@
             "pagenum": 7,
             "content": "शार/¦ <ls>P. 3, 3, 21</ls>, <is>Vārtt</is>. 2 (vgl. <ls>P. 6, 1, 159</ls>). m. f. (ई) <ls>TRIK. 3, 5, 19.</ls> <div n='1'> 1) <lex>adj.</lex> <i>bunt, scheckig</i> <ls>P. 3, 3, 21.</ls> <is>Vārtt</is>. 2. <ls>AK. 3, 4, 25, 168.</ls> <ls>H. an. 2, 461.</ls> <ls>MED. r. 90.</ls> <ls>HALĀY. 4, 56.</ls> पलित° <ls>DAŚAK. 60, 5.</ls> Vgl. कृष्ण° und सार . <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>ein beim Würfelspiel gebrauchter Stein, - Figur</i> <ls>H. 487.</ls> <ls n='H.'>H. an.</ls> <ls>MED.</ls> कालः काल्या भुवनफलके क्रीडति प्राणिशारैः <ls>Spr. 2294.</ls> प्रमाददत्त° <ls>DAŚAK. 70, 4.</ls> <div n='2'>— b) <i>Wind</i> <ls>P. 3, 3, 21</ls>, <is>Vārtt</is>. 2. <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <div n='2'>— c) nom. act. von शर्, = हिंसन <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> <div n='1'>— 3) <lex>f.</lex> ई <div n='2'> a) = <div n='1'> 2) <div n='2'> a) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> (सारी). <div n='2'>— b) <is>Kuśa</is>-<i>Gras</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "शार",
+            "eid": "39936",
+            "pagenum": 714,
+            "content": "शार¦ r. 10th cl. (शारयति-ते) 1. To be weak. 2. To weaken."
+        },
+        {
+            "word": "शार",
+            "eid": "39937",
+            "pagenum": 714,
+            "content": "शार¦ mfn. (-रः-री-रं) 1. Variegated, (in colour.) 2. Yellow. m. (-रः) 1. Air, wind. 2. A piece or man at chess, backgammon, &c. 3. Hurting, injuring. 4. A mixture of blue and yellow, a green. 5. Spotting, variegating. f. (-री) Kuśa grass. E. शॄ to injure, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "शार",
+            "eid": "20226",
+            "pagenum": 725,
+            "content": "<b>śāra-</b>¦ <i>-ka-</i> <ab>a.</ab> bigarré, tacheté ; <ab>m.</ab> <ab>n.</ab> d'une pièce au jeu de <ab>dés.</ab>  <P><i>śārī-kṛta-</i> <ab>a. v.</ab> bigarré, tacheté."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शार",
+            "eid": "38104",
+            "pagenum": 838,
+            "content": "शार¦ r. 10th cl. (शारयति) .²1 To be weak. .²2 To weaken."
+        },
+        {
+            "word": "शार",
+            "eid": "38105",
+            "pagenum": 838,
+            "content": "शार¦ mfn. (-रः-री-रं) .²1 Variegated, (in colour,) .²2 Yellow. m. (-रः) .²1 Air, wind. .²2 A piece or man at chess, backgammon, &c. .²3 Hurting, injuring. .²4 A mixture of blue and yellow, a green. .²5 Spotting, variegating. f. (-री) <i>Kuśa</i> grass. .E. शॄ to injure, अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शार",
+            "eid": "37748",
+            "pagenum": 757,
+            "content": "शार¦ (रः-री-रं) <i>m.</i> Air, wind; man at chess; hurting; variegating. <i>f.</i> (-ई) <i>Kusa</i> grass. <i>a.</i> Variegated."
+        }
     ]
 }

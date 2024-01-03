@@ -181,5 +181,37 @@
             "pagenum": 7,
             "content": "खर्जू/र¦ (so zu betonen) II. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "खर्जूर",
+            "eid": "11867",
+            "pagenum": 163,
+            "content": "<i>kharjū́ra</i>¦ (so zu betonen!) 3. e) *der Kern der Kokosnuß, <ls>Rājan.</ls> 11, 52. {part=,seq=12047,type=,n=2}"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "खर्जूर",
+            "eid": "83",
+            "pagenum": 549,
+            "content": "<i>kharjūra</i>¦ <div n='P'/>(1) <bot>PHOENIX SYLVESTRIS ROXB.</bot> (Avk; Bpn, p. 574-576; Chopra; Dutt; DWH 3, p. 520; Dy, p. 801; HK; Kav; KB 4, p. 2563-2565; MW; Nadk. 1, nr. 1881; PW; Roxb., p. 723; V 3, p. 33; Watt CP, p. 885-886); <div n='P'/>(2) <bot>PH. DACTYLIFERA LINN.</bot> (Avk; Bpn, p. 574-576; Chopra; Dgv, nr. 331; Gul; KB 4, p. 2561-2563; Nadk. 1, nr. 1878; V 3, p. 32), usually distinguished as <i>piṇḍakharjūra.</i>"
+        }
+    ],
+    "STC": [
+        {
+            "word": "खर्जूर",
+            "eid": "8585",
+            "pagenum": 221,
+            "content": "<b>kharjūra-</b>¦ <ab>m.</ab> <i>-ī-</i> <ab>f.</ab> Phœnix sylvestris (dattier) <lbinfo n='4'/> ; <ab>nt.</ab> fruit de cet arbre."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "खर्जूर",
+            "eid": "823",
+            "pagenum": 1,
+            "content": "<b>Kharjūra</b>¦ is the name of a tree (<i>Phœnix silvestris</i>) which is mentioned in the Yajurveda.<sup>1</sup> <F>1) Taittirīya Saṃhitā, ii. 4, 9, 2; Kāṭhaka Saṃhitā, xi. 10; xxxvi. 7. <div n='P'/><i>Cf.</i> Zimmer, <i>Altindisches Leben,</i> 63.</F>"
+        }
     ]
 }

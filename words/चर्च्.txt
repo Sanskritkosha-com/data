@@ -133,5 +133,35 @@
             "pagenum": 7,
             "content": "चर्च्¦ <ab>Caus.</ab> II. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "चर्च्",
+            "eid": "13131",
+            "pagenum": 181,
+            "content": "<i>carc</i>¦ <ls>Kaus.</ls> auch: besprechen, <ls>Harṣac.</ls> (1936) 447, 5. {part=,seq=13337,type=,n=2}"
+        },
+        {
+            "word": "चर्च्",
+            "eid": "28673",
+            "pagenum": 395,
+            "content": "<i>carc</i>¦ (tadeln) °Pass. <ls>Prabandh.</ls> 258, 7 <i>(carcyate)</i>. {part=N,seq=29044,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "चर्च्",
+            "eid": "9131",
+            "pagenum": 246,
+            "content": "<b>CARC-</b>¦ <i>carcayati ; carcita-</i> -- répéter (<ab>cf.</ab> le <ab>suiv.</ab>) ; discuter <ab>qqch.</ab>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चर्च्",
+            "eid": "14335",
+            "pagenum": 279,
+            "content": "चर्च्¦ (-श) चर्चति 6. <i>a.</i> To speak or say; to abuse, censure; to inquire; hurt. (क) चर्चयति 10th to study."
+        }
     ]
 }

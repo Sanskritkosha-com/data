@@ -75,5 +75,37 @@
             "pagenum": 7,
             "content": "गडेर¦ (II.) und °क <ls>GAṆAR. 34</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गडेर",
+            "eid": "12012",
+            "pagenum": 165,
+            "content": "<i>gaḍera</i>¦ und <i>°ka</i>, <ls>Gaṇar.</ls> 34. {part=,seq=12195,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गडेर",
+            "eid": "13010",
+            "pagenum": 228,
+            "content": "गडेर¦ m. (-रः) A cloud. E. गड् to drop (water), and एरक् Unadi aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गडेर",
+            "eid": "13016",
+            "pagenum": 277,
+            "content": "गडेर¦ m. (-रः) A cloud. .E. गड to drop (water), and एरक् Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गडेर",
+            "eid": "12468",
+            "pagenum": 241,
+            "content": "गडेर¦ (रः) 1. <i>m.</i> A cloud."
+        }
     ]
 }

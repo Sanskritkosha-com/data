@@ -66,5 +66,37 @@
             "pagenum": 7,
             "content": "अन्तर्गडु¦ vgl. गडु <div n='1'> 7) in den Nachträgen."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अन्तर्गडु",
+            "eid": "3057",
+            "pagenum": 42,
+            "content": "*<i>antargaḍu</i>¦ untauglich, unnütz, <ls>S</ls> I, 9, 9 v.u. (Ko.); 380, 15 (Ko.); 384, 1 v.u. (Ko.); 418, 7 v.u. (Ko.); 557, 13 (Ko.); 563, 2 v.u. (Ko.). {part=,seq=3098,type=*,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अन्तर्गडु",
+            "eid": "1762",
+            "pagenum": 32,
+            "content": "अन्तर्गडु¦ mfn. (-डुः-डुः-डुं) Unprofitable, vain, idle. E. अन्तर् amidst, गडु to drop or distil, and उ affix: what runs to waste."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अन्तर्गडु",
+            "eid": "1764",
+            "pagenum": 38,
+            "content": "अन्तर्गडु¦ mfn. (-डुः-डुः-डु) Unprofitable, vain, idle. .E. अन्तर amidst, गडु to drop or distil, and उ affix: what runs to waste."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अन्तर्गडु",
+            "eid": "1464",
+            "pagenum": 30,
+            "content": "अन्त-र्गडु¦ (डुः-डु) <i>a.</i> Unprofitable."
+        }
     ]
 }

@@ -137,5 +137,21 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अनिमित्त¦ I. 1. Auch <ls>KATHĀS. 32,42</ls>. <ls n='KATHĀS. 32,'>47</ls>. <ls n='KATHĀS. 32,'>48</ls>. <ls n='KATHĀS. 32,'>52</ls>. <ls n='KATHĀS. 32,'>53</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनिमित्त",
+            "eid": "2473",
+            "pagenum": 34,
+            "content": "1. <i>animitta</i>¦ n. schlechtes Vorzeichen, <ls>Mṛcch.</ls> 129, 14; <ls>Kathās.</ls> 32, 42. 47. 48. 52. 53. [<ls>H</ls> 34, 61.] {part=,seq=2510,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनिमित्त",
+            "eid": "1455",
+            "pagenum": 31,
+            "content": "<b>a-nimitta-</b>¦ <ab>a.</ab> sans cause, non provoqué ; qui manque le but ; sans prodromes, imprévisible <lbinfo n='7'/> ; désintéressé ; <i>-am -tas</i> sans cause ; <ab>nt.</ab> absence de prodromes ou mauvais présages. <lbinfo n='5'/>  <P><i>°nimitta-</i> <ab>a.</ab> désintéressé."
+        }
     ]
 }

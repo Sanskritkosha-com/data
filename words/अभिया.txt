@@ -69,5 +69,27 @@
             "pagenum": 7,
             "content": "अभिया¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभिया",
+            "eid": "4142",
+            "pagenum": 57,
+            "content": "<i>abhiyā</i>¦ Adj. überall hingehend, so v.a. überall sein Auge habend (als Beiw. von Fürsten), <ls>MBh.</ls> 3, 185, 28. {part=,seq=4198,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभिया",
+            "eid": "3079",
+            "pagenum": 65,
+            "content": "<b>1 abhi-YĀ-</b>¦ s'approcher ; se vouer à ; participer à ; s'approcher en menaçant, attaquer <lbinfo n='4'/> ; <ab>caus.</ab> envoyer vers ; <i>°yāta-</i> qui va vers ; rencontré ; arrivé ; (temps) passé ; qui participe <lbinfo n='4'/> à."
+        },
+        {
+            "word": "अभिया",
+            "eid": "3080",
+            "pagenum": 65,
+            "content": "<b>2 abhi-yā-</b>¦ <ab>a.</ab> vigilant, qui regarde partout."
+        }
     ]
 }

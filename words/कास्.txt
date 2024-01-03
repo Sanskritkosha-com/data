@@ -137,5 +137,29 @@
             "pagenum": 2,
             "content": "2. कास्¦ <lex>f.</lex> <i>Husten</i> <ls>AV. 1, 12, 3.</ls> <ls n='AV.'>5, 22, 10.</ls> <ls n='AV. 5, 22,'>11</ls> (wo der Accent der Handschrr. wohl falsch ist)."
         }
+    ],
+    "STC": [
+        {
+            "word": "कास्",
+            "eid": "7985",
+            "pagenum": 193,
+            "content": "<b>KĀS-</b>¦ <i>kāsate</i> (<i>-ti</i>) -- tousser."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कास्",
+            "eid": "607",
+            "pagenum": 1,
+            "content": "<b>Kās, Kāsa, Kāsā, Kāsikā.</b>¦ — All these four forms<sup>1</sup> of the same word denote ‘cough,’ which is mentioned in the Atharvaveda as accompanying a headache,<sup>2</sup> as a symptom in fever (<b>Takman</b>),<sup>3</sup> and as an independent disease.<sup>4</sup> <F>1) Kās: Av. i. 12, 3; v. 22, 10; <b>Kāsa:</b> Av. v. 22, 11 (probably); Kāsā: Av. vi. 105, 1 <i>et seq.;</i> Kāsikā: Av, v. 22, 12; xi. 2, 22.</F> <F>2) Av. i. 12, 3.</F> <F>3) v. 22, 10.</F> <F>4) vi. 105. <div n='P'/><i>Cf.</i> Zimmer, <i>Altindisches Leben,</i> 385; Grohmann, <i>Indische Studien,</i> 9, 394; Jolly, <i>Medicin,</i> 89.</F>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कास्",
+            "eid": "9795",
+            "pagenum": 185,
+            "content": "कास्¦ (ऋ ङ) कासते 1. <i>d.</i> To cough."
+        }
     ]
 }

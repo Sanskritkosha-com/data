@@ -251,5 +251,51 @@
             "pagenum": 5,
             "content": "3. अधिवास¦ <i>Wohlgeruch</i>: (स्रजम्) अहरत्किल तस्य वेगवानधिवासस्पृहयेव मारुतः <ls>RAGH. 8, 34.</ls> वस्त्रमापस्तिलान्भूमिं गन्धो वासयते यथा । पुष्पाणामधिवासेन <ls>MBH. 3, 24.</ls> (गुणदोषान्) शुभाशुभाधिवासेन <i>(Geruch</i> überh.) संसर्गः कुरुते यथा <ls n='MBH. 3,'>23.</ls> वातैः प्रफुल्लसहकारकृताधिवासैः <i>wohlriechend gemacht</i> <ls>ṚT. 6, 32.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अधिवास",
+            "eid": "1787",
+            "pagenum": 24,
+            "content": "<i>adhivāsa</i>¦ m. °beständiges Obliegen, Hartnäckigkeit, <ls>Sam.</ls> V, 82. {part=,seq=1813,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अधिवास",
+            "eid": "1054",
+            "pagenum": 19,
+            "content": "अधिवास¦ m. (-सः) 1. A house, an abode. 2. Place, situation. 3. Continuance, perseverance. 4. Perfuming the person, &c. 5. A neighbour. 6. Neighbourhood. E. अधि, and वस to dwell, with घञ् affix; or वास to fumigate, with अच्"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अधिवास",
+            "eid": "1042",
+            "pagenum": 23,
+            "content": "<b>1 adhi-vāsa-</b>¦ <ab>m.</ab> habitant ; voisin ; siège, demeure."
+        },
+        {
+            "word": "अधिवास",
+            "eid": "1043",
+            "pagenum": 23,
+            "content": "<b>2 adhi-vāsa-</b>¦ <ab>m.</ab> bonne odeur ; odeur ; <i>-tā- -itā-</i> <ab>f.</ab> fait d'être parfumé."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अधिवास",
+            "eid": "1055",
+            "pagenum": 23,
+            "content": "अधिवास¦ m. (-सः) .²1 A house, an abode. .²2 Place, situation. .²3 Continuance, perseverance. .²4 Perfuming the person, &c. .²5 A neighbour. .²6 Neighbourhood. .E. अधि, and वस to dwell, with घञ् affix; or पास to fumigate, with अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अधिवास",
+            "eid": "871",
+            "pagenum": 19,
+            "content": "अधि-वास¦ (सः) <i>m.</i> 1. A house; a site; perfuming; continuance."
+        }
     ]
 }

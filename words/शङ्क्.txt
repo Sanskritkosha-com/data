@@ -103,5 +103,21 @@
             "pagenum": 7,
             "content": "शङ्क्¦ mit परि VI. °शङ्क्यते मयि <i>es wird von mir erwartet, man hält mich dessen für fähig</i> <ls>JĀTAKAM. 14,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शङ्क्",
+            "eid": "24718",
+            "pagenum": 340,
+            "content": "<i>śaṅk</i>¦ mit <i>abhivi</i> <ls>H</ls> XLII, 46 [<i>abhiviśaṅkya</i>; pw hat nur <i>°śaṅkin</i>]. — Mit <i>pari, °śaṅkyate mayi</i> es wird von mir erwartet, man hält mich dessen für fähig, <ls>Jātakam.</ls> 14, 1. {part=,seq=25057,type=,n=5}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शङ्क्",
+            "eid": "20009",
+            "pagenum": 713,
+            "content": "<b>ŚAṄK-</b>¦ <i>śaṅkate</i> (<i>-ti</i>) ; (<i>śaṅkīs śaṅkiṣṭhās śaṅkithās</i>) ; <i>śaṅkyate ; śaṅkayati ; śaṅkitaśaṅkitum</i><i> °śaṅkya</i> -- être inquiet, être effrayé, craindre (<ab>abl.</ab>) ; se méfier de (<ab>acc.</ab>), soupçonner <lbinfo n='3'/> ; être incertain, être en doute au sujet de (<ab>acc.</ab>) ; hésiter ; croire, conjecturer, considérer <lbinfo n='3'/> comme (2 <ab>acc.</ab>) ; (<i>śaṅke</i> à mon avis, probablement) <lbinfo n='9'/> ; <ab>caus.</ab> rendre inquiet au sujet de (<ab>loc.</ab>)."
+        }
     ]
 }

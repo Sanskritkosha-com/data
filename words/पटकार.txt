@@ -45,5 +45,29 @@
             "pagenum": 4,
             "content": "पटकार¦ (पट + 1. कार) <lex>m.</lex> <i>Weber</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILS.</ls> Nach <ls>ŚKDR.</ls> und <ls>WILS.</ls> auch <i>Maler.</i>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पटकार",
+            "eid": "22910",
+            "pagenum": 414,
+            "content": "पटकार¦ m. (-रः) 1. A weaver. 2. A painter. E. पट cloth, and कार maker."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पटकार",
+            "eid": "22924",
+            "pagenum": 495,
+            "content": "पटकार¦ m. (-रः) .²1 A weaver. .²2 A painter. .E. पट cloth, and कार maker."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पटकार",
+            "eid": "22394",
+            "pagenum": 441,
+            "content": "पट-कार¦ (रः) 1. <i>m.</i> Weaver; painter."
+        }
     ]
 }

@@ -69,5 +69,19 @@
             "pagenum": 3,
             "content": "2. त्र¦ = त्रि <i>drei</i> in द्वित्र ."
         }
+    ],
+    "STC": [
+        {
+            "word": "त्र",
+            "eid": "10195",
+            "pagenum": 291,
+            "content": "<b>1 tra-</b>¦ <ab>ifc.</ab> qui protège, préserve."
+        },
+        {
+            "word": "त्र",
+            "eid": "10196",
+            "pagenum": 291,
+            "content": "<b>2 tra-</b>¦ <ab>qqf.</ab> <ab>ifc.</ab> pour <i>tri-,</i> <ab>v.</ab> <i>dvi-tra-.</i>"
+        }
     ]
 }

@@ -23,5 +23,29 @@
             "pagenum": 6,
             "content": "वनदीप¦ <lex>m.</lex> = वनचम्पक <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वनदीप",
+            "eid": "35001",
+            "pagenum": 628,
+            "content": "वनदीप¦ m. (-पः) The Champaka, (Michelia Champaca.) E. वन a wood, and दीप a lamp or illuminator."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वनदीप",
+            "eid": "33503",
+            "pagenum": 732,
+            "content": "वनदीप¦ m. (-पः) The <i>Champak,</i> (<bot>Michelia Champaca</bot>.) .E. वन a wood, and दीप a lamp or illuminator."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वनदीप",
+            "eid": "33092",
+            "pagenum": 655,
+            "content": "वन-दीप¦ (पः) 1. <i>m.</i> Michelia champaca."
+        }
     ]
 }

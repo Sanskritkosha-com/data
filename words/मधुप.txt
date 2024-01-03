@@ -102,5 +102,43 @@
             "pagenum": 5,
             "content": "मधुप¦ <div n='1'> 2) <ls>BHĀG. P. 10, 47, 12.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मधुप",
+            "eid": "21076",
+            "pagenum": 291,
+            "content": "<i>madhupa</i>¦ m. °Schnapstrinker, <ls>S</ls> II, 138, 11. {part=,seq=21368,type=,n=1}"
+        },
+        {
+            "word": "मधुप",
+            "eid": "21076.1",
+            "pagenum": 291,
+            "content": "<i>[madhupa]</i>¦ , °f. <i>ī</i> weibl. Biene, <ls>Govardh.</ls> 14, 537. 646; <ls>Prabandh.</ls> 98, 9. [Ich möchte hier darauf hinweisen, daß es streng genommen ein zoologischer Irrtum ist, wenn die honigsammelnden Bienen als Masculina figurieren; denn sie sind bekanntlich neutrius generis, was die Inder freilich noch nicht wußten.] {part=,seq=21369,type=,n=10}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मधुप",
+            "eid": "30334",
+            "pagenum": 547,
+            "content": "मधुप¦ m. (-पः) A bee. E. मधु honey, and प who drinks."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मधुप",
+            "eid": "29351",
+            "pagenum": 638,
+            "content": "मधुप¦ m. (-पः) A bee. .E. मधु honey, and प who drinks."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मधुप",
+            "eid": "28866",
+            "pagenum": 572,
+            "content": "मधु-प¦ (पः) 1. <i>m. Idem.</i>"
+        }
     ]
 }

@@ -31,5 +31,21 @@
             "pagenum": 6,
             "content": "वचस्विन्¦ <lex>Adj.</lex> <i>beredt</i> <ls>ŚIŚ. 17,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वचस्विन्",
+            "eid": "23081",
+            "pagenum": 319,
+            "content": "<i>vacasvin</i>¦ Adj. beredt auch <ls>H</ls> 10, 13. {part=,seq=23404,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वचस्विन्",
+            "eid": "17780",
+            "pagenum": 621,
+            "content": "<b>vacasvin-</b>¦ <ab>a.</ab> éloquent."
+        }
     ]
 }

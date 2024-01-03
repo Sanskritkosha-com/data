@@ -85,5 +85,37 @@
             "pagenum": 7,
             "content": "वस्त्य¦ VI. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वस्त्य",
+            "eid": "23392",
+            "pagenum": 323,
+            "content": "<i>vastya</i>¦ <ls>Śiś.</ls> (neuere Ausgabe) 13, 63. Vgl. <i>pastya</i>. {part=,seq=23718,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वस्त्य",
+            "eid": "35596",
+            "pagenum": 638,
+            "content": "वस्त्य¦ n. (-स्त्यं) A house. E. वस् to abide, ति aff. and यत् added; this word has many etymologies; it is also read पस्त्य ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वस्त्य",
+            "eid": "34051",
+            "pagenum": 744,
+            "content": "वस्त्य¦ n. (-स्त्यं) A house. .E. वस to abide, ति aff., and यत् added; this word has many etymologies; it is also read पस्त्य."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वस्त्य",
+            "eid": "33640",
+            "pagenum": 667,
+            "content": "वस्त्य¦ (स्त्यं) 1. <i>m.</i> A house."
+        }
     ]
 }

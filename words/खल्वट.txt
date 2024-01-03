@@ -31,5 +31,29 @@
             "pagenum": 2,
             "content": "खल्वट¦ <lex>m.</lex> <i>a severe cough</i> <ls>WILS.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "खल्वट",
+            "eid": "12787",
+            "pagenum": 224,
+            "content": "खल्वट¦ m. (-टः) A severe cough."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खल्वट",
+            "eid": "12793",
+            "pagenum": 273,
+            "content": "खल्वट¦ m. (-टः) A severe cough."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खल्वट",
+            "eid": "12246",
+            "pagenum": 237,
+            "content": "खल्वट¦ (टः) <i>m.</i> Severe cough."
+        }
     ]
 }

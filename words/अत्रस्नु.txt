@@ -47,5 +47,21 @@
             "pagenum": 7,
             "content": "अत्रस्नु¦ auch <ls>RAGH. 14,47</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अत्रस्नु",
+            "eid": "1485",
+            "pagenum": 20,
+            "content": "<i>atrasnu</i>¦ auch <ls>Ragh.</ls> 14, 47. {part=,seq=1510,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अत्रस्नु",
+            "eid": "854",
+            "pagenum": 19,
+            "content": "<b>a-trasnu-</b>¦ <ab>a.</ab> intrépide."
+        }
     ]
 }

@@ -89,5 +89,29 @@
             "pagenum": 1,
             "content": "अथो¦ s. u. अथ 7,a."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अथो",
+            "eid": "888",
+            "pagenum": 16,
+            "content": "अथो¦ ind, The same as अथ, q. v."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अथो",
+            "eid": "862",
+            "pagenum": 19,
+            "content": "<b>atho</b>¦ <ab>v.</ab> <i>atha.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अथो",
+            "eid": "890",
+            "pagenum": 19,
+            "content": "अथो¦ <i>ind.</i> The same as अथ, q. v."
+        }
     ]
 }

@@ -256,5 +256,63 @@
             "pagenum": 1,
             "content": "अंश¦ 1〉 केनांशेन so <ab>v. a.</ab> <i>in welchem Stücke ?</i> <ls>DAŚAK. 51,7</ls>. — 8〉 <i>Nenner eines Bruchs</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अंश",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "<i>aṃśa</i>¦ 1. <i>kenāṃśena</i> so v.a. in welchem Stücke? <ls>Daśak.</ls> 51, 7. — 8. Nenner eines Bruches. {part=,seq=3,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अंश",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "अंश¦ r. 10th cl. (अंशयति) To separate or divide. See अंस."
+        },
+        {
+            "word": "अंश",
+            "eid": "5",
+            "pagenum": 1,
+            "content": "अंश¦ m. (-शः) 1. A share or portion. 2. A part. 3. A shoulder, the shoulder blade. 4. (In arithmetic) a fraction. 5. The numerator of a fraction. 6 A degree of latitude or longitude, &c. See अंस. E. अंश to divide, अच् affix."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अंश",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "<b>aṃśa-</b>¦ <ab>m.</ab> part, partie, morceau, division ; part d'héritage ; <ab>n.</ab> d'un Āditya ; <i>-ī-kṛ-</i> partager. <lbinfo n='5'/>  <P><i>°kalpanā-</i> <ab>f.</ab> assignation d'une part (d'héritage) <lbinfo n='4'/> ; <i>°prakalpanā-</i> <ab>id.</ab>  <P><i>°pradāna-</i> <ab>nt.</ab> octroi d'une part (d'héritage).  <P><i>°bhāgin-</i> <ab>a.</ab> qui a une part.  <P><i>°bhāj-</i> <ab>ag.</ab> qui prend part à.  <P><i>°bhūta-</i> <ab>a.</ab> qui constitue une part de.  <P><i>aṃśāvataraṇa-</i> <ab>nt.</ab> incarnations partielles, <ab>n.</ab> d'un chap. du <ab>MhBh.</ab> ; <i>aṃśāvatāra-</i> <ab>m.</ab> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अंश",
+            "eid": "5",
+            "pagenum": 1,
+            "content": "अंश¦ r. 10th cl. (अंशयति) To separate or divide. See अंस."
+        },
+        {
+            "word": "अंश",
+            "eid": "6",
+            "pagenum": 1,
+            "content": "अंश¦ m. (-शः) .²1 A share or portion. .²2 A part. .²3 A shoulder, the shoulder blade. .²4 (In arithmetic) a fraction. .²5 The numerator of a fraction. .²6 A degree of latitude or longitude, &c. See अंस. .E. अंश to divide, अच् affix."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अंश",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "अंश¦ (त्-क) अंशयति 10. <i>a.</i> To separate, to divide, to apportion."
+        },
+        {
+            "word": "अंश",
+            "eid": "4",
+            "pagenum": 1,
+            "content": "अंश¦ (शः) 1. <i>m.</i> A share; the shoulder; a fraction; a degree."
+        }
     ]
 }

@@ -29,5 +29,27 @@
             "pagenum": 7,
             "content": "अपकर्तन¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपकर्तन",
+            "eid": "3232",
+            "pagenum": 44,
+            "content": "<i>apakartana</i>¦ n. das Zerstückeln, <ls>Mahāvīrac.</ls> 43, 8. {part=,seq=3277,type=,n=2}"
+        },
+        {
+            "word": "अपकर्तन",
+            "eid": "27842",
+            "pagenum": 383,
+            "content": "°<i>apakartana</i>¦ n. Abschneiden, <ls>Mahāvīr. ed. Aiyar</ls> III, 19<sup>a</sup>. <ls>Lakṣmaṇasūri</ls> hat <i>avakartanam</i>. {part=N,seq=28213,type=°,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपकर्तन",
+            "eid": "2200",
+            "pagenum": 48,
+            "content": "<b>apa-kartana-</b>¦ <ab>nt.</ab> fait de déchirer ; découpage. <lbinfo n='4'/>"
+        }
     ]
 }

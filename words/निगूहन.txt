@@ -79,5 +79,21 @@
             "pagenum": 7,
             "content": "निगूहन¦ III. <i>Umarmung</i> <ls><ab>ebend.</ab> 3,55</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "निगूहन",
+            "eid": "16722",
+            "pagenum": 231,
+            "content": "<i>nigūhana</i>¦ Umarmung, Haravijaya 3, 55. {part=,seq=16974,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "निगूहन",
+            "eid": "11626",
+            "pagenum": 361,
+            "content": "<b>ni-gūhana-</b>¦ <ab>nt.</ab> fait de cacher."
+        }
     ]
 }

@@ -76,5 +76,37 @@
             "pagenum": 7,
             "content": "संवसथ¦ VII. <lex>m.</lex> <i>Haus</i> <ls>KĀŚĪKH. 30,52</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "संवसथ",
+            "eid": "25520",
+            "pagenum": 351,
+            "content": "<i>saṃvasatha</i>¦ m. Haus, <ls>Kāśīkh.</ls> 30, 52. {part=,seq=25863,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "संवसथ",
+            "eid": "41650",
+            "pagenum": 744,
+            "content": "संवसथ¦ m. (-थः) A village. E. सम् before वस् to abide, अथच् Unādi aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "संवसथ",
+            "eid": "39698",
+            "pagenum": 874,
+            "content": "संवसथ¦ m. (-थः) A village. .E. सम् before वस to abide, अथ Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "संवसथ",
+            "eid": "39372",
+            "pagenum": 795,
+            "content": "सं-वसथ¦ (थः) 1. <i>m.</i> A village."
+        }
     ]
 }

@@ -141,5 +141,51 @@
             "pagenum": 5,
             "content": "1. अनीश्वर¦ <i>nicht Herr über sich</i>: पुरुषो ऽयमनीश्वरः <ls>Spr. 4384.</ls> <i>nicht vermögend, - im Stande seiend</i> (mit inf.) <ls>RAGH. 4, 69.</ls> <ls>TATTVAS. 20.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनीश्वर",
+            "eid": "27807",
+            "pagenum": 383,
+            "content": "<i>anīśvara</i>¦ m. °einer, der kein Fürst ist, <ls>Kauṭ.</ls> 71, 4. {part=N,seq=28178,type=,n=2}"
+        },
+        {
+            "word": "अनीश्वर",
+            "eid": "27808",
+            "pagenum": 383,
+            "content": "<i>anīśvara</i>¦ °Subst. m. kein Meister (in seinem Fache), <ls>Kauṭ.</ls> 163, 5. Könnte auch Adj. sein: °keinen Meister unter sich habend. <i>anukalam</i> Adv. °Sekunde für Sekunde? oder: an allen Elementen des Körpers? <ls>Kaṃs.</ls> IV, 33<sup>b</sup>. {part=N,seq=28179,type=,n=7}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनीश्वर",
+            "eid": "1429",
+            "pagenum": 26,
+            "content": "अनीश्वर¦ mfn. (-रः-रा-रं) 1. Without a superior. 2. Unchecked, uncontrolled. 3. Without power, powerless, unable. 4. Atheist. E. अन् neg. ईश्वर a supreme."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनीश्वर",
+            "eid": "1527",
+            "pagenum": 33,
+            "content": "<b>an-īśvara-</b>¦ <ab>a.</ab> n'appartenant pas au Maître Suprême ; qui n'a pas de maître ; non maître de soi ; non en état de (<ab>inf.</ab>) ; <i>-tva-</i> <ab>nt.</ab> incapacité. <lbinfo n='6'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनीश्वर",
+            "eid": "1431",
+            "pagenum": 31,
+            "content": "अनीश्वर¦ mfn. (रः-रा-रं) .²1 Without a superior. .²2 Unchecked, uncontrolled. .²3 Without power, powerless, unable. .²4 Atheist. .E. अन् neg. ईश्वर a supreme."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनीश्वर",
+            "eid": "1210",
+            "pagenum": 25,
+            "content": "अनी_श्वर¦ (रः-रा-रं) <i>a.</i> Paramount. <i>m.</i> An atheist."
+        }
     ]
 }

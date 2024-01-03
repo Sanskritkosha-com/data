@@ -75,5 +75,21 @@
             "pagenum": 7,
             "content": "भीर¦ IV. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भीर",
+            "eid": "20630",
+            "pagenum": 284,
+            "content": "<i>bhīra</i>¦ Adj. Furcht einflößend, <ls>Śiś.</ls> 19, 66. {part=,seq=20914,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भीर",
+            "eid": "16235",
+            "pagenum": 533,
+            "content": "<b>bhīra-</b>¦ <ab>a.</ab> effrayant, intimidant."
+        }
     ]
 }

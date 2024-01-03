@@ -112,5 +112,51 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अक्रम¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्रम",
+            "eid": "187",
+            "pagenum": 3,
+            "content": "1. <i>akrama</i>¦ m. auch: Nichtallmählichkeit, Plötzlichkeit, in <i>kramākrama</i>. {part=,seq=194,type=,n=2}"
+        },
+        {
+            "word": "अक्रम",
+            "eid": "188",
+            "pagenum": 3,
+            "content": "2. <i>akrama</i>¦ , <i>°mam</i> Adv. gleichzeitig, <ls>Naiṣ.</ls> 8, 4. — <i>akramaśas</i> Adv. dass., <ls>Kap.</ls> 2, 32. {part=,seq=195,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अक्रम",
+            "eid": "112",
+            "pagenum": 3,
+            "content": "अक्रम¦ m. (मः) Want of order or arrangement, confusion, irregularity. E. अ priv. and क्रम order."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अक्रम",
+            "eid": "92",
+            "pagenum": 3,
+            "content": "<b>a-krama-</b>¦ <ab>m.</ab> désordre, ordre contre nature <lbinfo n='4'/> ; <i>-āt</i> contre la règle."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक्रम",
+            "eid": "113",
+            "pagenum": 3,
+            "content": "अक्रम¦ m. (-मः) Want of order or arrangement, confusion, irregularity. .E. अ priv. and क्रम order."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक्रम",
+            "eid": "86",
+            "pagenum": 3,
+            "content": "अ-क्रम¦ (मः) 1. <i>m.</i> Confusion of order."
+        }
     ]
 }

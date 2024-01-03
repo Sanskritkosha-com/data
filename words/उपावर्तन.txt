@@ -94,5 +94,27 @@
             "pagenum": 5,
             "content": "उपावर्तन¦ <ls>Verz. d. Oxf. H. 216,a,4.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपावर्तन",
+            "eid": "8748",
+            "pagenum": 120,
+            "content": "<i>upāvartana</i>¦ n. °Zurückweisung (einer Braut), <ls>Kauṭ.</ls> 188, 3; °Annullierung (eines Kaufgeschäftes), 188, 11. {part=,seq=8866,type=,n=3}"
+        },
+        {
+            "word": "उपावर्तन",
+            "eid": "28297",
+            "pagenum": 389,
+            "content": "<i>upāvartana</i>¦ n. °Raum zur Erholung, <ls>Kauṭ.</ls> 132, 6. Vgl. <ls>J. J. Meyer</ls>, S. 209, Anm. 6. {part=N,seq=28668,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपावर्तन",
+            "eid": "7146",
+            "pagenum": 159,
+            "content": "<b>upāvartana-</b>¦ <ab>nt.</ab> fait de retourner."
+        }
     ]
 }

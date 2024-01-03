@@ -201,5 +201,65 @@
             "pagenum": 7,
             "content": "अष्टक¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अष्टक",
+            "eid": "5963",
+            "pagenum": 81,
+            "content": "<i>aṣṭaka</i>¦ 4. Bez. des Ṛgveda, <ls>Opp. Cat.</ls> 1. <i>°trayabhaṭṭabhāskara, °bhāṣya</i> n. und <i>°vargaprayoga</i> m. Titel von Werken, ebenda. {part=,seq=6044,type=,n=1}"
+        },
+        {
+            "word": "अष्टक",
+            "eid": "5963.1",
+            "pagenum": 81,
+            "content": "<i>aṣṭaka</i>¦ °zu den achten [Tagen der Monate] gehörig? <ls>Mgs.</ls> II, 8, 4<sup>a</sup>. {part=,seq=6045,type=,n=5}"
+        },
+        {
+            "word": "अष्टक",
+            "eid": "28047",
+            "pagenum": 386,
+            "content": "<i>aṣṭaka</i>¦ <ls>Kauṭ.</ls> 91, 10; 92, 2 °Harz (oder Lack)? {part=N,seq=28418,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अष्टक",
+            "eid": "4387",
+            "pagenum": 75,
+            "content": "अष्टक¦ mfn. (-कः-का-कं) 1. Eight. 2. Eighth. n. (-कं) The eight sections of PĀNINI'S Grammar. m. (-कः) 1. The formulæ of the Rig Veda as collected into eight portions, thence called Ashtakas. 2. One acquainted with PĀMINI'S rules or the formulæ of the Veda. E. कन् added to अष्ट."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अष्टक",
+            "eid": "4584",
+            "pagenum": 99,
+            "content": "<b>aṣṭaka-</b>¦ <ab>a.</ab> consistant en 8 parts ; <ab>nt.</ab> ensemble <lbinfo n='6'/> consistant en 8 parts ; <ab>m.</ab> fils de Viśvāmitra ; <i>-ā-</i> <ab>f.</ab> 8me jour après le pleine lune et oblation de ce jour."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "अष्टक",
+            "eid": "187",
+            "pagenum": 1,
+            "content": "<b>Aṣṭaka</b>¦ is mentioned in the Aitareya Brāhmaṇa<sup>1</sup> as one of the sons of <b>Viśvāmitra.</b> <F>1) vii. 17. Also in the Sāṅkhāyana Srauta Sūtra, xv. 26.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अष्टक",
+            "eid": "4389",
+            "pagenum": 91,
+            "content": "अष्टक¦ mfn. (-कः-का-कं) .²1 Eight. .²2 Eighth. n. (-कं) The eight sections of PĀṆINI'S Grammar. m. (-कः) .²1 The formulae of the <i>Rig Veda</i> as collected into eight portions, thence called <i>Aṣṭakas.</i> .²2 One acquainted with PĀṆINI'S rules or the formulae of the <i>Veda.</i> .E. कन added to अष्ट."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अष्टक",
+            "eid": "3763",
+            "pagenum": 71,
+            "content": "अष्टक¦ (कः-का-कं) <i>a.</i> Eighth."
+        }
     ]
 }

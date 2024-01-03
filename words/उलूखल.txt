@@ -183,5 +183,45 @@
             "pagenum": 5,
             "content": "उलूखल¦ <div n='1'> 1) <ls>VARĀH. BṚH. S. 68, 47. 89, 1.</ls> उलूखलाङ्घ्रि <i>der Fuss —, die untere Fläche eines Mörsers</i> <ls>BHĀG. P. 10, 9, 8.</ls> Z. 4 lies उलूखलमुसले/ . <div n='1'>— 5) Bez. <i>gewisser</i> <is>Soma</is>-<i>Gefässe, der neun</i> <is>Grahapātra</is> (nach der Aehnlichkeit der Gestalt) <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 9, 2, 14. 4, 29. 6, 11. 10, 8, 12.</ls> <i>eines Ohrenschmuckes</i> (nach dem Schol.) bei einer <is>Piśācī</is> <ls>MBH. 3, 10520.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "उलूखल",
+            "eid": "7761",
+            "pagenum": 134,
+            "content": "उलूखल¦ n. (-लं) 1. A wooden mortar used for cleaning rice. 2. Bdellium, a gummy substance. E. उद् up, ख empty, and ल what takes: or उदू for उद्, and खल what goes; द is changed to लः see उदूखल."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उलूखल",
+            "eid": "7216",
+            "pagenum": 161,
+            "content": "<b>ulūkhala-</b>¦ <ab>nt.</ab> mortier (en bois) ; <ab>m.</ab> <ab>n.</ab> d'un ornement pour l'oreille ; <i>-ika-</i> <ab>a.</ab> <ab>ifc.</ab> qui a pour mortier...  <P><i>ulūkhalāṅghri-</i> <ab>m.</ab> base du mortier."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "उलूखल",
+            "eid": "396",
+            "pagenum": 1,
+            "content": "<b>Ulūkhala</b>¦ is the regular expression for ‘mortar’ from the Rigveda<sup>1</sup> onwards, occurring frequently also in the compound<sup>2</sup> Ulūkala-musala, ‘mortar and pestle.’ The exact construction of the vessel is quite unknown till we reach the Sūtra period. <F>1) i. 28, 6; Av. x. 9, 26; xi. 3, 3; xii. 3, 13: Taittirīya Saṃhitā, v. 2, 8, 7; vii. 2, 1, 3; Śatapatha Brāhmaṇa, i. 1, 4, 6, etc.</F> <F>2) Av. ix. 6, 15; Satapatha Brāhmaṇa, i. 1, 1, 22</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उलूखल",
+            "eid": "7764",
+            "pagenum": 163,
+            "content": "उलूखल¦ n. (-लं) .²1 A wooden mortar used for cleaning rice. .²2 <i>Bdellium,</i> a gummy substance. .E. उद्, up ख empty, and ल what takes: or उदू for उद्, and खल what goes; द is changed to लः see उदूखल."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उलूखल",
+            "eid": "7177",
+            "pagenum": 134,
+            "content": "उलू-खल¦ (लं) <i>n.</i> A gummy substance; a wooden mortar."
+        }
     ]
 }

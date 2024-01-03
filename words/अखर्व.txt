@@ -111,5 +111,21 @@
             "pagenum": 7,
             "content": "अखर्व¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अखर्व",
+            "eid": "325",
+            "pagenum": 5,
+            "content": "<i>akharva</i>¦ 1. auch: nicht klein, groß, bedeutend, <ls>Daśak.</ls> 4, 15; <ls>Naiṣ.</ls> 2, 21. {part=,seq=337,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अखर्व",
+            "eid": "129",
+            "pagenum": 4,
+            "content": "<b>a-kharva-</b>¦ <ab>a.</ab> non petit, important."
+        }
     ]
 }

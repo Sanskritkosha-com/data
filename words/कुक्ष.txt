@@ -71,5 +71,37 @@
             "pagenum": 7,
             "content": "कुक्ष¦ II. अभ्रकुक्षे <ls>JĀTAKAM. 26,20</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुक्ष",
+            "eid": "10725",
+            "pagenum": 147,
+            "content": "<i>[kukṣa]</i>¦ <i>abhrakukṣe</i> <ls>Jātakam.</ls> 26, 20. {part=,seq=10883,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुक्ष",
+            "eid": "10556",
+            "pagenum": 185,
+            "content": "कुक्ष¦ m. (-क्षः) The belly. E. कुष् to extract, and स affix; by which the fœces are excreted; also कुक्षि."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुक्ष",
+            "eid": "10563",
+            "pagenum": 225,
+            "content": "कुक्ष¦ m. (-क्षः) The belly. .E. कुष to extract, and सः affix; by which the foeces are excreted; also कुक्षि."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुक्ष",
+            "eid": "10005",
+            "pagenum": 190,
+            "content": "कुक्ष¦ (क्षः) 1. <i>m.</i> The belly."
+        }
     ]
 }

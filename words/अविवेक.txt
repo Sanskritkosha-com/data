@@ -109,5 +109,37 @@
             "pagenum": 5,
             "content": "1. अविवेक¦ <ls>KAP. 1, 55. 57. 3, 68.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अविवेक",
+            "eid": "4083",
+            "pagenum": 70,
+            "content": "अविवेक¦ m. (-कः) Ignorance, absence of discrimination or judgment. E. अ neg. and विवेक discrimination."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविवेक",
+            "eid": "4371",
+            "pagenum": 94,
+            "content": "<b>a-viveka-</b>¦ <ab>m.</ab> absence de jugement ; <i>-tāitā-</i> <lbinfo n='4'/> <ab>f.</ab> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविवेक",
+            "eid": "4085",
+            "pagenum": 85,
+            "content": "अविवेक¦ m. (-कः) Ignorance, absence of discrimination or judgment. .E. अ neg. and विवेक discrimination."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविवेक",
+            "eid": "3489",
+            "pagenum": 66,
+            "content": "अ-विवेक¦ (कः) <i>m.</i> Indiscrimination."
+        }
     ]
 }

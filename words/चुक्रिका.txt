@@ -13,5 +13,37 @@
             "pagenum": 400,
             "content": "¦ = °क्र-वेधक, <ls>L.</ls><info lex='inh'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "चुक्रिका",
+            "eid": "15331",
+            "pagenum": 272,
+            "content": "चुक्रिका¦ f. (-का) Indian sorrel, (Rumex vesicarius.) E. क्रन् added to the preceding."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "चुक्रिका",
+            "eid": "102",
+            "pagenum": 554,
+            "content": "<i>cukrikā = cukra</i>¦ <div n='P'/>(1) <bot>RUMEX VESICARIUS LINN.</bot> (Ainslie 1, p. 398-400; Bpn, p. 663; Chopra; Dgv, nr. 260; DWH 3, p. 157-158; Dy, p. 658-659; Gul; HK; Nadk. 1, nr. 2176; PW); <div n='P'/>(2) <bot>RUMEX ACETOSELLA LINN.</bot> (Nadk. 1, nr. 2170); <div n='P'/>(3) <bot>OXALIS CORNICULATA LINN.</bot> (Ainslie 2, p. 324-326; Avk; Bpn, p. 663: = <i>cāṅgerī;</i> KB 1, p. 437-438: = <i>cāṅgerī = amlaloṇikā;</i> Vśs: = <i>amlaloṇikā</i>) = <bot>O. PUSILLA SALISB.</bot> (Roxb., p. 389); <div n='P'/>(4) = <i>amlavetasa</i> (PW; Vśs); <div n='P'/>(5) = <i>vṛkṣāmla</i> (PW; Vśs); <div n='P'/>(6) = <i>phalāmla</i> (KB 1, p. 262-263); <div n='P'/>(7) = <i>cukravāstūka</i> (Vśs, unidentified); Vśs: <i>vāstūka</i> is <bot>CHENOPODIUM ALBUM LINN.</bot>; <div n='P'/>(8) = <i>amlapālaṅka</i> (Vśs, unidentified); <div n='P'/>(9) <bot>TAMARINDUS INDICA LINN.</bot> (KB 2, p. 887-890; PW; Vśs)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चुक्रिका",
+            "eid": "15338",
+            "pagenum": 329,
+            "content": "चुक्रिका¦ f. (-का) <i>Indian</i> sorrel, (<bot>Rumex vesicarius</bot>.) .E. कन् added to the preceding."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चुक्रिका",
+            "eid": "14795",
+            "pagenum": 289,
+            "content": "चुक्रिका¦ (का) 1. <i>f.</i> Indian sorrel."
+        }
     ]
 }

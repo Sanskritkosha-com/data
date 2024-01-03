@@ -85,5 +85,27 @@
             "pagenum": 1,
             "content": "अपराग¦ (von रञ्ज् mit अप) <lex>m.</lex> <i>Abneigung, feindliche Gesinnung</i> (Gegens. अनुराग) <ls>M. 7, 154.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपराग",
+            "eid": "3365",
+            "pagenum": 46,
+            "content": "<i>aparāga</i>¦ °Adj. = <i>apagataḥ rāgaḥ viṣayeṣv āsakitir yasya</i>, <ls>Yudh.</ls> 8, 101. {part=,seq=3410,type=,n=1}"
+        },
+        {
+            "word": "अपराग",
+            "eid": "3365.1",
+            "pagenum": 46,
+            "content": "<i>aparāga</i>¦ °n. = <i>kakṣyādhaḥkāya</i>, <ls>S</ls> II, 45, 1. {part=,seq=3411,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपराग",
+            "eid": "2334",
+            "pagenum": 51,
+            "content": "<b>apa-rāga-</b>¦ <ab>m.</ab> antipathie."
+        }
     ]
 }

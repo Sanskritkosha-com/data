@@ -45,5 +45,21 @@
             "pagenum": 7,
             "content": "अपूर्विन्¦ auch <i>noch unverheirathet</i> <ls>R. ed. Bomb. 3,18,4</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपूर्विन्",
+            "eid": "3650",
+            "pagenum": 50,
+            "content": "<i>apūrvin</i>¦ auch: noch unverheiratet, <ls>R. ed. Bomb.</ls> 3, 18, 4. {part=,seq=3700,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपूर्विन्",
+            "eid": "2568",
+            "pagenum": 55,
+            "content": "<b>a-pūrvin-</b>¦ <ab>a.</ab> qui n'a pas encore fait ; non encore marié."
+        }
     ]
 }

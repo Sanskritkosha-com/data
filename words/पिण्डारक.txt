@@ -125,5 +125,27 @@
             "pagenum": 5,
             "content": "पिण्डारक¦ <div n='1'> 2) <ls>BHĀG. P. 11, 1, 11.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पिण्डारक",
+            "eid": "18500",
+            "pagenum": 255,
+            "content": "°<i>piṇḍāraka</i>¦ n. eine Pflanze, E 817 (A). {part=,seq=18765,type=°,n=1}"
+        },
+        {
+            "word": "पिण्डारक",
+            "eid": "18500.1",
+            "pagenum": 255,
+            "content": "°<i>piṇḍāraka</i>¦ m. Büffelhüter, <ls>Kauṭ.</ls> 128, 8 v.u. — pw hat <i>piṇḍāra</i> *Büffelhirt. {part=,seq=18766,type=°,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पिण्डारक",
+            "eid": "13789",
+            "pagenum": 433,
+            "content": "<b>piṇḍāraka-</b>¦ <ab>m.</ab> fils de Vasudeva ; <ab>nt.</ab> <ab>n.</ab> d'un Tīrtha."
+        }
     ]
 }

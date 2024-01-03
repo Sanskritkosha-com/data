@@ -118,5 +118,27 @@
             "pagenum": 1,
             "content": "<i>Ghaṭikā</i>¦ — a measurement of time. <div n='P'/>Bhā. V. 21. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "घटिका",
+            "eid": "12696",
+            "pagenum": 175,
+            "content": "<i>ghaṭikā</i>¦ °Otterköpfchen? <ls>Śuk.</ls> t. o. 64 [p. 66, 24]. {part=,seq=12893,type=,n=2}"
+        },
+        {
+            "word": "घटिका",
+            "eid": "28655",
+            "pagenum": 394,
+            "content": "<i>ghaṭikā</i>¦ f. °ein best. Hohlmaß, <ls>Kauṭ.</ls> 105, 3 v.u. {part=N,seq=29026,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "घटिका",
+            "eid": "8962",
+            "pagenum": 239,
+            "content": "<b>ghaṭikā-</b>¦ <ab>f.</ab> pot à eau.  <P><i>°yantra-</i> <ab>nt.</ab> appareil pour monter les cruches <lbinfo n='4'/> d'eau du puits."
+        }
     ]
 }

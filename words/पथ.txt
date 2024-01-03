@@ -133,5 +133,47 @@
             "pagenum": 7,
             "content": "पथ¦ Z. 4 vgl. <ls>ROTH'S</ls> Programm über den <ls>AV.</ls> in Kashmir S. 26."
         }
+    ],
+    "SHS": [
+        {
+            "word": "पथ",
+            "eid": "23097",
+            "pagenum": 418,
+            "content": "पथ¦ r. 1st. cl. (पथति) to go, to move. r. 10th. cl. (पाथयति) To throw, to cast, to despatch or send; (इ) पथि, r. 1st. and 10th. cls. (पन्थति पन्थयति) To go, to proceed, to travel. गतौ भ्वा० पर० सक० सेट् । वा चुरा उभ० पक्षे भ्वा० पर० सक० सेट् इदित् ।"
+        },
+        {
+            "word": "पथ",
+            "eid": "23098",
+            "pagenum": 418,
+            "content": "पथ¦ m. (-थः) A road. E. पथ् to go, aff. अच्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पथ",
+            "eid": "23111",
+            "pagenum": 499,
+            "content": "पथ¦ r. 1st cl. (पथति) To go, to move. r. 10th cl. (पथयति) To throw, to cast, to despatch or send; (इ,) पथि r. 1st and 10th cls. (पन्थति पन्थयति) To go, to proceed, to travel."
+        },
+        {
+            "word": "पथ",
+            "eid": "23112",
+            "pagenum": 499,
+            "content": "पथ¦ m. (-थः) A road. .E. पथ to go, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पथ",
+            "eid": "22584",
+            "pagenum": 445,
+            "content": "पथ¦ पथति 1. <i>a.</i> To go, to travel. (कि, इ) पन्थति पन्थयति 1. 10. <i>a.</i> <i>Idem.</i> पाथयति 10. <i>a.</i> To throw, to cast; despatch, to send."
+        },
+        {
+            "word": "पथ",
+            "eid": "22585",
+            "pagenum": 445,
+            "content": "पथ¦ (थः) 1. <i>m.</i> A road."
+        }
     ]
 }

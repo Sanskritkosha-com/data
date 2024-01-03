@@ -117,5 +117,45 @@
             "pagenum": 1,
             "content": "<hom>2.</hom> अविषय¦ <lex>Adj.</lex> <i>kein Object habend</i> <ls>Ind. St. 9,165</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविषय",
+            "eid": "5678",
+            "pagenum": 77,
+            "content": "°<i>aviṣaya</i>¦ Adj. beyond sphere of, <ls>Harṣac.</ls> 197, 18. {part=,seq=5754,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अविषय",
+            "eid": "4100",
+            "pagenum": 70,
+            "content": "अविषय¦ mfn. (-यः-या-यं) 1. Unperceived, invisible. 2. Insensible, disregarding objects of sense. m. (-यः) 1. Disappearance, absence. 2. Disregard of objects of sense. E. अ neg. विषय an object of sense."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविषय",
+            "eid": "4394",
+            "pagenum": 94,
+            "content": "<b>a-viṣaya-</b>¦ <ab>m.</ab> chose qui est hors du domaine <lbinfo n='5'/> de ; chose impossible ou interdite ; chose impropre pour (<ab>gén.</ab>) ; <ab>a.</ab> situé hors du domaine de ; sans objet.  <P><i>°manas-</i> <ab>a.</ab> dont l'esprit n'est pas dirigé vers le monde des sens."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविषय",
+            "eid": "4102",
+            "pagenum": 86,
+            "content": "अविषय¦ mfn. (-यः-या-यं) .²1 Unperceived, invisible. .²2 Insensible, disregarding objects of sense. m. (-यः) .²1 Disappearance, absence. .²2 Disregard of objects of sense. .E. अ neg. विषय an object of sense."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविषय",
+            "eid": "3504",
+            "pagenum": 67,
+            "content": "अ-विषय¦ (यः-या-यं) <i>a.</i> Immaterial, imperceptible, indifferent to."
+        }
     ]
 }

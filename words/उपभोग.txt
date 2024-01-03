@@ -152,5 +152,45 @@
             "pagenum": 7,
             "content": "उपभोग¦ <lex>m.</lex> <i>wiederholter Genuss desselben Gegenstandes</i> neben भोग <i>einmaliger Genuss</i> <ls>HEM.</ls> <ls>YOGAŚ. 3, 4. 5.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपभोग",
+            "eid": "8598",
+            "pagenum": 118,
+            "content": "<i>upabhoga</i>¦ m. °Aufbrauchung (eines Pfandes), <ls>Kauṭ.</ls> 178, 7. {part=,seq=8713,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उपभोग",
+            "eid": "7428",
+            "pagenum": 128,
+            "content": "उपभोग¦ m. (-गः) 1. Pleasure, satisfaction. 2. Enjoyment, use. 3. Cohabitation. 4. Use, usufruct. E. उप excess, भुज् to eat, &c. affix घञ्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपभोग",
+            "eid": "6840",
+            "pagenum": 153,
+            "content": "<b>upa-bhoga-</b>¦ <ab>m.</ab> fait de jouir ; de manger, consommation, usage ; commerce charnel ; <i>-in-</i> <ab>a.</ab> qui jouit de ; <i>rant-</i> <ab>a.</ab> qui donne des jouissances.  <P><i>°kṣama-</i> <ab>a.</ab> propre à la jouissance."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उपभोग",
+            "eid": "7431",
+            "pagenum": 156,
+            "content": "उपभोग¦ m. (-गः) .²1 Pleasure, satisfaction. .²2 Enjoyment, use. .²3 Cohabitation. .²4 Use, usufruct. .E. उप excess, भुज् to eat, &c. affix घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उपभोग",
+            "eid": "6837",
+            "pagenum": 128,
+            "content": "उप-भोग¦ (गः) 1. <i>m.</i> Pleasure."
+        }
     ]
 }

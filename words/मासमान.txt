@@ -31,5 +31,29 @@
             "pagenum": 5,
             "content": "मासमान¦ (1. मास + 2. मान) <lex>m.</lex> <i>Jahr</i> <ls>TRIK. 1, 1, 110.</ls> <ls>HĀR. 28.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मासमान",
+            "eid": "31425",
+            "pagenum": 566,
+            "content": "मासमान¦ m. (-नः) A year. E. मास a month, and मान measure."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मासमान",
+            "eid": "30325",
+            "pagenum": 660,
+            "content": "मासमान¦ m. (-नः) A year. .E. मास a month, and मान measure."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मासमान",
+            "eid": "29862",
+            "pagenum": 592,
+            "content": "मास-मान¦ (नः) 1. <i>m.</i> A year."
+        }
     ]
 }

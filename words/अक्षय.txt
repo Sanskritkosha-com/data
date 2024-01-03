@@ -143,5 +143,51 @@
             "pagenum": 7,
             "content": "अक्षय¦ I. 1. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्षय",
+            "eid": "242",
+            "pagenum": 4,
+            "content": "<i>akṣaya</i>¦ 2. f. b) N. pr. einer Yoginī, Hemādri 2, a, 93, 18. {part=,seq=250,type=,n=1}"
+        },
+        {
+            "word": "अक्षय",
+            "eid": "242.1",
+            "pagenum": 4,
+            "content": "<i>Akṣaya</i>¦ m. N. pr. eines Berges, <ls>Hariv. 2</ls>, 98, 15. {part=,seq=251,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अक्षय",
+            "eid": "148",
+            "pagenum": 3,
+            "content": "अक्षय¦ mfn. (-यः-या-यं) Durable, permanent, imperishable. f. (-या) The seventh day of a lunar month, which happens on a Sunday or Monday, and the fourth, which falls on a Wednesday. E. अ neg. and क्ष to waste or decay, aff. अच्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अक्षय",
+            "eid": "111",
+            "pagenum": 3,
+            "content": "<b>a-kṣaya-</b>¦ <ab>a.</ab> impérissable ; <i>-tva-</i> <ab>nt.</ab> fait d'être impérissable."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक्षय",
+            "eid": "149",
+            "pagenum": 4,
+            "content": "अक्षय¦ mfn. (-यः-या-यं) Durable, permanent, imperishable. f. (-या) The seventh day of a lunar month, which happens on a Sunday or Monday, and the fourth, which falls on a Wednesday. .E. अ neg. and क्षै to waste or decay, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक्षय",
+            "eid": "115",
+            "pagenum": 3,
+            "content": "अ-क्षय¦ (यः-या-यं) <i>a.</i> Durable."
+        }
     ]
 }

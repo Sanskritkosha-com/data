@@ -59,5 +59,45 @@
             "pagenum": 5,
             "content": "पाठ्य¦ <i>zu recitiren</i>: जग्राह पाठ्यमृग्वेदात्सामभ्यो गीतमेव च <ls>Verz. d. Oxf. H. 265,b,24.</ls> <ls>R. 7, 94, 2.</ls> <ls>SĀH. D. 542.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पाठ्य",
+            "eid": "18253",
+            "pagenum": 252,
+            "content": "<i>pāṭhya</i>¦ <ls>Daśar.</ls> II, 64<sup>a</sup> doch wohl °Subst. n. [die im Drama zu verwendende] Sprache. {part=,seq=18517,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पाठ्य",
+            "eid": "24248",
+            "pagenum": 439,
+            "content": "पाठ्य¦ mfn. (-ठ्यः-ठ्या-ठ्यं) To be read or studied. E. पठ् to read, ण्यत् aff.; also पठनीय, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पाठ्य",
+            "eid": "13617",
+            "pagenum": 426,
+            "content": "<b>pāṭhya-</b>¦ <ab>a. v.</ab> qui doit être récité ; qui a besoin <lbinfo n='4'/> d'être instruit."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाठ्य",
+            "eid": "24193",
+            "pagenum": 523,
+            "content": "पाठ्य¦ mfn. (-ट्यः-ट्या-ट्यं) To be read or studied. .E. पठ to read, ण्यत् aff.; also पठणीय, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाठ्य",
+            "eid": "23667",
+            "pagenum": 467,
+            "content": "पाठ्य¦ (ठ्यः-ठ्या-ठ्यं) <i>a.</i> That should be read."
+        }
     ]
 }

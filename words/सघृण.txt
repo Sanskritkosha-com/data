@@ -51,5 +51,21 @@
             "pagenum": 7,
             "content": "सघृण¦ VII. <i>zartfühlend</i> <ls>JĀTAKAM. 31,78</ls>. <i>Scrupel empfindend</i> <ls n='JĀTAKAM.'>11,18</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सघृण",
+            "eid": "25596",
+            "pagenum": 351,
+            "content": "<i>saghṛṇa</i>¦ zartfühlend, <ls>Jātakam.</ls> 31, 78; Skrupel empfindend, 11, 18. {part=,seq=25941,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सघृण",
+            "eid": "21012",
+            "pagenum": 763,
+            "content": "<b>sa-ghṛṇa-</b>¦ <ab>a.</ab> compatissant."
+        }
     ]
 }

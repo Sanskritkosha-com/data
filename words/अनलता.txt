@@ -19,5 +19,19 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> <hom>2.</hom> अनलता¦ 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनलता",
+            "eid": "2201",
+            "pagenum": 30,
+            "content": "1. <i>analatā</i>¦ f. Nom. abstr. von <i>anala</i> (Feuer), <ls>Naiṣ.</ls> 5, 63. {part=,seq=2235,type=,n=2}"
+        },
+        {
+            "word": "अनलता",
+            "eid": "2202",
+            "pagenum": 30,
+            "content": "2. <i>analatā</i>¦ f. Nom. abstr. von 2. <i>anala</i>, ebenda. {part=,seq=2236,type=,n=2}"
+        }
     ]
 }

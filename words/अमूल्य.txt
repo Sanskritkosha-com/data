@@ -55,5 +55,37 @@
             "pagenum": 4,
             "content": "अमूल्य¦ <lex>Adj.</lex> <i>unschätzbar</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अमूल्य",
+            "eid": "4472",
+            "pagenum": 61,
+            "content": "<i>amūlya</i>¦ Adj. unschätzbar, <ls>Vikramāṅkac.</ls> 8, 8. {part=,seq=4529,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अमूल्य",
+            "eid": "2902",
+            "pagenum": 51,
+            "content": "अमूल्य¦ mfn. (-ल्यः-ल्या-ल्यं) Invaluable, not to be purchased. E. अ neg. मूल्य price."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अमूल्य",
+            "eid": "2904",
+            "pagenum": 61,
+            "content": "अमूल्य¦ mfn. (-ल्यः-ल्या-ल्यं) Invaluable, not to be purchased. .E. अ neg. मूल्य price."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अमूल्य",
+            "eid": "2405",
+            "pagenum": 48,
+            "content": "अ-मूल्य¦ (ल्यः-ल्या-ल्यं) <i>a.</i> Invaluable."
+        }
     ]
 }

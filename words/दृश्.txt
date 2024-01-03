@@ -282,5 +282,57 @@
             "pagenum": 7,
             "content": "दृश्¦ <lex>n.</lex> <i>Auge</i> <ls>BHĀG. P. 4, 4, 24.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दृश्",
+            "eid": "15611",
+            "pagenum": 215,
+            "content": "<i>[dṛś]</i>¦ , <i>adarśat</i>, <ls>Śrīk.</ls> XX, 60 [<i>luṅy aṅi guṇe ca kṛte rūpam</i>]; XXV, 50 [<i>dṛśo laṅi guṇaḥ</i>]. {part=,seq=15852,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दृश्",
+            "eid": "19531",
+            "pagenum": 350,
+            "content": "दृश्¦ mfn. (दृक्) 1. A seer, a looker. 2. Wise, possessed of knowledge f. (-दृक्) 1. The eye. 2. Sight, seeing. E. दृश् to see, affix क्विप्ः also दृशा and दृशि, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "दृश्",
+            "eid": "10897",
+            "pagenum": 321,
+            "content": "<b>1 DṚŚ-</b>¦ (système du présent suppléé par <i>PAŚ-</i>) ; <i>dadarśa</i> <i>dadṛśe ; adarśat adrākṣīt</i> (<i>adīdṛśat adarśi</i>) ; <i>drakṣyati -te ; dṛśyate</i> (<i>-ti</i>) <i>darśayati -te didṛkṣati -te</i> <i>darīdṛśyate ; dṛṣṭadraṣṭum</i><i> dṛṣṭvā °dṛśya</i> -- voir, regarder, contempler, <lbinfo n='7'/> considérer ; visiter ; surveiller, soigner <lbinfo n='4'/> ; percevoir, apprendre, comprendre ; observer, examiner, remarquer, noter ; voir par divination, par intuition, avoir une révélation <lbinfo n='6'/> (d'un hymne, d'un rite, etc., <ab>acc.</ab>) ; <ab>pass.</ab> être vu ou visible, apparaître, se manifester, <lbinfo n='6'/> se révéler ; s'avérer comme, sembler être (<i>iva</i>) ; <ab>impers.</ab> on voit, il existe ; <ab>caus.</ab> faire voir, montrer, faire observer <ab>qqch.</ab> (<ab>acc.</ab>) à <ab>qq'un</ab> (<ab>acc.</ab> <ab>dat.</ab>) ; démontrer, prouver ; exposer, étaler, expliquer, élucider, interpréter <lbinfo n='6'/> ; produire de l'argent, payer ; produire un témoin ; <ab>dés.</ab> avoir envie de voir, avoir la nostalgie de (<ab>acc.</ab>) ; <ab>int.</ab> regarder fixement, avidement."
+        },
+        {
+            "word": "दृश्",
+            "eid": "10898",
+            "pagenum": 321,
+            "content": "<b>2 dṛś-</b>¦ (<ab>iic.</ab> <i>dṛk° dṛg° ;</i> <ab>nom.</ab> <i>dṛk</i>) <ab>ag.</ab> <ab>ifc.</ab> qui voit, regarde, observe, discerne, comprend, <lbinfo n='5'/> sait ; <ab>f.</ab> vue, vision ; regard, œil ; aspect, apparence ; point de vue, notion, doctrine.  <P><i>dṛk-patha-</i> <ab>m.</ab> champ de vision ; <i>-am i-</i> ou <i>-aṃ gam-</i> devenir visible, apparaître.  <P><i>°saṃgama-</i> <ab>m.</ab> fait de rencontrer et d'apercevoir. <lbinfo n='6'/>  <P><i>dṛg-rudh-</i> <ab>a.</ab> obstruant la vue, empêchant de voir."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दृश्",
+            "eid": "19545",
+            "pagenum": 421,
+            "content": "दृश्¦ mfn. (-दृक्) .²1 A seer, a looker. .²2 Wise, possessed of knowledge. f. (-दृक्) .²1 The eye. .²2 Sight, seeing. .E. दृश to see, affix क्विप्; also दृशा and दृशि, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दृश्",
+            "eid": "19020",
+            "pagenum": 374,
+            "content": "दृश्¦ (औ, इर्) पश्यति 1. <i>a.</i> To see. With उत् to observe; to foresee, to anticipate; to doubt."
+        },
+        {
+            "word": "दृश्",
+            "eid": "19021",
+            "pagenum": 374,
+            "content": "दृश्¦ (दृक्) 5. <i>f.</i> The eye; the sight. <i>a.</i> Seeing, wise."
+        }
     ]
 }

@@ -49,5 +49,51 @@
             "pagenum": 7,
             "content": "जालिन्¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>JĀTAKAM. 9</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "जालिन्",
+            "eid": "13889",
+            "pagenum": 191,
+            "content": "°<i>jālin</i>¦ Adj. disguised as..., <ls>Harṣac.</ls> 153, 15; 203, 10. {part=,seq=14111,type=°,n=1}"
+        },
+        {
+            "word": "जालिन्",
+            "eid": "13889.1",
+            "pagenum": 191,
+            "content": "<i>Jālin</i>¦ m. N. pr. eines Mannes, <ls>Jātakam.</ls> 9. {part=,seq=14112,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "जालिन्",
+            "eid": "16246",
+            "pagenum": 289,
+            "content": "जालिन्¦ mfn. (-ली-लिनी-लि) 1. Having a net. 2. Having a window. Illusory, deceptive. m. (-ली) 1. A fisherman. 2. a hunter using nets. 3. A juggler. f. (-नी) A painting room. E. जाल a net, &c इनि aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "जालिन्",
+            "eid": "9614",
+            "pagenum": 263,
+            "content": "<b>jālin-</b>¦ <ab>a.</ab> déguisé en (<ab>ifc.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जालिन्",
+            "eid": "16275",
+            "pagenum": 349,
+            "content": "जालिन्¦ mfn. (-ली-लिनी-लि) .²1 Having a net. .²2 Having a window. .²3 Illusory, deceptive. m. (-ली) .²1 A fisherman. .²2 A hunter using nets. .²3 A juggler. f. (-नी) A painting room. .E. जाल a net, &c. इनि aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जालिन्",
+            "eid": "15742",
+            "pagenum": 307,
+            "content": "जालिन्¦ (ली-लिनी-लि) <i>a.</i> Having a net lattice; or illusory, deceptive. <i>m.</i> A fisherman; hunter; juggler. <i>f.</i> A painting-room."
+        }
     ]
 }

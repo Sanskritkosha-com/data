@@ -94,5 +94,45 @@
             "pagenum": 2,
             "content": "छात¦ s. u. छा ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "छात",
+            "eid": "13548",
+            "pagenum": 186,
+            "content": "<i>chāta</i>¦ <ls>Harṣac.</ls> 36, 4; <ls>Śrīk.</ls> 25, 137; Amarakośa II, 6, 44 ( v.l. <i>śāta)</i>; Haravijaya 18, 66; 27, 12; Pischel, <ls>ZDMG</ls> 51, 591; 52, 96. [Z.] Auch Haravijaya 18, 69. Vgl. <ls>Hem. Deś.</ls> p. 124, 7 ff., wo <ls>Śiś.</ls> 5, 23 zitiert wird. [Z.] {part=,seq=13762,type=,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "छात",
+            "eid": "15577",
+            "pagenum": 276,
+            "content": "छात¦ mfn. (-तः-ता-तं) 1. Cut, divided. 2. Thin, feeble, emaciated. E. छो to cut, affix क्त; also छित."
+        }
+    ],
+    "STC": [
+        {
+            "word": "छात",
+            "eid": "9404",
+            "pagenum": 255,
+            "content": "<b>chāta-</b>¦ (<b>CHĀ-</b> inus.) <ab>a. v.</ab> tranché, détruit."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "छात",
+            "eid": "15583",
+            "pagenum": 334,
+            "content": "छात¦ mfn. (-तः-ता-तं) .²1 Cut, divided. .²2 Thin, feeble, emaciated. .E. छो to cut, affix क्त; also छित."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "छात",
+            "eid": "15048",
+            "pagenum": 293,
+            "content": "छात¦ (तः-ता-तं) <i>a.</i> Cut, thin, feeble."
+        }
     ]
 }

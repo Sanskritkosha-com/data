@@ -137,5 +137,49 @@
             "pagenum": 5,
             "content": "उभ¦, उभौ st. द्वौ <ls>KATHĀS. 62, 172.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "उभ",
+            "eid": "7665",
+            "pagenum": 132,
+            "content": "उभ¦ r. 6th cl. (उभति) To fill; also उम्भ."
+        },
+        {
+            "word": "उभ",
+            "eid": "7666",
+            "pagenum": 132,
+            "content": "उभ¦ pron. m. and dual only, (उभौ) Both."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उभ",
+            "eid": "7197",
+            "pagenum": 160,
+            "content": "<b>ubha-</b>¦ <ab>pron.</ab> <ab>du.</ab> les deux, tous deux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उभ",
+            "eid": "7668",
+            "pagenum": 161,
+            "content": "उभ¦ r. 6th cl. (उभति) To fill; also उम्भ."
+        },
+        {
+            "word": "उभ",
+            "eid": "7669",
+            "pagenum": 161,
+            "content": "उभ¦ <i>pron.</i> m. <i>and dual only,</i> (उभौ) Both."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उभ",
+            "eid": "7083",
+            "pagenum": 132,
+            "content": "उभ¦ (भौ) <i>a.</i> Both."
+        }
     ]
 }

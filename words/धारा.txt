@@ -335,5 +335,41 @@
             "pagenum": 5,
             "content": "2. धारा¦ <div n='1'> 1) °तीर्थे धरणिपतयः कल्मषं क्षालयन्ति <ls>Spr. 4998.</ls> धाराग्र <lex>n.</lex> bei Pfeilen <ls>HALĀY. 2, 314.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "धारा",
+            "eid": "16143",
+            "pagenum": 223,
+            "content": "<i>Dhārā</i>¦ f. N. °einer Hetäre, <ls>Prabandh.</ls> 79, 5 v.u. {part=,seq=16387,type=,n=1}"
+        },
+        {
+            "word": "धारा",
+            "eid": "16143.1",
+            "pagenum": 223,
+            "content": "<i>dhārā</i>¦ ° = <i>prabhāviśeṣa</i>, <ls>Śrīk.</ls> XVIII, 28. {part=,seq=16388,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "धारा",
+            "eid": "11175",
+            "pagenum": 341,
+            "content": "<b>1 dhārā-</b>¦ <ab>f.</ab> flot, courant, coulée, cours d'eau, torrent, eau courante, averse (<ab>fig.</ab> aussi) ; <ab>pl.</ab> allures du cheval ; <i>vasor dhārā</i> (flot de biens) <ab>n.</ab> d'une libation particulière ; femme d'Agni ; autre nom de la ville de Mālava ; <i>paramā dhārā</i> allure la plus rapide.  <P><i>°kadamba-</i> <ab>m.</ab> sorte d'arbre, Nauclea cordifolia. <lbinfo n='7'/>  <P><i>°gṛha-</i> <ab>nt.</ab> salle de bains munie d'eau courante <lbinfo n='5'/> ou de douches.  <P><i>°dhara-</i> (porteur d'averses) <ab>m.</ab> nuage ; <i>°dharāgama-</i> saison des pluies.  <P><i>°nipāta-</i> <i>°pāta-</i> <ab>m.</ab> chute de pluie, averse.  <P><i>°yantra-</i> <ab>nt.</ab> fontaine, douche ; <i>°yantragṛha-</i> <lbinfo n='5'/> salle de bains munie de fontaines ou de douches.  <P><i>°varṣa-</i> <ab>m.</ab> <ab>nt.</ab> averse pluie torrentielle.  <P><i>°vāhikā-</i> <ab>f.</ab> flot continu (<ab>fig.</ab> ; <i>°vāhin-</i> <ab>a.</ab> continu, ininterrompu.  <P><i>dhārāśru-</i> <ab>nt.</ab> torrent de larmes.  <P><i>dhārāsāra-</i> <ab>m.</ab> = <i>°nipāta-.</i>  <P><i>dhārormi-</i> <ab>m.</ab> <ab>f.</ab> vague qui déferle, roulis."
+        },
+        {
+            "word": "धारा",
+            "eid": "11176",
+            "pagenum": 341,
+            "content": "<b>2 dhārā-</b>¦ <ab>f.</ab> bord, marge ; tranchant (d'une arme), lame ; jante de roue ; <ab>fig.</ab> extrémité, le plus haut degré, comble, point culminant.  <P><i>°jala-</i> <ab>nt.</ab> sang qui s'égoutte du tranchant d'une épée.  <P><i>dhārādhirūḍha-</i> <ab>a. v.</ab> qui a atteint le comble.  <P><i>dhārāntara-cara-</i> (qui se meut parmi les épées) <ab>a.</ab> audacieux, téméraire, insolent."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "धारा",
+            "eid": "1441",
+            "pagenum": 1,
+            "content": "<b>Dhārā</b>¦ denotes the ‘edge’ of a weapon,<sup>1</sup> as of an axe (<i>svadhiti</i>),<sup>2</sup> or of a razor (<i>kṣura</i>).<sup>3</sup> See also <b>Asi.</b> <F>1) Rv. vi. 3, 5; 47, 10. <i>Cf.</i> viii. 73, 9; Taittirīya Āraṇyaka, iv. 38, 1, for metaphorical applications.</F> <F>2) Kauśika Sūtra, 44.</F> <F>3) Bṛhadāraṇyaka Upaniṣad, iii. 3, 2.</F>"
+        }
     ]
 }

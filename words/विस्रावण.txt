@@ -47,5 +47,37 @@
             "pagenum": 6,
             "content": "विस्रावण¦ (vom caus. von स्रु mit वि) <lex>n.</lex> <i>das Blutlassen</i> <ls>SUŚR. 1, 26, 16. 2, 3, 15. 250, 13.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "विस्रावण",
+            "eid": "24292",
+            "pagenum": 335,
+            "content": "<i>visrāvaṇa</i>¦ n. 'Abzapfung' (° = eine betrügerische Manipulation des Goldarbeiters), <ls>Kauṭ.</ls> 90, 3 v.u. {part=,seq=24626,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विस्रावण",
+            "eid": "37937",
+            "pagenum": 679,
+            "content": "विस्रावण¦ n. (-णं) 1. Causing to flow. 2. Bleeding. 3. Distilling. 4. A spirit distilled from molasses. E. वि, स्रु to drop, causal v., ल्युट् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विस्रावण",
+            "eid": "36244",
+            "pagenum": 795,
+            "content": "विस्रावण¦ n. (-णं) .²1 Causing to flow. .²2 Bleeding. .²3 Distilling. .²4 A spirit distilled from molasses. .E. वि before स्रु to drop, causal v., ल्युट् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विस्रावण",
+            "eid": "35855",
+            "pagenum": 713,
+            "content": "वि-स्रावण¦ (णं) 1. <i>m.</i> Making flow; distilling; bleeding; rum."
+        }
     ]
 }

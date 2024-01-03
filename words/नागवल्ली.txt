@@ -42,5 +42,45 @@
             "pagenum": 533,
             "content": "¦ <ab>N.</ab> of <ab>wk.</ab> (also -कल्प, <lex type='phw'>m.</lex>)<info phwchild='105123.1'/><info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "नागवल्ली",
+            "eid": "16548",
+            "pagenum": 229,
+            "content": "<i>nāgavallī</i>¦ ° = <i>sarpaśreṇī</i>, <ls>S</ls> I, 96, 1. {part=,seq=16799,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "नागवल्ली",
+            "eid": "21325",
+            "pagenum": 383,
+            "content": "नागवल्ली¦ f. (-ल्ली) The betel plant, (Peper betel.) E. नाग the infernal Nāga, and वल्ली a creeper; the creeper of the lower regions; also with कन् added नागवल्लिका ।"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "नागवल्ली",
+            "eid": "142",
+            "pagenum": 567,
+            "content": "<i>nāgavallī</i>¦ <div n='P'/>(1) <bot>PIPER BETLE LINN.</bot> (Avk; Bpn, p. 272; Dgv, nr. 265; Dutt; DWH 3, p. 183-192; MW; Nadk. 1, nr. 1925; PW; Vśs; Watt CP, p. 891-896) = <bot>CHAVICA BETLE MIQ.</bot> (Avk; Dutt; Nadk. 1, nr. 1925; Vśs); see <bot>R.</bot> Schmidt, Beiträge zur Flora Sanscritica IV, Arekanusz und Betelpfeffer, ZDMG 67, 1913, p. 653-659; <div n='P'/>(2) <bot>MUSSAENDA FRONDOSA LINN.</bot> (Avk; DWH 2, p. 202-204; Nadk. 1, nr. 1671) = <bot>M. FLAVESCENS BUCH.</bot>-<bot>HAM.</bot> (Nadk. 1, nr. 1671); <div n='P'/>(3) <bot>M. FRONDOSA</bot> (V 7, p. 91); the Index Kewensis distinguishes three species: a) <bot>M. FRONDOSA LINN.</bot>, b) <bot>M. PUBESCENS AIT.</bot> = <bot>M. FRONDOSA LOUR.</bot>, c) <bot>M. ROXBURGHII HOOK. F.</bot> = <bot>M. FRONDOSA ROXB.</bot> = <bot>M. FRONDOSA WALL.</bot>; <div n='P'/>(4) <bot>M. GLABRATA HUTCHINSON EX GAMBLE</bot> (KB 2, p. 1270-1271; V 7, p. 91) = <bot>M. FRONDOSA VAR. GLABRATA HOOK.</bot><bot>F.</bot> (KB 2, p. 12701271); see Hooker 3, p. 89-90."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नागवल्ली",
+            "eid": "21339",
+            "pagenum": 459,
+            "content": "नागवल्ली¦ f. (-ल्ली) The betel plant, (<bot>Piper betel</bot>.) .E. नाग the infernal <i>Nāga,</i> and वल्ली a creeper; the creeper of the lower regions; also with कन् added नागवल्लिका."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नागवल्ली",
+            "eid": "20824",
+            "pagenum": 410,
+            "content": "नाग-वल्ली¦ (ल्ली) 3. <i>f. Idem.</i>"
+        }
     ]
 }

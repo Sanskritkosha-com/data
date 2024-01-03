@@ -168,5 +168,45 @@
             "pagenum": 7,
             "content": "पीडा¦ <div n='1'> 1) (Nachträge) अपीडया <i>nicht ungern, gern</i> auch <ls>MBH. 12, 3250.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पीडा",
+            "eid": "18577",
+            "pagenum": 256,
+            "content": "<i>pīḍā</i>¦ °eine Art Coitus, E 356 (K). {part=,seq=18843,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पीडा",
+            "eid": "24993",
+            "pagenum": 453,
+            "content": "पीडा¦ f. (-डा) 1. Pain, anguish, suffering. 2. Compassion, charity, pity. 3. Devastation, laying waste. 4. A chaplet, a garland for the head. 5. The Saral tree, (Pinus longifolia.) 6. Infraction, violation. 7. Damage, injury. E. पीड् to pain, अङ् and टाप् affs."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पीडा",
+            "eid": "13830",
+            "pagenum": 435,
+            "content": "<b>pīḍā-</b>¦ <ab>f.</ab> peine, ennui, tourment ; dommage ; <i>-ayā</i> avec peine, à contre-cœur.  <P><i>°bhāj-</i> <ab>a.</ab> écrasé, meurtri."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पीडा",
+            "eid": "24865",
+            "pagenum": 538,
+            "content": "पीडा¦ f. (-डा) .²1 Pain, anguish, suffering. .²2 Compassion, charity, pity. .²3 Devastation, laying waste. .²4 A chaplet, a garland for the head. .²5 The <i>Saral</i> tree, (<bot>Pinus longifolia</bot>.) .E. पीड to pain, अङ् and टाप् affs."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पीडा",
+            "eid": "24346",
+            "pagenum": 481,
+            "content": "पीडा¦ (डा) 1. <i>f.</i> Pain; pity; devastation; chaplet; Pinus longifolia."
+        }
     ]
 }

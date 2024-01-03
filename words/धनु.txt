@@ -235,5 +235,51 @@
             "pagenum": 5,
             "content": "2. धनु¦ Z. 2 vom Schluss füge nach <i>Gestade</i> bei: als Bild für ein Stopfmittel."
         }
+    ],
+    "SHS": [
+        {
+            "word": "धनु",
+            "eid": "20328",
+            "pagenum": 364,
+            "content": "धनु¦ m. (-नुः) 1. A bow. 2. The sign Sagittarius. 3. A tree: see पियाल. 4. A measure of four cubits. E. धन here meaning to cast as an arrow, Unādi affix उन् also धनुस्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "धनु",
+            "eid": "11114",
+            "pagenum": 336,
+            "content": "<b>dhanu-</b>¦ <ab>m.</ab> <i>-ū-</i> <ab>f.</ab> = <i>dhanus-.</i>  <P><i>dhanv-antara-</i> <ab>nt.</ab> étendue ou distance d'un dhanu."
+        },
+        {
+            "word": "धनु",
+            "eid": "11115",
+            "pagenum": 336,
+            "content": "<b>dhanuḥ°</b>¦ <i>dhanur° dhanuṣ°</i> <ab>iic.</ab> pour <i>dhanus- ; dhanuṣka-</i> <ab>nt.</ab> <ab>ifc.</ab> pour <i>dhanus-.</i>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "धनु",
+            "eid": "1426",
+            "pagenum": 1,
+            "content": "<b>Dhanu</b>¦ (fem.), ‘sandbank,’ occurs several times in the Rigveda,<sup>1</sup> but only metaphorically of the clouds in the atmosphere. Dhanū is found in the Atharvaveda,<sup>2</sup> where it seems to denote a sandbag used to prevent bleeding.<sup>3</sup> <i>Cf.</i> <b>Dhanvan.</b> <F>1) i. 33, 4; 144, 5; viii. 3, 19; x. 4, 3; 27, 17.</F> <F>2) i. 17, 4.</F> <F>3) Weber, <i>Indische Studien,</i> 4, 411; Whitney, Translation of the Atharvaveda, 18; Bloomfield, <i>Hymns of the</i> <i>Atharvaveda,</i> 259, 260.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "धनु",
+            "eid": "20342",
+            "pagenum": 437,
+            "content": "धनु¦ m. (-नुः) .²1 A bow. .²2 The sign <i>Sagittarius.</i> .²3 A tree: see प्रियाल. .²4 A measure of four cubits. .E. धन here meaning to cast as an arrow, Uṇādi affix उ; also धनुस्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "धनु",
+            "eid": "19830",
+            "pagenum": 390,
+            "content": "धनु¦ (नुः) 2. <i>m.</i> A bow; <i>Sagittarius;</i> measure of four cubits; a tree."
+        }
     ]
 }

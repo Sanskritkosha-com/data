@@ -270,5 +270,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> स्नु¦ mit परि <i>träufeln, mehren</i> <ls>KIR. 3,7</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "स्नु",
+            "eid": "27165",
+            "pagenum": 372,
+            "content": "<i>[snu</i>¦ mit <i>°upa], upasnuta</i> flüssig gemacht, erweicht, <ls>Kir.</ls> I, 18. — Mit <i>pari</i> träufeln, mehren, <ls>Kir.</ls> 3, 7. {part=,seq=27528,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "स्नु",
+            "eid": "45739",
+            "pagenum": 815,
+            "content": "स्नु¦ mn. (-स्नुः-स्नु) 1. Table-land, the level summit or edge of a mountain. 2. Top, surface in general; this word has no forms for the first five cases; according to Vopadeva it is an optional substitute for सानु. f. (-स्नुः) A sinew, tendon, muscle. E. ष्णु to trickle, (the water or snow from it,) डु aff.; or ष्णा to bathe, कु Unādi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "स्नु",
+            "eid": "24095",
+            "pagenum": 871,
+            "content": "<b>1 SNU-</b>¦ <i>-snauti ; snuta-</i> -- laisser couler, donner du lait ; <ab>a. v.</ab> coulant du sein (dit du lait)."
+        },
+        {
+            "word": "स्नु",
+            "eid": "24096",
+            "pagenum": 871,
+            "content": "<b>2 snu-</b>¦ <ab>f.</ab> = <i>snāyu-,</i> dans l'<ab>abl.</ab>' <i>snutas</i> d'un tendon, d'un muscle."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्नु",
+            "eid": "43265",
+            "pagenum": 955,
+            "content": "स्नु¦ mn. (-स्नुः-स्नु) Table land, the level summit or edge of a mountain. .E. ष्णु to trickle, (the water or snow from it,) डु aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्नु",
+            "eid": "43061",
+            "pagenum": 878,
+            "content": "स्नु¦ (स्नुः-स्नु) 2. <i>m. n.</i> Table-land."
+        }
     ]
 }

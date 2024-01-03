@@ -133,5 +133,27 @@
             "pagenum": 7,
             "content": "वर्ति¦ VI. = गैरिकादिगुलिका und मार्ग <ls><ab>ebend.</ab> 12,30</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वर्ति",
+            "eid": "23269",
+            "pagenum": 321,
+            "content": "<i>varti</i>¦ = <i>gairikādigulikā</i> und <i>mārga</i>, Haravijaya 12, 30. {part=,seq=23593,type=,n=1}"
+        },
+        {
+            "word": "वर्ति",
+            "eid": "23269.1",
+            "pagenum": 321,
+            "content": "<i>varti</i>¦ f. ° = <i>srotas</i>, <ls>H</ls> XLIV, 5. {part=,seq=23594,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वर्ति",
+            "eid": "17937",
+            "pagenum": 630,
+            "content": "<b>varti-</b>¦ <i>-ī-</i> <ab>f.</ab> collyre, onguent ; mèche (d'une lampe), mèche magique."
+        }
     ]
 }

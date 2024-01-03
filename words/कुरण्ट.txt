@@ -53,5 +53,35 @@
             "pagenum": 7,
             "content": "कुरण्ट¦ II. <ls>R. ed. Bomb. 4,1,80</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुरण्ट",
+            "eid": "10903",
+            "pagenum": 150,
+            "content": "<i>kuraṇṭa</i>¦ , <ls>R. ed. Bomb.</ls> 4, 1, 80. {part=,seq=11068,type=,n=1}"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "कुरण्ट",
+            "eid": "304",
+            "pagenum": 434,
+            "content": "kuraṇṭa(ka)¦ (see also the additions on p. 460) <div n='P'/>(1) Barleria prionitis Linn. (Kai.Nigh., oṣadhivarga 1049b; Nadk. 1, nr. 312A; V. 2, p. 20; WIRM 1, p. 158; DGV 5, p. 293-295; KB 3, p. 1877-1879; DWH 3, p. 43-44); <div n='P'/>(2) Celosia argentea Linn. (Bt.; CD, p. 84)."
+        },
+        {
+            "word": "कुरण्ट",
+            "eid": "444",
+            "pagenum": 460,
+            "content": "kuraṇṭa(ka)¦ <div n='P'/>(1) Add the following references: Bpn, puṣpavarga 51-52; Chopra; Dha. nigh., ed. P.V. Sharma, 1, 268-269; Gul.; Dutt; HK: kuruṇṭaka; Forbes Watson, p. 329: kuruṇṭaka; Na 2, nr. 390; Rā.nigh., ed. Tripāṭhī, karavīrādivarga 132. <div n='P'/>(2) Add the following references: VG; see DGV 5, p. 121: kuruṇṭikā, different from kuraṇṭa, is C. argentea Linn. <div n='P'/>Add the following identifications: <div n='P'/>(3) Marsilea quadrifolia Linn. (MW; see WIRM 6, p. 306 on M. minuta Linn. and M. quadrifolia Linn.); <div n='P'/>(4) = sitivāra (Vśs): see śitivāraka; <div n='P'/>(5) = kuṭaja (Vśs)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुरण्ट",
+            "eid": "8118",
+            "pagenum": 199,
+            "content": "<b>kuraṇṭa-</b>¦ <ab>m.</ab> amarante jaune."
+        }
     ]
 }

@@ -45,5 +45,21 @@
             "pagenum": 7,
             "content": "अशम¦ <lex>m.</lex> <i>Unruhe</i> <ls>BHAG. 14,12</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अशम",
+            "eid": "5799",
+            "pagenum": 79,
+            "content": "<i>aśama</i>¦ m. Unruhe, <ls>Bhag.</ls> 14, 12. {part=,seq=5876,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अशम",
+            "eid": "4494",
+            "pagenum": 96,
+            "content": "<b>a-śama-</b>¦ <ab>m.</ab> absence de repos."
+        }
     ]
 }

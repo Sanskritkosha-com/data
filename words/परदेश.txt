@@ -53,5 +53,37 @@
             "pagenum": 5,
             "content": "परदेश¦ <i>ein anderer Ort</i> <ls>VṚDDHA-CĀṆ. 15, 15.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "परदेश",
+            "eid": "17786",
+            "pagenum": 245,
+            "content": "<i>paradeśa</i>¦ °aus einem anderen Lande stammend, <ls>S</ls> I, 385, 1. {part=,seq=18045,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "परदेश",
+            "eid": "23261",
+            "pagenum": 421,
+            "content": "परदेश¦ m. (-शः) A foreign country. E. पर, and द्रेश place."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "परदेश",
+            "eid": "23275",
+            "pagenum": 503,
+            "content": "परदेश¦ m. (-शः) A foreign country. .E. पर, and देश place."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "परदेश",
+            "eid": "22748",
+            "pagenum": 449,
+            "content": "पर-देश¦ (शः) 1. <i>m.</i> Foreign land."
+        }
     ]
 }

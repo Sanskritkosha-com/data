@@ -243,5 +243,61 @@
             "pagenum": 3,
             "content": "5. दी¦ (= 4. दी) <lex>f.</lex> <i>Vernichtung, Untergang</i>; दीद <i>Untergang bereitend</i> <ls>WILS.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दी",
+            "eid": "15402",
+            "pagenum": 212,
+            "content": "*<i>dī</i>¦ (<i>kṣaye</i>) °Parasm. <ls>Yudh.</ls> 3, 40 (<i>dyantaṃ khaṇḍayantam</i>). {part=,seq=15642,type=*,n=1}"
+        },
+        {
+            "word": "दी",
+            "eid": "15402.1",
+            "pagenum": 212,
+            "content": "*<i>dī</i>¦ f. Vernichtung, <ls>H</ls> 43, 361. {part=,seq=15643,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दी",
+            "eid": "19034",
+            "pagenum": 342,
+            "content": "दी¦ r. 4th cl. (ओ ङ) ओदीङ (दीयते) To waste, to diminish, to be reduced, to decay. दिवा० आ० अक० अनिट् ।"
+        },
+        {
+            "word": "दी",
+            "eid": "19035",
+            "pagenum": 342,
+            "content": "दी¦ f. (दीः) Wasting, destruction. E. दी to waste, क्विप् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दी",
+            "eid": "19049",
+            "pagenum": 410,
+            "content": "दी¦ r. 4th cl. (ओ ङ) ओदीङ (दीयते) To waste, to diminish, to be reduced, to decay."
+        },
+        {
+            "word": "दी",
+            "eid": "19050",
+            "pagenum": 410,
+            "content": "दी¦ f. (दीः) Wasting, destruction. .E. दी to waste, क्विप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दी",
+            "eid": "18521",
+            "pagenum": 365,
+            "content": "दी¦ (य, ङ, ओ) दीयते 4. <i>d.</i> To waste."
+        },
+        {
+            "word": "दी",
+            "eid": "18522",
+            "pagenum": 365,
+            "content": "दी¦ (दीः) 3. <i>f.</i> Wasting."
+        }
     ]
 }

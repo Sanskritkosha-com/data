@@ -112,5 +112,29 @@
             "pagenum": 7,
             "content": "आदिम¦ <ls>SŪRYAS. 1, 21.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "आदिम",
+            "eid": "5344",
+            "pagenum": 91,
+            "content": "आदिम¦ mfn. (-मः-मा-मं) First, prior. E. आदि and डिमच् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आदिम",
+            "eid": "5346",
+            "pagenum": 111,
+            "content": "आदिम¦ mfn. (-मः-मा-मं) First, prior. .E. आदि and डिमच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आदिम",
+            "eid": "4719",
+            "pagenum": 88,
+            "content": "आदिम¦ (मः-मा-मं) <i>a.</i> First."
+        }
     ]
 }

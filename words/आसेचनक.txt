@@ -52,5 +52,51 @@
             "pagenum": 7,
             "content": "आसेचनक¦ I. <ls>PĀRV. 588,7</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आसेचनक",
+            "eid": "7527",
+            "pagenum": 103,
+            "content": "<i>āsecanaka</i>¦ <ls>Harṣac.</ls> 30, 2; vgl. Haravijaya 27, 76 und Hīrasaubhāgyakāvya 9, 127. [Z.] — <ls>Pārv.</ls> 588, 7. {part=,seq=7632,type=,n=1}"
+        },
+        {
+            "word": "आसेचनक",
+            "eid": "7527.1",
+            "pagenum": 103,
+            "content": "<i>āsecanaka</i>¦ ° = <i>atṛptijanaka</i>, <ls>S</ls> I, 176, 3. {part=,seq=7633,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आसेचनक",
+            "eid": "6064",
+            "pagenum": 104,
+            "content": "आसेचनक¦ mfn. (-कः-का-कं) See the preceding. E. आङ् before षिच् to sprinkle, ल्युट् and कन् affs. also असेचनक."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आसेचनक",
+            "eid": "5799",
+            "pagenum": 128,
+            "content": "<b>ā-secanaka-</b>¦ <ab>a.</ab> qui ravit."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आसेचनक",
+            "eid": "6066",
+            "pagenum": 126,
+            "content": "आसेचनक¦ mfn. (-कः-का-कं) See the preceding. .E. आङ्, षिच to sprinkle, ल्युट् and कन् aff. also असेचनक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आसेचनक",
+            "eid": "5446",
+            "pagenum": 102,
+            "content": "आ-सेचनक¦ (कः-का-कं) <i>a. Idem.</i>"
+        }
     ]
 }

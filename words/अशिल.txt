@@ -15,5 +15,21 @@
             "pagenum": 1,
             "content": "अशिल¦ <lex>Adj.</lex> (<lex>f.</lex> आ) <i>steinlos</i> <ls>R. 5,74,15</ls>. <ls n='R.'>6,82,182</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अशिल",
+            "eid": "5829",
+            "pagenum": 80,
+            "content": "<i>aśila</i>¦ Adj. (f. <i>ā</i>) steinlos, <ls>R. 5, 74, 15;</ls> 6, 82, 182. {part=,seq=5906,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अशिल",
+            "eid": "4513",
+            "pagenum": 97,
+            "content": "<b>a-śila-</b>¦ <ab>a.</ab> sans pierre."
+        }
     ]
 }

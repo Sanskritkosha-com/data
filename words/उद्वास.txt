@@ -101,5 +101,45 @@
             "pagenum": 5,
             "content": "1. उद्वास¦ <i>das Entlassen</i> (= विसर्जन <ls>Schol.</ls>) <ls>BHĀG. P. 11, 27, 13.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "उद्वास",
+            "eid": "8434",
+            "pagenum": 116,
+            "content": "<i>udvāsa</i>¦ m. °Verlassen, <ls>S</ls> I, 254, 8; °Fortziehen (der haṃsa's) 541, 8 (Ko.). {part=,seq=8549,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उद्वास",
+            "eid": "7192",
+            "pagenum": 123,
+            "content": "उद्वास¦ m. (-सः) 1. Abandoning, letting loose or free. 2. Exile. 3. Killing. E. उद् away, वस् to abide, causal form, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उद्वास",
+            "eid": "6499",
+            "pagenum": 146,
+            "content": "<b>ud-vāsa-</b>¦ <ab>m.</ab> relâchement, libération."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उद्वास",
+            "eid": "7195",
+            "pagenum": 150,
+            "content": "उद्वास¦ m. (-सः) .²1 Abandoning, letting loose or free. .²2 Exile. .²3 Killing. .E. उद् away, वस to abide, causal form, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उद्वास",
+            "eid": "6600",
+            "pagenum": 123,
+            "content": "उद्वा_स¦ (सः) 1. <i>m.</i> Leaving; exile."
+        }
     ]
 }

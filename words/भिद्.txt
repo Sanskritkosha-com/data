@@ -270,5 +270,75 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> भिद्¦ IV. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भिद्",
+            "eid": "20602",
+            "pagenum": 284,
+            "content": "1. <i>bhid</i>¦ 7. mit <i>antar</i> Verrat schmieden, <ls>Daśak.</ls> 19, 8. — Mit <i>ava, °bhinna</i> verwundet, <ls>Jātakam.</ls> 24, 23. — Mit <i>°samud</i>, to burst forth, <ls>Harṣac.</ls> 153, 15; 167, 9. — Mit <i>upapra</i>, vgl. <ls>Pischel, Ved. Stud.</ls> I, 72. — Mit <i>°vini, vinibhinna</i> <ls>S</ls> II, 267, 18 Druckfehler für <i>vinirbhinna</i>. {part=,seq=20886,type=,n=8}"
+        },
+        {
+            "word": "भिद्",
+            "eid": "20603",
+            "pagenum": 284,
+            "content": "2. <i>bhid</i>¦ 2. d) Unterschied, Vāgbhaṭālaṃkāra 1, 20 nach Aufrecht. — °Vernichtung, <ls>Sūryaś.</ls> 14<sup>d</sup>. {part=,seq=20887,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भिद्",
+            "eid": "29451",
+            "pagenum": 531,
+            "content": "भिद् (इर्) भिदिर्¦ r. 7th cl. (-भिनत्ति-भिन्ते) To break, to break or tear to pieces."
+        },
+        {
+            "word": "भिद्",
+            "eid": "29452",
+            "pagenum": 531,
+            "content": "भिद्¦ mfn. (-भिद् or भित्) Who or what breaks, divides, severs, destroys, &c. f. (भिद् or भित्) 1. Kind, sort, difference. 2. Breaking, dividing. E. भिद् to break, aff. क्विप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भिद्",
+            "eid": "16220",
+            "pagenum": 532,
+            "content": "<b>1 BHID-</b>¦ <i>bhinatti</i> (<i>bhindanti</i>) <i>bhintte ; bibheda bibhide ; abhedi</i> <i> ; bhetsyati -te ; bhidyate (-ti) bhedayati -te bibhitsati ; bhinnabhettum</i> <lbinfo n='7'/> <i>bhittvā °bhidya</i> -- fendre, briser, fracturer, rompre, diviser, battre en brèche, percer, perforer, détruire ; disjoindre, défaire, dénouer ; disperser (ténèbres) ; ouvrir, faire épanouir (<ab>pass.</ab> s'ouvrir, s'épanouir) ; enfreindre, <lbinfo n='8'/> transgresser, violer, interrompre, déranger ; dénoncer, trahir, brouiller, troubler, <lbinfo n='4'/> détacher d'une alliance (<ab>pass.</ab> aussi être en désaccord avec soi-même, être troublé ou perplexe) ; changer, altérer ; distinguer, faire une différence, <ab>pass.</ab> différer de (<ab>abl.</ab>) ; <ab>caus.</ab> fendre, briser, etc. ; troubler, désunir, gagner (à sa cause en faisant abandonner celle d'un autre), corrompre, soudoyer."
+        },
+        {
+            "word": "भिद्",
+            "eid": "16221",
+            "pagenum": 532,
+            "content": "<b>2 bhid-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui fend, qui brise, qui perce <ab>qqch.</ab> ; <ab>f.</ab> fait de fendre, effraction, division."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भिद्",
+            "eid": "28552",
+            "pagenum": 620,
+            "content": "भिद्(इर)भिदिर्¦ r. 7th cl. (भिनत्ति-भिंत्ते) To break, to break or tear to pieces."
+        },
+        {
+            "word": "भिद्",
+            "eid": "28553",
+            "pagenum": 620,
+            "content": "भिद्¦ mfn. (-भिद् or भित्) Who or what breaks, divides, severs, destroys, &c. f. (-भिट् or भित्) .²1 Kind, sort, difference. .²2 Breaking, dividing. .E. भिद to break, and aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भिद्",
+            "eid": "28063",
+            "pagenum": 556,
+            "content": "भिद्¦ (ध, इर, ञ) भिनत्ति भिंत्ते) 7. <i>c.</i> To break or tear in pieces."
+        },
+        {
+            "word": "भिद्",
+            "eid": "28064",
+            "pagenum": 556,
+            "content": "भिद्¦ (द्-त्) 5. <i>f.</i> Breaking; kind, sort. <i>a.</i> Breaking, destroying."
+        }
     ]
 }

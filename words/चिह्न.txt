@@ -140,5 +140,55 @@
             "pagenum": 5,
             "content": "चिह्न¦ <div n='1'> 1) bei den Medicinern = रूप, लिङ्ग, लक्षण u.s.w. <ls>Verz. d. Oxf. H. 312,a, No. 745, Z. 17.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "चिह्न",
+            "eid": "15302",
+            "pagenum": 271,
+            "content": "चिह्न¦ Sautra root. 10th cl. (चिह्नयति-ते) To mark, to spot, to stamp. E. चु-उभ-सक-सेट् । सौत्रोऽयं धातुः इति केचित् ।"
+        },
+        {
+            "word": "चिह्न",
+            "eid": "15303",
+            "pagenum": 271,
+            "content": "चिह्न¦ n. (-ह्नं) 1. A mark of any kind, a spot, stain, sign, symbol, &c. 2. A banner, a standard. 3. A symptom. E. च् to pound, affix नक्, and the radical vowel changed to इ, or चिह्न to mark, क aff. or चिह्न-अच् चह-न उपधाया इत्त्वम् वा ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "चिह्न",
+            "eid": "9269",
+            "pagenum": 251,
+            "content": "<b>cihna-</b>¦ <ab>nt.</ab> marque, signe, estampille, symptôme ; <i>-ka-</i> <ab>id.</ab> <ab>dimin.</ab> ; <i>-ī-kṛ-</i> marquer ; <i>-ī-bhū-</i> devenir signe, servir de signe."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चिह्न",
+            "eid": "15309",
+            "pagenum": 329,
+            "content": "चिह्न¦ <i>Sautra</i> root. 10th cl. (चिह्नयति) To mark, to spot, to stamp."
+        },
+        {
+            "word": "चिह्न",
+            "eid": "15310",
+            "pagenum": 329,
+            "content": "चिह्न¦ n. (-ह्नं) .²1 A mark of any kind, a spot, stain, sign, symbol, &c. .²2 A banner, a standard. .²3 A symptom. .E. चह to pound, affix नक्, and the radical vowel changed to इ, or चिह्न to mark, क aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चिह्न",
+            "eid": "14766",
+            "pagenum": 288,
+            "content": "चिह्न¦ चिह्नयति 10. <i>a.</i> To mark."
+        },
+        {
+            "word": "चिह्न",
+            "eid": "14767",
+            "pagenum": 288,
+            "content": "चिह्न¦ (ह्नं) 1. <i>n.</i> A mark of any kind; a banner; a symptom."
+        }
     ]
 }

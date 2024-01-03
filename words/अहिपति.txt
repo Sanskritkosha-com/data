@@ -31,5 +31,37 @@
             "pagenum": 5,
             "content": "अहिपति¦ <lex>m.</lex> <i>der Schlangendämon</i> <is>Śeṣa</is> <ls>ŚIŚ. 9,25</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अहिपति",
+            "eid": "6469",
+            "pagenum": 89,
+            "content": "<i>ahipati</i>¦ m. der Schlangendämon Śeṣa, <ls>Śiś.</ls> 9, 25. {part=,seq=6556,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अहिपति",
+            "eid": "4885",
+            "pagenum": 83,
+            "content": "अहिपति¦ m. (-तिः) 1. A name of SHESHA, the sovereign of the snakes; also of VASUKI and others. 2. Any large serpent. E. अहि a snake, and पति lord; also similar compounds, as अहिनाथः, अहीन्द्रः, अहीशः, अहीश्वरः, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अहिपति",
+            "eid": "4887",
+            "pagenum": 101,
+            "content": "अहिपति¦ m. (-तिः) .²1 A name of ŚEṢA, the sovereign of the snakes; also of VĀSUKI and others. .²2 Any large serpent. .E. अहि a snake, and पति lord; also similar compounds, as अहिनाथः, अहीन्द्रः, अहीशः, अहीश्वरः, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अहिपति",
+            "eid": "4257",
+            "pagenum": 80,
+            "content": "अहि-पति¦ (तिः) 2. <i>m.</i> A large serpent."
+        }
     ]
 }

@@ -207,5 +207,63 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> ए¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ए",
+            "eid": "9050",
+            "pagenum": 124,
+            "content": "<i>e</i>¦ Interj. <ls>Maitr. S.</ls> 4, 9, 21. {part=,seq=9171,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ए",
+            "eid": "8075",
+            "pagenum": 139,
+            "content": "ए¦ The eleventh vowel of the alphabet, corresponding to the letter E as pronounced in most languages except the English, and having the sound of A in amiable."
+        },
+        {
+            "word": "ए",
+            "eid": "8076",
+            "pagenum": 139,
+            "content": "ए¦ ind. An interjection of, 1. Remembering, (ha.) 2. Censure or contempt. 3. Compassion, (ah!) 4. Addressing, (eh! hey.) 5. Calling, (hey, ho.)"
+        },
+        {
+            "word": "ए",
+            "eid": "8077",
+            "pagenum": 139,
+            "content": "ए¦ m. (-एः) A name of VISHNŪ."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ए",
+            "eid": "7333",
+            "pagenum": 164,
+            "content": "<b>e-</b>¦ (<b>I-</b>) approcher ; arriver, entrer dans tel état ; échoir à."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ए",
+            "eid": "8080",
+            "pagenum": 170,
+            "content": "ए¦ The eleventh vowel of the alphabet, corresponding to the letter <i>E</i> as pronounced in most languages except the <i>English,</i> and having the sound of <i>A</i> in <i>amiable.</i>"
+        },
+        {
+            "word": "ए",
+            "eid": "8081",
+            "pagenum": 170,
+            "content": "ए¦ <i>ind.</i> An interjection of, .²1 Remembering, (ha.) .²2 Censure or contempt. .²3 Compassion, (ah!) .²4 Addressing, (eh! hey.) .²5 Calling, (hey, ho.) (-एः) A name of VIṢṆU."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ए",
+            "eid": "7498",
+            "pagenum": 140,
+            "content": "ए¦ The 11th vowel of the alphabet, like e in <i>there. Interj.</i> ha, ah, hey."
+        }
     ]
 }

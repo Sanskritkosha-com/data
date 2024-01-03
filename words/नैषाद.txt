@@ -111,5 +111,29 @@
             "pagenum": 7,
             "content": "नैषाद¦ III. <i>Vogler, Jäger</i> <ls>JĀTAKAM. 22</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "नैषाद",
+            "eid": "17365",
+            "pagenum": 239,
+            "content": "<i>naiṣāda</i>¦ Vogler, Jäger, <ls>Jātakam.</ls> 22. {part=,seq=17621,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "नैषाद",
+            "eid": "12710",
+            "pagenum": 393,
+            "content": "<b>naiṣāda-</b>¦ <i>-ī-</i> <ab>a.</ab> qui appartient aux Niṣāda ; <ab>m.</ab> <ab>pl.</ab> les Niṣāda."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "नैषाद",
+            "eid": "1623",
+            "pagenum": 1,
+            "content": "<b>Nai-ṣāda,</b>¦ a ‘man of Niṣāda,’ is mentioned in the Kauṣītaki Brāhmaṇa (xxv. 15) and the Vājasaneyi Saṃhitā (xxx. 8)."
+        }
     ]
 }

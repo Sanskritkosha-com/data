@@ -31,5 +31,37 @@
             "pagenum": 4,
             "content": "पयोघन¦ (पयस् + घन) <lex>m.</lex> <i>Hagel</i> <ls>HĀR. 58.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पयोघन",
+            "eid": "17760",
+            "pagenum": 245,
+            "content": "*<i>payoghana</i>¦ m. E 897 (P) Hagel? In der Lahore-Ausgabe ist <i>payoghanair</i> gedruckt. {part=,seq=18019,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पयोघन",
+            "eid": "23219",
+            "pagenum": 420,
+            "content": "पयोघन¦ m. (-नः) Hail. E. पयस् water. घन a lump."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पयोघन",
+            "eid": "23233",
+            "pagenum": 502,
+            "content": "पयोघन¦ m. (-नः) Hail. .E. पयस् water, चन a lump."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पयोघन",
+            "eid": "22708",
+            "pagenum": 448,
+            "content": "पयो-घन¦ (नः) 1. <i>m. Idem.</i>"
+        }
     ]
 }

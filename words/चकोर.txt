@@ -148,5 +148,45 @@
             "pagenum": 7,
             "content": "चकोर¦, <lex>f.</lex> °री II. ein Frauenname <ls><ab>ebend.</ab> 247</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "चकोर",
+            "eid": "12827",
+            "pagenum": 176,
+            "content": "<i>[cakora]</i>¦ , f. <i>°rī</i> ein Frauenname, <ls>Damayantīk.</ls> 247. {part=,seq=13025,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चकोर",
+            "eid": "14555",
+            "pagenum": 257,
+            "content": "चकोर¦ m. (-रः) The bartavelle or Greek partridge, (Perdix rufa or Tetrao rufus.) E. चक् to be satisfied, ओरन् Unadi affix; also with कन् added चकोरक; what is satisfied with the moonbeams, upon which the bird is fabulously said to subsist."
+        }
+    ],
+    "STC": [
+        {
+            "word": "चकोर",
+            "eid": "9037",
+            "pagenum": 241,
+            "content": "<b>cakora-</b>¦ <ab>m.</ab> <ab>n.</ab> d'oiseau (Perdix rufa) censé être amoureux de la lune et se nourrir de ses rayons ; <ab>n.</ab> d'un prince ; <i>-ī-</i> <ab>f.</ab> femelle du cakora.  <P><i>°dṛś-</i> <i>°netra-</i> <ab>a.</ab> qui a des yeux de cakora, de beaux yeux.  <P><i>°vrata-</i> <ab>a.</ab> amoureux de la lune à la manière d'un cakora.  <P><i>cakorākṣa-</i> <ab>a.</ab> = <i>°dṛś-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चकोर",
+            "eid": "14563",
+            "pagenum": 312,
+            "content": "चकोर¦ m. (-रः) The bartavelle or Greek partridge, (<bio>Perdix rufa</bio> or <bio>Tetrao rufus</bio>.) .E. चक to be satisfied, ओरन् Uṇādi affix; also with कन् added चकोरक; what is satisfied <i>with the moonbeams,</i> upon which the bird is fabulously said to subsist."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चकोर",
+            "eid": "14018",
+            "pagenum": 273,
+            "content": "चकोर¦ (रः) 1. <i>m.</i> The bartavelle or Greek partridge (Perdrix rufa)."
+        }
     ]
 }

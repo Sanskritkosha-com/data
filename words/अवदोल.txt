@@ -53,5 +53,21 @@
             "pagenum": 7,
             "content": "अवदोल¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवदोल",
+            "eid": "5266",
+            "pagenum": 72,
+            "content": "<i>avadola</i>¦ , der Komm. zu <ls>Ragh.</ls> 9, 46 soll nach Leumann <i>navadola</i> annehmen. {part=,seq=5338,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवदोल",
+            "eid": "3991",
+            "pagenum": 86,
+            "content": "<b>ava-dola-</b>¦ <ab>m.</ab> fait de se balancer."
+        }
     ]
 }

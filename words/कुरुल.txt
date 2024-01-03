@@ -68,5 +68,37 @@
             "pagenum": 2,
             "content": "कुरुल¦ <lex>m.</lex> <i>Haarlocke an der Stirn</i> <ls>H. 569.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुरुल",
+            "eid": "10919",
+            "pagenum": 150,
+            "content": "*<i>kurula</i>¦ m. Haarlocke an der Stirn, <ls>S</ls> I, 525, 2. {part=,seq=11084,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुरुल",
+            "eid": "10880",
+            "pagenum": 191,
+            "content": "कुरुल¦ m. (-लः) A curl or lock of hair, especially on the forehead."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुरुल",
+            "eid": "10886",
+            "pagenum": 232,
+            "content": "कुरुल¦ m. (-लः) A curl or lock of hair, especially on the forehead."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुरुल",
+            "eid": "10331",
+            "pagenum": 197,
+            "content": "कुरुल¦ (लः) 1. <i>m.</i> A curl of hair."
+        }
     ]
 }

@@ -49,5 +49,29 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> <hom>2.</hom> अनूह¦ 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनूह",
+            "eid": "2938",
+            "pagenum": 40,
+            "content": "1. <i>anūha</i>¦ m. keine Veränderung, -x- Modifikation. 2. <i>anūha</i> Adj. nicht lange überlegend, keine Bedenken tragend. {part=,seq=2977,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनूह",
+            "eid": "2073",
+            "pagenum": 43,
+            "content": "<b>an-ūha-</b>¦ <ab>a.</ab> qui ne réfléchit pas longtemps."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनूह",
+            "eid": "44571",
+            "pagenum": 912,
+            "content": "अनूह¦ (हः-हा-हं) <i>a.</i> Unconcerned; thoughtless, careless."
+        }
     ]
 }

@@ -39,5 +39,29 @@
             "pagenum": 7,
             "content": "हालाह¦ <lex>m.</lex> = हलाह <i>ein scheckiges Pferd</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "हालाह",
+            "eid": "46844",
+            "pagenum": 832,
+            "content": "हालाह¦ m. (-हः) A piebald horse; also read हलाह ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हालाह",
+            "eid": "44177",
+            "pagenum": 973,
+            "content": "हालाह¦ m. (-हः) A piebald horse."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हालाह",
+            "eid": "44003",
+            "pagenum": 898,
+            "content": "हालाह¦ (हः) 1. <i>m.</i> A piebald horse."
+        }
     ]
 }

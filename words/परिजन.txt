@@ -130,5 +130,45 @@
             "pagenum": 7,
             "content": "परिजन¦ IV. <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls>KIR. 10,9</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "परिजन",
+            "eid": "17903",
+            "pagenum": 247,
+            "content": "<i>parijana</i>¦ , Nom. abstr. <i>°tā</i> f., <ls>Kir.</ls> 10, 9. {part=,seq=18163,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "परिजन",
+            "eid": "23524",
+            "pagenum": 426,
+            "content": "परिजन¦ m. (-नः) 1. Dependents, servants, family, followers. 2. Train, retinue, Suit, (especially the maids of a lady). E. परि about, and जन a person."
+        }
+    ],
+    "STC": [
+        {
+            "word": "परिजन",
+            "eid": "13024",
+            "pagenum": 410,
+            "content": "<b>pari-jana-</b>¦ <ab>m.</ab> <ab>sg.</ab> et <ab>coll.</ab> serviteur ; serviteurs, <lbinfo n='7'/> entourage, escorte, suite ; ensemble des servantes ; <i>-tā-</i> <ab>f.</ab> condition de serviteur, service."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "परिजन",
+            "eid": "23529",
+            "pagenum": 509,
+            "content": "परिजन¦ m. (-नः) .²1 Dependants, servants, family, followers. .²3 Train, retinue. .E. परि about, and जन a person."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "परिजन",
+            "eid": "23003",
+            "pagenum": 454,
+            "content": "परि-जन¦ (नः) 1. <i>m.</i> Family; train."
+        }
     ]
 }

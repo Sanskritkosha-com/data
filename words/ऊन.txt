@@ -143,5 +143,55 @@
             "pagenum": 5,
             "content": "ऊन¦, द्वे स्त्रिया ऊने प्रजननाय <ls>PAÑCAV. BR. 19, 3, 9.</ls> लक्षादूनं न दातुं स जानाति स्म किलार्थिने <i>weniger als ein</i> <is>Lakṣa</is> <ls>KATHĀS. 53, 10.</ls> <i>der kleinste</i> <ls>VARĀH. BṚH. S. 50, 1.</ls> <ls>Z. 10</ls> lies तदूनानां स्वमातृतः <i>für diejenigen, die diesem von Seiten der Mutter nachstehen</i>, <ls>M. 9, 123.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ऊन",
+            "eid": "7868",
+            "pagenum": 136,
+            "content": "ऊन¦ r. 10th cl. (न) ऊनत् (ऊनयति) 1. To deduct or lessen. 2. To mete out in small quantities. 3. To measure."
+        },
+        {
+            "word": "ऊन",
+            "eid": "7869",
+            "pagenum": 136,
+            "content": "ऊन¦ mfn. (-नः-ना-नं) Less in number, size or degree, as fewer, smaller, inferior, &c. E. ऊन to deduct, &c. affix क."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ऊन",
+            "eid": "7279",
+            "pagenum": 162,
+            "content": "<b>ūna-</b>¦ <ab>a.</ab> déficient, défectif, inférieur à (<ab>abl.</ab>), moindre de (<ab>instr.</ab>).  <P><i>°triṃśa-</i> <i>-ī-</i> <ab>a.</ab> vingt-neuvième.  <P><i>°dvi-vārṣika-</i> <ab>a.</ab> non encore âgé de deux ans.  <P><i>°viṃśa-</i> <i>-ī-</i> <ab>a.</ab> dix-neuvième.  <P><i>°ṣoḍaśa-varṣa-</i> <ab>a.</ab> non encore âgé de seize ans."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ऊन",
+            "eid": "7871",
+            "pagenum": 165,
+            "content": "ऊन¦ r. 10th cl. (न) ऊनत् (ऊनयति) .²1 To deduct or lessen. .²2 To mete out in small quantities. .²3 To measure."
+        },
+        {
+            "word": "ऊन",
+            "eid": "7872",
+            "pagenum": 165,
+            "content": "ऊन¦ mfn. (-नः-ना-नं) Less in number, size or degree, as fewer, smaller, inferior, &c. .E. ऊन to deduct, &c. affix क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ऊन",
+            "eid": "7284",
+            "pagenum": 136,
+            "content": "ऊन¦ (कत) ऊनयति 10. <i>a.</i> To deduct or lessen; to measure."
+        },
+        {
+            "word": "ऊन",
+            "eid": "7285",
+            "pagenum": 136,
+            "content": "ऊन¦ (नः-ना-नं) <i>a.</i> Less, fewer."
+        }
     ]
 }

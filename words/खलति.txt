@@ -120,5 +120,43 @@
             "pagenum": 5,
             "content": "खलति¦ <ls>VARĀH. BṚH. 23, 15.</ls> <ls>KATHĀS. 61, 48. 180.</ls> <lex>m.</lex> <i>Kahlköpfigkeit</i> <ls>SĀY.</ls> in der Einl. zu <ls>ṚV. 8, 91</ls> (S. 828, Z. 8) und zu <ls n='ṚV.'>8, 91, 5.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "खलति",
+            "eid": "11880",
+            "pagenum": 163,
+            "content": "<i>khalati</i>¦ (nach dem Ko. [I, 86, 5] °f.) Kahlköpfigkeit, <ls>S</ls> I, 85, 3. {part=,seq=12060,type=,n=1}"
+        },
+        {
+            "word": "खलति",
+            "eid": "11880.1",
+            "pagenum": 163,
+            "content": "<i>khalati</i>¦ 1. Adj. kahlköpfig auch Bharata 24, 106. {part=,seq=12061,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "खलति",
+            "eid": "12761",
+            "pagenum": 224,
+            "content": "खलति¦ mfn. (-तिः-तिः or -ती-ति) Bald, baldheaded. E. स्खल् to fall, Unadi affix अतच् इ inserted, and स rejected."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खलति",
+            "eid": "12767",
+            "pagenum": 272,
+            "content": "खलति¦ mfn. (-तिः-तिः or -ती-ति) Bald, baldheaded. .E. स्खल to fall, Uṇādi affix अतच, इ inserted, and स rejected."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खलति",
+            "eid": "12220",
+            "pagenum": 236,
+            "content": "खलति¦ (तिः-ति) <i>a.</i> Bald."
+        }
     ]
 }

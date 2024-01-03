@@ -75,5 +75,49 @@
             "pagenum": 5,
             "content": "बाह¦ <lex>m.</lex> = बाहु <i>Arm</i> <ls>MED. h. 9.</ls> <ls>RAMĀN.</ls> zu <ls>AK. 2, 6, 2, 31.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>DĀMODARA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 28.</ls> बाहा <lex>f.</lex> dass. <ls>TRIK. 2, 6, 26.</ls> <ls>H. 589.</ls> <ls>an. 2, 602.</ls> <ls>AJAYAPĀLA</ls> und <ls>DVIRŪPAK.</ls> im <ls>ŚKDR.</ls> सुवाहा इति वासवदत्तायां सुबन्धुश्लेषः <ls>UJJVAL. a. a. O.</ls> Im <is>Prākrit</is> बाहाहिं <ls>ŚĀK. CH. 83, 7.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "बाह",
+            "eid": "20198",
+            "pagenum": 278,
+            "content": "*<i>bāha</i>¦ m. Arm, <ls>S</ls> II, 215, 3 [könnte auch <i>*bāhā</i> sein!]; <ls>Vās.</ls> 146, 2; <ls>Padyac.</ls> I, 7<sup>b</sup>. {part=,seq=20478,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "बाह",
+            "eid": "28738",
+            "pagenum": 518,
+            "content": "बाह (ऋ) बाहृ¦ r. 1st cl. (बाहते) 1. To resolve, to attempt perseveringly or resolutely, to endeavour diligently; also वाह."
+        },
+        {
+            "word": "बाह",
+            "eid": "28739",
+            "pagenum": 518,
+            "content": "बाह¦ mf. (-हः-हा) 1. The arm. 2. A horse. E. बाह् to endeavour, aff. अच्; it is sometimes read वाह ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "बाह",
+            "eid": "27884",
+            "pagenum": 605,
+            "content": "बाह(ऋ)बाहृ¦ r. 1st cl. (बाहते) .²1 To resolve, to attempt perseveringly or resolutely, to endeavour diligently; also वाहृ."
+        },
+        {
+            "word": "बाह",
+            "eid": "27885",
+            "pagenum": 605,
+            "content": "बाह¦ mf. (-हः-हा) The arm. .E. बाह to endeavour, aff. अच्; it is sometimes read वाह."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "बाह",
+            "eid": "27393",
+            "pagenum": 542,
+            "content": "बाह¦ (हः-हा) 1. <i>m. f.</i> The arm."
+        }
     ]
 }

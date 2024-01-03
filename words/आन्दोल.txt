@@ -65,5 +65,55 @@
             "pagenum": 7,
             "content": "आन्दोल¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आन्दोल",
+            "eid": "7009",
+            "pagenum": 96,
+            "content": "°<i>āndola</i>¦ m. Schaukeln, <ls>Govardh.</ls> 85 [pw nur Hemādri 1, 386, 1 und in <i>marudāndola!</i>]. {part=,seq=7102,type=°,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आन्दोल",
+            "eid": "5473",
+            "pagenum": 93,
+            "content": "आन्दोल¦ r. 10th cl. (-त) आन्दोलयति To swing."
+        },
+        {
+            "word": "आन्दोल",
+            "eid": "5474",
+            "pagenum": 93,
+            "content": "आन्दोल¦ m. (-लः) Swinging. E. आन्दोल to swing and घञ् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आन्दोल",
+            "eid": "5475",
+            "pagenum": 114,
+            "content": "आन्दोल¦ r. 10th cl. (त) आन्दोलयति To swing."
+        },
+        {
+            "word": "आन्दोल",
+            "eid": "5476",
+            "pagenum": 114,
+            "content": "आन्दोल¦ m. (-लः) Swinging. .E. आन्दोल and घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आन्दोल",
+            "eid": "4848",
+            "pagenum": 91,
+            "content": "आन्दोल¦ (क्-त्) आन्दोलयति 10 <i>a.</i> To swing; to waver."
+        },
+        {
+            "word": "आन्दोल",
+            "eid": "4849",
+            "pagenum": 91,
+            "content": "आन्दोल¦ (लः) 1. <i>m.</i> Swinging."
+        }
     ]
 }

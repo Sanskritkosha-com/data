@@ -121,5 +121,45 @@
             "pagenum": 5,
             "content": "1. पाक्षिक¦ <div n='1'> 2) <ls>Spr. 2808.</ls> <div n='1'>— 3) <i>nur in bestimmten Fällen geltend</i> <ls>SARVADARŚANAS. 123, 6.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पाक्षिक",
+            "eid": "18219",
+            "pagenum": 251,
+            "content": "<i>pākṣika</i>¦ belonging to one's party, °an ally? <ls>Pūrṇabh.</ls> 232, 10. {part=,seq=18483,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पाक्षिक",
+            "eid": "24196",
+            "pagenum": 438,
+            "content": "पाक्षिक¦ mfn. (-कः-की-कं) 1. Belonging to a bird, to a fortnight, to an argument, &c. 2. Favouring a party or faction. 3. Optional, allowed but not prescribed. m. (-कः) 1. A fowler, a bird-catcher. 2. An alternative. E. पक्ष a fortnight, or पक्षिन् a bird, aff. ठञ्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पाक्षिक",
+            "eid": "13585",
+            "pagenum": 425,
+            "content": "<b>pākṣika-</b>¦ <i>-ī-</i> <ab>a.</ab> appartenant à une quinzaine (lunaire)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाक्षिक",
+            "eid": "24142",
+            "pagenum": 521,
+            "content": "पाक्षिक¦ mfn. (-कः-की-कं) Belonging to a bird, to a fortnight, to an argument, &c. m. (-कः) .²1 A fowler, a bird catcher. .²2 An alternative. .E. पक्ष a fortnight, or पक्षिन् a bird, aff. ठञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाक्षिक",
+            "eid": "23616",
+            "pagenum": 466,
+            "content": "पाक्षिक¦ (कः) 1. <i>m.</i> A fowler; an alternative. <i>a.</i> Of a bird, side, &c."
+        }
     ]
 }

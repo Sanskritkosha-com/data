@@ -76,5 +76,37 @@
             "pagenum": 7,
             "content": "हड्ड¦ <lex>n.</lex> <i>Knochen</i> <ls>Schol.</ls> zu <ls>H. 626.</ls> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "हड्ड",
+            "eid": "27401",
+            "pagenum": 375,
+            "content": "*<i>haḍḍa</i>¦ n. Knochen, <ls>S</ls> I, 117, 11 (Ko.); 120, 12 (Ko.); 161, 15 (Ko.); II, 44, 13 (Ko.) {part=,seq=27765,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "हड्ड",
+            "eid": "46497",
+            "pagenum": 826,
+            "content": "हड्ड¦ n. (-ड्डं) 1. A bone. 2. A sweeper: see the last. E. हठ्-ड ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हड्ड",
+            "eid": "43888",
+            "pagenum": 967,
+            "content": "हड्ड¦ n. (-ड्डं) A bone."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हड्ड",
+            "eid": "43699",
+            "pagenum": 892,
+            "content": "हड्ड¦ (ड्डं) 1. <i>n.</i> A bone."
+        }
     ]
 }

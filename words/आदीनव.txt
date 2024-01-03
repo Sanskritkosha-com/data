@@ -74,5 +74,57 @@
             "pagenum": 1,
             "content": "आदीनव¦ <lex>m.</lex> <div n='1'> 1) <i>Leiden, Noth</i> (क्लेश, परिक्लिष्ट) <ls>AK. 3, 3, 29.</ls> <ls>H. an. 4, 302.</ls> <ls>MED. v. 57.</ls> <div n='1'>— 2) <i>Fehler</i> <ls>H. 1375.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 196.</ls> <div n='1'>— 3) = दुरन्त <i>ein böser Ausgang</i> (?) <ls>H. an.</ls> <ls>MED.</ls> <i>an inflictor of distress</i> <ls>WILS.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "आदीनव",
+            "eid": "6918",
+            "pagenum": 94,
+            "content": "<i>ādīnava</i>¦ °n. Elend oder *Fehler, <ls>S</ls> II, 298, 20. {part=,seq=7009,type=,n=1}"
+        },
+        {
+            "word": "आदीनव",
+            "eid": "6918.1",
+            "pagenum": 94,
+            "content": "<i>[ādīnava</i>¦ <ls>Śiś.</ls> 2, 22; vgl. Komm. zu <ls>Hem. Anek.</ls> 4, 303. Der Beleg ist bereits im Śabdakalpadruma (ob schon in der 1. Aufl.?) gegeben, von Böhtlingk aber nicht berücksichtigt worden. (Z.)] An der angeführten Stelle steht aber <i>anādīnavam = nirdoṣam!</i> {part=,seq=7010,type=,n=8}"
+        },
+        {
+            "word": "आदीनव",
+            "eid": "28111",
+            "pagenum": 387,
+            "content": "<i>ādīnava</i>¦ m. *Fehler, <ls>Viṣṇubh.</ls> I, 27<sup>d</sup>. {part=N,seq=28482,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आदीनव",
+            "eid": "5349",
+            "pagenum": 91,
+            "content": "आदीनव¦ m. (-वः) 1. Distress, pain, uneasiness. 2. Fault, transgression. 3. An inflictor of distress. E. आङ् before दीङ् to decay, deriv. irr."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आदीनव",
+            "eid": "5168",
+            "pagenum": 115,
+            "content": "<b>ā-dīnava-</b>¦ <ab>m.</ab> misère, détresse ; faute (?)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आदीनव",
+            "eid": "5351",
+            "pagenum": 111,
+            "content": "आदीनव¦ m. (-वः) .²1 Distress, pain, uneasiness. .²2 Fault, transgression. .²3 An inflictor of distress. .E. आङ्, दीङ् to decay, deriv. irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आदीनव",
+            "eid": "4723",
+            "pagenum": 88,
+            "content": "आ-दीनव¦ (वः) 1. <i>m.</i> Distress; fault."
+        }
     ]
 }

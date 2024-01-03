@@ -47,5 +47,45 @@
             "pagenum": 2,
             "content": "कुहलि¦ <lex>m.</lex> <i>Blumen und Betel, welche den Hochzeitsgästen gereicht werden</i>, <ls>TRIK. 2, 7, 30.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुहलि",
+            "eid": "11044",
+            "pagenum": 152,
+            "content": "<i>kuhali</i>¦ Betel, <ls>Mahāvīrac.</ls> VII, 13. [Z.] {part=,seq=11210,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुहलि",
+            "eid": "11145",
+            "pagenum": 195,
+            "content": "कुहलि¦ m. (-लिः) A Pan the leaf of the Piper betel, with small pieces of the Areca nut, and Catechu and a little lime, which are chewed and eaten by the Oriental nations."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुहलि",
+            "eid": "8183",
+            "pagenum": 202,
+            "content": "<b>kuhali-</b>¦ <i>-ī-</i> <ab>f.</ab> bétel."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुहलि",
+            "eid": "11151",
+            "pagenum": 238,
+            "content": "कुहलि¦ m. (-लिः) A <i>Pān,</i> the leaf of the <bot>Piper betel</bot>, with small pieces of the Areca nut, and Catechu and a little lime, which are chewed and eaten by the Oriental nations."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुहलि",
+            "eid": "10597",
+            "pagenum": 202,
+            "content": "कुहलि¦ (लिः) 2. <i>m.</i> The pān or betel."
+        }
     ]
 }

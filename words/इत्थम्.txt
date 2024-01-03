@@ -142,5 +142,45 @@
             "pagenum": 7,
             "content": "इत्थ/म्¦ I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "इत्थम्",
+            "eid": "7622",
+            "pagenum": 104,
+            "content": "<i>itthám</i>¦ , das Sternchen zu streichen. {part=,seq=7730,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "इत्थम्",
+            "eid": "6245",
+            "pagenum": 107,
+            "content": "इत्थम्¦ ind. Thus. E. इदम् this, deriv. irr. with थमु aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "इत्थम्",
+            "eid": "5903",
+            "pagenum": 131,
+            "content": "<b>ittham</b>¦ <ab>adv.</ab> ainsi, de cette manière. <i>itthaṃ-vidha-</i> <ab>a.</ab> de telle et telle nature.  <P><i>°bhūta-</i> <ab>a.</ab> qui est ainsi, qui est dans cet état."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "इत्थम्",
+            "eid": "6247",
+            "pagenum": 130,
+            "content": "इत्थम्¦ <i>ind.</i> Thus. .E. इदम् this, deriv. irr. with थमु aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "इत्थम्",
+            "eid": "5632",
+            "pagenum": 106,
+            "content": "इत्थम्¦ <i>adv.</i> Thus."
+        }
     ]
 }

@@ -169,5 +169,43 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> लिह्¦ mit नि 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "लिह्",
+            "eid": "22928",
+            "pagenum": 316,
+            "content": "1. <i>lih</i>¦ mit <i>ava, avalīḍha</i> (vom Feuer) beleckt = °verbrannt, <ls>Kir.</ls> XIII, 11. — Mit <i>ni, °nilīḍha</i> aufgeleckt, so v.a. ergriffen —, übermannt von (Schlaf), <ls>Daśak.</ls> 5, 15. {part=,seq=23249,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "लिह्",
+            "eid": "34401",
+            "pagenum": 618,
+            "content": "लिह्¦ r. 2nd cl. (लेढि लीढे Desid, लिलिक्षति-ते) To taste, to taste with tongue, to lick, to sip. With अव, To chew, to lick. With आ, 1. To lick. 2. To pierce. 3. To wound. With उद्, To polish."
+        }
+    ],
+    "STC": [
+        {
+            "word": "लिह्",
+            "eid": "17662",
+            "pagenum": 616,
+            "content": "<b>1 LIH-</b>¦ <i>leḍhi līḍhe lihati ; lihyate lelihatlelihāna-</i><i> lelihyate</i> <i>lehayati ; līḍha-</i> -- lécher, goûter en léchant ; détruire en léchant. (<ab>fig.</ab> ; <ab>int.</ab> lécher (dit <ab>not.</ab> des flammes) ; <ab>a. v.</ab> léché, consumé, détruit."
+        },
+        {
+            "word": "लिह्",
+            "eid": "17663",
+            "pagenum": 616,
+            "content": "<b>2 lih-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> (<ab>nom.</ab> 2 <i>liṭ</i>) qui lèche."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "लिह्",
+            "eid": "32564",
+            "pagenum": 645,
+            "content": "लिह्¦ (ल) लढि, लीढ 2. <i>c.</i> To lick."
+        }
     ]
 }

@@ -39,5 +39,21 @@
             "pagenum": 7,
             "content": "अपजय¦ <lex>m.</lex> <i>Besiegung</i> <ls>KIR. 4,11</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपजय",
+            "eid": "3275",
+            "pagenum": 45,
+            "content": "<i>apajaya</i>¦ m. Besiegung, <ls>Kir.</ls> 4, 11. {part=,seq=3320,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपजय",
+            "eid": "2245",
+            "pagenum": 49,
+            "content": "<b>apa-jaya-</b>¦ <ab>m.</ab> victoire sur."
+        }
     ]
 }

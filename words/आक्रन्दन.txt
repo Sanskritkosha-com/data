@@ -63,5 +63,21 @@
             "pagenum": 7,
             "content": "आक्रन्दन¦ I. <i>das Hülferufen</i> <ls>JĀTAKAM. 21,12</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आक्रन्दन",
+            "eid": "6595",
+            "pagenum": 90,
+            "content": "<i>ākrandana</i>¦ das Hilferufen, <ls>Jātakam.</ls> 21, 12. {part=,seq=6683,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आक्रन्दन",
+            "eid": "4949",
+            "pagenum": 108,
+            "content": "<b>ā-krandana-</b>¦ <ab>nt.</ab> lamentation ; <i>-īya-</i> <ab>a. v.</ab> qu'on peut appeler au secours."
+        }
     ]
 }

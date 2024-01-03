@@ -121,5 +121,37 @@
             "pagenum": 6,
             "content": "वमथु¦ (wie eben) <lex>m.</lex> <div n='1'> 1) <i>Erbrechen</i> <ls>AK. 2, 6, 2, 6.</ls> <ls>H. 469.</ls> <ls>an. 3, 321.</ls> <ls>MED. th. 23.</ls> <ls>SUŚR. 1, 21, 16. 155, 14. 245, 15. 2, 470, 17.</ls>  <div n='1'>— 2) <i>das vom Elephanten aus dem Rüssel gespritzte Wasser</i> <ls>AK. 2, 8, 2, 5.</ls> <ls>H. 1223.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 61.</ls> <div n='1'>— 3) = काश (कास <i>Husten?</i>) <ls>H. an.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वमथु",
+            "eid": "23197",
+            "pagenum": 320,
+            "content": "<i>vamathu</i>¦ 3. auch <ls>Śrīk.</ls> 21, 8; 24, 26; <ls>H</ls> 29, 50. {part=,seq=23520,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वमथु",
+            "eid": "35122",
+            "pagenum": 630,
+            "content": "वमथु¦ m. (-थुः) 1. Vomiting, ejecting any thing from the mouth. 2. Water ejected from an elephant's trunk. E. वम् to vomit, aff. अथुच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वमथु",
+            "eid": "17863",
+            "pagenum": 626,
+            "content": "<b>vamathu-</b>¦ <ab>m.</ab> eau que rejette un éléphant par la trompe."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वमथु",
+            "eid": "33609",
+            "pagenum": 734,
+            "content": "वमथु¦ m. (-थुः) .²1 Vomiting, ejecting any thing from the mouth. .²2 Water ejected from an elephant's trunk. .E. वम to vomit, aff. अथुच्."
+        }
     ]
 }

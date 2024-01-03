@@ -81,5 +81,37 @@
             "pagenum": 7,
             "content": "एकीय¦ I. <i>einzig in seiner Art</i> <ls>JĀTAKAM. 22,19</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकीय",
+            "eid": "9223",
+            "pagenum": 126,
+            "content": "<i>ekīya</i>¦ einzig in seiner Art, <ls>Jātakam.</ls> 22, 19. {part=,seq=9345,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "एकीय",
+            "eid": "8200",
+            "pagenum": 141,
+            "content": "एकीय¦ mfn. (-यः-या-यं) A companion, a partizan or associate. E. एक one, and छण् affix. also एकपक्ष."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकीय",
+            "eid": "8204",
+            "pagenum": 172,
+            "content": "एकीय¦ mfn. (-यः-या-यं) A companion, a partisan or associate. .E. एक one, and छण affix, also एकपक्ष."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकीय",
+            "eid": "7627",
+            "pagenum": 142,
+            "content": "एकीय¦ (यः-या-यं) <i>a.</i> A companion."
+        }
     ]
 }

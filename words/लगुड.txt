@@ -122,5 +122,45 @@
             "pagenum": 6,
             "content": "लगुड¦ <lex>m.</lex> <ls>AK. 3, 6, 2, 18.</ls> <i>Knüttel</i> <ls n='AK.'>3, 4, 11, 44.</ls> <ls>H. 785.</ls> <ls>HALĀY. 4, 41.</ls> <ls>M. 8, 315.</ls> <ls>MBH. 7, 1317.</ls> <ls n='MBH.'>8, 747.</ls> <ls>HARIV. 12205.</ls> <ls>KĀM. NĪTIS. 5, 81.</ls> <ls>VARĀH. BṚH. 25, 6.</ls> <ls>Spr. 5399.</ls> <ls>KATHĀS. 20, 125. 37, 126. 53, 15. 17.</ls> <ls>RĀJA-TAR. 6, 23.</ls> <ls>PAÑCAT. 37, 5.</ls> <ls n='PAÑCAT.'>40, 21.</ls> <ls n='PAÑCAT.'>174, 24.</ls> <ls>HIT. 23, 6. 12. 101, 7. 12. 115, 6. 7.</ls> am Ende eines <lex>adj.</lex> <lex>f.</lex> आ <ls>KATHĀS. 72, 207.</ls> <div n='v'>— Vgl. लकुट ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "लगुड",
+            "eid": "22804",
+            "pagenum": 315,
+            "content": "<i>laguḍa</i>¦ (nach dem Ko. °n.) Knüttel, <ls>S</ls> II, 217, 10. {part=,seq=23123,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "लगुड",
+            "eid": "34048",
+            "pagenum": 612,
+            "content": "लगुड¦ m. (-डः) 1. A staff, a stick. 2. An iron club, or one bound with iron. E. लग् to go, aff. डुलच्, ल changed to ड; also लगुर and लगुल ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "लगुड",
+            "eid": "17548",
+            "pagenum": 611,
+            "content": "<b>laguḍa-</b>¦ <ab>m.</ab> bâton, canne, massue ; <i>-in-</i> <ab>a.</ab> armé d'un bâton."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "लगुड",
+            "eid": "32681",
+            "pagenum": 714,
+            "content": "लगुड¦ m. (-डः) .²1 A staff, a stick. .²2 An iron club, or one bound with iron. .E. लग to go, aff. डुलच्, and ल changed to ड; also लगुर."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "लगुड",
+            "eid": "32257",
+            "pagenum": 638,
+            "content": "लगुड¦ (डः) 1. <i>m.</i> A staff; iron club."
+        }
     ]
 }

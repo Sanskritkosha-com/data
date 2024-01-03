@@ -35,5 +35,21 @@
             "pagenum": 7,
             "content": "सोपधान¦ <lex>Adj.</lex> auch <i>mit einer Einfassung versehen</i> (Edelstein) <ls>ĀPAST. GṚHY. 12,8</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सोपधान",
+            "eid": "26982",
+            "pagenum": 370,
+            "content": "<i>sopadhāna</i>¦ Adj. auch: mit einer Einfassung versehen (Edelstein), <ls>Āpast. Gṛhy.</ls> 12, 8. {part=,seq=27342,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सोपधान",
+            "eid": "23878",
+            "pagenum": 861,
+            "content": "<b>sopadhāna-</b>¦ <ab>a.</ab> rembourré ; pourvu d'éminentes <lbinfo n='6'/> qualités."
+        }
     ]
 }

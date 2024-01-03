@@ -87,5 +87,37 @@
             "pagenum": 7,
             "content": "सुभर¦ VII. *= सुपोष. Davon <ab>Nom. abstr.</ab> °ता <lex>f.</lex> <ls><ab>ebend.</ab> 126</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सुभर",
+            "eid": "26740",
+            "pagenum": 367,
+            "content": "<i>subhara</i>¦ *= <i>supoṣa</i>. Davon Nom. abstr. <i>°tā</i> f., <ls>Mahāvy.</ls> 126. {part=,seq=27098,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सुभर",
+            "eid": "44484",
+            "pagenum": 794,
+            "content": "सुभर¦ mfn. (-रः-रा-रं) Heavily burthened. E. सु, भर bearing."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सुभर",
+            "eid": "42260",
+            "pagenum": 933,
+            "content": "सुभर¦ mfn. (-रः-रा-रं) Heavily burthened. .E. सु, and भर bearing."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सुभर",
+            "eid": "42030",
+            "pagenum": 855,
+            "content": "सु-भर¦ (रः-रा-रं) <i>a.</i> Heavily burdened."
+        }
     ]
 }

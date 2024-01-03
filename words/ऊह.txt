@@ -193,5 +193,63 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> ऊह¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ऊह",
+            "eid": "8981",
+            "pagenum": 123,
+            "content": "1. <i>ūha</i>¦ 3. Titel eines Werkes, <ls>Opp. Cat.</ls> 1. {part=,seq=9100,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ऊह",
+            "eid": "7949",
+            "pagenum": 137,
+            "content": "ऊह¦ r. 1st cl. (ऊहते) To reason, to apprehend and infer: with प्र and वि to intermit; with वि, to array in order of battle; with सम् prefixed, (समूहति or -ते) to assemble or to be assembled."
+        },
+        {
+            "word": "ऊह",
+            "eid": "7950",
+            "pagenum": 137,
+            "content": "ऊह¦ mfn. (-हः-हा-हं) 1. Reasoning. 2. Completing a defective sentence or verse, supplying an ellipsis. E. ऊह् to deliberate, घञ् affix, or with ल्युट् affix, ऊहन."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ऊह",
+            "eid": "7300",
+            "pagenum": 163,
+            "content": "<b>ūha-</b>¦ <ab>m.</ab> examen ; conclusion ; <i>-vant-</i> <ab>a.</ab> qui comprend facilement."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ऊह",
+            "eid": "7953",
+            "pagenum": 167,
+            "content": "ऊह¦ r. 1st cl. (ऊहते) To reason, to apprehend and infer: with प्र and वि, to intermit; with वि, to array in order of battle; with सम् prefixed, (समूहति or -ते) to assemble or be assembled."
+        },
+        {
+            "word": "ऊह",
+            "eid": "7954",
+            "pagenum": 167,
+            "content": "ऊह¦ mfn. (-हः-हा-हं) .²1 Reasoning. .²2 Completing a defective sentence or verse, supplying an ellipsis. .E. ऊह to deliberate, घञ् affix, or with ल्युट् affix, ऊहन."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ऊह",
+            "eid": "7367",
+            "pagenum": 137,
+            "content": "ऊह¦ (ङ) ऊहते 1. <i>d.</i> To reason. With वि to array in battle; with सं to assemble; with प्र and वि to intermit or desist from."
+        },
+        {
+            "word": "ऊह",
+            "eid": "7368",
+            "pagenum": 137,
+            "content": "ऊह¦ (हः-हा-हं) 1. <i>m. f. n.</i> Reasoning."
+        }
     ]
 }

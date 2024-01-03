@@ -64,5 +64,21 @@
             "pagenum": 5,
             "content": "अवगण¦ <ls>MBH. 3, 4057.</ls> = असहाय oder नीचसहाय Schol. Statt dessen अवगुण <ls n='MBH.'>13, 5207.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवगण",
+            "eid": "5205",
+            "pagenum": 71,
+            "content": "<i>avagaṇa</i>¦ allein, getrennt, Harṣacarita 20, 9. [Z.] Auch <ls>S</ls> II, 53, 6. {part=,seq=5276,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवगण",
+            "eid": "3903",
+            "pagenum": 85,
+            "content": "<b>ava-gaṇa-</b>¦ <ab>a.</ab> isolé (de ses compagnons)."
+        }
     ]
 }

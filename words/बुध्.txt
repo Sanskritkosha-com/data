@@ -173,5 +173,43 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> बुध्¦ mit प्रा <ab>Caus.</ab> <i>erwecken, anfachen</i> <ls>PĀRV. 592,5</ls>. — Mit वि <ab>Caus.</ab> IV. <i>an den Tag legen, bezeugen</i> <ls>JĀTAKAM. 31,69</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "बुध्",
+            "eid": "20292",
+            "pagenum": 280,
+            "content": "1. <i>budh</i>¦ mit <i>prā</i> <ls>Kaus.</ls> erwecken, anfachen, <ls>Pārv.</ls> 529, 5. — Mit <i>vi</i> <ls>Kaus.</ls> an den Tag legen, bezeugen, <ls>Jātakam.</ls> 31, 69. {part=,seq=20572,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "बुध्",
+            "eid": "28797",
+            "pagenum": 519,
+            "content": "बुध् (औ) औबुध¦ r. 1st cl. (बोधति) r. 4th cl. (बुध्यते-ति) also (उ, इर) उबुधिर् r. 1st cl. (बोधति-ते) To know, to understand. With प्रति, to look for, expect. With प्रति and वि, to wake."
+        }
+    ],
+    "STC": [
+        {
+            "word": "बुध्",
+            "eid": "15993",
+            "pagenum": 516,
+            "content": "<b>1 BUDH-</b>¦ <i>budhyate -ti bobhati -te ; bubudhe</i><i> bubodha ; abodhi abuddha</i> <i>abodhiṣata ; bhotsyati -te ; budhyate bodhayati -te</i> (<i>bodhyate</i>) <lbinfo n='6'/> <i>bobudhīti bubhutsati -te ; buddhaboddhum</i><i> buddhvā °budhya</i> -- s'éveiller, réveiller, veiller ; percevoir, concevoir, reconnaître, <lbinfo n='6'/> savoir, comprendre, reprendre connaissance <lbinfo n='9'/> ; considérer <ab>qqch.</ab> comme (2 <ab>acc.</ab>), observer, faire attention à (<ab>acc.</ab>) ; <ab>caus.</ab> réveiller, <lbinfo n='7'/> ranimer, exciter ; faire observer, attirer l'attention, faire reconnaître ou comprendre, <lbinfo n='7'/> rappeler, révéler, enseigner, informer, <lbinfo n='3'/> conseiller (2 <ab>acc.</ab>)."
+        },
+        {
+            "word": "बुध्",
+            "eid": "15994",
+            "pagenum": 516,
+            "content": "<b>2 budh-</b>¦ (<ab>nom.</ab> <i>bhut</i>) <ab>ag.</ab> <ab>ifc.</ab> qui sait."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "बुध्",
+            "eid": "27441",
+            "pagenum": 543,
+            "content": "बुध्¦ (ब, इर, ञऔउ) बोधति, ते 1. <i>c.</i> (य, औ) बुध्यति, ते 4. <i>c.</i> To know, to understand. With प्रति to look for, expect; with वि to be wise; with प्रति and वि to wake."
+        }
     ]
 }

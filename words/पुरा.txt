@@ -242,5 +242,45 @@
             "pagenum": 7,
             "content": "पुरा¦ IV. 7. Mit <ab>Gen.</ab> <i>vor</i> <ls>HARAVIJAYA 6,23</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पुरा",
+            "eid": "18700",
+            "pagenum": 258,
+            "content": "<i>purā</i>¦ mit Praes. so v.a. es könnte geschehen, daß..., <ls>Jātakam.</ls> 28. — Mit Gen. vor, Haravijaya 6, 23. {part=,seq=18966,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पुरा",
+            "eid": "25303",
+            "pagenum": 459,
+            "content": "पुरा¦ Ind. 1. An ancient story. 2. Old. 3. Past. 4. Long past, of yore. 5. Near. 6. Future. 7. Proximate future. E. पुर् to precede, affs. क and टाप्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पुरा",
+            "eid": "13875",
+            "pagenum": 439,
+            "content": "<b>purā</b>¦ <ab>adv.</ab> avant, auparavant, autrefois, jadis (donne au prés. la nuance prétérite) ; jusqu'à maintenant, depuis lors ; au commencement <lbinfo n='6'/> ; tôt, bientôt (donne au prés. le sens du <ab>fut.</ab>) ; <ab>prép.</ab> avant, à l'exception de (<ab>abl.</ab>) ; <i>na p.</i> jamais ; <ab>conj.</ab> avant que (<i>p. na, p. mā</i> au même sens).  <P><i>°kathā-</i> <ab>f.</ab> histoire du passé, légende ancienne. <lbinfo n='6'/>  <P><i>°kalpa-</i> <ab>m.</ab> passé, histoire du passé ; <i>-e</i> dans le passé, anciennement ; <i>°kalpa-vid-</i> <ab>ag.</ab> qui connaît le passé.  <P><i>°kṛta-</i> <ab>a. v.</ab> fait autrefois, accompli dans le passé.  <P><i>°bhūta-</i> <ab>a. v.</ab> qui existait autrefois, ancien.  <P><i>°yoni-</i> <ab>a.</ab> d'ancienne souche.  <P><i>°vid-</i> <ab>m.</ab> qui connaît les évènements du passé.  <P><i>°vṛtta-</i> <ab>a. v.</ab> qui est arrivé dans le passé ; qui a vécu autrefois, relatif au passé ; <ab>nt.</ab> évènement du passé ; <i>°vṛtta-kathā-</i> <ab>f.</ab> vieille histoire, vieille légende."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पुरा",
+            "eid": "25098",
+            "pagenum": 543,
+            "content": "पुरा¦ <i>ind.</i> .²1 An ancient story. .²2 Old. .²3 Past. .²4 Long past. .²5 Near. .²6 Future. .²7 Proximate future. .E. पुर to precede, affs. क and टाप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पुरा",
+            "eid": "24575",
+            "pagenum": 486,
+            "content": "पुरा¦ <i>adv.</i> An ancient story, old; past, future; near."
+        }
     ]
 }

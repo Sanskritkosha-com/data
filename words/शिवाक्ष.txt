@@ -31,5 +31,37 @@
             "pagenum": 7,
             "content": "शिवाक्ष¦ <lex>n.</lex> = रुद्राक्ष <i>die Beere von Elaeocarpus Ganitrus Roxb.</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शिवाक्ष",
+            "eid": "25078",
+            "pagenum": 345,
+            "content": "*<i>śivākṣa</i>¦ n. die Beere von Elaeocarpus ganitrus, E 915 (A). {part=,seq=25419,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शिवाक्ष",
+            "eid": "40288",
+            "pagenum": 721,
+            "content": "शिवाक्ष¦ n. (-क्षं) The seed of the Eleocarpus. E. शिव ŚIVA, and अक्ष from अक्षि the eye. “रुद्राक्षे ।”"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शिवाक्ष",
+            "eid": "38437",
+            "pagenum": 846,
+            "content": "शिवाक्ष¦ n. (-क्षं) The seed of the Eleocarpus. .E. शिव ŚIVA, and अक्ष from अक्षि the eye."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शिवाक्ष",
+            "eid": "38082",
+            "pagenum": 765,
+            "content": "शिवा_क्ष¦ (क्षं) 1. <i>n.</i> The seed of the <i>Eleocarpus.</i>"
+        }
     ]
 }

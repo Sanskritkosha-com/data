@@ -162,5 +162,45 @@
             "pagenum": 7,
             "content": "आदेश¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आदेश",
+            "eid": "6924",
+            "pagenum": 94,
+            "content": "<i>ādeśa</i>¦ 6. = <i>prāghūrṇika</i>, Gast, <ls>Śīlāṅka</ls> 2, 1, 3. — ° = <i>pradeśa</i> (Richtung), <ls>H</ls> 43, 256. — °Wechsel ('bill of exchange'), <ls>Kauṭ.</ls> 148, 17; 179, 3. {part=,seq=7016,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आदेश",
+            "eid": "5356",
+            "pagenum": 91,
+            "content": "आदेश¦ m. (-शः) 1. An order, a command. 2. Advice, instruction. 3. (In grammar,) A substitute. 4. (In astrology,) Event, result, consequence of stellar conjunctions, &c. E. आङ् before दिश् to point or shew, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आदेश",
+            "eid": "5180",
+            "pagenum": 115,
+            "content": "<b>ā-deśa-</b>¦ <ab>m.</ab> avis, information ; description ; règle ; ordre ; prévision ; substitut (<ab>gramm.</ab>) ; <i>-ka-</i> guide ; <i>-in-</i> <ab>a.</ab> <ab>ifc.</ab> qui prescrit ; qui incite."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आदेश",
+            "eid": "5358",
+            "pagenum": 111,
+            "content": "आदेश¦ m. (-शः) .²1 An order, a command. .²2 Advice, instruction. .²3 (In grammar,) A substitute; .²4 (In astrology,) Event, result, consequence of stellar conjunctions, &c. .E. आङ्, दिश to point or shew, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आदेश",
+            "eid": "4731",
+            "pagenum": 88,
+            "content": "आ-देश¦ (शः) 1. <i>m.</i> An order, command, advice. (in Gram,) a substitute; (in astrol.) event, result."
+        }
     ]
 }

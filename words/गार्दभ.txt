@@ -77,5 +77,27 @@
             "pagenum": 7,
             "content": "गा/र्दभ¦ II. so zu betonen."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गार्दभ",
+            "eid": "12280",
+            "pagenum": 169,
+            "content": "<i>gārdabha</i>¦ °eine Art Coitus, E 577 (A). 593. 595 (D). {part=,seq=12468,type=,n=1}"
+        },
+        {
+            "word": "गार्दभ",
+            "eid": "12280.1",
+            "pagenum": 169,
+            "content": "<i>gā́rdabha</i>¦ , so zu betonen. {part=,seq=12469,type=,n=0}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "गार्दभ",
+            "eid": "8770",
+            "pagenum": 228,
+            "content": "<b>gārdabha-</b>¦ <ab>a.</ab> relatif à l'âne, provenant d'un âne."
+        }
     ]
 }

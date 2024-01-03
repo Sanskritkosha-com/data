@@ -47,5 +47,29 @@
             "pagenum": 6,
             "content": "वोदाल¦ <lex>m.</lex> <i>ein best. Fisch</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वोदाल",
+            "eid": "38738",
+            "pagenum": 693,
+            "content": "वोदाल¦ m. (-लः) A sheat-fish, (Silurus Boalis, HAM.) “वोयाल माच् ।”"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वोदाल",
+            "eid": "36993",
+            "pagenum": 813,
+            "content": "वोदाल¦ m. (-लः) A sheat fish, (<bio>Silurus Boalis</bio>, HAM.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वोदाल",
+            "eid": "36623",
+            "pagenum": 731,
+            "content": "वोदाल¦ (लः) 1. <i>n.</i> A sheat-fish."
+        }
     ]
 }

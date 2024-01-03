@@ -248,5 +248,75 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> भी¦ IV. भीतम् <ab>impers.</ab> (<ab>log.</ab> <ab>Subj.</ab> दृशा) <ls>RUDRAṬA, ŚṚṄGĀRAT. 1,146</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भी",
+            "eid": "20621",
+            "pagenum": 284,
+            "content": "1. <i>[bhī]</i>¦ , <i>bhītam</i> impers. (log. Subj. <i>dṛśā</i>), Rudraṭa, <ls>Śṛṅgārat.</ls> 1, 146. {part=,seq=20905,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भी",
+            "eid": "29489",
+            "pagenum": 532,
+            "content": "भी (ञि) ञिभी¦ r. 3rd cl. (विभेति) To dread, to fear, to be afraid of: also, r. 1st and 10th cls. (भयति भाययति) but not always admitted."
+        },
+        {
+            "word": "भी",
+            "eid": "29490",
+            "pagenum": 532,
+            "content": "भी¦ f. (-भीः) Fear, dread. E. भी to fear, aff. क्विप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भी",
+            "eid": "16231",
+            "pagenum": 532,
+            "content": "<b>1 BHĪ-</b>¦ <i>bibheti bibhyati ; bibhāya bibhye ; abhaiṣīt ; bhāyayati</i> <i>bhīṣayate -ti ; bhīta- bhetum</i><i> °bhīya</i> -- craindre, avoir peur, être effrayé (de <ab>qqch.</ab>, <ab>abl.</ab>, <ab>rar.</ab> <ab>gén.</ab>) ; être anxieux ou soucieux au sujet de <ab>qqch.</ab> (<ab>abl.</ab>) ; <ab>caus.</ab> effrayer, faire peur, terrifier, intimider ; <ab>a. v.</ab> effrayé, terrifié, alarmé, anxieux : craintif, <lbinfo n='3'/> timide ; qui a peur de, menacé par (<ab>abl.</ab> <ab>ifc.</ab>) ; <i>-vat</i> comme <ab>qq'un</ab> qui a peur, timidement, <lbinfo n='4'/> craintivement.  <P><i>bhīta-citta-</i> <ab>a.</ab> anxieux, inquiet.  <P><i>°paritrāṇa-vastu-</i> <ab>nt.</ab> moyen de sauver ou de secourir ceux qui ont peur ou qui sont en danger.  <P><i>°bhīta-</i> <ab>a. v.</ab> très effrayé."
+        },
+        {
+            "word": "भी",
+            "eid": "16232",
+            "pagenum": 532,
+            "content": "<b>2 bhī-</b>¦ <ab>f.</ab> peur, crainte, effroi, terreur, alarme ; <i>-mant-</i> <ab>a.</ab> effrayant.  <P><i>°kara-</i> <ab>a.</ab> qui fait peur."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भी",
+            "eid": "28590",
+            "pagenum": 621,
+            "content": "भी(ञि)ञिभी¦ r. 3rd cl. (बिभेति) To dread, to fear, to be afraid of: also, r. 1st and 10th cls. (भयति भाययति) but not always admitted."
+        },
+        {
+            "word": "भी",
+            "eid": "28591",
+            "pagenum": 621,
+            "content": "भी¦ f. (भीः) Fear, dread. .E. भी to fear, aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भी",
+            "eid": "28103",
+            "pagenum": 556,
+            "content": "भी¦ (लि, ञि) बिभेति 3. <i>a.</i> To fear."
+        },
+        {
+            "word": "भी",
+            "eid": "28104",
+            "pagenum": 557,
+            "content": "भी¦ (कि) भयति भाययति 1. 10. <i>a. Idem.</i>"
+        },
+        {
+            "word": "भी",
+            "eid": "28105",
+            "pagenum": 557,
+            "content": "भी¦ (भीः) 3. <i>f.</i> Fear."
+        }
     ]
 }

@@ -51,5 +51,21 @@
             "pagenum": 1,
             "content": "अकुण्ठ¦ <lex>Adj.</lex> <i>nicht stumpf, scharf</i> (<ab>eig.</ab> und <ab>übertr.</ab>)."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकुण्ठ",
+            "eid": "115",
+            "pagenum": 2,
+            "content": "<i>akuṇṭha</i>¦ Adj. nicht stumpf, scharf (eig. und übertr.). {part=,seq=120,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकुण्ठ",
+            "eid": "60",
+            "pagenum": 2,
+            "content": "<b>a-kuṇṭha-</b>¦ <ab>a.</ab> acéré (aussi <ab>fig.</ab>) ; <i>-ita-</i> <ab>id.</ab>"
+        }
     ]
 }

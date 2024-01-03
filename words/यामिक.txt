@@ -113,5 +113,27 @@
             "pagenum": 6,
             "content": "यामिक¦ (von 3. याम) <lex>adj.</lex> <i>auf der Wache stehend</i>: पुरुष so v. a. <i>Nachtwächter</i> <ls>KATHĀS. 3, 63.</ls> °भट <ls>ŚKDR.</ls> mit einem Citat der <is>Prākīna</is>. <lex>m.</lex> <i>Nachtwächter, ein auf der Wache stehender Mann</i> <ls>KATHĀS. 122, 30. fg.</ls> <ls>RĀJA-TAR. 3, 173. 4, 515. 6, 77.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "यामिक",
+            "eid": "22225",
+            "pagenum": 307,
+            "content": "<i>yāmika</i>¦ Adj. °auf die Nachtwache bezüglich, <ls>Kuṭṭ.</ls> 612. {part=,seq=22531,type=,n=1}"
+        },
+        {
+            "word": "यामिक",
+            "eid": "22225.1",
+            "pagenum": 307,
+            "content": "<i>yāmika</i>¦ m. °Astrolog, <ls>Prabandh.</ls> 246, 6 v.u. {part=,seq=22532,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "यामिक",
+            "eid": "17159",
+            "pagenum": 590,
+            "content": "<b>yāmika-</b>¦ <ab>a.</ab> et <ab>m.</ab> homme de garde.  <P><i>°sthita-</i> <ab>a.</ab> qui est de garde."
+        }
     ]
 }

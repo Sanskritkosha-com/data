@@ -43,5 +43,27 @@
             "pagenum": 1,
             "content": "अवतर¦ <lex>m.</lex> <i>Gelegenheit, günstiger Aügenblick</i> <ls>NAIṢ. 3,53</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवतर",
+            "eid": "5253",
+            "pagenum": 71,
+            "content": "<i>avatara</i>¦ m. Gelegenheit, günstiger Augenblick, <ls>Naiṣ.</ls> 3, 53. — ° = <i>avatāra</i>, <ls>S</ls> I, 161, 4. {part=,seq=5324,type=,n=3}"
+        },
+        {
+            "word": "अवतर",
+            "eid": "28001",
+            "pagenum": 385,
+            "content": "°<i>avatara</i>¦ = <i>avatāra</i> (Wiedergeburt), <ls>Viṣṇubh.</ls> III, 3<sup>d</sup>; IV, 6<sup>c</sup>. {part=N,seq=28372,type=°,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवतर",
+            "eid": "3970",
+            "pagenum": 86,
+            "content": "<b>ava-tara-</b>¦ <ab>m.</ab> descente."
+        }
     ]
 }

@@ -133,5 +133,45 @@
             "pagenum": 4,
             "content": "पाटव¦ (von पटु) <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>ein Sohn</i> oder <i>Nachkomme des</i> <is>Paṭu</is> <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58.</ls> <div n='2'>— b) oxyt. <i>ein Schüler des</i> <is>Paṭu</is> <ls>P. 4, 2, 119</ls>, <ls>Sch.</ls>  <ls>ŚAT. BR. 12, 8, 1, 17. 9, 3, 1.</ls> <ls>Ind. St. 1, 207,</ls> <ls>N. 1</ls> (vgl. <ls n='N.'>2, 393</ls>). <div n='1'>— 2) <lex>n.</lex> oxyt. nom. abstr. <is>gaṇa</is> पृथ्वादि zu <ls>P. 5, 1, 122.</ls> <div n='2'> a) <i>Schärfe, Intensität</i>: करण° <i>der Sinnesorgane</i> <ls>TATTVAS. 21.</ls> वर्ण° <ls>SUŚR. 2, 348, 15.</ls> <div n='2'>— c) <i>Geschicklichkeit, Gewandtheit</i>; mit dem loc.: संस्कृतोक्तिषु <ls>HIT. Pr. 2.</ls> वादिदर्पज्वरशमनविधौ <ls>Spr. 220.</ls> <ls>RĀJA-TAR. 1, 12.</ls> <div n='2'>— d) <i>das schnell-bei-der-Hand-Sein bei Etwas, das Sichübereilen mit</i>: धिङ्मे तद्वधपाटवम् <ls>KATHĀS. 5, 89.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पाटव",
+            "eid": "24229",
+            "pagenum": 439,
+            "content": "पाटव¦ mfn. (-वः-वी-वं) Clever, sharp, dexterous. n. (-वं) 1. Cleverness, talent. 2. Health. 3. Eloquence. E. पटु clever, &c. aff. अण्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पाटव",
+            "eid": "13610",
+            "pagenum": 426,
+            "content": "<b>pāṭava-</b>¦ <ab>nt.</ab> adresse, habileté en <ab>qqch.</ab> (<ab>loc.</ab>) ; acuité ; <ab>ifc.</ab> fait de se dépêcher de ; <i>-ika- -ī-</i> <ab>a.</ab> habile, rusé."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "पाटव",
+            "eid": "1762",
+            "pagenum": 1,
+            "content": "<b>Pāṭava,</b>¦ ‘descendant of Paṭu,’ is a patronymic of <b>Cākra</b> in the Śatapatha Brāhmaṇa (xii. 8, 1, 17; 9, 3, 1)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाटव",
+            "eid": "24175",
+            "pagenum": 522,
+            "content": "पाटव¦ mfn. (-वः-वी-वं) Clever, sharp, dexterous. n. (-वं) .²1 Cleverness, talent. .²2 Health. .²3 Eloquence. .E. पटु clever, &c. aff. अण्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाटव",
+            "eid": "23649",
+            "pagenum": 467,
+            "content": "पाटव¦ (वः-वा-वं) <i>a.</i> Clever. <i>n.</i> Cleverness; health; eloquence."
+        }
     ]
 }

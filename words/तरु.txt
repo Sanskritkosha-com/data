@@ -188,5 +188,53 @@
             "pagenum": 3,
             "content": "2. तरु/¦ <ls>UṆĀDIS. 1, 7.</ls> <lex>m.</lex> <div n='1'> 1) <i>Baum</i> <ls>UJJVAL.</ls> <ls>AK. 2, 4, 1, 5.</ls> <ls>H. 1114.</ls> <ls>N. 12, 75.</ls> <ls>R. 6, 82, 115.</ls> <ls>SUŚR. 1, 352, 6.</ls> <ls>RAGH. 3, 70.</ls> <ls>ŚĀK. 32.</ls> <ls>MEGH. 1. 30. 37.</ls> <ls>HIT. 9, 4.</ls> <ls>VARĀH. BṚH. S. 3, 9. 11, 4.</ls> <ls>VID. 300.</ls> In comp. mit dem damit verglichenen Dinge <is>gaṇa</is> व्याघ्रादि zu <ls>P. 2, 1, 56.</ls> Dieses Wort, welches die ältere Sprache nicht kennt und welches auch bei <is>Manu</is> nicht erscheint, ist viell. aus द्रु, दारु hervorgegangen. <div n='1'>— 2) N. pr. eines Sohnes des <is>Manu</is> <is>Cākṣuṣa</is> <ls>MATSYA-P.</ls> in <ls>VP. 98, N. 1.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तरु",
+            "eid": "14378",
+            "pagenum": 198,
+            "content": "<i>taru</i>¦ m. Baum, Manu I, 46 [pw: 'Noch nicht bei Manu']. {part=,seq=14606,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तरु",
+            "eid": "17126",
+            "pagenum": 306,
+            "content": "तरु¦ m. (-रुः) A tree. E. तॄ to proceed, Unadi affix उन्, what goes or grows; or from what flowers and fruits arise, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तरु",
+            "eid": "9913",
+            "pagenum": 279,
+            "content": "<b>taru-</b>¦ <ab>m.</ab> arbre ; <i>-tā-</i> <ab>f.</ab> fait d'être arbre.  <P><i>°koṭara-</i> <ab>nt.</ab> creux d'arbre.  <P><i>°khaṇḍa-</i> <ab>m.</ab> <ab>nt.</ab> bouquet d'arbres.  <P><i>°gahana-</i> <ab>nt.</ab> fourré.  <P><i>°cchāyā-</i> <ab>f.</ab> ombre, ombrage d'un arbre.  <P><i>°tala-</i> <ab>nt.</ab> terrain nivelé au pied d'un arbre ; pied d'arbre.  <P><i>°maṇḍapa-</i> <ab>m.</ab> ou <ab>nt.</ab> berceau de feuillage.  <P><i>°mūla-</i> <ab>nt.</ab> racine, pied d'arbre.  <P><i>°vallī-</i> <ab>f.</ab> liane.  <P><i>°ṣaṇḍa-</i> <ab>nt.</ab> = <i>°khaṇḍa-.</i>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "तरु",
+            "eid": "1113",
+            "pagenum": 1,
+            "content": "<b>Taru,</b>¦ the usual term for ‘tree’ in classical Sanskrit, never occurs in Vedic literature, except perhaps in one passage of the Rigveda,<sup>1</sup> where Sāyaṇa finds it, and where it can be so translated. But the form (<i>tarubhiḥ</i>) is probably to be interpreted otherwise.<sup>2</sup> <F>1) v. 44, 5.</F> <F>2) Roth, St. Petersburg Dictionary, <i>s.v.,</i> cites <i>tarobhiḥ</i> in Rv. ii. 39, 3, as a parallel, and so Oldenberg, <i>Ṛgveda-</i> <i>Noten,</i> 1, 341.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तरु",
+            "eid": "17143",
+            "pagenum": 368,
+            "content": "तरु¦ m. (-रुः) A tree. .E. तॄ to proceed, Uṇādi affix उ; what goes or grows; or from what flowers and fruits arise, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तरु",
+            "eid": "16615",
+            "pagenum": 325,
+            "content": "तरु¦ (रुः) 2. <i>m.</i> A tree."
+        }
     ]
 }

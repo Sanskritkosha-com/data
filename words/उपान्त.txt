@@ -176,5 +176,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> उपान्त/¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपान्त",
+            "eid": "8736",
+            "pagenum": 120,
+            "content": "1. <i>upāntá</i>¦ , so zu akzentuieren. {part=,seq=8853,type=,n=1}"
+        },
+        {
+            "word": "उपान्त",
+            "eid": "8736.1",
+            "pagenum": 120,
+            "content": "<i>upānta</i>¦ n. Nähe, am Ende eines Komp. ° = besitzend, <ls>S</ls> II, 296, 26. {part=,seq=8854,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उपान्त",
+            "eid": "7612",
+            "pagenum": 131,
+            "content": "उपान्त¦ mfn. (-न्तः-न्ता-न्तं) Near. m. (-न्तः) The angle of the eye. E. उप near, अन्त end."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपान्त",
+            "eid": "7123",
+            "pagenum": 158,
+            "content": "<b>upānta-</b>¦ <ab>nt.</ab> bordure, frange, côté, <ab>not.</ab> coin de l'œil ; proximité immédiate ; <i>-am -āt -e</i> près ; à disposition ; près de (<ab>gén.</ab> <ab>ifc.</ab>).  <P><i>°bhāga-</i> <ab>m.</ab> rebord."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उपान्त",
+            "eid": "7615",
+            "pagenum": 160,
+            "content": "उपान्त¦ mfn. (-न्तः-न्ता-न्तं) Near. m. (-न्तः) The angle of the eye. .E. उप near, अन्त end."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उपान्त",
+            "eid": "7029",
+            "pagenum": 131,
+            "content": "उपा_न्त¦ (न्तः-न्ता-न्तं) <i>a.</i> Near. <i>m.</i> Angle or corner of the eye."
+        }
     ]
 }

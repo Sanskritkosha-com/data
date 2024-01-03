@@ -51,5 +51,19 @@
             "pagenum": 7,
             "content": "इरस्य्¦ I. 3. — Mit अभि I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "इरस्य्",
+            "eid": "7738",
+            "pagenum": 106,
+            "content": "<i>irasy</i>¦ , so zu lesen statt <i>irasya</i>. {part=,seq=7846,type=,n=1}"
+        },
+        {
+            "word": "इरस्य्",
+            "eid": "7738.1",
+            "pagenum": 106,
+            "content": "<i>irasy</i>¦ mit <i>abhi</i> nach Aufrecht zu streichen, da <ls>ṚV. 10, 174, 2</ls> zu <i>abhi</i> aus dem Vorhergehenden <i>tiṣṭha</i> zu ergänzen ist. {part=,seq=7847,type=,n=4}"
+        }
     ]
 }

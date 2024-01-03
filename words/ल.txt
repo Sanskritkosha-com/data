@@ -127,5 +127,55 @@
             "pagenum": 6,
             "content": "ल¦ <lex>m.</lex> <div n='1'> 1) ein N. <is>Indra's</is> <ls>TRIK. 1, 1, 57.</ls> <ls>MED. l. 1.</ls> <div n='1'>— 2) <i>cutting</i> <ls>WILSON</ls> nach <ls>ŚABDAR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "ल",
+            "eid": "22775",
+            "pagenum": 314,
+            "content": "<i>la</i>¦ °ergreifend (= besitzend), <ls>H</ls> V, 4. {part=,seq=23094,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ल",
+            "eid": "34011",
+            "pagenum": 611,
+            "content": "ल¦ The twenty-eighth consonant of the Nāgari alphabet, the letter L."
+        },
+        {
+            "word": "ल",
+            "eid": "34012",
+            "pagenum": 611,
+            "content": "ल¦ m. (-लः) 1. INDRA. 2. Cutting. 3. A short syllable, (in prosody.) 4. PANINI'S technical term for all the tenses and modes, (in gram.) f. (-ला) 1. Giving. 2. Receiving, taking. f. (-ली) 1. Embracing, adhering or clinging to. 2. Liquifying, melting. E. ला to give or take, &c., aff. क or ड, fem. aff. टाप् or ङीष् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ल",
+            "eid": "32651",
+            "pagenum": 713,
+            "content": "ल¦ The twenty-eighth consonant of the <i>Nāgarī</i> alphabet, the letter L."
+        },
+        {
+            "word": "ल",
+            "eid": "32652",
+            "pagenum": 713,
+            "content": "ल¦ m. (लः) .²1 INDRA. .²2 Cutting. f. (ला) .²1 Giving. .²2 Receiving, taking. f. (ली) .²1 Embracing, adhering or clinging to. .²2 Liquifying, melting. .E. ला to give or take, &c., aff. क or ड, fem. aff. टाप् or ङीष्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ल",
+            "eid": "32226",
+            "pagenum": 637,
+            "content": "ल¦ <i>l</i> The twenty-eighth consonant and third of the liquids."
+        },
+        {
+            "word": "ल",
+            "eid": "32227",
+            "pagenum": 637,
+            "content": "ल¦ (लः) 1. <i>m. Indra;</i> cutting. <i>f.</i> (ला) Giving; taking. <i>f.</i> (ली) Embracing, liquifying, melting."
+        }
     ]
 }

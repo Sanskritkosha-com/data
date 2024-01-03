@@ -31,5 +31,37 @@
             "pagenum": 1,
             "content": "उदभार¦ = उदकभार <ls>P. 6, 3, 60.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "उदभार",
+            "eid": "8261",
+            "pagenum": 113,
+            "content": "*<i>udabhāra</i>¦ m. °Wassermenge = Teich, <ls>Rasas.</ls> 10, 2. {part=,seq=8375,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उदभार",
+            "eid": "6982",
+            "pagenum": 120,
+            "content": "उदभार¦ m. (-रः) 1. A cloud. 2. A water carrier. E. उद् water and भार a load."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उदभार",
+            "eid": "6985",
+            "pagenum": 146,
+            "content": "उदभार¦ m. (-रः) .²1 A cloud. .²2 A water carrier. .E. उद and भार a load."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उदभार",
+            "eid": "6389",
+            "pagenum": 119,
+            "content": "उद-भार¦ (रः) 1. <i>m.</i> A cloud."
+        }
     ]
 }

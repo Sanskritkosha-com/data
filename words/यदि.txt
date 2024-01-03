@@ -210,5 +210,45 @@
             "pagenum": 7,
             "content": "यदि¦ V. यदि-नाम mit <ab>Potent.</ab> <i>ob wohl je</i> <ls>JĀTAKAM. 23,5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "यदि",
+            "eid": "22133",
+            "pagenum": 305,
+            "content": "<i>[yadi]</i>¦ , <i>yadi nāma</i> mit Potent. ob wohl je, <ls>Jātakam.</ls> 23, 5. {part=,seq=22437,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "यदि",
+            "eid": "32490",
+            "pagenum": 584,
+            "content": "यदि¦ Ind. If.; particle of suspicion or doubt. E. यत् to make effort, इञ् aff., and the radical final changed to द ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "यदि",
+            "eid": "17075",
+            "pagenum": 586,
+            "content": "<b>yadi-</b>¦ <ab>conj.</ab> (corrél. <i>atha atra tad evam,</i> etc.) si (présent opt. ; conditionnel, parfois, en phrase irréelle) ; pour le cas où ; aussi vrai que ; que (complétives) ; si (en interrogation indirecte) ; <i>y. kila</i> peut-être ; <i>y. ced</i> si ; <i>y. tāvat</i> qu'arriverait-il si ? ; <i>y. nāma</i> si jamais ; <i>y. vā</i> ou si ; ou plutôt ; cependant ; <i>yady api</i> même si, bien que."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "यदि",
+            "eid": "31265",
+            "pagenum": 680,
+            "content": "यदि¦ <i>ind.</i> If; particle of suspicion or doubt. .E. यत to make effort, इञ् aff., and the radical final changed to द."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "यदि",
+            "eid": "30826",
+            "pagenum": 609,
+            "content": "यदि¦ <i>adv.</i> If."
+        }
     ]
 }

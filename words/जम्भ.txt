@@ -290,5 +290,59 @@
             "pagenum": 7,
             "content": "जम्भ¦ II. 1〉b〉 lies „etwa <i>Kinnbakkenkrampf</i>“. <lex>m.</lex> <i>das Einbeissen</i> <ls>DHARMAŚARM. 11,16</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "जम्भ",
+            "eid": "13703",
+            "pagenum": 189,
+            "content": "<i>jambha</i>¦ 1. b) lies 'etwa Kinnbackenkrampf'. m. das Einbeißen, <ls>Dharmaśarm.</ls> 11, 16. {part=,seq=13922,type=,n=1}"
+        },
+        {
+            "word": "जम्भ",
+            "eid": "13703.1",
+            "pagenum": 189,
+            "content": "<i>Jambha</i>¦ m. °ein Rākṣasa, der die Mundsperre verursacht, <ls>Kauś.</ls> 32, 1. {part=,seq=13923,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "जम्भ",
+            "eid": "15866",
+            "pagenum": 282,
+            "content": "जम्भ¦ m. (-म्भः) 1. A tooth. 2. The lime. 3. Food, victuals. 4. The chin. 5. A quiver. 6. A part, a portion. 7. The name of a demon. E. जभि to destroy, affix अच् and नुम् । दैत्यभेदे । करणे घञ् दन्ते । कर्मणि घञ् जम्बीरे । भावे घञ् भक्षणे । कर्मणि घञ् अंशे । करणे घञ् तूणे हनौ च ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "जम्भ",
+            "eid": "9499",
+            "pagenum": 259,
+            "content": "<b>jambha-</b>¦ <ab>m.</ab> <ab>n.</ab> de divers démons et autres personnages ; un certain sortilège (?).  <P><i>jambhāri-</i> <ab>m.</ab> ennemi de J., Indra."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "जम्भ",
+            "eid": "1020",
+            "pagenum": 1,
+            "content": "<b>Jambha</b>¦ occurs twice in the Atharvaveda as the name of a disease or a demon of disease. In one passage<sup>1</sup> it is said to be cured by the <b>Jaṅgiḍa</b> plant; in the other<sup>2</sup> it is described as <i>samhanuḥ,</i> ‘bringing the jaws together.’ Weber<sup>3</sup> argued from the Kauśika Sūtra<sup>4</sup> that it was a child's ailment, especially ‘teething.’ Bloomfield<sup>5</sup> considers it to mean ‘convulsions,’ while Caland<sup>6</sup> thinks it denotes ‘tetanus.’ Whitney<sup>7</sup> decides for ‘lockjaw’ or ‘convulsions.’ <F>1) ii. 4, 2.</F> <F>2) viii. 1, 16.</F> <F>3) <i>Indische Studien,</i> 13, 142.</F> <F>4) xxxii. 1.</F> <F>5) <i>Hymns of the Atharvaveda,</i> 283.</F> <F>6) <i>Zeitschrift der Deutschen Morgen</i> <i>ländischen Gesellschaft,</i> 53, 224; <i>Altin-</i> <i>disches Zauberritual,</i> 103.</F> <F>7) Translation of the Atharvaveda, 42. <div n='P'/><i>Cf.</i> Zimmer, <i>Altindisches Leben,</i> 392.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जम्भ",
+            "eid": "15895",
+            "pagenum": 341,
+            "content": "जम्भ¦ m. (-म्भः) .²1 A tooth. .²2 The lime. .²3 Food, victuals. .²4 The chin. .²5 A quiver. .²6 A part, a portion. .²7 The name of a demon. .E. जभि to destroy, affix अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जम्भ",
+            "eid": "15355",
+            "pagenum": 299,
+            "content": "जम्भ¦ (म्भः) 1. <i>m.</i> A tooth; a lime; food; the chin; a quiver; a portion; a demon."
+        }
     ]
 }

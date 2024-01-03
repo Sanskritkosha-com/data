@@ -105,5 +105,21 @@
             "pagenum": 7,
             "content": "आर्धिक¦ I. besser beglaubigt अर्धिक."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आर्धिक",
+            "eid": "7303",
+            "pagenum": 100,
+            "content": "<i>ārdhika</i>¦ , besser beglaubigt <i>ardhika</i>. {part=,seq=7405,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आर्धिक",
+            "eid": "5562",
+            "pagenum": 123,
+            "content": "<b>ārdhika-</b>¦ <ab>m.</ab> qui laboure pour la moitié de la récolte."
+        }
     ]
 }

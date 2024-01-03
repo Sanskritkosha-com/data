@@ -194,5 +194,37 @@
             "pagenum": 5,
             "content": "2. मेघनाद¦ <div n='1'> 2) <div n='2'> b) <div n='3'> γ) <ls>R. 7, 12, 28.</ls> <ls n='R. 7, 12,'>30</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मेघनाद",
+            "eid": "21967",
+            "pagenum": 303,
+            "content": "<i>meghanāda</i>¦ m. *Amaranthus polygonoides oder *Butea frondosa, E 823 (A). {part=,seq=22268,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मेघनाद",
+            "eid": "32083",
+            "pagenum": 577,
+            "content": "मेघनाद¦ m. (-दः) 1. The son of RĀVAṆA. 2. A name of VARUṆA, the deity of water. 3. The noise or grumbling of clouds. 4. The Palāśha tree, (Butea frondosa.) 5. A sort of amaranth, (Amaranthus Polygamus.) E. मेघ a cloud, and नाद sound or noise."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मेघनाद",
+            "eid": "30916",
+            "pagenum": 672,
+            "content": "मेघनाद¦ m. (-दः) .²1 The son of RĀVAṆA. .²2 A name of VARUṆA, deity of water. .²3 The noise or grumbling of clouds. .²4 The <i>Palāśa</i> tree, (<bot>Butea frondosa</bot>.) .²5 A sort of amaranth, (<bot>Amaranthus polygamus</bot>.) .E. मेघ a cloud, and नाद sound or noise."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मेघनाद",
+            "eid": "30467",
+            "pagenum": 603,
+            "content": "मेघ-नाद¦ (दः) 1. <i>m.</i> Son of <i>Rāvana;</i> <i>Varuna;</i> noise of clouds; a tree (Butea frondosa); amaranth."
+        }
     ]
 }

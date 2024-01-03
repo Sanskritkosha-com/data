@@ -45,5 +45,21 @@
             "pagenum": 7,
             "content": "सुगुरु¦ <lex>m.</lex> <i>ein guter</i> <is>Guru</is> <ls>Festgr. 58</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सुगुरु",
+            "eid": "26652",
+            "pagenum": 366,
+            "content": "<i>suguru</i>¦ m. ein guter <i>guru</i>, Festgr. 58. {part=,seq=27010,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सुगुरु",
+            "eid": "23125",
+            "pagenum": 843,
+            "content": "<b>su-guru-</b>¦ <ab>a.</ab> très lourd (faute)."
+        }
     ]
 }

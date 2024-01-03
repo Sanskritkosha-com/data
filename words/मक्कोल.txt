@@ -55,5 +55,37 @@
             "pagenum": 5,
             "content": "मक्कोल¦ <lex>m.</lex> <i>Kreide</i> <ls>TRIK. 2, 3, 7.</ls> <ls>VYUTP. 138.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मक्कोल",
+            "eid": "20857",
+            "pagenum": 288,
+            "content": "*<i>makkola</i>¦ m. Kreide, <ls>H</ls> XVII, 96 (Ko.); XL, 27 (Ko.). {part=,seq=21145,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मक्कोल",
+            "eid": "29988",
+            "pagenum": 540,
+            "content": "मक्कोल¦ m. (-लः) Chalk: see the last. E. मक्क् to go, ओलच् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मक्कोल",
+            "eid": "29051",
+            "pagenum": 631,
+            "content": "मक्कोल¦ m. (-लः) Chalk: see the last. .E. मल्ल to go, ओलच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मक्कोल",
+            "eid": "28563",
+            "pagenum": 565,
+            "content": "मक्कोल¦ (लः) 1. <i>m.</i> Chalk."
+        }
     ]
 }

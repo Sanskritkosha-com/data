@@ -144,5 +144,45 @@
             "pagenum": 7,
             "content": "पिण्डक¦ IV. <i>*Bissen, magerer <ab n='Bissen'>B.</ab></i> <ls>MAHĀVY. 262,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पिण्डक",
+            "eid": "18486",
+            "pagenum": 255,
+            "content": "<i>piṇḍaka</i>¦ *Bissen, magerer Bissen, <ls>Mahāvy.</ls> 262, 2. — °fleshy protuberances, <ls>Harṣac.</ls> 192, 19. {part=,seq=18751,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पिण्डक",
+            "eid": "24788",
+            "pagenum": 450,
+            "content": "पिण्डक¦ mn. (-कः-कं) 1. Incense. 2. Carrot. 3. The calf of the leg. 4. A lump of food. 5. A lump or ball. m. (-कः) A goblin, a demon. E. पिण्ड as above, and कन् added."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पिण्डक",
+            "eid": "13787",
+            "pagenum": 433,
+            "content": "<b>piṇḍaka-</b>¦ <ab>m.</ab> <ab>nt.</ab> protubérance (<ab>not.</ab> des tempes de l'éléphant) ; <i>-ikā-</i> <ab>f.</ab> saillie de chair, <ab>not.</ab> mollet ; base, piédestal (pour l'image d'une divinité ou pour un Liṅga)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पिण्डक",
+            "eid": "24689",
+            "pagenum": 534,
+            "content": "पिण्डक¦ m. (-कः) .²1 Incense. .²2 A goblin, a demon. .E. पिण्ड as above, and कन् added."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पिण्डक",
+            "eid": "24168",
+            "pagenum": 478,
+            "content": "पिण्डक¦ (कः) 1. <i>m.</i> Incense; a goblin."
+        }
     ]
 }

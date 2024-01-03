@@ -83,5 +83,45 @@
             "pagenum": 1,
             "content": "असंहत¦ (3. अ + सं°) <lex>adj.</lex> <i>unverbunden</i>; <lex>m.</lex> <i>eine bes. Art Schlachtordnung, in der die verschiedenen Truppentheile unverbunden sind</i>, <ls>RĀYAM.</ls> zu <ls>AK. 2, 8, 2, 47.</ls> <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "असंहत",
+            "eid": "6072",
+            "pagenum": 83,
+            "content": "°<i>asaṃhata</i>¦ Adj. eine Art Schlachtordnung, <ls>S</ls> I, 304, 5 <i>[asaṃhataś ca yatra tatra vikṣiptavyūhaḥ]</i>. {part=,seq=6155,type=°,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "असंहत",
+            "eid": "4445",
+            "pagenum": 76,
+            "content": "असंहत¦ mfn. (-तः-ता-तं) Scattered, loose, straggling, uncompressed. m. (-तः) A form of array, loose or open order of troops. E. अ neg. संहत compact."
+        }
+    ],
+    "STC": [
+        {
+            "word": "असंहत",
+            "eid": "4622",
+            "pagenum": 100,
+            "content": "<b>a-saṃhata-</b>¦ <ab>a. v.</ab> non lié avec ; isolé ; désuni, en désaccord."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "असंहत",
+            "eid": "4447",
+            "pagenum": 93,
+            "content": "असंहत¦ mfn. (-तः-ता-तं) Scattered, loose, straggling, uncompressed. m. (-तः) A form of array, loose or open order of troops. .E. अ neg. संहत compact."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असंहत",
+            "eid": "3824",
+            "pagenum": 72,
+            "content": "अ-संहत¦ (तः-ता-तं) <i>a.</i> Loose. 1. <i>m.</i> Form of array, loose open order."
+        }
     ]
 }

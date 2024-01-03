@@ -290,5 +290,63 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> च¦ II. Z. 12. <ab>fgg.</ab> <ab>Vgl.</ab> <ls>Z. d. d. m. G. 41,516. fgg.</ls> <ls>KNAUER</ls> in <ls>Festgr. 62. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "च",
+            "eid": "12822",
+            "pagenum": 176,
+            "content": "1. <i>ca</i>¦ Z. 12 ff. vgl. <ls>ZDMG</ls> 41, 516 ff.; Knauer in Festgr. 62 ff. 2. <i>*ca</i> m. ° = <i>cakāraḥ</i>, <ls>Yudh.</ls> 6, 70. {part=,seq=13020,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "च",
+            "eid": "14548",
+            "pagenum": 257,
+            "content": "च¦ The twentieth letter of the alphabet, and first of the second or palatial class of consonants, having the sound of Ch in church."
+        },
+        {
+            "word": "च",
+            "eid": "14549",
+            "pagenum": 257,
+            "content": "च¦ mfn. (चः-चा-चं) 1. Seedless. 2. Vile, base. m. (-चः) 1. A name of SHIVA. 2. The moon. 3. A theif. 4. A tortoise. Ind A particle and conjunction copulative or disjunctive. corresponding to. 1. And. 2. Also, 3. Moreover. 4. Mutually. 5. Equally. 6. Otherwise. 7. For, on account of. 8. But. &c. 9. An expletive. E. चर् to go, or चि to collect, &c. ड aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "च",
+            "eid": "9032",
+            "pagenum": 241,
+            "content": "<b>ca</b>¦ <ab>conj.</ab> <ab>encl.</ab> et, mais, ainsi que ; <ab>qqf.</ab> et même, et encore, et pourtant, et par contre, ou ; si (= <i>ced</i>) ; <i>ca...ca</i> et...et, non seulement). <lbinfo n='4'/>.. mais encore, à peine ...que (simultanéité <lbinfo n='5'/> ; <i>ca</i> est parfois explétif, rarement proclitique <lbinfo n='8'/> ; <i>na...ca</i> ni...ni."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "च",
+            "eid": "14556",
+            "pagenum": 312,
+            "content": "च¦ The twentieth letter of the alphabet, and first of the second or palatial class of consonants, having the sound of <i>Ch</i> in <i>church.</i>"
+        },
+        {
+            "word": "च",
+            "eid": "14557",
+            "pagenum": 312,
+            "content": "च¦ mfn. (-चः-चा-चं) .²1 Seedless. .²2 Vile, base. m. (-चः) .²1 A name of ŚIVA. .²2 The moon. .²3 A thief. .²4 A tortoise. <i>ind.</i> A particle and conjunction copulative or disjunctive, corresponding to .²1 And. .²2 Also. .²3 Moreover. .²4 Mutually. .²5 Equally. .²6 Otherwise. .²7 For, on account of. .²8 But, &c. .²9 An expletive. .E. चर to go, or चि to collect, &c. ड aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "च",
+            "eid": "14012",
+            "pagenum": 272,
+            "content": "च¦ <i>ch.</i> The 1st of the 2nd class or palatial class of consonants."
+        },
+        {
+            "word": "च",
+            "eid": "14013",
+            "pagenum": 272,
+            "content": "च¦ (चः) 1. <i>m.</i> A name of <i>Shiva;</i> the moon; thief; a tortoise."
+        }
     ]
 }

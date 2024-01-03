@@ -44,5 +44,37 @@
             "pagenum": 5,
             "content": "मीनकेतन¦ (मीन + के°) <lex>m.</lex> Bein. <i>des Liebesgottes</i> <ls>AK. 1, 1, 1, 20.</ls> <ls>H. 229</ls>, <ls>Sch.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मीनकेतन",
+            "eid": "21702",
+            "pagenum": 299,
+            "content": "*<i>mīnaketana</i>¦ m. = Liebesgott, <ls>Rasas.</ls> 44, 1. {part=,seq=22001,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मीनकेतन",
+            "eid": "31539",
+            "pagenum": 568,
+            "content": "मीनकेतन¦ m. (-नः) KĀMADEVA. E. मीन a fish, and केतन a symbol."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मीनकेतन",
+            "eid": "30429",
+            "pagenum": 662,
+            "content": "मीनकेतन¦ m. (-नः) KĀMADEVA. .E. मीन a fish, and केतन a symbol."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मीनकेतन",
+            "eid": "29968",
+            "pagenum": 594,
+            "content": "मीन-केतन¦ (नः) 1. <i>m. Kāma.</i>"
+        }
     ]
 }

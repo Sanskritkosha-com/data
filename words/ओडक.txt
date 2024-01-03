@@ -23,5 +23,29 @@
             "pagenum": 1,
             "content": "*ओडक¦ <lex>m.</lex> = ओडव."
         }
+    ],
+    "SHS": [
+        {
+            "word": "ओडक",
+            "eid": "8339",
+            "pagenum": 143,
+            "content": "ओडक¦ m. (-कः) A musical mode, which omits two of the notes of the scale, Ri and Pa."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ओडक",
+            "eid": "8343",
+            "pagenum": 175,
+            "content": "ओडक¦ m. (-कः) A musical mode, which omits two of the notes of the scale, <i>Ri</i> and <i>Pa.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ओडक",
+            "eid": "7770",
+            "pagenum": 145,
+            "content": "ओडक¦ (कः) 1. <i>m.</i> A musical mode."
+        }
     ]
 }

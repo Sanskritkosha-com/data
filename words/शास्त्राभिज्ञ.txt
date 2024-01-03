@@ -15,5 +15,29 @@
             "pagenum": 1069,
             "content": "SAstrA<srs/>BijYa ¦ <lex>mfn.</lex> versed in the <ab n='Śāstra' slp1='SAstra'>Ś°</ab>, <ls>Hit.</ls><info lex='m:f:n'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "शास्त्राभिज्ञ",
+            "eid": "40056",
+            "pagenum": 717,
+            "content": "शास्त्राभिज्ञ¦ mfn. (-ज्ञः-ज्ञा-ज्ञं) Learned, versed in the Śhāstras. E. शास्त्र, and अभिज्ञ who knows."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शास्त्राभिज्ञ",
+            "eid": "38221",
+            "pagenum": 841,
+            "content": "शास्त्राभिज्ञ¦ mfn. (-ज्ञः-ज्ञा-ज्ञं) Learned, versed in the <i>Śāstras.</i> .E. शास्त्र, and अभिज्ञ who knows."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शास्त्राभिज्ञ",
+            "eid": "37866",
+            "pagenum": 760,
+            "content": "शास्त्रा_भिज्ञ¦ (ज्ञः-ज्ञा-ज्ञं) <i>a.</i> Knowing the <i>shāstras.</i>"
+        }
     ]
 }

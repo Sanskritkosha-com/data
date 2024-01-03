@@ -81,5 +81,45 @@
             "pagenum": 5,
             "content": "तगर¦ <div n='1'> 2) N. pr. einer Oertlichkeit <ls>Verz. d. Oxf. H. 339,a,3. 35.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "तगर",
+            "eid": "16842",
+            "pagenum": 301,
+            "content": "तगर¦ m. (-रः) 1. A shrub, (Tabernæmontana coronaria.) 2. A thorny shrub, (Vangueria spinosa.) 3. Another plant, commonly Tagaramula. गॄ अच् । तस्य क्रोडस्य गरः ।"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "तगर",
+            "eid": "111",
+            "pagenum": 557,
+            "content": "<i>tagara</i>¦ <div n='P'/>(1) <bot>ERVATAMIA DIVARICATA BURKILL</bot> (<bot>W.</bot> Rau) = <bot>TABERNAEMONTANA CORONARIA WILLD.</bot> (KB 2, p. 1577-1578) [= <bot>T. CORONARIA R. BR.</bot>] = <bot>T. CORONARIA</bot> (HB; Vśs) (see Bpn, p. 200; Dutt; DWH 2, p. 413-414; HK; Nadk. 1, nr. 2425) = <bot>NERIUM DIVARICATUM LINN.</bot>; <div n='P'/>(2) <bot>ERVATAMIA CORONARIA STAPF</bot> (KB 2, p. 1577-1578: = 1); <div n='P'/>(3) <bot>ERVATAMIA HEYNEANA COOKE</bot> = <bot>TABERNAEMONTANA HEYNEANA WALL.</bot> (see DWH 2, p. 413; Nadk. 1, nr. 2425); <div n='P'/>(4) <bot>T. DICHOTOMA ROXB.</bot> (see DWH 2, p. 413); <div n='P'/>(5) <bot>VALERIANA WALLICHII DC.</bot> (Bpn, p. 199; Dgv, nr. 188; DWH 2, p. 238-240; KB 2, p. 1311-1312; Na 1, nr. 277; Nadk. 1, nr. 2558) [= <bot>V. BRUNONIANA C. B. CLARKE</bot>] (Nadk. 1, nr. 2558); <div n='P'/>(6) <bot>V. LESCHENAULTII DC.</bot> (Nadk. 1, nr. 2558) = <bot>V. BRUNONIANA WIGHT ET ARN.</bot>;"
+        }
+    ],
+    "STC": [
+        {
+            "word": "तगर",
+            "eid": "9798",
+            "pagenum": 273,
+            "content": "<b>tagara-</b>¦ <ab>nt.</ab> <ab>n.</ab> d'une plante (Tabernaemontana <lbinfo n='4'/> coronaria), poudre odoriférante qu'on en extrait."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तगर",
+            "eid": "16859",
+            "pagenum": 362,
+            "content": "तगर¦ m. (-रः) .²1 A shrub, (<bot>Tabernæmontana coronaria</bot>.) .²2 A thorny shrub, (<bot>Vangueria spinosa</bot>.) .²3 Another plant, commonly <i>Tagaramūla.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तगर",
+            "eid": "16326",
+            "pagenum": 319,
+            "content": "तगर¦ (रः) 1. <i>m.</i> A tree (Tabernæmontana coronaria), &c."
+        }
     ]
 }

@@ -168,5 +168,45 @@
             "pagenum": 5,
             "content": "2. एकायन¦ <ls>BHĀG. P. 10, 2, 27</ls> nach dem Schol. = एका प्रकृतिरयनमाश्रयो यस्य सः ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकायन",
+            "eid": "9211",
+            "pagenum": 126,
+            "content": "<i>ekāyana</i>¦ *nur auf einen Gegenstand gerichtet, <ls>S</ls> I, 372, 3. {part=,seq=9333,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "एकायन",
+            "eid": "8190",
+            "pagenum": 141,
+            "content": "एकायन¦ mfn. (-नः-ना-नं) Closely attentive, intent. E. एक, अयन going."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "एकायन",
+            "eid": "443",
+            "pagenum": 1,
+            "content": "<b>Ekāyana</b>¦ denotes some object of study in the Chāndogya Upaniṣad.<sup>1</sup> The St. Petersburg Dictionary renders it ‘doctrine (<i>ayana</i>) of unity’ (<i>eka</i>), ‘monotheism,’ while Max Müller prefers ‘ethics,’ and Monier-Williams in his Dicitionary ‘worldly wisdom.’<sup>2</sup> <F>1) vii. 1, 2. 4; 2, 1; 7, 1.</F> <F>2) Max Müller and Monier-Williams thus follow Śaṅkara's interpretation as <i>nīti-śāstra,</i> ‘moral teaching.’ <i>Cf.</i> Weber, <i>Indische Studien,</i> 1, 267, 484; Little, <i>Grammatical Index,</i> 43.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकायन",
+            "eid": "8194",
+            "pagenum": 172,
+            "content": "एकायन¦ mfn. (-नः-ना-नं) Closely attentive, intent. .E. एक, अयन going."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकायन",
+            "eid": "7616",
+            "pagenum": 142,
+            "content": "एका_यन¦ (नः-ना-नं) <i>a.</i> Closely attentive, devoted to one object."
+        }
     ]
 }

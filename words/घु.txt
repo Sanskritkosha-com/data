@@ -121,5 +121,47 @@
             "pagenum": 2,
             "content": "2. घु¦ <lex>m.</lex> <i>ein best. Laut</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "घु",
+            "eid": "14444",
+            "pagenum": 255,
+            "content": "घु¦ 1st cl. (घवते) To sound. ध्वनौ भ्वा-आ-अक-अनिट् ।"
+        },
+        {
+            "word": "घु",
+            "eid": "14445",
+            "pagenum": 255,
+            "content": "घु¦ m. (-घुः) Sound. E. घु to sound, aff. डु । घु-ध्वनौ वा डु ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "घु",
+            "eid": "14453",
+            "pagenum": 310,
+            "content": "घु¦ r. 1st cl. (घवते) To sound."
+        },
+        {
+            "word": "घु",
+            "eid": "14454",
+            "pagenum": 310,
+            "content": "घु¦ m. (-घुः) Sound. .E. घु to sound, aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "घु",
+            "eid": "13910",
+            "pagenum": 270,
+            "content": "घु¦ (-ङ) घवते 1. <i>d.</i> To sound."
+        },
+        {
+            "word": "घु",
+            "eid": "13911",
+            "pagenum": 270,
+            "content": "घु¦ (घुः) 2. <i>m.</i> Sound."
+        }
     ]
 }

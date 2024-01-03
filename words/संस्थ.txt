@@ -171,5 +171,51 @@
             "pagenum": 7,
             "content": "संस्थ¦ VII. 1〉f〉 <ls>KĀŚĪKH. 30,12</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "संस्थ",
+            "eid": "25543",
+            "pagenum": 351,
+            "content": "<i>saṃstha</i>¦ 1. f. tot, <ls>Kāśīkh.</ls> 30, 12. {part=,seq=25887,type=,n=1}"
+        },
+        {
+            "word": "संस्थ",
+            "eid": "25543.1",
+            "pagenum": 351,
+            "content": "<i>saṃstha</i>¦ m. °seßhafter Späher (pw nur *Späher), <ls>Kauṭ.</ls> 21, 5. 6. {part=,seq=25888,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "संस्थ",
+            "eid": "41786",
+            "pagenum": 747,
+            "content": "संस्थ¦ mfn. (-स्थः-स्था-स्थं) 1. Staying, stopping, fixed, stationary. 2. Staying with, associated, domesticated. m. (-स्थः) 1. A spy, a secret emissary. 2. A countryman, a neighbour, a person of the same country, &c. 3. A dweller, an inhabitant. f. (-स्था) 1. Continuance in the right way, correct conduct. 2. State or condition of being, time of life, &c. 3. Occupation, business, profession. 4. Stop, stay. 5. End, completion. 6. Manifestation, appearance. 7. Resemblance, likeness. 8. A sort of sacrifice. 9. Loss, destruction. 10. Death, dying. 11. Form. 12. An assembly. 13. A royal ordinance. E. सम् implying completeness, association, &c., and ष्ठा to stay, affs. क or अङ् and टाप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "संस्थ",
+            "eid": "20903",
+            "pagenum": 759,
+            "content": "<b>saṃ-stha-</b>¦ <ab>a.</ab> (<ab>ord.</ab> <ab>ifc.</ab>) qui se trouve, se tient à, dans, sur ; appartenant ou inhérent à, fondé sur, dépendant de ; qui possède ou comporte <lbinfo n='5'/> <ab>qqch.</ab> ; <i>-ā-</i> <ab>f.</ab> <ab>v. s. v.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "संस्थ",
+            "eid": "39816",
+            "pagenum": 877,
+            "content": "संस्थ¦ mfn. (-स्थः-स्था-स्थं) .²1 Staying, stopping, fixed, stationary. .²2 Staying with, associated, domesticated. m. (-स्थः) .²1 A spy, a secret emissary. .²2 A countryman, a neighbour, a person of the same country, &c. .²3 A dweller, an inhabitant. f. (स्था) .²1 Continuance in the right way, correct conduct. .²2 State or condition of being, time of life, &c. .²3 Occupation, business, profession. .²4 Stop, stay. .²5 End, completion. .²6 Manifestation, appearance. .²7 Resemblance, likeness. .²8 A sort of sacrifice. .²9 Loss, destruction. .²10 Death, dying. .²11 Form. .²12 An assembly. .²13 A royal ordinance. .E. सम् implying completeness, association, &c., and ष्ठा to stay, affs. क or अङ् and टाप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "संस्थ",
+            "eid": "39491",
+            "pagenum": 797,
+            "content": "सं-स्थ¦ (स्थः) 1. <i>m.</i> A neighbour; countryman, dweller; spy. 1. <i>f.</i> Stable form; appearance; likeness; state, stay; end, destruction, death; statute; royal edict, right conduct; a kind of sacrifice. <i>a.</i> Staying with; stationary."
+        }
     ]
 }

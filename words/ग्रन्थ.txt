@@ -151,5 +151,49 @@
             "pagenum": 5,
             "content": "ग्रन्थ¦ <div n='1'> 2) <ls>NIR. 1, 20.</ls> <ls>LA. (II) 90, 2.</ls> ग्रन्थतश्चार्थतश्चैतत्कृत्स्नं जानाति यो द्विजः <i>dem Wortlaute</i> (dieses noch hinzuzufügen) <i>und dem Sinne nach</i> <ls>VARĀH. BṚH. S. 2, 14.</ls> <ls>SARVADARŚANAS. 76, 9.</ls> °मात्र <i>der blosse Text</i> <ls>Ind. St. 5, 159.</ls> ग्रन्थ so v. a. श्लोक <ls>Ind. St. 10, 278.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ग्रन्थ",
+            "eid": "14150",
+            "pagenum": 249,
+            "content": "ग्रन्थ¦ r. 1st, 9th and 10th cls. (ग्रन्थति, ग्रथ्नाति ग्रन्थयति) To string, to tie together, to connect or arrange in a regular series. With उद् prefixed, To untie, to loosen."
+        },
+        {
+            "word": "ग्रन्थ",
+            "eid": "14151",
+            "pagenum": 250,
+            "content": "ग्रन्थ¦ m. (-न्थः) 1. Stringing or tying together, (literally or metaphorically.) 2. Wealth, property. 3. A book or composition in prose or verse. 4. A metre or measure of thirty two syllables. E. ग्रन्थ to dispose or arrange, affix भावे कर्मणि वा घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "ग्रन्थ",
+            "eid": "8906",
+            "pagenum": 237,
+            "content": "<b>grantha-</b>¦ <ab>m.</ab> (nœud), composition, œuvre littéraire, lettre (opposée à l'esprit), subdivision <lbinfo n='4'/> d'un livre, vers, texte, livre.  <P><i>°kāra-</i> <i>°kṛt-</i> <ab>ag.</ab> auteur de livres.  <P><i>°kū̆ṭī-</i> <ab>f.</ab> bibliothèque."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ग्रन्थ",
+            "eid": "14159",
+            "pagenum": 303,
+            "content": "ग्रन्थ¦ r. 1st, 9th and 10th cls. (ग्रन्थति ग्रथ्नाति ग्रन्थयति) To string, to tie together, to connect or arrange in a regular series. <div n='p'>With उद् prefixed, To untie, to loosen."
+        },
+        {
+            "word": "ग्रन्थ",
+            "eid": "14160",
+            "pagenum": 303,
+            "content": "ग्रन्थ¦ m. (-न्थः) .²1 Stringing or tying together, (literally or metaphorically.) .²2 Wealth, property. .²3 A book or composition in prose or verse. .²4 A metre or measure of thirty-two syllables. .E. ग्रन्थ to dispose or arrange, affix अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ग्रन्थ",
+            "eid": "13616",
+            "pagenum": 264,
+            "content": "ग्रन्थ¦ (न्थः) 1. <i>m.</i> Stringing; wealth; a metre."
+        }
     ]
 }

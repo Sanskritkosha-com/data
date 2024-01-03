@@ -235,5 +235,63 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> हार¦ (von हर) <lex>Adj.</lex> <i>dem</i> <is>Śiva</is> <i>gehörend</i> <ls>DAMAYANTĪK. 178</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "हार",
+            "eid": "27539",
+            "pagenum": 377,
+            "content": "3. <i>hāra</i>¦ (von Hara) Adj. dem Śiva gehörend, <ls>Damayantīk.</ls> 178. {part=,seq=27908,type=,n=1}"
+        },
+        {
+            "word": "हार",
+            "eid": "27539.1",
+            "pagenum": 377,
+            "content": "<i>Hāra</i>¦ m. °Name eines Dichters, <ls>S</ls> I, 454, 5. {part=,seq=27909,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "हार",
+            "eid": "46823",
+            "pagenum": 831,
+            "content": "हार¦ mfn. (-रः-री-रं) Who or what takes, &c. m. (-रः) 1. A porter, a carrier. 2. Taking, conveying. 3. Abstraction, deprivation. 4. A necklace, a string of pearls, &c. 5. War, battle. 6. (In prosody,) A long syllable. 7. (In Arithmetic,) A divisor, also the denominator of a fraction. E. हृ to seize, (the mind, &c.,) and घञ् aff., or causal form, with अण् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "हार",
+            "eid": "24409",
+            "pagenum": 888,
+            "content": "<b>1 hāra-</b>¦ <i>-ī-</i> <ab>ag.</ab> (<ab>ord.</ab> <ab>ifc.</ab>) porte, emporte, dérobe ; qui impose des taxes ; qui charme, ravit ; <ab>m.</ab> vol, confiscation.  <P><i>°hūṇa-</i> <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> d'un peuple."
+        },
+        {
+            "word": "हार",
+            "eid": "24410",
+            "pagenum": 888,
+            "content": "<b>2 hāra-</b>¦ <ab>m.</ab> collier, <ab>not.</ab> collier de perles.  <P><i>°muktā-</i> <ab>f.</ab> <ab>pl.</ab> perles d'un collier.  <P><i>°yaṣṭi-</i> <ab>f.</ab> collier de perles ; <i>°latā-</i> <ab>id.</ab> ; <ab>n.</ab> d'une femme.  <P><i>hārāvalī-</i> <ab>f.</ab> collier de perles."
+        },
+        {
+            "word": "हार",
+            "eid": "24411",
+            "pagenum": 888,
+            "content": "<b>3 hāra-</b>¦ <ab>a.</ab> relatif au dieu Hara."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हार",
+            "eid": "44158",
+            "pagenum": 973,
+            "content": "हार¦ mfn. (-रः-री-रं) Who or what takes, &c. m. (-रः) .²1 A porter, a carrier. .²2 Taking, conveying. .²3 A string or garland of pearls, &c. .²4 War, battle. .²5 (In prosody,) A long syllable. .²6 (In arithmetic,) A divisor, also the denominator of a fraction. .E. हृ to seize, (the mind, &c.) and घञ् aff., or causal form, with अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हार",
+            "eid": "43984",
+            "pagenum": 898,
+            "content": "हार¦ (रः) 1. <i>m.</i> A string or garland of pearls; war; a porter; taking; a divisor. <i>a.</i> Taking."
+        }
     ]
 }

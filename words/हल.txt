@@ -204,5 +204,57 @@
             "pagenum": 7,
             "content": "हल¦ VII. <lex>n.</lex> <i>knochen</i> und <i>Pflug</i> <ls>VAKROKTIPAÑCĀŚIKĀ 39</ls> nach <ls>AUFRECHT</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "हल",
+            "eid": "27485",
+            "pagenum": 377,
+            "content": "<i>hala</i>¦ n. Knochen und Pflug, Vakroktipañcāśikā 39 nach Aufrecht. {part=,seq=27851,type=,n=1}"
+        },
+        {
+            "word": "हल",
+            "eid": "27485.1",
+            "pagenum": 377,
+            "content": "<i>hala</i>¦ m. °Freund, <ls>S</ls> I, 13, 4; 484, 5; 486, 6; 488, 4. — f. (<i>halā</i>) Freundin, <ls>S</ls> I, 601, 5 (Vok. <i>hale</i>); II, 223, 3 (desgl).; <ls>Śuk.</ls> t. s. 34, 7 (desgl.); <ls>Pūrṇabh.</ls> 148, 8 (desgl.). — n. (nach dem Ko.) °Sporn des Hahnes, <ls>S</ls> I, 296, 1 v.u. (Ko.) {part=,seq=27852,type=,n=7}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "हल",
+            "eid": "46690",
+            "pagenum": 829,
+            "content": "हल¦ n. (-लं) A plough. f. (-ला) 1. Vinous liquor. 2. The earth. 3. Water. 4. A female friend: see हला. E. हल् to plough, aff. अच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "हल",
+            "eid": "24376",
+            "pagenum": 886,
+            "content": "<b>hala-</b>¦ <ab>m.</ab> <ab>nt.</ab> charrue ; <ab>nt.</ab> laideur (dans une interprétation étymol.).  <P><i>°kakud-</i> <ab>f.</ab> train de charrue.  <P><i>°golaka-</i> <ab>m.</ab> sorte d'insecte.  <P><i>°dhara- °bhṛt-</i> <ab>m.</ab> Balarāma.  <P><i>°mukha-</i> <ab>nt.</ab> soc.  <P><i>°rada-</i> <ab>a.</ab> aux dents acérées comme une charrue.  <P><i>halāyudha-</i> <ab>m.</ab> Balarāma ; <ab>n.</ab> d'auteurs, dont un lexicographe."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हल",
+            "eid": "44052",
+            "pagenum": 971,
+            "content": "हल¦ r. 1st cl. (हलति) To plough."
+        },
+        {
+            "word": "हल",
+            "eid": "44053",
+            "pagenum": 971,
+            "content": "हल¦ n. (-लं) A plough. f. (-ला) .²1 Vinous liquor. .²2 The earth. .²3 Water. .E. हल to plough, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हल",
+            "eid": "43875",
+            "pagenum": 896,
+            "content": "हल¦ (लं) 1. <i>n.</i> A plough. 1. <i>f.</i> Vinous liquor; the earth; water."
+        }
     ]
 }

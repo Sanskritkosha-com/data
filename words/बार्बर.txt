@@ -15,5 +15,13 @@
             "pagenum": 5,
             "content": "*बार्बर¦ <lex>Adj.</lex> <i>im Lande der Barbaren geboren</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "बार्बर",
+            "eid": "20167",
+            "pagenum": 278,
+            "content": "*<i>bārbara</i>¦ Adj. im Lande der Barbaren geboren. {part=,seq=20447,type=*,n=2}"
+        }
     ]
 }

@@ -95,5 +95,45 @@
             "pagenum": 7,
             "content": "अनावृत¦ I. 1. 5. <i>uneingeschränkt, frei</i> <ls>MBH. 1,122,4</ls>. <ls n='MBH. 1,122,'>14</ls>. <ls n='MBH.'>3,46,42</ls>. <ls n='MBH. 3,'>307,15</ls>. <ls>JĀTAKAM. 22</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनावृत",
+            "eid": "2422",
+            "pagenum": 33,
+            "content": "<i>anāvṛta</i>¦ Adj. 2. <i>°vṛtārgala</i> Adj. s. v.a. unverschlossen, <ls>MBh.</ls> 3, 3, 37. — Auch: nicht eingeschlossen, frei, sui juris; offen, frei (Blick, Rede); uneingeschränkt, frei <ls>MBh.</ls> 1, 122, 4. 14; 3, 46, 42; 307, 15; <ls>Jātakam.</ls> 22. {part=,seq=2457,type=,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनावृत",
+            "eid": "1345",
+            "pagenum": 24,
+            "content": "अनावृत¦ mfn. (-तः-ता-तं) 1. Uncovered, undressed. 2. Open, uninclosed. E. अन् neg. आवृत covered."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनावृत",
+            "eid": "1403",
+            "pagenum": 31,
+            "content": "<b>an-āvṛta-</b>¦ <ab>a. v.</ab> non caché ; libre ; non enfermé ; franc ; non soumis à restriction.  <P><i>anāvṛtārgala-</i> <ab>a.</ab> (porte) non verrouillée."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनावृत",
+            "eid": "1347",
+            "pagenum": 29,
+            "content": "अनावृत¦ mfn. (-तः-ता-तं) .²1 Uncovered, undressed. .²2 Open, uninclosed. .E. अन् neg. आवृत covered."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनावृत",
+            "eid": "1137",
+            "pagenum": 24,
+            "content": "अना_वृत¦ (तः-ता-तं) <i>a.</i> Open, uncovered, undressed."
+        }
     ]
 }

@@ -29,5 +29,29 @@
             "pagenum": 4,
             "content": "पेरोज¦ <lex>n.</lex> = pers. <lang n='arabic'>فيروزه</lang> <i>Türkis</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पेरोज",
+            "eid": "25877",
+            "pagenum": 468,
+            "content": "पेरोज¦ n. (-जं) The turquoise: it is the Persian word."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पेरोज",
+            "eid": "25567",
+            "pagenum": 553,
+            "content": "पेरोज¦ n. (-जं) The turquoise: it is the <i>Persian</i> word <lang n='arabic'>فيروزه</lang>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पेरोज",
+            "eid": "25048",
+            "pagenum": 496,
+            "content": "पेरोज¦ (जं) 1. <i>n.</i> The turquoise."
+        }
     ]
 }

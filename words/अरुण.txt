@@ -434,5 +434,57 @@
             "pagenum": 7,
             "content": "अरुण¦ I. <lex>Adj.</lex> <i>rauh, grob</i> (Speise) <ls>JĀTAKAM. 3,4</ls>. Nach einem <ab>Instr.</ab> oder am Ende eines <ab>Comp.</ab> <i>voller, stark versetzt mit</i> <ls n='JĀTAKAM.'>9,51. 30,36. 31,10</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अरुण",
+            "eid": "4789",
+            "pagenum": 65,
+            "content": "<i>aruṇa</i>¦ Adj. rauh, grob (Speise), <ls>Jātakam.</ls> 3, 4. Nach einem Instr. oder am Ende eines Komp. voller, stark versetzt mit, 9, 51; 30, 36; 31, 10. {part=,seq=4853,type=,n=1}"
+        },
+        {
+            "word": "अरुण",
+            "eid": "4789.1",
+            "pagenum": 65,
+            "content": "<i>aruṇa</i>¦ m. *Rottleria tinctoria, <ls>H</ls> 47, 33? Oder einfach mit 'rot' zu übersetzen? {part=,seq=4854,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अरुण",
+            "eid": "3179",
+            "pagenum": 55,
+            "content": "अरुण¦ mfn. (-ग्णः-ग्णा-ग्णं) Healthy, well. E. अ neg. रुग्ण sick."
+        },
+        {
+            "word": "अरुण",
+            "eid": "3184",
+            "pagenum": 55,
+            "content": "अरुण¦ m. (-णः) 1. A name of the sun. 2. Also of his charioteer, or the dawn personified as the son of KASYAPA by VINATA. 3. The colour of the dawn, dark red, or the mixture of red and black. 4. Tawny, (the colour.) 5. The redness of sun-set. 6. A kind of leprosy, with red spots and insensibility of the skin. 7. A dumb man. 4. (णा) 1. A plant, (Betula.) See अतिविषा. 2. Mader, (Rubia manjith.) 3. Another plant, commonly Teori. See त्रिवृत्. 4. A black kind of the same. 5. Colocynth or bitter apple. 6. The plant that yields the red and black berry from which the jeweller's weight, the Retti, is derived. See गुञ्जा. mfn. (-णः-णा-णं) Tawny, dark red, &c. E. ऋ to go, and उनन् Udādi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अरुण",
+            "eid": "3731",
+            "pagenum": 79,
+            "content": "<b>aruṇa-</b>¦ <ab>a.</ab> couleur d'aurore, rouge ; <ab>m.</ab> le rouge ; aurore ; soleil ; <ab>n.</ab> de divers hommes, <lbinfo n='3'/> <ab>not.</ab> du cocher de Sūrya ; <ab>nt.</ab> rubis ; <i>-ā-</i> <ab>f.</ab> <ab>n.</ab> d'une rivière. <i>-ī-kṛ-</i> rougir ; <i>-tā-</i> <ab>f.</ab> rougeur ; <i>-iman-</i> <ab>m.</ab> <ab>id.</ab>  <P><i>°kara-</i> <ab>m.</ab> soleil.  <P><i>°sārathi-</i> <ab>m.</ab> soleil.  <P><i>aruṇānuja-</i> <ab>m.</ab> Garuḍa.  <P><i>aruṇārcis-</i> <ab>m.</ab> soleil levant.  <P><i>aruṇodaya-</i> <ab>m.</ab> aurore.  <P><i>aruṇodā-</i> <ab>f.</ab> rivière."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अरुण",
+            "eid": "3186",
+            "pagenum": 67,
+            "content": "अरुण¦ m. (-णः) .²1 A name of the sun. .²2 Also of his charioteer, or the dawn personified as the son of KAŚYAPA by VINATĀ. .²3 The colour of the dawn, dark red, or the mixture of red and black. .²4 Tawny, (the colour.) .²5 The redness of sun-set. .²6 A kind of leprosy, with red spots and insensibility of the skin. .²7 A dumb man. f. (-णा) .²1 A plant, (<bot>Betula</bot>.) See अतिविषा. .²2 Madder, (<bot>Rubia manjith</bot>.) .²3 Another plant, commonly <i>Tëori.</i> See त्रिष्टत्. .²4 A black kind of the same. .²5 Colocynth or bitter apple. .²6 The plant that yields the red and black berry from which the jeweller's weight, the <i>Ratti,</i> is derived. See गुञ्जा. mfn. (-णः-णा-णं) Tawny, dark red, &c. .E. ऋ to go, and उनन Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अरुण",
+            "eid": "2648",
+            "pagenum": 52,
+            "content": "अरुण¦ (णः) 1. <i>m.</i> The sun; the dawn. णा <i>f.</i> (Betula). <i>a.</i> Tawny."
+        }
     ]
 }

@@ -197,5 +197,63 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अहीन¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अहीन",
+            "eid": "6495",
+            "pagenum": 89,
+            "content": "2. <i>ahīna</i>¦ 1. a) auch: vorzüglich. {part=,seq=6582,type=,n=1}"
+        },
+        {
+            "word": "अहीन",
+            "eid": "6496",
+            "pagenum": 89,
+            "content": "3. °<i>ahīna</i>¦ m. Herr der Schlangen, <ls>Sūryaś.</ls> 72<sup>a</sup>; <ls>Śrīk.</ls> 4, 8; 19, 37; <ls>Yudh.</ls> 1, 32. {part=,seq=6583,type=°,n=3}"
+        },
+        {
+            "word": "अहीन",
+            "eid": "6497",
+            "pagenum": 89,
+            "content": "<i>Ahīna</i>¦ Titel eines Werkes, <ls>Opp. Cat.</ls> 1. {part=,seq=6584,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अहीन",
+            "eid": "4894",
+            "pagenum": 83,
+            "content": "अहीन¦ mfn. (-नः-ना-नं) 1. Possessed of, not deprived of. 2. Not out-caste or vile. E. अ neg. हीन deprived of. m. (-नः) 1. A large snake, a serpent. 2. A particular sacrifice, one lasting twelve days. E. अहि a snake, and इन superior, or अहन् a day, and ख aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अहीन",
+            "eid": "4876",
+            "pagenum": 106,
+            "content": "<b>1 ahīna-</b>¦ <ab>m.</ab> cérémonie durant plusieurs jours."
+        },
+        {
+            "word": "अहीन",
+            "eid": "4877",
+            "pagenum": 106,
+            "content": "<b>2 a-hīna-</b>¦ <ab>a. v.</ab> entier ; excellent ; qui n'est pas privé de.  <P><i>°gu-</i> <ab>m.</ab> d'un prince.  <P><i>ahīnārtham</i> <ab>adv.</ab> en sorte qu'on y trouve son compte, pour le mieux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अहीन",
+            "eid": "4896",
+            "pagenum": 101,
+            "content": "अहीन¦ mfn. (-नः-ना-नं) .²1 Possessed of, not deprived of. .²2 Not outcaste or vile. .E. अ neg. हीन deprived of. m. (-नः) .²1 A large snake, a serpent. .²2 A particular sacrifice, one lasting twelve days. .E. अहि a snake, and इन superior, or अहन् a day, and ख aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अहीन",
+            "eid": "4266",
+            "pagenum": 80,
+            "content": "अ-हीन¦ (नः-ना-नं) <i>a.</i> Having not outcaste. <i>m.</i> A large serpent."
+        }
     ]
 }

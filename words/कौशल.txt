@@ -149,5 +149,51 @@
             "pagenum": 5,
             "content": "2. कौशल¦ schlechte Schreibart für कौसल ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कौशल",
+            "eid": "11466",
+            "pagenum": 157,
+            "content": "<i>Kauśala</i>¦ ° = Kausala, <ls>S</ls> I, 470, 2. {part=,seq=11641,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कौशल",
+            "eid": "11883",
+            "pagenum": 209,
+            "content": "कौशल¦ nf. (-लं-ली) 1. Greeting, salutation, friendly inquiry. 2. A respectful present, a Nezar. 3. Happiness, welfare, &c. E. कुशल good fortune, well-being, अण् and ङीष् affs."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कौशल",
+            "eid": "8370",
+            "pagenum": 211,
+            "content": "<b>1 kauśala-</b>¦ = <i>kausala-.</i>"
+        },
+        {
+            "word": "कौशल",
+            "eid": "8371",
+            "pagenum": 211,
+            "content": "<b>2 kauśala-</b>¦ <ab>nt.</ab> bien-être, confort, prospérité <lbinfo n='4'/> ; habileté, adresse ; <i>-ya-</i> bien-être, etc."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कौशल",
+            "eid": "11889",
+            "pagenum": 254,
+            "content": "कौशल¦ mf. (-लं-ली) .²1 Greeting, salutation, friendly inquiry. .²2 A respectful present, a <i>Nazr.</i> .²3 Happiness, welfare, &c. .E. कुशल good fortune, well-being, अण् and ङीष् affs."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कौशल",
+            "eid": "11341",
+            "pagenum": 218,
+            "content": "कौशल¦ (लं-ली) 1. <i>n.</i> 3. <i>f.</i> Welfare salutation, kind inquiry; a gift."
+        }
     ]
 }

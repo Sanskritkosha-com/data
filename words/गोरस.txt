@@ -114,5 +114,29 @@
             "pagenum": 7,
             "content": "गोरस¦ <i>Kuhmilch</i> <ls>HEM.</ls> <ls>YOGAŚ. 3, 7.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "गोरस",
+            "eid": "14055",
+            "pagenum": 248,
+            "content": "गोरस¦ mn. (-सः-सं) 1. Milk. 2. Curdled or coagulated milk. 3. Buttermilk. E. गो a cow, and रस juice."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गोरस",
+            "eid": "14064",
+            "pagenum": 301,
+            "content": "गोरस¦ mn. (-सः-सं) .²1 Milk. .²2 Curdled or coagulated milk. .²3 Buttermilk. .E. गो a cow, and रस juice."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गोरस",
+            "eid": "13519",
+            "pagenum": 263,
+            "content": "गो-रस¦ (सः-सं) 1. <i>m. n.</i> Milk, curdled milk, butter-milk."
+        }
     ]
 }

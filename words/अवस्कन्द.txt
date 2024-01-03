@@ -120,5 +120,45 @@
             "pagenum": 7,
             "content": "अवस्कन्द¦ I. <ls>MBH. 10,3,27</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवस्कन्द",
+            "eid": "5439",
+            "pagenum": 74,
+            "content": "<i>avaskanda</i>¦ <ls>MBh.</ls> 10, 3, 27. {part=,seq=5514,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवस्कन्द",
+            "eid": "3901",
+            "pagenum": 67,
+            "content": "अवस्कन्द¦ m. (-न्दः) 1. A camp. 2. Assault, attack, storm. 3. Bathing. 4. Going down, descending. E. अव against, &c. स्कन्द to go, अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवस्कन्द",
+            "eid": "4183",
+            "pagenum": 90,
+            "content": "<b>ava-skanda-</b>¦ <ab>m.</ab> assaut ; <i>-in-</i> <ab>a.</ab> <ab>ifc.</ab> qui attaque."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवस्कन्द",
+            "eid": "3903",
+            "pagenum": 82,
+            "content": "अवस्कन्द¦ m. (-न्दः) .²1 A camp. .²2 Assault, attack, storm. .²3 Bathing. .²4 Going down, descending. .E. अव against, &c. स्कन्द to go, अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवस्कन्द",
+            "eid": "3325",
+            "pagenum": 64,
+            "content": "अव-स्कन्द¦ (न्दः) 1. <i>m.</i> A camp; assault; descending; bathing."
+        }
     ]
 }

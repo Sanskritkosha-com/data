@@ -37,5 +37,21 @@
             "pagenum": 7,
             "content": "सहिम¦ auch <i>kalt</i> (Wind) <ls>R. ed. Bomb. 4,28,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सहिम",
+            "eid": "26342",
+            "pagenum": 362,
+            "content": "<i>sahima</i>¦ auch: kalt (Wind), <ls>R. ed. Bomb.</ls> 4, 28, 15. {part=,seq=26694,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सहिम",
+            "eid": "22675",
+            "pagenum": 826,
+            "content": "<b>sa-hima-</b>¦ <ab>a.</ab> pourvu de neige, de glace ; glacial, froid."
+        }
     ]
 }

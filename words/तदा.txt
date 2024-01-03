@@ -166,5 +166,45 @@
             "pagenum": 7,
             "content": "तदा¦ III. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तदा",
+            "eid": "14243",
+            "pagenum": 196,
+            "content": "<i>tadā</i>¦ wiederholt, ohne Korrelation, dann und dann, <ls>Sāy.</ls> zu <ls>ṚV. 1, 25, 8.</ls> {part=,seq=14469,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तदा",
+            "eid": "16922",
+            "pagenum": 302,
+            "content": "तदा¦ ind. Then, at that time. E. तद् that, दाच् affix, implying time."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तदा",
+            "eid": "9831",
+            "pagenum": 276,
+            "content": "<b>tadā</b>¦ <ab>adv.</ab> alors, en ce temps, dans ce cas ; souvent explétif après <i>tatas</i> ou <i>purā,</i> devant <i>atha ;</i> corrél. de <i>yadā yatra yadi yatas</i> <i>yarhi ced ; tadā prabhṛti</i> depuis ce temps-là, dès lors ; <i>tarhi tadā</i> alors ; <i>yadā...tadā</i> <ab>v.</ab> <i>yadā.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तदा",
+            "eid": "16939",
+            "pagenum": 364,
+            "content": "तदा¦ <i>ind.</i> Then, at that time. .E. तद् that, दाच affix, implying time."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तदा",
+            "eid": "16407",
+            "pagenum": 321,
+            "content": "तदा¦ <i>adv.</i> Then, at that time."
+        }
     ]
 }

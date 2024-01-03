@@ -44,5 +44,37 @@
             "pagenum": 3,
             "content": "दानशौण्ड¦ (1. दान + शौ°) <lex>adj.</lex> <i>überaus freigebig</i> <ls>AK. 3, 1, 6.</ls> <ls>H. 385.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दानशौण्ड",
+            "eid": "15280",
+            "pagenum": 211,
+            "content": "<i>dānaśauṇḍa</i>¦ [wörtlich: wie ein Trunkenbold freigebig] °Abstr. <i>-tā</i>, <ls>Prabandh.</ls> 240, 10 v.u. {part=,seq=15519,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दानशौण्ड",
+            "eid": "18793",
+            "pagenum": 337,
+            "content": "दानशौण्ड¦ mfn. (-ण्डः-ण्डा-ण्डं) Liberal, bountiful, munificent. E. दान a gift, and शौण्ड intoxicated, attached to violently."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दानशौण्ड",
+            "eid": "18808",
+            "pagenum": 405,
+            "content": "दानशौण्ड¦ mfn. (-ण्डः-ण्डा-ण्डं) Liberal, bountiful, munificent. .E. दान a gift, and शौण्ड intoxicated, attached to violently."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दानशौण्ड",
+            "eid": "18280",
+            "pagenum": 360,
+            "content": "दान-शौण्ड¦ (ण्डः-ण्डा-ण्डं) <i>a. Idem.</i>"
+        }
     ]
 }

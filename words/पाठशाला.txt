@@ -15,5 +15,29 @@
             "pagenum": 4,
             "content": "पाठशाला¦ (पाठ + शा°) <lex>f.</lex> <i>Schule</i> <ls>ŚKDR.</ls> <ls>WILS.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पाठशाला",
+            "eid": "24242",
+            "pagenum": 439,
+            "content": "पाठशाला¦ f. (-ला) A college, a school. E. पाठ study, शाला a hall."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाठशाला",
+            "eid": "24187",
+            "pagenum": 522,
+            "content": "पाठशाला¦ f. (-री) A college, a school. .E. पाठ study, शाला a hall."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाठशाला",
+            "eid": "23661",
+            "pagenum": 467,
+            "content": "पाठ-शाला¦ (ला) 1. <i>f.</i> College, school."
+        }
     ]
 }

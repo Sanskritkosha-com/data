@@ -161,5 +161,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> निशान्त¦ III. <i>Harem</i> <ls>DHARMAŚARM. 5,35</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "निशान्त",
+            "eid": "17052",
+            "pagenum": 235,
+            "content": "<i>niśānta</i>¦ Harem, <ls>Dharmaśarm.</ls> 5, 35. [<ls>Yudh.</ls> 5, 74; nach dem Komm. *m.] {part=,seq=17307,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "निशान्त",
+            "eid": "22204",
+            "pagenum": 401,
+            "content": "निशान्त¦ mfn. (-न्तः-न्ता-न्तं) Quiet, tranquil, patient. n. (-न्तं) 1. A house, a dwelling. 2. The end of the night, or break of day. E. नि before, शम् to be quiet, aff. क्त; or निशा night, अम् to go, aff. क्त; or निशा as before night, and अन्त end or term."
+        }
+    ],
+    "STC": [
+        {
+            "word": "निशान्त",
+            "eid": "12298",
+            "pagenum": 381,
+            "content": "<b>2 ni-śānta-</b>¦ <ab>a. v.</ab> apaisé, calme ; <ab>nt.</ab> maison, <lbinfo n='3'/> habitation."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निशान्त",
+            "eid": "22218",
+            "pagenum": 479,
+            "content": "निशान्त¦ mfn. (-न्तः-न्ता-न्तं) Quiet, tranquil, patient. n. (-न्तं) .²1 A house, a dwelling. .²2 The end of the night, or break of day. .E. नि before शम to be quiet, aff. क्त; or निशा night, अम to go, aff. क्त; or निशा as before, night, and अन्त end or term."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निशान्त",
+            "eid": "21688",
+            "pagenum": 427,
+            "content": "निशा_न्त¦ (न्तः-न्ता-न्तं) <i>a.</i> Quiet, tranquil. <i>n.</i> A house; break of day."
+        }
     ]
 }

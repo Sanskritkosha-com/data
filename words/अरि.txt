@@ -273,5 +273,51 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> अरि¦ I. <i>Discus</i> <ls>CAṆḌĪŚ. 36,83</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अरि",
+            "eid": "4766",
+            "pagenum": 65,
+            "content": "3. <i>ari</i>¦ Diskus, <ls>Caṇḍīś.</ls> 36. 83. [<ls>Yudh.</ls> 7, 13; nach dem Komm. °n.] {part=,seq=4828,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अरि",
+            "eid": "3158",
+            "pagenum": 55,
+            "content": "अरि¦ m. (-रिः) 1. An enemy. 2. A wheel. 3. A species of Khadira or Mimosa. E. ऋ to go, अच् affix, and इ substituted for अ."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अरि",
+            "eid": "3719",
+            "pagenum": 78,
+            "content": "<b>1 ari-</b>¦ <ab>m.</ab> roue, disque."
+        },
+        {
+            "word": "अरि",
+            "eid": "3720",
+            "pagenum": 78,
+            "content": "<b>2 a-ri-</b>¦ <ab>m.</ab> ennemi ; <i>-tā-</i> <ab>f.</ab> inimitié.  <P><i>°ghna-</i> <ab>m.</ab> qui détruit les ennemis.  <P><i>°jit-</i> <ab>m.</ab> fils de Kṛṣṇa.  <P><i>°nandana-</i> <ab>a.</ab> qui fait triompher l'ennemi.  <P><i>°nipāta-</i> <ab>m.</ab> incursion d'ennemis.  <P><i>°mardana-</i> <ab>a.</ab> qui détruit l'ennemi ; <ab>m.</ab> <ab>n.</ab> d'un roi des hibous.  <P><i>°soma-</i> <ab>m.</ab> <ab>n.</ab> d'une sorte de soma.  <P><i>°ha-</i> <ab>m.</ab> <ab>n.</ab> de princes.  <P><i>°han-</i> <ab>ag.</ab> qui frappe les ennemis.  <P><i>ariṃ-dama-</i> <ab>a.</ab> qui maîtrise l'ennemi ; <ab>m.</ab> <ab>n.</ab> d'un Muni."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अरि",
+            "eid": "3160",
+            "pagenum": 66,
+            "content": "अरि¦ m. (-रिः) .²1 An enemy. .²2 A wheel. .²3 A species of <i>Khadira</i> or <bot>Mimosa</bot>. .E. ऋ to go, अच् affix, and इ substituted for अ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अरि",
+            "eid": "2624",
+            "pagenum": 52,
+            "content": "अरि¦ (रिः) 2. <i>m.</i> Enemy; wheel."
+        }
     ]
 }

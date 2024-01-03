@@ -53,5 +53,27 @@
             "pagenum": 6,
             "content": "विग्रहिन्¦ (von 1. विग्रह) <lex>adj.</lex> <i>Krieg führend</i>: तस्मान्न विद्वानतिविग्रही (so ist zu lesen) स्यात् <ls>KĀM. NĪTIS. 9, 74.</ls> <lex>m.</lex> <i>Minister des Krieges</i> <ls>R. ed. GORR. Bd. VII, S. 341.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "विग्रहिन्",
+            "eid": "23693",
+            "pagenum": 327,
+            "content": "<i>vigrahin</i>¦ Adj. °having a form or body, <ls>Harṣac.</ls> 82, 6. {part=,seq=24024,type=,n=1}"
+        },
+        {
+            "word": "विग्रहिन्",
+            "eid": "23693.1",
+            "pagenum": 327,
+            "content": "<i>vigrahin</i>¦ m. °Feind, <ls>Yudh.</ls> 1, 41. {part=,seq=24025,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विग्रहिन्",
+            "eid": "18379",
+            "pagenum": 648,
+            "content": "<b>vi-grahin-</b>¦ <ab>m.</ab> ministre de la guerre ; <ab>a.</ab> <ab>ifc.</ab> qui a le corps ou la forme de."
+        }
     ]
 }

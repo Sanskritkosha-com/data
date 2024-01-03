@@ -287,5 +287,61 @@
             "pagenum": 5,
             "content": "3. ग¦ auch eine Abkürzung für गान्धार (<i>die 3te Note</i>) <ls>Verz. d. Oxf. H. 200,b,8.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ग",
+            "eid": "12923",
+            "pagenum": 226,
+            "content": "ग¦ The third consonant of the Nagri alphabet, the letter G."
+        },
+        {
+            "word": "ग",
+            "eid": "12924",
+            "pagenum": 226,
+            "content": "ग¦ mfn. (-गः-गा-गं) Who or what goes, used chiefly in composition: as अध्वगः a traveller, who goes a road; अपगा what goes down, (a river, &c.) m. (-गः) 1. A name of the deity GANESHA. 2. A Gandharba or celestial musician. f. (-गा) A song. n. (-गं) Song, singing. E. गम् to go or गै to sing, affix ड, fem. affix टाप्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ग",
+            "eid": "8627",
+            "pagenum": 222,
+            "content": "<b>1 ga-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui va, se meut, se trouve dans, se rapporte à."
+        },
+        {
+            "word": "ग",
+            "eid": "8628",
+            "pagenum": 222,
+            "content": "<b>2 ga-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui chante."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ग",
+            "eid": "12929",
+            "pagenum": 275,
+            "content": "ग¦ The third consonant of the <i>Nāgarī</i> alphabet, the letter. <i>G.</i>"
+        },
+        {
+            "word": "ग",
+            "eid": "12930",
+            "pagenum": 275,
+            "content": "ग¦ mfn. (-गः-गा-गं) Who or what goes, used chiefly in composition: as अधगः a traveller, who goes a road; अपगा what goes down, (a river, &c.) m. (-गः) .²1 A name of the deity GAṆEŚA. .²2 A <i>Gandharba</i> or celestial musician. f. (गा) A song. n. (-गं) Song, singing. .E. गम to go or गै to sing, affix ड, fem. affix टाप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ग",
+            "eid": "12381",
+            "pagenum": 239,
+            "content": "ग¦ The letter <i>g,</i> the 3rd consonant of the Alphabet."
+        },
+        {
+            "word": "ग",
+            "eid": "12382",
+            "pagenum": 239,
+            "content": "ग¦ (गः) 1. <i>m.</i> A name of the deity <i>Ganesh;</i> a celestial musician. <i>f.</i> (गा) A song. <i>n.</i> Song. <i>a.</i> Going, as पद्ग going on foot, a foot soldier."
+        }
     ]
 }

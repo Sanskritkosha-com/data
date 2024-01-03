@@ -107,5 +107,37 @@
             "pagenum": 5,
             "content": "एकल¦ <i>einer</i> (nach dem <ls>Schol.</ls>) <ls>BHĀG. P. 10, 61, 14.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "एकल",
+            "eid": "8148",
+            "pagenum": 140,
+            "content": "एकल¦ mfn. (-लः-ला-लं) Alone, solitary; a various reading of एकक."
+        }
+    ],
+    "STC": [
+        {
+            "word": "एकल",
+            "eid": "7338",
+            "pagenum": 167,
+            "content": "<b>ekala-</b>¦ <ab>a.</ab> solitaire, seul."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकल",
+            "eid": "8152",
+            "pagenum": 171,
+            "content": "एकल¦ mfn. (-लः-ला-लं) Alone, solitary; a various reading of एकक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकल",
+            "eid": "7571",
+            "pagenum": 141,
+            "content": "एकल¦ (लः-ला-लं) <i>a.</i> Alone."
+        }
     ]
 }

@@ -132,5 +132,45 @@
             "pagenum": 5,
             "content": "प्रगे¦ <ls>Schol.</ls> zu <ls>H. 139</ls> (wo so zu lesen ist). <i>morgen früh</i> <ls>KATHĀS. 63, 191.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रगे",
+            "eid": "19038",
+            "pagenum": 263,
+            "content": "<i>prage</i>¦ Adv. auch <ls>Śrīk.</ls> 15, 28. {part=,seq=19309,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रगे",
+            "eid": "26162",
+            "pagenum": 474,
+            "content": "प्रगे¦ Ind. Dawn, morning."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रगे",
+            "eid": "14166",
+            "pagenum": 453,
+            "content": "<b>pra-ge</b>¦ <ab>adv.</ab> le matin de bonne heure, à l'aube.  <P><i>°niśa-</i> <ab>a.</ab> qui dort au début de la matinée comme (si c'était encore) la nuit.  <P><i>°śaya-</i> <ab>a.</ab> (encore) endormi à l'aube."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रगे",
+            "eid": "25809",
+            "pagenum": 559,
+            "content": "प्रगे¦ <i>ind.</i> Dawn, morning."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रगे",
+            "eid": "25296",
+            "pagenum": 501,
+            "content": "प्रगे¦ <i>adv.</i> At dawn."
+        }
     ]
 }

@@ -202,5 +202,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> आदि¦ I. 7. <ab>Bez.</ab> <i>des 5ten Theils im 7theiligen</i> <is>Sāman</is> <ls>CHĀND. UP. 2,8,1</ls>. <ls n='CHĀND. UP. 2,'>9,5</ls>. <ls n='CHĀND. UP. 2,'>10,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आदि",
+            "eid": "6890",
+            "pagenum": 94,
+            "content": "1. <i>[ādi]</i>¦ , <i>ādim</i> mit <i>ādā</i> <ls>Med.</ls> den Anfang machen, JAOS 11, CXLVII f. — Bez. des dritten Teiles im siebenteiligen sāman, <ls>Chānd. Up.</ls> 2, 8, 1; 9, 5; 10, 2. {part=,seq=6981,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आदि",
+            "eid": "5327",
+            "pagenum": 91,
+            "content": "आदि¦ m. only (-दिः) 1. First, prior. 2. First, pre-eminent. ind. (In composition,) Other, et-cetera, as स्वादि the affix सु et-cetera. E. आङ् before दा to give, and कि aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आदि",
+            "eid": "5158",
+            "pagenum": 114,
+            "content": "<b>ādi-</b>¦ <ab>m.</ab> commencement, début ; initial(e) (<ab>gramm.</ab>) ; <ab>ifc.</ab> qui commence par, qui comporte <lbinfo n='5'/> notamment, et ainsi de suite, etc. ; <i>ādikṛ-</i> <lbinfo n='3'/> mettre en avant ; <i>-au</i> à l'origine, d'abord ; <i>-tas</i> <ab>id.</ab> ; <i>-ka-</i> <ab>ifc.</ab> qui commence par ; <i>-tā-</i> <ab>f.</ab> fait d'être le début.  <P><i>°kartṛ-</i> <ab>ag.</ab> <i>°deva-</i> <ab>m.</ab> Kṛṣṇa ; Viṣṇu.  <P><i>°kāla-</i> <ab>m.</ab> époque primitive.  <P><i>°guru-</i> <ab>m.</ab> premier ministre.  <P><i>°parvata-</i> <ab>m.</ab> montagne principale.  <P><i>°parvan-</i> <ab>nt.</ab> premier livre du <ab>MhBh.</ab>  <P><i>°puruṣa- °pūruṣa-</i> <ab>m.</ab> Hiraṇyakaśipu ; Viṣṇu ; Kṛṣṇa.  <P><i>°bhava-</i> <ab>a.</ab> issu d'abord ; <ab>m.</ab> Brahma.  <P><i>°madhyānta-ja-</i> <ab>a.</ab> <ab>pl.</ab> de naissance haute, moyenne et basse.  <P><i>°mūla-</i> <ab>nt.</ab> base originelle.  <P><i>°rāja-</i> <ab>m.</ab> Manu ; Pṛthu.  <P><i>°vaṃśa-</i> <ab>m.</ab> race primitive ; <i>°vaṃśāvatāraṇa-</i> <ab>nt.</ab> généalogie, <ab>n.</ab> d'un chapitre du <ab>MhBh.</ab>  <P><i>°varāha-</i> <ab>m.</ab> Viṣṇu.  <P><i>°śarīra-</i> <ab>nt.</ab> corps primordial.  <P><i>°sarga-</i> <ab>m.</ab> création première.  <P><i>°ādy-anta-</i> <ab>a.</ab> qui commence et finit par ; <i>-vant-</i> <ab>a.</ab> qui a un commencement et une fin."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आदि",
+            "eid": "5329",
+            "pagenum": 110,
+            "content": "आदि¦ m. only. (-दिः) .²1 First, prior. .²2 First, pre-eminent. <i>ind.</i> (In composition,) Other, et-cetera, as स्वादि the affix सु et-cetera. .E. आङ् before दा to give, and कि aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आदि",
+            "eid": "4700",
+            "pagenum": 88,
+            "content": "आदि¦ (दिः) 2. <i>m.</i> Beginning (in composition, et cetera.)"
+        }
     ]
 }

@@ -93,5 +93,45 @@
             "pagenum": 5,
             "content": "ऐण¦, मांस <ls>Spr. 655.</ls> ऐन <ls>HAEB.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "ऐण",
+            "eid": "9311",
+            "pagenum": 128,
+            "content": "°<i>aiṇa</i>¦ n. eine Art Coitus, E 569 (R). 577. 578 (A). {part=,seq=9434,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ऐण",
+            "eid": "8288",
+            "pagenum": 142,
+            "content": "ऐण¦ mfn. (-णः-णी-णं) Belonging to a male antelope. E. एण an antelope, अण् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ऐण",
+            "eid": "7386",
+            "pagenum": 168,
+            "content": "<b>aiṇa-</b>¦ <ab>a.</ab> provenant de l'antilope femelle ; <i>-eya-</i> <i>-ī-</i> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ऐण",
+            "eid": "8292",
+            "pagenum": 174,
+            "content": "ऐण¦ mfn. (-णः-णी-णं) Belonging to a male antelope. .E. एण an antelope, अण aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ऐण",
+            "eid": "7717",
+            "pagenum": 144,
+            "content": "ऐण¦ (णः-णा-णं) <i>a.</i> Belonging to a male antelope."
+        }
     ]
 }

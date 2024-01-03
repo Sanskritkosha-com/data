@@ -23,5 +23,29 @@
             "pagenum": 5,
             "content": "भिन्नवर्ग¦ (भिन्न + वर्ग) <lex>m.</lex> <i>das Quadrat eines Bruchs</i> <ls>COLEBR. Alg. 18.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "भिन्नवर्ग",
+            "eid": "29477",
+            "pagenum": 532,
+            "content": "भिन्नवर्ग¦ m. (-र्गः) Square of a fraction. E. भिन्न and वर्ग a square."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भिन्नवर्ग",
+            "eid": "28578",
+            "pagenum": 620,
+            "content": "भिन्नवर्ग¦ m. (-र्गः) Square of a fraction. .E. भिन्न, and बर्ग a square."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भिन्नवर्ग",
+            "eid": "28090",
+            "pagenum": 556,
+            "content": "भिन्न-वर्ग¦ (र्गः) 1. <i>m.</i> Square of a fraction in arithmetic."
+        }
     ]
 }

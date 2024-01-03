@@ -47,5 +47,37 @@
             "pagenum": 1,
             "content": "अलकाधिप¦ (अलका + अधिप) <lex>m.</lex> ein Bein. <is>Kuvera's</is> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अलकाधिप",
+            "eid": "27979",
+            "pagenum": 385,
+            "content": "*<i>Alakādhipa</i>¦ m. = Kubera, <ls>Kir.</ls> III, 59. {part=N,seq=28350,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अलकाधिप",
+            "eid": "3454",
+            "pagenum": 60,
+            "content": "अलकाधिप¦ m. (-पः) A name of KUVERA. E. अलका the city, and अधिप a ruler."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अलकाधिप",
+            "eid": "3456",
+            "pagenum": 73,
+            "content": "अलकाधिप¦ m. (-पः) A name of KUVERA. .E. अलका the city, and अधिप a ruler."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अलकाधिप",
+            "eid": "2902",
+            "pagenum": 56,
+            "content": "अलका_धिप¦ (पः) 1. <i>m.</i> Kuvera."
+        }
     ]
 }

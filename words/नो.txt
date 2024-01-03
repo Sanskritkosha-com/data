@@ -136,5 +136,37 @@
             "pagenum": 5,
             "content": "नो¦ einfach <i>nicht</i>, ohne dass das Metrum die Form forderte, <ls>LA. (II) 90, 22.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "नो",
+            "eid": "22639",
+            "pagenum": 409,
+            "content": "नो¦ ind. No, not. E. नह to command, aff. डो."
+        }
+    ],
+    "STC": [
+        {
+            "word": "नो",
+            "eid": "12720",
+            "pagenum": 394,
+            "content": "<b>no</b>¦ particule de <ab>nég.</ab> ne pas, ni non plus ; <ab>ord.</ab> en corrélation avec <i>na</i> <i> : na...no</i> ni...ni."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नो",
+            "eid": "22654",
+            "pagenum": 489,
+            "content": "नो¦ <i>ind.</i> No, not. .E. णुद to command, aff. डो."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नो",
+            "eid": "22124",
+            "pagenum": 436,
+            "content": "नो¦ <i>adv.</i> No, not."
+        }
     ]
 }

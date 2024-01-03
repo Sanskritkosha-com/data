@@ -83,5 +83,21 @@
             "pagenum": 7,
             "content": "पलाव¦ IV. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पलाव",
+            "eid": "18122",
+            "pagenum": 250,
+            "content": "<i>palāva</i>¦ Sg. Angel, Angelhaken, <ls>Vāsav.</ls> 138, 3. {part=,seq=18384,type=,n=2}"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "पलाव",
+            "eid": "1734",
+            "pagenum": 1,
+            "content": "<b>Palāva</b>¦ is found in the Atharvaveda<sup>1</sup> and the Jaiminīya Upaniṣad Brāhmaṇa<sup>2</sup> in the sense of ‘chaff.’ <F>1) xii. 3, 19, where some manuscripts read <i>palāvā.</i></F> <F>2) i. 54, 1</F>"
+        }
     ]
 }

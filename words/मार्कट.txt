@@ -55,5 +55,27 @@
             "pagenum": 5,
             "content": "मार्कट¦ (von मर्कट) <lex>adj.</lex> <lex>f.</lex> ई <i>äffisch</i>: आकृति <i>Affengestalt</i> <ls>KATHĀS. 37, 241.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मार्कट",
+            "eid": "21588",
+            "pagenum": 298,
+            "content": "<i>mārkaṭa</i>¦ °eine Art Coitus, E 576 (A). 593 (D). {part=,seq=21884,type=,n=1}"
+        },
+        {
+            "word": "मार्कट",
+            "eid": "21588.1",
+            "pagenum": 298,
+            "content": "<i>mārkaṭa</i>¦ °Subst. ein best. Gift, <ls>Kauṭ.</ls> 100, 10. {part=,seq=21885,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मार्कट",
+            "eid": "16719",
+            "pagenum": 565,
+            "content": "<b>mārkaṭa-</b>¦ <i>-ī-</i> <ab>a.</ab> de singe, simiesque."
+        }
     ]
 }

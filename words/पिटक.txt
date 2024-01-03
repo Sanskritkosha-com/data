@@ -163,5 +163,45 @@
             "pagenum": 7,
             "content": "पिटक¦ IV. <i>Bläschen, kleine Anschwellung</i> (auf der Haut) <ls>JĀTAKAM. 31</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पिटक",
+            "eid": "18483",
+            "pagenum": 255,
+            "content": "<i>piṭaka</i>¦ Bläschen, kleine Anschwellung (auf der Haut), <ls>Jātakam.</ls> 31. {part=,seq=18748,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पिटक",
+            "eid": "24776",
+            "pagenum": 449,
+            "content": "पिटक¦ mfn. subst. (-कः-का-कं) A boil, an ulcer. m. (-कः) 1. A basket, a box. 2. A large basket, or receptacle of basket work, for keeping grain, &c.; a granary. 3. An ornament on Indra's banner. E. पिट् to collect, aff. क्कुन्; also पिट and पेटक ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पिटक",
+            "eid": "13783",
+            "pagenum": 433,
+            "content": "<b>piṭaka-</b>¦ <ab>m.</ab> <ab>nt.</ab> <i>-ā-</i> <ab>f.</ab> corbeille ; <ab>m.</ab> ornement du drapeau d'Indra."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पिटक",
+            "eid": "24678",
+            "pagenum": 533,
+            "content": "पिटक¦ mfn. <i>subst.</i> (-कः-का-कं) A boil. m. (-कः) .²1 A basket, a box. .²2 A large basket, or receptacle of basket work, for keeping grain, &c. a granary. .E. पिट to collect, aff. क्वुन्; also षिट and पेटक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पिटक",
+            "eid": "24157",
+            "pagenum": 478,
+            "content": "पिटक¦ (कः) 1. <i>m.</i> A basket; a granary. <i>m. f. n.</i> A boil."
+        }
     ]
 }

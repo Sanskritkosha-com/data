@@ -23,5 +23,21 @@
             "pagenum": 7,
             "content": "गल्लर्क¦ = गल्वर्क <ls>R. ed. Bomb. 3,43,29</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गल्लर्क",
+            "eid": "12227",
+            "pagenum": 168,
+            "content": "<i>gallarka</i>¦ = <i>galvarka</i>, <ls>R. ed. Bomb.</ls> 3, 43, 29. {part=,seq=12414,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "गल्लर्क",
+            "eid": "8723",
+            "pagenum": 227,
+            "content": "<b>gallarka-</b>¦ = <i>galv-arka-</i> s. <i>galū-.</i>"
+        }
     ]
 }

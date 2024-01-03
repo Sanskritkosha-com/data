@@ -41,5 +41,27 @@
             "pagenum": 7,
             "content": "अदरिद्र¦ 1. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अदरिद्र",
+            "eid": "1520",
+            "pagenum": 21,
+            "content": "2. <i>adaridra</i>¦ Adj. (f. <i>ā</i>) ohne Arme (Bettler). {part=,seq=1545,type=,n=1}"
+        },
+        {
+            "word": "अदरिद्र",
+            "eid": "1520.1",
+            "pagenum": 21,
+            "content": "<i>adaridra</i>¦ Adj. (f. <i>ā</i>) nicht arm, reich, Hemādri 2, a, 2, 10; — an (Instr.). {part=,seq=1546,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अदरिद्र",
+            "eid": "877",
+            "pagenum": 19,
+            "content": "<b>a-daridra-</b>¦ <ab>a.</ab> dénué de gens pauvres."
+        }
     ]
 }

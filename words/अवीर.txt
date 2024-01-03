@@ -127,5 +127,37 @@
             "pagenum": 1,
             "content": "2. अवीर/¦ (wie eben) <lex>adj.</lex> <i>von Männern entblösst</i>: अवीर इव बत मे ऽजन इव पुत्रं हरन्ति <ls>ŚAT. BR. 11, 5, 1, 3.</ls> किं नु तदवीरं कथमजनं स्याद्यत्राहं स्याम् <ls n='ŚAT. BR. 11, 5, 1,'>4.</ls> अवीरा <i>eine Frau ohne Mann und ohne Kinder</i> <ls>AK. 2, 6, 1, 11.</ls> <ls>H. 530</ls>, <ls>Sch.</ls>  <ls>MED. r. 112.</ls> अवीरायाश्च योषितः <ls>M. 4, 213.</ls> अवीरास्त्री (im comp.) <ls>YĀJÑ. 1, 163.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवीर",
+            "eid": "5706",
+            "pagenum": 78,
+            "content": "<i>avīra</i>¦ Adj. °nicht leistungsfähig genug, unvermögend, <ls>Kauṭ.</ls> 176, 6. {part=,seq=5782,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवीर",
+            "eid": "4117",
+            "pagenum": 71,
+            "content": "अवीर¦ mfn. (-रः-रा-रं) Weak, impotent, helpless. f. (-रा) A woman who has neither husband nor son. E. अ neg. वीर strong."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवीर",
+            "eid": "4119",
+            "pagenum": 86,
+            "content": "अवीर¦ mfn. (-रः-रा-रं) Weak, impotent, helpless. f. (-रा) A woman who has neither husband nor son. .E. अ neg. वीर strong."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवीर",
+            "eid": "3512",
+            "pagenum": 67,
+            "content": "अ-वीर¦ (रः-रा-रं) <i>a.</i> Weak. (रा) 1. <i>f.</i> Without husband and son."
+        }
     ]
 }

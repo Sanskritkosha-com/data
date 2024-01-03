@@ -143,5 +143,43 @@
             "pagenum": 7,
             "content": "अधोमुख¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अधोमुख",
+            "eid": "1848",
+            "pagenum": 25,
+            "content": "<i>adhomukha</i>¦ 1. f. <i>ā</i> <ls>Śiś.</ls> 10, 17. {part=,seq=1874,type=,n=1}"
+        },
+        {
+            "word": "अधोमुख",
+            "eid": "27766",
+            "pagenum": 382,
+            "content": "<i>adhomukha</i>¦ °Subst. n. gesenktes Antlitz, <ls>Daśar.</ls> IV, 24<sup>b</sup>. {part=N,seq=28137,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अधोमुख",
+            "eid": "1105",
+            "pagenum": 20,
+            "content": "अधोमुख¦ mfn. (-ख-खा-खी-खं) 1. Down-looked, looking downwards. 2. Inverted, turned upside down. 3. Headlong. f. (-खा) A plant, (Premna esculenta.) E. अधस्, and मुख the face."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अधोमुख",
+            "eid": "1106",
+            "pagenum": 24,
+            "content": "अधोमुख¦ mfn. (-खः-खा-खी-खं) .²1 Down-looked, looking downwards. .²2 Inverted, turned upside down. .²3 Headlong. f. (-खा) A plant, (<bot>Premna esculenta</bot>.) .E. अधस्, and मुख the face."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अधोमुख",
+            "eid": "917",
+            "pagenum": 19,
+            "content": "अधो_मुख¦ (खः-खा-खी-खं) <i>a.</i> Downlooked, downcast. <i>f.</i> A plant."
+        }
     ]
 }

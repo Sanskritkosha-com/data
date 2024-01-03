@@ -152,5 +152,29 @@
             "pagenum": 7,
             "content": "सूना¦ VII. Z. 6 lies <i>Messer</i> <ab>st.</ab> <i>Wasser</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सूना",
+            "eid": "26917",
+            "pagenum": 369,
+            "content": "<i>sūnā</i>¦ Z. 6 lies Messer statt Wasser. {part=,seq=27277,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सूना",
+            "eid": "23772",
+            "pagenum": 858,
+            "content": "<b>sūnā-</b>¦ <ab>f.</ab> abattoir, boucherie ; meurtre, massacre ; danger de mort ; l'un des (5) lieux ou moyens par où un être vivant peut être accidentellement détruit (dans une maison).  <P><i>°doṣa-</i> <ab>m.</ab> péché (encouru en détruisant des êtres vivants dans une) <i>-sūnā-.</i>  <P><i>°paricara-</i> <ab>a.</ab> qui survole un abattoir.  <P><i>°stha-</i> <ab>a.</ab> situé dans un abattoir."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "सूना",
+            "eid": "3648",
+            "pagenum": 2,
+            "content": "<b>Sūnā</b>¦ means, in the Rigveda<sup>1</sup> and the Atharvaveda,<sup>2</sup> apparently a ‘woven (from <i>sīv,</i> ‘sew’) wickerwork basket’ for holding flesh. <F>1) i. 161, 10; 162, 13; x. 86, 18.</F> <F>2) Av. v. 17, 14. Crates of <b>Palāśa</b> wood are mentioned in the Śāṅkhāyana Śrauta Sūtra, xvii. 3, 2. 3. <div n='P'/><i>Cf.</i> Zimmer, <i>Altindisches Leben,</i> 271.</F>"
+        }
     ]
 }

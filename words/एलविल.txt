@@ -63,5 +63,29 @@
             "pagenum": 1,
             "content": "एलविल¦ <lex>m.</lex> = ऐलविल ein Bein. <is>Kuvera's</is> <ls>Sch.</ls> zu <ls>AK. 1, 1, 1, 65.</ls> <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "एलविल",
+            "eid": "8253",
+            "pagenum": 142,
+            "content": "एलविल¦ m. (-लः) A name of KUVERA: see ऐलविल."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एलविल",
+            "eid": "8257",
+            "pagenum": 173,
+            "content": "एलविल¦ m. (-लः) A name of KUVERA: see ऐलविल."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एलविल",
+            "eid": "7681",
+            "pagenum": 143,
+            "content": "एलविल¦ (लः) 1. <i>m.</i> Kuvera."
+        }
     ]
 }

@@ -205,5 +205,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अस्र¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अस्र",
+            "eid": "6407",
+            "pagenum": 88,
+            "content": "1. <i>asra</i>¦ 2. b) Blut, <ls>Ragh.</ls> 16, 15; <ls>Caṇḍak.</ls> 70, 9. [<ls>Śrīk.</ls> VI, 61; XIX, 58. 62 (Ko.); XX, 33; XXIII, 7. 38. 41.] {part=,seq=6493,type=,n=3}"
+        },
+        {
+            "word": "अस्र",
+            "eid": "28071",
+            "pagenum": 386,
+            "content": "<i>asra</i>¦ n. *Blut, <ls>Padyac.</ls> I, 33<sup>b</sup>. {part=N,seq=28442,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अस्र",
+            "eid": "4821",
+            "pagenum": 82,
+            "content": "अस्र¦ m. (-स्रः) 1. A corner, an angle. 2. Hair. n. (-स्रं) 1. Blood. 2. A tear. E. अस to cast or throw, &c. affix रक्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अस्र",
+            "eid": "4845",
+            "pagenum": 105,
+            "content": "<b>1 asra-</b>¦ <ab>nt.</ab> sang ; [2=2 <i>aśra-</i>].  <P><i>°pa-</i> <ab>m.</ab> Rākṣasa."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अस्र",
+            "eid": "4823",
+            "pagenum": 100,
+            "content": "अस्र¦ m. (-स्रः) .²1 A corner, an angle. .²2 Hair. n. (-स्रं) .²1 Blood. .²3 A tear. .E. अस to cast or throw, &c. affix रक्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अस्र",
+            "eid": "4167",
+            "pagenum": 78,
+            "content": "अस्र¦ (स्रः) 1. <i>m.</i> A corner. <i>n.</i> Blood."
+        }
     ]
 }

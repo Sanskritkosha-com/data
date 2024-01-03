@@ -53,5 +53,21 @@
             "pagenum": 7,
             "content": "अनपग¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनपग",
+            "eid": "2102",
+            "pagenum": 29,
+            "content": "<i>anapagá</i>¦ <ls>Śat. Br.</ls>, richtig <i>ánapaga</i> <ls>TS.</ls> {part=,seq=2134,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनपग",
+            "eid": "1208",
+            "pagenum": 27,
+            "content": "<b>an-apaga-</b>¦ <ab>a.</ab> qui ne se départit pas ou ne se sépare pas de."
+        }
     ]
 }

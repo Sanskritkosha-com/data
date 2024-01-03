@@ -82,5 +82,37 @@
             "pagenum": 7,
             "content": "मेरक¦ V. 1〉 <ls>DIVYĀVAD. 19,22</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मेरक",
+            "eid": "21999",
+            "pagenum": 303,
+            "content": "<i>meraka</i>¦ 1. <ls>Divyāvad.</ls> 19, 22. {part=,seq=22300,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मेरक",
+            "eid": "32161",
+            "pagenum": 578,
+            "content": "मेरक¦ m. (-कः) An Asura and foe to VISHṆU."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मेरक",
+            "eid": "30986",
+            "pagenum": 674,
+            "content": "मेरक¦ m. (-कः) An <i>Asura,</i> and foe to VIṢṆU."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मेरक",
+            "eid": "30540",
+            "pagenum": 604,
+            "content": "मेरक¦ (कः) 1. <i>m.</i> Asur, <i>Vishnu's</i> foe."
+        }
     ]
 }

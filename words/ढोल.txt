@@ -79,5 +79,29 @@
             "pagenum": 3,
             "content": "ढोल¦ <lex>m.</lex> <i>Pauke</i> <ls>RUDRAY.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ढोल",
+            "eid": "16791",
+            "pagenum": 299,
+            "content": "ढोल¦ m. (-लः) A Dhol or large drum. दोलायमानो वाद्यमाने वाद्यभेदे ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ढोल",
+            "eid": "16809",
+            "pagenum": 361,
+            "content": "ढोल¦ m. (-लः) A <i>Dhol</i> or large drum."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ढोल",
+            "eid": "16275",
+            "pagenum": 318,
+            "content": "ढोल¦ (लः) 1. <i>m.</i> A <i>dhol</i> or large drum."
+        }
     ]
 }

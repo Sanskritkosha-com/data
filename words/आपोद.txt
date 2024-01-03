@@ -29,5 +29,21 @@
             "pagenum": 7,
             "content": "आपोद¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आपोद",
+            "eid": "7061",
+            "pagenum": 96,
+            "content": "<i>Āpoda</i>¦ m. Patron. des ṛṣi Dhaumya, <ls>MBh.</ls> 1, 3, 21. <i>Āyoda</i> v.l. {part=,seq=7157,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आपोद",
+            "eid": "5325",
+            "pagenum": 118,
+            "content": "<b>āpoda-</b>¦ <ab>m.</ab> Dhaumya."
+        }
     ]
 }

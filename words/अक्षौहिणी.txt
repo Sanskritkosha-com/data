@@ -160,5 +160,45 @@
             "pagenum": 7,
             "content": "अक्षौहिणी¦ I. 3. <ls>MBH. 1,2,22</ls> in der <ab>Bed.</ab> <i>ein vollständiges Heer</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्षौहिणी",
+            "eid": "313",
+            "pagenum": 5,
+            "content": "<i>akṣauhiṇī</i>¦ auch: die Zahl 1 mit 20 Nullen, Cantor 1, 517. — <ls>MBh.</ls> 1, 2, 22 in der Bed.: ein vollständiges Heer. {part=,seq=325,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अक्षौहिणी",
+            "eid": "193",
+            "pagenum": 4,
+            "content": "अक्षौहिणी¦ f. (-णी) A complete army, consisting of 1, 09, 350 foot, 65, 610 horses, 21, 870 chariots, and 21, 870 elephants. E. अक्ष a carriage, ऊहिणी assemblage."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अक्षौहिणी",
+            "eid": "125",
+            "pagenum": 4,
+            "content": "<b>akṣauhiṇī-</b>¦ <ab>f.</ab> armée comportant un nombre <lbinfo n='3'/> déterminé de chevaux, de chars, etc."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक्षौहिणी",
+            "eid": "194",
+            "pagenum": 5,
+            "content": "अक्षौहिणी¦ f. (-णी) A complete army, consisting of 1,09,350 foot, 65,610 horse, 21,870 chariots, and 21,870 elephants. .E. अक्ष a carriage, ऊहिणी assemblage."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक्षौहिणी",
+            "eid": "161",
+            "pagenum": 4,
+            "content": "अक्षौ_हिणी¦ (णी) 3. <i>f.</i> A complete army."
+        }
     ]
 }

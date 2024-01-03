@@ -44,5 +44,37 @@
             "pagenum": 4,
             "content": "पीतपादा¦ (2. पीत + पाद) <lex>f.</lex> <i>Gelbfuss</i>, N. der <i>Predigerkrähe</i> <ls>H. 1336.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पीतपादा",
+            "eid": "18586",
+            "pagenum": 256,
+            "content": "*<i>pītapādā</i>¦ Predigerkrähe, <ls>S</ls> I, 351, 3 v.u. (Ko.). {part=,seq=18852,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पीतपादा",
+            "eid": "25016",
+            "pagenum": 454,
+            "content": "पीतपादा¦ f. (-दा) A small bird, the Maina, (Turdus salica.) E. पीत yellow, पाद a foot."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पीतपादा",
+            "eid": "24887",
+            "pagenum": 538,
+            "content": "पीतपादा¦ f. (-दा) A small bird, the <i>Maina,</i> (<bio>Turdus salica</bio>.) .E. पीत yellow, पाद a foot."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पीतपादा",
+            "eid": "24368",
+            "pagenum": 482,
+            "content": "पीत-पादा¦ (दा) 1. <i>f.</i> The <i>Maina.</i>"
+        }
     ]
 }

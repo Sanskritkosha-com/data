@@ -139,5 +139,45 @@
             "pagenum": 7,
             "content": "अ/नागत¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनागत",
+            "eid": "2308",
+            "pagenum": 31,
+            "content": "<i>ánāgata</i>¦ 2. Lok. in der Zukunft, <ls>M. Müller, Ren.</ls> 299. {part=,seq=2342,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनागत",
+            "eid": "1300",
+            "pagenum": 23,
+            "content": "अनागत¦ mfn. (-तः-ता-तं) 1. Not come, not arrived: (of a person, absent;) future, (of time.) 2. Unknown, undistinguished. 3. Not acquired, learned or obtained. E. अन् neg. आगत come, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनागत",
+            "eid": "1327",
+            "pagenum": 29,
+            "content": "<b>an-āgata-</b>¦ <ab>a. v.</ab> non encore arrivé ; qu'on ne peut trouver ; futur ; <i>-aṃ</i> <i>kṛ-</i> s'occuper de l'avenir ; non approuvé ; <i>-vant-</i> <ab>a.</ab> concernant l'avenir.  <P><i>°vidhātṛ-</i> <ab>ag.</ab> qui prend des mesures pour l'avenir, <ab>n.</ab> d'un poisson.  <P><i>°vidhāna-</i> <ab>nt.</ab> fait de prendre des mesures pour l'avenir."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनागत",
+            "eid": "1302",
+            "pagenum": 28,
+            "content": "अनागत¦ mfn. (-तः-ता-तं) .²1 Not come, not arrived: (of a person, absent;) future, (of time.) .²2 Unknown, undistinguished. .²3 Not acquired, learned or obtained. .E. अन् neg. आगत come, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनागत",
+            "eid": "1095",
+            "pagenum": 23,
+            "content": "अना_गत¦ (तः-ता-तं) <i>a.</i> Absent; future; unknown."
+        }
     ]
 }

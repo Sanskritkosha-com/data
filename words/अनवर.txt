@@ -61,5 +61,37 @@
             "pagenum": 1,
             "content": "अनवर¦ (3. अ + अवर) <lex>adj.</lex> <i>nicht niedriger, nicht geringer</i>: सो ऽयमिन्द्रादनवरो वासुदेवाच्च भरत <ls>MBH.</ls>. 4. im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनवर",
+            "eid": "2263",
+            "pagenum": 31,
+            "content": "<i>anavará</i>¦ Adj. kein diesseitiges Ufer habend, <ls>TS.</ls> 7, 5, 3, 2. {part=,seq=2297,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनवर",
+            "eid": "1274",
+            "pagenum": 23,
+            "content": "अनवर¦ mfn. (-रः-रा-रं) Equal of superior, not younger nor inferior. E. अन् neg. अवर inferior."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनवर",
+            "eid": "1276",
+            "pagenum": 27,
+            "content": "अनवर¦ mfn. (-रः-रा-रं) Equal or superior, not younger nor inferior. .E. अन् neg. अवर inferior."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनवर",
+            "eid": "1070",
+            "pagenum": 23,
+            "content": "अन_वर¦ (रः-रा-रं) <i>a.</i> Equal."
+        }
     ]
 }

@@ -198,5 +198,63 @@
             "pagenum": 5,
             "content": "कण¦ <div n='1'> 1) शालिकणानि (also auch neutr.) <i>Reiskörner</i> <ls>KATHĀS. 61, 77.</ls> मृत्कण <i>ein Stückchen Lehm</i> <ls>Spr. 441.</ls> दृषत्कण <i>ein Steinchen</i> <ls n='Spr.'>3794.</ls> कण = स्फुलिङ्ग <i>Funken</i> <ls>HALĀY. 1, 67.</ls> दहन° <ls>VARĀH. BṚH. S. 93, 1.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कण",
+            "eid": "28369",
+            "pagenum": 390,
+            "content": "<i>kaṇa</i>¦ ° = maṇi, <ls>Viṣṇubh.</ls> VI, 1<sup>b</sup> in <i>muktilakṣmīlasanmuktāhārakaṇā(ḥ)</i>. {part=N,seq=28740,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कण",
+            "eid": "8687",
+            "pagenum": 150,
+            "content": "कण(म)¦ r. 1st cl. (कणति) 1. To sound. 2. To cry as in distress. (ऋ) कण r. 1st cl. (कणति) To go or approach. r. 10th cl. (कणयति) To wink, to cover or close the eye with the lids or lashes."
+        },
+        {
+            "word": "कण",
+            "eid": "8688",
+            "pagenum": 150,
+            "content": "कण¦ mf. (-णः-णी or -णिका) 1. Small, minute. 2. An atom, a minute particle. m. (-णः) 1. An eye of corn. 2. The spark or facet of gem. 3. A spark of fire. 4. A drop of water, &c. f. (-णा) 1. Cummin seed. 2. Long pepper. 3. A kind of fly, (कुम्भीरमक्षिका) the crocodile fly? E. कण् to contract, अच् affix, fem. टाप् or ङीष्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कण",
+            "eid": "7535",
+            "pagenum": 172,
+            "content": "<b>kaṇa-</b>¦ <ab>m.</ab> grain, graine ; goutte ; atome ; étincelle.  <P><i>kaṇānnatā-</i> <ab>f.</ab> fait de se nourrir uniquement de riz."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कण",
+            "eid": "8692",
+            "pagenum": 182,
+            "content": "कण¦ (म) r. 1st cl. (कणति) .²1 To sound. .²2 To cry as in distress. (ऋ) कण r. 1st cl. (कणति) To go or approach. r. 10th cl. (कणयति) To wink, to cover or close the eye with the lids or lashes."
+        },
+        {
+            "word": "कण",
+            "eid": "8693",
+            "pagenum": 183,
+            "content": "कण¦ mf. (-णः-णी or -णिका) .²1 Small, minute. .²2 An atom, a minute particle. m. (-णः) .²1 An eye of corn. .²2 The spark or facet of a gem. .²3 A spark of fire. .²4 A drop of water, &c. f. (-णा) .²1 Cummin seed. .²2 Long pepper. .²3 A kind of fly, (कुम्भीरमक्षिका) the crocodile fly? .E. कण to contract, अच् affix fem. टाप् or ङीष्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कण",
+            "eid": "8122",
+            "pagenum": 152,
+            "content": "कण¦ (क) कणयति 10. <i>a.</i> To wink, to shut the eyes."
+        },
+        {
+            "word": "कण",
+            "eid": "8123",
+            "pagenum": 152,
+            "content": "कण¦ (णः-णी) <i>m.</i> Small; eye of corn; spark of a gem; a drop. <i>m. f.</i> Cummin seed, long pepper; a fly."
+        }
     ]
 }

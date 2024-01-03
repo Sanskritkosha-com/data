@@ -333,5 +333,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> पाक¦ IV. 1〉a〉 <ls>ĀPAST. GṚHY. 20,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पाक",
+            "eid": "18208",
+            "pagenum": 251,
+            "content": "1. <i>pāka</i>¦ 1. a), <ls>Āpast. Gṛhy.</ls> 20, 15. {part=,seq=18472,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पाक",
+            "eid": "24173",
+            "pagenum": 438,
+            "content": "पाक¦ m. (-कः) 1. Maturity, natural or artificial, as the state of being cooked or ripened. 2. Cooking, baking, boiling, dressing food. 3. A vessel in which any thing is dressed, a saucepan, a boiler, &c. 4. Digestion, assimilation of food. 5. Suppuration, ripeness of a boil. 6. Greyness of the hair. 7. General panic, or the subversion of a country. 8. Fear. 9. An owl. 10. The name of a demon. 11. Completion. 12. The consequence of an act done. 13. Domestic fire. 14. Grain, corn. 15. Fruit, fruition. mf. (-कः-का) The young of animals. E. पच् to be or become ripe, aff. भावे-घञ्; or पा to nourish, Unādi aff. कन्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पाक",
+            "eid": "13581",
+            "pagenum": 425,
+            "content": "<b>1 pāka-</b>¦ <ab>m.</ab> Daitya tué par Indra.  <P><i>°śāsana-</i> <i>°hantṛ-</i> <ab>m.</ab> Indra ; <i>°śāsani-</i> Arjuna."
+        },
+        {
+            "word": "पाक",
+            "eid": "13582",
+            "pagenum": 425,
+            "content": "<b>2 pāka-</b>¦ <ab>m.</ab> fait de cuire, de rôtir ; cuisson, nourriture cuite ; maturité, maturation ; perfection, <lbinfo n='4'/> développement complet ; développement de conséquences (<ab>not.</ab> d'actes accomplis dans une vie antérieure) ; tout acte portant des conséquences <lbinfo n='9'/> ; <i>-in-</i> <ab>a.</ab> qui mûrit, qui est digéré.  <P><i>°bhāṇḍa-</i> <ab>nt.</ab> pot de cuisine.  <P><i>°yajña-</i> <ab>m.</ab> oblation domestique (?)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाक",
+            "eid": "24119",
+            "pagenum": 521,
+            "content": "पाक¦ m. (-कः) .²1 Maturity, natural or artificial, as the state of being cooked or ripened. .²2 Cooking, dressing food. .²3 A vessel in which any thing is dressed, a saucepan, a boiler, &c. .²4 Digestion, assimilation of food. .²5 Suppuration, ripeness of a boil. .²6 Greyness of the hair. .²7 General panick, or the subversion of a country. .²8 Fear. .²9 An owl. .²10 The name of a demon. mf. (-कः-का) The young of animals. .E. पच to be or become ripe, aff. घञ्, or पा to nourish, Uṇādi aff. कन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाक",
+            "eid": "23593",
+            "pagenum": 466,
+            "content": "पाक¦ (कः) 1. <i>m.</i> Maturity; cooking; digestion; a saucepan; suppuration; greyness. panic; an owl; demon. (कः-का) Young animals."
+        }
     ]
 }

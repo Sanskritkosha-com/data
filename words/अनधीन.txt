@@ -37,5 +37,37 @@
             "pagenum": 1,
             "content": "*अनधीन (<ls>TRIK. 3,3,317</ls>) und °क¦ <lex>Adj.</lex> <i>unabhängig</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनधीन",
+            "eid": "2003",
+            "pagenum": 27,
+            "content": "*<i>anadhīna</i>¦ unabhängig, <ls>S</ls> II, 347, 4. {part=,seq=2032,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनधीन",
+            "eid": "1196",
+            "pagenum": 22,
+            "content": "अनधीन¦ mfn. (-नः-ना-नं) Independent. E. अन् neg. अधीन dependent."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनधीन",
+            "eid": "1198",
+            "pagenum": 26,
+            "content": "अनधीन¦ mfn. (-नः-ना-नं) Independent. .E. अन् neg. अधीन dependant."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनधीन",
+            "eid": "999",
+            "pagenum": 21,
+            "content": "अन_धीन¦ (नः-ना-नं) <i>a.</i> Independent."
+        }
     ]
 }

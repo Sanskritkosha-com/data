@@ -473,5 +473,41 @@
             "pagenum": 7,
             "content": "<hom>4.</hom> इष्¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "इष्",
+            "eid": "7746.1",
+            "pagenum": 106,
+            "content": "4. <i>iṣ</i>¦ 2. <ls>Hariv. 2</ls>, 72, 52 nach <ls>Nīlak.</ls> {part=,seq=7855,type=,n=21}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "इष्",
+            "eid": "5937",
+            "pagenum": 132,
+            "content": "<b>1 IṢ-</b>¦ <i>icchati</i> (<i>-te</i>) <i>°eṣati -te °iṣyati ; iyeṣa ; aiṣīt ;</i> <i>iṣyate ; iṣṭa-</i> (<i>eṣita-</i>) <i>eṣṭum</i> (<i>eṣitum</i>) <i>°iṣya</i> désirer, s'efforcer à ; attendre ; être favorable <lbinfo n='3'/> ; choisir ; chercher ; <ab>pass.</ab> être désiré, demandé ou prescrit ; être approuvé ou tenu pour, valoir."
+        },
+        {
+            "word": "इष्",
+            "eid": "5938",
+            "pagenum": 132,
+            "content": "<b>2 IṢ-</b>¦ <i>iṣyati -te ; °aiṣīt ; °eṣayati -te ; iṣita-</i> -- envoyer ; <ab>a. v.</ab> envoyé ; annoncé ; tourmenté <lbinfo n='5'/> ; <ab>v.</ab> <i>preṣ-.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "इष्",
+            "eid": "5792",
+            "pagenum": 109,
+            "content": "इष्¦ (य) इष्यति 4. 1. To go. (श, उ) इच्छति 6. <i>a.</i> To desire. With अभि to desire; with प्रति to promise."
+        },
+        {
+            "word": "इष्",
+            "eid": "5793",
+            "pagenum": 109,
+            "content": "इष्¦ (ग) (इष्णाति) 9. <i>a.</i> To repeat an act. With अनु to search after."
+        }
     ]
 }

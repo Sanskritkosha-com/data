@@ -35,5 +35,29 @@
             "pagenum": 7,
             "content": "क्रमज्या¦ (Nachträge) <ls>SŪRYAS. 2, 32. 60.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "क्रमज्या",
+            "eid": "11950",
+            "pagenum": 211,
+            "content": "क्रमज्या¦ f. (-ज्या) (In astronomy,) The sine of a planet's declination. E. क्रम् going, and ज्या sine."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "क्रमज्या",
+            "eid": "11956",
+            "pagenum": 256,
+            "content": "क्रमज्या¦ f. (-ज्या) (In astronomy,) The sine of a planet's declination. .E. क्रम going, and ज्या sine."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "क्रमज्या",
+            "eid": "11408",
+            "pagenum": 220,
+            "content": "क्रम-ज्या¦ (ज्या) 1. <i>f.</i> Sine of declination or distance."
+        }
     ]
 }

@@ -111,5 +111,45 @@
             "pagenum": 5,
             "content": "गुलिका¦ <div n='1'> 1) <i>Spielball</i> <ls>KATHĀS. 65, 217.</ls> <div n='1'>— 2) <i>Pille</i> <ls>KATHĀS. 89, 25. fg.</ls> सगुलिक, निर्गुलिक <ls n='KATHĀS.'>56.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गुलिका",
+            "eid": "12386",
+            "pagenum": 170,
+            "content": "<i>gulikā</i>¦ ° = <i>nīlikā</i> (pw 3, f.), <ls>S</ls> II, 146, 9 v.u. (Ko.). {part=,seq=12576,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गुलिका",
+            "eid": "13747",
+            "pagenum": 242,
+            "content": "गुलिका¦ f. (-का) A small ball. E. कन् added to गुली."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गुलिका",
+            "eid": "8824",
+            "pagenum": 231,
+            "content": "<b>gulikā-</b>¦ <ab>f.</ab> balle, boule, pilule."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गुलिका",
+            "eid": "13756",
+            "pagenum": 294,
+            "content": "गुलिका¦ f. (-का) A small ball. .E. कन् added to गुली."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गुलिका",
+            "eid": "13211",
+            "pagenum": 256,
+            "content": "गुलिका¦ (का) 1. <i>f.</i> A small ball."
+        }
     ]
 }

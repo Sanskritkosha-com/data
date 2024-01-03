@@ -55,5 +55,29 @@
             "pagenum": 7,
             "content": "समीद¦ <lex>m.</lex> = समिता <i>Weizenmehl</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "समीद",
+            "eid": "42765",
+            "pagenum": 765,
+            "content": "समीद¦ m. (-दः) Fine wheat-flour."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "समीद",
+            "eid": "40724",
+            "pagenum": 899,
+            "content": "समीद¦ m. (-दः) Fine wheat flour."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "समीद",
+            "eid": "40442",
+            "pagenum": 819,
+            "content": "समीद¦ (दः) 1. <i>m.</i> Fine wheat flour."
+        }
     ]
 }

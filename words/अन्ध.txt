@@ -232,5 +232,63 @@
             "pagenum": 7,
             "content": "अन्ध¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अन्ध",
+            "eid": "3125",
+            "pagenum": 43,
+            "content": "<i>andha</i>¦ 2. c) N. pr. eines Schlangendämons, <ls>MBh.</ls> 5, 103, 16. {part=,seq=3167,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अन्ध",
+            "eid": "1827",
+            "pagenum": 33,
+            "content": "अन्ध¦ (-त) r. 10th cl. (अन्धयति) To be or become blind."
+        },
+        {
+            "word": "अन्ध",
+            "eid": "1828",
+            "pagenum": 33,
+            "content": "अन्ध¦ mfn. (-न्धः-न्धा-न्धं) Blind. n. (-न्धं) 1. Darkness. 2. Water. E. अन्ध to be blind, and अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अन्ध",
+            "eid": "2129",
+            "pagenum": 46,
+            "content": "<b>andha-</b>¦ <ab>a.</ab> aveugle ; <ab>ifc.</ab> aveuglé par (<ab>fig.</ab> ; (ténèbres) qui aveuglent, noir (d'obscurité) ; <i>-ī-bhū-</i> devenir aveugle ; <i>-tā-</i> <ab>f.</ab> cécité.  <P><i>°kāra-</i> <ab>m.</ab> <ab>nt.</ab> ténèbres ; <ab>a.</ab> ténébreux ; <i>-tā-</i> f fait d'être ténèbres ; <i>-ita-</i> <ab>a. v.</ab> rendu aveugle <lbinfo n='3'/> ; <i>-in-</i> <ab>a.</ab> obscur, noir ; <i>-maya-</i> <ab>a.</ab> fait de ténèbres.  <P><i>°kūpa-</i> <ab>m.</ab> puits dont l'orifice a été bouché ; <ab>n.</ab> d'un enfer.  <P><i>°tamas- °tamasa-</i> <ab>nt.</ab> grande obscurité.  <P><i>°tāmisra-</i> <ab>nt.</ab> cécité ; <ab>n.</ab> d'un enfer."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अन्ध",
+            "eid": "1829",
+            "pagenum": 39,
+            "content": "अन्ध¦ (त) r. 10th cl. (अन्धयति) To be or become blind."
+        },
+        {
+            "word": "अन्ध",
+            "eid": "1830",
+            "pagenum": 39,
+            "content": "अन्ध¦ mfn. (-न्धः-न्धा-न्धं) Blind. n. (-न्धं) .²1 Darkness. .²2 Water. .E. अन्ध to be blind, and अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अन्ध",
+            "eid": "1520",
+            "pagenum": 31,
+            "content": "अन्ध¦ (त्, क) अन्धयति 10. <i>a.</i> To be blind."
+        },
+        {
+            "word": "अन्ध",
+            "eid": "1521",
+            "pagenum": 31,
+            "content": "अन्ध¦ (न्धं) 1. <i>n.</i> Darkness. <i>a.</i> Blind."
+        }
     ]
 }

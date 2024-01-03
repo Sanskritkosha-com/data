@@ -45,5 +45,29 @@
             "pagenum": 2,
             "content": "ग्रहनायक¦ (ग्रह + नायक) <lex>m.</lex> <i>Führer der Planeten, der Saturn</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <i>die Sonne</i> <ls>ŚKDR.</ls> <ls>WILS.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ग्रहनायक",
+            "eid": "14187",
+            "pagenum": 250,
+            "content": "ग्रहनायक¦ m. (-कः) 1. The sun. 2. The planet Saturn. E. ग्रह a planet, and नायक a chief."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ग्रहनायक",
+            "eid": "14196",
+            "pagenum": 304,
+            "content": "ग्रहनायक¦ m. (-कः) .²1 The sun. .²2 The planet Saturn. .E. ग्रह a planet, and नायक a chief."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ग्रहनायक",
+            "eid": "13653",
+            "pagenum": 265,
+            "content": "ग्रह-नायक¦ (कः) 1. <i>m.</i> The sun; Saturn."
+        }
     ]
 }

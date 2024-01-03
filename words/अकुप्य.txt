@@ -108,5 +108,57 @@
             "pagenum": 7,
             "content": "अकुप्य¦ I. 2. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकुप्य",
+            "eid": "128",
+            "pagenum": 2,
+            "content": "<i>akupya</i>¦ n. impers. haud irascendum, <ls>MBh.</ls> 15, 30, 3. {part=,seq=133,type=,n=1}"
+        },
+        {
+            "word": "अकुप्य",
+            "eid": "128.1",
+            "pagenum": 2,
+            "content": "<i>akupya</i>¦ n. Edelmetall, <ls>Kir.</ls> 1, 35. {part=,seq=134,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अकुप्य",
+            "eid": "88",
+            "pagenum": 2,
+            "content": "अकुप्य¦ n. (-प्यं) Gold or silver. E. अ neg. and कुप्य base metal."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकुप्य",
+            "eid": "64",
+            "pagenum": 2,
+            "content": "<b>1 a-kupya-</b>¦ <ab>a. v.</ab> contre quoi il n'y a pas à s'irriter."
+        },
+        {
+            "word": "अकुप्य",
+            "eid": "65",
+            "pagenum": 2,
+            "content": "<b>2 akupya-</b>¦ <ab>nt.</ab> métal précieux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अकुप्य",
+            "eid": "89",
+            "pagenum": 2,
+            "content": "अकुप्य¦ n. (-प्यं) Gold or silver. .E. अ neg. and कुण base metal."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकुप्य",
+            "eid": "69",
+            "pagenum": 2,
+            "content": "अ-कुप्य¦ (प्यं) 1. <i>n.</i> Gold or silver."
+        }
     ]
 }

@@ -31,5 +31,37 @@
             "pagenum": 5,
             "content": "मुरहन्¦ <lex>m.</lex> <is>Mura's</is> <i>Tödter</i>, Bein. <is>Kṛṣṇa's</is> oder <is>Viṣṇu's</is> <ls>ŚKDR.</ls> angeblich nach <ls>H.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मुरहन्",
+            "eid": "21841",
+            "pagenum": 301,
+            "content": "*<i>Murahan</i>¦ m. Bein. Kṛṣṇa's, <ls>Yudh.</ls> 7, 121. {part=,seq=22141,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मुरहन्",
+            "eid": "31731",
+            "pagenum": 572,
+            "content": "मुरहन्¦ m. (-हा) A name of VISHṆU. E. मुर the demon, हन् slayer."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मुरहन्",
+            "eid": "30603",
+            "pagenum": 666,
+            "content": "मुरहन्¦ m. (-हा) A name of VIṢṆU. .E. मुर the demon, and हन् slayer."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मुरहन्",
+            "eid": "30151",
+            "pagenum": 597,
+            "content": "मुरहन्¦ (हा) 5. <i>m. Idem.</i>"
+        }
     ]
 }

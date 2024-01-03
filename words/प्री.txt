@@ -215,5 +215,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> प्री¦ mit परि *<ab>Caus.</ab> <i>höchlich erfreuen</i> <ls>MAHĀVY. 85,11</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्री",
+            "eid": "19841",
+            "pagenum": 273,
+            "content": "1. <i>prī</i>¦ mit <i>pari</i> * <ls>Kaus.</ls> höchlich erfreuen, <ls>Mahāvy.</ls> 85, 11. {part=,seq=20116,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्री",
+            "eid": "28016",
+            "pagenum": 506,
+            "content": "प्री (ङ) प्रीङ्¦ r. 4th cl. (प्रीयते) (ञ) प्रीञ् r. 9th cl. (प्रीणाति प्रीणीते) and 1st and 10th cls. (प्रियति-ते प्राययति-ते) or प्रीणयति 1. To please, to delight, to satisfy. 2. To be pleased or satisfied. 3. To desire or love."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्री",
+            "eid": "15678",
+            "pagenum": 499,
+            "content": "<b>1 PRĪ-</b>¦ <i>prīṇāti prīṇīte prīyate -ti ; prīyāt ; prīṇayati ;</i> <i>prīta-</i> -- <ab>act.</ab> réjouir, satisfaire ; disposer <lbinfo n='5'/> favorablement <ab>qq'un</ab> ; se plaire à (<ab>loc.</ab>) ; <ab>ord.</ab> <ab>moy.</ab> être satisfait, se réjouir, se complaire <lbinfo n='6'/> ; jouir de (<ab>gén.</ab> <ab>instr.</ab> <ab>loc.</ab> <ab>abl.</ab>) ; aimer ; <ab>caus.</ab> plaire, satisfaire ; <ab>a. v.</ab> réjoui, délecté ; content ; qui se réjouit de (<ab>instr.</ab> <ab>loc.</ab> <ab>gén.</ab> <ab>ifc.</ab>) ; cher, aimé ; aimable (parole) ; <i>-tara-</i> <ab>compar.</ab> plus satisfait.  <P><i>prīta-manas-</i> <i>°mānasa- prītātman-</i> <ab>a.</ab> réjoui dans son cœur."
+        },
+        {
+            "word": "प्री",
+            "eid": "15679",
+            "pagenum": 499,
+            "content": "<b>2 prī-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui aime."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्री",
+            "eid": "27214",
+            "pagenum": 590,
+            "content": "प्री(ङ्)प्रीङ्¦ r. 4th cl. (प्रीयते) (ञ्) प्रीञ् r. 9th cl. (प्रीणाति प्रीणीते) and 1st and 10th cls. (प्रियति-ते प्राययति-ते or प्रीणयति) .²1 To please, to delight, to satisfy. .²2 To be pleased or satisfied. .²3 To desire or love."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्री",
+            "eid": "26715",
+            "pagenum": 529,
+            "content": "प्री¦ (य, ङ) प्रीयते 4. <i>d.</i> (ग, ञ) प्रीणाति, णीते 9. <i>c.</i> (कि, ञ) प्रियति, ते; प्राययति, ते 1. 10. <i>c.</i> To please, satisfy; to be pleased; to love."
+        }
     ]
 }

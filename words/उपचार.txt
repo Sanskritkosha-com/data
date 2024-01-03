@@ -248,5 +248,45 @@
             "pagenum": 7,
             "content": "उपचार¦ I. <i>die Zugänge</i> (zu einer Stadt) <ls>JĀTAKAM. 9</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपचार",
+            "eid": "8518",
+            "pagenum": 117,
+            "content": "<i>upacāra</i>¦ die Zugänge (zu einer Stadt), <ls>Jātakam.</ls> 9. {part=,seq=8633,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उपचार",
+            "eid": "7326",
+            "pagenum": 126,
+            "content": "उपचार¦ m. (-रः) 1. Service, attendance. 2. Physicking, the practice of medicine. 3. Practice, profession, usage. 4. A present, a bribe. 5. Presenting delicacies or necessaries, water, betel, &c. 6. Tending the sick, nursing. 7. Solicitation, request. 8. Incomplete act, one in progress. 9. A form of speech, a phrase that leaves something to be inferred ellipsis, &c. E. उप well, much, &c. चर् to go, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपचार",
+            "eid": "6677",
+            "pagenum": 149,
+            "content": "<b>upa-cāra-</b>¦ <ab>m.</ab> office de courtisan, fait de servir <ab>qq'un</ab>, civilité ; révérence, hommage ; procédé, traitement ; traitement médical ; cérémonie ; objets offerts, don ; emploi ; prétexte <lbinfo n='5'/> ; métaphore ; <i>-ka-</i> <ab>ifc.</ab> <ab>id.</ab> ; <i>-vant-</i> <ab>a.</ab> orné.  <P><i>°kriyā-</i> <ab>f.</ab> (marques de) politesse.  <P><i>°pada-</i> <ab>nt.</ab> mot poli, compliment.  <P><i>°paribhraṣṭa-</i> <ab>a. v.</ab> dénué de courtoisie."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उपचार",
+            "eid": "7329",
+            "pagenum": 153,
+            "content": "उपचार¦ m. (-रः) .²1 Service, attendance. .²2 Physicking, the practice of medicine. .²3 Practice, profession, usage. .²4 A present, a bribe. .²5 Presenting delicacies or necessaries, water, betel. &c. .²6 Tending the sick, nursing. .²7 Solicitation, request. .²8 Incomplete, act, one in progress. .²9 A form of speech, a phrase that leaves something to be inferred, ellipsis, &c. .E. उप well. much, &c. चर to go, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उपचार",
+            "eid": "6735",
+            "pagenum": 126,
+            "content": "उप-चार¦ (रः) 1. <i>m.</i> Service; practice; physicking; a bribe; ellipses."
+        }
     ]
 }

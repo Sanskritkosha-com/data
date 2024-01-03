@@ -39,5 +39,37 @@
             "pagenum": 2,
             "content": "गूढपुरुष¦ (गूढ + पु°) <lex>m.</lex> <i>Kundschafter, Spion</i> <ls>AK. 2, 8, 1, 13.</ls> <ls>H. 733.</ls> Vgl. <ls>MBH. 3, 17311.</ls> <ls>M. 9, 261.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गूढपुरुष",
+            "eid": "12408",
+            "pagenum": 171,
+            "content": "*<i>gūḍhapuruṣa</i>¦ m. Späher, <ls>S</ls> I, 400, 4; <ls>Kauṭ.</ls> 18, 6 (<ls>J. J. Meyer</ls> 'Geheimdiener'). {part=,seq=12598,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गूढपुरुष",
+            "eid": "13781",
+            "pagenum": 242,
+            "content": "गूढपुरुष¦ m. (-षः) A spy, a secret emissary, a disguised agent, &c. E. गूढ concealed, and पुरुष a man."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गूढपुरुष",
+            "eid": "13790",
+            "pagenum": 295,
+            "content": "गूढपुरुष¦ m. (-षः) A spy, a secret emissary, a disguised agent, &c. .E. गूढ concealed, and पुरुष a man."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गूढपुरुष",
+            "eid": "13245",
+            "pagenum": 257,
+            "content": "गूढ-पुरुष¦ (षः) 1. <i>m.</i> A spy."
+        }
     ]
 }

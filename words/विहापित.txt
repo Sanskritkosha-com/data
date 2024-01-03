@@ -79,5 +79,37 @@
             "pagenum": 6,
             "content": "विहापित¦ 1〉 <lex>Adj.</lex> <ab>Partic.</ab> von <hom>2.</hom> हा mit वि <ab>Caus.</ab> — 2〉 <lex>n.</lex> <i>Gabe, Geschenk</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विहापित",
+            "eid": "24301",
+            "pagenum": 335,
+            "content": "<i>vihāpita</i>¦ 1. Adj. Part. von 2. <i>hā</i> mit <i>vi</i> <ls>Kaus.</ls> — 2. n. Gabe, Geschenk. {part=,seq=24636,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विहापित",
+            "eid": "37959",
+            "pagenum": 679,
+            "content": "विहापित¦ mfn. (-तः-ता-तं) 1. Given. 2. Extorted. n. (-तं) Gift, donation. E. वि before हा to abandon, causal form, aff. क्त; giving being considered as the abandonment of the thing given."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विहापित",
+            "eid": "36265",
+            "pagenum": 795,
+            "content": "विहापित¦ mfn. (-तः-ता-तं) .²1 Given. .²2 Extorted. n. (-तं) Gift, donation. .E. वि before हा to abandon, causal form, aff. क्त. giving being considered as the abandonment of the thing given."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विहापित",
+            "eid": "35878",
+            "pagenum": 714,
+            "content": "वि-हापित¦ (तः-ता-तं) 1. <i>n.</i> Gift."
+        }
     ]
 }

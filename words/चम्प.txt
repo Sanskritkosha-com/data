@@ -103,5 +103,65 @@
             "pagenum": 7,
             "content": "चम्प¦, <lex>f.</lex> चम्पा II. ein Frauenname <ls><ab>ebend.</ab> 247</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "चम्प",
+            "eid": "13095",
+            "pagenum": 180,
+            "content": "<i>[campa]</i>¦ , f. <i>ā</i> ein Frauenname, <ls>Damayantīk.</ls> 247. {part=,seq=13300,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चम्प",
+            "eid": "14813",
+            "pagenum": 262,
+            "content": "चम्प¦ r. 1st cl. (चम्पति) To go or move."
+        },
+        {
+            "word": "चम्प",
+            "eid": "14814",
+            "pagenum": 262,
+            "content": "चम्प¦ m. (-म्प्रः) Mountain ebony, (Bauhinia variegata.) f. (-म्पा) The capital of KARNA, the modern Bhagalpur, or a place in its vicinity. E. चपि to go &c. अच् and टाप् aff."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "चम्प",
+            "eid": "321",
+            "pagenum": 437,
+            "content": "campa¦ <div n='P'/>= kovidāra (Vśs)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "चम्प",
+            "eid": "9117",
+            "pagenum": 246,
+            "content": "<b>campa-</b>¦ <ab>m.</ab> fondateur de la ville de Campā ; <i>-ā-</i> <ab>f.</ab> la ville de C., résidence de Karṇa, etc. ; capitale des Aṅga (près de Bhagalpur).  <P><i>campā-purī-</i> <ab>f.</ab> = <i>campā-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चम्प",
+            "eid": "14821",
+            "pagenum": 318,
+            "content": "चम्प¦ r. 1st cl. (-चम्पति) To go or move."
+        },
+        {
+            "word": "चम्प",
+            "eid": "14822",
+            "pagenum": 318,
+            "content": "चम्प¦ m. (-म्पः) Mountain ebony, (<bot>Bauhinia variegata</bot>.) f. (-म्पा) The capital of KARṆA, the modern <i>Bhāgalpur,</i> or a place in its vicinity. .E. चपि to go, &c., अच् and टाप् affs."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चम्प",
+            "eid": "14277",
+            "pagenum": 278,
+            "content": "चम्प¦ (म्पः) 1. <i>m.</i> Mountain ebony. <i>f.</i> The capital of <i>Karna, Bāgulpur.</i>"
+        }
     ]
 }

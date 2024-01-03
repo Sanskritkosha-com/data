@@ -132,5 +132,45 @@
             "pagenum": 7,
             "content": "अरज/स्¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अरजस्",
+            "eid": "4704",
+            "pagenum": 64,
+            "content": "<i>arajás</i>¦ n. kein Staub, <ls>Vajracch.</ls> 29, 9. {part=,seq=4765,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अरजस्",
+            "eid": "3114",
+            "pagenum": 54,
+            "content": "अरजस्¦ mfn. (-जाः-जाः-जः) 1. Free from the quality of passion. 2. Free from desire, &c. f. (-जाः) A young girl. E. अ neg. रजस् the menstrual flux, or passion, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अरजस्",
+            "eid": "3695",
+            "pagenum": 78,
+            "content": "<b>a-rajas-</b>¦ <ab>a.</ab> sans poussière ; sans passions."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अरजस्",
+            "eid": "3116",
+            "pagenum": 66,
+            "content": "अरजस्¦ mfn. (-जाः-जाः-जः) .²1 Free from the quality of passion. .²2 Free from desire, &c. f. (-जाः) A young girl. .E. अ neg. रजस् the menstrual flux, or passion, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अरजस्",
+            "eid": "2588",
+            "pagenum": 51,
+            "content": "अ-रजस्¦ (जाः) 5. <i>f.</i> Young girl. <i>a.</i> Free from passion or desire."
+        }
     ]
 }

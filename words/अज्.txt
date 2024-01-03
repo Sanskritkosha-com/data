@@ -163,5 +163,41 @@
             "pagenum": 7,
             "content": "अज्¦ mit अभि I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अज्",
+            "eid": "773",
+            "pagenum": 11,
+            "content": "<i>aj</i>¦ mit <i>abhi</i> vgl. Oldenberg, <ls>ZDMG</ls> 39, 65, N. 4. {part=,seq=792,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अज्",
+            "eid": "239",
+            "pagenum": 8,
+            "content": "<b>1 AJ-</b>¦ <ab>v.</ab> <i>AÑJ- ;</i> [<b>2 AJ-</b> <i>ajati -te</i> <ab>véd.</ab> mener]."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अज्",
+            "eid": "461",
+            "pagenum": 10,
+            "content": "अज्¦ अजति 1. <i>a.</i> To go; to blame."
+        },
+        {
+            "word": "अज्",
+            "eid": "462",
+            "pagenum": 10,
+            "content": "अज्¦ (इ-क) अञ्जयति 10. <i>a.</i> To shine."
+        },
+        {
+            "word": "अज्",
+            "eid": "44456",
+            "pagenum": 910,
+            "content": "*अज्¦ अजति 1. <i>a.</i> With अभि and वि, To be contained in, be implied or understood."
+        }
     ]
 }

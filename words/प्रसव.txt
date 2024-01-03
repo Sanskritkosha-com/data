@@ -293,5 +293,51 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> प्रसव¦ IV. 7〉 <lex>n.</lex> <ls>R. ed. Bomb. 4,30,47</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रसव",
+            "eid": "19622",
+            "pagenum": 271,
+            "content": "2. <i>prasava</i>¦ °Wegjagen, <ls>Sam.</ls> IV, 6. {part=,seq=19897,type=,n=1}"
+        },
+        {
+            "word": "प्रसव",
+            "eid": "19623",
+            "pagenum": 271,
+            "content": "3. <i>prasava</i>¦ 7. n. <ls>R. ed. Bomb.</ls> 4, 30, 47. {part=,seq=19898,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रसव",
+            "eid": "27536",
+            "pagenum": 498,
+            "content": "प्रसव¦ m. (-वः) 1. Bringing forth, bearing, (as young.) 2. Birth, production. 3. Offspring, posterity. 4. Fruit. 5. A blossom, a flower. 6. Source, origin. E. प्र before, सू to bear, aff. अप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रसव",
+            "eid": "15430",
+            "pagenum": 488,
+            "content": "<b>pra-sava-</b>¦ <ab>m.</ab> procréation, génération, conception, accouchement ; naissance, origine <lbinfo n='4'/> ; lieu de naissance ; et <ab>pl.</ab> descendants, postérité ; fleurs ; <i>-na-</i> <ab>nt.</ab> fait d'accoucher, naissance, fécondité ; <i>-in-</i> <ab>a.</ab> qui procrée.  <P><i>°karma-kṛt-</i> <ab>m.</ab> procréateur, générateur.  <P><i>°mālā-</i> <ab>f.</ab> guirlande de fleurs.  <P><i>°rajas-</i> <ab>nt.</ab> pollen.  <P><i>°vedanā-</i> <ab>f.</ab> douleurs de l'enfantement.  <P><i>prasavānukrama-</i> <ab>m.</ab> ordre dans lequel on a enfanté.  <P><i>prasavonmukha-</i> <i>-ī-</i> <ab>a.</ab> qui attend un enfant, qui est sur le point. d'accoucher."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रसव",
+            "eid": "26805",
+            "pagenum": 581,
+            "content": "प्रसव¦ m. (-वः) .²1 Bringing forth, bearing, (as young.) .²2 Birth, production. .²3 Offspring, posterity. .²4 Fruit. .²5 A blossom, a flower. .E. प्र before सू to bear, aff. अप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रसव",
+            "eid": "26303",
+            "pagenum": 521,
+            "content": "प्र-सव¦ (वः) 1. <i>m.</i> Bringing forth; birth; offspring; fruit; flower."
+        }
     ]
 }

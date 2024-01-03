@@ -39,5 +39,29 @@
             "pagenum": 4,
             "content": "पयोर¦ <lex>m.</lex> = खदिर <i>Acacia Catechu Willd.</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पयोर",
+            "eid": "23228",
+            "pagenum": 420,
+            "content": "पयोर¦ m. (-रः) The Khayar, (Mimosa catechu.) E. पयस् water, रा to get, aff. क."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पयोर",
+            "eid": "23242",
+            "pagenum": 502,
+            "content": "पयोर¦ m. (-रः) The <i>Khayar,</i> (<bot>Mimosa catechu</bot>.) .E. पयस् water, रा to get, aff. क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पयोर",
+            "eid": "22717",
+            "pagenum": 448,
+            "content": "पयोर¦ (रः) 1. <i>m.</i> Mimosa catechu."
+        }
     ]
 }

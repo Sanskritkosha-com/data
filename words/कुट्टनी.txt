@@ -82,5 +82,35 @@
             "pagenum": 2,
             "content": "कुट्टनी¦ <lex>f.</lex> <i>Kupplerin</i> <ls>AK. 2, 6, 1, 19.</ls> <ls>H. 533.</ls> <ls>HIT. I, 9. 29, 16. 40, 12.</ls> <ls>KATHĀS. 12, 79.</ls> <div n='v'>— Vgl. कुट्टिणी ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुट्टनी",
+            "eid": "10763",
+            "pagenum": 148,
+            "content": "<i>kuṭṭanī</i>¦ f. °Mörser, <ls>Kauṭ.</ls> 166, 15. {part=,seq=10922,type=,n=1}"
+        },
+        {
+            "word": "कुट्टनी",
+            "eid": "28512",
+            "pagenum": 392,
+            "content": "<i>kuṭṭanī</i>¦ f. °eine Vorrichtung zum Reisstampfen, <ls>Kauṭ.</ls> 166, 5 v.u. {part=N,seq=28883,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुट्टनी",
+            "eid": "8064",
+            "pagenum": 196,
+            "content": "<b>kuṭṭanī-</b>¦ <i>kuṭṭinī-</i> <ab>f.</ab> entremetteuse."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुट्टनी",
+            "eid": "10093",
+            "pagenum": 192,
+            "content": "कुट्टनी¦ (नी) 3. <i>f.</i> A bawd, a procuress."
+        }
     ]
 }

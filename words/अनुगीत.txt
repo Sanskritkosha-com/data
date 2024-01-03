@@ -67,5 +67,21 @@
             "pagenum": 7,
             "content": "अनुगीत¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनुगीत",
+            "eid": "2606",
+            "pagenum": 36,
+            "content": "<i>anugīta</i>¦ n. ein nachahmender Gesang, 294, 31. {part=,seq=2643,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनुगीत",
+            "eid": "1591",
+            "pagenum": 34,
+            "content": "<b>anu-gīta-</b>¦ <ab>nt.</ab> chant qui suit ; <i>-ā-</i> <ab>f.</ab> <ab>n.</ab> d'un chapitre du <ab>MhBh.</ab>"
+        }
     ]
 }

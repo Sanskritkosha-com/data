@@ -236,5 +236,51 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> पालि¦ IV. 11〉 पाली hierher vielleicht <ls>ĀPAST. GṚHY. 3,11</ls>. Nach dem <ab>Comm.</ab> <lex>f.</lex> zu <hom>1.</hom> पाल."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पालि",
+            "eid": "18422",
+            "pagenum": 254,
+            "content": "2. <i>pāli</i>¦ 11. <i>pālī</i> hierher vielleicht <ls>Āpast. Gṛhy.</ls> 3, 11. Nach dem Komm. f. zu 1. <i>pāla</i>. {part=,seq=18686,type=,n=1}"
+        },
+        {
+            "word": "पालि",
+            "eid": "18422.1",
+            "pagenum": 254,
+            "content": "<i>pāli</i>¦ f. *Zeichen, <ls>S</ls> I, 20, 3 in <i>°pālidhvaja = cihnapatāka</i>. — *Weib mit Bart, <ls>Vaij.</ls> 86, 50. — *beautiful (at the end of compounds), <ls>Vās.</ls> 139, 5. — °hilt, <ls>Vās.</ls> 190, 5. {part=,seq=18687,type=,n=7}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पालि",
+            "eid": "24670",
+            "pagenum": 447,
+            "content": "पालि(ली)¦ f. (-लिः or लीः) 1. The sharp edge of a sword, or any cutting instrument. 2. The tip of the ear. 3. A line, a row or range. 4. A mark, a spot, a stain. 5. A louse. 6. A woman with a beard. 7. A boundary, a limit. 8. A raised bank, a causeway, a bridge. 9. A circumference. 10. Maintenance of a scholar during the period of his studies, by his teacher. 11. Praise, eulogium. 12. The hip or haunch. 13. A Prastha or measure so called. 14. The lap, the bosom. E. पाल् to nourish, इण् aff., and in most cases, ङीप् being optionally added, also पाली: see पाल."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पालि",
+            "eid": "13750",
+            "pagenum": 432,
+            "content": "<b>pāli-</b>¦ <i>-ī-</i> <ab>f.</ab> lobe de l'oreille ; extrémité, bord, marge ; ligne, raie."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पालि",
+            "eid": "24583",
+            "pagenum": 531,
+            "content": "पालि¦ f. (-लिः) .²1 The sharp edge of a sword, or any cutting instrument. .²2 The tip of the ear. .²3 A line, a row or range. .²4 A mark, a spot, a stain. .²5 A louse. .²6 A woman with a beard. .²7 A boundary, a limit. .²8 A raised bank, a causeway, a bridge. .²9 A circumference. .²10 Maintenance of a scholar during the period of his studies, by his teacher. .²11 Praise, eulogium. .²12 The hip or haunch. .²13 A <i>Prastha</i> or measure so called. .E. पाल to nourish, इ aff., and in most cases, ङीष् being optionally added, also पाली: see पाल."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पालि",
+            "eid": "24062",
+            "pagenum": 475,
+            "content": "पालि¦ (लिः) 2. <i>f.</i> The sharp edge of a sword; tip of the ear; a row; mark; louse; bearded woman; a limit; a cause-way; a circumference; maintenance of a scholar; praise; the hip; a measure."
+        }
     ]
 }

@@ -103,5 +103,21 @@
             "pagenum": 5,
             "content": "अनाद्य¦ *Z. 2 lies 5, 18, 3 st. 5, 18, 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनाद्य",
+            "eid": "2358",
+            "pagenum": 32,
+            "content": "<i>anādya</i>¦ Adj. °nicht der erste, wiederholt, <ls>Kauś.</ls> 25, 29. {part=,seq=2393,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनाद्य",
+            "eid": "1353",
+            "pagenum": 30,
+            "content": "<b>an-ādya-</b>¦ <ab>a. v.</ab> qui ne doit pas être mangé."
+        }
     ]
 }

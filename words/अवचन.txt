@@ -115,5 +115,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अवचन¦ I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवचन",
+            "eid": "27996",
+            "pagenum": 385,
+            "content": "1. <i>avacana</i>¦ n. °das Nichtaussprechen, Dhanika zu <ls>Daśar.</ls> II, 42<sup>a</sup>; III, 62<sup>a</sup> (S. 70, Z. 8; 94, Z. 10). {part=N,seq=28367,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवचन",
+            "eid": "3662",
+            "pagenum": 63,
+            "content": "अवचन¦ n. (-नं) Silence, not speaking. E. अ neg. वचन word."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवचन",
+            "eid": "3937",
+            "pagenum": 86,
+            "content": "<b>a-vacana-</b>¦ <ab>a.</ab> silencieux.  <P><i>°kara-</i> <ab>a.</ab> qui ne suit pas les conseils de."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवचन",
+            "eid": "3664",
+            "pagenum": 77,
+            "content": "अवचन¦ n. (-नं) Silence, not speaking. .E. अ neg. वचन word."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवचन",
+            "eid": "3100",
+            "pagenum": 60,
+            "content": "अ-वचन¦ (नं) 1. <i>n.</i> Silence."
+        }
     ]
 }

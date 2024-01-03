@@ -23,5 +23,29 @@
             "pagenum": 6,
             "content": "वेदवाक्य¦ <lex>n.</lex> <i>ein Ausspruch der heiligen Schrift</i> <ls>SARVADARŚANAS. 72, 19. 128, 3. 4.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वेदवाक्य",
+            "eid": "38423",
+            "pagenum": 688,
+            "content": "वेदवाक्य¦ n. (-क्यं) Text of the Veda. E. वेद, and वाक्य sentence."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वेदवाक्य",
+            "eid": "36711",
+            "pagenum": 806,
+            "content": "वेदवाक्य¦ n. (-क्यं) Text of the <i>Veda.</i> .E. वेद, and वाक्य sentence."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वेदवाक्य",
+            "eid": "36329",
+            "pagenum": 724,
+            "content": "वेद-वाक्य¦ (क्यं) 1. <i>n. Idem.</i>"
+        }
     ]
 }

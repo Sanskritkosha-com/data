@@ -143,5 +143,51 @@
             "pagenum": 7,
             "content": "अहो¦ I. धिगहो बत <ls>JĀTAKAM. 24,29</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अहो",
+            "eid": "6512",
+            "pagenum": 89,
+            "content": "<i>[aho]</i>¦ <i>dhig aho bata</i>, <ls>Jātakam.</ls> 24, 29. {part=,seq=6599,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अहो",
+            "eid": "4904",
+            "pagenum": 83,
+            "content": "अहो¦ ind. A particle and interjection of, 1. Reproach, (fie !) 2. Compassion. 3. Regret, (ah ! oh !) 4. Calling, (ho ! hola !) 5. Praise, flattery, approbation. 6. Fatigue, weariness. 7. Surprise, (ah !) 8. Doubt, deliberation, (either, or.) 9. Contempt, sneering. 10. An expletive. E. अ neg. हा to go, and डो aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अहो",
+            "eid": "4884",
+            "pagenum": 107,
+            "content": "<b>1 aho</b>¦ <ab>v.</ab> <i>ahar-.</i>"
+        },
+        {
+            "word": "अहो",
+            "eid": "4885",
+            "pagenum": 107,
+            "content": "<b>2 aho</b>¦ <ab>interj.</ab> marquant surprise (joie peine, etc.), fatigue, regret, reproche, appel.  <P><i>°lābha-kara-</i> <ab>a.</ab> qui pousse un cri de joie au moindre gain."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अहो",
+            "eid": "4906",
+            "pagenum": 101,
+            "content": "अहो¦ <i>ind.</i> A particle and interjection of, .²1 Reproach, (fie!) .²2 Compassion. .²3 Regret, (ah! oh!) .²4 Calling, (ho! hola!) .²5 Praise, flattery, approbation. .²6 Fatigue, weariness. .²7 Surprise, (ah!) .²8 Doubt, deliberation, (either, or.) .²9 Contempt, sneering. .²10 An expletive. .E. अ neg. हा to go, and डो aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अहो",
+            "eid": "4274",
+            "pagenum": 80,
+            "content": "अहो¦ --<i>ind.</i> Ah! Oh! ho!"
+        }
     ]
 }

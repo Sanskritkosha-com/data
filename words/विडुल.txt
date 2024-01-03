@@ -47,5 +47,29 @@
             "pagenum": 6,
             "content": "विडुल¦ <lex>m.</lex> bei <ls>WILSON</ls> und im <ls>ŚKDR.</ls> fehlerhaft für विदुल ."
         }
+    ],
+    "SHS": [
+        {
+            "word": "विडुल",
+            "eid": "36617",
+            "pagenum": 655,
+            "content": "विडुल¦ m. (-लः) A sort of cane, (Calamus rotang.) E. विड-कुलन् । “वेतस वृक्षे ।”"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विडुल",
+            "eid": "35009",
+            "pagenum": 766,
+            "content": "विडुल¦ m. (-लः) A sort of cane, (<bot>Calamus rotang</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विडुल",
+            "eid": "34601",
+            "pagenum": 687,
+            "content": "विडुल¦ (लः) 1. <i>m.</i> A sort of cane."
+        }
     ]
 }

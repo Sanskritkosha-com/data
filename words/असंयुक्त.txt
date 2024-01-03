@@ -65,5 +65,21 @@
             "pagenum": 7,
             "content": "अ/संयुक्त¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असंयुक्त",
+            "eid": "6035",
+            "pagenum": 83,
+            "content": "<i>ásaṃyukta</i>¦ <ls>TS.</ls> 2, 5, 7, 5. {part=,seq=6118,type=,n=1}"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असंयुक्त",
+            "eid": "3809",
+            "pagenum": 72,
+            "content": "अ-संयुक्त¦ (क्तः-क्ता-क्तं) <i>a.</i> Disjoined."
+        }
     ]
 }

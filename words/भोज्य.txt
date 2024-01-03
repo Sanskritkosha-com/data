@@ -205,5 +205,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> भोज्य¦ IV. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भोज्य",
+            "eid": "20799",
+            "pagenum": 287,
+            "content": "1. <i>bhojya</i>¦ 1. f) dessen Speise jemand (Gen.) genießen darf, <ls>MBh.</ls> 13, 135, 1 ff. {part=,seq=21086,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भोज्य",
+            "eid": "29864",
+            "pagenum": 538,
+            "content": "भोज्य¦ mfn. (-ज्यः-ज्या-ज्यं) To be eaten, edible. n. (-ज्यं) 1. Food. 2. A dainty. 3. Enjoyment. E. भुज् to eat, ण्यत् aff. and the final unchanged."
+        }
+    ],
+    "STC": [
+        {
+            "word": "भोज्य",
+            "eid": "16345",
+            "pagenum": 540,
+            "content": "<b>bhojya-</b>¦ <ab>a. v.</ab> dont on doit jouir, bon à manger, comestible ; dont on jouit, qu'on mange (<ab>not.</ab> sans mastiquer) ; dont on doit se servir ; que l'on doit ressentir ou éprouver ; à qui l'on doit offrir à manger, que l'on doit nourrir ; dont la nourriture peut être mangée par (<ab>gén.</ab>) ; <ab>nt.</ab> ce dont on jouit, que l'on mange, nourriture, aliment, repas ; fait de manger ; <i>-tā-</i> <ab>f.</ab> <i>-tva-</i> <ab>nt.</ab> fait d'être mangé, fait de servir de nourriture ; <i>-tāṃ</i> <i>yā-</i> devenir nourriture.  <P><i>°kāla-</i> <ab>m.</ab> heure des repas.  <P><i>bhojyānna-</i> <ab>a.</ab> dont la nourriture peut être mangée."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भोज्य",
+            "eid": "28940",
+            "pagenum": 628,
+            "content": "भोज्य¦ mfn. (-ज्यः-ज्या-ज्यं) To be eaten, edible. n. (-ज्यं) Food. .E. भुज to eat, ण्यत् aff., and the final unchanged."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भोज्य",
+            "eid": "28452",
+            "pagenum": 563,
+            "content": "भोज्य¦ (ज्यं) 1. <i>n.</i> Food. <i>a.</i> edible."
+        }
     ]
 }

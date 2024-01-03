@@ -129,5 +129,29 @@
             "pagenum": 7,
             "content": "अदीन¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अदीन",
+            "eid": "1550",
+            "pagenum": 21,
+            "content": "<i>adīna</i>¦ auch: mit vollem Tone ausgesprochen. <i>°tama</i> <ls>Saṃhitop.</ls> 8, 1. {part=,seq=1576,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अदीन",
+            "eid": "897",
+            "pagenum": 20,
+            "content": "<b>a-dīna-</b>¦ <ab>a. v.</ab> non abattu (courage).  <P><i>°manas- °sattva-</i> <ab>a.</ab> dispos, plein d'entrain ; <i>adīnātman-</i> <ab>id.</ab>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अदीन",
+            "eid": "44476",
+            "pagenum": 910,
+            "content": "अ-दीन¦ (नः-ना-नं) <i>a.</i> Rich, happy."
+        }
     ]
 }

@@ -368,5 +368,55 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> शम्¦ mit नि VI. <i>erlöschen</i> <ls>DHARMAŚARM. 13,41</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शम्",
+            "eid": "24809",
+            "pagenum": 342,
+            "content": "1. <i>śam</i>¦ mit <i>ni</i> erlöschen, <ls>Dharmaśarm.</ls> 13, 41. {part=,seq=25149,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शम्",
+            "eid": "39508",
+            "pagenum": 707,
+            "content": "शम्(इर् उ)इरश्मु¦ r. 4th cl. (शाम्यति) 1. To be pacified, to be calmed or appeased. 2. To pacify, to calm. 3. To be tranquil, to have the passions tamed and quiescent. r. 10th cl. (शामयते) To look, to look at or inspect. (शमयति-ते) To allay, to appease. (शामयति) To display. With उप prefixed, To tranquillize, to ally, to tame. With नि, 1. To hear. 2. To observe, to perceive. 3. To restrain or prevent. With प्र, 1. To destroy. 2. To be very tranquil. 3. To be soothed. 4. To cease. 5. To fade away. With सम्, To be extinguished."
+        },
+        {
+            "word": "शम्",
+            "eid": "39509",
+            "pagenum": 707,
+            "content": "शम्¦ Ind. A particle meaning “welfare, prosperity, blessing, health,” (with a dat. or gen.)"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शम्",
+            "eid": "20049",
+            "pagenum": 717,
+            "content": "<b>1 ŚAM-</b>¦ <i>śāmyati -te</i> (<i>śamet</i>) ; <i>śaśāma</i> (<i>śemuḥ</i>) ; <i>aśīśamat ; śamayati -te śāmayati</i> (<i>śāmyate</i>) ; <i>śānta-</i> -- être calme, être apaisé ; se reposer, cesser, se désister, s'éteindre ; <ab>caus.</ab> calmer, apaiser ; renoncer, se désister ; assujettir, <lbinfo n='6'/> soumettre ; détruire, tuer, supprimer."
+        },
+        {
+            "word": "शम्",
+            "eid": "20050",
+            "pagenum": 717,
+            "content": "<b>2 ŚAM-</b>¦ <ab>pass.</ab> <i>śamyate</i> <ab>caus.</ab> <i>śāmayati</i> (<i>śāmyate</i>) <lbinfo n='5'/> ; <i>°śā̆mya</i> (<i>°śamayya</i>) -- observer ; <ab>caus.</ab> <ab>id.</ab> ; simple inusité, <ab>v.</ab> <i>ni-ŚAM-</i> <i>2.</i>"
+        },
+        {
+            "word": "शम्",
+            "eid": "20051",
+            "pagenum": 717,
+            "content": "<b>3 śam</b>¦ <ab>indécl.</ab> (en fonction de sujet ou d'objet) salut, bénédiction, propitiation, bonheur, <lbinfo n='4'/> bien (<ab>dat.</ab> <ab>gén.</ab>) ; <i>-ṃtama-</i> <ab>v. s. v.</ab>  <P><i>śaṃ-tanu-</i> <ab>m.</ab> <ab>v.</ab> <i>śāṃtanu-.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शम्",
+            "eid": "37345",
+            "pagenum": 748,
+            "content": "शम्¦ (य, उ) शाम्यति 4. <i>a.</i> To be pacified, calm, or tranquil; to pacify. (क) शमयति 10. <i>a. Idem.</i> शामयति 10. <i>a.</i> To display. शामयते 10. <i>d.</i> To inspect. With prep. आ, to tame; नि, to hear; restrain; प्र, to destroy."
+        }
     ]
 }

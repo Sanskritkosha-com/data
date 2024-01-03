@@ -123,5 +123,45 @@
             "pagenum": 5,
             "content": "पतत्र¦ <div n='1'> 1) <i>Flügel</i> <ls>BHĀG. P. 11, 7, 60.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पतत्र",
+            "eid": "17626",
+            "pagenum": 243,
+            "content": "<i>patatra</i>¦ (°m.?) °Vogel, <ls>S</ls> I, 60, 10 (Ko.): <i>vikiraiḥ pakṣibhiś caṭakādipatatraiḥ</i>. {part=,seq=17883,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पतत्र",
+            "eid": "23009",
+            "pagenum": 416,
+            "content": "पतत्र¦ n. (-त्रं) 1. A wing. 2. A vehicle. E. पत् to go, अत्रन् करणे । Unādi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पतत्र",
+            "eid": "12828",
+            "pagenum": 400,
+            "content": "<b>patatra-</b>¦ <ab>nt.</ab> aile, plume."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पतत्र",
+            "eid": "23023",
+            "pagenum": 497,
+            "content": "पतत्र¦ n. (-त्रं) A wing. .E. पत to go, अचन् Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पतत्र",
+            "eid": "22496",
+            "pagenum": 444,
+            "content": "पतत्र¦ (त्रं) 1. <i>n.</i> A wing."
+        }
     ]
 }

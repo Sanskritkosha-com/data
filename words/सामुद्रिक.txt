@@ -157,5 +157,57 @@
             "pagenum": 7,
             "content": "2. सामुद्रिक¦ (von 2. सामुद्र) <div n='1'> 1) <lex>m.</lex> <i>Chiromant</i> <ls>HĀR. 61.</ls> <ls>Verz. d. Oxf. H. 113,b,47.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Chiromantie</i> <ls>Verz. d. Oxf. H. 126,a,22.</ls> <ls n='Verz. d. Oxf. H.'>261,a,10.</ls> °ज्ञ <ls>VAIJ.</ls> bei <ls>WILSON, DAŚAK. S. 61.</ls> <ls>Verz. d. Oxf. H. 333,a,3.</ls> सामुद्रिकाचार्य als Beiw. <is>Kāśīnātha's</is> 261, <i>a</i>, 11."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सामुद्रिक",
+            "eid": "26434",
+            "pagenum": 363,
+            "content": "<i>Sāmudrika</i>¦ m. °N. eines Brahmanen, <ls>Rasas.</ls> 8, 1. {part=,seq=26787,type=,n=1}"
+        },
+        {
+            "word": "सामुद्रिक",
+            "eid": "26434.1",
+            "pagenum": 363,
+            "content": "<i>sāmudrika</i>¦ (n.) distinguishing marks, <ls>Prabandh.</ls> 83, 3/2 v.u.; 252, 1. {part=,seq=26788,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सामुद्रिक",
+            "eid": "43749",
+            "pagenum": 782,
+            "content": "सामुद्रिक¦ mfn. (-कः-की-कं) 1. Relating to spots on the body, supposed to indicate good or ill fortune. 2. Oceanic. m. (-कः) An interpreter of spots on the body. n. (-कं) Palmistry. E. समुद्र a spot or mole, ठञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "सामुद्रिक",
+            "eid": "22887",
+            "pagenum": 833,
+            "content": "<b>1 sāmudrika-</b>¦ <ab>a.</ab> qui voyage sur mer ; <ab>m.</ab> marin, navigateur."
+        },
+        {
+            "word": "सामुद्रिक",
+            "eid": "22888",
+            "pagenum": 833,
+            "content": "<b>2 sāmudrika-</b>¦ <ab>m.</ab> chiromancier ; <ab>nt.</ab> chiromancie. <lbinfo n='8'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सामुद्रिक",
+            "eid": "41631",
+            "pagenum": 919,
+            "content": "सामुद्रिक¦ mfn. (-कः-की-कं) Relating to spots on the body, or the circumstance of good or ill fortune supposed to be indicated by them. m. (-कः) .²1 An interpreter of spots on the body. .²2 A work on the same subject. .E. समुद्र a spot or mole, ठक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सामुद्रिक",
+            "eid": "41376",
+            "pagenum": 840,
+            "content": "सामुद्रिक¦ (कः-की-कं) <i>m.</i> An interpreter of the spots, &c., or a work upon them. <i>a.</i> Relating to the spots on the body."
+        }
     ]
 }

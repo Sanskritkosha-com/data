@@ -39,5 +39,43 @@
             "pagenum": 7,
             "content": "सारव/¦ <lex>adj.</lex> <i>vom Flusse</i> <is>Sarayū</is> <i>kommend</i> <ls>P. 6, 4, 174.</ls> <ls>AK. 1, 2, 3, 35.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "सारव",
+            "eid": "26456",
+            "pagenum": 363,
+            "content": "*<i>sārava</i>¦ Adj. vom Flusse Sarayū stammend, <ls>Viṣṇubh.</ls> II, 24<sup>c</sup>. {part=,seq=26811,type=*,n=1}"
+        },
+        {
+            "word": "सारव",
+            "eid": "26456.1",
+            "pagenum": 363,
+            "content": "*<i>sārava</i>¦ Adj. = <i>°śabdasahita</i>, <ls>Yudh.</ls> 1, 84; 2, 109; 7, 42; <ls>H</ls> 43, 174. 216. {part=,seq=26812,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सारव",
+            "eid": "43805",
+            "pagenum": 783,
+            "content": "सारव¦ mfn. (-वः-वी-वं) Belonging or relating to the river Sarayu. E. सरयु the river, अण् aff., special form."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सारव",
+            "eid": "41676",
+            "pagenum": 920,
+            "content": "सारव¦ mfn. (-वः-वी-वं) Belonging or relating to the <i>Saryu</i> river. .E. सरयु the river, अण् aff., form special."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सारव",
+            "eid": "41424",
+            "pagenum": 841,
+            "content": "सारव¦ (वः-वी-वं) <i>a.</i> Of the <i>Saryu</i> river."
+        }
     ]
 }

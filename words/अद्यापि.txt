@@ -33,5 +33,29 @@
             "pagenum": 19,
             "content": "¦ henceforth.<info lex='inh'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अद्यापि",
+            "eid": "935",
+            "pagenum": 17,
+            "content": "अद्यापि¦ ind. Even now, still. E. अद्य, and अपि certainly."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अद्यापि",
+            "eid": "937",
+            "pagenum": 20,
+            "content": "अद्यापि¦ <i>ind.</i> Even now, still. .E. अद्य, and अपि certainly."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अद्यापि",
+            "eid": "773",
+            "pagenum": 17,
+            "content": "अद्या_पि¦ <i>adv.</i> Even now."
+        }
     ]
 }

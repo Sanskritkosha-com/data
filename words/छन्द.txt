@@ -232,5 +232,51 @@
             "pagenum": 7,
             "content": "छन्द¦ II. 2. *<lex>m.</lex> <ab>N. pr.</ab> eines Mönchs <ls>MAHĀVY. 282</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "छन्द",
+            "eid": "13518",
+            "pagenum": 186,
+            "content": "<i>chanda</i>¦ 2. e) = <i>chandaka</i> 2., <ls>Lalit.</ls> 285, 9. 10. 15. 18; 288, 7. — *m. N. pr. eines Mönches, <ls>Mahāvy.</ls> 282. {part=,seq=13732,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "छन्द",
+            "eid": "15541",
+            "pagenum": 276,
+            "content": "छन्द¦ mfn. (-न्दः-न्दा-न्दं) Solitary, secret, private. m. (-न्दः) 8. Meaning, intention, purport, opinion. 2. Subjection. 3. Poison. n. (-न्दं) Wish, desire. E. छद् to cover, affix अच्; see छन्दस्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "छन्द",
+            "eid": "9388",
+            "pagenum": 255,
+            "content": "<b>1 chanda-</b>¦ <ab>m.</ab> désir, plaisir, prédilection ; <i>-ena -āt -tas</i> au gré de, à son gré.  <P><i>°cārin-</i> <ab>a.</ab> <ab>ifc.</ab> qui agit au gré de, obéissant à.  <P><i>°mṛtyu-</i> <ab>a.</ab> qui commande à la mort.  <P><i>chandānugamin- chandānuvartin-</i> <ab>a.</ab> = <i>°cārin.</i> <lbinfo n='4'/>"
+        },
+        {
+            "word": "छन्द",
+            "eid": "9389",
+            "pagenum": 255,
+            "content": "<b>2 chanda-</b>¦ <ab>iic.</ab> = <i>chandas-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "छन्द",
+            "eid": "15547",
+            "pagenum": 334,
+            "content": "छन्द¦ mfn. (-न्दः-न्दा-न्दं) Solitary, secret, private. m. (-न्दः) .²1 Meaning, intention, purport, opinion. .²2 Subjection. .²3 Poison. n. (-न्दं) Wish, desire. .E. छद to cover, affix घञ्: see छन्दस्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "छन्द",
+            "eid": "15012",
+            "pagenum": 293,
+            "content": "छन्द¦ (न्दः) 1. <i>m.</i> Meaning; subjection; poison. <i>n.</i> Wish. <i>a.</i> Solitary."
+        }
     ]
 }

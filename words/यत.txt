@@ -146,5 +146,51 @@
             "pagenum": 6,
             "content": "यत¦ <div n='1'> 1) partic. <lex>adj.</lex> s. u. यम् . <div n='1'>— 2) <lex>n.</lex> <i>die Fussbewegungen des Führers beim Lenken eines Elephanten</i> <ls>H. 1231.</ls> <ls>HALĀY. 2, 67.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "यत",
+            "eid": "22088",
+            "pagenum": 305,
+            "content": "<i>yata</i>¦ (*n.) das Lenken des Elefanten mit dem Fuße, <ls>S</ls> I, 394, 6; 500, 7 (hier aber mit <i>ārohaka</i> = Reiter erklärt). {part=,seq=22392,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "यत",
+            "eid": "32409",
+            "pagenum": 583,
+            "content": "यत¦ mfn. (-तः-ता-तं) 1. Governed, controlled. 2. Limited, restrained. n. (-तं) The stirring of an elephant by means of the rider's feet. E. यम् to check, क्त aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "यत",
+            "eid": "17060",
+            "pagenum": 583,
+            "content": "<b>yata-</b>¦ (<b>YAM-</b>) <ab>a. v.</ab> tenu, retenu, maintenu, <lbinfo n='4'/> maîtrisé, etc.  <P><i>°gir-</i> <ab>a.</ab> qui garde le silence.  <P><i>°cittātman-</i> <ab>a.</ab> qui contrôle son esprit ; <i>°cetas-</i> <ab>id.</ab> ; <i>°cittendriya-kriya-</i> <ab>a.</ab> qui a enrayé toute activité de la pensée et des sens.  <P><i>°maithuna-</i> <ab>a.</ab> qui s'abstient de contact charnel.  <P><i>°vāc-</i> <ab>a.</ab> qui retient sa parole, silencieux.  <P><i>°vrata-</i> <ab>a.</ab> qui tient ferme à son vœu.  <P><i>yatātman-</i> <ab>a.</ab> maître de soi-même ; <i>yatātmavant-</i> <lbinfo n='5'/> <ab>id.</ab>  <P><i>yatāhāra-</i> <ab>m.</ab> abstinent (au point de vue des aliments).  <P><i>yatendriya-</i> <ab>a.</ab> aux sens maîtrisés, chaste."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "यत",
+            "eid": "31195",
+            "pagenum": 679,
+            "content": "यत(ई)यती¦ r. 1st cl. (यतते) To resolve or determine in consequence of a wish or desire, to apply or endeavour .²1 strenuously, to energize, to persevere. r. 10th cl. (यातयति) .²1 To distress or afflict. .²2 To beat. .²3 To order. .²4 To collect, to assemble. .²5 To work, to make or manufacture. .²6 To prevent, to remove. .²7 To return, to give back, to requite. .²8 To barter or exchange. .²9 To purify. <div n='p'>With निर् or नि prefixed, To chastise, to punish, to inflict pain."
+        },
+        {
+            "word": "यत",
+            "eid": "31197",
+            "pagenum": 679,
+            "content": "यत¦ mfn. (-तः-ता-तं) .²1 Governed, controlled. .²2 Limited, restrained. .E. यम to check, क्त aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "यत",
+            "eid": "30752",
+            "pagenum": 608,
+            "content": "यत¦ (तः-ता-तं) <i>p.</i> Restrained."
+        }
     ]
 }

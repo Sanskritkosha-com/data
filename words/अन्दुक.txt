@@ -52,5 +52,37 @@
             "pagenum": 7,
             "content": "अन्दुक¦ I. <ls>DHARMAŚARM. 17,87</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अन्दुक",
+            "eid": "3122",
+            "pagenum": 43,
+            "content": "<i>anduka</i>¦ <ls>Dharmaśarm.</ls> 17, 87. {part=,seq=3164,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अन्दुक",
+            "eid": "1823",
+            "pagenum": 33,
+            "content": "अन्दुक¦ m. (-कः) 1. A ring or chain worn on the ancle. 2. The chain for an elephant's feet. E. अदि to bind, कु affix, and कन् final."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अन्दुक",
+            "eid": "1825",
+            "pagenum": 39,
+            "content": "अन्दुक¦ m. (-कः) .²1 A ring or chain worn on the ancle. .²2 The chain for an elephant's feet. .E. अदि to bind, कु affix, and कन् final."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अन्दुक",
+            "eid": "1516",
+            "pagenum": 31,
+            "content": "अन्दुक¦ (कः) 1. <i>m.</i> A ring or chain worn on the ancle."
+        }
     ]
 }

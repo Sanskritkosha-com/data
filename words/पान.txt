@@ -307,5 +307,53 @@
             "pagenum": 4,
             "content": "4. पान¦ <lex>m.</lex> = अपान (und auch daraus entstanden) <i>Aushauch</i> <ls>H. 1368.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पान",
+            "eid": "18336",
+            "pagenum": 253,
+            "content": "<i>pāna</i>¦ ° = <i>mada</i> (Brunstsaft), <ls>S</ls> I, 91, 7 (Ko.) verdruckt für <i>dāna?</i> — n. ° = <i>śastrāṇāṃ mārjanadravyam</i>, <ls>H</ls> XII, 5. {part=,seq=18600,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पान",
+            "eid": "24440",
+            "pagenum": 443,
+            "content": "पान¦ n. (-नं) 1. Drinking. 2. A drinking cup or vessel. 3. Preserving, protecting. 4. A beverage. 5. Sharpening. m. (-नः) 1. Breath, breathing out, expiration. 2. A distiller. E. पा to drink, &c. aff. ल्युट्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पान",
+            "eid": "13659",
+            "pagenum": 428,
+            "content": "<b>pāna-</b>¦ <ab>nt.</ab> fait de boire (<ab>not.</ab> des boissons spiritueuses) gorgée ; boisson, breuvage ; <i>-vant-</i> <ab>a.</ab> riche en boissons.  <P><i>°doṣa-</i> <ab>m.</ab> vice de boire, ivrognerie.  <P><i>°pa-</i> <ab>ag.</ab> qui boit des boissons spiritueuses.  <P><i>°pātra-</i> <ab>nt.</ab> coupe, gobelet ; <i>°bhāṇḍa-</i> <ab>id.</ab>  <P><i>°bhū-</i> <i>°bhūmi- °bhūmī-</i> <ab>f.</ab> salle où l'on boit.  <P><i>°bhojana-</i> <ab>nt.</ab> fait de manger et de boire.  <P><i>°maṅgala-</i> <ab>nt.</ab> débauche de boissons, orgie.  <P><i>°matta-</i> <ab>a. v.</ab> ivre ; <i>°mada-</i> <ab>m.</ab> ivresse.  <P><i>pānāgāra-</i> <ab>m.</ab> <ab>nt.</ab> cabaret."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "पान",
+            "eid": "1772",
+            "pagenum": 1,
+            "content": "<b>Pāna,</b>¦ ‘drink,’ occurs in the Śatapatha Brāhmaṇa<sup>1</sup> and the Upaniṣads.<sup>2</sup> <F>1) xiii. 4, 2, 17.</F> <F>2) Bṛhadāraṇyaka Upaniṣad, iv. 1, 43; Chāndogya Upaniṣad, viii. 2, 7, etc.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पान",
+            "eid": "24376",
+            "pagenum": 526,
+            "content": "पान¦ n. (-नं) .²1 Drinking. .²2 A drinking cup or vessel. .²3 Preserving, protecting. m. (-नः) .²1 Breath, breathing out, expiration. .²2 A distiller. .E. पा to drink, &c. aff. ल्युट्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पान",
+            "eid": "23851",
+            "pagenum": 471,
+            "content": "पान¦ (नं) 1. <i>n.</i> Drinking; drinking cup; protecting, preserving. <i>m.</i> Breath, breathing out; a distiller."
+        }
     ]
 }

@@ -292,5 +292,51 @@
             "pagenum": 7,
             "content": "भौम¦ IV. <ls>KAUŚ. 38,12</ls> <ab>Bez.</ab> <i>des Liedes</i> <ls>AV. 12,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भौम",
+            "eid": "20801",
+            "pagenum": 287,
+            "content": "<i>bhauma</i>¦ <ls>Kauś.</ls> 38, 12 Bez. des Liedes <ls>AV.</ls> 12, 1. {part=,seq=21088,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भौम",
+            "eid": "29874",
+            "pagenum": 538,
+            "content": "भौम¦ mfn. (-मः-मी-मं) Earthly, terrestrial, produced in or relating to the earth. m. (-मः) 1. The planet MARS. 2. Hell. 3. Ambergris. 4. Water. 5. Life. f. (-मी) A name of ŚITĀ. E. भूमि the earth, and अण् aff."
+        },
+        {
+            "word": "भौम",
+            "eid": "29875",
+            "pagenum": 538,
+            "content": "भौम (व) न¦ m. (-नः) An epithet of Vishwakarman, the architect of gods."
+        }
+    ],
+    "STC": [
+        {
+            "word": "भौम",
+            "eid": "16351",
+            "pagenum": 541,
+            "content": "<b>bhauma-</b>¦ <ab>a.</ab> relatif ou consacré à la terre, produit par ou issu de la terre, terrestre ; fait de ou consistant en terre ; relatif à la planète Mars, qui se passe le mardi ; <ab>m.</ab> <ab>n.</ab> d'un Daitya ; Mars (planète) ; <ab>nt.</ab> poussière terrestre <lbinfo n='6'/> (<ab>ord.</ab> <ab>pl.</ab>) ; <ab>ifc.</ab> étage.  <P><i>°dina-</i> <ab>nt.</ab> <i>°vāra-</i> <ab>m.</ab> mardi."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भौम",
+            "eid": "28949",
+            "pagenum": 628,
+            "content": "भौम¦ mfn. (-मः-मी-मं) Earthly, terrestrial, produced in or relating to the earth. m. (-मः) .²1 The planet MARS. .²2 Hell. .²3 Ambergris. f. (-मी) A name of SĪTĀ. .E. भूमि the earth, and अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भौम",
+            "eid": "28461",
+            "pagenum": 563,
+            "content": "भौम¦ (मः) 1. <i>m.</i> The planet <i>Mars;</i> hell; ambergris. <i>f.</i> (मी) <i>Sītā. a.</i> Terrestrial, belonging to the earth."
+        }
     ]
 }

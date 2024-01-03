@@ -139,5 +139,45 @@
             "pagenum": 7,
             "content": "विघात¦ VI. <i>das Fehlschlagen, Misslingen</i> <ls><ab>ebend.</ab> 8. 9,9. 31,12. 17</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विघात",
+            "eid": "23697",
+            "pagenum": 327,
+            "content": "<i>vighāta</i>¦ das Fehlschlagen, Mißlingen, <ls>Jātakam.</ls> 8. 9, 9; 31, 12. 17. {part=,seq=24029,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विघात",
+            "eid": "36434",
+            "pagenum": 652,
+            "content": "विघात¦ mn. (-तः-तं) 1. Impediment, obstacle. 2. Prohibition or prevention. 3. Opposition. 4. Destruction. 5. A blow. 6. Killing. 7. Abandoning. E. वि before, हन् to kill or hurt, aff. क्त ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विघात",
+            "eid": "18389",
+            "pagenum": 649,
+            "content": "<b>vi-ghāta-</b>¦ <ab>m.</ab> fait de repousser, de refouler <ab>qq'un</ab> (<ab>gén.</ab> <ab>ifc.</ab>) ; destruction, rupture, interruption, <lbinfo n='7'/> obstruction, obstacle, empêchement ; <i>-ka-</i> <ab>ag.</ab> interrupteur, qui dérange, qui obstrue ; <i>-na-</i> <ab>a.</ab> qui repousse ; <ab>nt.</ab> = <i>°ghāta- ; -in-</i> <ab>ag.</ab> qui combat, qui frappe, qui blesse ; qui interrompt, qui empêche."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विघात",
+            "eid": "34836",
+            "pagenum": 762,
+            "content": "विघात¦ mn. (-तः-तं) .²1 Impediment, obstacle. .²2 Prohibition or prevention. .²3 Opposition. .²4 Destruction. .²5 A blow. .E. वि before हन to kill or hurt, aff. क्त."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विघात",
+            "eid": "34432",
+            "pagenum": 683,
+            "content": "विघात¦ (तः-तं) 1. <i>m. n.</i> A blow; impediment, prohibition; destruction."
+        }
     ]
 }

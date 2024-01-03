@@ -207,5 +207,51 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अपार/¦ I. 4. Auch <i>dem schwer beizukommen ist</i> <ls>R. ed. Bomb. 4,28,59</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपार",
+            "eid": "3587",
+            "pagenum": 49,
+            "content": "1. <i>apāra</i>¦ m. n. °eine andere Öffnung als das Schleusentor, <ls>Kauṭ.</ls> 170, 10. 2. <i>apārá</i> auch: kein jenseitiges Ufer habend, <ls>TS.</ls> 7, 5, 3, 2. Auch: dem schwer beizukommen ist, <ls>R. ed. Bomb.</ls> 4, 28, 59. {part=,seq=3636,type=,n=6}"
+        },
+        {
+            "word": "अपार",
+            "eid": "27863",
+            "pagenum": 383,
+            "content": "<i>apāra</i>¦ °eine Stelle, wo kein Ausfluß ist, <ls>Kauṭ.</ls> 170, 10. {part=N,seq=28234,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अपार",
+            "eid": "2204",
+            "pagenum": 39,
+            "content": "अपार¦ n. (-रं) The opposite bank of a river. mfn. (-रः-रा-रं) Unbounded, boundless, interminable. E. अ neg. पार shore."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपार",
+            "eid": "2514",
+            "pagenum": 54,
+            "content": "<b>a-pāra-</b>¦ <ab>a.</ab> sans limites (dit <ab>not.</ab> de la terre) ; situé en pleine mer ; sur qui on n'a pas prise ; <ab>nt.</ab> rive la plus proche."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अपार",
+            "eid": "2206",
+            "pagenum": 47,
+            "content": "अपार¦ n. (-रं) The opposite bank of a river. mfn. (-रः-रा-रं) Unbounded, boundless, interminable. .E. अ neg. पार shore."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अपार",
+            "eid": "1832",
+            "pagenum": 37,
+            "content": "अ-पार¦ (रं) 1. <i>n.</i> The opposite bank of a river. <i>a.</i> Boundless."
+        }
     ]
 }

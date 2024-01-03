@@ -121,5 +121,51 @@
             "pagenum": 5,
             "content": "क्षेपण¦ <div n='1'> 1) <div n='2'> e) क्षेपणैः क्षिपतः <ls>BHĀG. P. 10, 11, 38.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "क्षेपण",
+            "eid": "11733",
+            "pagenum": 161,
+            "content": "<i>kṣepaṇa</i>¦ n. °eine Art Liebkosung, <ls>Śaṃkaramiśra</ls> zu <ls>Gītag.</ls> p. 47. {part=,seq=11912,type=,n=2}"
+        },
+        {
+            "word": "क्षेपण",
+            "eid": "28589",
+            "pagenum": 393,
+            "content": "<i>kṣepaṇa</i>¦ °m. Einsetzen, Fassen von Edelsteinen, <ls>Kauṭ.</ls> 87, 5 v.u. 4 v.u. {part=N,seq=28960,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "क्षेपण",
+            "eid": "12498",
+            "pagenum": 220,
+            "content": "क्षेपण¦ n. (-णं) 1. Sending, directing. 2. Throwing, casting. 3. Passing away time. 4. Abusing. E. क्षिप् to throw, affix ल्युट्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "क्षेपण",
+            "eid": "8528",
+            "pagenum": 218,
+            "content": "<b>kṣepaṇa-</b>¦ <ab>nt.</ab> action de jeter, de laisser aller (une corde d'arc), d'envoyer, de suspendre <lbinfo n='6'/> ; fronde ; <i>-ī-</i> <ab>f.</ab> fronde."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "क्षेपण",
+            "eid": "12504",
+            "pagenum": 267,
+            "content": "क्षेपण¦ n. (-णं) .²1 Sending, directing. .²2 Throwing, casting. .²3 Passing away time. .²4 Abusing. .E. क्षिप to throw, affix ल्युट्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "क्षेपण",
+            "eid": "11957",
+            "pagenum": 231,
+            "content": "क्षेपण¦ (णं) 1. <i>n.</i> Sending; abusing; passing away time."
+        }
     ]
 }

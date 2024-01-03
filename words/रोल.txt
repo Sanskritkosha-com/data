@@ -45,5 +45,37 @@
             "pagenum": 6,
             "content": "रोल¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Flacourtia cataphracta Roxb.</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <div n='2'>— b) <i>frischer Ingwer</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> <div n='1'>— 2) <lex>f.</lex> आ <i>ein best. Metrum</i>, = लोला <ls>COLEBR. Misc. Ess. II, 90. 92. 156</ls> (<ls n='COLEBR. Misc. Ess.'>III, 10</ls>)."
         }
+    ],
+    "SCH": [
+        {
+            "word": "रोल",
+            "eid": "22761",
+            "pagenum": 314,
+            "content": "<i>rola</i>¦ m. °Kampf, <ls>H</ls> 43, 120. — <ls>Hem. Deś.</ls> 7, 15 (= <i>kalaha</i> und <i>rava)</i>; Kumārapālacarita 5, 76 (= <i>kolāhala)</i>. [Z.] {part=,seq=23080,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "रोल",
+            "eid": "33968",
+            "pagenum": 610,
+            "content": "रोल¦ m. (-लः) 1. A fruit, (Flacourtia cataphracta.) 2. Moist ginger."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "रोल",
+            "eid": "32609",
+            "pagenum": 712,
+            "content": "रोल¦ m. (-लः) .²1 A fruit, (<bot>Flacourtia cataphracta</bot>.) .²2 Moist ginger."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रोल",
+            "eid": "32181",
+            "pagenum": 636,
+            "content": "रोल¦ (लः) 1. <i>m.</i> A fruit (Flacourtia cataphracta); moist ginger."
+        }
     ]
 }

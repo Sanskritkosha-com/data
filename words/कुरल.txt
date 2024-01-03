@@ -53,5 +53,37 @@
             "pagenum": 2,
             "content": "कुरल¦ <lex>m.</lex> <div n='1'> 1) = कुरर <i>Meeradler.</i> <div n='1'>— 2) = कुरुल <i>Haarlocke an der Stirn</i> <ls>DHAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुरल",
+            "eid": "10905",
+            "pagenum": 150,
+            "content": "*<i>kurala</i>¦ m. = <i>hurula</i>, <ls>S</ls> I, 569, 6; <ls>Śrīk.</ls> XIII, 25 (Ko.: <i>alakaracanāviśeṣa</i>). {part=,seq=11070,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुरल",
+            "eid": "10864",
+            "pagenum": 191,
+            "content": "कुरल¦ m. (-लः) A curl, a lock of hair. 2. An osprey, see कुरुल."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुरल",
+            "eid": "10870",
+            "pagenum": 232,
+            "content": "कुरल¦ m. (-लः) A <i>curl,</i> a lock of hair. .²2 An osprey, see कुरुल."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुरल",
+            "eid": "10316",
+            "pagenum": 196,
+            "content": "कुरल¦ (लः) 1. <i>m.</i> A curl; an osprey."
+        }
     ]
 }

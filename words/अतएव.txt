@@ -21,5 +21,29 @@
             "pagenum": 12,
             "content": "¦ therefore.<info lex='inh'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अतएव",
+            "eid": "670",
+            "pagenum": 13,
+            "content": "अतएव¦ ind. Even, thus, or hence, so, from this cause, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अतएव",
+            "eid": "671",
+            "pagenum": 15,
+            "content": "अतएव¦ <i>ind.</i> Even, thus, or hence, so, from this cause, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अतएव",
+            "eid": "597",
+            "pagenum": 13,
+            "content": "अतएव¦ <i>conj.</i> Therefore, even, thence."
+        }
     ]
 }

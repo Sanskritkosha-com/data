@@ -215,5 +215,33 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> सद्¦ mit अत्या <ab>Caus.</ab> auch <i>Jmd</i> (<ab>Acc.</ab>) <i>zunahe kommen</i> <ls>R. ed. Bomb. 3,37,17</ls>. — Mit उद् <ab>Caus.</ab> VII. 3〉 <ls>ĀPAST. GṚHY. 12,7</ls>. — Mit अनूप <ab>Caus.</ab> streiche das Wort <ab>Comm.</ab> — Mit अभिप्र VII. °सन्न <i>günstig gestimmt</i> <ls>MAHĀVY. 255</ls>. <ls>JĀTAKAM. 3</ls>. — Mit समभिप्र <ab>Caus.</ab> <i>ganz günstig stimmen</i> <ls>JĀTAKAM. 5</ls>. <ls n='JĀTAKAM.'>12</ls>. — Mit विप्र, °सन्न VII. <i>*ganz klar, durchsichtig</i> <ls>MAHĀVY. 245,887</ls>. — Mit सम् <ab>Caus.</ab> VII. <i>zu Boden strekken, niederworfen</i> <ls>JĀTAKAM. 32</ls>. <ls n='JĀTAKAM.'>33</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सद्",
+            "eid": "25723",
+            "pagenum": 353,
+            "content": "1. <i>sad</i>¦ mit <i>atyā</i> <ls>Kaus.</ls> auch: jemandem (Akk.) zu nahe kommen, <ls>R. ed. Bomb.</ls> 3, 37, 17. — <ls>Kauṭ.</ls> 11, 17. — Mit <i>ud</i> <ls>Kaus.</ls> 3., <ls>Āpast.</ls> Gṛhy, 12, 7. — Mit <i>anūpa</i> <ls>Kaus.</ls> streiche das Wort Komm. — Mit <i>abhipra, °sanna</i> günstig gestimmt, <ls>Mahāvy.</ls> 255; <ls>Jātakam.</ls> 3. — Mit <i>samabhipra</i> <ls>Kaus.</ls> ganz günstig stimmen, <ls>Jātakam.</ls> 5. 12. — Mit <i>vipra, °sanna</i> *ganz klar, durchsichtig, <ls>Mahāvy.</ls> 245, 887. — Mit <i>sam</i> <ls>Kaus.</ls> zu Boden strecken, niederwerfen, <ls>Jātakam.</ls> 32, 33. — Mit <i>pratyā</i> °wieder gnädig gestimmt werden, <ls>Muk.</ls> 123<sup>a</sup>. — Mit <i>samā</i> °to uphold, <ls>Vās.</ls> 12, 1 (<i>samāsādita = uddhṛta</i>). {part=,seq=26070,type=,n=16}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सद्",
+            "eid": "21236",
+            "pagenum": 772,
+            "content": "<b>1 SAD-</b>¦ <i>sīdati -te ; sasāda seduḥ ; asadat ; sīdiṣyati ; sadayati -te</i> (<i>sādyate</i>) ; <i>sannasīditum</i><i> °sadya</i> -- s'asseoir, être assis, siéger, assister (<ab>not.</ab> à un sacrifice) ; s'affaisser, succomber, <lbinfo n='6'/> se trouver dans une situation difficile ou désespérée, désespérer, défaillir, dépérir, souffrir ; <ab>caus.</ab> asseoir, faire asseoir ; déposer, placer dans ou sur (<ab>loc.</ab>) ; désoler, affliger, mettre en mauvaise posture, ruiner, faire périr, réduire à néant."
+        },
+        {
+            "word": "सद्",
+            "eid": "21237",
+            "pagenum": 772,
+            "content": "<b>2 sad-</b>¦ <ab>a.</ab> <ab>ifc.</ab> assis, résidant à."
+        },
+        {
+            "word": "सद्",
+            "eid": "21238",
+            "pagenum": 772,
+            "content": "<b>3 sad°</b>¦ <ab>iic.</ab> <ab>v.</ab> <i>sant-.</i>"
+        }
     ]
 }

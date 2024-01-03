@@ -201,5 +201,27 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> दाश्¦ 5. — Mit आ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दाश्",
+            "eid": "15320",
+            "pagenum": 211,
+            "content": "2. <i>dā́ś</i>¦ m. (Nom. <i>dā́s</i>) Verehrer, <ls>ṚV. 6, 16, 26.</ls> {part=,seq=15559,type=,n=2}"
+        },
+        {
+            "word": "दाश्",
+            "eid": "15321",
+            "pagenum": 211,
+            "content": "3. <i>dāś</i>¦ , <i>dā́śati</i> = 1. <i>dā́s</i>. Mit <i>ā</i> verfolgen (= 1. <i>dās</i> mit <i>abhi</i>), <ls>ṚV. 6, 16, 31.</ls> {part=,seq=15560,type=,n=3}"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दाश्",
+            "eid": "18360",
+            "pagenum": 361,
+            "content": "दाश्¦ (ञ, ऋ) दाशति, ते 1. <i>c.</i> To give. (क, ङ) दाशयते 10. <i>d. Idem.</i> (न) दाश्नोति 5. <i>a.</i> To hurt."
+        }
     ]
 }

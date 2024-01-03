@@ -47,5 +47,29 @@
             "pagenum": 5,
             "content": "माडि¦ <lex>m.</lex> <i>Palast</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "माडि",
+            "eid": "31187",
+            "pagenum": 562,
+            "content": "माडि¦ m. (-डिः) A palace."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "माडि",
+            "eid": "30112",
+            "pagenum": 655,
+            "content": "माडि¦ m. (-डिः) A palace."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "माडि",
+            "eid": "29643",
+            "pagenum": 587,
+            "content": "माडि¦ (डिः) 2. <i>m.</i> A palace."
+        }
     ]
 }

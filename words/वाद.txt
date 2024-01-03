@@ -217,5 +217,45 @@
             "pagenum": 7,
             "content": "वाद¦ VI. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वाद",
+            "eid": "23468",
+            "pagenum": 324,
+            "content": "<i>vāda</i>¦ m. <i>acchāvākasya vādaḥ</i> <ls>Āśv. Śr.</ls> 5, 3, 17 nach dem Komm. = <i>yasmin deśa āsīno 'cchāvākaḥ 'acchāvāka vadasva' ity ukto vadati sa deśaḥ</i>. {part=,seq=23795,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वाद",
+            "eid": "35901",
+            "pagenum": 643,
+            "content": "वाद¦ m. (-दः) 1. Demonstrated conclusion, reply, result. 2. Discourse, discussion, defined as the speech of one desirous to know the truth. 3. A plaint, an accusation. 4. Sound, sounding. 5. Rumour, report. E. वद् to speak, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वाद",
+            "eid": "18101",
+            "pagenum": 638,
+            "content": "<b>vāda-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui parle, qui fait entendre ou retentir ; <ab>m.</ab> énoncé, déclaration, narration, <lbinfo n='4'/> parole, mention ; fait de parler de (<ab>ifc.</ab>) ; avis, conseil, thèse, théorie, discussion ; convention <lbinfo n='7'/> verbale ; son (d'instrument), cri (d'oiseau).  <P><i>°cañcu-</i> <ab>a.</ab> qui a la répartie facile, spirituel. <lbinfo n='4'/>  <P><i>°da-</i> <ab>ag.</ab> qui stimule (par la parole) ; qui rivalise avec <ab>qq'un</ab> (<ab>ifc.</ab>).  <P><i>°yuddha-</i> <ab>nt.</ab> discussion, controverse ; <i>°yuddha-pradhāna-</i> <lbinfo n='13'/> <ab>a.</ab> versé dans la discussion.  <P><i>°vāda-</i> <ab>m.</ab> fait de se prononcer sur une assertion <lbinfo n='4'/> ; <ab>a.</ab> qui excite la controverse."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वाद",
+            "eid": "34340",
+            "pagenum": 750,
+            "content": "वाद¦ m. (-दः) .²1 Demonstrated conclusion, reply, result. .²2 Discourse, discussion, defined as the speech of one desirous to know the truth. .²3 A plaint, an accusation. .²4 Sound, sounding. .E. वद to speak, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वाद",
+            "eid": "33931",
+            "pagenum": 672,
+            "content": "वाद¦ (दः) 1. <i>m.</i> Demonstrated conclusion; discourse; sound."
+        }
     ]
 }

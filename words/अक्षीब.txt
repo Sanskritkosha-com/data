@@ -41,5 +41,25 @@
             "pagenum": 7,
             "content": "अक्षीब¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्षीब",
+            "eid": "296",
+            "pagenum": 5,
+            "content": "*<i>akṣība</i>¦ 2. lies m. statt n. {part=,seq=306,type=*,n=1}"
+        },
+        {
+            "word": "अक्षीब",
+            "eid": "296.1",
+            "pagenum": 5,
+            "content": "*<i>akṣība</i>¦ n. Meersalz, <ls>S</ls> I, 512, 11 v.u. (Ko.); 607, 6 v.u. (Ko.). {part=,seq=307,type=*,n=2}"
+        },
+        {
+            "word": "अक्षीब",
+            "eid": "27684",
+            "pagenum": 381,
+            "content": "*<i>akṣība</i>¦ n. Meersalz, <ls>Kauṭ.</ls> 40, 13. {part=N,seq=28055,type=*,n=1}"
+        }
     ]
 }

@@ -111,5 +111,45 @@
             "pagenum": 5,
             "content": "आटविक¦ <lex>adj.</lex> <i>zum Walde in Beziehung stehend</i>: सैन्य <i>ein aus Waldbewohnern bestehendes Heer</i> <ls>Spr. 4463.</ls> <lex>m.</lex> <i>Waldbewohner</i> <ls>KĀM. NĪTIS. 13, 29. 14, 22.</ls> <ls>VARĀH. BṚH. S. 16, 13. 36, 3.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "आटविक",
+            "eid": "28097",
+            "pagenum": 387,
+            "content": "<i>āṭavika</i>¦ m. °Waldgraf, Oberwaldhauptmann (<ls>J. J. Meyer</ls>), <ls>Kauṭ.</ls> 16, 11; 20, 14. {part=N,seq=28468,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आटविक",
+            "eid": "5189",
+            "pagenum": 88,
+            "content": "आटविक¦ m. (-कः) A wood-man. E. अटवी a wood, and ठञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आटविक",
+            "eid": "5095",
+            "pagenum": 111,
+            "content": "<b>āṭavika-</b>¦ <ab>a.</ab> consistant en forêt ; en hommes <lbinfo n='3'/> de la forêt ; <ab>m.</ab> habitant des forêts."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आटविक",
+            "eid": "5191",
+            "pagenum": 108,
+            "content": "आटविक¦ m. (-कः) A wood-man. .E. अटवी a wood, and ठञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आटविक",
+            "eid": "4556",
+            "pagenum": 85,
+            "content": "आटविक¦ (कः) 1. <i>m.</i> A woodman."
+        }
     ]
 }

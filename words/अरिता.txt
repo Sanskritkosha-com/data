@@ -21,5 +21,43 @@
             "pagenum": 7,
             "content": "अरिता¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अरिता",
+            "eid": "4770",
+            "pagenum": 65,
+            "content": "<i>aritā</i>¦ f. Feindschaft, <ls>Śiś.</ls> 19, 109. {part=,seq=4832,type=,n=1}"
+        },
+        {
+            "word": "अरिता",
+            "eid": "4770.1",
+            "pagenum": 65,
+            "content": "<i>[aritā]</i>¦ = <i>°arikarma</i> n. = <i>yuddham</i>, <ls>H</ls> 43, 136 (Ko.). {part=,seq=4833,type=,n=0}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अरिता",
+            "eid": "3161",
+            "pagenum": 55,
+            "content": "अरिता¦ f. (-ता) Enmity, hostility. E. अरि and तल् affix, also with त्व, अरित्वं."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अरिता",
+            "eid": "3163",
+            "pagenum": 66,
+            "content": "अरिता¦ f. (-ता) Enmity, hostility. .E. अरि and तल् affix, also with त्व, अरित्वं."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अरिता",
+            "eid": "2626",
+            "pagenum": 52,
+            "content": "अ-रिता¦ (ता) 1. <i>f.</i> Enmity."
+        }
     ]
 }

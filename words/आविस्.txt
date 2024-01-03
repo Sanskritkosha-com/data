@@ -137,5 +137,51 @@
             "pagenum": 7,
             "content": "आविस्¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आविस्",
+            "eid": "7409",
+            "pagenum": 101,
+            "content": "<i>[āvis]</i>¦ , <i>āvirhita</i> zum Vorschein gekommen, <ls>Bhāg. P.</ls> 2, 7, 36. {part=,seq=7513,type=,n=2}"
+        },
+        {
+            "word": "आविस्",
+            "eid": "28168",
+            "pagenum": 388,
+            "content": "<i>āvis</i>¦ Adv. °am Anfang eines Komp. = <i>āvirbhūta</i>; vgl. z.B. pw <i>āvirmūla</i>. <ls>Padyac.</ls> X, 53<sup>c</sup>. {part=N,seq=28539,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आविस्",
+            "eid": "5912",
+            "pagenum": 101,
+            "content": "आविस्¦ ind. Manifest, evident. E. आङ् before उङ् to sound, इर् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आविस्",
+            "eid": "5672",
+            "pagenum": 125,
+            "content": "<b>āvis</b>¦ <ab>adv.</ab> : <i>āvir as-</i> et <i>bhū-</i> être visible, apparaître ; <i>āviṣ kṛ-</i> manifester, montrer.  <P><i>āvir-bhāva-</i> <ab>m.</ab> manifestation, présence.  <P><i>°maṇḍala-</i> <ab>a.</ab> en forme de cercle ; à la courbure <lbinfo n='4'/> visible.  <P><i>°mukhī-</i> <ab>f.</ab> œil droit.  <P><i>°hita-</i> <ab>a. v.</ab> rendu visible.  <P><i>āviṣ-karaṇa-</i> <ab>nt.</ab> manifestation, publication.  <P><i>°kṛta-</i> <ab>a. v.</ab> évident, connu."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आविस्",
+            "eid": "5914",
+            "pagenum": 123,
+            "content": "आविस्¦ <i>ind.</i> Manifest, evident. .E. आङ्, उङ् to sound, इर् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आविस्",
+            "eid": "5295",
+            "pagenum": 99,
+            "content": "आ-विस्¦ <i>ind.</i> Manifestly."
+        }
     ]
 }

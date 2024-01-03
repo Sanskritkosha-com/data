@@ -143,5 +143,35 @@
             "pagenum": 7,
             "content": "उच्¦ mit अभि I. 1. — Mit सम् I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उच्",
+            "eid": "7869",
+            "pagenum": 108,
+            "content": "<i>uc</i>¦ mit <i>abhi, abhyucita</i> entsprechend, passend, <ls>R. Gorr. 1, 75, 12.</ls> — Mit <i>sam, samucita</i> 1. mit Gen. <ls>Megh.</ls> 93. {part=,seq=7980,type=,n=1}"
+        },
+        {
+            "word": "उच्",
+            "eid": "7869.1",
+            "pagenum": 108,
+            "content": "°<i>uc</i>¦ <i>samavāye</i>, <ls>H</ls> 43, 258 [<i>ucita = samaveta]</i>. {part=,seq=7981,type=°,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "उच्",
+            "eid": "5998",
+            "pagenum": 134,
+            "content": "<b>UC-</b>¦ <ab>v.</ab> <i>VAC-.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उच्",
+            "eid": "5965",
+            "pagenum": 112,
+            "content": "उच्¦ (य, रि) उच्यति 4. <i>a.</i> To be conglomerated, or united."
+        }
     ]
 }

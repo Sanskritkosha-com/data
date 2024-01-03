@@ -61,5 +61,29 @@
             "pagenum": 7,
             "content": "सोपद्रव¦ <lex>Adj.</lex> <i>bemittelt, vermögend</i> <ls>BṚHASPATI</ls> in <ls>VIVĀDARATN. 64</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सोपद्रव",
+            "eid": "26981",
+            "pagenum": 370,
+            "content": "<i>sopadrava</i>¦ Adj. bemittelt, vermögend, Bṛhaspati in <ls>Vivādaratn.</ls> 64. {part=,seq=27341,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सोपद्रव",
+            "eid": "45101",
+            "pagenum": 804,
+            "content": "सोपद्रव¦ f. (-वा) Visited with calamities."
+        }
+    ],
+    "STC": [
+        {
+            "word": "सोपद्रव",
+            "eid": "23876",
+            "pagenum": 861,
+            "content": "<b>sopadrava-</b>¦ <ab>a.</ab> comportant des dangers, des maux."
+        }
     ]
 }

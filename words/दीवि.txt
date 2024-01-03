@@ -39,5 +39,37 @@
             "pagenum": 3,
             "content": "दीवि¦ <lex>m.</lex> = किकिदीवि <i>der blaue Holzhäher</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दीवि",
+            "eid": "15433",
+            "pagenum": 212,
+            "content": "*<i>dīvi</i>¦ m. °Wasserschlange, <ls>S</ls> II, 208, 7. {part=,seq=15674,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दीवि",
+            "eid": "19160",
+            "pagenum": 344,
+            "content": "दीवि¦ m. (-विः) The blue jay. E. See दिवि and किकीदिवि, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दीवि",
+            "eid": "19175",
+            "pagenum": 413,
+            "content": "दीवि¦ m. (-विः) The blue jay. .E. see दिवि and किकीदिवि, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दीवि",
+            "eid": "18649",
+            "pagenum": 367,
+            "content": "दीवि¦ (विः) 2. <i>m.</i> The blue jay."
+        }
     ]
 }

@@ -258,5 +258,69 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> भास्¦ mit निस् <i>erscheinen</i> <ls>KIR. 7,36</ls>. — Mit प्रति <ab>Caus.</ab> <i>zeigen, offenbaren</i> <ls><ab>Comm.</ab> zu YOGAS. 1,8</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भास्",
+            "eid": "20583",
+            "pagenum": 284,
+            "content": "2. <i>bhās</i>¦ mit <i>nis</i> erscheinen, <ls>Kir.</ls> 7, 36. — Mit <i>prati</i> <ls>Kaus.</ls> zeigen, offenbaren, Komm. zu <ls>Yogas.</ls> 1, 8. {part=,seq=20865,type=,n=1}"
+        },
+        {
+            "word": "भास्",
+            "eid": "20583.1",
+            "pagenum": 284,
+            "content": "<i>bhās</i>¦ mit <i>ā</i> <ls>Kaus.</ls> °verlachen, <ls>Padyac.</ls> II, 27<sup>d</sup>. {part=,seq=20866,type=,n=2}"
+        },
+        {
+            "word": "भास्",
+            "eid": "20584",
+            "pagenum": 284,
+            "content": "<i>bhās</i>¦ °m. Glanz, <ls>Padyac.</ls> III, 26<sup>b</sup> (<i>'bāhugavedhū rā gaur bhāḥ' iti puṃstrīliṅgādhikāre Hemacandreṇa paṭhitatvāt</i>). {part=,seq=20867,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भास्",
+            "eid": "29415",
+            "pagenum": 531,
+            "content": "भास् (ऋ) भासृ¦ r. 1st cl (भासते) To shine. With प्र and नि prefixed, To appear to, to seem likely or probable to."
+        }
+    ],
+    "STC": [
+        {
+            "word": "भास्",
+            "eid": "16205",
+            "pagenum": 531,
+            "content": "<b>1 BHĀS-</b>¦ <i>bhāsati -te ; babhāse ; bhāsyate bhāsayati -te ;</i> <i>bhāsita-</i> -- briller, luire, resplendir <lbinfo n='7'/> ; <ab>moy.</ab> s'éclairer, devenir évident ou manifeste, être compris ou conçu ; <ab>caus.</ab> faire briller ou resplendir, illuminer."
+        },
+        {
+            "word": "भास्",
+            "eid": "16206",
+            "pagenum": 531,
+            "content": "<b>2 bhās-</b>¦ <ab>f.</ab> lumière, lueur, splendeur, rayon lumineux ; <i>-vant-</i> <ab>a.</ab> brillant, lumineux, resplendissant, <lbinfo n='11'/> radieux ; <ab>m.</ab> soleil, splendeur, lumière.  <P><i>°kara-</i> <ab>a.</ab> qui éclaire, brillant, lumineux ; <ab>m.</ab> soleil ; <ab>nt.</ab> <ab>désign.</ab> d'une brèche de forme particulière faite par un voleur ; <i>°kara-nandin-</i> <ab>m.</ab> fils du dieu Soleil ; <i>°kara-varman-</i> <ab>m.</ab> <ab>n.</ab> d'un prince ; <i>°kari-</i> <ab>m.</ab> <ab>n.</ab> d'un Muni.  <P><i>bhāḥ-satya-</i> <ab>a.</ab> dont la véritable essence est la lumière."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भास्",
+            "eid": "28519",
+            "pagenum": 619,
+            "content": "भास्¦ f. (-भाः) .²1 Light. .²2 A ray of light. .²3 Wish, desire. .E. भास to shine, aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भास्",
+            "eid": "28030",
+            "pagenum": 555,
+            "content": "भास्¦ (ङ, ऋ) भासते 1. <i>a.</i> To shine. With प्र and नि to appear probable."
+        },
+        {
+            "word": "भास्",
+            "eid": "28031",
+            "pagenum": 555,
+            "content": "भास्¦ (भाः) 5. <i>f.</i> Light; desire."
+        }
     ]
 }

@@ -47,5 +47,21 @@
             "pagenum": 7,
             "content": "आक्रन्दिन्¦ I. <i>wehklagend</i> <ls>DHARMAŚARMĀBHY. 4,77</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आक्रन्दिन्",
+            "eid": "6598",
+            "pagenum": 90,
+            "content": "<i>ākrandin</i>¦ wehklagend, <ls>Dharmaśarmābhy.</ls> 4, 77. {part=,seq=6686,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आक्रन्दिन्",
+            "eid": "4950",
+            "pagenum": 108,
+            "content": "<b>ā-krandin-</b>¦ <ab>a.</ab> <ab>ifc.</ab> qui appelle en se lamentant. <lbinfo n='4'/>"
+        }
     ]
 }

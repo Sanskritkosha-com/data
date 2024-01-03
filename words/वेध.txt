@@ -212,5 +212,45 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> वेध¦ auch <i>eine <ab>best.</ab> Krankheit des Pferdes</i> <ls>AŚVAV. 24,6</ls>. <ls n='AŚVAV. 24,'>13</ls>. कीट° <ls n='AŚVAV.'>25,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वेध",
+            "eid": "24438",
+            "pagenum": 337,
+            "content": "2. <i>vedha</i>¦ auch eine best. Krankheit des Pferdes, <ls>Aśvav.</ls> 24, 6. 13. <i>kīṭa°</i> 25, 1. {part=,seq=24774,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वेध",
+            "eid": "38465",
+            "pagenum": 689,
+            "content": "वेध¦ m. (-धः) 1. Perforation, piercing. 2. Wounding. 3. A particular division of time. 4. Depth, (in measurement.) E. व्यध् to pierce, aff. अच्; or विध्-घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वेध",
+            "eid": "19481",
+            "pagenum": 695,
+            "content": "<b>vedha-</b>¦ <ab>m.</ab> fait de percer, d'atteindre (par une flèche) ; <i>-ka-</i> <ab>ag.</ab> = <i>veddhṛ- ; -na-</i> <ab>nt.</ab> = <i>vedha- ; vedhayati</i> <ab>v.</ab> <i>VYADH-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वेध",
+            "eid": "36753",
+            "pagenum": 807,
+            "content": "वेध¦ m. (-धः) .²1 Perforation, piercing. .²2 Depth, (in measurement.) .E. व्यध to pierce, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वेध",
+            "eid": "36371",
+            "pagenum": 725,
+            "content": "वेध¦ (धः) 1. <i>m.</i> Perforation; depth; measure of time next to one <i>truti,</i> 100 <i>trutis.</i>"
+        }
     ]
 }

@@ -23,5 +23,29 @@
             "pagenum": 6,
             "content": "विषमत्रिभुज¦ <lex>m.</lex> <i>ein ungleichseitiges Dreieck</i> <ls>COLEBR. Alg. 295.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "विषमत्रिभुज",
+            "eid": "37731",
+            "pagenum": 676,
+            "content": "विषमत्रिभुज¦ m. (-जः) A scalene triangle. E. विषम unequal, त्रिभुज triangle."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विषमत्रिभुज",
+            "eid": "36046",
+            "pagenum": 791,
+            "content": "विषमत्रिभुज¦ m. (-जः) A scalene triangle. .E. विषम unequal, त्रिभुज triangle."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विषमत्रिभुज",
+            "eid": "35655",
+            "pagenum": 709,
+            "content": "विषम-त्रिभुज¦ (जः) 1. <i>m.</i> A scalene triangle."
+        }
     ]
 }

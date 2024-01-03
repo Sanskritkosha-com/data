@@ -138,5 +138,51 @@
             "pagenum": 7,
             "content": "कङ्कट¦ II. <lex>m.</lex> <ab>N. pr.</ab> eines <is>Dānava</is> <ls>KATHĀS. 47,12</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कङ्कट",
+            "eid": "9462",
+            "pagenum": 130,
+            "content": "<i>kaṅkaṭa</i>¦ m. 1. Panzer auch <ls>Śrīk.</ls> 20, 59. {part=,seq=9587,type=,n=1}"
+        },
+        {
+            "word": "कङ्कट",
+            "eid": "9462.1",
+            "pagenum": 130,
+            "content": "<i>Kaṅkaṭa</i>¦ m. N. pr. eines dānava, <ls>Kathās.</ls> 47, 12. {part=,seq=9588,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कङ्कट",
+            "eid": "8494",
+            "pagenum": 146,
+            "content": "कङ्कट¦ m. (-टः) Mail, defensive armour. E. ककि to go, Unadi affix अटन्, and with कन् added कङ्कटक."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कङ्कट",
+            "eid": "7507",
+            "pagenum": 171,
+            "content": "<b>kaṅkaṭa-</b>¦ <ab>m.</ab> cuirasse ; <ab>n.</ab> d'un Dānava."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कङ्कट",
+            "eid": "8499",
+            "pagenum": 178,
+            "content": "कङ्कट¦ m. (-टः) Mail, defensive armour. .E. ककि to go, Uṇādi affix अटन्, and with कन् added कङ्कटक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कङ्कट",
+            "eid": "7924",
+            "pagenum": 148,
+            "content": "कङ्कट¦ (टः) 1. <i>m.</i> Mail."
+        }
     ]
 }

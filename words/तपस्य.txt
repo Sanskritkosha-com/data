@@ -196,5 +196,45 @@
             "pagenum": 7,
             "content": "तपस्य und तपःसुत¦ III. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तपस्य",
+            "eid": "14312",
+            "pagenum": 197,
+            "content": "<i>tapasya</i>¦ Adj. auch: zur Kasteiung gehörig, <ls>Baudh.</ls> 2, 5, 1. {part=,seq=14540,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तपस्य",
+            "eid": "17023",
+            "pagenum": 304,
+            "content": "तपस्य¦ m. (-स्यः) 1. The month Phalguna, (February-March) 2. A name of ARJUNA. f. (-स्या) 1. Devout austerity, religious penance. n. (-स्यं) The flower of the Kunda, (Jasminum pubescens.) E. तपस् the cold season, यत् aff. तपशि साधु यत् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "तपस्य",
+            "eid": "9868",
+            "pagenum": 277,
+            "content": "<b>tapasya-</b>¦ <ab>nt.</ab> dévotion austère, ascèse (dans <i>-e 'bhavat</i> se décida à l'ascèse)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तपस्य",
+            "eid": "17040",
+            "pagenum": 366,
+            "content": "तपस्य¦ m. (-स्यः) .²1 The month <i>Phālguna,</i> (February-March.) A name of ARJUNA. f. (-स्या) .²1 Devout austerity, religious penance. n. (-स्यं) The flower of the <i>Kunda,</i> (<bot>Jasminum pubescens</bot>.) .E. तपस् the cold season, यत् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तपस्य",
+            "eid": "16511",
+            "pagenum": 323,
+            "content": "तपस्य¦ (स्यः) 1. <i>m.</i> The month <i>Phālgu-</i> <i>na</i> (Feb. March); <i>Arjuna. f.</i> Austerity, penance. <i>n.</i> A jasmin."
+        }
     ]
 }

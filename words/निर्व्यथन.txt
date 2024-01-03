@@ -74,5 +74,37 @@
             "pagenum": 4,
             "content": "निर्व्यथन¦ (निस् + व्य°) <lex>n.</lex> <i>Höhle (Ort der Ruhe</i>) <ls>AK. 1, 2, 1, 2.</ls> <ls>H. 1363.</ls> <ls>HALĀY. 3, 2.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "निर्व्यथन",
+            "eid": "17007",
+            "pagenum": 235,
+            "content": "<i>nirvyathana</i>¦ °heftige Pein, <ls>Viṣṇubh.</ls> VII, 20<sup>c</sup>. {part=,seq=17262,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "निर्व्यथन",
+            "eid": "22119",
+            "pagenum": 399,
+            "content": "निर्व्यथन¦ n. (-नं) 1. A hole, a chasm. 2. Exemption from pain. 3. Paining, afflicting. E. निर् affir. or neg. prefix, and व्यथन fear, dread."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निर्व्यथन",
+            "eid": "22133",
+            "pagenum": 477,
+            "content": "निर्व्यथन¦ n. (-नं) .²1 A hole, a chasm. .²2 Exemption from pain. .²3 Paining, afflicting. .E. निर् affix or neg, prefix, and न्यथन fear, dread."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निर्व्यथन",
+            "eid": "21608",
+            "pagenum": 425,
+            "content": "नि-र्व्यथन¦ (नं) 1. <i>n.</i> A hole, a chasm; pain; freedom from it."
+        }
     ]
 }

@@ -88,5 +88,43 @@
             "pagenum": 6,
             "content": "वारला¦ <lex>f.</lex> <div n='1'> 1) <i>eine Art Bremse</i> <ls>H. an. 3, 674.</ls> <ls>MED. 1. 118.</ls> <div n='1'>— 2) <i>das Weibchen der Gans</i> <ls>H. 1327.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 96.</ls> <div n='v'>— Vgl. वरला, वारटा ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वारला",
+            "eid": "23532",
+            "pagenum": 325,
+            "content": "*<i>vāralā</i>¦ Gans <ls>S</ls> I, 54, 4 (hier = <i>paramātmahaṃsabhāryā)</i>; 70, 4; 243, 4; 345, 2 etc. {part=,seq=23860,type=*,n=1}"
+        },
+        {
+            "word": "वारला",
+            "eid": "23532.1",
+            "pagenum": 325,
+            "content": "*<i>Vāralā</i>¦ °Name der Gattin Haṃsa's, <ls>S</ls> I, 168, 6. {part=,seq=23861,type=*,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वारला",
+            "eid": "36026",
+            "pagenum": 645,
+            "content": "वारला¦ f. (-ला) 1. A wasp. 2. A goose. E. वार a flock, a flight, ला to get, and क and टाप् affs.; also बरला &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वारला",
+            "eid": "34453",
+            "pagenum": 753,
+            "content": "वारला¦ f. (-ला) .²1 A wasp. .²2 A goose. .E. वार a flock, a flight, ला to get, and क and टाप् aff.; also वरला, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वारला",
+            "eid": "34050",
+            "pagenum": 675,
+            "content": "वारला¦ (ला) 1. <i>f.</i> A wasp; a goose."
+        }
     ]
 }

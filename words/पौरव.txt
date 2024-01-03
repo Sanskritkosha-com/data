@@ -193,5 +193,45 @@
             "pagenum": 7,
             "content": "पौरव¦ IV. 3〉a〉 <ls>BHĀRATA, NĀṬYAŚ. 28,32</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पौरव",
+            "eid": "18980",
+            "pagenum": 262,
+            "content": "<i>paurava</i>¦ 3. a) <ls>Bhārata, Nāṭyaś.</ls> 28, 32. {part=,seq=19249,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पौरव",
+            "eid": "25990",
+            "pagenum": 470,
+            "content": "पौरव¦ mfn. (-वः-वी-वं) Of the race of Puru, descended from Puru. E. पुरु, and अण् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पौरव",
+            "eid": "14049",
+            "pagenum": 449,
+            "content": "<b>paurava-</b>¦ <i>-ī-</i> <ab>a.</ab> relatif aux Puru, descendant <lbinfo n='4'/> des P. ; <ab>m.</ab> descendant. des P. ; <ab>pl.</ab> race des P. ; <ab>n.</ab> d'un peuple (dans le Nord ou Nord-Est de l'Inde) ; <i>-ka-</i> <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> d'un peuple."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पौरव",
+            "eid": "25670",
+            "pagenum": 555,
+            "content": "पौरव¦ mfn. (-वः-वी-वं) Of the race of <i>Puru,</i> descended from <i>Puru.</i> .E. पुरु, and अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पौरव",
+            "eid": "25152",
+            "pagenum": 498,
+            "content": "पौरव¦ (वः-वी-वं) <i>a.</i> Of <i>Puru</i> race."
+        }
     ]
 }

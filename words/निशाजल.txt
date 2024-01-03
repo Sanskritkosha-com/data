@@ -31,5 +31,37 @@
             "pagenum": 4,
             "content": "निशाजल¦ (नि° + ज°) <lex>n.</lex> <i>Thau (Wasser der Nacht</i>) <ls>TRIK. 1, 1, 87.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "निशाजल",
+            "eid": "17045",
+            "pagenum": 235,
+            "content": "*<i>niśājala</i>¦ n. Tau, <ls>H</ls> XXIX, 45. {part=,seq=17300,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "निशाजल",
+            "eid": "22197",
+            "pagenum": 401,
+            "content": "निशाजल¦ n. (-लं) 1. Frost, hoar frost. 2. Dew. E. निशा night, and जल water."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निशाजल",
+            "eid": "22211",
+            "pagenum": 479,
+            "content": "निशाजल¦ n. (-लं) .²1 Frost, hoar frost. .²2 Dew. .E. निशा night, and जल water."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निशाजल",
+            "eid": "21681",
+            "pagenum": 427,
+            "content": "निशा-जल¦ (लं) 1. <i>n.</i> Dew, frost."
+        }
     ]
 }

@@ -60,5 +60,37 @@
             "pagenum": 2,
             "content": "गवेधु¦ <lex>f.</lex> = गवेधुका <ls>BHAR.</ls> zu <ls>AK. 2, 9, 25.</ls> <ls>H. 1179.</ls> <ls>SUŚR. 1, 196, 1.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गवेधु",
+            "eid": "28623",
+            "pagenum": 394,
+            "content": "*<i>gavedhu</i>¦ <ls>Kauṭ.</ls> 102, 2 Coix barbata, aber nach <ls>J. J. Meyer</ls>, S. 156, Anm. 1 hier °Sida retusa. (ed. Mysore 1919 hat <i>°gavethu</i>.) {part=N,seq=28994,type=*,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गवेधु",
+            "eid": "13407",
+            "pagenum": 235,
+            "content": "गवेधु¦ f. (-धुः) Coix barbata: see the preceding; also with कन् added गवेधुका."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गवेधु",
+            "eid": "13415",
+            "pagenum": 286,
+            "content": "गवेधु¦ f. (-धुः) <bot>Coix barbata</bot>: see the preceding; also with कन् added गवेधुका."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गवेधु",
+            "eid": "12871",
+            "pagenum": 249,
+            "content": "गवेधु¦ (धुः) 2. <i>f. Idem.</i>"
+        }
     ]
 }

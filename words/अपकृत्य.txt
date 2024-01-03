@@ -59,5 +59,27 @@
             "pagenum": 7,
             "content": "अपकृत्य¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपकृत्य",
+            "eid": "3241",
+            "pagenum": 44,
+            "content": "<i>apakṛtya</i>¦ auch Adj. der es verdient, daß ihm ein Leid zugefügt wird, ebenda. {part=,seq=3285,type=,n=2}"
+        },
+        {
+            "word": "अपकृत्य",
+            "eid": "27844",
+            "pagenum": 383,
+            "content": "<i>apakṛtya</i>¦ °Adj. = <i>apakārya</i>, <ls>Mahāvīr.</ls> IV, 7<sup>a</sup>. {part=N,seq=28215,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपकृत्य",
+            "eid": "2212",
+            "pagenum": 48,
+            "content": "<b>apa-kṛtya-</b>¦ <ab>nt.</ab> tort."
+        }
     ]
 }

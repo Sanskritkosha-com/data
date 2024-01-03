@@ -181,5 +181,45 @@
             "pagenum": 7,
             "content": "वातिक¦ VI. 6. In der <ab>Bed.</ab> 2〉a〉 auch <ls>MBH. 7,160,45</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वातिक",
+            "eid": "23463",
+            "pagenum": 324,
+            "content": "<i>vātika</i>¦ 1. d) gegen den Wind (als humor) dienend, <ls>Caraka</ls> 87, 2. — In der Bed. 2. a) auch <ls>MBh.</ls> 7, 160, 45. {part=,seq=23790,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वातिक",
+            "eid": "35888",
+            "pagenum": 643,
+            "content": "वातिक¦ mfn. (-कः-की-कं) 1. Windy, stormy. 2. Rheumatic. 3. Produced by or proceeding from wind, (disease, &c.) m. (-कः) Fever or inflammation ascribed to a vitiated state of the aerial humour. E. वात wind, &c., ठक् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "वातिक",
+            "eid": "18093",
+            "pagenum": 638,
+            "content": "<b>vātika-</b>¦ <i>-ī-</i> <ab>a.</ab> qui provoque ou guérit les vents (du corps) ; <ab>m.</ab> qui parle en l'air, flagorneur, <lbinfo n='7'/> flatteur."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वातिक",
+            "eid": "34327",
+            "pagenum": 750,
+            "content": "वातिक¦ mfn. (-कः-की-कं) .²1 Windy, stormy. .²2 Rheumatic. .²3 Produced by or proceeding from wind, (disease, &c.) n. (-कं) Fever or inflammation ascribed to a vitiated state of the aerial humour. .E. वात wind, &c., ठक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वातिक",
+            "eid": "33918",
+            "pagenum": 672,
+            "content": "वातिक¦ (कः-की-कं) <i>a.</i> Windy; rheumatic. <i>n.</i> Fever. inflammation."
+        }
     ]
 }

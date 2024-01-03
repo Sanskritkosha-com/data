@@ -107,5 +107,37 @@
             "pagenum": 3,
             "content": "नि/हित¦ <ab>s. u.</ab> <hom>1.</hom> धा mit नि."
         }
+    ],
+    "SHS": [
+        {
+            "word": "निहित",
+            "eid": "22382",
+            "pagenum": 404,
+            "content": "निहित¦ mfn. (-तः-ता-तं) 1. Deposited, delivered, given, entrusted. 2. Applied to, bestowed upon. 3. Laid, (as dust by rain.) E. नि before, धा to have, aff. क्त; हिरादेशः ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "निहित",
+            "eid": "12589",
+            "pagenum": 389,
+            "content": "<b>ni-hita-</b>¦ <ab>a. v.</ab> placé, déposé, fixé ; donné, confié, accordé ; <ab>iic.</ab> qui a déposé, qui a renoncé <lbinfo n='5'/> à, qui a fixé (esprit, regard).  <P><i>°nayana-</i> <ab>a.</ab> qui a les yeux fixés sur (<ab>loc.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निहित",
+            "eid": "22396",
+            "pagenum": 483,
+            "content": "निहित¦ mfn. (-तः-ता-तं) .²1 Deposited, delivered, given, entrusted. .²2 Applied to, bestowed upon. .²3 Laid, (as dust by rain.) .E. नि before घा to have, aff. क्त."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निहित",
+            "eid": "21866",
+            "pagenum": 431,
+            "content": "नि-हित¦ (तः-ता-तं) <i>a.</i> Deposited, delivered; applied to; bestowed on; laid (as dust)."
+        }
     ]
 }

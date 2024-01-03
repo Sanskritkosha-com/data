@@ -220,5 +220,57 @@
             "pagenum": 7,
             "content": "2. सारस¦ (2. स + आरस von 1. रस् mit आ) <lex>adj.</lex> <i>schreiend, rufend</i>; vgl. 2. सारस्य ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सारस",
+            "eid": "26457",
+            "pagenum": 363,
+            "content": "<i>sārasa</i>¦ m. ° = <i>ripu</i>, <ls>H</ls> XLIII, 88 [<i>sāraṃ syantīti sārasā ripavaḥ</i>]; XLVIII, 15. {part=,seq=26813,type=,n=2}"
+        },
+        {
+            "word": "सारस",
+            "eid": "26458",
+            "pagenum": 363,
+            "content": "<i>sārasa</i>¦ [n.] = <i>°saraḥsamūha</i>, <ls>H</ls> V, 2. {part=,seq=26814,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सारस",
+            "eid": "43808",
+            "pagenum": 783,
+            "content": "सारस¦ mfn. (-सः-सी-सं) Relating or belonging to a lake or pond, &c. n. (-सं) 1. A lotus. 2. A woman's zone. mf. (-सः-सी) The Sāras or Indian crane, male and female, (Ardea Sibirica.) m. (-सः) 1. The moon. 2. A bird in general. E. सरस् a pond, a lake, अण् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "सारस",
+            "eid": "22920",
+            "pagenum": 834,
+            "content": "<b>1 sārasa-</b>¦ <i>-ī-</i> <ab>a.</ab> relatif ou appartenant à un étang ; <ab>m.</ab> sorte d'oiseau aquatique, héron (Ardea sibirica) ; fils de Garuḍa ; de Yadu ; <ab>n.</ab> d'un bossu (aussi <i>-ka-</i>) ; <ab>f.</ab> femelle du héron ; <i>-ikā-</i> <ab>f.</ab> <ab>id.</ab>  <P><i>°gṛdhra-</i> <ab>m.</ab> <ab>du.</ab> héron et vautour."
+        },
+        {
+            "word": "सारस",
+            "eid": "22921",
+            "pagenum": 834,
+            "content": "<b>2 sārasa-</b>¦ <ab>a.</ab> qui crie ; 1 <i>-ya-</i> <ab>nt.</ab> cri."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सारस",
+            "eid": "41679",
+            "pagenum": 920,
+            "content": "सारस¦ mfn. (-सः-सी-सं) Relating or belonging to a lake or pond, &c. n. (-सं) .²1 A lotus. .²2 A woman's zone. mf. (-सः-सी) The <i>Sāras</i> or <i>Indian</i> crane, male and female, (<bio>Ardea Sibirica</bio>.) m. (-सः) The moon. .E. सरस् a pond, a lake, अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सारस",
+            "eid": "41427",
+            "pagenum": 841,
+            "content": "सारस¦ (सं) 1. <i>n.</i> A lotus; woman's zone. <i>m. f.</i> (सः-सी) Indian crane. <i>m.</i> Moon. <i>a.</i> Of a lake or pond."
+        }
     ]
 }

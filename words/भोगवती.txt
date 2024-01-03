@@ -147,5 +147,19 @@
             "pagenum": 7,
             "content": "भोगवती¦ IV. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भोगवती",
+            "eid": "20781",
+            "pagenum": 286,
+            "content": "<i>Bhogavatī</i>¦ Name der Stadt °Ahipurī, <ls>S</ls> II, 206, 3. {part=,seq=21067,type=,n=1}"
+        },
+        {
+            "word": "भोगवती",
+            "eid": "20781.1",
+            "pagenum": 286,
+            "content": "<i>Bhogavatī</i>¦ s. <i>Bhogaṃkarā</i>. {part=,seq=21068,type=,n=2}"
+        }
     ]
 }

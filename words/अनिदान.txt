@@ -37,5 +37,45 @@
             "pagenum": 7,
             "content": "अनिदान¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनिदान",
+            "eid": "2464",
+            "pagenum": 34,
+            "content": "<i>anidāna</i>¦ Adj. grundlos, Gīt, 10, 2. {part=,seq=2501,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनिदान",
+            "eid": "1370",
+            "pagenum": 25,
+            "content": "अनिदान¦ mfn. (-नः-ना-नं) Causeless, groundless. E. अ neg. निदान."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनिदान",
+            "eid": "1443",
+            "pagenum": 31,
+            "content": "<b>a-nidāna-</b>¦ <ab>a.</ab> sans fondement."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनिदान",
+            "eid": "1372",
+            "pagenum": 29,
+            "content": "अनिदान¦ mfn. (-नः-ना-नं) Causeless, groundless. .E. अ neg. निदान."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनिदान",
+            "eid": "1162",
+            "pagenum": 24,
+            "content": "अ-निदान¦ (नः-ना-नं) <i>a.</i> Groundless."
+        }
     ]
 }

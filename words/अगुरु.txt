@@ -154,5 +154,53 @@
             "pagenum": 7,
             "content": "अगुरु¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अगुरु",
+            "eid": "387",
+            "pagenum": 6,
+            "content": "<i>aguru</i>¦ 3. m. kein Lehrer, <ls>Āpast.</ls> {part=,seq=400,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अगुरु",
+            "eid": "236",
+            "pagenum": 5,
+            "content": "अगुरु¦ mn. (-रुः-रु) 1. A fragrant wood, aloe wood, or agallochum, (Aquilaria agallocha, Rox.) 2. Another tree which produces Bedellium, (Amyris agallocha.) 3. A timber tree, commonly Sisu, (Dalbergia sisu, Rox.) mfn. (-रुः-रुः-रू or -र्व्वी-रु) Light, not heavy. E. अ priv. and गुरु heavy."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "अगुरु",
+            "eid": "3",
+            "pagenum": 522,
+            "content": "<i>aguru</i>¦ <div n='P'/>(1) <bot>AQUILARIA AGALLOCHA ROXB.</bot> (Ainslie 1, p. 479; Avk; Bpn, p. 194; Dgv, nr. 272; DWH 3, p. 217-224; Dy, p. 674-677; Gul; HB; HK; Kav; MW; PW; Roxb., p. 377; V 1, p. 6; Vśs; Watt CP, p. 72-74; Wise) = <bot>ALOE</bot>7<bot>XYLUM AGALLOCHUM LOUR.</bot> = <bot>ALOE</bot>7<bot>XYLUM VERUM LOUR.</bot>; <div n='P'/>(2) <bot>AMYRIS AGALLOCHA ROXB.</bot> (HK); see: <i>agaru;</i> <div n='P'/>(3) a) <bot>AQUILARIA MALACCENSIS LAM.</bot> [Intern. Code] (Avk; DWH 3, p. 217-224) = <bot>AQUILARIA OVATA CAV.</bot>; <div n='P'/>b) <bot>A. OVATA</bot> (Avk; PW); <div n='P'/>c) [<bot>A. OVATA LINN.</bot>] (Ainslie 1, p. 479); <div n='P'/>(4) <bot>DALBERGIA SISSOO ROXB.</bot> (Avk: = <i>śiṃśapā;</i> IRM 3, p. 7-11; KB 1, p. 818-819; PW: = <i>aguruśiṃśapā = śiṃśapā;</i> Vśs: = <i>kapila-</i> <i>śiṃśapā = śiṃśapā</i>); <div n='P'/>(5) <bot>D. LATIFOLIA ROXB.</bot> (Avk)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अगुरु",
+            "eid": "153",
+            "pagenum": 4,
+            "content": "<b>a-guru-</b>¦ <ab>m.</ab> (qui n'est) pas un maître <ab>a.</ab> léger ; <ab>m.</ab> <ab>nt.</ab> (bois d') aloès, Amyris Agallocha. <lbinfo n='5'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अगुरु",
+            "eid": "237",
+            "pagenum": 6,
+            "content": "अगुरु¦ mn. (-रुः-रु) .²1 A fragrant wood, aloe wood, or agallochum, (<bot>Aquilaria agallocha</bot>, Rox.) .²2 Another tree which produces Bdellium, (<bot>Amyris agallocha</bot>.) .²3 A timber tree, commonly <i>Sisū,</i> (<bot>Dalbergia sisu</bot>, Rox.) mfn. (-रुः-रुः-रू or-र्व्वी-रु) Light, not heavy. .E. अ priv. and गुरु heavy."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अगुरु",
+            "eid": "198",
+            "pagenum": 5,
+            "content": "अगुरु¦ (रुः-रु) 2. <i>m. n.</i> A fragrant wood."
+        }
     ]
 }

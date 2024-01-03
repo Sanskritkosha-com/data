@@ -43,5 +43,27 @@
             "pagenum": 7,
             "content": "अमुद्र¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अमुद्र",
+            "eid": "4465",
+            "pagenum": 61,
+            "content": "<i>amudra</i>¦ auch: keinen Siegelabdruck habend, so v.a. sich nicht legitimieren könnend, <ls>MBh.</ls> 6, 15, 19; <ls>Hariv. 14461.</ls> {part=,seq=4522,type=,n=3}"
+        },
+        {
+            "word": "अमुद्र",
+            "eid": "27908",
+            "pagenum": 384,
+            "content": "<i>amudra</i>¦ °ungestempelt, <ls>Kauṭ.</ls> 110, 4 (hier Subst.); °ohne Paß, ebenda 127, 11; 141, 1. {part=N,seq=28279,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अमुद्र",
+            "eid": "3612",
+            "pagenum": 75,
+            "content": "<b>a-mudra-</b>¦ <ab>a.</ab> sans sceau, non légitimable ; sans pareil."
+        }
     ]
 }

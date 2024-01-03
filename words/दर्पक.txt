@@ -80,5 +80,43 @@
             "pagenum": 5,
             "content": "दर्पक¦ auch = दर्प 1〉 <ls>VĀSAV. 209,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दर्पक",
+            "eid": "15171",
+            "pagenum": 209,
+            "content": "<i>darpaka</i>¦ Adj. °burning, <ls>Vās.</ls> 53, 3; 209, 1. {part=,seq=15408,type=,n=1}"
+        },
+        {
+            "word": "दर्पक",
+            "eid": "15171.1",
+            "pagenum": 209,
+            "content": "<i>darpaka</i>¦ auch = <i>darpa</i> 1., <ls>Vāsav.</ls> 209, 1. {part=,seq=15409,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दर्पक",
+            "eid": "18595",
+            "pagenum": 333,
+            "content": "दर्पक¦ mfn. (-कः-का-कं) What kindles, inflames, or excites, m. (-कः) A name of KAMADEVA. E. दृप् to inflame, affix ण्वुल्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दर्पक",
+            "eid": "18610",
+            "pagenum": 401,
+            "content": "दर्पक¦ mfn. (-कः-का-कं) What kindles, inflames, or excites. m. (-कः) A name of KĀMADEVA. .E. दृप to inflame, affix ण्वुल्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दर्पक",
+            "eid": "18084",
+            "pagenum": 355,
+            "content": "दर्पक¦ (कः) 1. <i>m.</i> Cupid or <i>Kāma.</i>"
+        }
     ]
 }

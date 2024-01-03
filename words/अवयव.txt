@@ -154,5 +154,45 @@
             "pagenum": 2,
             "content": "अवयव <lex>m.</lex>, °क्रोड, °ग्रन्थ <lex>m.</lex>, °टिप्पणी <lex>f.</lex> und °शिरोमणि <lex>m.</lex>¦ Titel von Werken <ls>OPP. Cat. 1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवयव",
+            "eid": "5336",
+            "pagenum": 73,
+            "content": "<i>Avayava</i>¦ m., <i>°kroḍa, °grantha</i> m., <i>°ṭippaṇī</i> f. und <i>°śiromaṇi</i> m. Titel von Werken, <ls>Opp. Cat.</ls> 1. {part=,seq=5410,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवयव",
+            "eid": "3803",
+            "pagenum": 66,
+            "content": "अवयव¦ m. (-वः) 1. A limb, a member. 2. A part, a portion. 3. Division of a logical argument or syllogism. E. अव, यु to join, अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवयव",
+            "eid": "4094",
+            "pagenum": 88,
+            "content": "<b>ava-yava-</b>¦ <ab>m.</ab> membre ; portion ; <i>-śas</i> membre à membre."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवयव",
+            "eid": "3805",
+            "pagenum": 80,
+            "content": "अवयव¦ m. (-वः) .²1 A limb, a member. .²2 A part, a portion. .²3 Division of a logical argument or syllogism. .E. अव, यु to join, अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवयव",
+            "eid": "3229",
+            "pagenum": 62,
+            "content": "अवयव¦ (बः) 1. <i>m.</i> A limb or member; a part or portion; a syllogism."
+        }
     ]
 }

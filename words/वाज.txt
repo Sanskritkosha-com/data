@@ -295,5 +295,59 @@
             "pagenum": 7,
             "content": "वाज/¦ VI. <ab>Vgl.</ab> <ls>PISCHEL, Vedische Studien 45. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वाज",
+            "eid": "23435",
+            "pagenum": 324,
+            "content": "<i>vāja</i>¦ 1. m. k) auch <ls>Yudh.</ls> 7, 38. {part=,seq=23761,type=,n=1}"
+        },
+        {
+            "word": "वाज",
+            "eid": "23435.1",
+            "pagenum": 324,
+            "content": "<i>vājá</i>¦ , vgl. <ls>Pischel, Ved. Studien</ls> I, 45 ff. {part=,seq=23762,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वाज",
+            "eid": "35763",
+            "pagenum": 641,
+            "content": "वाज¦ mn. (-जः-जं) A wing. m. (-जः) The feather of an arrow. 2. Speed. 3. Sound. 4. A Muni. n. (-जं) 1. Ghee or clarified butter. 2. Water. 3. A Mantra or prayer which concludes a sacrifice. 4. Rice offered at a Śrāddha or obsequial ceremony. 5. Rice in general. 6. The acidulous mixture of ground meal and water left to ferment. E. वज् to go, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वाज",
+            "eid": "18076",
+            "pagenum": 637,
+            "content": "<b>vāja-</b>¦ <ab>m.</ab> (butin ; nourriture rituelle, <ab>véd.</ab>) ; empenne d'une flèche.  <P><i>°peya-</i> <ab>m.</ab> <ab>nt.</ab> un des 7 sacrifices de Soma (offert par le roi ou par des Brâhmanes) ; <i>-ka-</i> <ab>a.</ab> relatif ou servant à ce sacrifice.  <P><i>°śravas-</i> <ab>m.</ab> <ab>n.</ab> d'un homme.  <P><i>°sana-</i> <ab>m.</ab> <ab>n.</ab> de Viṣṇu ; de Śiva ; <i>-ī-</i> Viṣṇu,  <P><i>°saneya-</i> <ab>m.</ab> patron de Yājñavalkya ; <i>-ka-</i> <ab>a.</ab> relatif à V. ; <i>-in-</i> <ab>m.</ab> <ab>pl.</ab> son école ; <i>°saneyisaṃhitā-</i> <lbinfo n='8'/> <ab>f.</ab> texte du Yajur-Veda dans la version <lbinfo n='4'/> « Blanche »."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "वाज",
+            "eid": "2856",
+            "pagenum": 2,
+            "content": "<b>Vāja</b>¦ from the meaning of ‘strength,’ ‘speed,’ in its application to horses derives the sense of ‘race’<sup>1</sup> and ‘prize,’<sup>2</sup> or merely ‘prosperity.’<sup>3</sup> That it ever means ‘horse’ is most improbable, that sense being given by <b>Vājin.</b><sup>4</sup> <F>1) Rv. ii. 23, 13; iii. 11, 9; 37, 6; 42, 6; v. 35, 1; 86, 2, etc.</F> <F>2) Rv. i. 64, 13; ii. 26, 3; 31, 7; iii. 2, 3; viii. 103, 5, etc.</F> <F>3) Rv. i. 27, 5; 92, 7; vi. 45, 21. 23, etc.; Av. xiii. 1, 22; Pañcaviṃśa Brāhmaṇa, xviii. 7, 1. 12.</F> <F>4) See Pischel, <i>Vedische Studien,</i> 1, 10 <i>et seq.,</i> where he explains otherwise all the passages cited for the sense by the St. Petersburg Dictionary, <i>s.v.</i> 8.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वाज",
+            "eid": "34209",
+            "pagenum": 748,
+            "content": "वाज¦ mn. (-जः-जं) A wing. m. (-जः) .²1 The feather of an arrow. .²2 Speed. .²3 Sound. .²4 A <i>Muni.</i> n. (-जं) .²1 <i>Ghee</i> or clarified butter. .²2 Water. .²3 A <i>Mantra</i> or prayer which concludes a sacrifice. .²4 Rice offered at a <i>Śrāddha</i> or obsequial ceremony. .²5 Rice in general. .²5 The acidulous mixture of ground meal and water left to ferment. .E. वज to go, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वाज",
+            "eid": "33800",
+            "pagenum": 670,
+            "content": "वाज¦ (जः-जं) 1. <i>m. n.</i> A wing. <i>m.</i> Feather of an arrow; speed; sound; a sage. <i>n. Ghi;</i> water; incantation ending a sacrifice; rice offered at a <i>shrāddha;</i> fermented drink of meal and water."
+        }
     ]
 }

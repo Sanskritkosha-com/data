@@ -31,5 +31,45 @@
             "pagenum": 5,
             "content": "अविनश्वर¦ <lex>Adj.</lex> <i>unvergänglich</i> <ls>Spr. 6727</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविनश्वर",
+            "eid": "5585",
+            "pagenum": 76,
+            "content": "<i>avinaśvara</i>¦ Adj. unvergänglich, <ls>Spr. 6727.</ls> {part=,seq=5661,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अविनश्वर",
+            "eid": "4030",
+            "pagenum": 69,
+            "content": "अविनश्वर¦ mfn. (-रः-री-रं) Indestructible: so अविनाश्य. E. अ neg. विनश्वर destructible."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविनश्वर",
+            "eid": "4309",
+            "pagenum": 93,
+            "content": "<b>a-vinaśvara-</b>¦ <ab>a.</ab> impérissable."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविनश्वर",
+            "eid": "4032",
+            "pagenum": 84,
+            "content": "अविनश्वर¦ mfn. (-रः-री-रं) Indestructible: so अविनाश्य. .E. अ neg. विनश्वर destructible."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविनश्वर",
+            "eid": "3445",
+            "pagenum": 66,
+            "content": "अ-विनश्वर¦ (रः-रा-रं) <i>a.</i> Indestructible."
+        }
     ]
 }

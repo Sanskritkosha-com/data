@@ -305,5 +305,55 @@
             "pagenum": 5,
             "content": "गण¦ <div n='1'> 1) चतुर्गण <i>eine aus 4 Gliedern bestehende Gruppe</i> <ls>Verz. d. Oxf. H. 175,a,14. 16.</ls> <div n='1'>— 2) <i>ein einzelnes Individuum im Gefolge</i> <is>Śiva's</is> <ls>VARĀH. BṚH. S. 104, 51.</ls> <ls>KATHĀS. 52, 245. 256.</ls> <div n='1'>— 7) <ls>Ind. St. 8, 290. 295. 335. 414.</ls> <div n='1'>— 11) <lex>f.</lex> आ N. pr. einer der Mütter im Gefolge <is>Skanda's</is> <ls>MBH. 9, 2645.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "गण",
+            "eid": "13016",
+            "pagenum": 228,
+            "content": "गण¦ r. 10th cl. (गणयति) To count, to reckon up by: number, to calculate."
+        },
+        {
+            "word": "गण",
+            "eid": "13017",
+            "pagenum": 228,
+            "content": "गण¦ m. (-णः) 1. A flock, a multitude, a troop, a tribe or class, &c. 2. A body of troops equal to three Gulmas or twenty-seven chariots and as many elephants, eighty-one horses, and 135 foot. 3. Troops of inferior deities considered as SIVA'S attendants, and under the especial superintendance of GANESHA. 4. A name of GANESHA. 5. A number (in arithmetic.) 6. A kind of perfume, commonly Chor. 7. A sect in philosophy or religion. 8. A conjugation, a class or radicals. 2. Series of asterisms which are classed under three heads human, infernal, and divine. E. गण् to count to reckon, affix अच्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गण",
+            "eid": "8638",
+            "pagenum": 222,
+            "content": "<b>gaṇa-</b>¦ <ab>m.</ab> troupe, multitude ; troupe de divinités inférieures à la suite de Śiva ; détachement <lbinfo n='7'/> d'une armée ; <i>-tva-</i> <ab>nt.</ab> fonction de serviteur de Śiva.  <P><i>°cakra-</i> <ab>nt.</ab> <ab>n.</ab> d'un cercle magique.  <P><i>°dāsa-</i> <ab>m.</ab> <ab>n.</ab> d'un maître de danse.  <P><i>°dvīpa-</i> <ab>m.</ab> groupe d'îles.  <P><i>°nātha-</i> <ab>m.</ab> <ab>ép.</ab> de Śiva, de Gaṇeśa.  <P><i>°nāyaka-</i> <ab>m.</ab> chef d'une troupe à la suite d'un dieu, <ab>not.</ab> de Śiva.  <P><i>°pa- pati-</i> <ab>m.</ab> chef de troupe, d'assemblée ; Gaṇeśa.  <P><i>°pūrva-</i> <ab>m.</ab> chef d'une corporation.  <P><i>°bhartṛ-</i> <ab>m.</ab> Śiva.  <P><i>°rātra-</i> <ab>nt.</ab> série de nuits.  <P><i>gaṇādhipa-</i> <i>gaṇādhīśa-</i> <ab>m.</ab> Gaṇeśa.  <P><i>gaṇādhipati-</i> <ab>m.</ab> Śiva.  <P><i>gaṇānna-</i> <ab>nt.</ab> nourriture offerte en commun (par des gens méprisables).  <P><i>gaṇeśa-</i> <ab>m.</ab> dieu du savoir et du succès, fils de Śiva et de Pārvatī, invoqué au commencement <lbinfo n='4'/> de toute entreprise ; <i>gaṇeśāna-</i> <ab>id.</ab>  <P><i>gaṇeśvara-</i> <ab>m.</ab> chef d'une troupe (<ab>gén.</ab> <ab>ifc.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गण",
+            "eid": "13022",
+            "pagenum": 277,
+            "content": "गण¦ r. 10th cl. (गणयति) To count, to reckon up by number, to calculate."
+        },
+        {
+            "word": "गण",
+            "eid": "13023",
+            "pagenum": 277,
+            "content": "गण¦ m. (-णः) .²1 A flock, a multitude, a troop, a tribe or class, &c. .²2 A body of troops equal to three <i>Gulmas,</i> or twenty-seven chariots and as many elephants, eighty-one horses, and 135 foot. .²3 Troops of inferior deities considered as ŚIVA'S attendants, and under the especial superintendence of GAṆEŚA. .²4 A name of GAṆEŚA. .²5 A number, (in arithmetic.) .²6 A kind of perfume, commonly <i>Cor.</i> .²7 A sect in philosophy or religion. .²8 A conjugation, a class of radicals. .²9 Series of asterisms which are classed under three heads, human, infernal, and divine. .E. गण to count or reckon, affix अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गण",
+            "eid": "12474",
+            "pagenum": 241,
+            "content": "गण¦ (क, त्) गणयति 10 <i>a.</i> To count."
+        },
+        {
+            "word": "गण",
+            "eid": "12475",
+            "pagenum": 241,
+            "content": "गण¦ (णः) 1. <i>m.</i> A flock; a number; a troop; a class; a series."
+        }
     ]
 }

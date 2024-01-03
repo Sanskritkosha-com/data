@@ -294,5 +294,49 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> द्युत्¦ III. <i>Strahl</i> <ls>DHARMAŚARM. 1,16</ls>. <ls n='DHARMAŚARM.'>12,40</ls>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "द्युत्",
+            "eid": "19875",
+            "pagenum": 356,
+            "content": "द्युत्¦ m. (द्युत्) A ray of light. E. द्युत् to shine, affix क्विप्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "द्युत्",
+            "eid": "11002",
+            "pagenum": 329,
+            "content": "<b>1 DYUT-</b>¦ <i>dyotati -te ;</i> (<i>didyute</i>) ; <i>adyutat ; dyotayati</i> (<i>dyotyate</i>) -- briller, resplendir, être lumineux ; <ab>caus.</ab> illuminer, irradier ; élucider, expliquer ; faire apparaître."
+        },
+        {
+            "word": "द्युत्",
+            "eid": "11003",
+            "pagenum": 329,
+            "content": "<b>2 dyut-</b>¦ <ab>f.</ab> clarté, éclat, rayon de lumière."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "द्युत्",
+            "eid": "19889",
+            "pagenum": 428,
+            "content": "द्युत्¦ m. (द्युत्) A ray of light. .E. द्युत to shine, affix क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "द्युत्",
+            "eid": "19368",
+            "pagenum": 381,
+            "content": "द्युत्¦ (ङ) द्योतते 1. <i>d.</i> To shine."
+        },
+        {
+            "word": "द्युत्",
+            "eid": "19369",
+            "pagenum": 381,
+            "content": "द्युत्¦ (त्) 5. <i>m.</i> A ray of light."
+        }
     ]
 }

@@ -37,5 +37,37 @@
             "pagenum": 7,
             "content": "दादद¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दादद",
+            "eid": "15269",
+            "pagenum": 210,
+            "content": "<i>dādada</i>¦ (<i>dāda + da</i>) <ls>Śiś.</ls> 19, 114. {part=,seq=15507,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दादद",
+            "eid": "18775",
+            "pagenum": 337,
+            "content": "दादद¦ m. (-दः) A donor, one who gives. E. दाद, and द who gives."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दादद",
+            "eid": "18790",
+            "pagenum": 404,
+            "content": "दादद¦ m. (-दः) A donor, one who gives. .E. दाद, and द who gives."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दादद",
+            "eid": "18262",
+            "pagenum": 359,
+            "content": "दादद¦ (दः) 1. <i>m.</i> A donor."
+        }
     ]
 }

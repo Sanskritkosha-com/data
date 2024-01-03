@@ -183,5 +183,35 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> गल्¦ mit विनिस् 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गल्",
+            "eid": "12204",
+            "pagenum": 168,
+            "content": "1. <i>gal</i>¦ mit <i>ud</i> °Kaus. <ls>S</ls> I, 115, 11 (Ko.) <i>udgālita</i>, ausgespien. — Mit <i>vinis</i> hervorbrechen, <ls>Pr. P.</ls> 108. — Mit <i>°sam</i> to drip, <ls>Vās.</ls> 253, 1 (<i>saṃgalant</i>). {part=,seq=12391,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "गल्",
+            "eid": "8714",
+            "pagenum": 226,
+            "content": "<b>1 GAL-</b>¦ <i>galati ; galayati ; galita-</i> -- s'égoutter, <lbinfo n='3'/> distiller ; tomber ; disparaître ; <ab>caus.</ab> égoutter, filtrer."
+        },
+        {
+            "word": "गल्",
+            "eid": "8715",
+            "pagenum": 226,
+            "content": "<b>2 GAL-</b>¦ <i>galati ; galita-</i> -- avaler ; <ab>v.</ab> <i>niGAL-.</i> <lbinfo n='5'/>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गल्",
+            "eid": "12823",
+            "pagenum": 249,
+            "content": "गल्¦ गलति 1. <i>a.</i> (क, ङ) 10. <i>d.</i> गलयते To eat; to ooze or drop; with अव to fall; with वि to go, to bear."
+        }
     ]
 }

@@ -348,5 +348,65 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> भोग¦ IV. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भोग",
+            "eid": "20775",
+            "pagenum": 286,
+            "content": "2. <i>bhoga</i>¦ 1. i) deren acht, <ls>Ind. Antiq.</ls> 4, 276, a [57]; vgl. 278, b, N. 1. <i>°bhogakṣamā = ratakṣamā</i> (s. d.), <ls>Śṛṅgt.</ls> 32, 12. {part=,seq=21060,type=,n=1}"
+        },
+        {
+            "word": "भोग",
+            "eid": "20775.1",
+            "pagenum": 286,
+            "content": "<i>bhoga</i>¦ m. ° = <i>vistāra</i> in <i>anaṅgabhoga</i>, <ls>S</ls> I, 91, 3. {part=,seq=21061,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भोग",
+            "eid": "29831",
+            "pagenum": 538,
+            "content": "भोग¦ m. (-गः) 1. Pleasure, enjoyment. 2. Wealth. 3. Nourishing, cherishing. 4. Eating. 5. A snake's body. 6. A snake's expanded hood. 7. Hire. 8. The hire of dancing girls or courtezans. 9. A snake. 10. An army in column. 11. (In arithmetic,) The numerator of a fraction. 12. Food. 13. A repost. 14. Food offered to an idol. 15. Gain. 16. Rule, government. 17. Experiencing. 18. Advantage. 19. The use of a deposit. E. भुज् to eat, &c. aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भोग",
+            "eid": "16334",
+            "pagenum": 540,
+            "content": "<b>1 bhoga-</b>¦ <ab>m.</ab> courbe, repli, anneau ou chaperon <lbinfo n='5'/> dressé du serpent ; 1 <i>-vant-</i> <ab>a.</ab> pourvu de courbes ou d'anneaux ; 1 <i>-vatī-</i> <ab>f.</ab> Nāgī ; capitale souterraine des Nāga ; <ab>n.</ab> d'une rivière sacrée dans la région souterraine, Gange souterrain."
+        },
+        {
+            "word": "भोग",
+            "eid": "16335",
+            "pagenum": 540,
+            "content": "<b>2 bhoga-</b>¦ <ab>m.</ab> jouissance, fait de manger, commerce sexuel ; utilisation, emploi, utilité, avantage ; perception, fait d'éprouver <ab>not.</ab> la douleur ou la joie ; objet dont on jouit ; possession, <lbinfo n='7'/> revenu, richesse ; 2 <i>-vant-</i> <ab>a.</ab> qui jouit, heureux ; qui donne la jouissance ; délicieux ; 2 <i>-vatī-</i> <ab>f.</ab> <ab>n.</ab> d'Ujjayinī ; d'un Tīrtha.  <P><i>°kara-</i> <i>-ī-</i> <ab>ag.</ab> qui procure la jouissance.  <P><i>°tṛṣṇā-</i> <ab>f.</ab> désir des jouissances ; jouissance égoïste.  <P><i>°dattā-</i> <ab>f.</ab> <ab>n.</ab> d'une femme.  <P><i>°pati-</i> <ab>m.</ab> gouverneur d'une province ou d'un district.  <P><i>°bhuj-</i> <ab>ag.</ab> qui jouit.  <P><i>°varman-</i> <ab>m.</ab> <ab>n.</ab> de divers hommes.  <P><i>bhogaiśvarya-</i> <ab>nt.</ab> empire des jouissances ; <i>°gati-</i> <ab>f.</ab> ce qui mène à l'empire des j. ; <i>°prasakta-</i> <lbinfo n='6'/> <ab>a. v.</ab> attaché à l'empire des jouissances."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "भोग",
+            "eid": "2300",
+            "pagenum": 2,
+            "content": "<b>Bhoga</b>¦ in the Rigveda<sup>1</sup> and later<sup>2</sup> denotes the ‘coil’ of a serpent. <F>1) v. 29, 6; vi. 75, 14 (where the <b>Hastaghna,</b> or ‘hand-guard,’ of the archer is compared to a snake).</F> <F>2) Av. xi. 9, 5; Taittirīya Saṃhitā, ii. 1, 4, 5. 6; v. 4, 5, 4; Kāṭhaka Saṃhitā, xiii. 4; xxi. 8, etc.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भोग",
+            "eid": "28910",
+            "pagenum": 628,
+            "content": "भोग¦ m. (-गः) .²1 Pleasure, enjoyment. .²2 Wealth. .²3 Nourishing, cherishing. .²4 Eating. .²5 A snake's body. .²6 A snake's expanded hood. .²7 Hire. .²8 The hire of dancing girls or courtezans. .²9 A snake. .²10 An army in column. .²11 (In arithmetic,) The numerator of a fraction. .E. भुज to eat, &c., aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भोग",
+            "eid": "28423",
+            "pagenum": 563,
+            "content": "भोग¦ (गः) 1. <i>m.</i> Pleasure, enjoyment; eating; hire; wealth."
+        }
     ]
 }

@@ -117,5 +117,45 @@
             "pagenum": 7,
             "content": "प्रेक्षण¦ IV. Z. 2, lies <i>Zuschauen</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रेक्षण",
+            "eid": "19847",
+            "pagenum": 273,
+            "content": "<i>prekṣaṇa</i>¦ Z. 2 lies Zuschauen. {part=,seq=20122,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रेक्षण",
+            "eid": "28039",
+            "pagenum": 506,
+            "content": "प्रेक्षण¦ n. (-णं) 1. The eye. 2. Any public show or spectacle, a sight. 2. A place where public exhibitions are held. nf. (-णं-णा) Seeing, viewing, looking at, regarding. E. प्र before, ईक्ष् to see, aff. ल्युट् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रेक्षण",
+            "eid": "15688",
+            "pagenum": 499,
+            "content": "<b>prekṣaṇa-</b>¦ <ab>nt.</ab> fait de regarder, d'assister à ; spectacle ; regard ; <i>-īya-</i> <ab>a. v.</ab> visible, visible <lbinfo n='3'/> pour (<ab>instr.</ab>) ; <ab>ifc.</ab> qui a l'aspect de ; digne d'être vu par, splendide ; <ab>nt.</ab> spectacle ; (<i>-īyaka-</i> <ab>id.</ab> ; <i>-īyatara-</i> <ab>compar.</ab> <i>īyatama-</i> <ab>sup.</ab> plus beau, très beau) ; <i>-ika-</i> <ab>m.</ab> acteur (?)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रेक्षण",
+            "eid": "27237",
+            "pagenum": 591,
+            "content": "प्रेक्षण¦ n. (-णं) .²1 The eye. .²2 Any public show or spectacle, a sight. .²3 A place where public exhibitions are held. nf. (-णं-णा) Seeing, viewing, looking at, regarding. .E. प्र before ईक्ष to see, aff. ल्युट् or युच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रेक्षण",
+            "eid": "26737",
+            "pagenum": 529,
+            "content": "प्रे_क्षण¦ (णं) 1. <i>n.</i> The eye; a shew. (णा-णं) <i>f. n.</i> Seeing, viewing."
+        }
     ]
 }

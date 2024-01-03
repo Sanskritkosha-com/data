@@ -245,5 +245,33 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> ऊह्¦ mit व्यप I. 5. — Mit विनिस् 5. — Mit अभिपरि 4. — Mit प्र I. 5. — Mit अनुप्र 2. — Mit निर्वि I. 3. 5. — Mit प्रतिवि I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ऊह्",
+            "eid": "8980",
+            "pagenum": 123,
+            "content": "1. <i>ūh</i>¦ mit <i>vyapa</i> 2. <i>vyapoḍha</i> offenbart, an den Tag gelegt, <ls>MBh.</ls> 8, 34, 152. — Mit <i>vinis, vinirūḍha</i> unverschoben, in regulärer Reihenfolge, <ls>Āpast. Śr.</ls> 4, 14, 9. — Mit <i>abhípári</i> hinschaffen zu (Akk.), <ls>TS.</ls> 5, 2, 10, 2. — Mit <i>pra</i> 4. ausnehmen, excludere, <ls>Vop.</ls> 6, 53, Anf. — Mit <i>anupra</i>, einschieben, <ls>Āpast. Śr.</ls> 1, 21, 7; 14, 19. — Mit <i>nirvi</i> 3. <i>nirvyūḍha</i> zu Ende geführt, <ls>Hem. Par.</ls> 8, 133. 4. b) <ls>Priy.</ls> 6, 6. — Mit <i>prativi</i> 4. auseinander schieben, G. Gorr. 2, 12, 26. {part=,seq=9099,type=,n=14}"
+        },
+        {
+            "word": "ऊह्",
+            "eid": "28314",
+            "pagenum": 389,
+            "content": "<i>[ūh</i>¦ mit <i>ud</i>,] <i>udūḍha</i> °emporragend hoch, <ls>Kir.</ls> XIV, 31. {part=N,seq=28685,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "ऊह्",
+            "eid": "7298",
+            "pagenum": 163,
+            "content": "<b>1 ŪH-</b>¦ (<ab>var.</ab> de <i>VAH-</i>) <i>ūhati -te ; ū̆hyate ūhayati ; ūḍha-</i> <i>ūhita- ūhitum oḍhum °ū̆hya</i> -- pousser ; usité après <ab>prév.</ab>"
+        },
+        {
+            "word": "ऊह्",
+            "eid": "7299",
+            "pagenum": 163,
+            "content": "<b>2 ŪH-</b>¦ <i>ūhati -te ; ūhayati ; ūhitum ; °ūhya</i> -- comprendre ; présumer, deviner ; réfléchir <lbinfo n='4'/> ; <ab>caus.</ab> considérer."
+        }
     ]
 }

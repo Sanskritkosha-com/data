@@ -453,5 +453,123 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> आ/¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आ",
+            "eid": "6521",
+            "pagenum": 89,
+            "content": "1. <i>ā</i>¦ 3. auch in der Bedeutung von 2. c)a). {part=,seq=6608,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आ",
+            "eid": "4911",
+            "pagenum": 84,
+            "content": "आ¦ The second letter of the alphabet, corresponding to A long, as in far, and written in the Roman character Ā."
+        },
+        {
+            "word": "आ",
+            "eid": "4912",
+            "pagenum": 84,
+            "content": "आ¦ ind. 1. A particle of reminiscence, (ah! oh!) 2. A conjunction disjunctive, (but) 3. A particle of compassion, (ah! alas!) 4. A conjunction copulative, (and.) This particle remains unaltered in orthography even before vowels."
+        },
+        {
+            "word": "आ",
+            "eid": "4913",
+            "pagenum": 84,
+            "content": "आ¦ or आङ् A particle, and prefix to words, implying; 1. Diminution, (a little.) 2. Limit inceptive, (from, from thence, or that time.) 3. Limit conclusive, (until, unto, as far as.) 4. Prefixed to verbs it extends or reverses their meaning, as रुह to rise, आरुह to ascend, to mount, and गम to go, आगम to come. 5. In composition with nouns it forms indeclinables, either crude, as आजानु to the knee, or with the terminations of the objective or ablative case, as आसमुद्रं or आसमुद्रात् as far as to the ocean. 6. A particle of menace or of pain, (ah! alas!) this is more correctly written आस् E. आप् to pervade, to obtain, and डाङ् affix, प is dropped."
+        },
+        {
+            "word": "आ",
+            "eid": "4914",
+            "pagenum": 84,
+            "content": "आ¦ m. (आः) A name of MAHĀDEVA."
+        },
+        {
+            "word": "आ",
+            "eid": "4915",
+            "pagenum": 84,
+            "content": "आ¦ ind. A particle of assent, yes, verily. E. अम to go, क्विप् affix, अ becomes आ"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आ",
+            "eid": "4889",
+            "pagenum": 107,
+            "content": "<b>1 ā</b>¦ <ab>prép.</ab> (<ab>abl.</ab> ou <ab>iic.</ab>) vers, dans un délai de, jusqu'à (temp. et local) ; à partir de, depuis ; <ab>préf.</ab> marquant devant les noms l'extension ou une faible quantité ; devant les verbes, la direction vers ou le retour au sujet."
+        },
+        {
+            "word": "आ",
+            "eid": "4890",
+            "pagenum": 107,
+            "content": "<b>2 ā-</b>¦ thème <ab>pron.</ab> fém. <ab>v.</ab> <i>idam-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आ",
+            "eid": "4913",
+            "pagenum": 102,
+            "content": "आ¦ The second letter of the alphabet, corresponding to <i>A</i> long, as in <i>far,</i> and written in the Roman character A."
+        },
+        {
+            "word": "आ",
+            "eid": "4914",
+            "pagenum": 102,
+            "content": "आ¦ <i>ind.</i> .²1 A particle of reminiscence. (ah! oh!) .²2 A conjunction disjunctive, (but.) .²3 A particle of compassion, (ah! alas!) .²4 A conjunction copulative, (and.) This particle remains unaltered in orthography even before vowels."
+        },
+        {
+            "word": "आ",
+            "eid": "4915",
+            "pagenum": 102,
+            "content": "आ¦ or आङ् A particle, and prefix to words, implying; .²1 Diminution, (a little.) .²2 Limit, inceptive, (from, from thence, or that time.) .²3 Limit conclusive, (until, unto, as far as.) .²4 Prefixed to verbs it extends or reverses their meaning, as रुह to rise, आरुह to ascend, to mount, and गम to go, आगम to come. .²5 In composition with nouns it forms indeclinables, either crude, as आजानु to the knee, or with the terminations of the objective or ablative case, as आसमुद्रं or आसमद्रात् as far as to the ocean. .²6 A particle of menace or of pain, (ah! alas!) this is more correctly written आस्. .E. आप् to pervade, to obtain, and डाङ affix, प is dropped."
+        },
+        {
+            "word": "आ",
+            "eid": "4916",
+            "pagenum": 102,
+            "content": "आ¦ m. (-आः) A name of MAHĀDEVA."
+        },
+        {
+            "word": "आ",
+            "eid": "4917",
+            "pagenum": 102,
+            "content": "आ¦ <i>ind.</i> A particle of assent, yes, verily. .E. अस to go, क्विप् affix, अ becomes आ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आ",
+            "eid": "4281",
+            "pagenum": 80,
+            "content": "आ¦ The second vowel or ā long called ākār."
+        },
+        {
+            "word": "आ",
+            "eid": "4282",
+            "pagenum": 80,
+            "content": "आ¦ <i>interj.</i> Oh, ah."
+        },
+        {
+            "word": "आ",
+            "eid": "4283",
+            "pagenum": 80,
+            "content": "आ¦ <i>prep.</i> Up to, even to."
+        },
+        {
+            "word": "आ",
+            "eid": "4284",
+            "pagenum": 80,
+            "content": "आ¦ (आः) 1. <i>m.</i> Shiva."
+        },
+        {
+            "word": "आ",
+            "eid": "4285",
+            "pagenum": 80,
+            "content": "आं¦ --Yes."
+        }
     ]
 }

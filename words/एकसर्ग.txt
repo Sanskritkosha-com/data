@@ -74,5 +74,37 @@
             "pagenum": 7,
             "content": "एकसर्ग¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकसर्ग",
+            "eid": "9175",
+            "pagenum": 126,
+            "content": "<i>ekasarga</i>¦ <ls>Śiś.</ls> 19, 38. {part=,seq=9296,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "एकसर्ग",
+            "eid": "8167",
+            "pagenum": 141,
+            "content": "एकसर्ग¦ mfn. (-र्गः-र्गा-र्गं) Closely attentive, having the mind intent upon one object. E. एक one, and सृज् to create, घञ् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकसर्ग",
+            "eid": "8171",
+            "pagenum": 171,
+            "content": "एकसर्ग¦ mfn. (-र्गः-र्गा-र्गं) Closely attentive, having the mind intent upon one object. .E. एक one, and सृज to create, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकसर्ग",
+            "eid": "7591",
+            "pagenum": 142,
+            "content": "एक-सर्ग¦ (र्गः-र्गा-र्गं) <i>a.</i> Closely attentive, fixed on one object."
+        }
     ]
 }

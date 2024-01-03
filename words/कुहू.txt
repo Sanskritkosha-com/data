@@ -194,5 +194,53 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> कुहू/¦ II. 1〉 <ls>MAITR. S. 4,3,5 (44,9)</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुहू",
+            "eid": "11048",
+            "pagenum": 152,
+            "content": "1. <i>kuhū́</i>¦ 1., <ls>Maitr. S.</ls> 4, 3, 5 (44, 9). {part=,seq=11214,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुहू",
+            "eid": "11147",
+            "pagenum": 195,
+            "content": "कुहू¦ f. (-हूः) 1. New moon; the first day of the first quarter on which the moon rises invisible. 2. The cry of the Kokila or Indian cuckoo. E. कूह् to astonish, ऊ affix, or with कु affix कुहु."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुहू",
+            "eid": "8186",
+            "pagenum": 202,
+            "content": "<b>kuhū-</b>¦ <ab>f.</ab> nouvelle lune ; <ab>n.</ab> d'une rivière."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कुहू",
+            "eid": "676",
+            "pagenum": 1,
+            "content": "<b>Kuhū.</b>¦ See <b>Māsa.</b>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुहू",
+            "eid": "11153",
+            "pagenum": 238,
+            "content": "कुहू¦ f. (-हूः) .²1 New moon; the first day of the first quarter on which the moon rises invisible. .²2 The cry of the <i>Koïl</i> or Indian cuckoo. .E. कुह to astonish, ऊः affix, or with कु affix कुहु."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुहू",
+            "eid": "10599",
+            "pagenum": 202,
+            "content": "कुहू¦ (हूः) 3. <i>f.</i> The day of new moon; cry of the cuckoo."
+        }
     ]
 }

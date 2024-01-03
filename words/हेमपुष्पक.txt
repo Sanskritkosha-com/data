@@ -56,5 +56,37 @@
             "pagenum": 7,
             "content": "हेमपुष्पक¦ <div n='1'> 1) <lex>m.</lex> <i>Michelia Champaka Lin.</i> <ls>AK. 2, 4, 2, 44.</ls> <ls>H. 1146.</ls> <ls>an. 5, 8.</ls> <ls>MED. k. 233.</ls> <i>Symplocos racemosa</i> <ls>RĀJAN. 6, 212.</ls> <div n='1'>— 2) <lex>f.</lex> °पुष्पिका <i>gelber Jasmin</i> <ls>AK. 2, 4, 2, 52.</ls> <ls>H. 1148.</ls> <ls>H. an.</ls> <ls>MED.</ls> <i>Linum usitatissimum</i> <ls>RĀJAN. 16, 74.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "हेमपुष्पक",
+            "eid": "27636",
+            "pagenum": 378,
+            "content": "*<i>hemapuṣpaka</i>¦ m. Michelia champaka, <ls>S</ls> I, 106, 8 (Ko.); 528, 1 v.u. (Ko.) {part=,seq=28007,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "हेमपुष्पक",
+            "eid": "47162",
+            "pagenum": 837,
+            "content": "हेमपुष्पक¦ m. (-कः) The Champaka. f. (-का) Yellow jasmine."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हेमपुष्पक",
+            "eid": "44453",
+            "pagenum": 979,
+            "content": "हेमपुष्पक¦ m. (-कः) The <i>Champaka.</i> f. (-ष्पिका) Yellow jasmine. .E. कन् added to the last."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हेमपुष्पक",
+            "eid": "44290",
+            "pagenum": 905,
+            "content": "हेमपुष्पक¦ (कः) 1. <i>m.</i> The <i>Champaca.</i> <i>f.</i> ष्पिका Yellow jasmine."
+        }
     ]
 }

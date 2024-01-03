@@ -89,5 +89,47 @@
             "pagenum": 3,
             "content": "ड¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Laut</i> <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls> <div n='2'>— b) <i>eine Art Trommel</i> <ls>WILS.</ls> <div n='2'>— c) <i>Furcht</i> <ls>EKĀKṢARAK.</ls> <div n='2'>— d) <i>unterseeisches Feuer</i> <ls>MED. d. 1.</ls> <div n='2'>— e) Bein. <is>Śiva's</is> <ls>EKĀKṢARAK.</ls> <div n='1'>— 2) <lex>f.</lex> डा <div n='2'> a) <i>eine</i> <is>Ḍākinī</is> <ls>MED.</ls> <div n='2'>— b) <i>a basket, etc. carried by a sling</i> <ls>EKĀKṢARAK.</ls> bei <ls>WILS.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ड",
+            "eid": "16732",
+            "pagenum": 298,
+            "content": "ड¦ The third letter of the cerebral class of consonants, having the sound of D, pronounced far back in the “head”: it is often confounded in pronounciation with a hard R, or L, sounded as in the Northumbrian bur; it is written in the Roman character D."
+        },
+        {
+            "word": "ड",
+            "eid": "16733",
+            "pagenum": 298,
+            "content": "ड¦ m. (-डः) 1. A name of SIVA. 2. Fear. 3. Sound. 4. Submarine fire. 5. A kind of drum or tabor. 6. A kind of bird. f. (-डा) 1. A kind of female imp or goblin. 2. A basket, &c. carried by a sling: see डलक. E. डप to collect, affix, ड."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ड",
+            "eid": "16756",
+            "pagenum": 359,
+            "content": "ड¦ The third letter of the cerebral class of consonants, having the sound of <i>D,</i> pronounced far back in the head: it is often confounded in pronounciation with a hard <i>R,</i> or <i>L,</i> sounded as in the Northumbrian bur; it is written in the <i>Roman</i> character <i>D.</i>"
+        },
+        {
+            "word": "ड",
+            "eid": "16757",
+            "pagenum": 359,
+            "content": "ड¦ m. (डः) .²1 A name of ŚIVA. .²2 Fear. .²3 Sound. .²4 Submarine fire. .²5 A kind of drum or tabor. f. (डा) .²1 A kind of female imp or goblin. .²2 A basket, &c. carried by a sling: see डलक. .E. डप to collect, affix ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ड",
+            "eid": "16222",
+            "pagenum": 317,
+            "content": "ड¦ <i>ḍ</i> The third letter of the 3d class."
+        },
+        {
+            "word": "ड",
+            "eid": "16223",
+            "pagenum": 317,
+            "content": "ड¦ (डः-डा) 1. <i>m. Shiva;</i> fear; submarine fire; kind of drum or tabor. <i>f.</i> An imp; a basket carried by a sling."
+        }
     ]
 }

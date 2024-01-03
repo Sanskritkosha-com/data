@@ -25,5 +25,29 @@
             "pagenum": 1153,
             "content": "¦ identified, <ls>MW.</ls><info lex='inh'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "समीभूत",
+            "eid": "42772",
+            "pagenum": 765,
+            "content": "समीभूत¦ mfn. (-तः-ता-तं) 1. Equalised. 2. Identified. 3. Equipoised. E. सम same, भूत become, च्वि aug."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "समीभूत",
+            "eid": "40731",
+            "pagenum": 899,
+            "content": "समीभूत¦ mfn. (-तः-ता-तं) .²1 Equalised. .²2 Identified. .²3 Equipoised. .E. सम same, भूत become, च्चि aug."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "समीभूत",
+            "eid": "40449",
+            "pagenum": 819,
+            "content": "समी_भूत¦ (तः-ता-तं) <i>a.</i> Equalized; identified."
+        }
     ]
 }

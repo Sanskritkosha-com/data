@@ -216,5 +216,45 @@
             "pagenum": 5,
             "content": "नेम¦ <div n='1'> 3) <lex>m.</lex> N. pr. eines <is>Ṛṣi</is> mit dem patron. <is>Bhārgava</is>, Verfassers von <ls>ṚV. 8, 89.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "नेम",
+            "eid": "17329",
+            "pagenum": 239,
+            "content": "<i>nema</i>¦ m. °Mondsichel, <ls>S</ls> I, 160, 13 v.u. (Ko.). {part=,seq=17585,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "नेम",
+            "eid": "22581",
+            "pagenum": 408,
+            "content": "नेम¦ m. (-मः) 1. Time, period, season. 2. Term, boundary, limit. 3. Part, portion. 4. A fence, a boundary wall or hedge. 5. A hole, a chasm. 6. Fraud, deceit. 7. Acting, dancing. 8. Other, different. 9. Evening. 10. Up, above. 11. A root. 12. The foundation of a wall. E. णी to gain, Unādi aff. मन्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "नेम",
+            "eid": "12658",
+            "pagenum": 392,
+            "content": "<b>nema-</b>¦ <ab>a.</ab> (flex. <ab>pron.</ab>) demi."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नेम",
+            "eid": "22596",
+            "pagenum": 487,
+            "content": "नेम¦ m. (-मः) .²1 Time, period, season. .²2 Term, boundary, limit. .²3 Part, portion. .²4 A fence, a boundary wall or hedge. .²5 A hole, a chasm. .²6 Fraud, deceit. .²7 Acting, dancing. .²8 Other, different. .²9 Evening. .²10 Up, above. .²11 A root. .E. णी to gain, Uṇādi aff. मन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नेम",
+            "eid": "22064",
+            "pagenum": 434,
+            "content": "नेम¦ (मः) 1. <i>m.</i> Time; term; part; boundary; hole; fraud; acting; evening; root. <i>a.</i> Other."
+        }
     ]
 }

@@ -174,5 +174,59 @@
             "pagenum": 5,
             "content": "मधुक¦ <div n='1'> 2) °लोचन von <is>Śiva</is> auch <ls>R. 7, 23, 4, 44.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मधुक",
+            "eid": "21061",
+            "pagenum": 291,
+            "content": "<i>madhuka</i>¦ m. *Bassia latifolia, <ls>S</ls> I, 106, 4. — *eine Art Barde, <ls>S</ls> I, 328, 1. {part=,seq=21353,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मधुक",
+            "eid": "30304",
+            "pagenum": 546,
+            "content": "मधुक¦ mfn. (-कः-का-कं) 1. Sweet, (in taste.) 2. Sweet-speaking or sounding, mellifluous, melodious. m. (-कः) 1. A bard, a panegyrist, one who recites the lineage and praises of sovereigns in their presence. 2. A kind of bird. 3. A tree, (Bassia latifolia.) mn. (-कः-कं) Liquorice, &c. n. (-कं) Tin. f. (-का) 1. A plant, (Menispermum glabrum.) 2. The sweet lime. 3. A kind of panic seed. E. मधु sweet, कै to sound, aff. ड; or मधु honey, कन् aff. of comparison, &c."
+        },
+        {
+            "word": "मधुक",
+            "eid": "30405",
+            "pagenum": 548,
+            "content": "मधुक¦ m. (-कः) 1. A tree, (Bassia latifolia.) 2. A bee. n. (-कं) A flower of the Madhūka tree. E. मन् to respect, ऊक aff., and ध substituted for the final."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "मधुक",
+            "eid": "192",
+            "pagenum": 587,
+            "content": "<i>madhuka</i>¦ <div n='P'/>(1) a) <bot>GLYCYRRHIZA GLABRA LINN.</bot> = <bot>G. GLANDULIFERA WALDST. ET KIT.</bot> (Nadk. 1, nr. 1136); b) [<bot>G. GLABRA LINN. VAR. GLANDULIFERA</bot>] (KB 1, p. 727-729); <div n='P'/>(2) <bot>CYNOMETRA RAMIFLORA LINN.</bot> = <bot>C. MIMOSOIDES WALL.</bot> (KB 2, p. 880-881; V 8, p. 37) [= <bot>C. RAMIFLORA LINN. VAR. MIMOSIOIDES BAKER</bot>] (KB 2, p. 880-881); see Hooker 2, p. 267: <bot>C. R. LINN. VAR. MIMOSOIDES WALL.</bot>; <div n='P'/>(3) <bot>MADHUCA LATIFOLIA MACBRIDE</bot> = <bot>BASSIA LATIFOLIA ROXB.</bot> (MW; PW; Vśs); <div n='P'/>(4) <bot>SARACA INDICA LINN.</bot> = <bot>JONESIA ASOCA ROXB.</bot> (MW; PW); <div n='P'/>(5) = <i>vallīyaṣṭimadhuka</i> (Vśs, unidentified; compare PW); <div n='P'/>(6) = <i>jīvaka</i> (Vśs: <bot>TERMINALIA TOMENTOSA WIGHT ET ARN.</bot>)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मधुक",
+            "eid": "16481",
+            "pagenum": 549,
+            "content": "<b>madhuka-</b>¦ <ab>m.</ab> sorte d'arbre (= <i>-ūka- ?</i>) ; <ab>nt.</ab> bois de réglisse.  <P><i>°locana-</i> (aux yeux couleur de miel) <ab>m.</ab> <ab>ép.</ab> de Śiva."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मधुक",
+            "eid": "29326",
+            "pagenum": 637,
+            "content": "मधुक¦ mfn. (-कः-का-कं) .²1 Sweet, (in taste.) .²2 Sweet speaking, or sounding, mellifluous, melodious. m. (-कः) .²1 A bard, a panegyrist, one who recites the lineage and praises of sovereigns in their presence. .²2 A bird. .²2 A tree, (<bot>Bassia latifolia</bot>.) mn. (-कः-कं) Liquorice, &c. n. (-कं) Tin. f. (-का) .²1 A plant, (Menispermum. glabrum.) .²2 The sweet lime. .²3 A kind of panic seed. .E. मधु sweet, कै to sound, aff. ड; or मधु honey, कन् aff. of comparison, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मधुक",
+            "eid": "28841",
+            "pagenum": 572,
+            "content": "मधुक¦ (कः) 1. <i>m.</i> A bard; a bird; a tree. <i>m. n.</i> Liquorice. <i>f.</i> Menispermum glabrum; a sweet lime. <i>n.</i> Tin. <i>a.</i> Sweet, agreeable."
+        }
     ]
 }

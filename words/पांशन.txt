@@ -15,5 +15,21 @@
             "pagenum": 4,
             "content": "पांशन¦ s. पांसन ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पांशन",
+            "eid": "18194",
+            "pagenum": 251,
+            "content": "°<i>pāṃśana</i>¦ = <i>pāṃsana</i>, <ls>S</ls> I, 563, 12 (Ko.). Der Text hat aber <i>pāṃsana!</i> {part=,seq=18458,type=°,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पांशन",
+            "eid": "13577",
+            "pagenum": 425,
+            "content": "<b>pāṃśana-</b>¦ <i>pāṃsana- -ī-</i> <ab>ag.</ab> <ab>ifc.</ab> qui salit, qui souille ; <i>pāṃsin-</i> <ab>ifc.</ab> <ab>id.</ab>"
+        }
     ]
 }

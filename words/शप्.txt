@@ -167,5 +167,57 @@
             "pagenum": 7,
             "content": "शप्¦ mit अभि VI. <i>beschwören</i> (mit einem Zauberspruch) <ls>JĀTAKAM. 16,9</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शप्",
+            "eid": "24792",
+            "pagenum": 341,
+            "content": "<i>śap</i>¦ mit <i>abhi</i> (mit einem Zauberspruch) beschwören, <ls>Jātakam.</ls> 16, 9. {part=,seq=25132,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शप्",
+            "eid": "39465",
+            "pagenum": 706,
+            "content": "शप्¦ r. 1st cl. (शपति-ते) r. 4th cl. (शप्यति-ते) 1. To revile, to wish eviimprecations on, to curse. 2. To take an oath, to swear; in this sense शप् sometimes governs a cognate accusative; but generally it takes the accusative of the person to whom a promise is made, and the instrumental of the object by which it is made; when used intransitively it governs the dative of the object or person, by which the oath is taken. 3. To blame."
+        },
+        {
+            "word": "शप्",
+            "eid": "39466",
+            "pagenum": 706,
+            "content": "शप्¦ Ind. A particle and prefix of assent or acceptance, as शप्करोति he accepts."
+        }
+    ],
+    "STC": [
+        {
+            "word": "शप्",
+            "eid": "20038",
+            "pagenum": 716,
+            "content": "<b>ŚAP-</b>¦ <i>śapati -te ; śaśāpa</i> (<i>śepuḥ</i>) <i>śepe ; śapiṣye ; śapyate</i> <i>śāpayati ; śapta- śapita- śaptum</i><i> śapitum śapitvā</i> -- maudire (<ab>acc.</ab>) ; prononcer <lbinfo n='6'/> une malédiction ou une imprécation ; <ab>moy.</ab> (avec ou sans <i>śapatham,</i> <i>śapathān</i>) lancer <lbinfo n='3'/> une imprécation ; <ab>moy.</ab> (<ab>act.</ab>) jurer, prêter <lbinfo n='3'/> serment à <ab>qq'un</ab> (rare, <ab>acc.</ab> <ab>dat.</ab>) sur <ab>qq'un</ab> ou <ab>qqch.</ab> (<ab>instr.</ab>) ; <i>ś- yadi</i> jurer qu'(on) ne... ; <i>anṛtaṃ ś.</i> faire un faux serment ; <ab>caus.</ab> faire jurer par (<ab>instr.</ab>) ; <i>śapita-</i> maudit ; <i>śapta-</i> <ab>id.</ab> ; conjuré, adjuré ; <ab>nt.</ab> serment ; <i>-vant-</i> = (qui) a maudit."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शप्",
+            "eid": "37674",
+            "pagenum": 829,
+            "content": "शप्¦ <i>ind.</i> A particle and prefix of assent or acceptance, as शप्करोति he accepts."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शप्",
+            "eid": "37311",
+            "pagenum": 747,
+            "content": "शप्¦ (य, ञ) शप्यति, ते 4. <i>c.</i> To revile; curse, swear. Also शपति, ते 1. <i>c.</i>"
+        },
+        {
+            "word": "शप्",
+            "eid": "37312",
+            "pagenum": 747,
+            "content": "शप्¦ A particle and prefix of assent or acceptance."
+        }
     ]
 }

@@ -87,5 +87,29 @@
             "pagenum": 7,
             "content": "अ/संयत¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असंयत",
+            "eid": "6031",
+            "pagenum": 83,
+            "content": "<i>asaṃyata</i>¦ 4. nicht geschlossen. <i>°kavāṭa</i> Adj. <ls>R. 2, 71, 34.</ls> {part=,seq=6114,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "असंयत",
+            "eid": "4592",
+            "pagenum": 99,
+            "content": "<b>a-saṃyata-</b>¦ <ab>a. v.</ab> non fermé ; non bridé."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असंयत",
+            "eid": "3806",
+            "pagenum": 72,
+            "content": "अ-संयत¦ (तः-ता-तं) <i>a.</i> Unrestrained."
+        }
     ]
 }

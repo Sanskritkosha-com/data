@@ -84,5 +84,37 @@
             "pagenum": 3,
             "content": "घसि/¦ <lex>m.</lex> <i>Nahrung</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "घसि",
+            "eid": "12751",
+            "pagenum": 175,
+            "content": "<i>ghasí</i>¦ m. Nahrung. {part=,seq=12948,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "घसि",
+            "eid": "14422",
+            "pagenum": 255,
+            "content": "घसि¦ m. (-सिः) Food, victuals. E. घस् to eat, भावे इन् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "घसि",
+            "eid": "14431",
+            "pagenum": 309,
+            "content": "घसि¦ m. (-सिः) Food, victuals. .E. घस to eat, इन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "घसि",
+            "eid": "13889",
+            "pagenum": 270,
+            "content": "घसि¦ (सिः) 1. <i>m.</i> Food."
+        }
     ]
 }

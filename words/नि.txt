@@ -203,5 +203,67 @@
             "pagenum": 5,
             "content": "3. नि¦ <i>die 7te Note</i> (Abkürzung von निषध) <ls>Verz. d. Oxf. H. 200,b,8.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "नि",
+            "eid": "21553",
+            "pagenum": 387,
+            "content": "नि¦ ind. 1. In, within; on, upon: a particle and prefix. 2. A negative or prohibitive particle. 3. A particle implying certainty, affirmation, proximity, continuance, doubt, intensity, fulness, Lowness, order, skill, wrong, group, &c. see the following compounds."
+        },
+        {
+            "word": "नि",
+            "eid": "22153",
+            "pagenum": 400,
+            "content": "नि(नी)वार¦ m. (-रः) 1. Hindering, opposition, impediment. 2. Name of the grain so called. E. नि prefix, वॄ to screen, घञ्. aff."
+        },
+        {
+            "word": "नि",
+            "eid": "22246",
+            "pagenum": 401,
+            "content": "नि(श्)श्वसन¦ n. (-नं) 1. Breathing out, expiration. 2. Sighing. E. निर् and असन breathing."
+        },
+        {
+            "word": "नि",
+            "eid": "22247",
+            "pagenum": 401,
+            "content": "नि(श्)श्वास¦ m. (-सः) 1. Breath expired, breathing out, expiration. E. निर् out, and श्वास breath."
+        }
+    ],
+    "STC": [
+        {
+            "word": "नि",
+            "eid": "11558",
+            "pagenum": 359,
+            "content": "<b>ni</b>¦ <ab>préf.</ab> désigne situation à l'intérieur, en bas, sous ; exempt de, dépourvu de ; <ab>prév.</ab> ; en dedans, en bas, dans ; changement dans le procès, arrêt, cessation."
+        },
+        {
+            "word": "नि",
+            "eid": "11560",
+            "pagenum": 359,
+            "content": "<b>niḥ</b>¦ <ab>préf.</ab> ; négation, absence, privation ; <ab>qqf.</ab> intensif ; <ab>prév.</ab> ; hors de, disparition, destruction ; restitution ; <ab>fig.</ab> spécification."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नि",
+            "eid": "21566",
+            "pagenum": 464,
+            "content": "नि¦ <i>ind.</i> .²1 In, within; on, upon: a particle and prefix. .²2 A negative or prohibitive particle. .²3 A particle implying certainty, affirmation, proximity, continuance, doubt, intensity, fulness, &c. see the following compounds."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नि",
+            "eid": "21009",
+            "pagenum": 413,
+            "content": "निः¦ कासित (तः-ता-तं) <i>a.</i> Expelled."
+        },
+        {
+            "word": "नि",
+            "eid": "21053",
+            "pagenum": 414,
+            "content": "नि¦ <i>prep.</i> In; on, &c."
+        }
     ]
 }

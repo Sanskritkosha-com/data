@@ -73,5 +73,21 @@
             "pagenum": 7,
             "content": "2. संवलन¦ (सम्बलन) fehlerhaft für संवनन ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "संवलन",
+            "eid": "25519",
+            "pagenum": 350,
+            "content": "<i>saṃvalana</i>¦ n. ° = <i>saṃkocana</i>, tight wrapping, <ls>Harṣac.</ls> 25, 11. {part=,seq=25862,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "संवलन",
+            "eid": "20745",
+            "pagenum": 753,
+            "content": "<b>saṃ-valana-</b>¦ <ab>nt.</ab> <i>-ā-</i> <ab>f.</ab> rencontre, <ab>not.</ab> avec un ennemi ; union, fusion, mélange ; enveloppement <lbinfo n='9'/> ; <i>°valita-</i> <ab>a. v.</ab> rencontré, uni, lié, mêlé à (<ab>instr.</ab> <ab>ifc.</ab>)."
+        }
     ]
 }

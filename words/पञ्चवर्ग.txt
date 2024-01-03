@@ -83,5 +83,37 @@
             "pagenum": 5,
             "content": "<hom>1.</hom> पञ्चवर्ग¦ 1〉d〉 <i>das Quadrat von fünf</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पञ्चवर्ग",
+            "eid": "17522",
+            "pagenum": 242,
+            "content": "1. <i>pañcavarga</i>¦ 1. d) das Quadrat von fünf. {part=,seq=17778,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पञ्चवर्ग",
+            "eid": "22871",
+            "pagenum": 413,
+            "content": "पञ्चवर्ग¦ m. (-र्गः) A class of five persons or things. E. पञ्च, and वर्ग a class."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पञ्चवर्ग",
+            "eid": "22885",
+            "pagenum": 494,
+            "content": "पञ्चवर्ग¦ m. (-र्गः) A class of five persons or things. .E. पञ्च, and वर्ग a class."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पञ्चवर्ग",
+            "eid": "22354",
+            "pagenum": 441,
+            "content": "पञ्च-वर्ग¦ (र्गः) 1. <i>m.</i> A class of five."
+        }
     ]
 }

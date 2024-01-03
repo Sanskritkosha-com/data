@@ -127,5 +127,27 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> क्षन्¦ II. lies घस् <ab>st.</ab> <hom>1.</hom> क्षन्."
         }
+    ],
+    "SCH": [
+        {
+            "word": "क्षन्",
+            "eid": "11606",
+            "pagenum": 159,
+            "content": "1. <i>kṣan</i>¦ 2. <i>kṣaṇuté</i> zu betonen. {part=,seq=11784,type=,n=1}"
+        },
+        {
+            "word": "क्षन्",
+            "eid": "11607",
+            "pagenum": 159,
+            "content": "2. <i>kṣan</i>¦ lies <i>ghas</i> statt 1. <i>kṣan</i>. {part=,seq=11785,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "क्षन्",
+            "eid": "8466",
+            "pagenum": 215,
+            "content": "<b>KṢAN-</b>¦ <i>kṣaṇoti kṣaṇute ; kṣata-</i> -- blesser, mettre à mal ; briser (un arc) ; <ab>moy.</ab> se blesser."
+        }
     ]
 }

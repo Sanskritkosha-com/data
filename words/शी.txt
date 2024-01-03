@@ -261,5 +261,81 @@
             "pagenum": 7,
             "content": "2. शी¦ <div n='1'> 2) mit dat. <i>sich hinlegen zu</i>: पत्ये शेते <ls>PAT. a. a. O. 1,284,b.</ls>  <div n='p'>— अति caus. अतिशाययतीत्यतिशायनम् ebend. <ls n='PAT. a. a. O.'>5,62,a.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शी",
+            "eid": "25098",
+            "pagenum": 345,
+            "content": "<i>śī</i>¦ mit <i>anu</i> °Simpl. = <ls>Kaus.</ls> in <i>bhartāraṃ anyayā saha śayānam anuśayīta</i> (<ls>Kauṭ.</ls> 155, 8) und <i>dviṣatstriyam ekām anuśayīta</i> (<ls>Kauṭ.</ls> 155, 11) sich hinlegen lassen, wohnen lassen. {part=,seq=25439,type=,n=1}"
+        },
+        {
+            "word": "शी",
+            "eid": "25098.1",
+            "pagenum": 345,
+            "content": "<i>śī</i>¦ °vernichtend, <ls>H</ls> XLIII, 45. {part=,seq=25440,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शी",
+            "eid": "40329",
+            "pagenum": 721,
+            "content": "शी(ङ)शीङ्¦ r. 2nd cl. (शेते) To sleep. With अति prefixed, 1. To sleep longer than. 2. To to be profuse or copious, to be much or more, to exceed. With अधि, 1. To lie down on. 2. To abide, to be. With सम्, To doubt. With उप, To lie near."
+        },
+        {
+            "word": "शी",
+            "eid": "40330",
+            "pagenum": 721,
+            "content": "शी¦ m. (-शीः) 1. Sleep, repose. 2. Devotion, tranquillity, indifference to every thing but the object of worship. E. शी to sleep, aff. क्विप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शी",
+            "eid": "20345",
+            "pagenum": 731,
+            "content": "<b>1 ŚĪ-</b>¦ <i>śīyate</i> -- aller à la ruine et <ab>v. l.</ab> <i>atiŚĪ-.</i> <lbinfo n='4'/>"
+        },
+        {
+            "word": "शी",
+            "eid": "20346",
+            "pagenum": 731,
+            "content": "<b>2 ŚĪ-</b>¦ <i>śete</i> (<i>śerate</i>) <i>śayate -ti ; śiśye</i> (<i>-yire</i>) ; <i>aśīśayat aśayiṣṭa ; śayiṣyate -ti śeṣyate -ti ;</i> (<i>śīyant-</i>) <i>śāyayati -te śiśayiṣate ; śayita- śayitum</i><i> śayitvā °śayya-</i> -- être étendu ou couché, être immobile, reposer ; dormir ; se mettre à dormir ; s'endormir ; <ab>caus.</ab> étendre, mettre dans ou sur (<ab>loc.</ab>) ; faire dormir, envoyer dormir ; <ab>dés.</ab> avoir envie de dormir."
+        },
+        {
+            "word": "शी",
+            "eid": "20347",
+            "pagenum": 731,
+            "content": "<b>3 ŚĪ-</b>¦ <ab>v.</ab> <i>ŚYĀ-</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शी",
+            "eid": "38477",
+            "pagenum": 847,
+            "content": "शी¦ (ङ) शीङ् r. 2nd cl. (शेते) To sleep: with अति prefixed, to be profuse or copious, to be much or more, to exceed: with अधि to abide, to be; with सम् to doubt."
+        },
+        {
+            "word": "शी",
+            "eid": "38478",
+            "pagenum": 847,
+            "content": "शी¦ f. (शीः) .²1 Sleep, repose. .²2 Devotion, tranquillity, indifference to every thing but the object of worship. .E. शी to sleep, aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शी",
+            "eid": "38122",
+            "pagenum": 766,
+            "content": "शी¦ (ल, ङ) शेते 2. <i>d.</i> To sleep. With <i>prep.</i> अति, to exceed; अधि, to abide; सं to doubt."
+        },
+        {
+            "word": "शी",
+            "eid": "38123",
+            "pagenum": 766,
+            "content": "शी¦ (शीः) 3. <i>f.</i> Sleep, repose; devotion; tranquillity."
+        }
     ]
 }

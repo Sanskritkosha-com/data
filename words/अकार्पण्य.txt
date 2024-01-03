@@ -43,5 +43,27 @@
             "pagenum": 7,
             "content": "अकार्पण्य¦ I. 1. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकार्पण्य",
+            "eid": "97",
+            "pagenum": 2,
+            "content": "<i>akārpaṇya</i>¦ definiert Hemādri 2, a, 9, 6. 7. {part=,seq=101,type=,n=1}"
+        },
+        {
+            "word": "अकार्पण्य",
+            "eid": "97.1",
+            "pagenum": 2,
+            "content": "<i>akārpaṇya</i>¦ Adj. ohne Jammern, -x- Selbsterniedrigung, <ls>Spr. 5256.</ls> {part=,seq=102,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकार्पण्य",
+            "eid": "48",
+            "pagenum": 2,
+            "content": "<b>a-kārpaṇya-</b>¦ <ab>a.</ab> sans humiliation ; <ab>nt.</ab> fait de ne pas se lamenter."
+        }
     ]
 }

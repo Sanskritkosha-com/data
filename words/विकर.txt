@@ -135,5 +135,51 @@
             "pagenum": 7,
             "content": "विकर¦ VI. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विकर",
+            "eid": "23645",
+            "pagenum": 327,
+            "content": "*<i>vikara</i>¦ m. = <i>bhūvivara</i>, Komm. zu <ls>TS.</ls> 7, 4, 13, 1. {part=,seq=23975,type=*,n=1}"
+        },
+        {
+            "word": "विकर",
+            "eid": "23645.1",
+            "pagenum": 327,
+            "content": "<i>vikara</i>¦ ° = <i>śukra</i>, the planet Venus, <ls>Vās.</ls> 64, 3. {part=,seq=23976,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विकर",
+            "eid": "36272",
+            "pagenum": 649,
+            "content": "विकर¦ m. (-रः) Sickness, disease. E. वि implying difference, and कर making."
+        }
+    ],
+    "STC": [
+        {
+            "word": "विकर",
+            "eid": "18272",
+            "pagenum": 645,
+            "content": "<b>vi-kara-</b>¦ <ab>m.</ab> certaine manière de combattre (<ab>v. l.</ab> <i>viṣkara-</i>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विकर",
+            "eid": "34684",
+            "pagenum": 758,
+            "content": "विकर¦ m. (-रः) Sickness, disease. .E. वि implying difference, and कर making."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विकर",
+            "eid": "34280",
+            "pagenum": 680,
+            "content": "वि-कर¦ (रः) 1. <i>m.</i> Sickness."
+        }
     ]
 }

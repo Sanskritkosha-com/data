@@ -164,5 +164,51 @@
             "pagenum": 7,
             "content": "कल्लोल¦ <div n='1'> 1) <ls>HEM.</ls> <ls>YOGAŚ. 4, 58.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कल्लोल",
+            "eid": "10184",
+            "pagenum": 140,
+            "content": "<i>kallola</i>¦ m. *Feind [in <i>*grahakallola</i> `Feind der Planeten' = Rāhu] <ls>H</ls> 15, 32; 44, 66. {part=,seq=10330,type=,n=1}"
+        },
+        {
+            "word": "कल्लोल",
+            "eid": "10184.1",
+            "pagenum": 140,
+            "content": "<i>kallola</i>¦ <ls>Kuṭṭ.</ls> 333 *Freude? {part=,seq=10331,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कल्लोल",
+            "eid": "9629",
+            "pagenum": 167,
+            "content": "कल्लोल¦ mfn. (-लः-ला-लं) An enemy, hostile, inimical. m. (-लः) 1. A surge, a billow. 2. Joy, happiness, pleasure. E. कल्ल to sound, ओलच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कल्लोल",
+            "eid": "7761",
+            "pagenum": 183,
+            "content": "<b>kallola-</b>¦ <ab>m.</ab> vague, lame."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कल्लोल",
+            "eid": "9634",
+            "pagenum": 203,
+            "content": "कल्लोल¦ mfn. (-लः-ला-लं) An enemy, hostile, inimical. m. (-लः) .²1 A surge, a billow. .²2 Joy, happiness, pleasure. .E. कल्ल to sound, ओलच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कल्लोल",
+            "eid": "9070",
+            "pagenum": 171,
+            "content": "कल्लोल¦ (लः) 1. <i>m.</i> A surge or billow; joy. <i>a.</i> Hostile, inimical."
+        }
     ]
 }

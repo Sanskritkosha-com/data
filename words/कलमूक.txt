@@ -23,5 +23,19 @@
             "pagenum": 7,
             "content": "कलमूक¦ II. <ls><ab>ebend.</ab> 74,4</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कलमूक",
+            "eid": "10066",
+            "pagenum": 138,
+            "content": "<i>kalamūka</i>¦ Adj. <ls>Kād.</ls> (1883) 74, 4. {part=,seq=10207,type=,n=1}"
+        },
+        {
+            "word": "कलमूक",
+            "eid": "10066.1",
+            "pagenum": 138,
+            "content": "<i>kalamūka</i>¦ °m. = <i>ṣaṇḍa</i>, <ls>S</ls> II, 29, 5. {part=,seq=10208,type=,n=1}"
+        }
     ]
 }

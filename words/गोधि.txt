@@ -82,5 +82,37 @@
             "pagenum": 2,
             "content": "गोधि¦ <lex>m.</lex> <div n='1'> 1) <i>Stirn</i> <ls>AK. 2, 6, 2, 43.</ls> <ls>TRIK. 2, 6, 29.</ls> <ls>H. 573.</ls> Vgl. 2. गोद . <div n='1'>— 2) = गोधा <i>eine Eidechsenart</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गोधि",
+            "eid": "12513",
+            "pagenum": 172,
+            "content": "*<i>godhi</i>¦ m. Stirn, <ls>S</ls> I, 555, 3/4 v.u. (Ko.). {part=,seq=12704,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गोधि",
+            "eid": "13957",
+            "pagenum": 246,
+            "content": "गोधि¦ m. (-धिः) 1. The forehead. 2. The Gangetic alligator. 3. An iguana. E. गो the eye or water, and धा to possess, with आधारे इन् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गोधि",
+            "eid": "13966",
+            "pagenum": 299,
+            "content": "गोधि¦ m. (-धिः) .²1 The forehead. .²2 The Gangetic alligator. .²3 An iguana. .E. गो the eye or water, and धा to possess, with कि aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गोधि",
+            "eid": "13421",
+            "pagenum": 261,
+            "content": "गोधि¦ (धिः) 2. <i>m.</i> The forehead; an alligator, an iguana."
+        }
     ]
 }

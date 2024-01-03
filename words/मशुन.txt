@@ -63,5 +63,29 @@
             "pagenum": 5,
             "content": "मशुन¦ <lex>m.</lex> <i>Hund</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मशुन",
+            "eid": "30801",
+            "pagenum": 555,
+            "content": "मशुन¦ m. (-नः) A dog."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मशुन",
+            "eid": "29763",
+            "pagenum": 647,
+            "content": "मशुन¦ m. (-नः) A dog."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मशुन",
+            "eid": "29285",
+            "pagenum": 580,
+            "content": "मशुन¦ (नः) 1. <i>m.</i> A dog."
+        }
     ]
 }

@@ -508,5 +508,53 @@
             "pagenum": 7,
             "content": "पृथु¦ IV. <lex>m.</lex> ein <is>Vasu</is> <ls>MBH. 1,99,11</ls>. <ls n='MBH. 1,99,'>27</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पृथु",
+            "eid": "18894",
+            "pagenum": 261,
+            "content": "<i>pṛthu</i>¦ m. ein Vasu, <ls>MBh.</ls> 1, 99, 11. 27. {part=,seq=19162,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पृथु",
+            "eid": "25795",
+            "pagenum": 467,
+            "content": "पृथु¦ mfn. (-थुः-थुः-थ्वी-थु) 1. Large, great. 2. Smart, clever. m. (-थुः) 1. The fifth monarch of the solar dynasty in the second age. 2. A name of Agni or fire. f. (-थुः) 1. A pungent seed, (Nigella Indica.) 2. A medicinal substance, commonly Hingupatri. 3. Opium. E. प्रथ् to be famous, aff. कु, and र changed to ऋ ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पृथु",
+            "eid": "13970",
+            "pagenum": 446,
+            "content": "<b>pṛthu-</b>¦ <i>-(v)ī-</i> et <i>-u-</i> <ab>a.</ab> large, vaste, étendu ; grand, opulent. ; gigantesque, ample ; abondant, <lbinfo n='4'/> nombreux, varié ; <ab>m.</ab> <ab>n.</ab> de divers personnages <lbinfo n='8'/> ; <ab>n.</ab> d'un singe ; <i>-(v)ī-</i> <ab>v. s. v.</ab>  <P><i>°kīrti-</i> <ab>a.</ab> largement renommé.  <P><i>°jaghana-</i> <ab>a.</ab> qui a de larges hanches.  <P><i>°daṃṣṭra-</i> <ab>a.</ab> qui a de grosses dents.  <P><i>°datta-</i> <ab>m.</ab> <ab>n.</ab> d'une grenouille.  <P><i>°dharaṇi-dhara-</i> <ab>m.</ab> Viṣṇu.  <P><i>°dhāman-</i> <ab>a.</ab> splendide.  <P><i>°dhāra-</i> <ab>a.</ab> qui a une large lame.  <P><i>°protha-</i> <ab>a.</ab> qui a de larges naseaux (cheval).  <P><i>°bāhu-</i> <ab>a.</ab> qui a de gros bras.  <P><i>°bhuvana-</i> <ab>nt.</ab> le vaste monde.  <P><i>°mṛdvīkā-</i> <ab>f.</ab> raisin sec.  <P><i>°yaśas-</i> <ab>a.</ab> = <i>°kīrti-.</i>  <P><i>°locana-</i> <ab>a.</ab> qui a de grands yeux.  <P><i>°vakṣas-</i> <ab>a.</ab> qui a une large poitrine.  <P><i>°vega-</i> <ab>m.</ab> <ab>n.</ab> d'un prince.  <P><i>°vyaṃsa-</i> <ab>a.</ab> qui a de larges épaules.  <P><i>°śravas-</i> <i>°śrava-</i> <ab>a.</ab> qui a une vaste renommée <lbinfo n='3'/> ; <ab>m.</ab> fils de Śaśabinḍu ; de Raghu.  <P><i>°śrī-</i> <ab>a.</ab> très heureux.  <P><i>°śroṇi-</i> <i>-ī-</i> <ab>f.</ab> qui a de larges hanches (femme).  <P><i>°ṣeṇa-</i> <ab>m.</ab> fils de Vibhu.  <P><i>°ṣṭuka-</i> <ab>a.</ab> qui a une grosse natte (de cheveux). <lbinfo n='4'/>  <P><i>pṛthūdaka-</i> <ab>nt.</ab> <ab>n.</ab> d'un Tīrtha (sur la rive septentrionale de la Sarasvatī) ; <ab>m.</ab> et <i>°svāmin-</i> <ab>n.</ab> d'un scoliaste.  <P><i>pṛthūdara-</i> <ab>m.</ab> <ab>n.</ab> d'un Yakṣa."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "पृथु",
+            "eid": "1922",
+            "pagenum": 2,
+            "content": "<b>Pṛthu.</b>¦ See <b>Pṛthi.</b> Ludwig<sup>1</sup> also finds a mention of the Pṛthus as a tribe, allied with the <b>Parśus,</b> in one passage of the Rigveda<sup>2</sup> as opponents of the <b>Tṛtsu Bharatas.</b> But this interpretation is certainly incorrect.<sup>3</sup> See <b>Parśu.</b> <F>1) Translation of the Rigveda, 3, 196 <i>et seq.</i></F> <F>2) vii. 83, 1.</F> <F>3) Zimmer, <i>Altindisches Leben,</i> 134 <i>et seq.;</i> 433, 434; Geldner, <i>Vedische</i> <i>Studien,</i> 2, 184, n. 3; Bergaigne, <i>Religion</i> <i>Védique,</i> 2, 362, n.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पृथु",
+            "eid": "25498",
+            "pagenum": 551,
+            "content": "पृथु¦ mfn. (-थुः-थु or थ्वी-थुः) .²1 Large, great. .²2 Smart, clever. m. (-थुः) .²1 The fifth monarch of the solar dynasty in the second age. .²2 A name of <i>Agni</i> or fire. f. (-थुः) .²1 A pungent seed, (<bot>Nigella Indica</bot>.) .²2 A medicinal substance, commonly <i>Hiṅgupatrī.</i> .²3 Opium. .E. प्रथ to be famous, aff. कु, and र changed to ऋ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पृथु",
+            "eid": "24980",
+            "pagenum": 495,
+            "content": "पृथु¦ (थुः-थ्वी-थु) <i>a.</i> Great, large; clever. 2. <i>m.</i> The 5th monarch of the solar race; <i>Agni,</i> fire. <i>f.</i> A pungent seed; opium."
+        }
     ]
 }

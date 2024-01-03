@@ -60,5 +60,37 @@
             "pagenum": 3,
             "content": "दौलेय¦ (von दुलि) <ls>P. 6, 4, 148</ls>, <ls>Sch.</ls> <lex>m.</lex> <i>Schildkröte</i> <ls>H. 1353.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दौलेय",
+            "eid": "15769",
+            "pagenum": 217,
+            "content": "*<i>dauleya</i>¦ m. Schildkröte, <ls>S</ls> II, 169, 4; 217, 5. {part=,seq=16012,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दौलेय",
+            "eid": "19857",
+            "pagenum": 356,
+            "content": "दौलेय¦ m. (-यः) A turtle or tortoise. E. दूली a female tortoise. affix ढक् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दौलेय",
+            "eid": "19871",
+            "pagenum": 427,
+            "content": "दौलेय¦ m. (-यः) A turtle or tortoise. .E. दूली a female tortoise, affix ढक्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दौलेय",
+            "eid": "19350",
+            "pagenum": 381,
+            "content": "दौलेय¦ (यः) 1. <i>m.</i> A turtle or tortoise."
+        }
     ]
 }

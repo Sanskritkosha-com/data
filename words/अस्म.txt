@@ -159,5 +159,27 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अस्म/¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अस्म",
+            "eid": "6399",
+            "pagenum": 88,
+            "content": "1. <i>asmá</i>¦ , zu <i>asmé</i> vgl. <ls>R.</ls> Pischel in <ls>ZDMG</ls> 35, 716. {part=,seq=6485,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अस्म",
+            "eid": "4837",
+            "pagenum": 105,
+            "content": "<b>1 asma-</b>¦ base de cas obl. <ab>sg.</ab> de <i>idam-.</i>"
+        },
+        {
+            "word": "अस्म",
+            "eid": "4838",
+            "pagenum": 105,
+            "content": "<b>2 asma-</b>¦ base de cas <ab>pl.</ab> de <i>mad-.</i>  <P><i>asmat-kulīna-</i> <ab>m.</ab> un homme de notre famille.  <P><i>°saṃgrasana-vyātta-vyāla-tuṇḍāyate</i> <ab>dén.</ab> représenter la gueule ouverte d'un tigre qui va nous dévorer.  <P><i>asmad-vidha-</i> <ab>a.</ab> semblable à nous, des nôtres."
+        }
     ]
 }

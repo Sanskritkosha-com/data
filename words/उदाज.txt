@@ -61,5 +61,45 @@
             "pagenum": 7,
             "content": "उदाज/¦ I. Lies <i>Auswahl, das Praecipuum</i> (aus erbeutetem Vieh) und <ab>vgl.</ab> noch <ls>MAITR. S. 4,3,1 (40,16). 2 (41,15). 6,8 (91,17)</ls>. <ls>Festgr. 25</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उदाज",
+            "eid": "8283",
+            "pagenum": 114,
+            "content": "<i>udājá</i>¦ lies: Auswahl, das Praecipuum (aus erbeutetem Vieh) und vgl. noch <ls>Maitr. S.</ls> 4, 3, 1 (40, 16). 2 (41, 15); 6, 8 (91, 17); Festgr. 25. {part=,seq=8397,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उदाज",
+            "eid": "7017",
+            "pagenum": 120,
+            "content": "उदाज¦ m. (-जः) Commanding, directing bodies of men. E. उद् before अज् to go, घञ् aff."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "उदाज",
+            "eid": "347",
+            "pagenum": 1,
+            "content": "<b>Ud-āja</b>¦ is the word used in the Maitrāyaṇī Saṃhitā<sup>1</sup> to denote the share of the booty of war taken by the king after a victory (<i>saṃgrāmaṃ jitvā</i>). This interpretation, which is that of Delbrück,<sup>2</sup> is clearly correct, as against the older version, ‘march out,’ given by von Schroeder<sup>3</sup> and accepted by Böhtlingk.<sup>4</sup> The Udāja thus corresponds precisely with the Homeric <lang n='greek'>γέρας</lang> This sense also suits Nirāja, the variant of both the Kāṭhaka<sup>5</sup> and the Kapiṣṭhala<sup>6</sup> Saṃhitās. <F>1) i. 10, 16; iv. 3, 1.</F> <F>2) <i>Festgruss an Böhtlingk,</i> 25.</F> <F>3) Maitrāyaṇī Saṃhitā, 1, xv.</F> <F>4) Dictionary, <i>s.v.</i></F> <F>5) xxviii. 3.</F> <F>6) xliv. 3.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उदाज",
+            "eid": "7020",
+            "pagenum": 147,
+            "content": "उदाज¦ m. (-जः) Commanding, directing bodies of men. .E. उद before अज to go, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उदाज",
+            "eid": "6423",
+            "pagenum": 120,
+            "content": "उदा_ज¦ (जः) 1. <i>m.</i> A directing."
+        }
     ]
 }

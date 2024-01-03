@@ -332,5 +332,59 @@
             "pagenum": 5,
             "content": "2. काव्य¦ <div n='1'> 2) <div n='2'> b) °क्रिया <ls>Verz. d. Oxf. H. 217,a,17.</ls> °गुणाः <ls n='Verz. d. Oxf. H.'>87,a,2.</ls> °प्रशंसा <ls n='Verz. d. Oxf. H.'>122,b,22.</ls> °लक्षण <ls n='Verz. d. Oxf. H.'>86,b,3</ls> v. u. <ls n='Verz. d. Oxf. H.'>211,b,32.</ls> °भेदाः <ls n='Verz. d. Oxf. H.'>35.</ls> °श्रवण <ls n='Verz. d. Oxf. H.'>345,b,32.</ls> °व्याख्यान <ls n='Verz. d. Oxf. H.'>34.</ls> °समय <ls n='Verz. d. Oxf. H.'>207,b,4.</ls> °समस्यापूरण <ls n='Verz. d. Oxf. H.'>217,a,10.</ls> काव्याङ्गानि <ls n='Verz. d. Oxf. H.'>207,a, N. 3.</ls> काव्यालंकार <ls n='Verz. d. Oxf. H.'>87,a,3.</ls> Z. 3 streiche 546. 710. <div n='2'>— e) Bez. <i>bestimmter einactiger Schauspiele</i> <ls>SĀH. D. 546.</ls> <div n='2'>— f) Bez. <i>bestimmter kleinerer Dichtwerke, in denen neben dem Sanskrit auch andere Volksdialecte erscheinen</i>, <ls>SĀH. D. 563.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "काव्य",
+            "eid": "10555",
+            "pagenum": 145,
+            "content": "<i>kāvya</i>¦ n. °eine Art Geheimsprache, Y 39. {part=,seq=10711,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "काव्य",
+            "eid": "10302",
+            "pagenum": 180,
+            "content": "काव्य¦ m. (-व्यः) A name of SUKRACHARYA, the preceptor of the demons. f. (-व्या) 1. Understanding, intelligence. 2. A female fiend: see पूतना. 3. A Pitri of a particular order, the son of KAVI or SUKRA. n. (-व्यं) A poem, poetical composition. E. कवि a poet, &c. ञ्यत् derivative or pleonastic aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "काव्य",
+            "eid": "7964",
+            "pagenum": 192,
+            "content": "<b>1 kāvya-</b>¦ <ab>a.</ab> venant de Kavi Uśanas, prononcé <lbinfo n='5'/> par K. U. ; <ab>m.</ab> <ab>patron.</ab> de K. U."
+        },
+        {
+            "word": "काव्य",
+            "eid": "7965",
+            "pagenum": 192,
+            "content": "<b>2 kāvya-</b>¦ <ab>nt.</ab> poème, poésie, œuvre poétique <lbinfo n='5'/> (à composition unitaire, de type épique ou lyrique) ; <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> d'une classe de Mânes.  <P><i>°goṣṭhī-</i> <ab>f.</ab> entretien sur la poésie.  <P><i>°caura-</i> <ab>a.</ab> plagiaire (poète).  <P><i>°prakāśa-</i> <ab>m.</ab> traité de poétique par Mammaṭa. <lbinfo n='4'/>  <P><i>kāvyādarśa-</i> <ab>m.</ab> traité de poétique par Daṇḍin.  <P><i>kāvyālaṃkāra-</i> <ab>m.</ab> traité de poétique par Vāmana."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "काव्य",
+            "eid": "600",
+            "pagenum": 1,
+            "content": "<b>Kāvya</b>¦ (‘descendant of Kavi’) is the constant<sup>1</sup> patronymic of <b>Uśanas.</b> In the Pañcaviṃśa Brāhmaṇa it is also applied to <b>Iḍhat</b><sup>2</sup> and <b>Ukṣṇorandhra.</b><sup>3</sup> <F>1) Rv. i. 51, 11; 83, 5; 121, 12; vi. 20. 11; viii. 23, 17; Av. iv. 29, 6; Taittirīya Saṃhitā, ii. 5, 8, 5, etc.</F> <F>2) xiv. 9, 16.</F> <F>3) xiii. 9, 19. <div n='P'/><i>Cf.</i> Hopkins, <i>Transactions of the Con-</i> <i>necticut Academy of Arts and Sciences,</i> 15, 48, 49.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "काव्य",
+            "eid": "10307",
+            "pagenum": 219,
+            "content": "काव्य¦ m. (-व्यः) A name of ŚUKRĀCĀRYA, the preceptor of the demons. f. (-व्या) .²1 Understanding, intelligence. .²2 A female fiend: see पूतना. .²3 A <i>Pitṛ</i> of a particular order, the son of KAVI or ŚUKRA. n. (-व्यं) A poem, poetical composition. .E. कवि a poet, &c. ञ्यत् derivative or pleonastic aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "काव्य",
+            "eid": "9745",
+            "pagenum": 184,
+            "content": "काव्य¦ (व्यः) 1. <i>m.</i> A name of <i>Sucrā-</i> <i>chārya,</i> preceptor of the demons. <i>f.</i> (व्या) Intelligence; a fiend. <i>n.</i> A poem, poetical composition."
+        }
     ]
 }

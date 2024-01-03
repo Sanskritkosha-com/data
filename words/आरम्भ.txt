@@ -163,5 +163,45 @@
             "pagenum": 7,
             "content": "आरम्भ¦ I. 5. °कृत् <lex>Adj.</lex> <i>der zuerst anfängt</i> <ls>BṚHASP.</ls> in <ls>VIVĀDAR. 374</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आरम्भ",
+            "eid": "7234",
+            "pagenum": 99,
+            "content": "<i>ārambha</i>¦ 5. *Tötung; richtig <i>ālambha</i>, <ls>Zach.</ls> Beitr. — <i>°kṛt</i> Adj. der zuerst anfängt, <ls>Bṛhasp.</ls> in <ls>Vivādar.</ls> 374. {part=,seq=7335,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आरम्भ",
+            "eid": "5719",
+            "pagenum": 97,
+            "content": "आरम्भ¦ m. (-म्भः) 1. A beginning, a thing begun. 2. Haste, speed. 3. Effort, exertion. 4. Pride. 5. Killing, slaughter. 6. An introduction, a prologue, &c. E. आङ् before रभि to commence, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आरम्भ",
+            "eid": "5502",
+            "pagenum": 121,
+            "content": "<b>ā-rambha-</b>¦ <ab>m.</ab> entreprise ou fait d'entreprendre <lbinfo n='7'/> ; commencement, origine ; hâte ; effort ; acte, fonction ; <i>-tā-</i> <ab>f.</ab> fait de commencer. <lbinfo n='6'/>  <P><i>°rucitā-</i> <ab>f.</ab> fait de trouver du plaisir à entreprendre. <lbinfo n='7'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आरम्भ",
+            "eid": "5721",
+            "pagenum": 119,
+            "content": "आरम्भ¦ m. (-म्भः) .²1 A beginning, a thing begun. .²2 Haste, speed. .²3 Effort, exertion. .²4 Pride. .²5 Killing, slaughter. .²6 An introduction, a prologue, &c. .E. आङ, रभि to commence, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आरम्भ",
+            "eid": "5103",
+            "pagenum": 96,
+            "content": "आ-रम्भ¦ (म्भः) 1. <i>m.</i> A beginning; effort; haste; pride; killing."
+        }
     ]
 }

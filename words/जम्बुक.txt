@@ -170,5 +170,43 @@
             "pagenum": 7,
             "content": "जम्बुक¦ II. 1〉e〉 <ls>DAMAYANTĪK. 34</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "जम्बुक",
+            "eid": "13698",
+            "pagenum": 189,
+            "content": "<i>jambuka</i>¦ 1. a) <ls>Damayantīk.</ls> 34. {part=,seq=13916,type=,n=1}"
+        },
+        {
+            "word": "जम्बुक",
+            "eid": "13698.1",
+            "pagenum": 189,
+            "content": "<i>Jambuka</i>¦ m. Beiname Varuṇa's, <ls>S</ls> II, 194, 4. {part=,seq=13917,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "जम्बुक",
+            "eid": "15859",
+            "pagenum": 281,
+            "content": "जम्बुक¦ m. (-कः) 1. A jackal. 2. The deity of water, VARUNA. 3. A low man. 4. The rose apple. जम् to eat, affix उकच् and वुक् augment, eating flesh, &c. or जम्बु as above, and क added the affix also being ऊकच्, जम्बूक । जम्बः इव कायति कै-क ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जम्बुक",
+            "eid": "15888",
+            "pagenum": 340,
+            "content": "जम्बुक¦ m. (-कः) .²1 A jackall. .²2 The deity of water, VARUṆA. .²3 A low man. .²4 The rose apple. .E. जम to eat, affix उकच् and वुक् augment, eating flesh, &c. or जम्बु as above, and कन् added; the affix also being ऊकच्, जम्बूक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जम्बुक",
+            "eid": "15348",
+            "pagenum": 299,
+            "content": "जम्बुक¦ (कः) 1. <i>m.</i> A jackal; <i>Varuna;</i> a low man; rose-apple."
+        }
     ]
 }

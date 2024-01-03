@@ -289,5 +289,57 @@
             "pagenum": 7,
             "content": "1. रा¦ Z. 2 lies 5, 83, 6 st. 5, 83, 7. - Sp. 303, Z. 4 v. u. lies 10, 49, 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "रा",
+            "eid": "22559",
+            "pagenum": 311,
+            "content": "<i>rā</i>¦ (am Ende eines Komp.) ° = <i>rāti dadāti yā</i>, <ls>H</ls> V, 135; XLIII, 278. {part=,seq=22871,type=,n=1}"
+        },
+        {
+            "word": "रा",
+            "eid": "22559.1",
+            "pagenum": 311,
+            "content": "<i>rā</i>¦ + <i>°ā</i> <ls>H</ls> XLIII, 45 <i>(ārarau = jagrāha)</i>. {part=,seq=22872,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "रा",
+            "eid": "33373",
+            "pagenum": 600,
+            "content": "रा¦ r. 2nd. cl. (राति) 1. To get, to gain, to receive. 2. To give."
+        }
+    ],
+    "STC": [
+        {
+            "word": "रा",
+            "eid": "17353",
+            "pagenum": 601,
+            "content": "<b>1 RĀ-</b>¦ <i>rāti ; rāta-</i> -- donner, conférer ; <ab>a. v.</ab> donné."
+        },
+        {
+            "word": "रा",
+            "eid": "17354",
+            "pagenum": 602,
+            "content": "<b>2 rā-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui donne."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "रा",
+            "eid": "32058",
+            "pagenum": 699,
+            "content": "रा¦ r. 2nd cl. (राति) .²1 To get, to gain, to receive. .²2 To give."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रा",
+            "eid": "31623",
+            "pagenum": 625,
+            "content": "रा¦ (ल) राति 2. <i>a.</i> To get; to give."
+        }
     ]
 }

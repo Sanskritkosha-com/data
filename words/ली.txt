@@ -241,5 +241,69 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> ली¦ mit व्यप <i>verschwinden</i> <ls>HARAVIJAYA 2,24</ls>. °लीन <i>vergangen</i> <ls n='HARAVIJAYA'>6,140</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ली",
+            "eid": "22930",
+            "pagenum": 316,
+            "content": "1. <i>lī</i>¦ mit <i>apa, apalīna</i> °versteckt, <ls>Kir.</ls> IX, 11. — Mit <i>vyapa</i> verschwinden, Haravijaya 2, 24. <i>°līna</i> vergangen, 6, 140. [50, 5.] {part=,seq=23251,type=,n=1}"
+        },
+        {
+            "word": "ली",
+            "eid": "22930.1",
+            "pagenum": 316,
+            "content": "*<i>lī</i>¦ f. = <i>śleṣa</i>; s. <i>līva</i>. {part=,seq=23252,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ली",
+            "eid": "34402",
+            "pagenum": 618,
+            "content": "ली¦ r. 1st cl. (लयति) To melt, to liquefy. r. 4th cl. (लीयते) 1. To stick together. 2. To lurk in, to hide in. 3. To be dissolved. 4. To be sticky. 5. To be devoted to. 6. To vanish, to disappear. With अभि, To cover, to spread over. With आ, 1. To cover, to besmear. 2. To lurk or hide in. With नि, 1. To lie down, to alight. 2. To conceal oneself, (with an abl.) 3. To perish. With प्र, 1. To be absorbed in. 2. To vanish. With वि, 1. To cleave to. 2. To settle on. 3. To melt away. 4. To disappear, to perish. With सम, 1. To cling to. 2. To lie down. 3. To be concealed. 4. To melt away. r. 9th cl. (लिनाति) 1. To join, to adhere or cling to, to be in union or connection with. 2. To obtain. 3. To melt. 4. To be absorbed. With वि, To melt away. r. 10th cl. (लयति लाययति-ते लापयति-ते लालयति-ते लीनयति-ते) To melt, to liquefy, to fuse or dissolve. With आङ्, To waste away. With प्र and वि, To acquire or gain. According to Pāninī the form लापयते is used in the sense of “To obtain honour.”"
+        },
+        {
+            "word": "ली",
+            "eid": "34403",
+            "pagenum": 618,
+            "content": "ली¦ f. (-लीः) Embracing. E. ली to embrace, क्विप् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ली",
+            "eid": "17664",
+            "pagenum": 616,
+            "content": "<b>LĪ-</b>¦ <i>līyate -ti ; lilye lilyuḥ ; lāpayati lāyayati ;</i><i> līna- °līya</i> -- s'attacher à, adhérer (à, <ab>loc.</ab> ; aussi <ab>fig.</ab>) ; s'effacer, disparaître ; <ab>a. v.</ab> enfoncé dans (<ab>loc.</ab>) ; posé sur, campé ; qui se cache, qui épie ; fondu, absorbé, disparu ; <i>līnatā-</i> <ab>f.</ab> fait de se cacher."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ली",
+            "eid": "32985",
+            "pagenum": 721,
+            "content": "ली¦ r. 4th cl. (लीयते) r. 9th cl. (लिनाति) .²1 To join, to adhere or cling to, to be in union or connexion with. .²2 To obtain. r. 10th cl. (लयति लाययति लापयति लालयति or लीनयति) To melt, to liquefy, to fuse or dissolve. <div n='p'>With आङ्, To waste away. <div n='p'>With प्र and वि, To acquire or gain."
+        },
+        {
+            "word": "ली",
+            "eid": "32986",
+            "pagenum": 721,
+            "content": "ली¦ f. (-लीः) Embracing. .E. ली to embrace, क्विप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ली",
+            "eid": "32565",
+            "pagenum": 645,
+            "content": "ली¦ (य, ङ) लीयते 4. <i>d.</i> (गि) लिनाति 9. <i>a.</i> To join, to be in contact, to obtain. (कि) लयति लाययति 10. <i>a.</i> To melt. With आ to waste away; with उत् to jump; with प्र and वि to acquire."
+        },
+        {
+            "word": "ली",
+            "eid": "32566",
+            "pagenum": 645,
+            "content": "ली¦ (लीः) 3. <i>f.</i> Embracing."
+        }
     ]
 }

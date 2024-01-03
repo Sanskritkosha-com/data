@@ -31,5 +31,41 @@
             "pagenum": 5,
             "content": "*मस¦ <lex>m.</lex> <i>Maass, Gewicht</i>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "मस",
+            "eid": "30804",
+            "pagenum": 555,
+            "content": "मस(इर्, ई)इर् मसी¦ r. 4th cl. (मस्यति) 1. To mete or measure by weight, bulk, length, &c. 2. To change from."
+        },
+        {
+            "word": "मस",
+            "eid": "30805",
+            "pagenum": 555,
+            "content": "मस¦ m. (-सः) 1. Measure. 2. Weight. E. मस् to measure, aff. अच् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मस",
+            "eid": "29766",
+            "pagenum": 647,
+            "content": "मस(इर, ई) इर् मसी¦ r. 4th cl. (मस्यति) .²1 To mete or measure by weight, bulk, length, &c. .²2 To change form."
+        },
+        {
+            "word": "मस",
+            "eid": "29767",
+            "pagenum": 647,
+            "content": "मस¦ m. (-सः) .²1 Measure. .²2 Weight. .E. मस to measure, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मस",
+            "eid": "29289",
+            "pagenum": 580,
+            "content": "मस¦ (सः) 1. <i>m.</i> Measure, weight."
+        }
     ]
 }

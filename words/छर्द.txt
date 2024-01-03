@@ -69,5 +69,47 @@
             "pagenum": 2,
             "content": "छर्द¦ (von छर्द्) <lex>m.</lex> <i>das Erbrechen</i> <ls>H. 469, v. l.</ls> für छर्दि ."
         }
+    ],
+    "SHS": [
+        {
+            "word": "छर्द",
+            "eid": "15552",
+            "pagenum": 276,
+            "content": "छर्द¦ r. 10th cl. (छर्दयति-ते) To vomit, to be sick. E. चु-उभ-सक-सेट् ।"
+        },
+        {
+            "word": "छर्द",
+            "eid": "15553",
+            "pagenum": 276,
+            "content": "छर्द¦ nf. (-र्दं-र्दी) Vomiting, sickness, reaching. E. छर्द् to vomit, affix अच्; also with the affixes ल्युट् and इन्, छर्दन्, छर्दि, &c. ut infra."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "छर्द",
+            "eid": "15558",
+            "pagenum": 334,
+            "content": "छर्द¦ r. 10th cl. (छर्दयति) To vomit, to be sick."
+        },
+        {
+            "word": "छर्द",
+            "eid": "15559",
+            "pagenum": 334,
+            "content": "छर्द¦ nf. (-र्दं-र्दी) Vomiting, sickness, reaching. .E. छर्द to vomit, affix अच्; also with the affixes ल्युट् and इन्, छर्दन्, छर्दि, &c. ut infra."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "छर्द",
+            "eid": "15024",
+            "pagenum": 293,
+            "content": "छर्द¦ (क) छर्दयति 10. <i>a.</i> To vomit."
+        },
+        {
+            "word": "छर्द",
+            "eid": "15025",
+            "pagenum": 293,
+            "content": "छर्द¦ (र्दं-र्दी) 1. <i>n.</i> 3. <i>f.</i> Vomitting."
+        }
     ]
 }

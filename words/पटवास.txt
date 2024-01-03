@@ -111,5 +111,37 @@
             "pagenum": 7,
             "content": "पटवास¦ IV. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पटवास",
+            "eid": "17560",
+            "pagenum": 242,
+            "content": "<i>paṭavāsa</i>¦ <ls>Śiś.</ls> 6, 37. {part=,seq=17816,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पटवास",
+            "eid": "22918",
+            "pagenum": 414,
+            "content": "पटवास¦ m. (-सः) 1. A tent. 2. A petticoat. 3. Perfumed powder. E. पट cloth, वास abode, or वस् to perfume, aff. अच्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पटवास",
+            "eid": "22932",
+            "pagenum": 495,
+            "content": "पटवास¦ m. (-सः) .²1 A tent. .²2 A petticoat. .²3 Perfumed powder. .E. पट cloth, वास abode, or वास to perfume, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पटवास",
+            "eid": "22402",
+            "pagenum": 442,
+            "content": "पट-वास¦ (सः) 1. <i>m. Idem;</i> a petticoat; perfumed powder."
+        }
     ]
 }

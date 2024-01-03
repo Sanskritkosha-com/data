@@ -44,5 +44,29 @@
             "pagenum": 6,
             "content": "वायुवाह¦ <lex>m.</lex> <i>Rauch (den Wind zum Vehikel habend</i>) <ls>H. 1103.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वायुवाह",
+            "eid": "36001",
+            "pagenum": 645,
+            "content": "वायुवाह¦ m. (-हः) Smoke, vapour. E. वायु the wind, and वाह vehicle."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वायुवाह",
+            "eid": "34430",
+            "pagenum": 752,
+            "content": "वायुवाह¦ m. (-हः) Smoke, vapour. .E. वायु the wind, and वाह vehicle."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वायुवाह",
+            "eid": "34026",
+            "pagenum": 674,
+            "content": "वायु-वाह¦ (हः) 1. <i>m.</i> Smoke, vapour."
+        }
     ]
 }

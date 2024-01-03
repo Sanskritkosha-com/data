@@ -148,5 +148,53 @@
             "pagenum": 7,
             "content": "तात¦ III. mit dem Beiwort यवीयंस् so <ab>v. a.</ab> <i>Stiefvater (der zweite Gatte der Mutter)</i> <ls>R. ed. Bomb. 4,55,14</ls>. [Page7-345-c] Eine <i>Tochter</i> mit तात angeredet <ls>JĀTAKAM. 20</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तात",
+            "eid": "14442",
+            "pagenum": 199,
+            "content": "<i>tāta</i>¦ mit dem Beiwort <i>yavīyaṃs</i> so v.a. Stiefvater (der zweite Gatte der Mutter), <ls>R. ed. Bomb.</ls> 4, 55, 14. Eine Tochter mit <i>tāta</i> angeredet <ls>Jātakam.</ls> 20. {part=,seq=14671,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तात",
+            "eid": "17248",
+            "pagenum": 308,
+            "content": "तात¦ mfn. (-तः-ता-तं) Venerable, reverend, respectable. m. (-तः) 1. A father. 2. A term of affection addressed to any person, but especially to a junior or inferior, as हे तात oh! child, &c. E. तन् to extend, (his race or fame,) क्त affix, and the vowel made long."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तात",
+            "eid": "9960",
+            "pagenum": 280,
+            "content": "<b>tāta-</b>¦ (<ab>cf.</ab> 2 <i>tata-</i>) <ab>m.</ab> père ; <ab>voc.</ab> mode affectueux <lbinfo n='5'/> d'interpellation (mon cher).  <P><i>°pāda-</i> <ab>m.</ab> <ab>pl.</ab> père, terme de respect affectueux. <lbinfo n='5'/>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "तात",
+            "eid": "1132",
+            "pagenum": 1,
+            "content": "<b>Tāta,</b>¦ apparently ‘dada's boy,’ an affectionate term of address by a father (<i>cf.</i> <b>Tata</b>) to a son, is found in the Brāhmaṇas,<sup>1</sup> occurring in the vocative only. But in the sense of ‘father,’ through confusion with Tata, it occurs also as early as the Aitareya Āraṇyaka.<sup>2</sup> <F>1) Aitareya Brāhmaṇa, vii. 14, 4; Bṛhadāraṇyaka Upaniṣad, vi. 1, 6; Chāndogya Upaniṣad, iv. 4, 2.</F> <F>2) i. 3, 3, where Tata and Tāta are given as variant forms of the address of the child to the father. Little, <i>Grammatical Index,</i> 75, takes Tāta to mean ‘father’ primarily, but this seems unlikely. <div n='P'/><i>Cf.</i> Delbrück, <i>Die indogermanischen</i> <i>Verwandtschaftsnamen,</i> 449, 454.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तात",
+            "eid": "17265",
+            "pagenum": 371,
+            "content": "तात¦ mfn. (-तः-ता-तं) Venerable, reverend, respectable. m. (-तः) .²1 A father. .²2 A term of affection addressed to any person, but especially to a junior or inferior, as हे तात oh! child, &c. .E. तन to extend, (his race or fame,) क्त affix, and the vowel made long."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तात",
+            "eid": "16736",
+            "pagenum": 328,
+            "content": "तात¦ (तः) 1. <i>m.</i> A father; a term of affection, as हे तात Oh child. <i>a.</i> Venerable, respectable."
+        }
     ]
 }

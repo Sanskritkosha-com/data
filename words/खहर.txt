@@ -31,5 +31,29 @@
             "pagenum": 2,
             "content": "खहर¦ (ख + हर) <lex>adj.</lex> <i>eine Null zum Nenner habend</i> (ein Bruch) <ls>COLEBR. Alg. 19.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "खहर",
+            "eid": "12811",
+            "pagenum": 225,
+            "content": "खहर¦ m. (-रः) (In arithmetic.) A fraction having a cypher for its denominator. E. ख a cypher, हर divisor."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खहर",
+            "eid": "12817",
+            "pagenum": 273,
+            "content": "खहर¦ m. (-रः) (In arithmetic.) A fraction having a cypher for its denominator. .E. ख a cypher, हर divisor."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खहर",
+            "eid": "12270",
+            "pagenum": 237,
+            "content": "ख-हर¦ (रः) 1. <i>m.</i> A fraction with a cypher for its denominator."
+        }
     ]
 }

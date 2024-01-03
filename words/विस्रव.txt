@@ -61,5 +61,21 @@
             "pagenum": 7,
             "content": "विस्रव¦ VI. <i>Erguss, ausfliessende Feuchtigkeit</i> <ls>JĀTAKAM. 24</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विस्रव",
+            "eid": "24290",
+            "pagenum": 335,
+            "content": "<i>visrava</i>¦ Erguß, ausfließende Feuchtigkeit, <ls>Jātakam.</ls> 24. {part=,seq=24624,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विस्रव",
+            "eid": "19339",
+            "pagenum": 685,
+            "content": "<b>vi-srava-</b>¦ <ab>m.</ab> flot, courant."
+        }
     ]
 }

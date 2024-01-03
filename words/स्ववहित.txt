@@ -13,5 +13,29 @@
             "pagenum": 1276,
             "content": "¦ alert, active, <ls>ib.</ls><info lex='inh'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "स्ववहित",
+            "eid": "46299",
+            "pagenum": 823,
+            "content": "स्ववहित¦ mfn. (-तः-ता-तं) 1. Alert, active. 2. Automatous. E. स्व, and वहित impelled."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्ववहित",
+            "eid": "43731",
+            "pagenum": 964,
+            "content": "स्ववहित¦ mfn. (-तः-ता-तं) .²1 Alert, active. .²2 Automatous. .E. स्व, and वहित impelled."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्ववहित",
+            "eid": "43535",
+            "pagenum": 888,
+            "content": "स्व-वहित¦ (तः-ता-तं) <i>a.</i> Alert; automatous."
+        }
     ]
 }

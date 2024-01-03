@@ -120,5 +120,43 @@
             "pagenum": 7,
             "content": "अभिचार/¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभिचार",
+            "eid": "4021",
+            "pagenum": 55,
+            "content": "<i>abhicāra</i>¦ °geschlechtliches Vergehen einer Frau, <ls>Sam.</ls> IV, 53. {part=,seq=4075,type=,n=1}"
+        },
+        {
+            "word": "अभिचार",
+            "eid": "4021.1",
+            "pagenum": 55,
+            "content": "<i>abhicārá</i>¦ , so zu akzentuieren. {part=,seq=4076,type=,n=0}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभिचार",
+            "eid": "2493",
+            "pagenum": 44,
+            "content": "अभिचार¦ m. (-रः) Magic for a malevolent purpose, the spells and diagrams of the Atharva Veda and some of the Tantras, supposed to produce mental aberration, love, hatred, loss of feeling or paralysis, and death. E. अभि before चर to go, and घञ् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभिचार",
+            "eid": "2495",
+            "pagenum": 53,
+            "content": "अभिचार¦ m. (-रः) Magic for a malevolent purpose, the spells and diagrams of the <i>Atharva Veda</i> and some of the <i>Tantras,</i> supposed to produce mental aberration, love, hatred, loss of feeling or paralysis, and death. .E. अभि before चर to go, and घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अभिचार",
+            "eid": "2015",
+            "pagenum": 40,
+            "content": "अभि-चार¦ (रः) 1. <i>m.</i> Magic."
+        }
     ]
 }

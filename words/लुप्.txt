@@ -183,5 +183,43 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> लुप्¦ mit व्यव <i>abstreifen, ablegen</i> <ls><ab>ebend.</ab> 6,97</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "लुप्",
+            "eid": "22952",
+            "pagenum": 317,
+            "content": "1. <i>lup</i>¦ mit <i>vyava</i> abstreifen, ablegen, Haravijaya 6, 97. — Mit <i>ud</i> *aufnehmen (in die Gemeinde), <ls>Mahāvy.</ls> 268, 12. {part=,seq=23274,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "लुप्",
+            "eid": "34442",
+            "pagenum": 619,
+            "content": "लुप्¦ r. 4th cl. (लुप्यति) 1. To disturb, to bewilder, to perplex, and confound the understanding. 2. To vanish. (ॡ, औ, ऋ) औलुऌ r. 6th cl. (लुम्पति-ते) 1. To cut, to divide, to cut off or down. 2. To rob. 3. To seize. 4. To suppress. With वि, 1. To break off. 2. To carry away. 3. To destroy."
+        }
+    ],
+    "STC": [
+        {
+            "word": "लुप्",
+            "eid": "17678",
+            "pagenum": 616,
+            "content": "<b>1 LUP-</b>¦ <i>lumpati -te ; lulopa lulupe ; alūlupat</i><i> lopsīya ; lupyate</i> <i>lolupat- lolupyate lopayati</i><i> -te ; lupta- loptum luptvā °lupya</i> -- briser ; s'élancer sur (<ab>acc.</ab>) ; voler, piller, gaspiller ; supprimer, annihiler ; <ab>pass.</ab> être brisé, détruit, confondu ; <ab>caus.</ab> séparer, détacher <lbinfo n='4'/> de (<ab>abl.</ab>) ; enfreindre ; <ab>int.</ab> confondre (l'esprit) ; <ab>a. v.</ab> pillé ; perdu, supprimé, annihilé <lbinfo n='4'/> ; élidé (<ab>gramm.</ab>).  <P><i>lupta-daṇḍaka-</i> <ab>m.</ab> voleur (?).  <P><i>°dharma-kriya-</i> <ab>a.</ab> exclu des lois religieuses, des rites.  <P><i>°piṇḍodaka-kriya-</i> <ab>a.</ab> exclu des rites funèbres. <lbinfo n='4'/>  <P><i>luptopamā-</i> <ab>f.</ab> comparaison elliptique (rhétor.)."
+        },
+        {
+            "word": "लुप्",
+            "eid": "17679",
+            "pagenum": 616,
+            "content": "<b>2 lup-</b>¦ <ab>gramm.</ab> chute d'un suffixe (sans modification de genre et de nombre)."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "लुप्",
+            "eid": "32597",
+            "pagenum": 645,
+            "content": "लुप्¦ (य) लुप्यति 4. <i>a.</i> To disturb, to perplex. (श, ञ, औ, ऌ, प) लुम्पति, ते 6. <i>c.</i> To cut off; to rob."
+        }
     ]
 }

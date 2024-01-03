@@ -222,5 +222,45 @@
             "pagenum": 7,
             "content": "तमस्¦ III. 8〉 <ls>KIR. 3,32</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तमस्",
+            "eid": "14323",
+            "pagenum": 198,
+            "content": "<i>tamas</i>¦ 8. <ls>Kir.</ls> 3, 32. {part=,seq=14551,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तमस्",
+            "eid": "17056",
+            "pagenum": 305,
+            "content": "तमस्¦ n. (-मः) 1. Third of the qualities incident to the state of humanity, the Tama guna, or property of darkness, whence proceed folly, ignorance, mental blindness, worldly delusion, &c. 2. Darkness, gloom. 3. Sin. 4. Sorrow, grief. mn. (-माः-मः) Rahu or the personified ascending node: see राहु. E. तम् to be disturbed, and असुन् Unadi affix; that property by which the mind is troubled, the world perplexed, &c.; also तमस and तम."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तमस्",
+            "eid": "9882",
+            "pagenum": 278,
+            "content": "<b>tamas-</b>¦ <ab>nt.</ab> obscurité, ténèbres (<ab>sg.</ab> ou <ab>pl.</ab>, <ab>ifc.</ab> aussi <i>-a-</i>) ; enfer, région infernale ; éclipse ; obscurité mentale, ignorance, erreur ; celui des trois guṇa (<ab>s. v.</ab>) dont procèdent les éléments <lbinfo n='5'/> grossiers et obscurs de tout être (<ab>cf.</ab> <i>sattva- rajas-</i>).  <P><i>°kāṇḍa-</i> <ab>m.</ab> grande obscurité.  <P><i>tamaḥ-saṃghāta-</i> <ab>m.</ab> obscurité épaisse.  <P><i>°spṛś-</i> <ab>a.</ab> impliquant obscurité.  <P><i>tamo-ghna-</i> <ab>m.</ab> soleil.  <P><i>°niṣṭha-</i> <ab>a.</ab> relatif, subordonné aux ténèbres.  <P><i>°nud-</i> <ab>a.</ab> qui disperse les ténèbres ; <ab>m.</ab> lumière, soleil, lune ; <i>-a-</i> <ab>a.</ab> et <ab>m.</ab> <ab>id.</ab>  <P><i>°paha-</i> <ab>a.</ab> qui chasse les ténèbres, dissipe l'ignorance ; <ab>m.</ab> lune.  <P><i>°bhūta-</i> <ab>a. v.</ab> plongé dans l'obscurité ; ignorant.  <P><i>°vāsas-</i> <ab>nt.</ab> obscurité qui sert de vêtement, qui enveloppe, couvre."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तमस्",
+            "eid": "17073",
+            "pagenum": 367,
+            "content": "तमस्¦ n. (-मः) .²1 The third of the qualities incident to the state of humanity, the <i>Tama</i> <i>guṇa,</i> or property of darkness, whence proceed folly, ignorance, mental blindness, worldly delusion, &c. .²2 Darkness, gloom. .²3 Sin. .²4 Sorrow, grief. mn. (-माः-मः) <i>Rāhu</i> or the personified ascending node: see राहु. .E. तम to be disturbed, and असच् Uṇādi affix; that property by which the mind is troubled, the world perplexed, &c.; also तमम् and तम."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तमस्",
+            "eid": "16544",
+            "pagenum": 324,
+            "content": "तमस्¦ (मः) 5. <i>n.</i> Darkness; ignorance, folly, delusion, sin, sorrow. <i>m.</i> <i>Rāhu,</i> the ascending node."
+        }
     ]
 }

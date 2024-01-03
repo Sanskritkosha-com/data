@@ -309,5 +309,59 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> जाल¦ II. <i>Spinngewebe</i> <ls>DAMAYANTĪK. 175</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "जाल",
+            "eid": "13882",
+            "pagenum": 191,
+            "content": "1. <i>jāla</i>¦ Spinngewebe, <ls>Damayantīk.</ls> 175. {part=,seq=14104,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "जाल",
+            "eid": "16235",
+            "pagenum": 289,
+            "content": "जाल¦ n. (-लं) 1. A net. 2. A window, a lattice, an eyelet or loophole. 3. A multitude, an assemblage. 4. An unblown flower. 5. Pride, arrogance. 6. Magic, conjuring, illusion, supernatural deception m. (-लः) 1. The Kadamba-tree. 2. The young fruit of a gourd or cucumber. f. (-ली) 1. A small cucumber, (Trichosanthes diœca, Rox.) 2. Any medicament or drug. E. जल् to encompass, to hide or screen, affix अण्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "जाल",
+            "eid": "9608",
+            "pagenum": 263,
+            "content": "<b>1 jāla-</b>¦ <ab>a.</ab> aqueux, aquatique."
+        },
+        {
+            "word": "जाल",
+            "eid": "9609",
+            "pagenum": 263,
+            "content": "<b>2 jāla-</b>¦ <ab>nt.</ab> filet, lacs, réseau, maillot, treillis <lbinfo n='3'/> ; fenêtre treillissée ; membrane interdigitale <lbinfo n='4'/> ; crinière de lion ; illusion, artifice ; <ab>ifc.</ab> multitude ; (<ab>qqf.</ab> pour <i>jāta-,</i> espèce) ; <i>-vant-</i> <ab>a.</ab> muni d'un filet, treillissé, grillagé ; rusé.  <P><i>°karman-</i> <ab>nt.</ab> pêche au filet.  <P><i>°kāra-</i> <i>-ka-</i> <ab>m.</ab> araignée.  <P><i>°gavākṣa-</i> <i>-ka-</i> <ab>m.</ab> fenêtre treillissée.  <P><i>°pāda-</i> <ab>m.</ab> oiseau palmipède ; <ab>n.</ab> d'un magicien <lbinfo n='4'/> ; <i>°pāda-bhuja-</i> <ab>a.</ab> muni d'une membrane interdigitale.  <P><i>°pāśa-</i> <ab>m.</ab> <ab>pl.</ab> toile d'araignée.  <P><i>°pura-</i> <ab>nt.</ab> <ab>n.</ab> d'une ville.  <P><i>°baddha-</i> <ab>a. v.</ab> pris au filet.  <P><i>°mārga-</i> <ab>m.</ab> fenêtre.  <P><i>jālākṣa-</i> <ab>m.</ab> <i>jālāmukha-</i> <ab>nt.</ab> = <i>°gavākṣa-.</i>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "जाल",
+            "eid": "1061",
+            "pagenum": 1,
+            "content": "<b>Jāla</b>¦ occurs in the Atharvaveda<sup>1</sup> and the Sūtras<sup>2</sup> in the sense of ‘net.’ Jālaka is used in the Bṛhadāraṇyaka Upaniṣad<sup>3</sup> of a reticulated membrane resembling a woven covering. <F>1) viii. 8. 5. 3 (as used against foes); x. 1, 30.</F> <F>2) Kātyāyana Srauta Sūtra, vii. 4, 7. etc.</F> <F>3) iv. 2, 3.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जाल",
+            "eid": "16264",
+            "pagenum": 348,
+            "content": "जाल¦ n. (-लं) .²1 A net. .²2 A window, a lattice, an eyelet or loophole. .²3 A multitude, an assemblage. .²4 An unblown flower. .²5 Pride, arrogance. .²6 Magick, conjuring, illusion, supernatural deception. m. (-लः) .²1 The <i>Kadamba</i> tree. .²2 The young fruit of a gourd or cucumber. f. (-ली) .²2 A small cucumber, (<bot>Trichosanthes diœca</bot>, Rox.) .²2 Any medicament or drug. .E. जल to encompass, to hide or screen, affix अण्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जाल",
+            "eid": "15731",
+            "pagenum": 306,
+            "content": "जाल¦ (लं) 1. <i>n.</i> A net; a lattice; a multitude; an unblown flower; pride; magic. <i>m.</i> Cadamba tree. <i>f.</i> (ती) A small cucumber."
+        }
     ]
 }

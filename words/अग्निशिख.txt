@@ -133,5 +133,43 @@
             "pagenum": 7,
             "content": "अग्निशिख¦ I. 1. <ab>N. pr.</ab> eines <is>Rākṣasa</is> <ls>KATHĀS. 39,84</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अग्निशिख",
+            "eid": "460",
+            "pagenum": 7,
+            "content": "<i>agniśikha</i>¦ m. *Crocus sativus, <ls>Śrīk.</ls> V, 31. {part=,seq=474,type=,n=1}"
+        },
+        {
+            "word": "अग्निशिख",
+            "eid": "460.1",
+            "pagenum": 7,
+            "content": "<i>Agniśikha</i>¦ 2. e) N. pr. eines Vetāla, <ls>Kathās.</ls> 121, 23. 203 ff.; eines Rākṣasa, <ls>Kathās.</ls> 39, 84. {part=,seq=475,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अग्निशिख",
+            "eid": "300",
+            "pagenum": 6,
+            "content": "अग्निशिख¦ m. (-खः) 1. A lamp. 2. An arrow. 3. A fiery arrow, a rocket. E. The Safflower plant, (Carthamus tinctorius.) mn. (-खः-खं) Safforn, the plant and die. f. (-खा) 1. Flame. 2. A plant. (Gloriosa superba.) 3. A medicinal plant, (Menispermum cordifolium.) E. अग्नि and. शिखा a crest or flame or splendor."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अग्निशिख",
+            "eid": "301",
+            "pagenum": 7,
+            "content": "अग्निशिख¦ m. (-खः) .²1 A lamp. .²2 An arrow. .²3 A fiery arrow, a rocket. .²4 The Safflower plant, (<bot>Carthamus tinctorius</bot>.) mn. (-खः-खं) Saffron, the plant and die. f. (-खा) .²1 Flame. .²2 A plant. (<bot>Gloriosa superba</bot>.) .²3 A medicinal plant, (<bot>Menispermum cordifolium</bot>.) .E. अग्नि and शिखा a crest or flame or splendor."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अग्निशिख",
+            "eid": "252",
+            "pagenum": 6,
+            "content": "अग्नि-शिख¦ (खः-खं) 1. <i>m. n.</i> Saffron; <i>m.</i> Lamp; arrow; rocket; 1. <i>f.</i> (खा) flame."
+        }
     ]
 }

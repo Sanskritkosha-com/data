@@ -132,5 +132,29 @@
             "pagenum": 5,
             "content": "भेड¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Schafbock</i> <ls>H. 1277.</ls> भेड्र <ls>TRIK. 2, 9, 24</ls> (s. die Corrigg.); vgl. एड . <div n='2'>— b) <i>Floss, Nachen</i> <ls>WILSON</ls>; vgl. भेल . <div n='2'>— c) N. pr. eines Arztes <ls>Verz. d. B. H. No. 940. 941. 947. 958.</ls> <ls>Verz. d. Oxf. H. 310,a,16. 317,b,N. 2. 358,a,1.</ls> eines Lexicographen <ls n='Verz. d. Oxf. H.'>352,a,19.</ls> eines <is>Ṛṣi</is> <ls>VYUTP. 90.</ls> <ls>WILSON</ls>; vgl. भेल . <div n='1'>— 2) <lex>f.</lex> ई <div n='2'> a) <i>Mutterschaf</i> <ls>ŚKDR.</ls> <ls>WILSON.</ls> <div n='2'>— b) N. pr. einer der Mütter im Gefolge des <is>Skanda</is> (neben एडी und समेडी) <ls>MBH. 9, 2631.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "भेड",
+            "eid": "29791",
+            "pagenum": 537,
+            "content": "भेड¦ m. (-डः) 1. A ram, a sheep. 2. A raft, a float. 3. The name of a saint. f. (-डी) An ewe. E. भिल् a Sautra root, to separate, aff. अच्, and ल changed to ड; also with कन् added, भेडक ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भेड",
+            "eid": "28872",
+            "pagenum": 627,
+            "content": "भेड¦ m. (-डः) .²1 A ram, a sheep. .²2 A raft, a float. .²3 The name of a saint. f. (-डी) A ewe. .E. भिल a <i>Sautra</i> root, to separate, aff. अच्, and ल changed to ड; also with कन् added, भेडक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भेड",
+            "eid": "28385",
+            "pagenum": 562,
+            "content": "भेड¦ (डः) 1. <i>m.</i> A ram, a sheep; a raft; name of a sage."
+        }
     ]
 }

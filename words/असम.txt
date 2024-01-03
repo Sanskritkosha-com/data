@@ -149,5 +149,37 @@
             "pagenum": 5,
             "content": "2. असम¦ <div n='1'> 1) <ls>Spr. 1365.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "असम",
+            "eid": "4516",
+            "pagenum": 77,
+            "content": "असम¦ mfn. (-मः-मा-मं) 1. Unequalled, individual, without a fellow or equal. 2. Uneven, unequal either in surface or number. m. (-मः) A name of Buddha or a Buddha. E. अ neg. and सम like, same."
+        }
+    ],
+    "STC": [
+        {
+            "word": "असम",
+            "eid": "4680",
+            "pagenum": 101,
+            "content": "<b>a-sama-</b>¦ <ab>a.</ab> inégal ; incomparable ; <i>-tva-</i> <ab>nt.</ab> conduite déplaisante.  <P><i>°kusuma-śara- °bāṇa- °sāyaka-</i> <ab>m.</ab> Kāma.  <P><i>°śīla-</i> <ab>a.</ab> qui ne va pas de pair avec, indigne de (<ab>instr.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "असम",
+            "eid": "4518",
+            "pagenum": 94,
+            "content": "असम¦ mfn. (-मः-मा-मं) .²1 Unequalled, individual, without a fellow or equal. .²2 Uneven, unequal either in surface or number. m. (-मः) A name of <i>Buddha</i> or a <i>Buddha.</i> .E. अ neg. and सम like, same."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असम",
+            "eid": "3898",
+            "pagenum": 74,
+            "content": "अ-सम¦ (मः) 1. <i>m.</i> Buddha. <i>a.</i> Unequal, unparalleled."
+        }
     ]
 }

@@ -269,5 +269,57 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> मह¦ V. 2〉 nach <ls>HILLEBRANDT</ls> महर्."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मह",
+            "eid": "21339",
+            "pagenum": 294,
+            "content": "1. <i>maha</i>¦ 2. nach Hillebrandt <i>mahar</i>. {part=,seq=21634,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मह",
+            "eid": "30845",
+            "pagenum": 556,
+            "content": "मह¦ m. (-हः) 1. A festival. 2. Light, lustre. 3. A buffalo. 4. Sacrifice, oblation. f. (-हा) 1. A cow. 2. A plant, (Hedysarum lagopodioides.) E. मह् to worship, aff. घञ्: see महस and महि ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मह",
+            "eid": "16600",
+            "pagenum": 556,
+            "content": "<b>1 maha-</b>¦ <ab>m.</ab> fête, festival, <ab>not.</ab> du printemps."
+        },
+        {
+            "word": "मह",
+            "eid": "16601",
+            "pagenum": 556,
+            "content": "<b>2 maha-</b>¦ <ab>iic.</ab>, <ab>v.</ab> <i>mahā-</i> in fin. ; <i>-ī̆-</i> <ab>s. v.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मह",
+            "eid": "29803",
+            "pagenum": 648,
+            "content": "मह¦ r. 1st and 10th cls. (महति महयति) To revere, to worship, to adore. (इ,) महि r. 1st cl. (मंहते) To grow or increase. r. 10th cl. (मंहयति) .²1 To speak. .²2 To shine."
+        },
+        {
+            "word": "मह",
+            "eid": "29804",
+            "pagenum": 648,
+            "content": "मह¦ m. (-हः) .²1 A festival. .²2 Light, lustre. .²3 A buffalo. .²4 Sacrifice, oblation. f. (-हा) .²1 A cow. .²2 A plant, (<bot>Hedysarum lagopodioides</bot>.) .E. मह to worship, aff. घञ् : see महस and महि."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मह",
+            "eid": "29326",
+            "pagenum": 581,
+            "content": "मह¦ (हः) 1. <i>m.</i> A festival; light; a buffalo; a sacrifice. <i>f.</i> A cow; a plant (Hedysarum legipodioides)."
+        }
     ]
 }

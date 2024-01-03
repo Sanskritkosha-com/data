@@ -45,5 +45,29 @@
             "pagenum": 5,
             "content": "खेड¦ = खेट <div n='1'> 1) <ls>ŚATR. 14, 309.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "खेड",
+            "eid": "28607",
+            "pagenum": 394,
+            "content": "<i>Kheḍa</i>¦ N. einer Ortschaft (<i>mahāsthāna</i>), <ls>Prabandh.</ls> 272, 3. {part=N,seq=28978,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "खेड",
+            "eid": "12886",
+            "pagenum": 226,
+            "content": "खेड¦ r. 10th cl. (खेडयति) To eat."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खेड",
+            "eid": "12892",
+            "pagenum": 274,
+            "content": "खेड¦ r. 10th cl. (खेडयति) To eat."
+        }
     ]
 }

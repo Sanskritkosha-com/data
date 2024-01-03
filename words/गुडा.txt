@@ -43,5 +43,21 @@
             "pagenum": 356,
             "content": "¦ <bot>Euphorbia antiquorum</bot>, <ls>Car. vii, 10</ls><info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गुडा",
+            "eid": "12328",
+            "pagenum": 169,
+            "content": "<i>guḍā</i>¦ <ls>H</ls> 41, 53 °Pferdegeschirr, Zaumzeug? {part=,seq=12517,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "गुडा",
+            "eid": "8803",
+            "pagenum": 229,
+            "content": "<b>guḍā-</b>¦ <ab>f.</ab> boule.  <P><i>°keśa-</i> (aux cheveux touffus) <ab>m.</ab> Arjuna.  <P><i>guḍālaka-</i> <ab>m.</ab> <ab>nt.</ab> touffe, boucle de cheveux."
+        }
     ]
 }

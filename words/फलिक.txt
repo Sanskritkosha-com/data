@@ -29,5 +29,21 @@
             "pagenum": 7,
             "content": "°फलिक¦ <lex>Adj.</lex> <i>den Lohn von — geniessend</i> <ls>MBH. 12,320,4</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "फलिक",
+            "eid": "19931",
+            "pagenum": 275,
+            "content": "<i>-phalika</i>¦ Adj. den Lohn von... genießend, <ls>MBh.</ls> 12, 320, 4. {part=,seq=20207,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "फलिक",
+            "eid": "15801",
+            "pagenum": 503,
+            "content": "<b>phalika-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui reçoit une récompense <lbinfo n='5'/> de."
+        }
     ]
 }

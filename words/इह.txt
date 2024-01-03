@@ -159,5 +159,37 @@
             "pagenum": 7,
             "content": "इह¦ <div n='1'> 2) <i>jetzt, im Augenblick</i> <ls>Spr. (II) 6359.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "इह",
+            "eid": "6435",
+            "pagenum": 110,
+            "content": "इह¦ ind. 1. Here, in this place. 2. Now, at this time."
+        }
+    ],
+    "STC": [
+        {
+            "word": "इह",
+            "eid": "5947",
+            "pagenum": 133,
+            "content": "<b>iha</b>¦ <ab>adv.</ab> ici ; dans ce monde-ci ; dans ce cas ; maintenant.  <P><i>°loka-</i> <ab>m.</ab> ce monde-ci.  <P><i>°stha-</i> <ab>a.</ab> situé ici.  <P><i>ihārtha-</i> <ab>a.</ab> utile pour ce monde ; <i>-in-</i> qui souhaite les biens de ce monde."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "इह",
+            "eid": "6437",
+            "pagenum": 134,
+            "content": "इह¦ <i>ind.</i> .²1 Here, in this place. .²2 Now, at this time."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "इह",
+            "eid": "5824",
+            "pagenum": 109,
+            "content": "इह¦ <i>adv.</i> Here; now."
+        }
     ]
 }

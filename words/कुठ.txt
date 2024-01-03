@@ -82,5 +82,49 @@
             "pagenum": 5,
             "content": "कुठ¦ <ls>HALĀY. 2, 22.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुठ",
+            "eid": "10765",
+            "pagenum": 148,
+            "content": "*<i>kuṭha</i>¦ m. Baum, <ls>S</ls> I, 209, 13 (Ko. in der Etymologie: <i>kuṭhān vṛkṣān iyarti gacchatīti kuṭhāraḥ</i>); 567, 12 v.u. (Ko. desgl.). {part=,seq=10924,type=*,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुठ",
+            "eid": "10653",
+            "pagenum": 186,
+            "content": "कुठ(इ,)कुठि¦ r. 1st cl. (कुण्ठति) To be idle. r. 10th cl. (कुण्ठयति) To surround; अप् is usually prefixed."
+        },
+        {
+            "word": "कुठ",
+            "eid": "10654",
+            "pagenum": 186,
+            "content": "कुठ¦ m. (-ठः) A tree. E. कु the earth, and स्था to abide, ड affix; earthabiding; the deriv. is irregular, and is sometimes written कुट, derived from कुट् to be crooked, to bend or wave, affix क."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुठ",
+            "eid": "10659",
+            "pagenum": 227,
+            "content": "कुठ¦ (इ,) कुठि 1st cl. (कुण्ठति) To be idle. r. 10th cl. (कुण्ठयति) To surround; अप् is usually prefixed."
+        },
+        {
+            "word": "कुठ",
+            "eid": "10660",
+            "pagenum": 227,
+            "content": "कुठ¦ m. (-ठः) A tree. .E. कु the earth, and स्था to abide, ड affix; earth-abiding; the deriv. is irregular, and is sometimes written कुट, derived from कुट to be crooked, to bend or wave, affix क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुठ",
+            "eid": "10103",
+            "pagenum": 192,
+            "content": "कुठ¦ (ठः) 1. <i>m.</i> A tree."
+        }
     ]
 }

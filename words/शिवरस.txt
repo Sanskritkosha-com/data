@@ -29,5 +29,29 @@
             "pagenum": 7,
             "content": "शिवरस¦ <lex>m.</lex> <i>drei Tage altes Reiswasser</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "शिवरस",
+            "eid": "40281",
+            "pagenum": 720,
+            "content": "शिवरस¦ m. (-सः) The water of boiled-rice or pulse three days old, and undergoing spontaneous fermentation."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शिवरस",
+            "eid": "38431",
+            "pagenum": 846,
+            "content": "शिवरस¦ m. (-सः) The water of boiled rice or pulse three days old, and undergoing spontaneous fermentation. .E. शिव ease, and रस juice."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शिवरस",
+            "eid": "38076",
+            "pagenum": 765,
+            "content": "शिव-रस¦ (सः) 1. <i>m.</i> Whey of boiled rice, or pulse when fermented."
+        }
     ]
 }

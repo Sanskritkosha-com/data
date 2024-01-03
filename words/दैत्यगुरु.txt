@@ -36,5 +36,37 @@
             "pagenum": 3,
             "content": "दैत्यगुरु¦ (दै° + गुरु) <lex>m.</lex> <i>der Lehrer der</i> <is>Daitya</is>, Bein. <is>Śukra's</is>; <i>der Planet Venus</i> <ls>AK. 1, 1, 2, 26.</ls> <ls>H. 120.</ls> <ls>VARĀH. BṚH. S. 104, 34.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दैत्यगुरु",
+            "eid": "15712",
+            "pagenum": 216,
+            "content": "<i>daityaguru</i>¦ m. ° = Sperma, Śṛṅgāratilaka (ed. Bombay 1894) 8. Danach ist die Übersetzung bei Schöhl, Die Strophen der Mādhavānalakathā, Halle a. d. S. 1904, Nr. 101 (S. 26) zu berichtigen, wo außerdem <i>priyeṇa</i> st. <i>priye na</i> zu lesen ist. {part=,seq=15954,type=,n=7}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दैत्यगुरु",
+            "eid": "19743",
+            "pagenum": 354,
+            "content": "दैत्यगुरु¦ m. (-रुः) A name of SUKRA, regent of Venus. E. दैत्य, and गुरु a teacher; the spiritual preceptor of the Daityas, or Titans."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दैत्यगुरु",
+            "eid": "19757",
+            "pagenum": 425,
+            "content": "दैत्यगुरु¦ m. (-रुः) A name of ŚUKRA, regent of <i>Venus.</i> .E. दैत्य and गुरु a teacher; the spiritual preceptor of the <i>Daityas,</i> or <i>Titans.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दैत्यगुरु",
+            "eid": "19233",
+            "pagenum": 378,
+            "content": "दैत्य-गुरु¦ (रुः) 2. <i>m. Sukra</i> or Venus."
+        }
     ]
 }

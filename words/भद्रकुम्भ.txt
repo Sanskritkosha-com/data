@@ -36,5 +36,37 @@
             "pagenum": 5,
             "content": "भद्रकुम्भ¦ (भद्र + कु°) <lex>m.</lex> <i>ein Krug mit heiligen Wasser</i> <ls>AK. 2, 8, 1, 32.</ls> <ls>H. 718.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "भद्रकुम्भ",
+            "eid": "20440",
+            "pagenum": 282,
+            "content": "*<i>bhadrakumbha</i>¦ m., Krug mit geweihtem Wasser, <ls>S</ls> II, 315, 9. {part=,seq=20721,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भद्रकुम्भ",
+            "eid": "29077",
+            "pagenum": 524,
+            "content": "भद्रकुम्भ¦ m. (-म्भः) A golden jar filled with water from a holy place, or with the water of the Ganges and used especially at the consecration of a king. E. भद्र auspicious and कुम्भ a water jar."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भद्रकुम्भ",
+            "eid": "28202",
+            "pagenum": 612,
+            "content": "भद्रकुम्भ¦ m. (-म्भः) A golden jar filled with water from a holy place, or with the water of the Ganges, and used especially at the consecration of a king. .E. भद्र auspicious, and कुम्भ a water jar."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भद्रकुम्भ",
+            "eid": "27714",
+            "pagenum": 549,
+            "content": "भद्र-कुम्भ¦ (म्भः) 1. <i>m.</i> A golden jar used at the consecration of a king."
+        }
     ]
 }

@@ -59,5 +59,21 @@
             "pagenum": 7,
             "content": "असंस्कार¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असंस्कार",
+            "eid": "6061",
+            "pagenum": 83,
+            "content": "<i>asaṃskāra</i>¦ m. keine Einweihung, <ls>Pār. Gṛhy.</ls> 2, 5, 42. {part=,seq=6144,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "असंस्कार",
+            "eid": "4615",
+            "pagenum": 100,
+            "content": "<b>a-saṃskāra-</b>¦ <ab>m.</ab> manque d'ornements, état primitif."
+        }
     ]
 }

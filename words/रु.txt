@@ -289,5 +289,69 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> रु¦ mit वि, °रुत etwa <i>zerschlagen</i> <ls><ab>ebend.</ab> 29,38</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "रु",
+            "eid": "22683",
+            "pagenum": 313,
+            "content": "1. <i>ru</i>¦ mit <i>ā</i> Geschrei usw. erfüllen, <ls>Jātakam.</ls> 21, 7. {part=,seq=23000,type=,n=2}"
+        },
+        {
+            "word": "रु",
+            "eid": "22684",
+            "pagenum": 313,
+            "content": "3. <i>ru</i>¦ mit <i>vi, °ruta</i> etwa zerschlagen, <ls>Jātakam.</ls> 29, 38. {part=,seq=23001,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "रु",
+            "eid": "33717",
+            "pagenum": 605,
+            "content": "रु(टु,)टुरु¦ r. 2nd cl. (रौति) 1. To sound. 2. To make a particular sort of sound. (ङ्) रुङ् r. 1st. cl. (रवते) 1. To go, to move. 2. To hurt, to injure or kill. 3. To speak. 4. To be angry."
+        },
+        {
+            "word": "रु",
+            "eid": "33718",
+            "pagenum": 606,
+            "content": "रु¦ m. (-रुः) 1. War, battle. 2. Noise, sound. f. (-रुः) 1. Fear, alarm. 2. Cutting, dividing. E. रु to sound, aff. क्विप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "रु",
+            "eid": "17422",
+            "pagenum": 606,
+            "content": "<b>RU-</b>¦ <i>rauti ruvati ravati -te ; rurāva ; arūruvat ;</i><i> roravīti rorūyate</i> <i>-ti rāvayati ; rutarotum</i> <lbinfo n='5'/> -- crier, hurler, aboyer, faire du bruit (dit aussi d'oiseaux, d'abeilles, etc.) ; <ab>caus.</ab> faire crier ; <ab>int.</ab> crier fort."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "रु",
+            "eid": "32374",
+            "pagenum": 706,
+            "content": "रु¦ (टु) टुरु r. 2nd cl. (रौति) To sound, to make a particular sort of sound. (ड,) रुङ् r. 1st cl. (रवते) .²1 To go, to move. .²2 To hurt, to injure or kill. .²3 To speak. .²4 To be angry."
+        },
+        {
+            "word": "रु",
+            "eid": "32375",
+            "pagenum": 706,
+            "content": "रु¦ m. (रुः) .²1 War, battle. .²2 Noise, sound. f. (रुः) .²1 Fear, alarm. .²2 Cutting, dividing. .E. रु to sound, aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रु",
+            "eid": "31948",
+            "pagenum": 631,
+            "content": "रु¦ (ल) रौति 2. <i>a.</i> To sound. (ङ) रवत 1. <i>d.</i> To go; hurt; speak."
+        },
+        {
+            "word": "रु",
+            "eid": "31949",
+            "pagenum": 632,
+            "content": "रु¦ (रुः) 1. <i>m.</i> War; noise. <i>f.</i> Alarm."
+        }
     ]
 }

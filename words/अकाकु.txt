@@ -21,5 +21,21 @@
             "pagenum": 7,
             "content": "अकाकु¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकाकु",
+            "eid": "80",
+            "pagenum": 2,
+            "content": "<i>akāku</i>¦ Adj. unverändert (von der Stimme), <ls>Śiś.</ls> 11, 1. {part=,seq=84,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकाकु",
+            "eid": "39",
+            "pagenum": 2,
+            "content": "<b>a-kāku-</b>¦ <ab>a.</ab> (voix) inchangée."
+        }
     ]
 }

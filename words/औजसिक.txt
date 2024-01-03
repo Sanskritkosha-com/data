@@ -53,5 +53,37 @@
             "pagenum": 1,
             "content": "औजसिक/¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> ई <i>mit Kraft, Energie zu Werke gehend</i> <ls>P. 4, 4, 27.</ls> शूरः <ls>Sch.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "औजसिक",
+            "eid": "9373",
+            "pagenum": 129,
+            "content": "*<i>aujasika</i>¦ Adj. = <i>tejasvin</i>, <ls>H</ls> 43, 101. {part=,seq=9497,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "औजसिक",
+            "eid": "8370",
+            "pagenum": 144,
+            "content": "औजसिक¦ m. (-कः) A hero. E. ओजस् strength, ठक् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "औजसिक",
+            "eid": "8374",
+            "pagenum": 175,
+            "content": "औजसिक¦ m. (-कः) A hero. .E. ओजस् strength, ठक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "औजसिक",
+            "eid": "7802",
+            "pagenum": 145,
+            "content": "औजसिक¦ (कः) 1. <i>m.</i> A hero."
+        }
     ]
 }

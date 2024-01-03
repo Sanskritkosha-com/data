@@ -89,5 +89,37 @@
             "pagenum": 5,
             "content": "अमाय¦ <ls>AIT. BR. 8, 23.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अमाय",
+            "eid": "4440",
+            "pagenum": 60,
+            "content": "<i>amāya</i>¦ Adj. °ohne Betrug, ehrlich (Kampf), <ls>Yudh.</ls> 7, 125; 8, 30; ohne Hinterlist, <ls>S</ls> I, 412, 3. {part=,seq=4497,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अमाय",
+            "eid": "2870",
+            "pagenum": 50,
+            "content": "अमाय¦ mfn. (-यः-या-यं) 1. True, wise. 2. Sincere, guileless, free from error or deceit. f. (-या) 1. Absence of delusion, knowledge of the truth. 2. Sincerity, honesty. E. अ neg. माया deceit, delusion."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अमाय",
+            "eid": "2872",
+            "pagenum": 61,
+            "content": "अमाय¦ mfn. (-यः-या-यं) .²1 True, wise. .²2 Sincere, guileless, free from error or deceit. f. (-या) .²1 Absence of delusion, knowledge of the truth. .²2 Sincerity, honesty. .E. अ neg. माया deceit, delusion."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अमाय",
+            "eid": "2376",
+            "pagenum": 47,
+            "content": "अ-माय¦ (यः-या-यं) <i>a.</i> Sincere, without guile. Also अमायिक, अमायिन्."
+        }
     ]
 }

@@ -85,5 +85,29 @@
             "pagenum": 7,
             "content": "इम¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "इम",
+            "eid": "7732",
+            "pagenum": 106,
+            "content": "<i>ima</i>¦ , <i>imeṣu</i> <ls>Vajracch.</ls> 22, 9. 13. 17; 23, 2. {part=,seq=7840,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "इम",
+            "eid": "5923",
+            "pagenum": 132,
+            "content": "<b>ima-</b>¦ <ab>v.</ab> <i>idam-.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "इम",
+            "eid": "44871",
+            "pagenum": 918,
+            "content": "इम¦ (मः-मा-मं) <i>a.</i> Attaining, going to."
+        }
     ]
 }

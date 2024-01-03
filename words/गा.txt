@@ -315,5 +315,75 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> गा¦ II. 5. — Mit अव II. °गीत <i>abgeschwächt</i> (शोक) <ls>JĀTAKAM. 2</ls>. <i>zum Ueberdruss geworden</i> <ls n='JĀTAKAM.'>10,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गा",
+            "eid": "12242",
+            "pagenum": 168,
+            "content": "1. <i>gā</i>¦ <i>jagāyāt</i> <ls>ṚV. 10, 28, 1.</ls> — Mit <i>adhi</i> <ls>Kaus.</ls> <i>adhyajīgapat</i>, <ls>Hem. Par.</ls> 1, 398. — Mit <i>ava</i> verstehen, wissen, <ls>Kir.</ls> 12, 34. — Mit <i>pra</i> 2. lies: 27, 10 ff. — Mit <i>vi</i> dazwischen treten, trennen; mit Akk. <ls>Śāṅkh. Br.</ls> 13, 9. {part=,seq=12430,type=,n=7}"
+        },
+        {
+            "word": "गा",
+            "eid": "12243",
+            "pagenum": 168,
+            "content": "3. <i>gā</i>¦ auch sagen, sprechen, -x- zu jemand (Akk.), Campaka 126. 137. 338. 438. 472; <ls>Uttamac.</ls> 107. 285. — Mit <i>ava, °gīta</i> abgeschwächt (<i>śoka</i>), <ls>Jātakam.</ls> 2; zum Überdruß geworden, 10, 1. {part=,seq=12431,type=,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गा",
+            "eid": "13422",
+            "pagenum": 236,
+            "content": "गा¦ r. 1st cl. (ङ) गाङ् (गाते) To go, to go to or towards. r. 3rd. cl. but restricted to the Vedas. (जगाति) To praise."
+        },
+        {
+            "word": "गा",
+            "eid": "13423",
+            "pagenum": 236,
+            "content": "गा¦ f. (-गा) A verse or metrical composition. E. गै to sing, क and टाप् affixes: see ग."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गा",
+            "eid": "8737",
+            "pagenum": 227,
+            "content": "<b>1 GĀ-</b>¦ <i>jigāti -te ; agāt ; jigīṣati</i> -- aller, venir ; s'approcher de (<ab>acc.</ab> <ab>loc.</ab>), échoir à (<ab>dat.</ab>), être dû à (<ab>acc.</ab>) ; tomber (dans un état), subir."
+        },
+        {
+            "word": "गा",
+            "eid": "8738",
+            "pagenum": 227,
+            "content": "<b>2 GĀ-</b>¦ <i>gāyati -te ; jagau jage ; agāsīt ; gāsyati ; gīyate</i> <i>jegīyate gāpayati ; gīta- gātum gītvā °gīya</i> -- chanter, célébrer en chantant ; <ab>pass.</ab> être chanté, invoqué ; <ab>caus.</ab> faire chanter ou célébrer."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गा",
+            "eid": "13430",
+            "pagenum": 287,
+            "content": "गा¦ r. 1st cl. (ङ) गाङ् (गाते) To go, to go to or towards. r. 3rd cl. <i>but restricted to the Vedas</i> (जगाति) To praise."
+        },
+        {
+            "word": "गा",
+            "eid": "13431",
+            "pagenum": 287,
+            "content": "गा¦ f. (-गा) A verse or metrical composition. .E. गै to sing, क and टाप् affix: see ग."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गा",
+            "eid": "12886",
+            "pagenum": 250,
+            "content": "गा¦ (-ङ) गाते 1. <i>d.</i> To go. (लि) जगाति 3rd restricted to the <i>Vedas.</i>"
+        },
+        {
+            "word": "गा",
+            "eid": "12887",
+            "pagenum": 250,
+            "content": "गा¦ (गा) 1. <i>f.</i> A verse."
+        }
     ]
 }

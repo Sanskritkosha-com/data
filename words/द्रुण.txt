@@ -115,5 +115,41 @@
             "pagenum": 5,
             "content": "द्रुण¦ <div n='1'> 3) <ls>HALĀY. 2, 309.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "द्रुण",
+            "eid": "19980",
+            "pagenum": 358,
+            "content": "द्रुण¦ r. 6th cl. (द्रुणति) 1. To hurt, to injure. 2. To go, to move, to approach. 3. To bind, to make crooked or curved. तुदा० कुटा० प० अक सेट् ।"
+        },
+        {
+            "word": "द्रुण",
+            "eid": "19981",
+            "pagenum": 358,
+            "content": "द्रुण¦ m. (-णः) 1. A scorpion. 2. A bee. 3. A rogue, a cheat. f. (-णा) A bow-string. n. (-णं) 1. A bow. 2. A sword, a scimitar. E. द्रुण् to injure, affix क । द्रुणति हिनस्ति कुटिलीभवति वा द्रुण-क ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "द्रुण",
+            "eid": "19994",
+            "pagenum": 430,
+            "content": "द्रुण¦ r. 6th cl. (द्रुणति) .²1 To hurt, to injure. .²2 To go, to move, to approach. .²3 To bind, to make crooked or curved."
+        },
+        {
+            "word": "द्रुण",
+            "eid": "19995",
+            "pagenum": 430,
+            "content": "द्रुण¦ m. (-णः) .²1 A scorpion. .²2 A bee. .²3 A rogue, a cheat. f. (-णा) A bow string. n. (-णं) A bow. .²2 A sword, a scimitar. .E. द्रुण to injure, affix क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "द्रुण",
+            "eid": "19480",
+            "pagenum": 383,
+            "content": "द्रुण¦ (णः) 1. <i>m.</i> A scorpion; a bee; a rogue. <i>f.</i> A bow-string. <i>n.</i> A curved sword, a scimitar."
+        }
     ]
 }

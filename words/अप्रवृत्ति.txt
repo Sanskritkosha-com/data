@@ -105,5 +105,43 @@
             "pagenum": 7,
             "content": "अप्रवृत्ति¦ I. 3. 4. <i>das Fehlen einer Nachricht</i> auch <ls>R. ed. Bomb. 4,53,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अप्रवृत्ति",
+            "eid": "3839",
+            "pagenum": 53,
+            "content": "<i>apravṛtti</i>¦ Adj. untätig, <ls>Kauṣ. Up.</ls> 4, 8. {part=,seq=3891,type=,n=1}"
+        },
+        {
+            "word": "अप्रवृत्ति",
+            "eid": "3839.1",
+            "pagenum": 53,
+            "content": "<i>apravṛtti</i>¦ f. 3. das Fehlen einer Nachricht über (Gen.), <ls>R. Gorr. 1, 4, 71;</ls> ed. Bomb. 4, 53, 15. {part=,seq=3892,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अप्रवृत्ति",
+            "eid": "2351",
+            "pagenum": 41,
+            "content": "अप्रवृत्ति¦ f. (-त्तिः) 1. Abstaining from action, inertion. 2. Non-excitement. 3. (In Medicine) Suppression of the natural evacuations, constipation, ischury, &c. E. अ neg. प्रवृत्ति active exertion."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अप्रवृत्ति",
+            "eid": "2353",
+            "pagenum": 50,
+            "content": "अप्रवृत्ति¦ f. (-त्तिः) .²1 Abstaining from action, inertion. .²2 Nonexcitement. .²3 (In Medicine) Suppression of the natural evacuations, constipation, ischury, &c. .E. अ neg. प्रवृत्ति active exertion."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अप्रवृत्ति",
+            "eid": "1924",
+            "pagenum": 39,
+            "content": "अ-प्रवृत्ति¦ (त्तिः) 2. <i>f.</i> Inertion."
+        }
     ]
 }

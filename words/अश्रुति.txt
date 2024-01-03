@@ -81,5 +81,27 @@
             "pagenum": 7,
             "content": "अश्रुति¦ I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अश्रुति",
+            "eid": "5898",
+            "pagenum": 81,
+            "content": "<i>aśruti</i>¦ auch: das Nichthören. Akk. mit <i>abhinī</i> tun, als wenn man etwas nicht gehört hätte, <ls>Uttarar.</ls> 54, 4 (69, 11). {part=,seq=5978,type=,n=3}"
+        },
+        {
+            "word": "अश्रुति",
+            "eid": "28042",
+            "pagenum": 386,
+            "content": "1. <i>aśruti</i>¦ f. 3. °das Nichthören, <ls>Uttarar.</ls> p. 81, Z. 3 ed. <ls>Lakṣmaṇasūri</ls> <i>(aśrutim abhinīya)</i>. {part=N,seq=28413,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अश्रुति",
+            "eid": "4561",
+            "pagenum": 98,
+            "content": "<b>a-śruti-</b>¦ <ab>f.</ab> fait de ne pas entendre, oubli.  <P><i>°virodhin-</i> <ab>a.</ab> non en contradiction avec la śruti.  <P><i>aśrutī-patha-</i> <ab>m.</ab> voie de l'oubli."
+        }
     ]
 }

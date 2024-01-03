@@ -197,5 +197,27 @@
             "pagenum": 7,
             "content": "आनर्त¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आनर्त",
+            "eid": "6977",
+            "pagenum": 95,
+            "content": "<i>ānarta</i>¦ 1. c) = das nördliche Kāṭhiavāḍ (nach Bühler). {part=,seq=7069,type=,n=1}"
+        },
+        {
+            "word": "आनर्त",
+            "eid": "6977.1",
+            "pagenum": 95,
+            "content": "<i>ānarta</i>¦ m. °Tanz, <ls>S</ls> I, 179, 4; II, 228, 4. {part=,seq=7070,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आनर्त",
+            "eid": "5241",
+            "pagenum": 116,
+            "content": "<b>ānarta-</b>¦ <ab>m.</ab> fils de Śaryāti ; <ab>pl.</ab> peuple et région du Gujerat (autre nom du Saurāṣṭra).  <P><i>°sat-kṛta-</i> <ab>a. v.</ab> fêté par les Ānarta."
+        }
     ]
 }

@@ -170,5 +170,37 @@
             "pagenum": 7,
             "content": "तलिन¦ III. 2〉 <ls>DHARMAŚARM. 5,78</ls>. <ls n='DHARMAŚARM.'>7,59</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तलिन",
+            "eid": "14411",
+            "pagenum": 199,
+            "content": "<i>talina</i>¦ 2. <ls>Dharmaśarm.</ls> 5, 78; 7, 59. {part=,seq=14640,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तलिन",
+            "eid": "17201",
+            "pagenum": 308,
+            "content": "तलिन¦ mfn. (-नः-ना-नं) 1. Separate, having spaces or interstices. 2. Clear, clean. 3. Small, little. 4. Delicate, thin, spare. 5. below, situated under or underneath. n. (-नं) A bed, a couch or cot. E. तन् to fix or be fixed, Unadi affix इनन्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तलिन",
+            "eid": "17218",
+            "pagenum": 370,
+            "content": "तलिन¦ mfn. (-नः-ना-नं) .²1 Separate, having spaces or interstices. .²2 Clear, clean. .²3 Small, little. .²4 Delicate, thin, spare. .²5 Below, situated under or underneath. n. (-नं) A bed, a couch or cot. .E. तल to fix or be fixed, Uṇādi affix इनन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तलिन",
+            "eid": "16690",
+            "pagenum": 327,
+            "content": "तलिन¦ (नः-ना-नं) <i>a.</i> Separate, having interstices; neat; small; thin; below. <i>n.</i> A bed, a cot."
+        }
     ]
 }

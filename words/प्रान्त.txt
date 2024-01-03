@@ -131,5 +131,45 @@
             "pagenum": 7,
             "content": "प्रान्त¦ IV. <lex>Adj.</lex> <i>an der Grenze gelegen, fern</i> <ls>MAHĀVY. 149,2</ls>. <ls>DIVYĀVAD. 188,15</ls>. <ls n='DIVYĀVAD.'>312,9</ls>. <ls n='DIVYĀVAD.'>344,10</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रान्त",
+            "eid": "19768",
+            "pagenum": 272,
+            "content": "<i>prānta</i>¦ Adj. an der Grenze gelegen, fern, <ls>Mahāvy.</ls> 149, 2; <ls>Divyāvad.</ls> 188, 15; 312, 9; 344, 10. {part=,seq=20043,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रान्त",
+            "eid": "27888",
+            "pagenum": 504,
+            "content": "प्रान्त¦ m. (-न्तः) Edge, margin, border, end. E. प्र before, अन्त end."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रान्त",
+            "eid": "15606",
+            "pagenum": 495,
+            "content": "<b>prānta-</b>¦ <ab>m.</ab> <ab>nt.</ab> bord, marge, extrémité ; bout, pointe, arrière-train (d'un char) ; <ab>iic.</ab> à la fin, finalement.  <P><i>°nivāsin-</i> <ab>a.</ab> qui habite près de la frontière.  <P><i>°virasa-</i> <ab>a.</ab> qui ne laisse pas de goût à la fin.  <P><i>°vṛti-</i> <ab>f.</ab> horizon."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रान्त",
+            "eid": "27090",
+            "pagenum": 588,
+            "content": "प्रान्त¦ m. (-न्तः) Edge, margin, border, end. .E. प्र before अन्त end."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रान्त",
+            "eid": "26590",
+            "pagenum": 527,
+            "content": "प्रा_न्त¦ (न्तः) 1. <i>m.</i> Edge, border; end."
+        }
     ]
 }

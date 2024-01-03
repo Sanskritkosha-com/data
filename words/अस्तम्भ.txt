@@ -49,5 +49,27 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अस्तम्भ¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अस्तम्भ",
+            "eid": "6344",
+            "pagenum": 87,
+            "content": "2. <i>astambha</i>¦ Adj. (f. <i>ā</i>) auch: ohne Pfeiler, <ls>Ragh.</ls> 1, 41. {part=,seq=6430,type=,n=2}"
+        },
+        {
+            "word": "अस्तम्भ",
+            "eid": "28066",
+            "pagenum": 386,
+            "content": "*<i>astambha</i>¦ m. °das Freisein von Aufgeblasenheit, <ls>Kauṭ.</ls> 15, 11. {part=N,seq=28437,type=*,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अस्तम्भ",
+            "eid": "4800",
+            "pagenum": 104,
+            "content": "<b>a-stambha-</b>¦ <ab>a.</ab> sans pilier."
+        }
     ]
 }

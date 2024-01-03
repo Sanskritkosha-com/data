@@ -55,5 +55,37 @@
             "pagenum": 7,
             "content": "आह्व¦ I. <ls>KAUŚ. 16,14</ls>. <lex>m.</lex> = पलाश nach <ls>DĀRILA</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आह्व",
+            "eid": "7591",
+            "pagenum": 104,
+            "content": "<i>āhva</i>¦ <ls>Kauś.</ls> 16, 14 m. nach <ls>Dārila</ls> = <i>palāśa</i>. {part=,seq=7699,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आह्व",
+            "eid": "6153",
+            "pagenum": 105,
+            "content": "आह्व¦ m. (-ह्वः) A crier, who or what calls. f. (-ह्वा) 1. A name, an appellation. 2. A call, a summons. E. आङ् before ह्वे to call, क aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आह्व",
+            "eid": "6155",
+            "pagenum": 128,
+            "content": "आह्व¦ m. (-ह्वः) A crier, who or what calls. f. (-ह्वा) .²1 A name, an appellation. .²2 A call, a summons. .E. आङ्, ह्वे to call, क aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आह्व",
+            "eid": "5534",
+            "pagenum": 104,
+            "content": "आह्व¦ (ह्वः) 1. <i>m.</i> A crier. <i>f.</i> (ह्वा) name, appellation; a call, a summons."
+        }
     ]
 }

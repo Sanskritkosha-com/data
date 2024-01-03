@@ -108,5 +108,37 @@
             "pagenum": 7,
             "content": "एकाग्र¦ I. Am Ende eines <ab>Comp.</ab> <i>ganz erfüllt von</i> <ls>JĀTAKAM. 3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकाग्र",
+            "eid": "9192",
+            "pagenum": 126,
+            "content": "<i>ekāgra</i>¦ am Ende eines Komp. ganz erfüllt von, <ls>Jātakam.</ls> 3. {part=,seq=9314,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "एकाग्र",
+            "eid": "8176",
+            "pagenum": 141,
+            "content": "एकाग्र¦ mfn. (-ग्रः-ग्रा-ग्रं) 1. Intent, closely attentive, fixed on one object. 2. Undisturbed, unperplexed. 3. Known, celebrated. 4. Singlepointed. m. (-ग्रः) The whole of a long line which is subdivided. E. एक and अग्र chief, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकाग्र",
+            "eid": "8180",
+            "pagenum": 172,
+            "content": "एकाग्र¦ mfn. (-ग्रः-ग्रा-ग्रं) .²1 Intent, closely attentive, fixed on one object. .²2 Undisturbed, unperplexed. .²3 Known, celebrated. .²4 Single-pointed. m. (-ग्रः) The whole of a long line which is subdivided. .E. एक and ग्र chief, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकाग्र",
+            "eid": "7600",
+            "pagenum": 142,
+            "content": "एका_ग्र¦ (ग्रः-ग्रा-ग्रं) <i>a.</i> Intent."
+        }
     ]
 }

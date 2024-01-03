@@ -133,5 +133,45 @@
             "pagenum": 7,
             "content": "अन्याय¦ <lex>Adj.</lex> <i>zu andern Weibern gehend</i> <ls>DAMAYANTĪK. 124</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अन्याय",
+            "eid": "3191",
+            "pagenum": 44,
+            "content": "<i>anyāya</i>¦ Adj. zu anderen Weibern gehend, <ls>Damayantīk.</ls> 124. {part=,seq=3236,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अन्याय",
+            "eid": "1905",
+            "pagenum": 34,
+            "content": "अन्याय¦ m. (-यः) 1. Impropriety, indecorum. 2. Irregularity, disorder. E. अ neg. न्याय propriety."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अन्याय",
+            "eid": "2143",
+            "pagenum": 47,
+            "content": "<b>a-nyāya-</b>¦ <ab>m.</ab> procédé irrégulier ; <i>-tas</i> irrégulièrement. <lbinfo n='11'/>  <P><i>°vṛtti-</i> <ab>a.</ab> qui se conduit mal."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अन्याय",
+            "eid": "1907",
+            "pagenum": 41,
+            "content": "अन्याय¦ m. (-यः) .²1 Impropriety, indecorum. .²2 Irregularity, disorder. .E. अ neg. न्याय propriety."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अन्याय",
+            "eid": "1583",
+            "pagenum": 32,
+            "content": "अन्याय¦ (यः) 1. <i>m.</i> Impropriety; injustice; disorder."
+        }
     ]
 }

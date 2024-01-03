@@ -68,5 +68,37 @@
             "pagenum": 460,
             "content": "¦ the river <s1 slp1='yamunA'>Yamunā</s1>, <ls>ib.</ls><info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "त्रियामा",
+            "eid": "14938",
+            "pagenum": 206,
+            "content": "<i>triyāmā</i>¦ ° = <i>avidyā</i>, <ls>H</ls> 5, 148 [<i>rātrir avidyā vā</i>]. {part=,seq=15172,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "त्रियामा",
+            "eid": "18121",
+            "pagenum": 325,
+            "content": "त्रियामा¦ f. (-मा) 1. Night. 2. The YAMUNA or Jumna river. 3. Indigo. 4. Black Teori, a plant so called. 5. Turmeric. E. त्रि three (times, or past, present and future,) या to go, affix मन्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "त्रियामा",
+            "eid": "18138",
+            "pagenum": 391,
+            "content": "त्रियामा¦ f. (-मा) .²1 Night. .²2 The YAMUNĀ or <i>Jumna</i> river. .²3 Indigo. .²4 Black <i>Tëori,</i> a plant so called. .E. त्रि three (times, or past, present, and future,) या to go, affix मन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "त्रियामा",
+            "eid": "17614",
+            "pagenum": 346,
+            "content": "त्रि-यामा¦ (मा) 1. <i>f.</i> Night; <i>Yamunā;</i> indigo; black Teori."
+        }
     ]
 }

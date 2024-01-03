@@ -146,5 +146,45 @@
             "pagenum": 7,
             "content": "कल्पन¦, <lex>f.</lex> आ II. <i>Ausrüstung</i> <ab>überh.</ab> <ls>JĀTAKAM. 11</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कल्पन",
+            "eid": "10141",
+            "pagenum": 140,
+            "content": "<i>[kalpana]</i>¦ , f. <i>ā</i> Ausrüstung überh., <ls>Jātakam.</ls> 11. {part=,seq=10285,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कल्पन",
+            "eid": "9593",
+            "pagenum": 166,
+            "content": "कल्पन¦ n. (-नं) 1. Cutting. 2. Making, manufacturing. 3. Making as a poem or tale, inventing, composing. nf. (-नं-ना) 1. Inference. 2. Invention, fabrication. 3. Caparisoning or decorating an elephant. f. (-नी) A scissors or shears. E. कृप् to be able, &c. ल्यु or ल्युट् affix, and consequently टाप् or ङीप् fem. do."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कल्पन",
+            "eid": "7753",
+            "pagenum": 183,
+            "content": "<b>kalpana-</b>¦ <ab>nt.</ab> parure, ornement ; <i>-ā-</i> <ab>f.</ab> disposition, <lbinfo n='8'/> arrangement ; exécution ; forme ; acte, œuvre ; fait de caparaçonner un éléphant. <lbinfo n='5'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कल्पन",
+            "eid": "9598",
+            "pagenum": 203,
+            "content": "कल्पन¦ n. (-नं) .²1 Cutting. .²2 Making, manufacturing. .²3 Making as a poem or tale, inventing, composing. nf. (नं-ना) .²1 Inference. .²2 Invention, fabrication. .²3 Caparisoning or decorating an elephant. (-नी) A scissors or shears. .E. कृप to be able, &c. ल्यु or ल्युट् affixes, and consequently टाप् or ङीप् fem. do."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कल्पन",
+            "eid": "9032",
+            "pagenum": 170,
+            "content": "कल्पन¦ (नं) 1. <i>n.</i> Cutting; composing. (ना) 1. <i>f.</i> Inference; invention; ornamenting an elephant."
+        }
     ]
 }

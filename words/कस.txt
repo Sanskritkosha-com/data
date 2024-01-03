@@ -73,5 +73,41 @@
             "pagenum": 2,
             "content": "2. कस¦ <div n='1'> 1) <lex>m.</lex> = कष <i>Probierstein</i> <ls>BHAR.</ls> zu <ls>AK. 2, 10, 32.</ls> <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>f.</lex> कसा = कशा <i>Peitsche</i> <ls>Sch.</ls> zu <ls>AK. 2, 10, 31.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "कस",
+            "eid": "9701",
+            "pagenum": 168,
+            "content": "कस¦ r. 1st cl. (कसति) To move, to go or approach: with वि prefixed, to open or expand as a flower, to blow. (इ) कसि r. 2nd cl. (कंस्ते) 1. To go. 2. To command. 3. To destroy: the root is also read by some authorities, कस (कस्ते) or कशि (कंष्टे.)"
+        },
+        {
+            "word": "कस",
+            "eid": "9702",
+            "pagenum": 168,
+            "content": "कस¦ m. (-सः) A touchstone: see कष. f. (-सा) A whip: see कशा and कषा."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कस",
+            "eid": "9706",
+            "pagenum": 205,
+            "content": "कस¦ r. 1st cl. (कसति) To move, to go or approach: with वि prefixed, to open or expand as a flower, to blow. (इ) कसि r. 2nd cl. (कंस्ते) .²1 To go. .²2 To command. .²3 To destroy: this root is also read by some authorities, कस (कस्ते) or कशि (कंष्टे.)"
+        },
+        {
+            "word": "कस",
+            "eid": "9707",
+            "pagenum": 205,
+            "content": "कस¦ m. (-सः) A touchstone: see कष. f. (-सा) A whip: see कशा and कषा."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कस",
+            "eid": "9145",
+            "pagenum": 172,
+            "content": "कस¦ (सः) 1. <i>m.</i> A touch-stone. <i>f.</i> (सा) A whip, a scourge."
+        }
     ]
 }

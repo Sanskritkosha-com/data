@@ -15,5 +15,21 @@
             "pagenum": 1,
             "content": "अनतिपीडम्¦ <ab>Absol.</ab> <i>unter sanftem Drucke</i> <ls>DAŚAK. 87,6</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनतिपीडम्",
+            "eid": "1978",
+            "pagenum": 27,
+            "content": "<i>anatipīḍam</i>¦ Adv. unter sanftem Drucke, <ls>Daśak.</ls> 87, 6. {part=,seq=2007,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनतिपीडम्",
+            "eid": "1163",
+            "pagenum": 26,
+            "content": "<b>an-atipīḍam</b>¦ <ab>adv.</ab> avec une faible pression. <lbinfo n='4'/>"
+        }
     ]
 }

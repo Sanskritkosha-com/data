@@ -31,5 +31,19 @@
             "pagenum": 7,
             "content": "*कारापक¦ = कारयितर् <ls>MAHĀVY. 207</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कारापक",
+            "eid": "10436",
+            "pagenum": 144,
+            "content": "*<i>kārāpaka</i>¦ = <i>kārayitar</i>, <ls>Mahāvy.</ls> 207. {part=,seq=10588,type=*,n=1}"
+        },
+        {
+            "word": "कारापक",
+            "eid": "28473",
+            "pagenum": 392,
+            "content": "°<i>kārāpaka</i>¦ m. der erbauen läßt, <ls>Prabandh.</ls> 260, 3. {part=N,seq=28844,type=°,n=2}"
+        }
     ]
 }

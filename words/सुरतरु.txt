@@ -37,5 +37,27 @@
             "pagenum": 7,
             "content": "सुरतरु¦ <lex>m.</lex> <i>Götterbaum</i> <ls>HALĀY. 1, 135.</ls> <ls>PAÑCAR. 3, 14, 41.</ls> = कल्पतरु <ls>BHĀG. P. 7, 9, 27. 10, 72, 6.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "सुरतरु",
+            "eid": "26766",
+            "pagenum": 367,
+            "content": "<i>surataru</i>¦ m. °Pinus deodara, E 906, 936 (R). {part=,seq=27124,type=,n=2}"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सुरतरु",
+            "eid": "42092",
+            "pagenum": 856,
+            "content": "सुर-तरु¦ (रुः) 2. <i>m.</i> A sort of pine, <i>Pinus devadaru.</i>"
+        },
+        {
+            "word": "सुरतरु",
+            "eid": "42094",
+            "pagenum": 857,
+            "content": "सुर-तरु¦ (रुः) 1. <i>m.</i> See सुरदारु."
+        }
     ]
 }

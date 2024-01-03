@@ -77,5 +77,51 @@
             "pagenum": 5,
             "content": "*लल¦ <lex>m.</lex> <i>ein <ab>best.</ab> Parfum</i> <ls>GAL.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "लल",
+            "eid": "22863",
+            "pagenum": 315,
+            "content": "*<i>lala</i>¦ °Adj. = <i>savilāsa</i>, <ls>H</ls> XLIII, 120; glänzend, <ls>Kir.</ls> XV, 5. {part=,seq=23184,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "लल",
+            "eid": "34206",
+            "pagenum": 615,
+            "content": "लल¦ mfn. (-लः-ला-लं) 1. Sporting, frolicking. 2. Lolling, wagging. 3. Wishing, desirous. E. लड् or लल् to sport, अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "लल",
+            "eid": "17592",
+            "pagenum": 613,
+            "content": "<b>lala-</b>¦ <ab>a.</ab> brillant."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "लल",
+            "eid": "32820",
+            "pagenum": 717,
+            "content": "लल¦ r. 1st cl. (ललति) .²1 To sport, to dally. .²2 To loll, as the tongue, &c.: see लड, of which it is considered as a various reading only. r. 10th cl. (लालयते) .²1 To desire, to wish for, to seek to obtain. .²2 To sport, to wanton. .²3 To lay."
+        },
+        {
+            "word": "लल",
+            "eid": "32821",
+            "pagenum": 717,
+            "content": "लल¦ mfn. (-लः-ला-लं) .²1 Sporting, frolicking. .²2 Lolling, wagging. .²3 Wishing, desirous. .E. लड or लल to sport, अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "लल",
+            "eid": "32400",
+            "pagenum": 641,
+            "content": "लल¦ (लः-ला-लं) <i>a.</i> Sporting; wishing."
+        }
     ]
 }

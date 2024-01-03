@@ -279,5 +279,63 @@
             "pagenum": 3,
             "content": "5. द¦ <div n='1'> 1) <lex>m.</lex> <i>Berg</i> <ls>MED. d. 1.</ls> <div n='1'>— 2) <lex>f.</lex> दा <i>Hitze, Schmerz</i>, = उपताप <ls>MED.</ls> <div n='1'>— 3) <lex>n.</lex> <i>Weib</i> (vgl. दंपती) <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "द",
+            "eid": "15031",
+            "pagenum": 207,
+            "content": "°<i>da</i>¦ bewahrend, <ls>H</ls> 43, 145 [in <i>°māyāda</i>]. 228; [in <i>sāmada</i>]. 256; abschneidend, <ls>H</ls> 43, 196. 227. — wife, <ls>Vās.</ls> 199, 1. {part=,seq=15268,type=°,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "द",
+            "eid": "18295",
+            "pagenum": 328,
+            "content": "द¦ The third letter of the dental class, and eighteenth consonant in the Deva Nagari alphabet, corresponding to the letter D."
+        },
+        {
+            "word": "द",
+            "eid": "18296",
+            "pagenum": 328,
+            "content": "द¦ n. (-दं) A wife. nf. (दंदा) 1. Gift, donation. 2. Dividing, cutting, breaking, &c. f. (दा) 1. Purifying, cleansing. 2. Preserving, cherishing. 3. Repentance. m. (दः) 1. A donor, a giver. 2. A mountain. 3. A gift, a thing given. E. दा to give, or दो to cut, &c. affix ड."
+        }
+    ],
+    "STC": [
+        {
+            "word": "द",
+            "eid": "10285",
+            "pagenum": 296,
+            "content": "<b>da-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui donne, accorde, confère, enseigne, indique <ab>qqch.</ab> (ou à <ab>qq'un</ab>, rare)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "द",
+            "eid": "18311",
+            "pagenum": 394,
+            "content": "द¦ The third letter of the dental class, and eighteenth consonant in the <i>Nāgarī</i> alphabet, corresponding to the letter <i>D.</i>"
+        },
+        {
+            "word": "द",
+            "eid": "18312",
+            "pagenum": 394,
+            "content": "द¦ n. (दं) A wife. nf. (दं दा) .²1 Gift, donation. .²2 Dividing, cutting, breaking, &c. f. (दा) .²1 Purifying, cleansing. .²2 Preserving, cherishing. .²3 Repentance. m. (दः) .²1 A donor, a giver. .²2 A mountain. .²3 A gift, a thing given. .E. दा to give, or दो to cut, &c. affix ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "द",
+            "eid": "17786",
+            "pagenum": 349,
+            "content": "द¦ <i>d</i> The eighteenth consonant, the first of the third or dental class."
+        },
+        {
+            "word": "द",
+            "eid": "17787",
+            "pagenum": 349,
+            "content": "द¦ (दं) 1. <i>n.</i> A wife. <i>f. n.</i> (दा-दं) A gift; a dividing. <i>f.</i> A purifying; preserving; repentance. (दः) <i>m.</i> A donor; a mountain; a gift."
+        }
     ]
 }

@@ -127,5 +127,29 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> निर्वचन¦ III. <lex>n.</lex> <ls>MBH. 1,109,23</ls> nach <ls>NĪLAK.</ls> = प्रशंसा."
         }
+    ],
+    "SCH": [
+        {
+            "word": "निर्वचन",
+            "eid": "16983",
+            "pagenum": 234,
+            "content": "1. <i>nirvacana</i>¦ n. <ls>MBh.</ls> 1, 109, 23 nach <ls>Nīlak.</ls> = <i>praśaṃsā</i>. {part=,seq=17238,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "निर्वचन",
+            "eid": "12116",
+            "pagenum": 376,
+            "content": "<b>nir-vacana-</b>¦ <ab>a.</ab> qui ne dit rien, silencieux ; à quoi il n'y a rien à redire, irréprochable, irréfutable ; <i>-am</i> silencieusement, sans rien dire ; <ab>nt.</ab> énonciation, dicton, proverbe ; explication, <lbinfo n='6'/> interprétation, étymologie."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "निर्वचन",
+            "eid": "1581",
+            "pagenum": 1,
+            "content": "<b>Nir-vacana</b>¦ in the Taittirīya Āraṇyaka<sup>1</sup> and the Nirukta<sup>2</sup> means ‘explanation,’ especially etymological. <i>Cf.</i> <b>Nirukta.</b> <F>1) i. 6, 3.</F> <F>2) ii. 1. <i>Cf. a-nirvacanam,</i> ‘not serving as an explanation,’ <i>ibid.,</i> vii. 24.</F>"
+        }
     ]
 }

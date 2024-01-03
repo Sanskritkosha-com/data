@@ -170,5 +170,53 @@
             "pagenum": 5,
             "content": "द्रुम¦ <div n='1'> 1) <i>Pflanze</i> überh.: किंपाक° <ls>Spr. 2379.</ls> <div n='v'>— Vgl. महा° ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "द्रुम",
+            "eid": "15838",
+            "pagenum": 218,
+            "content": "<i>druma</i>¦ m. ° = <i>daityabheda</i>, <ls>H</ls> 16, 62. {part=,seq=16080,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "द्रुम",
+            "eid": "19989",
+            "pagenum": 358,
+            "content": "द्रुम¦ m. (-मः) 1. A tree in general. 2. A tree of Swarga or paradise. 3. A name of KUVERA. E. द्रु to go, म aff. द्रुः शाखा अस्वि अस्य ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "द्रुम",
+            "eid": "11041",
+            "pagenum": 331,
+            "content": "<b>druma-</b>¦ <ab>m.</ab> arbre ; <ab>n.</ab> d'un prince des Kiṃpuruṣa ; <i>-vant-</i> <ab>a.</ab> pourvu d'arbres.  <P><i>°kulya-</i> <ab>m.</ab> <ab>n.</ab> d'une localité.  <P><i>°da-</i> <ab>m.</ab> <ab>n.</ab> d'un homme.  <P><i>°vara-</i> <ab>m.</ab> bel arbre.  <P><i>°valka-</i> <ab>m.</ab> ou <ab>nt.</ab> écorce d'arbre.  <P><i>°vāsin-</i> (qui vit dans les arbres) <ab>m.</ab> singe.  <P><i>°ṣaṇḍa-</i> <ab>m.</ab> <ab>nt.</ab> bouquet d'arbres.  <P><i>°sadman-</i> (= <i>°vāsin-</i>) <ab>m.</ab> oiseau.  <P><i>°sena-</i> <ab>m.</ab> <ab>n.</ab> d'un roi.  <P><i>drumāgra-</i> <ab>nt.</ab> cime d'arbre."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "द्रुम",
+            "eid": "1403",
+            "pagenum": 1,
+            "content": "<b>Druma,</b>¦ ‘tree,’ is not found until the later period in the Ṣaḍviṃśa Brāhmaṇa (v. 11) and the Nirukta (iv. 19; v. 26; ix. 23)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "द्रुम",
+            "eid": "20003",
+            "pagenum": 430,
+            "content": "द्रुम¦ m. (-मः) .²1 A tree in general, .²2 A tree of <i>Svarga</i> or paradise. .²3 A name of KUVERA. .E. द्रु to go, म aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "द्रुम",
+            "eid": "19488",
+            "pagenum": 383,
+            "content": "द्रुम¦ (मः) 1. <i>m.</i> A tree; <i>Kuvera.</i>"
+        }
     ]
 }

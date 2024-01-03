@@ -83,5 +83,37 @@
             "pagenum": 5,
             "content": "कविता¦, का विद्या कवितां विना <ls>PRASAṄGĀBH. 7,a.</ls> <ls>Spr. 5219.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कविता",
+            "eid": "28439",
+            "pagenum": 391,
+            "content": "<i>kavitā</i>¦ f. °Erzeugnis der Dichtkunst, Strophe, <ls>Prabandh.</ls> 164, 4. {part=N,seq=28810,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कविता",
+            "eid": "9651",
+            "pagenum": 168,
+            "content": "कविता¦ f. (-ता) 1. Poesy, poetical style or composition. 2. A poem. E. कवि, and तल् affix; also with त्व affix, कवित्वं."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कविता",
+            "eid": "9656",
+            "pagenum": 204,
+            "content": "कविता¦ f. (-ता) .²1 Poesy, poetical style or composition. .²2 A poem. .E. कवि, and तल affix; also with त्व affix, कवित्वं."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कविता",
+            "eid": "9092",
+            "pagenum": 171,
+            "content": "कविता¦ (ता) 1. <i>f.</i> Poesy; a poem."
+        }
     ]
 }

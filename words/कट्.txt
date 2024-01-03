@@ -131,5 +131,33 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> क/ट्¦ 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कट्",
+            "eid": "9502",
+            "pagenum": 131,
+            "content": "2. <i>káṭ</i>¦ Interj. <ls>Taitt. Ār.</ls> 4, 27. {part=,seq=9630,type=,n=1}"
+        },
+        {
+            "word": "कट्",
+            "eid": "9502.1",
+            "pagenum": 131,
+            "content": "<i>kaṭ</i>¦ , vgl. <i>prakaṭay</i>. {part=,seq=9631,type=,n=1}"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कट्",
+            "eid": "8006",
+            "pagenum": 149,
+            "content": "कट्¦ (इ) कण्ठति 1. <i>a.</i> To move."
+        },
+        {
+            "word": "कट्",
+            "eid": "8007",
+            "pagenum": 149,
+            "content": "कट्¦ (ए) कटति 1. <i>a.</i> To run; to encompass. With प्र prefixed, it makes प्रकटति to appear; with (क) प्रकटयति. To make manifest."
+        }
     ]
 }

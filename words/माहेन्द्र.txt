@@ -181,5 +181,51 @@
             "pagenum": 7,
             "content": "माहेन्द्र¦ V. <lex>m.</lex> <i>ein <ab>best.</ab></i> <is>Kalpa</is> <i>bei den</i> <is>Jaina</is> <ls>DHARMAŚARM. 21,37</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "माहेन्द्र",
+            "eid": "21651",
+            "pagenum": 299,
+            "content": "<i>Māhendra</i>¦ Adj. °vom Berge Mahendra stammend, <ls>Kauṭ.</ls> 75, 2 v.u. {part=,seq=21948,type=,n=1}"
+        },
+        {
+            "word": "माहेन्द्र",
+            "eid": "21651.1",
+            "pagenum": 299,
+            "content": "<i>māhendra</i>¦ m. ein best. kalpa bei den Jaina, <ls>Dharmaśarm.</ls> 21, 37. {part=,seq=21949,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "माहेन्द्र",
+            "eid": "31449",
+            "pagenum": 567,
+            "content": "माहेन्द्र¦ mfn. (-न्द्रः-न्द्रा-न्द्रं) Relating to or belonging to INDRA, fit or proper for, (as an oblation to him, &c.) f. (-न्द्री) 1. The wife of INDRA. 2. A cow. 3. The east. E. महेन्द्र the deity, and अण् aff.; also with छ, माहेन्द्रिय, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "माहेन्द्र",
+            "eid": "16770",
+            "pagenum": 567,
+            "content": "<b>māhendra-</b>¦ <i>-ī-</i> <ab>a.</ab> relatif à Indra ; <ab>a.</ab> <ab>f.</ab> et <ab>f.</ab> (région) orientale ; Énergie d'Indra."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "माहेन्द्र",
+            "eid": "30347",
+            "pagenum": 660,
+            "content": "माहेन्द्र¦ mfn. (-न्द्रः-न्द्री-न्द्रं) Relating to or belonging to INDRA, fit or proper for, (as an oblation to him, &c.) f. (-न्द्री) The wife of INDRA. .E. महेन्द्र the deity, and अण् aff.; also with छ, माहेन्द्रीय, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "माहेन्द्र",
+            "eid": "29884",
+            "pagenum": 592,
+            "content": "माहेन्द्र¦ (न्द्रः-न्द्री-न्द्रं) <i>a.</i> Relating to <i>Indra. f.</i> Wife of <i>Indra.</i>"
+        }
     ]
 }

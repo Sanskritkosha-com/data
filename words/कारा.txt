@@ -164,5 +164,21 @@
             "pagenum": 7,
             "content": "कारा¦ II. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कारा",
+            "eid": "10429",
+            "pagenum": 144,
+            "content": "<i>kārā</i>¦ 3. 5. vgl. <ls>Zach.</ls> Beitr. {part=,seq=10581,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कारा",
+            "eid": "7899",
+            "pagenum": 189,
+            "content": "<b>kārā-</b>¦ <ab>f.</ab> prison, geôle.  <P><i>°gṛha-</i> <ab>nt.</ab> prison, geôle ; <i>°vāsa-</i> <ab>m.</ab> <i>kārāgāra-</i> <lbinfo n='5'/> <ab>nt.</ab> <ab>id.</ab>  <P><i>°stha-</i> <ab>ag.</ab> prisonnier, détenu."
+        }
     ]
 }

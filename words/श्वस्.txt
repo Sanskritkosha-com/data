@@ -267,5 +267,57 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> श्वस्¦ mit अभिनि <i>seufzen</i> <ls>JĀTAKAM. 14</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "श्वस्",
+            "eid": "25425",
+            "pagenum": 349,
+            "content": "1. <i>śvas</i>¦ mit <i>abhini</i> seufzen, <ls>Jātakam.</ls> 14. — Mit <i>°paryud</i> stark aufleuchten, <ls>H</ls> XLIV, 39; <ls>Śrīk.</ls> XIII, 43 [<i>paryucchvasan = sphuran</i>]. {part=,seq=25768,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "श्वस्",
+            "eid": "41273",
+            "pagenum": 738,
+            "content": "श्वस्¦ r. 2nd cl. (श्वसिति) 1. To breathe. 2. To live. 3. To sigh. 4. To hiss, to snort. With आङ् prefixed, 1. To recover, to revive, to console. 2. To take courage. 3. To sigh. With उत्, 1. To open, to expand. 2. To console. 3. To upheave. 4. To breathe. 5. To sigh. With निर्, 1. To breathe out, to expire. 2. To sigh. With वि, 1. To have trust or faith in, (generally with a loc.) 2. To be fearless. With सम्, To calm oneself, to take heart. Caus. (श्वासयति-ते) With आ, To comfort, to console. With वि, To inspire confidence, to cause to confide. With सम्, To cheer up."
+        },
+        {
+            "word": "श्वस्",
+            "eid": "41274",
+            "pagenum": 738,
+            "content": "श्वस्¦ Ind. 1. To-morrow; (at the beginning of compounds it has the sense of “future.)” 2. A particle, implying auspiciousness."
+        }
+    ],
+    "STC": [
+        {
+            "word": "श्वस्",
+            "eid": "20628",
+            "pagenum": 747,
+            "content": "<b>1 ŚVAS-</b>¦ <i>śvasiti</i> (<i>śvasihi aśvasīt</i>) <i>śvasati -te ; śaśvāsa ;</i> <i>śvasiṣyati ; śvāsayati ; śvasita-</i> -(<i>°śvasta-</i>) <i>śvasitum °śvasya</i> souffler, siffler, haleter, renifler ; respirer, vivre ; soupirer, gémir ; <ab>a. v.</ab> soufflé, etc. ; remis en vie ; <ab>nt.</ab> respiration, souffle."
+        },
+        {
+            "word": "श्वस्",
+            "eid": "20629",
+            "pagenum": 747,
+            "content": "<b>1 śvas</b>¦ <ab>adv.</ab> demain (<i>śvo bhūte</i> le lendemain). <lbinfo n='6'/>  <P><i>śvaḥ-kāla-</i> <ab>m.</ab> le jour suivant ; <i>-e</i> demain.  <P><i>śvo-bhāva-</i> <ab>m.</ab> <ab>pl.</ab> souci du lendemain ; <i>-in-</i> <ab>a.</ab> qui a lieu le lendemain.  <P><i>°maraṇa-</i> <ab>nt.</ab> mort (ou pensée d'une mort) imminente.  <P><i>°vasīya-</i> <ab>nt.</ab> prospérité à venir."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "श्वस्",
+            "eid": "39367",
+            "pagenum": 867,
+            "content": "श्वस्¦ <i>ind.</i> .²1 To-morrow. .²2 A particle, implying auspiciousness."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "श्वस्",
+            "eid": "39029",
+            "pagenum": 787,
+            "content": "श्वस्¦ <i>adv.</i> To-morrow; a particle implying auspiciousness."
+        }
     ]
 }

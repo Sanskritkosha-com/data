@@ -428,5 +428,53 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> कृति¦ II. <lex>f.</lex> <i>Gebäude, Bauwerk</i> <ls>JĀTAKAM. 381,19</ls>. etwa <i>Verstellung, Affectation</i> <ls n='JĀTAKAM.'>560,23</ls>. <lex>m.</lex> auch <ab>N. pr.</ab> eines <is>Gandharva</is> <ls>TAITT. ĀR. 1,9,3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कृति",
+            "eid": "11165",
+            "pagenum": 153,
+            "content": "1. <i>kṛti</i>¦ f. Gebäude, Bauwerk, <ls>Jātakam.</ls> 381, 19; etwa Verstellung, Affektation, 560, 23. — m. auch N. pr. eines Gandharva, <ls>Taitt. Ār.</ls> 1, 9, 3. {part=,seq=11333,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कृति",
+            "eid": "11367",
+            "pagenum": 200,
+            "content": "कृति¦ f. (-तिः) 1. Act, action, acting, doing, &c. 2. Injuring, hurt, hurting. 3. A sort of metre, a stanza of four lines, with twenty syllables in each. E. कृ to do, to injure, क्तिन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कृति",
+            "eid": "8217",
+            "pagenum": 205,
+            "content": "<b>kṛti-</b>¦ <ab>f.</ab> action de faire, de fabriquer, de composer, etc. ; action, activité, œuvre ; ouvrage littéraire ; femme de Saṃhrāda ; <ab>m.</ab> <ab>n.</ab> de divers personnages ; <i>-mant-</i> <ab>m.</ab> <ab>n.</ab> d'un prince.  <P><i>°rāta-</i> <ab>m.</ab> <ab>n.</ab> d'un prince.  <P><i>°roman-</i> <ab>m.</ab> fils de Kīrtirāta."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कृति",
+            "eid": "688",
+            "pagenum": 1,
+            "content": "<b>Kṛti.</b>¦ — From one passage in the Rigveda,<sup>1</sup> where the Maruts are described as having Kṛtis, Zimmer<sup>2</sup> concludes that the word means a dagger used in war. But there is no evidence that Kṛti was ever a human weapon. See <b>Asi.</b> <F>1) i. 168, 3.</F> <F>2) <i>Altindisches Leben,</i> 301. <i>Cf.</i> Schrader, <i>Prehistoric Antiquities,</i> 221.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कृति",
+            "eid": "11373",
+            "pagenum": 243,
+            "content": "कृति¦ f. (-तिः) .²1 Act, action, acting, doing, &c. .²2 Injuring, hurt, hurting. .²3 A sort of metre, a stanza of four lines, with twenty syllables in each. .E. कृ to do, to injure, क्तिन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कृति",
+            "eid": "10822",
+            "pagenum": 207,
+            "content": "कृति¦ (तिः) 3. <i>f.</i> Act; hurt."
+        }
     ]
 }

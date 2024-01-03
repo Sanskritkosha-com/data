@@ -52,5 +52,37 @@
             "pagenum": 4,
             "content": "पद्मभू¦ (प° + भू) <lex>m.</lex> Bein. <is>Brahman's</is> <ls>H. 213.</ls> <ls>HALĀY. 1, 6.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पद्मभू",
+            "eid": "17723",
+            "pagenum": 245,
+            "content": "<i>padmabhū</i>¦ auch <ls>Śrīk.</ls> 1, 22. {part=,seq=17982,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पद्मभू",
+            "eid": "23166",
+            "pagenum": 419,
+            "content": "पद्मभू¦ m. (-भूः) BRAMHĀ. E. पद्म a lotus, and भू born, क्विप् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पद्मभू",
+            "eid": "23180",
+            "pagenum": 501,
+            "content": "पद्मभू¦ m. (-भूः) BRAHMĀ. .E. पद्म a lotus, and भू born."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पद्मभू",
+            "eid": "22653",
+            "pagenum": 447,
+            "content": "पद्म-भू¦ (भूः) 3. <i>m. Brahmā.</i>"
+        }
     ]
 }

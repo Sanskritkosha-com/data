@@ -131,5 +131,45 @@
             "pagenum": 5,
             "content": "<hom>1.</hom> निगद¦ 6〉 zu streichen. Richtig निगड."
         }
+    ],
+    "SCH": [
+        {
+            "word": "निगद",
+            "eid": "16716",
+            "pagenum": 231,
+            "content": "1. <i>nigada</i>¦ 6. zu streichen. Richtig <i>nigaḍa</i>. {part=,seq=16968,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "निगद",
+            "eid": "21596",
+            "pagenum": 388,
+            "content": "निगद¦ m. (-दः) 1. Speech, speaking, discourse. 2. Audible recitation of prayers or charms. E. नि affirmative prefix, गद speech. अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "निगद",
+            "eid": "11613",
+            "pagenum": 360,
+            "content": "<b>ni-gada-</b>¦ <ab>m.</ab> récitation (<ab>not.</ab> de prières) ; mention."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निगद",
+            "eid": "21609",
+            "pagenum": 465,
+            "content": "निगद¦ m. (-दः) .²1 Speech, speaking, discourse. .²2 Audible recitation of prayers or charms. .E. नि affirmative prefix, गद speech."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निगद",
+            "eid": "21095",
+            "pagenum": 415,
+            "content": "नि-गद¦ (दः) 1. <i>m.</i> Speech; recitation of prayers or charms."
+        }
     ]
 }

@@ -228,5 +228,51 @@
             "pagenum": 5,
             "content": "चार¦ 2〉c〉 etwa <i>Fanggrube</i> <ls>HEM. PAR. 1,353</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "चार",
+            "eid": "13225",
+            "pagenum": 182,
+            "content": "<i>cāra</i>¦ 2. c) etwa Fanggrube, <ls>Hem. Par.</ls> 1, 353. {part=,seq=13435,type=,n=1}"
+        },
+        {
+            "word": "चार",
+            "eid": "13225.1",
+            "pagenum": 182,
+            "content": "<i>cāra</i>¦ m. °Spionagekunde, das Ausspionierte, <ls>Kauṭ.</ls> 20, 16; 21, 3. {part=,seq=13436,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चार",
+            "eid": "15023",
+            "pagenum": 266,
+            "content": "चार¦ m. (-रः) 1. Going in motion. 2. A spy, a secret agent or emissary. 3. Binding, a binding, a fetter, &c. 4. A prison, a house of confinement. 5. A kind of tree, the Piyal, (Buchanania latifolia, Rox.) see पियाल 6. Wandering about, travelling. n. (-रं) A factitious poison. E. चर going, &c. affix अण्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "चार",
+            "eid": "9196",
+            "pagenum": 248,
+            "content": "<b>cāra-</b>¦ <ab>m.</ab> espion ; serviteur, desservant ; mouvement, course ; pratique.  <P><i>°cakṣus-</i> <ab>a.</ab> qui observe à l'aide d'espions, emploie des espions ; <ab>nt.</ab> espion tenant lieu d'œil.  <P><i>°caraṇa-</i> <ab>nt.</ab> circulation des espions, des serviteurs. <lbinfo n='7'/>  <P><i>°puruṣa-</i> <ab>m.</ab> espion.  <P><i>°bhaṭa-</i> <ab>m.</ab> soldat.  <P><i>cārādhikārin-</i> <ab>m.</ab> agent secret.  <P><i>cārekṣaṇa-</i> <ab>a.</ab> = <i>°cakṣus-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चार",
+            "eid": "15031",
+            "pagenum": 323,
+            "content": "चार¦ m. (-रः) .²1 Going, motion. .²2 A spy, a secret agent or emissary. .²3 Binding, a binding, a fetter, &c. .²4 A prison, a house of confinement. .²5 A kind of tree, the <i>Piyal,</i> (<bot>Buchanania latifolia</bot>, Rox.) see प्रियाल. .²6 Wandering about, travelling. n. (-रं) A factitious poison. .E. चर going, &c. affix अण्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चार",
+            "eid": "14485",
+            "pagenum": 283,
+            "content": "चार¦ (रः) 1. <i>m.</i> Going; a spy; binding. <i>n.</i> A factitious poison."
+        }
     ]
 }

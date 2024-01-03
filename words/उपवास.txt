@@ -132,5 +132,57 @@
             "pagenum": 1,
             "content": "उपवास¦ (von वस्, वसति mit उप) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> अर्धर्चादि zu <ls>P. 2, 4, 31.</ls> <ls>TRIK. 3, 5, 12.</ls> <ls>SIDDH. K. 249,b,7.</ls>  <div n='1'> 1) <i>Fasten</i>, <lex>m.</lex> <ls>AK. 2, 7, 37.</ls> <ls>TRIK. 2, 7, 10.</ls> <ls>H. 842</ls> (nach dem <ls>Sch.</ls> auch n.). <ls>ĀŚV. GṚHY. 1, 10.</ls> <ls>M. 2, 188.</ls> <ls n='M.'>11, 195.</ls> <ls n='M. 11,'>212.</ls> <ls>YĀJÑ. 3, 190.</ls> <ls>MBH. 3, 6019.</ls> <ls n='MBH. 3,'>8032.</ls> उपवासान्विविधानुपोष्य <ls n='MBH. 3,'>10227.</ls> <ls n='MBH.'>13, 362.</ls> <ls>SĀV. 6, 12.</ls> <ls>R. 2, 24, 23.</ls> <ls n='R. 2,'>26, 28.</ls> <ls n='R. 2,'>28, 13.</ls> <ls n='R.'>3, 10, 4.</ls> <ls n='R. 3,'>77, 25.</ls> <ls n='R.'>5, 18, 1.</ls> <ls>SUŚR. 1, 70, 14.</ls> <ls n='SUŚR. 1,'>80, 5.</ls> <ls n='SUŚR.'>2, 111, 5.</ls> <ls n='SUŚR. 2,'>410, 13.</ls> <ls n='SUŚR. 2,'>433, 5.</ls> <ls>PAÑCAT. 138, 9.</ls> <ls>PRAB. 29, 5.</ls> <ls>VET. 32, 11.</ls> सोपवास <i>der da fastet</i> oder <i>gefastet hat</i> <ls>YĀJÑ. 1, 175.</ls> <lex>f.</lex> आ <ls n='YĀJÑ.'>3, 261.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Anlegung eines heiligen Feuers</i> (अग्न्याधान) <ls>MALAMĀSAT.</ls> im <ls>ŚKDR.</ls> <i>a fire altar</i> <ls>WILS.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपवास",
+            "eid": "8659",
+            "pagenum": 119,
+            "content": "<i>upavāsa</i>¦ m. °Nachbar, <ls>Kauṭ.</ls> 171, 10. 19. {part=,seq=8775,type=,n=1}"
+        },
+        {
+            "word": "उपवास",
+            "eid": "8659.1",
+            "pagenum": 119,
+            "content": "<i>upavāsa</i>¦ °Obliegen, sich Hingeben, <ls>Sam.</ls> V, 82 (oder Fasten infolge eines Zankes mit dem Geliebten?). {part=,seq=8776,type=,n=3}"
+        },
+        {
+            "word": "उपवास",
+            "eid": "28284",
+            "pagenum": 389,
+            "content": "<i>upavāsa</i>¦ m. °Dorfgenosse, <ls>Kauṭ.</ls> 171, 2 v.u. {part=N,seq=28655,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उपवास",
+            "eid": "7495",
+            "pagenum": 129,
+            "content": "उपवास¦ m. (-सः) 1. A fast, fasting: when observed as a religious act, it comprises abstinence from all sensual gratification, from perfumes, flowers, unguents, ornaments, betel, music and dancing, &c. 2. A fire-alter. E. उप before वस् to abide, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपवास",
+            "eid": "6928",
+            "pagenum": 154,
+            "content": "<b>upa-vāsa-</b>¦ <ab>m.</ab> jeûne, diète ; <i>-ka-</i> <ab>nt.</ab> <ab>id.</ab> ; <ab>a.</ab> relatif au jeûne."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उपवास",
+            "eid": "7498",
+            "pagenum": 158,
+            "content": "उपवास¦ n. (-सः) .²1 A fast, fasting: when observed as a religious act, it comprises abstinence from all sensual gratification, from perfumes, flowers, unguents, ornaments, betel, music and dancing, &c. .²2 A fire altar. .E. उप before वस to abide, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उपवास",
+            "eid": "6908",
+            "pagenum": 129,
+            "content": "उप-वास¦ (सः) 1. <i>m. Idem.</i>"
+        }
     ]
 }

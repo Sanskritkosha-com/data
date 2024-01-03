@@ -432,5 +432,57 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> करण¦ II. <lex>n.</lex> <i>Sehne, Band, Muskel</i> <ls>KIR. 18,8</ls>. <ls n='KIR. 18,'>11</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "करण",
+            "eid": "9830",
+            "pagenum": 135,
+            "content": "2. <i>karaṇa</i>¦ n. Sehne, Band, Muskel, <ls>Kir.</ls> 18, 8. 11. {part=,seq=9963,type=,n=1}"
+        },
+        {
+            "word": "करण",
+            "eid": "9830.1",
+            "pagenum": 135,
+            "content": "<i>karaṇa</i>¦ n. ° = <i>saṃveśana</i>, <ls>H</ls> 27, 48 [pw hat unter 4, d die Bedeutungen `Haltung, Stellung, Pose'. Es wäre hier `inter coitum' nachzutragen.]. — °cleavage, <ls>Vās.</ls> 125, 4. {part=,seq=9964,type=,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "करण",
+            "eid": "9100",
+            "pagenum": 157,
+            "content": "करण¦ n. (-णं) 1. An instrument or means of action. 2. Making, doing. 3. Action, act. 4. Cause, motive. 5. Business, occupation, as trade. &c. 6. An organ of sense. 7. The body. 8. The mind or heart. 9. A field. 10. Grain. 11. The posture, abstinence, &c. of an ascetic. 12. Copulation, (seu modus coeundi.) 13. The usage or practice of the writer caste. 14. Acting, dramatic action. 15. Song, singing. 16. The particular business of any tribe or caste. 17. Plaistering, spreading any thing with the hand. 18. A Karana, an astrological division of time; the Karanas are eleven: 7 moveable and 4 fixed, and two are equal to a lunar day; or the time during which the moon's motion from the sun amounts to 6°. 19. (In grammar) The instrumental case, or noun in that case. m. (-णः) A man of a mixed class, the son of a Sudra woman by a Vaisya; or, according to some, of an outcaste Kshetriya, by a Kshetriya female; the occupation of this class is writing, accounts, &c. a writer, a scribe. f. (-णी) 1. A woman of the same caste. 2. (In arithmetic, &c.) A surd or irrational quantity. E. कृ to do, to act, &c. ल्युट् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "करण",
+            "eid": "7647",
+            "pagenum": 178,
+            "content": "<b>1 karaṇa-</b>¦ <ab>ag.</ab> qui fait, qui produit, qui opère (surtout <ab>ifc.</ab>) ; <ab>m.</ab> homme d'une caste mixte ; <ab>nt.</ab> action de faire, accomplissement, exécution, production, acte (<ab>not.</ab> religieux) ; organe des sens ; instrument, moyen ; (lég.) instrument, document, contrat ; corps ; rythme, mesure ; incantation, formule magique. <lbinfo n='3'/>  <P><i>°prayoga-</i> <ab>m.</ab> charme, incantation.  <P><i>°vigama-</i> <ab>m.</ab> mort."
+        },
+        {
+            "word": "करण",
+            "eid": "7648",
+            "pagenum": 178,
+            "content": "<b>2 karaṇa-</b>¦ <ab>nt.</ab> tendon, muscle."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "करण",
+            "eid": "9105",
+            "pagenum": 191,
+            "content": "करण¦ n. (-णं) .²1 An instrument or means of action. .²2 Making, doing. .²3 Action, act. .²4 Cause, motive. .²5 Business, occupation, as trade, &c. .²6 An organ of sense. .²7 The body. .²8 The mind or heart. .²9 A field. .²10 Grain. .²11 The posture, abstinence, &c. of an ascetic. .²12 Copulation, (seu modus coeundi.) .²13 The usage or practice of the writer caste. .²14 Acting, dramatic action. .²15 Song, singing. .²16 The particular business of any tribe or cast. .²17 Plaistering, spreading any thing with the hand. .²18 A <i>Karaṇa,</i> an astrological division of time; the <i>Karaṇas</i> are eleven: 7 moveable and 4 fixed, and two are equal to a lunar day; or the time during which the moon's motion from the sun amounts to 6°. .²19 (In grammar) The instrumental case, or noun in that case. m. (-णः) A man of a mixed class, the son of a <i>Śūdra</i> woman by a <i>Vaiśya;</i> or, according to some, of an outcast <i>Kṣetriya,</i> by a <i>Kṣetriya</i> female; the occupation of this class is writing, accounts, &c. a writer, a scribe. f. (-णी) .²1 A woman of the same caste. .²2 (In arithmetic, &c.) A surd or irrational quantity. .E. कृ to do, to act, &c. ल्युट् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "करण",
+            "eid": "8536",
+            "pagenum": 160,
+            "content": "करण¦ (णः-णं) 1. <i>n.</i> An instrument or means of action; act; organ; cycle; business. <i>m.</i> Man of a mixed caste."
+        }
     ]
 }

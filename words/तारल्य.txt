@@ -71,5 +71,21 @@
             "pagenum": 7,
             "content": "तारल्य¦ auch <i>Unruhe</i> <ls>HAEB. Chr. 510,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तारल्य",
+            "eid": "14498",
+            "pagenum": 200,
+            "content": "<i>tāralya</i>¦ auch Unruhe, <ls>Haeb. Chr.</ls> 510, 1. {part=,seq=14728,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "तारल्य",
+            "eid": "9998",
+            "pagenum": 282,
+            "content": "<b>tāralya-</b>¦ <ab>nt.</ab> instabilité, inconstance."
+        }
     ]
 }

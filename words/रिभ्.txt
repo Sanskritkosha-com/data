@@ -91,5 +91,27 @@
             "pagenum": 7,
             "content": "रिभ्¦ V. 5. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "रिभ्",
+            "eid": "22675",
+            "pagenum": 313,
+            "content": "<i>ribh</i>¦ , <i>rebhamāṇa</i> brüllend (Kuh), <ls>MBh.</ls> 4, 53, 25. Vgl. <i>rebh</i>. {part=,seq=22991,type=,n=1}"
+        },
+        {
+            "word": "रिभ्",
+            "eid": "22675.1",
+            "pagenum": 313,
+            "content": "<i>ribh</i>¦ bedeutet <ls>TS.</ls> 7, 1, 1, 3 (vgl. <ls>Maitr. S.</ls> 1, 8, 2 [117, 8. 9] und <ls>Ait. Br.</ls> 1, 25, 15; 6, 32, 8) glänzen; vgl. <ls>Ind. St.</ls> 16, 32. {part=,seq=22992,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "रिभ्",
+            "eid": "17417",
+            "pagenum": 606,
+            "content": "<b>RIBH-</b>¦ <ab>v.</ab> <i>rebhamāṇa-.</i>"
+        }
     ]
 }

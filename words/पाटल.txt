@@ -213,5 +213,45 @@
             "pagenum": 7,
             "content": "पाटल¦ <lex>adj.</lex> von पाटली <i>Bignonia suaveolens</i>: मूलानि <ls>PAT. a. a. O. 4,89,a.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पाटल",
+            "eid": "18236",
+            "pagenum": 252,
+            "content": "<i>pāṭala</i>¦ m. °blaßrotes Mal, <ls>S</ls> I, 58, 1. {part=,seq=18500,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पाटल",
+            "eid": "24224",
+            "pagenum": 439,
+            "content": "पाटल¦ mfn. (-लः-ला-लं) Of a pink or pale-red colour. m. (-लः) 1. Pale-red, rose colour. 2. Rice ripening in the rains. f. (-ला) 1. The Trumpetflower, (Bignonia suave-olens.) 2. Red Lodh. 3. A name of DURGĀ. 4. Pale-red. nf. (-लं-ला) 1. The flower of the Bignonia snave-olens. 2. Rice. 3. Saffron. E. पाट extension, and ला to get, aff. ड; also पाटलि; or पट-णिच्-कलच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पाटल",
+            "eid": "13607",
+            "pagenum": 426,
+            "content": "<b>pāṭala-</b>¦ <ab>a.</ab> rouge pâle ; <ab>m.</ab> Bignonia suaveolens <lbinfo n='4'/> ; <ab>nt.</ab> <i>-ā-</i> <ab>f.</ab> fleur de la Bignonia suaveolens ; <i>-ī-kṛ-</i> teindre en rouge pâle ; <i>-ī-</i> <ab>f.</ab> <ab>n.</ab> d'une ville ; fille du roi Mahendravarman ; <i>-tā-</i> <ab>f.</ab> rougeur.  <P><i>°kīṭa-</i> <ab>m.</ab> sorte d'insecte.  <P><i>°gaṇḍa-lekha-</i> <ab>a.</ab> dont pâlissent les joues.  <P><i>°puṣpa-</i> <ab>nt.</ab> fleur de la Bignonia suaveolens.  <P><i>pāṭalopala-</i> <ab>m.</ab> rubis."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाटल",
+            "eid": "24170",
+            "pagenum": 522,
+            "content": "पाटल¦ mfn. (-लः-ला-लं) Of a pink or pale red colour. m. (-लः) .²1 Pale red, rose colour. .²2 Rice ripening in the rains. f. (-ला) .²1 The Trumpet flower, (<bot>Bignonia suave-olens</bot>.) .²2 Red <i>Lodh.</i> .²3 A name of DURGĀ. nf. (-लं-ला) The flower of the <bot>Bignonia suave-olens</bot>. .E. पाट extension, and ला to get, aff. ड; also पाटलि."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाटल",
+            "eid": "23644",
+            "pagenum": 467,
+            "content": "पाटल¦ (लः) 1. <i>m.</i> Pale red; rice ripening in the rains. <i>f.</i> (ला) Bignonia suave-olens. <i>f. n.</i> Its flower, red <i>Lodh; Durgā. a.</i> Pink."
+        }
     ]
 }

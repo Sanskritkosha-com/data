@@ -104,5 +104,51 @@
             "pagenum": 5,
             "content": "कवाट¦ <ls>KATHĀS. 81, 97.</ls> कवाटक <ls n='KATHĀS.'>47.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कवाट",
+            "eid": "10205",
+            "pagenum": 140,
+            "content": "<i>kavāṭa</i>¦ °Schild (einer Schildkröte), <ls>Daśāv.</ls> I, 4; IV, 45. — °Schläfe des Elefanten, <ls>Śrīk.</ls> XV, 30. {part=,seq=10353,type=,n=3}"
+        },
+        {
+            "word": "कवाट",
+            "eid": "28438",
+            "pagenum": 391,
+            "content": "<i>kavāṭa</i>¦ °eine Art Schild, <ls>Kauṭ.</ls> 102, 9/8 v.u. {part=N,seq=28809,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कवाट",
+            "eid": "9645",
+            "pagenum": 167,
+            "content": "कवाट¦ sub. mfn. (-टः-टा-टं) A door, the leaf or pannel of the door. E. क wind, air, वट् to exclude, and अण् affix; also कपाट."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कवाट",
+            "eid": "7775",
+            "pagenum": 184,
+            "content": "<b>kavāṭa-</b>¦ <ab>m.</ab> <ab>nt.</ab> <i>-ī-</i> <ab>f.</ab>, <ab>v.</ab> <i>kapāṭa-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कवाट",
+            "eid": "9650",
+            "pagenum": 204,
+            "content": "कवाट¦ <i>sub.</i> mfn. (-टः-टा-टं) A door, the leaf or pannel of the door. .E. क wind, air, वट to exclude, and अण् affix; also कपाट."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कवाट",
+            "eid": "9086",
+            "pagenum": 171,
+            "content": "कवाट¦ (टः) 1. <i>m.</i> A door; a pannel."
+        }
     ]
 }

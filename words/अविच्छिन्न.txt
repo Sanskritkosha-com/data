@@ -47,5 +47,35 @@
             "pagenum": 1,
             "content": "अविच्छिन्न¦ <lex>Adj.</lex> <i>ununterbrochen</i>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अविच्छिन्न",
+            "eid": "4002",
+            "pagenum": 69,
+            "content": "अविच्छिन्न¦ mfn. (-न्नः-न्ना-न्नं) Unseparated, undivided. E. अ neg. विच्छिन्न cut off."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविच्छिन्न",
+            "eid": "4272",
+            "pagenum": 92,
+            "content": "<b>a-vicchinna-</b>¦ <ab>a. v.</ab> ininterrompu."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविच्छिन्न",
+            "eid": "3423",
+            "pagenum": 65,
+            "content": "अ-विच्छिन्न¦ (न्नः-न्ना-न्नं) <i>a.</i> Undivided."
+        },
+        {
+            "word": "अविच्छिन्न",
+            "eid": "44720",
+            "pagenum": 915,
+            "content": "अविच्छिन्न¦ (न्नः-न्ना-न्नं) <i>a.</i> Uninterrupted, constant."
+        }
     ]
 }

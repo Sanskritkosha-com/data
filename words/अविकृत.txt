@@ -87,5 +87,37 @@
             "pagenum": 7,
             "content": "अविकृत¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविकृत",
+            "eid": "5523",
+            "pagenum": 75,
+            "content": "<i>avikṛta</i>¦ 2. <ls>Gaut.</ls> 1, 18 so. v.a. ungefärbt. {part=,seq=5599,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अविकृत",
+            "eid": "3976",
+            "pagenum": 69,
+            "content": "अविकृत¦ mfn. (-तः-ता-तं) Unchanged, permanent. E. अ neg. विकृत changed."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविकृत",
+            "eid": "3978",
+            "pagenum": 83,
+            "content": "अविकृत¦ mfn. (-तः-ता-तं) Unchanged, permanent. .E. अ neg. विकृत changed."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविकृत",
+            "eid": "3400",
+            "pagenum": 65,
+            "content": "अ-विकृत¦ (तः-ता-तं) <i>a.</i> Unchanged."
+        }
     ]
 }

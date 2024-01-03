@@ -215,5 +215,63 @@
             "pagenum": 7,
             "content": "काच¦ II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "काच",
+            "eid": "10279",
+            "pagenum": 141,
+            "content": "<i>kāca</i>¦ 1. e) Tragstrick, <ls>Jātakam.</ls> 22. {part=,seq=10428,type=,n=1}"
+        },
+        {
+            "word": "काच",
+            "eid": "28450",
+            "pagenum": 391,
+            "content": "<i>kāca</i>¦ °Mittel zum Betrügen, <ls>Kauṭ.</ls> 93, 6. {part=N,seq=28821,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "काच",
+            "eid": "9800",
+            "pagenum": 170,
+            "content": "काच¦ r. 1st cl. (इ) काचि (काचते) 1. To shine. 2. To bind."
+        },
+        {
+            "word": "काच",
+            "eid": "9801",
+            "pagenum": 170,
+            "content": "काच¦ m. (-चः) 1. Alkaline ashes, any salt of potash or soda in a glassy or crystalline state. 2. Crystal, quartz or glass, considered as a natural production, and used as a jewel or ornament. 3. A loop, swinging shelf, a string so contrived as to hold or support burthens, &c. 4. A disease of the eyes, affection of the optic nerve or gutta serena. n. (-चं) 1. Alkaline salt, black salt. 2. Wax. E. कच् to shine or bind, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "काच",
+            "eid": "7818",
+            "pagenum": 185,
+            "content": "<b>kāca-</b>¦ <ab>m.</ab> verre.  <P><i>°maṇi-</i> <ab>m.</ab> cristal, quartz."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "काच",
+            "eid": "9805",
+            "pagenum": 207,
+            "content": "काच¦ r. 1st cl. (इ) काचि (काचते) .²1 To shine. .²2 To bind."
+        },
+        {
+            "word": "काच",
+            "eid": "9806",
+            "pagenum": 207,
+            "content": "काच¦ m. (-चः) .²1 Alkaline ashes, any salt of potash or soda in a glassy or crystalline state. .²2 Crystal, quartz or glass, considered as a natural production, and used as a jewel or ornament. .²3 A loop, a swinging shelf, a string so contrived as to hold or support burthens, &c. A disease of the eyes, affection of the optic nerve or gutta serena. n. (-चं) .²1 Alkaline salt, black salt. .²2 Wax. .E. कच to shine or bind, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "काच",
+            "eid": "9244",
+            "pagenum": 174,
+            "content": "काच¦ (चः) 1. <i>m.</i> Glass, crystal; swinging shelf; disease of the eye. <i>n.</i> Black salt; wax."
+        }
     ]
 }

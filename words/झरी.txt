@@ -45,5 +45,21 @@
             "pagenum": 428,
             "content": "¦ <ab>cf.</ab> निर्-.<info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "झरी",
+            "eid": "14080",
+            "pagenum": 194,
+            "content": "*<i>jharī</i>¦ Fluß, <ls>Muk.</ls> 88<sup>d</sup>. <i>jhalajhalāy(amāna)</i> <ls>Rasas.</ls> 138<sup>a</sup> [pw 'vielleicht nur fehlerhaft' für <i>jhaṇajhaṇāy]</i>. {part=,seq=14304,type=*,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "झरी",
+            "eid": "9746",
+            "pagenum": 268,
+            "content": "<b>jharī-</b>¦ <ab>f.</ab> rivière, torrent."
+        }
     ]
 }

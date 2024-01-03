@@ -53,5 +53,27 @@
             "pagenum": 5,
             "content": "अतीर्थ¦ s. तीर्थ ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतीर्थ",
+            "eid": "27737",
+            "pagenum": 382,
+            "content": "<i>atīrtha</i>¦ °ein Ort, wo keine (regelrechte) Überfahrt ist, <ls>Kauṭ.</ls> 126, 1 v.u.; 128, 3. {part=N,seq=28108,type=,n=3}"
+        },
+        {
+            "word": "अतीर्थ",
+            "eid": "27738",
+            "pagenum": 382,
+            "content": "<i>atīrtha</i>¦ n. °eine Stelle, wo keine Furt ist, <ls>Kauṭ.</ls> 139, 3. {part=N,seq=28109,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतीर्थ",
+            "eid": "765",
+            "pagenum": 17,
+            "content": "<b>a-tīrtha-</b>¦ <ab>nt.</ab> moment inopportun ; personne <lbinfo n='5'/> indigne."
+        }
     ]
 }

@@ -58,5 +58,37 @@
             "pagenum": 7,
             "content": "शतार¦ VI. <i>ein <ab>best.</ab></i> <is>Kalpa</is> <i>bei den</i> <is>Jaina</is> <ls>DHARMAŚARM. 21,68</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शतार",
+            "eid": "24783",
+            "pagenum": 341,
+            "content": "<i>śatāra</i>¦ ein best. <i>kalpa</i> bei den Jaina, <ls>Dharmaśarm.</ls> 21, 68. {part=,seq=25123,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शतार",
+            "eid": "39423",
+            "pagenum": 706,
+            "content": "शतार¦ n. (-रं) The thunderbolt. E. शत a hundred, ऋ to go, aff. अण् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शतार",
+            "eid": "37635",
+            "pagenum": 828,
+            "content": "शतार¦ n. (-रं) The thunderbolt. .E. शत a hundred, ऋ to go, aff. अण्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शतार",
+            "eid": "37271",
+            "pagenum": 746,
+            "content": "शतार¦ (रं) 1. <i>n.</i> The thunder-bolt."
+        }
     ]
 }

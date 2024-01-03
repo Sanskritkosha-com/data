@@ -143,5 +143,45 @@
             "pagenum": 7,
             "content": "अभाव¦ <div n='1'> 3) <ls>SŪRYAS. 7, 24. 11, 3.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभाव",
+            "eid": "3991",
+            "pagenum": 55,
+            "content": "<i>abhāva</i>¦ m. ° = <i>abhāgya</i>, <ls>Sūryaś.</ls> 38<sup>c</sup>. {part=,seq=4045,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभाव",
+            "eid": "2469",
+            "pagenum": 43,
+            "content": "अभाव¦ m. (-वः) 1. Non-existence, annihilation. 2. Death. 3. (In logic) Negation of two kinds, संसर्गाभाव universal negation, and अन्योन्याभाव relative or mutual negation. 4. (In rhetoric) Absence of the essential parts of poetical description of character, want of the properties or temperaments. E. अ priv. भाव being."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभाव",
+            "eid": "2793",
+            "pagenum": 59,
+            "content": "<b>a-bhāva-</b>¦ <ab>m.</ab> absence ; non-être ; destruction <lbinfo n='4'/> ; <i>-in-</i> <ab>a.</ab> qui ne doit pas arriver ; <i>-ka-</i> <ab>a.</ab> qui nuit à (<ab>gén.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभाव",
+            "eid": "2471",
+            "pagenum": 52,
+            "content": "अभाव¦ m. (-वः) .²1 Non-existence, annihilation. .²2 Death. .²3 (In logic) Negation of two kinds, संसर्गाभाव universal negation, and अन्योन्याभाव relative or mutual negation. .²4 (In rhetoric) Absence of the essential parts of poetical description of character, want of the properties or temperaments. .E. अ priv. भाव being."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अभाव",
+            "eid": "1995",
+            "pagenum": 40,
+            "content": "अ-भाव¦ (वः) 1. <i>m.</i> Non-existence, want, absence."
+        }
     ]
 }

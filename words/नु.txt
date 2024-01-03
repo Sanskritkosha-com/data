@@ -409,5 +409,75 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> नु¦ III. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "नु",
+            "eid": "17284",
+            "pagenum": 238,
+            "content": "2. <i>nu</i>¦ 1. <i>nuvántam</i> schreiend, <ls>ṚV. 1, 29, 5</ls> angeblich = <i>pīḍayantam</i>, <ls>Verz. d. Oxf. H.</ls> 301, a, 12. {part=,seq=17540,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "नु",
+            "eid": "22499",
+            "pagenum": 406,
+            "content": "नु¦ ind. 1. A particle of interrogation; 2. Of discrimination; 3. Of reflexion; 4. Of doubt; 5. Of contempt; 6. Of pretence; 7. Of respect; 8. A particle implying cause or motive: (what, but, how, hum, or either, &c. will in general express it.) E. णुट् to go, or णु praise, &c. aff. डु."
+        },
+        {
+            "word": "नु",
+            "eid": "22500",
+            "pagenum": 406,
+            "content": "नु¦ m. (-नुः) 1. A weapon. 2. Time. 3. A boat. 4. The nasal mark above the line in neuter nouns, &c. f. (-नुः) Praise, eulogium, panegyric. E. णु to praise, &c. aff. क्किप्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "नु",
+            "eid": "12628",
+            "pagenum": 391,
+            "content": "<b>1 NU-</b>¦ <i>nauti</i> (<i>nuvanti</i>) ; <i>nunāva ; nūyate ; nuta- °nutya</i> clamer, acclamer, louer (hautement) <lbinfo n='6'/> ; <ab>a. v.</ab> loué, célébré.  <P><i>nuta-mitra-</i> <ab>m.</ab> <ab>n.</ab> d'un homme."
+        },
+        {
+            "word": "नु",
+            "eid": "12629",
+            "pagenum": 391,
+            "content": "<b>2 nu</b>¦ particule d'insistance dans les phrases <ab>interr.</ab>, renforce un <ab>pron.</ab> ou un <ab>adv.</ab> pronominal <lbinfo n='5'/> : <i>kiṃ nu</i> quoi donc ? pourquoi donc ? <i>kathaṃ</i> <i>nu</i> comment donc ? etc. ; isolément (<ab>ord.</ab> dans des phrases <ab>interr.</ab> de 2 ou plusieurs <lbinfo n='6'/> membres) serait-ce ? est-ce donc ? <ab>qqf.</ab> sans valeur <ab>interr.</ab> donc, certes, sans doute ; <i>nu...nu</i> ou...ou."
+        },
+        {
+            "word": "नु",
+            "eid": "12630",
+            "pagenum": 391,
+            "content": "<b>3 nu-</b>¦ <ab>ifc.</ab> = <i>nau-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नु",
+            "eid": "22514",
+            "pagenum": 486,
+            "content": "नु¦ <i>ind.</i> .²1 A particle, of interrogation; .²2 Of discrimination; .²3 of reflexion. .²4 Of doubt; .²5 Of contempt; .²6 Of pretence; .²7 Of respect. .²8 A particle implying cause or motive: (what, but, how, hum, or, either, &c. will in general express it.) .E. नुद to go, or नु praise, &c. aff. डु."
+        },
+        {
+            "word": "नु",
+            "eid": "22515",
+            "pagenum": 486,
+            "content": "नु¦ m. (-नुः) .²1 A weapon. .²2 Time. .²3 A boat. .²4 The nasal mark above the line in neuter nouns, &c. f. (नुः) Praise, eulogium, panegyrick. .E. ण्णु to praise, &c. aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नु",
+            "eid": "21982",
+            "pagenum": 433,
+            "content": "नु¦ <i>adv.</i> What, how, or, either."
+        },
+        {
+            "word": "नु",
+            "eid": "21983",
+            "pagenum": 433,
+            "content": "नु¦ (नुः) 2. <i>m.</i> A weapon; time; boat; nasal mark. <i>f.</i> Praise, eulogium."
+        }
     ]
 }

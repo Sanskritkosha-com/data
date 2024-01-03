@@ -204,5 +204,43 @@
             "pagenum": 5,
             "content": "2. दिन¦, दिनानामधिपतिः <i>die Sonne</i> <ls>Spr. 74.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "दिन",
+            "eid": "18948",
+            "pagenum": 340,
+            "content": "दिन¦ mn. (-नः-नं) A day. E. दी to waste, नक् affix, and the vowel made short; or दो to destroy, (darkness,) किनन् Unadi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "दिन",
+            "eid": "10503",
+            "pagenum": 306,
+            "content": "<b>dina-</b>¦ <ab>nt.</ab> jour ; journée, durée de 24 heures.  <P><i>°kara- °kartṛ- °kṛt-</i> <ab>m.</ab> soleil.  <P><i>°kartavya- °kārya- kṛtya-</i> <ab>nt.</ab> <i>°kriyā-</i> <ab>f.</ab> (qui doit être fait dans la journée) cérémonie journalière <lbinfo n='7'/> ; affaires journalières.  <P><i>°caryā-</i> <ab>f.</ab> occupations de la journée.  <P><i>°pati-</i> (seigneur du jour) <ab>m.</ab> soleil.  <P><i>°pāṭikā-</i> (?) <ab>f.</ab> salaire journalier.  <P><i>°maṇi-</i> <ab>m.</ab> <i>°ratna-</i> <ab>nt.</ab> (joyau du jour) soleil.  <P><i>°mukha-</i> (commencement du jour) <ab>nt.</ab> aurore, aube, matinée.  <P><i>°mūrdhan-</i> <ab>m.</ab> montagne de l'Est derrière laquelle le soleil est censé se lever.  <P><i>dinādi-</i> <ab>m.</ab> = <i>°mukha-.</i>  <P><i>dinādhinātha- dinādhīśa-</i> <ab>m.</ab> = <i>°pati-.</i>  <P><i>dinānta-</i> <ab>m.</ab> <i>dināvasāna-</i> <ab>nt.</ab> fin de la journée, <lbinfo n='3'/> soir, coucher du soleil.  <P><i>dinārdha-</i> <ab>m.</ab> demi-journée."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दिन",
+            "eid": "18963",
+            "pagenum": 408,
+            "content": "दिन¦ mn. (-नः-नं) A day. .E. दी to waste, नक् affix, and the vowel made short; or दो to destroy, (darkness,) किनन् Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दिन",
+            "eid": "18435",
+            "pagenum": 363,
+            "content": "दिन¦ (नः-नं) 1. <i>m. n.</i> A day."
+        },
+        {
+            "word": "दिन",
+            "eid": "18437",
+            "pagenum": 363,
+            "content": "दिन,¦ करा-त्म-जा (जा) 1. <i>f.</i> The <i>Jamnā.</i>"
+        }
     ]
 }

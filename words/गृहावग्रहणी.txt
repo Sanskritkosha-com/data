@@ -36,5 +36,37 @@
             "pagenum": 5,
             "content": "गृहावग्रहणी¦ <lex>f.</lex> <i>Hausschwelle, der Platz vor einem Hause</i> <ls>HARṢAC. (1936) 335,6</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गृहावग्रहणी",
+            "eid": "12456",
+            "pagenum": 171,
+            "content": "<i>gṛhāvagrahaṇī</i>¦ f. Hausschwelle, der Platz vor einem Hause, <ls>Harṣac.</ls> (1936) 335, 6. [S. II, 27, 6; 185, 4.] {part=,seq=12647,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गृहावग्रहणी",
+            "eid": "13868",
+            "pagenum": 244,
+            "content": "गृहावग्रहणी¦ f. (-णी) The threshold, a raised ground or terrace in front of the door. E. गृह a house, and अव prefixed to ग्रह to take, affixes ल्युट् and ङीप्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गृहावग्रहणी",
+            "eid": "13877",
+            "pagenum": 296,
+            "content": "गृहावग्रहणी¦ f. (-णी) The threshold, a raised ground or a terrace in front of the door. .E. गृह a house, and अव prefixed to ग्रह to take, affixes ल्युट् and ङीप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गृहावग्रहणी",
+            "eid": "13333",
+            "pagenum": 259,
+            "content": "गृहा-वग्रहणी¦ (णी) 3. <i>f.</i> A threshold."
+        }
     ]
 }

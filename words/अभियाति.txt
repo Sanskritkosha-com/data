@@ -74,5 +74,43 @@
             "pagenum": 5,
             "content": "अभियाति¦ <ls>HALĀY. 2, 300.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभियाति",
+            "eid": "4143",
+            "pagenum": 57,
+            "content": "*<i>abhiyāti</i>¦ m. Feind, <ls>S</ls> I, 179, 9 v.u. (Ko.); <ls>H</ls> XVI, 65 [könnte auch <i>*abhiyātin</i> sein]; 48, 59. {part=,seq=4199,type=*,n=3}"
+        },
+        {
+            "word": "अभियाति",
+            "eid": "27886",
+            "pagenum": 384,
+            "content": "*<i>abhiyāti</i>¦ m. Feind, <ls>Viṣṇubh.</ls> III, 18<sup>a</sup>. {part=N,seq=28257,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभियाति",
+            "eid": "2576",
+            "pagenum": 45,
+            "content": "अभियाति¦ m. (-तिः) An enemy. E. अभि against, या to go, with अति affix, see अभियातिन्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभियाति",
+            "eid": "2578",
+            "pagenum": 55,
+            "content": "अभियाति¦ m. (-तिः) An enemy. .E. अभि against, या to go, with अति affix, see अभियातिन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अभियाति",
+            "eid": "2097",
+            "pagenum": 42,
+            "content": "अभि-याति¦ (तिः) 2. <i>m.</i> An enemy."
+        }
     ]
 }

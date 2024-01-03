@@ -190,5 +190,57 @@
             "pagenum": 7,
             "content": "कच¦ II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कच",
+            "eid": "9478",
+            "pagenum": 130,
+            "content": "<i>kaca</i>¦ 2. *f. <i>kacā</i> a) Elefantenweibchen. — b) Glanz, Schönheit. {part=,seq=9605,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कच",
+            "eid": "8523",
+            "pagenum": 147,
+            "content": "कच¦ r. 1st cl. (कचते) 1. To bind. 2. To shine. 3. To sound. (इ) कचि r. 1st cl. (कञ्चते) 1. To shine. 2. To bind; also काचि."
+        },
+        {
+            "word": "कच",
+            "eid": "8524",
+            "pagenum": 147,
+            "content": "कच¦ m. (-चः) 1. The hair. 2. A proper name, the son of VRIHASPATI. 3. Binding or a binding. 4. A cicatrix, a dry or healed sore. 5. A cloud. f. (-चा) 1. A female elephant. 2. Beauty, brilliance. E. कच् to bind, &c. अच् affix, fem. टाप्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कच",
+            "eid": "7513",
+            "pagenum": 171,
+            "content": "<b>kaca-</b>¦ <ab>m.</ab> cheveu, chevelure ; fils de Bṛhaspati. <lbinfo n='4'/>  <P><i>°graha-</i> <ab>m.</ab> fait de prendre par les cheveux ; <i>°grahaṇa-</i> <ab>nt.</ab> <ab>id.</ab>  <P><i>°rūpin-</i> <ab>a.</ab> ayant la forme de Kaca.  <P><i>kacācita-</i> <ab>a.</ab> échevelé.  <P><i>kacā-kaci</i> <ab>adv.</ab> (en se prenant l'un l'autre) par les cheveux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कच",
+            "eid": "8528",
+            "pagenum": 179,
+            "content": "कच¦ r. 1st cl. (कचते) .²1 To bind. .²2 To shine. .²3 To sound. (इ) कचि r. 1st cl. (कञ्चते) .²1 To shine. .²2 To bind; also काचि."
+        },
+        {
+            "word": "कच",
+            "eid": "8529",
+            "pagenum": 179,
+            "content": "कच¦ m. (-चः) .²1 The hair. .²2 A proper name, the son of VṚHASPATI. .²3 Binding or a binding. .²3 A cicatrix, a dry or healed sore. .²5 A cloud. f. (-चा) .²1 A female elephant. .²2 Beauty, brilliance. .E. कच to bind, &c. अच् affix, fem. टाप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कच",
+            "eid": "7955",
+            "pagenum": 148,
+            "content": "कच¦ (चः) 1. <i>m.</i> The hair; binding; a cicatrix; a cloud. <i>f.</i> (चा) A female elephant; beauty."
+        }
     ]
 }

@@ -39,5 +39,21 @@
             "pagenum": 4,
             "content": "प्रविवेक¦ <lex>m.</lex> wohl = विवेक <ls>VYUTP. 146.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रविवेक",
+            "eid": "19572",
+            "pagenum": 270,
+            "content": "<i>praviveka</i>¦ °discrimination, <ls>Harṣac.</ls> 101, 15. {part=,seq=19847,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रविवेक",
+            "eid": "15325",
+            "pagenum": 484,
+            "content": "<b>pra-viveka-</b>¦ <ab>m.</ab> discrimination."
+        }
     ]
 }

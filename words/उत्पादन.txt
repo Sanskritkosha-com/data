@@ -105,5 +105,37 @@
             "pagenum": 5,
             "content": "उत्पादन¦ <div n='1'> 1) केशोत्पादनमौषधम् <ls>KATHĀS. 61, 181.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "उत्पादन",
+            "eid": "6880",
+            "pagenum": 118,
+            "content": "उत्पादन¦ n. (-नं) Producing, generating, begetting. E. उत् before पद् to go, causal form, ल्युट् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उत्पादन",
+            "eid": "6218",
+            "pagenum": 139,
+            "content": "<b>ut-pādana-</b>¦ <i>-ī-</i> <ab>a.</ab> qui produit ; <ab>nt.</ab> production, <lbinfo n='7'/> réalisation."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उत्पादन",
+            "eid": "6882",
+            "pagenum": 144,
+            "content": "उत्पादन¦ n. (-नं) Producing, generating, begetting. .E. उत् before पद to go, causal form, ल्युट् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उत्पादन",
+            "eid": "6284",
+            "pagenum": 118,
+            "content": "उत्पा_दन¦ (नं) 1. <i>n.</i> Producing."
+        }
     ]
 }

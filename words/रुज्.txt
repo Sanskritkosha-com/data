@@ -258,5 +258,63 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> रुज्¦ mit अभि V. <i>versehren, verletzen</i> <ls>JĀTAKAM. 10,29</ls>. <ls n='JĀTAKAM.'>22,72</ls>. <ls n='JĀTAKAM.'>25,6</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "रुज्",
+            "eid": "22690",
+            "pagenum": 313,
+            "content": "1. <i>ruj</i>¦ , <i>rugṇa</i> °krank, <ls>S</ls> I, 511, 14 v.u. (Ko.). — Mit <i>abhi</i> versehren, verletzen, <ls>Jātakam.</ls> 10, 29; 22, 72; 25, 6. — Mit <i>°vyā</i> ganz zerbrechen, <ls>H</ls> 45, 3. {part=,seq=23007,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "रुज्",
+            "eid": "33744",
+            "pagenum": 606,
+            "content": "रुज्(औ, ओ)औरुजो¦ r. 6th cl. (रुजति) 1. To afflict, to disorder, to afflict with pain or disease. 2. To bend or break. r. 10th cl. (रोजयति-ते) To hurt, to injure."
+        },
+        {
+            "word": "रुज्",
+            "eid": "33745",
+            "pagenum": 606,
+            "content": "रुज्¦ f. (-रुक्) 1. Sickness, disease. 2. Fracture. 3. Effort. E. रुज् to be or make sick, aff. क्विप्; also with टाप् added रुजा ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "रुज्",
+            "eid": "17432",
+            "pagenum": 607,
+            "content": "<b>1 RUJ-</b>¦ <i>rujati -te ; ruroja ; arūrujat ; rujyate ;</i><i> rugṇa- °rujya-</i> briser, détruire (en brisant) ; tourmenter, faire souffrir (<ab>acc.</ab> <ab>gén.</ab>) ; <ab>caus.</ab> frapper (<ab>loc.</ab>)."
+        },
+        {
+            "word": "रुज्",
+            "eid": "17433",
+            "pagenum": 607,
+            "content": "<b>2 ruj-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> (<ab>nom.</ab> <i>ruk</i>) qui brise, détruit ; <ab>f.</ab> peine, mal, maladie ; <i>-ā-</i> <ab>f.</ab> <ab>id.</ab> ; brisure.  <P><i>rug-ārta-</i> <ab>a. v.</ab> affligé, malade.  <P><i>rujas-kara-</i> <ab>ag.</ab> qui cause de la peine ; <i>rujākara-</i><i> -ī-</i> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "रुज्",
+            "eid": "32402",
+            "pagenum": 707,
+            "content": "रुज्¦ f. (रुक्) Sickness, disease. .E. रुज् to be or make sick, aff. क्विप्; also with टाप् added रुजा."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रुज्",
+            "eid": "31976",
+            "pagenum": 632,
+            "content": "रुज्¦ (श, औ, ओ) रुजति 6. <i>a.</i> To afflict; to bend or break. (क) रोजयति 10. <i>a.</i> To hurt, injure."
+        },
+        {
+            "word": "रुज्",
+            "eid": "31977",
+            "pagenum": 632,
+            "content": "रुज्¦ (क्) 5. <i>f.</i> Sickness, disease."
+        }
     ]
 }

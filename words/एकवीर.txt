@@ -75,5 +75,37 @@
             "pagenum": 5,
             "content": "एकवीर¦ <div n='1'> 1) <ls>KATHĀS. 53, 195.</ls> <ls n='KATHĀS.'>60, 92.</ls> <div n='1'>— 3) <lex>f.</lex> आ N. pr. einer Tochter <is>Śiva's</is> <ls>Verz. d. Oxf. H. 18,a,20. 19,a,40. 39,b,16.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकवीर",
+            "eid": "9146",
+            "pagenum": 125,
+            "content": "<i>ekavīra</i>¦ <ls>Kauś.</ls> 47, 14 (Stricke aus ekavīra; pw *ein best. Baum). {part=,seq=9267,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "एकवीर",
+            "eid": "8155",
+            "pagenum": 140,
+            "content": "एकवीर¦ m. (-रः) A chief warrior. E. एक and वीर a hero."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकवीर",
+            "eid": "8159",
+            "pagenum": 171,
+            "content": "एकवीर¦ m. (-रः) A chief warrior. .E. एक and वीर a hero."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकवीर",
+            "eid": "7578",
+            "pagenum": 141,
+            "content": "एक-वीर¦ (रः) 1. <i>m.</i> A chief warrior."
+        }
     ]
 }

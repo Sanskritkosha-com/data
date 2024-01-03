@@ -36,5 +36,37 @@
             "pagenum": 3,
             "content": "देवधान्य¦ (देव + धान्य) <lex>n.</lex> <i>Götterkorn</i>, Bez. des <i>Andropogon saccharatus Roxb.</i> <ls>H. 1178.</ls> <i>Andr. Sorghum Roxb.</i> <ls>HAUGHT.</ls> = vulg. देधान, im Hindi जोआर <ls>ŚKDR.</ls> <lang n='arabic'>جوار</lang> ist im Afghan. auch <i>Holcus (Andr.) Sorghum</i>; vgl. <ls>RAVERTY</ls>, Dict. of Puk'hto, p. 343. Nach <ls>BASINER</ls> ( <ls>BAER</ls> und <ls>HELMERSEN</ls>, <ls>Beitr. z. Kenntn. d. russ. Reiches XV, 233</ls>) bezeichnet das mit letzterem wohl identische <is>Dschugará</is> in Chiwa <i>Sorghum cernuum Willd.</i> — <ls>KĀTY. PADDH. 176, 4.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "देवधान्य",
+            "eid": "19613",
+            "pagenum": 352,
+            "content": "देवधान्य¦ n. (-न्यं) A sort of grain cultivated in many parts of Hindustan, (Andropogon saccharatus.) E. देव a deity, and धान्य corn."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "देवधान्य",
+            "eid": "130",
+            "pagenum": 563,
+            "content": "<i>devadhānya</i>¦ <div n='P'/>(1) [<bot>SORGHUM VULGARE (LINN.) PERS. VAR. SACCHARATUM BOERL.</bot>] = <bot>S. VULGARE PERS.</bot> = <bot>S. SACCHARATUM MOENCH.</bot> (DWH 3, p. 621) = <bot>S. CERNUUM WILLD.</bot> (MW) = <bot>ANDROPOGON SACCHARATUS ROXB.</bot> (Chopra; MW; PW; Roxb., p. 91) = <bot>A. SORGHUM ROXB.</bot> (PW) = <bot>A. SORGHUM BROT.</bot> (MW) = <bot>HOLCUS SACCHARATUM LINN.</bot> (MW); see about sorghum: Gode, St. <bot>I.</bot><bot>C.</bot><bot>H.</bot> 1, p. 266-282; <div n='P'/>(2) <bot>ZEA MAYS LINN.</bot> (Vśs)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "देवधान्य",
+            "eid": "19627",
+            "pagenum": 422,
+            "content": "देवधान्य¦ n. (-न्यं) A sort of grain cultivated in many parts of <i>Hindūstan,</i> (<bot>Andropogon saccharatus</bot>.) .E. देव a deity, and धान्य corn."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "देवधान्य",
+            "eid": "19104",
+            "pagenum": 376,
+            "content": "देव-धान्य¦ (न्यं) 1. <i>n.</i> A sort of grain."
+        }
     ]
 }

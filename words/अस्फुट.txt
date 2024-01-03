@@ -102,5 +102,45 @@
             "pagenum": 7,
             "content": "अस्फुट¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अस्फुट",
+            "eid": "6395",
+            "pagenum": 88,
+            "content": "<i>asphuṭa</i>¦ n. Unklarheit des Ausdrucks. {part=,seq=6481,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अस्फुट",
+            "eid": "4784",
+            "pagenum": 81,
+            "content": "अस्फुट¦ n. (-टं) Indistinct speech. mfn. (-टः-टा-टं) 1. Indistinot, obscure. 2. Invisible. 3. Unblown. E. अ neg. and स्फुट open, clear."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अस्फुट",
+            "eid": "4836",
+            "pagenum": 105,
+            "content": "<b>a-sphuṭa-</b>¦ <ab>a.</ab> indistinct."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अस्फुट",
+            "eid": "4786",
+            "pagenum": 99,
+            "content": "अस्फुट¦ n. (-टं) Indistinct speech. mfn. (-टः-टा-टं) .²1 Indistinct, obscure. .²2 Invisible. .²3 Unblown. .E. अ neg. and स्फुट open, clear."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अस्फुट",
+            "eid": "4156",
+            "pagenum": 78,
+            "content": "अ-स्फुट¦ (टं) 1. <i>n.</i> Indistinct speech. <i>a.</i> Indistinct; unblown."
+        }
     ]
 }

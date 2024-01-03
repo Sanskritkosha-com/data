@@ -21,5 +21,37 @@
             "pagenum": 303,
             "content": "¦ bounded, limited.<info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कृतावधि",
+            "eid": "11160",
+            "pagenum": 153,
+            "content": "°<i>kṛtāvadhi</i>¦ Adj. dessen Zeit bestimmt ist, <ls>Kir.</ls> II, 46. {part=,seq=11328,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कृतावधि",
+            "eid": "11356",
+            "pagenum": 199,
+            "content": "कृतावधि¦ mfn. (-धिः-धिः-धि) 1. Fixed, appointed, agreed upon. 2. Bounded, limited. E. कृत, and अवधि term, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कृतावधि",
+            "eid": "11362",
+            "pagenum": 242,
+            "content": "कृतावधि¦ mfn. (-धिः-धिः-धि) .²1 Fixed, appointed, agreed upon. .²2 Bounded, limited. .E. कृत, and अवधि term, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कृतावधि",
+            "eid": "10811",
+            "pagenum": 207,
+            "content": "कृता_वधि¦ (धिः-धिः-धि) <i>a.</i> Fixed, appointed; bounded, limited."
+        }
     ]
 }

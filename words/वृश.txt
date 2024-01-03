@@ -111,5 +111,43 @@
             "pagenum": 7,
             "content": "वृ/श¦ VI. <lex>m.</lex> <i>ein <ab>best.</ab> kleines Thier</i> <ls>MAITR. S. 4,8,1 (107,16)</ls>. Die anderen <is>Saṃhitā</is> वृष und ये/वाष."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वृश",
+            "eid": "24387",
+            "pagenum": 336,
+            "content": "<i>vṛśa</i>¦ m. ein best. kleines Tier, <ls>Maitr. S.</ls> 4, 8, 1 (107, 16). Die anderen <i>saṃhitās</i> haben <i>vṛṣa</i> und <i>yévāṣa</i>. {part=,seq=24723,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वृश",
+            "eid": "38260",
+            "pagenum": 685,
+            "content": "वृश¦ m. (-शः) 1. A rat. 2. A flower, (Justicia ganderussa.) f. (-शा) A drug. n. (-शं) Ginger. E. वृ to choose, शक् Unadi aff.: see वृष ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वृश",
+            "eid": "36550",
+            "pagenum": 802,
+            "content": "वृश¦ r. 4th cl. (वृश्यति) To choose, to prefer or select."
+        },
+        {
+            "word": "वृश",
+            "eid": "36551",
+            "pagenum": 802,
+            "content": "वृश¦ m. (-शः) .²1 A rat. .²2 A flower, (<bot>Justicia ganderussa</bot>.) f. (-शा) A drug. n. (-शं) Ginger. .E. वृ to choose, शक् Uṇādi aff.; also वृष."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वृश",
+            "eid": "36167",
+            "pagenum": 721,
+            "content": "वृश¦ (शः) 1. <i>m.</i> A rat; a <i>justicia</i> flower. <i>f.</i> A drug. <i>n.</i> Ginger."
+        }
     ]
 }

@@ -64,5 +64,29 @@
             "pagenum": 5,
             "content": "दुर्विध¦ <div n='1'> 1) <ls>LA. (II) 91, 7.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दुर्विध",
+            "eid": "15545",
+            "pagenum": 214,
+            "content": "<i>durvidha</i>¦ *arm, <ls>S</ls> I, 57, 4; <ls>Prabandh.</ls> 10, 3 v.u.; in <i>matidurvidha = prajñādaridra</i> <ls>H</ls> 12, 42. 73; 36, 59 [= <i>daridra</i>]; <ls>Harṣac.</ls> 236, 14. {part=,seq=15786,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दुर्विध",
+            "eid": "19352",
+            "pagenum": 347,
+            "content": "दुर्विध¦ mfn. (-धः-धा-धं) 1. Poor, pauper, indigent. 2. Wicked, melevolent. 3. Foolish, stupid. E. दुर् bad, ill, विध habit, custom."
+        }
+    ],
+    "STC": [
+        {
+            "word": "दुर्विध",
+            "eid": "10755",
+            "pagenum": 316,
+            "content": "<b>dur-vidha-</b>¦ <ab>a.</ab> de mauvaise espèce ; vil, misérable ; malchanceux, pauvre ; <i>-i-</i> <ab>f.</ab> infortune, <lbinfo n='7'/> malchance, mauvais sort."
+        }
     ]
 }

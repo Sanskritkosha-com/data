@@ -81,5 +81,37 @@
             "pagenum": 7,
             "content": "नियाम¦ III. *<lex>m.</lex> <i>Bestimmung</i> <ls>MAHĀVY. 245,99</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "नियाम",
+            "eid": "16824",
+            "pagenum": 232,
+            "content": "<i>niyāma</i>¦ *m. Bestimmung, <ls>Mahāvy.</ls> 245, 99. {part=,seq=17076,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "नियाम",
+            "eid": "21811",
+            "pagenum": 393,
+            "content": "नियाम¦ m. (-मः) 1. Religious act, penance, fasting, &c. especially if an act of supererogation. 2. Restraint. E. नि before, यम् to restrain, affix घञ्ः see नियम."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नियाम",
+            "eid": "21824",
+            "pagenum": 470,
+            "content": "नियाम¦ m. (-मः) .²1 Religious act, penance, fasting, &c. especially if an act of supererogation. .²2 Restraint. .E. नि before यम to restrain, affix घञ्: see नियम."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नियाम",
+            "eid": "21301",
+            "pagenum": 419,
+            "content": "नि-याम¦ (मः) 1. <i>m.</i> Religious act; penance, &c.; restraint."
+        }
     ]
 }

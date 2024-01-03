@@ -129,5 +129,37 @@
             "pagenum": 5,
             "content": "कथक¦ <div n='1'> 1) <i>Erzähler</i>: °लक्षण <ls>Verz. d. Oxf. H. 153,a, No. 328.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "कथक",
+            "eid": "8785",
+            "pagenum": 152,
+            "content": "कथक¦ mfn. (-कः-का-कं) 1. A narrator, a relator, one who recites a story, or who publicly reads and expounds the Puranas, &c. 2. One who speaks or tells. mf. (-कः-का) The speaker of a prologue or a monologue. 3. A professional story teller. E. कथ to speak, to relate, वुन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कथक",
+            "eid": "7563",
+            "pagenum": 173,
+            "content": "<b>kathaka-</b>¦ <ab>ag.</ab> narrateur, conteur (professionnel). <lbinfo n='7'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कथक",
+            "eid": "8790",
+            "pagenum": 185,
+            "content": "कथक¦ mfn. (-कः-का-कं) .²1 A narrator, a relator, one who recites a story, or who publicly reads and expounds the <i>Purāṇas,</i> &c. .²2 One who speaks or tells. mf. (-कः-का) The speaker of a prologue or a monologue. .²2 A professional story teller. .E. कथ to speak, to relate, वुन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कथक",
+            "eid": "8219",
+            "pagenum": 154,
+            "content": "कथक¦ (कः) 1. <i>m.</i> A speaker, narrator; the speaker of a prologue."
+        }
     ]
 }

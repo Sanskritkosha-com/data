@@ -243,5 +243,61 @@
             "pagenum": 1,
             "content": "2. अह/¦ <lex>m.</lex> am Ende eines comp. s. u. अहन् am Ende."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अह",
+            "eid": "4833",
+            "pagenum": 82,
+            "content": "अह¦ r. 5th cl. (अहति) To pervade or occupy. (इ) अहि r. 1st. cl. (अंहते) To go or move: also 10th cl. (अंहयति) To shine."
+        },
+        {
+            "word": "अह",
+            "eid": "4834",
+            "pagenum": 82,
+            "content": "अह¦ ind. A particle and interjection implying; 1. Commendation: 2. Rejecting, sending: 3. Deviation from custom, (improperly:) 4. Certainty, ascertainment. E. अ neg. ह from हन् to hurt, affix ड."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अह",
+            "eid": "4856",
+            "pagenum": 105,
+            "content": "<b>aha-</b>¦ <ab>ifc.</ab> = <i>ahar-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अह",
+            "eid": "4835",
+            "pagenum": 100,
+            "content": "अह¦ r. 5th cl. (अहति) To pervade or occupy. (इ.) अहि r. 1st cl. (अंहते) To go or move; also 10th cl. (अंहयति) To shine."
+        },
+        {
+            "word": "अह",
+            "eid": "4836",
+            "pagenum": 100,
+            "content": "अह¦ <i>ind.</i> A particle and interjection implying; .²1 Commendation: .²2 Rejecting, sending: .²3 Deviation from custom, (improperly:) .²4 Certainty, ascertainment. .E. अ neg. ह from हन to hurt, affix ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अह",
+            "eid": "4209",
+            "pagenum": 79,
+            "content": "अह¦ (इ-ङ) (अहते) 1. <i>d.</i> To move."
+        },
+        {
+            "word": "अह",
+            "eid": "4210",
+            "pagenum": 79,
+            "content": "अह¦ (इ-क) (अहयति) 10. <i>a.</i> To shine."
+        },
+        {
+            "word": "अह",
+            "eid": "4211",
+            "pagenum": 79,
+            "content": "अह¦ <i>interj.</i> Oh."
+        }
     ]
 }

@@ -41,5 +41,19 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> <hom>2.</hom> एकवेद¦ 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकवेद",
+            "eid": "9149",
+            "pagenum": 125,
+            "content": "1. <i>ekaveda</i>¦ m. ein einziger Veda, <ls>MBh.</ls> 3, 149, 30. {part=,seq=9270,type=,n=2}"
+        },
+        {
+            "word": "एकवेद",
+            "eid": "9150",
+            "pagenum": 125,
+            "content": "2. <i>ékaveda</i>¦ Adj. mit einem Veda vertraut, nur einen Veda studierend, <ls>MBh.</ls> 3, 149, 20. 28; 5, 43, 42. {part=,seq=9271,type=,n=3}"
+        }
     ]
 }

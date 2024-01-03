@@ -21,5 +21,21 @@
             "pagenum": 7,
             "content": "असंचेतयमान¦ 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असंचेतयमान",
+            "eid": "6102",
+            "pagenum": 84,
+            "content": "<i>asaṃcetayamāna</i>¦ Adj. nicht gewahr werdend, <ls>Spr. 6125.</ls> {part=,seq=6186,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "असंचेतयमान",
+            "eid": "4651",
+            "pagenum": 101,
+            "content": "<b>a-saṃcetayamāna-</b>¦ <ab>partic.</ab> qui ne perçoit <lbinfo n='4'/> pas."
+        }
     ]
 }

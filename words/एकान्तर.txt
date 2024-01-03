@@ -67,5 +67,43 @@
             "pagenum": 5,
             "content": "एकान्तर¦ <ls>VS. PRĀT. 6, 13.</ls> <ls>WEBER, JYOT. 36.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकान्तर",
+            "eid": "9207",
+            "pagenum": 126,
+            "content": "<i>ekāntara</i>¦ m. ° = <i>tṛtīyadeśasthita</i> (der zweitnächste benachbarte Fürst), SI, 473, 2. {part=,seq=9329,type=,n=3}"
+        },
+        {
+            "word": "एकान्तर",
+            "eid": "28329",
+            "pagenum": 390,
+            "content": "<i>ekāntara</i>¦ °Subst. n. Platz für einen Mann, <ls>Kauṭ.</ls> 139, 3 v.u. {part=N,seq=28700,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "एकान्तर",
+            "eid": "8187",
+            "pagenum": 141,
+            "content": "एकान्तर¦ mfn. (-रः-रा-रं) Next but one. E. एक and अन्तर between."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकान्तर",
+            "eid": "8191",
+            "pagenum": 172,
+            "content": "एकान्तर¦ mfn. (-रः-रा-रं) Next but one. .E. एक and अन्तर between."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकान्तर",
+            "eid": "7611",
+            "pagenum": 142,
+            "content": "एका_न्तर¦ (रः-रा-रं) <i>a.</i> Next but one."
+        }
     ]
 }

@@ -55,5 +55,37 @@
             "pagenum": 2,
             "content": "चोस्क¦ <lex>m.</lex> <i>ein Pferd aus dem Indusgebiete</i> <ls>TRIK. 2, 8, 43.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "चोस्क",
+            "eid": "13478",
+            "pagenum": 185,
+            "content": "<i>coska</i>¦ <ls>Trik.</ls>; die ed. Bomb. (418) hat {part=,seq=13691,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चोस्क",
+            "eid": "15481",
+            "pagenum": 275,
+            "content": "चोस्क¦ m. (-स्कः) A horse of a particular and good breed."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चोस्क",
+            "eid": "15487",
+            "pagenum": 332,
+            "content": "चोस्क¦ m. (-स्कः) A horse of a particular and good breed."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चोस्क",
+            "eid": "14947",
+            "pagenum": 292,
+            "content": "चोस्क¦ (स्कः) 1. <i>m.</i> A horse of a particular good breed."
+        }
     ]
 }

@@ -146,5 +146,45 @@
             "pagenum": 7,
             "content": "आरोग्य¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आरोग्य",
+            "eid": "7271",
+            "pagenum": 99,
+            "content": "<i>ārogya</i>¦ Adj. 1. gesund, Hemādri 1, 609, 2. — 2. Gesundheit verleihend, ebenda 1, 576, 19; 619, 19; 766, 19; 797, 20. {part=,seq=7372,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आरोग्य",
+            "eid": "5743",
+            "pagenum": 98,
+            "content": "आरोग्य¦ n. (-ग्यं) Health. E. आङ् reverse, रुज् to be sick, यञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आरोग्य",
+            "eid": "5533",
+            "pagenum": 122,
+            "content": "<b>ā-rogya-</b>¦ <ab>nt.</ab> (bonne) santé ; <i>-tā-</i> <ab>f.</ab> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आरोग्य",
+            "eid": "5745",
+            "pagenum": 119,
+            "content": "आरोग्य¦ n. (-ग्यं) Health. .E. आङ् reverse, रुज to be sick, यञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आरोग्य",
+            "eid": "5128",
+            "pagenum": 96,
+            "content": "आ-रोग्य¦ (ग्यं) 1. <i>n.</i> Health."
+        }
     ]
 }

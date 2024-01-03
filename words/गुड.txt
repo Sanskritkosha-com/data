@@ -222,5 +222,63 @@
             "pagenum": 5,
             "content": "गुड¦ <div n='1'> 1) <div n='2'> a) Z. 4 <ls>NĪLAK.</ls> zu <ls>MBH. 3, 643</ls> : गुडा गोलकाः शृङ्गिकास्तदुत्क्षेपकयन्त्राणि शत्रूणामुपरि पातनाय तप्तो गुडो द्रवीभूतो यत्र शिखरे स्थाप्यते तत्सहितेत्यन्ये . Auch गुड <lex>m.</lex> <i>Pille</i> <ls>ŚĀRṄG. SAṂH.</ls> in <ls>Verz. d. B. H. 283 (XIII).</ls> <div n='v'>— Vgl. बहुगुडा ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गुड",
+            "eid": "12323",
+            "pagenum": 169,
+            "content": "<i>guḍa</i>¦ m. *Rüstung für Elefanten, <ls>S</ls> I, 582, 5. {part=,seq=12512,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गुड",
+            "eid": "13584",
+            "pagenum": 239,
+            "content": "गुड(शि)¦ r. 6th cl. (गुडति) To defend, to guard or preserve. (इ) गुडि r. 1st and 10th cls. (गुण्डति गुण्डयति) 1. To surround, to enclose, 2. To pound, to grind, to reduce to powder. 3. (According to some authorities,) To preserve."
+        },
+        {
+            "word": "गुड",
+            "eid": "13585",
+            "pagenum": 239,
+            "content": "गुड¦ mfn. (-डः-डा-डं) Round, globular, m. (-डः) 1. A globe or ball. 2. Treacle, molasses, the first thickening of the juice of the cane by boiling. 3. An elephant's trappings or armour. 4. A mouthful. f. (-डा) 1. A plant, (Euphorbia tirucalli:) see स्नुही 2. Powder, pounded substance. E. गुङ् to sound, affix ड."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गुड",
+            "eid": "8802",
+            "pagenum": 229,
+            "content": "<b>guḍa-</b>¦ <ab>m.</ab> boule, balle ; motte, morceau ; résidu du sucre, mélasse ; <i>-ka-</i> balle.  <P><i>°piṣṭa-</i> <ab>nt.</ab> entremets fait de farine et de mélasse.  <P><i>°śṛṅgikā-</i> <ab>f.</ab> lance-balles.  <P><i>guḍodaka-</i> <ab>nt.</ab> mélasse délayée avec de l'eau."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गुड",
+            "eid": "13593",
+            "pagenum": 290,
+            "content": "गुड¦ (शि) r. 6th cl. (गुडति) To defend, to guard or preserve. (इ) गुडि r. 1st and 10th cls. (गुण्डति गुण्डयति) .²1 To surround, to enclose. .²2 To pound, to grind, to reduce to powder. .²3 (According to some authorities,) To preserve."
+        },
+        {
+            "word": "गुड",
+            "eid": "13594",
+            "pagenum": 290,
+            "content": "गुड¦ mfn. (-डः-डा-डं) Round, globular. m. (-डः) .²1 A globe or ball. .²2 Treacle, molasses, the first thickening of the juice of the cane by boiling. .²3 An elephant's trappings or armour. .²4 A mouthful. f. (-डा) .²1 A plant, (<bot>Euphorbia</bot> tirucalli:) see स्नुही. .²2 Powder, pounded substance. .E. गुङ् to sound, affix ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गुड",
+            "eid": "13046",
+            "pagenum": 253,
+            "content": "गुड¦ (शि) गुडति 6. <i>a.</i> To defend. (कि, इ) गुण्डति, गुण्डयति 1. 10. <i>a.</i> To enclose; to pound."
+        },
+        {
+            "word": "गुड",
+            "eid": "13047",
+            "pagenum": 253,
+            "content": "गुड¦ (डः) 1. <i>m.</i> A globe or ball; raw sugar; elephant's trappings; a mouthful. डा <i>f.</i> A plant; a powder."
+        }
     ]
 }

@@ -521,5 +521,59 @@
             "pagenum": 7,
             "content": "शुक्र¦ VI. <lex>m.</lex> <i>ein <ab>best.</ab></i> <is>Kalpa</is> <i>bei den</i> <is>Jaina</is> <ls>DHARMAŚARM. 21,68</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शुक्र",
+            "eid": "25147",
+            "pagenum": 346,
+            "content": "<i>śukra</i>¦ n. Sperma °der Frau, E 887 (P). {part=,seq=25489,type=,n=1}"
+        },
+        {
+            "word": "शुक्र",
+            "eid": "25147.1",
+            "pagenum": 346,
+            "content": "<i>śukra</i>¦ m. ein best. <i>kalpa</i> bei den Jaina, <ls>Dharmaśarm.</ls> 21, 68. {part=,seq=25490,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शुक्र",
+            "eid": "40463",
+            "pagenum": 723,
+            "content": "शुक्र¦ m. (-क्रः) 1. The planet VENUS or its regent, the son of BHRIGU, and preceptor of the Daityas or Titans. 2. A name of fire. 3. The month Jyeshṭha, (April-May.) n. (-क्रं) 1. Semen virile. 2. The essence of anything. 3. A morbid affection of the iris, change of colour, ulceration, &c. accompanied by imperfect vision. E. शुच् to grieve, &c., Unādi aff. रक्, deriv. irr."
+        }
+    ],
+    "STC": [
+        {
+            "word": "शुक्र",
+            "eid": "20371",
+            "pagenum": 733,
+            "content": "<b>śukra-</b>¦ <ab>a.</ab> brillant, resplendissant ; clair, pur ; blanc, blanchâtre ; <ab>m.</ab> <ab>n.</ab> du feu ou du dieu du feu ; d'un mois (Jyeṣṭha, personnifié aussi comme gardien des trésors de Kubera) ; de la planète Vénus (aussi personnifiée, fils de Bhṛgu) ; <ab>nt.</ab> splendeur, clarté, lumière ; semen <lbinfo n='3'/> virile, sperme.  <P><i>°ja-</i> <ab>a.</ab> né de (son) sperme.  <P><i>°vāra-</i> <ab>m.</ab> vendredi."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "शुक्र",
+            "eid": "3303",
+            "pagenum": 2,
+            "content": "1. <b>Śukra,</b>¦ according to Tilak,<sup>1</sup> has in two passages of the Rigveda<sup>2</sup> the sense of a planet. This is most improbable. <i>Cf.</i> <b>Manthin.</b> <F>1) <i>Orion,</i> 162.</F> <F>2) iii. 32, 2; ix. 46, 4.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शुक्र",
+            "eid": "38608",
+            "pagenum": 850,
+            "content": "शुक्र¦ m. (-क्रः) .²1 The planet VENUS or its regent, the son of BHṚGU, and preceptor of the <i>Daityas</i> or Titans. .²2 A name of fire. .²3 The month <i>Jyeṣṭha,</i> (April-May.) n. (-क्रं) .²1 Semen virile. .²2 A morbid affection of the iris, change of colour, ulceration, &c. accompanied by imperfect vision. .E. शुच् to grieve, &c., Uṇādi aff. रन्, deriv. irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शुक्र",
+            "eid": "38255",
+            "pagenum": 769,
+            "content": "शुक्र¦ (क्रः) 1. <i>m.</i> The planet <i>Venus</i> or its regent; fire; name of a month, April-May. <i>n.</i> Semen virile; disease of the iris."
+        }
     ]
 }

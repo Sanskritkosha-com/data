@@ -15,5 +15,37 @@
             "pagenum": 120,
             "content": "asito<srs/>pala ¦ <lex>m.</lex> = asitA<srs/>Sman, <ab>q.v.</ab>, <ls>L.</ls><info lex='m'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "असितोपल",
+            "eid": "6263",
+            "pagenum": 86,
+            "content": "°<i>asitopala</i>¦ m. Saphir, <ls>H</ls> 4, 26. {part=,seq=6349,type=°,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "असितोपल",
+            "eid": "4606",
+            "pagenum": 79,
+            "content": "असितोपल¦ n. (-लं) The lapis lazuli. E. असित blue, उपल stone."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "असितोपल",
+            "eid": "4608",
+            "pagenum": 96,
+            "content": "असितोपल¦ n. (-लं) The lapis lazuli. .E. असित blue, उपल stone."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असितोपल",
+            "eid": "3986",
+            "pagenum": 75,
+            "content": "असितो_पल¦ (लं) 1. <i>n.</i> Lapis lazuli."
+        }
     ]
 }

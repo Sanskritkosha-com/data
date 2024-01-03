@@ -97,5 +97,29 @@
             "pagenum": 7,
             "content": "अपेय¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपेय",
+            "eid": "3658",
+            "pagenum": 50,
+            "content": "<i>[apeya]</i>¦ , f. <i>ā</i> {part=,seq=3708,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपेय",
+            "eid": "2581",
+            "pagenum": 55,
+            "content": "<b>a-peya-</b>¦ <ab>a. v.</ab> impropre à la boisson."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अपेय",
+            "eid": "44606",
+            "pagenum": 913,
+            "content": "अपेय¦ (यः-या-यं) <i>a.</i> Gone, removed."
+        }
     ]
 }

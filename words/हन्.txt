@@ -215,5 +215,49 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> हन्¦ mit *समव <i>aus dem Wege räumen, wegschaffen</i> <ls>MAHĀVY. 126</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "हन्",
+            "eid": "27412",
+            "pagenum": 375,
+            "content": "<i>han</i>¦ , Intens. <i>*jeghnīyate</i>, <ls>Kaṃs.</ls> IV, 17<sup>d</sup> (<i>vijeghnīyatām</i>). — Mit <i>vyati</i>, *gegenseitig töten, <ls>H</ls> 43, 8. — Mit <i>*samava</i>, aus dem Wege räumen, wegschaffen, <ls>Mahāvy.</ls> 126. — Mit <i>°āni</i>, vernichten, <ls>H</ls> 50, 45. — Mit <i>*nipra</i>, abschlagen, <ls>Śrīk.</ls> 18, 27; töten, <ls>Uttarar.</ls> V, 31<sup>d</sup> ed. <ls>Lakṣmaṇasūri</ls>. {part=,seq=27776,type=,n=1}"
+        },
+        {
+            "word": "हन्",
+            "eid": "27412.1",
+            "pagenum": 376,
+            "content": "<i>han</i>¦ °gehen, <ls>S</ls> I, 351, 6. {part=,seq=27777,type=,n=8}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "हन्",
+            "eid": "46524",
+            "pagenum": 827,
+            "content": "हन्¦ r. 2nd cl. (हन्ति pl. घ्नन्ति) 1. To hurt, to strike, to injure, to do any act which tends to the destruction of life, to kill. 2. To overcome, to overthrow, to conquer. 3. To remove, to take away. 4. To obstruct. 5. To put an end to in any manner. 6. To multiply, (in math.) 7. To go, to move, (not used in classical literature; in a few places where it is found so used poeticians have held the use to be faulty.) With अप, 1. To destroy, to ward off. 2. To lesson. With अव, 1. To strike, to hit. 2. To thresh, to winnow, (as corn.) With आ, (Atm.) 1. To strike at. 2. To beat, (as a drum.) With उद्, 1. To elevate. 2. To become haughty or vain. With उप, 1. To destroy. 2. To vex. With नि, 1. To strike. 2. To beat, (as a drum.) 3. To kill. 4. To frustrate, to render void. 5. To neglect. 6. To cure, (as a disease.) With परा, 1. To strike down or back. 2. To assail. 3. To drive back. With वि, 1. To strike violently. 2. To oppose, to impede. 3. To reject, to deny. 4. To kill. With अभि, 1. To sound a musical instrument. 2. To strike, to beat. 3. To inflict injury on. With आङ्, To smite. With नि or परि, To destroy entirely. With प्र, 1. To strike. 2. To slay. 3. To beat, (as a drum.) 4. To place upon. With प्रति, 1. To refute or dstroy, (an opposite argument.) 2. To keep off, to strike back. 3. To repel. 4. To resist. 5. To remove. With वि and आङ्, To obstruct, to prevent, to hinder. With सम्, 1. To slaughter. 2. To join or unite closely. 3. To collect. 4. To diminish, to contract. (घन् or घ्न is substituted for the radical letters of this verb in many of its inflections and derivatives; the root also takes most of the prefixes with little or no variation of the sense)"
+        }
+    ],
+    "STC": [
+        {
+            "word": "हन्",
+            "eid": "24336",
+            "pagenum": 883,
+            "content": "<b>1 HAN-</b>¦ <i>-hanti</i> (<ab>pl.</ab> <i>hanmas ghnanti</i>) <i>hate</i> (<ab>impér.</ab> <i>-jahi ;</i> <i>ahanat ; aghnam aghnanta ; ghnamāna-</i>) <lbinfo n='5'/> ; <i>-jaghāna jaghne ; ajīghanat ;</i> <i>haniṣyati</i><i> -te</i> (<i>haṃsyati</i>) ; <i>hanyate</i> (<i>-ti</i>) <i>jaṅghanyate</i> <i>jighāṃsati -te</i> [<i>ghātayati -te</i>] ; <i>hata- hantum</i> (<i>hanitum</i>) <i>hatvā °hatya °hanya</i> -- frapper, battre (aussi frapper sur un instrument de musique, jouer) ; tuer en frappant, faire périr, condamner à mort ; empêcher ; contenir <lbinfo n='5'/> (sa colère, etc.) ; frapper moralement ; <ab>caus.</ab> tuer, mettre à mort, châtier corporellement <lbinfo n='6'/> ; détruire.  <P><i>hantu-kāma-</i> <ab>a.</ab> qui veut faire périr."
+        },
+        {
+            "word": "हन्",
+            "eid": "24337",
+            "pagenum": 884,
+            "content": "<b>2 han-</b>¦ (cas obl. <i>-°ghnā °ghne,</i> etc. ; <ab>f.</ab> <i>°ghnī-</i>) <ab>ag.</ab> <ab>ifc.</ab> qui frappe, tue, ruine, détruit."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हन्",
+            "eid": "43729",
+            "pagenum": 892,
+            "content": "हन्¦ (ल) हन्ति 2. <i>a.</i> To hurt, strike, kill; to go. <i>With prepositions:</i> अभि to sound or play; आ to smite; नि or परि to destroy entirely; वि to strike, place upon; प्रति to refute; नि-आ to obstruct, hinder, सम to slaughter."
+        }
     ]
 }

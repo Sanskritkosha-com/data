@@ -139,5 +139,55 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अक¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक",
+            "eid": "24",
+            "pagenum": 1,
+            "content": "1. <i>aka</i>¦ 1. Unheil, <ls>Kāśīkh.</ls> 24, 17. {part=,seq=25,type=,n=1}"
+        },
+        {
+            "word": "अक",
+            "eid": "24.1",
+            "pagenum": 1,
+            "content": "<i>aka</i>¦ °Adj. = <i>akutsita</i>, <ls>S</ls> II, 236, 2 (Ko. 14 v.u.). — <i>nāsti kaṃ śiro yeṣāṃ te 'kāḥ</i>, <ls>H</ls> 43, 288; ° = <i>kuṭilagāmin</i>, <ls>H</ls> 43, 349. {part=,seq=26,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अक",
+            "eid": "45",
+            "pagenum": 2,
+            "content": "अक¦ r. 1st. cl. (अकति) 1. To wind or move tortuously. With an indicatory इ. अकि (अंकते) 1. To mark or bespot. 2. To go. See अङ्क."
+        },
+        {
+            "word": "अक",
+            "eid": "46",
+            "pagenum": 2,
+            "content": "अक¦ m. (-कः) 1. Moving tortuously. 2. One who goes crookedly. 3. Pain, affliction. 4. Sin. E. अ priv. and क happiness, or अक to move crookedly, aff. अच्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक",
+            "eid": "46",
+            "pagenum": 2,
+            "content": "अक¦ r. 1st cl. (अकति) To wind or move tortuously. <i>With an</i> <i>indicatory</i> इ। अकि (अंकति) .²1 To mark or bespot. .²2 To go. See अङ्क."
+        },
+        {
+            "word": "अक",
+            "eid": "47",
+            "pagenum": 2,
+            "content": "अक¦ m. (-कः) .²1 Moving tortuously. .²2 One who goes crookedly. .²3 Pain, affliction. .²4 Sin. .E. अ priv. and क happiness, or अक to move crookedly, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक",
+            "eid": "41",
+            "pagenum": 2,
+            "content": "अक¦ (कः) 1. <i>m.</i> Winding; pain; sin."
+        }
     ]
 }

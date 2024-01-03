@@ -23,5 +23,37 @@
             "pagenum": 1,
             "content": "अ/विक्षोभ¦ <lex>m.</lex> <i>das nicht aus der Ordnung Kommen</i> <ls>MAITR. S. 2,5,3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविक्षोभ",
+            "eid": "5533",
+            "pagenum": 75,
+            "content": "<i>ávikṣobha</i>¦ m. das nicht aus der Ordnung Kommen, <ls>Maitr. S.</ls> 2, 5, 3. {part=,seq=5609,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अविक्षोभ",
+            "eid": "3987",
+            "pagenum": 69,
+            "content": "अविक्षोभ¦ m. (-भः) Quiet, quiescence. E. अ neg. विक्षोभ agitation."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविक्षोभ",
+            "eid": "3989",
+            "pagenum": 83,
+            "content": "अविक्षोभ¦ m. (-भः) Quiet, quiescence. .E. अ neg. विक्षोभ agitation."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविक्षोभ",
+            "eid": "3410",
+            "pagenum": 65,
+            "content": "अ-विक्षोभ¦ (भः) 1. <i>m.</i> Quiescence."
+        }
     ]
 }

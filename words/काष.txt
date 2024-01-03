@@ -85,5 +85,35 @@
             "pagenum": 7,
             "content": "काष¦ II. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "काष",
+            "eid": "10580",
+            "pagenum": 146,
+            "content": "<i>kāṣa</i>¦ m. das Reiben. <i>gaṇḍa°</i> <ls>Śiś.</ls> 5, 43. [<ls>H</ls> 30, 27; <ls>Padyac.</ls> V, 27<sup>a</sup> in <i>kaṭakāṣalī-layā = kaṭasya gajagaṇḍasya kāṣalī-layā kaṣaṇakrīḍayā</i>]. {part=,seq=10736,type=,n=4}"
+        },
+        {
+            "word": "काष",
+            "eid": "10581",
+            "pagenum": 146,
+            "content": "°<i>kāṣaṃ</i>¦ <i>kāṣaṃ</i> Absol. immer wieder reibend, <ls>Śṛṅgt.</ls> 89<sup>a</sup>; <ls>Muk.</ls> 91<sup>b</sup>. {part=,seq=10737,type=°,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "काष",
+            "eid": "7980",
+            "pagenum": 192,
+            "content": "<b>kāṣa-</b>¦ <ab>m.</ab> frottement."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "काष",
+            "eid": "9771",
+            "pagenum": 185,
+            "content": "काष¦ (षः) 1. <i>m.</i> Friction; its cause."
+        }
     ]
 }

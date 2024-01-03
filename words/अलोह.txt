@@ -57,5 +57,21 @@
             "pagenum": 7,
             "content": "अलोह¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अलोह",
+            "eid": "5145",
+            "pagenum": 70,
+            "content": "<i>aloha</i>¦ Adj. nicht von Eisen, <ls>MBh.</ls> 1, 145, 22; <ls>Muk.</ls> 75<sup>b</sup>. {part=,seq=5215,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अलोह",
+            "eid": "3867",
+            "pagenum": 84,
+            "content": "<b>a-loha-</b>¦ <ab>a.</ab> qui n'est pas en fer."
+        }
     ]
 }

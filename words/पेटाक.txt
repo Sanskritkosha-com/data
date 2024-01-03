@@ -47,5 +47,43 @@
             "pagenum": 7,
             "content": "पेटाक¦ IV. <ab>vgl.</ab> <ls>DĀRILA</ls> zu <ls>KAUŚ. 18,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पेटाक",
+            "eid": "18929",
+            "pagenum": 261,
+            "content": "<i>peṭāka</i>¦ vgl. <ls>Dārila</ls> zu <ls>Kauś.</ls> 18, 2. {part=,seq=19198,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पेटाक",
+            "eid": "25865",
+            "pagenum": 468,
+            "content": "पेटाक¦ m. (-कः) A basket. E. पेटा, and कन् added."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पेटाक",
+            "eid": "25558",
+            "pagenum": 553,
+            "content": "पेटाक¦ m. (-कः) A basket. .E. पेटा, and कन् added."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पेटाक",
+            "eid": "25038",
+            "pagenum": 496,
+            "content": "पेटाक¦ (कः-कं) 1. <i>m. n.</i> Basket for holding clothes, &c. <i>n.</i> Quantity."
+        },
+        {
+            "word": "पेटाक",
+            "eid": "25039",
+            "pagenum": 496,
+            "content": "पेटाक¦ (कः) 1. <i>m.</i> A basket."
+        }
     ]
 }

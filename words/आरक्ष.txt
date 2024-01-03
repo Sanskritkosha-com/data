@@ -140,5 +140,45 @@
             "pagenum": 7,
             "content": "आरक्ष¦ <lex>Adj.</lex> fehlerhaft für आरक्ष्य <ls>MAHĀVY. 12</ls>. <ls>DIVYĀVAD. 98,8</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आरक्ष",
+            "eid": "7220",
+            "pagenum": 99,
+            "content": "<i>ārakṣa</i>¦ Adj. fehlerhaft für <i>ārakṣya</i> <ls>Mahāvy.</ls> 12; <ls>Divyāvad.</ls> 98, 8. {part=,seq=7320,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आरक्ष",
+            "eid": "5703",
+            "pagenum": 97,
+            "content": "आरक्ष¦ mfn. (-क्षः-क्षा-क्षं) 1. Preserved, defended. 2. Proper or worthy to be preserved, &c. m. (-क्षः) 1. Protection, guard, preservation. 2. The junction of the frontal sinuses of an elephant. E. आङ् before रक्ष to preserve, &c. घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आरक्ष",
+            "eid": "5486",
+            "pagenum": 121,
+            "content": "<b>ā-rakṣa-</b>¦ <ab>m.</ab> <i>-ā-</i> <ab>f.</ab> garde, protection ; <ab>n.</ab> d'un endroit déterminé sur le front de l'éléphant. <lbinfo n='5'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आरक्ष",
+            "eid": "5705",
+            "pagenum": 118,
+            "content": "आरक्ष¦ mfn. (-क्षः-क्षा-क्षं) .²1 Preserved, defended. .²2 Proper or worthy to be preserved, &c. m. (-क्षः) .²1 Protection, guard, preservation. .²2 The junction of the frontal sinuses of an elephant. .E. आङ्, रक्ष to preserve, &c. घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आरक्ष",
+            "eid": "5087",
+            "pagenum": 95,
+            "content": "आ-रक्ष¦ (क्षः) <i>m.</i> Preservation; the junction of the frontal sinuses of an elephant. <i>a.</i> Preserved."
+        }
     ]
 }

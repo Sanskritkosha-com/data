@@ -89,5 +89,27 @@
             "pagenum": 7,
             "content": "अगति¦ I. <hom>1.</hom> अगत्या <ab>Instr.</ab> <i>ohne Ausweg, nothgedrungen</i> <ls>JĀTAKAM. 7,26</ls>. <ls n='JĀTAKAM.'>23,11</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अगति",
+            "eid": "346",
+            "pagenum": 5,
+            "content": "1. <i>agati</i>¦ , Instr. <i>agatyā</i> ohne Ausweg, notgedrungen, <ls>Jātakam.</ls> 7, 26; 23, 11. {part=,seq=358,type=,n=2}"
+        },
+        {
+            "word": "अगति",
+            "eid": "347",
+            "pagenum": 5,
+            "content": "2. <i>agati</i>¦ Adj. 1. nicht gehend. Nom. abstr. <i>°tā</i> f. Stillstand, <ls>Mudrār.</ls> 151, 5 (220, 7). — 2. hilflos, unglücklich, <ls>Daśak.</ls> 12, 15. {part=,seq=359,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अगति",
+            "eid": "140",
+            "pagenum": 4,
+            "content": "<b>a-gati-</b>¦ <ab>f.</ab> impossibilité d'aller on d'arriver <lbinfo n='3'/> ; fait de manquer le but, malchance ; <ab>a.</ab> malchanceux ; <i>-tā-</i> <ab>f.</ab> trêve, répit."
+        }
     ]
 }

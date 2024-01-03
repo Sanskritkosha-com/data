@@ -37,5 +37,21 @@
             "pagenum": 7,
             "content": "दुरवगाह¦ <lex>Adj.</lex> <i>schwer zu betreten, unzugänglich</i> <ls>JĀTAKAM. 8</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दुरवगाह",
+            "eid": "15476",
+            "pagenum": 213,
+            "content": "<i>duravagāha</i>¦ Adj. schwer zu betreten, unzugänglich, <ls>Jātakam.</ls> 8. {part=,seq=15717,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "दुरवगाह",
+            "eid": "10580",
+            "pagenum": 311,
+            "content": "<b>dur-avagāha-</b>¦ <ab>a.</ab> difficile à comprendre, inaccessible (<ab>fig.</ab> aussi), impénétrable, insondable. <lbinfo n='5'/>"
+        }
     ]
 }

@@ -31,5 +31,29 @@
             "pagenum": 7,
             "content": "शिवदारु¦ <lex>n.</lex> = देवदारु <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "शिवदारु",
+            "eid": "40274",
+            "pagenum": 720,
+            "content": "शिवदारु¦ m. (-रुः) The Devadāru tree, (Pinus Deodar.)"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शिवदारु",
+            "eid": "38424",
+            "pagenum": 846,
+            "content": "शिवदारु¦ m. (-रुः) The <i>Devadaru</i> tree, (<bot>Pinus Deodar</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शिवदारु",
+            "eid": "38069",
+            "pagenum": 765,
+            "content": "शिव-दारु¦ (रुः) 2. <i>m.</i> The <i>Devadāru</i> tree."
+        }
     ]
 }

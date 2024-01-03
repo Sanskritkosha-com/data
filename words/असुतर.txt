@@ -37,5 +37,19 @@
             "pagenum": 7,
             "content": "असुतर¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असुतर",
+            "eid": "6281",
+            "pagenum": 86,
+            "content": "<i>asutara</i>¦ Adj. schwer zu passieren, <ls>Kir.</ls> 5, 18. {part=,seq=6367,type=,n=2}"
+        },
+        {
+            "word": "असुतर",
+            "eid": "28063",
+            "pagenum": 386,
+            "content": "°<i>asutara</i>¦ Adj. nicht leicht zu überschreiten, <ls>Viṣṇubh.</ls> III, 7<sup>d</sup> <i>(janmavan na sutaraṃ</i> im Texte; Ko. hat aber <i>janmavann asutaraṃ</i> gelesen). {part=N,seq=28434,type=°,n=4}"
+        }
     ]
 }

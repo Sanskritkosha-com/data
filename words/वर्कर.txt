@@ -93,5 +93,37 @@
             "pagenum": 7,
             "content": "वर्कर¦ <div n='1'> 1) <i>Zicklein</i> <ls>PAT. a. a. O. 1,225,a.</ls> बर्कर nach den Corrigg."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वर्कर",
+            "eid": "23243",
+            "pagenum": 321,
+            "content": "°<i>varkara</i>¦ m. = <i>barkara</i> *Scherz, <ls>S</ls> II, 23, 9 v.u. (Ko.). — *Bock, <ls>S</ls> II, 219, 1. {part=,seq=23566,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वर्कर",
+            "eid": "35230",
+            "pagenum": 632,
+            "content": "वर्कर¦ mf. (-रः-री) Any young animal. m. (-रः) 1. A lamb. 2. A goat. 3. Pleasure, pastime, sport, mirth, festivity. E. वृक् to take, aff. अरन् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वर्कर",
+            "eid": "33708",
+            "pagenum": 737,
+            "content": "वर्कर¦ mf. (-रः-री) Any young animal. m. (-रः) .²1 A lamb. .²2 A goat. .²3 Pleasure, pastime, sport, mirth, festivity. .E. वृक to take, aff. अरन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वर्कर",
+            "eid": "33299",
+            "pagenum": 660,
+            "content": "वर्कर¦ (रः-री) 1. <i>m.</i> 3. <i>f.</i> Any young animal; lamb; goat; sport."
+        }
     ]
 }

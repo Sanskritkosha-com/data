@@ -126,5 +126,45 @@
             "pagenum": 7,
             "content": "महिला¦ V. 1〉 <ls>KUṬṬANĪM. 179</ls>. <ls n='KUṬṬANĪM.'>182</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "महिला",
+            "eid": "21441",
+            "pagenum": 296,
+            "content": "<i>mahilā</i>¦ 1. <ls>Kuṭṭanīm.</ls> 179. 182. {part=,seq=21736,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "महिला",
+            "eid": "31084",
+            "pagenum": 560,
+            "content": "महिला¦ f. (-ला) 1. A woman, a female. 2. A woman literally or figuratively intoxicated. 3. A plant bearing a fragrant seed, commonly Priyangu. 4. A perfume commonly Reṇukā. E. मह् to worship or be worshipped, Unādi aff. इलच्; also महला and महेला ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "महिला",
+            "eid": "16615",
+            "pagenum": 560,
+            "content": "<b>mahilā-</b>¦ <ab>f.</ab> femme, femelle."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "महिला",
+            "eid": "30019",
+            "pagenum": 653,
+            "content": "महिला¦ f. (-ला) .²1 A woman, a female. .²2 A woman, literally or figuratively intoxicated. .²3 A plant bearing a fragrant seed, commonly <i>Priyangu.</i> .E. मह to worship or be worshipped, Uṇādi aff. इलच्; also महला and महेला."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "महिला",
+            "eid": "29550",
+            "pagenum": 585,
+            "content": "महिला¦ (ला) 1. <i>f.</i> A woman; one intoxicated; plant <i>Priyangu.</i>"
+        }
     ]
 }

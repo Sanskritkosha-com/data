@@ -85,5 +85,21 @@
             "pagenum": 5,
             "content": "गुण्ठ्¦, स्त्रीवस्त्रगुण्ठित <ls>KATHĀS. 64, 122.</ls>  <div n='p'>— अव, पावकेनावगुण्ठितः <i>in Feuer gehüllt</i> <ls>R. 7, 23, 5, 43.</ls> <ls n='R. 7, 23, 5,'>48.</ls>  <div n='p'>— समव, नीलं सतोयमेघाभं वस्त्रं समवगुण्ठिता <i>gehüllt in ein Gewand</i> <ls>R. 7, 26, 18.</ls>  <div n='p'>— आ, कुसुमरसविमुक्तवस्त्रमागुण्ठितां <i>gehüllt in ein Gewand</i> <ls>R. 7, 59, 23.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गुण्ठ्",
+            "eid": "12354",
+            "pagenum": 170,
+            "content": "<i>guṇṭh</i>¦ mit <i>ava</i> °zusammenrollen, <ls>S</ls> II, 42, 6 (<i>avaguṇṭhita = kuṇḍalīkṛta</i>). <i>guṇḍ, pariguṇḍita</i> bestäubt, <ls>Śīlāṅka</ls> 2, 4. {part=,seq=12543,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "गुण्ठ्",
+            "eid": "8811",
+            "pagenum": 230,
+            "content": "<b>GUṆṬH-</b>¦ <i>guṇthayati</i> (<ab>v.</ab> <i>ava°</i>) ; <i>guṇṭhita-</i> -- ouvrir, envelopper ; <ab>a. v.</ab> couvert."
+        }
     ]
 }

@@ -13,5 +13,19 @@
             "pagenum": 7,
             "content": "अ/प्रतिविद्ध¦ 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अप्रतिविद्ध",
+            "eid": "3757",
+            "pagenum": 51,
+            "content": "<i>ápratividdha</i>¦ Adj. unverwundet. {part=,seq=3809,type=,n=1}"
+        },
+        {
+            "word": "अप्रतिविद्ध",
+            "eid": "27872",
+            "pagenum": 384,
+            "content": "°<i>apratividdha</i>¦ Adj. nicht geeicht, <ls>Kauṭ.</ls> 105, 15. {part=N,seq=28243,type=°,n=2}"
+        }
     ]
 }

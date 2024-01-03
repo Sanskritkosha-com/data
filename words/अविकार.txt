@@ -115,5 +115,43 @@
             "pagenum": 7,
             "content": "अविकार¦ I. 5. *<lex>m.</lex> <i>ein <ab>best.</ab></i> <is>Samādhi</is> <ls>MAHĀVY. 21</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविकार",
+            "eid": "5515",
+            "pagenum": 75,
+            "content": "<i>avikāra</i>¦ auch: keine feindliche Gesinnung an den Tag legend, sich nicht auflehnend. — *m. ein best. samādhi, <ls>Mahāvy.</ls> 21. {part=,seq=5591,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अविकार",
+            "eid": "3974",
+            "pagenum": 69,
+            "content": "अविकार¦ mfn. (-रः-रा-रं) Immutable, permanent. E. अ neg. विकार change."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविकार",
+            "eid": "3976",
+            "pagenum": 83,
+            "content": "अविकार¦ mfn. (-रः-रा-रं) Immutable, permanent. .E. अ neg. विकार change."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविकार",
+            "eid": "3398",
+            "pagenum": 65,
+            "content": "अ-विकार¦ (रः-रा-रं) <i>a.</i> Immutable."
+        },
+        {
+            "word": "अविकार",
+            "eid": "44716",
+            "pagenum": 915,
+            "content": "अविकार¦ (रं) 1. <i>n.</i> Immutability."
+        }
     ]
 }

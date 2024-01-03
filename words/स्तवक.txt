@@ -87,5 +87,51 @@
             "pagenum": 7,
             "content": "2. स्तवक¦ und स्तवकित schlechte Schreibart für स्तबक, स्तबकित ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "स्तवक",
+            "eid": "27077",
+            "pagenum": 371,
+            "content": "<i>stavaka</i>¦ ° = <i>stotar</i>, <ls>H</ls> I, 1 [wegen des Wortspiels <i>stabaka</i> gedruckt]. {part=,seq=27439,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "स्तवक",
+            "eid": "45388",
+            "pagenum": 809,
+            "content": "स्तवक¦ m. (-कः) 1. A cluster of blossoms, a nosegay. 2. A multitude in general. 3. Praise, eulogium. 4. A panegyrist, a praiser. 5. The chapter of a book. f. (-विका) Praising. E. ष्टु to praise, aff. वुन्; or स्था to stay, अवक Unādi aff., form irr."
+        }
+    ],
+    "STC": [
+        {
+            "word": "स्तवक",
+            "eid": "23997",
+            "pagenum": 866,
+            "content": "<b>stavaka-</b>¦ <ab>v.</ab> <i>-stabaka-.</i>"
+        },
+        {
+            "word": "स्तवक",
+            "eid": "24000",
+            "pagenum": 866,
+            "content": "<b>stavaka-</b>¦ <ab>m.</ab> panégyriste."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्तवक",
+            "eid": "42997",
+            "pagenum": 949,
+            "content": "स्तवक¦ m. (-कः) .²1 A cluster of blossoms, a nosegay. .²2 A multitude in general. .²3 Praise, eulogium. .²4 A panegyrist, a praiser. .E. ष्टु to praise, aff. वुन्, or स्था to stay, अवक Uṇādi aff., form irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्तवक",
+            "eid": "42797",
+            "pagenum": 872,
+            "content": "स्तवक¦ (कः) 1. <i>m.</i> A cluster of blossoms; multitude; praise; a panegyrist."
+        }
     ]
 }

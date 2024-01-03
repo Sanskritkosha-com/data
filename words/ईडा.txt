@@ -52,5 +52,37 @@
             "pagenum": 1,
             "content": "ईडा¦ (von ईड्) <lex>f.</lex> <i>Lob</i> <ls>H. 269.</ls> <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "ईडा",
+            "eid": "7791",
+            "pagenum": 107,
+            "content": "*<i>īḍā</i>¦ f. Preis, Lob, <ls>Yudh.</ls> 2, 40. {part=,seq=7901,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ईडा",
+            "eid": "6451",
+            "pagenum": 110,
+            "content": "ईडा¦ f. (-डा) Praise. E. ईड् to praise, क and टाप affs."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ईडा",
+            "eid": "6453",
+            "pagenum": 135,
+            "content": "ईडा¦ f. (-डा) Praise. .E. ईड to praise. क and टाप् affs."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ईडा",
+            "eid": "5843",
+            "pagenum": 110,
+            "content": "ईडा¦ (डा) 1. <i>f.</i> Praise."
+        }
     ]
 }

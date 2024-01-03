@@ -328,5 +328,57 @@
             "pagenum": 7,
             "content": "ऋत¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ऋत",
+            "eid": "9009",
+            "pagenum": 123,
+            "content": "<i>ṛta</i>¦ 1. f) vgl. <ls>Zach.</ls> Beitr. 48. {part=,seq=9129,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ऋत",
+            "eid": "8015",
+            "pagenum": 138,
+            "content": "ऋत¦ r. 6th cl. (ऋतति) 1. To go. 2. To have power. 3. To domineer. 4. To hate."
+        },
+        {
+            "word": "ऋत",
+            "eid": "8016",
+            "pagenum": 138,
+            "content": "ऋत¦ mfn. (-तः-ता-तं) 1. Gone. 2. Enlightened, luminous. 3. Worshipped, respected. 4. True. n. (-तं) 1. Gleaning. 2. Water. 3. Truth. E. ऋ to go, affix क्त."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ऋत",
+            "eid": "7315",
+            "pagenum": 163,
+            "content": "<b>ṛta-</b>¦ (<ab>propr.</ab> <ab>a. v.</ab> de <i>Ṛ-</i>) <ab>a.</ab> vrai, régulier ; <ab>nt.</ab> règle morale, droit, justice ; loi religieuse, foi ; <ab>m.</ab> <ab>n.</ab> de divers personnages ; <i>-am</i> à juste titre, véritablement ; <i>-ena</i> <ab>id.</ab> ; <i>-vant-</i> <ab>a.</ab> qui dit la vérité.  <P><i>°dhāman-</i> <ab>m.</ab> Viṣṇu ; Indra.  <P><i>°dhī-</i> <ab>f.</ab> esprit juste ; <ab>a.</ab> à l'esprit juste.  <P><i>°dhvaja-</i> <ab>m.</ab> Rudra.  <P><i>°bhuj-</i> <ab>ag.</ab> qui jouit du fruit de ses œuvres pies.  <P><i>°vādin-</i> <ab>a.</ab> qui dit la vérité.  <P><i>°vrata-</i> <ab>a.</ab> qui a pour vœu la vérité.  <P><i>ṛtokti-</i> <ab>f.</ab> fait de dire la vérité.  <P><i>ṛtaṃ-bhara-</i> <ab>m.</ab> Brahma ; <ab>ag.</ab> qui porte en lui la vérité suprême ; <i>-ā-</i> <ab>f.</ab> intelligence qui porte en elle la vérité, concentration de l'esprit (terme du Yoga)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ऋत",
+            "eid": "8019",
+            "pagenum": 168,
+            "content": "ऋत¦ r. 6th cl. (ऋतति) .²1 To go. .²2 To have power. .²3 To domineer. .²4 To hate."
+        },
+        {
+            "word": "ऋत",
+            "eid": "8020",
+            "pagenum": 168,
+            "content": "ऋत¦ mfn. (-तः-ता-तं) .²1 Gone. .²2 Enlightened, luminous. .²3 Wonshipped, respected. .²4 True. n. (-तं) .²1 Gleaning. .²2 Wate .²3 Truth. .E. ऋ to go, affix क्त."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ऋत",
+            "eid": "7437",
+            "pagenum": 138,
+            "content": "ऋत¦ (तः-ता-तं) <i>a.</i> Gone; bright true. <i>n.</i> Gleaning; water; truth"
+        }
     ]
 }

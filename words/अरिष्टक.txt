@@ -69,5 +69,51 @@
             "pagenum": 7,
             "content": "अरिष्टक¦ <lex>Adj.</lex> <i>mit der Krankheit</i> अरिष्टरोग <i>behaftet</i> <ls>KAUŚ. 28,13</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अरिष्टक",
+            "eid": "4779",
+            "pagenum": 65,
+            "content": "<i>ariṣṭaka</i>¦ Adj. mit der Krankheit ariṣṭaroga behaftet, <ls>Kauś.</ls> 28, 13. {part=,seq=4842,type=,n=1}"
+        },
+        {
+            "word": "अरिष्टक",
+            "eid": "4779.1",
+            "pagenum": 65,
+            "content": "<i>ariṣṭaka</i>¦ m. °eine Person mit üblen Vorzeichen oder Symptomen, <ls>Kauś.</ls> 28, 15. {part=,seq=4843,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अरिष्टक",
+            "eid": "3172",
+            "pagenum": 55,
+            "content": "अरिष्टक¦ m. (-कः) The soap-berry plant, (Sapindus saponaria, &c.) E. अ neg. and रिष्ट affliction, क affix; relieving sickness, &c. See the preceding, of which it may have all the meanings."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अरिष्टक",
+            "eid": "3726",
+            "pagenum": 79,
+            "content": "<b>ariṣṭaka-</b>¦ <ab>m.</ab> savonnier (arbre)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अरिष्टक",
+            "eid": "3174",
+            "pagenum": 67,
+            "content": "अरिष्टक¦ m. (-कः) The soap-berry plant, (<bot>Sapindus saponaria</bot>, &c.) .E. अ neg. and रिष्ट affliction, क affix; relieving sickness, &c. See the preceding, of which it may have all the meanings."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अरिष्टक",
+            "eid": "2637",
+            "pagenum": 52,
+            "content": "अ-रिष्टक¦ (कः) 1. <i>m. Idem.</i>"
+        }
     ]
 }

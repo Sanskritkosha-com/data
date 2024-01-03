@@ -79,5 +79,19 @@
             "pagenum": 7,
             "content": "कव्¦ II. कवति <i>dichten</i> <ls>ŚRĪKAṆṬHAC. 2,35</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कव्",
+            "eid": "10188",
+            "pagenum": 140,
+            "content": "<i>kav</i>¦ , <i>kavati</i> dichten, <ls>Śrīk.</ls> 2, 35. {part=,seq=10335,type=,n=1}"
+        },
+        {
+            "word": "कव्",
+            "eid": "10188.1",
+            "pagenum": 140,
+            "content": "*<i>kav</i>¦ , <i>kavate</i> dichten, <ls>S</ls> I, 4, 9 v.u. (Ko.); 9, 9; 470, 6. {part=,seq=10336,type=*,n=2}"
+        }
     ]
 }

@@ -122,5 +122,37 @@
             "pagenum": 5,
             "content": "अरे¦, अहहारे <ls>CHĀND. UP. 4, 2, 3.</ls> anders <ls>ŚAṂK.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अरे",
+            "eid": "3214",
+            "pagenum": 56,
+            "content": "अरे¦ ind. Interjection of calling to inferiors."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अरे",
+            "eid": "3743",
+            "pagenum": 79,
+            "content": "<b>are</b>¦ <ab>interj.</ab> d'appel ; <i>arere</i> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अरे",
+            "eid": "3216",
+            "pagenum": 68,
+            "content": "अरे¦ <i>ind.</i> Interjection of calling to inferiors."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अरे",
+            "eid": "2674",
+            "pagenum": 53,
+            "content": "अरे¦ <i>interj.</i> Oh to inferiors."
+        }
     ]
 }

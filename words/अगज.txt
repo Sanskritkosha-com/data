@@ -53,5 +53,43 @@
             "pagenum": 7,
             "content": "अगज¦ I. <lex>Adj.</lex> <i>auf Bergen geboren</i> (Elephant) <ls>DAMAYANTĪK. 228</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अगज",
+            "eid": "337",
+            "pagenum": 5,
+            "content": "<i>agaja</i>¦ Adj. auf Bergen geboren (Elefant), <ls>Damayantīk.</ls> 228. {part=,seq=349,type=,n=2}"
+        },
+        {
+            "word": "अगज",
+            "eid": "27687",
+            "pagenum": 381,
+            "content": "<i>agaja</i>¦ Adj. auf Bergen geboren (Elefant) auch <ls>Kir.</ls> I, 36<sup>b</sup>. {part=N,seq=28058,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अगज",
+            "eid": "210",
+            "pagenum": 4,
+            "content": "अगज¦ mfn. (-जः-जा-जं) 1. Mountainous, produced on a mountain. 2. Vegetable, produced from a tree. E. अग and ज born."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अगज",
+            "eid": "211",
+            "pagenum": 5,
+            "content": "अगज¦ mfn. (-जः-जा-जं) .²1 Mountainous, produced on a mountain. .²2 Vegetable, produced from a tree. .E. अग and ज born."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अगज",
+            "eid": "177",
+            "pagenum": 4,
+            "content": "अ-ग-ज¦ (जः-जा-जं) <i>a.</i> Vegetable; mountainous. ज used for जात."
+        }
     ]
 }

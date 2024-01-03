@@ -350,5 +350,69 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> न¦ III. auch <i>nein</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "न",
+            "eid": "16273",
+            "pagenum": 225,
+            "content": "2. <i>na</i>¦ auch: nein. {part=,seq=16520,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "न",
+            "eid": "20879",
+            "pagenum": 375,
+            "content": "न¦ The twentieth consonant of the Deva Nāgri Alphābet, corresponding with the letter N."
+        },
+        {
+            "word": "न",
+            "eid": "20880",
+            "pagenum": 375,
+            "content": "न¦ mfn. (-नः-ना-नं) 1. Thin, spare. 2. Vacant, empty. 3. Identical, same, like. 4. Unvexed, unwearied 5. Undivided, unbroken. m. (नः) 1. A Bauddha, a follower of Buddha. 2. Binding, tying. 3. One who is praised. 4. A name of GANESA. 5. War. 6. Giving, a gift. 7. Good, welfare, prosperity. 8. A jewel. f. (ना) 1. The navel. 2. A musical instrument. 3. Knowledge. ind. 1. No, not, a particle of prohibition. 2. A particle of comparison. 3. A particle of negation, annihilation, &c. E. नी to obtain, or नह् to bind, &c. ड aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "न",
+            "eid": "11299",
+            "pagenum": 347,
+            "content": "<b>1 na</b>¦ particule de négation ne, ne pas, point, ni ; non pas ; avec opt. pour que ne ; <ab>qqf.</ab> avec <ab>impér.</ab> et <ab>aor.</ab> sans augment pour <i>mā</i> (<ab>s. v.</ab>) ; <ab>iic.</ab> pour <i>a- an-</i> (<ab>v.</ab> les <ab>comp.</ab> infra) ; <i>na...na, na...ca, na...cāpi,</i> <i>na...caiva, na...vā</i> ni...ni ; double négation (<i>na...na</i>) portant sur la même proposition équivaut en général à une affirmation insistante ; emploi fréquent avec d'autres particules qui renforcent la négation <lbinfo n='4'/> ; <i>na</i> <i>khalu, na ca, na cāpi, na tu, na tv cva, na punar, na ha, na hi</i> (<ab>cf.</ab> <i>nahi</i>) ; ajouté aux pronoms ou <ab>adv.</ab> indéfinis leur donne une valeur négative ; <i>na ko 'pi</i> personne, <i>na kiṃ cid</i> rien, <i>na kadā</i> <i>cana</i> jamais, etc. ; <i>na khalu na</i> (dans la discussion) ne dites pas... non."
+        },
+        {
+            "word": "न",
+            "eid": "11300",
+            "pagenum": 347,
+            "content": "<b>2 na</b>¦ <ab>encl.</ab> de comparaison (<ab>ord.</ab> <ab>véd.</ab> ou tardif) comme."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "न",
+            "eid": "20893",
+            "pagenum": 450,
+            "content": "न¦ The twentieth consonant of the <i>Nāgarī</i> Alphabet, corresponding with the letter <i>N.</i>"
+        },
+        {
+            "word": "न",
+            "eid": "20894",
+            "pagenum": 450,
+            "content": "न¦ mfn. (नः-ना-नं) .²1 Thin, spare. .²2 Vacant, empty. .²3 Identical, same, like. .²4 Unvexed, unwearied. .²5 Undivided, unbroken. m. (नः) .²1 A <i>Bauddha,</i> a follower of <i>Buddha.</i> .²2 Binding, tying. .²3 One who is praised. .²4 A name of GAṆEŚA. .²5 War. .²6 Giving, a gift. .²7 Good, welfare, prosperity. .²8 A jewel. f. (ना) .²1 The navel. .²2 A musical instrument. .²3 Knowledge. <i>ind.</i> .²1 No, not, a particle of prohibition. .²2 A particle of comparison. .²3 A particle of negation, annihilation, &c. .E. नी to obtain, or नह to bind, &c., ड aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "न",
+            "eid": "20387",
+            "pagenum": 401,
+            "content": "न¦ <i>n</i> The 16th consonant, the nasal of the 4th or dental class."
+        },
+        {
+            "word": "न",
+            "eid": "20388",
+            "pagenum": 401,
+            "content": "न¦ (नः) 1. <i>m.</i> A <i>Bauddha; Ganesha;</i> binding; war; a gift; praise. <i>f.</i> The navel. <i>a.</i> Thin, vacant, identical. <i>adv.</i> No, not."
+        }
     ]
 }

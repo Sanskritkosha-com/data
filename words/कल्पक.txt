@@ -145,5 +145,51 @@
             "pagenum": 7,
             "content": "कल्पक¦ II. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कल्पक",
+            "eid": "10133",
+            "pagenum": 140,
+            "content": "<i>kalpaka</i>¦ 2. a) vielleicht <ls>Kām. Nītis.</ls> 12, 40 so zu lesen st. <i>talpaka</i>. — N. pr. eines Mannes, <ls>Hem. Par.</ls> 7, 18; 8, 1. {part=,seq=10277,type=,n=4}"
+        },
+        {
+            "word": "कल्पक",
+            "eid": "28433",
+            "pagenum": 391,
+            "content": "<i>kalpaka</i>¦ m. *Barbier, <ls>Kauṭ.</ls> 21, 1. {part=N,seq=28804,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कल्पक",
+            "eid": "9590",
+            "pagenum": 166,
+            "content": "कल्पक¦ m. (-कः) A barber. E. कृप् to cut, वुन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कल्पक",
+            "eid": "7752",
+            "pagenum": 183,
+            "content": "<b>kalpaka-</b>¦ <ab>m.</ab> rite, cérémonie ; <ab>a.</ab> conforme à un rite établi.  <P><i>°taru-</i> <ab>m.</ab> = <i>kalpa-taru-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कल्पक",
+            "eid": "9595",
+            "pagenum": 203,
+            "content": "कल्पक¦ m. (-कः) A barber. .E. कृप to cut, बुन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कल्पक",
+            "eid": "9029",
+            "pagenum": 170,
+            "content": "कल्पक¦ (कः) 1. <i>m.</i> A barber."
+        }
     ]
 }

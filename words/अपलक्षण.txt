@@ -21,5 +21,19 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अपलक्षण¦ <lex>Adj.</lex> <i>ungünstige Zeichen an sich habend</i> <ls>JĀTAKAM. 13</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपलक्षण",
+            "eid": "3478",
+            "pagenum": 47,
+            "content": "1. <i>apalakṣaṇa</i>¦ n. ein ungünstiges Zeichen, <ls>Jātakam.</ls> 13. 2. <i>apalakṣaṇa</i> Adj. ungünstige Zeichen an sich habend, <ls>Jātakam.</ls> 13. {part=,seq=3525,type=,n=4}"
+        },
+        {
+            "word": "अपलक्षण",
+            "eid": "27854",
+            "pagenum": 383,
+            "content": "°<i>apalakṣaṇa</i>¦ n. inauspicious mark, <ls>Prabandh.</ls> 12, 5. {part=N,seq=28225,type=°,n=2}"
+        }
     ]
 }

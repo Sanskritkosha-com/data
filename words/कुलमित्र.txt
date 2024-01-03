@@ -37,5 +37,37 @@
             "pagenum": 7,
             "content": "कुलमित्र¦ II. <i>Hausfreund</i> <ls>M. 4,253</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुलमित्र",
+            "eid": "10940",
+            "pagenum": 151,
+            "content": "<i>kulamitra</i>¦ Hausfreund, <ls>M.</ls> 4, 253. {part=,seq=11106,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुलमित्र",
+            "eid": "10935",
+            "pagenum": 192,
+            "content": "कुलमित्र¦ n. (-त्रं) A friend of the family. E. कुल, and मित्र a friend."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुलमित्र",
+            "eid": "10941",
+            "pagenum": 233,
+            "content": "कुलमित्र¦ m. (-त्रं) A friend of the family. .E. कुल, and मित्र a friend."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुलमित्र",
+            "eid": "10386",
+            "pagenum": 198,
+            "content": "कुल-मित्र¦ (त्रं) 1. <i>n.</i> Family friend."
+        }
     ]
 }

@@ -55,5 +55,27 @@
             "pagenum": 7,
             "content": "आलिङ्ग¦ I. 2〉 <ls>HARAVIJAYA 1,33</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आलिङ्ग",
+            "eid": "7342",
+            "pagenum": 100,
+            "content": "<i>āliṅga</i>¦ 2., Haravijaya 1, 33. {part=,seq=7444,type=,n=1}"
+        },
+        {
+            "word": "आलिङ्ग",
+            "eid": "28164",
+            "pagenum": 387,
+            "content": "*<i>āliṅga</i>¦ m. °N. eines Töpfers, <ls>Prabandh.</ls> 192, 7 v.u. (233, 5 v.u. N. eines alten <i>pradhānapuruṣa</i>.] {part=N,seq=28535,type=*,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आलिङ्ग",
+            "eid": "5599",
+            "pagenum": 124,
+            "content": "<b>ā-liṅga-</b>¦ <ab>m.</ab> embrassement."
+        }
     ]
 }

@@ -109,5 +109,43 @@
             "pagenum": 5,
             "content": "<hom>2.</hom> मे¦ <ab>onomatop.</ab> vom <i>Meckern</i> des Ziegenbocks. मेमे कर् <i>meckern</i> <ls>Spr. 7698</ls>. <ab>Vgl.</ab> *मेनाद."
         }
+    ],
+    "SHS": [
+        {
+            "word": "मे",
+            "eid": "32061",
+            "pagenum": 577,
+            "content": "मे¦ r. 1st cl. (मयते) 1. To barter or exchange. 2. To return, to restore."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मे",
+            "eid": "16936",
+            "pagenum": 575,
+            "content": "<b>1 me-</b>¦ <ab>indécl.</ab> : <i>me kṛ-</i> bêler."
+        },
+        {
+            "word": "मे",
+            "eid": "16937",
+            "pagenum": 575,
+            "content": "<b>2 me-</b>¦ <ab>dat.</ab> et <ab>gén.</ab> enclit. de <i>mad-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मे",
+            "eid": "30897",
+            "pagenum": 672,
+            "content": "मे¦ r. 1st cl. (मयते) .²1 To barter or exchange. .²2 To return, to restore."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मे",
+            "eid": "30448",
+            "pagenum": 602,
+            "content": "मे¦ (ङ) मयते 1. <i>d.</i> To barter or exchange; to restore."
+        }
     ]
 }

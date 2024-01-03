@@ -174,5 +174,77 @@
             "pagenum": 5,
             "content": "2. धव¦ <div n='1'> 2) गिरिजा° <ls>KATHĀS. 52, 403.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "धव",
+            "eid": "20496",
+            "pagenum": 367,
+            "content": "धव (इ) धवि¦ r. 1st cl. (धन्वति) To go or move: this is considered sometimes as Sautra root. भ्वा० प० सक० सेट् इदित् ।"
+        },
+        {
+            "word": "धव",
+            "eid": "20497",
+            "pagenum": 367,
+            "content": "धव¦ m. (-वः) 1. A husband. 2. A man. 3. A rogue, a cheat. 4. A tree, (Grislea tomentosa.) E. धू to make tremble, (children, &c.) affix अच् ।"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "धव",
+            "eid": "350",
+            "pagenum": 442,
+            "content": "dhava¦ <div n='P'/>Anogeissus latifolia Wall. (HK; Na 1, nr. 208; Bpn, vaṭādivarga 60; Chopra; Bt.; Sharma; DWH 2, p. 12-13; Kai.Nigh., oṣadhivarga 837)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "धव",
+            "eid": "11151",
+            "pagenum": 339,
+            "content": "<b>1 dhava-</b>¦ <ab>m.</ab> homme, mari, maître, possesseur."
+        },
+        {
+            "word": "धव",
+            "eid": "11152",
+            "pagenum": 339,
+            "content": "<b>2 dhava-</b>¦ <ab>m.</ab> sorte d'arbre (Grislea tomentosa)."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "धव",
+            "eid": "1433",
+            "pagenum": 1,
+            "content": "1. <b>Dhava</b>¦ is the name of a tree (<i>Grislea tormentosa</i>) mentioned, together with the <b>Plakṣa, Aśvattha,</b> and <b>Khādira,</b> in the Atharvaveda.<sup>1</sup> <F>1) v. 5, 5; xx. 137, 11. <i>Cf.</i> Zimmer, <i>Altindisches Leben,</i> 62.</F>"
+        },
+        {
+            "word": "धव",
+            "eid": "1434",
+            "pagenum": 1,
+            "content": "2. <b>Dhava,</b>¦ ‘man,’ is not found before the Nirukta.<sup>1</sup> The word clearly owes its existence merely to <i>vidhavā,</i> ‘widow,’ wrongly interpreted as <i>vi-dhavā,</i> ‘without a husband.’ <F>1) iii. 15. <i>Cf.</i> Naighaṇṭuka, ii. 3.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "धव",
+            "eid": "20510",
+            "pagenum": 441,
+            "content": "धव¦ (इ,) धवि r. 1st cl. (धन्वति) To go or move: this is considered sometimes as a <i>Sautra</i> root."
+        },
+        {
+            "word": "धव",
+            "eid": "20511",
+            "pagenum": 441,
+            "content": "धव¦ m. (-वः) .²1 A husband. .²2 A man. .²3 A rogue, a cheat. .²4 A tree, (<bot>Grislea tomentosa</bot>.) .E. धू to make tremble, (children, &c.) affix अप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "धव",
+            "eid": "20002",
+            "pagenum": 393,
+            "content": "धव¦ (वः) 1. <i>m.</i> A husband; a man; a cheat; Grislea tomentosa."
+        }
     ]
 }

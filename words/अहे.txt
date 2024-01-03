@@ -61,5 +61,29 @@
             "pagenum": 5,
             "content": "अहे¦ <ls>KĀTY. ŚR. 2, 1, 22.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अहे",
+            "eid": "4898",
+            "pagenum": 83,
+            "content": "अहे¦ ind. A particle implying, 1. Rejection. 2. Separation."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अहे",
+            "eid": "4900",
+            "pagenum": 101,
+            "content": "अहे¦ <i>ind.</i> A particle implying. .²1 Rejection. .²2 Separation."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अहे",
+            "eid": "4271",
+            "pagenum": 80,
+            "content": "अहे¦ --<i>ind.</i> Oh no."
+        }
     ]
 }

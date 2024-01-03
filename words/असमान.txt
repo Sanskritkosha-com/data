@@ -93,5 +93,45 @@
             "pagenum": 7,
             "content": "असमान¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असमान",
+            "eid": "6168",
+            "pagenum": 85,
+            "content": "<i>asamāna</i>¦ Adj. mit keinem gemeinsam unvergleichlich, <ls>Daśak.</ls> 19, 2. {part=,seq=6252,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "असमान",
+            "eid": "4527",
+            "pagenum": 78,
+            "content": "असमान¦ mfn. (-नः-ना-नं) 1. Different. 2. Unlike. 3. Unequal. E. अ neg. समान same."
+        }
+    ],
+    "STC": [
+        {
+            "word": "असमान",
+            "eid": "4687",
+            "pagenum": 102,
+            "content": "<b>a-samāna-</b>¦ <ab>a.</ab> incomparable ; <ab>nt.</ab> condition <lbinfo n='4'/> autre, non conforme."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "असमान",
+            "eid": "4529",
+            "pagenum": 94,
+            "content": "असमान¦ mfn. (-नः-ना-नं) .²1 Different. .²2 Unlike. .²3 Unequal. .E. अ neg. समान same."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असमान",
+            "eid": "3908",
+            "pagenum": 74,
+            "content": "अ-समान¦ (नः-ना-नं) <i>a.</i> Different."
+        }
     ]
 }

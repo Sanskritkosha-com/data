@@ -63,5 +63,29 @@
             "pagenum": 5,
             "content": "कुण¦ <lex>m.</lex> = प्रावारकीट <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> u. d. letzten Worte."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुण",
+            "eid": "28518",
+            "pagenum": 392,
+            "content": "*<i>kuṇa</i>¦ (pw 'Fruchtzeit') °reife Frucht, <ls>Viṣṇubh.</ls> VI, 17<sup>a</sup> (in <i>cūtakuṇa = pakvāmra</i>). {part=N,seq=28889,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुण",
+            "eid": "10681",
+            "pagenum": 187,
+            "content": "कुण¦ r. 6th cl. (कुणति) 1. To sound. 2. To cherish, to support or aid with gifts, &c. 3. To be in pain. r. 10th cl. (कुणयति) 1. To converse with, to speak to or address. 2. To counsel or advise."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुण",
+            "eid": "10687",
+            "pagenum": 227,
+            "content": "कुण¦ r. 6th cl. (कुणति) .²1 To sound. .²2 To cherish, to support or aid with gifts, &c. .²3 To be in pain. r. 10th cl. (कुणयति) .²1 To converse with, to speak to or address. .²2 To counsel or advise."
+        }
     ]
 }

@@ -71,5 +71,37 @@
             "pagenum": 1,
             "content": "अनत¦ auch <i>der sich vor Niemand neigt</i> <ls>AIT. ĀR. 354,3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनत",
+            "eid": "1965",
+            "pagenum": 27,
+            "content": "<i>anata</i>¦ auch: der sich vor niemand neigt, <ls>Ait. Ār.</ls> 354, 3. {part=,seq=1994,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनत",
+            "eid": "1182",
+            "pagenum": 21,
+            "content": "अनत¦ mfn. (-तः-ता-तं) 1. Erect, not bowed down. 2. Proud, haughty. E. अ neg. नत bowed."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनत",
+            "eid": "1184",
+            "pagenum": 26,
+            "content": "अनत¦ mfn. (-तः-ता-तं) .²1 Erect, not bowed down. .²2 Proud, haughty. .E. अ neg. नत bowed."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनत",
+            "eid": "992",
+            "pagenum": 21,
+            "content": "अ-नत¦ (तः-ता-तं) <i>a.</i> Erect, proud."
+        }
     ]
 }

@@ -39,5 +39,37 @@
             "pagenum": 3,
             "content": "झाला¦ = झला <ls>WILS.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "झाला",
+            "eid": "14099",
+            "pagenum": 194,
+            "content": "*<i>jhālā</i>¦ °N. einer Familie, <ls>Prabandh.</ls> 179, 8. {part=,seq=14323,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "झाला",
+            "eid": "16661",
+            "pagenum": 297,
+            "content": "झाला¦ f. (-ला) See झला."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "झाला",
+            "eid": "16687",
+            "pagenum": 358,
+            "content": "झाला¦ f. (-ला) See झला."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "झाला",
+            "eid": "16153",
+            "pagenum": 315,
+            "content": "झाला¦ (ला) 1. <i>f. Vide</i> झला."
+        }
     ]
 }

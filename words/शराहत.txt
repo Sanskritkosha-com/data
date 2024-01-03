@@ -15,5 +15,29 @@
             "pagenum": 1056,
             "content": "SarA<srs/>hata ¦ <lex>mf(आ)n.</lex> wounded by an <ab n='arrow'>ar°</ab>, <ls>W.</ls><info lex='m:f#A:n'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "शराहत",
+            "eid": "39625",
+            "pagenum": 709,
+            "content": "शराहत¦ mfn. (-तः-ता-तं) Struck by an arrow. E. शर, and आहत struck."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शराहत",
+            "eid": "37821",
+            "pagenum": 832,
+            "content": "शराहत¦ mfn. (-तः-ता-तं) Struck by an arrow. .E. शर, and आहत struck."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शराहत",
+            "eid": "37458",
+            "pagenum": 750,
+            "content": "शरा_हत¦ (तः-ता-तं) <i>a.</i> Struck by an arrow."
+        }
     ]
 }

@@ -163,5 +163,45 @@
             "pagenum": 7,
             "content": "प्रवाद¦ IV. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रवाद",
+            "eid": "19549",
+            "pagenum": 270,
+            "content": "<i>pravāda</i>¦ 2. s. oben <i>gandhapravādā</i>. {part=,seq=19824,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रवाद",
+            "eid": "27369",
+            "pagenum": 495,
+            "content": "प्रवाद¦ m. (-दः) 1. Rumour, report. 2. Discourse, conversation. 3. Popular belief. 4. A fable, a myth. 5. Litigious language. 6. Mutual defiance the conversation of antagonists prior to combat. E. प्र spreading, and वाद speech."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रवाद",
+            "eid": "15275",
+            "pagenum": 483,
+            "content": "<b>pra-vāda-</b>¦ <ab>m.</ab> expression, énonciation, discours, <lbinfo n='5'/> rumeur publique, racontar, croyance populaire ; calomnie (au sujet de, <ab>gén.</ab>) ; <i>-āya</i> pour répandre le bruit ; <i>-ena</i> à ce qu'on dit ; <i>-in-</i> <ab>a.</ab> qui émet un son, qui crie ; <ab>ifc.</ab> qui exprime, qui dit, qui parle de."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रवाद",
+            "eid": "26683",
+            "pagenum": 579,
+            "content": "प्रवाद¦ m. (-दः) .²1 Rumour, report. .²2 Discourse, conversation. .²3 Mutual defiance, the conversation of antagonists prior to combat. .E. प्र spreading, and वाद speech."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रवाद",
+            "eid": "26180",
+            "pagenum": 519,
+            "content": "प्र-वाद¦ (दः) 1. <i>m.</i> Rumour; defiance."
+        }
     ]
 }

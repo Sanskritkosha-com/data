@@ -71,5 +71,21 @@
             "pagenum": 7,
             "content": "अमिथ्या¦ I. Mit कर् <i>wahr machen</i> <ls>MBH. 3,303,14</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अमिथ्या",
+            "eid": "4451",
+            "pagenum": 61,
+            "content": "<i>amithyā</i>¦ mit <i>kar</i> wahr machen, <ls>MBh.</ls> 3, 303, 14. {part=,seq=4508,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अमिथ्या",
+            "eid": "3597",
+            "pagenum": 75,
+            "content": "<b>a-mithyā-</b>¦ <ab>adv.</ab> sincèrement ; <i>a. kṛ-</i> rendre vrai.  <P><i>amithyārtha-dhī-</i> <ab>a.</ab> qui considère justement les choses."
+        }
     ]
 }

@@ -55,5 +55,37 @@
             "pagenum": 7,
             "content": "सहस्रवेधिन्¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Sauerampfer</i> <ls>AK. 2, 4, 5, 6.</ls> <ls>H. an. 5, 33.</ls> <ls>MED. n. 253.</ls> <ls>RĀJAN. 6, 130.</ls> <ls>BHĀVAPR. 5.</ls> <div n='2'>— b) <i>Moschus</i> <ls>BHĀVAPR.</ls> und <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Asa foetida</i> <ls>AK. 2, 9, 40.</ls> <ls>H. 422.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>RĀJAN. 6, 75.</ls> <ls>BHĀVAPR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "सहस्रवेधिन्",
+            "eid": "26332",
+            "pagenum": 362,
+            "content": "*<i>sahasravedhin</i>¦ °tausendfach schaffend, <ls>Kalāv.</ls> IX, 8. {part=,seq=26684,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सहस्रवेधिन्",
+            "eid": "43487",
+            "pagenum": 777,
+            "content": "सहस्रवेधिन्¦ n. (-धि) Asafœtida. m. (-धी) A sort of cane, (Calamus fasciculatus.) E. सहस्र a thousand. वेधिन् what pierce."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सहस्रवेधिन्",
+            "eid": "41397",
+            "pagenum": 914,
+            "content": "सहस्रवेधिन्¦ n. (-धि) Asafoetida. m. (-धी) A sort of cane, (<bot>Calamus fasciculatus</bot>.) .E. सहस्र a thousands, and वेधिन् what pierces."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सहस्रवेधिन्",
+            "eid": "41130",
+            "pagenum": 834,
+            "content": "सहस्र-वेधिन्¦ (धि) 2. <i>n.</i> Asafoetida. <i>f.</i> (ई) A sort of cane."
+        }
     ]
 }

@@ -171,5 +171,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अमानुष¦ I. <lex>m.</lex> <i>Unhold</i> <ls>JĀTAKAM. 25,11</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अमानुष",
+            "eid": "4435",
+            "pagenum": 60,
+            "content": "1. <i>amānuṣa</i>¦ m. Unhold, <ls>Jātakam.</ls> 25, 11. {part=,seq=4492,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अमानुष",
+            "eid": "2862",
+            "pagenum": 50,
+            "content": "अमानुष¦ mfn. (-षः-षी-षं) Not human, animal, superhuman. E. अ neg. मानुष human."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अमानुष",
+            "eid": "3587",
+            "pagenum": 74,
+            "content": "<b>a-mānuṣa-</b>¦ <i>-ā- -ī-</i> <ab>a.</ab> non humain ; surhumain, <lbinfo n='4'/> divin ; non habité par des hommes ; <ab>m.</ab> (qui n'est) pas un homme.  <P><i>°loka-</i> <ab>m.</ab> monde des dieux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अमानुष",
+            "eid": "2864",
+            "pagenum": 61,
+            "content": "अमानुष¦ mfn. (-षः-षी-षं) Not human, animal, superhuman. .E. अ neg. मानुष human."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अमानुष",
+            "eid": "2371",
+            "pagenum": 47,
+            "content": "अ-मानुष¦ (षः-षा-षं) <i>a.</i> Inhuman."
+        }
     ]
 }

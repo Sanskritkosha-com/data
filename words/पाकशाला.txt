@@ -31,5 +31,29 @@
             "pagenum": 4,
             "content": "पाकशाला¦ (2. पाक + शाला) <lex>f.</lex> <i>Küche</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>DHŪRTAS. 81, 5.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पाकशाला",
+            "eid": "24186",
+            "pagenum": 438,
+            "content": "पाकशाला¦ f. (-ला) A kitchen. E. पाक cooking, शाला a hall."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाकशाला",
+            "eid": "24132",
+            "pagenum": 521,
+            "content": "पाकशाला¦ f. (-ला) A kitchen. .E. पाक cooking, शाला a hall."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाकशाला",
+            "eid": "23606",
+            "pagenum": 466,
+            "content": "पाक-शाला¦ (ला) 1. <i>f.</i> A kitchen."
+        }
     ]
 }

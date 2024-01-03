@@ -133,5 +133,45 @@
             "pagenum": 5,
             "content": "मिहिर/¦ <ls>UṆĀDIS. 1, 52.</ls> <lex>m.</lex> <div n='1'> 1) = <lang n='arabic'>مِهْر</lang> <i>die Sonne</i> <ls>AK. 1, 1, 2, 31.</ls> <ls>TRIK. 1,1,99.</ls> <ls>H. 97. an. 3,595.</ls> <ls>MED. r. 205.</ls> <ls>HALĀY. 1,36.</ls> <ls>MBH. 3, 191.</ls> <ls>Spr. 3894.</ls> <ls>KATHĀS. 29,199.</ls> <ls>GĪT. 11,28.</ls> <ls>MĀRK. P. 107,7.</ls> <ls>BHAVIṢYA-P.</ls> in <ls>Verz. d. Oxf. H. 32,b,38.</ls> <div n='1'>— 2) <i>Greis</i> <ls>MED.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> बुद्ध st. वृद्ध <ls>H. an.</ls> <div n='1'>— 3) <i>Wolke</i> (von मिह्) <ls>H. an.</ls> <div n='1'>— 4) <i>Wind.</i> <div n='1'>— 5) <i>der Mond</i> <ls>RATNAM.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 6) N. pr. als Abkürzung für वराहमिहिर <ls>Verz. d. Oxf. H. 279,a,16.</ls> <div n='v'>— Vgl. पद्म° ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मिहिर",
+            "eid": "21697",
+            "pagenum": 299,
+            "content": "<i>mihira</i>¦ m. *Wolke, <ls>S</ls> I, 544, 6. {part=,seq=21996,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मिहिर",
+            "eid": "31533",
+            "pagenum": 568,
+            "content": "मिहिर¦ m. (-रः) 1. The sun. 2. A sage. 3. A cloud. 4. Air, wind. 5. The moon. 6. An old man. E. मिह् to sprinkle or scatter, (radiance, &c.) Unādi aff. किरच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मिहिर",
+            "eid": "16802",
+            "pagenum": 568,
+            "content": "<b>mihira-</b>¦ <ab>m.</ab> soleil.  <P><i>°kula-</i> <ab>m.</ab> <ab>n.</ab> d'un roi."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मिहिर",
+            "eid": "30423",
+            "pagenum": 662,
+            "content": "मिहिर¦ m. (-रः) .²1 The sun. .²2 A sage. .²3 A cloud. .²4 Air, wind. .²5 The moon. .E. मिह to sprinkle or scatter, (radiance, &c.) Uṇādi aff. किरच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मिहिर",
+            "eid": "29962",
+            "pagenum": 594,
+            "content": "मिहिर¦ (रः) 1. <i>m.</i> The sun; a sage; the wind; a cloud; the moon."
+        }
     ]
 }

@@ -244,5 +244,63 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> किल¦ II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "किल",
+            "eid": "10661",
+            "pagenum": 147,
+            "content": "2. <i>kila</i>¦ Adj. spielend, <ls>Śiś.</ls> 19, 98. [<ls>S</ls> II, 292, 4. Oder hier <i>*kila</i> Subst.?] {part=,seq=10818,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "किल",
+            "eid": "10455",
+            "pagenum": 183,
+            "content": "किल¦ r. 6th cl. (किलति) 1. To be or become white. 2. To play. r. 10th cl. (केलयति) To send, to throw or cast."
+        },
+        {
+            "word": "किल",
+            "eid": "10456",
+            "pagenum": 183,
+            "content": "किल¦ ind. An aptote signifying. 1. News, (so said, so reported.) 2. Likelihood, (probably, possibly.) 3. Conciliatory expression. 4. Assertion, certainty, (indeed, verily, assuredly.) 5. Ealsehood, inaccuracy. E. किल् to send or order, affix क."
+        }
+    ],
+    "STC": [
+        {
+            "word": "किल",
+            "eid": "8006",
+            "pagenum": 194,
+            "content": "<b>1 kila</b>¦ particule d'assertion : certes, comme on dit, comme on sait, en apparence ; (<ab>not.</ab> pour écarter d'avance une objection)."
+        },
+        {
+            "word": "किल",
+            "eid": "8007",
+            "pagenum": 194,
+            "content": "<b>2 kila-</b>¦ <ab>a.</ab> jouant."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "किल",
+            "eid": "10462",
+            "pagenum": 222,
+            "content": "किल¦ r. 6th cl. (किलति) .²1 To be or become white. .²2 To play. r. 10th cl. (केलयति) To send, to throw or cast."
+        },
+        {
+            "word": "किल",
+            "eid": "10463",
+            "pagenum": 222,
+            "content": "किल¦ <i>ind.</i> An aptote signifying. .²1 News, (so said, so reported.) .²2 Likelihood, (probably, possibly.) .²3 Conciliatory expression. .²4 Assertion, certainty, (indeed, verily, assuredly.) .²5 Falsehood, inaccuracy. .E. किल to send or order, affix क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "किल",
+            "eid": "9904",
+            "pagenum": 188,
+            "content": "किल¦ An expletive, indeed."
+        }
     ]
 }

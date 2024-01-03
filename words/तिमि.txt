@@ -156,5 +156,45 @@
             "pagenum": 5,
             "content": "तिमि¦ <div n='1'> 1) <div n='2'> a) <i>Fisch</i> überh. <ls>KATHĀS. 60, 85.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तिमि",
+            "eid": "14561",
+            "pagenum": 201,
+            "content": "<i>Timi</i>¦ m. Name eines °Arztes, <ls>S</ls> I, 509, 7. {part=,seq=14793,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तिमि",
+            "eid": "17466",
+            "pagenum": 313,
+            "content": "तिमि¦ m. (-मिः) 1. A whale, or a fabulous fish of an enormous size, said to be one hundred Yojanas long. 2. The ocean. E. तम् to distress, इन् affix, and इ substituted for the radical vowel; otherwise तिम् to be wet or watery, affix कि, or with क affix तिम."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तिमि",
+            "eid": "10035",
+            "pagenum": 283,
+            "content": "<b>timi-</b>¦ <ab>m.</ab> immense poisson fabuleux, monstre marin, baleine ; poisson de mer ; fils d'un prince nommé Dūrva ; <ab>f.</ab> fille de Dakṣa, mère des monstres marins.  <P><i>°ghātin-</i> <ab>m.</ab> tueur de poissons, pêcheur.  <P><i>°timiṃ-gila-</i> <ab>m.</ab> poisson fabuleux.  <P><i>°dhvaja-</i> (qui a un timi sur son étendard) <ab>m.</ab> <ab>n.</ab> de l'Asura Śambara, d'un de ses fils.  <P><i>timiṃ-gila-</i> (avaleur de poissons) <ab>m.</ab> poisson fabuleux ; <ab>n.</ab> d'un prince."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तिमि",
+            "eid": "17483",
+            "pagenum": 376,
+            "content": "तिमि¦ m. (-मिः) .²1 A whale, or a fabulous fish of an enormous size, said to be one hundred <i>Yojanas</i> long. .²2 The ocean. .E. तम to distress, इन् affix, and इ substituted for the radical vowel; otherwise तिम to be wet or watery, affix कि, or with क affix तिम."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तिमि",
+            "eid": "16955",
+            "pagenum": 332,
+            "content": "तिमि¦ (मिः) 2. <i>m.</i> A fabulous fish of great size; a whale; the ocean."
+        }
     ]
 }

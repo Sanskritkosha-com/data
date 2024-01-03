@@ -135,5 +135,53 @@
             "pagenum": 5,
             "content": "जानपद¦ <div n='1'> 1) <ls>R. GORR. 2, 109, 44.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "जानपद",
+            "eid": "13860",
+            "pagenum": 191,
+            "content": "<i>jānapada</i>¦ Adj. °bewohnend, <ls>Śrīk.</ls> IX, 23 [in <i>taṭa°]</i>. {part=,seq=14081,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "जानपद",
+            "eid": "16201",
+            "pagenum": 288,
+            "content": "जानपद¦ m. (-दः) 1. Man, mankind. 2. An inhabited country. E. जनपद the same, and अप् aff. जानेन उत्पत्त्या पद्यते पद-अप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "जानपद",
+            "eid": "9574",
+            "pagenum": 262,
+            "content": "<b>jāna-pada-</b>¦ <ab>m.</ab> <ab>pl.</ab> habitants d'une contrée. campagnards, sujets ; <ab>a.</ab> relatif, propre aux habitants, etc. ; <i>-ika-</i> <ab>a.</ab> <ab>id.</ab>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "जानपद",
+            "eid": "1045",
+            "pagenum": 1,
+            "content": "<b>Jāna-pada.</b>¦ See <b>Janapada.</b>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जानपद",
+            "eid": "16230",
+            "pagenum": 348,
+            "content": "जानपद¦ m. (-दः) .²1 Man, mankind. .²2 An inhabited country. .E. जनपद the same, and अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जानपद",
+            "eid": "15697",
+            "pagenum": 306,
+            "content": "जान-पद¦ (दः) 1. <i>m.</i> Man, people; an inhabited country."
+        }
     ]
 }

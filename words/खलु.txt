@@ -143,5 +143,45 @@
             "pagenum": 7,
             "content": "खलु¦ II. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "खलु",
+            "eid": "11890",
+            "pagenum": 163,
+            "content": "<i>khalu</i>¦ mit einem Absol. so v.a. stehe ab von, <ls>Nir.</ls> 1, 5; <ls>P. 3, 4, 18;</ls> <ls>Śiś.</ls> 2, 70; <ls>Śrīk.</ls> 17, 51. Vgl. Speyer, Syntax, § 193, Anm. {part=,seq=12072,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "खलु",
+            "eid": "12773",
+            "pagenum": 224,
+            "content": "खलु¦ ind. 1. A particle of prohibition. 2. An expletive. 3. An expression of endearment or conciliation. 4. An expression indicating inquiry. 5. An expression of asseveration or ascertainment, (certainly, indeed.) 6. Only. खल् to gather, affix उ."
+        }
+    ],
+    "STC": [
+        {
+            "word": "खलु",
+            "eid": "8593",
+            "pagenum": 221,
+            "content": "<b>khalu</b>¦ particule certes, en vérité, voilà que, or (souvent pour exclure, réfuter, restreindre) <lbinfo n='3'/> ; renforce la négation <i>na :</i> nullement ; devant <ab>abs.</ab> « cessez ou cessons de... »."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खलु",
+            "eid": "12779",
+            "pagenum": 272,
+            "content": "खलु¦ <i>ind.</i> .²1 A particle of prohibition. .²2 An expletive. .²3 An expression of endearment or conciliation. .²4 An expression indicating inquiry. .²5 An expression of asseveration or ascertainment, (certainly, indeed.) .²6 Only, merely. .E. खल to gather, affix उ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खलु",
+            "eid": "12232",
+            "pagenum": 236,
+            "content": "खलु¦ <i>ind.</i> A particle of prohibition, endearment, enquiry, and asseveration; an expletive, only, merely; certainly."
+        }
     ]
 }

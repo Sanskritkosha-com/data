@@ -158,5 +158,51 @@
             "pagenum": 7,
             "content": "अशुभ¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अशुभ",
+            "eid": "5851",
+            "pagenum": 80,
+            "content": "<i>aśubha</i>¦ 2. zu streichen, da H. 955, Sch. nach Aufrecht <i>yacchāśvataḥ</i> die richtige Lesart ist. Vgl. Śāśvata 661. {part=,seq=5928,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अशुभ",
+            "eid": "4247",
+            "pagenum": 73,
+            "content": "अशुभ¦ n. (-भं) 1. Sin. 2. Misfortune. mfn. (-भः-भा-भं) Unlucky. E. अ priv. शुभ good."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अशुभ",
+            "eid": "4527",
+            "pagenum": 97,
+            "content": "<b>a-śubha-</b>¦ <ab>a.</ab> de mauvais augure ; vicieux ; <ab>nt.</ab> péché ; malheur.  <P><i>°darśana-</i> <ab>a.</ab> d'aspect horrible.  <P><i>aśubhātmaka-</i> <ab>a.</ab> de mauvais sentiments."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अशुभ",
+            "eid": "4249",
+            "pagenum": 88,
+            "content": "अशुभ¦ n. (-भं) .²1 Sin. .²2 Misfortune. mfn. (-भः-भा-भं) Unlucky. .E. अ priv. शुभ good."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अशुभ",
+            "eid": "3628",
+            "pagenum": 69,
+            "content": "अ-शुभ¦ (भं) 1. <i>n.</i> Sin."
+        },
+        {
+            "word": "अशुभ",
+            "eid": "44747",
+            "pagenum": 915,
+            "content": "*अशुभ¦ (भः-भा-भं) <i>a.</i> Inauspicious."
+        }
     ]
 }

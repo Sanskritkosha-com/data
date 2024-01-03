@@ -15,5 +15,29 @@
             "pagenum": 45,
             "content": "anyA<srs/>DIna ¦ <lex>mfn.</lex> subject to others, dependent.<info lex='m:f:n'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अन्याधीन",
+            "eid": "1904",
+            "pagenum": 34,
+            "content": "अन्याधीन¦ mfn. (-नः-ना-नं) Subject to others, dependent. E. अन्य, and अधीन dependent."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अन्याधीन",
+            "eid": "1906",
+            "pagenum": 41,
+            "content": "अन्याधीन¦ mfn. (-नः-ना-नं) Subject to others, dependant. .E. अन्य, and अधीन dependant."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अन्याधीन",
+            "eid": "1582",
+            "pagenum": 32,
+            "content": "अन्या_धीन¦ (नः-ना-नं) <i>a.</i> Dependent."
+        }
     ]
 }

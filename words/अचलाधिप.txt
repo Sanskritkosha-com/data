@@ -23,5 +23,43 @@
             "pagenum": 8,
             "content": "acalA<srs/>Dipa ¦ <lex>m.</lex> ‘king of mountains’, the <s1 slp1='himAlaya'>Himālaya</s1>.<info lex='m'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अचलाधिप",
+            "eid": "698",
+            "pagenum": 10,
+            "content": "°<i>acalādhipa</i>¦ m. = Meru, <ls>H</ls> 42, 39. {part=,seq=717,type=°,n=1}"
+        },
+        {
+            "word": "अचलाधिप",
+            "eid": "27712",
+            "pagenum": 381,
+            "content": "°<i>acalādhipa</i>¦ m. = Himālaya, <ls>Kir.</ls> V, 17. {part=N,seq=28083,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अचलाधिप",
+            "eid": "502",
+            "pagenum": 10,
+            "content": "अचलाधिप¦ m. (-पः) The king of mountains, the personified Himalaya; also analogous compounds, as अचलेन्द्रः अचलेश्वरः, &c. E. अचल and अधिप king."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अचलाधिप",
+            "eid": "503",
+            "pagenum": 12,
+            "content": "अचलाधिप¦ m. (-पः) The king of mountains, the personified <i>Himālaya;</i> also analogous compounds, as अचलेन्द्रः, अचलेश्वरः, &c. .E. अचल and अधिप king."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अचलाधिप",
+            "eid": "442",
+            "pagenum": 10,
+            "content": "अ-चला_धिप¦ (पः) 1. <i>m.</i> Himālaya."
+        }
     ]
 }

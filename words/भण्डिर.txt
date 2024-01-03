@@ -31,5 +31,37 @@
             "pagenum": 5,
             "content": "भण्डिर¦ <div n='1'> 1) <lex>m.</lex> = भण्डिल <i>Mimosa Seeressa</i> <ls>VĀCASPATI</ls> bei <ls>BHAR.</ls> zu <ls>AK. 2, 4, 2, 44.</ls> <ls>ŚKDR.</ls> <ls>ŚABDAR.</ls> bei <ls>WILS.</ls> <div n='1'>— 2) <lex>f.</lex> ई = भण्डी <ls>ŚABDAR.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "भण्डिर",
+            "eid": "20433",
+            "pagenum": 282,
+            "content": "<i>bhaṇḍira</i>¦ m. <ls>R. ed. Bomb.</ls> 3, 75, 24 nach dem Komm. Ficus indica. Vgl. 1. c). {part=,seq=20714,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भण्डिर",
+            "eid": "29066",
+            "pagenum": 524,
+            "content": "भण्डिर¦ m. (-रः) A tree, (Mimosa sirisha.) f. (-री) Māddār. E. See भण्डिल भण्डीरी, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भण्डिर",
+            "eid": "28191",
+            "pagenum": 611,
+            "content": "भण्डिर¦ m. (-रः) A tree, (<bot>Mimosa sirisha</bot>.) f. (-री) Madder. .E. see भण्डिल, भण्डीरी, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भण्डिर",
+            "eid": "27703",
+            "pagenum": 549,
+            "content": "भण्डिर¦ (रः) 1. <i>m.</i> A tree (Mimosa sirisha). <i>f.</i> (री) Madder."
+        }
     ]
 }

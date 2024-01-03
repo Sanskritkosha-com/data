@@ -47,5 +47,37 @@
             "pagenum": 1,
             "content": "अकल्क¦ (3. अ + कल्क) <lex>adj.</lex> <i>ohne Böses, ehrlich.</i>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकल्क",
+            "eid": "67",
+            "pagenum": 2,
+            "content": "<i>akalka</i>¦ °rein, <ls>H</ls> 34, 62. {part=,seq=69,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अकल्क",
+            "eid": "64",
+            "pagenum": 2,
+            "content": "अकल्क¦ mfn. (-ल्कः-ल्का-ल्कं) 1. Clear, clean. 2. Pure, sinless. 3. Free from sediment. f. (-ल्का) Moonlight. E. अ priv and कल्क dirt."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अकल्क",
+            "eid": "65",
+            "pagenum": 2,
+            "content": "अकल्क¦ mfn. (-क्लः-ल्का-ल्कं) .²1 Clear, clean. .²2 Pure, sinless. .²3 Free from sediment. f. (-ल्का) Moonlight. .E. अ priv. and कल्क dirt."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकल्क",
+            "eid": "53",
+            "pagenum": 2,
+            "content": "अ-कल्क¦ (कः-का-कं) <i>a.</i> Clear; sinless."
+        }
     ]
 }

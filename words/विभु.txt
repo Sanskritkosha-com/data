@@ -262,5 +262,45 @@
             "pagenum": 7,
             "content": "विभु¦ VI. <lex>m.</lex> *<ab>Bez.</ab> <is>Buddha</is>ʼs <ls>MAHĀVY. 1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विभु",
+            "eid": "23997",
+            "pagenum": 331,
+            "content": "<i>vibhu</i>¦ m. *Bez. Buddha's, <ls>Mahāvy.</ls> 1. {part=,seq=24329,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विभु",
+            "eid": "37137",
+            "pagenum": 665,
+            "content": "विभु¦ mfn. (-भुः-भुः or भ्वी-भु) 1. Omnipresent, all-pervading. 2. Always, eternal. 3. Firm, solid, hard. 4. Powerful. m. (-भुः) 1. A master, an owner. 2. ŚIVA. 3. BRAHMĀ. 4. VISHṆU. 5. A servant. 6. Æther. 7. Space. 8. Time. 9. The soul. E. वि before भू to be, aff. डु ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विभु",
+            "eid": "18930",
+            "pagenum": 668,
+            "content": "<b>vi-bhu-</b>¦ <i>-ū-</i> -(<i>v</i>) <i>ī-</i> <ab>a.</ab> qui pénètre partout, omniprésent ; puissant, efficace, capable de (<ab>inf.</ab>) ; <ab>m.</ab> le Toutpuissant, souverain ; Brahma ; Viṣṇu ; Śiva ; <ab>n.</ab> de divers personnages divins ; <i>-tva-</i> <ab>nt.</ab> omniprésence, toutepuissance, souveraineté <lbinfo n='9'/> ; <i>vibhūr-asi-</i> (« tu es puissant ») <ab>m.</ab> <ab>n.</ab> d'une forme d'Agni, du feu."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विभु",
+            "eid": "35495",
+            "pagenum": 777,
+            "content": "विभु¦ mfn. (-भुः-भुः or भ्वी-भु) .²1 Omnipresent, all-pervading. .²2 Always, eternal. .²3 Firm, solid, hard. m. (-भुः) .²1 A master, an owner. .²2 ŚIVA. .²3 BRAHMĀ. .²4 VIṢṆU. .²5 A servant. .²6 Ether. .²7 Space. .²8 Time. .²9 The soul. .E. वि before भू to be, aff. डु."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विभु",
+            "eid": "35090",
+            "pagenum": 697,
+            "content": "विभु¦ (भुः-भुः-भ्वी-भु) 2. <i>m.</i> A master; owner; <i>Brahmā;</i> a servant; the soul; ether; space; time. <i>a.</i> Omnipresent; eternal; solid."
+        }
     ]
 }

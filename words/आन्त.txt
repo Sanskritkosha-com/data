@@ -73,5 +73,47 @@
             "pagenum": 1,
             "content": "आन्त¦ partic. von 2. अम् (s. d.)."
         }
+    ],
+    "SHS": [
+        {
+            "word": "आन्त",
+            "eid": "5466",
+            "pagenum": 93,
+            "content": "आन्त¦ mfn. (-न्तः-न्ता-न्तं) Gone. E. अम् to go, क्त aff."
+        },
+        {
+            "word": "आन्त",
+            "eid": "5467",
+            "pagenum": 93,
+            "content": "आन्त¦ mfn. (-न्तः-न्ती-न्तं) Final, terminal, relating to the end. E. अन्त and अण् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आन्त",
+            "eid": "5468",
+            "pagenum": 113,
+            "content": "आन्त¦ mfn. (-न्तः-न्ता-न्तं) Gone. .E. अम to go, क्त aff."
+        },
+        {
+            "word": "आन्त",
+            "eid": "5469",
+            "pagenum": 113,
+            "content": "आन्त¦ mfn. (-न्तः-न्ती-न्तं) Final, terminal, relating to the end. .E. अन्त and अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आन्त",
+            "eid": "4841",
+            "pagenum": 91,
+            "content": "आन्त¦ (न्तः-न्ता-न्तं) <i>p.</i> Gone."
+        },
+        {
+            "word": "आन्त",
+            "eid": "4842",
+            "pagenum": 91,
+            "content": "आन्त¦ (न्तः-न्ती-न्तं) <i>a.</i> Final."
+        }
     ]
 }

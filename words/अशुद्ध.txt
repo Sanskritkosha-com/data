@@ -81,5 +81,45 @@
             "pagenum": 7,
             "content": "अशुद्ध¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अशुद्ध",
+            "eid": "5847",
+            "pagenum": 80,
+            "content": "<i>aśuddha</i>¦ 3. unbekannt, verdächtig, <ls>Yājñ.</ls> 2, 266. (= <i>aprajñata</i>, Komm.) {part=,seq=5924,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अशुद्ध",
+            "eid": "4244",
+            "pagenum": 73,
+            "content": "अशुद्ध¦ mfn. (-द्धः-द्धा-द्धं) 1. Impure. 2. Inaccurate. 3. Unknown, unascertained. E. अ neg. शुद्ध pure."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अशुद्ध",
+            "eid": "4526",
+            "pagenum": 97,
+            "content": "<b>a-śuddha-</b>¦ <ab>a.</ab> impur.  <P><i>°prakṛti-</i> <ab>a.</ab> qui a des ministres malhonnêtes. <lbinfo n='5'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अशुद्ध",
+            "eid": "4246",
+            "pagenum": 88,
+            "content": "अशुद्ध¦ mfn. (-द्धः-द्धा-द्धं) .²1 Impure. .²2 Inaccurate. .²3 Unknown, unascertained. .E. अ neg. शुद्ध pure."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अशुद्ध",
+            "eid": "3626",
+            "pagenum": 69,
+            "content": "अ-शुद्ध¦ (द्धः-द्धा-द्धं) <i>a.</i> Impure, inaccurate, unknown."
+        }
     ]
 }

@@ -35,5 +35,37 @@
             "pagenum": 7,
             "content": "वान्ताद¦ <div n='1'> 2) scheint <ls>CARAKA 1, 27</ls> <i>ein best. Vogel</i> zu sein."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वान्ताद",
+            "eid": "23485",
+            "pagenum": 324,
+            "content": "<i>vāntāda</i>¦ m. *Hund, <ls>S</ls> II, 188, 4 (s. folg.) {part=,seq=23812,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वान्ताद",
+            "eid": "35947",
+            "pagenum": 644,
+            "content": "वान्ताद¦ m. (-दः) A dog. E. वान्त what is ejected from the mouth, and अद who eats."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वान्ताद",
+            "eid": "34378",
+            "pagenum": 751,
+            "content": "वान्ताद¦ m. (-दः) A dog. .E. वान्त what is ejected from the mouth, and अद who eats."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वान्ताद",
+            "eid": "33970",
+            "pagenum": 673,
+            "content": "वान्ता_द¦ (दः) 1. <i>m.</i> Eater of what has been vomited; a dog."
+        }
     ]
 }

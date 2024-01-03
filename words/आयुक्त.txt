@@ -116,5 +116,43 @@
             "pagenum": 1,
             "content": "आयुक्त¦ (von युज् mit आ) <lex>adj.</lex> <i>bei Etwas angestellt, mit Etwas beauftragt</i>; <lex>m.</lex> <i>Beamter</i> <ls>H. 719.</ls> mit dem loc. oder gen. <ls>P. 2, 3, 40.</ls> <ls>VOP. 5, 29.</ls> कटकरणे oder कटकरणस्य <ls>P.</ls>, <ls>Sch.</ls> दूतकर्मणि <ls>BHAṬṬ. 8, 115.</ls> Davon आयुक्ति/न् <is>gaṇa</is> इष्टादि zu <ls>P. 5, 2, 88.</ls> S. auch युज् mit आ ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आयुक्त",
+            "eid": "7203",
+            "pagenum": 98,
+            "content": "<i>āyukta</i>¦ m. an official, <ls>Pūrṇabh.</ls> 179, 33. {part=,seq=7302,type=,n=1}"
+        },
+        {
+            "word": "आयुक्त",
+            "eid": "28152",
+            "pagenum": 387,
+            "content": "<i>āyukta</i>¦ Adj. °mit <i>ā</i> verbunden, <ls>Prabandh.</ls> 156, 4 v.u. {part=N,seq=28523,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आयुक्त",
+            "eid": "5680",
+            "pagenum": 97,
+            "content": "आयुक्त¦ m. (-क्तः) A minister, an agent or deputy. E. आङ् before युज् to join, and क्त aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आयुक्त",
+            "eid": "5682",
+            "pagenum": 118,
+            "content": "आयुक्त¦ m. (-क्तः) A minister, an agent or deputy. .E. आङ्, युज to join, and क्त aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आयुक्त",
+            "eid": "5064",
+            "pagenum": 95,
+            "content": "आ-युक्त¦ (क्तः) 1. <i>m.</i> Minister or agent."
+        }
     ]
 }

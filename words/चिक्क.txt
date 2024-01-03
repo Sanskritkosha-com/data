@@ -75,5 +75,49 @@
             "pagenum": 2,
             "content": "चिक्क/¦ <div n='1'> 1) <lex>adj.</lex> <i>flachnasig</i>, <lex>n.</lex> <i>Flachnasigkeit</i> <ls>P. 5, 2, 33</ls>, <is>Vārtt</is>. 1. Vgl. चिकिन, चिपिट . <div n='1'>— 2) <lex>m.</lex> <i>Moschusratze</i> <ls>TRIK. 2, 5, 11.</ls> Die gedr. Ausg. चिक, der Ind. <ls>ŚKDR.</ls> und <ls>WILS.</ls> aber चिक्क . Vgl. चिकुर, चिक्किर . <div n='1'>— 3) <lex>f.</lex> आ <div n='2'> a) <i>Maus</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='2'>— b) <i>Betelnuss</i> (vgl. चिक्कण) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "चिक्क",
+            "eid": "13260",
+            "pagenum": 182,
+            "content": "<i>cikka</i>¦ °lässig, <ls>S</ls> II, 179, 3. — m. °Elefantenjunges, I, 581, 2. Vgl. II, 40, 12 (Ko.) <i>cikkagajaḥ gajabālaka ity arthaḥ</i>. {part=,seq=13471,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चिक्क",
+            "eid": "15091",
+            "pagenum": 268,
+            "content": "चिक्क¦ r. 10th cl. (चिक्कयति-ते) To give pain. पीडने । चु-उभ-सक-सेट् ।"
+        },
+        {
+            "word": "चिक्क",
+            "eid": "15092",
+            "pagenum": 268,
+            "content": "चिक्क¦ mfn. (-क्कः-क्की-क्कं) Flat-nosed. m. (-क्कः) A musk rat. f. (-क्का) A mouse. E. चिक् imitative sound, and क who utters, from कै with ड affix; or चिक्क् to give pain, and क affix; or in the last sense, नि preposition changed. to चिक् and कच् added चिक् इति अव्यक्तेन शब्देन कायति कै क ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चिक्क",
+            "eid": "15099",
+            "pagenum": 324,
+            "content": "चिक्क¦ r. 10th cl. (चिक्कयति) To give pain."
+        },
+        {
+            "word": "चिक्क",
+            "eid": "15100",
+            "pagenum": 324,
+            "content": "चिक्क¦ mfn. (-क्कः-क्की-क्कं) Flat-nosed. m. (-क्कः) A musk rat. f. (-क्का) A mouse. .E. चिक् imitative sound, and क who utters, from कै with ड affix; or चिक्क to give pain, and क affix; or in the last sense, नि preposition changed to चिक्, and कच् added."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चिक्क",
+            "eid": "14556",
+            "pagenum": 284,
+            "content": "चिक्क¦ (क्कः) 1. <i>m.</i> A musk-rat. <i>f.</i> (क्का) A mouse. <i>a.</i> Flat-nosed."
+        }
     ]
 }

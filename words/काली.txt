@@ -241,5 +241,19 @@
             "pagenum": 2,
             "content": "काली¦ <lex>Adv.</lex> mit कर् <i>schwarz machen</i> <ls>KĀD. 155,7</ls>. <ls>HARṢAC. 138,14. 141,13</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "काली",
+            "eid": "10543",
+            "pagenum": 145,
+            "content": "<i>kālī</i>¦ mit <i>kṛ</i> auch <ls>H</ls> 27, 56. {part=,seq=10699,type=,n=1}"
+        },
+        {
+            "word": "काली",
+            "eid": "28491",
+            "pagenum": 392,
+            "content": "<i>Kālī</i>¦ f. N. °einer Kuh, <ls>Kaṃs.</ls> III, 22<sup>c</sup>. {part=N,seq=28862,type=,n=1}"
+        }
     ]
 }

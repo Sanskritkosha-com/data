@@ -115,5 +115,21 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अ/ब्राह्मण¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अब्राह्मण",
+            "eid": "3956",
+            "pagenum": 54,
+            "content": "1. <i>ábrāhmaṇa</i>¦ 1. auch so v. a.: kein echter Brahmane, Hemādri 1, 28, 3 ff. {part=,seq=4009,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अब्राह्मण",
+            "eid": "2775",
+            "pagenum": 59,
+            "content": "<b>a-brāhmaṇa-</b>¦ <ab>m.</ab> un non-Brâhmane."
+        }
     ]
 }

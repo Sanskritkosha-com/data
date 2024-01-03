@@ -221,5 +221,21 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> उक्ष्¦ mit प्रति 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उक्ष्",
+            "eid": "7846",
+            "pagenum": 108,
+            "content": "<i>ukṣ</i>¦ mit <i>prati</i> besprengen, <ls>Āpast. Śr.</ls> 2, 8, 3. {part=,seq=7957,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "उक्ष्",
+            "eid": "5994",
+            "pagenum": 134,
+            "content": "<b>UKṢ-</b>¦ <i>ukṣati -te ; ukṣyate ukṣayati ; ukṣita- °ukṣya</i> -- asperger ; uriner ; <ab>a. v.</ab> aspergé, inondé (aussi <ab>fig.</ab>)."
+        }
     ]
 }

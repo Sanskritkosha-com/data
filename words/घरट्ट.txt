@@ -71,5 +71,19 @@
             "pagenum": 2,
             "content": "घरट्ट¦ <lex>m.</lex> <i>Reibstein</i> <ls>ŚKDR.</ls> nach einem <ls>PUR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "घरट्ट",
+            "eid": "12728",
+            "pagenum": 175,
+            "content": "<i>gharaṭṭa</i>¦ m. auch <ls>Śrīk.</ls> 6, 63; 10, 56 hier <i>pānīyagharaṭṭa</i>). {part=,seq=12925,type=,n=2}"
+        },
+        {
+            "word": "घरट्ट",
+            "eid": "28657",
+            "pagenum": 394,
+            "content": "<i>gharaṭṭa</i>¦ °whetstone [pw 'Handmühle'], <ls>Prabandh.</ls> 242, 2. {part=N,seq=29028,type=,n=2}"
+        }
     ]
 }

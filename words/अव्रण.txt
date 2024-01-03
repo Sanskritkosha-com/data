@@ -81,5 +81,51 @@
             "pagenum": 7,
             "content": "अव्रण¦ I. 1. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अव्रण",
+            "eid": "5778",
+            "pagenum": 79,
+            "content": "<i>avraṇa</i>¦ , f. <i>ā</i> <ls>Karmapr.</ls> 15, 11. {part=,seq=5854,type=,n=1}"
+        },
+        {
+            "word": "अव्रण",
+            "eid": "5778.1",
+            "pagenum": 79,
+            "content": "<i>avraṇa</i>¦ Adj. ohne Scharten (Schwert), <ls>MBh.</ls> 4, 8, 1. {part=,seq=5855,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अव्रण",
+            "eid": "4191",
+            "pagenum": 72,
+            "content": "अव्रण¦ mfn. (-णः-णा-णं) Sound, unhurt, unscarred. E. अ neg. व्रण a wound."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अव्रण",
+            "eid": "4475",
+            "pagenum": 96,
+            "content": "<b>a-vraṇa-</b>¦ <ab>a.</ab> indemne, entier ; non ébréché."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अव्रण",
+            "eid": "4193",
+            "pagenum": 87,
+            "content": "अव्रण¦ mfn. (-णः-णा-णं) Sound, unhurt, unscarred. .E. अ neg. व्रण a wound."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अव्रण",
+            "eid": "3578",
+            "pagenum": 68,
+            "content": "अ-व्रण¦ (णः-णा-णं) <i>a.</i> Unscarred."
+        }
     ]
 }

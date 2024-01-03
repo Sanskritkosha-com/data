@@ -77,5 +77,29 @@
             "pagenum": 7,
             "content": "पूत्¦ IV. Mit कर् <i>jammern</i> <ls>DHARMAŚARM. 10,50</ls>. <ls n='DHARMAŚARM.'>12,6</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पूत्",
+            "eid": "18816",
+            "pagenum": 260,
+            "content": "<i>pūt</i>¦ mit <i>kṛ</i> jammern, <ls>Dharmaśarm.</ls> 10, 50; 12, 6. {part=,seq=19084,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पूत्",
+            "eid": "25598",
+            "pagenum": 463,
+            "content": "पूत्¦ Ind. An imitative word expressive of hard breathing."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पूत्",
+            "eid": "13928",
+            "pagenum": 443,
+            "content": "<b>pūt-</b>¦ <ab>onomat.</ab> du souffle."
+        }
     ]
 }

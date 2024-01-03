@@ -39,5 +39,29 @@
             "pagenum": 1,
             "content": "उपोती¦ = उपोदिका <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "उपोती",
+            "eid": "7653",
+            "pagenum": 132,
+            "content": "उपोती¦ f. (-ती) A potherb, (Basella rubra or lucida.) E. उप much, and उद water, deriv. irr."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उपोती",
+            "eid": "7656",
+            "pagenum": 161,
+            "content": "उपोती¦ f. (-ती) A potherb, (<bot>Basella rubra or lucida</bot>.) .E. उप much, उद water, deriv. irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उपोती",
+            "eid": "7069",
+            "pagenum": 132,
+            "content": "उपो_ती¦ (ती) 3. <i>f.</i> A pot-herb (Basella rubra or lucida)."
+        }
     ]
 }

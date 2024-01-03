@@ -23,5 +23,29 @@
             "pagenum": 6,
             "content": "वारिमूली¦ <lex>f.</lex> <i>Pistia Stratiotes Lin.</i> <ls>TRIK. 1, 2, 34.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वारिमूली",
+            "eid": "36068",
+            "pagenum": 646,
+            "content": "वारिमूली¦ f. (-ली) An aquatic plant, (Pistia stratiotes.) E. वारि water, मूल a root."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वारिमूली",
+            "eid": "34494",
+            "pagenum": 754,
+            "content": "वारिमूली¦ f. (-ली) An aquatic plant, (<bot>Pistia stratiotes</bot>.) .E. वारि water, मूल a root."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वारिमूली",
+            "eid": "34091",
+            "pagenum": 676,
+            "content": "वारि-मूली¦ (ली) 3. <i>f.</i> An aquatic plant (Pistia)."
+        }
     ]
 }

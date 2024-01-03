@@ -76,5 +76,41 @@
             "pagenum": 7,
             "content": "स्फट¦ <div n='1'> 1) <lex>m.</lex> und स्फटा <lex>f.</lex> = फट, फटा <i>die sogenannte Haube der Schlangen</i> <ls>AK. 1, 2, 1, 9.</ls> <ls>H. 1315</ls>, Schol. <div n='1'>— 2) <lex>f.</lex> ई <i>Alaun</i> <ls>RĀJAN. 13, 121.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "स्फट",
+            "eid": "45830",
+            "pagenum": 816,
+            "content": "स्फट¦ mf. (-टः-टा) A snake's expanded neck or hood f. (-टिः or -टी) Alum. E. स्फुट् to swell, aff. क, and the vowel changed to अ; or स्फट्-अच् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्फट",
+            "eid": "43337",
+            "pagenum": 956,
+            "content": "स्फट¦ r. 1st cl. (स्फटति) .²1 To open, to unfold, to burst. .²2 To break or divide."
+        },
+        {
+            "word": "स्फट",
+            "eid": "43338",
+            "pagenum": 956,
+            "content": "स्फट¦ mf. (-टः-टा) A snake's expanded neck or hood. f. (-टी) Alum. .E. स्फुट to swell, aff. क, and the vowel changed to अ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्फट",
+            "eid": "43133",
+            "pagenum": 880,
+            "content": "स्फट¦ स्फटति 1. <i>a.</i> To burst, to open, to unfold, to break."
+        },
+        {
+            "word": "स्फट",
+            "eid": "43134",
+            "pagenum": 880,
+            "content": "स्फट¦ (टः-टा) 1. <i>m. f.</i> Snake's expanded hood. <i>f.</i> (ई) Alum."
+        }
     ]
 }

@@ -91,5 +91,45 @@
             "pagenum": 5,
             "content": "मेठ¦ 1〉 <ls>HARṢAC. (1936) 443,12</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मेठ",
+            "eid": "21981",
+            "pagenum": 303,
+            "content": "<i>meṭha</i>¦ 1. <ls>Harṣac.</ls> (1936) 443, 12. {part=,seq=22282,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मेठ",
+            "eid": "32116",
+            "pagenum": 577,
+            "content": "मेठ¦ m. (-ठः) 1. An elephant-keeper or feeder. 2. A ram; also मेण्ठ and मेण्ड ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मेठ",
+            "eid": "16944",
+            "pagenum": 576,
+            "content": "<b>meṭha-</b>¦ <ab>m.</ab> gardien d'éléphant."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मेठ",
+            "eid": "30943",
+            "pagenum": 673,
+            "content": "मेठ¦ m. (-ठः) .²1 An elephant-keeper or feeder. .²2 A ram; also read मेण्ठ and मेण्ठ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मेठ",
+            "eid": "30495",
+            "pagenum": 603,
+            "content": "मेठ¦ (ठः) 1. <i>m.</i> An elephant-keeper; a ram. Also मेण्ठ and मेण्ड."
+        }
     ]
 }

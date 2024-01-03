@@ -173,5 +173,35 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> ग्रथ्¦ <ab>Caus.</ab> ग्रथयते = <ab>Simpl.</ab> <ls>MBH. 4,9,19</ls>. ग्रन्थयते <ls>ed. Calc. 4,262</ls>. — Mit उद्, उद्गृणत्ति (!) <ls>AV. 10,7,43</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ग्रथ्",
+            "eid": "12612",
+            "pagenum": 173,
+            "content": "1. <i>grath</i>¦ <ls>Kaus.</ls> <i>grathayate</i> = Simpl. <ls>MBh.</ls> 4, 9, 19. <i>granthayate</i> ed. Calc. 4, 262. — Mit <i>ud, udgṛṇatti</i> (!) <ls>AV. 10, 7, 43.</ls> {part=,seq=12806,type=,n=1}"
+        },
+        {
+            "word": "ग्रथ्",
+            "eid": "12612.1",
+            "pagenum": 173,
+            "content": "*<i>grath</i>¦ (<i>kauṭilye</i>) <ls>S</ls> I, 280, 4 v.u. (Ko.; <i>grathayati = chalayati</i>). {part=,seq=12807,type=*,n=5}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "ग्रथ्",
+            "eid": "8905",
+            "pagenum": 237,
+            "content": "<b>GRATH-</b>¦ (<b>GRANTH-</b>) <i>grathyate ; grathayati</i><i> granthayati -te ;</i> <i>grathita- °grathya</i> -- nouer, lier, former ; <ab>a. v.</ab> noué, lié ; garni de, arrangé, composé ; étroitement lié, difficile <lbinfo n='4'/> à distinguer ; <ab>nt.</ab> fait d'être associé, lié à."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ग्रथ्",
+            "eid": "13613",
+            "pagenum": 264,
+            "content": "ग्रथ्¦ (ङ, इ) ग्रन्थते 1. <i>d.</i> To be crooked; to string. (क) ग्रथयति to bind."
+        }
     ]
 }

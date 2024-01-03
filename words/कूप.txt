@@ -210,5 +210,65 @@
             "pagenum": 7,
             "content": "कूप¦ II. 1〉c〉 °दण्ड <lex>m.</lex> <i>Mast</i> <ls>DAŚAK. (1883) 1,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कूप",
+            "eid": "11080",
+            "pagenum": 152,
+            "content": "<i>kūpa</i>¦ 1. c) <i>°daṇḍa</i> m. Mast, <ls>Daśak.</ls> (1883) 1, 2. {part=,seq=11246,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कूप",
+            "eid": "11194",
+            "pagenum": 196,
+            "content": "कूप¦ r. 10th cl. (कूपयति) 1. To be weak. 2. To weaken: see कुप."
+        },
+        {
+            "word": "कूप",
+            "eid": "11195",
+            "pagenum": 196,
+            "content": "कूप¦ m. (-पः) 1. A well. 2. A hole, a hollow. 3. A mast. 4. A tree or rock in the midst of a river. f. (-पी) 1. A small well. 2. The navel. 3. A flask, a bottle. E. कु to sound, (frogs croaking in a well, &c.) and प Unadi affix: the vowel is made long; also कूपक."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कूप",
+            "eid": "8194",
+            "pagenum": 203,
+            "content": "<b>kūpa-</b>¦ <ab>m.</ab> puits, fontaine ; grotte, caverne ; mât ; <i>-ikā-</i> <ab>f.</ab> réservoir.  <P><i>°karṇa-</i> <ab>m.</ab> <ab>n.</ab> d'un homme.  <P><i>°kāra-</i> <ab>m.</ab> qui creuse des puits.  <P><i>°cakra-</i> <ab>nt.</ab> roue servant à tirer l'eau d'un puits.  <P><i>°daṇḍa-</i> <ab>m.</ab> mât.  <P><i>°dardura-</i> (grenouille dans un puits) <ab>m.</ab> se dit des gens sans expérience qui ne sont jamais sortis de leur trou ; <i>°maṇḍūka-</i> <ab>id.</ab>  <P><i>°yantra-</i> <ab>nt.</ab> = <i>°cakra-.</i>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कूप",
+            "eid": "680",
+            "pagenum": 1,
+            "content": "<b>Kūpa</b>¦ occurs in the Rigveda<sup>1</sup> and later literature<sup>2</sup> denoting an artificial hollow in the earth, or pit. In some cases they must have been deep, as Trita in the myth is said to have fallen into one from which he could not escape unaided.<sup>3</sup> <F>1) i. 105, 17.</F> <F>2) Av. v. 31, 8; Satapatha Brahmaṇa, iii. 5, 4, 1; iv. 4, 5, 3; vi. 3, 3. 26, etc.; Jaiminīya Brāhmaṇa, i. 184. etc. The adjective <i>kūpya,</i> ‘being in a hole,’ occurs frequently in the later Saṃhitās.</F> <F>3) Macdonell, <i>Vedic Mythology,</i> p. 67.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कूप",
+            "eid": "11200",
+            "pagenum": 239,
+            "content": "कूप¦ r. 10th cl. (कूपयति) .²1 To be weak. .²2 To weaken: see कुप."
+        },
+        {
+            "word": "कूप",
+            "eid": "11201",
+            "pagenum": 239,
+            "content": "कूप¦ m. (-पः) .²1 A well. .²2 A hole, a hollow. .²3 A mast. .²4 A tree or rock in the midst of a river. f. (-पी) .²1 A small well. .²2 The navel. .²3 A flask, a bottle. .E. कु to sound, (frogs croaking in a well, &c.) and प Uṇādi affix: the vowel is made long; also कूपक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कूप",
+            "eid": "10646",
+            "pagenum": 203,
+            "content": "कूप¦ (पः) 1. <i>m.</i> A well; a hole; a mast; a tree or rock in a river. <i>f.</i> (पी) Small well; flask; navel."
+        }
     ]
 }

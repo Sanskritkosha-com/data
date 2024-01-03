@@ -75,5 +75,45 @@
             "pagenum": 7,
             "content": "उपागम¦ I. 1〉 <ls>KIR. 4,35</ls>. <ls>DHARMAŚARMĀBHY. 4,51</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपागम",
+            "eid": "8724",
+            "pagenum": 119,
+            "content": "<i>upāgama</i>¦ 1. <ls>Kir.</ls> 4, 35; <ls>Dharmaśarm.</ls> 4, 51. {part=,seq=8841,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उपागम",
+            "eid": "7597",
+            "pagenum": 131,
+            "content": "उपागम¦ m. (-मः) 1. Promise, agreement. 2. Approach. 3. Occurrence, arrival. 4. Feeling, suffering. E. उप near, आङ् before गम् to come, अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपागम",
+            "eid": "7096",
+            "pagenum": 158,
+            "content": "<b>upāgama-</b>¦ <ab>m.</ab> arrivée."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उपागम",
+            "eid": "7600",
+            "pagenum": 160,
+            "content": "उपागम¦ m. (-मः) .²1 Promise, agreement. .²2 Approach. .²3 Occurrence, arrival. .²4 Feeling, suffering. .E. उप near, आङ् before गम to come, अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उपागम",
+            "eid": "7010",
+            "pagenum": 131,
+            "content": "उपा_गम¦ (मः) 1. <i>m.</i> Approach; arrival; promise; foreboding."
+        }
     ]
 }

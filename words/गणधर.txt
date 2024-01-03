@@ -45,5 +45,37 @@
             "pagenum": 5,
             "content": "गणधर¦ <ls>WILSON, Sel. Works 1, 285. 298. fg. 304.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गणधर",
+            "eid": "12020",
+            "pagenum": 165,
+            "content": "<i>gaṇadhara</i>¦ m. ° = <i>vidyādhara</i>, <ls>S</ls> I, 196, 14 (Ko.). {part=,seq=12203,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गणधर",
+            "eid": "13026",
+            "pagenum": 228,
+            "content": "गणधर¦ m. (-रः) 1. The head of a class or number, the teacher of a school. 2. A title of the first diciples of the Jaina Mahavira. E. गण a class, and धर who holds."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गणधर",
+            "eid": "13032",
+            "pagenum": 277,
+            "content": "गणधर¦ m. (-रः) .²1 The head of a class or number, the teacher of a school. .²2 A title of the first disciples of the <i>Jina Mahāvīra.</i> .E. गण a class, and धर who holds."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गणधर",
+            "eid": "12484",
+            "pagenum": 241,
+            "content": "गण-धर¦ (रः) 1. <i>m.</i> A teacher."
+        }
     ]
 }

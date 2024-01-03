@@ -165,5 +165,43 @@
             "pagenum": 7,
             "content": "अवधूत und °क¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवधूत",
+            "eid": "5274",
+            "pagenum": 72,
+            "content": "<i>Avadhūta</i>¦ 1. m. als Name eines Philosophen auch <ls>S</ls> II, 272, 16. {part=,seq=5346,type=,n=1}"
+        },
+        {
+            "word": "अवधूत",
+            "eid": "5274.1",
+            "pagenum": 72,
+            "content": "<i>Avadhūta</i>¦ und <i>°ka</i> n. Titel einer Upaniṣad. {part=,seq=5347,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवधूत",
+            "eid": "3737",
+            "pagenum": 65,
+            "content": "अवधूत¦ mfn. (-तः-ता-तं) 1. Compelled. 2. Discarded. 3. Shaken, removed, tossed. 4. Trodden upon. 5. Separated from worldly feeling and obligation. E. अव, and धूत shaken."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवधूत",
+            "eid": "3739",
+            "pagenum": 78,
+            "content": "अवधूत¦ mfn. (-तः-ता-तं) .²1 Compelled. .²2 Discarded. .²3 Shaken, removed, tossed. .²4 Trodden upon. .²5 Separated from worldly feeling and obligation. .E. अव, and धूत shaken."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवधूत",
+            "eid": "3170",
+            "pagenum": 61,
+            "content": "अव-धूत¦ (तः-ता-तं) <i>p.</i> Shaken off."
+        }
     ]
 }

@@ -149,5 +149,21 @@
             "pagenum": 7,
             "content": "क्षर्¦ <ab>Caus.</ab> II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "क्षर्",
+            "eid": "11646",
+            "pagenum": 160,
+            "content": "<i>kṣar</i>¦ <ls>Kaus.</ls> 3. mit Instr. st. Lok., <ls>R. Gorr. 2, 109, 55.</ls> {part=,seq=11824,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "क्षर्",
+            "eid": "8488",
+            "pagenum": 216,
+            "content": "<b>KṢAR-</b>¦ <i>kṣarati -te ; cakṣāra ; kṣārayati ; kṣarita-</i> -- couler, s'écouler, s'échapper de (<ab>abl.</ab>) ; verser, répandre (abondamment)."
+        }
     ]
 }

@@ -105,5 +105,37 @@
             "pagenum": 7,
             "content": "उत्तरायण¦ I. Lies <i>Wintersolstitium</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उत्तरायण",
+            "eid": "8084",
+            "pagenum": 111,
+            "content": "<i>uttarāyaṇa</i>¦ lies: Wintersolstitium. {part=,seq=8196,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उत्तरायण",
+            "eid": "6804",
+            "pagenum": 116,
+            "content": "उत्तरायण¦ n. (-णं) The period of the sun's progress to the north of the equator, the summer solstice. E. उत्तर the north, and अयन going, progress."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उत्तरायण",
+            "eid": "6806",
+            "pagenum": 142,
+            "content": "उत्तरायण¦ n. (-णं) The period of the sun's progress to the north of the equator, the summer solstice. .E. उत्तर the north, and अयन going, progress."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उत्तरायण",
+            "eid": "6205",
+            "pagenum": 116,
+            "content": "उत्तरा_यण¦ (णं) 1. <i>n.</i> The half year the sun is to the north."
+        }
     ]
 }

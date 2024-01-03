@@ -47,5 +47,37 @@
             "pagenum": 7,
             "content": "उदवज्र¦ I. <ls>KAUŚ. 38,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उदवज्र",
+            "eid": "8276",
+            "pagenum": 113,
+            "content": "<i>udavajra</i>¦ <ls>Kauś.</ls> 38, 2. {part=,seq=8390,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उदवज्र",
+            "eid": "7007",
+            "pagenum": 120,
+            "content": "उदवज्र¦ m. (-ज्रः) A thunderbolt of water, a water spout. E. उद् and वज्र a thunderbolt."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उदवज्र",
+            "eid": "7010",
+            "pagenum": 146,
+            "content": "उदवज्र¦ m. (-ज्रः) A thunderbolt of water, a water spout. .E. उद and वज्र a thunderbolt."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उदवज्र",
+            "eid": "6414",
+            "pagenum": 120,
+            "content": "उद-वज्र¦ (ज्रः) 1. <i>m.</i> A water-spout."
+        }
     ]
 }

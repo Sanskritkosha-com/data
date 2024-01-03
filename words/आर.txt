@@ -283,5 +283,75 @@
             "pagenum": 7,
             "content": "<hom>4.</hom> आर¦ 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आर",
+            "eid": "7218",
+            "pagenum": 98,
+            "content": "4. <i>āra</i>¦ n. eine Menge von Feinden, <ls>Śiś.</ls> 19, 27. [<ls>H</ls> 43, 155; Yudh, 4, 48; 8, 44.] {part=,seq=7317,type=,n=1}"
+        },
+        {
+            "word": "आर",
+            "eid": "7218.1",
+            "pagenum": 99,
+            "content": "<i>āra</i>¦ m. ° = <i>āgamana</i>, <ls>H</ls> 5, 135; 43, 155. 274. {part=,seq=7318,type=,n=2}"
+        },
+        {
+            "word": "आर",
+            "eid": "7219",
+            "pagenum": 99,
+            "content": "<i>āra</i>¦ (f. <i>ārā</i>) °nahe, <ls>S</ls> I, 448, 7 (<i>ārāsti samīpavartinī bhavati</i>); am Ende eines Komp. ° = <i>ārāti gṛhṇāti yā</i>, <ls>H</ls> 5, 135. {part=,seq=7319,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आर",
+            "eid": "5701",
+            "pagenum": 97,
+            "content": "आर¦ m. (-रः) 1. The planet MARS. 2. The planet SATURN. n. (-रं) 1. An angle, a corner. 2. End, extremity. 3. Brass. 4. Oxide of iron. f. (-रा) 1. A shoe-maker's awl or knife. 2. A probe. E. ऋ to go, affix घञ्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आर",
+            "eid": "5481",
+            "pagenum": 121,
+            "content": "<b>1 āra-</b>¦ <ab>nt.</ab> masse d'ennemis."
+        },
+        {
+            "word": "आर",
+            "eid": "5482",
+            "pagenum": 121,
+            "content": "<b>2 āra-</b>¦ <ab>nt.</ab> airain, métal.  <P><i>°kūṭa-</i> <ab>m.</ab> <ab>nt.</ab> bronze ou cuivre.  <P><i>ārāgra-</i> <ab>nt.</ab> pointe d'une alêne."
+        },
+        {
+            "word": "आर",
+            "eid": "5483",
+            "pagenum": 121,
+            "content": "<b>3 āra</b>¦ <ab>v.</ab> <i>Ṛ-</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आर",
+            "eid": "5703",
+            "pagenum": 118,
+            "content": "आर¦ m. (-रः) .²1 The planet MARS. .²2 The planet SATURN. n. (-रं) .²1 An angle, a corner. .²2 End, extremity. .²3 Brass. .²4 Oxide of iron. f. (-रा) .²1 A shoe-maker's awl or knife. .²2 A probe. .E. ऋ to go, affix घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आर",
+            "eid": "5085",
+            "pagenum": 95,
+            "content": "आर¦ (रः) 1. <i>m.</i> The planet Mars or Saturn; a corner; end; iron; brass. (रा) <i>f.</i> A shoemaker's awl or knife, an arrow-head, a probe."
+        },
+        {
+            "word": "आर",
+            "eid": "44844",
+            "pagenum": 917,
+            "content": "*आर¦ (रा) 1. <i>f.</i> A spoke."
+        }
     ]
 }

@@ -127,5 +127,45 @@
             "pagenum": 7,
             "content": "अक्षम¦ I. 2 (<ls>JĀTAKAM. 19,6</ls>)."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्षम",
+            "eid": "235",
+            "pagenum": 4,
+            "content": "<i>akṣama</i>¦ 3. unpassend, unangemessen, <ls>Bhāg. P.</ls> 1, 14, 43; <ls>Jātakam.</ls> 19, 6. {part=,seq=243,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अक्षम",
+            "eid": "144",
+            "pagenum": 3,
+            "content": "अक्षम¦ mfn. (-मः-मा-मं) 1. Impatient, intolerant. 2. Unable, incompetent, impotent f. (-मा) 1. Impatience, intolerance. 2. Envy, impatience of another's success. 3. Inability, incapacity. E. अ neg. क्षमा patience."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अक्षम",
+            "eid": "109",
+            "pagenum": 3,
+            "content": "<b>a-kṣama-</b>¦ <ab>a.</ab> incapable de (<ab>loc.</ab> <ab>inf.</ab> et <ab>ifc.</ab>) ; qui ne convient pas ; envieux ; <i>-ā-</i> <ab>f.</ab> envie ; impatience ; <i>-āvant-</i> <ab>a.</ab> impatient."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक्षम",
+            "eid": "145",
+            "pagenum": 4,
+            "content": "अक्षम¦ mfn. (-मः-मा-मं) .²1 Impatient, intolerant. .²2 Unable, incompetent, impotent. f. (-मा) .²1 Impatience, intolerance. .²2 Envy, impatience of another's success. .²3 Inability, incapacity. .E. अ neg. क्षमा patience."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक्षम",
+            "eid": "111",
+            "pagenum": 3,
+            "content": "अ-क्षम¦ (मः-मा-मं) <i>a.</i> Impatient; incompetent, impotent."
+        }
     ]
 }

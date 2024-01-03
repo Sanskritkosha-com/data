@@ -239,5 +239,75 @@
             "pagenum": 7,
             "content": "य¦ V. यत्खलु जानीयाः so <ab>v. a.</ab> <i>beliebe zu erfahren, mit deiner Erlaubniss</i> <ls>DIVYĀVAD. 111,25</ls>. <ls n='DIVYĀVAD.'>156,8</ls>. यन्नु mit der 1sten <ab>Potent.</ab> <i>lass mich, ich möchte</i> <ls>LALIT. 109,15</ls> (यन्न्वहमस्य zu lesen). <ls>DIVYĀVAD. 283,5</ls>. यद्वा तद्वा <i>gleichviel was, das erste beste</i> <ls n='DIVYĀVAD.'>499,17. 548,11</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "य",
+            "eid": "22067",
+            "pagenum": 304,
+            "content": "<i>ya</i>¦ [°am Ende eines Komp.] gehend = reitend, <ls>H</ls> XLIII, 252. {part=,seq=22369,type=,n=1}"
+        },
+        {
+            "word": "य",
+            "eid": "22067.1",
+            "pagenum": 304,
+            "content": "<i>[ya]</i>¦ , <i>yat khalu jānīyāḥ</i> so v.a. beliebe zu erfahren, mit deiner Erlaubnis, <ls>Divyāvad.</ls> 111, 25; 156, 8. <i>yan nu</i> mit der 1. Potent. laß mich, ich möchte, <ls>Lalit.</ls> 109, 15 (<i>yan nv aham asya</i> zu lesen); <ls>Divyāvad.</ls> 283, 5. <i>yad vā tad vā</i> gleichviel was, das erste beste, 499, 17; 548, 11. {part=,seq=22370,type=,n=10}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "य",
+            "eid": "32324",
+            "pagenum": 581,
+            "content": "य¦ The twenty-six consonant of the Nāgari alphabet, or semi-vowel Y; in Bengal, it is usually pronounced J."
+        },
+        {
+            "word": "य",
+            "eid": "32325",
+            "pagenum": 581,
+            "content": "य¦ mfn. (-यः-या-यं) Who goes, a goer, a mover. m. (-यः) 1. Air, wind. 2. Union, Joining. 3. Fame, celebrity. 4. Barley. 5. Light, lustre. 6. Abandoning. 7. YAMA. f. (-या) 1. Pudendum muliebre. 2. Going, proceeding. 3. A car, a carriage. 4. Prohibiting, restraining, checking. 5. Religious meditation. 6. Getting, obtaining. E. यज् to worship, or यम् to check, &c., aff. ड; or या-ड ।"
+        },
+        {
+            "word": "य",
+            "eid": "32517",
+            "pagenum": 585,
+            "content": "य(ज)मदग्रि¦ m. (-ग्निः) 1. The saint JAMADAGNI, the father of the first RĀMA."
+        }
+    ],
+    "STC": [
+        {
+            "word": "य",
+            "eid": "17042",
+            "pagenum": 581,
+            "content": "<b>ya-</b>¦ <ab>pron.</ab> <ab>rel.</ab> qui, lequel (<ab>nt.</ab> <i>yad ;</i> <ab>nom.</ab> <ab>pl.</ab> <ab>m.</ab> <i>ye,</i> etc.), en corrélation fréquente avec <i>etad- idam-</i> et surt. <i>tad- ;</i> <ab>qqf.</ab> explétif ; <i>yo yaḥ</i> tous ceux (quels qu'ils soient) qui ; <i>yaḥ kaś ca</i> (<i>kaś cid, kaś</i> <i>cana, ko 'pi</i>) qui que ce soit qui, quiconque ; <i>yo 'ham</i> moi qui, puisque je ; <i>-tara-</i> <ab>compar.</ab> qui (de deux, des deux) ; <ab>v.</ab> <i>tad-.</i> En 1{^er^} terme de <ab>comp.</ab>, la forme est <i>yad,</i> voir <ab>s. v.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "य",
+            "eid": "31128",
+            "pagenum": 677,
+            "content": "य¦ The twenty-sixth consonant of the <i>Nāgarī</i> alphabet, or semivowel <i>Y;</i> in <i>Bengal,</i> it is usually pronounced <i>J.</i>"
+        },
+        {
+            "word": "य",
+            "eid": "31129",
+            "pagenum": 677,
+            "content": "य¦ mfn. (-यः-या-यं) Who goes, a goer, a mover. m. (यः) .²1 Air, wind. .²2 Union, joining. .²3 Fame, celebrity. .²4 Barley. .²5 Light, lustre. .²6 Abandoning. .²7 YAMA. f. (या) .²1 Pudendum muliebre. .²2 Going, proceeding. .²3 A car, a carriage. .²4 Prohibiting, restraining, checking. .²5 Religious meditation. .²6 Getting, obtaining. .E. यज to worship, यम to check, &c., aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "य",
+            "eid": "30683",
+            "pagenum": 607,
+            "content": "य¦ <i>y</i> The twenty sixth consonant, and first of the semivowels."
+        },
+        {
+            "word": "य",
+            "eid": "30684",
+            "pagenum": 607,
+            "content": "य¦ (यः-या-यं) <i>a.</i> Going. <i>m.</i> Air; union; fame; light; barley; <i>Yama. f.</i> Pudendum; going; checking; a car; meditation; getting."
+        }
     ]
 }

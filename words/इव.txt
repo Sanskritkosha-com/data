@@ -149,5 +149,63 @@
             "pagenum": 7,
             "content": "इव¦ am Anfange eines Stollens auch <ls>KATHĀS. 1,20</ls>. <ls>Journ. As. VIII S. T. 7,192</ls>. इव नाम <i>zum Schein, quasi</i> <ls>JĀTAKAM. 4</ls>. <ls n='JĀTAKAM.'>7</ls>. <ls n='JĀTAKAM.'>10</ls>. <ls n='JĀTAKAM.'>13</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "इव",
+            "eid": "7746",
+            "pagenum": 106,
+            "content": "<i>iva</i>¦ am Anfang eines Stollens auch <ls>Kathās.</ls> 1, 20; JA. VIII. S. T. 7, 192. <i>iva nāma</i> zum Scheine, quasi, <ls>Jātakam.</ls> 4. 7. 10. 13. 1. <i>iṣ</i> mit <i>samanu</i> durchsuchen. <i>samanveṣitum</i> <ls>R. ed. Bomb.</ls> 3, 67, 7. — Mit <i>upa</i> hinstreben zu (Akk.), <ls>Maitr. S.</ls> 1, 2, 14 (<ls>Kāṭh.</ls> 3, 3; <ls>Kap. S.</ls> 2, 10; <ls>Mān. Śr.</ls> 1, 8, 2). — Mit <i>atipra</i> darüber hinaus auffordern, <ls>Āpast. Śr.</ls> 12, 27, 6; 14, 34, 4; <ls>Vaitān.</ls> 3. <i>iṣ</i> mit passivisch aufzufassendem Infinitiv: <i>samudraṃ netum icchāmi bhavadbhiḥ:</i> ich wünsche von Euch an's Meer geführt zu werden, <ls>R. ed. Bomb.</ls> 4, 58, 33; 56, 21. — Zu 4. e)b) gehört <i>pratikūlitum icchāmi na hi vākyam idaṃ tvayā</i>, 3, 24, 13. 4. {part=,seq=7855,type=,n=21}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "इव",
+            "eid": "6398",
+            "pagenum": 110,
+            "content": "इव¦ r. 1st cl. (इ) इवि (इंवति) 1. To pervade. 2. (According to some,) to please. 3. To be satisfied."
+        },
+        {
+            "word": "इव",
+            "eid": "6399",
+            "pagenum": 110,
+            "content": "इव¦ ind. So, even, as, like, in the same manner."
+        }
+    ],
+    "STC": [
+        {
+            "word": "इव",
+            "eid": "5936",
+            "pagenum": 132,
+            "content": "<b>iva</b>¦ <ab>conj.</ab> (<ab>encl.</ab>, <ab>rar.</ab> initiale) comme, de la même manière que ; pour ainsi dire, à peu près ; de fait, vraiment. Avec <ab>interr.</ab>, simplement <lbinfo n='4'/> emphatique."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "इव",
+            "eid": "6400",
+            "pagenum": 134,
+            "content": "इव¦ r. 1st cl. (इ) इवि (इंवति) .²1 To pervade. .²2 (According to some,) to please. .²3 To be satisfied."
+        },
+        {
+            "word": "इव",
+            "eid": "6401",
+            "pagenum": 134,
+            "content": "इव¦ <i>ind.</i> So, even, as, like, in the same manner."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "इव",
+            "eid": "5789",
+            "pagenum": 109,
+            "content": "इव¦ (इ) इंवति 1. <i>a.</i> To pervade; to love, to please."
+        },
+        {
+            "word": "इव",
+            "eid": "5790",
+            "pagenum": 109,
+            "content": "इव¦ <i>conj.</i> Even as, even so."
+        }
     ]
 }

@@ -61,5 +61,29 @@
             "pagenum": 5,
             "content": "एकनाथ¦ N. pr. <ls>HALL 107. 185.</ls> एकनाथी Titel eines von एकनाथ verfassten Commentars <ls n='HALL'>107.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "एकनाथ",
+            "eid": "8119",
+            "pagenum": 140,
+            "content": "एकनाथ¦ mfn. (-थः-था-थं) Having one master. m. (-थः) Sole master or lord. E. एक and नाथ lord."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकनाथ",
+            "eid": "8123",
+            "pagenum": 171,
+            "content": "एकनाथ¦ mfn. (-थः-था-थं) Having one master. m. (-थः) Sole master or lord. .E. एक and नाथ lord."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकनाथ",
+            "eid": "7541",
+            "pagenum": 141,
+            "content": "एक-नाथ¦ (थः-था-थं) <i>a.</i> Having one master. <i>m.</i> Sole master."
+        }
     ]
 }

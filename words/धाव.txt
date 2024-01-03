@@ -67,5 +67,37 @@
             "pagenum": 5,
             "content": "धाव¦ <lex>m.</lex> <i>Reinigung</i> in दन्त° ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "धाव",
+            "eid": "16156",
+            "pagenum": 223,
+            "content": "°<i>dhāva</i>¦ s. <i>karidhāvadharaṇi</i>. {part=,seq=16401,type=°,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "धाव",
+            "eid": "20603",
+            "pagenum": 370,
+            "content": "धाव (उ) धावु¦ r. 1st cl. (धावति-ते) 1. To go or move. 2. To run. 3. To cleanse. 4. To be clean or pure. With अनु. 1. To know. 2. To run after. With अभि prefixed. To approach, to come before. With आङ्, To alight. With परि, To run fast. With वि, To shed or sprinkle. With सम् and उप, To run to meet. जवे शुद्धौ अक० शुद्धिकरणे संमार्जने च सक० भ्वा० उभ० सेट् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "धाव",
+            "eid": "11188",
+            "pagenum": 341,
+            "content": "<b>dhāva-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui lave, nettoie."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "धाव",
+            "eid": "20617",
+            "pagenum": 444,
+            "content": "धाव¦ (उ) धावु r. 1st cl. (धावति-ते) .²1 To go or move. .²2 To run. .²3 To cleanse. .²4 To be clean or pure. <div n='p'>With अनु, .²1 To know. .²2 To run after. <div n='p'>With अभि prefixed, To approach, to come before. <div n='p'>With आङ्, To alight. <div n='p'>With परि, To run fast. <div n='p'>With वि, To shed or sprinkle. <div n='p'>With सम् and उग्र, To run to meet."
+        }
     ]
 }

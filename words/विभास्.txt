@@ -37,5 +37,27 @@
             "pagenum": 7,
             "content": "विभास्¦ <lex>f.</lex> <i>Glanz</i> <ls>KIR. 9,9</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विभास्",
+            "eid": "23995",
+            "pagenum": 331,
+            "content": "<i>vibhās</i>¦ f. Glanz, <ls>Kir.</ls> 9, 9. — °Adj. = <i>vigatā bhā dīptir yasya sa tādṛśaḥ</i>, <ls>Yudh.</ls> 5, 57; 7, 143. {part=,seq=24327,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विभास्",
+            "eid": "18920",
+            "pagenum": 667,
+            "content": "<b>1 vi-BHĀS-</b>¦ <ab>moy.</ab> briller ; <ab>caus.</ab> illuminer ; <i>°bhāsita-</i> illuminé."
+        },
+        {
+            "word": "विभास्",
+            "eid": "18921",
+            "pagenum": 667,
+            "content": "<b>2 vi-bhās-</b>¦ <ab>f.</ab> splendeur."
+        }
     ]
 }

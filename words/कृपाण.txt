@@ -120,5 +120,51 @@
             "pagenum": 5,
             "content": "कृपाण¦ <div n='1'> 1) <ls>DAŚAK.</ls> in <ls>BENF. Chr. 187, 4.</ls> <div n='v'>— Vgl. अजाकृपाणीय ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कृपाण",
+            "eid": "11181",
+            "pagenum": 154,
+            "content": "<i>kṛpāṇa</i>¦ 2. f. <i>ī</i> Messer, auch <ls>Rasas.</ls> 205<sup>a</sup>. {part=,seq=11350,type=,n=1}"
+        },
+        {
+            "word": "कृपाण",
+            "eid": "11181.1",
+            "pagenum": 154,
+            "content": "<i>Kṛpāṇa</i>¦ m. °Name eines Königs, <ls>S</ls> I, 551, 1. {part=,seq=11351,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कृपाण",
+            "eid": "11409",
+            "pagenum": 200,
+            "content": "कृपाण¦ m. (-णः) A sword, a scymitar or sacrificial knife. f. (-णी) 1. A knife. 2. A shears or scissors. 3. A dagger. E. कृपा mercy, नुद् to destroy, ड aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कृपाण",
+            "eid": "8233",
+            "pagenum": 206,
+            "content": "<b>kṛpāṇa-</b>¦ <ab>m.</ab> épée ; <i>-tā-</i> <ab>f.</ab> état d'une épée ; <i>-ikā-</i> <ab>f.</ab> couteau, poignard.  <P><i>°pāṇi-</i> <ab>a.</ab> tenant une épée à la main.  <P><i>°pāta-</i> <ab>m.</ab> coup d'épée, chute d'une épée."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कृपाण",
+            "eid": "11415",
+            "pagenum": 244,
+            "content": "कृपाण¦ m. (-णः) A sword, a scymitar or sacrificial knife. f. (-णी) .²1 A knife. .²2 A shears or scissors. .²4 A dagger. .E. कृपा mercy, नुद to destroy, ड aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कृपाण",
+            "eid": "10864",
+            "pagenum": 208,
+            "content": "कृपाण¦ (णः) 1. <i>m.</i> A sword, sacrificial knife. <i>f.</i> (णी) Knife, shears, dagger."
+        }
     ]
 }

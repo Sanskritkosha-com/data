@@ -85,5 +85,37 @@
             "pagenum": 5,
             "content": "कुट्टक¦ <div n='1'> 2) <ls>GOLĀDHY. 13, 2.</ls> <div n='1'>— 4) <lex>m.</lex> Bez. <i>eines Ziegenbocks mit best. Merkmalen</i> <ls>VARĀH. BṚH. S. 65, 9</ls>; vgl. <ls n='VARĀH. BṚH. S.'>5.</ls> <div n='v'>— Vgl. मणिकुट्टिका ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुट्टक",
+            "eid": "28511",
+            "pagenum": 392,
+            "content": "<i>kuṭṭaka</i>¦ m. °einer der (z.B. Reis zum Zwecke der Enthülsung) stampft, <ls>Kauṭ.</ls> 94, 5; 97, 10. (<i>°yantra</i>, Vorrichtung zum Stampfen.) {part=N,seq=28882,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुट्टक",
+            "eid": "10642",
+            "pagenum": 186,
+            "content": "कुट्टक¦ mfn. (-कः-का-कं) 1. What cuts. 2. What pounds or grinds. m. (-कः) 1. A power in arithmetic or algebra, a quantity such, that a given number being multiplied by it, and the product added to a given quantity, the sum may be divisible without remainder by a given divisor. 2. A kingfisher. E. कुट्ट् to pound, वुन् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुट्टक",
+            "eid": "10648",
+            "pagenum": 226,
+            "content": "कुट्टक¦ mfn. (-कः-का-कं) .²1 What cuts. .²2 What pounds or grinds. m. (-कः) .²1 A power in arithmetic or algebra, a quantity such, that a given number being multiplied by it, and the product added to a given quantity, the sum may be divisible without remainder by a given divisor. .²2 A kingfisher. .E. कुट्ट to pound, वुन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुट्टक",
+            "eid": "10090",
+            "pagenum": 192,
+            "content": "कुट्टक¦ (कः-का-कं) <i>a.</i> Cutting. <i>m.</i> A given number; a king-fisher."
+        }
     ]
 }

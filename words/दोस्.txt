@@ -140,5 +140,29 @@
             "pagenum": 7,
             "content": "दोस्¦ <div n='1'> 1) <ls>ṚV. 5, 61, 5.</ls>"
         }
+    ],
+    "STC": [
+        {
+            "word": "दोस्",
+            "eid": "10975",
+            "pagenum": 328,
+            "content": "<b>dos-</b>¦ <ab>nt.</ab> (<ab>m.</ab>) <ab>nom.</ab> <ab>acc.</ab> <ab>sg.</ab> <i>dos</i> <ab>du.</ab> <i>doṣī</i> <ab>pl.</ab> <i>doṃṣi-</i> (cas obliques facultativement sur <i>doṣan-</i>) bras, avant-bras.  <P><i>dor-daṇḍa-</i> <i>-ka-</i> <ab>m.</ab> bras.  <P><i>°nikartana-</i> <ab>nt.</ab> fait de trancher un bras.  <P><i>°yuddha-</i> <ab>nt.</ab> combat singulier.  <P><i>°viṣāda-</i> <ab>m.</ab> bras défaillants.  <P><i>doḥ-śālin-</i> <ab>a.</ab> aux bras puissants.  <P><i>doḥ-śākhā-</i> <ab>f.</ab> branche comparée au bras."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दोस्",
+            "eid": "19841",
+            "pagenum": 427,
+            "content": "दोस्¦ m. (-दोः) .²1 The arm. .²2 The side of a triangle, or square, &c. .E. दम to subdue, affix डोम्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दोस्",
+            "eid": "19321",
+            "pagenum": 380,
+            "content": "दोस्¦ (दोः) 5. <i>m.</i> An arm; the side of a triangle or square."
+        }
     ]
 }

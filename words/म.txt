@@ -281,5 +281,69 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> म¦ V. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "म",
+            "eid": "20840",
+            "pagenum": 287,
+            "content": "2. <i>ma</i>¦ 2. vgl. 4. <i>mā́</i> {part=,seq=21127,type=,n=1}"
+        },
+        {
+            "word": "म",
+            "eid": "20840.1",
+            "pagenum": 287,
+            "content": "°<i>ma</i>¦ Adj. störend, <ls>H</ls> XLIII, 244 [in <i>°somama = kratuvighātin</i>] —m. *Śiva, <ls>Vās.</ls> 224. 3. {part=,seq=21128,type=°,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "म",
+            "eid": "29962",
+            "pagenum": 540,
+            "content": "म¦ The twenty-fifth consonant of the Nāgari alphabet, corresponding to the letter M."
+        },
+        {
+            "word": "म",
+            "eid": "29963",
+            "pagenum": 540,
+            "content": "म¦ m. (-मः) 1. A name of BRAHMĀ. 2. ŚIVA. 3. VISHṆU. 4. YAMA. 5. Time, season. 6. Poison, venom. 7. A magical or mystical verse or formula. 8. The moon. 9. The abbreviated name of the fourth note of the gamut. f. (मा) 1. A name of LAKSHMĪ. 2. A mother. 3. Measure. 4. Light, lustre. 5. Knowledge. 6. Binding, tying. 7. Death. 8. A woman's waist. n. (-मं) 1. Good-fortune, auspiciousness. 2. Water. E. मा to measure, क aff.; or मन् to worship, &c., aff. ड."
+        }
+    ],
+    "STC": [
+        {
+            "word": "म",
+            "eid": "16390",
+            "pagenum": 542,
+            "content": "<b>ma-</b>¦ <ab>v.</ab> <i>mad-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "म",
+            "eid": "29026",
+            "pagenum": 630,
+            "content": "म¦ The twenty-fifth consonant of the <i>Nāgarī</i> alphabet, corresponding to the letter <i>M.</i>"
+        },
+        {
+            "word": "म",
+            "eid": "29027",
+            "pagenum": 630,
+            "content": "म¦ m. (-मः) .²1 A name of BRAHMĀ. .²2 ŚIVA. .²3 VIṢṆU. .²4 YAMA. .²5 Time, season. .²6 Poison, venom. .²7 A magical or mystical verse or formula. .²8 The moon. .²9 The abbreviated name of the fourth note of the gamut. f. (मा) .²1 A name of LAKṢMĪ. .²2 A mother. .²3 Measure. .²4 Light, lustre. .²5 Knowledge. .²6 Binding, tying. .²7 Death. .²8 A woman's waist. n. (मं) .²1 Good fortune, auspiciousness. .²2 Water. .E. मा to measure, or मन to worship, &c., aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "म",
+            "eid": "28538",
+            "pagenum": 565,
+            "content": "म¦ <i>m.</i> The 25th consonant and last letter of the labial class."
+        },
+        {
+            "word": "म",
+            "eid": "28539",
+            "pagenum": 565,
+            "content": "म¦ (मः) 1. <i>m. Brahmā; Shiva; Vishnu;</i> <i>Yama;</i> time; poison; magic; verse; moon; fourth note of the gamut. <i>f.</i> (मा) <i>Lakshmī;</i> mother; light; measure; death; woman's waist. <i>n.</i> Fortune; water."
+        }
     ]
 }

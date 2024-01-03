@@ -143,5 +143,45 @@
             "pagenum": 7,
             "content": "आभास¦ I. = हेत्वाभास <ls>ANIRUDDHA</ls> zu <ls>SĀṂKHYAS. 1,101</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आभास",
+            "eid": "7105",
+            "pagenum": 97,
+            "content": "<i>ābhāsa</i>¦ = <i>hetvābhāsa</i>, Aniruddha zu <ls>Sāṃkhyas.</ls> 1, 101. {part=,seq=7201,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आभास",
+            "eid": "5564",
+            "pagenum": 95,
+            "content": "आभास¦ m. (-सः) 1. Light. 2. Reflexion. 3. Intention, purpose. 4. (In logic) Fallacy, semblance of a reason, an argument that is erroneous though plausible: it is classed as of various kinds. E. आङ् before भास shining."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आभास",
+            "eid": "5373",
+            "pagenum": 119,
+            "content": "<b>ā-bhāsa-</b>¦ <ab>m.</ab> éclat ; apparence, air, faux air ; fait d'apparaître."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आभास",
+            "eid": "5566",
+            "pagenum": 115,
+            "content": "आभास¦ m. (-सः) .²1 Light. .²2 Reflexion. .²3 Intention, purpose. .²4 (In logic) Fallacy, semblance of a reason, an argument that is erroneous though plausible: it is classed as of various kinds. .E. आङ् before भास shining."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आभास",
+            "eid": "4942",
+            "pagenum": 93,
+            "content": "आ-भास¦ (सः) 1. <i>m.</i> Light; reflection; purpose; fallacy."
+        }
     ]
 }

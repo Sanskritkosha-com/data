@@ -207,5 +207,51 @@
             "pagenum": 7,
             "content": "3. सन¦ <div n='1'> 1) <lex>m.</lex> und सनी <lex>f.</lex> <i>das Hinundherschlagen der Elephantenohren</i>  <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Bignonia suaveolens Roxb.</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <ls>SUŚR. 2, 159, 20.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "सन",
+            "eid": "25766",
+            "pagenum": 354,
+            "content": "*<i>sana</i>¦ m. das Klappen der Elefantenohren, <ls>Amit.</ls> X, 21. {part=,seq=26113,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सन",
+            "eid": "42226",
+            "pagenum": 755,
+            "content": "सन¦ mf. (-नः-नी) The flapping of an elephant's ears. m. (-नः) 1. A plant, commonly Ghantāpārali. 2. A tree, (Pentaptera tomentosa.) f. (-नी) 1. GAURĪ. 2. Light, lustre. E. षन् to give, or serve, aff. अच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सन",
+            "eid": "21281",
+            "pagenum": 774,
+            "content": "<b>1 sana-</b>¦ <ab>m.</ab> fait d'offrir, de remettre ; <ab>n.</ab> d'un Ṛṣi (aussi <i>-ka-</i>)."
+        },
+        {
+            "word": "सन",
+            "eid": "21282",
+            "pagenum": 774,
+            "content": "<b>2 sana-</b>¦ <ab>a.</ab> qui dure longtemps."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सन",
+            "eid": "40235",
+            "pagenum": 887,
+            "content": "सन¦ mf. (-नः-नी) The flapping of an elephant's ears. m. (-नः) .²1 A plant, commonly <i>Ghaṇṭāpārali.</i> .²2 A tree, (<bot>Pentaptera tomentosa</bot>.) f. (-नी) .²1 GAURĪ. .²2 Light, lustre. .E. षन to give, to serve, &c., aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सन",
+            "eid": "39934",
+            "pagenum": 808,
+            "content": "सन¦ (नः-नी) 2. <i>m. f.</i> The flapping of an elephant's ears. <i>m.</i> Fragrant plant. <i>f.</i> (ई) <i>Gaurī;</i> light."
+        }
     ]
 }

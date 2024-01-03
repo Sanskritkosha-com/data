@@ -99,5 +99,29 @@
             "pagenum": 7,
             "content": "परिव्यय¦ IV. <i>Aufwand, Kosten</i> <ls>JĀTAKAM. 20,26</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "परिव्यय",
+            "eid": "18010",
+            "pagenum": 249,
+            "content": "<i>parivyaya</i>¦ Aufwand, Kosten, <ls>Jātakam.</ls> 20, 26. {part=,seq=18271,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "परिव्यय",
+            "eid": "23744",
+            "pagenum": 430,
+            "content": "परिव्यय¦ m. (-यः) 1. Best. 2. Condiment, spices."
+        }
+    ],
+    "STC": [
+        {
+            "word": "परिव्यय",
+            "eid": "13331",
+            "pagenum": 418,
+            "content": "<b>pari-vyaya-</b>¦ <ab>m.</ab> condiment."
+        }
     ]
 }

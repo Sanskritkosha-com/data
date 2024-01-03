@@ -87,5 +87,21 @@
             "pagenum": 5,
             "content": "निवर्तिन्¦ am Ende lies °निर्वर्तिनीनाम् ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "निवर्तिन्",
+            "eid": "17026",
+            "pagenum": 235,
+            "content": "<i>nivartin</i>¦ Adj. °aufhaltend, <ls>H</ls> XLIII, 188. {part=,seq=17281,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "निवर्तिन्",
+            "eid": "12245",
+            "pagenum": 379,
+            "content": "<b>ni-vartin-</b>¦ <ab>a.</ab> qui retourne, qui fait retourner, <lbinfo n='7'/> qui se retire, fuit ; qui s'abstient de (<ab>ifc.</ab>)."
+        }
     ]
 }

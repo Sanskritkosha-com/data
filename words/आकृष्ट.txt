@@ -53,5 +53,43 @@
             "pagenum": 7,
             "content": "आकृष्ट¦ I. (?) <ls>KAUŚ. 36,8</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आकृष्ट",
+            "eid": "6580",
+            "pagenum": 90,
+            "content": "<i>ākṛṣṭa</i>¦ (?) <ls>Kauś.</ls> 36, 8. {part=,seq=6667,type=,n=1}"
+        },
+        {
+            "word": "आकृष्ट",
+            "eid": "6580.1",
+            "pagenum": 90,
+            "content": "<i>ākṛṣṭa</i>¦ eine Art Kuß, Y 108. {part=,seq=6668,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आकृष्ट",
+            "eid": "4984",
+            "pagenum": 85,
+            "content": "आकृष्ट¦ mfn. (-ष्टः-ष्टा-ष्टं) 1. Pulled, drawn. 2. Attracted. E. आङ् before कृष् to drag, क्त aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आकृष्ट",
+            "eid": "4986",
+            "pagenum": 103,
+            "content": "आकृष्ट¦ mfn. (-ष्टः-ष्टा-ष्टं) .²1 Pulled, drawn. .²2 Attracted. .E. आङ् before कृष to drag, क्त aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आकृष्ट",
+            "eid": "4352",
+            "pagenum": 81,
+            "content": "आ-कृष्ट¦ (ष्टः-ष्टा-ष्टं) 1. <i>a.</i> Attracted."
+        }
     ]
 }

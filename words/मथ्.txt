@@ -191,5 +191,41 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> मथ्¦ mit प्रोद् <i>stark zusetzen, bezwingen</i> <ls>DIVYĀVAD. 599,2</ls>. — Mit परि V. <i>reiben</i> (Holz zur Feuererzeugung) <ls>JĀTAKAM. 21,26</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मथ्",
+            "eid": "20986",
+            "pagenum": 290,
+            "content": "1. <i>math</i>¦ mit <i>prod</i> stark zusetzen, bezwingen, <ls>Divyāvad.</ls> 599, 2. — Mit <i>pari</i> reiben (Holz zur Feuererzeugung), <ls>Jātakam.</ls> 21, 26. {part=,seq=21277,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मथ्",
+            "eid": "16459",
+            "pagenum": 546,
+            "content": "<b>1 MATH-</b>¦ <ab>v.</ab> <i>MANTH-.</i>"
+        },
+        {
+            "word": "मथ्",
+            "eid": "16460",
+            "pagenum": 546,
+            "content": "<b>2 math-</b>¦ <ab>v.</ab> <i>madhu°.</i>"
+        },
+        {
+            "word": "मथ्",
+            "eid": "16461",
+            "pagenum": 546,
+            "content": "<b>3 math-</b>¦ <ab>v.</ab> <i>mathin-.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मथ्",
+            "eid": "28760",
+            "pagenum": 570,
+            "content": "मथ्¦ (ए) मथति 1. <i>a.</i> To churn. (इ) मन्थति To kill, afflict, suffer."
+        }
     ]
 }

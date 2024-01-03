@@ -99,5 +99,27 @@
             "pagenum": 7,
             "content": "कूर्पास¦ II. <i>eine <ab>best.</ab> Pflanze</i> <ls>KĀD. (1883) 71,4</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कूर्पास",
+            "eid": "11096",
+            "pagenum": 153,
+            "content": "<i>kūrpāsa</i>¦ eine best. Pflanze, <ls>Kād.</ls> (1883) 71, 4. {part=,seq=11263,type=,n=1}"
+        },
+        {
+            "word": "कूर्पास",
+            "eid": "11096.1",
+            "pagenum": 153,
+            "content": "*<i>kūrpāsa</i>¦ m. Jacke, <ls>Rasas.</ls> 203<sup>a</sup>. {part=,seq=11264,type=*,n=0}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कूर्पास",
+            "eid": "8200",
+            "pagenum": 203,
+            "content": "<b>kūrpāsa-</b>¦ <ab>m.</ab> espèce de plante."
+        }
     ]
 }

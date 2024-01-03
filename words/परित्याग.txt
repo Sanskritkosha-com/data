@@ -127,5 +127,37 @@
             "pagenum": 5,
             "content": "परित्याग¦ Titel einer Schrift <ls>HALL 147.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "परित्याग",
+            "eid": "23558",
+            "pagenum": 427,
+            "content": "परित्याग¦ m. (-गः) 1. Abandonment, quitting, omission, desertion. 2. Loss, privation. 3. Liberality E. परि away, त्याग quitting."
+        }
+    ],
+    "STC": [
+        {
+            "word": "परित्याग",
+            "eid": "13068",
+            "pagenum": 411,
+            "content": "<b>pari-tyāga-</b>¦ <ab>m.</ab> abandon, cession ; désertion, <lbinfo n='4'/> renonciation, abdication ; négligence, omission ; <ab>pl.</ab> sacrifice ; <i>-in-</i> <ab>a.</ab> qui laisse, qui abandonne, qui renonce à (<ab>not.</ab> <ab>ifc.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "परित्याग",
+            "eid": "23561",
+            "pagenum": 509,
+            "content": "परित्याग¦ m. (-गः) .²1 Abandonment, quitting, desertion. .²2 Loss, privation. .E. परि away, त्याग quitting."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "परित्याग",
+            "eid": "23034",
+            "pagenum": 455,
+            "content": "परि-त्याग¦ (गः) 1. <i>m.</i> Abandonment."
+        }
     ]
 }

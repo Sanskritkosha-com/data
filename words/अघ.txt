@@ -198,5 +198,63 @@
             "pagenum": 1,
             "content": "अघ¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Asura</is> <ls>BHĀG. P. 10,12,13</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अघ",
+            "eid": "544",
+            "pagenum": 8,
+            "content": "<i>Agha</i>¦ m. N. pr. eines Asura, <ls>Bhāg. P.</ls> 10, 12, 13. {part=,seq=563,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अघ",
+            "eid": "366",
+            "pagenum": 7,
+            "content": "अघ¦ r. 1st cl. With an indicatory इ, अघि (अंघति.) 1. To go. 2. To go swiftly. 3. To being moving. 4. To begin. 5. To blame or censure r. 10th cl. (अघयति) To sin, to commit sin."
+        },
+        {
+            "word": "अघ",
+            "eid": "367",
+            "pagenum": 7,
+            "content": "अघ¦ n. (-घं) 1. Sin. 2. Pain. 3. Passion. m. (-घः) Name of a demon; the general name of KANSA. अ. अघ to go, and अच affix, removed by charity, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अघ",
+            "eid": "165",
+            "pagenum": 6,
+            "content": "<b>agha-</b>¦ <ab>a.</ab> mauvais, impur, déchu de sa caste ; <ab>nt.</ab> impureté (rituelle), état de ce qui est impur, faute.  <P><i>°marṣaṇa-</i> <ab>nt.</ab> <ab>n.</ab> d'un hymne védique expiatoire.  <P><i>°vighāta-kartṛ-</i> <ab>ag.</ab> qui efface les fautes ; <i>°vināśin-</i> <ab>id.</ab>  <P><i>°śaṃsa-</i> <ab>a.</ab> qui annonce le mal ; malveillant ; qui confesse sa faute.  <P><i>aghopaghāta-</i> <ab>a.</ab> qui efface les fautes."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अघ",
+            "eid": "367",
+            "pagenum": 8,
+            "content": "अघ¦ r. 1st cl. <i>With an indicatory</i> इ। यघि (अंघति.) .²1 To go. .²2 To go swiftly. .²3 To begin moving. .²4 To begin. .²5 To blame or censure. r. 10th cl. (अघयति) To sin, to commit sin."
+        },
+        {
+            "word": "अघ",
+            "eid": "368",
+            "pagenum": 8,
+            "content": "अघ¦ n. (-घं) .²1 Sin. .²2 Pain. .²3 Passion. m. (-घः) Name of a demon; the general of KAṂSA. .E. अघ to go, and अच् affix, removed by charity, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अघ",
+            "eid": "309",
+            "pagenum": 7,
+            "content": "अघ¦ (त्-क) अघयति 10. <i>a.</i> To sin."
+        },
+        {
+            "word": "अघ",
+            "eid": "310",
+            "pagenum": 7,
+            "content": "अघ¦ (घं) 1. <i>n.</i> Sin; pain; <i>m.</i> A demon."
+        }
     ]
 }

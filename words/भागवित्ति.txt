@@ -51,5 +51,21 @@
             "pagenum": 5,
             "content": "भा/गवित्ति¦ <lex>m.</lex> patron. von भगवित्त <ls>Schol.</ls> zu <ls>P. 4, 1, 90.</ls> <ls n='P. 4, 1,'>148.</ls> चूड <ls>ŚAT. BR. 14, 9, 3, 18.</ls> ein Sohn <is>Kuthumi's</is> <ls>Verz. d. Oxf. H. 55,b,9.</ls>"
         }
+    ],
+    "STC": [
+        {
+            "word": "भागवित्ति",
+            "eid": "16141",
+            "pagenum": 528,
+            "content": "<b>bhāgavitti-</b>¦ <ab>m.</ab> <ab>patron.</ab> d'un étudiant brâhmanique nommé Cūla."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "भागवित्ति",
+            "eid": "2248",
+            "pagenum": 2,
+            "content": "<b>Bhāga-vitti</b>¦ (‘descendant of Bhagavitta’) is the patronymic of a teacher called Cūḍa<sup>1</sup> or Cūla<sup>2</sup> in the Bṛhadāraṇyaka Upaniṣad. <F>1) Bṛhadāraṇyaka Upaniṣad, vi. 3, 17, 18 Mādhyaṃdina.</F> <F>2) <i>Ibid.,</i> vi. 3, 9 Kāṇva.</F>"
+        }
     ]
 }

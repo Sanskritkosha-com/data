@@ -150,5 +150,57 @@
             "pagenum": 7,
             "content": "भ्रूण¦ IV. zu diesem und den folgenden <ab>Compp.</ab> <ab>vgl.</ab> <ls>BÜHLER</ls> in <ls>Wiener Zeitschr. f. d. K. d. M. 2,182. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "भ्रूण",
+            "eid": "20837",
+            "pagenum": 287,
+            "content": "<i>bhrūṇa</i>¦ , zu diesem und den [im pw] folgenden Kompp. vgl. Bühler, WZKM 2, 182 ff. {part=,seq=21124,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भ्रूण",
+            "eid": "29947",
+            "pagenum": 540,
+            "content": "भ्रूण¦ m. (-णः) 1. The embryo or fœtus. 2. A child. E. भ्रूण to hope, to fear, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भ्रूण",
+            "eid": "16388",
+            "pagenum": 542,
+            "content": "<b>bhrūṇa-</b>¦ <ab>m.</ab> fœtus, embryon ; Brâhmane érudit.  <P><i>°ghna-</i> <i>°han-</i> (<ab>f.</ab> <i>°ghnī-</i>) <ab>ag.</ab> qui tue un embryon <lbinfo n='5'/> ; qui provoque un avortement.  <P><i>°hati-</i> <i>°hatyā-</i> <ab>f.</ab> meurtre d'un embryon, avortement ; meurtre d'un Brâhmane érudit."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भ्रूण",
+            "eid": "29013",
+            "pagenum": 630,
+            "content": "भ्रूण¦ r. 10th cl. (भ्रूणयते) .²1 To hope, to trust. .²2 To confide, to be without doubt. .²3 To wish for, to desire."
+        },
+        {
+            "word": "भ्रूण",
+            "eid": "29014",
+            "pagenum": 630,
+            "content": "भ्रूण¦ m. (-णः) The embryo or fœtus, a child. .E. भ्रूण to hope, to fear, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भ्रूण",
+            "eid": "28525",
+            "pagenum": 565,
+            "content": "भ्रूण¦ (क, ङ) भ्रूणयते 10. <i>d.</i> To hope; to desire; to be confident."
+        },
+        {
+            "word": "भ्रूण",
+            "eid": "28526",
+            "pagenum": 565,
+            "content": "भ्रूण¦ (णः) 1. <i>m.</i> The embryo or foetus."
+        }
     ]
 }

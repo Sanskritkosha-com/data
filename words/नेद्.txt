@@ -177,5 +177,27 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> नेद्¦ mit अति III. 6. — Mit प्र 6. Zu lesen <ls>11, CXLVII.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "नेद्",
+            "eid": "17326",
+            "pagenum": 239,
+            "content": "1. <i>ned</i>¦ mit <i>ati</i> und <i>pra</i>, <ls>JAOS.</ls> 11, CXVII (zu lesen CXLVII). {part=,seq=17582,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "नेद्",
+            "eid": "12651",
+            "pagenum": 392,
+            "content": "<b>1 NED-</b>¦ <i>nedate</i> -- il coule."
+        },
+        {
+            "word": "नेद्",
+            "eid": "12652",
+            "pagenum": 392,
+            "content": "<b>2 ned</b>¦ particule de <ab>nég.</ab> : en vérité pas ; (<ab>ord.</ab> avec l'opt.) afin ou pourvu que... ne pas."
+        }
     ]
 }

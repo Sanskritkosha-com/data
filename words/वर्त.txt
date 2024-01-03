@@ -75,5 +75,29 @@
             "pagenum": 7,
             "content": "वर्त und <ab>v. l.</ab> वर्ति¦ VI. = मूत्रबिल <ls>DĀRILA</ls> zu <ls>KAUŚ. 25,16</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वर्त",
+            "eid": "23265",
+            "pagenum": 321,
+            "content": "<i>varta</i>¦ und v.l. <i>varti = mūtrabila</i>, <ls>Dārila</ls> zu <ls>Kauś.</ls> 25, 16. {part=,seq=23589,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वर्त",
+            "eid": "17930",
+            "pagenum": 629,
+            "content": "<b>varta-</b>¦ <ab>m.</ab> <ab>ifc.</ab> = <i>vartana-</i> ou <i>vṛtti-</i> (ou erreur pour <i>vāta-</i>)."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "वर्त",
+            "eid": "2825",
+            "pagenum": 2,
+            "content": "<b>Varta.</b>¦ See <b>Vartra.</b>"
+        }
     ]
 }

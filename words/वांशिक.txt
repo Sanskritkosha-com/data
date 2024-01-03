@@ -75,5 +75,37 @@
             "pagenum": 6,
             "content": "वांशिक¦ (von वंश) <div n='1'> 1) <lex>adj.</lex> dass. <ls>P. 5, 1, 50.</ls> <div n='1'>— 2) <lex>m.</lex> <i>Flötenspieler</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वांशिक",
+            "eid": "23412",
+            "pagenum": 324,
+            "content": "*<i>vāṃśika</i>¦ m. flute-player, <ls>Harṣac.</ls> 47, 13. {part=,seq=23738,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वांशिक",
+            "eid": "35673",
+            "pagenum": 639,
+            "content": "वांशिक¦ m. (-कः) 1. A flute-player, a piper, a fifer. 2. A bamboo-cutter, &c. E. वश a pipe, aff. ठक् or ठन् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वांशिक",
+            "eid": "34125",
+            "pagenum": 746,
+            "content": "वांशिक¦ m. (-कः) .²1 A flute-player, a piper, a fifer. .²2 A bambu-cutter, &c. .E. वंश a pipe, aff. ठक् or ठन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वांशिक",
+            "eid": "33714",
+            "pagenum": 668,
+            "content": "वांशिक¦ (कः) 1. <i>m.</i> A flute player; bambu cutter."
+        }
     ]
 }

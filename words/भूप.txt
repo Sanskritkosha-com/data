@@ -90,5 +90,37 @@
             "pagenum": 5,
             "content": "भूप¦ (2. भू + 2. प) <lex>m.</lex> <i>Hüter der Erde, - des Landes, König, Fürst</i> <ls>AK. 2, 8, 1, 1.</ls> <ls n='AK.'>3, 4, 14, 64.</ls> <ls>H. 690.</ls> <ls>VARĀH. BṚH. S. 15, 2. 35, 7.</ls> <ls>Spr. 95. 1593. 1748. 5000. 5382.</ls> <ls>KATHĀS. 4, 85. 13, 183. 17, 32. 40, 44.</ls> <ls>RĀJA-TAR. 1, 120. 136. 3, 13.</ls> <ls>MĀRK. P. 19, 3. 20, 7. 23, 115. 125, 23.</ls> <ls>LA. (II) 89, 15.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "भूप",
+            "eid": "20709",
+            "pagenum": 285,
+            "content": "<i>bhūpa</i>¦ m. ° = <i>āvarta?</i> <ls>S</ls> II, 210, 10 (Ko.). {part=,seq=20994,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भूप",
+            "eid": "29657",
+            "pagenum": 535,
+            "content": "भूप¦ m. (-पः) A sovereign, a prince, a king. E. भू the earth, पा to cherish, aff. क ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भूप",
+            "eid": "28749",
+            "pagenum": 624,
+            "content": "भूप¦ m. (-पः) A sovereign, a prince, a king. .E. भू the earth, पा to cherish, aff. क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भूप",
+            "eid": "28258",
+            "pagenum": 560,
+            "content": "भू-प¦ (पः) 1. <i>m.</i> A sovereign."
+        }
     ]
 }

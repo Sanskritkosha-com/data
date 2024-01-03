@@ -29,5 +29,37 @@
             "pagenum": 2,
             "content": "खण्डाभ्र¦ (खण्ड + अभ्र) <lex>n.</lex> <div n='1'> 1) <i>zerstreute Wolken.</i> <div n='1'>— 2) <i>Spuren eines Bisses</i> (beim Liebesspiel) <ls>H. an. 3, 548.</ls> <ls>MED. r. 148.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "खण्डाभ्र",
+            "eid": "11823",
+            "pagenum": 162,
+            "content": "<i>khaṇḍābhra</i>¦ *= folg., <ls>Vās.</ls> 114, 2. {part=,seq=12003,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "खण्डाभ्र",
+            "eid": "12666",
+            "pagenum": 222,
+            "content": "खण्डाभ्र¦ n. (-भ्रं) 1. Scattered clouds. 2. A bite, the impression of the teeth. E. खण्ड a part, and अभ्र a cloud, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खण्डाभ्र",
+            "eid": "12672",
+            "pagenum": 270,
+            "content": "खण्डाभ्र¦ n. (-भ्रं) .²1 Scattered clouds. .²2 A bite, the impression of the teeth. .E. खण्ड a part, and अभ्र a cloud, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खण्डाभ्र",
+            "eid": "12126",
+            "pagenum": 234,
+            "content": "खण्डा_भ्र¦ (भ्रः) 1. <i>n.</i> Scattered clouds; a bite, or mark of one."
+        }
     ]
 }

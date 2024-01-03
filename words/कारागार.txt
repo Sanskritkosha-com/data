@@ -53,5 +53,37 @@
             "pagenum": 5,
             "content": "कारागार¦ <ls>MED. t. 16.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कारागार",
+            "eid": "10431",
+            "pagenum": 144,
+            "content": "<i>kārāgāra</i>¦ auch <ls>S</ls> II, 271, 21. {part=,seq=10583,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कारागार",
+            "eid": "10069",
+            "pagenum": 175,
+            "content": "कारागार¦ n. (-रं) A gaol, a place of confinement. E. कारा confinement, and अगार or आगार a house."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कारागार",
+            "eid": "10074",
+            "pagenum": 214,
+            "content": "कारागार¦ n. (-रं) A gaol, a place of confinement. .E. कारा confinement, and आगार a house."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कारागार",
+            "eid": "9513",
+            "pagenum": 180,
+            "content": "कारा-गार¦ (रं) 1. <i>n.</i> Goal, prison."
+        }
     ]
 }

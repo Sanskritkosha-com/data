@@ -23,5 +23,37 @@
             "pagenum": 7,
             "content": "पशुपालन¦ <lex>n.</lex> <i>Viehzucht</i> <ls>JĀTAKAM. 23,66</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पशुपालन",
+            "eid": "18168",
+            "pagenum": 251,
+            "content": "<i>paśupālana</i>¦ n. Viehzucht, <ls>Jātakam.</ls> 23, 66. {part=,seq=18432,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पशुपालन",
+            "eid": "24121",
+            "pagenum": 437,
+            "content": "पशुपालन¦ n. (-नं) Tending or rearing cattle. E. पशु, and पालन protecting."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पशुपालन",
+            "eid": "24070",
+            "pagenum": 520,
+            "content": "पशुपालन¦ n. (-नं) Tending or rearing cattle. .E. पशु, and पालन protecting."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पशुपालन",
+            "eid": "23543",
+            "pagenum": 465,
+            "content": "पशु-पालन¦ (नं) 1. <i>n.</i> Tending cattle."
+        }
     ]
 }

@@ -105,5 +105,45 @@
             "pagenum": 5,
             "content": "माहेय/¦ (von मही) <div n='1'> 1) <lex>adj.</lex> <lex>f.</lex> ई <is>gaṇa</is> नद्यादि zu <ls>P. 4, 2, 97.</ls> <i>irden</i>: कुम्भ <ls>MBH. 8, 387.</ls> <div n='1'>— 2) <lex>m.</lex> <div n='2'> a) <i>Sohn der Erde</i> <ls>VOP. 7, 1. 5.</ls> <i>der Planet Mars</i> <ls>H. 116</ls>, <ls>Sch.</ls>  <ls>VARĀH. BṚH. 4, 18. 15, 1.</ls> <div n='2'>— b) pl. N. pr. eines Volkes <ls>MBH. 6, 356</ls> (<ls>VP. 190).</ls> <div n='2'>— c) <i>Koralle</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> <div n='1'>— 3) <lex>f.</lex> ई <i>Kuh</i> <ls>AK. 2, 9, 66.</ls> <ls>H. 1265.</ls> <ls>HALĀY. 2, 113.</ls> <ls>MBH. 4, 512.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "माहेय",
+            "eid": "21654",
+            "pagenum": 299,
+            "content": "<i>māheya</i>¦ 3. f. <i>ī</i> Kuh, auch <ls>S</ls> I, 457, 1. {part=,seq=21952,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "माहेय",
+            "eid": "31450",
+            "pagenum": 567,
+            "content": "माहेय¦ mfn. (-यः-या-यं) Earthen, made of or from earth. m. (-यः) 1. Coral. 2. The planet Mars. f. (-यी) A cow. E. मही the earth, ढक् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "माहेय",
+            "eid": "16771",
+            "pagenum": 567,
+            "content": "<b>māheya-</b>¦ <i>-ī-</i> <ab>a.</ab> faite de terre, terrestre ; <ab>f.</ab> vache."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "माहेय",
+            "eid": "30348",
+            "pagenum": 661,
+            "content": "माहेय¦ mfn. (-यः-यी-यं) Earthen, made of or from earth. m. (-यः) Coral. f. (-यी) A cow. .E. मही the earth, ढक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "माहेय",
+            "eid": "29885",
+            "pagenum": 592,
+            "content": "माहेय¦ (यः-यी-यं) <i>a.</i> Earthen, made of earth. <i>m.</i> Coral. <i>f.</i> A cow."
+        }
     ]
 }

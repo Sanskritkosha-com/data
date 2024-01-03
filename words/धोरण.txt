@@ -97,5 +97,43 @@
             "pagenum": 5,
             "content": "धोरण¦ scheinbar <ls>KATHĀS. 52, 350</ls>, wo aber श्रुत्वाधोरणे (<ab>d. i.</ab> श्रुत्वा आ°) zu schreiben ist."
         }
+    ],
+    "SCH": [
+        {
+            "word": "धोरण",
+            "eid": "16231",
+            "pagenum": 224,
+            "content": "<i>dhoraṇa</i>¦ [nach dem Ko. *n.] Fahrzeug, <ls>H</ls> 35, 27. — Trab, <ls>H</ls> 40, 34 (Ko.). °m. Trab, <ls>Kauṭ.</ls> 134, 2. 12. Vgl. <i>valgana</i>. {part=,seq=16476,type=,n=1}"
+        },
+        {
+            "word": "धोरण",
+            "eid": "16231.1",
+            "pagenum": 224,
+            "content": "<i>dhoraṇa</i>¦ °Adj. (?) trabend, zu traben verstehend, <ls>Kauṭ.</ls> 138, 4. {part=,seq=16477,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "धोरण",
+            "eid": "20786",
+            "pagenum": 373,
+            "content": "धोरण¦ n. (-णं) 1. A vehicle in general, any means of conveyance, as a horse, an elephant, a car, &c. A horse's trot. 2. Going well or quickly. E. धोर् to move well or quickly, affix करणे भावे वा ल्युट्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "धोरण",
+            "eid": "20800",
+            "pagenum": 448,
+            "content": "धोरण¦ n. (-णं) .²1 A vehicle in general, any means of conveyance, as a horse, an elephant, a car, &c. .²2 A horse's trot. .²3 Going well or quickly. .E. धोर to move well or quickly, affix ल्युट्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "धोरण",
+            "eid": "20294",
+            "pagenum": 399,
+            "content": "धोरण¦ (णं) 1. <i>n.</i> A vehicle in general; a trot; going well."
+        }
     ]
 }

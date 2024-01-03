@@ -79,5 +79,27 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अदोष¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अदोष",
+            "eid": "1597",
+            "pagenum": 22,
+            "content": "1. <i>adoṣa</i>¦ auch: kein Fehler, <ls>Sāy.</ls> zu <ls>ṚV. 1, 13, 1.</ls> {part=,seq=1623,type=,n=1}"
+        },
+        {
+            "word": "अदोष",
+            "eid": "1598",
+            "pagenum": 22,
+            "content": "2. <i>adoṣa</i>¦ Adj. tadellos, <ls>Kap.</ls> 1, 123. {part=,seq=1624,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अदोष",
+            "eid": "927",
+            "pagenum": 20,
+            "content": "<b>a-doṣa-</b>¦ <ab>a.</ab> innocent ; <i>-eṇa</i> sans qu'il y ait faute.  <P><i>°jña-</i> <ab>a.</ab> qui ignore les fautes."
+        }
     ]
 }

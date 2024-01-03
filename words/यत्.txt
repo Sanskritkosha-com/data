@@ -186,5 +186,69 @@
             "pagenum": 7,
             "content": "यत्¦ <ab>Caus.</ab> <ab>vgl.</ab> <ls>ROTH</ls> in <ls>Z. d. d. m. G. 41,676</ls>. — Mit अन्वा V. <i>sich bei Etwas betheiligen</i> <ls>ŚĀṄKH. BR. 23,5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "यत्",
+            "eid": "22087",
+            "pagenum": 305,
+            "content": "<i>yat</i>¦ <ls>Kaus.</ls> vgl. Roth, <ls>ZDMG</ls> 41, 676. — Mit <i>anvā</i> sich bei etwas beteiligen, <ls>Śāṅkh. Br.</ls> 23, 5. {part=,seq=22390,type=,n=1}"
+        },
+        {
+            "word": "यत्",
+            "eid": "22087.1",
+            "pagenum": 305,
+            "content": "<i>yat</i>¦ <i>satyam</i> s. unter <i>satya</i>. {part=,seq=22391,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "यत्",
+            "eid": "32407",
+            "pagenum": 583,
+            "content": "यत् (ई) यती¦ r. 1st cl. (यतते) To resolve or determine in consequence of a wish or desire, to apply or endeavour strenuously, to energize, to persevere. r. 10 cl. (यातयति-ते) 1. To distress or afflict. 2. To beat. 3. To order. 4. To collect, to assemble. 5. To work, to make or manufacture. 6. To prevent, to remove. 7. To return, to give back, to requite. 8. To barter or exchange. 9. To purify. 10. To encourage. With निर or वि prefixed, To chastise, to punish, to inflict pain. With निस् or प्रति, 1. To restore. 2. To requite."
+        },
+        {
+            "word": "यत्",
+            "eid": "32408",
+            "pagenum": 583,
+            "content": "यत्¦ Ind. Because as, since, wherefore, correlative of तत् thence, therefore, &c. E. यत् to check, to restrain, क्विप् and तुक् affs."
+        }
+    ],
+    "STC": [
+        {
+            "word": "यत्",
+            "eid": "17058",
+            "pagenum": 582,
+            "content": "<b>1 YAT-</b>¦ <i>yatate -ti ; yete ; yatiṣyate -ti ; yatyate yātayati -te ;</i> <i>yatta-</i> (<i>yatita-</i>) <i>yatitum</i> -- chercher à atteindre, viser, s'efforcer à (<ab>loc.</ab> <ab>dat.</ab> <ab>acc.</ab>) ; s'exercer, s'employer, s'occuper activement, prendre soin ou garde ; se préparer <lbinfo n='5'/> à (<ab>acc.</ab>) ; <ab>caus.</ab> chercher à prendre ; rendre la pareille, à titre de punition ou de récompense ; céder <ab>qqch.</ab> à <ab>qq'un</ab> (<ab>dat.</ab> <ab>gén.</ab>) ; tourmenter ; recommander <ab>qqch.</ab> à <ab>qq'un</ab> (<ab>gén.</ab>)."
+        },
+        {
+            "word": "यत्",
+            "eid": "17059",
+            "pagenum": 583,
+            "content": "<b>2 yat°</b>¦ <ab>v.</ab> <i>yad.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "यत्",
+            "eid": "31196",
+            "pagenum": 679,
+            "content": "यत्¦ <i>ind.</i> Because, as, since, wherefore, correlative of तत् thence, therefore, &c. .E. यम to check, to restrain, क्विप् and तुक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "यत्",
+            "eid": "30750",
+            "pagenum": 608,
+            "content": "यत्¦ (ई, ङ) यतते 1. <i>d.</i> To resolve, to endeavour. (क) यातयति 10. <i>a.</i> To distress, beat, order, collect, work, prevent, remove, return, barter, purify. With निर् or वि to chastise or punish."
+        },
+        {
+            "word": "यत्",
+            "eid": "30751",
+            "pagenum": 608,
+            "content": "यत्¦ <i>ind.</i> Because, as, since, wherefore. (न-न्ती-त्) <i>p.</i> Going."
+        }
     ]
 }

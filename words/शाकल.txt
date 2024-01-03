@@ -195,5 +195,35 @@
             "pagenum": 7,
             "content": "शाकल¦ <lex>m.</lex> auch <i>ein <ab>best.</ab> Amulet</i> <ls>KAUŚ. 27,5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शाकल",
+            "eid": "24929",
+            "pagenum": 343,
+            "content": "<i>Śākala</i>¦ Adj. °vom Lande Śakala stammend, <ls>Kauṭ.</ls> 78, 10. {part=,seq=25269,type=,n=1}"
+        },
+        {
+            "word": "शाकल",
+            "eid": "24929.1",
+            "pagenum": 343,
+            "content": "<i>śākala</i>¦ m. auch ein best. Amulet, <ls>Kauś.</ls> 27, 5. {part=,seq=25270,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शाकल",
+            "eid": "20158",
+            "pagenum": 723,
+            "content": "<b>śākala-</b>¦ <ab>m.</ab> <ab>pl.</ab> élèves de Śākalya ; habitants <lbinfo n='5'/> de la ville de Śākala ; <ab>nt.</ab> <ab>n.</ab> d'une ville des Madra (Siâlkot, au Penjab) ; <ab>a.</ab> relatif aux Śākala, propre aux Śākala.  <P><i>°homa-</i> <ab>m.</ab> sort d'oblation ; <i>-īya-</i> <ab>a.</ab> relatif à cette oblation."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "शाकल",
+            "eid": "3218",
+            "pagenum": 2,
+            "content": "<b>Śākala</b>¦ in the Aitaṛeya Brāhmaṇa<sup>1</sup> denotes the ‘teaching of <b>Śākalya</b>’ according to the St. Petersburg Dictionary. But Böhtlingk<sup>2</sup> seems right in taking it as a kind of snake in that passage. <F>1) iii. 43, 5 (Weber, <i>Indische Studien,</i> 9, 277). <i>Cf.</i> Weber, <i>Indian Literature,</i> 33, n.</F> <F>2) Dictionary, <i>s.v.</i></F>"
+        }
     ]
 }

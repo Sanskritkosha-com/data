@@ -23,5 +23,29 @@
             "pagenum": 1,
             "content": "आच्छाक¦ falsche Form für आच्छुक bei <ls>WILS.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "आच्छाक",
+            "eid": "5140",
+            "pagenum": 88,
+            "content": "आच्छाक¦ m. (-कः) A tree, (Morinda tinctoria.)"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आच्छाक",
+            "eid": "5142",
+            "pagenum": 107,
+            "content": "आच्छाक¦ m. (-कः) A tree, (<bot>Morinda tinctoria</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आच्छाक",
+            "eid": "4503",
+            "pagenum": 84,
+            "content": "आ-च्छाक¦ (कः) 1. <i>m.</i> A tree, (Morinda tinctoria.)"
+        }
     ]
 }

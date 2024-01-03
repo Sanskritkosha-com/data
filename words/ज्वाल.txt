@@ -121,5 +121,45 @@
             "pagenum": 7,
             "content": "ज्वाल/¦ II. <lex>m.</lex> <i>heisser Aufguss</i> <ls>MAITR. S. 4,1,9 (11,20). 8,4 (106,10)</ls>. <ls>KAUŚ. 27,33</ls>. <ls n='KAUŚ.'>28,2</ls>. <ls n='KAUŚ.'>29,8</ls>. <ls n='KAUŚ.'>30,8</ls>. <ls n='KAUŚ.'>32,10</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ज्वाल",
+            "eid": "14052",
+            "pagenum": 194,
+            "content": "<i>jvālá</i>¦ m. heißer Aufguß, <ls>Maitr. S.</ls> 4, 1, 9 (11, 20); 8, 4 (106, 10); <ls>Kauś.</ls> 27, 33; 28, 2; 29, 8; 30, 8; 32, 10. {part=,seq=14276,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ज्वाल",
+            "eid": "16604",
+            "pagenum": 296,
+            "content": "ज्वाल¦ mfn. (-लः-ली-लं) Burning, blazing. mf. (लः-ला) Flame, blaze. f. (-ला) Burnt rice. E. ज्वल् to blaze, affix अण्, fem. affix टाप् or ङीप्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ज्वाल",
+            "eid": "9734",
+            "pagenum": 268,
+            "content": "<b>jvāla-</b>¦ <ab>m.</ab> <i>-ā-</i> <ab>f.</ab> flamme, lueur.  <P><i>jvālā-jihva-</i> <ab>a.</ab> qui a des langues flamboyantes <lbinfo n='8'/> ; <ab>m.</ab> feu, Agni ; <ab>n.</ab> de divers personnages. <lbinfo n='5'/>  <P><i>°mālin-</i> <ab>a.</ab> entouré de flammes.  <P><i>°mukha-</i> <ab>m.</ab> qui a une bouche de feu ; <ab>n.</ab> de certains démons, d'un Rākṣasa.  <P><i>°liṅga-</i> <ab>m.</ab> <ab>n.</ab> d'un sanctuaire de Śiva."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ज्वाल",
+            "eid": "16630",
+            "pagenum": 357,
+            "content": "ज्वाल¦ mfn. (-लः-ली-लं) Burning, blazing. mf. (-लः-ला) Flame, blaze. f. (-ला) Burnt rice. .E. ज्वल to blaze, affix अण्, fem. affix टाप् or ङीप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ज्वाल",
+            "eid": "16096",
+            "pagenum": 314,
+            "content": "ज्वाल¦ (लः-ली-लं) <i>a.</i> Burning. (लः-ला) 1. <i>m. f.</i> Flame. <i>f.</i> Burnt rice."
+        }
     ]
 }

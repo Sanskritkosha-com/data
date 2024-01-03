@@ -45,5 +45,21 @@
             "pagenum": 7,
             "content": "अ/ददत्¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अददत्",
+            "eid": "1508",
+            "pagenum": 21,
+            "content": "<i>ádadat</i>¦ <ls>AV. 12, 4, 20.</ls> <ls n='AV. 12, 4,'>26.</ls> <ls n='AV. 12, 4,'>34.</ls> {part=,seq=1533,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अददत्",
+            "eid": "872",
+            "pagenum": 19,
+            "content": "<b>a-dadat-</b>¦ <ab>partic.</ab> ne donnant pas."
+        }
     ]
 }

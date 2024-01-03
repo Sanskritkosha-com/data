@@ -61,5 +61,37 @@
             "pagenum": 7,
             "content": "सैंहिक¦ <lex>m.</lex> = सैंहिकेय <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "सैंहिक",
+            "eid": "26964",
+            "pagenum": 369,
+            "content": "*<i>saiṃhika</i>¦ m. = Rāhu, <ls>Kuṭṭ.</ls> 109. {part=,seq=27324,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सैंहिक",
+            "eid": "45053",
+            "pagenum": 803,
+            "content": "सैंहिक¦ mfn. (-कः-की-कं) Belonging to a lion, leonine. m. (-कः) RĀHU, the personified ascending node. E. सिंह, and ठक् aff.; or सिंहिका the mother of RĀHU, (by adoption,) and अण् patronymic aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सैंहिक",
+            "eid": "42750",
+            "pagenum": 944,
+            "content": "सैंहिक¦ mfn. (-कः-की-कं) Lion, leonine. m. (-कः) RĀHU, the personified ascending node. .E. सिंह, and ठक् aff.; or सिंहिका the mother of RĀHU, (by adoption,) and अण् patronymic aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सैंहिक",
+            "eid": "42542",
+            "pagenum": 866,
+            "content": "सैंहिक¦ (कः) <i>a. Idem. m. Rāhu.</i>"
+        }
     ]
 }

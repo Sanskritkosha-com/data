@@ -47,5 +47,37 @@
             "pagenum": 5,
             "content": "बलल¦ <lex>m.</lex> = बलराम 1. <ls>BHAR.</ls> zu <ls>AK. 1, 1, 1, 18.</ls> <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "बलल",
+            "eid": "20056",
+            "pagenum": 276,
+            "content": "*<i>balala</i>¦ °Adj. = <i>balavant</i>, <ls>Yudh.</ls> 5, 70. {part=,seq=20334,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "बलल",
+            "eid": "28488",
+            "pagenum": 514,
+            "content": "बलल¦ m. (-लः) BALARĀMA: see the last. E. बल strength, aff. कलच्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "बलल",
+            "eid": "27650",
+            "pagenum": 600,
+            "content": "बलल¦ m. (-लः) BALARĀMA: see the last. .E. बल strength, aff. लच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "बलल",
+            "eid": "27155",
+            "pagenum": 538,
+            "content": "बलल¦ (लः) 1. <i>m. Balarāma.</i>"
+        }
     ]
 }

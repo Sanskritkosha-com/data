@@ -146,5 +146,35 @@
             "pagenum": 7,
             "content": "अभ्यग्र¦ I. 2. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभ्यग्र",
+            "eid": "4259",
+            "pagenum": 58,
+            "content": "<i>abhyagra</i>¦ <ls>Śiś.</ls> 19, 59 nach <ls>Vall.</ls> vorn befindlich und: nahe bevorstehend (Hultzsch). — 5. mit der Spitze zugewandt zu (Akk.), <ls>Āpast. Śr.</ls> 2, 9, 6. {part=,seq=4315,type=,n=1}"
+        },
+        {
+            "word": "अभ्यग्र",
+            "eid": "4259.1",
+            "pagenum": 58,
+            "content": "<i>abhyagra</i>¦ °Subst. Nähe, <ls>Śuk.</ls> t. o. 26. [p. 37, 31]. {part=,seq=4316,type=,n=5}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभ्यग्र",
+            "eid": "3389",
+            "pagenum": 70,
+            "content": "<b>abhy-agra-</b>¦ <ab>a.</ab> nouveau ; <ab>nt.</ab> voisinage."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अभ्यग्र",
+            "eid": "2207",
+            "pagenum": 44,
+            "content": "अभ्य_ग्र¦ (ग्रः-ग्रा-ग्रं) <i>a.</i> Near, before."
+        }
     ]
 }

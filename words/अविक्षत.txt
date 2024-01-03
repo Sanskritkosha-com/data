@@ -61,5 +61,37 @@
             "pagenum": 1,
             "content": "अविक्षत¦ <lex>Adj.</lex> <i>unverletzt</i> <ls>MBH. 12,97,24</ls>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अविक्षत",
+            "eid": "3985",
+            "pagenum": 69,
+            "content": "अविक्षत¦ mfn. (-तः-ता-तं) 1. Entire, undiminished. 2. Unhurt. E. अ neg. विक्षत wounded."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविक्षत",
+            "eid": "4248",
+            "pagenum": 92,
+            "content": "<b>a-vikṣata-</b>¦ <ab>a. v.</ab> non blessé."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविक्षत",
+            "eid": "3987",
+            "pagenum": 83,
+            "content": "अविक्षत¦ mfn. (-तः-ता-तं) .²1 Entire, undiminished. .²2 Unhurt. .E. अ neg. विक्षत wounded."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविक्षत",
+            "eid": "3407",
+            "pagenum": 65,
+            "content": "अ-विक्षत¦ (तः-ता-तं) <i>a.</i> Entire, unhurt, uninjured."
+        }
     ]
 }

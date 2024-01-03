@@ -58,5 +58,29 @@
             "pagenum": 256,
             "content": "¦ a kind of plant, <ls>L.</ls><info lex='inh'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "कर्करी",
+            "eid": "9242",
+            "pagenum": 160,
+            "content": "कर्करी¦ f. (-री) A water-jar with a spout."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कर्करी",
+            "eid": "9247",
+            "pagenum": 194,
+            "content": "कर्करी¦ f. (-री) A water jar with a spout."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कर्करी",
+            "eid": "8680",
+            "pagenum": 163,
+            "content": "कर्करी¦ (री) 3. <i>f.</i> Water-jar."
+        }
     ]
 }

@@ -53,5 +53,45 @@
             "pagenum": 7,
             "content": "समिध¦ <lex>m.</lex> <div n='1'> 1) <i>Feuer</i> <ls>TRIK. 1, 1, 67.</ls> <div n='1'>— 2) am Ende eines <lex>adj.</lex> comp. = समिध् <i>Brennholz</i>: विलापदुःख° <ls>R. 2, 24, 6.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "समिध",
+            "eid": "26011",
+            "pagenum": 357,
+            "content": "<i>samidha</i>¦ °Weizen? <ls>S</ls> I, 516, 1. {part=,seq=26360,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "समिध",
+            "eid": "42750",
+            "pagenum": 765,
+            "content": "समिध¦ m. (-धः) AGNI or fire, सम्, and इन्ध् to kindle, aff. क ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "समिध",
+            "eid": "21914",
+            "pagenum": 798,
+            "content": "<b>sam-idha-</b>¦ <ab>ifc.</ab> = <i>-samidh-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "समिध",
+            "eid": "40709",
+            "pagenum": 899,
+            "content": "समिध¦ m. (-धः) AGNI or fire. .E. सम् and इन्ध to kindle, aff. क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "समिध",
+            "eid": "40425",
+            "pagenum": 819,
+            "content": "समिध¦ (धः) 1. <i>m. Agni</i> or fire."
+        }
     ]
 }

@@ -210,5 +210,61 @@
             "pagenum": 5,
             "content": "1. भ¦ <div n='1'> 2) <div n='2'> a) दिनकरभाः acc. pl. <ls>R. 2, 107, 18.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "भ",
+            "eid": "28974",
+            "pagenum": 522,
+            "content": "भ¦ The twenty-fourth consonant of the Nāgari alphabet and aspirate of the last letter, or Bh."
+        },
+        {
+            "word": "भ",
+            "eid": "28975",
+            "pagenum": 522,
+            "content": "भ¦ n. (-भं) 1. A star. 2. An asterism. 3. A planet. 4. The number twenty-seven. m. (-भः) 1. A name of SUKRA, regent of the planet VENUS. 2. A bee. 2. Error, delusion. f. (-भा) 1. Light, lustre, splendour. 2. A ray of light. f. (-मी) Fear. E. भा to shine, or भी to fear, aff. ड ।"
+        },
+        {
+            "word": "भ",
+            "eid": "29152",
+            "pagenum": 525,
+            "content": "भ (भु) रण्यु¦ m. (-ण्युः) 1. A master, a protector. 2. The sun. 3. The moon. 4. The fire. E. भृ to nourish, अन्यु aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "भ",
+            "eid": "16043",
+            "pagenum": 522,
+            "content": "<b>bha-</b>¦ <ab>nt.</ab> étoile, signe du Zodiaque.  <P><i>°gaṇa-</i> <ab>m.</ab> Zodiaque."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भ",
+            "eid": "28102",
+            "pagenum": 609,
+            "content": "भ¦ The twenty-fourth consonant of the <i>Nāgarī</i> alphabet, and aspirate of the last letter, or <i>Bh.</i>"
+        },
+        {
+            "word": "भ",
+            "eid": "28103",
+            "pagenum": 610,
+            "content": "भ¦ n. (भं) .²1 A star. .²2 An asterism. .²3 A planet. m. (भः) .²1 A name of ŚUKRA, regent of the planet VENUS. .²2 A bee. .²3 Error, delusion. f. (भा) .²1 Light, lustre, splendor. .²2 A ray of light. f. (भी) Fear. .E. भा to shine, or भी to fear, aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भ",
+            "eid": "27611",
+            "pagenum": 547,
+            "content": "भ¦ <i>bh.</i> The 24th consonant, and aspirate of the preceding."
+        },
+        {
+            "word": "भ",
+            "eid": "27612",
+            "pagenum": 547,
+            "content": "भ¦ (भं) 1. <i>n.</i> A star; a bee; error; a planet. <i>m. Shukra,</i> regent of <i>Venus.</i> <i>f.</i> (भा) Light, lustre. <i>f.</i> (भी) Fear."
+        }
     ]
 }

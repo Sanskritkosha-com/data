@@ -93,5 +93,45 @@
             "pagenum": 7,
             "content": "अभूत¦ (<i>nicht wirklich bestehend</i> <ls>JĀTAKAM. 20</ls>) und अभूमि I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभूत",
+            "eid": "4240",
+            "pagenum": 58,
+            "content": "<i>abhūta</i>¦ auch: nicht vorhanden, <ls>Mudrār.</ls> 63, 9 (103, 2); nicht wirklich bestehend, <ls>Jātakam.</ls> 20. {part=,seq=4296,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभूत",
+            "eid": "2676",
+            "pagenum": 47,
+            "content": "अभूत¦ mfn. (-तः-ता-तं) Non-existent, absent, what is not or has not been. E. अ neg. भूत been."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभूत",
+            "eid": "3375",
+            "pagenum": 70,
+            "content": "<b>a-bhūta-</b>¦ <ab>a.</ab> qui n'est pas à disposition ; irréel, faux.  <P><i>°doṣa-</i> <ab>a.</ab> innocent.  <P><i>°pūrva-</i> <ab>a.</ab> non présent jusque-là."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभूत",
+            "eid": "2678",
+            "pagenum": 57,
+            "content": "अभूत¦ mfn. (-तः-ता-तं) Non-existent, absent, what is not or has not been. .E. अ neg. भूत been."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अभूत",
+            "eid": "2195",
+            "pagenum": 44,
+            "content": "अ-भूत¦ (तः-ता-तं) <i>a.</i> Non-existent."
+        }
     ]
 }

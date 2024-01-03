@@ -94,5 +94,37 @@
             "pagenum": 7,
             "content": "नाकु¦ III. 1〉 <ls>DAMAYANTĪK. 85</ls>. <ls n='DAMAYANTĪK.'>138</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "नाकु",
+            "eid": "16529",
+            "pagenum": 228,
+            "content": "<i>nāku</i>¦ m. 1. <ls>Damayantīk.</ls> 85. 138 [<ls>S</ls> II, 198, 4]. {part=,seq=16780,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "नाकु",
+            "eid": "21284",
+            "pagenum": 382,
+            "content": "नाकु¦ m. (-कुः) 1. An ant or mole hill, a burrow. 2. A mountain. 3. A name of a Muni or saint. E. न privative, अक् to go, affix उ, or नम् to be crooked or bowed, Unādi affix उ, and नाक substituted for the radical letters."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नाकु",
+            "eid": "21298",
+            "pagenum": 458,
+            "content": "नाकु¦ m. (-कुः) .²1 An ant or mole hill, a burrow. .²2 A mountain. .²3 A name of a <i>Muni</i> or saint. .E. न privative, अक to go, affix उ, or नम to be crooked or bowed, Uṇādi affix उ, and नाक substituted for the radical letters."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नाकु",
+            "eid": "20783",
+            "pagenum": 409,
+            "content": "नाकु¦ (कुः) 2. <i>m.</i> An ant or mole hill; a mountain; name of a sage."
+        }
     ]
 }

@@ -75,5 +75,43 @@
             "pagenum": 7,
             "content": "अकर¦ I. <lex>m.</lex> <i>ein steuerfreier Ort</i> <ls>DAMAYANTĪK. 216</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकर",
+            "eid": "37",
+            "pagenum": 1,
+            "content": "<i>akara</i>¦ m. ein steuerfreier Ort, <ls>Damayantīk.</ls> 216. {part=,seq=39,type=,n=2}"
+        },
+        {
+            "word": "अकर",
+            "eid": "27666",
+            "pagenum": 381,
+            "content": "<i>akara</i>¦ °Subst. keine Steuer, <ls>Prabandh.</ls> 252, 4 v.u. (Abl. = without taxation). {part=N,seq=28037,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अकर",
+            "eid": "53",
+            "pagenum": 2,
+            "content": "अकर¦ mfn. (-रः-रा-री-रं) 1. Maimed, handless. 2. Privileged, exempt from tax or duty. 3. One who does not act. E. अ priv. and कर the hand, tax, duty. f. (-रा) Emblic myrobalan, (Phyllanthus emblica.) E. अ priv. and कृञ to injure, अन् affix."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अकर",
+            "eid": "54",
+            "pagenum": 2,
+            "content": "अकर¦ mfn. (-रः-रा-री-रं) .²1 Maimed, handless. .²2 Privileged, exempt from tax or duty. .²3 One who does not act. .E. अ priv. and कर the hand, tax, duty. f. (-रा) Emblic myrobalan, (<bot>Phyllanthus emblica</bot>.) .E. अ priv. and कृञ to injure, अन् affix."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकर",
+            "eid": "47",
+            "pagenum": 2,
+            "content": "अ-कर¦ (रः-रा-री-रं) <i>a.</i> Maimed; without a hand; free from tax. अ-करा (रा) 1. <i>f.</i> Emblic myrobalan."
+        }
     ]
 }

@@ -91,5 +91,61 @@
             "pagenum": 1,
             "content": "आत्मवत्¦ <lex>Adv.</lex> = आत्मानमिव <i>wie sich selbst</i> <ls n='Chr.'>140,26</ls>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "आत्मवत्",
+            "eid": "5275",
+            "pagenum": 90,
+            "content": "आत्मवत्¦ ind. Like one's self. E. आत्मन् and वति aff."
+        },
+        {
+            "word": "आत्मवत्",
+            "eid": "5276",
+            "pagenum": 90,
+            "content": "आत्मवत्¦ mfn. (-वान्-वती-वत्) 1. Prudent, considerate. 2. Self-possessed, composed, calm. E. आत्मन् and मतुप् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आत्मवत्",
+            "eid": "5139",
+            "pagenum": 114,
+            "content": "<b>ātmavat-</b>¦ <ab>adv.</ab> comme soi."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आत्मवत्",
+            "eid": "5277",
+            "pagenum": 109,
+            "content": "आत्मवत्¦ <i>ind.</i> Like one's self. .E. आत्मन् and वति aff."
+        },
+        {
+            "word": "आत्मवत्",
+            "eid": "5278",
+            "pagenum": 109,
+            "content": "आत्मवत्¦ mfn. (-वान्-वती-वत्) .²1 Prudent, considerate. .²3 Selfpossessed, composed, calm. .E. आत्मन् and मतुप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आत्मवत्",
+            "eid": "4645",
+            "pagenum": 87,
+            "content": "आत्म-वत्¦ <i>ind.</i> Like one's self."
+        },
+        {
+            "word": "आत्मवत्",
+            "eid": "4646",
+            "pagenum": 87,
+            "content": "आत्म-वत्¦ (वान्-वती-वत्) <i>a.</i> Prudent, self possessed; calm."
+        },
+        {
+            "word": "आत्मवत्",
+            "eid": "44801",
+            "pagenum": 917,
+            "content": "*आत्मवत्¦ (वान्-वती-वत्) <i>a.</i> Knowing the spirit."
+        }
     ]
 }

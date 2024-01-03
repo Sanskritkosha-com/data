@@ -101,5 +101,27 @@
             "pagenum": 7,
             "content": "समवस्था¦ (1. स्था mit समव und 2. सम + अ° <lex>f.</lex> 1) <i>Lage, Zustand</i> <ls>RAGH. 19, 50.</ls> <ls>ŚĀK. 39, 20.</ls> <ls n='ŚĀK.'>82, 20.</ls> <ls>MĀLAV. 65.</ls> ईदृशीं वयःसमवस्थां प्रतिपन्नो ऽस्मि so v. a. <i>ich bin so alt geworden</i> <ls>ŚĀK. 60, 12, v. l.</ls> <div n='1'>— 2) <i>eine gleiche Lage, ein gleicher Zustand</i> <ls>Schol.</ls> zu <ls>ŚĀK. 53, 5.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> आ <ls>RAGH. 8, 41.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "समवस्था",
+            "eid": "42585",
+            "pagenum": 762,
+            "content": "समवस्था¦ f. (-स्था) 1. State, condition. 2. Similar state or condition."
+        }
+    ],
+    "STC": [
+        {
+            "word": "समवस्था",
+            "eid": "21742",
+            "pagenum": 792,
+            "content": "<b>1 sam-ava-STHĀ-</b>¦ <ab>caus.</ab> affermir, arrêter ; fonder ; <i>-°sthāpita-</i> consolidé ; érigé, fondé ; <i>-°sthita-</i> solidement établi, fixe, ferme ; qui est dans (telle) situation, dans (tel) endroit ; prêt à (<ab>dat.</ab>)."
+        },
+        {
+            "word": "समवस्था",
+            "eid": "21743",
+            "pagenum": 792,
+            "content": "<b>2 sam-avasthā-</b>¦ <ab>f.</ab> état, condition, situation <lbinfo n='4'/> ; état où condition identique ; <i>-na-</i> <ab>nt.</ab> état, situation."
+        }
     ]
 }

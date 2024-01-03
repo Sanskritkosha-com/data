@@ -121,5 +121,37 @@
             "pagenum": 7,
             "content": "सुवर्णक¦ VII. <lex>Adj.</lex> <i>golden</i> <ls>HARAVIJAYA 6,32</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सुवर्णक",
+            "eid": "26831",
+            "pagenum": 368,
+            "content": "<i>suvarṇaka</i>¦ Adj. golden, Haravijaya 6, 32. {part=,seq=27190,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सुवर्णक",
+            "eid": "44658",
+            "pagenum": 797,
+            "content": "सुवर्णक¦ m. (-कः) A tree, (Cassia fistula.) n. (-कं) 1. Lead. 2. Brass, bellmetal. E. कन् added to the last."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सुवर्णक",
+            "eid": "42422",
+            "pagenum": 936,
+            "content": "सुवर्णक¦ m. (-कः) A tree, (<bot>Cassia fistula</bot>.) n. (-कं) Lead. कन् added to the last."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सुवर्णक",
+            "eid": "42203",
+            "pagenum": 859,
+            "content": "सुवर्णक¦ (कः) 1. <i>m.</i> A tree, <i>Cassia fis-</i> <i>tula. n.</i> Lead."
+        }
     ]
 }

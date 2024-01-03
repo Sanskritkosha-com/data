@@ -39,5 +39,29 @@
             "pagenum": 2,
             "content": "चेड¦ <lex>m.</lex> = चेट <i>Diener</i> <ls>RAMĀN.</ls> zu <ls>AK.</ls> चेडी <lex>f.</lex> <ls>Sch.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "चेड",
+            "eid": "15415",
+            "pagenum": 273,
+            "content": "चेड¦ m. (-डः) A servant. f. (-डी) A female servent or slave. E. चिट् to serve, अच् affix, and ट changed to ड; also चेट, &c. as above, and चेडक, चेडिका, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चेड",
+            "eid": "15421",
+            "pagenum": 331,
+            "content": "चेड¦ m. (-डः) A servant. f. (-डी) A female servant or slave. .E. चिट to serve, अण् affix, and ट changed to ड; also चेट, &c. as above, and चेडक, चेडिका, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चेड",
+            "eid": "14880",
+            "pagenum": 290,
+            "content": "चेड¦ (डः-डी) 1. <i>m.</i> 3. <i>f. Idem.</i>"
+        }
     ]
 }

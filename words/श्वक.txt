@@ -15,5 +15,29 @@
             "pagenum": 7,
             "content": "श्वक¦ <lex>m.</lex> <i>Wolf</i> <ls>DAMAYANTĪK. 231</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "श्वक",
+            "eid": "25419",
+            "pagenum": 349,
+            "content": "<i>śvaka</i>¦ m. Wolf, <ls>Damayantīk.</ls> 231. {part=,seq=25762,type=,n=1}"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "श्वक",
+            "eid": "39333",
+            "pagenum": 867,
+            "content": "श्वक¦ (इ) श्वकि r. 1st cl. (श्वंकते) To go, to move."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "श्वक",
+            "eid": "38994",
+            "pagenum": 786,
+            "content": "श्वक¦ (इ, ङ) श्वंकते 1. <i>d.</i> To go."
+        }
     ]
 }

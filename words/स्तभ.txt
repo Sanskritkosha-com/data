@@ -68,5 +68,37 @@
             "pagenum": 7,
             "content": "स्तभ¦ <lex>m.</lex> <i>Ziegenbock</i> <ls>H. 1275.</ls> <ls>HALĀY. 2, 122.</ls> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> <div n='v'>— Vgl. स्तुभ, तुभ ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "स्तभ",
+            "eid": "27064",
+            "pagenum": 371,
+            "content": "*<i>stabha</i>¦ m. Ziegenbock, <ls>S</ls> I, 150, 7. {part=,seq=27425,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "स्तभ",
+            "eid": "45364",
+            "pagenum": 808,
+            "content": "स्तभ¦ m. (-भः) 1. A goat. 2. A ram. E. See स्तुभ ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्तभ",
+            "eid": "42978",
+            "pagenum": 949,
+            "content": "स्तभ¦ m. (-भः) .²1 A goat. .²2 A ram. .E. see स्तुभ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्तभ",
+            "eid": "42778",
+            "pagenum": 872,
+            "content": "स्तभ¦ (भः) 1. <i>m.</i> A goat, a ram."
+        }
     ]
 }

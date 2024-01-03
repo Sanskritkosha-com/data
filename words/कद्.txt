@@ -213,5 +213,33 @@
             "pagenum": 7,
             "content": "1. कद्¦ <div n='1'> 6) <div n='2'> b) <i>num</i> und <i>nonne</i> zu versetzen. Vgl. noch <ls>RAGH. 5, 5. 6. 6, 35.</ls> <ls>MĀLAV. 10, 4.</ls>"
         }
+    ],
+    "STC": [
+        {
+            "word": "कद्",
+            "eid": "7572",
+            "pagenum": 174,
+            "content": "<b>1 KAD-</b>¦ détruire (seult. au parf. : <i>cakāda kadanam = cakāra kadanam ?</i>)."
+        },
+        {
+            "word": "कद्",
+            "eid": "7573",
+            "pagenum": 174,
+            "content": "<b>2 kad</b>¦ <ab>ind.</ab> (proprement le <ab>nt.</ab> de 1 <i>ka-</i>) <i>kaccid</i> est-ce que ? n'est-il pas vrai que ? j'espère que ; <i>kad</i> <ab>iic.</ab> donne un sens péjoratif <lbinfo n='3'/> au composé.  <P><i>°anna-</i> <ab>nt.</ab> mauvaise nourriture, nourriture insuffisante.  <P><i>°apatya-</i> <ab>nt.</ab> mauvaise progéniture.  <P><i>°artha-</i> <ab>m.</ab> chose inutile ; <i>-ī-kṛ-</i> mépriser ; <i>-ī-kṛti-</i> <ab>f.</ab> mépris, tourment.  <P><i>°arthana-</i> <ab>nt.</ab> trouble, tourment ; <i>-ā-</i> <ab>f.</ab> <ab>id.</ab> ; <i>-īya-</i> <ab>a. v.</ab> qu'il faut tourmenter.  <P><i>°arthayati</i> <ab>dén.</ab> ne faire aucun cas de, mépriser ; tourmenter ; <i>°arthita-</i> <ab>a. v.</ab> méprisé ; maltraité ; <i>°arthyamāna-</i> <ab>partic.</ab> déprimé, lamentable.  <P><i>°arya-</i> <ab>a.</ab> avare, cupide ; <i>°arya-bhāva-</i> <ab>m.</ab> <i>°aryatā-</i> <ab>f.</ab> <i>°aryatva-</i> <ab>nt.</ab> avarice.  <P><i>°indriya-</i> <ab>nt.</ab> <ab>pl.</ab> mauvais organes des sens ; <ab>a.</ab> qui a de mauvais organes des sens ; <i>°indriya-gaṇa-</i> <lbinfo n='8'/> <ab>m.</ab> et <ab>a.</ab> <ab>id.</ab>  <P><i>°vada-</i> <ab>a.</ab> qui parle mal ou indistinctement."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कद्",
+            "eid": "8245",
+            "pagenum": 154,
+            "content": "कद्¦ (इ) कन्दति 1. <i>a.</i> To call; to cry."
+        },
+        {
+            "word": "कद्",
+            "eid": "8246",
+            "pagenum": 154,
+            "content": "कद्¦ (ऊ, इ) कन्दते कदते 1. <i>d.</i> To grieve, to confound, to kill."
+        }
     ]
 }

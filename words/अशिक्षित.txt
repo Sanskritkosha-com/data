@@ -61,5 +61,45 @@
             "pagenum": 5,
             "content": "अशिक्षित¦ 2〉, die Ergänzung auch im <ab>Acc.</ab>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अशिक्षित",
+            "eid": "5820",
+            "pagenum": 79,
+            "content": "<i>aśikṣita</i>¦ 2., die Ergänzung auch im Akk. {part=,seq=5897,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अशिक्षित",
+            "eid": "4220",
+            "pagenum": 72,
+            "content": "अशिक्षित¦ mfn. (-तः-ता-तं) Untaught, ignorant. E. अ neg. शिक्षित taught."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अशिक्षित",
+            "eid": "4509",
+            "pagenum": 97,
+            "content": "<b>a-śikṣita-</b>¦ <ab>a. v.</ab> non instruit."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अशिक्षित",
+            "eid": "4222",
+            "pagenum": 88,
+            "content": "अशिक्षित¦ mfn. (-तः-ता-तं) Untaught, ignorant. .E. अ neg. शिक्षित taught."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अशिक्षित",
+            "eid": "3606",
+            "pagenum": 68,
+            "content": "अ-शिक्षित¦ (तः-ता-तं) <i>a.</i> Untaught."
+        }
     ]
 }

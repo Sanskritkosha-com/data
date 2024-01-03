@@ -63,5 +63,51 @@
             "pagenum": 7,
             "content": "आकरिन्¦ I. <lex>m.</lex> <i>Edelstein, Perle</i> <ls>KIR. 5,7</ls>. <ls>DHARM. 10,42</ls>. <ab>Vgl.</ab> आकरज."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आकरिन्",
+            "eid": "6528",
+            "pagenum": 89,
+            "content": "<i>ākarin</i>¦ m. Edelstein, Perle, <ls>Kir.</ls> 5, 7; <ls>Dharm.</ls> 10, 42. Vgl. <i>ākaraja</i>. {part=,seq=6615,type=,n=2}"
+        },
+        {
+            "word": "आकरिन्",
+            "eid": "28081",
+            "pagenum": 386,
+            "content": "<i>ākarin</i>¦ Adj. °minenreich (?), <ls>Kir.</ls> V, 7. {part=N,seq=28452,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आकरिन्",
+            "eid": "4920",
+            "pagenum": 84,
+            "content": "आकरिन्¦ mfn. (-री-रिणी-रि) Mineral, produced in a mine, &c. E. आकर and इनि aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आकरिन्",
+            "eid": "4899",
+            "pagenum": 107,
+            "content": "<b>ā-karin-</b>¦ <ab>a.</ab> provenant d'une mine ; riche en mines ; <ab>m.</ab> pierre précieuse."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आकरिन्",
+            "eid": "4922",
+            "pagenum": 102,
+            "content": "आकरिन्¦ mfn. (-री-रिणी-रि) Mineral, produced in a mine, &c. .E. आकर and इनि aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आकरिन्",
+            "eid": "4290",
+            "pagenum": 80,
+            "content": "आ-करिन्¦ (री-रिणी-रि) <i>a.</i> Mineral."
+        }
     ]
 }

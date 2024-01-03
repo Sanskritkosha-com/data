@@ -163,5 +163,51 @@
             "pagenum": 7,
             "content": "कौल¦ II. *<lex>m.</lex> <i>Floss, Nachen</i> <ls>MAHĀVY. 245,112</ls>. <ab>Vgl.</ab> कोल."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कौल",
+            "eid": "11459",
+            "pagenum": 157,
+            "content": "<i>kaula</i>¦ *m. Floß, Nachen, <ls>Mahāvy.</ls> 245, 112. Vgl. <i>kola</i>. {part=,seq=11633,type=,n=1}"
+        },
+        {
+            "word": "कौल",
+            "eid": "11459.1",
+            "pagenum": 157,
+            "content": "<i>kaula</i>¦ °n. eine Art Schnaps, <ls>Viṣṇusm.</ls> XXII, 83. {part=,seq=11634,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कौल",
+            "eid": "11865",
+            "pagenum": 209,
+            "content": "कौल¦ mfn. (-लः-ली-लं) Of a good family, well-born. m. (-लः) A worshipper of Sakti according to the left hand ritual, n. (-लं). The doctrine and practices of the left hand Saktas. E. कुल a family, and अञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कौल",
+            "eid": "8361",
+            "pagenum": 211,
+            "content": "<b>kaula-</b>¦ <i>-ī-</i> <ab>a.</ab> qui concerne une famille, qui s'étend à toute une famille ; familial."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कौल",
+            "eid": "11871",
+            "pagenum": 254,
+            "content": "कौल¦ mfn. (-लः-ली-लं) Of a good family, well-born. m. (-लः) A worshipper of <i>Śakti</i> according to the left hand ritual. n. (-लं) The doctrine and practices of the left hand <i>Śāktas.</i> .E. कुल a family, and अञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कौल",
+            "eid": "11323",
+            "pagenum": 218,
+            "content": "कौल¦ (लः-ला-लं) <i>a.</i> Of a good family."
+        }
     ]
 }

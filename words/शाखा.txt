@@ -194,5 +194,29 @@
             "pagenum": 7,
             "content": "शाखा¦ VI. <i>Jahr</i> <ls>ŚRĪKAṆṬHAC. 1,42</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शाखा",
+            "eid": "24934",
+            "pagenum": 343,
+            "content": "<i>śākhā</i>¦ Jahr, <ls>Śrīk.</ls> 1, 42. {part=,seq=25275,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शाखा",
+            "eid": "20170",
+            "pagenum": 723,
+            "content": "<b>śākhā-</b>¦ <ab>f.</ab> rameau, branche (aussi <ab>fig.</ab>) ; division, subdivision, espèce ; extrémité (bras ou jambe) ; doigt ; école ou secte védique ; version d'un texte <ab>véd.</ab> propre à telle école ; <i>-ī-</i> <ab>f.</ab> <ab>ifc.</ab> ; <i>-maya- -ī-</i> <ab>a.</ab> qui consiste en branches <lbinfo n='4'/> de (<ab>ifc.</ab>).  <P><i>°grahikayā</i> <ab>instr.</ab> <ab>adv.</ab> en s'accrochant aux branches.  <P><i>°nagara- -ka-</i> <ab>nt.</ab> faubourg.  <P><i>°puṣpa-palāśavant-</i> <ab>a.</ab> qui a des branches, des fleurs et des feuilles.  <P><i>°bāhu-</i> <ab>m.</ab> bras (mince) comme un rameau.  <P><i>°bhṛt-</i> <ab>m.</ab> arbre.  <P><i>°mṛga-</i> <ab>m.</ab> singe ; <i>-tva-</i> <ab>nt.</ab> nature de singe.  <P><i>°vilīna-</i> <ab>a. v.</ab> perché sur une branche (oiseau).  <P><i>°stha-</i> <ab>ag.</ab> qui se tient sur une branche.  <P><i>śākhānta-ga-</i> <ab>a.</ab> qui a été jusqu'au bout d'une branche (du Veda).  <P><i>śākhāntara-</i> <ab>nt.</ab> autre école (védique)."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "शाखा",
+            "eid": "3225",
+            "pagenum": 2,
+            "content": "<b>Śākhā</b>¦ in the Rigveda<sup>1</sup> and later<sup>2</sup> denotes the ‘branch’ of a tree. <b>Vayā</b> is more often used in this sense in the Rigveda. <F>1) i. 8, 8; vii. 43, 1; x. 94, 3.</F> <F>2) Av. iii. 6, 8; x. 7, 21; xi. 2, 19, etc.</F>"
+        }
     ]
 }

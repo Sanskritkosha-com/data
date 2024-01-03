@@ -55,5 +55,29 @@
             "pagenum": 5,
             "content": "मुचक¦ <lex>m.</lex> <i>Gummilack</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मुचक",
+            "eid": "31647",
+            "pagenum": 570,
+            "content": "मुचक¦ m. (-कः) Lac, the dye. E. मुच् to loosen, aff. क्कुन् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मुचक",
+            "eid": "30524",
+            "pagenum": 664,
+            "content": "मुचक¦ m. (-कः) Lac, the dye. .E. मुच to loosen, aff. क्वुन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मुचक",
+            "eid": "30072",
+            "pagenum": 596,
+            "content": "मुचक¦ (कः) 1. <i>m.</i> Lac, the dye."
+        }
     ]
 }

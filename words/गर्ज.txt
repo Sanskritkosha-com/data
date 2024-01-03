@@ -129,5 +129,47 @@
             "pagenum": 5,
             "content": "गर्ज¦ <div n='1'> 2) <i>Getöse</i>: घन° <ls>Sp. 3673, v. l.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "गर्ज",
+            "eid": "13288",
+            "pagenum": 233,
+            "content": "गर्ज¦ r. 10th cl. (गर्जयति) To sound. r. 1st cl. (गर्जति) To emit a deep or full sound, to sound as distant thunder, to roar as a lion, &c."
+        },
+        {
+            "word": "गर्ज",
+            "eid": "13289",
+            "pagenum": 233,
+            "content": "गर्ज¦ n. (-र्जं) 1. The roaring of elephants. 2. The grumbling of clouds, &c. E. गर्ज् to roar or growl, affix अच्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गर्ज",
+            "eid": "13295",
+            "pagenum": 284,
+            "content": "गर्ज¦ r. 10th cl. (गर्जयति) To sound. r. 1st cl. (गर्जति) To emit a deep or full sound, to sound as distant thunder, to roar as a lion, &c."
+        },
+        {
+            "word": "गर्ज",
+            "eid": "13296",
+            "pagenum": 284,
+            "content": "गर्ज¦ n. (-र्जं) .²1 The roaring of elephants. .²2 The grumbling of clouds, &c. .E. गर्ज to roar or growl, affix अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गर्ज",
+            "eid": "12748",
+            "pagenum": 247,
+            "content": "गर्ज¦ (कि) गर्जति गर्जयति 1. 10. <i>a.</i> To sound, to rumble, to roar."
+        },
+        {
+            "word": "गर्ज",
+            "eid": "12749",
+            "pagenum": 247,
+            "content": "गर्ज¦ (र्जं) 1. <i>n.</i> The roaring of elephants; grumbling of clouds."
+        }
     ]
 }

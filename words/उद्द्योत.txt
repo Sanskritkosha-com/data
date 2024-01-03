@@ -157,5 +157,51 @@
             "pagenum": 7,
             "content": "उद्द्योत¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उद्द्योत",
+            "eid": "8368",
+            "pagenum": 115,
+            "content": "<i>uddyota</i>¦ °n. = <i>tejas</i>, <ls>S</ls> I, 157, 14 v.u. (Ko.). {part=,seq=8482,type=,n=1}"
+        },
+        {
+            "word": "उद्द्योत",
+            "eid": "8368.1",
+            "pagenum": 115,
+            "content": "<i>Uddyota</i>¦ 2. d) Titel eines Werkes, <ls>Opp. Cat.</ls> 1. {part=,seq=8483,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उद्द्योत",
+            "eid": "7108",
+            "pagenum": 122,
+            "content": "उद्द्योत¦ m. (-तः) Light, lustre. E. उद्, द्युत् to shine, अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उद्द्योत",
+            "eid": "6417",
+            "pagenum": 144,
+            "content": "<b>ud-dyota-</b>¦ <ab>a.</ab> qui illumine ; <ab>m.</ab> fait de briller (aussi <ab>fig.</ab>), lustre, éclat."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उद्द्योत",
+            "eid": "7111",
+            "pagenum": 149,
+            "content": "उद्द्योत¦ m. (-तः) Light, lustre. .E. उद्, द्युत to shine, aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उद्द्योत",
+            "eid": "6512",
+            "pagenum": 122,
+            "content": "उद्-द्योत¦ (तः) 1. <i>m.</i> Light."
+        }
     ]
 }

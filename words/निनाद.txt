@@ -84,5 +84,37 @@
             "pagenum": 4,
             "content": "निनाद¦ <lex>m.</lex> = निनद <ls>P. 3, 3, 64.</ls> <ls>AK. 1, 1, 6, 1.</ls> <ls>H. 1399.</ls> <ls>MBH. 5, 3138. fg.</ls> <ls>HARIV. 4355.</ls> <ls n='HARIV.'>9133.</ls> <ls>R. 2, 34, 19.</ls> <ls n='R. 2,'>76, 21.</ls> <ls n='R.'>4, 13, 21.</ls> <ls n='R.'>5, 38, 1.</ls> <ls>RAGH. 11, 15.</ls> <ls>ṚT. 1, 25.</ls> <ls>VARĀH. BṚH. S. 59, 10. 66, 8.</ls> <ls>DEV. 8, 9.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "निनाद",
+            "eid": "21713",
+            "pagenum": 391,
+            "content": "निनाद¦ m. (-दः) Sound in general. E. नि before नद् to sound, affix पक्षे घञ्; also निनद."
+        }
+    ],
+    "STC": [
+        {
+            "word": "निनाद",
+            "eid": "11690",
+            "pagenum": 363,
+            "content": "<b>ni-nāda-</b>¦ <ab>m.</ab> = <i>°nada- ; -in-</i> <ab>a.</ab> résonnant, criant, retentissant de (<ab>instr.</ab> <ab>ifc.</ab>), rempli de bruit ; <ab>ifc.</ab> qui fait retentir, qui joue (d'un instrument de musique)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निनाद",
+            "eid": "21734",
+            "pagenum": 468,
+            "content": "निनाद¦ m. (-दः) Sound in general. .E. नि before नद to sound, affix घञ्; also निनद."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निनाद",
+            "eid": "21211",
+            "pagenum": 417,
+            "content": "नि-नाद¦ (दः) 1. <i>m.</i> Sound."
+        }
     ]
 }

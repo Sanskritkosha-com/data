@@ -109,5 +109,37 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अमन्त्र¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अमन्त्र",
+            "eid": "4367",
+            "pagenum": 60,
+            "content": "2. <i>amantra</i>¦ 3. keine Zaubersprüche kennend, -x- anwendend, <ls>Bhām. V.</ls> 1, 109. — °unberaten, <ls>S</ls> I, 394, 7 (man lese <i>śrīs tathāmantre jātatantre</i>). {part=,seq=4424,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अमन्त्र",
+            "eid": "2810",
+            "pagenum": 49,
+            "content": "अमन्त्र¦ mfn. (-न्त्रः-न्त्रा-न्त्रं) Unentitled to, or unaccompanied by holy texts, as a Sudra, a female, certain ceremonies, &c. E. अ neg. मन्त्र a text of the Vedas."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अमन्त्र",
+            "eid": "3560",
+            "pagenum": 73,
+            "content": "<b>a-mantra-</b>¦ <ab>a.</ab> qui ignore le Veda ou les formules <lbinfo n='5'/> magiques ; non accompagné de textes védiques ; <ab>nt.</ab> (qui n'est) pas une formule magique ; <i>-ka- -ikā-</i> <ab>a.</ab> non accompagné de vers ; <i>-vant-</i> <ab>a.</ab> <ab>id.</ab>  <P><i>°jña-</i> <ab>a.</ab> qui ne connaît pas les mantra.  <P><i>°tantra-</i> <ab>a.</ab> sans formules de magie ni de conjuration.  <P><i>°varjam</i> <ab>adv.</ab> non sans les formules requises.  <P><i>°vid-</i> <ab>a.</ab> qui ne connaît pas le Veda."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अमन्त्र",
+            "eid": "2812",
+            "pagenum": 60,
+            "content": "अमन्त्र¦ mfn. (-न्त्रः-न्त्रा-न्त्रं) Unentitled to, or unaccompanied by holy texts, as a <i>Śūdra,</i> a female, certain ceremonies, &c. .E. अ neg. मन्त्र a text of the <i>Vedas.</i>"
+        }
     ]
 }

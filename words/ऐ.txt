@@ -147,5 +147,73 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> ऐ¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ऐ",
+            "eid": "9300.1",
+            "pagenum": 128,
+            "content": "<i>ai</i>¦ Interj. <ls>Maitr. S.</ls> 4, 9, 21. {part=,seq=9423,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ऐ",
+            "eid": "8269",
+            "pagenum": 142,
+            "content": "ऐ¦ The twelfth vowel of the Nagari alphabet, or more properly a diphthong; corresponding in sound to Ei in height."
+        },
+        {
+            "word": "ऐ",
+            "eid": "8270",
+            "pagenum": 142,
+            "content": "ऐ¦ ind. An interjection of, 1. Remembering, (aye, ha) 2. Calling, summoning, (hola, ho, heigh.)"
+        },
+        {
+            "word": "ऐ",
+            "eid": "8271",
+            "pagenum": 142,
+            "content": "ऐ¦ m. (ऐः) A name of SIVA."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ऐ",
+            "eid": "8273",
+            "pagenum": 173,
+            "content": "ऐ¦ The twelfth vowel of the <i>Nagarī</i> alphabet, or more properly a diphthong; corresponding in sound to <i>Ei</i> in <i>heighth.</i>"
+        },
+        {
+            "word": "ऐ",
+            "eid": "8274",
+            "pagenum": 173,
+            "content": "ऐ¦ <i>ind.</i> An interjection of, .²1 Remembering, (aye, ha.) .²2 Calling, summoning, (hola, ho, heigh.)"
+        },
+        {
+            "word": "ऐ",
+            "eid": "8275",
+            "pagenum": 173,
+            "content": "ऐ¦ m. (-ऐः) A name of ŚIVA."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ऐ",
+            "eid": "7697",
+            "pagenum": 143,
+            "content": "ऐ¦ The 12th vowel of the alphabet, sounded like <i>e i</i> in heighth."
+        },
+        {
+            "word": "ऐ",
+            "eid": "7698",
+            "pagenum": 143,
+            "content": "ऐ¦ <i>Interj.</i> ha! ho, heigh."
+        },
+        {
+            "word": "ऐ",
+            "eid": "7699",
+            "pagenum": 143,
+            "content": "ऐ¦ (ऐः) 4. <i>m.</i> A name of Shiva."
+        }
     ]
 }

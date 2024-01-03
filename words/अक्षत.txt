@@ -190,5 +190,59 @@
             "pagenum": 7,
             "content": "अक्षत¦ I. 6. Auch <i>eine <ab>best.</ab> Krankheit</i> <ls>DĀRILA</ls> zu <ls>KAUŚ. 32,9</ls>. Nach <ls>ZIMMER</ls> ist auch <ls>AV. 7,76,4</ls> अक्षतस्य zu lesen."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्षत",
+            "eid": "218",
+            "pagenum": 4,
+            "content": "<i>akṣata</i>¦ Adj. °ungedroschen, <ls>Mgs.</ls> II, 1, 5. {part=,seq=225,type=,n=1}"
+        },
+        {
+            "word": "अक्षत",
+            "eid": "218.1",
+            "pagenum": 4,
+            "content": "<i>akṣata</i>¦ 2. nach dem Komm. zu <ls>R. ed. Bomb.</ls> 2, 25, 37 f. <i>ā</i> Pl. Nach <ls>H. an.</ls> und <ls>Med.</ls> m. n. auch Eunuch und nach H. c. 43 m. Bein. Siva's. Auch eine best. Krankheit, <ls>Dārila</ls> zu <ls>Kauś.</ls> 32, 9. Nach Zimmer ist auch <ls>AV. 7, 76, 4</ls> <i>akṣatasya</i> zu lesen. {part=,seq=226,type=,n=7}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अक्षत",
+            "eid": "128",
+            "pagenum": 3,
+            "content": "अक्षत¦ n. (-तं) 1. Fried grain, (in this sense it is also used in the mas. plu. (-ताः) 2. A eunuch. 3. Whole grain. f. (-ता) A plant, named also Kankara Sringi. mfn. (-त-ता-तः) 1. Uninjured, unhurt. 2. Whole, unbroken. E. अ neg. and क्षत torn, broken &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अक्षत",
+            "eid": "106",
+            "pagenum": 3,
+            "content": "<b>a-kṣata-</b>¦ <ab>a.</ab> non endommagé ; <ab>m.</ab> <ab>pl.</ab> ou <ab>nt.</ab> <ab>sg.</ab> grains décortiqués (de céréales), servant pour l'oblation."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "अक्षत",
+            "eid": "7",
+            "pagenum": 1,
+            "content": "<b>Akṣata</b>¦ or <b>Akṣita.</b> — In one passage of the Atharvaveda,<sup>1</sup> dealing with the <b>Jāyānya,</b> mention is made of a remedy for sores designated both Akṣita and Sukṣata, or, according to the reading of the Kauṣika Sūtra, Akṣata and Sukṣata, while Sāyaṇa has Akṣita and Sukṣita. Bloomfield<sup>2</sup> renders ‘not caused by cutting’ and ‘caused by cutting.’ Formerly<sup>3</sup> he suggested ‘tumour’ or ‘boil.’ Whitney<sup>4</sup> thinks that two varieties of Jāyānya are meant. Ludwig<sup>5</sup> reads with Sāyana <i>akṣita,</i> which he renders by ‘not firmly established’ in the invalid. Zimmer<sup>6</sup> finds in it a disease Kṣata. <F>1) vii. 76, 4.</F> <F>2) <i>Hymns of the Atharvaveda,</i> 17, 562.</F> <F>3) <i>Journal of the American Oriental</i> <i>Society,</i> 13, cxvii. <i>et seq.</i></F> <F>4) Translation of the Atharvaveda 442.</F> <F>5) Translation of the Rigveda, 3, 500.</F> <F>6) <i>Altindisches Leben,</i> 377.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक्षत",
+            "eid": "129",
+            "pagenum": 3,
+            "content": "अक्षत¦ n. (-तं) .²1 Fried grain, (in this sense it is also used in the mas. plu. -ताः). .²2 A eunuch. .²3 Whole grain. f. (-ता) A plant, named also Kāṅkarasriṅgī. mfn. (-त-ता-तं.) .²1 Uninjured, unhurt. .²2 Whole, unbroken. .E. अ neg. and क्षत torn, broken, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक्षत",
+            "eid": "95",
+            "pagenum": 3,
+            "content": "अ-क्षत¦ (तं) 1. <i>n.</i> Fried grain; <i>f.</i> (ता) a plant; <i>a.</i> Uninjured."
+        }
     ]
 }

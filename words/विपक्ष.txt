@@ -188,5 +188,51 @@
             "pagenum": 7,
             "content": "विपक्ष¦ VI. <lex>Adj.</lex> <i>entgegenwirkend</i> <ls>JĀTAKAM. 26,19</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विपक्ष",
+            "eid": "23922",
+            "pagenum": 330,
+            "content": "<i>vipakṣa</i>¦ Adj. entgegenwirkend, <ls>Jātakam.</ls> 26, 19. — m. °Monat, <ls>S</ls> II, 219, 4 (1. <i>dvipakṣa?</i>). — ° = Kalindācala, <ls>H</ls> XIV, 26. {part=,seq=24254,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विपक्ष",
+            "eid": "36969",
+            "pagenum": 662,
+            "content": "विपक्ष¦ mfn. (-क्षः-क्षा-क्षं) Opposed or adverse to, contrary, inimical. m. (-क्षः) 1. An enemy, an adversary. 2. A disputant, an opponent. 3. Exception, (in grammar, &c.) 4. (In logic.) An argument or syllogism in which the proposition to be maintained is wanting. E. वि implying opposite, contrary, and पक्ष part or side."
+        }
+    ],
+    "STC": [
+        {
+            "word": "विपक्ष",
+            "eid": "18754",
+            "pagenum": 662,
+            "content": "<b>1 vi-pakṣa-</b>¦ <ab>a.</ab> sans ailes ; <i>-ī-kṛ-</i> priver d'ailes."
+        },
+        {
+            "word": "विपक्ष",
+            "eid": "18755",
+            "pagenum": 662,
+            "content": "<b>2 vi-pakṣa-</b>¦ (<ab>a.</ab> et) <ab>m.</ab> qui n'est pas du (même) parti, adversaire, ennemi ; assertion ou exemple contraire (log.) ; <i>-tā-</i> <ab>f.</ab> <i>-tva-</i> <ab>nt.</ab> opposition, hostilité ; <i>-ayati</i> <ab>dén.</ab> se faire un ennemi ; <i>-īya-</i> <ab>a.</ab> hostile.  <P><i>°bhāva-</i> <ab>m.</ab> hostilité.  <P><i>°ramaṇī-</i> <ab>f.</ab> rivale."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विपक्ष",
+            "eid": "35342",
+            "pagenum": 774,
+            "content": "विपक्ष¦ mfn. (-क्षः-क्षा-क्षं) Opposed or adverse to, contrary, inimical. m. (-क्षः) .²1 An enemy, an adversary. .²2 A disputant, an opponent. .²3 Exception, (in grammar, &c.) .²4 (In logic,) An argument or syllogism in which the proposition to be maintained is wanting. .E. वि implying opposite, contrary, and पक्ष part or side."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विपक्ष",
+            "eid": "34930",
+            "pagenum": 694,
+            "content": "वि-पक्ष¦ (क्षः-क्षा-क्षं) <i>m.</i> Opponent, enemy; exception to a rule. <i>a.</i> Opposed, hostile."
+        }
     ]
 }

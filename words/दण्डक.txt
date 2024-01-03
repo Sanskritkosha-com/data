@@ -261,5 +261,45 @@
             "pagenum": 5,
             "content": "दण्डक¦ Z. 2 lies <ls>P. 5, 3, 87</ls>, <ls>Sch.</ls> <div n='1'> 4) <ls>Ind. St. 8, 405. fgg.</ls> <ls>WEBER, RĀMAT. UP. 362.</ls> <div n='1'>— 6) Z. 4 v. l. दाण्डक्यो नृपतिः . <div n='1'>— 8) Titel einer Schrift <ls>Verz. d. Oxf. H. 382,b, No. 456.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दण्डक",
+            "eid": "15076",
+            "pagenum": 208,
+            "content": "<i>daṇḍaka</i>¦ m. °schmaler Weg, <ls>S</ls> II, 220, 2. — lines in a book? <ls>Harṣac.</ls> 103, 3. (pw 'Zeile'.) {part=,seq=15313,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दण्डक",
+            "eid": "18359",
+            "pagenum": 329,
+            "content": "दण्डक¦ mn. (-कः-कं) A sort of metre, the stanza of which exceeds twenty-seven syllables, and may extend to 200. f. (-का) The peninsula of India, from between the Narmada and Godaveri rivers to the south, the whole of which, in the days of RAMA, was a large forest. E. दण्ड a staff, &c. and स्वार्थे क aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "दण्डक",
+            "eid": "10305",
+            "pagenum": 297,
+            "content": "<b>daṇḍaka-</b>¦ <ab>m.</ab> (<ab>ord.</ab> <ab>ifc.</ab>) bâton, etc. (<ab>v.</ab> <i>daṇḍa-</i>) ; hampe de drapeau ; ligne (d'écriture) <lbinfo n='4'/> ; <ab>n.</ab> d'un fils d'Ikṣvāku dont le royaume fut transformé en une forêt de ce nom ; <ab>pl.</ab> habitants de cette forêt ; <ab>nt.</ab> et <i>-ā-</i> <ab>f.</ab> forêt Daṇḍaka (dans le Deccan, entre les rivières Narmadā et Godāvarī).  <P><i>daṇḍakāraṇya-</i> <i>daṇḍakā-vana-</i> <ab>nt.</ab> forêt Daṇḍaka."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दण्डक",
+            "eid": "18374",
+            "pagenum": 396,
+            "content": "दण्डक¦ mn. (-कः-कं) A sort of metre, the stanza of which exceeds twenty-seven syllables, and may extend to 200. f. (-का) The peninsula of <i>India,</i> from between the <i>Narmadā</i> and <i>Godāvarī</i> rivers to the south, the whole of which, in the days of RĀMA, was a large forest. .E. दण्ड a staff, &c. and कन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दण्डक",
+            "eid": "17849",
+            "pagenum": 351,
+            "content": "दण्डक¦ (कः-कं) 1. <i>m. n.</i> A metre; a vessel. <i>f.</i> (का) Peninsula of India."
+        }
     ]
 }

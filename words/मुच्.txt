@@ -257,5 +257,43 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> मुच्¦ V. 12〉 <i>Jmd</i> (<ab>Gen.</ab>) <i>entwischen</i> <ls>JĀTAKAM. 20</ls>. <ls n='JĀTAKAM.'>21,11</ls>. <ls n='JĀTAKAM.'>22</ls>. — Mit प्र auch <i>sich losmachen von</i> (<ab>Gen.</ab>), <i>entgehen</i> <ls>R. ed. Bomb. 3,66,11</ls>. प्रमुक्त <i>frei von</i> (<ab>Abl.</ab>) <ls>MAHĀVY. 19,47</ls>. — Mit वि, °मुक्त <i>Jmd</i> (<ab>Gen.</ab>) <i>entkommen</i> <ls>JĀTAKAM. 21</ls>. <ls n='JĀTAKAM.'>23</ls>. — Mit प्रतिसम्, °संमुक्त <i>erlöst, von einem peinlichen Zustande befreit</i> <ls>R. ed. Bomb. 4,59,5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मुच्",
+            "eid": "21790",
+            "pagenum": 301,
+            "content": "1. <i>muc</i>¦ 12. jemand (Gen.) entwischen, <ls>Jātakam.</ls> 20; 21, 11; 22. — Mit <i>pra</i> auch: sich losmachen von (Gen.), entgehen, <ls>R. ed. Bomb.</ls> 3, 66, 11. <i>pramukta</i> frei von (Abl.), <ls>Mahāvy.</ls> 19, 47. — Mit <i>vi, °mukta</i> jemand (Gen.) entkommen, <ls>Jātakam.</ls> 21. 23. — Mit <i>pratisam, °saṃmukta</i> erlöst, von einem peinlichen Zustande befreit, <ls>R. ed. Bomb.</ls> 4, 59, 5. {part=,seq=22090,type=,n=10}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मुच्",
+            "eid": "31646",
+            "pagenum": 570,
+            "content": "मुच् (ऌ, औ) औ मुचॢ¦ r. 6th cl. (मुञ्चति-ते) 1. To be loose or free. 2. To forsake or abandon. r. 10th cl. (मोचयति-ते) 1. To let loose, to let go, to discharge as arrows, to part with, as wealth, &c. 2. To gladden, to delight. r. 1st cl. (मोचते) To deceive, to cheat. (इ) मुचि (मुञ्चते) 1. To be vain or proud. 2. To be wicked. 3. To speak. 4. To grind or pound. 5. To cheat, to deceive. With प्र To give much. With वि 1. To obtain liberation. 2. To give or bestow. 3. To lose."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मुच्",
+            "eid": "16826",
+            "pagenum": 570,
+            "content": "<b>1 MUC-</b>¦ <i>muñcati -te ; mumoca mumuce ; amoci amūmucat mokṣīs ; mokṣyati</i> <i>-te ; mucyate</i> (<i>-ti</i>) <i>mumukṣati -te mokṣate mocayati</i><i> -te ; mukta- moktum</i> <i>muktvā °mucya</i> -- rendre ou laisser libre, lâcher, libérer (de, <ab>abl.</ab>) ; <ab>moy.</ab> se libérer, échapper à (<ab>abl.</ab> <ab>instr.</ab>) ; épargner ; détacher, laisser aller ; envoyer ; laisser, abandonner, renoncer à ; lancer (sur, vers, <ab>loc.</ab> <ab>dat.</ab> <ab>gén.</ab> <ab>acc.</ab> avec <i>prati</i>) ; <ab>pass.</ab> échapper à, se libérer ou être libéré (<ab>not.</ab> de l'existence, du mal), s'abstenir, être privé de ; <ab>caus.</ab> faire mettre en liberté ; délier, dételer ; absoudre, libérer de (<ab>abl.</ab>) ; <i>mokṣate</i> se libérer de (<ab>acc.</ab>) ; <i>mokṣayati</i> libérer de (<ab>abl.</ab>)."
+        },
+        {
+            "word": "मुच्",
+            "eid": "16827",
+            "pagenum": 570,
+            "content": "<b>2 muc-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui libère, qui lâche, etc."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मुच्",
+            "eid": "30071",
+            "pagenum": 596,
+            "content": "मुच्¦ (ऌ, औ, श) मुञ्चति, ते 6. <i>c.</i> To be loose or free; to forsake; (क) मोचयति to let loose; to gladden; (ङ) मोचते 1. <i>d.</i> To deceive; (इ, ङ) मुञ्चते to be proud; wicked; to speak; to pound; to cheat. With प्र to give much; with वि to obtain liberation; to give; to loose."
+        }
     ]
 }

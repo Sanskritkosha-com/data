@@ -131,5 +131,43 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> पृष्टि¦ auch <ls>DĀRILA</ls> zu <ls>KAUŚ. 16,29</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पृष्टि",
+            "eid": "18912",
+            "pagenum": 261,
+            "content": "3. <i>pṛṣṭi</i>¦ auch <ls>Dārila</ls> zu <ls>Kauś.</ls> 16, 29. {part=,seq=19180,type=,n=1}"
+        },
+        {
+            "word": "पृष्टि",
+            "eid": "18912.1",
+            "pagenum": 261,
+            "content": "<i>pṛṣṭi</i>¦ = <i> pṛṣṭha</i> (Rücken) s. folg. {part=,seq=19181,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पृष्टि",
+            "eid": "25831",
+            "pagenum": 468,
+            "content": "पृष्टि¦ m. (-ष्टिः) 1. A ray of light. 2. Touch. E. पृष् to touch, &c. aff. क्तिन्. when it is derived from प्रच्छ्-क्तिन् it means “Inquiry” and when formed from पृष् कर्तरि क्तिच् it signifies “the back” or “at the side of."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पृष्टि",
+            "eid": "25532",
+            "pagenum": 552,
+            "content": "पृष्टि¦ m. (-ष्टिः) .²1 A ray of light. .²2 Touch. .E. स्पृष to touch, &c. aff. क्तिन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पृष्टि",
+            "eid": "25014",
+            "pagenum": 495,
+            "content": "पृष्टि¦ (ष्टिः) 2. <i>m.</i> A ray of light; touch."
+        }
     ]
 }

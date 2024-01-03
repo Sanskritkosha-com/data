@@ -43,5 +43,21 @@
             "pagenum": 7,
             "content": "आर्क¦ I. <lex>m.</lex> <i>ein <ab>best.</ab> Amulet</i> <ls>KAUŚ. 40,16</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आर्क",
+            "eid": "7282",
+            "pagenum": 99,
+            "content": "<i>ārka</i>¦ m. ein best. Amulett, <ls>Kauś.</ls> 40, 16. {part=,seq=7383,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आर्क",
+            "eid": "5544",
+            "pagenum": 122,
+            "content": "<b>ārka-</b>¦ <ab>a.</ab> relatif au soleil, solaire."
+        }
     ]
 }

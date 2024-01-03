@@ -85,5 +85,43 @@
             "pagenum": 4,
             "content": "2. पालिका¦ (von पालि, पाली) <lex>f.</lex> <div n='1'> 1) <i>Ohrläppchen</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <i>die scharfe Seite eines Dinges, Ecke, Schneide</i> (अश्रि) <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 3) <i>Käse-, Buttermesser</i> <ls>HĀR. 34.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पालिका",
+            "eid": "18423",
+            "pagenum": 254,
+            "content": "<i>pālikā</i>¦ s. <i>maṅgalapālikā</i>. {part=,seq=18688,type=,n=2}"
+        },
+        {
+            "word": "पालिका",
+            "eid": "18424",
+            "pagenum": 254,
+            "content": "<i>pālikā</i>¦ ? <ls>S</ls> I, 402, 3 v.u. (Ko.); in <i>karpūrapālikā</i>; s. d.!) {part=,seq=18689,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पालिका",
+            "eid": "24671",
+            "pagenum": 447,
+            "content": "पालिका¦ f. (-का) 1. The sharp edge of a cutting instrument. 2. A sort of ladle or knife for skimming milk, curds, &c. 3. The lobe of the ear. E. पाली as above, with कन् added; see also पालक."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पालिका",
+            "eid": "24584",
+            "pagenum": 531,
+            "content": "पालिका¦ f. (-का) .²1 The sharp edge of a cutting instrument. .²2 A sort of ladle or knife for skimming milk, curds, &c. .²3 The lobe of the ear. .E. पाली as above, with कन् added; see also पालक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पालिका",
+            "eid": "24063",
+            "pagenum": 475,
+            "content": "पालिका¦ (का) 1. <i>f.</i> A sharp edge of any instrument; a ladle for skimming milk; lobe of the ear."
+        }
     ]
 }

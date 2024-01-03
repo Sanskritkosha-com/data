@@ -73,5 +73,21 @@
             "pagenum": 7,
             "content": "अदर्श und <hom>1.</hom> अदर्शन¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अदर्श",
+            "eid": "1522",
+            "pagenum": 21,
+            "content": "<i>adarśa</i>¦ Adj. ohne Darśa-Feier, <ls>Muṇḍ. Up.</ls> 1, 2, 3. {part=,seq=1548,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अदर्श",
+            "eid": "879",
+            "pagenum": 19,
+            "content": "<b>a-darśa-</b>¦ <ab>a.</ab> sans la cérémonie du Darśa."
+        }
     ]
 }

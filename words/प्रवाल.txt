@@ -132,5 +132,21 @@
             "pagenum": 7,
             "content": "प्रवाल¦ IV. <lex>Adj.</lex> = पल्लवयुक्त und प्रकृष्टकेशयुक्त <ls>DHARMAŚARM. 12,8</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रवाल",
+            "eid": "19551",
+            "pagenum": 270,
+            "content": "<i>pravāla</i>¦ Adj. = <i>pallavayukta</i> und <i>prakṛṣṭakeśayukta</i>, <ls>Dharmaśarm.</ls> 12, 8. {part=,seq=19826,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रवाल",
+            "eid": "15280",
+            "pagenum": 483,
+            "content": "<b>pra-vāla-</b>¦ <i>°bāla-</i> <ab>m.</ab> <ab>nt.</ab> jeune pousse, bourgeon, feuille ou branche nouvelle (<ab>fig.</ab> lèvres et pieds) ; corail."
+        }
     ]
 }

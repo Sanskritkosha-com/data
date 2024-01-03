@@ -179,5 +179,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> क्षु¦ <ab>Desid.</ab> 6. — <ab>Desid.</ab> vom <ab>Caus.</ab> II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "क्षु",
+            "eid": "11705",
+            "pagenum": 161,
+            "content": "1. <i>kṣu</i>¦ , Desid. <i>cukṣūṣati</i>, niesen wollen, <ls>JAOS. Proc.</ls> May 1885, S. XX. — <i>*cukṣāvayiṣati</i> ist Desid. vom <ls>Kaus.</ls> {part=,seq=11883,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "क्षु",
+            "eid": "12413",
+            "pagenum": 218,
+            "content": "क्षु (टु) टुक्षु¦ r. 2d cl. (क्षौति) To sneeze, to make any such sound."
+        }
+    ],
+    "STC": [
+        {
+            "word": "क्षु",
+            "eid": "8513",
+            "pagenum": 217,
+            "content": "<b>KṢU-</b>¦ <i>kṣauti ; cukṣuve ; kṣuta- kṣutvā</i> -- éternuer ; <ab>a. v.</ab> qui a éternué."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "क्षु",
+            "eid": "12419",
+            "pagenum": 265,
+            "content": "क्षु¦ (टु) टुक्षु r. 2d cl. (क्षौति) To sneeze, to make any such sound."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "क्षु",
+            "eid": "11872",
+            "pagenum": 229,
+            "content": "क्षु¦ (ल) क्षौति 2. <i>a.</i> To sneeze."
+        }
     ]
 }

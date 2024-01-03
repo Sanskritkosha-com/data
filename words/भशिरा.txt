@@ -39,5 +39,29 @@
             "pagenum": 5,
             "content": "भशिरा¦ <lex>f.</lex> <i>Beta bengalensis</i> <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "भशिरा",
+            "eid": "29230",
+            "pagenum": 527,
+            "content": "भशिरा¦ f. (-रा) A sort of beet, (Beta Bengalensis)"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भशिरा",
+            "eid": "28349",
+            "pagenum": 615,
+            "content": "भशिरा¦ f. (-रा) A sort of beet, (<bot>Beta Bengalensis</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भशिरा",
+            "eid": "27863",
+            "pagenum": 552,
+            "content": "भशिरा¦ (रा) 1. <i>f.</i> A sort of beet."
+        }
     ]
 }

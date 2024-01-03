@@ -93,5 +93,37 @@
             "pagenum": 6,
             "content": "वराट¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Otterköpfchen</i> (als Münze gebraucht) <ls>TRIK. 3, 3, 206. 323.</ls> <ls>H. an. 2, 97.</ls> <ls>HALĀY. 3, 42.</ls> <ls>Spr. 1721.</ls> <div n='2'>— b) <i>Strick</i> <ls>HALĀY. 2, 442.</ls> <ls>RATNĀK.</ls> bei <ls>BHARATA</ls> zu <ls>AK. 2, 10, 27.</ls> <div n='1'>— 2) <lex>f.</lex> ई = वराडी <ls>As. Res. 3, 77.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वराट",
+            "eid": "35185",
+            "pagenum": 631,
+            "content": "वराट¦ m. (-टः) 1. A cord, a rope. 2. A Cowri: see the next."
+        }
+    ],
+    "STC": [
+        {
+            "word": "वराट",
+            "eid": "17883",
+            "pagenum": 628,
+            "content": "<b>varāṭa-</b>¦ <ab>m.</ab> cowrie, coquillage qui sert de petite monnaie ; corde (<ab>ifc.</ab>, pour <i>vaṭāraka- ?</i>) ; <i>-ka-</i> cowrie ; <i>-ikā-</i> <ab>f.</ab> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वराट",
+            "eid": "33666",
+            "pagenum": 736,
+            "content": "वराट¦ n. (-टः) .²1 A cord, a rope. .²2 A <i>Cowri:</i> see the next."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वराट",
+            "eid": "33256",
+            "pagenum": 659,
+            "content": "वराट¦ (टः) 1. <i>m.</i> A cord; cowrie."
+        }
     ]
 }

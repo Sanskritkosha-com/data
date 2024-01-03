@@ -151,5 +151,51 @@
             "pagenum": 7,
             "content": "अगाध¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अगाध",
+            "eid": "371",
+            "pagenum": 6,
+            "content": "<i>agādha</i>¦ 1. <i>°rudhira</i> eine große Menge Blut, <ls>Daśak.</ls> 5, 23. Nom. abstr. <i>°tā</i> f. <ls>Naiṣ.</ls> 2, 31. {part=,seq=383,type=,n=1}"
+        },
+        {
+            "word": "अगाध",
+            "eid": "371.1",
+            "pagenum": 6,
+            "content": "<i>agādha</i>¦ Adj. °free from greed, <ls>Vās.</ls> 24, 2. {part=,seq=384,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अगाध",
+            "eid": "226",
+            "pagenum": 5,
+            "content": "अगाध¦ n. (-धः) A hole, a chasm. mfn. (-धः-धा-धं) Very deep, bottomless. E. अ neg. गाध fixed place."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अगाध",
+            "eid": "150",
+            "pagenum": 4,
+            "content": "<b>a-gādha-</b>¦ <ab>a. v.</ab> insondable, très profond ; abondant.  <P><i>°jala-</i> <ab>nt.</ab> eau profonde.  <P><i>°buddhi-</i> <ab>a.</ab> à l'esprit profond."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अगाध",
+            "eid": "227",
+            "pagenum": 5,
+            "content": "अगाध¦ n. (-धः) A hole, a chasm. mfn. (-धः-धा-धं) Very deep, bottomless. .E. अ neg. गाध fixed place."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अगाध",
+            "eid": "190",
+            "pagenum": 5,
+            "content": "अ-गाध¦ (धं) 1. <i>n.</i> A hole; <i>a.</i> Bottomless; very deep."
+        }
     ]
 }

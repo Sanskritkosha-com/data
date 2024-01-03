@@ -58,5 +58,37 @@
             "pagenum": 7,
             "content": "मधुवार¦ V. 5. <lex>m.</lex> <ab>Sg.</ab> <ls>KIR. 9,53</ls>. <ls n='KIR. 9,'>57</ls>. <ls>DHARMAŚARM. 15,10</ls>. <ls n='DHARMAŚARM. 15,'>19</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मधुवार",
+            "eid": "21091",
+            "pagenum": 291,
+            "content": "<i>madhuvāra</i>¦ <ls>Śiś.</ls> 10, 14. — m. Sg. <ls>Kir.</ls> 9, 53. 57; <ls>Dharmaśarm.</ls> 15, 10. 19. {part=,seq=21384,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मधुवार",
+            "eid": "30385",
+            "pagenum": 548,
+            "content": "मधुवार¦ m. (-रः) Tippling, drinking frequently and repeatedly. E. मधु wine, वार quantity."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मधुवार",
+            "eid": "29391",
+            "pagenum": 639,
+            "content": "मधुवार¦ m. (-रः) Tippling, drinking frequently and repeatedly. .E. मधु wine, वार quantity."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मधुवार",
+            "eid": "28906",
+            "pagenum": 573,
+            "content": "मधु-वार¦ (रः) 1. <i>m.</i> Tippling."
+        }
     ]
 }

@@ -35,5 +35,43 @@
             "pagenum": 300,
             "content": "कूपिका <hom>b</hom> ¦ <lex>f.</lex> See कूपक.<info lex='f'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कूपिका",
+            "eid": "11082",
+            "pagenum": 152,
+            "content": "<i>kūpikā</i>¦ °a tank, <ls>Harṣac.</ls> 255, 16. {part=,seq=11248,type=,n=1}"
+        },
+        {
+            "word": "कूपिका",
+            "eid": "28539",
+            "pagenum": 393,
+            "content": "<i>kūpikā</i>¦ f. °Grube, <ls>Prabandh.</ls> 293, 1 v.u. (in <i>°avakarakūpikā</i> Müllgrube). {part=N,seq=28910,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कूपिका",
+            "eid": "11200",
+            "pagenum": 196,
+            "content": "कूपिका¦ f. (-का) A stone or rock in the middle of a stream: see कूपक."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कूपिका",
+            "eid": "11206",
+            "pagenum": 239,
+            "content": "कूपिका¦ f. (-का) A stone or rock in the middle of a stream: see कूपक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कूपिका",
+            "eid": "10651",
+            "pagenum": 203,
+            "content": "कूपिका¦ (का) 1. <i>f.</i> A stone or rock in the middle of a stream."
+        }
     ]
 }

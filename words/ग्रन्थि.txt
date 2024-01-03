@@ -180,5 +180,53 @@
             "pagenum": 7,
             "content": "ग्रन्थि¦ II. <i>Zipfel</i> (des Schnurrbartes) <ls>DAMAYANTĪK. 122</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ग्रन्थि",
+            "eid": "12614",
+            "pagenum": 173,
+            "content": "<i>granthi</i>¦ Zipfel (des Schnurrbartes), <ls>Damayantīk.</ls> 122. {part=,seq=12809,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ग्रन्थि",
+            "eid": "14157",
+            "pagenum": 250,
+            "content": "ग्रन्थि¦ m. (-न्थिः) 1. The joint or knot of a reed or cane, &c. 2. A tie, the knot of a cord, &c. 3. A joint or articulation of the body, 4. A plant, commonly Ganthiala: see ग्रन्थिपर्ण. 5. Crookedness, distortion. 6. A complaint, knotting of the vessels as in varicocele, &c. E. ग्रन्थ to connect, &c. Unadi affix इन्."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "ग्रन्थि",
+            "eid": "92",
+            "pagenum": 551,
+            "content": "<i>granthi</i>¦ <div n='P'/>(1) the root of <bot>PIPER LONGUM LINN.</bot> (MW); <div n='P'/>(2) <bot>CYNODON DACTYLON (LINN.) PERS.</bot> [Intern. Code] (DWH 3, p. 577; Nadk. 1, nr. 772); <div n='P'/>(3) <bot>CYPERUS ROTUNDUS LINN.</bot> (KB 4, p. 2638-2640); <div n='P'/>(4) = <i>granthiparṇa</i> (MW; PW; Vśs); <div n='P'/>(5) = <i>piṇḍālu</i> (MW; PW; Vśs); <div n='P'/>(6) = <i>bhadramustā</i> (MW; PW; Vśs); <div n='P'/>(7) = <i>hitāvalī</i> (MW; PW; unidentified)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ग्रन्थि",
+            "eid": "8908",
+            "pagenum": 237,
+            "content": "<b>granthi-</b>¦ <ab>m.</ab> nœud, nodosité, jointure, articulation, varice ; enchevêtrement, difficulté, <lbinfo n='5'/> doute ; (cloche ?) ; <i>-mant-</i> <ab>a.</ab> noueux, noué.  <P><i>°cchedaka-</i> <i>°bheda- -ka-</i> <ab>ag.</ab> coupeur de nœuds (qui servent de bourses).  <P><i>°parṇa-</i> <ab>m.</ab> <ab>n.</ab> d'une plante."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ग्रन्थि",
+            "eid": "14166",
+            "pagenum": 303,
+            "content": "ग्रन्थि¦ m. (-न्थिः) .²1 The joint or knot of a reed or cane, &c. .²2 A tie, the knot of a cord, &c. .²3 A joint or articulation of the body. .²4 A plant, commonly <i>Ganṭhiāla:</i> see ग्रन्थिपर्ण. .²5 Crookedness, distortion. .²6 A complaint, knotting of the vessels as in varicocele, &c. .E. ग्रन्थ to connect, &c. Uṇādi affix इन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ग्रन्थि",
+            "eid": "13622",
+            "pagenum": 265,
+            "content": "ग्रन्थि¦ (न्थिः) 1. <i>m.</i> The joint or knot of a reed or cane; a tie or knot; crookedness; rheumatism."
+        }
     ]
 }

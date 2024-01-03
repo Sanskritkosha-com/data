@@ -61,5 +61,43 @@
             "pagenum": 7,
             "content": "अतिमाय¦ <lex>Adj.</lex> <i>vom Blendwerk befreit</i> <ls>KIR. 18,30</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतिमाय",
+            "eid": "1183",
+            "pagenum": 17,
+            "content": "<i>atimāya</i>¦ Adj. vom Blendwerk befreit, <ls>Kir.</ls> 18, 30. {part=,seq=1207,type=,n=1}"
+        },
+        {
+            "word": "अतिमाय",
+            "eid": "1183.1",
+            "pagenum": 17,
+            "content": "<i>Atimāya</i>¦ °Subst. m. N. eines daitya, <ls>H</ls> 34, 29. 49. {part=,seq=1208,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अतिमाय",
+            "eid": "758",
+            "pagenum": 14,
+            "content": "अतिमाय¦ mfn. (-यः-या-यं) 1. Free from illusion. 2. Entirely liberated, or freed. E. अति and माया delusion."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतिमाय",
+            "eid": "552",
+            "pagenum": 14,
+            "content": "<b>ati-māya-</b>¦ <ab>a.</ab> libre d'illusions."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अतिमाय",
+            "eid": "759",
+            "pagenum": 17,
+            "content": "अतिमाय¦ mfn. (-यः-या-यं) .²1 Free from illusion. .²2 Entirely liberated or freed. .E. अति, and माया delusion."
+        }
     ]
 }

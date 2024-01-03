@@ -89,5 +89,51 @@
             "pagenum": 1,
             "content": "अरस/¦ (3. अ + रस) <lex>adj.</lex> <div n='1'> 1) <i>saftlos, geschmacklos</i>: अरसाश <i>Genuss fader, nicht saftiger Speisen, Kasteiung</i> <ls>KAUŚ. 141.</ls> अरसाशिन् <ls n='KAUŚ.'>42.</ls> <div n='1'>— 2) <i>kraftlos, wirkungslos, matt</i>: वि\\षम् <ls>ṚV. 1, 191, 16.</ls> अ\\र\\साः स^न्तु\\ कृत्व^रीः <ls>AV. 4, 18, 1.</ls> निरि^न्द्रिया अर\\साः स^न्तु\\ सर्वे^ (सपत्नाः) <ls n='AV.'>9, 2, 10.</ls> <ls n='AV.'>2, 27, 1.</ls> <ls n='AV. 2,'>31, 3.</ls> <ls n='AV.'>4, 6, 1.</ls> <ls n='AV. 4, 6,'>6.</ls> <ls n='AV. 4,'>7, 2.</ls> <ls n='AV.'>5, 8, 6.</ls> <ls n='AV. 5,'>13, 7.</ls> u.s.w. <div n='1'>— 3) <i>ohne Geschmackssinn</i>: ब्रह्म <ls>ŚAT. BR. 14, 6, 8, 8</ls> = <ls>BṚH. ĀR. UP. 3, 8, 8.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अरस",
+            "eid": "4745",
+            "pagenum": 64,
+            "content": "<i>arasa</i>¦ Adj. ° = <i>vītarāga</i>, <ls>H</ls> 5, 2. {part=,seq=4807,type=,n=1}"
+        },
+        {
+            "word": "अरस",
+            "eid": "27946",
+            "pagenum": 384,
+            "content": "<i>arasa</i>¦ °Subst. m. kein <i>rasa</i> (= Stimmung). Abstr. <i>°tā</i> Dhanika zu <ls>Daśar.</ls> IV, 36 (S. 117, Z. 1 v.u.). {part=N,seq=28317,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अरस",
+            "eid": "3149",
+            "pagenum": 55,
+            "content": "अरस¦ mfn. (-सः-सा-सं) 1. Insipid, tasteless. 2. Dull, flat, (as a composition.) E. अ neg. रस flavour."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अरस",
+            "eid": "3710",
+            "pagenum": 78,
+            "content": "<b>a-rasa-</b>¦ <ab>a.</ab> qui n'a pas le sens du goût.  <P><i>°jña-</i> <ab>a.</ab> qui n'a pas de goût pour."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अरस",
+            "eid": "3151",
+            "pagenum": 66,
+            "content": "अरस¦ mfn. (-सः-सा-सं) .²1 Insipid, tasteless. .²2 Dull, flat, (as a composition.) .E. अ neg. रस flavour."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अरस",
+            "eid": "2618",
+            "pagenum": 52,
+            "content": "अ-रस¦ (सः-सा-सं) <i>a.</i> Insipid, tasteless, flat. Also अ-रसिक."
+        }
     ]
 }

@@ -20,5 +20,37 @@
             "pagenum": 87,
             "content": "*उन्दर¦ <lex>m.</lex>  mouse, rat."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उन्दर",
+            "eid": "8450",
+            "pagenum": 116,
+            "content": "°<i>undara</i>¦ m. Maus, Ratte, <ls>S</ls> I, 404, 6. {part=,seq=8565,type=°,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उन्दर",
+            "eid": "7217",
+            "pagenum": 124,
+            "content": "उन्दर¦ m. (-रः) A rat."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उन्दर",
+            "eid": "7220",
+            "pagenum": 151,
+            "content": "उन्दर¦ m. (-रः) A rat."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उन्दर",
+            "eid": "6625",
+            "pagenum": 124,
+            "content": "उन्दर¦ (रः) 1. <i>m.</i> A rat."
+        }
     ]
 }

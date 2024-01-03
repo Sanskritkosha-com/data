@@ -31,5 +31,37 @@
             "pagenum": 5,
             "content": "आत्मबन्धु¦ <lex>m.</lex> <i>ein naher Verwandter</i> (ein Sohn von des Vaters oder der Mutter Schwester und ein Sohn von der Mutter Bruder)."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आत्मबन्धु",
+            "eid": "6842",
+            "pagenum": 93,
+            "content": "<i>ātmabandhu</i>¦ m. ein naher Verwandter (ein Sohn von des Vaters oder der Mutter Schwester und ein Sohn von der Mutter Bruder). {part=,seq=6933,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आत्मबन्धु",
+            "eid": "5263",
+            "pagenum": 90,
+            "content": "आत्मबन्धु¦ m. (-न्धुः) One's own kinsman, a first cousin or father's sister's son, mother's brother's son, mother's sister's son. E. आत्मन् own, and बन्धु relative."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आत्मबन्धु",
+            "eid": "5265",
+            "pagenum": 109,
+            "content": "आत्मबन्धु¦ m. (-न्धुः) One's own kinsman, a first cousin or father's sister's son, mother's brother's son, mother's sister's son. .E. आत्मन् own, and बन्धु relative."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आत्मबन्धु",
+            "eid": "4633",
+            "pagenum": 87,
+            "content": "आत्म-बन्धु¦ (न्धुः) 2. <i>m.</i> Own kinsman."
+        }
     ]
 }

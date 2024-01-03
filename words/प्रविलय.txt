@@ -73,5 +73,29 @@
             "pagenum": 7,
             "content": "प्रविलय¦ IV. <i>Untergang</i> <ls>CAṆḌĪŚ. 90</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रविलय",
+            "eid": "19570",
+            "pagenum": 270,
+            "content": "<i>pravilaya</i>¦ Untergang, <ls>Caṇḍīś.</ls> 90. {part=,seq=19845,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रविलय",
+            "eid": "27397",
+            "pagenum": 495,
+            "content": "प्रविलय¦ m. (-यः) 1. Melting away. 2. Complete dissolution."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रविलय",
+            "eid": "15317",
+            "pagenum": 484,
+            "content": "<b>pra-vilaya-</b>¦ <ab>m.</ab> dissolution."
+        }
     ]
 }

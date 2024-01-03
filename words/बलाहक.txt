@@ -288,5 +288,51 @@
             "pagenum": 7,
             "content": "बलाहक¦ IV. <lex>m.</lex> <ab>N. pr.</ab> eines Befehlshabers <ls>KĀD. (1883) 77,7. 78,11. 82,2</ls> <ab>u. s. w.</ab>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "बलाहक",
+            "eid": "20072",
+            "pagenum": 277,
+            "content": "<i>balāhaka</i>¦ m. ° = <i>balam ā samantāt ghnantīti balāhanaḥ, balāhana eva balāhakāḥ … śūrāḥ</i>, <ls>Yudh.</ls> 7, 114. {part=,seq=20351,type=,n=1}"
+        },
+        {
+            "word": "बलाहक",
+            "eid": "20072.1",
+            "pagenum": 277,
+            "content": "<i>Balāhaka</i>¦ m. N. pr. eines Befehlshabers, <ls>Kād.</ls> (1883) 77, 7; 78, 11; 82, 2 etc. — Name eines °Masseurs, <ls>S</ls> I, 403, 5. {part=,seq=20352,type=,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "बलाहक",
+            "eid": "28522",
+            "pagenum": 514,
+            "content": "बलाहक¦ m. (-कः) 1. A mountain. 2. A cloud. 3. One of the Nāgas or infernal serpents. 4. The name of a demon. 5. A kind of crane. 6. Name of one of the seven clouds which arise at the end of the world. E. बल strength, अ the negative prefix to हा to abandon, aff. क्वुन्, this word is differently derived also, and preferably written वलाहक, q. v."
+        }
+    ],
+    "STC": [
+        {
+            "word": "बलाहक",
+            "eid": "15878",
+            "pagenum": 508,
+            "content": "<b>balāhaka-</b>¦ <ab>m.</ab> nuée d'orage, nuage en général ; <ab>n.</ab> d'un Nāga ; d'un chef ; d'un cheval de Viṣṇu ; d'un frère de Jayadratha ; d'une montagne."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "बलाहक",
+            "eid": "27684",
+            "pagenum": 600,
+            "content": "बलाहक¦ m. (-कः) .²1 A mountain. .²2 A cloud. .²3 One of the <i>Nāgas</i> or infernal serpents. .²4 The name of a demon. .E. बल strength, अ the negative prefix to हा to abandon, aff. .E. क्वुन् strength, this word is differently derived also, and preferably written वलाहक, q. v."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "बलाहक",
+            "eid": "27189",
+            "pagenum": 538,
+            "content": "बला_हक¦ (कः) 1. <i>m.</i> A mountain; a cloud; a serpent; a demon."
+        }
     ]
 }

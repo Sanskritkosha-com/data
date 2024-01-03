@@ -250,5 +250,57 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> त्विष् und त्वैषीरथि¦ III. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "त्विष्",
+            "eid": "15024",
+            "pagenum": 207,
+            "content": "1. <i>tviṣ</i>¦ Z. 6. 7 lies <i>ava</i> statt <i>ā</i> und wohnen statt nehmen. {part=,seq=15260,type=,n=1}"
+        },
+        {
+            "word": "त्विष्",
+            "eid": "15024.1",
+            "pagenum": 207,
+            "content": "<i>tviṣ</i>¦ f. *Rede, Wort, <ls>S</ls> I, 195, 5. {part=,seq=15261,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "त्विष्",
+            "eid": "18281",
+            "pagenum": 328,
+            "content": "त्विष्¦ f. (-त्विट्) 1. Light. 2. Splendour, beauty. 3. Speech. 4. Wish, desire. 5. Custom, practice, usage. E. त्विष् to shine, affix क्विप्; also with टाप् added त्विषा."
+        }
+    ],
+    "STC": [
+        {
+            "word": "त्विष्",
+            "eid": "10280",
+            "pagenum": 295,
+            "content": "<b>2 tviṣ-</b>¦ <ab>f.</ab> scintillement, éclat, clarté, beauté, couleur ; puissance, autorité."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "त्विष्",
+            "eid": "18297",
+            "pagenum": 394,
+            "content": "त्विष्¦ f. (-त्विट्) .²1 Light. .²2 Splendour, beauty. .²3 Speech. .²4 Wish, desire. .²5 Custom, practice, usage. .E. त्विष to shine, affix क्विप्; also with टाप् added त्विषा."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "त्विष्",
+            "eid": "17771",
+            "pagenum": 349,
+            "content": "त्विष्¦ (औ, ङ) त्वेषते 1. <i>d.</i> To shine. With अव to give; to dwell."
+        },
+        {
+            "word": "त्विष्",
+            "eid": "17772",
+            "pagenum": 349,
+            "content": "त्विष्¦ (त्विट्) 5. <i>f.</i> Light; beauty; speech; wish; custom."
+        }
     ]
 }

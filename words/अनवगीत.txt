@@ -29,5 +29,51 @@
             "pagenum": 7,
             "content": "अनवगीत¦ <lex>Adj.</lex> <i>nicht zum Ueberdruss geworden</i> <ls>JĀTAKAM. 1</ls>. <ls n='JĀTAKAM.'>9,37</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनवगीत",
+            "eid": "2220",
+            "pagenum": 30,
+            "content": "<i>anavagīta</i>¦ Adj. nicht zum Überdruß geworden, <ls>Jātakam.</ls> 1. 9, 37. {part=,seq=2254,type=,n=2}"
+        },
+        {
+            "word": "अनवगीत",
+            "eid": "27782",
+            "pagenum": 382,
+            "content": "°<i>anavagīta</i>¦ Adj. = <i>garhāvarjita</i>, <ls>Uttarar.</ls> II, 2<sup>b</sup>. {part=N,seq=28153,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनवगीत",
+            "eid": "1269",
+            "pagenum": 23,
+            "content": "अनवगीत¦ mfn. (-तः-ता-तं) Excellent, good, uncensured. E. अन् neg. अवगीत disparaged."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनवगीत",
+            "eid": "1279",
+            "pagenum": 28,
+            "content": "<b>an-avagīta-</b>¦ <ab>a. v.</ab> non blâmé."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनवगीत",
+            "eid": "1271",
+            "pagenum": 27,
+            "content": "अनवगीत¦ mfn. (-तः-ता-तं) Excellent, good, uncensured. .E. अन् neg. अघगीत disparaged."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनवगीत",
+            "eid": "1064",
+            "pagenum": 22,
+            "content": "अन_वगीत¦ (तः-ता-तं) <i>a.</i> Unblamed."
+        }
     ]
 }

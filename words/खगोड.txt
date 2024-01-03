@@ -39,5 +39,29 @@
             "pagenum": 2,
             "content": "खगोड¦ <lex>m.</lex> <i>Saccharum spontaneum Lin.</i> <ls>RATNAM.</ls> bei <ls>WILS.</ls> — Wohl nur ein verlesenes खग्गड ."
         }
+    ],
+    "SHS": [
+        {
+            "word": "खगोड",
+            "eid": "12570",
+            "pagenum": 221,
+            "content": "खगोड¦ m. (-डः) A kind of reed, (Saccharum spontaneum.)"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खगोड",
+            "eid": "12576",
+            "pagenum": 268,
+            "content": "खगोड¦ m. (-डः) A kind of reed, (<bot>Saccharum spontaneum</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खगोड",
+            "eid": "12030",
+            "pagenum": 232,
+            "content": "खगोड¦ (डः) 1. <i>m.</i> A kind of reed."
+        }
     ]
 }

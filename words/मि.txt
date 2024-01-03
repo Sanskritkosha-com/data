@@ -209,5 +209,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> मि¦ mit परि V. <i>rings einschlagen</i> <ls>ĀPAST. ŚR. 11,7,7</ls>. — Mit सम्, संमित <i>fertig gebaut</i> <ls>ĀPAST. GṚHY. 17,6</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मि",
+            "eid": "21655",
+            "pagenum": 299,
+            "content": "1. <i>mi</i>¦ mit <i>pari</i>, rings einschlagen, <ls>Āpast. Śr.</ls> 11, 7, 7. — Mit <i>sam, saṃmita</i> fertig gebaut, <ls>Āpast. Gṛhy.</ls> 17, 6. {part=,seq=21953,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मि",
+            "eid": "31452",
+            "pagenum": 567,
+            "content": "मि(डुञ्)डुमिञ्¦ r. 5th cl. (मिनोति मिनुते) 1. To cast, to throw, to throw about, to scatter. 2. To measure. 3. To perceive. (This root is not used in classics.)"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मि",
+            "eid": "16773",
+            "pagenum": 567,
+            "content": "<b>1 MI-</b>¦ <i>minoti ;</i> 1 <i>mita-</i> -- observer, percevoir. <lbinfo n='6'/>"
+        },
+        {
+            "word": "मि",
+            "eid": "16774",
+            "pagenum": 567,
+            "content": "<b>2 MI-</b>¦ <ab>v.</ab> <i>MĪ-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मि",
+            "eid": "30350",
+            "pagenum": 661,
+            "content": "मि(डु ञ्,) डुमिञ्¦ r. 5th cl. (मिनोति मिनुते) To cast, to throw, to throw about, to scatter."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मि",
+            "eid": "29887",
+            "pagenum": 592,
+            "content": "मि¦ (ड, ञ) मिनोति, मिनुते 5. <i>c.</i> To cast, to throw, to scatter."
+        }
     ]
 }

@@ -71,5 +71,37 @@
             "pagenum": 7,
             "content": "कतिथ¦ II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कतिथ",
+            "eid": "9626",
+            "pagenum": 132,
+            "content": "<i>katitha</i>¦ 1. <ls>R. Gorr. 2, 74, 6.</ls> {part=,seq=9756,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कतिथ",
+            "eid": "8775",
+            "pagenum": 151,
+            "content": "कतिथ¦ mfn. (-थः-था-थं) What, how much. E. थुक् added to कति."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कतिथ",
+            "eid": "8780",
+            "pagenum": 184,
+            "content": "कतिथ¦ mfn. (-थः-था-थं) What, how much. .E. थुक् added to कति."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कतिथ",
+            "eid": "8209",
+            "pagenum": 154,
+            "content": "कतिथ¦ (थः-था-थं) <i>a.</i> How much?"
+        }
     ]
 }

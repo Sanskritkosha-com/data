@@ -31,5 +31,29 @@
             "pagenum": 6,
             "content": "लतातरु¦ <lex>m.</lex> Bez. verschiedener <i>Bäume: Shorea robusta</i> <ls>TRIK. 2, 4, 21.</ls> <i>Borassus flabelliformis</i> und <i>Orangenbaum</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "लतातरु",
+            "eid": "34135",
+            "pagenum": 613,
+            "content": "लतातरु¦ m. (-रुः) 1. The orange tree. 2. The palm tree. 3. The Sāl tree. E. लता a creeper, and तरु a tree: fit for creepers to cling to."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "लतातरु",
+            "eid": "32759",
+            "pagenum": 716,
+            "content": "लतातरु¦ m. (-रुः) .²1 The orange tree. .²2 The palm tree. .²3 The <i>Śāl</i> tree. .E. लता a creeper, and तरु a tree: fit for creepers to cling to."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "लतातरु",
+            "eid": "32335",
+            "pagenum": 640,
+            "content": "लता-तरु¦ (रुः) 2. <i>m.</i> The orange tree; the palm tree; the <i>Sāl</i> tree."
+        }
     ]
 }

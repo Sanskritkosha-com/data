@@ -83,5 +83,35 @@
             "pagenum": 7,
             "content": "ईर¦ I. <lex>Adj.</lex> <i>treibend, jagend</i> <ls>DAMAYANTĪK. 201</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ईर",
+            "eid": "7796",
+            "pagenum": 107,
+            "content": "<i>īra</i>¦ Adj. treibend, jagend, <ls>Damayantīk.</ls> 201. [<ls>H</ls> 11, 45.] {part=,seq=7907,type=,n=2}"
+        },
+        {
+            "word": "ईर",
+            "eid": "7797",
+            "pagenum": 107,
+            "content": "<i>īra</i>¦ m. ° = <i>ripūṇāṃ kṣepa</i>, <ls>H</ls> 43, 289. {part=,seq=7908,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ईर",
+            "eid": "6464",
+            "pagenum": 111,
+            "content": "ईर¦ r. 2nd cl. (ईर्त्ते) 1. To go. 2. To shake. r. 1st and 10th cls. (ईरति, ईरयति) 1. To go. 2. To throw or direct, to drive or force on; with उत् prefixed, to say or speak; with प्र, to send, to make to go; with सम्, to go like the wind."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ईर",
+            "eid": "6466",
+            "pagenum": 135,
+            "content": "ईर¦ r. 2nd cl. (ईर्त्ते) .²1 To go. .²2 To shake. r. 1st and 10th cls. (ईरति, ईरयति) .²1 To go. .²2 To throw or direct, to drive or force on; with उत् prefixed, to say or speak: with प्र, to send, to make to go; with सम्, to go like the wind."
+        }
     ]
 }

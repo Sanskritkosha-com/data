@@ -154,5 +154,43 @@
             "pagenum": 7,
             "content": "2. स्म¦ = स्मस् 1. pl. von 1. अस्, z. B. <ls>MBH. 1, 7875.</ls> <ls n='MBH.'>3, 1858.</ls> <ls n='MBH. 3,'>3062.</ls> <ls>R. 1, 63, 31.</ls> <ls n='R. 1,'>65, 18.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "स्म",
+            "eid": "45917",
+            "pagenum": 817,
+            "content": "स्म¦ Ind. 1. An expletive. 2. A particle which added to verbs in the present tense gives them a past sense, as हन्तिस्म रावणं रामः RĀMA killed (instead of kills) RĀVAṆA. It is often added to the prohibitive particle मा and used with the aorist or imperfect. E. षो to end or destroy ङ्म aff.; or ष्मिङ् to smile, aff. ड ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "स्म",
+            "eid": "24158",
+            "pagenum": 874,
+            "content": "<b>1 sma</b>¦ particule accompagnant un présent auquel elle donne valeur de passé narratif ; particule expressive, <ab>not.</ab> après <i>-mā.</i>"
+        },
+        {
+            "word": "स्म",
+            "eid": "24159",
+            "pagenum": 874,
+            "content": "<b>2 sma</b>¦ pour <i>-smas.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्म",
+            "eid": "43412",
+            "pagenum": 958,
+            "content": "स्म¦ <i>ind.</i> .²1 An expletive. .²2 A particle which added to verbs in the present tense gives them a past sense, as हन्तिस्मरावणंरामः RĀMA killed (instead of kills) RĀVAṆA. .E. षो to end or destroy, ङ्म aff., or ष्मिङ to smile, aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्म",
+            "eid": "43207",
+            "pagenum": 881,
+            "content": "स्म¦ <i>adv.</i> An expletive which being affixed to verbs converts the present tense into the past."
+        }
     ]
 }

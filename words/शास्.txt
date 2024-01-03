@@ -227,5 +227,37 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> शास्¦ mit समनु VI. <i>zur Belehrung sagen</i> <ls>JĀTAKAM. 3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शास्",
+            "eid": "24981",
+            "pagenum": 344,
+            "content": "1. <i>śās</i>¦ mit <i>samanu</i> zur Belehrung sagen, <ls>Jātakam.</ls> 3. {part=,seq=25322,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शास्",
+            "eid": "40019",
+            "pagenum": 716,
+            "content": "शास्(उ)शासु¦ r. 2nd cl. (शास्ति) 1. To instruct, to inform. 2. To order, to direct, to enact. 3. To rule, to govern. 4. To correct, to punish. 5. To advise. (शास्ते) 1. To wish or desire: with आङ् prefixed, r. 1st cl. (आशासते) r. 2nd cl. (आशास्ते) To wish well to, to bless."
+        }
+    ],
+    "STC": [
+        {
+            "word": "शास्",
+            "eid": "20269",
+            "pagenum": 726,
+            "content": "<b>ŚĀS-</b>¦ <i>śāsti</i> (<i>śiṣyāt aśāt</i>) <i>śāste</i> (<i>śāsīta</i> <i>śāsāna-</i>) <lbinfo n='5'/> <i>śāsati -te ;</i> <i>śaśāsa</i> (<i>śaśāsuḥ</i>) ; <i>aśiṣat ;</i> <i>śāsiṣyati -te ; śāsyate śiṣyate ; śiṣṭa-</i> (<i>śasta-</i>) <i>śāsita- śāstum</i> <i>śāsitum śāsitvā °śiṣya °śāsya</i> -- punir, châtier ; tenir en son pouvoir, régir ; gouverner, régner sur (aussi avec <i>rājyam</i>) ; ordonner, commander (à <ab>qq'un</ab>, <ab>acc.</ab>, de faire <ab>qqch.</ab>, <ab>inf.</ab> ou discours direct suivi d'<i>iti</i>) ; prescrire ; enseigner, instruire (de <ab>qqch.</ab>, <ab>loc.</ab>) ; = <i>ŚAṂS-</i> louer ; annoncer, proclamer ; <ab>pass.</ab> être puni, etc."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शास्",
+            "eid": "37829",
+            "pagenum": 759,
+            "content": "शास्¦ (ल, उ, ञ) शास्ति 2. <i>a.</i> To instruct; to order; to govern. शास्ते 2. <i>d.</i> To desire. With आ <i>d.</i> To wish well, bless."
+        }
     ]
 }

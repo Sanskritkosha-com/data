@@ -256,5 +256,53 @@
             "pagenum": 5,
             "content": "बाहु¦ <div n='1'> 1) <div n='2'> f) überh. <i>Seite einer geometrischen Figur</i> <ls>COLEBR. Alg. 58.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "बाहु",
+            "eid": "20204",
+            "pagenum": 278,
+            "content": "<i>bāhu</i>¦ *f., Arm, <ls>Pūrṇabh.</ls> 99, 24. {part=,seq=20484,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "बाहु",
+            "eid": "28741",
+            "pagenum": 518,
+            "content": "बाहु¦ m. (-हुः) 1. The arm. 2. The side of any angular geometrical figure, the leg of a triangle, &c. 3. A door-post. E. बाध् to oppose, कु Unādi aff. and ध changed to ह ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "बाहु",
+            "eid": "15949",
+            "pagenum": 513,
+            "content": "<b>bāhu-</b>¦ <ab>m.</ab> bras, avant-bras ; patte de devant <lbinfo n='4'/> ; <ab>n.</ab> de divers personnages dont un Daitya, <lbinfo n='3'/> un prince, etc.  <P><i>°daṇḍa-</i> <ab>m.</ab> bras, <ab>not.</ab> bras puissant.  <P><i>°dā-</i> <ab>f.</ab> femme de Parīkṣit ; <ab>n.</ab> d'une rivière.  <P><i>°niḥsṛta-</i> <ab>nt.</ab> procédé de lutte qui consiste à faire tomber l'arme de l'adversaire.  <P><i>°pariṣvaṅga-</i> <ab>m.</ab> étreinte.  <P><i>°pāśa-</i> <ab>m.</ab> bras noués autour de <ab>qq'un</ab> ; <ab>désign.</ab> d'une certaine attitude dans la lutte.  <P><i>°prasāra-</i> <ab>m.</ab> <i>-ṇa-</i> <ab>nt.</ab> bras tendus, fait de tendre les bras.  <P><i>°bandhana-</i> <ab>nt.</ab> bras noués autour de <ab>qq'un</ab> ; <ab>m.</ab> omoplate.  <P><i>°bala-</i> <ab>nt.</ab> puissance des bras ; <ab>m.</ab> <ab>n.</ab> d'un prince ; <i>-in-</i> <ab>a.</ab> aux bras puissants.  <P><i>°bādha-</i> <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> d'un peuple.  <P><i>°madhya-</i> <ab>a.</ab> <ab>pl.</ab> (actes) qui proviennent des bras et qui (de ce fait) sont de valeur moyenne.  <P><i>°yuddha-</i> <ab>nt.</ab> combat singulier, corps à corps ; <i>°yodha- -in-</i> <ab>m.</ab> lutteur.  <P><i>°vikṣepa-</i> <ab>m.</ab> fait de projeter les bras, <ab>not.</ab> en nageant.  <P><i>°vimarda-</i> <ab>m.</ab> = <i>°yuddha-.</i>  <P><i>°vīrya-</i> <ab>nt.</ab> puissance des bras.  <P><i>°vyāyāma-</i> <ab>m.</ab> gymnastique, sport athlétique. <lbinfo n='5'/>  <P><i>°śakti-</i> <ab>m.</ab> <ab>n.</ab> d'un roi.  <P><i>°śālin-</i> <ab>a.</ab> = <i>°balin- ;</i> <ab>m.</ab> <ab>n.</ab> de Śiva ; d'un Dānava ; d'un guerrier ; <i>°śālitā-</i> <ab>f.</ab> héroïsme.  <P><i>°śikhara-</i> <ab>nt.</ab> épaule.  <P><i>°sahasrin-</i> <ab>a.</ab> aux mille bras.  <P><i>°svastika-</i> <ab>m.</ab> ou <ab>nt.</ab> bras croisés.  <P><i>bāhūtkṣepam</i> <ab>adv.</ab> en levant les bras.  <P><i>bāhū-bāhavi</i> <ab>adv.</ab> bras contre bras, corps à corps."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "बाहु",
+            "eid": "2172",
+            "pagenum": 2,
+            "content": "<b>Bāhu,</b>¦ ‘arm,’ as a measure of length, is found in the Taittirīya Saṃhitā (vi. 2, 11, 1) and often in the Sūtras."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "बाहु",
+            "eid": "27886",
+            "pagenum": 605,
+            "content": "बाहु¦ m. (-हुः) .²1 The arm. .²2 The side of any angular geometrical figure, the leg of a triangle, &c. .E. बाध to oppose, उ Uṇādi aff. and ध changed to ह."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "बाहु",
+            "eid": "27394",
+            "pagenum": 542,
+            "content": "बाहु¦ (हुः) 2. <i>m.</i> The arm; the leg of a triangle."
+        }
     ]
 }

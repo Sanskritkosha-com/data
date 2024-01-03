@@ -321,5 +321,45 @@
             "pagenum": 7,
             "content": "अपि¦ I. 3. <i>vielleicht</i> <ls>JĀTAKAM. 22</ls>. <ls n='JĀTAKAM.'>23</ls>. <ls n='JĀTAKAM.'>28,36</ls>. <ls n='JĀTAKAM.'>31,68</ls>. <ls n='JĀTAKAM.'>32,34</ls>. अप्येव <ab>dass.</ab> <ls>DIVYĀVAD. 2,12</ls>. <ls n='DIVYĀVAD.'>5,5</ls>. <ls n='DIVYĀVAD.'>71,20</ls>. अपि — अपि <i>sowohl — als auch</i> <ls n='DIVYĀVAD.'>57,18</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपि",
+            "eid": "3603",
+            "pagenum": 49,
+            "content": "<i>api</i>¦ 2. h) <i>api nu</i> Fragepartikel, <ls>Vajracch.</ls> 25, 22; 39, 17; 40, 17; 41, 10; 42, 8. — vielleicht, <ls>Jātakam.</ls> 22. 23. 28, 36; 31, 68; 32, 34. <i>apy eva</i> dass. <ls>Divyāvad.</ls> 2, 12; 5, 5; 71, 20. <i>api-api</i> sowohl—als auch, 57, 18. {part=,seq=3653,type=,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अपि",
+            "eid": "2221",
+            "pagenum": 39,
+            "content": "अपि¦ ind. A preposition and particle corresponding to even, though, yet, assuredly, &c. and implying. 1. Interrogation. 2. Earnest interrogation or enquiry. 3. Doubt. 4. Possibility. 5. Reproof; and. 6. Conjunction. 7. It is often an expletive. E. अ neg. and पि to go, with क्विप् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपि",
+            "eid": "2528",
+            "pagenum": 54,
+            "content": "<b>api</b>¦ <ab>conj.</ab> et <ab>adv.</ab> <ab>encl.</ab> ; aussi (encore, même ; parfois ; mais, seulement, tout au moins) ; après numéral, indique la totalité, <i>dvāv api</i> et <i>ubhāv api</i> tous les deux ; <i>api tu</i> (<i>api</i> étant initial) mais pourtant ; <i>api ca</i> (<i>api</i> étant initial) <lbinfo n='4'/> et de plus ; <i>api...api</i> aussi bien...que, et...et ; <i>na...vāpi</i> ni...ni ; <i>tathāpi</i> néanmoins ; <i>yady api</i> même si, bien que ; <i>ko 'pi</i> quelqu <lbinfo n='2'/>'un ; <i>kutrāpi</i> en quelque endroit que ce soit ; <i>yo 'pi</i> quiconque -- particule (initiale) interrogative ou optative ; est-ce que ? plaise au ciel que, pourvu que ! <i>api nāma</i> je souhaite que, peut-être -- <ab>préf.</ab> marquant adjonction. voisinage."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अपि",
+            "eid": "2223",
+            "pagenum": 47,
+            "content": "अपि¦ <i>ind.</i> A preposition and particle corresponding to even, though, yet, assuredly, &c. and implying .²1 Interrogation. .²2 Earnest interrogation or enquiry. .²3 Doubt. .²4 Possibility. .²5 Reproof; and, .²6 Conjunction. .²7 It is often an expletive. .E. अ neg. and पि to go, with क्विप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अपि",
+            "eid": "1846",
+            "pagenum": 37,
+            "content": "अपि¦ <i>prep.</i> On. <i>conj.</i> Even, also."
+        }
     ]
 }

@@ -129,5 +129,45 @@
             "pagenum": 7,
             "content": "वेत्र¦ VI. <lex>n.</lex> <i>Tau</i> <ls><ab>ebend.</ab> 230,3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वेत्र",
+            "eid": "24424",
+            "pagenum": 336,
+            "content": "<i>vetra</i>¦ n. Tau, <ls>Divyāvad.</ls> 230, 3. {part=,seq=24760,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वेत्र",
+            "eid": "38395",
+            "pagenum": 687,
+            "content": "वेत्र¦ m. (-त्रः) A reed, a cane, the ratan. n. (-त्रं) A stick, a staff. E. वि to go, Unādi aff. त्रल ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वेत्र",
+            "eid": "19460",
+            "pagenum": 693,
+            "content": "<b>vetra-</b>¦ <ab>m.</ab> <ab>nt.</ab> sorte de grand roseau, Calamus <lbinfo n='3'/> fasciculatus ; canne, bâton ; <i>-vant-</i> <ab>a.</ab> qui contient des roseaux, qui consiste en roseaux ; <ab>m.</ab> <ab>n.</ab> d'un être mythique, fils de Pūṣan ; <i>-vatī-</i> <ab>f.</ab> gardienne de porte ; forme de Durgā ; <ab>n.</ab> d'un affluent de la Yamunā (Betwâ).  <P><i>°kāra-</i> <ab>m.</ab> qui travaille les roseaux.  <P><i>°kīcaka-veṇu-</i> <ab>m.</ab> <ab>pl.</ab> les 3 variétés de roseaux ainsi nommées.  <P><i>°grahaṇa-</i> <ab>nt.</ab> (fait de tenir une canne), fonction de portier.  <P><i>°dharā-</i> <ab>f.</ab> gardienne de porte.  <P><i>°yaṣṭi-</i> <ab>f.</ab> canne, baguette ; <i>°latā-</i> <ab>id.</ab> ; <i>°latāmaya- -ī-</i> <ab>a.</ab> fait de cannes, de baguettes ; <i>°latā-caya-</i> <ab>m.</ab> tas de bâtons.  <P><i>°vyāsakta-hasta-</i> <ab>a.</ab> dont les mains s'agrippent <lbinfo n='4'/> à un roseau.   <P><i>°hasta-</i> (qui tient une canne, etc., à la main) <ab>m.</ab> porte-bâton.  <P><i>vetrāsanāsīna-</i> <ab>partic.</ab> assis sur un siège de roseaux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वेत्र",
+            "eid": "36683",
+            "pagenum": 805,
+            "content": "वेत्र¦ m. (-त्रः) A reed, a cane, the <i>Ratan.</i> n. (-त्रं) A stick, a staff. .E. वि to go, Uṇādi aff. त्र."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वेत्र",
+            "eid": "36300",
+            "pagenum": 724,
+            "content": "वेत्र¦ (त्रः) 1. <i>m.</i> A reed. <i>n.</i> A stick."
+        }
     ]
 }

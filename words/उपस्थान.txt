@@ -151,5 +151,57 @@
             "pagenum": 7,
             "content": "उपस्थान¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उपस्थान",
+            "eid": "8709",
+            "pagenum": 119,
+            "content": "<i>upasthāna</i>¦ m. Bez. der Sprüche, unter denen das Herantreten an die Dhiṣṇya geschieht, <ls>Āpast. Śr.</ls> 11, 14, 8. {part=,seq=8826,type=,n=3}"
+        },
+        {
+            "word": "उपस्थान",
+            "eid": "28294",
+            "pagenum": 389,
+            "content": "<i>upasthāna</i>¦ n. °'Hinzutritt' (als eine besondere Form von Einnahmen), 93, 4 v.u.; 94, 10. {part=N,seq=28665,type=,n=3}"
+        },
+        {
+            "word": "उपस्थान",
+            "eid": "28295",
+            "pagenum": 389,
+            "content": "<i>upasthāna</i>¦ n. °Ruhigstehen, <ls>Kauṭ.</ls> 138, 1. Vgl. <ls>J. J. Meyer</ls>, 220, Anm. 4. {part=N,seq=28666,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उपस्थान",
+            "eid": "7560",
+            "pagenum": 130,
+            "content": "उपस्थान¦ n. (-नं) 1. Proximity, nearness. 2. Obtaining, getting. 3. An assembly. E. उप near, स्था to stay, ल्युट् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उपस्थान",
+            "eid": "7053",
+            "pagenum": 157,
+            "content": "<b>upa-sthāna-</b>¦ <ab>nt.</ab> fait d'approcher ou d'apparaître <lbinfo n='8'/> ; de servir ; de rendre hommage ; assemblée.  <P><i>°gṛha-</i> <ab>nt.</ab> salle de réception."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उपस्थान",
+            "eid": "7563",
+            "pagenum": 159,
+            "content": "उपस्थान¦ n. (-नं) .²1 Proximity, nearness. .²2 Obtaining, getting. .²3 An assembly. .E. उप near, स्था to stay, ल्युट् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उपस्थान",
+            "eid": "6975",
+            "pagenum": 130,
+            "content": "उप-स्थान¦ (नं) 1. <i>n.</i> Nearness; obtaining; assembly."
+        }
     ]
 }

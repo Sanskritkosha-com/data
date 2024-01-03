@@ -55,5 +55,29 @@
             "pagenum": 4,
             "content": "निध्वान¦ (von ध्वन् mit नि) <lex>m.</lex> <i>Laut</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "निध्वान",
+            "eid": "16782",
+            "pagenum": 232,
+            "content": "*<i>nidhvāna</i>¦ m. Laut, <ls>Śṛṅgārasarv.</ls> 138<sup>b</sup>. {part=,seq=17034,type=*,n=1}"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निध्वान",
+            "eid": "21722",
+            "pagenum": 468,
+            "content": "निध्वान¦ m. (-नः) Sound. .E. नि before ध्वन to sound, affix घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निध्वान",
+            "eid": "21207",
+            "pagenum": 417,
+            "content": "नि-ध्वान¦ (नः) 1. <i>m.</i> Sound."
+        }
     ]
 }

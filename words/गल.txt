@@ -164,5 +164,57 @@
             "pagenum": 2,
             "content": "गल¦ <div n='1'> 1) <lex>m.</lex> <ls>P. 8, 2, 21</ls>, <ls>Sch.</ls>  <div n='2'> a) (von 2. गर्) <i>Kehle, Hals</i> <ls>AK. 2, 6, 2, 39.</ls> <ls>H. 588.</ls> <ls>an. 2, 484.</ls> <ls>MED. l. 13.</ls> <ls>SUŚR. 1, 35, 1. 128, 10.</ls> यो गले चोषमुत्पादयति <ls n='SUŚR.'>155, 6. 156, 9. 2, 132, 15.</ls> गलं ग्रीवां तथैव च <ls>MBH. 14, 568.</ls> गद्गदगल <ls>BHARTṚ. 3, 22.</ls> अन्तर्गलगत <i>in der Kehle stecken geblieben</i> <ls>PAÑCAT. 265, 10.</ls> गले बद्धः <ls>GOBH. 1, 2, 29.</ls> बद्ध्वा गले शिलाम् <ls>MBH. 5, 1030.</ls> <ls>PAÑCAT. 249, 9.</ls> गले गृहीत्वा क्षिप्तो ऽस्मि वरुणेन <ls>MBH. 13, 7253.</ls> <ls n='MBH.'>3, 8889.</ls> <ls>MṚCCH. 126, 2.</ls> गलमोटनपूर्वं विनाशिता <ls>ŚUK. 43, 1.</ls> अजागलस्तन <ls>PAÑCAT. III, 265.</ls> — <ls>HIḌ. 2, 4.</ls> <ls>BHARTṚ. 1, 63.</ls> <ls>PAÑCAT. 63, 7.</ls> <ls>VARĀH. BṚH. S. 9, 42. 50, 8.</ls> <ls>AMAR. 88.</ls> <ls>KATHĀS. 6, 59.</ls> <ls n='KATHĀS.'>25, 181.</ls> <ls>BHĀG. P. 1, 18, 38. 6, 11, 17.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> आ <is>gaṇa</is> क्रोडादि zu <ls>P. 4, 1, 56.</ls> आ und ई/ <is>gaṇa</is> बह्वादि zu <ls n='P. 4, 1,'>45.</ls> <div n='2'>— b) (von 1. गल्) <i>Harz</i>, insbes. <i>das der Shorea robusta Roxb.</i> <ls>H. an.</ls> <ls>MED.</ls> <div n='2'>— c) <i>eine Art Goldforelle</i>, = गडक <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <div n='2'>— d) <i>ein best. musikalisches Instrument</i> ebend. <div n='2'>— e) <i>Schilf.</i> <div n='2'>— f) <i>Strick.</i> — Zu den beiden letzten Bedd. vgl. गल्या . <div n='1'>— 2) <lex>f.</lex> आ <i>eine best. Pflanze</i> (अलम्बुषा) <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गल",
+            "eid": "12205",
+            "pagenum": 168,
+            "content": "<i>gala</i>¦ m. °Fischhaken (<i>matsyavedhana lohakaṇṭaka</i>), <ls>S</ls> II, 216, 7; 217, 8. S. <i>galāhāra!</i> {part=,seq=12392,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गल",
+            "eid": "13361",
+            "pagenum": 234,
+            "content": "गल¦ r. 1st cl. (गलति) 1. To eat. 2. To ooze; also (ङ्) गलङ् r. 10th cl. (गलयते) To drop, to ooze or distil. With अव prefixed, To fall, to fall down or off; With वि, 1. To go, to approach. 2. To bear or support."
+        },
+        {
+            "word": "गल",
+            "eid": "13362",
+            "pagenum": 234,
+            "content": "गल¦ m. (-लः) 1. The throat. 2. The resin of the Sal tree. 3. A reed, a large kind of the Saccharum cylindricum. 4. A rope. 5. A musical instrument. 6. A kind of fish, a small kind of cyprinus, a subgenus of that class, (Cyprinus garra. HAM.) E. गल् to eat, to drop, &c. affix अच्, or गॄ to swallow, with अच्, गर, and र changed to ल."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गल",
+            "eid": "8716",
+            "pagenum": 226,
+            "content": "<b>gala-</b>¦ (qui avale) <ab>m.</ab> gorge, cou.  <P><i>°graha-</i> <ab>m.</ab> contraction de la gorge (maladie). <lbinfo n='3'/>  <P><i>°dvāra-</i> <ab>m.</ab> bouche.  <P><i>°moṭana-</i> <ab>nt.</ab> fait de tordre le cou.  <P><i>°vārta-</i> (<i>°vārtta-</i>) <ab>a.</ab> qui ne vit que pour manger, qui mange beaucoup.  <P><i>°hasta-</i> <ab>m.</ab> fait de mettre la main à la gorge, d'étrangler.  <P><i>°hastayati</i> <ab>dén.</ab> saisir à la gorge, étrangler."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गल",
+            "eid": "13369",
+            "pagenum": 285,
+            "content": "गल¦ r. 1st cl. (गलति) .²1 To eat. .²2 To ooze; also (ङ्) गलङ् r. 10th cl. (गलयते) To drop, to ooze or distil. <div n='p'>With अव prefixed, To fall, to fall down or off; <div n='p'>With वि, .²1 To go, to approach. .²2 To bear or support."
+        },
+        {
+            "word": "गल",
+            "eid": "13370",
+            "pagenum": 285,
+            "content": "गल¦ m. (-लः) .²1 The throat. .²2 The resin of the <i>Sal</i> tree. .²3 A reed, a large kind of the <bot>Saccharum cylindricum</bot>. .²4 A rope. .²5 A musical instrument. .²6 A kind of fish, a small kind of cyprinus, a subgenus of that class, (<bio>Cyprinus garra</bio>, HAM.) .E. गल to eat, to drop, &c. affix अच्, or गॄ to swallow, with अच्, गर, and र changed to ल."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गल",
+            "eid": "12824",
+            "pagenum": 249,
+            "content": "गल¦ (ल;) 1. <i>m.</i> The throat; a reed; a rope; resin; a fish; a flute."
+        }
     ]
 }

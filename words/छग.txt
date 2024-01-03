@@ -82,5 +82,37 @@
             "pagenum": 5,
             "content": "छग¦ <ls>HALĀY. 2, 122.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "छग",
+            "eid": "15509",
+            "pagenum": 275,
+            "content": "छग¦ mf. (-गः-गा) A goat. E. छो to cut, गक् aff."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "छग",
+            "eid": "994",
+            "pagenum": 1,
+            "content": "<b>Chaga</b>¦ is the name of the ‘goat’ in the Taittirīya Saṃhitā (v. 6, 22, 1). <i>Cf.</i> <b>Aja</b> and <b>Chāga.</b>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "छग",
+            "eid": "15515",
+            "pagenum": 333,
+            "content": "छग¦ mf. (-गः-गा) A goat. .E. छो to cut, गक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "छग",
+            "eid": "14980",
+            "pagenum": 292,
+            "content": "छग¦ (गः) 1. <i>m.</i> A goat."
+        }
     ]
 }

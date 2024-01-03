@@ -143,5 +143,29 @@
             "pagenum": 7,
             "content": "दीप्¦ mit प्र III. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दीप्",
+            "eid": "15411",
+            "pagenum": 212,
+            "content": "<i>dīp</i>¦ mit <i>pra, prádīptatara</i> heller flammend, <ls>Śat. Br.</ls> 2, 3, 2, 10. <i>pradīptatama</i> am hellsten flammend, <ls>Kāty. Śr.</ls> 4, 15, 18. {part=,seq=15652,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "दीप्",
+            "eid": "10527",
+            "pagenum": 308,
+            "content": "<b>DĪP-</b>¦ <i>dīpyati -te ; didīpe ; adidīpat adīdipat ; dīpayati -te</i> (<i>dīpyate</i>) <i>dedīpyate ; dīpta-</i> -- reluire, briller, resplendir, être lumineux ; flamber, flamboyer ; être illustre ; <ab>caus.</ab> illuminer, <lbinfo n='5'/> allumer, éclairer, enflammer ; exciter ; rendre illustre ; <ab>int.</ab> briller d'un grand éclat."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दीप्",
+            "eid": "18538",
+            "pagenum": 365,
+            "content": "दीप्¦ (य, ई, ऋ) दीप्यते 4. <i>d.</i> To shine, to blaze, to be luminous."
+        }
     ]
 }

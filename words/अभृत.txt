@@ -63,5 +63,21 @@
             "pagenum": 1,
             "content": "अभृत¦ (3. अ + भृत) <lex>adj.</lex> <i>keinen Lohn beziehend</i> <ls>M. 8, 231.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभृत",
+            "eid": "27892",
+            "pagenum": 384,
+            "content": "<i>abhṛta</i>¦ m. °ein nicht fest angestellter Arbeiter, <ls>Kauṭ.</ls> 140, 2 (Gegensatz <i>bhṛta</i>). {part=N,seq=28263,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभृत",
+            "eid": "3380",
+            "pagenum": 70,
+            "content": "<b>a-bhṛta-</b>¦ <ab>a. v.</ab> non payé ; non salarié ; <i>-ka-</i> <ab>id.</ab>"
+        }
     ]
 }

@@ -29,5 +29,21 @@
             "pagenum": 7,
             "content": "अतैलपूर¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतैलपूर",
+            "eid": "1420",
+            "pagenum": 20,
+            "content": "<i>atailapūra</i>¦ Adj. nicht mit Öl gefühllt werdend, <ls>Kumāras.</ls> 1, 10. Vgl. <i>apavarjitatailapūra</i> <ls>Ind. St.</ls> 14, 367. {part=,seq=1445,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतैलपूर",
+            "eid": "778",
+            "pagenum": 17,
+            "content": "<b>a-taila-pūra-</b>¦ <ab>a.</ab> qu'on n'emplit pas d'huile."
+        }
     ]
 }

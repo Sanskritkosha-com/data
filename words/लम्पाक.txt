@@ -124,5 +124,51 @@
             "pagenum": 7,
             "content": "लम्पाक¦ V. 1〉 <ls>DAMAYANTĪK. 119</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "लम्पाक",
+            "eid": "22850",
+            "pagenum": 315,
+            "content": "<i>lampāka</i>¦ *Adj. <ls>Pārijātam.</ls> p. 16, Z. 9 v.u. in <i>ullekhalampākena (= abhūtakalpanācatureṇa) vacasā</i>. {part=,seq=23169,type=,n=1}"
+        },
+        {
+            "word": "लम्पाक",
+            "eid": "22850.1",
+            "pagenum": 315,
+            "content": "<i>lampāka</i>¦ 1., <ls>Damayantīk.</ls> 119. {part=,seq=23170,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "लम्पाक",
+            "eid": "34180",
+            "pagenum": 614,
+            "content": "लम्पाक¦ m. (-कः) 1. A country, the district of Lamghan in Cābul. 2. A libertine, a lecher."
+        }
+    ],
+    "STC": [
+        {
+            "word": "लम्पाक",
+            "eid": "17578",
+            "pagenum": 613,
+            "content": "<b>lampāka-</b>¦ <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> d'un peuple du Nord-Ouest."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "लम्पाक",
+            "eid": "32798",
+            "pagenum": 716,
+            "content": "लम्पाक¦ m. (-कः) .²1 A country, the district of <i>Lamghan</i> in <i>Cabul.</i> .²2 A libertine, a lecher."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "लम्पाक",
+            "eid": "32378",
+            "pagenum": 641,
+            "content": "लम्पाक¦ (कः) 1. <i>m.</i> A district in <i>Ca-</i> <i>bul;</i> a lecher, a libertine."
+        }
     ]
 }

@@ -128,5 +128,45 @@
             "pagenum": 7,
             "content": "विश्वास¦, वैरिणा सह विश्वासं यो नरः कर्तुमिच्छति <ls>Spr. (II) 6293.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "विश्वास",
+            "eid": "24194",
+            "pagenum": 334,
+            "content": "<i>viśvāsa</i>¦ °Adj. ohne Atem, <ls>Prabandh.</ls> 295, 7 v.u. Vgl. Tawney, S. 185, Anm. 5. {part=,seq=24528,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विश्वास",
+            "eid": "37671",
+            "pagenum": 675,
+            "content": "विश्वास¦ m. (-सः) 1. Trust, faith, confidence. 2. A confidential communication. E. वि before श्वस् to breathe or live, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विश्वास",
+            "eid": "19237",
+            "pagenum": 680,
+            "content": "<b>vi-śvāsa-</b>¦ <ab>m.</ab> confiance (dans, <ab>loc.</ab>) ; communication <lbinfo n='10'/> confidentielle ; <i>-na-</i> <ab>nt.</ab> fait d'inspirer <lbinfo n='5'/> confiance ; <i>-ikatara-</i> <ab>compar.</ab> en qui l'on (<ab>instr.</ab>) a une grande confiance ; <i>-in-</i> <ab>a.</ab> confiant <lbinfo n='5'/> ; qui inspire confiance, sûr.  <P><i>°kāraka- -ikā-</i> <ab>a.</ab> qui inspire confiance ; <i>°kāraṇa-</i> <ab>nt.</ab> motif de confiance ; <i>°kārya-</i> <ab>nt.</ab> affaire confidentielle.  <P><i>°gata-</i> <ab>a. v.</ab> qui a gagné la confiance (de, <ab>gén.</ab>).  <P><i>°ghātaka- °ghātin-</i> <ab>ag.</ab> qui détruit la confiance, <lbinfo n='6'/> traître.  <P><i>°parama-</i> <ab>a.</ab> digne de toute confiance, parfaitement <lbinfo n='9'/> sûr.  <P><i>°pātra-</i> <ab>nt.</ab> personne de confiance.  <P><i>°pratipanna-</i> <ab>a. v.</ab> digne de confiance.  <P><i>°bhaṅga-</i> <ab>m.</ab> fait de trahir la confiance.  <P><i>°bhūmi-</i> <ab>f.</ab> personne de confiance.  <P><i>°sthāna-</i> <ab>nt.</ab> garantie.  <P><i>°hantṛ- °hartṛ-</i> <ab>ag.</ab> = <i>°ghātaka-.</i>  <P><i>viśvāsopagama-</i> <ab>m.</ab> accès de confiance."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विश्वास",
+            "eid": "35988",
+            "pagenum": 789,
+            "content": "विश्वास¦ m. (-सः) Trust, faith, confidence. .E. वि before श्वस to breathe or live, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विश्वास",
+            "eid": "35595",
+            "pagenum": 708,
+            "content": "वि-श्वास¦ (सः) 1. <i>m.</i> Trust, faith."
+        }
     ]
 }

@@ -184,5 +184,51 @@
             "pagenum": 7,
             "content": "अवसर¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवसर",
+            "eid": "5425",
+            "pagenum": 74,
+            "content": "<i>avasara</i>¦ , vgl. <ls>Zach.</ls> Beitr. {part=,seq=5500,type=,n=1}"
+        },
+        {
+            "word": "अवसर",
+            "eid": "28015",
+            "pagenum": 385,
+            "content": "<i>avasara</i>¦ °shrine, <ls>Prabandh.</ls> 122, 5. 8. — = <i>°sarvāvasara</i> (s. d.), ebenda 184, 9. {part=N,seq=28386,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवसर",
+            "eid": "3884",
+            "pagenum": 67,
+            "content": "अवसर¦ m. (-रः) 1. Occasion, opportunity. 2. Rain, raining. 3. Consultation in private. 4. A year. 5. A moment. E. अव, सृ to go, अप् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवसर",
+            "eid": "4163",
+            "pagenum": 90,
+            "content": "<b>ava-sara-</b>¦ <ab>m.</ab> occasion, moment favorable <lbinfo n='3'/> ; lieu propre à ; <i>-e</i> au bon moment."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवसर",
+            "eid": "3886",
+            "pagenum": 81,
+            "content": "अवसर¦ m. (-रः) .²1 Occasion, opportunity. .²2 Rain, raining. .²3 Consultation in private. .²4 A year. .²5 A moment. .E. अव, सृ to go, अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवसर",
+            "eid": "3307",
+            "pagenum": 63,
+            "content": "अव-सर¦ (रः) 1. <i>m.</i> Occasion."
+        }
     ]
 }

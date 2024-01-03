@@ -152,5 +152,51 @@
             "pagenum": 7,
             "content": "कोमल¦ II. <lex>Adj.</lex> <i>gleichfarbig</i> <ls>KIR. 4,36</ls>. <ls n='KIR.'>5,38</ls>. <ls>DHARMAŚARM. 5,63</ls>. <ls n='DHARMAŚARM.'>12,30</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कोमल",
+            "eid": "11398",
+            "pagenum": 156,
+            "content": "<i>komala</i>¦ *n. Wasser, <ls>H</ls> 18, 41. {part=,seq=11571,type=,n=1}"
+        },
+        {
+            "word": "कोमल",
+            "eid": "11398.1",
+            "pagenum": 156,
+            "content": "<i>komala</i>¦ Adj. gleichfarbig, <ls>Kir.</ls> 4, 36; 5, 38; <ls>Dharmaśarm.</ls> 5, 63; 12, 30. {part=,seq=11572,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कोमल",
+            "eid": "11751",
+            "pagenum": 207,
+            "content": "कोमल¦ mfn. (-लः-ला-लं) 1. Soft, bland. 2. Soft, low, sweet. 3. Beautiful, pleasing, agreeable. f. (-ला) A plant: see क्षीरिका. n. (-लं) Water. E. कुट् to be curved, कल Unadi affix; and मुट् inserted, formative irregular; or कम् to desire, कलच् affix, and उ inserted with conversion."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कोमल",
+            "eid": "8313",
+            "pagenum": 209,
+            "content": "<b>komala-</b>¦ <ab>a.</ab> tendre, mou, doux, agréable ; <i>-ka-</i> <ab>id.</ab>  <P><i>komalāṅga-</i> <ab>a.</ab> qui a un corps tendre."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कोमल",
+            "eid": "11757",
+            "pagenum": 251,
+            "content": "कोमल¦ mfn. (-लः-ला-लं) .²1 Soft, bland. .²2 Soft, low, sweet. .²3 Beautiful, pleasing, agreeable. f. (-ला) A plant: see क्षीरिका. n. (-लं) Water. .E. कुट to be curved, कल Uṇādi affix, and मुट् inserted, formative irregular; or कम to desire, कलच् affix, and उ inserted with conversion."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कोमल",
+            "eid": "11206",
+            "pagenum": 215,
+            "content": "कोमल¦ (ल--ला-लं) <i>a.</i> Soft, pleasing. <i>f.</i> A plant. <i>n.</i> Water."
+        }
     ]
 }

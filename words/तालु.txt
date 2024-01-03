@@ -116,5 +116,51 @@
             "pagenum": 7,
             "content": "ता/लु¦, so zu accentuiren."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तालु",
+            "eid": "14532",
+            "pagenum": 200,
+            "content": "<i>tā́lu</i>¦ , so zu akzentuieren. {part=,seq=14763,type=,n=1}"
+        },
+        {
+            "word": "तालु",
+            "eid": "14532.1",
+            "pagenum": 200,
+            "content": "<i>tālu</i>¦ n. °Inneres, <ls>H</ls> 4, 13; 7, 51; 16, 36 [in <i>°avanitālu = pātālam</i>]; 38, 52; 48, 143. {part=,seq=14764,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तालु",
+            "eid": "17398",
+            "pagenum": 312,
+            "content": "तालु¦ n. (-लु) The palate. E. तॄ to pass, to go, Unadi affix ञुण् । by which words, &c. proceed."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तालु",
+            "eid": "10017",
+            "pagenum": 283,
+            "content": "<b>tālu-</b>¦ <ab>nt.</ab> (<ab>m.</ab>) palais (de la bouche) ; <i>-kā-</i> <ab>f.</ab> <ab>du.</ab> les deux artères du palais.  <P><i>°viśoṣaṇa-</i> <ab>nt.</ab> le fait d'avoir le palais desséché <lbinfo n='5'/> (à force de parler).  <P><i>°sthāna-</i> <ab>a.</ab> palatal (<ab>gramm.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तालु",
+            "eid": "17415",
+            "pagenum": 375,
+            "content": "तालु¦ n. (-लु) The palate. .E. तॄ to pass, to go, Uṇādi affix, ञुण्; by which words, &c. proceed."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तालु",
+            "eid": "16887",
+            "pagenum": 331,
+            "content": "तालु¦ (लु) 2. <i>n.</i> The palate."
+        }
     ]
 }

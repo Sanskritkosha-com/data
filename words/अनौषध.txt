@@ -37,5 +37,21 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अनौषध¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनौषध",
+            "eid": "2997",
+            "pagenum": 41,
+            "content": "2. <i>anauṣadha</i>¦ Adj. wogegen es kein Heilmittel gibt, <ls>Śiś.</ls> 17, 7. {part=,seq=3037,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनौषध",
+            "eid": "2100",
+            "pagenum": 44,
+            "content": "<b>an-auṣadha-</b>¦ <ab>a.</ab> contre quoi il n'est pas de salut ; <ab>nt.</ab> pas de salut ou de remède."
+        }
     ]
 }

@@ -281,5 +281,59 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> वारण/¦ VI. <ab>Vgl.</ab> <ls>PISCHEL, Vedische Studien 100. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वारण",
+            "eid": "23523",
+            "pagenum": 325,
+            "content": "1. <i>vāraṇá</i>¦ , vgl. <ls>Pischel, Ved. Studien</ls> I, 100 ff. — *Panzer, <ls>H</ls> XLVIII, 51. {part=,seq=23851,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वारण",
+            "eid": "36017",
+            "pagenum": 645,
+            "content": "वारण¦ n. (-णं) 1. Resistance, opposition, prohibition, obstacle or impediment. 2. Defence, protecting, guarding. 3. Warding off a blow, guarding, warding. m. (-णः) 1. Armour, a cuirass or mail for the body. 2. An elephant. E. वॄ to cover or screen, to defend, aff. ल्युट् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वारण",
+            "eid": "18143",
+            "pagenum": 640,
+            "content": "<b>1 vāraṇa-</b>¦ <i>-ī-</i> <ab>a.</ab> qui obstrue, retient, résiste, <lbinfo n='5'/> repousse ; <ab>nt.</ab> fait ou moyen de retenir, de s'opposer, obstruction."
+        },
+        {
+            "word": "वारण",
+            "eid": "18144",
+            "pagenum": 640,
+            "content": "<b>2 vāraṇa-</b>¦ <ab>m.</ab> éléphant ; croc à éléphant ; certain ornement de l'arc.  <P><i>°puṣpa-</i> <ab>m.</ab> <ab>n.</ab> d'une plante.  <P><i>°śālā-</i> <ab>f.</ab> écurie à éléphants.  <P><i>°sāhvaya-</i> (qui porte un nom d'éléphant) <ab>nt.</ab> Hastināpura.  <P><i>°sthala-</i> <ab>nt.</ab> <ab>n.</ab> d'une localité.  <P><i>vāraṇānana-</i> (à visage d'éléphant) <ab>m.</ab> Gaṇeśa.  <P><i>vāraṇāhvaya-</i> <ab>nt.</ab> = <i>°sāhvaya-.</i>  <P><i>vāraṇendra-</i> <ab>m.</ab> prince des éléphants, grand et puissant éléphant."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "वारण",
+            "eid": "2896",
+            "pagenum": 2,
+            "content": "<b>Vāraṇa</b>¦ in two passages of the Rigveda<sup>1</sup> is taken by Roth<sup>2</sup> as an adjective with <b>Mṛga,</b> meaning ‘wild beast.’ But the sense intended must have been ‘elephant,’ the usual sense of Vāraṇa in the classical literature. Probably the feminine Vāraṇī in the Atharvaveda<sup>3</sup> likewise denotes a ‘female elephant.’ <F>1) viii. 33, 8; x. 40, 4.</F> <F>2) St. Petersburg Dictionary, <i>s.v.</i> 1<i>c.</i></F> <F>3) v. 14, 11. <div n='P'/><i>Cf.</i> Pischel and Geldner, <i>Vedische</i> <i>Studien,</i> 1, xv. 100-102; Whitney, Translation of the Atharvaveda, 296; Muir, <i>Sanskrit Texts,</i> 5, 467; Zimmer, <i>Altindisches Leben,</i> 80.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वारण",
+            "eid": "34445",
+            "pagenum": 753,
+            "content": "वारण¦ n. (-णं) .²1 Resistance, opposition, prohibition, obstacle or impediment. .²2 Defence, protecting, guarding. .²3 Warding off a blow, guarding, warding. m. (-णः) .²1 Armour, a cuirass, or mail for the body. .²2 An elephant. .E. वॄ to cover or screen, to defend, aff. ल्युट्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वारण",
+            "eid": "34041",
+            "pagenum": 675,
+            "content": "वारण¦ (णं) 1. <i>n.</i> Opposition; defence; obstacle. <i>m.</i> Armour; an elephant."
+        }
     ]
 }

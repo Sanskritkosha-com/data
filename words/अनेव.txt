@@ -29,5 +29,37 @@
             "pagenum": 7,
             "content": "अ/नेव¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनेव",
+            "eid": "2975",
+            "pagenum": 41,
+            "content": "<i>áneva</i>¦ (!) Adv. nicht so, anders, <ls>AV. 16, 7, 4.</ls> {part=,seq=3015,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनेव",
+            "eid": "1720",
+            "pagenum": 31,
+            "content": "अनेव¦ ind. Otherwise, or. E. अन् neg. एव so."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनेव",
+            "eid": "1722",
+            "pagenum": 37,
+            "content": "अनेव¦ <i>ind.</i> Otherwise, or. .E. अन् neg. एव so."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनेव",
+            "eid": "1423",
+            "pagenum": 29,
+            "content": "अ-नेव¦ <i>ind.</i> Otherwise, or."
+        }
     ]
 }

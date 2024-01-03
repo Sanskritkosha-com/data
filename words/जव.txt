@@ -148,5 +148,63 @@
             "pagenum": 5,
             "content": "जव¦ <div n='1'> 1) जवात् <i>eiligst, alsbald</i> <ls>KATHĀS. 63, 188.</ls> जवाधिक <i>schneller laufend</i> <ls n='KATHĀS.'>67, 7.</ls> <div n='1'>— 3) <ls>Spr. 4925.</ls> Die neueren Ausgg. des <ls>MBH.</ls> und <ls>HARIV.</ls> lesen जपा st. जवा und <ls>MEGH. 37</ls> hat जबा . <div n='v'>— Vgl. महा° ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "जव",
+            "eid": "28709",
+            "pagenum": 395,
+            "content": "<i>java</i>¦ m. °eine best. Gangart des Pferdes, <ls>Kauṭ.</ls> 134, 4 v.u. {part=N,seq=29080,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "जव",
+            "eid": "16112",
+            "pagenum": 286,
+            "content": "जव (इ) जवि¦ r. 10th cl. (जंवयति) To shine."
+        },
+        {
+            "word": "जव",
+            "eid": "16113",
+            "pagenum": 286,
+            "content": "जव¦ mfn. (-वः-वा-वं) Swift, quick, expeditious. m. (-वः) 1. Speed, velocity. 2. A runner, an express. f. (-वा) The China rose, (Hibiscus rosa sinensis;) also जपा. E. जु to move quickly, भावे अप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "जव",
+            "eid": "9531",
+            "pagenum": 261,
+            "content": "<b>java-</b>¦ <ab>a.</ab> (<ab>compar.</ab> <i>javīyāṃs-,</i> <ab>sup.</ab> <i>javiṣṭha-</i>) rapide (surtout <ab>véd.</ab>) ; <i>-am -āt</i> rapidement, vivement ; <i>-vant-</i> <ab>a.</ab> rapide.  <P><i>°yukta-</i> <ab>a. v.</ab> doué de vivacité, de rapidité.  <P><i>javādhika-</i> <ab>a.</ab> plus rapide."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जव",
+            "eid": "16141",
+            "pagenum": 346,
+            "content": "जव¦ (इ) जवि r. 10th. cl. (जंवयति) To shine."
+        },
+        {
+            "word": "जव",
+            "eid": "16142",
+            "pagenum": 346,
+            "content": "जव¦ mfn. (-वः-वा-वं) Swift, quick, expeditious. m. (-वः) .²1 Speed, velocity. .²2 A runner, an express. f. (-वा) The <i>China</i> rose, (<bot>Hibiscus</bot> rosa sinensis;) also जपा. .E. जु to move quickly, affix अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जव",
+            "eid": "15608",
+            "pagenum": 304,
+            "content": "जव¦ (क, इ) जंवयति 10. <i>a.</i> To shine."
+        },
+        {
+            "word": "जव",
+            "eid": "15609",
+            "pagenum": 304,
+            "content": "जव¦ (वः) 1. <i>m.</i> Speed; an express. <i>f.</i> China rose. <i>a.</i> Swift, quick."
+        }
     ]
 }

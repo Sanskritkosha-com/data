@@ -161,5 +161,51 @@
             "pagenum": 7,
             "content": "आह¦ I. <ls>JĀTAKAM. 31</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आह",
+            "eid": "7560",
+            "pagenum": 103,
+            "content": "<i>āha</i>¦ Interj. <ls>Jātakam.</ls> 31. {part=,seq=7666,type=,n=1}"
+        },
+        {
+            "word": "आह",
+            "eid": "7560.1",
+            "pagenum": 103,
+            "content": "<i>āha</i>¦ °Adj. = <i>āhantīty āhas tāḍakaḥ</i> <ls>H</ls> 43, 274. {part=,seq=7667,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आह",
+            "eid": "6110",
+            "pagenum": 105,
+            "content": "आह¦ ind. An interjection, aha! ah! implying. 1. Casting, sending. 2. Severity, reproof. 3. Commanding."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आह",
+            "eid": "5842",
+            "pagenum": 129,
+            "content": "<b>āha</b>¦ <ab>v.</ab> <i>AH-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आह",
+            "eid": "6112",
+            "pagenum": 127,
+            "content": "आह¦ <i>ind.</i> An interjection, aha! ah! implying, .²1 Casting, sending. .²2 Severity, reproof. .²3 Commanding."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आह",
+            "eid": "5492",
+            "pagenum": 103,
+            "content": "आह¦ <i>ind.</i> Ah!"
+        }
     ]
 }

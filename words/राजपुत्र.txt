@@ -161,5 +161,35 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> राजपुत्र¦ V. 1〉a〉 <ab>Nom. abstr.</ab> °ता [Page7-371-a] <lex>f.</lex> <ls>MBH. 13,118,12</ls>. <ls n='MBH. 13,118,'>17</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "राजपुत्र",
+            "eid": "22584",
+            "pagenum": 311,
+            "content": "1. <i>rājaputra</i>¦ 1. a) Nom. abstr. <i>°tā</i> f., <ls>MBh.</ls> 13, 118, 12. 17. {part=,seq=22897,type=,n=1}"
+        },
+        {
+            "word": "राजपुत्र",
+            "eid": "22584.1",
+            "pagenum": 311,
+            "content": "<i>Rājaputra</i>¦ m. °Name eines Autors über Elefanten, <ls>S</ls> I, 291, 1. {part=,seq=22898,type=,n=3}"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "राजपुत्र",
+            "eid": "2672",
+            "pagenum": 2,
+            "content": "<b>Rāja-putra,</b>¦ ‘king's son,’ ‘prince,’ seems to be capable of being interpreted literally in every passage of the older literature<sup>1</sup> in which it is found, though it may also be capable of a wider interpretation.<sup>2</sup> Later the Rājaputra degenerates into a mere ‘landowner.’<sup>3</sup> <F>1) Rv. x. 40, 3; Aitareya Brāhmaṇa, vii. 17, 6 (of <b>Viśvāmitra,</b> but probably in a mythical sense); Pañcaviṃśa Brāhmaṇa, xix. 1, 4; Kāṭhaka Saṃhitā, xiv. 8; Taittirīya Brāhmaṇa, iii. 8, 5, 1; Śatapatha Brāhmaṇa, xiii. 4, 2, 5; 5, 2, 5, etc.</F> <F>2) Kāṭhaka Saṃhitā, xxviii. 1, may be cited as identifying the <b>Rājanya</b> and the Rājaputra.</F> <F>3) Jolly, <i>Zeitschrift der Deutschen Morgen-</i> <i>ländischen Gesellschaft,</i> 50, 514, who points out that in the Rājataraṅgiṇī, vii. 360, traces of the older position of the Rājaputra are seen.</F>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "राजपुत्र",
+            "eid": "31696",
+            "pagenum": 627,
+            "content": "राज-पुत्र¦ (त्रः) 1. <i>m.</i> A prince; the planet <i>Mercury;</i> a <i>Kshetriya</i> or soldier. <i>f.</i> (त्री) Princess; jasmin; bell metal; gourd; musk shrew."
+        }
     ]
 }

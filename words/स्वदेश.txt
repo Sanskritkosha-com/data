@@ -61,5 +61,37 @@
             "pagenum": 7,
             "content": "स्वदेश¦ <lex>m.</lex> <div n='1'> 1) <i>seine Stelle</i> Comm. zu <ls>TS. PRĀT. 1, 59.</ls> <div n='1'>— 2) <i>der eigene Wohnort, Heimath</i> (Gegens. परदेश, विदेश) <ls>M. 8, 167.</ls> <ls>Spr. (II) 3239.</ls> <ls n='Spr. (II)'>4788.</ls> <ls n='Spr. (II)'>7118.</ls> <ls n='Spr. (II)'>7277.</ls> <ls>KATHĀS. 20, 166.</ls> <ls n='KATHĀS.'>34, 201.</ls> <ls>RĀJA-TAR. 4, 411. 605. 620. 5, 457.</ls> <ls>HIT. ed. JOHNS. 1757. 2450.</ls> pl. so v. a. <i>Bewohner des eigenen Landes, die eigenen Unterthanen</i> <ls>BHĀG. P. 4, 14, 21.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "स्वदेश",
+            "eid": "27282",
+            "pagenum": 374,
+            "content": "<i>svadeśa</i>¦ °aus demselben Lande stammend, <ls>S</ls> I, 385, 1. {part=,seq=27646,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "स्वदेश",
+            "eid": "46121",
+            "pagenum": 820,
+            "content": "स्वदेश¦ m. (-शः) 1. Native country, home. 2. Own or proper place. E. स्व, देश country."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्वदेश",
+            "eid": "43584",
+            "pagenum": 961,
+            "content": "स्वदेश¦ m. (-शः) .²1 Native country, home. .²2 Own or proper place. .E. स्व, and देश country."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्वदेश",
+            "eid": "43385",
+            "pagenum": 885,
+            "content": "स्व-देश¦ (शः) 1. <i>m.</i> Own country."
+        }
     ]
 }

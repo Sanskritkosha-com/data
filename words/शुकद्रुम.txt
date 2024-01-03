@@ -31,5 +31,29 @@
             "pagenum": 7,
             "content": "शुकद्रुम¦ <lex>m.</lex> <i>Acacia Sirissa</i> (शिरीष) <i>Roxb.</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "शुकद्रुम",
+            "eid": "40440",
+            "pagenum": 723,
+            "content": "शुकद्रुम¦ m. (-मः) The Sirīsha tree: see the last."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शुकद्रुम",
+            "eid": "38585",
+            "pagenum": 850,
+            "content": "शुकद्रुम¦ m. (-मः) The <i>Śirīṣa</i> tree: see the last."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शुकद्रुम",
+            "eid": "38232",
+            "pagenum": 768,
+            "content": "शुक-द्रुम¦ (मः) 1. <i>m. Mimosa sirisha.</i>"
+        }
     ]
 }

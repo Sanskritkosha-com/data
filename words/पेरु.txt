@@ -221,5 +221,37 @@
             "pagenum": 7,
             "content": "पेरु¦ IV. <ab>Vgl.</ab> <ls>PISCHEL, Ved. Studien 81. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पेरु",
+            "eid": "18936",
+            "pagenum": 261,
+            "content": "<i>peru</i>¦ , vgl. <ls>Pischel, Ved. Studien</ls> I, 81 ff. {part=,seq=19205,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पेरु",
+            "eid": "25876",
+            "pagenum": 468,
+            "content": "पेरु¦ m. (-रुः) 1. The ocean. 2. The golden mountain. 3. The sun. 4. Fire. E. पा to drink, Unādi aff. रु ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पेरु",
+            "eid": "25566",
+            "pagenum": 553,
+            "content": "पेरु¦ m. (-रुः) .²1 The ocean. .²2 The golden mountain. .²3 The sun. .²4 Fire. .E. पा to drink, Uṇādi aff. रु."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पेरु",
+            "eid": "25047",
+            "pagenum": 496,
+            "content": "पेरु¦ (रुः) 2. <i>m.</i> The ocean; golden mountain; sun; fire; drum."
+        }
     ]
 }

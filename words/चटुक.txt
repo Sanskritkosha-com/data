@@ -23,5 +23,21 @@
             "pagenum": 5,
             "content": "चटुक¦ <i>ein Holzgefäss zum Schöpfen</i> <ls>Schol.</ls> zu <ls>HĀLA 163.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "चटुक",
+            "eid": "12897",
+            "pagenum": 177,
+            "content": "°<i>caṭuka</i>¦ m. fore-quarter of venison, <ls>Harṣac.</ls> 237, 5. {part=,seq=13096,type=°,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "चटुक",
+            "eid": "9070",
+            "pagenum": 243,
+            "content": "<b>caṭuka-</b>¦ <ab>m.</ab> quartier de venaison."
+        }
     ]
 }

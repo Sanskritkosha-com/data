@@ -47,5 +47,37 @@
             "pagenum": 1,
             "content": "अनुपशय¦ <lex>m.</lex> <i>keine Vorliebe für Etwas</i> <ls>CARAKA 3,8</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनुपशय",
+            "eid": "2745",
+            "pagenum": 37,
+            "content": "<i>anupaśaya</i>¦ m. keine Vorliebe für etwas, <ls>Caraka</ls> 3, 8. {part=,seq=2782,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनुपशय",
+            "eid": "1547",
+            "pagenum": 28,
+            "content": "अनुपशय¦ m. (-यः) Any aggravating thing or circumstance, (in medicine) what increases the disease. E. अन् neg. उपशय a palliative."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनुपशय",
+            "eid": "1549",
+            "pagenum": 33,
+            "content": "अनुपशय¦ m. (-यः) Any aggravating thing or circumstance, (in medicine) what increases the disease. .E. अन् neg. उपशय a palliative."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनुपशय",
+            "eid": "1308",
+            "pagenum": 27,
+            "content": "अनुप-शय¦ (यः) 1. <i>m.</i> Aggravation of a disease or complaint."
+        }
     ]
 }

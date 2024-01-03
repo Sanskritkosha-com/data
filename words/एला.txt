@@ -125,5 +125,45 @@
             "pagenum": 5,
             "content": "एला¦ <div n='1'> 1) <ls>KATHĀS. 111, 15.</ls> <div n='1'>— 3) <ls>Ind. St. 8, 391.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "एला",
+            "eid": "8254",
+            "pagenum": 142,
+            "content": "एला¦ f. (-ला) Cardamoms, the seed of the Eletteria cardamomum, or Alpinia Cardamomum: it applies to both the large and small cardamom, but most commonly to the former. E. इल् to send, &c. अच् aff."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "एला",
+            "eid": "33",
+            "pagenum": 531,
+            "content": "<i>elā</i>¦ <div n='P'/>Two kinds of <i>elā</i> are distinguished: 1) <i>sūkṣmailā</i> or <i>kṣudrailā,</i> the small cardamom, and 2) <i>sthūlailā</i> or <i>bṛhadelā,</i> the large cardamom. <div n='P'/>(1) <bot>ELETTARIA CARDAMOMUM MATON</bot> (Avk; Bpn, p. 222-223; Chopra; Dgv, nr. 308; Dutt; DWH 3, p. 428-436; Gul; HB; HK; IRM 3, p. 149-160; KB 4, p. 2442-2444; Nadk. 1, nr. 924; V 1, p. 147; Vśs; Watt CP, p. 511-517) = <bot>E. MAJOR SM.</bot> (Avk) = <bot>E. REPENS BAILL.</bot> (Avk; Nadk. 1, nr. 924) = <bot>ALPINIA CARDAMOMUM ROXB.</bot> (KB 4, p. 2442-2444); <div n='P'/>(2) <bot>AMOMUM SUBULATUM ROXB.</bot> (Bpn, p. 221; Chopra; Dgv, nr. 308; Dutt; DWH 3, p. 436; HK; KB 4, p. 2432-2433; Nadk. 1, nr. 154; V 1, p. 148; Vśs; Watt CP, p. 65); <div n='P'/>(3) <bot>A. AMARUM F. P. SMITH</bot> (Nadk. 1, nr. 150); <div n='P'/>(4) <bot>A. XANTHIOIDES WALL.</bot> (Dy, p. 788-789); <div n='P'/>(5) <bot>A. KEPULAGA SPRAGUE ET BURKILL</bot> (Bpn, p. 224: used as a substitute) = <bot>A. CARDAMOMUM ROXB.</bot> (<bot>NON LINN.</bot>) (Roxb., p. 24: <i>elā</i>); <div n='P'/>(6) <bot>A. AROMATICUM ROXB.</bot> (Bpn, p. 222: used as a substitute)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "एला",
+            "eid": "7363",
+            "pagenum": 167,
+            "content": "<b>elā-</b>¦ <ab>f.</ab> cardamome."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एला",
+            "eid": "8258",
+            "pagenum": 173,
+            "content": "एला¦ f. (-ला) Cardamoms, the seed of the Eletteria cardamomum, or Alpinia Cardamomum: it applies to both the large and small cardamom, but most commonly to the former. .E. इल to send, &c. अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एला",
+            "eid": "7682",
+            "pagenum": 143,
+            "content": "एला¦ (ला) 1. <i>f.</i> Small cardamoms."
+        }
     ]
 }

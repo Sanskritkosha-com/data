@@ -29,5 +29,21 @@
             "pagenum": 7,
             "content": "अविस्मित¦ I. 5 (अनि° Druckfehler)."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविस्मित",
+            "eid": "5692",
+            "pagenum": 78,
+            "content": "<i>avismita</i>¦ auch: nicht verwundert, -x- verblüfft, <ls>Śiś.</ls> 17, 19. {part=,seq=5768,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविस्मित",
+            "eid": "4402",
+            "pagenum": 95,
+            "content": "<b>a-vismita-</b>¦ <ab>a.</ab> dénué de fierté ; non émerveillé. <lbinfo n='6'/>"
+        }
     ]
 }

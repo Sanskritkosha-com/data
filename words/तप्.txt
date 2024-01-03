@@ -221,5 +221,35 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> तप्¦ <ab>vgl.</ab> तप 1〉d〉."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तप्",
+            "eid": "14299",
+            "pagenum": 197,
+            "content": "1. <i>tap</i>¦ mit <i>abhi</i> <ls>Kaus.</ls> auch: ein wenig erwärmen, <ls>Mān. Śr.</ls> 1, 6, 1. {part=,seq=14526,type=,n=2}"
+        },
+        {
+            "word": "तप्",
+            "eid": "14300",
+            "pagenum": 197,
+            "content": "3. <i>tap</i>¦ vgl. <i>tapa</i> 1. d). {part=,seq=14527,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "तप्",
+            "eid": "9858",
+            "pagenum": 277,
+            "content": "<b>1 TAP-</b>¦ (<ab>ord.</ab> <ab>act.</ab>) <i>tapati</i> (<i>-te</i>) <i>tapyati ; tatāpa tepe</i> (<i>tepire</i>) ; <i>atītapat ; tapsyati -te tapiṣyati ; tapyate tāpayati -te</i> (<i>tāpyate</i>) <i>tātapyate</i><i> ; tapta- tapita- taptum taptvā °tapya</i> <i>tapati</i> chauffer, brûler, consumer ; faire souffrir, peiner, tourmenter ; souffrir ; pratiquer <lbinfo n='4'/> des pénitences (rare) ; <i>tapyati</i> (ou <ab>pass.</ab>) être chauffé, brûlé, devenir chaud ; pratiquer des pénitences, mortifier le corps, se livrer à l'ascèse (<ab>not.</ab> avec <i>tapas</i> ou <i>tapāṃsi</i>) ; <ab>caus.</ab> faire souffrir, échauffer, brûler ; <i>paścāt tap-</i> se repentir."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तप्",
+            "eid": "16492",
+            "pagenum": 323,
+            "content": "तप्¦ (ञ, औ) तपति, ते 1. <i>c.</i> (ञ, य) तप्यति, ते 4. <i>c.</i> (ञ, क) तापयति, त 10. <i>c.</i> To heat; to perform penance. With अनु to repent; with परि or सं to bear pain; be sad."
+        }
     ]
 }

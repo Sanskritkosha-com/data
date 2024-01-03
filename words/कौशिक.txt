@@ -621,5 +621,71 @@
             "pagenum": 7,
             "content": "1. कौशिक¦ <div n='1'> 2) ein N. <is>Indra's</is> <ls>HEM.</ls> <ls>YOGAŚ. 1, 2.</ls> fährt zur Hölle <ls n='YOGAŚ.'>2, 61.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कौशिक",
+            "eid": "11467",
+            "pagenum": 157,
+            "content": "<i>kauśika</i>¦ *m. Schlangenbeschwörer, <ls>Śṛṅgārasarv.</ls> 136<sup>d</sup>. 137<sup>d</sup>. {part=,seq=11642,type=,n=1}"
+        },
+        {
+            "word": "कौशिक",
+            "eid": "11467.1",
+            "pagenum": 157,
+            "content": "<i>Kauśika</i>¦ m. = *Śiva, <ls>Rasas.</ls> 208<sup>d</sup>. {part=,seq=11643,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कौशिक",
+            "eid": "11891",
+            "pagenum": 209,
+            "content": "कौशिक¦ mfn. (-कः-की-कं) 1. Silk, silken. 2. Of the family of Kusika, &c. m. (-कः) 1. A name of INDRA. 2. A fragrant substance, (Bdellium) 3. An owl. 4. A snake-catcher. 5. An ichneumon. (Viverra ichneumon.) 6. A title of VISWAMITRA. 7. One skilled in dictionaries. 8. A dictionary compiler. 9. Love, the passion. 10. The marrow. f. (-की) 1. A river in Bahar, the Kosi or Koosa. 2. A name of the goddess DURGA, n. (-कं) Silk. E. कोश a sheathe, &c. ठक् affix, and ङीप् for the feminine; also कौषिक, and कौशिकी."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कौशिक",
+            "eid": "8376",
+            "pagenum": 211,
+            "content": "<b>1 kauśika-</b>¦ <ab>a.</ab> qui se rapporte à Kuśika ; <ab>m.</ab> <ab>patron.</ab> de divers personnages (<ab>not.</ab> de Viśvāmitra et d'Indra) ; <ab>pl.</ab> les descendants de Kuśa ; <i>-ī-</i> <ab>f.</ab> <ab>n.</ab> d'une rivière (Kosi, près de Bhagalpur) ; d'une nonne bouddhiste."
+        },
+        {
+            "word": "कौशिक",
+            "eid": "8377",
+            "pagenum": 211,
+            "content": "<b>2 kauśika-</b>¦ <ab>a.</ab> fourré (épée) ; de soie ; <ab>nt.</ab> tissu de soie (de cocon), vêtement de soie."
+        },
+        {
+            "word": "कौशिक",
+            "eid": "8378",
+            "pagenum": 211,
+            "content": "<b>3 kauśika-</b>¦ <ab>m.</ab> hibou."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कौशिक",
+            "eid": "758",
+            "pagenum": 1,
+            "content": "<b>Kauśika</b>¦ is an epithet of Indra as ‘connected with the Kuśikas,’ and also of <b>Viśvāmitra</b> as ‘son of Kuśika.’<sup>1</sup> A teacher named Kauśika is mentioned as a pupil of <b>Kauṇḍinya</b> in the first two Vaṃśias (lists of teachers) of the Bṛhadāraṇyaka Upaniṣad.<sup>2</sup> <F>1) In a late Khila, Scheftelowitz, <i>Die</i> <i>Apokryphen des Ṛgveda,</i> 104.</F> <F>2) ii. 6, 1; iv. 6, 1 (Kāṇva recension).</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कौशिक",
+            "eid": "11897",
+            "pagenum": 255,
+            "content": "कौशिक¦ (-कः-की-कं) .²1 Silk, silken. .²2 Of the family of <i>Kuśika,</i> &c. m. (-कः) .²1 A name of INDRA. .²2 A fragrant substance, (Bdellium.) .²3 An owl. .²4 A snake-catcher. .²5 An ichneumon, (<bio>Viverra ichneumon</bio>.) .²6 A title of VIŚVAMITRA. .²7 One skilled in dictionaries. .²8 A dictionary compiler. .²9 Love, the passion. .²10 The marrow. f. (-की) .²1 A river in <i>Behar,</i> the <i>Kosi</i> or <i>Koosa.</i> .²2 A name of the goddess DURGA. n. (-कं) Silk. .E. कोश a sheathe, &c. ठक् affix, and ङीप् for the feminine; also कौषिक, and कौषिकी."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कौशिक",
+            "eid": "11349",
+            "pagenum": 218,
+            "content": "कौशिक¦ (कः) 1. <i>m. Indra;</i> bdellium; an owl; a snake-catcher; an ichneumon; a lexicographer; love; marrow. <i>f.</i> (की) A river in Behar, <i>Durgā. n.</i> Silk. <i>a.</i> Silken."
+        }
     ]
 }

@@ -15,5 +15,21 @@
             "pagenum": 1,
             "content": "*अनुरहसम्¦ <lex>Adv.</lex> <ls>P. 5,4,81</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनुरहसम्",
+            "eid": "2833",
+            "pagenum": 39,
+            "content": "°<i>anurahasam</i>¦ = <i>rahasi</i> <ls>H</ls> 10, 32; 17, 58. {part=,seq=2870,type=°,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनुरहसम्",
+            "eid": "1878",
+            "pagenum": 40,
+            "content": "<b>anu-rahasam</b>¦ <ab>adv.</ab> en secret."
+        }
     ]
 }

@@ -109,5 +109,21 @@
             "pagenum": 5,
             "content": "भौवन¦ <div n='1'> 2) <is>Sādhana</is> <ls>ṚV. ANUKR.</ls>"
         }
+    ],
+    "STC": [
+        {
+            "word": "भौवन",
+            "eid": "16355",
+            "pagenum": 541,
+            "content": "<b>bhauvana-</b>¦ <ab>m.</ab> <ab>patron.</ab> de divers hommes."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "भौवन",
+            "eid": "2305",
+            "pagenum": 2,
+            "content": "<b>Bhauvana,</b>¦ ‘descendant of Bhuvana,’ is the patronymic of the mythical <b>Viśvakarman</b> in the Śatapatha (xiii. 7, 1, 15) and the Aitareya (viii. 21, 8. 10) Brāhmaṇas, and the Nirukta (x. 26)."
+        }
     ]
 }

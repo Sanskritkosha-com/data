@@ -76,5 +76,37 @@
             "pagenum": 7,
             "content": "समूर¦ <lex>m.</lex> <i>eine Antilopenart</i> <ls>H. 1294.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "समूर",
+            "eid": "26077",
+            "pagenum": 358,
+            "content": "*<i>samūra</i>¦ m. eine Antilopenart, <ls>H</ls> XIX, 32. {part=,seq=26426,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "समूर",
+            "eid": "42902",
+            "pagenum": 768,
+            "content": "समूर¦ m. (-रः) A deer. E. सम् to be confused, aff. ऊर ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "समूर",
+            "eid": "40845",
+            "pagenum": 902,
+            "content": "समूर¦ m. (-रः) A deer. .E. षम to be confused, aff. ऊर."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "समूर",
+            "eid": "40565",
+            "pagenum": 822,
+            "content": "स-मूर¦ (रः) 1. <i>m.</i> A deer."
+        }
     ]
 }

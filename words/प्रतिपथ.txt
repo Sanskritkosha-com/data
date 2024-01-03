@@ -31,5 +31,21 @@
             "pagenum": 7,
             "content": "प्रतिपथ¦ IV. <lex>m.</lex> <i>Rückweg</i> <ls>HARAVIJAYA 1,40</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रतिपथ",
+            "eid": "19194",
+            "pagenum": 265,
+            "content": "<i>pratipatha</i>¦ m. Rückweg, Haravijaya 1, 40. {part=,seq=19466,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रतिपथ",
+            "eid": "14425",
+            "pagenum": 460,
+            "content": "<b>prati-patha-</b>¦ <ab>iic.</ab> et <i>-am</i> <ab>adv.</ab> le long du chemin, en retournant.  <P><i>°gati-</i> <ab>a.</ab> qui s'en va le long du chemin."
+        }
     ]
 }

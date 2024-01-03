@@ -76,5 +76,43 @@
             "pagenum": 2,
             "content": "कासर¦ <lex>m.</lex> <i>Büffel</i> <ls>AK. 2, 5, 4.</ls> <ls>H. 1283.</ls> <ls>HĀR. 80.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कासर",
+            "eid": "10592",
+            "pagenum": 146,
+            "content": "*<i>kāsara</i>¦ m. Büffel, <ls>S</ls> II, 225, 2 et passim; <ls>H</ls> 28, 71 (Ko.); 31, 35; 37, 37; 39, 21; <ls>Manm.</ls> III, 12<sup>a</sup>; <ls>Govardh.</ls> 262. 521. — °N. eines daitya (= <i>Mahiṣa</i>) <ls>H</ls> 30, 20; 47, 149. — Vgl. EJ V, 183 (<i>kāśara</i>); <ls>Hem. Deś.</ls> II, 4 (<i>kasara</i>). [Z.] {part=,seq=10748,type=*,n=6}"
+        },
+        {
+            "word": "कासर",
+            "eid": "28499",
+            "pagenum": 392,
+            "content": "†°<i>kāsara</i>¦ m. Büffel auch <ls>Viṣṇubh.</ls> VI, 29<sup>b</sup>. {part=N,seq=28870,type=†°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कासर",
+            "eid": "10359",
+            "pagenum": 181,
+            "content": "कासर¦ m. (-रः) A buffalo. E. क water, and आङ् prefixed to सृ to go, affix अप्; who frequents water, this animal being partial to marshy places."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कासर",
+            "eid": "10365",
+            "pagenum": 220,
+            "content": "कासर¦ m. (-रः) A buffalo. .E. क water, and आङ् prefixed to सृ to go, affix अप्; who frequents water, this animal being partial to marshy places."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कासर",
+            "eid": "9803",
+            "pagenum": 186,
+            "content": "कासर¦ (रः) 1. <i>m.</i> A buffalo."
+        }
     ]
 }

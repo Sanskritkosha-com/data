@@ -60,5 +60,37 @@
             "pagenum": 7,
             "content": "गोरुत¦ II. <ls>DAŚAK. (1883) 119,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गोरुत",
+            "eid": "12556",
+            "pagenum": 173,
+            "content": "<i>goruta</i>¦ <ls>Daśak.</ls> (1883) 119, 15. {part=,seq=12747,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गोरुत",
+            "eid": "14059",
+            "pagenum": 248,
+            "content": "गोरुत¦ n. (-तं) A measure of distance equal to two Crosa or Cos: see गव्यूतिः ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गोरुत",
+            "eid": "14068",
+            "pagenum": 301,
+            "content": "गोरुत¦ n. (-तं) A measure of distance equal to two <i>Cros</i> or <i>Cos:</i> see गव्यूति."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गोरुत",
+            "eid": "13523",
+            "pagenum": 263,
+            "content": "गोरुत¦ (तं) 1. <i>n.</i> A measure of distance, equal to two kros"
+        }
     ]
 }

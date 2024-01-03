@@ -74,5 +74,37 @@
             "pagenum": 7,
             "content": "अग्निकण¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अग्निकण",
+            "eid": "416",
+            "pagenum": 6,
+            "content": "<i>agnikaṇa</i>¦ m. Feuerfunken, <ls>Śiś.</ls> 1, 54; <ls>S</ls> I, 148, 13 v.u. (Ko.). {part=,seq=430,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अग्निकण",
+            "eid": "247",
+            "pagenum": 5,
+            "content": "अग्निकण¦ m. (-णः) A spark. E. अग्नि fire, and कण a small particle."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अग्निकण",
+            "eid": "248",
+            "pagenum": 6,
+            "content": "अग्निकण¦ m. (-णः) A spark. .E. अग्नि fire, and कण a small particle."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अग्निकण",
+            "eid": "208",
+            "pagenum": 5,
+            "content": "अग्नि-कण¦ (णः) 1. <i>m.</i> A spark."
+        }
     ]
 }

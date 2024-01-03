@@ -299,5 +299,75 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> हा¦ mit विप्रति, °हीन <i>frei von</i> — (im <ab>Comp.</ab> vorangehend) <ls>DIVYĀVAD. 95,18</ls>. — Mit अभिवि <i>verlassen</i> <ls>KIR. 10,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "हा",
+            "eid": "27533",
+            "pagenum": 377,
+            "content": "2. <i>hā</i>¦ mit <i>viprati, °hīna</i> frei von... (im Komp. vorangehend), <ls>Divyāvad.</ls> 95, 18. — Mit <i>abhivi</i> verlassen, <ls>Kir.</ls> 10, 1. [<ls>Yudh.</ls> 2, 90.] {part=,seq=27901,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "हा",
+            "eid": "46807",
+            "pagenum": 831,
+            "content": "हा¦ r. 3rd cl. (ओ, क) ओहाक् (जहाति) 1. To quit, to leave, to abandon. 2. To wander or deviate. 3. To let fall. 4. To resign. 5. To neglect. With परि, 1. To relinquish. 2. To omit, to neglect. With प्र, 1. To give up. 2. To let go. With अप, To abandon. With वि, To give up. (ओ, ङ) ओहाङ् (जिहीते) 1. To go, to move. 2. To attain. With उद्, 1. To go up, to rise. 2. To revive, to come to life. 3. To spring up. 4. To rise, (as the sun or moon.) 5. To depart. 6. To raise. With उप, To come down. With सम्, To attain."
+        },
+        {
+            "word": "हा",
+            "eid": "46808",
+            "pagenum": 831,
+            "content": "हा¦ Ind. 1. An interjection of pain, weariness, “ah,” “alas.” 2. Of sorrow. 3. An exclamation of pleasure or surprise, “oh” “ha.” 4. A term of anger or reproach. In the sense of “woe be to” हा is used with the accusative of the object of reproach. E. हा to abandon, aff. का ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "हा",
+            "eid": "24397",
+            "pagenum": 887,
+            "content": "<b>1 HĀ-</b>¦ <i>-jahāti</i> (<ab>pl.</ab> <i>jahati</i> <ab>impér.</ab> <i>jahīhi</i> opt. <i>-jahyāt</i>) <i>jahati ; jahau ; ahāt ajījahat ahāsuḥ ; hāsyati -te</i> <i>jahiṣyati ; hīyate</i> (<i>-ti</i>) <i>jihāsati hāpayati -te ; hīna- hāta-</i> <i>jahita- hātum hitvā °hāya</i> -- abandonner, quitter, laisser (<ab>not.</ab> <i>-śarīram prāṇān,</i> etc. et absolument ; mourir) ; émettre ; expulser, enlever ; éviter, s'abstenir de ; échapper à ; perdre ; négliger ; <ab>pass.</ab> être abandonné, etc., exclu de (<ab>abl.</ab>, <ab>rar.</ab> <ab>instr.</ab> ; <i>-prāṇaiḥ h.</i> mourir) ; manquer, être déficient, être lésé ; décliner, finir ; perdre (<ab>abl.</ab>) ; se détacher de ; <ab>caus.</ab> faire abandonner ; manquer <lbinfo n='4'/> ; être court de ; perdre ; omettre."
+        },
+        {
+            "word": "हा",
+            "eid": "24398",
+            "pagenum": 887,
+            "content": "<b>2 HĀ-</b>¦ <i>-jihīte</i> (<ab>pl.</ab> <i>jihate</i>) ; <i>ahāsta ; hāsyate ; hātum</i> <i>°hāya</i> -- voler (dit d'une flèche) ; tomber (dans tel état) ; presque uniquement après préverbes."
+        },
+        {
+            "word": "हा",
+            "eid": "24399",
+            "pagenum": 887,
+            "content": "<b>3 hā</b>¦ <ab>exclam.</ab> de chagrin et d'étonnement.  <P><i>°kaṣṭa-śabda-</i> <ab>m.</ab> le cri <i>hā kaṣṭam.</i>  <P><i>°kāra-</i> <ab>m.</ab> le son <i>hā.</i>  <P><i>°hā-bhūtam</i> <ab>adv.</ab> s'exclamant <i>hā hā.</i>  <P><i>°hā-rava- °hā-śabda-</i> <ab>m.</ab> l'exclamation <i>hā hā.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हा",
+            "eid": "44143",
+            "pagenum": 973,
+            "content": "हा¦ r. 3rd cl. (ओ क,) ओहाक् (जहाति) .²1 To quit, to leave, to abandon. .²2 To wander or deviate: (ओ ड,) ओहाङ् (जिहते) To go, to move."
+        },
+        {
+            "word": "हा",
+            "eid": "44144",
+            "pagenum": 973,
+            "content": "हा¦ <i>ind.</i> .²1 An interjection of weariness. .²2 Of sorrow, pain. .²3 An exclamation of pleasure. .²4 A term of reproach. .E. हा to abandon, aff. क्विप्; the word corresponds to ah, alas, oh, ha, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हा",
+            "eid": "43968",
+            "pagenum": 898,
+            "content": "हा¦ (लि ञा) जहाति 3. <i>a.</i> To quit, to wander from. जिहते 3. <i>d.</i> To go."
+        },
+        {
+            "word": "हा",
+            "eid": "43969",
+            "pagenum": 898,
+            "content": "हा¦ <i>interj.</i> Expressive of weariness, sorrow, pleasure, reproach."
+        }
     ]
 }

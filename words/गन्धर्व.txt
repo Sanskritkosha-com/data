@@ -309,5 +309,27 @@
             "pagenum": 7,
             "content": "गन्धर्व¦ II. <ab>Vgl.</ab> <ls>PISCHEL, Vedische Studien 77. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गन्धर्व",
+            "eid": "12110",
+            "pagenum": 166,
+            "content": "<i>gandharva</i>¦ , vgl. Pischel, Vedische Studien I, 77 ff. {part=,seq=12294,type=,n=1}"
+        },
+        {
+            "word": "गन्धर्व",
+            "eid": "12110.1",
+            "pagenum": 166,
+            "content": "<i>gandharva</i>¦ 1. a)a) zu lesen. {part=,seq=12295,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "गन्धर्व",
+            "eid": "8669",
+            "pagenum": 224,
+            "content": "<b>gandharva-</b>¦ <ab>m.</ab> <ab>n.</ab> d'êtres semi-divins, gardiens du Soma, musiciens célestes ; d'un chanteur ; d'un cheval ; <ab>pl.</ab>, aussi <ab>n.</ab> d'un peuple ; <i>-ī-</i> <ab>f.</ab> fille de Surabhi et mère de la race chevaline ; nuit ; <i>-tva-</i> <ab>nt.</ab> état de Gandharva. <lbinfo n='6'/>  <P><i>°nagara-</i> <ab>nt.</ab> <ab>n.</ab> d'une ville céleste ; capitale <lbinfo n='4'/> du peuple des Gandharva ; <i>°pura-</i> <ab>id.</ab> ; mirage.  <P><i>°vidyā-</i> <ab>f.</ab> science des Gandharva, musique.  <P><i>°vivāha-</i> <ab>m.</ab> mariage à la mode des G. (sans rites ni autorisation de la famille)."
+        }
     ]
 }

@@ -152,5 +152,51 @@
             "pagenum": 5,
             "content": "उत्कर¦ <div n='1'> 2) सज्जना एव साधूनां प्रथयन्ति गुणोत्करम् <ls>Spr. 3109.</ls> तदा संमानयामास राजा रत्नोत्करेण तम् <ls>KATHĀS. 66, 73.</ls> प्रकारोत्कर <i>eine Menge Arten</i> (von Speisen) <ls>DHŪRTAS. 79, 15.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "उत्कर",
+            "eid": "7984",
+            "pagenum": 109,
+            "content": "<i>utkara</i>¦ °Adj. = <i>unmayūkha</i>, <ls>H</ls> 5, 141. {part=,seq=8096,type=,n=1}"
+        },
+        {
+            "word": "उत्कर",
+            "eid": "28226",
+            "pagenum": 388,
+            "content": "<i>utkara</i>¦ m. °Aufhäufung (beim Messen), <ls>Kauṭ.</ls> 94, 9. {part=N,seq=28597,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उत्कर",
+            "eid": "6699",
+            "pagenum": 115,
+            "content": "उत्कर¦ mfn. (-रः-रा-री-रं) 1. What lifts or raises. 2. What piles or heaps, what makes up. m. (-रः) A heap, a pile, a stack, &c. E. उत् up, and कर what makes, from कृ and ट or अप् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उत्कर",
+            "eid": "6103",
+            "pagenum": 137,
+            "content": "<b>ut-kara-</b>¦ <ab>m.</ab> décombres ; monceau."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उत्कर",
+            "eid": "6701",
+            "pagenum": 140,
+            "content": "उत्कर¦ mfn. (-रः-रा-री-रं) .²1 What lifts or raises. .²2 What piles or heaps, what makes up. m. (-रः) A heap, a pile, a stack, &c. .E. उत् up, and कर what makes, from कृ and ट or अप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उत्कर",
+            "eid": "6098",
+            "pagenum": 114,
+            "content": "उत्क-र¦ (रः) 1. <i>m.</i> A heap; heaping."
+        }
     ]
 }

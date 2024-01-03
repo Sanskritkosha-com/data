@@ -163,5 +163,37 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अनग्नि¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनग्नि",
+            "eid": "1926",
+            "pagenum": 26,
+            "content": "1. <i>ánagni</i>¦ , so akzentuiert <ls>Nir.</ls> 1, 18. {part=,seq=1952,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनग्नि",
+            "eid": "1173",
+            "pagenum": 21,
+            "content": "अनग्नि¦ m. (-ग्निः) A Brahman who has not maintained his household fire. E. अन् neg. अग्नि fire."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनग्नि",
+            "eid": "1145",
+            "pagenum": 25,
+            "content": "<b>an-agni-</b>¦ <ab>a.</ab> qui n'entretient pas le feu sacré ; où il n'y a pas de feu ; <i>-ka-</i> <ab>id.</ab>  <P><i>°dagdha-</i> <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> de Mânes."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनग्नि",
+            "eid": "1175",
+            "pagenum": 25,
+            "content": "अनग्नि¦ m. (-ग्निः) A Brahman who has not maintained his household fire. .E. अन् neg. अग्नि fire."
+        }
     ]
 }

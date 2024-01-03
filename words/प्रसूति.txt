@@ -178,5 +178,45 @@
             "pagenum": 7,
             "content": "प्रसूति¦ IV. <ls>HARAVIJAYA 10,13</ls> fehlerhaft für प्रसिद्धि."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रसूति",
+            "eid": "19646",
+            "pagenum": 271,
+            "content": "<i>prasūti</i>¦ Haravijaya 10, 13 fehlerhaft für <i>prasiddhi</i>. {part=,seq=19921,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रसूति",
+            "eid": "27582",
+            "pagenum": 499,
+            "content": "प्रसूति¦ f. (-तिः) 1. Bringing forth, (as young.) 2. Birth, production. 3. Offspring, children, a son or daughter. 4. A mother. 5. A producer, a procreator. 6. Calving or laying eggs. E. प्र before, सू to bear, aff. क्तिन् or क्तिच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रसूति",
+            "eid": "15454",
+            "pagenum": 489,
+            "content": "<b>pra-sūti-</b>¦ <ab>f.</ab> procréation, génération, accouchement, <lbinfo n='7'/> ponte (des œufs) ; naissance ; croissance, <lbinfo n='5'/> apparition (de fleurs, fruits) ; produit ; procréateur, père ou mère ; enfants, progéniture <lbinfo n='4'/> ; fille de Manu."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रसूति",
+            "eid": "26838",
+            "pagenum": 582,
+            "content": "प्रसूति¦ f. (-तिः) .²1 Bringing forth, (as young.) .²2 Birth, production. .²3 Offspring, children, a son or daughter. .E. प्र before षू to bear, aff. क्तिन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रसूति",
+            "eid": "26335",
+            "pagenum": 522,
+            "content": "प्र-सूति¦ (तिः) 2. <i>f.</i> Bringing forth; birth; offspring; production."
+        }
     ]
 }

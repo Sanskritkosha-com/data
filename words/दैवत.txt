@@ -168,5 +168,45 @@
             "pagenum": 7,
             "content": "दैवत¦ III. 3〉 <lex>m.</lex> <ls>R. ed. Bomb. 2,11,16</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दैवत",
+            "eid": "15719",
+            "pagenum": 216,
+            "content": "<i>daivata</i>¦ 3. m. <ls>R. ed. Bomb.</ls> 2, 11, 16. [<ls>Śrīk.</ls> 23, 39.] {part=,seq=15961,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दैवत",
+            "eid": "19768",
+            "pagenum": 354,
+            "content": "दैवत¦ mfn. (-तः-ती-तं) 1. Of or relating to a god. mn. (-तः-तं) 1. A god, a deity. 2. An idol. n. (-तं) A number of gods. E. देवता a deity, अण् pleonastic dor referential affix."
+        }
+    ],
+    "STC": [
+        {
+            "word": "दैवत",
+            "eid": "10953",
+            "pagenum": 327,
+            "content": "<b>daivata-</b>¦ <ab>nt.</ab> (<ab>m.</ab>) = <i>devatā-</i> (<ab>qqf.</ab> <ab>coll.</ab>) ; <ab>ifc.</ab> ayant pour divinité, révérant comme un dieu.  <P><i>°pati-</i> <ab>m.</ab> Indra.  <P><i>°para-</i> <ab>a.</ab> adonné aux dieux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दैवत",
+            "eid": "19782",
+            "pagenum": 426,
+            "content": "दैवत¦ mfn. (-तः-ती-तं) .²1 Of or relating to a god. mn. (-तः-तं) .²1 A god, a deity. .²2 An idol. n. (-तं) A number of gods. .E. देवता a deity, अण् pleonastick or referential affix."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दैवत",
+            "eid": "19258",
+            "pagenum": 379,
+            "content": "दैवत¦ (तः-ती-तं) <i>a.</i> Relating to a god or idol. <i>m.</i> A god; an idol. <i>n.</i> Number of gods."
+        }
     ]
 }

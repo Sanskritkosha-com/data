@@ -91,5 +91,29 @@
             "pagenum": 7,
             "content": "प्रतिभोग¦ <ls>M. 8,307</ls> <ab>v. l.</ab> für <hom>1.</hom> प्रतिभाग 2〉."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रतिभोग",
+            "eid": "19232",
+            "pagenum": 265,
+            "content": "<i>pratibhoga</i>¦ <ls>M.</ls> 8, 307 v.l. für 1. <i>pratibhāga</i> 2. {part=,seq=19505,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रतिभोग",
+            "eid": "26572",
+            "pagenum": 481,
+            "content": "प्रतिभोग¦ m. (-गः) Enjoyment."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रतिभोग",
+            "eid": "14506",
+            "pagenum": 462,
+            "content": "<b>prati-bhoga-</b>¦ <ab>m.</ab> jouissance."
+        }
     ]
 }

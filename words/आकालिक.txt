@@ -111,5 +111,51 @@
             "pagenum": 7,
             "content": "आकालिक¦ I. <i>*rechtzeitig</i> <ls>MAHĀVY. 63</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आकालिक",
+            "eid": "6555",
+            "pagenum": 89,
+            "content": "<i>ākālika</i>¦ *rechtzeitig, <ls>Mahāvy.</ls> 63. {part=,seq=6642,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आकालिक",
+            "eid": "4949",
+            "pagenum": 84,
+            "content": "आकालिक¦ mfn. (-कः-की-कं) 1. Momentary, instantaneous. 2. Unseasonable, improper with respect to time. f. (-की) Lightning. E. अ neg. काल time, ठक् affix, fem. ङीप्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आकालिक",
+            "eid": "4922",
+            "pagenum": 107,
+            "content": "<b>1 ā-kālika-</b>¦ <i>-ī-</i> a momentané ; qui dure jusqu'au lendemain."
+        },
+        {
+            "word": "आकालिक",
+            "eid": "4923",
+            "pagenum": 107,
+            "content": "<b>2 ā-kālika-</b>¦ <i>-ī-</i> <ab>a.</ab> inattendu, inopportun."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आकालिक",
+            "eid": "4951",
+            "pagenum": 103,
+            "content": "आकालिक¦ mfn. (-कः-की-कं) .²1 Momentary, instantaneous. .²2 Unseasonable, improper with respect to time. f. (-की) Lightning. .E. अ neg. काल time, ठक् affix, fem. ङीप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आकालिक",
+            "eid": "4319",
+            "pagenum": 81,
+            "content": "आ-कालिक¦ (कः-की-कं) <i>a.</i> Momentary. (की) 3. <i>f.</i> Lightning."
+        }
     ]
 }

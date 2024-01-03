@@ -269,5 +269,59 @@
             "pagenum": 7,
             "content": "1. तत¦, voc. <ls>R. ed. Bomb. 2, 103, 25.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तत",
+            "eid": "14204",
+            "pagenum": 196,
+            "content": "*<i>tata</i>¦ °sound of the lute and similar instruments, <ls>Vās.</ls> 77, 2. {part=,seq=14430,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तत",
+            "eid": "16874",
+            "pagenum": 301,
+            "content": "तत¦ mfn. (-तः-ता-तं) 1. Spread, diffused, expanded. 2. Stretched, extended. m. (-तः) Air, wind. n. (-तं) Any stringed instrument. E. तन् to spread, &c. क्त affix, or Unadi aff. तन्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तत",
+            "eid": "9816",
+            "pagenum": 273,
+            "content": "<b>1 tata-</b>¦ (<b>TAN-</b>) <ab>a. v.</ab> étendu, tendu, bandé (arc), tendu de (<ab>instr.</ab> <ab>ifc.</ab>), étalé ; préparé, accompli (sacrifice)."
+        },
+        {
+            "word": "तत",
+            "eid": "9817",
+            "pagenum": 273,
+            "content": "<b>2 tata-</b>¦ <ab>m.</ab> père, papa ; <ab>voc.</ab> appellation familière : petit père, mon petit, mon enfant, mon chéri.  <P><i>°druh-</i> <ab>a.</ab> qui fait du mal au père.  <P><i>tatā-maha-</i> (analog. de <i>pitā°</i>) <ab>m.</ab> grand-père."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "तत",
+            "eid": "1102",
+            "pagenum": 1,
+            "content": "<b>Tata,</b>¦ ‘dada,’ is the pet name for ‘father’ in the Rigveda<sup>1</sup> and later.<sup>2</sup> <i>Cf.</i> <b>Tāta</b> and <b>Pitṛ.</b> <F>1) viii. 91, 6; ix. 112, 3.</F> <F>2) Av. v. 24, 16; Taittirīya Saṃhitā, iii. 2, 5, 5; Taittirīya Brāhmaṇa, i. 6, 9, 7; in the vocative as a form of address, Av. viii. 4, 77; Aitareya Brāhmaṇa, v. 14; vii. 15; Aitareya Āraṇyaka, i. 3, 3. <div n='P'/><i>Cf.</i> Delbrück, <i>Die indogermanischen</i> <i>Verwandtschaftsnamen,</i> 449.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तत",
+            "eid": "16891",
+            "pagenum": 363,
+            "content": "तत¦ mfn. (-तः-ता-तं) .²1 Spread, diffused, expanded. .²2 Stretched, extended. m. (-तः) Air, wind. n. (-तं) Any stringed musical instrument. .E. तन to spread, &c. क्त affix, or Uṇādi affix तन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तत",
+            "eid": "16358",
+            "pagenum": 320,
+            "content": "तत¦ (तः-ता-तं) <i>a.</i> Spread, diffused. <i>m.</i> Air, wind. <i>n.</i> Any stringed musical instrument."
+        }
     ]
 }

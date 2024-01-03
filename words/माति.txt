@@ -81,5 +81,21 @@
             "pagenum": 7,
             "content": "माति¦ V. <i>*ein <ab>best.</ab> Körpertheil</i> <ls>MAHĀVY. 189,71</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "माति",
+            "eid": "21498",
+            "pagenum": 297,
+            "content": "<i>māti</i>¦ *ein best. Körperteil, <ls>Mahāvy.</ls> 189, 71. {part=,seq=21793,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "माति",
+            "eid": "31207",
+            "pagenum": 562,
+            "content": "माति¦ f. (-तिः) 1. Measure. 2. Conception, idea."
+        }
     ]
 }

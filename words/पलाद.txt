@@ -44,5 +44,37 @@
             "pagenum": 4,
             "content": "पलाद¦ (पल + अद) <lex>m.</lex> <i>ein</i> <is>Rākṣasa</is> (<i>Fleischfresser</i>) <ls>H. 187.</ls> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पलाद",
+            "eid": "18121",
+            "pagenum": 250,
+            "content": "*<i>palāda</i>¦ m. = <i>rakṣas</i>, <ls>Prabandh.</ls> 181, 7. {part=,seq=18383,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पलाद",
+            "eid": "24045",
+            "pagenum": 435,
+            "content": "पलाद¦ mf. (-दः-दा) A Rākshasa, male or female. E. पल flesh, अद who eats; also पलादन mf. (-नः-नी)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पलाद",
+            "eid": "23996",
+            "pagenum": 518,
+            "content": "पलाद¦ mf. (-दः-दा) A <i>Rākṣasa,</i> male or female. .E. पल flesh, अद who eats; also पलादन mf. (-नः-नी.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पलाद",
+            "eid": "23469",
+            "pagenum": 463,
+            "content": "पला_द¦ (दः-दा) 1. <i>m. f.</i> A <i>Rākshasa.</i>"
+        }
     ]
 }

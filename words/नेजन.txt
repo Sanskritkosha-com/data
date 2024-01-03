@@ -91,5 +91,21 @@
             "pagenum": 7,
             "content": "नेजन¦ auch <i>Waschplatz</i> <ls>MBH. 7,187,13</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "नेजन",
+            "eid": "17313",
+            "pagenum": 239,
+            "content": "<i>nejana</i>¦ auch Waschplatz, <ls>MBh.</ls> 7, 187, 13. {part=,seq=17569,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "नेजन",
+            "eid": "12647",
+            "pagenum": 392,
+            "content": "<b>nejana-</b>¦ <ab>nt.</ab> lavage ; endroit où l'on lave."
+        }
     ]
 }

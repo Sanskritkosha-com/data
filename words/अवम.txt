@@ -148,5 +148,45 @@
             "pagenum": 1,
             "content": "अवम <lex>m.</lex> <lex>n.</lex> und °वासर <lex>m.</lex>¦ <i>ein mit drei lunaren Tagen zusammenstossender Wochentag</i> <ls>HEMĀDRI 1,77,15</ls>. <ls n='HEMĀDRI 1,77,'>19</ls>. <ls n='HEMĀDRI 1,77,'>21</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवम",
+            "eid": "5326",
+            "pagenum": 72,
+            "content": "<i>avamá</i>¦ m. n. und <i>°vāsara</i> m. ein mit drei lunaren Tagen zusammenstoßender Wochentag, Hemādri 1, 77, 15. 19. 21. {part=,seq=5400,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवम",
+            "eid": "3784",
+            "pagenum": 65,
+            "content": "अवम¦ mfn. (-मः-मा-मं) Low, vile, inferior, base. n. (-नं) A lunar day, exactly coinciding with a solar one. E. अव to preserve, &c. अम Unādi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवम",
+            "eid": "4068",
+            "pagenum": 88,
+            "content": "<b>avama-</b>¦ <ab>a.</ab> le plus bas ; inférieur, bas."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवम",
+            "eid": "3786",
+            "pagenum": 79,
+            "content": "अवम¦ mfn. (-मः-मा-मं) Low, vile, inferior, base. n. (-मं) A lunar day, exactly coinciding with a solar one. .E. अव to preserve, &c. अम Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवम",
+            "eid": "3216",
+            "pagenum": 62,
+            "content": "अवम¦ (मः-मा-मं) <i>a.</i> Low. <i>n.</i> Lunar days."
+        }
     ]
 }

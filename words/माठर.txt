@@ -209,5 +209,45 @@
             "pagenum": 7,
             "content": "माठर¦ V. <lex>m.</lex> <i>der Vorsteher eines</i> <is>Maṭha</is> <ls>PETERSON</ls> zu <ls>SUBHĀṢITĀV. 2767</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "माठर",
+            "eid": "21482",
+            "pagenum": 296,
+            "content": "<i>māṭhara</i>¦ m. der Vorsteher eines maṭha, Peterson zu <ls>Subhāṣitāv.</ls> 2767. {part=,seq=21777,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "माठर",
+            "eid": "31184",
+            "pagenum": 562,
+            "content": "माठर¦ m. (-रः) 1. One of the sun's attendants. 2. The poet VYĀSA. 3. Name of a Muni. 4. A distiller. E. मन् to reverence, अरन् Unādi aff., ठच् substituted for the radical final, and the vowel optionally long; also माठर्य्य ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "माठर",
+            "eid": "16644",
+            "pagenum": 562,
+            "content": "<b>māṭhara-</b>¦ <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> d'un peuple ; <ab>sg.</ab> servant <lbinfo n='4'/> de Sūrya."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "माठर",
+            "eid": "30109",
+            "pagenum": 655,
+            "content": "माठर¦ m. (-रः) .²1 One of the sun's attendants. .²2 The poet VYĀSA. .²3 Name of a <i>Muni.</i> .²4 A distiller. .E. मन to reverence, अरन् Uṇādi aff., ठच् substituted for the radical final, and the vowel optionally long; also माठर्य्य."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "माठर",
+            "eid": "29640",
+            "pagenum": 587,
+            "content": "माठर¦ (रः) 1. <i>m.</i> One of the sun's attendants; name of a poet; of a sage; a distiller."
+        }
     ]
 }

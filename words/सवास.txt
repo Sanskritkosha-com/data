@@ -35,5 +35,37 @@
             "pagenum": 7,
             "content": "सवास¦ <lex>Adj.</lex> <i>mit Wohlgeruch erfüllt</i> <ls>JĀTAKAM. 22,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सवास",
+            "eid": "26279",
+            "pagenum": 361,
+            "content": "<i>savāsa</i>¦ Adj. mit Wohlgeruch erfüllt, <ls>Jātakam.</ls> 22, 15. {part=,seq=26631,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सवास",
+            "eid": "43363",
+            "pagenum": 775,
+            "content": "सवास¦ mfn. (-सः-सा-सं) 1. Scented, perfumed. 2. Having a dwelling. E. स with, वास abode, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सवास",
+            "eid": "41283",
+            "pagenum": 912,
+            "content": "सवास¦ mfn. (-सः-सा-सं) .²1 Scented, perfumed. .²2 Having a dwelling. .E. स with, वास abode, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सवास",
+            "eid": "41016",
+            "pagenum": 832,
+            "content": "स-वास¦ (सः-सा-सं) <i>a.</i> Having a house; perfumed."
+        }
     ]
 }

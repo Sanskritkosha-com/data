@@ -155,5 +155,51 @@
             "pagenum": 1,
             "content": "आविद्ध¦ (von व्यध् mit आ) <lex>adj.</lex> <div n='1'> 1) partic. s. u. व्यध् . <div n='1'>— 2) <i>krumm</i> <ls>AK. 3, 2, 21.</ls> <ls>TRIK. 3, 3, 214.</ls> <ls>H. 1456.</ls> <ls>an. 3, 342.</ls> <ls>MED. dh. 28.</ls> <div n='1'>— 3) <i>falsch, betrügerisch</i> <ls>HĀR. 201.</ls> <div n='1'>— 4) <i>thöricht</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "आविद्ध",
+            "eid": "7398",
+            "pagenum": 101,
+            "content": "<i>āviddha</i>¦ t. t. <ls>Harṣac.</ls> p. 95 (Komm.); Komm. zu Haravijaya 5, 55; 26, 86? [Z.] {part=,seq=7501,type=,n=1}"
+        },
+        {
+            "word": "आविद्ध",
+            "eid": "7398.1",
+            "pagenum": 101,
+            "content": "<i>āviddha</i>¦ n. ° = <i>udgatam</i> [°eine Gangart des Pferdes] und ° = <i>dhātubheda</i> [t. t. aus der Musik] <ls>H</ls> 40, 39. {part=,seq=7502,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आविद्ध",
+            "eid": "5902",
+            "pagenum": 101,
+            "content": "आविद्ध¦ mfn. (-द्धः-द्धा-द्धं) 1. Pierced, wounded. 2. Crooked. 3. Cast, thrown, sent. 4. Disappointed. 5. Stupid, foolish. E. आङ् before व्यध to hurt, क्त aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आविद्ध",
+            "eid": "5666",
+            "pagenum": 125,
+            "content": "<b>ā-viddha-</b>¦ <ab>a. v.</ab> lancé, envoyé ; percé, blessé ; courbé, incliné."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आविद्ध",
+            "eid": "5904",
+            "pagenum": 123,
+            "content": "आविद्ध¦ mfn. (-द्धः-द्धा-द्धं) .²1 Pierced, wounded. .²2 Crooked. .²3 Cast, thrown, sent. .²4 Disappointed. .²5 Stupid, foolish. .E. आङ् before व्यध to hurt, क्त aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आविद्ध",
+            "eid": "5285",
+            "pagenum": 99,
+            "content": "आ-विद्ध¦ (द्धः-द्धा-द्धं) <i>p.</i> Pierced; crooked; cast; sent; stupid."
+        }
     ]
 }

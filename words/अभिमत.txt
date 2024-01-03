@@ -107,5 +107,43 @@
             "pagenum": 7,
             "content": "अभिमत¦ 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभिमत",
+            "eid": "4115",
+            "pagenum": 56,
+            "content": "<i>abhimata</i>¦ 1. Adj. s. u. <i>man</i> mit <i>abhi</i>. — 2. n. Wunsch, Verlangen, <ls>Spr. 2810.</ls> {part=,seq=4170,type=,n=1}"
+        },
+        {
+            "word": "अभिमत",
+            "eid": "4115.1",
+            "pagenum": 56,
+            "content": "<i>abhimata</i>¦ °m. Geliebter, <ls>H</ls> 27, 33. 78; 29, 21. {part=,seq=4171,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभिमत",
+            "eid": "2555",
+            "pagenum": 45,
+            "content": "अभिमत¦ mfn. (-तः-ता-तं) 1. Wished, desired. 2. Agreed, accepted. 3. Admitted, assented to. E. अभि over, मत thought."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभिमत",
+            "eid": "2557",
+            "pagenum": 54,
+            "content": "अभिमत¦ mfn. (-तः-ता-तं) .²1 Wished, desired. .²2 Agreed, accepted. .²3 Admitted, assented to. .E. अभि over, मत thought."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अभिमत",
+            "eid": "2080",
+            "pagenum": 42,
+            "content": "अभि-मत¦ (तं) 1. <i>n.</i> Will. <i>a.</i> Wished."
+        }
     ]
 }

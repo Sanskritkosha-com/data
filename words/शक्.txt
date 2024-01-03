@@ -173,5 +173,29 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> शक्¦ VI. 5. न शकितं तेन <ab>impers.</ab> <ls>R. GORR. 1,45,48</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शक्",
+            "eid": "24685",
+            "pagenum": 340,
+            "content": "1. <i>śak</i>¦ 5. <i>na śakitaṃ tena</i> impers, <ls>R. Gorr. 1, 45, 48.</ls> {part=,seq=25022,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शक्",
+            "eid": "39199",
+            "pagenum": 702,
+            "content": "शक्¦ r. 4th cl. (शक्यति-ते) (इर ऌ) इरशकॢ r. 5th cl. (शक्नोति) 1. To bear patiently, to endure, to be patient. 2. To be able to effect, to be competent. 3. To be powerful, (generally with an inf.) (इ) शकि r. 1st cl. (शङ्कते) 1. To think probable, to suspect. 2. To fear, to apprehend. With आङ्, To dread."
+        }
+    ],
+    "STC": [
+        {
+            "word": "शक्",
+            "eid": "19979",
+            "pagenum": 712,
+            "content": "<b>ŚAK-</b>¦ <i>śaknoti</i> (<i>-nuvanti</i>) ; <i>śaśāka</i> (<i>śekuḥ</i>) ; <i>aśakat ;</i> <i>śakṣyati -te ; śakyate</i> (<i>-ti</i>) <i>śikṣati -te ; śakta- śakita-</i> -- être capable de, être en condition <lbinfo n='6'/> de, pouvoir (<ab>acc.</ab> <ab>loc.</ab> <ab>dat.</ab> <ab>inf.</ab>) ; <ab>pass.</ab> être vaincu, succomber ; céder ; être obligé par <ab>qq'un</ab> (<ab>instr.</ab>) à (<ab>inf.</ab>) ; suivi d'un <ab>inf.</ab>, <i>śakyate</i> se traduira par « pouvoir » avec l'<ab>inf.</ab> <ab>pass.</ab> ; <ab>dés.</ab> <ab>v.</ab> s. <i>ŚIKṢ-.</i>"
+        }
     ]
 }

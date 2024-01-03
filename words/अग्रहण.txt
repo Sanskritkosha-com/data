@@ -69,5 +69,25 @@
             "pagenum": 7,
             "content": "अग्रहण¦ I. 1. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अग्रहण",
+            "eid": "525",
+            "pagenum": 8,
+            "content": "<i>agrahaṇa</i>¦ n. das Nichtmeinen, -x- Darunterverstehen, <ls>Paribh.</ls> 72. — Auch: das Nichtwahrnehmen; Komm. zu <ls>Kap.</ls> (Ball.) 1, 109. {part=,seq=541,type=,n=4}"
+        },
+        {
+            "word": "अग्रहण",
+            "eid": "525.1",
+            "pagenum": 8,
+            "content": "<i>agrahaṇa</i>¦ Adj. <ls>Maitr. S.</ls> 1, 8, 4. {part=,seq=542,type=,n=1}"
+        },
+        {
+            "word": "अग्रहण",
+            "eid": "525.2",
+            "pagenum": 8,
+            "content": "<i>ágrahaṇa</i>¦ Adj. von keiner Krankheit heimgesucht, <ls>Maitr. S.</ls> 1, 4, 7; 5, 14; 8, 4. {part=,seq=543,type=,n=3}"
+        }
     ]
 }

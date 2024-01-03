@@ -103,5 +103,37 @@
             "pagenum": 1,
             "content": "उरी¦ mit कर् 5〉 <ab>dass.</ab> <ls>MĀLAV. 71,22</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उरी",
+            "eid": "8821",
+            "pagenum": 121,
+            "content": "<i>urī</i>¦ mit <i>kṛ</i> 5. = <i>urarī</i> mit <i>kṛ</i> 6. <ls>Mālav.</ls> 71, 22. {part=,seq=8939,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उरी",
+            "eid": "7719",
+            "pagenum": 133,
+            "content": "उरी¦ ind. A particle, implying, (especially in composition.) 1. Promise, assent. 2. Expansion; also उररी and ऊरी."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उरी",
+            "eid": "7722",
+            "pagenum": 162,
+            "content": "उरी¦ <i>ind.</i> A particle, implying, (especially in composition,) .²1 Promise, assent. .²2 Expansion; also उररी and ऊरी."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उरी",
+            "eid": "7137",
+            "pagenum": 133,
+            "content": "उरी¦ <i>ind.</i> Particle implying assent."
+        }
     ]
 }

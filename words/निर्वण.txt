@@ -67,5 +67,21 @@
             "pagenum": 7,
             "content": "निर्वण¦ III. <i>eine Gegend ohne Wald</i> <ls>MAHĀVY. 245,40</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "निर्वण",
+            "eid": "16984",
+            "pagenum": 234,
+            "content": "<i>nirvaṇa</i>¦ eine Gegend ohne Wald, <ls>Mahāvy.</ls> 245, 40. {part=,seq=17239,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "निर्वण",
+            "eid": "12117",
+            "pagenum": 376,
+            "content": "<b>nir-vaṇa-</b>¦ <ab>v.</ab> <i>°vana-.</i>"
+        }
     ]
 }

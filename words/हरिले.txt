@@ -47,5 +47,29 @@
             "pagenum": 7,
             "content": "हरिले¦ ind. (voc.) Anruf an eine Dienerin im Drama <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "हरिले",
+            "eid": "46644",
+            "pagenum": 829,
+            "content": "हरिले¦ Ind. A term of calling in theatrical language, addressed to a female slave."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हरिले",
+            "eid": "44013",
+            "pagenum": 970,
+            "content": "हरिले¦ <i>ind.</i> A term of calling in theatrical language, addressed to a female slave."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हरिले",
+            "eid": "43834",
+            "pagenum": 895,
+            "content": "हरिले¦ <i>interj.</i> Used in calling a female slave."
+        }
     ]
 }

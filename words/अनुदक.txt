@@ -93,5 +93,27 @@
             "pagenum": 1,
             "content": "अनुदक¦ <lex>n.</lex> <i>Nichtwasser, das Trockene</i> <ls>MBH. 12,68,11</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनुदक",
+            "eid": "2667",
+            "pagenum": 36,
+            "content": "<i>anudaka</i>¦ n. Nichtwasser, das Trockene, <ls>MBh.</ls> 12, 68, 11. {part=,seq=2704,type=,n=2}"
+        },
+        {
+            "word": "अनुदक",
+            "eid": "27812",
+            "pagenum": 383,
+            "content": "<i>anudaka</i>¦ °Subst. (n.) wasserlose Gegend, <ls>Kauṭ.</ls> 141, 7. {part=N,seq=28183,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनुदक",
+            "eid": "1653",
+            "pagenum": 35,
+            "content": "<b>an-udaka-</b>¦ <ab>a.</ab> dénué d'eau ; <ab>nt.</ab> absence d'eau ; sécheresse."
+        }
     ]
 }

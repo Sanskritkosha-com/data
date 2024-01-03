@@ -77,5 +77,37 @@
             "pagenum": 7,
             "content": "अग्रभाग¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अग्रभाग",
+            "eid": "508",
+            "pagenum": 8,
+            "content": "<i>agrabhāga</i>¦ auch: der erste Anteil, Vasiṣṭha 11, 5. {part=,seq=524,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अग्रभाग",
+            "eid": "341",
+            "pagenum": 7,
+            "content": "अग्रभाग¦ m. (-गः) 1. Part of the top or end. 2. Fore or top part. 3. (In astronomy) Degree of amplitude, also अग्रांशः E. अग्र, भाग part."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अग्रभाग",
+            "eid": "342",
+            "pagenum": 8,
+            "content": "अग्रभाग¦ m. (-गः) .²1 Part of the top or end. .²2 Fore or top part. .²3 (In astronomy) Degree of amplitude, also अग्रांशः. .E. अग्र, भाग part."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अग्रभाग",
+            "eid": "286",
+            "pagenum": 7,
+            "content": "अग्र-भाग¦ (गः) 1. <i>m.</i> Top part."
+        }
     ]
 }

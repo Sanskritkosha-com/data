@@ -130,5 +130,37 @@
             "pagenum": 5,
             "content": "ऋग्वेद¦, °भाष्य Titel verschiedener <i>Commentare zum</i> <is>Ṛgveda</is> <ls>HALL 119. 140. 205.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "7976",
+            "pagenum": 137,
+            "content": "ऋग्वेद¦ m. (-दः) The Rich or Rik Veda, the first of the four Vedas. E. ऋच् and वेद a Veda."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "422",
+            "pagenum": 1,
+            "content": "<b>Ṛg-veda,</b>¦ the formal name of the collection of Ṛcs, first appears in the Brāhmaṇas,<sup>1</sup> and thereafter frequently in the Āraṇyakas<sup>2</sup> and Upaniṣads.<sup>3</sup> <F>1) Aitareya Brāhmaṇa, i. 32, and implied in Taittirīya Brāhmaṇa, iii. 12, 9, 1; Śatapatha Brāhmaṇa, vi. 5, 4, 6; 8, 3; xii. 3, 4, 9.</F> <F>2) Aitareya Āraṇyaka, iii. 2, 3. 5; Śāṅkhāyana Āraṇyaka, viii. 3. 8.</F> <F>3) Bṛhadāraṇyaka Upaniṣad, i. 5, 12; ii. 4, 10; iv. 1, 6; 5, 11; Chāndogya Upaniṣad, i. 3, 7; iii. 1, 2. 3; 15, 7; vii. 1, 2. 4; 2, 1; 7, 1.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "7980",
+            "pagenum": 167,
+            "content": "ऋग्वेद¦ m. (-दः) The <i>Ṛc</i> or <i>Ṛk Veda,</i> the first of the four <i>Vedas.</i> .E. ऋच् and वेद a <i>Veda.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ऋग्वेद",
+            "eid": "7395",
+            "pagenum": 138,
+            "content": "ऋग्वे_द¦ (दः) 1. <i>m.</i> Rig Veda."
+        }
     ]
 }

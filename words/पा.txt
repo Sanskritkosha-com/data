@@ -441,5 +441,81 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> पा¦ mit उप <ab>Caus.</ab> auch <ls>ĀPAST. ŚR. 9,18,11</ls>. — Mit निस् Z. 2, lies निष्पीत. — <ab>Caus.</ab> 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पा",
+            "eid": "18193",
+            "pagenum": 251,
+            "content": "1. <i>pā</i>¦ mit <i>upa</i> <ls>Kaus.</ls> auch <ls>Āpast. Śr.</ls> 9, 18, 11. — Mit <i>nis</i> Z. 2 lies <i>niṣpīta</i>. — <ls>Kaus.</ls> trinken lassen aus (Abl.), <ls>Maitr. S.</ls> 2, 3, 5 (33, 5. 6). {part=,seq=18457,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पा",
+            "eid": "24171",
+            "pagenum": 438,
+            "content": "पा¦ r. 1st. cl. (पिवति) To drink. r. 2nd. cl. (पाति) To cherish, to nourish, to protect or preserve. पाने, भ्वा-पर-सक-अनिट् । रक्षणे, अदा-पर-सक-सेट् ।"
+        },
+        {
+            "word": "पा",
+            "eid": "24172",
+            "pagenum": 438,
+            "content": "पा¦ mfn. (पाः-पाः-पं) 1. Who drinks. 2. Who protects or cherishes. 3. To feast on, (with the eyes or ears.) 4. To absorb, to swallow up, to destroy. E. पा to drink, &c. क्विप् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पा",
+            "eid": "13573",
+            "pagenum": 425,
+            "content": "<b>1 PĀ-</b>¦ <i>pibati -te ; papau ; apāt ; pāsyati -te ; pīyate pepīyate</i> <i>pipāsati pāyayati -te</i> (<i>pāyyate</i>) ; <i>pīta- pātum pītvā °pīya</i> boire, sucer, avaler (<ab>acc.</ab>, <ab>rar.</ab> <ab>gén.</ab>) ; absorber, s'approprier, jouir de (avec les yeux, les oreilles) ; <ab>caus.</ab> donner à boire, abreuver (chevaux, bétail) ; <ab>dés.</ab> avoir soif."
+        },
+        {
+            "word": "पा",
+            "eid": "13574",
+            "pagenum": 425,
+            "content": "<b>2 PĀ-</b>¦ <i>pāti ; apāsīt ; pātum ;</i> (<i>pālayati</i> <ab>v. s. v.</ab>) -- garder, préserver, protéger, défendre contre (<ab>abl.</ab>)."
+        },
+        {
+            "word": "पा",
+            "eid": "13575",
+            "pagenum": 425,
+            "content": "<b>3 pā-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui boit, qui avale."
+        },
+        {
+            "word": "पा",
+            "eid": "13576",
+            "pagenum": 425,
+            "content": "<b>4 pā-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui protège, qui défend, qui garde."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पा",
+            "eid": "24117",
+            "pagenum": 521,
+            "content": "पा¦ r. 1st cl. (पिवति) To drink. r. 2nd cl. (पाति) To cherish, to nourish, to protect or preserve."
+        },
+        {
+            "word": "पा",
+            "eid": "24118",
+            "pagenum": 521,
+            "content": "पा¦ mfn. (-पाः-पाः-पं) .²1 Who drinks. .²2 Who protects or cherishes. .E. पा to drink, &c. क्विप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पा",
+            "eid": "23571",
+            "pagenum": 465,
+            "content": "पा¦ पिवति 1. <i>a.</i> To drink. (ल) पाति 2. <i>a.</i> To cherish, protect."
+        },
+        {
+            "word": "पा",
+            "eid": "23572",
+            "pagenum": 465,
+            "content": "पा¦ (पाः-पाः-पं) <i>a.</i> Drinking; cherishing, protecting."
+        }
     ]
 }

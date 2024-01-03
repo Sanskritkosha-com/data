@@ -77,5 +77,29 @@
             "pagenum": 5,
             "content": "उत्तरेद्युस्¦ <ls>TS. 5, 2, 1, 7.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 183, 5.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "उत्तरेद्युस्",
+            "eid": "6813",
+            "pagenum": 117,
+            "content": "उत्तरेद्युस्¦ ind. A subsequent day, a day following to-morrow. E. उत्तर subsequent, and एद्युस् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उत्तरेद्युस्",
+            "eid": "6815",
+            "pagenum": 142,
+            "content": "उत्तरेद्युस्¦ <i>ind.</i> A subsequent day, a day following to-morrow. .E. उत्तर subsequent, and एद्यस् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उत्तरेद्युस्",
+            "eid": "6215",
+            "pagenum": 116,
+            "content": "उत्तरे_द्युस्¦ <i>adv.</i> A subsequent day."
+        }
     ]
 }

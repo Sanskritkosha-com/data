@@ -97,5 +97,21 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अनर्घ¦ I. Auch <i>ein gar zu hoher Preis</i> <ls>JĀTAKAM. 7,27</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनर्घ",
+            "eid": "2189",
+            "pagenum": 30,
+            "content": "1. <i>anargha</i>¦ auch: ein gar zu hoher Preis, <ls>Jātakam.</ls> 7, 27. {part=,seq=2221,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनर्घ",
+            "eid": "1260",
+            "pagenum": 28,
+            "content": "<b>an-argha-</b>¦ <i>-ya- -eya-</i> <ab>a.</ab> inappréciable ; <i>-yatva-</i> <ab>nt.</ab> fait d'être inappréciable."
+        }
     ]
 }

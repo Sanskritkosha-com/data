@@ -29,5 +29,37 @@
             "pagenum": 5,
             "content": "मुनिद्रुम¦ (मु° + द्रुम) <lex>m.</lex> <i>Agati grandiflora</i> <ls>TRIK. 2, 4, 29.</ls> <ls>BALA</ls> beim Schol. zu <ls>NAIṢ. 1, 96.</ls> <i>Calosanthes indica Bl.</i> <ls>RATNAM. 4.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मुनिद्रुम",
+            "eid": "21834",
+            "pagenum": 301,
+            "content": "*<i>munidruma</i>¦ m. Agati grandiflora, <ls>S</ls> II, 11, 1. {part=,seq=22134,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मुनिद्रुम",
+            "eid": "31700",
+            "pagenum": 571,
+            "content": "मुनिद्रुम¦ m. (-मः) A tree, (Æschynomene grandiflora.) E. मुनि the saint AGASTYA, and द्रुम a tree. “श्योनाक वृक्षे, वकवृक्षे च ।”"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मुनिद्रुम",
+            "eid": "30575",
+            "pagenum": 666,
+            "content": "मुनिद्रुम¦ m. (-मः) A tree, (Æschynomene grandiflora.) .E. मुनि the saint AGASTYA, and द्रुम a tree."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मुनिद्रुम",
+            "eid": "30123",
+            "pagenum": 597,
+            "content": "मुनि-द्रुम¦ (मः) 1. <i>m.</i> A tree (Æschynomene grandiflora)."
+        }
     ]
 }

@@ -39,5 +39,29 @@
             "pagenum": 5,
             "content": "माहन¦ <lex>m.</lex> <i>ein Brahmane</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "माहन",
+            "eid": "31435",
+            "pagenum": 567,
+            "content": "माहन¦ m. (-नः) A Brāhmana. E. मा prohibitive prefix, हन् to kill, aff. अच्, radical letters unchanged."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "माहन",
+            "eid": "30335",
+            "pagenum": 660,
+            "content": "माहन¦ m. (-नः) A <i>Brahman.</i> .E. मा prohibitive prefix, हन to kill, aff. अच्, radical letters unchanged."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "माहन",
+            "eid": "29872",
+            "pagenum": 592,
+            "content": "माहन¦ (नः) 1. <i>m.</i> A <i>brāhman.</i>"
+        }
     ]
 }

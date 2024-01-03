@@ -71,5 +71,37 @@
             "pagenum": 1,
             "content": "अविज्ञेय¦ <lex>Adj.</lex> <i>nicht erkennbar</i> <ls>JAIM. 1,2,38</ls>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अविज्ञेय",
+            "eid": "4008",
+            "pagenum": 69,
+            "content": "अविज्ञेय¦ mfn. (-यः-या-यं) Undiscernible, not to be recognized or known. E. अ neg. विज्ञेय to be known."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविज्ञेय",
+            "eid": "4281",
+            "pagenum": 92,
+            "content": "<b>a-vijñeya-</b>¦ <ab>a. v.</ab> indiscernable."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविज्ञेय",
+            "eid": "4010",
+            "pagenum": 84,
+            "content": "अविज्ञेय¦ mfn. (-यः-या-यं) Undiscernible, not to be recognised or known. .E. अ neg. विज्ञेय to be known."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविज्ञेय",
+            "eid": "3428",
+            "pagenum": 65,
+            "content": "अ-विज्ञेय¦ (य-या-यं) <i>a.</i> Unknowable."
+        }
     ]
 }

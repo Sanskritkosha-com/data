@@ -141,5 +141,27 @@
             "pagenum": 7,
             "content": "आग्रयण¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आग्रयण",
+            "eid": "6659",
+            "pagenum": 91,
+            "content": "<i>āgrayaṇa</i>¦ , <ls>Muṇḍ. Up.</ls> 1, 2, 3. {part=,seq=6747,type=,n=1}"
+        },
+        {
+            "word": "आग्रयण",
+            "eid": "6659.1",
+            "pagenum": 91,
+            "content": "<i>āgrayaṇa</i>¦ 1. a) <i>°sthālī́</i> f. <ls>TBr.</ls> 1, 4, 1, 5; <ls>Āpast. Śr.</ls> 12, 1, 14. {part=,seq=6748,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आग्रयण",
+            "eid": "5017",
+            "pagenum": 110,
+            "content": "<b>āgrayaṇa-</b>¦ <ab>m.</ab> première libation du Soma ; forme d'Agni ; <i>-ī-</i> <ab>f.</ab> oblation des prémices à la fin des pluies ; <i>-ka-</i> <ab>nt.</ab> <ab>ifc.</ab> <ab>id.</ab>"
+        }
     ]
 }

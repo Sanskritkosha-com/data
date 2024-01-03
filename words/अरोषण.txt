@@ -23,5 +23,21 @@
             "pagenum": 2,
             "content": "अरोषण¦ <lex>Adj.</lex> <i>nicht zum Zorn geneigt</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अरोषण",
+            "eid": "4831",
+            "pagenum": 65,
+            "content": "<i>aroṣaṇa</i>¦ Adj. nicht zum Zorn geneigt. {part=,seq=4896,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अरोषण",
+            "eid": "3749",
+            "pagenum": 79,
+            "content": "<b>a-roṣaṇa-</b>¦ <ab>a.</ab> non irritable."
+        }
     ]
 }

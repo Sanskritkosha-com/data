@@ -161,5 +161,51 @@
             "pagenum": 4,
             "content": "2. नाम¦ adv. s. u. नामन्"
         }
+    ],
+    "SCH": [
+        {
+            "word": "नाम",
+            "eid": "16628",
+            "pagenum": 230,
+            "content": "<i>nāma</i>¦ (m.) °Herunterziehen der Brauen, <ls>S</ls> I, 155, 8 v.u. (Ko.); 207, 10 (Ko.). {part=,seq=16879,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "नाम",
+            "eid": "21421",
+            "pagenum": 385,
+            "content": "नाम¦ ind. A particle implying. 1. Certainty. 2. Possibility. 3. Anger. 4. Reproach. 5. Consent, promise. 6. Recollection. 7. Surprise. 8. Pretence, &c. as हिमालयो नाम नगाधिपः Himālaya, evidently the king of mountains, इह नाम सीता भविष्यति SITĀ will perhaps be here, &c. E. णम् to call or address, affix ड. deriv. irr. नाम्यते नामि-ड ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "नाम",
+            "eid": "11507",
+            "pagenum": 357,
+            "content": "<b>1 nāma</b>¦ particule <ab>encl.</ab> en vérité, certes, bien entendu ; après interrog. étonnement ou insistance ; <i>kiṃ nāma</i> quoi donc, eh quoi ! <i>kathaṃ nāma</i> comment donc, est-ce possible ! après <ab>impér.</ab> soit, qu'importe ; <i>api nāma</i> peut-être (<ab>ord.</ab> au commencement de la phrase) ; avec opt. pourvu que ; <i>mā nāma</i> pourvu que ne pas."
+        },
+        {
+            "word": "नाम",
+            "eid": "11508",
+            "pagenum": 357,
+            "content": "<b>2 nāma-</b>¦ en <ab>comp.</ab> pour <i>nāman-</i> (<ab>ifc.</ab> qui a nom de) ; <i>-ka-</i> <ab>ifc.</ab> <ab>id.</ab> ; <i>-tas</i> <ab>v.</ab> <i>nāman-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नाम",
+            "eid": "21435",
+            "pagenum": 461,
+            "content": "नाम¦ <i>ind.</i> A particle implying. .²1 Certainty. .²2 Possibility. .²3 Anger. .²4 Reproach. .²5 Consent, promise. .²6 Recollection. .²7 Surprise. .²8 Pretence, &c. as हिमालयो नाम नगाधिपः <i>Himālaya, evidently</i> the king of mountains, इह नाम सीता भविष्यति SĪTĀ will perhaps be here, &c. .E. णम to call or address, affix ड, deriv. irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नाम",
+            "eid": "20924",
+            "pagenum": 412,
+            "content": "नाम¦ <i>adv.</i> By name; certainly."
+        }
     ]
 }

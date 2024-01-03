@@ -55,5 +55,21 @@
             "pagenum": 5,
             "content": "अविचल¦ <lex>Adj.</lex>, <lex>f.</lex> आ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविचल",
+            "eid": "5541",
+            "pagenum": 75,
+            "content": "<i>avicala</i>¦ Adj., f. <i>ā</i>. {part=,seq=5617,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविचल",
+            "eid": "4259",
+            "pagenum": 92,
+            "content": "<b>a-vicala-</b>¦ <ab>a.</ab> immobile, stable.  <P><i>avicalendriya-</i> <ab>a.</ab> dont les sens sont contrôlés. <lbinfo n='6'/>"
+        }
     ]
 }

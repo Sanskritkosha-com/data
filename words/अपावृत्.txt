@@ -79,5 +79,27 @@
             "pagenum": 7,
             "content": "अपावृत्¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपावृत्",
+            "eid": "3599",
+            "pagenum": 49,
+            "content": "<i>apāvṛt</i>¦ Adj. keine Fesseln kennend, ungehemmt, <ls>Bhāg. P.</ls> 5, 18, 5; 11, 29, 12. {part=,seq=3648,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपावृत्",
+            "eid": "2522",
+            "pagenum": 54,
+            "content": "<b>1 apāvṛt-</b>¦ <ab>a.</ab> non retenu, non entravé."
+        },
+        {
+            "word": "अपावृत्",
+            "eid": "2523",
+            "pagenum": 54,
+            "content": "<b>2 apā-VṚT-</b>¦ retourner ; <i>°vṛtta-</i> retourné ; détourné de ; <i>-ka-</i> <ab>a.</ab> qui a pris la fuite."
+        }
     ]
 }

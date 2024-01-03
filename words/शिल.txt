@@ -136,5 +136,51 @@
             "pagenum": 7,
             "content": "शिल¦ <div n='1'> 1) <lex>m.</lex> <lex>n.</lex> (nach den Lexicographen n., die Texte bieten m.) <i>eine auf dem Felde zurückgebliebene Aehre und das Auflesen derselben</i> <ls>H. 865.</ls> <ls>an. 2, 512.</ls> <ls>MED. l. 51.</ls> शिलानप्युञ्छतः (gen. partic.) <ls>M. 3, 100.</ls> प्रतिग्रहाच्छिलः श्रेयांस्ततो ऽप्युञ्छः प्रशस्यते <ls n='M.'>10, 112.</ls> संचिन्वन्धीर आसीत शिलाहारी शिलं यथा <ls>Spr. 5270.</ls> शिलैः <ls>BHĀG. P. 11, 17, 40.</ls> परिगणितोञ्छशिलाशन <ls>MBH. 12, 13943</ls>; vgl. unter उञ्छ und शिलोञ्छ fg. <div n='1'>— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Pāriyātra</is> <ls>RAGH. 18, 16</ls>; vgl. <ls>LIA. 1, Anh. XII, N. 24.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शिल",
+            "eid": "25053",
+            "pagenum": 345,
+            "content": "<i>śila</i>¦ *n. Ähre, <ls>H</ls> XXXIX, 5 (Ko.). {part=,seq=25394,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शिल",
+            "eid": "40212",
+            "pagenum": 719,
+            "content": "शिल¦ n. (-लं) Gleaning ears of corn. f. (-ला) 1. A stone, a rock. 2. Arsenic. 3. A flat stone on which condiments, &c. are ground with a muller. f. (-ला-ली) 1. The timber of a door-frame. 2. A transverse beam or a beam or stone placed across the top of a post or pillar. 3. Camphor. f. (-ली) 1. A small earth-worm. 2. A dart, a spike. E. शिल् to glean, aff. क ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शिल",
+            "eid": "20321",
+            "pagenum": 729,
+            "content": "<b>śila-</b>¦ <ab>m.</ab> (<ab>nt.</ab>) glane ; glanage ; <ab>m.</ab> fils de Pāriyātra.  <P><i>°tari-</i> lire <i>°rati-.</i>  <P><i>°rati-</i> <ab>a.</ab> qui se contente de glaner.  <P><i>°vṛtti-</i> <ab>a.</ab> qui vit de la glane.  <P><i>śilāndhas-</i> <ab>nt.</ab> glane comme nourriture.  <P><i>śilāhārin-</i> <ab>m.</ab> glaneur.  <P><i>śiloñcha-</i> <ab>nt.</ab> <ab>sg.</ab> (ou <ab>m.</ab> <ab>du.</ab>) glanage ; <i>-na-</i> <ab>nt.</ab> <ab>id.</ab> ; <i>°vṛtti-</i> <ab>f.</ab> fait de vivre de la glane ; <ab>a.</ab> qui vit de la glane."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शिल",
+            "eid": "38363",
+            "pagenum": 844,
+            "content": "शिल¦ r. 6th cl. (शिलति) To glean."
+        },
+        {
+            "word": "शिल",
+            "eid": "38364",
+            "pagenum": 845,
+            "content": "शिल¦ n. (-लं) Gleaning ears of corn. f. (-ला) .²1 A stone, a rock. .²2 Arsenic. .²3 A flat stone on which condiments, &c. are ground with a muller. f. (-ला-ली) .²1 The timber of a door frame. .²2 A transverse beam, or a beam or stone placed across the top of a post or pillar. f. (-ली) .²1 A small earth worm. .²2 A dart, a spike. .E. शिल to glean, aff. क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शिल",
+            "eid": "38009",
+            "pagenum": 763,
+            "content": "शिल¦ (लं) 1. <i>n.</i> Gleaning ears of corn. 1. <i>f.</i> Rock, stone; arsenic. <i>f.</i> (आ-ई) Timber of a doorframe; transverse beam. <i>f.</i> (-ई) Earthworm; dart; spike."
+        }
     ]
 }

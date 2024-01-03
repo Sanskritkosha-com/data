@@ -211,5 +211,41 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अद्¦ I. 3. Im Nachtrag ist अदयते zu streichen, da an der <ab n='angeführten'>angef.</ab> <ab n='Stelle'>St.</ab> nach <ls>DELBRÜCK</ls> ददन्न दयोत zu trennen ist."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अद्",
+            "eid": "1498",
+            "pagenum": 21,
+            "content": "1. <i>ad</i>¦ , <ls>Kaus.</ls> <i>adayate</i> (!) <ls>Āpast. Śr.</ls> 5, 25, 18. — Zu streichen, da an der angeführten Stelle nach Delbrück <i>dadan na dayīta</i> zu trennen ist. {part=,seq=1523,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अद्",
+            "eid": "863",
+            "pagenum": 19,
+            "content": "<b>1 AD-</b>¦ <i>atti</i> (impft. <i>ādat ;</i> <ab>impér.</ab> <i>adasva</i>) ; <i>adyate ādayati ;</i> <i>attum</i> -- manger, jouir de ; <ab>caus.</ab> nourrir."
+        },
+        {
+            "word": "अद्",
+            "eid": "864",
+            "pagenum": 19,
+            "content": "<b>2 ad-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui mange."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अद्",
+            "eid": "739",
+            "pagenum": 16,
+            "content": "अद्¦ (ल, औ) अत्ति 2. <i>a.</i> To eat. With वि and अति or व्यति, to bite or devour each other."
+        },
+        {
+            "word": "अद्",
+            "eid": "740",
+            "pagenum": 16,
+            "content": "अद्¦ (इ) अन्दति 1. <i>a.</i> To bind."
+        }
     ]
 }

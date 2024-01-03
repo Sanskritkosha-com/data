@@ -214,5 +214,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> दारक¦ III. 1〉 mit <ab>Gen.</ab> <ls>R. ed. Bomb. 4,54,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दारक",
+            "eid": "15301",
+            "pagenum": 211,
+            "content": "1. <i>dāraka</i>¦ 1. mit Gen., <ls>R. ed. Bomb.</ls> 4, 54, 15. {part=,seq=15540,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दारक",
+            "eid": "18823",
+            "pagenum": 338,
+            "content": "दारक¦ mfn. (-कः-का-कं) A breaker, a tearer. m. (-कः) 1. A son. 2. A child, an infant or young animal. 3. The charioteer of VISHNU. 4. A village-hog. f. (-रिका) 1. A daughter. 2. A whore. E. दॄ to tear, affix ण्वुल् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "दारक",
+            "eid": "10452",
+            "pagenum": 304,
+            "content": "<b>1 dāraka-</b>¦ <i>-ikā-</i> <ab>ag.</ab> qui fend, déchire (<ab>ifc.</ab> <ab>gén.</ab>)."
+        },
+        {
+            "word": "दारक",
+            "eid": "10453",
+            "pagenum": 304,
+            "content": "<b>2 dāraka-</b>¦ <ab>m.</ab> jeune garçon, fils, enfant ; jeune animal ; <ab>du.</ab> garçon et fille ; <i>-ikā-</i> <ab>f.</ab> fillette.  <P><i>°dvaya-</i> <ab>nt.</ab> couple d'enfants, jumeaux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दारक",
+            "eid": "18838",
+            "pagenum": 405,
+            "content": "दारक¦ mfn. (-कः-का-कं) A breaker, a tearer. m. (-कः) .²1 A son. .²2 A child, an infant or young animal. .²3 The charioteer of VIṢṆU. .²4 A village hog. f. (-रिका) .²1 A daughter. .²2 A whore. .E. दॄ to tear, affix ण्वुल्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दारक",
+            "eid": "18310",
+            "pagenum": 360,
+            "content": "दारक¦ (कः) 1. <i>m.</i> A son, a child; <i>Vishnu's</i> charioteer; a hog. <i>f.</i> (रिका) A daughter; a whore. <i>a.</i> Breaking, tearing."
+        }
     ]
 }

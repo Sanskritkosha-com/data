@@ -31,5 +31,29 @@
             "pagenum": 5,
             "content": "मेघदीप¦ (मेघ + दीप) <lex>m.</lex> <i>Blitz</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मेघदीप",
+            "eid": "32081",
+            "pagenum": 577,
+            "content": "मेघदीप¦ m. (-पः) Lightning. E. मेघ a cloud, and दीप inflamer."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मेघदीप",
+            "eid": "30914",
+            "pagenum": 672,
+            "content": "मेघदीप¦ m. (-पः) Lightning. .E. मेव a cloud, and दीप inflamer."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मेघदीप",
+            "eid": "30465",
+            "pagenum": 603,
+            "content": "मेघ-दीप¦ (पः) 1. <i>m.</i> Lightning."
+        }
     ]
 }

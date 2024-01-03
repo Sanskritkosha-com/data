@@ -58,5 +58,37 @@
             "pagenum": 7,
             "content": "अभ्रपिशाच¦ I. <ls>HARAVIJAYA 12,74</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभ्रपिशाच",
+            "eid": "4322",
+            "pagenum": 59,
+            "content": "<i>abhrapiśāca</i>¦ m. Bein. Rāhu's, <ls>Subhāṣitāv.</ls> 569; Haravijaya 12, 74; vgl. <i>ambupisāo</i> Hāla 804. — <ls>S</ls> II, 47, 4 v.u. (Ko.). {part=,seq=4379,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभ्रपिशाच",
+            "eid": "2769",
+            "pagenum": 49,
+            "content": "अभ्रपिशाच¦ m. (-चः) A name of RĀHU, the descending node personified. E. अभ्र the sky, and पिशाच a goblin; from the mischief he does to the moon, at the cause of its eclipse."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभ्रपिशाच",
+            "eid": "2771",
+            "pagenum": 59,
+            "content": "अभ्रपिशाच¦ m. (-चः) A name of RĀHU, the descending node personified. .E. अभ्र the sky, and पिशाच a goblin; from the mischief he does to the moon, as the cause of its eclipse."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अभ्रपिशाच",
+            "eid": "2285",
+            "pagenum": 46,
+            "content": "अभ्र-पिशाच¦ (चः) 1. <i>m.</i> A name of Rāhu; the descending node."
+        }
     ]
 }

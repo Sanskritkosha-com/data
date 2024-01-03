@@ -31,5 +31,29 @@
             "pagenum": 5,
             "content": "भाजक्¦ indecl. चादि zu <ls>P. 1, 4, 57</ls> und स्वरादि zu <ls n='P.'>1, 1, 37.</ls> <i>schnell, eiligst</i> <ls>WILSON</ls> nach <ls>WILKINS.</ls> Wohl fehlerhaft für ताजक्, wie die v.l. an der ersten Stelle hat."
         }
+    ],
+    "SHS": [
+        {
+            "word": "भाजक्",
+            "eid": "29290",
+            "pagenum": 528,
+            "content": "भाजक्¦ Ind. Swiftly, quickly."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भाजक्",
+            "eid": "28403",
+            "pagenum": 616,
+            "content": "भाजक्¦ <i>ind.</i> Swiftly, quickly."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भाजक्",
+            "eid": "27917",
+            "pagenum": 553,
+            "content": "भाजक्¦ <i>adv.</i> Swiftly."
+        }
     ]
 }

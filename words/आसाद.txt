@@ -59,5 +59,27 @@
             "pagenum": 7,
             "content": "आसाद¦ I. <i>Speisezimmer</i> <ls>KAUŚ. 23,5</ls>. <ls n='KAUŚ.'>24,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आसाद",
+            "eid": "7507",
+            "pagenum": 102,
+            "content": "<i>āsāda</i>¦ m. ° = <i>samantād avasāda</i>, <ls>H</ls> 43, 113. {part=,seq=7611,type=,n=1}"
+        },
+        {
+            "word": "आसाद",
+            "eid": "7507.1",
+            "pagenum": 102,
+            "content": "<i>āsāda</i>¦ Speisezimmer, <ls>Kauś.</ls> 23, 5; 24, 15. {part=,seq=7612,type=,n=2}"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "आसाद",
+            "eid": "295",
+            "pagenum": 1,
+            "content": "<b>Ā-sāda,</b>¦ ‘seat,’ occurs in the Atharvaveda<sup>1</sup> as a description of part of the settle (<b>Āsandī</b>) of the <b>Vrātya.</b> It seems best to regard it with Whitney<sup>2</sup> as the seat proper; Aufrecht,<sup>3</sup> Zimmer,<sup>4</sup> and Roth<sup>5</sup> render it as the ‘cushion for the seat,’ but that is sufficiently described by the word <b>Āstaraṇa.</b> <F>1) xv. 3, 8.</F> <F>2) Translation of the Atharvaveda, 771.</F> <F>3) <i>Indische Studien,</i> 1, 131.</F> <F>4) <i>Altindisches Leben,</i> 155.</F> <F>5) St. Petersburg Dictionary, <i>s.v.</i></F>"
+        }
     ]
 }

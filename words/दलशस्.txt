@@ -77,5 +77,21 @@
             "pagenum": 7,
             "content": "दलशस्¦, lies <lex>Adv.</lex> <ab>st.</ab> <lex>Adj.</lex>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दलशस्",
+            "eid": "15195",
+            "pagenum": 209,
+            "content": "<i>dalaśas</i>¦ , lies Adv. statt Adj. {part=,seq=15433,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "दलशस्",
+            "eid": "10386",
+            "pagenum": 301,
+            "content": "<b>dalaśas</b>¦ <ab>adv.</ab> en éclats, en morceaux."
+        }
     ]
 }

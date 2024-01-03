@@ -37,5 +37,29 @@
             "pagenum": 7,
             "content": "श्वेतरथ¦ <lex>m.</lex> <i>der Planet Venus</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "श्वेतरथ",
+            "eid": "41339",
+            "pagenum": 739,
+            "content": "श्वेतरथ¦ m. (-थः) The planet VENUS. E. श्वेत white, and रथ a car."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "श्वेतरथ",
+            "eid": "39426",
+            "pagenum": 868,
+            "content": "श्वेतरथ¦ m. (-थः) The planet VENUS. .E. श्वेत white, and रथ a car."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "श्वेतरथ",
+            "eid": "39088",
+            "pagenum": 788,
+            "content": "श्वेत-रथ¦ (थः) 1. <i>m.</i> The planet <i>Venus.</i>"
+        }
     ]
 }

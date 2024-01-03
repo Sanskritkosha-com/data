@@ -44,5 +44,37 @@
             "pagenum": 1,
             "content": "उडुपथ¦ (उडु 1. + पथ) <lex>m.</lex> (<i>der Pfad der Sterne) Luft, Aether</i> <ls>H. 163.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "उडुपथ",
+            "eid": "7961",
+            "pagenum": 109,
+            "content": "*<i>uḍupatha</i>¦ m. Luftraum, <ls>H</ls> 14, 60; 30, 39. {part=,seq=8073,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उडुपथ",
+            "eid": "6673",
+            "pagenum": 114,
+            "content": "उडुपथ¦ m. (-थः) The firmament. E. उडु a constellation, and पथ a path."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उडुपथ",
+            "eid": "6675",
+            "pagenum": 139,
+            "content": "उडुपथ¦ m. (-थः) The firmament. .E. उडु a constellation, and पथ a path."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उडुपथ",
+            "eid": "6067",
+            "pagenum": 114,
+            "content": "उडु-पथ¦ (थः) 1. <i>m.</i> The firmament."
+        }
     ]
 }

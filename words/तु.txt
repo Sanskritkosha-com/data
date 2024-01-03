@@ -374,5 +374,63 @@
             "pagenum": 7,
             "content": "2. तु¦ <div n='1'> 2) च - न तु <i>obgleich - dennoch nicht</i> <ls>Spr. (II) 1672.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तु",
+            "eid": "14641",
+            "pagenum": 202,
+            "content": "<i>tu</i>¦ , <i>tūyante = °ādīyante gṛhyante tṛṣārtair iti toyāni</i>, <ls>S</ls> I, 202, 10 (Ko.). {part=,seq=14874,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तु",
+            "eid": "17574",
+            "pagenum": 315,
+            "content": "तु¦ r. 2nd cl. (तौति or तवति) 1. To go or move. 2. To thrive or increase. 3. To injure, to hurt or kill. 4. To become full. According to some authorities this is merely a Sautra root. वृत्तौ, वृद्धौ अक० हिंसायां जेतरि सक० अदा० प० अनिट् ।"
+        },
+        {
+            "word": "तु",
+            "eid": "17575",
+            "pagenum": 315,
+            "content": "तु¦ ind. A particle, implying. 1. Difference, (but, or.) 2. Disjunction, (but, again, further, other.) 3. Connection, (and, moreover.) 4. Asseveration, (indeed.) 4. An expletive. E. तुद्-डु ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "तु",
+            "eid": "10066",
+            "pagenum": 285,
+            "content": "<b>tu</b>¦ particule enclit. mais, et, or, <ab>qqf.</ab> explétif <lbinfo n='3'/> ; <i>kāmam... tu, tv</i> <i>eva, tv eva ca</i> certes, s'il est vrai que... mais plutôt, mais en fait ; <i>k. bhūyas</i> ou <i>varam... na tu</i> plutôt que ; <i>kiṃ tu</i> <ab>v.</ab> <i>kim</i> <i> ; paraṃ tu</i> <ab>v.</ab> <i>param ; tu...tu</i> certes... mais ; <i>na</i> (<i>ca</i>)... <i>api</i> <i>tu</i> ne pas... mais (bien plutôt) ; <i>ca... na tu</i> bien que... pourtant ; il n'est pas (vrai que)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तु",
+            "eid": "17591",
+            "pagenum": 379,
+            "content": "तु¦ r. 2nd cl. (तौति or तवति) .²1 To go or move. .²2 To thrive or increase. .²3 To injure, to hurt or kill. .²4 To become full. According to some authorities this is merely a <i>Sautra</i> root."
+        },
+        {
+            "word": "तु",
+            "eid": "17592",
+            "pagenum": 379,
+            "content": "तु¦ <i>ind.</i> A particle, implying. .²1 Difference, (but, or.) .²2 Disjunction, (but, again, further, other.) .²3 Connexion, (and, moreover.) .²4 Asseveration, (indeed.) .²5 An expletive."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तु",
+            "eid": "17066",
+            "pagenum": 335,
+            "content": "तु(ल)¦ तौति 2. <i>a.</i> To go; to thrive; to hurt; to become full."
+        },
+        {
+            "word": "तु",
+            "eid": "17067",
+            "pagenum": 335,
+            "content": "तु¦ <i>conj.</i> But, and, or, yet, indeed."
+        }
     ]
 }

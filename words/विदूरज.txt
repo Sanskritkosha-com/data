@@ -39,5 +39,37 @@
             "pagenum": 7,
             "content": "विदूरज¦ VI. <ls>HARAVIJAYA 5,81</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विदूरज",
+            "eid": "23815",
+            "pagenum": 329,
+            "content": "<i>vidūraja</i>¦ n. Haravijaya 5, 81. {part=,seq=24147,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विदूरज",
+            "eid": "36713",
+            "pagenum": 657,
+            "content": "विदूरज¦ n. (-जं) The Lapis Lazuli."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विदूरज",
+            "eid": "35101",
+            "pagenum": 768,
+            "content": "विदूरज¦ n. (-जं) The lapis lazuli."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विदूरज",
+            "eid": "34695",
+            "pagenum": 689,
+            "content": "विदूर-ज¦ (जं) 1. <i>n.</i> The lapis lazuli."
+        }
     ]
 }

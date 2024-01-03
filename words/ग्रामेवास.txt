@@ -31,5 +31,29 @@
             "pagenum": 2,
             "content": "ग्रामेवास¦ = ग्रामवास <ls>P. 6, 3, 18</ls>, <ls>Sch.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "ग्रामेवास",
+            "eid": "14245",
+            "pagenum": 251,
+            "content": "ग्रामेवास¦ m. (-सः) 1. A villager. 2. A village abode. E. ग्रामे seventh case, and वास abode."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ग्रामेवास",
+            "eid": "14254",
+            "pagenum": 305,
+            "content": "ग्रामेवास¦ m. (-सः) .²1 A villager. .²2 A village abode. .E. ग्रामे seventh case, and वास abode."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ग्रामेवास",
+            "eid": "13712",
+            "pagenum": 266,
+            "content": "ग्रामे-वास¦ (सः) 1. <i>m.</i> A villager."
+        }
     ]
 }

@@ -224,5 +224,29 @@
             "pagenum": 7,
             "content": "बर्बर¦ <div n='1'> 2) <div n='2'> d) (Nachträge) <i>Cleome pentaphylla Roxb. (eine stark behaarte</i> Pflanze) <ls>SIDDH.</ls> in <ls>NIGH. PR.</ls> <i>ein best. Parfum</i>, = व्याघ्रनख <ls>DHANV.</ls> und <ls>RATNĀK.</ls> ebend."
         }
+    ],
+    "SCH": [
+        {
+            "word": "बर्बर",
+            "eid": "20042",
+            "pagenum": 276,
+            "content": "<i>Barbara</i>¦ m. °Name eines Fürsten, <ls>S</ls> I, 396, 2. {part=,seq=20319,type=,n=2}"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "बर्बर",
+            "eid": "176",
+            "pagenum": 580,
+            "content": "<i>barbara</i>¦ <div n='P'/>(1) <bot>OCIMUM BASILICUM LINN.</bot> (Dutt; KB 3, p. 1963; Sanyal) [= <bot>O. PILOSUM LINN.</bot>] (Dutt) = <bot>O. PILOSUM WILLD.</bot>; <div n='P'/>(2) <bot>O. GRATISSIMUM LINN.</bot> (DWH 3, p. 85-86; Sanyal); <div n='P'/>(3) a) a kind of Ocimum (PW); b) the dark type of <i>arjaka</i> (Vśs); c) <i>vaijayantītulasī</i> (Vśs, unidentified); d) = <i>barbarīka = ajagandhikā:</i> a kind of Ocimum (PW); <div n='P'/>(4) <bot>CLERODENDRUM SERRATUM SPRENG.</bot> (KB 3, p. 1948-1949); <div n='P'/>(5) <bot>C. SIPHONANTHUS [R. BR. IN] AIT.</bot> (MW; PW); <div n='P'/>(6) <bot>GYNANDROPSIS PENTAPHYLLA DC.</bot> = <bot>CLEOME PENTAPHYLLA LINN.</bot> (MW; PW); <div n='P'/>(7) <bot>CLEOME VISCOSA LINN.</bot> (KB 1, p. 183-185); <div n='P'/>(8) <bot>ACACIA ARABICA WILLD.</bot> (Nadk. 1, nr. 12) = <bot>MIMOSA ARABICA LAM.</bot> (Roxb., p. 421); <div n='P'/>(9) <bot>A. FERRUGINEA DC.</bot> (Nadk. 1, nr. 12); <div n='P'/>(10) <bot>A. LEUCOPHLOEA WILLD.</bot> (KB 2, p. 924-925: <i>śvetabarbara</i>); <div n='P'/>(11) = <i>pītacandana</i> (see <i>candana</i>) (PW; Vśs); <div n='P'/>(12) a partic. fragrant plant (MW); <div n='P'/>(13) [unguis odoratus] (MW; PW: = <i>vyāghranakha:</i> a) possibly <lang n='greek'>ὀνυξ</lang> of Dioscorides, unguis odoratus; see Dietz, p. 57; b) <bot>EUPHORBIA ANTIQUORUM LINN.</bot> = <bot>TITHYMALUS ANTIQUORUM MOENCH.</bot>)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "बर्बर",
+            "eid": "15862",
+            "pagenum": 507,
+            "content": "<b>barbara-</b>¦ <ab>a.</ab> qui parle indistinctement, bègue ; <ab>m.</ab> barbare, non aryen, vilain, imbécile, <lbinfo n='4'/> grossier personnage (<ab>ord.</ab> <ab>voc.</ab>) ; <i>-ita-</i> <ab>a.</ab> brouillé, enchevêtré."
+        }
     ]
 }

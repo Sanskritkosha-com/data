@@ -162,5 +162,51 @@
             "pagenum": 7,
             "content": "कालिय¦ II. 3. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कालिय",
+            "eid": "10541",
+            "pagenum": 145,
+            "content": "<i>kāliya</i>¦ eine Schlangenart, Cobra, <ls>Śiś.</ls> 19, 28. {part=,seq=10696,type=,n=1}"
+        },
+        {
+            "word": "कालिय",
+            "eid": "10541.1",
+            "pagenum": 145,
+            "content": "<i>Kāliya</i>¦ , <i>Kāliyāri</i> m. Bein. Kṛṣṇa's, <ls>Pr. P.</ls> 58. {part=,seq=10697,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कालिय",
+            "eid": "10278",
+            "pagenum": 179,
+            "content": "कालिय¦ mfn. (-यः-या-यं) Relating to time, &c. m. (-यः) A serpent destroyed by KRISHNA. E. काल, and घ aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कालिय",
+            "eid": "7953",
+            "pagenum": 192,
+            "content": "<b>kāliya-</b>¦ <ab>m.</ab> <ab>n.</ab> d'un Nāga."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कालिय",
+            "eid": "10283",
+            "pagenum": 218,
+            "content": "कालिय¦ mfn. (-यः-या-यं) Relating to time, &c. m. (-यः) A serpent destroyed by KṚṢṆA. .E. काल, and घ aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कालिय",
+            "eid": "9721",
+            "pagenum": 184,
+            "content": "कालिय¦ (यः-या-यं) <i>a.</i> Relating to time. <i>m.</i> A serpent."
+        }
     ]
 }

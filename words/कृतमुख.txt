@@ -44,5 +44,37 @@
             "pagenum": 2,
             "content": "कृतमुख¦ (कृत + मुख) <lex>adj.</lex> <i>geschickt</i> <ls>AK. 3, 1, 4.</ls> <ls>H. 342.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कृतमुख",
+            "eid": "11138",
+            "pagenum": 153,
+            "content": "*<i>kṛtamukha</i>¦ Adj. perfect, <ls>Harṣac.</ls> 132, 1. {part=,seq=11306,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कृतमुख",
+            "eid": "11301",
+            "pagenum": 198,
+            "content": "कृतमुख¦ mfn. (-खः-खा-खं) Skilled, clever, conversant. E. कृत done, and मुख chief, principal."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कृतमुख",
+            "eid": "11307",
+            "pagenum": 241,
+            "content": "कृतमुख¦ mfn. (-खः-खा-खं) Skilled, clever, conversant. .E. कृत done, and मुख chief, principal."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कृतमुख",
+            "eid": "10757",
+            "pagenum": 206,
+            "content": "कृत-मुख¦ (खः-खा-खं) <i>a.</i> Skilled in."
+        }
     ]
 }

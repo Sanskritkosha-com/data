@@ -252,5 +252,57 @@
             "pagenum": 7,
             "content": "लय¦ V. <lex>m.</lex> <i>Lust an Etwas</i> <ls><ab>ebend.</ab> 2,53</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "लय",
+            "eid": "22859",
+            "pagenum": 315,
+            "content": "<i>laya</i>¦ m. Lust an etwas, Haravijaya 2, 53. {part=,seq=23179,type=,n=1}"
+        },
+        {
+            "word": "लय",
+            "eid": "22859.1",
+            "pagenum": 315,
+            "content": "<i>laya</i>¦ °house, <ls>Vās.</ls> 224, 3. {part=,seq=23180,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "लय",
+            "eid": "34200",
+            "pagenum": 614,
+            "content": "लय¦ m. (-यः) 1. Equal time in music and dancing. 2. Adherence, union. 3. Fusion, solution, absorption. 4. Concentration, exclusive devotion. 5. Rest, repose. 6. Mental inactivity. 7. An embrace. 8. Destruction. 9. A house, a dwelling. 10. Sport, pastime. n. (-यं) 1. The root of the Andropogon muricatum. 2. Loss, destruction. 3. Fusion, melting. E. ली adhere to, &c., aff. अच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "लय",
+            "eid": "17589",
+            "pagenum": 613,
+            "content": "<b>laya-</b>¦ <ab>m.</ab> fait d'être attaché ou de s'attacher à, absorption dans ; de se coucher, de se terrer ; disparition, dissolution, mort (<i>-aṃ gā-</i> mourir), fin du monde ; (lieu de) repos ; distraction, <lbinfo n='8'/> jeu ; tempo ; <ab>a.</ab> qui rend l'esprit paresseux.  <P><i>°madhya-</i> <ab>a.</ab> à exécuter en mouvement modéré.  <P><i>°śuddha-</i> <ab>a.</ab> à exécuter dans le mouvement correct.  <P><i>layārka-</i> <ab>m.</ab> soleil de la fin du monde.  <P><i>layālaya-</i> <ab>m.</ab> <ab>du.</ab> destruction et non-destruction. <lbinfo n='8'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "लय",
+            "eid": "32815",
+            "pagenum": 717,
+            "content": "लय¦ r. 1st cl. (लयते) To go, to move."
+        },
+        {
+            "word": "लय",
+            "eid": "32816",
+            "pagenum": 717,
+            "content": "लय¦ m. (-यः) .²1 Equal time in music and dancing. .²2 Adhering or clinging to, embracing, uniting. .²3 A house, a dwelling. .²4 Sport, pastime. n. (-यं) .²1 The root of the <bot>Andropogon muricatum</bot>. .²2 Loss, destruction. .²3 Fusion, melting. .E. ली to adhere to, &c., aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "लय",
+            "eid": "32395",
+            "pagenum": 641,
+            "content": "लय¦ (यः) 1. <i>m.</i> Equal time in music and dancing; embracing; a house; sport. <i>n.</i> Loss; fusion."
+        }
     ]
 }

@@ -43,5 +43,21 @@
             "pagenum": 7,
             "content": "अकण्ठ¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकण्ठ",
+            "eid": "25",
+            "pagenum": 1,
+            "content": "<i>akaṇṭha</i>¦ auch: keine Stimme habend, heiser, <ls>Spr. 4913.</ls> {part=,seq=27,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकण्ठ",
+            "eid": "12",
+            "pagenum": 1,
+            "content": "<b>a-kaṇṭha-</b>¦ <ab>a.</ab> dénué de cou ; enroué."
+        }
     ]
 }

@@ -55,5 +55,29 @@
             "pagenum": 4,
             "content": "पुरोटि¦ = पत्त्रझंकार <ls>TRIK. 1, 2, 11.</ls> = पुरसंस्कार <ls>HĀR. 164.</ls> <i>die Strömung eines Flusses</i> <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पुरोटि",
+            "eid": "25397",
+            "pagenum": 460,
+            "content": "पुरोटि¦ m. (-टिः) 1. The current of a river. 2. The rustling of leaves."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पुरोटि",
+            "eid": "25165",
+            "pagenum": 544,
+            "content": "पुरोटि¦ m. (-टिः) The current of a river."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पुरोटि",
+            "eid": "24642",
+            "pagenum": 488,
+            "content": "पुरोटि¦ (टिः) 2. <i>m.</i> The current of a river, a stream."
+        }
     ]
 }

@@ -282,5 +282,63 @@
             "pagenum": 5,
             "content": "1. गद¦, <ls>NĪLAK.</ls> : गदैः दंशस्थाने क्षुरेणोत्कीर्णे मर्द्यमानैरौषधविशेषैः. गदा <lex>f.</lex> <i>Spruch</i> <ls>WEBER, RĀMAT. UP. 350.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गद",
+            "eid": "12085",
+            "pagenum": 166,
+            "content": "°<i>gada</i>¦ eine Pflanze (Costus?), E 870, 906, 907, 936 (R). {part=,seq=12269,type=°,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गद",
+            "eid": "13115",
+            "pagenum": 230,
+            "content": "गद¦ r. 10th cl. (गदति) To speak articulately. 2. To be sick. r. 10th cl. (गदयति) To thunder."
+        },
+        {
+            "word": "गद",
+            "eid": "13116",
+            "pagenum": 230,
+            "content": "गद¦ m. (-दः) 1. Disease, sickness. 2. Speech, speaking. 3. GADA the younger brother of KRISHNA. f. (-दा) 1. A mace, a club. 2. Trumpet flower, (Bigonia suave-olens.) E. गद् to speak, &c. अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गद",
+            "eid": "8655",
+            "pagenum": 224,
+            "content": "<b>1 gada-</b>¦ <ab>m.</ab> propos, phrase ; <ab>n.</ab> de deux frères de Kṛṣṇa.  <P><i>gadāgra-ja-</i> <ab>m.</ab> frère aîné de Gada, Kṛṣṇa."
+        },
+        {
+            "word": "गद",
+            "eid": "8656",
+            "pagenum": 224,
+            "content": "<b>2 gada-</b>¦ <ab>m.</ab> maladie.  <P>1<i>gadādhara-</i> <ab>a.</ab> qui a une lèvre malade."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गद",
+            "eid": "13122",
+            "pagenum": 279,
+            "content": "गद¦ r. 10 cl. (गदति) .²1 To speak articulately. .²2 To be sick, r. 10th cl. (गदयति) To thunder."
+        },
+        {
+            "word": "गद",
+            "eid": "13123",
+            "pagenum": 280,
+            "content": "गद¦ m. (-दः) .²1 Disease, sickness. .²2 Speech, speaking. .²2 GADA the younger brother of KṚṢṆA. f. (-दा) .²1 A mace, a club. .²2 Trumpet flower, (<bot>Bignonia suave-olens</bot>.) .E. गद to speak, &c. अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गद",
+            "eid": "12578",
+            "pagenum": 243,
+            "content": "गद¦ (दः) 1. <i>m.</i> Disease; speech; <i>Krish-</i> <i>na's</i> younger brother. (दा) <i>f.</i> A mace, a club; trumpet flower."
+        }
     ]
 }

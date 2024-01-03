@@ -267,5 +267,93 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> ई¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ई",
+            "eid": "7779",
+            "pagenum": 107,
+            "content": "3. <i>ī</i>¦ (Nom. <i>ī</i>) soll nach <ls>Nīlak.</ls> <ls>MBh.</ls> 13, 17, 107 in <i>cañcarī</i> enthalten sein. {part=,seq=7888,type=,n=1}"
+        },
+        {
+            "word": "ई",
+            "eid": "7779.1",
+            "pagenum": 107,
+            "content": "*<i>ī</i>¦ f. Bein. der Lakṣmī, <ls>Yudh.</ls> 7, 129 (in <i>subhairavāsīdaṃ</i>: <i>suṣṭhu bhairavā bhīmā asayo yeṣāṃ te subhairavāsayaḥ</i>; <i>teṣām īṃ lakṣmīṃ dadātīti subhairavāsīdaḥ … evaṃbhūtaṃ taṃ tādṛśaṃ rākṣasam</i>). {part=,seq=7889,type=*,n=8}"
+        },
+        {
+            "word": "ई",
+            "eid": "28208",
+            "pagenum": 388,
+            "content": "*<i>ī</i>¦ f. = Lakṣmī, <ls>Kir.</ls> XV, 45. {part=N,seq=28579,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ई",
+            "eid": "6439",
+            "pagenum": 110,
+            "content": "ई¦ The fourth letter of the alphabet, corresponding to I long, having the sound of ee in feel, and distinguished by an accent from the former, as ī."
+        },
+        {
+            "word": "ई",
+            "eid": "6440",
+            "pagenum": 110,
+            "content": "ई¦ m. (ईः) A name of KANDARPA. f. (ईः) A name of LAKSHMI. ind. An interjection of, 1. Pain. 2. Anger. 3. Consciousness or perception. 4. Consideration. 5. Compassion."
+        },
+        {
+            "word": "ई",
+            "eid": "6441",
+            "pagenum": 110,
+            "content": "ई¦ r. 2nd cl. (एति) 1. To go. 2. To pervade. 3. To conceive or become pregnant. 4. To desire. 5. To throw or direct. 6. To eat. This root is not generally admitted, though it occurs in composition, as with उत् (उदीते) To appear. r. 4th cl. (ङ) ईङ् (ईयते) To go."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ई",
+            "eid": "5949",
+            "pagenum": 133,
+            "content": "<b>ī-</b>¦ <ab>f.</ab> Lakṣmī."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ई",
+            "eid": "6441",
+            "pagenum": 134,
+            "content": "ई¦ The fourth letter of the alphabet, corresponding to <i>I</i> long, having the sound of <i>ee</i> in <i>feel,</i> and distinguished by an accent from the former, as <i>ī.</i>"
+        },
+        {
+            "word": "ई",
+            "eid": "6442",
+            "pagenum": 134,
+            "content": "ई¦ m. (-ईः) A name of KANDARPA. f. (ईः) A name of LAKṢMĪ. <i>Ind.</i> An interjection of. .²1 Pain. .²2 Anger. .²3 Consciousness or perception. .²4 Consideration. .²5 Compassion."
+        },
+        {
+            "word": "ई",
+            "eid": "6443",
+            "pagenum": 134,
+            "content": "ई¦ r. 2nd cl. (एति) .²1 To go. .²2 To pervade. .²3 To conceive or become pregnant. .²4 To desire. .²5 To throw or direct. .²6 To eat. This root is not generally admitted, though it occurs in composition, as with उत् (उदीते) To appear. r. 4th cl. (ङ) ईङ (ईयते) To go."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ई",
+            "eid": "5829",
+            "pagenum": 109,
+            "content": "ई¦ The fourth vowel, i long as in the words police, caprice."
+        },
+        {
+            "word": "ई",
+            "eid": "5830",
+            "pagenum": 109,
+            "content": "ई¦ (ईः) 1. <i>m.</i> Name of Cupid. <i>f.</i> Of Lakshmī. <i>interj.</i> Ah!"
+        },
+        {
+            "word": "ई",
+            "eid": "5831",
+            "pagenum": 109,
+            "content": "ई¦ (ल) एति 2. <i>a.</i> To desire; to move; to eat. With उत् to appear 1. <i>d.</i> उदीते- (य, ङ) 4. <i>d.</i> इयते to go."
+        }
     ]
 }

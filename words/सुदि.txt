@@ -63,5 +63,37 @@
             "pagenum": 7,
             "content": "सुदि¦ <lex>Indecl.</lex> ungenau für सुदि."
         }
+    ],
+    "SHS": [
+        {
+            "word": "सुदि",
+            "eid": "44336",
+            "pagenum": 791,
+            "content": "सुदि¦ Ind. In the light-half of a lunar month."
+        }
+    ],
+    "STC": [
+        {
+            "word": "सुदि",
+            "eid": "23210",
+            "pagenum": 844,
+            "content": "<b>sudi</b>¦ = <i>-śudi.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सुदि",
+            "eid": "42126",
+            "pagenum": 930,
+            "content": "सुदि¦ <i>ind.</i> The light half of the lunar month."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सुदि",
+            "eid": "41882",
+            "pagenum": 852,
+            "content": "सुदि¦ <i>ind.</i> The light half of the lunar month."
+        }
     ]
 }

@@ -190,5 +190,53 @@
             "pagenum": 5,
             "content": "गालव¦ <div n='1'> 2) Z. 3 <ls>Ind. St. 3, 273</ls> <lex>m.</lex> pl. als N. einer Schule."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गालव",
+            "eid": "12285",
+            "pagenum": 169,
+            "content": "<i>gālava</i>¦ m. *Symplocos racemosa, <ls>S</ls> I, 105, 14 (Ko.). {part=,seq=12474,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गालव",
+            "eid": "13502",
+            "pagenum": 237,
+            "content": "गालव¦ m. (-वः) 1. A tree, the bark of which is used in dying, Lodh, (Symplocus racemosa, Rox.) 2. A pale species of the same: see लोध्र. 3. A kind of ebony; also केन्दुक, (Diospyros glutinosa.) 4. A particular Muni or saint, a disciple of VISWAMITRA. E. गाल flux, and व what prevents; referring to the astringent qualities of the Lodh."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गालव",
+            "eid": "8778",
+            "pagenum": 228,
+            "content": "<b>gālava-</b>¦ <ab>m.</ab> <ab>n.</ab> d'un sage, de divers personnages. <lbinfo n='8'/>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "गालव",
+            "eid": "876",
+            "pagenum": 1,
+            "content": "<b>Gālava</b>¦ is mentioned as a pupil of <b>Vidarbhīkauṇḍinya</b> in the first two Vaṃśas (lists of teachers) in the Bṛhadāraṇyaka Upaniṣad.<sup>1</sup> It is possibly the same man that is referred to regarding a point of ritual in the Aitareya Āraṇyaka.<sup>2</sup> A grammarian of this name is mentioned in the Nirukta.<sup>3</sup> <F>1) ii. 5, 22; iv. 5, 28 (Mādhyaṃdina = ii. 6, 3; iv. 6, 3 Kāṇva).</F> <F>2) v. 3, 3.</F> <F>3) iv. 3. <i>Cf.</i> Pāṇini, vi. 3, 61; vii. 1, 74; 3, 99; viii. 4, 67.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गालव",
+            "eid": "13511",
+            "pagenum": 288,
+            "content": "गालव¦ m. (-वः) .²1 A tree, the bark of which is used in dying, <i>Lodh,</i> (<bot>Symplocus racemosa</bot>, Rox.) .²2 A pale species of the same: see लोध्र. .²3 A kind of ebony; also केन्दुक, (<bot>Diospyros glutinosa</bot>.) .²4 A particular <i>Muni</i> or saint, a disciple of VIŚVĀMITRA. .E. गाल flux, and ब what prevents; referring to the astringent qualities of the <i>Lodh.</i>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गालव",
+            "eid": "12964",
+            "pagenum": 251,
+            "content": "गालव¦ (वः) 1. <i>m.</i> A tree the bark of which is used in dying (Symplocus racemosa); a sage."
+        }
     ]
 }

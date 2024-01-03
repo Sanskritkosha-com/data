@@ -161,5 +161,49 @@
             "pagenum": 6,
             "content": "2. रस्¦, रसति, रस्यति und रस/यति (आस्वादनस्नेहनयोः <ls>DHĀTUP. 35, 77</ls>) <i>schmecken</i>: रसती रसना रसान् <ls>MBH. 12, 10504.</ls> न रस्यति <ls n='MBH. 12,'>11383.</ls> रसयति <ls>ŚAT. BR. 14, 7, 1, 25</ls> (रसयते <ls>BṚH. ĀR. UP. 4, 3, 25). 3, 18.</ls> <ls>MAITRYUP. 6, 7.</ls> कथामृतम् <ls>KATHĀS. 9,</ls> Einl. रसितवती मद्यम् <ls>ŚIŚ. 10, 27.</ls> <i>schmecken</i> so v. a. <i>empfinden</i>: रस्यत इति रसः <ls>SĀH. D. 6, 22.</ls> रस्यमानता <ls n='SĀH. D.'>24, 2.</ls> — रसति <ls>MBH. 14, 571</ls> fehlerhaft für रसत्वं, wie die <ls>ed. Bomb.</ls> liest. रसयति ist wohl als denom. von रस, रसति und रस्यति aber als spätere Bildungen aufzufassen.  <div n='p'>— desid. <i>zu schmecken verlangen</i>: रिरसयिषति भूयः शष्पम् <ls>ŚIŚ. 11, 11.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "रस्",
+            "eid": "22525",
+            "pagenum": 311,
+            "content": "<i>ras</i>¦ °brüllend? <ls>H</ls> XLIII, 120. {part=,seq=22835,type=,n=1}"
+        },
+        {
+            "word": "रस्",
+            "eid": "22525.1",
+            "pagenum": 311,
+            "content": "<i>[ras</i>¦ mit <i>anu], anurasita</i> °n. Widerhall, <ls>Uttarar.</ls> II, 21<sup>b</sup>. — Mit <i>vi ° = śatakhaṇḍībhū</i>, <ls>S</ls> I, 599, 8. {part=,seq=22836,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "रस्",
+            "eid": "33294",
+            "pagenum": 598,
+            "content": "रस्¦ r. 1st cl. (रसति) 1. To sound. 2. To roar, to cry. r. 10th cl. (रसयति ते) 1. To taste, to relish. 2. To love, to regard."
+        }
+    ],
+    "STC": [
+        {
+            "word": "रस्",
+            "eid": "17332",
+            "pagenum": 600,
+            "content": "<b>1 RAS-</b>¦ <i>rasati -te ; rarāsa resuḥ ;</i> 1 <i>rasita-</i> -- hurler, aboyer, crier, retentir."
+        },
+        {
+            "word": "रस्",
+            "eid": "17333",
+            "pagenum": 600,
+            "content": "<b>2 RAS-</b>¦ <i>rasati rasyati ; rasayati ;</i> 2 <i>rasita-</i> -- goûter, trouver agréable au goût."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रस्",
+            "eid": "31550",
+            "pagenum": 624,
+            "content": "रस्¦ रसति 1. <i>a.</i> To sound. (क) रसयति 10. <i>a.</i> To taste, relish, love."
+        }
     ]
 }

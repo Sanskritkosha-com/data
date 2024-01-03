@@ -31,5 +31,13 @@
             "pagenum": 5,
             "content": "*पदालिक¦ <i>eine <ab>best.</ab> Pflanze</i> <ls>ZACH. Beitr. 91</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पदालिक",
+            "eid": "17701",
+            "pagenum": 244,
+            "content": "*<i>padālika</i>¦ eine best. Pflanze, <ls>Zach.</ls> Beitr. 91. {part=,seq=17960,type=*,n=2}"
+        }
     ]
 }

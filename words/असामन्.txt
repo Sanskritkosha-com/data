@@ -45,5 +45,19 @@
             "pagenum": 1,
             "content": "<hom>3.</hom> असामन्¦ <lex>n.</lex> <i>unfreundliche Weise</i> <ls>CHĀND. UP. 2,1,2</ls>."
         }
+    ],
+    "STC": [
+        {
+            "word": "असामन्",
+            "eid": "4741",
+            "pagenum": 103,
+            "content": "<b>1 a-sāman-</b>¦ <ab>nt.</ab> absence de Sāman ; procédé inamical ; <i>°sāmnā</i> de façon inamicale."
+        },
+        {
+            "word": "असामन्",
+            "eid": "4742",
+            "pagenum": 103,
+            "content": "<b>2 a-sāman-</b>¦ <ab>a.</ab> non versé dans le Sāmaveda. <lbinfo n='4'/>  <P><i>a-sāma-vidvāṃs-</i> <ab>partic.</ab> <ab>id.</ab>"
+        }
     ]
 }

@@ -23,5 +23,37 @@
             "pagenum": 1,
             "content": "अविगीत¦ <lex>Adj.</lex> <i>sich gegenseitig nicht widersprechend</i> <ls>ŚAṂK. zu BĀDAR. 1,4,14</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविगीत",
+            "eid": "28022",
+            "pagenum": 385,
+            "content": "<i>avigīta</i>¦ Adj. ° = <i>anavadya</i>, <ls>Padyac.</ls> VI, 18<sup>b</sup>. {part=N,seq=28393,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अविगीत",
+            "eid": "3992",
+            "pagenum": 69,
+            "content": "अविगीत¦ mfn. (-तः-ता-तं) Unreproached. E. अ neg. विगीत censure."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविगीत",
+            "eid": "3994",
+            "pagenum": 83,
+            "content": "अविगीत¦ mfn. (-तः-ता-तं) Unreproached. .E. अ, and विगीत censure."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविगीत",
+            "eid": "3414",
+            "pagenum": 65,
+            "content": "अ-विगीत¦ (तः-ता-तं) <i>a. Idem.</i>"
+        }
     ]
 }

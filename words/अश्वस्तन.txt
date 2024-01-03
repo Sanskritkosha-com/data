@@ -55,5 +55,37 @@
             "pagenum": 1,
             "content": "अश्वस्तन¦ <lex>Adj.</lex> <i>ohne morgen, für den folgenden Tag Nichts habend</i> <ls>MBH. 12,31,3</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अश्वस्तन",
+            "eid": "4364",
+            "pagenum": 75,
+            "content": "अश्वस्तन¦ mfn. (-नः-नी-नं) Of to-day, not of or for to-morrow. E. अ neg. श्वस् to-morrow, द्यु aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अश्वस्तन",
+            "eid": "4577",
+            "pagenum": 99,
+            "content": "<b>a-śvastana-</b>¦ <i>-ī-</i> <ab>a.</ab> qui n'a rien pour le lendemain ; <i>-ika-</i> <ab>id.</ab>  <P><i>°vid-</i> <ab>ag.</ab> ignorant l'avenir.  <P><i>°vidhāna-</i> <ab>nt.</ab> fait de ne pas prévoir pour le lendemain."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अश्वस्तन",
+            "eid": "4366",
+            "pagenum": 91,
+            "content": "अश्वस्तन¦ mfn. (-नः-नी-नं) Of to-day, not of or for to-morrow. .E. अ neg. श्वस् to-morrow, द्यु aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अश्वस्तन",
+            "eid": "3744",
+            "pagenum": 71,
+            "content": "अ-श्वस्तन¦ (नः-नीः-नं) <i>a.</i> Of to-day."
+        }
     ]
 }

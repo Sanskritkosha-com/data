@@ -123,5 +123,37 @@
             "pagenum": 2,
             "content": "3. कौट¦ <lex>m.</lex> = कुटज <i>Wrightia antidysenterica R. Br.</i> <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कौट",
+            "eid": "28563",
+            "pagenum": 393,
+            "content": "<i>Kauṭa</i>¦ Adj. von Koṭī (an der Malabar-Küste) stammend, <ls>Kauṭ.</ls> 76, 4 v.u. {part=N,seq=28934,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कौट",
+            "eid": "11822",
+            "pagenum": 208,
+            "content": "कौट¦ mfn. (-टः-टी-टं) 1. Fraudulent, dishonest. 2. Snared, wired. 3. Domestic, homely, home-born, home bred. 4. Independent. n. (-टं) Fraud, falsehood. m. (-टः) A medicinal shrub, &c. कुटज. E. कूट fraud, or कुटि a house, अण् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कौट",
+            "eid": "11828",
+            "pagenum": 253,
+            "content": "कौट¦ mfn. (-टः-टी-टं) .²1 Fraudulent, dishonest. .²2 Snared, wired. .²3 Domestic, homely, home-born, home-bred. .²4 Independent. n. (-टं) Fraud, falsehood. m. (-टः) A medicinal shrub, &c. कुटज. .E. कूट fraud, or कुटि a house, अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कौट",
+            "eid": "11278",
+            "pagenum": 217,
+            "content": "कौट¦ (टः-टा-टं) <i>a.</i> Fraudulent; snared; kept at home. <i>m.</i> A medicinal shrub. <i>n.</i> Fraud, falsehood."
+        }
     ]
 }

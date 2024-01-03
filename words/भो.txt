@@ -105,5 +105,37 @@
             "pagenum": 5,
             "content": "भो¦ s. भोस् ."
         }
+    ],
+    "SHS": [
+        {
+            "word": "भो",
+            "eid": "29826",
+            "pagenum": 537,
+            "content": "भो¦ Ind. A vocative particle. E. भा to shine, डो aff., more commonly भोस् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भो",
+            "eid": "16331",
+            "pagenum": 540,
+            "content": "<b>bho</b>¦ <ab>v.</ab> <i>bhos.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भो",
+            "eid": "28905",
+            "pagenum": 627,
+            "content": "भो¦ <i>ind.</i> A vocative particle. .E. भा to shine, डो aff., more commonly भोम्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भो",
+            "eid": "28418",
+            "pagenum": 563,
+            "content": "भो¦ <i>adv.</i> A vocative particle, Oh."
+        }
     ]
 }

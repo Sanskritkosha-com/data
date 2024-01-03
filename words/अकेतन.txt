@@ -31,5 +31,29 @@
             "pagenum": 2,
             "content": "अकेतन¦ <lex>Adj.</lex> <i>obdachlos</i> <ls>BHĀG. P. 3,4,6</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकेतन",
+            "eid": "174",
+            "pagenum": 3,
+            "content": "<i>aketana</i>¦ Adj. obdachlos, <ls>Bhāg. P.</ls> 3, 4, 6. {part=,seq=180,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकेतन",
+            "eid": "82",
+            "pagenum": 3,
+            "content": "<b>a-ketana-</b>¦ <ab>a.</ab> sans abri."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकेतन",
+            "eid": "44431",
+            "pagenum": 909,
+            "content": "अकेतन¦ (नः-ना-नं) <i>a.</i> Houseless, having abandoned all."
+        }
     ]
 }

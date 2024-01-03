@@ -31,5 +31,37 @@
             "pagenum": 7,
             "content": "तिलकट¦, lies <lex>m.</lex> <ab>st.</ab> <lex>n.</lex>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तिलकट",
+            "eid": "14595",
+            "pagenum": 201,
+            "content": "<i>tilakaṭa</i>¦ , lies m. statt n. {part=,seq=14827,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तिलकट",
+            "eid": "17499",
+            "pagenum": 314,
+            "content": "तिलकट¦ m. (-टः) The farina of sesamum. E. तिल्, and कटच् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तिलकट",
+            "eid": "17516",
+            "pagenum": 377,
+            "content": "तिलकट¦ m. (-टः) The farina of sesamum. .E. तिल, and कटच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तिलकट",
+            "eid": "16988",
+            "pagenum": 333,
+            "content": "तिल-कट¦ (टः) 1. <i>m.</i> The farina of the sesamum orientale."
+        }
     ]
 }

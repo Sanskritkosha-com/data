@@ -122,5 +122,43 @@
             "pagenum": 7,
             "content": "किरि¦ II. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "किरि",
+            "eid": "10654",
+            "pagenum": 147,
+            "content": "<i>kiri</i>¦ 4. *= <i>giri</i> 1. d) v.l. in der <ls>Kāś.</ls> zu <ls>P. 6, 2, 2.</ls> {part=,seq=10811,type=,n=2}"
+        },
+        {
+            "word": "किरि",
+            "eid": "28503",
+            "pagenum": 392,
+            "content": "<i>kiri</i>¦ *Wildschwein in <i>pratikiri</i> (s. d.). {part=N,seq=28874,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "किरि",
+            "eid": "10443",
+            "pagenum": 182,
+            "content": "किरि¦ m. (-रिः) A hog. E. कॄ to scatter, (dirt, &c.) and इ Unadi aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "किरि",
+            "eid": "10450",
+            "pagenum": 222,
+            "content": "किरि¦ m. (-रिः) A hog. .E. कॄ to scatter, (dirt, &c.) and इ Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "किरि",
+            "eid": "9890",
+            "pagenum": 187,
+            "content": "किरि¦ (रिः) 2. <i>m.</i> A hog."
+        }
     ]
 }

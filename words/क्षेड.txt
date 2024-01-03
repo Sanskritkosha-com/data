@@ -31,5 +31,41 @@
             "pagenum": 2,
             "content": "क्षेड¦ und क्षेडित = क्षवेड und क्ष्वेडित <ls>WILSON</ls>; vgl. क्षेडति <ls>SUŚR. 2, 246, 6.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "क्षेड",
+            "eid": "12478",
+            "pagenum": 219,
+            "content": "क्षेड¦ r. 10th cl. (क्षेडयति) To eat."
+        },
+        {
+            "word": "क्षेड",
+            "eid": "12479",
+            "pagenum": 219,
+            "content": "क्षेड¦ m. (-डः) 1. Disease in the ear. 2. Poison. 3. Sound: see क्षेड."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "क्षेड",
+            "eid": "12484",
+            "pagenum": 267,
+            "content": "क्षेड¦ r. 10th cl. (क्षेडयति) To eat."
+        },
+        {
+            "word": "क्षेड",
+            "eid": "12485",
+            "pagenum": 267,
+            "content": "क्षेड¦ m. (-डः) .²1 Disease in the ear. .²2 Poison. .²3 Sound: see क्ष्वेड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "क्षेड",
+            "eid": "11938",
+            "pagenum": 230,
+            "content": "क्षेड¦ (डः) 1. <i>m.</i> Disease in the ear; sound; poison."
+        }
     ]
 }

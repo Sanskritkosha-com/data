@@ -91,5 +91,29 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> शा¦ mit आ, Z. 2 lies <ab>Loc.</ab> <ab>st.</ab> <ab>Instr.</ab>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शा",
+            "eid": "24924",
+            "pagenum": 343,
+            "content": "1. <i>śā</i>¦ mit <i>ā</i> Z. 2 lies Lok. statt Instr. {part=,seq=25264,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शा",
+            "eid": "39971",
+            "pagenum": 715,
+            "content": "शा(सा)लज¦ m. (-जः) 1. A kind of fish, the Śāl or Sol, (Ophiocephalus wrahl HAM.) 2. Exudation of the Śāla-tree. “धुना ।”"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शा",
+            "eid": "20150",
+            "pagenum": 722,
+            "content": "<b>ŚĀ-</b>¦ [<i>śiśāti śiśīte</i> <ab>véd.</ab>] ; <i>śita- śāta-</i> -- (aiguiser) <lbinfo n='3'/> ; <ab>v.</ab> <i>śita- śāta-</i> <ab>s. v.</ab>"
+        }
     ]
 }

@@ -103,5 +103,35 @@
             "pagenum": 7,
             "content": "अकल्प¦ I. 2. <i>unverzagt</i> <ls><ab>ebend.</ab> 183</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकल्प",
+            "eid": "69",
+            "pagenum": 2,
+            "content": "<i>akalpa</i>¦ m. das Nichtimstandesein, <ls>Bhāg. P.</ls> 10, 84, 63. Adj. mit <i>na</i> und <i>jātu</i> stets bereit zu (Lok. eines Nom. act.), <ls>MBh.</ls> 5, 33, 5. 6. ( v.l. <i>akalya</i>). — unverzagt, <ls>Damayantīk.</ls> 183. {part=,seq=71,type=,n=1}"
+        },
+        {
+            "word": "अकल्प",
+            "eid": "69.1",
+            "pagenum": 2,
+            "content": "<i>akalpa</i>¦ °krank <ls>S</ls> I, 43, 1 u. 43, 11 (Ko.) verdruckt für <i>akalya</i>.] {part=,seq=72,type=,n=6}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकल्प",
+            "eid": "35",
+            "pagenum": 1,
+            "content": "<b>a-kalpa-</b>¦ <ab>a.</ab> non approprié à (<ab>acc.</ab>) ; non en état de (<ab>loc.</ab> <ab>inf.</ab>)."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकल्प",
+            "eid": "44420",
+            "pagenum": 909,
+            "content": "अ-कल्प¦ (ल्पः-ल्पा-ल्पं) <i>a.</i> Unable, weak, impotent."
+        }
     ]
 }

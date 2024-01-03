@@ -53,5 +53,45 @@
             "pagenum": 7,
             "content": "दैप¦ III. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दैप",
+            "eid": "15716",
+            "pagenum": 216,
+            "content": "<i>daipa</i>¦ <ls>Śiś.</ls> 11, 18. {part=,seq=15958,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दैप",
+            "eid": "19758",
+            "pagenum": 354,
+            "content": "दैप¦ mfn. (-पः-पी-पं) Relating or belonging to a lamp. E. दीप, and अण् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "दैप",
+            "eid": "10948",
+            "pagenum": 327,
+            "content": "<b>daipa-</b>¦ <ab>a.</ab> relatif à une lampe."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दैप",
+            "eid": "19772",
+            "pagenum": 425,
+            "content": "दैप¦ mfn. (-पः-पी-पं) Relating or belonging to a lamp. .E. दीप, and अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दैप",
+            "eid": "19248",
+            "pagenum": 379,
+            "content": "दैप¦ (पः-पी-पं) <i>a.</i> Belonging to a lamp."
+        }
     ]
 }

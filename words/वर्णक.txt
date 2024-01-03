@@ -171,5 +171,51 @@
             "pagenum": 7,
             "content": "वर्णक¦ <div n='1'> 1) Z. 6 कृपण° u. s. w. zu streichen, da an der angeführten Stelle mit den Calc. Ausgg. कृपणवर्णं कमपि zu lesen ist; die Bed. ist <i>Gesichtsfarbe.</i> — <lex>adj.</lex> (f. वर्णिका) <i>schildernd</i> (mit gen.) <ls>PAT. a. a. O. 7,116,a.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वर्णक",
+            "eid": "23253",
+            "pagenum": 321,
+            "content": "<i>varṇaka</i>¦ n. °farbige Wolldecke, <ls>Kauṭ.</ls> 80, 6. {part=,seq=23576,type=,n=1}"
+        },
+        {
+            "word": "वर्णक",
+            "eid": "23253.1",
+            "pagenum": 321,
+            "content": "<i>varṇaka</i>¦ m. °Sandelbaum, <ls>H</ls> XLIII, 12. — *n. Salbe, <ls>S</ls> I, 150, 4. Auripigment, Y 237. °Sandel, <ls>H</ls> XIII, 81. {part=,seq=23577,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वर्णक",
+            "eid": "35254",
+            "pagenum": 632,
+            "content": "वर्णक¦ mn. (-कः-कं) 1. Perfume for the person, especially pounded or ground. 2. The dress of an actor. 3. Sandal. mf. (-कः-का) A paint, a pigment, as indigo, orpiment, &c. m. (-कः) 1. A panegyrist, a bard, a poetical encomiast, by tribe and profession. 2. A circle, an orb. f. (-का) 1. Touch, standard, fineness or purity of gold. 2. A mantle. 3. A mask. 4. A paint. E. वर्ण् to colour, &c., ण्वुल् aff.; or वर्ण as above, कन् added."
+        }
+    ],
+    "STC": [
+        {
+            "word": "वर्णक",
+            "eid": "17923",
+            "pagenum": 629,
+            "content": "<b>varṇaka-</b>¦ <ab>m.</ab> modèle, échantillon ; couleur, <lbinfo n='4'/> fard ; <i>-ikā-</i> <ab>v. s. v.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वर्णक",
+            "eid": "33730",
+            "pagenum": 737,
+            "content": "वर्णक¦ mn. (-कः-कं) .²1 Perfume for the person, especially pounded or ground. .²2 <i>Sandal.</i> mf. (-कः-का) A paint, a pigment, as indigo, orpiment, &c. m. (-कः) .²1 A panegyrist, a bard, a poetical encomiast, by tribe and profession. .²2 A circle, an orb. f. (-का) Touch, standard, fineness or purity of gold. .E. वण to colour, &c., ण्वुल् aff., or वर्ण as above, कन् added."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वर्णक",
+            "eid": "33320",
+            "pagenum": 660,
+            "content": "वर्णक¦ (कः-कं) 1. <i>m. n.</i> Perfume for the person; sandal. <i>m. f.</i> A paint. <i>m.</i> A panegyrist, a circle. <i>f.</i> Touch of gold to try it."
+        }
     ]
 }

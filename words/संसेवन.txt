@@ -75,5 +75,37 @@
             "pagenum": 7,
             "content": "संसेवन¦ VII. <i>das Aufsuchen, Umgehen [Page7-379-c] mit Jmd</i> (<ab>Gen.</ab>) <ls>JĀTAKAM. 23,63</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "संसेवन",
+            "eid": "25538",
+            "pagenum": 351,
+            "content": "<i>saṃsevana</i>¦ das Aufsuchen, Umgehen mit jemand (Gen.), <ls>Jātakam.</ls> 23, 63. {part=,seq=25882,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "संसेवन",
+            "eid": "41762",
+            "pagenum": 746,
+            "content": "संसेवन¦ n. (-नं) Wating on, serving. E. सम् before सेव् to serve, ल्युट् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "संसेवन",
+            "eid": "39792",
+            "pagenum": 876,
+            "content": "संसेवन¦ n. (-नं) Waiting on, serving. .E. सम् before सेव to serve, ल्युट् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "संसेवन",
+            "eid": "39469",
+            "pagenum": 797,
+            "content": "सं-सेवन¦ (नं) 1. <i>n.</i> Serving."
+        }
     ]
 }

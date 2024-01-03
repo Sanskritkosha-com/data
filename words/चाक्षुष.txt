@@ -257,5 +257,53 @@
             "pagenum": 7,
             "content": "चाक्षुष¦ <lex>Adj.</lex> II. <i>zu Jmds</i> (<ab>Gen.</ab>) <i>Gesicht gekommen</i> <ls>R. ed. Bomb. 3,69,44</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "चाक्षुष",
+            "eid": "13173",
+            "pagenum": 181,
+            "content": "<i>cākṣuṣa</i>¦ Adj. zu jemandes (Gen.) Gesicht gekommen, <ls>R. ed. Bomb.</ls> 3, 69, 44. {part=,seq=13380,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चाक्षुष",
+            "eid": "14962",
+            "pagenum": 265,
+            "content": "चाक्षुष¦ mfn. (-षः-षी-षं) Visible, perceptible, seen. m. (-षः) The sixth Manu. E. चक्षुष the eye, अण् aff. चक्षुषा गृह्यते ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "चाक्षुष",
+            "eid": "9160",
+            "pagenum": 247,
+            "content": "<b>cākṣuṣa-</b>¦ <ab>a.</ab> relatif à la vue, aux yeux ; qui assure la faculté visuelle, visible ; parvenu à la vue de ; <ab>m.</ab> <ab>n.</ab> d'un auteur, du 6{^e^} Manu, etc. ; <ab>pl.</ab> catégorie de divinités ; <i>-tva-</i> <ab>nt.</ab> perception <lbinfo n='7'/> visuelle ; <i>-ā-</i> <ab>f.</ab> science magique des Gandharva communiquée à Arjuna par Citraratha. <lbinfo n='5'/>"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "चाक्षुष",
+            "eid": "968",
+            "pagenum": 1,
+            "content": "<b>Cākṣuṣa,</b>¦ a word occurring once only in the Atharvaveda,<sup>1</sup> is, according to the St. Petersburg Dictionary, a patronymic (of Suyāman, a personification). Whitney<sup>2</sup> treats it as probably a simple adjective (‘of sight’). <F>1) xvi. 7, 7.</F> <F>2) Translation of the Atharvaveda, 800.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चाक्षुष",
+            "eid": "14970",
+            "pagenum": 321,
+            "content": "चाक्षुष¦ mfn. (-षः-षी-षं) Visible, perceptible, seen. m. (-षः) The sixth <i>Menu.</i> .E. चक्षुष the eye, अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चाक्षुष",
+            "eid": "14424",
+            "pagenum": 281,
+            "content": "चाक्षुष¦ (षः-षा-षं) <i>a.</i> Visible."
+        }
     ]
 }

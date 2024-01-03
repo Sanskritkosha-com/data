@@ -123,5 +123,45 @@
             "pagenum": 3,
             "content": "जीन¦ nach <ls>P. 6, 4, 2</ls>, <ls>Sch.</ls> partic. praet. pass. von ज्या (in der älteren Sprache जीत). <div n='1'> 1) <lex>adj.</lex> <i>alt, bejahrt</i> <ls>AK. 2, 6, 1, 42.</ls> <ls>H. 340.</ls> <div n='1'>— 2) <i>ein lederner Sack</i> (चर्मपुट nach <ls>KULL.</ls>): जीनकार्मुकवस्तावीन्पृथग्दद्याद्विशुद्धये/   चतुर्णमपि वर्णानां नारीर्हत्वानवस्थिताः ॥ <ls>M. 11, 138.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "जीन",
+            "eid": "13922",
+            "pagenum": 192,
+            "content": "<i>jīna</i>¦ *Adj. alt, <ls>S</ls> II, 359, 3. {part=,seq=14145,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "जीन",
+            "eid": "16336",
+            "pagenum": 290,
+            "content": "जीन¦ mfn. (-नः-ना-नं) Old, aged. E. ज्या to become old, क्त affix, deriv. irr."
+        }
+    ],
+    "STC": [
+        {
+            "word": "जीन",
+            "eid": "9641",
+            "pagenum": 264,
+            "content": "<b>jīna-</b>¦ <ab>nt.</ab> sac de cuir."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "जीन",
+            "eid": "16364",
+            "pagenum": 351,
+            "content": "जीन¦ mf. (-नः-ना-नं) Old, aged. .E. ज्या to become old, क्त affix, deriv. irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "जीन",
+            "eid": "15834",
+            "pagenum": 308,
+            "content": "जीन¦ (नः-ना-नं) 1. <i>m.</i> Aged, old."
+        }
     ]
 }

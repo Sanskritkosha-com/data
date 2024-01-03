@@ -165,5 +165,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> कारक¦ II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कारक",
+            "eid": "10419",
+            "pagenum": 143,
+            "content": "1. <i>[kāraka]</i>¦ , f. <i>°rikā</i> <ls>Śiś.</ls> 19, 104 als Marter und auch als Tätigkeit erklärt. {part=,seq=10571,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कारक",
+            "eid": "10040",
+            "pagenum": 175,
+            "content": "कारक¦ mfn. (-रकः-रिका-रकं) An agent, acting, doing, who or what does, acts, makes, &c. m. (-कः) A noun of action. n. (-कं) 1. Action, especially in grammar. 2. That part of grammar comprising all nouns which imply the agent, object, instrument, &c. or anything except the simple and radical idea; it also includes the use and government of the cases or syntax. E. कृञ् to do, and ण्वुल् affix of agency."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कारक",
+            "eid": "7891",
+            "pagenum": 188,
+            "content": "<b>kāraka-</b>¦ <ab>ag.</ab> (<ab>not.</ab> <ab>ifc.</ab>) qui fait, qui crée, qui travaille, qui produit, qui accomplit ; auteur, faiseur ; <ab>nt.</ab> relation casuelle entre un nom et un verbe ou entre deux noms (à l'exception du <ab>gén.</ab>) ; <i>-ikā-</i> <ab>f.</ab> courte explication <lbinfo n='6'/> en vers d'une doctrine difficile ; verset mnémotechnique, titre générique de divers textes ; martyre (?) ; activité (?)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कारक",
+            "eid": "10045",
+            "pagenum": 213,
+            "content": "कारक¦ mfn. (-रकः-रिका-रकं) An agent, acting, doing, who or what does, acts, makes, &c. m. (-कः) A noun of action. n. (-कं) .²1 Action, especially in grammar. .²2 That part of grammar comprising all nouns which imply the agent, object, instrument, &c. or any thing except the simple and radical idea; it also includes the use and government of the cases or syntax. .E. कृञ् to do, and ण्वुल् affix of agency."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कारक",
+            "eid": "9485",
+            "pagenum": 179,
+            "content": "कारक¦ (कः-रिका-कं) <i>a.</i> Acting. <i>m.</i> Noun of action. <i>n.</i> Action; syntax of the cases of nouns, &c."
+        }
     ]
 }

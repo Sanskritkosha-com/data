@@ -47,5 +47,29 @@
             "pagenum": 7,
             "content": "हिज्ज¦ <lex>m.</lex> = हिज्जल <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "हिज्ज",
+            "eid": "46898",
+            "pagenum": 833,
+            "content": "हिज्ज¦ m. (-ज्जः) A plant, (Barringtonia acutangula:) see the next."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हिज्ज",
+            "eid": "44226",
+            "pagenum": 974,
+            "content": "हिज्ज¦ m. (-ज्जः) A plant, (<bot>Barringtonia acutangula</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हिज्ज",
+            "eid": "44052",
+            "pagenum": 899,
+            "content": "हिज्ज¦ (ज्जः) 1. <i>m.</i> A plant, <i>Barring-</i> <i>tonia acutangula.</i>"
+        }
     ]
 }

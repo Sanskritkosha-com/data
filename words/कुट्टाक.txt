@@ -75,5 +75,51 @@
             "pagenum": 7,
             "content": "कुट्टाक¦ II. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुट्टाक",
+            "eid": "10764",
+            "pagenum": 148,
+            "content": "<i>kuṭṭāka</i>¦ 1. einschneidend, scharf, <ls>Harṣac.</ls> (1936) 413, 15; 529, 8 (224, 22). {part=,seq=10923,type=,n=2}"
+        },
+        {
+            "word": "कुट्टाक",
+            "eid": "28513",
+            "pagenum": 392,
+            "content": "°<i>kuṭṭāka</i>¦ m. Schreiner (nach <ls>J. J. Meyer</ls>, S. 177, 16; vgl. Anm. 4), <ls>Kauṭ.</ls> 115, 3 v.u. {part=N,seq=28884,type=°,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुट्टाक",
+            "eid": "10646",
+            "pagenum": 186,
+            "content": "कुट्टाक¦ mfn. (-कः-की-कं) What cuts or divides. E. कुट्ट् to cut, षाकन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुट्टाक",
+            "eid": "8065",
+            "pagenum": 196,
+            "content": "<b>kuṭṭāka-</b>¦ <ab>ag.</ab> <ab>ord.</ab> <ab>ifc.</ab> qui coupe, qui casse, tranchant."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुट्टाक",
+            "eid": "10652",
+            "pagenum": 227,
+            "content": "कुट्टाक¦ mfn. (-कः-की-कं) What cuts or divides. .E. कुट्ट to cut, षाकन aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुट्टाक",
+            "eid": "10095",
+            "pagenum": 192,
+            "content": "कुट्टाक¦ (कः-की-कं) <i>a.</i> Cutting."
+        }
     ]
 }

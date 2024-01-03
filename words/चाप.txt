@@ -164,5 +164,51 @@
             "pagenum": 7,
             "content": "चाप¦ II. als <i><ab>best.</ab> Längenmaass</i> <ls>DAŚAK. (1883) 168,5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "चाप",
+            "eid": "13210",
+            "pagenum": 182,
+            "content": "<i>cāpa</i>¦ als best. Längenmaß, <ls>Daśak.</ls> (1883) 168, 5. {part=,seq=13418,type=,n=1}"
+        },
+        {
+            "word": "चाप",
+            "eid": "13210.1",
+            "pagenum": 182,
+            "content": "<i>cāpa</i>¦ °eine Rohrart, <ls>Kauṭ.</ls> 100, 3 ( v.l. <i>cava)</i>, 102, 1. {part=,seq=13419,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "चाप",
+            "eid": "15007",
+            "pagenum": 266,
+            "content": "चाप¦ m. (-पः) 1. A bow. 2. (In Gemetry,) An are or portion of a circle. 3. Sagittarius, the ninth sign of the Zodiac. E. चप् to cast, (arrows,) affix अण्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "चाप",
+            "eid": "9189",
+            "pagenum": 248,
+            "content": "<b>cāpa-</b>¦ <ab>m.</ab> <ab>nt.</ab> arc ; arc-en-ciel ; une mesure de longueur.  <P><i>°guṇa-</i> <ab>m.</ab> corde de l'arc.  <P><i>°yaṣṭi-</i> <i>°latā-</i> <ab>f.</ab> arc.  <P><i>°lekhā-</i> <ab>f.</ab> <ab>n.</ab> d'une femme."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "चाप",
+            "eid": "15015",
+            "pagenum": 322,
+            "content": "चाप¦ m. (-पः) .²1 A bow. .²2 (In Geometry,) An arc or portion of a circle. .E. चप to cast, (arrows,) affix घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "चाप",
+            "eid": "14469",
+            "pagenum": 282,
+            "content": "चाप¦ (पः) 1. <i>m.</i> A bow; arc."
+        }
     ]
 }

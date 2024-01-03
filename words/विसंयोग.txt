@@ -61,5 +61,37 @@
             "pagenum": 7,
             "content": "*विसंयोग¦ <lex>m.</lex> <i>das Sichlosmachen von den weltlichen Banden</i> <ls>MAHĀVY. 116</ls>. <ls n='MAHĀVY.'>130</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विसंयोग",
+            "eid": "24244",
+            "pagenum": 334,
+            "content": "*<i>visaṃyoga</i>¦ m. das Sichlosmachen von den weltlichen Banden, <ls>Mahāvy.</ls> 116. 130. {part=,seq=24578,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विसंयोग",
+            "eid": "37851",
+            "pagenum": 678,
+            "content": "विसंयोग¦ m. (-गः) 1. Separation. 2. Omission. E. वि priv., संयोग union."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विसंयोग",
+            "eid": "36160",
+            "pagenum": 793,
+            "content": "विसंयोग¦ m. (-गः) .²1 Separation. .²2 Omission. .E. वि priv., संयोग union."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विसंयोग",
+            "eid": "35778",
+            "pagenum": 712,
+            "content": "वि-संयोग¦ (गः) 1. <i>m.</i> Separation."
+        }
     ]
 }

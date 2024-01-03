@@ -39,5 +39,29 @@
             "pagenum": 2,
             "content": "कुराल¦ bei <ls>WILSON</ls> fehlerhaft für कुराह und dieses v. l. für उराह <ls>H. 1240.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "कुराल",
+            "eid": "10868",
+            "pagenum": 191,
+            "content": "कुराल¦ m. (-लः) A light bay horse with black legs."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुराल",
+            "eid": "10874",
+            "pagenum": 232,
+            "content": "कुराल¦ m. (-लः) A light bay horse, with black legs."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुराल",
+            "eid": "10320",
+            "pagenum": 197,
+            "content": "कुराल¦ (लः) 1. <i>m.</i> A light bay horse with black legs."
+        }
     ]
 }

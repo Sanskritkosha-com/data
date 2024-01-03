@@ -129,5 +129,51 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अनवधान¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनवधान",
+            "eid": "2228",
+            "pagenum": 30,
+            "content": "1. <i>anavadhāna</i>¦ n. <ls>MBh.</ls> 3, 33, 6. {part=,seq=2262,type=,n=1}"
+        },
+        {
+            "word": "अनवधान",
+            "eid": "2229",
+            "pagenum": 30,
+            "content": "2. <i>anavadhāna</i>¦ , <ls>Hem. Par.</ls> 2, 410. {part=,seq=2263,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनवधान",
+            "eid": "1272",
+            "pagenum": 23,
+            "content": "अनवधान¦ mfn. (-नः-ना-नं) Careless, inattentive. n. (-नं) Inadvertence, inattention, carelessness. E. अन् neg. अवधान care."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनवधान",
+            "eid": "1283",
+            "pagenum": 28,
+            "content": "<b>an-avadhāna-</b>¦ <ab>nt.</ab> inattention."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनवधान",
+            "eid": "1274",
+            "pagenum": 27,
+            "content": "अनवधान¦ mfn. (-नः-ना-नं) Careless, inattentive. n. (-नं) Inadvertence, inattention, carelessness. .E. अन् neg. अवधान care."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनवधान",
+            "eid": "1068",
+            "pagenum": 23,
+            "content": "अन_व-धान¦ (नं) 1. <i>n.</i> Inadvertence."
+        }
     ]
 }

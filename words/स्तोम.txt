@@ -241,5 +241,59 @@
             "pagenum": 7,
             "content": "स्तोम¦ VII. 6〉 genauer <i>Miethzins, — geld</i> <ls>VIVĀDARATNĀKARA 168,2. fgg.</ls> Statt <ls>ĀPAST. ŚR.</ls> ist <ls>ĀPAST.</ls> zu lesen."
         }
+    ],
+    "SCH": [
+        {
+            "word": "स्तोम",
+            "eid": "27093",
+            "pagenum": 371,
+            "content": "<i>stoma</i>¦ 6. genauer: Mietzins, Mietgeld, <ls>Vivādaratn.</ls> 168, 2 ff. Statt <ls>Āpast. Śr.</ls> ist <ls>Āpast.</ls> zu lesen. {part=,seq=27455,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "स्तोम",
+            "eid": "45444",
+            "pagenum": 809,
+            "content": "स्तोम¦ mfn. (-मः-मा-मं) Crooked, bent. m. (-मः) 1. A heap, a number, a multitude, a quantity. 2. Sacrifice, oblation. 3. A Soma libation. 4. Praise, eulogium. n. (-मं) 1. The head. 2. Wealth. 3. Grain, corn. 4. Praise. 5. A stick or staff bound with iron. E. ष्टु to praise, मन् Unādi aff.; or स्तोम् to praise, &c., aff. अच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "स्तोम",
+            "eid": "24022",
+            "pagenum": 866,
+            "content": "<b>stoma-</b>¦ <ab>m.</ab> éloge, hymne ; l'un des modes de la récitation du Stotra ; masse, amas, multitude. <lbinfo n='6'/>  <P><i>°citi-</i> <ab>f.</ab> fait d'empiler les briques appelées Stoma."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "स्तोम",
+            "eid": "3716",
+            "pagenum": 2,
+            "content": "<b>Stoma</b>¦ denotes ‘song of praise’ in the Rigveda.<sup>1</sup> Later<sup>2</sup> the term has the technical sense of the typical forms in which the <b>Stotras</b> are chanted. <F>1) i. 114, 9; iii. 5, 2; 58, 1, etc.</F> <F>2) Taittirīya Saṃhitā, iii. 1, 2, 4; Vājasaneyi Saṃhitā, ix. 33; x. 10, etc. <div n='P'/><i>Cf.</i> Weber, <i>Indische Studien,</i> 9, 229, 276; 10, 355; Hillebrandt, Rituallitteratur, 101.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्तोम",
+            "eid": "43039",
+            "pagenum": 950,
+            "content": "स्तोम¦ r. 10th cl. (स्तोमयति) .²1 To praise, to eulogise. .²2 To flatter, to wheedle, to coax. .²3 To boast."
+        },
+        {
+            "word": "स्तोम",
+            "eid": "43040",
+            "pagenum": 950,
+            "content": "स्तोम¦ mfn. (-मः-मा-मं) Crooked, bent. m. (-मः) .²1 A heap, a number, a multitude, a quantity. .²2 Sacrifice, oblation. .²3 Praise, eulogium. n. (-मं) .²1 The head. .²2 Wealth. .²3 Grain, corn. .²4 A stick or staff bound with iron. .E. ष्टु to praise, मन् Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्तोम",
+            "eid": "42839",
+            "pagenum": 873,
+            "content": "स्तोम¦ (मः) 1. <i>m.</i> A heap, a number; a sacrifice, praise. <i>n.</i> The head; wealth; grain; stick bound with iron. <i>a.</i> Crooked."
+        }
     ]
 }

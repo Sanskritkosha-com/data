@@ -23,5 +23,29 @@
             "pagenum": 5,
             "content": "अविलक्षित¦ <lex>Adj.</lex> <i>unbemerkt</i> <ls>BHĀG. P. 5,6,6</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविलक्षित",
+            "eid": "5649",
+            "pagenum": 77,
+            "content": "<i>avilakṣita</i>¦ Adj. unbemerkt, <ls>P. 5, 6, 6.</ls> {part=,seq=5725,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविलक्षित",
+            "eid": "4360",
+            "pagenum": 94,
+            "content": "<b>a-vilakṣita-</b>¦ <ab>a. v.</ab> non perçu."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविलक्षित",
+            "eid": "44730",
+            "pagenum": 915,
+            "content": "अविलक्षित¦ (तः-ता-तं) <i>a.</i> Concealed, veiled."
+        }
     ]
 }

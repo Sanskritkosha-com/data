@@ -135,5 +135,21 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> पर्यन्त und पर्यान्तम्¦ (richtig पर्यन्तम्) IV. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पर्यन्त",
+            "eid": "18082",
+            "pagenum": 250,
+            "content": "2. <i>paryanta</i>¦ , füge 1. vor 'mit' hinzu. {part=,seq=18343,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पर्यन्त",
+            "eid": "13479",
+            "pagenum": 421,
+            "content": "<b>pary-anta-</b>¦ <ab>m.</ab> circuit, circonférence ; limite, <lbinfo n='2'/> frontière ; bord ; fin, conclusion ; <ab>a.</ab> <ab>ifc.</ab> entouré <lbinfo n='5'/> par, qui s'étend jusqu à ; <ab>iic.</ab> proche de, voisin de ; <i>-am</i> entièrement ; <i>-e</i> à la fin.  <P><i>°saṃsthita-</i> <ab>a. v.</ab> <i>°stha-</i> <ab>a.</ab> confinant, voisin. <lbinfo n='3'/>"
+        }
     ]
 }

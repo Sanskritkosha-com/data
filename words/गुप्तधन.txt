@@ -41,5 +41,19 @@
             "pagenum": 7,
             "content": "गुप्तधन¦ 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गुप्तधन",
+            "eid": "12358",
+            "pagenum": 170,
+            "content": "1. <i>guptadhana</i>¦ n. verwahrtes Geld, <ls>Pañcat.</ls> ed. Bomb. 2, 39, 2. {part=,seq=12547,type=,n=4}"
+        },
+        {
+            "word": "गुप्तधन",
+            "eid": "12358.1",
+            "pagenum": 170,
+            "content": "2. <i>guptadhana</i>¦ Adj. der sein Geld verwahrt, ebends 2, 37, 21. {part=,seq=12547,type=,n=4}"
+        }
     ]
 }

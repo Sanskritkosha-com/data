@@ -281,5 +281,75 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> प¦ IV. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प",
+            "eid": "17414",
+            "pagenum": 240,
+            "content": "1. <i>pa</i>¦ Z. 1, lies (f. <i>ā</i> und <i>*ī</i>). {part=,seq=17670,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प",
+            "eid": "22689",
+            "pagenum": 410,
+            "content": "प¦ The twenty-first consonant of the Deva Nāgri alphabet, corresponding to the letter P."
+        },
+        {
+            "word": "प",
+            "eid": "22690",
+            "pagenum": 410,
+            "content": "प¦ m. (-पः) 1. Air, wind 2. A prince, a ruler. 3. A leaf. 4. An egg. f. (-पा) (at the end of compounds). 1. Drinking, (as in अनेकप) 2. Guarding, Protecting, ruling. (As in गोप) E. पा to nourish, &c. aff. ड ।"
+        },
+        {
+            "word": "प",
+            "eid": "22901",
+            "pagenum": 414,
+            "content": "प(पि)ञ्जर¦ mn. (-रः-रं) A skeleton. n. (-रं) 1. A cage, an aviary, a dove-cot. 2. The ribs. m. (-रः) 1. The body. 2. The Kali age. E. पजि for पिजि to dwell, &c. Unādi aff. अरच्; also पिञ्जर."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प",
+            "eid": "12752",
+            "pagenum": 395,
+            "content": "<b>1 pa-</b>¦ <i>-ā- -ī-</i> <ab>ag.</ab> <ab>ifc.</ab> qui boit."
+        },
+        {
+            "word": "प",
+            "eid": "12753",
+            "pagenum": 395,
+            "content": "<b>2 pa-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui protège, qui garde."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प",
+            "eid": "22704",
+            "pagenum": 490,
+            "content": "प¦ The twenty-first consonant of the <i>Nāgarī</i> alphabet, corresponding to the letter <i>P.</i>"
+        },
+        {
+            "word": "प",
+            "eid": "22705",
+            "pagenum": 490,
+            "content": "प¦ m. (पः) .²1 Air, wind. .²2 A prince, a ruler. .²3 A leaf. .²4 Drinking. .E. पा to nourish, &c. aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प",
+            "eid": "22176.1",
+            "pagenum": 437,
+            "content": "प¦ <i>pa</i> The 19th consonant, and first letter of the labial class."
+        },
+        {
+            "word": "प",
+            "eid": "22177",
+            "pagenum": 437,
+            "content": "प¦ (पः) 1. <i>m.</i> Air, wind; a prince, a ruler; a leaf; drinking."
+        }
     ]
 }

@@ -103,5 +103,29 @@
             "pagenum": 7,
             "content": "संवृति¦ <lex>f.</lex> <i>Hemmung</i>: वाग्वृत्तेः <ls>HEM.</ls> <ls>YOGAŚ. 1, 41.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "संवृति",
+            "eid": "25530",
+            "pagenum": 351,
+            "content": "<i>saṃvṛti</i>¦ f. ° = <i>vyavahāra</i> (Übereinkunft) <ls>S</ls> I, 457, 5. {part=,seq=25873,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "संवृति",
+            "eid": "41685",
+            "pagenum": 745,
+            "content": "संवृति¦ f. (-तिः) 1. Covering up. 2. Concealment, suppression. 3. Secret purpose."
+        }
+    ],
+    "STC": [
+        {
+            "word": "संवृति",
+            "eid": "20804",
+            "pagenum": 754,
+            "content": "<b>saṃ-vṛti-</b>¦ <ab>f.</ab> fermeture (<i>-iṃ</i> (<ab>ifc.</ab>) <i>kṛ-</i> fermer <ab>qqch.</ab>) ; fait de cacher, dissimulation, feinte, hypocrisie ; <i>-mant-</i> <ab>a.</ab> qui sait dissimuler. <lbinfo n='5'/>"
+        }
     ]
 }

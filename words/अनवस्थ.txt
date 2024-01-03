@@ -67,5 +67,37 @@
             "pagenum": 7,
             "content": "अनवस्थ¦ <ls>KATHĀS. 80, 10</ls> fehlerhaft für अनवस्थित <i>unruhig, aufgeregt.</i>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अनवस्थ",
+            "eid": "1280",
+            "pagenum": 23,
+            "content": "अनवस्थ¦ mfn. (-स्थः-स्था-स्थं) Unstable, unsteady. 2. Incontinent. f. (-स्था) 1. Instability, absence of fixed state or condition. 2. Uncertainty, doubt. 3. Incontinence, dissoluteness. 4. (In logic,) the abstract nature of a thing, independent of its existence. E. अन् neg. अवस्था condition."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनवस्थ",
+            "eid": "1296",
+            "pagenum": 29,
+            "content": "<b>an-avastha-</b>¦ <ab>a.</ab> qui n'a pas de base ferme, inquiet ; <i>-ita-</i> <ab>a.</ab> étourdi ; infidèle ; absent ; qui ne peut demeurer ; échoué ; qui n'a pas subsisté, changé."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनवस्थ",
+            "eid": "1282",
+            "pagenum": 28,
+            "content": "अनवस्थ¦ mfn. (-स्थः-स्था-स्थं) Unstable, unsteady. .²2 Incontinent. f. (स्था) .²1 Instability, absence of fixed state or condition. Uncertainty, doubt. .²3 Incontinence, dissoluteness. .²4 (In logic,) the abstract nature of a thing, independent of its existence. .E. अम् neg. अवस्था condition."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनवस्थ",
+            "eid": "1078",
+            "pagenum": 23,
+            "content": "अन_वस्थ¦ (स्थः-स्था-स्थं) <i>a.</i> Unstable."
+        }
     ]
 }

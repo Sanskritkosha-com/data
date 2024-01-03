@@ -304,5 +304,51 @@
             "pagenum": 7,
             "content": "विमान¦ VI. etwa <i>Hain</i> <ls>JĀTAKAM. 28,6</ls>. <ls n='JĀTAKAM. 28,'>9</ls>. <ls n='JĀTAKAM. 28,'>28</ls>. <ls n='JĀTAKAM. 28,'>29</ls>. <ls n='JĀTAKAM.'>31,4</ls>. <ls>DIVYĀVAD. 399,18</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विमान",
+            "eid": "24022",
+            "pagenum": 331,
+            "content": "<i>vimāna</i>¦ etwa Hain, <ls>Jātakam.</ls> 28, 6. 9. 28. 29. 31, 4; <ls>Divyāvad.</ls> 399, 18. {part=,seq=24354,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विमान",
+            "eid": "37187",
+            "pagenum": 666,
+            "content": "विमान¦ mn. (-नः-नं) 1. A car or chariot of the gods, sometimes serving as a seat or throne, and at others carrying them through the skies self-directed and self-moving; hence it also applies to the sky. 2. Any car or vehicle. 3. A horse. 4. A palace, the palace of an emperor, or supreme monarch. 5. A seven-storied palace. 6. Disrespect, dishonour. 7. Measure. E. वि before मन् to understand, with घञ् aff.; or मा to measure, aff. ल्युट्; to वि priv., मान honour."
+        }
+    ],
+    "STC": [
+        {
+            "word": "विमान",
+            "eid": "18969",
+            "pagenum": 669,
+            "content": "<b>1 vi-māna-</b>¦ <i>-ī-</i> <ab>a.</ab> (qui mesure) qui parcourt d'un bout à l'autre ; <ab>m.</ab> <ab>nt.</ab> char divin, char aérien (aussi <i>-ka-</i>) ; palais royal, chapelle ou tour d'une forme particulière ; <i>-tā-</i> <ab>f.</ab> <i>-tva-</i> <ab>nt.</ab> état ou nature d'un char aérien ; <i>-ī-kṛ-</i> transformer <lbinfo n='6'/> en char aérien.  <P><i>°pāla-</i> <ab>m.</ab> gardien d'un char divin.  <P><i>°pratima-</i> <ab>a.</ab> qui ressemble à un char aérien.  <P><i>°yāna-</i> <ab>a.</ab> qui se déplace en char aérien.  <P><i>°harmya-</i> <ab>nt.</ab> grand palais à 7 étages."
+        },
+        {
+            "word": "विमान",
+            "eid": "18970",
+            "pagenum": 669,
+            "content": "<b>2 vi-māna-</b>¦ <ab>a.</ab> humilié, déshonoré, outragé ; <ab>m.</ab> dédain (<i>a°</i> respect) ; <i>-na-</i> <ab>nt.</ab> <i>-nā-</i> <ab>f.</ab> manque d'égards, dédain, mépris, humiliation, outrage <lbinfo n='5'/> ; <i>-ayitavya- -ya- -ita-</i> <ab>v.</ab> <i>°MAN-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विमान",
+            "eid": "35542",
+            "pagenum": 779,
+            "content": "विमान¦ mn. (-नः-नं) .²1 A car or chariot of the gods, sometimes serving as a seat or throne, and at others carrying them through the skies self-directed and self-moving. .²2 Any car or vehicle. .²3 A horse. .²4 A palace, the palace of an emperor or supreme monarch. .²5 Disrespect, dishonour. .²6 Measure. .E. वि before मन to understand, with घञ् aff., or मा to measure, aff. ल्युट्, or वि priv., मान honour."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विमान",
+            "eid": "35138",
+            "pagenum": 698,
+            "content": "वि-मान¦ (नः-नं) 1. <i>m. n.</i> A car of the gods; a car, a horse; a place; disrespect. <i>a.</i> Dishonoured."
+        }
     ]
 }

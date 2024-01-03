@@ -246,5 +246,59 @@
             "pagenum": 7,
             "content": "वट¦ <div n='1'> 10) <i>Bauer im Schachspiel</i> <ls>Monatsberr. d. K. Pr. Ak. d. Ww. 1872, S. 65.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वट",
+            "eid": "23110",
+            "pagenum": 319,
+            "content": "<i>vaṭa</i>¦ Schnur s. <i>muktākṣavaṭa</i>. {part=,seq=23433,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वट",
+            "eid": "34901",
+            "pagenum": 626,
+            "content": "वट¦ Subst. mfn. (-टः-टी-टं) A string, a rope, a tie. m. (-टः) 1. The large Indian fig-tree, (Ficus Indica.) 2. A round figure, a circle, a cipher, a ball or globe. 3. Pulse ground and fried with oil or butter. 4. A small shell, a cowrie. 5. Equality in shape or dimension. E. वट् to surround, to tie, aff. अच् ।"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "वट",
+            "eid": "230",
+            "pagenum": 598,
+            "content": "<i>vaṭa</i>¦ <div n='P'/><bot>FICUS BENGHALENSIS LINN.</bot> = <bot>F. INDICA LINN.</bot> (Ainslie 2, p. 10-11) [= <bot>F. INDICA ROXB.</bot>] (Dutt; HK; Roxb., p. 639) = <bot>F. INDICA</bot> (MW; Nadk. 1, nr. 1034; PW; Vśs) = <bot>UROSTIGMA BENGALENSE GASP.</bot> (KB 3, p. 2312-2314); see Hooker 5, p. 499-500 about the nomenclature."
+        }
+    ],
+    "STC": [
+        {
+            "word": "वट",
+            "eid": "17793",
+            "pagenum": 623,
+            "content": "<b>vaṭa-</b>¦ <ab>m.</ab> banian, Ficus indica ; <ab>n.</ab> d'oiseau.  <P><i>°kaṇīkā-</i> <ab>f.</ab> parcelle minime du banian.  <P><i>vaṭāroha-</i> <ab>m.</ab> racine aérienne du banian.  <P><i>vaṭodakā-</i> <ab>f.</ab> <ab>n.</ab> d'une rivière."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वट",
+            "eid": "33410",
+            "pagenum": 730,
+            "content": "वट¦ r. 1st and 10th cls. (वटति वटयति) .²1 To surround or encompass. .²2 To tie or string, to connect. .²3 To partition, to divide. r. 1st cl. causal form (वटयति) To speak. (इ) वटि r. 4th and 10th cls. (वण्ट्यति वण्टयति) To partition, to separate or divide."
+        },
+        {
+            "word": "वट",
+            "eid": "33411",
+            "pagenum": 730,
+            "content": "वट¦ <i>subst.</i> mfn. (-टः-टी-टं) A string, a rope, a tie. m. (-टः) .²1 The large <i>Indian</i> fig tree, (<bot>Ficus Indica</bot>.) .²2 A round figure, a circle, a cypher, a ball or globe. .²3 Pulse ground and fried with oil or butter. .²4 A small shell, a cowrie. .²5 Equality in shape or dimension. .E. वट to surround, to tie, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वट",
+            "eid": "32999",
+            "pagenum": 653,
+            "content": "वट¦ (टः-टी-टं) 1. <i>m.</i> The large Indian fig tree; a circle; pulse; a cowrie, equal dimension. <i>m.</i> (टी-टं) <i>f. n.</i> A string."
+        }
     ]
 }

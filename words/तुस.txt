@@ -47,5 +47,41 @@
             "pagenum": 3,
             "content": "तुस¦ <lex>m.</lex> = तुष 1. <ls>RAMĀN.</ls> zu <ls>AK. 2, 9, 22.</ls> <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "तुस",
+            "eid": "17722",
+            "pagenum": 318,
+            "content": "तुस¦ r. 1st cl. (तोसति) To sound. E. भ्वा-पर-सक-सेट् ।"
+        },
+        {
+            "word": "तुस",
+            "eid": "17723",
+            "pagenum": 318,
+            "content": "तुस¦ m. (-सः) The husk of corn or rice: see तुष."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तुस",
+            "eid": "17739",
+            "pagenum": 382,
+            "content": "तुस¦ r. 1st cl. (तोसति) To sound."
+        },
+        {
+            "word": "तुस",
+            "eid": "17740",
+            "pagenum": 382,
+            "content": "तुस¦ m. (-सः) The husk of corn or rice: see तुष."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तुस",
+            "eid": "17218",
+            "pagenum": 338,
+            "content": "तुस¦ (सः) 1. <i>m.</i> The husk of grain."
+        }
     ]
 }

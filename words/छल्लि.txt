@@ -75,5 +75,37 @@
             "pagenum": 5,
             "content": "छल्लि¦ <i>Mantel</i> <ls>HĀLA 118.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "छल्लि",
+            "eid": "13540",
+            "pagenum": 186,
+            "content": "*<i>challi</i>¦ f. Rinde, <ls>S</ls> II, 293, 5. {part=,seq=13754,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "छल्लि",
+            "eid": "15565",
+            "pagenum": 276,
+            "content": "छल्लि¦ f. (-ल्लिः) Skin, bark, rind, &c. E. छद a cover, ला to give or get; with affix कि, द becomes ल; also with ङीप् added छल्ली."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "छल्लि",
+            "eid": "15571",
+            "pagenum": 334,
+            "content": "छल्लि¦ f. (-ल्लिः) Skin, bark, rind, &c. .E. छद a cover, ला to give or get; with affix कि, द becomes ल; also with ङीप् added छल्ली."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "छल्लि",
+            "eid": "15036",
+            "pagenum": 293,
+            "content": "छल्लि¦ (ल्लिः) 2. <i>f.</i> Skin, bark, rind."
+        }
     ]
 }

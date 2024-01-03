@@ -85,5 +85,29 @@
             "pagenum": 1,
             "content": "<hom>2.</hom> अदन्त¦ <lex>Adj.</lex> <i>auf kurzes</i> अ <i>auslautend</i> <ls n='Chr.'>223,8</ls>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अदन्त",
+            "eid": "899",
+            "pagenum": 16,
+            "content": "अदन्त¦ mfn. (-न्तः-न्ता-न्तं) Toothless. So अदन्तक (-कः-का-कं) E. अ neg. दन्त a tooth."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अदन्त",
+            "eid": "901",
+            "pagenum": 20,
+            "content": "अदन्त¦ mfn. (-न्तः-न्ता-न्तं) Toothless. So अदन्तक (-कः-का-कं) .E. अ neg. दन्त a tooth."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अदन्त",
+            "eid": "744",
+            "pagenum": 16,
+            "content": "अ-दन्त¦ (न्तः-न्ता-न्तं) <i>a.</i> Toothless."
+        }
     ]
 }

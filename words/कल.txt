@@ -284,5 +284,69 @@
             "pagenum": 7,
             "content": "कल¦ II. 2〉a〉 <ls>R. ed. Bomb. 4,30,9</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कल",
+            "eid": "10043",
+            "pagenum": 138,
+            "content": "<i>kala</i>¦ 2. a) <ls>R. ed. Bomb.</ls> 4, 30, 9. {part=,seq=10182,type=,n=1}"
+        },
+        {
+            "word": "कल",
+            "eid": "10043.1",
+            "pagenum": 138,
+            "content": "<i>kala</i>¦ Adj. sweet, melodious, <ls>Pūrṇabh.</ls> 181, 11. {part=,seq=10183,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कल",
+            "eid": "9477",
+            "pagenum": 164,
+            "content": "कल¦ r. 1st cl. (कलति) To sound. 1st and 10th cls. (कलति, कालयति) To throw or cast, to send; also 1st and 10th cls. (कलति, कलयति) 1. To go. 2. To count or reckon: with आङ् prefixed, 1. To take, 2. To bind or tie; with परि, To keep in mind, to think or remember; with वि, To maim, to separate a part, to make defective; with सम्, To sum up, to add."
+        },
+        {
+            "word": "कल",
+            "eid": "9478",
+            "pagenum": 164,
+            "content": "कल¦ mfn. (-लः-ला-लं) 1. Crude, undigested. 2. Weak. m. (-लः) 1. A low or soft tone, as humming, buzzing, &c. 2. The Sal tree. 3. In poetry, time equal to four matras or instants. n. (-लं) 1. Semen virile. 2. The jujube, Zizyphus jujuba.) f. (-ला) 1. A small part of anything. 2. A digit or one sixteenth of the moon's diameter. 3. A division of time, equal to thirty Kashhas or about eight seconds. 4. The 60th part of one thirtieth of a zodiacal sign, a minute of a degree. 5. Interest on a capital. 6. Any practical art, mechanical or fine, sixty-four such are enumerated, as carpentering, architecture, jewellery, farriery, acting, dancing, music, medicine, poetry, &c. 7. The menstrual discharge. 8. A boat 9. Fraud, deceit. E. कल् to sound, to count, &c. अच् affix or क pleasure, and ल what gives, from ला to bring, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कल",
+            "eid": "7720",
+            "pagenum": 181,
+            "content": "<b>kala-</b>¦ <ab>a.</ab> rauque, indistinct, inarticulé ; bas, doux (son) ; qui émet un son doux, mélodieux.  <P><i>°kaṇṭha-</i> <ab>m.</ab> coucou indien.  <P><i>°kala-</i> <ab>m.</ab> bruit confus, rumeur, murmure ; <i>°kalā̆-rava-</i> <ab>id.</ab> ; <i>-vant-</i> <ab>a.</ab> strident.  <P><i>°dhauta-</i> <ab>nt.</ab> or ou argent ; <ab>a.</ab> d'or ; <i>°dhautalipi-</i> <lbinfo n='5'/> <ab>f.</ab> enluminure.  <P><i>°bhāṣin-</i> <ab>a.</ab> qui parle d'une voix agréable.  <P><i>°mūka-</i> <ab>a.</ab> sourd-muet.  <P><i>°rava-</i> <ab>m.</ab> son doux et bas.  <P><i>°haṃsa-</i> <ab>m.</ab> <ab>n.</ab> de diverses espèces d'oies ou de canards ; <i>-ī-</i> <ab>f.</ab> femelle d'oie ou de canard ; <i>-ka-</i> <ab>m.</ab> petite oie ; <i>°haṃsa-gāminī-</i> <ab>f.</ab> femme ayant la démarche d'une oie.  <P><i>kalālāpa-</i> <ab>m.</ab> son doux, voix agréable.  <P><i>kalottāla-</i> <ab>a.</ab> fort et mélodieux (voix)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कल",
+            "eid": "9482",
+            "pagenum": 200,
+            "content": "कल¦ r. 1st cl. (कलति) To sound. 1st and 10th cls. (कलति, कालयति) To throw or cast, to send; also 1st and 10th cls. (कलति, कलयति) .²1 To go. .²2 To count or reckon: <div n='p'>with आङ् prefixed, .²1 To take. .²2 To bind or tie; <div n='p'>with परि, To keep in mind, to think or remember; <div n='p'>with वि, To maim, to separate a part, to make defective; <div n='p'>with सम, To sum up, to add."
+        },
+        {
+            "word": "कल",
+            "eid": "9483",
+            "pagenum": 200,
+            "content": "कल¦ mfn. (-लः-ला-लं) .²1 Crude, undigested. .²2 Weak. m. (-लः) .²1 A low or soft tone, as humming, buzzing, &c. .²2 The <i>Śāl</i> tree. .²3 In poetry, time equal to four <i>mātras</i> or instants. n. (-लं) .²1 Semen virile. .²2 The jujube, (<bot>Zizyphus jujuba</bot>) f. (-ला) .²1 A small part of any thing. .²2 A digit or one sixteenth of the moon's diameter. .²3 A division of time, equal to thirty <i>Kāṣas</i> or about eight seconds. .²4 The 60th part of one thirtieth of a zodiacal sign, a minute of a degree. .²5 Interest on a capital. .²6 Any practical art, mechanical or fine, sixty-four such are enumerated, as carpentering, architecture, jewellery, farriery, acting, dancing, music, medicine, poetry, &c. .²7 The menstrual discharge. .²8 A boat. .²9 Fraud, deceit. .E. कल to sound, to count, &c. (-अच्) affix; or क pleasure, and ल what gives, from ला to bring, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कल",
+            "eid": "8916",
+            "pagenum": 168,
+            "content": "कल¦ (त् क) कलयति To count. With आ to take, to bind; with परि to keep in mind; with वि to cut or maim; with सं to sum up, to add."
+        },
+        {
+            "word": "कल",
+            "eid": "8917",
+            "pagenum": 168,
+            "content": "कल¦ (लः) 1. <i>m.</i> A low or soft tone. <i>Sāl</i> tree; four mātras. <i>n.</i> Semen virile; jujube. <i>f.</i> A digit 1-16 part of the moon's diameter; a portion of time; eight seconds; interest; mechanic art; menses; a boat; fraud. <i>a.</i> Crude, weak."
+        }
     ]
 }

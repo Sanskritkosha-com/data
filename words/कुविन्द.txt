@@ -96,5 +96,45 @@
             "pagenum": 5,
             "content": "कुविन्द¦ <ls>KATHĀS. 83, 35.</ls> °क <ls>HALĀY. 2,435.</ls> <ls>Verz. d. Oxf. H. 21,b, N. 3.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुविन्द",
+            "eid": "10977",
+            "pagenum": 151,
+            "content": "<i>kuvinda</i>¦ m. Weber auch <ls>S</ls> I, 126, 10 v.u. (Ko.). {part=,seq=11143,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुविन्द",
+            "eid": "11022",
+            "pagenum": 193,
+            "content": "कुविन्द¦ m. (-न्दः) A weaver. E. कुप् to spread, किन्दच् Unadi affix, and प changed to व; also कुपिन्द."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुविन्द",
+            "eid": "8156",
+            "pagenum": 201,
+            "content": "<b>kuvinda-</b>¦ <ab>m.</ab> tisserand ; <i>-ka-</i> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुविन्द",
+            "eid": "11028",
+            "pagenum": 235,
+            "content": "कुविन्द¦ m. (-न्दः) A weaver. .E. कुप to spread, किन्दच् Uṇādi affix, and प changed to व; also कुपिन्द."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुविन्द",
+            "eid": "10473",
+            "pagenum": 200,
+            "content": "कुविन्द¦ (न्दः) 1. <i>m.</i> A weaver."
+        }
     ]
 }

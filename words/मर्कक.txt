@@ -37,5 +37,29 @@
             "pagenum": 5,
             "content": "मर्कक¦ <lex>m.</lex> = मर्कट <i>Ardea Argala</i> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <i>Spinne</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मर्कक",
+            "eid": "30692",
+            "pagenum": 553,
+            "content": "मर्कक¦ m. (-कः) A spider. E. मर्क going, aff. कन् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मर्कक",
+            "eid": "29666",
+            "pagenum": 645,
+            "content": "मर्कक¦ m. (-कः) A spider. .E. मर्क going, aff. कन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मर्कक",
+            "eid": "29186",
+            "pagenum": 578,
+            "content": "मर्कक¦ (कः) 1. <i>m.</i> A spider."
+        }
     ]
 }

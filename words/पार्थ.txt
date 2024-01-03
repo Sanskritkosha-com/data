@@ -272,5 +272,53 @@
             "pagenum": 7,
             "content": "<hom>5.</hom> पार्थ und पार्थोन¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पार्थ",
+            "eid": "18405",
+            "pagenum": 254,
+            "content": "5. <i>pārtha</i>¦ m. und <i>pārthona</i> m. = <lang n='greek'>παρϑένος</lang>, die Jungfrau im Tierkreise, <ls>M. Müller, Ren.</ls> 326. {part=,seq=18669,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पार्थ",
+            "eid": "24624",
+            "pagenum": 446,
+            "content": "पार्थ¦ m. (-र्थः) 1. A king, a prince. 2. A name of the Pāndu prince ARJUNA. 3. A name of KĀRTAVĪRYA. 4. A tree, (Pentaptera arjuna.) E. पृथा a proper name, अण् aff. of descent."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "पार्थ",
+            "eid": "371",
+            "pagenum": 445,
+            "content": "pārtha¦ <div n='P'/>= arjuna = kakubha (Kai.Nigh., oṣadhivarga 819; Dha.nigh. 5, 114; Rā.nigh. 9, 191)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पार्थ",
+            "eid": "13729",
+            "pagenum": 431,
+            "content": "<b>pārtha-</b>¦ <ab>m.</ab> <ab>métron.</ab> de Yudhiṣṭhira, Bhīmasena, <lbinfo n='6'/> Arjuna ; <ab>pl.</ab> les 5 Pāṇḍava ; <i>-mayaī-</i> <lbinfo n='2'/> <ab>a.</ab> consistant dans les 5 Pāṇḍava."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पार्थ",
+            "eid": "24539",
+            "pagenum": 530,
+            "content": "पार्थ¦ m. (-र्थः) .²1 A king, a prince. .²2 A name of the <i>Pāṇḍu</i> prince ARJUNA. .²3 A name of KĀRTAVĪRYA. .²4 A tree, (<bot>Pentaptera arjuna</bot>.) .E. पृथा a proper name, अण् aff. of descent."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पार्थ",
+            "eid": "24019",
+            "pagenum": 474,
+            "content": "पार्थ¦ (र्थः) 1. <i>m.</i> A king; <i>Arjuna;</i> <i>Mars;</i> a tree (Pentaptera arjuna.)"
+        }
     ]
 }

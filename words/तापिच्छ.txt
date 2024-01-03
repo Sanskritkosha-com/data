@@ -90,5 +90,45 @@
             "pagenum": 5,
             "content": "तापिच्छ¦ <ls>MĀLATĪM. 75, 19.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तापिच्छ",
+            "eid": "14458",
+            "pagenum": 199,
+            "content": "<i>tāpiccha</i>¦ (nach dem Ko. °n.), <ls>S</ls> II, 244, 2 [Ko. 244, 1 v.u.]. {part=,seq=14688,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तापिच्छ",
+            "eid": "17279",
+            "pagenum": 309,
+            "content": "तापिच्छ¦ m. (-च्छः) A tree bearing dark blossoms, the Tamala: see the next, तापिनं छादयति छद-ड पृषो० । तमालवृक्षे ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "तापिच्छ",
+            "eid": "9982",
+            "pagenum": 281,
+            "content": "<b>tāpiccha-</b>¦ <i>tāpiñcha-</i> <ab>m.</ab> arbre tamāla (<ab>s. v.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तापिच्छ",
+            "eid": "17296",
+            "pagenum": 372,
+            "content": "तापिच्छ¦ m. (-च्छः) A tree bearing dark blossoms, the <i>Tamāla:</i> see the next."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तापिच्छ",
+            "eid": "16768",
+            "pagenum": 329,
+            "content": "तापिच्छ¦ (च्छः) 1. <i>m.</i> A tree bearing dark blossoms, <i>Tamāla.</i>"
+        }
     ]
 }

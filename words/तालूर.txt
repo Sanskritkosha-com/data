@@ -90,5 +90,37 @@
             "pagenum": 5,
             "content": "तालूर¦ <ls>HĀLA 37.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तालूर",
+            "eid": "14533",
+            "pagenum": 200,
+            "content": "<i>tālūra</i>¦ m. Strudel, <ls>H</ls> 22, 19. 32. 56; 30, 76; 34, 27; Hāla 37; <ls>Hem. Deś.</ls> V, 21; <ls>Hem. Uṇādis.</ls> 428 (Z). [pw: 'nur im Prakrit belegt'.] {part=,seq=14765,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तालूर",
+            "eid": "17402",
+            "pagenum": 312,
+            "content": "तालूर¦ m. (-रः) A whirlpool, an eddy. E. तल् to be deep, ऊरन् affix; also read तालुर."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तालूर",
+            "eid": "17419",
+            "pagenum": 375,
+            "content": "तालूर¦ m. (-रः) A whirlpool, an eddy. .E. तल to be deep, उरन् affix; also read तालुर."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तालूर",
+            "eid": "16891",
+            "pagenum": 331,
+            "content": "तालूर¦ (रः) 1. <i>m.</i> A whirlpool."
+        }
     ]
 }

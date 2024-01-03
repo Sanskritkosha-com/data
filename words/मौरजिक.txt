@@ -76,5 +76,37 @@
             "pagenum": 5,
             "content": "मौरजिक¦ (von मुरज) <lex>m.</lex> <i>Trommelschläger</i> <ls>AK. 2, 10, 3.</ls> <ls>H. 924.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मौरजिक",
+            "eid": "22050",
+            "pagenum": 304,
+            "content": "*<i>maurajika</i>¦ m. Trommelschläger, <ls>Pārijātam.</ls> I, 21<sup>d</sup>. {part=,seq=22352,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मौरजिक",
+            "eid": "32275",
+            "pagenum": 580,
+            "content": "मौरजिक¦ m. (-कः) A player on a drum. E. मुरज a drum, and ठक् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मौरजिक",
+            "eid": "31083",
+            "pagenum": 676,
+            "content": "मौरजिक¦ m. (-कः) A player on a drum. .E. मुरज a drum, and ठक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मौरजिक",
+            "eid": "30636",
+            "pagenum": 606,
+            "content": "मौर-जिक¦ (कः) 1. <i>m.</i> A drummer."
+        }
     ]
 }

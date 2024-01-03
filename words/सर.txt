@@ -261,5 +261,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> सर/¦ VII. 1〉a〉 <ls>AUFRECHT</ls> vermuthet <ls>VS. 22,2</ls> सरघा रप/न्ती."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सर",
+            "eid": "26151",
+            "pagenum": 359,
+            "content": "1. <i>sará</i>¦ 1. a) Aufrecht vermutet <ls>VS.</ls> 22, 2 <i>saraghā rapantī</i>. <i>sara</i> °(Perlen) schnur, <ls>Padyac.</ls> I, 64<sup>a</sup>. <i>sara</i> m. ° = <i>hāra</i>, <ls>S</ls> I, 106, 3. — ° = <i>samūha</i>, <ls>H</ls> V, 135. — °Fußsoldat, <ls>H</ls> XLIII, 155. {part=,seq=26501,type=,n=1}"
+        },
+        {
+            "word": "सर",
+            "eid": "26151.1",
+            "pagenum": 359,
+            "content": "<i>sara</i>¦ s. <i>kusumasara!</i> {part=,seq=26502,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सर",
+            "eid": "43093",
+            "pagenum": 771,
+            "content": "सर¦ mfn. (-रः-रा-रं) 1. Who or what goes, occurring chiefly in composition, as अनुसर, अवसर, &c. 2. Cathartic, purgative. m. (-रः) 1. The thick part or coagulum of curds or milk, cream, &c. 2. Going, motion. 3. An arrow. 4. Saltness, salt. 5. A string. n. (-रं) 1. A lake, a pool. 2. Water. mf. (-रः-रा or -री) A cascade, a water-fall; also शर. E. सृ to go, aff. अच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सर",
+            "eid": "22444",
+            "pagenum": 815,
+            "content": "<b>sara-</b>¦ <ab>m.</ab> cordon (du collier) ; <ab>iic.</ab> en saṃdhi irrég. pour <i>-saras-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सर",
+            "eid": "41023",
+            "pagenum": 906,
+            "content": "सर¦ mfn. (-रः-रा-रं) Who or what goes, occurring chiefly in composition, as अनुसर, अवसर, &c. m. (-रः) .²1 The thick part or coagulum of curds or milk, cream, &c. .²2 Going, motion. .²3 An arrow. .²4 Saltness, salt. n. (-रं) .²1 A lake, a pool. .²2 Water. mf. (-रः-रा) or री) A cascade, a water-fall; also शर. .E. सृ to go, aff. अप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सर",
+            "eid": "40749",
+            "pagenum": 826,
+            "content": "सर¦ (रः) 1. <i>m.</i> Thick part of curds, cream, &c.; going; an arrow; salt; water. 1. <i>m. f.</i> A cascade. <i>n.</i> A lake or pool."
+        }
     ]
 }

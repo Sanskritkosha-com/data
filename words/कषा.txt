@@ -59,5 +59,21 @@
             "pagenum": 5,
             "content": "कषा¦ <ls>KATHĀS. 94, 13.</ls> कशा <ls>BHĀG. P. 3, 30, 23</ls> in der <ls>ed. Bomb.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कषा",
+            "eid": "10234",
+            "pagenum": 141,
+            "content": "°<i>kaṣā</i>¦ = <i>kaṣapaṭṭikopari rekhāpātanam</i>, <ls>S</ls> II, 120, 1. {part=,seq=10383,type=°,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कषा",
+            "eid": "7788",
+            "pagenum": 184,
+            "content": "<b>kaṣā-</b>¦ <ab>f.</ab> = <i>kaśā-.</i>"
+        }
     ]
 }

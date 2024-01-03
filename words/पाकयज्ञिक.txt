@@ -53,5 +53,37 @@
             "pagenum": 7,
             "content": "पाकयज्ञिक¦ IV. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पाकयज्ञिक",
+            "eid": "18213",
+            "pagenum": 251,
+            "content": "<i>pākayajñika</i>¦ <ls>Baudh.</ls> 3, 7, 10. {part=,seq=18477,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पाकयज्ञिक",
+            "eid": "24182",
+            "pagenum": 438,
+            "content": "पाकयज्ञिक¦ m. (-कः) The performer of the ceremony called Pāk-yajna, E. पाकयज्ञ, aff. ठञ्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाकयज्ञिक",
+            "eid": "24128",
+            "pagenum": 521,
+            "content": "पाकयज्ञिक¦ m. (-कः) The performer of the ceremony called <i>Pākayajña.</i> .E. पाकयज्ञ, aff. ठञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाकयज्ञिक",
+            "eid": "23602",
+            "pagenum": 466,
+            "content": "पाक-यज्ञिक¦ (कः) 1. <i>m.</i> The offerer."
+        }
     ]
 }

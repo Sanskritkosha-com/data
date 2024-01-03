@@ -118,5 +118,45 @@
             "pagenum": 5,
             "content": "अभिनय¦ vgl. <ls>SĀH. D. 274.</ls> दक्षिणेनैव हस्तेन पुंसामभिनयो भवेत् । वामेन प्रायशः स्त्रीणामिति रीतिः पुरातनी <ls>Verz. d. Oxf. H. 86,b,22. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभिनय",
+            "eid": "4057",
+            "pagenum": 56,
+            "content": "<i>abhinaya</i>¦ m. = <i>śayyāgamana?</i> <ls>S</ls> II, 11, 3. {part=,seq=4112,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभिनय",
+            "eid": "2523",
+            "pagenum": 44,
+            "content": "अभिनय¦ m. (-यः) 1. Indication of a passion or purpose by look, gesture, &c. 2. Acting, dramatic personification. 3. Ornament, decoration. 4. Civility, kindness. E. अभि, नीञ् to guide, and अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभिनय",
+            "eid": "2920",
+            "pagenum": 62,
+            "content": "<b>abhi-naya-</b>¦ <ab>m.</ab> pantomime ; représentation <lbinfo n='4'/> théâtrale."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभिनय",
+            "eid": "2525",
+            "pagenum": 53,
+            "content": "अभिनय¦ m. (-यः) .²1 Indication of a passion or purpose by look, gesture, &c. .²2 Acting, dramatic personification. .²3 Ornament, decoration. .²4 Civility, kindness. .E. अभि, णीञ् to guide, and अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अभिनय",
+            "eid": "2043",
+            "pagenum": 41,
+            "content": "अभि-नय¦ (यः) 1. <i>m.</i> Indication of passion by the look; civility."
+        }
     ]
 }

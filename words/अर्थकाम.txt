@@ -103,5 +103,37 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अर्थकाम¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अर्थकाम",
+            "eid": "4877",
+            "pagenum": 66,
+            "content": "1. <i>arthakāma</i>¦ Z. 2, lies <ls>M.</ls> 2, 13 statt <ls>M.</ls> 2, 23. {part=,seq=4942,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अर्थकाम",
+            "eid": "3301",
+            "pagenum": 57,
+            "content": "अर्थकाम¦ m. (-मः) Avarice, desire of wealth E. अर्थ, and काम desire."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अर्थकाम",
+            "eid": "3303",
+            "pagenum": 69,
+            "content": "अर्थकाम¦ m. (-मः) Avarice, desire of wealth, .E. अर्थ, and काम desire."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अर्थकाम",
+            "eid": "2754",
+            "pagenum": 54,
+            "content": "अर्थ-काम¦ (मः) 1. <i>m.</i> Avarice."
+        }
     ]
 }

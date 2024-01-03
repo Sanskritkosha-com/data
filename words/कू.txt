@@ -215,5 +215,63 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> कू¦. <ab>Intens.</ab> कोकूय् II. <ls><ab>ebend.</ab> 210</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कू",
+            "eid": "11051",
+            "pagenum": 152,
+            "content": "1. <i>kū</i>¦ Intens. <i>kokūy</i>, <ls>Damayantīk.</ls> 210. — Intens. <i>*cokūyate</i>, <ls>Rasas.</ls> 19<sup>a</sup>. Mit <i>ud, utkauti</i> schreit auf, <ls>Sarasvatīk.</ls> 1, 22. {part=,seq=11217,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कू",
+            "eid": "11157",
+            "pagenum": 196,
+            "content": "कू¦ r. 6th cl. (ङ) कूङ् (कुवते) To sound, especially as if in pain, to moan, to groan, &c. (ञ) कूञ r. 9th cl. (कुनाति-नीते) To sound &c. As before."
+        },
+        {
+            "word": "कू",
+            "eid": "11158",
+            "pagenum": 196,
+            "content": "कू¦ f. (-कूः) A female Pisacha or goblin. E. कू to sound, क्विप् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कू",
+            "eid": "8187",
+            "pagenum": 202,
+            "content": "<b>KŪ-</b>¦ <ab>v.</ab> <i>ā-kūta-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कू",
+            "eid": "11163",
+            "pagenum": 238,
+            "content": "कू¦ r. 6th cl. (ङ) कूङ (कुवते) To sound, especially as if in pain, to moan, to groan, &c. (ञ) कूञ् r. 9th cl. (कुनानि-नीते) To sound, &c. as before."
+        },
+        {
+            "word": "कू",
+            "eid": "11164",
+            "pagenum": 238,
+            "content": "कू¦ f. (-कूः) A female <i>Piśāca</i> or goblin. .E. कू to sound, क्विप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कू",
+            "eid": "10609",
+            "pagenum": 202,
+            "content": "कू¦ (श, ङ) कुवते 6. <i>d.</i> To sound; to moan. (ञ, ग) कुनाति, नीते 9. <i>c.</i> To be in pain, to groan."
+        },
+        {
+            "word": "कू",
+            "eid": "10610",
+            "pagenum": 202,
+            "content": "कू¦ (कूः) 3. <i>f.</i> A female goblin."
+        }
     ]
 }

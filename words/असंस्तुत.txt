@@ -55,5 +55,45 @@
             "pagenum": 1,
             "content": "असंस्तुत¦ <lex>Adj.</lex> <i>unbekannt, fremd</i> <ls>KIR. 3,21</ls>. <ls>KĀD. II,77,5</ls>. <ls>Verz. d. Oxf. H. 217,a,34</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असंस्तुत",
+            "eid": "6065",
+            "pagenum": 83,
+            "content": "<i>asaṃstuta</i>¦ Adj. unbekannt, fremd, auch <ls>Jātakam.</ls> p. 2, 19 = I, 9<sup>c</sup>. {part=,seq=6148,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "असंस्तुत",
+            "eid": "4441",
+            "pagenum": 76,
+            "content": "असंस्तुत¦ mfn. (-तः-ता-तं) 1. Unknown, unacquainted, not known as acquaintances. 2. Not friends. E. अ neg. संस्तुत known."
+        }
+    ],
+    "STC": [
+        {
+            "word": "असंस्तुत",
+            "eid": "4617",
+            "pagenum": 100,
+            "content": "<b>a-saṃstuta-</b>¦ <ab>a.</ab> qui n'a pas fait connaissance <lbinfo n='5'/> avec, étranger à ; étrange ; non en accord avec."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "असंस्तुत",
+            "eid": "4443",
+            "pagenum": 93,
+            "content": "असंस्तुत¦ mfn. (-तः-ता-तं) .²1 Unknown, unacquainted, not known as acquaintances. .²2 Not friends. .E. अ neg. संस्तुत known."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असंस्तुत",
+            "eid": "3821",
+            "pagenum": 72,
+            "content": "अ-संस्तुत¦ (तः-ता-तं) <i>a.</i> Unknown."
+        }
     ]
 }

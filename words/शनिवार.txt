@@ -31,5 +31,29 @@
             "pagenum": 7,
             "content": "शनिवार¦ (शनि + 4. वार) <lex>m.</lex> <i>Saturns Tag, Sonnabend</i> <ls>Journ. of the Am. Or. S. 6, 177.</ls> <ls>TITHYĀDIT.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "शनिवार",
+            "eid": "39462",
+            "pagenum": 706,
+            "content": "शनिवार¦ m. (-रः) Saturday. E. शनि the planet, and वार in this and similar compounds, a day."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शनिवार",
+            "eid": "37671",
+            "pagenum": 829,
+            "content": "शनिवार¦ m. (-रः) Saturday. .E. शनि the planet, and वार in this and similar compounds, a day."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शनिवार",
+            "eid": "37308",
+            "pagenum": 747,
+            "content": "शनि-वार¦ (रः) 1. <i>m.</i> Saturday."
+        }
     ]
 }

@@ -108,5 +108,45 @@
             "pagenum": 7,
             "content": "भागिनेय¦ IV. ein Jüngerer so angeredet <ls>DIVYĀVAD. 304,24</ls>. <ls n='DIVYĀVAD.'>500,7</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भागिनेय",
+            "eid": "20525",
+            "pagenum": 283,
+            "content": "<i>bhāgineya</i>¦ , ein Jüngerer so angeredet, <ls>Divyāvad.</ls> 304, 24; 500, 7. {part=,seq=20806,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भागिनेय",
+            "eid": "29282",
+            "pagenum": 528,
+            "content": "भागिनेय¦ m. (-यः) A sister's son. E. भगिनी a sister, ढक् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "भागिनेय",
+            "eid": "16143",
+            "pagenum": 528,
+            "content": "<b>bhāgineya-</b>¦ <i>-ka-</i> <ab>m.</ab> fils de la sœur ; appellation <lbinfo n='6'/> familière d'un plus jeune."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भागिनेय",
+            "eid": "28396",
+            "pagenum": 616,
+            "content": "भागिनेय¦ m. (-यः) A sister's son. .E. भगिनी a sister, ढक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भागिनेय",
+            "eid": "27910",
+            "pagenum": 553,
+            "content": "भागिनेय¦ (यः) 1. <i>m.</i> A sister's son."
+        }
     ]
 }

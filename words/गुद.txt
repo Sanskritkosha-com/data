@@ -140,5 +140,49 @@
             "pagenum": 5,
             "content": "गुद¦ <div n='1'> 1) Z. 2, das Wort kann auch <ls>VS. 23, 21</ls> die gangbare Bed. haben."
         }
+    ],
+    "SHS": [
+        {
+            "word": "गुद",
+            "eid": "13685",
+            "pagenum": 241,
+            "content": "गुद¦ r. 1st cl. (गोदति) To play."
+        },
+        {
+            "word": "गुद",
+            "eid": "13686",
+            "pagenum": 241,
+            "content": "गुद¦ n. (-दं) The anus. E. गुद् to play, affix क."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गुद",
+            "eid": "8813",
+            "pagenum": 231,
+            "content": "<b>guda-</b>¦ <ab>m.</ab> <ab>nt.</ab> anus."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गुद",
+            "eid": "13694",
+            "pagenum": 293,
+            "content": "गुद¦ r. 1st cl. (गोदति) To play."
+        },
+        {
+            "word": "गुद",
+            "eid": "13695",
+            "pagenum": 293,
+            "content": "गुद¦ n. (-दं) The anus. .E. गुद to play, affix क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गुद",
+            "eid": "13148",
+            "pagenum": 255,
+            "content": "गुद¦ (दं) 1. <i>n.</i> The anus."
+        }
     ]
 }

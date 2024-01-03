@@ -198,5 +198,51 @@
             "pagenum": 7,
             "content": "कुण्डल und °क¦ II. <i>Strick</i> <ls>JĀTAKAM. 5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुण्डल",
+            "eid": "10782",
+            "pagenum": 148,
+            "content": "<i>kuṇḍala</i>¦ und <i>°ka</i> Strick, <ls>Jātakam.</ls> 5. {part=,seq=10941,type=,n=1}"
+        },
+        {
+            "word": "कुण्डल",
+            "eid": "10782.1",
+            "pagenum": 148,
+            "content": "<i>kuṇḍala</i>¦ n. °eine Art Coitus, E 593 (D); °eine Art Schlag, E 513 (A, P). {part=,seq=10942,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुण्डल",
+            "eid": "10697",
+            "pagenum": 187,
+            "content": "कुण्डल¦ n. (-लं) 1. An earring. 2. A bracelet. 3. A fetter, a tie, a collar. f. (-ली) 1. Mountain ebony: see काञ्चन. 2. Guruchi, a plant, (Menispermum glabrum.) see गुडूची. 3. Cowach. E. कुडि to preserve, कलच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुण्डल",
+            "eid": "8083",
+            "pagenum": 197,
+            "content": "<b>kuṇḍala-</b>¦ <ab>m.</ab> <ab>nt.</ab> anneau, boucle d'oreilles, <lbinfo n='3'/> bracelet ; <ab>m.</ab> <ab>n.</ab> d'un Nāga ; <ab>pl.</ab> <ab>n.</ab> d'un peuple ; <i>-ī-</i> <ab>f.</ab> <ab>n.</ab> d'une rivière ; <i>-in-</i> <ab>a.</ab> portant des boucles d'oreilles.  <P><i>kuṇḍalī-kṛta-</i> <ab>a. v.</ab> formant un anneau, qui se meut en cercle ; <i>°bhūta-</i> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुण्डल",
+            "eid": "10703",
+            "pagenum": 228,
+            "content": "कुण्डल¦ n. (-लं) .²1 An earring. .²2 A bracelet. .²3 A fetter, a tie, a collar. f. (-ली) .²1 Mountain ebony: see काञ्चन. .²2 <i>Gurūci,</i> a plant, (<bot>Menispermum glabrum</bot>:) see गुडूची. .²3 Cowach. .E. कुडि to preserve, कलच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुण्डल",
+            "eid": "10147",
+            "pagenum": 193,
+            "content": "कुण्डल¦ (लं-ला) 1. <i>n.</i> An ear-ring, bracelet, fetter. <i>f.</i> Mountain ebony."
+        }
     ]
 }

@@ -75,5 +75,37 @@
             "pagenum": 7,
             "content": "अजीवनि¦ I. 5 (steht hier an falscher Stelle)."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अजीवनि",
+            "eid": "841",
+            "pagenum": 12,
+            "content": "<i>ajīvani</i>¦ <ls>Sarasvatīk.</ls> 1, 71. {part=,seq=862,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अजीवनि",
+            "eid": "581",
+            "pagenum": 11,
+            "content": "अजीवनि¦ f. (-निः) Non-existence; used as an imprecation. See अकरणि, अजीवनिस्तस्य भूयात्. E. अ neg. जीव and अनि aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अजीवनि",
+            "eid": "582",
+            "pagenum": 13,
+            "content": "अजीवनि¦ f. (-निः) Non-existence; used as an imprecation. See अकरणि, अजीवनिस्तस्य भूयात्. .E. अ neg. जीव and अनि aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अजीवनि",
+            "eid": "515",
+            "pagenum": 12,
+            "content": "अ-जीवनि¦ (निः) 2. <i>f.</i> Non-existence; curse, wishing one dead."
+        }
     ]
 }

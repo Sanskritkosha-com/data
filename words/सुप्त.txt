@@ -179,5 +179,51 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> सुप्त¦ <lex>Adj.</lex> <i>schöne Haarflechten habend</i> <ls>KĀD. 41,14 (74,4)</ls>. <ab>Vgl.</ab> <ls>PETERSON</ls> zu <ls>SUBHĀṢITĀV. 97</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सुप्त",
+            "eid": "26720",
+            "pagenum": 366,
+            "content": "2. <i>supta</i>¦ Adj. schöne Haarflechten habend, <ls>Kād.</ls> 41, 14 (74, 4). Vgl. Peterson zu <ls>Subhāṣitāv.</ls> 97. {part=,seq=27078,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सुप्त",
+            "eid": "44443",
+            "pagenum": 793,
+            "content": "सुप्त¦ mfn. (-प्तः-प्ता-प्त) 1. Sleeping, asleep. 2. Senseless, numbed. n. (-प्तं) Sleep, deep or sound sleep. E. ष्वप् to sleep, क्त aff., and the semivowel changed to its congener."
+        }
+    ],
+    "STC": [
+        {
+            "word": "सुप्त",
+            "eid": "23372",
+            "pagenum": 847,
+            "content": "<b>1 supta-</b>¦ (<b>SVAP-</b>) <ab>a. v.</ab> endormi, qui dort ; qui va dormir ; qui gît ; clos (fleur) ; immobile, <lbinfo n='4'/> latent ; <ab>nt.</ab> sommeil ; <i>-ka-</i> <ab>nt.</ab> <ab>id.</ab>  <P><i>°ghna-</i> <ab>m.</ab> <ab>n.</ab> d'un Rākṣasa.  <P><i>°cyuta-</i> <ab>a. v.</ab> tombé dans le sommeil.  <P><i>°jana-</i> dans <i>-e rātrau</i> locution <ab>adv.</ab> ; à minuit.  <P><i>°pūrva-</i> <ab>a.</ab> qui avait déjà dormi.  <P><i>°prabuddha-</i> <ab>a. v.</ab> éveillé du sommeil.  <P><i>°mīna-</i> <ab>a.</ab> (étang) où les poissons dorment.  <P><i>°vākya-</i> <ab>nt.</ab> mots prononcés durant le sommeil.  <P><i>°vinidraka-</i> <ab>a.</ab> qui s'éveille du sommeil.  <P><i>°stha-</i> <ab>a.</ab> <i>-ita-</i> <ab>a. v.</ab> en état de sommeil.  <P><i>suptāsupta-</i> <ab>a. v.</ab> endormi et éveillé.  <P><i>suptotthita-</i> <ab>a. v.</ab> sorti du sommeil."
+        },
+        {
+            "word": "सुप्त",
+            "eid": "23373",
+            "pagenum": 847,
+            "content": "<b>2 su-pta-</b>¦ <ab>a.</ab> aux belles tresses."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सुप्त",
+            "eid": "42221",
+            "pagenum": 932,
+            "content": "सुप्त¦ mfn. (-प्तः-प्ता-प्तं) .²1 Sleeping, asleep. .²2 Senseless, numbed. n. (-प्तं) Sleep, deep or sound sleep. .E. ष्वप to sleep, क्त aff., and the semivowel changed to its congener."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सुप्त",
+            "eid": "41987",
+            "pagenum": 854,
+            "content": "सुप्त¦ (प्तं) 1. <i>n.</i> Sleep, deep sleep. <i>a.</i> Sleeping, benumbed."
+        }
     ]
 }

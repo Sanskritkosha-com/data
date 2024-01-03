@@ -52,5 +52,21 @@
             "pagenum": 6,
             "content": "शिरा <lex>f.</lex> und शिराल <lex>Adj.</lex>¦ = सिरा und सिराल."
         }
+    ],
+    "SCH": [
+        {
+            "word": "शिरा",
+            "eid": "25044",
+            "pagenum": 344,
+            "content": "<i>śirā</i>¦ °Nase, <ls>S</ls> I, 49, 3 [Ko.: <i>nasā</i>]. {part=,seq=25385,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शिरा",
+            "eid": "20319",
+            "pagenum": 729,
+            "content": "<b>śirā-</b>¦ <ab>f.</ab> <ab>v.</ab> <i>sirā-.</i>"
+        }
     ]
 }

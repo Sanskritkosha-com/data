@@ -45,5 +45,37 @@
             "pagenum": 5,
             "content": "अभिनेय¦ <ls>Verz. d. Oxf. H. 208,a,43.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभिनेय",
+            "eid": "27885",
+            "pagenum": 384,
+            "content": "<i>abhineya</i>¦ °Gebärdenspiel, <ls>Kir.</ls> X, 41. {part=N,seq=28256,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभिनेय",
+            "eid": "2539",
+            "pagenum": 45,
+            "content": "अभिनेय¦ mfn. (-यः-या-यं) To be represented dramatically. E. अभि before नी to guide, यत् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभिनेय",
+            "eid": "2959",
+            "pagenum": 63,
+            "content": "<b>abhi-neya-</b>¦ <ab>nt.</ab> pantomime, chose propre à la représentation."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभिनेय",
+            "eid": "2541",
+            "pagenum": 54,
+            "content": "अभिनेय¦ mfn. (-यः-या-यं) To be represented dramatically. .E. अभि before नी to guide, यत् aff."
+        }
     ]
 }

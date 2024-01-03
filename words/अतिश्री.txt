@@ -39,5 +39,21 @@
             "pagenum": 7,
             "content": "अतिश्री¦ <lex>f.</lex> <i>grosse Pracht</i> <ls>R. ed. Bomb. 4,1,45</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतिश्री",
+            "eid": "1330",
+            "pagenum": 18,
+            "content": "<i>atiśrī</i>¦ f. große Pracht, <ls>R. ed. Bomb.</ls> 4, 1, 45. {part=,seq=1355,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतिश्री",
+            "eid": "692",
+            "pagenum": 16,
+            "content": "<b>ati-śrī-</b>¦ <ab>f.</ab> grand éclat."
+        }
     ]
 }

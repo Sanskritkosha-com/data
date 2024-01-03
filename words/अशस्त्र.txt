@@ -75,5 +75,21 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> *अशस्त्र¦ <lex>n.</lex> <ab>Instr.</ab> <i>ohne Anwendung von Waffen</i> <ls>MAHĀVY. 182</ls>."
         }
+    ],
+    "STC": [
+        {
+            "word": "अशस्त्र",
+            "eid": "4501",
+            "pagenum": 97,
+            "content": "<b>a-śastra-</b>¦ <ab>a.</ab> non armé.  <P><i>°pāṇi-</i> <ab>a.</ab> qui n'a pas d'épée en mains.  <P><i>°pūta-</i> <ab>a.</ab> non sanctifié par le glaive.  <P><i>°vadha-</i> <ab>m.</ab> mort non provoquée par les armes ; <i>°vadhyatā-</i> <ab>f.</ab> fait de mourir sans intervention <lbinfo n='7'/> d'une arme."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अशस्त्र",
+            "eid": "3597",
+            "pagenum": 68,
+            "content": "अ-शस्त्र¦ (स्त्रः-स्त्रा-स्त्रं) <i>a.</i> Defenceless."
+        }
     ]
 }

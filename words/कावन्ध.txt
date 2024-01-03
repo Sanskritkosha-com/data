@@ -23,5 +23,21 @@
             "pagenum": 2,
             "content": "कावन्ध¦ <lex>Adj.</lex> (<lex>f.</lex> ई) <i>rumpfartig</i> <ls>ŚIŚ. 19,51</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कावन्ध",
+            "eid": "10551",
+            "pagenum": 145,
+            "content": "<i>kāvandha</i>¦ Adj. kopflos, auch <ls>H</ls> 43, 296. {part=,seq=10707,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कावन्ध",
+            "eid": "7960",
+            "pagenum": 192,
+            "content": "<b>kāvandha-</b>¦ <ab>a.</ab> qui a l'apparence d'un tronc (sans tête), <ab>cf.</ab> <i>kabandha-.</i>"
+        }
     ]
 }

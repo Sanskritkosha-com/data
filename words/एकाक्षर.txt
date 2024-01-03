@@ -115,5 +115,43 @@
             "pagenum": 7,
             "content": "एकाक्षर¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "एकाक्षर",
+            "eid": "9189",
+            "pagenum": 126,
+            "content": "<i>ekākṣara</i>¦ 3. a) <i>°nighaṇṭu</i> m. und <i>°ratnamālā</i> f. Titel zweier Werke, <ls>Opp. Cat.</ls> 1. {part=,seq=9310,type=,n=1}"
+        },
+        {
+            "word": "एकाक्षर",
+            "eid": "9189.1",
+            "pagenum": 126,
+            "content": "<i>ekākṣara</i>¦ °m. Bez. einer Strophenform, <ls>H</ls> 48, 126. {part=,seq=9311,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "एकाक्षर",
+            "eid": "8175",
+            "pagenum": 141,
+            "content": "एकाक्षर¦ n. (-रं) A monosyllable, especially the sacred monosyllable Om. E. एक and अक्षर a letter."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकाक्षर",
+            "eid": "8179",
+            "pagenum": 172,
+            "content": "एकाक्षर¦ n. (-रं) A monosyllable, especially the sacred monosyllable <i>Om.</i> .E. एक and अक्षर a letter."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकाक्षर",
+            "eid": "7599",
+            "pagenum": 142,
+            "content": "एका_क्षर¦ (रं) 1. <i>n.</i> Monosyllable, <i>Om.</i>"
+        }
     ]
 }

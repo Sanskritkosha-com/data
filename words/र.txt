@@ -153,5 +153,69 @@
             "pagenum": 7,
             "content": "र¦ V. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "र",
+            "eid": "22309",
+            "pagenum": 308,
+            "content": "<i>ra</i>¦ *m. Feuer? <ls>H</ls> XLIII, 120. {part=,seq=22616,type=,n=1}"
+        },
+        {
+            "word": "र",
+            "eid": "22309.1",
+            "pagenum": 308,
+            "content": "<i>ra</i>¦ 1. auch: verleihend, bewirkend, <ls>Śiś.</ls> 19, 3. 23. {part=,seq=22617,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "र",
+            "eid": "32898",
+            "pagenum": 592,
+            "content": "र¦ The twenty-seventh consonant of the Nāgari Alphabet, corresponding to the letter R."
+        },
+        {
+            "word": "र",
+            "eid": "32899",
+            "pagenum": 592,
+            "content": "र¦ m. (-रः) 1. Fire or Agni. 2. Heat, warmth. 3. Burning, scorching. 4. Love, desire. 5. Speed. f. (-रा) 1. Giving. 2. Gold. f. (-री) Going, moving. E. रा to give, or रम् to play, &c., aff. ड ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "र",
+            "eid": "17249",
+            "pagenum": 595,
+            "content": "<b>ra-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui donne."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "र",
+            "eid": "31633",
+            "pagenum": 690,
+            "content": "र¦ The twenty-seventh consonant of the <i>Nāgarī</i> Alphabet, corresponding to the letter <i>R.</i>"
+        },
+        {
+            "word": "र",
+            "eid": "31634",
+            "pagenum": 690,
+            "content": "र¦ m. (रः) .²1 Fire or <i>Agni.</i> .²2 Heat, warmth. .²3 Burning, scorching. .²4 Love, desire. .²5 Speed. f. (-रा) .²1 Giving. .²2 Gold. f. (री) Going, moving. .E. रा to give, रम to play, &c., aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "र",
+            "eid": "31201",
+            "pagenum": 617,
+            "content": "र¦ <i>r.</i> The 27th letter of the alphabet, and second of the liquids."
+        },
+        {
+            "word": "र",
+            "eid": "31202",
+            "pagenum": 617,
+            "content": "र¦ (रः) 1. <i>m.</i> Fire, heat; love; speed. <i>f.</i> (रा) Giving; gold. री Going."
+        }
     ]
 }

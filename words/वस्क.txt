@@ -69,5 +69,35 @@
             "pagenum": 6,
             "content": "वस्क¦ <lex>m.</lex> = अध्यवसाय <ls>BHŪRIPR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वस्क",
+            "eid": "35573",
+            "pagenum": 638,
+            "content": "वस्क¦ m. (-स्कः) 1. Application, perseverance. 2. Going, motion. E. वस्क् to go, aff. अच् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वस्क",
+            "eid": "34028",
+            "pagenum": 744,
+            "content": "वस्क¦ r. 1st cl. (वस्कते) To go."
+        },
+        {
+            "word": "वस्क",
+            "eid": "34029",
+            "pagenum": 744,
+            "content": "वस्क¦ m. (-स्कः) .²1 Application, perseverance. .²2 Going, motion. .E. वस्क to go, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वस्क",
+            "eid": "33617",
+            "pagenum": 666,
+            "content": "वस्क¦ (स्कः) 1. <i>m.</i> Application; perseverance; motion."
+        }
     ]
 }

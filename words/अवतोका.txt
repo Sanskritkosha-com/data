@@ -60,5 +60,37 @@
             "pagenum": 1,
             "content": "अ/वतोका¦ <lex>Adj.</lex> <lex>f.</lex> <i>die eine Fehlgeburt gemacht hat</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवतोका",
+            "eid": "5261",
+            "pagenum": 71,
+            "content": "<i>avatokā</i>¦ °eine Kuh mit verkrüppelten Hörnern, <ls>S</ls> II, 186, 2 <i>[viṣāṇavikalā]</i>. {part=,seq=5333,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवतोका",
+            "eid": "3706",
+            "pagenum": 64,
+            "content": "अवतोका¦ f. (-का) A cow miscarrying from accident. E. अव, implying censure, and तोक offspring."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवतोका",
+            "eid": "3708",
+            "pagenum": 78,
+            "content": "अवतोका¦ f. (-का) A cow miscarrying from accident. .E. अव, implying censure, and तोक offspring."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवतोका",
+            "eid": "3144",
+            "pagenum": 60,
+            "content": "अव-तोका¦ (का) 2. <i>f.</i> A cow miscarrying from accident."
+        }
     ]
 }

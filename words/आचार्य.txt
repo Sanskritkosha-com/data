@@ -182,5 +182,21 @@
             "pagenum": 7,
             "content": "आचार्य¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आचार्य",
+            "eid": "6705",
+            "pagenum": 91,
+            "content": "<i>ācārya</i>¦ 1. c) der Sohn eines ausgestoßenen Vaiśya, <ls>M.</ls> 10, 23 (nach Govindarāja und Nārāyaṇa) und Devala (nach Govind.). Nach Bühler. {part=,seq=6795,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आचार्य",
+            "eid": "5051",
+            "pagenum": 110,
+            "content": "<b>ā-cārya-</b>¦ <ab>m.</ab> maître ; <ab>not.</ab> précepteur spirituel <lbinfo n='6'/> ; Droṇa ; <i>-āṇī-</i> <ab>f.</ab> ; <i>-tā-</i> <ab>f.</ab> fonction de maître ; <i>-vant-</i> <ab>a.</ab> qui a un maître.  <P><i>°deva-</i> <ab>a.</ab> qui adore son maître.  <P><i>°pāda-</i> <ab>m.</ab> <ab>pl.</ab> = <i>ācārya-</i> (désignation respectueuse). <lbinfo n='9'/>  <P><i>°putra-</i> <ab>m.</ab> Aśvatthāman."
+        }
     ]
 }

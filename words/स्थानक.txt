@@ -156,5 +156,51 @@
             "pagenum": 7,
             "content": "स्थानक¦ VII. 2〉a〉 <ls>DAMAYANTĪK. 200</ls>. [Page7-384-a] — 2〉f〉 <ls>DHARMAŚARM. 18,21</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "स्थानक",
+            "eid": "27120",
+            "pagenum": 372,
+            "content": "<i>sthānaka</i>¦ n. °Sack (<i>goṇī</i>), <ls>Prabandh.</ls> 172, 1 v.u.; 173, 2. {part=,seq=27482,type=,n=1}"
+        },
+        {
+            "word": "स्थानक",
+            "eid": "27120.1",
+            "pagenum": 372,
+            "content": "<i>sthānaka</i>¦ °m., <ls>S</ls> I, 48, 1 v.u. (Ko.) als Erklärung zu <i>pañcāṅgula</i> (s. d.) — 2. n. a), <ls>Damayantīk.</ls> 200. — 2. f), <ls>Dharmaśarm.</ls> 18, 21. [<ls>S</ls> 1, 4, 13 Ko.] {part=,seq=27483,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "स्थानक",
+            "eid": "45559",
+            "pagenum": 811,
+            "content": "स्थानक¦ n. (-कं) 1. A basin or trench dug for water at the root of a tree. 2. A town, a city. 3. A bubble or a bead on spirits or wine 4. Position, situation. 5. A particular point or situation in dramatic action. 6. A mode of recitation. 7. A division or section of the Taittirīya branch of the Yayur-Veda. E. कन् added to the last."
+        }
+    ],
+    "STC": [
+        {
+            "word": "स्थानक",
+            "eid": "24048",
+            "pagenum": 869,
+            "content": "<b>sthānaka-</b>¦ <ab>nt.</ab> position, rang ; emplacement, <lbinfo n='4'/> lieu ; posture, attitude ; <ab>n.</ab> d'un moment du drame ; <i>-īya-</i> <ab>a.</ab> <ab>ifc.</ab> qui représente, qui tient lieu de."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "स्थानक",
+            "eid": "43121",
+            "pagenum": 952,
+            "content": "स्थानक¦ n. (-कं) .²1 A basin or trench dug for water at the root of a tree. .²2 A town, a city. .²3 A bubble or a bead on spirits or wine. .E. कन added to the last."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "स्थानक",
+            "eid": "42920",
+            "pagenum": 875,
+            "content": "स्थानक¦ (कं) 1. <i>n.</i> Bason of water at the root of a tree; a town; a bubble on spirits of wine."
+        }
     ]
 }

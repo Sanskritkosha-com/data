@@ -113,5 +113,51 @@
             "pagenum": 4,
             "content": "निरास¦ (von 2. अस् mit निस्) <lex>m.</lex> <div n='1'> 1) <i>das Auswerfen, Fallenlassen</i> (eines Lautes) <ls>ṚV. PRĀT. 14, 4.</ls> <ls n='ṚV. PRĀT. 14,'>7.</ls> <i>das Ausbrechen, Vomiren</i>: °गुटिका <i>Brechpille</i> <ls>Verz. d. B. H. No. 963.</ls> निराशगुटिका <ls n='Verz. d. B. H.'>991.</ls> nach <ls>WEBER</ls> <i>stimulans.</i> <div n='1'>— 2) <i>Hinausweisung, Ausschliessung, Zurückweisung, Verwerfung</i> <ls>KULL.</ls> zu <ls>M. 3, 53. 177. 8, 37. 9, 132. 161.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 46.</ls> <ls>Schol.</ls> zu <ls>P. 3, 3, 20.</ls> <ls n='P.'>5, 1, 112.</ls> <ls n='P.'>6, 2, 80.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4, 3, 68.</ls> — निरासैः <lex>adj.</lex> <ls>MBH. 12, 9646</ls> wohl fehlerhaft für निराशैः"
         }
+    ],
+    "SCH": [
+        {
+            "word": "निरास",
+            "eid": "16863",
+            "pagenum": 233,
+            "content": "<i>nirāsa</i>¦ m. ° = <i>saṃkoca</i>, <ls>Śrīk.</ls> XVIII, 22. {part=,seq=17115,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "निरास",
+            "eid": "21897",
+            "pagenum": 394,
+            "content": "निरास¦ m. (-सः) 1. Opposing. rejecting. 2. Dispension. 3. Ejecting. expelling. 4. Removal. 5. Abandonment. 6. Vomitting. E. निर् out, and अस to be, भावे घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "निरास",
+            "eid": "11883",
+            "pagenum": 370,
+            "content": "<b>1 nir-āsa-</b>¦ <ab>m.</ab> rejet, renvoi, expulsion, réfutation, <lbinfo n='6'/> refus, objection ; vomissement."
+        },
+        {
+            "word": "निरास",
+            "eid": "11884",
+            "pagenum": 370,
+            "content": "<b>2 nir-āsa-</b>¦ <ab>a.</ab> qui n'a pas de siège, sans refuge."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निरास",
+            "eid": "21911",
+            "pagenum": 472,
+            "content": "निरास¦ m. (-सः) .²1 Opposing, rejecting. .²2 Dispension. .²3 Ejecting, expelling. .²4 Removal. .²5 Abandonment. .E. निर् out, and आस throwing."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निरास",
+            "eid": "21388",
+            "pagenum": 421,
+            "content": "निरा_स¦ (सः) 1. <i>m.</i> Expelling; opposing; abandoning."
+        }
     ]
 }

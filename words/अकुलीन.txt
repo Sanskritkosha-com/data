@@ -69,5 +69,37 @@
             "pagenum": 7,
             "content": "अकुलीन¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकुलीन",
+            "eid": "133",
+            "pagenum": 3,
+            "content": "<i>akulīna</i>¦ , lies = <i>akula</i>. {part=,seq=139,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अकुलीन",
+            "eid": "90",
+            "pagenum": 2,
+            "content": "अकुलीन¦ mfn. (-नः-ना-नं) Low, mean, of low origin or race. E. अ neg. कुलीन of family."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अकुलीन",
+            "eid": "91",
+            "pagenum": 3,
+            "content": "अकुलीन¦ mfn. (-नः-ना-नं) Low, mean, of low origin or race. .E. अ neg. कुलीन of family."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकुलीन",
+            "eid": "71",
+            "pagenum": 2,
+            "content": "अ-कुलीन¦ (नः-ना-नं) <i>a. Idem.</i>"
+        }
     ]
 }

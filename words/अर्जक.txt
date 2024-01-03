@@ -111,5 +111,45 @@
             "pagenum": 7,
             "content": "अर्जक¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अर्जक",
+            "eid": "4863",
+            "pagenum": 66,
+            "content": "<i>arjaka</i>¦ 2. <ls>Suśr.</ls> 2, 461, 3, wo <i>sahārjakam</i> zu lesen ist. {part=,seq=4928,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अर्जक",
+            "eid": "3275",
+            "pagenum": 57,
+            "content": "अर्जक¦ mfn. (-कः-का-कं) An acquirer, one who gains or acquires. m. (-कः) Basil, the white sort, (Ocymum villosum.) E. अर्ज to gain, and वुन् aff."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "अर्जक",
+            "eid": "13",
+            "pagenum": 526,
+            "content": "<i>arjaka</i>¦ <div n='P'/>(1) <bot>OCIMUM GRATISSIMUM LINN.</bot> (MW; PW; V 1, p. 78); <div n='P'/>(2) <bot>O. BASILICUM LINN.</bot> (Avk; Bpn, p. 511-512); <div n='P'/>(3) <bot>O. SANCTUM LINN.</bot> (KB 3, p. 1965-1968) = <bot>O. VILLOSUM ROXB.</bot> (Roxb., p. 462); <div n='P'/>(4) <bot>O. CANUM SIMS</bot> (Chopra; KB 3, p. 1960-1961, = <i>kṣudratulasī</i>) = <bot>O. AMERICANUM LINN.</bot> (Chopra); <div n='P'/>(5) <bot>ORTHOSIPHON GRANDIFLORUS BOLDINGH EX HEYNE</bot> (Bpn, p. 511-512)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अर्जक",
+            "eid": "3277",
+            "pagenum": 69,
+            "content": "अर्जक¦ mfn. (-कः-का-कं) An acquirer, one who gains or acquires. m. (-कः) Basil, the white sort, (<bot>Ocymum villosum</bot>.) .E. अर्ज to gain, and वुन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अर्जक",
+            "eid": "2730",
+            "pagenum": 54,
+            "content": "अर्जक¦ (कः) 1. <i>m.</i> Basil; an acquirer."
+        }
     ]
 }

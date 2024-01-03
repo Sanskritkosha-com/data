@@ -97,5 +97,45 @@
             "pagenum": 7,
             "content": "अ/नायत¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनायत",
+            "eid": "2386",
+            "pagenum": 32,
+            "content": "<i>ánāyata</i>¦ auch: nicht lang, kurz, <ls>Kathās.</ls> 34, 199. {part=,seq=2421,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनायत",
+            "eid": "1326",
+            "pagenum": 24,
+            "content": "अनायत¦ mfn. (-तः-ता-तं) 1. Unchecked, unrestrained. 2. Close, continuous, unseparated. 3. Unextended, having no length. E. अन् neg. आयत restrained."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनायत",
+            "eid": "1377",
+            "pagenum": 30,
+            "content": "<b>an-āyata-</b>¦ <ab>a.</ab> court (de durée)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनायत",
+            "eid": "1328",
+            "pagenum": 29,
+            "content": "अनायत¦ mfn. (-तः-ता-तं) .²1 Unchecked, unrestrained. .²2 Close, continuous, unseparated. .²3 Unextended, having no length. .E. अन् neg. आयत restrained."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनायत",
+            "eid": "1120",
+            "pagenum": 23,
+            "content": "अना_यत¦ (तः-ता-तं) <i>a.</i> Unrestrained."
+        }
     ]
 }

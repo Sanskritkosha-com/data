@@ -99,5 +99,29 @@
             "pagenum": 7,
             "content": "अ/नाविद्ध¦ I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनाविद्ध",
+            "eid": "2418",
+            "pagenum": 33,
+            "content": "<i>ánāviddha</i>¦ auch: nicht in Unruhe versetzt, nicht aufgeregt, <ls>Bhāg. P.</ls> 1, 2, 19; 7, 15, 35. {part=,seq=2453,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनाविद्ध",
+            "eid": "1400",
+            "pagenum": 31,
+            "content": "<b>an-āviddha-</b>¦ <ab>a. v.</ab> non agité ; non transpercé. <lbinfo n='5'/>"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनाविद्ध",
+            "eid": "44529",
+            "pagenum": 911,
+            "content": "अना_विद्ध¦ (द्धः-द्धा-द्धं) <i>a.</i> Unmoved by."
+        }
     ]
 }

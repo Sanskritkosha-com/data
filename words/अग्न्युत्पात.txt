@@ -59,5 +59,37 @@
             "pagenum": 1,
             "content": "अग्न्युत्पात¦ <i>Feuersbrunst</i> <ls>PĀR. GṚHY. 2,11,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अग्न्युत्पात",
+            "eid": "485",
+            "pagenum": 7,
+            "content": "<i>agnyutpāta</i>¦ Feuersbrunst, <ls>Pār. Gṛhy.</ls> 2, 11, 2. {part=,seq=500,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अग्न्युत्पात",
+            "eid": "323",
+            "pagenum": 6,
+            "content": "अग्न्युत्पात¦ m. (-तः) A fiery meteor, a falling star, a comet. E. अग्नि and उत्पात portent."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अग्न्युत्पात",
+            "eid": "324",
+            "pagenum": 7,
+            "content": "अग्न्युत्पात¦ m. (-तः) A fiery meteor, a falling star, a comet. .E. अग्नि and उत्पात् portent."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अग्न्युत्पात",
+            "eid": "268",
+            "pagenum": 6,
+            "content": "अग्न्यु_त्पात¦ (तः) 1. <i>m.</i> A fiery meteor."
+        }
     ]
 }

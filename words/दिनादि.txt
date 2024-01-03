@@ -45,5 +45,37 @@
             "pagenum": 7,
             "content": "दिनादि und दिवाकीर्ति¦ III. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दिनादि",
+            "eid": "15370",
+            "pagenum": 212,
+            "content": "<i>dinādi</i>¦ <ls>Śiś.</ls> 11, 52. {part=,seq=15610,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दिनादि",
+            "eid": "18960",
+            "pagenum": 340,
+            "content": "दिनादि¦ m. (-दिः) Dawn, day-break. E. दिन, and आदि commencement."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दिनादि",
+            "eid": "18975",
+            "pagenum": 408,
+            "content": "दिनादि¦ m. (-दिः) Dawn, day-break. .E. दिन, and आदि commencement."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दिनादि",
+            "eid": "18447",
+            "pagenum": 363,
+            "content": "दिना_दि¦ (दिः) 2. <i>m.</i> Dawn."
+        }
     ]
 }

@@ -60,5 +60,37 @@
             "pagenum": 7,
             "content": "*कैराटक¦ <lex>m.</lex> <lex>f.</lex> <i>ein <ab>best.</ab> vegetabilisches Gift</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कैराटक",
+            "eid": "11355",
+            "pagenum": 156,
+            "content": "*<i>kairāṭaka</i>¦ m. f. ein best. vegetabilisches Gift. {part=,seq=11528,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कैराटक",
+            "eid": "11678",
+            "pagenum": 205,
+            "content": "कैराटक¦ m. (-कः) A species ef poison, one of the fixed kinds."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कैराटक",
+            "eid": "11685",
+            "pagenum": 250,
+            "content": "कैराटक¦ m. (-कः) A species of poison, one of the fixed kinds."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कैराटक",
+            "eid": "11133",
+            "pagenum": 214,
+            "content": "कैराटक¦ (कः) 1. <i>m.</i> A poison."
+        }
     ]
 }

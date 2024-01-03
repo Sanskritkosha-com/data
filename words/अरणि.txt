@@ -210,5 +210,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अर/णि¦ I. 2. 3. <i>Mutter</i> auch <ls>MBH. 1,134,35</ls>. <i>Mutterleib</i> <ls n='MBH. 1,'>135,17</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अरणि",
+            "eid": "4715",
+            "pagenum": 64,
+            "content": "1. <i>aráṇi</i>¦ 1. lies (*m.). Bildlich so v.a. Mutter, <ls>Hariv. 7022</ls> nach <ls>Nīlak.</ls> — 1. Mutter. <ls>MBh.</ls> 1, 134, 35; in <i>surā</i><i>raṇi</i> <ls>VP.</ls> 5, 30, 24. <i>Pāṇḍavāraṇi</i> <ls>VP.</ls><sup>2</sup> 5, 90. — Mutterleib, <ls>MBh.</ls> 1, 135, 17. {part=,seq=4776,type=,n=1}"
+        },
+        {
+            "word": "अरणि",
+            "eid": "4715.1",
+            "pagenum": 64,
+            "content": "<i>araṇi</i>¦ Adj. °lieblos, <ls>Vaij.</ls> 86, 50. {part=,seq=4777,type=,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अरणि",
+            "eid": "3116",
+            "pagenum": 54,
+            "content": "अरणि¦ mf. (-णिः-णी) Wood used for kindling a fire, exciting it by attrition. m. (-णिः) 1. The plant of which especially the wood is used for this purpose. (Premna spinosa, &c.) See गणिकारिका. 2. A flint. 3. The sun. E. ऋ to go, and अनि Unadi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अरणि",
+            "eid": "3699",
+            "pagenum": 78,
+            "content": "<b>araṇi-</b>¦ <ab>f.</ab> bois servant à provoquer le feu par frottement (<i>-ī-</i> <ab>id.</ab>) ; mère ; ventre de la mère."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अरणि",
+            "eid": "3118",
+            "pagenum": 66,
+            "content": "अरणि¦ mfn. (-णिः-णी) Wood used for kindling a fire, exciting it by attrition. m. (-णिः) .²1 The plant of which especially the wood is used for this purpose, (<bot>Premna spinosa</bot>, &c). See गणिकारिका. .²2 A flint. .²3 The sun. .E. ऋ to go, and अनि Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अरणि",
+            "eid": "2590",
+            "pagenum": 51,
+            "content": "अर-णि¦ (णिः-णी) 2. <i>m.</i> 3. <i>f.</i> Wood used for kindling a fire."
+        }
     ]
 }

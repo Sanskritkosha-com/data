@@ -39,5 +39,37 @@
             "pagenum": 2,
             "content": "कुपाणि¦ (1. कु + पाणि) <lex>adj.</lex> <i>eine lahme Hand habend</i> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुपाणि",
+            "eid": "10834",
+            "pagenum": 149,
+            "content": "*<i>kupāṇi</i>¦ Adj. an der Hand gelähmt, V 154. {part=,seq=10995,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुपाणि",
+            "eid": "10769",
+            "pagenum": 189,
+            "content": "कुपाणि¦ mfn. (-णिः-णिः-णि) Crooked-handed, having a deformed or maimed hand. E. कु bad and पाणि, the hand."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुपाणि",
+            "eid": "10775",
+            "pagenum": 229,
+            "content": "कुपाणि¦ mfn. (-णिः-णिः-णि) Crooked-handed, having a deformed or maimed hand. .E. कु bad, and पाणि the hand."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुपाणि",
+            "eid": "10220",
+            "pagenum": 194,
+            "content": "कु-पाणि¦ (णिः-णीः-णि) <i>a.</i> Crookedhanded, maimed."
+        }
     ]
 }

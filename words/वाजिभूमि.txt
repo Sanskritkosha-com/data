@@ -23,5 +23,37 @@
             "pagenum": 7,
             "content": "वाजिभूमि¦ <lex>f.</lex> <i>Gestüte</i> <ls>KIR. 13,55</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वाजिभूमि",
+            "eid": "23439",
+            "pagenum": 324,
+            "content": "<i>vājibhūmi</i>¦ f. Gestüt, <ls>Kir.</ls> 13, 55. {part=,seq=23766,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वाजिभूमि",
+            "eid": "35773",
+            "pagenum": 641,
+            "content": "वाजिभूमि¦ f. (-मिः) Place where horses are bred. E. वाजिन्, भूमि place."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वाजिभूमि",
+            "eid": "34218",
+            "pagenum": 748,
+            "content": "वाजिभूमि¦ f. (-मिः) Place where horses are bred. .E. वाजिन्, and भूमि place."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वाजिभूमि",
+            "eid": "33809",
+            "pagenum": 670,
+            "content": "वाजि-भूमि¦ (मिः) 2. <i>f.</i> Place for horses."
+        }
     ]
 }

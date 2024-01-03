@@ -31,5 +31,29 @@
             "pagenum": 5,
             "content": "मदगमन¦ (मद + ग°) <lex>m.</lex> <i>Büffel</i> <ls>RĀJAN.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मदगमन",
+            "eid": "30220",
+            "pagenum": 545,
+            "content": "मदगमन¦ m. (-नः) A buffalo. E. मद pleasure, and गमन going."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मदगमन",
+            "eid": "29260",
+            "pagenum": 636,
+            "content": "मदगमन¦ m. (-नः) A buffalo. .E. मद pleasure, and गमन going."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मदगमन",
+            "eid": "28772",
+            "pagenum": 570,
+            "content": "मद-गमन¦ (नः) 1. <i>m.</i> A buffalo."
+        }
     ]
 }

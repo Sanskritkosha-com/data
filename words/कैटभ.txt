@@ -156,5 +156,51 @@
             "pagenum": 7,
             "content": "कैटभ¦ II. <lex>n.</lex> <i>eine <ab>best.</ab> Wissenschaft</i> <ls>DIVYĀVAD. 619,22</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कैटभ",
+            "eid": "11338",
+            "pagenum": 156,
+            "content": "<i>kaiṭabha</i>¦ n. eine best. Wissenschaft, <ls>Divyāvad.</ls> 619, 22. {part=,seq=11511,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कैटभ",
+            "eid": "11665",
+            "pagenum": 205,
+            "content": "कैटभ¦ m. (-भः) A demon slain by VISHṆU. f. (-भा) A name of DURGA. E. कैटभ a demon in whose death the goddess was instrumental, by having at the prayers of BRAHMA roused VISHNU from his slumbers, during which two demons, Kaitabha and Madhu, were about to demolish BRAHMA; also कैटभी."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कैटभ",
+            "eid": "8280",
+            "pagenum": 208,
+            "content": "<b>kaiṭabha-</b>¦ <ab>m.</ab> <ab>n.</ab> d'un Asura tué par Viṣṇu.  <P><i>°jit-</i> <i>°dviṣ- kaiṭabhāri- kaiṭabhārdana-</i> <ab>m.</ab> <ab>ép.</ab> de Viṣṇu."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कैटभ",
+            "eid": "11672",
+            "pagenum": 249,
+            "content": "कैटभ¦ m. (-भः) A demon slain by VIṢṆU. f. (-भा) A name of DURGĀ. .E. कैटभ a demon in whose death the goddess was instrumental, by having at the prayers of BRAHMĀ roused VIṢṆU from his slumbers, during which two demons, <i>Kaitabha</i> and <i>Madhu,</i> were about to demolish BRAHMĀ; also कैटभी."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कैटभ",
+            "eid": "11119",
+            "pagenum": 213,
+            "content": "कैटभ¦ (भः) 1. <i>m.</i> A demon slain by <i>Vishnu. f.</i> (या) <i>Durgā.</i>"
+        },
+        {
+            "word": "कैटभ",
+            "eid": "11121",
+            "pagenum": 214,
+            "content": "कैटभ¦ (भा) 1. <i>f.</i> A name of <i>Durgā.</i>"
+        }
     ]
 }

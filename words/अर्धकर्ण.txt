@@ -43,5 +43,19 @@
             "pagenum": 7,
             "content": "अर्धकर्ण¦ I. 1. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अर्धकर्ण",
+            "eid": "4936",
+            "pagenum": 67,
+            "content": "<i>ardhakarṇa</i>¦ Adj. vielleicht: halb hörend (im Schlafe). {part=,seq=5002,type=,n=1}"
+        },
+        {
+            "word": "अर्धकर्ण",
+            "eid": "4936.1",
+            "pagenum": 67,
+            "content": "<i>ardhakarṇa</i>¦ m. Radius. {part=,seq=5003,type=,n=2}"
+        }
     ]
 }

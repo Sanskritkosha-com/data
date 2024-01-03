@@ -223,5 +223,43 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अवसान¦ I. 3. 6."
         }
+    ],
+    "SHS": [
+        {
+            "word": "अवसान",
+            "eid": "3893",
+            "pagenum": 67,
+            "content": "अवसान¦ n. (-नं) 1. Conclusion, termination, cessation. 2. Death. 3. Boundary, limit. 4. (In grammar,) Disjunction of letters. E. अव, षो to finish, ल्युट् affix; ओ is changed to आ."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अवसान",
+            "eid": "4168",
+            "pagenum": 90,
+            "content": "<b>1 ava-sāna-</b>¦ <ab>nt.</ab> pause, fin de mot ou de phrase ; limite ; conclusion ; mort ; résidence. <lbinfo n='5'/>  <P><i>°bhūmi-</i> <ab>f.</ab> limite extrême."
+        },
+        {
+            "word": "अवसान",
+            "eid": "4169",
+            "pagenum": 90,
+            "content": "<b>2 a-vasāna-</b>¦ <ab>partic.</ab> non vêtu."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवसान",
+            "eid": "3895",
+            "pagenum": 82,
+            "content": "अवसान¦ n. (-नं) .²1 Conclusion, termination, cessation. .²2 Death. .²3 Boundary, limit. .²4 In grammar, disjunction of letters. .E. अव, षो to finish, ल्युट् affix; ओ is changed to आ."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवसान",
+            "eid": "3316",
+            "pagenum": 63,
+            "content": "अव-सान¦ (नं) 1. <i>n.</i> Conclusion; limit."
+        }
     ]
 }

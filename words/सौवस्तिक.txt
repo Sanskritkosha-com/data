@@ -110,5 +110,43 @@
             "pagenum": 7,
             "content": "सौवस्तिक¦ VII. <lex>n.</lex> = स्वस्त्ययन <ls>MAHĀVY. 137</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "27034",
+            "pagenum": 370,
+            "content": "<i>sauvastika</i>¦ n. = <i>svastyayana</i>, <ls>Mahāvy.</ls> 137. {part=,seq=27394,type=,n=1}"
+        },
+        {
+            "word": "सौवस्तिक",
+            "eid": "27034.1",
+            "pagenum": 370,
+            "content": "*<i>sauvastika</i>¦ m. Hauspriester, <ls>Prabandh.</ls> 84, 8 v.u.; <ls>S</ls> I, 452, 10; <ls>Kaṃs.</ls> 16, 9; II, 7<sup>c</sup> allgemein gesagt (<i>gopānāṃ sauvastiko brāhmaṇaḥ = svastikṛt</i>. <i>purohita iti yāvat</i>). {part=,seq=27395,type=*,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "45267",
+            "pagenum": 807,
+            "content": "सौवस्तिक¦ mfn. (-कः-की-कं) Salutatory, benedictory. m. (-कः) A family Brāhman or priest. E. स्वस्ति a term of salutation, and ठक् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "42906",
+            "pagenum": 947,
+            "content": "सौवस्तिक¦ mfn. (-कः-की-कं) Salutatory, benedictory. m. (-कः) A family <i>Brahman</i> or priest. .E. स्वस्ति a term of salutation, ठक् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सौवस्तिक",
+            "eid": "42702",
+            "pagenum": 870,
+            "content": "सौ-वस्तिक¦ (कः) 1. <i>m.</i> A family <i>Brāh-</i> <i>man</i> or priest. <i>a.</i> Benedictory."
+        }
     ]
 }

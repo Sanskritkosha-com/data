@@ -47,5 +47,41 @@
             "pagenum": 4,
             "content": "निद¦ <lex>n.</lex> <i>Gift</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "निद",
+            "eid": "21670",
+            "pagenum": 390,
+            "content": "निद (इ) निदि¦ r. 1st cl. (निन्दति) To reproach, to blame."
+        },
+        {
+            "word": "निद",
+            "eid": "21671",
+            "pagenum": 390,
+            "content": "निद¦ mfn. (-दः-दा-दं) Abusive. n. (-दं) Poison, venom. E. नि affirmative prefix, दो to destroy, affix ड or निदि-क, वा नलोपः ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "निद",
+            "eid": "21683",
+            "pagenum": 467,
+            "content": "निद¦ (इ) निदि r. 1st cl. (निन्दति) To reproach, to blame."
+        },
+        {
+            "word": "निद",
+            "eid": "21684",
+            "pagenum": 467,
+            "content": "निद¦ m. (-दः) Poison, venom. .E. नि affirmative prefix, दो to destroy, affix ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निद",
+            "eid": "21168",
+            "pagenum": 417,
+            "content": "निद¦ (दः) 1. <i>m.</i> A poison."
+        }
     ]
 }

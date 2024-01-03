@@ -61,5 +61,51 @@
             "pagenum": 7,
             "content": "अ/लून¦ I. <i>ungeschoren</i> <ls>MAITR. S. 2,5,11 (62,12)</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अलून",
+            "eid": "5134",
+            "pagenum": 70,
+            "content": "<i>álūna</i>¦ ungeschoren, <ls>Maitr. S.</ls> 2, 5, 11 (62, 12). {part=,seq=5204,type=,n=2}"
+        },
+        {
+            "word": "अलून",
+            "eid": "27982",
+            "pagenum": 385,
+            "content": "<i>alūna</i>¦ Adj. °nicht abgeschnitten, <ls>Padyac.</ls> V, 10<sup>b</sup>. {part=N,seq=28353,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अलून",
+            "eid": "3534",
+            "pagenum": 61,
+            "content": "अलून¦ mfn. (-नः-ना-नं) Uncut, unshorn. E. अ neg. लून cut."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अलून",
+            "eid": "3855",
+            "pagenum": 84,
+            "content": "<b>a-lūna-</b>¦ <ab>a. v.</ab> non cueilli."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अलून",
+            "eid": "3536",
+            "pagenum": 74,
+            "content": "अलून¦ mfn. (-नः-ना-नं) Uncut, unshorn. .E. अ neg. लून cut."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अलून",
+            "eid": "2975",
+            "pagenum": 58,
+            "content": "अलून¦ (नः-ना-नं) <i>a.</i> Uncut."
+        }
     ]
 }

@@ -240,5 +240,53 @@
             "pagenum": 7,
             "content": "अणु¦ I. 1. <i>Seele, Leben;</i> = आत्मन् <ls>HARAVIJAYA 6,35</ls>. <ls n='HARAVIJAYA 6,'>63</ls> <ab>u. s. w.</ab>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अणु",
+            "eid": "903",
+            "pagenum": 13,
+            "content": "<i>aṇu</i>¦ n. auch = <i>aṇutaila</i>, <ls>Caraka</ls> 6, 24. — Seele, Leben; = <i>ātman</i>, Haravijaya 6, 35. 63 usw. {part=,seq=925,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अणु",
+            "eid": "650",
+            "pagenum": 12,
+            "content": "अणु¦ m. (-णुः) 1. An atom, a minute and elementary particle of matter. 2. A sort of grain, (Panicum miliaceum, Rox.) m. or mfn. (-णुः-ण्वी-णु) 1. Atomic, small, minute. E. अण to sound, and उ Unādi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अणु",
+            "eid": "302",
+            "pagenum": 9,
+            "content": "<b>aṇu-</b>¦ <i>-(v)ī-</i> <ab>a.</ab> fin, ténu, mince ; faible ; subtil (aussi <ab>fig.</ab>) ; insignifiant ; <ab>m.</ab> millet ; <ab>nt.</ab> <ab>n.</ab> d'une unité infime de temps ; <ab>compar.</ab>  <i>aṇīyāṃs- aṇutara- ;</i> <ab>sup.</ab> <i>aṇiṣṭha- ; -tva-</i> <ab>nt.</ab> ténuité.  <P><i>°mātrika-</i> <ab>a.</ab> consistant en atomes.  <P><i>aṇv-anta-</i> <ab>m.</ab> question résolue subtilement."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "अणु",
+            "eid": "39",
+            "pagenum": 1,
+            "content": "<b>Aṇu.</b>¦ — This is the designation in the Vājasaneyi Saṃhitā<sup>1</sup> and the Bṛhadāraṇyaka Upaniṣad<sup>2</sup> of a cultivated grain, <b>apparently</b> the <i>Panicum miliaceum.</i> <F>1) xviii. 12.</F> <F>2) vi. 3, 15 (Kāṇva), where see Dviveda's note.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अणु",
+            "eid": "651",
+            "pagenum": 15,
+            "content": "अणु¦ m. (-णुः) .²1 An atom, a minute and elementary particle of matter. .²2 A sort of grain, (<bot>Panicum miliaceum</bot>, Rox.) m. or mfn. (-णुः-ण्वी-णु) .²1 Atomic, small, minute. .E. अण to sound, and उ Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अणु",
+            "eid": "580",
+            "pagenum": 13,
+            "content": "अणु¦ (णुः) 2. <i>m.</i> An atom; a sort of grain. <i>a.</i> Small, atomic."
+        }
     ]
 }

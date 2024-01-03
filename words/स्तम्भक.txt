@@ -81,5 +81,21 @@
             "pagenum": 7,
             "content": "स्तम्भक¦ VII. <lex>m.</lex> *wohl <i>Säule</i> <ls>MAHĀVY. 226,91</ls>. <lex>f.</lex> °म्भिका <i>Stuhlbein</i> <ls>DAMAYANTĪK. 243</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "स्तम्भक",
+            "eid": "27066",
+            "pagenum": 371,
+            "content": "<i>stambhaka</i>¦ m. wohl *Säule, <ls>Mahāvy.</ls> 226, 91. — f. <i>stambhikā</i> Stuhlbein, <ls>Damayantīk.</ls> 243. {part=,seq=27428,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "स्तम्भक",
+            "eid": "23992",
+            "pagenum": 866,
+            "content": "<b>stambhaka-</b>¦ <ab>ag.</ab> qui arrête, qui fixe ; <ab>m.</ab> <ab>n.</ab> d'un servant de Śiva."
+        }
     ]
 }

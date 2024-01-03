@@ -42,5 +42,37 @@
             "pagenum": 6,
             "content": "वृक्षाम्ल¦ (वृक्ष + अम्ल) <lex>m.</lex> <i>Spondias mangifera</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <lex>n.</lex> <i>die Frucht</i> <ls>AK. 2, 9, 35.</ls> <ls>H. 417.</ls> <ls>HARIV. 8440.</ls> <ls>SUŚR. 2, 453, 7.</ls> <ls>VĀGBH. 6, 130.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वृक्षाम्ल",
+            "eid": "38151",
+            "pagenum": 683,
+            "content": "वृक्षाम्ल¦ m. (-म्लः) The hog-plum, (Spondias mangifera.) n. (-म्लं) Acid seasoning, or the fruit of the tamarind so used. E. वृक्ष, अम्ल sour."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "वृक्षाम्ल",
+            "eid": "241",
+            "pagenum": 601,
+            "content": "<i>vṛkṣāmla</i>¦ <div n='P'/>(1) <bot>SPONDIAS PINNATA KURZ</bot> = <bot>S. MANGIFERA WILLD.</bot> (HK; MW; PW; Vśs: = <i>āmrātaka</i>); <div n='P'/>(2) <bot>GARCINIA INDICA CHOISY</bot> (Avk; Bpn, p. 582; Dgm, p. 241; Dgv, nr. 41; Gul; KB 1, p. 262-263; Na 1, nr. 46) = <bot>G. PURPUREA ROXB.</bot> (Avk; Dgm, p. 241; KB 1, p. 262-263); <div n='P'/>(3) <bot>G. PEDUNCULATA ROXB.</bot>; <bot>G. DON</bot> (Dgm, p. 241); <div n='P'/>(4) <bot>G. XANTHOCHYMUS HOOK. F. EX T. ANDERS.</bot> (Dgm, p. 241); <div n='P'/>(5) the fruit of <bot>TAMARINDUS INDICA LINN.</bot> (Kav; MW; Vśs); <div n='P'/>(6) <bot>OXALIS CORNICULATA LINN.</bot> (Kav; Vśs: = <i>amlaloṇī</i>); <div n='P'/>(7) = <i>amlavetasa</i> (Vśs); <div n='P'/>(8) <bot>RHUS PARVIFLORA ROXB.</bot> (Dgm, p. 242)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वृक्षाम्ल",
+            "eid": "36450",
+            "pagenum": 800,
+            "content": "वृक्षाम्ल¦ m. (-म्लः) The hog plum, (<bot>Spondias mangifera</bot>.) n. (-म्लं) Acid seasoning, or the fruit of the tamarind so used. .E. वृक्ष a tree, and अम्ल sour."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वृक्षाम्ल",
+            "eid": "36063",
+            "pagenum": 718,
+            "content": "वृक्षा_म्ल¦ (म्लः) 1. <i>m.</i> The hog plum. <i>n.</i> Acid seasoning, tamarind so used."
+        }
     ]
 }

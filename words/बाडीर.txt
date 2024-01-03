@@ -47,5 +47,29 @@
             "pagenum": 5,
             "content": "बाडीर¦ <lex>m.</lex> <i>ein gemietheter Arbeiter</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "बाडीर",
+            "eid": "28655",
+            "pagenum": 517,
+            "content": "बाडीर¦ m. (-रः) A servant, a hired labourer."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "बाडीर",
+            "eid": "27810",
+            "pagenum": 603,
+            "content": "बाडीर¦ m. (-रः) A servant, a hired labourer."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "बाडीर",
+            "eid": "27316",
+            "pagenum": 541,
+            "content": "बाडीर¦ (रः) 1. <i>m.</i> A hired servant."
+        }
     ]
 }

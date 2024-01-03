@@ -82,5 +82,45 @@
             "pagenum": 5,
             "content": "कुडव¦ <ls>Verz. d. Oxf. H. 307,b,2.</ls> <ls>WEBER, JYOT. 78. 72.</ls> <ls>VARĀH. BṚH. S. 104,46.</ls> = <i>ein Hohlmaass von 64 Kubik</i>-<is>Aṅgula</is> <ls>ŚĀRṄG. SAṂH. 1, 1, 26.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुडव",
+            "eid": "10769",
+            "pagenum": 148,
+            "content": "<i>kuḍava</i>¦ m. n. <ls>Govardh.</ls> 130 °Gefäß aus Strohgeflecht [<i>kalamānāṃ śāliviśeṣāṇāṃ kuḍavaṃ palālanirmitaṃ pātram upanīya … kuḍavaśabdaḥ parimāṇaviśeṣavācīti kecit</i>]. {part=,seq=10928,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुडव",
+            "eid": "10669",
+            "pagenum": 187,
+            "content": "कुडव¦ m. (-वः) A measure of grain, wood, iron, &c. the fourth part of a Prastha, described by some as a vessel four fingers wide, and as many deep, and containing twelve Prakritis or handfuls: it is also said to contain thirteen and a half cubic Angulas; or to be a finger and half deep, and three fingers each length and breadth. In medicine it is equal to two Prakritis or thirty-two Tolakas. E. कुड् to heap, कवन् affix; also कुडप and कुटप."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुडव",
+            "eid": "8072",
+            "pagenum": 197,
+            "content": "<b>kuḍava-</b>¦ <ab>m.</ab> mesure de capacité ou de poids."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुडव",
+            "eid": "10675",
+            "pagenum": 227,
+            "content": "कुडव¦ m. (-वः) A measure of grain, wood, iron, &c. the fourth part of a <i>Prastha,</i> described by some as a vessel four fingers wide, and as many deep, and containing twelve <i>Prakṛtis</i> or handfuls: it is also said to contain thirteen and a half cubic <i>Aṅgulas;</i> or to be a finger and a half deep, and three fingers each length and breadth. In medicine it is equal to two <i>Prakṛtis</i> or thirty-two <i>Tolakas.</i> .E. कुड to heap, कवन् affix; also कुडप and कुटप."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुडव",
+            "eid": "10118",
+            "pagenum": 192,
+            "content": "कुडव¦ (वः) 1. <i>m. Idem.</i>"
+        }
     ]
 }

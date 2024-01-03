@@ -121,5 +121,51 @@
             "pagenum": 7,
             "content": "तलक¦ III. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तलक",
+            "eid": "14398",
+            "pagenum": 199,
+            "content": "<i>talaka</i>¦ Herd? <ls>Harṣac.</ls> 237, 7. [Z.] {part=,seq=14626,type=,n=1}"
+        },
+        {
+            "word": "तलक",
+            "eid": "14398.1",
+            "pagenum": 199,
+            "content": "<i>talaka</i>¦ m. auch ein Wägelchen mit einem Feuerherde, <ls>Harṣac.</ls> 179, 4 (445, 3). {part=,seq=14627,type=,n=0}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तलक",
+            "eid": "17192",
+            "pagenum": 307,
+            "content": "तलक¦ n. (-कं) A large pond. E. तल a hole, a hollow, and कन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तलक",
+            "eid": "9934",
+            "pagenum": 280,
+            "content": "<b>talaka-</b>¦ <ab>m.</ab> chariot muni d'un fourneau ; <ab>n.</ab> d'un prince."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तलक",
+            "eid": "17209",
+            "pagenum": 370,
+            "content": "तलक¦ n. (-कं) A large pond. .E. तल a hole, a hollow, and कन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तलक",
+            "eid": "16681",
+            "pagenum": 327,
+            "content": "तलक¦ (कं) 1. <i>n.</i> A large pond."
+        }
     ]
 }

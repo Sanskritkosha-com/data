@@ -149,5 +149,35 @@
             "pagenum": 7,
             "content": "ईक्ष्¦ I. <ab>Pass.</ab> <i>videri, scheinen</i> <ls>JĀTAKAM. 28,40</ls>. ईक्षित so <ab>v. a.</ab> <i>gutgeheissen</i> <ls n='JĀTAKAM.'>31,88</ls>. — Mit समभि <i>anblikken, ansehen</i> <ls><ab>ebend.</ab> 3</ls>. — Mit निरभ्यव 2. — Mit अध्युप <i>nicht beachten vernachlässigen</i> <ls>DIVYĀVAD. 25,6</ls>. <ls n='DIVYĀVAD.'>127,11</ls>. <ls n='DIVYĀVAD.'>185,23</ls>. <ls n='DIVYĀVAD.'>571,11</ls>. — Mit प्रत्युप 4. — Mit समुप auch <i>beobachten</i> <ls>MṚCCH. 59,2</ls>. — Mit उपपरि I. <i>untersuchen, erwägen</i> <ls>DIVYĀVAD. 5,13</ls>. <ls n='DIVYĀVAD.'>212,9</ls>. <ls n='DIVYĀVAD.'>230,19</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ईक्ष्",
+            "eid": "7780",
+            "pagenum": 107,
+            "content": "<i>īkṣ</i>¦ Pass. videri, scheinen, <ls>Jātakam.</ls> 28, 40. <i>īkṣita</i> so v.a. gutgeheißen, 31, 88. — Mit <i>samabhi</i> anblicken, ansehen, ebenda 3. — Mit <i>nirabhyava</i> durchsuchen, durchstöbern, <ls>Kāraṇḍ.</ls> 44, 1. — Mit <i>adhyupa</i> nicht beachten, vernachlässigen, <ls>Divyāvad.</ls> 25, 6; 127, 11; 185, 23; 571, 11. — Mit <i>pratyupa, pratyupekṣita</i> nicht beachtet, <ls>R. Gorr. 2, 6, 21</ls> (zu trennen <i>vā pra°</i>). — Mit <i>samupa</i> auch: beobachten, <ls>Mṛcch.</ls> 59, 2. — Mit <i>upapari</i> untersuchen, erwägen, <ls>Divyāvad.</ls> 5, 13; 212, 9; 230, 19. — Mit <i>prati</i> °aufwarten, <ls>S</ls> I, 249, 5. {part=,seq=7890,type=,n=16}"
+        },
+        {
+            "word": "ईक्ष्",
+            "eid": "28209",
+            "pagenum": 388,
+            "content": "<i>[īkṣ</i>¦ mit <i>abhivi,] abhivīkṣita</i> °anzuschauen begonnen habend <i>(ādikarmaṇi kartari ktaḥ)</i>, <ls>Padyac.</ls> IX, 43<sup>a</sup>. {part=N,seq=28580,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "ईक्ष्",
+            "eid": "5950",
+            "pagenum": 133,
+            "content": "<b>ĪKṢ-</b>¦ <i>īkṣate</i> (<i>-ti</i>) ; <i>īkṣāṃ cakre ; īkṣiṣyate ;</i> <i>īkṣyate īkṣayati ; īkṣita- īkṣitum īkṣya</i> -- regarder ; remarquer ; penser ; attendre ; <ab>pass.</ab> être regardé ; paraître ; <ab>a. v.</ab> vu ; <ab>nt.</ab> regard."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ईक्ष्",
+            "eid": "5832",
+            "pagenum": 109,
+            "content": "ईक्ष्¦ ईक्षते 1. <i>d.</i> To see. With अप or उत् to expect; with अभि to gaze at; with अव to inspect; with उप to overlook; with निर् to see; with परि to test; with प्र to look like; with वि to inspect; with प्रति to look for; with सं to compare; with प्रति and उत् to look up at."
+        }
     ]
 }

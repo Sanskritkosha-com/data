@@ -13,5 +13,19 @@
             "pagenum": 759,
             "content": "¦ a kind of shrub, <ls>L.</ls><info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "भुजंगी",
+            "eid": "20663",
+            "pagenum": 285,
+            "content": "<i>bhujaṃgī</i>¦ °Hetäre, <ls>Govardh.</ls> 223. 414. 446. {part=,seq=20947,type=,n=1}"
+        },
+        {
+            "word": "भुजंगी",
+            "eid": "20663.1",
+            "pagenum": 285,
+            "content": "°<i>Bhujaṃgī</i>¦ = <i>devī Padmāvatī</i>, <ls>S</ls> I, 590, 15 v.u. (Ko.). {part=,seq=20948,type=°,n=3}"
+        }
     ]
 }

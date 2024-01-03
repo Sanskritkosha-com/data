@@ -243,5 +243,53 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> कल्¦ mit प्रति <i>hetzen, verfolgen</i> <ls>R. ed. Bomb. 4,46,3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कल्",
+            "eid": "10040",
+            "pagenum": 138,
+            "content": "2. <i>kal</i>¦ , S. 32, Sp. 1, Z. 2 v.u. lies 120, 24 statt 120, 14. {part=,seq=10179,type=,n=2}"
+        },
+        {
+            "word": "कल्",
+            "eid": "10041",
+            "pagenum": 138,
+            "content": "2. <i>kal</i>¦ 9. b) <i>kalitacaraṇa</i> Adj. dessen Bein gebrochen ist, <ls>Pañcat.</ls> ed. Bomb. 1, 6, 12. — Mit <i>anu, °kalita</i> wahrgenommen, <ls>Dharmaśarmābhy.</ls> 13, 64. — Mit <i>samā</i> prüfen, untersuchen, <ls>Pārv.</ls> 579, 23. {part=,seq=10180,type=,n=6}"
+        },
+        {
+            "word": "कल्",
+            "eid": "10042",
+            "pagenum": 138,
+            "content": "3. <i>kal</i>¦ mit <i>ud</i> <i>utkālita</i> °geschmolzen, <ls>S</ls> I, 66, 16 (Ko.); 464, 3 v.u. (Ko.); = <i>kvathita</i>, <ls>S</ls> I, 517, 11. 12 (Ko.); 519, 10 v.u. (Ko.); 520, 8 v.u. (Ko.) etc. — Mit <i>prati</i> hetzen, verfolgen, <ls>R. ed. Bomb.</ls> 4, 46, 3. — Mit <i>°sam</i> <ls>Harṣac.</ls> 230, 1; 233, 11 (<i>saṃkalita</i> collected, entangled). {part=,seq=10181,type=,n=8}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कल्",
+            "eid": "7718",
+            "pagenum": 181,
+            "content": "<b>1 KAL-</b>¦ <i>kalayati -te</i> -- inciter, exciter ; porter ; faire, accomplir ; prononcer (un son) ; attacher ; remarquer, considérer, croire."
+        },
+        {
+            "word": "कल्",
+            "eid": "7719",
+            "pagenum": 181,
+            "content": "<b>2 KAL-</b>¦ <i>kālayati -te</i> -- pousser, pousser devant soi, traîner ; persécuter ; compter (en trop)."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कल्",
+            "eid": "8914",
+            "pagenum": 167,
+            "content": "कल्¦ (ङ) कलते 1. <i>d.</i> To sound; to enumerate."
+        },
+        {
+            "word": "कल्",
+            "eid": "8915",
+            "pagenum": 168,
+            "content": "कल्¦ (क) कालयति 10. <i>a.</i> To send."
+        }
     ]
 }

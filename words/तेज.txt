@@ -135,5 +135,63 @@
             "pagenum": 7,
             "content": "तेज¦ = तेजस् in तिग्म° oben."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तेज",
+            "eid": "14779",
+            "pagenum": 204,
+            "content": "<i>teja</i>¦ = <i>tejas</i> in <i>tigma°</i> oben. {part=,seq=15012,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तेज",
+            "eid": "17837",
+            "pagenum": 320,
+            "content": "तेज¦ r. 1st cl. (तेजति) To guard, to cherish, to defend or protect. E. भ्वा-पर-सक-सेट् ।"
+        },
+        {
+            "word": "तेज",
+            "eid": "17838",
+            "pagenum": 320,
+            "content": "तेज¦ m. (-जः) 1. Sharpness, pungency. 2. Sharpness of a weapon. 3. Brilliancy. 4. Spirit. E. तिज् to sharpen, affix घञ्ः see तेजस्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तेज",
+            "eid": "10142",
+            "pagenum": 289,
+            "content": "<b>tejaḥ°</b>¦ <ab>v.</ab> <i>tejas-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तेज",
+            "eid": "17854",
+            "pagenum": 384,
+            "content": "तेज¦ r. 1st cl. (तेजति) To guard, to cherish, to defend or protect."
+        },
+        {
+            "word": "तेज",
+            "eid": "17855",
+            "pagenum": 384,
+            "content": "तेज¦ m. (-जः) .²1 Sharpness, pungency. .²2 Sharpness of a weapon. .²3 Brilliancy. .²4 Spirit. .E. तिज to sharpen, affix घञ्: see तेजस्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तेज",
+            "eid": "17332",
+            "pagenum": 340,
+            "content": "तेज¦ तेजति 1. <i>a.</i> To guard, to cherish."
+        },
+        {
+            "word": "तेज",
+            "eid": "17333",
+            "pagenum": 340,
+            "content": "तेज¦ (जः) <i>a.</i> Sharpness; brightness; pungency; spirit."
+        }
     ]
 }

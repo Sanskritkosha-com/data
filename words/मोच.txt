@@ -119,5 +119,45 @@
             "pagenum": 5,
             "content": "मोच¦ <lex>m.</lex> <i>Moringa pterygosperma Gaertn.</i> <ls>H. an. 2, 59.</ls> <ls>MED. k. 8.</ls> <ls>MBH. 3, 11568.</ls> Wohl auch <i>Musa sapientum</i> <ls>SUŚR. 2, 175, 2.</ls> <ls>HIOUEN-THSANG 1, 92. 187</ls> (hier könnte auch मोचा gemeint sein). <lex>f.</lex> आ = कदली, रम्भा <i>Musa sapientum</i> <ls>AK. 2, 4, 4, 1.</ls> <ls>TRIK. 3, 3, 77.</ls> <ls>H. 1136.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 37.</ls> neben कदली <ls>PAÑCAR. 3, 13, 11.</ls> <i>die Baumwollenstaude</i> <ls>AK. 2, 4, 2, 27.</ls> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <i>die Indigopflanze</i> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <lex>f.</lex> ई <i>Hingtsha repens</i> <ls>RATNAM.</ls> im <ls>ŚKDR.</ls> <lex>n.</lex> <i>Banane (die Frucht)</i> <ls>AK. 3, 6, 3, 30, v. l.</ls> <ls>VĀGBH. 1, 6, 120.</ls> <div n='v'>— Vgl. पर्वतमोचा, हिलमोची, मौच ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मोच",
+            "eid": "22029",
+            "pagenum": 304,
+            "content": "<i>moca</i>¦ m. Musa sapientum, <ls>S</ls> I, 528, 3 [pw 'wohl auch <ls>M.</ls> s.']. {part=,seq=22331,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मोच",
+            "eid": "32221",
+            "pagenum": 579,
+            "content": "मोच¦ m. (-चः) A tree, (Hyperanthera morunga.) f. (-चा) 1. The silkcotton tree, (Bombax heptaphyllum.) 2. The plantain, (Musa sapientum.) 3. The indigo-plant. n. (-चं) A plantain, (the fruit.) E. मुच् to loose, aff. अच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मोच",
+            "eid": "16991",
+            "pagenum": 578,
+            "content": "<b>moca-</b>¦ <ab>m.</ab> Moringa pterygosperma."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मोच",
+            "eid": "31039",
+            "pagenum": 675,
+            "content": "मोच¦ m. (-चः) A tree, (<bot>Hyperanthera morunga</bot>.) f. (-चा) .²1 The silk-cotton tree, (<bot>Bombax heptaphyllum</bot>.) .²2 The plantain, (<bot>Musa sapientum</bot>.) n. (-चं) A plantain, (the fruit.) .E. मुच to let loose, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मोच",
+            "eid": "30593",
+            "pagenum": 605,
+            "content": "मोच¦ (चः) 1. <i>m.</i> A tree, morunga. <i>f.</i> (चा) Silk-cotton tree, plantain tree. <i>n.</i> Its fruit."
+        }
     ]
 }

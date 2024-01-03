@@ -83,5 +83,21 @@
             "pagenum": 5,
             "content": "परिपाठ¦ <ls>Schol.</ls> zu <ls>AV. PRĀT. 1, 105.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "परिपाठ",
+            "eid": "23595",
+            "pagenum": 427,
+            "content": "परिपाठ¦ m. (-ठः) Complete enumerations."
+        }
+    ],
+    "STC": [
+        {
+            "word": "परिपाठ",
+            "eid": "13139",
+            "pagenum": 413,
+            "content": "<b>pari-pāṭha-</b>¦ <ab>m.</ab> énumération complète ; <i>-ena-</i> en détail, complètement."
+        }
     ]
 }

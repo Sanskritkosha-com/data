@@ -100,5 +100,55 @@
             "pagenum": 7,
             "content": "अवकेशिन्¦ I. 1. 2. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अवकेशिन्",
+            "eid": "5190",
+            "pagenum": 71,
+            "content": "<i>avakeśin</i>¦ , vgl. oben <i>anavakeśin</i>. {part=,seq=5260,type=,n=1}"
+        },
+        {
+            "word": "अवकेशिन्",
+            "eid": "5190.1",
+            "pagenum": 71,
+            "content": "<i>avakeśin</i>¦ Adj. unfruchtbar, <ls>Hem. Par.</ls> 2, 11. [<ls>S</ls> II, 401, 1; <ls>Govardh.</ls> 91.] {part=,seq=5261,type=,n=1}"
+        },
+        {
+            "word": "अवकेशिन्",
+            "eid": "5191",
+            "pagenum": 71,
+            "content": "<i>avakeśin</i>¦ m. ein unfruchtbarer Baum, <ls>Naiṣ.</ls> 2, 45. {part=,seq=5262,type=,n=1}"
+        },
+        {
+            "word": "अवकेशिन्",
+            "eid": "27988",
+            "pagenum": 385,
+            "content": "*<i>avakeśin</i>¦ °Subst. m. unfruchtbarer Baum, <ls>Viṣṇubh.</ls> II, 19<sup>c</sup>. {part=N,seq=28359,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अवकेशिन्",
+            "eid": "3610",
+            "pagenum": 62,
+            "content": "अवकेशिन्¦ mfn. (-शी-शिनी-शि) Barren. E. अव privative, केश properly hair, in this instance fruit, and इनि aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अवकेशिन्",
+            "eid": "3612",
+            "pagenum": 76,
+            "content": "अवकेशिन्¦ mfn. (-शी-शिनी-शि) Barren. .E. अव privative, केश properly hair, in this instance fruit, and इनि aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अवकेशिन्",
+            "eid": "3050",
+            "pagenum": 59,
+            "content": "अव-केशिन्¦ (शी-शिनी-शि) <i>a.</i> Barren."
+        }
     ]
 }

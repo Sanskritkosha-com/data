@@ -144,5 +144,59 @@
             "pagenum": 7,
             "content": "आविक¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आविक",
+            "eid": "7396",
+            "pagenum": 101,
+            "content": "<i>āvika</i>¦ 3. f. <i>ī</i> Schaffell, <ls>R. ed. Bomb.</ls> 3, 43, 36. {part=,seq=7498,type=,n=1}"
+        },
+        {
+            "word": "आविक",
+            "eid": "7396.1",
+            "pagenum": 101,
+            "content": "<i>āvika</i>¦ °Subst. n. Schafheerde, <ls>S</ls> II, 221, 7; <ls>H</ls> 43, 334. {part=,seq=7499,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आविक",
+            "eid": "5899",
+            "pagenum": 101,
+            "content": "आविक¦ mfn. (-कः-की-कं) Woollen, &c. or anything relating to or derived from a sheep. m. (-कः) A blanket, woollen cloth. E. अवि a sheep, वुज् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आविक",
+            "eid": "5661",
+            "pagenum": 125,
+            "content": "<b>āvika-</b>¦ <i>-ī-</i> <ab>a.</ab> relatif au mouton ; de laine ; <ab>f.</ab> peau de mouton ; <ab>nt.</ab> étoffe de laine.  <P><i>°sautrika-</i> <ab>a.</ab> en fil de laine."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "आविक",
+            "eid": "273",
+            "pagenum": 1,
+            "content": "<b>Āvika</b>¦ (‘coming from the sheep,’ <i>avi</i>) is a term for ‘wool,’ which occurs first in the Bṛhadāraṇyaka Upaniṣad (ii. 3, 6). <i>Cf.</i> <b>Avi.</b>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आविक",
+            "eid": "5901",
+            "pagenum": 122,
+            "content": "आविक¦ mfn. (-कः-की-कं) Woollen, &c. or any thing relating to or derived from a sheep. m. (-कः) A blanket, woollen cloth. .E. अवि a sheep, वुञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आविक",
+            "eid": "5282",
+            "pagenum": 99,
+            "content": "आविक¦ (कः) 1. <i>m.</i> A blanket. <i>a.</i> Woollen; relating to sheep."
+        }
     ]
 }

@@ -179,5 +179,35 @@
             "pagenum": 7,
             "content": "आप्¦ mit प्र, प्राप्त I. <i>passend, schicklich, rathsam</i> <ls>JĀTAKAM. 22</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आप्",
+            "eid": "7015",
+            "pagenum": 96,
+            "content": "<i>āp</i>¦ mit <i>anu</i> Desid. einstimmen. <i>Indreṇa bāḍham ity evam anvīpsitam</i>, <ls>VP.</ls> 4, 2, 11. — Mit <i>ava</i> <ls>Kaus.</ls> jemand (Akk.) etwas (Akk.) erlangen lassen, <ls>Naiṣ.</ls> 8, 89. — Mit <i>paryava</i> etwas ganz in sich aufnehmen, sich ganz zu eigen machen, <ls>Vajracch.</ls> 28, 14; 30, 17. — Mit <i>°para</i> ausreichen, <ls>H</ls> 29, 47. — Mit <i>pra, prāpta</i> passend, schicklich, ratsam, <ls>Jātakam.</ls> 22. — Mit <i>paripra, °pariprāpta = vijñapta</i>, <ls>S</ls> I, 196, 6. — Mit <i>vi, vyāpta</i> 4. in allem enthalten, überallhin verbreitet, <ls>Ind. St.</ls> 9, 137. Superl. <i>°tama</i> 146. <i>vyāptadeha</i> <ls>Śiś.</ls> 18, 5 nach dem Komm. = <i>sarvāṅgīna</i>. Nach <ls>Med.</ls> 1, 57 ist <i>vyāpta</i> auch = <i>khyāta</i>. — Mit <i>sam</i> 4. mit oder ohne <i>ātmānam</i> seinem Leben ein Ende machen, <ls>Āpast.</ls> 1, 25, 2. 7. {part=,seq=7108,type=,n=20}"
+        },
+        {
+            "word": "आप्",
+            "eid": "28124",
+            "pagenum": 387,
+            "content": "<i>āp</i>¦ mit <i>°udava</i>, erreichen, überziehen, <ls>Kir.</ls> IX, 11. {part=N,seq=28495,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आप्",
+            "eid": "5282",
+            "pagenum": 117,
+            "content": "<b>ĀP-</b>¦ <i>āpnoti āpnute ; āpa ; āpat ; āpyate āpayati īpsati ; āpta-</i> <i>āptum āptvā °āpya</i> -- atteindre, gagner, obtenir, prendre possession <lbinfo n='4'/> ; endurer ; <ab>pass.</ab> arriver au but ; <ab>caus.</ab> faire atteindre, satisfaire (un désir) ; frapper."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आप्",
+            "eid": "4859",
+            "pagenum": 91,
+            "content": "आप्¦ (न, ऌ, औ कि) 1. <i>a.</i> आपति, 5. <i>c.</i> आप्नोति प्नुते 10. <i>a.</i> आपयति. To pervade; to obtain, gain, get; With वि to spread; with अव or प्र to get; with अभि-वि to spread from place to place; with उप or सं-प्र to arrive at; with परि-वि or सं-वि to gain completely."
+        }
     ]
 }

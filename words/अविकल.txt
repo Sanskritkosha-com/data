@@ -83,5 +83,45 @@
             "pagenum": 7,
             "content": "अविकल¦ I. <lex>f.</lex> आ <ls>KATHĀS. 28,192</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अविकल",
+            "eid": "5511",
+            "pagenum": 75,
+            "content": "<i>[avikala]</i>¦ , f. <i>ā</i>, <ls>Kathās.</ls> 28, 192. {part=,seq=5587,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अविकल",
+            "eid": "3972",
+            "pagenum": 69,
+            "content": "अविकल¦ mfn. (-लः-ला-लं) 1. Entire, perfect, unimpaired. 2. Regular, orderly, consistent. E. अ neg. and विकल defective."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अविकल",
+            "eid": "4237",
+            "pagenum": 92,
+            "content": "<b>a-vikala-</b>¦ <ab>a.</ab> non incomplet, entier ; régulier. <lbinfo n='4'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अविकल",
+            "eid": "3974",
+            "pagenum": 83,
+            "content": "अविकल¦ mfn. (-लः-ला-लं) .²1 Entire, perfect, unimpaired. .²2 Regular, orderly, consistent. .E. अ, and विकल defective."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अविकल",
+            "eid": "3396",
+            "pagenum": 65,
+            "content": "अ-विकल¦ (लः-ला-लं) <i>a.</i> Entire, perfect."
+        }
     ]
 }

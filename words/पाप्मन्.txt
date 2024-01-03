@@ -136,5 +136,45 @@
             "pagenum": 7,
             "content": "पाप्मन्¦ IV. <i>Teufel, Dämon</i> <ls>JĀTAKAM. 28</ls>. <ls n='JĀTAKAM.'>31,7</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पाप्मन्",
+            "eid": "18356",
+            "pagenum": 253,
+            "content": "<i>pāpman</i>¦ Teufel, Dämon, <ls>Jātakam.</ls> 28, 31, 7. {part=,seq=18620,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पाप्मन्",
+            "eid": "24500",
+            "pagenum": 444,
+            "content": "पाप्मन्¦ m. (-मा) Sin, wickedness. E. पा to preserve (from it,) मनिन् Unādi aff., deriv. irr."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पाप्मन्",
+            "eid": "13669",
+            "pagenum": 429,
+            "content": "<b>pāpman-</b>¦ <ab>m.</ab> mal, malheur, crime, péché, méchanceté."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाप्मन्",
+            "eid": "24432",
+            "pagenum": 527,
+            "content": "पाप्मन्¦ m. (-प्मा) Sin, wickedness. .E. पा to preserve (from it), मनिन् Uṇādi aff., deriv. irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाप्मन्",
+            "eid": "23908",
+            "pagenum": 472,
+            "content": "पाप्मन्¦ (प्मा) 5. <i>m.</i> Sin."
+        }
     ]
 }

@@ -47,5 +47,29 @@
             "pagenum": 5,
             "content": "मुषक¦ <lex>m.</lex> = मूषक <i>Maus</i> <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मुषक",
+            "eid": "31741",
+            "pagenum": 572,
+            "content": "मुषक¦ m. (-कः) A rat: see मूषक ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मुषक",
+            "eid": "30613",
+            "pagenum": 666,
+            "content": "मुषक¦ m. (-कः) A rat: see मूषक."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मुषक",
+            "eid": "30161",
+            "pagenum": 597,
+            "content": "मुषक¦ (कः) 1. <i>m.</i> A rat."
+        }
     ]
 }

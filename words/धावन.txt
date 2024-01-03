@@ -189,5 +189,45 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> धावन¦ III. <lex>n.</lex> <i>*das Waschenlassen eines Gewandes von einer nicht verwandten Nonne</i> <ls>MAHĀVY. 260,6</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "धावन",
+            "eid": "16157",
+            "pagenum": 223,
+            "content": "2. <i>dhāvana</i>¦ n. *das Waschenlassen eines Gewandes von einer nicht verwandten Nonne, <ls>Mahāvy.</ls> 260, 6. {part=,seq=16402,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "धावन",
+            "eid": "20606",
+            "pagenum": 370,
+            "content": "धावन¦ n. (-नं) 1. Going, motion. 2. Cleansing, purifying. f. (-निः or नी) A sort of creeping plant, (Hedysarum lagopodioides.) E. धाव् to go to cleanse, affix ल्युट् or अनि fem. affix ङीप्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "धावन",
+            "eid": "11191",
+            "pagenum": 341,
+            "content": "<b>dhāvana-</b>¦ <ab>nt.</ab> lavage, blanchissage, nettoyage <lbinfo n='6'/> ; fait d'essuyer, de frotter (d'une pommade). <lbinfo n='4'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "धावन",
+            "eid": "20620",
+            "pagenum": 444,
+            "content": "धावन¦ n. (-नं) .²1 Going, motion. .²2 Cleansing, purifying. f. (-निः) or (-नी) A sort of creeping plant, (<bot>Hedysarum lagopodioides</bot>.) .E. धाव to go, to cleanse, affix ल्युट् or अनि fem. affix ङीप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "धावन",
+            "eid": "20110",
+            "pagenum": 396,
+            "content": "धावन¦ (नं) 1. <i>n.</i> Going; cleansing. <i>f.</i> (निः-नी) A creeper, Hedysarum."
+        }
     ]
 }

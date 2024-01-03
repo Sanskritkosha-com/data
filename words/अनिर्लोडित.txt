@@ -45,5 +45,21 @@
             "pagenum": 7,
             "content": "अनिर्लोडित¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनिर्लोडित",
+            "eid": "2513",
+            "pagenum": 34,
+            "content": "<i>anirloḍita</i>¦ Adj. nicht genau durchforscht, <ls>Śiś.</ls> 2, 27. {part=,seq=2550,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनिर्लोडित",
+            "eid": "1480",
+            "pagenum": 32,
+            "content": "<b>a-nirloḍita-</b>¦ <ab>a.</ab> non exploré à fond."
+        }
     ]
 }

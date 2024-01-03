@@ -57,5 +57,37 @@
             "pagenum": 7,
             "content": "रुद्रावास¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "रुद्रावास",
+            "eid": "22701",
+            "pagenum": 313,
+            "content": "<i>rudrāvāsa</i>¦ <ls>Kāśīkh.</ls> 26, 4. {part=,seq=23020,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "रुद्रावास",
+            "eid": "33779",
+            "pagenum": 607,
+            "content": "रुद्रावास¦ m. (-सः) 1. Benares. 2. Mount Kailāsa. 3. Cemetery."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "रुद्रावास",
+            "eid": "32431",
+            "pagenum": 708,
+            "content": "रुद्रावास¦ n. (-सः) <i>Benares.</i> .E. रुद्र ŚIVA, and आवास abode."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रुद्रावास",
+            "eid": "32005",
+            "pagenum": 633,
+            "content": "रुद्रा_वास¦ (सः) 1. <i>m. Benares.</i>"
+        }
     ]
 }

@@ -15,5 +15,21 @@
             "pagenum": 7,
             "content": "अपस्तन¦ <lex>Adj.</lex> <i>der Mutterbrust entbehrend</i> <ls>MBH. 13,70,16</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपस्तन",
+            "eid": "3527",
+            "pagenum": 48,
+            "content": "<i>apastana</i>¦ Adj. der Mutterbrust entbehrend, <ls>MBh.</ls> 13, 70, 16. {part=,seq=3575,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपस्तन",
+            "eid": "2454",
+            "pagenum": 53,
+            "content": "<b>apa-stana-</b>¦ <ab>a.</ab> privé du sein maternel."
+        }
     ]
 }

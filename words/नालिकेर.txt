@@ -120,5 +120,53 @@
             "pagenum": 5,
             "content": "नालिकेर¦ <div n='1'> 1) <i>Kokosnuss</i> <ls>Ind. St. 5, 298.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "नालिकेर",
+            "eid": "16662",
+            "pagenum": 230,
+            "content": "<i>nālikera</i>¦ (nach dem Ko. °n.) Kokosnuß, <ls>S</ls> I, 168, 3. {part=,seq=16914,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "नालिकेर",
+            "eid": "21461",
+            "pagenum": 386,
+            "content": "नालिकेर¦ m. (-रः) The cocoanut. E. नल् to bind, affix इन, नालि a leaf, &c. क air, wind, and इर what goes; fluttering in the wind. see नारिकेल ।"
+        }
+    ],
+    "SNP": [
+        {
+            "word": "नालिकेर",
+            "eid": "358",
+            "pagenum": 443,
+            "content": "nālikera,¦ nālikerī <div n='P'/>Cocos nucifera Linn."
+        }
+    ],
+    "STC": [
+        {
+            "word": "नालिकेर",
+            "eid": "11529",
+            "pagenum": 358,
+            "content": "<b>nālikera-</b>¦ <ab>m.</ab> <ab>v.</ab> <i>nārikela-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नालिकेर",
+            "eid": "21474",
+            "pagenum": 462,
+            "content": "नालिकेर¦ m. (-रः) The cocoanut. .E. नल to bind, affix इन, नालि a leaf, &c. क air, wind, and इर what goes; fluttering in the wind."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नालिकेर",
+            "eid": "20963",
+            "pagenum": 412,
+            "content": "नालिकेर¦ (रः) 1. <i>m.</i> A cocoanut."
+        }
     ]
 }

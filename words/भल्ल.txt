@@ -165,5 +165,57 @@
             "pagenum": 7,
             "content": "भल्ल¦ <lex>m.</lex> auch <i>ein <ab>best.</ab> Theil des [Page7-365-a] Pfeils</i> <ls>MBH. 8,34,18</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भल्ल",
+            "eid": "20486",
+            "pagenum": 282,
+            "content": "<i>bhalla</i>¦ m. auch ein best. Teil des Pfeiles, <ls>MBh.</ls> 8, 34, 18. {part=,seq=20767,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भल्ल",
+            "eid": "29188",
+            "pagenum": 526,
+            "content": "भल्ल¦ m. (-ल्लः) 1. A bear. 2. An epithet of ŚIVA. mn. (-ल्लः-ल्लं) A kind of arrow. f. (-ल्ली) 1. An arrow, with a crescent-shaped head. 2. The marking-nut plant; also भल्लातकी. E. भल्ल् to hurt or kill, aff. अच् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भल्ल",
+            "eid": "16110",
+            "pagenum": 526,
+            "content": "<b>bhalla-</b>¦ <ab>m.</ab> ours ; flèche ou javelot d'une forme particulière (en demi-lune) ou partie déterminée d'une flèche."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भल्ल",
+            "eid": "28306",
+            "pagenum": 614,
+            "content": "भल्ल¦ r. 1st cl. (भल्लते) .²1 To tell, to describe. .²2 To hurt, to injure, to wound or kill. .²3 To give."
+        },
+        {
+            "word": "भल्ल",
+            "eid": "28307",
+            "pagenum": 614,
+            "content": "भल्ल¦ m. (-ल्लः) A bear. mn. (-ल्लः-ल्लं) A kind of arrow. f. (-ल्ली) .²1 An arrow, with a crescent-shaped head. .²2 The marking nut plant; also भल्लातकी. .E. भल्ल to hurt or kill, aff. अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भल्ल",
+            "eid": "27819",
+            "pagenum": 551,
+            "content": "भल्ल¦ (ङ) भल्लते 1. <i>d.</i> To tell, to describe; to hurt, to kill; to give."
+        },
+        {
+            "word": "भल्ल",
+            "eid": "27820",
+            "pagenum": 551,
+            "content": "भल्ल¦ (ल्लः) 1. <i>m.</i> A bear. <i>m. n.</i> An arrow. <i>f.</i> (ल्ली) <i>Idem;</i> Semicarpus."
+        }
     ]
 }

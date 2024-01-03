@@ -102,5 +102,37 @@
             "pagenum": 5,
             "content": "मारि¦ (von 1. मर्) <lex>f.</lex> <div n='1'> 1) <i>Seuche, Pestilenz</i> <ls>TRIK. 2, 8, 60.</ls> <ls>H. 60, 325.</ls> <i>das Tödten</i> <ls>MED. r. 78.</ls> <div n='1'>— 2) <i>Regen</i> (वर्ष) <ls>MED.</ls> <i>ruin</i> in beiden Ausgaben bei <ls>WILSON</ls> Druckfehler für <i>rain.</i>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मारि",
+            "eid": "21583",
+            "pagenum": 298,
+            "content": "*<i>māri</i>¦ f. das Töten, <ls>Prabandh.</ls> 243, 7 etc. {part=,seq=21879,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मारि",
+            "eid": "31325",
+            "pagenum": 564,
+            "content": "मारि¦ f. (-रिः-री) 1. Killing. 2. Ruin. 3. Plague, epidemic. E. मृ to die, causal form, इ aff.: see मार and मारी ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मारि",
+            "eid": "30240",
+            "pagenum": 658,
+            "content": "मारि¦ f. (-रिः) .²1 Killing. .²2 Ruin. .²3 Plague, epidemic. .E. मृ to die, causal form, इ aff.: see मार and मारी."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मारि",
+            "eid": "29776",
+            "pagenum": 590,
+            "content": "मारि¦ (रिः) 2. <i>f.</i> Death; ruin; plague."
+        }
     ]
 }

@@ -63,5 +63,37 @@
             "pagenum": 7,
             "content": "अयोगुड¦ I. <ls>MBH. 5,155,6</ls>. <ls n='MBH.'>7,178,23</ls>. *<lex>n.</lex> <i>eine <ab>best.</ab> Hölle</i> <ls>MAHĀVY. 215</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अयोगुड",
+            "eid": "4679",
+            "pagenum": 63,
+            "content": "<i>ayoguḍa</i>¦ <ls>MBh.</ls> 5, 155, 6; 7, 178, 23. — *n. eine best. Hölle, <ls>Mahāvy.</ls> 215. {part=,seq=4739,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अयोगुड",
+            "eid": "3094",
+            "pagenum": 54,
+            "content": "अयोगुड¦ m. (-डः) 1. A chalybeate pill, one made of some preparation of iron. 2. An iron ball. E. अयस्, and गुड a ball."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अयोगुड",
+            "eid": "3096",
+            "pagenum": 65,
+            "content": "अयोगुड¦ m. (-डः) .²1 A chalybeate pill, one made of some preparation of iron. .²2 An iron ball. .E. अयस्, and गुड a ball."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अयोगुड",
+            "eid": "2569",
+            "pagenum": 51,
+            "content": "अयो_गुड¦ (डः) 1. <i>m.</i> Chalybeate pill."
+        }
     ]
 }

@@ -165,5 +165,53 @@
             "pagenum": 7,
             "content": "सू/द¦ VII. <ab>Vgl.</ab> <ls>PISCHEL, Vedische Studien 72. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "सूद",
+            "eid": "26911",
+            "pagenum": 369,
+            "content": "<i>sū́da</i>¦ , vgl. <ls>Pischel, Ved. Studien</ls> I, 72 ff. {part=,seq=27271,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सूद",
+            "eid": "44875",
+            "pagenum": 800,
+            "content": "सूद¦ m. (-दः) 1. A cook. 2. Sauce, seasoning. 3. A made dish, anything seasoned. 4. Split pease. 5. Mud, mire. 6. Destroying, massacre. 7. Distilling. 8. A well, a spring. 9. Sin, fault. E. षूद् to leak or distil, affs. अच् or घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सूद",
+            "eid": "23769",
+            "pagenum": 857,
+            "content": "<b>sūda-</b>¦ <ab>m.</ab> cuisinier ; <i>-tā-</i> <ab>f.</ab> <i>-tva-</i> <ab>nt.</ab> métier de cuisiner.   <P><i>°karman-</i> <ab>nt.</ab> = <i>sūdatā-.</i>  <P><i>°śālā-</i> <ab>f.</ab> cuisine."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "सूद",
+            "eid": "3646",
+            "pagenum": 2,
+            "content": "<b>Sūda,</b>¦ according to the St. Petersburg Dictionary, means ‘well’<sup>1</sup> and the ‘mud of a dried-up pool.’<sup>2</sup> Pischel,<sup>3</sup> however, shows clearly that Sūda denotes what is added to Soma to make it fit for use, especially the warm milk, and this sense suits all the passages. Eggeling<sup>4</sup> renders it ‘well,’ and Grassmann ‘sweet drink.’ <F>1) Rv. vii. 36, 3; ix. 97, 4.</F> <F>2) Rv. x. 61, 2; Kāṭhaka Saṃhitā, xvi. 13; Taittirīya brāhmaṇa, i. 1, 3, 5; 2, 1, 3; Śatapatha Brāhmaṇa, viii. 7, 3, 21.</F> <F>3) <i>Vedische Studien,</i> 1, 72, 73.</F> <F>4) <i>Sacred Books of the East,</i> 43, 144. <div n='P'/><i>Cf.</i> Hillebrandt, <i>Vedische Mythologie,</i> 1, 211.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सूद",
+            "eid": "42612",
+            "pagenum": 941,
+            "content": "सूद¦ m. (-दः) .²1 A cook. .²2 Sauce, seasoning. .²3 A made dish, any thing seasoned. .²4 Split pease. .²5 Mud, mire. .E. षद to leak or distil, aff. अच् or घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सूद",
+            "eid": "42402",
+            "pagenum": 863,
+            "content": "सूद¦ (दः) 1. <i>m.</i> A cook; sauce; any thing seasoned; split pease; mud."
+        }
     ]
 }

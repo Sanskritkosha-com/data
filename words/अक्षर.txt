@@ -327,5 +327,57 @@
             "pagenum": 7,
             "content": "अक्षर¦ I. 1. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्षर",
+            "eid": "245",
+            "pagenum": 4,
+            "content": "<i>akṣara</i>¦ 2. 1) zu streichen; vgl. <ls>Zach.</ls> Beitr. {part=,seq=254,type=,n=1}"
+        },
+        {
+            "word": "अक्षर",
+            "eid": "245.1",
+            "pagenum": 4,
+            "content": "<i>akṣara</i>¦ 2. m) Name eines Sāman, <ls>Ārṣ. Br.</ls> {part=,seq=255,type=,n=1}"
+        },
+        {
+            "word": "अक्षर",
+            "eid": "246",
+            "pagenum": 4,
+            "content": "<i>akṣara</i>¦ n. *Gesetz, Recht, <ls>Pūrṇabh.</ls> 125, 23. {part=,seq=256,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अक्षर",
+            "eid": "153",
+            "pagenum": 3,
+            "content": "अक्षर¦ m. (-रः) 1. A name of SIVA. 2. A name of VISHNU. n. (-रं) BRAHMA the supreme being, (in this sense it is sometimes mas.) 2. Eternal beatitude, or exemption from further transmigration. 3. Religious austerity. 4. Moral merit. 5. The sky or atmosphere. 6. A letter of the alphabet. 7. A plant. (Achyranthes aspera.) 8. Water (in the dialect of the Vedas.) mfn. (-रः-रा-रं) 1. Unalterable. 2. Unperishable, undecayable. E. अशू to pervade, and सर Unadi affix."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अक्षर",
+            "eid": "113",
+            "pagenum": 3,
+            "content": "<b>a-kṣara-</b>¦ <ab>a.</ab> qui ne passe pas, inaltérable ; <ab>nt.</ab> (<ab>rar.</ab> <ab>m.</ab>) mot, parole ; syllabe, <ab>not.</ab> la syllabe sacrée Om ; lettre (de l'alphabet), phonème <lbinfo n='4'/> ; <ab>pl.</ab> document écrit ; divinité suprême ; <ab>n.</ab> de divers dieux.  <P><i>°cyutaka-</i> <ab>nt.</ab> restitution d'une syllabe tombée (jeu).  <P><i>°nyāsa-</i> <ab>m.</ab> disposition des lettres, écriture ; <i>vinyāsa-</i> <ab>id.</ab>   <P><i>°mālā-</i> <ab>f.</ab> couronne de lettres (que le destin inscrit sur le front) ; <i>-ikā-</i> <ab>id.</ab>  <P><i>°varjita-</i> <ab>a.</ab> analphabète.  <P><i>°śikṣā-</i> <ab>f.</ab> alphabet, abc ; doctrine du brahman. <lbinfo n='3'/>  <P><i>°samāmnāya-</i> <ab>m.</ab> alphabet."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अक्षर",
+            "eid": "154",
+            "pagenum": 4,
+            "content": "अक्षर¦ m. (-रः) .²1 A name of ŚIVA. .²2 A name of VIṢṆU. n. (-रं) BRAHM, the supreme being, (in this sense it is sometimes <i>mas.</i>) .²2 Eternal beatitude, or exemption from further transmigration. .²3 Religious austerity. .²4 Moral merit. .²5 The sky or atmosphere. .²6 A letter of the alphabet. .²7 A plant. (<bot>Achyranthes aspera</bot>.) .²8 Water (in the dialect of the Vedas.) mfn. (-रः-रा-रं) .²1 Unalterable. .²2 Unperishable, undecayable. .E. अशू to pervade, and सर Uṇādi affix."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अक्षर",
+            "eid": "120",
+            "pagenum": 3,
+            "content": "अ-क्षर¦ (रः) 1. <i>m.</i> Shiva, Vishnu; <i>n.</i> Brahm; a letter; <i>a.</i> (र-रा-रं) unalterable."
+        }
     ]
 }

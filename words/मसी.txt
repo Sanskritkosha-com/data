@@ -80,5 +80,27 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> मसी¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मसी",
+            "eid": "21333",
+            "pagenum": 294,
+            "content": "*<i>masī</i>¦ Nyctanthes arbor tristis, E 835 (P). {part=,seq=21628,type=*,n=2}"
+        },
+        {
+            "word": "मसी",
+            "eid": "21334",
+            "pagenum": 294,
+            "content": "2. <i>masī</i>¦ Adv. mit <i>bhū</i> sich schwarz färben, <ls>Śiś.</ls> 20, 63. {part=,seq=21629,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मसी",
+            "eid": "16589",
+            "pagenum": 555,
+            "content": "<b>masī-</b>¦ (<i>-ī-</i>) <ab>v.</ab> <i>maṣī/i-</i> ; <i>m. -bhū-</i> devenir noir, noircir."
+        }
     ]
 }

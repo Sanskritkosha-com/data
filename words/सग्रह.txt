@@ -59,5 +59,21 @@
             "pagenum": 7,
             "content": "सग्रह¦ VII. <i>von Dämon ergriffen, verfinstert</i> (Mond) <ls>R. 7,44,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सग्रह",
+            "eid": "25594",
+            "pagenum": 351,
+            "content": "<i>sagraha</i>¦ vom Dämon ergriffen, verfinstert (Mond), <ls>R. 7, 44, 15.</ls> {part=,seq=25939,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सग्रह",
+            "eid": "21011",
+            "pagenum": 763,
+            "content": "<b>sa-graha-</b>¦ <ab>a.</ab> infesté par des crocodiles ; saisi par Rāhu, i. e. éclipsé (dit de la lune)."
+        }
     ]
 }

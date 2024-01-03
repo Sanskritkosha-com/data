@@ -15,5 +15,21 @@
             "pagenum": 7,
             "content": "अभिमुनि¦ <lex>Adv.</lex> <i>vor den Augen des</i> <is>Muni</is> <ls>KIR. 10,45</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभिमुनि",
+            "eid": "4139",
+            "pagenum": 57,
+            "content": "<i>abhimuni</i>¦ Adv. vor den Augen des Muni, <ls>Kir.</ls> 10, 45. {part=,seq=4195,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभिमुनि",
+            "eid": "3073",
+            "pagenum": 65,
+            "content": "<b>abhi-muni</b>¦ <ab>adv.</ab> devant le Muni."
+        }
     ]
 }

@@ -202,5 +202,59 @@
             "pagenum": 7,
             "content": "भास¦ <lex>adj.</lex> von भास <div n='1'> 2) <ls>PAT. a. a. O. 4,88,a.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "भास",
+            "eid": "20585",
+            "pagenum": 284,
+            "content": "<i>bhāsa</i>¦ m. ? [pw: 'ein best. Raubvogel'; Apte: a cock; a vulture], <ls>Pūrṇabh.</ls> 180, 13. {part=,seq=20868,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भास",
+            "eid": "29417",
+            "pagenum": 531,
+            "content": "भास¦ mf. (-सः-सा) Light, lustre, shining. m. (सः) 1. A vulture. 2. A sort of bird described as a water-fowl. 3. A cock. 4. A station of cowherds. 5. Fancy. E. भास् to shine, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "भास",
+            "eid": "16207",
+            "pagenum": 531,
+            "content": "<b>bhāsa-</b>¦ <ab>m.</ab> lumière, splendeur ; sorte d'oiseau <lbinfo n='4'/> de proie, vautour ; <ab>n.</ab> d'un auteur dramatique <lbinfo n='7'/> (<i>-ka-</i> <ab>id.</ab>) ; fils d'un ministre du roi Candraprabha ; <ab>n.</ab> d'un Dānava ; d'une montagne <lbinfo n='5'/> ; <i>-ī-</i> <ab>f.</ab> mère des vautours ; fille de Prādhā ; <i>-tā-</i> <ab>f.</ab> fait d'être un oiseau de proie.  <P><i>°karṇa-</i> <ab>m.</ab> <ab>n.</ab> d'un Rākṣasa."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "भास",
+            "eid": "2269",
+            "pagenum": 2,
+            "content": "<b>Bhāsa</b>¦ is the name of a bird of prey in the Adbhuta Brāhmaṇa,<sup>1</sup> and often in the Epic. <F>1) vi. 8, See Weber, <i>Indische Studien,</i> 1, 40.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भास",
+            "eid": "28518",
+            "pagenum": 619,
+            "content": "भास(ऋ)भासृ¦ r. 1st cl. (भासते) To shine. <div n='p'>With प्र and नि prefixed, To appear to, to seem likely or probable to."
+        },
+        {
+            "word": "भास",
+            "eid": "28520",
+            "pagenum": 619,
+            "content": "भास¦ mf. (-सः-सा) Light, lustre, shining. m. (-सः) .²1 A vulture. .²2 A sort of bird, described as a water-fowl. .²3 A cock. .²4 A station of cowherds. .E. भास to shine, अप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भास",
+            "eid": "28032",
+            "pagenum": 555,
+            "content": "भास¦ (सः-सा) 1. <i>m. f.</i> Light. <i>m.</i> A vulture; a cock; a cow-pen."
+        }
     ]
 }

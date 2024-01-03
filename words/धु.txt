@@ -137,5 +137,61 @@
             "pagenum": 3,
             "content": "2. धु¦ (= 1. धु) <lex>f.</lex> <i>das Schütteln, Bewegen</i> <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "धु",
+            "eid": "20648",
+            "pagenum": 371,
+            "content": "धु (ञ) धुञ्¦ r. 7th cl. (धुनोति-धुनुते) To shake, to agitate: see धू कम्पने अक चालने सक० स्वादि० उभ० अनिट् ।"
+        },
+        {
+            "word": "धु",
+            "eid": "20649",
+            "pagenum": 371,
+            "content": "धु¦ f. (-धुः) Shaking, trembling. E. धु to shake भावे डु aff."
+        },
+        {
+            "word": "धु",
+            "eid": "20674",
+            "pagenum": 371,
+            "content": "धु[धू] (ञ) धूञ्¦ r. 5th cl. (धूनोति-धूनुते) r. 6th cl. धूवति r. 9th cl. (धनाति धुनिते) r. 1st and 10th cls. धवति-ते-धावयति-ते or धूनयति) To shake or agitate, to make tremble; with अव, prefixed, 1. To abandon, to quit 2. To perceive. With निर् 1. To destroy. 2. To go or move. With वि to make tremble or agitate. स्वा० क्य्रा० स्वादि० उभ० सक० अनिट् । उभ० पक्षे तुदा० कु० पर० सक० सेट् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "धु",
+            "eid": "11213",
+            "pagenum": 342,
+            "content": "<b>DHU-</b>¦ <ab>v.</ab> <i>DHŪ-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "धु",
+            "eid": "20662",
+            "pagenum": 445,
+            "content": "धु¦ (ञ) धुञ् r. 7th cl. (धुनोति धुनुते) To shake, to agitate: see धू."
+        },
+        {
+            "word": "धु",
+            "eid": "20663",
+            "pagenum": 445,
+            "content": "धु¦ f. (धुः) Shaking, trembling. .E. धु to shake, क्विप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "धु",
+            "eid": "20153",
+            "pagenum": 396,
+            "content": "धु¦ (न, ञ) धुनोति, नुते 5. <i>a.</i> To shake."
+        },
+        {
+            "word": "धु",
+            "eid": "20154",
+            "pagenum": 397,
+            "content": "धु¦ (धुः) 2. <i>f.</i> Shaking."
+        }
     ]
 }

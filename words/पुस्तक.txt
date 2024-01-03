@@ -105,5 +105,37 @@
             "pagenum": 7,
             "content": "पुस्तक¦ (Nachträge), schalte <ls>Verz. d. Oxf. H. vor 217,a,10</ls> ein."
         }
+    ],
+    "SHS": [
+        {
+            "word": "पुस्तक",
+            "eid": "25570",
+            "pagenum": 463,
+            "content": "पुस्तक¦ nf. (-कं-की) A book, a manuscript. E. कन् added to the last."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पुस्तक",
+            "eid": "13916",
+            "pagenum": 443,
+            "content": "<b>pustaka-</b>¦ <ab>m.</ab> <ab>nt.</ab> <i>-ikā-</i> <ab>f.</ab> manuscrit, livre."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पुस्तक",
+            "eid": "25293",
+            "pagenum": 547,
+            "content": "पुस्तक¦ nf. (-कं-की) A book, a manuscript. .E. कन् added to the last."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पुस्तक",
+            "eid": "24775",
+            "pagenum": 490,
+            "content": "पुस्तक¦ (कं-की) 1. <i>n.</i> 3. <i>f.</i> A book."
+        }
     ]
 }

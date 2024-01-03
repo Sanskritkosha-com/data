@@ -70,5 +70,19 @@
             "pagenum": 948,
             "content": "¦ of a daughter of king <s1 slp1='BUmi-Sukla'>Bhūmi-śukla</s1>, <ls>Buddh.</ls><info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वासन्ती",
+            "eid": "23602",
+            "pagenum": 326,
+            "content": "<i>vāsantī</i>¦ *Gaertnera racemosa, <ls>S</ls> I, 106, 12 (Ko.) {part=,seq=23931,type=,n=1}"
+        },
+        {
+            "word": "वासन्ती",
+            "eid": "23602.1",
+            "pagenum": 326,
+            "content": "<i>Vāsantī</i>¦ N. °einer adligen Frau, <ls>Śṛṅgt.</ls> 7, 8. {part=,seq=23932,type=,n=3}"
+        }
     ]
 }

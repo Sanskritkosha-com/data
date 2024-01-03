@@ -65,5 +65,37 @@
             "pagenum": 2,
             "content": "कसिपु¦ = कशिपु <ls>H. 685.</ls> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "कसिपु",
+            "eid": "10242",
+            "pagenum": 141,
+            "content": "°<i>kasipu</i>¦ = <i>kaśipu</i>, <ls>S</ls> II, 355, 3/4. {part=,seq=10391,type=°,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कसिपु",
+            "eid": "9704",
+            "pagenum": 168,
+            "content": "कसिपु¦ m. (-पुः) Food, boiled rice: see कशिपु."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कसिपु",
+            "eid": "9709",
+            "pagenum": 205,
+            "content": "कसिपु¦ m. (-पुः) Food, boiled rice: see कशिपु."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कसिपु",
+            "eid": "9147",
+            "pagenum": 172,
+            "content": "कसिपु¦ (पुः) 2. <i>m.</i> Food, boiled rice."
+        }
     ]
 }

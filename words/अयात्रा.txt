@@ -23,5 +23,21 @@
             "pagenum": 7,
             "content": "अयात्रा¦ I. An der entsprechenden Stelle <ls>R. ed. Bomb. 4,28,60</ls> <i>Unmöglichkeit zu reisen, — fortzukommen</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अयात्रा",
+            "eid": "4643",
+            "pagenum": 63,
+            "content": "<i>ayātrā</i>¦ <ls>R. ed. Bomb.</ls> 4, 28, 60 Unmöglichkeit zu reisen, -x- fortzukommen. {part=,seq=4703,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अयात्रा",
+            "eid": "3670",
+            "pagenum": 77,
+            "content": "<b>a-yātrā-</b>¦ <ab>f.</ab> fait de n'être pas traversable (dit de la mer) ; impossibilité de voyager."
+        }
     ]
 }

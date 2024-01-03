@@ -151,5 +151,45 @@
             "pagenum": 5,
             "content": "द्वादश¦ <div n='1'> 2) <ls>TBR. 1, 1, 9, 10.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "द्वादश",
+            "eid": "20056",
+            "pagenum": 359,
+            "content": "द्वादश¦ mf. (-शः-शी) Twelfth. f. (-शी) The twelfth day of the half month E. द्वादशन्, and टच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "द्वादश",
+            "eid": "11062",
+            "pagenum": 332,
+            "content": "<b>dvā-daśa(n)-</b>¦ <ab>num.</ab> <ab>pl.</ab> 12 ; <ab>a.</ab> (<ab>f.</ab> <i>-ī-</i>) 12{^me^} ; <ab>ifc.</ab> (<ab>f.</ab> <i>-ā-</i>) formant 12 avec ; <ab>f.</ab> <i>-ī-</i> 12{^me^} jour de la quinzaine ; <i>-ka- -ī-</i> <ab>a.</ab> 12{^me^} ; (amende) de 12 paṇa ; <i>-ma- -ī-</i> <ab>a.</ab> 12{^me^} ; <i>-ika-</i> <ab>a.</ab> qui a lieu le 12{^me^} jour ou le 12{^me^} jour de la quinzaine. <lbinfo n='5'/>  <P><i>°pada-</i> <ab>a.</ab> de 12 mots.  <P><i>°varṣa-</i> <i>°vā̆rṣika-</i> <ab>a.</ab> âgé de 12 ans ; qui dure 12 ans.  <P><i>°śatatama-</i> <ab>a.</ab> 112{^me^}.  <P><i>°sāhasra-</i> <i>-ī-</i> <ab>a.</ab> de 12.000.  <P><i>dvādaśākṛti-</i> <ab>a.</ab> ayant 12 formes.  <P><i>dvādaśātman-</i> (<ab>id.</ab>) <ab>m.</ab> soleil.  <P><i>dvādaśāra-</i> <ab>a.</ab> (roue) à 12 rayons (symbolisant <lbinfo n='6'/> l'année).  <P><i>dvādaśāha-</i> <ab>m.</ab> période ou cérémonie de 12 jours.  <P><i>dvādaśī-vrata-</i> <ab>nt.</ab> <ab>n.</ab> d'une observance pratiquée <lbinfo n='6'/> le 12{^me^} jour de la quinzaine."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "द्वादश",
+            "eid": "1409",
+            "pagenum": 1,
+            "content": "<b>Dvādaśa,</b>¦ ‘consisting of twelve,’<sup>1</sup> is used of the year in the Rigveda (vii. 103, 9). See <b>Nakṣatra.</b> <F>1) <i>Cf.</i> Oldenberg, <i>Zeitschrift der Deutschen Morgenländischen Gesellschaft,</i> 48, 645 <i>et seq.</i></F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "द्वादश",
+            "eid": "20070",
+            "pagenum": 432,
+            "content": "द्वादश¦ mfn. (-शः-शी) Twelfth. f. (-शी) The twelfth day of the half month. .E. द्वादशन्, and टच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "द्वादश",
+            "eid": "19555",
+            "pagenum": 385,
+            "content": "द्वा-दश¦ (शः-शी-शं) <i>a.</i> Twelve or twelfth <i>f.</i> Twelfth of the half month."
+        }
     ]
 }

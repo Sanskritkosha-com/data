@@ -234,5 +234,69 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> ह्री¦ VII. <ls>MAITR. S. 1,9,8 (139,17)</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ह्री",
+            "eid": "27659",
+            "pagenum": 379,
+            "content": "1. <i>hrī</i>¦ , <ls>Maitr. S.</ls> 1, 9, 8 (139, 17). {part=,seq=28030,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ह्री",
+            "eid": "47274",
+            "pagenum": 839,
+            "content": "ह्री¦ r. 3rd cl. (-जिह्रेति) To be modest, to blush. 2. To be ashamed of, (with an ablative or genitive.)"
+        },
+        {
+            "word": "ह्री",
+            "eid": "47275",
+            "pagenum": 839,
+            "content": "ह्री¦ f. (-ह्रीः) Shame, bashfulness. E. ह्री to be ashamed, aff. क्विप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "ह्री",
+            "eid": "24557",
+            "pagenum": 894,
+            "content": "<b>1 HRĪ-</b>¦ <i>jihreti ; jihrāya ; jehrīyate hrepayati</i><i> ; hrīta-</i> <i>hrīṇa-</i> -- avoir honte, rougir, être honteux de <ab>qq'un</ab> (<ab>gén.</ab>), de <ab>qqch.</ab> (<ab>abl.</ab>) ; <ab>caus.</ab> faire honte, faire rougir ; <ab>fig.</ab> surpasser ; <ab>a. v.</ab> honteux, pudique, modeste."
+        },
+        {
+            "word": "ह्री",
+            "eid": "24558",
+            "pagenum": 894,
+            "content": "<b>2 hrī-</b>¦ <ab>f.</ab> honte, fausse honte, pudeur, modestie ; Pudeur personnifiée ; <i>-mant-</i> <ab>a.</ab> pudique, modeste, embarrassé.  <P><i>°niṣeva-</i> <ab>a.</ab> modeste, pudique.  <P><i>°pada-</i> <ab>nt.</ab> motif de honte.  <P><i>°mūḍha-</i> <ab>a.</ab> confondu de honte.  <P><i>°yantraṇā-</i> <ab>f.</ab> contrainte due à la honte."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ह्री",
+            "eid": "44545",
+            "pagenum": 981,
+            "content": "ह्री¦ r. 3rd cl. (जिह्रेति) To be modest or ashamed."
+        },
+        {
+            "word": "ह्री",
+            "eid": "44546",
+            "pagenum": 981,
+            "content": "ह्री¦ f. (-ह्रीः) Shame, bashfulness. .E. ह्री to be ashamed, aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ह्री",
+            "eid": "44383",
+            "pagenum": 907,
+            "content": "ह्री¦ जिह्रेति 3. <i>a.</i> To be bashful."
+        },
+        {
+            "word": "ह्री",
+            "eid": "44384",
+            "pagenum": 907,
+            "content": "ह्री¦ (ह्रीः) 3. <i>f.</i> Shame, bashfulness."
+        }
     ]
 }

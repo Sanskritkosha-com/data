@@ -39,5 +39,41 @@
             "pagenum": 3,
             "content": "तिम¦ <lex>m.</lex> = तिमि 1. <ls>BHAR.</ls> zu <ls>DVIRŪPAK.</ls> <ls>WILS.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "तिम",
+            "eid": "17464",
+            "pagenum": 313,
+            "content": "तिम¦ r. 4th cl. (तिम्यति) To be or become wet, damp, &c. E. दिवा० प सक० सेट् ।"
+        },
+        {
+            "word": "तिम",
+            "eid": "17465",
+            "pagenum": 313,
+            "content": "तिम¦ m. (-मः) A fish: see the next."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तिम",
+            "eid": "17481",
+            "pagenum": 376,
+            "content": "तिम¦ r. 4th cl. (तिम्यति) To be or become wet, damp, &c."
+        },
+        {
+            "word": "तिम",
+            "eid": "17482",
+            "pagenum": 376,
+            "content": "तिम¦ m. (-मः) A fish: see the next."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तिम",
+            "eid": "16954",
+            "pagenum": 332,
+            "content": "तिम¦ (मः) 1. <i>m.</i> A fish."
+        }
     ]
 }

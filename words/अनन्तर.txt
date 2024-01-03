@@ -202,5 +202,51 @@
             "pagenum": 7,
             "content": "अनन्तर¦ I. 1. 4. <lex>m.</lex> <i>der nächst jüngere Bruder nach</i> (<ab>Abl.</ab>) <ls>MBH. 7,40,36</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनन्तर",
+            "eid": "2046",
+            "pagenum": 28,
+            "content": "<i>anantara</i>¦ 1. b) mit Akk. und <i>prati</i>, <ls>R. 2, 65, 12.</ls> — 1. e) nicht ablassend von (Abl.), <ls>Āpast.</ls> {part=,seq=2077,type=,n=1}"
+        },
+        {
+            "word": "अनन्तर",
+            "eid": "2046.1",
+            "pagenum": 28,
+            "content": "<i>anantara</i>¦ m. der nächst jüngere Bruder nach (Abl.), <ls>MBh.</ls> 7, 40, 36. {part=,seq=2078,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनन्तर",
+            "eid": "1208",
+            "pagenum": 22,
+            "content": "अनन्तर¦ mfn. (-रः-रा-रं) 1. Next, immediately following. 2. Next of kin or in succession. 3. Close, compact. n. (-रं) Extreme propinquity E. अन् neg. and अन्तर between; having nothing intermediate."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनन्तर",
+            "eid": "1199",
+            "pagenum": 26,
+            "content": "<b>an-antara-</b>¦ <ab>a.</ab> sans intérieur, sans intériorité <lbinfo n='7'/> ; qui suit immédiatement (dans l'espace, <lbinfo n='4'/> le rang, le temps) ; <i>-am</i> juste à côté, tout de suite après ; <ab>prép.</ab> aussitôt après (<ab>gén.</ab> <ab>abl.</ab>) ; <ab>m.</ab> frère qui suit immédiatement en âge (<ab>abl.</ab>).  <P><i>°ja-</i> <ab>a.</ab> cadet ; né d'une femme dont la caste suit immédiatement celle du père ; <i>°jāta-</i> <ab>a. v.</ab> <ab>id.</ab>  <P><i>°jña-</i> <ab>a.</ab> qui ne connaît pas de différence."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनन्तर",
+            "eid": "1210",
+            "pagenum": 26,
+            "content": "अनन्तर¦ mfn. (-रः-रा-रं) .²1 Next, immediately following. .²2 Next of kin or in succession. .²3 Close, compact. n. (-रं) Extreme propinquity. .E. अन् neg. and अन्तर between; having nothing intermediate."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनन्तर",
+            "eid": "1012",
+            "pagenum": 21,
+            "content": "अन_न्तर¦ (रं) 1. <i>n.</i> Extreme propinquity. <i>a.</i> Near, next. <i>adv.</i> After."
+        }
     ]
 }

@@ -128,5 +128,53 @@
             "pagenum": 7,
             "content": "सदस्य¦ VII. <i>ein zum gelehrten Hofkreis Gehöriger</i> <ls><ab>ebend.</ab> 23</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सदस्य",
+            "eid": "25732",
+            "pagenum": 353,
+            "content": "<i>sadasya</i>¦ ein zum gelehrten Hofkreis Gehöriger, <ls>Jātakam.</ls> 23. {part=,seq=26079,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सदस्य",
+            "eid": "42174",
+            "pagenum": 755,
+            "content": "सदस्य¦ m. (-स्यः) 1. An assistant or by-stander at a sacrifice, &c., one whose business it is to notice and correct mistakes. 2. Any person present at an assembly, a spectator, an assessor, a member, &c. E. सदस् an assembly, यत् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "सदस्य",
+            "eid": "21253",
+            "pagenum": 773,
+            "content": "<b>sadasya-</b>¦ <ab>a.</ab> qui se tient sous l'abri (sacrificiel) <lbinfo n='6'/> ; <ab>m.</ab> prêtre dont la seule fonction consiste <lbinfo n='5'/> à surveiller le sacrifice."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "सदस्य",
+            "eid": "3452",
+            "pagenum": 2,
+            "content": "<b>Sadasya.</b>¦ See <b>Ṛtvij.</b>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सदस्य",
+            "eid": "40184",
+            "pagenum": 886,
+            "content": "सदस्य¦ m. (-स्यः) .²1 An assistant or by-stander at a sacrifice, &c. one whose business it is to notice and correct mistakes. .²2 Any person present at an assembly, a spectator, an assessor, a member, &c. .E. सदस् an assembly, यत् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सदस्य",
+            "eid": "39879",
+            "pagenum": 807,
+            "content": "सदस्य¦ (स्यः) 1. <i>m.</i> An assistant at a sacrifice; a member of an assembly."
+        }
     ]
 }

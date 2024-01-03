@@ -31,5 +31,21 @@
             "pagenum": 5,
             "content": "प्रतट¦ <i>ein hohes Ufer</i> <ls>ŚIŚ. 20,70</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रतट",
+            "eid": "19111",
+            "pagenum": 263,
+            "content": "<i>prataṭa</i>¦ ein hohes Ufer, <ls>Śiś.</ls> 20, 70. {part=,seq=19383,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रतट",
+            "eid": "14271",
+            "pagenum": 456,
+            "content": "<b>pra-taṭa-</b>¦ <ab>m.</ab> <ab>nt.</ab> rivage élevé."
+        }
     ]
 }

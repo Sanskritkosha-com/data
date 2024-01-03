@@ -91,5 +91,29 @@
             "pagenum": 5,
             "content": "1. एकदेश¦ <ls>KĀTY. ŚR. 14, 2, 14.</ls> <i>eine nicht näher bestimmte Stelle</i> <ls>KATHĀS. 54, 11.</ls> <ls n='KATHĀS.'>74, 3.</ls> <ls n='KATHĀS.'>97, 7.</ls> मुनिश्चात्रैकदेशस्थः <i>irgendwo</i> <ls n='KATHĀS.'>117, 132.</ls> <i>ein und derselbe Ort</i> <ls>KAP. 1, 29.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "एकदेश",
+            "eid": "8111",
+            "pagenum": 140,
+            "content": "एकदेश¦ m. (-शः) A part, a portion, a division. E. एक and देश place."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "एकदेश",
+            "eid": "8115",
+            "pagenum": 170,
+            "content": "एकदेश¦ m. (-शः) A part, a portion, a division. .E. एक and देश place."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "एकदेश",
+            "eid": "7533",
+            "pagenum": 140,
+            "content": "एक-देश¦ (शः) 1. <i>m.</i> A part; division."
+        }
     ]
 }

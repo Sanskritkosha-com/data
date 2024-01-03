@@ -158,5 +158,45 @@
             "pagenum": 7,
             "content": "तुरग¦ III. <lex>Adj.</lex> <i>schnell gehend</i> <ls>DAMAYANTĪK. 32</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तुरग",
+            "eid": "14664",
+            "pagenum": 202,
+            "content": "<i>turaga</i>¦ Adj. schnell gehend, <ls>Damayantīk.</ls> 32. — m. °eine Art nāyaka, E 163 (K). 170 (A). 171 (S). 346 (A); <ls>Śārṅg.</ls> 3122. — °eine Pflanze [Physalis flexuosa?], E 887 (P). {part=,seq=14897,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तुरग",
+            "eid": "17643",
+            "pagenum": 316,
+            "content": "तुरग¦ m. (-गः) 1. A horse. 2. The mind. E. त्वर speed, velocity, and ग what goes, व changed to उ. f. (-गी) 1. A plant, (Physalis flexuosa:) see अश्वगन्ध. 2. A mare. E. ङीष् added to तुरग तुरेण वेगेन गच्छति गम-ड ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "तुरग",
+            "eid": "10086",
+            "pagenum": 286,
+            "content": "<b>tura-ga-</b>¦ (qui va vite) <ab>m.</ab> cheval ; <ab>n.</ab> d'un prêtre.  <P><i>°kāntā-</i> <ab>f.</ab> jument ; <i>°kāntā-mukha-</i> (gueule de jument) <ab>m.</ab> feu sous-marin.  <P><i>°paricāraka-</i> <ab>m.</ab> garçon d'écurie, palefrenier. <lbinfo n='7'/>  <P><i>°mukha-</i> <ab>m.</ab> <ab>n.</ab> d'un Kiṃnara.  <P><i>°medha-</i> <ab>m.</ab> sacrifice de cheval.  <P><i>°vāhyālī-</i> <ab>f.</ab> école d'équitation, piste pour les chevaux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तुरग",
+            "eid": "17660",
+            "pagenum": 380,
+            "content": "तुरग¦ m. (-गः) .²1 A horse. .²2 The mind. .E. त्वर speed, velocity, and ग what goes, व changed to उ. f. (-गी) .²1 A plant, (<bot>Physalis flexuosa</bot>:) see अश्वगन्ध. .²2 A mare. .E. ङीष् added to तुरग."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तुरग",
+            "eid": "17136",
+            "pagenum": 336,
+            "content": "तुरग¦ (गः) 1. <i>m.</i> A horse; the mind. <i>f.</i> (गी) Physalis flexuosa; a mare."
+        }
     ]
 }

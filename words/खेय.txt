@@ -100,5 +100,37 @@
             "pagenum": 2,
             "content": "खे/य¦ (von खन्) <ls>P. 3, 1, 111.</ls> <ls>VOP. 26, 5.</ls> <div n='1'> 1) <lex>adj.</lex> <i>zu graben</i> <ls>NĀRADA</ls> in <ls>MIT. 244, 14. 15.</ls> <ls>BHAṬṬ. 6, 56.</ls> <div n='1'>— 2) <lex>n.</lex> <i>Graben</i> <ls>AK. 1, 2, 3, 28.</ls> <ls>H. 1095.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "खेय",
+            "eid": "11939",
+            "pagenum": 164,
+            "content": "<i>kheya</i>¦ *n. Graben, <ls>S</ls> I, 378, 4. {part=,seq=12121,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "खेय",
+            "eid": "12893",
+            "pagenum": 226,
+            "content": "खेय¦ mfn. (-यः-या-यं) To be dug. n. (-यं) A ditch, a moat. E. खन् to dig, affix क्यप्."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खेय",
+            "eid": "12899",
+            "pagenum": 275,
+            "content": "खेय¦ mfn. (-यः-या-यं) To be dug. n. (-यं) A ditch, a moat. .E. खत to dig, affix क्यप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खेय",
+            "eid": "12351",
+            "pagenum": 239,
+            "content": "खेय¦ (यं) 1. <i>n.</i> A ditch, a moat. <i>a.</i> That may be dug."
+        }
     ]
 }

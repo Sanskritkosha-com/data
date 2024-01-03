@@ -39,5 +39,37 @@
             "pagenum": 7,
             "content": "सालन¦ <lex>m.</lex> <ab>s.</ab> शालन."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सालन",
+            "eid": "26490",
+            "pagenum": 364,
+            "content": "<i>sālana</i>¦ ? <ls>S</ls> I, 516, 10 v.u. (Ko.) {part=,seq=26846,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "सालन",
+            "eid": "43852",
+            "pagenum": 784,
+            "content": "सालन¦ m. (-नः) The resin of the Sāl tree."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "सालन",
+            "eid": "41714",
+            "pagenum": 921,
+            "content": "सालन¦ m. (-नः) The resin of the <i>Śāl</i> tree."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "सालन",
+            "eid": "41464",
+            "pagenum": 842,
+            "content": "सालन¦ (नः) 1. <i>m.</i> The resin of the <i>Sāl</i> tree."
+        }
     ]
 }

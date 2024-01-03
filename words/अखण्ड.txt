@@ -118,5 +118,37 @@
             "pagenum": 5,
             "content": "अखण्ड¦ <ls>Spr. 1754.</ls> <ls>WEBER, RĀMAT. UP. 350. 354.</ls> °तिथि <ls>Verz. d. Oxf. H. 283, No. 662.</ls> °द्वादशी <ls n='Verz. d. Oxf. H.'>34,b,15.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अखण्ड",
+            "eid": "196",
+            "pagenum": 4,
+            "content": "अखण्ड¦ mfn. (-ण्डः-ण्डा-ण्डं) All, entire. E. अ neg. and खण्ड a part."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अखण्ड",
+            "eid": "127",
+            "pagenum": 4,
+            "content": "<b>a-khaṇḍa-</b>¦ <ab>a.</ab> non divisé, entier ; intégral ; <i>-am</i> sans interruption.  <P><i>°kala-</i> <ab>a.</ab> (lune) pleine."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अखण्ड",
+            "eid": "197",
+            "pagenum": 5,
+            "content": "अखण्ड¦ mfn. (-ण्डः-ण्डा-ण्डं) All, entire. .E. अ neg. and खण्ड a part."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अखण्ड",
+            "eid": "164",
+            "pagenum": 4,
+            "content": "अ-खण्ड¦ (ण्डः-ण्डा-ण्डं) <i>a.</i> Unbroken, entire, full, complete."
+        }
     ]
 }

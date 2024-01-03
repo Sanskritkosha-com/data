@@ -198,5 +198,51 @@
             "pagenum": 7,
             "content": "विप्लव¦ auch <i>Schändung des</i> <is>Veda</is> <i>durch unzeitiges Studium</i> <ls>MIT.</ls> zu <ls>YĀJÑ. 3,289. fg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "विप्लव",
+            "eid": "23974",
+            "pagenum": 331,
+            "content": "<i>viplava</i>¦ auch Schändung des Veda durch unzeitiges Studium, Mit. zu <ls>Yājñ.</ls> 3, 289 f. {part=,seq=24306,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विप्लव",
+            "eid": "37076",
+            "pagenum": 664,
+            "content": "विप्लव¦ m. (-वः) 1. Tumult, confusion, trouble. 2. Evil, calamity. 3. Rapine, extortion. 4. Sin, wickedness. 5. Predatory or irregular warfare. 6. Affray, scuffle. 7. Terrifying an enemy by shouts and gestures. 8. Confusion, perplexity, (of thought or speech.) 9. Floating about. 10. The rust, (of a mirror.) 11. Loss, destruction. E. वि before, प्लु to go, aff. अप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विप्लव",
+            "eid": "18881",
+            "pagenum": 666,
+            "content": "<b>1 vi-plava-</b>¦ <ab>a.</ab> privé de bateau."
+        },
+        {
+            "word": "विप्लव",
+            "eid": "18882",
+            "pagenum": 666,
+            "content": "<b>2 vi-plava-</b>¦ <ab>m.</ab> confusion, trouble, détresse <lbinfo n='6'/> : misère, malheur, ruine ; émeute ; viol ; <ab>a.</ab> confus ; <i>-in-</i> <ab>a.</ab> transitoire, fugitif."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विप्लव",
+            "eid": "35438",
+            "pagenum": 776,
+            "content": "विप्लव¦ m. (-वः) .²1 Tumult, confusion, trouble. .²2 Evil, calamity. .²3 Rapine, extortion. .²4 Sin, wickedness. .²5 Predatory or irregular warfare. .²6 Affray, scuffle. .²7 Terrifying an enemy by shouts and gestures. .²8 Confusion, perplexity, (of thought or speech.) .E. वि before प्लु to go, aff. अप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विप्लव",
+            "eid": "35031",
+            "pagenum": 696,
+            "content": "वि-प्लव¦ (वः) 1. <i>m.</i> Scuffle, uproar, tumult, feud; predatory attack; alarm; extortion; calamity; sin; perplexity."
+        }
     ]
 }

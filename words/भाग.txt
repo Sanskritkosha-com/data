@@ -272,5 +272,45 @@
             "pagenum": 7,
             "content": "भाग¦ auch <lex>n.</lex> in भूमि°."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भाग",
+            "eid": "20517",
+            "pagenum": 283,
+            "content": "<i>bhāga</i>¦ auch n. in <i>bhūmi°</i>. {part=,seq=20798,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भाग",
+            "eid": "29267",
+            "pagenum": 527,
+            "content": "भाग¦ m. (-गः) 1. A portion, a share, a part. 2. Fate, fortune, luck. 3. A half-rupee. 4. Part of any thing given as interest. 5. A division of time, the thirtieth part of a Rasi or zodiacal sign. 6. A degree, the 360th part of the circumference of a great circle. 7. A fraction. 8. The quotient, (in math.) 9. Place, spot. 10. Room. E. भज् to share, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "भाग",
+            "eid": "16139",
+            "pagenum": 527,
+            "content": "<b>bhāga-</b>¦ <ab>m.</ab> part, portion, quote-part, lot ; destinée, <ab>not.</ab> bonne, fortune ; fraction (<ab>ord.</ab> accompagné d'un <ab>num.</ab> ordinal ou <ab>ifc.</ab> avec <ab>num.</ab> cardinal) ; partie (<ab>not.</ab> localisée), région, <lbinfo n='4'/> endroit, côté, point de l'horizon (<ab>qqf.</ab> <ab>nt.</ab>) ; <i>-ka-</i> <ab>a.</ab> <ab>ifc.</ab> qui participe à, qui a une part de ; <i>-śas</i> en parties (<i>-śaḥ kḷp-</i> partager, répartir), par portions, tour à tour, graduellement <lbinfo n='4'/> ; <i>-ī-kṛ-</i> partager, répartir.  <P><i>°dheya-</i> <ab>nt.</ab> part, portion, lot ; ce à quoi on a droit, propriété ; destinée, bonne fortune, prospérité, bonheur ; part du roi, impôt (aussi <ab>m.</ab> ou <i>-ā-</i> <ab>f.</ab>).  <P><i>°bhāj-</i> <ab>ag.</ab> qui participe, partenaire.  <P><i>°hara-</i> <i>°hārin-</i> <ab>a.</ab> qui obtient une part, qui cohérite.  <P><i>bhāgānubhāgena</i> <ab>adv.</ab> dans des proportions différentes.  <P><i>bhāgārthin-</i> <ab>a.</ab> qui demande à participer (<ab>not.</ab> à un sacrifice)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भाग",
+            "eid": "28384",
+            "pagenum": 616,
+            "content": "भाग¦ m. (-गः) .²1 A portion, a share, a part. .²2 Fate, fortune, luck. .²3 A half rupee. .²4 Part of any thing given as interest. .²5 A division of time, the thirtieth part of a <i>Rāśi</i> or zodiacal sign. .²6 A degree, the 360th part of the circumference of a great circle. .²7 A fraction. .E. भज to share, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भाग",
+            "eid": "27898",
+            "pagenum": 552,
+            "content": "भाग¦ (गः) 1. <i>m.</i> A fortune."
+        }
     ]
 }

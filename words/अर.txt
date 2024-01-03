@@ -248,5 +248,65 @@
             "pagenum": 5,
             "content": "2. अर¦ <lex>m.</lex> <i>Wind</i> <ls>H. ś. 171.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अर",
+            "eid": "4695",
+            "pagenum": 64,
+            "content": "3. *<i>ara</i>¦ Adj. schnell, geschwind, <ls>Yudh.</ls> 1, 25. 35 (<i>aram</i> Adv.). {part=,seq=4755,type=*,n=1}"
+        },
+        {
+            "word": "अर",
+            "eid": "4695.1",
+            "pagenum": 64,
+            "content": "<i>ara</i>¦ (m.) °Zacke [in <i>sāraḥ</i> = <i>saha araiḥ śṛṅgair vartate</i>] <ls>H</ls> 5, 2. — °f. = <i>madhye śalākā</i> <ls>H</ls> 43, 370. {part=,seq=4756,type=,n=4}"
+        },
+        {
+            "word": "अर",
+            "eid": "27944",
+            "pagenum": 384,
+            "content": "<i>ara</i>¦ *n. Radspeiche, <ls>Padyac.</ls> III, 48 (Ko.). {part=N,seq=28315,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अर",
+            "eid": "3107",
+            "pagenum": 54,
+            "content": "अर¦ mfn. (-रः-रा-रं) Swift, speedy. n. (-रं) 1. The spoke or radius of a wheel. 2. adv. Swiftly. m. (-रः) 1. A Jaina division of time, the sixth of an Avasarpini or Utsarpini. See अवसर्पिणी, &c. 2. The eighteenth Jaina Tirthakara, or deified saint. E. ऋ to go, अप् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अर",
+            "eid": "3689",
+            "pagenum": 78,
+            "content": "<b>ara-</b>¦ <ab>m.</ab> rayon (d'une roue) ; <ab>n.</ab> d'un océan de Brahma ; <i>-ka-</i> <ab>id.</ab>  <P><i>°ghaṭṭa-</i> <ab>m.</ab> roue du puits."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "अर",
+            "eid": "123",
+            "pagenum": 1,
+            "content": "<b>Ara.</b>¦ See <b>Ratha.</b>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अर",
+            "eid": "3109",
+            "pagenum": 65,
+            "content": "अर¦ mfn. (-रः-रा-रं) Swift, speedy. n. (-रं) .²1 The spoke or radius of a wheel. .²2 <i>adv.</i> Swiftly. m. (-रः) .²1 A <i>Jaina</i> division of time, the sixth of an <i>Avasarpiṇī</i> or <i>Utsarpiṇī.</i> See अवसर्पिणी, &c. .²2 The eighteenth- <i>Jaina Tīrthakara,</i> or deified saint. .E. ऋ to go, अप् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अर",
+            "eid": "2581",
+            "pagenum": 51,
+            "content": "अर¦ (रं) 1. <i>n.</i> Spoke of a wheel. <i>m.</i> Division of time. <i>a.</i> Swift."
+        }
     ]
 }

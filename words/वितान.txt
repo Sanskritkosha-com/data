@@ -253,5 +253,51 @@
             "pagenum": 7,
             "content": "वितान¦ VI. 1〉a〉 <i>leer von</i> <ls>HARAVIJAYA 5,104</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वितान",
+            "eid": "23790",
+            "pagenum": 329,
+            "content": "<i>vitāna</i>¦ 1. a) leer von, Haravijaya 5, 104. {part=,seq=24122,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वितान",
+            "eid": "36647",
+            "pagenum": 656,
+            "content": "वितान¦ mfn. (-नः-ना-नं) 1. Empty, pithless, sapless. 2. Empty, vacant. 3. Dull, stupid. 4. Wicked, abandoned. mn. (-नः-नं) 1. Spreading, expansion. 2. An awning, a canopy. 3. Sacrifice, offering, oblation. 4. The sacrificial hearth or hole in which the sacred fires are kept. 5. A heap, a quantity. 6. Season, opportunity. n. (-नं) 1. A form of the Anushṭubh metre or verse of four lines of eight syllables each; each line of the stanza named Vitāna consists of two Iambics, one Trochee, and one Spondee. 3. Leisure, rest, interval of occupation. E. वि before, तन् to spread, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "वितान",
+            "eid": "18528",
+            "pagenum": 653,
+            "content": "<b>1 vi-tāna-</b>¦ <ab>m.</ab> <ab>nt.</ab> extension, expansion, grand volume, multitude, masse ; mise en œuvre, accomplissement, <ab>not.</ab> opérations afférant <lbinfo n='4'/> au sacrifice ; dais (aussi <i>-ka-</i>) ; <i>-ā-</i> <ab>f.</ab> femme de Sattrāyaṇa ; <i>-vant-</i> <ab>a.</ab> muni d'un dais ; <i>-ī-bhū-</i> représenter un dais ; <i>°tānāyyate-</i> <ab>dén.</ab> (<ab>pass.</ab>) <ab>id.</ab>"
+        },
+        {
+            "word": "वितान",
+            "eid": "18529",
+            "pagenum": 653,
+            "content": "<b>2 vitāna-</b>¦ <ab>a.</ab> découragé, déprimé."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वितान",
+            "eid": "35038",
+            "pagenum": 766,
+            "content": "वितान¦ mfn. (-नः-ना-नं) .²1 Empty, pithless, sapless. .²2 Empty, vacant. .²3 Dull, stupid. .²4 Wicked, abandoned. mn. (-नः-नं) .²1 Spreading, expansion. .²2 An awning, a canopy. .²3 Sacrifice, offering, oblation. .²4 The sacrificial hearth or hole in which the sacred fires are kept. .²5 A heap, a quantity. n. (-नं) .²1 A form of the metre <i>Anuṣṭubh,</i> or verse of four lines of eight syllables each; each line of the stanza named <i>Vitāna</i> consists of two <i>Iambics,</i> one <i>Trochee,</i> and one <i>Spondee.</i> .²2 Leisure, rest, interval of occupation. .E. वि before तन to spread, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वितान",
+            "eid": "34628",
+            "pagenum": 687,
+            "content": "वि-तान¦ (नः-ना-नं) 1. <i>m. n.</i> A spreading; awning; a sacrifice; sacrificial hearth; a heap. <i>n.</i> Leisure; a metre of the 1st class, 8th genus. <i>a.</i> Worthless; stupid; wicked."
+        }
     ]
 }

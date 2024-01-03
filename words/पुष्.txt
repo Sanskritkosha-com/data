@@ -197,5 +197,35 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> पुष्¦ mit अभि <i>verstärken</i> <ls>KIR. 17,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पुष्",
+            "eid": "18756",
+            "pagenum": 259,
+            "content": "1. <i>puṣ</i>¦ mit <i>abhi</i> verstärken, <ls>Kir.</ls> 17, 1. — Mit <i>°ava</i> to diminish, <ls>Pūrṇabh.</ls> 82, 18. {part=,seq=19022,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पुष्",
+            "eid": "13899",
+            "pagenum": 441,
+            "content": "<b>1 PUṢ-</b>¦ <i>puṣyati -te puṣṇāti ; pupoṣa ; puṣyate poṣayati ;</i> <i>puṣṭa-</i> -- être nourri de (<ab>instr.</ab>), prospérer, être à l'aise ; <ab>act.</ab> faire prospérer, <lbinfo n='5'/> nourrir, augmenter, accroître ; accomplir <lbinfo n='4'/> (vœu), obtenir, gagner, posséder, jouir de ; <ab>caus.</ab> élever, nourrir, faire prospérer, soigner ; faire nourrir par (<ab>instr.</ab>)."
+        },
+        {
+            "word": "पुष्",
+            "eid": "13900",
+            "pagenum": 441,
+            "content": "<b>2 puṣ-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui nourrit ; qui révèle ou s'accroît par."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पुष्",
+            "eid": "24680",
+            "pagenum": 489,
+            "content": "पुष्¦ पोषति 1. <i>a.</i> To cherish or nurture. (य, ऌ, औ) पुष्यति 4. <i>a.</i> To nourish; to share out. (क) पुष्णाति 9. <i>a.</i> To cherish. (क) पोषयति 10. <i>a.</i> To put on, to wear."
+        }
     ]
 }

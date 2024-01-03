@@ -85,5 +85,37 @@
             "pagenum": 5,
             "content": "पठन¦, पठनाधिनाथ <i>ein Meister im Lesen, Studiren</i> <ls>Verz. d. Oxf. H. 166,b,14.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पठन",
+            "eid": "22959",
+            "pagenum": 415,
+            "content": "पठन¦ n. (-नं) Reading, reciting. E. पठ् to read, ल्युट् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "पठन",
+            "eid": "12810",
+            "pagenum": 399,
+            "content": "<b>paṭhana-</b>¦ <ab>nt.</ab> lecture, récitation, étude, citation ; <i>-īya-</i> <ab>a. v.</ab> lisible, qui doit être lu ou étudié."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पठन",
+            "eid": "22973",
+            "pagenum": 496,
+            "content": "पठन¦ n. (-नं) Reading, reciting. .E. पठ to read, ल्युट् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पठन",
+            "eid": "22443",
+            "pagenum": 443,
+            "content": "पठन¦ (नं) 1. <i>n.</i> Reading, reciting."
+        }
     ]
 }

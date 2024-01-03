@@ -61,5 +61,27 @@
             "pagenum": 4,
             "content": "प्रतिपान¦ (von 1. पा mit प्रति) <lex>n.</lex> <i>Trinkwasser</i>: अश्वानां प्रतिपानं च खादनं चैव सो ऽन्वशात् <ls>R. 2, 50, 33</ls> (<ls n='GORR. 2,'>47, 24</ls> <ls>GORR.</ls>). °ह्रदान्पूर्णान्खरोष्ट्रगजवाजिनाम् <ls n='R. 2,'>91, 71</ls> (<ls n='GORR. 2,'>100, 72</ls> <ls>GORR.</ls>)."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रतिपान",
+            "eid": "19206",
+            "pagenum": 265,
+            "content": "<i>pratipāna</i>¦ n. °Ersatztrank, Krafttrank, <ls>Kauṭ.</ls> 119, 4 v.u.; 131, 7 v.u.; 133, 6; 137, 2. {part=,seq=19478,type=,n=1}"
+        },
+        {
+            "word": "प्रतिपान",
+            "eid": "19206.1",
+            "pagenum": 265,
+            "content": "<i>pratipāna</i>¦ <ls>Kauṭ.</ls> 136, 9 1. <i>pratipādana</i> °Wiederherstellung. Vgl. <ls>J. J. Meyer</ls>, S. 217, Anm. 6. {part=,seq=19479,type=,n=5}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रतिपान",
+            "eid": "14441",
+            "pagenum": 461,
+            "content": "<b>prati-pāna-</b>¦ <ab>nt.</ab> eau potable."
+        }
     ]
 }

@@ -29,5 +29,21 @@
             "pagenum": 7,
             "content": "तदादि¦ 3. <ls>DHARMAŚARM. 2,7</ls>. <ls n='DHARMAŚARM.'>7,66</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तदादि",
+            "eid": "14244",
+            "pagenum": 196,
+            "content": "<i>tadādi</i>¦ Adv. von damals an, zuerst, <ls>Śiś.</ls> 1, 45; <ls>Dharmaśarm.</ls> 2, 7; 7, 66. {part=,seq=14470,type=,n=2}"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तदादि",
+            "eid": "16409",
+            "pagenum": 321,
+            "content": "तदा_दि¦ <i>adv.</i> From that time."
+        }
     ]
 }

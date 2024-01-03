@@ -64,5 +64,43 @@
             "pagenum": 7,
             "content": "अन्दू¦ I. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अन्दू",
+            "eid": "3123",
+            "pagenum": 43,
+            "content": "<i>andū</i>¦ <ls>Śiś.</ls> 11, 7; Haravijaya 41, 45. Vgl. <ls>ZDMG</ls> 62, 362. [Z.] {part=,seq=3165,type=,n=2}"
+        },
+        {
+            "word": "अन्दू",
+            "eid": "27837",
+            "pagenum": 383,
+            "content": "*<i>andū</i>¦ f. Fußkette (des Elefanten), <ls>Kaṃs.</ls> VI, 11<sup>a</sup>. {part=N,seq=28208,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अन्दू",
+            "eid": "1824",
+            "pagenum": 33,
+            "content": "अन्दू¦ f. (-न्दूः) 1. An ornament worn round the ancles. 2. The chain for an elephant's feet. 3. A chain, a fetter, a bond or tie. E. अदि to bind, and कू Unādi aff. or with कु affix अन्दु."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अन्दू",
+            "eid": "1826",
+            "pagenum": 39,
+            "content": "अन्दू¦ f. (-न्दूः) .²1 An ornament worn round the ancles. .²2 The chain for an elephant's feet. .²3 A chain, a fetter, a bond or tie. .E. अदि to bind, and कू Uṇādi aff. or with कु affix अन्दु."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अन्दू",
+            "eid": "1517",
+            "pagenum": 31,
+            "content": "अन्दू¦ (न्दूः) 3. <i>f. Idem.</i> Also अन्दुः."
+        }
     ]
 }

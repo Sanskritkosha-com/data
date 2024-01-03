@@ -282,5 +282,45 @@
             "pagenum": 7,
             "content": "1. शरण¦ <div n='1'> 3) <lex>n.</lex> = विशरण <i>das Auseinanderfallen, Bersten, Zusammenstürzen</i> <ls>VOP. 8, 126.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "शरण",
+            "eid": "24835",
+            "pagenum": 342,
+            "content": "<i>śaraṇa</i>¦ °refugee, <ls>Vās.</ls> 260, 1; <ls>Prabandh.</ls> 93, 2. {part=,seq=25175,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "शरण",
+            "eid": "39572",
+            "pagenum": 708,
+            "content": "शरण¦ n. (-णं) 1. A house. 2. A preserver, a protector, what or who protects or preserves. 3. Preservation, protection, defence. 4. Killing, slaying. f. (-णी) A plant, (Celtis.) E. श to injure, aff. ल्युट्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "शरण",
+            "eid": "20084",
+            "pagenum": 719,
+            "content": "<b>śaraṇa-</b>¦ <ab>ag.</ab> qui protège, qui défend ; <ab>m.</ab> <ab>n.</ab> d'un poète ; <ab>nt.</ab> abri, toit, chambre, maison, <lbinfo n='3'/> sanctuaire ; asile, refuge ; protection ; <i>-aṃ gam- i-</i> <i>yā-</i> chercher refuge auprès de <ab>qq'un</ab> (<ab>acc.</ab>, <ab>gén.</ab> rare).  <P><i>°da-</i> <ab>ag.</ab> qui accorde protection ; <i>°prada-</i> <ab>id.</ab>  <P><i>śaraṇāgata-</i> <ab>a. v.</ab> qui vient pour chercher refuge ou protection, qui vient demander asile ; réfugié ; <i>-tā-</i> <ab>f.</ab> fait de demander protection <lbinfo n='7'/> ; <i>°hantṛ-</i> <ab>ag.</ab> qui a mis à mort un suppliant qui demandait asile.  <P><i>śaraṇārthin-</i> <ab>a.</ab> qui cherche refuge ou protection. <lbinfo n='7'/>  <P><i>śaraṇālaya-</i> <ab>m.</ab> lieu d'asile, abri.  <P><i>śaraṇaiṣin-</i> <ab>a.</ab> = <i>śaraṇārthin-.</i>  <P><i>śaraṇonmukha- -ī-</i> <ab>a.</ab> qui cherche refuge."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शरण",
+            "eid": "37769",
+            "pagenum": 831,
+            "content": "शरण¦ n. (-णं) .²1 A house. .²2 A preserver, a protector, what or who protects or preserves. .²3 Preservation, protection, defence. .²4 Killing, slaying. f. (-णी) A plant, (<bot>Celtis orientalis</bot>.) .E. श to injure, aff. ल्युट्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शरण",
+            "eid": "37406",
+            "pagenum": 749,
+            "content": "शरण¦ (णं) 1. <i>n.</i> A shelter; house; a preserver; preservation; killing. <i>f.</i> (ई) <i>Celtis orientalis.</i>"
+        }
     ]
 }

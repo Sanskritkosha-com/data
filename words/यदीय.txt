@@ -55,5 +55,21 @@
             "pagenum": 7,
             "content": "यदीय¦ <lex>Adj.</lex> <i>wem gehörig, cujus</i> (<ab>rel.</ab>)."
         }
+    ],
+    "SCH": [
+        {
+            "word": "यदीय",
+            "eid": "22134",
+            "pagenum": 305,
+            "content": "<i>yadīya</i>¦ Adj. wem gehörig, cuius (rel.). {part=,seq=22438,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "यदीय",
+            "eid": "17076",
+            "pagenum": 586,
+            "content": "<b>yadīya-</b>¦ <ab>a.</ab> relatif à qui."
+        }
     ]
 }

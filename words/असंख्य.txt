@@ -91,5 +91,35 @@
             "pagenum": 7,
             "content": "असंख्य¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असंख्य",
+            "eid": "6088",
+            "pagenum": 83,
+            "content": "<i>asaṃkhya</i>¦ *weapon, arrow, <ls>Vās.</ls> 112, 1. {part=,seq=6171,type=,n=1}"
+        },
+        {
+            "word": "असंख्य",
+            "eid": "6088.1",
+            "pagenum": 83,
+            "content": "<i>asaṃkhya</i>¦ 1. Nom. abstr. <i>°tā</i> f. <ls>Ind. St.</ls> 15, 364. {part=,seq=6172,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "असंख्य",
+            "eid": "4461",
+            "pagenum": 77,
+            "content": "असंख्य¦ mfn. (-ख्यः-ख्या-ख्यं) Innumerable, exceedingly numerous. E. अ neg. and संख्य to be numbered."
+        }
+    ],
+    "STC": [
+        {
+            "word": "असंख्य",
+            "eid": "4639",
+            "pagenum": 100,
+            "content": "<b>a-saṃkhya-</b>¦ <ab>a.</ab> innombrable ; <i>-śas</i> en quantité innombrable."
+        }
     ]
 }

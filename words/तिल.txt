@@ -173,5 +173,73 @@
             "pagenum": 7,
             "content": "तिल/¦ nur <ls>AV. 18,4,32</ls>, sonst ति/ल."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तिल",
+            "eid": "14593",
+            "pagenum": 201,
+            "content": "<i>tilá</i>¦ nur <ls>AV. 18, 4, 32</ls>, sonst <i>tíla</i>. {part=,seq=14825,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तिल",
+            "eid": "17496",
+            "pagenum": 314,
+            "content": "तिल¦ r. 1st cl. (तेलति) To go. r. 6th cl. (तिलति) and 10th cl. (तेलयति-ते) 1. To be unctuous or greasy. 2. To oil or anoint. E. भ्वा० प० सक सेट् । तुदा० प० अक० अनिट् । चुरा० उभ० अक० सेट् ।"
+        },
+        {
+            "word": "तिल",
+            "eid": "17497",
+            "pagenum": 314,
+            "content": "तिल¦ m. (-लः) 1. A plant bearing an oily seed; the oil and seed being both much used in Oriental cooking, (Sesamum orientale.) 2. A mole or spot, compared to a seed of sesamum. 3. A small particle or portion. E. तिल् to be unctuous, affix क."
+        }
+    ],
+    "SNP": [
+        {
+            "word": "तिल",
+            "eid": "115",
+            "pagenum": 558,
+            "content": "<i>tila</i>¦ <div n='P'/>(1) <bot>SESAMUM INDICUM DC.</bot> = <bot>S. ORIENTALE LINN.</bot> = <bot>S. LUTEUM RETZ.</bot> (Nadk. 1, nr. 2285); <div n='P'/>(2) <bot>S. TRIFOLIATUM MILL.</bot> (Nadk. 1, nr. 2285)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तिल",
+            "eid": "10049",
+            "pagenum": 284,
+            "content": "<b>tila-</b>¦ <ab>m.</ab> sésame, grain de sésame ; corpuscule, <lbinfo n='4'/> parcelle ; grain de beauté.  <P><i>°kaṇa-</i> <ab>m.</ab> grain, semence de sésame.  <P><i>°kārṣika-</i> <ab>m.</ab> qui cultive du sésame.  <P><i>°cūrṇa-</i> <ab>nt.</ab> farine de sésame.  <P><i>°dhenu-</i> <i>-kā-</i> <ab>f.</ab> vache en sésame (offerte aux Brâhmanes).  <P><i>°pīḍa-</i> <ab>m.</ab> broyeur de sésame.  <P><i>°mātra-</i> <ab>a.</ab> menu comme un grain de sésame, tout petit.  <P><i>°māṣa-</i> <ab>m.</ab> <ab>pl.</ab> sésame et fèves.  <P><i>°saṃbaddha-</i> <ab>a. v.</ab> mélangé avec du sésame.  <P><i>°sṛṣṭa-</i> <ab>a. v.</ab> préparé avec du sésame.  <P><i>tilāmbu-</i> <i>tilodaka-</i> <ab>nt.</ab> eau avec du sésame (offerte en libation aux morts).  <P><i>tilāhuti-</i> <ab>f.</ab> offrande d'eau et de sésame.  <P><i>tilottamā-</i> <ab>f.</ab> <ab>n.</ab> d'une Apsaras.  <P><i>tilaudana-</i> <ab>nt.</ab> bouillie de sésame."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "तिल",
+            "eid": "1158",
+            "pagenum": 1,
+            "content": "<b>Tila</b>¦ denotes in the Atharvaveda<sup>1</sup> and later<sup>2</sup> the sesamum plant, and particularly its grains, from which a rich oil (<b>Taila</b>) was extracted. It is often<sup>3</sup> mentioned in connexion with <b>Māṣa,</b> ‘kidney bean.’ The Taittirīya Saṃhitā<sup>4</sup> attributes the bean and the sesamum to the winter (<i>hemanta</i>) and the cool (<i>śiśira</i>) seasons. The stalk of the sesamum plant (<i>tila-piñjī,</i><sup>5</sup> <i>til-piñja</i><sup>6</sup>) was used for fuel, and the seed was boiled in the form of porridge (<i>tilaudana</i><sup>7</sup>) for food. <F>1) ii. 8, 3; vi. 140, 2; xviii. 3, 69; 4, 32.</F> <F>2) Taittirīya Saṃhitā, vii. 2, 10, 2; Maitrāyaṇī Saṃhitā, iv. 3, 2; Vājasaneyi Saṃhitā, xviii. 12; Śatapatha Brāhmaṇa, ix. 1, 1, 3, etc.</F> <F>3) Av. vi. 140, 2; Vājasaneyi Saṃhitā, <i>loc. cit.;</i> Bṛhadāraṇyaka Upaniṣad, vi. 3, 22; Chāndogva Upaniṣad, v. 10, 6, etc.</F> <F>4) <i>Loc. cit.</i></F> <F>5) Av. ii. 8, 3.</F> <F>6) Av. xii. 2, 54.</F> <F>7) Bṛhadāraṇyaka Upaniṣad, vi. 4, 16; Śāṅkhāyana Āraṇyaka, xii. 8. <div n='P'/><i>Cf.</i> Zimmer, <i>Altindisches Leben,</i> 240.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तिल",
+            "eid": "17513",
+            "pagenum": 377,
+            "content": "तिल¦ r. 1st cl. (तेलति) To go. r. 6th cl. (तिलति) and 10th cl. (तेलयति) .²1 To be unctuous or greasy. .²2 To oil or anoint."
+        },
+        {
+            "word": "तिल",
+            "eid": "17514",
+            "pagenum": 377,
+            "content": "तिल¦ m. (-लः) .²1 A plant bearing an oily seed; the oil and seed being both much used in Oriental cooking, (<bot>Sesamum orientale</bot>.) .²2 A mole or spot, compared to a seed of sesamum. .²3 A small particle or portion. .E. तिल to be unctuous, affix क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तिल",
+            "eid": "16986",
+            "pagenum": 333,
+            "content": "तिल¦ (लः) 1. <i>m.</i> A plant bearing an oily seed (Sesamum orientale); a mole or spot; a particle."
+        }
     ]
 }

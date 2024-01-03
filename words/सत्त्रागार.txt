@@ -23,5 +23,19 @@
             "pagenum": 7,
             "content": "सत्त्रागार¦ VII. <i>Opferhalle</i> <ls>JĀTAKAM. 10</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सत्त्रागार",
+            "eid": "25703",
+            "pagenum": 353,
+            "content": "<i>sattrāgāra</i>¦ (als °Ehrenname), <ls>Prabandh.</ls> 242, 4. {part=,seq=26049,type=,n=1}"
+        },
+        {
+            "word": "सत्त्रागार",
+            "eid": "25703.1",
+            "pagenum": 353,
+            "content": "<i>sattrāgāra</i>¦ Opferhalle, <ls>Jātakam.</ls> 10. {part=,seq=26050,type=,n=2}"
+        }
     ]
 }

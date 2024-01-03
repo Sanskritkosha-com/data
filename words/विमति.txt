@@ -153,5 +153,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> विमति¦ VI. <i>Irrthum</i> <ls>CAṆḌĪŚ. 19</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विमति",
+            "eid": "24007",
+            "pagenum": 331,
+            "content": "1. <i>vimati</i>¦ Irrtum, <ls>Caṇḍīś.</ls> 19. {part=,seq=24339,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विमति",
+            "eid": "37159",
+            "pagenum": 665,
+            "content": "विमति¦ f. (-तिः) 1. Dislike, aversion. 2. Difference of opinion, dissent. 3. Stupidity. E. वि and मति mind."
+        }
+    ],
+    "STC": [
+        {
+            "word": "विमति",
+            "eid": "18950",
+            "pagenum": 668,
+            "content": "<b>vi-mati-</b>¦ <ab>f.</ab> antipathie, aversion ; <i>-tā-</i> bêtise, folie."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विमति",
+            "eid": "35516",
+            "pagenum": 778,
+            "content": "विमति¦ f. (-तिः) .²1 Dislike, aversion. .²2 Difference of opinion, dissent. .E. वि, and मति mind."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विमति",
+            "eid": "35111",
+            "pagenum": 698,
+            "content": "वि-मति¦ (तिः) 2. <i>f.</i> Dislike; difference."
+        }
     ]
 }

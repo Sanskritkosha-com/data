@@ -242,5 +242,57 @@
             "pagenum": 7,
             "content": "गण्ड¦ II. = खण्ड <i>Abschnitt</i> <ls>DIVYĀVAD. 638,2</ls>. <i>Stück</i> <ls n='DIVYĀVAD.'>155,13</ls>. <i>Stamm</i> <ls n='DIVYĀVAD.'>100,16. 210,21</ls>. Also <ls>KATHĀS. 94,66</ls> wohl auch richtig."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गण्ड",
+            "eid": "12051",
+            "pagenum": 165,
+            "content": "<i>gaṇḍa</i>¦ m. *Rhinozeros, <ls>H</ls> 41, 29; <ls>Śuk.</ls> t. o. 41 [p. 49, 22. 24]. — ° = <i>mahopala</i>, <ls>H</ls> 4, 5; 5, 37; 11, 65. 66. — *excellent, <ls>Harṣac.</ls> 258, 5. {part=,seq=12234,type=,n=1}"
+        },
+        {
+            "word": "गण्ड",
+            "eid": "12051.1",
+            "pagenum": 165,
+            "content": "<i>gaṇḍa</i>¦ = <i>khaṇḍa</i>, Abschnitt, <ls>Divyāvad.</ls> 638, 2; Stück, 155, 13; Stamm, 100, 16; 210, 21. Also <ls>Kathās.</ls> 94, 66 wohl auch richtig. {part=,seq=12235,type=,n=7}"
+        },
+        {
+            "word": "गण्ड",
+            "eid": "28611",
+            "pagenum": 394,
+            "content": "<i>gaṇḍa</i>¦ m. ° = <i>tapodhana</i>, <ls>Prabandh.</ls> 212, 4 v.u.; 233, 2. {part=N,seq=28982,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गण्ड",
+            "eid": "13059",
+            "pagenum": 229,
+            "content": "गण्ड¦ m. (-ण्डः) 1. A cheek, the whole side of the face including the temple. 2. An elephant's temple or cheek. 3. A boil, a pimple. 4. A mark, a spot. 5. A bubble. 6. A knot. 7. A rhinoceros: (see गण्डक) 8. Part of a horse's trappings, a stud or button fixed as an ornament upon the harness. 9. A hero. 10. The abrupt interchange of question and answer, as one of the characteristics of the dramatic composition called Vithi. 11. The tenth Yoga, or one of the twenty-seven portions of a circle on the plane of the ecliptic: see योग. 12. An astronomical period. E. गडि to affect the cheek, अच् affix, or गम् to go, ड Unadi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "गण्ड",
+            "eid": "8645",
+            "pagenum": 223,
+            "content": "<b>gaṇḍa-</b>¦ <ab>m.</ab> joue, tout le côté de la tête y compris les tempes, bosse frontale (de l'éléphant) <lbinfo n='5'/> ; protubérance, glande, enflure, tumeur ; rhinocéros.  <P><i>°karaṭa-</i> <ab>m.</ab> tempe de l'éléphant.  <P><i>°kāṣa-</i> <ab>m.</ab> <i>°pālī-</i> <ab>f.</ab> <i>°piṇḍa-</i> <ab>m.</ab> joues et tempes <lbinfo n='3'/> ; région des tempes.  <P><i>°bhitti-</i> <ab>f.</ab> joue large, volumineuse ; pommette. <lbinfo n='5'/>  <P><i>°mālin-</i> <ab>a.</ab> qui a les glandes du cou enflées.  <P><i>°lekhā-</i> <ab>f.</ab> (région des) joues.  <P><i>°śilā-</i> <ab>f.</ab> grand rocher.  <P><i>°śaila-</i> <ab>m.</ab> <ab>id.</ab> ; = <i>°bhitti- ;</i> <ab>n.</ab> d'un bosquet fréquenté par les Apsaras.  <P><i>°sthala-</i> <ab>nt.</ab> <i>°sthalī-</i> <ab>f.</ab> <i>gaṇḍābhoga-</i> <ab>m.</ab> = <i>°lekhā-.</i>  <P><i>gaṇḍopadhāna-</i> <i>-īya-</i> <ab>nt.</ab> oreiller.  <P><i>gaṇḍopala-</i> <ab>m.</ab> = <i>°śilā-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गण्ड",
+            "eid": "13066",
+            "pagenum": 278,
+            "content": "गण्ड¦ m. (-ण्डः) .²1 A cheek, the whole side of the face including the temple. .²2 An elephant's temple or cheek. .²3 A boil, a pimple. .²4 A mark, a spot. .²5 A bubble. .²6 A knot. .²7 A rhinoceros: (see गण्डक.) .²8 Part of a horse's trappings, a stud or button fixed as an ornament upon the harness. .²9 A hero. .²10 The abrupt interchange of question and answer, as one of the characteristics of the dramatic composition called <i>Vīthi.</i> .²11 The tenth <i>Yoga,</i> or one of the twenty-seven portions of a circle on the plane of the ecliptic: see योग. .²12 An astronomical period. .E. गडि to affect the cheek, अच् affix, or गम to go, ड Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गण्ड",
+            "eid": "12518",
+            "pagenum": 242,
+            "content": "गण्ड¦ (ण्डः) 1. <i>m.</i> A cheek; elephant's temple; a boil; a mark; a rhinoceros; a bubble; a knot; a wager; payment; trappings; astronomical period."
+        }
     ]
 }

@@ -96,5 +96,45 @@
             "pagenum": 5,
             "content": "परिभाव¦ <ls>PAÑCAT. 56, 8.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "परिभाव",
+            "eid": "17956",
+            "pagenum": 248,
+            "content": "<i>paribhāva</i>¦ m. ° = <i>paribhāvanā</i> 2, b, <ls>Daśar.</ls> I, 29<sup>a</sup>. {part=,seq=18216,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "परिभाव",
+            "eid": "23628",
+            "pagenum": 428,
+            "content": "परिभाव¦ m. (-वः) Disrespect: see परिभव."
+        }
+    ],
+    "STC": [
+        {
+            "word": "परिभाव",
+            "eid": "13189",
+            "pagenum": 414,
+            "content": "<b>pari-bhāva-</b>¦ <ab>m.</ab> mépris ; <i>-in-</i> <ab>a.</ab> qui injurie, qui offense, qui défie (<ab>ifc.</ab>)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "परिभाव",
+            "eid": "23619",
+            "pagenum": 510,
+            "content": "परिभाव¦ m. (-वः) Disrespect: see परिभव."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "परिभाव",
+            "eid": "23092",
+            "pagenum": 456,
+            "content": "परि-भाव¦ (वः) 1. <i>m.</i> Disrespect."
+        }
     ]
 }

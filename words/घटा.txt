@@ -99,5 +99,21 @@
             "pagenum": 375,
             "content": "¦ a sweet citron, <ls>L.</ls><info lex='inh'/>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "घटा",
+            "eid": "12694",
+            "pagenum": 175,
+            "content": "<i>ghaṭā</i>¦ <ls>Rājat.</ls> 6, 244? [Z.] {part=,seq=12891,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "घटा",
+            "eid": "8961",
+            "pagenum": 239,
+            "content": "<b>ghaṭā-</b>¦ <ab>f.</ab> multitude, troupe (d'éléphants s'apprêtant au combat), groupe en général."
+        }
     ]
 }

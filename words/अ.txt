@@ -408,5 +408,87 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अ und अंश¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "2. <i>a°</i>¦ , <i>asvaptum</i> <ls>Tāṇḍya-Br.</ls> 10, 4, 4. {part=,seq=1,type=,n=1}"
+        },
+        {
+            "word": "अ",
+            "eid": "1.1",
+            "pagenum": 1,
+            "content": "4. *<i>a</i>¦ m. ° = <i>sarvajño 'rhan</i>, <ls>S</ls> I, 53, 3. — Viṣṇu, <ls>H</ls> 31, 9; <ls>Vās.</ls> 113, 1. {part=,seq=2,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अ",
+            "eid": "0.9",
+            "pagenum": 1,
+            "content": "अ¦ The first letter of the alphabet, and inherent short vowel."
+        },
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "अ¦ ind. 1. NO, not. 2. A private, prohibitive, and diminutive particle. 3. An interjection of pity. It also implies degrees of difference, and similarity. As a negative prefix to words beginning with a vowel, अ is changed to अन्, as अ and अन्त form अनन्त."
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "अ¦ m. (अः) A name of VISHṆU."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "<b>1 a-</b>¦ thème <ab>pron.</ab>, <ab>v.</ab> <i>idam-.</i>"
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "<b>2 a</b>¦ (dev. cons.) <i>an</i> (dev. voy.) <ab>préf.</ab> négatif (privatif, antinomique) ; devant noms, <ab>rar.</ab> devant pronoms et verbes."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "अ¦ The first letter of the alphabet, and inherent short vowel."
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "अ¦ ind. .²1 No, not. .²2 A privative, prohibitive, and diminutive particle. .²3 An interjection of pity. It also implies degrees of difference, and similarity. As a negative prefix to words beginning with a vowel, अ is changed to अन्, as अ and अन्त form अनन्त."
+        },
+        {
+            "word": "अ",
+            "eid": "3",
+            "pagenum": 1,
+            "content": "अ¦ m. (अः) A name of VIṢṆU."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अ",
+            "eid": "1",
+            "pagenum": 1,
+            "content": "अ¦ The letter <i>a.</i> A negative, <i>in, un,</i> not. An interjection, O! In composition अ <i>a</i> becomes अन् <i>an</i> before a vowel; as, अन्_आदि."
+        },
+        {
+            "word": "अ",
+            "eid": "2",
+            "pagenum": 1,
+            "content": "अ¦ (अः) 1. <i>m.</i> A name of Vishnu."
+        }
     ]
 }

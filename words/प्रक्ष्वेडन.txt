@@ -76,5 +76,45 @@
             "pagenum": 7,
             "content": "*प्रक्ष्वेडन¦ <lex>n.</lex> <i>das Brummen</i> <ab>u. s. w.</ab> <ls>MAHĀVY. 138,25</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रक्ष्वेडन",
+            "eid": "19031",
+            "pagenum": 262,
+            "content": "*<i>prakṣveḍana</i>¦ n. das Brummen usw., <ls>Mahāvy.</ls> 138, 25. {part=,seq=19302,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रक्ष्वेडन",
+            "eid": "26132",
+            "pagenum": 473,
+            "content": "प्रक्ष्वेडन¦ mf. (-नः-ना) 1. An iron arrow. 2. Clamour, a loud indistinct noise. E. प्र especially, क्ष्विद् to sound indistinctly, aff. ल्यु, deriv. irr.; otherwise प्रक्ष्वेदन ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रक्ष्वेडन",
+            "eid": "14140",
+            "pagenum": 452,
+            "content": "<b>pra-kṣveḍana-</b>¦ <ab>m.</ab> flèche de fer."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रक्ष्वेडन",
+            "eid": "25783",
+            "pagenum": 558,
+            "content": "प्रक्ष्वेडन¦ mf. (-नः-ना) .²1 An iron arrow. .²2 Clamour, a loud indistinct noise. .E. प्र especially, क्ष्विद to sound indistinctly, aff. ल्यु, deriv. irr.; otherwise प्रक्ष्वेदन."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रक्ष्वेडन",
+            "eid": "25267",
+            "pagenum": 500,
+            "content": "प्र-क्ष्वेडन¦ (नं-ना) 1. <i>m. f.</i> An iron arrow; loud noise, clamour."
+        }
     ]
 }

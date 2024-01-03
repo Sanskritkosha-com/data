@@ -226,5 +226,43 @@
             "pagenum": 7,
             "content": "1. शाव¦, शाब in den südindischen Hdschrr. nach <ls>PISCHEL.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "शाव",
+            "eid": "40010",
+            "pagenum": 716,
+            "content": "शाव¦ mfn. (-वः-वी-वं) 1. Tawny, (of that colour.) 2. Relating to the purification of defilement from the contact or consanguinity of a corpse, &c. 3. Relating to a dead body. m. (-वः) 1. Tawny, (the colour.) 2. The young of any animal: see the next. E. शव a dead body, and अण् aff.; or शव् to go, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "शाव",
+            "eid": "20263",
+            "pagenum": 726,
+            "content": "<b>1 śāva-</b>¦ <ab>m.</ab> petit d'animal ; <i>-ka-</i> <ab>id.</ab> (<ab>rar.</ab> appliqué à l'enfant de l'homme)."
+        },
+        {
+            "word": "शाव",
+            "eid": "20264",
+            "pagenum": 726,
+            "content": "<b>2 śāva-</b>¦ <ab>a.</ab> cadavéreux, cadavérique ; produit <lbinfo n='4'/> par un cadavre."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "शाव",
+            "eid": "38176",
+            "pagenum": 840,
+            "content": "शाव¦ mfn. (-वः-वी-वं) .²1 Tawny, (of that colour.) .²2 Relating to the purification of defilement from the contact or consanguinity of a corpse, &c. .²3 Relating to a dead body. m. (-वः) .²1 Tawny, (the colour.) .²2 The young of any animal, see the next. .E. शष a dead body, and अण् aff.; or शव to go, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "शाव",
+            "eid": "37821",
+            "pagenum": 759,
+            "content": "शाव¦ (वः-वी-वं) <i>m.</i> Tawny colour; young animal. <i>a.</i> Tawney; relating to a corpse, or to purification from touching a corpse."
+        }
     ]
 }

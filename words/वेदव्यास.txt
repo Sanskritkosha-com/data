@@ -74,5 +74,29 @@
             "pagenum": 6,
             "content": "वेदव्यास¦ <lex>m.</lex> <i>der</i> <is>Veda</is>-<i>Diaskeuast</i>, = व्यास <ls>TRIK. 2,7,19.</ls> <ls>H. 846.</ls> <ls>MBH. 1, 76.</ls> <ls n='MBH.'>13, 680.</ls> <ls n='MBH. 13,'>1337.</ls> <ls>HARIV. 2364.</ls> <ls>VARĀH. BṚH. S. 46,12.</ls> <ls>Verz. d. B. H. 13,5. 9. No. 392 (S. 104). 804. 1343.</ls> <ls>Verz. d. Oxf. H. 3,a, No. 24. 9,b,14.</ls> <ls>VP. 272.</ls> <ls>Ind. St. 1,468. fg. 3,396.</ls> <ls>PAÑCAR. 2,1,15. 3,1,9.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वेदव्यास",
+            "eid": "38429",
+            "pagenum": 688,
+            "content": "वेदव्यास¦ m. (-सः) The Muni VYĀSA. E. वेद the Vedas, वि and आङ् severally, before अस् to throw or place, aff. घञ्, the compiler and arranger of the Vedas; he first collected and arranged the Hindu scriptures into the four parts, in which they at present exist."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वेदव्यास",
+            "eid": "36717",
+            "pagenum": 806,
+            "content": "वेदव्यास¦ m. (-सः) The <i>Muni</i> VYĀSA. .E. वेद the <i>Vedas,</i> वि and आङ् severally, before अस to throw or place, aff. घञ्, the compiler and arranger of the <i>Vedas;</i> he having first collected and arranged the <i>Hindu</i> scriptures into the four parts, in which they at present exist."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वेदव्यास",
+            "eid": "36335",
+            "pagenum": 724,
+            "content": "वेद-व्यास¦ (सः) 1. <i>m.</i> The sage <i>Vyāsa.</i>"
+        }
     ]
 }

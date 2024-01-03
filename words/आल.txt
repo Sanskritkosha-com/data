@@ -136,5 +136,53 @@
             "pagenum": 7,
             "content": "आल¦ I. <ls>KAUŚ. 25,18</ls> nach <ls>DĀRILA</ls> <i>eine Krankheit des Weizens</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आल",
+            "eid": "7322",
+            "pagenum": 100,
+            "content": "<i>āla</i>¦ <ls>Kauś.</ls> 25, 18 nach <ls>Dārila</ls> eine Krankheit des Weizens. {part=,seq=7424,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आल",
+            "eid": "5803",
+            "pagenum": 99,
+            "content": "आल¦ mfn. (-लः-ला-लं) Large, extensive. n. (-लं) Yellow orpiment. E. अल to adorn, in the causal form, अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आल",
+            "eid": "5569",
+            "pagenum": 123,
+            "content": "<b>āla-</b>¦ <ab>m.</ab> <ab>n.</ab> d'un singe."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "आल",
+            "eid": "268",
+            "pagenum": 1,
+            "content": "<b>Āla</b>¦ appears to mean ‘weed’ in the Atharvaveda,<sup>1</sup> and to form part of three other words,<sup>2</sup> denoting, according to Sāyaṇa, grass-creepers (<i>sasya-vallī</i>) — viz., Alasālā, Silañjālā,<sup>3</sup> and Nīlāgalasāla. Whitney,<sup>4</sup> however, does not think that the words can be given any determinate sense. <F>1) Av. vi. 16, 3. But Whitney takes the word as a verb, comparing v. 22, 6.</F> <F>2) Av. vi. 16, 4.</F> <F>3) Sāyaṇa reads Śalāñjālā, and the manuscripts of the Kauśika Sūtra (vi. 16), have Śilāñjālā. But <i>cf.</i> <b>Silācī.</b></F> <F>4) Translation of the Atharvaveda, 292, 293. <i>Cf.</i> Bloomfield, <i>Hymns of</i> <i>the Atharvaveda,</i> 466.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आल",
+            "eid": "5805",
+            "pagenum": 120,
+            "content": "आल¦ mfn. (-लः-ला-लं) Large, extensive. n. (-लं) Yellow orpiment. .E. अल to adorn, in the causal form, अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आल",
+            "eid": "5189",
+            "pagenum": 97,
+            "content": "आल¦ (लं) <i>n.</i> Yellow orpiment. <i>a.</i> Large, extensive."
+        }
     ]
 }

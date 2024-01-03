@@ -235,5 +235,47 @@
             "pagenum": 2,
             "content": "3. घ¦ <div n='1'> 1) <lex>m.</lex> <div n='2'> a) <i>Getön, Geklingel.</i> <div n='2'>— b) <i>Glocke.</i> <div n='1'>— 2) <lex>f.</lex> घा <i>ein Gürtel mit klingenden Zierathen</i> <ls>MED. gh. 1.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "घ",
+            "eid": "14299",
+            "pagenum": 252,
+            "content": "घ¦ The fourth consonant of the Sanskrit alphabet, being the aspirate of the preceding letter, and corresponding to Gh."
+        },
+        {
+            "word": "घ",
+            "eid": "14300",
+            "pagenum": 252,
+            "content": "घ¦ m. (-घः) 1. A bell. 2. A rattling or gurgling sound. f. (-घा) 1. A tinkling ornament worn by women round the waist. 2. Strikling, killing. 3. Wetting, sprinkling, E. हन् to kill, affix ड, and घ substituted for the radical letter, or the same affix, with घृ to sprinkle, &c."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "घ",
+            "eid": "14308",
+            "pagenum": 307,
+            "content": "घ¦ The fourth consonant of the <i>Sanskrit</i> alphabet, being the aspirate of the preceding letter, and corresponding to <i>Gh.</i>"
+        },
+        {
+            "word": "घ",
+            "eid": "14309",
+            "pagenum": 307,
+            "content": "घ¦ m. (-घः) .²1 A bell. .²2 A rattling or gurgling sound. f. (घा) .²1 A tinkling ornament worn by women round the waist. .²2 Striking, killing. .²3 Wetting, sprinkling. .E. हन to kill, affix ड, and घ substituted for the radical letter, or the same affix, with घृ to sprinkle, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "घ",
+            "eid": "13765",
+            "pagenum": 268,
+            "content": "घ¦ <i>gha.</i> The fourth consonant of the alphabet and aspirate of the preceding, ग <i>g.</i>"
+        },
+        {
+            "word": "घ",
+            "eid": "13766",
+            "pagenum": 268,
+            "content": "घ¦ (घः) 1. <i>m.</i> A bell, a rattling sound. 1. <i>f.</i> घा A tinkling ornament round the waist; striking."
+        }
     ]
 }

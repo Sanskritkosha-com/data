@@ -76,5 +76,43 @@
             "pagenum": 1,
             "content": "अन्तरीप¦ <ls>NAIṢ. 7,73</ls>. °नगर <ls>Ind. St. 15,343</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अन्तरीप",
+            "eid": "3052",
+            "pagenum": 42,
+            "content": "<i>antarīpa</i>¦ n. Insel, <ls>Naiṣ.</ls> 7, 73. — <i>°nagara</i> <ls>Ind. Stud.</ls> 15, 343. {part=,seq=3093,type=,n=2}"
+        },
+        {
+            "word": "अन्तरीप",
+            "eid": "27832",
+            "pagenum": 383,
+            "content": "*<i>antarīpa</i>¦ n. Insel, <ls>Prabandh.</ls> 305, 5. {part=N,seq=28203,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अन्तरीप",
+            "eid": "1758",
+            "pagenum": 32,
+            "content": "अन्तरीप¦ mn. (-पः-पं) An island. E. अन्तर् in the midst of, and आप water; आ changed to ई."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अन्तरीप",
+            "eid": "1760",
+            "pagenum": 38,
+            "content": "अन्तरीप¦ mn. (-पः-पं) An island. .E. अन्तर in the midst of, and आप water; आ changed to ई."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अन्तरीप",
+            "eid": "1460",
+            "pagenum": 30,
+            "content": "अन्तरी_प¦ (पः-पं) 1. <i>m. n.</i> An island."
+        }
     ]
 }

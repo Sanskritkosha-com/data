@@ -91,5 +91,45 @@
             "pagenum": 6,
             "content": "विलेप¦ (von लिप् mit वि) <div n='1'> 1) <lex>m.</lex> <i>Salbe</i>: अङ्ग° <ls>BHĀG. P. 10, 42, 1.</ls> <div n='1'>— 2) <lex>f.</lex> ई <i>Reisbrei</i> <ls>AK. 2, 9, 50.</ls> <ls>H. 397.</ls> <ls>SUŚR. 1, 72, 7. 229, 10. 15. 2, 229, 20.</ls> <ls>VĀGBH. 6, 30.</ls> <ls>ŚĀRṄG. SAṂH. 2, 2, 113.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "विलेप",
+            "eid": "24095",
+            "pagenum": 332,
+            "content": "<i>vilepa</i>¦ m. Berühren, <ls>Govardh.</ls> 397. {part=,seq=24429,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विलेप",
+            "eid": "37387",
+            "pagenum": 669,
+            "content": "विलेप¦ m. (-पः) 1. Ointment, unguent, especially fragrant unguent of Sandal, Agallochum, &c. 2. Mortar, plaster. 3. Anointing, plastering. f. (-पी) Rice-gruel. E. वि, लिप् to anoint or smear, aff. घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विलेप",
+            "eid": "19101",
+            "pagenum": 674,
+            "content": "<b>vi-lepa-</b>¦ <ab>m.</ab> onguent, pommade ; <i>-na-</i> <ab>nt.</ab> <ab>id.</ab> ; fait d'enduire, d'oindre ; <ab>n.</ab> d'une arme mythique ; <i>-nin-</i> <ab>a.</ab> oint (<i>a°</i>) ; <i>-ikā-</i> <ab>f.</ab> bouillie de riz ; <i>-in-</i> <ab>ag.</ab> <ab>ifc.</ab> qui enduit <ab>qqch.</ab> ; <i>-ya-</i> <ab>a. v.</ab> fait ou enduit de ciment."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विलेप",
+            "eid": "35720",
+            "pagenum": 783,
+            "content": "विलेप¦ m. (-पः) .²1 Ointment, unguent, especially fragrant unguent of <i>Sandal,</i> <bot>Agallochum</bot>, &c.. .²2 Mortar, plaster. .²3 Anointing, plastering. (-पी) Rice-gruel. .E. वि before लिप to anoint or smear, aff. घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विलेप",
+            "eid": "35323",
+            "pagenum": 702,
+            "content": "वि-लेप¦ (पः) 1. <i>m.</i> Ointment; mortar; anointing. <i>f.</i> Rice gruel."
+        }
     ]
 }

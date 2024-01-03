@@ -197,5 +197,69 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> रुद्¦ V. *रुण्ण <i>thränend</i> <ls>MAHĀVY. 245</ls>. — Mit अभि V. °रुदित <i>jammernd</i> <ls>JĀTAKAM. 20</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "रुद्",
+            "eid": "22693",
+            "pagenum": 313,
+            "content": "1. <i>rud</i>¦ , <i>*ruṇṇa</i> tränend, <ls>Mahāvy.</ls> 245. — Mit <i>abhi, °rudita</i> jammernd, <ls>Jātakam.</ls> 20. {part=,seq=23010,type=,n=1}"
+        },
+        {
+            "word": "रुद्",
+            "eid": "22693.1",
+            "pagenum": 313,
+            "content": "<i>rud</i>¦ °Subst. = <i>śabda</i>, <ls>Yudh.</ls> 2, 49 [nach dem Ko.; im Texte steht aber <i>bhṛṅgānavamarutaḥ]</i>. {part=,seq=23011,type=,n=5}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "रुद्",
+            "eid": "33760",
+            "pagenum": 606,
+            "content": "रुद् (इर) रुदिर¦ r. 2nd cl. (रोदिति) 1. To weep. 2. To call or address weeping. With उप and आङ्, To weep for another, to sympathize."
+        },
+        {
+            "word": "रुद्",
+            "eid": "33761",
+            "pagenum": 606,
+            "content": "रुद्¦ f. (-रुत्) 1. Grief. 2. Pain, affliction. 3. Disease. 4. Sound, noise. 5. Cry, wail, lamentation. E. रुद् to weep, aff. क्विप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "रुद्",
+            "eid": "17437",
+            "pagenum": 607,
+            "content": "<b>1 RUD-</b>¦ <i>roditi rudati -te rodati -te ; ruroda rurude ; arudat araudiṣīt ;</i> <i>rodiṣyati ; rudyate rorudyate rodayati ; rudita- roditum ruditvā roditvā</i> <i>°rudya</i> -- pleurer, crier, se lamenter, déplorer ; <ab>caus.</ab> faire pleurer ; <ab>a. v.</ab> déploré ; qui pleure, etc. ; mouillé de larmes ; <ab>nt.</ab> pleurs, etc."
+        },
+        {
+            "word": "रुद्",
+            "eid": "17438",
+            "pagenum": 607,
+            "content": "<b>2 rud-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui crie."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "रुद्",
+            "eid": "32415",
+            "pagenum": 707,
+            "content": "रुद्¦ f. (रुत्) .²1 Grief. .²2 Pain, affliction. .²3 Disease. .²4 Sound, noise. .²5 Cry, wail, lamentation. .E. रुद to weep, aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रुद्",
+            "eid": "31988",
+            "pagenum": 632,
+            "content": "रुद्¦ (लैर) रोदिति 2. <i>a.</i> To weep, to cry. With उप and आ to sympathize, or weep with."
+        },
+        {
+            "word": "रुद्",
+            "eid": "31989",
+            "pagenum": 632,
+            "content": "रुद्¦ (त्) 5. <i>f.</i> Grief; disease; noise."
+        }
     ]
 }

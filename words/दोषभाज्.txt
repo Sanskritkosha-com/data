@@ -29,5 +29,37 @@
             "pagenum": 3,
             "content": "दोषभाज्¦ <lex>m.</lex> <i>Schuft</i> <ls>KAUTUKAS. 32</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दोषभाज्",
+            "eid": "15750",
+            "pagenum": 217,
+            "content": "<i>doṣabhāj</i>¦ m. Schuft, <ls>Kautukas.</ls> 32. {part=,seq=15992,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दोषभाज्",
+            "eid": "19817",
+            "pagenum": 355,
+            "content": "दोषभाज्¦ mfn. (-भाक्) Wrong, faulty, doing wrong, being defective or to blame. E. दोष, and भाज् who or what shares."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दोषभाज्",
+            "eid": "19831",
+            "pagenum": 427,
+            "content": "दोषभाज्¦ mfn. (-भाक्) Wrong, faulty, doing wrong, being defective or to blame. .E. दोष, and भाज् who or what shares."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दोषभाज्",
+            "eid": "19311",
+            "pagenum": 380,
+            "content": "दोष-भाज्¦ (क्) <i>a.</i> Faulty, wrong."
+        }
     ]
 }

@@ -335,5 +335,41 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> छद् (छन्द्)¦ mit अभ्युद् 6. — Mit उप II. 1〉 <ls>JĀTAKAM. 7</ls>. — Mit वि II. Lies <i>Etwas abhalten wollen, abrathen, warnen</i> und <ab>vgl.</ab> <ls>DIVYĀVAD. 10,6</ls>. <ls n='DIVYĀVAD.'>11,24</ls>. <ls n='DIVYĀVAD.'>383,6</ls>. <ls n='DIVYĀVAD.'>590,24</ls>. <ls>MAHĀVY. 245,125</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "छद्",
+            "eid": "13511",
+            "pagenum": 186,
+            "content": "1. <i>chad</i>¦ mit <i>pratisam, °pratisaṃchanna</i> bedeckt mit, <ls>R. ed. Bomb.</ls> 4, 1, 21. {part=,seq=13725,type=,n=3}"
+        },
+        {
+            "word": "छद्",
+            "eid": "13512",
+            "pagenum": 186,
+            "content": "2. °<i>chad</i>¦ , so zu verbessern [für <i>chad</i>]. {part=,seq=13726,type=°,n=1}"
+        },
+        {
+            "word": "छद्",
+            "eid": "13513",
+            "pagenum": 186,
+            "content": "3. <i>chad</i>¦ <i>(chand)</i> mit <i>abhyud (abhyucchandayati)</i> ermuntern, anfeuern (Zugvieh), <ls>Baudh.</ls> 2, 4, 21. — Mit <i>upa</i> 1. <ls>Jātakam.</ls> 7. — Mit <i>vi</i> lies: etwas abhalten wollen, abraten, warnen und vgl. <ls>Divyāvad.</ls> 10, 6; 11, 24; 386, 6; 590, 24; <ls>Mahābhy.</ls> 245, 125. <i>chada</i> 2. e) *Lippe, <ls>Zach.</ls> Beitr. {part=,seq=13727,type=,n=8}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "छद्",
+            "eid": "9380",
+            "pagenum": 254,
+            "content": "<b>1 CHAD-</b>¦ <i>chādayati -te ; chādayāṃ cakre ; channa-</i> -- couvrir, envelopper, cacher, tenir secret ; (2 <i>CHAD-</i> <ab>v.</ab> <i>CHAND-</i>)."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "छद्",
+            "eid": "15002",
+            "pagenum": 293,
+            "content": "छद्¦ (ञ, क) छदति, ते, छादयति 1. 10. <i>a.</i> To cover, clothe. (इ) छन्दति 1. <i>a.</i> To live, breath, be strong. (इ, कि) छन्दति, छन्दयति) 1. 10. <i>a.</i> To cover."
+        }
     ]
 }

@@ -79,5 +79,19 @@
             "pagenum": 7,
             "content": "आपादन¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आपादन",
+            "eid": "7041",
+            "pagenum": 96,
+            "content": "<i>āpādana</i>¦ Adj. bewirkend, <ls>Agni-P.</ls> 43, 13. — °f. <i>ī</i> <ls>Yudh.</ls> 1, 87. {part=,seq=7135,type=,n=1}"
+        },
+        {
+            "word": "आपादन",
+            "eid": "7041.1",
+            "pagenum": 96,
+            "content": "<i>āpādana</i>¦ n. °das Bewirken, Vornehmen, <ls>S</ls> II, 264, 25. {part=,seq=7136,type=,n=3}"
+        }
     ]
 }

@@ -77,5 +77,35 @@
             "pagenum": 7,
             "content": "निर्दर¦ III. 2〉 <lex>m.</lex> <ls>R. ed. Bomb. 3,67,5</ls>. = विदीर्णपाषाण <ab>Comm.</ab>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "निर्दर",
+            "eid": "16921",
+            "pagenum": 233,
+            "content": "<i>nirdara</i>¦ 2. m., <ls>R. ed. Bomb.</ls> 3, 67, 5 = <i>vidīrṇapāṣāṇa</i> Komm. {part=,seq=17174,type=,n=1}"
+        },
+        {
+            "word": "निर्दर",
+            "eid": "16921.1",
+            "pagenum": 234,
+            "content": "<i>nirdara</i>¦ °frei von Gefahren? <ls>S</ls> II, 230, 2 in <i>nirdaraikadeśam = nirbhayapradeśam</i>. {part=,seq=17175,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "निर्दर",
+            "eid": "11990",
+            "pagenum": 373,
+            "content": "<b>nir-dara-</b>¦ <ab>m.</ab> caverne, grotte.  <P><i>°vāsin-</i> <ab>a.</ab> qui habite les cavernes."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "निर्दर",
+            "eid": "21479",
+            "pagenum": 423,
+            "content": "नि-र्दर¦ (रः-रा-रं) <i>a.</i> Harsh; shameless. <i>n.</i> Pith. <i>adv.</i> Excessively."
+        }
     ]
 }

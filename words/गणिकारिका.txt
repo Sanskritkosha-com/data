@@ -31,5 +31,37 @@
             "pagenum": 2,
             "content": "गणिकारिका¦ <lex>f.</lex> <i>Premna spinosa</i> <ls>AK. 2, 4, 2, 46.</ls> <ls>TRIK. 3, 3, 140.</ls> = vulg. गणियारी <ls>RATNAM. 5.</ls> = vulg. वडगणियारी <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "गणिकारिका",
+            "eid": "12042",
+            "pagenum": 165,
+            "content": "*<i>gaṇikārikā</i>¦ Premna spinosa, <ls>Vās.</ls> 244, 4. {part=,seq=12225,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "गणिकारिका",
+            "eid": "13045",
+            "pagenum": 229,
+            "content": "गणिकारिका¦ f. (-का) The name of a small tree with a very fetid leaf, commonly called Ganiyari, the wood of which is used in attrition, for the purpose of producing flame, (Premna spinosa.) E. कन् added to गणिकारी."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गणिकारिका",
+            "eid": "13052",
+            "pagenum": 278,
+            "content": "गणिकारिका¦ f. (-का) The name of a small tree with a very fetid leaf, commonly called <i>Ganiyāri,</i> the wood of which is used in attrition, for the purpose of producing flame, (<bot>Premna spinosa</bot>.) .E. कन् added to गणिकारी."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गणिकारिका",
+            "eid": "12504",
+            "pagenum": 242,
+            "content": "गणिकारिका¦ (का) 1. <i>f.</i> The name of a tree (Premna spinosa)."
+        }
     ]
 }

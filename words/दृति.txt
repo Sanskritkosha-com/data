@@ -156,5 +156,53 @@
             "pagenum": 7,
             "content": "दृति¦ III. 1〉 °कर्माणि <ls>KAUŚ. 38,12</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दृति",
+            "eid": "15608",
+            "pagenum": 215,
+            "content": "<i>dṛti</i>¦ 1. <i>°karmāṇi</i> <ls>Kauś.</ls> 38, 12. {part=,seq=15849,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दृति",
+            "eid": "19514",
+            "pagenum": 350,
+            "content": "दृति¦ f. (-तिः) 1. A bellows. 2. A fish. 3. A skin of leather, or a leather bag for holding water. 4. Skin, hide. E. दृ to divide, क्तिन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "दृति",
+            "eid": "10895",
+            "pagenum": 321,
+            "content": "<b>dṛti-</b>¦ <ab>m.</ab> outre, sac en cuir (pour conserver l'eau ou autres liquides) ; peau (de bête), dépouille ; soufflets."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "दृति",
+            "eid": "1349",
+            "pagenum": 1,
+            "content": "1. <b>Dṛti,</b>¦ a ‘leather bag to hold fluids,’ is frequently mentioned in the Rigveda<sup>1</sup> and later.<sup>2</sup> In one passage<sup>3</sup> it is called <i>dhmāta,</i> ‘inflated,’ the man afflicted with dropsy being compared with such a bag. Milk (<b>Kṣīra</b>) and intoxicating liquor (<b>Surā</b>) are mentioned as kept in bags.<sup>4</sup> <F>1) i. 191, 10; iv. 51, 1, 3; v. 83, 7; vi. 48, 18; 103, 2; viii. 5, 19; 9, 18.</F> <F>2) Av. vii. 18, 1; Taittirīya Saṃhitā, i. 8, 19, 1; Vājasaneyi Saṃhitā, xxvi. 18, 19; Taittirīya Brāhmaṇa, i. 8, 3, 4; Pañcaviṃśa Brāhmaṇa, v. 10, 2, etc.</F> <F>3) Rv. vii. 89, 2. <i>Cf.</i> Hopkins, <i>Journal</i> <i>of the American Oriental Society,</i> 20, 30.</F> <F>4) Pañcaviṃśa Brāhmaṇa, xiv. 11, 26; xvi. 13, 13.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दृति",
+            "eid": "19528",
+            "pagenum": 420,
+            "content": "दृति¦ m. (-तिः) .²1 A bellows. .²2 A fish. .²3 A skin of leather, or a leather bag for holding water. .²4 Skin, hide. .E. दॄ to divide, क्तिन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दृति",
+            "eid": "19005",
+            "pagenum": 374,
+            "content": "दृति¦ (तिः) 2. <i>m.</i> A pair of bellows; a fish; a skin; a leather bag."
+        }
     ]
 }

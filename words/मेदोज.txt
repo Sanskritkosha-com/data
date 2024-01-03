@@ -52,5 +52,29 @@
             "pagenum": 5,
             "content": "मेदोज¦ (मेदस् + 1. ज) <lex>n.</lex> <i>Knochen</i> <ls>H. 626.</ls> <ls>ŚABDAC.</ls> bei <ls>WILS.</ls> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मेदोज",
+            "eid": "32136",
+            "pagenum": 578,
+            "content": "मेदोज¦ n. (-जं) A bone. E. मेदस् marrow, and ज born."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मेदोज",
+            "eid": "30962",
+            "pagenum": 673,
+            "content": "मेदोज¦ n. (-जं) A bone. .E. मेदस् marrow, and ज born."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मेदोज",
+            "eid": "30514",
+            "pagenum": 604,
+            "content": "मेदो_ज¦ (जं) 1. <i>n.</i> A bone."
+        }
     ]
 }

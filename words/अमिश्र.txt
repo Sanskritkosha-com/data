@@ -45,5 +45,29 @@
             "pagenum": 5,
             "content": "अमिश्र¦ <i>nicht gemischt</i> <ls>Ind. St. 8, 307.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "अमिश्र",
+            "eid": "2880",
+            "pagenum": 50,
+            "content": "अमिश्र¦ mfn. (-श्रः-श्रा-श्रं) Unmixed, unmixing. E. अ neg. मिश्र mixture."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अमिश्र",
+            "eid": "2882",
+            "pagenum": 61,
+            "content": "अमिश्र¦ mfn. (-श्रः-श्रा-श्रं) Unmixed, unmixing. .E. अ neg. मिश्र mixture."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अमिश्र",
+            "eid": "2386",
+            "pagenum": 47,
+            "content": "अ-मिश्र¦ (श्रः-श्रा-श्रं) <i>a.</i> Unmixed."
+        }
     ]
 }

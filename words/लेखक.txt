@@ -126,5 +126,37 @@
             "pagenum": 7,
             "content": "लेखक¦ V. <lex>n.</lex> <i>Schreiben, geschriebene Botschaft</i> <ls>SUBHĀṢITĀV. 608</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "लेखक",
+            "eid": "22971",
+            "pagenum": 317,
+            "content": "<i>lekhaka</i>¦ n. Schreiben, geschriebene Botschaft, <ls>Subhāṣitāv.</ls> 608. {part=,seq=23293,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "लेखक",
+            "eid": "34469",
+            "pagenum": 620,
+            "content": "लेखक¦ m. (-कः) 1. A writer, a scribe, a clerk, a copyist, &c. 2. A painter. E. लिख to write, aff. ण्वुल् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "लेखक",
+            "eid": "33045",
+            "pagenum": 722,
+            "content": "लेखक¦ m. (-कः) A writer, a scribe, a clerk, a copyist, &c. .E. लिस्व to write, aff. ण्वुल्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "लेखक",
+            "eid": "32624",
+            "pagenum": 646,
+            "content": "लेखक¦ (कः) 1. <i>m.</i> A writer; a clerk."
+        }
     ]
 }

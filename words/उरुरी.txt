@@ -47,5 +47,29 @@
             "pagenum": 1,
             "content": "उरुरी¦ = उररी <ls>BHAR.</ls> zu <ls>AK. 3, 4, 32, 15.</ls> <ls>DVIRŪPAK.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "उरुरी",
+            "eid": "7730",
+            "pagenum": 133,
+            "content": "उरुरी¦ ind. A particle, of 1. Assent. 2. Expansion: see उररी."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उरुरी",
+            "eid": "7733",
+            "pagenum": 163,
+            "content": "उरुरी¦ <i>ind.</i> A particle, of, .²1 Assent. .²2 Expansion: see उररी."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उरुरी",
+            "eid": "7146",
+            "pagenum": 133,
+            "content": "उरुरी¦ <i>ind.</i> See उरी."
+        }
     ]
 }

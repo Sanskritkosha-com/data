@@ -108,5 +108,45 @@
             "pagenum": 7,
             "content": "कुशूल¦ schlechte Schreibart für कुसूल."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कुशूल",
+            "eid": "10998",
+            "pagenum": 151,
+            "content": "<i>kuśūla</i>¦ schlechte Schreibart für <i>kusūla</i>. [<ls>S</ls> 2, 405, 20.] {part=,seq=11164,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कुशूल",
+            "eid": "11066",
+            "pagenum": 194,
+            "content": "कुशूल¦ m. (-लः) A granary, a cupboard, a place in which rice or other grain is kept. 2. Conflagration of chaff. E. कुश् to enfold, कुल affix; also कुसूल."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कुशूल",
+            "eid": "8168",
+            "pagenum": 201,
+            "content": "<b>kuśūla-</b>¦ <ab>m.</ab> grenier.  <P><i>°dhānyaka-</i> <ab>m.</ab> qui a du grain dans son grenier <lbinfo n='4'/> (pour trois ans)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कुशूल",
+            "eid": "11072",
+            "pagenum": 236,
+            "content": "कुशूल¦ m. (-लः) A granary, a cupboard, a place in which rice or other grain is kept. .²2 Conflagration of chaff. .E. कुश to enfold, कूल affix; also कुसूल."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कुशूल",
+            "eid": "10517",
+            "pagenum": 201,
+            "content": "कुशूल¦ (लः) 1. <i>m.</i> A granary; a cupboard; conflagration of chaff."
+        }
     ]
 }

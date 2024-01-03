@@ -159,5 +159,37 @@
             "pagenum": 7,
             "content": "अन्यतस्¦ = अन्यस्य <ls>R. ed. Bomb. 1,19,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अन्यतस्",
+            "eid": "3169",
+            "pagenum": 43,
+            "content": "<i>anyatas</i>¦ = <i>anyasya</i>, <ls>R. ed. Bomb.</ls> 1, 19, 2. {part=,seq=3213,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अन्यतस्",
+            "eid": "1885",
+            "pagenum": 34,
+            "content": "अन्यतस्¦ ind. Elsewhere. E. अन्य, and तसि aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अन्यतस्",
+            "eid": "1887",
+            "pagenum": 40,
+            "content": "अन्यतस्¦ <i>ind.</i> Elsewhere. .E. अन्य, and तसि aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अन्यतस्",
+            "eid": "1565",
+            "pagenum": 32,
+            "content": "अन्यतस्¦ <i>adv.</i> Elsewhere."
+        }
     ]
 }

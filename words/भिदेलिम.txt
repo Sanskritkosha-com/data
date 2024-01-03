@@ -53,5 +53,37 @@
             "pagenum": 7,
             "content": "भिदेलिम¦ 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "भिदेलिम",
+            "eid": "20606",
+            "pagenum": 284,
+            "content": "<i>bhidelima</i>¦ <ls>Saduktik.</ls> 4, 273. {part=,seq=20890,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "भिदेलिम",
+            "eid": "29459",
+            "pagenum": 531,
+            "content": "भिदेलिम¦ mfn. (-मः-मा-मं) To be, or what may be broken. E. भिद् to break, केलिमर् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "भिदेलिम",
+            "eid": "28560",
+            "pagenum": 620,
+            "content": "भिदेलिम¦ mfn. (-मः-मा-मं) To be, or what may be broken. .E. भिद to break, केलिमर् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "भिदेलिम",
+            "eid": "28071",
+            "pagenum": 556,
+            "content": "भिदेलिम¦ (मः-मा-मं) <i>p.</i> Breaking."
+        }
     ]
 }

@@ -150,5 +150,45 @@
             "pagenum": 5,
             "content": "2. बालिश¦ <lex>n.</lex> = pers. <lang n='arabic'>بالش</lang> <i>Kissen, Polster</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "बालिश",
+            "eid": "20191",
+            "pagenum": 278,
+            "content": "<i>bāliśa</i>¦ °m. Junges, <ls>S</ls> I, 249, 3. {part=,seq=20471,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "बालिश",
+            "eid": "28718",
+            "pagenum": 518,
+            "content": "बालिश¦ mfn. (-शः-शा-शं) 1. Young. 2. Ignorant. 3. Careless, heedless. n. (-शं) A pillow. E. बाड् to emerge, इन् aff., बाडि or बालि and शो to destroy, aff. ड ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "बालिश",
+            "eid": "15934",
+            "pagenum": 513,
+            "content": "<b>bāliśa-</b>¦ <ab>a.</ab> jeune, enfantin, puéril, naïf, niais, bête ; ignorant ; <ab>m.</ab> sot, imbécile, idiot ; <i>-tā-</i> <ab>f.</ab> <i>-tva-</i> <ab>nt.</ab> enfance ; stupidité, folie ; <i>-ya-</i> <ab>nt.</ab> <ab>id.</ab> ; insouciance.  <P><i>°mati-</i> <ab>a.</ab> puéril, bête."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "बालिश",
+            "eid": "27866",
+            "pagenum": 604,
+            "content": "बालिश¦ mfn. (-शः-शा-शं) .²1 Young. .²2 Ignorant. .²3 Careless, heedless. n. (-शं) A pillow. .E. बाड to emerge, इन् aff., बाडि or बालि, and शो to destroy, aff. ड."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "बालिश",
+            "eid": "27374",
+            "pagenum": 542,
+            "content": "बालिश¦ (शः-शा-शं) <i>a.</i> Young; ignorant; careless. <i>n.</i> A pillow."
+        }
     ]
 }

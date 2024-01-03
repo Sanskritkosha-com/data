@@ -138,5 +138,21 @@
             "pagenum": 5,
             "content": "मर्मर¦ <div n='1'> 1) तृणैरुच्छुष्कमर्मरैः <ls>KATHĀS. 100, 9.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "मर्मर",
+            "eid": "21295",
+            "pagenum": 294,
+            "content": "<i>marmara</i>¦ ° = <i>aṅgārībhūta</i>, <ls>S</ls> I, 19, 2. — °trocken, dürr, <ls>S</ls> I, 67, 1; <ls>H</ls> XLIII, 355 (= <i>rūkṣa</i>). {part=,seq=21590,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मर्मर",
+            "eid": "16564",
+            "pagenum": 554,
+            "content": "<b>marmara-</b>¦ <ab>a.</ab> qui bruit, qui murmure (feuilles, robes, etc.) ; <ab>m.</ab> murmure ; <i>-ī-bhūta-</i> <ab>a.</ab> qui bruit.  <P><i>°pattra-mokṣa-</i> <ab>a.</ab> dont les feuilles lombent en bruissant."
+        }
     ]
 }

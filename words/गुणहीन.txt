@@ -43,5 +43,35 @@
             "pagenum": 2,
             "content": "गुणहीन¦ <lex>Adj.</lex> <i>keine Vorzüge besitzend</i> <ls n='Chr.'>193,28</ls>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "गुणहीन",
+            "eid": "13654",
+            "pagenum": 240,
+            "content": "गुणहीन¦ mfn. (-नः-ना-नं) 1. Void of merit. 2. Free from properties. E. गुण, and हीन void of."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "गुणहीन",
+            "eid": "13663",
+            "pagenum": 292,
+            "content": "गुणहीन¦ mfn. (-नः-ना-नं) .²1 Void of merit. .²2 Free from properties. .E. गुण, and हीन void of."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गुणहीन",
+            "eid": "13116",
+            "pagenum": 255,
+            "content": "गुण-हीन¦ (नः-ना-नं) <i>a.</i> Void of merit."
+        },
+        {
+            "word": "गुणहीन",
+            "eid": "45102",
+            "pagenum": 922,
+            "content": "गुण-हीन¦ (नः-ना-नं) <i>a.</i> Poor (food)."
+        }
     ]
 }

@@ -184,5 +184,63 @@
             "pagenum": 5,
             "content": "2. तति¦ <div n='1'> 1) पुष्पमाला° <ls>KATHĀS. 110, 80.</ls> नवकुसुम° <ls>CHANDOM. 12.</ls> वर्णाश्रमधर्म° <ls>LA. (II) 88, 10.</ls> <div n='1'>— 2) पुनस्तति <ls>ŚĀṄKH. BR. 26, 8.</ls> <div n='1'>— 3) <i>ein best. Metrum, 4 Mal</i> {Ç} <ls>Ind. St. 8, 383.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तति",
+            "eid": "14207",
+            "pagenum": 196,
+            "content": "<i>tati</i>¦ Reihe, <ls>Navasāhas.</ls>; <ls>Śiś.</ls> 6, 3; 8, 27 (?). [Z.] {part=,seq=14433,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तति",
+            "eid": "16882",
+            "pagenum": 301,
+            "content": "तति¦ mfn. plu. (ततयः ततयः ततीनि) So many."
+        },
+        {
+            "word": "तति",
+            "eid": "16883",
+            "pagenum": 301,
+            "content": "तति¦ f. (-तिः) 1. A line, a row or range. 2. A number, a crowd. E. तन् to spread, affix क्तिन्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तति",
+            "eid": "9822",
+            "pagenum": 274,
+            "content": "<b>tati-</b>¦ <ab>f.</ab> étendue, extension, alignement, multitude."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तति",
+            "eid": "16899",
+            "pagenum": 363,
+            "content": "तति¦ mfn. <i>plu.</i> (ततयः ततयः ततीनि) So many."
+        },
+        {
+            "word": "तति",
+            "eid": "16900",
+            "pagenum": 363,
+            "content": "तति¦ f. (-तिः) .²1 A line, a row or range. .²2 A number, a crowd, .E. तन to spread, affix क्तिन्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तति",
+            "eid": "16366",
+            "pagenum": 320,
+            "content": "तति¦ (तयः-तयः-तीनि) <i>a.</i> So many."
+        },
+        {
+            "word": "तति",
+            "eid": "16367",
+            "pagenum": 320,
+            "content": "तति¦ (तिः) 2. <i>f.</i> A line or row."
+        }
     ]
 }

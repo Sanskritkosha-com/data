@@ -31,5 +31,37 @@
             "pagenum": 6,
             "content": "वृकदंश¦ <lex>m.</lex> <i>Hund</i> <ls>H. 1280</ls> schlechte v. l. für मृगदंश ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वृकदंश",
+            "eid": "24362",
+            "pagenum": 336,
+            "content": "*<i>vṛkadaṃśa</i>¦ m. °cruel monster (pw. 'Hund'; es handelt sich aber um eine Katze!), <ls>Prabandh.</ls> 185, 2 v.u. {part=,seq=24698,type=*,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वृकदंश",
+            "eid": "38113",
+            "pagenum": 682,
+            "content": "वृकदंश¦ m. (-शः) A dog. E. वृक a wolf, and दंश who bites."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वृकदंश",
+            "eid": "36414",
+            "pagenum": 799,
+            "content": "वृकदंश¦ m. (-शः) A dog. .E. वृक a wolf, and दंश who bites."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वृकदंश",
+            "eid": "36027",
+            "pagenum": 717,
+            "content": "वृक-दंश¦ (शः) 1. <i>m.</i> A dog."
+        }
     ]
 }

@@ -142,5 +142,37 @@
             "pagenum": 7,
             "content": "युवराज und °दिवाकर¦ V. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "युवराज",
+            "eid": "22275",
+            "pagenum": 307,
+            "content": "<i>yuvarāja</i>¦ 3. und <i>yuvarājadivākara</i>, lies <ls>Saduktik.</ls> statt <ls>Sarasvatīk.</ls> {part=,seq=22582,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "युवराज",
+            "eid": "32776",
+            "pagenum": 590,
+            "content": "युवराज¦ m. (-जः) 1. A young prince, especially the heir apparent, associated to the throne. 2. One of the Jaina pontiffs. E. युव young, राजन् a prince, टच् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "युवराज",
+            "eid": "31530",
+            "pagenum": 687,
+            "content": "युवराज¦ m. (-जः) .²1 A young prince, especially the heir apparent, associated to the throne. .²2 One of the <i>Jaina</i> pontiffs. .E. युव young, and राजन् a prince, टच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "युवराज",
+            "eid": "31095",
+            "pagenum": 615,
+            "content": "युव-राज¦ (जः) 1. <i>m.</i> A young prince; one of the <i>Jaina</i> pontiffs."
+        }
     ]
 }

@@ -183,5 +183,35 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> कस्¦ II. 5. — Mit निस् <ab>Caus.</ab> II. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कस्",
+            "eid": "10241",
+            "pagenum": 141,
+            "content": "<i>kas</i>¦ *gehen, <ls>S</ls> I, 351, 6. — Mit <i>nis, niṣkāsita</i> außer hinausgejagt nach <ls>Med.</ls> auch = <i>āhita</i> und <i>adhikṛta</i>. {part=,seq=10390,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कस्",
+            "eid": "7792",
+            "pagenum": 184,
+            "content": "<b>KAS-</b>¦ <i>kasati ; cakase ; acīkasat ; kāsayati</i> <i>(kāsyate)</i> ; <i>kasta- kasita-</i> -- (simple inusité, <ab>cf.</ab> <i>vi-</i> et <i>niṣ-KAS-</i>)."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कस्",
+            "eid": "9143",
+            "pagenum": 172,
+            "content": "कस्¦ (ज) कसति 1. <i>a.</i> To move. With वि to expand as a flower."
+        },
+        {
+            "word": "कस्",
+            "eid": "9144",
+            "pagenum": 172,
+            "content": "कस्¦ (इ-ल-ङ-क) कंस्ते-कंसयति 2. 10. <i>a.</i> To go; to order; to destroy."
+        }
     ]
 }

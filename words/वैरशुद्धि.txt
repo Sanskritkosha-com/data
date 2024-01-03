@@ -52,5 +52,29 @@
             "pagenum": 7,
             "content": "वैरशुद्धि¦ lies = वैरविशुद्धि <ab>st.</ab> <ab>dass.</ab>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "वैरशुद्धि",
+            "eid": "24522",
+            "pagenum": 338,
+            "content": "<i>vairaśuddhi</i>¦ , lies = <i>vairaviśuddhi</i> statt dass. {part=,seq=24858,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वैरशुद्धि",
+            "eid": "38671",
+            "pagenum": 692,
+            "content": "वैरशुद्धि¦ f. (-द्धिः) Revenge, retaliation, requital. E. वैर enmity, शुद्धि purification."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वैरशुद्धि",
+            "eid": "36931",
+            "pagenum": 811,
+            "content": "वैरशुद्धि¦ f. (-द्धिः) Revenge, retaliation. .E. वैर enmity, शुद्धि purification."
+        }
     ]
 }

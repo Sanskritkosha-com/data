@@ -107,5 +107,27 @@
             "pagenum": 7,
             "content": "उञ्छ्¦ mit निस् und उञ्छधर्मन् 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उञ्छ्",
+            "eid": "7951",
+            "pagenum": 109,
+            "content": "<i>uñch</i>¦ mit <i>nis</i> in <i>niruñchana</i>. {part=,seq=8063,type=,n=1}"
+        },
+        {
+            "word": "उञ्छ्",
+            "eid": "28220",
+            "pagenum": 388,
+            "content": "<i>uñch</i>¦ mit <i>°saṃpra</i> abwischen, <ls>Gopāl.</ls> 93, 1. {part=N,seq=28591,type=,n=3}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "उञ्छ्",
+            "eid": "6075",
+            "pagenum": 136,
+            "content": "<b>UÑCH-</b>¦ <i>uñchati ; uñchitum °uñchya</i> -- glaner ; rassembler."
+        }
     ]
 }

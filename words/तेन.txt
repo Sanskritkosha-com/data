@@ -142,5 +142,55 @@
             "pagenum": 3,
             "content": "2. तेन¦ <lex>m.</lex> = गानाङ्गविशेष <ls>ŚKDR.</ls> <i>a note or cadence introductory to a song, etc.</i> <ls>WILS.</ls> तेनेति शब्दस्तेनः स्यान्मङ्गलानां प्रदर्शकः । तेशब्देनोच्यते   गौरी नशब्देनोच्यते हरः ॥ तेन माङ्गलिकश्चायं शब्दस्तेन इति स्मृतः <ls>SAM̃GĪTADĀM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "तेन",
+            "eid": "17855",
+            "pagenum": 320,
+            "content": "तेन¦ ind. Therefore, thence, for that reason, on that account, the correlative to येन. E. The third case of तद् that, used as a particle."
+        },
+        {
+            "word": "तेन",
+            "eid": "17856",
+            "pagenum": 320,
+            "content": "तेन¦ m. (-नः) A note or cadence introductory to a song, &c. E. ते said to mean GAURI and न SIVA; whose favour is secured by this word."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तेन",
+            "eid": "10150",
+            "pagenum": 289,
+            "content": "<b>tena</b>¦ <i>teṣām teṣu</i> <ab>v.</ab> <i>tad-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तेन",
+            "eid": "17872",
+            "pagenum": 385,
+            "content": "तेन¦ <i>ind.</i> Therefore, thence, for that reason, on that account, the correlative to येन. .E. the third case of तद् that, used as a particle."
+        },
+        {
+            "word": "तेन",
+            "eid": "17873",
+            "pagenum": 385,
+            "content": "तेन¦ m. (-नः) A note or cadence introductory to a song, &c. .E. त said to mean GAURI and न ŚIVA; whose favour is secured by this word."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तेन",
+            "eid": "17350",
+            "pagenum": 341,
+            "content": "तेन¦ <i>conj.</i> Therefore."
+        },
+        {
+            "word": "तेन",
+            "eid": "17351",
+            "pagenum": 341,
+            "content": "तेन¦ (नः) 1. <i>m.</i> Introductory note in singing, pitching the key."
+        }
     ]
 }

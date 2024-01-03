@@ -97,5 +97,21 @@
             "pagenum": 7,
             "content": "मण्डक¦ V. <ls>AŚVAV. 39,6</ls> wohl nur fehlerhaft für मण्डूक."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मण्डक",
+            "eid": "20934",
+            "pagenum": 289,
+            "content": "<i>maṇḍaka</i>¦ <ls>Aśvav.</ls> 39, 6 wohl nur fehlerhaft für <i>maṇḍūka</i>. {part=,seq=21224,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "मण्डक",
+            "eid": "16437",
+            "pagenum": 545,
+            "content": "<b>maṇḍaka-</b>¦ <ab>m.</ab> sorte de gâteau."
+        }
     ]
 }

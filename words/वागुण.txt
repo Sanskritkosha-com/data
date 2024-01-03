@@ -39,5 +39,29 @@
             "pagenum": 6,
             "content": "वागुण¦ <lex>m.</lex> <i>Averrhoa Carambola Lin.</i> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "वागुण",
+            "eid": "35707",
+            "pagenum": 640,
+            "content": "वागुण¦ m. (-णः) An acid fruit, (Averrhoa carambola.)"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वागुण",
+            "eid": "34157",
+            "pagenum": 747,
+            "content": "वागुण¦ m. (-णः) An acid fruit, (<bot>Averrhoa carambola</bot>.)"
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वागुण",
+            "eid": "33747",
+            "pagenum": 669,
+            "content": "वागुण¦ (णः) 1. <i>m.</i> An acid fruit."
+        }
     ]
 }

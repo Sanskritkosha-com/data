@@ -119,5 +119,21 @@
             "pagenum": 7,
             "content": "आगति¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आगति",
+            "eid": "6632",
+            "pagenum": 90,
+            "content": "<i>āgati</i>¦ 1. Nom. abstr. <i>°tva</i> n. <ls>Daśak.</ls> 65, 14. {part=,seq=6720,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आगति",
+            "eid": "4992",
+            "pagenum": 109,
+            "content": "<b>ā-gati-</b>¦ <ab>f.</ab> origine ; début ; fait de se produire <lbinfo n='5'/> ; <i>-tva-</i> <ab>nt.</ab> <ab>id.</ab>"
+        }
     ]
 }

@@ -93,5 +93,45 @@
             "pagenum": 7,
             "content": "विप्रवास¦ VI. <i>*das Vergehen eines Mönchs, wenn er sein Gewand weggiebt,</i> <ls><ab>ebend.</ab> 260</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विप्रवास",
+            "eid": "23969",
+            "pagenum": 331,
+            "content": "<i>vipravāsa</i>¦ *das Vergehen eines Mönches, wenn er sein Gewand weggibt, <ls>Mahāvy.</ls> 260. {part=,seq=24301,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विप्रवास",
+            "eid": "37064",
+            "pagenum": 664,
+            "content": "विप्रवास¦ m. (-सः) Residence in a foreign country. E. वि and प्र implying separation, वस् to abide, and घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "विप्रवास",
+            "eid": "18865",
+            "pagenum": 666,
+            "content": "<b>vi-pravāsa-</b>¦ <ab>m.</ab> séjour hors de chez soi, en pays étranger ; <i>-na-</i> <ab>nt.</ab> exil ; <i>-ita-</i> <ab>a. v.</ab> éloigné ; dispersé.  <P><i>vipravāsita-kalmaṣa-</i> <ab>a.</ab> dont les péchés sont effacés."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विप्रवास",
+            "eid": "35427",
+            "pagenum": 776,
+            "content": "विप्रवास¦ m. (-सः) Residence in a foreign country. .E. वि and प्र implying separation, वस to abide, and घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विप्रवास",
+            "eid": "35020",
+            "pagenum": 696,
+            "content": "वि-प्र-वास¦ (सः) 1. <i>m.</i> Residence in a foreign country."
+        }
     ]
 }

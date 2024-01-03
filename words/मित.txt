@@ -211,5 +211,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> मित/¦ V. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "मित",
+            "eid": "21659",
+            "pagenum": 299,
+            "content": "1. <i>mitá</i>¦ s. unter 3. <i>mā</i>. {part=,seq=21957,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "मित",
+            "eid": "31454",
+            "pagenum": 567,
+            "content": "मित¦ mfn. (-तः-ता-तं) 1. Measured. 2. Moderate, limited, few or little. 3. Known, understood. 4. Examined. 5. Scattered, sprinkled. E. मा to mete, or मि to scatter, aff. क्त, form irr."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मित",
+            "eid": "16775",
+            "pagenum": 567,
+            "content": "<b>2 mita-</b>¦ (<b>1MĀ-</b>) <ab>a. v.</ab> mesuré, limité (par, <ab>instr.</ab>) ; modéré, court.  <P><i>°dhvaja-</i> <ab>m.</ab> <ab>n.</ab> d'un homme.  <P><i>°bhāṣitṛ-</i> <ab>ag.</ab> qui parle peu ; <i>°bhāṣin-</i> <ab>id.</ab> ; <i>°bhāṣitva-</i> <ab>nt.</ab> fait de parler peu.  <P><i>°bhukta-</i> <i>°bhuj-</i> <ab>a.</ab> qui mange peu.  <P><i>°mati-</i> <ab>a.</ab> qui a une compréhension limitée.  <P><i>mitaṃ-paca-</i> <ab>a.</ab> (casserole) de petite taille ; avare.  <P><i>mitākṣara-</i> <ab>a.</ab> compendieux, concis ; <i>-ā-</i> <ab>f.</ab> <ab>n.</ab> de divers commentaires.  <P><i>mitāhāra-</i> <ab>a.</ab> qui mange peu ; <ab>m.</ab> alimentation <lbinfo n='6'/> réduite, diète."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मित",
+            "eid": "30352",
+            "pagenum": 661,
+            "content": "मित¦ mfn. (-तः-ता-तं) .²1 Measured. .²2 Moderate, limited, few or little. .²3 Known, understood. .²4 Scattered, sprinkled. .E. मा to mete, or मि to scatter, aff. क्त, form irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मित",
+            "eid": "29889",
+            "pagenum": 592,
+            "content": "मित¦ (तः-ता-तं) <i>a.</i> Measured; known; moderate; sprinkled."
+        }
     ]
 }

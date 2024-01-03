@@ -125,5 +125,37 @@
             "pagenum": 7,
             "content": "व्यथ्¦ mit अभि <i>aus der Fassung kommen</i> <ls>R. ed. Bomb. 3,69,37</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "व्यथ्",
+            "eid": "24558",
+            "pagenum": 338,
+            "content": "<i>vyath</i>¦ mit <i>abhi</i> aus der Fassung kommen, <ls>R. ed. Bomb.</ls> 3, 69, 37. {part=,seq=24894,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "व्यथ्",
+            "eid": "38803",
+            "pagenum": 694,
+            "content": "व्यथ्¦ r. 1st cl. (व्यथते) 1. To fear. 2. To be disquieted or unhappy. 3. To be sorry or vexed. 4. To suffer pain. 5. To become dry."
+        }
+    ],
+    "STC": [
+        {
+            "word": "व्यथ्",
+            "eid": "19721",
+            "pagenum": 702,
+            "content": "<b>VYATH-</b>¦ <i>vyathati -te ; vivyathe vivyathuḥ ;</i> (<i>vyathiṣi</i> <i>vyathiṣṭhās</i>) ; <i>vyathayati</i> (<i>vyathyate</i>) ; <i>vyathita-</i> -- trembler, tressaillir, fléchir, chanceler, <lbinfo n='5'/> perdre pied ; <ab>moy.</ab> être agité, tourmenté, <lbinfo n='5'/> souffrir ; être effrayé (de, <ab>gén.</ab>) ; se dessécher (dit d'une oblation) ; <ab>caus.</ab> faire trembler, etc. ; tourmenter, affliger, faire souffrir, agiter, troubler, effrayer ; <ab>a. v.</ab> tremblant, tressaillant, branlant, bouleversé ; affligé, peiné, agité, endolori ; changé."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "व्यथ्",
+            "eid": "36690",
+            "pagenum": 733,
+            "content": "व्यथ्¦ (ङ) व्यथते 1. <i>d.</i> To fear; be unhappy; suffer pain."
+        }
     ]
 }

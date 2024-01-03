@@ -130,5 +130,57 @@
             "pagenum": 7,
             "content": "दीप¦ III. <lex>m.</lex> <ab>N. pr.</ab> eines Fursten <ls>DIVYĀVAD. 246,9. fgg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "दीप",
+            "eid": "15412",
+            "pagenum": 212,
+            "content": "<i>Dīpa</i>¦ m. N. pr. eines Fürsten, <ls>Divyāvad.</ls> 246, 9 ff. {part=,seq=15653,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "दीप",
+            "eid": "19050",
+            "pagenum": 342,
+            "content": "दीप¦ r. 4th cl. (ई ऋ) ऋदीपी (दीप्यते) To shine, to blaze, to be luminous or light. दिवा० आ० अक० सेट् ।"
+        },
+        {
+            "word": "दीप",
+            "eid": "19051",
+            "pagenum": 342,
+            "content": "दीप¦ m. (-पः) A lamp. E. दीप् to shine, affix, क, अच् or घञ् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "दीप",
+            "eid": "10528",
+            "pagenum": 308,
+            "content": "<b>dīpa-</b>¦ <ab>m.</ab> lumière, éclat ; lampe, lanterne, flambeau, torche.  <P><i>°da-</i> <ab>a.</ab> qui donne une lampe.  <P><i>°bhājana-</i> (réceptacle de lumière) <ab>nt.</ab> lampe.  <P><i>°mālā-</i> <ab>f.</ab> guirlande de lampes, illumination.  <P><i>°varti-</i> <ab>f.</ab> mèche de lampe.  <P><i>°vṛkṣa-</i> <ab>m.</ab> chandelier, lanterne, pied d'une lampe ; lumière.  <P><i>°śikhā-</i> <ab>f.</ab> flamme de la lampe ; <i>dīpāṅkura-</i> <ab>m.</ab> <ab>id.</ab>  <P><i>dīpāvali-</i> <ab>f.</ab> = <i>°mālā-.</i>  <P><i>dīpopama-</i> <ab>a.</ab> comparé à une lampe."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "दीप",
+            "eid": "19065",
+            "pagenum": 411,
+            "content": "दीप¦ r. 4th cl. (ई ऋ) ऋदीपी (दीप्यते) To shine, to blaze, to be luminous or light."
+        },
+        {
+            "word": "दीप",
+            "eid": "19066",
+            "pagenum": 411,
+            "content": "दीप¦ m. (-पः) A lamp. .E. दीप to shine, affix क or घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "दीप",
+            "eid": "18539",
+            "pagenum": 365,
+            "content": "दीप¦ (पः) 1. <i>m.</i> A lamp."
+        }
     ]
 }

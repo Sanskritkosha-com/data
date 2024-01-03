@@ -113,5 +113,37 @@
             "pagenum": 5,
             "content": "मैथिल¦ <lex>adj.</lex> <lex>f.</lex> ई <i>zu</i> <is>Mithilā</is> <i>in Beziehung stehend</i>: Sprache <ls>COLEBR. Misc. Ess. II, 27.</ls> Brahmanen <ls n='COLEBR. Misc. Ess. II,'>179.</ls> <ls>VAJRASŪCI 256.</ls> राजन् <ls>MBH. 12, 3666.</ls>  <ls>R. GORR. 1, 75, 13.</ls> <ls n='R. GORR.'>3, 14, 24.</ls> <ls>LALIT. ed. Calc. 24, 13.</ls> <ls>UTTARARĀMAC. 86, 7.</ls> <lex>m.</lex> <i>ein Fürst von</i> <is>Mithilā</is> <ls>MBH. 12, 3664. fg.</ls> <ls>HARIV. 2113</ls> (nach der Lesart der neueren Ausg.). <ls>R. 1, 33, 6</ls> (<ls n='GORR. 1,'>34, 6</ls> <ls>GORR.</ls>). <ls n='R.'>3, 53, 2.</ls> <ls>RAGH. 11, 32. 48.</ls> pl. <ls>BHĀG. P. 9, 13, 27.</ls> <ls>VP. 467, N. 17.</ls> als Autoren <ls>Verz. d. Oxf. H. 95,b,5. 279,a,19.</ls> <i>das Volk von</i> <is>Mithilā</is> <ls>MĀRK. P. 58, 12.</ls> <lex>f.</lex> ई Bein. der <is>Sītā</is>, Tochter <is>Janaka's</is>, Königs von <is>Mithilā</is>, <ls>TRIK. 2, 8, 4.</ls> <ls>H. 703.</ls> <ls>R. 1, 1, 52.</ls> <ls n='R. 1,'>77, 28.</ls>  <ls>R. GORR. 2, 104, 1.</ls> <ls n='R. GORR.'>3, 49, 55.</ls> <ls>MEGH. 98.</ls> <ls>RAGH. 12, 29.</ls> <ls n='RAGH.'>15, 37.</ls> <ls>WEBER, RĀMAT. UP. 299.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मैथिल",
+            "eid": "32193",
+            "pagenum": 579,
+            "content": "मैथिल¦ mfn. (-लः-ली-लं) Belonging to, born in, &c. Mithilā. f. (-ली) A name of ŚITĀ. E. मिथिला, अण् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मैथिल",
+            "eid": "16974",
+            "pagenum": 577,
+            "content": "<b>maithila-</b>¦ <i>-ī-</i> <ab>a.</ab> relatif à Mithilā ; <ab>m.</ab> roi de Mithilā ; <ab>f.</ab> Sītā ; <i>-eya-</i> <ab>m.</ab> <ab>métron.</ab> des fils de Sītā."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मैथिल",
+            "eid": "31018",
+            "pagenum": 675,
+            "content": "मैथिल¦ mfn. (-लः-ली-लं) Belonging to, born in, &c. <i>Mithila.</i> f. (-ली) A name of SĪTĀ. .E. मिथिला, and अण् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मैथिल",
+            "eid": "30571",
+            "pagenum": 605,
+            "content": "मैथिल¦ (लः-ली-लं) <i>a.</i> Of <i>Mithila.</i> <i>f.</i> A name of <i>Sītā.</i>"
+        }
     ]
 }

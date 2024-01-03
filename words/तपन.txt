@@ -301,5 +301,51 @@
             "pagenum": 7,
             "content": "तपन¦, <lex>f.</lex> °नी III. <i>Kochtopf</i> <ls>BODHĀYANA</ls> im <ls><ab>Comm.</ab> zu TS. 1,67,1</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तपन",
+            "eid": "14303",
+            "pagenum": 197,
+            "content": "<i>tapana</i>¦ , f. <i>°nī</i> Kochtopf, Bodhāyana im Komm. zu <ls>TS.</ls> 1, 67, 1. {part=,seq=14530,type=,n=1}"
+        },
+        {
+            "word": "तपन",
+            "eid": "14303.1",
+            "pagenum": 197,
+            "content": "<i>tapana</i>¦ m. °Liebesglut, <ls>S</ls> II, 46, 4. {part=,seq=14531,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तपन",
+            "eid": "17011",
+            "pagenum": 304,
+            "content": "तपन¦ m. (-नः) 1. The sun. 2. A division of hell. 3. Heat, burning. 4. Mental distress, pining, grieving. 5. The hot season. 6. the marking nut plant. f. (-नी) The Godavari river. E. तप् to inflame, affixes भावे ल्यु and ङीष्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तपन",
+            "eid": "9863",
+            "pagenum": 277,
+            "content": "<b>tapana-</b>¦ <ab>a.</ab> qui chauffe, brûle, brille ; <ab>m.</ab> soleil ; <ab>n.</ab> d'un enfer ; <ab>n.</ab> d'un Yakṣa, d'un Rākṣasa ; <ab>nt.</ab> souffrance, détresse, torture morale.   <P><i>°dyuti-</i> <ab>a.</ab> ayant l'éclat du soleil."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तपन",
+            "eid": "17028",
+            "pagenum": 366,
+            "content": "तपन¦ m. (-तः) .²1 The sun. .²2 A division of hell. .²3 Heat, burning. .²4 Mental distress, pining, grieving. .²5 The hot season. .²6 The marking nut plant. f. (-नी) The <i>Godāvarī</i> river. .E. तप to inflame, affixes ल्युट् and ङीष्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तपन",
+            "eid": "16499",
+            "pagenum": 323,
+            "content": "तपन¦ (नः) 1. <i>m.</i> The sun; heat, burning; distress, a grief; division of hell; the hot season; marking nut plant. <i>f.</i> River <i>Godāverī.</i>"
+        }
     ]
 }

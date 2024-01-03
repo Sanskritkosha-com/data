@@ -31,5 +31,29 @@
             "pagenum": 617,
             "content": "¦ <bot>Ficus Religiosa</bot>.<info lex='inh'/>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "पादचत्वर",
+            "eid": "24365",
+            "pagenum": 442,
+            "content": "पादचत्वर¦ m. (-रः) 1. A goat. 2. A sand bank. 3. The religious fig-tree, (Ficus religious.) 4. Hail. 5. A slanderer, a calumniator. E. पाद the foot, and चत्वर levelled ground."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पादचत्वर",
+            "eid": "24305",
+            "pagenum": 525,
+            "content": "पादचत्वर¦ m. (-रः) .²1 A goat. .²2 A sand bank. .²3 The religious fig tree, (<bot>Ficus religiosa</bot>.) .²4 Hail. .²5 A slanderer, a calumniator. .E. पाद the foot, and चत्वर levelled ground."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पादचत्वर",
+            "eid": "23780",
+            "pagenum": 470,
+            "content": "पाद-चत्वर¦ (रः) 1. <i>m.</i> A goat; sand bank, religious fig tree; hail; a slanderer, a calumniator."
+        }
     ]
 }

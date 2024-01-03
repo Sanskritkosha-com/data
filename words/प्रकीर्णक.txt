@@ -189,5 +189,43 @@
             "pagenum": 5,
             "content": "प्रकीर्णक¦ <div n='1'> 4) <ls>Verz. d. Oxf. H. 211,a,2. 263,a,32.</ls> <div n='1'>— 6) Titel eines Werkes <ls>SARVADARŚANAS. 140, 6.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "प्रकीर्णक",
+            "eid": "19014",
+            "pagenum": 262,
+            "content": "<i>prakīrṇaka</i>¦ *n. Wedel, <ls>S</ls> I, 175, 12 (Ko.); <ls>H</ls> XIX, 28; XXXI, 19; XXXV, 3. {part=,seq=19284,type=,n=1}"
+        },
+        {
+            "word": "प्रकीर्णक",
+            "eid": "19014.1",
+            "pagenum": 262,
+            "content": "<i>prakīrṇaka</i>¦ m. °eine Art Zeltergalopp, <ls>Kauṭ.</ls> 134, 5/6. Vgl. <ls>J. J. Meyer</ls>, S. 213, Anm. 5. {part=,seq=19285,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "प्रकीर्णक",
+            "eid": "26077",
+            "pagenum": 472,
+            "content": "प्रकीर्णक¦ n. (-कं) 1. A Chowri, the tail of the Bos grunniens, used as a whisk or fan, a fly-flap. 2. The section or chapter of a book. 3. Extent, length, especially of a stanza or book. 4. (In law,) A case not provided for by the Śhastras, and to be decided by the authority of the judge or king. 5. A miscellany. 6. Any collection of heterogeneous objects not arranged under any distinct classes or heads. f. (-का) Scattered about. m. (-कः) A horse. E. कन् added to प्रकीर्ण ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रकीर्णक",
+            "eid": "25741",
+            "pagenum": 557,
+            "content": "प्रकीर्णक¦ n. (-कं) .²1 A <i>Chowri,</i> the tail of the Bos grunniens, used as a whisk or fan. .²2 The section or chapter of a book. .²3 Extent, length, especially of a stanza or book. .²4 (In law,) A case not provided for by the <i>Śāstras,</i> and to be decided by the authority of the judge or king. .²5 A miscellany. .²6 Any collection of heterogeneous objects not arranged under any distinct classes or heads. m. (-कः) A horse. .E. कन् added to प्रकीर्ण."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रकीर्णक",
+            "eid": "25225",
+            "pagenum": 500,
+            "content": "प्र-कीर्णक¦ (कं) 1. <i>n. Idem. m.</i> A horse."
+        }
     ]
 }

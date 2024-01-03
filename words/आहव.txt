@@ -190,5 +190,43 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> आहव¦ I. <ls>DAŚAK. 31,12</ls>."
         }
+    ],
+    "SHS": [
+        {
+            "word": "आहव",
+            "eid": "6117",
+            "pagenum": 105,
+            "content": "आहव¦ m. (-वः) 1. War, battle. 2. Sacrificing. E. आङ् before हु to sacrifice or ह्वेञ् to call, and अच् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आहव",
+            "eid": "5849",
+            "pagenum": 129,
+            "content": "<b>1 ā-hava-</b>¦ <ab>m.</ab> défi ; combat, guerre.  <P><i>°bhūmi-</i> <ab>f.</ab> champ de bataille."
+        },
+        {
+            "word": "आहव",
+            "eid": "5850",
+            "pagenum": 129,
+            "content": "<b>2 ā-hava-</b>¦ <ab>m.</ab> sacrifice ; <i>-na-</i> <ab>nt.</ab> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आहव",
+            "eid": "6119",
+            "pagenum": 128,
+            "content": "आहव¦ m. (-वः) .²1 War, battle. .²2 Sacrificing. .E. आङ् before हु to sacrifice or ह्वेञ् to call, and अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आहव",
+            "eid": "5499",
+            "pagenum": 103,
+            "content": "आ-हव¦ (वः) 1. <i>m.</i> War; sacrificing."
+        }
     ]
 }

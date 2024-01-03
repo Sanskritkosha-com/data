@@ -45,5 +45,21 @@
             "pagenum": 7,
             "content": "सद्रव्य¦ VII. <i>goldfarbig</i> (nach dem <ab>Comm.</ab>) <ls>R. 7,18</ls>. <ls n='R. 7,'>34</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "सद्रव्य",
+            "eid": "25760",
+            "pagenum": 354,
+            "content": "<i>sadravya</i>¦ <ls>R. 7, 18, 34</ls> nach dem Komm. goldfarbig. {part=,seq=26107,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "सद्रव्य",
+            "eid": "21269",
+            "pagenum": 773,
+            "content": "<b>sa-dravya-</b>¦ <ab>a.</ab> avec (son) argent ; couleur d'or."
+        }
     ]
 }

@@ -367,5 +367,71 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> ऋक्ष/¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ऋक्ष",
+            "eid": "8986",
+            "pagenum": 123,
+            "content": "1. <i>ṛkṣá</i>¦ 1. auch <ls>Maitr. S.</ls> 2, 5, 2 (48, 14). {part=,seq=9106,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ऋक्ष",
+            "eid": "7968",
+            "pagenum": 137,
+            "content": "ऋक्ष¦ r. 5th cl. (ऋक्ष्णोति) To kill, to hurt or seek to hurt."
+        },
+        {
+            "word": "ऋक्ष",
+            "eid": "7969",
+            "pagenum": 137,
+            "content": "ऋक्ष¦ mfn. (-क्षः-क्षा-क्षं) Pierced, cut, divided. mn. (-क्षः-क्षं) A star, a constellation. m. (-क्षः) 1. A mountain in the peninsula, the temporary residence of RAMA. 2. A bear. 3. A plant, (Bignonia Indica.) E. ऋष् to go, Unādi affix स, the radical final then becomes क, and स becomes ष; and क and ष form the compound letter क्ष."
+        }
+    ],
+    "STC": [
+        {
+            "word": "ऋक्ष",
+            "eid": "7304",
+            "pagenum": 163,
+            "content": "<b>ṛkṣa-</b>¦ <ab>m.</ab> ours ; singe ; <ab>n.</ab> de diverses montagnes <lbinfo n='6'/> ; de divers personnages ; <i>-ī-</i> <ab>f.</ab> ourse ; <ab>m.</ab> <ab>nt.</ab> étoile, Nakṣatra (<ab>m.</ab> <ab>pl.</ab> les Pléiades) ; <i>-vant-</i> <ab>m.</ab> <ab>n.</ab> d'une montagne près de la Narmadā.  <P><i>°giri-</i> <ab>m.</ab> la montagne Ṛkṣa(vant).  <P><i>°pati-</i> <ab>m.</ab> maître des ours ou des singes.  <P><i>°bila-</i> <ab>nt.</ab> <ab>n.</ab> d'un enfer.  <P><i>°rāja-</i> <ab>m.</ab> roi des ours ; lune.  <P><i>°harīśvara-</i> <ab>m.</ab> Sugrīva.  <P><i>ṛkṣeṣṭi-</i> <ab>f.</ab> offrande aux étoiles."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "ऋक्ष",
+            "eid": "418",
+            "pagenum": 1,
+            "content": "1. <b>Ṛkṣa,</b>¦ ‘bear,’ is found only once in the Rigveda,<sup>1</sup> and seldom later,<sup>2</sup> the animal having evidently been scarce in the regions occupied by the Vedic Indians. Not more frequent<sup>3</sup> is the use of the word in the plural to denote the ‘seven bears,’ later called the ‘seven Ṛṣis,’<sup>4</sup> the constellation of the ‘Great Bear’ (<lang n='greek'>ἄρκτος</lang>, <i>ursa</i>). <F>1) v. 56, 3.</F> <F>2) Maitrāyaṇī Saṃhitā, iii. 14, 17; Vājasaneyi Saṃhitā, xxiv. 36; Jaiminīya Brāhmaṇa, i. 184. <i>Cf.</i> Zimmer, <i>Altindisches Leben,</i> 81.</F> <F>3) Rv. i. 24, 10; Satapatha Brāhmaṇa. ii. 1, 2, 4; Taittirīya Āraṇyaka, i. 11, 2. <i>Cf.</i> Hillebrandt, <i>Vedische Mythologie,</i> 3, 422.</F> <F>4) <i>Cf.</i> Macdonell, <i>Vedic Mythology,</i> p. 144 (D).</F>"
+        },
+        {
+            "word": "ऋक्ष",
+            "eid": "419",
+            "pagenum": 1,
+            "content": "2. <b>Ṛkṣa</b>¦ is the name of a patron mentioned in one verse of a Dānastuti (‘Praise of Gifts’) in the Rigveda,<sup>1</sup> his son being referred to in the next verse as <b>Ārkṣa.</b> <F>1) viii. 68, 15. <i>Cf.</i> Ludwig, Translation of the Rigveda, 3, 163.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ऋक्ष",
+            "eid": "7972",
+            "pagenum": 167,
+            "content": "ऋक्ष¦ r. 5th cl. (ऋक्ष्णोति) To kill, to hurt or seek to hurt."
+        },
+        {
+            "word": "ऋक्ष",
+            "eid": "7973",
+            "pagenum": 167,
+            "content": "ऋक्ष¦ mfn. (-क्षः-क्षा-क्षं) Pierced, cut, divided. mn. (-क्षः-क्षं) A star, a constellation. m. (-क्षः) .²1 A mountain in the peninsula, the temporary residence of RĀMA. .²2 A bear. .²3 A plant, (<bot>Bignonia Indica</bot>.) .E. ऋष to go, Uṇādi affix स, the radical final then becomes क, and स becomes ष; and क and ष form the compound letter क्ष."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ऋक्ष",
+            "eid": "7388",
+            "pagenum": 138,
+            "content": "ऋक्ष¦ (क्षः) 1. <i>m.</i> A bear; a mountain in the Peninsula. (क्षः-क्षं) <i>m. n.</i> A star. <i>a.</i> Pierced, cut."
+        }
     ]
 }

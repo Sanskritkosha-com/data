@@ -80,5 +80,49 @@
             "pagenum": 3,
             "content": "तूर¦ <div n='1'> 1) <lex>n.</lex> = तूर्य <i>ein musikalisches Instrument</i> <ls>TRIK. 1, 1, 119.</ls> <ls>H. 286.</ls> Vgl. अर्धतूर . <div n='1'>— 2) <lex>f.</lex> ई <i>Stechapfel</i> <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls> <ls>NIGH. PR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "तूर",
+            "eid": "14736",
+            "pagenum": 203,
+            "content": "<i>tūra</i>¦ °n. ein Musikinstrument, <ls>S</ls> I, 118, 11 [auch 118, 8 und 227, 6, hier aber Genus nicht bestimmbar]. {part=,seq=14969,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तूर",
+            "eid": "17739",
+            "pagenum": 318,
+            "content": "तूर (ई) तूरी¦ r. 4th cl. (तूर्य्यते) To go quick, to make haste. 2. To kill, to hurt or injure. E. दिवा-आत्म हिंसायां सक० वेगे अक-सेट् ।"
+        },
+        {
+            "word": "तूर",
+            "eid": "17740",
+            "pagenum": 318,
+            "content": "तूर¦ n. (-रं) Any musical instrument. f. (-री) A trumpet. E. तूर् to speed, affix क । तूर्य्यते ताड्यते मुखमारुतेन तूर-घञर्थे कर्मणि क ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तूर",
+            "eid": "17756",
+            "pagenum": 382,
+            "content": "तूर¦ (ई) तूरी r. 4th cl. (तूर्य्यते) To go quick, to make haste. .²2 To kill, to hurt or injure."
+        },
+        {
+            "word": "तूर",
+            "eid": "17757",
+            "pagenum": 382,
+            "content": "तूर¦ n. (-रं) Any musical instrument. f. (-री) A trumpet. .E. त्वर to speed, affix अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तूर",
+            "eid": "17234",
+            "pagenum": 338,
+            "content": "तूर¦ (रं) 1. <i>n.</i> Any musical instrument. (री) <i>f.</i> A trumpet."
+        }
     ]
 }

@@ -116,5 +116,21 @@
             "pagenum": 7,
             "content": "चिबुक¦ II. 3. चिबुका <lex>f.</lex> <i>ein <ab>best.</ab> Amulet</i> <ls>DĀRILA</ls> zu <ls>KAUŚ. 19,22. fg.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "चिबुक",
+            "eid": "13336",
+            "pagenum": 183,
+            "content": "<i>cibuka</i>¦ angeblich = <i>saṃdaṃśa</i>, Zange, Komm. zu <ls>Gṛhyās.</ls> 1, 85. <i>cibukā</i> f. ein best. Amulett, <ls>Dārila</ls> zu <ls>Kauś.</ls> 19, 22 f. {part=,seq=13547,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "चिबुक",
+            "eid": "9259",
+            "pagenum": 251,
+            "content": "<b>cibuka-</b>¦ <ab>nt.</ab> menton."
+        }
     ]
 }

@@ -568,5 +568,51 @@
             "pagenum": 7,
             "content": "कवि¦ II. <lex>m.</lex> <i>Wasservogel</i> <ls>DHARMAŚARMĀBHY. 5,70</ls>. Die richtige Form für <i>Eule</i> ist कुवि."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कवि",
+            "eid": "10208",
+            "pagenum": 140,
+            "content": "<i>kavi</i>¦ m. Wasservogel [<i>ka-vi!</i>], <ls>Dharmaśarmābhy.</ls> 5, 70. Die richtige Form für Eule ist <i>kuvi</i>. — <ls>Śrīk.</ls> 25, 42 (= <i>haṃsa</i>). {part=,seq=10356,type=,n=1}"
+        },
+        {
+            "word": "कवि",
+            "eid": "10208.1",
+            "pagenum": 141,
+            "content": "<i>Kavi</i>¦ ° = Śukra, <ls>S</ls> I, 236, 4. {part=,seq=10357,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कवि",
+            "eid": "9648",
+            "pagenum": 167,
+            "content": "कवि¦ mfn. (-विः-विः or -वी-वि) Learned, wise. m. (-विः) 1. A poet. 2. The sun. 3. SUKRA, the regent of the planet Venus, and preceptor of the demons. 4. A name of VALMIKI, the author of the Ramayana, the inventor of poesy. 5. A name of BRAHMA. f. (-विः-वी) The bit of a bridle, or the reins altogether; also कविका. E. कु to sound, to celebrate, and इन् Unadi aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कवि",
+            "eid": "7776",
+            "pagenum": 184,
+            "content": "<b>kavi-</b>¦ <ab>m.</ab> et <ab>a.</ab> intelligent, prudent, sage ; penseur, sage, prophète, poète, chantre ; <ab>ép.</ab> de divers dieux et personnages mythiques ; planète Vénus ; <i>-tā-</i> <ab>f.</ab> poésie, style orné ; <i>-tva-</i> <ab>nt.</ab> don de la poésie, talent poétique.  <P><i>°putra-</i> <ab>m.</ab> <ab>n.</ab> d'un auteur dramatique.  <P><i>°ratha-</i> <ab>m.</ab> <ab>n.</ab> d'un prince.  <P><i>kavīndu-</i> <ab>m.</ab> <ab>ép.</ab> de Vālmīki."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कवि",
+            "eid": "9653",
+            "pagenum": 204,
+            "content": "कवि¦ mfn. (-विः-विः or -वी-वि) Learned, wise. m. (-विः) .²1 A poet. .²2 The sun. .²3 ŚUKRA, the regent of the planet <i>Venus,</i> and preceptor of the demons. .²4 A name of VĀLMĪKI, the author of the <i>Rāmāyaṇa,</i> the inventor of poesy. .²5 A name of BRAHMĀ. f. (-विः-वी) The bit of a bridle, or the reins altogether; also कविका. .E. कु to sound, to celebrate, and इन् Uṇādi aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कवि",
+            "eid": "9089",
+            "pagenum": 171,
+            "content": "कवि¦ (विः) 2. <i>m.</i> A poet; the sun; <i>Su-</i> <i>kra; Brahmā, Vālmīki. a.</i> Learned, wise, literary."
+        }
     ]
 }

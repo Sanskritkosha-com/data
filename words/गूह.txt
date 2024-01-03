@@ -27,5 +27,19 @@
             "pagenum": 7,
             "content": "गूह¦ 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गूह",
+            "eid": "12421",
+            "pagenum": 171,
+            "content": "<i>gūha</i>¦ Adj. (f. <i>ā</i>) in <i>jñāna°</i>. {part=,seq=12611,type=,n=1}"
+        },
+        {
+            "word": "गूह",
+            "eid": "12421.1",
+            "pagenum": 171,
+            "content": "°<i>gūha</i>¦ Grube, <ls>Kauś.</ls> 48, 19. {part=,seq=12612,type=°,n=1}"
+        }
     ]
 }

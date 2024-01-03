@@ -367,5 +367,77 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> ज्या/¦ II. 2〉 <ab>Instr.</ab> (gleichlautend) <i>mit Ueberlast, lästig</i> <ls>SV. 1,4,1,2,5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ज्या",
+            "eid": "14009",
+            "pagenum": 193,
+            "content": "1. <i>jyā</i>¦ mit <i>sam (saṃjīyate)</i> = Simpl. 2. <ls>AV. 11, 3, 55</ls> in der Paipp.-Rez. <i>(sarvaḥ saṃjīyate</i> st. <i>sarvajyāniṃ jīyate)</i>. {part=,seq=14232,type=,n=3}"
+        },
+        {
+            "word": "ज्या",
+            "eid": "14010",
+            "pagenum": 193,
+            "content": "2. <i>jyā́</i>¦ 2. Instr. (gleichlautend) mit Überlast, lästig, SV. 1, 4, 1, 2, 5. {part=,seq=14233,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "ज्या",
+            "eid": "16530",
+            "pagenum": 294,
+            "content": "ज्या¦ r. 9th cl. (जिनाति) To decay, to be or become old. क्य्रा० प्वा० पर० अक० अनिट् ।"
+        },
+        {
+            "word": "ज्या",
+            "eid": "16531",
+            "pagenum": 294,
+            "content": "ज्या¦ f. (ज्या) 1. A mother. 2. The earth, 3. A bowstring. 4. The chord of an are. E. ज्या to become old, to decay, affixes अघ्न्या० यक् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "ज्या",
+            "eid": "9709",
+            "pagenum": 267,
+            "content": "<b>jyā-</b>¦ <ab>f.</ab> corde de l'arc.  <P><i>°ghoṣa-</i> <ab>m.</ab> bruit, bourdonnement de la corde.  <P><i>°pāśa-</i> <ab>m.</ab> = <i>jyā-.</i>  <P><i>°magha-</i> <ab>m.</ab> père de Vidarbha.  <P><i>jyākṛṣṭi-</i> <ab>f.</ab> fait de tendre la corde de l'arc."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "ज्या",
+            "eid": "1083",
+            "pagenum": 1,
+            "content": "<b>Jyā</b>¦ is the regular word for ‘bowstring’ in the Rigveda<sup>1</sup> and later.<sup>2</sup> The making of bowstrings was a special craft, as is shown by the occurrence of the Jyā-kāra, or ‘maker of bowstrings,’ among the victims at the Puruṣamedha, or human sacrifice, in the Yajurveda.<sup>3</sup> The bowstring consisted of a thong of ox-hide.<sup>4</sup> It was not usually kept taut,<sup>5</sup> but was specially tightened when the bow was to be used.<sup>6</sup> The sound of the bowstring (<i>jyā-ghoṣa</i>) is referred to in the Atharvaveda.<sup>7</sup> <div n='P'/><i>Cf.</i> <b>Ārtnī.</b> <F>1) iv. 27, 3; vi. 75, 3; x. 51, 6, etc.</F> <F>2) Av. i. 1, 3; v. 13, 6; vi. 42, 1; Vājasaneyi Saṃhitā, xvi. 9; xxix. 51, etc.</F> <F>3) Vājasaneyi Saṃhitā, xxx. 7; Taittirīya Brāhmaṇa, iii. 4, 3, 1.</F> <F>4) Rv. vi. 75, 3; Av. i. 1, 3. In the Epic the bowstring is made of hemp (<i>maurvī</i>); Hopkins, <i>Journal of the</i> <i>American Oriental Society,</i> 13, 271.</F> <F>5) Av. vi. 42, 1.</F> <F>6) Rv. x. 166, 3.</F> <F>7) v. 21, 9. <div n='P'/><i>Cf.</i> Zimmer, <i>Altindisches Leben,</i> 298 299.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ज्या",
+            "eid": "16557",
+            "pagenum": 355,
+            "content": "ज्या¦ r. 9th cl. (जिनाति) To decay, to be or become old."
+        },
+        {
+            "word": "ज्या",
+            "eid": "16558",
+            "pagenum": 355,
+            "content": "ज्या¦ f. (-ज्या) .²1 A mother. .²2 The earth. .²3 A bowstring. .²4 The chord of an arc. .E. ज्या to become old, to decay, affixes अङ्, and टाप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ज्या",
+            "eid": "16025",
+            "pagenum": 313,
+            "content": "ज्या¦ (ग) जिनाति 9. <i>a.</i> To decay."
+        },
+        {
+            "word": "ज्या",
+            "eid": "16026",
+            "pagenum": 313,
+            "content": "ज्या¦ (ज्या) 1. <i>f.</i> A mother; the earth; a bow-string; chord of an arc."
+        }
     ]
 }

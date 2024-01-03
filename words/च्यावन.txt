@@ -121,5 +121,21 @@
             "pagenum": 7,
             "content": "*च्यावन¦ <lex>n.</lex> II. <ls>MAHĀVY. 148,12</ls> fehlerhaft für च्यवन."
         }
+    ],
+    "SCH": [
+        {
+            "word": "च्यावन",
+            "eid": "13488",
+            "pagenum": 186,
+            "content": "*<i>cyāvana</i>¦ n. <ls>Mahāvy.</ls> 148, 12 fehlerhaft für <i>cyavana</i>. {part=,seq=13701,type=*,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "च्यावन",
+            "eid": "9369",
+            "pagenum": 254,
+            "content": "<b>cyāvana-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui fait tomber."
+        }
     ]
 }

@@ -95,5 +95,47 @@
             "pagenum": 3,
             "content": "ढ¦ <lex>m.</lex> <div n='1'> 1) <i>Laut</i> (wohl <i>ein best. Laut</i>) <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 2) <i>eine grosse Trommel</i> (ढक्का). <div n='1'>— 3) <i>Hund.</i> <div n='1'>— 4) <i>Hundeschwanz</i> <ls>MED. ḍh. 1.</ls> <div n='1'>— 5) = निर्गुण <i>eigenschaftslos</i> <ls>EKĀKṢARAK.</ls> im <ls>ŚKDR.</ls> <i>Schlange</i> <ls>WILS.</ls> nach ders. Aut."
         }
+    ],
+    "SHS": [
+        {
+            "word": "ढ",
+            "eid": "16778",
+            "pagenum": 299,
+            "content": "ढ¦ The aspirate of the preceding letter corresponding Dh: the use of this as an initial letter is very limited and several of the words in which it occurs can scarcely be regarded as pure Sanskrit."
+        },
+        {
+            "word": "ढ",
+            "eid": "16779",
+            "pagenum": 299,
+            "content": "ढ¦ m. (-ढः) 1. A large drum. 2. A dog. 3. A dog's tail. 4. Sound. 5. A serpent."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "ढ",
+            "eid": "16798",
+            "pagenum": 360,
+            "content": "ढ¦ The aspirate of the preceding letter corresponding to <i>Ḍh:</i> the use of this as an initial letter is very limited, and several of the words in which it occurs can scarely be regarded as pure <i>Sanscrit.</i>"
+        },
+        {
+            "word": "ढ",
+            "eid": "16799",
+            "pagenum": 360,
+            "content": "ढ¦ m. (ढः) .²1 A large drum. .²2 A dog. .²3 A dog's tail. .²4 Sound. .²5 A serpent."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "ढ",
+            "eid": "16264",
+            "pagenum": 318,
+            "content": "ढ¦ <i>ḍh</i> The aspirate of the preceding."
+        },
+        {
+            "word": "ढ",
+            "eid": "16265",
+            "pagenum": 318,
+            "content": "ढ¦ (ढः) 1. <i>m.</i> A large drum; a dog; his tail; sound; a serpent."
+        }
     ]
 }

@@ -111,5 +111,21 @@
             "pagenum": 5,
             "content": "अपश्चिम¦ <i>nicht der letzte</i>: श्रुतवताम् <ls>RAGH. 19, 1.</ls> <i>der letzte</i> <ls>ŚATR. 14, 318.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अपश्चिम",
+            "eid": "3512",
+            "pagenum": 48,
+            "content": "<i>apaścima</i>¦ ° = <i>advitīya</i>, <ls>S</ls> II, 37, 2. {part=,seq=3560,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अपश्चिम",
+            "eid": "2435",
+            "pagenum": 53,
+            "content": "<b>a-paścima-</b>¦ <ab>a.</ab> qui n'a personne après lui, dernier ; qui n'est pas le dernier ; <i>-am</i> pour la toute dernière fois."
+        }
     ]
 }

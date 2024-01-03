@@ -129,5 +129,27 @@
             "pagenum": 7,
             "content": "कीर्तन¦ II. <lex>n.</lex> <i>Denkmal, Monument</i> <ls>JĀTAKAM. 31,66</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कीर्तन",
+            "eid": "10693",
+            "pagenum": 147,
+            "content": "<i>kīrtana</i>¦ n. Denkmal, Monument, <ls>Jātakam.</ls> 31, 66. — S. <i>kīrti</i>. {part=,seq=10850,type=,n=2}"
+        },
+        {
+            "word": "कीर्तन",
+            "eid": "28506",
+            "pagenum": 392,
+            "content": "†<i>kīrtana</i>¦ (Denkmal) auch <ls>Prabandh.</ls> 160, 8 v.u. {part=N,seq=28877,type=†,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कीर्तन",
+            "eid": "8024",
+            "pagenum": 195,
+            "content": "<b>kīrtana-</b>¦ <ab>nt.</ab> fait de mentionner, etc. ; mention, récit ; <i>-īya-</i> (<i>-ya-</i>) <ab>a. v.</ab> qui doit être mentionné, nommé, célébré."
+        }
     ]
 }

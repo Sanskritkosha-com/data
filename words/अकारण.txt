@@ -111,5 +111,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अकारण¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अकारण",
+            "eid": "93",
+            "pagenum": 2,
+            "content": "1. <i>akāraṇa</i>¦ , <i>°tas = akāraṇāt</i> usw., <ls>Śiś.</ls> 10, 16. {part=,seq=97,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अकारण",
+            "eid": "74",
+            "pagenum": 2,
+            "content": "अकारण¦ n. (-णं) Absence or non-existence of a cause. (Used adverb ally,) Causelessly. E. अ neg. कारण cause."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अकारण",
+            "eid": "46",
+            "pagenum": 2,
+            "content": "<b>a-kāraṇa-</b>¦ <ab>nt.</ab> absence de motif ; <ab>a.</ab> sans motif ; <i>-āt -ena -e -am</i> <i>-tas</i> sans motif.  <P><i>°bandhu-</i> <ab>m.</ab> ami désintéressé."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अकारण",
+            "eid": "75",
+            "pagenum": 2,
+            "content": "अकारण¦ n. (-णं) Absence or non-existence of a cause. (Used adverbially,) Causelessly. .E. अ neg. कारण cause."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अकारण",
+            "eid": "60",
+            "pagenum": 2,
+            "content": "अ-कारण¦ (णं) <i>adv.</i> Causelessly."
+        }
     ]
 }

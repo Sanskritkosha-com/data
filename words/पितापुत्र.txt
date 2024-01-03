@@ -77,5 +77,21 @@
             "pagenum": 7,
             "content": "पितापुत्र/¦ IV. <ab>Pl.</ab> <i>der Vater und seine Söhne</i> <ls>MAITR. S. 4,2,12 (35,8. 9)</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पितापुत्र",
+            "eid": "18517",
+            "pagenum": 255,
+            "content": "<i>pitāputrá</i>¦ Pl. der Vater und seine Söhne, <ls>Maitr. S.</ls> 4, 2, 12 (35, 8. 9). {part=,seq=18783,type=,n=2}"
+        }
+    ],
+    "VEI": [
+        {
+            "word": "पितापुत्र",
+            "eid": "1815",
+            "pagenum": 1,
+            "content": "<b>Pitā-putra,</b>¦ ‘father and son,’ is a compound of rare occurrence.<sup>1</sup> <F>1) Av. vi. 112, 2; Śatapatha Brāhmaṇa, xiii. 2, 4, 4.</F>"
+        }
     ]
 }

@@ -95,5 +95,45 @@
             "pagenum": 6,
             "content": "विपाठ¦ <div n='1'> 1) <lex>m.</lex> <i>eine Art Pfeil</i> <ls>TRIK. 2, 8, 52.</ls> <ls>HĀR. 5.</ls> <ls>MBH. 1, 1552.</ls> <ls n='MBH.'>3, 15732.</ls> <ls n='MBH.'>4, 168.</ls> <ls n='MBH. 4,'>1331.</ls> <ls n='MBH. 4,'>1666.</ls> <ls n='MBH. 4,'>1668</ls> (fälschlich विपाट <ls>ed. Calc.</ls> an den zwei letzten Stellen). <ls n='MBH.'>5, 1865.</ls> <ls n='MBH.'>7, 1644.</ls> <ls>R. 6, 20, 27.</ls> <div n='1'>— 2) <lex>f.</lex> आ ein Frauenname <ls>MĀRK. P. 75, 46.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "विपाठ",
+            "eid": "23943",
+            "pagenum": 330,
+            "content": "<i>vipāṭha</i>¦ m. °schlechte Lesart, <ls>H</ls> XLIII, 93. {part=,seq=24275,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विपाठ",
+            "eid": "37014",
+            "pagenum": 663,
+            "content": "विपाठ¦ m. (-ठः) A kind of large arrow."
+        }
+    ],
+    "STC": [
+        {
+            "word": "विपाठ",
+            "eid": "18796",
+            "pagenum": 664,
+            "content": "<b>vi-pāṭha-</b>¦ <ab>m.</ab> <ab>v.</ab> <i>°pāṭa-.</i>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विपाठ",
+            "eid": "35385",
+            "pagenum": 775,
+            "content": "विपाठ¦ m. (-ठः) An arrow."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विपाठ",
+            "eid": "34974",
+            "pagenum": 695,
+            "content": "विपाठ¦ (ठः) 1. <i>m.</i> An arrow."
+        }
     ]
 }

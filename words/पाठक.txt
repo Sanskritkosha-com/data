@@ -114,5 +114,37 @@
             "pagenum": 5,
             "content": "पाठक¦ <div n='1'> 1) रामायण° <ls>KATHĀS. 55, 142.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पाठक",
+            "eid": "18251",
+            "pagenum": 252,
+            "content": "°<i>pāṭhaka</i>¦ m. reader, <ls>Harṣac.</ls> 137, 18. {part=,seq=18515,type=°,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पाठक",
+            "eid": "24238",
+            "pagenum": 439,
+            "content": "पाठक¦ m. (-कः) 1. A lecturer, a public reader of the Puraṇās or other sacred works, or a Paṇḍit who declares what is the law or custom according to the scriptures. 2. A spiritual preceptor. 3. A reader, a student. E. पठ् to read, ण्वुल् aff., or पठ, causal v. वुन् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पाठक",
+            "eid": "24183",
+            "pagenum": 522,
+            "content": "पाठक¦ m. (-कः) .²1 A lecturer, a public reader of the <i>Purāṇas</i> or other sacred works, or a <i>Paṇḍita</i> who declares what is the law or custom according to the scriptures. .²2 A spiritual preceptor. .²3 A reader, a student. .E. पठ to read, ण्वुल् aff., or पठ, causal v. वुन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पाठक",
+            "eid": "23657",
+            "pagenum": 467,
+            "content": "पाठक¦ (कः) 1. <i>m.</i> A lecturer; a spiritual preceptor; a student."
+        }
     ]
 }

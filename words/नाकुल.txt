@@ -81,5 +81,37 @@
             "pagenum": 5,
             "content": "नाकुल¦ <div n='1'> 1) <i>von</i> <is>Nakula</is> <i>herrührend</i> <ls>ṚV. PRĀT. 17, 29.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "नाकुल",
+            "eid": "16530",
+            "pagenum": 228,
+            "content": "<i>nākula</i>¦ °eine Art Trab, <ls>Kauṭ.</ls> 134, 11. {part=,seq=16781,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "नाकुल",
+            "eid": "21285",
+            "pagenum": 382,
+            "content": "नाकुल¦ mfn. (-लः-ली-लं) Relating or belonging to an ichneumon. f. (-ली) 1. A plant; the ichneumon plant, a vegetable supposed to furnish the mungoose with an antidote, when bitten in a conflict with a snake, (Serpent ophioxylon) 2. The root of the Simul tree, (कुक्कुटोकन्द) A sort of pepper, (Piper chavya) E. नकुल the ichneumon, affixes अण् and ङीष् । चविके, (चै) राम्नायां, यवतिक्तायां, श्वेत- कण्टकार्य्यां च ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "नाकुल",
+            "eid": "21299",
+            "pagenum": 458,
+            "content": "नाकुल¦ mfn. (-लः-ली-लं) Relating or belonging to an ichneumon. f. (-ली) .²1 A plant: the ichneumon plant, a vegetable supposed to furnish the mungoose with an antidote, when bitten in a conflict with a snake, (Serpent ophioxylon?) .²2 The root of the <i>Simul</i> tree, (कुक्कुटीकन्द.) A sort of pepper, (<bot>Piper chavya</bot>.) .E. नकुल the ichneumon, affixes अण् and ङीष्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "नाकुल",
+            "eid": "20784",
+            "pagenum": 409,
+            "content": "नाकुल¦ (लः-ली-लं) <i>a.</i> Of the ichneumon. <i>f.</i> The ichneumon plant; a sort of pepper."
+        }
     ]
 }

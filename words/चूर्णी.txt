@@ -85,5 +85,21 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> चूर्णी¦ II. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "चूर्णी",
+            "eid": "13416",
+            "pagenum": 185,
+            "content": "1. <i>cūrṇī</i>¦ , streiche das Sternchen davor. {part=,seq=13628,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "चूर्णी",
+            "eid": "9309",
+            "pagenum": 252,
+            "content": "<b>cūrṇī°</b>¦ <ab>v.</ab> <i>cūrṇa-.</i>"
+        }
     ]
 }

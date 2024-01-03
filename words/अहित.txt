@@ -178,5 +178,51 @@
             "pagenum": 7,
             "content": "अ/हित¦ I. 3. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अहित",
+            "eid": "6461",
+            "pagenum": 88,
+            "content": "<i>ahita</i>¦ 3. f. auch Bez. bestimmter Adern, <ls>Yājñ.</ls> 3, 108. {part=,seq=6547,type=,n=1}"
+        },
+        {
+            "word": "अहित",
+            "eid": "6461.1",
+            "pagenum": 88,
+            "content": "<i>ahita</i>¦ n. auch: eine Art zu fechten, <ls>Hariv. 3</ls>, 124, 19. <i>āhita</i> v.l. {part=,seq=6548,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अहित",
+            "eid": "4878",
+            "pagenum": 83,
+            "content": "अहित¦ mfn. (-तः-ता-तं) 1. Hostile, inimical. 2. Hurtful, prejudicial. m. (-तः) An enemy. n. (-तं) Food, &c. contra-indicated in a disease. E. अ neg. and हित friendly, fit, proper."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अहित",
+            "eid": "4874",
+            "pagenum": 106,
+            "content": "<b>a-hita-</b>¦ <ab>a.</ab> désavantageux ; nocif ; <ab>m.</ab> ennemi ; <ab>nt.</ab> dommage causé, mal."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अहित",
+            "eid": "4880",
+            "pagenum": 101,
+            "content": "अहित¦ mfn. (-तः-ता-तं) .²1 Hostile, inimical. .²2 Hurtful, prejudicial. m. (-तः) An enemy. n. (-तं) Food, &c. contra indicated in a disease. .E. अ neg. and हित friendly, fit, proper."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अहित",
+            "eid": "4250",
+            "pagenum": 80,
+            "content": "अ-हित¦ (तः-ता-तं) <i>a.</i> Hostile. <i>m.</i> An enemy."
+        }
     ]
 }

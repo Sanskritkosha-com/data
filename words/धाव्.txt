@@ -215,5 +215,27 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> धाव्¦ <ab>Caus.</ab> III. <i>*waschen lassen</i> <ls>MAHĀVY. 281,58</ls>."
         }
+    ],
+    "STC": [
+        {
+            "word": "धाव्",
+            "eid": "11186",
+            "pagenum": 341,
+            "content": "<b>1 DHĀV-</b>¦ <i>dhāvati -te ; dhāviṣyati ; dhāvayati ;</i><i> dhāvita- dhāvitvā</i> <i>dhāvya</i> -- courir, se mouvoir, couler, suivre le courant, nager, flotter ; courir après <ab>qq'un</ab> (avec ou sans <i>paścāt</i>) ; courir de tous côtés ; chercher ; courir, s'avancer vers (<i>abhimukham</i>), se précipiter <lbinfo n='7'/> sur (<ab>acc.</ab>) ; <ab>caus.</ab> faire courir, etc ; inciter."
+        },
+        {
+            "word": "धाव्",
+            "eid": "11187",
+            "pagenum": 341,
+            "content": "<b>2 DHĀV-</b>¦ <i>dhāvati -te ; dadhāvire ; dhāvyate</i><i> dhāvayati -te ; dhauta-</i> (<i>dhautvā °dhāvya</i>) <lbinfo n='3'/> -- laver, blanchir, nettoyer, purifier, rincer <lbinfo n='3'/> ; polir, astiquer, essuyer ; <ab>moy.</ab> aussi frotter, imprégner (d'une pommade), etc."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "धाव्",
+            "eid": "20108",
+            "pagenum": 396,
+            "content": "धाव्¦ (ञ, उ) धावति, ते 1. <i>c.</i> To go or move; to run; to cleanse. With अभि to approach; with आ to alight; with परि to run fast; with वि to sprinkle; with सं and उप to run, to meet."
+        }
     ]
 }

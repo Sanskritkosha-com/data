@@ -31,5 +31,21 @@
             "pagenum": 3,
             "content": "दन्ध्वन¦, so zu lesen <ab>st.</ab> दन्धन."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दन्ध्वन",
+            "eid": "15150",
+            "pagenum": 209,
+            "content": "<i>dandhvana</i>¦ , so zu lesen st. <i>dandhana</i>. {part=,seq=15387,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "दन्ध्वन",
+            "eid": "10337",
+            "pagenum": 299,
+            "content": "<b>dandhvana-</b>¦ <ab>m.</ab> sorte de roseau."
+        }
     ]
 }

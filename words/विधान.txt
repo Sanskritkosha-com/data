@@ -239,5 +239,51 @@
             "pagenum": 7,
             "content": "विधान¦ VI. 3〉l〉 °पिण्ड <ls>HARAVIJAYA 8</ls>. <ls n='HARAVIJAYA'>3</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "विधान",
+            "eid": "23844",
+            "pagenum": 329,
+            "content": "<i>vidhāna</i>¦ 3. 1) <i>°piṇḍa</i>, Haravijaya 8, 3. {part=,seq=24176,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "विधान",
+            "eid": "36799",
+            "pagenum": 659,
+            "content": "विधान¦ n. (-नं) 1. Act, action, general or particular, though more especially the performance of such acts or rites as are prescribed in the sacred books of the Hindus. 2. Rule, precept, ordinance, injunction. 3. An elephant's fodder. 4. Form, mode, manner. 5. Sending, ordering. 6. Means, expedient. 7. Wealth. 8. Worship. 9. Active enmity or act of hostility. 10. Gaining, getting, taking. 11. Conflict or contrast of opposite feelings. 12. (In grammar.) Affixing, prefixing, taking as an affix, &c. 13. Pain, sorrow, distress. 14. Arranging, disposing. 15. Creating, forming. 16. Doing, performing, using. 17. Enjoying, prescribing. E. वि before, धा to have, aff. ल्युट् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "विधान",
+            "eid": "18614",
+            "pagenum": 657,
+            "content": "<b>vi-dhāna-</b>¦ <ab>nt.</ab> arrangement, ordre, disposition <lbinfo n='6'/> (<ab>not.</ab> des feux sacrés) ; prescription, règle (<i>-ena -ais -tas</i> selon la règle ; <i>-am ā-car-</i> se conformer à la règle) ; ce qui est présent, destinée ; fait de prendre des mesures, d'appliquer <lbinfo n='4'/> des règles, moyen, façon ; création, exécution <lbinfo n='6'/> ; nourriture pour éléphants.  <P><i>°jña-</i> <ab>ag.</ab> qui connaît les règles.  <P><i>°yukta-</i> <ab>a. v.</ab> conforme à la règle."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "विधान",
+            "eid": "35183",
+            "pagenum": 770,
+            "content": "विधान¦ n. (-नं) .²1 Act, action, general or particular, though more especially the performance of such acts or rites as are prescribed in the sacred books of the <i>Hindus.</i> .²2 Rule, precept, ordinance, injunction. .²3 An elephant's fodder. .²4 Form, mode, manner. .²5 Sending, ordering. .²6 Means, expedient. .²7 Wealth. .²8 Worship. .²9 Active enmity or act of hostility. .²10 Gaining, getting, taking. .²11 Conflict or contrast of opposite feelings. .²12 (In grammar,) Affixing, prefixing, taking as an affix, &c. .E. वि before धा to have, शानच् aff."
+        },
+        {
+            "word": "विधान",
+            "eid": "35184",
+            "pagenum": 770,
+            "content": "विधान¦ mfn. (-नः-ना-नं) Having, possessing, assuming, wearing. .E. वि before धा to have, शानच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "विधान",
+            "eid": "34780",
+            "pagenum": 691,
+            "content": "वि-धान¦ (नं) 1. <i>n.</i> Act; precept; form; wealth; worship; means; hostility; getting; sending; conflict of feelings; fodder."
+        }
     ]
 }

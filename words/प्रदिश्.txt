@@ -152,5 +152,51 @@
             "pagenum": 4,
             "content": "2. प्रदि/श्¦ (1. प्र + 2. दिश्) <lex>f.</lex> <i>Zwischengegend</i> (Südost u. s. w.) <ls>H. 167.</ls> <ls>HALĀY. 1, 102.</ls> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> प्र\\दिशो\\ दिश^श्च <ls>AV. 5, 28, 2.</ls> <ls n='AV.'>9, 2, 21.</ls> <ls n='AV.'>19, 20, 2.</ls> <ls>ĀŚV. GṚHY. 2, 4. 4, 9.</ls> <ls>KAUŚ. 106.</ls> <ls>PĀR. GṚHY. 3, 3.</ls> <ls>MATSYOP. 43.</ls> <ls>MBH. 1, 6624.</ls> <ls n='MBH.'>3, 11892.</ls> <ls n='MBH.'>14, 1224.</ls> <ls>R. 6, 86, 32.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "प्रदिश्",
+            "eid": "26969",
+            "pagenum": 487,
+            "content": "प्रदिश्¦ f. (-दिक्) Intermediate point of the compass, or half quarter, as north-east, south-west. &c. 2. Direction, order, command. E. प्र implying division, and दिश् a point or quarter."
+        }
+    ],
+    "STC": [
+        {
+            "word": "प्रदिश्",
+            "eid": "14997",
+            "pagenum": 474,
+            "content": "<b>1 pra-DIŚ-</b>¦ indiquer, montrer, annoncer ; prescrire, ordonner, diriger ; exhorter, exciter <lbinfo n='3'/> ; déterminer, assigner, accorder ; <ab>caus.</ab> exhorter, exciter ; <i>°diṣṭa-</i> indiqué, déterminé, ordonné."
+        },
+        {
+            "word": "प्रदिश्",
+            "eid": "14998",
+            "pagenum": 474,
+            "content": "<b>2 pra-diś-</b>¦ <ab>f.</ab> direction, quartier, région du ciel ; (<i>-as</i> dans toutes les directions, partout) ; point intermédiaire, demi-quartier du ciel."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "प्रदिश्",
+            "eid": "2007",
+            "pagenum": 2,
+            "content": "<b>Pra-diś,</b>¦ like <b>Diś,</b> normally designates only a ‘quarter’ of the sky, or ‘point’ of the compass. Four,<sup>1</sup> five,<sup>2</sup> six,<sup>3</sup> and seven<sup>4</sup> such points are enumerated, or more generally ‘all’ are mentioned.<sup>5</sup> In some passages,<sup>6</sup> on the other hand, the word has the definite sense of an ‘intermediate quarter,’ which is more precisely denoted by <i>avāntara-diś.</i> <F>1) Rv. i. 164, 42; vii. 35, 8; x. 19, 8; Av. i. 11, 2; ii. 10, 3.</F> <F>2) Rv. ix. 86, 29; Av. i. 30, 4; iii. 4, 2; 20, 9.</F> <F>3) Av. iv. 11, 1; 20, 2; x. 7, 35.</F> <F>4) Vājasaneyi Saṃhitā, xviii. 32.</F> <F>5) Rv. vi. 75, 2; x. 121, 4.</F> <F>6) Av. v. 28, 2; ix. 2, 21; xix. 20, 2, etc.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "प्रदिश्",
+            "eid": "26385",
+            "pagenum": 572,
+            "content": "प्रदिश्¦ f. (-दिक्) Intermediate point of the compass, or half quarter, as north-east, south-west, &c. .E. प्र implying division, and दिश् a point or quarter."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "प्रदिश्",
+            "eid": "25882",
+            "pagenum": 513,
+            "content": "प्र-दिश्¦ (क्) 5. <i>f.</i> Intermediate point, or half quarter of the compass."
+        }
     ]
 }

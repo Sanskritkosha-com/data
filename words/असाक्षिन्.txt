@@ -39,5 +39,37 @@
             "pagenum": 3,
             "content": "असाक्षिन्¦ <lex>m.</lex> <i>kein Zeuge, als Zeuge nicht zulässig</i> <ls>YĀJÑ. 2,71</ls>. <ls>VIṢṆUS. 8,1</ls>. <ls n='VIṢṆUS. 8,'>5</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "असाक्षिन्",
+            "eid": "6221",
+            "pagenum": 85,
+            "content": "<i>asākṣin</i>¦ m. kein Zeuge, als Zeuge nicht zulässig, <ls>Yājñ.</ls> 2, 71; <ls>Viṣṇus.</ls> 8, 1. 5. {part=,seq=6307,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "असाक्षिन्",
+            "eid": "4573",
+            "pagenum": 78,
+            "content": "असाक्षिन्¦ mfn. (-क्षी-क्षिणी-क्षि) Incompetent as evidence. E. अ neg. साक्षिन् a witness."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "असाक्षिन्",
+            "eid": "4575",
+            "pagenum": 95,
+            "content": "असाक्षिन्¦ mfn. (-क्षी-क्षिणी-क्षि) Incompetent as evidence. .E. अ neg. साक्षिन् a witness."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "असाक्षिन्",
+            "eid": "3951",
+            "pagenum": 75,
+            "content": "अ-साक्षिन्¦ (क्षी-क्षिणी-क्षि) <i>a.</i> Incompetent as evidence or witness."
+        }
     ]
 }

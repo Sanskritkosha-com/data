@@ -61,5 +61,37 @@
             "pagenum": 7,
             "content": "कृषाण¦ II. <ls>DAMAYANTĪK. 31</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कृषाण",
+            "eid": "11204",
+            "pagenum": 154,
+            "content": "<i>kṛṣāṇa</i>¦ , <ls>Damayantīk.</ls> 31. {part=,seq=11375,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कृषाण",
+            "eid": "11454",
+            "pagenum": 201,
+            "content": "कृषाण¦ m. (-णः) A husbandman."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कृषाण",
+            "eid": "11460",
+            "pagenum": 245,
+            "content": "कृषाण¦ m. (-णः) A husbandman."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कृषाण",
+            "eid": "10910",
+            "pagenum": 209,
+            "content": "कृषाण¦ (णः) 1. <i>m.</i> Husbandman."
+        }
     ]
 }

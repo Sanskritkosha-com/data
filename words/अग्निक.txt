@@ -106,5 +106,43 @@
             "pagenum": 7,
             "content": "अग्निक¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अग्निक",
+            "eid": "415",
+            "pagenum": 6,
+            "content": "<i>agnika</i>¦ 4. = <i>āgnika</i> 2. <ls>Pañcad.</ls> {part=,seq=428,type=,n=1}"
+        },
+        {
+            "word": "अग्निक",
+            "eid": "415.1",
+            "pagenum": 6,
+            "content": "<i>Agnika</i>¦ m. ° = <i>gaṇapati</i> <ls>H</ls> 40, 24. {part=,seq=429,type=,n=0}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अग्निक",
+            "eid": "246",
+            "pagenum": 5,
+            "content": "अग्निक¦ m. (-कः) An insect of a scarlet color, the lady-bird. E. अग्नि fire and क aff. resembling fire."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अग्निक",
+            "eid": "247",
+            "pagenum": 6,
+            "content": "अग्निक¦ m. (-कः) An insect of a scarlet color, the lady-bird. .E. अग्नि fire, and क aff. resembling fire."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अग्निक",
+            "eid": "207",
+            "pagenum": 5,
+            "content": "अग्निक¦ (कः) 1. <i>m.</i> An insect of a scarlet colour, the lady-bird."
+        }
     ]
 }

@@ -114,5 +114,37 @@
             "pagenum": 5,
             "content": "मधूक¦ <div n='1'>— 1〉 <lex>m.</lex> <div n='2'>— a〉 <i>Biene</i>. <div n='2'>— b〉 <i><bot>Bassia latifolia</bot></i> <ls>RĀJAN. 11,92. 96</ls>. <div n='1'>— 2〉 <lex>n.</lex> <div n='2'>— a〉 <i>die Blüthe der <bot>Bassia latifolia</bot></i>. <div n='2'>— b〉 *<i>die Frucht der <bot n='Bassia latifolia'>B. l.</bot></i> <ls>RĀJAN. 13,75</ls>."
         }
+    ],
+    "SNP": [
+        {
+            "word": "मधूक",
+            "eid": "194",
+            "pagenum": 587,
+            "content": "<i>madhūka</i>¦ <div n='P'/>(1) [<bot>MADHUCA INDICA J. F. GMEL.</bot>] (Chopra) [= <bot>M. LATIFOLIA</bot> (<bot>ROXB.</bot>) <bot>MACBRIDE</bot>] (Chopra) = <bot>MADHUCA LATIFOLIA MACBRIDE</bot> = <bot>BASSIA LATIFOLIA ROXB.</bot> (Avk; Bpn, p. 569; Chopra; Dgv, nr. 202; Dutt; DWH 2, p. 354-362; Dy, p. 476-479; Gul; HK; Kav; KB 2, p. 1488-1490; MW; Na 1, nr. 307; Nadk. 1, nr. 320; PW; Roxb., p. 411; V 8, p. 42; Vśs; Wise); <div n='P'/>(2) [<bot>MADHUCA LONGIFOLIA (LINN.) MACBRIDE</bot>] (Chopra) = <bot>M. LONGIFOLIA MACBRIDE</bot> = <bot>BASSIA LONGIFOLIA LINN.</bot> (Ainslie 2, p. 99-101; Bpn, p. 569; Chopra; DWH 2, p. 354-362; KB 2, p. 1490-1491; Nadk. 1, nr. 321); <div n='P'/>(3) <bot>DIPLOKNEMA BUTYRACEA H. J. LAM</bot> (IRM 3, p. 88-89) = <bot>MADHUCA BUTYRACEA MACBRIDE</bot> (IRM 3, p. 88-89) = <bot>BASSIA BUTYRACEA ROXB.</bot> (DWH 2, p. 354-362); <div n='P'/>(4) <bot>GLYCYRRHIZA GLABRA LINN</bot>, (MW; PW)."
+        }
+    ],
+    "STC": [
+        {
+            "word": "मधूक",
+            "eid": "16485",
+            "pagenum": 549,
+            "content": "<b>madhūka-</b>¦ <ab>m.</ab> Bassia Latifolia, arbre oléagineux ; <ab>nt.</ab> sa floraison.  <P><i>°cchavi-</i> <ab>a.</ab> qui a la couleur des fleurs de madhūka.  <P><i>°dāman-</i> <ab>nt.</ab> <i>°mālā-</i> <ab>f.</ab> guirlande en fleurs de madhūka."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मधूक",
+            "eid": "29410",
+            "pagenum": 639,
+            "content": "मधूक¦ m. (-कः) A tree, (<bot>Bassia latifolia</bot>.) .E. मन to respect, ऊक aff., and ध substituted for the final."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मधूक",
+            "eid": "28925",
+            "pagenum": 573,
+            "content": "मधूक¦ (कः) 1. <i>m.</i> Bassia latifolia."
+        }
     ]
 }

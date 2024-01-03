@@ -133,5 +133,57 @@
             "pagenum": 7,
             "content": "<hom>2.</hom> अनवस्थान¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनवस्थान",
+            "eid": "2256",
+            "pagenum": 31,
+            "content": "1. <i>anavasthāna</i>¦ n. auch: das Nichtstehen -x-, Sichnichtaufhalten an (Lok.), <ls>Viṣṇus.</ls> 25, 11. {part=,seq=2290,type=,n=3}"
+        },
+        {
+            "word": "अनवस्थान",
+            "eid": "2257",
+            "pagenum": 31,
+            "content": "2. <i>anavasthāna</i>¦ 1. <ls>Bhāg. P.</ls> 5, 6, 2. {part=,seq=2291,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनवस्थान",
+            "eid": "1281",
+            "pagenum": 23,
+            "content": "अनवस्थान¦ mfn. (-नः-ना-नं) Unsteady, mutable, variable, not stationary. n. (-नं) 1. Instability. 2. Wrong situation or direction. 3. Misconduct. m. (-नः) Wind. E. अन् neg. अवस्थान fixture."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनवस्थान",
+            "eid": "1297",
+            "pagenum": 29,
+            "content": "<b>an-avasthāna-</b>¦ <ab>nt.</ab> impermanence, incertitude. <lbinfo n='6'/>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनवस्थान",
+            "eid": "1283",
+            "pagenum": 28,
+            "content": "अनवस्थान¦ mfn. (-नः-ना-नं) Unsteady, mutable, variable, not stationary. n. (-नं) .²1 Instability. .²2 Wrong situation or direction. .²3 Misconduct. m. (-नः) Wind. .E. अन् neg. अवस्थान fixture."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनवस्थान",
+            "eid": "1077",
+            "pagenum": 23,
+            "content": "अन_व-स्थान¦ (नं) 1. <i>n.</i> Instability."
+        },
+        {
+            "word": "अनवस्थान",
+            "eid": "44520",
+            "pagenum": 911,
+            "content": "अन_वस्थान¦ (नः-ना-नं) <i>a.</i> Fickle."
+        }
     ]
 }

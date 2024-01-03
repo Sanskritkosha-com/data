@@ -61,5 +61,21 @@
             "pagenum": 7,
             "content": "आमित्र¦ auch <i>dem Feinde gehörig</i> <ls>MBH. 8,12,40</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आमित्र",
+            "eid": "7149",
+            "pagenum": 98,
+            "content": "<i>āmitra</i>¦ auch: dem Feinde gehörig, <ls>MBh.</ls> 8, 12, 40. {part=,seq=7247,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आमित्र",
+            "eid": "5411",
+            "pagenum": 119,
+            "content": "<b>āmitra-</b>¦ <ab>a.</ab> appartenant à l'ennemi, inamical. <lbinfo n='5'/>"
+        }
     ]
 }

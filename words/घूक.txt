@@ -98,5 +98,37 @@
             "pagenum": 7,
             "content": "घूक¦ <ls>Spr. (II) 3814.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "घूक",
+            "eid": "12783",
+            "pagenum": 176,
+            "content": "<i>ghūka</i>¦ Eule auch <ls>Śrīk.</ls> 22, 36. {part=,seq=12981,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "घूक",
+            "eid": "14464",
+            "pagenum": 255,
+            "content": "घूक¦ m. (-कः) An owl. E. घू an imitative sound, and कै who sounds, from कै with क aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "घूक",
+            "eid": "14473",
+            "pagenum": 310,
+            "content": "घूक¦ m. (-कः) An owl. .E. घू an imitative sound, and क who sounds, from कै with ड aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "घूक",
+            "eid": "13930",
+            "pagenum": 271,
+            "content": "घूक¦ (कः) 1. <i>m.</i> An owl."
+        }
     ]
 }

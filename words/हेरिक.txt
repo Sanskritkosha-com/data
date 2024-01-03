@@ -76,5 +76,37 @@
             "pagenum": 7,
             "content": "हेरिक¦ <lex>m.</lex> <i>Späher</i> <ls>H. 733</ls> schlechte Lesart für हैरिक ."
         }
+    ],
+    "SCH": [
+        {
+            "word": "हेरिक",
+            "eid": "27643",
+            "pagenum": 379,
+            "content": "*<i>herika</i>¦ m. Späher, <ls>S</ls> II, 137, 14 v.u. (Ko.) {part=,seq=28014,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "हेरिक",
+            "eid": "47185",
+            "pagenum": 837,
+            "content": "हेरिक¦ m. (-कः) A spy, a secret emissary or agent. E. हि to go, इक् Unādi aff., रुट् augment."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "हेरिक",
+            "eid": "44469",
+            "pagenum": 980,
+            "content": "हेरिक¦ m. (-कः) A spy, a secret emissary or agent."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "हेरिक",
+            "eid": "44307",
+            "pagenum": 905,
+            "content": "हेरिक¦ (कः) 1. <i>m.</i> A spy."
+        }
     ]
 }

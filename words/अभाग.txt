@@ -101,5 +101,43 @@
             "pagenum": 7,
             "content": "अभाग/¦ I. 1."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अभाग",
+            "eid": "3982",
+            "pagenum": 55,
+            "content": "<i>abhāgá</i>¦ , f. <i>ā</i> <ls>Tāṇḍya-Br.</ls> 6, 7, 5. {part=,seq=4036,type=,n=1}"
+        },
+        {
+            "word": "अभाग",
+            "eid": "27883",
+            "pagenum": 384,
+            "content": "<i>abhāga</i>¦ °Subst. m. unrichtiger Körperteil, <ls>Kauṭ.</ls> 139, 2 (<i>abhāge ghātaḥ</i>). {part=N,seq=28254,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अभाग",
+            "eid": "2467",
+            "pagenum": 43,
+            "content": "अभाग¦ mfn. (-गः-गा-गं) Not sharing or dividing. E. अ neg. भाग a share."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अभाग",
+            "eid": "2786",
+            "pagenum": 59,
+            "content": "<b>a-bhāga-</b>¦ <ab>a.</ab> qui n'a pas part à.  <P><i>°dheya-</i> <ab>a.</ab> qu'on ne doit pas faire participer à."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अभाग",
+            "eid": "2469",
+            "pagenum": 52,
+            "content": "अभाग¦ mfn. (-गः-गा-गं) Not sharing or dividing. .E. अ neg. भाग a share."
+        }
     ]
 }

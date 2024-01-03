@@ -116,5 +116,37 @@
             "pagenum": 7,
             "content": "अववाद¦ I. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अववाद",
+            "eid": "5406",
+            "pagenum": 74,
+            "content": "<i>avavāda</i>¦ 2., <ls>Śiś.</ls> 6, 9. {part=,seq=5481,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अववाद",
+            "eid": "3857",
+            "pagenum": 67,
+            "content": "अववाद¦ m. (-दः) 1. A command, an order. 2. Censure, reproach. 3. Trust, confidence. E. अव implying disrespect, and वाद speech."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अववाद",
+            "eid": "3859",
+            "pagenum": 81,
+            "content": "अववाद¦ m. (-दः) .²1 A command, an order. .²2 Censure, reproach. .²3 Trust, confidence. .E. अव implying disrespect, and वाद speech."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अववाद",
+            "eid": "3282",
+            "pagenum": 63,
+            "content": "अव-वाद¦ (दः) 1. <i>m.</i> A command; censure; trust, confidence."
+        }
     ]
 }

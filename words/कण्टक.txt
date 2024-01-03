@@ -258,5 +258,51 @@
             "pagenum": 7,
             "content": "कण्टक¦ II. <ab>term. techn.</ab> aus der Zeichenkunst <ls>DAMAYANTĪK. 200</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कण्टक",
+            "eid": "9589",
+            "pagenum": 132,
+            "content": "<i>kaṇṭaka</i>¦ t. t. aus der Zeichenkunst, <ls>Damayantīk.</ls> 200. {part=,seq=9718,type=,n=1}"
+        },
+        {
+            "word": "कण्टक",
+            "eid": "9589.1",
+            "pagenum": 132,
+            "content": "<i>kaṇṭaka</i>¦ m. *informer, telltale, <ls>Vās.</ls> 18, 1. {part=,seq=9719,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कण्टक",
+            "eid": "8703",
+            "pagenum": 150,
+            "content": "कण्टक¦ mn. (-कः-कं) 1. A thorn. 2. A paltry foe. 3. A fish bone. 4. Horripilation, or the erection of the hair of the body. 5. Any annoyance or source of vexation. 6. A term in the Nyaya philosophy, implying refutation of argument, detection of error, &c. m. (-कः) 1. A work-shop, a manufactory. 2. Fault, defect. 3. The point of a pin or needle. 4. A fish or marine monster, the symbol of KAMADEVA: see मकर. 5. A bamboo. E. कटि to divide, वुन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कण्टक",
+            "eid": "7542",
+            "pagenum": 172,
+            "content": "<b>kaṇṭaka-</b>¦ <ab>m.</ab> épine, écharde, pointe, aiguillon, arête ; individu dangereux, rebelle, ennemi (de l'État) ; paroles injurieuses, contrariété <lbinfo n='8'/> ; <i>-in-</i> <ab>a.</ab> épineux.  <P><i>°druma-</i> <ab>m.</ab> plante ou arbre muni d'épines <lbinfo n='3'/> ; <i>kaṇṭaki-druma-</i> <ab>id.</ab>  <P><i>°bhuj-</i> <ab>m.</ab> chameau.  <P><i>kaṇṭakoddharaṇa-</i> <ab>nt.</ab> destruction des ennemis <lbinfo n='3'/> publics."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कण्टक",
+            "eid": "8708",
+            "pagenum": 183,
+            "content": "कण्टक¦ mn. (-कः-कं) .²1 A thorn. .²2 A paltry foe. .²3 A fish bone. .²4 Horripilation, or the erection of the hair of the body. .²5 Any annoyance or source of vexation. .²6 A term in the <i>Nyāya</i> philosophy, implying refutation of argument, detection of error, &c. m. (-कः) .²1 A workshop, a manufactory. .²2 Fault, defect. .²3 The point of a pin or needle. .²4 A fish or marine monster, the symbol of KĀMADEVA: see मकर. .²5 A bamboo. .E. कटि to divide, वुन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कण्टक",
+            "eid": "8138",
+            "pagenum": 152,
+            "content": "कण्टक¦ (कः-कं) 1. <i>m. n.</i> A thorn; a paltry foe, a fish-bone; horripilation; refutation. <i>m.</i> Workshop; defect; point of a needle; a marine monster."
+        }
     ]
 }

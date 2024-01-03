@@ -31,5 +31,21 @@
             "pagenum": 7,
             "content": "दुरुपसद¦ <lex>Adj.</lex> <i>schwer zugänglich</i> <ls>KIR. 7,9</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "दुरुपसद",
+            "eid": "15494",
+            "pagenum": 213,
+            "content": "<i>durupasada</i>¦ Adj. schwer zugänglich, <ls>Kir.</ls> 7, 9. {part=,seq=15735,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "दुरुपसद",
+            "eid": "10642",
+            "pagenum": 313,
+            "content": "<b>dur-upasada-</b>¦ <ab>a.</ab> d'un accès difficile."
+        }
     ]
 }

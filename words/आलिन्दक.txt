@@ -7,5 +7,21 @@
             "pagenum": 1,
             "content": "आलिन्दक¦ <lex>m.</lex> dass. <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "आलिन्दक",
+            "eid": "7345",
+            "pagenum": 100,
+            "content": "*<i>ālindaka</i>¦ = <i>alindaka</i> (at end of comp.: ? <i>*ālinda</i>), <ls>Harṣac.</ls> 157, 16. {part=,seq=7447,type=*,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आलिन्दक",
+            "eid": "5603",
+            "pagenum": 124,
+            "content": "<b>ālindaka-</b>¦ <ab>m.</ab> terrasse, perron."
+        }
     ]
 }

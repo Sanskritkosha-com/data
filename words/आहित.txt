@@ -153,5 +153,51 @@
             "pagenum": 7,
             "content": "आहित¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आहित",
+            "eid": "7576",
+            "pagenum": 103,
+            "content": "<i>āhita</i>¦ n. eine Art zu fechten, <ls>Hariv. 15979.</ls> <i>ahita</i> v.l. {part=,seq=7683,type=,n=1}"
+        },
+        {
+            "word": "आहित",
+            "eid": "7576.1",
+            "pagenum": 103,
+            "content": "<i>āhita</i>¦ °Subst. n. Wiederverheiratungsgeschenk (= <i>ādhivedanika</i>), <ls>Kauṭ.</ls> 157, 2. M, B lesen <i>ānīta</i>. {part=,seq=7684,type=,n=4}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आहित",
+            "eid": "6129",
+            "pagenum": 105,
+            "content": "आहित¦ mfn. (-तः-ता-तं) 1. Placed, deposited. 2. Entertained, felt. 3. Comprising, containing. 4. Made, done. E. आङ् before धा to have or hold, part. affix क्त, form irr."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आहित",
+            "eid": "5859",
+            "pagenum": 130,
+            "content": "<b>ā-hita-</b>¦ <ab>a. v.</ab> placé sur ; déposé ; effectué.  <P><i>āhitāgni-</i> <ab>a.</ab> (prêtre) chargé du feu sacré ; <ab>m.</ab> qui a établi les feux domestiques (2{^e^} stade de la vie brahmique)."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आहित",
+            "eid": "6131",
+            "pagenum": 128,
+            "content": "आहित¦ mfn. (-तः-ता-तं) .²1 Placed, deposited. .²2 Entertained, felt. .²3 Comprising, containing. .²4 Made, done. .E. आङ्, धा to have or hold, part. affix क्त, form irr."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आहित",
+            "eid": "5511",
+            "pagenum": 104,
+            "content": "आ-हित¦ (तः-ता-तं) <i>a.</i> Placed; done."
+        }
     ]
 }

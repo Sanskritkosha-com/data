@@ -317,5 +317,25 @@
             "pagenum": 2,
             "content": "कालिका¦ <ab>s. u.</ab> कालक."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कालिका",
+            "eid": "10532",
+            "pagenum": 145,
+            "content": "<i>kālikā</i>¦ 4. f. b) *Schwärze, <ls>Govardh.</ls> 357. — g) eine dunkle Wolkenmasse, auch <ls>H</ls> 43, 153. {part=,seq=10686,type=,n=1}"
+        },
+        {
+            "word": "कालिका",
+            "eid": "10532.1",
+            "pagenum": 145,
+            "content": "<i>kālikā</i>¦ <ls>Vaij.</ls> 86, 49 bucklig? {part=,seq=10687,type=,n=3}"
+        },
+        {
+            "word": "कालिका",
+            "eid": "28489",
+            "pagenum": 392,
+            "content": "<i>kālikā</i>¦ f. °eine Pelzart, <ls>Kauṭ.</ls> II, 11 (79, 11). {part=N,seq=28860,type=,n=2}"
+        }
     ]
 }

@@ -169,5 +169,45 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> अ/तस्¦ I. 3."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अतस्",
+            "eid": "962",
+            "pagenum": 14,
+            "content": "1. <i>átas</i>¦ Z. 2 stelle das Eingeklammerte nach subst. und vgl. <ls>P. 2, 4, 33.</ls> {part=,seq=984,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अतस्",
+            "eid": "686",
+            "pagenum": 13,
+            "content": "अतस्¦ ind. 1. Hence, therefore, from this cause. 2. An interjection of command. E. एतद् this, and तस् affix; irregular formation."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अतस्",
+            "eid": "320",
+            "pagenum": 10,
+            "content": "<b>atas</b>¦ <ab>adv.</ab> (servant d'<ab>abl.</ab>' à <i>idam-</i>) de ou par celui-ci, celle-ci, ceci (adj. et pronom) ; de là ; à partir de là, après cela, ensuite ; par suite de cela, c'est pourquoi.  <P><i>ato-nimittam</i> <ab>adv.</ab> c'est pourquoi ; <i>°'rtham</i> <ab>id.</ab>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अतस्",
+            "eid": "687",
+            "pagenum": 15,
+            "content": "अतस्¦ ind. .²1 Hence, therefore, from this cause. .²2 An interjection of command. .E. एतद this, and तस् affix; irregular formation."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अतस्",
+            "eid": "607",
+            "pagenum": 13,
+            "content": "अतस्,¦ अतः <i>conj.</i> Therefore, thence."
+        }
     ]
 }

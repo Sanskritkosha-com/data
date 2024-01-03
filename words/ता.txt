@@ -28,5 +28,27 @@
             "pagenum": 3,
             "content": "ता¦ Nebenform von <hom>1.</hom> तन् vor य."
         }
+    ],
+    "SCH": [
+        {
+            "word": "ता",
+            "eid": "14167",
+            "pagenum": 195,
+            "content": "2. <i>[tā]</i>¦ , <i>te</i> auch Akk.; s. Pischel in <ls>ZDMG</ls> 35, 714 f. {part=,seq=14393,type=,n=2}"
+        },
+        {
+            "word": "ता",
+            "eid": "14423",
+            "pagenum": 199,
+            "content": "°<i>tā</i>¦ = <i>lakṣmī, śobhā</i>, <ls>S</ls> I, 41, 3 s. <i>vāravanitā</i>. {part=,seq=14652,type=°,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "ता",
+            "eid": "9947",
+            "pagenum": 280,
+            "content": "<b>TĀ-</b>¦ <ab>v.</ab> <i>TAN-.</i>"
+        }
     ]
 }

@@ -44,5 +44,37 @@
             "pagenum": 6,
             "content": "रत्नसानु¦ <lex>m.</lex> Bein. des Berges <is>Meru</is> <ls>AK. 1, 1, 1, 45.</ls> <ls>H. 1032.</ls> <ls>HALĀY. 1, 136.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "रत्नसानु",
+            "eid": "22452",
+            "pagenum": 310,
+            "content": "<i>ratnasānu</i>¦ auch <ls>H</ls> 11, 76. {part=,seq=22762,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "रत्नसानु",
+            "eid": "33177",
+            "pagenum": 596,
+            "content": "रत्नसानु¦ m. (-नुः) The mountain Meru. E. रत्न a jewel, सानु ridge of a mountain."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "रत्नसानु",
+            "eid": "31877",
+            "pagenum": 695,
+            "content": "रत्नसानु¦ m. (-नुः) The mountain <i>Meru.</i> .E. रत्न a jewel, and सानु ridge of a mountain."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "रत्नसानु",
+            "eid": "31443",
+            "pagenum": 622,
+            "content": "रत्न-सानु¦ (नुः) 2. <i>m.</i> Mountain <i>Meru.</i>"
+        }
     ]
 }

@@ -47,5 +47,29 @@
             "pagenum": 5,
             "content": "मसिक¦ <lex>m.</lex> <i>das Loch einer Schlange</i> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "मसिक",
+            "eid": "30810",
+            "pagenum": 555,
+            "content": "मसिक¦ m. (-कः) A snake's hole. f. (-का) 1. A plant, (Nyctanthes tristis.) 2. Ink. E. मसि the stalk of the plant, &c., कन् added."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "मसिक",
+            "eid": "29772",
+            "pagenum": 647,
+            "content": "मसिक¦ m. (-कः) A snake's hole. f. (-का) .²1 A plant, (<bot>Nyctanthes tristis</bot>.) .²2 Ink. .E. मसि the stalk of the plant, &c., कन् added."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "मसिक",
+            "eid": "29294",
+            "pagenum": 580,
+            "content": "मसिक¦ (कः) 1. <i>m.</i> A snake's hole. <i>f.</i> (का) Nyctanthes tristis; ink."
+        }
     ]
 }

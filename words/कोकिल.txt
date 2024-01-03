@@ -204,5 +204,45 @@
             "pagenum": 7,
             "content": "कोकिल¦ <div n='1'> 1) weiss als Wundererscheinung <ls>HARIV. 7673.</ls> <ls n='HARIV.'>8369.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "कोकिल",
+            "eid": "11700",
+            "pagenum": 206,
+            "content": "कोकिल¦ m. (-लः) 1. The Kokila or Koil, the black or Indian cuckoo, (Cuculus Indicus.) 2. A firebrand, a lighted coal. E. कुक् to seize, (the heart,) and इलच् affix: the Kokila makes a prominent figure in Hindu poetry, and is supposed, by his musical cry, to inspire pleasing and tender emotions."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कोकिल",
+            "eid": "8294",
+            "pagenum": 209,
+            "content": "<b>kokila-</b>¦ <ab>m.</ab> coucou indien (renommé pour son chant, Eudynamis orientalis, auj. Koïl) ; <i>-ka-</i> <ab>id.</ab> ; <i>-ā-</i> <ab>f.</ab> femelle du kokila.  <P><i>kokilakṣa-</i> <ab>m.</ab> Asteracantha longifolia."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कोकिल",
+            "eid": "728",
+            "pagenum": 1,
+            "content": "<b>Kokila,</b>¦ a very frequent word in the Epic and later, denoting the cuckoo, is only inferred for the Vedic period from its being the name of a Rājaputra in the Kāṭhaka Anukramaṇī.<sup>1</sup> <F>1) Weber, <i>Indische Studien,</i> 3, 460.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कोकिल",
+            "eid": "11707",
+            "pagenum": 250,
+            "content": "कोकिल¦ m. (-लः) .²1 The <i>Kokila</i> or <i>Koïl,</i> the black or <i>Indian</i> cuckoo, (<bio>Cuculus Indicus</bio>.) .²2 A firebrand, a lighted coal. .E. कुक to seize, (the heart,) and इलच् affix: the <i>Kokila</i> makes a prominent figure in <i>Hindu</i> poetry, and is supposed, by his musical cry, to inspire pleasing and tender emotions."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कोकिल",
+            "eid": "11155",
+            "pagenum": 214,
+            "content": "कोकिल¦ (लः) 1. <i>m.</i> The cuckoo; a fire brand, a lighted coal."
+        }
     ]
 }

@@ -258,5 +258,63 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> राज्¦ mit प्र <i>Jmd</i> (<ab>Acc.</ab>) <i>prangend erscheinen</i> <ls>ṚV. 8,6,26</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "राज्",
+            "eid": "22574",
+            "pagenum": 311,
+            "content": "1. <i>rāj</i>¦ mit <i>pra</i> jemand (Akk.) prangend erscheinen, <ls>ṚV. 8, 6, 26.</ls> {part=,seq=22887,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "राज्",
+            "eid": "33399",
+            "pagenum": 600,
+            "content": "राज् (ऋ,) राजृ¦ r. 1st cl. (राजति-ते or irregularly रेजते) To shine: With निर् prefixed, To overcome, to subdue. Caus. (राजयति-ते) With निस् 1. To adorn, to illuminate. 2. To wave light before an idol or a king, (as an act of worship.)"
+        },
+        {
+            "word": "राज्",
+            "eid": "33400",
+            "pagenum": 600,
+            "content": "राज्¦ m. (-राट्) A king, a monarch or prince. E. राज् to shine, aff. क्विप् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "राज्",
+            "eid": "17363",
+            "pagenum": 602,
+            "content": "<b>1 RĀJ-</b>¦ <i>rājati -te ; rarāja reje ; rājayati -te ; rājita-</i> -- être roi, régner (sur, <ab>gén.</ab> <ab>acc.</ab>), gouverner ; resplendir, briller ; ressembler à ; <ab>caus.</ab> régner."
+        },
+        {
+            "word": "राज्",
+            "eid": "17364",
+            "pagenum": 602,
+            "content": "<b>2 rāj-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> (<ab>nom.</ab> <i>rāṭ</i>) qui brille ; <ab>m.</ab> (<ab>ifc.</ab>) roi, chef."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "राज्",
+            "eid": "32083",
+            "pagenum": 700,
+            "content": "राज्¦ m. (राट्) A king, a monarch or prince. .E. राज to shine, aff. क्विप्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "राज्",
+            "eid": "31648",
+            "pagenum": 626,
+            "content": "राज्¦ (ङ, ऋ) राजते, रेजते 1. <i>d.</i> To shine. With निर to overcome."
+        },
+        {
+            "word": "राज्",
+            "eid": "31649",
+            "pagenum": 626,
+            "content": "राज्¦ (ट्) 5. <i>m.</i> A king."
+        }
     ]
 }

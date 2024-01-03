@@ -174,5 +174,63 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> कास¦ II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कास",
+            "eid": "10591",
+            "pagenum": 146,
+            "content": "1. <i>kāsa</i>¦ m. das Gehen, Sichbewegen, <ls>Śiś.</ls> 19, 27. [<ls>H</ls> 31, 28.] {part=,seq=10747,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कास",
+            "eid": "10351",
+            "pagenum": 181,
+            "content": "कास¦ r. 1st cl. (ऋ) कासृ (कासते) 1. To make a bad sound, or one indicating disease; to cough. 2. To shine: see काश."
+        },
+        {
+            "word": "कास",
+            "eid": "10352",
+            "pagenum": 181,
+            "content": "कास¦ m. (-सः) 1. Cough, catarrh. 2. A species of reed or long grass, (Saccharum spontaneum.) 3. Morunga, (Hyperanthera, &c.) see शीभाञ्जन. E. कास् to cough, to make an unpleasant sound, अच् affix: also काश् to shine, &c. see काश."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कास",
+            "eid": "7986",
+            "pagenum": 193,
+            "content": "<b>1 kāsa-</b>¦ <ab>m.</ab> toux."
+        },
+        {
+            "word": "कास",
+            "eid": "7987",
+            "pagenum": 193,
+            "content": "<b>2 kāsa-</b>¦ <ab>m.</ab> action d'aller, mouvement."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कास",
+            "eid": "10357",
+            "pagenum": 220,
+            "content": "कास¦ r. 1st cl. (ऋ) कासृ (कासते) .²1 To make a bad sound, or one indicating disease; to cough. .²2 To shine: see काश."
+        },
+        {
+            "word": "कास",
+            "eid": "10358",
+            "pagenum": 220,
+            "content": "कास¦ m. (-सः) .²1 Cough, catarrh. .²2 A species of reed or long grass, (<bot>Saccharum spontaneum</bot>.) .²3 <bot>Morunga</bot>, (Hyperanthera, &c.) see शोभाञ्जन. .E. कास to cough, to make an unpleasant sound, अच् affix; also काश to shine, &c. see काश."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कास",
+            "eid": "9796",
+            "pagenum": 185,
+            "content": "कास¦ (सः) 1. <i>m.</i> Cough; a kind of reed or long grass."
+        }
     ]
 }

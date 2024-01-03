@@ -309,5 +309,45 @@
             "pagenum": 7,
             "content": "<hom>3.</hom> आम und आमकोशिन्¦ 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आम",
+            "eid": "7128",
+            "pagenum": 97,
+            "content": "3. <i>āma</i>¦ Adv. ja (Bejahung). <i>āmeti</i> <ls>Hem. Par.</ls> 3, 93. 95. {part=,seq=7226,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "आम",
+            "eid": "5582",
+            "pagenum": 95,
+            "content": "आम¦ mfn. (-मः-मा-मं) 1. Raw, undressed, unripe. 2. Unbaked, unannealed. m. (-मः) 1. Sickness, disease. 3. Constipation, passing hard and unhealthy excretions. 4. Grain freed from the chaff. E. अम् to be sick, घञ् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "आम",
+            "eid": "5396",
+            "pagenum": 119,
+            "content": "<b>āma-</b>¦ <ab>a.</ab> cru, non cuit (dit aussi d'un vase de terre) ; non mûr, vert ; moelleux ; <ab>m.</ab> fils de Kṛṣṇa.  <P><i>°jvara-</i> <ab>m.</ab> dysenterie, indigestion.  <P><i>°tvac-</i> <ab>a.</ab> à la peau fine.  <P><i>°pātra-</i> <ab>nt.</ab> vase en terre non cuite.  <P><i>āmāśaya-</i> (lieu des aliments non digérés) <ab>m.</ab> estomac ; <i>āmāśraya-</i> <ab>id.</ab>  <P><i>āmeṣṭaka-</i> <ab>a.</ab> consistant en briques non cuites."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "आम",
+            "eid": "5584",
+            "pagenum": 116,
+            "content": "आम¦ mfn. (-मः-मा-मं) .²1 Raw, undressed, unripe. .²2 Unbaked, unannealed. m. (-मः) .²1 Sickness, disease. .²2 Constipation, passing hard and unhealthy excretions. .²3 Grain freed from the chaff. .E. अम to be sick, घञ् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "आम",
+            "eid": "4961",
+            "pagenum": 93,
+            "content": "आम¦ (मः) 1. <i>m.</i> Sickness. <i>a.</i> Raw."
+        }
     ]
 }

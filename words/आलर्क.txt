@@ -61,5 +61,21 @@
             "pagenum": 5,
             "content": "आलर्क¦ <ls>UTTARARĀMAC. 20, 6.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "आलर्क",
+            "eid": "7333",
+            "pagenum": 100,
+            "content": "<i>ālarka</i>¦ Adj. auch °von Calotropis gigantea alba herrührend, <ls>Uttarar.</ls> I, 40<sup>d</sup> (nach dem Komm. von <ls>Ghāṭe</ls> in dessen Ausgabe). {part=,seq=7435,type=,n=4}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आलर्क",
+            "eid": "5587",
+            "pagenum": 124,
+            "content": "<b>ālarka-</b>¦ <ab>a.</ab> provenant de la Calotropis Gigantea Alba ; causé par un chien enragé."
+        }
     ]
 }

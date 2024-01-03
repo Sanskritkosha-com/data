@@ -133,5 +133,21 @@
             "pagenum": 5,
             "content": "अदेव¦ <div n='1'> 1) <div n='2'> b) <ls>Sp. 130, Z. 3 lies 2, 41 st. 4, 41.</ls> <div n='1'>— 2) = असुर <ls>BHĀG. P. 3, 20, 23.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अदेव",
+            "eid": "1583",
+            "pagenum": 22,
+            "content": "<i>adeva</i>¦ ? <ls>S</ls> I, 13, 2 <i>[adevamātṛkāḥ nadījalaniṣpannasasyopajīvinaḥ</i>]. {part=,seq=1609,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अदेव",
+            "eid": "915",
+            "pagenum": 20,
+            "content": "<b>a-deva-</b>¦ <ab>m.</ab> non dieu, Asura.  <P><i>°mātṛka-</i> <ab>a.</ab> irrigué artificiellement."
+        }
     ]
 }

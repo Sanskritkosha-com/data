@@ -146,5 +146,45 @@
             "pagenum": 7,
             "content": "उत्पादक¦ <div n='1'> 1) <i>productiv</i>: Dichter <ls>Spr. (II) 6788</ls>; vgl. die Note."
         }
+    ],
+    "SCH": [
+        {
+            "word": "उत्पादक",
+            "eid": "8155",
+            "pagenum": 112,
+            "content": "<i>utpādaka</i>¦ m. *= <i>śarabha</i>, <ls>Harṣac.</ls> śl. 5. {part=,seq=8268,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "उत्पादक",
+            "eid": "6879",
+            "pagenum": 118,
+            "content": "उत्पादक¦ mfn. (-कः-का-कं) 1. A producer, a generator. 2. What gives origin or production to, causative. m. (-कः) A fabulous animal with eight legs; written also उत्पातक n. (-कं) Origin, cause. f. (-दिका) 1. A white ant, (termes.) 2. A potherb, (Hilancha repens.) 3. Also, Basella, (rubra or lucida.) E. उत् much, पद a foot, or पद् to go, in the causal form, and वुन् aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "उत्पादक",
+            "eid": "6217",
+            "pagenum": 139,
+            "content": "<b>ut-pādaka-</b>¦ <ab>a.</ab> productif ; <ab>ag.</ab> producteur, père."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "उत्पादक",
+            "eid": "6881",
+            "pagenum": 144,
+            "content": "उत्पादक¦ mfn. (-कः-का-कं) .²1 A producer, a generator. .²2 What gives origin or production to, causative. m. (-कः) A fabulous animal with eight legs: written also उत्यातकः. n. (-कं) Origin, cause. f. (-दिका) .²1 A white ant, (termes.) .²2 A potherb, (<bot>Hilancha repens</bot>.) .²3 Also, <bot>Basella</bot>, (rubra or lucida.) .E. उत् much, पद a foot, or पद to go, in the causal, and वुन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "उत्पादक",
+            "eid": "6283",
+            "pagenum": 118,
+            "content": "उत्पा_दक¦ (कः) 1. <i>m.</i> A fabulous animal with eight legs. <i>a.</i> Creating. (दिका) 1. <i>f.</i> White ant; an herb."
+        }
     ]
 }

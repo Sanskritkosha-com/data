@@ -148,5 +148,49 @@
             "pagenum": 5,
             "content": "खज¦ <div n='1'> 1) <div n='2'> b) <i>Rührstock</i> <ls>MBH. 12, 7784.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "खज",
+            "eid": "12578",
+            "pagenum": 221,
+            "content": "खज¦ r. 1st cl. (खजति) To churn or agitate. (इ,) खजि (खञ्जति) To limp, to halt, to walk lame or ill."
+        },
+        {
+            "word": "खज",
+            "eid": "12579",
+            "pagenum": 221,
+            "content": "खज¦ m. (-जः) A ladle, a spoon. f. (-जा) 1. Churning, stirring. 2. Killing, destroying. 3. The palm with the fingers extended. E. खज् to agitate, &c. affix अच्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "खज",
+            "eid": "8559",
+            "pagenum": 219,
+            "content": "<b>khaja-</b>¦ <ab>m.</ab> <i>-ā-</i> <ab>f.</ab> bâton servant pour agiter, pour baratter."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खज",
+            "eid": "12584",
+            "pagenum": 269,
+            "content": "खज¦ r. 1st cl. (खजति) To churn or agitate. (इ,) खजि (खञ्जति) To limp, to halt, to walk lame or ill."
+        },
+        {
+            "word": "खज",
+            "eid": "12585",
+            "pagenum": 269,
+            "content": "खज¦ m. (-जः) A ladle, a spoon. f. (-जा) .²1 Churning, stirring. .²2 Killing, destroying. .²3 The palm with the fingers extended. .E. खज to agitate, &c. affix अच्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खज",
+            "eid": "12039",
+            "pagenum": 232,
+            "content": "खज¦ (जः) 1. <i>m.</i> Ladle, spoon. <i>f.</i> (जा) Churning; killing; palm of the hand with the fingers extended."
+        }
     ]
 }

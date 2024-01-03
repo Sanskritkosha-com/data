@@ -39,5 +39,37 @@
             "pagenum": 6,
             "content": "वर्षारात्र <lex>m.</lex> (<ls>R. 4,26,24</ls>. <ls n='R.'>7,64,10</ls>) und °रात्रि <lex>f.</lex> (<ls>R. GORR. 1,3,18</ls>)¦ <i>die Regenzeit</i>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वर्षारात्र",
+            "eid": "23291",
+            "pagenum": 322,
+            "content": "<i>varṣārātra</i>¦ m. auch <ls>S</ls> II, 194, 2. {part=,seq=23616,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वर्षारात्र",
+            "eid": "35386",
+            "pagenum": 635,
+            "content": "वर्षारात्र¦ m. (-त्रः) A rainy night, the rainy season. E. वर्षा and रात्रि night."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वर्षारात्र",
+            "eid": "33854",
+            "pagenum": 740,
+            "content": "वर्षारात्र¦ m. (-त्रः) A rainy night. .E. वर्षा, and रात्रि night."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वर्षारात्र",
+            "eid": "33443",
+            "pagenum": 663,
+            "content": "वर्षा-रात्र¦ (त्रः) 1. <i>m.</i> A rainy night."
+        }
     ]
 }

@@ -146,5 +146,29 @@
             "pagenum": 7,
             "content": "कैवर्त¦ II. 2〉b〉 mit einem *zu versehen."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कैवर्त",
+            "eid": "11357",
+            "pagenum": 156,
+            "content": "<i>kaivarta</i>¦ 2. b) mit einem *zu versehen. {part=,seq=11530,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "कैवर्त",
+            "eid": "8288",
+            "pagenum": 209,
+            "content": "<b>kaivarta-</b>¦ <i>-ka-</i> <ab>m.</ab> pêcheur, homme de la caste des pêcheurs ; <i>-iya-</i> <ab>a.</ab> relatif à un pêcheur (conte)."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कैवर्त",
+            "eid": "723",
+            "pagenum": 1,
+            "content": "<b>Kaivarta.</b>¦ See <b>Kevarta.</b>"
+        }
     ]
 }

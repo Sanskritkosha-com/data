@@ -241,5 +241,53 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> कथा/¦ II. 6."
         }
+    ],
+    "SCH": [
+        {
+            "word": "कथा",
+            "eid": "9633",
+            "pagenum": 132,
+            "content": "1. <i>kathā́</i>¦ Z. 2, lies <i>yáthā</i>. {part=,seq=9763,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "कथा",
+            "eid": "8795",
+            "pagenum": 152,
+            "content": "कथा¦ f. (-था) A feigned story, a tale or fable. E. कथ to tell, &c. अङ् and टाप् affs."
+        }
+    ],
+    "STC": [
+        {
+            "word": "कथा",
+            "eid": "7568",
+            "pagenum": 173,
+            "content": "<b>kathā-</b>¦ <ab>f.</ab> discours, conte, récit, conversation, <lbinfo n='4'/> mention ; <i>kā</i> <i>kathā</i> que dire de ? (<ab>gén.</ab> ou <ab>loc.</ab>), à plus forte raison (pour écarter) ; <i>-ī-kṛ-</i> réduire à n'être que l'objet d'un discours <lbinfo n='5'/> ; <i>-ī-kṛtam</i> (<i>vapuḥ</i>) <ab>a.</ab> <ab>nt.</ab> (corps) mort.  <P><i>°krama-</i> <ab>m.</ab> développement d'un discours, d'un entretien.  <P><i>°chala-</i> <ab>nt.</ab> fiction des fables.  <P><i>°pīṭha-</i> (piédestal d'histoire) <ab>nt.</ab> <ab>n.</ab> du premier <lbinfo n='4'/> lambaka du <ab>KSS.</ab>  <P><i>°pradeśa-</i> <ab>m.</ab> lieu où se passe l'histoire.  <P><i>°prabandha-</i> <ab>m.</ab> légende, roman.  <P><i>°prasaṅga-</i> <ab>m.</ab> occasion de parler ; conversation <lbinfo n='4'/> ; <i>-ena -āt</i> au cours de l'entretien.  <P><i>°prastāvatas</i> <ab>adv.</ab> au cours de l'entretien.  <P><i>°bandha-</i> <ab>m.</ab> introduction.  <P><i>°mātra-</i> <ab>a.</ab> mort ; <i>°mātrāvaśiṣṭa- °mātrāvaśeṣita-</i> <lbinfo n='7'/> <ab>id.</ab>  <P><i>°mukha-</i> <ab>nt.</ab> introduction à un récit ; <ab>n.</ab> du deuxième lambaka du <ab>KSS.</ab>   <P><i>°yoga-</i> <ab>m.</ab> conversation, discours.  <P><i>°saṃdhi-</i> <ab>m.</ab> intervention d'un récit dans un autre, digression.  <P><i>°sarit-sāgara-</i> <ab>m.</ab> <ab>n.</ab> d'un recueil de contes par Somadeva.  <P><i>kathāntara-</i> <ab>nt.</ab> courant du discours ; <i>-e</i> au milieu du récit ou de la conversation.  <P><i>kathārambha-kāla-</i> <ab>m.</ab> moment de commencer <lbinfo n='6'/> une histoire.  <P><i>kathālāpa-</i> <ab>m.</ab> conversation, entretien.  <P><i>kathāvalī-</i> <ab>f.</ab> série d'histoires.  <P><i>kathāvaśeṣī-bhū-</i> mourir.  <P><i>kathodaya-</i> <ab>m.</ab> introduction à un récit ; mention, argument.  <P><i>kathodghāta-</i> <ab>m.</ab> introduction à un récit ; allusion à une histoire (ancienne)."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "कथा",
+            "eid": "506",
+            "pagenum": 1,
+            "content": "<b>Kathā.</b>¦ — The later use of this word<sup>1</sup> in the sense of a ‘philosophical discussion’ appears in the Chāndogya Upaniṣad.<sup>2</sup> <F>1) Colebrooke, <i>Miscellaneous Essays,</i> 1, 293.</F> <F>2) i. 8, 1: <i>hantodgīthe kathāṃ vadāma,</i> ‘let us begin a discussion regarding the Udgītha.’</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "कथा",
+            "eid": "8800",
+            "pagenum": 185,
+            "content": "कथा¦ f. (-था) A feigned story, a tale or fable. .E. कथ to tell, &c. अङ् and टाप् affs."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "कथा",
+            "eid": "8229",
+            "pagenum": 154,
+            "content": "कथा¦ (था) 1. <i>f.</i> A word; a feigned story, a tale or history."
+        }
     ]
 }

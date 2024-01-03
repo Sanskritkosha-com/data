@@ -96,5 +96,45 @@
             "pagenum": 7,
             "content": "खक्खट¦ II. <ls>DIVYĀVAD. 518,2</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "खक्खट",
+            "eid": "11769",
+            "pagenum": 162,
+            "content": "<i>khakkhaṭa</i>¦ Adj. old, <ls>Harṣac.</ls> 231, 1; <ls>Divyāvad.</ls> 518, 2. {part=,seq=11948,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "खक्खट",
+            "eid": "12556",
+            "pagenum": 221,
+            "content": "खक्खट¦ mfn. (-टः-टा-टं) Hard, solid: see कक्खट."
+        }
+    ],
+    "STC": [
+        {
+            "word": "खक्खट",
+            "eid": "8557",
+            "pagenum": 219,
+            "content": "<b>khakkhaṭa-</b>¦ <ab>a.</ab> vieux."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "खक्खट",
+            "eid": "12562",
+            "pagenum": 268,
+            "content": "खक्खट¦ mfn. (-टः-टा-टं) Hard, solid: see कक्खट."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "खक्खट",
+            "eid": "12016",
+            "pagenum": 232,
+            "content": "खक्खट¦ (टाः-टा-टं) <i>a.</i> Hard."
+        }
     ]
 }

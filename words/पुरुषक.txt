@@ -85,5 +85,37 @@
             "pagenum": 5,
             "content": "पुरुषक¦ <ls><ab>ebend.</ab></ls> als <lex>m.</lex>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पुरुषक",
+            "eid": "18716",
+            "pagenum": 258,
+            "content": "<i>puruṣaka</i>¦ ebenda als m. {part=,seq=18982,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पुरुषक",
+            "eid": "25345",
+            "pagenum": 459,
+            "content": "पुरुषक¦ n. (-कं) Rearing as a horse, standing like a man on two feet. E. पुरुष, and कन् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पुरुषक",
+            "eid": "25126",
+            "pagenum": 544,
+            "content": "पुरुषक¦ n. (-कं) Rearing as a horse, standing like a man on two feet. .E. पुरुष, and कन् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पुरुषक",
+            "eid": "24603",
+            "pagenum": 487,
+            "content": "पुरुषक¦ (कं) 1. <i>n.</i> Rearing of a horse standing like a man on two feet."
+        }
     ]
 }

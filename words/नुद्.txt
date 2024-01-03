@@ -185,5 +185,33 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> नुद्¦ mit प्रतिवि <i>vertreiben, verscheuchen</i> <ls>DIVYĀVAD. 491,21</ls> (<ab>v. l.</ab> तुद्). — <ab>Caus.</ab> <ab>dass.</ab> <ls>JĀTAKAM. 32,49</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "नुद्",
+            "eid": "17287",
+            "pagenum": 238,
+            "content": "1. <i>nud</i>¦ mit <i>prativi</i> vertreiben, verscheuchen, <ls>Divyāvad.</ls> 491, 21 ( v.l. <i>tud</i>). — <ls>Kaus.</ls> dass., <ls>Jātakam.</ls> 32, 49. {part=,seq=17543,type=,n=4}"
+        },
+        {
+            "word": "नुद्",
+            "eid": "17288",
+            "pagenum": 238,
+            "content": "2. <i>nud</i>¦ °Subst. Vertreibung, <ls>Sūryaś.</ls> 5<sup>d</sup>; 27<sup>d</sup>; 51<sup>d</sup>. {part=,seq=17544,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "नुद्",
+            "eid": "12633",
+            "pagenum": 391,
+            "content": "<b>1 NUD-</b>¦ <i>nudati -te ; nunoda nunude ; notsyati -te ; nodayati</i> (<i>nodyate</i>) ; <i>nutta- nunnanudita-</i><i> °nudya</i> -- pousser, exciter, hâter ; repousser, chasser, rejeter ; <ab>caus.</ab> exciter, inciter, <lbinfo n='5'/> stimuler ; <ab>a. v.</ab> poussé, stimulé, envoyé, chassé."
+        },
+        {
+            "word": "नुद्",
+            "eid": "12634",
+            "pagenum": 391,
+            "content": "<b>2 nud-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui pousse, etc. ; qui repousse, <lbinfo n='6'/> etc. ; <i>-a-</i> <ab>ifc.</ab> <ab>id.</ab>"
+        }
     ]
 }

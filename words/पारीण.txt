@@ -87,5 +87,37 @@
             "pagenum": 7,
             "content": "पारीण¦ IV. 1〉 <ls>DHARMAŚARM. 1,12</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पारीण",
+            "eid": "18400",
+            "pagenum": 254,
+            "content": "<i>pārīṇa</i>¦ 1. <ls>Dharmaśarm.</ls> 1, 12. {part=,seq=18664,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पारीण",
+            "eid": "24613",
+            "pagenum": 446,
+            "content": "पारीण¦ mfn. (-णः-णा-णं) 1. On the opposite side. 2. Who goes or crosses to the other side. 3. Completely versed in. E. पार the other side, aff. खञ् ।"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पारीण",
+            "eid": "24533",
+            "pagenum": 530,
+            "content": "पारीण¦ mfn. (-णः-णा-णं) .²1 On the other or opposite side. .²2 Who goes or crosses to the other side. .E. पार the other side, aff. ख."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पारीण",
+            "eid": "24013",
+            "pagenum": 474,
+            "content": "पारीण¦ (णः-णा-णं) <i>a.</i> On the other side; or one who goes there."
+        }
     ]
 }

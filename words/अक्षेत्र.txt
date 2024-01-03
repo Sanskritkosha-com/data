@@ -109,5 +109,21 @@
             "pagenum": 3,
             "content": "<hom>2.</hom> अक्षेत्र¦, <ab>Compar.</ab> अ/क्षेत्रतर <ls>ŚAT. BR. 1,4,1,15</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अक्षेत्र",
+            "eid": "305",
+            "pagenum": 5,
+            "content": "2. <i>akṣetra</i>¦ Adj. ohne Felder, unbebaut, Komp. <i>ákṣetratara</i> <ls>Śat. Br.</ls> 1, 4, 1, 15. {part=,seq=317,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "अक्षेत्र",
+            "eid": "121",
+            "pagenum": 4,
+            "content": "<b>a-kṣetra-</b>¦ <ab>nt.</ab> sol non cultivé ; <i>-in-</i> <ab>a.</ab> qui n'a pas de champ."
+        }
     ]
 }

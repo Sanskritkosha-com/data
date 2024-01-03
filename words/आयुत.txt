@@ -89,5 +89,29 @@
             "pagenum": 7,
             "content": "आ/युत¦ I. 4."
         }
+    ],
+    "SCH": [
+        {
+            "word": "आयुत",
+            "eid": "7205",
+            "pagenum": 98,
+            "content": "<i>ā́yuta</i>¦ n. <ls>Maitr. S.</ls> 3, 6, 2. {part=,seq=7304,type=,n=1}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "आयुत",
+            "eid": "5466",
+            "pagenum": 121,
+            "content": "<b>ā-yuta-</b>¦ <ab>a. v.</ab> <ab>ifc.</ab> lié à, muni de."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "आयुत",
+            "eid": "250",
+            "pagenum": 1,
+            "content": "<b>Āyuta.</b>¦ See <b>Ghṛta.</b>"
+        }
     ]
 }

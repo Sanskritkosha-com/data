@@ -245,5 +245,51 @@
             "pagenum": 7,
             "content": "<hom>1.</hom> पू¦ <ab>Desid.</ab> IV (hier पुपूषति zu lesen). 5. — Mit अव in नखा/वपूत."
         }
+    ],
+    "SCH": [
+        {
+            "word": "पू",
+            "eid": "18810",
+            "pagenum": 259,
+            "content": "1. <i>pū</i>¦ , Desid. <i>pupūṣati</i> reinigen wollen, <ls>Śiś.</ls> 14, 7. — Mit <i>ava</i> in <i>nakhā́vapūta</i>. {part=,seq=19078,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पू",
+            "eid": "25575",
+            "pagenum": 463,
+            "content": "पू(ङ)पूङ्¦ r. 1st cl. (पवते)शोधे भ्वा० आ० सक० सेट् । (ञ)पूञ् r. 9th cl. (पुनाति- पुनीते) 1. To purify, to cleanse, physically or metaphorically. 2. To clean from chaff, to winnow. 3. To Discriminate, to discern. 4. To invent, to think out, to contrive. क्र्यादि० प्वा० उभ० सक० सेट् । r. 4th cl. (पूयते) To grow or become pure. दिवा० आत्म० सक० सेट् ।"
+        }
+    ],
+    "STC": [
+        {
+            "word": "पू",
+            "eid": "13917",
+            "pagenum": 443,
+            "content": "<b>1 PŪ-</b>¦ <i>punāti punīte (pavate) ; pūyate pavayati</i><i> pāvayate -te</i> <i>(pāvyate) ; pūta- °pūya</i> -- nettoyer, purifier (aussi <ab>fig.</ab>), filtrer, faire briller ; éclairer (esprit) ; <ab>moy.</ab> souffler à travers en purifiant, souffler ; <ab>pass.</ab> être nettoyé, <lbinfo n='4'/> lavé, purifié ; être délivré (du péché, <ab>abl.</ab>) ; <ab>dés.</ab> vouloir purifier ; <ab>caus.</ab> nettoyer, purifier."
+        },
+        {
+            "word": "पू",
+            "eid": "13918",
+            "pagenum": 443,
+            "content": "<b>2 pū-</b>¦ <ab>ag.</ab> <ab>ifc.</ab> qui purifie, qui nettoie."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पू",
+            "eid": "25296",
+            "pagenum": 547,
+            "content": "पू¦ (ङ) पूङ् r. 1st cl. (पवते) (ञ्) पूञ् r. 9th cl. (पुनाति पुनीते) To purify, to cleanse, physically or metaphorically. r. 4th cl. (पूयते) To grow or become pure."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पू",
+            "eid": "24778",
+            "pagenum": 491,
+            "content": "पू¦ (ग, ञ) पुनाति नीते 9. <i>c.</i> To purify. (ङ) पवते 1. <i>d.</i> (य) पूयते 4. <i>d.</i> To be pure or clean."
+        }
     ]
 }

@@ -87,5 +87,45 @@
             "pagenum": 7,
             "content": "अ/नुद्धत¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अनुद्धत",
+            "eid": "2677",
+            "pagenum": 36,
+            "content": "<i>ánuddhata</i>¦ m. ein nicht hervorragender Platz, <ls>TBr.</ls> 2, 7, 6, 2. {part=,seq=2714,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अनुद्धत",
+            "eid": "1507",
+            "pagenum": 27,
+            "content": "अनुद्धत¦ mfn. (-तः-ता-तं) 1. Unsurpassed, unequalled. 2. Unopposed. 3. Humble. E. अन् neg. उद्धत proud, &c."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अनुद्धत",
+            "eid": "1678",
+            "pagenum": 36,
+            "content": "<b>an-uddhata-</b>¦ <ab>a.</ab> non altier."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अनुद्धत",
+            "eid": "1509",
+            "pagenum": 32,
+            "content": "अनुद्धत¦ mfn. (-तः-ता-तं) .²1 Unsurpassed, unequalled. .²2 Unopposed. .²3 Humble. .E. अन् neg. उद्वत proud, &c."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अनुद्धत",
+            "eid": "1285",
+            "pagenum": 27,
+            "content": "अनुद्ध_त¦ (तः-ता-तं) <i>a.</i> Humble; unopposed; firm."
+        }
     ]
 }

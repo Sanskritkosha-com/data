@@ -207,5 +207,45 @@
             "pagenum": 7,
             "content": "अ/थ¦ I. 2."
         }
+    ],
+    "SCH": [
+        {
+            "word": "अथ",
+            "eid": "1495",
+            "pagenum": 21,
+            "content": "<i>átha</i>¦ 2. <i>athāpi</i> oder (nach <i>yady eva</i> ob nun), <ls>Mahābh. (K.)</ls> 6, 14; 58, 14; 258, 22. — 13. <i>atha vaitarhi</i> dennoch (im Nachsatz nach <i>yady api</i> obgleich), <ls>Mahābh. (K.)</ls> 14, 4; 39, 6, 49, 13; 101, 15; 163, 12. {part=,seq=1520,type=,n=6}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अथ",
+            "eid": "882",
+            "pagenum": 16,
+            "content": "अथ¦ ind. An auspicious and inceptive particle; it serves to introduce a remark, a question, an affirmation, &c. and corresponds to. 1. After. 2. And 3. Now, (inceptive or premising) 4. What, (interrogatively) 5. All, (comprehensively) 6. Therefore, thus, further, moreover, &c. It also implies doubt or command, and is frequently redundant. E. अर्थ to ask, ड affix, and र is dropped, also अथो."
+        }
+    ],
+    "STC": [
+        {
+            "word": "अथ",
+            "eid": "859",
+            "pagenum": 19,
+            "content": "<b>atha</b>¦ <ab>conj.</ab> d'abord (énumérations) ; et maintenant (au début d'un texte ou d'une division de texte ; après digression) ; même ; mais, par contre ; si, mais si (par ellipse de <i>yadi</i>) ; et, et encore ; <i>atho</i> ensuite, et aussi ; <i>athavā</i> (parfois <i>atha</i> seul) ou, ou aussi, ou plutôt <lbinfo n='3'/> (au contraire), car ; <i>atho vā</i> <ab>id.</ab> ; <i>athavā... athavā</i> ou...ou ; <i>atha kim</i> comment en serait-il autrement ? certainement."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अथ",
+            "eid": "883",
+            "pagenum": 19,
+            "content": "अथ¦ ind. An auspicious and inceptive particle; it serves to introduce a remark, a question, an affirmation, &c. and corresponds to, .²1 After. .²2 And. .²3 Now, (inceptive or premising.) .²4 What, (interrogatively.) .²5 All, (comprehensively.) .²6 Therefore, thus, further, moreover. &c. It also implies doubt or command, and is frequently redundant. .E. अर्थ to ask, ड affix, and र is dropped, also अथो."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अथ",
+            "eid": "732",
+            "pagenum": 16,
+            "content": "अथ¦ अथौ <i>conj.</i> An auspicious and inceptive particle."
+        }
     ]
 }

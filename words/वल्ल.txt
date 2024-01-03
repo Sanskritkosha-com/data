@@ -138,5 +138,43 @@
             "pagenum": 6,
             "content": "वल्ल¦ <lex>m.</lex> <div n='1'> 1) <i>eine Waizenart</i> <ls>H. 1174.</ls> <ls>HALĀY. 2,429.</ls> <ls>Verz. d. Oxf. H. 72,a,26.</ls> = खल्व <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. 6, 3, 13.</ls> °पुष्प <ls>VARĀH. BṚH. S. 80, 7.</ls> <div n='1'>— 2) <i>ein best. Gewicht</i> <ls>Verz. d. B. H. No. 968.</ls> = 3 <is>Guñjā</is> <ls>ŚĀRṄG. SAṂH. 1, 1, 30.</ls> <ls>LĪLĀV.</ls> im <ls>ŚKDR.</ls> = 2 <is>Guñjā</is> <ls>COLEBR. Alg.</ls> (dies. Aut.). <ls>VAIDYAKAPAR.</ls> im <ls>ŚKDR.</ls> = 1(1/2) <is>Guñjā</is> <ls>RĀJAN.</ls> ebend."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वल्ल",
+            "eid": "23328",
+            "pagenum": 322,
+            "content": "<i>valla</i>¦ m. <ls>S</ls> II, 298, 19? <i>(aciravalle talle)</i>. {part=,seq=23653,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वल्ल",
+            "eid": "35469",
+            "pagenum": 636,
+            "content": "वल्ल¦ m. (-ल्लः) 1. Winnowing corn. 2. A Masha of silver. 3. A weight of three Rattis. 4. Prohibiting, prohibition. 5. Covering. E. वल्ल् to move, &c., घञ् aff."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वल्ल",
+            "eid": "33932",
+            "pagenum": 742,
+            "content": "वल्ल¦ r. 1st cl. (वल्लते) .²1 To cover. .²2 To move."
+        },
+        {
+            "word": "वल्ल",
+            "eid": "33933",
+            "pagenum": 742,
+            "content": "वल्ल¦ m. (-ल्लः) .²1 Winnowing corn. .²2 A <i>Māṣa</i> of silver. .²3 A weight of three <i>Rattis.</i> .²4 Prohibiting, prohibition. .²5 Covering. .E. वल्ल to move, &c., अच् aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वल्ल",
+            "eid": "33522",
+            "pagenum": 664,
+            "content": "वल्ल¦ (ल्लः) 1. <i>m.</i> Winnowing corn; a <i>Māshā</i> of silver; a prohibition."
+        }
     ]
 }

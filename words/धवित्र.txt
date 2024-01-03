@@ -92,5 +92,45 @@
             "pagenum": 3,
             "content": "धवि/त्र¦ (wie eben) <lex>n.</lex> <i>Fächer, Wedel von Fell</i> oder <i>Leder</i> <ls>P. 3, 2, 184.</ls> <ls>VOP. 26, 169.</ls> <ls>AK. 2, 7, 23</ls> (nach <ls>ŚKDR.</ls>; unsere Ausgg.: धुवित्र). <ls>H. 687.</ls> <ls>ŚAT. BR. 14, 1, 3, 30. 3, 1, 21.</ls> <ls>TAITT. ĀR. 5, 4, 33.</ls> <ls>KĀTY. ŚR. 26, 2, 10. 4, 2. 7, 22.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "धवित्र",
+            "eid": "20506",
+            "pagenum": 368,
+            "content": "धवित्र¦ n. (-त्रं) A Pankhā or fan, made of antelope's skin, and used especially for blowing a sacrificial fire, E. धृ to agitate, इत्र aff."
+        }
+    ],
+    "STC": [
+        {
+            "word": "धवित्र",
+            "eid": "11157",
+            "pagenum": 340,
+            "content": "<b>dhavitra-</b>¦ <ab>nt.</ab> sorte d'éventail en cuir pour souffler le feu."
+        }
+    ],
+    "VEI": [
+        {
+            "word": "धवित्र",
+            "eid": "1435",
+            "pagenum": 1,
+            "content": "<b>Dhavitra,</b>¦ occurring in the Śatapatha Brāhmaṇa<sup>1</sup> and the Taittirīya Āraṇyaka,<sup>2</sup> denotes a ‘fan’ of hide or leather for blowing the sacrificial fire. <F>1) xiv. 1, 3, 30; 3, 1, 21.</F> <F>2) v. 4, 33.</F>"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "धवित्र",
+            "eid": "20520",
+            "pagenum": 441,
+            "content": "धवित्र¦ n. (-त्रं) A <i>Pankhā</i> or fan, made of antelope's skin, and used especially for blowing a sacrificial fire. .E. धू to agitate, इच aff."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "धवित्र",
+            "eid": "20011",
+            "pagenum": 393,
+            "content": "धवित्र¦ (त्रं) 1. <i>n.</i> A fan made of antelopes' skin, used at sacrifices."
+        }
     ]
 }

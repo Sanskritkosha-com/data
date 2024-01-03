@@ -100,5 +100,37 @@
             "pagenum": 4,
             "content": "पीनस¦ <div n='1'> 1) <lex>m.</lex> <i>Nasenkatarrh, Schnupfen</i> <ls>AK. 2, 6, 2, 2.</ls> <ls>H. 468.</ls> <ls>HALĀY. 2, 450.</ls> <ls>WISE 289.</ls> <ls>SUŚR. 1, 177, 2. 372, 20. 181, 14.</ls> °नाशन <ls n='SUŚR.'>203, 19. 232, 7.</ls> <div n='v'>— Vgl. अपीनस . <div n='1'>— 2) <lex>f.</lex> आ <i>Cucumis utilissimus Roxb.</i> (कर्कटी) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "पीनस",
+            "eid": "18594",
+            "pagenum": 256,
+            "content": "<i>pīnasa</i>¦ m. ° = <i>kapha</i> (Schleim), <ls>S</ls> II, 88, 6. {part=,seq=18860,type=,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "पीनस",
+            "eid": "25054",
+            "pagenum": 454,
+            "content": "पीनस¦ m. (-सः) 1. Cough, catarrh. 2. Cold, affecting the nose, inflammation of the schneiderian membrane. E. पीन fat, षो to destroy, aff. क."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "पीनस",
+            "eid": "24920",
+            "pagenum": 539,
+            "content": "पीनस¦ m. (-सः) .²1 Cough, catarrh. .²2 Cold, affecting the nose, inflammation of the schneiderian membrane. .E. पीन fat, षो to destroy, aff. क."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "पीनस",
+            "eid": "24400",
+            "pagenum": 482,
+            "content": "पीनस¦ (सः) 1. <i>m.</i> Cough; cold."
+        }
     ]
 }

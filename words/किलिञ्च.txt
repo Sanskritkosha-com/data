@@ -51,5 +51,37 @@
             "pagenum": 5,
             "content": "किलिञ्च¦ = वंश <i>Bambusrohr</i> <ls>Schol.</ls> zu <ls>HĀLA 79.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "किलिञ्च",
+            "eid": "10669",
+            "pagenum": 147,
+            "content": "*<i>kiliñca</i>¦ m. Brett, Planke, <ls>S</ls> I, 542, 4/5. {part=,seq=10826,type=*,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "किलिञ्च",
+            "eid": "10464",
+            "pagenum": 183,
+            "content": "किलिञ्च¦ mn. (-ञ्चः-ञ्चं) A thin plank: see the next."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "किलिञ्च",
+            "eid": "10471",
+            "pagenum": 223,
+            "content": "किलिञ्च¦ mn. (-ञ्चः-ञ्चं) A thin plank: see the next."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "किलिञ्च",
+            "eid": "9912",
+            "pagenum": 188,
+            "content": "किलिञ्च¦ (ञ्चः-ञ्चं) 1. <i>m. n.</i> A thin plank of green wood; a mat."
+        }
     ]
 }

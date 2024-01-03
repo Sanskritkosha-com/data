@@ -145,5 +145,51 @@
             "pagenum": 7,
             "content": "तान¦ III. 5."
         }
+    ],
+    "SCH": [
+        {
+            "word": "तान",
+            "eid": "14449",
+            "pagenum": 199,
+            "content": "<i>tāna</i>¦ *= <i>tātparya</i> wegen <i>ekatāna</i>. <ls>Zach.</ls> Beitr. {part=,seq=14678,type=,n=1}"
+        },
+        {
+            "word": "तान",
+            "eid": "14449.1",
+            "pagenum": 199,
+            "content": "<i>tāna</i>¦ [nach dem Ko. m.] = <i>°dīrghatva</i> (pw n. 'Ausdehnung'), <ls>S</ls> I, 38, 1. {part=,seq=14679,type=,n=3}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "तान",
+            "eid": "17261",
+            "pagenum": 309,
+            "content": "तान¦ m. (-नः) A tune. n. (-नं) 1. Expanse, extension. 2. An object of sense. E. तन् to extend, affix घञ्."
+        }
+    ],
+    "STC": [
+        {
+            "word": "तान",
+            "eid": "9969",
+            "pagenum": 281,
+            "content": "<b>tāna-</b>¦ <ab>m.</ab> ton, résonance."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "तान",
+            "eid": "17278",
+            "pagenum": 371,
+            "content": "तान¦ m. (-नः) A tune. n. (-नं) .²1 Expanse, extension. .²2 An object of sense. .E. तन to extend, affix घञ्."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "तान",
+            "eid": "16750",
+            "pagenum": 328,
+            "content": "तान¦ (नः) 1. <i>m.</i> A tune. <i>n.</i> Expanse, extension; object of sense."
+        }
     ]
 }

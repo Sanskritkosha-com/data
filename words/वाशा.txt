@@ -31,5 +31,37 @@
             "pagenum": 7,
             "content": "वाशा¦ <lex>f.</lex> <i>eine <ab>best.</ab> Pflanze</i> <ls>KAUŚ. 8,16</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "वाशा",
+            "eid": "23596",
+            "pagenum": 326,
+            "content": "<i>vāśā</i>¦ f. eine best. Pflanze, <ls>Kauś.</ls> 8, 16. {part=,seq=23925,type=,n=1}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "वाशा",
+            "eid": "36157",
+            "pagenum": 647,
+            "content": "वाशा¦ f. (-शा) A plant, (Justicia ganderussa:) see वास and वासक; also with कन् added वाशिका । “वाकस गाछ ।”"
+        }
+    ],
+    "WIL": [
+        {
+            "word": "वाशा",
+            "eid": "34573",
+            "pagenum": 755,
+            "content": "वाशा¦ f. (-शा) A plant, (<bot>Justicia ganderussa</bot>:) see वास, and वासक; also with कन् added वाशिका."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "वाशा",
+            "eid": "34169",
+            "pagenum": 677,
+            "content": "वाशा¦ (शा) 1. <i>f.</i> Justicia ganderussa."
+        }
     ]
 }

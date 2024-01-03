@@ -23,5 +23,43 @@
             "pagenum": 1,
             "content": "अमृताशन¦ (अ° + अशन) <lex>m.</lex> <i>Gottheit</i> <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>"
         }
+    ],
+    "SCH": [
+        {
+            "word": "अमृताशन",
+            "eid": "4509",
+            "pagenum": 61,
+            "content": "*<i>amṛtāśana</i>¦ m. Gott, <ls>S</ls> II, 384, 16. {part=,seq=4567,type=*,n=1}"
+        },
+        {
+            "word": "अमृताशन",
+            "eid": "27917",
+            "pagenum": 384,
+            "content": "*<i>amṛtāśana</i>¦ m. ein Gott, <ls>Padyac.</ls> I, 48<sup>b</sup>. {part=N,seq=28288,type=*,n=2}"
+        }
+    ],
+    "SHS": [
+        {
+            "word": "अमृताशन",
+            "eid": "2921",
+            "pagenum": 51,
+            "content": "अमृताशन¦ m. (-नः) A deity. E. As before, अशन eating."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "अमृताशन",
+            "eid": "2923",
+            "pagenum": 62,
+            "content": "अमृताशन¦ m. (-नः) A deity. .E. as before, अशन eating."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "अमृताशन",
+            "eid": "2421",
+            "pagenum": 48,
+            "content": "अमृता_शन¦ (नः) 1. <i>m. Idem.</i>"
+        }
     ]
 }

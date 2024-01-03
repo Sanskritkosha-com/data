@@ -134,5 +134,29 @@
             "pagenum": 7,
             "content": "गर्व¦ II. *etwa <i>Bannung, Exorcismus, Verfluchung</i> <ls>MAHĀVY. 197,29</ls>."
         }
+    ],
+    "SCH": [
+        {
+            "word": "गर्व",
+            "eid": "12200",
+            "pagenum": 167,
+            "content": "<i>garva</i>¦ etwa *Bannung, Exorzismus, Verfluchung. <ls>Mahāvy.</ls> 197, 29. {part=,seq=12387,type=,n=2}"
+        }
+    ],
+    "STC": [
+        {
+            "word": "गर्व",
+            "eid": "8705",
+            "pagenum": 226,
+            "content": "<b>garva-</b>¦ <ab>m.</ab> orgueil.  <P><i>°gaurasa-</i> <ab>nt.</ab> excès d'orgueil."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "गर्व",
+            "eid": "12811",
+            "pagenum": 248,
+            "content": "गर्व¦ (गर्वति) 1. <i>a.</i> To be proud."
+        }
     ]
 }

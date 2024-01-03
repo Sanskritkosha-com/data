@@ -35,5 +35,29 @@
             "pagenum": 7,
             "content": "साधुवृक्ष¦ <lex>m.</lex> <i>Nauclea Cadamba</i> (कदम्ब) <i>Roxb.</i> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> <i>Crataeva Roxburghii R. Br.</i> <ls>RĀJAN. 9, 43.</ls>"
         }
+    ],
+    "SHS": [
+        {
+            "word": "साधुवृक्ष",
+            "eid": "43648",
+            "pagenum": 780,
+            "content": "साधुवृक्ष¦ m. (-क्षः) The Kadamba tree, (Nauclea Cadamba.) E. साधु handsome or excellent, and वृक्ष a tree."
+        }
+    ],
+    "WIL": [
+        {
+            "word": "साधुवृक्ष",
+            "eid": "41539",
+            "pagenum": 917,
+            "content": "साधुवृक्ष¦ m. (-क्षः) The <i>Kadamba</i> tree, (<bot>Nauclea Cadamba</bot>.) .E. साधु handsome or excellent, and वृक्ष a tree."
+        }
+    ],
+    "YAT": [
+        {
+            "word": "साधुवृक्ष",
+            "eid": "41283",
+            "pagenum": 838,
+            "content": "साधु-वृक्ष¦ (क्षः) 1. <i>m.</i> The <i>Kadamba</i> tree."
+        }
     ]
 }
