@@ -141,5 +141,37 @@
             "pagenum": 4981,
             "content": "व्यपेक्षा¦ स्त्रा वि + अप + ईक्ष--अ । अपेक्षायां व्याकरणोक्ते अवयपार्थापेक्षणे च ।"
         }
+    ],
+    "APHI": [
+        {
+            "word": "व्यपेक्षा",
+            "content": "व्यपेक्षा स्त्री. -  वि + अप + ईक्ष् + अङ् + टाप् 'प्रत्याशा, आशा'"
+        },
+        {
+            "word": "व्यपेक्षा",
+            "content": "व्यपेक्षा स्त्री. -  वि + अप + ईक्ष् + अङ् + टाप् 'लिहाज़, विचार '"
+        },
+        {
+            "word": "व्यपेक्षा",
+            "content": "व्यपेक्षा स्त्री. -  वि + अप + ईक्ष् + अङ् + टाप् 'पारस्परिक सम्बन्ध, अन्योन्याश्रय'"
+        },
+        {
+            "word": "व्यपेक्षा",
+            "content": "व्यपेक्षा स्त्री. -  वि + अप + ईक्ष् + अङ् + टाप् पारस्परिक लिहाज़"
+        },
+        {
+            "word": "व्यपेक्षा",
+            "content": "व्यपेक्षा स्त्री. -  वि + अप + ईक्ष् + अङ् + टाप् व्यवहार"
+        },
+        {
+            "word": "व्यपेक्षा",
+            "content": "व्यपेक्षा स्त्री. -  वि + अप + ईक्ष् + अङ् + टाप् दो नियमों का पारस्परिक प्रयोग"
+        }
+    ],
+    "ABSV": [
+        {
+            "word": "व्यपेक्षा",
+            "content": "mutual relationship in sense, as obtaining between two different words (पद) connected with each other in a sentence, as contras ted with compositeness of sense as seen in two words joined into a compound word (समास) ; व्यपेक्षा is given as an alternative definition of the word सामर्थ्य along with एकार्थीभाव as the other one, in the Mahabhasya: e. g. there is व्यपेक्षा between सर्पिः and पिब in the sentence सर्पिष्पिब, but not in तिष्ठतु सर्पिः पिब त्वमुद्कम् : cf. तथेदमपरं द्वैतं भवति एकार्थाभावो वा सामर्थ्यं स्याद् व्यपेक्षा वेति ! M. Bh. on P. II,1.1 ; cf, also Kas. on P, VIII.3 44."
+        }
     ]
 }

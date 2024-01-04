@@ -109,5 +109,25 @@
             "pagenum": 707,
             "content": "<b>vy-āpatti-</b>¦ <ab>f.</ab> accident, malheur, malchance, <lbinfo n='6'/> échec, ruine, désordre."
         }
+    ],
+    "APHI": [
+        {
+            "word": "व्यापत्ति",
+            "content": "व्यापत्तिः स्त्री. -  वि + आ + पद् + क्तिन् 'बर्बादी, संकट, दुर्भाग्य'"
+        },
+        {
+            "word": "व्यापत्ति",
+            "content": "व्यापत्तिः स्त्री. -  वि + आ + पद् + क्तिन् स्थानापन्नता"
+        },
+        {
+            "word": "व्यापत्ति",
+            "content": "व्यापत्तिः स्त्री. -  वि + आ + पद् + क्तिन् मृत्यु"
+        }
+    ],
+    "ABSV": [
+        {
+            "word": "व्यापत्ति",
+            "content": "lit. loss or disappearance; the word is used in the sense of conversion of one thing into another in the Pratisakhya works; cf. अथाप्यन्तव्यापत्तिर्भवति Nir. II. l ; cf also अन्यैरेकारान्नातिरत्र पूर्वा ततो व्यापत्तिर्भवतीति विद्यात् R. Pr.V.1."
+        }
     ]
 }

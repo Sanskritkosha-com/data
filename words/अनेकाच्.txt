@@ -23,5 +23,17 @@
             "pagenum": 42,
             "content": "anekA<srs/>c ¦ <lex>mfn.</lex> having more than one vowel or syllable (अच् in <ab>Gr.</ab> being the technical term for vowel). <info lex='m:f:n'/>"
         }
+    ],
+    "APHI": [
+        {
+            "word": "अनेकाच्",
+            "content": "अनेकाच् वि. अनेक-अच्  - 'एक से अधिक अक्षर या स्वर वाला, नाना अक्षर सहित'"
+        }
+    ],
+    "ABSV": [
+        {
+            "word": "अनेकाच्",
+            "content": "having many vowels (two or more) in it; opp. to एकाच् : a term frequently used in Pāṇini's grammar meaning the same as अनेकस्वर or अनेकाक्षर, which see above; cf. P. VI.3.42,VI.4.82"
+        }
     ]
 }

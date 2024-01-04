@@ -97,5 +97,29 @@
             "pagenum": 665,
             "content": "<b>vi-pratiṣedha-</b>¦ <ab>m.</ab> fait de retenir, de tenir en échec, d'écarter ; objection, choc d'opinions <lbinfo n='5'/> ; (<ab>gramm.</ab>) conflit entre deux règles."
         }
+    ],
+    "APHI": [
+        {
+            "word": "विप्रतिषेध",
+            "content": "विप्रतिषेधः पुं. -  वि + प्रति + सिध् + घञ् 'नियन्त्रण में रखना, वश में रखना'"
+        },
+        {
+            "word": "विप्रतिषेध",
+            "content": "विप्रतिषेधः पुं. - 'समान रूप से महत्त्वपूर्ण दो बातों का विरोध, दो समान हितों का संघर्ष'"
+        },
+        {
+            "word": "विप्रतिषेध",
+            "content": "विप्रतिषेधः पुं. - '(व्या.में) दो नियमों का (जिनसे दो भिन्न नियमों के अनुसार व्याकरण की दो भिन्न प्रक्रियाएं सम्भव हों) संघर्ष, समानरूप से महत्वपूर्ण दो नियमों की टक्कर '"
+        },
+        {
+            "word": "विप्रतिषेध",
+            "content": "विप्रतिषेधः पुं. - 'रोक, वर्जन'"
+        }
+    ],
+    "ABSV": [
+        {
+            "word": "विप्रतिषेध",
+            "content": "confict, opposition; opposition or conflict between two rules of equal strength, which become applicable simultaneously when Pāṇini's dictum विप्रतिषेधे परं कार्यम् applies and the rule mentioned later on, or subsequently, in the Aṣṭādhyāyī is allowed to apply: cf. विप्रतिषेधे परं कार्यम् P.I.4.2: cf. also यत्र द्वौ प्रसङ्गौ अन्यार्थौ एकस्मिन्युगपत् प्राप्नुतः स तुल्यबलविरोधी विप्रतिषेधः Kāś. on P.I. 4.2: cf. also विप्रतिषेध उत्तरं बलवदलोपे V. Pr. I.159. The dictum of the application of the subsequent rule is adopted only if the conflicting rules are of equal strength; hence, rules which are either nitya, antaraṅga or apavāda, among which each subsequent one is more powerful than the preceding one and which are all more powerful than the पर or the subsequent rule, set aside the पर rule. There is another dictum that when by the dictum about the subsequent rule being more powerful, an earlier rule is set aside by a later rule, the earlier rule does not apply again in that instance, barring a few exccptional cases; cf. सकृद्गतौ विप्रतिषेधे यद् वाधितं तद् बाधितमेव | पुनःप्रसङ्गविज्ञानात् सिद्वम् Par. Śek. Pari. 40, 39."
+        }
     ]
 }

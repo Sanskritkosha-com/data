@@ -193,5 +193,37 @@
             "pagenum": 4917,
             "content": "विराम¦ पु० वि + रम--घञ् । १ अवसाने, २ विरतौ, ३ निवृत्तौ च जटा० । ४ मध्ये त्रिका० ५ व्याकरणोक्ते परवर्णाभावे च ।"
         }
+    ],
+    "APHI": [
+        {
+            "word": "विराम",
+            "content": "विरामः पुं. -  वि + रम् + घञ् 'रोकना, बन्द करना'"
+        },
+        {
+            "word": "विराम",
+            "content": "विरामः पुं. - 'अन्त, समाप्ति, उपसंहार'"
+        },
+        {
+            "word": "विराम",
+            "content": "विरामः पुं. - 'यति, ठहरना'"
+        },
+        {
+            "word": "विराम",
+            "content": "विरामः पुं. - आवाज़ का रुकना या थमना"
+        },
+        {
+            "word": "विराम",
+            "content": "विरामः पुं. - 'एक छोटी तिरछी लकीर जो व्यंजन के नीचे लगाई जाती है, प्रायः वाक्य के अन्त में, हल्चिह्न'"
+        },
+        {
+            "word": "विराम",
+            "content": "विरामः पुं. - विष्णु का नाम"
+        }
+    ],
+    "ABSV": [
+        {
+            "word": "विराम",
+            "content": "an ancient term used in the Prātiśākhya works for a stop or pause in general at the end of a word, or at the end of the first member of a compound, which is shown split up in the Padapāṭha, or inside a word, or at the end of a word, or at the end of a vowel when it is followed by another vowel. The duration of this virāma is different in different circumstances; but sometimes under the same circumstances, it is described differently in the different Prātiśākhyas. Generally,there is no pause between two consonants as also between a vowel and a consonant preceding or following it.The Taittirīya Prātiśākhya has given four kinds of विराम (a) ऋग्विराम,pause at the end of a foot or a verse of duration equal to three mātrās or moras, (b) पदविराम pause between two words of duration equal to two matras; e. g. इषे त्वा ऊर्जे त्वा, (c) pause between two words the preceding one of which ends in a vowel and the following begins with a vowel, the vowels being not euphonically combined; this pause has a duration of one matra e,g. स इधानः, त एनम्, (d) pause between two vowels inside a word which is a rare occurrence; this has a duration of half a mātrā;e.gप्रउगम्, तितउः; cf. ऋग्विरामः पदविरामो विवृत्तिविरामः समानपदविवृत्तिविरामस्त्रिमात्रो  द्विमात्र एकमात्रोर्धमात्र इत्यानुपूर्व्येण T. Pr. XXII. 13. The word विवृत्ति is explained as स्वरयोरसंधिः. The vivṛttivirāma is further divided into वत्सानुसति which has the preceding vowel short and the succeeding long, वत्सानुसारिणी which has the preceding vowel a long one and the succeeding vowel a short one, पाकवती which has both the vowels short, and पिपीलिका which has got both, the vowels long. This fourfold division is given in the Śikṣā where their duration is given as one mātrā, one mātrā, three-fourths of a mātrā and one-fourth of a mātrā respectively. The duration between the two words of a compound word when split up in the पदपाठ is also equal to one mātrā; cf. R.Pr.I.16. The word विराम occurs in Pāṇini's rule विरामोs वसानम् P.I. 4.110 where commentators have explained it as absence; cf. वर्णानामभावोवसानसंज्ञः स्यात् S.K.on P. I.4.110: cf. also विरतिर्विरामः । विरम्यते अनेन इति वा विरामः Kāś. on P.I.4.110. According to Kāśikā even in the Saṁhitā text, there is a duration of half a mātrā between the various phonetic elements, even between two consonants or between a vowel and a consonant, which, however, is quite imperceptible; cf. परो यः संनिकर्षो वर्णानां अर्धमात्राकालव्यवधानं स संहितासंज्ञो भवति Kāś. on P. I.4.109 cf. also विरामे मात्रा R.T.35; cf. also R.Pr.I.16 and 17. For details see Mahābhāṣya on P.I.4.109 and I.4.110."
+        }
     ]
 }

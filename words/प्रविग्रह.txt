@@ -39,5 +39,11 @@
             "pagenum": 4,
             "content": "प्रविग्रह¦ (1. प्र + वि°) <lex>adj.</lex> <i>deutliche Trennung der Wörter aus dem</i> <is>Saṃdhi</is> <i>zeigend</i> <ls>ṚV. PRĀT. 15, 10.</ls>"
         }
+    ],
+    "ABSV": [
+        {
+            "word": "प्रविग्रह",
+            "content": "separate or distinct uterance of several words of a sentence which are joined together by Sandhi rules in a compound (समास) or otherwise, with a very short pause (अवग्रह) after each word. e. g. उद् उ एति instead of उद्वेतिः cf. प्रविग्रहेण मृदूवग्रहेण चर्चयेयुः R. Pr. XV.10, where Uvvata remarks प्रविग्रहेषु प्रश्लिष्टं विश्लिष्टं कुर्यात् | कालाधिक्येन कुर्यात्। तथा च उद् उ एति इति पठेन्न तु उद्वेति."
+        }
     ]
 }
