@@ -49,7 +49,7 @@
             "word": "अनिष्ट",
             "eid": "2780",
             "pagenum": 83,
-            "content": "अनिष्ट¦ Tatpur. I. 1. m. f. n. (-ष्टः-ष्टा-ष्टम्) <sup>1</sup> Unwished, undesirable, bad, wrong. <sup>2</sup> Bad, evil. <sup>3</sup> Unlucky. <div n='P'>2. n. (-ष्टम्) <sup>1</sup> Bad luck, evil occurrence, misfortune. <sup>2</sup> Evil deed, crime. <div n='P'>3. f. (-ष्टा) The name of a plant (Sida alba). See नाग- वला. E. अ neg. and इष्ट (इष्, kṛt aff. क्त). <div n='P'>II. m. f. n. (-ष्टः-ष्टा-ष्टम्) <sup>1</sup> Not sacrificed. <sup>2</sup> Not honoured with a sacrifice (as a god). E. अ neg. and इष्ट (यज्, kṛt aff. क्त)."
+            "content": "अनिष्ट¦ Tatpur. I. 1. m. f. n. (-ष्टः-ष्टा-ष्टम्) <sup>1</sup> Unwished, undesirable, bad, wrong. <sup>2</sup> Bad, evil. <sup>3</sup> Unlucky. <dvsn n='P'>2. n. (-ष्टम्) <sup>1</sup> Bad luck, evil occurrence, misfortune. <sup>2</sup> Evil deed, crime. <dvsn n='P'>3. f. (-ष्टा) The name of a plant (Sida alba). See नाग- वला. E. अ neg. and इष्ट (इष्, kṛt aff. क्त). <dvsn n='P'>II. m. f. n. (-ष्टः-ष्टा-ष्टम्) <sup>1</sup> Not sacrificed. <sup>2</sup> Not honoured with a sacrifice (as a god). E. अ neg. and इष्ट (यज्, kṛt aff. क्त)."
         }
     ],
     "LAN": [
@@ -139,13 +139,13 @@
             "word": "अनिष्ट",
             "eid": "4200",
             "pagenum": 1,
-            "content": "<hom>1.</hom> अनिष्ट¦ <div n='1'>— 1〉 <lex>Adj.</lex> <div n='2'>— a〉 <i>unerwünscht, unlieb, unangenehm;</i> <lex>n.</lex> <i>Unerwünschtes</i> <ab>u. s. w.</ab> <ls n='Chr.'>58,15. 139,25. 189,19</ls>. (mit <ab>Gen.</ab>) <ls n='Chr.'>217,15. 254,18</ls>. <div n='2'>— b〉 <i>unheilvoll, schädlich;</i> <lex>n.</lex> <i>Unheil</i>. <div n='2'>— c〉 <i>verboten, verrufen</i> <ls n='Chr.'>208,7</ls>. <div n='1'>— 2〉 *<lex>f.</lex> आ <i><bot>Sida albe Lin.</bot></i>"
+            "content": "<hom>1.</hom> अनिष्ट¦ <dvsn n='1'>— 1〉 <lex>Adj.</lex> <dvsn n='2'>— a〉 <i>unerwünscht, unlieb, unangenehm;</i> <lex>n.</lex> <i>Unerwünschtes</i> <ab>u. s. w.</ab> <ls n='Chr.'>58,15. 139,25. 189,19</ls>. (mit <ab>Gen.</ab>) <ls n='Chr.'>217,15. 254,18</ls>. <dvsn n='2'>— b〉 <i>unheilvoll, schädlich;</i> <lex>n.</lex> <i>Unheil</i>. <dvsn n='2'>— c〉 <i>verboten, verrufen</i> <ls n='Chr.'>208,7</ls>. <dvsn n='1'>— 2〉 *<lex>f.</lex> आ <i><bot>Sida albe Lin.</bot></i>"
         },
         {
             "word": "अनिष्ट",
             "eid": "4201",
             "pagenum": 1,
-            "content": "<hom>2.</hom> अ/निष्ट¦ <lex>Adj.</lex> <div n='1'>— 1〉 <i>nicht geopfert</i>. <div n='1'>— 2〉 <i>dem nicht geopfert worden ist</i>."
+            "content": "<hom>2.</hom> अ/निष्ट¦ <lex>Adj.</lex> <dvsn n='1'>— 1〉 <i>nicht geopfert</i>. <dvsn n='1'>— 2〉 <i>dem nicht geopfert worden ist</i>."
         }
     ],
     "PWG": [
@@ -153,19 +153,19 @@
             "word": "अनिष्ट",
             "eid": "2676",
             "pagenum": 1,
-            "content": "1. अनिष्ट¦ (3. अ + इष्ट von इष्) <div n='1'> 1) <lex>adj.</lex> <div n='2'> a) <i>wen</i> oder <i>was man nicht gern hat, unangenehm, widerwärtig</i> <ls>VOP. 26, 16.</ls> नानिष्टो ह्यनुशास्यते <ls>R. 3, 14, 23.</ls> von Gerüchen <ls>SUŚR. 1, 108, 12. 171, 2.</ls> u. s. w. mit dem gen.: ध्यायत्यनिष्टं यत्किंचित्पाणिग्राहस्य चेतसा <ls>M. 9, 21.</ls> <div n='2'>— b) <i>unheilvoll, schädlich</i>, von Regen <ls>KAUŚ. 94.</ls> Davon <lex>n.</lex> <i>Unglück, Unheil</i>: अनिष्टमाशङ्क्य <ls>VID. 26.</ls> शङ्कानिष्टोत्प्रेक्षणम् <ls>H. 315.</ls> <div n='2'>— c) <i>mit dem Gesetz</i> oder <i>den guten Sitten im Widerspruch stehend, verboten, verrufen</i>: एवं यद्यप्यनिष्टेषु वर्तन्ते सर्वकर्मसु । सर्वथा ब्राह्मणाः पूज्याः <ls>M. 9, 319.</ls> तस्माद्धर्मं यमिष्टेषु संव्यवस्येन्नराधिपः । अनिष्टं चाप्यनिष्टेषु तं धर्मं (अनिष्टो धर्मः <i>Verbot</i>) न विचालयेत् ॥ <ls n='M.'>7, 13.</ls> मनसानिष्टचिन्तनम् <ls n='M.'>12, 5.</ls> <div n='1'>— 2) <lex>f.</lex> अनिष्टा (wegen wirdrigen Geschmacks) Name eines Strauchs, <i>Sida alba L.</i> (नागवला), <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
+            "content": "1. अनिष्ट¦ (3. अ + इष्ट von इष्) <dvsn n='1'> 1) <lex>adj.</lex> <dvsn n='2'> a) <i>wen</i> oder <i>was man nicht gern hat, unangenehm, widerwärtig</i> <ls>VOP. 26, 16.</ls> नानिष्टो ह्यनुशास्यते <ls>R. 3, 14, 23.</ls> von Gerüchen <ls>SUŚR. 1, 108, 12. 171, 2.</ls> u. s. w. mit dem gen.: ध्यायत्यनिष्टं यत्किंचित्पाणिग्राहस्य चेतसा <ls>M. 9, 21.</ls> <dvsn n='2'>— b) <i>unheilvoll, schädlich</i>, von Regen <ls>KAUŚ. 94.</ls> Davon <lex>n.</lex> <i>Unglück, Unheil</i>: अनिष्टमाशङ्क्य <ls>VID. 26.</ls> शङ्कानिष्टोत्प्रेक्षणम् <ls>H. 315.</ls> <dvsn n='2'>— c) <i>mit dem Gesetz</i> oder <i>den guten Sitten im Widerspruch stehend, verboten, verrufen</i>: एवं यद्यप्यनिष्टेषु वर्तन्ते सर्वकर्मसु । सर्वथा ब्राह्मणाः पूज्याः <ls>M. 9, 319.</ls> तस्माद्धर्मं यमिष्टेषु संव्यवस्येन्नराधिपः । अनिष्टं चाप्यनिष्टेषु तं धर्मं (अनिष्टो धर्मः <i>Verbot</i>) न विचालयेत् ॥ <ls n='M.'>7, 13.</ls> मनसानिष्टचिन्तनम् <ls n='M.'>12, 5.</ls> <dvsn n='1'>— 2) <lex>f.</lex> अनिष्टा (wegen wirdrigen Geschmacks) Name eines Strauchs, <i>Sida alba L.</i> (नागवला), <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>"
         },
         {
             "word": "अनिष्ट",
             "eid": "2677",
             "pagenum": 1,
-            "content": "2. अ/निष्ट¦ (3. अ + इष्ट von यज्) <lex>adj.</lex> <div n='1'> 1) <i>nicht geopfert</i> <ls>ŚAT. BR. 5, 2, 2, 1. 3, 3, 10. 4, 4, 1.</ls> <ls>KĀTY. ŚR. 25, 5, 11.</ls> <div n='1'>— 2) <i>dem nicht geopfert worden ist</i>: तद्वै निरुप्तं हविरासीदनिष्टा देवता <ls>ŚAT. BR. 3, 2, 3, 7.</ls>"
+            "content": "2. अ/निष्ट¦ (3. अ + इष्ट von यज्) <lex>adj.</lex> <dvsn n='1'> 1) <i>nicht geopfert</i> <ls>ŚAT. BR. 5, 2, 2, 1. 3, 3, 10. 4, 4, 1.</ls> <ls>KĀTY. ŚR. 25, 5, 11.</ls> <dvsn n='1'>— 2) <i>dem nicht geopfert worden ist</i>: तद्वै निरुप्तं हविरासीदनिष्टा देवता <ls>ŚAT. BR. 3, 2, 3, 7.</ls>"
         },
         {
             "word": "अनिष्ट",
             "eid": "63516",
             "pagenum": 5,
-            "content": "1. अनिष्ट¦ <div n='1'> 1) <div n='2'> a) °वेष <ls>Spr. 3360.</ls> neben इष्ट unter den 10 Arten von Tönen  <ls>MBH. 14, 1420.</ls> <div n='2'>— b) <lex>n.</lex> °सागर <ls>Spr. 2649.</ls>"
+            "content": "1. अनिष्ट¦ <dvsn n='1'> 1) <dvsn n='2'> a) °वेष <ls>Spr. 3360.</ls> neben इष्ट unter den 10 Arten von Tönen  <ls>MBH. 14, 1420.</ls> <dvsn n='2'>— b) <lex>n.</lex> °सागर <ls>Spr. 2649.</ls>"
         }
     ],
     "SHS": [

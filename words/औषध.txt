@@ -146,7 +146,7 @@
             "word": "औषध",
             "eid": "23097",
             "pagenum": 1,
-            "content": "औषध/¦ <div n='1'>— 1〉 <lex>Adj.</lex> <i>aus Kräutern bestehend</i>. <div n='1'>— 2〉 <lex>f.</lex> औषधी <ab>Bein.</ab> der <is>Dākṣāyaṇī</is>. <div n='1'>— 3〉 <lex>n.</lex> <div n='2'>— a〉 <i>das Kraut, die Gesammtheit der Kräuter</i>. <div n='2'>— b〉 <i>Heilstoff aus Kräutern, Arzenei</i>. <div n='2'>— c〉 <i>Kräutergefäss</i>."
+            "content": "औषध/¦ <dvsn n='1'>— 1〉 <lex>Adj.</lex> <i>aus Kräutern bestehend</i>. <dvsn n='1'>— 2〉 <lex>f.</lex> औषधी <ab>Bein.</ab> der <is>Dākṣāyaṇī</is>. <dvsn n='1'>— 3〉 <lex>n.</lex> <dvsn n='2'>— a〉 <i>das Kraut, die Gesammtheit der Kräuter</i>. <dvsn n='2'>— b〉 <i>Heilstoff aus Kräutern, Arzenei</i>. <dvsn n='2'>— c〉 <i>Kräutergefäss</i>."
         }
     ],
     "PWG": [
@@ -154,19 +154,19 @@
             "word": "औषध",
             "eid": "14128",
             "pagenum": 1,
-            "content": "औषध/¦ (von ओषदश्व) <div n='1'> 1) <lex>adj.</lex> <i>aus Kräutern bestehend</i> <ls>ŚAT. BR. 7, 2, 4, 26.</ls> <div n='1'>— 2) subst. <ls>P. 5, 4, 37.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> अर्धर्चादि zu <ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 251,b,1.</ls> zu belegen nur das <lex>n.</lex> <div n='2'> a) <i>Kraut</i>, coll. <i>die Gesammtheit der Kräuter</i> <ls>KĀTY. ŚR. 4, 14, 4.</ls> <ls n='KĀTY. ŚR.'>23, 2, 18.</ls> <ls n='KĀTY. ŚR.'>26, 4, 8.</ls> <ls>AIT. BR. 8, 16.</ls> <ls>NIR. 5, 28.</ls> सर्वौषध/ <i>allerlei Kraut</i> <ls>ŚAT. BR. 3, 2, 2, 15.</ls> <ls n='ŚAT. BR.'>9, 3, 4, 4.</ls> <ls n='ŚAT. BR.'>10, 1, 5, 2.</ls> <ls>CHĀND. UP. 5, 2, 4.</ls> <ls>TAITT. UP. 2, 2.</ls>  <div n='2'>— b) <i>Heilkraut, Heilstoff aus Kräutern, Arzenei</i> <ls>AK. 2, 4, 5, 1.</ls> <ls n='AK. 2,'>6, 2, 1.</ls> <ls>TRIK. 2, 6, 13.</ls> <ls>H. 472.</ls> <ls>M. 8, 324.</ls> <ls n='M.'>9, 293.</ls> <ls n='M.'>11, 237.</ls> <ls>BHAG. 9, 16.</ls> <ls>N. 9, 29.</ls> <ls>MBH. 3, 13856.</ls> <ls>R. 4, 25, 6.</ls> <ls n='R. 4, 25,'>23</ls> <ls>SUŚR. 1, 5, 13. 135, 1. 3. 144, 7. 373, 12. 2, 52, 16. 375, 14. 554, 1.</ls> <ls>BHARTṚ. 1, 86.</ls> <ls>PAÑCAT. I, 223. 210, 17.</ls> <ls>HIT. I, 13. 162.</ls> <ls>RAGH. 1, 28.</ls> <ls n='RAGH.'>12, 97.</ls> श्रूयते हि पुरा लोके विषस्य विषमौषधम् <ls>ŚṚṄGĀRAT. 15.</ls> <div n='2'>— c) <i>Kräutergefäss</i> <ls>Z. d. d. m. G. 9, p. LXXIX.</ls>"
+            "content": "औषध/¦ (von ओषदश्व) <dvsn n='1'> 1) <lex>adj.</lex> <i>aus Kräutern bestehend</i> <ls>ŚAT. BR. 7, 2, 4, 26.</ls> <dvsn n='1'>— 2) subst. <ls>P. 5, 4, 37.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> अर्धर्चादि zu <ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 251,b,1.</ls> zu belegen nur das <lex>n.</lex> <dvsn n='2'> a) <i>Kraut</i>, coll. <i>die Gesammtheit der Kräuter</i> <ls>KĀTY. ŚR. 4, 14, 4.</ls> <ls n='KĀTY. ŚR.'>23, 2, 18.</ls> <ls n='KĀTY. ŚR.'>26, 4, 8.</ls> <ls>AIT. BR. 8, 16.</ls> <ls>NIR. 5, 28.</ls> सर्वौषध/ <i>allerlei Kraut</i> <ls>ŚAT. BR. 3, 2, 2, 15.</ls> <ls n='ŚAT. BR.'>9, 3, 4, 4.</ls> <ls n='ŚAT. BR.'>10, 1, 5, 2.</ls> <ls>CHĀND. UP. 5, 2, 4.</ls> <ls>TAITT. UP. 2, 2.</ls>  <dvsn n='2'>— b) <i>Heilkraut, Heilstoff aus Kräutern, Arzenei</i> <ls>AK. 2, 4, 5, 1.</ls> <ls n='AK. 2,'>6, 2, 1.</ls> <ls>TRIK. 2, 6, 13.</ls> <ls>H. 472.</ls> <ls>M. 8, 324.</ls> <ls n='M.'>9, 293.</ls> <ls n='M.'>11, 237.</ls> <ls>BHAG. 9, 16.</ls> <ls>N. 9, 29.</ls> <ls>MBH. 3, 13856.</ls> <ls>R. 4, 25, 6.</ls> <ls n='R. 4, 25,'>23</ls> <ls>SUŚR. 1, 5, 13. 135, 1. 3. 144, 7. 373, 12. 2, 52, 16. 375, 14. 554, 1.</ls> <ls>BHARTṚ. 1, 86.</ls> <ls>PAÑCAT. I, 223. 210, 17.</ls> <ls>HIT. I, 13. 162.</ls> <ls>RAGH. 1, 28.</ls> <ls n='RAGH.'>12, 97.</ls> श्रूयते हि पुरा लोके विषस्य विषमौषधम् <ls>ŚṚṄGĀRAT. 15.</ls> <dvsn n='2'>— c) <i>Kräutergefäss</i> <ls>Z. d. d. m. G. 9, p. LXXIX.</ls>"
         },
         {
             "word": "औषध",
             "eid": "69252",
             "pagenum": 5,
-            "content": "औषध¦ <div n='1'> 2) <div n='2'> b) वस्त्यौषधं गुदे मूर्ख दीयते न तु पीयते <ls>KATHĀS. 64, 18.</ls> <div n='v'>— Vgl. महौषध ."
+            "content": "औषध¦ <dvsn n='1'> 2) <dvsn n='2'> b) वस्त्यौषधं गुदे मूर्ख दीयते न तु पीयते <ls>KATHĀS. 64, 18.</ls> <dvsn n='v'>— Vgl. महौषध ."
         },
         {
             "word": "औषध",
             "eid": "119282",
             "pagenum": 7,
-            "content": "औषध¦ <div n='1'> 1) <div n='2'> a) माल्य <ls>Verz. d. Oxf. H. 43,a, N. 2.</ls> <div n='1'>— 2) <div n='2'> a) द्रुमौषधम् <ls>MĀRK. P. 109, 70.</ls> <div n='2'>— b) औषधकृते जग्धं मधु <i>als Arzenei genossen</i> <ls>HEM.</ls> <ls>YOGAŚ. 3, 39.</ls>"
+            "content": "औषध¦ <dvsn n='1'> 1) <dvsn n='2'> a) माल्य <ls>Verz. d. Oxf. H. 43,a, N. 2.</ls> <dvsn n='1'>— 2) <dvsn n='2'> a) द्रुमौषधम् <ls>MĀRK. P. 109, 70.</ls> <dvsn n='2'>— b) औषधकृते जग्धं मधु <i>als Arzenei genossen</i> <ls>HEM.</ls> <ls>YOGAŚ. 3, 39.</ls>"
         }
     ],
     "SCH": [

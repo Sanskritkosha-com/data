@@ -79,7 +79,7 @@
             "word": "अनुज",
             "eid": "2924",
             "pagenum": 88,
-            "content": "अनुज¦ Tatpur. 1. m. f. n. (-जः-जा-जम्) Born after or later. <div n='P'>2. m. (-जः) A younger brother. <div n='P'>3. f. (-जा) <sup>1</sup> A younger sister. <sup>2</sup> The name of a medicinal plant. See त्रायमाणा. <div n='P'>4. n. (-जम्) A small herbaceous plant used in medicine and as a perfume. See प्रपौण्डरीक. E. जन् with अनु, kṛt aff. ड."
+            "content": "अनुज¦ Tatpur. 1. m. f. n. (-जः-जा-जम्) Born after or later. <dvsn n='P'>2. m. (-जः) A younger brother. <dvsn n='P'>3. f. (-जा) <sup>1</sup> A younger sister. <sup>2</sup> The name of a medicinal plant. See त्रायमाणा. <dvsn n='P'>4. n. (-जम्) A small herbaceous plant used in medicine and as a perfume. See प्रपौण्डरीक. E. जन् with अनु, kṛt aff. ड."
         }
     ],
     "IEG": [
@@ -145,7 +145,7 @@
             "word": "अनुज",
             "eid": "4377",
             "pagenum": 1,
-            "content": "अनुज¦ <div n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>nachgeboren, jünger</i> <ls n='Chr.'>83,2. 191,27. 195,19</ls>. <div n='1'>— 2〉 <lex>m.</lex> <i>jüngerer Bruder</i> <ls n='Chr.'>91,22</ls>. <div n='1'>— 3〉 <lex>f.</lex> आ/ <div n='2'>— a〉 <i>jüngere Schwester</i>. <div n='2'>— b〉 *<i>eine <ab>best.</ab> Pflanze</i>. <div n='1'>— 4〉 *<lex>n.</lex> <i>eine <ab>best.</ab> Parfum</i>."
+            "content": "अनुज¦ <dvsn n='1'>— 1〉 <lex>Adj.</lex> (<lex>f.</lex> आ) <i>nachgeboren, jünger</i> <ls n='Chr.'>83,2. 191,27. 195,19</ls>. <dvsn n='1'>— 2〉 <lex>m.</lex> <i>jüngerer Bruder</i> <ls n='Chr.'>91,22</ls>. <dvsn n='1'>— 3〉 <lex>f.</lex> आ/ <dvsn n='2'>— a〉 <i>jüngere Schwester</i>. <dvsn n='2'>— b〉 *<i>eine <ab>best.</ab> Pflanze</i>. <dvsn n='1'>— 4〉 *<lex>n.</lex> <i>eine <ab>best.</ab> Parfum</i>."
         }
     ],
     "PWG": [
@@ -153,13 +153,13 @@
             "word": "अनुज",
             "eid": "2769",
             "pagenum": 1,
-            "content": "अनुज¦ (von जन् mit अनु) <ls>P. 3, 2, 101</ls>, <ls>Sch.</ls>  <div n='1'> 1) <lex>adj.</lex> <i>nachgeboren, der jüngere</i> (Gegens. ज्येष्ठ): पुत्रः <ls>M. 9, 117.</ls> भ्राता <ls n='M. 9,'>57.</ls> <ls>R. 1, 71, 13.</ls> <ls n='R.'>3, 24, 3</ls> <ls n='R.'>5, 89, 55.</ls> पुत्राः पौत्रास्तथानुजाः <i>Söhne, Enkel und noch entferntere Nachkommen</i> <ls n='R.'>6, 36, 4.</ls> Am Ende eines comp. <i>nach Jemand geboren</i> <ls>P. 3, 2, 100.</ls> पुमनुजा (= पुमांसमनुरुध्य जाता), स्त्र्यनुजः <ls>Sch.</ls> <div n='1'>— 2) <lex>m.</lex> <i>ein jüngerer Bruder</i> <ls>AK. 2, 6, 1, 43.</ls> <ls n='AK.'>2, 7, 55.</ls> <ls>H. 526. 552.</ls> <ls>M. 11, 60.</ls> <ls>HIḌ. 1, 46.</ls> <ls>BRĀHMAṆ. 3, 8.</ls> <ls>R. 2, 21, 63.</ls> <ls n='R.'>5, 89, 67.</ls> <ls n='R.'>6, 70, 59.</ls> <ls n='R. 6,'>71, 1.</ls> <ls>RAGH. 12, 20.</ls> <div n='1'>— 3) <lex>f.</lex> जा <div n='2'> a) <i>eine jüngere Schwester</i> <ls>R. 3, 4, 52.</ls> <div n='2'>— b) N. einer Pflanze (त्रायमाणालता) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <div n='1'>— 3) <lex>n.</lex> N. eines Parfums (प्रपौण्डरीक) ebend."
+            "content": "अनुज¦ (von जन् mit अनु) <ls>P. 3, 2, 101</ls>, <ls>Sch.</ls>  <dvsn n='1'> 1) <lex>adj.</lex> <i>nachgeboren, der jüngere</i> (Gegens. ज्येष्ठ): पुत्रः <ls>M. 9, 117.</ls> भ्राता <ls n='M. 9,'>57.</ls> <ls>R. 1, 71, 13.</ls> <ls n='R.'>3, 24, 3</ls> <ls n='R.'>5, 89, 55.</ls> पुत्राः पौत्रास्तथानुजाः <i>Söhne, Enkel und noch entferntere Nachkommen</i> <ls n='R.'>6, 36, 4.</ls> Am Ende eines comp. <i>nach Jemand geboren</i> <ls>P. 3, 2, 100.</ls> पुमनुजा (= पुमांसमनुरुध्य जाता), स्त्र्यनुजः <ls>Sch.</ls> <dvsn n='1'>— 2) <lex>m.</lex> <i>ein jüngerer Bruder</i> <ls>AK. 2, 6, 1, 43.</ls> <ls n='AK.'>2, 7, 55.</ls> <ls>H. 526. 552.</ls> <ls>M. 11, 60.</ls> <ls>HIḌ. 1, 46.</ls> <ls>BRĀHMAṆ. 3, 8.</ls> <ls>R. 2, 21, 63.</ls> <ls n='R.'>5, 89, 67.</ls> <ls n='R.'>6, 70, 59.</ls> <ls n='R. 6,'>71, 1.</ls> <ls>RAGH. 12, 20.</ls> <dvsn n='1'>— 3) <lex>f.</lex> जा <dvsn n='2'> a) <i>eine jüngere Schwester</i> <ls>R. 3, 4, 52.</ls> <dvsn n='2'>— b) N. einer Pflanze (त्रायमाणालता) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <dvsn n='1'>— 3) <lex>n.</lex> N. eines Parfums (प्रपौण्डरीक) ebend."
         },
         {
             "word": "अनुज",
             "eid": "63584",
             "pagenum": 5,
-            "content": "अनुज/¦ <div n='1'> 3) <div n='2'> a) hierher wohl: अना^नुजामनु\\जां माम^कर्त <ls>TS. 4, 3, 11, 3.</ls>"
+            "content": "अनुज/¦ <dvsn n='1'> 3) <dvsn n='2'> a) hierher wohl: अना^नुजामनु\\जां माम^कर्त <ls>TS. 4, 3, 11, 3.</ls>"
         },
         {
             "word": "अनुज",
