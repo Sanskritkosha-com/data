@@ -222,5 +222,36 @@
             "word": "श्वास",
             "content": "lit. breath; the voiceless breath required for uttering some letters; the term is used in the Pratisakhya and Vyakarana books in the sense of breath which is prominently required in the utterance of the hard consonants, sibilants, visarga and the Jihvamuliya and Upadhmaniya letters; the term is used in connection with these letters also; the usual term in use is, of course, श्वासानुप्रदान, the term श्वास showing the property of the breath, with which these letters are characterized."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "श्वास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಉಸಿರು",
+            "निष्पत्तिः": "श्वस (प्राणने)कर० 'घञ्' (३-३-१२१) । श्वस (प्राणने)'णः' (३-१-१४१)",
+            "व्युत्पत्तिः": "श्वसित्यनेन । श्वसिति ।",
+            "प्रयोगाः": "'अद्यापि स्तनवेपथुं जनयति श्वासः प्रमाणाधिकः'",
+            "उल्लेखाः": "शाकु० १-२६",
+            "content": ""
+        },
+        {
+            "word": "श्वास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ನಿಟ್ಟುಸಿರು",
+            "content": ""
+        },
+        {
+            "word": "श्वास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಗಾಳಿ \\/ವಾಯು",
+            "content": ""
+        },
+        {
+            "word": "श्वास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಉಬ್ಬಸ \\/ದಮ್ಮು \\/ಗೂರಲುವ್ಯಾಧಿ",
+            "विस्तारः": "'विहाय प्रकृतिं वायुः प्राणोऽथ कफसंयुतः । श्वासयत्यूर्ध्वगो भूत्वा तं श्वासं परिचक्षते ॥'सुश्रुत० उत्तरतं० ५१-४",
+            "content": ""
+        }
     ]
 }

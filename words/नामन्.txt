@@ -284,5 +284,28 @@
             "word": "नामन्",
             "content": "noun, substantive; one of the four categories of words given in the Nirukta and other ancient grammer works; cf. चत्वारि पदजातानि नामाख्याते चोपसर्गनिपाताश्च, Nir. I.1. The word is defined as सत्त्वप्रधानानि नामानि by standard grammarians; cf. Nir. I. 1.; cf. also सत्त्वाभिधायकं नाम, R. Pr. XIII.8; V. Pr. VIII. 49 and com. thereon. Panini divides words into two categories only, viz. सुबन्त and तिङन्त and includes नामन्,उपसर्ग and निपात under सुबन्त. The Srngarapraksa defines नामन् as follows-अनपेक्षितशब्दव्युत्पत्तीनि सत्त्वभूतार्थाभिधायीनि नामानि। तानि द्विविधानि। आविष्टलिङ्गानि अनाविष्टलिङ्गानि च । The word नामन् at the end of a sasthitatpurusa compound signifies a name or Samjna e. g. सर्वनामन्, दिङ्नामन्, छन्दोनामन्; cf. also. Bhasa vrtti on संज्ञायां कन्थोशीनरेषु P. II.4. 20 and संज्ञायां भृत्o P. III. 2.46 where the author of the work explains the word संज्ञायां as नाम्नि. The word is used in the sense of 'a collection of words' in the Nirukta, cf. अन्तरिक्षनामानि, अपत्यनामानि, ईश्वरनामानि, उदकनामानि, etc."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "नामन्",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಹೆಸರು \\/ಅಭಿಧಾನ \\/ಒಬ್ಬ ವ್ಯಕ್ತಿಯನ್ನು ಕರೆಯುವ ಅಥವಾ ಒಂದು ವಸ್ತುವನ್ನು ಹೇಳುವ ಸಂಜ್ಞಾಶಬ್ದ",
+            "निष्पत्तिः": "णम (प्रह्वत्वे शब्दे)'मनिन्' (उ० ४-१५१)",
+            "व्युत्पत्तिः": "नम्यते अभिधीयते अर्थोऽनेन",
+            "विस्तारः": "ಯಾವ ಒಂದು ಶಬ್ದವನ್ನು ಉಚ್ಚರಿಸಿದ ಕೂಡಲೆ ಯಾವನೊಬ್ಬ ವ್ಯಕ್ತಿಯ ಅಥವಾ ಯಾವುದಾದರೊಂದು ವಸ್ತುವಿನ ಬೋಧವಾಗುವುದೋ ಆ ಶಬ್ದವು ನಾಮವಾಗುವುದು. 'शब्देनोच्चरितेनेह येन द्रव्यं प्रतीयते । तदक्षरविधौ युक्तं नामेत्याहुर्मनीषिणः ॥'निरुक्तिः",
+            "content": ""
+        },
+        {
+            "word": "नामन्",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ವಾಚಕಶಬ್ದ \\/ಒಂದು ವಸ್ತುವಿನ ಅಥವಾ ವ್ಯಕ್ತಿಯ ಅರ್ಥವನ್ನು ತಿಳಿಸುವ ಶಬ್ದ",
+            "content": ""
+        },
+        {
+            "word": "नामन्",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಪ್ರಾತಿಪದಿಕರೂಪವಾದ ಒಂದು ಶಬ್ದ \\/ಅರ್ಥವತ್ತಾದ ಧಾತುಭಿನ್ನವಾದ ಯಾವ ಪ್ರತ್ಯಯವೂ ಸೇರದಿರುವ ಶಬ್ದರೂಪ",
+            "content": ""
+        }
     ]
 }

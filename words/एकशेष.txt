@@ -107,5 +107,23 @@
             "word": "एकशेष",
             "content": "a kind of composite formation in which only one of the two or more words compounded together subsists, the others being elided; cf. एकः शिष्यते इतरे निवर्तन्ते वृक्षश्च वृक्षश्च वृक्षौ । Kāśikā on सरूपाणामेकशेष एक विभक्तौ P.I.2.64; cf. also सुरूपसमुदायाद्धि विभक्तिर्या विधीयते । एकस्तत्रार्थवान् सिद्धः समुदायस्य वाचकः ।। Bhāṣāvṛtti on P. I. 2.64. There is a dictum of grammarians that every individual object requires a separate expression to convey its presence. Hence, when there is a dual sense, the word has to be repeated, as also the word has to be multiplied when there is a plural sense. In current spoken language, however, in such cases the word is used only once. To justify this single utterance for conveying the sense of plurality, Pāṇini has laid down a general rule सरूपाणामेकशेष एकविभक्तौ and many other similar rules to cover cases of plurality not of one and the same object, but plurality cased by many objects, such as plurality caused by ideas going in pairs or relations such as parents, brothers and sisters, grand-father and grand-son, male and female. For example, see the words वृक्षश्च वृक्षश्च वृक्षौ; Similarly वृक्षाः for many trees, पितरौ for माता च पिता च; देवौ for देवी च देवश्च; cf. also the words श्वशुरौ, भ्रातरौ, गार्ग्यौ (for गार्ग्य and गार्ग्यायण),आवाम् (for त्वं च अहं च), यौ (for स च यश्च) and गावः fem. अजा fem. अश्वाः masc. irrespective of the individuals being some males and some females. Pāṇini has devoted 10 Sūtras to this topic of Ekaśeṣa. The Daiva grammar has completely ignored this topic. Patanjali has very critically and exhaustively discussed this topic. Some critics hold that the topic of एकशेघ did not exist in the original Aṣṭādhyāyī of Pāṇini but it was interpolated later on, and adduce the long discussion in the Mahābhāṣya especially the Pūrvapakṣa therein, in support of their argument. Whatever the case be, the Vārttikakāra has commented upon it at length; hence, the addition must have been made immediately after Pāṇini, if at all there was any. For details see Mahābhāṣya on I.1.64 to 73 as also,Introduction p. 166-167, Vol.7 of the Mahābhāṣya published by the D. E. Society, Poona."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "एकशेष",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವ್ಯಾಕರಣದಲ್ಲಿ ಹೇಳಿದ೫ ವೃತ್ತಿಗಳಲ್ಲೊಂದು",
+            "व्युत्पत्तिः": "एकः शिष्यते (अन्यो लुप्यते) यत्र",
+            "content": ""
+        },
+        {
+            "word": "एकशेष",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಎರಡಲ್ಲಿ ಯವುದಾದರೂ ಒಂದು ಮಾತ್ರ ಉಳಿಯುವಿಕೆ",
+            "व्युत्पत्तिः": "एकश्चासौ शेषश्च, एकस्य शेषो वा ।",
+            "प्रयोगाः": "'ममाद्य तत्प्राप्तिरसुव्ययो वा हस्ते तवास्ते द्वयमेकशेषः'",
+            "उल्लेखाः": "नैष० ३-८२",
+            "content": ""
+        }
     ]
 }

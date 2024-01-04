@@ -221,5 +221,29 @@
             "word": "वाचक",
             "content": "expressive, as contrasted with द्योतक्र, व्यञ्जक, सूचक and भेदक which 41  ७ mean suggestive; the term is used in connection with words which directly convey their sense by denotation, as opposed to words which convey indirectly the sense or suggest it as the prefixes or Nipatas do."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "वाचक",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಅರ್ಥವನ್ನು ತಿಳಿಸುವ ಶಬ್ದ",
+            "निष्पत्तिः": "वच (परिभाषणे)'ण्वुल्' (३-१-१३३)",
+            "व्युत्पत्तिः": "वक्ति अभिधावृत्त्या बोधयत्यर्थान्",
+            "विस्तारः": "'साक्षात् संङ्केतितं योऽर्थम्भिधत्ते स वाचकः'काव्यप्र०",
+            "content": ""
+        },
+        {
+            "word": "वाचक",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಪಠಿಸುವವನು \\/ಪಠಿಸಿ ಹೇಳುವವನು",
+            "निष्पत्तिः": "वच (परिभाषणे) + णिच्'ण्वुल्' (३-१-१३३)",
+            "content": ""
+        },
+        {
+            "word": "वाचक",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಮಾತಾಡುವವನು",
+            "content": ""
+        }
     ]
 }

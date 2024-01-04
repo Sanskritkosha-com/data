@@ -173,5 +173,30 @@
             "word": "अनियत",
             "content": "not subject to any limitation cf. प्रत्यया नियताः, अर्था अनियताः, अर्था नियताः, प्रत्यया अनियताः M.Bh. on II. 3.50. In the casc of नियमविधि (a restrictive rule or statement) a limitation is put on one or more of the constituent elements or factors of that rule, the limited element being called नियत, the other one being termed अनियत; also see Kāś. on II.2.30."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "अनियत",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಅನಿತ್ಯ \\/ ಅಸ್ಥಿರ",
+            "व्युत्पत्तिः": "न नियतः ।",
+            "प्रयोगाः": "'रत्यादयोऽप्यनियते रसे स्युर्व्यभिचारिणः' ।",
+            "उल्लेखाः": "सा० द० ।",
+            "content": ""
+        },
+        {
+            "word": "अनियत",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ನಿಯಂತ್ರಣವಿಲ್ಲದ \\/ ನಿರ್ಬಂಧಕ್ಕೊಳಗಾಗದ",
+            "content": ""
+        },
+        {
+            "word": "अनियत",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಅನಿಶ್ಚಿತ \\/ ಕ್ಲೃಪ್ತವಲ್ಲದ",
+            "प्रयोगाः": "'अनियतवेलमाहारोऽश्यते' ।",
+            "उल्लेखाः": "शाकु० २ ।",
+            "content": ""
+        }
     ]
 }

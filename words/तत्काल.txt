@@ -160,5 +160,33 @@
             "word": "तत्काल",
             "content": "requiring the same time for utterance as for example one matra for short vowels, two for long ones and three for protracted ones, although those vowels are nasalised or pure, or acute, grave or circumflex. See the word तपर."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "तत्काल",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವರ್ತಮಾನ ಕಾಲ \\/ನಡೆಯುತ್ತಿರುವ ಕಾಲ",
+            "व्युत्पत्तिः": "स चासौ कालश्च",
+            "विस्तारः": "'तत्कालस्तु तदात्वं स्यादुत्तरः काल आयतिः'- अम० ।",
+            "content": ""
+        },
+        {
+            "word": "तत्काल",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಆ ಕಾಲ \\/ಆ ಸಮಯ",
+            "content": ""
+        },
+        {
+            "word": "तत्काल",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಆ ಕಾಲದ \\/ಆ ಸಮಯದ",
+            "content": ""
+        },
+        {
+            "word": "तत्काल",
+            "पदविभागः": "अव्ययम्",
+            "कन्नडार्थः": "ಆ ಕಾಲದಲ್ಲಿ \\/ ಅದೇ ಸಮಯದಲ್ಲಿ",
+            "content": ""
+        }
     ]
 }

@@ -75,5 +75,33 @@
             "pagenum": 1,
             "content": "<b>Ūrdara.</b>¦ — This word occurs once in the Rigveda,<sup>1</sup> when reference is made to filling Indra with Soma as one fills an Ūrdara with grain (<b>Yava</b>). Sāyaṇa renders it granāry, but Roth<sup>2</sup> and Zimmer<sup>3</sup> seem more correct in simply making it a measure for holding grain, or ‘garner.’ <F>1) ii. 14, 11.</F> <F>2) St. Petersburg Dictionary, <i>s.v.</i></F> <F>3) <i>Altindisches Leben,</i> 238.</F>"
         }
+    ],
+    "SHKB": [
+        {
+            "word": "ऊर्दर",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಬಲಶಾಲಿ \\/ಶಕ್ತಿವಂತ \\/ಶೂರ",
+            "content": ""
+        },
+        {
+            "word": "ऊर्दर",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ರಾಕ್ಷಸ",
+            "निष्पत्तिः": "ऊर्क् + दृ (विदारणे)'अच्' (उ० ५-४०)",
+            "विस्तारः": "'ऊर्दरः शूररक्षसोः'सि० कौ० ।",
+            "content": ""
+        },
+        {
+            "word": "ऊर्दर",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಧಾನ್ಯವನ್ನು ಅಳೆಯುವ ಒಂದು ಪಾತ್ರೆ",
+            "content": ""
+        },
+        {
+            "word": "ऊर्दर",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಧಾನ್ಯವನ್ನು ಕೂಡಿಡುವ ಸ್ಥಳ \\/ಕಣಜ",
+            "content": ""
+        }
     ]
 }

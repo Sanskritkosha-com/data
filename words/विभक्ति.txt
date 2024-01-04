@@ -183,5 +183,35 @@
             "word": "विभक्ति",
             "content": "lit. division, separation; sepa ration of the base i.e. that factor which shows the base separately। The word विभक्ति is generally used in the sense of case affixes; but in Pāṇini's grammar the term विभक्ति is applied also to personal endings applied to roots to form verbs; cf.विभक्तिश्च । सुप्तिङौ विभक्तिसंज्ञौ स्तः S.K.on Pāṇ. I.4.104. The term is also applied to tad.affixes which are applied to pronouns, किम् and बहु, ending in the ablative or in the locative case or in other cases on rare occasions. Such affixes are तस् (तसिल्), त्र, (त्रल्), ह, अत्, दा, ऋहिल्, दानीम्, था (थाल्) and थम् given in P.V.3.1 to V.3.26.The case affixes are further divided into उपपदविभक्ति affixes and कारकविभक्ति affixes. For details see P.II.3.1 to 73."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "विभक्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ವಿಭಾಗ \\/ಪಾಲು",
+            "निष्पत्तिः": "वि + भज (सेवायाम्)'क्तिन्' (३-३-९४)",
+            "content": ""
+        },
+        {
+            "word": "विभक्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "(ವ್ಯಾಕರಣದಲ್ಲಿ) सुप् ಮತ್ತು तिङ् ಪ್ರತ್ಯಯಗಳ ಸಂಜ್ಞೆ",
+            "प्रयोगाः": "'क्रियेत् चेत् साधु विभक्तिचिन्ता व्यक्तिस्तदा सा प्रथमाभिधेया । या स्वौजसां साधयितुं विलासैः तावत् क्षमा नाम पदं बहु स्यात् ॥'",
+            "उल्लेखाः": "नैष० ३-२३",
+            "विस्तारः": "'सु औ जस् इत्यादीनां सप्तानां त्रिकाणां प्रथमादयः सप्तम्यन्ताः प्राचां सञ्ज्ञाः'सि० कौ० । 'विभक्तिश्च' (पा० सू० १-४-१०४) । 'सङ्ख्यात्वव्याप्यसामान्यैः शक्तिमान् प्रत्ययस्तु यः । सा विभक्तिर्द्विधा प्रोक्ता सुप्तिङ् चेति प्रभेदतः ॥'",
+            "content": ""
+        },
+        {
+            "word": "विभक्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಬೇರೆಯಾಗುವುದು \\/ಬೇರ್ಪಡುವುದು",
+            "content": ""
+        },
+        {
+            "word": "विभक्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ತಂದೆಯ ಆಸ್ತಿಯನ್ನು ಭಾಗಮಾಡುವುದು",
+            "content": ""
+        }
     ]
 }

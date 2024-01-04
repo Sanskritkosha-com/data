@@ -348,5 +348,33 @@
             "word": "कृत्य",
             "content": "lit. that which should be done; the word कृत्य is used as a tech nical term in grammar in the sense of kṛt affixes which possess the sense 'should be done'. Pāṇini has not defined the term कृत्य but he has introduced a topic (अधिकार) by the name कृत्य (P. III.1.95), and mentioned kṛt afixes therein which are to be called कृत्य right on upto the mention of the affix ण्वुल्. in P.III. 1.133; cf. कृत्याः प्राङ् ण्वुलः P. III. 1.95 The kṛtya affixes, common ly found in use, are तव्य, अनीय and य (यत्, क्यप् and ण्यत्)."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "कृत्य",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಕಾರ್ಯ \\/ಕೆಲಸ",
+            "निष्पत्तिः": "डुकृञ् (करणे)'क्यप्'(३-१-११०)",
+            "content": ""
+        },
+        {
+            "word": "कृत्य",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ವ್ಯಾಕರಣದಲ್ಲಿ तव्य अनीयर् क्यप् ण्यत् ಮೊದಲಾದ ಪ್ರತ್ಯಯಗಳು",
+            "content": ""
+        },
+        {
+            "word": "कृत्य",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಕರ್ತವ್ಯ \\/ಅವಶ್ಯವಾಗಿ ಮಾಡಬೇಕಾದ ಕಾರ್ಯ \\/ವೇದವಿಹಿತವಾದ ಕರ್ಮಾಚರಣೆ",
+            "content": ""
+        },
+        {
+            "word": "कृत्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಕುಪಿತನಾದ \\/ಕೋಪಗೊಂಡ",
+            "विस्तारः": "'कृत्या क्रियादेवतयोः कार्ये क्ली कुपिते त्रिषु'वैज० ।",
+            "content": ""
+        }
     ]
 }

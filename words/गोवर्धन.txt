@@ -257,5 +257,21 @@
             "word": "गोवर्धन",
             "content": "a grammarian who has written a work on Katantra Grammar called कातन्त्रकौमुदी and also a commentary on the Ganaratnamahodadhi of Vardhamana. A gloss on the Unadisutras is also assigned to Govardhana who is likely to be the same as above."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "गोवर्धन",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಬೃಂದಾವನದಲ್ಲಿರುವ ಒಂದು ಪರ್ವತ \\/ಗೋವರ್ಧನಗಿರಿ",
+            "निष्पत्तिः": "गो + वृधु (वृद्धौ) + णिच्'ल्युः' (३-१-१३४)",
+            "content": ""
+        },
+        {
+            "word": "गोवर्धन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಪಶುಪಾಲನೆಯಿಂದ ಗೋವುಗಳನ್ನು ವೃದ್ಧಿಪಡಿಸುವುದು",
+            "व्युत्पत्तिः": "गवां वर्धनम्",
+            "content": ""
+        }
     ]
 }

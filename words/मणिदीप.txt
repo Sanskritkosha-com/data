@@ -37,5 +37,21 @@
             "pagenum": 5,
             "content": "मणिदीप¦ (म° + दीप) <lex>m.</lex> <i>eine Lampe, in der Juwelen die Stelle des brennenden Dochtes vertreten</i>, <ls>RĀJA-TAR. 3, 298.</ls> °क <lex>m.</lex> dass. <ls n='RĀJA-TAR.'>4, 15.</ls> <dvsn n='v'>— Vgl. मणिप्रदीप und रत्नदीप ."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "मणिदीप",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ರತ್ನಕೆತ್ತಿದ ದೀಪ",
+            "व्युत्पत्तिः": "मणिखचितो दीपः",
+            "content": ""
+        },
+        {
+            "word": "मणिदीप",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ದೀಪದಂತೆ ಬೆಳಗುವ ರತ್ನ",
+            "व्युत्पत्तिः": "मणिः दीप इव",
+            "content": ""
+        }
     ]
 }

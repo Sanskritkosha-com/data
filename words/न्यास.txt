@@ -354,5 +354,53 @@
             "word": "न्यास",
             "content": "(1) lit. position, placing;a word used in the sense of actual expression or wording especially in the sūtras; cf. the usual expression क्रियते एतन्न्यास एव in the Mahābhāșya, cf. M. Bh. on I. 1.11, 1.1.47 etc.; (2) a name given by the writers or readers to works of the type of learned and scholarly commentaries on vŗitti-type-works on standard sūtras in a Śāstra; e. g. the name Nyāsa is given to the learned commentaries on the Vŗtti on Hemacandra's Śabdānuśasana as also on the Paribhāşāvŗtti by Hemahamsagani. Similarly the commentary by Devanandin on Jainendra grammar and that by Prabhācandra on the Amoghāvŗtti on Śākatāyana grammar are named Nyāsa. In the same way, the learned commentary on the Kāśikāvŗtti by Jinendrabuddhi, named Kāśikāvivaranapaňjikā by the author, is very widely known by the name Nyāsa. This commentary Nyāsa was written in the eighth century by the Buddhist grammarian Jinendrabuddhi, who belonged to the eastern school of Pānini's Grammar. This Nyāsa has a learned commentary written on it by Maitreya Rakșita in the twelfth  century named Tantrapradipa which is very largely quoted by subsequent grammarians, but which unfortunately is available only in a fragmentary state at present. Haradatta, a well-known southern scholar of grammar has drawn considerably from Nyāsa in his Padamañjarī, which also is well-known as a scholarly work."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "न्यास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಇಡುವುದು \\/ಇರಿಸುವುದು",
+            "निष्पत्तिः": "नि + असु (क्षेपणे)भावे 'घञ्' (३-३-१८)",
+            "प्रयोगाः": "'तस्याः खुरन्यासपवित्रपांसुमपांसुलानां धुरि कीर्तनीया', 'नमयन् सारगुरुभिः पादन्यासैर्वसुन्धराम्'",
+            "उल्लेखाः": "रघु० २-२, कुमा० ६-५०",
+            "content": ""
+        },
+        {
+            "word": "न्यास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ನಿಕ್ಷೇಪ \\/ಕೇಳಿದಾಗ ಕೊಡಲು ಹೇಳಿ ಒಬ್ಬನಲ್ಲಿ ಇಡುವ ವಸ್ತು",
+            "निष्पत्तिः": "नि + असुकर्म० 'घञ्' (३-३-१९)",
+            "प्रयोगाः": "'अर्थो हि कन्या परकीय एव तामद्य सम्प्रेष्य परिग्रहीतुः । जातो ममायं विशदः प्रकामं प्रत्यर्पितन्यास इवान्तरात्मा ॥'",
+            "उल्लेखाः": "शाकु० ५-२१",
+            "content": ""
+        },
+        {
+            "word": "न्यास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ತ್ಯಾಗ \\/ವರ್ಜನ \\/ತೊರೆದು ಬಿಡುವುದು",
+            "प्रयोगाः": "'काम्यानां कर्मणां न्यासं सन्न्यासं कवयो विदुः'",
+            "उल्लेखाः": "गीता० १८-२",
+            "content": ""
+        },
+        {
+            "word": "न्यास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಅರ್ಪಣ \\/ಸಮರ್ಪಣ \\/ಒಪ್ಪಿಸುವುದು",
+            "content": ""
+        },
+        {
+            "word": "न्यास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಶರೀರದ ಅಂಗಗಳಲ್ಲಿ ದೇವತೆಗಳನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾಡುವ ಮಂತ್ರೋಚ್ಚಾರಣರೂಪವಾದ ಕಾರ್ಯ",
+            "content": ""
+        },
+        {
+            "word": "न्यास",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವ್ಯಾಕರಣ ಶಾಸ್ತ್ರದ ಒಂದು ಗ್ರಂಥ",
+            "प्रयोगाः": "'अनुत्सूत्रपदन्यासा सद्वृत्तिः सन्निबन्धना । शब्दविद्येव नो भाति राजनीतिरपस्पशा ॥'",
+            "उल्लेखाः": "माघ० २-११२",
+            "content": ""
+        }
     ]
 }

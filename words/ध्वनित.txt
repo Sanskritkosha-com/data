@@ -145,5 +145,28 @@
             "word": "ध्वनित",
             "content": "suggested, as opposed to उक्त expressed; the word is found frequently used in the Paribhasendusekhara and other works in connection with such dictums as are not actually made, but indicated in the Mahabhasya."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "ध्वनित",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಶಬ್ದ \\/ದಧ್ವನಿ",
+            "निष्पत्तिः": "ध्वन (शब्दे)भावे 'क्तः' (३-३-११४)",
+            "प्रयोगाः": "'गम्भीरभेरीध्वनितैर्भयङ्करैर्महागुहान्तप्रतिनादमेदुरैः'",
+            "उल्लेखाः": "कुमा० १४-२७",
+            "content": ""
+        },
+        {
+            "word": "ध्वनित",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ವ್ಯಂಗ್ಯವಾಗಿ ಸೂಚಿಸಲ್ಪಟ್ಟ \\/ವ್ಯಂಜನಾವೃತ್ತಿಯಿಂದ ತಿಳಿಸಲ್ಪಟ್ಟ",
+            "content": ""
+        },
+        {
+            "word": "ध्वनित",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಶಬ್ದ ಮಾಡಲ್ಪಟ್ಟ",
+            "content": ""
+        }
     ]
 }

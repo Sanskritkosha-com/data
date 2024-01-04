@@ -139,5 +139,20 @@
             "word": "संहिता",
             "content": "position of words or parts of words in the formation ofa word quite near each other which results into the natural phonetic coalescence of the preceding and the following letters. Originally when the Vedic hymns or the running prose passages of the Yajurveda were split up into their different constituent parts namely the words or padas by the Padakaras, the word संहिता or संहितापाठ came into use as contrasted with the पदपाठ. The writers of of the Pratisakhyas have conseguently defined संहिता as पदप्रकृतिः संहिता, while Panini who further split up the padas into bases (प्रकृति) and affixes (प्रत्यय) and mentioned several augments and substitutes, the phonetic combinations, which resulted inside the word or pada, had to be explained by reason of the close vicinity of the several phonetic units forming the base, the affix, the augment, the substitute and the like, and he had to define the word संहृिता rather differently which he did in the words परः संनिकर्षः संहिता; cf P.I.4.109: cf. also संहितैकपदे नित्या नित्या धातूपसर्गयोः । नित्य समासे वाक्ये तु सा विवक्षामपेक्षते Sabdakaustubha on Maheshvara Sutra 5.1."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "संहिता",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ವರ್ಣಗಳಿಗೆ ಅತಿಶಯವಾದ ಸಾಮೀಪ್ಯ \\/ಅಕ್ಷರಗಳನ್ನು ನಿರಂತರವಾಗಿ ಉಚ್ಚರಿಸುವುದು \\/ಮಧ್ಯೆ ವ್ಯವಧಾನವಿಲ್ಲದೆ ಅರ್ಥವತ್ತಾದ ಪದಗಳ ಉಚ್ಚಾರಣೆ",
+            "विस्तारः": "'परः सन्निकर्षः संहिता'पा० सू० १-४-१०९ । वर्णानामतिशयितः सन्निधिः संहितासि० कौ० ।",
+            "content": ""
+        },
+        {
+            "word": "संहिता",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಮನು ಮೊದಲಾದವರಿಂದ ರಚಿತವಾದ ಸ್ಮೃತಿ (ಧರ್ಮಶಾಸ್ತ್ರ) \\/ಮನುಸಂಹಿತೆ ಮೊದಲಾದುದು",
+            "content": ""
+        }
     ]
 }

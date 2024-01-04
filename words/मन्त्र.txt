@@ -326,5 +326,38 @@
             "word": "मन्त्र",
             "content": "name given to the Samhitā portion of the Veda works especially of the Ṛgveda and the Yajurveda as different from the Brāhmaṇa, Āraṇyaka and other portions of the two Vedas as also from the other Vedas; cf. मन्त्रशब्द ऋक्शब्दे च यजुःशब्दे च; M. Bh. on P.I. 1.68 Vārt. 4. The word मन्त्र occurs several times in the rules of Pāṇini (cf. P. II. 4. 80, III.2.71, III.3.96, VI. 1. 151, VI.1.210, VI.3.131, VI.4.53, VI. 4.141) and a few times in the Vārttikas. (cf. I. 1. 68 Vārt. 4, IV.3.66 Vārt. 5 and VI. 4. 141 Vārt. 1). It is, however, doubtful whether the word was used in the limited sense by Pāṇini and Kātyāyana. Later on, the word came to mean any sacred text or even any mystic formula, which was looked upon as sacred. Still later on, the word came to mean a secret counsel. For details see Goldstūcker's Pāṇini p. 69, Thieme's 'Pāṇini and the Veda ' p. 38."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "मन्त्र",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ರಹಸ್ಯ \\/ಭಾಷಣ \\/ಗುಟ್ಟಾದ ಮಾತುಕತೆ",
+            "निष्पत्तिः": "मत्रि (गुप्तभाषणे)'घञ्' (३-३-१९) । भावे 'घञ्' (३-३-१८) वा ।",
+            "व्युत्पत्तिः": "मन्त्र्यते",
+            "प्रयोगाः": "'मन्त्रो योध इवाधीरः सर्वाङ्गैः संवृतैरपि । चिरं न सहते स्थातुं परेभ्यो भेदशङ्कया ॥'",
+            "उल्लेखाः": "माघ० २-२९",
+            "content": ""
+        },
+        {
+            "word": "मन्त्र",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವೇದಮಂತ್ರ \\/ದೇವತೆ ಮೊದಲಾದವರ ಅನುಗ್ರಹಸಂಪಾದನೆಗಾಗಿ ಹೇಳುವ ವೇದವಾಕ್ಯ",
+            "प्रयोगाः": "'सम्मोहनं नाम सखे ममास्त्रं प्रयोगसंहारविभक्तमन्त्रम्'",
+            "उल्लेखाः": "रघु० ५-५७",
+            "content": ""
+        },
+        {
+            "word": "मन्त्र",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವೇದದ ಒಂದು ಭಾಗ \\/ಬ್ರಾಹ್ಮಣವನ್ನುಳಿದು ಸಂಹಿತೆ ಸೇರಿದ ವೇದ",
+            "विस्तारः": "'मन्त्रो वेदविषये स्यात् देवतानां साधने । गुह्यवादेऽपि च पुमान्'मेदि०",
+            "content": ""
+        },
+        {
+            "word": "मन्त्र",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಮಂತ್ರಾಲೋಚನೆ \\/ಸಲಹೆಗಾರರೊಡನೆ ನಡೆಸುವ ಮಾತುಕತೆ",
+            "content": ""
+        }
     ]
 }

@@ -45,5 +45,31 @@
             "pagenum": 5,
             "content": "बहुवीर्य¦ (बहु + वीर्य) <dvsn n='1'> 1) <lex>m.</lex> <i>Terminalia Bellerica Roxb.</i> (विभीतक) <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <i>Amaranthus polygonoides Roxb.</i> (तण्डुलीयशाक) . <i>Bombax heptaphyllum</i> (शाल्मलि) und <i>Vanguiera spinosa Roxb.</i> (मरुव) <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <dvsn n='1'>— 2) <lex>f.</lex> आ <i>Flacourtia cataphracta</i> (भूम्यामली) <ls>RĀJAN.</ls>"
         }
+    ],
+    "SHKB": [
+        {
+            "word": "बहुवीर्य",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವಿಭೀತಕ ವೃಕ್ಷ \\/ತಾರಾ ಗಿಡ",
+            "content": ""
+        },
+        {
+            "word": "बहुवीर्य",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಶಾಲ್ಮಲಿ ವೃಕ್ಷ \\/ಬೂರುಗದ ಮರ",
+            "content": ""
+        },
+        {
+            "word": "बहुवीर्य",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಮರುಗ",
+            "content": ""
+        },
+        {
+            "word": "बहुवीर्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಹೆಚ್ಚು ವೀರ್ಯವುಳ್ಳ",
+            "content": ""
+        }
     ]
 }

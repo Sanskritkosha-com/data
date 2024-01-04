@@ -339,5 +339,53 @@
             "word": "नित्य",
             "content": "(1) eternal, as applied to word or Sabda in contrast with sound or dhvani which is evanescent (कार्य). The sound with meaning or without meaning,made by men and animals is impermanent; but the sense or idea awakened in the mind by the evanescent audible words on reaching the mind is of a permanent or eternal nature; cf. स्फोटः शब्दो ध्वनिस्तस्य व्यायामादुपजायते; cf. also व्याप्तिमत्त्वा्त्तु शब्दस्य Nir.I.1 ; (2) constant; not liable to be set aside by another; cf. उपबन्धस्तु देशाय नित्यम्, न रुन्धे नित्यम्। नित्यशब्दः प्राप्त्यन्तरानिषेधार्थः T.Pr.I.59, IV.14; (3) original as constrasted with one introduced anew such as an augment; cf. T. Pr. VI.14; (4) permanently functioning, as opposed to tentatively doing so; cf. नित्यविरते द्विमात्रम् R. T.37; (5) unchangeable, permanent, imperishable; cf. अयं नित्यशब्दोस्त्येव कूटस्थेष्वविचालिषु भावेषु वर्तते M.Bh. on P. VIII. 1.4; (6) always or invariably applying, as opposed to optional; the word in this sense is used in connection with rules or operations that do not optionally apply; cf. उपपदसमासो नित्यसमासः, षष्ठीसमासः पुनार्वेभाषा; M. Bh. on P.II.2.19; (7) constant,as applied to a rule which applies if another simultaneously applying rule were to have taken effect, as well as when that other rule does not take effect; cf. क्वचित्कृताकृतप्रसङ्गमात्रेणापि नित्यता Par. Sek. Pari 46. The operations which are nitya according to this Paribhasa take effect in preference to others which are not 'nitya', although they may even be 'para'; cf. परान्नित्यं बलवत् Par. Sek. Pari. 42."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "नित्य",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಸಮುದ್ರ",
+            "content": ""
+        },
+        {
+            "word": "नित्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಸಂತತವಾದ\\/ನಿರಂತರವಾದ\\/ಎಡೆಬಿಡದೆ ನಡೆಯುತ್ತಿರುವ\\/ಯಾವಾಗಲೂ ನಡೆಯುತ್ತಿರುವ",
+            "निष्पत्तिः": "नि 'त्यप्' (वा० ४-२-१०४)",
+            "व्युत्पत्तिः": "नियतं भवः",
+            "प्रयोगाः": "विद्यागुरुष्वेदतेव नित्या वृत्तिः स्वयोनिषु'",
+            "उल्लेखाः": "मनु० २-२०६",
+            "content": ""
+        },
+        {
+            "word": "नित्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ನಿಯತವಾದ\\/ಕಟ್ಟಳೆಯ ಪ್ರಕಾರದ\\/ಐಚ್ಛಿಕವಲ್ಲದ\\/ಬಿಡದೆ ಅವಶ್ಯವಾಗಿ ಮಾಡಬೇಕಾದ (ನಿತ್ಯಕರ್ಮ)",
+            "content": ""
+        },
+        {
+            "word": "नित्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಯಾವಾಗಲೂ ಇರುವ\\/ಉತ್ಪತ್ತಿ ಮತ್ತು ವಿನಾಶವಿಲ್ಲದ\\/ಸದಾತನವಾದ",
+            "विस्तारः": "यथा वर्णाः, गगनम्, इत्यादि",
+            "content": ""
+        },
+        {
+            "word": "नित्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಶಾಶ್ವತವಾದ\\/ಸ್ಥಿರವಾಗಿರುವ",
+            "प्रयोगाः": "'दमो दानं क्षमा बुद्धिर्ह्रीर्धृतिस्तेज उत्तमम्। नित्यान्यासन् महासत्त्वे शान्तनौ पुरुषर्षभे'",
+            "उल्लेखाः": "भा० आदि० १०७-२",
+            "विस्तारः": "'शाश्वतानश्वरे नित्यं ध्रुवम्'अभि०चि०, 'नित्यौ सततशाश्वतौ' नानार्थर०",
+            "content": ""
+        },
+        {
+            "word": "नित्य",
+            "पदविभागः": "अव्यय",
+            "कन्नडार्थः": "ಯಾವಾಗಲೂ\\/ಸರ್ವಕಾಲದಲ್ಲಿಯೂ",
+            "प्रयोगाः": "'तं नित्यमनुरक्तास्मि यथा सूर्यं सुवर्चला'",
+            "उल्लेखाः": "रामा०",
+            "content": ""
+        }
     ]
 }

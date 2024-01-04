@@ -225,5 +225,49 @@
             "word": "विराम",
             "content": "an ancient term used in the Prātiśākhya works for a stop or pause in general at the end of a word, or at the end of the first member of a compound, which is shown split up in the Padapāṭha, or inside a word, or at the end of a word, or at the end of a vowel when it is followed by another vowel. The duration of this virāma is different in different circumstances; but sometimes under the same circumstances, it is described differently in the different Prātiśākhyas. Generally,there is no pause between two consonants as also between a vowel and a consonant preceding or following it.The Taittirīya Prātiśākhya has given four kinds of विराम (a) ऋग्विराम,pause at the end of a foot or a verse of duration equal to three mātrās or moras, (b) पदविराम pause between two words of duration equal to two matras; e. g. इषे त्वा ऊर्जे त्वा, (c) pause between two words the preceding one of which ends in a vowel and the following begins with a vowel, the vowels being not euphonically combined; this pause has a duration of one matra e,g. स इधानः, त एनम्, (d) pause between two vowels inside a word which is a rare occurrence; this has a duration of half a mātrā;e.gप्रउगम्, तितउः; cf. ऋग्विरामः पदविरामो विवृत्तिविरामः समानपदविवृत्तिविरामस्त्रिमात्रो  द्विमात्र एकमात्रोर्धमात्र इत्यानुपूर्व्येण T. Pr. XXII. 13. The word विवृत्ति is explained as स्वरयोरसंधिः. The vivṛttivirāma is further divided into वत्सानुसति which has the preceding vowel short and the succeeding long, वत्सानुसारिणी which has the preceding vowel a long one and the succeeding vowel a short one, पाकवती which has both the vowels short, and पिपीलिका which has got both, the vowels long. This fourfold division is given in the Śikṣā where their duration is given as one mātrā, one mātrā, three-fourths of a mātrā and one-fourth of a mātrā respectively. The duration between the two words of a compound word when split up in the पदपाठ is also equal to one mātrā; cf. R.Pr.I.16. The word विराम occurs in Pāṇini's rule विरामोs वसानम् P.I. 4.110 where commentators have explained it as absence; cf. वर्णानामभावोवसानसंज्ञः स्यात् S.K.on P. I.4.110: cf. also विरतिर्विरामः । विरम्यते अनेन इति वा विरामः Kāś. on P.I.4.110. According to Kāśikā even in the Saṁhitā text, there is a duration of half a mātrā between the various phonetic elements, even between two consonants or between a vowel and a consonant, which, however, is quite imperceptible; cf. परो यः संनिकर्षो वर्णानां अर्धमात्राकालव्यवधानं स संहितासंज्ञो भवति Kāś. on P. I.4.109 cf. also विरामे मात्रा R.T.35; cf. also R.Pr.I.16 and 17. For details see Mahābhāṣya on P.I.4.109 and I.4.110."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "विराम",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವಿಶ್ರಾಂತಿ \\/ಬಿಡುವು \\/ನಿಲುಗಡೆ",
+            "निष्पत्तिः": "वि + रमु (क्रीडायाम्)'घञ्' (३-३-१८)",
+            "प्रयोगाः": "'सुधां विना न प्रययुर्विरामम्'",
+            "उल्लेखाः": "भर्तृ० १-७१",
+            "content": ""
+        },
+        {
+            "word": "विराम",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಸಮಾಪ್ತಿ \\/ಕೊನೆ",
+            "प्रयोगाः": "'सेकः शीकरिणा करेण विहितः कामं विरामे पुनः न स्नेहादनरालनालनलिनीपत्रातपत्रं धृतम्'",
+            "उल्लेखाः": "मालती० ९-३४",
+            "content": ""
+        },
+        {
+            "word": "विराम",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಕಾರ್ಯದ ಮಧ್ಯೆ ಕೊಡುವ ನಿಲುಗಡೆ \\/ಕೆಲಸದ ಮಧ್ಯಯ ಅವಕಾಶ \\/ಕಾರ್ಯ ಮಾಡದೆ ಮಧ್ಯೆ ಸುಮ್ಮನಿರುವ ಕಾಲ",
+            "content": ""
+        },
+        {
+            "word": "विराम",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಸಂಗೀತದ ಮಧ್ಯೆ ಕೊಡುವ ಕಾಲಾವಕಾಶ",
+            "प्रयोगाः": "'वर्णानामपि मूर्च्छनान्तरगतं तारं विरामे द्रुतम्'",
+            "उल्लेखाः": "मृच्छ० ३-५",
+            "content": ""
+        },
+        {
+            "word": "विराम",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವಿಷ್ಣು",
+            "निष्पत्तिः": "वि + रमु (क्रीडायाम्)अधि० 'घञ्' (३-३-१२१)",
+            "व्युत्पत्तिः": "वरप्रदैः ब्रह्मादिभिः अवध्यत्वादिभिः वरैः विरम्यते अस्मिन्",
+            "प्रयोगाः": "'रामो विरामो विरतः'",
+            "उल्लेखाः": "वि० स०",
+            "विस्तारः": "'वरप्रदैर्ब्रह्ममुख्यैरवध्यत्वादिभिर्वरैः । यस्मिन् विरम्यत इति स विरामः परिकीर्तितः ॥'निरुक्तिः",
+            "content": ""
+        }
     ]
 }

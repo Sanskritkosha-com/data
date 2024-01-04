@@ -220,5 +220,41 @@
             "word": "अदर्शन",
             "content": "a term in ancient grammars and Prātiśākhyas meaning nonappearance of a phonetic member वर्णस्यादर्शनं लोपः (V. Pr 1. 141),explained as अनुपलब्धिः by उव्वट. Later on, the idea of non-appearance came to be associated with the idea of expectation and the definition of लोप given by Pāṇini in the words अदर्शनं लोपः (as based evidently on the Prātiśākhya definition) was explained as non-appearance of a letter or a group of letters where it was expected to have been present. See M. Bh. on I.1.60 Vārt. 4 and Kaiyaṭa thereon."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "अदर्शन",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ದರ್ಶನಾಭಾವ \\/ ನೋಡದಿರುವಿಕೆ",
+            "व्युत्पत्तिः": "न दर्शनम् ।",
+            "प्रयोगाः": "'अदर्शनेच्छामितरेषु दत्ते' |",
+            "उल्लेखाः": "याद० १८-९३ ।",
+            "content": ""
+        },
+        {
+            "word": "अदर्शन",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಲೋಪ \\/ ವಿನಾಶ",
+            "content": ""
+        },
+        {
+            "word": "अदर्शन",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಅಂತರ್ಧಾನ \\/ ಮರೆಯಾಗುವಿಕೆ",
+            "content": ""
+        },
+        {
+            "word": "अदर्शन",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ದೃಷ್ಟಿಗೆ ಗೋಚರವಾಗದ \\/ ಕಣ್ಣಿಗೆ ಕಾಣಿಸದ",
+            "content": ""
+        },
+        {
+            "word": "अदर्शन",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ನೇತ್ರವಿಲ್ಲದ \\/ ಕಣ್ಣಿಲ್ಲದ",
+            "व्युत्पत्तिः": "नास्ति दर्शनं यस्य ।",
+            "content": ""
+        }
     ]
 }

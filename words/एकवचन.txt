@@ -75,5 +75,24 @@
             "word": "एकवचन",
             "content": "singular number; affix of the singular numberin Pāṇini's grammar applied to noun-bases (प्रातिपदिक) and roots when the sense of the singular number is to be conveyed; the singular sense can be of the form of an individual or collection or genus. The word एकवचन in the technical sense of singular number is found used in the Prātiśākhyas and Nirukta also."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "एकवचन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಒಂದು ಸಂಖ್ಯೆ ಅಥವಾ ಒಂದು ವಸ್ತುವಿನ ಏಕತ್ವವನ್ನು ಹೇಳುವ ಸ್ವಾದಿ ಮತ್ತು ತಿಂಗಾದಿ ಪ್ರತ್ಯಯ",
+            "निष्पत्तिः": "वच (परिभाषणे)'ल्युट्' (३-३-११७)",
+            "व्युत्पत्तिः": "एकमेकत्वमुच्यतेऽनेन",
+            "प्रयोगाः": "'त्वमावेकवचने' , 'द्व्येकयोर्द्विवचनैकवचने'",
+            "उल्लेखाः": "पा० सू० ७-२-९७, पा० सू० १-४-२२",
+            "content": ""
+        },
+        {
+            "word": "एकवचन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಒಂದು ವಸ್ತುವನ್ನು ಹೇಳುವ ಶಬ್ದ",
+            "व्युत्पत्तिः": "एकं वस्तु उच्यतेऽनेन",
+            "content": ""
+        }
     ]
 }

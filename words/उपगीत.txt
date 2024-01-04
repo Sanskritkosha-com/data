@@ -67,5 +67,25 @@
             "word": "उपगीत",
             "content": "a fault in the pronunciation of letters, noticed sometimes in the utterance of a letter adjoining such a letter as is coloured with a musical tone on account of the proximity of the adjacent letter which is uttered in a musical note and which therefore is called 'प्रगीत'; cf. प्रगीतः सामवदुच्चारितः । उपगीतः समीपवर्णान्तरगीत्यानुरक्तः Kaiyaṭa's Pradīpa on M.Bh. I. Āhnika 1."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "उपगीत",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಸಮೀಪದಲ್ಲಿ ಗಾನ ಮಾಡಲ್ಪಟ್ಟ \\/ಹತ್ತಿರದಲ್ಲಿ ಹಾಡಲ್ಪಟ್ಟ",
+            "निष्पत्तिः": "उप + गै (शब्दे)'क्तः' (३-२-१०२)",
+            "प्रयोगाः": "'इतीष्टगन्धाढ्यमटन्नसौ वनं पिकोपगीतोऽपि शुकस्ततोऽपि च' -",
+            "उल्लेखाः": "नैष० १-१०४",
+            "content": ""
+        },
+        {
+            "word": "उपगीत",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಸಮೀಪದಲಿ ಹಾಡುತ್ತಿರುವ \\/ಹತ್ತಿರದಲ್ಲಿ ಗಾನ ಮಾಡುತ್ತಿರುವ",
+            "निष्पत्तिः": "उप + गै (शब्दे)'क्तः' (३-४-७२)",
+            "प्रयोगाः": "'नात्र कान्तमुपगीतया तया स्वानमा नमति काऽलिमालया'",
+            "उल्लेखाः": "माघ० ४-५७",
+            "content": ""
+        }
     ]
 }

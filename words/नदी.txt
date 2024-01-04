@@ -168,5 +168,18 @@
             "word": "नदी",
             "content": "a technical term applied in Panini's grammar to words in the feminine gender ending in ई and ऊ excepting a few like स्त्री,श्री, भ्रू and others; it is optionally applied to words ending in इ and उ, of course in the fem. gender, before case affixes of the dative, ablative, genitive and locative sing. The term was probably in use before Panini and was taken from the fem. word नदी which was taken as a model. Very probably there was a long list of words like नद् (नदट्) चोर (चोरट्) etc. which were given as ending in ट् and to which the affix ई (ङीप्) was added for forming the feminine base;the first word नदी so formed, was taken as a model and all words in the list and similar others were called नदी; cf. P. I 4. 3-6."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "नदी",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ನದಿ \\/ಹೊಳೆ",
+            "निष्पत्तिः": "णद (अव्यक्ते शब्दे)'अच्' (३-१-१३४)",
+            "व्युत्पत्तिः": "नदति",
+            "प्रयोगाः": "'विविधकामहिता महिताम्भसः स्फुटसरोजवना जवना नदीः'",
+            "उल्लेखाः": "किरा० ५-७",
+            "विस्तारः": "ಪಚಾದಿಗಣದಲ್ಲಿ ಎಂದು ಟಕಾರಾಂತವಾಗಿರುವುದರಿಂದ ङीप् (४-१-१५) । 'नदी सरिति शोणादौ ना'मेदि० । ಎಂಟು ಸಾವಿರ ಧನುಃಪ್ರಮಾಣಕ್ಕೆ ಕಡಿಮೆಯಿಲ್ಲದಷ್ಟು ದೂರ ಪ್ರವಹಿಸುವ ಜಲಪ್ರವಾಹಕ್ಕೆ ನದಿಯೆಂದು ಹೆಸರು. 'धनुः सहस्राण्यष्टौ च गतिर्यासां न विद्यते । न ता नदीशब्दवहा गर्तास्ते परिकीर्तिताः ॥'",
+            "content": ""
+        }
     ]
 }

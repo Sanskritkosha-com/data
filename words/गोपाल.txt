@@ -487,5 +487,40 @@
             "word": "गोपाल",
             "content": "(देव) known more by the nickname of मन्नुदेव or मन्तुदेव who lived in the eighteenth century and wrote several commentary works on well-known grammatical treatises such as the Vaiyakaranabhusanasara, Laghusabdendusekhara, Paribhasendusekhara etc. He is believed to have written a treatise on Ganasutras also; (2) a grammarian different from the above मन्नुदेव who has written an explanatory work on the Pratisakhyas;.(3) a scholar of grammar, different from the above who is believed to have written a gloss named Visamarthadipika on the Sarasvata Vyakarana at the end of the sixteenth century."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "गोपाल",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಗೊಲ್ಲ \\/ದನ ಕಾಯುವವನು",
+            "निष्पत्तिः": "पाल (रक्षणे) + णिच्'अण्' (३-२-१)",
+            "व्युत्पत्तिः": "गाः पालयति",
+            "content": ""
+        },
+        {
+            "word": "गोपाल",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ರಾಜ \\/ದೊರೆ",
+            "निष्पत्तिः": "पाल (रक्षणे्) + णिच्'अण्' (३-२-१)",
+            "व्युत्पत्तिः": "गां भूमिं पालयति",
+            "content": ""
+        },
+        {
+            "word": "गोपाल",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಶ್ರೀಕೃಷ್ಣ",
+            "प्रयोगाः": "'गां दृष्ट्वा विहृष्टो ह्यभवं सर्वभूषणभूषणम् । गोपालमबलासङ्गमुदितं वेणुनादितम् ॥'",
+            "उल्लेखाः": "पद्मपु०",
+            "content": ""
+        },
+        {
+            "word": "गोपाल",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಕ್ಷತ್ರಿಯನಿಂದ ಶೂದ್ರಸ್ತ್ರೀಯಲ್ಲಿ ಹುಟ್ಟಿದ ಬೆರಕೆ ಜಾತಿಯವನು",
+            "प्रयोगाः": "'अर्धिकः कुलमित्रं च गोपालो दासनापितौ'",
+            "उल्लेखाः": "मनु० ४-२५३",
+            "विस्तारः": "'क्षत्रियात् शूद्रकन्यायां सौत्पन्नस्तु यः सुतः । स गोपाल इति ज्ञेयो भोज्यो विप्रैर्न संशयः ॥'",
+            "content": ""
+        }
     ]
 }

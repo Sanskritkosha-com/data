@@ -81,5 +81,27 @@
             "word": "अल्पप्राण",
             "content": "(1) non-aspirate letters letters requiring little breath from the mouth for their utterance as opposed to mahāprāṇa; (2) non-aspiration; one of the external articulate efforts characterizing the utterance of non-aspirate letters."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "अल्पप्राण",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಅಲ್ಪಪ್ರಾಣ ವಾಯುವಿನ ವ್ಯಾಪಾರವುಳ್ಳ ವರ್ಣ \\/ಅಲ್ಪಪ್ರಯತ್ನದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಅಕ್ಷರ",
+            "विस्तारः": "'अयुग्मा वर्णयमगा यणश्चाल्पासवः स्मृताः'सि० कौ० ।",
+            "content": ""
+        },
+        {
+            "word": "अल्पप्राण",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಅಕ್ಷರಗಳನು ಉಚ್ಚರಿಸುವ ಬಾಹ್ಯಪ್ರಯತ್ನಗಳಲ್ಲೊಂದು",
+            "content": ""
+        },
+        {
+            "word": "अल्पप्राण",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಅಲ್ಪಬಲವುಳ್ಳ \\/ಅಲ್ಪಪ್ರಾಣವಾಯುವುಳ್ಳ \\/ಬಹಳ ಕಷ್ಟದಿಂದ ಉಸಿರಾಡುವ",
+            "व्युत्पत्तिः": "अल्पः ह्रस्वः प्राणः प्राणवायुर्यस्य",
+            "content": ""
+        }
     ]
 }

@@ -214,5 +214,45 @@
             "word": "उपसर्जन",
             "content": "(1) adjective, subordinate member which does not get the treatment of the principal member, e. g. गोस्त्रियोरुपसर्जनस्य P.I.2.48, ' अनुपसर्जनात् P.IV.1.14 संज्ञोपसर्जनीभूतास्तु न सर्वादयः S.K. on P.I.1.29, also P.I.1.27 Vārt.2;(2) a word referred to by the word which is put in the nominative case in rules of Pāṇini prescribing compounds, e. g. कष्ट (in the compound क्रष्टश्रितः) which is referred to by the word द्वितीया in the rule द्वितीया श्रितातीतo P.II.1.24 which prescribes the Acc. Tatpuruṣa compound. These words are given the first place in a compound; cf. प्रथमानिर्दिष्टं समास उपसर्जनम् P.I.2.43, उपसर्जनं पूर्वम् P.II.2.30; (3) a word which has one and the same case when a compound in the different cases is shown as dissolved, e. g. the word कौशाम्बी in the compound निष्कौशाम्बिः which keeps its ablative case when the compounds निष्कौशाम्बिम्, निष्कौशाम्बिना, निष्कौशाम्बये etc. are dissolved; cf. एकविभक्ति चापूर्वनिपाते P.I.2.44."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "उपसर्जन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಅಪ್ರಧಾನ \\/ಗೌಣ",
+            "निष्पत्तिः": "उप + सृज (विसर्गे)'ल्युट्' (३-३-११३)",
+            "प्रयोगाः": "'उपसर्जनं प्रधानस्य धर्मतो नोपपद्यते'",
+            "उल्लेखाः": "मनु० ९-१२१",
+            "विस्तारः": "'अप्राग्र्यं द्वयहीने द्वे अप्रधानोपसर्जने'- अम० ।",
+            "content": ""
+        },
+        {
+            "word": "उपसर्जन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಉತ್ಪಾತ \\/ಶುಭಾಶುಭಸೂಚಕವಾದ ಚಿಹ್ನೆ",
+            "प्रयोगाः": "'निर्घाते भूमिचलने ज्योतिषां चोपसर्जने'",
+            "उल्लेखाः": "मनु० ४-१०५",
+            "content": ""
+        },
+        {
+            "word": "उपसर्जन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ವ್ಯಾಕರಣಶಾಸ್ತ್ರದಲ್ಲಿ ಗುಣೀಭೂತವಾದ ಪದ \\/ವಿಶೇಷಣ ಪದ",
+            "content": ""
+        },
+        {
+            "word": "उपसर्जन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಸಮಾಸವಿಧಾಯಕ ಶಾಸ್ತ್ರದಲ್ಲಿರುವ ಪ್ರಥಮಾ ವಿಭಕ್ತ್ಯಂತ ಪದದಿಂದ ಬೋಧಿಸಲ್ಪಡುವ ಅರ್ಥ",
+            "प्रयोगाः": "'प्रथमानिर्दिष्टं समास उपसर्जनम्'",
+            "उल्लेखाः": "पा० सू० १-२-४३",
+            "content": ""
+        },
+        {
+            "word": "उपसर्जन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ ತೋರಿಸಲ್ಪಟ್ಟ ನಿಯತವಿಭಕ್ತಿಯುಳ್ಳ ಶಬ್ದ",
+            "content": ""
+        }
     ]
 }

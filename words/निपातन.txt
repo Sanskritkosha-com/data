@@ -197,5 +197,45 @@
             "word": "निपातन",
             "content": "a word given, as it appears, without trying for its derivation,in authoritative works of ancient grammarians especially Panini;cf.दाण्डिनायनहास्तिनयनo P. VI.4.174, as also अचतुरविचतुरo V.4.77 etc. etc. The phrase निपातनात्सिद्धम् is very frequently used by Patanjali to show that some technical difficulties in the formation of a word are not sometimes to be taken into consideration, the word given by Panini being the correct one; cf. M.Bh.on I.1.4, III.1.22 etc. etc.; cf also the usual expression बाधकान्येव निपातनानि. The derivation of the word from पत् with नि causal, is suggested in the Rk Pratisakhya where it is stated that Nipatas are laid down or presented as such in manifold senses; cf R. Pr.XII.9; cf also ' घातुसाधनकालानां प्राप्त्यर्थं नियमस्य च | अनुबन्घविकाराणां रूढयर्थ व निपातनम् M. Bh Pradipa on P. V.1.114: cf.also M. Bh. on II.1.27."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "निपातन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಎಸೆಯುವುದು\\/ಎತ್ತಿಹಾಕುವುದು\\/ಮೇಲಿನಿಂದ ಹೊಡೆಯುವುದು",
+            "निष्पत्तिः": "नि+पत्लृ (गतौ) णिच् 'ल्युट्' (३-३-११५)",
+            "प्रयोगाः": "'अवगूर्य चरेत्कृच्छ्रमतिकृच्छ्रं निपातने। कृच्छ्रातिकृच्छ्रौ कुर्वीत विप्रस्योत्पाद्य शोणितम्'",
+            "उल्लेखाः": "मनु० ११-२०८",
+            "content": ""
+        },
+        {
+            "word": "निपातन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಕೆಳಕ್ಕೆ ಇಳಿಸುವುದು\\/ಕೆಳಕ್ಕೆ ತಳ್ಳುವುದು",
+            "content": ""
+        },
+        {
+            "word": "निपातन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಕೆಳಕ್ಕೆ ನೂಕುವುದು",
+            "content": ""
+        },
+        {
+            "word": "निपातन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಸಂಹರಿಸುವುದು\\/ಕೊಲ್ಲುವುದು",
+            "प्रयोगाः": "'परिचयं चललक्ष्यनिपातने भयरुषोश्च तदिङ्गितबोधनम्'",
+            "उल्लेखाः": "रघु० ९-४९",
+            "content": ""
+        },
+        {
+            "word": "निपातन",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ವ್ಯಾಕರಣಲಕ್ಷಣಗಳಿಂದ ನಿಷ್ಪನ್ನವಾಗದ ಶಬ್ದಗಳ ಸಾಧನೆಯ ಒಂದು ಉಪಾಯ",
+            "निष्पत्तिः": "नि+पत्लृ (गतौ)+णिच् कर० 'ल्युट्' (३-३-११७)",
+            "व्युत्पत्तिः": "निपात्यतेऽनेन",
+            "विस्तारः": "'यल्लक्षणेनानुत्पन्नं तत्सर्वं निपातनात्सिद्धम्' महाभा०",
+            "content": ""
+        }
     ]
 }

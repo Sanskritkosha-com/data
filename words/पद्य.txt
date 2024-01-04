@@ -276,5 +276,29 @@
             "word": "पद्य",
             "content": "forming a part of a word or pada; cf. उपोत्तमं नानुदात्तं न पद्यम् R. Pr. I. 29; cf. also पूर्वपद्यः R. Pr. I. 30. The word is used in this sense (पदावयव) mostly in the Prātiśākhya works. The word is used in the sense of पादसंपन्न, made up of the feet (of verses), in the Rk Prātiśākhya in contrast with अक्षर्य, made up of syllables. In this sense the word is derived from the word पाद; cf. पद्याक्षर्ये स उत्थितः R. Pr, XVIII. 3."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "पद्य",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಪರಮಾತ್ಮನ ಪಾದಗಳಿಂದ ಹುಟ್ಟಿದ ನಾಲ್ಕನೆಯ ವರ್ಣದವನು",
+            "content": ""
+        },
+        {
+            "word": "पद्य",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಶ್ಲೋಕ\\/ನಾಲ್ಕು ಪಾದಗಳುಳ್ಳ ಛಂದೋಬದ್ಧವಾದ ವಾಕ್ಯ",
+            "निष्पत्तिः": "'उअप्' (वा० ५-२-१२०)",
+            "व्युत्पत्तिः": "पादाः सन्त्यस्य",
+            "content": ""
+        },
+        {
+            "word": "पद्य",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ತೇವದ ಮಣ್ಣು\\/ಚೆನ್ನಾಗಿ ಒಣಗದಿರುವ ಕೆಸರು",
+            "निष्पत्तिः": "'यत्' (४-४-८७)",
+            "व्युत्पत्तिः": "पदमस्मिन् दृश्यते",
+            "content": ""
+        }
     ]
 }

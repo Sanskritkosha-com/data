@@ -151,5 +151,23 @@
             "word": "प्रातिपदिक",
             "content": "lit.available in every word. The term प्रातिपादिक can be explained as प्रतिपदं गृह्णाति तत् प्रातिपदिकम् cf P.IV. 4. 39. The term प्रातिपदिक, although mentioned in the Brahmana works, is not found in the Pratisakhya works probably because those works were concerned with formed words which had been actually in use. The regular division of a word into the base (प्रकृति) and the affix (प्रत्यय) is available, first in the grammar of Panini, who has given two kinds of bases, the noun-base and the verb-base. The noun-base is named Pratipadika by him while the verb-base is named Dhatu. The definition of Pratipadika is given by him as a word which is possessed of sense, but which is neither a root nor a suffix: cf. अर्थवदधातुरप्रत्ययः प्रातिपदिकम् . P.I. 2.45. Although his definition includes, the krdanta words,the taddhitanta words and the compound words, still, Panini has mentioned them separately in the rule कृत्तद्धितसमासाश्च P. I. 2.45 to distinguish them as secondary noun-bases as compared with the primary noun-bases which are mentioned in the rule अर्थवदधातुरप्रत्ययः प्रातिपदिकम्, Thus,Panini implies four kinds of Pratipadikas मूलभूत, कृदन्त, तद्धितान्त and समास, The Varttikakra appears to have given nine kinds-गुणवचन, सर्वनाम, अव्यय, तद्धितान्त, कृदन्त, समास, जाति, संख्या and संज्ञा. See Varttikas 39 to 44 on P. I. 4. 1. Later on, Bhojaraja in his SringaraPrakasa has quoted the definition अर्थवदधातु given by Panini, and has given six subdivisions.: cf. नामाव्ययानुकरणकृत्तद्धितसमासाः प्रातिपदिकानि Sr. Prak. I. page 6. For the sense con veyed by a Pratipadika or nounbase, see प्रातिपदिकार्थ."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "प्रातिपदिक",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಪ್ರತಿಪತ್ತಿಥಿಯಲ್ಲಿ ಹುಟ್ಟಿದ ಅಗ್ನಿ",
+            "निष्पत्तिः": "'ठञ्' (४-३-११)",
+            "व्युत्पत्तिः": "प्रतिपत्तिथौ भवः",
+            "content": ""
+        },
+        {
+            "word": "प्रातिपदिक",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಒಂದು ಸಂಜ್ಞೆ",
+            "व्युत्पत्तिः": "प्रतिपदे धातुभिन्नपदे भवः",
+            "विस्तारः": "ಧಾತು ಪ್ರತ್ಯಯ ಮತ್ತು ಪ್ರತ್ಯಯಾಂತ ಭಿನ್ನವಾದ ಅರ್ಥವತ್ತಾದ ಶಬ್ದಸ್ವರೂಪವು ಪ್ರಾತಿಪದಿಕಸಂಜ್ಞೆಯನ್ನು ಹೊಂದುವುದು. 'अर्थवदधातुरप्रत्ययः प्रातिपदिकम्' पा० सू० १-२-४५",
+            "content": ""
+        }
     ]
 }

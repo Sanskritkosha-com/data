@@ -261,5 +261,38 @@
             "word": "क्षिप्र",
             "content": "lit. rapid, accelerated, a short name given in the a Prātiśākhya works to a Saṁdhi or euphonic combination of the vowels इ, उ, ऋ,; लृ with a following dissimilar vowel; cf. Uvvaṭa Bhāṣya on R.Pr. III.10; cf. also इको यणचि P.VI.1.77. The name Kṣipra is given to this Saṁdhi possibly because the vowel, short or long, which is turned into a consonant by this saṁdhi becomes very short (i.e. shorter than a short vowel i.e. a semi-vowel). The word क्षैप्र is also used in this sense referring to the Kṣiprasaṁdhi."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "क्षिप्र",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಬೇಗ \\/ಜಾಗ್ರತೆ \\/ಶೀಘ್ರ",
+            "निष्पत्तिः": "क्षिप (प्रेरणे)'रक्' (उ० २-१३)",
+            "content": ""
+        },
+        {
+            "word": "क्षिप्र",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಕ್ಷಿಪ್ರ ಸಂಜ್ಞೆಯುಳ್ಳ ಅಶ್ವಿನಿ ಹಸ್ತ ಮತ್ತು ಪುಷ್ಯ ನಕ್ಷತ್ರಗಳು",
+            "प्रयोगाः": "'क्षिप्रं दस्ररवीज्यम्'",
+            "उल्लेखाः": "काला० ४",
+            "content": ""
+        },
+        {
+            "word": "क्षिप्र",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಸಕ್ಥಿ ಸಂಬಂಧವಾದ ಹನ್ನೊಂದು ಮರ್ಮಗಳಲ್ಲೊಂದು",
+            "प्रयोगाः": "'तत्र सक्थिमर्माणि क्शिप्रतलहृदयकूर्चशिरोगुल्फेन्द्रबस्तिजान्वाण्युर्विलोहिताक्षाणि विटपं चेति'",
+            "उल्लेखाः": "सुश्रुत० शारीर० ६-६",
+            "content": ""
+        },
+        {
+            "word": "क्षिप्र",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಶೀಘ್ರವಾದ \\/ವೇಗವಾದ \\/ಬೇಗ ಹೊಗುವ",
+            "प्रयोगाः": "'महारथः पुष्परथं रथाङ्गी क्षिप्रं क्षपानाथ इवाधिरूढः'",
+            "उल्लेखाः": "माघ० ३-२२",
+            "content": ""
+        }
     ]
 }

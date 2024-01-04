@@ -212,5 +212,40 @@
             "word": "सवर्ण",
             "content": "cognate, homophonic: a letter belonging to the same technical category of letters possessing an identical place of utterance and internal effort cf. तुल्यास्यप्रयत्नं सवर्णम् P. 1, 1. 9. For example, the eighteen varieties of अ, due to its short, long and protracted nature as also due to its accents and nasalization, are savarna to each other. The vowels ऋ and लृ are prescribed to be considered as Savarna although their place of utterance differs. The consonants in each class of consonants are savarna to one another, but by the utterance of one, another cannot be taken except when the vowel उ has been applied to the first. Thus कु stands for क्, ख्, ग्, घ् and ङ्. cf. तुल्यास्यप्रयत्नं सवर्णम् P. 1, I. 9 and अणुदित्सवर्णस्य चाप्रत्ययः P. I. 1. 69."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "सवर्ण",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಸಮಾನ ಸ್ಥಾನ ಮತ್ತು ಪ್ರಯತ್ನವುಳ್ಳ ವರ್ಣ \\/ಒಂದೇ ಸ್ಥಾನದಲ್ಲಿ ಮತ್ತು ಒಂದೇ ಪ್ರಯತ್ನದಿಂದ ಹುಟ್ಟುವ ಅಕ್ಷರ",
+            "प्रयोगाः": "'तुलास्यप्रयत्नं सवर्णम्'",
+            "उल्लेखाः": "पा० सू० १-१-९",
+            "विस्तारः": "ताल्वादिस्थानमाभ्यन्तरप्रयत्नश्चेतद्द्वयं यस्य येन तुल्यं तन्मिथः सवर्णसञ्ज्ञं स्यात् ।",
+            "content": ""
+        },
+        {
+            "word": "सवर्ण",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಸಮಾನವಾದ \\/ಸದೃಶವಾದ",
+            "प्रयोगाः": "'ग्रथितमौलिरसौ वनमालाया तरुपलाशसवर्णतनुच्छदः'",
+            "उल्लेखाः": "रघु० ९-५१",
+            "content": ""
+        },
+        {
+            "word": "सवर्ण",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಸಮಾನ ವರ್ಣವುಳ್ಳ \\/ಒಂದೇ ವಿಧ ಬಣ್ಣವುಳ್ಳ",
+            "प्रयोगाः": "'उच्चैर्महारजतराजिविराजितासौ दुर्वर्णभित्तिरिह सान्द्रसुधासवर्णा'",
+            "उल्लेखाः": "माघ० ९-२८",
+            "content": ""
+        },
+        {
+            "word": "सवर्ण",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಸಮಾನ ಜಾತಿಯ \\/ಒಂದೇ ಜಾತಿಯ",
+            "प्रयोगाः": "'पाणिग्रह्णसंस्कारः सवर्णासूपदिश्यते'",
+            "उल्लेखाः": "मनु० ३-४३",
+            "content": ""
+        }
     ]
 }

@@ -123,5 +123,32 @@
             "word": "चरितार्थ",
             "content": "which has got already a scope of application; the term is used by commentators in connection with a rule or a word forming a part of a rule which applies in the case of some instances and hence which cannot be said to be व्यर्थ (superfluous) or without any utility and as a result cannot be said to be capable of allowing some conclusion to be drawn from it according to the dictum व्यर्थं सज्ज्ञापयति  cf. अपवादो यद्यन्यत्र चरितार्थस्तर्ह्यन्तरङ्गेण बाध्यते Par. Sek. Pari. 65."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "चरितार्थ",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಸಫಲವಾದ \\/ಸಾರ್ಥಕವಾದ \\/ಕೈಗೂಡಿದ ಕಾರ್ಯವುಳ್ಳ",
+            "व्युत्पत्तिः": "चरितः प्राप्तः अर्थो येन",
+            "प्रयोगाः": "'त्वामद्य लब्ध्वामृततृप्तिभाजां स्वदेवभूयं चरितार्थमस्तु'",
+            "उल्लेखाः": "नैष० ३-१०१",
+            "content": ""
+        },
+        {
+            "word": "चरितार्थ",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಅರ್ಥಯುಕ್ತವಾದ \\/ಅರ್ಥಗರ್ಭಿತವಾದ \\/ಅನ್ವರ್ಥವಾದ",
+            "प्रयोगाः": "'प्रवृत्तिरासीत् शब्दानां चरितार्था चतुष्टयी'",
+            "उल्लेखाः": "कुमा० २-१७",
+            "content": ""
+        },
+        {
+            "word": "चरितार्थ",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಉಚ್ಿತವಾದ \\/ಯುಕ್ತವಾದ \\/ಸಂಗತವಾದ",
+            "प्रयोगाः": "'तत्प्रत्ययाच्च कुसुमायुधबन्धुरेनामाश्वासयत् सुचरितार्थपदैर्वचोभिः'",
+            "उल्लेखाः": "कुमा० ४-४५",
+            "content": ""
+        }
     ]
 }

@@ -99,5 +99,21 @@
             "word": "प्रगीत",
             "content": "a fault of utterance or recital where a simple word in conversation or recital is uttered in a tone proper for singing or in a manner suitable for singing; cf प्रगीतः सामवदुच्चारितः Kaiy. on M.Bh.Ahni.1."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "प्रगीत",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಉತ್ತಮವಾದ ಗಾನ \\/ಒಳ್ಳೆಯ ಸಂಗೀತ \\/ಚೆನ್ನಾಗಿ ಹಾಡುವುದು",
+            "व्युत्पत्तिः": "प्रकृष्टं गीतम्",
+            "content": ""
+        },
+        {
+            "word": "प्रगीत",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಉತ್ತಮವಾಗಿ ಹಾಡಲ್ಪಟ್ಟ",
+            "व्युत्पत्तिः": "प्रकर्षॆण गीतम्",
+            "content": ""
+        }
     ]
 }

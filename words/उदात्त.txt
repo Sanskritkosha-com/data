@@ -316,5 +316,57 @@
             "word": "उदात्त",
             "content": "the acute accent defined by Pāṇini in the words उचैरुदात्तः P.I.2. 29. The word उच्चैः is explained by Patañjali in the words 'आयामो दारुण्यं अणुता स्वस्य इति उचैःकराणि शब्दस्य' where आयाम (गात्रनिग्रह restriction of the organs), दारुण्य (रूक्षता rudeness) and स्वस्य अणुता (कण्ठस्य संवृतता closure of the glottis) are given as specific characteristics of the acute accent. The acute is the prominent accent in a word-a simple word as also a compound word-and when a vowel in a word is possessed of the acute accent, the remaining vowels have the अनुदात्त or the grave accent. Accent is a property of vowels and consonants do not possess any independent accent. They possess the accent of the adjoining vowel connected with it. The acute accert corresponds to what is termed 'accent' in English and other languages."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "उदात्त",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಮೇಲುಭಾಗದಲ್ಲಿ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಸ್ವರವರ್ಣ",
+            "निष्पत्तिः": "उद् + दाञ् (दाने)'क्तः' (३-२-१०२)",
+            "व्युत्पत्तिः": "उद् उच्चैरादीयते",
+            "प्रयोगाः": "'निहन्त्यरीनेकपदे य उदात्तस्वरानिव' । 'उच्चैरुदात्तः' ।",
+            "उल्लेखाः": "माघ० २-९५, पा० सू०",
+            "content": ""
+        },
+        {
+            "word": "उदात्त",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ನಾಲ್ಕು ವಿಧ ನಾಯಕರಲ್ಲೊಬ್ಬ",
+            "content": ""
+        },
+        {
+            "word": "उदात्त",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ನಗಾರಿ \\/ಭೇರಿ \\/ದುಂದುಭಿ",
+            "content": ""
+        },
+        {
+            "word": "उदात्त",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಒಂದು ಅರ್ಥಾಲಂಕಾರ",
+            "प्रयोगाः": "'लोकातिशयसम्पत्तिवर्णनोदात्तमुच्यते । यद्वापि प्रस्तुतस्याङ्गं महतां चरितं भवेत् ॥'",
+            "उल्लेखाः": "सा० द० १०-९४",
+            "content": ""
+        },
+        {
+            "word": "उदात्त",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಘನತೆ ಹೊಂದಿದ \\/ಹಿರಿಮೆ ಪಡೆದ \\/ಶ್ರೇಷ್ಠವಾದ",
+            "content": ""
+        },
+        {
+            "word": "उदात्त",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಪ್ರಸಿದ್ಧವಾದ",
+            "प्रयोगाः": "'तस्याभवद्दतक इत्युदात्तः क्षमी मृदुर्धर्मपरस्तनूजः'",
+            "उल्लेखाः": "माघ० २०-८२",
+            "content": ""
+        },
+        {
+            "word": "उदात्त",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಉದಾರ \\/ತ್ಯಾಗಶೀಲ \\/ದಾನಿ",
+            "content": ""
+        }
     ]
 }

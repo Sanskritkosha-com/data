@@ -268,5 +268,54 @@
             "word": "शिक्षा",
             "content": "general name given to a work on Phonetics. Although there are many such works which are all called शिक्षा, the work, which is often referred to, by the word, is the Siksa named पाणिनीयशिक्षा, about the authorship of which, however, there is a doubt whether it was the work of Panini or of somebody belonging to his school. The Siksa works are help ful, no doubt, for the study of grammar, but no topic belonging to Siksa is given by Panini which apparently means that these works do not come under the subject or province of Grammar. The reason why the Siksa topics are not given by Panini, is worth consideration. These Siksa works are not specifically related to a particular Veda and it cannot be said whether they preceded or succeeded the Pratisakhya works."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "शिक्षा",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಉಪದೇಶ \\/ಶಿಕ್ಷಣ \\/ಕಲಿಸುವುದು",
+            "निष्पत्तिः": "शिक्ष (विद्योपादाने)'अः' (३-३-१०३)",
+            "प्रयोगाः": "'अभूच्च नम्रः प्रणिपातशिक्षया पितुर्मुदं तेन ततान सोऽर्भकः'",
+            "उल्लेखाः": "रघु० ३-२५",
+            "content": ""
+        },
+        {
+            "word": "शिक्षा",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಕಲಿಯುವುದು \\/ಅಭ್ಯಾಸ ಮಾಡುವುದು",
+            "प्रयोगाः": "'परिमोहयमाणेन शिक्षालाघवलीलया'",
+            "उल्लेखाः": "किरा० १५-३६",
+            "content": ""
+        },
+        {
+            "word": "शिक्षा",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಬಲಶಾಲಿಯಾಗುವ ಅಪೇಕ್ಷೆ \\/ಶಕ್ತಿಯುತನಾಗಿ ಆಗುವ ಆಸೆ",
+            "प्रयोगाः": "'पाण्डवः परिचक्राम शिक्षया रणशिक्षया'",
+            "उल्लेखाः": "किरा० १५-३७",
+            "content": ""
+        },
+        {
+            "word": "शिक्षा",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಆರು ವೇದಾಂಗಗಳಲ್ಲೊಂದು",
+            "निष्पत्तिः": "शिक्ष (विद्योपादाने)'अः' (३-३-१०३)",
+            "व्युत्पत्तिः": "शिक्ष्यते अनेन स्थानप्रयत्नादिकम्",
+            "प्रयोगाः": "'समीपवृक्षेष्विह बद्धनीडाः शिक्षोपपन्नां श्रुतिमुद्गृणान्तः'",
+            "उल्लेखाः": "याद० १८-६१",
+            "content": ""
+        },
+        {
+            "word": "शिक्षा",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ವಿದ್ಯೆ \\/ಕಲೆ \\/ಶಾಸ್ತ್ರ",
+            "content": ""
+        },
+        {
+            "word": "शिक्षा",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಪಳಗಿಸುವುದು",
+            "content": ""
+        }
     ]
 }

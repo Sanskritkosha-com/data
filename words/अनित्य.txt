@@ -185,5 +185,47 @@
             "word": "अनित्य",
             "content": "(1) not nitya or obligatory optional; said of a rule or paribhāṣā whose application is volun tary). Regarding the case and con= jugational affixes it can be said that those affixes can, in a way: be looked upon as nitya or obligatory, as they have to be affixed to a crude nominal base or a root; there being a dictum that no crude base without an affix can be used as also, no affix alone without a base can be used. On the other hand, the taddhita and kṛt affixes as also compounds are voluntary as, instead of them an independent word or a phrase can be used to convey the sense. For a list of such nitya affixes see M. Bh. on V. 4.7; (2) the word अनित्य is also used in the sense of not-nitya, the word नित्य being taken to mean कृताकृतप्रसङ्गि occurring before as well as after another rule has been applied, the latter being looked upon as अनित्य which does not do so. This 'nityatva' has got a number of exceptions and limitations which are mentioned in Paribhāṣās 43-49 in the Paribhāṣenduśekhara."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "अनित्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ನಶ್ವರ \\/ ನಾಶಸ್ವಭಾವದ",
+            "व्युत्पत्तिः": "न नित्यः ।",
+            "प्रयोगाः": "'तत्र गन्धवती पृथिवी । सा द्विविधा । नित्याऽनित्या च । नित्या परमाणुगुरूपा । अनित्या कार्यरूपा' ॥",
+            "उल्लेखाः": "त० सं० ।",
+            "content": ""
+        },
+        {
+            "word": "अनित्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಅಸ್ಥಿರ \\/ ಸಂದಿಗ್ಧ \\/ ಅನಿಶ್ಚಿತವಾದ",
+            "प्रयोगाः": "'अनित्यो विजयो यस्मात् दृश्यते युध्यमानयोः । पराजयश्च सङ्ग्रामे तस्माद्युद्धं विवर्जयेत्' ।",
+            "उल्लेखाः": "मनु० ७-१९९ ।",
+            "content": ""
+        },
+        {
+            "word": "अनित्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಆಕಸ್ಮಿಕ \\/ ನೈಮಿತ್ತಿಕ \\/ ಆಗಾಗ್ಗೆ ಸಂಭವಿಸುವ",
+            "content": ""
+        },
+        {
+            "word": "अनित्य",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ನಿತ್ಯವಲ್ಲದ \\/ ವಿಶೇಷರೀತಿಯ",
+            "निष्पत्तिः": "'आनाय्योऽनित्ये' पा०सू० (३-१-१२७) ।",
+            "प्रयोगाः": "'स हि गार्हपत्यादानीयतेऽनित्यश्च सततमप्रज्वलन्त्' ।",
+            "उल्लेखाः": "सि० कौ० ।",
+            "content": ""
+        },
+        {
+            "word": "अनित्य",
+            "पदविभागः": "अव्यय",
+            "कन्नडार्थः": "ಆಗಾಗ್ಗೆ \\/ ನೈಮಿತ್ತಿಕವಾಗಿ \\/ ಸಮಯ ಬಂದಾಗ",
+            "प्रयोगाः": "'अनित्यं हि स्थितो यस्मात् तस्मादतिथिरुच्यते' ।",
+            "उल्लेखाः": "मनु० ३-१०२ ।",
+            "content": ""
+        }
     ]
 }

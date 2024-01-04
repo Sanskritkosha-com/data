@@ -343,5 +343,54 @@
             "word": "स्वर",
             "content": "(1) vowel, as contrasted with a consonant which never stands by itself independently. The word स्वर is defined generally :as स्वयं राजन्ते ते स्वराः (M. Bh. on pan. The word स्वर is always used in the sense of a vowel in the Pratisakhya works; Panini however has got the word अच् (short term or Pratyahara formed of अ in 'अइउण्' and च् at the end of एऔच् Mahesvara sutra 4) always used for vowels, the term स्वर being relegated by him to denote accents which are also termed स्वर in the ancient Pratisakhyas and grammars. The number of vowels, although shown differently in diferent ancient works, is the same, viz. five simple vowels अ,इ,उ, ऋ, लृ, and four diphthongs ए, ऐ, ओ, and औ. These nine, by the addition of the long varieties of the first four such as आ, ई, ऊ, and ऋ, are  increased to thirteen and further to twentytwo by adding the pluta forms, there being no long variety for लृ and short on for the diphthongs. All these twentytwo varieties have further subdivisions, made on the criterion of each of them being further characterized by the properties उदात्त, अनुदIत्त and स्वरित and निरनुनासिक and सानुनासिक. (2) The word स्वर also means accent, a property possessed exclusively by vowels and not by consonants, as they are entirely dependent on vowels and can at the most be said to possess the same accent as the vowel with which they are uttered together. The accents are mentioned to be three; the acute (उदात्त), the grave अनुदात्त and the circumflex (स्वरित) defined respectively as उच्चैरुदात्तः, नीचैरनुदात्तः and समाहारः स्वरितः by Panini (P. I. 2.29, 30,31). The point whether समाहार means a combination or coming together one after another of the two, or a commixture or blending of the two is critically discussed in the Mahabhasya. (vide M. Bh. on P. I. 2.31). There are however two kinds of svarita mentioned by Panini and found actually in use : (a) the independent स्वरित as possessed by the word स्वर् (from which possibly the word स्वरित was formed) and a few other words as also many times by the resultant vowel out of two vowels (उदात्त and अनुदात्त) combined, and (b) the enclitic or secondary svarita by which name, one or more grave vowels occurring after the udatta, in a chain, are called cf P. VIII. 2.4 VIII. 2.6 and VIII 4.66 and 67. The topic of accents is fully discussed by the authors of the Pratisakhyas as also by Panini. For details, see R. Pr. III. 1.19; T.Pr. 38-47 V. Pr. I. 108 to 132, II. I.65 A. Pr. Adhyaya l padas 1, 2, 3 and Rk. Tantra 51-66; see also Kaiyata on P. I. 2.29; (3) The word स्वर is used also in the sense of a musical tone. This meaning arose out of the second meaning ' accent ' which itself arose from the first viz. 'vowel', and it is fully discussed in works explanatory of the chanting of Samas. Patanjali has given Seven subdivisions of accents which may be at the origin of the seven musical notes. See सप्तस्वर above."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "स्वर",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಉದಾತ್ತ ಮೊದಲಾದ ೩ ಸ್ವರಗಳು",
+            "निष्पत्तिः": "स्वृ (शब्दोपतापयोः) 'अच्' (३-१-१३४)",
+            "व्युत्पत्तिः": "स्वरन्ति शब्दायन्ते",
+            "प्रयोगाः": "'निहन्त्यरीनेकपदे य उदात्तस्वरानिव' , 'अनुदात्तो हृदि ज्ञेयः मूर्ध्न्युदात्त उदाहृतः। स्वरितः कर्णमूलीयः सर्वास्ये प्रचयः स्मृतः'",
+            "उल्लेखाः": "माघ० २-९५ , पा० शि०",
+            "विस्तारः": "उच्चैरादीयते उच्चार्यते इति उदात्तः। नीचैरनुदात्तः। समाहारः स्वरितः। अचः स्वराः।",
+            "content": ""
+        },
+        {
+            "word": "स्वर",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಸ್ವರವರ್ಣಗಳು \\/ಅಚ್ ವರ್ಣಗಳು",
+            "निष्पत्तिः": "स्वृ (शब्दोपतापयोः) कर० 'अच्'",
+            "व्युत्पत्तिः": "स्वराः अचः , तद्धर्मत्वादुदात्तादयोऽपि। स्वर्यते शब्द्यतेऽनेन व्यञ्जनम्",
+            "प्रयोगाः": "'अ इ उ ऋ वर्णानां प्रत्येकमष्टादशभेदाः। ऌ वर्णस्य द्वादश। तेषां दीर्घाभावात्। एचामपि द्वादश। तेषां ह्रस्वाभावात्'",
+            "उल्लेखाः": "पा० शि०",
+            "विस्तारः": "'एकमात्रो भवेद्ध्रस्वः द्विमात्रो दीर्घ उच्यते। त्रिमात्रस्तु प्लुतो ज्ञेयः व्यञ्जनं त्वर्धमात्रकम्'",
+            "content": ""
+        },
+        {
+            "word": "स्वर",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಮೂಗಿನಿಂದ ಹೊರಡುವ ಗಾಳಿ",
+            "विस्तारः": "'स्वरः शब्देऽपि षड्जादौ' हेम०",
+            "content": ""
+        },
+        {
+            "word": "स्वर",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಷಡ್ಜ ಮೊದಲಾದ ಸಪ್ತ ಸ್ವರಗಳು",
+            "प्रयोगाः": "'कलतया वचसः परिवादिनीस्वरजिता रजिता वशमाययुः'",
+            "उल्लेखाः": "माघ० ६-९",
+            "विस्तारः": "'स्युः षड्जर्षभगान्धारमध्यमाः पञ्चमस्तथा। धैवतश्च निषादश्च तन्त्रीकण्ठोद्भवाः स्वराः' वैज०",
+            "content": ""
+        },
+        {
+            "word": "स्वर",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ನಾದ \\/ಕಂಠದಿಂದ ಹೊರಡುವ ಧ್ವನಿ",
+            "प्रयोगाः": "'स्वरेण तस्याममृतस्रुतेव प्रजल्पितायामभिजातवाचि'",
+            "उल्लेखाः": "कुमा० १-४५",
+            "विस्तारः": "'स्वरो नासासमीरणे । उदात्तादावकारादौ षड्जादौ च ध्वनौ पुमान्' मेदि०",
+            "content": ""
+        }
     ]
 }

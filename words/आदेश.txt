@@ -250,5 +250,57 @@
             "word": "आदेश",
             "content": "(1) substitute as opposed to sthānin, the original. In Pāṇini's grammar there is a very general maxim, possessed of a number of exceptions, no doubt, that 'the substitute behaves like the original' (स्थानिवदादेशः अनल्विधौ P.I.1.56.); the application of this maxim is called स्थानिवद्भाव; for purposes of this स्थानिवद्भाव the elision (लोप) of a phonetic element is looked upon as a sort of substitute;cf. उपधालेपस्य स्थानिवत्त्वात् Kāś. on P.I.1.58. Grammarians many times look upon a complete word or a word-base as a substitute for another one, although only a letter or a syllable in the word is changed into another, as also when a letter or syllable is added to or dropped in a word; cf. पचतु, पचन्तु ... इमेप्यादेशाः । कथम् । आदिश्यते यः स आदेशः । इमे चाप्यादिश्यन्ते । M. Bh. on I.1.56; cf also सर्वे सर्वपदादेशा दाक्षीपुत्रस्य पाणिनेः M.Bh. on P. I.1.20; cf. also अनागमकानां सागमका आदेशाः M. Bh. on I.1.20: (2) indication, assignment; cf. योयं स्वरादेशः अन्तोदात्तं, वधेराद्युदात्तत्वं, स्वः स्वरितमिति आदेशः R.Pr.I.30-32; cf. also आदेशः उपदेशः com. on Tai.-Prāt. II.20: cf. also अनादेशे अविकारः V.Pr.IV.131, where Uvvaṭa remarks यत्र उदात्तादीनां स्वराणां सन्धौ आदेशो न क्रियते तत्र अविकारः प्रत्येतव्यः । cf. also एकारो विभक्त्यादेशः छन्दसि A.Pr. II.1.2, where ए is prescribed as a substitute for a caseaffix and त्ये and अस्मे are cited as examples where the acute acent is also prescribed for the substitute ए."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "आदेश",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಅಪ್ಪಣೆ \\/ಆಜ್ಞೆ",
+            "निष्पत्तिः": "आ + दिश (अतिसर्जने)भावे 'घञ्' (३-३-१८)",
+            "प्रयोगाः": "'आदेशं देशकालज्ञः शिष्यः शासितुरानतः'",
+            "उल्लेखाः": "रघु० १-९२",
+            "content": ""
+        },
+        {
+            "word": "आदेश",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಉಪದೇಶ \\/ಸಲಹೆ",
+            "content": ""
+        },
+        {
+            "word": "आदेश",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಸೂಚನೆ \\/ಮುಂದಾಗಿ ತಿಳಿಸುವಿಕೆ",
+            "content": ""
+        },
+        {
+            "word": "आदेश",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ವ್ಯಾಕರಣದಲ್ಲಿ ಒಂದು ವರ್ಣದ ಅಥವಾ ಧಾತುವಿನ ಸ್ಥಾನದಲ್ಲಿ ಮತ್ತೊಂದು ವರ್ಣವು ಅಥವಾ ಧಾತುವು ಬರುವುದು",
+            "प्रयोगाः": "'धातोः स्थान इवादेशं सुग्रीवं सन्न्यवेशयत्' । 'स्थानिवदादेशोऽनविधौ' ।",
+            "उल्लेखाः": "रघु० १२-५८ । पा० सू० १-१-५६",
+            "content": ""
+        },
+        {
+            "word": "आदेश",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಜ್ಯೋತಿಃಶಾಸ್ತ್ರದಲ್ಲಿ ಗ್ರಹಗಳ ಯೋಗದಿಂದುಂಟಾಗುವ ಶುಭಾಶುಭಫಲಗಳು",
+            "content": ""
+        },
+        {
+            "word": "आदेश",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಭವಿಷ್ಯದ ನುಡಿ \\/ಮುಂದಾಗುವುದನ್ನು ಹೇಳುವಿಕೆ",
+            "प्रयोगाः": "'अन्यथा क्व सिद्धादेशप्रत्ययप्रार्थितायाः शिम्हलेश्वरदुहितुः प्रवहणभङ्गनिमग्नायाः फलकासादनम् ॥'",
+            "उल्लेखाः": "रत्ना० १",
+            "content": ""
+        },
+        {
+            "word": "आदेश",
+            "पदविभागः": "पुल्लिङ्गः",
+            "कन्नडार्थः": "ಉಪದೇಶದಿಂದ ಮಾತ್ರ ತಿಳಿಯಲ್ಪಡುವ ಬ್ರಹ್ಮ",
+            "निष्पत्तिः": "कर्म० 'घञ्' (३-३-१९)",
+            "content": ""
+        }
     ]
 }

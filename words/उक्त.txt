@@ -249,5 +249,33 @@
             "word": "उक्त",
             "content": "prescribed, taught, lit, said (already). उक्तं वा is a familiar expression in the Mahābhāṣya and the Vārttikas referring usually to something already expressed.Sometimes this expression in the Mahābhāṣya, referring to something which is not already expressed, but which could be found subsequently expressed, leads to the conclusion that the Mahābhāṣyakāra had something like a 'Laghubhāṣya' before him at the time of teaching the Mahābhāṣya. See Kielhorn's Kātyāyana and  Patañjali, also Mahābhāṣya D.E. S.Ed. Vol. VII, pages 71, 72."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "उक्त",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಉಕ್ತಿ \\/ಮಾತು",
+            "निष्पत्तिः": "वच (परिभाषणे)भावे 'क्तः'(३-३-११४)",
+            "प्रयोगाः": "'बालादपि ग्रहीतव्यं युक्तमुक्तं ननीषिभिः'",
+            "उल्लेखाः": "हितो०",
+            "content": ""
+        },
+        {
+            "word": "उक्त",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಹೇಳಲ್ಪಟ್ಟ",
+            "निष्पत्तिः": "वच'क्तः' (३-२-१०२)",
+            "प्रयोगाः": "'सम्प्रत्यसाम्प्रतं वक्तुमुक्ते मुसलपाणिना'",
+            "उल्लेखाः": "माघ० २-७०",
+            "content": ""
+        },
+        {
+            "word": "उक्त",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ತಿಳಿಸಲ್ಪಟ್ಟ \\/ಹೇಳಲ್ಪಟ್ಟ",
+            "प्रयोगाः": "'असावनुक्तोऽपि सहाय एव'",
+            "उल्लेखाः": "कुमा० ३-२१",
+            "content": ""
+        }
     ]
 }

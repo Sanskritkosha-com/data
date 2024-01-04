@@ -255,5 +255,45 @@
             "word": "कारक",
             "content": "lit. doer of an action. The word is used in the technical sense ; 1 of 'instrument of action'; cf कारकशब्दश्च निमित्तपर्यायः । कारकं हेतुरिति नार्थान्तरम् । कस्य हेतुः । क्रियायाः Kāś. on P.I. 4.23: cf. also कारक इति संज्ञानिर्देशः । साधकं निर्वर्तकं कारकसंज्ञं भवति । M.Bh. on P. I. 4.28. The word 'kāraka' in short, means 'the capacity in which a thing becomes instrumental in bringing about an action'. This capacity is looked upon as the sense of the case-affixes which express it. There are six kārakas given in all grammar treatises अपादान, संप्रदान, अधिकरण, करण, कर्मन् and कर्तृ to express which the case affixes or Vibhaktis पञ्चमी, चतुर्थी, सप्तमी, तृतीया, द्वितीया and प्रथमा are respectively used which, hence, are called Kārakavibhaktis as contrasted with Upapadavibhaktis, which show a relation between two substantives and hence are looked upon as weaker than the Kārakavibhaktis; cf. उपपदविभक्तेः कारकविभक्तिर्बलीयसी Pari. Śek. Pari.94. The topic explaining Kārakavibhaktis is looked upon as a very important and difficult chapter in treatises of grammar and there are several small compendiums written by scholars dealing with kārakas only. For the topic of Kārakas see P. I. 4.23 to 55, Kat, II. 4.8-42, Vyākaraṇa Mahābhāṣya Vol. VII. pp.262-264 published by the D. E. Society, Poona."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "कारक",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಕರ್ತೃತ್ವಾದಿ ಸಂಜ್ಞಾಪ್ರಯೋಜಕವಾದ ಒಂದು ಕಾರ್ಯ",
+            "निष्पत्तिः": "डुकृञ् (करणे)'ण्वुल्' (३-१-१३३)",
+            "व्युत्पत्तिः": "करोति कर्तृत्वादिव्यपदेशम्",
+            "content": ""
+        },
+        {
+            "word": "कारक",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಕ್ರಿಯಾ ನಿಷ್ಪಾದಕವಾದ ಕರ್ತೃಕರ್ಮಾದಿಗಳು",
+            "व्युत्पत्तिः": "करोति क्रियां निर्वर्तयति",
+            "प्रयोगाः": "'निष्पत्तिमात्रे कर्तृत्वं सर्वत्रैवास्ति कारके । व्यापारभेदापेक्षायां करणत्वादिसम्भवः ॥'",
+            "content": ""
+        },
+        {
+            "word": "कारक",
+            "पदविभागः": "नपुंसकलिङ्गः",
+            "कन्नडार्थः": "ಹಿಮದ ಗಡ್ಡೆಯಿಂದ ಹೊರಟ ನೀರು",
+            "content": ""
+        },
+        {
+            "word": "कारक",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಕರಕ ಸಂಬಂಧವಾದ",
+            "निष्पत्तिः": "'अण्' (४-३-१२०)",
+            "व्युत्पत्तिः": "करकस्येदम्",
+            "content": ""
+        },
+        {
+            "word": "कारक",
+            "पदविभागः": "विशेष्यनिघ्नम्",
+            "कन्नडार्थः": "ಮಾಡುವವನು \\/ಕೆಲಸ ಮಾಡುವವನು \\/ರಚಿಸುವವನು \\/ನಿರ್ಮಾಣ ಮಾಡುವವನು",
+            "प्रयोगाः": "'दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः'",
+            "उल्लेखाः": "गीता० १-४३",
+            "content": ""
+        }
     ]
 }

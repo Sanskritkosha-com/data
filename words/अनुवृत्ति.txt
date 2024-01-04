@@ -246,5 +246,42 @@
             "word": "अनुवृत्ति",
             "content": "repetition or recurrence of a word from the previous to the subsequent rule or rules, which is necessary for the sake of the intended interpretation. The word is of common use in books on Pāṇini's grammar. This recurrence is generally continuous like the stream of a river (गङ्गास्रोतोवत्); sometimes however, when it is not required in an intermediate rule, although it proceeds further, it is named मण्डूकप्लुत्यानुवृत्ति. In rare cases it is taken backwards in a sūtra work from a subsequent rule to a previous rule when it is called अपकर्ष."
         }
+    ],
+    "SHKB": [
+        {
+            "word": "अनुवृत्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಅನುಸರಣೆ \\/ಸೇವೆ",
+            "निष्पत्तिः": "अनु + वृतु (वर्तने)'क्तिन्' (३-३-९४)",
+            "प्रयोगाः": "'तवानुवृत्तिं न च कर्तुमुत्सहे'",
+            "उल्लेखाः": "कुमा० ५-६५",
+            "content": ""
+        },
+        {
+            "word": "अनुवृत्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಹಿಂದಿನ ಸೂತ್ರಗಳಿಂದ ಮುಂದಿನ ಸೂತ್ರಾರ್ಥಕ್ಕೆ ಬೇಕಾದ ಪದಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು",
+            "content": ""
+        },
+        {
+            "word": "अनुवृत्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ವಿಧೇಯತೆ \\/ಅನುಸರಿಸಿ ನಡೆಯುವಿಕೆ",
+            "प्रयोगाः": "'छन्दानुवृत्तिदुःसाध्याः'",
+            "उल्लेखाः": "माघ० २-१०५",
+            "content": ""
+        },
+        {
+            "word": "अनुवृत्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ಸಾದೃಶ್ಯ \\/ಸಾಮ್ಯ",
+            "content": ""
+        },
+        {
+            "word": "अनुवृत्ति",
+            "पदविभागः": "स्त्रीलिङ्गः",
+            "कन्नडार्थः": "ನೆನಪು \\/ಜ್ಞಾಪಕ",
+            "content": ""
+        }
     ]
 }
