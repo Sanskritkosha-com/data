@@ -227,5 +227,29 @@
             "word": "सन्",
             "content": "(1)desiderative affix स applied to any root in the sense of desire; e. g. चिकीर्षति, जिहीर्षति, बुभूषति; cf धातोः कर्मणः समानकर्तृकादिदिच्छायां वा P.III. 1.7; (2) applied in specific senses possessed by the root to the roots गुप्, तिज्, कित्, मान्, बध्, दान् and शान्; e.g. जुगुप्सते, तितिक्षते, चिकित्सति, मीमांसते, बीभत्सते, दीदांसते, शीशांसते; cf. P. III. 1. 5 and 6. The roots to which सन् is applied are redupli cated and the reduplicated form ending with सन् (स) is looked upon as a different root from the original one for purposes of conjugation, which takes, however, conjugational affixes of the same Pada as the original root; cf. सनाद्यन्ता धातवः III. 1.32."
         }
+    ],
+    "UPSC": [
+        {
+            "word": "सन्",
+            "upasarga": "सम्",
+            "dhatu": "सन्",
+            "artha": "वन षण संभक्तौ",
+            "baseindex": "01.0534",
+            "examples": [
+                "'देवानां पत्नीरुशतीरवन्तु नः प्रावन्तु नस्तुजये वाजसातये। तुजयेऽ पत्यजननाय चान्नसंसननाय' (नि० १२।४५।१)। <hl>अन्नसंसननायान्नलाभाय।</hl>"
+            ],
+            "content": ""
+        },
+        {
+            "word": "सन्",
+            "upasarga": "प्रति + सम्",
+            "dhatu": "सन्",
+            "artha": "वन षण संभक्तौ, षणु दाने",
+            "baseindex": "08.0002,01.0534",
+            "examples": [
+                "'परि व सन्याद् वधात्' (शां० गृ० ३।९।१)।"
+            ],
+            "content": ""
+        }
     ]
 }

@@ -127,5 +127,61 @@
             "word": "कित्",
             "content": "(1) marked with the mute letter क् which is applied by Pāṇini to affixes, for preventing guṇa and vṛddhi substitutes to the preceding इक् vowel (इ, उ, ऋ or लृ); cf.क्ङिति च, Pāṇ. I.1.5; (2) considered or looked upon as marked with mute indicatory क् for preventing guna; cf. असंयोगाल्लिट् कित् and the following P.I.2.5 etc. The affixes of the first type are for instance क्त, क्त्वा, क्तिन् and others. The affixes of the second type are given mainly in the second pada of the first Adhyāya by Pāṇini. Besides the prevention of guṇa and wrddhi, affixes marked with कु or affixes called कित्, cause Saṁprasāraṇa (see P. VI.1.15,16), elision of the penultimate न् (P.VI.4.24), elision of the penultimate vowel (P. VI.4.98,100), lengthening of the vowel (VI.4.15), substitution of ऊ (VI.4.19,21), elision of the final nasal (VI. 4.37), substitution of अI (VI.4.42). The taddhita affixes which are marked with  mute क् cause the Vṛddhi substitute for the first vowel in the word to which they are added."
         }
+    ],
+    "UPSC": [
+        {
+            "word": "कित्",
+            "upasarga": "अप",
+            "dhatu": "कित्",
+            "artha": "कित निवासे रोगापनयने च",
+            "baseindex": "01.1148",
+            "examples": [
+                "'ततो नापचिकित्सति' (अथर्व॰१३.२.१५)। <hl>नापचिकित्सति=प्रमदितुं नेच्छति।</hl>"
+            ],
+            "content": ""
+        },
+        {
+            "word": "कित्",
+            "upasarga": "सम्",
+            "dhatu": "कित्",
+            "artha": "कित निवासे रोगापनयने च",
+            "baseindex": "01.1148",
+            "examples": [
+                "'सङ्केतो गृह्यते जातौ गुणद्रव्यक्रियासु च' (सा॰द॰)। <hl>सङ्कतो रूढिः। सङ्केतः कामिनोनिश्चितपूर्वं सङ्गमस्थानम्।</hl>",
+                "'नामसमेतं कृतसङ्केतं वादयते मृदुवेणुम्' (गीत॰५)।",
+                "कान्तार्थिनी तु या याति सङ्केतं साभिसारिका (अमरः)।",
+                "'सं जानते मनसा सं चिकित्रे' (ऋ० १०।३०।६)। <hl>संचिकित्रे=संचिकितिरे संकेतयन्ति सम्यक् पश्यन्ति बुध्यन्ते।</hl>"
+            ],
+            "content": ""
+        },
+        {
+            "word": "कित्",
+            "upasarga": "वि",
+            "dhatu": "कित्",
+            "artha": "कित निवासे रोगापनयने च",
+            "baseindex": "01.1148",
+            "examples": [
+                "'सा हैनमभिराधयाञ्चकार। स व्यचिकित्सज्जुहवानि मा हौषम्' (श० ब्रा० २।२।४।६)। <hl>व्यचिकित्सत्=व्यमृशत्=व्यचारयत्।</hl>",
+                "'अनन्तरं क्षत्रियस्य तत्र किं विचिकित्स्यते' (भा० शां० १३०।१६)। <hl>प्रायश्चित्तादिकं किं विधीयत इत्याह।</hl>",
+                "'या राजन् विचिकित्सिथाः' (भा० उ० ७३।२७) <hl>मा संशयिष्ठाः।</hl>",
+                "'नूनमिति विचित्सार्थीयो भाषायाम्' (नि० १।५।१२)। <hl>विचिकित्सा विवेकपूर्वकोऽभिप्राय इति दुर्गः।</hl>",
+                "'येयं प्रेते विचिकित्सा मनुष्ये अस्तीत्येके नायमस्तीति चैके' (कठोप० १।१।२०)। <hl>विचिकित्सा संशयः।</hl>",
+                "'द्रव्यस्य विचिकित्सार्थं गुणदोषौ शुभाशुभौ' (भा० पु० ११।२१।३)। <hl>विचिकित्सा तत्त्वबुभत्सा। भागवतादन्यत्र दुर्लभोऽयमर्थः।</hl>",
+                "'न दक्षिणा वि चिकिते न सव्या' (तै० सं० २।१।११।१७)। <hl>वि चिकिते विशेषेण जानामि। दक्षिणा=दक्षिणम्। सव्या सव्यम्।</hl>",
+                "'वि वां चिकित्सदृतचिद्ध नारी' (ऋ० ४।१६।१०)। <hl>विचिकित्सत् संशयितवती सन्दिदिहे।</hl>"
+            ],
+            "content": ""
+        },
+        {
+            "word": "कित्",
+            "upasarga": "नि",
+            "dhatu": "कित्",
+            "artha": "कित निवासे",
+            "baseindex": "01.1148",
+            "examples": [
+                "'नय मां स्वनिकेतनम्' (हरि० १।२९।४२)। <hl>निकेतनं वसतिर्गृहम्।</hl>"
+            ],
+            "content": ""
+        }
     ]
 }
