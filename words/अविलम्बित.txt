@@ -168,5 +168,41 @@
             "word": "अविलम्बित",
             "content": "name of a fault in pronouncing a word where there is the absence of a proper connection of the breath with the place of utterance; 'अविलम्बितः वर्णान्तरासंभिन्नः' Pradīpa on M.Bh I.1.1. There is the word अवलम्बित which is also used in the same sense; cf. ग्रस्तं निरस्तमवलम्बितं निर्हतम् ० M. Bh on I.1.1."
         }
+    ],
+    "AMARA": [
+        {
+            "word": "अविलम्बित",
+            "linga": "N",
+            "artha": "शीघ्रम्",
+            "synonyms": [
+                "शीघ्र",
+                "त्वरित",
+                "लघु",
+                "क्षिप्र",
+                "अर",
+                "द्रुत",
+                "सत्वर",
+                "चपल",
+                "तूर्ण",
+                "अविलम्बित",
+                "आशु",
+                "अभितस्"
+            ],
+            "num": "1.1.80",
+            "text": "सत्वरं चपलं तूर्णमविलम्बितमाशु च । सततानारताश्रान्तसन्तताविरतानिशम् ॥",
+            "content": ""
+        },
+        {
+            "word": "अविलम्बित",
+            "linga": "V",
+            "artha": "अविलम्बितम्",
+            "synonyms": [
+                "उच्चण्ड",
+                "अविलम्बित"
+            ],
+            "num": "3.1.82",
+            "text": "उच्चावचं नैकभेदमुच्चण्डमविलम्बितम् । अरुन्तुदस्तु मर्मस्पृगबाधं तु निरर्गलम् ॥",
+            "content": ""
+        }
     ]
 }

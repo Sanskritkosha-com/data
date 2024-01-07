@@ -213,5 +213,31 @@
             "word": "भुक्त",
             "content": "lit. swallowed or eaten up; the term is used in connection with letters that are uttered imperfect ly on account of the proximity of similar letters."
         }
+    ],
+    "AMARA": [
+        {
+            "word": "भुक्त",
+            "linga": "V",
+            "artha": "भक्षितम्",
+            "synonyms": [
+                "भक्षित",
+                "चर्वित",
+                "लिप्त",
+                "प्रत्यवसित",
+                "गिलित",
+                "खादित",
+                "प्सात",
+                "अभ्यवहृत",
+                "अन्न",
+                "जग्ध",
+                "ग्रस्त",
+                "ग्लस्त",
+                "अशित",
+                "भुक्त"
+            ],
+            "num": "3.1.110",
+            "text": "अभ्यवहृतान्नजग्धग्रस्तग्लस्ताशितं भुक्ते । क्षेपिष्ठक्षोदिष्ठप्रेष्ठवरिष्ठस्थविष्ठबंहिष्ठाः ॥",
+            "content": ""
+        }
     ]
 }

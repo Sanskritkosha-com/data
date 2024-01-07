@@ -29,5 +29,19 @@
             "pagenum": 184,
             "content": "*<i>ciraprasūtā</i>¦ Adj. f. vor langer Zeit gekalbt habend (Kuh), <ls>Rājan.</ls> 15, 33. {part=,seq=13558,type=*,n=2}"
         }
+    ],
+    "AMARA": [
+        {
+            "word": "चिरप्रसूता",
+            "linga": "S",
+            "artha": "दीर्घकालेन_प्रसूता_गौः",
+            "synonyms": [
+                "चिरप्रसूता",
+                "बष्कयणी"
+            ],
+            "num": "2.9.72",
+            "text": "चिरप्रसूता बष्कयणी धेनुः स्यान्नवसूतिका । सुव्रता सुखसंदोह्या पीनोध्नी पीवरस्तनी ॥",
+            "content": ""
+        }
     ]
 }

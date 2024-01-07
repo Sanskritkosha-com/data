@@ -252,5 +252,90 @@
             "word": "संज्ञा",
             "content": "a technical term; a short wording to convey ample sense; a term to know the general nature cf things; convention; cf. वृद्धिशब्द; संज्ञा; आदेचः संज्ञिनः M.Bh. on P.1-1.1. There are two main divisions of संज्ञा-कृत्रिमसंज्ञा or an artificial term such as टि, बु, or भ which is merely conventional, and अकृत्रिमसंज्ञ| which refers to the literal sense conveyed by the word such as अव्यय, सर्वनाम and the like. Some grammar works such as the Candra avoid purely conventional terms, These samjhas are necessary for every scientific treatise. In Panini's grammar, there are the first two chapters giving and explaining the technical terms whose number exceeds well-nigh a hundred."
         }
+    ],
+    "AMARA": [
+        {
+            "word": "संज्ञा",
+            "linga": "S",
+            "artha": "बुद्धिः",
+            "synonyms": [
+                "बुद्धि",
+                "मनीषा",
+                "धिषणा",
+                "धी",
+                "प्रज्ञा",
+                "शेमुषी",
+                "मति",
+                "प्रेक्षा",
+                "उपलब्धि",
+                "चित्",
+                "संविद्",
+                "प्रतिपत्",
+                "ज्ञप्ति",
+                "चेतना",
+                "संज्ञा",
+                "आत्मन्",
+                "प्रधान",
+                "प्रज्ञान"
+            ],
+            "num": "3.3.40",
+            "text": "संज्ञा स्याच्चेतना नाम हस्ताद्यैश्चार्थसूचना । काकेभगण्डौ करटौ गजगण्डकटी कटौ ॥",
+            "content": ""
+        },
+        {
+            "word": "संज्ञा",
+            "linga": "S",
+            "artha": "गायत्रीच्छन्दः",
+            "synonyms": [
+                "गायत्री",
+                "संज्ञा"
+            ],
+            "num": "3.3.40",
+            "text": "संज्ञा स्याच्चेतना नाम हस्ताद्यैश्चार्थसूचना । काकेभगण्डौ करटौ गजगण्डकटी कटौ ॥",
+            "content": ""
+        },
+        {
+            "word": "संज्ञा",
+            "linga": "S",
+            "artha": "हस्तादिनार्थसूचना",
+            "synonyms": [
+                "संज्ञा"
+            ],
+            "num": "3.3.40",
+            "text": "संज्ञा स्याच्चेतना नाम हस्ताद्यैश्चार्थसूचना । काकेभगण्डौ करटौ गजगण्डकटी कटौ ॥",
+            "content": ""
+        },
+        {
+            "word": "संज्ञा",
+            "linga": "S",
+            "artha": "नाम",
+            "synonyms": [
+                "आह्वय",
+                "आख्या",
+                "आह्वा",
+                "अभिधान",
+                "नामधेय",
+                "नामन्",
+                "संज्ञा",
+                "अभिख्या",
+                "गोत्र",
+                "प्रादुस्"
+            ],
+            "num": "3.3.40",
+            "text": "संज्ञा स्याच्चेतना नाम हस्ताद्यैश्चार्थसूचना । काकेभगण्डौ करटौ गजगण्डकटी कटौ ॥",
+            "content": ""
+        },
+        {
+            "word": "संज्ञा",
+            "linga": "S",
+            "artha": "सूर्यपत्नी",
+            "synonyms": [
+                "संज्ञा",
+                "छाया"
+            ],
+            "num": "3.3.40",
+            "text": "संज्ञा स्याच्चेतना नाम हस्ताद्यैश्चार्थसूचना । काकेभगण्डौ करटौ गजगण्डकटी कटौ ॥",
+            "content": ""
+        }
     ]
 }

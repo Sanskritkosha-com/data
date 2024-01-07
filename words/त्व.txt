@@ -275,5 +275,23 @@
             "word": "त्व",
             "content": "tad. affix त्व in the sense of duty, nature or essence, prescribed optionally with the affix तल् (ता); e. g. अश्वत्वम्, गोत्वम्, अश्वता, गोता; cf तस्य भावस्त्वतलौ P. V. 1.119, also cf त्वतलोर्गुणवचनस्य P. VI. 3. 35 Vart.lo."
         }
+    ],
+    "AMARA": [
+        {
+            "word": "त्व",
+            "linga": "V",
+            "artha": "भिन्नार्थकाः",
+            "synonyms": [
+                "भिन्नार्थक",
+                "अन्यतर",
+                "एक",
+                "त्व",
+                "अन्य",
+                "इतर"
+            ],
+            "num": "3.1.81",
+            "text": "साधारणं तु सामान्यमेकाकी त्वेक एककः । भिन्नार्थका अन्यतर एकस्त्वोऽन्येतरावपि ॥",
+            "content": ""
+        }
     ]
 }
