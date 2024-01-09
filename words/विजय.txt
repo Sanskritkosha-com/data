@@ -4,7 +4,7 @@
         {
             "word": "विजय",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "83",
@@ -15,7 +15,7 @@
         {
             "word": "विजय",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "120",
@@ -26,7 +26,7 @@
         {
             "word": "विजय",
             "linga": "पुं",
-            "pagenum": 6,
+            "pagenum": "6",
             "kanda": "",
             "varga": "",
             "eid": "233",
@@ -37,7 +37,7 @@
         {
             "word": "विजय",
             "linga": "पुं",
-            "pagenum": 29,
+            "pagenum": "29",
             "kanda": "मर्त्यकाण्डः",
             "varga": "",
             "eid": "2110",
@@ -48,12 +48,14 @@
         {
             "word": "विजय",
             "linga": "पुं",
-            "pagenum": 33,
+            "pagenum": "33",
             "kanda": "मर्त्यकाण्डः",
             "varga": "",
             "eid": "2435",
             "group": "925",
-            "synonyms": [],
+            "synonyms": [
+                "जय"
+            ],
             "content": "पलायनमपयानं संदावद्रवविद्रवाः ॥ ८०२ ॥\nअपक्रमः समुत्प्रेभ्यो द्रावोऽथ विजयो जयः ।"
         }
     ],

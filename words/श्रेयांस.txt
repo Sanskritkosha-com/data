@@ -4,7 +4,7 @@
         {
             "word": "श्रेयांस",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "12",
@@ -15,12 +15,14 @@
         {
             "word": "श्रेयांस",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "27",
             "group": "3",
-            "synonyms": [],
+            "synonyms": [
+                "श्रेयस्"
+            ],
             "content": "ऋषभो वृषभः श्रेयाञ्श्रेयांसः स्यादनन्तजिदनन्तः ।"
         }
     ],

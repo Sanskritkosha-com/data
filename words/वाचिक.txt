@@ -4,18 +4,20 @@
         {
             "word": "वाचिक",
             "linga": "क्ली",
-            "pagenum": 15,
+            "pagenum": "15",
             "kanda": "देवकाण्डः",
             "varga": "",
             "eid": "905",
             "group": "236",
-            "synonyms": [],
+            "synonyms": [
+                "सन्देशवाच्"
+            ],
             "content": "सुप्रलापः सुवचनं संदेशवाक्तु वाचिकम् ॥ २७६ ॥"
         },
         {
             "word": "वाचिक",
             "linga": "पुं",
-            "pagenum": 16,
+            "pagenum": "16",
             "kanda": "देवकाण्डः",
             "varga": "",
             "eid": "922",

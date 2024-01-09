@@ -4,12 +4,14 @@
         {
             "word": "आचार्य",
             "linga": "पुं",
-            "pagenum": 7,
+            "pagenum": "7",
             "kanda": "",
             "varga": "",
             "eid": "311",
             "group": "26",
-            "synonyms": [],
+            "synonyms": [
+                "अनुयोगकृत्"
+            ],
             "content": "अनुयोगकृदाचार्य उपाध्यायस्तु पाठकः ।"
         }
     ],

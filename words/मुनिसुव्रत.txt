@@ -4,7 +4,7 @@
         {
             "word": "मुनिसुव्रत",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "21",
@@ -15,18 +15,20 @@
         {
             "word": "मुनिसुव्रत",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "30",
             "group": "4",
-            "synonyms": [],
+            "synonyms": [
+                "सुव्रत"
+            ],
             "content": "सुविधिस्तु पुष्पदन्तो मुनिसुव्रतसुव्रतौ तुल्यौ ॥ २९ ॥"
         },
         {
             "word": "मुनिसुव्रत",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "200",

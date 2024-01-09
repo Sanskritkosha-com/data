@@ -4,18 +4,20 @@
         {
             "word": "मागध",
             "linga": "पुं",
-            "pagenum": 32,
+            "pagenum": "32",
             "kanda": "मर्त्यकाण्डः",
             "varga": "",
             "eid": "2417",
             "group": "916",
-            "synonyms": [],
+            "synonyms": [
+                "मगध"
+            ],
             "content": "मागघो मगधः संशप्तका युद्धानिवर्तिनः ।"
         },
         {
             "word": "मागध",
             "linga": "पुं",
-            "pagenum": 36,
+            "pagenum": "36",
             "kanda": "मर्त्यकाण्डः",
             "varga": "",
             "eid": "2751",

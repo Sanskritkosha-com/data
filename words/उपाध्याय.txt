@@ -4,12 +4,14 @@
         {
             "word": "उपाध्याय",
             "linga": "पुं",
-            "pagenum": 7,
+            "pagenum": "7",
             "kanda": "",
             "varga": "",
             "eid": "312",
             "group": "26",
-            "synonyms": [],
+            "synonyms": [
+                "पाठक"
+            ],
             "content": "अनुयोगकृदाचार्य उपाध्यायस्तु पाठकः ।"
         }
     ],

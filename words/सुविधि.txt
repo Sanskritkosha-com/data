@@ -4,7 +4,7 @@
         {
             "word": "सुविधि",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "10",
@@ -15,12 +15,14 @@
         {
             "word": "सुविधि",
             "linga": "पुं",
-            "pagenum": 5,
+            "pagenum": "5",
             "kanda": "",
             "varga": "",
             "eid": "29",
             "group": "4",
-            "synonyms": [],
+            "synonyms": [
+                "पुष्पदन्त"
+            ],
             "content": "सुविधिस्तु पुष्पदन्तो मुनिसुव्रतसुव्रतौ तुल्यौ ॥ २९ ॥"
         }
     ],
